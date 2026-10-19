@@ -425,15 +425,15 @@ His status as a freeman and an outsider to formal [[lore-aelwythanclt|Aelwythan]
 
 ### Patrons and Allies
 
-**[Aldus Thorne]{.name data-type="being/npc"}**, elderly master craftsfolk of Kingshollow and the closest thing Wilred has to a patron, provides shelter and discreet access to his extensive workshop. Their relationship predates Wilred's departure from the Epistémion; Aldus has long been sympathetic to folk practitioners and quietly funded Wilred's research into traditional methods. The bond is strong but carefully maintained.
+[Aldus Thorne]{.name data-type="being/npc"}, elderly master craftsfolk of Kingshollow and the closest thing Wilred has to a patron, provides shelter and discreet access to his extensive workshop. Their relationship predates Wilred's departure from the Epistémion; Aldus has long been sympathetic to folk practitioners and quietly funded Wilred's research into traditional methods. The bond is strong but carefully maintained.
 
-**[The Archivist]{.name data-type="being/npc"}**, a mysterious figure within the Epistémion's Dúnavarre chapter known only to Wilred by coded letters, supplies carefully laundered copies of restricted texts and is a backstop—someone who, should the worst occur, might provide refuge or warning. This relationship is fragile, held together only by shared intellectual conviction and the Archivist's own private doubts about the Order's direction.
+[The Archivist]{.name data-type="being/npc"}, a mysterious figure within the Epistémion's Dúnavarre chapter known only to Wilred by coded letters, supplies carefully laundered copies of restricted texts and is a backstop—someone who, should the worst occur, might provide refuge or warning. This relationship is fragile, held together only by shared intellectual conviction and the Archivist's own private doubts about the Order's direction.
 
 ### Enemies and Threats
 
 **Marendos [[being-teremoszenot|Teremos]]**, an austere enforcer for the Sekran's western investigations, has taken particular interest in "irregular practices" in the Aelwyth borderlands. He does not yet know Wilred by name, but he is asking the right questions. The tension between them is building steadily.
 
-**[The Jealous Circle]{.name data-type="affiliation"}**, a coterie of independent practitioners in the larger towns who resent Wilred's discretion and growing reputation. They would not hesitate to betray him to the Order if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
+[The Jealous Circle]{.name data-type="affiliation"}, a coterie of independent practitioners in the larger towns who resent Wilred's discretion and growing reputation. They would not hesitate to betray him to the Order if they believed it would eliminate a rival—or at minimum, to undercut his standing with shared clients.
 
 ## Plot Hooks
 

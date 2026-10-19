@@ -418,7 +418,7 @@ Tavonei stands 6'2" tall with a heavy build. He has dark skin, black hair, and d
 
 ### Early Years and Training
 
-Tavonei was born the seventh son of a cloth merchant of modest means in [[place-vashuran|Vashurán]], the port on the eastern coast of [[place-kaliharargn|Kalihara]] where the island's spice comes down to foreign hulls, and where a cargo is only as safe as the men walking beside it. His father saw early that the youngest would inherit nothing, and at twelve Tavonei was apprenticed to **[Tuamanei Navoreli]{.name data-type="being/npc"}**, the hardest pack-train guard on the coast. Tuamanei taught him sword and shield, and the rest of the trade with them: how to read weather off the sea and the stars, how to tell when a ridge path has been walked by strangers, how to keep mules, porters and stores in order over a week on the coast road, and how to make a decision on which twenty lives depend.
+Tavonei was born the seventh son of a cloth merchant of modest means in [[place-vashuran|Vashurán]], the port on the eastern coast of [[place-kaliharargn|Kalihara]] where the island's spice comes down to foreign hulls, and where a cargo is only as safe as the men walking beside it. His father saw early that the youngest would inherit nothing, and at twelve Tavonei was apprenticed to [Tuamanei Navoreli]{.name data-type="being/npc"}, the hardest pack-train guard on the coast. Tuamanei taught him sword and shield, and the rest of the trade with them: how to read weather off the sea and the stars, how to tell when a ridge path has been walked by strangers, how to keep mules, porters and stores in order over a week on the coast road, and how to make a decision on which twenty lives depend.
 
 ### Service and Ascendance
 
@@ -509,7 +509,7 @@ The Lost Crown Shipment
 : House Thavoeli hires Tavonei to take what he believes is an ordinary train down the coast road to a foreign hull waiting at Nalurithan. Halfway there he learns the bales hold the regalia of a deposed royal line from across the water, and that several parties are following the train with killing in mind. He can push on and watch his record break, or try the new methods he has always scorned.
 
 The Apprentice's Betrayal
-: Tavonei takes on a young orphan, **[Vaoleni]{.name data-type="being/npc"}**, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
+: Tavonei takes on a young orphan, [Vaoleni]{.name data-type="being/npc"}, as an apprentice guard, seeing in him the raw talent he once had, and over a season on the road he grows almost fatherly toward the boy. Then Vaoleni is revealed as a Veiled Riders spy, sent to learn Tavonei's routes and habits. Tavonei must hunt him down while asking himself whether his own need to control everything made the opening his enemy used.
 
 The Seer's Warning
 : A wandering seer, **Seer [[being-maithorinael|Maithori]]**, reads Tavonei's fortune and tells him his last journey is near and that it will break everything he believes about himself and his craft. He calls her a fraud and cannot forget her. When his next contract takes him somewhere his foresight fails, he begins to wonder whether fate, and not chance, is walking beside him.

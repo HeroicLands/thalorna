@@ -71,7 +71,7 @@ The Battle of the Blood Hills was [[affiliation-blackflame|the Black Flame]]'s m
 
 ## Two Faiths in One Province
 
-The [[affiliation-vylarinmpr|Empire]]'s _therkoi_ (governors) in the western province permitted both faiths. [[affiliation-sacredforge|The Sacred Forge]] kept the temples and the endowments and the Flame kept what the Forge had not wanted, and in the frontier country east of [[place-aureliane|Aurelane]] the second grew faster than the first. By about 248 AF its war-bands had put themselves under one Ashlord, **[Hazarak Bloodhand]{.name data-type="being/npc"}**, a warlord known for his cruelty and his mastery of war, who carried the **[[scenario-maulgashng|Maul of Gashang]]**, a spiked mace the Flame's priest-artificers had made.
+The [[affiliation-vylarinmpr|Empire]]'s _therkoi_ (governors) in the western province permitted both faiths. [[affiliation-sacredforge|The Sacred Forge]] kept the temples and the endowments and the Flame kept what the Forge had not wanted, and in the frontier country east of [[place-aureliane|Aurelane]] the second grew faster than the first. By about 248 AF its war-bands had put themselves under one Ashlord, [Hazarak Bloodhand]{.name data-type="being/npc"}, a warlord known for his cruelty and his mastery of war, who carried the **[[scenario-maulgashng|Maul of Gashang]]**, a spiked mace the Flame's priest-artificers had made.
 
 Hazarak's bands burned the Forge's temples along the Tarvénian frontier, and the Forge called out its knights. The _therkos_, who held that the law protected both faiths, did not move a legion.
 

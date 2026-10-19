@@ -426,11 +426,11 @@ Kumethara stands 5'10" tall with a medium build. She has golden-toned skin, aubu
 
 # Dossier {#dossier}
 
-Kumethara was born into the [Pissakit family]{.name data-type="affiliation/lineage"} in the heavily forested regions of the [[affiliation-byzarianlg|Bizarian League]], in a village built literally within the forest itself. Her father, **[Khodegahran Pissakit]{.name data-type="being/npc"}**, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kumethara was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kumethara showed early aptitude for woodcraft.
+Kumethara was born into the [Pissakit family]{.name data-type="affiliation/lineage"} in the heavily forested regions of the [[affiliation-byzarianlg|Bizarian League]], in a village built literally within the forest itself. Her father, [Khodegahran Pissakit]{.name data-type="being/npc"}, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kumethara was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kumethara showed early aptitude for woodcraft.
 
 Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Kumethara took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
-Now thirty-four, Kumethara has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in **[The Woodcutters' Guild of the Bizarian League]{.name data-type="affiliation/guild"}** but often works independently on specialized contracts.
+Now thirty-four, Kumethara has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in [The Woodcutters' Guild of the Bizarian League]{.name data-type="affiliation/guild"} but often works independently on specialized contracts.
 
 ## Psyche
 
@@ -519,7 +519,7 @@ The Poisoned Forest
 : Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumethara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
 The Apprentice Question
-: A young woman, **[Nargizán Fulunáhr]{.name data-type="being/npc"}**, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
+: A young woman, [Nargizán Fulunáhr]{.name data-type="being/npc"}, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
 
 The Lost Technique
 : An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumethara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.

@@ -31,7 +31,7 @@ considerably wetter site.
 
 ## The Tyrant's Rock
 
-Above the harbor stands the rock where **[Tralkar]{.name data-type="being/npc"}**, the last king of the coast, had his castle until [[lore-ondarethfall|the rising]] threw it down. What is left is a course of foundation stones and a gap where the gate stood. The republic raised no monument to
+Above the harbor stands the rock where [Tralkar]{.name data-type="being/npc"}, the last king of the coast, had his castle until [[lore-ondarethfall|the rising]] threw it down. What is left is a course of foundation stones and a gap where the gate stood. The republic raised no monument to
 its liberation. It climbs the rock instead: once a year the Senate walks up from the Senate house in its bordered
 mantles, in procession and in order of precedence, and stands for the length of an oration among the stones.
 

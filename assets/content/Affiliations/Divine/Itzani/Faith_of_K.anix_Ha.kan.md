@@ -87,7 +87,7 @@ The Faith of K'anish Ha'kan teaches that in the beginning, before even the Four 
 
 ## Worship
 
-The planting season is marked by the **[Chuqtik]{.name data-type="lore/custom"}** ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The seed is not merely blessed but inspected: the Ul'omal turns it in his hands, rejects what is poor, and issues sound seed from the temple's own stores in its place. The rite is therefore also the branch's chief instrument of agricultural policy, and a farmer who arrives with bad seed leaves with good seed and a debt.
+The planting season is marked by the [Chuqtik]{.name data-type="lore/custom"} ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The seed is not merely blessed but inspected: the Ul'omal turns it in his hands, rejects what is poor, and issues sound seed from the temple's own stores in its place. The rite is therefore also the branch's chief instrument of agricultural policy, and a farmer who arrives with bad seed leaves with good seed and a debt.
 
 The harvest festivals are the most lavish celebrations in the Ki'ichek calendar—temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The Ts'enmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'ichek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
 

@@ -103,11 +103,11 @@ An Antevosin is an acolyte, often of mature age, drawn from the building trades 
 
 ### Rites and Festivals
 
-The **[Tracing of the Pattern]{.name data-type="lore/custom"}** is a daily rite in which the temple's central diagram is refreshed in chalk on the sanctum floor and the priest walks its lines, naming the aspects as he passes each. The **[Student's Dialectic]{.name data-type="lore/custom"}** is held weekly: Acharyas and senior Antevasins gather for a formal philosophical exchange on a chosen point of doctrine, with the Parema-Achorya presiding.
+The [Tracing of the Pattern]{.name data-type="lore/custom"} is a daily rite in which the temple's central diagram is refreshed in chalk on the sanctum floor and the priest walks its lines, naming the aspects as he passes each. The [Student's Dialectic]{.name data-type="lore/custom"} is held weekly: Acharyas and senior Antevasins gather for a formal philosophical exchange on a chosen point of doctrine, with the Parema-Achorya presiding.
 
-The **[Consecration of the Pattern]{.name data-type="lore/custom"}** is performed at the completion of a temple or major civic work. The proportions of the work are shown to conform to the canonical cosmic diagram, and the work is dedicated as an offering. The **[Great Dialectic]{.name data-type="lore/gathering"}** is an annual philosophical assembly at the chief temple of each large city. It lasts three days and ends with the public statement of the sect's position on any question of the year.
+The [Consecration of the Pattern]{.name data-type="lore/custom"} is performed at the completion of a temple or major civic work. The proportions of the work are shown to conform to the canonical cosmic diagram, and the work is dedicated as an offering. The [Great Dialectic]{.name data-type="lore/gathering"} is an annual philosophical assembly at the chief temple of each large city. It lasts three days and ends with the public statement of the sect's position on any question of the year.
 
-The **[Founder's Day]{.name data-type="lore/gathering"}** falls at the spring equinox and commemorates the semi-legendary first articulation of the doctrine. New works are dedicated and new Antevasins formally admitted.
+The [Founder's Day]{.name data-type="lore/gathering"} falls at the spring equinox and commemorates the semi-legendary first articulation of the doctrine. New works are dedicated and new Antevasins formally admitted.
 
 ### Ordeals for Favor
 
@@ -119,7 +119,7 @@ The **[Founder's Day]{.name data-type="lore/gathering"}** falls at the spring eq
 
 ### Orders
 
-The **[Academy of the Shining Pattern]{.name data-type="affiliation"}** is the philosophical arm of the sect, the premier school of architecture and theology in Vedyara, with branches in every major city. The **[Shrena of the Scholar-Builders]{.name data-type="affiliation/order"}** is an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
+The [Academy of the Shining Pattern]{.name data-type="affiliation"} is the philosophical arm of the sect, the premier school of architecture and theology in Vedyara, with branches in every major city. The [Shrena of the Scholar-Builders]{.name data-type="affiliation/order"} is an order of architect-priests who take the doctrine into the field, designing and supervising the construction of the sect's great works.
 
 ### Geographic Presence
 

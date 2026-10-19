@@ -70,7 +70,7 @@ The first petition the order accepted was a boundary oath between two Tarvénian
 
 ## The Register
 
-The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its **[Council of the Seal]{.name data-type="affiliation/governmental"}** meets there every quarter. It is licensed by each of the Aureldian crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
+The order keeps a master register at Ólvestra of every contested oath it has ruled on, and its [Council of the Seal]{.name data-type="affiliation/governmental"} meets there every quarter. It is licensed by each of the Aureldian crowns to hold hearings in their courts, and the license is renewed as a political matter. Its rulings bind nobody in law and are obeyed in practice, because the order refuses petitions it cannot substantiate and does not favor the powerful.
 
 ## What It Left
 

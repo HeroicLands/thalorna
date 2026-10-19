@@ -29,7 +29,7 @@ data:
 
 ## The Schism
 
-About 660 AF the craft-lines that rejected the taboos, chiefly the prohibition on killing, were cut off from the shrena by its own rite. The lines cut off kept their skills, their contacts and their knowledge of how the shrena works, and they took a name from what had been done to them: the **[Chinnasutra]{.name data-type="affiliation/criminal"}**, the cut thread.
+About 660 AF the craft-lines that rejected the taboos, chiefly the prohibition on killing, were cut off from the shrena by its own rite. The lines cut off kept their skills, their contacts and their knowledge of how the shrena works, and they took a name from what had been done to them: the [Chinnasutra]{.name data-type="affiliation/criminal"}, the cut thread.
 
 ## Why It Matters
 

@@ -16,7 +16,7 @@ needed for [[lore-njordurritlbinding|the Ritual of Binding]].
 
 The name is a difficulty, and the sagas do not resolve it.
 
-**[Hafvald]{.name data-type="lore"}** is not one of the [[affiliation-asguardian|Asguardian Ten]]. The name belongs to an older sea-power of the
+[Hafvald]{.name data-type="lore"} is not one of the [[affiliation-asguardian|Asguardian Ten]]. The name belongs to an older sea-power of the
 [[place-nrdlndsrgn|Nordlands]], largely displaced by the [[lore-asvinir|Ásvinir]] and surviving chiefly in place-names, in a few coastal
 observances that priests of [[affiliation-thrunvald|Thrunvald]] tolerate without approving, and in this horn. What Hafvald was—a
 god the Ásvinir supplanted, a sea-spirit the clans placated, or something the two later traditions have

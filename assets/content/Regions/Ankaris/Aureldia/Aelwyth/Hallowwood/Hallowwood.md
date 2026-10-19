@@ -52,7 +52,7 @@ and governed the island together—and they kept that up for **six hundred years
 
 Then, around **1200 BF**, the **[[lore-pelwarpepl|Pelwar]]** arrived: refugees, driven off the mainland by the
 [Varkhad]{.name data-type="lore/folk"} in the great displacement ([[lore-varkhadcnq|The Varkhad Conquest]]), with nowhere else to go. Two
-centuries of pressure and reprisal became the **[Great War]{.name data-type="lore/history"}**, and in **984 BF** the king was killed by the Varkhad among them at
+centuries of pressure and reprisal became the [Great War]{.name data-type="lore/history"}, and in **984 BF** the king was killed by the Varkhad among them at
 [[place-threesisters|the Three Sisters]].
 
 The surviving Sinale came into this forest and stayed, leaving the Khazari to finish the war without

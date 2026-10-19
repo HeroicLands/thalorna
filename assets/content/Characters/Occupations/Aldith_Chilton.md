@@ -431,7 +431,7 @@ Within Ashford's upper circles, she moves with ease and recognition. Merchants' 
 **Enemies:**
 
 - **Father [[being-edwalddunmor|Edwald]]**, a priest of the Temple of Ólvenia, who views Dunith as a useful asset but no more than that. Their relationship is cordial but tense; Edwald's spiritual authority stands in implicit competition with Dunith's charismatic power.
-- **[Cynric Blackweir]{.name data-type="being/npc"}**, a merchant's son whom Dunith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
+- [Cynric Blackweir]{.name data-type="being/npc"}, a merchant's son whom Dunith humiliated publicly at a salon five years ago by publicly preferring another patron. He smiles when their paths cross in Ashford society, but his smile does not reach his eyes.
 
 ## Plot Hooks
 

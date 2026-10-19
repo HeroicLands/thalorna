@@ -64,11 +64,11 @@ The [[affiliation-byzarianlg|League]] tolerates the clans above [[place-orashion
 
 About 226, six years after [[lore-ustaranschism|the Ústaran Schism]] split the [[lore-ustarondty|Forge-Lord's faith]], a cohort of the legions stationed in the east lost its officers to [[affiliation-blackflame|the Black Flame]]. The officers were the kind of men a general disciplines or a throne proscribes. The Orzas [Karomfos]{.name data-type="being/npc"}, who would not proscribe the faith ([[lore-nartumrefuse|Nartun Refuses the Empire]]), would not discipline them either, and in the far passes above Órashion, at the edge of the province the legions had just won, he found a use for them.
 
-He settled the cohort on the high passes as frontier colonists under its centurion, **[Vezhnurikos]{.name data-type="being/npc"}**. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
+He settled the cohort on the high passes as frontier colonists under its centurion, [Vezhnurikos]{.name data-type="being/npc"}. The passes needed holding and the men needed a place, and no one in the capital asked how the two were being reconciled.
 
 ## The Holds
 
-The cohort married into the pass villages. Its sons were raised to arms and its warlords took the centurion's name, **[Vezhnur]{.name data-type="lore/culture"}**, for the people they became. No one recalled the cohort, and the [[affiliation-vylarinmpr|Empire]]'s garrisons in the province left the high passes alone. The holds became a clan-country outside the charter of any city, and they have stayed outside it.
+The cohort married into the pass villages. Its sons were raised to arms and its warlords took the centurion's name, [Vezhnur]{.name data-type="lore/culture"}, for the people they became. No one recalled the cohort, and the [[affiliation-vylarinmpr|Empire]]'s garrisons in the province left the high passes alone. The holds became a clan-country outside the charter of any city, and they have stayed outside it.
 
 ## What the Settlement Left
 

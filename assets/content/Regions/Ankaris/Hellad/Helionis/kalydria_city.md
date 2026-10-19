@@ -18,7 +18,7 @@ An oligarchy of wealthy patron families governs [[affiliation-kalydria|Kalidria]
 
 ## The Academy of the Silver Veil
 
-The city's most distinctive institution is the **[Academy of the Silver Veil]{.name data-type="affiliation"}**, which trains the hetairin: educated companions schooled in music, philosophy, rhetoric and the social arts. Its graduates leave to serve as companions and advisors in courts and salons across [[place-midhalnrgn|Mídhalión]], socially elevated and intellectually formidable, and they stay in touch. That unofficial web of well-informed women is why Kalidria, small in military strength, matters in rooms where armies do not.
+The city's most distinctive institution is the [Academy of the Silver Veil]{.name data-type="affiliation"}, which trains the hetairin: educated companions schooled in music, philosophy, rhetoric and the social arts. Its graduates leave to serve as companions and advisors in courts and salons across [[place-midhalnrgn|Mídhalión]], socially elevated and intellectually formidable, and they stay in touch. That unofficial web of well-informed women is why Kalidria, small in military strength, matters in rooms where armies do not.
 
 ## Making a Living
 

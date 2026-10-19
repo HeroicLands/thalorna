@@ -29,6 +29,6 @@ Performed by
 Licensed by
 : No one. [[lore-kamavratadty|Kamavrata]] keeps no priesthood of his own, and asks less of his devotees than any other god in the pantheon
 
-**[The Garden Year]{.name data-type="lore/custom"}** is spent tending a temple garden from first planting to final harvest. Devotees take it who want the deeper mysteries behind the festivals. **[The Silent Flute]{.name data-type="lore/custom"}** is a year lived by playing one's instrument for whoever asks, taking only the food and shelter the listeners freely give. The god of delight asks his most devoted to live on what delight earns them.
+[The Garden Year]{.name data-type="lore/custom"} is spent tending a temple garden from first planting to final harvest. Devotees take it who want the deeper mysteries behind the festivals. [The Silent Flute]{.name data-type="lore/custom"} is a year lived by playing one's instrument for whoever asks, taking only the food and shelter the listeners freely give. The god of delight asks his most devoted to live on what delight earns them.
 
 See [[affiliation-kamavrata|Kamavrata]].

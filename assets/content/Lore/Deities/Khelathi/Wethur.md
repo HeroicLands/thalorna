@@ -19,4 +19,4 @@ The theology holds that death is a transition, and the most important one in exi
 
 In his theology grave-robbery is cosmic blasphemy as well as theft: it breaks the order he maintains and threatens the rest of the dead.
 
-In this theology, a soul **[Algit]{.name data-type="being/creature"}** devours is ended. Weth'ur keeps only the weighed and the worthy, which is why the tombs of the condemned go untended.
+In this theology, a soul [Algit]{.name data-type="being/creature"} devours is ended. Weth'ur keeps only the weighed and the worthy, which is why the tombs of the condemned go untended.

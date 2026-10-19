@@ -37,6 +37,6 @@ Performed by
 Licensed by
 : The [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] alone, the largest and most orthodox of the Varnakan sects, whose calendar sets the public year. Its [Council of the Triyacharyas]{.name data-type="affiliation/governmental"}, the senior Triyacharya of every great Vedyari city, settles any dispute the rite raises
 
-The path to the office runs through one of two ordeals. **[The Triple Year]{.name data-type="lore/custom"}** is three successive years of service, one kept in each form's chamber to the full liturgical calendar. **[The Architect's Ordeal]{.name data-type="lore/custom"}** has the aspirant design and help build a small three-chambered shrine where none stood before, unassisted and unpaid.
+The path to the office runs through one of two ordeals. [The Triple Year]{.name data-type="lore/custom"} is three successive years of service, one kept in each form's chamber to the full liturgical calendar. [The Architect's Ordeal]{.name data-type="lore/custom"} has the aspirant design and help build a small three-chambered shrine where none stood before, unassisted and unpaid.
 
 See [[affiliation-trimurtisampradaya|Triyanga-sampradeya]].

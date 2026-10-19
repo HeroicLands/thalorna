@@ -64,12 +64,12 @@ The Crown Trades of Okharis are the small number of major chartered guilds that 
 
 The principal Crown Trades are:
 
-- **[The King's Smiths]{.name data-type="affiliation/guild"}** (chartered at [[place-zarhanis|Zarhanis]]; ancestral metallurgy guild; produces tools, weapons, and the prestige metalwork that flows from [[affiliation-okharis|Okharis]] into the broader [[place-nrthrnfrtlrgn|Northern Fertile Region]])
-- **[The Royal Goldworkers]{.name data-type="affiliation/guild"}** (chartered at [[place-kaljekor|Kaljekor]]; specialty in fine gold jewelry, ceremonial pieces, and the worked-gold tribute pieces that the Crown sends to neighboring courts)
-- **[The River-Pilots]{.name data-type="affiliation/guild"}** (chartered at [[place-vuthraka|Vuthraka]]; commercial-maritime guild that operates the seasonal rivers and the trade routes between the temple-cities and the southern jungle margin; the principal Okhárian-side counterparty for Khelathi traders descending the great river)
-- **[The Hide-Cutters]{.name data-type="affiliation/guild"}** (chartered jointly at all three cities; processes the hides, wool, and leather that the pastoral clans bring to the temple-city festivals; coordinates export-grade tanning and finishing)
-- **[The Spice-Merchants]{.name data-type="affiliation/guild"}** (chartered at Zarhanis; specializes in the savannah herbs, dried fruits, and specialty preserves that travel best across the Northern Fertile Region's longer trade routes)
-- **[The Crown Moneylenders]{.name data-type="affiliation/guild"}** (chartered jointly across the three cities; the kingdom's principal credit institution; operates under direct royal supervision)
+- [The King's Smiths]{.name data-type="affiliation/guild"} (chartered at [[place-zarhanis|Zarhanis]]; ancestral metallurgy guild; produces tools, weapons, and the prestige metalwork that flows from [[affiliation-okharis|Okharis]] into the broader [[place-nrthrnfrtlrgn|Northern Fertile Region]])
+- [The Royal Goldworkers]{.name data-type="affiliation/guild"} (chartered at [[place-kaljekor|Kaljekor]]; specialty in fine gold jewelry, ceremonial pieces, and the worked-gold tribute pieces that the Crown sends to neighboring courts)
+- [The River-Pilots]{.name data-type="affiliation/guild"} (chartered at [[place-vuthraka|Vuthraka]]; commercial-maritime guild that operates the seasonal rivers and the trade routes between the temple-cities and the southern jungle margin; the principal Okhárian-side counterparty for Khelathi traders descending the great river)
+- [The Hide-Cutters]{.name data-type="affiliation/guild"} (chartered jointly at all three cities; processes the hides, wool, and leather that the pastoral clans bring to the temple-city festivals; coordinates export-grade tanning and finishing)
+- [The Spice-Merchants]{.name data-type="affiliation/guild"} (chartered at Zarhanis; specializes in the savannah herbs, dried fruits, and specialty preserves that travel best across the Northern Fertile Region's longer trade routes)
+- [The Crown Moneylenders]{.name data-type="affiliation/guild"} (chartered jointly across the three cities; the kingdom's principal credit institution; operates under direct royal supervision)
 
 Each charter grants the holding guild a defined commercial monopoly (the right to be the _only_ royally-chartered practitioner of its trade in a given temple-city; competing operations either work under the charter as licensees or operate informally outside the guild structure). The charters also impose obligations: substantial annual payments to the Crown, formal representation at the [Three-Flame Settlement]{.name data-type="lore/law"} festivals, supply of specific goods to the royal household at concessionary prices, and a standing duty to extend credit to royal officials traveling on Crown business.
 
@@ -87,9 +87,9 @@ The Crown Moneylenders' **letters of credit** are honored at any of the three te
 
 ## Structure and Governance
 
-The federation of the Crown Trades is governed by the **[Council of the Three-Flame Charters]{.name data-type="affiliation/governmental"}**—a body comprising the senior officer of each major chartered guild, meeting twice a year at the temple-city festival schedule and at the Crown's call when commerce-political matters require it. The Council coordinates federation positions on questions affecting multiple charters (royal taxation, foreign trade negotiation, charter-boundary disputes between guilds) and is the principal commercial counterparty when the kingdom negotiates with foreign powers.
+The federation of the Crown Trades is governed by the [Council of the Three-Flame Charters]{.name data-type="affiliation/governmental"}—a body comprising the senior officer of each major chartered guild, meeting twice a year at the temple-city festival schedule and at the Crown's call when commerce-political matters require it. The Council coordinates federation positions on questions affecting multiple charters (royal taxation, foreign trade negotiation, charter-boundary disputes between guilds) and is the principal commercial counterparty when the kingdom negotiates with foreign powers.
 
-The Council is chaired by the **Steward of the Trades**—a royal appointment from the chartered moneylender ranks, serving at the Crown's pleasure for a typical term of five to ten years. The current Steward is **[Mekhar Saharil]{.name data-type="being/npc"}**, a senior moneylender of Vuthraka whose moderate temperament and Gar-Hálzi correspondent relationships have made him acceptable to all three temple-cities and to the Crown.
+The Council is chaired by the **Steward of the Trades**—a royal appointment from the chartered moneylender ranks, serving at the Crown's pleasure for a typical term of five to ten years. The current Steward is [Mekhar Saharil]{.name data-type="being/npc"}, a senior moneylender of Vuthraka whose moderate temperament and Gar-Hálzi correspondent relationships have made him acceptable to all three temple-cities and to the Crown.
 
 Each individual charter is administered by its own guildmaster and council—varying by tradition (the King's Smiths use a traditional master-of-masters election; the Royal Goldworkers operate by hereditary council; the River-Pilots by elected captaincy; etc.)—but all charter-level decisions of inter-trade or inter-city consequence flow through the Council of the Three-Flame Charters.
 
@@ -107,13 +107,13 @@ Steward Mekhar Saharil
 : current chair of the Council of the Three-Flame Charters; senior Crown Moneylender of Vuthraka; moderate political temperament; well-connected with the Gar-Hálzi chapter at Gar-Anlaghet.
 
 The Master of the King's Smiths
-: typically the senior Crown-chartered metalworker; the position carries substantial weight at the Zarhanis court and is currently held by a master named **[Belthor Vakhin]{.name data-type="being/npc"}**, an Okharik of long service and conservative inclinations.
+: typically the senior Crown-chartered metalworker; the position carries substantial weight at the Zarhanis court and is currently held by a master named [Belthor Vakhin]{.name data-type="being/npc"}, an Okharik of long service and conservative inclinations.
 
 The Captain of the River-Pilots
-: the senior officer of the Vuthráka-based maritime guild; currently a woman named **[Sarena Velthrik]{.name data-type="being/npc"}**, the first woman to hold the captaincy in three generations; her election was contested and her tenure remains politically delicate.
+: the senior officer of the Vuthráka-based maritime guild; currently a woman named [Sarena Velthrik]{.name data-type="being/npc"}, the first woman to hold the captaincy in three generations; her election was contested and her tenure remains politically delicate.
 
 The Grand Master of the Royal Goldworkers
-: head of the most prestigious of the chartered trades; the current holder, **[Auronak Beslin]{.name data-type="being/npc"}**, is an old man whose retirement is anticipated within the decade and whose succession is being quietly maneuvered over by several rival families.
+: head of the most prestigious of the chartered trades; the current holder, [Auronak Beslin]{.name data-type="being/npc"}, is an old man whose retirement is anticipated within the decade and whose succession is being quietly maneuvered over by several rival families.
 
 ## Relations
 

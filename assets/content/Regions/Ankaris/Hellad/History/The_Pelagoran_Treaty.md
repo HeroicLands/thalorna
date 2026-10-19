@@ -64,7 +64,7 @@ The bronze copy of **the Pelagoran Treaty** stands in [[place-pelagora2|Pelagora
 
 ## The Vote
 
-By 314 BF [[affiliation-theradon|Theradon]] had been taken and [[affiliation-korinthea|Korinthea]] had opened its gates after [[lore-heladturnedwrk|the Turned Working]], and the [Dragon Riders]{.name data-type="affiliation"} were over the coast. [[affiliation-pelagora|Pelagora]]'s assembly met in the agorin and voted by show of hands to treat alone. The strátimor **[Dokharos Ársides]{.name data-type="being/npc"}** made the terms.
+By 314 BF [[affiliation-theradon|Theradon]] had been taken and [[affiliation-korinthea|Korinthea]] had opened its gates after [[lore-heladturnedwrk|the Turned Working]], and the [Dragon Riders]{.name data-type="affiliation"} were over the coast. [[affiliation-pelagora|Pelagora]]'s assembly met in the agorin and voted by show of hands to treat alone. The strátimor [Dokharos Ársides]{.name data-type="being/npc"} made the terms.
 
 ## The Terms
 

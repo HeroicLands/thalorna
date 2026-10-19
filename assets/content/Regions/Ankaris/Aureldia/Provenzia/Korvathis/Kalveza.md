@@ -9,7 +9,7 @@ data: {demonym: null, lore: [], parents: [korvathis], population: 18000, packFol
 ---
 
 **Kalveza** stands on the warm southern shore and is, with [[place-jalnazdal|Jalnasdal]], one of the
-two cities whose speech is **[Cotiere]{.name data-type="skill/language"}**—the prestige dialect of [[skill-provnzlng|Provenzal]], the form used in literature
+two cities whose speech is [Cotiere]{.name data-type="skill/language"}—the prestige dialect of [[skill-provnzlng|Provenzal]], the form used in literature
 and formal commerce, and the one carrying the deepest Vylarian influence.
 
 Where Jalnasdal is a capital that happens to have a harbor, Kalveza is a harbor and nothing else,
@@ -29,7 +29,7 @@ where the goods are.
 
 ## The Port Dialect
 
-The **[Parlage dou Port]{.name data-type="skill/language"}**—the pidgin-like register that multilingual merchants use among themselves,
+The [Parlage dou Port]{.name data-type="skill/language"}—the pidgin-like register that multilingual merchants use among themselves,
 mixing [[skill-vylarilng|Vylari Language]] and [[skill-elvndrlng|Élavendri Language]] freely—is heard here more than anywhere else in the kingdom, and a good
 deal of Kalveza's daily business is conducted in a speech that is nobody's mother tongue.
 

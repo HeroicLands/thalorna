@@ -396,7 +396,7 @@ Hvirnorv's necromantic powers are staggering: he can raise armies of the dead, b
 
 ### Enemies
 
-**[The Temple of Eidgar]{.name data-type="place/structure"}**—The entire faith of Eidgar has sworn to destroy Hvirnorv for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
+[The Temple of Eidgar]{.name data-type="place/structure"}—The entire faith of Eidgar has sworn to destroy Hvirnorv for the desecration of their temple. Their finest warriors and most powerful blessings are dedicated to this purpose.
 
 **The [[lore-flksinale|Sinale]] of [[place-haulonna|Haulonna]]**—The Sinale whose sanctuary was later devastated by [[being-hlskmylsvrtrnr|Hlusmil]] under Hvirnorv's indirect influence seek to eliminate all of Nahild's champions.
 

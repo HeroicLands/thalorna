@@ -94,7 +94,7 @@ Master (_lem-Mesnu_)
 : promoted by senior vote after presenting an original work. A master may seal weapons and armor for imperial commissions, take apprentices and sit on chapter councils.
 
 Great Smith (_wer-Mesnu_)
-: the most senior masters, who convene as the **[Council of Smiths]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the Gar-Au's quartermasters and adjudicate guild disputes.
+: the most senior masters, who convene as the [Council of Smiths]{.name data-type="affiliation/governmental"} at the central guildhouse, advise the Gar-Au's quartermasters and adjudicate guild disputes.
 
 A smith whose sealed work fails loses the master's seal; the rank table calls that standing Revoked Seal.
 
@@ -102,9 +102,9 @@ A smith whose sealed work fails loses the master's seal; the rank table calls th
 
 The chair of the council is the **First Smith of the Gar-Au** (_Ilmy-Qelt Melnu_). The present First Smith is [[being-khelfrzbnmry|Khelafra Zebenmeryu]], a man in his sixties who has held the post for fourteen years. He coordinates the guild's central affairs and its bargaining with the Gar-Au's court, and he is widely respected and somewhat conservative. He is quietly maneuvering against the reformist faction that wants to liberalize the guild's apprenticeship requirements.
 
-That faction is [[affiliation-lethunu2|the Lethunu]], an informal group of younger Great Smiths and senior Masters who want a shorter apprenticeship, recruitment beyond the traditional smithing families, and modern accounting. Great Smith **[Userhat Pamenes]{.name data-type="being/npc"}** leads it in public.
+That faction is [[affiliation-lethunu2|the Lethunu]], an informal group of younger Great Smiths and senior Masters who want a shorter apprenticeship, recruitment beyond the traditional smithing families, and modern accounting. Great Smith [Userhat Pamenes]{.name data-type="being/npc"} leads it in public.
 
-The Master of the highest standing is [[being-shezurzingat|Shezur Zin'Gatau]], widely regarded as the finest active armorer in the empire. He keeps his guild registration and pays his dues, but he refuses leadership positions and works from a personal forge in his home city. His standing contract with the **[Imperial Military Quartermaster's Office]{.name data-type="affiliation/governmental"}** gives him priority access to the finest raw materials in imperial warehouses. Some Council members call that a quiet violation of guild equality; **Shezur** calls it earned.
+The Master of the highest standing is [[being-shezurzingat|Shezur Zin'Gatau]], widely regarded as the finest active armorer in the empire. He keeps his guild registration and pays his dues, but he refuses leadership positions and works from a personal forge in his home city. His standing contract with the [Imperial Military Quartermaster's Office]{.name data-type="affiliation/governmental"} gives him priority access to the finest raw materials in imperial warehouses. Some Council members call that a quiet violation of guild equality; **Shezur** calls it earned.
 
 ## The Three Standards
 

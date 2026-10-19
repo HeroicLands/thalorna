@@ -26,7 +26,7 @@ has made the town's fortunes without ever making it fashionable.
 ## The Houses
 
 Lizela's nobility are minor houses whose wealth rests on coastal trade and the pans rather than on
-broad land—the **[Kórisvars]{.name data-type="affiliation/lineage"}** among them—and they occupy an awkward rank: rich enough to matter in
+broad land—the [Kórisvars]{.name data-type="affiliation/lineage"} among them—and they occupy an awkward rank: rich enough to matter in
 the district, not landed enough to matter at [[place-jalnazdal|Jalnasdal]], and acutely conscious of
 the difference.
 

@@ -99,11 +99,11 @@ A Nidrapala is an acolyte who attends the dream-chambers of the monastery and ke
 
 ### Rites and Festivals
 
-The **[Dawn Recitation]{.name data-type="lore/custom"}** is a daily rite in which dreamers who slept at the monastery tell their dreams to a Dorshaka, who records the substance and offers an initial reading. The **[Dream-Stone Blessing]{.name data-type="lore/custom"}** is performed for petitioners who wish to take a consecrated dream-stone home.
+The [Dawn Recitation]{.name data-type="lore/custom"} is a daily rite in which dreamers who slept at the monastery tell their dreams to a Dorshaka, who records the substance and offers an initial reading. The [Dream-Stone Blessing]{.name data-type="lore/custom"} is performed for petitioners who wish to take a consecrated dream-stone home.
 
-The **[Great Vigil]{.name data-type="lore/custom"}** is a formal dream-vigil of three nights, undertaken by a petitioner or by a council seeking prophetic guidance on a great question. The Svopna-Achorya attends, and the dreams of everyone present are pooled and read together. The **[Interpretation of Omens]{.name data-type="lore/custom"}** follows a vigil, sometimes days or weeks later: the accumulated dreams are interpreted as a coherent body, and a formal statement is issued to the petitioner.
+The [Great Vigil]{.name data-type="lore/custom"} is a formal dream-vigil of three nights, undertaken by a petitioner or by a council seeking prophetic guidance on a great question. The Svopna-Achorya attends, and the dreams of everyone present are pooled and read together. The [Interpretation of Omens]{.name data-type="lore/custom"} follows a vigil, sometimes days or weeks later: the accumulated dreams are interpreted as a coherent body, and a formal statement is issued to the petitioner.
 
-The **[Night of Silver]{.name data-type="lore/gathering"}** falls at the full moon nearest the autumn equinox, when dreamers gather at the monastery to keep a communal vigil under the moon. The **[Festival of the Quiet Mind]{.name data-type="lore/gathering"}** is a minor summer festival, when the monastery's meditation gardens are opened to the public and instruction in the stilling arts is offered without fee.
+The [Night of Silver]{.name data-type="lore/gathering"} falls at the full moon nearest the autumn equinox, when dreamers gather at the monastery to keep a communal vigil under the moon. The [Festival of the Quiet Mind]{.name data-type="lore/gathering"} is a minor summer festival, when the monastery's meditation gardens are opened to the public and instruction in the stilling arts is offered without fee.
 
 ### Ordeals for Favor
 
@@ -115,7 +115,7 @@ The **[Night of Silver]{.name data-type="lore/gathering"}** falls at the full mo
 
 ### Orders
 
-The **[Order of the Crescent]{.name data-type="affiliation/order"}** is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The **[Council of the Dream]{.name data-type="affiliation/governmental"}** is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned [[affiliation-chayavrata|the Chaya-vreta]], the dream-line that turned the Host's reach on people who never asked for it. It condemned the dream-line that works on the waking about 470 AF and holds that condemnation open ([[lore-chayacondm|the Condemnation of the Chaya-vreta]]).
+The [Order of the Crescent]{.name data-type="affiliation/order"} is an itinerant order of Darshakas who travel the Vedyaran cities, offering dream-readings and prophetic counsel to those who cannot afford the monastery's fees. The [Council of the Dream]{.name data-type="affiliation/governmental"} is a senior council of oneiromancers who adjudicate disputed readings, maintain the great dream-registers of the tradition, and advise on matters that pass from dream into consequential civic decision. It is the council that condemned [[affiliation-chayavrata|the Chaya-vreta]], the dream-line that turned the Host's reach on people who never asked for it. It condemned the dream-line that works on the waking about 470 AF and holds that condemnation open ([[lore-chayacondm|the Condemnation of the Chaya-vreta]]).
 
 ### Geographic Presence
 

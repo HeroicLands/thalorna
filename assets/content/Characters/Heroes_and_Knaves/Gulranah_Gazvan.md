@@ -422,7 +422,7 @@ Gulranah stands 6'1" tall with a light build. She has light olive skin, dark bro
 
 ### Early Years
 
-Born to the [Gazvan clan]{.name data-type="affiliation/lineage"} in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] during a season of great drought, Gulranah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named **[Pezhinah Gazvan]{.name data-type="being/npc"}**, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **[Zalmor Ashenthorn]{.name data-type="being/npc"} of the [Northern Kiln]{.name data-type="place/structure"}**—a rare honor for a child of noble guild-standing.
+Born to the [Gazvan clan]{.name data-type="affiliation/lineage"} in the [[affiliation-kngdmmrdd|Kingdom of Amradad]] during a season of great drought, Gulranah showed an unusual affinity for fire and ash from her earliest years. While other children played at merchant games, she watched the charcoalers work, mesmerized by the transformation of wood into black treasure. Her mother, a respected herbalist named [Pezhinah Gazvan]{.name data-type="being/npc"}, recognized the girl's calling and, rather than resist it as unseemly, arranged apprenticeship with the master charcoaler **[Zalmor Ashenthorn]{.name data-type="being/npc"} of the [Northern Kiln]{.name data-type="place/structure"}**—a rare honor for a child of noble guild-standing.
 
 ### Training and Mastery
 
@@ -430,7 +430,7 @@ Under Zalmor's exacting tutelage for twelve seasons, Gulranah learned how air, h
 
 ### Present Standing
 
-Now twenty-nine winters old, Gulranah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of **[Zúrathra's Fertility Rites]{.name data-type="lore/custom"}**—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
+Now twenty-nine winters old, Gulranah operates her kilns with renown throughout Amradad's trading districts. Her charcoal is sought by the realm's finest smiths for its purity and the metalsmiths for its control of heat. The herbalists—particularly the disciples of [Zúrathra's Fertility Rites]{.name data-type="lore/custom"}—prize her product for ceremonial fires. Yet success has cost her a measure of ease; the weight of reputation and the demands of quality work have drawn her into a solitary existence that outsiders sometimes mistake for arrogance.
 
 ## Psyche
 
@@ -510,7 +510,7 @@ Master Zalmor Ashenthorn
 ## Plot Hooks
 
 The Fire's Fading
-: A severe drought threatens the very wood supply that sustains Gulranah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Kingdom—sacred to Zúrathra and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of **[Temple Ashenfire]{.name data-type="place/structure"}** or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
+: A severe drought threatens the very wood supply that sustains Gulranah's livelihood. She receives word from a traveling merchant that an ancient forest deep in the southern reaches of the Kingdom—sacred to Zúrathra and off-limits to mortals for generations—has mysteriously shifted, its protective enchantments wavering. The wood there is said to burn hotter and cleaner than any earthly timber, and would allow her to create charcoal of legends. But to harvest it, she must either negotiate with the priestesses of [Temple Ashenfire]{.name data-type="place/structure"} or find another path; the risks are immense, and her seclusion has left her without allies to undertake such a journey.
 
 The Poisoned Batch
 : Gulranah discovers that someone has tampered with a shipment of her charcoal meant for the apothecary collective—introducing a mineral compound that, when burned in ritual, produces subtle traces of toxins. If discovered, it will destroy her reputation entirely. She must trace the sabotage back to its source before the corrupted batch reaches the ceremonial fires, and uncover whether this is the work of **Rozhvan Durmand** and his Ash-Brothers, or something worse—perhaps a power seeking to poison the very fertility rituals that sustain the kingdom's prosperity.

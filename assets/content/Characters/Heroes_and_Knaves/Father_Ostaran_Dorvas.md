@@ -423,15 +423,15 @@ Standing at 5'11", Father Ostaran has a medium build, weighing around 170 pounds
 
 # Dossier {#dossier}
 
-Ostaran Dorvás was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, **[Álvaro Dorvás]{.name data-type="being/npc"}**, was a knight in the royal guard, while his mother, **[[being-zedimazenoth|Zédima]]**, was the daughter of a well-known scholar. From an early age, Ostaran was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
+Ostaran Dorvás was born into a modest but respected noble family in the [[affiliation-kingdmtrvn|Kingdom of Tarvénia]], a land known for its strong traditions of chivalry, honor, and justice. His father, [Álvaro Dorvás]{.name data-type="being/npc"}, was a knight in the royal guard, while his mother, **[[being-zedimazenoth|Zédima]]**, was the daughter of a well-known scholar. From an early age, Ostaran was taught the principles of the **Árdavonian** faith, which holds sacred the ideals of protection, honor, and the defense of the weak.
 
-Although Ostaran’s family hoped he would follow in his father’s footsteps as a knight, Ostaran felt a strong calling to the clergy. He was particularly inspired by his faith's account of the god **[[lore-ardavondty|Árdavon]]**, the god of justice and honor, who teaches his followers to defend the helpless and stand against oppression. By the age of 12, Ostaran expressed his desire to join the **[Order of the Sword of Árdavon]{.name data-type="affiliation/order"}**, the priesthood dedicated to serving both the spiritual and martial aspects of the Árdavonian faith.
+Although Ostaran’s family hoped he would follow in his father’s footsteps as a knight, Ostaran felt a strong calling to the clergy. He was particularly inspired by his faith's account of the god **[[lore-ardavondty|Árdavon]]**, the god of justice and honor, who teaches his followers to defend the helpless and stand against oppression. By the age of 12, Ostaran expressed his desire to join the [Order of the Sword of Árdavon]{.name data-type="affiliation/order"}, the priesthood dedicated to serving both the spiritual and martial aspects of the Árdavonian faith.
 
 ## Background
 
 ### Joining the Árdavonian Church
 
-Ostaran was sent to the **[Great Temple of Árdavon]{.name data-type="place/structure"}** in the city of [[place-polthamis|Polthamis]], where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Ostaran excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
+Ostaran was sent to the [Great Temple of Árdavon]{.name data-type="place/structure"} in the city of [[place-polthamis|Polthamis]], where he began his formal training as an acolyte. His studies included theology, law, and combat training, as the Árdavonian faith expects its priests to be both protectors and spiritual guides. Ostaran excelled in all aspects of his training, particularly in the philosophical and legal teachings of the faith, as well as in swordsmanship.
 
 At the age of 20, Ostaran took his vows and was ordained as a priest dedicated to serving Árdavon’ cause on the battlefield and in the courts. He became known for his dedication to justice, traveling throughout the kingdom to mediate disputes, bring corrupt officials to justice, and uphold the ideals of the Árdavonian church.
 

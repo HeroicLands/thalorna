@@ -61,7 +61,7 @@ data:
 
 ## The Legions
 
-The Orzas **[Karomfos]{.name data-type="being/npc"}** reigned over the [[affiliation-vylarinmpr|Vylarian Empire]] in [The Age of Conquest]{.name data-type="lore/calendar"}, from about 209, and in the first years of his reign the legions that were fighting in the west were not the only ones he sent out. A force came over the mountains from [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s old province had given the Empire a road, and a fleet from the Vylarian coast took the harbors of the eastern straits in a single season. The five cities of the [[affiliation-byzarianlg|League]] were cut from the sea and then from each other.
+The Orzas [Karomfos]{.name data-type="being/npc"} reigned over the [[affiliation-vylarinmpr|Vylarian Empire]] in [The Age of Conquest]{.name data-type="lore/calendar"}, from about 209, and in the first years of his reign the legions that were fighting in the west were not the only ones he sent out. A force came over the mountains from [[place-helionis|Helionis]], where the [Vylarian Republic]{.name data-type="affiliation/polity"}'s old province had given the Empire a road, and a fleet from the Vylarian coast took the harbors of the eastern straits in a single season. The five cities of the [[affiliation-byzarianlg|League]] were cut from the sea and then from each other.
 
 ## The Edict
 

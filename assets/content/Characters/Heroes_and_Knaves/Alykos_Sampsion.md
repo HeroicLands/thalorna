@@ -500,7 +500,7 @@ Social Isolation
 ### Enemies
 
 [The Traditionalist Faction of the Physicians' Guild]{.name data-type="affiliation"}
-: Conservative healers who view Alikos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician **[Gekisash]{.name data-type="being/npc"}**, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
+: Conservative healers who view Alikos's experimental approaches and willingness to question inherited medical doctrine as dangerous and disrespectful. Led by the elderly physician [Gekisash]{.name data-type="being/npc"}, they regularly oppose his positions within the Guild and spread rumors that his new methods have resulted in patient deaths—a charge with just enough truth to be damaging.
 
 Charlatan Healers
 : Various fraudulent practitioners throughout the League whom Alikos has publicly exposed or reported to authorities, resulting in lost income for them. Some have threatened retaliation.
@@ -519,7 +519,7 @@ The Plague
 : A mysterious illness begins spreading through the League's port cities, bearing symptoms Alikos has never encountered before. The disease progresses rapidly and proves resistant to standard treatments. As the affliction spreads, panic grows, and desperate patients flock to Alikos seeking a cure. He becomes locked in an intellectual race against the disease itself, attempting to understand its nature before it claims thousands. The investigation reveals that the plague may not be natural—someone or something may have deliberately unleashed it.
 
 The Unethical Experiment
-: Alikos discovers evidence that another physician, **[Yenaze]{.name data-type="being/npc"}**, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
+: Alikos discovers evidence that another physician, [Yenaze]{.name data-type="being/npc"}, has been conducting unauthorized medical experiments on prison inmates and the desperately poor, seemingly attempting to replicate or understand the mechanisms of a rare disease. When Alikos threatens to expose her, she counters that her work has advanced medical knowledge more than a century of conventional practice—and that some discoveries require sacrifices. She offers Alikos the choice to join her research or watch as she uses her considerable influence to destroy his reputation.
 
 The Impossible Patient
 : A patient is brought to Alikos bearing a condition so bizarre, so contradictory to all medical knowledge, that he cannot begin to understand what he is observing. The patient is simultaneously fevered and hypothermic, displays symptoms of diseases that should not occur together, and seems to exist in a state of bodily contradiction. As Alikos struggles to understand the case, he begins to suspect that conventional medicine will not provide answers—that something beyond the natural world may be involved.

@@ -31,6 +31,6 @@ Performed by
 Licensed by
 : The [[affiliation-svapnasarisamaja|Svapnasari-sameja]] alone. The orthodox hierarchy does not contest the sect's competence here. The [[lore-svapnadevasdty|Svapnadevas]], the Dreaming Host this rite serves, keep no priesthood of their own, and this is the whole of their formal devotion made a vocation
 
-**[The Seven-Night Vigil]{.name data-type="lore/custom"}** and **the Mirror Year** are the path into the priesthood proper. The Vigil is seven consecutive nights of light sleep in a monastery chamber, reported each morning, and is rarely completed without a Dorshaka's intervention. The Mirror Year is a year spent reading the silver mirror for every petitioner who comes, refusing no reading and accepting no fee.
+[The Seven-Night Vigil]{.name data-type="lore/custom"} and **the Mirror Year** are the path into the priesthood proper. The Vigil is seven consecutive nights of light sleep in a monastery chamber, reported each morning, and is rarely completed without a Dorshaka's intervention. The Mirror Year is a year spent reading the silver mirror for every petitioner who comes, refusing no reading and accepting no fee.
 
 See [[affiliation-svapnasarisamaja|Svapnasari-sameja]].

@@ -19,11 +19,11 @@ data:
 
 The senior priest of Sangema is **Sabhapavi of the Melra**. He convenes the twelve-yearly assembly of the [[affiliation-janpdsvdyr|confederation]], puts its questions and declares what it has agreed, and he holds no authority at all between assemblies. The office is the nearest thing the confederation has to a head, which is to say that it is not one.
 
-**[Mahaprasoda of the Sarveda]{.name data-type="being/npc"}** holds it. He is about seventy, presided over the most recent [Mahva-Melra]{.name data-type="lore/gathering"} four years ago, and is reckoned the most respected priestly authority in the inland part of the [[place-vedyarargn|Vedyara Region]]. The next Mahva-Melra is his last as convening priest, and the succession is under negotiation now.
+[Mahaprasoda of the Sarveda]{.name data-type="being/npc"} holds it. He is about seventy, presided over the most recent [Mahva-Melra]{.name data-type="lore/gathering"} four years ago, and is reckoned the most respected priestly authority in the inland part of the [[place-vedyarargn|Vedyara Region]]. The next Mahva-Melra is his last as convening priest, and the succession is under negotiation now.
 
 ## The Roll
 
-The temple keeps the roll of the janapadas: which of them sent a delegation to each Melra, which circuit each belongs to, which have been recognized as newly formed, and which have collapsed since the previous assembly and been formally mourned. The reckoning of about six thousand temple-republics in the confederation is the roll's, and everyone who quotes it quotes Sangema. The most remembered entry is **[Thirnugrama]{.name data-type="affiliation/polity"}**, mourned at the Melra of 320 in the same ten days [[lore-thirdcmpct|the Third Compact]] was sworn ([[lore-silenthall|the Silenced Hall]]); its descendants have never accepted the division of its land.
+The temple keeps the roll of the janapadas: which of them sent a delegation to each Melra, which circuit each belongs to, which have been recognized as newly formed, and which have collapsed since the previous assembly and been formally mourned. The reckoning of about six thousand temple-republics in the confederation is the roll's, and everyone who quotes it quotes Sangema. The most remembered entry is [Thirnugrama]{.name data-type="affiliation/polity"}, mourned at the Melra of 320 in the same ten days [[lore-thirdcmpct|the Third Compact]] was sworn ([[lore-silenthall|the Silenced Hall]]); its descendants have never accepted the division of its land.
 
 The roll is also the standing argument. Which circuit a border janapoda belongs to has gone to litigation, in one case for two hundred and ten years, and the temple is where the litigation is heard.
 

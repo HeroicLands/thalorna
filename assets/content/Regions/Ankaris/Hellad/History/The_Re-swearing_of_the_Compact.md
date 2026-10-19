@@ -81,7 +81,7 @@ No city could pay the forts alone. No city would let another pay them, because a
 
 ## The Hall
 
-In about 571 the councils of the five cities met in the Merchant Hall of [[place-khryshteikhos2|Krusteikhos]] under **[Kerdhanáhr Fótamikot]{.name data-type="being/npc"}**, the chair of the council, and had the old copy of the [[lore-heladcompact|Compact]] brought out and read. The edict of the Orzas that had dissolved it was on the chancery's roll and nowhere else. The councils swore the old text over again, in the order of the old text, and in the Hall where the five had first met.
+In about 571 the councils of the five cities met in the Merchant Hall of [[place-khryshteikhos2|Krusteikhos]] under [Kerdhanáhr Fótamikot]{.name data-type="being/npc"}, the chair of the council, and had the old copy of the [[lore-heladcompact|Compact]] brought out and read. The edict of the Orzas that had dissolved it was on the chancery's roll and nowhere else. The councils swore the old text over again, in the order of the old text, and in the Hall where the five had first met.
 
 They did three things. They paid the garrisons themselves, from a common treasury the five filled in proportion to their trade. They took the three frontier districts as common territory, outside any city's charter, because each city would sooner see a district belong to none than to another. And they set a lord over each district by commission of the council, answerable to the council and to nobody else.
 

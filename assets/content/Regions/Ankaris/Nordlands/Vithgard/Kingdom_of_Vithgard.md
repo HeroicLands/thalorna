@@ -100,10 +100,10 @@ Law is kept in more than one place. The kingdom's own ting sits at [[place-logst
 
 ## The Royal Line
 
-Vithgard's kings come from the **[Thalmidrok]{.name data-type="affiliation/lineage"}** at Thrunborg. **[Tvarnthann]{.name data-type="being/npc"}** reigned from about 668 to 694, through the failed whaling winter that ended in the burning at [[place-askholm|Askholm]], and died in the winter dark without an heir the ting had acclaimed. His two sons by two wives fought seven summers for the crown, and in 701 a Sworn Hand brought them to Logstead to swear the truce the kingdom lives under ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
+Vithgard's kings come from the [Thalmidrok]{.name data-type="affiliation/lineage"} at Thrunborg. [Tvarnthann]{.name data-type="being/npc"} reigned from about 668 to 694, through the failed whaling winter that ended in the burning at [[place-askholm|Askholm]], and died in the winter dark without an heir the ting had acclaimed. His two sons by two wives fought seven summers for the crown, and in 701 a Sworn Hand brought them to Logstead to swear the truce the kingdom lives under ([[lore-vthgrdsccwrs|The Vithgard Succession Wars]]).
 
-- **[Snirvmil]{.name data-type="being/npc"}**, the elder, is king at Thrunborg, acclaimed by the kingdom's ting after the truce.
-- **[Glirvorv]{.name data-type="being/npc"}**, his half-brother, holds the Hrandstead district as its jarl for his life, with his own ting under him and no voice in the succession.
+- [Snirvmil]{.name data-type="being/npc"}, the elder, is king at Thrunborg, acclaimed by the kingdom's ting after the truce.
+- [Glirvorv]{.name data-type="being/npc"}, his half-brother, holds the Hrandstead district as its jarl for his life, with his own ting under him and no voice in the succession.
 
 The truce says nothing of what becomes of Hrandstead when Glirvorv dies, and both brothers' halls have been counting the years since 701.
 

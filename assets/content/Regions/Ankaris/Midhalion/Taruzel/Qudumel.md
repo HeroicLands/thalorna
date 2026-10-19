@@ -84,7 +84,7 @@ It is also the city where the [[affiliation-ordoarcanis|Thordimalon]] is weakest
 
 ## Commerce and Currency
 
-The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the **[Merazuni]{.name data-type="affiliation/governmental"}** of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
+The caravans that unload at Kudumel settle in the [[lore-trzlncrncy|Taruzelian currency]], issued under the [Merazuni]{.name data-type="affiliation/governmental"} of the [[affiliation-vezakuni|Vezakuni]]. Its Solden, Ardin and Bit follow the Vylarian denominations but rest on Taruzelian reserves rather than on the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and its Solden is slightly underweight by the Vylarian standard. The banking runs through Merazuni-affiliated moneylenders, who honor no Vylarian script and whose own script is honored nowhere in Vylarian territory.
 
 ## See Also
 

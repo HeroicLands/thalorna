@@ -432,7 +432,7 @@ Thraskorv was born to unfreedom. His parents were thralls on the estate of **Jar
 
 ### The Stirring of Rebellion
 
-At seventeen, something broke inside Thraskorv. An overseer named **[Gnaldrmil the Cruel]{.name data-type="being/npc"}** ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Thraskorv recovered, he waited for his moment. One evening, he caught Gnaldrmil unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Thraskorv received thirty lashes for the "suspicion" of involvement, and the scar on his cheek is a permanent reminder of his defiance—and the price of resistance.
+At seventeen, something broke inside Thraskorv. An overseer named [Gnaldrmil the Cruel]{.name data-type="being/npc"} ordered him to work through a fever that nearly killed him, then beat him for slowing his pace. When Thraskorv recovered, he waited for his moment. One evening, he caught Gnaldrmil unaware and beat him so severely that the overseer never fully regained his faculties. The beating was attributed to bandits, but everyone knew the truth. Thraskorv received thirty lashes for the "suspicion" of involvement, and the scar on his cheek is a permanent reminder of his defiance—and the price of resistance.
 
 Since that day, Thraskorv has been marked as a troublemaker, assigned the worst tasks, watched constantly. Yet his determination has only hardened. He studies the skills the jarl's farmhands use, learns metalworking from stolen time near the smithy, and practices with weapons whenever possible. He has spoken to other thralls about the possibility of escape, has learned the names of free peoples in distant lands, and has begun to believe that unfreedom is not inevitable.
 
@@ -484,7 +484,7 @@ Dangerous Attention
 
 ### Patrons
 
-Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: **[Thilminda the Healer]{.name data-type="being/npc"}**, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father [[being-ralthann|Ralthann]]**, a traveling priest of [[affiliation-eidgar|Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
+Thraskorv has no patrons in the traditional sense. His masters view him as property, not as a person worthy of patronage. However, a few figures in his world show him kindness: [Thilminda the Healer]{.name data-type="being/npc"}, a free woman who treats thrall injuries in secret, has become a quiet ally. She provides him with medical care and information, though both know the risks of their contact. **Father [[being-ralthann|Ralthann]]**, a traveling priest of [[affiliation-eidgar|Eidgar]], once stayed at the estate and spoke with Thraskorv of divine justice—leaving him with a hidden talisman and words of encouragement that sustained him through dark years.
 
 ### Enemies
 
@@ -507,13 +507,13 @@ The Chance of Escape
 : A merchant caravan arrives at the estate, and Thraskorv recognizes one of the drivers as a former thrall who achieved freedom. That night, he is offered an opportunity to escape—a hidden cart, a route to safety, and a life of freedom. But the escape would require leaving others behind, abandoning his dream of systematic change, and accepting that he alone survives while the system continues. His choice will define whether he is a revolutionary or a survivor.
 
 The Forbidden Education
-: **[Halla Wordsmith]{.name data-type="being/npc"}**, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
+: [Halla Wordsmith]{.name data-type="being/npc"}, an old slave brought to the estate, begins secretly teaching Thraskorv to read and write. If discovered, both would be executed. As Thraskorv's literacy grows, he begins to understand documents, ledgers, and correspondence—revealing corruption and cruelty that could be used as evidence. The knowledge becomes a weapon, but using it would require him to expose himself.
 
 The Raid of the Unfree
 : Rumors speak of a band of escaped thralls forming a guerrilla force in the mountain passes, striking at caravans and freeing enslaved peoples by force. They seek Thraskorv, believing his tactical mind and strength could transform their band from a nuisance into a threat. He is approached with an offer to join—but doing so would sign his death warrant if captured, and would violate the sacred law in ways that might curse him with Eidgar.
 
 The Jarl's Ambitious Son
-: Jarl Hrandorv's younger son, **[Hlirthmil the Scholar]{.name data-type="being/npc"}**, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
+: Jarl Hrandorv's younger son, [Hlirthmil the Scholar]{.name data-type="being/npc"}, returns from studies in distant cities with revolutionary ideas about agricultural reform and labor management. He views Thraskorv not as property but as a potential collaborator and teacher. His interest in Thraskorv is real but dangerous—it could lead either to transformation of the estate or to Thraskorv being executed as a corrupting influence on the heir.
 
 The Slave's Justice
 : When a thrall woman is executed for theft (a piece of bread taken in desperation), Thraskorv reaches his breaking point. An opportunity presents itself: the evidence against her was falsified by the overseer in an act of personal cruelty. Thraskorv could expose this, potentially creating a legal precedent for thrall defense, but doing so would require him to become visible in the system—a move that would either destroy that system or destroy him.

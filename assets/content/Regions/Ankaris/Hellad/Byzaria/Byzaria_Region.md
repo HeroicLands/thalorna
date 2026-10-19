@@ -67,7 +67,7 @@ The [[affiliation-ashanpnthn|Ashaian Pantheon]] has a substantial following amon
 
 ## Politics and Power
 
-The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's **[Merchant Hall]{.name data-type="place/structure"}** settles tariffs, the joint fleet and army, the marches, and disputes between cities, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
+The League is a commercial pact, not a state. Each city keeps its own council, its own coin-standard, its own courts and its own guard; the League council that meets in Krusteikhos's [Merchant Hall]{.name data-type="place/structure"} settles tariffs, the joint fleet and army, the marches, and disputes between cities, and nothing else. Krusteikhos's bankers dominate the council by weight of money, Nesthiros's admiralty by weight of ships, and Argirteikhos's military governor by the plain fact that the League's prosperity rests on his garrison.
 
 The [[affiliation-vylarinmpr|empire]] annexed the League as a province in [[lore-heladeastwar|the Eastern War]], about 209 AF. [[lore-heladcompact|The Compact]] that bound the five cities was dissolved by edict, and the cities kept their councils while the passes, the tariffs and the muster passed to imperial officers.
 

@@ -31,7 +31,7 @@ still follow the line the first ones did.
 ## The Earl
 
 Hárivren is the seat of **[Avaarl Zylavren]{.name data-type="being/npc"}, Earl of Hárivren**, who holds the western march for the
-Crown and commands great respect and considerable power. Among his vassals is **[Selvare Zuravel]{.name data-type="being/npc"}**,
+Crown and commands great respect and considerable power. Among his vassals is [Selvare Zuravel]{.name data-type="being/npc"},
 Baron of [[affiliation-brnyzrvln|Zuravlen]] and [[place-kyvarel|Kivarel]]; the fruit and wine that make Zuravlen famous pass through Avaarl's city
 and pay his tolls.
 
@@ -56,7 +56,7 @@ anywhere else.
 
 ## The Lordeme
 
-Every fifth year Hárivren hosts the **[Lordeme]{.name data-type="lore/gathering"}**, the Provenzian Grand Games,
+Every fifth year Hárivren hosts the [Lordeme]{.name data-type="lore/gathering"}, the Provenzian Grand Games,
 also called the Grand Games: the realm's greatest festival of martial prowess and athletic excellence,
 drawing competitors and spectators from across Provenzia and well beyond it. A season of Provenzia's
 politics arranges itself around the Games.

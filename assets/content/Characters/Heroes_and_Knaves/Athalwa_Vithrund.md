@@ -425,7 +425,7 @@ Athalwa yra Vithrúnd wur Eichengrund stands 5'10" tall with a medium build. She
 
 ### Born to Unorthodoxy
 
-Athalwa was the second child of **[Vorthgar yra Vithrúnd]{.name data-type="being/npc"}**, War Chief of [[place-eichengrnd|Eichengrund]], born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother [[being-domricyravit|Domrik yra Vithrúnd wur Eichengrund]], who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[place-vrystwald|Vristwald]] borders. The elders debated whether she was blessed or cursed.
+Athalwa was the second child of [Vorthgar yra Vithrúnd]{.name data-type="being/npc"}, War Chief of [[place-eichengrnd|Eichengrund]], born during an unusual winter when the omens were considered ambiguous at best. Unlike her older brother [[being-domricyravit|Domrik yra Vithrúnd wur Eichengrund]], who showed early aptitude for a War Chief's role—leading hunts, training for the warband's acclaim—Athalwa demonstrated an unusual combination of mystical sensitivity and tactical brilliance. As a child, she experienced visions of battles not yet fought and landscapes beyond the [[place-vrystwald|Vristwald]] borders. The elders debated whether she was blessed or cursed.
 
 ### The Warrior's Calling
 

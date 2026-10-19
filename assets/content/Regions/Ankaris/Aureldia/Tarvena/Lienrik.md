@@ -24,7 +24,7 @@ Lienrik is the largest, most populous, and most fertile of the three Tarvenan ki
 
 The kingdom's lowland terrain makes it more accessible—and more vulnerable—than mountainous Asturath.
 
-The capital, **[Torvaleth]{.name data-type="place/settlement"}**, is the largest town in Tarvénia—a prosperous market center surrounded by some of the richest farmland in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
+The capital, [Torvaleth]{.name data-type="place/settlement"}, is the largest town in Tarvénia—a prosperous market center surrounded by some of the richest farmland in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. Its annual harvest fair draws merchants from across the [[place-vylarianse|Vylarian Sea]], and its cattle markets are legendary.
 
 ## See Also
 

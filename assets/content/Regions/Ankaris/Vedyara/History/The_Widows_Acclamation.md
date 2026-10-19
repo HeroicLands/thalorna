@@ -33,7 +33,7 @@ data:
 
 About 590 AF a Maharava died suddenly in the open season, when the passes are clear and the chieftains of the far valleys can reach [[place-suryagarha|Suryagarha]]. His son was a child. The [Priestly Court]{.name data-type="affiliation/governmental"} of ushtakas, forty paces away in the smaller hall, put forward a candidate of its own, a kinsman it judged fit to rule until the boy came of age.
 
-The Martial Council was sitting, and its benches were full. It refused the Court's man and acclaimed the late king's widow, **[Jvalasundari]{.name data-type="being/npc"}**. She took the throne as Maharava in her own right, reigned until her son was of age, and went on reigning for some years after it before the council acclaimed him.
+The Martial Council was sitting, and its benches were full. It refused the Court's man and acclaimed the late king's widow, [Jvalasundari]{.name data-type="being/npc"}. She took the throne as Maharava in her own right, reigned until her son was of age, and went on reigning for some years after it before the council acclaimed him.
 
 ## Why It Matters Now
 

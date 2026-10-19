@@ -192,7 +192,7 @@ The cause-walk of sunken logs runs out across the bog, and at the end of it, whe
 
 # Dossier {#dossier}
 
-The Necrotic Mire is a dreadspawn made of rot: a heaving column or mound of black sludge four to eight feet high, about five hundred pounds, which consumes everything organic it touches and grows on what it eats. Everything near it sickens and decays. It moves slowly and does not stop. It is not a dead thing, though it looks and smells like death: like every dreadspawn it was made, it is alive, and it does not breed. The one that is known lives in the **[Drowned Country]{.name data-type="place/region"}**, the vast marshes of [[place-grkrhlmrgn|Grukarholm]], where neither [[lore-grukarfolk|Grukar]] nor the armies of the Nordmal will follow it, and it has eaten its way across a quarter of a great bog.
+The Necrotic Mire is a dreadspawn made of rot: a heaving column or mound of black sludge four to eight feet high, about five hundred pounds, which consumes everything organic it touches and grows on what it eats. Everything near it sickens and decays. It moves slowly and does not stop. It is not a dead thing, though it looks and smells like death: like every dreadspawn it was made, it is alive, and it does not breed. The one that is known lives in the [Drowned Country]{.name data-type="place/region"}, the vast marshes of [[place-grkrhlmrgn|Grukarholm]], where neither [[lore-grukarfolk|Grukar]] nor the armies of the Nordmal will follow it, and it has eaten its way across a quarter of a great bog.
 
 ## Presentation
 
@@ -200,7 +200,7 @@ The mire has no fixed shape. It is usually a heaving column or a low mound of bl
 
 ## In the Land
 
-Grukarholm's marshlands are a vast complex of swamp, peat-bog, slow water and seasonal flood covering perhaps a quarter of the region, passable on foot only when they freeze in deep winter or in a few weeks of dry summer. The mire moves through them slowly and has done so for longer than any Grukar tribe remembers, and behind it lies a track of dead bog, gray reeds and bare trees that the tribes call by their own words and the [[lore-varokhiclt|Varokh]] call the **[Black Road]{.name data-type="place/feature"}**. It eats fish, water birds, deer, carrion, the plants of the bog itself, and any Grukar or traveler it catches. It positions itself at the islands and cause-walks where animals and people must cross, and it goes deep into the wettest bog when it is hurt.
+Grukarholm's marshlands are a vast complex of swamp, peat-bog, slow water and seasonal flood covering perhaps a quarter of the region, passable on foot only when they freeze in deep winter or in a few weeks of dry summer. The mire moves through them slowly and has done so for longer than any Grukar tribe remembers, and behind it lies a track of dead bog, gray reeds and bare trees that the tribes call by their own words and the [[lore-varokhiclt|Varokh]] call the [Black Road]{.name data-type="place/feature"}. It eats fish, water birds, deer, carrion, the plants of the bog itself, and any Grukar or traveler it catches. It positions itself at the islands and cause-walks where animals and people must cross, and it goes deep into the wettest bog when it is hurt.
 
 ## Key Behaviors
 

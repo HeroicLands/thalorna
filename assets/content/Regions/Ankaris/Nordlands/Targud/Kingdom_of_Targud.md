@@ -102,14 +102,14 @@ The forts are the kingdom's whole system of defense, and they have been since 61
 
 ## The Royal Line
 
-Targud's kings come from the **[Driskaruk]{.name data-type="affiliation/lineage"}**, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
+Targud's kings come from the [Driskaruk]{.name data-type="affiliation/lineage"}, whose name says they hold the crown as a charge kept against something, and the something has always been the east. They held their hall at Nulthgard until 613 and have held it at Tvalgard since.
 
-- **[Skruldmil I]{.name data-type="being/npc"}**, about 528 to 556, raised the first eastern watchtowers.
-- **[Skruldmil II]{.name data-type="being/npc"}**, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
-- **[Braldmil I]{.name data-type="being/npc"}**, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
-- **[Skruldmil III]{.name data-type="being/npc"}**, about 686 to 700.
-- **[Thraldvir]{.name data-type="being/npc"}**, about 700 to 707, whose reign was the shortest in the line.
-- **[Braldmil II]{.name data-type="being/npc"}**, king since 707.
+- [Skruldmil I]{.name data-type="being/npc"}, about 528 to 556, raised the first eastern watchtowers.
+- [Skruldmil II]{.name data-type="being/npc"}, about 604 to 630, lost the east to the Grukar horde, moved the hall to Tvalgard and founded the fort-rotation.
+- [Braldmil I]{.name data-type="being/npc"}, about 630 to 658, raised [[place-driskborg|Draskborg]] and the beacon line on the burned ground.
+- [Skruldmil III]{.name data-type="being/npc"}, about 686 to 700.
+- [Thraldvir]{.name data-type="being/npc"}, about 700 to 707, whose reign was the shortest in the line.
+- [Braldmil II]{.name data-type="being/npc"}, king since 707.
 
 Three kings in a generation is a hard run for a kingdom with three seats on Domsey, and the court at Tvalgard has learned to watch the men who stand closest to the present king. Braldmil II takes advice from his jester and denies it in public.
 

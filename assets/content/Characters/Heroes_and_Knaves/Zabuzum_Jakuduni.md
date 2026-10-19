@@ -461,7 +461,7 @@ The **Taruzelian Guild Enforcers** have a long memory for debts and slights. Bu'
 
 ### Affiliations
 
-Bu is captain of the **Tamzir** and the unquestioned leader of her crew. He maintains loose ties to **[The Taruzelian Veterans' Brotherhood]{.name data-type="affiliation"}**, a mutual aid society for war veterans, though he rarely attends their gatherings. He has no guild membership, no noble connections, and no interest in acquiring either.
+Bu is captain of the **Tamzir** and the unquestioned leader of her crew. He maintains loose ties to [The Taruzelian Veterans' Brotherhood]{.name data-type="affiliation"}, a mutual aid society for war veterans, though he rarely attends their gatherings. He has no guild membership, no noble connections, and no interest in acquiring either.
 
 ## Plot Hooks
 

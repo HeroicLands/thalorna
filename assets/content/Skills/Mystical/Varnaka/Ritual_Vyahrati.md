@@ -29,6 +29,6 @@ Performed by
 Licensed by
 : No one. Vahrati keeps a thin formal priesthood, and her shrines are modest alcoves beside the temples of louder gods. Her devotees hold that smallness sacred
 
-**[The Year of Gentle Release]{.name data-type="lore/custom"}** takes in at a temple garden whatever is brought for composting, kitchen waste, household refuse, and the petals of weddings and funerals alike, and returns each to the ground with the proper rite. **[The Walk of the Empty House]{.name data-type="lore/custom"}** is three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
+[The Year of Gentle Release]{.name data-type="lore/custom"} takes in at a temple garden whatever is brought for composting, kitchen waste, household refuse, and the petals of weddings and funerals alike, and returns each to the ground with the proper rite. [The Walk of the Empty House]{.name data-type="lore/custom"} is three days of silent witness inside a house emptied by death or dissolution, before the property passes to its new keeping.
 
 See [[affiliation-vyahrati|Vahrati]].

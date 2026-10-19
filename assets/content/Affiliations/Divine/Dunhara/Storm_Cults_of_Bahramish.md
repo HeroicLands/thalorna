@@ -102,13 +102,13 @@ The recognition of vessels is the cults' most politically charged function. A re
 
 The Storm Cults recognize five working lineages, each focused on a distinct practice:
 
-- **[The Wind-Readers]{.name data-type="affiliation"}** (_Zevrogar_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhramis's mood. The largest lineage by membership.
-- **[The Rain-Callers]{.name data-type="affiliation"}** (_Belgogar_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
-- **[The Lightning-Marked]{.name data-type="affiliation"}** (_Qeshvi_)—initiates who have, by the cults' criteria, been touched directly by Báhramis's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is higher still). The smallest lineage and the most prestigious.
-- **[The Storm-Walkers]{.name data-type="affiliation"}** (_Ghuzmogar_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
-- **[The Voice-Bearers]{.name data-type="affiliation"}** (_Sehvogar_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
+- [The Wind-Readers]{.name data-type="affiliation"} (_Zevrogar_)—divinatory specialists; read the wind for omens, predict weather, interpret the more subtle signs of Báhramis's mood. The largest lineage by membership.
+- [The Rain-Callers]{.name data-type="affiliation"} (_Belgogar_)—propitiatory specialists; conduct the great rain-rituals at the season-turns and the emergency rituals during drought. The most ritually elaborate lineage.
+- [The Lightning-Marked]{.name data-type="affiliation"} (_Qeshvi_)—initiates who have, by the cults' criteria, been touched directly by Báhramis's lightning (usually figuratively, by visions or prophetic seizure; rarely literally, in which case the survivor's status is higher still). The smallest lineage and the most prestigious.
+- [The Storm-Walkers]{.name data-type="affiliation"} (_Ghuzmogar_)—physical practitioners; walk into the storms to interpret them from within; specialty includes the reading of the great seasonal weather-systems. A demanding and dangerous practice.
+- [The Voice-Bearers]{.name data-type="affiliation"} (_Sehvogar_)—orators and reciters; carry the cults' standing repertoire of myth, hymn, and ritual formula; train the apprentices in textual matters.
 
-Each lineage has its own internal hierarchy: apprentice (_hamelogar_), recognized practitioner (_pevrogar_), senior elder (_ruzhogar_). Cross-lineage gatherings occur at the season-turns at the Stone of Ranaz, where the **[Council of Elders]{.name data-type="affiliation/governmental"}** (the assembled senior elders of all five lineages) deliberates on matters affecting the cults as a whole—most importantly, the recognition of vessels.
+Each lineage has its own internal hierarchy: apprentice (_hamelogar_), recognized practitioner (_pevrogar_), senior elder (_ruzhogar_). Cross-lineage gatherings occur at the season-turns at the Stone of Ranaz, where the [Council of Elders]{.name data-type="affiliation/governmental"} (the assembled senior elders of all five lineages) deliberates on matters affecting the cults as a whole—most importantly, the recognition of vessels.
 
 ## Notable Members
 

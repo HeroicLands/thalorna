@@ -389,15 +389,15 @@ Hvulgselda is a skilled sailor and navigator who can read the weather, currents,
 
 ### Patrons
 
-**[Hvilgmil the Shipwright]{.name data-type="being/npc"}**—Her father, who maintains a prosperous shipyard and provides Hvulgselda with repairs, supplies, and crew for her voyages.
+[Hvilgmil the Shipwright]{.name data-type="being/npc"}—Her father, who maintains a prosperous shipyard and provides Hvulgselda with repairs, supplies, and crew for her voyages.
 
-**[The Coastal Watch]{.name data-type="affiliation"}**—An informal alliance of fishing villages that pool resources to fund Hvulgselda's patrols of the shipping lanes in exchange for her protection.
+[The Coastal Watch]{.name data-type="affiliation"}—An informal alliance of fishing villages that pool resources to fund Hvulgselda's patrols of the shipping lanes in exchange for her protection.
 
 ### Enemies
 
 **Jarl [[being-gnaldrinnath|Gnaldrinna the Reaver]]**—A pirate queen who views Hvulgselda's patrols as an obstacle to her raiding operations. Gnaldrinna has placed a substantial bounty on Hvulgselda's head.
 
-**[The Deep Ones]{.name data-type="being/creature"}**—Mysterious creatures from beneath the waves who have taken a personal interest in Hvulgselda since she reclaimed the Ship of Thunder. They send storms and sea monsters to test and torment her.
+[The Deep Ones]{.name data-type="being/creature"}—Mysterious creatures from beneath the waves who have taken a personal interest in Hvulgselda since she reclaimed the Ship of Thunder. They send storms and sea monsters to test and torment her.
 
 ## Plot Hooks
 

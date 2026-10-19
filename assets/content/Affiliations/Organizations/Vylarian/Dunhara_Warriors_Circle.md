@@ -62,7 +62,7 @@ Convenes
 
 ## Overview
 
-The Circle is older than any of the tribes of the present day. The poets say it was founded when the first Dunhari warriors, wandering bands that had not yet settled into the territories they now claim, met and swore that no Dunhari blade would be raised against another while a common enemy walked the land. The **[Old Promise]{.name data-type="lore/custom"}** has been broken many times in small ways and has held every time it mattered, and the Circle exists to keep it and, now and then, to use it.
+The Circle is older than any of the tribes of the present day. The poets say it was founded when the first Dunhari warriors, wandering bands that had not yet settled into the territories they now claim, met and swore that no Dunhari blade would be raised against another while a common enemy walked the land. The [Old Promise]{.name data-type="lore/custom"} has been broken many times in small ways and has held every time it mattered, and the Circle exists to keep it and, now and then, to use it.
 
 A warrior joins by acclamation of the members. Nobody applies and no tribe appoints. The tests are unwritten and nobody disputes them: years of proven skill at arms, of leading warriors in the field, and of judgment other warriors trust. Many members are chieftains and many chieftains are not members, and the Circle holds warriors of humble birth who earned their place.
 
@@ -72,7 +72,7 @@ The Circle's authority is moral. It levies nothing and judges no quarrel between
 
 The Circle's full number is one hundred and eight warriors, the _baharan_, though some seventy usually attend a meeting. A member who stays away sends no one in his place; the rulings are made by those who come. Nobody is expelled, but a member who misses three meetings in a row is understood to have stepped aside.
 
-The longest-serving members form an informal inner body, the **[Council of Scars]{.name data-type="affiliation/governmental"}** (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
+The longest-serving members form an informal inner body, the [Council of Scars]{.name data-type="affiliation/governmental"} (_Tigh'Vast_), perhaps a dozen in any year. It does not vote separately, and when it is united the full Circle seldom goes against it.
 
 The Circle has no captain. The **Voice of the Quarter**, who opens the meeting, frames the questions and announces the rulings, is drawn by lot from those present and changes every meeting. The lot is drawn with marked stones, and between meetings [[affiliation-strmcltsbhrms|the Storm Cults]] keep the stones in trust, a small office of religious authority that has lasted centuries.
 
@@ -86,7 +86,7 @@ The Council of Scars
 
 ## The Two Principles
 
-The Circle holds two principles above all others. The **Old Promise**: no Dunhari blade is raised against another Dunhari while any outside enemy walks Dunhari land. The **[Quiet After]{.name data-type="lore/custom"}**: when the threat ends, the Circle's war ends. It annexes no land, holds no prisoner beyond his ransom and takes no lasting tribute. It removes a danger and goes home.
+The Circle holds two principles above all others. The **Old Promise**: no Dunhari blade is raised against another Dunhari while any outside enemy walks Dunhari land. The [Quiet After]{.name data-type="lore/custom"}: when the threat ends, the Circle's war ends. It annexes no land, holds no prisoner beyond his ransom and takes no lasting tribute. It removes a danger and goes home.
 
 Both have been tested. Twice in the last two centuries the Circle was petitioned to act against a Dunhari tribe whose leaders had done what the petitioners found intolerable, and twice it refused. One of those tribes became a vassal of the Tellumi Confederation and the other was swallowed by its neighbors within a generation, and the Circle counted both as the price of keeping the Old Promise whole.
 

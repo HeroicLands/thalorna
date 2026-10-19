@@ -76,7 +76,7 @@ The army landed at the delta and marched on [[place-khelaga|Khelaga]], where the
 
 ## The Crowning
 
-The river's priesthood crowns the commander of any army that holds the apex, and it crowned this one on the mound under the throne name **[Zab'el'Qar I]{.name data-type="being/npc"}**. He ruled as a Gar-Au for twelve years and was buried in the Khelathi manner. His son reigned after him, and the house closed in 395.
+The river's priesthood crowns the commander of any army that holds the apex, and it crowned this one on the mound under the throne name [Zab'el'Qar I]{.name data-type="being/npc"}. He ruled as a Gar-Au for twelve years and was buried in the Khelathi manner. His son reigned after him, and the house closed in 395.
 
 The chancery in [[place-orzara|Orzara]] heard of the crowning within the year. It entered the commander as a traitor, struck his name from every roll that carried it, and did not write it again. His own legions entered the Khelathi service with him, and the Empire's best army stayed on the far side of the sea.
 

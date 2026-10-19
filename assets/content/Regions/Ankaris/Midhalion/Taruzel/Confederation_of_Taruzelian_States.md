@@ -179,7 +179,7 @@ A single dramatic crackdown would have looked too much like the imperial oppress
 
 The most dangerous, the captains and militia leaders who refused to be silenced, were declared outlaws. Some were accused of piracy, an easy charge to fabricate against any captain who had served in the war-flotilla; others of sedition, of conspiracy against the Confederation, or of the catch-all crime of "disrupting public order." Warrants were issued and bounties posted, and the Auric Compact's enforcers and the Corsair League's patrol ships were given broad authority to hunt them down.
 
-Many of the outlaws took to the sea, and if the guilds wanted to call them pirates, pirates they became. The island channels and hidden coves that had sheltered the war-flotilla became their hunting ground. They raid guild shipping, shelter in ports the Corsair League cannot easily reach, and keep loose networks of mutual aid among the dispossessed. They call themselves the **[Free Captains]{.name data-type="affiliation"}**, the **[Unchained]{.name data-type="affiliation"}** and the **[Shoals Brotherhood]{.name data-type="affiliation"}**; the guilds call all of them pirates.
+Many of the outlaws took to the sea, and if the guilds wanted to call them pirates, pirates they became. The island channels and hidden coves that had sheltered the war-flotilla became their hunting ground. They raid guild shipping, shelter in ports the Corsair League cannot easily reach, and keep loose networks of mutual aid among the dispossessed. They call themselves the [Free Captains]{.name data-type="affiliation"}, the [Unchained]{.name data-type="affiliation"} and the [Shoals Brotherhood]{.name data-type="affiliation"}; the guilds call all of them pirates.
 
 ## The Taruzel of Today
 
@@ -242,7 +242,7 @@ The Kingdom of Amradad holds the mainland across the strait, and relations with 
 
 ## Commerce and Currency
 
-The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the **[Merazuni]{.name data-type="affiliation/governmental"}**, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
+The Confederation pays in the [[lore-trzlncrncy|Taruzelian currency]], the system it built after secession and administers through the [Merazuni]{.name data-type="affiliation/governmental"}, the treasury of the [[affiliation-vezakuni|Vezakuni]]. Its denominations are the Vylarian ones (Solden, Ardin and Bit), but they are backed by Taruzelian reserves rather than by the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], and the Taruzelian Solden is slightly underweight by the Vylarian standard. A network of Merazuni-affiliated moneylenders carries the banking. Vylarian script is not honored in Taruzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 

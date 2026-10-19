@@ -19,7 +19,7 @@ About 560 the [[affiliation-agnipantha|Agmi-pantra]] scoured a temple in [[place
 ## Rulers
 
 [[affiliation-vindhyalay|Shikharalaya]]
-: the widow **[Jvalasundari]{.name data-type="being/npc"}**, acclaimed about 590; three reigns since have kept the present policy on [[place-gudesroad|the Guides' Road]]; the present Maharava's successor is disputed between the two councils.
+: the widow [Jvalasundari]{.name data-type="being/npc"}, acclaimed about 590; three reigns since have kept the present policy on [[place-gudesroad|the Guides' Road]]; the present Maharava's successor is disputed between the two councils.
 
 Chendrapur
 : about 600 the temples refused a claimant for the second time, and about 640 the crown refused a House's succession for the second time. Neither refusal has been explained.

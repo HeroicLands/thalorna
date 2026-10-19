@@ -35,7 +35,7 @@ So the tradition runs: the kitchen's cup
   was the last the king drank.
 ```
 
-Once a year, at the **[Day of the Dissolution]{.name data-type="lore/gathering"}**, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
+Once a year, at the [Day of the Dissolution]{.name data-type="lore/gathering"}, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
 
 ## See Also
 

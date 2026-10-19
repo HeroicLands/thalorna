@@ -93,7 +93,7 @@ Her worship permeates Ki'ichek daily life. Every morning, mothers bring children
 
 The most sacred moment of a child's life comes at birth, when a midwife—understood as an earthly representative of Shaq'ik Ha'nal—guides the new person into existence. The first thing a newborn receives is not food but water on the lips, consecrating the child to the goddess. This is the rite that makes a Ki'ichek Water-Marked and so a member of the faith, and it is the only Itsani sacrament that cannot be delayed for an inauspicious day: the water is given when the child is born, whatever the calendar says, and the solar priesthood has never successfully argued otherwise.
 
-The major ceremony is the **[Ts'uqal Ne']{.name data-type="lore/custom"}** ("Moon Water"), during the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense, and jade. Every well, spring, reservoir and sacred pool in the city is visited in a single night, and the procession's route is itself a public statement of which waters the branch claims.
+The major ceremony is the [Ts'uqal Ne']{.name data-type="lore/custom"} ("Moon Water"), during the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense, and jade. Every well, spring, reservoir and sacred pool in the city is visited in a single night, and the procession's route is itself a public statement of which waters the branch claims.
 
 The goddess is given little blood and a great deal of water. Offerings are flowers, incense, jade and clean water carried some distance to be poured; the branch teaches that to bring water to water is the plainest way of saying that the gift is the labor. Fouling a sacred pool, by contrast, is the gravest sacrilege the branch recognizes, and the **Warden of the Sacred Pools** may bar an offender's whole household from the water—a sentence of practical exile.
 
@@ -109,7 +109,7 @@ Men serve, rarely, and chiefly in the physic gardens and the archives. The branc
 
 ## Relations
 
-Together with K'anish Ha'kan the goddess is invoked as one of the **[Twin Givers]{.name data-type="lore/deity"}**, the divine pair ensuring both agricultural and biological fertility. The two branches share a festival calendar, joint charitable distributions and, in smaller cities, their premises; it is the warmest standing relationship in the Itsani priesthood.
+Together with K'anish Ha'kan the goddess is invoked as one of the [Twin Givers]{.name data-type="lore/deity"}, the divine pair ensuring both agricultural and biological fertility. The two branches share a festival calendar, joint charitable distributions and, in smaller cities, their premises; it is the warmest standing relationship in the Itsani priesthood.
 
 With [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] the branch shares its holiest ground and very little else. Every sacred pool is understood as at once the goddess's body and a portal to Ch'al Ts'umaq, and which waters serve which rite on which nights has been settled city by city, over centuries, and not without acrimony. Where the settlement has broken down it has broken down badly, and a sacred pool fought over is remembered for generations.
 

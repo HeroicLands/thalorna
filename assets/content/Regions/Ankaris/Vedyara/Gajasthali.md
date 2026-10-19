@@ -8,7 +8,7 @@ tags: [inland, frontier]
 data: {demonym: null, lore: [], parents: [vandhyabhumi], population: null, packFolder: vedyara}
 ---
 
-**Gajastali**, the elephant ground, is the long slope of coarse grass where [[place-vandhyabhumi|Vandyabhumi]]'s plateau comes down to the plain of [[place-mahanadi|the Mahanodi]]. About 270 AF the coalition of [[affiliation-gomarga|Gomarga]] and the river kingdom of **[Purnatira]{.name data-type="affiliation/polity"}** met here with their war-elephants, both lines broke, and the dead were left to the rains ([[lore-fieldelephnt|the Field of Elephants]]). It is the second _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]], and the shallowest: a recurrence, slight, and wide.
+**Gajastali**, the elephant ground, is the long slope of coarse grass where [[place-vandhyabhumi|Vandyabhumi]]'s plateau comes down to the plain of [[place-mahanadi|the Mahanodi]]. About 270 AF the coalition of [[affiliation-gomarga|Gomarga]] and the river kingdom of [Purnatira]{.name data-type="affiliation/polity"} met here with their war-elephants, both lines broke, and the dead were left to the rains ([[lore-fieldelephnt|the Field of Elephants]]). It is the second _shorukshetra_ (blood-field) in [[place-vedyarargn|Vedyara]], and the shallowest: a recurrence, slight, and wide.
 
 ## What Is There
 

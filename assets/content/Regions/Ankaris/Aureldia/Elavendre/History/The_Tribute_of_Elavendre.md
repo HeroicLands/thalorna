@@ -88,7 +88,7 @@ The hill levy and the Áelendan war-bands gave the legion no battle. The legion 
 
 ## Valdun
 
-Queen **[Réidane]{.name data-type="being/npc"}** of the house of [Orethan]{.name data-type="affiliation/lineage"} saw that she could not defeat the legion and that it could not defeat the kingdom, and she treated with the _felzos_ (legate) at Valdun. The terms were these. [[affiliation-kngdmlvndr|Élavendre]] would keep its own laws, its customs and its line of kings. It would pay a yearly tribute in silver. And a Vylarian _felzos_ would take a house in [[place-beravel|Péravel]] to receive it.
+Queen [Réidane]{.name data-type="being/npc"} of the house of [Orethan]{.name data-type="affiliation/lineage"} saw that she could not defeat the legion and that it could not defeat the kingdom, and she treated with the _felzos_ (legate) at Valdun. The terms were these. [[affiliation-kngdmlvndr|Élavendre]] would keep its own laws, its customs and its line of kings. It would pay a yearly tribute in silver. And a Vylarian _felzos_ would take a house in [[place-beravel|Péravel]] to receive it.
 
 The [[lore-aelendnppl|Áelendan]] were no party to the treaty. The Tree-Line oath meant the crown could not speak for the mountains, and the queen did not claim to. The treaty bound the lowland kingdom to the [[affiliation-vylarinmpr|Empire]] and left the tribal lands, as they had always been, outside the crown's writ ([[lore-firstcrown|The First Crowning of Élavendre]]).
 

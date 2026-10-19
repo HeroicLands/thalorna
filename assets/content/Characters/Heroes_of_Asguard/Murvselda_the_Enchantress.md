@@ -391,7 +391,7 @@ Murvselda's charisma is her most powerful weapon; her voice carries a subtle enc
 
 **King [[being-vrildthann|Vrildthann]] of the [Northern Court]{.name data-type="affiliation/governmental"}**—The monarch who Murvselda saved from his corrupt advisor. He relies heavily on her counsel and has granted her considerable political authority.
 
-**[The Solrún Sisterhood]{.name data-type="affiliation"}**—A secret order of women devoted to [[affiliation-solrun|Solrún]] who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
+[The Solrún Sisterhood]{.name data-type="affiliation"}—A secret order of women devoted to [[affiliation-solrun|Solrún]] who use their influence to shape events from behind the scenes. Murvselda is one of their most prominent members.
 
 ### Enemies
 

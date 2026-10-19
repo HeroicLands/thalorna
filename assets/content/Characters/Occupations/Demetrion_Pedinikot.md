@@ -406,7 +406,7 @@ Ghorigios is barely noticed by most bazaar users, which is precisely how he pref
 
 ### Enemies
 
-**[Khasrikon Damakláhr]{.name data-type="being/npc"}**—A criminal leader who operates protection rackets and black-market operations throughout the bazaar. Khasrikon is aware of Ghorigios as an obstacle but also recognizes that Ghorigios is not particularly ambitious and can sometimes be worked around. Their relationship is more complex than simple opposition; they have a grudging mutual respect.
+[Khasrikon Damakláhr]{.name data-type="being/npc"}—A criminal leader who operates protection rackets and black-market operations throughout the bazaar. Khasrikon is aware of Ghorigios as an obstacle but also recognizes that Ghorigios is not particularly ambitious and can sometimes be worked around. Their relationship is more complex than simple opposition; they have a grudging mutual respect.
 
 ## Plot Hooks
 

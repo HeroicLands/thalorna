@@ -80,7 +80,7 @@ The faith cannot be separated from the civilization it serves. Government, law, 
 
 ## The Weighing
 
-The central doctrine of the end is **[The Weighing]{.name data-type="lore/theology"}**. After death both of a person's accounts are opened before the assembled gods: the temple account a scribe took, and the account [[lore-qearetdty|Qe'aret]] kept where no scribe was present. A soul short on either is taken by **[Algit]{.name data-type="being/creature"}**, the **Devourer of the Dead**; a soul whose entries close passes into the blessed [[place-zulaten|Zulaten]]. The doctrine shapes daily life. Even the powerful fear the verdict, and the knowledge that wealth cannot buy a favorable one is a check, however imperfect, on the worst abuses of power.
+The central doctrine of the end is [The Weighing]{.name data-type="lore/theology"}. After death both of a person's accounts are opened before the assembled gods: the temple account a scribe took, and the account [[lore-qearetdty|Qe'aret]] kept where no scribe was present. A soul short on either is taken by [Algit]{.name data-type="being/creature"}, the **Devourer of the Dead**; a soul whose entries close passes into the blessed [[place-zulaten|Zulaten]]. The doctrine shapes daily life. Even the powerful fear the verdict, and the knowledge that wealth cannot buy a favorable one is a check, however imperfect, on the worst abuses of power.
 
 So the gods are held to be present at the moments that bind people. They witness promises, and no offering erases an entry left open; when an entry closes, a god is asked to be present at the closing. Between those moments the faith is visible everywhere: in household offerings at the family shrine, in the crowded festivals of the year, and in the temple schools that train the scribes and physicians a town needs as often as it needs a priest.
 
@@ -114,7 +114,7 @@ Lem'Nelgir ("Servant of the God")
 Wazu ("Purified One")
 : the acolytes of the long temple education. A Wazu enters the temple school as a child or youth and studies sacred texts, ritual, history, mathematics, medicine and the reading of omens for years before ordination.
 
-The cults are separate and often rivals. The one body where their high priests sit together is the **[Sedjet Halzi]{.name data-type="affiliation/governmental"}**, the **Council of the High Priests**, which governs the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries.
+The cults are separate and often rivals. The one body where their high priests sit together is the [Sedjet Halzi]{.name data-type="affiliation/governmental"}, the **Council of the High Priests**, which governs the [[affiliation-garhalzi|Gar-Hálzi]] temple-treasuries.
 
 ## The Selat Gods
 

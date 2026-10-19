@@ -134,7 +134,7 @@ Nartun sits somewhere between the Vylarian Empire and the independent western ki
 
 A priestly aristocracy governs the kingdom. Noble families derive their authority from religious office, and advancement in Nartunese society requires both lineage and demonstrated piety. The high priesthood anoints the king, who is expected to embody [[lore-ardavondty|Árdavon]] (justice) and [[lore-marendasdty|Marendas]] (wisdom). Kings who fail to meet those expectations have been deposed, because the priesthood's power is real and not ceremonial.
 
-Nartun is not expansionist, and it is not weak. Its army is small but professional, and its knights, the **[Order of the Sacred Flame]{.name data-type="affiliation/order"}**, are among the finest heavy cavalry in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. The kingdom's chief strength is moral authority. Its pronouncements on matters of faith carry weight across the Aureldian world, and rulers and churchmen throughout the [[place-midhalnrgn|Mídhalión Region]] seek out its scholars and theologians.
+Nartun is not expansionist, and it is not weak. Its army is small but professional, and its knights, the [Order of the Sacred Flame]{.name data-type="affiliation/order"}, are among the finest heavy cavalry in the western part of the [[place-ankrscntnnt|Ankaris Continent]]. The kingdom's chief strength is moral authority. Its pronouncements on matters of faith carry weight across the Aureldian world, and rulers and churchmen throughout the [[place-midhalnrgn|Mídhalión Region]] seek out its scholars and theologians.
 
 ## Relations
 

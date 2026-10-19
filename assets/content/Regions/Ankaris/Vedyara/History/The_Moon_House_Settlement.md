@@ -38,13 +38,13 @@ The [Nine Houses]{.name data-type="affiliation"} of [[affiliation-chandrapur|Che
 
 ## The Refusal
 
-About 312 AF a king of Chendrapur died, and his son, **[Ratnasura]{.name data-type="being/npc"}**, came to the temples to be crowned. The temples of the [[affiliation-varakpnthn|Varnuka]] are older than the crown, and the rites their ushtakas perform at an accession are what make a man king. They refused him. Neither the temples nor any later king has said why, and it was the first of the two refusals the city remembers.
+About 312 AF a king of Chendrapur died, and his son, [Ratnasura]{.name data-type="being/npc"}, came to the temples to be crowned. The temples of the [[affiliation-varakpnthn|Varnuka]] are older than the crown, and the rites their ushtakas perform at an accession are what make a man king. They refused him. Neither the temples nor any later king has said why, and it was the first of the two refusals the city remembers.
 
 The city had a crown and no king, at the end of a century in which kingdoms all round it were being broken by their neighbors. The nine great cutting houses, which then as now could not clear a cargo without the crown and which the crown could not do without, settled it among themselves.
 
 ## The Settlement
 
-They put a cousin of the dead king, **[Elvunatha]{.name data-type="being/npc"}**, on the throne, and the temples crowned him. The terms were theirs:
+They put a cousin of the dead king, [Elvunatha]{.name data-type="being/npc"}, on the throne, and the temples crowned him. The terms were theirs:
 
 - **Nine seats of one height.** Each House's head sits as Kulena on a seat the same height, the same stone and the same distance from the dais as every other.
 - **The quarters.** Each House keeps the quarter of the city it has always kept, and a dispute between two men of one quarter goes to its Kulena.

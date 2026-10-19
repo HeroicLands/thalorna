@@ -62,7 +62,7 @@ In the summer of 158 BF a host of the steppe came up out of the [[place-khzrynds
 
 ## The Walling of the Springs
 
-The five eastern cities mustered under **[Strátimos Ghéranides]{.name data-type="being/npc"}** of the pass-city. He did not take the host in the open, where it would have had the advantage of every horse it rode. He walled the springs. Each spring of the foothills was ringed with a fort of stone and turf, garrisoned and stocked, and the host found that every water it could reach lay under arrows.
+The five eastern cities mustered under [Strátimos Ghéranides]{.name data-type="being/npc"} of the pass-city. He did not take the host in the open, where it would have had the advantage of every horse it rode. He walled the springs. Each spring of the foothills was ringed with a fort of stone and turf, garrisoned and stocked, and the host found that every water it could reach lay under arrows.
 
 The fighting went on for eleven days. The host attacked the spring-forts one after another and took none. Its horses and riders died of arrows at the walls and then of thirst in the open ground between them, in the dry country below the passes, and the survivors went back toward the steppe by the way they had come.
 

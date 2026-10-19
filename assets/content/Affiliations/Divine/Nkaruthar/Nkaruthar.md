@@ -156,7 +156,7 @@ The priesthood of Nkaru'thar is divided among the three city-states, each mainta
 - **Shebari Shimbing** ("Servant of Gold")—Priest/Priestess
 - **Korthari Mákoring** ("Guardian of Wealth")—Senior Priest
 - **Ndumbari Zhabing** ("Master of the Market")—Temple Master
-- **[Ngolu Nkaring]{.name data-type="affiliation/governmental"}** ("Council of Fire")—The ruling priest-nobles (collective authority)
+- [Ngolu Nkaring]{.name data-type="affiliation/governmental"} ("Council of Fire")—The ruling priest-nobles (collective authority)
 
 #### Vuthraka (Wild Flame)
 

@@ -48,7 +48,7 @@ data:
         - which Nordheim jarl signed the contract, and whether the crown at Knalthstead knew
 ---
 
-The Stormhand's Field is the story the [Compact-Hall]{.name data-type="place/structure"} at [[place-hringstead|Hringstead]] tells every captain it signs: the **[Stormhand Brotherhood]{.name data-type="affiliation/venture"}**, six hundred swords on a Nordheim jarl's contract, went into the forest to take a hill and came out in ransom. The [[lore-varokhiclt|Varokh]] tell the same story from the other side, and they tell it as the one fight with the Nordmen they are proud of having ended well.
+The Stormhand's Field is the story the [Compact-Hall]{.name data-type="place/structure"} at [[place-hringstead|Hringstead]] tells every captain it signs: the [Stormhand Brotherhood]{.name data-type="affiliation/venture"}, six hundred swords on a Nordheim jarl's contract, went into the forest to take a hill and came out in ransom. The [[lore-varokhiclt|Varokh]] tell the same story from the other side, and they tell it as the one fight with the Nordmen they are proud of having ended well.
 
 ## The Contract
 
@@ -56,7 +56,7 @@ The hill of [[place-falkensten|Falkenstein]] commands the easiest crossing betwe
 
 ## The Week in the Forest
 
-The western villages' elders met under the old pines at [[place-harholt|Harholt]], where Falkhaven's musters gather in the thaw, agreed that the danger was common to all of them, and laid their fragments of the talisman together for **[Waldulf yra Hildskorn wur Falkenstein]{.name data-type="being/npc"}**, War Chief of the hill fort the company had come for. Waldulf did not hold the hill. He let the Stormhand take its empty slopes, let it march on for the villages behind, and kept the muster in the trees on either side of its road for a week, as [Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"} had done with the legion four centuries before. On the seventh day the company came down into a wooded valley where six hundred men in mail could not form a line, and the muster came out of the trees.
+The western villages' elders met under the old pines at [[place-harholt|Harholt]], where Falkhaven's musters gather in the thaw, agreed that the danger was common to all of them, and laid their fragments of the talisman together for [Waldulf yra Hildskorn wur Falkenstein]{.name data-type="being/npc"}, War Chief of the hill fort the company had come for. Waldulf did not hold the hill. He let the Stormhand take its empty slopes, let it march on for the villages behind, and kept the muster in the trees on either side of its road for a week, as [Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"} had done with the legion four centuries before. On the seventh day the company came down into a wooded valley where six hundred men in mail could not form a line, and the muster came out of the trees.
 
 Half the company died in the valley. The muster took most of the rest alive, which is the thing the Varokh tell the story for. A Nordlander is worth ransoming, and these were worth a great deal: the Compact paid for every one of them, through [[place-waldburg|Waldburg]], over the next two winters. The muster let the survivors carry their dead home over the frontier under truce, and the Brotherhood's dead got their grave-ale in their own halls. No field was left in the valley, because no one was left on it.
 

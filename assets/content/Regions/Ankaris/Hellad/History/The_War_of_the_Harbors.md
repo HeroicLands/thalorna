@@ -75,7 +75,7 @@ At the edge of a ridge in the Helionite hills there is a stone, left by The War 
 
 When the legions went north in the years after [[lore-threewinters|the Three Winters]], the cities of [[place-helionis|Helionis]] found that nobody was left to forbid them to fight. The [[affiliation-vylarinmpr|Empire]] kept its name on the chancery's roll and took its soldiers home, and the councils of the cities took up their own levies for the first time since the [Vylarian Republic]{.name data-type="affiliation/polity"}'s conquest.
 
-[[affiliation-pelagora|Pelagora]] held the harbors, and since its separate peace it had held them as the Republic's naval ally, with no one to ask what it charged. In about 548 its assembly, led by the strátimor **[Rhézamos Férandides]{.name data-type="being/npc"}**, voted a schedule of dues on every hull that used a Pelagoran harbor, and closed the coast to the Thirenaean and Kalidrian ships that would not pay it.
+[[affiliation-pelagora|Pelagora]] held the harbors, and since its separate peace it had held them as the Republic's naval ally, with no one to ask what it charged. In about 548 its assembly, led by the strátimor [Rhézamos Férandides]{.name data-type="being/npc"}, voted a schedule of dues on every hull that used a Pelagoran harbor, and closed the coast to the Thirenaean and Kalidrian ships that would not pay it.
 
 ## The Three Summers
 

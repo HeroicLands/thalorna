@@ -396,7 +396,7 @@ Skruldthann is a devastating melee combatant whose cursed fellblade can shatter 
 
 ### Enemies
 
-**[The Order of the Shining Shield]{.name data-type="affiliation/order"}**—A new knightly order risen from the ashes of the one Skruldthann destroyed. They have sworn to reclaim their lost fortress and avenge their fallen brothers.
+[The Order of the Shining Shield]{.name data-type="affiliation/order"}—A new knightly order risen from the ashes of the one Skruldthann destroyed. They have sworn to reclaim their lost fortress and avenge their fallen brothers.
 
 [[being-sklfrvthndrstrk|Skalforv Thunderstrike]]—The champion of [[lore-thrunvalddty|Thrunvald]] views the Helspawn as an affront to the natural order and has clashed with Skruldthann's forces multiple times.
 

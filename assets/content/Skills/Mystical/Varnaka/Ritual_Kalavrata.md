@@ -29,6 +29,6 @@ Performed by
 Licensed by
 : No one. [[lore-kalavratadty|Kalavrata]] has no priesthood of his own, and answers no petition undertaken in hope of one
 
-**[The Vigil of Final Breath]{.name data-type="lore/custom"}** attends a dying stranger from the lighting of the threshold lamp to the sounding of the black conch, without sleep, speech or flinching. **[The Walk Between Fires]{.name data-type="lore/custom"}** is a night walk, alone, between the cremation grounds of three villages, meditating on what each fire has released. **[The Silent Year]{.name data-type="lore/custom"}** is a year of total silence, broken only to speak the rites of passage for the dying. Those are the rites that place the coin of Passage in a hand at cremation.
+[The Vigil of Final Breath]{.name data-type="lore/custom"} attends a dying stranger from the lighting of the threshold lamp to the sounding of the black conch, without sleep, speech or flinching. [The Walk Between Fires]{.name data-type="lore/custom"} is a night walk, alone, between the cremation grounds of three villages, meditating on what each fire has released. [The Silent Year]{.name data-type="lore/custom"} is a year of total silence, broken only to speak the rites of passage for the dying. Those are the rites that place the coin of Passage in a hand at cremation.
 
 See [[affiliation-kalavrata|Kalavrata]].

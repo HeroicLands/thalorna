@@ -491,7 +491,7 @@ The Village Elder [Dvarnselda Stonekeeper]{.name data-type="being/npc"}
 ### Enemies
 
 [The Crimson Raiders]{.name data-type="affiliation/criminal"}
-: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, **[Skraldaruk]{.name data-type="being/npc"}**, has specifically marked Vrildmil, seeing him as an obstacle to their plans.
+: A particularly organized bandit gang that has proven difficult to eliminate. Their leader, [Skraldaruk]{.name data-type="being/npc"}, has specifically marked Vrildmil, seeing him as an obstacle to their plans.
 
 Corrupt Local Officials
 : Some magistrates profit from allowing banditry to continue unchecked. Vrildmil's aggressive pursuit of raiders threatens their arrangements.

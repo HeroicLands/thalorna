@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-Hands stay on the table at the [Compact-Hall]{.name data-type="place/structure"} in [[place-hringstead|Hringstead]], where captains come to swear their companies into the Compact; it is Captain **[Vrildselda Eldskari]{.name data-type="being/npc"}**'s first word to each of them. She commands the **[Hringstead Long-Ship Fellowship]{.name data-type="affiliation/venture"}**, the largest signed company and the garrison of the **Compact-Hall**, and she has watched men who hunted each other across three kingdoms share one board there. Every signed warrior on Compact-Hall ground is under truce, and to kill a man at Hringstead, even one's worst enemy, is an act for which there is no expiation.
+Hands stay on the table at the [Compact-Hall]{.name data-type="place/structure"} in [[place-hringstead|Hringstead]], where captains come to swear their companies into the Compact; it is Captain [Vrildselda Eldskari]{.name data-type="being/npc"}'s first word to each of them. She commands the [Hringstead Long-Ship Fellowship]{.name data-type="affiliation/venture"}, the largest signed company and the garrison of the **Compact-Hall**, and she has watched men who hunted each other across three kingdoms share one board there. Every signed warrior on Compact-Hall ground is under truce, and to kill a man at Hringstead, even one's worst enemy, is an act for which there is no expiation.
 
 The Málalidabandalag, the "Pay-Troop Compact" in the north's own speech, is the league of the free companies of the [[place-nrdlndsrgn|Nordlands]]: sworn warriors-for-hire who serve kingdoms, jarls and merchant lords. Its Hall keeps the trade honest, and an outsider remembers it for two things, the Truce and the bronze ring that signed captains wear on the thumb.
 
@@ -85,7 +85,7 @@ The Compact confers three standings:
 - A warrior of his company holds the lesser standing of Sworn of a Signed Company. He is testified by his captain's oath rather than sworn to the Compact directly, and he is bound by whatever his captain swore on the company's behalf.
 - A captain who breaks the Compact's rules is Discharged in Disgrace by Council vote. His ring is surrendered, his company's contracts are dishonored, and its old debts pass to rivals the Compact will not restrain.
 
-Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadr_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is **[Hrindvir Vetreldr]{.name data-type="being/npc"}**, a one-eyed veteran of [[lore-vthgrdsccwrs|the Vithgard succession wars]], widely respected and very much feared.
+Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadr_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is [Hrindvir Vetreldr]{.name data-type="being/npc"}, a one-eyed veteran of [[lore-vthgrdsccwrs|the Vithgard succession wars]], widely respected and very much feared.
 
 Thirty-four signed companies of meaningful size answer to the Hall, from twelve-sword scouting bands to the Hringstead Long-Ship Fellowship, which counts nearly four hundred warriors and twelve ships. The largest signed company in living memory was the [Stormhand Brotherhood]{.name data-type="affiliation/venture"}, six hundred swords, [[lore-stormhandfld|broken about 692]] in western [[place-vrystwald|Vristwald]], a week's march over the frontier, on a Nordheim jarl's contract. People still tell its story as a caution.
 
@@ -104,9 +104,9 @@ The rules are short, and a captain who breaks any of them faces expulsion. In th
 ## Companies You Will Hear Named
 
 - The Hringstead Long-Ship Fellowship is the largest signed company and the Hall's semi-permanent garrison, under Captain Vrildselda Eldskari.
-- The **[Wolves of Vithgard]{.name data-type="affiliation/venture"}** are long-standing inland heavy infantry whose specialty is sieges.
+- The [Wolves of Vithgard]{.name data-type="affiliation/venture"} are long-standing inland heavy infantry whose specialty is sieges.
 - [[affiliation-threskaett|Threskaett]] of [[place-norgaad|Norgaad]] began as coastal raiders and now works as a legitimate naval contractor, chiefly for the merchant kings of [[place-aelwyth|Aelwyth]].
-- The **[Iron-Beard Company]{.name data-type="affiliation/venture"}** is small, elite and expensive, and the only signed company that works routinely outside the Nordlands. It has taken contracts as far south as [[place-helionis|Helionis]].
+- The [Iron-Beard Company]{.name data-type="affiliation/venture"} is small, elite and expensive, and the only signed company that works routinely outside the Nordlands. It has taken contracts as far south as [[place-helionis|Helionis]].
 
 [[affiliation-blckpnwlvs|The Blackpine Wolves]] of Vristwald are the best-known unsigned company. The Compact refused them for repeated oath-breaking under their previous captain.
 

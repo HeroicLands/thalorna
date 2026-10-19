@@ -17,7 +17,7 @@ data:
 [[place-provenzrgn|Provenzia Region]]—a short, cliff-bound coast and the long river valley behind
 it, and the source of the finest peaches on the [[place-ankrscntnnt|Ankaris Continent]] and some of its more highly regarded wine.
 
-The barony is held of the Crown at [[place-jalnazdal|Jalnasdal]] by **[Selvare Zuravel]{.name data-type="being/npc"}**, who is
+The barony is held of the Crown at [[place-jalnazdal|Jalnasdal]] by [Selvare Zuravel]{.name data-type="being/npc"}, who is
 also Baron of [[place-kyvarel|Kivarel]], and who sits at [[place-elthrembis|Eltrembis]]. His clan's prominent support of
 the [Order of the Burning Brand]{.name data-type="affiliation/order"} gives a small agricultural barony rather more weight in Provenzian
 affairs than its size would suggest.

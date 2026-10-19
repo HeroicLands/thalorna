@@ -64,11 +64,11 @@ The secretary of a Nartunese priest-noble, briefing an envoy from [[place-orzara
 
 ## The Request
 
-[[lore-ustaranschism|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|the Sacred Forge]] and [[affiliation-blackflame|the Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Empire]] went to the Orzas **[Karomfos]{.name data-type="being/npc"}** and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
+[[lore-ustaranschism|The Ústaran Schism]] split the faith of [[lore-ustarondty|Ústaron]], the Forge-Lord, into [[affiliation-sacredforge|the Sacred Forge]] and [[affiliation-blackflame|the Black Flame]] about 220. The orthodox clergy of the [[affiliation-vylarinmpr|Empire]] went to the Orzas [Karomfos]{.name data-type="being/npc"} and asked him to proscribe the new faith. He refused. The Black Flame had temples in his capital and officers in his legions, and the Empire's law permitted every faith that did not threaten the stability of the state.
 
 ## The Withdrawal
 
-The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, **[Daronos]{.name data-type="being/npc"}**, the first to take the throne from the priesthood's hand, and raised the [Order of the Sacred Flame]{.name data-type="affiliation/order"}, a body of knights, to hold the city's walls and the land around it.
+The high priesthood of [[place-nartum|Nartun]], the oldest sacred city of the heartland, did not accept the answer. About 224 it withdrew from imperial obedience. It anointed a king of its own, [Daronos]{.name data-type="being/npc"}, the first to take the throne from the priesthood's hand, and raised the [Order of the Sacred Flame]{.name data-type="affiliation/order"}, a body of knights, to hold the city's walls and the land around it.
 
 The Orzas sent legions to bring the city back. They reached Nartun in the autumn, found its gates shut and its knights on the walls, and turned back at the first winter. No Orzas has sent a second army.
 

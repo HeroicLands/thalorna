@@ -51,7 +51,7 @@ data:
         - why the Arcane Order wanted a kingdom here when it already advised every court on the island
 ---
 
-[[affiliation-kingdmdnvr|The last king of Dúnavarre]]** is remembered, in so far as he is remembered, for his chair. **[Yenral]{.name data-type="being/npc"}** was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
+[[affiliation-kingdmdnvr|The last king of Dúnavarre]]** is remembered, in so far as he is remembered, for his chair. [Yenral]{.name data-type="being/npc"} was set aside about 490 AF without a blow and lived out his life in comfort at [[place-ravenmoor|Ravenmoor]]. The chair he sat in at the head of the hall is still there, kept and dusted, and no one has sat in it since.
 
 ## Three Reigns
 

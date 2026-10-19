@@ -50,11 +50,11 @@ A captain of the march companies puts it shortly to a new man: "The road goes ro
 
 ## The March Before the Storm
 
-Before [[affiliation-bhumipala|Bhumipala]], the [[place-vedyarargn|Vedyara Region]]'s north-western march was a kingdom called **[Marupala]{.name data-type="affiliation/polity"}**, the desert-keeper. Its crown sat at [[place-ludrapur|Ludrapur]], a walled town between the coast and the foothills, and it held the road round the western end of the [[place-graznmntns|Grazian]] wall with a host of horse and foot and no forts on the road at all. How old the crown was, nobody can say: the record of the march burned with its capital.
+Before [[affiliation-bhumipala|Bhumipala]], the [[place-vedyarargn|Vedyara Region]]'s north-western march was a kingdom called [Marupala]{.name data-type="affiliation/polity"}, the desert-keeper. Its crown sat at [[place-ludrapur|Ludrapur]], a walled town between the coast and the foothills, and it held the road round the western end of the [[place-graznmntns|Grazian]] wall with a host of horse and foot and no forts on the road at all. How old the crown was, nobody can say: the record of the march burned with its capital.
 
 ## The Spring of 315
 
-In the spring of 315 a steppe orkunoq came down [[place-wstrndscnt|the Western Descent]] ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march had warning of it from the Dunhari wells and not much more. The last king, **[Ashvakirti]{.name data-type="being/npc"}**, took his whole host up the road to meet it where the foothills open onto [[place-marchroad|the march road]], a day and a half west of where [[place-ashvapada|Ashvapada]] stands now, because that was the last ground before the host would be loose on the plain.
+In the spring of 315 a steppe orkunoq came down [[place-wstrndscnt|the Western Descent]] ([[lore-hndrdbnnrs|the Storm of the Hundred Banners]]). The march had warning of it from the Dunhari wells and not much more. The last king, [Ashvakirti]{.name data-type="being/npc"}, took his whole host up the road to meet it where the foothills open onto [[place-marchroad|the march road]], a day and a half west of where [[place-ashvapada|Ashvapada]] stands now, because that was the last ground before the host would be loose on the plain.
 
 The host overran his line there. Ashvakirti died with his army, and the chronicles of the river country, which are all the record left, say that none of the host came home. The orkunoq went on down the road, burned Ludrapur, swept the march and turned west across [[place-dunharargn|Dunhara]] the same year, toward the walls of [[affiliation-kngdmmrdd|Amradad]], and broke up over the winter on its orkun's death.
 

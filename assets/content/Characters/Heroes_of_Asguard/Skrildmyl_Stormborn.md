@@ -389,7 +389,7 @@ Skrilmil is a natural leader whose presence on the battlefield can turn the tide
 
 ### Patrons
 
-**[The Council of Elders]{.name data-type="affiliation/governmental"}**—The governing body of his clan, who support Skrilmil's leadership and provide him with warriors, resources, and political backing.
+[The Council of Elders]{.name data-type="affiliation/governmental"}—The governing body of his clan, who support Skrilmil's leadership and provide him with warriors, resources, and political backing.
 
 [[being-hnirvmylwise|Hnirmil the Wise]]—The renowned seer is Skrilmil's advisor, providing prophetic guidance and diplomatic counsel that complements Skrilmil's martial approach.
 

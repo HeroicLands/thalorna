@@ -16,7 +16,7 @@ the middle of [[place-aelwyth|Aelwyth]]. They are unremarkable mountains and the
 In **984 BF** the armies of the elder kingdom met the [[lore-pelwarpepl|Pelwar]] and their [Varkhad]{.name data-type="lore/folk"} masters beneath them, and the **Sinale king of
 Aelwyth was killed** by the Varkhad.
 
-It was the decisive engagement of the **[Great War]{.name data-type="lore/history"}**, and its consequences went far past who held the
+It was the decisive engagement of the [Great War]{.name data-type="lore/history"}, and its consequences went far past who held the
 field. With the king dead the surviving [[lore-flksinale|Sinale]] **withdrew**—out of the war, out of
 the kingdom, and into the deep forest of the south that is now [[place-hallowwood|the Hallowwood]]—and
 left the [[lore-flkkhazar|Khazari]] to finish it.

@@ -15,9 +15,9 @@ data:
   packFolder: vedyara
 ---
 
-**Bharanya** (5,400) stands on the lower reaches of [[place-mahanadi|the Mahanodi]], and it is there for the temple. The great temple, [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of **[The Council of Three]{.name data-type="affiliation/governmental"}**.
+**Bharanya** (5,400) stands on the lower reaches of [[place-mahanadi|the Mahanodi]], and it is there for the temple. The great temple, [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of [The Council of Three]{.name data-type="affiliation/governmental"}.
 
-The town belongs to a janapoda of the Mahanodi circuit and holds no seat of its own at the **[Mahva-Melra]{.name data-type="lore/gathering"}**. What it has instead is the temple's standing, which is greater than the janapoda's and older.
+The town belongs to a janapoda of the Mahanodi circuit and holds no seat of its own at the [Mahva-Melra]{.name data-type="lore/gathering"}. What it has instead is the temple's standing, which is greater than the janapoda's and older.
 
 ## The Mounds
 

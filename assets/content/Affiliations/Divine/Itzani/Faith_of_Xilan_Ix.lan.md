@@ -87,7 +87,7 @@ The Faith of Shilan Ish'lan serves travelers on the [[place-kchchkcntnnt|K'ich'c
 
 ## Worship
 
-The **[Ish'lan Tsoqol]{.name data-type="lore/custom"}** (traveler's blessing) is performed when caravans assemble for significant journeys—priests anoint travelers with aromatic oils and provide charms inscribed with the god's glyph. These blessings often include practical instruction: advice about water sources, reports of bandits, and route conditions. The mixture of liturgy and intelligence is deliberate and is the branch's whole character: the god is served by getting people where they are going, and a blessing that omits the state of the road is held to be incomplete.
+The [Ish'lan Tsoqol]{.name data-type="lore/custom"} (traveler's blessing) is performed when caravans assemble for significant journeys—priests anoint travelers with aromatic oils and provide charms inscribed with the god's glyph. These blessings often include practical instruction: advice about water sources, reports of bandits, and route conditions. The mixture of liturgy and intelligence is deliberate and is the branch's whole character: the god is served by getting people where they are going, and a blessing that omits the state of the road is held to be incomplete.
 
 Departure and arrival are both marked. A traveler setting out touches the shrine stone at the city's edge and leaves something small—a bead, a feather, a smear of blood from a pricked thumb; on returning, he leaves something of the journey itself, and the accumulated deposits at a busy shrine are a rough history of where that city's people have been. To pass a shrine without the gesture is not sinful but unlucky, and Ki'ichek travelers are conspicuously unwilling to test it.
 

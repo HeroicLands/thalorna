@@ -389,7 +389,7 @@ Dvirnmil is a master of disguise, forgery, and social engineering. He can talk h
 
 ### Patrons
 
-**[The Underworld Guild of Gnaldrholm]{.name data-type="affiliation/criminal"}**—An organized crime network in [[place-gnaldrholm|Gnaldrholm]] that uses Dvirnmil's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
+[The Underworld Guild of Gnaldrholm]{.name data-type="affiliation/criminal"}—An organized crime network in [[place-gnaldrholm|Gnaldrholm]] that uses Dvirnmil's talents for high-profile heists and cons in exchange for a share of the profits and protection from the law.
 
 **Velgrímr's Whisper**—The tales say the god himself takes an intermittent interest in Dvirnmil, providing subtle guidance and occasional divine luck when the trickster is in particularly entertaining trouble.
 

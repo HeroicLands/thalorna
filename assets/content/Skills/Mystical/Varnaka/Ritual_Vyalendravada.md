@@ -31,6 +31,6 @@ Performed by
 Licensed by
 : The [[affiliation-vyalendravada|Vyalendravada]] alone, the monistic sect whose doctrine holds that [[lore-vyalendradty|Vyalendra]] is the single deity from whom all others emanate. In that doctrine, to read his pattern correctly is to read the whole of the divine order at once
 
-Ordination to Parema-Achorya follows one of two ordeals. In **[the Geometer's Ordeal]{.name data-type="lore/custom"}** the aspirant designs a small temple from first principles, holding every proportion to the canonical diagram, and defends the design in public before a council of Acharyas. **[The Silent Reading]{.name data-type="lore/custom"}** is a year of philosophical study in the temple library, without speech and without the company of any living soul but the librarian.
+Ordination to Parema-Achorya follows one of two ordeals. In [the Geometer's Ordeal]{.name data-type="lore/custom"} the aspirant designs a small temple from first principles, holding every proportion to the canonical diagram, and defends the design in public before a council of Acharyas. [The Silent Reading]{.name data-type="lore/custom"} is a year of philosophical study in the temple library, without speech and without the company of any living soul but the librarian.
 
 See [[affiliation-vyalendravada|Vyalendravada]].

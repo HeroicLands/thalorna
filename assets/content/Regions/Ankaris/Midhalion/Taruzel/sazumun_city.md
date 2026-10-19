@@ -18,7 +18,7 @@ Sazumun is the conduit through which goods flow between the Dunhari desert trade
 
 ## Who Governs
 
-The merchant guilds hold absolute power, and their councils meet in the towering **[House of Factors]{.name data-type="place/structure"}** that overlooks the harbor. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. A captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to sign on with her. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, so a visitor who wants to trade here does it inside their rules or not at all.
+The merchant guilds hold absolute power, and their councils meet in the towering [House of Factors]{.name data-type="place/structure"} that overlooks the harbor. Competition between the guilds is fierce and disciplined: they keep an elaborate system of tariffs, trading monopolies and agreements that regulates commerce with surgical precision. A captain who breaks guild protocol finds no harbor master willing to accept her vessel and no crew willing to sign on with her. The guilds have learned that stability, however rigidly kept, yields more wealth than chaos, so a visitor who wants to trade here does it inside their rules or not at all.
 
 ## Who Lives Here
 

@@ -40,7 +40,7 @@ data:
 
 The plateau's bargain has two halves: the crown takes a share of what a lineage's well earns, and the crown guarantees the lineage against anyone who tries to take the well. The first half was broken by a king's greed about 265 ([[lore-wellbrk1|the First Breaking]]). The second was broken by a king's absence.
 
-About 440 AF a raid came up out of the river country and took the wells of a great lineage on the eastern edge of [[place-vandhyabhumi|Vandyabhumi]]. The lineage sent to the crown. The king, **[Vishanapala]{.name data-type="being/npc"}**, was on his circuit three wells away, and he did not ride. The standing camp's record enters that he did not, and does not say why.
+About 440 AF a raid came up out of the river country and took the wells of a great lineage on the eastern edge of [[place-vandhyabhumi|Vandyabhumi]]. The lineage sent to the crown. The king, [Vishanapala]{.name data-type="being/npc"}, was on his circuit three wells away, and he did not ride. The standing camp's record enters that he did not, and does not say why.
 
 ## The Walk-Off
 

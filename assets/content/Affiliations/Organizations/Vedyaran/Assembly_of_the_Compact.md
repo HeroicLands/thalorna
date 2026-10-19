@@ -91,16 +91,16 @@ The landlessness is deliberate. A body that held ground would be a polity, and a
 
 The Assembly sits for a few weeks a year. The standing committees sit continuously, and between them they are what a merchant actually meets. A Standards clerk at Chendrapur gives every new factor the same order of study: "Learn the committees before you learn the Speaker. The Speaker decides what is voted on; the committees decide what is true."
 
-- The **[Roads Committee]{.name data-type="affiliation/governmental"}** keeps the caravan infrastructure—the roads themselves, the caravanserai, the watch posts—and adjudicates the road-tax disputes that arise wherever one seat's toll meets another's road.
-- The **[Standards Committee]{.name data-type="affiliation/governmental"}** sets the weights, the measures, the currency standards and the quality grades. A Collective grade-mark on a bolt of silk or a refined ingot carries across every seat because this committee says what it means.
-- The **[Foreign Trade Committee]{.name data-type="affiliation/governmental"}** negotiates with polities outside the Compact and licenses the members who trade beyond the janapadas.
-- The **[Disputes Committee]{.name data-type="affiliation/governmental"}** arbitrates the quarrels the parties would rather not carry into a ruler's court, which is most of them.
+- The [Roads Committee]{.name data-type="affiliation/governmental"} keeps the caravan infrastructure—the roads themselves, the caravanserai, the watch posts—and adjudicates the road-tax disputes that arise wherever one seat's toll meets another's road.
+- The [Standards Committee]{.name data-type="affiliation/governmental"} sets the weights, the measures, the currency standards and the quality grades. A Collective grade-mark on a bolt of silk or a refined ingot carries across every seat because this committee says what it means.
+- The [Foreign Trade Committee]{.name data-type="affiliation/governmental"} negotiates with polities outside the Compact and licenses the members who trade beyond the janapadas.
+- The [Disputes Committee]{.name data-type="affiliation/governmental"} arbitrates the quarrels the parties would rather not carry into a ruler's court, which is most of them.
 
 At the head of all of it stands the **High Speaker**, elected by the kulinas from among themselves for a seven-year term. The office presides and does not execute, and its power lies almost entirely in procedure. The Speaker decides what reaches a vote and in what order. A petition ruled out of order at the spring sitting waits until autumn for another attempt.
 
 ## Outside the Compact
 
-[[affiliation-suvrgrjnpd|Suvarnageri]] is the one inland polity of consequence that holds no seat, and it is outside by its own constitution rather than by anyone's exclusion. A seat obliges its holder to open the metal crossing its territory to the Collective's factors, and the **[Gold Constitution]{.name data-type="lore/law"}** vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either. The two instruments cannot both be honored, so Suvarnageri honors its own.
+[[affiliation-suvrgrjnpd|Suvarnageri]] is the one inland polity of consequence that holds no seat, and it is outside by its own constitution rather than by anyone's exclusion. A seat obliges its holder to open the metal crossing its territory to the Collective's factors, and the [Gold Constitution]{.name data-type="lore/law"} vests the weighing in the temple station and the lending in the common treasury, where no outside house may reach either. The two instruments cannot both be honored, so Suvarnageri honors its own.
 
 The arrangement suits Suvarnageri and irritates everybody else. The Assembly would like a sixth seat and the gold standing behind it. It has no means of compelling one, and the gold reaches the coast regardless, through buyers who pay in coin at the edge of the territory and ask no questions inside it.
 

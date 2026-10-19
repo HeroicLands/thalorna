@@ -432,11 +432,11 @@ Her status as a Snarvumak noble gives her considerable insulation. Attacking her
 
 **Jarl [[being-hlarthvirsna|Hlarthvir Snarvumak]]**, Gnildrselda's uncle and effective head of the Snarvumak household, provides financial support and family protection, though he knows nothing of the true scope of her studies. He believes her to be an eccentric scholar and accepts this with the tolerance of a man who understands that noble families contain eccentrics.
 
-**[The Collector of Amber]{.name data-type="being/npc"}**, a mysterious figure connected to the Epistémion's more liberal elements, supplies rare texts and acts as a fence for Gnildrselda's acquisitions. Identity unknown; all communication is by letter.
+[The Collector of Amber]{.name data-type="being/npc"}, a mysterious figure connected to the Epistémion's more liberal elements, supplies rare texts and acts as a fence for Gnildrselda's acquisitions. Identity unknown; all communication is by letter.
 
 ### Enemies and Rivals
 
-**[Jon the Iron]{.name data-type="being/npc"}**, a brutal rúnstjori who views Gnildrselda's systematization of seid as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
+[Jon the Iron]{.name data-type="being/npc"}, a brutal rúnstjori who views Gnildrselda's systematization of seid as a violation of tradition and a threat to the old ways. He has made subtle attempts to undermine her reputation and would not mourn her disappearance. The threat he poses is growing.
 
 **The Snarvumak Succession**, specifically Gnildrselda's cousin [Snirvorv]{.name data-type="being/npc"} and his ambitious wife, who see her scholarly pursuits as a dangerous anomaly and believe a woman of her station should be married off to secure alliance. They have been quietly lobbying Jarl Hlarthvir to force the issue.
 

@@ -105,11 +105,11 @@ Law reaches the farms through [[place-malstead|Málstead]]. When Gnarthborg's ow
 
 ## The Royal Line
 
-Malagna's kings come from the **[Hlurthidrok]{.name data-type="affiliation/lineage"}**, who reckon their line from **[Hlurthann I]{.name data-type="being/npc"}** and not from the king before him. That king, **[Gnirthorv]{.name data-type="being/npc"}**, took the host across the frozen border lake of [[place-skalfvatn|Skalfvatn]] in 466 and went through the ice with eleven hundred men, and his arm-ring is still under it ([[lore-nordkinwars|The Kin-Wars]]).
+Malagna's kings come from the [Hlurthidrok]{.name data-type="affiliation/lineage"}, who reckon their line from [Hlurthann I]{.name data-type="being/npc"} and not from the king before him. That king, [Gnirthorv]{.name data-type="being/npc"}, took the host across the frozen border lake of [[place-skalfvatn|Skalfvatn]] in 466 and went through the ice with eleven hundred men, and his arm-ring is still under it ([[lore-nordkinwars|The Kin-Wars]]).
 
 - **Hlurthann I**, about 480 to 523, turned the kingdom to the western trade after Skalfvatn and built the hulls of [[lore-southrnfleets|the Southern Fleets]] in Gnarthborg's yards.
-- **[Hlurthann II]{.name data-type="being/npc"}**, about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Kalipsa]].
-- **[Gnaldrorv]{.name data-type="being/npc"}**, about 632 to 662, would not choose between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]] when the Málstead wergild split them.
+- [Hlurthann II]{.name data-type="being/npc"}, about 600 to 632, married the crown's daughters into the island families of [[affiliation-calypsa|Kalipsa]].
+- [Gnaldrorv]{.name data-type="being/npc"}, about 632 to 662, would not choose between the [[affiliation-grimvar|Grimvar]] and the [[affiliation-hrafnvar|Hrafnvar]] when the Málstead wergild split them.
 - [[being-knghlrthni|Hlurthann III]], acclaimed about 686, the present king.
 
 Hlurthann III is aging and has no acclaimed heir. The ting will choose among the Hlurthidrok when he dies, and the Grimvar and the Hrafnvar each mean to be the clan whose candidate it chooses.

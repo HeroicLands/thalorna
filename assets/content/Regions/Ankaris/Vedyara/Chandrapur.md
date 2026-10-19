@@ -96,7 +96,7 @@ The temples of the [[affiliation-varakpnthn|Varnuka]] are the older seat of powe
 
 Chendrapur keeps a king, which among the great cities of the coast is the uncommon arrangement. The **Maharava of [[place-moonhouse|the Moon House]]** rules by descent, and the temples confirm the rule: the rites the Varnuka ushtakas perform at an accession are what make the man king, and no claimant they would not crown has ever reigned.
 
-The Maharava rules with a court, and the court is the **[Nine Houses]{.name data-type="affiliation"}**. Their heads sit as Kulena. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept, and a dispute between two men of one quarter goes to its Kulena. The seats descend within the houses; the crown confirms each succession and has twice refused one. The temples' first refusal of a king, about 312, is [[lore-moonsettle|the Moon House Settlement]] that set the Nine on their seats.
+The Maharava rules with a court, and the court is the [Nine Houses]{.name data-type="affiliation"}. Their heads sit as Kulena. Each holds one of the nine seats, the charters of his own trade, and the quarter of the city his house has always kept, and a dispute between two men of one quarter goes to its Kulena. The seats descend within the houses; the crown confirms each succession and has twice refused one. The temples' first refusal of a king, about 312, is [[lore-moonsettle|the Moon House Settlement]] that set the Nine on their seats.
 
 A Kulena is not a **Samonta** and holds no land of the king's grant. His standing is his house's charter, and a house that loses its trade loses its seat within a generation. That is the difference between this court and a kingdom's.
 

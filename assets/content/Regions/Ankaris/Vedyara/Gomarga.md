@@ -110,7 +110,7 @@ Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau u
 
 Gomarga sells into the river valleys and the coast and buys grain, cloth and iron back. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
 
-The [[affiliation-janpdsvdyr|Mahva-Sangra's roll]] carries the few plateau janapadas and not the kingdom, which is ordinary; a rajya is not a janapoda. What is not ordinary is that Gomarga sends nobody to the **[Mahva-Melra]{.name data-type="lore/gathering"}** at all in most cycles. The assembly meets on [[place-mahanadi|the Mahanodi]] in the season the herds move, and the crown is on its circuit.
+The [[affiliation-janpdsvdyr|Mahva-Sangra's roll]] carries the few plateau janapadas and not the kingdom, which is ordinary; a rajya is not a janapoda. What is not ordinary is that Gomarga sends nobody to the [Mahva-Melra]{.name data-type="lore/gathering"} at all in most cycles. The assembly meets on [[place-mahanadi|the Mahanodi]] in the season the herds move, and the crown is on its circuit.
 
 ## Commerce and Currency
 

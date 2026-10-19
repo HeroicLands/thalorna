@@ -64,7 +64,7 @@ data:
 
 ## The Winter
 
-Snow came early that year and late, and it was deep. It killed the lambs inside the ewes and filled the cairns, and fire was the one thing that kept the people at [[place-eshalshldg|Ésalosa]]. The oak ran out, then the ash. The chief was **[Ghalmir]{.name data-type="being/npc"}**, [Tala]{.name data-type="being/npc"}'s grandson, who bore the face of the first [Dhargan]{.name data-type="being/npc"}, and he looked at the silver birch standing above the Lodge and said that it should be cut. The people let him. Nobody spoke against it.
+Snow came early that year and late, and it was deep. It killed the lambs inside the ewes and filled the cairns, and fire was the one thing that kept the people at [[place-eshalshldg|Ésalosa]]. The oak ran out, then the ash. The chief was [Ghalmir]{.name data-type="being/npc"}, [Tala]{.name data-type="being/npc"}'s grandson, who bore the face of the first [Dhargan]{.name data-type="being/npc"}, and he looked at the silver birch standing above the Lodge and said that it should be cut. The people let him. Nobody spoke against it.
 
 He also took the watch off the fog-hollow, for he needed hands to haul and split. The fog could sit unwatched for one spring, he said, and the people thought so too. The birch came down in a stand at dusk, and the hands that swung the axes went cold. After that night no starlight lit the bark of the trees that remained.
 
@@ -72,7 +72,7 @@ He also took the watch off the fog-hollow, for he needed hands to haul and split
 
 In spring something came through the unwatched hollow. It was made of fog and shaped like a stag and had no eyes. The first thing to die at the Lodge was a dog. It walked at night, and it took three children, and then a man who went at it with fire and the wrong song on his tongue and died in the fog.
 
-The right song was in the lore, and it was held whole by the chief's sister, **[Mogha]{.name data-type="being/npc"}**, a Tradition Keeper. Nobody had asked her. The Áelendan say that this was how the thing came in: not through the fog but through a door the people had left open themselves.
+The right song was in the lore, and it was held whole by the chief's sister, [Mogha]{.name data-type="being/npc"}, a Tradition Keeper. Nobody had asked her. The Áelendan say that this was how the thing came in: not through the fog but through a door the people had left open themselves.
 
 ## Kinless
 

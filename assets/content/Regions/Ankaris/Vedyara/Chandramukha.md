@@ -31,7 +31,7 @@ Outside the bar is the roadstead, open water on a shelving bottom with no shelte
 
 ## The Yards
 
-[[affiliation-chandrapur|Chendrapur]]'s war-galleys are built here and laid up here. The yards stand on the firm ground above the marsh on the east side of the channel, and they belong to the crown and not to any of the **[Nine Houses]{.name data-type="affiliation"}**—the one considerable thing in the land that does. A galley is built over about two years, is worked for twenty, and is broken up in the yard that built it.
+[[affiliation-chandrapur|Chendrapur]]'s war-galleys are built here and laid up here. The yards stand on the firm ground above the marsh on the east side of the channel, and they belong to the crown and not to any of the [Nine Houses]{.name data-type="affiliation"}—the one considerable thing in the land that does. A galley is built over about two years, is worked for twenty, and is broken up in the yard that built it.
 
 The merchant houses build their coasting hulls on the west side, in yards they own outright, and the two sides of the channel keep separate shrenis, separate feasts and separate opinions about who is the more skilled. The crown has never had cause to settle it.
 

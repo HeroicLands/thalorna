@@ -12,7 +12,7 @@ data: {packFolder: vedyara, culture: vedyariclt}
 
 ## What Happened
 
-About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}** marched on [[affiliation-suvrgrjnpd|Suvarnageri]] with Dhanurkoti graduates in its companies. The four academy masters recalled every graduate in its service, and those who came home rode with the horse of [[affiliation-bharyastan|the Kingdom of Bharyastan]] to the gorge-mouth below the gold road and stopped the host there ([[lore-hghlndwar|the Highland War]]). It is the last time either janapoda was seriously threatened.
+About 415 AF the mountain kingdom of [Dhaunapur]{.name data-type="affiliation/polity"} marched on [[affiliation-suvrgrjnpd|Suvarnageri]] with Dhanurkoti graduates in its companies. The four academy masters recalled every graduate in its service, and those who came home rode with the horse of [[affiliation-bharyastan|the Kingdom of Bharyastan]] to the gorge-mouth below the gold road and stopped the host there ([[lore-hghlndwar|the Highland War]]). It is the last time either janapoda was seriously threatened.
 
 About 440 a raid out of the river country took a great lineage's wells on the plateau and the king of [[affiliation-gomarga|Gomarga]] did not ride to them. The lineages walked their herds off the circuit, and for a century the moving court arrived at empty wells ([[lore-emptycrct|the Second Breaking and the Empty Circuit]]).
 
@@ -21,7 +21,7 @@ About 470 the [Council of the Dream]{.name data-type="affiliation/governmental"}
 ## Rulers
 
 Gomarga
-: **[Vishanapala]{.name data-type="being/npc"}**, who did not ride.
+: [Vishanapala]{.name data-type="being/npc"}, who did not ride.
 
 Bharyastan
 : the council passed over an heir who had not ridden to [[place-sharamukha|Sharamukha]], one of the kingdom's two acclamations in four centuries.

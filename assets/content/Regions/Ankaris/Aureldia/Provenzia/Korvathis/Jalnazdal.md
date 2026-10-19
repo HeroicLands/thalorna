@@ -19,7 +19,7 @@ seventy thousand people, its largest city. It stands on the warm southern coast,
 [[place-vylarianse|Vylarian Sea]]—a working port as well as a court, which is unusual among the
 capitals of [[place-ankrscntnnt|Ankaris]] and explains a good deal about how Provenzia is governed.
 
-Its speech, **[Cotiere]{.name data-type="skill/language"}**, is the prestige dialect of the kingdom: the most standardized form of
+Its speech, [Cotiere]{.name data-type="skill/language"}, is the prestige dialect of the kingdom: the most standardized form of
 [[skill-provnzlng|Provenzal]], the one used in literature and formal commerce, and the one that shows
 the deepest Vylarian influence. To speak Cotiere is to be understood everywhere in Provenzia and to be
 placed instantly.
@@ -27,7 +27,7 @@ placed instantly.
 ## Crown and Council
 
 Jalnasdal is where the kingdom's central political argument is carried on, and it is not a quiet one.
-The Crown sits here, as it has since the first king under the [Charter of Rights]{.name data-type="lore/law"} settled his court on the coast ([[lore-charterwar|the War of the Charter]]); so does the **[Council of Peers]{.name data-type="affiliation/governmental"}**, and the last several decades have been a long
+The Crown sits here, as it has since the first king under the [Charter of Rights]{.name data-type="lore/law"} settled his court on the coast ([[lore-charterwar|the War of the Charter]]); so does the [Council of Peers]{.name data-type="affiliation/governmental"}, and the last several decades have been a long
 maneuver between them over prerogative, taxation and appointment. Neither has won. Great houses have
 spent generations positioning themselves in that gap, and cautious ones—like the [Kórisvars]{.name data-type="affiliation/lineage"} of
 [[place-lizela|Lizela]]—have spent the same generations keeping their heads down in it.

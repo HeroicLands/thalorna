@@ -389,13 +389,13 @@ Glurvselda is one of the wealthiest individuals in the northern lands, and her t
 
 ### Patrons
 
-**[The Merchant Guild of the Northern Coast]{.name data-type="affiliation/guild"}**—The most powerful trade organization in the north, which Glurvselda effectively controls through a combination of investment, alliance, and strategic favors.
+[The Merchant Guild of the Northern Coast]{.name data-type="affiliation/guild"}—The most powerful trade organization in the north, which Glurvselda effectively controls through a combination of investment, alliance, and strategic favors.
 
-**[The Dragon of the Northern Mountains]{.name data-type="being/creature"}**—The dragon she negotiated with has become an unlikely ally, providing protection for her most valuable caravans in exchange for a share of the profits.
+[The Dragon of the Northern Mountains]{.name data-type="being/creature"}—The dragon she negotiated with has become an unlikely ally, providing protection for her most valuable caravans in exchange for a share of the profits.
 
 ### Enemies
 
-**[The Pirate Lords of the Eastern Seas]{.name data-type="affiliation/criminal"}**—Maritime raiders who target Glurvselda's trade ships and view her growing trade network as a threat to their control of the sea lanes.
+[The Pirate Lords of the Eastern Seas]{.name data-type="affiliation/criminal"}—Maritime raiders who target Glurvselda's trade ships and view her growing trade network as a threat to their control of the sea lanes.
 
 **Jarl [[being-kraldmylthem|Kralmil the Miser]]**—A lord who has built his power on controlling trade through his territory and views Glurvselda's alternative trade routes as an existential threat to his wealth.
 

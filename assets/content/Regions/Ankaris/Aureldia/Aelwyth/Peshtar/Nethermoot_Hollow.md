@@ -22,13 +22,13 @@ Nobody moots there. A thatched cottage of black timber sits against the dell's l
 
 ## The Witch
 
-**[Nanwyth Crake]{.name data-type="being/npc"}** is a woman who looks sixty and has looked sixty longer than the clan elders have lived. She was a druid of the nine fords, trained in the mysteries of the stones and trackways and expelled from her clan for a binding she would not undo. She lives in the hollow with a black cat, a loom and a long table of jars. She sells cures, curses and the finding of lost things, and she is fair in her dealings: she says what each costs and takes only that.
+[Nanwyth Crake]{.name data-type="being/npc"} is a woman who looks sixty and has looked sixty longer than the clan elders have lived. She was a druid of the nine fords, trained in the mysteries of the stones and trackways and expelled from her clan for a binding she would not undo. She lives in the hollow with a black cat, a loom and a long table of jars. She sells cures, curses and the finding of lost things, and she is fair in her dealings: she says what each costs and takes only that.
 
 What she takes is **years**. A cure for a fever costs a month, a curse on a rival costs a year, the finding of a lost child costs five. She takes them from the buyer or, if the buyer is generous, from a third party the buyer names. The years go into the oaks. The old dead of the clan, rooted in the trees since she bound them, are fed by them, and in return they answer her call. A dozen are warriors still. They stand at the dell's rim among the oaks, grey and silent, and they put the intruder to the question.
 
 ## What the Country Says
 
-- **The clans of the nine fords.** Their war-chief, **[Haldrec Vane]{.name data-type="being/npc"}**, says the witch is a thing of the old woods and that no one in the hollow should be troubled. His warriors leave her jars unpicked and go around the dell on the north side.
+- **The clans of the nine fords.** Their war-chief, [Haldrec Vane]{.name data-type="being/npc"}, says the witch is a thing of the old woods and that no one in the hollow should be troubled. His warriors leave her jars unpicked and go around the dell on the north side.
 - **The border steadings of [[place-aldorathrgn|Aldorath]].** Their shepherds say the witch can cure anything. The sick are carried there in the dark of the moon, and the carriers do not discuss the price.
 - **The druids of the stone circles.** The druids of neighboring clans say Nanwyth Crake broke the oldest rule of their order, that the dead are given to the earth and no one else, and that her work will draw something worse than a witch to the hollow.
 - **[[affiliation-selmoros|Sélmoros]]'s few priests in the interior.** They say the dead in the trees are not at rest and that no rite exists for them, because the clan's rite was never done.

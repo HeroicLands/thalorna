@@ -44,9 +44,9 @@ Every chronicle of [[lore-hundredcrwn|the Hundred Crowns]] records **the Field o
 
 ## The War
 
-About 265 AF the king of [[affiliation-gomarga|Gomarga]], **[Vrishasura]{.name data-type="being/npc"}**, wanted a war on the river. The plateau's wealth is herds and watering dues, and neither pays a host, so he took three great lineages' wells into the crown's own hand and spent their earnings ([[lore-wellbrk1|the First Breaking of the Well Bargain]]). His coalition was the plateau kingdom and the smaller crowns that followed it for a share.
+About 265 AF the king of [[affiliation-gomarga|Gomarga]], [Vrishasura]{.name data-type="being/npc"}, wanted a war on the river. The plateau's wealth is herds and watering dues, and neither pays a host, so he took three great lineages' wells into the crown's own hand and spent their earnings ([[lore-wellbrk1|the First Breaking of the Well Bargain]]). His coalition was the plateau kingdom and the smaller crowns that followed it for a share.
 
-Its enemy was **[Purnatira]{.name data-type="affiliation/polity"}**, a river kingdom of the middle reaches of [[place-mahanadi|the Mahanodi]] with good fields and a stable of [[being-vdyrnelphnt|war-elephants]]. Gomarga had elephants too, bought out of the river valleys for the purpose.
+Its enemy was [Purnatira]{.name data-type="affiliation/polity"}, a river kingdom of the middle reaches of [[place-mahanadi|the Mahanodi]] with good fields and a stable of [[being-vdyrnelphnt|war-elephants]]. Gomarga had elephants too, bought out of the river valleys for the purpose.
 
 ## The Field
 

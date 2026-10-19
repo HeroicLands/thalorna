@@ -389,13 +389,13 @@ Bruldorv's connection to the earth gives him an intuitive understanding of agric
 
 ### Patrons
 
-**[The Grove-Keepers of Frodvin]{.name data-type="affiliation"}**—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Frodvin and provide him with knowledge, supplies, and ritual support.
+[The Grove-Keepers of Frodvin]{.name data-type="affiliation"}—A network of priests and druids who tend sacred groves throughout the northern lands. They recognize Bruldorv's special connection to Frodvin and provide him with knowledge, supplies, and ritual support.
 
 **Jarl [[being-hlaskynda|Hlaskinda]] of [[place-hvulgdal|Hvulgdal]]**—A wise ruler who values Bruldorv's counsel on agricultural matters and has given him authority over the management of her lands' harvests.
 
 ### Enemies
 
-**[The Ash Reavers]{.name data-type="affiliation"}**—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
+[The Ash Reavers]{.name data-type="affiliation"}—Raiders who practice scorched earth tactics, burning fields and salting the land as they go. Bruldorv has sworn to stop them.
 
 [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though Svilthselda serves [[affiliation-svartbrandr|Svartbrandr]] with nobler intentions than most, her belief in purifying fire is antithetical to Bruldorv's dedication to growth and nurture. Their philosophical conflict has led to tense confrontations.
 

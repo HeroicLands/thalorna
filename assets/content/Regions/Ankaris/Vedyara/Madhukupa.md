@@ -22,7 +22,7 @@ The fort is a plain curtain of dressed stone with a gatehouse, a tower and a sin
 
 The hall stands against the north wall, a long room with a carved roof-tree and a hearth at either end. The household keeps a shrine of the pass-gods in the tower, and a small herd of horses in the outer ward. Around the base of the rise, on the lee side, a village of herders' families keeps goats and answers to the Samonta, as the hamlets of the march answer to the fort whose well they drink from.
 
-The Samonta, **[Jayavira Chorbhavishana]{.name data-type="being/npc"}**, is the third of his line to hold the well. He is a big man with a soldier's courtesy and a face that has stopped sleeping. His household is large, well fed and quiet. Every servant wears a bond-token on a cord, and none of them is old.
+The Samonta, [Jayavira Chorbhavishana]{.name data-type="being/npc"}, is the third of his line to hold the well. He is a big man with a soldier's courtesy and a face that has stopped sleeping. His household is large, well fed and quiet. Every servant wears a bond-token on a cord, and none of them is old.
 
 ## What Is Said of It
 

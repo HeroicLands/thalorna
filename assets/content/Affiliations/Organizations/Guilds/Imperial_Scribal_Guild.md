@@ -78,7 +78,7 @@ A scribe climbs five ranks:
 
 A scribe whose license is revoked for proven misconduct loses the right to seal, which ends the career.
 
-The current High Hand is **[Iulia Verronius]{.name data-type="being/npc"}**, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
+The current High Hand is [Iulia Verronius]{.name data-type="being/npc"}, the seventh of her line to hold senior Guild office and a figure of real political weight. The Council of Guildmasters meets monthly in Orzara and decides matters of guild standards, internal discipline and the Guild's relationship with the imperial administration.
 
 ## Notable Members
 

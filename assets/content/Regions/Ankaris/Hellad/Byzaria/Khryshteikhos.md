@@ -70,7 +70,7 @@ data:
 sohl: {system: {commonSkills: [byzarnlng]}}
 ---
 
-Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the **[Merchant Hall]{.name data-type="place/structure"}**, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
+Do not mistake the council that meets in [[place-khryshteikhos2|Krusteikhos]] for the council of Krusteikhos. The first belongs to the whole [[affiliation-byzarianlg|Bizarian League]]: it sits in the [Merchant Hall]{.name data-type="place/structure"}, a vast, ornate building that is parliament and exchange at once, and it decides tariffs, the joint fleet and army, the three marches and quarrels between cities. The second belongs to the city-state alone, which governs about two million people from Krusteikhos, the Golden Fortress on the edge of the plateau. Krusteikhos is the wealthiest and most influential of the five cities and the League's capital in all but name, because the League's council meets in its hall and its banking houses finance trade across half of [[place-ankrscntnnt|Ankaris]].
 
 ## Who Decides
 

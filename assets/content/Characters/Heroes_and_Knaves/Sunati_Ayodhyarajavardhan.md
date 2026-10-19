@@ -422,7 +422,7 @@ Sunati stands 5'7" tall with a medium build. She has rich brown skin, black hair
 
 ### The House of Jayarajavardana
 
-Sunati was born into the **[House of Jayarajavardana]{.name data-type="affiliation/lineage"}**, one of the most prestigious courtier families in the city-states of the [[place-vedyarargn|Vedyara Region]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
+Sunati was born into the [House of Jayarajavardana]{.name data-type="affiliation/lineage"}, one of the most prestigious courtier families in the city-states of the [[place-vedyarargn|Vedyara Region]]. Her family has produced celebrated courtesans for four generations, each woman refined through intensive training in the arts of music, dance, conversation, and courtship. Rather than viewing this legacy as constraining, Sunati embraced it as her path to freedom—the courtier's trade being one of the few avenues through which women of Vedyara could accumulate wealth and independence.
 
 ### The Education
 
@@ -506,7 +506,7 @@ The Dangerous Secret
 : A powerful client of a great house confesses to Sunati that he is planning to betray the merchant council in a trade agreement, with implications that could destabilize the entire city-state. He believes that his emotional intimacy with Sunati keeps her silent, but she is now caught between her loyalty to her patron system and knowledge of a conspiracy that could harm the city. Whom does she expose, and at what cost?
 
 The Authentic Connection
-: A scholar and philosopher, **[Kamasvamin Achorya]{.name data-type="being/npc"}**, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
+: A scholar and philosopher, [Kamasvamin Achorya]{.name data-type="being/npc"}, begins visiting Sunati with no interest in the typical courtier-patron dynamic. Instead, he seeks conversation and intellectual companionship. For the first time in her life, Sunati encounters someone who seems interested in her authentic self rather than her performed self. This threatens everything she has built—because it forces her to confront what authenticity even means for someone whose life is fundamentally built on controlled performance.
 
 The Rescue Unwanted
 : A young woman, barely twenty, is being groomed to enter the courtesan profession by coercive means rather than choice. She reaches out to Sunati, begging for help escaping her family's control. Saving her would expose Sunati to legal liability and could damage her reputation with the very clients whose patronage sustains her. Does she help, and if so, at what cost?

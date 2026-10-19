@@ -72,16 +72,16 @@ Beyond that sphere, other peoples keep their own count and do not translate into
 Each month belongs to one of the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]]. Three carry an old form of the god's name, and nine are named in [[skill-vylarilng|Vylari]] with the hallowed ending _-andi_, "in the keeping of": five for their gods, and four for the god's gift.
 
 1. **Lizelandi** (30 days)—in the keeping of [[lore-lizelasdty|Lizelas]], the Nurturer; the year opens here, on the vernal equinox.
-2. **[Lusenar]{.name data-type="lore/calendar"}** (31 days)
-3. **[Pozerandi]{.name data-type="lore/calendar"}** (30 days)—in the keeping of [[lore-pozerasdty|Pozeras]], the Wayfarer.
-4. **[Brazemandi]{.name data-type="lore/calendar"}** (31 days)—in the keeping of [[lore-brazemasdty|Brazemas]], the Thunderer.
+2. [Lusenar]{.name data-type="lore/calendar"} (31 days)
+3. [Pozerandi]{.name data-type="lore/calendar"} (30 days)—in the keeping of [[lore-pozerasdty|Pozeras]], the Wayfarer.
+4. [Brazemandi]{.name data-type="lore/calendar"} (31 days)—in the keeping of [[lore-brazemasdty|Brazemas]], the Thunderer.
 5. **Thumbandi** (30 days)—the forge's month, for [[lore-ustarondty|Ústaron]]; the summer solstice falls on its first day.
-6. **[Marendandi]{.name data-type="lore/calendar"}** (31 days)—in the keeping of [[lore-marendasdty|Marendas]], Keeper of Sacred Wisdom.
+6. [Marendandi]{.name data-type="lore/calendar"} (31 days)—in the keeping of [[lore-marendasdty|Marendas]], Keeper of Sacred Wisdom.
 7. **Elthezandi** (30 days)—the gold's month, for [[lore-olveniadty|Ólvenia]].
 8. **Karnavar** (30 days)—the autumnal equinox falls on its first day.
-9. **[Morvanandi]{.name data-type="lore/calendar"}** (31 days)
+9. [Morvanandi]{.name data-type="lore/calendar"} (31 days)
 10. **Kalmethandi** (30 days)—the month of going to the ancestors, for [[lore-selmorosdty|Sélmoros]]; the winter solstice falls on its first day.
-11. **[Zunelandi]{.name data-type="lore/calendar"}** (31 days)—in the keeping of [[lore-zunelasdty|Zunelas]], the Veiled Dreamer.
+11. [Zunelandi]{.name data-type="lore/calendar"} (31 days)—in the keeping of [[lore-zunelasdty|Zunelas]], the Veiled Dreamer.
 12. **Kalpezandi** (30 days)—the gate's month, for [[lore-ardavondty|Árdavon]], the Keeper of the Gates, and the last month of the year.
 
 ## The Week

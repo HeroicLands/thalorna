@@ -391,13 +391,13 @@ Hnirmil's runic mastery is unmatched in the northern lands; he can read omens in
 
 **Jarl [[being-hvurnvir|Hvurnvir]] of [[place-snarvfjord|Snarvfjord]]**—A cautious ruler who relies on Hnirmil's counsel before making any major decision. Hvurnvir provides Hnirmil with shelter, resources, and access to his court in exchange for guidance on matters of war and diplomacy.
 
-**[The Raven Circle]{.name data-type="affiliation"}**—A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
+[The Raven Circle]{.name data-type="affiliation"}—A secretive fellowship of runemasters and seers scattered across the northern realms who share forbidden knowledge through coded messages carved into waymarker stones.
 
 ### Enemies
 
-**[Gnildrmil Iron-Eye]{.name data-type="being/npc"}**—A rival seer who claims Hnirmil is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildrmil has placed bounties on Hnirmil's head among mercenary bands.
+[Gnildrmil Iron-Eye]{.name data-type="being/npc"}—A rival seer who claims Hnirmil is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildrmil has placed bounties on Hnirmil's head among mercenary bands.
 
-**[The Sekran]{.name data-type="affiliation"}**—The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) enforcement arm has taken an interest in Hnirmil's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
+[The Sekran]{.name data-type="affiliation"}—The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) enforcement arm has taken an interest in Hnirmil's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 

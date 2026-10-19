@@ -14,7 +14,7 @@ A scholar's first lesson in **Thirenae** is where the credential comes from: a T
 
 ## Character
 
-The city is built to suit its students. Its architecture is graceful and restrained—white marble colonnades, shaded courtyards, and terraced gardens designed for contemplation and debate. The great **[Library of Thirenae]{.name data-type="place/structure"}** is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and scholars travel across continents for the privilege of consulting its archives.
+The city is built to suit its students. Its architecture is graceful and restrained—white marble colonnades, shaded courtyards, and terraced gardens designed for contemplation and debate. The great [Library of Thirenae]{.name data-type="place/structure"} is said to hold more manuscripts than any collection outside the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and scholars travel across continents for the privilege of consulting its archives.
 
 ## Who Governs
 

@@ -19,13 +19,13 @@ Belsaren is a lordship and village of [[place-ceravelvale|Keravel Vale]], and wh
 
 ## Two Lords
 
-Belsaren has two lords and the trouble is that both are alive. The family of **[Thárion al Dracaen]{.name data-type="being/npc"}**, Tanevar, held Belsaren and was content to be held by it; the villagers were long happy under a Tanevar lord. When the Marshal at [[place-caerceravel|Torvila Keravel]] accused Thárion's family of treason and deposed it, he installed **Elgar [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}** in its place. Tarlas is a harsh ruler who holds the Tanevar in open contempt, and his treatment of them has driven many to support Thárion, who now leads the bandits from a hidden lair in the vale and promises to restore justice.
+Belsaren has two lords and the trouble is that both are alive. The family of [Thárion al Dracaen]{.name data-type="being/npc"}, Tanevar, held Belsaren and was content to be held by it; the villagers were long happy under a Tanevar lord. When the Marshal at [[place-caerceravel|Torvila Keravel]] accused Thárion's family of treason and deposed it, he installed **Elgar [Tarlas al Pélanvri na Belsaren]{.name data-type="being/npc"}** in its place. Tarlas is a harsh ruler who holds the Tanevar in open contempt, and his treatment of them has driven many to support Thárion, who now leads the bandits from a hidden lair in the vale and promises to restore justice.
 
 The village is divided accordingly. Every peasant of Belsaren supports Tarlas openly; the Tanevar majority supports Thárion in secret, and the Provenzian minority stays loyal to the lord. A stranger asking questions in Belsaren hears one answer in the lane and another at the hearth.
 
 ## The Hand Behind It
 
-The quarrel between the two lords serves a third. **[Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}**, lord of neighboring [[place-ilovren|Ilovren]], wants Belsaren's timber, its minerals and its road into the Blood Hills, and he has been feeding Thárion resources and false intelligence to keep the raids going until the Marshal loses patience with Tarlas. Neither lord of Belsaren knows it.
+The quarrel between the two lords serves a third. [Kilan Ilovrel na Ilovren]{.name data-type="being/npc"}, lord of neighboring [[place-ilovren|Ilovren]], wants Belsaren's timber, its minerals and its road into the Blood Hills, and he has been feeding Thárion resources and false intelligence to keep the raids going until the Marshal loses patience with Tarlas. Neither lord of Belsaren knows it.
 
 ## See Also
 

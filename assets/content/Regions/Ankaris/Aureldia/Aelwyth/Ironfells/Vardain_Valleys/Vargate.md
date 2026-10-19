@@ -24,7 +24,7 @@ larger than anything in [[affiliation-jrldmstrmvld|Stormveld]] but its seat.
 The town's name is its function. **Everything the [[lore-flkkhazar|Khazari]] send down comes through Vargate, and
 everything they receive goes up from it**, and there is no second route.
 
-The exchange happens at the **[Weighing Yard]{.name data-type="place/site"}** at the top of the town: Vardain factors bring up what has
+The exchange happens at the [Weighing Yard]{.name data-type="place/site"} at the top of the town: Vardain factors bring up what has
 been contracted—grain, cheese, fodder, fuel, worked timber—and take down what has been made. No
 outsider is admitted to the yard and no Khazár is seen below it. What passes between the yard and the
 Gate above is Vardain business, conducted by a small number of families who have done it for

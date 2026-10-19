@@ -116,7 +116,7 @@ tried. [[lore-jointcrown|The Joint Crown]] was founded about 1585 BF.
 
 It was ended by refugees. The **[[lore-pelwarpepl|Pelwar]]**, driven off the mainland by the [Varkhad]{.name data-type="lore/folk"} ([[lore-varkhadcnq|The Varkhad Conquest]]),
 reached Aelwyth around **1200 BF** with nowhere else to go, and an island has a fixed amount of good
-land. Two centuries of arrival and pressure and reprisal became the **[Great War]{.name data-type="lore/history"}**, and in **984 BF** the
+land. Two centuries of arrival and pressure and reprisal became the [Great War]{.name data-type="lore/history"}, and in **984 BF** the
 king was killed by the Varkhad among them at [[place-threesisters|the Three Sisters]] in what is now the
 Central Highlands. The Sinale withdrew into the Hallowwood;
 the Khazari finished the war alone and have not spoken to them since. How the war ended, and what it left

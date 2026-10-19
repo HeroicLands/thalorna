@@ -71,7 +71,7 @@ A junior officer of [[affiliation-sorvan|the Sorvan]], shown the long gallery of
 
 [Barnakis]{.name data-type="being/npc"} died in 389 with no heir named. A reigning Orzas names his successor in his lifetime, and the [[affiliation-vylarinmpr|Empire]] had never needed to settle the matter any other way. His strongest army was across the sea ([[lore-deltaexped|The Delta Expedition]]), and the men left at home had to choose among themselves.
 
-The Sorvan chose first. Within the day the gates of the Thaurzurgalis opened to its own candidate, **[Kadelos]{.name data-type="being/npc"}**, and the guard held the palace hill. The Senate met in [[place-arvon|Arvon]] (the Eagle City) and acclaimed **[Sylarion]{.name data-type="being/npc"}**, a _kurthos_ (senator) of an old house with no army and a great deal of precedent. In the north the legions of [[place-moktur|Moktur]] acclaimed their _felzos_ (legate), **[Makandas]{.name data-type="being/npc"}**, and began to march.
+The Sorvan chose first. Within the day the gates of the Thaurzurgalis opened to its own candidate, [Kadelos]{.name data-type="being/npc"}, and the guard held the palace hill. The Senate met in [[place-arvon|Arvon]] (the Eagle City) and acclaimed [Sylarion]{.name data-type="being/npc"}, a _kurthos_ (senator) of an old house with no army and a great deal of precedent. In the north the legions of [[place-moktur|Moktur]] acclaimed their _felzos_ (legate), [Makandas]{.name data-type="being/npc"}, and began to march.
 
 Each claimant carried an eagle and held a part of the Empire's revenue, and none could take the others'. For sixteen years the Empire had three Orzoi.
 

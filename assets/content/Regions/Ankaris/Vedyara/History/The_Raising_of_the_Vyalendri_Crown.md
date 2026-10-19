@@ -37,7 +37,7 @@ A Vyalendri Loom-Master tells an apprentice that the pattern-book rule is older 
 
 ## The First King
 
-About 125 BF **[Nilapati]{.name data-type="being/npc"}**, a master of the indigo valleys upstream, took the cloth city. The account the cloth-court keeps does not say how. It says that he was crowned in the city, not in his valleys, and that he chose the city because the cloth was there and the indigo was worth more woven than raw.
+About 125 BF [Nilapati]{.name data-type="being/npc"}, a master of the indigo valleys upstream, took the cloth city. The account the cloth-court keeps does not say how. It says that he was crowned in the city, not in his valleys, and that he chose the city because the cloth was there and the indigo was worth more woven than raw.
 
 His line built what the Council still uses. They laid out the palace quarter at the top of the city, raised the audience hall with a dais for a throne, and set the street-plan that runs from the palace down to the water-gate. The Loom-Council governs a shrena republic from a kingdom's street-plan, and visitors from kingdoms find it disorderly for that reason.
 

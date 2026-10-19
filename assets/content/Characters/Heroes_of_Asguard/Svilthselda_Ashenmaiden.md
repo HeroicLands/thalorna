@@ -389,7 +389,7 @@ Svilthselda's ability to absorb and redirect fire is extraordinary, making her n
 
 ### Patrons
 
-**[The Ember Sisterhood]{.name data-type="affiliation"}**—A secretive order of Svartbrandr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
+[The Ember Sisterhood]{.name data-type="affiliation"}—A secretive order of Svartbrandr's priestesses who recognized Svilthselda's gifts and trained her in the deeper mysteries of fire magic. They provide her with sacred knowledge and ritual support.
 
 **Hofgudi [[being-brildmyl|Brildmil]] of [[place-braldfjall|Braldfjall]]**—The ranking priest at Svartbrandr's primary temple, who views Svilthselda as a potential successor and protects her from political enemies within the faith.
 
@@ -397,7 +397,7 @@ Svilthselda's ability to absorb and redirect fire is extraordinary, making her n
 
 [[being-vrthrvflmhrt|Vrithorv Flameheart]]—A fellow devotee of Svartbrandr whose reckless interpretation of the god's will Svilthselda considers heretical. Their rivalry threatens to split the faithful.
 
-**[The Verdant Order]{.name data-type="affiliation"}**—A druidic circle that views all fire worship as an existential threat to the natural world. They have attempted to assassinate Svilthselda twice, seeing her growing power as particularly dangerous.
+[The Verdant Order]{.name data-type="affiliation"}—A druidic circle that views all fire worship as an existential threat to the natural world. They have attempted to assassinate Svilthselda twice, seeing her growing power as particularly dangerous.
 
 ## Plot Hooks
 

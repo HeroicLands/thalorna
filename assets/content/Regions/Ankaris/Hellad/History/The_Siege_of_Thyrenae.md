@@ -61,7 +61,7 @@ data:
         - what the commissioners carried out of the college's rooms, which no inventory the city kept survives to name
 ---
 
-[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the **[Commissioners' Gate]{.name data-type="place/structure"}**, and it marks where the last free city of [[place-helionis|Helionis]] let the [Vylarian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
+[[place-thyrenae2|Thirenae]]'s walls have a long scar on the western side where a gate was walled up and never reopened. It is the [Commissioners' Gate]{.name data-type="place/structure"}, and it marks where the last free city of [[place-helionis|Helionis]] let the [Vylarian Republic]{.name data-type="affiliation/polity"} in during The Siege of Thirenae.
 
 ## The Siege
 
@@ -69,7 +69,7 @@ By 313 BF [[affiliation-thyrenae|Thirenae]] was the last city of Helionis that h
 
 ## The Terms
 
-The Arsir of the year, **[Sothanos Kosamides]{.name data-type="being/npc"}**, sent to the _felzos_ (legate) and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the [[affiliation-panepistmm|Epistémion]] that same month, and [[affiliation-seldan|Seldan]], the Senate, placed it under the [Kandral]{.name data-type="affiliation/governmental"}.
+The Arsir of the year, [Sothanos Kosamides]{.name data-type="being/npc"}, sent to the _felzos_ (legate) and came back with terms. The walls would be breached at one gate and no other. The libraries and the colleges would stand untouched. The Republic's commissioners would enter through the breach the same month. The council voted for them, and in 312 BF the gate came down and the commissioners went in. They took the [[affiliation-ordoarcanis|College of Arcane Philosophy]] out of the [[affiliation-panepistmm|Epistémion]] that same month, and [[affiliation-seldan|Seldan]], the Senate, placed it under the [Kandral]{.name data-type="affiliation/governmental"}.
 
 ## What the Siege Left
 

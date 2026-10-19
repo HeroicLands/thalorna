@@ -389,7 +389,7 @@ Skulfmil's oratory is supernaturally persuasive; his words can stir emotions, ch
 
 ### Patrons
 
-**[The Free Speakers]{.name data-type="affiliation"}**—A loose network of revolutionary thinkers who share Skulfmil's belief that the current social order must be torn down. They provide him with safe houses, intelligence, and financial support.
+[The Free Speakers]{.name data-type="affiliation"}—A loose network of revolutionary thinkers who share Skulfmil's belief that the current social order must be torn down. They provide him with safe houses, intelligence, and financial support.
 
 [[lore-velgrimrdty|Velgrímr]]—In the saga, the god of chaos finds Skulfmil's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
 
@@ -397,7 +397,7 @@ Skulfmil's oratory is supernaturally persuasive; his words can stir emotions, ch
 
 **The Rulers of [[place-tvurnholm|Tvurnholm]]**—The city's governing council has placed the largest bounty in northern history on Skulfmil's head, dead or alive.
 
-**[The Order of Stability]{.name data-type="affiliation"}**—A secretive organization dedicated to maintaining the existing social order. They view Skulfmil as one of the most dangerous individuals in the north and employ agents specifically tasked with silencing him.
+[The Order of Stability]{.name data-type="affiliation"}—A secretive organization dedicated to maintaining the existing social order. They view Skulfmil as one of the most dangerous individuals in the north and employ agents specifically tasked with silencing him.
 
 [[being-knlthnlwgvr|Knalthann Lawgiver]]—The champion of law sees Skulfmil's work as destructive anarchy that leaves ordinary people worse off than before. Their philosophical opposition is deeply personal for both men.
 

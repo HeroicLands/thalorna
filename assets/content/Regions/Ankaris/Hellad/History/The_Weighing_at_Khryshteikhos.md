@@ -56,7 +56,7 @@ The highest civic honor in any of the five cities is to be named Warden of the W
 
 A generation after [[lore-arzanasedict|the Edicts of Arzanas]] gave [[affiliation-tolvan|the Tolvan]] its charter, the customs of [[place-byzariargn|Bizaria]] were farmed out to Tolari. A Tolar paid the Tolvan for the right to collect and made his profit above his bid, and the surest way to profit above a bid was to weigh the merchants' goods on a heavy standard.
 
-The city weigher of [[place-khryshteikhos2|Krusteikhos]], **[Dokharash Harmodakit]{.name data-type="being/npc"}**, suspected the tax-farmers' standard was brass cast heavy. In about 455 he had it carried into the Merchant Hall, set the city's own standard on one pan of a balance and the Tolari's on the other, and weighed them in front of the council, the guilds and the whole of the floor. The standard was heavy.
+The city weigher of [[place-khryshteikhos2|Krusteikhos]], [Dokharash Harmodakit]{.name data-type="being/npc"}, suspected the tax-farmers' standard was brass cast heavy. In about 455 he had it carried into the Merchant Hall, set the city's own standard on one pan of a balance and the Tolari's on the other, and weighed them in front of the council, the guilds and the whole of the floor. The standard was heavy.
 
 ## The Riot
 

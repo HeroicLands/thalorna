@@ -389,13 +389,13 @@ Since his transformation, Hlarthvir can communicate with trees and forest creatu
 
 ### Patrons
 
-**[The Forest of Hlarthmark]{.name data-type="place/feature"}**—The ancient forest itself sustains Hlarthvir and responds to his will. It is both his home and his charge.
+[The Forest of Hlarthmark]{.name data-type="place/feature"}—The ancient forest itself sustains Hlarthvir and responds to his will. It is both his home and his charge.
 
-**[The Woodcutters' Guild]{.name data-type="affiliation/guild"}**—The local woodsmen who knew Hlarthvir in life still leave offerings at his shrine and follow his guidance on which trees may be harvested and which must be spared.
+[The Woodcutters' Guild]{.name data-type="affiliation/guild"}—The local woodsmen who knew Hlarthvir in life still leave offerings at his shrine and follow his guidance on which trees may be harvested and which must be spared.
 
 ### Enemies
 
-**[The Iron Consortium]{.name data-type="affiliation/venture"}**—A mining and logging operation that seeks to clear-cut vast tracts of ancient forest. They have hired mercenaries to deal with the 'forest spirit' that has been disrupting their operations.
+[The Iron Consortium]{.name data-type="affiliation/venture"}—A mining and logging operation that seeks to clear-cut vast tracts of ancient forest. They have hired mercenaries to deal with the 'forest spirit' that has been disrupting their operations.
 
 [The Curse-Maker]{.name data-type="being/npc"}—The unknown creator of the artifact that spawned the fire-worms. Hlarthvir senses that this entity is aware of him and planning something new.
 

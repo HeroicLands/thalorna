@@ -71,7 +71,7 @@ The [[affiliation-byzarianlg|League council]] met in the [Merchant Hall]{.name d
 
 ## The First Arbiter
 
-The first named arbiter, **[Sáfireze Dorashidek]{.name data-type="being/npc"}**, sat in the yards when they were rebuilt in stone, and her first ruling was between the two houses that had burned them. The ruling names which of the two broke the contract, what the damages were and who paid for the stone, and neither house contested it. The stone yards stand on the same ground.
+The first named arbiter, [Sáfireze Dorashidek]{.name data-type="being/npc"}, sat in the yards when they were rebuilt in stone, and her first ruling was between the two houses that had burned them. The ruling names which of the two broke the contract, what the damages were and who paid for the stone, and neither house contested it. The stone yards stand on the same ground.
 
 ## What the Ordinance Left
 

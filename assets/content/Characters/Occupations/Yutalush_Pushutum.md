@@ -432,7 +432,7 @@ His status as a Freeman rather than a member of the formal nobility or merchant 
 **Enemies:**
 
 - **Magistrate [[being-tarrukeshkar|Tarruk Eshkarum]]**, a rising figure in Bazunel's oligarchic hierarchy who views Yutalush's neutrality as insufficiently committed to their rule. He has been slowly pressuring the temple authorities to exert more control over the clinic's operations.
-- **[The Shadow Broker]{.name data-type="being/npc"}**, a mysterious figure who operates in the interstices of Bazunel's resistance networks and who has been attempting to pressure or leverage Yutalush into providing information about the oligarchs' health vulnerabilities—a request Yutalush has thus far refused at considerable personal risk.
+- [The Shadow Broker]{.name data-type="being/npc"}, a mysterious figure who operates in the interstices of Bazunel's resistance networks and who has been attempting to pressure or leverage Yutalush into providing information about the oligarchs' health vulnerabilities—a request Yutalush has thus far refused at considerable personal risk.
 
 ## Plot Hooks
 

@@ -82,7 +82,7 @@ sohl: {system: {commonSkills: [helonclng]}}
 
 ## Overview
 
-Never call a graduate of the **[Academy of the Silver Veil]{.name data-type="affiliation"}** a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
+Never call a graduate of the [Academy of the Silver Veil]{.name data-type="affiliation"} a courtesan in Kalidria. She is a hetairin, an educated companion trained in music, philosophy, rhetoric and the social arts, and Helionites are impatient with the confusion. The Academy is the most distinctive institution of a city-state that is renowned across [[place-midhalnrgn|Mídhalión]] for its artists, playwrights and musicians. Where [[affiliation-thyrenae|Thirenae]] pursues truth and [[affiliation-pelagora|Pelagora]] pursues power, Kalidria pursues beauty. About 460,000 people live under its patron families, and 45,000 of them in the city of [[place-kalydria2|Kalidria]].
 
 Patron deity
 : [[lore-zunelasdty|Zunelas]], goddess of dreams and visions

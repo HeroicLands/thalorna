@@ -14,7 +14,7 @@ data: {demonym: null, lore: [], parents: [bharanya], population: null, packFolde
 
 ## The Council of Three
 
-The temple's senior priest sits on **[The Council of Three]{.name data-type="affiliation/governmental"}** with the senior priests of [[place-sangama|Sangema]] at [[place-melaground|the Melra ground]] and of [[place-suryatempl|the Surva temple]] at the source of [[place-chandrmahi|the Chandramahi]]. A joint pronouncement of the three carries near-universal weight in the confederation; Sangema's note says what the council does and what its members say it is not.
+The temple's senior priest sits on [The Council of Three]{.name data-type="affiliation/governmental"} with the senior priests of [[place-sangama|Sangema]] at [[place-melaground|the Melra ground]] and of [[place-suryatempl|the Surva temple]] at the source of [[place-chandrmahi|the Chandramahi]]. A joint pronouncement of the three carries near-universal weight in the confederation; Sangema's note says what the council does and what its members say it is not.
 
 Bharanya's is the voice on that council with no assembly behind it. Sangema convenes the [Mahva-Melra]{.name data-type="lore/gathering"} and the Surva temple sights the year; this temple governs nothing, holds no roll and speaks for no circuit, and what it has is a million devotees on one river.
 

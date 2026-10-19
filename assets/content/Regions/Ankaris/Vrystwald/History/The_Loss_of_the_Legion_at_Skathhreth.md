@@ -90,7 +90,7 @@ Every Vylarian officer posted to [[place-moktur|Moktur]] learns the forest's nam
 
 By the end of the second century AF [[lore-legionsroad|the Legions' Road]] ran north out of Moktur through [[place-vandstein|Vandstein]] with a post at every day's march, and the friendly chiefs the _therkoi_ (governors) had bought had been disowned by their own villages one after another. The raids on the road did not stop. In the late summer of 291 a legion of about five thousand marched up it to burn [[place-waldburg|Waldburg]], the river crossing where the raiders sold what they took, and to end the raids where they were paid for.
 
-The villages along the road did something they had never done. Their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief for the response: **[Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"}**, War Chief of [[place-thrastein|Thrastein]], whose village the road ran past. It was the first common muster anyone can name. Dorgulf did not meet the legion on the road. He let it march, burned what it left behind it, and kept his war-bands in the trees on either side of the column for nine days.
+The villages along the road did something they had never done. Their elders met, agreed that the danger was common to all of them, and acclaimed one War Chief for the response: [Dorgulf yra Grimskorn wur Thrastein]{.name data-type="being/npc"}, War Chief of [[place-thrastein|Thrastein]], whose village the road ran past. It was the first common muster anyone can name. Dorgulf did not meet the legion on the road. He let it march, burned what it left behind it, and kept his war-bands in the trees on either side of the column for nine days.
 
 ## The Ford in the Rain
 
@@ -102,7 +102,7 @@ The Empire struck the legion from its list, as a legion that loses its eagle mus
 
 A common War Chief's command ends with the response. Dorgulf's did not. He kept the muster in arms through the winter after the battle, fed it from the villages that had raised it, and called himself War Chief of the tribes. He had a case: the Empire still held the road, and a muster that went home could not be raised again in time. The elders had a better one, which every Varokh still knows by heart. A man who keeps a command after the danger has passed has made himself something the forest has never had and never wanted.
 
-In the spring the elders who had acclaimed him met at Waldburg. The talisman of the common command had stood for the muster's agreement since the elders first met, and **[Vandilda yra Vethskald wur Dunkelwald]{.name data-type="being/npc"}**, Shaman of [[place-dunkelwald|Dunkelwald]], broke it before them so that nobody could hold it again. Each village took a fragment home. A common War Chief is acclaimed now only when the elders lay their fragments together, and the command ends when they take them back. Dorgulf's own war-band left him that spring.
+In the spring the elders who had acclaimed him met at Waldburg. The talisman of the common command had stood for the muster's agreement since the elders first met, and [Vandilda yra Vethskald wur Dunkelwald]{.name data-type="being/npc"}, Shaman of [[place-dunkelwald|Dunkelwald]], broke it before them so that nobody could hold it again. Each village took a fragment home. A common War Chief is acclaimed now only when the elders lay their fragments together, and the command ends when they take them back. Dorgulf's own war-band left him that spring.
 
 The tellings disagree about what became of him, and the Varokh keep all three:
 

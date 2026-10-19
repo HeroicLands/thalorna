@@ -35,7 +35,7 @@ very well for a frontier post.
 
 ## The Winter Assize
 
-Because nothing can be fought in winter, winter is when the march does its law. The **[Winter Assize]{.name data-type="affiliation/governmental"}**
+Because nothing can be fought in winter, winter is when the march does its law. The [Winter Assize]{.name data-type="affiliation/governmental"}
 sits at Durvalis from the closing of the passes to the thaw, and hears everything the campaign
 season has had no time for—claims over stolen stock, disputed ransoms, the standing quarrels of
 border families, and the occasional charge against an officer that could not safely be brought while

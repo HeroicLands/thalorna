@@ -45,7 +45,7 @@ The glass is not from the fell. The gudi of Horgsvangr know it by its look, the 
 ## Who Knows of It
 
 - **The herders of the upper steads** keep the door-seat share and will not climb the fell after dark. They do not call the hall-lord a danger. They call him a guest who has not left.
-- **The velvur of Horgsvangr** know the howe is wrong and have not moved against it. A wake on the fell is possible at Vetrnetr and the leave for one is seldom given. A seeress who knows the fell is **[Hrumrún]{.name data-type="being/npc"}**, who sits in the high seat of the altar-field's women and gives leave for a wake to the few she judges can bear what the dead ask.
+- **The velvur of Horgsvangr** know the howe is wrong and have not moved against it. A wake on the fell is possible at Vetrnetr and the leave for one is seldom given. A seeress who knows the fell is [Hrumrún]{.name data-type="being/npc"}, who sits in the high seat of the altar-field's women and gives leave for a wake to the few she judges can bear what the dead ask.
 - **The [[affiliation-ravenguard|Raven Guard]]** of [[place-odholm|Odholm]] count the howe among the holy places the north must defend, and they cannot spare the warriors to do it.
 - **Traders on the pass road** pay a silver ring to the herders for guides who know which cairns to pass at noon.
 

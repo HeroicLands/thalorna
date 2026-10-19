@@ -8,7 +8,7 @@ tags: [ruin, sacred, hill]
 data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFolder: vedyara}
 ---
 
-**The Silenced Hall** stands in the hill country below the conch-door road, on the way up to [[place-sanghafort|the Sangra-fort]], and it is the whole of what is left of a janapoda. **[Thirnugrama]{.name data-type="place/settlement"}**, the village of the bell, refused the conch-door adventurer about 320 AF, and he shut its sabhra in this hall and fired the roof ([[lore-silenthall|the Silenced Hall]]). The [Mahva-Melra]{.name data-type="lore/gathering"} of 320 mourned the janapoda on the roll, divided its land, and had the doors bricked up.
+**The Silenced Hall** stands in the hill country below the conch-door road, on the way up to [[place-sanghafort|the Sangra-fort]], and it is the whole of what is left of a janapoda. [Thirnugrama]{.name data-type="place/settlement"}, the village of the bell, refused the conch-door adventurer about 320 AF, and he shut its sabhra in this hall and fired the roof ([[lore-silenthall|the Silenced Hall]]). The [Mahva-Melra]{.name data-type="lore/gathering"} of 320 mourned the janapoda on the roll, divided its land, and had the doors bricked up.
 
 ## What Is There
 

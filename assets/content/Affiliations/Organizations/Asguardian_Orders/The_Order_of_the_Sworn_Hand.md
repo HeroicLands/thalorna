@@ -90,7 +90,7 @@ Sworn Hand (_Eidhond_)
 Elder Hand (_Eidhofding_)
 : the senior member, called _Eldri Eidhond_ among the knights themselves, recognized for many years of service or for notable rulings. An Elder Hand may take apprentices, strip a knight of rank on the spot pending trial, and sit on the Council of Hands.
 
-The order's chair is the Voice of Logstead, _Logstadar Mal_, elected for life from the Council of Hands. There is one Voice, and he acts as first among equals rather than as a commander. The present Voice is **[Knilthvir Logstadar]{.name data-type="being/npc"}**, a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations. The Council itself is twelve Elder Hands drawn from the five kingdoms, and it meets quarterly at Logstead.
+The order's chair is the Voice of Logstead, _Logstadar Mal_, elected for life from the Council of Hands. There is one Voice, and he acts as first among equals rather than as a commander. The present Voice is [Knilthvir Logstadar]{.name data-type="being/npc"}, a man in his late sixties, regarded as the finest pure judicial mind the order has produced in two generations. The Council itself is twelve Elder Hands drawn from the five kingdoms, and it meets quarterly at Logstead.
 
 ## The Unblunted Ruling
 

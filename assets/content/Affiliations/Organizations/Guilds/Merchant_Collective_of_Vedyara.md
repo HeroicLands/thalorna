@@ -50,7 +50,7 @@ _Vedyaran: Vyapori Sangra—"the Merchants' Assembly"_
 
 A senior factor of **the Merchant Collective** gives a newly sponsored entrant the same first lesson, and it is a lesson about what the Collective is not: "We are not a kingdom, we are not a temple, and we do not own the roads. We keep them, and we keep them because every court on them would sooner pay us than do it themselves. Remember that when you are tired of being polite to a toll-keeper."
 
-The Collective is what the five seats of [[lore-thirdcmpct|the Compact]] have instead of a unified state. It is a mercantile federation, known as the **Vyapori Sangra** or simply the Collective, and its caravan stations run as far west as [[place-amradadrgn|Amradad]] and as far north as the [[place-khzryndsrtrgn|Khazryn frontier]]. Its five seats are [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota Janapoda]], the five polities that sit in its governing body, the [[affiliation-assmblycmpct|Assembly of the Compact]]. Tradition dates its founding to [[lore-thirdcmpct|the Third Compact]], sworn at the **[Mahva-Melra]{.name data-type="lore/gathering"}** of 320 AF.
+The Collective is what the five seats of [[lore-thirdcmpct|the Compact]] have instead of a unified state. It is a mercantile federation, known as the **Vyapori Sangra** or simply the Collective, and its caravan stations run as far west as [[place-amradadrgn|Amradad]] and as far north as the [[place-khzryndsrtrgn|Khazryn frontier]]. Its five seats are [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota Janapoda]], the five polities that sit in its governing body, the [[affiliation-assmblycmpct|Assembly of the Compact]]. Tradition dates its founding to [[lore-thirdcmpct|the Third Compact]], sworn at the [Mahva-Melra]{.name data-type="lore/gathering"} of 320 AF.
 
 ## Overview
 
@@ -62,7 +62,7 @@ The councils and courts are not weak. The Collective has made itself the connect
 
 That law is the Compact: standing trade law, arbitration procedure and shared infrastructure that the merchants keep in common, meaning the roads, the caravanserai, the watch posts and the currency standards. The founders also wrote an Assembly of the signatories to renew and amend it. Each signatory faced a choice between refusing and watching its territory grow poorer than its neighbors', and each signed. They have signed every renewal since, and the five who hold seats today are the five that share the [[lore-vdyrnbnkng|Vedyaran banking system]].
 
-[[affiliation-suvrgrjnpd|Suvarnageri]] never signed and is not kept out. A seat obliges its holder to let Collective factors weigh, assay and lend against the metal crossing its territory, and the **[Gold Constitution]{.name data-type="lore/law"}** vests the weighing in a temple station and the lending in a common treasury that no outside house may reach. The Assembly has wanted a sixth seat, and the gold behind it, for as long as it has kept minutes.
+[[affiliation-suvrgrjnpd|Suvarnageri]] never signed and is not kept out. A seat obliges its holder to let Collective factors weigh, assay and lend against the metal crossing its territory, and the [Gold Constitution]{.name data-type="lore/law"} vests the weighing in a temple station and the lending in a common treasury that no outside house may reach. The Assembly has wanted a sixth seat, and the gold behind it, for as long as it has kept minutes.
 
 Here is the paradox a new entrant has to learn to live with: the members compete fiercely in every market while dominating every market together. A [[place-suryagarha|Suryagarha]] silver merchant undercuts a Rajepur silver merchant on every shipment they both bid for, then sits beside him on the [Standards Committee]{.name data-type="affiliation/governmental"} and votes with him against any outside competitor. The discipline holds because the alternative, open competition with merchants outside the Collective, would impoverish them both.
 
@@ -78,12 +78,12 @@ There are three ways in, and each carries different rights.
 
 The Collective is governed by the Assembly of the Compact (_Sangra-Sabhra_), which meets twice a year, in the spring at Chendrapur and in the autumn at Vyalendra. Its standing committees sit through the year and carry the administration:
 
-- The **[Roads Committee]{.name data-type="affiliation/governmental"}** keeps the caravan infrastructure and adjudicates road-tax disputes.
+- The [Roads Committee]{.name data-type="affiliation/governmental"} keeps the caravan infrastructure and adjudicates road-tax disputes.
 - The **Standards Committee** sets weights, measures, currency and quality grades.
-- The **[Foreign Trade Committee]{.name data-type="affiliation/governmental"}** negotiates with non-Vedyaran polities and licenses members to operate beyond the Compact.
-- The **[Disputes Committee]{.name data-type="affiliation/governmental"}** arbitrates the internal conflicts the parties would rather not take to a ruler's court.
+- The [Foreign Trade Committee]{.name data-type="affiliation/governmental"} negotiates with non-Vedyaran polities and licenses members to operate beyond the Compact.
+- The [Disputes Committee]{.name data-type="affiliation/governmental"} arbitrates the internal conflicts the parties would rather not take to a ruler's court.
 
-At the apex sits the **High Speaker of the Collective**, elected by the kulinas from among themselves for a seven-year term. The present Speaker is **[Suvirya Ramadasa]{.name data-type="being/npc"}**, an elderly silver merchant of Suryagarha whose tenure is known for caution and for the quiet expansion of the Collective's mining holdings.
+At the apex sits the **High Speaker of the Collective**, elected by the kulinas from among themselves for a seven-year term. The present Speaker is [Suvirya Ramadasa]{.name data-type="being/npc"}, an elderly silver merchant of Suryagarha whose tenure is known for caution and for the quiet expansion of the Collective's mining holdings.
 
 ## Operations
 

@@ -28,7 +28,7 @@ The notation is the college's own and is unreadable without the syllabary, which
 
 The college computes the turn of the year. The orthodox priesthood sights it, at [[place-suryatempl|the Surva temple]] on the ice a thousand miles north, and announces it from there. The two answers differ by a day and have differed by a day for as long as either has been keeping a record.
 
-A day moves a **[Mahva-Melra]{.name data-type="lore/gathering"}**, a Weighing and a coronation, so the difference is not academic. Every court in [[place-vedyarargn|Vedyara]] has had to decide which answer it keeps, most of them keep the temple's, and every **Koshadyoksha** in the region keeps both and reconciles them quietly. The college does not campaign. It publishes, annually, with the working, and waits.
+A day moves a [Mahva-Melra]{.name data-type="lore/gathering"}, a Weighing and a coronation, so the difference is not academic. Every court in [[place-vedyarargn|Vedyara]] has had to decide which answer it keeps, most of them keep the temple's, and every **Koshadyoksha** in the region keeps both and reconciles them quietly. The college does not campaign. It publishes, annually, with the working, and waits.
 
 ## Who May Enter
 

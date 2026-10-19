@@ -18,7 +18,7 @@ A day's walk inland from the [[place-lisere|Lísere]] shingle, where the coastal
 
 ## The Toll
 
-A figure stands at the first stone. It is tall and thin, dressed in what looks like woven reed, with a face that sits oddly in the half-light and is never quite where the eye leaves it. Those who have crossed call it the **[Toll-Keeper]{.name data-type="lore/spirit"}**. It does not bar the way and does not demand. It asks. It asks a traveler what he will give that he will not miss until he is across.
+A figure stands at the first stone. It is tall and thin, dressed in what looks like woven reed, with a face that sits oddly in the half-light and is never quite where the eye leaves it. Those who have crossed call it the [Toll-Keeper]{.name data-type="lore/spirit"}. It does not bar the way and does not demand. It asks. It asks a traveler what he will give that he will not miss until he is across.
 
 The answer is the toll, and it is real. A man who gives his mother's face finds, on the far bank, that he cannot call it to mind. A man who gives the name of his horse does not know the horse again. The Toll-Keeper does not take anything unoffered, and it accepts a refusal without anger: the stones sink, the water rises, and the traveler stands on the near bank with the reed behind him.
 

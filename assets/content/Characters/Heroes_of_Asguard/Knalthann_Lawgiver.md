@@ -391,13 +391,13 @@ Knalthann's legal knowledge is encyclopedic, encompassing the traditions of doze
 
 [[being-vrldrvonhnd|Vraldorv One-Hand]]—His closest ally and the martial arm of their shared mission to bring lasting justice to the north.
 
-**[The Ting of Nordheim]{.name data-type="affiliation/governmental"}**—The great assembly of northern leaders in [[place-nordheim|Nordheim]] has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
+[The Ting of Nordheim]{.name data-type="affiliation/governmental"}—The great assembly of northern leaders in [[place-nordheim|Nordheim]] has appointed Knalthann as Lawspeaker, the highest legal authority recognized across clan boundaries.
 
 ### Enemies
 
 **Hersvald [Snulthvir the Acquitted]{.name data-type="being/npc"}**—A powerful lord whom Knalthann suspects of treason but could not convict due to insufficient evidence. Snulthvir now uses his influence to undermine Knalthann's authority.
 
-**[The Rune Forgers]{.name data-type="affiliation/criminal"}**—A criminal network that creates false runic evidence to manipulate trials. Knalthann has been dismantling their operation, and they have responded with threats against his family.
+[The Rune Forgers]{.name data-type="affiliation/criminal"}—A criminal network that creates false runic evidence to manipulate trials. Knalthann has been dismantling their operation, and they have responded with threats against his family.
 
 ## Plot Hooks
 

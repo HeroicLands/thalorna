@@ -483,7 +483,7 @@ Vulnerability to Civilization
 ### Patrons
 
 [The Merchant House of Pelios]{.name data-type="affiliation/lineage"}
-: A family of fur traders who have purchased Vusukes' pelts for two decades. **[Kuhánikos Pelios]{.name data-type="being/npc"}**, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
+: A family of fur traders who have purchased Vusukes' pelts for two decades. [Kuhánikos Pelios]{.name data-type="being/npc"}, the patriarch, trusts his judgment implicitly and often seeks his advice on which furs will command premium prices.
 
 Farmer [Meydánikos Fikazur]{.name data-type="being/npc"}
 : A desperate man whose lands were plagued by a massive bear until Vusukes tracked and relocated it. Meydánikos now sends urgent requests whenever predators menace his herds.
@@ -512,13 +512,13 @@ The Disappearing Animals
 : Over the past season, the normal migrations have ceased entirely. Herds that should pass through the foothills never arrive. Vusukes begins to suspect something far larger than poaching—perhaps a territorial shift among apex predators, or the influence of something unnatural. **Master Iskandor's** old journals contain fragmented references to a previous occurrence three centuries past, hinting at catastrophe. Investigating the cause would require venturing into territories Vusukes has never explored, following signs only he can read.
 
 The Mysterious Commission
-: A well-dressed stranger arrives at Vusukes' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukes' pursuit leads him to discover the target is fleeing the **[Bizarian Inquisition]{.name data-type="affiliation"}**, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
+: A well-dressed stranger arrives at Vusukes' lodge with an extraordinary offer: track a specific person moving through the wild lands, report their location, and receive a sum of gold that would secure his retirement. The description is vague—a young scholar in dark robes, possibly injured. Vusukes' pursuit leads him to discover the target is fleeing the [Bizarian Inquisition]{.name data-type="affiliation"}, forcing him to decide whether to collect a fortune or protect an innocent from persecution.
 
 The Beast in the Deep Forest
 : A farmer's entire flock vanishes without blood or struggle. Vusukes' investigation reveals traces of something that should not exist—a predator unlike any in the natural order, leaving spoor that confounds his understanding. Tracking it leads into the deepest, most ancient parts of the forest, where **old magic** may still linger and forgotten dangers lurk.
 
 The Apprentice
-: A young, idealistic ranger named **[Faridena Kassandazur]{.name data-type="being/npc"}** seeks Vusukes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
+: A young, idealistic ranger named [Faridena Kassandazur]{.name data-type="being/npc"} seeks Vusukes out, claiming to have been sent by the spirit of **Master Iskandor** himself. Whether this is real mysticism or elaborate deception, she demonstrates uncommon skill and patience. Training her could be Vusukes' greatest contribution to the wild—or a distraction from something far darker stirring in the forest that requires his full attention.
 
 The Poacher's Betrayal
 : **Shabrikos the Scarred** approaches with an unlikely proposition: join forces against a mutual enemy—a mysterious lord buying up forests to convert them to farmland. Vusukes must decide whether a temporary alliance is possible, and whether his methods can work alongside such morally questionable partners. The conspiracy runs deeper than mere logging, reaching into the highest levels of **Bizarian League** politics.

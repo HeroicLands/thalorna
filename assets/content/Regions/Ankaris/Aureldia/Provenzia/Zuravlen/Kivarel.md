@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-Kivarel is a barony in the western valleys of the [[place-zuravlenrgn|Zuravlen]] seaboard, and it is held together with the [[affiliation-brnyzrvln|barony of Zuravlen]] by **[Selvare Zuravel]{.name data-type="being/npc"}**, who sits at [[place-elthrembis|Eltrembis]]. Its people are farmers and fruit-growers, and they will talk to any factor about their yields.
+Kivarel is a barony in the western valleys of the [[place-zuravlenrgn|Zuravlen]] seaboard, and it is held together with the [[affiliation-brnyzrvln|barony of Zuravlen]] by [Selvare Zuravel]{.name data-type="being/npc"}, who sits at [[place-elthrembis|Eltrembis]]. Its people are farmers and fruit-growers, and they will talk to any factor about their yields.
 
 ## The Field Nobody Discusses
 
@@ -24,7 +24,7 @@ The best land in the barony is the [[place-bldfldkyvarel|Blood-field of Kivarel]
 
 ## Its Baron
 
-Selvare is a prominent supporter of the **[Order of the Burning Brand]{.name data-type="affiliation/order"}**, and his clan's alignment with that religious faction gives a small agricultural barony more weight in Provenzian affairs than its size suggests. His overlord is **[Avaarl Zylavren]{.name data-type="being/npc"}**, Earl of Hárivren.
+Selvare is a prominent supporter of the [Order of the Burning Brand]{.name data-type="affiliation/order"}, and his clan's alignment with that religious faction gives a small agricultural barony more weight in Provenzian affairs than its size suggests. His overlord is [Avaarl Zylavren]{.name data-type="being/npc"}, Earl of Hárivren.
 
 ## See Also
 

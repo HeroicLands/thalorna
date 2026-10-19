@@ -15,7 +15,7 @@ data:
 
 ## Overview
 
-Nobody lives on Domsey, and nobody may. The island lies in [[place-nordheim|Nordheim]]'s waters at the heart of the [[place-nrdlndsrgn|Nordlands]], a low hump of turf and gray rock a long morning's row from the nearest strand, and for six years in every seven the only feet on it belong to the sheep the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] grazes there and the herdsman who rows out to count them. In the seventh year, at [[lore-sumarmal|Somarmál]], the kings of all five kingdoms and their principal jarls land on its strand for the **[King of All Clans]{.name data-type="affiliation/governmental"}**, the one assembly whose judgments reach beyond any single kingdom's writ. The island's name says what it is for: _dóms-_, the judgment's, and _-ey_, an island.
+Nobody lives on Domsey, and nobody may. The island lies in [[place-nordheim|Nordheim]]'s waters at the heart of the [[place-nrdlndsrgn|Nordlands]], a low hump of turf and gray rock a long morning's row from the nearest strand, and for six years in every seven the only feet on it belong to the sheep the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] grazes there and the herdsman who rows out to count them. In the seventh year, at [[lore-sumarmal|Somarmál]], the kings of all five kingdoms and their principal jarls land on its strand for the [King of All Clans]{.name data-type="affiliation/governmental"}, the one assembly whose judgments reach beyond any single kingdom's writ. The island's name says what it is for: _dóms-_, the judgment's, and _-ey_, an island.
 
 A Lawspeaker who has recited at three of those assemblies puts the island's first rule to a newcomer before the boat touches: "Leave your sword in the boat. Everything else about Domsey follows from that."
 

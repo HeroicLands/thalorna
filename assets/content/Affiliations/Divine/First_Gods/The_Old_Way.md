@@ -143,7 +143,7 @@ Offerings are usually simple and specific to the recipient: food, drink, blood, 
 
 ## Relation to the Kindred Pact
 
-The Old Way is not the same thing as the **[Kindred Pact]{.name data-type="lore/law"}**—the ancient compact between the Áelendan and the land, the fae, and the older powers that dwell at the thin places. The Kindred Pact is a specific sacred agreement whose terms are guarded by the [[affiliation-alndnwrdns|Wardens]]. The Old Way is the broader faith within which that compact is understood and maintained.
+The Old Way is not the same thing as the [Kindred Pact]{.name data-type="lore/law"}—the ancient compact between the Áelendan and the land, the fae, and the older powers that dwell at the thin places. The Kindred Pact is a specific sacred agreement whose terms are guarded by the [[affiliation-alndnwrdns|Wardens]]. The Old Way is the broader faith within which that compact is understood and maintained.
 
 A shaman is not the same thing as a Warden, though individual Áelendan sometimes hold both roles. The shamen are concerned with the Kindred and with the tribes' ongoing religious life; the Wardens are concerned with the physical integrity of the sacred sites and the enforcement of the Kindred Pact's terms. The two offices work together, but they are distinct.
 

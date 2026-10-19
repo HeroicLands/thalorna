@@ -20,7 +20,7 @@ In Chendrapur Land, gho up [[place-chandrmahi|the Chandramahi]] from the sea and
 
 ## How the land is held
 
-The land is _held_, not endowed, and that is the first thing a traveler up from the janapadas notices. Away from the city the villages answer to a person. In the valley quarters a house has kept for generations, that person is a **Kulena**, the head of one of the **[Nine Houses]{.name data-type="affiliation"}**. On the crown's fields at the river mouth it is the Maharava's own people. It is a temple only where a temple has been endowed with ground outright, and in this land that is uncommon. A cultivator here works under a holder as he works under a sabhra fifty miles inland, but he knows the holder's name, and the holder's name is a man's.
+The land is _held_, not endowed, and that is the first thing a traveler up from the janapadas notices. Away from the city the villages answer to a person. In the valley quarters a house has kept for generations, that person is a **Kulena**, the head of one of the [Nine Houses]{.name data-type="affiliation"}. On the crown's fields at the river mouth it is the Maharava's own people. It is a temple only where a temple has been endowed with ground outright, and in this land that is uncommon. A cultivator here works under a holder as he works under a sabhra fifty miles inland, but he knows the holder's name, and the holder's name is a man's.
 
 The seats descend by house and not by turn, so a Chandrapuri village changes hands at a marriage or a bankruptcy and never at an election. The Houses' rise and fall is read off the map of the valley as much as off the court's seating.
 

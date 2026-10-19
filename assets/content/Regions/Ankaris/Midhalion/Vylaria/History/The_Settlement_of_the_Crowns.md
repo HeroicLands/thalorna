@@ -103,7 +103,7 @@ What the Empire still had was the note system. The Tarmeks minted the coin, [[af
 
 ## The Terms
 
-In the year after the [Charter of Rights]{.name data-type="lore/law"}'s peace, the Orzas **Azénales** of **[House Mardovanes]{.name data-type="affiliation/lineage"}**, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Orzara and set the terms down in one settlement.
+In the year after the [Charter of Rights]{.name data-type="lore/law"}'s peace, the Orzas **Azénales** of [House Mardovanes]{.name data-type="affiliation/lineage"}, who had ruled for fifteen years and spent them watching the provinces go, received the envoys of the crowns and the League in Orzara and set the terms down in one settlement.
 
 - **Provenzia's Charter** was recognized. The Empire stopped sending _therkoi_, and the Charter's king was acknowledged in the chancery's own style.
 - **The crowns and the League** were free of imperial governance and imperial tax. They kept the Vylarian coin and the paper-script, and paid a two-percent fee on every note issued, which went to the Tarmeks.

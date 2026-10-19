@@ -395,7 +395,7 @@ Krildthann's defensive combat style is nearly impenetrable; his ability to read 
 
 ### Enemies
 
-**[The Blackfang Company]{.name data-type="affiliation/venture"}**—The remnants of the mercenary band whose leader Krildthann slew. They have reorganized under new leadership and seek revenge.
+[The Blackfang Company]{.name data-type="affiliation/venture"}—The remnants of the mercenary band whose leader Krildthann slew. They have reorganized under new leadership and seek revenge.
 
 **Jarl [[being-vruldorvthec|Vruldorv the Cruel]]**—A tyrant who views Krildthann's protection of the weak as an implicit challenge to his authority and has declared him an outlaw in his territory.
 

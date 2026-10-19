@@ -62,7 +62,7 @@ On still nights in the campaign season the pass above [[place-bldfldmalnebris|Ma
 
 ## The Host
 
-When the legions were drawn north and the garrisons of the western province thinned, the High Kings of [[affiliation-kingdmtrvn|Tarvénia]] found a use for the lords who had elected them. **[Mórezan]{.name data-type="being/npc"}**, the second High King, led a host down the pass from the mountains above the province's north-eastern march, to see what could be taken in a season and whether anyone would stop it. It was the first great raid, and nothing like it had come that way before.
+When the legions were drawn north and the garrisons of the western province thinned, the High Kings of [[affiliation-kingdmtrvn|Tarvénia]] found a use for the lords who had elected them. [Mórezan]{.name data-type="being/npc"}, the second High King, led a host down the pass from the mountains above the province's north-eastern march, to see what could be taken in a season and whether anyone would stop it. It was the first great raid, and nothing like it had come that way before.
 
 ## The Road
 

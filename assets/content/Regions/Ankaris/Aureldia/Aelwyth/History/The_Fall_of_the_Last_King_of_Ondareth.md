@@ -44,11 +44,11 @@ data:
         - which traveler first described the Vylarian Senate on the Thornbury quays
 ---
 
-The Fall of the Last King of Ondareth began as a tax dispute in [[place-ondareth|Ondareth]], the only part of [[place-aelwyth|Aelwyth]] that was a republic on purpose. **[Tralkar]{.name data-type="being/npc"}**, the last king of the western coast, taxed the carrying trade until it could not pay and then hanged the captains who said so. The captains of the coast were the one class on it with ships, money and men used to command, and they were the ones he ought not to have hanged.
+The Fall of the Last King of Ondareth began as a tax dispute in [[place-ondareth|Ondareth]], the only part of [[place-aelwyth|Aelwyth]] that was a republic on purpose. [Tralkar]{.name data-type="being/npc"}, the last king of the western coast, taxed the carrying trade until it could not pay and then hanged the captains who said so. The captains of the coast were the one class on it with ships, money and men used to command, and they were the ones he ought not to have hanged.
 
 ## The Rising
 
-The levies came from the coast towns and the highland farms behind them, and **[Zalmen]{.name data-type="being/npc"}** led them. He took [[place-thornbury|Thornbury]] in a season and threw the king's castle down on its rock, so completely that no wall stands above the second course. Tralkar did not survive the siege, and no one claimed his place.
+The levies came from the coast towns and the highland farms behind them, and [Zalmen]{.name data-type="being/npc"} led them. He took [[place-thornbury|Thornbury]] in a season and threw the king's castle down on its rock, so completely that no wall stands above the second course. Tralkar did not survive the siege, and no one claimed his place.
 
 ## A Government Out of Hearsay
 

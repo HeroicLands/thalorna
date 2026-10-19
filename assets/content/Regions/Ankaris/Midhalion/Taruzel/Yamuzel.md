@@ -74,7 +74,7 @@ In Yamuzel a family's standing is counted in ships commanded and battles won. Th
 
 ## Who Decides
 
-The great families are admirals' families, and the **[Admiral's Council]{.name data-type="affiliation/governmental"}** that governs the city is drawn heavily from them. The city's festivals turn on martial display rather than commercial spectacle, and the greatest of them, the annual **[Fleet Review]{.name data-type="lore/gathering"}** in memory of the Shoals, draws visitors from across the Confederation.
+The great families are admirals' families, and the [Admiral's Council]{.name data-type="affiliation/governmental"} that governs the city is drawn heavily from them. The city's festivals turn on martial display rather than commercial spectacle, and the greatest of them, the annual [Fleet Review]{.name data-type="lore/gathering"} in memory of the Shoals, draws visitors from across the Confederation.
 
 The council's forms are the ones every Taruzelian city shares—a First of the Council holding the seal for his term, councilors seated by the weight of their houses, a Harbormaster over the port—but in Yamuzel the house behind a councilor is usually a naval one, where in [[affiliation-besikar|Besikar]] it is a banking or trading one. The [[affiliation-corsairleg|Corsair League]] has its strongest roots here.
 
@@ -86,7 +86,7 @@ That is why Yamuzel is the city where the captain of [[affiliation-thetamzir|the
 
 ## Commerce and Currency
 
-The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian currency]], administered through the **[Merazuni]{.name data-type="affiliation/governmental"}** of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], with a Solden slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamuzel, and Taruzelian script is not honored in Vylarian territory.
+The yards and the fleet are paid in the [[lore-trzlncrncy|Taruzelian currency]], administered through the [Merazuni]{.name data-type="affiliation/governmental"} of the [[affiliation-vezakuni|Vezakuni]]. It keeps the Vylarian denominations (Solden, Ardin and Bit), backed by Taruzelian reserves rather than the Vylarian reserves of [[affiliation-tarmex|the Tarmeks Orzan]], with a Solden slightly underweight by the Vylarian standard. Merazuni-affiliated moneylenders handle the banking. Vylarian script is not honored in Yamuzel, and Taruzelian script is not honored in Vylarian territory.
 
 ## See Also
 

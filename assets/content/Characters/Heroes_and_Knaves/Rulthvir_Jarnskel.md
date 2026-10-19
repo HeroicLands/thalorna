@@ -428,7 +428,7 @@ Rulthvir was born into the [Jarnskel clan]{.name data-type="affiliation/lineage"
 
 ### The Settling Years
 
-By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Jarnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married **[Marvthira Hlarthendik]{.name data-type="being/npc"}**, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **[[being-snilthannthe|Snilthann the Younger]]**, showed the passion for herding that defines the Jarnskel line.
+By his late teens, Rulthvir had proven himself a fine herder, commanding respect from livestock and shepherds alike. He established a personal holding in the high valleys that the Jarnskel family claimed, a region of dramatic seasonal variation where only the most dedicated herders could maintain successful flocks. He married [Marvthira Hlarthendik]{.name data-type="being/npc"}, a healer's daughter, and together they built what became an increasingly prosperous pastoral operation. Their children—two daughters and a son—were raised in the same tradition, though only the youngest, **[[being-snilthannthe|Snilthann the Younger]]**, showed the passion for herding that defines the Jarnskel line.
 
 ### The Current Era
 

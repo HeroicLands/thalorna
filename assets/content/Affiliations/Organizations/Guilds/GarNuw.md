@@ -88,7 +88,7 @@ Two bodies hunt in the empire without a Gar'Nuw license, and the guild has made 
 
 The **Meglay** are the hereditary hunter-warden caste, whose noble families hold ancient charters of their own. Their authority is older than the guild, so Gar'Nuw's license does not bind them. By long-standing practice the Meglay families pay the guild informal courtesy dues, and the guild treats Meglay-conducted hunts as exempt from its examinations. The arrangement keeps both sides out of a jurisdictional fight that neither wants.
 
-The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the **[Khetai]{.name data-type="affiliation/lineage"}** family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
+The [[affiliation-zeghetnelgu|Zeghet'Nelgu]], the [Khetai]{.name data-type="affiliation/lineage"} family's sacred hunt, are harder to place. Its members are nobles of the Meglay caste and exempt from the license, but their charter covers only their own stretch of the Zumelesh. Outside it they are technically hunting as Meglay nobles and not as Zeghet'Nelgu, and jurisdictional incidents occasionally break out at the border. They are settled by diplomacy, not litigation.
 
 ## Joining and Rising
 
@@ -106,7 +106,7 @@ Master Hunter (_lem-nuw_)
 : promoted by senior vote after presenting a documented record of significant work. A master may seal independently, take apprentices and sit on chapter councils.
 
 Great Hunter (_wer-nuw_)
-: the most senior masters, who convene as the **[Council of the Long Spear]{.name data-type="affiliation/governmental"}** at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
+: the most senior masters, who convene as the [Council of the Long Spear]{.name data-type="affiliation/governmental"} at the central guildhouse, advise the imperial administration and adjudicate the highest guild disputes.
 
 A member who falsifies game counts, returns or pricing is subject to revocation.
 

@@ -26,7 +26,7 @@ The Watch is the one that costs. A janapoda of thirty thousand people has gradua
 
 ## The Priesthood
 
-The **Retuja** households of the janapoda sit in and around the temple, and the donations of academy graduates have made them wealthy by janapoda standards. The senior priest is one of the senior voices at every **[Mahva-Melra]{.name data-type="lore/gathering"}**, and the four academy masters sit with him at every formal session of the sabhra.
+The **Retuja** households of the janapoda sit in and around the temple, and the donations of academy graduates have made them wealthy by janapoda standards. The senior priest is one of the senior voices at every [Mahva-Melra]{.name data-type="lore/gathering"}, and the four academy masters sit with him at every formal session of the sabhra.
 
 The temple deals with the cremation-ground priests outside the walls at arm's length, and has done so for a very long time.
 

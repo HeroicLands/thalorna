@@ -80,11 +80,11 @@ It is one of the hundred small kingdoms of [[place-vedyarargn|Vedyara]] in the e
 
 ## The Gold Treaty
 
-Bharyastan is bound by standing treaty to send military assistance to Suvarnageri in exchange for an annual gold tribute. The treaty is eight hundred years old, it has been invoked perhaps a dozen times, and it is renewed without argument at every succession on either side. Its first king, **[Dhursavira]{.name data-type="being/npc"}**, swore it after riding down the raiders of [[lore-lastgldrd|the last gold raid]].
+Bharyastan is bound by standing treaty to send military assistance to Suvarnageri in exchange for an annual gold tribute. The treaty is eight hundred years old, it has been invoked perhaps a dozen times, and it is renewed without argument at every succession on either side. Its first king, [Dhursavira]{.name data-type="being/npc"}, swore it after riding down the raiders of [[lore-lastgldrd|the last gold raid]].
 
 The arrangement suits both. Suvarnageri keeps three hundred guards of its own and would rather not keep three thousand. Bharyastan keeps four hundred horse it could not otherwise afford, in a district that grows barley and walnuts and exports neither in quantity. The tribute is weighed at the janapoda's own station and carried up in one party each spring, under an escort both parties provide and neither commands.
 
-The gold reaches nobody else on the way. It leaves the **[Gold Constitution]{.name data-type="lore/law"}**'s reach as tribute and not as trade, and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]]'s factors have no standing to weigh it at either end. The [[affiliation-assmblycmpct|Assembly of the Compact]] has been known to raise the point, and has never yet raised it twice in the same decade.
+The gold reaches nobody else on the way. It leaves the [Gold Constitution]{.name data-type="lore/law"}'s reach as tribute and not as trade, and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]]'s factors have no standing to weigh it at either end. The [[affiliation-assmblycmpct|Assembly of the Compact]] has been known to raise the point, and has never yet raised it twice in the same decade.
 
 ## Government
 

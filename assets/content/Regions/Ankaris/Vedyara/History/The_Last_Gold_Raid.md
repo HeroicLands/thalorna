@@ -51,7 +51,7 @@ At the new moon the month's gold lay in the weighing-station waiting to be weigh
 
 ## The Return
 
-The gold went down the road toward the river country, and the road ran past [[affiliation-bharyastan|Bharyastan]]. Its king, **[Dhursavira]{.name data-type="being/npc"}**, had four hundred horse and a district that grew barley and walnuts and little else. He rode the raiders down in a gorge below the mountain road, killed most of them there, and brought the gold back up to the weighing-station. He had it weighed at the rail against the month's record, and it came to the grain.
+The gold went down the road toward the river country, and the road ran past [[affiliation-bharyastan|Bharyastan]]. Its king, [Dhursavira]{.name data-type="being/npc"}, had four hundred horse and a district that grew barley and walnuts and little else. He rode the raiders down in a gorge below the mountain road, killed most of them there, and brought the gold back up to the weighing-station. He had it weighed at the rail against the month's record, and it came to the grain.
 
 At the next new moon Suvarnageri's sabhra and the king swore the treaty both sides still keep: Bharyastan sends its horse whenever the janapoda calls, and the janapoda pays an annual weight of gold, weighed at its own station.
 

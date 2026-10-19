@@ -66,7 +66,7 @@ The legions had taken the lowlands ([[lore-lowlandstaken|The Lowlands Taken]]) a
 
 ## The Gorge
 
-The mountain lord **[Tórsaro]{.name data-type="being/npc"}** knew that a legion would take the road that was easiest to climb. He let it come to the gorge, a long cleft in the rock below the plateau where the ground favors a defender absolutely, and he waited for the last of its baggage to enter. He then closed both ends. The legion was in a trench with its sides lined with archers and its ends full of fallen stone, and it died there over two days among the rocks. The Astúrathi counted the dead afterward and found the _felzos_'s standard.
+The mountain lord [Tórsaro]{.name data-type="being/npc"} knew that a legion would take the road that was easiest to climb. He let it come to the gorge, a long cleft in the rock below the plateau where the ground favors a defender absolutely, and he waited for the last of its baggage to enter. He then closed both ends. The legion was in a trench with its sides lined with archers and its ends full of fallen stone, and it died there over two days among the rocks. The Astúrathi counted the dead afterward and found the _felzos_'s standard.
 
 ## What the Empire Did
 

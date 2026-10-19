@@ -66,7 +66,7 @@ data:
       unresolved: [how many of the lords who voted for Garvaneth had been paid in advance]
 ---
 
-The election of a High King of [[affiliation-kingdmtrvn|Tarvénia]] is half ceremony and half brawl, and the first one, during Tarvénia Falls Away, set the pattern. The lords of the mountains met at [[place-lezkora|Lezkora]], and the ones who voted for **[Garvaneth]{.name data-type="being/npc"}** of [[place-asturath|Asturath]] voted for the man who would drive out the garrisons.
+The election of a High King of [[affiliation-kingdmtrvn|Tarvénia]] is half ceremony and half brawl, and the first one, during Tarvénia Falls Away, set the pattern. The lords of the mountains met at [[place-lezkora|Lezkora]], and the ones who voted for [Garvaneth]{.name data-type="being/npc"} of [[place-asturath|Asturath]] voted for the man who would drive out the garrisons.
 
 ## The Coin Fixed
 

@@ -65,7 +65,7 @@ The First Crowning of Élavendre established the oath every monarch of the [[aff
 
 ## The Houses of the Basin
 
-The people who came down out of the hills into the broad green basin of [[place-beravriver|the Berav]] were Áelendan by descent, and they had long since stopped being Áelendan by habit. They farmed, they traded up and down the river, they built in stone, and they raised houses with names and genealogies that the bards of the day were glad to keep. By about 560 BF they wanted a king, and they acclaimed **[Táldoren]{.name data-type="being/npc"}**, of the house of **[Orethan]{.name data-type="affiliation/lineage"}**, as king. He is the First Crowned.
+The people who came down out of the hills into the broad green basin of [[place-beravriver|the Berav]] were Áelendan by descent, and they had long since stopped being Áelendan by habit. They farmed, they traded up and down the river, they built in stone, and they raised houses with names and genealogies that the bards of the day were glad to keep. By about 560 BF they wanted a king, and they acclaimed [Táldoren]{.name data-type="being/npc"}, of the house of [Orethan]{.name data-type="affiliation/lineage"}, as king. He is the First Crowned.
 
 ## The Oath at Ésalosa
 

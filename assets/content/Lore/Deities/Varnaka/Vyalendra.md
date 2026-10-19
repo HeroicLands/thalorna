@@ -24,4 +24,4 @@ Artisans bless the tools of their trade each morning. Before a new commission th
 
 The villages downstream keep a pilgrimage to it for those hoping for a child. The god of foundations is the god of beginnings of every kind.
 
-On the [[place-mahanadi|Mahanodi plain]], [[place-rajapur|Rajepur]] keeps its own great Vyalendra temple at the janapoda's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its **[Spring Festival]{.name data-type="lore/gathering"}** is the year's great pilgrimage draw.
+On the [[place-mahanadi|Mahanodi plain]], [[place-rajapur|Rajepur]] keeps its own great Vyalendra temple at the janapoda's center, beside the old royal palace. Its altar is a sandstone block cut when the dynastic capital was founded, and its [Spring Festival]{.name data-type="lore/gathering"} is the year's great pilgrimage draw.

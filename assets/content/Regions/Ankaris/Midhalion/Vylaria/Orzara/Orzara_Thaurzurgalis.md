@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: 5000, governm
 
 ## Thaurzurgalis—The Imperial Barracks
 
-Within the walls of [[place-arvon|Arvon]], hard against the flank of the palace hill, stands the **Thaurzurgalis**—the fortified barracks of [[affiliation-sorvan|the Sorvan]], the imperial guard. It is the fortress of the Orzas, the emperor, at the center of his own capital: the strongpoint from which the throne's grip on the Inner City is enforced, and the only true camp raised inside the **[Inner Wall]{.name data-type="place/structure"}**, where no field legion is ever quartered.
+Within the walls of [[place-arvon|Arvon]], hard against the flank of the palace hill, stands the **Thaurzurgalis**—the fortified barracks of [[affiliation-sorvan|the Sorvan]], the imperial guard. It is the fortress of the Orzas, the emperor, at the center of his own capital: the strongpoint from which the throne's grip on the Inner City is enforced, and the only true camp raised inside the [Inner Wall]{.name data-type="place/structure"}, where no field legion is ever quartered.
 
 ### The Fortress
 

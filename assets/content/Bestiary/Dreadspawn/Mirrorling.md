@@ -406,7 +406,7 @@ The mirrorling's whole surface is a perfect, liquid-smooth mirror, like burnishe
 
 ## In the Land
 
-Orzara is the heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and Selvin, the greener and newer of its patrician hills, is where new money builds great houses to rival the old villas of **[Torvel]{.name data-type="place/feature"}**. The mirrorling holds one of those houses: a villa whose builder spent a fortune on a long gallery of mirrors and polished marble, and who did not live long in it. It keeps to the gallery and the rooms that open from it, and to the lit fountain court, and it is seen in the mirrors of the rest of the house at night. It does not leave the house. Its owners, a rising family, have shut the gallery, kept the servants who know, and gone on giving dinners in the other wing.
+Orzara is the heart of the [[affiliation-vylarinmpr|Vylarian Empire]], and Selvin, the greener and newer of its patrician hills, is where new money builds great houses to rival the old villas of [Torvel]{.name data-type="place/feature"}. The mirrorling holds one of those houses: a villa whose builder spent a fortune on a long gallery of mirrors and polished marble, and who did not live long in it. It keeps to the gallery and the rooms that open from it, and to the lit fountain court, and it is seen in the mirrors of the rest of the house at night. It does not leave the house. Its owners, a rising family, have shut the gallery, kept the servants who know, and gone on giving dinners in the other wing.
 
 ## Key Behaviors
 

@@ -425,7 +425,7 @@ Among the coastal nobility and merchant classes, Pálina is viewed as somewhat q
 
 **Patrons:**
 
-- **[Magdalen Weaver]{.name data-type="being/npc"}**, a widow who runs a small cloth-working shop employing a dozen women. She comes to Pálina monthly for blessings and counsel and has become something approaching a friend.
+- [Magdalen Weaver]{.name data-type="being/npc"}, a widow who runs a small cloth-working shop employing a dozen women. She comes to Pálina monthly for blessings and counsel and has become something approaching a friend.
 - **Captain [[being-orthemotsuku|Orthemo Tsukurris]]**, a merchant captain who credits Pálina’s fertility blessing with his ability to father a child after years of childlessness. His family’s loyalty is fierce.
 
 **Enemies:**

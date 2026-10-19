@@ -389,13 +389,13 @@ Vrithorv's resistance to heat and fire borders on the supernatural, allowing him
 
 ### Patrons
 
-**[The Flame Temple of Braldfjall]{.name data-type="place/structure"}**—The high priests of the [[affiliation-svartbrandr|Faith of Svartbrandr]] at its most sacred temple in [[place-braldfjall|Braldfjall]] recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
+[The Flame Temple of Braldfjall]{.name data-type="place/structure"}—The high priests of the [[affiliation-svartbrandr|Faith of Svartbrandr]] at its most sacred temple in [[place-braldfjall|Braldfjall]] recognize Vrithorv as blessed by the god and provide him with arms, provisions, and spiritual guidance.
 
 [[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—A warlike jarl who keeps Vrithorv close as both champion and bodyguard, knowing that the warrior's reputation alone deters many would-be challengers.
 
 ### Enemies
 
-**[The Frost Wardens]{.name data-type="affiliation"}**—Survivors of the Frost Giant clans who have sworn a blood oath against Vrithorv for the destruction of their kin. They send assassins armed with enchanted ice weapons.
+[The Frost Wardens]{.name data-type="affiliation"}—Survivors of the Frost Giant clans who have sworn a blood oath against Vrithorv for the destruction of their kin. They send assassins armed with enchanted ice weapons.
 
 [[being-svlthsldashnmdn|Svilthselda Ashenmaiden]]—Though both serve Svartbrandr, their interpretations of the god's will differ sharply. Svilthselda sees Vrithorv's reckless aggression as a perversion of Svartbrandr's purifying flame, and the tension between them has nearly erupted into open conflict.
 

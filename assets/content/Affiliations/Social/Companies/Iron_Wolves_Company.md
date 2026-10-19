@@ -91,11 +91,11 @@ They are not the largest free company in the western part of the [[place-ankrscn
 
 The company's reputation is what makes it valuable to its employers and what makes it loathed by everyone else. An employer who hires the Iron Wolves knows what he is getting: a unit that will execute the contract as written, that will not flinch at orders that other companies would refuse, and that will not, afterward, complain. The premium charged for this dependability is substantial. So is the body count that has accumulated, over more than forty years of operation, in the wake of the company's contracts.
 
-The current captain, **[Filazur Zighidek]{.name data-type="being/npc"}**, is the third in the company's history. He inherited a company already widely feared and has, by all accounts, made it more so. He is professional, methodical, and personally disinclined to cruelty; the cruelty is institutional and predates him. Filazur's working philosophy is that the company exists to execute paid work without sentiment, that the moral character of the work is the employer's problem, and that the company's reputation for ferocity is itself an asset that should be cultivated. He is, in his own assessment, a businessman.
+The current captain, [Filazur Zighidek]{.name data-type="being/npc"}, is the third in the company's history. He inherited a company already widely feared and has, by all accounts, made it more so. He is professional, methodical, and personally disinclined to cruelty; the cruelty is institutional and predates him. Filazur's working philosophy is that the company exists to execute paid work without sentiment, that the moral character of the work is the employer's problem, and that the company's reputation for ferocity is itself an asset that should be cultivated. He is, in his own assessment, a businessman.
 
 ## Backstory
 
-The Iron Wolves were founded forty years ago by **[Arshkar Zighidek]{.name data-type="being/npc"}** (no relation to the current captain, despite the shared house name; the coincidence is one of the company's running internal jokes) as a small heavy-infantry outfit operating in the Amradi border country of the [[place-southrnmrch|Southern March]]. Arshkar was a former officer of the [[affiliation-byzarianlg|League]]’s joint army cashiered for ordering reprisals on civilians during a frontier campaign; the cashiering had cost him his career but not his connections, and the company found steady contract work with merchant houses and minor lords whose interests the League's regular forces would not serve.
+The Iron Wolves were founded forty years ago by [Arshkar Zighidek]{.name data-type="being/npc"} (no relation to the current captain, despite the shared house name; the coincidence is one of the company's running internal jokes) as a small heavy-infantry outfit operating in the Amradi border country of the [[place-southrnmrch|Southern March]]. Arshkar was a former officer of the [[affiliation-byzarianlg|League]]’s joint army cashiered for ordering reprisals on civilians during a frontier campaign; the cashiering had cost him his career but not his connections, and the company found steady contract work with merchant houses and minor lords whose interests the League's regular forces would not serve.
 
 The defining incident in the company's history occurred twenty-six years ago, in a small village called [[place-trianthion|Trianthion]] in the Bizarian hinterland. The village had refused to submit to a local lord's authority—refused his tax collectors, refused his garrison, and (most provocatively) sheltered a fugitive bandit chief who had robbed the lord's caravan. The lord hired the Iron Wolves to take the village. The company's instructions were standard: enter the village, seize the bandit chief, and demonstrate the cost of resistance. The standard demonstration, in such cases, was the burning of a few houses and the public hanging of the bandit chief.
 
@@ -130,10 +130,10 @@ Captain Filazur Zighidek
 First-Sergeant [[being-parzheliontr|Parzhelion Trividek]]
 : Filazur's senior field deputy and a Trianthion veteran. Parzhelion was a lieutenant at Trianthion under the previous captain and has never forgiven [[being-ghymrhrptrks|Ghimaráhr Rores]] for his subsequent desertion. Parzhelion keeps an informal standing inquiry running for any rumor of Ghimaráhr's whereabouts and is widely understood to be the principal reason the company has not formally retired the bounty.
 
-First-Sergeant **[Ghorigios Aikastos]{.name data-type="being/npc"}**
+First-Sergeant [Ghorigios Aikastos]{.name data-type="being/npc"}
 : the administrative deputy; a former Vylarian quartermaster recruited for his logistics. Universally respected, occasionally feared.
 
-Lieutenant **[Áneveze Pédhikot]{.name data-type="being/npc"}**
+Lieutenant [Áneveze Pédhikot]{.name data-type="being/npc"}
 : commands the company's archery section; the only senior woman in command; widely considered the most tactically gifted officer in the company.
 
 ## Territory and Operations

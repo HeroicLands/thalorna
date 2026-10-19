@@ -389,13 +389,13 @@ Skalforv's strength is prodigious, and his skill with a warhammer is unmatched. 
 
 ### Patrons
 
-**[The Storm Temple of Thrumufjall]{.name data-type="place/structure"}**—The priests of the [[affiliation-thrunvald|Faith of Thrunvald]] at the sacred mountain of [[place-thrumufjall|Thrumufjall]] recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
+[The Storm Temple of Thrumufjall]{.name data-type="place/structure"}—The priests of the [[affiliation-thrunvald|Faith of Thrunvald]] at the sacred mountain of [[place-thrumufjall|Thrumufjall]] recognize Skalforv as their god's champion and provide him with blessings, healing, and the finest weapons they can offer.
 
 **Widow [Hvarnselda]{.name data-type="being/npc"} of [[place-ralthvik|Ralthvík]]**—A wealthy fisherwoman whose village Skalforv saved from sea raiders. She supplies him with provisions, a ship, and crew whenever he needs them.
 
 ### Enemies
 
-**[The Serpent Cult]{.name data-type="affiliation/faithtradition"}**—Worshippers of the great sea serpent who view Skalforv as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
+[The Serpent Cult]{.name data-type="affiliation/faithtradition"}—Worshippers of the great sea serpent who view Skalforv as a blasphemer for his legendary battle. They seek revenge through poison, sabotage, and ambush rather than open combat.
 
 **Jarl [[being-skraldvirsna|Skraldvir Snarvumak]]**—A prideful lord who once challenged Skalforv to a holmgang and was humiliated. He now works to undermine Skalforv's reputation and deny him shelter in his lands.
 

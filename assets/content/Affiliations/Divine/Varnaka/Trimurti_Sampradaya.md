@@ -113,11 +113,11 @@ A **Sevoka** ("Servant") is an acolyte or assistant, who trains at least five ye
 
 ### Rites and Festivals
 
-**[The Morning of the Three]{.name data-type="lore/custom"}** is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. **[The Triple Blessing]{.name data-type="lore/custom"}** is performed at every civic opening, groundbreaking and seasonal transition, when the three Acharyas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
+[The Morning of the Three]{.name data-type="lore/custom"} is the daily opening rite at a temple: each chamber is opened in turn, its form is greeted in the proper formula, and the day's first offering is shared among the three. [The Triple Blessing]{.name data-type="lore/custom"} is performed at every civic opening, groundbreaking and seasonal transition, when the three Acharyas (or their deputies) speak the formulas of shaping, preserving and transforming in sequence.
 
-**[The Sealing of the Triad]{.name data-type="lore/custom"}** is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyacharya resolves any friction between their partisans. **[The Consecration of a City]{.name data-type="lore/custom"}** is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
+[The Sealing of the Triad]{.name data-type="lore/custom"} is an annual rite at each temple in which the three forms are ceremonially reconciled after the year's observances, and the Triyacharya resolves any friction between their partisans. [The Consecration of a City]{.name data-type="lore/custom"} is performed at the founding of a new settlement or the rebuilding of one destroyed, and a temple of the three forms is dedicated in a single rite that may last a full season.
 
-**[The Procession of the Three]{.name data-type="lore/gathering"}** is a week-long festival at midsummer in every Vedyaran city where a Triyanga temple stands. A procession of each form moves through the streets, and all converge at the central temple for a combined dedication. **[The Reconciliation of the Year]{.name data-type="lore/gathering"}** falls at the winter solstice: community disputes left unresolved are brought before the Triyacharya, who mediates with the three forms as witnesses.
+[The Procession of the Three]{.name data-type="lore/gathering"} is a week-long festival at midsummer in every Vedyaran city where a Triyanga temple stands. A procession of each form moves through the streets, and all converge at the central temple for a combined dedication. [The Reconciliation of the Year]{.name data-type="lore/gathering"} falls at the winter solstice: community disputes left unresolved are brought before the Triyacharya, who mediates with the three forms as witnesses.
 
 ### Ordeals for Favor
 
@@ -129,7 +129,7 @@ A **Sevoka** ("Servant") is an acolyte or assistant, who trains at least five ye
 
 ### Orders
 
-The **[Order of the Balanced Temple]{.name data-type="affiliation/order"}** is the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar. The **[Council of the Triyacharyas]{.name data-type="affiliation/governmental"}** is its ruling council, made up of the senior Triyacharya of each great Vedyaran city.
+The [Order of the Balanced Temple]{.name data-type="affiliation/order"} is the senior administrative order of the sect, which adjudicates disputes between temples and sets the liturgical calendar. The [Council of the Triyacharyas]{.name data-type="affiliation/governmental"} is its ruling council, made up of the senior Triyacharya of each great Vedyaran city.
 
 ### The Council of the Triyacharyas
 

@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [sixhillsvyl], population: 0, packFolde
 
 ## Overview
 
-Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on which [[place-orzara|Orzara]] rises, and it looks down on all the rest. Its crown is walled: behind its own ancient ring of walls stands [[place-arvon|Arvon]], the Inner City and the sacred and administrative core of the [[affiliation-vylarinmpr|empire]], and over the summit rises the [[place-palvar|Palvar]], the largest single structure in the known western world. Below it, in the central saddle, lies the [Platan District]{.name data-type="place/site"} around the **[Circle of Árdavon]{.name data-type="place/site"}**.
+Arvel, the Eagle Hill, is the highest of the [[place-sixhillsvyl|Six Hills]] on which [[place-orzara|Orzara]] rises, and it looks down on all the rest. Its crown is walled: behind its own ancient ring of walls stands [[place-arvon|Arvon]], the Inner City and the sacred and administrative core of the [[affiliation-vylarinmpr|empire]], and over the summit rises the [[place-palvar|Palvar]], the largest single structure in the known western world. Below it, in the central saddle, lies the [Platan District]{.name data-type="place/site"} around the [Circle of Árdavon]{.name data-type="place/site"}.
 
 ## The Hill and the Empire
 
@@ -18,7 +18,7 @@ A newcomer to Orzara learns the hill by what is closed to them. The Inner City i
 
 ## The Sealed Eyrie
 
-Under the hill lie the galleries where the dragon mounts of the **[Dragon Riders]{.name data-type="affiliation"}** were housed, and **the [Eyrie of the Dragon Riders]{.name data-type="place/site"} (the Eyrie of Arvel)** that held them. Around 45 BF the [Vylarian Republic]{.name data-type="affiliation/polity"} did not renew its standing lease with the dragons ([[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded, and the Eyrie was sealed. The galleries under Arvel remain shut. What passed between the Republic and the dragons for the Riders' service is in no account of the war; see [[lore-thebargain|the Bargain]].
+Under the hill lie the galleries where the dragon mounts of the [Dragon Riders]{.name data-type="affiliation"} were housed, and **the [Eyrie of the Dragon Riders]{.name data-type="place/site"} (the Eyrie of Arvel)** that held them. Around 45 BF the [Vylarian Republic]{.name data-type="affiliation/polity"} did not renew its standing lease with the dragons ([[lore-ridersdisb|The Lease Refused]]), the Riders were disbanded, and the Eyrie was sealed. The galleries under Arvel remain shut. What passed between the Republic and the dragons for the Riders' service is in no account of the war; see [[lore-thebargain|the Bargain]].
 
 ## See Also
 

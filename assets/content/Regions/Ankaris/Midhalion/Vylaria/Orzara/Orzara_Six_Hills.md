@@ -17,14 +17,14 @@ A bearer who has carried firewood, water and wine up the hill-lanes for thirty y
 ## The Hills
 
 - [[place-arvel|Arvel]], the Eagle Hill, is the highest. The walled [[place-arvon|Arvon]] (the Inner City) and [[place-palvar|Palvar]] (the Grand Palace) crown it.
-- **[Torvel]{.name data-type="place/feature"}** (the Coronal) and [[place-selvin|Selvin]] (the Laurel) are the twin patrician hills that together make **the [Heights]{.name data-type="place/site"}**. Torvel is the older and prouder, ringed with the ancestral villas of the senatorial houses; Selvin is greener and newer, and the **[Gilded Quarter]{.name data-type="place/site"}** climbs its lower slopes.
-- **[Mernel]{.name data-type="place/feature"}**, the Scholars' Hill, carries the [Scholars' District]{.name data-type="place/site"}, the campus of [[affiliation-panepistmm|Epistémion]], and the **[Circle of Marendas]{.name data-type="place/site"}**.
+- [Torvel]{.name data-type="place/feature"} (the Coronal) and [[place-selvin|Selvin]] (the Laurel) are the twin patrician hills that together make **the [Heights]{.name data-type="place/site"}**. Torvel is the older and prouder, ringed with the ancestral villas of the senatorial houses; Selvin is greener and newer, and the [Gilded Quarter]{.name data-type="place/site"} climbs its lower slopes.
+- [Mernel]{.name data-type="place/feature"}, the Scholars' Hill, carries the [Scholars' District]{.name data-type="place/site"}, the campus of [[affiliation-panepistmm|Epistémion]], and the [Circle of Marendas]{.name data-type="place/site"}.
 - [[place-antel|Antel]], the Old Hill, was the [Vylarian Republic]{.name data-type="affiliation/polity"}'s city before the Founder walled the Eagle Hill ([[lore-eaglecityrse|The Raising of the Eagle City]]), and was once second only to it. Its early monuments weather unrepaired, its great families have drifted to the Laurel after [[lore-greatburnng|the Great Burning]] ran over it, and its once-proud Circle has gone shabby, dignified still but visibly fading.
-- **[Nerval]{.name data-type="place/feature"}**, the River Hill, is the crowded working height above the wharves, its slopes packed with the densest of the **[Warrens]{.name data-type="place/site"}**.
+- [Nerval]{.name data-type="place/feature"}, the River Hill, is the crowded working height above the wharves, its slopes packed with the densest of the [Warrens]{.name data-type="place/site"}.
 
 ## Between the Hills
 
-The saddles, valleys and riverside flats between the hills carry the city's daily business: the **[Grand Market]{.name data-type="place/site"}** on the central flats, the **[Wharves]{.name data-type="place/site"}** beneath Nerval, and the [[place-rathaunamelvar|Rathauna Melvar]] along the valley between Antel and Nerval. As a rule the high ground is prized and the low ground is dense, busy and poorer, except where the river makes the wharves rich.
+The saddles, valleys and riverside flats between the hills carry the city's daily business: the [Grand Market]{.name data-type="place/site"} on the central flats, the [Wharves]{.name data-type="place/site"} beneath Nerval, and the [[place-rathaunamelvar|Rathauna Melvar]] along the valley between Antel and Nerval. As a rule the high ground is prized and the low ground is dense, busy and poorer, except where the river makes the wharves rich.
 
 The hills explain where the city's twelve Circles fall. A Circle is three hundred yards of level pavement, and level ground is what a hilly city is short of, so the Circles sit on the broader hilltops, in the saddles and on the river flats, never on the grades. The avenues that string them together run to irregular lengths and bearings as they climb and descend.
 

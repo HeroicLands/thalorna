@@ -59,7 +59,7 @@ The children of [[place-argyrteikhos2|Argirteikhos]] play on a mountainside belo
 
 ## The Siege
 
-When the legions came over the pass the commander of the citadel, **[Mathirkar Gheranikot]{.name data-type="being/npc"}**, shut the gates and cut the road behind him. The legions built their ramp up the mountain below the walls and their two camps beside it, and for two years they did not move. The city lay above them with its silver mines. The mines ran in tunnels under the mountain, and the tunnels carried grain and water into the city and, some say, the sick out of it. The tunnels are why a siege that should have ended in one winter ended in the third.
+When the legions came over the pass the commander of the citadel, [Mathirkar Gheranikot]{.name data-type="being/npc"}, shut the gates and cut the road behind him. The legions built their ramp up the mountain below the walls and their two camps beside it, and for two years they did not move. The city lay above them with its silver mines. The mines ran in tunnels under the mountain, and the tunnels carried grain and water into the city and, some say, the sick out of it. The tunnels are why a siege that should have ended in one winter ended in the third.
 
 ## The Terms
 

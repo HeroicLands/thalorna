@@ -43,7 +43,7 @@ The **Vylarian roads** still join the great cities and run on into provinces the
 
 ### The Kervaron Spine {#the-cervaron-spine}
 
-The empire's western frontier rises into the **[Kervaron Spine]{.name data-type="place/feature"}**, a great arc of high mountains between the Vylarian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of Tarvénia. It is snow on the peaks, forest in the deep valleys, glacier-fed rivers, and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west.
+The empire's western frontier rises into the [Kervaron Spine]{.name data-type="place/feature"}, a great arc of high mountains between the Vylarian peninsula and the eastern reaches of [[place-elavendre|Élavendre]] and the northeastern marches of Tarvénia. It is snow on the peaks, forest in the deep valleys, glacier-fed rivers, and high pastures that bloom for two months of the year, and its dozen narrow passes are the only practicable crossings from east to west.
 
 A mule-train master who has taken Vylarian goods over the Kervaron every summer of his working life explains the arrangement to the factors who hire him: "[[affiliation-seldan|Seldan]], the Senate, lists the range as imperial territory, and you will see the boundary-stones at the passes to prove it. Do not mention them to the clans. You pay the passage-gift at the first camp, they see you through, and nobody calls it a toll or a treaty. That is the whole law up there."
 

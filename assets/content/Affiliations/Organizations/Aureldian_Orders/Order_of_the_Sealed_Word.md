@@ -67,7 +67,7 @@ The order is, in effect, a knightly enforcement arm for Árdavon's covenant. Its
 
 ## Membership and Structure
 
-A candidate for the order must be a sworn devotee of Árdavon, must be of sound character (an examination the order takes seriously, including discreet inquiry into the candidate's prior dealings), and must pass the order's examinations: martial competence, the law of binding oaths in Aureldian tradition, the recognized procedures for trial-by-combat, the rhetorical conduct of an oath-hearing, and a personal interview before the **[Council of the Seal]{.name data-type="affiliation/governmental"}**. The candidacy process typically takes three years, with substantial attrition.
+A candidate for the order must be a sworn devotee of Árdavon, must be of sound character (an examination the order takes seriously, including discreet inquiry into the candidate's prior dealings), and must pass the order's examinations: martial competence, the law of binding oaths in Aureldian tradition, the recognized procedures for trial-by-combat, the rhetorical conduct of an oath-hearing, and a personal interview before the [Council of the Seal]{.name data-type="affiliation/governmental"}. The candidacy process typically takes three years, with substantial attrition.
 
 There are two working ranks above the candidacy, and two offices drawn from them:
 

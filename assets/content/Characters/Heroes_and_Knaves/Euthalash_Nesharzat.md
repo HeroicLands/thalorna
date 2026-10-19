@@ -526,13 +526,13 @@ The Burning Blade: A Diplomatic Mission Turned Deadly
     : Using his silver tongue, Euthalash must calm the situation and prevent an all-out conflict. He’ll need to handle the complex politics of Vylaria, using his diplomatic skills to clear Kalestratos’ name.
 
     Uncovering the True Culprit
-    : Through negotiation and investigation, Euthalash uncovers that the real insurgents are agents of the **[Ashen Circle]{.name data-type="affiliation"}**, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
+    : Through negotiation and investigation, Euthalash uncovers that the real insurgents are agents of the [Ashen Circle]{.name data-type="affiliation"}, trying to turn the rival house against Kalestratos. He must use this information carefully, deciding whether to expose the Ashen Circle or manipulate events to secure the house’s loyalty.
 
     Negotiating a Truce
     : Once the truth is revealed, Euthalash must broker a truce between the rival house and Kalestratos, turning what could have been a deadly conflict into a political victory.
 
 The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
-: Word reaches Euthalash that a powerful relic of Ústaron—the **[Torch of Fury]{.name data-type="miscgear"}**, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
+: Word reaches Euthalash that a powerful relic of Ústaron—the [Torch of Fury]{.name data-type="miscgear"}, said to grant its wielder immense destructive power—has been discovered in the **Khazryn Desert**. The relic is a sacred object tied to both the worship of Ústaron and the political power of desert tribes. Recovering it could rally the desert lords behind Kalestratos, strengthening his position.
 
     However, several factions are also interested in the relic, including rival desert lords and [The Guilded Talon]{.name data-type="affiliation"}. Euthalash could help secure it.
 
@@ -543,7 +543,7 @@ The [[place-khzryndsrtrgn|Khazryn Desert]]: Lost Relics of Ústaron
     : Guilded Talon and rival desert lords are also searching for the relic. Euthalash must stay ahead of them, using both negotiation and subterfuge to gain an advantage.
 
 Flames of Ambition: A Rival Diplomat
-: A rival diplomat from Vylaria—**[Ponakar Drachenos]{.name data-type="being/npc"}**, a former acquaintance of Euthalash—has risen to prominence within the [[affiliation-vylarinmpr|empire]] and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Euthalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
+: A rival diplomat from Vylaria—[Ponakar Drachenos]{.name data-type="being/npc"}, a former acquaintance of Euthalash—has risen to prominence within the [[affiliation-vylarinmpr|empire]] and is now working for a faction that opposes Kalestratos’ efforts. Ponakar’s charm and wit rival Euthalash’s own, and the two diplomats often find themselves at odds, trying to outmaneuver one another in political negotiations.
 
     Ponakar’s latest mission is to turn key Vylarian nobles against Kalestratos, convincing them that his pursuit of fire magic is dangerous. Euthalash must confront his old rival in a series of political and diplomatic engagements, where every word could shift the balance of power.
 

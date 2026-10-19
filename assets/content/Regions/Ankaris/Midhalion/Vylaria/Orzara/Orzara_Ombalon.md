@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vylariargn], population: 300, governme
 
 ## Ombalon—The Court of the Academy of Knowledge
 
-Within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]], sharing the palace hill with the throne itself, stands the **Ombalon**—the ceremonial headquarters of the [[affiliation-panepistmm|Epistémion]], the Academy of Knowledge. It is the small, rarefied counterpart to the great campus that lies beyond the **[Inner Wall]{.name data-type="place/structure"}** in the [Scholars' District]{.name data-type="place/site"} (see [[place-orzara|Orzara]]). The bustle of the university proper—the lecture halls, the wrangling students, the chapterhouse traffic—is kept, by deliberate design, outside the Inner Wall of Arvon. What remains within is something quieter and far more select.
+Within [[place-arvon|Arvon]], the Inner City of [[place-orzara|Orzara]], sharing the palace hill with the throne itself, stands the **Ombalon**—the ceremonial headquarters of the [[affiliation-panepistmm|Epistémion]], the Academy of Knowledge. It is the small, rarefied counterpart to the great campus that lies beyond the [Inner Wall]{.name data-type="place/structure"} in the [Scholars' District]{.name data-type="place/site"} (see [[place-orzara|Orzara]]). The bustle of the university proper—the lecture halls, the wrangling students, the chapterhouse traffic—is kept, by deliberate design, outside the Inner Wall of Arvon. What remains within is something quieter and far more select.
 
 ### A Palace of Counsel
 
@@ -18,7 +18,7 @@ The Ombalon (the Court of the Academy) is no place of teaching. It is a palace o
 
 ### The Notral Sevan
 
-The Ombalon's true treasure is the **[Notral Sevan]{.name data-type="place/structure"}**—a deep and warded library holding the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable, or too dangerous, to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the same [[affiliation-ordoarcanis|Arcane Order wards]] that guard the imperial precincts, and what is kept within is known in full to very few. Rumor in the City holds that the Reservata contains books the [[affiliation-vylarinmpr|Empire]] has officially burned, the only surviving records of nations Vylaria erased, and relics the Thordimalon (the Arcane Order) would rather no rival ever study—and rumor, in this case, is not far wrong.
+The Ombalon's true treasure is the [Notral Sevan]{.name data-type="place/structure"}—a deep and warded library holding the rarest knowledge the Epistémion possesses: singular manuscripts that exist nowhere else, the captured archives of conquered peoples, and arcane artifacts too valuable, or too dangerous, to leave in open hands. It is not a library one visits. Entry is by the throne's leave alone, behind the same [[affiliation-ordoarcanis|Arcane Order wards]] that guard the imperial precincts, and what is kept within is known in full to very few. Rumor in the City holds that the Reservata contains books the [[affiliation-vylarinmpr|Empire]] has officially burned, the only surviving records of nations Vylaria erased, and relics the Thordimalon (the Arcane Order) would rather no rival ever study—and rumor, in this case, is not far wrong.
 
 ### Two Faces on One Hill
 

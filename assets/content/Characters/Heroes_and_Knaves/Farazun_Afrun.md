@@ -489,7 +489,7 @@ Stablemaster [Khorvan]{.name data-type="being/npc"}
 ### Enemies
 
 [The Crimson Crag Bandits]{.name data-type="affiliation/criminal"}
-: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Farazun's wagons; their leader, a scarred woman called **[Kela the Knife]{.name data-type="being/npc"}**, has marked him as a particular enemy for foiling her ambushes.
+: A well-organized band of brigands that operates along the eastern routes has repeatedly targeted Farazun's wagons; their leader, a scarred woman called [Kela the Knife]{.name data-type="being/npc"}, has marked him as a particular enemy for foiling her ambushes.
 
 Rival Teamster [Gazren]{.name data-type="being/npc"}
 : A unscrupulous competitor who undercuts prices through unsafe practices and harbors deep resentment toward Farazun's success and reputation. Gazren occasionally sabotages Farazun's wagons or spreads lies about his reliability.

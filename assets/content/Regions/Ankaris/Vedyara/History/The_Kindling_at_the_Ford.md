@@ -41,7 +41,7 @@ data:
         - whether the fire that took was the founder's lamp or a grass-fire he walked across the bank
 ---
 
-A _jvelita_ (Kindled One) of the [[affiliation-agnipantha|Agmi-pantra]] will open the clay vessel in the crook of his arm and show you the ember, and if you ask where it came from he will tell you: from the founding fire, carried forward vessel to vessel since a man burned a field nobody else would burn. The sect calls that man **[Bhasmadasa]{.name data-type="being/npc"}**, the servant of ash. The orthodox temples call the story a story. **The Kindling at the Ford** is the account the sect keeps.
+A _jvelita_ (Kindled One) of the [[affiliation-agnipantha|Agmi-pantra]] will open the clay vessel in the crook of his arm and show you the ember, and if you ask where it came from he will tell you: from the founding fire, carried forward vessel to vessel since a man burned a field nobody else would burn. The sect calls that man [Bhasmadasa]{.name data-type="being/npc"}, the servant of ash. The orthodox temples call the story a story. **The Kindling at the Ford** is the account the sect keeps.
 
 ## The Season on the Ford
 

@@ -422,7 +422,7 @@ Vruldorv stands 5'11" tall with a medium build. He has light fair skin, red hair
 
 ### The Boy from Nordheim
 
-Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, **[Inthvir Drottgar]{.name data-type="being/npc"}**, was a militia captain; his mother, **[Snilthrinna Ironhand]{.name data-type="being/npc"}**, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander [[being-gnurthmyl|Gnurthmil]]**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
+Vruldorv was born in the remote northern settlements of the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]], where the winters are merciless and survival itself is victory. His father, [Inthvir Drottgar]{.name data-type="being/npc"}, was a militia captain; his mother, [Snilthrinna Ironhand]{.name data-type="being/npc"}, kept their small homestead functioning through brutal seasons. At fourteen, following his clan's traditions, Vruldorv began his formal training with the city guard, apprenticed under the stern but capable **Commander [[being-gnurthmyl|Gnurthmil]]**, learning the mechanics of combat and the philosophy of protection—that the warrior's true purpose is to bear the burden of safety so others may live without fear.
 
 ### The Long Wars
 
@@ -467,7 +467,7 @@ Vruldorv seeks meaningful work—a cause or purpose greater than the mere accumu
 ### Patrons
 
 The Nordheim Mercenaries' Guild
-: His official employer and the organization that provides most of his contracts; the guild master, **[Arnthor Knalthumak]{.name data-type="being/npc"}**, values his reliability and occasionally consults him on matters of planning
+: His official employer and the organization that provides most of his contracts; the guild master, [Arnthor Knalthumak]{.name data-type="being/npc"}, values his reliability and occasionally consults him on matters of planning
 
 [Merchant House Alderthor]{.name data-type="affiliation/venture"}
 : A prominent trading company that specifically requests Vruldorv for major caravans; their agent, **Lady [[being-hlarthrinna|Hlarthrinna]]**, has developed respect for his workmanlike approach

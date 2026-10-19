@@ -80,7 +80,7 @@ Gar-Hálzi is a network of chapter-treasuries, not a single centralized bank. Ea
 
 ### The Council of the High Priests
 
-The **[Council of the High Priests]{.name data-type="affiliation/governmental"}** (_Sedjet Halzi_) is the governing body. It consists of the high priests of the eight greatest Khelathi temples: the principal temples of Galezkara, Gar-Anlaghet, [[place-khelzuret|Khelzuret]], [[place-amqelulegez|Amqelu-Legez]] and [[place-anlaghzetun|Anlagh-Zetun]], and three lesser but anciently established ones. It meets four times a year at the great temple complex in the imperial capital, and at any other moment when a crisis demands. The Council:
+The [Council of the High Priests]{.name data-type="affiliation/governmental"} (_Sedjet Halzi_) is the governing body. It consists of the high priests of the eight greatest Khelathi temples: the principal temples of Galezkara, Gar-Anlaghet, [[place-khelzuret|Khelzuret]], [[place-amqelulegez|Amqelu-Legez]] and [[place-anlaghzetun|Anlagh-Zetun]], and three lesser but anciently established ones. It meets four times a year at the great temple complex in the imperial capital, and at any other moment when a crisis demands. The Council:
 
 - sets the canonical inter-metal ratios, the gold-silver-copper conversion rates;
 - reaffirms the attestation standards for weight-pieces;

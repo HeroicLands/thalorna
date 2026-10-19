@@ -35,7 +35,7 @@ The plateau's wells were cut by named lineages, and each is heritable within the
 
 ## The First Half
 
-About 265 AF the king, **[Vrishasura]{.name data-type="being/npc"}**, wanted a war on the river. The plateau's wealth is stock and watering dues, and a host is paid in coin and grain bought from the valleys. He took the wells of three great lineages into the crown's own hand, named his own keepers to them, and spent what they earned on the war.
+About 265 AF the king, [Vrishasura]{.name data-type="being/npc"}, wanted a war on the river. The plateau's wealth is stock and watering dues, and a host is paid in coin and grain bought from the valleys. He took the wells of three great lineages into the crown's own hand, named his own keepers to them, and spent what they earned on the war.
 
 The lineages did what the plateau's herd-owners can do and nobody else in [[place-vedyarargn|Vedyara]] can. They walked their herds off the circuit, out of the kingdom's reach, and left the crown holding three wells with nobody coming to drink at them. The war was lost about 270 at the plateau's foot ([[lore-fieldelephnt|the Field of Elephants]]), and the crown, with no host and no revenue, gave the wells back.
 

@@ -19,13 +19,13 @@ About 60 AF the clans of the northern highlands chartered a king to hold the roa
 ## Rulers
 
 [[affiliation-vyalendra2|Vyalendra City-State]]
-: **[Nilapati]{.name data-type="being/npc"}**, crowned about 125 BF, then nine kings nobody outside the cloth-court remembers, then the eleventh and last, unnamed in every account.
+: [Nilapati]{.name data-type="being/npc"}, crowned about 125 BF, then nine kings nobody outside the cloth-court remembers, then the eleventh and last, unnamed in every account.
 
 Bharyastan
-: **[Dhursavira]{.name data-type="being/npc"}**, who swore the gold treaty about 80 BF; his line has held the kingdom by inheritance since, broken twice by acclamation.
+: [Dhursavira]{.name data-type="being/npc"}, who swore the gold treaty about 80 BF; his line has held the kingdom by inheritance since, broken twice by acclamation.
 
 [[affiliation-vindhyalay|Shikharalaya]]
-: **[Himavira]{.name data-type="being/npc"}**, chartered about 60 AF.
+: [Himavira]{.name data-type="being/npc"}, chartered about 60 AF.
 
 ## Its End
 

@@ -89,7 +89,7 @@ The House is a hierarchical shrena of women under the **Mistress of the Long Eve
 
 The servants who run the establishment, in its kitchens, its linens and its doors, stand outside these ranks and are taught nothing of the curriculum.
 
-The handlers form a second structure beside the first. Every Companion has a handler, usually a former Companion herself, who debriefs her after each engagement, transcribes whatever was overheard or directly extracted, and routes the intelligence to its eventual purchaser. Handlers report not to the Mistress but to the **[Council of the Veil]{.name data-type="affiliation/governmental"}**, whose members are not known even to the House's own working women.
+The handlers form a second structure beside the first. Every Companion has a handler, usually a former Companion herself, who debriefs her after each engagement, transcribes whatever was overheard or directly extracted, and routes the intelligence to its eventual purchaser. Handlers report not to the Mistress but to the [Council of the Veil]{.name data-type="affiliation/governmental"}, whose members are not known even to the House's own working women.
 
 The curriculum is famously rigorous. A graduate recites classical Vedyaran poetry from memory in three court dialects, plays four instruments competently and at least one with mastery, converses on theology, mathematics, mercantile law and military doctrine, and reads a room for influence in the time it takes to be introduced. If required she can also deliver a slow-acting poison, recognize the symptoms of seven cult initiations from a brief social exchange, and pick most locks with a hairpin.
 

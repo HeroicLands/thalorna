@@ -424,7 +424,7 @@ Fileze stands 5'10" tall with a medium build. She has sun-tanned skin, brown hai
 
 Fileze was born into a merchant family of middling prosperity in the [[affiliation-byzarianlg|Bizarian League]], the third of four daughters. Where her sisters were groomed for advantageous marriages, Fileze showed an early talent for the martial arts—a transgression her father initially forbade. When she was fourteen, bandits attacked a merchant convoy that included her aunt. Fileze's mother, a woman of unexpected steel, taught her daughter in secret, and by sixteen, Fileze had proven her worth beyond argument by helping defend a village against raiders.
 
-Rather than accept a husband or business partnership, Fileze formally joined **[The Mercenaries' Guild of the Bizarian League]{.name data-type="affiliation/guild"}** at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fileze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
+Rather than accept a husband or business partnership, Fileze formally joined [The Mercenaries' Guild of the Bizarian League]{.name data-type="affiliation/guild"} at eighteen, much to her father's dismay. She spent her twenties undertaking increasingly dangerous contracts: guarding caravans through bandit-infested regions, protecting settlements threatened by brigands, and slowly building a reputation as someone with both skill and an uncommon moral compass. Unlike many mercenaries, Fileze refuses contracts that would harm innocents, has never accepted a job involving slavery or trafficking, and actively works against those who exploit the weak.
 
 Now twenty-nine, she maintains her guild membership but operates with unusual independence, selecting clients based on merit rather than payment. She has become something between a mercenary and a hero-for-hire, drawing both respect and resentment from her peers.
 
@@ -509,7 +509,7 @@ The Mercenaries' Guild of the Bizarian League
 ## Plot Hooks
 
 The Impossible Contract
-: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the **[Bizarian Inquisition]{.name data-type="affiliation"}** itself, forcing her into direct conflict with official authority.
+: A young scholar offers Fileze an extraordinary sum to protect someone for one week—with the catch that she cannot know who they are protecting or why they are in danger. The mystery deepens when she realizes her client may be **prophetically gifted** and the danger comes from the [Bizarian Inquisition]{.name data-type="affiliation"} itself, forcing her into direct conflict with official authority.
 
 The Ghost Brigade
 : Fileze encounters a group of former soldiers—women mostly—who have begun conducting vigilante operations against violent criminals the official justice system refuses to prosecute. Their leader, **Captain [[being-dreliapetrik|Drelia Petrikot]]**, asks Fileze to join formally or at minimum to train them. Accepting means becoming an outlaw; refusing means abandoning those who could do tremendous good.

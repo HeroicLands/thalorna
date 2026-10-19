@@ -18,7 +18,7 @@ The [[affiliation-malldbndlg|Málalidabandalag]], the compact of the north's fre
 
 ## The Ride over Hringstead
 
-People at Hringstead tell of the **[Ride over Hringstead]{.name data-type="lore/history"}**, a high ride on the ninth night of [[lore-jol|Jel]] that came down after a killing under the Truce and carried the killer off. The Truce's living keepers need no supernatural verdict to forbid a murder, and whether the ride passed overhead, or answered that particular breach, is a matter of belief. The tale is told at every Jel all the same, and nobody at the Hall sleeps easily on the ninth night.
+People at Hringstead tell of the [Ride over Hringstead]{.name data-type="lore/history"}, a high ride on the ninth night of [[lore-jol|Jel]] that came down after a killing under the Truce and carried the killer off. The Truce's living keepers need no supernatural verdict to forbid a murder, and whether the ride passed overhead, or answered that particular breach, is a matter of belief. The tale is told at every Jel all the same, and nobody at the Hall sleeps easily on the ninth night.
 
 ## See Also
 

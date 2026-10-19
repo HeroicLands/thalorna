@@ -12,7 +12,7 @@ _The Gatekeeper of Death—a shrouded figure, faceless, with a black conch at it
 
 In Vedyari theology, Kalavrata is the warden of the threshold between the life that has ended and the life to come, and he keeps it with a rigor the rest of the pantheon does not share. He demands no devotion, grants no personal favor, and answers no petition for long life or safe passage. He guides the soul onward impartially, asked or not.
 
-Three Ordeals are undertaken in his name. **[The Vigil of Final Breath]{.name data-type="lore/custom"}** is kept at a stranger's bedside. **[The Walk Between Fires]{.name data-type="lore/custom"}** crosses the cremation grounds of three villages. **[The Silent Year]{.name data-type="lore/custom"}** speaks nothing but the rites of passage. None of them earns the undertaker anything from him; the theology holds that a person keeps them for the threshold.
+Three Ordeals are undertaken in his name. [The Vigil of Final Breath]{.name data-type="lore/custom"} is kept at a stranger's bedside. [The Walk Between Fires]{.name data-type="lore/custom"} crosses the cremation grounds of three villages. [The Silent Year]{.name data-type="lore/custom"} speaks nothing but the rites of passage. None of them earns the undertaker anything from him; the theology holds that a person keeps them for the threshold.
 
 No face is carved for him. The tradition holds that no living soul may look on it before the hour of its own passage.
 

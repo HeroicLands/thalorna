@@ -126,7 +126,7 @@ The island itself produces almost nothing. There is fishing, and there is enough
 
 The **Captains' Council** is the city's governing body: an assembly of the heads of the seafaring houses, with seats weighted (informally but inflexibly) by the tonnage a house commands. The Council elects a **Harbormaster** from among its members for a term of three years—an executive officer with responsibility for the harbor, the fortifications, the customs revenue, and the city's modest standing navy. The Harbormaster cannot serve consecutive terms, a restriction introduced after the third-century civil war and honored since without exception.
 
-Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers, ropemakers, and pilots each run their own affairs under charters granted by the Council. Disputes between merchant houses are settled by arbitration under the **[Sea-Law]{.name data-type="lore/law"}**, a body of commercial custom with no single textual source but a dense and consistent oral tradition maintained by the city's small, prickly caste of professional arbitrators.
+Outside the Council chamber, power is diffuse. Guilds of shipwrights, chandlers, ropemakers, and pilots each run their own affairs under charters granted by the Council. Disputes between merchant houses are settled by arbitration under the [Sea-Law]{.name data-type="lore/law"}, a body of commercial custom with no single textual source but a dense and consistent oral tradition maintained by the city's small, prickly caste of professional arbitrators.
 
 ## Relations
 

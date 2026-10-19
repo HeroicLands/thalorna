@@ -66,7 +66,7 @@ Vahrati is the goddess of endings and of the quiet change by which what has reac
 
 She is pictured as a serene older woman crowned with wilting blossoms and not fresh ones, holding a shallow bowl into which petals and dew are gathered. Her presence is quiet and unhurried. Her colors are the bronze of autumn and the soft violet of deep twilight.
 
-Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyahratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the **[Rite of Releasing]{.name data-type="lore/custom"}**. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
+Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in every Vyahratan household shrine, and the faded flowers of each day are placed in it. **The Dew-Phial** is a small glass phial of dew-water, gathered at the autumn equinox and used in the [Rite of Releasing]{.name data-type="lore/custom"}. The withered garland is deliberately wilted and worn at the rites of decay, as a sign of willing acceptance.
 
 ### What the Devout Do
 

@@ -70,7 +70,7 @@ His worship is strongest in the cities of the [[place-vedyarargn|Vedyara Region]
 
 He is pictured as a figure of serene focus, often four-armed, holding the tools of creation: the compass of proportion, the measuring cord, the chisel, and the lotus of perfected form. The golden lotus is the moment in which the formless takes form, pattern opening out of possibility.
 
-Three objects carry the cult. The golden lotus medallion is worn by master craftsmen and senior clergy as a sign of their vocation. The measuring cord is a knotted ritual cord used in the consecration of new foundations. The carved foundation-stone is the first stone of any major construction, incised with an invocation to the god, and the priesthood lays it in the **[Rite of the First Stone]{.name data-type="lore/custom"}**.
+Three objects carry the cult. The golden lotus medallion is worn by master craftsmen and senior clergy as a sign of their vocation. The measuring cord is a knotted ritual cord used in the consecration of new foundations. The carved foundation-stone is the first stone of any major construction, incised with an invocation to the god, and the priesthood lays it in the [Rite of the First Stone]{.name data-type="lore/custom"}.
 
 The **Shilpra-Kalas**, his crafting spirits, are minor celestial kin who inspire mortals in art, architecture and innovation. Artisans report their presence as a quiet clarity of mind at moments of breakthrough.
 

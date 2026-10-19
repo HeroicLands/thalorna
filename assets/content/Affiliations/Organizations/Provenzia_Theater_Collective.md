@@ -81,7 +81,7 @@ The Collective's central political function is the management of risk. A staged 
 The Collective recognizes three categories of member:
 
 Companies
-: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provenzia, ranging from established institutions like the **[Teatro della Luna]{.name data-type="affiliation/venture"}** in the capital to small touring troupes that perform in market squares.
+: the working theater troupes. Each company holds a single vote in Collective decisions, regardless of its size or prominence. There are presently thirty-one companies of Collective standing across Provenzia, ranging from established institutions like the [Teatro della Luna]{.name data-type="affiliation/venture"} in the capital to small touring troupes that perform in market squares.
 
 Performers, playwrights, and designers
 : individuals of established reputation, admitted by acclamation of the existing membership. There are perhaps two hundred at any given time. Individuals do not vote but are entitled to speak at Collective gatherings and to participate in the informal discussions that shape decisions.
@@ -89,7 +89,7 @@ Performers, playwrights, and designers
 Patrons
 : wealthy supporters who fund productions. Admission is by sponsorship of an existing member. Patrons do not vote but their views carry the weight their contributions confer. There are presently about forty patrons of standing, several of them noble, several of them mercantile, two of them rumored to be foreign agents quietly supporting productions favorable to their employers' interests.
 
-Day-to-day administration is conducted by the **[Convocation of Companies]{.name data-type="affiliation/governmental"}**, which meets every two months at the Teatro della Luna. The Convocation's standing officers—the **First Speaker**, the **Master of the Stage**, the **Mistress of the Patrons**, and the **Keeper of the Repertoire**—are elected annually and serve renewable terms. The current First Speaker is the playwright **[Léonardo Castiranni]{.name data-type="being/npc"}**, a man celebrated for his political comedies and feared for the precision of his satire.
+Day-to-day administration is conducted by the [Convocation of Companies]{.name data-type="affiliation/governmental"}, which meets every two months at the Teatro della Luna. The Convocation's standing officers—the **First Speaker**, the **Master of the Stage**, the **Mistress of the Patrons**, and the **Keeper of the Repertoire**—are elected annually and serve renewable terms. The current First Speaker is the playwright [Léonardo Castiranni]{.name data-type="being/npc"}, a man celebrated for his political comedies and feared for the precision of his satire.
 
 ## Notable Members
 
@@ -102,7 +102,7 @@ Léonardo Castiranni
 The **Teatro della Luna** company
 : most prestigious of the standing companies, with its own permanent venue in the capital.
 
-The **[Compagnia delle Maschere]{.name data-type="affiliation/venture"}**
+The [Compagnia delle Maschere]{.name data-type="affiliation/venture"}
 : the leading touring troupe; specializes in commedia and the political mask traditions.
 
 ## Doctrine and Practice

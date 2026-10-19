@@ -72,7 +72,7 @@ The federation recognizes three tiers of houses.
 
 The most senior trading clans; perhaps a dozen in number. Each holds extensive coastal estates (typically a clan-villa complex plus surrounding orchards and pastures), substantial production capacity (vineyards, olive presses, horse studs, processing works), a network of trade-correspondents across the Northern Fertile Region and the Vylarian Sea, and—most consequentially—formal correspondent accounts at one or more Khelathi temples. The Great Houses are the principal credit institutions of Bethuan commerce; their letters of credit circulate throughout the federation and are honored at any other Great House by reputation.
 
-Notable Great Houses include the **[House Khalath-Mara]{.name data-type="affiliation/lineage"}** (oldest and most prestigious, ancestral seat at the northern coastal city of [[place-ashira|Oshira]]; trade focus is premium wine and olive oil), the **[House Bera-Sehel]{.name data-type="affiliation/lineage"}** (specializing in horse-breeding and military supply; substantial Khelathi correspondent network), and the **[House Othris-Khanu]{.name data-type="affiliation/lineage"}** (specializing in shipping and maritime trade; principal Bethuan-side counterparty for Vylarian merchant traffic).
+Notable Great Houses include the [House Khalath-Mara]{.name data-type="affiliation/lineage"} (oldest and most prestigious, ancestral seat at the northern coastal city of [[place-ashira|Oshira]]; trade focus is premium wine and olive oil), the [House Bera-Sehel]{.name data-type="affiliation/lineage"} (specializing in horse-breeding and military supply; substantial Khelathi correspondent network), and the [House Othris-Khanu]{.name data-type="affiliation/lineage"} (specializing in shipping and maritime trade; principal Bethuan-side counterparty for Vylarian merchant traffic).
 
 ### The Lesser Houses
 
@@ -84,7 +84,7 @@ The smallest tier—recently-formed houses, regional specialty merchants, and th
 
 ## Governance
 
-The Houses' formal federation is governed by the **[Council of Matriarchs]{.name data-type="affiliation/governmental"}**—the assembled matriarchs of the Great Houses, meeting twice a year at the federation's principal hall at the capital city of [[place-bethura|Bethura]]. The Council sets the standing protocols by which the Houses recognize each other's letters of credit, adjudicates inter-House commercial disputes, coordinates federation-wide diplomatic positions, and admits or expels member houses.
+The Houses' formal federation is governed by the [Council of Matriarchs]{.name data-type="affiliation/governmental"}—the assembled matriarchs of the Great Houses, meeting twice a year at the federation's principal hall at the capital city of [[place-bethura|Bethura]]. The Council sets the standing protocols by which the Houses recognize each other's letters of credit, adjudicates inter-House commercial disputes, coordinates federation-wide diplomatic positions, and admits or expels member houses.
 
 The Council does not have a single chief officer—the matriarchal political culture resists single-figure authority—but selects a **Speaker of the Council** for each session, chosen by consensus from among the present matriarchs. The Speaker presides over the session, frames the questions, and announces the rulings; the role rotates among the Great Houses' matriarchs and carries prestige but not standing executive authority.
 

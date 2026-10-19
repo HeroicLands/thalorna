@@ -45,11 +45,11 @@ data:
       unresolved: [how many graduates stayed with Dhaunapur's companies]
 ---
 
-The **[Festival of the Returning]{.name data-type="lore/gathering"}** is held in [[affiliation-dhnrktjnpd|Danurkota]] every autumn, and an academy master explains it to a new student in one sentence: the janapoda welcomes home the graduates who come home, because once some did not. **The Highland War** is the once.
+The [Festival of the Returning]{.name data-type="lore/gathering"} is held in [[affiliation-dhnrktjnpd|Danurkota]] every autumn, and an academy master explains it to a new student in one sentence: the janapoda welcomes home the graduates who come home, because once some did not. **The Highland War** is the once.
 
 ## The March
 
-About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}**, one of the small kingdoms that stood patron to Danurkota and a neighbor of the gold country, marched on [[affiliation-suvrgrjnpd|Suvarnageri]]. It had the usual reasons a kingdom with a poor valley has for wanting a gold mountain. It also had something no raider had had before: Dhanurkoti graduates in its missile companies, serving under contract as graduates serve every kingdom that can pay.
+About 415 AF the mountain kingdom of [Dhaunapur]{.name data-type="affiliation/polity"}, one of the small kingdoms that stood patron to Danurkota and a neighbor of the gold country, marched on [[affiliation-suvrgrjnpd|Suvarnageri]]. It had the usual reasons a kingdom with a poor valley has for wanting a gold mountain. It also had something no raider had had before: Dhanurkoti graduates in its missile companies, serving under contract as graduates serve every kingdom that can pay.
 
 ## The Recall
 

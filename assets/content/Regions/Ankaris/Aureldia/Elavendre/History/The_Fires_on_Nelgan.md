@@ -65,7 +65,7 @@ data:
         - what became of Dulthan
 ---
 
-In The Fires on Nelgan, the Áelendan mothers have a name that quiets a child. It is **[Dulthan]{.name data-type="being/npc"}**, the Deep Dark, and it is the name of the chief who came over [[place-nelgan|Nelgan]] with fire.
+In The Fires on Nelgan, the Áelendan mothers have a name that quiets a child. It is [Dulthan]{.name data-type="being/npc"}, the Deep Dark, and it is the name of the chief who came over [[place-nelgan|Nelgan]] with fire.
 
 ## The Fires
 

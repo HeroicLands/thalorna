@@ -444,7 +444,7 @@ Belgina is naïve about the darker aspects of the crew's work. She knows they sm
 
 ### Patrons
 
-Her father, **[Jiraman Rusakuni]{.name data-type="being/npc"}**, remains in Pashinar and worries about her constantly. He is a respected shipwright with connections in the [[lore-taruzelianclt|Taruzelian]] maritime guilds.
+Her father, [Jiraman Rusakuni]{.name data-type="being/npc"}, remains in Pashinar and worries about her constantly. He is a respected shipwright with connections in the [[lore-taruzelianclt|Taruzelian]] maritime guilds.
 
 ### Enemies
 

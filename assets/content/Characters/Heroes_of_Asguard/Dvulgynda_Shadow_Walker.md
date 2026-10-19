@@ -389,7 +389,7 @@ Dvulginda's stealth abilities border on the supernatural; she can move through g
 
 ### Patrons
 
-**[The Shadow Market]{.name data-type="affiliation/criminal"}**—An underground network of thieves, fences, and information brokers who provide Dvulginda with contracts, intelligence, and a market for her acquisitions.
+[The Shadow Market]{.name data-type="affiliation/criminal"}—An underground network of thieves, fences, and information brokers who provide Dvulginda with contracts, intelligence, and a market for her acquisitions.
 
 [[lore-velgrimrdty|Velgrímr]]—In the tales, the god of cunning takes a personal interest in Dvulginda's exploits, occasionally providing supernatural aid in the form of enhanced stealth or lucky coincidences.
 

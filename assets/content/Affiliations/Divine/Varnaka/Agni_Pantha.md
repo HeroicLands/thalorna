@@ -93,11 +93,11 @@ The sect has raised several celebrated reforms and has broken with the orthodox 
 
 A community or a householder calls one when some trouble has settled in: a feud, a sickness of spirit, a corruption in the civic body. Flame-priests own little. Each carries the clay vessel holding a living ember brought forward from the sect's founding fire, and the vessel is the one thing a Flame-priest will not give up. They travel continually and gho where they are invited. That fire was kindled about 290 BF on [[place-oluratarna|Oluratarana]], the unburned ford on the upper reach of [[place-mahanadi|the Mahanodi]], by the ascetic the sect calls its founder ([[lore-kindlford|the Kindling at the Ford]]), and the sect's burning of a [[lore-bloodfield|blood-field]] is his season repeated.
 
-The rite they come for is the **[Purgation]{.name data-type="lore/custom"}**, and you should know what it asks before you send. It begins with a fast. You confess formally before the ember-vessel, and the priest burns an object that stands for what you mean to release. It may last hours or days, depending on what is being released, and it can be done for one person, a household or a whole community.
+The rite they come for is the [Purgation]{.name data-type="lore/custom"}, and you should know what it asks before you send. It begins with a fast. You confess formally before the ember-vessel, and the priest burns an object that stands for what you mean to release. It may last hours or days, depending on what is being released, and it can be done for one person, a household or a whole community.
 
-Smaller rites fill the road between. The **[Road-Blessing]{.name data-type="lore/custom"}** is given to a household that asks for the priest's attention in passing: the threshold and hearth are purged, and a small fire is kindled and put out at the door. The **[Refreshing of the Ember]{.name data-type="lore/custom"}** is the morning rite of every Jvelita, in which the ember in the carried vessel is fed and kept alive with a brief prayer naming the fire's purpose for the day.
+Smaller rites fill the road between. The [Road-Blessing]{.name data-type="lore/custom"} is given to a household that asks for the priest's attention in passing: the threshold and hearth are purged, and a small fire is kindled and put out at the door. The [Refreshing of the Ember]{.name data-type="lore/custom"} is the morning rite of every Jvelita, in which the ember in the carried vessel is fed and kept alive with a brief prayer naming the fire's purpose for the day.
 
-The sect's gravest act is the **[Scouring of the Temple]{.name data-type="lore/custom"}**, performed rarely and with reluctance at the orthodox temple of a community the sect has judged corrupt. The priests process to the temple, kindle a fire at its threshold, and stay until the matter they have named has been addressed. Relations with the orthodox hierarchy are strained for years afterward.
+The sect's gravest act is the [Scouring of the Temple]{.name data-type="lore/custom"}, performed rarely and with reluctance at the orthodox temple of a community the sect has judged corrupt. The priests process to the temple, kindle a fire at its threshold, and stay until the matter they have named has been addressed. Relations with the orthodox hierarchy are strained for years afterward.
 
 ### The Gentle Sister
 
@@ -105,7 +105,7 @@ The Agmi-pantra venerates [[lore-vyahratidty|Vahrati]] as the gentle sister of t
 
 ### Clergy
 
-A **Bhosma** ("Ash") is a novice. The probation is five years of travel and work, and at the end the novice is entrusted with a vessel of his own. A Jvelita is the ordinary priesthood: itinerant, typically traveling alone or in pairs, each with his own ember-vessel. Carrying that vessel is what ordination in this sect actually confers, and **[The Firebrand's Year]{.name data-type="lore/custom"}** must be completed before the ordination.
+A **Bhosma** ("Ash") is a novice. The probation is five years of travel and work, and at the end the novice is entrusted with a vessel of his own. A Jvelita is the ordinary priesthood: itinerant, typically traveling alone or in pairs, each with his own ember-vessel. Carrying that vessel is what ordination in this sect actually confers, and [The Firebrand's Year]{.name data-type="lore/custom"} must be completed before the ordination.
 
 A **Dahona-Mulra** ("Root of the Burning") is the senior priest of a regional chapter, and the rank is rare, since most of the sect's authority rests with individual priests on the road. The chapter's senior priest is called its Chapter Root on the occasions a chapter is settled enough to have one.
 
@@ -113,7 +113,7 @@ A **Dahona-Mulra** ("Root of the Burning") is the senior priest of a regional ch
 
 ### Festivals
 
-The **[Night of the Kindled Road]{.name data-type="lore/gathering"}** falls at the autumn equinox. Priests gather at a rendezvous site, light their ember-vessels into a common fire, renew their vows and carry new embers out along the year's routes. The **[Mendicant's Welcome]{.name data-type="lore/gathering"}** is a local festival in communities that host a Flame-priest on his route: the priest is given a feast in exchange for a blessing of the community hearth. In every twelfth year the rendezvous is the east bank of Oluratarana.
+The [Night of the Kindled Road]{.name data-type="lore/gathering"} falls at the autumn equinox. Priests gather at a rendezvous site, light their ember-vessels into a common fire, renew their vows and carry new embers out along the year's routes. The [Mendicant's Welcome]{.name data-type="lore/gathering"} is a local festival in communities that host a Flame-priest on his route: the priest is given a feast in exchange for a blessing of the community hearth. In every twelfth year the rendezvous is the east bank of Oluratarana.
 
 ### Ordeals for Favor
 
@@ -128,7 +128,7 @@ The Firebrand's Year
 
 ### Orders
 
-The **[Order of the Broken Ring]{.name data-type="affiliation/order"}** is the most storied of the sect's orders: ascetic priest-warriors who undertake to confront and break entrenched corruption wherever their seniors judge it to have taken root. Their numbers are small, their methods severe, and their reputation is mixed. The **[Sisterhood of the Gentle Ash]{.name data-type="affiliation/order"}** is a Vahrati-tinged order whose members specialize in the quieter purgations: the end of a marriage, the dissolution of a shrena, the release of an inheritance.
+The [Order of the Broken Ring]{.name data-type="affiliation/order"} is the most storied of the sect's orders: ascetic priest-warriors who undertake to confront and break entrenched corruption wherever their seniors judge it to have taken root. Their numbers are small, their methods severe, and their reputation is mixed. The [Sisterhood of the Gentle Ash]{.name data-type="affiliation/order"} is a Vahrati-tinged order whose members specialize in the quieter purgations: the end of a marriage, the dissolution of a shrena, the release of an inheritance.
 
 ### Where They Are Found
 

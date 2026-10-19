@@ -113,7 +113,7 @@ The fire-priests work in intimate coordination with the solar priests, for the s
 
 ## Relations
 
-With [[affiliation-tzenultqan|Ts'en'ul Tq'an]] the branch shares a premise, a set of flames and a precedence granted to no one else: at the **[K'ayik Kul'al]{.name data-type="lore/custom"}** ("the Living Flame") the highest fire-priests ascend the pyramid beside the Presiding Ch'alish Tq'an rather than behind him. In practice the solar branch supplies the sanction and the calendar, the fire branch supplies the mechanism, and the two are so closely wound together that in the smaller city-states they are staffed from the same families.
+With [[affiliation-tzenultqan|Ts'en'ul Tq'an]] the branch shares a premise, a set of flames and a precedence granted to no one else: at the [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") the highest fire-priests ascend the pyramid beside the Presiding Ch'alish Tq'an rather than behind him. In practice the solar branch supplies the sanction and the calendar, the fire branch supplies the mechanism, and the two are so closely wound together that in the smaller city-states they are staffed from the same families.
 
 Toward [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] the relationship is one of divided territory. Fire transforms and the earth dissolves, and the two branches have long since agreed that a body is the death-walkers' and an offering is the fire-keepers', with cremation practiced only where the Ish'bal'ob concede it. The [[affiliation-pikob|Pik'ob]]'s sky burials, which give a body to neither fire nor water, are the exception the fire-priests find hardest to accept.
 

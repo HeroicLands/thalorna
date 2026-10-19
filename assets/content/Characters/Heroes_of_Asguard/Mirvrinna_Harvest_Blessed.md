@@ -391,7 +391,7 @@ Mirvrinna's agricultural knowledge combines practical expertise with what she be
 
 **The Standing Stones of [[place-vyldvangr|Vuldvangr]]**—This sacred site and its keepers provide Mirvrinna with spiritual power and a place to perform her most important rituals.
 
-**[The Northern Farmers' Alliance]{.name data-type="affiliation"}**—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
+[The Northern Farmers' Alliance]{.name data-type="affiliation"}—A cooperative of farming communities that funds Mirvrinna's travels and implements her agricultural innovations across their lands.
 
 ### Enemies
 

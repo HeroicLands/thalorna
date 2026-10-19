@@ -367,7 +367,7 @@ Hvilgthira stands 5'7" with an athletic, well-muscled frame, weighing about 160 
 
 Hvilgthira Knalthannsdottir was the daughter of a mighty warrior, raised in the traditions of battle and the wisdom of the runes. From a young age, she was taught to balance the blade with the mind, learning the art of combat alongside the deeper mysteries of [[affiliation-odvar|Odvar]]'s teachings. Known for her fierce spirit and sharp intellect, Hvilgthira became a shieldmaiden feared by her enemies and respected by her allies. She carries a shield inscribed with powerful runes, which she believes to be a gift from Odvar himself, guiding her through the chaos of battle.
 
-The saga of Hvilgthira Knalthannsdottir tells of her confrontation with the dread warlock **[Svulthorv]{.name data-type="being/npc"}**, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Hvilgthira, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Odvar's guidance, until she received a vision of the runes that could shatter Svulthorv's spell. Armed with this knowledge, Hvilgthira faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Odvar's guidance that won the day, freeing the villagers and banishing Svulthorv to the shadowy depths.
+The saga of Hvilgthira Knalthannsdottir tells of her confrontation with the dread warlock [Svulthorv]{.name data-type="being/npc"}, who had enslaved a village with dark magic. The warlock's power was said to be unassailable, his knowledge of the dark arts unmatched. Hvilgthira, however, knew that brute strength alone would not defeat such an opponent. She spent seven days and nights in meditation, seeking Odvar's guidance, until she received a vision of the runes that could shatter Svulthorv's spell. Armed with this knowledge, Hvilgthira faced the warlock, using her shield to deflect his sorcery and her runes to break his hold over the village. In the end, it was her wisdom and faith in Odvar's guidance that won the day, freeing the villagers and banishing Svulthorv to the shadowy depths.
 
 ## Psyche
 
@@ -391,7 +391,7 @@ Hvilgthira is a formidable warrior whose runic shield provides both physical and
 
 [[being-knlthngry|Knalthann the Gray]]—Her father, now retired from active combat but still influential among the northern clans. He provides counsel and connections, though their relationship is complicated by his disappointment that she chose the path of the runes over pure warriorship.
 
-**[The Shrine of Odvar at Odfell]{.name data-type="place/structure"}**—The high priestess of this sacred site has taken a personal interest in Hvilgthira's runic abilities and provides her with access to ancient texts and ritual spaces.
+[The Shrine of Odvar at Odfell]{.name data-type="place/structure"}—The high priestess of this sacred site has taken a personal interest in Hvilgthira's runic abilities and provides her with access to ancient texts and ritual spaces.
 
 ### Enemies
 

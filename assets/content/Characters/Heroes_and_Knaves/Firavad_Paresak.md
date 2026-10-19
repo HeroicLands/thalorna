@@ -430,11 +430,11 @@ Born beneath a thunderstorm—a sign the [[place-dunharargn|Dunhara elders]] rec
 
 **Training and Mastery**
 
-For forty years, Firavad has been the [Paresak tribe]{.name data-type="affiliation/polity"}'s primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé **[Yuzhvad]{.name data-type="being/npc"}**, now forty summers old and master of the tribe's second vision-circle.
+For forty years, Firavad has been the [Paresak tribe]{.name data-type="affiliation/polity"}'s primary spiritual intermediary, conducting harvest rituals, mediating disputes through divination, and using his knowledge of herbal medicine to heal both body and soul. He trained three apprentices in the sacred arts, though only one proved worthy of the deeper mysteries—his protégé [Yuzhvad]{.name data-type="being/npc"}, now forty summers old and master of the tribe's second vision-circle.
 
 **Current Station**
 
-Now in his twilight years, Firavad feels the weight of his long communion with the spirit realm. His influence over the tribe has never been greater, yet his physical strength wanes with each passing season. He is primary advisor to Chieftain **[Vethak Stormborn]{.name data-type="being/npc"}**, shaping tribal policy and settling disputes that resist ordinary judgment. Increasingly, he spends his evenings alone at the [Sacred Stones]{.name data-type="place/site"}, conversing with voices only he can hear.
+Now in his twilight years, Firavad feels the weight of his long communion with the spirit realm. His influence over the tribe has never been greater, yet his physical strength wanes with each passing season. He is primary advisor to Chieftain [Vethak Stormborn]{.name data-type="being/npc"}, shaping tribal policy and settling disputes that resist ordinary judgment. Increasingly, he spends his evenings alone at the [Sacred Stones]{.name data-type="place/site"}, conversing with voices only he can hear.
 
 ## Psyche
 

@@ -389,7 +389,7 @@ Vruthvir's smithing skill is famous; weapons and armor from his forge are prized
 
 ### Patrons
 
-**[The Smiths' Brotherhood of Nordheim]{.name data-type="affiliation/guild"}**—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
+[The Smiths' Brotherhood of Nordheim]{.name data-type="affiliation/guild"}—A guild of master craftsmen who revere Vruthvir as the finest smith of his generation. They provide him with rare materials and commissions.
 
 [[being-brldrvmbrstl|Jarl Braldorv Embersteel]]—The same lord who patronizes [[being-vrthrvflmhrt|Vrithorv]] also values Vruthvir for his smithing; the jarl's household guard bears Vruthvir's arms and armor.
 
@@ -397,7 +397,7 @@ Vruthvir's smithing skill is famous; weapons and armor from his forge are prized
 
 **The Stone Giant remnants**—Survivors of the army Vruthvir defeated have placed a blood price on his head. They send raiding parties to destroy his forge and everything he has built.
 
-**[Knirvmil the Envious]{.name data-type="being/npc"}**—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than skill, hoping to discredit him and steal his clients.
+[Knirvmil the Envious]{.name data-type="being/npc"}—A rival blacksmith who has spread rumors that Vruthvir's work is enchanted through forbidden rituals rather than skill, hoping to discredit him and steal his clients.
 
 ## Plot Hooks
 

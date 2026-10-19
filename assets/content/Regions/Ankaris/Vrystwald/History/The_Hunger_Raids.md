@@ -98,7 +98,7 @@ From 515 the war-bands went south in numbers Moktur had never met. They wanted c
 
 ## The Taking of the Eagle
 
-In 518 a war-band under **[Skathrik yra Wulfskorn wur Gargrund]{.name data-type="being/npc"}**, War Chief of [Gargrund]{.name data-type="place/settlement"} in Vandstein, came down on the camp of the [Pelsan Hilvan]{.name data-type="affiliation"} in a Mokturan valley on a moonless night. It wanted the legion's granary and burned it. It found the eagle standard in the camp's shrine with two men guarding it, killed them, and carried the eagle north over the passes, where it hung in Skathrik's hall at Gargrund for two winters. No Varokh had taken a legion's eagle before, and none has since. The Empire did not disband the Pelsan Hilvan at once, because the eagle was known to be in the forest and the legion meant to have it back.
+In 518 a war-band under [Skathrik yra Wulfskorn wur Gargrund]{.name data-type="being/npc"}, War Chief of [Gargrund]{.name data-type="place/settlement"} in Vandstein, came down on the camp of the [Pelsan Hilvan]{.name data-type="affiliation"} in a Mokturan valley on a moonless night. It wanted the legion's granary and burned it. It found the eagle standard in the camp's shrine with two men guarding it, killed them, and carried the eagle north over the passes, where it hung in Skathrik's hall at Gargrund for two winters. No Varokh had taken a legion's eagle before, and none has since. The Empire did not disband the Pelsan Hilvan at once, because the eagle was known to be in the forest and the legion meant to have it back.
 
 ## The Black Marsh, as the Forest Tells It
 

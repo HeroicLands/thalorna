@@ -406,7 +406,7 @@ His combat ability is outstanding, honed through years of actual field experienc
 
 ### Enemies
 
-**[Nikómarzan Varakazur]{.name data-type="being/npc"}**—The military officer who commanded the operational decisions that led to the Black Serpent Company's dissolution. Nikómarzan was acting under political pressure but knew what the orders would cost. He sacrificed soldiers he commanded to satisfy higher authorities. Ághrazur has heard rumors that Nikómarzan was promoted for his "effective command" of a difficult situation. The knowledge that political corruption was rewarded rather than punished drives Ághrazur's deepest resentment.
+[Nikómarzan Varakazur]{.name data-type="being/npc"}—The military officer who commanded the operational decisions that led to the Black Serpent Company's dissolution. Nikómarzan was acting under political pressure but knew what the orders would cost. He sacrificed soldiers he commanded to satisfy higher authorities. Ághrazur has heard rumors that Nikómarzan was promoted for his "effective command" of a difficult situation. The knowledge that political corruption was rewarded rather than punished drives Ághrazur's deepest resentment.
 
 ## Plot Hooks
 

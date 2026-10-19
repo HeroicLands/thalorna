@@ -80,7 +80,7 @@ Sworn Guardian (_Gronvordr_)
 Elder Guardian (_Eidhofding_)
 : the senior member, called _Eldri Gronvordr_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
 
-The chair is the Speaker of the Green, _Gronmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is **[Thulmrinna Gronmál]{.name data-type="being/npc"}**, a former station-warden of a contested [[place-vrystwald|Vristwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
+The chair is the Speaker of the Green, _Gronmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is [Thulmrinna Gronmál]{.name data-type="being/npc"}, a former station-warden of a contested [[place-vrystwald|Vristwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
 
 The Chapter meets in late autumn, after the harvest is stored, in rotation between the three largest active halls. A major harvest rite is part of it. Administration between chapters is light and mostly conducted by correspondence among Elder Guardians.
 

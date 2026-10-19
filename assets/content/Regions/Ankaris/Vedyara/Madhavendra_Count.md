@@ -77,28 +77,28 @@ The count divides the sun's year and not the moon's. Twelve months carry it, sev
 The year opens at the vernal equinox, on the first day of [Prabhavakala]{.name data-type="lore/calendar"}, and each of the world's four fixed days opens a month: the summer solstice opens [Purnakala]{.name data-type="lore/calendar"}, the autumnal equinox [Danyakala]{.name data-type="lore/calendar"}, and the winter solstice [Koshtakala]{.name data-type="lore/calendar"}. The reckoners of the [[affiliation-ganakashala|Ganoka-shalda]] call this the whole argument for the calendar: a month that began on any other day would wander off the sun within a lifetime, and not one of these does.
 
 1. **Prabhavakala** (30 days), the month of the sources—the glacier-springs open above [[place-sthrnwall|the Southern Wall]], the rivers rise on snowmelt, and the pilgrim roads to the four heads gho up. The year opens on its first day.
-2. **[Pushpakala]{.name data-type="lore/calendar"}** (31 days), the flowering—the plateau and the forest country come into flower, and the garland trade that serves the great temples runs at its height.
-3. **[Jvalakala]{.name data-type="lore/calendar"}** (30 days), the flame—the hottest of the twelve and the last dry one. The wells drop, the plateau goes hard, and work moves into the early morning.
-4. **[Meghamukhakala]{.name data-type="lore/calendar"}** (31 days), the mouth of the clouds—the first weather comes up off the [[place-meghsamdra|Meghra-samedra]], and the rains break before the month is out.
+2. [Pushpakala]{.name data-type="lore/calendar"} (31 days), the flowering—the plateau and the forest country come into flower, and the garland trade that serves the great temples runs at its height.
+3. [Jvalakala]{.name data-type="lore/calendar"} (30 days), the flame—the hottest of the twelve and the last dry one. The wells drop, the plateau goes hard, and work moves into the early morning.
+4. [Meghamukhakala]{.name data-type="lore/calendar"} (31 days), the mouth of the clouds—the first weather comes up off the [[place-meghsamdra|Meghra-samedra]], and the rains break before the month is out.
 5. **Purnakala** (30 days), the full—the rivers run bank-full and the fords close. The summer solstice opens it.
-6. **[Lipikala]{.name data-type="lore/calendar"}** (31 days), the writing—with the roads shut, the temple copyists do the year's work, and a house's name for books is made or lost in it.
-7. **[Naukala]{.name data-type="lore/calendar"}** (30 days), the boat—the water clears and falls, the landings and the coast ports open, and the panning grounds in the gold country are worked again.
+6. [Lipikala]{.name data-type="lore/calendar"} (31 days), the writing—with the roads shut, the temple copyists do the year's work, and a house's name for books is made or lost in it.
+7. [Naukala]{.name data-type="lore/calendar"} (30 days), the boat—the water clears and falls, the landings and the coast ports open, and the panning grounds in the gold country are worked again.
 8. **Danyakala** (31 days), the grain—the harvest, and the month the assemblies meet in because everybody is in one place. The autumnal equinox opens it.
-9. **[Himakala]{.name data-type="lore/calendar"}** (30 days), the snow—snow shuts the high passes and the source-roads, and the pilgrim houses on the upper stages stand empty.
+9. [Himakala]{.name data-type="lore/calendar"} (30 days), the snow—snow shuts the high passes and the source-roads, and the pilgrim houses on the upper stages stand empty.
 10. **Koshtakala** (30 days), the store—the granaries and the cold-stores are counted, and less moves on the roads than in any other month. The winter solstice opens it.
-11. **[Karpasakala]{.name data-type="lore/calendar"}** (30 days), the cotton—the dry-land harvest comes in and the caravan season opens on [[place-marchroad|the march road]].
-12. **[Sandyakala]{.name data-type="lore/calendar"}** (31 days), the twilight—the streams drop, the year's accounts are closed, and the count goes out on the day before the equinox.
+11. [Karpasakala]{.name data-type="lore/calendar"} (30 days), the cotton—the dry-land harvest comes in and the caravan season opens on [[place-marchroad|the march road]].
+12. [Sandyakala]{.name data-type="lore/calendar"} (31 days), the twilight—the streams drop, the year's accounts are closed, and the count goes out on the day before the equinox.
 
 ## The Six Seasons
 
 The months run in pairs, and a pair is a season. Six of them frame the year, and they are what a Vedyaran actually plans by: a contract for a season, a posting for a season, a debt due at a season's turn. Five of the seasons run sixty-one days; only the cold one is shorter, at sixty.
 
-- **[Haritaritu]{.name data-type="lore/calendar"}**, the green season—Prabhavakala and Pushpakala, sixty-one days. Snowmelt water and flower, and the season a long pilgrimage is begun in.
-- **[Diptaritu]{.name data-type="lore/calendar"}**, the blazing season—Jvalakala and Meghamukhakala, sixty-one days. The heat, broken at the very end of it by the first rain.
-- **[Varsharetu]{.name data-type="lore/calendar"}**, the rain season—Purnakala and Lipikala, sixty-one days. The monsoon, the rivers in flood, the roads shut and the work indoors.
-- **[Hiranyaritu]{.name data-type="lore/calendar"}**, the golden season—Naukala and Danyakala, sixty-one days. The harvest and the gold, which come off the country in the same weeks and are spoken of together.
-- **[Shitaritu]{.name data-type="lore/calendar"}**, the cold season—Himakala and Koshtakala, sixty days. The shortest season of the year and the quietest.
-- **[Tamraritu]{.name data-type="lore/calendar"}**, the copper season—Karpasakala and Sandyakala, sixty-one days. The land dry and red, the caravans out, and the year closing.
+- [Haritaritu]{.name data-type="lore/calendar"}, the green season—Prabhavakala and Pushpakala, sixty-one days. Snowmelt water and flower, and the season a long pilgrimage is begun in.
+- [Diptaritu]{.name data-type="lore/calendar"}, the blazing season—Jvalakala and Meghamukhakala, sixty-one days. The heat, broken at the very end of it by the first rain.
+- [Varsharetu]{.name data-type="lore/calendar"}, the rain season—Purnakala and Lipikala, sixty-one days. The monsoon, the rivers in flood, the roads shut and the work indoors.
+- [Hiranyaritu]{.name data-type="lore/calendar"}, the golden season—Naukala and Danyakala, sixty-one days. The harvest and the gold, which come off the country in the same weeks and are spoken of together.
+- [Shitaritu]{.name data-type="lore/calendar"}, the cold season—Himakala and Koshtakala, sixty days. The shortest season of the year and the quietest.
+- [Tamraritu]{.name data-type="lore/calendar"}, the copper season—Karpasakala and Sandyakala, sixty-one days. The land dry and red, the caravans out, and the year closing.
 
 ## The Week
 
@@ -129,7 +129,7 @@ Seven days run on through the months without a break, so a weekday belongs to no
 
 Vedyara keeps the sun for its civil year and the moon for its rites, and makes no attempt to have one serve the other. The twelve months are solar throughout: fixed lengths on a fixed year, and not one of them is a turn of the moon. The moon is counted separately, and the almanac that every temple of any standing publishes sets the two against each other, day by day, for the year ahead.
 
-Everything in the ritual year hangs off that document. A [Weighing]{.name data-type="lore/custom"} (see [[place-weighingstn|the Weighing-Station]]) at the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] falls at a new moon; the janapadas of the middle reaches of [[place-chandrmahi|the Chandramahi]] plant by their almanac and not by the water, because the water has fooled them; a **[Mahva-Melra]{.name data-type="lore/gathering"}**, a marriage and a coronation are all taken from it. A court with no almanac is a court that cannot say when anything is.
+Everything in the ritual year hangs off that document. A [Weighing]{.name data-type="lore/custom"} (see [[place-weighingstn|the Weighing-Station]]) at the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]] falls at a new moon; the janapadas of the middle reaches of [[place-chandrmahi|the Chandramahi]] plant by their almanac and not by the water, because the water has fooled them; a [Mahva-Melra]{.name data-type="lore/gathering"}, a marriage and a coronation are all taken from it. A court with no almanac is a court that cannot say when anything is.
 
 The work is easier here than a foreigner expects it to be. [[place-vaelith|Vaelith]] turns new to new in exactly thirty days, so a lunar day is a day—the two counts never slip against each other, and neither is ever dropped or written twice to bring them level. A fortnight is fifteen days and is fifteen every time. The almanac is therefore not a repair but an arrangement: it states which day of the sun carries which day of the moon, which god's day it falls on, and what is consequently owed on it. Vedyari reckoners are proud of the instrument, and an almanac a reader can find an error in is a house's embarrassment for a generation.
 

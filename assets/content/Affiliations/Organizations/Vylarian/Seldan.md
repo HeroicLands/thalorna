@@ -70,7 +70,7 @@ A strong Orzas reduces the Seldan to a chorus, consulted for form, flattered and
 
 ## The Senate as High Court
 
-Beyond its deliberative role, the Seldan is the **highest court for senatorial persons**. The civic [[affiliation-verdanorzara|courts of Orzara]] have no authority over the nobility, the Senate or the crown, and the throne's own [[affiliation-verdanorzara|imperial tribunals]] in the **[Imperial Offices]{.name data-type="place/structure"}** take up causes that touch the great. For senatorial persons in the gravest matters, judgment may rise higher still, to the Seldan itself, where a house is tried by its peers. To be arraigned before the Senate is the most serious proceeding a noble can face short of the Orzas's direct judgment, and the political stakes of such a trial are rarely smaller than the legal ones.
+Beyond its deliberative role, the Seldan is the **highest court for senatorial persons**. The civic [[affiliation-verdanorzara|courts of Orzara]] have no authority over the nobility, the Senate or the crown, and the throne's own [[affiliation-verdanorzara|imperial tribunals]] in the [Imperial Offices]{.name data-type="place/structure"} take up causes that touch the great. For senatorial persons in the gravest matters, judgment may rise higher still, to the Seldan itself, where a house is tried by its peers. To be arraigned before the Senate is the most serious proceeding a noble can face short of the Orzas's direct judgment, and the political stakes of such a trial are rarely smaller than the legal ones.
 
 ## Relations
 

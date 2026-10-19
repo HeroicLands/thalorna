@@ -86,7 +86,7 @@ The Melra that next sat, in 320 AF on the twelve-yearly cycle that put a Melra i
 
 The signatures constituted the [[affiliation-assmblycmpct|Assembly of the Compact]], which sits twice a year—in the spring at [[place-chandrapur2|Chendrapur]], in the autumn at [[place-vyalendra3|Vyalendra]]—to renew and amend the law, and the same instrument made the Merchant Collective answerable to it. Five polities hold seats: [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota Janapoda]]. They have signed every renewal since, and they share [[lore-vdyrnbnkng|Vedyaran Banking]], the system that grew out of it. [[affiliation-suvrgrjnpd|Suvarnageri]] stands outside by its own constitution, because a seat would open its gold to the Collective's factors.
 
-Chendrapur's settlement between its crown and its **[Nine Houses]{.name data-type="affiliation"}** has held since the same generation, and the city has kept the gem trade its own for as long. The Collective has been the connective tissue of Vedyaran life for the four centuries since, and nothing moves without it.
+Chendrapur's settlement between its crown and its [Nine Houses]{.name data-type="affiliation"} has held since the same generation, and the city has kept the gem trade its own for as long. The Collective has been the connective tissue of Vedyaran life for the four centuries since, and nothing moves without it.
 
 ## See Also
 

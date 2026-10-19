@@ -29,6 +29,6 @@ Performed by
 Licensed by
 : No one. The rite's honesty answers to whoever is watching. At [[place-suvarnagiri|Suvarnageri]] that is the sabhra and any resident who cares to attend the monthly [Weighing]{.name data-type="lore/custom"} of the mountain's gold
 
-**[The Granary Vigil]{.name data-type="lore/custom"}** is a sleepless watch kept over the community granary through a night when the spirits of the fields are said to walk. **[The Fair Measure]{.name data-type="lore/custom"}** asks a full year of public measurement, of grain, cloth, wine and oil, completed without one sustained complaint of short weight from any party. Both ask what the household scale asks daily, over a longer term and at a harder standard: that nothing is gained by weighing wrong.
+[The Granary Vigil]{.name data-type="lore/custom"} is a sleepless watch kept over the community granary through a night when the spirits of the fields are said to walk. [The Fair Measure]{.name data-type="lore/custom"} asks a full year of public measurement, of grain, cloth, wine and oil, completed without one sustained complaint of short weight from any party. Both ask what the household scale asks daily, over a longer term and at a harder standard: that nothing is gained by weighing wrong.
 
 See [[affiliation-mahajaya|Mahajaya]].

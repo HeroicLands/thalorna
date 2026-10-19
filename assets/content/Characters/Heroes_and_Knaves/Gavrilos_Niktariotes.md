@@ -486,7 +486,7 @@ Vulnerability to Schemes
 ### Patrons
 
 [House Markedon]{.name data-type="affiliation/lineage"}
-: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, **[Fruves Markedon]{.name data-type="being/npc"}**, now commands the garrison, a position Sedikon helped him prepare for.
+: A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, [Fruves Markedon]{.name data-type="being/npc"}, now commands the garrison, a position Sedikon helped him prepare for.
 
 Captain-General [[being-ruzhvelanakh|Ruzhvelana Korikot]] of the [City Guard]{.name data-type="affiliation"}
 : The supreme military commander of Chrisamar personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.

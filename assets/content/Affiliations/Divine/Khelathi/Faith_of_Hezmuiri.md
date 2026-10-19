@@ -86,7 +86,7 @@ Every step of the embalming is a sacred ritual with prayers beside it. When the 
 
 The words turn what could look like desecration into an act of respect.
 
-The great annual observance is the **[Festival of the Preserved Dead]{.name data-type="lore/gathering"}**, held at the height of the inundation, when agricultural work stops and the land goes into a kind of hibernation. Priests walk among the tombs in the great necropoli making offerings to the dead, and families visit their ancestors' tombs with food and drink, speak aloud to the deceased and ask Hezmu'iri to keep protecting and preserving them.
+The great annual observance is the [Festival of the Preserved Dead]{.name data-type="lore/gathering"}, held at the height of the inundation, when agricultural work stops and the land goes into a kind of hibernation. Priests walk among the tombs in the great necropoli making offerings to the dead, and families visit their ancestors' tombs with food and drink, speak aloud to the deceased and ask Hezmu'iri to keep protecting and preserving them.
 
 His worship also reaches into daily life through amulets against decay and corruption. Nearly every household keeps small mummified objects, mice or birds preserved by techniques the priests of Hezmu'iri developed, as talismans that the owner's own body will be preserved perfectly at death. They pass down through families for generations, and the fact that they never rot is taken as reassuring evidence of his power and kindness.
 

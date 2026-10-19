@@ -389,7 +389,7 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 ### Patrons
 
-**[The Wanderers of Mótefnir]{.name data-type="affiliation"}**—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
+[The Wanderers of Mótefnir]{.name data-type="affiliation"}—The scattered followers of the Maker who abandons his work, who see Dvurnvir as the most promising practitioner of Mótefnir's creative arts and supply him with rare materials and forbidden texts.
 
 **[Arkalís]{.name data-type="being/npc"} of the [[affiliation-panepistmm|Epistémion]]**—A Epistémion (the Academy of Knowledge) scholar who secretly funds Dvurnvir's research, fascinated by the practical applications of his work with the Dreadspawn despite the ethical concerns.
 
@@ -397,7 +397,7 @@ Dvurnvir's understanding of the Dreadspawn is unparalleled; he can predict their
 
 The [[affiliation-ordoarcanis|Thordimalon]]—The Arcane Order views Dvurnvir's unsanctioned manipulation of magical creatures as a serious threat and has dispatched _sekeroi_ (inquirers) to investigate his activities.
 
-**[The Dreadspawn Hunters]{.name data-type="affiliation"}**—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
+[The Dreadspawn Hunters]{.name data-type="affiliation"}—A vigilante group dedicated to destroying all Dreadspawn, who view Dvurnvir as a dangerous madman whose work creates more monsters for the world to suffer.
 
 ## Plot Hooks
 

@@ -54,9 +54,9 @@ Forty paces separate the two council halls at [[place-suryagarha|Suryagarha]], a
 
 ## The Charter
 
-About 60 AF the clans of the northern highlands had a pass worth holding and no one to hold it. [[place-suryadvara|Suryadvara]] is the greatest of the crossings of the wall, with drinkable water through the winter below the spring at [[place-chandrprbh|Chandraprabhava]], and every caravan that used it paid whoever stood at the throat. The clans and [[affiliation-passshrineushtakas|the line of the Pass-Shrines]] chartered a king to stand there: **[Himavira]{.name data-type="being/npc"}**, a chieftain of one of the clans, given the road, the duty of building a citadel across its throat, and the customs of the traffic.
+About 60 AF the clans of the northern highlands had a pass worth holding and no one to hold it. [[place-suryadvara|Suryadvara]] is the greatest of the crossings of the wall, with drinkable water through the winter below the spring at [[place-chandrprbh|Chandraprabhava]], and every caravan that used it paid whoever stood at the throat. The clans and [[affiliation-passshrineushtakas|the line of the Pass-Shrines]] chartered a king to stand there: [Himavira]{.name data-type="being/npc"}, a chieftain of one of the clans, given the road, the duty of building a citadel across its throat, and the customs of the traffic.
 
-He built the citadel, and the hall of the **[Martial Council]{.name data-type="affiliation/governmental"}** of clan-chieftains was raised beside it. The kingdom was the clans' creature from the first day, and its succession still needs the Martial Council's acclamation.
+He built the citadel, and the hall of the [Martial Council]{.name data-type="affiliation/governmental"} of clan-chieftains was raised beside it. The kingdom was the clans' creature from the first day, and its succession still needs the Martial Council's acclamation.
 
 ## The Road and the Rock
 
@@ -64,7 +64,7 @@ The smithing clans of [[place-slvrgorges|the Silver Gorges]] were working lapis 
 
 ## The Second Hall
 
-About 260 AF the ushtakas of the great temple-complexes won a voice the charter had not given them, and the **[Priestly Court]{.name data-type="affiliation/governmental"}** got its hall: a temple court with a hall attached, raised forty paces from the Martial Council's door. In the same years the Martial Council acclaimed a younger brother over the expected heir, the first of the acclamations the kingdom remembers.
+About 260 AF the ushtakas of the great temple-complexes won a voice the charter had not given them, and the [Priestly Court]{.name data-type="affiliation/governmental"} got its hall: a temple court with a hall attached, raised forty paces from the Martial Council's door. In the same years the Martial Council acclaimed a younger brother over the expected heir, the first of the acclamations the kingdom remembers.
 
 ## What It Left
 

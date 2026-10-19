@@ -40,7 +40,7 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names the six last
 
 ## The Rising
 
-About 300 BF the villages of the upper reaches of [[place-mahanadi|the Mahanodi]] rose against **[Dandavira]{.name data-type="being/npc"}**, the second of the six. The chronicle gives the cause in one line: he had stopped hearing petitions. The villages had no army, and what came down the river road was their men with whatever they carried, meaning to be heard by force where they had not been heard at the gate.
+About 300 BF the villages of the upper reaches of [[place-mahanadi|the Mahanodi]] rose against [Dandavira]{.name data-type="being/npc"}, the second of the six. The chronicle gives the cause in one line: he had stopped hearing petitions. The villages had no army, and what came down the river road was their men with whatever they carried, meaning to be heard by force where they had not been heard at the gate.
 
 Dandavira met them at a wide gravel ford above the kingdom's fields with the royal host. The chronicle enters the result and not the fighting. The rising was destroyed in a day.
 

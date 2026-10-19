@@ -8,11 +8,11 @@ tags: [mountain, sacred, frontier]
 data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
 ---
 
-**Sharamukha**, the mouth of arrows, is where the gold road comes down out of the hills below [[place-suvarnagirijnpd|Suvarnageri]] through a gorge barely wide enough for two carts, and opens onto the valley floor. About 415 AF the mountain kingdom of **[Dhaunapur]{.name data-type="affiliation/polity"}** came up this road toward the gold, and [[affiliation-bharyastan|Bharyastan]]'s horse and the [[affiliation-dhnrktjnpd|Danurkota Janapoda]]'s recalled graduates stopped it at the mouth ([[lore-hghlndwar|the Highland War]]).
+**Sharamukha**, the mouth of arrows, is where the gold road comes down out of the hills below [[place-suvarnagirijnpd|Suvarnageri]] through a gorge barely wide enough for two carts, and opens onto the valley floor. About 415 AF the mountain kingdom of [Dhaunapur]{.name data-type="affiliation/polity"} came up this road toward the gold, and [[affiliation-bharyastan|Bharyastan]]'s horse and the [[affiliation-dhnrktjnpd|Danurkota Janapoda]]'s recalled graduates stopped it at the mouth ([[lore-hghlndwar|the Highland War]]).
 
 ## What Is There
 
-A cairn of broken arrows stands at the side of the road where the gorge opens, waist-high and grown over with lichen at the bottom. Beside it is a small shrine of [[affiliation-mahajaya|Mahajaya]], a roofed stone niche with a lamp-ledge, kept by the nearest village. Every autumn the Dhanurkoti graduates coming home for the **[Festival of the Returning]{.name data-type="lore/gathering"}** who pass this way break one arrow over their knee and leave it on the cairn. Whether the gorge lies on their road home depends on where they served, and those who served in the river country come round by it on purpose.
+A cairn of broken arrows stands at the side of the road where the gorge opens, waist-high and grown over with lichen at the bottom. Beside it is a small shrine of [[affiliation-mahajaya|Mahajaya]], a roofed stone niche with a lamp-ledge, kept by the nearest village. Every autumn the Dhanurkoti graduates coming home for the [Festival of the Returning]{.name data-type="lore/gathering"} who pass this way break one arrow over their knee and leave it on the cairn. Whether the gorge lies on their road home depends on where they served, and those who served in the river country come round by it on purpose.
 
 ## Not a Blood-field
 

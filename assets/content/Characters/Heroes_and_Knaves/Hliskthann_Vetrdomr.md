@@ -423,7 +423,7 @@ Hliskthann stands 6'1" tall with a medium build. He has tanned weathered skin, d
 
 ### The Thatchers' Path
 
-Hliskthann was born in [[place-malagna|Malagna]] as the youngest son of **[Vetrarr the Roofman]{.name data-type="being/npc"}**, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Hliskthann remained in the countryside, learning the mechanics of thatching and the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
+Hliskthann was born in [[place-malagna|Malagna]] as the youngest son of [Vetrarr the Roofman]{.name data-type="being/npc"}, a thatcher of modest reputation but unquestionable skill. Unlike his siblings who sought fortune in distant cities, Hliskthann remained in the countryside, learning the mechanics of thatching and the intimate knowledge of his region's climate, materials, and needs. He mastered the art of reading weather patterns, understanding that a roof built in spring must account for the specific challenges of the following winter. His father taught him that thatching was not merely technical work—it was a promise of protection made between craftsman and family.
 
 ### The Years of Mastery
 
@@ -485,7 +485,7 @@ Jarl [[being-hrindrinnagn|Hrindrinna Gnildrendik]]
 
 ### Enemies
 
-No true enemies, though **[Dvulgorv Swiftthatch]{.name data-type="being/npc"}**, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
+No true enemies, though [Dvulgorv Swiftthatch]{.name data-type="being/npc"}, an ambitious younger craftsman, has begun undercutting Hliskthann's prices.
 
 Dvulgorv Swiftthatch
 : An ambitious younger craftsman who has begun undercutting Hliskthann's prices by taking jobs Hliskthann has declined or delayed due to age. The two maintain a craftsman's courtesy but represent opposing philosophies.
@@ -510,7 +510,7 @@ The Impossible Commission
 : The ancient capital cathedral's roof—a magnificent structure from the age of legends—has developed catastrophic damage. The nobility demands restoration, but the original techniques are lost, the structure is geometrically complex beyond modern standards, and the timeline is impossible. Only Hliskthann is thought capable of tackling it. He can attempt the work (which might destroy his reputation if he fails) or refuse and watch the sacred building fall into ruin.
 
 The Apprentice Problem
-: A talented young woman, **[Signy Stormborn]{.name data-type="being/npc"}**, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
+: A talented young woman, [Signy Stormborn]{.name data-type="being/npc"}, repeatedly seeks Hliskthann out, begging to be his apprentice. She claims that her family will lose their farm if she cannot learn a trade that pays better than farming. Hliskthann's resistance softens as he realizes she represents the future—but teaching her will require adapting his solitary methods and confronting his own mortality.
 
 The Rival's Sabotage
 : Mysteriously, roofs Hliskthann thatched begin failing prematurely—developing leaks and structural weaknesses far before their time. The failures damage his reputation among rural communities. Hliskthann must investigate whether Dvulgorv Swiftthatch is deliberately sabotaging his work to take his custom, or whether something worse is at work.

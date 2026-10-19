@@ -521,13 +521,13 @@ The Impossible Order
 : Árshazur receives orders from a superior officer to carry out an action that he recognizes as dishonorable—attacking a civilian settlement to secure the border, or executing prisoners under the guise of military necessity. Refusing would end his service; compliance would shatter something fundamental in his character. He must make this impossible choice while determining whether the order is legitimate or originates from someone with darker motives.
 
 The Recruit with a Secret
-: A promising young recruit in Árshazur's unit proves to be **[Polykarin]{.name data-type="being/npc"}**, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
+: A promising young recruit in Árshazur's unit proves to be [Polykarin]{.name data-type="being/npc"}, the illegitimate son of an enemy general from a previous conflict. When Árshazur discovers the connection, he can report Polykarin and potentially destroy a promising soldier's prospects, or protect him while risking the garrison's safety and his own authority if discovered.
 
 The Monastery's Message
 : Clergy from the Monastery of Saint Florantine approach Árshazur with evidence that a significant portion of the military leadership is being covertly influenced or manipulated by hidden powers with interests contrary to the League's declared aims. They ask him to investigate and expose the conspiracy, which would require him to betray his own commanders.
 
 The Retired Warrior's Appeal
-: An aging veteran named **[Valen]{.name data-type="being/npc"}**, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
+: An aging veteran named [Valen]{.name data-type="being/npc"}, who trained Árshazur twenty years ago, appears with a request: help him investigate and execute vengeance against officers who, decades past, sacrificed an entire unit unnecessarily. Árshazur recognizes the truth in Valen's accusations, but agreeing to help would constitute rebellion against military authority.
 
 The War That Never Ends
 : Árshazur discovers that his own retirement, long anticipated as the conclusion of his military obligation, has been quietly canceled by a clerk's hand. The army, recognizing his value, has marked him for service without end. Trapped in an order that no longer permits exit, Árshazur can attempt escape, accept permanent captivity to the army, or find a way to force it to honor its original commitments.

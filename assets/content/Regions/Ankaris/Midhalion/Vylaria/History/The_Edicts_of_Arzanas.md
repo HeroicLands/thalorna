@@ -69,7 +69,7 @@ A junior clerk of [[affiliation-tevran|the Tevran Maldor]], copying the preamble
 
 ## The Closing of the Conquests
 
-About 418 the second Orzas of the Restoration house ([[lore-restorehouse|The Restoration]]), **[Arzanas]{.name data-type="being/npc"}**, ended the wars of three centuries ([[lore-westernwars|The Western Wars]]) by edict. The legions held what they held, and the chancery's maps held the rest. Arzanas was the first Orzas of his house to rule long enough to build, and the edict that closed the frontier opened the work.
+About 418 the second Orzas of the Restoration house ([[lore-restorehouse|The Restoration]]), [Arzanas]{.name data-type="being/npc"}, ended the wars of three centuries ([[lore-westernwars|The Western Wars]]) by edict. The legions held what they held, and the chancery's maps held the rest. Arzanas was the first Orzas of his house to rule long enough to build, and the edict that closed the frontier opened the work.
 
 ## The Machinery
 
@@ -83,7 +83,7 @@ Over seven years he gave the [[affiliation-vylarinmpr|Empire]] its present insti
 
 ## What Paid for It
 
-The treasury [Makandas]{.name data-type="being/npc"} had spent on peace was empty, and the rebuilding was banked. The **[House of Calventian]{.name data-type="affiliation/venture"}**, founded in [[place-orzara|Orzara]] to carry the debt, lent the Orzas the money and has been the largest of the great banking houses since ([[affiliation-danvar|Danvar]]).
+The treasury [Makandas]{.name data-type="being/npc"} had spent on peace was empty, and the rebuilding was banked. The [House of Calventian]{.name data-type="affiliation/venture"}, founded in [[place-orzara|Orzara]] to carry the debt, lent the Orzas the money and has been the largest of the great banking houses since ([[affiliation-danvar|Danvar]]).
 
 ## What It Left
 

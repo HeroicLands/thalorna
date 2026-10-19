@@ -14,7 +14,7 @@ Ravenswood lies along the eastern trade routes of [[place-byzariargn|Bizaria]], 
 
 ## The Vendetta
 
-[[being-orshkrnlkt|Órashkar Naulakit]], a teamster of [[place-chrysamar|Chrisamar]], famously refused to pay, and the brigands have pursued a vendetta against him since that has made the eastern routes steadily more dangerous for his shipments. So when a major shipment from **[Merchant House Valdris]{.name data-type="affiliation/venture"}** vanished on a route Órashkar has driven safely a hundred times, his patrons assumed the Ravenswood Brigands had taken it. His own investigation found no wreckage, no bodies and no sign of a struggle—nothing a band of brigands leaves behind—and the question of what took that caravan is still open.
+[[being-orshkrnlkt|Órashkar Naulakit]], a teamster of [[place-chrysamar|Chrisamar]], famously refused to pay, and the brigands have pursued a vendetta against him since that has made the eastern routes steadily more dangerous for his shipments. So when a major shipment from [Merchant House Valdris]{.name data-type="affiliation/venture"} vanished on a route Órashkar has driven safely a hundred times, his patrons assumed the Ravenswood Brigands had taken it. His own investigation found no wreckage, no bodies and no sign of a struggle—nothing a band of brigands leaves behind—and the question of what took that caravan is still open.
 
 ## See Also
 

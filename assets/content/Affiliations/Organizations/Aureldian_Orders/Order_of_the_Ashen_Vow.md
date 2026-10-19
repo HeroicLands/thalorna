@@ -96,8 +96,8 @@ Combat doctrine emphasizes incendiary tactics, the use of alchemical fire-throwe
 
 ## Notable Cells
 
-- **[The Ólvestran Cell]{.name data-type="affiliation"}** (Tarvénia)—the largest single cell; operates under the protection of the hill-baronies; commanded by Elder [Drogo of the Sealed Forge]{.name data-type="being/npc"} (a name taken at initiation; the brother's birth name is no longer used).
-- **[The Péravel Shadow-Cell]{.name data-type="affiliation"}** ([[place-elavendre|Élavendre]])—the most exposed cell; operates against direct suppression by the Sacred Forge and [[affiliation-bardicolgs|the Bardic Colleges]] (the Bardic Circle); smaller and more guarded than the Tarvénian operations.
+- [The Ólvestran Cell]{.name data-type="affiliation"} (Tarvénia)—the largest single cell; operates under the protection of the hill-baronies; commanded by Elder [Drogo of the Sealed Forge]{.name data-type="being/npc"} (a name taken at initiation; the brother's birth name is no longer used).
+- [The Péravel Shadow-Cell]{.name data-type="affiliation"} ([[place-elavendre|Élavendre]])—the most exposed cell; operates against direct suppression by the Sacred Forge and [[affiliation-bardicolgs|the Bardic Colleges]] (the Bardic Circle); smaller and more guarded than the Tarvénian operations.
 - **Various dispersed cells** in the rural Provenzian highlands, the Aelwythan coast, and the Tarvénian frontier.
 
 ## Relations
@@ -122,7 +122,7 @@ The [[affiliation-ordoarcanis|Thordimalon]]
 
 ## Identifying Marks
 
-The order's permanent identifier is the **[Ashen Brand]{.name data-type="lore"}** at the inside of the right forearm—a small open-flame mark, made by branding with the ashes of the previous initiation's fire and scarring in a recognizable pattern. The brand is the order's bond and cannot be removed without severe disfigurement. A brother known to the Sacred Forge investigators is a brother who has, almost certainly, been observed at the brand.
+The order's permanent identifier is the [Ashen Brand]{.name data-type="lore"} at the inside of the right forearm—a small open-flame mark, made by branding with the ashes of the previous initiation's fire and scarring in a recognizable pattern. The brand is the order's bond and cannot be removed without severe disfigurement. A brother known to the Sacred Forge investigators is a brother who has, almost certainly, been observed at the brand.
 
 Outside the chapter site brothers wear nothing identifiable. The order maintains no surcoats, no banners, no public emblems.
 

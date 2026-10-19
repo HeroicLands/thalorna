@@ -64,7 +64,7 @@ Mahajaya is most visible in the countryside of the [[place-vedyarargn|Vedyara Re
 
 ### How the Inland Janapadas Read Her
 
-Some of her temples govern. At [[affiliation-dhnrktjnpd|Danurkota]] her temple hall is where the janapoda meets, and its senior priest convenes the sabhra. At [[affiliation-suvrgrjnpd|Suvarnageri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnageri tradition reads her as the balancer, the force that holds the cosmic order steady against [[lore-rasikaradty|Rasikara]]'s chaos and against [[lore-vyalendradty|Vyalendra]]'s unchecked making, and it reads its **[Gold Constitution]{.name data-type="lore/law"}** as that balance kept in the world.
+Some of her temples govern. At [[affiliation-dhnrktjnpd|Danurkota]] her temple hall is where the janapoda meets, and its senior priest convenes the sabhra. At [[affiliation-suvrgrjnpd|Suvarnageri]] three great temples of equal size ring the gold-bearing mountain, so that no one priesthood can claim its gold. The Suvarnageri tradition reads her as the balancer, the force that holds the cosmic order steady against [[lore-rasikaradty|Rasikara]]'s chaos and against [[lore-vyalendradty|Vyalendra]]'s unchecked making, and it reads its [Gold Constitution]{.name data-type="lore/law"} as that balance kept in the world.
 
 ### What You See at Her Shrines
 

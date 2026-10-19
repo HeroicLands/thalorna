@@ -55,9 +55,9 @@ The _peltroi_, who together make up the **Pelthralon**, are the civic magistrate
 
 Their jurisdiction is the ordinary business of a city of a million: markets and licenses, weights and measures, building and sanitation, nuisance and petty disorder. Their inspectors can shutter a business, levy a fine, or order a building pulled down, and the [[affiliation-vylrnmltry|City Watch]] supplies the muscle behind the ruling. The Watch enforces and investigates; it does not judge. The _peltroi_ judge.
 
-They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Orzara]], the council of five _veramusoi_ (curators of the city) that crowns the system and hears its gravest cases. The _veramus_ of Law oversees them. To be summoned from a _peltros_'s bench up to the imperial tribunals in the **[Imperial Offices]{.name data-type="place/structure"}** is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
+They sit at the bottom of the civic tier—below the **Civil Courts** for civil suits and the **Criminal Tribunal** for theft and violence, and far below the [[affiliation-verdanorzara|Verdan Orzara]], the council of five _veramusoi_ (curators of the city) that crowns the system and hears its gravest cases. The _veramus_ of Law oversees them. To be summoned from a _peltros_'s bench up to the imperial tribunals in the [Imperial Offices]{.name data-type="place/structure"} is, for most of the city, a terror in itself: it means one's affair has caught the attention of powers far above the ward.
 
-Their reach ends at the **[Clearance]{.name data-type="place/feature"}**, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the _peltroi_ and the Watch alike.
+Their reach ends at the [Clearance]{.name data-type="place/feature"}, the swept strip of open ground that marks the city's edge. In the sprawl beyond it the ground is dirtier, wilder and more lawless, and it lies beyond the easy reach of the _peltroi_ and the Watch alike.
 
 ## The Bribe
 

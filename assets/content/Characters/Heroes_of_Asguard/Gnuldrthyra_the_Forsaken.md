@@ -393,13 +393,13 @@ Since absorbing the Heart of the Firstborn, Gnuldrthira possesses strength and r
 
 [[being-dvrnvrshpr|Dvurnvir the Shaper]]—The only person who has ever treated Gnuldrthira as a fellow being rather than a curiosity or monster. Their relationship is complicated by Dvurnvir's scientific interest in her unique nature, but his respect is real.
 
-**[The Forsaken Ones]{.name data-type="affiliation"}**—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthira as a champion since she absorbed the Heart of the Firstborn.
+[The Forsaken Ones]{.name data-type="affiliation"}—A loose community of Mótefnir's abandoned creations who recognize Gnuldrthira as a champion since she absorbed the Heart of the Firstborn.
 
 ### Enemies
 
-**[The Purity Crusade]{.name data-type="affiliation"}**—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthira an especially dangerous target and have mobilized significant resources to hunt her.
+[The Purity Crusade]{.name data-type="affiliation"}—A fanatical movement that views all of Mótefnir's creations as abominations that must be destroyed. They consider Gnuldrthira an especially dangerous target and have mobilized significant resources to hunt her.
 
-**[Mótefnir's Warden]{.name data-type="being/creature"}**—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthira's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
+[Mótefnir's Warden]{.name data-type="being/creature"}—A powerful entity left behind to guard Mótefnir's laboratories. It views Gnuldrthira's theft of the Heart of the Firstborn as an unforgivable transgression and relentlessly pursues her.
 
 ## Plot Hooks
 

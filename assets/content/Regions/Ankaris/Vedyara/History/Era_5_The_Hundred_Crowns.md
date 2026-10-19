@@ -14,12 +14,12 @@ data: {packFolder: vedyara, culture: vedyariclt}
 
 Three generations of Shreshthins worked across the borders while the wars went on, toward a law under which the polities could trade without needing to be one state. [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]'s own history begins among the polities "that were then at war with each other," and the third generation of those princes dated its work from the year after the age's great battle.
 
-That battle was [[lore-fieldelephnt|the Field of Elephants]]. About 265 AF the king of [[affiliation-gomarga|Gomarga]] took three lineages' wells into the crown's hand to pay for a war on the river ([[lore-wellbrk1|the First Breaking of the Well Bargain]]). About 270 AF his coalition came down off the plateau against the river kingdom of **[Purnatira]{.name data-type="affiliation/polity"}**, both lines broke among the war-elephants, and the dead were left to the rains on ground that became the second _shorukshetra_. About 280 the kings forbade the [[affiliation-agnipantha|Agmi-pantra]] to burn that field, and the sect went anyway ([[lore-agnipartng|the Three Partings]]). About 260 the [Priestly Court]{.name data-type="affiliation/governmental"} of [[affiliation-vindhyalay|Shikharalaya]] won its own hall at [[place-suryagarha|Suryagarha]] ([[lore-passcharter|the Charter of the Pass-Road]]).
+That battle was [[lore-fieldelephnt|the Field of Elephants]]. About 265 AF the king of [[affiliation-gomarga|Gomarga]] took three lineages' wells into the crown's hand to pay for a war on the river ([[lore-wellbrk1|the First Breaking of the Well Bargain]]). About 270 AF his coalition came down off the plateau against the river kingdom of [Purnatira]{.name data-type="affiliation/polity"}, both lines broke among the war-elephants, and the dead were left to the rains on ground that became the second _shorukshetra_. About 280 the kings forbade the [[affiliation-agnipantha|Agmi-pantra]] to burn that field, and the sect went anyway ([[lore-agnipartng|the Three Partings]]). About 260 the [Priestly Court]{.name data-type="affiliation/governmental"} of [[affiliation-vindhyalay|Shikharalaya]] won its own hall at [[place-suryagarha|Suryagarha]] ([[lore-passcharter|the Charter of the Pass-Road]]).
 
 ## Rulers
 
 Gomarga
-: **[Vrishasura]{.name data-type="being/npc"}**, who broke the bargain and lost the war.
+: [Vrishasura]{.name data-type="being/npc"}, who broke the bargain and lost the war.
 
 Purnatira
 : a river kingdom of the middle reaches of [[place-mahanadi|the Mahanodi]], broken at the Field of Elephants; its lands passed to janapadas within a generation.
@@ -28,7 +28,7 @@ Shikharalaya
 : the [Martial Council]{.name data-type="affiliation/governmental"} acclaimed a younger brother over the heir about 260, in the years the Priestly Court's hall was raised.
 
 [[affiliation-chandrapur|Chendrapur]]
-: **[Ratnasura]{.name data-type="being/npc"}**, refused by the temples, and **[Elvunatha]{.name data-type="being/npc"}**, whom the [Nine Houses]{.name data-type="affiliation"} put on the throne.
+: [Ratnasura]{.name data-type="being/npc"}, refused by the temples, and [Elvunatha]{.name data-type="being/npc"}, whom the [Nine Houses]{.name data-type="affiliation"} put on the throne.
 
 ## Its End
 

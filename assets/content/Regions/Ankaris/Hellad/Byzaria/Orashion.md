@@ -84,7 +84,7 @@ Standing runs from the register outward. The freeman is enrolled in the city's r
 
 ## Relations
 
-Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and [[place-argyrteikhos2|Argirteikhos]] lie the **[Vezhnur holds]{.name data-type="place/region"}**, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
+Órashion makes the arms, armor and metalwork the other four cities trade, from fine jewelry to military-grade weapons. It is also the League's go-between with the highlands above it. In the high passes between the interior and [[place-argyrteikhos2|Argirteikhos]] lie the [Vezhnur holds]{.name data-type="place/region"}, a clan-country of warrior clans under their own warlords, and a merchant-diplomat house of Órashion brokers between the League council and the holds. The city-state is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 

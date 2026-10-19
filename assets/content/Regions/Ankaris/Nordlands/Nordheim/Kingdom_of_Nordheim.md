@@ -112,15 +112,15 @@ The standings run from [[lore-nidingrnk|niding]], the outlaw beyond the ting's p
 
 ## The Royal Line
 
-The crown has stayed in one clan since the acclamations: the **[Knalthidrok]{.name data-type="affiliation/lineage"}**, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
+The crown has stayed in one clan since the acclamations: the [Knalthidrok]{.name data-type="affiliation/lineage"}, who keep the hall at Knalthstead and the royal howes on the slope below it. The ting chooses each king from among them, and a king's name rings the generations in its vowels as every Nordmal name does. The skalds recite the whole line at a sitting; these are the kings a newcomer hears of first.
 
-- **[Svalthorv]{.name data-type="being/npc"}**, about 270 to 287, the first king acclaimed, killed on the strand of Domsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsey]]).
-- **[Snilthorv]{.name data-type="being/npc"}**, 287 to 318, his son, who took Domsey's keeping as his father's wergild and first convened the sittings.
-- **[Thrildorv]{.name data-type="being/npc"}**, about 455 to 481, who held the shore at [[place-skalfvatn|Skalfvatn]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
-- **[Bruldmil]{.name data-type="being/npc"}**, about 503 to 519, king of [[lore-threewinters|the Three Winters]], who swore the door-seat oath at the sitting of 518.
-- **[Thraskmil]{.name data-type="being/npc"}**, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
-- **[Vruthorv]{.name data-type="being/npc"}**, about 650 to 689, who sent three kingdoms' fleets to [[place-aelwyth|Aelwyth]] ([[lore-stormveldtkn|The Taking of Stormveld]]).
-- **[Hvarnorv]{.name data-type="being/npc"}**, king since 689.
+- [Svalthorv]{.name data-type="being/npc"}, about 270 to 287, the first king acclaimed, killed on the strand of Domsey at the first sitting ([[lore-nordfirstsit|The First Sitting on Domsey]]).
+- [Snilthorv]{.name data-type="being/npc"}, 287 to 318, his son, who took Domsey's keeping as his father's wergild and first convened the sittings.
+- [Thrildorv]{.name data-type="being/npc"}, about 455 to 481, who held the shore at [[place-skalfvatn|Skalfvatn]] when Malagna's host went through the ice ([[lore-nordkinwars|The Kin-Wars]]).
+- [Bruldmil]{.name data-type="being/npc"}, about 503 to 519, king of [[lore-threewinters|the Three Winters]], who swore the door-seat oath at the sitting of 518.
+- [Thraskmil]{.name data-type="being/npc"}, 519 to 549, who sent the hulls south ([[lore-southrnfleets|The Southern Fleets]]).
+- [Vruthorv]{.name data-type="being/npc"}, about 650 to 689, who sent three kingdoms' fleets to [[place-aelwyth|Aelwyth]] ([[lore-stormveldtkn|The Taking of Stormveld]]).
+- [Hvarnorv]{.name data-type="being/npc"}, king since 689.
 
 Hvarnorv is old. He has two grown grandsons and has named neither, and the ting at Knalthstead will not be asked to choose between them while he lives. Each grandson has jarls who would sit behind him at the sixty-third sitting, and each knows which seats those are.
 

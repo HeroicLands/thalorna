@@ -8,7 +8,7 @@ tags: [site, district, orzara, vylaria]
 data: {demonym: null, lore: [], parents: [orzara], population: null, packFolder: vylaria}
 ---
 
-The **Theatre District** is the quieter of [[place-orzara|Orzara City]]'s two quarters of pleasure, the quarter of [[place-rathaunamelvar|Rathauna Melvar]] (the Racecourse) about the **[Racecourse Circle]{.name data-type="place/site"}** being the loud one, and by some distance the more celebrated abroad. A pedicab runner who works the avenues from the **[Grand Market]{.name data-type="place/site"}** to the Circles knows its habits better than the ticket-sellers do: "Nobody hires me to the Theatre District before noon, and I do not take anyone out of it before midnight. The place keeps its own clock, and you will keep it too."
+The **Theatre District** is the quieter of [[place-orzara|Orzara City]]'s two quarters of pleasure, the quarter of [[place-rathaunamelvar|Rathauna Melvar]] (the Racecourse) about the [Racecourse Circle]{.name data-type="place/site"} being the loud one, and by some distance the more celebrated abroad. A pedicab runner who works the avenues from the [Grand Market]{.name data-type="place/site"} to the Circles knows its habits better than the ticket-sellers do: "Nobody hires me to the Theatre District before noon, and I do not take anyone out of it before midnight. The place keeps its own clock, and you will keep it too."
 
 Its great **semicircular theaters and odeons** stage tragedies, comedies, recitations and music throughout the season. The Vylarian stage is famous across the world for its masked players and for stage-machinery elaborate enough that visitors regularly assume magic and are regularly wrong.
 

@@ -389,15 +389,15 @@ Rilthorv's voice carries supernatural resonance when he sings the old sagas, cap
 
 ### Patrons
 
-**[The Skalds' Hall of Rilthheim]{.name data-type="affiliation"}**—This prestigious gathering of northern bards and loremasters in [[place-rilthheim|Rilthheim]] considers Rilthorv one of their finest, granting him the right to speak with their authority and access their archives of ancient sagas.
+[The Skalds' Hall of Rilthheim]{.name data-type="affiliation"}—This prestigious gathering of northern bards and loremasters in [[place-rilthheim|Rilthheim]] considers Rilthorv one of their finest, granting him the right to speak with their authority and access their archives of ancient sagas.
 
-**[Flurninda Flirnvirsdottir]{.name data-type="being/npc"}**—A wealthy merchant's widow who funds Rilthorv's travels in exchange for first hearing of any new sagas he discovers. She harbors a quiet affection for the skald that he pretends not to notice.
+[Flurninda Flirnvirsdottir]{.name data-type="being/npc"}—A wealthy merchant's widow who funds Rilthorv's travels in exchange for first hearing of any new sagas he discovers. She harbors a quiet affection for the skald that he pretends not to notice.
 
 ### Enemies
 
-**[Thulmorv the Silencer]{.name data-type="being/npc"}**—A fanatical warrior-priest who believes the old sagas contain dangerous heresies. He has burned several libraries and murdered two skalds, and Rilthorv is next on his list.
+[Thulmorv the Silencer]{.name data-type="being/npc"}—A fanatical warrior-priest who believes the old sagas contain dangerous heresies. He has burned several libraries and murdered two skalds, and Rilthorv is next on his list.
 
-**[The Whispering Court]{.name data-type="affiliation"}**—A cabal of sorcerers who believe Rilthorv unknowingly carries fragments of a powerful incantation within the sagas he sings. They seek to capture him and extract the knowledge by force.
+[The Whispering Court]{.name data-type="affiliation"}—A cabal of sorcerers who believe Rilthorv unknowingly carries fragments of a powerful incantation within the sagas he sings. They seek to capture him and extract the knowledge by force.
 
 ## Plot Hooks
 

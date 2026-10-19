@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Hénzhuo—The Lord of the Unclassified
 
-In the Hénzhuo cultus, [[lore-henzhuodty|Hénzhuo]] is the eldest and most feared of the Demon Lords, not a fallen official but something older—a coherence that formed within the **[Henléi]{.name data-type="lore/cosmology"}** itself during [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting. When [[lore-tanzhodty|Tanzho]] drew the first boundaries, most of the primordial chaos submitted to classification. Hénzhuo did not. It is the refusal given form: the part of the Henléi that looked at the Great Sorting and _disagreed_.
+In the Hénzhuo cultus, [[lore-henzhuodty|Hénzhuo]] is the eldest and most feared of the Demon Lords, not a fallen official but something older—a coherence that formed within the [Henléi]{.name data-type="lore/cosmology"} itself during [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting. When [[lore-tanzhodty|Tanzho]] drew the first boundaries, most of the primordial chaos submitted to classification. Hénzhuo did not. It is the refusal given form: the part of the Henléi that looked at the Great Sorting and _disagreed_.
 
 The [[lore-tanchei|Tanchéi]] describe Hénzhuo not as a being with shape or personality, but as an _anti-classification_—a force that dissolves categories in its presence. Things near Hénzhuo lose their names. Metals forget whether they are iron or copper. Rivers run in directions that have no word. Mortals exposed to its influence begin to lose the distinctions that make thought possible: the difference between self and other, between past and future, between waking and sleep.
 

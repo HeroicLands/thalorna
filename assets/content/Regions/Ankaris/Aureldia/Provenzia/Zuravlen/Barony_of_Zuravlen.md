@@ -33,4 +33,4 @@ data:
 sohl: {system: {commonSkills: [provnzlng]}}
 ---
 
-The **Barony of Zuravlen** is the valley holding of Baron **[Selvare Zuravel]{.name data-type="being/npc"}**, who holds it of the [[affiliation-kngdmprvnz|Crown of Provenzia]] and sits at [[place-elthrembis|Eltrembis]], the market town where the grading records, water-rolls and manor customs are kept. His overlord in the western march is the Earl of Hárivren. The barony governs Eltrembis and the harbor of [[place-volsather|Volsater]]; the manors of the valley answer to lords of their own.
+The **Barony of Zuravlen** is the valley holding of Baron [Selvare Zuravel]{.name data-type="being/npc"}, who holds it of the [[affiliation-kngdmprvnz|Crown of Provenzia]] and sits at [[place-elthrembis|Eltrembis]], the market town where the grading records, water-rolls and manor customs are kept. His overlord in the western march is the Earl of Hárivren. The barony governs Eltrembis and the harbor of [[place-volsather|Volsater]]; the manors of the valley answer to lords of their own.

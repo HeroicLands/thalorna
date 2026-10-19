@@ -73,7 +73,7 @@ The **Janapadas of Vedyara** are some six thousand small temple-republics, each 
 
 A traveling merchant from the [[place-provenzrgn|Provenzia Region]] passing through Vedyara meets a man who calls himself a citizen of the [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]], another who calls himself a citizen of the [[affiliation-dhnrktjnpd|Danurkota Janapoda]], and a third who calls himself simply a [[lore-vedyariclt|Vedyari]]. All three are correct. The Mahva-Sangra is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
-A janapoda's **Dutsa** (envoy), the man its sabhra sends to a neighbor's hall, to a patron court and to the **[Mahva-Melra]{.name data-type="lore/gathering"}**, is the person who explains this to a foreigner most often, and he starts with the temple. "You are looking for the palace. There is none. Find the biggest temple in the valley and gho in by the granary door; the people you need are all inside, and none of them is in charge."
+A janapoda's **Dutsa** (envoy), the man its sabhra sends to a neighbor's hall, to a patron court and to the [Mahva-Melra]{.name data-type="lore/gathering"}, is the person who explains this to a foreigner most often, and he starts with the temple. "You are looking for the palace. There is none. Find the biggest temple in the valley and gho in by the granary door; the people you need are all inside, and none of them is in charge."
 
 ## What a Janapoda Is
 
@@ -103,7 +103,7 @@ Those ten days settle the next twelve years, in open consultation between delega
 - trade conventions and the reaffirmation of the great pilgrimage routes;
 - boundary disputes that have outgrown settlement between the two parties;
 - the public denunciation of a janapoda judged to have behaved shamefully;
-- the recognition of newly formed janapadas, and the formal mourning of those that have collapsed since the last Melra. The mourning remembered longest is **[Thirnugrama]{.name data-type="affiliation/polity"}**'s, burned in its own hall by the conch-door adventurer ([[lore-silenthall|the Silenced Hall]]).
+- the recognition of newly formed janapadas, and the formal mourning of those that have collapsed since the last Melra. The mourning remembered longest is [Thirnugrama]{.name data-type="affiliation/polity"}'s, burned in its own hall by the conch-door adventurer ([[lore-silenthall|the Silenced Hall]]).
 
 The Melra keeps only the offices the gathering itself needs, and none of them holds anything between gatherings. The **Sabhapavi of the Melra**, the senior priest of [[place-sangama|Sangema]], the temple on the ground, convenes the assembly and puts its business. Decisions come from consensus among the senior priests, reached in the open. A janapoda that ignores the consensus meets its peers' disapproval and a slow withdrawal of cooperation, and the sanction has teeth: most janapadas live on inter-janapada trade and water-sharing arrangements that can be quietly degraded once the Sangra turns against them.
 

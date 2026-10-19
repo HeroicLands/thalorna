@@ -60,7 +60,7 @@ data:
         - whether the Khazari meant to leave the island to the humans, or merely stopped wanting it
 ---
 
-The Ending of the Great War is recalled by a short saying in [[place-vardainvalleys|the Vardain valleys is short]]: the [[lore-flkkhazar|Khazari]] finished it, and then they went home. It is a complete account of how the **[Great War]{.name data-type="lore/history"}** ended on [[place-aelwyth|Aelwyth]], and it leaves out only the question of why a people who had just won would go home.
+The Ending of the Great War is recalled by a short saying in [[place-vardainvalleys|the Vardain valleys is short]]: the [[lore-flkkhazar|Khazari]] finished it, and then they went home. It is a complete account of how the [Great War]{.name data-type="lore/history"} ended on [[place-aelwyth|Aelwyth]], and it leaves out only the question of why a people who had just won would go home.
 
 ## A War With Nobody Left to Fight It
 

@@ -36,7 +36,7 @@ data:
         - whether Drethar was the first king the barons crowned, or only the first they remember
 ---
 
-The Crowning at Kingshollow began a tradition kept by the kings of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]: they are crowned in a chapel at **[[place-kingsholow|Kingshollow]]**, a village in a sheltered fold of the eastern country, because the first of them was a baron whose hall stood beside it. **[Drethar of Kingshollow]{.name data-type="being/npc"}** was crowned there about 120 AF, and the line he began has never taken a crown anywhere else.
+The Crowning at Kingshollow began a tradition kept by the kings of the [[affiliation-kngdmldrth|Kingdom of Aldorath]]: they are crowned in a chapel at **[[place-kingsholow|Kingshollow]]**, a village in a sheltered fold of the eastern country, because the first of them was a baron whose hall stood beside it. [Drethar of Kingshollow]{.name data-type="being/npc"} was crowned there about 120 AF, and the line he began has never taken a crown anywhere else.
 
 ## A King Chosen From Among Them
 
@@ -46,9 +46,9 @@ The arrangement shaped the crown that followed. A king of Aldorath rules with th
 
 ## What It Left
 
-- **The hall, the chapel and the royal graves.** Kept in repair for six centuries by successive kings. The court moved to [[place-dunmere|Dunmere]] generations later, in the reign of **[Tenral]{.name data-type="being/npc"}**, and no king has given up the hall, the midwinter feast or the burial ground behind it.
+- **The hall, the chapel and the royal graves.** Kept in repair for six centuries by successive kings. The court moved to [[place-dunmere|Dunmere]] generations later, in the reign of [Tenral]{.name data-type="being/npc"}, and no king has given up the hall, the midwinter feast or the burial ground behind it.
 - **The royal forest.** The wood above the village, hunted by the kings under forest law, and the grievance of the tenants beside it who may not cut the timber.
-- **The first formal campaign.** **[Réncaris]{.name data-type="being/npc"}**, a king of the third century, led the first campaign the crown mounted against the Grukar. It was declared a success, as each of the dozen that followed it was.
+- **The first formal campaign.** [Réncaris]{.name data-type="being/npc"}, a king of the third century, led the first campaign the crown mounted against the Grukar. It was declared a success, as each of the dozen that followed it was.
 - **The barons' memory.** Aldorath's lords keep a record in which the crown is a gift of theirs, and they are not mistaken in it.
 
 ## See Also

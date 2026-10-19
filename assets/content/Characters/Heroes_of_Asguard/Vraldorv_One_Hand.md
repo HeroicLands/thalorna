@@ -389,7 +389,7 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 ### Patrons
 
-**[The Court of Justice at Logthul]{.name data-type="affiliation/governmental"}**—The oldest seat of law in the northern territories, in [[place-logthul|Logthul]], where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
+[The Court of Justice at Logthul]{.name data-type="affiliation/governmental"}—The oldest seat of law in the northern territories, in [[place-logthul|Logthul]], where Vraldorv has been granted permanent standing as an itinerant judge with authority across clan boundaries.
 
 [[being-knlthnlwgvr|Knalthann Lawgiver]]—A fellow devotee of Eidgar who works alongside Vraldorv, providing legal expertise to complement Vraldorv's martial authority.
 
@@ -397,7 +397,7 @@ Vraldorv's left-handed fighting style is unorthodox and catches many opponents o
 
 **The former Jarl [[being-skruldthann|Skruldthann]]**—The corrupt lord Vraldorv defeated in combat has never forgiven the humiliation. Though stripped of his title, Skruldthann still commands loyal followers and plots revenge.
 
-**[The Blood Eagle Clan]{.name data-type="affiliation/lineage"}**—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
+[The Blood Eagle Clan]{.name data-type="affiliation/lineage"}—A raider clan that follows the old ways of blood-vengeance and views Vraldorv's legal reforms as an attack on their traditions and honor.
 
 ## Plot Hooks
 

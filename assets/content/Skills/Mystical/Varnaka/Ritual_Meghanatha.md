@@ -29,6 +29,6 @@ Performed by
 Licensed by
 : No one. [[lore-meghanathadty|Meghonata]] keeps no priesthood of his own, and his clergy's forthrightness is famous for not softening that fact
 
-**[The Storm Watch]{.name data-type="lore/custom"}** is kept atop a high place during the passage of a named storm, a hand-drum sounded through the worst of the rain and wind. **[The Fisher's Voyage]{.name data-type="lore/custom"}** is undertaken in the monsoon's first days, on a fishing boat the devotee has helped to build. **[The Silent Year of Thunder]{.name data-type="lore/custom"}** permits speech only while the temple drum is sounding. Silence is bought back one storm at a time, across a full year.
+[The Storm Watch]{.name data-type="lore/custom"} is kept atop a high place during the passage of a named storm, a hand-drum sounded through the worst of the rain and wind. [The Fisher's Voyage]{.name data-type="lore/custom"} is undertaken in the monsoon's first days, on a fishing boat the devotee has helped to build. [The Silent Year of Thunder]{.name data-type="lore/custom"} permits speech only while the temple drum is sounding. Silence is bought back one storm at a time, across a full year.
 
 See [[affiliation-meghanatha|Meghonata]].

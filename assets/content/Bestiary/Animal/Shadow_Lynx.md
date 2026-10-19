@@ -266,7 +266,7 @@ A lynx rests by day and hunts from dusk to dawn. It stalks its prey slowly and i
 
 ## What the Varokh Do
 
-The Varokh of Skathwald share the forest with the lynx and live with it. In the lynx villages, Wulfstein and **[Grimstein]{.name data-type="place/settlement"}**, it is the clan's wesk, and nobody hunts it without the Shaman's approval: a lynx that takes the village's goats is driven off with fire and noise, and only one that has taken a child is killed, with the Shaman present. Elsewhere in the forest the lynx is hunted for its fur, which makes a cloak that is warm and nearly invisible in the forest at dusk, and a scout in such a cloak is prized on the watches. Every village keeps its goats in a fold at night and its dogs indoors in winter. Sentries on the crags watch for the lynx as well as for the Grukar, because a lynx on a ledge above a path is often the first sign that something is moving on the path below.
+The Varokh of Skathwald share the forest with the lynx and live with it. In the lynx villages, Wulfstein and [Grimstein]{.name data-type="place/settlement"}, it is the clan's wesk, and nobody hunts it without the Shaman's approval: a lynx that takes the village's goats is driven off with fire and noise, and only one that has taken a child is killed, with the Shaman present. Elsewhere in the forest the lynx is hunted for its fur, which makes a cloak that is warm and nearly invisible in the forest at dusk, and a scout in such a cloak is prized on the watches. Every village keeps its goats in a fold at night and its dogs indoors in winter. Sentries on the crags watch for the lynx as well as for the Grukar, because a lynx on a ledge above a path is often the first sign that something is moving on the path below.
 
 ## Signs
 
