@@ -686,7 +686,9 @@ Sovidur is the clipped speech of the steppe tribes: short syllables and back-of-
 
 **Endings.** Sovidur words end in _-od_, _-ur_, _-aq_, _-iq_, _-lun_ or _-oliz_.
 
-**What Sovidur leaves out.** It has no doubled vowels (_ii_, _oo_) and no word of more than four syllables.
+**Spelling.** Sovidur writes a long _e_ and a long _o_ as _ee_ and _oo_, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
+
+**What Sovidur leaves out.** It has no word of more than four syllables.
 
 ## Sounds
 

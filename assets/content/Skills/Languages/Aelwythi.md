@@ -628,6 +628,8 @@ Aelwythi names have two parts, each an old word: a first part such as _Ald-_, _E
 
 **Endings.** Men's names end in _-wald_, _-rik_, _-mund_, _-win_ or _-red_. Women's names end in _-rith_, _-run_, _-ith_ or _-wyn_.
 
+**Spelling.** Aelwythi writes _ea_ as one syllable, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
+
 **What Aelwythi leaves out.** It has no _c_ outside _ch_. Its names are new pairings of the old parts, not the attested names of history.
 
 ## Beside Élavendri and Vylari

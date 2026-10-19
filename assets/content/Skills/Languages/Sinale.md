@@ -2441,7 +2441,7 @@ Sinale is the eldest tongue, sung as often as spoken. It is soft-consonanted and
 
 **Endings.** Sinale words end in _-sa_, _-el_, _-no_, _-vi_, _-ta_ or _-ra_.
 
-**What Sinale leaves out.** It has no _y_ as a vowel and no doubled vowels.
+**Spelling.** Sinale writes a long _e_ and a long _o_ as _ee_ and _oo_, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
 
 ## Phonology
 
