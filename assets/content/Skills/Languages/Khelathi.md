@@ -230,6 +230,8 @@ data:
       holds: "The realm, its people and its two hands."
     - name: "Head-words"
       holds: "The head-words that open the name of a body and say what kind of body it is: a house, a guild, a temple, an order, a court."
+    - {name: "Numbers", holds: "The numerals, one to ten, a hundred and a thousand."}
+    - {name: "Doing", holds: "The verbs, each one form that does not change."}
   affixes:
     - {form: "-Zalu", gloss: "south"}
     - {form: "-Miglet", gloss: "north"}
@@ -499,7 +501,7 @@ data:
     - form: Shelu
       class: name
       field: "Temple, arcane and cosmology"
-      gloss: the season of low water
+      gloss: the harvest, the season of low water
     - form: qezat
       class: n
       field: "Temple, arcane and cosmology"
@@ -554,6 +556,79 @@ data:
       field: "The realm, its people and its hands"
       gloss: the everyday alphabet
     - {form: "Lin'", class: "stem", field: "Head-words", gloss: "The opening of a guild's name"}
+    - {form: lazen, class: num, field: "Numbers", gloss: "one"}
+    - {form: khul, class: num, field: "Numbers", gloss: "two"}
+    - {form: khemu, class: num, field: "Numbers", gloss: "three"}
+    - {form: tuzar, class: num, field: "Numbers", gloss: "four"}
+    - {form: chalen, class: num, field: "Numbers", gloss: "five"}
+    - {form: chun, class: num, field: "Numbers", gloss: "six"}
+    - {form: salet, class: num, field: "Numbers", gloss: "seven"}
+    - {form: waqen, class: num, field: "Numbers", gloss: "eight"}
+    - {form: qanu, class: num, field: "Numbers", gloss: "nine"}
+    - {form: gerun, class: num, field: "Numbers", gloss: "ten"}
+    - {form: khen, class: num, field: "Numbers", gloss: "a hundred"}
+    - {form: qalzun, class: num, field: "Numbers", gloss: "a thousand"}
+    - form: mazel
+      class: v
+      field: "Doing"
+      gloss: "measure; read off a gauge, a field or a river"
+    - {form: ghamuz, class: v, field: "Doing", gloss: "proclaim, announce aloud"}
+    - {form: lekhath, class: v, field: "Doing", gloss: "bless, confer sacred power"}
+    - {form: qezir, class: v, field: "Doing", gloss: "strike, spear"}
+    - {form: tegul, class: v, field: "Doing", gloss: "divide, share out"}
+    - {form: nelgen, class: v, field: "Doing", gloss: "offer, give to a god"}
+    - {form: qathez, class: v, field: "Doing", gloss: "seal"}
+    - {form: muzan, class: v, field: "Doing", gloss: "build"}
+    - {form: lagath, class: v, field: "Doing", gloss: "guard, keep"}
+    - {form: tazul, class: v, field: "Doing", gloss: "mourn"}
+    - form: nelgat
+      class: n
+      field: "Temple, arcane and cosmology"
+      built: [nelgen]
+      gloss: "an offering"
+    - {form: nelgu, class: n, field: "The realm, its people and its hands", gloss: "a mighty one"}
+    - form: zagul
+      class: n
+      field: "Counting-house and water-works"
+      gloss: "the crocodile, the beast as distinct from the god Chelsur"
+    - form: igelzut
+      class: n
+      field: "Counting-house and water-works"
+      built: [igelu]
+      gloss: "the hippopotamus"
+    - form: igelqat
+      class: n
+      field: "Counting-house and water-works"
+      built: [igelu]
+      gloss: "the river cat"
+    - {form: zugel, class: n, field: "Counting-house and water-works", gloss: "a harpoon"}
+    - {form: shenulet, class: n, field: "Counting-house and water-works", gloss: "a net"}
+    - {form: tulaz, class: n, field: "Counting-house and water-works", gloss: "a bow"}
+    - form: shebigel
+      class: n
+      field: "Counting-house and water-works"
+      built: [shebar, igelu]
+      gloss: "a reed boat"
+    - {form: qemul, class: n, field: "Counting-house and water-works", gloss: "a cubit"}
+    - form: zelzin
+      class: n
+      field: "Temple, arcane and cosmology"
+      built: [zin]
+      gloss: "a coffin, the place of the soul"
+    - {form: zeghetar, class: n, field: "Occupations", built: [zeghet], gloss: "hunter"}
+    - {form: zugelar, class: n, field: "Occupations", built: [zugel], gloss: "harpooner"}
+    - form: tegular
+      class: n
+      field: "Occupations"
+      built: [tegul]
+      gloss: "butcher, divider of what is taken"
+    - {form: lagathar, class: n, field: "Occupations", built: [lagath], gloss: "keeper, warden"}
+    - form: mazelar
+      class: n
+      field: "Occupations"
+      built: [mazel]
+      gloss: "surveyor; scout, reader of the ground"
+    - {form: tuqal, class: n, field: "Occupations", gloss: "bearer"}
   retired:
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
@@ -711,16 +786,19 @@ Khelathi follows a **Verb-Subject-Object (VSO)** order in narrative clauses, tho
 - **Definiteness:** The definite article (_en_, _et_) and demonstratives clearly mark specificity
 - **Agreement:** Adjectives agree with nouns in gender and number
 
-### Participles and Nominalizations
+### Verbs
 
-- Participles serve attributive and predicative functions; they readily nominalizes into agent nouns
-- Verbal nouns (infinitives) are exceptionally productive; derived nouns often govern the same arguments as their parent verbs
+Verbs do not change. Each verb has one form, and the particle _agu_ and the order of the clause carry the rest.
+
+### Agent nouns
+
+A word takes _-ar_ to name the one who does it or handles it: _tegul_, divide, gives _tegular_, the butcher; _lagath_, guard, gives _lagathar_, the keeper; _mazel_, measure, gives _mazelar_, the surveyor; and _zugel_, harpoon, gives _zugelar_, the harpooner.
 
 ## Script & Literacy
 
 Khelathi is written in two hands, and the division between them is one of trade rather than of style. The sacred hand belongs to the temple and the tomb; Qalezu belongs to the counting-house, the tax roll and the contract. A scribe is trained into one of them, and training in one does not confer the other, so a priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote the manifest cannot read the wall behind him. A temple record and a tax record are therefore two separate errands, each needing a reader of its own, and whether a Khelathi is literate is the wrong question to ask of him: the question is which hand he was taught.
 
-**Sacred Script ([[skill-khelthzscrpt|Khelathi-zethu Script]]):** The original writing system is hieroglyphic: about 150 signs, each standing for a concept, each drawn in two or three variants. Some signs also carry the consonants of the word they name and so spell words and names, and a sign set beside a word can show which word is meant. Certain signs carry a god's sense beside that god's name or in that god's temple, so a reading depends on context. This system is reserved for temple walls, royal monuments, and sacred texts; the difficulty of reading it in context keeps literacy the province of a trained priesthood.
+**Sacred Script ([[skill-khelthzscrpt|Khelathi-zethu Script]]):** The original writing system is hieroglyphic: about 470 signs, each standing for a concept, each drawn in two or three variants, about 1,100 drawn forms in all. Some signs also carry the consonants of the word they name and so spell words and names, and a sign set beside a word can show which word is meant. Certain signs carry a god's sense beside that god's name or in that god's temple, so a reading depends on context. This system is reserved for temple walls, royal monuments, and sacred texts; the difficulty of reading it in context keeps literacy the province of a trained priesthood.
 
 **Everyday Script ([[skill-qalzscrscrpt|Qalezu Script]]):** An alphabet of 24 signs, reduced directly from the hieroglyphs about 800 years ago for administrative use. Each consonant sign comes from a hieroglyph whose word begins with that consonant, and the signs are written apart with a reed on papyrus. Qalezu is significantly faster and is learned in a season by scribes and tax officials, and by factors and traders who deal with them.
 
@@ -749,9 +827,6 @@ The spoken vernaculars of contemporary Khelathi show considerable divergence fro
 Vowel Lengthening and Shortening
 : Classical long/short distinctions are becoming phonetically eroded
 
-Simplification of Verbal Morphology
-: Periphrastic constructions (auxiliary + infinitive) increasingly replace synthetic forms
-
 Lexical Borrowing
 : Trade languages, particularly maritime pidgins, have introduced numerous loanwords
 
@@ -762,7 +837,6 @@ Yet religious conservatism has resulted in Classical Khelathi being actively rei
 ### Khelathi Proper (Core Regions)
 
 - Closest to Classical Khelathi; the catch is kept at every seam
-- Verbal morphology remains elaborate
 - Stress patterns adhere to classical norms
 - Extensive ritualistic vocabulary related to temple and court
 
@@ -770,12 +844,11 @@ Yet religious conservatism has resulted in Classical Khelathi being actively rei
 
 - Moderate divergence from Classical Khelathi
 - The catch softens at the seams of compounds
-- Simplified verbal forms with greater use of auxiliaries
 - Specialized maritime and agricultural vocabulary
 
 ### Frontier Dialect (Border Regions & Trading Posts)
 
-- Extreme simplification of phonology and morphology
+- Extreme simplification of its sounds
 - Extensive code-switching with neighboring languages (particularly with Okharik and trade pidgins)
 - Loss of gender
 - Represents an early stage of creolization
@@ -935,6 +1008,32 @@ announces before he begins. A title is a construct like a body's name: the kind 
 work, _elu_, and the god, the ruler or the author it belongs to, as in _Zamlet elu
 Uqa'a_, a hymn of the sun-lord. The collective _-u_ makes a gathering of works, so
 a roll of hymns is _zamletu_.
+
+### Numbers
+
+The numerals are decimal: _lazen_ one, _khul_ two, _khemu_ three, _tuzar_ four, _chalen_ five, _chun_ six, _salet_ seven, _waqen_ eight, _qanu_ nine and _gerun_ ten, then _khen_ a hundred and _qalzun_ a thousand. A gezan is ten qelu, and a gold gezan is ten silver ones.
+
+```sql {layout=table}
+SELECT '`' || form || '`' AS "Numeral", gloss AS "Sense"
+FROM words WHERE language = 'thalorna-note-skill-khelathlng' AND field = 'Numbers' ORDER BY position
+```
+
+### Verbs
+
+The ten verbs are _mazel_ (measure, read off a gauge, a field or a river), _ghamuz_ (proclaim), _lekhath_ (bless), _qezir_ (strike, spear), _tegul_ (divide, share out), _nelgen_ (offer to a god), _qathez_ (seal), _muzan_ (build), _lagath_ (guard, keep) and _tazul_ (mourn). Each has the one form and no other.
+
+```sql {layout=table}
+SELECT '`' || form || '`' AS "Verb", gloss AS "Sense"
+FROM words WHERE language = 'thalorna-note-skill-khelathlng' AND field = 'Doing' ORDER BY position
+```
+
+### The hunt and its offices
+
+The sacred hunt of _Zeghet'Nelgu_ has its own words. The beasts are _zagul_ the crocodile, _igelzut_ the hippopotamus and _igelqat_ the river cat; the gear is _zugel_ a harpoon, _shenulet_ a net, _tulaz_ a bow and _shebigel_ a reed boat. _Nelgat_ is an offering and _nelgu_ a mighty one; _zeghetar_ is a hunter.
+
+An office is an agent in _-ar_ and, where it holds something, _elu_ and what it holds, as every construct does. The harpooner is _zugelar_ and the bearer is _tuqal_. The butcher of the offering is _tegular elu nelgat_, the one who divides the take. The keeper of the charter is _lagathar elu qathur_, and the scout of the marshes is _mazelar elu shebazet_, the same _mazelar_ that is a surveyor. The boat-steerer is the _igelar_, the boatman.
+
+Two more words belong to the counting-house and the tomb: _qemul_, a cubit, and _zelzin_, a coffin, the place of the soul.
 
 ### Retired names
 

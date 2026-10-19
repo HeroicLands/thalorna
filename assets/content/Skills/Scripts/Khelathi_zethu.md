@@ -3,7 +3,7 @@ shortcode: khelthzscrpt
 name: {full: Khelathi-zethu Script, aliases: [Sacred Script]}
 type: skill
 subType: script
-description: "The sacred signs of Au'Khelathu—about a hundred and fifty signs cut on temple walls, and the priestly monopoly that keeps their reading."
+description: "The sacred signs of Au'Khelathu—about four hundred and seventy signs cut on temple walls, and the priestly monopoly that keeps their reading."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
 sohl:
@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Khelathi-zethu is the sacred writing of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: a hieroglyphic script of about a hundred and fifty signs, each drawn as a small picture. Every sign stands for a **concept**, not a letter. Some signs, though not all, are also used for a **sound**: the consonants of the word the sign names, one, two or three of them, which is how words and names are spelled. A sign set beside a word can show which word or which kind of thing is meant, and the neighbouring signs, the wall and the setting decide the reading. Each sign is drawn in two or three variants, about four hundred drawn forms in all, and a variant is the same sign, not another word. What a sign means on a given wall depends on where it stands.
+Khelathi-zethu is the sacred writing of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: a hieroglyphic script of about four hundred and seventy signs, each drawn as a small picture. Every sign stands for a **concept**, not a letter. Some signs, though not all, are also used for a **sound**: the consonants of the word the sign names, one, two or three of them, which is how words and names are spelled. A sign set beside a word can show which word or which kind of thing is meant, and the neighbouring signs, the wall and the setting decide the reading. Each sign is drawn in two or three variants, about eleven hundred drawn forms in all, and a variant is the same sign, not another word. What a sign means on a given wall depends on where it stands.
 
 A character needs **both** Khelathi-zethu and [[skill-khelathlng|Khelathi Language]] to read it—and specifically **Classical Khelathi**, frozen in written form some twenty-three centuries ago and no longer the language anyone speaks.
 
@@ -46,7 +46,11 @@ The scribal schools teach the signs in sixteen groups, in this order:
 15. Cloth, crowns and adornment
 16. Strokes and figures
 
+**Direction.** Khelathi-zethu is written either right to left in lines or top down in columns. A sign that faces a direction faces the start of the line. A royal name is written inside an elongated oval of knotted cord, tied at the end of the name, and the oval stands upright in a column.
+
 **Variants.** The two or three variants of a sign differ in drawing, in the care taken and in the wall they are cut for. A scribe learns them as one sign.
+
+**The temple reliefs.** On a temple wall the [[lore-garauu|Gar-Au]] is shown presiding over the great works done under his charter, such as a sacred hunt, a harvest or a building, and omen birds are shown present. That is how a wall states that the work is lawful and favoured, whether or not the king stood there.
 
 **The gods' signs.** Certain signs belong to particular gods. Beside a god's name, or in a god's temple, such a sign carries that god's sense, and the same sign elsewhere carries its ordinary one. The reading follows the setting: the sign, the neighbouring signs, the wall and the god whose house it is.
 

@@ -58,7 +58,7 @@ Three counts run side by side in [[affiliation-empireakhlth|Au'Khelathu]], and a
 
 [[lore-geletssn|Gelet]], Emergence and Growing, follows as the water recedes. The silt it leaves behind is planted the moment it can be worked, and this is the season of the year's real agricultural labor.
 
-[[lore-sheluessn|Shelu]], the Harvest, closes the twelve months. Crops come in before the next flood, and the five days that follow belong to no month at all: the year's own reckoning is finished before the new one begins.
+[[lore-sheluessn|Shelu]], the Harvest and the season of low water, closes the twelve months. Crops come in before the next flood, and the five days that follow belong to no month at all: the year's own reckoning is finished before the new one begins.
 
 ## The Ages of the Count
 

@@ -40,7 +40,7 @@ data:
     - {name: "Qalezu", definition: "The everyday alphabet"}
     - {name: "Qet Telgu", definition: "The First Occasion, from which the temple chronicles count"}
     - {name: "qeztu", definition: "War, and the mercenaries' work-word"}
-    - {name: "Shelu", definition: "The harvest, third season of the year"}
+    - {name: "Shelu", definition: "The harvest, the season of low water, third season of the year"}
     - {name: "Zabu", definition: "A noble, the rank of one born or married into a titled house"}
     - {name: "Zelar", definition: "A commoner, the free rank of no house"}
     - {name: "Zulaten", definition: "The realm of the dead"}

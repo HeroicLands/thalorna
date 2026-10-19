@@ -14,7 +14,7 @@ data:
       depth: region
       sources: [lore-garauu, skill-khelthzscrpt, skill-khelathlng, affiliation-rethsaar]
       summary: >-
-        Under Zab'Uzner, the fifth Gar-Au of the First House, whose reign runs from 531 ST to 620 ST, the priesthood of Reth'Sa'ar fixes the sacred hand at about a hundred and fifty signs, with their variants and their order, and fixes the classical register of the language beside it. The king-list enters nothing of it, because it enters nothing of any reign in the First Tablets but a name, a length and the formula his deeds are the god's. The date comes from the age of the language itself, which the temple schools put at about twenty-three centuries before the present. Every temple inscription, tomb lintel and royal monument since is cut in the signs and the register this reign set.
+        Under Zab'Uzner, the fifth Gar-Au of the First House, whose reign runs from 531 ST to 620 ST, the priesthood of Reth'Sa'ar fixes the sacred hand at about four hundred and seventy signs, with their variants and their order, and fixes the classical register of the language beside it. The king-list enters nothing of it, because it enters nothing of any reign in the First Tablets but a name, a length and the formula his deeds are the god's. The date comes from the age of the language itself, which the temple schools put at about twenty-three centuries before the present. Every temple inscription, tomb lintel and royal monument since is cut in the signs and the register this reign set.
       standing: attested
       where:
         locus: [place-aukhelathrgq]
@@ -58,7 +58,7 @@ The [[lore-garauu|king-list]] enters nothing of it. [[lore-akhfirsttab|The First
 
 ## What Was Fixed
 
-**The signs.** About a hundred and fifty, each standing for a concept. Some are also used for the consonants of the word they name, and a sign set beside a word can show which word is meant, read by context. Each sign has two or three drawn variants, and the schools fixed those too. The signs fall into sixteen groups, taught in one order: men, women, gods and their attributes, the body, beasts, birds, river creatures, plants and grain, sky, sun and stars, land, water and the river, buildings, boats, tools, weapons and measures, vessels and offerings, cloth, crowns and adornment, and strokes and figures. No sign has been added since.
+**The signs.** About four hundred and seventy, each standing for a concept. Some are also used for the consonants of the word they name, and a sign set beside a word can show which word is meant, read by context. Each sign has two or three drawn variants, about eleven hundred drawn forms in all, and the schools fixed those too. The signs fall into sixteen groups, taught in one order: men, women, gods and their attributes, the body, beasts, birds, river creatures, plants and grain, sky, sun and stars, land, water and the river, buildings, boats, tools, weapons and measures, vessels and offerings, cloth, crowns and adornment, and strokes and figures. No sign has been added since.
 
 **The register.** The classical register of the language was frozen beside the signs, and it is the language of every great temple inscription. It stopped changing in the written word while the spoken language went on, so a scribe learns to read a language no one speaks. The priesthood has resisted every proposal to simplify the signs, because the class that reads them would stop being necessary.
 
