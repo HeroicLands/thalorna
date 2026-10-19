@@ -254,7 +254,7 @@ A pride has a firm rank order and divides its work, the females doing most of th
 
 ## What the Herding Clans Do
 
-The [[lore-nyalubaclt|Nyáluba]] clan of the [Ruwozi]{.name data-type="affiliation/lineage"} are the lion-clan, the cattle-herders of the central plains and the first among the five clans, and for them the [[lore-lionruwozispr|Lion Spirit]], their guide, is an ancestral presence and not only an animal. At the [Great Lubemo]{.name data-type="affiliation/governmental"} at [[place-hetolubemo|Heto Lubemo]] the [[affiliation-nyalblion|lion]] cult keeps the memory-song of the [Long Pact]{.name data-type="lore/law"}. Herders bring the cattle into a thorn cattle-fold at night and kindle fires, and a boy keeps watch on the roof of the hut. A lion that takes a man is hunted down by a party of spears. The forest-hunters of the [[lore-khelathiclt|Khelathi]] guild take lion in the savanna fringe.
+The [Ruwozi]{.name data-type="affiliation/lineage"} clan of the [[lore-nyalubaclt|Nyáluba]] are the lion-clan, the cattle-herders of the central plains and the first among the five clans, and for them the [[lore-lionruwozispr|Lion Spirit]], their guide, is an ancestral presence and not only an animal. At the [Great Lubemo]{.name data-type="affiliation/governmental"} at [[place-hetolubemo|Heto Lubemo]] the [[affiliation-nyalblion|lion]] cult keeps the memory-song of the [Long Pact]{.name data-type="lore/law"}. Herders bring the cattle into a thorn cattle-fold at night and kindle fires, and a boy keeps watch on the roof of the hut. A lion that takes a man is hunted down by a party of spears. The forest-hunters of the [[lore-khelathiclt|Khelathi]] guild take lion in the savanna fringe.
 
 ## Signs
 
