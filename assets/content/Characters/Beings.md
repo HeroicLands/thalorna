@@ -4,7 +4,7 @@ name: {full: Beings, aliases: []}
 type: doc
 subType: reference
 description: Every being across the lands of Thalorna and beyond—people, beasts, spirits, and monsters.
-tags:
+tags: []
 data: {banner: characterbnr}
 ---
 

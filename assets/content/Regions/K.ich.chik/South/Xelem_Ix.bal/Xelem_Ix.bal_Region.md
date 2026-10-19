@@ -5,7 +5,7 @@ type: place
 subType: region
 description: "Blasted rock, ash, ice and poisoned water—the forsaken wastes of Shelem Ish'bal at the southern end of Southern K'ich'chik."
 tags: [region]
-data: {demonym: null, lore, parents: [sthrnkchchk], population: null, packFolder: xelemixbal}
+data: {demonym: null, lore: [], parents: [sthrnkchchk], population: null, packFolder: xelemixbal}
 
 # terran_analog: Southern South America
 ---
