@@ -50,18 +50,18 @@ data:
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [borderselatu]
-  relations: {khelathpnthn: aligned, tjelsuk: aligned}
+  relations: {khelathpnthn: aligned, chelsuk: aligned}
   packFolder: regkhpol
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
 
-**The Selat of Iaqet-Leqa** is the dry, sun-burned garrison selat that lies behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], a country of wells and quarry-roads in the eastern desert. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. His patron is the crocodile-god [[lore-tjelsukdty|Tjelsur]], whose worship reaches from the eastern marsh to these desert wells, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-iaqetleqaslt|Iaqet-Leqa Selat]].
+**The Selat of Iaqet-Leqa** is the dry, sun-burned garrison selat that lies behind the desert march of [[place-khuqetmiglet|Khuqet-Miglet]], a country of wells and quarry-roads in the eastern desert. Its hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] commands the garrison, collects the selat's taxes and dispenses its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. His patron is the crocodile-god [[lore-chelsukdty|Chelsur]], whose worship reaches from the eastern marsh to these desert wells, and the selat's religious life runs through that cult's temples and their estates. The land he holds is [[place-iaqetleqaslt|Iaqet-Leqa Selat]].
 
 ## Character
 
-"Count your water, not your days," a sergeant of a quarry-road escort tells a recruit who has asked how long the stage to the next fort will take. The Halzi'a's first duty is the wells, because the quarry-roads that carry cut stone out of the hills run from one to the next and a gang that misses a well does not reach the following one. He is a garrison commander whose most important stores are water. His seat is [[place-iaqetleqa|Iaqet-Leqa]], where his court sits and the selat's chief temple of [[affiliation-tjelsuk|Tjelsur]] stands.
+"Count your water, not your days," a sergeant of a quarry-road escort tells a recruit who has asked how long the stage to the next fort will take. The Halzi'a's first duty is the wells, because the quarry-roads that carry cut stone out of the hills run from one to the next and a gang that misses a well does not reach the following one. He is a garrison commander whose most important stores are water. His seat is [[place-iaqetleqa|Iaqet-Leqa]], where his court sits and the selat's chief temple of [[affiliation-chelsuk|Chelsur]] stands.
 
 ## Commerce and Currency
 
@@ -78,7 +78,7 @@ Iaqet-Leqa uses the [[lore-aukhlthcrncy|Au'Khelathu currency]]. The [[affiliatio
 [[place-iaqetleqa|Iaqet-Leqa]]
 : Selat capital
 
-[[affiliation-tjelsuk|Faith of Tjelsur]]
+[[affiliation-chelsuk|Faith of Chelsur]]
 : Patron cult
 
 [[affiliation-garhalzi|Gar-Hálzi]]

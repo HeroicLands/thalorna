@@ -31,13 +31,13 @@ Grain goes to the granaries, labor to the canals and a share of everything to th
 
 ## Notable Features
 
-- [[place-tjegu|Tjegu]]—the selat capital and the Halzi'a's seat
+- [[place-chegu|Chegu]]—the selat capital and the Halzi'a's seat
 - The chief temple of the [[affiliation-hezmuiri|Faith of Hezmu'iri]] and its estates
 - The old burial-ground of the first dynasties, [[place-firsttablets|the Ground of the First Tablets]]
 
 ## Settlements
 
-Tjegu (~39,000)
+Chegu (~39,000)
 : the selat capital and the seat of the Halzi'a.
 
 The villages and estate-towns
@@ -51,7 +51,7 @@ The villages and estate-towns
 [[place-aukhelathrgq|Au'Khelathu Region]]
 : The enclosing region
 
-[[place-tjegu|Tjegu]]
+[[place-chegu|Chegu]]
 : Selat capital
 
 [[place-firsttablets|The Ground of the First Tablets]]

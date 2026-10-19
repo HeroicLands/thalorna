@@ -198,7 +198,7 @@ The spindlefiend's body is narrow and light, plated in deep gray or mottled brow
 
 ## In the Land
 
-The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of [[affiliation-hezmuiri|Hezmu'iri]] at [[place-tjegu|Tjegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
+The Ground of the First Tablets is low tombs of mudbrick and rough stone, some no more than mounds, some with a door sealed by a block and a lintel cut in the sacred hand, in rows along the desert edge, and the temple of [[affiliation-hezmuiri|Hezmu'iri]] at [[place-chegu|Chegu]] keeps watch over it with a thin guard. The spindlefiend lives in the tombs whose seals were broken long ago, and has strung their chambers, passages and the hollows under them with its webs. It hunts the jackals, foxes, owls and snakes that come into the tombs, and the tomb-robbers who come for the gold the oldest tombs do not have. It never goes down into the fields and never into daylight.
 
 ## Key Behaviors
 

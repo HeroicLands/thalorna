@@ -503,8 +503,8 @@ The [[affiliation-lutuznera|Lut-Uzn'era]]
 
 ### Enemies
 
-Young Servant [[being-amqelitefu2|Amqelitefu]]
-: A charming but lazy kitchen worker whose sloppiness Githiya has repeatedly corrected, creating mutual contempt. Amqelitefu spreads rumors that Githiya is cruel and joyless.
+Young Servant [[being-amqelifu2|Amqelifu]]
+: A charming but lazy kitchen worker whose sloppiness Githiya has repeatedly corrected, creating mutual contempt. Amqelifu spreads rumors that Githiya is cruel and joyless.
 
 The Competing Steward [[being-akhoqu|Akhoku]]
 : Another highly competent household manager working for a rival noble family, with whom Githiya competed years ago. Akhoku beat her for a prestigious position, and Githiya has never forgotten or forgiven.

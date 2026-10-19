@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [anlaghzetun]
-  affiliations: {empireakhlth: {rank: 2}, tjaqur: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, chaqur: {rank: 1}}
   gender: female
   species: humanflk
   born: 686.143
@@ -502,7 +502,7 @@ The City's Poor and Laboring Classes
 : Shegas's primary patrons, though they rarely pay in conventional coin. They repay her kindness with loyalty, gratitude, and protection. If anyone threatened Shegas, they would respond with fierce devotion.
 
 [The Temple of Chaq'ur]{.name data-type="affiliation"}
-: Though Shegas follows the [[affiliation-tjaqur|Faith of Chaq'ur]], worshipping [[lore-tjaqurdty|Chaq'ur]], the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
+: Though Shegas follows the [[affiliation-chaqur|Faith of Chaq'ur]], worshipping [[lore-chaqurdty|Chaq'ur]], the god of storms, the local temple occasionally sends patients to her and provides her with access to their herbalist's library and resources.
 
 Wealthy Merchants Seeking Discretion
 : A few affluent clients seek Shegas specifically because they trust her discretion and know she will never betray their confidences. These clients pay well and help sustain her practice.

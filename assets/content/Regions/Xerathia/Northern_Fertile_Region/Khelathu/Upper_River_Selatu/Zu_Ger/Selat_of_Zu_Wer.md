@@ -45,7 +45,7 @@ data:
         Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
-  seat: tjegu
+  seat: chegu
   population: 520000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
@@ -57,13 +57,13 @@ sohl: {system: {commonSkills: [khelathlng]}}
 
 ## Overview
 
-"The first dynasties buried their kings in that ground," a Lem'Nelgir of [[affiliation-hezmuiri|Hezmu'iri]] tells a pilgrim at [[place-tjegu|Tjegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the Great Land. Hezmu'iri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
+"The first dynasties buried their kings in that ground," a Lem'Nelgir of [[affiliation-hezmuiri|Hezmu'iri]] tells a pilgrim at [[place-chegu|Chegu]], nodding at the fields beyond the temple wall. "That is why the selat is called the Great Land. Hezmu'iri keeps the passage, and in [[place-zugernome|Zu-Ger]] he keeps the oldest of the dead."
 
 The Selat of Zu-Ger is one of the eighteen provinces of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 520,000 people live on its land, Zu-Ger. It is "the Great Land," an ancient royal selat and the old burial-ground of the first dynasties. The patron is [[lore-hezmuiridty|Hezmu'iri]], the Keeper of Transitions, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
-The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is Tjegu, where he keeps his court and the chief temple of Hezmu'iri stands.
+The [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] of Zu-Ger governs an ancient royal selat that holds the oldest dead of the empire in its ground. His seat is Chegu, where he keeps his court and the chief temple of Hezmu'iri stands.
 
 ## Commerce and Currency
 
@@ -77,7 +77,7 @@ Zu-Ger uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affiliatio
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : Imperial overview
 
-[[place-tjegu|Tjegu]]
+[[place-chegu|Chegu]]
 : Selat capital
 
 [[affiliation-hezmuiri|Faith of Hezmu'iri]]

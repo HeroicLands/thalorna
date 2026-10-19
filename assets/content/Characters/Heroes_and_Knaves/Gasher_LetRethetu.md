@@ -13,7 +13,7 @@ data:
   lore: []
   culture: khelathiclt
   homes: [galezkara]
-  affiliations: {empireakhlth: {rank: 2}, tjaqur: {rank: 1}}
+  affiliations: {empireakhlth: {rank: 2}, chaqur: {rank: 1}}
   gender: male
   species: humanflk
   born: 685.38
@@ -510,7 +510,7 @@ Minstrels' Guild of Au'Khelathu
 ## Plot Hooks
 
 The Lost Songs of the First Age
-: Gasher has been contacted by Lady [[being-legirigulu2|Legirigulu]], a reclusive scholar and priestess of [[affiliation-tjaqur|Chaq'ur]] who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by [[affiliation-zelqetu2|the Zelqetu]], a warband of desert nomads who brook no trespassers.
+: Gasher has been contacted by Lady [[being-legirgulu2|Legirgulu]], a reclusive scholar and priestess of [[affiliation-chaqur|Chaq'ur]] who claims to have discovered fragmentary references to the fabled songs of creation mentioned in the oldest temple texts, which belong to the First Age ([[lore-akhfirsttab|the First Tablets]]). She believes that if these songs could be recovered and performed in the correct sequence, they would awaken something ancient and powerful—though whether this power would be benevolent or catastrophic, she does not know. She has offered him a sum of gold and a map indicating the location of a sealed temple deep in the desert where these songs might yet be preserved. The problem: the temple is protected by wards and guardians that have not been tested in centuries, and it lies in territory claimed by [[affiliation-zelqetu2|the Zelqetu]], a warband of desert nomads who brook no trespassers.
 
 The Thief of Melodies
 : Gasher's greatest work, a song cycle he spent years composing called "[The Descent of Galezkara]{.name data-type="lore"}," has been stolen. A merchant caravan carrying his belongings while he traveled overland was ambushed, and all his notebooks and original compositions were taken. He has since learned that the pieces are being performed throughout the western provinces by an unknown musician claiming them as original work. Worse, this thief is a gifted performer—some who have heard both versions claim they prefer the thief's interpretations. Now Gasher must track down this mysterious rival.

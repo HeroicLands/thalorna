@@ -36,7 +36,7 @@ Gar-Anlaghet (~120,000)
 : a fishing-and-victualing town on a northern channel that supplies the great port with fish and crews and handles the lesser coasting-trade the big harbor cannot be bothered with.
 
 The channel villages
-: a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port, among them [[place-tjauthamegit|Tjautha-Megit]], [[place-garirezu|Gar-Irezu]], [Zma-Belgen]{.name data-type="place/settlement"} and [[place-gadjuzetji|Gadju-Zetji]], living by their boats, their nets and the custom of the great city.
+: a scatter of small fishing and ferry communities of 500–2,000 thread the marsh-channels around the port, among them [[place-chauthamegit|Chautha-Megit]], [[place-garirezu|Gar-Irezu]], [Zma-Belgen]{.name data-type="place/settlement"} and [[place-gadjuzechi|Gadju-Zechi]], living by their boats, their nets and the custom of the great city.
 
 ## See Also
 

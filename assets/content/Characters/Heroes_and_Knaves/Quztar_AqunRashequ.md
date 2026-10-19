@@ -489,8 +489,8 @@ Perfectionism That Borders on Obsession
 
 ### Patrons
 
-The [[affiliation-lutuznera|Lut-Uzn'era]], High Priestess [Amqelitana]{.name data-type="being/npc"}
-: The great temple dedicated to the deity of fertility and renewal has commissioned Kuztar for all major thatching work for the past three decades. Amqelitana views Kuztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
+The [[affiliation-lutuznera|Lut-Uzn'era]], High Priestess [Amqelina]{.name data-type="being/npc"}
+: The great temple dedicated to the deity of fertility and renewal has commissioned Kuztar for all major thatching work for the past three decades. Amqelina views Kuztar's work as a reflection of divine craftsmanship and insists that none other touch the temple's iconic roof.
 
 [[affiliation-linzegarmglt|Lin'Zegaru elu Miglet]]
 : A consortium of the region's most successful farming families maintains a standing agreement with Kuztar to maintain and repair the complex system of storage buildings, granaries, and shelters that form the backbone of their operation. They pay him an annual retainer that provides a measure of financial security.
@@ -500,8 +500,8 @@ Lord [[being-gezhtymnkhz2|Gezehutyu Menkhezerre]]
 
 ### Enemies
 
-[[being-khelosuefu|Khelosuefu]] the Innovator
-: A former student of Kuztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosuefu's work is adequate and his prices significantly lower, earning him the contracts Kuztar once would have assumed were his by right. Though no open conflict exists, Kuztar views Khelosuefu's success as a betrayal of the principles he taught, and Khelosuefu himself feels stung by Kuztar's public criticism of his methods.
+[[being-khelosufu|Khelosufu]] the Innovator
+: A former student of Kuztar's who broke away to establish his own practice using hybrid techniques combining traditional and newer methods. Khelosufu's work is adequate and his prices significantly lower, earning him the contracts Kuztar once would have assumed were his by right. Though no open conflict exists, Kuztar views Khelosufu's success as a betrayal of the principles he taught, and Khelosufu himself feels stung by Kuztar's public criticism of his methods.
 
 ### Affiliations
 

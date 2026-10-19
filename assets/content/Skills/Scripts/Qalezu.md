@@ -3,7 +3,7 @@ shortcode: qalzscrscrpt
 name: {full: Qalezu Script, aliases: []}
 type: skill
 subType: script
-description: "The people's hand of Au'Khelathu—a hundred running signs that took the empire's paperwork away from the temples."
+description: "The everyday alphabet of Au'Khelathu—twenty-four signs, reduced from the hieroglyphs, that took the empire's paperwork away from the temples."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
 sohl:
@@ -14,12 +14,12 @@ sohl:
     combatCategory: none
     parentSkillCode: script
     initSkillMult: 0
-  flags: {"thalorna": {script_family: Logographic}}
+  flags: {"thalorna": {script_family: Abjad}}
 ---
 
-Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] cut the seven hundred signs of [[skill-khelthzscrpt|Khelathi-zethu Script]] down to about a hundred, ran them together with ligatures for the common sequences, and learned to write them with a reed at speed. It is the same language underneath and a different skill entirely to read. The queen [Gith'el'Retha I]{.name data-type="being/npc"} sanctioned the cursive as the hand of the bureaus ([[lore-peopleshand|the People's Hand]]).
+Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] reduced the hieroglyphs of [[skill-khelthzscrpt|Khelathi-zethu Script]] directly to an alphabet of twenty-four signs, each consonant taken from a hieroglyph whose word begins with that consonant. The signs are written with a reed on papyrus, each standing apart from the next, and like the hieroglyphs they write consonants only. Qalezu is written from left to right. It is the same language underneath and a different skill entirely to read. The queen [Gith'el'Retha I]{.name data-type="being/npc"} sanctioned the alphabet as the hand of the bureaus ([[lore-qalezusanction|the Sanction of Qalezu]]).
 
-A character needs **both** Qalezu and [[skill-khelathlng|Khelathi Language]]; the people's register admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
+A character needs **both** Qalezu and [[skill-khelathlng|Khelathi Language]]; Qalezu admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
 
 ## What it is for
 
@@ -27,14 +27,10 @@ Everything that moves. Tax rolls and grain receipts, the tally-scribes' sealed b
 
 Every document carries a regnal date and often [[lore-qettelgu|the Qet Telgu]] era-count beside it, and every selat has an **Overseer of Scribes** whose office is to make sure the two agree.
 
-## The mercantile hand
-
-In the last century or two, merchants and reforming scholars have pushed a further reduction—a streamlined hand of twenty-four to thirty signs, near enough to a true alphabet that its partisans call it one. It is not standard, it is not taught in the temple schools, and it is spreading anyway, mostly in [[affiliation-deltaselatu|the Delta]] and along the Bethuan trade routes where [[affiliation-bthntrdhss|the Trade-Houses]] want something a foreign factor can be taught in a season.
-
 ## Who has it
 
-Professional scribes as a matter of course; tax officials; about one noble in five reads it, more than read the sacred script. Merchants and guildsmen mostly do not, and hire. A Khelathi scribe's literacy is a marketable trade, priced by the document, and the scribal families guard entry to it.
+An alphabet of twenty-four signs is learned in a season, and Bethuan factors and foreign traders in [[affiliation-deltaselatu|the Delta]] and along the Bethuan trade routes, where [[affiliation-bthntrdhss|the Trade-Houses]] deal with Khelathi bureaus, may learn it for their ledgers. Professional scribes and tax officials have it as a matter of course; about one noble in five reads it, more than read the sacred script. Merchants and guildsmen mostly do not, and hire. A Khelathi scribe's literacy is a marketable trade, priced by the document, and the scribal families guard entry to it.
 
 ## In play
 
-Qalezu is fast, cursive, ligatured and abbreviated, which makes it the classic **poor hand** of the Script rules: a clerk's daybook can be nearly opaque even to another clerk. It is also where the forgeries are, because it is where the money is. A character who reads Qalezu and not Khelathi-zethu—which is the ordinary case—can work through an entire archive of an estate and still be unable to read the dedication over its door.
+Qalezu is quick and plain, so a clerk's daybook is readable. Its difficulty is that it writes no vowels, so a reader must know the word, and abbreviations and a clerk's haste still make for **poor hands** under the Script rules. The forgeries remain where the money is. A character who reads Qalezu and not Khelathi-zethu—which is the ordinary case—can work through an entire archive of an estate and still be unable to read the dedication over its door.

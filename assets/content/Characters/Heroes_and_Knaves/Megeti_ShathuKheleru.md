@@ -429,7 +429,7 @@ Megeti stands 5'5" tall with a light build. She has ebony skin, deep black hair,
 
 Megeti was born into the merchant-class [Shapkher clan]{.name data-type="affiliation/lineage"}, known for their integrity in trade. Her father, a trader in fine linens, instilled in her an obsessive attention to detail and a belief that honesty was the only practice that lasts. At fourteen, she entered the service of a minor official in [The Imperial Treasury]{.name data-type="affiliation/governmental"}, initially as a scribe's assistant. Her gift for spotting inconsistencies became apparent within months, and she was promoted through the bureaucratic ranks with unusual swiftness.
 
-Over two decades, Megeti rose to the position of Senior Accountant and Principal Auditor, becoming the right hand of [[being-khelassetepu|Khelassetepu]], the current Treasury Minister. Her investigations have dismantled at least three major embezzlement rings, exposing corrupt officials whose families had occupied their posts for generations. She is said to hold secrets enough to bring down a third of the court, and she never destroys a ledger until its usefulness has been thoroughly extracted.
+Over two decades, Megeti rose to the position of Senior Accountant and Principal Auditor, becoming the right hand of [[being-khelassepu|Khelassepu]], the current Treasury Minister. Her investigations have dismantled at least three major embezzlement rings, exposing corrupt officials whose families had occupied their posts for generations. She is said to hold secrets enough to bring down a third of the court, and she never destroys a ledger until its usefulness has been thoroughly extracted.
 
 Today, Megeti works almost exclusively on the gravest audits and the quiet reordering of troubled accounts, trusted with the [[affiliation-empireakhlth|Empire of Au'Khelathu]]'s most guarded monetary secrets. Few dare cross her, and fewer still can match her in a game of numbers and inference.
 
@@ -483,7 +483,7 @@ Obsessive Tendency
 
 ### Patrons
 
-Khelassetepu, Treasury Minister
+Khelassepu, Treasury Minister
 : The powerful minister who discovered Megeti's talents and shields her from political enemies. Their partnership is mutually beneficial—she provides him the evidence to consolidate power, he provides her with protection and authority.
 
 [The Inspector General's Office]{.name data-type="affiliation/governmental"}
@@ -514,7 +514,7 @@ The Imperial Treasury
 ## Plot Hooks
 
 The Phantom Accounts
-: Megeti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khelassetepu himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Megeti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
+: Megeti discovers a set of ledgers within the Treasury itself showing transactions that do not appear in any official record. These accounts detail payments to unnamed entities totaling millions of dinars over the past five years. Investigation suggests that Khelassepu himself may be running a secret operation, though whether he is embezzling or acting under orders from someone higher in the imperial hierarchy is unclear. Megeti is caught between her loyalty to her patron, her obligation to truth, and the very real possibility that exposing this will make her a marked woman.
 
 The Auditor's Inheritance
 : When [[being-reqesehu|Reqesehu]] the Scribe, Megeti's former mentor and the only person she truly trusted, dies under suspicious circumstances, he leaves her a sealed package of documents. Inside, she finds evidence that she herself has been the subject of a parallel investigation for years. Someone in the Treasury believes she is falsifying records, and the evidence against her—though circumstantial—is compelling enough to destroy her reputation. Now Megeti must find who orchestrated this frame and why, while preventing her enemies from discovering that her perfect reputation has cracks.

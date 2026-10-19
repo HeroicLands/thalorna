@@ -90,7 +90,7 @@ So the gods are held to be present at the moments that bind people. They witness
 | ------------------- | -------------------------------- | ------------------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
 | Dreams              | [[lore-nehleatdty\|Nehle'at]]    | [[affiliation-nehleat\|Guardian of Night Visions]]      | {{< glyph slug="nehleat" frame="tablet" >}}  | [[affiliation-nehleat\|Faith of Nehle'at]]    |
 | Death               | [[lore-wethurdty\|Weth'ur]]      | [[affiliation-wethur\|Lord of Silent Passage]]          | {{< glyph slug="wethur" frame="tablet" >}}   | [[affiliation-wethur\|Faith of Weth'ur]]      |
-| Storms              | [[lore-tjaqurdty\|Chaq'ur]]      | [[affiliation-tjaqur\|Bringer of Tempests]]             | {{< glyph slug="tjaqur" frame="tablet" >}}   | [[affiliation-tjaqur\|Faith of Chaq'ur]]      |
+| Storms              | [[lore-chaqurdty\|Chaq'ur]]      | [[affiliation-chaqur\|Bringer of Tempests]]             | {{< glyph slug="chaqur" frame="tablet" >}}   | [[affiliation-chaqur\|Faith of Chaq'ur]]      |
 | Order               | [[lore-qearetdty\|Qe'aret]]      | **Keeper of Truth and Harmony**                         | {{< glyph slug="qearet" frame="tablet" >}}   | [[affiliation-qearet\|Faith of Qe'aret]]      |
 | Knowledge           | [[lore-rethsaardty\|Reth'Sa'ar]] | [[affiliation-rethsaar\|Scribe of the Eternal Library]] | {{< glyph slug="rethsaar" frame="tablet" >}} | [[affiliation-rethsaar\|Faith of Reth'Sa'ar]] |
 | Prosperity          | [[lore-thubaidty\|Thuba'i]]      | The [[affiliation-thubai\|Golden Reveler]]              | {{< glyph slug="thubai" frame="tablet" >}}   | [[affiliation-thubai\|Faith of Thuba'i]]      |
@@ -126,13 +126,13 @@ An ordinary person keeps every layer at once: the Twelve at the great festivals,
 | ------------------------------------------- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | [[affiliation-igelnaru\|Faith of Igelnaru]] | The river                      | The [[place-zumeleshrvr\|Zumelesh]] itself; the cult travels with the water                           |
 | [[affiliation-qeztu\|Faith of Qeztu]]       | War                            | Patron of four border selatu; the war-temple at [[place-balehen\|Balehen]]                            |
-| [[affiliation-tjelsuk\|Faith of Tjelsur]]   | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
+| [[affiliation-chelsuk\|Faith of Chelsur]]   | River-beasts                   | The eastern marsh, the desert wells, and the narrow gorge of the upper river                          |
 | [[affiliation-shebazet\|Faith of Shebazet]] | The marsh                      | The delta papyrus selat, whose reed-beds are the empire's paper                                       |
 | [[affiliation-pelgun\|Faith of Pelgun]]     | Fertility and the desert roads | The caravan-head of the eastern routes; harvest-festivals and virility cults                          |
 | [[affiliation-linhur\|Faith of Linhur]]     | The hunt                       | Paired with [[lore-linqurdty\|Linkur]] as the religious foundation of [[affiliation-garnuw\|Gar'Nuw]] |
 | [[affiliation-linqur\|Faith of Linkur]]     | The hunt                       | Paired with [[lore-linhurdty\|Linhur]]; neither temple's rite counts without the other                |
 
-Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-tjelsukdty|Tjelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igelnaru]] is held to govern the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
+Three of these show how the local cults work. [[lore-qeztudty|Qeztu]]'s strength is geographic rather than doctrinal: the war-god is patron of four of the ten border selatu and rare in the gentler valley, and his worship is strongest exactly where the empire's writ is thinnest. [[lore-chelsukdty|Chelsur]] carries the sharpest tension, because the crocodile is sacred to the god and is also the beast that takes farmers and children along the river, so the cull is a religious act before it is a commercial one. [[lore-igelnarudty|Igelnaru]] is held to govern the river and no province, so his cult has no patch of ground to sit on and travels with the water instead.
 
 ## The Cosmic Order
 

@@ -480,7 +480,7 @@ Dependence on Patrons
 
 ### Patrons
 
-Lord [[being-uqetirakugz2|Uqetiraku Gazemu]]
+Lord [[being-uqerakugz2|Uqeraku Gazemu]]
 : A wealthy master of many workshops and collector of fine arts who values Thamiyra as both companion and intellectual equal. He provides her with significant financial support and protection from those who might exploit her former scandal. Their relationship is perhaps her most stable, built on mutual respect rather than mere attraction.
 
 Lady [[being-themeritshl2|Themerit Shaluku]]

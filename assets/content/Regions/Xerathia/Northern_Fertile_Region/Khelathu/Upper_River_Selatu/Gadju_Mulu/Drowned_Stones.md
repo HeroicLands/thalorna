@@ -18,7 +18,7 @@ The marsh fishermen of [[place-gadjumuluslt|Gadju-Mulu]] pole their reed boats r
 
 ## What Is There
 
-Stone walls lie beneath the water in the southern marsh, inside the marsh country the Zeghet'Nelgu hold by charter. They are half-submerged: at the lowest water of the year the tops of two stand above the mud, and in the flood they are a hand's depth down and visible only on a still, bright morning. The faces carry rows of symbols that are not Khelathi. They are not the [[skill-khelthzscrpt|sacred hand]] or the people's hand or any script a scribe at [[place-khelunu|Khelunu]] can read, and no one in the temples has proposed what they say.
+Stone walls lie beneath the water in the southern marsh, inside the marsh country the Zeghet'Nelgu hold by charter. They are half-submerged: at the lowest water of the year the tops of two stand above the mud, and in the flood they are a hand's depth down and visible only on a still, bright morning. The faces carry rows of symbols that are not Khelathi. They are not the [[skill-khelthzscrpt|sacred hand]] or [[skill-qalzscrscrpt|Qalezu]] or any script a scribe at [[place-khelunu|Khelunu]] can read, and no one in the temples has proposed what they say.
 
 At night, lights move under the water along the lines of the walls. They are seen from a boat poled quietly and gone when it is poled nearer. Fishermen tell of them, the hunters have seen them, and the temples have not been told.
 

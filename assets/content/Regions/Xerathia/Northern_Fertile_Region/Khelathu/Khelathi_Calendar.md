@@ -88,7 +88,7 @@ An age shares its last year with the first year of the next, because the event t
 
 [[lore-akhrestcrown|The Restored Crown]] (1671 to 1990 ST) is the longest stretch of unity before [The Near Count]{.name data-type="lore/history"}. A house of the sun builds [[place-maguathen|Magu-Thelqen]] and rules from it for a generation, the same generation's venture to make the Okharik temple-cities tributary collapses, and sea-raiders take the throne in 1960 and hold it for thirty years.
 
-[[lore-akhcountmon|The Count of Months]] (1990 to 2281 ST) is the clerks' age: the king-list begins to give months, the people's hand is cut from the sacred one, and the delta's weigh-house rule and its homebound navy date from its opening.
+[[lore-akhcountmon|The Count of Months]] (1990 to 2281 ST) is the clerks' age: the king-list begins to give months, the bureaus' alphabet is reduced from the sacred hand, and the delta's weigh-house rule and its homebound navy date from its opening.
 
 [[lore-akhstruckhs|The Struck House]] (2281 to 2378 ST) is a century of six reigns, ending with the [[being-falseuqaa|False Uqa'a]]: the floods fail, the granaries are held shut, and the rising and the judgment of 2378 strike his house from every wall.
 

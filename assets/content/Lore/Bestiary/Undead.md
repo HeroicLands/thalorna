@@ -27,7 +27,7 @@ Wherever the dead are studied—by scholars, priests, physicians and arcanists, 
 
 The pairing is the lesson in two words: the one that _wears_, the one that is _driven_.
 
-In Au'Khelathu itself the words keep their temple spelling, _terebu_ and _damutu_, with the emphatic consonants the rest of the world dropped; the temple form is the word as Khelathi speak and write it, and it is invariant in number—one _terebu_, many _terebu_. _Tereb_ and _damut_ are what the rest of the world made of it: the world's plural, _terebu_ and _damutu_, is the Khelathi word heard without its emphatics, and the world's singular is a back-formation from that plural. At the table the vernacular plurals "terebs" and "damuts" are as correct as anyone needs them to be. The [[skill-khelathlng|Khelathi Language]] note carries both forms.
+In Au'Khelathu itself the words keep their temple form, _terebu_ and _dumatu_; the temple form is the word as Khelathi speak and write it, and it is invariant in number—one _terebu_, many _terebu_. _Tereb_ and _damut_ are what the rest of the world made of it: the world's plural, _terebu_ and _damutu_, is the Khelathi word as foreign ears set it down, and the world's singular is a back-formation from that plural. At the table the vernacular plurals "terebs" and "damuts" are as correct as anyone needs them to be. The [[skill-khelathlng|Khelathi Language]] note carries both forms.
 
 ### Folk names
 

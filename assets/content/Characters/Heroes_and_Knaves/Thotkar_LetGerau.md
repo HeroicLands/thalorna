@@ -492,7 +492,7 @@ Compulsive Perfectionism
 
 ### Patrons
 
-Priestess [[being-amqelitana2|Amqelitana]]
+Priestess [[being-amqelina2|Amqelina]]
 : High priestess of Reth'Sa'ar's temple and a fellow scholar of law and wisdom; she has become both spiritual advisor and patron, commissioning Thotkar to defend temple interests and consulting with him on matters of religious jurisprudence.
 
 The Widow [[being-zabuia2|Zabuia]]
@@ -501,7 +501,7 @@ The Widow [[being-zabuia2|Zabuia]]
 Lord Magistrate [[being-khelamasamuq|Khelama]]
 : The city's principal judicial authority who respects Thotkar deeply; though officially neutral, Khelama consistently favors Thotkar in scheduling and procedural matters, and regularly consults him on questions of legal interpretation.
 
-Master Scribe [[being-zeshelegezu2|Zeshelegezu]]
+Master Scribe [[being-zeshegezu2|Zeshegezu]]
 : A former rival who has come to respect Thotkar's intellect; they maintain a collegial relationship and occasionally collaborate on legal matters of particular complexity.
 
 ### Enemies

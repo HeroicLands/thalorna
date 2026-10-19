@@ -48,7 +48,7 @@ data:
   relations:
     linhur: aligned
     linqur: aligned
-    tjelsuk: aligned
+    chelsuk: aligned
     zeghetnelgu: aligned
     garmelnu: aligned
 sohl: {system: {commonSkills: []}}

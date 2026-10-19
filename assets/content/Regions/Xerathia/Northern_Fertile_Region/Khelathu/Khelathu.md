@@ -108,7 +108,7 @@ The temple teachers divide [[lore-qettelgu|the Qet Telgu]] into ages, each opene
 - [[lore-akhsunroad|The Sun's Road]] (1006 to 1390 ST): [[lore-crossmound|the Crossing to the Mound]], the axis of [[place-galezkara|Galezkara]] and the necropolis of [[place-zugezer|Zu-Gezer]].
 - [[lore-akhdivriver|The Divided River]] (1390 to 1671 ST): [[lore-thronelnz|the Throne at Lenen-Nezut]], [[lore-twothrones|the War of the Two Thrones]], and [[lore-thaulgau|the Coming of the Tha'Ulgau]], which left [[place-zelhalzi|Zel-Halzi]], the first blood-field in Khelathi memory.
 - [[lore-akhrestcrown|The Restored Crown]] (1671 to 1990 ST): [[lore-sunhouse|the Sun-House at Magu-Thelqen]], [[lore-templetrib|the Tribute of the Temple-Cities]] and [[lore-searaiders|the Sea-Raiders' Throne]].
-- [[lore-akhcountmon|The Count of Months]] (1990 to 2281 ST): [[lore-seahouse|the Closing of the Sea House]] and [[lore-peopleshand|the People's Hand]].
+- [[lore-akhcountmon|The Count of Months]] (1990 to 2281 ST): [[lore-seahouse|the Closing of the Sea House]] and [[lore-qalezusanction|the Sanction of Qalezu]].
 - [[lore-akhstruckhs|The Struck House]] (2281 to 2378 ST): [[lore-failfloods|the Failing Floods]], [[lore-sealedgran|the Battle of the Sealed Granaries]] and [[lore-judgfalseuq|the Judgment of the False Uqa'a]].
 - [[lore-akhpriestthr|The Priests' Thrones]] (2378 to 2580 ST): [[lore-eastroad|the Storm on the Eastern Road]], [[lore-vylconquest|the Vylarian Conquest]] and [[lore-foreignhs|the Closing of the Foreign House]].
 - [[lore-akhhsmeqes|The House of Meqes]] (2580 ST to the present): [[lore-childfloods|the Child of Three Floods]], [[lore-greatremovl|the Great Removal]] and [[lore-bethuasep|the Separation of Bethua]].

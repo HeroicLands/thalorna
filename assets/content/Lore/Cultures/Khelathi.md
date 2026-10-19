@@ -37,7 +37,7 @@ data:
     - {name: "lemzabu", definition: "A great house's steward"}
     - name: "near name"
       definition: "The given name broken off after its second vowel, used only by those a tie already binds"
-    - {name: "Qalezu", definition: "The people's hand"}
+    - {name: "Qalezu", definition: "The everyday alphabet"}
     - {name: "Qet Telgu", definition: "The First Occasion, from which the temple chronicles count"}
     - {name: "qeztu", definition: "War, and the mercenaries' work-word"}
     - {name: "Shelu", definition: "The harvest, third season of the year"}
@@ -74,7 +74,7 @@ The flood erases every boundary stone in the valley once a year, so surveyors wa
 
 ## Which Hand a Man Was Taught
 
-The Khelathi write in two hands and a scribe is trained into one of them: the sacred hand belongs to the temple and the tomb, the people's hand to the counting-house, the tax roll and the contract. Training in one confers nothing whatever in the other. A priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote that manifest cannot read the wall behind him.
+The Khelathi write in two hands and a scribe is trained into one of them: the sacred hand belongs to the temple and the tomb, Qalezu to the counting-house, the tax roll and the contract. Training in one confers nothing whatever in the other. A priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote that manifest cannot read the wall behind him.
 
 So the useful question about a stranger is never whether he is literate—it is which hand he was taught, and the answer places him at once as temple or trade, wall or ledger. A man who reads both is either very senior or under suspicion.
 
@@ -108,7 +108,7 @@ The distinction is legal, not decorative. A house name asserts a claim—to land
 
 Names are sacred utterances and a priest bestows them. A second name, known to the bearer and the priesthood alone, is held to confer protection, and striking a name from the records is the heaviest sentence short of death—every temple and every selat keeps the rank of Name Struck for exactly that purpose.
 
-A long given name also has a shorter one, and you should wait to be offered it. The near name is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlagherhafu|Anlagherhafu]] is Anla to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and [[lore-readingweigh|The Reading at the Weighing]] never speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thaz'Lekhau Anlagherhafu, never Thaz'Lekhau Anla.
+A long given name also has a shorter one, and you should wait to be offered it. The near name is the given name broken off after its second vowel, the voice holding that vowel where the rest would be, so the high priest [[being-anlaghafu|Anlaghafu]] is Anla to his own household. It belongs to the people a tie already binds—kin, the household, neighbors, the master an apprentice lives beside—who are exactly the people whose promises to one another go unwritten, and it goes unwritten too: neither hand can carry a word that stops short, so no tablet holds a near name and [[lore-readingweigh|The Reading at the Weighing]] never speaks one. A stranger who uses it is claiming a tie he does not have. Until you are given it, say the whole name, and after a title always the whole name—Thaz'Lekhau Anlaghafu, never Thaz'Lekhau Anla.
 
 ## Two Ledgers
 

@@ -51,10 +51,10 @@ Every essential fact has more than one source. What the party misses in one scen
 
 | Clue                                                                                                                       | Where it is found                                     | First reading                               | Second reading                                                                         |
 | -------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------- | ------------------------------------------- | -------------------------------------------------------------------------------------- |
-| The steward asks for the temple's receipt: one short line in the people's hand under a block in the sacred hand            | Scene One, at the gate                                | A formality for the records                 | A character who reads only the people's hand has signed a witnessing                   |
+| The steward asks for the temple's receipt: one short line in Qalezu under a block in the sacred hand                       | Scene One, at the gate                                | A formality for the records                 | A character who reads only Qalezu has signed a witnessing                              |
 | The temple's seal makes him eager, and he reads the bearers' names twice                                                   | Scene One, when the letter is presented               | Respect for the temple                      | The letter makes the party's witness count as the temple's, and he is learning names   |
 | The temple letter's seal has been lifted with a warm blade and pressed down again                                          | Scene One or Two, in a pack, for a party that kept it | Someone curious read the party's business   | He took the names from it                                                              |
-| Seven releases in the people's hand, each with its witness line empty                                                      | Scene Two, the record room                            | Forgeries waiting for a fool to sign        | They need living strangers, and the party is the only kind left                        |
+| Seven releases in Qalezu, each with its witness line empty                                                                 | Scene Two, the record room                            | Forgeries waiting for a fool to sign        | They need living strangers, and the party is the only kind left                        |
 | The newest tablet opens an entry for _travelers come by the canal_, with the party's count and the names blank             | Scene Two, the record room                            | He means to kill them, and has counted them | It is the witness entry, and the names come next                                       |
 | On a second look the witness lines and the travelers' tablet carry the party's names, copied in the steward's careful hand | Scene Three, the jar in the guest chamber             | The house has marked its next dead          | The party has witnessed every release on the shelf                                     |
 | "Their mouths will be closed only at the very end"                                                                         | Scene Three, the steward in the passage               | They will be killed and raised              | They will be sewn so they can never disown what they witnessed                         |
@@ -125,8 +125,8 @@ Read or paraphrase this as the skiff grounds:
 
 **Player choices.**
 
-- _Present the letter._ The temple's seal changes his manner. He becomes eager to help, reads the bearers' names twice over, and offers the records that very evening. Then he asks for the temple's receipt, and holds out the tablet from the stand with the pen already inked: one short line in the people's hand under a block in the sacred hand. A character who reads only the people's hand sees an acknowledgment that the temple's agents were received.
-- _Accept._ The party walks in and the gate closes behind it. The steward shows them the guest chamber, the well and the record room, and asks whether one of them reads the people's hand.
+- _Present the letter._ The temple's seal changes his manner. He becomes eager to help, reads the bearers' names twice over, and offers the records that very evening. Then he asks for the temple's receipt, and holds out the tablet from the stand with the pen already inked: one short line in Qalezu under a block in the sacred hand. A character who reads only Qalezu sees an acknowledgment that the temple's agents were received.
+- _Accept._ The party walks in and the gate closes behind it. The steward shows them the guest chamber, the well and the record room, and asks whether one of them reads Qalezu.
 - _Refuse and camp at the skiff._ The steward bows and leaves them a water jar. At dusk the attendants come down the stair, light their lamps and stand round the skiff at a little distance, facing it, until dawn. The house holds the only water.
 - _Look before entering._ A character who skirts the wall toward the cliff sees the tomb galleries, the offering tables bare and dusty, and the drain mouths in the basin wall, each big enough for a crawling man, with a dark crust on their lips.
 - _Force._ The gate is bronze on a bar and the wall is twice a man's height. The steward does not resist an entry. He is grieved by it, and he remembers it.
@@ -153,7 +153,7 @@ Read or paraphrase this as the skiff grounds:
 
 **NPCs and threats.**
 
-- Gezuhati. Before he leaves, he asks a favor of the party. A few household releases want a witness, and a stranger with no tie to the house is the proper witness for them. He sets the tablets out, with a reed pen, and asks a character who reads the people's hand to set his name beneath them. He is patient about it and comes back to it more than once.
+- Gezuhati. Before he leaves, he asks a favor of the party. A few household releases want a witness, and a stranger with no tie to the house is the proper witness for them. He sets the tablets out, with a reed pen, and asks a character who reads Qalezu to set his name beneath them. He is patient about it and comes back to it more than once.
 - Thakete. A young bondswoman of the household, alive, gray-faced and thin, hidden among the wrapped bodies on the preparation room's shelves with a bundle of linen pulled over her. She has not been sewn. She has been fed on: she tires walking across a room. She is terrified of the steward and of being heard.
 - **The attendant in the doorway.** It watches. It does not stop anyone reading. It turns its head to follow any character who goes into the passage.
 
@@ -162,7 +162,7 @@ Read or paraphrase this as the skiff grounds:
 
 **Player choices.**
 
-- _Read the records._ The burial records are in the sacred hand and the releases in the people's hand. A character trained in one reads only half, and the party has to put the halves together. The halves show seven deaths in the last few years, each one somebody the party met on the stair, with its own closing release of the steward written beside it, and beneath each release an empty line for a witness.
+- _Read the records._ The burial records are in the sacred hand and the releases in Qalezu. A character trained in one reads only half, and the party has to put the halves together. The halves show seven deaths in the last few years, each one somebody the party met on the stair, with its own closing release of the steward written beside it, and beneath each release an empty line for a witness.
 - _Witness the releases._ A character who signs sets his own name beneath the steward's work. It counts for something in Scene Four.
 - _Refuse to witness._ The steward accepts the refusal with perfect courtesy and does not ask again. He has no need to.
 - _Open the preparation room._ The lock is new and good. A character can pick it while the attendant's attention is drawn off, or break it noisily, or find the key on the steward's seal-cord, which is a matter of getting close to him.

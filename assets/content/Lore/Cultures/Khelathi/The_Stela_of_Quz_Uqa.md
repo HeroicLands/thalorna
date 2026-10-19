@@ -202,7 +202,7 @@ _\[Two rows flaked away.\]_
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 _\[In the thirty-seventh row, in a fine small sacred hand that does not reach the edge of the space:\]_
-**Zapse ez Tjegu**. Went down to the West on this ground.
+**Zapse ez Chegu**. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
@@ -229,7 +229,7 @@ _\[The end of the name above fills this space.\]_ ez ———. Went down to the
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
-_\[In the sixty-third row, scratched in the people's hand with a point, the newest:\]_
+_\[In the sixty-third row, scratched in Qalezu with a point, the newest:\]_
 **Lefta ez Iqeru**. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
@@ -257,7 +257,7 @@ Finished, in good order, as far as the stone goes.
 
 Each [[lore-geletssn|Gelet]], on the night of the rout, a priest of [[affiliation-hezmuiri|Hezmu'iri]] from Lenen-Nezut stands at the foot of the stone with a lamp and holds the Reading for the unnamed. He reads the columns from the top, the heading, the titles, the deeds and the count, and then the rows: at each row he reads the formula, and at the five rows that carry a name he reads the name. The surveyors of Lenen-Nezut walk every field of the selat that season and do not walk this one; a rod staked on it overnight is found moved in the morning, and they do not stake one twice. The road bends round the field at the stone, and the villages on its edge shut their doors on the field's side after dark.
 
-The five names came from [[place-iqu|Iku]], [[place-gau|Gau]], [[place-tjegu|Tjegu]], [[place-zelqar|Zel-Qar]] and [[place-iqeru|Iqeru]], brought by families who could prove that a man of theirs had marched with the army of Galezkara and had not come home. Each was cut by a different hand, after a Reading at the stone closed on it, and the newest is scratched in [[lore-peopleshand|the People's Hand]], which did not exist when the stone was cut. The Halzi'a house of [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the conquerors' kin, settled on the western pastures of [[place-zuqeztunome|Zu-Qeztu]] when the hill house closed ([[lore-hillhouse|the Closing of the Hill House]]), rides in from [[place-zileti|Zileti]] each Gelet with an offering and no escort and sets it at the edge of the field below the stone. Nobody has dug for the lower half.
+The five names came from [[place-iqu|Iku]], [[place-gau|Gau]], [[place-chegu|Chegu]], [[place-zelqar|Zel-Qar]] and [[place-iqeru|Iqeru]], brought by families who could prove that a man of theirs had marched with the army of Galezkara and had not come home. Each was cut by a different hand, after a Reading at the stone closed on it, and the newest is scratched in Qalezu, which did not exist when the stone was cut. The Halzi'a house of [Tha'Ulgau]{.name data-type="affiliation/lineage"}, the conquerors' kin, settled on the western pastures of [[place-zuqeztunome|Zu-Qeztu]] when the hill house closed ([[lore-hillhouse|the Closing of the Hill House]]), rides in from [[place-zileti|Zileti]] each Gelet with an offering and no escort and sets it at the edge of the field below the stone. Nobody has dug for the lower half.
 
 ## See Also
 

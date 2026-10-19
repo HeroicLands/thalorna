@@ -3,7 +3,7 @@ shortcode: sacredhand
 name: {full: The Fixing of the Sacred Hand, aliases: [The Fixing of the Signs]}
 type: lore
 subType: history
-description: "About 540 ST (1571 BF), in the reign of the fifth Gar-Au, the priesthood of Reth'Sa'ar fixes the seven hundred signs of the sacred hand and the classical register of the language, and every temple inscription since is cut in them."
+description: "About 540 ST (1571 BF), in the reign of the fifth Gar-Au, the priesthood of Reth'Sa'ar fixes the signs of the sacred hand, their variants and their order, and the classical register of the language, and every temple inscription since is cut in them."
 tags: [history, khelathu]
 data:
   culture: khelathiclt
@@ -14,14 +14,14 @@ data:
       depth: region
       sources: [lore-garauu, skill-khelthzscrpt, skill-khelathlng, affiliation-rethsaar]
       summary: >-
-        Under Zab'Uzner, the fifth Gar-Au of the First House, whose reign runs from 531 ST to 620 ST, the priesthood of Reth'Sa'ar fixes the sacred hand at about seven hundred signs and fixes the classical register of the language beside it. The king-list enters nothing of it, because it enters nothing of any reign in the First Tablets but a name, a length and the formula his deeds are the god's. The date comes from the age of the language itself, which the temple schools put at about twenty-three centuries before the present. Every temple inscription, tomb lintel and royal monument since is cut in the signs and the register this reign set.
+        Under Zab'Uzner, the fifth Gar-Au of the First House, whose reign runs from 531 ST to 620 ST, the priesthood of Reth'Sa'ar fixes the sacred hand at about a hundred and fifty signs, with their variants and their order, and fixes the classical register of the language beside it. The king-list enters nothing of it, because it enters nothing of any reign in the First Tablets but a name, a length and the formula his deeds are the god's. The date comes from the age of the language itself, which the temple schools put at about twenty-three centuries before the present. Every temple inscription, tomb lintel and royal monument since is cut in the signs and the register this reign set.
       standing: attested
       where:
         locus: [place-aukhelathrgq]
         reach:
           - place: place-khelunu
             how: >-
-              the scribal schools keep the seven hundred signs and teach no others
+              the scribal schools keep the fixed signs in their fixed order and teach no others
             knowledge: named
           - place: place-chenosolis
             how: >-
@@ -58,7 +58,7 @@ The [[lore-garauu|king-list]] enters nothing of it. [[lore-akhfirsttab|The First
 
 ## What Was Fixed
 
-**The signs.** About seven hundred, of three kinds: logograms that stand for whole words, phonetic signs that spell consonant clusters, and determinatives that carry no sound and tell the reader which word is meant. Two or three hundred are in common use now, and the rest are the reason a temple keeps old scribes. No sign has been added since.
+**The signs.** About a hundred and fifty, each standing for a concept. Some are also used for the consonants of the word they name, and a sign set beside a word can show which word is meant, read by context. Each sign has two or three drawn variants, and the schools fixed those too. The signs fall into sixteen groups, taught in one order: men, women, gods and their attributes, the body, beasts, birds, river creatures, plants and grain, sky, sun and stars, land, water and the river, buildings, boats, tools, weapons and measures, vessels and offerings, cloth, crowns and adornment, and strokes and figures. No sign has been added since.
 
 **The register.** The classical register of the language was frozen beside the signs, and it is the language of every great temple inscription. It stopped changing in the written word while the spoken language went on, so a scribe learns to read a language no one speaks. The priesthood has resisted every proposal to simplify the signs, because the class that reads them would stop being necessary.
 
@@ -66,7 +66,7 @@ The [[lore-garauu|king-list]] enters nothing of it. [[lore-akhfirsttab|The First
 
 ## What It Left
 
-- **The prestige register.** The classical register is still the language of temples, tombs and royal monuments, and the sacred script is read with it. The people's hand cut down from it ([[lore-peopleshand|the People's Hand]]) is the bureaus' tool and not the god's.
+- **The prestige register.** The classical register is still the language of temples, tombs and royal monuments, and the sacred script is read with it. Qalezu, the bureaus' alphabet reduced from it ([[lore-qalezusanction|the Sanction of Qalezu]]), is the bureaus' tool and not the god's.
 - **The oldest inscriptions.** The records the earliest astrologers keep at [[place-chenosolis|Chenosolis]] and the star maps they cut into the stones of [[place-beshakan|Beshakan]] are written in the fixed hand.
 - **The scribal schools.** Khelunu and the temple of Reth'Sa'ar keep the signs, the king-lists and the calendar tables, and every scribe who rises takes his schooling in the signs as that reign closed them.
 - **A warded script.** Because the working lives in the glyph, a robber who reads the lintel of a tomb is reading the ward as well.
@@ -82,5 +82,5 @@ The [[lore-garauu|king-list]] enters nothing of it. [[lore-akhfirsttab|The First
 [[lore-rethsaardty|Reth'Sa'ar]] · [[affiliation-rethsaar|Faith of Reth'Sa'ar]]
 : the god and the priesthood that fixed it
 
-[[lore-peopleshand|The People's Hand]]
-: the cursive cut from it
+[[lore-qalezusanction|The Sanction of Qalezu]]
+: the alphabet reduced from it

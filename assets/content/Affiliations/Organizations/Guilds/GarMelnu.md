@@ -73,7 +73,7 @@ Every blade an imperial soldier carries, every scale on a temple guard's armor a
 
 Civilian metalwork is the larger business by volume: plowshares, cooking vessels, hinges, tools, and the bronze and copper goods of daily life. The guild's prestige and political weight come from its near-monopoly on weapons and armor.
 
-The name is the oldest claim the guild makes. The **Mesnu** were the legendary smith-warriors who, in the founding mythology of Au'Khelathu, forged the harpoons with which Gewa'atis slew the followers of [[lore-tjaqurdty|Chaq'ur]]. They were both metalsmiths and ritual warriors, and Gar'Melnu inherits both halves of that legacy. A master smith is an initiate of the [[affiliation-gewaatis|Faith of Gewa'atis]] and the [[affiliation-psaqaru|Faith of Saq'aru]], sworn at his elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is punished by the guild and is also treated by the temples as having committed sacrilege.
+The name is the oldest claim the guild makes. The **Mesnu** were the legendary smith-warriors who, in the founding mythology of Au'Khelathu, forged the harpoons with which Gewa'atis slew the followers of [[lore-chaqurdty|Chaq'ur]]. They were both metalsmiths and ritual warriors, and Gar'Melnu inherits both halves of that legacy. A master smith is an initiate of the [[affiliation-gewaatis|Faith of Gewa'atis]] and the [[affiliation-psaqaru|Faith of Saq'aru]], sworn at his elevation to standards of work that the guild treats as religious obligations. A master who falsifies a weapon's grade is punished by the guild and is also treated by the temples as having committed sacrilege.
 
 ## Joining and Rising
 

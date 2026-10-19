@@ -32,11 +32,11 @@ Luxury agriculture is the whole of its economy. The selat grows and processes th
 Gau (~45,000)
 : the selat capital, an old, prosperous market-and-temple town set back a little from the coast; the great temple of Uzn'era, the produce-markets where the orchard harvest is bought and shipped, and the administrative seat of the Halzi'a.
 
-[[place-tjezu|Tjezu]] (~12,000)
+[[place-chezu|Chezu]] (~12,000)
 : a coastal wine-town among the western vineyards; its presses and cellars produce the most prized vintages in the empire, and its little harbor ships them straight to [[place-garanlaghet|Gar-Anlaghet]] and beyond.
 
 The orchard villages
-: dozens of small farm-and-press communities of 500–2,500 dot the garden strip, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmatjezu|Zma-Tjezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], each tending its groves and vines and sending oil, wine and fruit to the market-towns.
+: dozens of small farm-and-press communities of 500–2,500 dot the garden strip, among them [[place-gariuget|Gar-Iuget]], [[place-lutlegiru|Lut-Legiru]], [[place-zmachezu|Zma-Chezu]], [[place-yathkhelenet|Yath-Khelenet]] and [[place-garshelu|Gar-Shelu]], each tending its groves and vines and sending oil, wine and fruit to the market-towns.
 
 ## See Also
 

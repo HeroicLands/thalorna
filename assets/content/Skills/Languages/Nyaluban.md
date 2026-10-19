@@ -680,7 +680,7 @@ The language readily incorporates objects and modifiers directly into verbal and
 **Recent Written Systems:** In the last 300-400 years, contact with neighboring writing systems has led to sporadic attempts to write Nyáluban. Two systems have emerged:
 
 Syllabic Adaptation
-: Some scholars have adapted the scripts of neighboring peoples—chiefly [[skill-qalzscrscrpt|Qalezu Script]] and the voweled [[skill-okhthztscrpt|Okhatha-zethu Script]]—to represent Nyáluban on syllabic principles. This has met with limited adoption.
+: Some scholars have adapted the scripts of neighboring peoples to represent Nyáluban: the [[skill-qalzscrscrpt|Qalezu]] alphabet, and the voweled [[skill-okhthztscrpt|Okhatha-zethu Script]] on syllabic principles. This has met with limited adoption.
 
 Phonetic Innovations
 : Merchants and some educated individuals have experimented with phonetic systems (approaching alphabetic principles) to record contracts, names, and trade information. These remain marginal.

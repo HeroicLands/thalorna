@@ -1,0 +1,39 @@
+---
+shortcode: azunmtkhlfr
+name: {full: Azunmat Khelafiru, aliases: []}
+type: being
+subType: npc
+description: "Steersman of the Zeghet'Nelgu and leader of the sacred hunt, holding a company that the temple priesthood would rather see disbanded"
+tags: [generated, draft]
+data:
+  icon: icon-person
+  templatePriority: null
+  archetypes: [mariner]
+  occupation: "Steersman of the Zeghet'Nelgu"
+  lore: []
+  culture: khelathiclt
+  homes: [galezkara]
+  affiliations: {}
+  gender: "female"
+  species: humanflk
+  born: "678.120"
+  died: null
+  height: 5' 10"
+  weight: 154 lbs
+  frame: medium
+  appearance:
+    eye_color: dark_brown
+    hair_color: black
+    skin_color: dark_brown
+    complexion: [weathered]
+    extra_features: []
+  packFolder: regkhfolk
+---
+
+# Appearance {#appearance}
+
+Azunmat Khelafiru is a 42-year-old woman who stands 5'10" tall with a medium build. She has dark brown skin, weathered complexion, black hair, and dark brown eyes.
+
+# Dossier {#dossier}
+
+Azunmat Khelafiru steers for the [[affiliation-zeghetnelgu|Zeghet'Nelgu]] out of [[place-galezkara|Galezkara]] and leads the sacred hunt itself. The company under this leadership is one the temple priesthood would rather see disbanded than renewed. Anyone measuring the hunt's standing with the temple starts with that disagreement. The byname she carries, Khelafiru, is the name the oldest servants of the necropolis whisper for the [[being-falseuqaa|False Uqa'a]] ([[lore-judgfalseuq|the Judgment of the False Uqa'a]]); the law does not forbid it, and it draws a second look wherever the temple hears it.

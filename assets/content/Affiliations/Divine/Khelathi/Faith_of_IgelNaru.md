@@ -44,7 +44,7 @@ data:
   economy: []
   lore: [igelnarudty]
   parents: [khelathpnthn]
-  relations: {khelathpnthn: aligned, zeghetnelgu: aligned, tjelsuk: aligned}
+  relations: {khelathpnthn: aligned, zeghetnelgu: aligned, chelsuk: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---

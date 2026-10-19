@@ -40,13 +40,13 @@ The copy rendered here is the one the clubs use. Where the tale quotes a documen
 
 This is the telling of how it was with Gezerker, a scribe of the rolls, in the years of the struck one, and after.
 
-He was of a street in Gar-Qethar, on the low ground, two doors from the granary quays. His mother's house put him into the school of the bureaus at seven and went hungry to keep him there, which is what a scribe costs, and he came out of it with the people's hand and a place at the fourth counter of the House of Records, where the tax rolls of the [[affiliation-capitalselat|Capital Selat]] are kept. He could not read the sacred hand. He could read a weight, a boundary and a roll, his hand was neat, and that is everything the tale says of him before the struck one.
+He was of a street in Gar-Qethar, on the low ground, two doors from the granary quays. His mother's house put him into the school of the bureaus at seven and went hungry to keep him there, which is what a scribe costs, and he came out of it with Qalezu and a place at the fourth counter of the House of Records, where the tax rolls of the [[affiliation-capitalselat|Capital Selat]] are kept. He could not read the sacred hand. He could read a weight, a boundary and a roll, his hand was neat, and that is everything the tale says of him before the struck one.
 
 In the first year of the struck one the Gar-Au proclaimed himself [[lore-uqaadty|Uqa'a]] in the flesh. The tale does not enter the proclamation. It enters what came to the fourth counter. The island was shut. The guard of the Gar-Au held the Great Temple and the granaries that belonged to it, the priests who named the blasphemy were silenced, and among the silenced was the keeper of the Measure, **Imsithe Reth'el'Qetu**, who had read the stair for thirty-one years. The tale enters no more of him than the list enters of a king. The guard needed a hand that could count cubits and write a number, and the bureaus were told to send one. The bureaus sent Gezerker, because his hand was neat and because he was nobody, which is the reason a bureau sends anyone.
 
 He was rowed to the upstream point of the island in the first month of [[lore-azletssn|Azlet]] with a palette, a reed and a day-tablet, and a sergeant of the guard showed him the Measure.
 
-The stair goes down into the water, with a shaft beside it, and on the walls of both every cubit of the flood is cut deep, with the name of the cubit beside it in the sacred hand. The fourteenth cubit is cut deeper than the rest and painted, and a flood that stands at it is called full. Gezerker could not read the names of the cubits. He counted the marks with his hand, from the water up to the painted one, on every morning of the rising, and wrote the count on the day-tablet in the people's hand, because there was no priest left on the stair to write it in the other. That is how the column of the Measure for the struck years comes to be in the wrong hand, and how a reader of the temple's day-book knows those years at a glance without reading a number.
+The stair goes down into the water, with a shaft beside it, and on the walls of both every cubit of the flood is cut deep, with the name of the cubit beside it in the sacred hand. The fourteenth cubit is cut deeper than the rest and painted, and a flood that stands at it is called full. Gezerker could not read the names of the cubits. He counted the marks with his hand, from the water up to the painted one, on every morning of the rising, and wrote the count on the day-tablet in Qalezu, because there was no priest left on the stair to write it in the other. That is how the column of the Measure for the struck years comes to be in the wrong hand, and how a reader of the temple's day-book knows those years at a glance without reading a number.
 
 In the first year the water came to the painted cubit, and he wrote fourteen, and it was fourteen.
 
@@ -92,7 +92,7 @@ Here is the well. The well does not go, and it does not come again.
 
 There is no scribe west of the last canal.
 There is no reed here, and no palette, and no tablet.
-I write the people's hand with a finger in the dust for the boy who counts after me,
+I write Qalezu with a finger in the dust for the boy who counts after me,
 and the wind takes the dust, and the wind enters nothing.
     Who will read me?
 
@@ -132,7 +132,7 @@ The queue at the fourth counter in Gelet is a morning long. He stood it. The cle
 
 "I have no copy. I wrote them."
 
-Gulur sent a boy. The boy was gone the length of the queue behind the old man and came back with the rolls on a barrow, twelve of them, tagged in the people's hand, and Gulur read the head of the first aloud, as the counter does, so that the petitioner hears what the bureau holds: "Year two of […]. The Measure, proclaimed at fourteen cubits and two palms." The tag on the roll, in a later hand, says _struck_.
+Gulur sent a boy. The boy was gone the length of the queue behind the old man and came back with the rolls on a barrow, twelve of them, tagged in Qalezu, and Gulur read the head of the first aloud, as the counter does, so that the petitioner hears what the bureau holds: "Year two of […]. The Measure, proclaimed at fourteen cubits and two palms." The tag on the roll, in a later hand, says _struck_.
 
 "The water stood at twelve cubits and one palm," Gezerker said. "I read the stair. Write it."
 
@@ -144,7 +144,7 @@ The queue behind him was a morning long. Gulur sent to the temple. The queue sto
 
 He set the day-book on the counter beside the barrow and asked the old man for his name, and the old man gave it, and Maqi found it where he had written it, at the head of the false column. Then he said, "Read it."
 
-The old man read it to him from his head, standing, with the queue listening. Gulur wrote it in the people's hand on a fresh tablet as he said it, and Maqi wrote it in the sacred hand beside the old column, so that the true readings of the Measure for the struck years stand in both hands and the false ones in one. At the fourteenth year the old man stopped, and Maqi read the number out of the day-book and wrote it under his line, in the hand of the stair. This is the column, as the day-book holds it and the schools copy it.
+The old man read it to him from his head, standing, with the queue listening. Gulur wrote it in Qalezu on a fresh tablet as he said it, and Maqi wrote it in the sacred hand beside the old column, so that the true readings of the Measure for the struck years stand in both hands and the false ones in one. At the fourteenth year the old man stopped, and Maqi read the number out of the day-book and wrote it under his line, in the hand of the stair. This is the column, as the day-book holds it and the schools copy it.
 
 : The Column of the Struck Years {#column}
 
@@ -191,7 +191,7 @@ A reading of the Measure proclaimed to the city is undertaken to the city. The c
 
 "Enter it," the old man said. It was entered, and the queue moved.
 
-Then he went to the street. Gar-Qethar had been drowned and rebuilt forty times since he left it, as it is every year, and the warrens stood over the pits as they stand now, and the house two doors from the quays was there, because a mudbrick house on the low ground is always there, in the sense that there is always one. He asked at the hall of **the club of the granary quays** for Githira, and the club knew her: Githira ez Gar-Qethar, a scribe of the people's hand at a counting-house on the quays, forty-six years old, married, with sons, who paid her dues on the day. The club sent for her. She came to the hall and looked at him, and said what one says to a stranger.
+Then he went to the street. Gar-Qethar had been drowned and rebuilt forty times since he left it, as it is every year, and the warrens stood over the pits as they stand now, and the house two doors from the quays was there, because a mudbrick house on the low ground is always there, in the sense that there is always one. He asked at the hall of **the club of the granary quays** for Githira, and the club knew her: Githira ez Gar-Qethar, a scribe of Qalezu at a counting-house on the quays, forty-six years old, married, with sons, who paid her dues on the day. The club sent for her. She came to the hall and looked at him, and said what one says to a stranger.
 
 "Which hand were you taught?"
 
@@ -239,7 +239,7 @@ That is the telling. He went to the West, entered and open.
 The copy ends with the copyist's entry.
 
 :::
-Copied in the fourteenth year of Gar-Au Legir'el'Retha I, in the second month of Azlet, for the night of the proclamation, for the hall of the club of the granary quays, from the copy the school of the fourth counter keeps, by **Thethi ez Gar-Qethar**, scribe of the people's hand. Checked against the day-book: the Measure's column for the struck years stands as it was entered at the counter, in both hands, and the temple reads the proclamation from the stair with two priests on it since those years. What is scraped in this copy I scraped.
+Copied in the fourteenth year of Gar-Au Legir'el'Retha I, in the second month of Azlet, for the night of the proclamation, for the hall of the club of the granary quays, from the copy the school of the fourth counter keeps, by **Thethi ez Gar-Qethar**, scribe of Qalezu. Checked against the day-book: the Measure's column for the struck years stands as it was entered at the counter, in both hands, and the temple reads the proclamation from the stair with two priests on it since those years. What is scraped in this copy I scraped.
 :::
 
 ## See Also

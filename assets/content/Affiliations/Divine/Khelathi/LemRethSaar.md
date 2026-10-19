@@ -46,7 +46,7 @@ Lem'Reth'Sa'ar is the sworn priesthood of [[lore-rethsaardty|Reth'Sa'ar]], god o
 
 ## Character
 
-"Which hand are you writing in?" is the first thing a priest of Lem'Reth'Sa'ar asks a visiting clerk, and the clerk who answers "the people's hand" has already told the priest what the order will and will not take from him. The Khelathi write in two hands. The sacred hand belongs to the temple and the tomb; the people's hand belongs to the counting-house and the contract. This order keeps the sacred hand, and through its Keeper of the Disciplines it sets the standard that every scribal text is measured against.
+"Which hand are you writing in?" is the first thing a priest of Lem'Reth'Sa'ar asks a visiting clerk, and the clerk who answers "Qalezu" has already told the priest what the order will and will not take from him. The Khelathi write in two hands. The sacred hand belongs to the temple and the tomb; Qalezu belongs to the counting-house and the contract. This order keeps the sacred hand, and through its Keeper of the Disciplines it sets the standard that every scribal text is measured against.
 
 The priests are scribes who have passed beyond the guild halls into the god's direct service. Many of them still copy a passage of sacred literature each morning as an act of prayer, since in Reth'Sa'ar's faith the discipline of the hand is part of the worship. A new Lem'Nelgir (servant of the god) swears to the archives and to the hand; the High Priest, the Thaz'Lekhau, stands over the whole order.
 

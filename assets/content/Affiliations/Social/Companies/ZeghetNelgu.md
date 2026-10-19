@@ -59,7 +59,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {igelnaru: aligned, khelathpnthn: aligned, tjelsuk: aligned, garnuw: aligned}
+  relations: {igelnaru: aligned, khelathpnthn: aligned, chelsuk: aligned, garnuw: aligned}
   packFolder: regkhaff
 sohl:
   system: {commonSkills: [ritualigelnr, sohl-sohl-skill-srvl, sohl-sohl-skill-melee, khelathlng]}
@@ -79,17 +79,17 @@ The Khetai have held the Steersman's charter, the [[lore-garauu|Gar-Auu]]'s gran
 
 The hippopotamus herds have swollen beyond living memory. Animals that once stayed in the deep marshes have pushed upriver into the farming settlements, destroying irrigation works, capsizing boats, and killing three farmers in the last season alone. The crocodiles have multiplied with them, drawn by livestock drinking at the water's edge. Halzi'a (governor of a selat) [[being-gerraanlghrl|Gerra Anlaghe'Relu]] of the upper river selat has told the company to solve the problem or forfeit its charter. The temples want larger offerings, and the villages are close to revolt, convinced the gods are punishing them for a transgression nobody can name.
 
-The company's own people read the cause differently from the temple. Steersman [[being-azunmtkhlfrh|Azunmat Khelafirahu]] holds that the cause is natural: a shift in the flood cycle has opened new breeding grounds in the southern marshes, and the herds are expanding into them. The priesthood, led by [[being-zebenrazuzkn|Zebenra Zu'Zekenu]], a Lem'Nelgir (Servant of the God) and a political rival of the Khetai, preaches that the surge is divine punishment and that the Zeghet'Nelgu has grown corrupt and unworthy. If the next great hunt fails, the Khetai could lose their charter, their lands and their standing among the Meglay.
+The company's own people read the cause differently from the temple. Steersman [[being-azunmtkhlfr|Azunmat Khelafiru]] holds that the cause is natural: a shift in the flood cycle has opened new breeding grounds in the southern marshes, and the herds are expanding into them. The priesthood, led by [[being-zebenrazuzkn|Zebenra Zu'Zekenu]], a Lem'Nelgir (Servant of the God) and a political rival of the Khetai, preaches that the surge is divine punishment and that the Zeghet'Nelgu has grown corrupt and unworthy. If the next great hunt fails, the Khetai could lose their charter, their lands and their standing among the Meglay.
 
 So Azunmat has called the full company together for the most ambitious hunt in a generation: a systematic cull of the southern marshes, working upriver over a full lunar month, to thin the herds and show the Halzi'a that the Khetai can still do what they were born to do.
 
 ## Organization
 
-The hunt answers to Azunmat Khelafirahu, a noble of the Meglay caste who holds the ancient title of **Steersman of the Sacred Waters**. Azunmat is in the early forties, lean, and carries the scar of a hippopotamus attack fifteen years ago that nearly took the left eye. The Steersman rules with formal authority, backed by religious custom and by the provincial governors. The word is law, and the authority behind it has never been more fragile.
+The hunt answers to Azunmat Khelafiru, a noble of the Meglay caste who holds the ancient title of **Steersman of the Sacred Waters**. Azunmat is in the early forties, lean, and carries the scar of a hippopotamus attack fifteen years ago that nearly took the left eye. The Steersman rules with formal authority, backed by religious custom and by the provincial governors. The word is law, and the authority behind it has never been more fragile.
 
 The roster stands at eight:
 
-[[being-azunmtkhlfrh|Azunmat Khelafirahu]]
+[[being-azunmtkhlfr|Azunmat Khelafiru]]
 : Steersman. Ritualist and warrior, keeper of the old rites. Absolute in authority and under siege.
 
 [[being-imhugepuzebr|Imhugepu Zeber]]
@@ -170,7 +170,7 @@ The company serves a game master in several ways:
 [[affiliation-igelnaru|Faith of Igelnaru]]
 : the river god the hunt appeases
 
-[[affiliation-tjelsuk|Faith of Tjelsur]]
+[[affiliation-chelsuk|Faith of Chelsur]]
 : the crocodile cult, aligned with the hunt
 
 [[affiliation-garnuw|Gar'Nuw]]

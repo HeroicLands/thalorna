@@ -29,7 +29,7 @@ The schools of [[affiliation-linzethrthsr|Lin'Zethu elu Reth'Sa'ar]] set this _r
 
 It is **The Instruction of Khelayu**, by [Khelayu]{.name data-type="being/npc"}, Keeper of the King-Lists in the precinct of [[affiliation-rethsaar|Reth'Sa'ar]] beside the [Great Temple of Uqa'a]{.name data-type="place/structure"} on [[place-yathtelgu|Yath-Telgu]]. He kept the list under [Gez'el'Retha III]{.name data-type="being/npc"}, the Gar-Au whose crowning opens the age the Keepers call [[lore-akhrestcrown|the Restored Crown]] ([[lore-hillhouse|the Closing of the Hill House]]), and he wrote it in that reign's thirtieth year. It has a prologue giving the father's titles, maxims for his son [Zinuri]{.name data-type="being/npc"} on the day of the son's ordination as a copyist, and a passage near the end that the schools copy and do not explain.
 
-The copy given here is a school roll of the age of [[lore-akhhsmeqes|the House of Meqes]], in the hand of a boy of [[place-tjegu|Tjegu]] named [Gari]{.name data-type="being/npc"}, with the teacher's corrections where he made them and the colophon the boy wrote when he was done. The rendering keeps the pupil's errors where the teacher marked them.
+The copy given here is a school roll of the age of [[lore-akhhsmeqes|the House of Meqes]], in the hand of a boy of [[place-chegu|Chegu]] named [Gari]{.name data-type="being/npc"}, with the teacher's corrections where he made them and the colophon the boy wrote when he was done. The rendering keeps the pupil's errors where the teacher marked them.
 
 ## The Prologue
 
@@ -294,7 +294,7 @@ Write it, and let it say what it says.
 When a Halzi'a's steward offers you a goat for a line, […]
 
 _\[Below the break, the pupil's hand:\]_
-Finished, in good order, by Gari ez [[place-tjegu|Tjegu]], pupil, in Year 10 of Gar-Au [[being-garaumeqesxv|Meqes XVI]],
+Finished, in good order, by Gari ez [[place-chegu|Chegu]], pupil, in Year 10 of Gar-Au [[being-garaumeqesxv|Meqes XVI]],
 the third month of Azlet, whose hand is tired, who would rather herd goats.
 _\[Beneath it, the teacher's hand: Not in good order. Copy it again after the flood.\]_
 ```

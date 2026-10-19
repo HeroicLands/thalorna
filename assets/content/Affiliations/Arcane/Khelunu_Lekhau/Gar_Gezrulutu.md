@@ -47,7 +47,7 @@ data:
   economy: []
   lore: [khelunulekha]
   parents: []
-  relations: {khelathpnthn: aligned, tjaqur: aligned, garnlghkhlth: aligned}
+  relations: {khelathpnthn: aligned, chaqur: aligned, garnlghkhlth: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---

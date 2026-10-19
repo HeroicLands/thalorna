@@ -501,8 +501,8 @@ _(These forms are illustrative; the pattern matters more than any single coinage
 
 Khelathi has sounds Bethuan does not, and they are regularly smoothed away on the tongue of a Bethuan speaker:
 
-- **Emphatics** (ṭ, ḍ, q) collapse into plain _t, d, k_.
-- **Pharyngeals** (ḥ, ẓ) and the Khelathi **glottal stop** are dropped, or ḥ hardens to Bethuan _kh_, a throaty rasp; a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
+- **Uvular** _q_ collapses into plain _k_.
+- The Khelathi **glottal stop** is dropped, and a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
 - Khelathi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set, typically by **lengthening** (_a > a, i > î, u > û_) and by epenthetic _e_ and _o_.
 - **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _seekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.

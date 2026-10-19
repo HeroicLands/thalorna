@@ -13,14 +13,14 @@ data:
       stated: {calendar: khelathclndr, text: "1960 RC"}
       kind: conquest
       depth: region
-      sources: [lore-garauu, affiliation-empireakhlth, place-tjathuselat]
+      sources: [lore-garauu, affiliation-empireakhlth, place-chathuselat]
       summary: >-
         In 1960 ST raiders from across the Vylarian Sea, out of a northern homeland the Khelathi record does not name, land on the silt-islands of the delta, burn the port of Zel-Amqelu and march up the river on Galezkara. The priesthood crowns their chief under the throne name Gul'el'Retha and enters his line as the house of Malu'Thenoru. The house holds the crown for three reigns and thirty years.
       standing: attested
       where:
         locus: [place-zelamqelu]
         reach:
-          - place: place-tjathuselat
+          - place: place-chathuselat
             how: the landing and the burned port lie in the selat, and its natron flats are the raiders' first camp
             knowledge: named
           - place: place-amqelmiglet
@@ -45,7 +45,7 @@ The Keepers of the King-Lists say of the sea-raiders what they say of every conq
 
 ## The Landing
 
-The raiders came from the north, over the [[place-vylarianse|Vylarian Sea]], in numbers that the delta's watchers counted in ships and not in men. The Khelathi record keeps no name for their country, and the sea-raiders' own name for themselves, if they had one, was not entered. What the record keeps is the place they landed: the silt-islands of [[place-tjathuselat|Tjathu Selat]], where the river's mouths spread into reed and natron flat.
+The raiders came from the north, over the [[place-vylarianse|Vylarian Sea]], in numbers that the delta's watchers counted in ships and not in men. The Khelathi record keeps no name for their country, and the sea-raiders' own name for themselves, if they had one, was not entered. What the record keeps is the place they landed: the silt-islands of [[place-chathuselat|Chathu Selat]], where the river's mouths spread into reed and natron flat.
 
 The nearest port was [[place-zelamqelu|Zel-Amqelu]], a trading town on one of those islands. They burned it the day they landed. The port was never rebuilt, and its channel shifted soon after (Zel-Amqelu). The Khelathi river fleet of the day was a toll-boat fleet, built to meet traders at the mouths, and it did not meet the raiders.
 
@@ -61,7 +61,7 @@ The raiders ruled as the Khelathi priesthood let them, which was through the exi
 
 ## What It Left
 
-- **A burned port.** Zel-Amqelu, never rebuilt, in the Selat of Tjathu.
+- **A burned port.** Zel-Amqelu, never rebuilt, in the Selat of Chathu.
 - **The apex defenses.** The forts and customs-stations at the delta's apex date from the raiders' going, when the next house resolved that a landing would not reach the river again.
 - **A shared alarm.** The three powers of the northern shore coordinate against sea-raids still.
 - **A house in the list.** Malu'Thenoru, a house of the Khelathi list whose people came from a country the record does not name.

@@ -3,7 +3,7 @@ shortcode: khelathlng
 name: {full: Khelathi Language, aliases: []}
 type: skill
 subType: language
-description: "The ancient speech of Au'Khelathu, bound to ritual and sorcery, written in the sacred hand for priests and the people's hand for everyone else."
+description: "The ancient speech of Au'Khelathu, bound to ritual and sorcery, written in the hieroglyphs of the sacred hand for priests and the Qalezu alphabet for everyone else."
 tags: []
 data:
   abbreviation: Khel.
@@ -35,8 +35,8 @@ data:
         - "Qelatha"
         - "Maqima"
         - "Methena"
-        - "Amqeletahu"
-        - "Amqelitana"
+        - "Amqelethu"
+        - "Amqelina"
         - "Mertelu"
         - "Muzemre"
         - "Mutrago"
@@ -44,7 +44,7 @@ data:
         - "Zabet"
         - "Zabita"
         - "Zabegulu"
-        - "Legirigulu"
+        - "Legirgulu"
         - "Legirakhu"
         - "Lehbet"
         - "Lesma"
@@ -61,7 +61,7 @@ data:
         - "Zekenare"
         - "Linta"
         - "Zesha"
-        - "Zeshelegezu"
+        - "Zeshegezu"
         - "Shepratha"
         - "Shespazo"
         - "Thakat"
@@ -73,7 +73,7 @@ data:
         - "Thenfakte"
         - "Zaya"
         - "Thiya"
-        - "Tjuqir"
+        - "Chuqir"
         - "Thema"
       male:
         - "Ahmuze"
@@ -98,7 +98,7 @@ data:
         - "Gezedafu"
         - "Gezuhati"
         - "Qedut"
-        - "Khelafirahu"
+        - "Khelafiru"
         - "Khelansi"
         - "Khelemur"
         - "Khelor"
@@ -121,7 +121,7 @@ data:
         - "Gishur"
         - "Raiaku"
         - "Reqesehu"
-        - "Zabeglegezu"
+        - "Zabegezu"
         - "Zahura"
         - "Zarapis"
         - "Zefura"
@@ -205,7 +205,7 @@ data:
       - "Iku"
       - "Zileti"
       - "Zel-Qar"
-      - "Tjegu"
+      - "Chegu"
       - "Lut-Psaqa"
       - "Iqeru"
       - "Gau"
@@ -455,7 +455,7 @@ data:
     - {form: Gewa'atis, class: name, field: The Twelve, gloss: voyages}
     - {form: Azu'athis, class: name, field: The Twelve, gloss: chaos}
     - {form: Qeztu, class: name, field: Local gods, gloss: war}
-    - {form: Tjelsur, class: name, field: Local gods, gloss: river-beasts}
+    - {form: Chelsur, class: name, field: Local gods, gloss: river-beasts}
     - {form: Shebazet, class: name, field: Local gods, gloss: the marsh}
     - {form: Pelgun, class: name, field: Local gods, gloss: desert roads}
     - {form: Linhur, class: name, field: Local gods, gloss: "the hunt, the hunter"}
@@ -552,11 +552,10 @@ data:
     - form: Qalezu
       class: name
       field: "The realm, its people and its hands"
-      gloss: the common hand
+      gloss: the everyday alphabet
     - {form: "Lin'", class: "stem", field: "Head-words", gloss: "The opening of a guild's name"}
   retired:
-    - {form: Tjelsuk, instead: Tjelsur, why: "ends in none of a vowel, n, t, s or r"}
-    - {form: zuqal, instead: zuqat, why: "ends in none of a vowel, n, t, s or r"}
+    - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
     - {form: athen, instead: thelqen, why: the name of a god from outside the setting}
     - {form: Athen'Uqa, instead: Thelqen'Uqa, why: the name of a god from outside the setting}
@@ -581,15 +580,15 @@ data:
     nearName:
       minSyllables: 4
       examples:
-        - {near: Anla, given: Anlagherhafu}
-        - {near: Zabe, given: Zabeglegezu}
+        - {near: Anla, given: Anlaghafu}
+        - {near: Zabe, given: Zabegezu}
         - {near: Amqe, given: Amqelet-Zelemu}
         - {near: Geze, given: Gezehutyu}
-        - {near: Khela, given: Khelassetepu}
+        - {near: Khela, given: Khelassepu}
         - {near: Imhu, given: Imhugepu}
-        - {near: Uqe, given: Uqetiraku}
+        - {near: Uqe, given: Uqeraku}
         - {near: Reqe, given: Reqesehu}
-        - {near: Legi, given: Legirigulu}
+        - {near: Legi, given: Legirgulu}
         - {near: Gulme, given: Gulmenwati}
 sohl:
   system:
@@ -616,13 +615,13 @@ Khelathi is the old river-speech of the temples. It is heavy with _q_ and _z_ an
 
 **The vowels.** _a_, _e_ and _u_ lead. _au_ opens sacred names, as in _Au'Khelathu_.
 
-**The consonants.** _q_, _z_, _l_, _kh_, _g_, _t_, _n_, _m_ and _w_. The apostrophe marks the catch in the throat.
+**The consonants.** _q_, _z_, _l_, _kh_, _ch_, _g_, _t_, _n_, _m_ and _w_. The apostrophe marks the catch in the throat, at the seam of a compound and before a vowel. _ch_ is one sound, as in "church", and opens a word as freely as _kh_ does.
 
 **Clusters.** Few. Syllables are mostly a consonant and a vowel, with _lq_ and _zn_ inside a word.
 
 **Endings.** Khelathi words end in _-u_, _-et_, _-at_, _-aru_ or _-ir_. Titles stand before the name.
 
-**What Khelathi leaves out.** It has no _tj_, no more than two apostrophes in a word, and no word of more than four syllables.
+**What Khelathi leaves out.** It has no more than two apostrophes in a word and no word of more than four syllables. A compound written with apostrophes or dashes counts each part on its own, so every part has four syllables or fewer.
 
 ## Phonology
 
@@ -638,22 +637,25 @@ Unvoiced
 Voiced
 : b, d, g
 
-Emphatic (pharyngealized)
-: emphatic t, emphatic d, q (marked acoustically by uvular constriction)
+Uvular
+: q (a k made far back in the throat)
+
+Affricate
+: ch (as in "church")
 
 **Fricatives:**
 
 Unvoiced
-: f, th (as in "thin"), s, sh (palatal), kh (velar), a pharyngeal h, h
+: f, th (as in "thin"), s, sh (palatal), kh (velar), h
 
 Voiced
-: z, a pharyngeal fricative
+: z
 
 **Nasals:** m, n
 
 **Liquids & Semi-vowels:** l, r, w, y
 
-**Distinctive Glottal:** the glottal stop, phonemically significant
+**Distinctive Glottal:** the catch, a glottal stop that is phonemically significant. The spelling writes it with an apostrophe, and both scripts write it as a sign of its own: the Qalezu sign is drawn wherever the apostrophe stands.
 
 **Gemination:** Double consonants appear frequently and carry grammatical weight (particularly in verbal and nominal derivations).
 
@@ -671,23 +673,25 @@ Khelathi distinguishes three cardinal vowels, each with short and long variants:
 
 ### Phonotactic Patterns
 
-**A word ends in a vowel or in `n`, `t`, `s` or `r`**, the emphatic t counting as
-`t`. Final vowels are frequent, particularly in nominal and verbal inflections.
-Nothing ends in `l` or `z`, which is why those two are so common inside a word and
-never close one.
+**A word ends in a vowel or in `n`, `t`, `s`, `r`, `l`, `z` or `th`.** Final vowels are frequent,
+particularly in nominal and verbal inflections.
 
-**The glottal stop stands between two vowels and gives a word a pause where a
-reader expects a consonant.** That is its whole function, and it is what a
-sacred or lineage name has and an ordinary one lacks—`Qe'aret` and `Saq'aru`
-pause; `Mani` and `Dari` do not.
+**The catch is written with an apostrophe, at the seam of a compound and before a
+vowel.** It stands between a consonant and a vowel (`Weth'ur`, `Zu'Gezaru`),
+between the parts of a compound (`Gar'Loru`) and between two vowels (`Qe'aret`),
+and it gives a word a pause where a reader expects a consonant. That pause is what
+a sacred or lineage name has and an ordinary one lacks—`Qe'aret` and `Saq'aru`
+pause; `Mani` and `Dari` do not. A word that begins with a vowel carries no
+apostrophe.
 
 **Openings.** `An-`, `Am-`, `Re-`, `Wa-` and `Kh-` are the characteristic ones.
 Initial clusters are otherwise rare and restricted to consonant + semi-vowel
-(`y`, `w`) or fricative + stop: `Ps-` and `Tj-` are the licensed instances, as in
-`Saq'aru` and `Tjelsur`. Stop + stop is not Khelathi, so no word opens `Pt-`.
+(`y`, `w`) or fricative + stop: `Ps-` is the licensed instance, as in `Psaqa`.
+`Ch-` is a single sound and opens a word freely, as in `Chelsur` and `Chaq'ur`.
+Stop + stop is not Khelathi, so no word opens `Pt-`.
 
 Syllable Structure
-: CV or CVC; a word may begin with a vowel, which the glottal marks
+: CV or CVC; a word may begin with a vowel
 
 Word Length
 : Often moderate (two to three morphemes); compound names are less frequent than in [[skill-vedyarlng|Vedyari]], though hieratic epithets create lengthy formal designations
@@ -714,13 +718,11 @@ Khelathi follows a **Verb-Subject-Object (VSO)** order in narrative clauses, tho
 
 ## Script & Literacy
 
-Khelathi is written in two hands, and the division between them is one of trade rather than of style. The sacred hand belongs to the temple and the tomb; the people's hand belongs to the counting-house, the tax roll and the contract. A scribe is trained into one of them, and training in one does not confer the other, so a priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote the manifest cannot read the wall behind him. A temple record and a tax record are therefore two separate errands, each needing a reader of its own, and whether a Khelathi is literate is the wrong question to ask of him: the question is which hand he was taught.
+Khelathi is written in two hands, and the division between them is one of trade rather than of style. The sacred hand belongs to the temple and the tomb; Qalezu belongs to the counting-house, the tax roll and the contract. A scribe is trained into one of them, and training in one does not confer the other, so a priest who follows a mortuary text without effort may be unable to read a harbor manifest, and the clerk who wrote the manifest cannot read the wall behind him. A temple record and a tax record are therefore two separate errands, each needing a reader of its own, and whether a Khelathi is literate is the wrong question to ask of him: the question is which hand he was taught.
 
-**Sacred Script ([[skill-khelthzscrpt|Khelathi-zethu Script]]):** The original writing system employs a mixed inventory of logograms (representing whole words), phonetic signs (representing consonant clusters), and determinatives (clarifying semantic fields). Approximately 700 distinct signs are recognized by trained scribes, though only 200-300 are commonly used. This system is reserved for temple walls, royal monuments, and sacred texts; its complexity ensures that literacy remains the province of a trained priesthood.
+**Sacred Script ([[skill-khelthzscrpt|Khelathi-zethu Script]]):** The original writing system is hieroglyphic: about 150 signs, each standing for a concept, each drawn in two or three variants. Some signs also carry the consonants of the word they name and so spell words and names, and a sign set beside a word can show which word is meant. Certain signs carry a god's sense beside that god's name or in that god's temple, so a reading depends on context. This system is reserved for temple walls, royal monuments, and sacred texts; the difficulty of reading it in context keeps literacy the province of a trained priesthood.
 
-**People's Script ([[skill-qalzscrscrpt|Qalezu Script]]):** A rapidly-written cursive adaptation emerged around 800 years ago for administrative and mercantile purposes, reducing the sign inventory to roughly 100 characters and introducing ligatures for common sequences. Qalezu writing is significantly faster and is taught to scribes, tax officials, and merchants.
-
-**Modern Simplifications:** In recent centuries, some merchants and scholars have experimented with an even more streamlined "mercantile hand," approaching the status of a true alphabet with 24-30 signs per some reformers.
+**Everyday Script ([[skill-qalzscrscrpt|Qalezu Script]]):** An alphabet of 24 signs, reduced directly from the hieroglyphs about 800 years ago for administrative use. Each consonant sign comes from a hieroglyph whose word begins with that consonant, and the signs are written apart with a reed on papyrus. Qalezu is significantly faster and is learned in a season by scribes and tax officials, and by factors and traders who deal with them.
 
 **Vowels and Foreign Spellings:** Neither hand records vowels. The phonetic signs carry consonants, and a reader supplies the vowels out of the word he already knows. The spellings other tongues give to Khelathi words are transliterations written in the [[skill-semrnscrpt|Semaron]], and the vowels a foreigner reads in one of them are a convenience his own scholars supply where the Khelathi scripts write nothing at all. A Khelathi says his name in the three vowels the language has; a foreigner writes it in the letters his own alphabet gives him, and the two need not agree.
 
@@ -736,16 +738,13 @@ Khelathi is an isolate language with no widely-accepted external relatives. Its 
 
 The standardization of Classical Khelathi occurred during the early dynasties of the Khelathi Empire, roughly 2,300 years before present, under [Zab'Uzner]{.name data-type="being/npc"}, the fifth Gar-Au of the First House ([[lore-sacredhand|the Fixing of the Sacred Hand]]). This period saw the composition of the great temple inscriptions, the codification of ritual languages, and the establishment of scribal schools that have persisted to the present day. The language of this period—frozen in written form—remains the prestige register.
 
-### Development of the People's Hand
+### Development of Qalezu
 
-Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelathi, sanctioned by the queen [Gith'el'Retha I]{.name data-type="being/npc"} of [Amqelu'Gatau]{.name data-type="affiliation/lineage"} ([[lore-peopleshand|the People's Hand]]). While structurally identical to Classical Khelathi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
+Around 800 years ago, the widening gap between the laborious sacred script and the practical needs of administration led to the development of Qalezu Khelathi, sanctioned by the queen [Gith'el'Retha I]{.name data-type="being/npc"} of [Amqelu'Gatau]{.name data-type="affiliation/lineage"} ([[lore-qalezusanction|the Sanction of Qalezu]]). While structurally identical to Classical Khelathi, Qalezu represents an orthographic reform rather than a linguistic one. However, its rapid adoption by the merchant class and administrative bureaucracies has gradually introduced vernacular features into what is written, accelerating the divergence between formal and colloquial speech.
 
 ### Modern Divergence
 
 The spoken vernaculars of contemporary Khelathi show considerable divergence from Classical Khelathi:
-
-Loss of Emphatics
-: Younger speakers increasingly merge emphatic and non-emphatic stops
 
 Vowel Lengthening and Shortening
 : Classical long/short distinctions are becoming phonetically eroded
@@ -762,7 +761,7 @@ Yet religious conservatism has resulted in Classical Khelathi being actively rei
 
 ### Khelathi Proper (Core Regions)
 
-- Closest to Classical Khelathi; emphatic consonants are well-maintained
+- Closest to Classical Khelathi; the catch is kept at every seam
 - Verbal morphology remains elaborate
 - Stress patterns adhere to classical norms
 - Extensive ritualistic vocabulary related to temple and court
@@ -770,7 +769,7 @@ Yet religious conservatism has resulted in Classical Khelathi being actively rei
 ### Delta Dialect (Riverine Communities)
 
 - Moderate divergence from Classical Khelathi
-- Emphatics may be weakening
+- The catch softens at the seams of compounds
 - Simplified verbal forms with greater use of auxiliaries
 - Specialized maritime and agricultural vocabulary
 
@@ -811,7 +810,7 @@ terebu
 dumatu
 : root _d-m-t_, to drive, to goad: _the driven one_, the mindless undead ([[being-damut|damut]]). Invariant in number: one _dumatu_, many _dumatu_.
 
-The temple form is the word as Khelathi speak and write it, emphatics and all. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word heard without its emphatics, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
+The temple form is the word as Khelathi speak and write it. _Tereb_ and _damut_ are what the rest of the world made of it: the international plural, _terebu_ and _damutu_, is the temple word as foreign ears set it down, and the international singular, _tereb_ ("TEH-reb") and _damut_ ("dah-MOOT"), is a back-formation from that plural. A Khelathi priest says _terebu_ for one and for many; a Vylarian physician says _tereb_ and _terebu_.
 
 ## Related Languages
 
@@ -997,8 +996,8 @@ SELECT '`' || near || '`' AS "Near name", '`' || given || '`' AS "Given name"
 FROM near_names WHERE language = 'thalorna-note-skill-khelathlng' ORDER BY position
 ```
 
-Names that open alike share a near name: `Amqelitana`, `Amqelitamun` and
-`Amqelitefu` are each `Amqe` to their own people. A name of three syllables or
+Names that open alike share a near name: `Amqelina`, `Amqelimun` and
+`Amqelifu` are each `Amqe` to their own people. A name of three syllables or
 fewer has no near name, because breaking it off at the second vowel leaves almost
 all of it.
 
@@ -1013,7 +1012,7 @@ to a near name names nobody the archive holds.
 and the apprentice who lives under his roof. They are the people whose promises go
 unentered, and the near name goes unentered for the same reason. Between strangers
 it claims a tie that does not exist. A title always takes the given name:
-`Thaz'Lekhau Anlagherhafu`, never the near name after the title.
+`Thaz'Lekhau Anlaghafu`, never the near name after the title.
 
 ### Naming Patterns
 
@@ -1022,7 +1021,7 @@ it claims a tie that does not exist. A title always takes the given name:
 - Often incorporate theophoric elements (divine names prefixed or suffixed): _Ahmuze_ (devotion-blessed), _Imhugepu_ (he who arrives in stillness)
 - Many reference royal titles, divine attributes, or favorable circumstances
 - Frequently compound with elements meaning "true," "beloved," "strength," or "protection"
-- Consonant-heavy phonology with frequent emphatics
+- Consonant-heavy phonology
 - Written as a single word, however many elements they are built from, and never with the collective _-u_, which belongs to the house
 - Examples: _Thulmes_ (moon-born), _Zinlegir_ (fair of soul)
 
@@ -1171,11 +1170,11 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Amruzi
 - Amqelzinet
 - Azunmat
-- Athunotepu
+- Athunopu
 - Aguri
 - Ankethet
 - Anlagher
-- Anlagherhafu
+- Anlaghafu
 - Anlaghi
 - Anlaghur
 - Azari
@@ -1202,7 +1201,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Gulur
 - Qedut
 - Kheladen
-- Khelafirahu
+- Khelafiru
 - Khelansi
 - Khelayu
 - Khelemur
@@ -1242,7 +1241,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Rathashi
 - Reqesehu
 - Rethur
-- Zabeglegezu
+- Zabegezu
 - Zahura
 - Zapse
 - Zarapis
@@ -1263,7 +1262,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Thulmes
 - Thotkar
 - Thugulu
-- Uqetiraku
+- Uqeraku
 - Gahkar
 - Gajaki
 - Ganomu
@@ -1304,9 +1303,9 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Maqima
 - Methena
 - Megeti
-- Amqeletahu
-- Amqelitalemu
-- Amqelitana
+- Amqelethu
+- Amqelemu
+- Amqelina
 - Mertelu
 - Muitha
 - Muzemre
@@ -1319,7 +1318,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Zabita
 - Zabegulu
 - Zabseti
-- Legirigulu
+- Legirgulu
 - Legiris
 - Legirakhu
 - Lehbet
@@ -1347,7 +1346,7 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Linta
 - Linya
 - Zesha
-- Zeshelegezu
+- Zeshegezu
 - Shegas
 - Shepratha
 - Sheqamon
@@ -1367,8 +1366,8 @@ in reverse, which is how the trade tongues along the coast came by the words.
 - Zaya
 - Thirye
 - Thiya
-- Tjuqir
-- Tjuyaqe
+- Chuqir
+- Chuyaqe
 - Thema
 - Garet
 
