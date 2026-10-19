@@ -3,7 +3,7 @@ shortcode: slvrgorges
 name: {full: The Silver Gorges, aliases: [The Gorges]}
 type: place
 subType: feature
-description: "The deep-cut valleys of the Eastern Reach, worked for lapis and silver since before Shikharalaya was chartered, and held by smithing clans whose prerogatives predate the charter."
+description: "The deep-cut valleys of the Eastern Reach, worked for lapis and silver since before Shikhalaya was chartered, and held by smithing clans whose prerogatives predate the charter."
 tags: [mountain, mining, inland]
 data:
   culture: hvarnclt
@@ -14,7 +14,7 @@ data:
   packFolder: vedyara
 ---
 
-**The Silver Gorges** are a system of steep, narrow valleys cut into the Vedyari flank of [[place-estrnreach|the Eastern Reach]]. They carry lapis, silver and a little tin, they have been worked continuously for longer than the kingdom of [[affiliation-vindhyalay|Shikharalaya]] has existed, and the road up them is also [[place-tamradvara|Tamradvara]], which makes them a mining district and a customs problem at the same time.
+**The Silver Gorges** are a system of steep, narrow valleys cut into the Vedyari flank of [[place-estrnreach|the Eastern Reach]]. They carry lapis, silver and a little tin, they have been worked continuously for longer than the kingdom of [[affiliation-shikhalaya|Shikhalaya]] has existed, and the road up them is also [[place-tamradvar|Tamradvar]], which makes them a mining district and a customs problem at the same time.
 
 ## Who Holds Them
 
@@ -24,7 +24,7 @@ Neither account has been tested, because neither side wants the answer. What the
 
 ## The Gate
 
-Where the gorge road leaves the workings the clans keep a toll-gate of their own, with their own weights and their own tally. A caravan going up to [[place-tamradvara|Tamradvara]] pays there and again at Suryagarha, and every merchant who has ever complained about this has been told, accurately, that he is paying two different people for two different things.
+Where the gorge road leaves the workings the clans keep a toll-gate of their own, with their own weights and their own tally. A caravan going up to [[place-tamradvar|Tamradvar]] pays there and again at Suryagarha, and every merchant who has ever complained about this has been told, accurately, that he is paying two different people for two different things.
 
 ## What Comes Out of Them Besides Ore
 
@@ -32,5 +32,5 @@ The Gorges' forges are the best in the highlands and among the strangest in [[pl
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-tamradvara|Tamradvara]] · [[place-vindhyalayaland|Shikharalaya]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-tamradvar|Tamradvar]] · [[place-shikhalayaland|Shikhalaya]]
 - [[affiliation-mrchntclctvvdyr|Merchant Collective of Vedyara]]

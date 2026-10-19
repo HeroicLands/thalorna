@@ -44,7 +44,7 @@ The Osket hold the western and central crossings of [[place-graznmntns|the Grazi
 
 ## The Road Is the Property
 
-Herds are wealth and a crossing is standing, and the two are not traded for one another. A hearth that holds [[place-suryadvara|Suryadvara]] is rich and lends at interest to caravan-masters who have misjudged the season. A hearth at [[place-tsokhar|Tsokhar]] takes two caravans in a good season and lives off its yaks and its horses. Both are heard at the cols on the same terms, because both hold a road.
+Herds are wealth and a crossing is standing, and the two are not traded for one another. A hearth that holds [[place-suryadvar|Suryadvar]] is rich and lends at interest to caravan-masters who have misjudged the season. A hearth at [[place-tsokhar|Tsokhar]] takes two caravans in a good season and lives off its yaks and its horses. Both are heard at the cols on the same terms, because both hold a road.
 
 A hearth with beasts and no road is fed and is not consulted. The Osket state this without apology and see nothing in it to explain.
 
@@ -74,13 +74,13 @@ An Osket tells an outsider what to do and not why. This is not mystification. It
 
 The tongue makes the habit cheap to keep. [[skill-osketlng|Osket]] marks on every finite verb whether the speaker saw a thing, was told it, or infers it, so a guide cannot report that the pass is open without saying how he knows. The road-pidgin the lowlanders learn is perhaps two hundred words and carries no such mark. The Osket teach the pidgin willingly and the language not at all, and the misunderstandings that follow are held to be the lowlanders' own.
 
-One subject is closed. The lineages will discuss the weather, the road, the fee and the dead, and every Osket crossing of the Guides' Road walks through the opening in [[place-shunydvara|the Empty Door]], single file, hooded lowlanders and all. On that they stop talking.
+One subject is closed. The lineages will discuss the weather, the road, the fee and the dead, and every Osket crossing of the Guides' Road walks through the opening in [[place-shunydvar|the Empty Door]], single file, hooded lowlanders and all. On that they stop talking.
 
 ## The Cord
 
 There is no script. A hearth's route-record is a knotted cord—road, stage, load, day, and the dead—tied by its cord-keeper and read by nobody outside the blood. Cord-keeping goes to one person in a generation, and a cord whose keeper dies untimely is not read again by anyone.
 
-A few of the Suryadvara hearths read and write in the [[skill-vedyarlng|Vedyari Language]] of the lowlands for their contracts. None of them writes Osket in it.
+A few of the Suryadvar hearths read and write in the [[skill-vedyarlng|Vedyari Language]] of the lowlands for their contracts. None of them writes Osket in it.
 
 ## Names
 
@@ -92,29 +92,29 @@ The names carry two front rounded vowels no lowland tongue has, and a Vedyari wh
 
 **Good is the road kept: the morning's word obeyed, the party taken over and brought down, the door opened to whoever reaches it. Evil is the road sold, the party lost to carelessness, and the door shut on a stranger.** An Osket weighs a deed by the road: it is good if the party comes down, and reasons are not asked for. A guide who took a caravan over a shelf the guide-mother had refused has put his word above hers, and her word is the one that ends the question.
 
-Success is a road held by descent and a hearth consulted at the cols. Standing comes from the road, not the herd, and the two are not traded for one another: a hearth with beasts and no road is fed and is not consulted. A lineage of Suryadvara is rich and lends at interest, a lineage of Meghadvara lives off its yaks, and both are heard on the same terms, because both hold a road. Failure is a hearth with beasts and no road, a Fosterling who holds no share, and at the bottom the **Roadless**, who are out of every hearth, fed by none and taken over the wall by nobody.
+Success is a road held by descent and a hearth consulted at the cols. Standing comes from the road, not the herd, and the two are not traded for one another: a hearth with beasts and no road is fed and is not consulted. A lineage of Suryadvar is rich and lends at interest, a lineage of Meghadvar lives off its yaks, and both are heard on the same terms, because both hold a road. Failure is a hearth with beasts and no road, a Fosterling who holds no share, and at the bottom the **Roadless**, who are out of every hearth, fed by none and taken over the wall by nobody.
 
 The Osket value most the road, the guide-mother's word, the door and the count of the dead. They value least explanation, paper and rank that has to be asked for. They carry no wrist-line and read nobody else's, they tell an outsider what to do and not why, and the lowland habit of arguing a refusal on the col does not strike them as manners.
 
 ## The Man Admired
 
-[Urtal]{.name data-type="being/npc"}, road-holder of [[place-meghadvara|Meghadvara]], is the man the western lineages offer as the answer to the question of what a road-holder is. His lineage is among the poorest on the wall, holding the road with the shortest window and a share of two caravans in a good season. When the snow-watcher read the summit at first light and the guide-mother of his hearth said the road was shut, he held a caravan at the hearth, in the teeth of the caravan-master, the master's creditors and the season. The storm took the col that week. The caravan-master wrote the lost month off to Osket obstinacy, and Urtal did not explain it, as no Osket explains a morning's refusal.
+[Urtal]{.name data-type="being/npc"}, road-holder of [[place-meghadvar|Meghadvar]], is the man the western lineages offer as the answer to the question of what a road-holder is. His lineage is among the poorest on the wall, holding the road with the shortest window and a share of two caravans in a good season. When the snow-watcher read the summit at first light and the guide-mother of his hearth said the road was shut, he held a caravan at the hearth, in the teeth of the caravan-master, the master's creditors and the season. The storm took the col that week. The caravan-master wrote the lost month off to Osket obstinacy, and Urtal did not explain it, as no Osket explains a morning's refusal.
 
 The Osket admire in him what the division of the road asks of a man. The knowledge is a woman's and the walking is a man's, and he walks what she opens and stays where she closes. A road-holder answers for every party he takes over, and Urtal's lineage has lost none it was told to hold. His cost is the cost of the silence. A man whose whole standing is obedience to a morning's word is blamed in lowland counting-houses for every month the word costs, and he carries the blame to the col and says nothing.
 
 ## The Woman Admired
 
-[Yolte]{.name data-type="being/npc"} of [[place-suryadvara|Suryadvara]], who meets the climbers at [[place-oskhelt|Oskhelt]], is the woman the Osket name when they say what the door is. She is broad-faced and wears a sheepskin coat, with a guide-cord of knotted hide looped twice around her wrist. She gives the road first and herself second. She looks at a stranger's boots, then his hands, then the sky behind him, in that order, and opens the nearest door, steps aside and points him to the hearth and the steaming pot. She does not ask his business, his name or whether he can pay.
+[Yolte]{.name data-type="being/npc"} of [[place-suryadvar|Suryadvar]], who meets the climbers at [[place-oskhelt|Oskhelt]], is the woman the Osket name when they say what the door is. She is broad-faced and wears a sheepskin coat, with a guide-cord of knotted hide looped twice around her wrist. She gives the road first and herself second. She looks at a stranger's boots, then his hands, then the sky behind him, in that order, and opens the nearest door, steps aside and points him to the hearth and the steaming pot. She does not ask his business, his name or whether he can pay.
 
 Her admiration is not a lesser form of Urtal's. He keeps the road against those who would hurry it, and she keeps the rule the road stands on, that whoever reaches a door is fed and housed, with no exception but the Roadless. The cord on her wrist marks a woman who has walked a road, and the three things she looks at are the three a guide reads before taking anyone anywhere. Her cost is the abuse. The door is the one Osket custom lowlanders find entirely legible and the one they most often take advantage of, the hearth treats the abuse as the price of the custom, and the woman at the door bears it first.
 
 ## What the Hearths Keep
 
-An Osket can point to the things that hold a lineage in place. **The [[miscgear-guidecord|guide-cord]]** is a knotted hide cord recording a road: its stages, loads, days, water and the places the ice moves, and the dead and where each stopped. A cord is read by its keeper and by no one outside the blood. **The common store** at Oskhelt is held by the hearth-wardens and drawn on by everyone, provisioned out of the fees of the Suryadvara lineages. **The door** is not an object, and it is the Osket's oldest rule: whoever reaches it is fed and housed. **The opening of [[place-shunydvara|Shunyadvara]]** on the col of [[place-gudesroad|the Guides' Road]] is the one thing every Osket crossing walks through, single file, hooded lowlanders and all, and the one subject on which the lineages stop talking. **The slab of [[place-himashila|Himashila]]** at the head of the outflow of [[place-chandrprbh|Chandraprabhava]] is the mountain's own; the Osket step round it without touching. The [[place-pssshrines|Pass-Shrines]]' summit blessing is not the Osket's, and the Osket honor it on the five blessed roads.
+An Osket can point to the things that hold a lineage in place. **The [[miscgear-guidecord|guide-cord]]** is a knotted hide cord recording a road: its stages, loads, days, water and the places the ice moves, and the dead and where each stopped. A cord is read by its keeper and by no one outside the blood. **The common store** at Oskhelt is held by the hearth-wardens and drawn on by everyone, provisioned out of the fees of the Suryadvar lineages. **The door** is not an object, and it is the Osket's oldest rule: whoever reaches it is fed and housed. **The opening of [[place-shunydvar|Shunyadvar]]** on the col of [[place-gudesroad|the Guides' Road]] is the one thing every Osket crossing walks through, single file, hooded lowlanders and all, and the one subject on which the lineages stop talking. **The slab of [[place-himashila|Himashila]]** at the head of the outflow of [[place-chandrprbh|Chandraprabhava]] is the mountain's own; the Osket step round it without touching. The [[place-pssshrines|Pass-Shrines]]' summit blessing is not the Osket's, and the Osket honor it on the five blessed roads.
 
 ## The Day Kept
 
-On an ordinary day the religion is reading the summit. At first light the snow-watcher looks at the peak and not at the sky, and what the cloud on the summit is doing settles whether a caravan moves that day. [[place-meghashkhr|Meghashikhara]] is read before a caravan on the western road moves; the reading is given to the caravan-master as an instruction and never as an explanation. The guide-mother says whether the road is open, and her word ends the question. On a storm day no fire is lit in the open and the mules are hobbled close under rock. A stranger at the door is fed. A hearth-warden checks the store. A cord-keeper ties what the day has added. The Osket hold the whole range the dwelling-place of forces they call by names they do not share with outsiders, and the practice they show a stranger is the practice he can see.
+On an ordinary day the religion is reading the summit. At first light the snow-watcher looks at the peak and not at the sky, and what the cloud on the summit is doing settles whether a caravan moves that day. [[place-meghashkhr|Meghashikhar]] is read before a caravan on the western road moves; the reading is given to the caravan-master as an instruction and never as an explanation. The guide-mother says whether the road is open, and her word ends the question. On a storm day no fire is lit in the open and the mules are hobbled close under rock. A stranger at the door is fed. A hearth-warden checks the store. A cord-keeper ties what the day has added. The Osket hold the whole range the dwelling-place of forces they call by names they do not share with outsiders, and the practice they show a stranger is the practice he can see.
 
 ## The Round of the Year
 
@@ -134,7 +134,7 @@ Penalty runs from silence to the wall. A hearth with beasts and no road is fed a
 
 An Osket lineage is a hearth, its herds, its high pasture and one road, and nothing above it binds it. There is no appeal from a lineage to a larger body, because there is no larger body. Where a question touches two roads, the lineages concerned meet at a col and argue it out, and the Speaker of the Cols who convenes them holds nothing afterward. The Pass-Shrines hold the summit rite and the crossing-register, and a caravan they refuse to bless finds no Osket willing to take it down. Past that, the hearth is the whole of the authority there is.
 
-Inside the lineage the guide-mother holds the knowledge of the road and says whether it is open, the road-holder answers for every party, and the cord-keeper, the snow-watcher, the hearth-warden and the fee-reckoner hold the rest. Cases are heard by the lineages concerned at the col, records are the cord-keeper's and are read by nobody outside the blood, and the fee is the fee-reckoner's to set and collect. On Suryadvara, where the kingdom of [[affiliation-vindhyalay|Shikharalaya]] holds the throat and its clan-wardens hold the warden-right by inheritance, the answer divides: the warden names the fee, the lineage names the season, and the party pays one and waits for the other. A warden who overrules a lineage on a question of weather does it exactly once. Above the last Pass-Shrine the Vedyari order does not reach. The Osket are not Outcastes, which is a place within the order. The order does not address them at all.
+Inside the lineage the guide-mother holds the knowledge of the road and says whether it is open, the road-holder answers for every party, and the cord-keeper, the snow-watcher, the hearth-warden and the fee-reckoner hold the rest. Cases are heard by the lineages concerned at the col, records are the cord-keeper's and are read by nobody outside the blood, and the fee is the fee-reckoner's to set and collect. On Suryadvar, where the kingdom of [[affiliation-shikhalaya|Shikhalaya]] holds the throat and its clan-wardens hold the warden-right by inheritance, the answer divides: the warden names the fee, the lineage names the season, and the party pays one and waits for the other. A warden who overrules a lineage on a question of weather does it exactly once. Above the last Pass-Shrine the Vedyari order does not reach. The Osket are not Outcastes, which is a place within the order. The order does not address them at all.
 
 ## What the Cord Asks of an Ordinary Day
 
@@ -160,7 +160,7 @@ In return a person is owed what the hearth gives. A hearth-kin is owed the shelt
 
 The door is the first resort and the common store the second. Anyone who reaches an Osket door is fed and housed, without payment and without exception, and the Roadless are the only people the rule leaves out. The obligation falls on the hearth-warden who keeps the winter stores, and it holds hardest through the closed months. A **Fosterling** is taken into a hearth without being of its blood, fed and taught and holding no share. A widow, an orphan or an aged relation is hearth-kin or a Fosterling, and is fed either way.
 
-Scarcity is met by the store and by the herds. At Oskhelt the Suryadvara lineages provision the common store out of their own fees. The poor western lineages live off their yaks and horses and take the share of two caravans, and the herd is what outlasts a bad year. At [[place-tsokhar|Tsokhar]], where the ground carries a herd through a winter, the village lives as it did before there was any trade at all.
+Scarcity is met by the store and by the herds. At Oskhelt the Suryadvar lineages provision the common store out of their own fees. The poor western lineages live off their yaks and horses and take the share of two caravans, and the herd is what outlasts a bad year. At [[place-tsokhar|Tsokhar]], where the ground carries a herd through a winter, the village lives as it did before there was any trade at all.
 
 ## Those Who Cannot Work
 
@@ -178,7 +178,7 @@ Membership is blood or the hearth's decision. A hearth holds a crossing by desce
 
 ## What the Osket Do Not Say
 
-Every real culture has a blind spot its own thoughtful members argue about, and the Osket's is the silence. The Osket tell an outsider what to do and not why, and the misunderstandings that follow are held to be the lowlanders' own. Thoughtful Osket dispute whether the habit protects the road or protects the lineages from having to answer for it to anyone, and the door's abuse, the capital offense and the closed subject at Shunyadvara all rest on the same refusal.
+Every real culture has a blind spot its own thoughtful members argue about, and the Osket's is the silence. The Osket tell an outsider what to do and not why, and the misunderstandings that follow are held to be the lowlanders' own. Thoughtful Osket dispute whether the habit protects the road or protects the lineages from having to answer for it to anyone, and the door's abuse, the capital offense and the closed subject at Shunyadvar all rest on the same refusal.
 
 The sin is the sale of the road. The Osket remember in detail the two occasions on which a lineage sold the Guides' Road, and say what they say about them among themselves. A lowlander who learned the road would be worth killing, and an Osket who sold it is worth more, and the Osket deal with the seller themselves and have never explained how. The sixth road carries passage for people and packets that cannot be seen to cross, paid in advance and in gold, and the Pass-Shrines' refusal to bless it is older than any of the four reasons given for it. The lineages of the western passes do not discuss the lowlander at all.
 
@@ -205,7 +205,7 @@ The sin is the sale of the road. The Osket remember in detail the two occasions 
 [[place-gudesroad|The Guides' Road]]
 : the sixth crossing and the opening on its col
 
-[[place-meghadvara|Meghadvara]] · [[place-suryadvara|Suryadvara]]
+[[place-meghadvar|Meghadvar]] · [[place-suryadvar|Suryadvar]]
 : the western and the greatest of the passes
 
 [[miscgear-guidecord|The Guide-Cord]]

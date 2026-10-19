@@ -46,7 +46,7 @@ Each people explains the wound by the rite its dead went without:
 
 ## What Does Not
 
-Single deaths do not make a blood-field, and neither do small wars or burnings. A janapoda's militia war, a Varokh feud between villages or a raid on a farmstead kills by the dozen, and the dead are carried home to their rites. A sickness that empties a village leaves a sad place and an unlucky one. A hall burned with its people inside it was its own pyre, and its dead passed. A cursed road and a sorcery laid on an enclave leave haunted or sealed ground of their own kind. None of these is ever called a blood-field, and a people that names one carefully knows the difference.
+Single deaths do not make a blood-field, and neither do small wars or burnings. A janpoda's militia war, a Varokh feud between villages or a raid on a farmstead kills by the dozen, and the dead are carried home to their rites. A sickness that empties a village leaves a sad place and an unlucky one. A hall burned with its people inside it was its own pyre, and its dead passed. A cursed road and a sorcery laid on an enclave leave haunted or sealed ground of their own kind. None of these is ever called a blood-field, and a people that names one carefully knows the difference.
 
 ## The Five Kinds
 
@@ -82,7 +82,7 @@ From the field's side, two kinds of thing come through.
 
 ## Who Keeps One
 
-Nobody, by office. No people has made anyone answerable for a blood-field the way the Wardens answer for the aralwain. Local custom tends some fields: a house that makes a yearly offering at the edge, a line of ash laid where the grazing stops, a cup poured at the anniversary, lamps set out by the families whose dead lie there. A sect may claim one as its own work, as the [[affiliation-agnipantha|Agmi-pantra]] claims the fields of Vedyara. None of these is an office, and none of them obliges anyone to anything.
+Nobody, by office. No people has made anyone answerable for a blood-field the way the Wardens answer for the aralwain. Local custom tends some fields: a house that makes a yearly offering at the edge, a line of ash laid where the grazing stops, a cup poured at the anniversary, lamps set out by the families whose dead lie there. A sect may claim one as its own work, as the [[affiliation-agmipantra|Agmi-pantra]] claims the fields of Vedyara. None of these is an office, and none of them obliges anyone to anything.
 
 ## What Ends One
 
@@ -126,7 +126,7 @@ A _shorukshetra_ (blood-field) is ground where thousands died with no conch, no 
 
 **How the Vedyari live beside one.** A village near a _shorukshetra_ keeps indoors after dark and shuts its doors on the field's side. The roads bend round the fields, and a drover who must cross waters his beasts first and crosses at noon. The saying given to a traveler is the same in every district: "Cross where the sun can see you, and do not answer anything that calls." A thin field is a _ghurakshetra_ (cursed field), and nobody near one says the word after sunset. The road round it is barred at dusk, its edge is marked with stones, and the march companies tell new men the names of those who went in and were found at the edge in the morning.
 
-Vedyara has three _shorukshetras_ in twenty-eight centuries, one to each age of war: [[place-oluratarna|Oluratarana]], where a king forbade the pyre to a rebel host about 300 BF; [[place-gajasthali|Gajastali]], where two armies broke among their own elephants about 270 AF; and [[place-lanthusthli|Lantustali]], where the march kingdom died under the steppe host in 315 AF, the one _ghurakshetra_ among them. Its militia wars are fought by hundreds, and the dead are carried home and burned, so no janapoda battle has ever made one.
+Vedyara has three _shorukshetras_ in twenty-eight centuries, one to each age of war: [[place-olurtaran|Olurtaran]], where a king forbade the pyre to a rebel host about 300 BF; [[place-gajastal|Gajastal]], where two armies broke among their own elephants about 270 AF; and [[place-lantustal|Lantustal]], where the march kingdom died under the steppe host in 315 AF, the one _ghurakshetra_ among them. Its militia wars are fought by hundreds, and the dead are carried home and burned, so no janpoda battle has ever made one.
 
 ## Au'Khelathu: the Zelqezat
 
@@ -202,18 +202,18 @@ In order of their making. A dash marks a field whose battle no record dates.
 | -------------------------------------------- | -------------------------- | ------------------------------------------------------------ | ------- | -------------------- | ------------------------------- |
 | [[place-zelhalzi\|Zel-Halzi]]                | Au'Khelathu                | [[lore-thaulgau\|The Coming of the Tha'Ulgau]]               | 499 BF  | recurrence           | moderate                        |
 | [[place-sourplain\|The Sour Plain]]          | Helionis                   | [[lore-heladturnedwrk\|The Turned Working]]                  | 327 BF  | withering            | thin                            |
-| [[place-oluratarna\|Oluratarana]]            | Vedyara                    | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                        |
+| [[place-olurtaran\|Olurtaran]]               | Vedyara                    | [[lore-unburnford\|The Unburned Ford]]                       | ~300 BF | silence              | moderate                        |
 | [[place-jilaq\|Jilaq]]                       | The Khazryn steppe         | [[lore-towercities\|The Tower Cities]]                       | ~190 BF | recurrence           | thin                            |
 | [[place-thirstground\|The Thirsting Ground]] | Bizaria                    | [[lore-heladwells\|The Battle of the Wells]]                 | 158 BF  | silence              | moderate                        |
 | [[place-horngorge\|The Horn Gorge]]          | Tarvénia (Vylarian dead)   | [[lore-horngorgebtl\|The Battle of the Horn Gorge]]          | ~143 AF | recurrence           | moderate                        |
 | [[place-bldfldtiravlen\|Tiravlen]]           | Provenzia                  | [[lore-tiravlenbattle\|Tiravlen]]                            | ~152 AF | recurrence           | slight                          |
 | [[place-bloodhills\|The Blood Hills]]        | Provenzia                  | [[lore-bloodhillsbtl\|The Battle of the Blood Hills]]        | ~248 AF | dread                | moderate, thin at the shrine    |
 | [[place-eleventhgran\|The Eleventh Granary]] | Au'Khelathu                | [[lore-sealedgran\|The Battle of the Sealed Granaries]]      | 268 AF  | withering, contained | moderate, worse in lean years   |
-| [[place-gajasthali\|Gajastali]]              | Vedyara                    | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                          |
+| [[place-gajastal\|Gajastal]]                 | Vedyara                    | [[lore-fieldelephnt\|The Field of Elephants]]                | ~270 AF | recurrence           | slight                          |
 | [[place-domsey\|Domsey]]                     | The Nordlands              | [[lore-nordfirstsit\|The First Sitting on Domsey]]           | 287 AF  | silence              | thin, quieted at each sitting   |
 | [[place-skathhreth\|Skathhreth]]             | The Varokh                 | [[lore-skathhrethlss\|The Loss of the Legion at Skathhreth]] | ~291 AF | recurrence           | thin                            |
 | [[place-wemaq\|Vomek]]                       | The Khazryn steppe         | [[lore-hndrdbnnrs\|The Storm of the Hundred Banners]]        | ~312 AF | quickening           | moderate                        |
-| [[place-lanthusthli\|Lantustali]]            | Vedyara                    | [[lore-marupalafl\|The Fall of Marupala]]                    | 315 AF  | dread                | thin                            |
+| [[place-lantustal\|Lantustal]]               | Vedyara                    | [[lore-marupalfl\|The Fall of Marupal]]                      | 315 AF  | dread                | thin                            |
 | [[place-chariotfld\|The Chariot Field]]      | Au'Khelathu                | [[lore-vylconquest\|The Vylarian Conquest]]                  | 377 AF  | recurrence           | thin                            |
 | [[place-olcassafld\|Olkassa]]                | Vylaria                    | [[lore-olcassabtl\|The Battle of Olkassa]]                   | ~401 AF | quickening           | moderate                        |
 | [[place-skalfvatn\|Skalfvatn]]               | The Nordlands              | [[lore-nordkinwars\|The Kin-Wars]]                           | 466 AF  | recurrence           | moderate                        |
@@ -236,7 +236,7 @@ In order of their making. A dash marks a field whose battle no record dates.
 [[lore-bloodfields|The Blood-fields of Provenzia]]
 : the kingdom with more fields than anywhere else
 
-[[affiliation-agnipantha|Agmi-pantra]]
+[[affiliation-agmipantra|Agmi-pantra]]
 : the sect that burns the fields of Vedyara
 
 [[lore-khelathiclt|Khelathi]]

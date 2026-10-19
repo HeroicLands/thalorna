@@ -3,7 +3,7 @@ shortcode: therecall
 name: {full: The Recall, aliases: []}
 type: lore
 subType: literature
-description: "The verse dialogue read at Danurkota's Festival of the Returning: two bowmen of one kulra in Dhaunapur's pay argue through the night the four masters' recall reaches the camp, and one of them stands on each side of the gorge at Sharamukha."
+description: "The verse dialogue read at Danurkot's Festival of the Returning: two bowmen of one kulpa in Daunapur's pay argue through the night the four masters' recall reaches the camp, and one of them stands on each side of the gorge at Sharamukha."
 tags: [draft]
 data:
   culture: vedyariclt
@@ -11,7 +11,7 @@ data:
   subjects:
     - lore-hghlndwar
     - place-sharamukha
-    - affiliation-dhnrktjnpd
+    - affiliation-dnrktjnpd
     - place-bowfort
     - affiliation-bharyastan
     - affiliation-suvrgrjnpd
@@ -20,9 +20,9 @@ data:
   packFolder: vedyara
 ---
 
-**The Recall** is the verse dialogue read at the [Festival of the Returning]{.name data-type="lore/gathering"} in [[affiliation-dhnrktjnpd|Danurkota]] every autumn, in the court of [[place-dhnrktemple|the Mahajaya Temple at Danurkota]] inside [[place-bowfort|the Bow-Fort]], where the graduates back from a year's service abroad stand with their bows before the scale of [[lore-mahajayadty|Mahajaya]] and the inner gate until the reading ends and the gate is opened to them. The master of [[place-highdraw|the High Draw]] reads it, by the same unwritten convention that gives him the first word among the four on any question of war. It tells the night of [[lore-hghlndwar|the Highland War]] on which the four masters' recall reached the camp of [Dhaunapur]{.name data-type="affiliation/polity"}, the mountain kingdom that had marched on [[affiliation-suvrgrjnpd|Suvarnageri]] with Dhanurkoti graduates in its companies, through two bowmen of one kulra at one fire: [Sharavira Sharavanakirti]{.name data-type="being/npc"} of the clan [Sharavanakirti]{.name data-type="affiliation/lineage"}, of the reed village of [[place-sharavana|Shiravana]], and his elder brother, who argue until first light which duty binds a graduate whose janapoda has called his bow home. It follows Sharavira down to the four hundred horse of [[affiliation-bharyastan|the Kingdom of Bharyastan]] and to the gorge-mouth of [[place-sharamukha|Sharamukha]], the mouth of arrows (_shirva_, a reed or an arrow, is the first word of the clan's name and the village's too), where he stands on the slope above a road two carts wide and his brother, as he believes, stands in the host below it. The elder brother has no name anywhere in the work. The academies struck from their rolls every graduate who stayed in Dhaunapur's service, keep the struck names and do not read them, and the work keeps the same silence: where a name would fall, the reader stops for its length and goes on.
+**The Recall** is the verse dialogue read at the [Festival of the Returning]{.name data-type="lore/gathering"} in [[affiliation-dnrktjnpd|Danurkot]] every autumn, in the court of [[place-dnrktemple|the Mahajaya Temple at Danurkot]] inside [[place-bowfort|the Bow-Fort]], where the graduates back from a year's service abroad stand with their bows before the scale of [[lore-mahajayadty|Mahajaya]] and the inner gate until the reading ends and the gate is opened to them. The master of [[place-highdraw|the High Draw]] reads it, by the same unwritten convention that gives him the first word among the four on any question of war. It tells the night of [[lore-hghlndwar|the Highland War]] on which the four masters' recall reached the camp of [Daunapur]{.name data-type="affiliation/polity"}, the mountain kingdom that had marched on [[affiliation-suvrgrjnpd|Suvargeri]] with Danurkot graduates in its companies, through two bowmen of one kulpa at one fire: [Sharabira Sharakirti]{.name data-type="being/npc"} of the clan [Sharakirti]{.name data-type="affiliation/lineage"}, of the reed village of [[place-shiraban|Shiraban]], and his elder brother, who argue until first light which duty binds a graduate whose janpoda has called his bow home. It follows Sharabira down to the four hundred horse of [[affiliation-bharyastan|the Kingdom of Bharyastan]] and to the gorge-mouth of [[place-sharamukha|Sharamukha]], the mouth of arrows (_shirka_, a reed or an arrow, is the first word of the clan's name and the village's too), where he stands on the slope above a road two carts wide and his brother, as he believes, stands in the host below it. The elder brother has no name anywhere in the work. The academies struck from their rolls every graduate who stayed in Daunapur's service, keep the struck names and do not read them, and the work keeps the same silence: where a name would fall, the reader stops for its length and goes on.
 
-The form is the Vedyari dialogue in couplets (_pakha_), a long line answered by a short one, each speaker's turns set under his name, in four parts the fort reads without a break; the rendering keeps the pair of lines and the speakers and does not rhyme, since the original does not. The first and last parts are in the reader's own voice, the camp is told with the brothers' speech inside it, and the gorge is given entirely in Sharavira's mouth, which is where the record and the work part. The academy roll of that year carries Sharavira Sharavanakirti of Shiravana among those who came home and says nothing else of him. The fort's record holds the recall, the ride with Bharyastan's horse and the stopping of the host at the mouth, and holds no account of what any struck man did at Sharamukha, nor of how many stayed with the valley king's companies, whom nobody has counted. That Sharavira knew his brother's draw across the gorge is the work's claim and his own: the cairn is the only witness, and nobody has looked under it. No telling from Dhaunapur's side has come down the gold road.
+The form is the Vedyari dialogue in couplets (_poksa_), a long line answered by a short one, each speaker's turns set under his name, in four parts the fort reads without a break; the rendering keeps the pair of lines and the speakers and does not rhyme, since the original does not. The first and last parts are in the reader's own voice, the camp is told with the brothers' speech inside it, and the gorge is given entirely in Sharabira's mouth, which is where the record and the work part. The academy roll of that year carries Sharabira Sharakirti of Shiraban among those who came home and says nothing else of him. The fort's record holds the recall, the ride with Bharyastan's horse and the stopping of the host at the mouth, and holds no account of what any struck man did at Sharamukha, nor of how many stayed with the valley king's companies, whom nobody has counted. That Sharabira knew his brother's draw across the gorge is the work's claim and his own: the cairn is the only witness, and nobody has looked under it. No telling from Daunapur's side has come down the gold road.
 
 : The Reading {#reading}
 
@@ -55,9 +55,9 @@ Below the gold road the valley king's fires
 His companies of the bow slept by their staves,
   and the mark on the grips was ours.
 Two of the reed village lay at one fire,
-  one mother, one kulra:
+  one mother, one kulpa:
 the elder, eleven years drawn for the king's pay,
-  and Sharavira, two.
+  and Sharabira, two.
 
 At the third watch a runner came up the road
   with no lamp and four seals.
@@ -72,9 +72,9 @@ and the bowmen came out of their blankets to the fire,
   and the three say it with him.
 The bow was given at the gate. It was not sold.
   The mark on the grip is ours.
-Danurkota has no quarrel with the gold mountain
+Danurkot has no quarrel with the gold mountain
   and none with any neighbor.
-What the janapoda gave, the janapoda calls home.
+What the janpoda gave, the janpoda calls home.
   Every bow in the valley king's hand:
 come down to the horse at Bharyastan
   and stand with them at the mouth.
@@ -94,7 +94,7 @@ I have eaten the valley king's salt eleven years.
 It is in the blood. You cannot hand it back
   at a gate, at night, to a boy with his feet open.
 
-Sharavira:
+Sharabira:
 Salt he guaranteed, and bread, and silver at the new moon,
   and we have had them.
 A king is owed what he guaranteed and nothing past it.
@@ -112,17 +112,17 @@ Who hires a bow that reads its contract by firelight
 The fort lives on hire. The reed village lives on hire.
   Our mother's roof is hire.
 
-Sharavira:
+Sharabira:
 The fort lives on the bow being the fort's.
   That is the thing hired.
 A bow that goes where the salt goes is a bow any man can buy
   and no king pays for.
-The valley king hired Danurkota's word in us.
+The valley king hired Danurkot's word in us.
   The word has come up the road.
 
 The elder:
 I cut an oath with the company on the stone at the valley gate,
-  a _korvu_, before witnesses:
+  a _kortu_, before witnesses:
 to stand where they stand. Forty men know my face.
   The man on my left is from the valley.
 He cannot shoot. I shoot for him. If I gho down the road
@@ -130,13 +130,13 @@ He cannot shoot. I shoot for him. If I gho down the road
 Tell me the duty that lets that arrow through.
   Name it in its order.
 
-Sharavira:
-In order: the household, the kulra, the village and its sabhra,
+Sharabira:
+In order: the household, the kulpa, the village and its sabhra,
   the temple, and the king.
 Your company is in the king's place. It is last.
   You swore it under his salt.
 The man on your left has a king. Let the king stand on his left.
-  I am not his kulra.
+  I am not his kulpa.
 
 The elder:
 Four old men in a fort wrote on a leaf.
@@ -146,9 +146,9 @@ Mahajaya did not come up the gold road with a lamp;
 Her scale is in the temple. Nobody put a thumb on it tonight.
   Show me the god in the leaf.
 
-Sharavira:
+Sharabira:
 The four sit together and answer together on war.
-  That is the janapoda's mouth.
+  That is the janpoda's mouth.
 No god spoke when the master put the bow in my hand;
   the master spoke, and it was given.
 And her scale is at the mountain. Her gold is weighed on it
@@ -166,11 +166,11 @@ and goes into the temple chest, and the four sit on the chest.
 to tell me to spit his salt in the fire.
   Answer that.
 
-Sharavira:
+Sharabira:
 The retainer bought him officers out of the halls.
   It did not buy him the mountain.
 What the fort owes him for it, the fort will say to his face
-  at the Melra, and pay.
+  at the Melka, and pay.
 What I owe him is paid to the new moon.
   I owe him the next moon nothing.
 
@@ -182,14 +182,14 @@ We stand as Senaja by the fort's own grant, you and I,
 The host is called. Gho down the road, and by the fort's own law
   you are a reed-cutter with a bow.
 
-Sharavira:
-The host the manuals mean is the janapoda's host,
+Sharabira:
+The host the manuals mean is the janpoda's host,
   the one the sabhra raises.
 The valley king's companies are a contract and a sack of salt.
   The grant was the fort's.
 What the fort's law gave, the fort's law can call back.
   That is what the leaf says.
-A Dhanurkoti does not shoot at Danurkota's neighbor.
+A Danurkot does not shoot at Danurkot's neighbor.
   That is all it says.
 
 The elder:
@@ -200,11 +200,11 @@ The roof in the marsh is a contract roof. Strike my name.
 The household first, you said. Say it again,
   and then say who feeds it.
 
-Sharavira:
+Sharabira:
 The household first. Here is my silver. Two years.
   It was earned under his salt until tonight.
-Take it down to her with yours. The kulra feeds her after;
-  that is what a kulra is for.
+Take it down to her with yours. The kulpa feeds her after;
+  that is what a kulpa is for.
 The silver stays with you. The name goes home with me.
   Both are hers.
 
@@ -225,8 +225,8 @@ Let them cut us both out of the roll, two names in one place,
 I have not said that name since the marsh.
   I am saying it.
 
-Sharavira:
-The roll says Sharavira Sharavanakirti of Shiravana.
+Sharabira:
+The roll says Sharabira Sharakirti of Shiraban.
   Say what the roll says.
 
 He took the bow from the rack and the string from his neck
@@ -247,7 +247,7 @@ The rest stayed by the fires. The fort does not count them.
 : The Gorge {#gorge}
 
 ```poetry {form=dialogue meter="a long line answered by a short one" lang=en}
-Sharavira:
+Sharabira:
 Three days down with the staves on our backs and no fires,
   and the reed kept dry.
 At Bharyastan the horse were already in the yard,
@@ -365,8 +365,8 @@ and stand before the scale, and the roll is read.
 The master of the High Draw reads it from the leaf,
   name and clan and village,
 and the court answers for each who came home: Home.
-  It comes to Sharavira
-Sharavanakirti of Shiravana, and the court says: Home.
+  It comes to Sharabira
+Sharakirti of Shiraban, and the court says: Home.
   It comes to a place
 where a line has been cut through the name with a knife,
   and the name is under the line,
@@ -398,10 +398,10 @@ In this court, before the scale of the goddess,
 [[place-sharamukha|Sharamukha]]
 : the gorge-mouth, the cairn of broken arrows and the shrine with the lamp-ledge
 
-[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
-: the janapoda whose four masters called the bows home, and its Festival of the Returning
+[[affiliation-dnrktjnpd|Danurkot Janpoda]]
+: the janpoda whose four masters called the bows home, and its Festival of the Returning
 
-[[place-dhnrktemple|The Mahajaya Temple at Danurkota]]
+[[place-dnrktemple|The Mahajaya Temple at Danurkot]]
 : the court the work is read in, and the Watch of the Bow-String
 
 [[place-bowfort|The Bow-Fort]]
@@ -410,13 +410,13 @@ In this court, before the scale of the goddess,
 [[place-highdraw|The Academy of the High Draw]]
 : the bow drawn to the ear, and the master who reads
 
-[[place-sharavana|Shiravana]]
-: the reed village the brothers' kulra is of
+[[place-shiraban|Shiraban]]
+: the reed village the brothers' kulpa is of
 
 [[affiliation-bharyastan|The Kingdom of Bharyastan]]
 : the four hundred horse the gold treaty called
 
-[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+[[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the gold mountain the host marched on, and the Weighing
 
 [[affiliation-mahajaya|Mahajaya]]

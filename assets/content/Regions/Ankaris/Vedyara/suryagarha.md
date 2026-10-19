@@ -3,19 +3,19 @@ shortcode: suryagarha
 name: {full: Suryagarha, aliases: []}
 type: place
 subType: settlement
-description: "The fortress-capital of Shikharalaya, built across the throat of Suryadvara—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
+description: "The fortress-capital of Shikhalaya, built across the throat of Suryadvar—citadel, customs-house and caravanserai, full for two months of the year and garrisoned for twelve."
 tags: [city, fortress, caravan, market, mountain]
 data:
   demonym: null
   lore: []
-  parents: [vindhyalayaland]
+  parents: [shikhalayaland]
   population: 40000
-  routes: [{to: suryadvara, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]
+  routes: [{to: suryadvar, bearing: N, mode: land, days: 20, terrain: [road, mountains, ice]}]
   packFolder: vedyara
-  government: vindhyalay
+  government: shikhalaya
 ---
 
-**Suryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-vindhyalay|Shikharalaya]] and stands across the throat of [[place-suryadvara|Suryadvara]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not gho beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
+**Suryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-shikhalaya|Shikhalaya]] and stands across the throat of [[place-suryadvar|Suryadvar]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not gho beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
 
 The site is a shelf of rock where the gorge narrows to something a wall can be thrown across, with the terraced valleys falling away south behind it and twenty days of ice above it to the fork. Everything the city eats comes up the terrace road. Everything it is rich from comes down the pass.
 
@@ -59,8 +59,8 @@ It is an easy road and a well-kept one, and it is the reason Suryagarha is a cit
 
 ## See Also
 
-- [[affiliation-vindhyalay|Shikharalaya]]—the kingdom seated here
-- [[place-vindhyalayaland|Shikharalaya]]—the land
-- [[place-suryadvara|Suryadvara]]—the pass the city stands across
+- [[affiliation-shikhalaya|Shikhalaya]]—the kingdom seated here
+- [[place-shikhalayaland|Shikhalaya]]—the land
+- [[place-suryadvar|Suryadvar]]—the pass the city stands across
 - [[place-pssshrines|The Pass-Shrines]] · [[affiliation-osketguides|the Osket]] · [[place-slvrgorges|the Silver Gorges]]
 - [[place-oskhelt|Oskhelt]]—the Osket village four days above the city

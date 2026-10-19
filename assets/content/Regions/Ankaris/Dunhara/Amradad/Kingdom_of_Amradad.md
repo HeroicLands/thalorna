@@ -75,7 +75,7 @@ data:
     dunhartrbs: unaligned
     cnfdrtntrzlnstts: aligned
     vylarinmpr: rival
-    vindhyalay: unaligned
+    shikhalaya: unaligned
   packFolder: amradad
 sohl: {system: {commonSkills: [dunharlng]}}
 

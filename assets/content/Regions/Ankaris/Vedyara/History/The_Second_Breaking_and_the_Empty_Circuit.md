@@ -3,7 +3,7 @@ shortcode: emptycrct
 name: {full: The Second Breaking and the Empty Circuit, aliases: [The Empty Circuit]}
 type: lore
 subType: history
-description: "About 440 AF a raid out of the river country took a great lineage's wells and Gomarga's king Vishanapala did not ride to them; the great lineages walked their herds off the circuit, and for a century, to about 540, the moving court arrived at wells with nobody at them."
+description: "About 440 AF a raid out of the river country took a great lineage's wells and Gomarga's king Vishanpal did not ride to them; the great lineages walked their herds off the circuit, and for a century, to about 540, the moving court arrived at wells with nobody at them."
 tags: [history, vedyara]
 data:
   culture: vedyariclt
@@ -13,12 +13,12 @@ data:
       until: ~540
       kind: loss
       depth: region
-      sources: [affiliation-gomarga, place-vandhyabhumi]
+      sources: [affiliation-gomarga, place-vandyabhumi]
       summary: >-
-        A raid out of the river country takes a great lineage's wells, and King Vishanapala does not ride to them; the guarantee half of the well bargain fails. The great lineages move their herds off the circuit and keep them off. For a century the moving court arrives at wells with nobody at them, the plateau's well-villages empty, and a filled well becomes the plateau's sign for a broken word. The lineages walk back onto the circuit about 540.
+        A raid out of the river country takes a great lineage's wells, and King Vishanpal does not ride to them; the guarantee half of the well bargain fails. The great lineages move their herds off the circuit and keep them off. For a century the moving court arrives at wells with nobody at them, the plateau's well-villages empty, and a filled well becomes the plateau's sign for a broken word. The lineages walk back onto the circuit about 540.
       standing: single-source
       where:
-        locus: [place-vandhyabhumi]
+        locus: [place-vandyabhumi]
         reach:
           - place: place-shunyakupa
             how: >-
@@ -31,7 +31,7 @@ data:
             The kingdom's worst century followed the second breaking. The chief queen's standing camp keeps the records and the hostages because of it.
           agrees: full
       unresolved:
-        - why Vishanapala did not ride; the standing camp's record enters that he did not, and not why
+        - why Vishanpal did not ride; the standing camp's record enters that he did not, and not why
 ---
 
 "He filled the well," the plateau says of a man who broke his word, and the saying comes from this century. **The Second Breaking and the Empty Circuit** recounts the hundred years in which [[affiliation-gomarga|Gomarga]] was a kingdom of wells with no herds at them.
@@ -40,7 +40,7 @@ data:
 
 The plateau's bargain has two halves: the crown takes a share of what a lineage's well earns, and the crown guarantees the lineage against anyone who tries to take the well. The first half was broken by a king's greed about 265 ([[lore-wellbrk1|the First Breaking]]). The second was broken by a king's absence.
 
-About 440 AF a raid came up out of the river country and took the wells of a great lineage on the eastern edge of [[place-vandhyabhumi|Vandyabhumi]]. The lineage sent to the crown. The king, [Vishanapala]{.name data-type="being/npc"}, was on his circuit three wells away, and he did not ride. The standing camp's record enters that he did not, and does not say why.
+About 440 AF a raid came up out of the river country and took the wells of a great lineage on the eastern edge of [[place-vandyabhumi|Vandyabhumi]]. The lineage sent to the crown. The king, [Vishanpal]{.name data-type="being/npc"}, was on his circuit three wells away, and he did not ride. The standing camp's record enters that he did not, and does not say why.
 
 ## The Walk-Off
 
@@ -62,5 +62,5 @@ About 540 the great lineages walked back onto the circuit, on terms the crown ha
 
 - [[place-shunyakupa|Shunyakupa]]—the filled well
 - [[lore-wellbrk1|The First Breaking of the Well Bargain]]—the other half
-- [[affiliation-gomarga|Gomarga]] · [[place-vandhyabhumi|Vandyabhumi]]
+- [[affiliation-gomarga|Gomarga]] · [[place-vandyabhumi|Vandyabhumi]]
 - [[lore-compactpeace|The Compact Peace]]

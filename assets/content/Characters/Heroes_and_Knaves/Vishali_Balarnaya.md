@@ -11,8 +11,8 @@ data:
   occupation: Fool
   lore: []
   culture: vedyariclt
-  homes: [rajapur]
-  affiliations: {rajaprjnpd: {rank: 3}, varakpnthn: {rank: 1}}
+  homes: [rajepur]
+  affiliations: {rajeprjnpd: {rank: 3}, vrnkpnthn: {rank: 1}}
   gender: female
   species: humanflk
   born: 693.278

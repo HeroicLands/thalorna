@@ -21,7 +21,7 @@ data:
 
 Nothing crosses the Grazian wall without a guide's leave, and no state in [[place-vedyarargn|Vedyara]] or beyond it can grant that leave in the guide's place. The range closes the whole northern edge of the subcontinent, it is the highest in [[place-worldthlrn|the World of Thalorna]], and only six roads gho over it.
 
-A register-writer at the [[place-suryadvara|Suryadvara]] shrine, asked by a newcomer how busy the wall is, turns back a page of the crossing-book before he answers. "Three or four caravans a year on each of the six roads, all of them in the weeks when the ice lets gho. The guides keep roughly half of what a load is worth and the merchant house that organized the caravan keeps the rest. The owner of the cargo keeps the privilege of having moved goods across the highest mountains in the world."
+A register-writer at the [[place-suryadvar|Suryadvar]] shrine, asked by a newcomer how busy the wall is, turns back a page of the crossing-book before he answers. "Three or four caravans a year on each of the six roads, all of them in the weeks when the ice lets gho. The guides keep roughly half of what a load is worth and the merchant house that organized the caravan keeps the rest. The owner of the cargo keeps the privilege of having moved goods across the highest mountains in the world."
 
 ## Overview
 
@@ -29,9 +29,9 @@ The **Grazian Mountains** are the unaligned wall north of the Vedyari subcontine
 
 The summits stay under snow and glacier ice throughout the year, even when the lower passes briefly open in late summer, and the peaks catch the dawn an hour before the lowlands beneath them. The glaciers have held their valleys to the same shape since before the [[lore-flksinale|Sinale]] arrived on the world, and their snowfields feed half the rivers of Vedyara and a meaningful share of the Khazryn's southwestern oases.
 
-Vedyari geographers write **the Grazian Range** in formal scholarship and **the Grazian Wall** in poetry. The foothill janapadas keep a dozen older names in their own dialect, each of them older than the classical Vedyari tongue and none of them translating cleanly.
+Vedyari geographers write **the Grazian Range** in formal scholarship and **the Grazian Wall** in poetry. The foothill janpodas keep a dozen older names in their own dialect, each of them older than the classical Vedyari tongue and none of them translating cleanly.
 
-The range is impassable to organized travel for ten months of the year. Six crossings exist in its two thousand miles. Five are high passes, [[place-meghadvara|Meghadvara]], [[place-suryadvara|Suryadvara]], [[place-tamradvara|Tamradvara]], [[place-jnanadvara|Jnanadvara]] and [[place-sankhadvra|Shankhadvara]], each with a shrine at the summit that says its blessing over every caravan that attempts it. The sixth is [[place-gudesroad|the Guides' Road]], which no shrine blesses and no lowlander walks unled.
+The range is impassable to organized travel for ten months of the year. Six crossings exist in its two thousand miles. Five are high passes, [[place-meghadvar|Meghadvar]], [[place-suryadvar|Suryadvar]], [[place-tamradvar|Tamradvar]], [[place-jnanadvar|Jnanadvar]] and [[place-shankhadvr|Shankhadvar]], each with a shrine at the summit that says its blessing over every caravan that attempts it. The sixth is [[place-gudesroad|the Guides' Road]], which no shrine blesses and no lowlander walks unled.
 
 All six open briefly in late summer and are dangerous even then. A small population of mountain peoples, who live by guiding caravans across them, knows each road in detail. What crosses is silk and porcelain from Tantsou, gold and gems from Vedyara, and horses and silver from the Khazryn, in small, expensive shipments under the guides' protection. The volume is small, the value very high and the markup higher still.
 
@@ -42,7 +42,7 @@ The range forms a great curving arc. It begins in the high northern country east
 Scholars in Vedyara and in the Khazryn country name three sub-ranges:
 
 [[place-sthrnwall|The Southern Wall]]
-: the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system, and the rivers draining south from them are the great river systems of the Vedyari subcontinent: [[place-chandrmahi|the Chandramahi]], [[place-sarvadarivr|the Sarveda]], [[place-mahanadi|the Mahanodi]], [[place-bharavarivr|the Bharava]] and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-varakpnthn|Varnuka deities]], and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
+: the long, almost continuous escarpment that forms the northern border of Vedyara. Its peaks are the highest of the entire system, and the rivers draining south from them are the great river systems of the Vedyari subcontinent: [[place-chandrmahi|the Chandramahi]], [[place-sarvedarivr|the Sarveda]], [[place-mahanodi|the Mahanodi]], [[place-bharavarivr|the Bharava]] and others. Vedyari pilgrimage tradition makes particular Southern Wall peaks the dwelling-places of [[affiliation-vrnkpnthn|Varnuka deities]], and certain glacier-springs the literal cosmic sources from which their rivers flowed at the beginning of time.
 
 [[place-estrnreach|The Eastern Reach]]
 : the sub-range that arcs eastward toward Tantsou's western frontier. It is less massive than the Southern Wall and still formidable, and it is the principal overland barrier between the Vedyari and Tantsou civilizations.
@@ -62,7 +62,7 @@ The trans-Grazian peoples number thirty thousand across the entire range. They l
 
 Each people that looks at the range reads something different in it.
 
-- For the [[lore-vedyariclt|Vedyari]], specific Southern Wall peaks are the dwelling-places of [[affiliation-varakpnthn|Varnuka]] deities, and the glacier-springs that feed the great rivers are sites of major pilgrimage. The annual ascent-pilgrimages to the lower slopes draw hundreds of thousands of devotees in the favorable months.
+- For the [[lore-vedyariclt|Vedyari]], specific Southern Wall peaks are the dwelling-places of [[affiliation-vrnkpnthn|Varnuka]] deities, and the glacier-springs that feed the great rivers are sites of major pilgrimage. The annual ascent-pilgrimages to the lower slopes draw hundreds of thousands of devotees in the favorable months.
 - For the Khazryn, the Western Descent is the ancestral homeland, the country their forebears came down from in the first age. Khazryn genealogies root themselves in particular peaks, and the surviving Khazryn princely houses keep ceremonial hereditary connections to particular valleys of the descent, most of which they have not visited in many generations.
 - For the [[affiliation-tribestrzd|Atarzád]], the range is theologically irrelevant. In their teaching, the land was promised to them at [[place-mountshofar|Mount Shofar]] in the southeastern Khazryn highlands, and the wall marks the southern edge of the geographic frame of the [Promise of the Tellumel]{.name data-type="lore"}.
 - For the trans-Grazian peoples themselves, the whole range is the dwelling-place of forces they call by names they do not share with outsiders. The travel-protocols a lowland caravan must keep to cross safely come from that reckoning, and outsiders are told what to do and not why.
@@ -72,9 +72,9 @@ Each people that looks at the range reads something different in it.
 
 The trans-Grazian trade is what the range means economically to the lowland civilizations. Three to four caravans a year cross each of the six routes, in the favorable late-summer window. The goods are the high-value, low-weight specialties: silk and porcelain west, gold and gems east, and specialty medicines, manuscripts and certain ritual goods both ways.
 
-The guides take roughly half the value as their fee. The caravan organizers take the other half, and are usually Vedyari merchant houses based in [[affiliation-chandrapur|Chendrapur]] or one of the foothill janapadas.
+The guides take roughly half the value as their fee. The caravan organizers take the other half, and are usually Vedyari merchant houses based in [[affiliation-chendrapur|Chendrapur]] or one of the foothill janpodas.
 
-On the Vedyari side the trade is governed as well as taxed. The kingdom of [[affiliation-vindhyalay|Shikharalaya]] holds the greatest of the passes at its throat from the fortress-city of [[place-suryagarha|Suryagarha]], where every bale is weighed on entry and again on exit. [[place-pssshrines|The Pass-Shrines]] are a chain of Varnuka temples kept year-round at the summits by a hereditary line of **Retuja** ushtakas, who live at altitudes that would kill an unaccustomed lowlander in a week. They bless the caravans and keep the only written record of who crossed and when. Between the customs-house and the shrines, a merchant knows the price of a crossing before he sets out.
+On the Vedyari side the trade is governed as well as taxed. The kingdom of [[affiliation-shikhalaya|Shikhalaya]] holds the greatest of the passes at its throat from the fortress-city of [[place-suryagarha|Suryagarha]], where every bale is weighed on entry and again on exit. [[place-pssshrines|The Pass-Shrines]] are a chain of Varnuka temples kept year-round at the summits by a hereditary line of **Retuja** ushtakas, who live at altitudes that would kill an unaccustomed lowlander in a week. They bless the caravans and keep the only written record of who crossed and when. Between the customs-house and the shrines, a merchant knows the price of a crossing before he sets out.
 
 ## The Drenavar Confusion
 
@@ -97,7 +97,7 @@ Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : Eastern empire across the Eastern Reach
 
-[[affiliation-vindhyalay|Shikharalaya]]
+[[affiliation-shikhalaya|Shikhalaya]]
 : The kingdom holding the greatest of the passes
 
 [[place-suryagarha|Suryagarha]]
@@ -112,7 +112,7 @@ Vedyari and Tellumi folk-tradition sometimes confuses the Grazian Mountains with
 [[place-slvrgorges|The Silver Gorges]]
 : The lapis and silver valleys of the Eastern Reach
 
-[[place-sanghafort|The Sangra-fort]]
+[[place-sangrafort|The Sangra-fort]]
 : The one standing garrison on the range
 
 [[place-drenavrspn|The Drenavar Spine]]

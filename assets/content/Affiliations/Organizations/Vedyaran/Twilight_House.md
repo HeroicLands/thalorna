@@ -51,10 +51,10 @@ data:
         Keeper of the curriculum—the poetry, the instruments, the reckoning, the reading of a room.
       Keeper of the Ledger: Custodian of the product and its three tiers, and of who has bought which of them.
       Factor to the Shrena: >-
-        The House's channel to the Adanashreni, through whom recruitment and shared operations pass.
+        The House's channel to the Adanshreni, through whom recruitment and shared operations pass.
       Doorkeeper: Warden of the threshold, who knows every client's face and admits no servant behind him.
       House Physician: Keeper of the Companions' health, and of a great deal that is never written down.
-  seat: sandhyagrha
+  seat: sandyagrha
   population: null
   economy: []
   lore: [vedyariclt]
@@ -63,13 +63,13 @@ data:
     mrchntclctvvdyr: unaligned
     velvethand: unaligned
     crmsyndctsthlrn: unaligned
-    vindhyalay: unaligned
+    shikhalaya: unaligned
 sohl: {system: {commonSkills: []}}
 ---
 
 A Loom-Master's steward, sending his master's nephew off to his first season in [[place-vyalendra3|Vyalendra]], gives him one rule about **the Twilight House**: "You will be invited, because everyone of standing is. Gho. Enjoy it. Say nothing in those rooms you would not say to a creditor, because everything said there is written up before the lamps are out."
 
-The Twilight House, also called the House of the Long Evening after its principal house, [[place-sandhyagrha|Sandyagriha]], is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in Vyalendra and it keeps satellite houses in each major city of [[place-vedyarargn|Vedyara]]. Tradition dates it to the reign of the eleventh and last Maharava of Vyalendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
+The Twilight House, also called the House of the Long Evening after its principal house, [[place-sandyagrha|Sandyagriha]], is a courtesan establishment and an intelligence network, and the two are one business. Its principal house stands in Vyalendra and it keeps satellite houses in each major city of [[place-vedyarargn|Vedyara]]. Tradition dates it to the reign of the eleventh and last Maharava of Vyalendra, though the date is uncertain. The court is gone and the House is not, which is the fact everything else about it rests on.
 
 ## Overview
 
@@ -95,8 +95,8 @@ The curriculum is famously rigorous. A graduate recites classical Vedyaran poetr
 
 ## Notable Affiliates
 
-[[being-chndrkrtsndrjyvl|Chandrakirtisundari Jayavalli]]
-: a Companion of growing prominence, recruited into [[affiliation-adanasreni|the Adanashreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
+[[being-chndrljyvl|Chandreli Jayavalli]]
+: a Companion of growing prominence, recruited into [[affiliation-adanshreni|the Adanshreni]] through Twilight House connections. She walks an increasingly precarious line between three masters, her clients, the House and the Shrena.
 
 The Mistress of the Long Evening
 : the present holder is unnamed in public records. She is widely believed to be a former courtesan once celebrated as the most accomplished of her generation, withdrawn from clients twenty years ago.
@@ -109,11 +109,11 @@ The steward's advice to a newcomer is to learn the three tiers by what they cost
 - **Tier two** is specific intelligence on a named target, gathered to commission and sold to the commissioning party. Pricing varies by target and difficulty, and some targets are refused.
 - **Tier three** is direct action: using a Companion's access to plant a document, switch a vial or deliver a message that cannot be traced. It is rare, expensive and politically dangerous, and the Mistress will deny it exists.
 
-A standing arrangement joins the House to the Adanashreni. The Shrena recruits selected Companions into a dual role and uses House access to coordinate operations it could not otherwise reach. Both sides profit from it and both fear it, since either could destroy the other.
+A standing arrangement joins the House to the Adanshreni. The Shrena recruits selected Companions into a dual role and uses House access to coordinate operations it could not otherwise reach. Both sides profit from it and both fear it, since either could destroy the other.
 
 ## Relations
 
-Adanashreni
+Adanshreni
 : formal partnership for intelligence sharing and recruitment. Tension arises when the Shrena's interests conflict with a high-paying client's.
 
 The [[affiliation-vyalendra2|Loom-Council]] and [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]]
@@ -134,17 +134,17 @@ Working Companions wear no fixed uniform, but each wears a silver chain at the t
 - **The Burned Transcript.** A Companion's debrief has been destroyed before it reached the handler. The conversation it recorded would have been worth a fortune to several clients. The House must find out who burned it and why, and whether the Companion is to be praised or executed.
 - **The Withdrawing Client.** A senior client has stopped patronizing the House. His withdrawal is itself intelligence, but his motive is unknown. He may be closing his exposure because he is about to make a move that would not survive scrutiny, or he may have been warned that the House has him compromised.
 - **The Apprentice Who Saw.** A thirteen-year-old in training has overheard something she should not have, by accident, and is now a security problem. The House must decide whether to protect her, promote her early or quietly disappear her.
-- **The Mistress's Succession.** The Mistress of the Long Evening is dying. The Council of the Veil will choose her replacement, and the choice will decide whether the House's next generation leans toward the Loom-Council, the Merchant Collective or the Adanashreni. Every faction has a candidate, and the campaign is already underway.
+- **The Mistress's Succession.** The Mistress of the Long Evening is dying. The Council of the Veil will choose her replacement, and the choice will decide whether the House's next generation leans toward the Loom-Council, the Merchant Collective or the Adanshreni. Every faction has a candidate, and the campaign is already underway.
 
 ## See Also
 
-[[place-sandhyagrha|Sandyagriha]]
+[[place-sandyagrha|Sandyagriha]]
 : the principal house, four streets from the Loom-Council's hall
 
 [[place-vyalendra3|Vyalendra]]
 : the city the House keeps its seat in
 
-[[affiliation-adanasreni|The Adanashreni]]
+[[affiliation-adanshreni|The Adanshreni]]
 : the Shrena of Taking, the House's partner and its danger
 
 [[affiliation-mrchntclctvvdyr|The Merchant Collective of Vedyara]]

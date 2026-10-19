@@ -23,7 +23,7 @@ data:
         description: >-
           The kulena responsible for the worst offenses can be expelled, though one senior enough risks fracturing the Collective by it.
       - level: 1
-        title: Karmakura
+        title: Karmakuva
         description: >-
           An artisan supplier admitted by craft-shreni affiliation, taking part in the Assembly through the shrena's elected representative.
       - level: 2
@@ -50,7 +50,7 @@ _Vedyaran: Vyapori Sangra—"the Merchants' Assembly"_
 
 A senior factor of **the Merchant Collective** gives a newly sponsored entrant the same first lesson, and it is a lesson about what the Collective is not: "We are not a kingdom, we are not a temple, and we do not own the roads. We keep them, and we keep them because every court on them would sooner pay us than do it themselves. Remember that when you are tired of being polite to a toll-keeper."
 
-The Collective is what the five seats of [[lore-thirdcmpct|the Compact]] have instead of a unified state. It is a mercantile federation, known as the **Vyapori Sangra** or simply the Collective, and its caravan stations run as far west as [[place-amradadrgn|Amradad]] and as far north as the [[place-khzryndsrtrgn|Khazryn frontier]]. Its five seats are [[affiliation-chandrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-vindhyalay|Shikharalaya]], [[affiliation-rajaprjnpd|Rajepur Janapoda]] and [[affiliation-dhnrktjnpd|Danurkota Janapoda]], the five polities that sit in its governing body, the [[affiliation-assmblycmpct|Assembly of the Compact]]. Tradition dates its founding to [[lore-thirdcmpct|the Third Compact]], sworn at the [Mahva-Melra]{.name data-type="lore/gathering"} of 320 AF.
+The Collective is what the five seats of [[lore-thirdcmpct|the Compact]] have instead of a unified state. It is a mercantile federation, known as the **Vyapori Sangra** or simply the Collective, and its caravan stations run as far west as [[place-amradadrgn|Amradad]] and as far north as the [[place-khzryndsrtrgn|Khazryn frontier]]. Its five seats are [[affiliation-chendrapur|Chendrapur]], [[affiliation-vyalendra2|Vyalendra]], [[affiliation-shikhalaya|Shikhalaya]], [[affiliation-rajeprjnpd|Rajepur Janpoda]] and [[affiliation-dnrktjnpd|Danurkot Janpoda]], the five polities that sit in its governing body, the [[affiliation-assmblycmpct|Assembly of the Compact]]. Tradition dates its founding to [[lore-thirdcmpct|the Third Compact]], sworn at the [Mahva-Melka]{.name data-type="lore/gathering"} of 320 AF.
 
 ## Overview
 
@@ -62,7 +62,7 @@ The councils and courts are not weak. The Collective has made itself the connect
 
 That law is the Compact: standing trade law, arbitration procedure and shared infrastructure that the merchants keep in common, meaning the roads, the caravanserai, the watch posts and the currency standards. The founders also wrote an Assembly of the signatories to renew and amend it. Each signatory faced a choice between refusing and watching its territory grow poorer than its neighbors', and each signed. They have signed every renewal since, and the five who hold seats today are the five that share the [[lore-vdyrnbnkng|Vedyaran banking system]].
 
-[[affiliation-suvrgrjnpd|Suvarnageri]] never signed and is not kept out. A seat obliges its holder to let Collective factors weigh, assay and lend against the metal crossing its territory, and the [Gold Constitution]{.name data-type="lore/law"} vests the weighing in a temple station and the lending in a common treasury that no outside house may reach. The Assembly has wanted a sixth seat, and the gold behind it, for as long as it has kept minutes.
+[[affiliation-suvrgrjnpd|Suvargeri]] never signed and is not kept out. A seat obliges its holder to let Collective factors weigh, assay and lend against the metal crossing its territory, and the [Gold Constitution]{.name data-type="lore/law"} vests the weighing in a temple station and the lending in a common treasury that no outside house may reach. The Assembly has wanted a sixth seat, and the gold behind it, for as long as it has kept minutes.
 
 Here is the paradox a new entrant has to learn to live with: the members compete fiercely in every market while dominating every market together. A [[place-suryagarha|Suryagarha]] silver merchant undercuts a Rajepur silver merchant on every shipment they both bid for, then sits beside him on the [Standards Committee]{.name data-type="affiliation/governmental"} and votes with him against any outside competitor. The discipline holds because the alternative, open competition with merchants outside the Collective, would impoverish them both.
 
@@ -83,11 +83,11 @@ The Collective is governed by the Assembly of the Compact (_Sangra-Sabhra_), whi
 - The [Foreign Trade Committee]{.name data-type="affiliation/governmental"} negotiates with non-Vedyaran polities and licenses members to operate beyond the Compact.
 - The [Disputes Committee]{.name data-type="affiliation/governmental"} arbitrates the internal conflicts the parties would rather not take to a ruler's court.
 
-At the apex sits the **High Speaker of the Collective**, elected by the kulinas from among themselves for a seven-year term. The present Speaker is [Suvirya Ramadasa]{.name data-type="being/npc"}, an elderly silver merchant of Suryagarha whose tenure is known for caution and for the quiet expansion of the Collective's mining holdings.
+At the apex sits the **High Speaker of the Collective**, elected by the kulinas from among themselves for a seven-year term. The present Speaker is [Subirya Romadasa]{.name data-type="being/npc"}, an elderly silver merchant of Suryagarha whose tenure is known for caution and for the quiet expansion of the Collective's mining holdings.
 
 ## Operations
 
-- **Mining.** The Collective works the copper, silver, tin and lapis of the [[place-slvrgorges|Silver Gorges]] under lease from the hereditary smithing clans who hold the rock, at prices the customs-house at Suryagarha sees only after the fact. It owns the gem-bearing river-workings of the upper reaches of [[place-chandrmahi|the Chandramahi]] outright, and Suvarnageri's gold lies outside its reach altogether. [[being-vshnshvdysgrml|Shilavira Vidyasagaramandala]] is one of its most respected mine-masters. The mines employ tens of thousands of workers, most of whom do not see the surface for weeks at a time, and the labor terms are a continuing source of friction inside the Collective.
+- **Mining.** The Collective works the copper, silver, tin and lapis of the [[place-slvrgorges|Silver Gorges]] under lease from the hereditary smithing clans who hold the rock, at prices the customs-house at Suryagarha sees only after the fact. It owns the gem-bearing river-workings of the upper reaches of [[place-chandrmahi|the Chandramahi]] outright, and Suvargeri's gold lies outside its reach altogether. [[being-shlbrvdsmndl|Shilabir Vidsamondal]] is one of its most respected mine-masters. The mines employ tens of thousands of workers, most of whom do not see the surface for weeks at a time, and the labor terms are a continuing source of friction inside the Collective.
 - **Caravan trade.** The long-distance routes between Vedyaran cities and the markets of Amradad by the march road, of Khazryn by the passes, and of the eastern frontier are Collective infrastructure, run by Collective members under Collective standards.
 - **Banking and credit.** The Collective issues standardized letters of credit redeemable at any member's house, the closest thing the realm has to a unified currency. The system is the backbone of Vedyaran commerce and the source of the Collective's leverage over the councils and courts themselves, several of which owe it substantial debts.
 - **Grading.** A Collective grade-mark on a bolt of silk, a measure of grain or a refined ingot of silver is a reliable warranty across the seats of the Compact and in most western buyers' markets.
@@ -96,7 +96,7 @@ At the apex sits the **High Speaker of the Collective**, elected by the kulinas 
 
 - **The labor question.** Reform-minded younger kulinas have proposed substantial improvements to mining labor conditions. The older houses, whose fortunes were built on the present system, resist, and the reformers have not yet found a champion willing to risk his standing.
 - **The expansion question.** The Foreign Trade Committee is divided between members who want to push aggressively into Amradad's caravan markets and members who fear retaliation from the [[affiliation-kngdmmrdd|Kingdom]] and prefer the present careful cooperation.
-- **The compromised members.** Several houses are known or suspected to hold arrangements with [[affiliation-twilighths|the Twilight House]] or [[affiliation-adanasreni|the Adanashreni]] beyond what the Collective's standing rules permit. Investigations have begun and stalled more than once.
+- **The compromised members.** Several houses are known or suspected to hold arrangements with [[affiliation-twilighths|the Twilight House]] or [[affiliation-adanshreni|the Adanshreni]] beyond what the Collective's standing rules permit. Investigations have begun and stalled more than once.
 
 ## Relations
 
@@ -114,7 +114,7 @@ Kulena-rank members wear a gold pin at the collar in the shape of a balance-scal
 - **The Mine Collapse.** A lower working in the Silver Gorges has collapsed, and hundreds are trapped or dead. The Standards Committee finds that the terms of the lease were violated. The kulena responsible is too senior to expel without fracturing the Collective, and the survivors and the families of the dead are organizing for redress that neither the clans' gate nor the crown's customs-house has shown any interest in providing.
 - **The Counterfeit Letters.** Collective letters of credit have been forged at scale, redeemed at several member houses, and traced back through a chain that disappears into the [[affiliation-twilighths|Twilight House]]. The Collective must investigate without making the scandal public and without confronting the Twilight House directly.
 - **The Reform Petition.** A younger kulena, supported by a coalition of pratisthas and a sympathetic sabhra, formally proposes a labor reform at the Assembly of the Compact. The proposal would cost the older houses substantial profits, and the Speaker's procedural rulings will decide whether it reaches a vote at all.
-- **The Crown's Default.** Shikharalaya has defaulted on its Collective loans and offers, in lieu of repayment, a permanent grant of the Silver Gorges. The crown has never established that the rock is the crown's, and the smithing clans already lease it to the Collective over the crown's objection. Accepting turns a quiet arrangement into a claim the clans must answer, and every other seat of the Compact reads it as the precedent it is.
+- **The Crown's Default.** Shikhalaya has defaulted on its Collective loans and offers, in lieu of repayment, a permanent grant of the Silver Gorges. The crown has never established that the rock is the crown's, and the smithing clans already lease it to the Collective over the crown's objection. Accepting turns a quiet arrangement into a claim the clans must answer, and every other seat of the Compact reads it as the precedent it is.
 
 ## See Also
 
@@ -124,11 +124,11 @@ Kulena-rank members wear a gold pin at the collar in the shape of a balance-scal
 [[lore-vdyrnbnkng|Vedyaran Banking]]
 : the letters of credit and the three coins
 
-[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+[[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the gold the Collective cannot reach
 
 [[place-slvrgorges|The Silver Gorges]]
 : the leased workings
 
-[[affiliation-twilighths|The Twilight House]] · [[affiliation-adanasreni|the Adanashreni]]
+[[affiliation-twilighths|The Twilight House]] · [[affiliation-adanshreni|the Adanshreni]]
 : the Collective's quiet partners and its quiet worry

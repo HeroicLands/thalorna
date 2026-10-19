@@ -249,7 +249,7 @@ The gem-diggers' gallery opens into a cave whose walls are crusted with crystal,
 
 # Dossier {#dossier}
 
-The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of [[place-chandrmahi|the Chandramahi]], in [[place-chandrapurland|Chendrapur Land]], where the stones that make [[place-chandrapur2|Chendrapur]] rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
+The Crystalclaw is a dreadspawn of living crystal in the shape of a great cat: six to eight feet long, as heavy as a draft ox, with claws that cut stone and a body that stores light and throws it out again in blinding bursts. It hunts in gem-bearing caverns, and it hunts, as far as anyone can tell, for the pleasure of it. One holds the old diggings at the head of the gem-road in the valley of [[place-chandrmahi|the Chandramahi]], in [[place-chendrapurland|Chendrapur Land]], where the stones that make [[place-chendrapur2|Chendrapur]] rich are cut out of the hills. Like every dreadspawn it was made, it is alive, and it does not breed; the gem-diggers say it was set in the hill to keep the stones, and that it has kept them better than any House has.
 
 ## Presentation
 

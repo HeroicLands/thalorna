@@ -15,10 +15,10 @@ data:
     - {to: graznmntns, bearing: S}
     - {to: tantsouregin, bearing: E}
   routes:
-    - {to: meghadvara, bearing: S, mode: land, days: 30}
+    - {to: meghadvar, bearing: S, mode: land, days: 30}
     - {to: gudesroad, bearing: S, mode: land, days: 45}
-    - {to: suryadvara, bearing: S, mode: land, days: 30}
-    - {to: tamradvara, bearing: S, mode: land, days: 30}
+    - {to: suryadvar, bearing: S, mode: land, days: 30}
+    - {to: tamradvar, bearing: S, mode: land, days: 30}
   population: 3000000
   packFolder: khazryndesert
   government: null
@@ -43,7 +43,7 @@ The region falls into six zones, five of them named in the tongue of the tribes 
 | [[place-wlqtrrgn\|Volketor]]    | the western margin, facing Velanthia and Bizaria      | grass and scrub in spring, dust by midsummer; a spring every day or two         | the most practiced tribes on the road                               |
 | [[place-hskrrgn\|Khoshiqor]]    | the heart, the widest stretch                         | sand seas and gravel reaches round a dead basin; wells three to five days apart | the tribes of the sands and the hidden-water bands; the market-camp |
 | [[place-dkrqrrgn\|Diqraqor]]    | between the sands and the southern belt               | black rock plateau, mesas, dry ravines, cisterns cut in stone                   | hard, poor tribes; the Atarzád herds on its southern edge           |
-| [[place-idwkrrgn\|Idvaqor]]     | the approaches to Tantsou and to Tamradvara           | stone desert rising to cold high steppe; long waterless stages                  | the tribes who sell the last and hardest passage                    |
+| [[place-idwkrrgn\|Idvaqor]]     | the approaches to Tantsou and to Tamradvar            | stone desert rising to cold high steppe; long waterless stages                  | the tribes who sell the last and hardest passage                    |
 | [[place-swoasisbelt\|Tellumel]] | a strip along the north foot of the Grazian Mountains | snowmelt streams and springs; irrigated gardens                                 | the Tellumi and the Atarzád                                         |
 
 The [[place-swoasisbelt|Tellumel]] is narrow, forty to eighty miles deep where the streams reach it and broken where they do not, and it runs perhaps seven hundred miles along the mountains. It holds the great majority of the region's people on a small fraction of its ground.

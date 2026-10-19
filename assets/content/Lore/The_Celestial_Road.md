@@ -42,7 +42,7 @@ East-bound; the road west reverses them.
 | 2,150          | 115      | the first Tantsou patrols                           | an escort of the Empire's riders for the last stretch                 |
 | 2,500          | 130      | the western pass of Tantsou                         | the garrison and customs-house; the Empire's claim begins             |
 
-**Branches.** A northern branch comes down from [[place-velanthrgn|Velanthia Region]]'s eastern reach and joins the road before [[place-qisomrktcmp|Qiiso]], carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to [[affiliation-kngdmmrdd|Amradad]] and south to the pass-towns of [[place-meghadvara|Meghadvara]] and [[place-suryadvara|Suryadvara]].
+**Branches.** A northern branch comes down from [[place-velanthrgn|Velanthia Region]]'s eastern reach and joins the road before [[place-qisomrktcmp|Qiiso]], carrying furs and amber. A southern spur leaves Qiiso, crosses [[place-dkrqrrgn|Diqraqor]] in about twenty days and reaches the Tellumel. From there roads run west to [[affiliation-kngdmmrdd|Amradad]] and south to the pass-towns of [[place-meghadvar|Meghadvar]] and [[place-suryadvar|Suryadvar]].
 
 ## Beasts
 

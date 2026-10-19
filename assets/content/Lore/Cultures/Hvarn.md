@@ -42,7 +42,7 @@ Very little of a Hvarn winter is private. A quarrel carried down off the pasture
 
 The council of [[affiliation-hvarnguides|the Hvarn]] has no power to compel and has never needed one, because nobody who ignored it would be given a road. That is the whole of Hvarn public order, and it is made again from nothing every winter.
 
-The rotation is what a small trade can afford. A single lineage at [[place-suryadvara|Suryadvara]] lives better than six Hvarn hearths could on two crossings, so the Hvarn pool the work and the debt and argue about it once a year in one room.
+The rotation is what a small trade can afford. A single lineage at [[place-suryadvar|Suryadvar]] lives better than six Hvarn hearths could on two crossings, so the Hvarn pool the work and the debt and argue about it once a year in one room.
 
 ## The Party
 
@@ -60,13 +60,13 @@ A child is named for a person in the roll, and the naming carries the obligation
 
 ## The Contract
 
-The Hvarn pack-trains that feed [[place-sanghafort|the fort]] on the conch-door col run on an old contract. The **Fort-carrier** who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
+The Hvarn pack-trains that feed [[place-sangrafort|the fort]] on the conch-door col run on an old contract. The **Fort-carrier** who keeps it speaks fluent lowland [[skill-vedyarlng|Vedyari]] and is the one member of the people the garrison's officers know by name.
 
-Lowland factors walk up to Nurvharn for the renewal and for nothing else, and the Hvarn have kept up the visits for four centuries without once inviting anyone to stay the winter. The seal of the [[affiliation-janpdsvdyr|janapadas]] is one of two objects in the long house kept in a box.
+Lowland factors walk up to Nurvharn for the renewal and for nothing else, and the Hvarn have kept up the visits for four centuries without once inviting anyone to stay the winter. The seal of the [[affiliation-janpdsvdyr|janpodas]] is one of two objects in the long house kept in a box.
 
 ## Poor, and Better Connected
 
-Nine thousand people with two crossings and no store of their own are poor by any measure a lowlander uses. The Hvarn are also the best connected people on the wall. The fort contract puts them in a room with lowland officers every third year, the envoys and scholars who use [[place-jnanadvara|Jnanadvara]] pass through their hands, and about forty lowlanders speak the language, which is forty more than speak [[skill-osketlng|Osket]].
+Nine thousand people with two crossings and no store of their own are poor by any measure a lowlander uses. The Hvarn are also the best connected people on the wall. The fort contract puts them in a room with lowland officers every third year, the envoys and scholars who use [[place-jnanadvar|Jnanadvar]] pass through their hands, and about forty lowlanders speak the language, which is forty more than speak [[skill-osketlng|Osket]].
 
 ## Names and the Tongue
 
@@ -86,23 +86,23 @@ The Hvarn value most the party, the roll, the open floor and a house kept clean 
 
 ## The Man Admired
 
-[Hvrel of the Klemvrd hearth]{.name data-type="being/npc"}, the Fort-carrier, is the man the Hvarn point to when they say what the contract is for. He is a broad man who speaks lowland Vedyari slowly and carefully, and he is the one member of the people whom the garrison's officers know by name. A stranger who reaches his hearth has his pack lifted off his shoulders before he can object, is set down between Hvrel's daughter and a sleeping dog, and is given barley and butter, and is shown the janapadas' seal in its box once he has eaten. His name comes from the roll. The first [Hvrel]{.name data-type="being/npc"} was found under the upper shelf of [[place-jnanadvara|Jnanadvara]], and Hvrel answers a question about his name with that place.
+[Hvrel of the Klemvrd hearth]{.name data-type="being/npc"}, the Fort-carrier, is the man the Hvarn point to when they say what the contract is for. He is a broad man who speaks lowland Vedyari slowly and carefully, and he is the one member of the people whom the garrison's officers know by name. A stranger who reaches his hearth has his pack lifted off his shoulders before he can object, is set down between Hvrel's daughter and a sleeping dog, and is given barley and butter, and is shown the janpodas' seal in its box once he has eaten. His name comes from the roll. The first [Hvrel]{.name data-type="being/npc"} was found under the upper shelf of [[place-jnanadvar|Jnanadvar]], and Hvrel answers a question about his name with that place.
 
-The Hvarn admire in him the bargain the whole people lives on, carried by a man who does not dress it up. The fort contract is the single largest piece of Hvarn income, it is renewed every third year, and he is the one who sits across from the lowland factor for it. He holds the lowlanders at the edge of the village, feeds them, shows them the seal and does not invite them to stay the winter. His cost is that the people regard the traffic as a nuisance they are paid for, and the man who carries it is the one they do not quite thank. The kingdom of [[affiliation-vindhyalay|Shikharalaya]] resents the fort's supply line and the Hvarn decline to discuss it, and both of those fall on the same broad shoulders.
+The Hvarn admire in him the bargain the whole people lives on, carried by a man who does not dress it up. The fort contract is the single largest piece of Hvarn income, it is renewed every third year, and he is the one who sits across from the lowland factor for it. He holds the lowlanders at the edge of the village, feeds them, shows them the seal and does not invite them to stay the winter. His cost is that the people regard the traffic as a nuisance they are paid for, and the man who carries it is the one they do not quite thank. The kingdom of [[affiliation-shikhalaya|Shikhalaya]] resents the fort's supply line and the Hvarn decline to discuss it, and both of those fall on the same broad shoulders.
 
 ## The Woman Admired
 
-[Rhevzhn of the Shulnrh hearth]{.name data-type="being/npc"}, a Reach-guide of [[place-sankhadvra|Shankhadvara]], is the woman the long house names for the refusal the contract depends on. In a week the storm-reader had closed, the commander of the fort pressed her for a crossing, and she declined. On the first clear day she took the fort's supplies up on her own rope. The worst crossing on the wall has a record of no party lost, and her hearth keeps it without explaining it.
+[Rhevzhn of the Shulnrh hearth]{.name data-type="being/npc"}, a Reach-guide of [[place-shankhadvr|Shankhadvar]], is the woman the long house names for the refusal the contract depends on. In a week the storm-reader had closed, the commander of the fort pressed her for a crossing, and she declined. On the first clear day she took the fort's supplies up on her own rope. The worst crossing on the wall has a record of no party lost, and her hearth keeps it without explaining it.
 
 Her admiration is not a lesser form of Hvrel's. He holds the people's bargain with the lowland, and she holds the line the bargain stands behind: a garrison fed on Hvarn pack-trains is fed by people who will say no to its commander. Her cost is kinship. Her hearth is small and related by marriage to half the garrison, so every refusal is made to relatives, and a commander refused once stops asking and stops granting the small favors that kin extend. A Reach-guide answers to the council for whoever does not come back, and the weight of the office is the weight she carries.
 
 ## What the Winter House Keeps
 
-A Hvarn can point to the things that hold the people together. **The roll** is the longest thing the people keep: every person recovered from the eastern gorges, with the place where each was found, recited each winter by the Bone-bringer and corrected from the floor by whoever catches a fault. **The rotation** is made aloud each winter, kept by the Turn-keeper, and written nowhere but in the memory of the hearth-heads who heard it. **The long house** at Nurvharn is one roof added to at either end as hearths have grown, and it is the people's meeting place, store and common kitchen. **The rope** belongs to the party, and the grease worked into it through the closed months is the people's oldest upkeep. **The seal** of the janapadas is one of two objects in the long house kept in a box. **The name from the roll**, with its place, is the smallest of the artifacts and the one every person carries.
+A Hvarn can point to the things that hold the people together. **The roll** is the longest thing the people keep: every person recovered from the eastern gorges, with the place where each was found, recited each winter by the Bone-bringer and corrected from the floor by whoever catches a fault. **The rotation** is made aloud each winter, kept by the Turn-keeper, and written nowhere but in the memory of the hearth-heads who heard it. **The long house** at Nurvharn is one roof added to at either end as hearths have grown, and it is the people's meeting place, store and common kitchen. **The rope** belongs to the party, and the grease worked into it through the closed months is the people's oldest upkeep. **The seal** of the janpodas is one of two objects in the long house kept in a box. **The name from the roll**, with its place, is the smallest of the artifacts and the one every person carries.
 
 ## The Day Kept
 
-On an ordinary day the Hvarn religion is work done in the right order, and its names are not shared with strangers. The people keep austere traditions and say what they do and not what it is for. In the closed months the day belongs to the long house: rope greased, pack-saddles mended, the pot stirred by someone arguing with three people at once, children asleep in heaps of hides. In the open months a party leaves on the storm-reader's word, and a refusal ends a day's travel whatever the fee. At the summit shrines of Jnanadvara and Shankhadvara a party takes the road-rite of [[affiliation-passshrineushtakas|the Pass-Shrine ushtakas]], the one lowland practice the guide-peoples respect, because they have watched it work in weather they know better than anyone. A child asked its name answers with a place.
+On an ordinary day the Hvarn religion is work done in the right order, and its names are not shared with strangers. The people keep austere traditions and say what they do and not what it is for. In the closed months the day belongs to the long house: rope greased, pack-saddles mended, the pot stirred by someone arguing with three people at once, children asleep in heaps of hides. In the open months a party leaves on the storm-reader's word, and a refusal ends a day's travel whatever the fee. At the summit shrines of Jnanadvar and Shankhadvar a party takes the road-rite of [[affiliation-passshrineushtakas|the Pass-Shrine ushtakas]], the one lowland practice the guide-peoples respect, because they have watched it work in weather they know better than anyone. A child asked its name answers with a place.
 
 ## The Round of the Year
 
@@ -124,7 +124,7 @@ Penalty runs from the council floor to the door. A fault carried down off the pa
 
 The Hvarn have one authority above the hearth, and it holds no power. The winter council of hearth-heads sits in the middle of the long house and does the whole of the people's public business: the crossings, the debts, the fault of whoever lost a party, the terms on which the fort is fed. Civil and religious authority are not two bodies here. The council settles what the hearths owe one another, and the Pass-Shrine ushtakas at the summits keep the rite and the register of the road, and neither reaches into the other's work.
 
-The Winter-speaker presides over the council and holds the order of speaking and no authority when it rises. The Turn-keeper keeps the rotation and the debts it leaves. The Bone-bringer keeps the roll. Cases are heard on the floor by the council in front of the parties and their kin, and records are held by recitation. The Fort-carrier negotiates the single account the Hvarn keep with the janapadas, and the fee of a season comes to the hearth that earned it. The council cannot compel, and it has never needed to, because nobody who ignored it would be given a road. The Storm-reader's refusal ends a day's travel and is not argued with, and where the council and the weather disagree, the weather is the Storm-reader's.
+The Winter-speaker presides over the council and holds the order of speaking and no authority when it rises. The Turn-keeper keeps the rotation and the debts it leaves. The Bone-bringer keeps the roll. Cases are heard on the floor by the council in front of the parties and their kin, and records are held by recitation. The Fort-carrier negotiates the single account the Hvarn keep with the janpodas, and the fee of a season comes to the hearth that earned it. The council cannot compel, and it has never needed to, because nobody who ignored it would be given a road. The Storm-reader's refusal ends a day's travel and is not argued with, and where the council and the weather disagree, the weather is the Storm-reader's.
 
 ## What the Roll Asks of an Ordinary Day
 
@@ -158,7 +158,7 @@ A person who cannot walk the crossings is kept at the fire. The long house is fu
 
 Shelter is the hearth's, and past the hearth the long house's. Teaching is carried by the work: a child learns the rope at the fire, a Drover learns the lower stages with the beasts, a Roadwalker learns the weather in another's charge, and a Reach-guide takes a crossing alone only when the council has heard that he knows it. The language teaches the party with its paired forms.
 
-Defense is not an institution. No body of arms is named, and the Hvarn hold no ground a lowland army could reach. [[place-sanghafort|The Sangha-fort]] is the janapadas' garrison, fed by Hvarn pack-trains, and it guards the col and not the people. The people's protection is that the two crossings are theirs, that the weather on them is the Storm-reader's, and that nobody who ignored the council would be given a road.
+Defense is not an institution. No body of arms is named, and the Hvarn hold no ground a lowland army could reach. [[place-sangrafort|The Sangha-fort]] is the janpodas' garrison, fed by Hvarn pack-trains, and it guards the col and not the people. The people's protection is that the two crossings are theirs, that the weather on them is the Storm-reader's, and that nobody who ignored the council would be given a road.
 
 ## The Line at Every Age
 
@@ -186,7 +186,7 @@ The sin is the Unhoused. A person put out of the winter house for a fault the co
 [[place-estrnreach|The Eastern Reach]]
 : the two crossings and the weather on them
 
-[[place-sanghafort|The Fort]]
+[[place-sangrafort|The Fort]]
 : the garrison the pack-trains feed
 
 [[lore-osketclt|Osket]]
@@ -202,4 +202,4 @@ The sin is the Unhoused. A person put out of the winter house for a fault the co
 
 The full dictionary is in the [[skill-hvarnlng#lexicon|Hvarn Language note]].
 
-Janapoda, Mela, shrena and ushtaka are loanwords from the [[lore-vedyariclt#glossary|Vedyari]] culture.
+Janpoda, Mela, shrena and ushtaka are loanwords from the [[lore-vedyariclt#glossary|Vedyari]] culture.

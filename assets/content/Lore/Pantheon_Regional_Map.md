@@ -118,9 +118,9 @@ The [[affiliation-itzanpnthn|Itsani Pantheon]] is the unified faith of [[place-k
 [[place-kchchkcntnnt|K'ich'chik Continent]]
 : the unified Ki'ichek faith
 
-## [[affiliation-varakpnthn|Varnuka Pantheon]]
+## [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 
-The [[affiliation-varakpnthn|Varnuka Pantheon]] is a complex spiritual system centered on cycles of creation, preservation, and destruction.
+The [[affiliation-vrnkpnthn|Varnuka Pantheon]] is a complex spiritual system centered on cycles of creation, preservation, and destruction.
 
 **Primary region:**
 

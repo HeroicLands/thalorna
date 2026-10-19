@@ -3,12 +3,12 @@ shortcode: forestnoroad
 name: {full: The Forest of No Road, aliases: []}
 type: place
 subType: site
-description: "The forest below the Eastern Reach that no janapoda has ever sent an assembly into, where Sinale enclaves are rumored and nobody's rumor has ever been confirmed."
+description: "The forest below the Eastern Reach that no janpoda has ever sent an assembly into, where Sinale enclaves are rumored and nobody's rumor has ever been confirmed."
 tags: [forest, frontier, strange, inland]
 data: {demonym: null, lore: [], parents: [estrnreach], population: null, packFolder: vedyara}
 ---
 
-The **Forest of No Road** is the country below [[place-estrnreach|the Eastern Reach]], at the headwaters of [[place-bharavarivr|the Bharava]] above the gold highlands. No janapoda has ever sent an assembly into it. No sabhra meets in it, no temple-domain claims it, and the name is what the pilgrim road's hostel-keepers call the ground the road does not enter.
+The **Forest of No Road** is the country below [[place-estrnreach|the Eastern Reach]], at the headwaters of [[place-bharavarivr|the Bharava]] above the gold highlands. No janpoda has ever sent an assembly into it. No sabhra meets in it, no temple-domain claims it, and the name is what the pilgrim road's hostel-keepers call the ground the road does not enter.
 
 There are ways through it. There is no road.
 
@@ -27,5 +27,5 @@ Ascetics gho in. It is one of the places a renunciant disappears into for years 
 ## See Also
 
 - [[place-estrnreach|The Eastern Reach]] · [[place-bharavarivr|the Bharava]]
-- [[place-bhrvdvsthna|The Bharava-Devastena Hostels]]—the road that stops at the margin
-- [[place-bharavavana|Bharavavana]]—the endowed forest downriver, which begins where the last estate does
+- [[place-bhrvdvstna|The Bharava-Devastena Hostels]]—the road that stops at the margin
+- [[place-bharavaban|Bharavaban]]—the endowed forest downriver, which begins where the last estate does

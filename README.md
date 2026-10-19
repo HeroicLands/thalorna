@@ -60,7 +60,7 @@ edited by hand.
 | The Common Calendar    | `commoncal`   | Vylaria and the lands it reaches            |
 | The Khelâthi Calendar  | `khprclndr`   | Aû'Khelâthu                                 |
 | The Khazryn Calendar   | `khzrnclndr`  | The Khazryn kingdoms and the exile Mobadate |
-| The Mādhavendra Count  | `mdhvndrcnt`  | Vedyara                                     |
+| The Madustan Count     | `mdstncnt`    | Vedyara                                     |
 | Calendar and Astrology | `clndrstrlgy` | The Empire of Tānvür                        |
 
 Each calendar ships twice. `calendars/<file>.json` is Foundry's own calendar

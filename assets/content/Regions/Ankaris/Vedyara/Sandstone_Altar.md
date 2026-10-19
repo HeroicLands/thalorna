@@ -5,12 +5,12 @@ type: place
 subType: structure
 description: "The original altar of Vyalendra in the main hall at Rajepur, cut at the founding of the dynastic capital twelve centuries ago and outliving the dynasty by nine hundred years."
 tags: [sacred, river, inland]
-data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
 ---
 
-**The sandstone altar** in the main hall of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajapur|Rajepur]] is the oldest object in continuous ritual use in the janapoda, by three hundred years. It is the temple's original altar, cut at the founding of the dynastic capital twelve centuries ago: one block, of a workmanship the Rajapuri consider unmatched in the janapoda and possibly in the circuit.
+**The sandstone altar** in the main hall of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajepur|Rajepur]] is the oldest object in continuous ritual use in the janpoda, by three hundred years. It is the temple's original altar, cut at the founding of the dynastic capital twelve centuries ago: one block, of a workmanship the Rajapuri consider unmatched in the janpoda and possibly in the circuit.
 
-In Varnuka teaching, [[lore-vyalendradty|Vyalendra]] is the creator-deity of the [[affiliation-varakpnthn|Varnuka pantheon]], the world's first light and the shaper from whom all forms emerge. The altar is where his rites are performed at the spring festival, before fifteen thousand visitors in a town of eighteen hundred.
+In Varnuka teaching, [[lore-vyalendradty|Vyalendra]] is the creator-deity of the [[affiliation-vrnkpnthn|Varnuka pantheon]], the world's first light and the shaper from whom all forms emerge. The altar is where his rites are performed at the spring festival, before fifteen thousand visitors in a town of eighteen hundred.
 
 ## The Kings and the Sabhra
 
@@ -29,5 +29,5 @@ Nobody has ever proposed replacing it, and the classical commentators make a poi
 
 ## See Also
 
-- [[place-rajapur|Rajepur]] · [[affiliation-rajaprjnpd|Rajepur Janapoda]]
+- [[place-rajepur|Rajepur]] · [[affiliation-rajeprjnpd|Rajepur Janpoda]]
 - [[affiliation-vyalendra|Vyalendra]]—the creator-deity

@@ -193,7 +193,7 @@ The glowvine's central mass is a knot of dark, twisted wood and fiber the size o
 
 ## In the Land
 
-The Forest of No Road is the country at the headwaters of [[place-bharavarivr|the Bharava]] that no janapoda has ever sent an assembly into and no temple has ever claimed. There are ways through it but no road, and the glowvines grow along those ways, in the canopy over game trails, in the hollows under great roots, and in the mouths of the caves in the limestone gullies. They want dark and damp, and they need prey that moves at night and is drawn to light: monkeys, deer, wild pigs, owls and moths, and men. A glowvine that has found a good place stays in it for years and grows larger. They are not found in the endowed forest of the lower river, where the gatherers have cut them out.
+The Forest of No Road is the country at the headwaters of [[place-bharavarivr|the Bharava]] that no janpoda has ever sent an assembly into and no temple has ever claimed. There are ways through it but no road, and the glowvines grow along those ways, in the canopy over game trails, in the hollows under great roots, and in the mouths of the caves in the limestone gullies. They want dark and damp, and they need prey that moves at night and is drawn to light: monkeys, deer, wild pigs, owls and moths, and men. A glowvine that has found a good place stays in it for years and grows larger. They are not found in the endowed forest of the lower river, where the gatherers have cut them out.
 
 ## Key Behaviors
 

@@ -43,7 +43,7 @@ His line built what the Council still uses. They laid out the palace quarter at 
 
 ## Eleven Reigns
 
-The crown lasted eleven reigns. Nilapati is remembered by name; nine kings after him are remembered by nobody outside the cloth-court. The eleventh and last laid out the pleasure-house that is now [[place-sandhyagrha|Sandyagriha]], and about 150 AF his line ended and the Loom-Council sat down in his hall ([[lore-vylndrkngs|the End of the Vyalendri Kingship]]). How the line ended stays unresolved.
+The crown lasted eleven reigns. Nilapati is remembered by name; nine kings after him are remembered by nobody outside the cloth-court. The eleventh and last laid out the pleasure-house that is now [[place-sandyagrha|Sandyagriha]], and about 150 AF his line ended and the Loom-Council sat down in his hall ([[lore-vylndrkngs|the End of the Vyalendri Kingship]]). How the line ended stays unresolved.
 
 ## What It Left
 

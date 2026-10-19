@@ -15,7 +15,7 @@ data:
       sources:
         - place-vyalendra3
         - affiliation-vyalendra2
-        - place-sandhyagrha
+        - place-sandyagrha
         - affiliation-twilighths
         - place-vyalendraland
       summary: >-
@@ -28,7 +28,7 @@ data:
             how: >-
               the loom villages answer to the houses of the Loom-Masters and have had no king above them for a long age
             knowledge: named
-          - place: place-sandhyagrha
+          - place: place-sandyagrha
             how: >-
               the royal pleasure-house becomes the principal house of the Twilight House, which tradition dates to the last king's reign
             knowledge: named
@@ -54,7 +54,7 @@ The guide who takes a visitor up to the palace quarter of [[place-vyalendra3|Vya
 
 **The End of the Vyalendri Kingship** is that hall. The [[affiliation-vyalendra2|city-state]] had Mahārājas once, and the line of the eleventh and last of them ended—by tradition about 150 AF, which no record fixes more closely. The Council of the shrenis took the kings' hall and has governed from it since. The loom villages of [[place-vyalendraland|Vyalendra Land]] have had no king above them for a long age; each answers to the house of the Loom-Master whose shrena has worked there since anyone can name.
 
-How the line ended is the thing nobody says. The last king laid out a pleasure-house four streets from the hall, and when his line ended it passed to [[affiliation-twilighths|the Twilight House]] by a grant the House holds and shows to nobody. The House is traditionally dated to that same reign, and its principal house, [[place-sandhyagrha|Sandyagriha]], is a royal foundation that outlived the court that founded it. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
+How the line ended is the thing nobody says. The last king laid out a pleasure-house four streets from the hall, and when his line ended it passed to [[affiliation-twilighths|the Twilight House]] by a grant the House holds and shows to nobody. The House is traditionally dated to that same reign, and its principal house, [[place-sandyagrha|Sandyagriha]], is a royal foundation that outlived the court that founded it. The Council has never tested the grant. The reason given is that the deed is sound; the reason understood is that testing it would require an accounting of how the line ended, and no Loom-Master wants that accounting read aloud in the cloth-court.
 
 ## See Also
 
@@ -64,5 +64,5 @@ How the line ended is the thing nobody says. The last king laid out a pleasure-h
 [[place-vyalendra3|Vyalendra]]
 : the city and its palace quarter
 
-[[affiliation-twilighths|The Twilight House]] · [[place-sandhyagrha|Sandyagriha]]
+[[affiliation-twilighths|The Twilight House]] · [[place-sandyagrha|Sandyagriha]]
 : the House and the king's pleasure-house

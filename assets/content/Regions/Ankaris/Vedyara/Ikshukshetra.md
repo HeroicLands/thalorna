@@ -8,10 +8,10 @@ tags: [village, river, inland, draft]
 data:
   demonym: null
   lore: []
-  parents: [dhanurkotajnpd]
+  parents: [danurkotjnpd]
   population: 870
   packFolder: vedyara
-  government: dhnrktjnpd
+  government: dnrktjnpd
 ---
 
-**Ikshukshetra** (870) is the sugarcane village, on the wet ground inside the river bend, and when the cane stands high a visitor walking the paths between the fields cannot see over it. It is one of the villages of the [[place-dhanurkotajnpd|Danurkota Janapoda]], and its cane is part of the janapoda's modest surplus for export.
+**Ikshukshetra** (870) is the sugarcane village, on the wet ground inside the river bend, and when the cane stands high a visitor walking the paths between the fields cannot see over it. It is one of the villages of the [[place-danurkotjnpd|Danurkot Janpoda]], and its cane is part of the janpoda's modest surplus for export.

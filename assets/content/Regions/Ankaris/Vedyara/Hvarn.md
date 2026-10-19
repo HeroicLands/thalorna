@@ -63,25 +63,25 @@ data:
   relations:
     janpdsvdyr: aligned
     osketguides: aligned
-    vindhyalay: unaligned
+    shikhalaya: unaligned
     tantsouempr: unaligned
   packFolder: vedyara
 sohl: {system: {commonSkills: [hvarnlng]}}
 ---
 
-**The Hvarn** hold [[place-jnanadvara|Jnanadvara]] and [[place-sankhadvra|Shankhadvara]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
+**The Hvarn** hold [[place-jnanadvar|Jnanadvar]] and [[place-shankhadvr|Shankhadvar]], the two crossings of [[place-estrnreach|the Eastern Reach]]. There are nine thousand of them, they are the poorer of the two guide-peoples by a wide margin, and they are the only people on the wall who deal with lowland institutions as a matter of routine.
 
 ## The Rotation
 
 Where [[affiliation-osketguides|the Osket]] hold a road by descent, the Hvarn share theirs out. Each winter the hearth-heads sit at [[place-nurvhrn|Nurvharn]] and assign the coming season's crossings between them, settle what the last season's assignments left owing, and disperse. A hearth that drew the conch-door two years running is owed something; a hearth that lost a party is not given a road until the council says so.
 
-The system exists because the eastern trade cannot support the western arrangement. Two crossings, one of them almost unused, will not keep six lineages in the manner a single [[place-suryadvara|Suryadvara]] lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
+The system exists because the eastern trade cannot support the western arrangement. Two crossings, one of them almost unused, will not keep six lineages in the manner a single [[place-suryadvar|Suryadvar]] lineage keeps itself, so the Hvarn pool the work and the debt and argue about it once a year in one room.
 
 ## The Fort
 
-[[place-sanghafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janapadas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks the lowland [[skill-vedyarlng|Vedyari Language]] fluently, and the one the garrison's officers know by name.
+[[place-sangrafort|The Sangha-fort]] on the conch-door col is fed by Hvarn pack-trains. The contract is old, is renewed every third year with the eastern janpodas, and is the single largest piece of Hvarn income. The **Fort-carrier** who negotiates it is the one member of the people who speaks the lowland [[skill-vedyarlng|Vedyari Language]] fluently, and the one the garrison's officers know by name.
 
-It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-vindhyalay|Shikharalaya]] resents and the Hvarn decline to discuss.
+It also makes the Hvarn the confederation's eyes on a frontier the confederation has no other way of watching, a fact [[affiliation-shikhalaya|Shikhalaya]] resents and the Hvarn decline to discuss.
 
 ## The Dead
 
@@ -89,5 +89,5 @@ The **Bone-bringer** is the Hvarn office with the longest memory. He recovers th
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nurvharn]] · [[place-sanghafort|the Sangha-fort]]
-- [[affiliation-osketguides|The Osket]] · [[affiliation-janpdsvdyr|Janapadas of Vedyara]] · [[skill-hvarnlng|the Hvarn Tongue]]
+- [[place-estrnreach|The Eastern Reach]] · [[place-nurvhrn|Nurvharn]] · [[place-sangrafort|the Sangha-fort]]
+- [[affiliation-osketguides|The Osket]] · [[affiliation-janpdsvdyr|Janpodas of Vedyara]] · [[skill-hvarnlng|the Hvarn Tongue]]

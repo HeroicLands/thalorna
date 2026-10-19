@@ -5,10 +5,10 @@ type: place
 subType: site
 description: "The river-capital the Mahanodi took when it changed its channel—masonry the fishermen of the reach still foul their nets on, six hundred years under water."
 tags: [ruin, river, inland]
-data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
 ---
 
-The **Drowned Capital** lies under [[place-mahanadi|the Mahanodi]] in the reach below [[place-rajapur|Rajepur]]. It was a royal seat of [[lore-mhndkngdm|the Kingdom of Mahanodi]], and the river took it when the channel moved.
+The **Drowned Capital** lies under [[place-mahanodi|the Mahanodi]] in the reach below [[place-rajepur|Rajepur]]. It was a royal seat of [[lore-mhndkngdm|the Kingdom of Mahanodi]], and the river took it when the channel moved.
 
 The Mahanodi has changed its course four times within written record, each time by miles, and each time it has left towns standing on dry ground and drowned others that were nowhere near it the year before. This is the one everybody names. The fishermen of the reach still foul their nets on masonry that has not been above water in six hundred years.
 
@@ -26,11 +26,11 @@ The move that took it came a long time after the dissolution, so the town the ri
 
 The drowning is the one move anyone dates. The Mahanodi has moved three other times within written record, and the record gives none of them a year. Each time the river took a new bed miles from the old one, and each time it left towns behind on dry ground.
 
-Those are the **oxbow towns**: river-towns stranded in the floodplain, their landing stairs going down to grass. A dead channel runs past each of them as a long crescent of marsh and reed-bed, wet in the rains and cracked in the dry season, and the stone steps where boats once tied up end in pasture. Most were abandoned within a generation. A few kept their people, and the best known of those is [[place-rushaghatta|Rushaghatta]], the dust landing, whose ghat-steps lead down to a field.
+Those are the **oxbow towns**: river-towns stranded in the floodplain, their landing stairs going down to grass. A dead channel runs past each of them as a long crescent of marsh and reed-bed, wet in the rains and cracked in the dry season, and the stone steps where boats once tied up end in pasture. Most were abandoned within a generation. A few kept their people, and the best known of those is [[place-rushaghat|Rushaghat]], the dust landing, whose ghat-steps lead down to a field.
 
 ## See Also
 
-- [[place-mahanadi|The Mahanodi]]—the river that moved
+- [[place-mahanodi|The Mahanodi]]—the river that moved
 - [[lore-drwnngseat|The Drowning of the Royal Seat]]—the move, dated
-- [[place-rushaghatta|Rushaghatta]]—an oxbow town the river left on dry ground
-- [[place-rajapur|Rajepur]] · [[place-rajapurjnpd|Rajepur Janapoda]]
+- [[place-rushaghat|Rushaghat]]—an oxbow town the river left on dry ground
+- [[place-rajepur|Rajepur]] · [[place-rajepurjnpd|Rajepur Janpoda]]

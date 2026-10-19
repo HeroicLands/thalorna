@@ -8,13 +8,13 @@ tags: [temple, frontier, inland]
 data:
   demonym: null
   lore: []
-  parents: [bhumipalaland, marukupa]
+  parents: [bhumipalland, marukupa]
   population: null
   packFolder: vedyara
-  government: svapnasarisamaja
+  government: svapnasarisameja
 ---
 
-**Svapnastambha** (the dream-tower) stands on the rock shelf above the wells of [[place-marukupa|Marukupa]], and it is the westernmost house of the [[affiliation-svapnasarisamaja|Svapnasari-sameja]] anywhere. It is a square tower of four stories with a walled court beside it, a cistern under the court, and room for nine of the sect and about thirty guests.
+**Svapnastambha** (the dream-tower) stands on the rock shelf above the wells of [[place-marukupa|Marukupa]], and it is the westernmost house of the [[affiliation-svapnasarisameja|Svapnasari-sameja]] anywhere. It is a square tower of four stories with a walled court beside it, a cistern under the court, and room for nine of the sect and about thirty guests.
 
 The upper two stories are dream-chambers. The sect's business here is what it is everywhere: a petitioner sleeps, a keeper watches, and what he brings back is read in the morning and written into the house's record. The house has kept that record for three hundred years, and it is consulted more often by caravan masters than by anybody in a capital.
 
@@ -26,11 +26,11 @@ The crown's post below has no authority over the tower and the tower asks nothin
 
 ## See Also
 
-[[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+[[affiliation-svapnasarisameja|Svapnasari-sameja]]
 : the sect
 
 [[place-marukupa|Marukupa]]
 : the wells below
 
-[[place-bhumipalaland|Bhumipala]]
+[[place-bhumipalland|Bhumipal]]
 : the land

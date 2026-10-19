@@ -10,7 +10,7 @@ data: {packFolder: adventurersguides, culture: osketclt}
 
 > You reach [[place-oskhelt|Oskhelt]] on the fourth morning of the climb from [[place-suryagarha|Suryagarha]], so high that the air is thin as water and the sun burns your face while your fingers stay numb. The village is stacked up the south-facing slope like a flight of gray steps: stone houses roofed in slate and green turf, each one sharing a wall with the next, yaks lowing and shifting in the dark beast-floors beneath the living-floors. It is market season, and the slope is loud with it. Smiths work three deep at the forges, hammering shoes onto yak hooves in showers of orange sparks. Caravan-masters from the lowlands, bundled in quilted cotton, squat in the open across from Osket men in heavy felt who listen, say little and never hurry. A boy shifts bales from a mule onto a yak, two to a side, and his father reties every knot after him without a word. The smell is of dung smoke, hot iron and butter tea.
 >
-> A broad-faced woman in a sheepskin coat, a knotted cord of hide looped twice around her wrist, comes down the steps toward you. "[[place-suryadvara|Suryadvara]]," she says first, the road, and then herself: "[Yolte]{.name data-type="being/npc"}." She looks at your boots, at your hands and at the sky behind you, in that order. Then she opens the door of the nearest house, steps aside, and points you in toward the hearth and the steaming pot on it. She does not ask your business, your name or whether you can pay.
+> A broad-faced woman in a sheepskin coat, a knotted cord of hide looped twice around her wrist, comes down the steps toward you. "[[place-suryadvar|Suryadvar]]," she says first, the road, and then herself: "[Yolte]{.name data-type="being/npc"}." She looks at your boots, at your hands and at the sky behind you, in that order. Then she opens the door of the nearest house, steps aside, and points you in toward the hearth and the steaming pot on it. She does not ask your business, your name or whether you can pay.
 
 [[affiliation-osketguides|The Osket]] hold the western and central crossings of [[place-graznmntns|the Grazian wall]], the mountain barrier between [[place-vedyarargn|Vedyara]] and the [[place-khzryndsrtrgn|Khazryn]], and without them nothing crosses. Twenty-one thousand people live in stone villages above the tree line, each lineage a hearth, a herd, a high pasture and one road held by descent. Their word for themselves means, as nearly as anyone has rendered it, "the people of the way." No council stands above a lineage; when a question touches two roads, the lineages meet at a col, argue it out and go home. Their fee is about half the value of whatever crosses, paid at the far end once the caravan has seen what the pass has left of it.
 
@@ -24,15 +24,15 @@ An Osket tells an outsider what to do and not why. The tongue marks on every ver
 
 ## Places and Dangers
 
-- [[place-oskhelt|Oskhelt]], above the upper stages of [[place-suryadvara|Suryadvara]], is the one place on the wall where a lowlander arranges a crossing; for two months a year it is a market.
-- [[place-suryadvara|Suryadvara]] carries three caravans in four across the wall. The kingdom of [[affiliation-vindhyalay|Shikharalaya]] holds its throat, weighs every bale twice, and issues the pass-token without which nobody crosses.
+- [[place-oskhelt|Oskhelt]], above the upper stages of [[place-suryadvar|Suryadvar]], is the one place on the wall where a lowlander arranges a crossing; for two months a year it is a market.
+- [[place-suryadvar|Suryadvar]] carries three caravans in four across the wall. The kingdom of [[affiliation-shikhalaya|Shikhalaya]] holds its throat, weighs every bale twice, and issues the pass-token without which nobody crosses.
 - [[place-tsokhar|Tsokhar]], a poor herding village in the west, keeps a watch on its approaches through the open months, which no other village does, and buys more iron than a poor village needs.
-- [[place-gudesroad|The Guides' Road]] is the sixth crossing: unblessed, untaxed and on no register. A lowlander goes over it hooded, on foot, holding a cord, and every Osket party walks single file through the oval opening of [[place-shunydvara|Shunyadvara]] on its col. On that subject the Osket stop talking.
+- [[place-gudesroad|The Guides' Road]] is the sixth crossing: unblessed, untaxed and on no register. A lowlander goes over it hooded, on foot, holding a cord, and every Osket party walks single file through the oval opening of [[place-shunydvar|Shunyadvar]] on its col. On that subject the Osket stop talking.
 - [[place-pssshrines|The Pass-Shrines]] at the summits bless a caravan before its descent. A shrine may refuse the blessing without explanation, and an unblessed caravan finds no Osket willing to take it down.
 
 ## Ways In
 
-A party can be hired as a caravan's guard over Suryadvara, where a misjudged season means a debt to a Suryadvara lineage and a year's wait. Somebody may need to cross the Guides' Road who cannot be seen to cross, paying in advance and in gold; somebody else may want to learn where that road runs, which makes him worth killing. A lineage that has lost a cord-keeper has lost the reading of its cord, and the knowledge has to be walked again.
+A party can be hired as a caravan's guard over Suryadvar, where a misjudged season means a debt to a Suryadvar lineage and a year's wait. Somebody may need to cross the Guides' Road who cannot be seen to cross, paying in advance and in gold; somebody else may want to learn where that road runs, which makes him worth killing. A lineage that has lost a cord-keeper has lost the reading of its cord, and the knowledge has to be walked again.
 
 ## Where to Read Next
 

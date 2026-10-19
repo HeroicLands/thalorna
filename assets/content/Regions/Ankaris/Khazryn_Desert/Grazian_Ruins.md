@@ -32,7 +32,7 @@ The cold is the commonest killer. A party above the snow line without guides, fu
 
 ## Treasure
 
-The rewards are as uncertain as the places. Carved lintels and floor-signs that prove a house's claim; worked metal that the lowlands do not make; ice-preserved wood, cloth and dyes, undamaged by time in the cold dark; and the chance of what no lowlander has seen. A merchant house in [[place-chandrapur2|Chendrapur]] pays well for anything from the high places, and asks no question about where.
+The rewards are as uncertain as the places. Carved lintels and floor-signs that prove a house's claim; worked metal that the lowlands do not make; ice-preserved wood, cloth and dyes, undamaged by time in the cold dark; and the chance of what no lowlander has seen. A merchant house in [[place-chendrapur2|Chendrapur]] pays well for anything from the high places, and asks no question about where.
 
 ## A Hook
 

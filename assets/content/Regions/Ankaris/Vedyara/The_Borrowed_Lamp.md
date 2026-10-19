@@ -3,7 +3,7 @@ shortcode: borrowedlamp
 name: {full: The Borrowed Lamp, aliases: []}
 type: lore
 subType: literature
-description: "The Agmi-pantra's epic song of its founding, sung at the Night of the Kindled Road: the season the servant of ash spent on the unburned ford of Oluratarana with a widow's threshold lamp, the fires that went out, the one that took on the east bank, and the ember every vessel of the sect carries from it."
+description: "The Agmi-pantra's epic song of its founding, sung at the Night of the Kindled Road: the season the servant of ash spent on the unburned ford of Olurtaran with a widow's threshold lamp, the fires that went out, the one that took on the east bank, and the ember every vessel of the sect carries from it."
 tags: [draft]
 data:
   culture: vedyariclt
@@ -11,19 +11,19 @@ data:
   subjects:
     - lore-kindlford
     - lore-unburnford
-    - place-oluratarna
-    - affiliation-agnipantha
+    - place-olurtaran
+    - affiliation-agmipantra
     - affiliation-rasikara
     - affiliation-kalavrata
     - lore-bloodfield
-    - affiliation-trimurtisampradaya
+    - affiliation-triyangasampradeya
   language: vedyarlng
   packFolder: vedyara
 ---
 
-**The Borrowed Lamp** is the song the [[affiliation-agnipantha|Agmi-pantra]] sings of its own founding: the season the ascetic the sect calls [Bhasmadasa]{.name data-type="being/npc"}, the servant of ash, spent on [[place-oluratarna|Oluratarana]], the unburned ford of the upper reaches of [[place-mahanadi|the Mahanodi]], trying to burn a field no fire would stay lit on ([[lore-kindlford|the Kindling at the Ford]]). It is sung at the [Night of the Kindled Road]{.name data-type="lore/gathering"}, the sect's rendezvous at the autumn equinox, after the priests have lit their ember-vessels into one fire and before any of them takes a coal back out of it; in every twelfth year the rendezvous is the east bank of Oluratarana itself, and the song is sung over the fire there with the west bank a mile off in the dark. The form is the Vedyari epic couplet, a long line answered by a short one, carrying a refrain. The longest-ordained _jvelita_ (Kindled One) present sings the long lines, the whole rendezvous answers the short ones, and the refrain's answer is shouted. The rendering keeps the pairing of long and short, the fixed words of the refrain and the order of the sections, and nothing of the original's measure.
+**The Borrowed Lamp** is the song the [[affiliation-agmipantra|Agmi-pantra]] sings of its own founding: the season the ascetic the sect calls [Bhasmadasa]{.name data-type="being/npc"}, the servant of ash, spent on [[place-olurtaran|Olurtaran]], the unburned ford of the upper reaches of [[place-mahanodi|the Mahanodi]], trying to burn a field no fire would stay lit on ([[lore-kindlford|the Kindling at the Ford]]). It is sung at the [Night of the Kindled Road]{.name data-type="lore/gathering"}, the sect's rendezvous at the autumn equinox, after the priests have lit their ember-vessels into one fire and before any of them takes a coal back out of it; in every twelfth year the rendezvous is the east bank of Olurtaran itself, and the song is sung over the fire there with the west bank a mile off in the dark. The form is the Vedyari epic couplet, a long line answered by a short one, carrying a refrain. The longest-ordained _jvelita_ (Kindled One) present sings the long lines, the whole rendezvous answers the short ones, and the refrain's answer is shouted. The rendering keeps the pairing of long and short, the fixed words of the refrain and the order of the sections, and nothing of the original's measure.
 
-What the song shares with the record is the season and its shape: the slaughter at the ford a decade before, when a king of [[lore-mhndkngdm|the Kingdom of Mahanodi]] destroyed a rising of the upper-river villages and forbade them conch, lamp and pyre ([[lore-unburnford|the Unburned Ford]]); a wandering ascetic with a lamp borrowed at the last village; fires lit in lines all season that went out; one that took on the east bank late in the season and burned down to the water; an ember carried away in a clay pot. Everything with a face in it is the sect's own and stands in no chronicle: the widow [Padmika]{.name data-type="being/npc"}, whose threshold lamp it was; the priest [Dharmanatha]{.name data-type="being/npc"} of [[place-rajapur|Rajepur]], who comes out to put the orthodox case; the plea of the _bhuraka_ (the restless dead) standing in the shallows. The song holds that the lamp lit the fire that took. The other account, that a grass-fire he had walked ran on its own, is admitted in one couplet of the song, and the record settles neither. The orthodox teaching that the unburned dead are [[lore-kalavratadty|Kalavrata]]'s affair, and that a priest who burns a _shorukshetra_ (blood-field) presumes on [[lore-rasikaradty|Rasikara]], is given to Dharmanatha whole, in four counts, and the sect sings it at its own fire every year; the quarrel it opens is the one behind [[lore-agnipartng|the sect's first parting]] from the city temples. The king is never named in the song; the chronicle names him, and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]], the Memory-Keeper's recitation, does not. What Bhasmadasa's mother called him the sect does not keep. At the eleven rendezvous in twelve that meet elsewhere, the closing couplets are sung unchanged, with the west bank named as though it lay across the fire.
+What the song shares with the record is the season and its shape: the slaughter at the ford a decade before, when a king of [[lore-mhndkngdm|the Kingdom of Mahanodi]] destroyed a rising of the upper-river villages and forbade them conch, lamp and pyre ([[lore-unburnford|the Unburned Ford]]); a wandering ascetic with a lamp borrowed at the last village; fires lit in lines all season that went out; one that took on the east bank late in the season and burned down to the water; an ember carried away in a clay pot. Everything with a face in it is the sect's own and stands in no chronicle: the widow [Padmika]{.name data-type="being/npc"}, whose threshold lamp it was; the priest [Dormanata]{.name data-type="being/npc"} of [[place-rajepur|Rajepur]], who comes out to put the orthodox case; the plea of the _bhuraka_ (the restless dead) standing in the shallows. The song holds that the lamp lit the fire that took. The other account, that a grass-fire he had walked ran on its own, is admitted in one couplet of the song, and the record settles neither. The orthodox teaching that the unburned dead are [[lore-kalavratadty|Kalavrata]]'s affair, and that a priest who burns a _shorukshetra_ (blood-field) presumes on [[lore-rasikaradty|Rasikara]], is given to Dormanata whole, in four counts, and the sect sings it at its own fire every year; the quarrel it opens is the one behind [[lore-agmipartng|the sect's first parting]] from the city temples. The king is never named in the song; the chronicle names him, and [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]], the Memory-Keeper's recitation, does not. What Bhasmadasa's mother called him the sect does not keep. At the eleven rendezvous in twelve that meet elsewhere, the closing couplets are sung unchanged, with the west bank named as though it lay across the fire.
 
 : The Opening {#opening}
 
@@ -138,7 +138,7 @@ The fire went out on the ford.
 Twelve lines the first night, and twelve out.
   A hundred by the ninth day.
 On the ninth day a priest came up the river road from Rajepur, the king's town,
-  Dharmanatha, an Achorya of the Triyanga, with no soldier behind him.
+  Dormanata, an Achorya of the Triyanga, with no soldier behind him.
 He stood on the road above the east bank in the heat and he put the case,
   and it is a true case, and we sing it whole.
 He said: The dead are Kalavrata's. He takes every soul on, asked or not.
@@ -149,13 +149,13 @@ He did not light your father's pyre. Your brother carried the coal.
   These had a house, and the house was kept off with spears.
 What they have is a stranger.
   I am the stranger.
-Dharmanatha said: The king forbade the pyre on this ground.
+Dormanata said: The king forbade the pyre on this ground.
   A man who lights what the king forbade is the rebels' priest.
 Bhasmadasa said: I am no one's priest. I have a bowl.
   And what did the king guarantee them?
 A king is owed last, and only what he gave. He gave them a day and a ford.
   They owe him a day and a ford. It is paid.
-Dharmanatha said: Rasikara does not burn what has not earned burning.
+Dormanata said: Rasikara does not burn what has not earned burning.
   You have decided what has earned it. That is the god's to say, and not a beggar's.
 Bhasmadasa said: I have decided nothing. Look at the grass.
   I set the fire and he refuses it. A hundred times he has refused it.
@@ -165,7 +165,7 @@ It is the one thing this kingdom does not know how to receive.
   I bring it anyway.
 And Vahrati, the gentle sister of the fire, takes what yields of itself.
   Ten years. It has not yielded.
-Dharmanatha said: Then hear the last, and it is the sharpest.
+Dormanata said: Then hear the last, and it is the sharpest.
   Every fire you light here and lose, the field learns from.
 It learns that it may refuse. You are teaching the grass to say no.
   You came to shut a door, and you are propping it.
@@ -174,7 +174,7 @@ Bhasmadasa did not answer that for a long time.
 He said: Then I have made it worse, and the debt is mine,
   in this life, or in the one it falls into.
 I will stay until it is paid.
-  Dharmanatha said: Then fast on it.
+  Dormanata said: Then fast on it.
 He said it as it is said at a gate: if the house will not open, sit at the door and fast.
   He said it as a dare, and the servant of ash took it as a teaching.
 He did not eat again on the ford.
@@ -348,11 +348,11 @@ The west bank is a mile from this fire, in the grass, in the dark.
 
 - [[lore-kindlford|The Kindling at the Ford]]—the season as the sect's history keeps it
 - [[lore-unburnford|The Unburned Ford]]—the slaughter and the order the song answers
-- [[place-oluratarna|Oluratarana]]—the ford, both banks, and the rules the upper river keeps there
-- [[affiliation-agnipantha|Agmi-pantra]]—the sect that sings it, and the rite that repeats the season
+- [[place-olurtaran|Olurtaran]]—the ford, both banks, and the rules the upper river keeps there
+- [[affiliation-agmipantra|Agmi-pantra]]—the sect that sings it, and the rite that repeats the season
 - [[lore-bloodfield|Blood-fields]]—what a _shorukshetra_ is and what the burning does to one
-- [[lore-agnipartng|The Three Partings of the Agmi-pantra]]—the quarrel Dharmanatha's four counts open
-- [[affiliation-kalavrata|Kalavrata]] · [[affiliation-rasikara|Rasikara]] · [[affiliation-vyahrati|Vahrati]]—the three gods the dialogue turns on
-- [[affiliation-trimurtisampradaya|Triyanga-sampradeya]]—the orthodox school Dharmanatha speaks for
+- [[lore-agmipartng|The Three Partings of the Agmi-pantra]]—the quarrel Dormanata's four counts open
+- [[affiliation-kalavrata|Kalavrata]] · [[affiliation-rasikara|Rasikara]] · [[affiliation-vahrati|Vahrati]]—the three gods the dialogue turns on
+- [[affiliation-triyangasampradeya|Triyanga-sampradeya]]—the orthodox school Dormanata speaks for
 - [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]—the cruel king, by his vice and not his name
-- [[place-rajapur|Rajepur]] · [[place-mahanadi|the Mahanodi]]
+- [[place-rajepur|Rajepur]] · [[place-mahanodi|the Mahanodi]]

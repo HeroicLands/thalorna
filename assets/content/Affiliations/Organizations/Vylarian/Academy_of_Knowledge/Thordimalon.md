@@ -287,7 +287,7 @@ The Order has tried to extend its influence across the rest of Thalorna with mix
 : A minimal presence. The desert peoples have their own traditions and no central authority for the Order to negotiate with. Individual agents sometimes travel the caravan routes at their own risk.
 
 [[place-vedyarargn|Vedyara Region]]
-: One licensed factor at the river mouth below [[place-chandrapur2|Chendrapur]], and nothing else. There is no chapter house, no school and no Order right to examine anybody. The subcontinent's own traditions are mature and licensed by the Varnakan schools themselves. The political fragmentation the Order would ordinarily work through is no help, because what it would need is a place in a licensing structure that has no vacancy, and no ruler's favor can supply one.
+: One licensed factor at the river mouth below [[place-chendrapur2|Chendrapur]], and nothing else. There is no chapter house, no school and no Order right to examine anybody. The subcontinent's own traditions are mature and licensed by the Varnukan schools themselves. The political fragmentation the Order would ordinarily work through is no help, because what it would need is a place in a licensing structure that has no vacancy, and no ruler's favor can supply one.
 
 [[affiliation-kalihara|Kalihara]]
 : No presence. The island is too remote and too self-sufficient to have drawn serious Order attention, and its one scholar, at [[place-ilovanu|Ilovanu]], studies there on his own account.

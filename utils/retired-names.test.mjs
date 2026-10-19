@@ -69,7 +69,7 @@ export const RETIRED = [
             "assets/content/Characters/Heroes_and_Knaves/Mirene_Kalethos.md",
             "assets/content/Characters/Heroes_and_Knaves/Arevin_Lidren.md",
             "assets/content/Characters/Heroes_and_Knaves/Kayvonad_Zarid.md",
-            "assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md",
+            "assets/content/Characters/Heroes_and_Knaves/Vishvakhila_Ratnadasa.md",
             "assets/content/Characters/Occupations/Aldith_Chilton.md",
             "assets/content/Characters/Occupations/Audrey_Harding.md",
         ],
@@ -105,13 +105,13 @@ export const RETIRED = [
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Nomasahr_Paraklavos.md",
             "assets/content/Characters/Heroes_and_Knaves/Samarina_Oreinikot.md",
-            "assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md",
+            "assets/content/Characters/Heroes_and_Knaves/Vishvakhila_Ratnadasa.md",
         ],
     },
     {
         retired: ["Devani"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Visvambharakhila_Ratnangadevadasa.md"],
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Vishvakhila_Ratnadasa.md"],
     },
     {
         retired: ["Aldwin"],
@@ -142,14 +142,14 @@ export const RETIRED = [
         retired: ["Meredith"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Visvara_Mahapara.md",
+            "assets/content/Characters/Heroes_and_Knaves/Vishvara_Mahapar.md",
             "assets/content/Characters/Occupations/Lothona_Harlanis.md",
         ],
     },
     {
         retired: ["Kesh"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Visvara_Mahapara.md"],
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Vishvara_Mahapar.md"],
     },
     {
         retired: ["Elara"],
@@ -185,7 +185,7 @@ export const RETIRED = [
     {
         retired: ["Kalindi"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Narava_Suryatejamahananda.md"],
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Narava_Tejanand.md"],
     },
     {
         retired: ["Eirik"],
@@ -267,8 +267,8 @@ export const RETIRED = [
             "assets/content/Regions/Ankaris/Hellad/Byzaria/Northern_March.md",
             "assets/content/Regions/Ankaris/Khazryn_Desert/Khazryn_Desert_Region.md",
             "assets/content/Regions/Ankaris/Vedyara/History/Era_6_The_Hard_Generation.md",
-            "assets/content/Regions/Ankaris/Vedyara/History/The_Fall_of_Marupala.md",
-            "assets/content/Regions/Ankaris/Vedyara/Lanthusthali.md",
+            "assets/content/Regions/Ankaris/Vedyara/History/The_Fall_of_Marupal.md",
+            "assets/content/Regions/Ankaris/Vedyara/Lantustal.md",
             "assets/content/Regions/Ankaris/Vedyara/Ludrapur.md",
             "assets/content/Regions/Ankaris/Velanthia/Velanthia_Region.md",
         ],

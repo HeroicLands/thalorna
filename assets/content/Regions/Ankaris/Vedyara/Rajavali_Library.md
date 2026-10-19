@@ -5,10 +5,10 @@ type: place
 subType: structure
 description: "The Memory-Keeper's archive at Rajepur—every chronicle, treaty and legal text of the kingdom-period, and every sabhra session since the kingdom was dissolved."
 tags: [sacred, river, inland]
-data: {demonym: null, lore: [], parents: [rajapurjnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [rajepurjnpd], population: null, packFolder: vedyara}
 ---
 
-**The Rajavali Library** stands in the outer courts of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajapur|Rajepur]], in what was once the royal council-chamber of [[lore-mhndkngdm|the Kingdom of Mahanodi]]. The building outlived the kingdom because the sabhra that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
+**The Rajavali Library** stands in the outer courts of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajepur|Rajepur]], in what was once the royal council-chamber of [[lore-mhndkngdm|the Kingdom of Mahanodi]]. The building outlived the kingdom because the sabhra that dissolved the kingdom decided it should, and it has been an annex of the temple for nine hundred years.
 
 It holds every chronicle, treaty and legal text of the kingdom-period, and the continuous archive of every sabhra session since the dissolution. No other archive in the inland part of the [[place-vedyarargn|Vedyara Region]] is both that old and unbroken.
 
@@ -28,15 +28,15 @@ Palm-leaf does not last in a wet country. The library recopies on a thirty-year 
 
 Historians come from across the region and are admitted. The question they ask at the desk is why a dissolved dynasty is kept in this detail, and the answer they are given is the commentary's own: the dissolution was a judgment, and a judgment is only as good as the record behind it.
 
-What a visiting scholar is not shown without the Memory-Keeper's word is the correspondence shelf in [[place-shitakoshtha|Shitakoshta]], which holds letters to and from janapadas and kingdoms about the dissolution and about whether it should be repeated elsewhere. Some of that correspondence is sixty years old and some of it arrived this year.
+What a visiting scholar is not shown without the Memory-Keeper's word is the correspondence shelf in [[place-shitakoshta|Shitakoshta]], which holds letters to and from janpodas and kingdoms about the dissolution and about whether it should be repeated elsewhere. Some of that correspondence is sixty years old and some of it arrived this year.
 
 ## See Also
 
-[[place-rajapur|Rajepur]]
+[[place-rajepur|Rajepur]]
 : the temple-seat
 
-[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+[[affiliation-rajeprjnpd|Rajepur Janpoda]]
 : the temple-republic
 
-[[place-shitakoshtha|Shitakoshta]]
+[[place-shitakoshta|Shitakoshta]]
 : the oldest vault

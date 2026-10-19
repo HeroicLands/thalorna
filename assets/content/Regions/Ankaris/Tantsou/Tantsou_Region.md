@@ -11,10 +11,10 @@ data:
   parents: [ankrscntnnt]
   borders: [{to: khzryndsrtrgn, bearing: W}, {to: graznmntns, bearing: SW}]
   routes:
-    - {to: suryadvara, bearing: SW, mode: land, days: 30}
-    - {to: jnanadvara, bearing: SW, mode: land, days: 45}
-    - {to: sankhadvra, bearing: W, mode: land, days: 60}
-    - {to: nilatira, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
+    - {to: suryadvar, bearing: SW, mode: land, days: 30}
+    - {to: jnanadvar, bearing: SW, mode: land, days: 45}
+    - {to: shankhadvr, bearing: W, mode: land, days: 60}
+    - {to: nilatir, bearing: SW, mode: ship, days: 45, terrain: [open-sea]}
   population: null
   packFolder: tantsou
   government: tantsouempr
@@ -23,7 +23,7 @@ data:
 # terran_analog: "China, Korea, and mainland Southeast Asia (Vietnam, Laos, Thailand, Cambodia, Myanmar)—the great eastern imperial sphere of celestial bureaucracy, mountain-fringed river civilizations, and tributary kingdoms."
 ---
 
-> At the frontier way-station beyond [[place-jnanadvara|Jnanadvara]] the registrar's second daughter, a Tanchéi in a scholar's blue robe, walks a newly classified merchant to the eastern gate and points down the valley with her closed fan. "Everything below us is written down," she says. "Every terrace has a lineage, every lineage has a page, and every page has a seal. You are on the page now. Do not step off it."
+> At the frontier way-station beyond [[place-jnanadvar|Jnanadvar]] the registrar's second daughter, a Tanchéi in a scholar's blue robe, walks a newly classified merchant to the eastern gate and points down the valley with her closed fan. "Everything below us is written down," she says. "Every terrace has a lineage, every lineage has a page, and every page has a seal. You are on the page now. Do not step off it."
 
 ## Overview
 
@@ -31,7 +31,7 @@ The Tantsou Region is the far east of the [[place-ankrscntnnt|Ankaris Continent]
 
 ## Geography
 
-Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazryn]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvara|Suryadvara]], Jnanadvara and [[place-sankhadvra|Shankhadvara]]. To the east lies the open ocean and the strait that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
+Mountain ranges enclose the region and divide it into a series of great river basins. The northern lands reach a cold coast. To the west lie the passes and high deserts of the [[place-khzryndsrtrgn|Khazryn]] frontier, where [[lore-celestialroad|the Celestial Road]] ends. To the southwest the unaligned range of [[place-graznmntns|the Grazian Mountains]] stands between Tantsou and [[place-vedyarargn|Vedyara]], crossed by the long passes of [[place-suryadvar|Suryadvar]], Jnanadvar and [[place-shankhadvr|Shankhadvar]]. To the east lies the open ocean and the strait that separates the mainland from the [[place-jenchairgn|Jenchai]] archipelago.
 
 Three great rivers make the basins. Fed by mountain glaciers, they run through the heartland to the eastern ocean and carry commerce, tribute and imperial edicts on the same water. The valleys between them are the most intensively cultivated land in the world: rice, millet, mulberry for the silkworm, tea and orchard fruit feed the crowded river cities. Above the valleys, terraced hillsides climb the foothills in staircases, kept by villages whose terraces have passed down through named lineages for thirty generations or more. A terrace is the first thing a Tantsou points to when asked what the registers are for.
 
@@ -61,7 +61,7 @@ No serious threat has ever reached the Empire from the west. Its worst enemies h
 
 The region stands at the eastern end of the Celestial Roads, the overland routes that run west through the Khazryn and reach [[place-midhalnrgn|Mídhalión]] at last. Silk, porcelain, tea, lacquer, jade, spices and finished metalwork go west; silver, gold, amber, coral, glass and horses come east. The imperial bureaucracy taxes, documents and classifies every significant movement of goods, so smuggling is a highly developed profession.
 
-Coastal trade carries less prestige and far more volume. Tantsou trading ships work the southern ports and reach Vedyara's outport at [[place-nilatira|Nilatira]] and the northern coasts of [[place-xerathia|Zerathia]]. The port cities hold large foreign merchant quarters, carefully walled, carefully watched and carefully taxed.
+Coastal trade carries less prestige and far more volume. Tantsou trading ships work the southern ports and reach Vedyara's outport at [[place-nilatir|Nilatir]] and the northern coasts of [[place-xerathia|Zerathia]]. The port cities hold large foreign merchant quarters, carefully walled, carefully watched and carefully taxed.
 
 ## Neighbors
 

@@ -287,7 +287,7 @@ A barrel-bodied animal on short, columnar legs with broad three-toed feet. The h
 
 ## In the Land
 
-The rhinoceros lives along the great rivers of the Vedyari lowlands—[[place-mahanadi|the Mahanodi]] and the others that come down from [[place-sthrnwall|the Southern Wall]]—in the flood-meadows of elephant-grass twelve to fifteen feet high, in the reed-marshes and in the wallows and mud-holes of the river margins. A bull holds a stretch of river bank with its wallows, its crossing-places and its grazing, and patrols it on a regular round. Rhinoceros are common in the wilder stretches of the rivers and rare along the settled banks, where the poachers have taken them for their horns. A path that crosses a rhinoceros's ground is known to the people who live there, and a stranger who uses it is warned.
+The rhinoceros lives along the great rivers of the Vedyari lowlands—[[place-mahanodi|the Mahanodi]] and the others that come down from [[place-sthrnwall|the Southern Wall]]—in the flood-meadows of elephant-grass twelve to fifteen feet high, in the reed-marshes and in the wallows and mud-holes of the river margins. A bull holds a stretch of river bank with its wallows, its crossing-places and its grazing, and patrols it on a regular round. Rhinoceros are common in the wilder stretches of the rivers and rare along the settled banks, where the poachers have taken them for their horns. A path that crosses a rhinoceros's ground is known to the people who live there, and a stranger who uses it is warned.
 
 ## Key Behaviors
 

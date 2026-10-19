@@ -13,12 +13,12 @@ data:
     - affiliation-mahajaya
     - affiliation-rasikara
     - affiliation-kalavrata
-    - affiliation-vyahrati
-    - affiliation-varakpnthn
-    - affiliation-trimurtisampradaya
+    - affiliation-vahrati
+    - affiliation-vrnkpnthn
+    - affiliation-triyangasampradeya
     - affiliation-vyalendravada
     - affiliation-osketguides
-    - place-rajapur
+    - place-rajepur
     - place-sandstonealtr
     - place-mahaprbhva
     - place-chandrprbh
@@ -31,9 +31,9 @@ data:
   packFolder: vedyara
 ---
 
-**The Measuring Cord** is the recitation of the beginning that a Vedyari temple school teaches its children first, before the letters and before the count, and the rendering here is the one the school of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajapur|Rajepur]] recites on the first morning of the year to the new children of every village of the janapoda, standing before [[place-sandstonealtr|the sandstone altar]] with a knotted cord in the master's hands. It is a catechism in couplets, a long line answered by a short one: a child's question, fixed by long use, and the master's answer, and the children say the questions and the master says the rest. The schools of the [[affiliation-trimurtisampradaya|Triyanga-sampradeya]], the tradition of the three forms, recite the same work with [[lore-mahajayadty|Mahajaya]] and [[lore-rasikaradty|Rasikara]] named as the shaper's equals, and the schools of the [[affiliation-vyalendravada|Vyalendravada]] recite it with every god an aspect of the one shaper; the recitation carries both readings inside itself and says so; that is how a Vedyari work keeps a quarrel without settling it. The [[affiliation-agnipantha|Agmi-pantra]] holds that the schools recite the breaking too softly, and teaches its novices that section at the roadside in words of its own.
+**The Measuring Cord** is the recitation of the beginning that a Vedyari temple school teaches its children first, before the letters and before the count, and the rendering here is the one the school of the great [[affiliation-vyalendra|Vyalendra]] temple at [[place-rajepur|Rajepur]] recites on the first morning of the year to the new children of every village of the janpoda, standing before [[place-sandstonealtr|the sandstone altar]] with a knotted cord in the master's hands. It is a catechism in couplets, a long line answered by a short one: a child's question, fixed by long use, and the master's answer, and the children say the questions and the master says the rest. The schools of the [[affiliation-triyangasampradeya|Triyanga-sampradeya]], the tradition of the three forms, recite the same work with [[lore-mahajayadty|Mahajaya]] and [[lore-rasikaradty|Rasikara]] named as the shaper's equals, and the schools of the [[affiliation-vyalendravada|Vyalendravada]] recite it with every god an aspect of the one shaper; the recitation carries both readings inside itself and says so; that is how a Vedyari work keeps a quarrel without settling it. The [[affiliation-agmipantra|Agmi-pantra]] holds that the schools recite the breaking too softly, and teaches its novices that section at the roadside in words of its own.
 
-Where the work touches [[place-himashila|Himashila]], it keeps the silence [[place-suryatempl|the Surva temple]] keeps: the slab is a footstool, and the recitation does not say whose. Where it touches the gap between the conch and the pyre it says what every Vedyari household holds, and where it touches the fields where the gap never closed it says what [[lore-bloodfield|every people says of a blood-field]] in the school's own terms. The count of the ages is the school's, and the children are told so. At the end of the recitation the master gives the cord to the smallest child, and the children measure the temple court with it, knot by knot, before they are allowed to eat.
+Where the work touches [[place-himashila|Himashila]], it keeps the silence [[place-surtatempl|the Surta temple]] keeps: the slab is a footstool, and the recitation does not say whose. Where it touches the gap between the conch and the pyre it says what every Vedyari household holds, and where it touches the fields where the gap never closed it says what [[lore-bloodfield|every people says of a blood-field]] in the school's own terms. The count of the ages is the school's, and the children are told so. At the end of the recitation the master gives the cord to the smallest child, and the children measure the temple court with it, knot by knot, before they are allowed to eat.
 
 : Before the Cord {#before}
 
@@ -297,7 +297,7 @@ That is the school. That is the field. That is the whole of it.
 
 ## See Also
 
-[[affiliation-varakpnthn|Varnuka Pantheon]]
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
 : the gods the recitation names, and the schools that read them as three or as one
 
 [[affiliation-vyalendra|Vyalendra]]
@@ -312,10 +312,10 @@ That is the school. That is the field. That is the whole of it.
 [[affiliation-kalavrata|Kalavrata]]
 : the Gatekeeper, who asked for nothing and was given the breath
 
-[[affiliation-vyahrati|Vahrati]]
+[[affiliation-vahrati|Vahrati]]
 : the gentle one, whose bowl takes what yields of itself
 
-[[affiliation-trimurtisampradaya|Triyanga-sampradeya]] · [[affiliation-vyalendravada|Vyalendravada]]
+[[affiliation-triyangasampradeya|Triyanga-sampradeya]] · [[affiliation-vyalendravada|Vyalendravada]]
 : the two readings the work carries
 
 [[place-sandstonealtr|The Sandstone Altar]]
@@ -333,5 +333,5 @@ That is the school. That is the field. That is the whole of it.
 [[lore-bloodfield|Blood-fields]]
 : the gap that did not close
 
-[[lore-mdhvndrcnt|The Madustana Count]]
+[[lore-mdstncnt|The Madustan Count]]
 : the reckoners who will give a nearer figure

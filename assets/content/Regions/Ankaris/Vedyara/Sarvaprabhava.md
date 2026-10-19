@@ -17,7 +17,7 @@ data:
 
 The last two days of the climb to **Sarvaprabhava** are a stair cut in rock, and there is no way to carry anybody up it. That is why fewer pilgrims see this source than any of the other three.
 
-Sarvaprabhava is the source of [[place-sarvadarivr|the Sarveda]], in a hanging valley on the face of [[place-sthrnwall|the Southern Wall]] east of [[place-suryadvara|Suryadvara]]. It is the second of the four cosmic sources.
+Sarvaprabhava is the source of [[place-sarvedarivr|the Sarveda]], in a hanging valley on the face of [[place-sthrnwall|the Southern Wall]] east of [[place-suryadvar|Suryadvar]]. It is the second of the four cosmic sources.
 
 [[place-vyalsrctmp|The source-temple]] here is [[affiliation-vyalendra|Vyalendra]]'s, and its priests are shapers and builders and no kind of scholar. The temple has been rebuilt on the same footing eleven times, each time in the course of a single open season. The interval between rebuildings is never less than a century and never more than two, and its masons read that as a fact about the mountain and not about their predecessors' work.
 
@@ -30,5 +30,5 @@ The series is nine hundred years long. It is the best single record of the wall'
 ## See Also
 
 - [[place-vyalsrctmp|The Vyalendra Source-Temple]]—the building on the shelf
-- [[place-sarvadarivr|The Sarveda]] · [[place-sthrnwall|the Southern Wall]] · [[affiliation-vyalendra|Vyalendra]]
+- [[place-sarvedarivr|The Sarveda]] · [[place-sthrnwall|the Southern Wall]] · [[affiliation-vyalendra|Vyalendra]]
 - [[place-chandrprbh|Chandraprabhava]] · [[place-mahaprbhva|Mahaprabhava]] · [[place-bhrvprbhav|Bharavaprabhava]]

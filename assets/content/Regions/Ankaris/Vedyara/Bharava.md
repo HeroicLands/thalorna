@@ -12,15 +12,15 @@ The **Bharava** rises at [[place-bhrvprbhav|Bharavaprabhava]] under [[place-estr
 
 ## The Highlands
 
-The upper Bharava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janapadas for fifteen centuries. The janapoda that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it. Buyers who come up for the gold find that embarrassment admirable or exasperating, according to how much they came to buy.
+The upper Bharava is the alluvial gold country. The wash out of the mountain has funded the temples of the highland janpodas for fifteen centuries. The janpoda that sits on the richest of it is wealthy by any standard and philosophically embarrassed about it. Buyers who come up for the gold find that embarrassment admirable or exasperating, according to how much they came to buy.
 
 ## The Forest
 
-Below the highlands the river runs through forest held by temple-domains and by no janapoda. It is the one arrangement in [[place-vedyarargn|Vedyara]] where no assembly sits and no sabhra meets. The forest products that pay for everything are gathered by peoples the lowland records describe only in the aggregate.
+Below the highlands the river runs through forest held by temple-domains and by no janpoda. It is the one arrangement in [[place-vedyarargn|Vedyara]] where no assembly sits and no sabhra meets. The forest products that pay for everything are gathered by peoples the lowland records describe only in the aggregate.
 
 The pilgrim road runs the whole length of the river, sea to ice, and the hostels that make the walk possible are endowed out of exactly those forest products. A great many people whose devotion would not survive the cost of the journey make it anyway, on other people's charity, and that fact is itself part of the observance.
 
 ## See Also
 
 - [[place-bhrvprbhav|Bharavaprabhava]] · [[place-estrnreach|the Eastern Reach]] · [[place-vedyarargn|Vedyara Region]]
-- [[place-chandrmahi|The Chandramahi]] · [[place-sarvadarivr|the Sarveda]] · [[place-mahanadi|the Mahanodi]]
+- [[place-chandrmahi|The Chandramahi]] · [[place-sarvedarivr|the Sarveda]] · [[place-mahanodi|the Mahanodi]]

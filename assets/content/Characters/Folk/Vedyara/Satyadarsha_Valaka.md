@@ -36,4 +36,4 @@ Satyadarsha Valaka was a 55-year-old man who stood 5'10" tall with a heavy build
 
 # Dossier {#dossier}
 
-Kulena Satyadarsha of a neighboring holding made an advantageous arranged marriage with [[being-prtrkpdmdksh|Pritarika Padmadiksha]] when she was twenty-three, uniting two significant landholdings. He respected her intellect, called her Priti when they were alone, and supported her expanding influence; he was killed in a hunting accident at age fifty-five, an incident she suspects was not accidental.
+Kulena Satyadarsha of a neighboring holding made an advantageous arranged marriage with [[being-prtrkpdmdksh|Pritarika Padmadiksha]] when she was twenty-three, uniting two significant landholdings. He respected her intellect, called her Pripri when they were alone, and supported her expanding influence; he was killed in a hunting accident at age fifty-five, an incident she suspects was not accidental.

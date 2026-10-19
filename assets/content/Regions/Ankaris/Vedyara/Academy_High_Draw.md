@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The oldest of the four academy halls in the bow-fort, which teaches the great longbow and sends its graduates to the heavy infantry of every Vedyari kingdom."
 tags: [hall, military, inland]
-data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
 ---
 
 In your first year at **the High Draw** you are handed a bow you cannot yet pull, and you are expected to keep pulling it.
@@ -26,5 +26,5 @@ The High Draw holds the senior of the four reserved academy seats on the sabhra,
 
 ## See Also
 
-- [[place-bowfort|The Bow-Fort]] · [[place-dhanurkota|Danurkota]]
+- [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[place-swifthand|The Academy of the Swift Hand]] · [[place-patienteye|the Academy of the Patient Eye]] · [[place-hiddenstring|the Academy of the Hidden String]]

@@ -75,7 +75,7 @@ The [Woju]{.name data-type="affiliation/lineage"} keep the harbors and hold [Sho
 
 ## Hulls and Muster
 
-The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-suryasamdra|Surva-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
+The muster is 1,300 men and 40 hulls. A Wojai hull is a merchant ship that carries a warship's crew when the lord calls, and the line between the two is thin. The hulls carry Jenchai's blades, lacquer, silk and salt out through the bay to the [[place-vedyarargn|Vedyaran coast]], and the harbor takes in the jade, tea, bronze and silver the islands import. The trade to Vedyara crosses [[place-surtasamdra|Surta-samedra]], which is closed to shipping for four months of the year, and the Shuonong merchants of Yuwu finance the voyages.
 
 ## Relations
 
@@ -99,5 +99,5 @@ The court pawned the bronze bell of the [Dawn Rite]{.name data-type="lore/custom
 [[place-jenchairgn|Jenchai Region]]
 : the islands and the strait
 
-[[place-suryasamdra|Surva-samedra]]
+[[place-surtasamdra|Surta-samedra]]
 : the eastern ocean the hulls cross

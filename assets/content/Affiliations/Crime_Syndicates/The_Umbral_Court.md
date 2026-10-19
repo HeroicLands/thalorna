@@ -177,7 +177,7 @@ position that it does not exist is the least embarrassing one available.
   intermittently, which is the single greatest threat to the Court's standing at home.
 - **[[affiliation-velvethand|The Velvet Hand]].** The mainland counterpart, and a buyer. Arcane Order secrets
   command extraordinary prices, and the Court is one of very few sellers.
-- **[[affiliation-adanasreni|The Adanashreni]].** No contact to speak of, and a certain professional
+- **[[affiliation-adanshreni|The Adanshreni]].** No contact to speak of, and a certain professional
   curiosity: both are criminal bodies that survive by being institutions rather than gangs, and each
   regards the other's solution to the problem as unworkable.
 

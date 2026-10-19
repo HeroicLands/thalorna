@@ -8,18 +8,18 @@ tags: [town, port, coastal, naval, trading]
 data:
   demonym: null
   lore: []
-  parents: [chandrapurland, chandrmahi]
+  parents: [chendrapurland, chandrmahi]
   population: 16000
   market: 5
   routes:
-    - {to: chandrapur2, bearing: N, mode: boat, days: 1, terrain: [river]}
+    - {to: chendrapur2, bearing: N, mode: boat, days: 1, terrain: [river]}
     - {to: aukhelathrgq, bearing: SW, mode: ship, days: 30}
     - {to: bharanya, bearing: E, mode: ship, days: 5, terrain: [coast]}
   packFolder: vedyara
-  government: chandrapur
+  government: chendrapur
 ---
 
-**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|the Chandramahi]] crosses the bar into the [[place-meghsamdra|Meghra-samedra]]. The name means the moon's mouth, and it is the mouth of [[place-chandrapur2|Chendrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
+**Chandramukha** (16,000, market 5) stands on the seaward edge of the delta, where the last navigable channel of [[place-chandrmahi|the Chandramahi]] crosses the bar into the [[place-meghrsmdra|Meghra-samedra]]. The name means the moon's mouth, and it is the mouth of [[place-chendrapur2|Chendrapur]] in every sense that matters: nothing reaches the white city from the sea, and nothing leaves it for the sea, except through here.
 
 The town is small for what passes through it. A deep-water hull cannot cross the bar and a river craft cannot cross the open water, so everything is handled twice, and the handling is the town's whole life. The warehouses run three deep behind the quays. Behind them are the yards, the rope-walks, the sail-lofts, the chandlers and the pilots' quarter, and behind those the marsh.
 
@@ -31,7 +31,7 @@ Outside the bar is the roadstead, open water on a shelving bottom with no shelte
 
 ## The Yards
 
-[[affiliation-chandrapur|Chendrapur]]'s war-galleys are built here and laid up here. The yards stand on the firm ground above the marsh on the east side of the channel, and they belong to the crown and not to any of the [Nine Houses]{.name data-type="affiliation"}—the one considerable thing in the land that does. A galley is built over about two years, is worked for twenty, and is broken up in the yard that built it.
+[[affiliation-chendrapur|Chendrapur]]'s war-galleys are built here and laid up here. The yards stand on the firm ground above the marsh on the east side of the channel, and they belong to the crown and not to any of the [Nine Houses]{.name data-type="affiliation"}—the one considerable thing in the land that does. A galley is built over about two years, is worked for twenty, and is broken up in the yard that built it.
 
 The merchant houses build their coasting hulls on the west side, in yards they own outright, and the two sides of the channel keep separate shrenis, separate feasts and separate opinions about who is the more skilled. The crown has never had cause to settle it.
 
@@ -49,17 +49,17 @@ What the town does not have is any way for a man to stay. A deck is a place to b
 
 ## See Also
 
-[[affiliation-chandrapur|Chendrapur]]
+[[affiliation-chendrapur|Chendrapur]]
 : the city-state whose port this is
 
-[[place-chandrapur2|Chendrapur]]
+[[place-chendrapur2|Chendrapur]]
 : the city a day upriver
 
-[[place-chandrapurland|Chendrapur Land]]
+[[place-chendrapurland|Chendrapur Land]]
 : the land
 
 [[place-chandrmahi|The Chandramahi]]
 : the river
 
-[[place-meghsamdra|The Meghra-samedra]]
+[[place-meghrsmdra|The Meghra-samedra]]
 : the sea outside the bar

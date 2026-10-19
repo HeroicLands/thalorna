@@ -3,7 +3,7 @@ shortcode: oskhelt
 name: {full: Oskhelt, aliases: []}
 type: place
 subType: settlement
-description: "The principal Osket village, above the throat of Suryadvara—stacked stone on a south-facing slope, full for two months of the year and shut for ten."
+description: "The principal Osket village, above the throat of Suryadvar—stacked stone on a south-facing slope, full for two months of the year and shut for ten."
 tags: [village, caravan, inland]
 data:
   demonym: null
@@ -16,7 +16,7 @@ data:
   culture: osketclt
 ---
 
-**Oskhelt** is the one place on the wall where a lowlander arranges a crossing instead of being granted one. It stands on a south-facing slope above the upper stages of [[place-suryadvara|Suryadvara]], four days' climb from [[place-suryagarha|Suryagarha]] and well above anything that will grow grain, and it is the largest settlement of [[affiliation-osketguides|the Osket]].
+**Oskhelt** is the one place on the wall where a lowlander arranges a crossing instead of being granted one. It stands on a south-facing slope above the upper stages of [[place-suryadvar|Suryadvar]], four days' climb from [[place-suryagarha|Suryagarha]] and well above anything that will grow grain, and it is the largest settlement of [[affiliation-osketguides|the Osket]].
 
 The houses are stacked stone, built into the slope with the beast-floor beneath and the living-floor above, roofed in slate and turf and sharing walls wherever the ground allows. Six hundred and forty people winter here. In the open season the figure doubles and more.
 
@@ -24,7 +24,7 @@ The houses are stacked stone, built into the slope with the beast-floor beneath 
 
 For two months of the year Oskhelt is a market. Caravan-masters come up to negotiate, fee-reckoners sit in the open, loads are broken down onto yaks, and the smiths who spend the rest of the year shoeing beasts work three deep. A traveler can buy most ordinary things here in that window, at prices that reflect the four days it took to carry them up.
 
-For the other ten months there is no market at all, the smiths are shoeing beasts again, and the store-house is the whole of the village's economy. The common store is held by the hearth-wardens and drawn on by everyone, and the [[place-suryadvara|Suryadvara]] lineages' habit of provisioning it out of their own fees is the nearest thing the Osket have to a public institution.
+For the other ten months there is no market at all, the smiths are shoeing beasts again, and the store-house is the whole of the village's economy. The common store is held by the hearth-wardens and drawn on by everyone, and the [[place-suryadvar|Suryadvar]] lineages' habit of provisioning it out of their own fees is the nearest thing the Osket have to a public institution.
 
 ## The Hospitality
 
@@ -32,5 +32,5 @@ Anyone who reaches a door in Oskhelt is fed and housed from the common store, an
 
 ## See Also
 
-- [[place-suryadvara|Suryadvara]] · [[affiliation-osketguides|the Osket]] · [[place-tsokhar|Tsokhar]]
+- [[place-suryadvar|Suryadvar]] · [[affiliation-osketguides|the Osket]] · [[place-tsokhar|Tsokhar]]
 - [[place-graznmntns|The Grazian Mountains]] · [[place-suryagarha|Suryagarha]]

@@ -9,17 +9,17 @@ data:
   culture: vedyariclt
   form: chronicle
   subjects:
-    - affiliation-rajaprjnpd
-    - place-rajapur
+    - affiliation-rajeprjnpd
+    - place-rajepur
     - place-palacecellar
     - place-rajavalilib
-    - place-shitakoshtha
+    - place-shitakoshta
     - place-sandstonealtr
   language: vedyarlng
   packFolder: vedyara
 ---
 
-**The Forty Days** is the dissolution of [[lore-mhndkngdm|the Kingdom of Mahanodi]] as [[place-rajavalilib|the Rajavali Library]] keeps it: the chronicle's entries, flat and dated by [[lore-mdhvndrcnt|the Madustana count]], each followed by the gloss that the current Memory-Keeper of [[affiliation-rajaprjnpd|Rajepur Janapoda]], [Ramavahana Smrtibhara]{.name data-type="being/npc"}, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of [[lore-agecopyists|the Age of Copyists]] (1 AC), is 241 BF. The originals lie in [[place-shitakoshtha|Shitakoshta]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
+**The Forty Days** is the dissolution of [[lore-mhndkngdm|the Kingdom of Mahanodi]] as [[place-rajavalilib|the Rajavali Library]] keeps it: the chronicle's entries, flat and dated by [[lore-mdstncnt|the Madustan count]], each followed by the gloss that the current Memory-Keeper of [[affiliation-rajeprjnpd|Rajepur Janpoda]], [Ramavahan Smrtibhara]{.name data-type="being/npc"}, gives it in his commentary on the dissolution. The year of the entries, the two hundred and fortieth of the count and the first of [[lore-agecopyists|the Age of Copyists]] (1 AC), is 241 BF. The originals lie in [[place-shitakoshta|Shitakoshta]], the library's oldest vault. The chronicle enters what was done; the commentary weighs it, and it keeps apart what the record states and what tradition adds.
 
 : The Forty Days {#chronicle}
 
@@ -34,7 +34,7 @@ _Gloss._ The last four words are the whole of the matter, and the chronicler wro
 
 **Entry.** The sabhra was convened in the great hall of the temple, before the altar, and sat.
 
-**Entry.** On the fortieth day the sabhra declared the kingdom dissolved and the line of its kings ended, with full honors to the line and acknowledgment of what it did in its better generations. The villages of the kingdom are joined as one janapoda and governed jointly through the temple. The palace is to be taken down and its stones given to the temple. The royal granaries are common stores. The army is disbanded, and each of its men is given land. The council-chamber stands, and what is kept in it is kept whole.
+**Entry.** On the fortieth day the sabhra declared the kingdom dissolved and the line of its kings ended, with full honors to the line and acknowledgment of what it did in its better generations. The villages of the kingdom are joined as one janpoda and governed jointly through the temple. The palace is to be taken down and its stones given to the temple. The royal granaries are common stores. The army is disbanded, and each of its men is given land. The council-chamber stands, and what is kept in it is kept whole.
 
 _Gloss._ It is fair to ask why a sabhra took forty days to end what nobody in the hall wished to keep. The answer the decree gives is in its clauses. The sabhra was not deciding whether the kingdom was finished; it was deciding what to keep of it and what to unmake, and every clause is one such decision.
 
@@ -42,11 +42,11 @@ The palace was unmade, and the classical account is that its stones went into th
 
 The granaries were not unmade. They were taken out of the palace's hands and put where every village could see them, and the four-story granary in the temple court is a common store to this day. A drunk king's guard opened the royal doors; twelve men of the town watch lock the common ones at night.
 
-The army was unmade, and its men were not. They took land and went into the cultivating and artisan households of the new janapoda, and Rajepur has raised no soldiers since and has needed none.
+The army was unmade, and its men were not. They took land and went into the cultivating and artisan households of the new janpoda, and Rajepur has raised no soldiers since and has needed none.
 
 The council-chamber was kept, and with it the record. This is the clause the commentary returns to most. The dissolution was a judgment, and a judgment is only as good as the record behind it; a sabhra that burned the chronicle of the six would have left its own decree with nothing to answer for it. The family that keeps the record has kept it since this decree.
 
-The honor in the decree is not courtesy. The recitation names the just kings of the line at their places before it reaches the six, and it closes on the acknowledgment that the kingdom is no more. A kingdom that failed because it deserved to fail is the reason for the recitation; that any government can fail and be dissolved the same way, this janapoda's own included, is the reason it opens every session.
+The honor in the decree is not courtesy. The recitation names the just kings of the line at their places before it reaches the six, and it closes on the acknowledgment that the kingdom is no more. A kingdom that failed because it deserved to fail is the reason for the recitation; that any government can fail and be dissolved the same way, this janpoda's own included, is the reason it opens every session.
 :::
 
 ## See Also
@@ -54,11 +54,11 @@ The honor in the decree is not courtesy. The recitation names the just kings of 
 [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]
 : the same line and the same forty days, as the Memory-Keeper recites them
 
-[[affiliation-rajaprjnpd|Rajepur Janapoda]]
+[[affiliation-rajeprjnpd|Rajepur Janpoda]]
 : the temple-republic the decree founded
 
 [[place-palacecellar|The Palace Cellars]]
 : what is left of the palace the decree took down
 
-[[place-rajavalilib|The Rajavali Library]] · [[place-shitakoshtha|Shitakoshta]]
+[[place-rajavalilib|The Rajavali Library]] · [[place-shitakoshta|Shitakoshta]]
 : where the chronicle and the decree are kept

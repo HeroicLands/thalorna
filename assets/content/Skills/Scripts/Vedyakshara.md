@@ -25,11 +25,11 @@ It carries [[skill-vedyarlng|Vedyari]]—Classical Vedyari for anything that mat
 
 - **The old abjad.** The Vedyakshara evolved out of a consonantal script that survives now only in sacred use: certain mantras, certain temple foundation deposits, certain things that must be written the way they have always been written. Reading it is a separate accomplishment and a rare one.
 - **The classical syllabary.** The full forty-eight, carefully formed, used for scripture, legal codes, land grants, genealogy and inscription. This is what a temple scribe is trained in.
-- **The common cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by [[affiliation-mrchntclctvvdyr|the Merchant Collective]] and the janapoda administrations for anything that is not going to outlive the year.
+- **The common cursive.** About thirty-six core forms plus a mass of ligatures, written running, used by [[affiliation-mrchntclctvvdyr|the Merchant Collective]] and the janpoda administrations for anything that is not going to outlive the year.
 
 ## Where the writing lives
 
-The temple, which in a Vedyari janapoda is also the record office, the school, the granary insurance pool and the bank. It keeps the boundary stones, the genealogical registers and the legal codes, and its authority over all three is documentary. The [[affiliation-trimurtisampradaya|Triyanga-sampradeya]] sets the calendar the public year runs on, and the calendar is published in the classical script; a mistake in it is a theological matter before it is an administrative one. Vedyari mathematics and astronomy have their own notation, taught alongside the syllabary and unreadable without it.
+The temple, which in a Vedyari janpoda is also the record office, the school, the granary insurance pool and the bank. It keeps the boundary stones, the genealogical registers and the legal codes, and its authority over all three is documentary. The [[affiliation-triyangasampradeya|Triyanga-sampradeya]] sets the calendar the public year runs on, and the calendar is published in the classical script; a mistake in it is a theological matter before it is an administrative one. Vedyari mathematics and astronomy have their own notation, taught alongside the syllabary and unreadable without it.
 
 ## Who has it
 

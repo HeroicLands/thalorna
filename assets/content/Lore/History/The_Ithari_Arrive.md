@@ -11,7 +11,7 @@ data:
     - when: ~-10000
       kind: arrival
       depth: world
-      sources: [lore-theithari, place-himashila, place-shitakoshtha, place-shunydvara]
+      sources: [lore-theithari, place-himashila, place-shitakoshta, place-shunydvar]
       summary: >-
         The Ithari reach Thalorna from an origin no record names, settle Kalihara, and take in the scattered human bands living there. Across the rest of the world they raise works of a single substance found nowhere else, found nothing, teach nobody, and leave no word behind.
       standing: single-source

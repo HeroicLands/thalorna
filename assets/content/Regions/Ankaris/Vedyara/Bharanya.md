@@ -8,16 +8,16 @@ tags: [town, river, sacred, pilgrimage, market]
 data:
   demonym: null
   lore: []
-  parents: [mahanadi, vedyarargn]
+  parents: [mahanodi, vedyarargn]
   population: 5400
   routes: [{to: chandrmukha, bearing: W, mode: ship, days: 5, terrain: [coast]}]
   government: lwrmhndjnpd
   packFolder: vedyara
 ---
 
-**Bharanya** (5,400) stands on the lower reaches of [[place-mahanadi|the Mahanodi]], and it is there for the temple. The great temple, [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of [The Council of Three]{.name data-type="affiliation/governmental"}.
+**Bharanya** (5,400) stands on the lower reaches of [[place-mahanodi|the Mahanodi]], and it is there for the temple. The great temple, [[place-bhrnytemple|the Mahajaya Temple at Bharanya]], is one of the three largest pilgrim-temples in central [[place-vedyarargn|Vedyara]], and its senior priest is one of the three of [The Council of Three]{.name data-type="affiliation/governmental"}.
 
-The town belongs to a janapoda of the Mahanodi circuit and holds no seat of its own at the [Mahva-Melra]{.name data-type="lore/gathering"}. What it has instead is the temple's standing, which is greater than the janapoda's and older.
+The town belongs to a janpoda of the Mahanodi circuit and holds no seat of its own at the [Mahva-Melka]{.name data-type="lore/gathering"}. What it has instead is the temple's standing, which is greater than the janpoda's and older.
 
 ## The Mounds
 
@@ -33,5 +33,5 @@ The rest is river work: grain out of the reach behind the town, the ferry across
 
 ## See Also
 
-- [[place-mahanadi|The Mahanodi]] · [[place-vedyarargn|Vedyara Region]]
+- [[place-mahanodi|The Mahanodi]] · [[place-vedyarargn|Vedyara Region]]
 - [[place-bhrnytemple|The Mahajaya Temple at Bharanya]]—the temple the town serves

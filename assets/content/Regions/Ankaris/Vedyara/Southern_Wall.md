@@ -16,11 +16,11 @@ data:
 
 **The Southern Wall** is the long face of [[place-graznmntns|the Grazian Mountains]] that stands over [[place-vedyarargn|Vedyara]]. It is why the one road into the subcontinent that crosses no pass runs round the western end of the range, through [[place-wstrndscnt|the Western Descent]], and why every other way in is a climb.
 
-For some fifteen hundred miles the escarpment runs without a gap a traveler could use. The peaks along it are the highest in [[place-worldthlrn|the World of Thalorna]]—[[place-suryashkhr|Suryashikhara]] first among them—and behind the summit line the ice lies in fields that have never gone off in any season anyone has recorded. Four crossings pierce it: [[place-meghadvara|Meghadvara]] in the west, [[place-gudesroad|the Guides' Road]] between the two western doors, [[place-suryadvara|Suryadvara]] under the fortress, and [[place-tamradvara|Tamradvara]] up [[place-slvrgorges|the Silver Gorges]] in the east. Everything else is wall.
+For some fifteen hundred miles the escarpment runs without a gap a traveler could use. The peaks along it are the highest in [[place-worldthlrn|the World of Thalorna]]—[[place-suryashkhr|Suryashikhar]] first among them—and behind the summit line the ice lies in fields that have never gone off in any season anyone has recorded. Four crossings pierce it: [[place-meghadvar|Meghadvar]] in the west, [[place-gudesroad|the Guides' Road]] between the two western doors, [[place-suryadvar|Suryadvar]] under the fortress, and [[place-tamradvar|Tamradvar]] up [[place-slvrgorges|the Silver Gorges]] in the east. Everything else is wall.
 
 ## What Comes Off It
 
-The four great rivers of Vedyara begin here, each at a glacier-spring the [[affiliation-varakpnthn|Varnuka tradition]] holds to be the literal source from which that river flowed at the beginning of time: [[place-chandrprbh|Chandraprabhava]] for [[place-chandrmahi|the Chandramahi]], [[place-sarvaprbhv|Sarvaprabhava]] for [[place-sarvadarivr|the Sarveda]], [[place-mahaprbhva|Mahaprabhava]] for [[place-mahanadi|the Mahanodi]], and [[place-bhrvprbhav|Bharavaprabhava]] for [[place-bharavarivr|the Bharava]]. Half the population of the subcontinent drinks off this face of the range.
+The four great rivers of Vedyara begin here, each at a glacier-spring the [[affiliation-vrnkpnthn|Varnuka tradition]] holds to be the literal source from which that river flowed at the beginning of time: [[place-chandrprbh|Chandraprabhava]] for [[place-chandrmahi|the Chandramahi]], [[place-sarvaprbhv|Sarvaprabhava]] for [[place-sarvedarivr|the Sarveda]], [[place-mahaprbhva|Mahaprabhava]] for [[place-mahanodi|the Mahanodi]], and [[place-bhrvprbhav|Bharavaprabhava]] for [[place-bharavarivr|the Bharava]]. Half the population of the subcontinent drinks off this face of the range.
 
 The melt is not steady. A warm spring on the Wall puts the rivers up three weeks early and drowns the seed of whoever planted by the old reckoning. The rivalry between the temple astronomers who set the year and the reckoners who compute it is, at bottom, an argument about this snow.
 
@@ -33,4 +33,4 @@ Above the last of [[place-pssshrines|the Pass-Shrines]] no rule of station reach
 ## See Also
 
 - [[place-graznmntns|The Grazian Mountains]] · [[place-estrnreach|the Eastern Reach]] · [[place-wstrndscnt|the Western Descent]]
-- [[place-vedyarargn|Vedyara Region]] · [[place-vindhyalayaland|Shikharalaya]]
+- [[place-vedyarargn|Vedyara Region]] · [[place-shikhalayaland|Shikhalaya]]

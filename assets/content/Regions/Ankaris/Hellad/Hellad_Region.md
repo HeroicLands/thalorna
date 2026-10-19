@@ -40,7 +40,7 @@ The [[lore-byzarianclt|Bizarian]] people of the eastern confederation are commer
 
 The faiths of the [[affiliation-arldnpnthn|Aureldian Pantheon]] are the formal religions of the whole region. Its theology has been worked out further in Helionis than anywhere else: the great Helionite temples host philosophical debates as readily as liturgies, and the canonical interpretations that the western kingdoms treat as authoritative were written by Helionite religious scholars.
 
-Bizaria keeps the same gods in its own eastern rite, and its cities are more mixed in faith. Aureldian worship dominates civic life, but substantial minorities follow the traditions of the [[affiliation-ashanpnthn|Ashaian Pantheon]] and even the [[affiliation-varakpnthn|Varnuka gods]], served by small temples and itinerant holy men. Bizarian tolerance is famous by Ankarian standards, and its reason is practical: forbidding a faith would cost a city more in trade than it could ever recover in orthodoxy.
+Bizaria keeps the same gods in its own eastern rite, and its cities are more mixed in faith. Aureldian worship dominates civic life, but substantial minorities follow the traditions of the [[affiliation-ashanpnthn|Ashaian Pantheon]] and even the [[affiliation-vrnkpnthn|Varnuka gods]], served by small temples and itinerant holy men. Bizarian tolerance is famous by Ankarian standards, and its reason is practical: forbidding a faith would cost a city more in trade than it could ever recover in orthodoxy.
 
 ## Who Holds Power
 

@@ -12,11 +12,11 @@ data:
     - when: ~265
       kind: conquest
       depth: region
-      sources: [affiliation-gomarga, place-vandhyabhumi]
+      sources: [affiliation-gomarga, place-vandyabhumi]
       summary: >-
         Raising a host for a war on the river, Gomarga's king Vrishasura takes three great lineages' wells into the crown's own hand and spends their earnings. The lineages walk their herds off the circuit. The war is lost at the Field of Elephants, the crown returns the wells, and the accession oath, that the crown does not adjudicate grass, gains a clause binding the crown never to take a lineage's well.
       standing: single-source
-      where: {locus: [place-vandhyabhumi]}
+      where: {locus: [place-vandyabhumi]}
       who: [{ref: affiliation-gomarga, role: actor}]
       accounts:
         - by: affiliation-gomarga

@@ -13,12 +13,12 @@ data:
   governance:
     model: monarchy
     summary: >-
-      Hereditary Maharava whose court travels the well-circuit through the year, advised by the keepers of the droveways and by the lineages that cut and hold the plateau's wells. The Maharava's kinsmen hold no station of their own: each keeps the tarona and kulra marked on his wrist at birth, and the places the royal house fills, Rojni and Yuvarava, are offices.
+      Hereditary Maharava whose court travels the well-circuit through the year, advised by the keepers of the droveways and by the lineages that cut and hold the plateau's wells. The Maharava's kinsmen hold no station of their own: each keeps the tarona and kulpa marked on his wrist at birth, and the places the royal house fills, Rojni and Yuvarava, are offices.
     ranks:
       - level: 0
-        title: Vihra
+        title: Bihra
         description: >-
-          A Vihra—an outcaste, one outside the order—is put out of the order of the droveways, barred from the well-circuit and owed no protection.
+          A Bihra—an outcaste, one outside the order—is put out of the order of the droveways, barred from the well-circuit and owed no protection.
       - level: 1
         title: Bonded Servant
         description: >-
@@ -63,24 +63,24 @@ data:
       Senapavi: >-
         Commander of the mounted escort, which exists to make raiding a herd more expensive than buying one.
       Dutsa: >-
-        Envoy to a river court or a janapoda sabhra, and in practice the kingdom's cattle-broker as well.
+        Envoy to a river court or a janpoda sabhra, and in practice the kingdom's cattle-broker as well.
   seat: null
   population: 1200000
   economy: [lore-vdyrnbnkng, affiliation-mrchntclctvvdyr]
   lore: [vedyariclt]
   parents: []
   relations:
-    varakpnthn: aligned
+    vrnkpnthn: aligned
     janpdsvdyr: unaligned
     mrchntclctvvdyr: rival
-    bhrvdvbhog: unaligned
+    bhrvdvbhon: unaligned
   packFolder: vedyara
 sohl: {system: {commonSkills: [vedyarlng]}}
 
 # terran_analog: "Transhumant pastoral kingship of the semi-arid Indian interior—a crown whose revenue is watering dues and droveway tolls rather than land tax, and whose court is itinerant for most of the year"
 ---
 
-**Gomarga** is the kingdom of [[place-vandhyabhumi|Vandyabhumi]], the arid central plateau of [[place-vedyarargn|Vedyara]]. Its name is the thing it holds: _gho_ (cattle) _margha_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.
+**Gomarga** is the kingdom of [[place-vandyabhumi|Vandyabhumi]], the arid central plateau of [[place-vedyarargn|Vedyara]]. Its name is the thing it holds: _gho_ (cattle) _margha_ (road), the droveways that cross the plateau between wells, and the crown's claim runs along them and stops at their edges.
 
 It is a kingdom in form and a water authority in fact, and the people who run it are the keepers of the wells.
 
@@ -110,7 +110,7 @@ Orthodox opinion in the river kingdoms finds the arrangement improper. Plateau u
 
 Gomarga sells into the river valleys and the coast and buys grain, cloth and iron back. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has wanted a factor at the winter wells for a century and has not been given one: the crown's revenue is counted in stock and in watering dues, neither of which a letter of credit values well, and a Collective factor who could lend against a herd would be lending against the kingdom's only security. The Collective's houses buy plateau cattle at the edge of the plateau instead, from brokers who are usually the crown's own envoys.
 
-The [[affiliation-janpdsvdyr|Mahva-Sangra's roll]] carries the few plateau janapadas and not the kingdom, which is ordinary; a rajya is not a janapoda. What is not ordinary is that Gomarga sends nobody to the [Mahva-Melra]{.name data-type="lore/gathering"} at all in most cycles. The assembly meets on [[place-mahanadi|the Mahanodi]] in the season the herds move, and the crown is on its circuit.
+The [[affiliation-janpdsvdyr|Mahva-Sangra's roll]] carries the few plateau janpodas and not the kingdom, which is ordinary; a rajya is not a janpoda. What is not ordinary is that Gomarga sends nobody to the [Mahva-Melka]{.name data-type="lore/gathering"} at all in most cycles. The assembly meets on [[place-mahanodi|the Mahanodi]] in the season the herds move, and the crown is on its circuit.
 
 ## Commerce and Currency
 
@@ -122,16 +122,16 @@ A person placed outside the tarona, by transgression or by birth, is, on the pla
 
 ## See Also
 
-[[place-vandhyabhumi|Vandyabhumi]]
+[[place-vandyabhumi|Vandyabhumi]]
 : the plateau the kingdom holds
 
 [[place-vedyarargn|Vedyara Region]]
 : parent region
 
-[[lore-mdhvndrcnt|The Madustana Count]]
+[[lore-mdstncnt|The Madustan Count]]
 : the year-count dated from the ruined capital on the plateau
 
-[[affiliation-varakpnthn|Varnuka Pantheon]]
+[[affiliation-vrnkpnthn|Varnuka Pantheon]]
 : religious tradition
 
 [[skill-vedyarlng|Vedyari]]

@@ -16,7 +16,7 @@ data:
 
 The Vyalendra source-temple is taken down and rebuilt every century or two, and the priests who do the work are the men who live in it.
 
-It stands on the shelf at [[place-sarvaprbhv|Sarvaprabhava]], where [[place-sarvadarivr|the Sarveda]] comes out of the ice under the face of [[place-sthrnwall|the Southern Wall]]. It is the temple of [[lore-vyalendradty|Vyalendra]] the Shaper, and its priests are masons, carpenters and surveyors who have taken orders. There is no scholar on the establishment and no library in the building.
+It stands on the shelf at [[place-sarvaprbhv|Sarvaprabhava]], where [[place-sarvedarivr|the Sarveda]] comes out of the ice under the face of [[place-sthrnwall|the Southern Wall]]. It is the temple of [[lore-vyalendradty|Vyalendra]] the Shaper, and its priests are masons, carpenters and surveyors who have taken orders. There is no scholar on the establishment and no library in the building.
 
 It is a small temple: a walled forecourt, a pillared hall of nine bays, a sanctum with the foundation-stone in it, a cistern, and a range of cells for twenty men. The whole work is dry-laid granite cut on the shelf, and the masons who cut it were the priests themselves.
 
@@ -46,7 +46,7 @@ The approach is the hardest of the four source-pilgrimages. The last two days ar
 [[affiliation-vyalendra|Vyalendra]]
 : the Shaper of Worlds, whose temple it is
 
-[[place-sarvadarivr|The Sarveda]]
+[[place-sarvedarivr|The Sarveda]]
 : the river that begins here
 
 [[place-sthrnwall|The Southern Wall]]

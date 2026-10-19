@@ -5,7 +5,7 @@ type: place
 subType: structure
 description: "The cavalry-archery hall of the bow-fort, whose graduates are taken by every Vedyari kingdom that fields horse."
 tags: [hall, military, inland]
-data: {demonym: null, lore: [], parents: [dhanurkotajnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [danurkotjnpd], population: null, packFolder: vedyara}
 ---
 
 The first question **the Swift Hand** asks an aspirant is about his horse.
@@ -16,7 +16,7 @@ The bow is short and recurved, made to be drawn and loosed from the saddle at a 
 
 ## What It Costs
 
-A student must be mounted, and the academy provides no horses. That single fact sets the Swift Hand apart from the other three halls and keeps its intake the smallest and the best-born of the four, whatever the janapoda's rules about station say.
+A student must be mounted, and the academy provides no horses. That single fact sets the Swift Hand apart from the other three halls and keeps its intake the smallest and the best-born of the four, whatever the janpoda's rules about station say.
 
 The academy knows the contradiction. Its answer is that it has asked the sabhra twice for a stable on the common charge and been refused twice, and that the refusals are in the record.
 
@@ -26,5 +26,5 @@ Swift Hand graduates serve in the horse of the western kingdoms and on the deser
 
 ## See Also
 
-- [[place-bowfort|The Bow-Fort]] · [[place-dhanurkota|Danurkota]]
+- [[place-bowfort|The Bow-Fort]] · [[place-danurkot|Danurkot]]
 - [[place-highdraw|The Academy of the High Draw]] · [[place-patienteye|the Academy of the Patient Eye]] · [[place-hiddenstring|the Academy of the Hidden String]]

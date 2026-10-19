@@ -5,14 +5,14 @@ type: place
 subType: structure
 description: "A stone house in Chendrapur's cutting streets where consignments lie between stages under seal, and where a line of the Chaya-vreta has been taught for as long as the building has stood."
 tags: [clandestine, market, city]
-data: {demonym: null, lore: [], parents: [chandrapur2], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [chendrapur2], population: null, packFolder: vedyara}
 ---
 
-The gem trade of [[place-chandrapur2|Chendrapur]] is organized as a sequence and not as a craft: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth. Between any two of those a stone has to be somewhere, under a seal, with nobody in particular attending to it. **The Waiting House** is one of the places it is.
+The gem trade of [[place-chendrapur2|Chendrapur]] is organized as a sequence and not as a craft: a stone is assayed in one street, sawn in another, cut in a third, polished in a fourth and set in a fifth. Between any two of those a stone has to be somewhere, under a seal, with nobody in particular attending to it. **The Waiting House** is one of the places it is.
 
 It is a plain square-fronted building of the city's pale limestone, two stories and a yard, kept washed like everything else on the street. It holds sealed parcels for a fee, by the day, for any house that asks, and it has done since the charter that names its trade was granted. Strangers come to it at all hours carrying small things they do not open. That is the business.
 
-A line of [[affiliation-chayavrata|the Chaya-vreta]] has been taught in the upper rooms for most of the building's history.
+A line of [[affiliation-chayavreta|the Chaya-vreta]] has been taught in the upper rooms for most of the building's history.
 
 ## Why a House at All
 
@@ -34,16 +34,16 @@ The house's difficulty is not the court. It is the gap between the conch and the
 
 ## See Also
 
-[[place-chandrapur2|Chendrapur]]
+[[place-chendrapur2|Chendrapur]]
 : the city
 
-[[affiliation-chayavrata|The Chaya-vreta]]
+[[affiliation-chayavreta|The Chaya-vreta]]
 : the vow taught upstairs
 
 [[affiliation-thresholdkeepers|The Threshold-keepers]]
 : the one question a line cannot misdirect
 
-[[affiliation-svapnasarisamaja|Svapnasari-sameja]]
+[[affiliation-svapnasarisameja|Svapnasari-sameja]]
 : the assembly the vow lapsed from
 
 [[place-greatbazaar|The Great Bazaar]]

@@ -12,9 +12,9 @@ data:
   borders:
     - {to: dunharargn, bearing: NW}
     - {to: graznmntns, bearing: N}
-    - {to: suryasamdra, bearing: E}
-    - {to: meghsamdra, bearing: S}
-    - {to: sandhysmdr, bearing: W}
+    - {to: surtasamdra, bearing: E}
+    - {to: meghrsmdra, bearing: S}
+    - {to: sandvsmdr, bearing: W}
   population: 110000000
   packFolder: vedyara
   culture: vedyariclt
@@ -30,16 +30,16 @@ A factor of [[affiliation-mrchntclctvvdyr|the Merchant Collective]] who has work
 
 ## The Wall and the Six Crossings
 
-[[place-graznmntns|The Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Suryashikhara]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tantsouregin|Tantsou]].
+[[place-graznmntns|The Grazian Mountains]] run the whole northern edge of Vedyara, and no realm claims them. Their southern face is [[place-sthrnwall|the Southern Wall]], an escarpment of some fifteen hundred miles that holds the highest peaks in [[place-worldthlrn|Thalorna]], [[place-suryashkhr|Suryashikhar]] first among them. North of the range's central and western reaches lies the [[place-khzryndsrtrgn|Khazryn]]; north of [[place-estrnreach|the Eastern Reach]], where the range turns east, lies [[place-tantsouregin|Tantsou]].
 
 Only six crossings are recognized along the entire range, and the routes and safe seasons of each are known only to the mountain guides:
 
-- [[place-meghadvara|Meghadvara]], the storm-door, the westernmost crossing, shut from below by the monsoon.
+- [[place-meghadvar|Meghadvar]], the storm-door, the westernmost crossing, shut from below by the monsoon.
 - [[place-gudesroad|The Guides' Road]], between the two western doors, with no fortress, toll, shrine or blessing.
-- [[place-suryadvara|Suryadvara]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Suryagarha]], forking beyond the throat for the Khazryn and for Tantsou.
-- [[place-tamradvara|Tamradvara]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazryn's eastern marches.
-- [[place-jnanadvara|Jnanadvara]], the scholars' door, the long crossing of the Eastern Reach to Tantsou's western frontier.
-- [[place-sankhadvra|Shankhadvara]], the conch-door, the easternmost and worst, watched from [[place-sanghafort|the Sangra-fort]].
+- [[place-suryadvar|Suryadvar]], the greatest of the passes, under the fortress-capital of [[place-suryagarha|Suryagarha]], forking beyond the throat for the Khazryn and for Tantsou.
+- [[place-tamradvar|Tamradvar]], the copper-door, up [[place-slvrgorges|the Silver Gorges]] to the Khazryn's eastern marches.
+- [[place-jnanadvar|Jnanadvar]], the scholars' door, the long crossing of the Eastern Reach to Tantsou's western frontier.
+- [[place-shankhadvr|Shankhadvar]], the conch-door, the easternmost and worst, watched from [[place-sangrafort|the Sangra-fort]].
 
 Above the last [[place-pssshrines|Pass-Shrine]] the roads belong to the guide-peoples: [[affiliation-osketguides|the Osket]] on the western and central crossings and [[affiliation-hvarnguides|the Hvarn]] on the eastern two. No Vedyari court governs there, and a guide-mother's refusal ends a caravan's day whatever its papers say.
 
@@ -47,24 +47,24 @@ At the western end the wall comes apart into the dry foothills of [[place-wstrnd
 
 ## Rivers, Plateau and Forest
 
-Four great rivers leave the ice at four glacier-springs, and the [[affiliation-varakpnthn|Varnuka faith]] holds each spring to be the literal source its river flowed from at the beginning of time. The springs are pilgrimages in their own right, and half the subcontinent drinks off this face of the range.
+Four great rivers leave the ice at four glacier-springs, and the [[affiliation-vrnkpnthn|Varnuka faith]] holds each spring to be the literal source its river flowed from at the beginning of time. The springs are pilgrimages in their own right, and half the subcontinent drinks off this face of the range.
 
 | River                             | Source                                | Reaches the sea      | Known for                                                                                        |
 | --------------------------------- | ------------------------------------- | -------------------- | ------------------------------------------------------------------------------------------------ |
-| [[place-chandrmahi\|Chandramahi]] | [[place-chandrprbh\|Chandraprabhava]] | A delta on the south | The gem-road, and the city-state of [[place-chandrapur2             \| Chendrapur]] at its mouth |
-| [[place-sarvadarivr\|Sarveda]]    | [[place-sarvaprbhv\|Sarvaprabhava]]   | The east coast       | The bow-fort janapoda upstream and the copyist towns below                                       |
-| [[place-mahanadi\|Mahanodi]]      | [[place-mahaprbhva\|Mahaprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly **Melra**                             |
+| [[place-chandrmahi\|Chandramahi]] | [[place-chandrprbh\|Chandraprabhava]] | A delta on the south | The gem-road, and the city-state of [[place-chendrapur2             \| Chendrapur]] at its mouth |
+| [[place-sarvedarivr\|Sarveda]]    | [[place-sarvaprbhv\|Sarvaprabhava]]   | The east coast       | The bow-fort janpoda upstream and the copyist towns below                                        |
+| [[place-mahanodi\|Mahanodi]]      | [[place-mahaprbhva\|Mahaprabhava]]    | The east coast       | The longest and most populous river, and the twelve-yearly **Melka**                             |
 | [[place-bharavarivr\|Bharava]]    | [[place-bhrvprbhav\|Bharavaprabhava]] | The east coast       | The gold highlands, the temple forests and the pilgrim road                                      |
 
-The valleys hold wide fertile floodplains, and the [[place-chandrmahi|Chandramahi delta]] carries two rice crops a year. [[place-mahanadi|The Mahanodi]] has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
+The valleys hold wide fertile floodplains, and the [[place-chandrmahi|Chandramahi delta]] carries two rice crops a year. [[place-mahanodi|The Mahanodi]] has changed its channel four times within written record and [[lore-drwnngseat|drowned a royal seat]] doing it, so the villages of the central plain sit on old levees and on mounds raised over generations.
 
-Between the rivers lie forests and the high, semi-arid tableland of [[place-vandhyabhumi|Vandyabhumi]], where wells are property and the ground is not, and where the ruined capital of [[place-madhavendra|Madustana]] stands on open pasture. The lower reaches of [[place-bharavarivr|the Bharava]] run through [[place-bharavavana|Bharavavana]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janapoda has ever sent an assembly into.
+Between the rivers lie forests and the high, semi-arid tableland of [[place-vandyabhumi|Vandyabhumi]], where wells are property and the ground is not, and where the ruined capital of [[place-madustan|Madustan]] stands on open pasture. The lower reaches of [[place-bharavarivr|the Bharava]] run through [[place-bharavaban|Bharavaban]], six hundred miles of tropical forest held in temple estates. Below the Eastern Reach lies [[place-forestnoroad|the Forest of No Road]], which no janpoda has ever sent an assembly into.
 
 ## Three Coasts
 
-The eastern shore faces the warm [[place-suryasamdra|Surva-samedra]], the sea the sun rises from; three of the four rivers reach the sea on this coast, and the ports stand at their mouths. The southern shore faces the [[place-meghsamdra|Meghra-samedra]], the sea the monsoon comes from, and takes the heaviest rain in Thalorna. Both coasts are humid and monsoon-washed. The shorter western shore faces the [[place-sandhysmdr|Sandva-samedra]], the sea of evening; it is much drier, no great river reaches it, and it has no deep natural harbor anywhere along its length.
+The eastern shore faces the warm [[place-surtasamdra|Surta-samedra]], the sea the sun rises from; three of the four rivers reach the sea on this coast, and the ports stand at their mouths. The southern shore faces the [[place-meghrsmdra|Meghra-samedra]], the sea the monsoon comes from, and takes the heaviest rain in Thalorna. Both coasts are humid and monsoon-washed. The shorter western shore faces the [[place-sandvsmdr|Sandva-samedra]], the sea of evening; it is much drier, no great river reaches it, and it has no deep natural harbor anywhere along its length.
 
-Offshore to the southeast, [[place-suryaislnds|the Surva-samedra Islands]] hold small kingdoms of their own and the Vedyari merchant colonies.
+Offshore to the southeast, [[place-surtaislnds|the Surta-samedra Islands]] hold small kingdoms of their own and the Vedyari merchant colonies.
 
 ## Climate
 
@@ -74,22 +74,22 @@ The highest Grazian summits stay glaciated and snow-covered all year; the lower 
 
 ## Who Holds the Ground
 
-No ruler speaks for Vedyara. Most of its people live in janapadas, small temple-republics of a few villages governed by a sabhra (assembly) in the hall of their central temple, and their confederation, the [[affiliation-janpdsvdyr|Janapadas of Vedyara]], convenes once in twelve years and does not govern. Beside them stand the kingdoms and city-states, most of them larger than any single janapoda, and a few bodies that fit neither form:
+No ruler speaks for Vedyara. Most of its people live in janpodas, small temple-republics of a few villages governed by a sabhra (assembly) in the hall of their central temple, and their confederation, the [[affiliation-janpdsvdyr|Janpodas of Vedyara]], convenes once in twelve years and does not govern. Beside them stand the kingdoms and city-states, most of them larger than any single janpoda, and a few bodies that fit neither form:
 
-| Polity                                           | Form                              | People     | Holds                                                |
-| ------------------------------------------------ | --------------------------------- | ---------- | ---------------------------------------------------- |
-| [[affiliation-janpdsvdyr\|Janapadas of Vedyara]] | Confederation of temple-republics | 84,250,000 | Most of the river valleys, uplands and inland forest |
-| [[affiliation-vindhyalay\|Shikharalaya]]         | Kingdom                           | 8,000,000  | The northern highlands and the great passes          |
-| [[affiliation-chandrapur\|Chendrapur]]           | City-state under a Maharava       | 6,000,000  | The lower Chandramahi and its delta                  |
-| [[affiliation-vyalendra2\|Vyalendra]]            | City-state under a shrena council | 6,000,000  | The cotton and indigo valleys of the south           |
-| [[affiliation-bhrvdvbhog\|Bharava-Devabhona]]    | Temple estates                    | 2,400,000  | The forest of the lower Bharava                      |
-| [[affiliation-bhumipala\|Bhumipala]]             | Kingdom                           | 2,000,000  | The northwestern march and the western coast         |
-| [[affiliation-gomarga\|Gomarga]]                 | Kingdom                           | 1,200,000  | The wells and droveways of the central plateau       |
-| [[affiliation-bharyastan\|Bharyastan]]           | Kingdom                           | 120,000    | Eight valleys of the Bharava highlands               |
-| [[affiliation-osketguides\|The Osket]]           | Guide-lineages                    | 21,000     | The western and central crossings                    |
-| [[affiliation-hvarnguides\|The Hvarn]]           | Guide-hearths                     | 9,000      | The two crossings of the Eastern Reach               |
+| Polity                                          | Form                              | People     | Holds                                                |
+| ----------------------------------------------- | --------------------------------- | ---------- | ---------------------------------------------------- |
+| [[affiliation-janpdsvdyr\|Janpodas of Vedyara]] | Confederation of temple-republics | 84,250,000 | Most of the river valleys, uplands and inland forest |
+| [[affiliation-shikhalaya\|Shikhalaya]]          | Kingdom                           | 8,000,000  | The northern highlands and the great passes          |
+| [[affiliation-chendrapur\|Chendrapur]]          | City-state under a Maharava       | 6,000,000  | The lower Chandramahi and its delta                  |
+| [[affiliation-vyalendra2\|Vyalendra]]           | City-state under a shrena council | 6,000,000  | The cotton and indigo valleys of the south           |
+| [[affiliation-bhrvdvbhon\|Bharava-Devabhona]]   | Temple estates                    | 2,400,000  | The forest of the lower Bharava                      |
+| [[affiliation-bhumipal\|Bhumipal]]              | Kingdom                           | 2,000,000  | The northwestern march and the western coast         |
+| [[affiliation-gomarga\|Gomarga]]                | Kingdom                           | 1,200,000  | The wells and droveways of the central plateau       |
+| [[affiliation-bharyastan\|Bharyastan]]          | Kingdom                           | 120,000    | Eight valleys of the Bharava highlands               |
+| [[affiliation-osketguides\|The Osket]]          | Guide-lineages                    | 21,000     | The western and central crossings                    |
+| [[affiliation-hvarnguides\|The Hvarn]]          | Guide-hearths                     | 9,000      | The two crossings of the Eastern Reach               |
 
-Three janapadas set the pattern for the rest: [[affiliation-rajaprjnpd|Rajepur]], which dissolved its own kingdom; [[affiliation-suvrgrjnpd|Suvarnageri]], which holds a gold mountain under a constitution; and [[affiliation-dhnrktjnpd|Danurkota]], which trains the archers of every kingdom. Five polities share [[lore-vdyrnbnkng|Vedyaran Banking]], the banking system, through the [[affiliation-assmblycmpct|Assembly of the Compact]], and the Merchant Collective's letters of credit move money between all of them.
+Three janpodas set the pattern for the rest: [[affiliation-rajeprjnpd|Rajepur]], which dissolved its own kingdom; [[affiliation-suvrgrjnpd|Suvargeri]], which holds a gold mountain under a constitution; and [[affiliation-dnrktjnpd|Danurkot]], which trains the archers of every kingdom. Five polities share [[lore-vdyrnbnkng|Vedyaran Banking]], the banking system, through the [[affiliation-assmblycmpct|Assembly of the Compact]], and the Merchant Collective's letters of credit move money between all of them.
 
 ## Peoples and Beasts
 
@@ -111,22 +111,22 @@ The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass o
 [[place-marchroad|The march road]]
 : the land route round the wall's western end
 
-[[place-vandhyabhumi|Vandyabhumi]]
+[[place-vandyabhumi|Vandyabhumi]]
 : the dry interior plateau
 
-[[place-bharavavana|Bharavavana]]
+[[place-bharavaban|Bharavaban]]
 : the lower Bharava forest
 
-[[place-suryasamdra|Surva-samedra]], [[place-meghsamdra|Meghra-samedra]] and [[place-sandhysmdr|Sandva-samedra]]
+[[place-surtasamdra|Surta-samedra]], [[place-meghrsmdra|Meghra-samedra]] and [[place-sandvsmdr|Sandva-samedra]]
 : the three surrounding seas
 
 [[lore-vedyariclt|Vedyari]]
 : the culture of the subcontinent
 
-[[lore-mdhvndrcnt|The Madustana Count]]
+[[lore-mdstncnt|The Madustan Count]]
 : the year Vedyara keeps
 
-[[lore-stndrdmdhv|The Standardization at Madustana]]
+[[lore-stndrdmdstn|The Standardization at Madustan]]
 : the reign the count begins from
 
 [[lore-hndrdbnnrs|The Storm of the Hundred Banners]], [[lore-conchdoor|the Conch-Door Incursion]] and [[lore-thirdcmpct|the Third Compact]]
@@ -136,4 +136,4 @@ The [[being-vdyrnrhn|Vedyaran rhinoceros]] keeps to the marshes and tall grass o
 : the eras of Vedyari history
 
 [[lore-bloodfield|Blood-fields]]
-: the _shorukshetras_ of Oluratarana, Gajastali and Lantustali, and what they are
+: the _shorukshetras_ of Olurtaran, Gajastal and Lantustal, and what they are

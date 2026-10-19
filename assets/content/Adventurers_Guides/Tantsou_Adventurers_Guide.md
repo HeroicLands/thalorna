@@ -24,7 +24,7 @@ Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit a
 
 ## Places and Dangers
 
-- The frontier way-station beyond [[place-jnanadvara|Jnanadvara]] feeds and houses every traveler for as long as the weather requires, and has kept its register without a gap for four hundred years.
+- The frontier way-station beyond [[place-jnanadvar|Jnanadvar]] feeds and houses every traveler for as long as the weather requires, and has kept its register without a gap for four hundred years.
 - The western passes toward the [[place-khzryndsrtrgn|Khazryn]], at the eastern end of [[lore-celestialroad|the Celestial Roads]], are quiet and expensively garrisoned.
 - The port cities keep foreign merchants in walled, watched and taxed quarters.
 - [[affiliation-jenchaiempr|Jenchai]], the island realm across the eastern strait, has raided the coast for a thousand years while the Empire calls it a rebellious province.
@@ -32,7 +32,7 @@ Common faith is [[lore-ancstrwrshp|ancestor worship]], kept as a ledger: merit a
 
 ## Ways In
 
-[[scenario-embsydnvrtantsou|The Embassy from Dunavarre to Tantsou]] carries a party east as part of a western embassy. A Vedyari astronomer crossing Jnanadvara needs guards and someone to stand beside him while he is classified. A merchant's trading classification is about to expire with his goods still in the warehouse. A tablet bought from the wrong person in a port quarter is either a forgery or a trap, and each answer has someone who wants it found.
+[[scenario-embsydnvrtantsou|The Embassy from Dunavarre to Tantsou]] carries a party east as part of a western embassy. A Vedyari astronomer crossing Jnanadvar needs guards and someone to stand beside him while he is classified. A merchant's trading classification is about to expire with his goods still in the warehouse. A tablet bought from the wrong person in a port quarter is either a forgery or a trap, and each answer has someone who wants it found.
 
 ## Where to Read Next
 

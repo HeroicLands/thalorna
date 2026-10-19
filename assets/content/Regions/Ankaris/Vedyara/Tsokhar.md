@@ -16,7 +16,7 @@ data:
   government: osketguides
 ---
 
-**Tsokhar** sits in a high valley between [[place-meghadvara|Meghadvara]] and [[place-gudesroad|the Guides' Road]], on the only ground in the western wall that will carry a herd through a winter. Three hundred and eighty people live there. It has a weekly market in the open season, a smith, and nothing else a lowlander would call a trade.
+**Tsokhar** sits in a high valley between [[place-meghadvar|Meghadvar]] and [[place-gudesroad|the Guides' Road]], on the only ground in the western wall that will carry a herd through a winter. Three hundred and eighty people live there. It has a weekly market in the open season, a smith, and nothing else a lowlander would call a trade.
 
 By the standards of [[place-oskhelt|Oskhelt]] it is poor. Two caravans a year come over the storm-door in a good season, the share of [[affiliation-osketguides|the Osket]] from two caravans does not keep a village, and Tsokhar accordingly lives off its yaks and its horses the way it did before there was any trade at all.
 
@@ -32,5 +32,5 @@ Tsokhar keeps a watch on its approaches through the open months, which no other 
 
 ## See Also
 
-- [[place-meghadvara|Meghadvara]] · [[place-gudesroad|the Guides' Road]] · [[affiliation-osketguides|the Osket]]
+- [[place-meghadvar|Meghadvar]] · [[place-gudesroad|the Guides' Road]] · [[affiliation-osketguides|the Osket]]
 - [[place-oskhelt|Oskhelt]] · [[place-wstrndscnt|the Western Descent]]

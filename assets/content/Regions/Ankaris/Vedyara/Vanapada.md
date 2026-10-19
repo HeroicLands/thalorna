@@ -8,18 +8,18 @@ tags: [village, mountain, woodland, draft]
 data:
   demonym: null
   lore: []
-  parents: [suvarnagirijnpd]
+  parents: [suvargerijnpd]
   population: 440
   packFolder: vedyara
   government: suvrgrjnpd
 ---
 
-**Vanapada** is a charcoal village at the forest edge, in the [[place-suvarnagirijnpd|Suvarnageri Janapoda]]. Its burners cut the slope wood for the jewelers of [Lower Suvarnageri]{.name data-type="place/site"}, which is the wood the smelters of [[place-tamravana|Tamravana]] also want. That makes Vanapada the jewelers' supplier in the long quarrel over the cutting-rotation, a quarrel the sabhra takes up about once in five years.
+**Vanapada** is a charcoal village at the forest edge, in the [[place-suvargerijnpd|Suvargeri Janpoda]]. Its burners cut the slope wood for the jewelers of [Lower Suvargeri]{.name data-type="place/site"}, which is the wood the smelters of [[place-tamraban|Tamraban]] also want. That makes Vanapada the jewelers' supplier in the long quarrel over the cutting-rotation, a quarrel the sabhra takes up about once in five years.
 
 ## See Also
 
-[[place-suvarnagirijnpd|Suvarnageri Janapoda]]
+[[place-suvargerijnpd|Suvargeri Janpoda]]
 : the land
 
-[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+[[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the temple-republic that holds it

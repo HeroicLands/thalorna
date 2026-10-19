@@ -15,7 +15,7 @@ data:
   government: bharyastan
 ---
 
-**Bharyastan** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastan]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from [[place-goldmountain|the Gold Mountain]] of [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]].
+**Bharyastan** (3,000, market 3) is the capital of [[affiliation-bharyastan|the kingdom of Bharyastan]] and the only town in it. It stands on a shelf of level ground where the tracks out of the eight valleys come together, two days above the plain and a day and a half from [[place-goldmountain|the Gold Mountain]] of [[affiliation-suvrgrjnpd|Suvargeri Janpoda]].
 
 The town is the palace, the horse-ground below it, a temple of [[affiliation-mahajaya|Mahajaya]], and four streets of people who supply the first three. The palace is old, is built of the local gray stone, and is fortified in a way that would have been serious three centuries ago. It was fortified in the year of [[lore-hghlndwar|the Highland War]], when the kingdom's horse rode to [[place-sharamukha|Sharamukha]], and has not been since.
 
@@ -30,7 +30,7 @@ Market week follows the spring muster. Walnut timber, hill barley, hides, a litt
 [[affiliation-bharyastan|The Kingdom of Bharyastan]]
 : the kingdom whose capital this is
 
-[[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]
+[[affiliation-suvrgrjnpd|Suvargeri Janpoda]]
 : the treaty partner down the valley
 
 [[place-vedyarargn|Vedyara Region]]

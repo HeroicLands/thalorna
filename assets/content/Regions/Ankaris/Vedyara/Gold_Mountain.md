@@ -1,20 +1,20 @@
 ---
 shortcode: goldmountain
-name: {full: The Gold Mountain, aliases: [Suvarnageri]}
+name: {full: The Gold Mountain, aliases: [Suvargeri]}
 type: place
 subType: feature
 description: "The gold-bearing mountain at the head of the Bharava, whose alluvial wash has paid for three great temples, twenty-three pilgrim hostels and fifteen centuries of constitutional argument."
 tags: [mountain, mining, sacred, inland]
-data: {demonym: null, lore: [], parents: [suvarnagirijnpd], population: null, packFolder: vedyara}
+data: {demonym: null, lore: [], parents: [suvargerijnpd], population: null, packFolder: vedyara}
 ---
 
-The **Gold Mountain**—_suvorna_ (gold), _girva_ (mountain)—stands at the head of [[place-bharavarivr|the Bharava]], and the janapoda, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.
+The **Gold Mountain**—_suvorna_ (gold), _girka_ (mountain)—stands at the head of [[place-bharavarivr|the Bharava]], and the janpoda, the temple-seat and the whole constitutional apparatus below it are named for it. The gold is alluvial. It comes out of the wash of the mountain's streams and not out of a shaft, and it has come out of them at much the same rate for fifteen centuries.
 
 ## The Panning Grounds
 
-The principal grounds are the stream-beds of the central valley, worked by twenty-eight hereditary families at a fixed wage from the sabhra. Nobody digs into the mountain. The Suvarnageri position is that the wash is what the mountain gives and a shaft is what a man takes, and the distinction is constitutional and not geological.
+The principal grounds are the stream-beds of the central valley, worked by twenty-eight hereditary families at a fixed wage from the sabhra. Nobody digs into the mountain. The Suvargeri position is that the wash is what the mountain gives and a shaft is what a man takes, and the distinction is constitutional and not geological.
 
-The upper slopes carry the janapoda's observation posts and nothing else. The ground is too steep to farm and too poor to graze, and the villages sit on the terraces below.
+The upper slopes carry the janpoda's observation posts and nothing else. The ground is too steep to farm and too poor to graze, and the villages sit on the terraces below.
 
 ## The Streams That Yield and the One That Does Not
 
@@ -24,6 +24,6 @@ Three great temples ring the lower slopes at the three principal stream-confluen
 
 ## See Also
 
-- [[place-bharavarivr|The Bharava]] · [[place-suvarnagiri|Suvarnageri]]
-- [[affiliation-suvrgrjnpd|Suvarnageri Janapoda]]—the temple-republic the gold pays for
+- [[place-bharavarivr|The Bharava]] · [[place-suvargeri|Suvargeri]]
+- [[affiliation-suvrgrjnpd|Suvargeri Janpoda]]—the temple-republic the gold pays for
 - [[place-weighingstn|The Weighing-Station]] · [[place-rasikarastrm|the Rasikara Stream]]

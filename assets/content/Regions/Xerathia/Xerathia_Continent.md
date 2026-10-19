@@ -9,7 +9,7 @@ data:
   demonym: Zerathian
   lore: [humanflk, flksinale, flkkhazar]
   parents: [worldthlrn]
-  borders: [{to: sandhysmdr, bearing: E}]
+  borders: [{to: sandvsmdr, bearing: E}]
   population: 29000000
   packFolder: xerathia
 
@@ -63,7 +63,7 @@ The rainforests and savannahs have their own histories, almost entirely oral, an
 
 Zerathia's connection to the wider world runs primarily across the Vylarian Sea. The northern ports of the Fertile crescent have hosted Ankarian merchants for centuries, and the [[place-midhalnrgn|Mídhalión trade zone]] is genuinely shared between the two continents—Au'Khelathu, Okharis, and the Matriarchy of Bethua all sit on its southern shore, and the cities of the [[place-vylariargn|Vylaria Region]], the [[place-taruzelrgn|Taruzel Region]] and the [[place-provenzrgn|Provenzia Region]] on its northern. Grain, papyrus, linen, gold, gemstones, spices, and exotic animals flow north; wine, steel, wool, and timber flow south.
 
-Beyond the Vylarian Sea, Zerathia's contact with the rest of Thalorna is thin. The western coast touches the open ocean but has no significant seafaring tradition that has produced regular contact with the [[place-kchchkcntnnt|K'ich'chik Continent]] or the [[place-klhrcntnnt|Kalihara Continent]]. The eastern coast faces the [[place-sandhysmdr|Sandva-samedra]] and the western shore of [[place-vedyarargn|Vedyara]] a month's sailing beyond it, and no regular traffic crosses that water either; what moves between the two continents goes round by the Khelathi delta. The continent's southern tip is known to be coastline, but beyond that coastline lies speculation rather than geography.
+Beyond the Vylarian Sea, Zerathia's contact with the rest of Thalorna is thin. The western coast touches the open ocean but has no significant seafaring tradition that has produced regular contact with the [[place-kchchkcntnnt|K'ich'chik Continent]] or the [[place-klhrcntnnt|Kalihara Continent]]. The eastern coast faces the [[place-sandvsmdr|Sandva-samedra]] and the western shore of [[place-vedyarargn|Vedyara]] a month's sailing beyond it, and no regular traffic crosses that water either; what moves between the two continents goes round by the Khelathi delta. The continent's southern tip is known to be coastline, but beyond that coastline lies speculation rather than geography.
 
 ## See Also
 

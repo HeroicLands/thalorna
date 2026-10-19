@@ -3,7 +3,7 @@ shortcode: garunyataray
 name: {full: Garunya Tarayara, aliases: [Captain Garunya the Reckless, Captain Garunya]}
 type: being
 subType: npc
-description: A younger, ambitious captain who puts speed over safety and views Vishvara Mahapara as an obstacle to progress.
+description: A younger, ambitious captain who puts speed over safety and views Vishvara Mahapar as an obstacle to progress.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Garunya Tarayara is a 31-year-old man who stands 5'10" tall with a light build. 
 
 # Dossier {#dossier}
 
-Garunya Tarayara, called the Reckless, is a younger, ambitious captain who puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. He views [[being-visvarmhpr|Vishvara Mahapara]] as an obstacle to progress, and their conflicts over the trade have become personal.
+Garunya Tarayara, called the Reckless, is a younger, ambitious captain who puts speed and profit before safety, drives crews beyond reasonable endurance, and ignores the traditional practices that keep sailors alive. He views [[being-vishvrmhpr|Vishvara Mahapar]] as an obstacle to progress, and their conflicts over the trade have become personal.

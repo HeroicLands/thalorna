@@ -3,34 +3,34 @@ shortcode: fivegrounds
 name: {full: The Five Grounds, aliases: []}
 type: lore
 subType: literature
-description: "The lament of the march companies of Bhumipala for the kingdom of Marupala: five outer poems, one for each piece of ground on the march road from the spit at Sandyapur to the field of Lantustali and back to the burned town, sung in winter in the empty temple court of Ludrapur."
+description: "The lament of the march companies of Bhumipal for the kingdom of Marupal: five outer poems, one for each piece of ground on the march road from the spit at Sandyapur to the field of Lantustal and back to the burned town, sung in winter in the empty temple court of Ludrapur."
 tags: [draft]
 data:
   culture: vedyariclt
   form: lament
   subjects:
-    - lore-marupalafl
+    - lore-marupalfl
     - lore-hndrdbnnrs
     - lore-bhmplraise
-    - place-lanthusthli
+    - place-lantustal
     - place-ludrapur
     - place-marchroad
-    - place-sandhyapur
-    - affiliation-bhumipala
+    - place-sandyapur
+    - affiliation-bhumipal
     - lore-bloodfield
   language: vedyarlng
   packFolder: vedyara
 ---
 
-**The Five Grounds** is the lament the march companies of [[affiliation-bhumipala|Bhumipala]] sing in winter inside the wall of [[place-ludrapur|Ludrapur]], the burned capital of the kingdom that held [[place-marchroad|the march road]] before them. It is five short poems, each named for one piece of ground on the road and each opening on that ground: the spit at [[place-sandhyapur|Sandyapur]], behind which the Bhumipala's boats stood off from [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] in the spring of 315 AF; the fan of stones at [[place-lanthusthli|Lantustali]], the banner ground, where [Ashvakirti]{.name data-type="being/npc"}, last king of [Marupala]{.name data-type="affiliation/polity"}, met the host with everything the march had and died with it ([[lore-marupalafl|the Fall of Marupala]]); the bend in the road that the companies chain at dusk; the wall of Ludrapur the companies winter behind; and the temple inside it, which has stood without a god since [Devapala]{.name data-type="being/npc"}, a priest of the Bhumipala court, carried its image down to Sandyapur a generation after the burning.
+**The Five Grounds** is the lament the march companies of [[affiliation-bhumipal|Bhumipal]] sing in winter inside the wall of [[place-ludrapur|Ludrapur]], the burned capital of the kingdom that held [[place-marchroad|the march road]] before them. It is five short poems, each named for one piece of ground on the road and each opening on that ground: the spit at [[place-sandyapur|Sandyapur]], behind which the Bhumipal's boats stood off from [[lore-hndrdbnnrs|the Storm of the Hundred Banners]] in the spring of 315 AF; the fan of stones at [[place-lantustal|Lantustal]], the banner ground, where [Ashvakirti]{.name data-type="being/npc"}, last king of [Marupal]{.name data-type="affiliation/polity"}, met the host with everything the march had and died with it ([[lore-marupalfl|the Fall of Marupal]]); the bend in the road that the companies chain at dusk; the wall of Ludrapur the companies winter behind; and the temple inside it, which has stood without a god since [Devopala]{.name data-type="being/npc"}, a priest of the Bhumipal court, carried its image down to Sandyapur a generation after the burning.
 
-The poems are outer poems in the classical division of Vedyari verse, the poems of war, kings and death, with the ground named first and the feeling carried in the ground. The companies call the sequence a _solma_ (a song) and never a _virnu_ (a mourning), because a mourning is owed by a household and the dead of the march had none near enough to owe it.
+The poems are outer poems in the classical division of Vedyari verse, the poems of war, kings and death, with the ground named first and the feeling carried in the ground. The companies call the sequence a _solma_ (a song) and never a _birnu_ (a mourning), because a mourning is owed by a household and the dead of the march had none near enough to owe it.
 
 Time moves along the road with the grounds: the night the boats stood off, the morning on the field, dusk at the chain, a winter night inside the wall, and the last night before the companies ride out in spring. A company puts up one man for each poem, in the court where the companies settle their quarrels, and every man present takes the close: two lines that return at the end of each poem changed by one word, and the verb of the close is the keeping that both kingdoms are named for, the desert-keeper and the earth-keeper.
 
 The rendering keeps the short line, the catalogue and the returning close, and it keeps the king's order in the shape the companies give it, which is the shape of an order and not of a speech.
 
-The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom they sing, and the last poem says so. Nothing in the song is record. Nobody came home from Lantustali to carry the king's order, and the song says as much and gives the order anyway; the names the third poem recites are the names the captains tell new men, and each company's captain tells his own three. The field is named nowhere in the song: the companies say its name by daylight, the song is sung after dark, and so the second poem is the fan of stones and nothing else, though its name holds the march's word for a banner, _lantu_. The Bhumipala court's account of the spring of 315 agrees with the first poem in every fact and differs from it in the weight: the court says the clan was the one fighting family of the march left whole, and the song says it was in a boat. The court has never forbidden the song. Its title to the march rests on Marupala having left no heir, and there is no heir in the song. What the record keeps open stays open in it: how old Marupala's crown was, where its treasury went, how many of the steppe's dead lie on the field, and whether the god of Ludrapur went down the road in Devapala's cart or stayed in the empty house, which is the question the companies settle their quarrels under and the one the song puts and does not answer. The host is "the hundred banners" throughout and its leader is never named, as in every Vedyari account. The travelers from [[place-khzryndsrtrgn|the steppe]] who leave offerings at the field's stones for their own dead stand in the third poem as the companies see them, from the road. The colors in the fourth poem are sung to whatever colors hold the gates that winter, and the line about the company with no gate is sung loudest by that company.
+The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom they sing, and the last poem says so. Nothing in the song is record. Nobody came home from Lantustal to carry the king's order, and the song says as much and gives the order anyway; the names the third poem recites are the names the captains tell new men, and each company's captain tells his own three. The field is named nowhere in the song: the companies say its name by daylight, the song is sung after dark, and so the second poem is the fan of stones and nothing else, though its name holds the march's word for a banner, _lantu_. The Bhumipal court's account of the spring of 315 agrees with the first poem in every fact and differs from it in the weight: the court says the clan was the one fighting family of the march left whole, and the song says it was in a boat. The court has never forbidden the song. Its title to the march rests on Marupal having left no heir, and there is no heir in the song. What the record keeps open stays open in it: how old Marupal's crown was, where its treasury went, how many of the steppe's dead lie on the field, and whether the god of Ludrapur went down the road in Devopala's cart or stayed in the empty house, which is the question the companies settle their quarrels under and the one the song puts and does not answer. The host is "the hundred banners" throughout and its leader is never named, as in every Vedyari account. The travelers from [[place-khzryndsrtrgn|the steppe]] who leave offerings at the field's stones for their own dead stand in the third poem as the companies see them, from the road. The colors in the fourth poem are sung to whatever colors hold the gates that winter, and the line about the company with no gate is sung loudest by that company.
 
 : The Spit {#spit}
 
@@ -248,7 +248,7 @@ It is the one roof left in the town, and the emptiest.
 
 A generation after the burning
 a priest came up the road from the coast with a cart,
-Devapala, and four men to lift,
+Devopala, and four men to lift,
 and went into the house in daylight, as the rite is, and came out with the god,
 and took him down the road to Sandyapur, to a new house behind the spit,
 where the lamps are lit before him now,
@@ -277,7 +277,7 @@ Nobody has settled it. They settle the knife and leave it.
 Hear who sings this.
 We are hired men, Vedyari and Dunhari and both.
 We never saw the kingdom; none of us did.
-Kavravira hired the first of us ten years after, out of the escort money,
+Kavrabira hired the first of us ten years after, out of the escort money,
 by the season, and we are hired by the season still,
 and the money comes from the road, and the road is what the king went up with his banners,
 and when the money stops we keep the road anyway
@@ -297,25 +297,25 @@ We keep it.
 
 ## See Also
 
-[[lore-marupalafl|The Fall of Marupala]]
+[[lore-marupalfl|The Fall of Marupal]]
 : the spring of 315 AF, the king and the host that did not come home
 
 [[lore-hndrdbnnrs|The Storm of the Hundred Banners]]
 : the host, as the whole south tells it
 
-[[lore-bhmplraise|The Raising of Bhumipala]]
+[[lore-bhmplraise|The Raising of Bhumipal]]
 : the family in the boats, and the forts it built after
 
-[[place-lanthusthli|Lantustali]]
+[[place-lantustal|Lantustal]]
 : the fan of stones, the chain and the whitewashed stones
 
 [[place-ludrapur|Ludrapur]]
 : the wall, the palace hollow and the empty temple
 
-[[place-marchroad|The march road]] · [[place-sandhyapur|Sandyapur]]
+[[place-marchroad|The march road]] · [[place-sandyapur|Sandyapur]]
 : the road the song runs along, and the spit where it starts
 
-[[affiliation-bhumipala|Bhumipala]]
+[[affiliation-bhumipal|Bhumipal]]
 : the kingdom whose companies sing it
 
 [[lore-bloodfield|Blood-fields]]

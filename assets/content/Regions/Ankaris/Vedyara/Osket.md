@@ -62,15 +62,15 @@ data:
   lore: [osketclt]
   parents: []
   relations:
-    vindhyalay: unaligned
+    shikhalaya: unaligned
     hvarnguides: aligned
-    svapnasarisamaja: aligned
+    svapnasarisameja: aligned
     mrchntclctvvdyr: unaligned
   packFolder: vedyara
 sohl: {system: {commonSkills: [osketlng]}}
 ---
 
-**The Osket** hold the western and central crossings of [[place-graznmntns|the Grazian Mountains]], the Grazian wall—[[place-meghadvara|Meghadvara]], [[place-suryadvara|Suryadvara]], [[place-tamradvara|Tamradvara]] and [[place-gudesroad|the Guides' Road]]—and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."
+**The Osket** hold the western and central crossings of [[place-graznmntns|the Grazian Mountains]], the Grazian wall—[[place-meghadvar|Meghadvar]], [[place-suryadvar|Suryadvar]], [[place-tamradvar|Tamradvar]] and [[place-gudesroad|the Guides' Road]]—and without them nothing crosses. They are not a kingdom, a tribe or a confederation in any sense a lowland clerk would recognize, and the word they use for themselves means, as near as anyone has got, "the people of the way."
 
 ## What a Lineage Is
 
@@ -86,7 +86,7 @@ The tarona does not reach above the last [[place-pssshrines|Pass-Shrine]]. The O
 
 Roughly half the value of everything that crosses, paid at the far end. A fee-reckoner at [[place-oskhelt|Oskhelt]], sitting in the open with a caravan master who has never crossed, sets the price against what the caravan is worth and gives him the rule in one breath: "Half of what lands at the far end is ours, and you pay it there, once you have seen what the pass has left you."
 
-The lineages of [[place-suryadvara|Suryadvara]] are rich by any standard, keep Oskhelt provisioned through the closed months out of a common store, and lend at interest to caravan-masters who have miscalculated. The western lineages take two caravans a year and live off their herds.
+The lineages of [[place-suryadvar|Suryadvar]] are rich by any standard, keep Oskhelt provisioned through the closed months out of a common store, and lend at interest to caravan-masters who have miscalculated. The western lineages take two caravans a year and live off their herds.
 
 ## The Sixth Road
 

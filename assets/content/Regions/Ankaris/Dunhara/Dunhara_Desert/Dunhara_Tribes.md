@@ -69,7 +69,7 @@ data:
   relations:
     ashanpnthn: aligned
     kngdmmrdd: unaligned
-    bhumipala: rival
+    bhumipal: rival
     cnfdrtntrzlnstts: unaligned
   packFolder: dunharadesert
 sohl: {system: {commonSkills: [dunharlng]}}
@@ -95,7 +95,7 @@ Two bodies stand beside the council and answer to none of the sheikhs. The [[aff
 
 ## Relations
 
-The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Taruzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipala|Bhumipala]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
+The tribes keep the [[affiliation-ashanpnthn|Ashaian faith]] and are bound to it in every rite. Toward the [[affiliation-kngdmmrdd|Kingdom of Amradad]], the settled kingdom of their own blood in the northwest, they are neither friend nor enemy: they trade with its cities, marry into its houses, admire its wealth and despise its softness. Toward the [[affiliation-cnfdrtntrzlnstts|Taruzelian States]] across the strait, kin in tongue and faith, they are partners in trade. Their rival is [[affiliation-bhumipal|Bhumipal]], the Vedyaran march kingdom at the end of the Grazian wall, whose last wells lie a two-day ride from the first Dunhari ones across a desert margin nobody holds and everybody crosses.
 
 ## Trade and Routes
 

@@ -236,7 +236,7 @@ The scrub above the beach is hot and still, and the air smells of rot and musk. 
 
 # Dossier {#dossier}
 
-The Giant Monitor Lizard is the largest lizard, nine to ten feet long and two to three hundred pounds, living on the dry islands of [[place-suryaislnds|the Surva-samedra Islands]], the rocky scrub of southern [[place-vedyarargn|Vedyara]] and the lowlands of the [[place-jenchairgn|Jenchai islands]]. It lies in ambush on a game-trail and smells carrion from far off. Its saliva carries venom and infection, so a bite goes on weakening an animal after the lizard has lost the fight.
+The Giant Monitor Lizard is the largest lizard, nine to ten feet long and two to three hundred pounds, living on the dry islands of [[place-surtaislnds|the Surta-samedra Islands]], the rocky scrub of southern [[place-vedyarargn|Vedyara]] and the lowlands of the [[place-jenchairgn|Jenchai islands]]. It lies in ambush on a game-trail and smells carrion from far off. Its saliva carries venom and infection, so a bite goes on weakening an animal after the lizard has lost the fight.
 
 ## Presentation
 
@@ -244,7 +244,7 @@ A heavily built, muscular lizard with rough, knobbed scales in gray-brown or bro
 
 ## In the Land
 
-Giant monitors live on the warm, dry islands of the Surva-samedra Islands, on the rocky scrub of the south coast of Vedyara and in the lowlands of the Jenchai islands. A lizard keeps a territory of a few miles of beach, scrub and dry stream-bed, a burrow under a rock and a basking-place on a warm slope. It lies in ambush on a game trail and follows the scent of carrion for miles, and several will gather at a carcass.
+Giant monitors live on the warm, dry islands of the Surta-samedra Islands, on the rocky scrub of the south coast of Vedyara and in the lowlands of the Jenchai islands. A lizard keeps a territory of a few miles of beach, scrub and dry stream-bed, a burrow under a rock and a basking-place on a warm slope. It lies in ambush on a game trail and follows the scent of carrion for miles, and several will gather at a carcass.
 
 ## Key Behaviors
 

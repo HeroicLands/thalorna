@@ -260,7 +260,7 @@ Word order is verb-final and rigid. There is no verb "to have." Evidentiality is
 
 There is no script. The Osket keep records in knotted cord—route, stage, load, day, and the dead—and the cord is read by the keeper of the lineage that tied it and by nobody else. Cord-keeping is taught to one person in a generation, and a cord whose keeper dies untimely is not read again by anyone.
 
-A few Osket of the [[place-suryadvara|Suryadvara]] lineages read and write lowland Vedyari, for contracts. None of them writes Osket in it.
+A few Osket of the [[place-suryadvar|Suryadvar]] lineages read and write lowland Vedyari, for contracts. None of them writes Osket in it.
 
 ## Naming Traditions
 
@@ -315,7 +315,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-osketlng'
 
 ## Making names {#making-names}
 
-**A person** carries one word, most often of two syllables, taken from weather, ground, beast or condition: _Nushang_ is hail and _Yulmum_ deep snow. The name is not inherited. What is inherited is the road, and a stranger is told the crossing first and the person second: _Suryadvara, Yolte_.
+**A person** carries one word, most often of two syllables, taken from weather, ground, beast or condition: _Nushang_ is hail and _Yulmum_ deep snow. The name is not inherited. What is inherited is the road, and a stranger is told the crossing first and the person second: _Suryadvar, Yolte_.
 
 **A place** of the Osket is older than the words on this page: [[place-oskhelt|Oskhelt]] and [[place-tsokhar|Tsokhar]] stand in the register with `—`. The crossings themselves are named in Vedyari, and the [[skill-vedyarlng#lexicon|Vedyari lexicon]] registers them.
 

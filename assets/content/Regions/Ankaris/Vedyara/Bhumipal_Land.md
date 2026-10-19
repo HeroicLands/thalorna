@@ -1,0 +1,89 @@
+---
+shortcode: bhumipalland
+name: {full: Bhumipal Land, aliases: [The March]}
+type: place
+subType: region
+description: "The land of the march kingdom of Bhumipal—dry foothills under the broken end of the Grazian wall, the road that goes round it into the desert, and the salt coast of the western sea."
+tags: [region, held]
+data:
+  demonym: Bhumipali
+  lore: [vedyariclt]
+  parents: [vedyarargn]
+  population: 2000000
+  packFolder: vedyara
+  government: bhumipal
+---
+
+## Overview
+
+The land of Bhumipal is empty between the wells and crowded at them, and that one fact explains its roads, its forts and its kings. It is the land of the march kingdom of [[affiliation-bhumipal|Bhumipal]], the northwestern corner of [[place-vedyarargn|Vedyara]]. It runs from the broken foothills of [[place-wstrndscnt|the Western Descent]] south and west to the shore of the [[place-sandvsmdr|Sandva-samedra]], and it is the driest country in the subcontinent that anybody farms.
+
+Two million people live here, which is thin for a Vedyari land.
+
+## The Three Grounds
+
+The foothills are the north, under the end of the wall. They are brown, broken and cold at night, and they carry sheep, goats and the horse-pastures the companies buy from. The [[affiliation-svapnasarisameja|Svapnasari-sameja]] keeps its monasteries up here, high enough for the cold and dry enough for the quiet.
+
+The desert-margin is the west, where the foothills run out into the sand of the [[place-dunharargn|Dunhara]]. Nobody holds it and everybody crosses it. The line between the last Vedyari well and the first Dunhari one is a two-day ride and is not marked on the ground.
+
+The coast is the south, a strip of arid shore two hundred miles long behind sand spits and salt flats. Herding country runs to within a few miles of the beach and the cultivation is what the wells will carry. There is no deep natural harbor on any of it. Due west across the water is the eastern coast of [[place-xerathia|Zerathia]], which nothing sailing out of this land has ever made.
+
+## The Road
+
+[[place-marchroad|The march road]] is the spine of the land and the reason there is a kingdom on it. It comes up from [[place-sandyapur|Sandyapur]] on the coast, turns west at [[place-ashvapada|Ashvapada]] under the foothills, and leaves Vedyara at the wells of [[place-marukupa|Marukupa]]. Every settlement of consequence in the land stands on it or a day off it.
+
+## Economy
+
+Salt is the land's own product, raked from pans along the coast and carried inland and west by the wagonload. After salt come dried fish, hides, wool and horses, and after those the carrying trade itself, which employs more Bhumipali households than any other work.
+
+The land grows millet, dates, and barley where a well will reach, and it imports grain in any year the rains fail on the plain behind it. A herder here counts a bad year by what he must sell to eat.
+
+## Settlements
+
+```sql
+SELECT s.address.slug AS _ref,
+       s.name.full AS "Name",
+       s.data.market || ' ' || m.name AS "Market",
+       s.data.population AS "People",
+       (SELECT CASE
+                   WHEN p.address.slug IS NULL THEN p.name.full
+                   ELSE '[[' || p.address.slug || '|' || p.name.full || ']]'
+               END
+        FROM entries p
+        WHERE p.type = 'affiliation'
+          AND p.documents IS NULL
+          AND s.data.government IN (p.address.canonical, p.documentation)) AS "Government",
+       -- No field states why a place stands where it does, so "For" projects nothing.
+       NULL AS "For"
+FROM entries s
+LEFT JOIN market m ON m.value = s.data.market
+WHERE s.type = 'place'
+  AND s.subType = 'settlement'
+  AND list_contains(s.data.parents, 'thalorna-note-place-bhumipalland')
+ORDER BY s.name.full COLLATE NOCASE
+```
+
+The three towns of the road hold most of what is not herding. The rest of the land lives at the wells, in hamlets of a few families that answer to the **Samonta** whose fort the well stands under.
+
+## See Also
+
+[[affiliation-bhumipal|Bhumipal]]
+: the kingdom that holds this land
+
+[[place-vedyarargn|Vedyara Region]]
+: the enclosing region
+
+[[place-marchroad|The march road]]
+: the road the land is built along
+
+[[place-wstrndscnt|The Western Descent]]
+: the broken end of the wall above it
+
+[[place-lantustal|Lantustal]]
+: the cursed field the road bends round
+
+[[place-sandvsmdr|The Sandva-samedra]]
+: the sea on its southern shore
+
+[[place-madukupa|Madukupa]]
+: a Samonta's fort over a well that never fails

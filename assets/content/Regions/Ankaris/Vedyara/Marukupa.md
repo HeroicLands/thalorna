@@ -8,12 +8,12 @@ tags: [village, oasis, caravan, frontier]
 data:
   demonym: null
   lore: []
-  parents: [bhumipalaland]
+  parents: [bhumipalland]
   population: 900
   market: 3
   routes: [{to: ashvapada, bearing: E, mode: land, days: 3, terrain: [road, hills, desert]}]
   packFolder: vedyara
-  government: bhumipala
+  government: bhumipal
 ---
 
 **Marukupa** (900, market 3) is the last Vedyari water on [[place-marchroad|the march road]]. The name means the desert well, and there are four of them, sunk in a rock shelf where the foothills give out. West of here a caravan is on the sand for two days before it reaches a Dunhari well, and the arithmetic of that gap governs the whole of the traffic.
@@ -29,6 +29,6 @@ Salt and dried fish come up from the coast, grain and cotton from the plain, and
 ## See Also
 
 - [[place-svapnastambha|Svapnastambha]]—the Sameja's tower above the wells
-- [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-sandhyapur|Sandyapur]]
-- [[affiliation-bhumipala|Bhumipala]]—the kingdom
+- [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-sandyapur|Sandyapur]]
+- [[affiliation-bhumipal|Bhumipal]]—the kingdom
 - [[place-dunharargn|Dunhara]]—the desert west of the last well

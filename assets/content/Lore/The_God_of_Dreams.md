@@ -23,7 +23,7 @@ The Sinale and Khazari do not acknowledge the human faiths as legitimate express
 | Khelathi                                         | Nehle'at                                   | Female                  | Dreams, sleep, protective visions                                                                |
 | [[affiliation-tengwouronglei\|Téngwou Rong Lei]] | Mei Sei                                    | —                       | Dreams, visions, omens                                                                           |
 | [[affiliation-ashanpnthn\|Ashaian]]              | Zárvanya                                   | Female                  | Dreams, celestial visions, omens                                                                 |
-| [[affiliation-varakpnthn\|Varnuka]]              | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
+| [[affiliation-vrnkpnthn\|Varnuka]]               | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
 
 The Sinale and Khazari both regard the deity as beyond mortal categories of gender—the human tendency to assign male or female identity is seen as a limitation of younger minds. The Sinale name, **Aulveira**, evokes radiance and the living dream; the Khazari name, **Lubát**, speaks of the light that endures in deep places and the wisdom found in patient craft. These are not translations of each other—they reflect genuinely different relationships with the same divine presence.
 

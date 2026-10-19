@@ -193,7 +193,7 @@ The resin-cutter in front of you stops on the path and looks up, and so do you. 
 
 # Dossier {#dossier}
 
-The Sky Serpent is a gliding constrictor of the tall forest, twenty to thirty feet long but slender, about a hundred and fifty pounds, with broad fins of skin along its flanks that it spreads to glide from tree to tree or down from a height onto its prey. It bites with a venom that weakens and numbs, and it kills by constriction. In [[place-vedyarargn|Vedyara]] its country is the forest of [[place-bharavarivr|the Bharava]]: the endowed estates of [[place-bharavavana|Bharavavana]] and, above them, [[place-forestnoroad|the unclaimed Forest of No Road]], which is unclaimed. It hunts monkeys, birds, deer and the forest's pigs, and it takes the gatherers who work the canopy for resin and lac.
+The Sky Serpent is a gliding constrictor of the tall forest, twenty to thirty feet long but slender, about a hundred and fifty pounds, with broad fins of skin along its flanks that it spreads to glide from tree to tree or down from a height onto its prey. It bites with a venom that weakens and numbs, and it kills by constriction. In [[place-vedyarargn|Vedyara]] its country is the forest of [[place-bharavarivr|the Bharava]]: the endowed estates of [[place-bharavaban|Bharavaban]] and, above them, [[place-forestnoroad|the unclaimed Forest of No Road]], which is unclaimed. It hunts monkeys, birds, deer and the forest's pigs, and it takes the gatherers who work the canopy for resin and lac.
 
 ## Presentation
 
@@ -201,7 +201,7 @@ A sky serpent is a long, flattened snake, two to four feet across with its fins 
 
 ## In the Land
 
-Sky serpents need tall trees, a broken canopy with gaps to glide across, and water near. Bharavavana gives them six hundred miles of it along the lower river, and the Forest of No Road above the gold highlands gives them more, where nobody cuts anything and the oldest trees stand. Each serpent holds a stretch of canopy a mile or two across, with a resting-tree near a river or a pool, and it glides out from high perches over the gaps, the clearings and the river channels to hunt. It comes down to the water in the heat of the day and lies along the margins in the wetlands and shallows. They are thickest along the pilgrim road's river reaches, where the canopy is broken by the river and the clearings.
+Sky serpents need tall trees, a broken canopy with gaps to glide across, and water near. Bharavaban gives them six hundred miles of it along the lower river, and the Forest of No Road above the gold highlands gives them more, where nobody cuts anything and the oldest trees stand. Each serpent holds a stretch of canopy a mile or two across, with a resting-tree near a river or a pool, and it glides out from high perches over the gaps, the clearings and the river channels to hunt. It comes down to the water in the heat of the day and lies along the margins in the wetlands and shallows. They are thickest along the pilgrim road's river reaches, where the canopy is broken by the river and the clearings.
 
 ## Key Behaviors
 
@@ -209,7 +209,7 @@ A sky serpent hunts by day. It climbs high, waits on a branch above a gap or a g
 
 ## What the Gatherers Do
 
-The forest's gathering peoples, who cut the resin, scrape the lac and climb for honey and pepper under the estates' licenses, know every serpent's tree on their season's paths and work round it. A gatherer climbing a tall tree goes up with a partner below him and a knife on a cord round his wrist, and nobody works alone under a broken canopy at midday. A serpent's shed skin, found whole on the forest floor, is sold at the margin for a good price; the estates' keepers send it down the river to the temple physicians, who grind it into a remedy for numbness and palsy. The pilgrims on the road are told by the keepers of [[place-bhrvdvsthna|the Bharava-Devastena Hostels]] not to sleep in clearings and not to step off the road to look at anything in the trees.
+The forest's gathering peoples, who cut the resin, scrape the lac and climb for honey and pepper under the estates' licenses, know every serpent's tree on their season's paths and work round it. A gatherer climbing a tall tree goes up with a partner below him and a knife on a cord round his wrist, and nobody works alone under a broken canopy at midday. A serpent's shed skin, found whole on the forest floor, is sold at the margin for a good price; the estates' keepers send it down the river to the temple physicians, who grind it into a remedy for numbness and palsy. The pilgrims on the road are told by the keepers of [[place-bhrvdvstna|the Bharava-Devastena Hostels]] not to sleep in clearings and not to step off the road to look at anything in the trees.
 
 ## Signs
 

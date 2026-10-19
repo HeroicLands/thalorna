@@ -22,7 +22,7 @@ The indigo announces **Vyalendra Land** well before the first village does: a st
 
 The land is _held_, and it is held by the loom. A village belongs to the house of the **Loom-Master** whose shrena has carded, spun or dyed there since anyone can name, and the holding passes down the craft-line with the dye-books and the pattern-books. There is no king above them and there has not been for a long age. The [Loom-Council]{.name data-type="affiliation/governmental"} the masters sit on is the only body that can take a holding away. It does so about as often as a shrena expels a master, which is to say almost never, and then very publicly.
 
-The arrangement is not an assembly-republic and should not be mistaken for one. A Vyalendri village has no turn in any sabhra and no voice of its own; what it has is a master, and what the master has is a seat. The cultivators of the cotton land hold use-rights and nothing more, exactly as they would in a janapoda, and the difference they feel is whose door they gho to.
+The arrangement is not an assembly-republic and should not be mistaken for one. A Vyalendri village has no turn in any sabhra and no voice of its own; what it has is a master, and what the master has is a seat. The cultivators of the cotton land hold use-rights and nothing more, exactly as they would in a janpoda, and the difference they feel is whose door they gho to.
 
 ## Settlements
 
@@ -55,7 +55,7 @@ The query names the city and the bale-port at the river's mouth. The carding, sp
 
 Cotton and indigo are the land's crops, and both exist for the cloth. The valleys grow the long-staple cotton the city's finest work requires; the dye-villages hold the indigo vats and the mordant recipes that make Vyalendri color worth what it is; the loom villages weave the plain goods and send the difficult patterns into the city's great halls. Silk comes in by trade. It is worked here and not grown here.
 
-What leaves is cloth, and it leaves by water. The river road down to the coast is the land's one artery, and it ends at [[place-nilatira|Nilatira]], the bale-port at the river's mouth three days below the last of the valleys. Everything the land makes passes through the yards there. The season in which the bales move is argued out every year with [[affiliation-chandrapur|Chendrapur]], whose galleys carry them beyond the coast.
+What leaves is cloth, and it leaves by water. The river road down to the coast is the land's one artery, and it ends at [[place-nilatir|Nilatir]], the bale-port at the river's mouth three days below the last of the valleys. Everything the land makes passes through the yards there. The season in which the bales move is argued out every year with [[affiliation-chendrapur|Chendrapur]], whose galleys carry them beyond the coast.
 
 ## See Also
 
@@ -65,11 +65,11 @@ What leaves is cloth, and it leaves by water. The river road down to the coast i
 [[place-vyalendra3|Vyalendra]]
 : the city itself
 
-[[place-nilatira|Nilatira]]
+[[place-nilatir|Nilatir]]
 : the port at the river's mouth
 
 [[place-vedyarargn|Vedyara Region]]
 : the enclosing region
 
-[[affiliation-dhnrktjnpd|Danurkota Janapoda]]
+[[affiliation-dnrktjnpd|Danurkot Janpoda]]
 : where the commander of the city watch is always found

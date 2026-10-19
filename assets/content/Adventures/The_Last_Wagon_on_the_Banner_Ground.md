@@ -7,7 +7,7 @@ description: "A treacherous guide leaves a small caravan with a broken wheel on 
 tags: [draft]
 data:
   parents: []
-  locations: [lanthusthli, marchroad, ashvapada]
+  locations: [lantustal, marchroad, ashvapada]
   cast: []
   factions: []
   follows: []
@@ -16,13 +16,13 @@ data:
   packFolder: adventures
 ---
 
-A small caravan carrying cut gems and a merchant's strongbox leaves [[place-ashvapada|Ashvapada]] for the wells of the west, with the party as its escort. Its guide takes it off the road by a herders' track, a wheel breaks, and the guide rides away. The wagons are standing on [[place-lanthusthli|Lantustali]], the cursed field of the march, with the sun on the hills. Every sign that night says a crooked company has sold the caravan to the field, and it has. So has the man who hired the party: the merchant is the court's man, riding the stage as bait to take the company's collectors with the goods in their hands, and the party is the blades he needs alive at dawn.
+A small caravan carrying cut gems and a merchant's strongbox leaves [[place-ashvapada|Ashvapada]] for the wells of the west, with the party as its escort. Its guide takes it off the road by a herders' track, a wheel breaks, and the guide rides away. The wagons are standing on [[place-lantustal|Lantustal]], the cursed field of the march, with the sun on the hills. Every sign that night says a crooked company has sold the caravan to the field, and it has. So has the man who hired the party: the merchant is the court's man, riding the stage as bait to take the company's collectors with the goods in their hands, and the party is the blades he needs alive at dawn.
 
 ## Overview
 
 The adventure runs from sunset to the next morning in five scenes, and the last adversary is the field itself. Each scene can be met with force, stealth, talk, cleverness with the ground or a sacrifice, and each states how play carries on if the party skips it, fails it or cuts it short.
 
-Read [[place-lanthusthli|Lantustali]] and [[lore-bloodfield|Blood-fields]] first. The adventure takes the field as canon gives it: a thin _shorukshetra_ of the dread kind, whose panic comes on anyone who lingers, and across which the hunters of the unreceived dead come in a form half made of the place, seen close to, able to take hold of a man and kill him. Every one of the [[lore-vedyariclt|Vedyari]] on the march knows the saying: _cross where the sun can see you, and do not answer anything that calls._
+Read [[place-lantustal|Lantustal]] and [[lore-bloodfield|Blood-fields]] first. The adventure takes the field as canon gives it: a thin _shorukshetra_ of the dread kind, whose panic comes on anyone who lingers, and across which the hunters of the unreceived dead come in a form half made of the place, seen close to, able to take hold of a man and kill him. Every one of the [[lore-vedyariclt|Vedyari]] on the march knows the saying: _cross where the sun can see you, and do not answer anything that calls._
 
 > [!TIP]
 > Pace the night by the light. Scene One runs in the last of the sun, Scene Two at dusk, Scene Three in the first dark, Scene Four from midnight to the gray before dawn, and Scene Five at sunrise. Say where the light is at the start of every scene.
@@ -40,7 +40,7 @@ Read [[place-lanthusthli|Lantustali]] and [[lore-bloodfield|Blood-fields]] first
 
 ## What Is Really Happening
 
-The full truth of the field—the company's racket, the false line, what crosses after dark, [Pallivata]{.name data-type="being/npc"}'s caravan and the court's commission—is in [[place-lanthusthli#truth|the truth of Lantustali]]. In short: [Krtiraya]{.name data-type="being/npc"}'s company sells caravans to the field through its guide, [Karasha]{.name data-type="being/npc"}, and a stretch of moved stones, and its riders collect the goods at dawn as the field's leavings. [Sundarka]{.name data-type="being/npc"}, whose gems were lost in Pallivata's caravan, carries the court's commission to be caught in the same trap and come out of it alive. He asked for Karasha by name and hired the party because holding the wagons until the collectors come needs blades. He told nobody, and he does not know that the southern stones were moved. This section covers what that does at the table.
+The full truth of the field—the company's racket, the false line, what crosses after dark, [Pallivata]{.name data-type="being/npc"}'s caravan and the court's commission—is in [[place-lantustal#truth|the truth of Lantustal]]. In short: [Krtiraya]{.name data-type="being/npc"}'s company sells caravans to the field through its guide, [Karasha]{.name data-type="being/npc"}, and a stretch of moved stones, and its riders collect the goods at dawn as the field's leavings. [Sundarka]{.name data-type="being/npc"}, whose gems were lost in Pallivata's caravan, carries the court's commission to be caught in the same trap and come out of it alive. He asked for Karasha by name and hired the party because holding the wagons until the collectors come needs blades. He told nobody, and he does not know that the southern stones were moved. This section covers what that does at the table.
 
 > [!IMPORTANT]
 > The party must reach Scene Three believing that the company betrayed it and nobody else, and that Sundarka is a stubborn, frightened merchant guarding his gems. By the end of Scene Four it must be able to see that he brought it onto the field on purpose. Every act of his has two readings: play each one as the first.
@@ -63,7 +63,7 @@ The full truth of the field—the company's racket, the false line, what crosses
 The reveal lands in Scene Three or Scene Four, when the party wants to move, and it reaches the party by whichever route it took.
 
 - **At the wagons.** When the party moves for the shelter or the cleft, Sundarka refuses to leave the wagons, and says why before he can stop himself: they hold here until dawn, because the collectors come at dawn and must find him alive with the box.
-- **In his papers.** A party that searches him closely, or takes his coat from him when he is hurt, finds a second paper folded under the receipt and sealed with the court's seal at [[place-sandhyapur|Sandyapur]]: a commission to ride the stage and take whoever comes to collect.
+- **In his papers.** A party that searches him closely, or takes his coat from him when he is hurt, finds a second paper folded under the receipt and sealed with the court's seal at [[place-sandyapur|Sandyapur]]: a commission to ride the stage and take whoever comes to collect.
 - **At the shelter or the cleft.** [Vijesa]{.name data-type="being/npc"}, at his fire, asks the first of the party to reach him whether the court's man is alive.
 - **From [Dulaka]{.name data-type="being/npc"}.** Feverish on the litter, he says that he heard Sundarka ask the captain at Ashvapada for Karasha by name, and thought it odd at the time.
 
@@ -180,7 +180,7 @@ Read or paraphrase this as the wheel goes:
 **NPCs and threats.**
 
 - **The hunters.** The predators of the unreceived dead, crossing in a form half made of the field. They come close, they take hold and they drag a person off into the dark. They come thickest round anyone who is bleeding, and Dulaka is bleeding. Steel and fire hurt them. Neither hurts them the way it hurts a man.
-- **The field's own dead.** The running men, [Marupala]{.name data-type="affiliation/polity"}'s beaten host, worn down to the one thing they still do: running for the road. They do not attack. They draw the eye away from what does.
+- **The field's own dead.** The running men, [Marupal]{.name data-type="affiliation/polity"}'s beaten host, worn down to the one thing they still do: running for the road. They do not attack. They draw the eye away from what does.
 - **The voices.** Out of the dark come voices the party knows: a companion's voice, a mother's, Pallivata's, the merchant's, calling a name and asking for help.
 - Senata. Sundarka's younger guard, steady until now. He hears his brother's voice calling from the stones, and he answers it, and he goes.
 - Sundarka. He will hold the wagons. When anyone proposes to move, he refuses, and if pressed he says why: they hold here until dawn, because the collectors come at dawn and must find him alive with the box.
@@ -225,7 +225,7 @@ Read or paraphrase this as the wheel goes:
 
 - _Read the ring._ From the roof, the true line is plain to anyone who looks for the shape rather than the nearest stone. The cleft is the nearest point of it.
 - _Search the shelter._ Pallivata's satchel holds his caravan ledger: the escort fee paid to Krtiraya's company, Karasha's hire entered on the captain's word, and a consignment of cut gems carried for the house of Sundarka. On the roof beams, scratched with a knife, are the same words as the spoke.
-- _Follow the dead._ Marupala's running men cross the slope below toward the road. They pass the false line without pausing and stop at the true one, and stand there, looking at the road they cannot reach. Following them is true. It also takes the party down among them, where the hunters are.
+- _Follow the dead._ Marupal's running men cross the slope below toward the road. They pass the false line without pausing and stop at the true one, and stand there, looking at the road they cannot reach. Following them is true. It also takes the party down among them, where the hunters are.
 - _Follow the offerings._ The people of the [[place-khzryndsrtrgn|Khazryn Desert Region]] leave cups, knotted cloths and bowls at the stones for their own dead. They are at the true stones and nowhere along the bite.
 - _Look for the soldier's fire._ If the party signaled Vijesa in Scene One or burned grass in Scene Three, a fire burns now on the road side of the cleft, where he has carried it against his captain's orders and sits by it with a horn. Other lights move on the field too. His is the one that stays still. If the party did neither, his fire is there anyway by midnight, later and smaller.
 - _Fight the retreat._ Down the rise and across the slope, with Dulaka carried, the party in a close knot, fire at the back. The hunters press hardest at the cleft, where the rocks give them hold.
@@ -279,15 +279,15 @@ Read or paraphrase this as the wheel goes:
 - **The captain brought to court.** The march loses a captain and a company goes unpaid for a season, and the crown's officer at Ashvapada has to answer for what he passed. The stones are reset on their old line, and the companies say nothing about it.
 - **The captain warned.** The false line is gone within the week. The guide is not seen again on the road, and another one, as cheerful, takes his place.
 - Sundarka. The court has its case and recovers his loss out of the captain's goods. Whether it asks how many of the caravan came out alive depends on whether the party tells it. Senata's family hears from the party, or from nobody.
-- **Dulaka carried out.** He walks with a stick by the next caravan season and tells the story at every well, and in his telling the merchant asked for the guide by name. Lost, he lies on the field and is not received, and his family asks the [[affiliation-agnipantha|Agmi-pantra]] to burn the ground for him, which the orthodox temples forbid.
+- **Dulaka carried out.** He walks with a stick by the next caravan season and tells the story at every well, and in his telling the merchant asked for the guide by name. Lost, he lies on the field and is not received, and his family asks the [[affiliation-agmipantra|Agmi-pantra]] to burn the ground for him, which the orthodox temples forbid.
 - Senata. If his body was burned on the field, his family is told he went with a pyre. If it was left, it is found at the edge of the stones in the morning, as the march expects.
 - Pallivata. His family learns where he died. A character who brings his spoke home brings them the last thing he wrote.
 - Vijesa. His captain knows who carried a fire to the cleft. The court can take him into its service, or leave him at the post.
 
 ## See Also
 
-- [[place-lanthusthli|Lantustali]]—the field, its dread and its curse
+- [[place-lantustal|Lantustal]]—the field, its dread and its curse
 - [[lore-bloodfield|Blood-fields]]—what crosses a thin field, and what keeps a people beside one
-- [[lore-marupalafl|The Fall of Marupala]]—the host whose dead run for the road
-- [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-sandhyapur|Sandyapur]]
-- [[affiliation-bhumipala|Bhumipala]]—the kingdom, its companies and its escort money
+- [[lore-marupalfl|The Fall of Marupal]]—the host whose dead run for the road
+- [[place-marchroad|The march road]] · [[place-ashvapada|Ashvapada]] · [[place-sandyapur|Sandyapur]]
+- [[affiliation-bhumipal|Bhumipal]]—the kingdom, its companies and its escort money

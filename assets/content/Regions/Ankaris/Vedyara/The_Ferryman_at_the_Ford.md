@@ -12,19 +12,19 @@ data:
     - lore-mhndkngdm
     - lore-unburnford
     - lore-foundingage
-    - place-puranasthana
-    - place-oluratarna
-    - place-rajapur
+    - place-puranastan
+    - place-olurtaran
+    - place-rajepur
     - place-sandstonealtr
-    - affiliation-rajaprjnpd
+    - affiliation-rajeprjnpd
     - affiliation-vyalendra
   language: vedyarlng
   packFolder: vedyara
 ---
 
-**The Ferryman at the Ford** is the legend the villages of the upper reaches of [[place-mahanadi|the Mahanodi]] tell of the ancestor of [[lore-mhndkngdm|the Kingdom of Mahanodi]], the "heroic ancestor of legendary virtue" the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names at [[place-rajapur|Rajepur]] and gives no deeds. The villages give him the deeds. They tell it at the hearth on the night of the anniversary of [[lore-unburnford|the Unburned Ford]], the one night in the year they send nobody downriver to any assembly that sits at Rajepur, and the telling is the villages' answer to why. It is told in prose by whoever at the hearth is oldest, with the villages' oath in verse, which every child of the upper river can say before it can read, and it opens and closes on the ferry rope. The rendering here is the telling as it is given above the ford; the villages below the kingdom's fields tell it with the same oath and fewer crossings.
+**The Ferryman at the Ford** is the legend the villages of the upper reaches of [[place-mahanodi|the Mahanodi]] tell of the ancestor of [[lore-mhndkngdm|the Kingdom of Mahanodi]], the "heroic ancestor of legendary virtue" the [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names at [[place-rajepur|Rajepur]] and gives no deeds. The villages give him the deeds. They tell it at the hearth on the night of the anniversary of [[lore-unburnford|the Unburned Ford]], the one night in the year they send nobody downriver to any assembly that sits at Rajepur, and the telling is the villages' answer to why. It is told in prose by whoever at the hearth is oldest, with the villages' oath in verse, which every child of the upper river can say before it can read, and it opens and closes on the ferry rope. The rendering here is the telling as it is given above the ford; the villages below the kingdom's fields tell it with the same oath and fewer crossings.
 
-[[place-rajavalilib|The Rajavali Library]] keeps none of it. The kingdom's chronicle begins its count at Rajepur, the recitation hedges the ancestor as legend, and the terraced hill the villages call [[place-puranasthana|Puranastana]], the old seat, is legend and not record. The Memory-Keeper's family does not tell this story and does not dispute it. The recitation calls the ancestor's virtue "the tale," and the upper river holds that this is the tale. The kingdom's own account of its founding, if it ever had one, burned or was never written, and the villages' is the only one anyone tells.
+[[place-rajavalilib|The Rajavali Library]] keeps none of it. The kingdom's chronicle begins its count at Rajepur, the recitation hedges the ancestor as legend, and the terraced hill the villages call [[place-puranastan|Puranastan]], the old seat, is legend and not record. The Memory-Keeper's family does not tell this story and does not dispute it. The recitation calls the ancestor's virtue "the tale," and the upper river holds that this is the tale. The kingdom's own account of its founding, if it ever had one, burned or was never written, and the villages' is the only one anyone tells.
 
 : The Ferryman at the Ford {#telling}
 
@@ -33,7 +33,7 @@ The rope is on our bank tonight, and the boat is tied. Nobody crosses. Now liste
 
 Before there was a king on this river there was a ford, and the ford is still there, and you have all watered cattle at it. It was a wide gravel crossing then as it is now, and in the dry months a child could walk it with the water at her knees. In the rains it was no ford at all. The villages on the two banks were one people with a river through them, and when the river was up they were two peoples, and whichever had the grain that year ate.
 
-There was a man who kept a flat boat and a rope at the crossing. He was a _Karmija_, born to labor like most of us, of a household nobody downriver has ever heard of. He poled the boat across when there was someone to cross and mended the rope when it frayed, and he took what he was given, which was a measure of grain here and a cooked dish there and now and then nothing, and he did not count it. What his mother called him, the villages do not keep. The ford called him [Taranapala]{.name data-type="being/npc"}, the keeper of the crossing, and that is the name we have for him, and it is not a name a mother gives. It is what he did.
+There was a man who kept a flat boat and a rope at the crossing. He was a _Karmija_, born to labor like most of us, of a household nobody downriver has ever heard of. He poled the boat across when there was someone to cross and mended the rope when it frayed, and he took what he was given, which was a measure of grain here and a cooked dish there and now and then nothing, and he did not count it. What his mother called him, the villages do not keep. The ford called him [Taranpal]{.name data-type="being/npc"}, the keeper of the crossing, and that is the name we have for him, and it is not a name a mother gives. It is what he did.
 
 ## The Year the Water Came Early
 
@@ -41,13 +41,13 @@ In the year this happened the spring on the wall was warm, and the river came up
 
 They had no boats. The far bank has never been a boat bank; it is the bank the pilgrim road runs along, and a pilgrim walks. They climbed. Above the village stood the hill with the terraces on it, five of them, faced in stone that nobody laid in anyone's memory, and the whole village went up those terraces in the dark with what it could carry, and stood on the top one in the rain, and watched the water take the mound.
 
-Taranapala had the boat on our bank. He had tied it high, because a man who keeps a boat knows the river better than the men who plant by it. He heard them across the water before he saw them. You have heard the river in flood; you know that a voice does not carry over it. He heard them because there were two hundred of them and they were all shouting at once.
+Taranpal had the boat on our bank. He had tied it high, because a man who keeps a boat knows the river better than the men who plant by it. He heard them across the water before he saw them. You have heard the river in flood; you know that a voice does not carry over it. He heard them because there were two hundred of them and they were all shouting at once.
 
 He put the rope across. Understand what that is. A ferry rope is fixed at both banks, and the boat runs along it, and when the river is up the rope is what holds the boat against the current; without it the boat goes downstream and the man in it goes with it. The rope was fixed on our bank and the far end was on the far bank, under the water, tied to a post that was now in the middle of the river. He could not reach it. So he tied the near end to the great tree, which is still there and is still called the rope tree, and he took the far end in the boat with him, and he poled across a river that was a mile wide and running, with the rope paying out behind him, and he tied it to the lowest terrace wall. The far-bank village says he did it in the dark and did not shout once. The near-bank village says he shouted the whole way. Both villages were there, and you may believe whichever bank you were born on.
 
 ## The Nine Crossings
 
-Then he crossed. A flat boat on a rope carries twelve, or fifteen if they are children, and he took the children first, because that is the order: children, then the old, then the women with child, then whoever is left, and the headman last, which the headman did not like and said so, and Taranapala said that a headman who went first would have no village to be headman of, and the headman stayed.
+Then he crossed. A flat boat on a rope carries twelve, or fifteen if they are children, and he took the children first, because that is the order: children, then the old, then the women with child, then whoever is left, and the headman last, which the headman did not like and said so, and Taranpal said that a headman who went first would have no village to be headman of, and the headman stayed.
 
 He crossed nine times. The telling counts them, and you will count them with me, because the count is the telling.
 
@@ -63,7 +63,7 @@ The fifth crossing was the men who could not swim, and there were more of them t
 
 The sixth crossing was the men who could swim, who had said they would swim and had looked at the water and not swum.
 
-The seventh crossing was the far-bank village's grain, as much of it as had been carried up the terraces in sacks, because a village that has been carried across a river and has nothing to eat on the other side has only been carried to a slower death. He took the grain before the last people. Some say that was wrong. The headman said it, loudly, from the terrace. Taranapala said that the grain could not climb a tree and the headman could.
+The seventh crossing was the far-bank village's grain, as much of it as had been carried up the terraces in sacks, because a village that has been carried across a river and has nothing to eat on the other side has only been carried to a slower death. He took the grain before the last people. Some say that was wrong. The headman said it, loudly, from the terrace. Taranpal said that the grain could not climb a tree and the headman could.
 
 The eighth crossing was the far-bank priest with the temple's leaves in a jar, the genealogies and the boundary register and the list of who owed what, because a village that has lost its record has lost its fields twice. The priest held the jar above his head the whole way across and did not bail, and the boy of twelve bailed for both of them.
 
@@ -73,13 +73,13 @@ It was the far end, where he had tied it to the terrace wall in the dark, and a 
 
 On the terrace there were four people left: the headman, the headman's wife, a girl of the headman's household, and a man nobody has ever been able to name, which the far bank finds funny to this day, because he was the one who argued about it. The water was at the third terrace and rising.
 
-Taranapala went across without the rope.
+Taranpal went across without the rope.
 
 You have seen the river in flood. You know what a flat boat does on a river in flood without a rope. It goes downstream, and it goes fast, and the man poling it is not steering it, he is arguing with it. He put the boat in above the hill, as far above as he could drag it along our bank with the boy, and he let the river take it, and he poled against the river the whole way, and the river carried him down a mile and across, and he fetched up against the second terrace with the boat half full of water and the pole broken. The four got in. He had no pole. He took one of the broken halves and the headman took the other, and the two of them, who had quarreled across the water all night, brought the boat down the river two miles more and across to our bank, and walked it back up along the bank in the morning with the rope tree in sight the whole way.
 
 That is nine. The count is the telling.
 
-When they came up to the houses the far-bank village was eating our grain by our fires with its own grain stacked in our granary, and the children were asleep, and the far-bank priest had his jar. Taranapala sat down by the first fire he came to and somebody put a dish in front of him. He ate it. He asked for nothing. Then he slept, and the telling says he slept a day and a night, and when he woke he went down to the river to look at his boat.
+When they came up to the houses the far-bank village was eating our grain by our fires with its own grain stacked in our granary, and the children were asleep, and the far-bank priest had his jar. Taranpal sat down by the first fire he came to and somebody put a dish in front of him. He ate it. He asked for nothing. Then he slept, and the telling says he slept a day and a night, and when he woke he went down to the river to look at his boat.
 
 ## The Three Askings
 
@@ -87,7 +87,7 @@ The river went down in its time, as it does. The far-bank village went home to i
 
 The temples own the fields. You know this; it is the oldest thing we have. A village owns its land through its temple, and the temple keeps the water and the record and the granary, and the households sit in the hall. But the crossing between two villages belongs to neither temple, and a rope across it is nobody's, and when the river is up and the rope is the only thing between a village and the water, nobody's is not enough.
 
-So the two villages met on the top terrace of the hill, inside the ring of stone that is still there and that nobody laid in anyone's memory, and they sent for Taranapala, and they asked him.
+So the two villages met on the top terrace of the hill, inside the ring of stone that is still there and that nobody laid in anyone's memory, and they sent for Taranpal, and they asked him.
 
 They asked him the first time to keep the ford. To keep a boat and a rope always, through the dry months when nobody needed them and the wet ones when everybody did; to say when the river could be crossed and when it could not, and to be obeyed in it; and to be fed for it by both villages, a measure from every household at every harvest, whether or not anybody had crossed that year.
 
@@ -97,9 +97,9 @@ They asked him the second time, and the second time there were four villages on 
 
 He refused. He said that he could teach a man to pole a boat, and could not teach him to gho across without the rope, and that a village that paid a keeper and got a man who would not gho across without the rope would have paid for nothing and would deserve what it got.
 
-They asked him the third time, and the third time the far-bank priest asked it, and he asked it differently. He said: we are not asking you to keep the ford. We are asking you to be the man the villages feed so that there is one man on this river whom all the villages feed. The ford is the first thing you will hold for all of us. There will be others. There is the pilgrim road, which no village keeps and every pilgrim is robbed on. There is the channel above the fields that two villages have quarreled over for three generations because neither will give the other the right to clear it. There is the year the raiders come down the valley and each village shuts its gate and watches the next one burn. A janapoda is a village and its temple, and we are proud of it, and it is the right size for everything except the things that are between the villages. For those we need a man who is between the villages. We will feed him. We will say so in front of the god.
+They asked him the third time, and the third time the far-bank priest asked it, and he asked it differently. He said: we are not asking you to keep the ford. We are asking you to be the man the villages feed so that there is one man on this river whom all the villages feed. The ford is the first thing you will hold for all of us. There will be others. There is the pilgrim road, which no village keeps and every pilgrim is robbed on. There is the channel above the fields that two villages have quarreled over for three generations because neither will give the other the right to clear it. There is the year the raiders come down the valley and each village shuts its gate and watches the next one burn. A janpoda is a village and its temple, and we are proud of it, and it is the right size for everything except the things that are between the villages. For those we need a man who is between the villages. We will feed him. We will say so in front of the god.
 
-And Taranapala said: and the day the man holds the ford for himself?
+And Taranpal said: and the day the man holds the ford for himself?
 
 And the priest said: that day it is ours again. We will say that in front of the god too.
 
@@ -132,13 +132,13 @@ that day we stop the measure, and we say so,
 
 That is the oath. You have all said it. Say it again now, the children too. Good.
 
-Then they hallowed him, and I will tell you how, because the way they did it is the point. There was no altar on the terrace. There was a ring of stone and a hollow in the middle of it, and the far-bank priest went down to the river with the boat's bailing bowl and came back up five terraces with it full, and poured the river over Taranapala's head in the hollow, and the villages said his name. That was the hallowing. The river, out of a bailing bowl, by a village priest, in a ring nobody built. The far bank says that afterward he laughed, and the near bank says he wrung out his hair and asked whether that was all, and both are true.
+Then they hallowed him, and I will tell you how, because the way they did it is the point. There was no altar on the terrace. There was a ring of stone and a hollow in the middle of it, and the far-bank priest went down to the river with the boat's bailing bowl and came back up five terraces with it full, and poured the river over Taranpal's head in the hollow, and the villages said his name. That was the hallowing. The river, out of a bailing bowl, by a village priest, in a ring nobody built. The far bank says that afterward he laughed, and the near bank says he wrung out his hair and asked whether that was all, and both are true.
 
 Afterward the villages cut a stone and set it in the hollow, so that the next man could be hallowed on something, and the stone is the first thing in this telling that was made by anyone whose name we know, because the mason was the boy of twelve, grown. He cut it plain. He said a stone that was going to have the river poured on it did not want carving.
 
 ## What He Held
 
-Taranapala kept the ford for thirty years. He kept the boat and the rope, and the villages fed him, and he went across without the rope twice more in those thirty years, once for a woman and once for a cow, and the two banks still argue over which he was quicker about. He kept the pilgrim road, which means that he walked it with a staff and the robbers learned his face and went to rob somewhere else. He cleared the channel above the fields himself, with his own hands, with both quarreling villages watching, and then asked them which of them wanted to tell him he had no right to. He held the gate the year the raiders came, with the men of four villages behind him who had never before stood behind one man, and the raiders went back up the valley and did not come down it again in his life.
+Taranpal kept the ford for thirty years. He kept the boat and the rope, and the villages fed him, and he went across without the rope twice more in those thirty years, once for a woman and once for a cow, and the two banks still argue over which he was quicker about. He kept the pilgrim road, which means that he walked it with a staff and the robbers learned his face and went to rob somewhere else. He cleared the channel above the fields himself, with his own hands, with both quarreling villages watching, and then asked them which of them wanted to tell him he had no right to. He held the gate the year the raiders came, with the men of four villages behind him who had never before stood behind one man, and the raiders went back up the valley and did not come down it again in his life.
 
 He did not build a house larger than anyone else's. He did not take a second measure. He was hallowed in a hollow by a bailing bowl and he died in a bed in a house a _Karmija_ would recognize, and the villages lit his lamp and sounded his conch and burned him within the day on the near bank, where he had tied the rope, and the ferry children carried the fire.
 
@@ -156,7 +156,7 @@ That is why the hollow on the top terrace is empty. That is why the goats graze 
 
 ## Why We Do Not Gho Down Tonight
 
-The kings held the river from the new town for a long time after that, and some of them held it well, and the recitation names those at their places, and we do not grudge them their places. The telling is not about them. The telling is about a night a long time after, when the villages of the upper river went down to the ford that Taranapala had kept, with whatever they carried, to be heard by a king who had stopped hearing them.
+The kings held the river from the new town for a long time after that, and some of them held it well, and the recitation names those at their places, and we do not grudge them their places. The telling is not about them. The telling is about a night a long time after, when the villages of the upper river went down to the ford that Taranpal had kept, with whatever they carried, to be heard by a king who had stopped hearing them.
 
 They were keeping the oath. Understand that. The day he says the water may be crossed and does not gho. The day the measure feeds his house and not the rope. That day we stop the measure, and we say so. They went down to say so. They had no army because the oath does not say anything about an army; it says we say so, before the god, and they went down to say it before the god at the one crossing on the river that every village had a share in.
 
@@ -181,10 +181,10 @@ The rope is on our bank tonight, and the boat is tied. Nobody crosses. Put the c
 [[lore-unburnford|The Unburned Ford]]
 : the night the villages went down to the ford, and why they do not gho down on its anniversary
 
-[[place-puranasthana|Puranastana]]
+[[place-puranastan|Puranastan]]
 : the terraced hill, the empty hollow and the hill's new owner
 
-[[place-oluratarna|Oluratarana]]
+[[place-olurtaran|Olurtaran]]
 : the ford, and the bones the village puts back in the river
 
 [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]]
@@ -196,5 +196,5 @@ The rope is on our bank tonight, and the boat is tied. Nobody crosses. Put the c
 [[place-sandstonealtr|The Sandstone Altar]]
 : the altar the kings moved the hallowing to
 
-[[lore-janpdform|The Janapoda Form]]
+[[lore-janpdform|The Janpoda Form]]
 : the village and its temple, "the right size for everything except the things that are between the villages"

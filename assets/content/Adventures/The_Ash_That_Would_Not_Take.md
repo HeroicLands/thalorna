@@ -7,7 +7,7 @@ description: "At a river burning-stair the urns come home too light, and the dea
 tags: [draft]
 data:
   parents: []
-  locations: [dahanaghatta, naughatta]
+  locations: [dahanaghat, naughat]
   cast: []
   factions: []
   follows: []
@@ -16,14 +16,14 @@ data:
   packFolder: adventures
 ---
 
-At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead stand in the river at night. The party must find who is selling the hour between the conch and the fire, what is being bought with it, and whether the ground can still be closed.
+At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead stand in the river at night. The party must find who is selling the hour between the conch and the fire, what is being bought with it, and whether the ground can still be closed.
 
 ## Hooks
 
-- **The thief.** A Stovira of [[affiliation-adanasreni|the Adanashreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honoured in writing.
+- **The thief.** A Stovira of [[affiliation-adanshreni|the Adanshreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honoured in writing.
 - **The mercenary or soldier.** A Danaja widow hires two reliable swords to stand beside her at her husband's pyre. She will not say why. Her husband's brother wants the household's keys, and a dying man's wishes are in dispute.
 - **The leader.** The sabhra of a river village asks a chieftain to settle a quarrel with the pyre-keeper. The villagers' urns are light, and the keeper says the fire was thorough.
-- **The wanderer.** A Jvelita of the [[affiliation-agnipantha|Agmi-pantra]] has been sent for to purge the ground, and finds the keeper's family waiting on the gallery to see what he brings. He asks a traveler to watch the river with him.
+- **The wanderer.** A Jvelita of the [[affiliation-agmipantra|Agmi-pantra]] has been sent for to purge the ground, and finds the keeper's family waiting on the gallery to see what he brings. He asks a traveler to watch the river with him.
 
 ## Scene One: The Waiting
 
@@ -65,7 +65,7 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 **Clues and rewards.** Kholu pays a lender he calls only the [Lamp-Seller]{.name data-type="being/npc"}. The lender takes bodies and leaves wood-ash. The count of coins gives the number: nine in the last season, all from households with money. Satyadarshin's account of the gap points to a practice the Keepers forbid and describe in detail.
 
-**Consequences.** A party that makes the numbers public sets the janapoda's sabhra on the keeper. A party that keeps it quiet has days before the Lamp-Seller moves.
+**Consequences.** A party that makes the numbers public sets the janpoda's sabhra on the keeper. A party that keeps it quiet has days before the Lamp-Seller moves.
 
 **If bypassed.** A party that skips the count reaches the cenotaph without numbers and meets the cell's watch on the stair unprepared.
 
@@ -97,19 +97,19 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 **Situation.** Beyond the cellar, a second stair descends to a round vault lined with white clay. On a bed in the center lies a dying man in gold-threaded cloth, and over him burns a single threshold lamp. The old man is not dead. He has not died, for days, and his lips move. Around him stand a dozen of the Waiting in a ring, facing outward, a coin in every hand.
 
-**NPCs and threats.** [Dhakunatha]{.name data-type="being/npc"}, the Lamp-Seller, is a Retuja fallen, with the brand of a Patuta on his face and a hood to hide it. He was a priest of the temple school, trained to the passage, and he has learned how to keep a soul at the threshold and ask it things. He is quiet, exact and intensely courteous. He addresses the dying man by the polite name of his station, and the dying man answers him. The old man is [Dhanapati Ratnapala]{.name data-type="being/npc"}, the head of a trading household of [[place-naughatta|Naughatta]], and the questions are of trade: where the money is, who is owed, what the cargoes were worth. [[affiliation-twilighths|The Twilight House]] has commissioned the answers. Its Factor, [Sandhyakirti]{.name data-type="being/npc"}, a courtesan in grey-green silk, sits at the foot of the bed with a slate, writing. Dhakunatha fights with the Waiting and with a word that stops the heart.
+**NPCs and threats.** [Dakunata]{.name data-type="being/npc"}, the Lamp-Seller, is a Retuja fallen, with the brand of a Patuta on his face and a hood to hide it. He was a priest of the temple school, trained to the passage, and he has learned how to keep a soul at the threshold and ask it things. He is quiet, exact and intensely courteous. He addresses the dying man by the polite name of his station, and the dying man answers him. The old man is [Dhanapati Ratnapala]{.name data-type="being/npc"}, the head of a trading household of [[place-naughat|Naughat]], and the questions are of trade: where the money is, who is owed, what the cargoes were worth. [[affiliation-twilighths|The Twilight House]] has commissioned the answers. Its Factor, [Sandhyakirti]{.name data-type="being/npc"}, a courtesan in grey-green silk, sits at the foot of the bed with a slate, writing. Dakunata fights with the Waiting and with a word that stops the heart.
 
 **Player choices.**
 
-- _Fight._ Dhakunatha is old and not strong. The Waiting are many and will not leave their ring.
+- _Fight._ Dakunata is old and not strong. The Waiting are many and will not leave their ring.
 - _Sound the conch._ The conch from the shrine, carried down, sounded in the vault, ends the gap for Ratnapala and for the Waiting. The old man dies, and the questions stop.
 - _The one question._ Satyadarshin, if he is with the party, can put the warranted question. It is the only lawful question the dying man can be asked, and it is the one that exposes the Lamp-Seller.
 - _Bargain._ The Factor offers money and the Twilight House's silence. The Lamp-Seller offers the Waiting's release if his work is left unfinished.
 - _Burn the vault._ A Jvelita's ember in the clay kills the lamp, the gap and the work, and probably the Waiting.
 
-**Clues and rewards.** The Factor's slate has the questions asked and the answers given, in the House's careful hand. Dhakunatha keeps a register of the soul-gaps he has opened, with the names of the clients who bought them. Ratnapala's last word, if he is allowed to speak it, is his own wish for his household.
+**Clues and rewards.** The Factor's slate has the questions asked and the answers given, in the House's careful hand. Dakunata keeps a register of the soul-gaps he has opened, with the names of the clients who bought them. Ratnapala's last word, if he is allowed to speak it, is his own wish for his household.
 
-**Consequences.** If the lamp is put out, the gap closes for this household and not for the Landing. If Dhakunatha lives, he goes to ground in another cremation ground.
+**Consequences.** If the lamp is put out, the gap closes for this household and not for the Landing. If Dakunata lives, he goes to ground in another cremation ground.
 
 **If bypassed.** A party that goes to the vault by the river tunnel finds it before the cell has been warned.
 
@@ -124,11 +124,11 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 **Player choices.**
 
 - _Burn the ground._ The Agmi-pantra's rite: every pyre slab alight at once, lit from the ember, with the names read aloud. It takes the night and the Jvelita's vessel. It works, as it works half the time.
-- _Close it by rite._ The household of each of the Waiting is found, and the coin and the name given. It takes days and the cooperation of the janapoda.
-- _Give it up._ The party leaves, and the Landing becomes a blood-field that spreads along the lower reaches of [[place-sarvadarivr|the Sarveda]].
-- _Take the register._ Dhakunatha's register and the Factor's slate are worth more to some people than the Landing.
+- _Close it by rite._ The household of each of the Waiting is found, and the coin and the name given. It takes days and the cooperation of the janpoda.
+- _Give it up._ The party leaves, and the Landing becomes a blood-field that spreads along the lower reaches of [[place-sarvedarivr|the Sarveda]].
+- _Take the register._ Dakunata's register and the Factor's slate are worth more to some people than the Landing.
 
-**Clues and rewards.** The cenotaph's store is returned to its families by the sabhra, and the shrena pays modestly, in candra, for the removal of the cell. The grateful Danaja household of Ratnapala rewards the party with a letter of credit.
+**Clues and rewards.** The cenotaph's store is returned to its families by the sabhra, and the shrena pays modestly, in chendra, for the removal of the cell. The grateful Danaja household of Ratnapala rewards the party with a letter of credit.
 
 **Consequences.** What leaves the Landing in the party's packs is a register, a debt, a flame or a grudge, depending on what they did at the end.
 
@@ -136,16 +136,16 @@ At [[place-dahanaghatta|Dahanaghatta]] the urns come home too light and the dead
 
 ## Aftermath
 
-- **The ground burned and the dead named.** The Landing is quiet. The Agmi-pantra is thanked at Naughatta and cursed by the temple of the passage.
+- **The ground burned and the dead named.** The Landing is quiet. The Agmi-pantra is thanked at Naughat and cursed by the temple of the passage.
 - **The ground left to itself.** The river villages move their dead to the sea-shore, and the Landing becomes a shorukshetra of the lower Sarveda.
-- **The Twilight House.** The Factor leaves with her slate, and the House's name comes up in the sabhra of the janapoda.
-- **The shrena.** The Sabhra of the Adanashreni has its cell removed and does not thank anyone for it.
+- **The Twilight House.** The Factor leaves with her slate, and the House's name comes up in the sabhra of the janpoda.
+- **The shrena.** The Sabhra of the Adanshreni has its cell removed and does not thank anyone for it.
 - **Kholu's house.** The keeper's family loses the Landing to a younger branch.
 
 ## See Also
 
-- [[place-dahanaghatta|Dahanaghatta]]—the stair and what the villages say of it
+- [[place-dahanaghat|Dahanaghat]]—the stair and what the villages say of it
 - [[lore-bloodfield|Blood-fields]]—what the unburned dead make of ground
 - [[affiliation-kalavrata|Kalavrata]] · [[affiliation-thresholdkeepers|the Threshold-keepers]]—the passage and the one lawful question
-- [[affiliation-adanasreni|The Adanashreni]] · [[affiliation-twilighths|the Twilight House]]
+- [[affiliation-adanshreni|The Adanshreni]] · [[affiliation-twilighths|the Twilight House]]
 - [[lore-theshadow|The Shadow]]—the chaos that comes in wherever the way stays open

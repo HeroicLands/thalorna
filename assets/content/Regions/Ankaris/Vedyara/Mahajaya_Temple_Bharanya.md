@@ -8,15 +8,15 @@ tags: [sacred, river, pilgrimage, inland]
 data: {demonym: null, lore: [], parents: [bharanya], population: null, packFolder: vedyara}
 ---
 
-**The Mahajaya Temple at Bharanya**, the great temple at [[place-bharanya|Bharanya]], stands on the oldest of the town's mounds, above the highest water of the lower reaches of [[place-mahanadi|the Mahanodi]]. It is one of the three largest pilgrim-temples in the inland part of the [[place-vedyarargn|Vedyara Region]] and the largest establishment of [[affiliation-mahajaya|Mahajaya]] outside [[place-suvarnagirijnpd|Suvarnageri]].
+**The Mahajaya Temple at Bharanya**, the great temple at [[place-bharanya|Bharanya]], stands on the oldest of the town's mounds, above the highest water of the lower reaches of [[place-mahanodi|the Mahanodi]]. It is one of the three largest pilgrim-temples in the inland part of the [[place-vedyarargn|Vedyara Region]] and the largest establishment of [[affiliation-mahajaya|Mahajaya]] outside [[place-suvargerijnpd|Suvargeri]].
 
-[[lore-mahajayadty|Mahajaya]] is the preserver-goddess of the [[affiliation-varakpnthn|Varnuka pantheon]], mistress of order, of prosperity and of the keeping of dorma. A river that moves its bed and drowns towns is exactly the condition her observance addresses, and the lower Mahanodi is the most devoted stretch of water in the subcontinent.
+[[lore-mahajayadty|Mahajaya]] is the preserver-goddess of the [[affiliation-vrnkpnthn|Varnuka pantheon]], mistress of order, of prosperity and of the keeping of dorma. A river that moves its bed and drowns towns is exactly the condition her observance addresses, and the lower Mahanodi is the most devoted stretch of water in the subcontinent.
 
 ## The Council of Three
 
-The temple's senior priest sits on [The Council of Three]{.name data-type="affiliation/governmental"} with the senior priests of [[place-sangama|Sangema]] at [[place-melaground|the Melra ground]] and of [[place-suryatempl|the Surva temple]] at the source of [[place-chandrmahi|the Chandramahi]]. A joint pronouncement of the three carries near-universal weight in the confederation; Sangema's note says what the council does and what its members say it is not.
+The temple's senior priest sits on [The Council of Three]{.name data-type="affiliation/governmental"} with the senior priests of [[place-sangema|Sangema]] at [[place-melkaground|the Melka ground]] and of [[place-surtatempl|the Surta temple]] at the source of [[place-chandrmahi|the Chandramahi]]. A joint pronouncement of the three carries near-universal weight in the confederation; Sangema's note says what the council does and what its members say it is not.
 
-Bharanya's is the voice on that council with no assembly behind it. Sangema convenes the [Mahva-Melra]{.name data-type="lore/gathering"} and the Surva temple sights the year; this temple governs nothing, holds no roll and speaks for no circuit, and what it has is a million devotees on one river.
+Bharanya's is the voice on that council with no assembly behind it. Sangema convenes the [Mahva-Melka]{.name data-type="lore/gathering"} and the Surta temple sights the year; this temple governs nothing, holds no roll and speaks for no circuit, and what it has is a million devotees on one river.
 
 ## The Observance
 
@@ -32,5 +32,5 @@ Pilgrims come the year round and in their thousands after the fall of the water.
 [[affiliation-mahajaya|Mahajaya]]
 : the preserver-goddess
 
-[[place-sangama|Sangema]]
-: the Melra ground's temple
+[[place-sangema|Sangema]]
+: the Melka ground's temple

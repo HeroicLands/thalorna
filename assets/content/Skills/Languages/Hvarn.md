@@ -187,7 +187,7 @@ Hvarn is the tongue of [[affiliation-hvarnguides|the Hvarn]] of [[place-estrnrea
 
 Hvarn is not related to [[skill-osketlng|Osket]], which surprises everyone who has assumed it must be. The two peoples live three hundred miles apart along the same wall, do much the same work, marry across the gap occasionally, and speak languages with no demonstrable common stock—a fact both peoples state without interest and lowland scholars find difficult to accept.
 
-It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sanghafort|the Sangha-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
+It is the trans-Grazian language outsiders most often learn, which is to say that perhaps forty lowlanders speak it. They are the factors who renegotiate the garrison contract, a handful of eastern janapada clerks, and the occasional soldier of [[place-sangrafort|the Sangha-fort]] who has wintered at [[place-nurvhrn|Nurvharn]] and come back fluent and strange.
 
 ## How Hvarn sounds
 

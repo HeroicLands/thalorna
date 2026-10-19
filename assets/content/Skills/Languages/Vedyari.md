@@ -58,7 +58,7 @@ data:
     - form: "-ta"
       gloss: "done, finished"
       attaches: "added to a verb stem"
-      examples: ["muk- > mukra"]
+      examples: ["muk- > mukru"]
     - form: "-in"
       gloss: "one who has or keeps it"
       attaches: "replaces a closing short a"
@@ -66,7 +66,7 @@ data:
     - form: "-ina"
       gloss: "one of the kind, of good standing in it"
       attaches: "replaces a closing short a"
-      examples: ["kulra > kulena"]
+      examples: ["kulpa > kulena"]
     - form: "-i"
       gloss: "a woman's form of a word; one who deals in it"
       attaches: "replaces a closing short a"
@@ -84,8 +84,8 @@ data:
       gloss: "one who works it, or a thing of it"
       attaches: "added"
       examples: ["lipu > lepika"]
-    - {form: "-ni", gloss: "the leader of it", attaches: "added", examples: ["senva > senoni"]}
-    - {form: "-da", gloss: "that gives it", attaches: "added", examples: ["sarvu > sarveda"]}
+    - {form: "-ni", gloss: "the leader of it", attaches: "added", examples: ["senta > senoni"]}
+    - {form: "-da", gloss: "that gives it", attaches: "added", examples: ["sartu > sarveda"]}
     - form: "-s"
       gloss: "more than one, as these pages write the plural"
       attaches: "added"
@@ -96,11 +96,16 @@ data:
     - {form: -a, gloss: a woman's name only, kind: name, given: woman}
     - {form: -a, gloss: the names of both men and women, kind: name, given: either}
     - {form: -i, gloss: the names of both men and women, kind: name, given: either}
-    - {form: -n, gloss: "the names of both, rarely", kind: name, given: either}
-    - {form: -m, gloss: "the names of both, rarely", kind: name, given: either}
-    - {form: -r, gloss: "the names of both, rarely", kind: name, given: either}
+    - {form: -n, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -r, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -t, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -k, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -s, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -l, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -m, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - {form: -d, gloss: "the names of both, a man's more often", kind: name, given: either}
   words:
-    - form: surva
+    - form: surta
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the sun"
@@ -144,29 +149,26 @@ data:
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "a flower; the flowering"
-    - {form: purka, class: adj, field: "Sun, moon, sky and the reckoning of time", gloss: "full"}
+    - {form: purku, class: adj, field: "Sun, moon, sky and the reckoning of time", gloss: "full"}
     - form: dipra
       class: adj
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "blazing, bright with heat"
-    - form: jvela
-      class: "n"
-      field: "Sun, moon, sky and the reckoning of time"
-      gloss: "a flame"
+    - {form: jvel, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "a flame"}
     - form: himra
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "snow; cold"
-    - {form: sheta, class: adj, field: "Sun, moon, sky and the reckoning of time", gloss: "cold"}
+    - {form: shet, class: adj, field: "Sun, moon, sky and the reckoning of time", gloss: "cold"}
     - form: avanda
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the sky, the vault overhead"
     - {form: demu, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "a day"}
-    - {form: ghauli, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "night"}
-    - {form: dovra, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "dawn"}
+    - {form: ghaul, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "night"}
+    - {form: dopra, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "dawn"}
     - {form: orkhu, class: "n", field: "Sun, moon, sky and the reckoning of time", gloss: "a year"}
-    - form: vrala
+    - form: brala
       class: "n"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "an age, an era"
@@ -184,7 +186,7 @@ data:
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the month of the flame"
-      built: [jvela, kalda]
+      built: [jvel, kalda]
     - form: meghamukhakala
       class: name
       field: "Sun, moon, sky and the reckoning of time"
@@ -194,7 +196,7 @@ data:
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the month of the full rivers"
-      built: [purka, kalda]
+      built: [purku, kalda]
     - form: lipikala
       class: name
       field: "Sun, moon, sky and the reckoning of time"
@@ -205,7 +207,7 @@ data:
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the month of the boat"
       built: [nau, kalda]
-    - form: himakala
+    - form: himrakala
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the month of the snow"
@@ -229,7 +231,7 @@ data:
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the season of the rains"
-      built: [vorsha, ritru]
+      built: [borsha, ritru]
     - form: hiranyaritu
       class: name
       field: "Sun, moon, sky and the reckoning of time"
@@ -239,38 +241,38 @@ data:
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the cold season"
-      built: [sheta, ritru]
-    - form: suryavara
+      built: [shet, ritru]
+    - form: surtar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the sun's day"
-      built: [surva, vura]
-    - form: chandravara
+      built: [surta, vura]
+    - form: chendravar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the moon's day"
       built: [chendra, vura]
-    - form: meghavara
+    - form: meghavar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the day of the Lord of Thunder"
       built: [meghra, vura]
-    - form: kalavara
+    - form: kalavar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the day of the Gatekeeper of Death"
       built: [kalda, vura]
-    - form: kamavara
+    - form: kamavar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the day of the Celestial Lover"
       built: [kamva, vura]
-    - form: jnanavara
+    - form: jnanavar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the day of the Radiant Sage"
       built: [jnena, vura]
-    - form: vyahrativara
+    - form: vahrativar
       class: name
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "the day of the Keeper of Decay"
@@ -281,15 +283,15 @@ data:
       field: "Water, rain and the monsoon"
       gloss: "the deep water; an ocean of anything"
     - {form: nadri, class: "n", field: "Water, rain and the monsoon", gloss: "a river"}
-    - {form: derva, class: "n", field: "Water, rain and the monsoon", gloss: "a stream, a flow"}
-    - {form: jalra, class: "n", field: "Water, rain and the monsoon", gloss: "water"}
-    - {form: kuvra, class: "n", field: "Water, rain and the monsoon", gloss: "a well"}
+    - {form: derka, class: "n", field: "Water, rain and the monsoon", gloss: "a stream, a flow"}
+    - {form: jalka, class: "n", field: "Water, rain and the monsoon", gloss: "water"}
+    - {form: kupra, class: "n", field: "Water, rain and the monsoon", gloss: "a well"}
     - {form: tirsa, class: "n", field: "Water, rain and the monsoon", gloss: "a bank, a shore"}
-    - form: ghatra
+    - form: ghatka
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "a landing, a river-stair"
-    - form: setra
+    - form: setka
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "a bridge, a causeway"
@@ -302,7 +304,7 @@ data:
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "a cloud; the storm-cloud of the rains"
-    - {form: vorsha, class: "n", field: "Water, rain and the monsoon", gloss: "rain; the rains"}
+    - {form: borsha, class: "n", field: "Water, rain and the monsoon", gloss: "rain; the rains"}
     - {form: pavanda, class: "n", field: "Water, rain and the monsoon", gloss: "wind"}
     - {form: nau, class: "n", field: "Water, rain and the monsoon", gloss: "a boat"}
     - form: mahanau
@@ -318,23 +320,23 @@ data:
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "the broad one, said of a great river"
-    - {form: turva, class: "n", field: "Water, rain and the monsoon", gloss: "a flood"}
+    - {form: turta, class: "n", field: "Water, rain and the monsoon", gloss: "a flood"}
     - form: vandyakala
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "a drought"
-      built: [vendya, kalda]
-    - {form: chirva, class: "n", field: "Water, rain and the monsoon", gloss: "lightning"}
-    - {form: ghumra, class: "n", field: "Water, rain and the monsoon", gloss: "thunder"}
-    - {form: osra, class: "n", field: "Water, rain and the monsoon", gloss: "the tide"}
+      built: [bendya, kalda]
+    - {form: chirta, class: "n", field: "Water, rain and the monsoon", gloss: "lightning"}
+    - {form: ghumba, class: "n", field: "Water, rain and the monsoon", gloss: "thunder"}
+    - {form: oska, class: "n", field: "Water, rain and the monsoon", gloss: "the tide"}
     - {form: kudra, class: "n", field: "Water, rain and the monsoon", gloss: "an island"}
     - {form: faunsa, class: "n", field: "Water, rain and the monsoon", gloss: "a wave"}
     - form: himadara
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "a glacier"
-      built: [himra, derva]
-    - form: girva
+      built: [himra, derka]
+    - form: girka
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a mountain"
@@ -346,7 +348,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a slab of rock, a stone"
-    - form: vanra
+    - form: vanta
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a forest, a grove"
@@ -354,7 +356,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "the earth; land, a country"
-    - form: shetva
+    - form: shetka
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a field"
@@ -366,15 +368,15 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a foot; the land at the foot of a thing"
-    - form: pada
+    - form: padu
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a footprint, a footing; ground"
-    - form: marvu
+    - form: marku
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a desert"
-    - form: vendya
+    - form: bendya
       class: adj
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "barren; of ground, that will not take a plough"
@@ -394,7 +396,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a mouth; the mouth of a river or a pass"
-    - form: uttarva
+    - form: uttarka
       class: adj
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "northern; upper"
@@ -406,10 +408,6 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a town"
-    - form: pura
-      class: "n"
-      field: "Mountain, forest, field and the shapes of the land"
-      gloss: "a town, in older names"
     - form: puratra
       class: adj
       field: "Mountain, forest, field and the shapes of the land"
@@ -422,7 +420,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a stronghold"
-    - form: stanu
+    - form: stonu
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a place, a seat"
@@ -442,7 +440,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a pillar, a tower"
-    - form: khandra
+    - form: khondra
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a piece, a portion of land"
@@ -455,7 +453,7 @@ data:
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a Vedyari; the people and the tongue of Vedyara"
       built: [vedyara, "-i"]
-    - form: talna
+    - form: talka
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a plain"
@@ -463,11 +461,11 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a hill"
-    - form: dauna
+    - form: daun
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a valley"
-    - form: kharsa
+    - form: gharsa
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a cliff"
@@ -475,7 +473,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "dust"
-    - form: vausa
+    - form: vaus
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "sand"
@@ -490,22 +488,22 @@ data:
       field: "Stone, metal and treasure"
       gloss: "gold, the bright metal"
     - {form: tomra, class: "n", field: "Stone, metal and treasure", gloss: "copper; a copper coin"}
-    - {form: ratva, class: "n", field: "Stone, metal and treasure", gloss: "a jewel, a gem"}
+    - {form: ratka, class: "n", field: "Stone, metal and treasure", gloss: "a jewel, a gem"}
     - {form: shonkha, class: "n", field: "Stone, metal and treasure", gloss: "a conch, a shell"}
-    - {form: dursa, class: "n", field: "Stone, metal and treasure", gloss: "iron"}
+    - {form: dorsa, class: "n", field: "Stone, metal and treasure", gloss: "iron"}
     - {form: elsu, class: "n", field: "Stone, metal and treasure", gloss: "silver"}
     - {form: ghonsa, class: "n", field: "Stone, metal and treasure", gloss: "bronze"}
     - {form: shimra, class: "n", field: "Stone, metal and treasure", gloss: "salt"}
-    - {form: sivra, class: "n", field: "Stone, metal and treasure", gloss: "a pearl"}
-    - {form: oshva, class: "n", field: "Crops, beasts and growing things", gloss: "a horse"}
+    - {form: sikra, class: "n", field: "Stone, metal and treasure", gloss: "a pearl"}
+    - {form: oshka, class: "n", field: "Crops, beasts and growing things", gloss: "a horse"}
     - {form: gho, class: "n", field: "Crops, beasts and growing things", gloss: "cattle, a cow"}
-    - {form: vresha, class: "n", field: "Crops, beasts and growing things", gloss: "a bull"}
+    - {form: bresha, class: "n", field: "Crops, beasts and growing things", gloss: "a bull"}
     - {form: vishona, class: "n", field: "Crops, beasts and growing things", gloss: "a horn"}
     - form: vyela
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "a serpent; any beast of prey"
-    - {form: gajna, class: "n", field: "Crops, beasts and growing things", gloss: "an elephant"}
+    - {form: gajta, class: "n", field: "Crops, beasts and growing things", gloss: "an elephant"}
     - form: madru
       class: "n"
       field: "Crops, beasts and growing things"
@@ -514,19 +512,19 @@ data:
     - {form: ikshva, class: "n", field: "Crops, beasts and growing things", gloss: "sugarcane"}
     - {form: tilsa, class: "n", field: "Crops, beasts and growing things", gloss: "sesame"}
     - {form: mashra, class: "n", field: "Crops, beasts and growing things", gloss: "a bean, pulse"}
-    - form: vrehi
+    - form: brehi
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "rice in the ear"
-    - {form: sholi, class: "n", field: "Crops, beasts and growing things", gloss: "paddy rice"}
+    - {form: shol, class: "n", field: "Crops, beasts and growing things", gloss: "paddy rice"}
     - {form: danva, class: "n", field: "Crops, beasts and growing things", gloss: "grain"}
     - {form: karpesa, class: "n", field: "Crops, beasts and growing things", gloss: "cotton"}
-    - {form: vonu, class: "n", field: "Crops, beasts and growing things", gloss: "bamboo"}
-    - form: shirva
+    - {form: bonu, class: "n", field: "Crops, beasts and growing things", gloss: "bamboo"}
+    - form: shirka
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "a reed; an arrow"
-    - form: nilra
+    - form: nilka
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "indigo; dark blue"
@@ -540,14 +538,14 @@ data:
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "a vine, a creeper"
-    - {form: ghava, class: "n", field: "Crops, beasts and growing things", gloss: "a camel"}
+    - {form: ghaba, class: "n", field: "Crops, beasts and growing things", gloss: "a camel"}
     - {form: fandra, class: "n", field: "Crops, beasts and growing things", gloss: "a rhinoceros"}
     - {form: chorbha, class: "n", field: "Crops, beasts and growing things", gloss: "a tiger"}
-    - {form: bhurva, class: "n", field: "Crops, beasts and growing things", gloss: "a buffalo"}
-    - {form: tuvi, class: "n", field: "Crops, beasts and growing things", gloss: "a bird"}
-    - {form: ferva, class: "n", field: "Crops, beasts and growing things", gloss: "a tree"}
+    - {form: bhurka, class: "n", field: "Crops, beasts and growing things", gloss: "a buffalo"}
+    - {form: tubi, class: "n", field: "Crops, beasts and growing things", gloss: "a bird"}
+    - {form: ferka, class: "n", field: "Crops, beasts and growing things", gloss: "a tree"}
     - {form: janra, class: "n", field: "Kin, household and the person", gloss: "a people, folk"}
-    - form: kulra
+    - form: kulpa
       class: "n"
       field: "Kin, household and the person"
       gloss: "a lineage; the kin within a station"
@@ -555,11 +553,11 @@ data:
       class: "n"
       field: "Kin, household and the person"
       gloss: "a mother; the mistress of a house"
-    - form: dasva
+    - form: dasu
       class: "n"
       field: "Kin, household and the person"
       gloss: "a servant; one devoted to a god"
-    - {form: virda, class: "n", field: "Kin, household and the person", gloss: "a hero"}
+    - {form: birda, class: "n", field: "Kin, household and the person", gloss: "a hero"}
     - form: angha
       class: "n"
       field: "Kin, household and the person"
@@ -576,52 +574,52 @@ data:
     - {form: kirta, class: "n", field: "Kin, household and the person", gloss: "fame, renown"}
     - {form: porha, class: adj, field: "Kin, household and the person", gloss: "beyond; highest"}
     - {form: mokhya, class: adj, field: "Kin, household and the person", gloss: "chief, foremost"}
-    - form: vardena
+    - form: bardena
       class: "n"
       field: "Kin, household and the person"
       gloss: "increase, prosperity"
     - {form: ravha, class: "n", field: "Kin, household and the person", gloss: "a cry, a voice"}
-    - {form: tovu, class: "n", field: "Kin, household and the person", gloss: "a father"}
-    - form: keda
+    - {form: tobu, class: "n", field: "Kin, household and the person", gloss: "a father"}
+    - form: kema
       class: "n"
       field: "Kin, household and the person"
       gloss: "a son; a boy of the house"
-    - form: kedri
+    - form: kemri
       class: "n"
       field: "Kin, household and the person"
       gloss: "a daughter"
-      built: [keda, "-i"]
-    - {form: bhaula, class: "n", field: "Kin, household and the person", gloss: "a brother"}
+      built: [kema, "-i"]
+    - {form: bhaul, class: "n", field: "Kin, household and the person", gloss: "a brother"}
     - form: bhauli
       class: "n"
       field: "Kin, household and the person"
       gloss: "a sister"
-      built: [bhaula, "-i"]
+      built: [bhaul, "-i"]
     - {form: stovira, class: "n", field: "Kin, household and the person", gloss: "an elder"}
-    - form: kovala
+    - form: kobala
       class: "n"
       field: "Kin, household and the person"
       gloss: "a household, the hearth and those who eat at it"
-    - {form: nivra, class: "n", field: "Kin, household and the person", gloss: "a bride"}
+    - {form: nipra, class: "n", field: "Kin, household and the person", gloss: "a bride"}
     - {form: vandra, class: "n", field: "Kin, household and the person", gloss: "a bridegroom"}
-    - {form: lamu, class: "n", field: "Kin, household and the person", gloss: "a child, an infant"}
-    - {form: hetra, class: "n", field: "Kin, household and the person", gloss: "an heir"}
+    - {form: lam, class: "n", field: "Kin, household and the person", gloss: "a child, an infant"}
+    - {form: hetka, class: "n", field: "Kin, household and the person", gloss: "an heir"}
     - {form: nusha, class: "n", field: "Kin, household and the person", gloss: "a widow"}
-    - {form: etra, class: "n", field: "Kin, household and the person", gloss: "kin, kindred"}
-    - {form: atvi, class: "n", field: "Kin, household and the person", gloss: "a guest"}
+    - {form: etka, class: "n", field: "Kin, household and the person", gloss: "kin, kindred"}
+    - {form: atki, class: "n", field: "Kin, household and the person", gloss: "a guest"}
     - {form: kholu, class: "n", field: "Kin, household and the person", gloss: "the body"}
-    - {form: daimu, class: "n", field: "Kin, household and the person", gloss: "the heart"}
+    - {form: daim, class: "n", field: "Kin, household and the person", gloss: "the heart"}
     - {form: pomba, class: "n", field: "Kin, household and the person", gloss: "a hand"}
     - {form: diku, class: "n", field: "Kin, household and the person", gloss: "an eye"}
     - {form: shoru, class: "n", field: "Kin, household and the person", gloss: "blood"}
-    - {form: tirna, class: "n", field: "Kin, household and the person", gloss: "a name"}
+    - {form: tirma, class: "n", field: "Kin, household and the person", gloss: "a name"}
     - form: tarona
       class: "n"
       field: "Station, rank and office"
       gloss: "a station, the order a person is born to"
     - {form: karmu, class: "n", field: "Station, rank and office", gloss: "work, labor"}
     - {form: danha, class: "n", field: "Station, rank and office", gloss: "wealth"}
-    - {form: senva, class: "n", field: "Station, rank and office", gloss: "the host, an army"}
+    - {form: senta, class: "n", field: "Station, rank and office", gloss: "the host, an army"}
     - form: karmija
       class: "n"
       field: "Station, rank and office"
@@ -636,7 +634,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a Senaja, one born to the host"
-      built: [senva, "-ja"]
+      built: [senta, "-ja"]
     - form: retuja
       class: "n"
       field: "Station, rank and office"
@@ -656,10 +654,10 @@ data:
       gloss: "a crown prince"
       built: [yuvra, rajva]
     - {form: palda, class: "n", field: "Station, rank and office", gloss: "a keeper, a protector"}
-    - {form: pavti, class: "n", field: "Station, rank and office", gloss: "a lord, a master"}
-    - {form: natra, class: "n", field: "Station, rank and office", gloss: "a lord"}
+    - {form: pavi, class: "n", field: "Station, rank and office", gloss: "a lord, a master"}
+    - {form: natka, class: "n", field: "Station, rank and office", gloss: "a lord"}
     - {form: ishvora, class: "n", field: "Station, rank and office", gloss: "a lord, a sovereign"}
-    - form: indra
+    - form: ishna
       class: "n"
       field: "Station, rank and office"
       gloss: "a chief; the foremost of a kind"
@@ -672,7 +670,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a Kulena, one of a great lineage"
-      built: [kulra, "-ina"]
+      built: [kulpa, "-ina"]
     - form: sabhra
       class: "n"
       field: "Station, rank and office"
@@ -681,7 +679,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "the presiding officer of a sabhra"
-      built: [sabhra, pavti]
+      built: [sabhra, pavi]
     - {form: "sad-", class: v, field: "Station, rank and office", gloss: "sit"}
     - form: sangra
       class: "n"
@@ -695,17 +693,17 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "the lord of a temple's domain"
-      built: [deva, pavti]
+      built: [devra, pavi]
     - form: shetrapalda
       class: "n"
       field: "Station, rank and office"
       gloss: "a keeper of fields"
-      built: [shetva, palda]
+      built: [shetka, palda]
     - form: kupapala
       class: "n"
       field: "Station, rank and office"
       gloss: "a keeper of wells"
-      built: [kuvra, palda]
+      built: [kupra, palda]
     - form: margapala
       class: "n"
       field: "Station, rank and office"
@@ -715,7 +713,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a forester"
-      built: [vanra, palda]
+      built: [vanta, palda]
     - {form: koshra, class: "n", field: "Station, rank and office", gloss: "a treasury"}
     - form: koshadyoksha
       class: "n"
@@ -741,12 +739,12 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a commander of a host"
-      built: [senva, pavti]
+      built: [senta, pavi]
     - form: senoni
       class: "n"
       field: "Station, rank and office"
       gloss: "a captain"
-      built: [senva, "-ni"]
+      built: [senta, "-ni"]
     - {form: dutsa, class: "n", field: "Station, rank and office", gloss: "an envoy"}
     - {form: montra, class: "n", field: "Station, rank and office", gloss: "counsel"}
     - form: montrin
@@ -763,7 +761,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a cut thread, one struck from a lineage"
-      built: [chinva, sutva]
+      built: [chinva, sutka]
     - form: ashreta
       class: "n"
       field: "Station, rank and office"
@@ -774,12 +772,12 @@ data:
       field: "Station, rank and office"
       gloss: "a guild-chief; a great banker"
       built: [shroshta, "-in"]
-    - {form: karha, class: "n", field: "Station, rank and office", gloss: "a doer, a maker"}
-    - form: karmakura
+    - {form: kuva, class: "n", field: "Station, rank and office", gloss: "a doer, a maker"}
+    - form: karmakuva
       class: "n"
       field: "Station, rank and office"
       gloss: "a hired worker"
-      built: [karmu, karha]
+      built: [karmu, kuva]
     - form: pratoshta
       class: "n"
       field: "Station, rank and office"
@@ -789,7 +787,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "one bound in service by a debt"
-    - form: vihra
+    - form: bihra
       class: "n"
       field: "Station, rank and office"
       gloss: "an outcaste, one outside the order"
@@ -800,18 +798,18 @@ data:
     - {form: kalsu, class: "n", field: "Station, rank and office", gloss: "the wrist"}
     - {form: ghemba, class: "n", field: "Station, rank and office", gloss: "a brand"}
     - {form: ombu, class: "n", field: "Station, rank and office", gloss: "a steward"}
-    - {form: deva, class: "n", field: "Gods, rites and the temple", gloss: "a god"}
-    - form: devi
+    - {form: devra, class: "n", field: "Gods, rites and the temple", gloss: "a god"}
+    - form: devri
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a goddess"
-      built: [deva, "-i"]
-    - {form: vorna, class: "n", field: "Gods, rites and the temple", gloss: "hue, color"}
+      built: [devra, "-i"]
+    - {form: borna, class: "n", field: "Gods, rites and the temple", gloss: "hue, color"}
     - form: varnuka
       class: name
       field: "Gods, rites and the temple"
       gloss: "the Varnuka, the gods of Vedyara"
-      built: [vorna, "-ka"]
+      built: [borna, "-ka"]
     - {form: vreta, class: "n", field: "Gods, rites and the temple", gloss: "a vow"}
     - form: vretin
       class: "n"
@@ -829,7 +827,7 @@ data:
       field: "Gods, rites and the temple"
       gloss: "the burning"
       built: ["dah-", "-ana"]
-    - {form: mulra, class: "n", field: "Gods, rites and the temple", gloss: "a root"}
+    - {form: mulka, class: "n", field: "Gods, rites and the temple", gloss: "a root"}
     - {form: "jval-", class: v, field: "Gods, rites and the temple", gloss: "blaze, kindle"}
     - form: jvelita
       class: "n"
@@ -840,7 +838,7 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a lamp"
-      built: [jvela, "-ka"]
+      built: [jvel, "-ka"]
     - {form: svopna, class: "n", field: "Gods, rites and the temple", gloss: "a dream"}
     - {form: nidva, class: "n", field: "Gods, rites and the temple", gloss: "sleep"}
     - form: nidrapala
@@ -849,7 +847,7 @@ data:
       gloss: "a keeper of sleep"
       built: [nidva, palda]
     - {form: sarhi, class: "n", field: "Gods, rites and the temple", gloss: "a follower"}
-    - {form: tri, class: num, field: "Gods, rites and the temple", gloss: "three"}
+    - {form: tre, class: num, field: "Gods, rites and the temple", gloss: "three"}
     - form: sampradeya
       class: "n"
       field: "Gods, rites and the temple"
@@ -864,7 +862,7 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a master of the three"
-      built: [tri, achorya]
+      built: [tre, achorya]
     - {form: "darsh-", class: v, field: "Gods, rites and the temple", gloss: "see"}
     - form: dorshaka
       class: "n"
@@ -872,7 +870,7 @@ data:
       gloss: "a seer"
       built: ["darsh-", "-aka"]
     - {form: "sev-", class: v, field: "Gods, rites and the temple", gloss: "serve"}
-    - form: sevoka
+    - form: seboka
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a servant"
@@ -900,19 +898,19 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a household priest"
-    - {form: gurha, class: "n", field: "Gods, rites and the temple", gloss: "a teacher"}
-    - form: rajagurha
+    - {form: gorva, class: "n", field: "Gods, rites and the temple", gloss: "a teacher"}
+    - form: rajagorva
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a king's teacher"
-      built: [rajva, gurha]
+      built: [rajva, gorva]
     - {form: prasoda, class: "n", field: "Gods, rites and the temple", gloss: "grace; an offering"}
     - form: mahaprasoda
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "the great offering"
       built: [mahva, prasoda]
-    - form: melra
+    - form: melka
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a fair, a great gathering"
@@ -920,7 +918,7 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "an estate held for a god"
-    - form: mukra
+    - form: mukru
       class: adj
       field: "Gods, rites and the temple"
       gloss: "released, freed"
@@ -933,7 +931,7 @@ data:
       gloss: "Vahrati, the Keeper of Decay"
     - {form: deksha, class: "n", field: "Gods, rites and the temple", gloss: "an initiation"}
     - {form: dorna, class: "n", field: "Gods, rites and the temple", gloss: "an altar"}
-    - {form: unvara, class: "n", field: "Gods, rites and the temple", gloss: "a hymn"}
+    - {form: untara, class: "n", field: "Gods, rites and the temple", gloss: "a hymn"}
     - {form: ombhala, class: "n", field: "Gods, rites and the temple", gloss: "a temple"}
     - {form: foshu, class: "n", field: "Gods, rites and the temple", gloss: "incense"}
     - {form: tirnu, class: "n", field: "Gods, rites and the temple", gloss: "a bell"}
@@ -947,14 +945,14 @@ data:
     - {form: ghurda, class: "n", field: "Gods, rites and the temple", gloss: "a shrine"}
     - {form: yashu, class: "n", field: "Gods, rites and the temple", gloss: "a rite"}
     - {form: votra, class: adj, field: "Gods, rites and the temple", gloss: "sacred"}
-    - {form: jivra, class: "n", field: "Gods, rites and the temple", gloss: "a soul"}
+    - {form: jitra, class: "n", field: "Gods, rites and the temple", gloss: "a soul"}
     - {form: lumbha, class: "n", field: "Death, the dead and the ancestors", gloss: "a corpse"}
     - form: dahanashila
       class: "n"
       field: "Death, the dead and the ancestors"
       gloss: "the slab of the burning, a pyre"
       built: [dahona, shilsa]
-    - form: duvasa
+    - form: dubasa
       class: "n"
       field: "Death, the dead and the ancestors"
       gloss: "a grave, a burial-place"
@@ -966,19 +964,19 @@ data:
       class: "n"
       field: "Death, the dead and the ancestors"
       gloss: "an ancestor; the ancestors"
-    - {form: virnu, class: "n", field: "Death, the dead and the ancestors", gloss: "mourning"}
-    - {form: dakra, class: "n", field: "Death, the dead and the ancestors", gloss: "a bone"}
+    - {form: birnu, class: "n", field: "Death, the dead and the ancestors", gloss: "mourning"}
+    - {form: dakta, class: "n", field: "Death, the dead and the ancestors", gloss: "a bone"}
     - {form: "dhaush-", class: v, field: "Death, the dead and the ancestors", gloss: "die"}
     - form: shorukshetra
       class: "n"
       field: "Death, the dead and the ancestors"
       gloss: "a blood-field, ground where the dead lie unburned and the way behind them never closed"
-      built: [shoru, shetva]
+      built: [shoru, shetka]
     - form: ghurakshetra
       class: "n"
       field: "Death, the dead and the ancestors"
       gloss: "a cursed field, a blood-field thin enough to kill"
-      built: [ghura, shetva]
+      built: [ghura, shetka]
     - {form: danur, class: "n", field: "War, arms and the host", gloss: "a bow"}
     - form: danurin
       class: "n"
@@ -988,8 +986,8 @@ data:
     - {form: ratsa, class: "n", field: "War, arms and the host", gloss: "a chariot"}
     - {form: arhi, class: "n", field: "War, arms and the host", gloss: "a foe"}
     - {form: vikroma, class: "n", field: "War, arms and the host", gloss: "valor, a stride"}
-    - {form: ghala, class: "n", field: "War, arms and the host", gloss: "a sword"}
-    - {form: potra, class: "n", field: "War, arms and the host", gloss: "a spear"}
+    - {form: ghal, class: "n", field: "War, arms and the host", gloss: "a sword"}
+    - {form: potka, class: "n", field: "War, arms and the host", gloss: "a spear"}
     - {form: kavra, class: "n", field: "War, arms and the host", gloss: "a shield"}
     - {form: toksha, class: "n", field: "War, arms and the host", gloss: "armor"}
     - {form: "bhaund-", class: v, field: "War, arms and the host", gloss: "fight"}
@@ -1000,10 +998,10 @@ data:
       built: ["bhaund-", "-ana"]
     - {form: petsa, class: "n", field: "War, arms and the host", gloss: "a wound"}
     - {form: lantu, class: "n", field: "War, arms and the host", gloss: "a banner"}
-    - {form: ghomu, class: "n", field: "War, arms and the host", gloss: "a drum"}
+    - {form: ghom, class: "n", field: "War, arms and the host", gloss: "a drum"}
     - {form: shilpra, class: "n", field: "Craft, trade and the counting-house", gloss: "a craft"}
     - {form: shrena, class: "n", field: "Craft, trade and the counting-house", gloss: "a guild"}
-    - {form: aduna, class: "n", field: "Craft, trade and the counting-house", gloss: "a taking"}
+    - {form: adun, class: "n", field: "Craft, trade and the counting-house", gloss: "a taking"}
     - form: vyapora
       class: "n"
       field: "Craft, trade and the counting-house"
@@ -1032,10 +1030,10 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "a weaver"
       built: [okhra, "-ka"]
-    - {form: chelu, class: "n", field: "Craft, trade and the counting-house", gloss: "cloth"}
+    - {form: chel, class: "n", field: "Craft, trade and the counting-house", gloss: "cloth"}
     - {form: lusha, class: "n", field: "Craft, trade and the counting-house", gloss: "silk"}
-    - {form: chorva, class: "n", field: "Craft, trade and the counting-house", gloss: "a dye"}
-    - form: sutva
+    - {form: chorta, class: "n", field: "Craft, trade and the counting-house", gloss: "a dye"}
+    - form: sutka
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a thread; a line of descent"
@@ -1044,16 +1042,16 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "cut, severed"
     - {form: koda, class: "n", field: "Craft, trade and the counting-house", gloss: "a pot"}
-    - form: kodaka
+    - form: kodin
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a potter"
-      built: [koda, "-ka"]
-    - form: dursaka
+      built: [koda, "-in"]
+    - form: dorsaka
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a smith"
-      built: [dursa, "-ka"]
+      built: [dorsa, "-ka"]
     - {form: ghotra, class: "n", field: "Craft, trade and the counting-house", gloss: "a market"}
     - {form: gennu, class: "n", field: "Craft, trade and the counting-house", gloss: "a ledger"}
     - {form: olgu, class: "n", field: "Craft, trade and the counting-house", gloss: "a debt"}
@@ -1061,11 +1059,11 @@ data:
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a price, a valuation"
-    - form: nyosa
+    - form: nyos
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a deposit, a thing held in trust"
-    - form: kāra
+    - form: kartu
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a maker, a craftsman of a thing"
@@ -1076,7 +1074,7 @@ data:
     - {form: dumala, class: "n", field: "Craft, trade and the counting-house", gloss: "a caravan"}
     - {form: dorma, class: "n", field: "Duty, law and judgment", gloss: "duty; the law"}
     - {form: sotya, class: "n", field: "Duty, law and judgment", gloss: "truth"}
-    - {form: orva, class: "n", field: "Duty, law and judgment", gloss: "honor"}
+    - {form: orta, class: "n", field: "Duty, law and judgment", gloss: "honor"}
     - {form: mubha, class: "n", field: "Duty, law and judgment", gloss: "shame"}
     - form: anvaru
       class: "n"
@@ -1088,16 +1086,16 @@ data:
       field: "Duty, law and judgment"
       gloss: "a judge"
       built: [davra, "-ka"]
-    - {form: vinna, class: "n", field: "Duty, law and judgment", gloss: "a judgment"}
+    - {form: vinsa, class: "n", field: "Duty, law and judgment", gloss: "a judgment"}
     - form: darshin
       class: "n"
       field: "Duty, law and judgment"
       gloss: "a witness, one who saw"
       built: ["darsh-", "-in"]
-    - {form: korvu, class: "n", field: "Duty, law and judgment", gloss: "an oath"}
+    - {form: kortu, class: "n", field: "Duty, law and judgment", gloss: "an oath"}
     - {form: vimbha, class: "n", field: "Duty, law and judgment", gloss: "forgiveness"}
     - {form: saku, class: "n", field: "Duty, law and judgment", gloss: "a proof, a token carried"}
-    - {form: vosha, class: "n", field: "Duty, law and judgment", gloss: "a lie"}
+    - {form: bosha, class: "n", field: "Duty, law and judgment", gloss: "a lie"}
     - form: lipu
       class: "n"
       field: "Speech, learning and the written word"
@@ -1112,7 +1110,7 @@ data:
       field: "Speech, learning and the written word"
       gloss: "a letter, a syllable"
     - {form: vidsa, class: "n", field: "Speech, learning and the written word", gloss: "learning"}
-    - form: vedra
+    - form: bedra
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "lore, a body of knowledge"
@@ -1131,7 +1129,7 @@ data:
       gloss: "a circle, a ring"
     - {form: shaltu, class: "n", field: "Speech, learning and the written word", gloss: "a word"}
     - {form: solma, class: "n", field: "Speech, learning and the written word", gloss: "a song"}
-    - {form: pakha, class: "n", field: "Speech, learning and the written word", gloss: "a couplet"}
+    - {form: poksa, class: "n", field: "Speech, learning and the written word", gloss: "a couplet"}
     - form: rumbha
       class: "n"
       field: "Speech, learning and the written word"
@@ -1144,7 +1142,7 @@ data:
     - {form: "bhin-", class: v, field: "Speech, learning and the written word", gloss: "hear"}
     - {form: niru, class: "n", field: "Speech, learning and the written word", gloss: "a student"}
     - {form: "tar-", class: v, field: "Doing, going and being", gloss: "cross"}
-    - form: tarana
+    - form: torona
       class: "n"
       field: "Doing, going and being"
       gloss: "a crossing, a ford"
@@ -1156,28 +1154,28 @@ data:
     - {form: "ghum-", class: v, field: "Doing, going and being", gloss: "eat"}
     - {form: "orm-", class: v, field: "Doing, going and being", gloss: "live"}
     - {form: aisu, class: num, field: Numbers and grammar words, gloss: "one"}
-    - {form: bira, class: num, field: Numbers and grammar words, gloss: "two"}
+    - {form: birsa, class: num, field: Numbers and grammar words, gloss: "two"}
     - {form: sotra, class: num, field: Numbers and grammar words, gloss: "four"}
     - {form: kunsha, class: num, field: Numbers and grammar words, gloss: "five"}
-    - {form: shauva, class: num, field: Numbers and grammar words, gloss: "six"}
+    - {form: shauka, class: num, field: Numbers and grammar words, gloss: "six"}
     - {form: netu, class: num, field: Numbers and grammar words, gloss: "seven"}
-    - {form: dauma, class: num, field: Numbers and grammar words, gloss: "eight"}
-    - {form: jaumi, class: num, field: Numbers and grammar words, gloss: "nine"}
-    - {form: tesra, class: num, field: Numbers and grammar words, gloss: "ten"}
+    - {form: daum, class: num, field: Numbers and grammar words, gloss: "eight"}
+    - {form: jaum, class: num, field: Numbers and grammar words, gloss: "nine"}
+    - {form: teska, class: num, field: Numbers and grammar words, gloss: "ten"}
     - {form: golsa, class: num, field: Numbers and grammar words, gloss: "a hundred"}
     - {form: mursha, class: num, field: Numbers and grammar words, gloss: "a thousand"}
-    - form: tesramursha
+    - form: teskamursha
       class: num
       field: Numbers and grammar words
       gloss: "ten thousand"
-      built: [tesra, mursha]
-    - {form: sarvu, class: adj, field: Numbers and grammar words, gloss: "all, every"}
+      built: [teska, mursha]
+    - {form: sartu, class: adj, field: Numbers and grammar words, gloss: "all, every"}
     - {form: mo, class: pron, field: Numbers and grammar words, gloss: "I"}
     - {form: nu, class: pron, field: Numbers and grammar words, gloss: "you"}
     - {form: ve, class: pron, field: Numbers and grammar words, gloss: "he, she"}
     - {form: mova, class: pron, field: Numbers and grammar words, gloss: "we"}
-    - {form: eha, class: pron, field: Numbers and grammar words, gloss: "this"}
-    - {form: uha, class: pron, field: Numbers and grammar words, gloss: "that"}
+    - {form: ehu, class: pron, field: Numbers and grammar words, gloss: "this"}
+    - {form: uhu, class: pron, field: Numbers and grammar words, gloss: "that"}
     - {form: jahu, class: pron, field: Numbers and grammar words, gloss: "who"}
     - {form: kevu, class: pron, field: Numbers and grammar words, gloss: "what"}
     - {form: anva, class: part, field: Numbers and grammar words, gloss: "after, following"}
@@ -1185,7 +1183,7 @@ data:
     - {form: uvas, class: part, field: Numbers and grammar words, gloss: "not"}
     - {form: bhe, class: part, field: Numbers and grammar words, gloss: "in, at"}
     - {form: ro, class: part, field: Numbers and grammar words, gloss: "of"}
-    - {form: sem, class: part, field: Numbers and grammar words, gloss: "with"}
+    - {form: shem, class: part, field: Numbers and grammar words, gloss: "with"}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -1193,36 +1191,36 @@ data:
     pattern: "{given} {clan}"
     given:
       female:
-        - "Adari"
-        - "Adarvi"
+        - "Adaki"
+        - "Adarti"
         - "Amrtesa"
-        - "Amritapadmagarba"
+        - "Amrapadma"
         - "Aruti"
         - "Asvari"
         - "Bhagoni"
-        - "Bhanuri"
+        - "Bhanuti"
         - "Bhulata"
         - "Chenduka"
         - "Chandita"
-        - "Chandrakirtisundari"
+        - "Chandreli"
         - "Devatika"
         - "Devisha"
         - "Dipala"
-        - "Gamuri"
-        - "Ishovi"
+        - "Gamuti"
+        - "Ishobi"
         - "Jasili"
-        - "Jayati"
+        - "Jayeti"
         - "Kalyanika"
-        - "Karunari"
+        - "Karunati"
         - "Kirtideva"
-        - "Kumudika"
+        - "Kumudi"
         - "Lokosha"
-        - "Lokadarmavati"
+        - "Lokavati"
         - "Mandaksha"
         - "Manduli"
         - "Manudi"
         - "Minaka"
-        - "Nandari"
+        - "Nandaki"
         - "Padmali"
         - "Pallovi"
         - "Piyadi"
@@ -1232,163 +1230,163 @@ data:
         - "Puspala"
         - "Rajonya"
         - "Rohinika"
-        - "Sagari"
-        - "Varinabhamini"
-        - "Saruni"
-        - "Satika"
-        - "Shashmira"
-        - "Shirvi"
+        - "Sagati"
+        - "Varina"
+        - "Satuni"
+        - "Sotika"
+        - "Shashmita"
+        - "Shirti"
         - "Shrimeti"
         - "Shritika"
         - "Sunati"
-        - "Surani"
+        - "Sukani"
         - "Surika"
-        - "Tamira"
-        - "Tanumaduranil"
+        - "Tamita"
+        - "Tanudi"
         - "Tarvika"
         - "Umarti"
         - "Vamiksha"
         - "Vanika"
         - "Vashani"
         - "Viduliya"
-        - "Viruti"
+        - "Vikuti"
         - "Vrnnati"
       male:
         - "Agarana"
-        - "Amarina"
+        - "Amatin"
         - "Anuraja"
-        - "Arindamabhuvana"
-        - "Balarinaja"
-        - "Balavata"
-        - "Bhalananda"
+        - "Arinda"
+        - "Balakin"
+        - "Balabata"
+        - "Bhalanand"
         - "Bhanusha"
         - "Bhrjivara"
         - "Chandarsha"
         - "Chendruka"
-        - "Devanura"
+        - "Devanur"
         - "Darmeja"
         - "Disamaya"
         - "Dulaka"
-        - "Dipanava"
+        - "Dipanaka"
         - "Drtapaja"
         - "Garunya"
-        - "Hrshavaran"
-        - "Jagasvara"
+        - "Hrshabaran"
+        - "Jagasvar"
         - "Jayarsha"
-        - "Jayavikritanita"
-        - "Kandura"
-        - "Kankamara"
-        - "Krtarana"
+        - "Jayanit"
+        - "Kanduta"
+        - "Kankamar"
+        - "Krtakana"
         - "Krvalaya"
         - "Shemanaya"
-        - "Shemasharanapala"
+        - "Shemapal"
         - "Madurava"
         - "Mahataya"
-        - "Nagarita"
+        - "Nagarit"
         - "Narayaka"
         - "Prtanaka"
         - "Prtivita"
         - "Prturaja"
-        - "Prturajavallabha"
-        - "Rajavara"
+        - "Prtubal"
+        - "Rajabar"
         - "Rajayetra"
         - "Ranishva"
-        - "Saharva"
+        - "Saharta"
         - "Sakshra"
         - "Samuta"
-        - "Samurata"
+        - "Samurat"
         - "Satyadarsha"
         - "Senata"
         - "Siddarvan"
-        - "Somavira"
+        - "Somabir"
         - "Sunarsha"
         - "Surakirti"
-        - "Suranandapala"
+        - "Sukanand"
         - "Tanavarna"
-        - "Vajrarana"
+        - "Vajratan"
         - "Varmadya"
         - "Vatesa"
         - "Vidjendra"
-        - "Vijitaka"
-        - "Vikramavirajita"
-        - "Shilavira"
+        - "Vijitak"
+        - "Vikrabir"
+        - "Shilabir"
         - "Vishvara"
-        - "Virangashikharam"
+        - "Viranga"
     clan:
-      - "Adivara"
+      - "Adibar"
       - "Adishta"
-      - "Ajarana"
-      - "Antarasena"
+      - "Ajaran"
+      - "Antarsena"
       - "Balarnaya"
       - "Bhasura"
       - "Bhimarna"
       - "Bhusharani"
-      - "Chandipala"
+      - "Chandipal"
       - "Chandratra"
-      - "Daritana"
-      - "Devaruni"
-      - "Danasura"
-      - "Daranira"
+      - "Daritan"
+      - "Devatuni"
+      - "Danasur"
+      - "Daranir"
       - "Darmapita"
       - "Diptakshana"
       - "Dukshana"
-      - "Gajavira"
-      - "Harshadevambujaka"
-      - "Javaloka"
-      - "Jayakshatravikraman"
+      - "Gajabir"
+      - "Harshakar"
+      - "Jabaloka"
+      - "Jayakshatra"
       - "Jvalayana"
-      - "Kalanata"
+      - "Kalanat"
       - "Kalira"
-      - "Karyana"
+      - "Karyona"
       - "Kayadara"
       - "Kulanaya"
-      - "Madivada"
+      - "Madibada"
       - "Mahadika"
-      - "Manadasa"
+      - "Manadas"
       - "Manrshti"
-      - "Nandivara"
+      - "Nandibar"
       - "Padmadiksha"
       - "Padmavrksha"
       - "Parikshuna"
       - "Priturshta"
       - "Prtasya"
       - "Purnaka"
-      - "Rajapali-yogideva"
-      - "Rajasena"
-      - "Ratamara"
-      - "Ratnisena"
+      - "Rajapali"
+      - "Rajasen"
+      - "Ratamar"
+      - "Ratnisen"
       - "Samudraya"
-      - "Saratina"
-      - "Shambarana"
+      - "Saratin"
+      - "Shambatan"
       - "Shraddana"
-      - "Shuravana"
+      - "Shuravan"
       - "Sukhishta"
-      - "Srnaraka"
+      - "Srnataka"
       - "Tamraksha"
       - "Tarayara"
       - "Valaka"
-      - "Varidava"
+      - "Varidaba"
       - "Vasavesha"
-      - "Vidsa-sagaramandal"
+      - "Vidsamondal"
       - "Vikramada"
       - "Virajyara"
-      - "Viranata"
-      - "Yajomana"
-      - "Anitavallabhendra"
+      - "Viranat"
+      - "Yajoman"
+      - "Anitendra"
   sounds:
     edges:
       - edge: openCluster
         sounds: [pr, tr, dr, kr, gr, br, vr, shr, sm, st, sth, sv, shv, dv, vy, ny, shy, jv, jn]
-      - {edge: closeConsonant, sounds: [m, n, r, l, s]}
+      - {edge: closeConsonant, sounds: [n, r, t, k, s, l, m, d]}
     clusters: {max: 3}
     joining:
       - {first: [a, a], second: [a, a], written: a, example: _podma_ + _avoli_ = _padmavali_}
-      - {first: [a, a], second: [i, i], written: e, example: _vyela_ + _indra_ = _vyalendra_}
+      - {first: [a, a], second: [i, i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_}
       - {first: [a, a], second: [u, ū], written: o}
       - first: [i, i]
         second: [a, a, u, ū, e, o]
         written: y+
-        example: "_tri_ + _achorya_ = _triyacharya_, a _y_ between"
+        example: "_nadri_ + _avoli_ = _nadryavoli_, a _y_ between"
       - {first: [u, ū], second: [a, a, i, i, e, o], written: v+}
   elements:
     - form: pur
@@ -1400,33 +1398,33 @@ data:
       position: closing
       kind: place
       sense: a village
-      examples: ["Lipigrama, the writing village"]
+      examples: ["Lipigram, the writing village"]
     - form: kotra
       position: closing
       kind: place
       sense: a fort
-      examples: ["Danurkota, the bow-fort"]
-    - form: girva
+      examples: ["Danurkot, the bow-fort"]
+    - form: girka
       position: closing
       kind: place
       sense: a mountain
-      examples: ["Suvarnageri, the gold mountain"]
+      examples: ["Suvargeri, the gold mountain"]
     - form: shikhena
       position: closing
       kind: place
       sense: a peak
-      examples: ["Suryashikhara, the sun's summit"]
+      examples: ["Suryashikhar, the sun's summit"]
     - form: dvarna
       position: closing
       kind: place
       sense: a pass through the wall
-      examples: ["Shunyadvara, the empty door"]
-    - form: vanra
+      examples: ["Shunyadvar, the empty door"]
+    - form: vanta
       position: closing
       kind: place
       sense: a forest or a grove
-      examples: ["Venivana, the bamboo grove"]
-    - form: shetva
+      examples: ["Veniban, the bamboo grove"]
+    - form: shetka
       position: closing
       kind: place
       sense: a field country
@@ -1435,7 +1433,7 @@ data:
       position: closing
       kind: place
       sense: a stretch of ground
-      examples: ["Vrihistali, the rice ground"]
+      examples: ["Vrihistal, the rice ground"]
     - form: padsa
       position: closing
       kind: place
@@ -1445,13 +1443,13 @@ data:
       position: closing
       kind: place
       sense: a bank or a shore
-      examples: ["Nilatira, the indigo bank"]
-    - form: ghatra
+      examples: ["Nilatir, the indigo bank"]
+    - form: ghatka
       position: closing
       kind: place
       sense: a landing
-      examples: ["Naughatta, the boat landing"]
-    - form: kuvra
+      examples: ["Naughat, the boat landing"]
+    - form: kupra
       position: closing
       kind: place
       sense: a well
@@ -1466,7 +1464,7 @@ data:
       kind: place
       sense: "a source, a glacier-spring"
       examples: ["Mahaprabhava, the great source"]
-    - form: derva
+    - form: derka
       position: closing
       kind: place
       sense: a stream
@@ -1512,20 +1510,20 @@ data:
     - {name: Framer of the Question, tongue: translation}
     - {name: Witness of Record, tongue: translation}
     - {name: Keeper of the Register, tongue: translation}
-    - {name: The Adanashreni, tongue: vedyari, built: [aduna, shrena]}
-    - {name: The Aduna, tongue: vedyari, built: [aduna]}
+    - {name: The Adanshreni, tongue: vedyari, built: [adun, shrena]}
+    - {name: The Adun, tongue: vedyari, built: [adun]}
     - {name: The Receivers, tongue: translation}
     - {name: The Shrena of Taking, tongue: translation}
     - {name: Chinnasutra, tongue: vedyari, built: [chinnasutra]}
     - {name: Ashreta, tongue: vedyari, built: [ashreta]}
     - {name: Antevosin, tongue: vedyari, built: [antevosin]}
-    - {name: Adanika, tongue: vedyari, built: [aduna, -ika]}
+    - {name: Adanika, tongue: vedyari, built: [adun, -ika]}
     - {name: Achorya, tongue: vedyari, built: [achorya]}
     - {name: Stovira, tongue: vedyari, built: [stovira]}
     - {name: Shroshtin, tongue: vedyari, built: [shroshtin]}
-    - {name: Nyasapala, tongue: vedyari, built: [nyosa, palda]}
-    - {name: Arghakara, tongue: vedyari, built: [orgha, kāra]}
-    - {name: Mudrakara, tongue: vedyari, built: [mudva, kāra]}
+    - {name: Nyasapala, tongue: vedyari, built: [nyos, palda]}
+    - {name: Arghakara, tongue: vedyari, built: [orgha, kartu]}
+    - {name: Mudrakara, tongue: vedyari, built: [mudva, kartu]}
     - {name: Margapala, tongue: vedyari, built: [margapala]}
     - {name: Dutsa, tongue: vedyari, built: [dutsa]}
     - {name: Agmi-pantra, tongue: vedyari, built: [agmi, pantra]}
@@ -1535,7 +1533,7 @@ data:
     - {name: Upasoka, tongue: vedyari, built: [upasoka]}
     - {name: Bhosma, tongue: vedyari, built: [bhosma]}
     - {name: Jvelita, tongue: vedyari, built: [jvelita]}
-    - {name: Dahona-Mulra, tongue: vedyari, built: [dahona, mulra]}
+    - {name: Dahona-Mulka, tongue: vedyari, built: [dahona, mulka]}
     - {name: Ember-Bearer, tongue: translation}
     - {name: Chapter Root, tongue: translation}
     - {name: Jnanasura, tongue: vedyari, built: [jnena, sujra]}
@@ -1557,7 +1555,7 @@ data:
     - {name: The Eternal Preserver, tongue: translation}
     - {name: The Granary Vigil, tongue: translation}
     - {name: The Fair Measure, tongue: translation}
-    - {name: Meghonata, tongue: vedyari, built: [meghra, natra]}
+    - {name: Meghonata, tongue: vedyari, built: [meghra, natka]}
     - {name: Lord of Thunder, tongue: translation}
     - {name: The Storm Watch, tongue: translation}
     - {name: The Fisher's Voyage, tongue: translation}
@@ -1581,7 +1579,7 @@ data:
     - {name: The Walk of Coals, tongue: translation}
     - {name: The Vigil in Ashes, tongue: translation}
     - {name: The Firebrand's Year, tongue: translation}
-    - {name: Svapnadevas, tongue: vedyari, built: [svopna, deva, -s]}
+    - {name: Svapnadevas, tongue: vedyari, built: [svopna, devra, -s]}
     - {name: The Dreaming Host, tongue: translation}
     - {name: The Celestial Host of Dreams, tongue: translation}
     - {name: The Seven-Night Vigil, tongue: translation}
@@ -1594,10 +1592,10 @@ data:
     - {name: Svopna-Achorya, tongue: vedyari, built: [svopna, achorya]}
     - {name: Keeper of the Dream-Record, tongue: translation}
     - {name: Chamber-Warden, tongue: translation}
-    - {name: Triyanga-sampradeya, tongue: vedyari, built: [tri, angha, sampradeya]}
+    - {name: Triyanga-sampradeya, tongue: vedyari, built: [tre, angha, sampradeya]}
     - {name: Tradition of the Three Forms, tongue: translation}
     - {name: Triyanga Tradition, tongue: translation}
-    - {name: Sevoka, tongue: vedyari, built: [sevoka]}
+    - {name: Seboka, tongue: vedyari, built: [seboka]}
     - {name: Triyacharya, tongue: vedyari, built: [triyacharya]}
     - {name: Achorya of a Form, tongue: translation}
     - {name: Keeper of the Three Rites, tongue: translation}
@@ -1610,11 +1608,11 @@ data:
     - {name: The Keeper of Decay, tongue: translation}
     - {name: The Year of Gentle Release, tongue: translation}
     - {name: The Walk of the Empty House, tongue: translation}
-    - {name: Vyalendra, tongue: vedyari, built: [vyela, indra]}
+    - {name: Vyalendra, tongue: vedyari, built: [vyela, ishna]}
     - {name: The Shaper of Worlds, tongue: translation}
     - {name: The Year of the Apprentice, tongue: translation}
     - {name: The Perfect Stone, tongue: translation}
-    - {name: Vyalendravada, tongue: vedyari, built: [vyela, indra, vadsa]}
+    - {name: Vyalendravada, tongue: vedyari, built: [vyela, ishna, vadsa]}
     - {name: The Doctrine of Vyalendra, tongue: translation}
     - {name: Vyalendran School, tongue: translation}
     - {name: Parema-Achorya, tongue: vedyari, built: [parema, achorya]}
@@ -1626,7 +1624,7 @@ data:
     - {name: The Long Caravan, tongue: translation}
     - {name: Merchant Collective, tongue: translation}
     - {name: Expelled, tongue: translation}
-    - {name: Karmakura, tongue: vedyari, built: [karmakura]}
+    - {name: Karmakuva, tongue: vedyari, built: [karmakuva]}
     - {name: Pratoshta, tongue: vedyari, built: [pratoshta]}
     - {name: Kulena House, tongue: translation}
     - {name: High Speaker of the Collective, tongue: translation}
@@ -1661,59 +1659,59 @@ data:
     - {name: Akendra, tongue: vedyari}
     - {name: Anuraja, tongue: vedyari, built: [anva, rajva]}
     - {name: Anva, tongue: calling, built: [Anuraja]}
-    - {name: Harshadevambujakar, tongue: vedyari}
+    - {name: Harshakar, tongue: vedyari}
     - {name: Chandratar, tongue: vedyari}
-    - {name: Acharyamukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
-    - {name: Chandrakirtisundari, tongue: vedyari, built: [chendra, kirta, sundeli]}
-    - {name: Chandri, tongue: calling, built: [Chandrakirtisundari]}
+    - {name: Mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
+    - {name: Chandreli, tongue: vedyari, built: [chendra, kirta, sundeli]}
+    - {name: Chandri, tongue: calling, built: [Chandreli]}
     - {name: Jayavalli, tongue: vedyari, built: [jayra, valsi]}
     - {name: Darmapalda, tongue: vedyari, built: [dorma, palda]}
-    - {name: Dharmu, tongue: calling, built: [Darmapalda]}
-    - {name: Vimuktana, tongue: vedyari}
+    - {name: Darmu, tongue: calling, built: [Darmapalda]}
+    - {name: Vimuktan, tongue: vedyari}
     - {name: Drksharana, tongue: vedyari}
     - {name: Driksha, tongue: calling, built: [Drksharana]}
     - {name: Manrshti, tongue: vedyari}
     - {name: Madurava, tongue: vedyari, built: [madru, ravha]}
     - {name: Madru, tongue: calling, built: [Madurava]}
-    - {name: Sutrapala, tongue: vedyari, built: [sutva, palda]}
+    - {name: Sutrapal, tongue: vedyari, built: [sutka, palda]}
     - {name: Minaka, tongue: vedyari}
     - {name: Parikshuna, tongue: vedyari}
     - {name: Narava, tongue: vedyari}
-    - {name: Suryatejamahananda, tongue: vedyari, built: [surva, tejva, mahva, anonda]}
+    - {name: Tejanand, tongue: vedyari, built: [surta, tejva, mahva, anonda]}
     - {name: Padmavali, tongue: vedyari, built: [podma, avoli]}
     - {name: Padmi, tongue: calling, built: [Padmavali]}
-    - {name: Danurvedakirtiraja, tongue: vedyari, built: [danur, vedra, kirta, rajva]}
+    - {name: Danurkirti, tongue: vedyari, built: [danur, bedra, kirta, rajva]}
     - {name: Pallovi, tongue: vedyari}
     - {name: Draviksha, tongue: vedyari}
     - {name: Pritarika, tongue: vedyari}
-    - {name: Priti, tongue: calling, built: [Pritarika]}
+    - {name: Pripri, tongue: calling, built: [Pritarika]}
     - {name: Padmadiksha, tongue: vedyari, built: [podma, deksha]}
     - {name: Prtimaja, tongue: vedyari}
-    - {name: Prithu, tongue: calling, built: [Prtimaja]}
+    - {name: Pritu, tongue: calling, built: [Prtimaja]}
     - {name: Kayadara, tongue: vedyari}
     - {name: Senapavi, tongue: vedyari, built: [senapavi]}
     - {name: Senu, tongue: calling, built: [Senapavi]}
     - {name: Vikramada, tongue: vedyari, built: [vikroma, -da]}
     - {name: Sunati, tongue: vedyari}
-    - {name: Jayarajavardana, tongue: vedyari, built: [jayra, rajva, vardena]}
-    - {name: Suvaratika, tongue: vedyari}
-    - {name: Suvi, tongue: calling, built: [Suvaratika]}
-    - {name: Ratnisena, tongue: vedyari}
+    - {name: Jayavarda, tongue: vedyari, built: [jayra, rajva, bardena]}
+    - {name: Suvarti, tongue: vedyari}
+    - {name: Suvi, tongue: calling, built: [Suvarti]}
+    - {name: Ratnisen, tongue: vedyari}
     - {name: Tamura, tongue: vedyari}
-    - {name: Vanika, tongue: vedyari, built: [vanra, -ika]}
-    - {name: Virangashikharam, tongue: vedyari}
-    - {name: Viru, tongue: calling, built: [Virangashikharam]}
+    - {name: Vanika, tongue: vedyari, built: [vanta, -ika]}
+    - {name: Viranga, tongue: vedyari}
+    - {name: Viru, tongue: calling, built: [Viranga]}
     - {name: Dukshana, tongue: vedyari}
     - {name: Vishali, tongue: vedyari}
     - {name: Balarnaya, tongue: vedyari}
-    - {name: Shilavira, tongue: vedyari, built: [shilsa, virda]}
-    - {name: Shilu, tongue: calling, built: [Shilavira]}
-    - {name: Vidyasagaramandala, tongue: vedyari, built: [vidsa, saghara, mondala]}
-    - {name: Vishvambharakhila, tongue: vedyari}
-    - {name: Vishvu, tongue: calling, built: [Vishvambharakhila]}
-    - {name: Ratnangadevadasa, tongue: vedyari, built: [ratva, angha, deva, dasva]}
+    - {name: Shilabir, tongue: vedyari, built: [shilsa, birda]}
+    - {name: Shilu, tongue: calling, built: [Shilabir]}
+    - {name: Vidsamondal, tongue: vedyari, built: [vidsa, saghara, mondala]}
+    - {name: Vishvakhila, tongue: vedyari}
+    - {name: Vishvu, tongue: calling, built: [Vishvakhila]}
+    - {name: Ratnadasa, tongue: vedyari, built: [ratka, angha, devra, dasu]}
     - {name: Vishvara, tongue: vedyari}
-    - {name: Mahapara, tongue: vedyari, built: [mahva, porha]}
+    - {name: Mahapar, tongue: vedyari, built: [mahva, porha]}
     - {name: Vedyari, tongue: vedyari, built: [vedyari]}
     - {name: Vedyaran Banking, tongue: translation}
     - {name: Vedyaran Currency, tongue: translation}
@@ -1729,15 +1727,15 @@ data:
     - {name: The Academy of the Patient Eye, tongue: translation}
     - {name: The Academy of the Swift Hand, tongue: translation}
     - {name: Aruti's Hermitage, tongue: translation}
-    - {name: Ashvapada, tongue: vedyari, built: [oshva, pada]}
-    - {name: Ashvatira, tongue: vedyari, built: [oshva, tirsa]}
+    - {name: Ashvapada, tongue: vedyari, built: [oshka, padu]}
+    - {name: Ashvatir, tongue: vedyari, built: [oshka, tirsa]}
     - {name: Bharanya, tongue: vedyari}
-    - {name: Lower Mahanodi Janapoda, tongue: translation}
+    - {name: Lower Mahanodi Janpoda, tongue: translation}
     - {name: Bharava, tongue: vedyari, built: [bharava]}
-    - {name: Bharava-Devabhona, tongue: vedyari, built: [bharava, deva, bhogra]}
-    - {name: The Devabhona, tongue: vedyari, built: [deva, bhogra]}
+    - {name: Bharava-Devabhona, tongue: vedyari, built: [bharava, devra, bhogra]}
+    - {name: The Devabhona, tongue: vedyari, built: [devra, bhogra]}
     - {name: The Forest Estates, tongue: translation}
-    - {name: Vihra, tongue: vedyari, built: [vihra]}
+    - {name: Bihra, tongue: vedyari, built: [bihra]}
     - {name: Bonded Servant, tongue: translation}
     - {name: Karmija, tongue: vedyari, built: [karmija]}
     - {name: Danaja, tongue: vedyari, built: [danaja]}
@@ -1748,10 +1746,10 @@ data:
     - {name: Vanapalda, tongue: vedyari, built: [vanapalda]}
     - {name: Koshapala, tongue: vedyari, built: [koshra, palda]}
     - {name: The Bharava-Devastena Hostels, tongue: translation}
-    - {name: The Bharava-Devastena, tongue: vedyari, built: [bharava, deva, stanu]}
+    - {name: The Bharava-Devastena, tongue: vedyari, built: [bharava, devra, stonu]}
     - {name: Bharavamukha, tongue: vedyari, built: [bharava, mukhva]}
     - {name: Bharavaprabhava, tongue: vedyari, built: [bharava, prabhana]}
-    - {name: Bharavavana, tongue: vedyari, built: [bharava, vanra]}
+    - {name: Bharavaban, tongue: vedyari, built: [bharava, vanta]}
     - {name: The Bharava Forest, tongue: translation}
     - {name: The Forest Country, tongue: translation}
     - {name: The Kingdom of Bharyastan, tongue: translation}
@@ -1761,12 +1759,12 @@ data:
     - {name: Yuvarava, tongue: vedyari, built: [yuvarava]}
     - {name: Montrin, tongue: vedyari, built: [montrin]}
     - {name: Purohata, tongue: vedyari, built: [purohata]}
-    - {name: Rajagurha, tongue: vedyari, built: [rajagurha]}
+    - {name: Rajagorva, tongue: vedyari, built: [rajagorva]}
     - {name: Dandanayeka, tongue: vedyari, built: [dandanayeka]}
     - {name: Koshadyoksha, tongue: vedyari, built: [koshadyoksha]}
     - {name: Bharyastan, tongue: vedyari}
-    - {name: Bhumipala, tongue: vedyari, built: [bhumri, palda]}
-    - {name: Bhumipala Land, tongue: translation}
+    - {name: Bhumipal, tongue: vedyari, built: [bhumri, palda]}
+    - {name: Bhumipal Land, tongue: translation}
     - {name: The March, tongue: translation}
     - {name: The Bow-Fort, tongue: translation}
     - {name: Chandramahi, tongue: vedyari, built: [chendra, mahvi]}
@@ -1777,24 +1775,24 @@ data:
     - {name: Kulena, tongue: vedyari, built: [kulena]}
     - {name: Nau-senapavi, tongue: vedyari, built: [nau, senapavi]}
     - {name: Chendrapur Land, tongue: translation}
-    - {name: Danurkota, tongue: vedyari, built: [danur, kotra]}
-    - {name: Danurkota Janapoda, tongue: vedyari, built: [danur, kotra, janra, pada]}
-    - {name: The Janapoda of the Bow-Fort, tongue: translation}
+    - {name: Danurkot, tongue: vedyari, built: [danur, kotra]}
+    - {name: Danurkot Janpoda, tongue: vedyari, built: [danur, kotra, janra, padu]}
+    - {name: The Janpoda of the Bow-Fort, tongue: translation}
     - {name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -aka]}
     - {name: Sabhapavi, tongue: vedyari, built: [sabhapavi]}
     - {name: Smrtibhara, tongue: vedyari, built: [smrti, bhora]}
     - {name: Senoni, tongue: vedyari, built: [senoni]}
     - {name: Danurachorya, tongue: vedyari, built: [danur, achorya]}
-    - {name: Danyagrama, tongue: vedyari, built: [danva, grima]}
+    - {name: Danyagram, tongue: vedyari, built: [danva, grima]}
     - {name: Dirmapur, tongue: vedyari, built: [dorma, pur]}
-    - {name: Middle Sarveda Janapoda, tongue: translation}
+    - {name: Middle Sarveda Janpoda, tongue: translation}
     - {name: The Drowned Capital, tongue: translation}
     - {name: The Eastern Reach, tongue: translation}
     - {name: The Forest of No Road, tongue: translation}
-    - {name: Girimarga, tongue: vedyari, built: [girva, margha]}
-    - {name: Gokshetra, tongue: vedyari, built: [gho, shetva]}
+    - {name: Girimarga, tongue: vedyari, built: [girka, margha]}
+    - {name: Gokshetra, tongue: vedyari, built: [gho, shetka]}
     - {name: The Gold Mountain, tongue: translation}
-    - {name: Suvarnageri, tongue: vedyari, built: [suvorna, girva]}
+    - {name: Suvargeri, tongue: vedyari, built: [suvorna, girka]}
     - {name: Gomarga, tongue: vedyari, built: [gho, margha]}
     - {name: The Kingdom of the Cattle-Road, tongue: translation}
     - {name: Kupapala, tongue: vedyari, built: [kupapala]}
@@ -1802,11 +1800,11 @@ data:
     - {name: The Grazian Range, tongue: translation}
     - {name: The Grazian Wall, tongue: translation}
     - {name: The Great Bazaar, tongue: translation}
-    - {name: Gudagrama, tongue: vedyari, built: [gudra, grima]}
+    - {name: Gudagram, tongue: vedyari, built: [gudra, grima]}
     - {name: The Guides' Road, tongue: translation}
-    - {name: Haritagrama, tongue: vedyari, built: [harota, grima]}
+    - {name: Haritagram, tongue: vedyari, built: [harota, grima]}
     - {name: Himashila, tongue: vedyari, built: [himra, shilsa]}
-    - {name: Hiranyadara, tongue: vedyari, built: [hirenya, derva]}
+    - {name: Hiranyadara, tongue: vedyari, built: [hirenya, derka]}
     - {name: The Hvarn, tongue: exonym:hvarn}
     - {name: Unhoused, tongue: translation}
     - {name: Taken-in, tongue: translation}
@@ -1820,25 +1818,25 @@ data:
     - {name: Storm-Reader, tongue: translation}
     - {name: Fort-carrier, tongue: translation}
     - {name: Bone-bringer, tongue: translation}
-    - {name: Ikshukshetra, tongue: vedyari, built: [ikshva, shetva]}
-    - {name: Jalaghatta, tongue: vedyari, built: [jalra, ghatra]}
-    - {name: Janapadas of Vedyara, tongue: translation}
+    - {name: Ikshukshetra, tongue: vedyari, built: [ikshva, shetka]}
+    - {name: Jalaghat, tongue: vedyari, built: [jalka, ghatka]}
+    - {name: Janpodas of Vedyara, tongue: translation}
     - {name: Mahva-Sangra of Vedyara, tongue: translation}
     - {name: The Temple-Republics of Vedyara, tongue: translation}
-    - {name: The Vedyari Janapadas, tongue: vedyari, built: [vedyari, janra, pada, -s]}
-    - {name: Sabhapavi of the Melra, tongue: translation}
+    - {name: The Vedyari Janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s]}
+    - {name: Sabhapavi of the Melka, tongue: translation}
     - {name: The Council of Three, tongue: translation}
     - {name: Circuit-Speaker, tongue: translation}
-    - {name: Jnanadvara, tongue: vedyari, built: [jnena, dvarna]}
+    - {name: Jnanadvar, tongue: vedyari, built: [jnena, dvarna]}
     - {name: The Scholars' Door, tongue: translation}
-    - {name: Kalashikhara, tongue: vedyari, built: [kalda, shikhena]}
-    - {name: Kanakasetu, tongue: vedyari, built: [kaneka, setra]}
-    - {name: Karpasagrama, tongue: vedyari, built: [karpesa, grima]}
-    - {name: Khandapura, tongue: vedyari, built: [khandra, pura]}
-    - {name: Lipigrama, tongue: vedyari, built: [lipu, grima]}
-    - {name: Madustana, tongue: vedyari, built: [madru, stanu]}
+    - {name: Kalashikhar, tongue: vedyari, built: [kalda, shikhena]}
+    - {name: Kanakasetu, tongue: vedyari, built: [kaneka, setka]}
+    - {name: Karpasagram, tongue: vedyari, built: [karpesa, grima]}
+    - {name: Khandapur, tongue: vedyari, built: [khondra, pur]}
+    - {name: Lipigram, tongue: vedyari, built: [lipu, grima]}
+    - {name: Madustan, tongue: vedyari, built: [madru, stonu]}
     - {name: The Capital of the Philosopher-Kings, tongue: translation}
-    - {name: Madustana Count, tongue: translation}
+    - {name: Madustan Count, tongue: translation}
     - {name: Prabhavakala, tongue: vedyari, built: [prabhavakala]}
     - {name: Pushpakala, tongue: vedyari, built: [pushpakala]}
     - {name: Jvalakala, tongue: vedyari, built: [jvalakala]}
@@ -1847,48 +1845,48 @@ data:
     - {name: Lipikala, tongue: vedyari, built: [lipikala]}
     - {name: Naukala, tongue: vedyari, built: [naukala]}
     - {name: Danyakala, tongue: vedyari, built: [danva, kalda]}
-    - {name: Himakala, tongue: vedyari, built: [himakala]}
+    - {name: Himrakala, tongue: vedyari, built: [himrakala]}
     - {name: Koshtakala, tongue: vedyari, built: [koshtakala]}
     - {name: Karpasakala, tongue: vedyari, built: [karpesa, kalda]}
     - {name: Sandyakala, tongue: vedyari, built: [sandva, kalda]}
-    - {name: Suryavara, tongue: vedyari, built: [suryavara]}
-    - {name: Chandravara, tongue: vedyari, built: [chandravara]}
-    - {name: Kalavara, tongue: vedyari, built: [kalavara]}
-    - {name: Meghavara, tongue: vedyari, built: [meghavara]}
-    - {name: Jnanavara, tongue: vedyari, built: [jnanavara]}
-    - {name: Kamavara, tongue: vedyari, built: [kamavara]}
-    - {name: Vyahrativara, tongue: vedyari, built: [vyahrativara]}
+    - {name: Surtar, tongue: vedyari, built: [surtar]}
+    - {name: Chendravar, tongue: vedyari, built: [chendravar]}
+    - {name: Kalavar, tongue: vedyari, built: [kalavar]}
+    - {name: Meghavar, tongue: vedyari, built: [meghavar]}
+    - {name: Jnanavar, tongue: vedyari, built: [jnanavar]}
+    - {name: Kamavar, tongue: vedyari, built: [kamavar]}
+    - {name: Vahrativar, tongue: vedyari, built: [vahrativar]}
     - {name: Haritaritu, tongue: vedyari, built: [haritaritu]}
     - {name: Diptaritu, tongue: vedyari, built: [diptaritu]}
     - {name: Varsharetu, tongue: vedyari, built: [varsharetu]}
     - {name: Hiranyaritu, tongue: vedyari, built: [hiranyaritu]}
     - {name: Shitaritu, tongue: vedyari, built: [shitaritu]}
     - {name: Tamraritu, tongue: vedyari, built: [tomra, ritru]}
-    - {name: Before the Madustana Count, tongue: translation}
+    - {name: Before the Madustan Count, tongue: translation}
     - {name: Madupada, tongue: vedyari, built: [madru, padsa]}
-    - {name: Madavana, tongue: vedyari, built: [madru, vanra]}
+    - {name: Madabana, tongue: vedyari, built: [madru, vanta]}
     - {name: The Mahajaya Temple at Bharanya, tongue: translation}
-    - {name: The Mahajaya Temple at Danurkota, tongue: translation}
+    - {name: The Mahajaya Temple at Danurkot, tongue: translation}
     - {name: Mahanodi, tongue: vedyari, built: [mahva, nadri]}
     - {name: Mahaprabhava, tongue: vedyari, built: [mahva, prabhana]}
     - {name: The March Road, tongue: translation}
-    - {name: Marukupa, tongue: vedyari, built: [marvu, kuvra]}
-    - {name: Mashakshetra, tongue: vedyari, built: [mashra, shetva]}
+    - {name: Marukupa, tongue: vedyari, built: [marku, kupra]}
+    - {name: Mashakshetra, tongue: vedyari, built: [mashra, shetka]}
     - {name: Meghra-samedra, tongue: vedyari, built: [meghra, samedra]}
     - {name: The Southern Sea, tongue: translation}
-    - {name: Meghadvara, tongue: vedyari, built: [meghra, dvarna]}
+    - {name: Meghadvar, tongue: vedyari, built: [meghra, dvarna]}
     - {name: The Storm-Door, tongue: translation}
-    - {name: Meghashikhara, tongue: vedyari, built: [meghra, shikhena]}
-    - {name: The Melra Ground, tongue: translation}
+    - {name: Meghashikhar, tongue: vedyari, built: [meghra, shikhena]}
+    - {name: The Melka Ground, tongue: translation}
     - {name: The Moon House, tongue: translation}
-    - {name: Muktoshvara, tongue: vedyari, built: [mukra, ishvora]}
+    - {name: Muktoshvara, tongue: vedyari, built: [mukru, ishvora]}
     - {name: Nadipada, tongue: vedyari, built: [nadri, padsa]}
-    - {name: Naughatta, tongue: vedyari, built: [nau, ghatra]}
-    - {name: Sarveda Mouth Janapoda, tongue: translation}
+    - {name: Naughat, tongue: vedyari, built: [nau, ghatka]}
+    - {name: Sarveda Mouth Janpoda, tongue: translation}
     - {name: Villager, tongue: translation}
-    - {name: Nilakshetra, tongue: vedyari, built: [nilra, shetva]}
-    - {name: Nilatira, tongue: vedyari, built: [nilra, tirsa]}
-    - {name: Nilavana, tongue: vedyari, built: [nilra, vanra]}
+    - {name: Nilakshetra, tongue: vedyari, built: [nilka, shetka]}
+    - {name: Nilatir, tongue: vedyari, built: [nilka, tirsa]}
+    - {name: Nilaban, tongue: vedyari, built: [nilka, vanta]}
     - {name: Nurvharn, tongue: exonym:hvarn}
     - {name: The Osket, tongue: exonym:osket}
     - {name: Roadless, tongue: translation}
@@ -1905,14 +1903,14 @@ data:
     - {name: Oskhelt, tongue: exonym:osket}
     - {name: The Palace Cellars, tongue: translation}
     - {name: The Pass-Shrines, tongue: translation}
-    - {name: Puranagrama, tongue: vedyari, built: [puratra, grima]}
-    - {name: Pushpavana, tongue: vedyari, built: [pushva, vanra]}
+    - {name: Puranagram, tongue: vedyari, built: [puratra, grima]}
+    - {name: Pushpaban, tongue: vedyari, built: [pushva, vanta]}
     - {name: Rajepur, tongue: vedyari, built: [rajva, pur]}
-    - {name: Rajepur Janapoda, tongue: vedyari, built: [rajva, pur, janra, pada]}
-    - {name: The Janapoda of the King's-Town, tongue: translation}
+    - {name: Rajepur Janpoda, tongue: vedyari, built: [rajva, pur, janra, padu]}
+    - {name: The Janpoda of the King's-Town, tongue: translation}
     - {name: The Rajavali Library, tongue: translation}
     - {name: The Rasikara Stream, tongue: translation}
-    - {name: Ratnakupa, tongue: vedyari, built: [ratva, kuvra]}
+    - {name: Ratnakupa, tongue: vedyari, built: [ratka, kupra]}
     - {name: Recitation of the Kings of Mahanodi, tongue: translation}
     - {name: The Recitation of the Kings, tongue: translation}
     - {name: Sandva-samedra, tongue: vedyari, built: [sandva, samedra]}
@@ -1921,64 +1919,64 @@ data:
     - {name: The Sandstone Altar, tongue: translation}
     - {name: Sangema, tongue: vedyari, built: [sangema]}
     - {name: The Sangra-fort, tongue: translation}
-    - {name: Shankhadvara, tongue: vedyari, built: [shonkha, dvarna]}
+    - {name: Shankhadvar, tongue: vedyari, built: [shonkha, dvarna]}
     - {name: Sarasapada, tongue: vedyari, built: [saresha, padsa]}
-    - {name: Sarveda, tongue: vedyari, built: [sarvu, -da]}
-    - {name: Sarvaprabhava, tongue: vedyari, built: [sarvu, prabhana]}
-    - {name: Setugrama, tongue: vedyari, built: [setra, grima]}
-    - {name: Shaligroma, tongue: vedyari, built: [sholi, grima]}
-    - {name: Shiravana, tongue: vedyari, built: [shirva, vanra]}
+    - {name: Sarveda, tongue: vedyari, built: [sartu, -da]}
+    - {name: Sarvaprabhava, tongue: vedyari, built: [sartu, prabhana]}
+    - {name: Setugram, tongue: vedyari, built: [setka, grima]}
+    - {name: Shaligroma, tongue: vedyari, built: [shol, grima]}
+    - {name: Shiraban, tongue: vedyari, built: [shirka, vanta]}
     - {name: Shilamukha, tongue: vedyari, built: [shilsa, mukhva]}
-    - {name: Shitakoshta, tongue: vedyari, built: [sheta, koshta]}
+    - {name: Shitakoshta, tongue: vedyari, built: [shet, koshta]}
     - {name: The Cold Chamber, tongue: translation}
-    - {name: Shunyadvara, tongue: vedyari, built: [shonya, dvarna]}
+    - {name: Shunyadvar, tongue: vedyari, built: [shonya, dvarna]}
     - {name: The Empty Door, tongue: translation}
     - {name: The Silver Gorges, tongue: translation}
     - {name: The Gorges, tongue: translation}
     - {name: The Southern Wall, tongue: translation}
     - {name: The Wall, tongue: translation}
-    - {name: Surva-samedra, tongue: vedyari, built: [surva, samedra]}
+    - {name: Surta-samedra, tongue: vedyari, built: [surta, samedra]}
     - {name: The Eastern Sea, tongue: translation}
-    - {name: The Surva-samedra Islands, tongue: translation}
+    - {name: The Surta-samedra Islands, tongue: translation}
     - {name: The Eastern Islands, tongue: translation}
-    - {name: The Surva temple, tongue: translation}
-    - {name: Suryadvara, tongue: vedyari, built: [surva, dvarna]}
+    - {name: The Surta temple, tongue: translation}
+    - {name: Suryadvar, tongue: vedyari, built: [surta, dvarna]}
     - {name: The Sun-Door, tongue: translation}
-    - {name: Suryashikhara, tongue: vedyari, built: [surva, shikhena]}
-    - {name: Suvarnageri Janapoda, tongue: vedyari, built: [suvorna, girva, janra, pada]}
-    - {name: The Janapoda of the Gold Mountain, tongue: translation}
+    - {name: Suryashikhar, tongue: vedyari, built: [surta, shikhena]}
+    - {name: Suvargeri Janpoda, tongue: vedyari, built: [suvorna, girka, janra, padu]}
+    - {name: The Janpoda of the Gold Mountain, tongue: translation}
     - {name: The Twenty-Eight, tongue: translation}
     - {name: Svapnastambha, tongue: vedyari, built: [svopna, stumbha]}
-    - {name: Tamradvara, tongue: vedyari, built: [tomra, dvarna]}
+    - {name: Tamradvar, tongue: vedyari, built: [tomra, dvarna]}
     - {name: The Copper-Door, tongue: translation}
-    - {name: Tamravana, tongue: vedyari, built: [tomra, vanra]}
-    - {name: Taranaghatta, tongue: vedyari, built: [tarana, ghatra]}
-    - {name: The Temple of Lower Suvarnageri, tongue: translation}
-    - {name: The Temple of Middle Suvarnageri, tongue: translation}
-    - {name: The Temple of Upper Suvarnageri, tongue: translation}
+    - {name: Tamraban, tongue: vedyari, built: [tomra, vanta]}
+    - {name: Taranaghat, tongue: vedyari, built: [torona, ghatka]}
+    - {name: The Temple of Lower Suvargeri, tongue: translation}
+    - {name: The Temple of Middle Suvargeri, tongue: translation}
+    - {name: The Temple of Upper Suvargeri, tongue: translation}
     - {name: The Forty Days, tongue: translation}
     - {name: The Borrowed Lamp, tongue: translation}
     - {name: The Five Grounds, tongue: translation}
     - {name: The Ferryman at the Ford, tongue: translation}
     - {name: The Measuring Cord, tongue: translation}
     - {name: The Recall, tongue: translation}
-    - {name: Tilavana, tongue: vedyari, built: [tilsa, vanra]}
+    - {name: Tilaban, tongue: vedyari, built: [tilsa, vanta]}
     - {name: Tsokhar, tongue: exonym:osket}
-    - {name: Uttaratira, tongue: vedyari, built: [uttarva, tirsa]}
-    - {name: Vanapada, tongue: vedyari, built: [vanra, padsa]}
-    - {name: Vanastoli, tongue: vedyari, built: [vanra, stalu]}
-    - {name: Vandyabhumi, tongue: vedyari, built: [vendya, bhumri]}
+    - {name: Uttaratir, tongue: vedyari, built: [uttarka, tirsa]}
+    - {name: Vanapada, tongue: vedyari, built: [vanta, padsa]}
+    - {name: Vanastoli, tongue: vedyari, built: [vanta, stalu]}
+    - {name: Vandyabhumi, tongue: vedyari, built: [bendya, bhumri]}
     - {name: The Barren Country, tongue: translation}
     - {name: The Central Plateau, tongue: translation}
-    - {name: Vandyadara, tongue: vedyari, built: [vendya, derva]}
+    - {name: Vandyadara, tongue: vedyari, built: [bendya, derka]}
     - {name: Vedyara Region, tongue: translation}
     - {name: Vedyara, tongue: vedyari, built: [vedyara]}
-    - {name: Venivana, tongue: vedyari, built: [vonu, vanra]}
-    - {name: Shikharalaya, tongue: vedyari, built: [shikhena, alaja]}
-    - {name: Virastali, tongue: vedyari, built: [virda, stalu]}
-    - {name: Vishanagrama, tongue: vedyari, built: [vishona, grima]}
-    - {name: Vrihistali, tongue: vedyari, built: [vrehi, stalu]}
-    - {name: Vrishatira, tongue: vedyari, built: [vresha, tirsa]}
+    - {name: Veniban, tongue: vedyari, built: [bonu, vanta]}
+    - {name: Shikhalaya, tongue: vedyari, built: [shikhena, alaja]}
+    - {name: Virastal, tongue: vedyari, built: [birda, stalu]}
+    - {name: Vishanagram, tongue: vedyari, built: [vishona, grima]}
+    - {name: Vrihistal, tongue: vedyari, built: [brehi, stalu]}
+    - {name: Vrishatir, tongue: vedyari, built: [bresha, tirsa]}
     - {name: Vyalendra City-State, tongue: translation}
     - {name: Loom-Master, tongue: translation}
     - {name: Speaker of the Loom-Council, tongue: translation}
@@ -1991,7 +1989,7 @@ data:
     - {name: The Western Descent, tongue: translation}
     - {name: Dranavár, tongue: exonym:khazryn}
     - {name: The Moon City, tongue: translation}
-    - {name: Suryagarha, tongue: vedyari, built: [surva, gorha]}
+    - {name: Suryagarha, tongue: vedyari, built: [surta, gorha]}
     - {name: The City of Ten Thousand Looms, tongue: translation}
     - {name: Vedyari Language, tongue: translation}
     - {name: "Ritual: Agmi-pantra", tongue: translation}
@@ -2011,12 +2009,12 @@ data:
     - {name: The Drowning of the Royal Seat, tongue: translation}
     - {name: The End of the Vyalendri Kingship, tongue: translation}
     - {name: The Highland Foundations, tongue: translation}
-    - {name: The Janapoda Form, tongue: translation}
+    - {name: The Janpoda Form, tongue: translation}
     - {name: The Kingdom of Mahanodi, tongue: translation}
     - {name: The Dissolution of Mahanodi, tongue: translation}
     - {name: The Day of the Dissolution, tongue: translation}
     - {name: The Third Compact, tongue: translation}
-    - {name: The Third Janapoda Compact, tongue: translation}
+    - {name: The Third Janpoda Compact, tongue: translation}
     - {name: The Unnumbered Age, tongue: translation}
     - {name: The Founding Age, tongue: translation}
     - {name: The Age of Kingdoms, tongue: translation}
@@ -2033,8 +2031,8 @@ data:
     - {name: The First Breaking of the Well Bargain, tongue: translation}
     - {name: The Field of Elephants, tongue: translation}
     - {name: The Moon House Settlement, tongue: translation}
-    - {name: The Fall of Marupala, tongue: translation}
-    - {name: The Raising of Bhumipala, tongue: translation}
+    - {name: The Fall of Marupal, tongue: translation}
+    - {name: The Raising of Bhumipal, tongue: translation}
     - {name: The Highland War, tongue: translation}
     - {name: The Second Breaking and the Empty Circuit, tongue: translation}
     - {name: The Empty Circuit, tongue: translation}
@@ -2045,14 +2043,14 @@ data:
     - {name: The Cut Thread, tongue: translation}
     - {name: The Nine Days of Ice, tongue: translation}
     - {name: The Silenced Hall, tongue: translation}
-    - {name: The Silenced Hall of Thirnugrama, tongue: translation}
-    - {name: Oluratarana, tongue: vedyari, built: [bhuraka, tarana]}
-    - {name: Gajastali, tongue: vedyari, built: [gajna, stalu]}
-    - {name: Lantustali, tongue: vedyari, built: [lantu, stalu]}
+    - {name: The Silenced Hall of Tirnugram, tongue: translation}
+    - {name: Olurtaran, tongue: vedyari, built: [bhuraka, torona]}
+    - {name: Gajastal, tongue: vedyari, built: [gajta, stalu]}
+    - {name: Lantustal, tongue: vedyari, built: [lantu, stalu]}
     - {name: Ludrapur, tongue: vedyari, built: [ludra, pur]}
-    - {name: Sharamukha, tongue: vedyari, built: [shirva, mukhva]}
-    - {name: Shunyakupa, tongue: vedyari, built: [shonya, kuvra]}
-    - {name: Puranastana, tongue: vedyari, built: [puratra, stanu]}
+    - {name: Sharamukha, tongue: vedyari, built: [shirka, mukhva]}
+    - {name: Shunyakupa, tongue: vedyari, built: [shonya, kupra]}
+    - {name: Puranastan, tongue: vedyari, built: [puratra, stonu]}
     - {name: The Ford of the Restless Dead, tongue: translation}
     - {name: The Elephant Ground, tongue: translation}
     - {name: The Banner Ground, tongue: translation}
@@ -2061,7 +2059,7 @@ data:
     - {name: The Raiders' Cairn, tongue: translation}
     - {name: The Crownless Forts, tongue: translation}
     - {name: The Lower Courses of Chendrapur, tongue: translation}
-    - {name: Rushaghatta, tongue: vedyari, built: [rusha, ghatra]}
+    - {name: Rushaghat, tongue: vedyari, built: [rusha, ghatka]}
     - {name: The Dust Landing, tongue: translation}
     - {name: Broker, tongue: translation}
     - {name: Holder of the Vow, tongue: translation}
@@ -2071,14 +2069,14 @@ data:
     - {name: The Chaya-vreta, tongue: vedyari}
     - {name: The Shadow-Vow, tongue: translation}
     - {name: Under the Vow, tongue: translation}
-    - {name: Sorhupura, tongue: vedyari, built: [sorhu, pura]}
+    - {name: Sorhupur, tongue: vedyari, built: [sorhu, pur]}
     - {name: The City That Kept Its Dead, tongue: translation}
-    - {name: Madukupa, tongue: vedyari, built: [madru, kuvra]}
+    - {name: Madukupa, tongue: vedyari, built: [madru, kupra]}
     - {name: The Sweet Well, tongue: translation}
-    - {name: Dahanaghatta, tongue: vedyari, built: [dahona, ghatra]}
+    - {name: Dahanaghat, tongue: vedyari, built: [dahona, ghatka]}
     - {name: The Burning Landing, tongue: translation}
-    - {name: Devanura Vasavesha, tongue: vedyari}
-    - {name: Maharava Devanura, tongue: translation}
+    - {name: Devanur Vasavesha, tongue: vedyari}
+    - {name: Maharava Devanur, tongue: translation}
     - {name: Satyadarsha Valaka, tongue: vedyari}
     - {name: Kulena Satyadarsha, tongue: translation}
     - {name: Jayarsha Padmadiksha, tongue: vedyari}
@@ -2088,39 +2086,39 @@ data:
     - {name: Herald Kalyanika, tongue: translation}
     - {name: Manduli Kulanaya, tongue: vedyari}
     - {name: Priestess Manduli, tongue: translation}
-    - {name: Nagarita Gajavira, tongue: vedyari}
-    - {name: Captain Nagarita, tongue: translation}
+    - {name: Nagarit Gajabir, tongue: vedyari}
+    - {name: Captain Nagarit, tongue: translation}
     - {name: Tarvika Tamraksha, tongue: vedyari}
     - {name: Overseer Tarvika, tongue: translation}
-    - {name: Tanavarna Shuravana, tongue: vedyari}
-    - {name: Maharaj Tanavarna Shuravana, tongue: translation}
-    - {name: Maharaj Tanavarna, tongue: translation}
-    - {name: Viduliya Danasura, tongue: vedyari}
+    - {name: Tanavarna Shuravan, tongue: vedyari}
+    - {name: Maharava Tanavarna Shuravan, tongue: translation}
+    - {name: Maharava Tanavarna, tongue: translation}
+    - {name: Viduliya Danasur, tongue: vedyari}
     - {name: High Priestess Viduliya, tongue: translation}
-    - {name: Vamiksha Ajarana, tongue: vedyari}
+    - {name: Vamiksha Ajaran, tongue: vedyari}
     - {name: Captain Vamiksha, tongue: translation}
     - {name: Vatesa Bhasura, tongue: vedyari}
     - {name: Priest Vatesa, tongue: translation}
     - {name: Garunya Tarayara, tongue: vedyari}
     - {name: Captain Garunya the Reckless, tongue: translation}
     - {name: Captain Garunya, tongue: translation}
-    - {name: Samurata Ratamara, tongue: vedyari}
-    - {name: Captain Samurata, tongue: translation}
+    - {name: Samurat Ratamar, tongue: vedyari}
+    - {name: Captain Samurat, tongue: translation}
     - {name: Prturaja Samudraya, tongue: vedyari}
     - {name: Captain-Merchant Prturaja, tongue: translation}
-    - {name: Darmeja Daranira, tongue: vedyari}
+    - {name: Darmeja Daranir, tongue: vedyari}
     - {name: Captain Darmeja, tongue: translation}
   retired:
-    - {form: Vindhyālaya, instead: Shikharalaya, why: "the Vindhya, a mountain range of Earth"}
-    - {form: Vindhyan, instead: Shikharalayan, why: "the Vindhya, a mountain range of Earth"}
+    - {form: Vindhyālaya, instead: Shikhalaya, why: "the Vindhya, a mountain range of Earth"}
+    - {form: Vindhyan, instead: Shikhalayan, why: "the Vindhya, a mountain range of Earth"}
     - {form: Vindhya, why: a mountain range of Earth}
-    - {form: Mādhavendra, instead: Madustana, why: "Mādhava, an Earth god's epithet"}
-    - {form: Madhuvindra, instead: Madustana, why: "carries indra, an Earth god's name"}
+    - {form: Mādhavendra, instead: Madustan, why: "Mādhava, an Earth god's epithet"}
+    - {form: Madhuvindra, instead: Madustan, why: "carries ishna, an Earth god's name"}
     - {form: Mādhava, why: an Earth god's epithet}
     - {form: Trimūrti, instead: Triyanga, why: the triad of three Earth gods}
-    - {form: Āyodhyārājavardhan, instead: Jayarajavardana, why: a city of Earth}
-    - {form: Vishnusha, instead: Shilavira, why: an Earth god's name}
-    - {form: Rudrata, instead: Sutrapala, why: an Earth god's name}
+    - {form: Āyodhyārājavardhan, instead: Jayavarda, why: a city of Earth}
+    - {form: Vishnusha, instead: Shilabir, why: an Earth god's name}
+    - {form: Rudrata, instead: Sutrapal, why: an Earth god's name}
     - {form: Mahādeva, instead: Mahakirti, why: a name of an Earth god}
     - {form: Mahādheva, instead: Mahakirti, why: a name of an Earth god}
     - {form: Mahādhevavikramapāl, why: a name of an Earth god}
@@ -2184,17 +2182,19 @@ Vedyari speakers are found throughout the city-states and in trading communities
 
 ## How Vedyari sounds
 
-Vedyari words are long and open, and most of their vowels are _a_. Nearly every syllable ends on a vowel. A name or a title of four or five syllables is ordinary, because Vedyari builds names and offices by setting words side by side.
+Vedyari has two registers, and they sound alike but end differently. The classical tongue of the temple, the court and the law ends its words on a vowel. The tongue of the road, the market and the house closes many words on a consonant. Most words have two or three syllables, a name is usually two words joined, and a word of four syllables is long.
 
-**The vowels.** _a_ carries most words, with _i_ and _e_ after it. _u_ and _o_ are rarer, and few words open on them. Two vowels stand together only as _ai_ and _au_.
+**The vowels.** _a_ carries most words, with _i_ and _u_ after it. _e_ and _o_ are rarer, and few words open on them. Two vowels stand together only as _ai_ and _au_.
 
-**The consonants.** _sh_, _v_, _j_, _r_, _d_, _k_, _m_, _n_, _p_ and _s_ do most of the work. _bh_ is common, as in _bharava_ and _bhurva_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghauli_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable.
+**The consonants.** _r_ and _n_ lead. The plain stops _t_, _k_, _d_ and _p_ come next, then _s_, _m_ and _v_, with _sh_ and _j_ for colour. _bh_ is common, as in _bharava_ and _bhurka_: a _b_ said with a breath after it, the two letters as the guide reads them, said together. Vedyari writes _bh_, as the guide allows a tongue whose note says so. _kh_ and _gh_ keep the guide's throat sounds and belong to a smaller, older set of words, such as _ghaul_ "night" and _okhra_ "a loom"; most of them stand at the start of a syllable. A new word reaches for a stop before a _v_ or an _r_.
 
 **Clusters.** Consonants meet in a few favoured pairs and triples inside a word: _ndr_, _shr_, _kr_, _dr_, _vr_ and _pr_. A word opens on at most two consonants together. _ksh_ stands inside a word, as in _akshora_, never at its start.
 
-**Endings.** Most words end in _-a_. A person or a thing done ends in _-ana_, _-ika_, _-in_, _-ini_ or _-ja_. A lord or a god ends in _-endra_, _-esha_ or _-deva_, and a town in _-pura_.
+**Endings.** A classical word ends on a vowel, most often _-a_: the gods _Rasikara_ and _Kalavrata_, the titles _maharava_ and _senapavi_, the words _dorma_ "duty" and _janpoda_. A person or a thing done ends in _-ana_, _-ika_, _-in_, _-ini_ or _-ja_, and a lord or a god in _-endra_, _-esha_ or _-deva_. The spoken word may close on one consonant, _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_: _lam_ "a child", _ghal_ "a sword", _daum_ "eight". A place people travel to closes the same way: a town in _-pur_, a village in _-gram_, a landing in _-ghat_, a fort in _-kot_, a pass in _-dvar_, a peak in _-shikhar_, a grove in _-ban_, a ground in _-stal_, a seat in _-stan_, a bank in _-tir_, and a keeper's land in _-pal_; a hero's name ends in _-bir_ or _-bira_; a weekday ends in _-var_. A given name ends on _-a_, _-i_ or a consonant (_Chandreli_, _Shilabir_, _Jayanit_); a clan name more often on a vowel.
 
-**What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_. It has no _ph_, which readers say as _f_. It avoids _lv_ and the heavy closing clusters of the northern tongues, and it avoids the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. Where a word would close on a consonant, it usually takes a final _-a_.
+**Built names.** A name is one word or two joined, seldom three: _Chandreli_ is _chendra_ and _sundeli_, "moon, the beautiful", and _Danurkirti_ is "bow-fame". A name of five syllables or more is an old name or a title.
+
+**What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_, which readers say as _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
 
 ## Phonology
 
@@ -2232,7 +2232,7 @@ Voiced
 
 - The retroflexes (t, d, n and r) are phonemically significant and appear frequently in speech, marking a clear articulatory tendency
 - Palatal sh and ny maintain distinctness from their dental/velar counterparts
-- Geminate consonants are common and grammatically meaningful (e.g., _Arindamabhuvana_ contains doubled nasals marking compound formation)
+- Geminate consonants are common and grammatically meaningful, marking compound formation
 
 ### Vowel System
 
@@ -2242,7 +2242,7 @@ Vedyari distinguishes five cardinal vowels, each occurring in short and long var
 
 **Diphthongs:** Common sequences include ai, au, which may function as monophthongs in rapid speech
 
-**Vocalic r:** The r-colored nucleus of a syllable is a vowel, and an _r_ standing between two consonants is that vowel: _Prtimaja_ is four syllables, _Pr-thi-ma-ja_.
+**Vocalic r:** The r-colored nucleus of a syllable is a vowel, and an _r_ standing between two consonants is that vowel: _Prtimaja_ is four syllables, _Pr-ti-ma-ja_.
 
 **Vowel Harmony Patterns:** Historically significant; elements that select for front vowels (i, e) or back vowels (a, o, u) tend to cluster within morphemes.
 
@@ -2257,10 +2257,10 @@ Syllable Structure
 : Predominantly CV or CVC; onset-heavy structure favors initial consonants
 
 Final Consonants
-: A word closes on a vowel or on _m_, _n_, _r_, _l_ or _s_; the retroflex and palatal nasals close a word in the scholars' texts
+: A word closes on a vowel or on _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_; the retroflex and palatal nasals close a word in the scholars' texts
 
 Word Length
-: Compounds are frequent and protracted; many names exceed three morphemes, yielding words of four to six syllables
+: Most words and names have two or three syllables. A name is one word or two joined, and a name of five syllables or more is an old name or a title.
 
 ## Grammar Notes
 
@@ -2294,11 +2294,11 @@ Vedyari's roots lie in an isolate family with no clear external relations, on th
 
 ### Classical Period (Age of Kingdoms)
 
-The standardization of Classical Vedyari occurred roughly 1,200 years before the present, during the reign of the philosopher-kings of [[place-madhavendra|Madustana]]. This period saw the composition of the great philosophical commentaries, legal codes, and epic narratives that remain the prestige texts of the civilization.
+The standardization of Classical Vedyari occurred roughly 1,200 years before the present, during the reign of the philosopher-kings of [[place-madustan|Madustan]]. This period saw the composition of the great philosophical commentaries, legal codes, and epic narratives that remain the prestige texts of the civilization.
 
 ### Modern Era
 
-Since [[lore-stndrdmdhv|the Standardization at Madustana]], gradual sound changes have created divergence:
+Since [[lore-stndrdmdstn|the Standardization at Madustan]], gradual sound changes have created divergence:
 
 Lenition of intervocalic stops
 : p, t and k soften to f, "th" and a throaty kh between vowels in some dialects (more pronounced in southern city-states)
@@ -2335,13 +2335,13 @@ Classical Vedyari remains largely frozen in literature and formal address, but v
 
 ## Sample Phrases
 
-Agarana dhulipati, vandikana
+Agarana dulipati, vandikana
 : _Reverential greeting; "Honored elder, I show respect"_
 
-Vedyaram tivayu, tharajisum
+Vedyaram tivayu, tarajisum
 : _Formal statement of origin; "I dwell in Vedyaram, by birthright"_
 
-Bhaktir ushtami dulithara
+Bhaktir ushtami dulitara
 : _Expression of devotion; "I hold devotion as my highest path"_
 
 Vastuna karmata vanisa?
@@ -2374,23 +2374,23 @@ Vedyari names are cosmologically and philosophically charged. A personal name st
 **Given Names (Male):**
 
 - Often compounds of two or three words, joining a virtue, a god's favor or a quality of the sun or the moon to a word for what the bearer is to be
-- Frequent elements: _palda_ (keeper), _pavti_ (lord), _rajva_ (king), _deva_ (god), _virda_ (hero), _vikroma_ (valor), _anonda_ (joy), _kirta_ (fame)
+- Frequent elements: _palda_ (keeper), _pavi_ (lord), _rajva_ (king), _-deva_ (of _devra_, a god), _birda_ (hero), _vikroma_ (valor), _anonda_ (joy), _kirta_ (fame)
 - Preferred vowel harmony creates euphonious, rhythmic quality
-- Examples: _Darmapalda_ (keeper of the law), _Senapavi_ (lord of the host), _Shilavira_ (hero of the stone), _Madurava_ (sweet voice)
+- Examples: _Darmapalda_ (keeper of the law), _Senapavi_ (lord of the host), _Shilabir_ (hero of the stone), _Madurava_ (sweet voice)
 
 **Given Names (Female):**
 
 - Similarly compound, often incorporating elements denoting grace, devotion, or cosmic principle
 - Common endings: _-i_, _-ika_ and _-a_, which close the names of both women and men
 - Deity names and sacred geographical features appear frequently
-- Examples: _Padmavali_ (a row of lotuses), _Chandrakirtisundari_ (moon-fame, the beautiful), _Vanika_ (of the grove)
+- Examples: _Padmavali_ (a row of lotuses), _Chandreli_ (moon, the beautiful), _Vanika_ (of the grove)
 
 **Clan Names:**
 
-- Typically longer, more elaborate compounds
+- A compound of two words, sometimes three
 - Often feature ancient founder names or mythological ancestral figures
 - May include place or occupational elements
-- Examples: _Danurvedakirtiraja_ (bow-lore, fame and king), _Vidyasagaramandala_ (the circle of the ocean of learning), _Suryatejamahananda_ (the sun's brilliance and great joy)
+- Examples: _Danurkirti_ (bow-fame), _Vidsamondal_ (the circle of learning), _Tejanand_ (brilliance and joy)
 
 ### Honorifics and Titles
 
@@ -2411,343 +2411,195 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 ### Male Given Names
 
 - Agarana
-- Amarina
-- Amarjuta
+- Amatin
 - Anuraja
-- Arinasha
-- Arindamabhuvana
-- Balakhandira
-- Balarinaja
-- Balasina
-- Balavata
-- Balavira
-- Bhalananda
+- Arinda
+- Balabata
+- Balakin
+- Bhalanand
 - Bhanusha
-- Bhasvara
 - Bhrjivara
-- Chandratar
-- Chandarsa
-- Chandradevavardana
+- Chandarsha
 - Chendruka
-- Devaksha
-- Devanura
-- Devanitavikram
 - Darmeja
-- Durmatala
+- Devanur
+- Dipanaka
 - Disamaya
-- Dulaka
-- Duranaya
-- Dipanava
-- Drksarana
 - Drtapaja
-- Drtapalavikranta
+- Dulaka
 - Garunya
-- Harisva
-- Hrsavaran
-- Hrsadityavarman
-- Jagasvara
-- Jayaduma
-- Jayarsa
-- Jayavikritanita
-- Jayasuryateja
-- Kandura
-- Karasha
-- Kankamara
-- Kankantavikram
-- Krtarana
-- Krtiraya
+- Hrshabaran
+- Jagasvar
+- Jayanit
+- Jayarsha
+- Kanduta
+- Kankamar
+- Krtakana
 - Krvalaya
-- Kumarala
-- Zemanaya
-- Zemasaranapala
-- Loharsa
 - Madurava
-- Mahanonda
 - Mahataya
-- Manada
-- Nagarita
-- Narava
+- Nagarit
 - Narayaka
-- Pallivata
 - Prtanaka
-- Prtimaja
 - Prtivita
+- Prtubal
 - Prturaja
-- Prsavana
-- Prturajavallabha
-- Purnaputa
-- Rajavara
-- Rajavarta
+- Rajabar
 - Rajayetra
-- Ramanava
-- Ranisva
-- Rajamitravahana
-- Saharva
-- Saharshi
+- Ranishva
+- Saharta
 - Sakshra
+- Samurat
 - Samuta
-- Samudrakirtipati
-- Samurata
-- Samrsya
-- Satyadarsa
-- Senapavi
+- Satyadarsha
 - Senata
-- Shetarana
+- Shemanaya
+- Shemapal
+- Shilabir
 - Siddarvan
-- Siddantadevendra
-- Somavira
+- Somabir
+- Sukanand
 - Sunarsha
-- Sundarka
 - Surakirti
-- Suryapati
-- Suranandapala
-- Tamura
 - Tanavarna
-- Vacharata
-- Vajrarana
-- Vallama
+- Vajratan
 - Varmadya
-- Varsananda
 - Vatesa
 - Vidjendra
-- Vijesa
-- Vijitaka
-- Vikrantya
-- Vikramavirajita
-- Virasha
-- Shilavira
-- Visvambharakhil
-- Visvara
-- Vrspati
-- Virangasikharam
-- Surana
+- Vijitak
+- Vikrabir
+- Viranga
+- Vishvara
 
 ### Female Given Names
 
-- Adari
-- Adarvi
-- Agnivari
+- Adaki
+- Adarti
+- Amrapadma
 - Amrtesa
-- Amrutika
-- Amritapadmagarba
-- Anadri
 - Aruti
-- Arpetika
 - Asvari
 - Bhagoni
-- Bhanumekha
-- Bhanuri
-- Bharoti
+- Bhanuti
 - Bhulata
-- Bhanupriyarekha
-- Chenduka
-- Chandira
 - Chandita
-- Chandrakirtisundari
-- Darmina
+- Chandreli
+- Chenduka
 - Devatika
-- Deviksha
 - Devisha
-- Daruni
 - Dipala
-- Diptika
-- Gamuri
-- Ishovi
-- Isveta
+- Gamuti
+- Ishobi
 - Jasili
-- Jayanavi
-- Jayati
-- Jvalarika
+- Jayeti
 - Kalyanika
-- Kalyaniprabhavati
-- Karunari
+- Karunati
 - Kirtideva
-- Kumarini
-- Kumudika
-- Kusavari
+- Kumudi
+- Lokavati
 - Lokosha
-- Lokita
-- Lokadarmavati
-- Manavika
 - Mandaksha
 - Manduli
-- Manrshika
 - Manudi
-- Meksira
 - Minaka
-- Manasadarindran
-- Nandari
-- Nartika
+- Nandaki
 - Padmali
 - Pallovi
-- Pirnashri
 - Piyadi
-- Prabhasundariman
 - Pritarika
-- Priyarta
-- Puruni
-- Purnashila
 - Purnika
+- Puruni
 - Puspala
-- Rajuni
 - Rajonya
-- Ramika
 - Rohinika
-- Rumini
-- Sagari
-- Samrudi
-- Varinabhamini
-- Saruni
-- Sarvangadeviyashas
-- Satika
-- Shaktini
-- Shashmira
-- Shilara
-- Shirvi
-- Shraddasuvastika
+- Sagati
+- Satuni
+- Shashmita
+- Shirti
 - Shrimeti
 - Shritika
-- Shyamuri
+- Sotika
+- Sukani
 - Sunati
-- Suprabhapadmin
-- Surani
-- Suratika
 - Surika
-- Suvaratika
-- Tamira
-- Tanumaduranil
-- Tanumrsya
+- Tamita
+- Tanudi
 - Tarvika
-- Tarovi
 - Umarti
-- Vairini
 - Vamiksha
-- Vamila
 - Vanika
+- Varina
 - Vashani
-- Vasunila
 - Viduliya
-- Vimalamadurika
-- Viruti
-- Vishali
+- Vikuti
 - Vrnnati
-- Yavati
 
 ### Clan Names
 
-- Adivara
-- Adista
-- Adityarsha
-- Ajarana
-- Amrstana
-- Antarasena
-- Avirana
+- Adibar
+- Adishta
+- Ajaran
+- Anitendra
+- Antarsena
 - Balarnaya
-- Bhamaka
 - Bhasura
 - Bhimarna
-- Bhumipala
 - Bhusharani
-- Bhumipati-devana
-- Chandipala
-- Chandraksetrabhasvar
+- Chandipal
 - Chandratra
-- Daivajyara
-- Daritana
-- Devaruni
-- Danarshta
-- Danasura
-- Danurvikrita-kirtiraja
-- Daranira
-- Darika
+- Danasur
+- Daranir
+- Daritan
 - Darmapita
-- Darmapalarajadipa
-- Diptaksana
-- Draviksha
-- Duksana
-- Gajavira
-- Harshana
-- Harsadevambujaka
-- Jambuksana
-- Javaloka
-- Jayakaru
-- Jayaksatravikraman
-- Jayavalli
+- Devatuni
+- Diptakshana
+- Dukshana
+- Gajabir
+- Harshakar
+- Jabaloka
+- Jayakshatra
 - Jvalayana
-- Kalanata
-- Kalatira
+- Kalanat
 - Kalira
-- Karunasena
-- Karyana
-- Kashtika
+- Karyona
 - Kayadara
-- Shemani
 - Kulanaya
-- Lakshitana
-- Madivada
+- Madibada
 - Mahadika
-- Mahapara
-- Manadasa
-- Maninya
-- Manrsti
-- Maridiya
-- Nandivara
-- Niranjara
+- Manadas
+- Manrshti
+- Nandibar
 - Padmadiksha
 - Padmavrksha
-- Padmisha
 - Parikshuna
-- Prabhatarambhikar
 - Priturshta
-- Prtanasena
 - Prtasya
-- Prti-rajavali
 - Purnaka
-- Purvaditya-kirtisuri
-- Rajapali-yogideva
-- Rajasena
-- Ratanaya
-- Ratamara
-- Ratnadi
-- Ratnisena
-- Ratnangadevadasa
+- Rajapali
+- Rajasen
+- Ratamar
+- Ratnisen
 - Samudraya
-- Sangirana
-- Saratina
-- Shambarana
-- Shemaraja
+- Saratin
+- Shambatan
 - Shraddana
-- Shuradiva
-- Shuravana
-- Sitiksana
+- Shuravan
+- Srnataka
 - Sukhishta
-- Sumitiya
-- Srnaraka
-- Suryatejamahanita
-- Tamraksa
+- Tamraksha
 - Tarayara
-- Vaksetra
 - Valaka
-- Valiraji
-- Varidava
-- Varmika
-- Vasavesa
-- Vatarya
-- Vidsa-sagaramandal
+- Varidaba
+- Vasavesha
+- Vidsamondal
 - Vikramada
-- Vimuktana
 - Virajyara
-- Virakanta
-- Viranata
-- Viraraja
-- Yajomana
-- Acharyamukhyedeva
-- Anitavallabhendra
-- Jayarajavardana
+- Viranat
+- Yajoman
 
 ## Vedyari Lexicon {#lexicon}
 
-A temple scribe in [[place-rajapur|Rajepur]] who teaches a newcomer to read the names on a map begins with the doors. _Dvarna_ is a door, and the passes through [[place-sthrnwall|the Southern Wall]] are doors: [[place-suryadvara|Suryadvara]] the sun's door, [[place-meghadvara|Meghadvara]] the storm's, [[place-tamradvara|Tamradvara]] the copper road's. Learn twenty such words and the map of [[place-vedyarargn|Vedyara]] reads itself, because almost every Vedyari name is two or three ordinary words set side by side.
+A temple scribe in [[place-rajepur|Rajepur]] who teaches a newcomer to read the names on a map begins with the doors. _Dvarna_ is a door, and the passes through [[place-sthrnwall|the Southern Wall]] are doors: [[place-suryadvar|Suryadvar]] the sun's door, [[place-meghadvar|Meghadvar]] the storm's, [[place-tamradvar|Tamradvar]] the copper road's. Learn twenty such words and the map of [[place-vedyarargn|Vedyara]] reads itself, because almost every Vedyari name is two or three ordinary words set side by side.
 
 This is the word-hoard of the Vedyari tongue: the words a player or a GM reaches for when a Vedyari names a child, a village, an office or a god, the rules those words obey, and the way two of them join into a third. A word made from these by those rules is a Vedyari word. The last section is a register of every Vedyari name the setting uses, with the note where each is met and the words it is made from.
 
@@ -2792,7 +2644,7 @@ Two vowels never stand side by side except as `ai` and `au`; where two words wou
 
 Two moves make every built word in this lexicon, and a new word made the same way is as good a Vedyari word as any here.
 
-**A compound.** Two words set side by side make one, and the first describes the second: _surva_ "the sun" and _dvarna_ "a door" give _suryadvara_, the sun's door. Most names of places and offices are compounds, and many have three or four members: _meghra_, _mukhva_ and _kalda_ give _meghamukhakala_, the month of the mouth of the clouds. A hyphen may stand at a seam, and where it does the two words keep their own shapes: _Surva-samedra_.
+**A compound.** Two words set side by side make one, and the first describes the second: _surta_ "the sun" and _dvarna_ "a door" give _suryadvar_, the sun's door. Most names of places and offices are compounds, and many have three or four members: _meghra_, _mukhva_ and _kalda_ give _meghamukhakala_, the month of the mouth of the clouds. A hyphen may stand at a seam, and where it does the two words keep their own shapes: _Surta-samedra_.
 
 **A suffix.** A word or a verb stem takes one of the suffixes below: _gan-_ "count" takes _-aka_ to give _ganoka_, a reckoner, and _vreta_ "a vow" takes _-in_ to give _vretin_, one under a vow.
 
@@ -2855,7 +2707,7 @@ ORDER BY position
 
 ## Making names {#making-names}
 
-**A person** carries a given name and the name of a clan, the given name first: [[being-nrvsrytjmhnnd|Narava Suryatejamahananda]] is Narava of the clan of the sun's brilliance and great joy. A given name is one word or a compound of two or three, wishing something on the child: a virtue, a god's favor, a quality of the sun or the moon. _Chandrakirtisundari_ is "moon-fame, the beautiful."
+**A person** carries a given name and the name of a clan, the given name first: [[being-nrvtjnnd|Narava Tejanand]] is Narava of the clan of brilliance and joy. A given name is one word or a compound of two or three, wishing something on the child: a virtue, a god's favor, a quality of the sun or the moon. _Chandreli_ is "moon, the beautiful."
 
 ### Given names
 
@@ -2867,7 +2719,7 @@ GROUP BY gloss ORDER BY min(position)
 
 A woman's name is often a man's word with _-i_ in place of its closing _a_: _sundora_ "beautiful" gives _sundeli_.
 
-**A clan** is named by a longer compound, three and four members being common, which keeps the founder's name or the virtue the lineage claims: _Danurvedakirtiraja_ is bow-lore, fame and king, and _Vidyasagaramandala_ is the circle of the ocean of learning. A clan name does not change with the gender of the person who carries it.
+**A clan** is named by a compound of two words, sometimes three, which keeps the founder's name or the virtue the lineage claims: _Danurkirti_ is bow-fame, and _Vidsamondal_ is the circle of learning. A clan name does not change with the gender of the person who carries it.
 
 **A place** is a compound whose last member says what kind of place it is, and whose first member says which:
 
@@ -2883,11 +2735,11 @@ FROM elements e JOIN named n ON n.label = split_part(e.examples[1], ', ', 1)
 WHERE e.language = 'thalorna-note-skill-vedyarlng' AND e.kind = 'place' ORDER BY e.position
 ```
 
-A person from a place takes _-i_: a [[place-rajapur|Rajepur]] man is a Rajapuri, a woman of [[affiliation-vyalendra2|Vyalendra]] a Vyalendri.
+A person from a place takes _-i_: a [[place-rajepur|Rajepur]] man is a Rajepuri, a woman of [[affiliation-vyalendra2|Vyalendra]] a Vyalendri.
 
-**An office** is a compound whose last member says what the holder does: _palda_ keeps (_shetrapalda_, a keeper of fields), _pavti_ presides (_sabhapavi_, the presiding officer of a sabhra), _nayeka_ leads, _adyoksha_ oversees, _achorya_ teaches. A title from a verb takes _-aka_, as _dorshaka_, a seer, or _-in_, as _vretin_, one under a vow. The great titles are compounds with _mahva_: _maharava_, _mahaprasoda_.
+**An office** is a compound whose last member says what the holder does: _palda_ keeps (_shetrapalda_, a keeper of fields), _pavi_ presides (_sabhapavi_, the presiding officer of a sabhra), _nayeka_ leads, _adyoksha_ oversees, _achorya_ teaches. A title from a verb takes _-aka_, as _dorshaka_, a seer, or _-in_, as _vretin_, one under a vow. The great titles are compounds with _mahva_: _maharava_, _mahaprasoda_.
 
-**A god** of the [[affiliation-varakpnthn|Varnuka]] is named by a compound that says what the god keeps or does: [[lore-kalavratadty|Kalavrata]] is the vow of death, [[lore-meghanathadty|Meghonata]] the lord of the clouds, [[lore-vyalendradty|Vyalendra]] the chief of beasts. A god's adjective takes _-an_, and a god's day takes _vura_.
+**A god** of the [[affiliation-vrnkpnthn|Varnuka]] is named by a compound that says what the god keeps or does: [[lore-kalavratadty|Kalavrata]] is the vow of death, [[lore-meghonatadty|Meghonata]] the lord of the clouds, [[lore-vyalendradty|Vyalendra]] the chief of beasts. A god's adjective takes _-an_, and a god's day takes _vura_.
 
 **A work** of literature or law is named in the reader's tongue by what it does, as The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] is.
 
@@ -2895,11 +2747,11 @@ A person from a place takes _-i_: a [[place-rajapur|Rajepur]] man is a Rajapuri,
 
 A woman entered on the temple roll as _Padmavali_ answers to _Padmi_ in her mother's kitchen. The long name is the formal one: it stands in records, in the temple and before a court, and it is the name a stranger uses. The short one is the _calling name_, used by kin and friends, and it is offered, never taken; the [[lore-vedyariclt|Vedyari]] culture note says what follows from that. Every calling name is cut from the given name by one rule, and it is never made from the clan name.
 
-**Counting syllables.** A syllable is counted by its vowel. Each short vowel, long vowel and diphthong is one syllable, and so is an `r` standing between two consonants, so _Prtimaja_ has four: _pr·thi·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dra·kir·ti·sun·da·ri_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _padmavali_, the merged vowel is a single syllable, _pad·ma·va·li_.
+**Counting syllables.** A syllable is counted by its vowel. Each short vowel, long vowel and diphthong is one syllable, and so is an `r` standing between two consonants, so _Prtimaja_ has four: _pr·ti·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dre·li_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _padmavali_, the merged vowel is a single syllable, _pad·ma·va·li_.
 
-**Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Dharm-_ and gives _Dharmu_, and _Padmavali_ is cut to _Padm-_ and gives _Padmi_. The letters before the cut are the given name's own, long vowels long; where a name is written with a stress mark the pages do not use, the vowel beneath it may be read short or long. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvaratika_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
+**Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Darm-_ and gives _Darmu_, and _Padmavali_ is cut to _Padm-_ and gives _Padmi_. The letters before the cut are the given name's own, long vowels long; where a name is written with a stress mark the pages do not use, the vowel beneath it may be read short or long. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvarti_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
 
-A calling name is said aloud far more often than it is written, and one sound changes on the way: a vowel `r` is spoken and written `ri`. _Prtimaja_ is cut to _Prth-_ and gives _Prithu_, and _Drksharana_ is cut to _Drksh-_ and gives _Driksha_. Apart from that, everything before the closing comes from the given name, and a calling name always closes on a vowel, so it keeps the word rules without effort.
+A calling name is said aloud far more often than it is written, and one sound changes on the way: a vowel `r` is spoken and written `ri`. _Prtimaja_ is cut to _Prit-_ and gives _Pritu_, and _Drksharana_ is cut to _Drksh-_ and gives _Driksha_. Apart from that, everything before the closing comes from the given name, and a calling name always closes on a vowel, so it keeps the word rules without effort.
 
 ```sql
 SELECT coalesce('`' || form || '`', 'the first syllable doubled') AS "Closing",
@@ -2907,7 +2759,7 @@ SELECT coalesce('`' || form || '`', 'the first syllable doubled') AS "Closing",
 FROM calling_names WHERE language = 'thalorna-note-skill-vedyarlng' ORDER BY position
 ```
 
-A calling name in _-u_ is a man's and one in _-i_ a woman's, so _Dharmu_ names a man and _Padmi_ a woman. The given names themselves are not divided this way: a short _-i_ closes a given name of either.
+A calling name in _-u_ is a man's and one in _-i_ a woman's, so _Darmu_ names a man and _Padmi_ a woman. The given names themselves are not divided this way: a short _-i_ closes a given name of either.
 
 Every Vedyari has a calling name, and the pages record it wherever the given name is long. A person whose given name runs to the number of syllables below or more carries the calling name as an alias, and the register lists it in the tongue `calling`, with the given name it is cut from in its **Built from** cell.
 
@@ -2918,21 +2770,21 @@ FROM calling_names WHERE language = 'thalorna-note-skill-vedyarlng' LIMIT 1
 
 The calling names the pages record, each cut before the second vowel of the given name:
 
-| Who                                                              | Cut       | Calling name |
-| ---------------------------------------------------------------- | --------- | ------------ |
-| [[being-anrjhrdvmbjkr\|Anuraja Harshadevambujakar]]              | _An-_     | _Anva_       |
-| [[being-chndrkrtsndrjyvl\|Chandrakirtisundari Jayavalli]]        | _Chandr-_ | _Chandri_    |
-| [[being-dhrmplvmkt\|Darmapalda Vimuktana]]                       | _Dharm-_  | _Dharmu_     |
-| [[being-drkaranamn\|Drksharana Manrshti]]                        | _Drksh-_  | _Driksha_    |
-| [[being-madhurvrdr\|Madurava Sutrapala]]                         | _Madh-_   | _Madru_      |
-| [[being-pdmvldhnrvdkrtrj\|Padmavali Danurvedakirtiraja]]         | _Padm-_   | _Padmi_      |
-| [[being-prtrkpdmdksh\|Pritarika Padmadiksha]]                    | _Prit-_   | _Priti_      |
-| [[being-prthmjkydr\|Prtimaja Kayadara]]                          | _Prth-_   | _Prithu_     |
-| [[being-senptvkrmd\|Senapavi Vikramada]]                         | _Sen-_    | _Senu_       |
-| [[being-suvrtkrtns\|Suvaratika Ratnisena]]                       | _Suv-_    | _Suvi_       |
-| [[being-vshnshvdysgrml\|Shilavira Vidyasagaramandala]]           | _Shil-_   | _Shilu_      |
-| [[being-vrgskhrmdkn\|Virangashikharam Dukshana]]                 | _Vir-_    | _Viru_       |
-| [[being-vsvmbhrkhlrtngdvds\|Vishvambharakhila Ratnangadevadasa]] | _Vishv-_  | _Vishvu_     |
+| Who                                            | Cut             | Calling name |
+| ---------------------------------------------- | --------------- | ------------ |
+| [[being-anrjhrshkr\|Anuraja Harshakar]]        | _An-_           | _Anva_       |
+| [[being-chndrljyvl\|Chandreli Jayavalli]]      | _Chandr-_       | _Chandri_    |
+| [[being-drmpldvmkt\|Darmapalda Vimuktan]]      | _Darm-_         | _Darmu_      |
+| [[being-drkaranamn\|Drksharana Manrshti]]      | _Drksh-_        | _Driksha_    |
+| [[being-madurvstrpl\|Madurava Sutrapal]]       | _Madr-_         | _Madru_      |
+| [[being-pdmvldnrkrt\|Padmavali Danurkirti]]    | _Padm-_         | _Padmi_      |
+| [[being-prtrkpdmdksh\|Pritarika Padmadiksha]]  | _Pri-_, doubled | _Pripri_     |
+| [[being-prtmjkydr\|Prtimaja Kayadara]]         | _Prit-_         | _Pritu_      |
+| [[being-senpvvkrmd\|Senapavi Vikramada]]       | _Sen-_          | _Senu_       |
+| [[being-suvrtrtnsn\|Suvarti Ratnisen]]         | _Suv-_          | _Suvi_       |
+| [[being-shlbrvdsmndl\|Shilabir Vidsamondal]]   | _Shil-_         | _Shilu_      |
+| [[being-vrngdkshn\|Viranga Dukshana]]          | _Vir-_          | _Viru_       |
+| [[being-vshvkhlrtndds\|Vishvakhila Ratnadasa]] | _Vishv-_        | _Vishvu_     |
 
 ## Attested names {#attested-names}
 

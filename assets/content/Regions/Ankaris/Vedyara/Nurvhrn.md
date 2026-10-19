@@ -22,13 +22,13 @@ The village is built differently from the [[affiliation-osketguides|Osket]] vill
 
 ## The Council
 
-The winter council sits here, in the middle of the long house, and does the whole of the Hvarn's public business in the weeks after midwinter: the coming season's crossings, the debts the last season left, the fault of anyone who lost a party, the terms on which [[place-sanghafort|the fort]] will be fed. It has no power to compel and has never needed one, because nobody who ignored it would be given a road.
+The winter council sits here, in the middle of the long house, and does the whole of the Hvarn's public business in the weeks after midwinter: the coming season's crossings, the debts the last season left, the fault of anyone who lost a party, the terms on which [[place-sangrafort|the fort]] will be fed. It has no power to compel and has never needed one, because nobody who ignored it would be given a road.
 
 ## Outside
 
-Lowlanders come here, not many and not often. A Hvarn **Fort-carrier** meeting an eastern janapoda's factor at the edge of the village for the renewal of the fort contract, which falls every third year, tells him what the visit holds: "You will be fed, and you will be shown your seal in its box. Nobody here will ask you to stay the winter, so do not wait to be asked." The [[affiliation-janpdsvdyr|Mahva-Sangra's seal]] is one of two objects in the long house kept in a box, and the Hvarn regard the traffic as a nuisance they are paid for.
+Lowlanders come here, not many and not often. A Hvarn **Fort-carrier** meeting an eastern janpoda's factor at the edge of the village for the renewal of the fort contract, which falls every third year, tells him what the visit holds: "You will be fed, and you will be shown your seal in its box. Nobody here will ask you to stay the winter, so do not wait to be asked." The [[affiliation-janpdsvdyr|Mahva-Sangra's seal]] is one of two objects in the long house kept in a box, and the Hvarn regard the traffic as a nuisance they are paid for.
 
 ## See Also
 
-- [[place-estrnreach|The Eastern Reach]] · [[affiliation-hvarnguides|the Hvarn]] · [[place-sanghafort|the Sangra-fort]]
-- [[place-jnanadvara|Jnanadvara]] · [[place-sankhadvra|Shankhadvara]]
+- [[place-estrnreach|The Eastern Reach]] · [[affiliation-hvarnguides|the Hvarn]] · [[place-sangrafort|the Sangra-fort]]
+- [[place-jnanadvar|Jnanadvar]] · [[place-shankhadvr|Shankhadvar]]

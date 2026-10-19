@@ -1,6 +1,6 @@
 ---
 shortcode: prtrkpdmdksh
-name: {full: Pritarika Padmadiksha, given: Pritarika, clan: Padmadiksha, aliases: [Priti]}
+name: {full: Pritarika Padmadiksha, given: Pritarika, clan: Padmadiksha, aliases: [Pripri]}
 type: being
 subType: character
 tags: [heroes-and-knaves, administration]
@@ -11,8 +11,8 @@ data:
   occupation: Kulena (Head of a Landholding House)
   lore: []
   culture: vedyariclt
-  homes: [suvarnagiri]
-  affiliations: {suvrgrjnpd: {rank: 6}, varakpnthn: {rank: 1}}
+  homes: [suvargeri]
+  affiliations: {suvrgrjnpd: {rank: 6}, vrnkpnthn: {rank: 1}}
   gender: female
   species: humanflk
   born: 678.164
@@ -428,7 +428,7 @@ Pritarika stands 5'6" tall with a medium build. She has rich brown skin, very da
 
 Pritarika was born into the great house of [Padmadiksha]{.name data-type="affiliation/lineage"}, one of the most ancient and respected lineages of the city-states of the [[place-vedyarargn|Vedyara Region]]. Her childhood in the sprawling family estates was one of unusual enlightenment for the era—her father, Kulena [[being-jayarshapadm|Jayarsha]], believed that women of great-house blood should receive education equal to their male counterparts in law, rhetoric, natural philosophy, and martial studies. Her mother, the learned [Amrita]{.name data-type="being/npc"}, was herself a scholar of considerable renown and passed to Pritarika a love of knowledge and an unusually compassionate worldview.
 
-The realm's traditional great houses resisted this broad education, but Kulena Jayarsha was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulena [[being-satyadarshav|Satyadarsha]] of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Satyadarsha respected her intellect, called her Priti when they were alone, and supported her gradually expanding influence in regional governance.
+The realm's traditional great houses resisted this broad education, but Kulena Jayarsha was powerful enough to defend his daughter's unusual preparation. When she came of age, these diverse skills made her indispensable in court politics. At twenty-three, she made an advantageous marriage to Kulena [[being-satyadarshav|Satyadarsha]] of a neighboring holding, uniting two significant landholdings and merging their political interests. The marriage, though arranged, proved compatible—Satyadarsha respected her intellect, called her Pripri when they were alone, and supported her gradually expanding influence in regional governance.
 
 When Satyadarsha was killed in a hunting accident at age fifty-five—an incident Pritarika suspects was not accidental—she inherited full control of both estates. Rather than remarry as tradition dictated, she declared herself steward of her late husband's house while maintaining full governance of her birth family's holdings. This unprecedented move sparked outrage among traditionalists but was ultimately accepted due to the economic prosperity her management brought to both estates.
 
@@ -492,7 +492,7 @@ Underestimation of Traditional Forces
 ### Patrons
 
 [The Scholarly Circle of Vedyara]{.name data-type="affiliation"}
-: A network of educated women from various great houses who share Pritarika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch [Shashvati]{.name data-type="being/npc"}, the circle functions as both salon and secret society.
+: A network of educated women from various great houses who share Pritarika's reforming vision. They exchange knowledge, provide mutual support, and work toward gradual transformation of Vedyaran society. Led formally by the aging matriarch [Shashveti]{.name data-type="being/npc"}, the circle functions as both salon and secret society.
 
 [The Merchant Shrenis of Three Cities]{.name data-type="affiliation"}
 : Prosperous merchant families appreciate Pritarika's liberal trade policies and protection of commerce. They provide financial support and political backing, viewing her as good for business stability.
@@ -505,16 +505,16 @@ The Common People of Her Estates
 
 ### Enemies
 
-Kulena [Montra Deshpande]{.name data-type="being/npc"}
+Kulena [Montra Deshponde]{.name data-type="being/npc"}
 : The leader of the traditionalist faction within the great houses. He views Pritarika's reforms as a mortal threat to the order of the great houses and has made it his mission to discredit her, expose weaknesses in her administration, and ultimately force her removal or replacement with a more conservative leader.
 
 The Orthodox Temple Authority
 : Certain powerful religious figures view Pritarika's support for lower-class education and her questioning of traditional gender roles as a breach of station. They denounce her from the temple dais and have barred followers who support her reforms from the temple's well and court.
 
 Unknown Assassins
-: Someone has made at least three attempts on Pritarika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshpande, foreign powers, or someone with personal motivation.
+: Someone has made at least three attempts on Pritarika's life over the past seven years—attempts that appeared accidental or coincidental but revealed patterns to her suspicious mind. She does not know whether these attacks originate from Deshponde, foreign powers, or someone with personal motivation.
 
-[Kalindi Padmadiksha]{.name data-type="being/npc"}
+[Kalendi Padmadiksha]{.name data-type="being/npc"}
 : Pritarika's younger brother, who was bypassed in the succession due to his youth and perceived lack of aptitude. He has grown bitter, viewing Pritarika's success as theft of his birthright. While not directly opposing her, his resentment simmers and may become dangerous.
 
 ### Affiliations
@@ -540,10 +540,10 @@ The Heir Problem
 : Pritarika discovers she is unable to bear children due to complications from a riding accident in her youth—something she had concealed even from herself through denial. Without an heir of her blood, her entire program of reform is vulnerable to reversal after her death. Her options are to adopt an heir, to marry despite her resistance to that institution, to restore power to the Padmadiksha line through a younger family member, or to make reforms in the law that will protect her legacy even without an heir of her body. Each option creates political complications and personal heartache.
 
 The Reformer's Dilemma
-: A rising occurs among the Karmija households of neighboring estates, which demand rights and freedoms similar to what Pritarika has granted her own territories. The uprising is brutal and destabilizing. Kulena Deshpande and traditionalists blame Pritarika for having "planted the seeds of rebellion" through her reforming policies, and they demand military action to suppress the uprising. If Pritarika supports suppression, she betrays her principles; if she refuses, she appears weak and may face her own Karmija households rising in coordinated rebellion. The situation requires nuance and cleverness to get through without catastrophic loss of life or principle.
+: A rising occurs among the Karmija households of neighboring estates, which demand rights and freedoms similar to what Pritarika has granted her own territories. The uprising is brutal and destabilizing. Kulena Deshponde and traditionalists blame Pritarika for having "planted the seeds of rebellion" through her reforming policies, and they demand military action to suppress the uprising. If Pritarika supports suppression, she betrays her principles; if she refuses, she appears weak and may face her own Karmija households rising in coordinated rebellion. The situation requires nuance and cleverness to get through without catastrophic loss of life or principle.
 
 The Courtier's Confession
-: A high-ranking official in her administration confesses to crimes—misuse of funds, betrayal of confidences, sleeping with the governor's wife—crimes that seem designed specifically to humiliate and undermine Pritarika's authority. The official claims this confession is voluntary and seeks punishment. Pritarika suspects this is a setup by Deshpande's faction to either force her into harsh punishment that makes her appear tyrannical or lenient treatment that makes her appear weak and unserious about governance. Unraveling the truth requires careful investigation while maintaining her position's credibility.
+: A high-ranking official in her administration confesses to crimes—misuse of funds, betrayal of confidences, sleeping with the governor's wife—crimes that seem designed specifically to humiliate and undermine Pritarika's authority. The official claims this confession is voluntary and seeks punishment. Pritarika suspects this is a setup by Deshponde's faction to either force her into harsh punishment that makes her appear tyrannical or lenient treatment that makes her appear weak and unserious about governance. Unraveling the truth requires careful investigation while maintaining her position's credibility.
 
 The Ritual of Succession
 : An ancient and powerful ritual known as the [Ceremony of the Eternal Lord]{.name data-type="lore/custom"} is scheduled to occur in three months—a traditional Vedyaran rite in which the oldest ruling great house confirms its succession and renews its covenant with the land through blood magic and sacred vows. Pritarika's participation is expected, and her refusal would be interpreted as rejection of the entire order of the great houses. However, a mysterious stranger—possibly sent by foreign powers—approaches her with evidence that the ritual involves practices she considers abhorrent, including ritual sacrifice and the subjugation of women. The stranger offers to help her expose the ritual's true nature and revolutionize the ceremony, but doing so would shatter centuries of tradition and alienate her from the great houses whose support she needs. She can take part in a ceremony she now finds morally compromised, or risk everything to transform it.
