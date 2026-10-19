@@ -2570,6 +2570,36 @@ data:
       field: Numbers and grammar words
       gloss: "not"
       source: {kind: inherited}
+    - form: eza
+      class: part
+      field: Numbers and grammar words
+      gloss: "opens a question"
+      source: {kind: inherited}
+    - form: areza
+      class: part
+      field: Numbers and grammar words
+      gloss: "opens a question expecting yes"
+      source: {kind: inherited}
+    - form: vez
+      class: part
+      field: Numbers and grammar words
+      gloss: "opens a question expecting no"
+      source: {kind: inherited}
+    - form: voza
+      class: part
+      field: Numbers and grammar words
+      gloss: "marks a command, before the infinitive"
+      source: {kind: inherited}
+    - form: aia
+      class: part
+      field: Numbers and grammar words
+      gloss: "opens an exclamation"
+      source: {kind: inherited}
+    - form: vethor
+      class: v
+      field: Numbers and grammar words
+      gloss: "says, said: set inside the words it reports, and has no other form"
+      source: {kind: inherited}
     - form: holethi
       class: part
       field: Numbers and grammar words
@@ -2722,9 +2752,8 @@ data:
       - "Iltheris"
   sounds:
     edges:
-      - edge: openCluster
-        sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr, khr, khl]
-      - {edge: closeConsonant, sounds: [s, n, r, l, x]}
+      - {edge: openCluster, sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
+      - {edge: closeConsonant, sounds: [s, n, r, l]}
     clusters: {max: 3}
   soundChanges:
     - name: From ancient to imperial
@@ -5355,7 +5384,7 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 **Endings.** Nouns end in _-os_, _-is_, _-a_, _-en_ or _-on_. Titles end in _-andos_, _-enos_ or _-or_. Feminine names end in _-a_ or _-enna_.
 
-**What Vylari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. It has no apostrophe.
+**What Vylari leaves out.** It has no _kh_, _gh_ or _dh_, which are Helonic's, and no _ei_ or _eu_. Its apostrophe is the catch of the ancient forms, as in _k'aralzon_, and the worn-down article _a'_ of Alessa speech.
 
 ## Two Stages
 
@@ -5370,13 +5399,13 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 ## Phonology
 
-**Consonants.** Imperial Vylari has the stops _p t k b d g_, the same stops with a breath after them (_ph th_, never said as _f_ or as in _thin_), the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, _x_ for _k_ and _s_ together, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (_t' k' d' g'_), voiced stops with a breath after them (_dh gh_), and _w_; four sound changes turned it into the imperial system, and the [[skill-vylarilng#lexicon|Vylari Lexicon]] sets them out.
+**Consonants.** Imperial Vylari has the stops _p t k b d g_, the breathed stops _f_ and _th_, the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (_t' k' d' g'_), voiced stops with a breath after them (_dh gh_), and _w_; four sound changes turned it into the imperial system, and the [[skill-vylarilng#lexicon|Vylari Lexicon]] sets them out.
 
-**Vowels.** Five vowels, _a e i o u_, each short or long. Four diphthongs: _ai au ei oi_.
+**Vowels.** Five vowels, _a e i o u_, each short or long. A long _a_, _i_ or _u_ is written double (_aa_, _ii_, _uu_); a long _e_ or _o_ is written single. Three diphthongs: _ai au oi_.
 
-**Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l x_. No more than three consonants stand together.
+**Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l_. No more than three consonants stand together.
 
-**Stress.** The stress falls on the next-to-last syllable when it is long (a long vowel, a diphthong, or a closing consonant) and otherwise on the syllable before it. It follows from the lengths. The result is the measured, falling rhythm foreigners hear in a Vylari speech: _zaros_ is stressed on _ran_, _sorima_ on _so_, _ulthalon_ on _tha_.
+**Stress.** The stress falls on the next-to-last syllable when it is long (a long vowel, a diphthong, or a closing consonant) and otherwise on the syllable before it. It follows from the lengths and is not written. The result is the measured, falling rhythm foreigners hear in a Vylari speech: _zaros_ is stressed on _ran_, _sorima_ on _so_, _ulthalon_ on _tha_.
 
 ## Grammar
 
@@ -5424,9 +5453,28 @@ The reflexive _veth-_ points back to the subject of the main verb, so in reporte
 
 Legal prose keeps the subject first and the verb last by long convention, and ordinary speech mostly does the same; High Vylari in verse and oratory sets its words as it likes. One figure is taught in every school: **the suspended sentence**, clause after clause stacked before a main verb held to the last word, so that an audience hears the whole of a plea before it learns what is being asked of it. Senate speeches are built this way, and a skilled orator can keep a chamber silent for a long minute waiting for his verb.
 
+### Asking, commanding, exclaiming
+
+A word at the head of the sentence says what kind of sentence it is, and the rest is said as a plain statement:
+
+| Word      | Opens                              | Example                                                       |
+| --------- | ---------------------------------- | ------------------------------------------------------------- |
+| _eza_     | a question                         | _Eza a' daimela falvator._ "Is the patron out?"               |
+| _areza_   | a question that expects yes        | _Areza a' thelmos lokator._ "The client has come, hasn't he?" |
+| _vez_     | a question that expects no         | _Vez humelthandar yaretor._ "It isn't resting, is it?"        |
+| _voza_    | a command, with the infinitive     | _Voza lokathen._ "Come."                                      |
+| _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen._ "Do not come."                            |
+| _aia_     | an exclamation                     | _Aia, theson._ "That thing of yours!"                         |
+
+_areza_ is _ar_, "not", joined to _eza_. Because the opening word carries the question, the command or the exclamation, written Vylari needs no question mark and no exclamation mark: a sentence of any kind ends with the plain sentence stop.
+
+### Reported speech
+
+Words spoken by someone are marked by _vethor_, "says", set after the first word or phrase of what they said: _Daimela, vethor, orfenamen._ "'Patron,' he says, 'I am in your debt.'" _vethor_ has no other form and serves for every person and time, so the speaker is named nearby or understood. Written Vylari has no quotation marks; _vethor_ shows where reported words begin, and the sentence stop where they end.
+
 ## Script & Literacy
 
-Vylari employs the [[skill-semrnscrpt|Semaron]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small bar over a long vowel where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
+Vylari employs the [[skill-semrnscrpt|Semaron]], an alphabetic script derived from the ancient imperial runes and refined over centuries into a flowing, efficient writing system. The script reads left-to-right and distinguishes capital and lowercase forms, and it marks vowel length only in schoolbooks and lawyers' copies, with a small bar over a long vowel (typed as a doubled vowel, _aa_, _ii_ or _uu_) where a misreading is possible. True literacy—the ability to read and compose continuous text—is confined to the clergy, professional scribes, and perhaps two in five of the nobility (imperial administration values educated lords, though many provincial nobles still leave reading to their clerks). Guildsmen in major cities may possess basic functional literacy (recognizing trade marks, numerals, and simple words), but even prosperous merchants rely on scribes and solicitors for contracts, correspondence, and record-keeping. In rural provinces, literacy is virtually nonexistent outside the local temple.
 
 An older runic form, [[skill-thrvrknscrpt|Tharavarkon]], persists in ceremonial and architectural contexts. The ancient imperial inscriptions use a highly formalized variant with ligatures and special marks for religious names, and they write every sound of ancient Vylari, the clicked stops among them.
 
@@ -5454,13 +5502,13 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 "Daimela, orfenamen."
 : "Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
 
-"A' thelmos lokator; a' daimela falvator."
+"A' thelmos lokator. A' daimela falvator."
 : "The client's come; the patron's out." (Alessa street speech, with the worn-down article.)
 
 "Humelthandar yaretor."
 : "It is resting." (Said of a ruin, with a straight face.)
 
-"Theson!"
+"Aia, theson."
 : "That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)
 
 ## Related Languages
@@ -5512,7 +5560,7 @@ Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronounci
 
 ### Word edges
 
-A word opens on a vowel, on one consonant, or on a stop followed by `l` or `r`, and the table names those pairs. A word closes on a vowel or on one of five consonants. A verb stem is bound and never closes a word, so it may end on any consonant. The edges are the same in both stages.
+A word opens on a vowel, on one consonant, or on a stop followed by `l` or `r`, and the table names those pairs. A word closes on a vowel or on one of four consonants. A verb stem is bound and never closes a word, so it may end on any consonant. The edges are the same in both stages.
 
 ```sql
 SELECT CASE edge WHEN 'openCluster' THEN 'Pairs that may open a word' WHEN 'closeConsonant' THEN 'Consonants that close a word' END AS "Edge", coalesce(nullif(array_to_string(list_transform(sounds, x -> '`' || x || '`'), ', '), ''), '—') AS "Sounds"
