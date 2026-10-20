@@ -730,7 +730,7 @@ Voiced
 
 **Liquids & Semi-vowels:** l, r, w, y
 
-**Distinctive Glottal:** the catch, a glottal stop that is phonemically significant. The spelling writes it with an apostrophe, and both scripts write it as a sign of its own: the Qalezu sign is drawn wherever the apostrophe stands.
+**Distinctive Glottal:** the catch, a glottal stop that is phonemically significant. The spelling writes it with an apostrophe. Khelathi-zethu writes it as a sign of its own. Qalezu writes a catch before a consonant as three reed dabs in a triangle over that consonant, and keeps a catch sign of its own only where no consonant follows, as at the end of _Uqa'a_ or the start of _Au'Khelathu_.
 
 **Gemination:** Double consonants appear frequently and carry grammatical weight (particularly in verbal and nominal derivations).
 
