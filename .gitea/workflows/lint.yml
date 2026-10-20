@@ -148,6 +148,12 @@ jobs:
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/qalezu-hand/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khelathi.md"
 
+            - name: Semaron Kuriale
+              if: ${{ !cancelled() }}
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/semaron-kuriale/guard.py"
+                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vylari.md"
+
     lint:
         name: Content, prose, and registry checks
         runs-on: lint
