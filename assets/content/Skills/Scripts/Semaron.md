@@ -23,13 +23,13 @@ As with any script, it is a writing system and not a tongue. A character needs *
 
 ## The letters
 
-The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Tharavarkon]], but centuries of reed and quill have rounded every angle out of them. Strokes are continuous and slightly forward-leaning; the pen is meant to leave the page as seldom as possible. The twenty-four letters are the sounds of Vylari plus _j_ and _w_ for its neighbours' tongues, and a sound with no letter of its own is spelled out from the letters there are: _ch_ is written _t_ and _sh_. Vowel length is carried by a bar above the letter, typed by doubling the vowel (_aa_, _ii_, _uu_), and the breathed _f_ and _th_ by a small hook, which is why a hurried provincial hand is so often ambiguous about precisely which lord is meant. The script has no quotation marks: a Vylari writer marks reported speech with the word _vethor_.
+The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Tharavarkon]], but centuries of reed and quill have rounded every angle out of them. Strokes are continuous and slightly forward-leaning; the pen is meant to leave the page as seldom as possible. The twenty-four letters are the sounds of Vylari plus _j_ and _w_ for its neighbours' tongues, and a sound with no letter of its own is spelled out from the letters there are: _ch_ is written _t_ and _sh_. Vowel length is carried by a curl above the letter, typed by doubling the vowel (_aa_, _ii_, _uu_), and the breathed _f_ and _th_ by a small hook, which is why a hurried provincial hand is so often ambiguous about precisely which lord is meant. The script has no quotation marks: a Vylari writer marks reported speech with the word _vethor_. One diamond point, set at mid-height, marks every pause, from a comma to the end of a sentence. A glottal stop is a short stroke above the letter it follows, on any letter, so the catch in _k'aralzon_ is a stroke over its _k_; it is how a Vylari writer spells the catch in a foreign name such as _Au'Khelathu_, and the script has no hyphen, so the break in a built name is written the same way.
 
 ## Hands
 
 [[affiliation-imprlscrblgld|The Guild]] recognizes three, and a reader's fluency is not the same in all of them:
 
-- **_Semaron Kuriale_**, the chancery hand—upright, wide-spaced, unligatured, and slow. Edicts, land registers, treaty texts, anything that must still be legible in two hundred years.
+- **_Semaron Kuriale_**, the chancery hand—forward-leaning, close-set, unligatured, and slow. Edicts, land registers, treaty texts, anything that must still be legible in two hundred years.
 - **_Semaron Kursiva_**, the running hand—the daily hand of clerks, factors and correspondents, heavily ligatured and abbreviated, three times faster to write and markedly harder to read. Most surviving Vylarian documents are in it.
 - **Provincial hands**—the local drifts of the cursive, in [[place-hylen|Hilen]] and [[place-alyssa|Alessa]] and the frontier garrisons. A scribe raised on one reads another slowly.
 
