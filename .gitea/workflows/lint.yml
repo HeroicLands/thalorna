@@ -104,10 +104,54 @@ jobs:
               if: ${{ !cancelled() }}
               run: node --test 'utils/**/*.test.mjs'
 
+    # Every Khazari, Nordmal and Khelathi word in this pull request's language
+    # notes is set through its font; a word the font cannot set fails by name.
+    # The fonts and guards come from the public fonts repository's `main`.
+    fonts:
+        name: Font lexicon guards
+        runs-on: lint
+
+        steps:
+            - name: Checkout code
+              uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+
+            - name: Fetch the fonts
+              run: git clone --depth 1 https://github.com/HeroicLands/fonts.git "$RUNNER_TEMP/fonts"
+
+            # Only what the guards import, at the versions the fonts pin.
+            - name: Install the guards' packages
+              run: |
+                  grep -iE '^(fonttools|uharfbuzz|pillow|pyyaml)==' "$RUNNER_TEMP/fonts/requirements.txt" > "$RUNNER_TEMP/guard-requirements.txt"
+                  python3 -m venv "$RUNNER_TEMP/venv"
+                  "$RUNNER_TEMP/venv/bin/pip" install --quiet -r "$RUNNER_TEMP/guard-requirements.txt"
+
+            - name: Pirzath Carved
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/pirzath/guard.py"
+                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khazari.md"
+
+            - name: Pirzath Hand
+              if: ${{ !cancelled() }}
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/pirzath-hand/guard.py"
+                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khazari.md"
+
+            - name: Thuravark Carved
+              if: ${{ !cancelled() }}
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/thuravark-carved/guard.py"
+                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Nordmal.md"
+
+            - name: Qalezu Hand
+              if: ${{ !cancelled() }}
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/qalezu-hand/guard.py"
+                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khelathi.md"
+
     lint:
         name: Content, prose, and registry checks
         runs-on: lint
-        needs: [format, guards, build]
+        needs: [format, guards, fonts, build]
         if: ${{ !cancelled() }}
 
         steps:
