@@ -20,7 +20,7 @@ The Deep Forest covers the western and northern reaches of [[place-klhrbowl|the 
 
 ## The Lineages
 
-The forest is held in reaches, each by its own lineage, and the Kuathivoel hold the oldest stand, on the northern shore of the lake; the [Maethukoa]{.name data-type="affiliation/lineage"} and others hold the reaches between it and the Ring. The forest lineages live by hunting and gathering, taking from their reaches what the [Whole]{.name data-type="lore/cosmology"} can spare and recording in their [sílhari]{.name data-type="lore/custom"} manuals what they take. The forest holds beasts and birds found nowhere else on the island, and no naturalist from abroad has seen them.
+The forest is held in reaches, each by its own lineage, and the Kuathivoel hold the oldest stand, on the northern shore of the lake; the [Maethukoa]{.name data-type="affiliation/lineage"} and others hold the reaches between it and the Ring. The forest lineages live by hunting and gathering, taking from their reaches what the [Whole]{.name data-type="lore/cosmology"} can spare and keeping in their [sílhari]{.name data-type="lore/custom"} accounts what they take. The forest holds beasts and birds found nowhere else on the island, and no naturalist from abroad has seen them.
 
 ## What Is Seen from It
 

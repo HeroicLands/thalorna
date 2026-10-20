@@ -36,7 +36,7 @@ data:
       Ledge-Walker: >-
         Held by Kin of the Lineage. Guides others along the ledge road, the one way down the gorge, and knows where the lower ledge goes under in Deepwater.
       Keeper of the Marks: >-
-        Held by Kin of the Lineage. Keeps the lineage's marks on the gorge wall, by which the rise of the lake is measured, and the record of each season's reading.
+        Held by Kin of the Lineage. Keeps the lineage's marks on the gorge wall, by which the rise of the lake is measured, and the recitation of each season's reading.
       Keeper of the Ledge: >-
         Held by Kin of the Lineage. Holds the ledge road and says when it is closed.
   seat: kuethori

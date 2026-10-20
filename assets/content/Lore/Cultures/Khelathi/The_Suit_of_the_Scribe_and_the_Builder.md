@@ -138,7 +138,7 @@ The Builder sat on his own step. He thought about it as a builder thinks, which 
 
 _\[The Scale's chair is carried in: two boys with the beam on a pole between them, who set it down and then stand either side of the chair for the whole hearing and do not move. The Scale does not move either. Whoever plays the Scale does not drink until the song. The drum rests at her name, and rests longer than at the others.\]_
 
-Qe'aret came and sat on the mound with the scale before her and the feather on it. She had laid law on the dark before there was ground to lay it on, and a mound was ground, and ground would do. The two brothers came before her, and the door came too, because the man was still in it.
+Qe'aret came and sat on the mound with the beam before her and the two tablets level on it. She had laid law on the dark before there was ground to lay it on, and a mound was ground, and ground would do. The two brothers came before her, and the door came too, because the man was still in it.
 
 "Who is the plaintiff?"
 

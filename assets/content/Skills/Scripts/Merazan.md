@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Abjad}}
 ---
 
-The Merazan, the ledger-hand, is the writing of [[place-taruzelrgn|Taruzel]] and the oldest working script in the west—twenty-four letters, all of them consonants, written left to right, with the vowels supplied by the reader out of context or added above and below the line as circumflex, macron and acute. It descends from the proto-Ankarian writing that also produced [[skill-dnshkscrpt|Dunshak]] and [[skill-okhthztscrpt|Okhatha-zethu Script]]; the three are visibly cousins and mutually unreadable.
+The Merazan, the ledger-hand, is the writing of [[place-taruzelrgn|Taruzel]] and the working script of the western counting-houses—twenty-four letters, all of them consonants, written left to right. They are the signs of [[skill-qalzscrscrpt|Qalezu]], carried west by the merchants who dealt with the Khelathi bureaus, and the Taruzeli addition is the vowels, supplied by the reader out of context or added above and below the line as circumflex, macron and acute. [[skill-okhthztscrpt|Okhatha-zethu Script]] is the other variety of the same signs.
 
 It is a script, not a tongue: a character needs **both** the Merazan and the relevant [[sohl-none-docskill-lang|Language]]. It carries [[skill-taruzelilng|Taruzeli]] natively, [[skill-valtarlng|Valtari]] in the southern ports, and, in the hands of a factor working far from home, whatever else needs recording.
 
@@ -35,4 +35,4 @@ The nobility, the clergy, and the professional scribes. Guild merchants hold wha
 
 ## In play
 
-Reading unpointed Merazan that a character did not expect—an old letter, a name on a boundary marker, an inscription with the vowels worn off—is the standard difficulty; the reader will produce _a_ reading, confidently, and it may be the wrong word entirely. Pointed commercial text is easy by comparison. Note also the direction: a Taruzeli factor and a Dunhari poet, both literate, both writing an abjad, cannot read each other at all, and one of them is writing the other way round.
+Reading unpointed Merazan that a character did not expect—an old letter, a name on a boundary marker, an inscription with the vowels worn off—is the standard difficulty; the reader will produce _a_ reading, confidently, and it may be the wrong word entirely. Pointed commercial text is easy by comparison. Note also the pointing: a Taruzeli factor and an Okhari scribe write the same signs, and each finds the other's vowel marks a foreign hand.

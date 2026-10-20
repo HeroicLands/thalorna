@@ -11,7 +11,7 @@ data:
   templatePriority: null
   demonym: null
   epithet: Guardian of Night Visions
-  symbol: Crescent moon with a single protective eye
+  symbol: Sleeper's headrest cradled in a crescent, with a small four-pointed vigil-star above
   governance:
     model: theocracy
     summary: >-
@@ -58,9 +58,9 @@ That is the whole of the god's work, as the faith understands it, in one exchang
 
 ## The Guardian of the Threshold
 
-Under the long southern sun and a river whose floods reshape the land in cycles both predictable and mysterious, the Khelathi treat sleep as more than rest. In their teaching, it is _a sacred passage into the otherworld_, when mortals commune with the divine and the dead, when prophecy runs like water and truth shows itself free of the constraints of daylight. Nehle'at stands guard at the threshold between the worlds and shields the sleeper from hostile spirits and darker forces that stalk the night. His crescent moon is the night and also the rhythm by which mortals renew themselves.
+Under the long southern sun and a river whose floods reshape the land in cycles both predictable and mysterious, the Khelathi treat sleep as more than rest. In their teaching, it is _a sacred passage into the otherworld_, when mortals commune with the divine and the dead, when prophecy runs like water and truth shows itself free of the constraints of daylight. Nehle'at stands guard at the threshold between the worlds and shields the sleeper from hostile spirits and darker forces that stalk the night. The crescent that cradles his headrest is the night and also the rhythm by which mortals renew themselves.
 
-The eye at the center of his symbol is the [All-Seeing Eye]{.name data-type="lore"}, represented as eternally vigilant and never closing while mortals rest. It is held to watch dreams for signs of divine communication and tell the true visions the gods send from the meaningless phantasms of an unsettled mind. In that role Nehle'at is an intermediary: he filters and interprets the gods' messages so that a mortal can take them in without a mind shattered by unmediated revelation.
+The small four-pointed star above the headrest is the [All-Seeing Eye]{.name data-type="lore"}, the vigil-star, eternally watchful and never closing while mortals rest. It is held to watch dreams for signs of divine communication and tell the true visions the gods send from the meaningless phantasms of an unsettled mind. In that role Nehle'at is an intermediary: he filters and interprets the gods' messages so that a mortal can take them in without a mind shattered by unmediated revelation.
 
 All ranks of Khelathi society venerate him. The poorest farmer sleeps under the stars in the open fields, exposed to physical and spiritual dangers, and trusts Nehle'at to protect him. The wealthy merchant sleeps in a secure chamber ringed with servants and guards, and believes Nehle'at still watches his dreams and may deliver visions that guide his trade. The [[lore-garauu|Gar-Au]] himself, the divine anchor of the kingdom, relies on Nehle'at to bring true prophecy in sleep so that he can rule with divine wisdom.
 
@@ -88,7 +88,7 @@ Many seers, oracles and dream-interpreters who were never ordained by a temple s
 
 ## Relations
 
-The faith works with the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], which venerates [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and divine knowledge. In their theology, he records and preserves truth in the waking hours; Nehle'at delivers truth in visions during sleep. Reth'Sa'ar's ibis-quill writes on golden scrolls, and Nehle'at's eye reads the symbols the gods write in the night sky and in mortal consciousness alike. Many theologians hold the two to be aspects of one cosmic principle, the preservation and communication of divine truth.
+The faith works with the [[affiliation-rethsaar|Faith of Reth'Sa'ar]], which venerates [[lore-rethsaardty|Reth'Sa'ar]], god of wisdom and divine knowledge. In their theology, he records and preserves truth in the waking hours; Nehle'at delivers truth in visions during sleep. Reth'Sa'ar's ibis-quill writes on golden scrolls, and Nehle'at's vigil-star reads the symbols the gods write in the night sky and in mortal consciousness alike. Many theologians hold the two to be aspects of one cosmic principle, the preservation and communication of divine truth.
 
 His theological bond with [[lore-wethurdty|Weth'ur]], Lord of Silent Passage, is subtler and matters just as much. Both preside over transitions: Weth'ur over the passage from life to death, Nehle'at over the nightly passage from waking to sleep. Khelathi theology calls sleep "the lesser death," and dreams are understood as rehearsals for the greater journey after death, so those who learn to move through their dreams with awareness and acceptance under Nehle'at's protection are better prepared for the final passage under Weth'ur. Some advanced priests teach that the two may guide the same soul at different thresholds.
 

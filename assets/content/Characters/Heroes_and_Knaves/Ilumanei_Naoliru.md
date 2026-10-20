@@ -47,7 +47,7 @@ sohl:
     - {model: sohl-sohl-skill-law, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 15}}
-    - {model: skill-luthrscrpt, system: {masteryLevelBase: 75}}
+    - {model: skill-merazanscrpt, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 22}}
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 28}}
@@ -430,7 +430,7 @@ Ilumanei stands 6'0" tall with a medium build. He has deep brown skin, dark clos
 
 ### Early Life
 
-Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the [[lore-taruzelianclt|Taruzelian]] captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Ilumanei outworked all of them, and mastered five scripts in use on the quays—the island's own, the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, [Vaelumo the Precise]{.name data-type="being/npc"}, who took him as an apprentice.
+Ilumanei was born in a poor street behind the quay of [[place-vashuran|Vashurán]], the port of [[affiliation-kalihara|Kalihara]] where the [[lore-taruzelianclt|Taruzelian]] captains trade, the son of a dock worker and a laundress. His parents saw that he was clever and scraped together every coin they could spare to send him to a temple school in the foreign quarter, where he learned his letters and his numbers. The other pupils came from merchant families; Ilumanei outworked all of them, and mastered five scripts in use on the quays—the foreigners' and the merchant hands between them. At twelve his teachers sent him to a master scribe, [Vaelumo the Precise]{.name data-type="being/npc"}, who took him as an apprentice.
 
 ### Training Under Vaelumo
 
@@ -461,7 +461,7 @@ Ilumanei believes the written word protects the weak. He has seen a careful cont
 ### Strengths
 
 Languages and scripts
-: he reads, writes and speaks the island's tongue, the harbor pidgin and several foreign languages, and knows how to make words mean exactly one thing.
+: he speaks the island's tongue, speaks, reads and writes the harbor pidgin and several foreign languages in the foreign scripts of the quays, and knows how to make words mean exactly one thing.
 
 Perception and sympathy
 : he understands what a client needs from a document before the client can say it, and he can tell when someone is lying or being led.

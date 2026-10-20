@@ -47,7 +47,7 @@ sohl:
     - {model: sohl-sohl-skill-math, system: {masteryLevelBase: 75}}
     - {model: sohl-sohl-skill-pfmy, system: {masteryLevelBase: 17}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 16}}
-    - {model: skill-luthrscrpt, system: {masteryLevelBase: 80}}
+    - {model: skill-vaarthari, system: {masteryLevelBase: 80}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 33}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 28}}
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 75}}
@@ -436,7 +436,7 @@ Olivael was born in [[place-ilovanu|Ilovanu]], the principal port of [[affiliati
 
 ### The Pilots' Observatory
 
-At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called [Olitelinei]{.name data-type="being/npc"}, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
+At fifteen she ran away to [[place-telvari|Telvari]], the pilots' islet off the eastern approaches, where the pilots keep an observatory to reckon tides, currents and the stars they steer by. Its keeper was an old scholar the port called [Olitelinei]{.name data-type="being/npc"}, the star-reckoner, who had come out from the west half a lifetime before and never gone home. He took her in, and for twelve years she lived on the islet, holding his tables and her own observations as every Kaliharan child is taught to hold what matters, learning the practical astronomy of navigation and timekeeping by day and, by night, the art he valued more: astrology, the conviction that the heavens move the affairs of people as surely as the moon moves the tide.
 
 Where other astrologers memorized the traditional correspondences, Olivael understood the mechanics of the heavens by instinct and reasoned from them to their meanings. When Olitelinei died she was twenty-seven, and her name had already crossed the water. Foreign factors had their voyages charted by her, merchant houses timed their contracts by her, and the [[affiliation-panepistmm|Epistémion]], the scholarly federation of the western part of the [[place-ankrscntnnt|Ankaris Continent]], offered her membership by letter.
 

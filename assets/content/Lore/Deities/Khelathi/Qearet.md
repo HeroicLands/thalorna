@@ -9,7 +9,7 @@ data: {packFolder: regkhdeit, culture: khelathiclt}
 
 ![[icon-qearet|Faith of Qe'aret]]{float=top-left size=medium}
 
-_Keeper of Truth and Harmony—a feather atop a golden scale._
+_Keeper of Truth and Harmony—two account tablets level on a beam over a post: one ruled with entries, for the temple's account, and one blank, for the gods' own account, which no tablet holds._
 
 A Wazu at the archive door says it to every petitioner who comes hoping for mercy: "She does not do mercy. She does the scale." In temple theology, **Qe'aret** is the great balancing force of the cosmos, and she is _a goddess of absolute truth and immutable law, not of compassion or mercy_. Before creation chaos reigned; she imposed order on that primordial darkness and established the laws by which the universe operates and to which all creation must conform. To live in harmony with her is to live truthfully, honor one's oaths, speak with clarity and balance every action with restraint.
 
@@ -22,7 +22,7 @@ Her theology rests on one overwhelming doctrine: [The Weighing]{.name data-type=
 ```poetry {form=litany lang=en}
 Before the assembled gods both accounts are opened.
 Ours is read as it stands; theirs is set beside it.
-The feather is on the scale, and nothing is bought at the scale.
+The tablets lie level on the beam, and nothing is bought at the beam.
 The lord who endowed a temple late is read as his tenant is read.
 ```
 
@@ -30,4 +30,4 @@ That judgment is the foundation of [[lore-khelathiclt|Khelathi]] ethics, and its
 
 She judges; [[lore-wethurdty|Weth'ur]] does not. By the time a soul reaches his realm it has already been weighed.
 
-The written account speaks for itself, so the deceased may speak only of what was never written: a kindness, a hidden wrong. **Algit** is the devouring beast that takes a soul the scale condemns.
+The written account speaks for itself, so the deceased may speak only of what was never written: a kindness, a hidden wrong. **Algit** takes a soul the scale condemns. Her emblem is a ring of teeth closed round a cut cord, the account's tie, knotted at one end and frayed where it is cut: the account left open is taken. The same ring is the mouth of the _zelalgit_.

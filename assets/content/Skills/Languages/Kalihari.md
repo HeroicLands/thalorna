@@ -353,7 +353,7 @@ data:
       - affiliation-kalihara
       - lore-kaliharanclt
       - skill-kalihrlng
-      - skill-luthrscrpt
+      - skill-vaarthari
       - affiliation-tharivaan
       - lore-theithari
       - doc-kaliharaadvguide
@@ -437,8 +437,6 @@ data:
     - {name: Licensed Trader, tongue: translation}
     - {name: Lirunei, tongue: kalihari, built: [liru-, -nei]}
     - {name: Listener, tongue: translation}
-    - {name: Luaithari, tongue: kalihari}
-    - {name: Luaithari Script, tongue: translation}
     - {name: Luavanu, tongue: kalihari, built: [lua-, vanu-]}
     - {name: Luorithuri, tongue: kalihari, built: [luori-, thuri-]}
     - {name: Mangrove Behemoth, tongue: translation}
@@ -532,6 +530,8 @@ data:
     - {name: Turned Out, tongue: translation}
     - {name: Unheard, tongue: translation}
     - {name: Unkept, tongue: translation}
+    - {name: Vaarthari, tongue: kalihari, built: [vaar-, thári-]}
+    - {name: Vaarnei, tongue: kalihari, built: [vaar-, -nei]}
     - {name: Vaarvanu, tongue: kalihari, built: [vaar-, vanu-]}
     - {name: Vaelukoa, tongue: kalihari}
     - {name: Vaelvanu, tongue: kalihari, built: [vael-, vanu-]}
@@ -696,23 +696,11 @@ Adverbs precede the verbs they modify:
 
 ## Script and Literacy
 
-Kalihari employs the [[skill-luthrscrpt|Luaithari]], a **syllabic script**: each glyph represents a consonant-vowel pair (or vowel alone). The script is written left-to-right, top-to-bottom, flowing like water across the page. Glyphs are curved, interconnected, and visually beautiful—Kaliharan scribal tradition emphasizes aesthetics alongside function.
+Ordinary Kaliharans do not write. They keep what they know by oral history and by [[skill-vaarthari|Vaarthari]], the learned discipline of deep memorization, and the people's archive is what they recite and remember. Some stone marks of [[lore-theithari|the Ithari]], who spoke mind to mind, remain, and only the keepers know their meaning.
 
-Key features:
+The few stone marks that remain from the Ithari are too few to make a script or a language. Each is a sign of meaning, not text. What it stands for is held in memory by the keepers and recited, and the mark calls it up only for those who tend the relics, the Ithakan keepers and custodians.
 
-Syllabic principle
-: CV-syllable = one glyph
-
-Ligatures
-: Frequently connected glyphs form compound characters
-
-Diacritical marks
-: Dots above or below indicate tone, emphasis, or poetic significance
-
-Decorative elements
-: Sacred or formal texts employ ornate flourishes
-
-Every Kaliharan writes the syllabary well enough to keep a manual, and the scribal tradition is ancient and revered, but the full flourished hand is confined to the custodians and professional scribes. The island's long scribal heritage ensures a deep archive of written knowledge, but this knowledge is maintained by specialists, not the general population. Valtari has no script of its own, so port Kaliharans use a simplified Kalihari notation, or hire a scribe who sets the transaction down in whatever foreign letters he knows.
+Memorization does what writing does elsewhere. Vaarthari keeps a lineage, a pact or a season's account exact, and it is secure as a book is not, because knowledge passes only by being taught and nobody can take it by stealing a page or copying an inscription. The keepers know what the marks call up but seldom need them, since they carry on the memorization themselves, and they closely guard the elaborate secrets of how the Ithari instruments work. Valtari has no script of its own, so port Kaliharans who deal with foreigners hire a scribe who sets the transaction down in whatever foreign letters he knows.
 
 ## Historical Development
 
@@ -830,7 +818,7 @@ Nothing is added. A household name takes no ending, no doubled syllable and no e
 | `Kuanei`       | Tavikuanei | ta-vi-ku-a-nei |
 | `Voni`         | Reithavoni | rei-tha-vo-ni  |
 
-The household name belongs to the house. In the interior that is the mother's line; in the ports it is whichever house a person was raised in. Kin use it, and so do those raised under the same roof. It is spoken and never written: the full name heads every sílhari manual a Kaliharan keeps, stands in the household archive and the lineage records, and is the only name a council or a custodian uses. Household names repeat freely from one house to the next—there are a great many _Vori_ on the island—which troubles nobody, because the name is never used where two houses meet.
+The household name belongs to the house. In the interior that is the mother's line; in the ports it is whichever house a person was raised in. Kin use it, and so do those raised under the same roof. It is spoken only: the full name opens every account a Kaliharan holds, is recited in the household's and the lineage's memory, and is the only name a council or a custodian uses. Household names repeat freely from one house to the next—there are a great many _Vori_ on the island—which troubles nobody, because the name is never used where two houses meet.
 
 An outsider who uses a household name is claiming a place in the house that he does not have. Between Kaliharans this is presumption of the same kind as unsolicited explanation, and it is answered the same way: with the full name, said back, and nothing more. A foreigner is not told the household name at all; a port Kaliharan who deals with foreigners gives a Valtari trade name and keeps both Kalihari names for his own people.
 

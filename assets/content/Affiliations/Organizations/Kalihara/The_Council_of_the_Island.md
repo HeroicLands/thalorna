@@ -14,7 +14,7 @@ data:
   governance:
     model: council
     summary: >-
-      Elders sit for the lineages they head and custodians for the works in their charge, with a Councilor for the ports beside them; the Speaker for the Island presides, and a decision is written down and sent to Ithorianu for the record.
+      Elders sit for the lineages they head and custodians for the works in their charge, with a Councilor for the ports beside them; the Speaker for the Island presides, and a decision is spoken into the record at Ithorianu.
     ranks:
       - level: 0
         title: Unheard
@@ -27,7 +27,7 @@ data:
       - level: 2
         title: Recorder
         description: >-
-          Of the lineage Ithorianu, writing the Council's decisions on palm-leaf sheets and carrying them to the record kept at Ithorianu.
+          Of the lineage Ithorianu, holding the Council's decisions as they are spoken and carrying them to the record kept at Ithorianu.
       - level: 3
         title: Councilor
         description: >-
@@ -42,7 +42,7 @@ data:
       Councilor for a Lineage: >-
         Held by a Councilor. An Elder seated for the lineage the Elder heads, with its lands, its memory and its share of what the island knows.
       Keeper of the Record: >-
-        Held by a Recorder. Keeps the palm-leaf record of the Council's decisions in the long raised hall above the landing at Ithorianu, and the fresh copy made in every Tenth-Year Walk.
+        Held by a Recorder. Keeps the record of the Council's decisions in the long raised hall above the landing at Ithorianu, held in memory by the lineage and recited afresh in every Tenth-Year Walk.
       Envoy: >-
         Held by a Councilor. Sent abroad on the Council's business, briefed in what to say and, more carefully, in what not to.
   seat: ilovanu
@@ -65,7 +65,7 @@ The Council of the Island governs [[affiliation-kalihara|Kalihara]] and decides,
 
 ## Character
 
-A matter reaches the Council through an Elder or a custodian. A fisher whose reef has gone quiet tells the Elder of the lineage that holds it; a terrace household whose wall keeps falling tells the Master of the Terraces; either carries the matter to Ilovanu when the Council sits. The Council hears it, decides, and has the decision written on palm-leaf sheets. The sheets go to [[place-ithorianu|Ithorianu]], where the lineage [Ithorianu]{.name data-type="affiliation/lineage"} keeps the record in a long hall above the landing and copies it afresh in every [Tenth-Year Walk]{.name data-type="lore/custom"}.
+A matter reaches the Council through an Elder or a custodian. A fisher whose reef has gone quiet tells the Elder of the lineage that holds it; a terrace household whose wall keeps falling tells the Master of the Terraces; either carries the matter to Ilovanu when the Council sits. The Council hears it, decides, and has the decision spoken to the Recorder. The Recorder carries it to [[place-ithorianu|Ithorianu]], where the lineage [Ithorianu]{.name data-type="affiliation/lineage"} keeps the record in a long hall above the landing and recites it afresh in every [Tenth-Year Walk]{.name data-type="lore/custom"}.
 
 The custodians hold the procedure and the Council holds the decision. A custodian can say that a tending-act is done exactly as it was handed down, and the Council decides whether an inherited procedure may be adjusted against a work that is failing; the silkan convene the council that settles the question. Neither body overrules the other on its own ground, and the Elders of the lineages whose works are in question sit in the room when it is decided.
 

@@ -9,7 +9,7 @@ data: {packFolder: regkhdeit, culture: khelathiclt}
 
 ![[icon-nehleat|Faith of Nehle'at]]{float=top-left size=medium}
 
-_Guardian of Night Visions—a crescent moon with a single protective eye._
+_Guardian of Night Visions—a sleeper's headrest whose cradle is the crescent, with a small four-pointed vigil-star above it._
 
 A [[lore-khelathiclt|Khelathi]] child learns before almost any other prayer to ask **Nehle'at** to keep watch while she sleeps. Nehle'at is the Khelathi name for [[lore-goddreams|the God of Dreams]], a deity far older than any single civilization. The **Asguardian** peoples call him [[lore-bjartrdty|Bjart]], the **Aureldians** [[lore-zunelasdty|Zunelas]], and the [[lore-flksinale|Sinale]] have known him since time immemorial. The Khelathi add intimacy: they hold him a companion who walks through the night beside the sleeper, and no distant celestial force.
 

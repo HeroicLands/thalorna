@@ -260,7 +260,7 @@ A herd of a few animals follows an old female along a route over the faces, and 
 
 ## What the Islanders Do
 
-The people who live nearest the Ring watch the herds from below, and the herd's descent in Stillwater marks the season for them. The highland sanctuaries record the herds' ranges in the sílhari manuals. Nobody hunts a sulkula, and the animals are not driven.
+The people who live nearest the Ring watch the herds from below, and the herd's descent in Stillwater marks the season for them. The highland sanctuaries hold the herds' ranges in their sílhari accounts. Nobody hunts a sulkula, and the animals are not driven.
 
 ## Signs
 

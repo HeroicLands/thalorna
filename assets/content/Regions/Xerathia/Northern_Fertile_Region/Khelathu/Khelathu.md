@@ -217,7 +217,7 @@ A temple complex is a city inside a city: sanctuaries, libraries, schools, works
 
 Death is the organizing preoccupation of Khelathi civilization, and the Khelathi treat it as the lens through which life makes sense. Life prepares for an eternal existence beyond death, and the quality of that existence depends on both conduct in life and proper funerary preparation. That belief drives a vast mortuary industry—embalming, tomb-building, funerary art and the making of grave goods—that employs a large share of the economy.
 
-The theology is layered. The soul has several parts, each needing its own rites and protections. The weighing of the heart against the feather of Qe'aret is the central doctrine of the end, and it shapes daily life: even the powerful fear the verdict, and the knowledge that wealth cannot buy a good one is a check, however imperfect, on the worst abuses of power.
+The theology is layered. The soul has several parts, each needing its own rites and protections. The weighing of both accounts before Qe'aret and the assembled gods is the central doctrine of the end, and it shapes daily life: even the powerful fear the verdict, and the knowledge that wealth cannot buy a good one is a check, however imperfect, on the worst abuses of power.
 
 _The scale of a burial tracks wealth exactly._ The embalmers sell their work in three grades by old custom. The first is the full treatment of some seventy days: the body drawn, dried in natron, anointed with costly resins and wrapped in fine linen with an amulet at every joint. The second is a cheaper course, and the third is a bare treatment for the poor. Tombs grade the same way:
 

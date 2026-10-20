@@ -46,7 +46,6 @@ sohl:
     - {model: sohl-sohl-skill-cook, system: {masteryLevelBase: 30}}
     - {model: sohl-sohl-skill-folklr, system: {masteryLevelBase: 13}}
     - {model: sohl-sohl-skill-pysn, system: {masteryLevelBase: 14}}
-    - {model: skill-dnshkscrpt, system: {masteryLevelBase: 70}}
     - {model: sohl-sohl-skill-chrm, system: {masteryLevelBase: 42}}
     - {model: sohl-sohl-skill-cmd, system: {masteryLevelBase: 24}}
     - {model: sohl-sohl-skill-dscr, system: {masteryLevelBase: 26}}

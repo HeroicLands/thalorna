@@ -21,11 +21,11 @@ Ithorianu is the largest town of the interior. It stands on the eastern shore of
 
 ## The Holding
 
-The lineage [Ithorianu]{.name data-type="affiliation/lineage"} holds the shore and the town, and keeps the Elders' houses as part of its own. The record of decisions is its charge. It is written on palm-leaf sheets and copied in the hand every Kaliharan learns, and it is kept in a long raised hall above the landing, with a fresh copy made in every [Tenth-Year Walk]{.name data-type="lore/custom"}. The custodians of [[place-mirthaan|Mirthaan]] are a morning's walk up the valley, and their visits to the town are frequent.
+The lineage [Ithorianu]{.name data-type="affiliation/lineage"} holds the shore and the town, and keeps the Elders' houses as part of its own. The record of decisions is its charge. It is held in memory by the lineage and recited in a long raised hall above the landing, with the whole recited afresh in every [Tenth-Year Walk]{.name data-type="lore/custom"}. The custodians of [[place-mirthaan|Mirthaan]] are a morning's walk up the valley, and their visits to the town are frequent.
 
 ## The Failing
 
-The rain still comes to Ithorianu on its turn. It comes less evenly than it did in the oldest sheets of the record, which describe the Wet-Turn arriving in a single week, and it falls harder on the hills above than on the shore. The town's gardens are the first on the lake to feel a dry season, and its physicians keep the weed of the lake for sleeping draughts and say that the weed grows thicker at the shore each year, in water that stands higher than it did.
+The rain still comes to Ithorianu on its turn. It comes less evenly than it did in the oldest accounts of the record, which describe the Wet-Turn arriving in a single week, and it falls harder on the hills above than on the shore. The town's gardens are the first on the lake to feel a dry season, and its physicians keep the weed of the lake for sleeping draughts and say that the weed grows thicker at the shore each year, in water that stands higher than it did.
 
 ## What Is Seen from It
 

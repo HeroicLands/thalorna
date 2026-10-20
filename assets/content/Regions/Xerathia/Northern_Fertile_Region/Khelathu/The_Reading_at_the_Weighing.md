@@ -97,7 +97,7 @@ A hand that lifts the tablets unmakes the dead.
 
 Before the assembled gods both accounts are opened.
 Ours is read as it stands; theirs is set beside it.
-The feather is on the scale, and nothing is bought at the scale.
+The tablets lie level on the beam, and nothing is bought at the beam.
 The lord who endowed a temple late is read as his tenant is read.
 Short on either, Algit takes the dead; Algit, the Devourer of the Dead.
 Closed on both, the dead passes on; the dead passes into the Zulaten.

@@ -102,8 +102,8 @@ and nothing could ever have been put there, since the substance takes no mark.
 It goes further than the works. **There is no Ithari writing anywhere, and no Ithari language that
 anyone knows of.** No script, no text, no record, nothing they left that was meant to be read, and
 nothing that could have served them as one. If they had any means of setting a thing down, the
-Kaliharans never learned of it. Every written thing on the island, from the sanctuaries' oldest slabs
-to a child's sílhari manual, is Kaliharan work in a Kaliharan hand.
+Kaliharans never learned of it. Every marked thing on the island, from the sanctuaries' oldest slabs
+to the keepers' later work, is Kaliharan work in a Kaliharan hand.
 
 The accounts go one step beyond even that, and it is the single strangest thing in them. **They do not
 describe the Ithari as speaking.** What they describe is understanding arriving—a thing known that

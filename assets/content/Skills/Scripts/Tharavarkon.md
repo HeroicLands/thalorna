@@ -27,7 +27,7 @@ Vylarian antiquarians have found parts of this congenial for reasons that have l
 
 ## The letters
 
-Straight strokes, no curves, cut cross-grain because that is what stone and hardwood will take. The imperial recension formalized what had been a loose family of local rune-rows into a fixed order of thirty-one characters with strict proportions, and added two things the old carvers had no use for: ligature forms that let a mason fit a long dedication into a fixed architrave, and the **crowned runes**—special enclosing marks that must be cut around the name of a god, a founder, or a reigning emperor. Cutting a divine name without its crown is not an error of spelling. It is an impiety, and in [[affiliation-hlykngdmnrtm|Nartun]] a prosecutable one.
+Straight strokes, no curves, cut cross-grain because that is what stone and hardwood will take. Tharavarkon is written in the letters of [[skill-thuravarkscript|Thuravark]]: the two are sister branches of the Proto-Pelwar row and share its staves. The imperial recension carries three characters beyond the twenty-eight staves of Thuravark, and its order is fixed. The recension formalized what had been a loose family of local rune-rows with strict proportions, and added two things the old carvers had no use for: ligature forms that let a mason fit a long dedication into a fixed architrave, and the **crowned runes**—special enclosing marks that must be cut around the name of a god, a founder, or a reigning emperor. Cutting a divine name without its crown is not an error of spelling. It is an impiety, and in [[affiliation-hlykngdmnrtm|Nartun]] a prosecutable one.
 
 ## Where it is found
 
@@ -41,4 +41,4 @@ The priesthoods first—the Holy Kingdom of Nartun conducts all its rites in the
 
 Two difficulties compound. The script is durable, so the inscriptions a character actually finds are routinely centuries older than anyone living—and the Vylari cut into them is correspondingly archaic, so a reader's modern Language skill may simply not cover it. And the formality is a trap: a great deal of Tharavarkon is boilerplate, so a reader who guesses at a worn inscription from the expected formula will produce a fluent, confident, entirely wrong reading. Weathering is what the Script rules call a degraded or damaged document; the wrong century of Vylari is a matter for the Language test.
 
-Tharavarkon is the [[sohl-none-docskill-runic|Runic]] tradition in its Vylarian recension. A character who knows another rune-row of the same family—Thuravark above all—does not read it, but recognizes it as kin, which is often enough to know what kind of stone they are standing in front of.
+Tharavarkon is the [[sohl-none-docskill-runic|Runic]] tradition in its Vylarian recension. Each variety keeps its own skill, but a character who reads Thuravark knows the shapes and their order, which is often enough to know what kind of stone they are standing in front of.

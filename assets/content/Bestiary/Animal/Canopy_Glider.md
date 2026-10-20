@@ -434,7 +434,7 @@ The glider sleeps in a hollow or a fork by day and feeds from dusk. It climbs to
 
 ## What the Islanders Do
 
-Children learn the gliders' crossing-lines as the first forest paths: a line that has been used season after season shows in scuffed bark on the launching bough and on the landing trunk, and it marks a route a person can follow. Households whose part is a grove keep a count of the gliders in it in the sílhari manual, and a grove that stops holding them is written down as a grove in trouble. Nobody hunts them and nobody keeps one.
+Children learn the gliders' crossing-lines as the first forest paths: a line that has been used season after season shows in scuffed bark on the launching bough and on the landing trunk, and it marks a route a person can follow. Households whose part is a grove hold a count of the gliders in it in their sílhari account, and a grove that stops holding them is named as a grove in trouble. Nobody hunts them and nobody keeps one.
 
 ## Signs
 

@@ -25,7 +25,7 @@ data:
     hair_color: black
     skin_color: golden
     complexion: [scarred]
-    extra_features: [Feather-of-Qe'aret scarification across the collarbones]
+    extra_features: [Tablets-of-Qe'aret scarification across the collarbones]
   packFolder: regkhhk
 sohl:
   items:
@@ -84,10 +84,10 @@ sohl:
     - {model: sohl-sohl-armorgear-ltsndls}
     - name: Golden scales of Qe'aret (ritual artifact)
       type: miscgear
-      system: {shortcode: goldenscalesofmaat, weight: 0.5, value: 40, durability: 3}
-    - name: Ostrich-feather token of the goddess
+      system: {shortcode: goldenscalesqearet, weight: 0.5, value: 40, durability: 3}
+    - name: Tablet token of the goddess
       type: miscgear
-      system: {shortcode: ostrichfeathertoken, weight: 0.05, value: 15, durability: 3}
+      system: {shortcode: tablettoken, weight: 0.05, value: 15, durability: 3}
     - name: Consecrated chalk and ritual powder
       type: miscgear
       system: {shortcode: consecratedchalk, weight: 0.3, value: 100, durability: 3}
@@ -432,7 +432,7 @@ sohl:
 
 ![[thaluraiqelr|Thalura Iqe'Leru]]{float=top-left}
 
-Thalura stands 5'7" tall with a light build. She has golden brown skin, black hair, and hazel eyes. Her features include a high-cheekboned face, a slightly arched nose, a tapered chin, generous lips, and golden brows. Beneath her vestments, the feather-of-[[lore-qearetdty|Qe'aret]] scarification crosses her collarbones—the mark of ordination that every Thaz'Lekhau carries. A fine gold chain bearing a miniature set of golden scales hangs at her throat, usually tucked beneath the neckline of her robes where only she knows it rests.
+Thalura stands 5'7" tall with a light build. She has golden brown skin, black hair, and hazel eyes. Her features include a high-cheekboned face, a slightly arched nose, a tapered chin, generous lips, and golden brows. Beneath her vestments, the level-tablets-of-[[lore-qearetdty|Qe'aret]] scarification crosses her collarbones—the mark of ordination that every Thaz'Lekhau carries. A fine gold chain bearing a miniature set of golden scales hangs at her throat, usually tucked beneath the neckline of her robes where only she knows it rests.
 
 She dresses in the formal silk robes of her office when conducting judicial ceremonies or appearing at court—white linen beneath, deep blue silk without, the gold pectoral collar of the Thaz'Lekhau prominent at her throat. In private, she favors simpler garments but never appears unkempt. Thalura understands that appearance is testimony: a Thaz'Lekhau who looks disheveled is a Thaz'Lekhau whose authority is already half-surrendered.
 
@@ -446,7 +446,7 @@ The temple brokered her marriage to Legha'lutu [[being-gethoriqeler|Gethor Iqe'L
 
 Now, at forty, she holds the title of Thaz'Lekhau of Qe'aret in the capital—the High Priestess who presides over the great judicial ceremonies, conducts the auguries that guide state policy, and administers the oaths that bind the empire's most consequential alliances. Her authority is formally religious, but everyone understands that the woman who weighs truth and falsehood for the [[lore-garauu|Gar-Au]] wields power that goes beyond any single institution. She sits at the center of a web that connects the temple, the [[affiliation-genzetpalu|Genzet'Palu]], the Zebeku'Zut, and the Gar-Au's inner circle—not as an outsider who has gained access to each, but as the point where all of them overlap.
 
-The irony of her position is one she contemplates in the quiet hours. In her faith, Qe'aret is the goddess of truth—of cosmic order maintained through honest speech and just action. The weighing of the heart against the feather is the central eschatological doctrine of the [[lore-khelathiclt|Khelathi]] faith, and the priestess who administers it is supposed to uphold the principle she serves. Thalura has spent two decades building her authority through strategic marriages, withheld information, calculated betrayals, and the careful deployment of truths that serve her purposes while concealing truths that do not. She has never fabricated an augury—she draws that line with absolute firmness—but she has chosen which truths to speak and which to keep silent, and she knows the goddess makes no distinction between a spoken lie and a deliberate silence. She considers this not hypocrisy but necessity. The cosmic order she serves cannot survive on truth alone; it requires the political architecture that her methods sustain. Whether the goddess agrees is the question that keeps her awake.
+The irony of her position is one she contemplates in the quiet hours. In her faith, Qe'aret is the goddess of truth—of cosmic order maintained through honest speech and just action. The weighing of both accounts is the central eschatological doctrine of the [[lore-khelathiclt|Khelathi]] faith, and the priestess who administers it is supposed to uphold the principle she serves. Thalura has spent two decades building her authority through strategic marriages, withheld information, calculated betrayals, and the careful deployment of truths that serve her purposes while concealing truths that do not. She has never fabricated an augury—she draws that line with absolute firmness—but she has chosen which truths to speak and which to keep silent, and she knows the goddess makes no distinction between a spoken lie and a deliberate silence. She considers this not hypocrisy but necessity. The cosmic order she serves cannot survive on truth alone; it requires the political architecture that her methods sustain. Whether the goddess agrees is the question that keeps her awake.
 
 ## Psyche
 

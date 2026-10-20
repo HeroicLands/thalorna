@@ -217,7 +217,7 @@ For most of the year the fish feeds on the bottom, sucking up what it finds with
 
 ## What the Islanders Do
 
-The lake lineages read its rising as the sign that the water is clear and the season has turned, and write the day it surfaces in the household archive. They fish round it and never for it, and a boat that meets one keeps still and lets it pass. That the lake keeps something so large unseen for most of the year is a standing reason to look.
+The lake lineages read its rising as the sign that the water is clear and the season has turned, and carry the day it surfaces into the household's account. They fish round it and never for it, and a boat that meets one keeps still and lets it pass. That the lake keeps something so large unseen for most of the year is a standing reason to look.
 
 ## Signs
 

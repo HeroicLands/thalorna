@@ -394,7 +394,6 @@ data:
     addresses:
       - lore-dunhariclt
       - skill-dunharlng
-      - skill-dnshkscrpt
       - affiliation-kngdmmrdd
       - affiliation-dunhartrbs
       - affiliation-strmcltsbhrms
@@ -437,8 +436,6 @@ data:
     - {name: Dunhari, tongue: dunhari}
     - {name: Dunhari Language, tongue: translation}
     - {name: Dunhari Lexicon, tongue: translation}
-    - {name: Dunshak, tongue: dunhari}
-    - {name: Dunshak Script, tongue: translation}
     - {name: Elder, tongue: translation}
     - {name: Envoy, tongue: translation}
     - {name: Fakhrad, tongue: dunhari}
@@ -928,7 +925,7 @@ The offices of the Amradi court take _-ader_ and _-abun_: the sovereign is the _
 
 ## Script and Literacy
 
-Dunhari employs the [[skill-dnshkscrpt|Dunshak script]], an abjad system that represents consonants fully but marks vowels only in formal or poetic contexts through diacritical marks (circumflex, acute, grave accents). The script is written right-to-left, following ancient Ankarian convention.
+Dunhari is an oral tongue. The tribes keep law, genealogy and treaty in memory and recite them, and a tribe's archive is what its people remember. Where Dunhari is set down at all, in the courts and cities of settled Amradad and the oasis belt, it is written in [[skill-qalzscrscrpt|Qalezu]], the consonantal alphabet of Au'Khelathu, from left to right.
 
 Literacy among Dunhari nomadic populations centers on oral transmission; written literacy is highest in settled urban communities and courtly contexts. The primary literary form remains poetry and song, which are memorized and transmitted orally through generations.
 

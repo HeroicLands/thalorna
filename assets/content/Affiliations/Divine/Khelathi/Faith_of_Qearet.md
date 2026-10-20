@@ -11,7 +11,7 @@ data:
   templatePriority: null
   demonym: null
   epithet: Keeper of Truth and Harmony
-  symbol: Feather atop a golden scale
+  symbol: Two account tablets level on a beam over a post, one ruled and one blank
   governance:
     model: theocracy
     summary: >-
@@ -45,7 +45,7 @@ data:
       Temple Scribe: >-
         A Wazu serving as scribe and administrator within the temple complex.
       Weigher of the Heart: >-
-        Keeps the central eschatological doctrine: the postmortem weighing of the heart against the feather of the goddess. It exerts moral influence on daily life—even the powerful fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict is a real, if imperfect, check on the worst abuses of power.
+        Keeps the central eschatological doctrine: the postmortem weighing of both accounts, the temple's and the one the goddess keeps herself. It exerts moral influence on daily life—even the powerful fear a negative judgment, and the knowledge that wealth cannot buy a favorable verdict is a real, if imperfect, check on the worst abuses of power.
       Legal Arbiter: >-
         Legal arbitration is one of the recognized Lem'Nelgir specializations, and this cult supplies it. Women plead in the Genzet as well as men.
   seat: null

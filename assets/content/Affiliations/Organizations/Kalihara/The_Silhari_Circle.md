@@ -30,7 +30,7 @@ data:
           Belongs to the circle's company, attends its meetings and speaks for its reading of the failing works in the councils of the custodians and, for the Elders among them, in the Council of the Island.
     offices:
       Reader: >-
-        Held by a Companion. Studies the first records, the slabs whose procedures have been lost, and works at reading the oldest Kaliharan hand.
+        Held by a Companion. Studies the first records, the slabs whose procedures have been lost, and works at reading the oldest form of the marks.
       Elder of the Circle: >-
         Held by a Companion. The holder is a kaan'thari or a silkan, and convenes the circle, calls its meetings and settles who reads which slab and who goes abroad.
       Seeker Abroad: >-

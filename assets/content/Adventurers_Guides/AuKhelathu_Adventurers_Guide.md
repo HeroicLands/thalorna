@@ -65,7 +65,7 @@ An entry **opens** when a promise is witnessed and written down. It **closes** w
 
 An entry closes by **performance**, **settlement** on other agreed terms, **release** by the person owed, or **assumption** by someone else. A shipwrecked merchant who cannot deliver a cargo might settle with the buyer or find someone to take up the debt. Either choice can send a party after a missing shipment, a reluctant creditor, or a willing heir. The [[lore-khelathiclt|culture note]] explains which promises another person may assume.
 
-Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. In Khelathi teaching, at the judgment after death, the heart is weighed against a feather: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
+Two consequences matter at the table. **A person owed a release may refuse it**, even at a dying person's bedside, and a feud can outlast both parties. In Khelathi teaching, at the judgment after death, both of a person's accounts are opened and weighed: falsehood, cruelty, theft, and cowardice matter, and wealth buys no verdict. The [[lore-khelathiclt|culture note]] follows these obligations through the deathbed, the burial, and the lives of those left behind.
 
 ## The Gods
 
