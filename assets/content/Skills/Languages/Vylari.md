@@ -47,26 +47,32 @@ data:
     - form: "-as"
       gloss: "a hallowed noun: a god, a founder, a hallowed thing"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["ulth- > ulthas"]
     - form: "-os"
       gloss: "a man who does it, or holds the office of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["us- > usos"]
     - form: "-a"
       gloss: "a woman who does it, or holds the office of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["marend- > marenda"]
     - form: "-alon"
       gloss: "the office, the body or the whole of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["orz- > orzalon"]
     - form: "-andon"
       gloss: "a thing done or made"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["tamb- > tambandon"]
     - form: "-andar"
       gloss: "doing it: the present participle"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["humelth- > humelthandar"]
     - form: "-thos"
       gloss: "done, suffered: the past participle"
@@ -75,31 +81,61 @@ data:
     - form: "-en"
       gloss: "of it, from it: said of a place or a people"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["orz- > orzen"]
     - form: "-ara"
       gloss: "a town of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["zemrol- > zemrolara"]
     - form: "-enna"
       gloss: "a farm, an estate or a village of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["taloth- > talothenna"]
     - form: "-ora"
       gloss: "a height or a stronghold of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["tholkez- > tholkezora"]
     - form: "-is"
       gloss: "those of it: a house name"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["karalz- > karalzis"]
     - form: "-ates"
       gloss: "of the line of it: a house name"
       attaches: "replaces the final vowel"
+      replaces: vowel
     - form: "-andi"
       gloss: "in the keeping of: the ending that names a month"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["zunel- > zunelandi"]
-  grammar: {plural: [{ending: os, becomes: oi}, {ending: alon, becomes: alar}]}
+    - form: "-oros"
+      gloss: "ordinal: the place in a count"
+      attaches: "replaces the cardinal's ending"
+      examples: ["karzis > karzoros", "selthur > selthoros"]
+    - form: "an-"
+      gloss: "the reverse of it"
+      attaches: "prefixed"
+      examples: ["ulthathen > anulthathen", "olmathen > anolmathen"]
+  grammar:
+    plural:
+      - {ending: alon, becomes: alar}
+      - {ending: os, becomes: oi}
+      - {ending: on, becomes: oi}
+      - {ending: is, becomes: oi}
+      - {ending: as, becomes: oi}
+      - {ending: a, becomes: ai}
+      - {ending: e, becomes: oi}
+      - {ending: i, becomes: oi}
+      - {ending: o, becomes: oi}
+      - {ending: u, becomes: oi}
+      - {ending: "", becomes: oi}
+    verbs:
+      replaces: then
+      persons: {I: men, you: zen, heShe: zor, we: mar, youAll: zar, they: zoi}
   words:
     - form: ulthathen
       class: v
@@ -153,6 +189,7 @@ data:
       source: {kind: inherited}
     - form: zalvon
       class: n n
+      plural: zalvar
       field: The hallowed and the gods
       gloss: "the worship of the state; the imperial cult"
       source: {kind: inherited, form: dhalwon}
@@ -178,6 +215,7 @@ data:
       source: {kind: inherited}
     - form: zaron
       class: n n
+      plural: zarar
       field: The hallowed and the gods
       gloss: "an oath; a binding sworn before a god"
       source: {kind: inherited, form: dharon}
@@ -216,6 +254,7 @@ data:
       built: ["kelmar-", "-thos"]
     - form: ozethon
       class: n n
+      plural: ozethar
       field: The hallowed and the gods
       gloss: "an omen; a sign read in a bird or a flame"
       source: {kind: inherited, form: odhethon}
@@ -242,11 +281,13 @@ data:
       source: {kind: inherited}
     - form: karalzon
       class: n n
+      plural: karalzar
       field: The hallowed and the gods
       gloss: "the kept fire; the hearth of a house, never let go out"
       source: {kind: inherited, form: "k'aralzon"}
     - form: karalzis
       class: n m
+      plural: karalzis
       field: The hallowed and the gods
       gloss: "the household gods; those of the kept fire"
       source: {kind: inherited}
@@ -261,6 +302,48 @@ data:
       field: The hallowed and the gods
       gloss: "fate; what is spoken before a life begins"
       source: {kind: inherited, form: dhikhon}
+    - form: thauras
+      class: n
+      plural: thaurasoi
+      field: The hallowed and the gods
+      gloss: "a keeper, said of a god; the hallowed keeper"
+      source: {kind: coined}
+      built: ["thaur-", "-as"]
+    - form: thilandthauras
+      class: n
+      field: The hallowed and the gods
+      gloss: "the Keeper of the Book; Marendas"
+      source: {kind: coined}
+      built: ["thiland-", thauras]
+    - form: kalpezthauras
+      class: n
+      field: The hallowed and the gods
+      gloss: "the Keeper of the Gates; Árdavon"
+      source: {kind: coined}
+      built: ["kalpez-", thauras]
+    - form: thrimvalmas
+      class: n
+      field: The hallowed and the gods
+      gloss: "the Walker of the Line; the Founder after the line was closed"
+      source: {kind: coined}
+      built: ["thrim-", "valm-", "-as"]
+    - form: orlemthumisa
+      class: n f
+      field: The hallowed and the gods
+      gloss: "the crowned mark; the frame cut to hold a hallowed name"
+      source: {kind: coined}
+      built: ["orlem-", thumisa]
+    - form: varelon
+      class: n n
+      field: The hallowed and the gods
+      gloss: "faith; trust; the holding of a thing true"
+      source: {kind: coined}
+    - form: ulthnethoron
+      class: n n
+      field: The hallowed and the gods
+      gloss: "agape; selfless love, given to others or to the gods without asking a return"
+      source: {kind: coined}
+      built: ["ulth-", nethoron]
     - form: kalmethar
       class: n m
       field: "Ancestors, the house and the name"
@@ -350,6 +433,7 @@ data:
       source: {kind: inherited}
     - form: kondamon
       class: n n
+      plural: kondamar
       field: "Ancestors, the house and the name"
       gloss: "an inheritance; what passes at a death"
       source: {kind: inherited}
@@ -375,6 +459,7 @@ data:
       source: {kind: inherited}
     - form: harlenis
       class: n n
+      plural: harlenar
       field: "Ancestors, the house and the name"
       gloss: "the house name; a name of those of a founder"
       source: {kind: inherited}
@@ -400,6 +485,12 @@ data:
       field: "Ancestors, the house and the name"
       gloss: "kin; those of one blood"
       source: {kind: inherited}
+    - form: sorethon
+      class: n n
+      plural: sorethar
+      field: "Ancestors, the house and the name"
+      gloss: "storge; the love of family, of parent and child"
+      source: {kind: coined}
     - form: zirothos
       class: n m
       field: "Precedence, patronage and what is owed"
@@ -566,8 +657,33 @@ data:
       gloss: "elevated; of the estate of newly raised houses, which carries no metal"
       source: {kind: inherited}
       built: ["peler-", "-en"]
+    - form: anorfenathen
+      class: v
+      field: "Precedence, patronage and what is owed"
+      gloss: "to forgive; to release from what is owed"
+      source: {kind: coined}
+      built: ["an-", orfenathen]
+    - form: vethvelda
+      class: n f
+      field: "Precedence, patronage and what is owed"
+      gloss: "pride; honor a person claims for himself"
+      source: {kind: coined}
+      built: ["veth-", velda]
+    - form: vethdokemon
+      class: n n
+      field: "Precedence, patronage and what is owed"
+      gloss: "boasting; a boast; a speech made in one's own praise"
+      source: {kind: coined}
+      built: ["veth-", dokemon]
+    - form: holvethon
+      class: n n
+      plural: holvethar
+      field: "Precedence, patronage and what is owed"
+      gloss: "philia; the affection of friends; the bond of companions"
+      source: {kind: coined}
     - form: vornon
       class: n n
+      plural: vornar
       field: "Law, the court and the written act"
       gloss: "a law; a statute the Senate has voted"
       source: {kind: inherited, form: wornon}
@@ -584,6 +700,7 @@ data:
       source: {kind: inherited, form: dhesima}
     - form: nazdis
       class: n f
+      plural: nazdar
       field: "Law, the court and the written act"
       gloss: "a judgment; what a court decides"
       source: {kind: inherited}
@@ -633,6 +750,7 @@ data:
       source: {kind: inherited}
     - form: thizaron
       class: n n
+      plural: thizarar
       field: "Law, the court and the written act"
       gloss: "a seal; the mark that makes a writing an act"
       source: {kind: inherited, form: thidharon}
@@ -669,6 +787,7 @@ data:
       source: {kind: inherited}
     - form: frenkon
       class: n n
+      plural: frenkar
       field: "Law, the court and the written act"
       gloss: "property; a thing owned, land or slave or craft"
       source: {kind: inherited}
@@ -699,6 +818,12 @@ data:
       field: "Law, the court and the written act"
       gloss: "exile; the sentence that sends a citizen out of the empire"
       source: {kind: inherited, form: wenthodis}
+    - form: orznazdalon
+      class: n n
+      field: "Law, the court and the written act"
+      gloss: "the sovereign's tribunal; the last court of appeal"
+      source: {kind: coined}
+      built: ["orz-", nazdalon]
     - form: orzathen
       class: v
       field: The state and its offices
@@ -796,6 +921,7 @@ data:
       built: ["therk-", "-alon"]
     - form: tarkelon
       class: n n
+      plural: tarkelar
       field: The state and its offices
       gloss: "the treasury; the public chest"
       source: {kind: inherited}
@@ -994,6 +1120,30 @@ data:
       gloss: "a provincial deputy; one who acts for a body in a province"
       source: {kind: inherited}
       built: ["therkal-", "-en"]
+    - form: orlema
+      class: n f
+      field: The state and its offices
+      gloss: "a crown"
+      source: {kind: coined}
+    - form: kurthas
+      class: n
+      plural: kurthasoi
+      field: The state and its offices
+      gloss: "the Senator, hallowed; a senator named as a founder is named"
+      source: {kind: coined}
+      built: ["kurth-", "-as"]
+    - form: talktholbema
+      class: n f
+      field: The state and its offices
+      gloss: "a cloak of office; the gown a magistrate wears"
+      source: {kind: coined}
+      built: ["talk-", tholbema]
+    - form: thizaralon
+      class: n n
+      field: The state and its offices
+      gloss: "the chancery; the office of the seal"
+      source: {kind: coined}
+      built: ["thizar-", "-alon"]
     - form: kordu
       class: n m
       field: The legions and the frontier
@@ -1023,6 +1173,7 @@ data:
       built: ["thramez-", gartos]
     - form: thramezon
       class: n n
+      plural: thramezar
       field: The legions and the frontier
       gloss: "the soldier's oath; the oath that makes a legionary"
       source: {kind: inherited}
@@ -1236,6 +1387,12 @@ data:
       field: The legions and the frontier
       gloss: "a helper; an auxiliary soldier, not a citizen"
       source: {kind: inherited}
+    - form: kurandon
+      class: n n
+      field: The legions and the frontier
+      gloss: "a thing taken; a conquest; spoils"
+      source: {kind: coined}
+      built: ["kur-", "-andon"]
     - form: veramis
       class: n f
       field: "The city: stone, water and the street"
@@ -1370,8 +1527,26 @@ data:
       gloss: "resting; the courteous word for a ruin"
       source: {kind: inherited}
       built: ["humelth-", "-andar"]
+    - form: funela
+      class: n f
+      field: "The city: stone, water and the street"
+      gloss: "a cord; the measuring line a boundary is walked with"
+      source: {kind: coined}
+    - form: pozertalothos
+      class: n m
+      field: "The city: stone, water and the street"
+      gloss: "a milestone; a road-stone"
+      source: {kind: coined}
+      built: ["pozer-", talothos]
+    - form: kalpeztalothos
+      class: n m
+      field: "The city: stone, water and the street"
+      gloss: "a gate-stone; the stone of a boundary that is a gate"
+      source: {kind: coined}
+      built: ["kalpez-", talothos]
     - form: kelron
       class: n n
+      plural: kelrar
       field: "Craft, guild and the kept secret"
       gloss: "a guild; a body chartered for one craft"
       source: {kind: inherited}
@@ -1496,6 +1671,29 @@ data:
       gloss: "a guild's master on the council; the guild's man in the college of guilds"
       source: {kind: inherited}
       built: ["kelr-", "-os"]
+    - form: dremathen
+      class: v
+      field: "Craft, guild and the kept secret"
+      gloss: "to cut; to carve; to cut letters in stone"
+      source: {kind: coined}
+    - form: lendos
+      class: n m
+      field: "Craft, guild and the kept secret"
+      gloss: "a setter; one who sets the stones of a boundary"
+      source: {kind: coined}
+      built: ["lend-", "-os"]
+    - form: lendgartos
+      class: n m
+      field: "Craft, guild and the kept secret"
+      gloss: "a master of the setters; a mason"
+      source: {kind: coined}
+      built: ["lend-", gartos]
+    - form: gauros
+      class: n m
+      field: "Craft, guild and the kept secret"
+      gloss: "a builder; one who raises a city"
+      source: {kind: coined}
+      built: ["gaur-", "-os"]
     - form: delamos
       class: n m
       field: "Coin, trade and the counting-table"
@@ -1620,6 +1818,22 @@ data:
       field: "Coin, trade and the counting-table"
       gloss: "silk"
       source: {kind: inherited}
+    - form: thradinos
+      class: n m
+      field: "Coin, trade and the counting-table"
+      gloss: "a weigher; one who keeps the scale"
+      source: {kind: coined}
+      built: ["thradin-", "-os"]
+    - form: rozimathen
+      class: v
+      field: "Coin, trade and the counting-table"
+      gloss: "to count; to reckon; to date by a reckoning"
+      source: {kind: coined}
+    - form: verdakeza
+      class: n f
+      field: "Coin, trade and the counting-table"
+      gloss: "greed; the want of more than a thing is worth"
+      source: {kind: coined}
     - form: yormalis
       class: n f
       field: "Land, the vine and the river"
@@ -1803,6 +2017,33 @@ data:
       field: "Land, the vine and the river"
       gloss: "a fish"
       source: {kind: inherited}
+    - form: sedon
+      class: n n
+      field: "Land, the vine and the river"
+      gloss: "a place; a spot; the ground a thing stands on"
+      source: {kind: coined}
+    - form: klivon
+      class: n n
+      field: "Land, the vine and the river"
+      gloss: "a slope; the side of a hill"
+      source: {kind: coined}
+    - form: trazela
+      class: n f
+      field: "Land, the vine and the river"
+      gloss: "a sledge; a sled for dragging stone"
+      source: {kind: coined}
+    - form: kelborkistela
+      class: n f
+      field: "Land, the vine and the river"
+      gloss: "a seed-jar; a chest for grain"
+      source: {kind: coined}
+      built: ["kelbor-", kistela]
+    - form: kolsamos
+      class: n m
+      field: "Land, the vine and the river"
+      gloss: "a harvester; a picker of grapes or olives"
+      source: {kind: coined}
+      built: ["kolsam-", "-os"]
     - form: ornethe
       class: n f
       field: The sea and the sailing year
@@ -1873,6 +2114,7 @@ data:
       source: {kind: inherited, form: dhurmela}
     - form: aistroi
       class: n m
+      plural: aistroi
       field: The sea and the sailing year
       gloss: "the steady northerly winds of late summer that set the sailing year; a plural"
       source: {kind: inherited}
@@ -1887,6 +2129,12 @@ data:
       field: The sea and the sailing year
       gloss: "a pirate"
       source: {kind: inherited}
+    - form: aistren
+      class: adj
+      field: The sea and the sailing year
+      gloss: "northern; of the north, where the summer northerlies come from"
+      source: {kind: coined}
+      built: ["aistr-", "-en"]
     - form: tholkezos
       class: n m
       field: "The body, life and death"
@@ -1951,6 +2199,7 @@ data:
       built: ["selth-", kelmeza]
     - form: rithezon
       class: n n
+      plural: rithezar
       field: "The body, life and death"
       gloss: "a wound"
       source: {kind: inherited}
@@ -1976,6 +2225,87 @@ data:
       field: "The body, life and death"
       gloss: "a cloak; the citizen's gown"
       source: {kind: inherited}
+    - form: kistela
+      class: n f
+      field: "The body, life and death"
+      gloss: "a chest; the chest that holds the bones of the dead"
+      source: {kind: coined}
+    - form: elztholbema
+      class: n f
+      field: "The body, life and death"
+      gloss: "the ash-gown; the grey gown worn to a father's tomb"
+      source: {kind: coined}
+      built: ["elz-", tholbema]
+    - form: kalmethandon
+      class: n n
+      field: "The body, life and death"
+      gloss: "a funeral; the going to the ancestors"
+      source: {kind: coined}
+      built: ["kalmeth-", "-andon"]
+    - form: nelthis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a smell; a scent"
+      source: {kind: coined}
+    - form: okandon
+      class: n n
+      field: "The body, life and death"
+      gloss: "a sight; a thing seen; the look of a thing (okandon ol ulfoi, the sight of fish)"
+      source: {kind: coined}
+      built: ["ok-", "-andon"]
+    - form: thavandon
+      class: n n
+      field: "The body, life and death"
+      gloss: "a sound; a thing heard"
+      source: {kind: coined}
+      built: ["thav-", "-andon"]
+    - form: tirmis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a taste; a flavour (tirmis ol thremuzis, the taste of salt)"
+      source: {kind: coined}
+    - form: tolvis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a touch; the feel of a thing"
+      source: {kind: coined}
+    - form: kremeza
+      class: n f
+      field: "The body, life and death"
+      gloss: "wrath; anger that burns"
+      source: {kind: coined}
+    - form: thesavon
+      class: n n
+      field: "The body, life and death"
+      gloss: "envy; the want of what another has"
+      source: {kind: coined}
+    - form: orva
+      class: n f
+      field: "The body, life and death"
+      gloss: "hope"
+      source: {kind: coined}
+    - form: anorva
+      class: n f
+      field: "The body, life and death"
+      gloss: "despair; hope given up"
+      source: {kind: coined}
+      built: ["an-", orva]
+    - form: nemborva
+      class: n f
+      field: "The body, life and death"
+      gloss: "disappointment; a hope that has fallen"
+      source: {kind: coined}
+      built: ["nemb-", orva]
+    - form: bruzeza
+      class: n f
+      field: "The body, life and death"
+      gloss: "lust; the want of the body, the heat of the blood"
+      source: {kind: coined}
+    - form: nethoron
+      class: n n
+      field: "The body, life and death"
+      gloss: "romantic love; the love between lovers"
+      source: {kind: coined}
     - form: tharnela
       class: n f
       field: "Time, the calendar and the festivals"
@@ -2148,6 +2478,7 @@ data:
       built: ["thil-", yunakos]
     - form: marendis
       class: n f
+      plural: marendar
       field: "Learning, speech and the letters"
       gloss: "wisdom"
       source: {kind: inherited}
@@ -2350,6 +2681,8 @@ data:
       source: {kind: inherited}
     - {form: mazeron, class: adv, field: Qualities, gloss: "more", source: {kind: inherited}}
     - {form: nizeron, class: adv, field: Qualities, gloss: "less", source: {kind: inherited}}
+    - {form: zelos, class: adj, field: Qualities, gloss: "low", source: {kind: coined}}
+    - {form: levros, class: adj, field: Qualities, gloss: "smooth", source: {kind: coined}}
     - form: yarethen
       class: v
       field: "Doing, going and being"
@@ -2450,6 +2783,142 @@ data:
       field: "Doing, going and being"
       gloss: "to follow; to attend as a client attends"
       source: {kind: inherited}
+    - form: valmathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to walk; to pace out a line"
+      source: {kind: coined}
+    - form: lendathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to set; to lay a thing in its place"
+      source: {kind: coined}
+    - form: olmathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to open"
+      source: {kind: coined}
+    - form: volzathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to turn"
+      source: {kind: coined}
+    - form: klinethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to bend; to lean; to bow"
+      source: {kind: coined}
+    - form: pethathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to ask"
+      source: {kind: coined}
+    - form: zundathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to tie; to make fast; to knot"
+      source: {kind: coined}
+    - form: linkathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to leave; to let be; to let go"
+      source: {kind: coined}
+    - form: kremethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to burn"
+      source: {kind: coined}
+    - form: sistathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to stop; to cease"
+      source: {kind: coined}
+    - form: avethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to want; to desire"
+      source: {kind: coined}
+    - form: memrathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to remember"
+      source: {kind: coined}
+    - form: klamethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to call out; to shout"
+      source: {kind: coined}
+    - form: anolmathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to close"
+      source: {kind: coined}
+      built: ["an-", olmathen]
+    - form: anmemrathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to forget"
+      source: {kind: coined}
+      built: ["an-", memrathen]
+    - form: dunathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to be able; can"
+      source: {kind: coined}
+    - form: klamandon
+      class: n n
+      field: "Doing, going and being"
+      gloss: "a call; a shout"
+      source: {kind: coined}
+      built: ["klam-", "-andon"]
+    - form: valmandon
+      class: n n
+      field: "Doing, going and being"
+      gloss: "a walking; the walk of a boundary"
+      source: {kind: coined}
+      built: ["valm-", "-andon"]
+    - form: nelthathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to smell; to catch the smell of a thing"
+      source: {kind: coined}
+    - form: tirmathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to taste"
+      source: {kind: coined}
+    - form: tolvathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to feel; to touch"
+      source: {kind: coined}
+    - form: thesavethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to envy"
+      source: {kind: coined}
+      built: ["thes-", avethen]
+    - form: orvathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to hope"
+      source: {kind: coined}
+    - form: vethdokathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to boast"
+      source: {kind: coined}
+      built: ["veth-", dokathen]
+    - form: varelathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to trust; to believe"
+      source: {kind: coined}
+    - form: nethorathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to love, as lovers love"
+      source: {kind: coined}
     - form: urkis
       class: num
       field: Numbers and grammar words
@@ -2630,6 +3099,81 @@ data:
       field: Numbers and grammar words
       gloss: "under, beneath"
       source: {kind: inherited, form: dhel}
+    - form: pra
+      class: part
+      field: Numbers and grammar words
+      gloss: "before; in front of"
+      source: {kind: coined}
+    - form: kona
+      class: part
+      field: Numbers and grammar words
+      gloss: "with; together with"
+      source: {kind: coined}
+    - form: fos
+      class: part
+      field: Numbers and grammar words
+      gloss: "out; outside; beyond"
+      source: {kind: coined}
+    - form: kir
+      class: part
+      field: Numbers and grammar words
+      gloss: "around; round"
+      source: {kind: coined}
+    - form: sa
+      class: part
+      field: Numbers and grammar words
+      gloss: "as; like; as when"
+      source: {kind: coined}
+    - form: kan
+      class: part
+      field: Numbers and grammar words
+      gloss: "when"
+      source: {kind: coined}
+    - form: ves
+      class: part
+      field: Numbers and grammar words
+      gloss: "or"
+      source: {kind: coined}
+    - form: ol
+      class: part
+      field: Numbers and grammar words
+      gloss: "of; set after the noun it belongs to, and before a pronoun to make a possessive (ol en, my)"
+      source: {kind: coined}
+    - form: kanai
+      class: adv
+      field: Numbers and grammar words
+      gloss: "then; once; at that time: sets a narrated passage in the past"
+      source: {kind: coined}
+    - form: lokanthi
+      class: adv
+      field: Numbers and grammar words
+      gloss: "in days to come; hereafter: sets a prophecy or a promise in the future"
+      source: {kind: coined}
+      built: ["lok-", "-anthi"]
+    - form: karzoros
+      class: adj
+      field: Numbers and grammar words
+      gloss: "third"
+      source: {kind: coined}
+      built: ["karz-", "-oros"]
+    - form: felzoros
+      class: adj
+      field: Numbers and grammar words
+      gloss: "fourth"
+      source: {kind: coined}
+      built: ["felz-", "-oros"]
+    - form: yolemoros
+      class: adj
+      field: Numbers and grammar words
+      gloss: "fifth"
+      source: {kind: coined}
+      built: ["yolem-", "-oros"]
+    - form: selthoros
+      class: adj
+      field: Numbers and grammar words
+      gloss: "sixth"
+      source: {kind: coined}
+      built: ["selth-", "-oros"]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -5380,7 +5924,7 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 **The consonants.** _l_, _r_, _s_, _z_, _m_, _n_, _t_, _k_ and _v_ do most of the work. _th_ stands inside a word, as in _semrotha_. _z_ is the language's mark, and it stands where Helonic would put _s_.
 
-**Clusters.** _lm_, _lt_, _rm_, _rth_, _nd_ and _st_ meet inside a word. A word opens on one consonant or on _tr_, _pr_ or _st_.
+**Clusters.** _lm_, _lt_, _rm_, _rth_, _nd_ and _st_ meet inside a word. A word opens on one consonant or on a stop followed by _l_ or _r_.
 
 **Endings.** Nouns end in _-os_, _-is_, _-a_, _-en_ or _-on_. Titles end in _-andos_, _-enos_ or _-or_. Feminine names end in _-a_ or _-enna_.
 
@@ -5405,21 +5949,31 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 **Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l_. No more than three consonants stand together.
 
-**Stress.** The stress falls on the next-to-last syllable when it is long (a long vowel, a diphthong, or a closing consonant) and otherwise on the syllable before it. It follows from the lengths and is not written. The result is the measured, falling rhythm foreigners hear in a Vylari speech: _zaros_ is stressed on _ran_, _sorima_ on _so_, _ulthalon_ on _tha_.
+**Stress.** Vylari stresses its words by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables on the first, a longer word on the second-to-last syllable, and an acute (_á_) marks any other stress. Vowel length does not move it, and each diphthong counts as one syllable. So every word of more than one syllable ends by falling from a stressed syllable to an unstressed one, and that is the measured, falling rhythm foreigners hear in a Vylari speech: _zaros_ is said ZA-ros, _sorima_ so-RI-ma, _ulthalon_ ul-THA-lon.
 
 ## Grammar
 
 ### Nouns
 
-A noun is masculine, feminine or neuter. Gender is mostly formal: nouns in _-a_ are mostly feminine and nouns in _-os_ mostly masculine, but _daimela_ (a patron) ends in _-a_ and is masculine because of what a patron is, and the names of trees are feminine though they end in _-os_. The neuter takes things, beasts of burden, children not yet of age and slaves. The gods, the sovereign, the founders of houses, the great river and the gold coin are hallowed: their names end in _-as_ and have no sex.
+A noun is masculine, feminine or neuter. Gender is mostly formal: nouns in _-a_ are mostly feminine and nouns in _-os_ mostly masculine, but _daimela_ (a patron) ends in _-a_ and is masculine because of what a patron is, and the names of trees are feminine though they end in _-os_. The neuter takes things, beasts of burden, children not yet of age and slaves. A noun has no cases: one form serves as subject and as object, and the order and the sense of the sentence tell them apart. The gods, the sovereign, the founders of houses, the great river and the gold coin are hallowed: their names end in _-as_ and have no sex.
 
-A noun in _-os_ takes _-oi_ in the plural, and one in _-alon_ takes _-alar_.
+**The plural.** The plural ending is _-oi_. It takes the place of a final _-os_, _-on_, _-is_, _-as_ or vowel, and it is added after any other final consonant. So _talothos_ (a standing stone) becomes _talothoi_, _zemrolon_ (a tomb) _zemroloi_, _Orzas_ _Orzoi_ and _dekazu_ (a hand) _dekazoi_, while _harlen_ (a name) becomes _harlenoi_ and _kalmethar_ (an ancestor) _kalmetharoi_. Three kinds of noun take another plural:
+
+- **A noun in _-alon_ takes _-alar_:** _thelvaralon_ (a noble house) becomes _thelvaralar_.
+- **A noun in _-a_ takes _-ai_,** which keeps a woman's word apart from a man's: _kambetha_ (a wife) becomes _kambethai_ and _kambethos_ (a husband) _kambethoi_, and _orkaima_ (an eagle) becomes _orkaimai_.
+- **Where a thing and a person share a stem, the thing takes _-ar_** and the person keeps the rule: _vornon_ (a law) becomes _vornar_ and _vornos_ (a magistrate of the courts) _vornoi_; _zaron_ (an oath) becomes _zarar_ and _zaros_ _zaroi_. The lexicon gives each such plural with its word.
+
+A hallowed noun is one of its kind, and its plural is seldom said. Where one is, a hallowed noun that shares a stem with a person takes _-asoi_, so _kurthas_ (the Senator, hallowed) becomes _kurthasoi_ and stays apart from _kurthoi_, the senators. _aistroi_ (the summer northerlies) and _karalzis_ (the household gods) are plural already.
 
 **The house name.** The ending _-is_ makes the old house names: _Kalmetharis_ is "those of Kalmethar", the descendants of a founder of that name. The hallowed _-as_ marks the given names of noble families, whether the bearer is a man or a woman.
 
 ### Adjectives and adverbs
 
 An adjective takes the gender of its noun, which lets a poet separate the two by a whole line. Most adjectives are like _thelvaros_ (noble): masculine _thelvaros_, feminine _thelvara_, neuter _thelvaron_. A smaller group, such as _melvar_ (great), has one form for every gender. The present participle, in _-andar_, is one of them: _dorandar_ (enduring), _humelthandar_ (resting).
+
+An adjective agrees in number as well: _-os_ becomes _-oi_, _-a_ becomes _-ai_ and _-on_ becomes _-oi_, so _zelai pelthrai_ are the low wards and _ankeloi thelvaralar_ the old noble houses. The one-form adjectives and the participles in _-andar_ do not change. Where the noun is hallowed, the adjective takes the hallowed _-as_: _holimas Orzas_, the first sovereign.
+
+An adjective or a participle stands as a noun unchanged: _ankeloi_, the old; _thernandar_, the living; _kalmethandar_, the dying; _lozandar_, those carrying, the porters.
 
 | Adverb                             | How it is made                                               | Example                                                        |
 | ---------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
@@ -5429,6 +5983,8 @@ An adjective takes the gender of its noun, which lets a poet separate the two by
 | comparative                        | adjective _-azos_, _-aza_, _-azon_; the adverb is the neuter | _thelvarazos_, nobler; _thelvarazon_, more nobly               |
 | superlative                        | adjective _-immos_, _-imma_, _-immon_; the adverb _-immai_   | _thelvarimmos_, noblest; _thelvarimmai_, most nobly            |
 | irregular                          | the commonest adverbs                                        | _aithar_ well, _korimen_ badly, _mazeron_ more, _nizeron_ less |
+
+**Ordinals.** _holimos_ is first and _ethoros_ second. From third on, the ordinal is the cardinal's stem with _-oros_ in place of its ending: _karzis_ (three) gives _karzoros_, _felzur_ (four) _felzoros_, _yolemiks_ (five) _yolemoros_ and _selthur_ (six) _selthoros_. An ordinal agrees like any adjective in _-os_.
 
 ### Pronouns and pointing words
 
@@ -5449,9 +6005,64 @@ The third person is a pointing word. There are three, and each carries an attitu
 
 The reflexive _veth-_ points back to the subject of the main verb, so in reported speech it always means the speaker being reported and never the reporter. A Vylari historian keeps three people straight in one sentence that way.
 
+The pointing words agree like adjectives, plural included: _denoi_ and _denai_, _alathoi_ and _alathai_. Said of a hallowed noun, a pointing word takes the hallowed _-as_: _alathas_ is the yonder one who is a god or a founder.
+
+**The relative word.** _kedis_ (who) is also the relative word for whom, which and that, and it never changes. "Where" is _ir kedis_ (in which), "from which" _fos kedis_, and "to whom" _fa kedis_. The relative clause follows its noun and keeps its verb last: _thramezoi kedis Kurthas lozezoi_, the legions that carried the Senator.
+
+### "Of" and the possessives
+
+_ol_, "of", stands after the noun it belongs to, and the owner follows it: _zemrolon ol helthos_, the tomb of the father. The thing possessed comes first and the owner second, so a chain reads left to right: _helthos ol helthos_, the father's father. A compound says the same thing in one word, as _Kalpezthauras_, the Keeper of the Gates, says _thauras ol kalpezai_.
+
+A possessive is _ol_ with a pronoun, set after the noun:
+
+|                                          | Possessive                                                   |
+| ---------------------------------------- | ------------------------------------------------------------ |
+| my                                       | _ol en_                                                      |
+| your, of one person                      | _ol ko_                                                      |
+| our                                      | _ol enoi_                                                    |
+| your, of many or formal                  | _ol koroi_                                                   |
+| his, her, its, their own (the subject's) | _ol vethis_                                                  |
+| his, her, its, their (someone else's)    | _ol alathos_, _ol alatha_, _ol alathon_; plural _ol alathoi_ |
+| the Founder's, the god's                 | _ol alathas_                                                 |
+
+The ending _-en_ keeps its own work, "of" or "from" a place or a people: _aistren_, of the north.
+
 ### Word order
 
 Legal prose keeps the subject first and the verb last by long convention, and ordinary speech mostly does the same; High Vylari in verse and oratory sets its words as it likes. One figure is taught in every school: **the suspended sentence**, clause after clause stacked before a main verb held to the last word, so that an audience hears the whole of a plea before it learns what is being asked of it. Senate speeches are built this way, and a skilled orator can keep a chamber silent for a long minute waiting for his verb.
+
+### Verbs
+
+A verb is cited by its infinitive, in _-athen_, _-ethen_ or _-ithen_, and it has one present pattern. The infinitive's vowel carries into every form, and one of six endings takes the place of _-then_:
+
+| Person      | Ending | _lokathen_ (to come) | _yarethen_ (to be) | _urzithen_ (to rise) |
+| ----------- | ------ | -------------------- | ------------------ | -------------------- |
+| I           | _-men_ | _lokamen_            | _yaremen_          | _urzimen_            |
+| you         | _-zen_ | _lokazen_            | _yarezen_          | _urzizen_            |
+| he, she, it | _-zor_ | _lokazor_            | _yarezor_          | _urzizor_            |
+| we          | _-mar_ | _lokamar_            | _yaremar_          | _urzimar_            |
+| you all     | _-zar_ | _lokazar_            | _yarezar_          | _urzizar_            |
+| they        | _-zoi_ | _lokazoi_            | _yarezoi_          | _urzizoi_            |
+
+A verb cited in _-atora_, as _zenothatora_ (to ponder) and _solkatora_ (to follow), takes the _-athen_ forms on the stem before _-atora_: _zenothazor_, he ponders; _solkazoi_, they follow. _vethor_ (says) has its one form. A verb takes the same forms whatever its subject, and a hallowed subject, _Orzas_ or a god, changes nothing in it.
+
+_ar_ (not) stands directly before the verb it negates, an infinitive included: _harlen ar daimamen_, I give no name. In a clause with no verb, it stands before the word it negates: _ar ol en, ar urkis_, not mine, not one.
+
+### Time without tenses
+
+The verb has the present only, and time is said in words.
+
+- **_kanai_, "then, once, at that time",** opens a narrated passage, and the verbs after it are read as past: _Kanai luvetha yarezor_, it was spring. It stands once at the head of a passage, and again only where the time shifts.
+- **_lokanthi_, "in days to come",** opens a prophecy or a promise, and the verbs after it are read as future. It is _lokandar_ (coming) made an adverb, as _dorandar_ gives _doranthi_.
+- **The perfect,** "I have done it", is _kerathen_ (to hold, to have) with the participle in _-thos_, which agrees with the thing done: _Veramis oktha keramen_, I have seen the city.
+- **An earlier event inside a narrated passage** takes a time word, as _ethorai_ (later, next).
+
+### Let, must, may and can
+
+- **"Let"** is _voza_ with the infinitive and its subject named: _Voza veramis veramis dokathen_, let the city say the city; _Voza ulthoi okethen denon zaron_, may the gods see this oath. With no subject named, _voza_ is a command to the one addressed. For "let me", the speaker gives the command to himself: _Ul voza holimai dokathen_, and let me say first.
+- **Must** is _orfenathen_ (to owe) with an infinitive: _Orfenazor ar volzathen_, he must not turn, or "he owes not turning".
+- **May**, of what is allowed, is _yestharon yarezor_ (it is lawful) with an infinitive: _Yestharon ar yarezor lozethen_, it is not lawful to carry; nobody may carry it.
+- **Can** is _dunathen_ (to be able) with an infinitive: _Thrima veramis tambathen dunazor_, a boundary can make a city.
 
 ### Asking, commanding, exclaiming
 
@@ -5459,9 +6070,9 @@ A word at the head of the sentence says what kind of sentence it is, and the res
 
 | Word      | Opens                              | Example                                                       |
 | --------- | ---------------------------------- | ------------------------------------------------------------- |
-| _eza_     | a question                         | _Eza a' daimela falvator._ "Is the patron out?"               |
-| _areza_   | a question that expects yes        | _Areza a' thelmos lokator._ "The client has come, hasn't he?" |
-| _vez_     | a question that expects no         | _Vez humelthandar yaretor._ "It isn't resting, is it?"        |
+| _eza_     | a question                         | _Eza a' daimela falvazor._ "Is the patron out?"               |
+| _areza_   | a question that expects yes        | _Areza a' thelmos lokazor._ "The client has come, hasn't he?" |
+| _vez_     | a question that expects no         | _Vez humelthandar yarezor._ "It isn't resting, is it?"        |
 | _voza_    | a command, with the infinitive     | _Voza lokathen._ "Come."                                      |
 | _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen._ "Do not come."                            |
 | _aia_     | an exclamation                     | _Aia, theson._ "That thing of yours!"                         |
@@ -5496,16 +6107,16 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 ## Sample Phrases
 
-"Ulthandoi okointor denon zaron, ul kalmetharen."
+"Voza ulthoi okethen denon zaron, ul kalmetharoi."
 : "May the gods see this oath, and the ancestors." (High Vylari: the opening of a sworn oath.)
 
 "Daimela, orfenamen."
 : "Patron, I am in your debt." (The client's greeting at the morning call; no pronoun, since saying "I" aloud would be forward.)
 
-"A' thelmos lokator. A' daimela falvator."
+"A' thelmos lokazor. A' daimela falvazor."
 : "The client's come; the patron's out." (Alessa street speech, with the worn-down article.)
 
-"Humelthandar yaretor."
+"Humelthandar yarezor."
 : "It is resting." (Said of a ruin, with a straight face.)
 
 "Aia, theson."
@@ -5569,7 +6180,7 @@ FROM edges WHERE language = 'thalorna-note-skill-vylarilng' ORDER BY position
 
 ### Clusters
 
-No more than three consonants stand together inside a word, and a pair of letters such as `th` counts as one. Two vowels never stand side by side except as one of the four diphthongs; where an ending would bring two vowels together, the stem's vowel gives way, as the suffix table shows.
+No more than three consonants stand together inside a word, and a pair of letters such as `th` counts as one. Two vowels never stand side by side except as one of the three diphthongs; where an ending would bring two vowels together, the stem's vowel gives way, as the suffix table shows.
 
 ```sql
 SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
@@ -5744,7 +6355,7 @@ A verb is cited here by its infinitive, the form a grammar master writes on the 
 
 ### Numbers and grammar words
 
-The numbers count in tens, and twelve has a word of its own, _dorekis_, because it is the number of the gods. The pronouns are short and seldom said: _en_ (I) spoken aloud is a raised voice.
+The numbers count in tens, and twelve has a word of its own, _dorekis_, because it is the number of the gods. From third on, an ordinal is the cardinal's stem with _-oros_: _karzoros_, third. The pronouns are short and seldom said: _en_ (I) spoken aloud is a raised voice.
 
 ## Shared roots {#shared-roots}
 

@@ -9,3 +9,4 @@
 - Several scripts are named varieties of the main ones: Tharavarkon and Thurarth of the Thuravark runes, Okhatha-zethu and Merazan of Qalezu, and Veldikko of the Semaron.
 - The K'otsel cord records are described knot by knot, Kaliharans keep their knowledge by memory through the new Vaarthari skill, and the Ithari's stone marks are no script.
 - Every Khelathi god has a full-colour emblem icon, its hieroglyph painted on lapis.
+- New spelling pages show how roman Vylari, Khazari, Nordmal and Khelathi are set in Semaron, Pirzath, Thuravark and Qalezu.

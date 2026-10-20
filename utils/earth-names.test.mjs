@@ -116,3 +116,19 @@ test("a retired entry's form is read past and its replacement is checked", () =>
         ["a.md:4:33", "a.md:8:10"],
     );
 });
+
+test("a mapping note's rows are read past", () => {
+    const text = [
+        "---",
+        "data:",
+        "  map:",
+        "    name: qalezu",
+        "    rows:",
+        '      - {from: "Babylon", to: "x", at: start}',
+        "---",
+        "Babylon is named in prose.",
+    ].join("\n");
+    const found = findEarthNames("assets/content/Lore/Scripts/X.md", text);
+    assert.equal(found.length, 1);
+    assert.match(found[0], /:8:1: error: "Babylon"/);
+});

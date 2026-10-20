@@ -7,6 +7,40 @@ compatibility:
     minimum: "14.359"
     verified: "14.364"
 
+# One entry per language with a lexicon. A name is four letters, except `vyl`:
+# ISO 639 assigns no four-letter code, so none reads as a real language's tag.
+languages:
+    aele: { tag: art-x-aele, note: skill-aelendlng }
+    atar: { tag: art-x-atar, note: skill-atarzadilng }
+    beth: { tag: art-x-beth, note: skill-bethunlng }
+    biza: { tag: art-x-biza, note: skill-byzarnlng }
+    dunh: { tag: art-x-dunh, note: skill-dunharlng }
+    ekpe: { tag: art-x-ekpe, note: skill-ekpelulng }
+    elav: { tag: art-x-elav, note: skill-elvndrlng }
+    gruk: { tag: art-x-gruk, note: skill-grukarlng }
+    helo: { tag: art-x-helo, note: skill-helonclng }
+    hvar: { tag: art-x-hvar, note: skill-hvarnlng }
+    jurt: { tag: art-x-jurt, note: skill-jurthatlng }
+    kali: { tag: art-x-kali, note: skill-kalihrlng }
+    khaz: { tag: art-x-khaz, note: skill-khazarlng }
+    khel: { tag: art-x-khel, note: skill-khelathlng }
+    kich: { tag: art-x-kich, note: skill-kicheklng }
+    nord: { tag: art-x-nord, note: skill-nordmalng }
+    nyal: { tag: art-x-nyal, note: skill-nyalbnlng }
+    okha: { tag: art-x-okha, note: skill-okharclng }
+    oske: { tag: art-x-oske, note: skill-osketlng }
+    prov: { tag: art-x-prov, note: skill-provnzlng }
+    sina: { tag: art-x-sina, note: skill-sinalelng }
+    sovi: { tag: art-x-sovi, note: skill-sowideslng }
+    tant: { tag: art-x-tant, note: skill-tantsoulng }
+    taru: { tag: art-x-taru, note: skill-taruzelilng }
+    tarv: { tag: art-x-tarv, note: skill-tarvenlng }
+    telu: { tag: art-x-telu, note: skill-khazrilng }
+    valt: { tag: art-x-valt, note: skill-valtarlng }
+    varo: { tag: art-x-varo, note: skill-varokhlng }
+    vedy: { tag: art-x-vedy, note: skill-vedyarlng }
+    vyl: { tag: art-x-vyl, note: skill-vylarilng }
+
 # The Item and Actor packs are SoHL documents and stamp this version; declaring
 # it restricts no world, so the journals read under any system.
 systems:

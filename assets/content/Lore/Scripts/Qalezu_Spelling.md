@@ -1,0 +1,2909 @@
+---
+shortcode: mapqalezu
+name: {full: Qalezu Spelling, aliases: []}
+type: doc
+subType: reference
+data:
+  packFolder: languages
+  map:
+    name: qalezu
+    rows:
+      - ["l", "𞨀"]
+      - ["L", "𞨀"]
+      - ["r", "𞨁"]
+      - ["R", "𞨁"]
+      - ["t", "𞨂"]
+      - ["T", "𞨂"]
+      - ["d", "𞨃"]
+      - ["D", "𞨃"]
+      - ["z", "𞨄"]
+      - ["Z", "𞨄"]
+      - ["s", "𞨅"]
+      - ["S", "𞨅"]
+      - ["g", "𞨆"]
+      - ["G", "𞨆"]
+      - ["k", "𞨇"]
+      - ["K", "𞨇"]
+      - ["n", "𞨈"]
+      - ["N", "𞨈"]
+      - ["m", "𞨊"]
+      - ["M", "𞨊"]
+      - ["q", "𞨋"]
+      - ["Q", "𞨋"]
+      - ["h", "𞨎"]
+      - ["H", "𞨎"]
+      - ["p", "𞨐"]
+      - ["P", "𞨐"]
+      - ["b", "𞨑"]
+      - ["B", "𞨑"]
+      - ["f", "𞨒"]
+      - ["F", "𞨒"]
+      - ["w", "𞨓"]
+      - ["W", "𞨓"]
+      - ["y", "𞨔"]
+      - ["Y", "𞨔"]
+      - ["th", "𞨉"]
+      - ["tH", "𞨉"]
+      - ["Th", "𞨉"]
+      - ["TH", "𞨉"]
+      - ["sh", "𞨏"]
+      - ["sH", "𞨏"]
+      - ["Sh", "𞨏"]
+      - ["SH", "𞨏"]
+      - ["kh", "𞨌"]
+      - ["kH", "𞨌"]
+      - ["Kh", "𞨌"]
+      - ["KH", "𞨌"]
+      - ["gh", "𞨍"]
+      - ["gH", "𞨍"]
+      - ["Gh", "𞨍"]
+      - ["GH", "𞨍"]
+      - ["ch", "𞨖"]
+      - ["cH", "𞨖"]
+      - ["Ch", "𞨖"]
+      - ["CH", "𞨖"]
+      - ["tj", "𞨖"]
+      - ["tJ", "𞨖"]
+      - ["Tj", "𞨖"]
+      - ["TJ", "𞨖"]
+      - ["ll", "𞨗"]
+      - ["lL", "𞨗"]
+      - ["Ll", "𞨗"]
+      - ["LL", "𞨗"]
+      - ["rr", "𞨘"]
+      - ["rR", "𞨘"]
+      - ["Rr", "𞨘"]
+      - ["RR", "𞨘"]
+      - ["tt", "𞨙"]
+      - ["tT", "𞨙"]
+      - ["Tt", "𞨙"]
+      - ["TT", "𞨙"]
+      - ["dd", "𞨚"]
+      - ["dD", "𞨚"]
+      - ["Dd", "𞨚"]
+      - ["DD", "𞨚"]
+      - ["zz", "𞨛"]
+      - ["zZ", "𞨛"]
+      - ["Zz", "𞨛"]
+      - ["ZZ", "𞨛"]
+      - ["ss", "𞨜"]
+      - ["sS", "𞨜"]
+      - ["Ss", "𞨜"]
+      - ["SS", "𞨜"]
+      - ["gg", "𞨝"]
+      - ["gG", "𞨝"]
+      - ["Gg", "𞨝"]
+      - ["GG", "𞨝"]
+      - ["kk", "𞨞"]
+      - ["kK", "𞨞"]
+      - ["Kk", "𞨞"]
+      - ["KK", "𞨞"]
+      - ["nn", "𞨟"]
+      - ["nN", "𞨟"]
+      - ["Nn", "𞨟"]
+      - ["NN", "𞨟"]
+      - ["mm", "𞨡"]
+      - ["mM", "𞨡"]
+      - ["Mm", "𞨡"]
+      - ["MM", "𞨡"]
+      - ["qq", "𞨢"]
+      - ["qQ", "𞨢"]
+      - ["Qq", "𞨢"]
+      - ["QQ", "𞨢"]
+      - ["hh", "𞨥"]
+      - ["hH", "𞨥"]
+      - ["Hh", "𞨥"]
+      - ["HH", "𞨥"]
+      - ["pp", "𞨧"]
+      - ["pP", "𞨧"]
+      - ["Pp", "𞨧"]
+      - ["PP", "𞨧"]
+      - ["bb", "𞨨"]
+      - ["bB", "𞨨"]
+      - ["Bb", "𞨨"]
+      - ["BB", "𞨨"]
+      - ["ff", "𞨩"]
+      - ["fF", "𞨩"]
+      - ["Ff", "𞨩"]
+      - ["FF", "𞨩"]
+      - ["ww", "𞨪"]
+      - ["wW", "𞨪"]
+      - ["Ww", "𞨪"]
+      - ["WW", "𞨪"]
+      - ["yy", "𞨫"]
+      - ["yY", "𞨫"]
+      - ["Yy", "𞨫"]
+      - ["YY", "𞨫"]
+      - ["tth", "𞨠"]
+      - ["ttH", "𞨠"]
+      - ["tTh", "𞨠"]
+      - ["tTH", "𞨠"]
+      - ["Tth", "𞨠"]
+      - ["TtH", "𞨠"]
+      - ["TTh", "𞨠"]
+      - ["TTH", "𞨠"]
+      - ["ssh", "𞨦"]
+      - ["ssH", "𞨦"]
+      - ["sSh", "𞨦"]
+      - ["sSH", "𞨦"]
+      - ["Ssh", "𞨦"]
+      - ["SsH", "𞨦"]
+      - ["SSh", "𞨦"]
+      - ["SSH", "𞨦"]
+      - ["kkh", "𞨣"]
+      - ["kkH", "𞨣"]
+      - ["kKh", "𞨣"]
+      - ["kKH", "𞨣"]
+      - ["Kkh", "𞨣"]
+      - ["KkH", "𞨣"]
+      - ["KKh", "𞨣"]
+      - ["KKH", "𞨣"]
+      - ["ggh", "𞨤"]
+      - ["ggH", "𞨤"]
+      - ["gGh", "𞨤"]
+      - ["gGH", "𞨤"]
+      - ["Ggh", "𞨤"]
+      - ["GgH", "𞨤"]
+      - ["GGh", "𞨤"]
+      - ["GGH", "𞨤"]
+      - ["cch", "𞨬"]
+      - ["ccH", "𞨬"]
+      - ["cCh", "𞨬"]
+      - ["cCH", "𞨬"]
+      - ["Cch", "𞨬"]
+      - ["CcH", "𞨬"]
+      - ["CCh", "𞨬"]
+      - ["CCH", "𞨬"]
+      - ["ttj", "𞨬"]
+      - ["ttJ", "𞨬"]
+      - ["tTj", "𞨬"]
+      - ["tTJ", "𞨬"]
+      - ["Ttj", "𞨬"]
+      - ["TtJ", "𞨬"]
+      - ["TTj", "𞨬"]
+      - ["TTJ", "𞨬"]
+      - ["thth", "𞨠"]
+      - ["thtH", "𞨠"]
+      - ["thTh", "𞨠"]
+      - ["thTH", "𞨠"]
+      - ["tHth", "𞨠"]
+      - ["tHtH", "𞨠"]
+      - ["tHTh", "𞨠"]
+      - ["tHTH", "𞨠"]
+      - ["Thth", "𞨠"]
+      - ["ThtH", "𞨠"]
+      - ["ThTh", "𞨠"]
+      - ["ThTH", "𞨠"]
+      - ["THth", "𞨠"]
+      - ["THtH", "𞨠"]
+      - ["THTh", "𞨠"]
+      - ["THTH", "𞨠"]
+      - ["shsh", "𞨦"]
+      - ["shsH", "𞨦"]
+      - ["shSh", "𞨦"]
+      - ["shSH", "𞨦"]
+      - ["sHsh", "𞨦"]
+      - ["sHsH", "𞨦"]
+      - ["sHSh", "𞨦"]
+      - ["sHSH", "𞨦"]
+      - ["Shsh", "𞨦"]
+      - ["ShsH", "𞨦"]
+      - ["ShSh", "𞨦"]
+      - ["ShSH", "𞨦"]
+      - ["SHsh", "𞨦"]
+      - ["SHsH", "𞨦"]
+      - ["SHSh", "𞨦"]
+      - ["SHSH", "𞨦"]
+      - ["khkh", "𞨣"]
+      - ["khkH", "𞨣"]
+      - ["khKh", "𞨣"]
+      - ["khKH", "𞨣"]
+      - ["kHkh", "𞨣"]
+      - ["kHkH", "𞨣"]
+      - ["kHKh", "𞨣"]
+      - ["kHKH", "𞨣"]
+      - ["Khkh", "𞨣"]
+      - ["KhkH", "𞨣"]
+      - ["KhKh", "𞨣"]
+      - ["KhKH", "𞨣"]
+      - ["KHkh", "𞨣"]
+      - ["KHkH", "𞨣"]
+      - ["KHKh", "𞨣"]
+      - ["KHKH", "𞨣"]
+      - ["ghgh", "𞨤"]
+      - ["ghgH", "𞨤"]
+      - ["ghGh", "𞨤"]
+      - ["ghGH", "𞨤"]
+      - ["gHgh", "𞨤"]
+      - ["gHgH", "𞨤"]
+      - ["gHGh", "𞨤"]
+      - ["gHGH", "𞨤"]
+      - ["Ghgh", "𞨤"]
+      - ["GhgH", "𞨤"]
+      - ["GhGh", "𞨤"]
+      - ["GhGH", "𞨤"]
+      - ["GHgh", "𞨤"]
+      - ["GHgH", "𞨤"]
+      - ["GHGh", "𞨤"]
+      - ["GHGH", "𞨤"]
+      - ["chch", "𞨬"]
+      - ["chcH", "𞨬"]
+      - ["chCh", "𞨬"]
+      - ["chCH", "𞨬"]
+      - ["cHch", "𞨬"]
+      - ["cHcH", "𞨬"]
+      - ["cHCh", "𞨬"]
+      - ["cHCH", "𞨬"]
+      - ["Chch", "𞨬"]
+      - ["ChcH", "𞨬"]
+      - ["ChCh", "𞨬"]
+      - ["ChCH", "𞨬"]
+      - ["CHch", "𞨬"]
+      - ["CHcH", "𞨬"]
+      - ["CHCh", "𞨬"]
+      - ["CHCH", "𞨬"]
+      - ["chtj", "𞨬"]
+      - ["chtJ", "𞨬"]
+      - ["chTj", "𞨬"]
+      - ["chTJ", "𞨬"]
+      - ["cHtj", "𞨬"]
+      - ["cHtJ", "𞨬"]
+      - ["cHTj", "𞨬"]
+      - ["cHTJ", "𞨬"]
+      - ["Chtj", "𞨬"]
+      - ["ChtJ", "𞨬"]
+      - ["ChTj", "𞨬"]
+      - ["ChTJ", "𞨬"]
+      - ["CHtj", "𞨬"]
+      - ["CHtJ", "𞨬"]
+      - ["CHTj", "𞨬"]
+      - ["CHTJ", "𞨬"]
+      - ["tjch", "𞨬"]
+      - ["tjcH", "𞨬"]
+      - ["tjCh", "𞨬"]
+      - ["tjCH", "𞨬"]
+      - ["tJch", "𞨬"]
+      - ["tJcH", "𞨬"]
+      - ["tJCh", "𞨬"]
+      - ["tJCH", "𞨬"]
+      - ["Tjch", "𞨬"]
+      - ["TjcH", "𞨬"]
+      - ["TjCh", "𞨬"]
+      - ["TjCH", "𞨬"]
+      - ["TJch", "𞨬"]
+      - ["TJcH", "𞨬"]
+      - ["TJCh", "𞨬"]
+      - ["TJCH", "𞨬"]
+      - ["tjtj", "𞨬"]
+      - ["tjtJ", "𞨬"]
+      - ["tjTj", "𞨬"]
+      - ["tjTJ", "𞨬"]
+      - ["tJtj", "𞨬"]
+      - ["tJtJ", "𞨬"]
+      - ["tJTj", "𞨬"]
+      - ["tJTJ", "𞨬"]
+      - ["Tjtj", "𞨬"]
+      - ["TjtJ", "𞨬"]
+      - ["TjTj", "𞨬"]
+      - ["TjTJ", "𞨬"]
+      - ["TJtj", "𞨬"]
+      - ["TJtJ", "𞨬"]
+      - ["TJTj", "𞨬"]
+      - ["TJTJ", "𞨬"]
+      - ["ttth", "𞨂𞨠"]
+      - ["tttH", "𞨂𞨠"]
+      - ["ttTh", "𞨂𞨠"]
+      - ["ttTH", "𞨂𞨠"]
+      - ["tTth", "𞨂𞨠"]
+      - ["tTtH", "𞨂𞨠"]
+      - ["tTTh", "𞨂𞨠"]
+      - ["tTTH", "𞨂𞨠"]
+      - ["Ttth", "𞨂𞨠"]
+      - ["TttH", "𞨂𞨠"]
+      - ["TtTh", "𞨂𞨠"]
+      - ["TtTH", "𞨂𞨠"]
+      - ["TTth", "𞨂𞨠"]
+      - ["TTtH", "𞨂𞨠"]
+      - ["TTTh", "𞨂𞨠"]
+      - ["TTTH", "𞨂𞨠"]
+      - ["sssh", "𞨅𞨦"]
+      - ["sssH", "𞨅𞨦"]
+      - ["ssSh", "𞨅𞨦"]
+      - ["ssSH", "𞨅𞨦"]
+      - ["sSsh", "𞨅𞨦"]
+      - ["sSsH", "𞨅𞨦"]
+      - ["sSSh", "𞨅𞨦"]
+      - ["sSSH", "𞨅𞨦"]
+      - ["Sssh", "𞨅𞨦"]
+      - ["SssH", "𞨅𞨦"]
+      - ["SsSh", "𞨅𞨦"]
+      - ["SsSH", "𞨅𞨦"]
+      - ["SSsh", "𞨅𞨦"]
+      - ["SSsH", "𞨅𞨦"]
+      - ["SSSh", "𞨅𞨦"]
+      - ["SSSH", "𞨅𞨦"]
+      - ["kkkh", "𞨇𞨣"]
+      - ["kkkH", "𞨇𞨣"]
+      - ["kkKh", "𞨇𞨣"]
+      - ["kkKH", "𞨇𞨣"]
+      - ["kKkh", "𞨇𞨣"]
+      - ["kKkH", "𞨇𞨣"]
+      - ["kKKh", "𞨇𞨣"]
+      - ["kKKH", "𞨇𞨣"]
+      - ["Kkkh", "𞨇𞨣"]
+      - ["KkkH", "𞨇𞨣"]
+      - ["KkKh", "𞨇𞨣"]
+      - ["KkKH", "𞨇𞨣"]
+      - ["KKkh", "𞨇𞨣"]
+      - ["KKkH", "𞨇𞨣"]
+      - ["KKKh", "𞨇𞨣"]
+      - ["KKKH", "𞨇𞨣"]
+      - ["gggh", "𞨆𞨤"]
+      - ["gggH", "𞨆𞨤"]
+      - ["ggGh", "𞨆𞨤"]
+      - ["ggGH", "𞨆𞨤"]
+      - ["gGgh", "𞨆𞨤"]
+      - ["gGgH", "𞨆𞨤"]
+      - ["gGGh", "𞨆𞨤"]
+      - ["gGGH", "𞨆𞨤"]
+      - ["Gggh", "𞨆𞨤"]
+      - ["GggH", "𞨆𞨤"]
+      - ["GgGh", "𞨆𞨤"]
+      - ["GgGH", "𞨆𞨤"]
+      - ["GGgh", "𞨆𞨤"]
+      - ["GGgH", "𞨆𞨤"]
+      - ["GGGh", "𞨆𞨤"]
+      - ["GGGH", "𞨆𞨤"]
+      - ["tttj", "𞨂𞨬"]
+      - ["tttJ", "𞨂𞨬"]
+      - ["ttTj", "𞨂𞨬"]
+      - ["ttTJ", "𞨂𞨬"]
+      - ["tTtj", "𞨂𞨬"]
+      - ["tTtJ", "𞨂𞨬"]
+      - ["tTTj", "𞨂𞨬"]
+      - ["tTTJ", "𞨂𞨬"]
+      - ["Tttj", "𞨂𞨬"]
+      - ["TttJ", "𞨂𞨬"]
+      - ["TtTj", "𞨂𞨬"]
+      - ["TtTJ", "𞨂𞨬"]
+      - ["TTtj", "𞨂𞨬"]
+      - ["TTtJ", "𞨂𞨬"]
+      - ["TTTj", "𞨂𞨬"]
+      - ["TTTJ", "𞨂𞨬"]
+      - {from: "a", to: "𞨕", at: start}
+      - ["a", ""]
+      - {from: "A", to: "𞨕", at: start}
+      - ["A", ""]
+      - {from: "e", to: "𞨕", at: start}
+      - ["e", ""]
+      - {from: "E", to: "𞨕", at: start}
+      - ["E", ""]
+      - {from: "i", to: "𞨕", at: start}
+      - ["i", ""]
+      - {from: "I", to: "𞨕", at: start}
+      - ["I", ""]
+      - {from: "o", to: "𞨕", at: start}
+      - ["o", ""]
+      - {from: "O", to: "𞨕", at: start}
+      - ["O", ""]
+      - {from: "u", to: "𞨕", at: start}
+      - ["u", ""]
+      - {from: "U", to: "𞨕", at: start}
+      - ["U", ""]
+      - ["'", "𞨕"]
+      - ["'a", "𞨕"]
+      - ["'A", "𞨕"]
+      - ["'e", "𞨕"]
+      - ["'E", "𞨕"]
+      - ["'i", "𞨕"]
+      - ["'I", "𞨕"]
+      - ["'o", "𞨕"]
+      - ["'O", "𞨕"]
+      - ["'u", "𞨕"]
+      - ["'U", "𞨕"]
+      - ["’", "𞨕"]
+      - ["’a", "𞨕"]
+      - ["’A", "𞨕"]
+      - ["’e", "𞨕"]
+      - ["’E", "𞨕"]
+      - ["’i", "𞨕"]
+      - ["’I", "𞨕"]
+      - ["’o", "𞨕"]
+      - ["’O", "𞨕"]
+      - ["’u", "𞨕"]
+      - ["’U", "𞨕"]
+      - ["'l", "𞳀"]
+      - ["'L", "𞳀"]
+      - ["'r", "𞳁"]
+      - ["'R", "𞳁"]
+      - ["'t", "𞳂"]
+      - ["'T", "𞳂"]
+      - ["'d", "𞳃"]
+      - ["'D", "𞳃"]
+      - ["'z", "𞳄"]
+      - ["'Z", "𞳄"]
+      - ["'s", "𞳅"]
+      - ["'S", "𞳅"]
+      - ["'g", "𞳆"]
+      - ["'G", "𞳆"]
+      - ["'k", "𞳇"]
+      - ["'K", "𞳇"]
+      - ["'n", "𞳈"]
+      - ["'N", "𞳈"]
+      - ["'m", "𞳊"]
+      - ["'M", "𞳊"]
+      - ["'q", "𞳋"]
+      - ["'Q", "𞳋"]
+      - ["'h", "𞳎"]
+      - ["'H", "𞳎"]
+      - ["'p", "𞳐"]
+      - ["'P", "𞳐"]
+      - ["'b", "𞳑"]
+      - ["'B", "𞳑"]
+      - ["'f", "𞳒"]
+      - ["'F", "𞳒"]
+      - ["'w", "𞳓"]
+      - ["'W", "𞳓"]
+      - ["'y", "𞳔"]
+      - ["'Y", "𞳔"]
+      - ["'th", "𞳉"]
+      - ["'Th", "𞳉"]
+      - ["'sh", "𞳏"]
+      - ["'Sh", "𞳏"]
+      - ["'kh", "𞳌"]
+      - ["'Kh", "𞳌"]
+      - ["'gh", "𞳍"]
+      - ["'Gh", "𞳍"]
+      - ["'ch", "𞳕"]
+      - ["'Ch", "𞳕"]
+      - ["'tj", "𞳕"]
+      - ["'Tj", "𞳕"]
+      - ["'ll", "𞳖"]
+      - ["'Ll", "𞳖"]
+      - ["'rr", "𞳗"]
+      - ["'Rr", "𞳗"]
+      - ["'tt", "𞳘"]
+      - ["'Tt", "𞳘"]
+      - ["'dd", "𞳙"]
+      - ["'Dd", "𞳙"]
+      - ["'zz", "𞳚"]
+      - ["'Zz", "𞳚"]
+      - ["'ss", "𞳛"]
+      - ["'Ss", "𞳛"]
+      - ["'gg", "𞳜"]
+      - ["'Gg", "𞳜"]
+      - ["'kk", "𞳝"]
+      - ["'Kk", "𞳝"]
+      - ["'nn", "𞳞"]
+      - ["'Nn", "𞳞"]
+      - ["'mm", "𞳠"]
+      - ["'Mm", "𞳠"]
+      - ["'qq", "𞳡"]
+      - ["'Qq", "𞳡"]
+      - ["'hh", "𞳤"]
+      - ["'Hh", "𞳤"]
+      - ["'pp", "𞳦"]
+      - ["'Pp", "𞳦"]
+      - ["'bb", "𞳧"]
+      - ["'Bb", "𞳧"]
+      - ["'ff", "𞳨"]
+      - ["'Ff", "𞳨"]
+      - ["'ww", "𞳩"]
+      - ["'Ww", "𞳩"]
+      - ["'yy", "𞳪"]
+      - ["'Yy", "𞳪"]
+      - ["'tth", "𞳟"]
+      - ["'Tth", "𞳟"]
+      - ["'ssh", "𞳥"]
+      - ["'Ssh", "𞳥"]
+      - ["'kkh", "𞳢"]
+      - ["'Kkh", "𞳢"]
+      - ["'ggh", "𞳣"]
+      - ["'Ggh", "𞳣"]
+      - ["'cch", "𞳫"]
+      - ["'Cch", "𞳫"]
+      - ["'ttj", "𞳫"]
+      - ["'Ttj", "𞳫"]
+      - ["'thth", "𞳟"]
+      - ["'Thth", "𞳟"]
+      - ["'shsh", "𞳥"]
+      - ["'Shsh", "𞳥"]
+      - ["'khkh", "𞳢"]
+      - ["'Khkh", "𞳢"]
+      - ["'ghgh", "𞳣"]
+      - ["'Ghgh", "𞳣"]
+      - ["'chch", "𞳫"]
+      - ["'Chch", "𞳫"]
+      - ["'chtj", "𞳫"]
+      - ["'Chtj", "𞳫"]
+      - ["'tjch", "𞳫"]
+      - ["'Tjch", "𞳫"]
+      - ["'tjtj", "𞳫"]
+      - ["'Tjtj", "𞳫"]
+      - ["'ttth", "𞳂𞨠"]
+      - ["'Ttth", "𞳂𞨠"]
+      - ["'sssh", "𞳅𞨦"]
+      - ["'Sssh", "𞳅𞨦"]
+      - ["'kkkh", "𞳇𞨣"]
+      - ["'Kkkh", "𞳇𞨣"]
+      - ["'gggh", "𞳆𞨤"]
+      - ["'Gggh", "𞳆𞨤"]
+      - ["'tttj", "𞳂𞨬"]
+      - ["'Tttj", "𞳂𞨬"]
+      - ["'al", "𞳀"]
+      - ["'Al", "𞳀"]
+      - ["'ar", "𞳁"]
+      - ["'Ar", "𞳁"]
+      - ["'at", "𞳂"]
+      - ["'At", "𞳂"]
+      - ["'ad", "𞳃"]
+      - ["'Ad", "𞳃"]
+      - ["'az", "𞳄"]
+      - ["'Az", "𞳄"]
+      - ["'as", "𞳅"]
+      - ["'As", "𞳅"]
+      - ["'ag", "𞳆"]
+      - ["'Ag", "𞳆"]
+      - ["'ak", "𞳇"]
+      - ["'Ak", "𞳇"]
+      - ["'an", "𞳈"]
+      - ["'An", "𞳈"]
+      - ["'am", "𞳊"]
+      - ["'Am", "𞳊"]
+      - ["'aq", "𞳋"]
+      - ["'Aq", "𞳋"]
+      - ["'ah", "𞳎"]
+      - ["'Ah", "𞳎"]
+      - ["'ap", "𞳐"]
+      - ["'Ap", "𞳐"]
+      - ["'ab", "𞳑"]
+      - ["'Ab", "𞳑"]
+      - ["'af", "𞳒"]
+      - ["'Af", "𞳒"]
+      - ["'aw", "𞳓"]
+      - ["'Aw", "𞳓"]
+      - ["'ay", "𞳔"]
+      - ["'Ay", "𞳔"]
+      - ["'ath", "𞳉"]
+      - ["'Ath", "𞳉"]
+      - ["'ash", "𞳏"]
+      - ["'Ash", "𞳏"]
+      - ["'akh", "𞳌"]
+      - ["'Akh", "𞳌"]
+      - ["'agh", "𞳍"]
+      - ["'Agh", "𞳍"]
+      - ["'ach", "𞳕"]
+      - ["'Ach", "𞳕"]
+      - ["'atj", "𞳕"]
+      - ["'Atj", "𞳕"]
+      - ["'el", "𞳀"]
+      - ["'El", "𞳀"]
+      - ["'er", "𞳁"]
+      - ["'Er", "𞳁"]
+      - ["'et", "𞳂"]
+      - ["'Et", "𞳂"]
+      - ["'ed", "𞳃"]
+      - ["'Ed", "𞳃"]
+      - ["'ez", "𞳄"]
+      - ["'Ez", "𞳄"]
+      - ["'es", "𞳅"]
+      - ["'Es", "𞳅"]
+      - ["'eg", "𞳆"]
+      - ["'Eg", "𞳆"]
+      - ["'ek", "𞳇"]
+      - ["'Ek", "𞳇"]
+      - ["'en", "𞳈"]
+      - ["'En", "𞳈"]
+      - ["'em", "𞳊"]
+      - ["'Em", "𞳊"]
+      - ["'eq", "𞳋"]
+      - ["'Eq", "𞳋"]
+      - ["'eh", "𞳎"]
+      - ["'Eh", "𞳎"]
+      - ["'ep", "𞳐"]
+      - ["'Ep", "𞳐"]
+      - ["'eb", "𞳑"]
+      - ["'Eb", "𞳑"]
+      - ["'ef", "𞳒"]
+      - ["'Ef", "𞳒"]
+      - ["'ew", "𞳓"]
+      - ["'Ew", "𞳓"]
+      - ["'ey", "𞳔"]
+      - ["'Ey", "𞳔"]
+      - ["'eth", "𞳉"]
+      - ["'Eth", "𞳉"]
+      - ["'esh", "𞳏"]
+      - ["'Esh", "𞳏"]
+      - ["'ekh", "𞳌"]
+      - ["'Ekh", "𞳌"]
+      - ["'egh", "𞳍"]
+      - ["'Egh", "𞳍"]
+      - ["'ech", "𞳕"]
+      - ["'Ech", "𞳕"]
+      - ["'etj", "𞳕"]
+      - ["'Etj", "𞳕"]
+      - ["'il", "𞳀"]
+      - ["'Il", "𞳀"]
+      - ["'ir", "𞳁"]
+      - ["'Ir", "𞳁"]
+      - ["'it", "𞳂"]
+      - ["'It", "𞳂"]
+      - ["'id", "𞳃"]
+      - ["'Id", "𞳃"]
+      - ["'iz", "𞳄"]
+      - ["'Iz", "𞳄"]
+      - ["'is", "𞳅"]
+      - ["'Is", "𞳅"]
+      - ["'ig", "𞳆"]
+      - ["'Ig", "𞳆"]
+      - ["'ik", "𞳇"]
+      - ["'Ik", "𞳇"]
+      - ["'in", "𞳈"]
+      - ["'In", "𞳈"]
+      - ["'im", "𞳊"]
+      - ["'Im", "𞳊"]
+      - ["'iq", "𞳋"]
+      - ["'Iq", "𞳋"]
+      - ["'ih", "𞳎"]
+      - ["'Ih", "𞳎"]
+      - ["'ip", "𞳐"]
+      - ["'Ip", "𞳐"]
+      - ["'ib", "𞳑"]
+      - ["'Ib", "𞳑"]
+      - ["'if", "𞳒"]
+      - ["'If", "𞳒"]
+      - ["'iw", "𞳓"]
+      - ["'Iw", "𞳓"]
+      - ["'iy", "𞳔"]
+      - ["'Iy", "𞳔"]
+      - ["'ith", "𞳉"]
+      - ["'Ith", "𞳉"]
+      - ["'ish", "𞳏"]
+      - ["'Ish", "𞳏"]
+      - ["'ikh", "𞳌"]
+      - ["'Ikh", "𞳌"]
+      - ["'igh", "𞳍"]
+      - ["'Igh", "𞳍"]
+      - ["'ich", "𞳕"]
+      - ["'Ich", "𞳕"]
+      - ["'itj", "𞳕"]
+      - ["'Itj", "𞳕"]
+      - ["'ol", "𞳀"]
+      - ["'Ol", "𞳀"]
+      - ["'or", "𞳁"]
+      - ["'Or", "𞳁"]
+      - ["'ot", "𞳂"]
+      - ["'Ot", "𞳂"]
+      - ["'od", "𞳃"]
+      - ["'Od", "𞳃"]
+      - ["'oz", "𞳄"]
+      - ["'Oz", "𞳄"]
+      - ["'os", "𞳅"]
+      - ["'Os", "𞳅"]
+      - ["'og", "𞳆"]
+      - ["'Og", "𞳆"]
+      - ["'ok", "𞳇"]
+      - ["'Ok", "𞳇"]
+      - ["'on", "𞳈"]
+      - ["'On", "𞳈"]
+      - ["'om", "𞳊"]
+      - ["'Om", "𞳊"]
+      - ["'oq", "𞳋"]
+      - ["'Oq", "𞳋"]
+      - ["'oh", "𞳎"]
+      - ["'Oh", "𞳎"]
+      - ["'op", "𞳐"]
+      - ["'Op", "𞳐"]
+      - ["'ob", "𞳑"]
+      - ["'Ob", "𞳑"]
+      - ["'of", "𞳒"]
+      - ["'Of", "𞳒"]
+      - ["'ow", "𞳓"]
+      - ["'Ow", "𞳓"]
+      - ["'oy", "𞳔"]
+      - ["'Oy", "𞳔"]
+      - ["'oth", "𞳉"]
+      - ["'Oth", "𞳉"]
+      - ["'osh", "𞳏"]
+      - ["'Osh", "𞳏"]
+      - ["'okh", "𞳌"]
+      - ["'Okh", "𞳌"]
+      - ["'ogh", "𞳍"]
+      - ["'Ogh", "𞳍"]
+      - ["'och", "𞳕"]
+      - ["'Och", "𞳕"]
+      - ["'otj", "𞳕"]
+      - ["'Otj", "𞳕"]
+      - ["'ul", "𞳀"]
+      - ["'Ul", "𞳀"]
+      - ["'ur", "𞳁"]
+      - ["'Ur", "𞳁"]
+      - ["'ut", "𞳂"]
+      - ["'Ut", "𞳂"]
+      - ["'ud", "𞳃"]
+      - ["'Ud", "𞳃"]
+      - ["'uz", "𞳄"]
+      - ["'Uz", "𞳄"]
+      - ["'us", "𞳅"]
+      - ["'Us", "𞳅"]
+      - ["'ug", "𞳆"]
+      - ["'Ug", "𞳆"]
+      - ["'uk", "𞳇"]
+      - ["'Uk", "𞳇"]
+      - ["'un", "𞳈"]
+      - ["'Un", "𞳈"]
+      - ["'um", "𞳊"]
+      - ["'Um", "𞳊"]
+      - ["'uq", "𞳋"]
+      - ["'Uq", "𞳋"]
+      - ["'uh", "𞳎"]
+      - ["'Uh", "𞳎"]
+      - ["'up", "𞳐"]
+      - ["'Up", "𞳐"]
+      - ["'ub", "𞳑"]
+      - ["'Ub", "𞳑"]
+      - ["'uf", "𞳒"]
+      - ["'Uf", "𞳒"]
+      - ["'uw", "𞳓"]
+      - ["'Uw", "𞳓"]
+      - ["'uy", "𞳔"]
+      - ["'Uy", "𞳔"]
+      - ["'uth", "𞳉"]
+      - ["'Uth", "𞳉"]
+      - ["'ush", "𞳏"]
+      - ["'Ush", "𞳏"]
+      - ["'ukh", "𞳌"]
+      - ["'Ukh", "𞳌"]
+      - ["'ugh", "𞳍"]
+      - ["'Ugh", "𞳍"]
+      - ["'uch", "𞳕"]
+      - ["'Uch", "𞳕"]
+      - ["'utj", "𞳕"]
+      - ["'Utj", "𞳕"]
+      - ["’l", "𞳀"]
+      - ["’L", "𞳀"]
+      - ["’r", "𞳁"]
+      - ["’R", "𞳁"]
+      - ["’t", "𞳂"]
+      - ["’T", "𞳂"]
+      - ["’d", "𞳃"]
+      - ["’D", "𞳃"]
+      - ["’z", "𞳄"]
+      - ["’Z", "𞳄"]
+      - ["’s", "𞳅"]
+      - ["’S", "𞳅"]
+      - ["’g", "𞳆"]
+      - ["’G", "𞳆"]
+      - ["’k", "𞳇"]
+      - ["’K", "𞳇"]
+      - ["’n", "𞳈"]
+      - ["’N", "𞳈"]
+      - ["’m", "𞳊"]
+      - ["’M", "𞳊"]
+      - ["’q", "𞳋"]
+      - ["’Q", "𞳋"]
+      - ["’h", "𞳎"]
+      - ["’H", "𞳎"]
+      - ["’p", "𞳐"]
+      - ["’P", "𞳐"]
+      - ["’b", "𞳑"]
+      - ["’B", "𞳑"]
+      - ["’f", "𞳒"]
+      - ["’F", "𞳒"]
+      - ["’w", "𞳓"]
+      - ["’W", "𞳓"]
+      - ["’y", "𞳔"]
+      - ["’Y", "𞳔"]
+      - ["’th", "𞳉"]
+      - ["’Th", "𞳉"]
+      - ["’sh", "𞳏"]
+      - ["’Sh", "𞳏"]
+      - ["’kh", "𞳌"]
+      - ["’Kh", "𞳌"]
+      - ["’gh", "𞳍"]
+      - ["’Gh", "𞳍"]
+      - ["’ch", "𞳕"]
+      - ["’Ch", "𞳕"]
+      - ["’tj", "𞳕"]
+      - ["’Tj", "𞳕"]
+      - ["’ll", "𞳖"]
+      - ["’Ll", "𞳖"]
+      - ["’rr", "𞳗"]
+      - ["’Rr", "𞳗"]
+      - ["’tt", "𞳘"]
+      - ["’Tt", "𞳘"]
+      - ["’dd", "𞳙"]
+      - ["’Dd", "𞳙"]
+      - ["’zz", "𞳚"]
+      - ["’Zz", "𞳚"]
+      - ["’ss", "𞳛"]
+      - ["’Ss", "𞳛"]
+      - ["’gg", "𞳜"]
+      - ["’Gg", "𞳜"]
+      - ["’kk", "𞳝"]
+      - ["’Kk", "𞳝"]
+      - ["’nn", "𞳞"]
+      - ["’Nn", "𞳞"]
+      - ["’mm", "𞳠"]
+      - ["’Mm", "𞳠"]
+      - ["’qq", "𞳡"]
+      - ["’Qq", "𞳡"]
+      - ["’hh", "𞳤"]
+      - ["’Hh", "𞳤"]
+      - ["’pp", "𞳦"]
+      - ["’Pp", "𞳦"]
+      - ["’bb", "𞳧"]
+      - ["’Bb", "𞳧"]
+      - ["’ff", "𞳨"]
+      - ["’Ff", "𞳨"]
+      - ["’ww", "𞳩"]
+      - ["’Ww", "𞳩"]
+      - ["’yy", "𞳪"]
+      - ["’Yy", "𞳪"]
+      - ["’tth", "𞳟"]
+      - ["’Tth", "𞳟"]
+      - ["’ssh", "𞳥"]
+      - ["’Ssh", "𞳥"]
+      - ["’kkh", "𞳢"]
+      - ["’Kkh", "𞳢"]
+      - ["’ggh", "𞳣"]
+      - ["’Ggh", "𞳣"]
+      - ["’cch", "𞳫"]
+      - ["’Cch", "𞳫"]
+      - ["’ttj", "𞳫"]
+      - ["’Ttj", "𞳫"]
+      - ["’thth", "𞳟"]
+      - ["’Thth", "𞳟"]
+      - ["’shsh", "𞳥"]
+      - ["’Shsh", "𞳥"]
+      - ["’khkh", "𞳢"]
+      - ["’Khkh", "𞳢"]
+      - ["’ghgh", "𞳣"]
+      - ["’Ghgh", "𞳣"]
+      - ["’chch", "𞳫"]
+      - ["’Chch", "𞳫"]
+      - ["’chtj", "𞳫"]
+      - ["’Chtj", "𞳫"]
+      - ["’tjch", "𞳫"]
+      - ["’Tjch", "𞳫"]
+      - ["’tjtj", "𞳫"]
+      - ["’Tjtj", "𞳫"]
+      - ["’ttth", "𞳂𞨠"]
+      - ["’Ttth", "𞳂𞨠"]
+      - ["’sssh", "𞳅𞨦"]
+      - ["’Sssh", "𞳅𞨦"]
+      - ["’kkkh", "𞳇𞨣"]
+      - ["’Kkkh", "𞳇𞨣"]
+      - ["’gggh", "𞳆𞨤"]
+      - ["’Gggh", "𞳆𞨤"]
+      - ["’tttj", "𞳂𞨬"]
+      - ["’Tttj", "𞳂𞨬"]
+      - ["’al", "𞳀"]
+      - ["’Al", "𞳀"]
+      - ["’ar", "𞳁"]
+      - ["’Ar", "𞳁"]
+      - ["’at", "𞳂"]
+      - ["’At", "𞳂"]
+      - ["’ad", "𞳃"]
+      - ["’Ad", "𞳃"]
+      - ["’az", "𞳄"]
+      - ["’Az", "𞳄"]
+      - ["’as", "𞳅"]
+      - ["’As", "𞳅"]
+      - ["’ag", "𞳆"]
+      - ["’Ag", "𞳆"]
+      - ["’ak", "𞳇"]
+      - ["’Ak", "𞳇"]
+      - ["’an", "𞳈"]
+      - ["’An", "𞳈"]
+      - ["’am", "𞳊"]
+      - ["’Am", "𞳊"]
+      - ["’aq", "𞳋"]
+      - ["’Aq", "𞳋"]
+      - ["’ah", "𞳎"]
+      - ["’Ah", "𞳎"]
+      - ["’ap", "𞳐"]
+      - ["’Ap", "𞳐"]
+      - ["’ab", "𞳑"]
+      - ["’Ab", "𞳑"]
+      - ["’af", "𞳒"]
+      - ["’Af", "𞳒"]
+      - ["’aw", "𞳓"]
+      - ["’Aw", "𞳓"]
+      - ["’ay", "𞳔"]
+      - ["’Ay", "𞳔"]
+      - ["’ath", "𞳉"]
+      - ["’Ath", "𞳉"]
+      - ["’ash", "𞳏"]
+      - ["’Ash", "𞳏"]
+      - ["’akh", "𞳌"]
+      - ["’Akh", "𞳌"]
+      - ["’agh", "𞳍"]
+      - ["’Agh", "𞳍"]
+      - ["’ach", "𞳕"]
+      - ["’Ach", "𞳕"]
+      - ["’atj", "𞳕"]
+      - ["’Atj", "𞳕"]
+      - ["’el", "𞳀"]
+      - ["’El", "𞳀"]
+      - ["’er", "𞳁"]
+      - ["’Er", "𞳁"]
+      - ["’et", "𞳂"]
+      - ["’Et", "𞳂"]
+      - ["’ed", "𞳃"]
+      - ["’Ed", "𞳃"]
+      - ["’ez", "𞳄"]
+      - ["’Ez", "𞳄"]
+      - ["’es", "𞳅"]
+      - ["’Es", "𞳅"]
+      - ["’eg", "𞳆"]
+      - ["’Eg", "𞳆"]
+      - ["’ek", "𞳇"]
+      - ["’Ek", "𞳇"]
+      - ["’en", "𞳈"]
+      - ["’En", "𞳈"]
+      - ["’em", "𞳊"]
+      - ["’Em", "𞳊"]
+      - ["’eq", "𞳋"]
+      - ["’Eq", "𞳋"]
+      - ["’eh", "𞳎"]
+      - ["’Eh", "𞳎"]
+      - ["’ep", "𞳐"]
+      - ["’Ep", "𞳐"]
+      - ["’eb", "𞳑"]
+      - ["’Eb", "𞳑"]
+      - ["’ef", "𞳒"]
+      - ["’Ef", "𞳒"]
+      - ["’ew", "𞳓"]
+      - ["’Ew", "𞳓"]
+      - ["’ey", "𞳔"]
+      - ["’Ey", "𞳔"]
+      - ["’eth", "𞳉"]
+      - ["’Eth", "𞳉"]
+      - ["’esh", "𞳏"]
+      - ["’Esh", "𞳏"]
+      - ["’ekh", "𞳌"]
+      - ["’Ekh", "𞳌"]
+      - ["’egh", "𞳍"]
+      - ["’Egh", "𞳍"]
+      - ["’ech", "𞳕"]
+      - ["’Ech", "𞳕"]
+      - ["’etj", "𞳕"]
+      - ["’Etj", "𞳕"]
+      - ["’il", "𞳀"]
+      - ["’Il", "𞳀"]
+      - ["’ir", "𞳁"]
+      - ["’Ir", "𞳁"]
+      - ["’it", "𞳂"]
+      - ["’It", "𞳂"]
+      - ["’id", "𞳃"]
+      - ["’Id", "𞳃"]
+      - ["’iz", "𞳄"]
+      - ["’Iz", "𞳄"]
+      - ["’is", "𞳅"]
+      - ["’Is", "𞳅"]
+      - ["’ig", "𞳆"]
+      - ["’Ig", "𞳆"]
+      - ["’ik", "𞳇"]
+      - ["’Ik", "𞳇"]
+      - ["’in", "𞳈"]
+      - ["’In", "𞳈"]
+      - ["’im", "𞳊"]
+      - ["’Im", "𞳊"]
+      - ["’iq", "𞳋"]
+      - ["’Iq", "𞳋"]
+      - ["’ih", "𞳎"]
+      - ["’Ih", "𞳎"]
+      - ["’ip", "𞳐"]
+      - ["’Ip", "𞳐"]
+      - ["’ib", "𞳑"]
+      - ["’Ib", "𞳑"]
+      - ["’if", "𞳒"]
+      - ["’If", "𞳒"]
+      - ["’iw", "𞳓"]
+      - ["’Iw", "𞳓"]
+      - ["’iy", "𞳔"]
+      - ["’Iy", "𞳔"]
+      - ["’ith", "𞳉"]
+      - ["’Ith", "𞳉"]
+      - ["’ish", "𞳏"]
+      - ["’Ish", "𞳏"]
+      - ["’ikh", "𞳌"]
+      - ["’Ikh", "𞳌"]
+      - ["’igh", "𞳍"]
+      - ["’Igh", "𞳍"]
+      - ["’ich", "𞳕"]
+      - ["’Ich", "𞳕"]
+      - ["’itj", "𞳕"]
+      - ["’Itj", "𞳕"]
+      - ["’ol", "𞳀"]
+      - ["’Ol", "𞳀"]
+      - ["’or", "𞳁"]
+      - ["’Or", "𞳁"]
+      - ["’ot", "𞳂"]
+      - ["’Ot", "𞳂"]
+      - ["’od", "𞳃"]
+      - ["’Od", "𞳃"]
+      - ["’oz", "𞳄"]
+      - ["’Oz", "𞳄"]
+      - ["’os", "𞳅"]
+      - ["’Os", "𞳅"]
+      - ["’og", "𞳆"]
+      - ["’Og", "𞳆"]
+      - ["’ok", "𞳇"]
+      - ["’Ok", "𞳇"]
+      - ["’on", "𞳈"]
+      - ["’On", "𞳈"]
+      - ["’om", "𞳊"]
+      - ["’Om", "𞳊"]
+      - ["’oq", "𞳋"]
+      - ["’Oq", "𞳋"]
+      - ["’oh", "𞳎"]
+      - ["’Oh", "𞳎"]
+      - ["’op", "𞳐"]
+      - ["’Op", "𞳐"]
+      - ["’ob", "𞳑"]
+      - ["’Ob", "𞳑"]
+      - ["’of", "𞳒"]
+      - ["’Of", "𞳒"]
+      - ["’ow", "𞳓"]
+      - ["’Ow", "𞳓"]
+      - ["’oy", "𞳔"]
+      - ["’Oy", "𞳔"]
+      - ["’oth", "𞳉"]
+      - ["’Oth", "𞳉"]
+      - ["’osh", "𞳏"]
+      - ["’Osh", "𞳏"]
+      - ["’okh", "𞳌"]
+      - ["’Okh", "𞳌"]
+      - ["’ogh", "𞳍"]
+      - ["’Ogh", "𞳍"]
+      - ["’och", "𞳕"]
+      - ["’Och", "𞳕"]
+      - ["’otj", "𞳕"]
+      - ["’Otj", "𞳕"]
+      - ["’ul", "𞳀"]
+      - ["’Ul", "𞳀"]
+      - ["’ur", "𞳁"]
+      - ["’Ur", "𞳁"]
+      - ["’ut", "𞳂"]
+      - ["’Ut", "𞳂"]
+      - ["’ud", "𞳃"]
+      - ["’Ud", "𞳃"]
+      - ["’uz", "𞳄"]
+      - ["’Uz", "𞳄"]
+      - ["’us", "𞳅"]
+      - ["’Us", "𞳅"]
+      - ["’ug", "𞳆"]
+      - ["’Ug", "𞳆"]
+      - ["’uk", "𞳇"]
+      - ["’Uk", "𞳇"]
+      - ["’un", "𞳈"]
+      - ["’Un", "𞳈"]
+      - ["’um", "𞳊"]
+      - ["’Um", "𞳊"]
+      - ["’uq", "𞳋"]
+      - ["’Uq", "𞳋"]
+      - ["’uh", "𞳎"]
+      - ["’Uh", "𞳎"]
+      - ["’up", "𞳐"]
+      - ["’Up", "𞳐"]
+      - ["’ub", "𞳑"]
+      - ["’Ub", "𞳑"]
+      - ["’uf", "𞳒"]
+      - ["’Uf", "𞳒"]
+      - ["’uw", "𞳓"]
+      - ["’Uw", "𞳓"]
+      - ["’uy", "𞳔"]
+      - ["’Uy", "𞳔"]
+      - ["’uth", "𞳉"]
+      - ["’Uth", "𞳉"]
+      - ["’ush", "𞳏"]
+      - ["’Ush", "𞳏"]
+      - ["’ukh", "𞳌"]
+      - ["’Ukh", "𞳌"]
+      - ["’ugh", "𞳍"]
+      - ["’Ugh", "𞳍"]
+      - ["’uch", "𞳕"]
+      - ["’Uch", "𞳕"]
+      - ["’utj", "𞳕"]
+      - ["’Utj", "𞳕"]
+      - {from: "al", to: "𞳀", at: start}
+      - {from: "Al", to: "𞳀", at: start}
+      - {from: "ar", to: "𞳁", at: start}
+      - {from: "Ar", to: "𞳁", at: start}
+      - {from: "at", to: "𞳂", at: start}
+      - {from: "At", to: "𞳂", at: start}
+      - {from: "ad", to: "𞳃", at: start}
+      - {from: "Ad", to: "𞳃", at: start}
+      - {from: "az", to: "𞳄", at: start}
+      - {from: "Az", to: "𞳄", at: start}
+      - {from: "as", to: "𞳅", at: start}
+      - {from: "As", to: "𞳅", at: start}
+      - {from: "ag", to: "𞳆", at: start}
+      - {from: "Ag", to: "𞳆", at: start}
+      - {from: "ak", to: "𞳇", at: start}
+      - {from: "Ak", to: "𞳇", at: start}
+      - {from: "an", to: "𞳈", at: start}
+      - {from: "An", to: "𞳈", at: start}
+      - {from: "am", to: "𞳊", at: start}
+      - {from: "Am", to: "𞳊", at: start}
+      - {from: "aq", to: "𞳋", at: start}
+      - {from: "Aq", to: "𞳋", at: start}
+      - {from: "ah", to: "𞳎", at: start}
+      - {from: "Ah", to: "𞳎", at: start}
+      - {from: "ap", to: "𞳐", at: start}
+      - {from: "Ap", to: "𞳐", at: start}
+      - {from: "ab", to: "𞳑", at: start}
+      - {from: "Ab", to: "𞳑", at: start}
+      - {from: "af", to: "𞳒", at: start}
+      - {from: "Af", to: "𞳒", at: start}
+      - {from: "aw", to: "𞳓", at: start}
+      - {from: "Aw", to: "𞳓", at: start}
+      - {from: "ay", to: "𞳔", at: start}
+      - {from: "Ay", to: "𞳔", at: start}
+      - {from: "ath", to: "𞳉", at: start}
+      - {from: "Ath", to: "𞳉", at: start}
+      - {from: "ash", to: "𞳏", at: start}
+      - {from: "Ash", to: "𞳏", at: start}
+      - {from: "akh", to: "𞳌", at: start}
+      - {from: "Akh", to: "𞳌", at: start}
+      - {from: "agh", to: "𞳍", at: start}
+      - {from: "Agh", to: "𞳍", at: start}
+      - {from: "ach", to: "𞳕", at: start}
+      - {from: "Ach", to: "𞳕", at: start}
+      - {from: "atj", to: "𞳕", at: start}
+      - {from: "Atj", to: "𞳕", at: start}
+      - {from: "all", to: "𞳖", at: start}
+      - {from: "All", to: "𞳖", at: start}
+      - {from: "arr", to: "𞳗", at: start}
+      - {from: "Arr", to: "𞳗", at: start}
+      - {from: "att", to: "𞳘", at: start}
+      - {from: "Att", to: "𞳘", at: start}
+      - {from: "add", to: "𞳙", at: start}
+      - {from: "Add", to: "𞳙", at: start}
+      - {from: "azz", to: "𞳚", at: start}
+      - {from: "Azz", to: "𞳚", at: start}
+      - {from: "ass", to: "𞳛", at: start}
+      - {from: "Ass", to: "𞳛", at: start}
+      - {from: "agg", to: "𞳜", at: start}
+      - {from: "Agg", to: "𞳜", at: start}
+      - {from: "akk", to: "𞳝", at: start}
+      - {from: "Akk", to: "𞳝", at: start}
+      - {from: "ann", to: "𞳞", at: start}
+      - {from: "Ann", to: "𞳞", at: start}
+      - {from: "amm", to: "𞳠", at: start}
+      - {from: "Amm", to: "𞳠", at: start}
+      - {from: "aqq", to: "𞳡", at: start}
+      - {from: "Aqq", to: "𞳡", at: start}
+      - {from: "ahh", to: "𞳤", at: start}
+      - {from: "Ahh", to: "𞳤", at: start}
+      - {from: "app", to: "𞳦", at: start}
+      - {from: "App", to: "𞳦", at: start}
+      - {from: "abb", to: "𞳧", at: start}
+      - {from: "Abb", to: "𞳧", at: start}
+      - {from: "aff", to: "𞳨", at: start}
+      - {from: "Aff", to: "𞳨", at: start}
+      - {from: "aww", to: "𞳩", at: start}
+      - {from: "Aww", to: "𞳩", at: start}
+      - {from: "ayy", to: "𞳪", at: start}
+      - {from: "Ayy", to: "𞳪", at: start}
+      - {from: "atth", to: "𞳟", at: start}
+      - {from: "Atth", to: "𞳟", at: start}
+      - {from: "assh", to: "𞳥", at: start}
+      - {from: "Assh", to: "𞳥", at: start}
+      - {from: "akkh", to: "𞳢", at: start}
+      - {from: "Akkh", to: "𞳢", at: start}
+      - {from: "aggh", to: "𞳣", at: start}
+      - {from: "Aggh", to: "𞳣", at: start}
+      - {from: "acch", to: "𞳫", at: start}
+      - {from: "Acch", to: "𞳫", at: start}
+      - {from: "attj", to: "𞳫", at: start}
+      - {from: "Attj", to: "𞳫", at: start}
+      - {from: "athth", to: "𞳟", at: start}
+      - {from: "Athth", to: "𞳟", at: start}
+      - {from: "ashsh", to: "𞳥", at: start}
+      - {from: "Ashsh", to: "𞳥", at: start}
+      - {from: "akhkh", to: "𞳢", at: start}
+      - {from: "Akhkh", to: "𞳢", at: start}
+      - {from: "aghgh", to: "𞳣", at: start}
+      - {from: "Aghgh", to: "𞳣", at: start}
+      - {from: "achch", to: "𞳫", at: start}
+      - {from: "Achch", to: "𞳫", at: start}
+      - {from: "achtj", to: "𞳫", at: start}
+      - {from: "Achtj", to: "𞳫", at: start}
+      - {from: "atjch", to: "𞳫", at: start}
+      - {from: "Atjch", to: "𞳫", at: start}
+      - {from: "atjtj", to: "𞳫", at: start}
+      - {from: "Atjtj", to: "𞳫", at: start}
+      - {from: "attth", to: "𞳂𞨠", at: start}
+      - {from: "Attth", to: "𞳂𞨠", at: start}
+      - {from: "asssh", to: "𞳅𞨦", at: start}
+      - {from: "Asssh", to: "𞳅𞨦", at: start}
+      - {from: "akkkh", to: "𞳇𞨣", at: start}
+      - {from: "Akkkh", to: "𞳇𞨣", at: start}
+      - {from: "agggh", to: "𞳆𞨤", at: start}
+      - {from: "Agggh", to: "𞳆𞨤", at: start}
+      - {from: "atttj", to: "𞳂𞨬", at: start}
+      - {from: "Atttj", to: "𞳂𞨬", at: start}
+      - {from: "aal", to: "𞳀", at: start}
+      - {from: "Aal", to: "𞳀", at: start}
+      - {from: "aar", to: "𞳁", at: start}
+      - {from: "Aar", to: "𞳁", at: start}
+      - {from: "aat", to: "𞳂", at: start}
+      - {from: "Aat", to: "𞳂", at: start}
+      - {from: "aad", to: "𞳃", at: start}
+      - {from: "Aad", to: "𞳃", at: start}
+      - {from: "aaz", to: "𞳄", at: start}
+      - {from: "Aaz", to: "𞳄", at: start}
+      - {from: "aas", to: "𞳅", at: start}
+      - {from: "Aas", to: "𞳅", at: start}
+      - {from: "aag", to: "𞳆", at: start}
+      - {from: "Aag", to: "𞳆", at: start}
+      - {from: "aak", to: "𞳇", at: start}
+      - {from: "Aak", to: "𞳇", at: start}
+      - {from: "aan", to: "𞳈", at: start}
+      - {from: "Aan", to: "𞳈", at: start}
+      - {from: "aam", to: "𞳊", at: start}
+      - {from: "Aam", to: "𞳊", at: start}
+      - {from: "aaq", to: "𞳋", at: start}
+      - {from: "Aaq", to: "𞳋", at: start}
+      - {from: "aah", to: "𞳎", at: start}
+      - {from: "Aah", to: "𞳎", at: start}
+      - {from: "aap", to: "𞳐", at: start}
+      - {from: "Aap", to: "𞳐", at: start}
+      - {from: "aab", to: "𞳑", at: start}
+      - {from: "Aab", to: "𞳑", at: start}
+      - {from: "aaf", to: "𞳒", at: start}
+      - {from: "Aaf", to: "𞳒", at: start}
+      - {from: "aaw", to: "𞳓", at: start}
+      - {from: "Aaw", to: "𞳓", at: start}
+      - {from: "aay", to: "𞳔", at: start}
+      - {from: "Aay", to: "𞳔", at: start}
+      - {from: "aath", to: "𞳉", at: start}
+      - {from: "Aath", to: "𞳉", at: start}
+      - {from: "aash", to: "𞳏", at: start}
+      - {from: "Aash", to: "𞳏", at: start}
+      - {from: "aakh", to: "𞳌", at: start}
+      - {from: "Aakh", to: "𞳌", at: start}
+      - {from: "aagh", to: "𞳍", at: start}
+      - {from: "Aagh", to: "𞳍", at: start}
+      - {from: "aach", to: "𞳕", at: start}
+      - {from: "Aach", to: "𞳕", at: start}
+      - {from: "aatj", to: "𞳕", at: start}
+      - {from: "Aatj", to: "𞳕", at: start}
+      - {from: "ael", to: "𞳀", at: start}
+      - {from: "Ael", to: "𞳀", at: start}
+      - {from: "aer", to: "𞳁", at: start}
+      - {from: "Aer", to: "𞳁", at: start}
+      - {from: "aet", to: "𞳂", at: start}
+      - {from: "Aet", to: "𞳂", at: start}
+      - {from: "aed", to: "𞳃", at: start}
+      - {from: "Aed", to: "𞳃", at: start}
+      - {from: "aez", to: "𞳄", at: start}
+      - {from: "Aez", to: "𞳄", at: start}
+      - {from: "aes", to: "𞳅", at: start}
+      - {from: "Aes", to: "𞳅", at: start}
+      - {from: "aeg", to: "𞳆", at: start}
+      - {from: "Aeg", to: "𞳆", at: start}
+      - {from: "aek", to: "𞳇", at: start}
+      - {from: "Aek", to: "𞳇", at: start}
+      - {from: "aen", to: "𞳈", at: start}
+      - {from: "Aen", to: "𞳈", at: start}
+      - {from: "aem", to: "𞳊", at: start}
+      - {from: "Aem", to: "𞳊", at: start}
+      - {from: "aeq", to: "𞳋", at: start}
+      - {from: "Aeq", to: "𞳋", at: start}
+      - {from: "aeh", to: "𞳎", at: start}
+      - {from: "Aeh", to: "𞳎", at: start}
+      - {from: "aep", to: "𞳐", at: start}
+      - {from: "Aep", to: "𞳐", at: start}
+      - {from: "aeb", to: "𞳑", at: start}
+      - {from: "Aeb", to: "𞳑", at: start}
+      - {from: "aef", to: "𞳒", at: start}
+      - {from: "Aef", to: "𞳒", at: start}
+      - {from: "aew", to: "𞳓", at: start}
+      - {from: "Aew", to: "𞳓", at: start}
+      - {from: "aey", to: "𞳔", at: start}
+      - {from: "Aey", to: "𞳔", at: start}
+      - {from: "aeth", to: "𞳉", at: start}
+      - {from: "Aeth", to: "𞳉", at: start}
+      - {from: "aesh", to: "𞳏", at: start}
+      - {from: "Aesh", to: "𞳏", at: start}
+      - {from: "aekh", to: "𞳌", at: start}
+      - {from: "Aekh", to: "𞳌", at: start}
+      - {from: "aegh", to: "𞳍", at: start}
+      - {from: "Aegh", to: "𞳍", at: start}
+      - {from: "aech", to: "𞳕", at: start}
+      - {from: "Aech", to: "𞳕", at: start}
+      - {from: "aetj", to: "𞳕", at: start}
+      - {from: "Aetj", to: "𞳕", at: start}
+      - {from: "ail", to: "𞳀", at: start}
+      - {from: "Ail", to: "𞳀", at: start}
+      - {from: "air", to: "𞳁", at: start}
+      - {from: "Air", to: "𞳁", at: start}
+      - {from: "ait", to: "𞳂", at: start}
+      - {from: "Ait", to: "𞳂", at: start}
+      - {from: "aid", to: "𞳃", at: start}
+      - {from: "Aid", to: "𞳃", at: start}
+      - {from: "aiz", to: "𞳄", at: start}
+      - {from: "Aiz", to: "𞳄", at: start}
+      - {from: "ais", to: "𞳅", at: start}
+      - {from: "Ais", to: "𞳅", at: start}
+      - {from: "aig", to: "𞳆", at: start}
+      - {from: "Aig", to: "𞳆", at: start}
+      - {from: "aik", to: "𞳇", at: start}
+      - {from: "Aik", to: "𞳇", at: start}
+      - {from: "ain", to: "𞳈", at: start}
+      - {from: "Ain", to: "𞳈", at: start}
+      - {from: "aim", to: "𞳊", at: start}
+      - {from: "Aim", to: "𞳊", at: start}
+      - {from: "aiq", to: "𞳋", at: start}
+      - {from: "Aiq", to: "𞳋", at: start}
+      - {from: "aih", to: "𞳎", at: start}
+      - {from: "Aih", to: "𞳎", at: start}
+      - {from: "aip", to: "𞳐", at: start}
+      - {from: "Aip", to: "𞳐", at: start}
+      - {from: "aib", to: "𞳑", at: start}
+      - {from: "Aib", to: "𞳑", at: start}
+      - {from: "aif", to: "𞳒", at: start}
+      - {from: "Aif", to: "𞳒", at: start}
+      - {from: "aiw", to: "𞳓", at: start}
+      - {from: "Aiw", to: "𞳓", at: start}
+      - {from: "aiy", to: "𞳔", at: start}
+      - {from: "Aiy", to: "𞳔", at: start}
+      - {from: "aith", to: "𞳉", at: start}
+      - {from: "Aith", to: "𞳉", at: start}
+      - {from: "aish", to: "𞳏", at: start}
+      - {from: "Aish", to: "𞳏", at: start}
+      - {from: "aikh", to: "𞳌", at: start}
+      - {from: "Aikh", to: "𞳌", at: start}
+      - {from: "aigh", to: "𞳍", at: start}
+      - {from: "Aigh", to: "𞳍", at: start}
+      - {from: "aich", to: "𞳕", at: start}
+      - {from: "Aich", to: "𞳕", at: start}
+      - {from: "aitj", to: "𞳕", at: start}
+      - {from: "Aitj", to: "𞳕", at: start}
+      - {from: "aol", to: "𞳀", at: start}
+      - {from: "Aol", to: "𞳀", at: start}
+      - {from: "aor", to: "𞳁", at: start}
+      - {from: "Aor", to: "𞳁", at: start}
+      - {from: "aot", to: "𞳂", at: start}
+      - {from: "Aot", to: "𞳂", at: start}
+      - {from: "aod", to: "𞳃", at: start}
+      - {from: "Aod", to: "𞳃", at: start}
+      - {from: "aoz", to: "𞳄", at: start}
+      - {from: "Aoz", to: "𞳄", at: start}
+      - {from: "aos", to: "𞳅", at: start}
+      - {from: "Aos", to: "𞳅", at: start}
+      - {from: "aog", to: "𞳆", at: start}
+      - {from: "Aog", to: "𞳆", at: start}
+      - {from: "aok", to: "𞳇", at: start}
+      - {from: "Aok", to: "𞳇", at: start}
+      - {from: "aon", to: "𞳈", at: start}
+      - {from: "Aon", to: "𞳈", at: start}
+      - {from: "aom", to: "𞳊", at: start}
+      - {from: "Aom", to: "𞳊", at: start}
+      - {from: "aoq", to: "𞳋", at: start}
+      - {from: "Aoq", to: "𞳋", at: start}
+      - {from: "aoh", to: "𞳎", at: start}
+      - {from: "Aoh", to: "𞳎", at: start}
+      - {from: "aop", to: "𞳐", at: start}
+      - {from: "Aop", to: "𞳐", at: start}
+      - {from: "aob", to: "𞳑", at: start}
+      - {from: "Aob", to: "𞳑", at: start}
+      - {from: "aof", to: "𞳒", at: start}
+      - {from: "Aof", to: "𞳒", at: start}
+      - {from: "aow", to: "𞳓", at: start}
+      - {from: "Aow", to: "𞳓", at: start}
+      - {from: "aoy", to: "𞳔", at: start}
+      - {from: "Aoy", to: "𞳔", at: start}
+      - {from: "aoth", to: "𞳉", at: start}
+      - {from: "Aoth", to: "𞳉", at: start}
+      - {from: "aosh", to: "𞳏", at: start}
+      - {from: "Aosh", to: "𞳏", at: start}
+      - {from: "aokh", to: "𞳌", at: start}
+      - {from: "Aokh", to: "𞳌", at: start}
+      - {from: "aogh", to: "𞳍", at: start}
+      - {from: "Aogh", to: "𞳍", at: start}
+      - {from: "aoch", to: "𞳕", at: start}
+      - {from: "Aoch", to: "𞳕", at: start}
+      - {from: "aotj", to: "𞳕", at: start}
+      - {from: "Aotj", to: "𞳕", at: start}
+      - {from: "aul", to: "𞳀", at: start}
+      - {from: "Aul", to: "𞳀", at: start}
+      - {from: "aur", to: "𞳁", at: start}
+      - {from: "Aur", to: "𞳁", at: start}
+      - {from: "aut", to: "𞳂", at: start}
+      - {from: "Aut", to: "𞳂", at: start}
+      - {from: "aud", to: "𞳃", at: start}
+      - {from: "Aud", to: "𞳃", at: start}
+      - {from: "auz", to: "𞳄", at: start}
+      - {from: "Auz", to: "𞳄", at: start}
+      - {from: "aus", to: "𞳅", at: start}
+      - {from: "Aus", to: "𞳅", at: start}
+      - {from: "aug", to: "𞳆", at: start}
+      - {from: "Aug", to: "𞳆", at: start}
+      - {from: "auk", to: "𞳇", at: start}
+      - {from: "Auk", to: "𞳇", at: start}
+      - {from: "aun", to: "𞳈", at: start}
+      - {from: "Aun", to: "𞳈", at: start}
+      - {from: "aum", to: "𞳊", at: start}
+      - {from: "Aum", to: "𞳊", at: start}
+      - {from: "auq", to: "𞳋", at: start}
+      - {from: "Auq", to: "𞳋", at: start}
+      - {from: "auh", to: "𞳎", at: start}
+      - {from: "Auh", to: "𞳎", at: start}
+      - {from: "aup", to: "𞳐", at: start}
+      - {from: "Aup", to: "𞳐", at: start}
+      - {from: "aub", to: "𞳑", at: start}
+      - {from: "Aub", to: "𞳑", at: start}
+      - {from: "auf", to: "𞳒", at: start}
+      - {from: "Auf", to: "𞳒", at: start}
+      - {from: "auw", to: "𞳓", at: start}
+      - {from: "Auw", to: "𞳓", at: start}
+      - {from: "auy", to: "𞳔", at: start}
+      - {from: "Auy", to: "𞳔", at: start}
+      - {from: "auth", to: "𞳉", at: start}
+      - {from: "Auth", to: "𞳉", at: start}
+      - {from: "aush", to: "𞳏", at: start}
+      - {from: "Aush", to: "𞳏", at: start}
+      - {from: "aukh", to: "𞳌", at: start}
+      - {from: "Aukh", to: "𞳌", at: start}
+      - {from: "augh", to: "𞳍", at: start}
+      - {from: "Augh", to: "𞳍", at: start}
+      - {from: "auch", to: "𞳕", at: start}
+      - {from: "Auch", to: "𞳕", at: start}
+      - {from: "autj", to: "𞳕", at: start}
+      - {from: "Autj", to: "𞳕", at: start}
+      - {from: "el", to: "𞳀", at: start}
+      - {from: "El", to: "𞳀", at: start}
+      - {from: "er", to: "𞳁", at: start}
+      - {from: "Er", to: "𞳁", at: start}
+      - {from: "et", to: "𞳂", at: start}
+      - {from: "Et", to: "𞳂", at: start}
+      - {from: "ed", to: "𞳃", at: start}
+      - {from: "Ed", to: "𞳃", at: start}
+      - {from: "ez", to: "𞳄", at: start}
+      - {from: "Ez", to: "𞳄", at: start}
+      - {from: "es", to: "𞳅", at: start}
+      - {from: "Es", to: "𞳅", at: start}
+      - {from: "eg", to: "𞳆", at: start}
+      - {from: "Eg", to: "𞳆", at: start}
+      - {from: "ek", to: "𞳇", at: start}
+      - {from: "Ek", to: "𞳇", at: start}
+      - {from: "en", to: "𞳈", at: start}
+      - {from: "En", to: "𞳈", at: start}
+      - {from: "em", to: "𞳊", at: start}
+      - {from: "Em", to: "𞳊", at: start}
+      - {from: "eq", to: "𞳋", at: start}
+      - {from: "Eq", to: "𞳋", at: start}
+      - {from: "eh", to: "𞳎", at: start}
+      - {from: "Eh", to: "𞳎", at: start}
+      - {from: "ep", to: "𞳐", at: start}
+      - {from: "Ep", to: "𞳐", at: start}
+      - {from: "eb", to: "𞳑", at: start}
+      - {from: "Eb", to: "𞳑", at: start}
+      - {from: "ef", to: "𞳒", at: start}
+      - {from: "Ef", to: "𞳒", at: start}
+      - {from: "ew", to: "𞳓", at: start}
+      - {from: "Ew", to: "𞳓", at: start}
+      - {from: "ey", to: "𞳔", at: start}
+      - {from: "Ey", to: "𞳔", at: start}
+      - {from: "eth", to: "𞳉", at: start}
+      - {from: "Eth", to: "𞳉", at: start}
+      - {from: "esh", to: "𞳏", at: start}
+      - {from: "Esh", to: "𞳏", at: start}
+      - {from: "ekh", to: "𞳌", at: start}
+      - {from: "Ekh", to: "𞳌", at: start}
+      - {from: "egh", to: "𞳍", at: start}
+      - {from: "Egh", to: "𞳍", at: start}
+      - {from: "ech", to: "𞳕", at: start}
+      - {from: "Ech", to: "𞳕", at: start}
+      - {from: "etj", to: "𞳕", at: start}
+      - {from: "Etj", to: "𞳕", at: start}
+      - {from: "ell", to: "𞳖", at: start}
+      - {from: "Ell", to: "𞳖", at: start}
+      - {from: "err", to: "𞳗", at: start}
+      - {from: "Err", to: "𞳗", at: start}
+      - {from: "ett", to: "𞳘", at: start}
+      - {from: "Ett", to: "𞳘", at: start}
+      - {from: "edd", to: "𞳙", at: start}
+      - {from: "Edd", to: "𞳙", at: start}
+      - {from: "ezz", to: "𞳚", at: start}
+      - {from: "Ezz", to: "𞳚", at: start}
+      - {from: "ess", to: "𞳛", at: start}
+      - {from: "Ess", to: "𞳛", at: start}
+      - {from: "egg", to: "𞳜", at: start}
+      - {from: "Egg", to: "𞳜", at: start}
+      - {from: "ekk", to: "𞳝", at: start}
+      - {from: "Ekk", to: "𞳝", at: start}
+      - {from: "enn", to: "𞳞", at: start}
+      - {from: "Enn", to: "𞳞", at: start}
+      - {from: "emm", to: "𞳠", at: start}
+      - {from: "Emm", to: "𞳠", at: start}
+      - {from: "eqq", to: "𞳡", at: start}
+      - {from: "Eqq", to: "𞳡", at: start}
+      - {from: "ehh", to: "𞳤", at: start}
+      - {from: "Ehh", to: "𞳤", at: start}
+      - {from: "epp", to: "𞳦", at: start}
+      - {from: "Epp", to: "𞳦", at: start}
+      - {from: "ebb", to: "𞳧", at: start}
+      - {from: "Ebb", to: "𞳧", at: start}
+      - {from: "eff", to: "𞳨", at: start}
+      - {from: "Eff", to: "𞳨", at: start}
+      - {from: "eww", to: "𞳩", at: start}
+      - {from: "Eww", to: "𞳩", at: start}
+      - {from: "eyy", to: "𞳪", at: start}
+      - {from: "Eyy", to: "𞳪", at: start}
+      - {from: "etth", to: "𞳟", at: start}
+      - {from: "Etth", to: "𞳟", at: start}
+      - {from: "essh", to: "𞳥", at: start}
+      - {from: "Essh", to: "𞳥", at: start}
+      - {from: "ekkh", to: "𞳢", at: start}
+      - {from: "Ekkh", to: "𞳢", at: start}
+      - {from: "eggh", to: "𞳣", at: start}
+      - {from: "Eggh", to: "𞳣", at: start}
+      - {from: "ecch", to: "𞳫", at: start}
+      - {from: "Ecch", to: "𞳫", at: start}
+      - {from: "ettj", to: "𞳫", at: start}
+      - {from: "Ettj", to: "𞳫", at: start}
+      - {from: "ethth", to: "𞳟", at: start}
+      - {from: "Ethth", to: "𞳟", at: start}
+      - {from: "eshsh", to: "𞳥", at: start}
+      - {from: "Eshsh", to: "𞳥", at: start}
+      - {from: "ekhkh", to: "𞳢", at: start}
+      - {from: "Ekhkh", to: "𞳢", at: start}
+      - {from: "eghgh", to: "𞳣", at: start}
+      - {from: "Eghgh", to: "𞳣", at: start}
+      - {from: "echch", to: "𞳫", at: start}
+      - {from: "Echch", to: "𞳫", at: start}
+      - {from: "echtj", to: "𞳫", at: start}
+      - {from: "Echtj", to: "𞳫", at: start}
+      - {from: "etjch", to: "𞳫", at: start}
+      - {from: "Etjch", to: "𞳫", at: start}
+      - {from: "etjtj", to: "𞳫", at: start}
+      - {from: "Etjtj", to: "𞳫", at: start}
+      - {from: "ettth", to: "𞳂𞨠", at: start}
+      - {from: "Ettth", to: "𞳂𞨠", at: start}
+      - {from: "esssh", to: "𞳅𞨦", at: start}
+      - {from: "Esssh", to: "𞳅𞨦", at: start}
+      - {from: "ekkkh", to: "𞳇𞨣", at: start}
+      - {from: "Ekkkh", to: "𞳇𞨣", at: start}
+      - {from: "egggh", to: "𞳆𞨤", at: start}
+      - {from: "Egggh", to: "𞳆𞨤", at: start}
+      - {from: "etttj", to: "𞳂𞨬", at: start}
+      - {from: "Etttj", to: "𞳂𞨬", at: start}
+      - {from: "eal", to: "𞳀", at: start}
+      - {from: "Eal", to: "𞳀", at: start}
+      - {from: "ear", to: "𞳁", at: start}
+      - {from: "Ear", to: "𞳁", at: start}
+      - {from: "eat", to: "𞳂", at: start}
+      - {from: "Eat", to: "𞳂", at: start}
+      - {from: "ead", to: "𞳃", at: start}
+      - {from: "Ead", to: "𞳃", at: start}
+      - {from: "eaz", to: "𞳄", at: start}
+      - {from: "Eaz", to: "𞳄", at: start}
+      - {from: "eas", to: "𞳅", at: start}
+      - {from: "Eas", to: "𞳅", at: start}
+      - {from: "eag", to: "𞳆", at: start}
+      - {from: "Eag", to: "𞳆", at: start}
+      - {from: "eak", to: "𞳇", at: start}
+      - {from: "Eak", to: "𞳇", at: start}
+      - {from: "ean", to: "𞳈", at: start}
+      - {from: "Ean", to: "𞳈", at: start}
+      - {from: "eam", to: "𞳊", at: start}
+      - {from: "Eam", to: "𞳊", at: start}
+      - {from: "eaq", to: "𞳋", at: start}
+      - {from: "Eaq", to: "𞳋", at: start}
+      - {from: "eah", to: "𞳎", at: start}
+      - {from: "Eah", to: "𞳎", at: start}
+      - {from: "eap", to: "𞳐", at: start}
+      - {from: "Eap", to: "𞳐", at: start}
+      - {from: "eab", to: "𞳑", at: start}
+      - {from: "Eab", to: "𞳑", at: start}
+      - {from: "eaf", to: "𞳒", at: start}
+      - {from: "Eaf", to: "𞳒", at: start}
+      - {from: "eaw", to: "𞳓", at: start}
+      - {from: "Eaw", to: "𞳓", at: start}
+      - {from: "eay", to: "𞳔", at: start}
+      - {from: "Eay", to: "𞳔", at: start}
+      - {from: "eath", to: "𞳉", at: start}
+      - {from: "Eath", to: "𞳉", at: start}
+      - {from: "eash", to: "𞳏", at: start}
+      - {from: "Eash", to: "𞳏", at: start}
+      - {from: "eakh", to: "𞳌", at: start}
+      - {from: "Eakh", to: "𞳌", at: start}
+      - {from: "eagh", to: "𞳍", at: start}
+      - {from: "Eagh", to: "𞳍", at: start}
+      - {from: "each", to: "𞳕", at: start}
+      - {from: "Each", to: "𞳕", at: start}
+      - {from: "eatj", to: "𞳕", at: start}
+      - {from: "Eatj", to: "𞳕", at: start}
+      - {from: "eel", to: "𞳀", at: start}
+      - {from: "Eel", to: "𞳀", at: start}
+      - {from: "eer", to: "𞳁", at: start}
+      - {from: "Eer", to: "𞳁", at: start}
+      - {from: "eet", to: "𞳂", at: start}
+      - {from: "Eet", to: "𞳂", at: start}
+      - {from: "eed", to: "𞳃", at: start}
+      - {from: "Eed", to: "𞳃", at: start}
+      - {from: "eez", to: "𞳄", at: start}
+      - {from: "Eez", to: "𞳄", at: start}
+      - {from: "ees", to: "𞳅", at: start}
+      - {from: "Ees", to: "𞳅", at: start}
+      - {from: "eeg", to: "𞳆", at: start}
+      - {from: "Eeg", to: "𞳆", at: start}
+      - {from: "eek", to: "𞳇", at: start}
+      - {from: "Eek", to: "𞳇", at: start}
+      - {from: "een", to: "𞳈", at: start}
+      - {from: "Een", to: "𞳈", at: start}
+      - {from: "eem", to: "𞳊", at: start}
+      - {from: "Eem", to: "𞳊", at: start}
+      - {from: "eeq", to: "𞳋", at: start}
+      - {from: "Eeq", to: "𞳋", at: start}
+      - {from: "eeh", to: "𞳎", at: start}
+      - {from: "Eeh", to: "𞳎", at: start}
+      - {from: "eep", to: "𞳐", at: start}
+      - {from: "Eep", to: "𞳐", at: start}
+      - {from: "eeb", to: "𞳑", at: start}
+      - {from: "Eeb", to: "𞳑", at: start}
+      - {from: "eef", to: "𞳒", at: start}
+      - {from: "Eef", to: "𞳒", at: start}
+      - {from: "eew", to: "𞳓", at: start}
+      - {from: "Eew", to: "𞳓", at: start}
+      - {from: "eey", to: "𞳔", at: start}
+      - {from: "Eey", to: "𞳔", at: start}
+      - {from: "eeth", to: "𞳉", at: start}
+      - {from: "Eeth", to: "𞳉", at: start}
+      - {from: "eesh", to: "𞳏", at: start}
+      - {from: "Eesh", to: "𞳏", at: start}
+      - {from: "eekh", to: "𞳌", at: start}
+      - {from: "Eekh", to: "𞳌", at: start}
+      - {from: "eegh", to: "𞳍", at: start}
+      - {from: "Eegh", to: "𞳍", at: start}
+      - {from: "eech", to: "𞳕", at: start}
+      - {from: "Eech", to: "𞳕", at: start}
+      - {from: "eetj", to: "𞳕", at: start}
+      - {from: "Eetj", to: "𞳕", at: start}
+      - {from: "eil", to: "𞳀", at: start}
+      - {from: "Eil", to: "𞳀", at: start}
+      - {from: "eir", to: "𞳁", at: start}
+      - {from: "Eir", to: "𞳁", at: start}
+      - {from: "eit", to: "𞳂", at: start}
+      - {from: "Eit", to: "𞳂", at: start}
+      - {from: "eid", to: "𞳃", at: start}
+      - {from: "Eid", to: "𞳃", at: start}
+      - {from: "eiz", to: "𞳄", at: start}
+      - {from: "Eiz", to: "𞳄", at: start}
+      - {from: "eis", to: "𞳅", at: start}
+      - {from: "Eis", to: "𞳅", at: start}
+      - {from: "eig", to: "𞳆", at: start}
+      - {from: "Eig", to: "𞳆", at: start}
+      - {from: "eik", to: "𞳇", at: start}
+      - {from: "Eik", to: "𞳇", at: start}
+      - {from: "ein", to: "𞳈", at: start}
+      - {from: "Ein", to: "𞳈", at: start}
+      - {from: "eim", to: "𞳊", at: start}
+      - {from: "Eim", to: "𞳊", at: start}
+      - {from: "eiq", to: "𞳋", at: start}
+      - {from: "Eiq", to: "𞳋", at: start}
+      - {from: "eih", to: "𞳎", at: start}
+      - {from: "Eih", to: "𞳎", at: start}
+      - {from: "eip", to: "𞳐", at: start}
+      - {from: "Eip", to: "𞳐", at: start}
+      - {from: "eib", to: "𞳑", at: start}
+      - {from: "Eib", to: "𞳑", at: start}
+      - {from: "eif", to: "𞳒", at: start}
+      - {from: "Eif", to: "𞳒", at: start}
+      - {from: "eiw", to: "𞳓", at: start}
+      - {from: "Eiw", to: "𞳓", at: start}
+      - {from: "eiy", to: "𞳔", at: start}
+      - {from: "Eiy", to: "𞳔", at: start}
+      - {from: "eith", to: "𞳉", at: start}
+      - {from: "Eith", to: "𞳉", at: start}
+      - {from: "eish", to: "𞳏", at: start}
+      - {from: "Eish", to: "𞳏", at: start}
+      - {from: "eikh", to: "𞳌", at: start}
+      - {from: "Eikh", to: "𞳌", at: start}
+      - {from: "eigh", to: "𞳍", at: start}
+      - {from: "Eigh", to: "𞳍", at: start}
+      - {from: "eich", to: "𞳕", at: start}
+      - {from: "Eich", to: "𞳕", at: start}
+      - {from: "eitj", to: "𞳕", at: start}
+      - {from: "Eitj", to: "𞳕", at: start}
+      - {from: "eol", to: "𞳀", at: start}
+      - {from: "Eol", to: "𞳀", at: start}
+      - {from: "eor", to: "𞳁", at: start}
+      - {from: "Eor", to: "𞳁", at: start}
+      - {from: "eot", to: "𞳂", at: start}
+      - {from: "Eot", to: "𞳂", at: start}
+      - {from: "eod", to: "𞳃", at: start}
+      - {from: "Eod", to: "𞳃", at: start}
+      - {from: "eoz", to: "𞳄", at: start}
+      - {from: "Eoz", to: "𞳄", at: start}
+      - {from: "eos", to: "𞳅", at: start}
+      - {from: "Eos", to: "𞳅", at: start}
+      - {from: "eog", to: "𞳆", at: start}
+      - {from: "Eog", to: "𞳆", at: start}
+      - {from: "eok", to: "𞳇", at: start}
+      - {from: "Eok", to: "𞳇", at: start}
+      - {from: "eon", to: "𞳈", at: start}
+      - {from: "Eon", to: "𞳈", at: start}
+      - {from: "eom", to: "𞳊", at: start}
+      - {from: "Eom", to: "𞳊", at: start}
+      - {from: "eoq", to: "𞳋", at: start}
+      - {from: "Eoq", to: "𞳋", at: start}
+      - {from: "eoh", to: "𞳎", at: start}
+      - {from: "Eoh", to: "𞳎", at: start}
+      - {from: "eop", to: "𞳐", at: start}
+      - {from: "Eop", to: "𞳐", at: start}
+      - {from: "eob", to: "𞳑", at: start}
+      - {from: "Eob", to: "𞳑", at: start}
+      - {from: "eof", to: "𞳒", at: start}
+      - {from: "Eof", to: "𞳒", at: start}
+      - {from: "eow", to: "𞳓", at: start}
+      - {from: "Eow", to: "𞳓", at: start}
+      - {from: "eoy", to: "𞳔", at: start}
+      - {from: "Eoy", to: "𞳔", at: start}
+      - {from: "eoth", to: "𞳉", at: start}
+      - {from: "Eoth", to: "𞳉", at: start}
+      - {from: "eosh", to: "𞳏", at: start}
+      - {from: "Eosh", to: "𞳏", at: start}
+      - {from: "eokh", to: "𞳌", at: start}
+      - {from: "Eokh", to: "𞳌", at: start}
+      - {from: "eogh", to: "𞳍", at: start}
+      - {from: "Eogh", to: "𞳍", at: start}
+      - {from: "eoch", to: "𞳕", at: start}
+      - {from: "Eoch", to: "𞳕", at: start}
+      - {from: "eotj", to: "𞳕", at: start}
+      - {from: "Eotj", to: "𞳕", at: start}
+      - {from: "eul", to: "𞳀", at: start}
+      - {from: "Eul", to: "𞳀", at: start}
+      - {from: "eur", to: "𞳁", at: start}
+      - {from: "Eur", to: "𞳁", at: start}
+      - {from: "eut", to: "𞳂", at: start}
+      - {from: "Eut", to: "𞳂", at: start}
+      - {from: "eud", to: "𞳃", at: start}
+      - {from: "Eud", to: "𞳃", at: start}
+      - {from: "euz", to: "𞳄", at: start}
+      - {from: "Euz", to: "𞳄", at: start}
+      - {from: "eus", to: "𞳅", at: start}
+      - {from: "Eus", to: "𞳅", at: start}
+      - {from: "eug", to: "𞳆", at: start}
+      - {from: "Eug", to: "𞳆", at: start}
+      - {from: "euk", to: "𞳇", at: start}
+      - {from: "Euk", to: "𞳇", at: start}
+      - {from: "eun", to: "𞳈", at: start}
+      - {from: "Eun", to: "𞳈", at: start}
+      - {from: "eum", to: "𞳊", at: start}
+      - {from: "Eum", to: "𞳊", at: start}
+      - {from: "euq", to: "𞳋", at: start}
+      - {from: "Euq", to: "𞳋", at: start}
+      - {from: "euh", to: "𞳎", at: start}
+      - {from: "Euh", to: "𞳎", at: start}
+      - {from: "eup", to: "𞳐", at: start}
+      - {from: "Eup", to: "𞳐", at: start}
+      - {from: "eub", to: "𞳑", at: start}
+      - {from: "Eub", to: "𞳑", at: start}
+      - {from: "euf", to: "𞳒", at: start}
+      - {from: "Euf", to: "𞳒", at: start}
+      - {from: "euw", to: "𞳓", at: start}
+      - {from: "Euw", to: "𞳓", at: start}
+      - {from: "euy", to: "𞳔", at: start}
+      - {from: "Euy", to: "𞳔", at: start}
+      - {from: "euth", to: "𞳉", at: start}
+      - {from: "Euth", to: "𞳉", at: start}
+      - {from: "eush", to: "𞳏", at: start}
+      - {from: "Eush", to: "𞳏", at: start}
+      - {from: "eukh", to: "𞳌", at: start}
+      - {from: "Eukh", to: "𞳌", at: start}
+      - {from: "eugh", to: "𞳍", at: start}
+      - {from: "Eugh", to: "𞳍", at: start}
+      - {from: "euch", to: "𞳕", at: start}
+      - {from: "Euch", to: "𞳕", at: start}
+      - {from: "eutj", to: "𞳕", at: start}
+      - {from: "Eutj", to: "𞳕", at: start}
+      - {from: "il", to: "𞳀", at: start}
+      - {from: "Il", to: "𞳀", at: start}
+      - {from: "ir", to: "𞳁", at: start}
+      - {from: "Ir", to: "𞳁", at: start}
+      - {from: "it", to: "𞳂", at: start}
+      - {from: "It", to: "𞳂", at: start}
+      - {from: "id", to: "𞳃", at: start}
+      - {from: "Id", to: "𞳃", at: start}
+      - {from: "iz", to: "𞳄", at: start}
+      - {from: "Iz", to: "𞳄", at: start}
+      - {from: "is", to: "𞳅", at: start}
+      - {from: "Is", to: "𞳅", at: start}
+      - {from: "ig", to: "𞳆", at: start}
+      - {from: "Ig", to: "𞳆", at: start}
+      - {from: "ik", to: "𞳇", at: start}
+      - {from: "Ik", to: "𞳇", at: start}
+      - {from: "in", to: "𞳈", at: start}
+      - {from: "In", to: "𞳈", at: start}
+      - {from: "im", to: "𞳊", at: start}
+      - {from: "Im", to: "𞳊", at: start}
+      - {from: "iq", to: "𞳋", at: start}
+      - {from: "Iq", to: "𞳋", at: start}
+      - {from: "ih", to: "𞳎", at: start}
+      - {from: "Ih", to: "𞳎", at: start}
+      - {from: "ip", to: "𞳐", at: start}
+      - {from: "Ip", to: "𞳐", at: start}
+      - {from: "ib", to: "𞳑", at: start}
+      - {from: "Ib", to: "𞳑", at: start}
+      - {from: "if", to: "𞳒", at: start}
+      - {from: "If", to: "𞳒", at: start}
+      - {from: "iw", to: "𞳓", at: start}
+      - {from: "Iw", to: "𞳓", at: start}
+      - {from: "iy", to: "𞳔", at: start}
+      - {from: "Iy", to: "𞳔", at: start}
+      - {from: "ith", to: "𞳉", at: start}
+      - {from: "Ith", to: "𞳉", at: start}
+      - {from: "ish", to: "𞳏", at: start}
+      - {from: "Ish", to: "𞳏", at: start}
+      - {from: "ikh", to: "𞳌", at: start}
+      - {from: "Ikh", to: "𞳌", at: start}
+      - {from: "igh", to: "𞳍", at: start}
+      - {from: "Igh", to: "𞳍", at: start}
+      - {from: "ich", to: "𞳕", at: start}
+      - {from: "Ich", to: "𞳕", at: start}
+      - {from: "itj", to: "𞳕", at: start}
+      - {from: "Itj", to: "𞳕", at: start}
+      - {from: "ill", to: "𞳖", at: start}
+      - {from: "Ill", to: "𞳖", at: start}
+      - {from: "irr", to: "𞳗", at: start}
+      - {from: "Irr", to: "𞳗", at: start}
+      - {from: "itt", to: "𞳘", at: start}
+      - {from: "Itt", to: "𞳘", at: start}
+      - {from: "idd", to: "𞳙", at: start}
+      - {from: "Idd", to: "𞳙", at: start}
+      - {from: "izz", to: "𞳚", at: start}
+      - {from: "Izz", to: "𞳚", at: start}
+      - {from: "iss", to: "𞳛", at: start}
+      - {from: "Iss", to: "𞳛", at: start}
+      - {from: "igg", to: "𞳜", at: start}
+      - {from: "Igg", to: "𞳜", at: start}
+      - {from: "ikk", to: "𞳝", at: start}
+      - {from: "Ikk", to: "𞳝", at: start}
+      - {from: "inn", to: "𞳞", at: start}
+      - {from: "Inn", to: "𞳞", at: start}
+      - {from: "imm", to: "𞳠", at: start}
+      - {from: "Imm", to: "𞳠", at: start}
+      - {from: "iqq", to: "𞳡", at: start}
+      - {from: "Iqq", to: "𞳡", at: start}
+      - {from: "ihh", to: "𞳤", at: start}
+      - {from: "Ihh", to: "𞳤", at: start}
+      - {from: "ipp", to: "𞳦", at: start}
+      - {from: "Ipp", to: "𞳦", at: start}
+      - {from: "ibb", to: "𞳧", at: start}
+      - {from: "Ibb", to: "𞳧", at: start}
+      - {from: "iff", to: "𞳨", at: start}
+      - {from: "Iff", to: "𞳨", at: start}
+      - {from: "iww", to: "𞳩", at: start}
+      - {from: "Iww", to: "𞳩", at: start}
+      - {from: "iyy", to: "𞳪", at: start}
+      - {from: "Iyy", to: "𞳪", at: start}
+      - {from: "itth", to: "𞳟", at: start}
+      - {from: "Itth", to: "𞳟", at: start}
+      - {from: "issh", to: "𞳥", at: start}
+      - {from: "Issh", to: "𞳥", at: start}
+      - {from: "ikkh", to: "𞳢", at: start}
+      - {from: "Ikkh", to: "𞳢", at: start}
+      - {from: "iggh", to: "𞳣", at: start}
+      - {from: "Iggh", to: "𞳣", at: start}
+      - {from: "icch", to: "𞳫", at: start}
+      - {from: "Icch", to: "𞳫", at: start}
+      - {from: "ittj", to: "𞳫", at: start}
+      - {from: "Ittj", to: "𞳫", at: start}
+      - {from: "ithth", to: "𞳟", at: start}
+      - {from: "Ithth", to: "𞳟", at: start}
+      - {from: "ishsh", to: "𞳥", at: start}
+      - {from: "Ishsh", to: "𞳥", at: start}
+      - {from: "ikhkh", to: "𞳢", at: start}
+      - {from: "Ikhkh", to: "𞳢", at: start}
+      - {from: "ighgh", to: "𞳣", at: start}
+      - {from: "Ighgh", to: "𞳣", at: start}
+      - {from: "ichch", to: "𞳫", at: start}
+      - {from: "Ichch", to: "𞳫", at: start}
+      - {from: "ichtj", to: "𞳫", at: start}
+      - {from: "Ichtj", to: "𞳫", at: start}
+      - {from: "itjch", to: "𞳫", at: start}
+      - {from: "Itjch", to: "𞳫", at: start}
+      - {from: "itjtj", to: "𞳫", at: start}
+      - {from: "Itjtj", to: "𞳫", at: start}
+      - {from: "ittth", to: "𞳂𞨠", at: start}
+      - {from: "Ittth", to: "𞳂𞨠", at: start}
+      - {from: "isssh", to: "𞳅𞨦", at: start}
+      - {from: "Isssh", to: "𞳅𞨦", at: start}
+      - {from: "ikkkh", to: "𞳇𞨣", at: start}
+      - {from: "Ikkkh", to: "𞳇𞨣", at: start}
+      - {from: "igggh", to: "𞳆𞨤", at: start}
+      - {from: "Igggh", to: "𞳆𞨤", at: start}
+      - {from: "itttj", to: "𞳂𞨬", at: start}
+      - {from: "Itttj", to: "𞳂𞨬", at: start}
+      - {from: "ial", to: "𞳀", at: start}
+      - {from: "Ial", to: "𞳀", at: start}
+      - {from: "iar", to: "𞳁", at: start}
+      - {from: "Iar", to: "𞳁", at: start}
+      - {from: "iat", to: "𞳂", at: start}
+      - {from: "Iat", to: "𞳂", at: start}
+      - {from: "iad", to: "𞳃", at: start}
+      - {from: "Iad", to: "𞳃", at: start}
+      - {from: "iaz", to: "𞳄", at: start}
+      - {from: "Iaz", to: "𞳄", at: start}
+      - {from: "ias", to: "𞳅", at: start}
+      - {from: "Ias", to: "𞳅", at: start}
+      - {from: "iag", to: "𞳆", at: start}
+      - {from: "Iag", to: "𞳆", at: start}
+      - {from: "iak", to: "𞳇", at: start}
+      - {from: "Iak", to: "𞳇", at: start}
+      - {from: "ian", to: "𞳈", at: start}
+      - {from: "Ian", to: "𞳈", at: start}
+      - {from: "iam", to: "𞳊", at: start}
+      - {from: "Iam", to: "𞳊", at: start}
+      - {from: "iaq", to: "𞳋", at: start}
+      - {from: "Iaq", to: "𞳋", at: start}
+      - {from: "iah", to: "𞳎", at: start}
+      - {from: "Iah", to: "𞳎", at: start}
+      - {from: "iap", to: "𞳐", at: start}
+      - {from: "Iap", to: "𞳐", at: start}
+      - {from: "iab", to: "𞳑", at: start}
+      - {from: "Iab", to: "𞳑", at: start}
+      - {from: "iaf", to: "𞳒", at: start}
+      - {from: "Iaf", to: "𞳒", at: start}
+      - {from: "iaw", to: "𞳓", at: start}
+      - {from: "Iaw", to: "𞳓", at: start}
+      - {from: "iay", to: "𞳔", at: start}
+      - {from: "Iay", to: "𞳔", at: start}
+      - {from: "iath", to: "𞳉", at: start}
+      - {from: "Iath", to: "𞳉", at: start}
+      - {from: "iash", to: "𞳏", at: start}
+      - {from: "Iash", to: "𞳏", at: start}
+      - {from: "iakh", to: "𞳌", at: start}
+      - {from: "Iakh", to: "𞳌", at: start}
+      - {from: "iagh", to: "𞳍", at: start}
+      - {from: "Iagh", to: "𞳍", at: start}
+      - {from: "iach", to: "𞳕", at: start}
+      - {from: "Iach", to: "𞳕", at: start}
+      - {from: "iatj", to: "𞳕", at: start}
+      - {from: "Iatj", to: "𞳕", at: start}
+      - {from: "iel", to: "𞳀", at: start}
+      - {from: "Iel", to: "𞳀", at: start}
+      - {from: "ier", to: "𞳁", at: start}
+      - {from: "Ier", to: "𞳁", at: start}
+      - {from: "iet", to: "𞳂", at: start}
+      - {from: "Iet", to: "𞳂", at: start}
+      - {from: "ied", to: "𞳃", at: start}
+      - {from: "Ied", to: "𞳃", at: start}
+      - {from: "iez", to: "𞳄", at: start}
+      - {from: "Iez", to: "𞳄", at: start}
+      - {from: "ies", to: "𞳅", at: start}
+      - {from: "Ies", to: "𞳅", at: start}
+      - {from: "ieg", to: "𞳆", at: start}
+      - {from: "Ieg", to: "𞳆", at: start}
+      - {from: "iek", to: "𞳇", at: start}
+      - {from: "Iek", to: "𞳇", at: start}
+      - {from: "ien", to: "𞳈", at: start}
+      - {from: "Ien", to: "𞳈", at: start}
+      - {from: "iem", to: "𞳊", at: start}
+      - {from: "Iem", to: "𞳊", at: start}
+      - {from: "ieq", to: "𞳋", at: start}
+      - {from: "Ieq", to: "𞳋", at: start}
+      - {from: "ieh", to: "𞳎", at: start}
+      - {from: "Ieh", to: "𞳎", at: start}
+      - {from: "iep", to: "𞳐", at: start}
+      - {from: "Iep", to: "𞳐", at: start}
+      - {from: "ieb", to: "𞳑", at: start}
+      - {from: "Ieb", to: "𞳑", at: start}
+      - {from: "ief", to: "𞳒", at: start}
+      - {from: "Ief", to: "𞳒", at: start}
+      - {from: "iew", to: "𞳓", at: start}
+      - {from: "Iew", to: "𞳓", at: start}
+      - {from: "iey", to: "𞳔", at: start}
+      - {from: "Iey", to: "𞳔", at: start}
+      - {from: "ieth", to: "𞳉", at: start}
+      - {from: "Ieth", to: "𞳉", at: start}
+      - {from: "iesh", to: "𞳏", at: start}
+      - {from: "Iesh", to: "𞳏", at: start}
+      - {from: "iekh", to: "𞳌", at: start}
+      - {from: "Iekh", to: "𞳌", at: start}
+      - {from: "iegh", to: "𞳍", at: start}
+      - {from: "Iegh", to: "𞳍", at: start}
+      - {from: "iech", to: "𞳕", at: start}
+      - {from: "Iech", to: "𞳕", at: start}
+      - {from: "ietj", to: "𞳕", at: start}
+      - {from: "Ietj", to: "𞳕", at: start}
+      - {from: "iil", to: "𞳀", at: start}
+      - {from: "Iil", to: "𞳀", at: start}
+      - {from: "iir", to: "𞳁", at: start}
+      - {from: "Iir", to: "𞳁", at: start}
+      - {from: "iit", to: "𞳂", at: start}
+      - {from: "Iit", to: "𞳂", at: start}
+      - {from: "iid", to: "𞳃", at: start}
+      - {from: "Iid", to: "𞳃", at: start}
+      - {from: "iiz", to: "𞳄", at: start}
+      - {from: "Iiz", to: "𞳄", at: start}
+      - {from: "iis", to: "𞳅", at: start}
+      - {from: "Iis", to: "𞳅", at: start}
+      - {from: "iig", to: "𞳆", at: start}
+      - {from: "Iig", to: "𞳆", at: start}
+      - {from: "iik", to: "𞳇", at: start}
+      - {from: "Iik", to: "𞳇", at: start}
+      - {from: "iin", to: "𞳈", at: start}
+      - {from: "Iin", to: "𞳈", at: start}
+      - {from: "iim", to: "𞳊", at: start}
+      - {from: "Iim", to: "𞳊", at: start}
+      - {from: "iiq", to: "𞳋", at: start}
+      - {from: "Iiq", to: "𞳋", at: start}
+      - {from: "iih", to: "𞳎", at: start}
+      - {from: "Iih", to: "𞳎", at: start}
+      - {from: "iip", to: "𞳐", at: start}
+      - {from: "Iip", to: "𞳐", at: start}
+      - {from: "iib", to: "𞳑", at: start}
+      - {from: "Iib", to: "𞳑", at: start}
+      - {from: "iif", to: "𞳒", at: start}
+      - {from: "Iif", to: "𞳒", at: start}
+      - {from: "iiw", to: "𞳓", at: start}
+      - {from: "Iiw", to: "𞳓", at: start}
+      - {from: "iiy", to: "𞳔", at: start}
+      - {from: "Iiy", to: "𞳔", at: start}
+      - {from: "iith", to: "𞳉", at: start}
+      - {from: "Iith", to: "𞳉", at: start}
+      - {from: "iish", to: "𞳏", at: start}
+      - {from: "Iish", to: "𞳏", at: start}
+      - {from: "iikh", to: "𞳌", at: start}
+      - {from: "Iikh", to: "𞳌", at: start}
+      - {from: "iigh", to: "𞳍", at: start}
+      - {from: "Iigh", to: "𞳍", at: start}
+      - {from: "iich", to: "𞳕", at: start}
+      - {from: "Iich", to: "𞳕", at: start}
+      - {from: "iitj", to: "𞳕", at: start}
+      - {from: "Iitj", to: "𞳕", at: start}
+      - {from: "iol", to: "𞳀", at: start}
+      - {from: "Iol", to: "𞳀", at: start}
+      - {from: "ior", to: "𞳁", at: start}
+      - {from: "Ior", to: "𞳁", at: start}
+      - {from: "iot", to: "𞳂", at: start}
+      - {from: "Iot", to: "𞳂", at: start}
+      - {from: "iod", to: "𞳃", at: start}
+      - {from: "Iod", to: "𞳃", at: start}
+      - {from: "ioz", to: "𞳄", at: start}
+      - {from: "Ioz", to: "𞳄", at: start}
+      - {from: "ios", to: "𞳅", at: start}
+      - {from: "Ios", to: "𞳅", at: start}
+      - {from: "iog", to: "𞳆", at: start}
+      - {from: "Iog", to: "𞳆", at: start}
+      - {from: "iok", to: "𞳇", at: start}
+      - {from: "Iok", to: "𞳇", at: start}
+      - {from: "ion", to: "𞳈", at: start}
+      - {from: "Ion", to: "𞳈", at: start}
+      - {from: "iom", to: "𞳊", at: start}
+      - {from: "Iom", to: "𞳊", at: start}
+      - {from: "ioq", to: "𞳋", at: start}
+      - {from: "Ioq", to: "𞳋", at: start}
+      - {from: "ioh", to: "𞳎", at: start}
+      - {from: "Ioh", to: "𞳎", at: start}
+      - {from: "iop", to: "𞳐", at: start}
+      - {from: "Iop", to: "𞳐", at: start}
+      - {from: "iob", to: "𞳑", at: start}
+      - {from: "Iob", to: "𞳑", at: start}
+      - {from: "iof", to: "𞳒", at: start}
+      - {from: "Iof", to: "𞳒", at: start}
+      - {from: "iow", to: "𞳓", at: start}
+      - {from: "Iow", to: "𞳓", at: start}
+      - {from: "ioy", to: "𞳔", at: start}
+      - {from: "Ioy", to: "𞳔", at: start}
+      - {from: "ioth", to: "𞳉", at: start}
+      - {from: "Ioth", to: "𞳉", at: start}
+      - {from: "iosh", to: "𞳏", at: start}
+      - {from: "Iosh", to: "𞳏", at: start}
+      - {from: "iokh", to: "𞳌", at: start}
+      - {from: "Iokh", to: "𞳌", at: start}
+      - {from: "iogh", to: "𞳍", at: start}
+      - {from: "Iogh", to: "𞳍", at: start}
+      - {from: "ioch", to: "𞳕", at: start}
+      - {from: "Ioch", to: "𞳕", at: start}
+      - {from: "iotj", to: "𞳕", at: start}
+      - {from: "Iotj", to: "𞳕", at: start}
+      - {from: "iul", to: "𞳀", at: start}
+      - {from: "Iul", to: "𞳀", at: start}
+      - {from: "iur", to: "𞳁", at: start}
+      - {from: "Iur", to: "𞳁", at: start}
+      - {from: "iut", to: "𞳂", at: start}
+      - {from: "Iut", to: "𞳂", at: start}
+      - {from: "iud", to: "𞳃", at: start}
+      - {from: "Iud", to: "𞳃", at: start}
+      - {from: "iuz", to: "𞳄", at: start}
+      - {from: "Iuz", to: "𞳄", at: start}
+      - {from: "ius", to: "𞳅", at: start}
+      - {from: "Ius", to: "𞳅", at: start}
+      - {from: "iug", to: "𞳆", at: start}
+      - {from: "Iug", to: "𞳆", at: start}
+      - {from: "iuk", to: "𞳇", at: start}
+      - {from: "Iuk", to: "𞳇", at: start}
+      - {from: "iun", to: "𞳈", at: start}
+      - {from: "Iun", to: "𞳈", at: start}
+      - {from: "ium", to: "𞳊", at: start}
+      - {from: "Ium", to: "𞳊", at: start}
+      - {from: "iuq", to: "𞳋", at: start}
+      - {from: "Iuq", to: "𞳋", at: start}
+      - {from: "iuh", to: "𞳎", at: start}
+      - {from: "Iuh", to: "𞳎", at: start}
+      - {from: "iup", to: "𞳐", at: start}
+      - {from: "Iup", to: "𞳐", at: start}
+      - {from: "iub", to: "𞳑", at: start}
+      - {from: "Iub", to: "𞳑", at: start}
+      - {from: "iuf", to: "𞳒", at: start}
+      - {from: "Iuf", to: "𞳒", at: start}
+      - {from: "iuw", to: "𞳓", at: start}
+      - {from: "Iuw", to: "𞳓", at: start}
+      - {from: "iuy", to: "𞳔", at: start}
+      - {from: "Iuy", to: "𞳔", at: start}
+      - {from: "iuth", to: "𞳉", at: start}
+      - {from: "Iuth", to: "𞳉", at: start}
+      - {from: "iush", to: "𞳏", at: start}
+      - {from: "Iush", to: "𞳏", at: start}
+      - {from: "iukh", to: "𞳌", at: start}
+      - {from: "Iukh", to: "𞳌", at: start}
+      - {from: "iugh", to: "𞳍", at: start}
+      - {from: "Iugh", to: "𞳍", at: start}
+      - {from: "iuch", to: "𞳕", at: start}
+      - {from: "Iuch", to: "𞳕", at: start}
+      - {from: "iutj", to: "𞳕", at: start}
+      - {from: "Iutj", to: "𞳕", at: start}
+      - {from: "ol", to: "𞳀", at: start}
+      - {from: "Ol", to: "𞳀", at: start}
+      - {from: "or", to: "𞳁", at: start}
+      - {from: "Or", to: "𞳁", at: start}
+      - {from: "ot", to: "𞳂", at: start}
+      - {from: "Ot", to: "𞳂", at: start}
+      - {from: "od", to: "𞳃", at: start}
+      - {from: "Od", to: "𞳃", at: start}
+      - {from: "oz", to: "𞳄", at: start}
+      - {from: "Oz", to: "𞳄", at: start}
+      - {from: "os", to: "𞳅", at: start}
+      - {from: "Os", to: "𞳅", at: start}
+      - {from: "og", to: "𞳆", at: start}
+      - {from: "Og", to: "𞳆", at: start}
+      - {from: "ok", to: "𞳇", at: start}
+      - {from: "Ok", to: "𞳇", at: start}
+      - {from: "on", to: "𞳈", at: start}
+      - {from: "On", to: "𞳈", at: start}
+      - {from: "om", to: "𞳊", at: start}
+      - {from: "Om", to: "𞳊", at: start}
+      - {from: "oq", to: "𞳋", at: start}
+      - {from: "Oq", to: "𞳋", at: start}
+      - {from: "oh", to: "𞳎", at: start}
+      - {from: "Oh", to: "𞳎", at: start}
+      - {from: "op", to: "𞳐", at: start}
+      - {from: "Op", to: "𞳐", at: start}
+      - {from: "ob", to: "𞳑", at: start}
+      - {from: "Ob", to: "𞳑", at: start}
+      - {from: "of", to: "𞳒", at: start}
+      - {from: "Of", to: "𞳒", at: start}
+      - {from: "ow", to: "𞳓", at: start}
+      - {from: "Ow", to: "𞳓", at: start}
+      - {from: "oy", to: "𞳔", at: start}
+      - {from: "Oy", to: "𞳔", at: start}
+      - {from: "oth", to: "𞳉", at: start}
+      - {from: "Oth", to: "𞳉", at: start}
+      - {from: "osh", to: "𞳏", at: start}
+      - {from: "Osh", to: "𞳏", at: start}
+      - {from: "okh", to: "𞳌", at: start}
+      - {from: "Okh", to: "𞳌", at: start}
+      - {from: "ogh", to: "𞳍", at: start}
+      - {from: "Ogh", to: "𞳍", at: start}
+      - {from: "och", to: "𞳕", at: start}
+      - {from: "Och", to: "𞳕", at: start}
+      - {from: "otj", to: "𞳕", at: start}
+      - {from: "Otj", to: "𞳕", at: start}
+      - {from: "oll", to: "𞳖", at: start}
+      - {from: "Oll", to: "𞳖", at: start}
+      - {from: "orr", to: "𞳗", at: start}
+      - {from: "Orr", to: "𞳗", at: start}
+      - {from: "ott", to: "𞳘", at: start}
+      - {from: "Ott", to: "𞳘", at: start}
+      - {from: "odd", to: "𞳙", at: start}
+      - {from: "Odd", to: "𞳙", at: start}
+      - {from: "ozz", to: "𞳚", at: start}
+      - {from: "Ozz", to: "𞳚", at: start}
+      - {from: "oss", to: "𞳛", at: start}
+      - {from: "Oss", to: "𞳛", at: start}
+      - {from: "ogg", to: "𞳜", at: start}
+      - {from: "Ogg", to: "𞳜", at: start}
+      - {from: "okk", to: "𞳝", at: start}
+      - {from: "Okk", to: "𞳝", at: start}
+      - {from: "onn", to: "𞳞", at: start}
+      - {from: "Onn", to: "𞳞", at: start}
+      - {from: "omm", to: "𞳠", at: start}
+      - {from: "Omm", to: "𞳠", at: start}
+      - {from: "oqq", to: "𞳡", at: start}
+      - {from: "Oqq", to: "𞳡", at: start}
+      - {from: "ohh", to: "𞳤", at: start}
+      - {from: "Ohh", to: "𞳤", at: start}
+      - {from: "opp", to: "𞳦", at: start}
+      - {from: "Opp", to: "𞳦", at: start}
+      - {from: "obb", to: "𞳧", at: start}
+      - {from: "Obb", to: "𞳧", at: start}
+      - {from: "off", to: "𞳨", at: start}
+      - {from: "Off", to: "𞳨", at: start}
+      - {from: "oww", to: "𞳩", at: start}
+      - {from: "Oww", to: "𞳩", at: start}
+      - {from: "oyy", to: "𞳪", at: start}
+      - {from: "Oyy", to: "𞳪", at: start}
+      - {from: "otth", to: "𞳟", at: start}
+      - {from: "Otth", to: "𞳟", at: start}
+      - {from: "ossh", to: "𞳥", at: start}
+      - {from: "Ossh", to: "𞳥", at: start}
+      - {from: "okkh", to: "𞳢", at: start}
+      - {from: "Okkh", to: "𞳢", at: start}
+      - {from: "oggh", to: "𞳣", at: start}
+      - {from: "Oggh", to: "𞳣", at: start}
+      - {from: "occh", to: "𞳫", at: start}
+      - {from: "Occh", to: "𞳫", at: start}
+      - {from: "ottj", to: "𞳫", at: start}
+      - {from: "Ottj", to: "𞳫", at: start}
+      - {from: "othth", to: "𞳟", at: start}
+      - {from: "Othth", to: "𞳟", at: start}
+      - {from: "oshsh", to: "𞳥", at: start}
+      - {from: "Oshsh", to: "𞳥", at: start}
+      - {from: "okhkh", to: "𞳢", at: start}
+      - {from: "Okhkh", to: "𞳢", at: start}
+      - {from: "oghgh", to: "𞳣", at: start}
+      - {from: "Oghgh", to: "𞳣", at: start}
+      - {from: "ochch", to: "𞳫", at: start}
+      - {from: "Ochch", to: "𞳫", at: start}
+      - {from: "ochtj", to: "𞳫", at: start}
+      - {from: "Ochtj", to: "𞳫", at: start}
+      - {from: "otjch", to: "𞳫", at: start}
+      - {from: "Otjch", to: "𞳫", at: start}
+      - {from: "otjtj", to: "𞳫", at: start}
+      - {from: "Otjtj", to: "𞳫", at: start}
+      - {from: "ottth", to: "𞳂𞨠", at: start}
+      - {from: "Ottth", to: "𞳂𞨠", at: start}
+      - {from: "osssh", to: "𞳅𞨦", at: start}
+      - {from: "Osssh", to: "𞳅𞨦", at: start}
+      - {from: "okkkh", to: "𞳇𞨣", at: start}
+      - {from: "Okkkh", to: "𞳇𞨣", at: start}
+      - {from: "ogggh", to: "𞳆𞨤", at: start}
+      - {from: "Ogggh", to: "𞳆𞨤", at: start}
+      - {from: "otttj", to: "𞳂𞨬", at: start}
+      - {from: "Otttj", to: "𞳂𞨬", at: start}
+      - {from: "oal", to: "𞳀", at: start}
+      - {from: "Oal", to: "𞳀", at: start}
+      - {from: "oar", to: "𞳁", at: start}
+      - {from: "Oar", to: "𞳁", at: start}
+      - {from: "oat", to: "𞳂", at: start}
+      - {from: "Oat", to: "𞳂", at: start}
+      - {from: "oad", to: "𞳃", at: start}
+      - {from: "Oad", to: "𞳃", at: start}
+      - {from: "oaz", to: "𞳄", at: start}
+      - {from: "Oaz", to: "𞳄", at: start}
+      - {from: "oas", to: "𞳅", at: start}
+      - {from: "Oas", to: "𞳅", at: start}
+      - {from: "oag", to: "𞳆", at: start}
+      - {from: "Oag", to: "𞳆", at: start}
+      - {from: "oak", to: "𞳇", at: start}
+      - {from: "Oak", to: "𞳇", at: start}
+      - {from: "oan", to: "𞳈", at: start}
+      - {from: "Oan", to: "𞳈", at: start}
+      - {from: "oam", to: "𞳊", at: start}
+      - {from: "Oam", to: "𞳊", at: start}
+      - {from: "oaq", to: "𞳋", at: start}
+      - {from: "Oaq", to: "𞳋", at: start}
+      - {from: "oah", to: "𞳎", at: start}
+      - {from: "Oah", to: "𞳎", at: start}
+      - {from: "oap", to: "𞳐", at: start}
+      - {from: "Oap", to: "𞳐", at: start}
+      - {from: "oab", to: "𞳑", at: start}
+      - {from: "Oab", to: "𞳑", at: start}
+      - {from: "oaf", to: "𞳒", at: start}
+      - {from: "Oaf", to: "𞳒", at: start}
+      - {from: "oaw", to: "𞳓", at: start}
+      - {from: "Oaw", to: "𞳓", at: start}
+      - {from: "oay", to: "𞳔", at: start}
+      - {from: "Oay", to: "𞳔", at: start}
+      - {from: "oath", to: "𞳉", at: start}
+      - {from: "Oath", to: "𞳉", at: start}
+      - {from: "oash", to: "𞳏", at: start}
+      - {from: "Oash", to: "𞳏", at: start}
+      - {from: "oakh", to: "𞳌", at: start}
+      - {from: "Oakh", to: "𞳌", at: start}
+      - {from: "oagh", to: "𞳍", at: start}
+      - {from: "Oagh", to: "𞳍", at: start}
+      - {from: "oach", to: "𞳕", at: start}
+      - {from: "Oach", to: "𞳕", at: start}
+      - {from: "oatj", to: "𞳕", at: start}
+      - {from: "Oatj", to: "𞳕", at: start}
+      - {from: "oel", to: "𞳀", at: start}
+      - {from: "Oel", to: "𞳀", at: start}
+      - {from: "oer", to: "𞳁", at: start}
+      - {from: "Oer", to: "𞳁", at: start}
+      - {from: "oet", to: "𞳂", at: start}
+      - {from: "Oet", to: "𞳂", at: start}
+      - {from: "oed", to: "𞳃", at: start}
+      - {from: "Oed", to: "𞳃", at: start}
+      - {from: "oez", to: "𞳄", at: start}
+      - {from: "Oez", to: "𞳄", at: start}
+      - {from: "oes", to: "𞳅", at: start}
+      - {from: "Oes", to: "𞳅", at: start}
+      - {from: "oeg", to: "𞳆", at: start}
+      - {from: "Oeg", to: "𞳆", at: start}
+      - {from: "oek", to: "𞳇", at: start}
+      - {from: "Oek", to: "𞳇", at: start}
+      - {from: "oen", to: "𞳈", at: start}
+      - {from: "Oen", to: "𞳈", at: start}
+      - {from: "oem", to: "𞳊", at: start}
+      - {from: "Oem", to: "𞳊", at: start}
+      - {from: "oeq", to: "𞳋", at: start}
+      - {from: "Oeq", to: "𞳋", at: start}
+      - {from: "oeh", to: "𞳎", at: start}
+      - {from: "Oeh", to: "𞳎", at: start}
+      - {from: "oep", to: "𞳐", at: start}
+      - {from: "Oep", to: "𞳐", at: start}
+      - {from: "oeb", to: "𞳑", at: start}
+      - {from: "Oeb", to: "𞳑", at: start}
+      - {from: "oef", to: "𞳒", at: start}
+      - {from: "Oef", to: "𞳒", at: start}
+      - {from: "oew", to: "𞳓", at: start}
+      - {from: "Oew", to: "𞳓", at: start}
+      - {from: "oey", to: "𞳔", at: start}
+      - {from: "Oey", to: "𞳔", at: start}
+      - {from: "oeth", to: "𞳉", at: start}
+      - {from: "Oeth", to: "𞳉", at: start}
+      - {from: "oesh", to: "𞳏", at: start}
+      - {from: "Oesh", to: "𞳏", at: start}
+      - {from: "oekh", to: "𞳌", at: start}
+      - {from: "Oekh", to: "𞳌", at: start}
+      - {from: "oegh", to: "𞳍", at: start}
+      - {from: "Oegh", to: "𞳍", at: start}
+      - {from: "oech", to: "𞳕", at: start}
+      - {from: "Oech", to: "𞳕", at: start}
+      - {from: "oetj", to: "𞳕", at: start}
+      - {from: "Oetj", to: "𞳕", at: start}
+      - {from: "oil", to: "𞳀", at: start}
+      - {from: "Oil", to: "𞳀", at: start}
+      - {from: "oir", to: "𞳁", at: start}
+      - {from: "Oir", to: "𞳁", at: start}
+      - {from: "oit", to: "𞳂", at: start}
+      - {from: "Oit", to: "𞳂", at: start}
+      - {from: "oid", to: "𞳃", at: start}
+      - {from: "Oid", to: "𞳃", at: start}
+      - {from: "oiz", to: "𞳄", at: start}
+      - {from: "Oiz", to: "𞳄", at: start}
+      - {from: "ois", to: "𞳅", at: start}
+      - {from: "Ois", to: "𞳅", at: start}
+      - {from: "oig", to: "𞳆", at: start}
+      - {from: "Oig", to: "𞳆", at: start}
+      - {from: "oik", to: "𞳇", at: start}
+      - {from: "Oik", to: "𞳇", at: start}
+      - {from: "oin", to: "𞳈", at: start}
+      - {from: "Oin", to: "𞳈", at: start}
+      - {from: "oim", to: "𞳊", at: start}
+      - {from: "Oim", to: "𞳊", at: start}
+      - {from: "oiq", to: "𞳋", at: start}
+      - {from: "Oiq", to: "𞳋", at: start}
+      - {from: "oih", to: "𞳎", at: start}
+      - {from: "Oih", to: "𞳎", at: start}
+      - {from: "oip", to: "𞳐", at: start}
+      - {from: "Oip", to: "𞳐", at: start}
+      - {from: "oib", to: "𞳑", at: start}
+      - {from: "Oib", to: "𞳑", at: start}
+      - {from: "oif", to: "𞳒", at: start}
+      - {from: "Oif", to: "𞳒", at: start}
+      - {from: "oiw", to: "𞳓", at: start}
+      - {from: "Oiw", to: "𞳓", at: start}
+      - {from: "oiy", to: "𞳔", at: start}
+      - {from: "Oiy", to: "𞳔", at: start}
+      - {from: "oith", to: "𞳉", at: start}
+      - {from: "Oith", to: "𞳉", at: start}
+      - {from: "oish", to: "𞳏", at: start}
+      - {from: "Oish", to: "𞳏", at: start}
+      - {from: "oikh", to: "𞳌", at: start}
+      - {from: "Oikh", to: "𞳌", at: start}
+      - {from: "oigh", to: "𞳍", at: start}
+      - {from: "Oigh", to: "𞳍", at: start}
+      - {from: "oich", to: "𞳕", at: start}
+      - {from: "Oich", to: "𞳕", at: start}
+      - {from: "oitj", to: "𞳕", at: start}
+      - {from: "Oitj", to: "𞳕", at: start}
+      - {from: "ool", to: "𞳀", at: start}
+      - {from: "Ool", to: "𞳀", at: start}
+      - {from: "oor", to: "𞳁", at: start}
+      - {from: "Oor", to: "𞳁", at: start}
+      - {from: "oot", to: "𞳂", at: start}
+      - {from: "Oot", to: "𞳂", at: start}
+      - {from: "ood", to: "𞳃", at: start}
+      - {from: "Ood", to: "𞳃", at: start}
+      - {from: "ooz", to: "𞳄", at: start}
+      - {from: "Ooz", to: "𞳄", at: start}
+      - {from: "oos", to: "𞳅", at: start}
+      - {from: "Oos", to: "𞳅", at: start}
+      - {from: "oog", to: "𞳆", at: start}
+      - {from: "Oog", to: "𞳆", at: start}
+      - {from: "ook", to: "𞳇", at: start}
+      - {from: "Ook", to: "𞳇", at: start}
+      - {from: "oon", to: "𞳈", at: start}
+      - {from: "Oon", to: "𞳈", at: start}
+      - {from: "oom", to: "𞳊", at: start}
+      - {from: "Oom", to: "𞳊", at: start}
+      - {from: "ooq", to: "𞳋", at: start}
+      - {from: "Ooq", to: "𞳋", at: start}
+      - {from: "ooh", to: "𞳎", at: start}
+      - {from: "Ooh", to: "𞳎", at: start}
+      - {from: "oop", to: "𞳐", at: start}
+      - {from: "Oop", to: "𞳐", at: start}
+      - {from: "oob", to: "𞳑", at: start}
+      - {from: "Oob", to: "𞳑", at: start}
+      - {from: "oof", to: "𞳒", at: start}
+      - {from: "Oof", to: "𞳒", at: start}
+      - {from: "oow", to: "𞳓", at: start}
+      - {from: "Oow", to: "𞳓", at: start}
+      - {from: "ooy", to: "𞳔", at: start}
+      - {from: "Ooy", to: "𞳔", at: start}
+      - {from: "ooth", to: "𞳉", at: start}
+      - {from: "Ooth", to: "𞳉", at: start}
+      - {from: "oosh", to: "𞳏", at: start}
+      - {from: "Oosh", to: "𞳏", at: start}
+      - {from: "ookh", to: "𞳌", at: start}
+      - {from: "Ookh", to: "𞳌", at: start}
+      - {from: "oogh", to: "𞳍", at: start}
+      - {from: "Oogh", to: "𞳍", at: start}
+      - {from: "ooch", to: "𞳕", at: start}
+      - {from: "Ooch", to: "𞳕", at: start}
+      - {from: "ootj", to: "𞳕", at: start}
+      - {from: "Ootj", to: "𞳕", at: start}
+      - {from: "oul", to: "𞳀", at: start}
+      - {from: "Oul", to: "𞳀", at: start}
+      - {from: "our", to: "𞳁", at: start}
+      - {from: "Our", to: "𞳁", at: start}
+      - {from: "out", to: "𞳂", at: start}
+      - {from: "Out", to: "𞳂", at: start}
+      - {from: "oud", to: "𞳃", at: start}
+      - {from: "Oud", to: "𞳃", at: start}
+      - {from: "ouz", to: "𞳄", at: start}
+      - {from: "Ouz", to: "𞳄", at: start}
+      - {from: "ous", to: "𞳅", at: start}
+      - {from: "Ous", to: "𞳅", at: start}
+      - {from: "oug", to: "𞳆", at: start}
+      - {from: "Oug", to: "𞳆", at: start}
+      - {from: "ouk", to: "𞳇", at: start}
+      - {from: "Ouk", to: "𞳇", at: start}
+      - {from: "oun", to: "𞳈", at: start}
+      - {from: "Oun", to: "𞳈", at: start}
+      - {from: "oum", to: "𞳊", at: start}
+      - {from: "Oum", to: "𞳊", at: start}
+      - {from: "ouq", to: "𞳋", at: start}
+      - {from: "Ouq", to: "𞳋", at: start}
+      - {from: "ouh", to: "𞳎", at: start}
+      - {from: "Ouh", to: "𞳎", at: start}
+      - {from: "oup", to: "𞳐", at: start}
+      - {from: "Oup", to: "𞳐", at: start}
+      - {from: "oub", to: "𞳑", at: start}
+      - {from: "Oub", to: "𞳑", at: start}
+      - {from: "ouf", to: "𞳒", at: start}
+      - {from: "Ouf", to: "𞳒", at: start}
+      - {from: "ouw", to: "𞳓", at: start}
+      - {from: "Ouw", to: "𞳓", at: start}
+      - {from: "ouy", to: "𞳔", at: start}
+      - {from: "Ouy", to: "𞳔", at: start}
+      - {from: "outh", to: "𞳉", at: start}
+      - {from: "Outh", to: "𞳉", at: start}
+      - {from: "oush", to: "𞳏", at: start}
+      - {from: "Oush", to: "𞳏", at: start}
+      - {from: "oukh", to: "𞳌", at: start}
+      - {from: "Oukh", to: "𞳌", at: start}
+      - {from: "ough", to: "𞳍", at: start}
+      - {from: "Ough", to: "𞳍", at: start}
+      - {from: "ouch", to: "𞳕", at: start}
+      - {from: "Ouch", to: "𞳕", at: start}
+      - {from: "outj", to: "𞳕", at: start}
+      - {from: "Outj", to: "𞳕", at: start}
+      - {from: "ul", to: "𞳀", at: start}
+      - {from: "Ul", to: "𞳀", at: start}
+      - {from: "ur", to: "𞳁", at: start}
+      - {from: "Ur", to: "𞳁", at: start}
+      - {from: "ut", to: "𞳂", at: start}
+      - {from: "Ut", to: "𞳂", at: start}
+      - {from: "ud", to: "𞳃", at: start}
+      - {from: "Ud", to: "𞳃", at: start}
+      - {from: "uz", to: "𞳄", at: start}
+      - {from: "Uz", to: "𞳄", at: start}
+      - {from: "us", to: "𞳅", at: start}
+      - {from: "Us", to: "𞳅", at: start}
+      - {from: "ug", to: "𞳆", at: start}
+      - {from: "Ug", to: "𞳆", at: start}
+      - {from: "uk", to: "𞳇", at: start}
+      - {from: "Uk", to: "𞳇", at: start}
+      - {from: "un", to: "𞳈", at: start}
+      - {from: "Un", to: "𞳈", at: start}
+      - {from: "um", to: "𞳊", at: start}
+      - {from: "Um", to: "𞳊", at: start}
+      - {from: "uq", to: "𞳋", at: start}
+      - {from: "Uq", to: "𞳋", at: start}
+      - {from: "uh", to: "𞳎", at: start}
+      - {from: "Uh", to: "𞳎", at: start}
+      - {from: "up", to: "𞳐", at: start}
+      - {from: "Up", to: "𞳐", at: start}
+      - {from: "ub", to: "𞳑", at: start}
+      - {from: "Ub", to: "𞳑", at: start}
+      - {from: "uf", to: "𞳒", at: start}
+      - {from: "Uf", to: "𞳒", at: start}
+      - {from: "uw", to: "𞳓", at: start}
+      - {from: "Uw", to: "𞳓", at: start}
+      - {from: "uy", to: "𞳔", at: start}
+      - {from: "Uy", to: "𞳔", at: start}
+      - {from: "uth", to: "𞳉", at: start}
+      - {from: "Uth", to: "𞳉", at: start}
+      - {from: "ush", to: "𞳏", at: start}
+      - {from: "Ush", to: "𞳏", at: start}
+      - {from: "ukh", to: "𞳌", at: start}
+      - {from: "Ukh", to: "𞳌", at: start}
+      - {from: "ugh", to: "𞳍", at: start}
+      - {from: "Ugh", to: "𞳍", at: start}
+      - {from: "uch", to: "𞳕", at: start}
+      - {from: "Uch", to: "𞳕", at: start}
+      - {from: "utj", to: "𞳕", at: start}
+      - {from: "Utj", to: "𞳕", at: start}
+      - {from: "ull", to: "𞳖", at: start}
+      - {from: "Ull", to: "𞳖", at: start}
+      - {from: "urr", to: "𞳗", at: start}
+      - {from: "Urr", to: "𞳗", at: start}
+      - {from: "utt", to: "𞳘", at: start}
+      - {from: "Utt", to: "𞳘", at: start}
+      - {from: "udd", to: "𞳙", at: start}
+      - {from: "Udd", to: "𞳙", at: start}
+      - {from: "uzz", to: "𞳚", at: start}
+      - {from: "Uzz", to: "𞳚", at: start}
+      - {from: "uss", to: "𞳛", at: start}
+      - {from: "Uss", to: "𞳛", at: start}
+      - {from: "ugg", to: "𞳜", at: start}
+      - {from: "Ugg", to: "𞳜", at: start}
+      - {from: "ukk", to: "𞳝", at: start}
+      - {from: "Ukk", to: "𞳝", at: start}
+      - {from: "unn", to: "𞳞", at: start}
+      - {from: "Unn", to: "𞳞", at: start}
+      - {from: "umm", to: "𞳠", at: start}
+      - {from: "Umm", to: "𞳠", at: start}
+      - {from: "uqq", to: "𞳡", at: start}
+      - {from: "Uqq", to: "𞳡", at: start}
+      - {from: "uhh", to: "𞳤", at: start}
+      - {from: "Uhh", to: "𞳤", at: start}
+      - {from: "upp", to: "𞳦", at: start}
+      - {from: "Upp", to: "𞳦", at: start}
+      - {from: "ubb", to: "𞳧", at: start}
+      - {from: "Ubb", to: "𞳧", at: start}
+      - {from: "uff", to: "𞳨", at: start}
+      - {from: "Uff", to: "𞳨", at: start}
+      - {from: "uww", to: "𞳩", at: start}
+      - {from: "Uww", to: "𞳩", at: start}
+      - {from: "uyy", to: "𞳪", at: start}
+      - {from: "Uyy", to: "𞳪", at: start}
+      - {from: "utth", to: "𞳟", at: start}
+      - {from: "Utth", to: "𞳟", at: start}
+      - {from: "ussh", to: "𞳥", at: start}
+      - {from: "Ussh", to: "𞳥", at: start}
+      - {from: "ukkh", to: "𞳢", at: start}
+      - {from: "Ukkh", to: "𞳢", at: start}
+      - {from: "uggh", to: "𞳣", at: start}
+      - {from: "Uggh", to: "𞳣", at: start}
+      - {from: "ucch", to: "𞳫", at: start}
+      - {from: "Ucch", to: "𞳫", at: start}
+      - {from: "uttj", to: "𞳫", at: start}
+      - {from: "Uttj", to: "𞳫", at: start}
+      - {from: "uthth", to: "𞳟", at: start}
+      - {from: "Uthth", to: "𞳟", at: start}
+      - {from: "ushsh", to: "𞳥", at: start}
+      - {from: "Ushsh", to: "𞳥", at: start}
+      - {from: "ukhkh", to: "𞳢", at: start}
+      - {from: "Ukhkh", to: "𞳢", at: start}
+      - {from: "ughgh", to: "𞳣", at: start}
+      - {from: "Ughgh", to: "𞳣", at: start}
+      - {from: "uchch", to: "𞳫", at: start}
+      - {from: "Uchch", to: "𞳫", at: start}
+      - {from: "uchtj", to: "𞳫", at: start}
+      - {from: "Uchtj", to: "𞳫", at: start}
+      - {from: "utjch", to: "𞳫", at: start}
+      - {from: "Utjch", to: "𞳫", at: start}
+      - {from: "utjtj", to: "𞳫", at: start}
+      - {from: "Utjtj", to: "𞳫", at: start}
+      - {from: "uttth", to: "𞳂𞨠", at: start}
+      - {from: "Uttth", to: "𞳂𞨠", at: start}
+      - {from: "usssh", to: "𞳅𞨦", at: start}
+      - {from: "Usssh", to: "𞳅𞨦", at: start}
+      - {from: "ukkkh", to: "𞳇𞨣", at: start}
+      - {from: "Ukkkh", to: "𞳇𞨣", at: start}
+      - {from: "ugggh", to: "𞳆𞨤", at: start}
+      - {from: "Ugggh", to: "𞳆𞨤", at: start}
+      - {from: "utttj", to: "𞳂𞨬", at: start}
+      - {from: "Utttj", to: "𞳂𞨬", at: start}
+      - {from: "ual", to: "𞳀", at: start}
+      - {from: "Ual", to: "𞳀", at: start}
+      - {from: "uar", to: "𞳁", at: start}
+      - {from: "Uar", to: "𞳁", at: start}
+      - {from: "uat", to: "𞳂", at: start}
+      - {from: "Uat", to: "𞳂", at: start}
+      - {from: "uad", to: "𞳃", at: start}
+      - {from: "Uad", to: "𞳃", at: start}
+      - {from: "uaz", to: "𞳄", at: start}
+      - {from: "Uaz", to: "𞳄", at: start}
+      - {from: "uas", to: "𞳅", at: start}
+      - {from: "Uas", to: "𞳅", at: start}
+      - {from: "uag", to: "𞳆", at: start}
+      - {from: "Uag", to: "𞳆", at: start}
+      - {from: "uak", to: "𞳇", at: start}
+      - {from: "Uak", to: "𞳇", at: start}
+      - {from: "uan", to: "𞳈", at: start}
+      - {from: "Uan", to: "𞳈", at: start}
+      - {from: "uam", to: "𞳊", at: start}
+      - {from: "Uam", to: "𞳊", at: start}
+      - {from: "uaq", to: "𞳋", at: start}
+      - {from: "Uaq", to: "𞳋", at: start}
+      - {from: "uah", to: "𞳎", at: start}
+      - {from: "Uah", to: "𞳎", at: start}
+      - {from: "uap", to: "𞳐", at: start}
+      - {from: "Uap", to: "𞳐", at: start}
+      - {from: "uab", to: "𞳑", at: start}
+      - {from: "Uab", to: "𞳑", at: start}
+      - {from: "uaf", to: "𞳒", at: start}
+      - {from: "Uaf", to: "𞳒", at: start}
+      - {from: "uaw", to: "𞳓", at: start}
+      - {from: "Uaw", to: "𞳓", at: start}
+      - {from: "uay", to: "𞳔", at: start}
+      - {from: "Uay", to: "𞳔", at: start}
+      - {from: "uath", to: "𞳉", at: start}
+      - {from: "Uath", to: "𞳉", at: start}
+      - {from: "uash", to: "𞳏", at: start}
+      - {from: "Uash", to: "𞳏", at: start}
+      - {from: "uakh", to: "𞳌", at: start}
+      - {from: "Uakh", to: "𞳌", at: start}
+      - {from: "uagh", to: "𞳍", at: start}
+      - {from: "Uagh", to: "𞳍", at: start}
+      - {from: "uach", to: "𞳕", at: start}
+      - {from: "Uach", to: "𞳕", at: start}
+      - {from: "uatj", to: "𞳕", at: start}
+      - {from: "Uatj", to: "𞳕", at: start}
+      - {from: "uel", to: "𞳀", at: start}
+      - {from: "Uel", to: "𞳀", at: start}
+      - {from: "uer", to: "𞳁", at: start}
+      - {from: "Uer", to: "𞳁", at: start}
+      - {from: "uet", to: "𞳂", at: start}
+      - {from: "Uet", to: "𞳂", at: start}
+      - {from: "ued", to: "𞳃", at: start}
+      - {from: "Ued", to: "𞳃", at: start}
+      - {from: "uez", to: "𞳄", at: start}
+      - {from: "Uez", to: "𞳄", at: start}
+      - {from: "ues", to: "𞳅", at: start}
+      - {from: "Ues", to: "𞳅", at: start}
+      - {from: "ueg", to: "𞳆", at: start}
+      - {from: "Ueg", to: "𞳆", at: start}
+      - {from: "uek", to: "𞳇", at: start}
+      - {from: "Uek", to: "𞳇", at: start}
+      - {from: "uen", to: "𞳈", at: start}
+      - {from: "Uen", to: "𞳈", at: start}
+      - {from: "uem", to: "𞳊", at: start}
+      - {from: "Uem", to: "𞳊", at: start}
+      - {from: "ueq", to: "𞳋", at: start}
+      - {from: "Ueq", to: "𞳋", at: start}
+      - {from: "ueh", to: "𞳎", at: start}
+      - {from: "Ueh", to: "𞳎", at: start}
+      - {from: "uep", to: "𞳐", at: start}
+      - {from: "Uep", to: "𞳐", at: start}
+      - {from: "ueb", to: "𞳑", at: start}
+      - {from: "Ueb", to: "𞳑", at: start}
+      - {from: "uef", to: "𞳒", at: start}
+      - {from: "Uef", to: "𞳒", at: start}
+      - {from: "uew", to: "𞳓", at: start}
+      - {from: "Uew", to: "𞳓", at: start}
+      - {from: "uey", to: "𞳔", at: start}
+      - {from: "Uey", to: "𞳔", at: start}
+      - {from: "ueth", to: "𞳉", at: start}
+      - {from: "Ueth", to: "𞳉", at: start}
+      - {from: "uesh", to: "𞳏", at: start}
+      - {from: "Uesh", to: "𞳏", at: start}
+      - {from: "uekh", to: "𞳌", at: start}
+      - {from: "Uekh", to: "𞳌", at: start}
+      - {from: "uegh", to: "𞳍", at: start}
+      - {from: "Uegh", to: "𞳍", at: start}
+      - {from: "uech", to: "𞳕", at: start}
+      - {from: "Uech", to: "𞳕", at: start}
+      - {from: "uetj", to: "𞳕", at: start}
+      - {from: "Uetj", to: "𞳕", at: start}
+      - {from: "uil", to: "𞳀", at: start}
+      - {from: "Uil", to: "𞳀", at: start}
+      - {from: "uir", to: "𞳁", at: start}
+      - {from: "Uir", to: "𞳁", at: start}
+      - {from: "uit", to: "𞳂", at: start}
+      - {from: "Uit", to: "𞳂", at: start}
+      - {from: "uid", to: "𞳃", at: start}
+      - {from: "Uid", to: "𞳃", at: start}
+      - {from: "uiz", to: "𞳄", at: start}
+      - {from: "Uiz", to: "𞳄", at: start}
+      - {from: "uis", to: "𞳅", at: start}
+      - {from: "Uis", to: "𞳅", at: start}
+      - {from: "uig", to: "𞳆", at: start}
+      - {from: "Uig", to: "𞳆", at: start}
+      - {from: "uik", to: "𞳇", at: start}
+      - {from: "Uik", to: "𞳇", at: start}
+      - {from: "uin", to: "𞳈", at: start}
+      - {from: "Uin", to: "𞳈", at: start}
+      - {from: "uim", to: "𞳊", at: start}
+      - {from: "Uim", to: "𞳊", at: start}
+      - {from: "uiq", to: "𞳋", at: start}
+      - {from: "Uiq", to: "𞳋", at: start}
+      - {from: "uih", to: "𞳎", at: start}
+      - {from: "Uih", to: "𞳎", at: start}
+      - {from: "uip", to: "𞳐", at: start}
+      - {from: "Uip", to: "𞳐", at: start}
+      - {from: "uib", to: "𞳑", at: start}
+      - {from: "Uib", to: "𞳑", at: start}
+      - {from: "uif", to: "𞳒", at: start}
+      - {from: "Uif", to: "𞳒", at: start}
+      - {from: "uiw", to: "𞳓", at: start}
+      - {from: "Uiw", to: "𞳓", at: start}
+      - {from: "uiy", to: "𞳔", at: start}
+      - {from: "Uiy", to: "𞳔", at: start}
+      - {from: "uith", to: "𞳉", at: start}
+      - {from: "Uith", to: "𞳉", at: start}
+      - {from: "uish", to: "𞳏", at: start}
+      - {from: "Uish", to: "𞳏", at: start}
+      - {from: "uikh", to: "𞳌", at: start}
+      - {from: "Uikh", to: "𞳌", at: start}
+      - {from: "uigh", to: "𞳍", at: start}
+      - {from: "Uigh", to: "𞳍", at: start}
+      - {from: "uich", to: "𞳕", at: start}
+      - {from: "Uich", to: "𞳕", at: start}
+      - {from: "uitj", to: "𞳕", at: start}
+      - {from: "Uitj", to: "𞳕", at: start}
+      - {from: "uol", to: "𞳀", at: start}
+      - {from: "Uol", to: "𞳀", at: start}
+      - {from: "uor", to: "𞳁", at: start}
+      - {from: "Uor", to: "𞳁", at: start}
+      - {from: "uot", to: "𞳂", at: start}
+      - {from: "Uot", to: "𞳂", at: start}
+      - {from: "uod", to: "𞳃", at: start}
+      - {from: "Uod", to: "𞳃", at: start}
+      - {from: "uoz", to: "𞳄", at: start}
+      - {from: "Uoz", to: "𞳄", at: start}
+      - {from: "uos", to: "𞳅", at: start}
+      - {from: "Uos", to: "𞳅", at: start}
+      - {from: "uog", to: "𞳆", at: start}
+      - {from: "Uog", to: "𞳆", at: start}
+      - {from: "uok", to: "𞳇", at: start}
+      - {from: "Uok", to: "𞳇", at: start}
+      - {from: "uon", to: "𞳈", at: start}
+      - {from: "Uon", to: "𞳈", at: start}
+      - {from: "uom", to: "𞳊", at: start}
+      - {from: "Uom", to: "𞳊", at: start}
+      - {from: "uoq", to: "𞳋", at: start}
+      - {from: "Uoq", to: "𞳋", at: start}
+      - {from: "uoh", to: "𞳎", at: start}
+      - {from: "Uoh", to: "𞳎", at: start}
+      - {from: "uop", to: "𞳐", at: start}
+      - {from: "Uop", to: "𞳐", at: start}
+      - {from: "uob", to: "𞳑", at: start}
+      - {from: "Uob", to: "𞳑", at: start}
+      - {from: "uof", to: "𞳒", at: start}
+      - {from: "Uof", to: "𞳒", at: start}
+      - {from: "uow", to: "𞳓", at: start}
+      - {from: "Uow", to: "𞳓", at: start}
+      - {from: "uoy", to: "𞳔", at: start}
+      - {from: "Uoy", to: "𞳔", at: start}
+      - {from: "uoth", to: "𞳉", at: start}
+      - {from: "Uoth", to: "𞳉", at: start}
+      - {from: "uosh", to: "𞳏", at: start}
+      - {from: "Uosh", to: "𞳏", at: start}
+      - {from: "uokh", to: "𞳌", at: start}
+      - {from: "Uokh", to: "𞳌", at: start}
+      - {from: "uogh", to: "𞳍", at: start}
+      - {from: "Uogh", to: "𞳍", at: start}
+      - {from: "uoch", to: "𞳕", at: start}
+      - {from: "Uoch", to: "𞳕", at: start}
+      - {from: "uotj", to: "𞳕", at: start}
+      - {from: "Uotj", to: "𞳕", at: start}
+      - {from: "uul", to: "𞳀", at: start}
+      - {from: "Uul", to: "𞳀", at: start}
+      - {from: "uur", to: "𞳁", at: start}
+      - {from: "Uur", to: "𞳁", at: start}
+      - {from: "uut", to: "𞳂", at: start}
+      - {from: "Uut", to: "𞳂", at: start}
+      - {from: "uud", to: "𞳃", at: start}
+      - {from: "Uud", to: "𞳃", at: start}
+      - {from: "uuz", to: "𞳄", at: start}
+      - {from: "Uuz", to: "𞳄", at: start}
+      - {from: "uus", to: "𞳅", at: start}
+      - {from: "Uus", to: "𞳅", at: start}
+      - {from: "uug", to: "𞳆", at: start}
+      - {from: "Uug", to: "𞳆", at: start}
+      - {from: "uuk", to: "𞳇", at: start}
+      - {from: "Uuk", to: "𞳇", at: start}
+      - {from: "uun", to: "𞳈", at: start}
+      - {from: "Uun", to: "𞳈", at: start}
+      - {from: "uum", to: "𞳊", at: start}
+      - {from: "Uum", to: "𞳊", at: start}
+      - {from: "uuq", to: "𞳋", at: start}
+      - {from: "Uuq", to: "𞳋", at: start}
+      - {from: "uuh", to: "𞳎", at: start}
+      - {from: "Uuh", to: "𞳎", at: start}
+      - {from: "uup", to: "𞳐", at: start}
+      - {from: "Uup", to: "𞳐", at: start}
+      - {from: "uub", to: "𞳑", at: start}
+      - {from: "Uub", to: "𞳑", at: start}
+      - {from: "uuf", to: "𞳒", at: start}
+      - {from: "Uuf", to: "𞳒", at: start}
+      - {from: "uuw", to: "𞳓", at: start}
+      - {from: "Uuw", to: "𞳓", at: start}
+      - {from: "uuy", to: "𞳔", at: start}
+      - {from: "Uuy", to: "𞳔", at: start}
+      - {from: "uuth", to: "𞳉", at: start}
+      - {from: "Uuth", to: "𞳉", at: start}
+      - {from: "uush", to: "𞳏", at: start}
+      - {from: "Uush", to: "𞳏", at: start}
+      - {from: "uukh", to: "𞳌", at: start}
+      - {from: "Uukh", to: "𞳌", at: start}
+      - {from: "uugh", to: "𞳍", at: start}
+      - {from: "Uugh", to: "𞳍", at: start}
+      - {from: "uuch", to: "𞳕", at: start}
+      - {from: "Uuch", to: "𞳕", at: start}
+      - {from: "uutj", to: "𞳕", at: start}
+      - {from: "Uutj", to: "𞳕", at: start}
+      - {from: "-", to: "", at: end}
+      - ["-", " "]
+      - ["0", "𞨭"]
+      - ["1", "𞨮"]
+      - ["2", "𞨯"]
+      - ["3", "𞨰"]
+      - ["4", "𞨱"]
+      - ["5", "𞨲"]
+      - ["6", "𞨳"]
+      - ["7", "𞨴"]
+      - ["8", "𞨵"]
+      - ["9", "𞨶"]
+      - [".", "𞨷"]
+      - [",", "𞨸"]
+    fonts: [{font: qalezu-hand}]
+---
+
+Qalezu Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-qalzscrscrpt|Qalezu]] alphabet, in Qalezu Hand. A passage marked with `map=qalezu` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script, running right to left.
+
+```text
+[Anlagh]{lang=khel font=qalezu-hand map=qalezu}
+```
+
+## From the Spelling Guide to Qalezu
+
+Qalezu writes consonants. A reader supplies the vowels from the word.
+
+- **Each consonant is its sign**, and case is not written.
+- **The digraphs are one sign each:** _th_, _sh_, _kh_ and _gh_, and _ch_ and _tj_, which are the same sign.
+- **A consonant written twice** with no vowel between is that sign's doubled form, and so is a letter doubled before a digraph that begins with it (_tth_).
+- **A vowel is not written**, except at the start of a word, where it is the catch.
+- **The catch** is `'` or `’`.
+- **A catch before a sign** is that sign's catch-before form, three reed dabs in a triangle over the sign. This holds with one unwritten vowel between them as well, before a single sign or a digraph, as in _Qe'aret_. Any other catch stands alone.
+- **A hyphen is a word space**, and at the end of a word it writes nothing, as in the prefix _Gar-_.
+- **The numerals** 0 to 9, the full stop and the comma are signs of their own.
+
+Qalezu Hand draws each doubled form and each catch-before form as a character of its own, so the rows write them. A catch and the sign after it are therefore one row, with each vowel that may stand between them.
+
+_j_, _v_, _x_, _c_ outside _ch_ and any other character the script lacks pass through unchanged, and the face prints the box for them.

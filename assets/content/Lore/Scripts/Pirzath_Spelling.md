@@ -1,0 +1,665 @@
+---
+shortcode: mappirzath
+name: {full: Pirzath Spelling, aliases: []}
+type: doc
+subType: reference
+data:
+  packFolder: languages
+  map:
+    name: pirzath
+    vowels: "aeiouAEIOUáéíóúÁÉÍÓÚ"
+    rows:
+      - ["a", "󰀀"]
+      - ["A", "󰀀"]
+      - ["e", "󰀁"]
+      - ["E", "󰀁"]
+      - ["i", "󰀂"]
+      - ["I", "󰀂"]
+      - ["o", "󰀃"]
+      - ["O", "󰀃"]
+      - ["u", "󰀄"]
+      - ["U", "󰀄"]
+      - ["p", "󰀅"]
+      - ["P", "󰀅"]
+      - ["b", "󰀆"]
+      - ["B", "󰀆"]
+      - ["f", "󰀇"]
+      - ["F", "󰀇"]
+      - ["v", "󰀈"]
+      - ["V", "󰀈"]
+      - ["m", "󰀉"]
+      - ["M", "󰀉"]
+      - ["t", "󰀊"]
+      - ["T", "󰀊"]
+      - ["d", "󰀋"]
+      - ["D", "󰀋"]
+      - ["n", "󰀌"]
+      - ["N", "󰀌"]
+      - ["k", "󰀍"]
+      - ["K", "󰀍"]
+      - ["g", "󰀎"]
+      - ["G", "󰀎"]
+      - ["s", "󰀏"]
+      - ["S", "󰀏"]
+      - ["z", "󰀐"]
+      - ["Z", "󰀐"]
+      - ["h", "󰀑"]
+      - ["H", "󰀑"]
+      - ["l", "󰀒"]
+      - ["L", "󰀒"]
+      - ["r", "󰀓"]
+      - ["R", "󰀓"]
+      - ["j", "󰀔"]
+      - ["J", "󰀔"]
+      - ["q", "󰀕"]
+      - ["Q", "󰀕"]
+      - ["w", "󰀖"]
+      - ["W", "󰀖"]
+      - ["á", "󰀀󰁠"]
+      - ["Á", "󰀀󰁠"]
+      - ["é", "󰀁󰁠"]
+      - ["É", "󰀁󰁠"]
+      - ["í", "󰀂󰁠"]
+      - ["Í", "󰀂󰁠"]
+      - ["ó", "󰀃󰁠"]
+      - ["Ó", "󰀃󰁠"]
+      - ["ú", "󰀄󰁠"]
+      - ["Ú", "󰀄󰁠"]
+      - ["'", "󰀘"]
+      - ["’", "󰀘"]
+      - ["th", "󰀠"]
+      - ["tH", "󰀠"]
+      - ["Th", "󰀠"]
+      - ["TH", "󰀠"]
+      - ["dh", "󰀡"]
+      - ["dH", "󰀡"]
+      - ["Dh", "󰀡"]
+      - ["DH", "󰀡"]
+      - ["kh", "󰀢"]
+      - ["kH", "󰀢"]
+      - ["Kh", "󰀢"]
+      - ["KH", "󰀢"]
+      - ["gh", "󰀣"]
+      - ["gH", "󰀣"]
+      - ["Gh", "󰀣"]
+      - ["GH", "󰀣"]
+      - ["sh", "󰀤"]
+      - ["sH", "󰀤"]
+      - ["Sh", "󰀤"]
+      - ["SH", "󰀤"]
+      - ["zh", "󰀥"]
+      - ["zH", "󰀥"]
+      - ["Zh", "󰀥"]
+      - ["ZH", "󰀥"]
+      - ["ch", "󰀧"]
+      - ["cH", "󰀧"]
+      - ["Ch", "󰀧"]
+      - ["CH", "󰀧"]
+      - ["ts", "󰀦"]
+      - ["tS", "󰀦"]
+      - ["Ts", "󰀦"]
+      - ["TS", "󰀦"]
+      - ["ng", "󰀨"]
+      - ["nG", "󰀨"]
+      - ["Ng", "󰀨"]
+      - ["NG", "󰀨"]
+      - ["ny", "󰀩"]
+      - ["nY", "󰀩"]
+      - ["Ny", "󰀩"]
+      - ["NY", "󰀩"]
+      - ["hl", "󰀪"]
+      - ["hL", "󰀪"]
+      - ["Hl", "󰀪"]
+      - ["HL", "󰀪"]
+      - ["ngh", "󰀌󰀣"]
+      - ["ngH", "󰀌󰀣"]
+      - ["nGh", "󰀌󰀣"]
+      - ["nGH", "󰀌󰀣"]
+      - ["Ngh", "󰀌󰀣"]
+      - ["NgH", "󰀌󰀣"]
+      - ["NGh", "󰀌󰀣"]
+      - ["NGH", "󰀌󰀣"]
+      - ["tth", "󰀠󰀠"]
+      - ["ttH", "󰀠󰀠"]
+      - ["tTh", "󰀠󰀠"]
+      - ["tTH", "󰀠󰀠"]
+      - ["Tth", "󰀠󰀠"]
+      - ["TtH", "󰀠󰀠"]
+      - ["TTh", "󰀠󰀠"]
+      - ["TTH", "󰀠󰀠"]
+      - ["ddh", "󰀡󰀡"]
+      - ["ddH", "󰀡󰀡"]
+      - ["dDh", "󰀡󰀡"]
+      - ["dDH", "󰀡󰀡"]
+      - ["Ddh", "󰀡󰀡"]
+      - ["DdH", "󰀡󰀡"]
+      - ["DDh", "󰀡󰀡"]
+      - ["DDH", "󰀡󰀡"]
+      - ["kkh", "󰀢󰀢"]
+      - ["kkH", "󰀢󰀢"]
+      - ["kKh", "󰀢󰀢"]
+      - ["kKH", "󰀢󰀢"]
+      - ["Kkh", "󰀢󰀢"]
+      - ["KkH", "󰀢󰀢"]
+      - ["KKh", "󰀢󰀢"]
+      - ["KKH", "󰀢󰀢"]
+      - ["ggh", "󰀣󰀣"]
+      - ["ggH", "󰀣󰀣"]
+      - ["gGh", "󰀣󰀣"]
+      - ["gGH", "󰀣󰀣"]
+      - ["Ggh", "󰀣󰀣"]
+      - ["GgH", "󰀣󰀣"]
+      - ["GGh", "󰀣󰀣"]
+      - ["GGH", "󰀣󰀣"]
+      - ["ssh", "󰀤󰀤"]
+      - ["ssH", "󰀤󰀤"]
+      - ["sSh", "󰀤󰀤"]
+      - ["sSH", "󰀤󰀤"]
+      - ["Ssh", "󰀤󰀤"]
+      - ["SsH", "󰀤󰀤"]
+      - ["SSh", "󰀤󰀤"]
+      - ["SSH", "󰀤󰀤"]
+      - ["zzh", "󰀥󰀥"]
+      - ["zzH", "󰀥󰀥"]
+      - ["zZh", "󰀥󰀥"]
+      - ["zZH", "󰀥󰀥"]
+      - ["Zzh", "󰀥󰀥"]
+      - ["ZzH", "󰀥󰀥"]
+      - ["ZZh", "󰀥󰀥"]
+      - ["ZZH", "󰀥󰀥"]
+      - ["cch", "󰀧󰀧"]
+      - ["ccH", "󰀧󰀧"]
+      - ["cCh", "󰀧󰀧"]
+      - ["cCH", "󰀧󰀧"]
+      - ["Cch", "󰀧󰀧"]
+      - ["CcH", "󰀧󰀧"]
+      - ["CCh", "󰀧󰀧"]
+      - ["CCH", "󰀧󰀧"]
+      - ["tts", "󰀦󰀦"]
+      - ["ttS", "󰀦󰀦"]
+      - ["tTs", "󰀦󰀦"]
+      - ["tTS", "󰀦󰀦"]
+      - ["Tts", "󰀦󰀦"]
+      - ["TtS", "󰀦󰀦"]
+      - ["TTs", "󰀦󰀦"]
+      - ["TTS", "󰀦󰀦"]
+      - ["nng", "󰀨󰀨"]
+      - ["nnG", "󰀨󰀨"]
+      - ["nNg", "󰀨󰀨"]
+      - ["nNG", "󰀨󰀨"]
+      - ["Nng", "󰀨󰀨"]
+      - ["NnG", "󰀨󰀨"]
+      - ["NNg", "󰀨󰀨"]
+      - ["NNG", "󰀨󰀨"]
+      - ["nny", "󰀩󰀩"]
+      - ["nnY", "󰀩󰀩"]
+      - ["nNy", "󰀩󰀩"]
+      - ["nNY", "󰀩󰀩"]
+      - ["Nny", "󰀩󰀩"]
+      - ["NnY", "󰀩󰀩"]
+      - ["NNy", "󰀩󰀩"]
+      - ["NNY", "󰀩󰀩"]
+      - ["hhl", "󰀪󰀪"]
+      - ["hhL", "󰀪󰀪"]
+      - ["hHl", "󰀪󰀪"]
+      - ["hHL", "󰀪󰀪"]
+      - ["Hhl", "󰀪󰀪"]
+      - ["HhL", "󰀪󰀪"]
+      - ["HHl", "󰀪󰀪"]
+      - ["HHL", "󰀪󰀪"]
+      - ["nngh", "󰀌󰀌󰀣"]
+      - ["nngH", "󰀌󰀌󰀣"]
+      - ["nnGh", "󰀌󰀌󰀣"]
+      - ["nnGH", "󰀌󰀌󰀣"]
+      - ["nNgh", "󰀌󰀌󰀣"]
+      - ["nNgH", "󰀌󰀌󰀣"]
+      - ["nNGh", "󰀌󰀌󰀣"]
+      - ["nNGH", "󰀌󰀌󰀣"]
+      - ["Nngh", "󰀌󰀌󰀣"]
+      - ["NngH", "󰀌󰀌󰀣"]
+      - ["NnGh", "󰀌󰀌󰀣"]
+      - ["NnGH", "󰀌󰀌󰀣"]
+      - ["NNgh", "󰀌󰀌󰀣"]
+      - ["NNgH", "󰀌󰀌󰀣"]
+      - ["NNGh", "󰀌󰀌󰀣"]
+      - ["NNGH", "󰀌󰀌󰀣"]
+      - ["ai", "󰀰"]
+      - ["aI", "󰀰"]
+      - ["Ai", "󰀰"]
+      - ["AI", "󰀰"]
+      - ["aí", "󰀰󰁠"]
+      - ["aÍ", "󰀰󰁠"]
+      - ["Aí", "󰀰󰁠"]
+      - ["AÍ", "󰀰󰁠"]
+      - ["ái", "󰀰󰁠"]
+      - ["áI", "󰀰󰁠"]
+      - ["Ái", "󰀰󰁠"]
+      - ["ÁI", "󰀰󰁠"]
+      - ["áí", "󰀰󰁠󰁠"]
+      - ["áÍ", "󰀰󰁠󰁠"]
+      - ["Áí", "󰀰󰁠󰁠"]
+      - ["ÁÍ", "󰀰󰁠󰁠"]
+      - ["au", "󰀱"]
+      - ["aU", "󰀱"]
+      - ["Au", "󰀱"]
+      - ["AU", "󰀱"]
+      - ["aú", "󰀱󰁠"]
+      - ["aÚ", "󰀱󰁠"]
+      - ["Aú", "󰀱󰁠"]
+      - ["AÚ", "󰀱󰁠"]
+      - ["áu", "󰀱󰁠"]
+      - ["áU", "󰀱󰁠"]
+      - ["Áu", "󰀱󰁠"]
+      - ["ÁU", "󰀱󰁠"]
+      - ["áú", "󰀱󰁠󰁠"]
+      - ["áÚ", "󰀱󰁠󰁠"]
+      - ["Áú", "󰀱󰁠󰁠"]
+      - ["ÁÚ", "󰀱󰁠󰁠"]
+      - ["ei", "󰀲"]
+      - ["eI", "󰀲"]
+      - ["Ei", "󰀲"]
+      - ["EI", "󰀲"]
+      - ["eí", "󰀲󰁠"]
+      - ["eÍ", "󰀲󰁠"]
+      - ["Eí", "󰀲󰁠"]
+      - ["EÍ", "󰀲󰁠"]
+      - ["éi", "󰀲󰁠"]
+      - ["éI", "󰀲󰁠"]
+      - ["Éi", "󰀲󰁠"]
+      - ["ÉI", "󰀲󰁠"]
+      - ["éí", "󰀲󰁠󰁠"]
+      - ["éÍ", "󰀲󰁠󰁠"]
+      - ["Éí", "󰀲󰁠󰁠"]
+      - ["ÉÍ", "󰀲󰁠󰁠"]
+      - ["oi", "󰀳"]
+      - ["oI", "󰀳"]
+      - ["Oi", "󰀳"]
+      - ["OI", "󰀳"]
+      - ["oí", "󰀳󰁠"]
+      - ["oÍ", "󰀳󰁠"]
+      - ["Oí", "󰀳󰁠"]
+      - ["OÍ", "󰀳󰁠"]
+      - ["ói", "󰀳󰁠"]
+      - ["óI", "󰀳󰁠"]
+      - ["Ói", "󰀳󰁠"]
+      - ["ÓI", "󰀳󰁠"]
+      - ["óí", "󰀳󰁠󰁠"]
+      - ["óÍ", "󰀳󰁠󰁠"]
+      - ["Óí", "󰀳󰁠󰁠"]
+      - ["ÓÍ", "󰀳󰁠󰁠"]
+      - ["ou", "󰀴"]
+      - ["oU", "󰀴"]
+      - ["Ou", "󰀴"]
+      - ["OU", "󰀴"]
+      - ["oú", "󰀴󰁠"]
+      - ["oÚ", "󰀴󰁠"]
+      - ["Oú", "󰀴󰁠"]
+      - ["OÚ", "󰀴󰁠"]
+      - ["óu", "󰀴󰁠"]
+      - ["óU", "󰀴󰁠"]
+      - ["Óu", "󰀴󰁠"]
+      - ["ÓU", "󰀴󰁠"]
+      - ["óú", "󰀴󰁠󰁠"]
+      - ["óÚ", "󰀴󰁠󰁠"]
+      - ["Óú", "󰀴󰁠󰁠"]
+      - ["ÓÚ", "󰀴󰁠󰁠"]
+      - {from: "ay", to: "󰀰", before: consonant}
+      - {from: "ay", to: "󰀰", at: end}
+      - {from: "aY", to: "󰀰", before: consonant}
+      - {from: "aY", to: "󰀰", at: end}
+      - {from: "Ay", to: "󰀰", before: consonant}
+      - {from: "Ay", to: "󰀰", at: end}
+      - {from: "AY", to: "󰀰", before: consonant}
+      - {from: "AY", to: "󰀰", at: end}
+      - {from: "áy", to: "󰀰󰁠", before: consonant}
+      - {from: "áy", to: "󰀰󰁠", at: end}
+      - {from: "áY", to: "󰀰󰁠", before: consonant}
+      - {from: "áY", to: "󰀰󰁠", at: end}
+      - {from: "Áy", to: "󰀰󰁠", before: consonant}
+      - {from: "Áy", to: "󰀰󰁠", at: end}
+      - {from: "ÁY", to: "󰀰󰁠", before: consonant}
+      - {from: "ÁY", to: "󰀰󰁠", at: end}
+      - {from: "ey", to: "󰀲", before: consonant}
+      - {from: "ey", to: "󰀲", at: end}
+      - {from: "eY", to: "󰀲", before: consonant}
+      - {from: "eY", to: "󰀲", at: end}
+      - {from: "Ey", to: "󰀲", before: consonant}
+      - {from: "Ey", to: "󰀲", at: end}
+      - {from: "EY", to: "󰀲", before: consonant}
+      - {from: "EY", to: "󰀲", at: end}
+      - {from: "éy", to: "󰀲󰁠", before: consonant}
+      - {from: "éy", to: "󰀲󰁠", at: end}
+      - {from: "éY", to: "󰀲󰁠", before: consonant}
+      - {from: "éY", to: "󰀲󰁠", at: end}
+      - {from: "Éy", to: "󰀲󰁠", before: consonant}
+      - {from: "Éy", to: "󰀲󰁠", at: end}
+      - {from: "ÉY", to: "󰀲󰁠", before: consonant}
+      - {from: "ÉY", to: "󰀲󰁠", at: end}
+      - {from: "oy", to: "󰀳", before: consonant}
+      - {from: "oy", to: "󰀳", at: end}
+      - {from: "oY", to: "󰀳", before: consonant}
+      - {from: "oY", to: "󰀳", at: end}
+      - {from: "Oy", to: "󰀳", before: consonant}
+      - {from: "Oy", to: "󰀳", at: end}
+      - {from: "OY", to: "󰀳", before: consonant}
+      - {from: "OY", to: "󰀳", at: end}
+      - {from: "óy", to: "󰀳󰁠", before: consonant}
+      - {from: "óy", to: "󰀳󰁠", at: end}
+      - {from: "óY", to: "󰀳󰁠", before: consonant}
+      - {from: "óY", to: "󰀳󰁠", at: end}
+      - {from: "Óy", to: "󰀳󰁠", before: consonant}
+      - {from: "Óy", to: "󰀳󰁠", at: end}
+      - {from: "ÓY", to: "󰀳󰁠", before: consonant}
+      - {from: "ÓY", to: "󰀳󰁠", at: end}
+      - ["yai", "󰀗󰀀󰀂"]
+      - ["yaI", "󰀗󰀀󰀂"]
+      - ["yAi", "󰀗󰀀󰀂"]
+      - ["yAI", "󰀗󰀀󰀂"]
+      - ["Yai", "󰀗󰀀󰀂"]
+      - ["YaI", "󰀗󰀀󰀂"]
+      - ["YAi", "󰀗󰀀󰀂"]
+      - ["YAI", "󰀗󰀀󰀂"]
+      - ["yaí", "󰀗󰀀󰀂󰁠"]
+      - ["yaÍ", "󰀗󰀀󰀂󰁠"]
+      - ["yAí", "󰀗󰀀󰀂󰁠"]
+      - ["yAÍ", "󰀗󰀀󰀂󰁠"]
+      - ["Yaí", "󰀗󰀀󰀂󰁠"]
+      - ["YaÍ", "󰀗󰀀󰀂󰁠"]
+      - ["YAí", "󰀗󰀀󰀂󰁠"]
+      - ["YAÍ", "󰀗󰀀󰀂󰁠"]
+      - ["yái", "󰀗󰀀󰁠󰀂"]
+      - ["yáI", "󰀗󰀀󰁠󰀂"]
+      - ["yÁi", "󰀗󰀀󰁠󰀂"]
+      - ["yÁI", "󰀗󰀀󰁠󰀂"]
+      - ["Yái", "󰀗󰀀󰁠󰀂"]
+      - ["YáI", "󰀗󰀀󰁠󰀂"]
+      - ["YÁi", "󰀗󰀀󰁠󰀂"]
+      - ["YÁI", "󰀗󰀀󰁠󰀂"]
+      - ["yáí", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["yáÍ", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["yÁí", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["yÁÍ", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["Yáí", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["YáÍ", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["YÁí", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["YÁÍ", "󰀗󰀀󰁠󰀂󰁠"]
+      - ["yau", "󰀗󰀀󰀄"]
+      - ["yaU", "󰀗󰀀󰀄"]
+      - ["yAu", "󰀗󰀀󰀄"]
+      - ["yAU", "󰀗󰀀󰀄"]
+      - ["Yau", "󰀗󰀀󰀄"]
+      - ["YaU", "󰀗󰀀󰀄"]
+      - ["YAu", "󰀗󰀀󰀄"]
+      - ["YAU", "󰀗󰀀󰀄"]
+      - ["yaú", "󰀗󰀀󰀄󰁠"]
+      - ["yaÚ", "󰀗󰀀󰀄󰁠"]
+      - ["yAú", "󰀗󰀀󰀄󰁠"]
+      - ["yAÚ", "󰀗󰀀󰀄󰁠"]
+      - ["Yaú", "󰀗󰀀󰀄󰁠"]
+      - ["YaÚ", "󰀗󰀀󰀄󰁠"]
+      - ["YAú", "󰀗󰀀󰀄󰁠"]
+      - ["YAÚ", "󰀗󰀀󰀄󰁠"]
+      - ["yáu", "󰀗󰀀󰁠󰀄"]
+      - ["yáU", "󰀗󰀀󰁠󰀄"]
+      - ["yÁu", "󰀗󰀀󰁠󰀄"]
+      - ["yÁU", "󰀗󰀀󰁠󰀄"]
+      - ["Yáu", "󰀗󰀀󰁠󰀄"]
+      - ["YáU", "󰀗󰀀󰁠󰀄"]
+      - ["YÁu", "󰀗󰀀󰁠󰀄"]
+      - ["YÁU", "󰀗󰀀󰁠󰀄"]
+      - ["yáú", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["yáÚ", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["yÁú", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["yÁÚ", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["Yáú", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["YáÚ", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["YÁú", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["YÁÚ", "󰀗󰀀󰁠󰀄󰁠"]
+      - ["yei", "󰀗󰀁󰀂"]
+      - ["yeI", "󰀗󰀁󰀂"]
+      - ["yEi", "󰀗󰀁󰀂"]
+      - ["yEI", "󰀗󰀁󰀂"]
+      - ["Yei", "󰀗󰀁󰀂"]
+      - ["YeI", "󰀗󰀁󰀂"]
+      - ["YEi", "󰀗󰀁󰀂"]
+      - ["YEI", "󰀗󰀁󰀂"]
+      - ["yeí", "󰀗󰀁󰀂󰁠"]
+      - ["yeÍ", "󰀗󰀁󰀂󰁠"]
+      - ["yEí", "󰀗󰀁󰀂󰁠"]
+      - ["yEÍ", "󰀗󰀁󰀂󰁠"]
+      - ["Yeí", "󰀗󰀁󰀂󰁠"]
+      - ["YeÍ", "󰀗󰀁󰀂󰁠"]
+      - ["YEí", "󰀗󰀁󰀂󰁠"]
+      - ["YEÍ", "󰀗󰀁󰀂󰁠"]
+      - ["yéi", "󰀗󰀁󰁠󰀂"]
+      - ["yéI", "󰀗󰀁󰁠󰀂"]
+      - ["yÉi", "󰀗󰀁󰁠󰀂"]
+      - ["yÉI", "󰀗󰀁󰁠󰀂"]
+      - ["Yéi", "󰀗󰀁󰁠󰀂"]
+      - ["YéI", "󰀗󰀁󰁠󰀂"]
+      - ["YÉi", "󰀗󰀁󰁠󰀂"]
+      - ["YÉI", "󰀗󰀁󰁠󰀂"]
+      - ["yéí", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["yéÍ", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["yÉí", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["yÉÍ", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["Yéí", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["YéÍ", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["YÉí", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["YÉÍ", "󰀗󰀁󰁠󰀂󰁠"]
+      - ["yoi", "󰀗󰀃󰀂"]
+      - ["yoI", "󰀗󰀃󰀂"]
+      - ["yOi", "󰀗󰀃󰀂"]
+      - ["yOI", "󰀗󰀃󰀂"]
+      - ["Yoi", "󰀗󰀃󰀂"]
+      - ["YoI", "󰀗󰀃󰀂"]
+      - ["YOi", "󰀗󰀃󰀂"]
+      - ["YOI", "󰀗󰀃󰀂"]
+      - ["yoí", "󰀗󰀃󰀂󰁠"]
+      - ["yoÍ", "󰀗󰀃󰀂󰁠"]
+      - ["yOí", "󰀗󰀃󰀂󰁠"]
+      - ["yOÍ", "󰀗󰀃󰀂󰁠"]
+      - ["Yoí", "󰀗󰀃󰀂󰁠"]
+      - ["YoÍ", "󰀗󰀃󰀂󰁠"]
+      - ["YOí", "󰀗󰀃󰀂󰁠"]
+      - ["YOÍ", "󰀗󰀃󰀂󰁠"]
+      - ["yói", "󰀗󰀃󰁠󰀂"]
+      - ["yóI", "󰀗󰀃󰁠󰀂"]
+      - ["yÓi", "󰀗󰀃󰁠󰀂"]
+      - ["yÓI", "󰀗󰀃󰁠󰀂"]
+      - ["Yói", "󰀗󰀃󰁠󰀂"]
+      - ["YóI", "󰀗󰀃󰁠󰀂"]
+      - ["YÓi", "󰀗󰀃󰁠󰀂"]
+      - ["YÓI", "󰀗󰀃󰁠󰀂"]
+      - ["yóí", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["yóÍ", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["yÓí", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["yÓÍ", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["Yóí", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["YóÍ", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["YÓí", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["YÓÍ", "󰀗󰀃󰁠󰀂󰁠"]
+      - ["you", "󰀗󰀃󰀄"]
+      - ["yoU", "󰀗󰀃󰀄"]
+      - ["yOu", "󰀗󰀃󰀄"]
+      - ["yOU", "󰀗󰀃󰀄"]
+      - ["You", "󰀗󰀃󰀄"]
+      - ["YoU", "󰀗󰀃󰀄"]
+      - ["YOu", "󰀗󰀃󰀄"]
+      - ["YOU", "󰀗󰀃󰀄"]
+      - ["yoú", "󰀗󰀃󰀄󰁠"]
+      - ["yoÚ", "󰀗󰀃󰀄󰁠"]
+      - ["yOú", "󰀗󰀃󰀄󰁠"]
+      - ["yOÚ", "󰀗󰀃󰀄󰁠"]
+      - ["Yoú", "󰀗󰀃󰀄󰁠"]
+      - ["YoÚ", "󰀗󰀃󰀄󰁠"]
+      - ["YOú", "󰀗󰀃󰀄󰁠"]
+      - ["YOÚ", "󰀗󰀃󰀄󰁠"]
+      - ["yóu", "󰀗󰀃󰁠󰀄"]
+      - ["yóU", "󰀗󰀃󰁠󰀄"]
+      - ["yÓu", "󰀗󰀃󰁠󰀄"]
+      - ["yÓU", "󰀗󰀃󰁠󰀄"]
+      - ["Yóu", "󰀗󰀃󰁠󰀄"]
+      - ["YóU", "󰀗󰀃󰁠󰀄"]
+      - ["YÓu", "󰀗󰀃󰁠󰀄"]
+      - ["YÓU", "󰀗󰀃󰁠󰀄"]
+      - ["yóú", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["yóÚ", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["yÓú", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["yÓÚ", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["Yóú", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["YóÚ", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["YÓú", "󰀗󰀃󰁠󰀄󰁠"]
+      - ["YÓÚ", "󰀗󰀃󰁠󰀄󰁠"]
+      - {from: "yay", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "yay", to: "󰀗󰀀󰀂", at: end}
+      - {from: "yaY", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "yaY", to: "󰀗󰀀󰀂", at: end}
+      - {from: "yAy", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "yAy", to: "󰀗󰀀󰀂", at: end}
+      - {from: "yAY", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "yAY", to: "󰀗󰀀󰀂", at: end}
+      - {from: "Yay", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "Yay", to: "󰀗󰀀󰀂", at: end}
+      - {from: "YaY", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "YaY", to: "󰀗󰀀󰀂", at: end}
+      - {from: "YAy", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "YAy", to: "󰀗󰀀󰀂", at: end}
+      - {from: "YAY", to: "󰀗󰀀󰀂", before: consonant}
+      - {from: "YAY", to: "󰀗󰀀󰀂", at: end}
+      - {from: "yáy", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "yáy", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "yáY", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "yáY", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "yÁy", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "yÁy", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "yÁY", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "yÁY", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "Yáy", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "Yáy", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "YáY", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "YáY", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "YÁy", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "YÁy", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "YÁY", to: "󰀗󰀀󰁠󰀂", before: consonant}
+      - {from: "YÁY", to: "󰀗󰀀󰁠󰀂", at: end}
+      - {from: "yey", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "yey", to: "󰀗󰀁󰀂", at: end}
+      - {from: "yeY", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "yeY", to: "󰀗󰀁󰀂", at: end}
+      - {from: "yEy", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "yEy", to: "󰀗󰀁󰀂", at: end}
+      - {from: "yEY", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "yEY", to: "󰀗󰀁󰀂", at: end}
+      - {from: "Yey", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "Yey", to: "󰀗󰀁󰀂", at: end}
+      - {from: "YeY", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "YeY", to: "󰀗󰀁󰀂", at: end}
+      - {from: "YEy", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "YEy", to: "󰀗󰀁󰀂", at: end}
+      - {from: "YEY", to: "󰀗󰀁󰀂", before: consonant}
+      - {from: "YEY", to: "󰀗󰀁󰀂", at: end}
+      - {from: "yéy", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "yéy", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "yéY", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "yéY", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "yÉy", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "yÉy", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "yÉY", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "yÉY", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "Yéy", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "Yéy", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "YéY", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "YéY", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "YÉy", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "YÉy", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "YÉY", to: "󰀗󰀁󰁠󰀂", before: consonant}
+      - {from: "YÉY", to: "󰀗󰀁󰁠󰀂", at: end}
+      - {from: "yoy", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "yoy", to: "󰀗󰀃󰀂", at: end}
+      - {from: "yoY", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "yoY", to: "󰀗󰀃󰀂", at: end}
+      - {from: "yOy", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "yOy", to: "󰀗󰀃󰀂", at: end}
+      - {from: "yOY", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "yOY", to: "󰀗󰀃󰀂", at: end}
+      - {from: "Yoy", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "Yoy", to: "󰀗󰀃󰀂", at: end}
+      - {from: "YoY", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "YoY", to: "󰀗󰀃󰀂", at: end}
+      - {from: "YOy", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "YOy", to: "󰀗󰀃󰀂", at: end}
+      - {from: "YOY", to: "󰀗󰀃󰀂", before: consonant}
+      - {from: "YOY", to: "󰀗󰀃󰀂", at: end}
+      - {from: "yóy", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "yóy", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "yóY", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "yóY", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "yÓy", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "yÓy", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "yÓY", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "yÓY", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "Yóy", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "Yóy", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "YóY", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "YóY", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "YÓy", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "YÓy", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "YÓY", to: "󰀗󰀃󰁠󰀂", before: consonant}
+      - {from: "YÓY", to: "󰀗󰀃󰁠󰀂", at: end}
+      - {from: "y", to: "󰀗", before: vowel}
+      - ["y", "󰀂"]
+      - {from: "Y", to: "󰀗", before: vowel}
+      - ["Y", "󰀂"]
+      - {from: '"', to: "󰁔", at: start}
+      - ['"', "󰁕"]
+      - ["<<", "󰁔"]
+      - ["[", "󰁔"]
+      - ["“", "󰁔"]
+      - [">>", "󰁕"]
+      - ["]", "󰁕"]
+      - ["”", "󰁕"]
+      - ["0", "󰁀"]
+      - ["1", "󰁁"]
+      - ["2", "󰁂"]
+      - ["3", "󰁃"]
+      - ["4", "󰁄"]
+      - ["5", "󰁅"]
+      - ["6", "󰁆"]
+      - ["7", "󰁇"]
+      - ["8", "󰁈"]
+      - ["9", "󰁉"]
+      - ["@", "󰁊"]
+      - ["#", "󰁋"]
+      - ["$", "󰁌"]
+      - ["%", "󰁍"]
+      - ["^", "󰁎"]
+      - ["&", "󰁏"]
+      - [".", "󰁐"]
+      - [",", "󰁑"]
+      - ["!", "󰁒"]
+      - ["-", "󰁓"]
+    fonts: [{font: pirzath-carved}, {font: pirzath-hand}, {font: pirzath-hand-lifted}]
+---
+
+Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in [[skill-drthrkscrpt|Pirzath]], in any of its three faces: Pirzath Carved, Pirzath Hand, and Pirzath Hand with its letters lifted apart. A passage marked with `map=pirzath` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. The three faces share every row.
+
+```text
+[Khazár]{lang=khaz font=pirzath-carved map=pirzath}
+```
+
+## From the Spelling Guide to Pirzath
+
+- **Pirzath has one case.** A capital is written as its letter.
+- **The digraphs are letters:** _th_, _dh_, _kh_, _gh_, _sh_, _zh_, _ch_, _ts_, _ng_, _ny_ and _hl_. _ngh_ is _n_ and _gh_.
+- **A digraph with its first letter doubled** (_tth_, _ssh_, _nng_) is the digraph twice, which the faces draw as the doubled form.
+- **A consonant written twice** is two letters, which the faces draw as the doubled form.
+- **An acute vowel is the vowel and the length mark.**
+- **The vowel pairs are letters:** _ai_, _au_, _ei_, _oi_ and _ou_, carrying the length mark of either vowel. _ay_, _ey_ and _oy_ are the pairs _ai_, _ei_ and _oi_, except before a vowel.
+- **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. After the glide, a vowel pair is written as its two vowels, which the faces join into the pair.
+- **The catch** is `'` or `’`.
+- **The numerals count in sixteens:** 0 to 9, then `@`, `#`, `$`, `%`, `^` and `&` for ten to fifteen.
+- **The points** are `.`, `,`, `!` and the hyphen.
+- **Quotation marks:** `<<`, `[` and `“` open a quotation, and `>>`, `]` and `”` close one. A straight `"` opens at the start of a passage or after a space or a mark, and closes elsewhere.
+
+_c_ outside _ch_, _x_ and any other character the script lacks pass through unchanged, and the faces print the box for them.

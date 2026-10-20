@@ -65,6 +65,12 @@ const CONCORDANCE = "utils/nordmal-concordance.json";
 const RETIRED_KEY = /^ {2}retired:\s*$/;
 const RETIRED_FORM = /(\bform:\s*)("[^"\n]*"|'[^'\n]*'|[^,}\n]+)/;
 
+/**
+ * A mapping note's `data.map` holds letter sequences and their code points, not
+ * words or names, so the whole block is read past.
+ */
+const MAP_KEY = /^ {2}map:\s*$/;
+
 /** A line carrying this marker is a comment for later authors. */
 const ANALOG_LINE = /#\s*terran_analog:/;
 
@@ -558,7 +564,6 @@ export const CURATED = [
     "Carthage",
     "Babylon",
     "Nineveh",
-    "Ur",
     "Memphis",
     "Thebes",
     "Alexandria",
@@ -823,8 +828,13 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
 export function findEarthNames(file, text, names = earthMatcher()) {
     const exemptFile = EXEMPT_FILES.has(file);
     let inRetired = false;
+    let inMap = false;
     return text.split("\n").flatMap((line, i) => {
-        if (/^ {0,2}\S/.test(line)) inRetired = RETIRED_KEY.test(line);
+        if (/^ {0,2}\S/.test(line)) {
+            inRetired = RETIRED_KEY.test(line);
+            inMap = MAP_KEY.test(line);
+        }
+        if (inMap) return [];
         // Blank a retired entry's form, keeping every column.
         if (inRetired)
             line = line.replace(RETIRED_FORM, (_all, key, value) => key + " ".repeat(value.length));
