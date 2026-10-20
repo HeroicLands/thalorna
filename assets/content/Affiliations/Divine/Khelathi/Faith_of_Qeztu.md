@@ -7,6 +7,7 @@ description: "War."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: qeztu
   templatePriority: null
   demonym: null
   epithet: The War-God

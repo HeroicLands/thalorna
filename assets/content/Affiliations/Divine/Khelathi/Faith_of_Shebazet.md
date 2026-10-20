@@ -7,6 +7,7 @@ description: "The Marsh."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: shebazet
   templatePriority: null
   demonym: null
   epithet: The Cobra-Goddess

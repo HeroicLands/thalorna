@@ -1,5 +1,5 @@
 ---
-shortcode: chelsuk
+shortcode: chelsur
 name: {full: Faith of Chelsur, aliases: []}
 type: affiliation
 subType: faithtradition
@@ -7,6 +7,7 @@ description: "River-Beasts."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: chelsur
   templatePriority: null
   demonym: null
   epithet: The Crocodile-God
@@ -44,16 +45,16 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [chelsukdty]
+  lore: [chelsurdty]
   parents: [khelathpnthn]
   relations: {khelathpnthn: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---
 
-"Here is what a mother in a village on the water wants to know," a priest of Chelsur says to a pilgrim in the temple at [[place-lutchelsuk|Lut-Chelsur]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
+"Here is what a mother in a village on the water wants to know," a priest of Chelsur says to a pilgrim in the temple at [[place-lutchelsur|Lut-Chelsur]]. "May we kill the beast that took her child? The temple keeps an office whose whole work is answering that."
 
-[[lore-chelsukdty|Chelsur]], the crocodile-god, is worshipped by the great crocodile cult, seated in the eastern marsh at Lut-Chelsur among the river-beast hunters. The beast sacred to him is also the beast that takes farmers and children along the river, and it must sometimes be killed. That is the faith's central difficulty, and its offices exist to carry it.
+[[lore-chelsurdty|Chelsur]], the crocodile-god, is worshipped by the great crocodile cult, seated in the eastern marsh at Lut-Chelsur among the river-beast hunters. The beast sacred to him is also the beast that takes farmers and children along the river, and it must sometimes be killed. That is the faith's central difficulty, and its offices exist to carry it.
 
 ## Keeping the God, Killing the Beast
 
@@ -69,7 +70,7 @@ The cult keeps the shared temple ladder; a selat god's Thaz'Lekhau carries real 
 
 ## See Also
 
-[[lore-chelsukdty|Chelsur]]
+[[lore-chelsurdty|Chelsur]]
 : the god
 
 [[affiliation-garnuw|Gar'Nuw]]

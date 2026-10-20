@@ -7,6 +7,7 @@ description: The house of Uzn'era, goddess of fertility and of the balanced part
 tags: [generated, draft]
 data:
   culture: khelathiclt
+  icon: uznera
   templatePriority: null
   demonym: ""
   epithet: null

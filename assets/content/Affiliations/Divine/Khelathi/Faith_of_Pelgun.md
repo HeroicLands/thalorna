@@ -7,6 +7,7 @@ description: "Fertility & the Desert Roads."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: pelgun
   templatePriority: null
   demonym: null
   epithet: The Fertility-God

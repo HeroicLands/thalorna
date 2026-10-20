@@ -1,5 +1,5 @@
 ---
-shortcode: linqur
+shortcode: linkur
 name: {full: Faith of Linkur, aliases: [Patron of the Hunt]}
 type: affiliation
 subType: faithtradition
@@ -7,6 +7,7 @@ description: "The Hunt."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: linkur
   templatePriority: null
   demonym: null
   epithet: Patron of the Hunt
@@ -44,14 +45,14 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [linqurdty]
+  lore: [linkurdty]
   parents: [khelathpnthn]
   relations: {khelathpnthn: aligned, garnuw: aligned, linhur: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---
 
-The Faith of Linkur and the [[affiliation-linhur|Faith of Linhur]] teach that [[lore-linhurdty|Linhur]] watches the hunter, and [[lore-linqurdty|Linkur]] watches the killing. The second of the two hunt-patrons of [[affiliation-empireakhlth|Au'Khelathu]], Linkur is paired with Linhur in every rite that matters, and his patronage is understood to cover not only the hunt's success but the manner of the death.
+The Faith of Linkur and the [[affiliation-linhur|Faith of Linhur]] teach that [[lore-linhurdty|Linhur]] watches the hunter, and [[lore-linkurdty|Linkur]] watches the killing. The second of the two hunt-patrons of [[affiliation-empireakhlth|Au'Khelathu]], Linkur is paired with Linhur in every rite that matters, and his patronage is understood to cover not only the hunt's success but the manner of the death.
 
 The **Scrutineer of the Kill** holds that scrutiny. A beast is to die with the speed and efficiency its nature permits, because wantonness in the killing is held to offend the gods as much as the imperial order. A culler of [[affiliation-garnuw|Gar'Nuw]] who removes a crocodile from a village's water is held answerable to this god for how quickly it was done.
 
@@ -61,7 +62,7 @@ The cult keeps the same temple ladder as every other selat god's.
 
 ## See Also
 
-[[lore-linqurdty|Linkur]]
+[[lore-linkurdty|Linkur]]
 : the god
 
 [[affiliation-linhur|Faith of Linhur]]

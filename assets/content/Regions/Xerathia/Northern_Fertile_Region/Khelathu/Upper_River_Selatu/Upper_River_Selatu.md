@@ -107,7 +107,7 @@ Eighteen selatu make up the upper-river class, each under its hereditary [[affil
 | [[affiliation-selatanztqlt\|The Selat of Anzet-Qelt]]     | [[place-anzet\|Anzet]]              | [[lore-hezmuiridty\|Hezmu'iri]]                               | ~320,000   | Jackal-cult and desert-edge tombs; embalmers and tomb-guards                                                                                |
 | [[affiliation-selatmaguthn\|The Selat of Magu-Thelqen]]   | [[place-maguathen\|Magu-Thelqen]]   | [[lore-uqaadty\|Uqa'a]]                                       | ~300,000   | A planned temple-city of one zealous dynasty, half-abandoned, still inhabited                                                               |
 | [[affiliation-selatgarlut\|The Selat of Gar-Lut]]         | [[place-garlut\|Gar-Lut]]           | [[lore-uzneradty\|Uzn'era]]                                   | ~240,000   | A small, devout selat of healing-shrines and herb-gardens                                                                                   |
-| [[affiliation-selatyathlmt\|The Selat of Yath-Lemet]]     | [[place-yathlemet\|Yath-Lemet]]     | [[affiliation-chelsuk\|Faith of Chelsur]] (crocodile-god)     | ~80,000    | The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing                                                 |
+| [[affiliation-selatyathlmt\|The Selat of Yath-Lemet]]     | [[place-yathlemet\|Yath-Lemet]]     | [[affiliation-chelsur\|Faith of Chelsur]] (crocodile-god)     | ~80,000    | The smallest upper selat; a narrow gorge-stretch where the valley pinches to almost nothing                                                 |
 
 Upper-river total: about 8,000,000.
 

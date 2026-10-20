@@ -1,5 +1,5 @@
 ---
-shortcode: selatltchlsk
+shortcode: selatltchlsr
 name: {full: The Selat of Lut-Chelsur, aliases: []}
 type: affiliation
 subType: polity
@@ -45,25 +45,25 @@ data:
         Administrator of the selat's revenue, its granaries and its corvée. Held by a Zabu.
       Canal-Warden: >-
         Keeper of the irrigation works on which the selat's harvest—and its tax—depends. Held by a Zabu.
-  seat: lutchelsuk
+  seat: lutchelsur
   population: 500000
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [deltaselatu]
-  relations: {khelathpnthn: aligned, chelsuk: aligned}
+  relations: {khelathpnthn: aligned, chelsur: aligned}
   packFolder: regkhpol
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
 
-Lut-Chelsur is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-chelsukdty|Chelsur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-lutchelskslt|Lut-Chelsur Selat]].
+Lut-Chelsur is the selat of the crocodile-god, and it lives with the difficulty that comes with him. It is one of the delta selatu of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], an eastern marsh of river-beast hunters around the great crocodile cult. A hereditary [[affiliation-empireakhlth#titles-and-forms-of-address|Halzi'a]] (governor) holds it, commanding its levies, collecting its taxes and dispensing its justice, and answers to the [[lore-garauu|Gar-Au]] at a distance that varies with the strength of the throne. The patron is [[lore-chelsurdty|Chelsur]], and the selat's religious life runs through his temples and their estates. The land it holds is [[place-lutchelsrslt|Lut-Chelsur Selat]].
 
 "Learn the rule before you learn the god," says the treasurer of the temple's [[affiliation-garhalzi|Gar-Hálzi]] chapter, laying a weight-piece on the scale. "The beast is sacred, and the beast eats our children. So a cull is a religious act before it is a commercial one, and somebody must license it."
 
 ## Character
 
-The seat is [[place-lutchelsuk|Lut-Chelsur]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-chelsuk|Chelsur]] stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
+The seat is [[place-lutchelsur|Lut-Chelsur]], where the Halzi'a keeps court and the selat's chief temple of [[affiliation-chelsur|Chelsur]] stands. The cult's central difficulty is that the animal sacred to the god is also the animal that takes farmers and children along the river, and must sometimes be killed.
 
 ## Commerce and Currency
 
@@ -77,14 +77,14 @@ Lut-Chelsur uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]]. The local chapt
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : Imperial overview
 
-[[place-lutchelsuk|Lut-Chelsur]]
+[[place-lutchelsur|Lut-Chelsur]]
 : Selat capital
 
-[[affiliation-chelsuk|Faith of Chelsur]]
+[[affiliation-chelsur|Faith of Chelsur]]
 : Patron cult
 
 [[affiliation-garhalzi|Gar-Hálzi]]
 : Temple-treasuries
 
-[[place-lutchelskslt|Lut-Chelsur Selat]]
+[[place-lutchelsrslt|Lut-Chelsur Selat]]
 : The land the selat holds

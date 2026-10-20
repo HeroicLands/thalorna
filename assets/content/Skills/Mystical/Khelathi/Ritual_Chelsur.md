@@ -1,10 +1,10 @@
 ---
-shortcode: ritualchelsk
+shortcode: ritualchelsr
 name: {full: "Ritual: Chelsur", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {templatePriority: null, packFolder: regkhskl}
+data: {icon: chelsur, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-chelsuk|Faith of Chelsur]]
+See [[affiliation-chelsur|Faith of Chelsur]]

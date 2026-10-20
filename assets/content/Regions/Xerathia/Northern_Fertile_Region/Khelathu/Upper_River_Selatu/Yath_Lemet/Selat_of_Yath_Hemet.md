@@ -50,16 +50,16 @@ data:
   economy: [affiliation-garhalzi, lore-aukhlthcrncy]
   lore: [humanflk]
   parents: [upperrivrslt]
-  relations: {khelathpnthn: aligned, chelsuk: aligned}
+  relations: {khelathpnthn: aligned, chelsur: aligned}
   packFolder: regkhpol
 sohl: {system: {commonSkills: [khelathlng]}}
 ---
 
 ## Overview
 
-"Do not wash at the low steps after dusk," a priest of [[affiliation-chelsuk|Chelsur]] tells a newcomer to [[place-yathlemet|Yath-Lemet]] on the first evening, "and do not let a child go down to the water alone. The crocodile is the god's, and the crocodile is also what takes them. We keep both facts in the same head."
+"Do not wash at the low steps after dusk," a priest of [[affiliation-chelsur|Chelsur]] tells a newcomer to [[place-yathlemet|Yath-Lemet]] on the first evening, "and do not let a child go down to the water alone. The crocodile is the god's, and the crocodile is also what takes them. We keep both facts in the same head."
 
-The Selat of Yath-Lemet is one of the eighteen provinces of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 80,000 people live on its land, [[place-yathlemetslt|Yath-Lemet Selat]]. It is the smallest of the upper selatu, a narrow gorge-stretch where the valley pinches to almost nothing. The patron is [[lore-chelsukdty|Chelsur]], the crocodile-god, and the cult's chief temple and estates anchor the selat's religious life.
+The Selat of Yath-Lemet is one of the eighteen provinces of [[affiliation-upperrivrslt|the Upper River Selatu]] of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and about 80,000 people live on its land, [[place-yathlemetslt|Yath-Lemet Selat]]. It is the smallest of the upper selatu, a narrow gorge-stretch where the valley pinches to almost nothing. The patron is [[lore-chelsurdty|Chelsur]], the crocodile-god, and the cult's chief temple and estates anchor the selat's religious life.
 
 ## Character
 
@@ -80,7 +80,7 @@ Yath-Lemet uses the [[lore-aukhlthcrncy|Au'Khelathu Currency]], and the [[affili
 [[place-yathlemet|Yath-Lemet]]
 : Selat capital
 
-[[affiliation-chelsuk|Faith of Chelsur]]
+[[affiliation-chelsur|Faith of Chelsur]]
 : Patron cult
 
 [[affiliation-garhalzi|Gar-Hálzi]]

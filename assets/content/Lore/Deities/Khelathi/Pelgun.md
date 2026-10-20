@@ -7,6 +7,8 @@ tags: [draft]
 data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
+![[icon-pelgun|Faith of Pelgun]]{float=top-left size=medium}
+
 _The Fertility-God._
 
 **Pelgun** is asked for two things that look unrelated: a good harvest and a safe road. He is an upper-river god of harvest-festivals and virility cults, seated at the caravan-head for the eastern desert roads, and his festivals mark both the increase of the fields and the return of the caravans.

@@ -7,6 +7,7 @@ description: The house of Thuba'i, god of the flood and of prosperity, whose pri
 tags: [generated, draft]
 data:
   culture: khelathiclt
+  icon: thubai
   templatePriority: null
   demonym: ""
   epithet: null

@@ -4,7 +4,7 @@ name: {full: "Ritual: Qeztu", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {templatePriority: null, packFolder: regkhskl}
+data: {icon: qeztu, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

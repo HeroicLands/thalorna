@@ -1,10 +1,10 @@
 ---
-shortcode: rituallinqur
+shortcode: rituallinkur
 name: {full: "Ritual: Linkur", aliases: [Patron of the Hunt]}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {templatePriority: null, packFolder: regkhskl}
+data: {icon: linkur, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-linqur|Faith of Linkur]]
+See [[affiliation-linkur|Faith of Linkur]]

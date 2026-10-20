@@ -4,7 +4,7 @@ name: {full: "Ritual: Shebazet", aliases: []}
 type: skill
 subType: mystical
 tags: [khelathi, faith-skill, draft]
-data: {templatePriority: null, packFolder: regkhskl}
+data: {icon: shebazet, templatePriority: null, packFolder: regkhskl}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"

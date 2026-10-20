@@ -7,6 +7,7 @@ description: "The Hunt."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: linhur
   templatePriority: null
   demonym: null
   epithet: Patron of the Hunt
@@ -46,7 +47,7 @@ data:
   economy: []
   lore: [linhurdty]
   parents: [khelathpnthn]
-  relations: {khelathpnthn: aligned, garnuw: aligned, linqur: aligned}
+  relations: {khelathpnthn: aligned, garnuw: aligned, linkur: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---
@@ -57,7 +58,7 @@ The Faith of Linhur honors one of the two hunt-patrons of [[affiliation-empireak
 
 ## The Elevation
 
-Gar'Nuw, the Gar-Au's chartered guild of hunters, keeps this cult and [[affiliation-linqur|Linkur's]] as its religious foundation. Its senior elevations are rites at both temples, performed in tandem, and neither counts without the other. The **Witness of the Elevation** conducts the Linhur half; the Linkur half has a witness of its own. A hunter who has been raised at one temple and not the other has not been raised.
+Gar'Nuw, the Gar-Au's chartered guild of hunters, keeps this cult and [[affiliation-linkur|Linkur's]] as its religious foundation. Its senior elevations are rites at both temples, performed in tandem, and neither counts without the other. The **Witness of the Elevation** conducts the Linhur half; the Linkur half has a witness of its own. A hunter who has been raised at one temple and not the other has not been raised.
 
 Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Lem'Nelgir and Thaz'Lekhau. A selat god's Thaz'Lekhau carries real weight inside the selat and very little outside it.
 
@@ -66,7 +67,7 @@ Like every selat god's cult, this one keeps the shared temple ladder of Wazu, Le
 [[lore-linhurdty|Linhur]]
 : the god
 
-[[affiliation-linqur|Faith of Linkur]]
+[[affiliation-linkur|Faith of Linkur]]
 : the paired cult
 
 [[affiliation-garnuw|Gar'Nuw]]

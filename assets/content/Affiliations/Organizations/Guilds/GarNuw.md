@@ -47,8 +47,8 @@ data:
   parents: []
   relations:
     linhur: aligned
-    linqur: aligned
-    chelsuk: aligned
+    linkur: aligned
+    chelsur: aligned
     zeghetnelgu: aligned
     garmelnu: aligned
 sohl: {system: {commonSkills: []}}
@@ -141,7 +141,7 @@ The guild drills three principles into apprentices from the first season at the 
 - **[The Hunter's Honesty]{.name data-type="lore/custom"}.** The report of a hunt binds as tightly as the hunt. A member who falsifies game counts, returns conditions or pricing is subject to revocation.
 - **[The Hunter's Respect]{.name data-type="lore/custom"}.** The beast hunted is a creature of the Gar-Au's lands, and wantonness in its killing offends both the gods and the imperial order. Kills are carried out with all the speed and efficiency the beast's nature allows.
 
-The third principle has a religious edge. The Khelathi pantheon includes gods of the hunt, notably [[lore-linhurdty|Linhur]] and [[lore-linqurdty|Linkur]], whose patronage is understood to include scrutiny of the hunter's conduct. For that reason the guild's senior elevations include rites at both temples, performed in tandem.
+The third principle has a religious edge. The Khelathi pantheon includes gods of the hunt, notably [[lore-linhurdty|Linhur]] and [[lore-linkurdty|Linkur]], whose patronage is understood to include scrutiny of the hunter's conduct. For that reason the guild's senior elevations include rites at both temples, performed in tandem.
 
 A member carries a stamped bronze token, the _nuw-mudra_, bearing his license number, specialty and chapter. He presents it when accepting a commission and when entering any controlled hunting territory. Master Hunters wear at the throat a fang-pendant taken from their qualifying hunt. Great Hunters add an armband of beaten bronze marked with the open jaw of the lion. The First Hunter wears the great gold pectoral of the Long Spear, which stays at the central guildhouse between holders.
 
@@ -159,7 +159,7 @@ A member carries a stamped bronze token, the _nuw-mudra_, bearing his license nu
 - The Meglay caste coexists with the guild formally, with mutual non-interference backed by informal payments and courtesies.
 - The [[affiliation-zeghetnelgu|Zeghet'Nelgu]] are a peer Khelathi hunting institution, with a jurisdictional accommodation along the Zumelesh.
 - [[affiliation-garmelnu|Gar'Melnu]] is a sibling imperial chartered guild. The two cooperate, and they buy certain materials jointly: the hunters need blades and traps, and the smiths' suppliers need hides.
-- The temples of [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linkur]] are the religious foundation, and senior elevations are conducted in temple rite.
+- The temples of [[affiliation-linhur|Faith of Linhur]] and [[affiliation-linkur|Faith of Linkur]] are the religious foundation, and senior elevations are conducted in temple rite.
 
 Foreign hunters stand outside all of this. The guild licenses them case by case and keeps no equivalence with any foreign body.
 
@@ -178,7 +178,7 @@ Foreign hunters stand outside all of this. The guild licenses them case by case 
 [[affiliation-zeghetnelgu|Zeghet'Nelgu]]
 : The Khetai family's sacred hunt
 
-[[affiliation-linhur|Faith of Linhur]] and [[affiliation-linqur|Faith of Linkur]]
+[[affiliation-linhur|Faith of Linhur]] and [[affiliation-linkur|Faith of Linkur]]
 : The gods of the hunt
 
 [[affiliation-vezakuni|Vezakuni]]

@@ -1,11 +1,13 @@
 ---
-shortcode: chelsukdty
+shortcode: chelsurdty
 name: {full: Chelsur, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
 data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
+
+![[icon-chelsur|Faith of Chelsur]]{float=top-left size=medium}
 
 _The Crocodile-God._
 
@@ -21,7 +23,7 @@ On one stretch of [[place-zumeleshrvr|the Zumelesh]] the same god is held under 
 
 ## See Also
 
-[[affiliation-chelsuk|Faith of Chelsur]]
+[[affiliation-chelsur|Faith of Chelsur]]
 : the cult and its offices
 
 [[lore-igelnarudty|Igelnaru]]

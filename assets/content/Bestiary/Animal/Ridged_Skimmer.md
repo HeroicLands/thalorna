@@ -213,7 +213,7 @@ The fowler's boat is drawn up on the mud at the edge of the reeds, and the water
 
 # Dossier {#dossier}
 
-The Ridged Skimmer is a long-necked, long-tailed river predator of the [[place-zumeleshrvr|Zumelesh marshes]], six to eight feet in the body with a tail as long again, lean and light for its length, built to lie submerged at the edge of the reeds and strike up and out of the water. It eats fish and waterfowl mostly, and takes goats, dogs, children and fowlers when they come to the water's edge. It lies up in the marshes of the delta and the flood-basins of the upper river, and its home ground is the eastern marsh of [[place-lutchelskslt|Lut-Chelsur]], among the reed-beds that the river-beast hunters work. It is a smaller danger than the crocodile, and a more sudden one, and it has no god to protect it.
+The Ridged Skimmer is a long-necked, long-tailed river predator of the [[place-zumeleshrvr|Zumelesh marshes]], six to eight feet in the body with a tail as long again, lean and light for its length, built to lie submerged at the edge of the reeds and strike up and out of the water. It eats fish and waterfowl mostly, and takes goats, dogs, children and fowlers when they come to the water's edge. It lies up in the marshes of the delta and the flood-basins of the upper river, and its home ground is the eastern marsh of [[place-lutchelsrslt|Lut-Chelsur]], among the reed-beds that the river-beast hunters work. It is a smaller danger than the crocodile, and a more sudden one, and it has no god to protect it.
 
 ## Presentation
 
@@ -229,7 +229,7 @@ A skimmer lies in the water at the reed edge with only its eyes and nostrils abo
 
 ## What the Marsh People Do
 
-The river-beast hunters' rule for a new hand covers the skimmer as well as the crocodile: never put a foot in the water at dusk, never put it where a reed has been bent, and test the bottom with a pole. Fowlers in the reed-beds work from boats with high sides and keep their dogs aboard. Villages on the flood-basin fence their water-steps with reed hurdles in the season when the skimmers come up the canals. The temple at Lut-Chelsur does not count the skimmer among the beasts honored by the [[affiliation-chelsuk|Faith of Chelsur]], so a village troubled by one sends for a licensed culler of [[affiliation-garnuw|Gar'Nuw]] without waiting for the Sanctioner's rite, and the culler is paid by the head. Cullers take skimmers with a baited hook on a chain and a heavy club, and sell the skins for sandals and the crests for charms against drowning.
+The river-beast hunters' rule for a new hand covers the skimmer as well as the crocodile: never put a foot in the water at dusk, never put it where a reed has been bent, and test the bottom with a pole. Fowlers in the reed-beds work from boats with high sides and keep their dogs aboard. Villages on the flood-basin fence their water-steps with reed hurdles in the season when the skimmers come up the canals. The temple at Lut-Chelsur does not count the skimmer among the beasts honored by the [[affiliation-chelsur|Faith of Chelsur]], so a village troubled by one sends for a licensed culler of [[affiliation-garnuw|Gar'Nuw]] without waiting for the Sanctioner's rite, and the culler is paid by the head. Cullers take skimmers with a baited hook on a chain and a heavy club, and sell the skins for sandals and the crests for charms against drowning.
 
 ## Signs
 

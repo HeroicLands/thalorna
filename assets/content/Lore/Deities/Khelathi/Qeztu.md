@@ -7,6 +7,8 @@ tags: [draft]
 data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
+![[icon-qeztu|Faith of Qeztu]]{float=top-left size=medium}
+
 _The War-God._
 
 **Qeztu** is the god you meet where the empire's writ runs thin. The war-god's cult is defined less by doctrine than by geography. He is patron of four of the ten border selatu and rare inland, and his worship is strongest where the empire's writ is thinnest: along the cataract fortress-line, in the forward forts beyond the first cataract that are the empire's hardest postings, and in the garrison heartland where the chariot-corps drills.

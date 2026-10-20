@@ -7,6 +7,7 @@ description: "The River."
 tags: [khelathi, religion]
 data:
   banner: khelathubnr
+  icon: igelnaru
   templatePriority: null
   demonym: null
   epithet: The River-God
@@ -44,7 +45,7 @@ data:
   economy: []
   lore: [igelnarudty]
   parents: [khelathpnthn]
-  relations: {khelathpnthn: aligned, zeghetnelgu: aligned, chelsuk: aligned}
+  relations: {khelathpnthn: aligned, zeghetnelgu: aligned, chelsur: aligned}
   packFolder: regkhaff
 sohl: {system: {commonSkills: []}}
 ---

@@ -7,6 +7,8 @@ tags: [draft]
 data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
 
+![[icon-shebazet|Faith of Shebazet]]{float=top-left size=medium}
+
 _The Cobra-Goddess._
 
 **Shebazet** is a goddess of the delta's papyrus marshes, whose selat lives by fowling, reed-craft and the empire's paper-cutting. Her reach is quiet and very long. The empire runs on records, and its tax rolls, contracts, temple archives and unbroken king-lists are the substance of its government. The reed-beds her priests bless are the material that whole scribal empire is written on.

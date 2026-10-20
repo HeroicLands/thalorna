@@ -7,6 +7,7 @@ description: The house of Reth'Sa'ar, god of knowledge and of the written hand, 
 tags: [generated, draft]
 data:
   culture: khelathiclt
+  icon: rethsaar
   templatePriority: null
   demonym: ""
   epithet: null

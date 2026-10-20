@@ -7,6 +7,7 @@ description: The house of Qe'aret, whose order is the order of the world
 tags: [generated, draft]
 data:
   culture: khelathiclt
+  icon: qearet
   templatePriority: null
   demonym: ""
   epithet: null

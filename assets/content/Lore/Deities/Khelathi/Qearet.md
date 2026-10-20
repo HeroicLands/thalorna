@@ -30,4 +30,6 @@ That judgment is the foundation of [[lore-khelathiclt|Khelathi]] ethics, and its
 
 She judges; [[lore-wethurdty|Weth'ur]] does not. By the time a soul reaches his realm it has already been weighed.
 
+![[icon-algit|Algit, the Devourer of the Dead]]{float=top-left size=medium}
+
 The written account speaks for itself, so the deceased may speak only of what was never written: a kindness, a hidden wrong. **Algit** takes a soul the scale condemns. Her emblem is a ring of teeth closed round a cut cord, the account's tie, knotted at one end and frayed where it is cut: the account left open is taken. The same ring is the mouth of the _zelalgit_.

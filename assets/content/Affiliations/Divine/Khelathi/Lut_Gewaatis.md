@@ -7,6 +7,7 @@ description: The house of Gewa'atis, patron of voyages, whose sacred vaults are 
 tags: [generated, draft]
 data:
   culture: khelathiclt
+  icon: gewaatis
   templatePriority: null
   demonym: ""
   epithet: null

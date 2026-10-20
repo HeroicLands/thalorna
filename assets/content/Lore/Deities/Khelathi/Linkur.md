@@ -1,11 +1,13 @@
 ---
-shortcode: linqurdty
+shortcode: linkurdty
 name: {full: Linkur, aliases: []}
 type: lore
 subType: deity
 tags: [draft]
 data: {packFolder: regkhdeit, culture: khelathiclt}
 ---
+
+![[icon-linkur|Faith of Linkur]]{float=top-left size=medium}
 
 _Patron of the Hunt._
 
@@ -17,7 +19,7 @@ In the guild's tradition, Linkur and Linhur are brothers, and the guild swears t
 
 ## See Also
 
-[[affiliation-linqur|Faith of Linkur]]
+[[affiliation-linkur|Faith of Linkur]]
 : the cult and its offices
 
 [[lore-linhurdty|Linhur]]

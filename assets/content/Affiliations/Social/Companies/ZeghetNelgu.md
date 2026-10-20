@@ -59,7 +59,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {igelnaru: aligned, khelathpnthn: aligned, chelsuk: aligned, garnuw: aligned}
+  relations: {igelnaru: aligned, khelathpnthn: aligned, chelsur: aligned, garnuw: aligned}
   packFolder: regkhaff
 sohl:
   system: {commonSkills: [ritualigelnr, sohl-sohl-skill-srvl, sohl-sohl-skill-melee, khelathlng]}
@@ -170,7 +170,7 @@ The company serves a game master in several ways:
 [[affiliation-igelnaru|Faith of Igelnaru]]
 : the river god the hunt appeases
 
-[[affiliation-chelsuk|Faith of Chelsur]]
+[[affiliation-chelsur|Faith of Chelsur]]
 : the crocodile cult, aligned with the hunt
 
 [[affiliation-garnuw|Gar'Nuw]]
