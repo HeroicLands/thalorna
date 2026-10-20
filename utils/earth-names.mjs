@@ -747,7 +747,6 @@ export const GREEK_NAMES = [
     "Kefala",
     "Thessalonike",
     "Thebas",
-    "Nekropolis",
 ];
 
 /**
