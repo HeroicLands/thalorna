@@ -25,7 +25,7 @@ data:
 
 The Morning Call is the third satire in the book of [Nizelar]{.name data-type="being/npc"}, a client-poet of [[place-orzara|Orzara]] who lived in the [Warrens]{.name data-type="place/site"} and attended a patron on the [Heights]{.name data-type="place/site"}, and who says so in every poem he wrote. He was a veteran's son, and so a citizen only until he was grown, and the satires never let a listener forget that his right to sleep inside the line was his patron's to sign each year. Satire is the one form of verse the Vylarian schools call their own and not a borrowing, and it is in a lighter line than the epic, quick and broken, with the speech of the street let into it. Nizelar's book is read aloud after dinner in the houses of [[place-selvin|Selvin]] (the Laurel) and the [Coronal]{.name data-type="place/site"} by the people it describes, and they laugh in the right places. The houses it names by their streets have argued for a long time about which of them it means, and each house holds that it means another.
 
-The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmos lokazor; a' daimela falvazor_, "the client's come; the patron's out." The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one vowel changed, and the poem turns on the vowel: the steward gives the patron's absence in the subjunctive, as a thing alleged, which is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
+The satire takes a client's day from the dark before the morning call to the evening. Its refrain is a line of the [[place-alyssa|Alessa]] street speech, with the worn-down _a'_ the schoolmasters correct: _a' thelmos lokazor; a' daimela falvazor_, "the client's come; the patron's out." The steward at the door says the same thing in the high register of the [[skill-vylarilng|Vylari Language]], with one small word put in, and the poem turns on the word: _Daimela zikai falvazor_, "the patron is perhaps away", which gives the patron's absence as a thing only alleged, and that is the steward's way of saying that the patron is upstairs. The rendering marks the High Vylari with "so it is said."
 
 : The Morning Call {#call}
 
@@ -88,7 +88,7 @@ Now the bronze door opens a hand's width. Now the steward bends his ear.
 Now the steward straightens, and he speaks to us, in High Vylari,
 the speech of the courts, the speech of the temples, with every ending on it:
 the patron is away, so it is said, because, so it is said, he is away.
-One vowel. One little vowel moved from the place where it lives.
+One word. One little word set down in the place where the fact lived.
 The steward is a grammarian. The steward means: the patron is upstairs,
 and he has heard you, and he does not choose this morning to be seen.
 And every man on every step bows to the door, from the top to the bottom,
@@ -179,7 +179,7 @@ The client's come. The patron's out. The client will come in the morning.
 : the twenty years and the dole
 
 [[skill-vylarilng|Vylari]]
-: the subjunctive that says a thing is only alleged
+: the "perhaps" that says a thing is only alleged
 
 [[lore-vylarianclt|Vylarian]]
 : precedence, the client, the patron and the masks

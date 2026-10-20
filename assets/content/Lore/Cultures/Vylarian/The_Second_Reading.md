@@ -3,7 +3,7 @@ shortcode: secondread
 name: {full: The Second Reading, aliases: [The Ozethos of the Twelfth]}
 type: lore
 subType: literature
-description: "The tale the Omelars of the legions tell a newly licensed chaplain on the night of his licensing, set down in the manner of the annals: the signs of the year the regent's council sent the Doreken Hiltheren into the Kervaron, the flame read at the foot of the passes, the second reading ordered and given with one vowel moved, the Ozethos left behind with the rear cohorts, and the fire he read every evening of the winter."
+description: "The tale the Omelars of the legions tell a newly licensed chaplain on the night of his licensing, set down in the manner of the annals: the signs of the year the regent's council sent the Doreken Hiltheren into the Kervaron, the flame read at the foot of the passes, the second reading ordered and given with one small word added, the Ozethos left behind with the rear cohorts, and the fire he read every evening of the winter."
 tags: [draft, vylaria]
 data:
   culture: vylarianclt
@@ -24,7 +24,7 @@ data:
 
 The Second Reading is the tale the **Omelars** of the legions tell a chaplain on the night of his licensing. An Ozethos is licensed jointly by the legions and the [[affiliation-ordoarcanis|Thordimalon]] to read the signs for an army, in a bird or a flame, and his licensing ends at night in the camp shrine with the Omelars of the legion around the fire. The oldest of them tells the tale while the new one keeps the fire. It is set down here in the manner the Omelars use, which is the manner of the annals: the year, its signs, and then what was done, in that order, with no word given to what anyone felt, because the annals give none.
 
-The tale is about [[lore-twelfthloss|the Loss of the Twelfth]], and its Ozethos is [Silkimar]{.name data-type="being/npc"}, the chaplain of the [Doreken Hiltheren]{.name data-type="affiliation"}. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on a vowel. A second reading ordered by a commander is given in the subjunctive, which in [[skill-vylarilng|Vylari]] makes a reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the moved vowel "so it is said."
+The tale is about [[lore-twelfthloss|the Loss of the Twelfth]], and its Ozethos is [Silkimar]{.name data-type="being/npc"}, the chaplain of the [Doreken Hiltheren]{.name data-type="affiliation"}. The army's record names no chaplain of the Twelfth, and the Omelars hold that this proves nothing either way, since the record names no chaplain of any legion. The tale turns on one small word. A second reading ordered by a commander is given with _zikai_, "perhaps", set before its reason, which in [[skill-vylarilng|Vylari]] makes the reason something alleged and not vouched for, and the tale's whole matter is a man who did that and a man who did not hear it. The rendering marks the added word "so it is said."
 
 ## The Signs of the Year
 
@@ -54,7 +54,7 @@ The flame leaned east, back down the valley the legion had come up, toward the q
 
 He fed it again, as the rite allows, and it leaned east. He waited the time the rite prescribes, which is as long as it takes to say the names of the Twelve gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] slowly, and it leaned east. The wind that evening was out of the east, and it blew up the valley into the passes, and the flame leaned against it.
 
-Then Silkimar stood up from the fire and spoke the reading in High Vylari, as a reading is spoken, in the indicative, which is the mood a man uses for what he vouches for: "The flame stands in the road. The gods do not go up the pass, because they do not go up the pass." And he entered it in the book.
+Then Silkimar stood up from the fire and spoke the reading in High Vylari, as a reading is spoken, plainly, which is how a man speaks what he vouches for: "The flame stands in the road. The gods do not go up the pass, because they do not go up the pass." And he entered it in the book.
 
 ## The Second Reading
 
@@ -74,9 +74,9 @@ He fed it, and it leaned east. He waited the time it takes to say the names of t
 
 Then Silkimar stood up from the fire and spoke the reading in High Vylari, as a reading is spoken. He said: "The flame burns clear. The gods go up the pass, because, so it is said, they go up the pass."
 
-The Thramezusos heard that the flame burned clear and the gods went up the pass. He was a man of an old house and had learned his grammar from a tutor, and he had not used the subjunctive since he left the tutor's room except to doubt a tradesman's bill. The Lusari behind him heard what the Thramezusos heard. The Holtakezos of the Twelfth, who had come up from the commoner track over thirty years and had sat in the camp courts through every one of them, heard the vowel, and turned his head, and looked at the Ozethos, and the Ozethos looked back at him. The Holtakezos said nothing. The Holtakezos had sworn the oath, and the oath was to the eagle, and the eagle was going up the pass.
+The Thramezusos heard that the flame burned clear and the gods went up the pass. He was a man of an old house and had learned his grammar from a tutor, and he had not used _zikai_ since he left the tutor's room except to doubt a tradesman's bill. The Lusari behind him heard what the Thramezusos heard. The Holtakezos of the Twelfth, who had come up from the commoner track over thirty years and had sat in the camp courts through every one of them, heard the word, and turned his head, and looked at the Ozethos, and the Ozethos looked back at him. The Holtakezos said nothing. The Holtakezos had sworn the oath, and the oath was to the eagle, and the eagle was going up the pass.
 
-Silkimar entered the second reading in the book as he had spoken it, with the vowel.
+Silkimar entered the second reading in the book as he had spoken it, with the word.
 
 ## The Climb
 
@@ -90,7 +90,7 @@ The tale says that the Holtakezos looked back once at the turn, and lifted his h
 
 The legion went up through the summer. The record the army keeps tells it: the clans did not give battle, and let the legion climb, and closed the passes behind it, and the legion ran out of road when the snow came. The fort below the passes heard nothing of it. No runner came down, and no dispatch, and in the autumn the snow closed the road up to the passes and the road down to the foothills both, and the rear cohorts of the Twelfth were in the fort with their stores, and the shrine, and the Ozethos.
 
-He kept the shrine. Every evening of the winter he built the fire on the bare stone before the place where the eagle had stood, of what wood there was, with no laurel after the first month, and lit it from the kept fire, and fed it three times, and read it, and entered the reading in the book in the indicative.
+He kept the shrine. Every evening of the winter he built the fire on the bare stone before the place where the eagle had stood, of what wood there was, with no laurel after the first month, and lit it from the kept fire, and fed it three times, and read it, and entered the reading in the book plainly.
 
 Every evening the flame leaned west, up toward the passes and the snow, toward the place where the road turned behind the mountain.
 
@@ -102,7 +102,7 @@ What became of the rear cohorts is not in any report, and the tale does not tell
 
 The army struck the Twelfth from the rolls as destroyed, as the manual requires of a legion whose eagle is lost. The chaplains' books of the western legions still carry the signs of that year, entered in their order, unexpiated. Every Ozethos licensed since has been told the tale on the night of his licensing, with the fire between him and the one telling it.
 
-When the tale is finished the oldest Ozethos asks the new one to read the fire in front of them, and the new one reads it and speaks the reading in High Vylari. Then the oldest asks him to read it a second time. The new one reads it again, and gives the second reading in the subjunctive, whatever the flame does, and the Omelars around the fire say nothing. That is the licensing. A commander may order a second reading. The Ozethos is bound to give it, and he gives it with the vowel moved, and it is entered in the book with the vowel, and the book is kept.
+When the tale is finished the oldest Ozethos asks the new one to read the fire in front of them, and the new one reads it and speaks the reading in High Vylari. Then the oldest asks him to read it a second time. The new one reads it again, and gives the second reading with _zikai_, whatever the flame does, and the Omelars around the fire say nothing. That is the licensing. A commander may order a second reading. The Ozethos is bound to give it, and he gives it with the small word in it, and it is entered in the book with the word, and the book is kept.
 
 ## See Also
 
@@ -122,7 +122,7 @@ When the tale is finished the oldest Ozethos asks the new one to read the fire i
 : the clans who let the legion climb
 
 [[skill-vylarilng|Vylari]]
-: the subjunctive that says a reason is only alleged
+: the "perhaps" that says a reason is only alleged
 
 [[lore-vylarianclt|Vylarian]]
 : the diviner, the oath and the eagle

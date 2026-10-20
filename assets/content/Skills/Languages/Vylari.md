@@ -2661,6 +2661,12 @@ data:
       field: Qualities
       gloss: "true"
       source: {kind: inherited, form: warelin}
+    - form: varelza
+      class: n f
+      field: Qualities
+      gloss: "truth"
+      source: {kind: coined}
+      built: ["varel-", "-za"]
     - {form: sethros, class: adj, field: Qualities, gloss: "false", source: {kind: inherited}}
     - {form: zenothos, class: adj, field: Qualities, gloss: "wise", source: {kind: inherited}}
     - {form: holimos, class: adj, field: Qualities, gloss: "first", source: {kind: inherited}}
@@ -2681,6 +2687,18 @@ data:
       source: {kind: inherited}
     - {form: mazeron, class: adv, field: Qualities, gloss: "more", source: {kind: inherited}}
     - {form: nizeron, class: adv, field: Qualities, gloss: "less", source: {kind: inherited}}
+    - form: zikai
+      class: adv
+      field: Qualities
+      gloss: "perhaps; the irregular adverb of zikon, fate"
+      source: {kind: coined}
+      built: ["zik-", "-ai"]
+    - form: varlai
+      class: adv
+      field: Qualities
+      gloss: "truly; standing alone, Really?"
+      source: {kind: coined}
+      built: ["varel-", "-ai"]
     - {form: zelos, class: adj, field: Qualities, gloss: "low", source: {kind: coined}}
     - {form: levros, class: adj, field: Qualities, gloss: "smooth", source: {kind: coined}}
     - form: yarethen
@@ -5975,14 +5993,14 @@ An adjective agrees in number as well: _-os_ becomes _-oi_, _-a_ becomes _-ai_ a
 
 An adjective or a participle stands as a noun unchanged: _ankeloi_, the old; _thernandar_, the living; _kalmethandar_, the dying; _lozandar_, those carrying, the porters.
 
-| Adverb                             | How it is made                                               | Example                                                        |
-| ---------------------------------- | ------------------------------------------------------------ | -------------------------------------------------------------- |
-| from an adjective like _thelvaros_ | stem + _-ai_                                                 | _thelvarai_, nobly                                             |
-| from an adjective like _melvar_    | stem + _-athi_                                               | _melvarathi_, greatly                                          |
-| from a participle                  | _-andar_ becomes _-anthi_                                    | _doranthi_, enduringly                                         |
-| comparative                        | adjective _-azos_, _-aza_, _-azon_; the adverb is the neuter | _thelvarazos_, nobler; _thelvarazon_, more nobly               |
-| superlative                        | adjective _-immos_, _-imma_, _-immon_; the adverb _-immai_   | _thelvarimmos_, noblest; _thelvarimmai_, most nobly            |
-| irregular                          | the commonest adverbs                                        | _aithar_ well, _korimen_ badly, _mazeron_ more, _nizeron_ less |
+| Adverb                             | How it is made                                               | Example                                                                                         |
+| ---------------------------------- | ------------------------------------------------------------ | ----------------------------------------------------------------------------------------------- |
+| from an adjective like _thelvaros_ | stem + _-ai_                                                 | _thelvarai_, nobly                                                                              |
+| from an adjective like _melvar_    | stem + _-athi_                                               | _melvarathi_, greatly                                                                           |
+| from a participle                  | _-andar_ becomes _-anthi_                                    | _doranthi_, enduringly                                                                          |
+| comparative                        | adjective _-azos_, _-aza_, _-azon_; the adverb is the neuter | _thelvarazos_, nobler; _thelvarazon_, more nobly                                                |
+| superlative                        | adjective _-immos_, _-imma_, _-immon_; the adverb _-immai_   | _thelvarimmos_, noblest; _thelvarimmai_, most nobly                                             |
+| irregular                          | the commonest adverbs                                        | _aithar_ well, _korimen_ badly, _mazeron_ more, _nizeron_ less, _zikai_ perhaps, _varlai_ truly |
 
 **Ordinals.** _holimos_ is first and _ethoros_ second. From third on, the ordinal is the cardinal's stem with _-oros_ in place of its ending: _karzis_ (three) gives _karzoros_, _felzur_ (four) _felzoros_, _yolemiks_ (five) _yolemoros_ and _selthur_ (six) _selthoros_. An ordinal agrees like any adjective in _-os_.
 
@@ -6118,6 +6136,15 @@ The empire took words from every people it ruled, chiefly terms of craft, trade 
 
 "Humelthandar yarezor."
 : "It is resting." (Said of a ruin, with a straight face.)
+
+"Varelin yarezor."
+: "It is true."
+
+"Varlai."
+: "Really?"
+
+"Eza varlai."
+: "Really?" (The formal question.)
 
 "Aia, theson."
 : "That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)
