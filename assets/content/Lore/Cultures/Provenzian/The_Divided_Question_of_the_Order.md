@@ -19,9 +19,11 @@ data:
 
 [Serdale]{.name data-type="being/npc"} sets the question and [Iltore]{.name data-type="being/npc"} chooses. The question is the one the order of duty leaves open. A Provenzian owes his house, his patron, his city and his clients, in that order, and the beloved of the courtly songs stands nowhere in it. The judge is [Solvima]{.name data-type="being/npc"} of Kalveza, who keeps her own name. She gives her judgment in the form a notary uses for an award, as the custom of these debates allows, and the songbooks copy it after the song. The academies of rhetoric teach the debate for Serdale's arguments and the judgment for its form.
 
+The poem is rhymed ABABCC.
+
 : The Question {#question}
 
-```verse {form=divided-question rhyme=ABABCC lang=en}
+```verse {form=divided-question lang=en}
 SERDALE
 Iltore, here's a question for the feast:
 choose which you'll hold, and I will hold the other.

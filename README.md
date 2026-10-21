@@ -11,8 +11,7 @@ npm run build:stage-reset    # empty build/stage/; build/cache/ is kept
 npm run build:content-index  # assets/content/ → build/content-index/
 npm run build:calendars      # the content index → build/calendars/
 npm run build:compiledb      # assets/content/ → build/stage/packs/{items,journals,actors}
-npm run build:site-content   # assets/content/ → build/hugo/content/
-npm run build:site           # the above, then Hugo → build/site/thalorna/
+npm run build:site           # assets/content/ → build/site/thalorna/
 ```
 
 `npm run build` empties `build/stage/` before anything writes to it, so the
@@ -38,7 +37,7 @@ rather than a journal, and how to write a link into another package.
 
 Everything built from those notes — the compendium packs, the link manifest, and
 the website — is generated output: the packs and the manifest land under
-`build/`, the site under `build/hugo/content/` and `build/site/thalorna/`. All of
+`build/`, the site under `build/site/thalorna/`. All of
 it is gitignored, and no compiled output is committed.
 
 The pack compiler is [`@heroiclands/package-build`](https://www.npmjs.com/package/@heroiclands/package-build),
@@ -97,15 +96,14 @@ builds, renders and deploys the whole of it. Nothing else writes to that prefix,
 and no other repository is in the path between these pages and their readers.
 
 ```sh
-npm run build:site   # assets/content/ → build/hugo/content/ → build/site/thalorna/
-npm run serve:site   # the same content step, then `hugo server` for a local preview
+npm run build:site   # assets/content/ → build/site/thalorna/
+npm run serve:site   # the same build, served locally with rebuild on edit
 ```
 
-`build/hugo/` is the generated Hugo project: `package-build site` writes its
-configuration and the content mount there, and the home page is rendered by
-the theme's landing layout from `assets/content/homepage.md`. The shared theme
-ships inside `@heroiclands/package-build`, which arrives through `npm ci`.
-Nothing under `build/hugo/` is committed.
+`package-build site build` renders every page from `assets/content/`, and the
+home page from `assets/content/homepage.md`. The shared theme ships inside
+`@heroiclands/package-build`, which arrives through `npm ci`. Nothing under
+`build/` is committed.
 
 The `deploy-site.yml` workflow runs on every push to `main` and on manual
 dispatch, with no path filter. It runs the tests under `utils/`, builds the
@@ -118,7 +116,7 @@ site and skips the upload.
 
 ### The address is written down once
 
-`baseURL` for the generated Hugo site is `package.json`'s own `homepage`, and
+The site's base URL is `package.json`'s own `homepage`, and
 `contentPackage` in
 [`package-build.config.yaml`](package-build.config.yaml) is where the site build
 is: a page publishes at `/<contentPackage>/<type>-<shortcode>/`, and `site.base`

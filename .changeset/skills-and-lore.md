@@ -7,3 +7,5 @@
 - The Charissa, the Bethuan unarmed art, and the Path of Breath, Koremdanis Barkratis's sword discipline, are combat skills, with their techniques and maneuvers described.
 - The Gar-Au's regalia are described, the Ruwozi and the Kolembozi are named as clans of the Nyáluba, and the Ústaran Schism has a single entry.
 - The swordmaster who challenges Koremdanis Barkratis is Weja the Unbound, of Jenchai.
+- Poems that were tagged with a metre or a rhyme scheme now state it in a sentence beside the poem.
+- The Walking of the Line is set in two columns, Vylari in Semaron beside the English, with every fifth line numbered.

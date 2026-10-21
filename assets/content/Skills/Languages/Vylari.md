@@ -8,6 +8,7 @@ tags: []
 data:
   abbreviation: Vyl.
   classModifiers: [m, f, "n"]
+  emphasis: words
   fields:
     - name: The hallowed and the gods
       holds: "The gods, the hallowed, the temple and its priests, oaths, curses, omens and the kept fire."
@@ -82,40 +83,58 @@ data:
       gloss: "of it, from it: said of a place or a people"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
       examples: ["orz- > orzen"]
     - form: "-ara"
       gloss: "a town of it"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
       examples: ["zemrol- > zemrolara"]
     - form: "-enna"
       gloss: "a farm, an estate or a village of it"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
       examples: ["taloth- > talothenna"]
     - form: "-ora"
       gloss: "a height or a stronghold of it"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
       examples: ["tholkez- > tholkezora"]
     - form: "-is"
       gloss: "those of it: a house name"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
       examples: ["karalz- > karalzis"]
     - form: "-ates"
       gloss: "of the line of it: a house name"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
     - form: "-andi"
       gloss: "in the keeping of: the ending that names a month"
       attaches: "replaces the final vowel"
       replaces: vowel
+      attachesTo: [n]
       examples: ["zunel- > zunelandi"]
     - form: "-oros"
       gloss: "ordinal: the place in a count"
-      attaches: "replaces the cardinal's ending"
+      attaches: "a cardinal's stem"
       examples: ["karzis > karzoros", "selthur > selthoros"]
+    - form: "-anthi"
+      gloss: "in the manner of it: the adverb of a participle"
+      attaches: "replaces -andar"
+      replaces: andar
+      examples: ["dorandar > doranthi"]
+    - form: "-immos"
+      gloss: "the most: the superlative of an adjective"
+      attaches: "replaces the adjective's ending"
+      replaces: os
+      attachesTo: [adj]
+      examples: ["dayos > dayimmon"]
     - form: "an-"
       gloss: "the reverse of it"
       attaches: "prefixed"
@@ -136,6 +155,8 @@ data:
     verbs:
       replaces: then
       persons: {I: men, you: zen, heShe: zor, we: mar, youAll: zar, they: zoi}
+    agreement: {classes: [adj, pron], endings: [os, a, on, as]}
+    participles: {root: [athen, ethen], affixes: ["-andar", "-thos"]}
   words:
     - form: ulthathen
       class: v
@@ -2634,6 +2655,28 @@ data:
     - {form: nizelos, class: adj, field: Qualities, gloss: "small", source: {kind: inherited}}
     - {form: peleros, class: adj, field: Qualities, gloss: "new", source: {kind: inherited}}
     - {form: ankelos, class: adj, field: Qualities, gloss: "old", source: {kind: inherited}}
+    - {form: dayimmon, class: adj, field: Qualities, gloss: "the best", source: {kind: coined}}
+    - form: nizelimmon
+      class: adj
+      field: Qualities
+      gloss: "the smallest"
+      source: {kind: coined}
+    - {form: ankelimmos, class: adj, field: Qualities, gloss: "the oldest", source: {kind: coined}}
+    - form: thelvarimmos
+      class: adj
+      field: Qualities
+      gloss: "the most noble; the highest"
+      source: {kind: coined}
+    - form: thelvarimma
+      class: adj
+      field: Qualities
+      gloss: "the most noble; the highest"
+      source: {kind: coined}
+    - form: solkimimmon
+      class: adj
+      field: Qualities
+      gloss: "the most weighty; the most grave"
+      source: {kind: coined}
     - {form: teremos, class: adj, field: Qualities, gloss: "long", source: {kind: inherited}}
     - form: zetimos
       class: adj
@@ -2795,6 +2838,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to ponder"
+      variants: [zenothazor]
       source: {kind: inherited}
     - form: solkatora
       class: v
@@ -4539,6 +4583,8 @@ data:
     - {name: Marendoi, tongue: vylari}
     - {name: Holmarendoi, tongue: vylari}
     - {name: Zetmarendos, tongue: vylari}
+    - {name: Thiruthriman, tongue: vylari}
+    - {name: Antelen, tongue: vylari}
     - {name: Epistémion, tongue: other:helonic}
     - {name: The Academy, tongue: translation}
     - {name: Academy of Knowledge, tongue: translation}
@@ -5978,6 +6024,8 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 **Words.** A word opens on a vowel, one consonant, or a stop followed by _l_ or _r_; it closes on a vowel or on _s n r l_. No more than three consonants stand together.
 
 **Stress.** Vylari stresses its words by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]]: a word of two syllables on the first, a longer word on the second-to-last syllable, and an acute (_á_) marks any other stress. Vowel length does not move it, and each diphthong counts as one syllable. So every word of more than one syllable ends by falling from a stressed syllable to an unstressed one, and that is the measured, falling rhythm foreigners hear in a Vylari speech: _zaros_ is said ZA-ros, _sorima_ so-RI-ma, _ulthalon_ ul-THA-lon.
+
+**Emphasis.** Vylari marks a stressed word with a word, never with a mark.
 
 ## Grammar
 

@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The imperial letters—the everyday alphabetic hand of Vylaria, and the script most of the civilized west now writes in."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: script
+  script: {fonts: [semaron-kuriale], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,6 +24,8 @@ sohl:
 The Semaron is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the [[skill-vylarilng|Vylari]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
 
 As with any script, it is a writing system and not a tongue. A character needs **both** the Semaron and the relevant [[sohl-none-docskill-lang|Language]] to read anything set down in it, and the Semaron carries a good many languages that have nothing to do with each other—see [[sohl-none-docskill-script|Script]] for how the two skills combine.
+
+A scribe marks a stressed word in Semaron by writing it in rubric red.
 
 ## The letters
 

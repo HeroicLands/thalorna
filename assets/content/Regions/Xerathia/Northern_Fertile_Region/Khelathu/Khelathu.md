@@ -69,8 +69,6 @@ sohl: {system: {commonSkills: [khelathlng]}}
 # terran_analog: "Egypt + Sudan (Nile valley civilization)"
 ---
 
-{{< cartouche slug="aukhelathu" height="10rem" align="right" >}}
-
 **Au'Khelathu** has been conquered several times, and it has outlived every one of its conquerors. Hill-nomads have taken its throne, and sea-raiders, and a [[lore-vylarianclt|Vylarian]] army at the height of [[affiliation-vylarinmpr|Vylarian Empire]]'s reach; each time the empire handed the new master a scribe, a temple appointment and a throne name, and within a generation or two the conquerors were [[lore-khelathiclt|Khelathi]]. That is the empire in a sentence: the oldest continuously existing civilization in [[place-worldthlrn|Thalorna]], kept whole for millennia by a river, a priesthood and a written record that absorb whoever arrives.
 
 The Khelathi take their survival as proof of divine favor. Their civilization endures, they say, because it is built on eternal truths, and the evidence they offer is that it has survived invasions, dynastic collapses and the rise and fall of every rival on the continent without losing its language, its gods or its funerary rites. A foreigner remembers it for the monuments and the dead. A Khelathi will tell you the thing to remember is the archive.

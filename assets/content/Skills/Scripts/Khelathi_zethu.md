@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The sacred signs of Au'Khelathu—about four hundred and seventy signs cut on temple walls, and the priestly monopoly that keeps their reading."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: regkhskl
+  script: {fonts: [khelathi-zethu-glyphs], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,6 +24,8 @@ sohl:
 Khelathi-zethu is the sacred writing of the [[affiliation-empireakhlth|Empire of Au'Khelathu]]: a hieroglyphic script of about four hundred and seventy signs, each drawn as a small picture. Every sign stands for a **concept**, not a letter. Some signs, though not all, are also used for a **sound**: the consonants of the word the sign names, one, two or three of them, which is how words and names are spelled. A sign set beside a word can show which word or which kind of thing is meant, and the neighbouring signs, the wall and the setting decide the reading. Each sign is drawn in two or three variants, about eleven hundred drawn forms in all, and a variant is the same sign, not another word. What a sign means on a given wall depends on where it stands.
 
 A character needs **both** Khelathi-zethu and [[skill-khelathlng|Khelathi Language]] to read it—and specifically **Classical Khelathi**, frozen in written form some twenty-three centuries ago and no longer the language anyone speaks.
+
+A scribe marks a stressed word in Khelathi-zethu by writing it in rubric red.
 
 ## What it is for
 

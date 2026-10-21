@@ -27,9 +27,11 @@ The lament keeps the parts a lament for a lord must have: his praise, the catalo
 
 The lament is sung through the [[place-talothe|Talote]] when a patron dies, with the name changed and the stanzas of the fetching sung or left out as the death requires. The garrison at [[place-durvalis|Durvalis]] sings it without the stanza of the wrongs. Pirnebris sings that stanza. The short closing stanza goes to [Ellevirsa]{.name data-type="being/npc"}, the widow, who kept her own name.
 
+The poem is rhymed AABCCB.
+
 : The Lament for Karalze {#lament}
 
-```verse {form=lament rhyme=AABCCB lang=en}
+```verse {form=lament lang=en}
 I came at the morning call, as I have come
 each morning twenty years, with the others, dumb
 with the cold of the march at first light, and I stood

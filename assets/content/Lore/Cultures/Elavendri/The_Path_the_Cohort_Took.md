@@ -19,6 +19,8 @@ data:
 
 The tale is told in prose, in the tellers' own hill speech, and the bargain at its center is in verse and said the same way by every teller, so that a child who has heard it twice says it with the teller. The one Derva bargains with at the wood's edge is never named, and the tellers are careful to say that it was not one of the [[lore-flksinale|Sinale]] but one of the deeper places ([[lore-faecourts|The Fae Courts]]), and that it came to her and she did not go looking for it. The tellers hold with the [[lore-aelendnppl|Áelendan]] that the war-bands drew the legion to the forest margin and gave it no battle, and they put Derva at the end of that walk. They end on a question they do not settle, and the drovers' children at Valdun are sent to bed on it.
 
+The verse is in iambic tetrameter, rhymed ABAB.
+
 : The Path the Cohort Took {#tale}
 
 Sit by the stone that stops. You've seen it, at the gate: the last of the Empire's milestones, with the eagle on it and the count of the miles worn off. East of it the road is theirs, or was. West of it the road is ours. Nobody laid a stone this side of the gate, and this is why.
@@ -61,7 +63,7 @@ It said, "The path is ours. We will lend it. Hear the terms, and if you take the
 
 And then it said the terms, and these are the words, and I'll say them, and you say them with me:
 
-```verse {form=bargain meter="iambic tetrameter" rhyme=ABAB lang=en}
+```verse {form=bargain lang=en}
 Keep the silver. Show the way.
 The way is ours; the feet are yours.
 Who walks behind you walks to stay.

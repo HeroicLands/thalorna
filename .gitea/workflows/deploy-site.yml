@@ -2,7 +2,7 @@
 #
 # This package renders its own HTML and publishes its own subtree. No other
 # repository is in the path between it and its readers: a checkout, the theme
-# package, Node and Hugo are the whole build, and the deploy uses credentials
+# package and Node are the whole build, and the deploy uses credentials
 # scoped to this package's own hosting project. That is what makes the package
 # movable — a successor inheriting only this repository can publish it.
 name: Deploy the Thalorna site to Cloudflare Pages
@@ -57,12 +57,6 @@ jobs:
             # one constant would be the larger change.
             - name: Assert the deployment root's headers
               run: node --test 'utils/**/*.test.mjs'
-
-            - name: Setup Hugo
-              uses: peaceiris/actions-hugo@2752ce1d29631191ea3f27c23495fa06139a5b78 # v3
-              with:
-                  hugo-version: "0.163.3"
-                  extended: true
 
             - name: Build the site
               run: npm run build:site

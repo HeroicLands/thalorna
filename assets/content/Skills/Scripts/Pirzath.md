@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The letters of the Khazari—angular carved characters that follow the stone, a flowing hand for everyday use, and a people who write down nearly everything."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: script
+  script: {fonts: [pirzath-carved, pirzath-hand], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -32,6 +36,8 @@ How the transmission happened is not documented anywhere. The likeliest account,
 That is not one remove from Pirzath but two, and the modern rows are further still. What the subject tribes carried out of the mountains was a single **Proto-Pelwar rune-row**, and the migrations broke it up: [[skill-thuravarkscript|Thuravark]] in the north, imperial [[skill-thrvrknscrpt|Tharavarkon]], highland [[skill-thrvrdhscrpt|Thurarth]], each a further simplification of a simplification, and at a fourth remove the [[skill-semrnscrpt|Semaron]] that most of the west now writes in. None of the three modern rows would be legible to a Khazari without study, and Khazari who have studied them describe the experience as reading a child's copy of a copy.
 
 The evidence is entirely comparative. No dated intermediate inscription survives; the earliest Pelwar cuttings anyone has found are already fully human and already simplified; and the hold archives that would settle the question are in strongholds no human scholar has been invited into.
+
+A scribe marks a stressed word in Pirzath by writing it in rubric red.
 
 ## The interference question
 

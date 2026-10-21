@@ -24,9 +24,11 @@ data:
 
 The form is the Vedyari dialogue in couplets (_poksa_), a long line answered by a short one, each speaker's turns set under his name, in four parts the fort reads without a break; the rendering keeps the pair of lines and the speakers and does not rhyme, since the original does not. The first and last parts are in the reader's own voice, the camp is told with the brothers' speech inside it, and the gorge is given entirely in Sharabira's mouth, which is where the record and the work part. The academy roll of that year carries Sharabira Sharakirti of Shiraban among those who came home and says nothing else of him. The fort's record holds the recall, the ride with Bharyastan's horse and the stopping of the host at the mouth, and holds no account of what any struck man did at Sharamukha, nor of how many stayed with the valley king's companies, whom nobody has counted. That Sharabira knew his brother's draw across the gorge is the work's claim and his own: the cairn is the only witness, and nobody has looked under it. No telling from Daunapur's side has come down the gold road.
 
+The verses are set as a long line answered by a short one.
+
 : The Reading {#reading}
 
-```verse {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue lang=en}
 In this court, before the scale of the goddess,
   the bows have come home.
 Stand where you stand, the grip in the left hand,
@@ -49,7 +51,7 @@ Hear the couplets as the fort keeps them.
 
 : The Camp {#camp}
 
-```verse {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue lang=en}
 Below the gold road the valley king's fires
   stood in rows on the shale.
 His companies of the bow slept by their staves,
@@ -246,7 +248,7 @@ The rest stayed by the fires. The fort does not count them.
 
 : The Gorge {#gorge}
 
-```verse {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue lang=en}
 Sharabira:
 Three days down with the staves on our backs and no fires,
   and the reed kept dry.
@@ -337,7 +339,7 @@ I have the draw. I have nothing else.
 
 : The Cairn {#cairn}
 
-```verse {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue lang=en}
 Every autumn the bows come down out of six kingdoms
   by whatever road they served.
 The road from the river country does not pass the mouth.

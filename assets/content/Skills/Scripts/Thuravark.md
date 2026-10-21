@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The cut runes of the Nordmen north—knife-work and chisel-work, the script of memorial stones, oath-staves and the sagas that matter."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: script
+  script: {fonts: [thuravark-carved], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -24,6 +28,8 @@ The letterforms are not a Pelwar invention. They correspond too closely to [[ski
 The Nordmen reject the whole account, and not mildly. In their tradition, the runes were won by **[[lore-odvardty|Odvar]]**, hanged nine nights on [[lore-heimsask|Heimsask]], the world-tree, and no smith under a mountain gave them to anybody. Raising the matter in a hall is a good way to end an evening early.
 
 Like any script it is a writing system and not a language: a character needs **both** Thuravark and the relevant [[sohl-none-docskill-lang|Language]] to read what is cut in it. See [[sohl-none-docskill-script|Script]] for the scribing and reading rules, and [[sohl-none-docskill-runic|Runic]] for the carved tradition in general.
+
+A carver of Thuravark marks a stressed word in rubric red.
 
 ## The letters
 

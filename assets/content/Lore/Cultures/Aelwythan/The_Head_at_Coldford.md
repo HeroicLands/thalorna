@@ -27,6 +27,8 @@ It is the tale of [Harmund of Koldford]{.name data-type="being/npc"}, who kept [
 
 The bans, the boast, the last command and the two songs of the head are in verse and are said the same way at every wake. The rest is the teller's, and every teller tells it a little differently. It stands below as a teller of the forest edge above Kaerwynd tells it.
 
+The bans, the boast and the last command are rhymed in couplets, and the songs of the head are rhymed ABAB.
+
 : The Telling {#telling}
 
 Trim the candles, and set the loaf by him, and let him have it; he will not eat it, and no more shall we. Now I will tell you of Harmund that kept Koldford, and of his head, and why the loaf goeth to the stone. Fill the cup and hand it round, for it is a long telling and a cold one.
@@ -37,7 +39,7 @@ In one of those six steadings a boy was born, and he was called Harmund, and whe
 
 Some say she was a cunning-woman out of the forest edge, that had come down for bread. Some say she was the woman of the crossroads herself, that dwelleth in the stone and is not seen. I say nothing, for I was not there. But the mother gave her the loaf, for she would not set it on the stone with a woman sitting on it, and the woman took it and broke it and ate of it, and looked at the child a long while. And then she laid the bans on him. These are the words:
 
-```verse {form=bans rhyme=AABB lang=en}
+```verse {form=bans lang=en}
 Three things, child, thou shalt not do,
 And while they're undone, thy days run true:
 Pass not the stone where the roads divide
@@ -64,7 +66,7 @@ Ye know how it is at a lord's board at midwinter, or ye have heard. The hall is 
 
 The knight made his boast, of his horse and his coat and the king's wars, and it was a good boast, and the hall beat on the boards for him. The huntsman made his, of the deer-paths and the knife in the dark, and it was a better, and the hall beat louder. And then Harmund stood with his hands at his sides, and said this, and it is the only boast he ever made:
 
-```verse {form=boast rhyme=AABB lang=en}
+```verse {form=boast lang=en}
 I have no horse; I stand upon my feet.
 I have no coat but wool against the sleet.
 I went to no king's war; the war came here,
@@ -99,7 +101,7 @@ I will not tell you what they found in the wood, for ye have all heard what is i
 
 His sister's son came back into the water and drew him out, and the Grukar stood on the east bank and did not come on, for they had seen what he could do in a ford, and they did not yet know that he was done. And Harmund lay on the bank with his head in the boy's lap, and he said this, and the boy said it after him to every man in the march until he died:
 
-```verse {form=command rhyme=AABB lang=en}
+```verse {form=command lang=en}
 Take off my head, boy. Do it now, and clean.
 I cannot keep the ford, and they have seen
 Me fall; but if they see me watching still,
@@ -114,7 +116,7 @@ And the boy did it, with his uncle's own knife, and he wept, whatever he was tol
 
 Seven winters it stood there. They brought it bread every day, as Harmund had brought bread to the stone, and laid it at the foot of the stake, and it was gone in the morning, whether the birds had it or the head I cannot tell you. The children were carried to see it, and it knew every one by name. On the nights when the wood was bad, when the fires were seen among the trees and the drums heard, the head sang across the water to the wood, and the Grukar heard it, and the people of the steadings heard it, and this is what it sang:
 
-```verse {form=song-of-the-head rhyme=ABAB lang=en}
+```verse {form=song-of-the-head lang=en}
 I see thee, wood; thou hast not got the ford.
 I see the fires thou kindlest in the trees.
 I have no hands to hold a shield or sword;
@@ -146,7 +148,7 @@ He did not touch it. He stood before the stake with his back to the wood and his
 
 And the head looked past him at the people of the steadings, and at the six fires, and then at the wood. And it said this, and it is the last thing it said:
 
-```verse {form=song-of-the-head rhyme=ABAB lang=en}
+```verse {form=song-of-the-head lang=en}
 I hear the gate. I heard it from the first,
 Behind me, standing open, without sound.
 It never calls. It hath no haste nor thirst.

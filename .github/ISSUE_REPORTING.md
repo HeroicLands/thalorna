@@ -104,7 +104,7 @@ If none fits, note the gap in the issue body for a maintainer to decide.
 : setting material: notes, compendium packs, actors, items, journals, scenes, artwork.
 
 `area/site`
-: the `/thalorna` site: Hugo build, layouts, content rendering, deployment.
+: the `/thalorna` site: site build, layouts, content rendering, deployment.
 
 `area/devops`
 : build, tooling, pack pipeline, release, repository configuration.
@@ -345,7 +345,7 @@ tracker.
 | `thalorna`                        | **This repository** — the `thalorna` package and the `/thalorna` site        |
 | `sohl-kethira-basic`              | The `kethira` package — unofficial Hârn fan material, Foundry packs only     |
 | `heroiclands-site`                | heroiclands.org — its content, Cloudflare Pages, the CDN                     |
-| `heroiclands-hugo-theme`          | The shared Hugo theme this site renders through — layouts, partials, styling |
+| `package-build`                   | The shared site theme this site renders through — layouts, partials, styling |
 
 **File the issue where the work will be done.** The rule is delivery, not subject: if
 the fix is an edit to a file in this repository, the issue belongs here, even when the
@@ -356,7 +356,7 @@ an issue here.
 **Telling those two apart:** the theme is the same bytes for every site that renders
 through it, so if a page is wrong here and the equivalent page is fine on `/sohl`,
 the variable is this repository's content or site config — not the theme. If it is
-wrong on both, file it in `heroiclands-hugo-theme`. Anything about a URL, menu entry,
+wrong on both, file it in `package-build`. Anything about a URL, menu entry,
 or branding is ours either way: the theme carries no addresses, `package.json` and
 `package-build.config.yaml` do.
 

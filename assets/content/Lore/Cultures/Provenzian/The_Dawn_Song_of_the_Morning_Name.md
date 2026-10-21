@@ -29,9 +29,11 @@ Sirrelure gave the lady a love name, as the people of the tongue give a friend o
 
 The contract was sealed at the end of that year, and the lady went to Kalveza and kept her own name there. Sirrelure left the capital, unplaced, and sang in the taverns of the coast and the march until a lord of [[place-pirnebris|Pirnebris]] took him into his train. This is why he was on the road. The song stayed in the capital, and the watch still cries the morning from the walls, and the singers at table sing this song after the hour when the lamps are put out.
 
+The poem is rhymed ABAB.
+
 : The Song {#song}
 
-```verse {form=dawn-song rhyme=ABAB lang=en}
+```verse {form=dawn-song lang=en}
 THE LOVER
 The lamp is low; the lane is going grey;
 I hear the first carts on the river road.

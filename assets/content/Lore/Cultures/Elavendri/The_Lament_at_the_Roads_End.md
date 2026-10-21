@@ -26,9 +26,11 @@ It names eleven: [Dalren]{.name data-type="being/npc"} the drover's son, [Moren]
 
 The song is a satire as well as a lament, and it is sung against a crown. It sets the king who went up the mountain unasked and came down beside the diggers who were asked up by his crier and stayed, and it sets the proofs of descent the great houses paid for after the Closing beside eleven people whose line nobody sings. The Colleges do not teach it. No crown has forbidden it.
 
+The poem is in common metre, rhymed ABCB.
+
 : The Lament at the Road's End {#lament}
 
-```verse {form=nelthava meter="common metre" rhyme=ABCB lang=en}
+```verse {form=nelthava lang=en}
 Come down, come down to the road's foot,
 you that came up for the fair.
 The cheese is sold, the hides are sold,

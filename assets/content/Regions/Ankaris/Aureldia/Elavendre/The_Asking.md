@@ -31,9 +31,11 @@ Tradition Keepers sing the song as it was received, adding nothing. The Sinale n
 the pool, the clearing, the fog-hollow and the epithet the song gives Dhargan at its close, are sung as
 the Sinale say them, and are the only Sinale words most Áelendan ever speak.
 
+The verses are in iambic tetrameter, rhymed ABBA.
+
 : I. The Last Trees {#asking-1}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 A child comes up the hill at night
   and leaves a loaf beneath the birch.
   She does not wait. She does not search
@@ -77,7 +79,7 @@ and did not open any door.
 
 : II. The Road {#asking-2}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 For lives on end your fathers' line
   was pushed west, camp by camp, by men
   who came out of the east. And then
@@ -166,7 +168,7 @@ four days outside, till we would look.
 
 : III. The Silver Wood {#asking-3}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 That night you stopped outside, and lit
   a fire. Beyond the fire, the bark
   took starlight, up into the dark,
@@ -260,7 +262,7 @@ she'd done, we talked. The talk went on.
 
 : IV. The Watchers {#asking-4}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 You did not ask. We did not say.
   We had seen wonder in your kind
   before, and watched it fall behind
@@ -364,7 +366,7 @@ back in. We left the paths laid bare.
 
 : V. The Asking {#asking-5}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 He came at dusk next day, and sat
   down at the edge, before the trees,
   his two hands open on his knees.
@@ -473,7 +475,7 @@ of us said, "He is old. We're late."
 
 : VI. The Cairn {#asking-6}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 You did not ask. We did not say.
   But you did not move on. You stayed.
   Your ewes lambed twice. Your dead were laid
@@ -637,7 +639,7 @@ nothing in it to make us doubt.
 
 : VII. The Felled Birch {#asking-7}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 Ghalmir was chief the Black Snow year:
   snow early, late, and deep. It killed
   the lambs inside the ewes. It filled
@@ -721,7 +723,7 @@ say no to you. The why we hold.
 
 : VIII. Fires on the Pass {#asking-8}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 One spring: fires on the pass, at night.
   Nelgan, you call it now: Snow-Gate.
   The folk who'd pushed your fathers. Late,
@@ -800,7 +802,7 @@ they came, out of the trees. Each one.
 
 : IX. The Giving-Over {#asking-9}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=ABBA lang=en}
+```verse {form=lay lang=en}
 You had not seen us in the light.
   We are, by day, too tall, too still,
   and not the gods you'd made. And, ill

@@ -26,11 +26,13 @@ The fixed answers are the same in every College. The sayings are not: every Coll
 
 The last question is not answered. Its fixed answer is the oldest utterance in the College's record of prophecies, and after the candidate has recited it the Master asks how it is to be read. It reads two ways. The white at the foot of the crown's page ([[lore-treelinelay|The Lay of the Tree Line]]) may be filled because the crown has taken the mountains, and then the line of kings is ended; or because the crown and the Lodge have nothing left between them to say, and then the line is complete, as a ring is closed. A candidate who chooses either reading is sent back a year. A candidate who says that the question is not closed is admitted.
 
+The verses are in iambic tetrameter, rhymed in couplets.
+
 : The Door {#door}
 
 _The Master:_ Who asks to be heard?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 One who has held the songs, and comes
 to ask, and sits outside the rooms.
 ```
@@ -41,7 +43,7 @@ _The Master:_ Come in.
 
 _The Master:_ What is the oldest song?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 The oldest song is the Asking: those
 who came over the snow, and chose
 to sit outside the wood, and ask,
@@ -52,7 +54,7 @@ and how you ask, and keep to it.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Sing it as it was given you.
 A mended song is someone's new.
 
@@ -64,7 +66,7 @@ The fox still eats out of that song.
 
 _The Master:_ What is the harp for?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 The harp holds still the thing that's known
 so that the voice can go alone
 into the thing that isn't, and,
@@ -73,7 +75,7 @@ when it is lost there, find the hand.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Tune in the hall where you will sing.
 The road has changed the second string.
 
@@ -85,7 +87,7 @@ the hall the thing you hid so well.
 
 _The Master:_ Why must a thing be said well?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Because it's said by more than one.
 The plain word, when the third has done
 with it, is someone else's word.
@@ -94,7 +96,7 @@ The well-made one comes back as heard.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Said well, it's believed once, and then
 it's said again, and said again.
 
@@ -113,7 +115,7 @@ The top will hear it, after all.
 
 _The Master:_ What is a proof of descent?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 A line kept in the mouth from name
 to name, up to the hill, the same
 each time it's sung; and sung where those
@@ -122,7 +124,7 @@ who'd sing it otherwise sit close.
 
 _The Master:_ And if it is not true?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Then it is kept, and kept with grace,
 and time has given it a place,
 and the hall does not ask, and we
@@ -131,7 +133,7 @@ do not. That too is courtesy.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Sung to your friends, a proof's a feast.
 Sung at the fair, it's proved, at least.
 
@@ -150,7 +152,7 @@ and what it paid, under one roof.
 
 _The Master:_ What is a satire?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 A blade the law has called a blade.
 It cuts a name. The cut, once made,
 goes down the line to every heir
@@ -159,7 +161,7 @@ and does not heal. It's always there.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Draw it once. Who draws it twice a year
 is a scold, and the law won't hear.
 
@@ -177,7 +179,7 @@ whose hand was on it. Sign your own.
 
 _The Master:_ What is the art?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 The art is asked for, not displayed.
 It's done the way a courtesy's made:
 exact, and to the one it's for,
@@ -186,7 +188,7 @@ and quiet, and then nothing more.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Power shown is vulgar. Power laid
 exactly where it's asked is praised.
 
@@ -204,7 +206,7 @@ your art is small. Be small, and hear.
 
 _The Master:_ Who is the guest who takes?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 The one who sits by right of guest
 and leaves with what he liked the best,
 and calls it study. Seat him. Feed
@@ -213,7 +215,7 @@ him well. Show him nothing you need.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Guest-right is never argued. Nor
 is the plain fact of a shut door.
 
@@ -229,7 +231,7 @@ the guest all he can bear to know.
 
 _The Master:_ When is a question closed?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 When it's been sung both ways so long
 that one of them has proved the song;
 and not before, and not by you.
@@ -238,7 +240,7 @@ What a thing meant comes when it's due.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Name no day. Leave the thing to stand.
 A day once named is out of hand.
 
@@ -256,7 +258,7 @@ is the rudest word a guest can bring.
 
 _The Master:_ Where does the crown stop?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 At the tree line. The first king said
 it at the Hearth, and nothing read:
 "Where your keeping starts, my road
@@ -265,7 +267,7 @@ will end." It's kept. It is still owed.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 When you go up, leave the harp below.
 They have their own, and not for show.
 
@@ -280,7 +282,7 @@ just where it stops. It stops. Let be.
 
 _The Master:_ Where are the dead kept?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 Sélmoros keeps them past the gate.
 The feast keeps them this side. And late
 or early, every name is sung,
@@ -289,7 +291,7 @@ the least, the best, in the house's tongue.
 
 _The Master:_
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 A name left out at the feast is owed.
 The line will pay it down the road.
 
@@ -307,7 +309,7 @@ up in the hall, and given food.
 
 _The Master:_ When does the kingdom end?
 
-```verse {form=saunarine meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=saunarine lang=en}
 When a crown goes up, and is asked in,
 and sits below the eldest, kin,
 and the white at the page's foot is filled,

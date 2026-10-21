@@ -27,9 +27,11 @@ The road in the ballad is one of the [Crown Roads]{.name data-type="place/featur
 
 The ballad is of [Edwald the Drover]{.name data-type="being/npc"}, a drover's lad, who takes that stretch in a fog. The tall one among the oaks is one of the Sinale of the Hallowwood, whom the ballad never names; the Hallowwood receives nobody who asks why, and the third of Edwald's questions is a why. The three hills he wakes beneath, in the highland grass, are [[place-threesisters|the Three Sisters]], where the elder kingdom's king was killed. The highlands do not know what the name means. The drovers sing the green patch the beasts will not graze as a thing that happens, and leave it there.
 
+The poem is in common metre, rhymed ABCB.
+
 : The Ballad {#ballad}
 
-```verse {form=ballad meter="common metre" rhyme=ABCB lang=en}
+```verse {form=ballad lang=en}
 Young Edwald was a drover's lad,
 His master's kine he drove
 From the high grass to the lowland fair

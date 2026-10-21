@@ -24,6 +24,8 @@ data:
 
 The tale is of [Áuvenna]{.name data-type="being/npc"}, a spinner, who spun on a hinge-night ([[affiliation-groveconcl|The Grove Council]]) when the hedge-wife had told her not to, and who made a bargain at her own door with one of the deeper places ([[lore-faecourts|The Fae Courts]]) that bound her line to keep a thread unbroken; of her daughter [Thélvara]{.name data-type="being/npc"}, who asked what was not offered; and of the knot. The bargain is said in verse and the women say it together. The one at the door is never named, because the tale is about not asking. The bees of that coast keep a long thread that runs from the bee-house window into the wood, and at the end of the night every spinner takes it through her fingers until she finds the knot, and says the name. In the houses of the inner coast nobody cuts a thread on a hinge-day; it is broken with the hands, and whoever breaks it says whose it was.
 
+The verse is in iambic tetrameter, rhymed in couplets.
+
 : The Long Thread {#tale}
 
 Lusinia, mind the wheel. Here's the long one, and it's long, so draw your wool out fine.
@@ -62,7 +64,7 @@ And she thought about the weaver, and the debt, and the twelve hanks, and then s
 
 And he smiled. It was not a good thing to see. And he said the terms, and these are the words, and say them with me:
 
-```verse {form=bargain meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=bargain lang=en}
 Spin me a thread from your door to mine,
 and while it runs, so runs your line.
 I'll come along it on the hinge-night

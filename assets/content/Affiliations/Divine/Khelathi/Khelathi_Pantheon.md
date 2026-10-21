@@ -86,20 +86,20 @@ So the gods are held to be present at the moments that bind people. They witness
 
 ## The Twelve
 
-| Domain              | Deity                            | Epithet                                                 | Symbol                                       | Faith                                         |
-| ------------------- | -------------------------------- | ------------------------------------------------------- | -------------------------------------------- | --------------------------------------------- |
-| Dreams              | [[lore-nehleatdty\|Nehle'at]]    | [[affiliation-nehleat\|Guardian of Night Visions]]      | {{< glyph slug="nehleat" frame="tablet" >}}  | [[affiliation-nehleat\|Faith of Nehle'at]]    |
-| Death               | [[lore-wethurdty\|Weth'ur]]      | [[affiliation-wethur\|Lord of Silent Passage]]          | {{< glyph slug="wethur" frame="tablet" >}}   | [[affiliation-wethur\|Faith of Weth'ur]]      |
-| Storms              | [[lore-chaqurdty\|Chaq'ur]]      | [[affiliation-chaqur\|Bringer of Tempests]]             | {{< glyph slug="chaqur" frame="tablet" >}}   | [[affiliation-chaqur\|Faith of Chaq'ur]]      |
-| Order               | [[lore-qearetdty\|Qe'aret]]      | **Keeper of Truth and Harmony**                         | {{< glyph slug="qearet" frame="tablet" >}}   | [[affiliation-qearet\|Faith of Qe'aret]]      |
-| Knowledge           | [[lore-rethsaardty\|Reth'Sa'ar]] | [[affiliation-rethsaar\|Scribe of the Eternal Library]] | {{< glyph slug="rethsaar" frame="tablet" >}} | [[affiliation-rethsaar\|Faith of Reth'Sa'ar]] |
-| Prosperity          | [[lore-thubaidty\|Thuba'i]]      | The [[affiliation-thubai\|Golden Reveler]]              | {{< glyph slug="thubai" frame="tablet" >}}   | [[affiliation-thubai\|Faith of Thuba'i]]      |
-| Fertility & Healing | [[lore-uzneradty\|Uzn'era]]      | [[affiliation-uznera\|Mother of New Beginnings]]        | {{< glyph slug="uznera" frame="tablet" >}}   | [[affiliation-uznera\|Faith of Uzn'era]]      |
-| Fire                | [[lore-uqaadty\|Uqa'a]]          | The [[affiliation-uqaa\|Solar Flame]]                   | {{< glyph slug="uqaa" frame="tablet" >}}     | [[affiliation-uqaa\|Faith of Uqa'a]]          |
-| Creation            | [[lore-psaqarudty\|Saq'aru]]     | **Shaper of the Eternal World**                         | {{< glyph slug="psaqaru" frame="tablet" >}}  | [[affiliation-psaqaru\|Faith of Saq'aru]]     |
-| Chaos               | [[lore-azuathisdty\|Azu'athis]]  | The **Devouring Shadow**                                | {{< glyph slug="azuathis" frame="tablet" >}} | [[affiliation-azuathis\|Faith of Azu'athis]]  |
-| Voyages             | [[lore-gewaatisdty\|Gewa'atis]]  | The [[affiliation-gewaatis\|Guiding Falcon]]            | {{< glyph slug="gewaatis" frame="tablet" >}} | [[affiliation-gewaatis\|Faith of Gewa'atis]]  |
-| Decay               | [[lore-hezmuiridty\|Hezmu'iri]]  | The [[affiliation-hezmuiri\|Keeper of Transitions]]     | {{< glyph slug="hezmuiri" frame="tablet" >}} | [[affiliation-hezmuiri\|Faith of Hezmu'iri]]  |
+| Domain              | Deity                            | Epithet                                                 | Symbol                                               | Faith                                         |
+| ------------------- | -------------------------------- | ------------------------------------------------------- | ---------------------------------------------------- | --------------------------------------------- |
+| Dreams              | [[lore-nehleatdty\|Nehle'at]]    | [[affiliation-nehleat\|Guardian of Night Visions]]      | [Nehle'at]{.glyph slug=nehleatglyph frame=tablet}    | [[affiliation-nehleat\|Faith of Nehle'at]]    |
+| Death               | [[lore-wethurdty\|Weth'ur]]      | [[affiliation-wethur\|Lord of Silent Passage]]          | [Weth'ur]{.glyph slug=wethurglyph frame=tablet}      | [[affiliation-wethur\|Faith of Weth'ur]]      |
+| Storms              | [[lore-chaqurdty\|Chaq'ur]]      | [[affiliation-chaqur\|Bringer of Tempests]]             | [Chaq'ur]{.glyph slug=chaqurglyph frame=tablet}      | [[affiliation-chaqur\|Faith of Chaq'ur]]      |
+| Order               | [[lore-qearetdty\|Qe'aret]]      | **Keeper of Truth and Harmony**                         | [Qe'aret]{.glyph slug=qearetglyph frame=tablet}      | [[affiliation-qearet\|Faith of Qe'aret]]      |
+| Knowledge           | [[lore-rethsaardty\|Reth'Sa'ar]] | [[affiliation-rethsaar\|Scribe of the Eternal Library]] | [Reth'Sa'ar]{.glyph slug=rethsaarglyph frame=tablet} | [[affiliation-rethsaar\|Faith of Reth'Sa'ar]] |
+| Prosperity          | [[lore-thubaidty\|Thuba'i]]      | The [[affiliation-thubai\|Golden Reveler]]              | [Thuba'i]{.glyph slug=thubaiglyph frame=tablet}      | [[affiliation-thubai\|Faith of Thuba'i]]      |
+| Fertility & Healing | [[lore-uzneradty\|Uzn'era]]      | [[affiliation-uznera\|Mother of New Beginnings]]        | [Uzn'era]{.glyph slug=uzneraglyph frame=tablet}      | [[affiliation-uznera\|Faith of Uzn'era]]      |
+| Fire                | [[lore-uqaadty\|Uqa'a]]          | The [[affiliation-uqaa\|Solar Flame]]                   | [Uqa'a]{.glyph slug=uqaaglyph frame=tablet}          | [[affiliation-uqaa\|Faith of Uqa'a]]          |
+| Creation            | [[lore-psaqarudty\|Saq'aru]]     | **Shaper of the Eternal World**                         | [Saq'aru]{.glyph slug=psaqaruglyph frame=tablet}     | [[affiliation-psaqaru\|Faith of Saq'aru]]     |
+| Chaos               | [[lore-azuathisdty\|Azu'athis]]  | The **Devouring Shadow**                                | [Azu'athis]{.glyph slug=azuathisglyph frame=tablet}  | [[affiliation-azuathis\|Faith of Azu'athis]]  |
+| Voyages             | [[lore-gewaatisdty\|Gewa'atis]]  | The [[affiliation-gewaatis\|Guiding Falcon]]            | [Gewa'atis]{.glyph slug=gewaatisglyph frame=tablet}  | [[affiliation-gewaatis\|Faith of Gewa'atis]]  |
+| Decay               | [[lore-hezmuiridty\|Hezmu'iri]]  | The [[affiliation-hezmuiri\|Keeper of Transitions]]     | [Hezmu'iri]{.glyph slug=hezmuiriglyph frame=tablet}  | [[affiliation-hezmuiri\|Faith of Hezmu'iri]]  |
 
 ## Temple Hierarchy
 

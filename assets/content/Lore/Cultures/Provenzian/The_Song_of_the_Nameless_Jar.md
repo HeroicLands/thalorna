@@ -25,9 +25,11 @@ data:
 
 Its subject is the quickened field at [[place-kyvarel|Kivarel]] (The [[place-bldfldkyvarel|Blood-field of Kivarel]]), whose ground grows the best fruit in the barony, and whose fruit goes into the finest conserves in the kingdom under no particular name. The song never names the field, the barony or the baron. It praises the conserve in every stanza, as a guest praises his host's table, and comes back every time to the one question a guest does not ask. Every compliment in it carries the charge.
 
+The poem is rhymed ABAB.
+
 : The Song of the Nameless Jar {#song}
 
-```verse {form=satire rhyme=ABAB lang=en}
+```verse {form=satire lang=en}
 Here is a jar of the finest fruit in the land,
 the gold of it, the weight, the honeyed skin;
 a house of standing keeps one near at hand

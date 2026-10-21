@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The everyday alphabet of Au'Khelathu—twenty-four signs, reduced from the hieroglyphs, that took the empire's paperwork away from the temples."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: regkhskl}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: regkhskl
+  script: {fonts: [qalezu-hand], emphasis: overline}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -20,6 +24,8 @@ sohl:
 Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roughly eight centuries ago the scribes of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] reduced the hieroglyphs of [[skill-khelthzscrpt|Khelathi-zethu Script]] directly to an alphabet of twenty-four signs, each consonant taken from a hieroglyph whose word begins with that consonant. The signs are written with a reed on papyrus, each standing apart from the next, and like the hieroglyphs they write consonants only. Qalezu is written from right to left. It is the same language underneath and a different skill entirely to read. The queen [Gith'el'Retha I]{.name data-type="being/npc"} sanctioned the alphabet as the hand of the bureaus ([[lore-qalezusanction|the Sanction of Qalezu]]).
 
 A character needs **both** Qalezu and [[skill-khelathlng|Khelathi Language]]; Qalezu admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
+
+A scribe marks a stressed word in Qalezu with a line above the word.
 
 ## What it is for
 

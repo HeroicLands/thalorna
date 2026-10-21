@@ -26,9 +26,11 @@ The ship is the [Solmere]{.name data-type="vehicle"}, which is the word for long
 
 The southern ports sing the song shorter. In [[place-jalnazdal|Jalnasdal]] and [[place-kalveza|Kalveza]], where a patron pays for it, the sílador ends at the stanza in which Lentize sets his men ashore by their cities and pays them twice, and the song is a song of a master who kept the order of what he owed. Volsater sings the last five stanzas as well, and both versions close on the short stanza that sends the song to the patron who paid for it.
 
+The poem is rhymed ABABABCC.
+
 : The Song of the Last Shrine {#song}
 
-```verse {form=voyage-song rhyme=ABABABCC lang=en}
+```verse {form=voyage-song lang=en}
 Wayfarer, lord of every hallowed road,
 you with the serpent staff and the needle crown,
 I ask no wind of you. I ask what's owed:

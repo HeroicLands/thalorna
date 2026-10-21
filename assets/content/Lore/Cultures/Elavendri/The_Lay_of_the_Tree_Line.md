@@ -27,9 +27,11 @@ The lay holds that the Lodge invited the king by sending down a loaf of its own 
 
 The Circle does not settle whose the hart was. The Tradition Keepers say that the Lodge sends nothing down the mountain but its Wardens, and the harpers of the coast sing that the hart was sent; the lay is sung both ways and the Circle leaves it so. It closes on the one thing the Colleges' list of kings and the Lodge's honor-song do not agree on, and asks nothing about it.
 
+The verses are in iambic tetrameter, rhymed in couplets.
+
 : The Lay of the Tree Line {#lay}
 
-```verse {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=lay lang=en}
 Lusinia, who spins the line
 of every house, and spun out mine,
 sit by the harp. And you who wait
@@ -293,7 +295,7 @@ I say it with my mouth, and no page holds it.
 
 The Bard of the Circle:
 
-```verse {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=lay lang=en}
 It's said. The page is white. The hall
 has heard it, and it holds you. All
 the houses heard. Put on the crown.

@@ -26,11 +26,13 @@ The recital is in two forms. The bard's frame, which opens and closes it, is in 
 
 The line was proved before the Colleges by [Árnolen]{.name data-type="being/npc"} in the year the mountains closed ([[lore-sorvandaclose|The Sórvanda Closing]]), when every house set the Colleges to prove its descent, and the proof joins the house to the [[lore-aelendnppl|Áelendan]] through [Sírtala]{.name data-type="being/npc"}, a woman of the [Dhárgandi]{.name data-type="affiliation/lineage"} who came down to the basin and married a river trader. Above her the names are in the high tongue, and the house sings no further up the Dhárgandi line than three names, and hands the rest to the Tradition Keepers, whose it is. The Dhárgandi who come down to the autumn fair at [[place-elanmere|Elanmere]] keep no daughter of [Ronken]{.name data-type="being/npc"} who went down to the basin. The house has sung her at the fair every autumn since [Velthar]{.name data-type="being/npc"} went up and sang the line there, and nobody at the fair has stood up.
 
+The verses are in iambic tetrameter, rhymed in couplets.
+
 : The Line of the House of Hálvireth {#line}
 
 The bard:
 
-```verse {form=sirnerne meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=sirnerne lang=en}
 Set down the cups, and shut the door,
 and trim the lamps. I sing, before
 the meat, the line; and not one word
@@ -76,7 +78,7 @@ And up past Dhargan, to the snow on the pass, and the lamb in the coat.
 
 The bard:
 
-```verse {form=sirnerne meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=sirnerne lang=en}
 That is the line. The hall has heard.
 Nobody stood. Nobody stirred.
 Sílvera, you are in it now:

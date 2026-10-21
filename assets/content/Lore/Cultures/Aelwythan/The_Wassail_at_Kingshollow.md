@@ -27,9 +27,11 @@ The carol keeps a custom the village holds to more closely than to anything else
 
 The verses go in a fixed order: the coming, the bowl, the greeting, the gift, the asking, the land, and the verses sung over the wall to the royal graves behind the hall. The burden is sung by everyone at the door after each verse. The king's answer is not sung but said, and it is always the same words. The verses about the first king are the village's alone. The barons' record says that [Drethar of Kingshollow]{.name data-type="being/npc"} was crowned in the chapel beside his hall ([[lore-kingshlwcrwn|The Crowning at Kingshollow]]) and says nothing about where he lies; the carol says he lies in none of the graves, and that the hill keeps him until the crown is asked for again.
 
+The verses are rhymed in couplets.
+
 : The Coming {#coming}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Here be we come to the door of the hall,
 The hind and the herdsman, the widow and all;
 We have waded the snow from the foot of the hill,
@@ -38,7 +40,7 @@ And the night it is long, and the night it is chill.
 
 : The Burden {#burden}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Wassail, wassail, and open the door!
 The king hath the forest, the hollow is poor;
 Then wassail the king, and wassail the tree,
@@ -47,7 +49,7 @@ And a fire in the hollow for thee and for me.
 
 : The Bowl {#bowl}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Our bowl it is turned of an ash the wind threw,
 For the wind hath a licence the hollow ne'er knew;
 Our ale it is brewed of the barley we grew,
@@ -58,7 +60,7 @@ _The burden._
 
 : The Greeting {#greeting}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Good king in thy chair, we have known thee of old,
 Thy hall and thy chapel, thy kin in the mould;
 Thy grandsire's grandsire was crowned in this place,
@@ -67,7 +69,7 @@ And we sang at his door, and he looked in our face.
 
 _The burden._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Thou art come from Dunmere with a lord at each hand,
 And the lake-town is rich, and the lake-town is grand;
 But the hollow is older than any town's wall,
@@ -78,7 +80,7 @@ _The burden._
 
 : The Gift {#gift}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 There was never a crown but was given by hands,
 And thine by the barons that hold their own lands;
 They set it on Drethar, a lord like the rest,
@@ -87,7 +89,7 @@ That could ride all his land ere the sun went to rest.
 
 _The burden._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 A gift asketh gift, and the old saws agree:
 We have given thee ale; wilt thou give us a tree?
 The barons gave Drethar a crown for his head,
@@ -98,7 +100,7 @@ _The burden._
 
 : The Asking {#asking}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 The wood on the hill is the king's and the deer's,
 And the deer have had acorns this many long years;
 But the hind that goes up for a bundle of thorn
@@ -107,7 +109,7 @@ Shall answer the swainmote upon the next morn.
 
 _The burden._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 We may look on the timber, and look till we freeze,
 For the law is a pale about all of the trees;
 And the oaks that stood over our grandsires' first cry
@@ -118,7 +120,7 @@ _The burden._
 
 : The Land {#land}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 When the king is whole, then the furrow is whole,
 And the ewe bringeth twins, and the mare bringeth foal;
 When the king taketh hurt, then the barley lies down,
@@ -127,7 +129,7 @@ And the ewe casts her lamb, and the well-water's brown.
 
 _The burden._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 So we drink to thy health, and we drink it with care,
 For thy health is our harvest, our bread and our share;
 But a man that is cold hath no breath for to sing,
@@ -140,7 +142,7 @@ _The burden._
 
 _The singers turn from the door to the wall of the burial ground behind the hall, and sing over it._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Now over the wall, to the yard at the back,
 Where the kings lie a-row and the yew-trees are black:
 Good night to ye, kings, that have eaten your fill;
@@ -149,14 +151,14 @@ Ye shall none of ye shiver, ye lie very still.
 
 _The burden is not sung over the wall._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 But count ye the stones, and the stones are one short,
 For the first of the kings was not laid in this court;
 He lieth asleep in the heart of the hill,
 With his hounds at his feet, and his horn, and his bill.
 ```
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 And when the crown's asked for again at this door,
 As the barons asked Drethar to wear it before,
 He shall rise, and come down through the wood on the hill,
@@ -173,7 +175,7 @@ _The singers answer:_ "Wassail, and the Twelve keep thee."
 
 : The Going Home {#home}
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 Now thanks to the king, and good night to the hall,
 And the Twelve keep the chair, and the crown, and us all;
 We will fell it at morning, and burn it by night,
@@ -186,7 +188,7 @@ _The burden, twice, going down the hill._
 
 _In a year the king keeps the feast at Dunmere, the village sings this verse after the asking, and the steward, who stands inside the door, is held not to have heard it._
 
-```verse {form=carol rhyme=AABB lang=en}
+```verse {form=carol lang=en}
 The chair it is empty, the steward sits by,
 And he keepeth the king's wood as dear as his eye;
 But a crown that's a gift may be asked for again,
