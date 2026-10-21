@@ -17,7 +17,7 @@ data:
 
 : The Sealing of the City {#sealing}
 
-```poetry {form=kamg lang=en}
+```verse {form=kamg lang=en}
 _Tob_
 
 The account has been read.

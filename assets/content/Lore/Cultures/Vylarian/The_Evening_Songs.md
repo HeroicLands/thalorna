@@ -29,7 +29,7 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 
 : The First Evening {#first}
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 Dusk on the wall, Yalzizon, and I am counting the smoke of the forest,
   the columns that stand up out of the trees as the light goes.
 One is a hearth. Three is a camp. Ten is a war-band over the passes.
@@ -52,7 +52,7 @@ Let the wax say it. The wax goes south in a bag with the count of the smoke,
 
 : The Second Evening {#second}
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 We do not look at the marsh. It is the first thing a recruit is taught here,
   before the count, before the horn: we look at the forest, not the marsh.
 The marsh is grey at the foot of the valley, and nothing comes out of it,
@@ -73,7 +73,7 @@ Light the lamp, Yalzizon. Light it for me, at the hour of the count.
 
 : The Third Evening {#third}
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 The centurion said it again to the recruits this morning, as he says it,
   the speech they say comes down from the old law, which he does not know:
 twenty years under the eagle, and then there is one door, and you are a citizen,
@@ -96,7 +96,7 @@ Keep the coals in. Keep the lamp. Let the old man keep the door.
 
 : The Fourth Evening {#fourth}
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 Your father wrote. He wrote in his own hand, which is a soldier's hand,
   square, and the wax pressed hard, as a man presses who is not used to it.
 He wrote that a man with the dole and a room came up the stairs in the spring,
@@ -117,7 +117,7 @@ Nine columns of smoke, Yalzizon, standing up in the dark, and none of them yours
 
 : The Fifth Evening {#fifth}
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 Yalzeme, I write your name as a stranger writes it, the whole of it,
   as a clerk would, as the roll would, if the roll had you on it.
 The other name is your husband's now, to say in the room by the coals.

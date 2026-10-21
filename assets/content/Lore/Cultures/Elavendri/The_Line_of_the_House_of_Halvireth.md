@@ -30,7 +30,7 @@ The line was proved before the Colleges by [Árnolen]{.name data-type="being/npc
 
 The bard:
 
-```poetry {form=sirnerne meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=sirnerne meter="iambic tetrameter" rhyme=AABB lang=en}
 Set down the cups, and shut the door,
 and trim the lamps. I sing, before
 the meat, the line; and not one word
@@ -47,7 +47,7 @@ up to the first. Hear, house and feast.
 
 The line:
 
-```poetry {form=sirnerne lang=en}
+```verse {form=sirnerne lang=en}
 Sílvera, named tonight, whose other name is not for this hall, child of Táeren.
 Táeren, who holds the house, and keeps the river-meadows, and whose people eat, child of Méldoreth.
 Méldoreth, who followed the art at Péravel and came home, and kept a harper twenty years and paid him, child of Óuravel.
@@ -76,7 +76,7 @@ And up past Dhargan, to the snow on the pass, and the lamb in the coat.
 
 The bard:
 
-```poetry {form=sirnerne meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=sirnerne meter="iambic tetrameter" rhyme=AABB lang=en}
 That is the line. The hall has heard.
 Nobody stood. Nobody stirred.
 Sílvera, you are in it now:

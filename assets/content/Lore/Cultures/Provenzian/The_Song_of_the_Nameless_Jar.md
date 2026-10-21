@@ -27,7 +27,7 @@ Its subject is the quickened field at [[place-kyvarel|Kivarel]] (The [[place-bld
 
 : The Song of the Nameless Jar {#song}
 
-```poetry {form=satire rhyme=ABAB lang=en}
+```verse {form=satire rhyme=ABAB lang=en}
 Here is a jar of the finest fruit in the land,
 the gold of it, the weight, the honeyed skin;
 a house of standing keeps one near at hand

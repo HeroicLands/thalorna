@@ -22,7 +22,7 @@ The stone and the living song differ by one pair. The stone closes on the name o
 
 : Guest-Right {#song}
 
-```poetry {form=ellante lang=en}
+```verse {form=ellante lang=en}
 We came out of
   We came out. What we came out of is not cut here, and it is not sung.
 We came out at the head of the valley, where the yew is, and the valley was below us.

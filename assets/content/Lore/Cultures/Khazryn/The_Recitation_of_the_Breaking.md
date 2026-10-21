@@ -27,7 +27,7 @@ The rendering below is the text as the [House of Zargandur]{.name data-type="aff
 
 : The Recitation of the Breaking {#recitation}
 
-```poetry {form=tsemhat lang=en}
+```verse {form=tsemhat lang=en}
 This is the case of the seven cities, and the case is open.
 Stand for it. It is not long. Nothing in it is spoken
 that is not on a tablet, and the tablet will be named,

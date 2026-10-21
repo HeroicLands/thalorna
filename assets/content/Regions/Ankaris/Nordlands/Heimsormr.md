@@ -20,7 +20,7 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 
 : The Wyrm in Two Tellings
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Draw close, the deep calls;
 dark water enters our singing.
 Heimsormr, hear the huge name;

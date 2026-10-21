@@ -35,7 +35,7 @@ The record ends at the gate.
 
 : The Going of the Exile {#song}
 
-```poetry {form=kamg lang=en}
+```verse {form=kamg lang=en}
 The bars go across the gate at evening.
   I hear them from here.
 Somebody draws them, at the hour I drew them,

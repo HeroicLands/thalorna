@@ -29,7 +29,7 @@ The rhapsode invokes [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, as the sin
 
 : The Burning of the Keel {#song}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Veiled Dreamer, daughter of the night's long hours, who stand behind the sleeper
 and lift the corner of the veil and let him see what he cannot carry,
 lift it for me now, at the altar, before the heralds of the seven,

@@ -53,7 +53,7 @@ Now stand, because the roll is said standing, and this is how the eldest of a ho
 
 : The Roll of the Seven Peaks {#roll}
 
-```poetry {form=tsemhat lang=en}
+```verse {form=tsemhat lang=en}
 Seven peaks, and seven springs, and seven houses, and the order of the coming down.
 Say the peak, and the house will say the town.
 

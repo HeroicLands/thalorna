@@ -34,7 +34,7 @@ _Old Tally comes in sweeping a ring with his besom, his tally-stick in his belt.
 
 **Old Tally.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Room, room, good people, give us room to play!
 We are come down out of the march today;
 We drove the beasts, we paid the bridge his toll,
@@ -53,7 +53,7 @@ _Hildrik comes in with a wooden sword and a shield of hide._
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Here come I, Hildrik, of the Wyndmarch bred,
 That stand betwixt the forest and your bread.
 Where'er the forest meeteth with the field,
@@ -70,7 +70,7 @@ _The Grukar comes in from the back of the yard, through the crowd, growling._
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Here come I, out of the forest dun,
 An Ahk of the Grukar, and I fear none.
 Rats in thy granary, so thou dost say?
@@ -81,25 +81,25 @@ And every one shall scratch upon thy door.
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 I've slain of thine a hundred in a year.
 ```
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 And I have bred two hundred, never fear.
 ```
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 I'll burn thy den, and drive thee to the fells.
 ```
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 The fells are mine, and all the moor that swells
 Beyond them, and the bog that hath no floor,
 And every wood thy plough hath passed before.
@@ -107,13 +107,13 @@ And every wood thy plough hath passed before.
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 The king shall come against thee with his host.
 ```
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Thy king hath come, and made a mighty boast,
 And come against me twelve times o'er and o'er,
 With drum and banner, horse and foot and more;
@@ -123,13 +123,13 @@ And twelve times I was here the following day.
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Then I will do what twelve kings could not do.
 ```
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Come on, then, champion, and I'll run thee through.
 ```
 
@@ -137,7 +137,7 @@ _They fight, three passes up and down the ring, the yard shouting for Hildrik. O
 
 **Old Tally.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Alack, alack, our champion is down!
 Is there a doctor to be had in town?
 Ten Bits to any doctor that can cure
@@ -150,7 +150,7 @@ This man of hurt, and make his footing sure.
 
 **The Doctor.** For twenty Bits I will put my head in. _He comes in, in a long black gown and a hat, carrying a bottle._
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Here come I, the Doctor, that was bred
 At Ravenmoor, where all the books are read;
 I have my learning in a tongue so fine
@@ -185,7 +185,7 @@ _The ale-wife comes in, with a jug and a cup._
 
 **The Ale-wife.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Dead? He's not dead. I've known him forty year;
 He's never dead, he only lacketh beer.
 The Judge hath not him yet, nor shall tonight:
@@ -196,7 +196,7 @@ _She gives him the cup. Hildrik sits up, drinks, and stands._
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Good morrow, gentles. Is the Grukar fled?
 I dreamt I lay a long while with the dead,
 And one stood at a gate, and would not speak,
@@ -207,13 +207,13 @@ And looked on me, and turned away his cheek.
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Then come again, thou Ahk, and try thy luck.
 ```
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 I'll try it, and thou'lt lie where first thou struck.
 ```
 
@@ -221,7 +221,7 @@ _They fight again. Hildrik strikes the Grukar down, and the yard cheers._
 
 **Old Tally.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Huzza, the Grukar's dead! The march is free!
 Go home, ye drovers, all is well with ye.
 ```
@@ -230,21 +230,21 @@ _The Grukar's fleece is pulled off him. Under it he wears a second fleece, also 
 
 **The Grukar.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Here come I, that am the Grukar's son,
 And there's a brother after me to come.
 ```
 
 **Old Tally.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Why, then, we leave them fighting as they were,
 And as they have been, and they will be there.
 ```
 
 **Hildrik.**
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 I know my day. One morning I shall go
 Into the wood, and not come out, I know;
 The steward in his book shall write a line,
@@ -255,7 +255,7 @@ Fill up the bowl, ye gentles, an ye would.
 
 **Old Tally.** _Going round the yard with the bowl._
 
-```poetry {form=mummers-play rhyme=AABB lang=en}
+```verse {form=mummers-play rhyme=AABB lang=en}
 Put in your Bits, and put your Argos in,
 And if ye've Soldeni, that were no sin;
 A notch for every coin, and one notch more,

@@ -139,7 +139,7 @@ The council found as follows. The council of the city sits as the elders of its 
 
 : The Oath of the Table {#oath}
 
-```poetry {form=pirzath lang=en}
+```verse {form=pirzath lang=en}
 Below, at the table, the elders of the houses of this hold together sit.
 First among them none sits.
 Each tower its own watch keeps; each house its own hearth.

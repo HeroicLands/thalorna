@@ -37,7 +37,7 @@ At the ting Dvurnthann brought the claim. The witness said what he had seen, and
 
 : Gnurthorv's answer at the ting {#ting}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Frost works the field's edge;
 the giant's knuckle shifts.
 Who set it saw no sun
@@ -84,7 +84,7 @@ Dvurnthann spoke this, standing on the walk; it is the first verse of his that a
 
 : Dvurnthann on the walk {#lights}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Hard on the giant's rime,
 where the bend lets the marsh out,
 lamps go walking upriver,
@@ -99,7 +99,7 @@ Nalthvir lit the _dresk_ himself. The fort's verse on the lighting is this one; 
 
 : The beacon {#beacon}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Up went the Destroyer's tongue
 on Draskborg's tower-top;
 down on Hrimthur's rime-road
@@ -118,7 +118,7 @@ That night he was given the bench nearest the fire and could not be made to lie 
 
 : Gnurthorv at the gatepost {#gatepost}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Cold is the frost-line's work
 along a man's left side;
 I would say so of a stone,
@@ -135,7 +135,7 @@ The second day went as the first. The fort's verse on the gate is this one, with
 
 : The gate {#gate}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Three times up the rise
 the river's guests came calling;
 three times the rim-row
@@ -150,7 +150,7 @@ On the third day the relief came over the ridge from Tvalgard, sixty men on skis
 
 : The relief {#relief}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Over the ridge-snow, sunward,
 the ski-host's spear-hedge showed;
 the thin ones, the marsh-thinkers,
@@ -197,7 +197,7 @@ At Somarmál the walk was made again. The witness for the landvordr was the same
 
 : Dvurnthann at the fourth stone {#stone}
 
-```poetry {form=skaldic lang=en}
+```verse {form=skaldic lang=en}
 Where the thaw has left it
 the giant's knuckle stands,
 hay on either hand of it,

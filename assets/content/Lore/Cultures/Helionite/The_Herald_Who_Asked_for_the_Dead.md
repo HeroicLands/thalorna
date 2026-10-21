@@ -70,7 +70,7 @@ The spears came down level at him. He did not stop for the spears. He had stoppe
 
 : The Asking {#asking}
 
-```poetry {form=legend lang=en}
+```verse {form=legend lang=en}
 I am the herald of my city, and my person is the gods'.
 I swore at the altar of the Games, and I carry the staff I swore with.
 The field is yours. You have won it, and no one here denies it.

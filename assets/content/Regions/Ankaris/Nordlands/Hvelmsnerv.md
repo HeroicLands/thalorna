@@ -25,7 +25,7 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 : Hvelmsnerv {#snerv}
 
-```poetry {form=snerv lang=en}
+```verse {form=snerv lang=en}
 I am the hall's skald. I had the bench by the door.
 I had the end of the age at Jel that year, as I have it now.
 What I give you is hers. The ting has heard it once,

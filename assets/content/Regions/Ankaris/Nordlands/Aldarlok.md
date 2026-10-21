@@ -22,7 +22,7 @@ The whole of it gives the faith its gravity and its particular cheerfulness. A p
 
 : While the Ash Stands
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Tell of the ash
 while the ash is standing.
 Tell of the crown

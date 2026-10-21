@@ -25,7 +25,7 @@ data:
 
 : The Oak by the Water-Court {#oak}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   I set the oak by the water-court when it was no taller than I am. I have seen it grown.
   You will see it grown, and see it fall, and see what comes up in the gap. Set it anyway.
@@ -53,7 +53,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : Dreams {#dreams}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   A dream is the god's hand on your shoulder in the dark. It says: here.
   It does not say what to do. Read it. Do not obey it.
@@ -89,7 +89,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : The Grove {#grove}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Cut willow in the still hour and hazel when the sap is down.
   Yew you do not cut. Ask me why in five twenties of years.
@@ -133,7 +133,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : The Sickbed {#sickbed}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Pour the salve warm. Cold, it sits on the skin and does nothing.
   Most of healing is that kind of thing.
@@ -169,7 +169,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : Light and Dark {#light}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   We call them Light and we call them Dark.
   The names are ours. They have not agreed to them. Use the names, and remember whose they are.
@@ -201,7 +201,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : Naming {#naming}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Say the name to the birch for a year before you say it to the child.
   If the birch has not objected, try it on the water.
@@ -229,7 +229,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : The Young Peoples {#young}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Do not mourn a human while she is pouring your cup.
   You will have time for it after. You will have nothing else to do with the time.
@@ -257,7 +257,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : The Enclave {#enclave}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   A lord is raised for what was done, by those who saw it done.
   Do not raise one for what he says he is going to do.
@@ -285,7 +285,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : Silence {#silence}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   The best thing we say of a thing is nothing, for a long time, on our feet in front of it.
   It is also the easiest thing to give. Know which one you are giving.
@@ -309,7 +309,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : Going and Staying {#going}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Aulveira takes the dead to the god's hall in **Ollevikko**. Of this we are sure.
   We are sure of little. Hold this one with both hands.
@@ -329,7 +329,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : The Question {#question}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   She asked him when the watch ends. He was looking at the water-court, and he went on looking at it.
 
@@ -341,7 +341,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 : The Seer's Saying {#seer}
 
-```poetry {form=saunari lang=en}
+```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
   Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevikko.
   Aelirosse says Olmasitti Ropelinto Torvelsa now, of the oak, and his name is one word longer.

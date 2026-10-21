@@ -26,7 +26,7 @@ The text below is the rendering of one teller's cloth as a clerk of the [Tozhiro
 
 : The Song of the Lost Town {#song}
 
-```poetry {form=lavun lang=en}
+```verse {form=lavun lang=en}
 Sit on the wall, sit in the dust, sit where the shade will fall.
 A copper for the gate, a copper more, and I will show you all.
 Here is the cloth. Here is the rim. Here, where the brown line ends,

@@ -21,7 +21,7 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 
 : The Keeping of the Silk House {#lament}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 Keeper, I have brought the coin. It is counted. Count it again.
   Here is the receipt from last year, and the year before, and the first.
 Write what I say in the margin, as your clerks write at a renewal.

@@ -45,7 +45,7 @@ The first to rise kept the long song of the stars, which is sung from the first 
 
 : The Speech of the One Who Keeps the Long Song {#long-song}
 
-```poetry {form=evesikko lang=en}
+```verse {form=evesikko lang=en}
 There is a song that is sung from the first star to the last.
   It begins when the first stands out over the passes and it ends with the one the morning takes.
 I have held it since before the oaks on that slope were oaks.
@@ -80,7 +80,7 @@ He kept the oaks on the eastern slope, the one that had seeded that winter and t
 
 : The Speech of the One Who Keeps the Oaks {#oaks}
 
-```poetry {form=evesikko lang=en}
+```verse {form=evesikko lang=en}
 There is an oak on the eastern slope that I have tended since it was a shoot the height of my hand,
   and there is an older one above it with rot in the heart, and I tend that one too.
 Every year the leaf turns. Every year it falls, and the ground takes it, and by the thaw it is ground.
@@ -113,7 +113,7 @@ She kept the meadow below the passes, the tall grass that the fog lies in, and s
 
 : The Speech of the One Who Keeps the Meadow {#meadow}
 
-```poetry {form=evesikko lang=en}
+```verse {form=evesikko lang=en}
 The grass on the meadow below the passes goes down under the snow every winter, every stem of it.
   By the first thaw it is black and flat and smells of the ground. Seen once, that is an end.
 I have seen the spring. I have seen it more times than the old oak has rings.
@@ -159,7 +159,7 @@ The account names the hearths that came by what each keeps, as before: from the 
 
 : The Speech of the One Who Stood at the Edge {#edge}
 
-```poetry {form=evesikko lang=en}
+```verse {form=evesikko lang=en}
 I have been a guest at a hearth in the north in the season it was named for, when the leaf does not fall.
   I have gone back to it this year and stood at its edge, and I will tell you what I saw and no more than I saw.
 The trees stand and are dead. The water runs and is dark. Nothing with wings goes in.

@@ -35,7 +35,7 @@ One northern warning tale follows an unnamed traveler past a hidden hov of Nahil
 
 : The Watch Beneath the Hidden Roof {#hidden-roof}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Hold room beside the hearth;
 hear those returning late.
 Wind wears borrowed voices;

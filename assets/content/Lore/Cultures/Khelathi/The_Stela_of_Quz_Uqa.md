@@ -39,7 +39,7 @@ The stone is as tall as a man above the ground and was twice that when it was ra
 
 : Qedlet elu Kuz'Uqa {#stela}
 
-```poetry {form=qedlet lang=en}
+```verse {form=qedlet lang=en}
 _\[The top of the stone is weathered, and the first lines are read with the hand.\]_
 Year 1 of Gar-Au Kuz'Uqa, the Season of Harvest, the second month, the roads open.
 Cut on the ground where it was done, below Lenen-Nezut, on the west bank, at the edge of the planted land.

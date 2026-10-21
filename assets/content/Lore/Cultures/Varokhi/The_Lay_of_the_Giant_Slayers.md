@@ -28,7 +28,7 @@ The lay names no people but its own and the giants. [[lore-takingwood|The Taking
 
 : Dorgbán drunga {#dorgbandrunga}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 _The reciter of the Dorgbán:_
 
 Stand off from the boats.    Let the staff have the boards.

@@ -29,7 +29,7 @@ The satire takes a client's day from the dark before the morning call to the eve
 
 : The Morning Call {#call}
 
-```poetry {form=satire lang=en}
+```verse {form=satire lang=en}
 Up before the cocks, before the bakers, before the gods are dressed,
 up, Nizelar, in the dark, in the room at the top of the Warrens,
 ninety stairs above the street, and every one a different height,

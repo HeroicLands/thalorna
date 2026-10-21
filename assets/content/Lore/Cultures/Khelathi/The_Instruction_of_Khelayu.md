@@ -41,7 +41,7 @@ What follows is not the list. It is what I know that is not on it. A Keeper writ
 
 : The Instruction {#instruction}
 
-```poetry {form=rethet lang=en}
+```verse {form=rethet lang=en}
 Write only what is so. He is reading over your shoulder.
 The first lesson; they gave it to you at seven.
 Here is the second, which they do not give at seven:

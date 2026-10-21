@@ -130,7 +130,7 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 
 : The Terms on One Hand {#swearing-hand}
 
-```poetry {form=praise lang=en}
+```verse {form=praise lang=en}
 Now the terms. Count them on one hand.
   _One hand, five fingers._
 First: the five do not lift a weapon against the five,

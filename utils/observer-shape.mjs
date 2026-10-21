@@ -22,7 +22,7 @@
  * The verb list is narrow on purpose: "and a windstorm can bury a camp" and
  * "and a craftsperson can tell when a repair conceals damage" state a capacity
  * or a hazard and pass. A speaker's words inside quotation marks pass, because
- * the note attributes them. Frontmatter, code fences, `poetry` blocks (verse is
+ * the note attributes them. Frontmatter, code fences, `verse` blocks (verse is
  * not house prose) and the style guide that names the shape are not read.
  *
  * Findings are written `file:line:column: error: message`, the path first and

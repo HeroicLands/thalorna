@@ -30,7 +30,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On Weights {#weights}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 A weight is honest when it matches the standard.
   There is no third thing a weight can be.
 
@@ -55,7 +55,7 @@ The balance does not lie, but the man who reads it can.
 
 : On Terms {#terms}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Agree nothing in general. The general term is where the swindle begins.
   "The usual rate" is the beginning of a quarrel you have already lost.
 
@@ -87,7 +87,7 @@ The bazaar says: zhe danizh, kérdanir vezh. Do not lend; there is no profit.
 
 : On the Defect {#defect}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Declare the defect before the sale.
   A fault declared is no fault in the bargain. A fault hidden is the whole bargain.
 
@@ -109,7 +109,7 @@ Do not mistake the declared defect for weakness.
 
 : On the Guest and the Price {#guest}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Feed the guest before you name the price.
   A man fed well has heard the first true thing you have to say about yourself.
 
@@ -128,7 +128,7 @@ Hospitality is a negotiation. A negotiation conducted with real warmth is hospit
 
 : On the Master and the Guild {#master}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Your master owes you training, bread and a character.
   You owe him obedience now and the charter all your life.
 
@@ -150,7 +150,7 @@ A master who will not train is a debt that never closes.
 
 : On the Road and the East {#road}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 The road is the reason the League exists. Pay the toll.
   The toll is the road's price, and a road nobody pays for is closed by spring.
 
@@ -175,7 +175,7 @@ Every fort on the road stands on water.
 
 : On the Arbitrator {#arbitrator}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Do not take your quarrel to the council. The council has never heard of you.
   Take it to an arbitrator you and your counterpart both name.
 
@@ -197,7 +197,7 @@ When the ruling goes against you, pay.
 
 : On the Dead and the Keeping {#dead}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Check the keeping of your dead as you check the lease on a warehouse.
   An endowment that has run out is a door that has been closed.
 
@@ -219,7 +219,7 @@ Do not try to question the dead.
 
 : On the Gods {#gods}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 Renew your terms at the Thresholds. Renew them all, even the ones that are turning.
   The gods renew the world on the same morning, and they look at your seal.
 
@@ -238,7 +238,7 @@ A man who prays for more than the terms is asking the gods to bend them.
 
 : The Last Weight {#last}
 
-```poetry {form=sayings lang=en}
+```verse {form=sayings lang=en}
 The weight in the Hall was heavy, and I set it on the balance in front of everyone.
   I was afraid, and I set it on the balance. Fear does not change a weight.
 

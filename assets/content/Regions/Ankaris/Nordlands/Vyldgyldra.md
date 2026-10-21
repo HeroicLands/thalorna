@@ -26,7 +26,7 @@ I will not take the names apart for you. Krildorv is a name and [Kraldaruk]{.nam
 
 : Vuldgeldra, the opening {#opening}
 
-```poetry {form=geldra lang=en}
+```verse {form=geldra lang=en}
 Hear, hall, what a ring buys
 of the cloak's raven, here:
 no reddened sail, no small
@@ -74,7 +74,7 @@ A ting called in snow with no sword and no feud is a ting called for one thing. 
 
 : The notched part, first {#notches-first}
 
-```poetry {form=geldra lang=en}
+```verse {form=geldra lang=en}
 He set, where the fire's kept
 coal lit it, the hand that
 stayed, iron, thumbless, on
@@ -129,7 +129,7 @@ The giant's spilled cold is the sea, from his blood, and where the blood meets t
 
 : The notched part, second {#notches-second}
 
-```poetry {form=geldra lang=en}
+```verse {form=geldra lang=en}
 Seal-weeks: the cold's hard hem
 gave once under the knives.
 Each man's take was each man's;
@@ -184,7 +184,7 @@ The seventh year's boat is the king's boat come for his jarls, and the grant mov
 
 : The notched part, third {#notches-third}
 
-```poetry {form=geldra lang=en}
+```verse {form=geldra lang=en}
 Somarmál: keels go down
 crying to Thrunvald's floor;
 the hall stands roofed in bone,
@@ -230,7 +230,7 @@ The cliff is [[lore-threewinters|the Three Winters]]. The tellers have gray head
 
 : The close {#close}
 
-```poetry {form=geldra lang=en}
+```verse {form=geldra lang=en}
 Now the close. Cut these too.
 Keels sit on the water,
 the gray are at the door,

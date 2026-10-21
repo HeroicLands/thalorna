@@ -17,7 +17,7 @@ Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-skrldmyl
 
 : Saga of Skrilmil Stormborn {#saga}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Hear now, hearth keepers,
 hold still your cups.
 Snow shakes the shutters;

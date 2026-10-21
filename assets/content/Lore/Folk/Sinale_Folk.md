@@ -89,7 +89,7 @@ One such song, [[lore-seventowers|The Seven Towers]], opens on a valley at eveni
 
 : The Valley at Evening
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 The evening comes early to that valley, for its walls are high.
   The last light climbs the eastern face, and stands there, and is gone.
 We knew it when it was only stone and water and the swifts,

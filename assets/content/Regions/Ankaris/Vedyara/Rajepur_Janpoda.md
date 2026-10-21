@@ -116,7 +116,7 @@ Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] closes 
 
 : The Acknowledgment {#recitation-excerpt}
 
-```poetry {form=recitation lang=en}
+```verse {form=recitation lang=en}
 The Mahanodi kingdom is no more;
   it ended with its due.
 The janpoda governs in its place,

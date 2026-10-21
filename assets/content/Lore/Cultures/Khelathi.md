@@ -200,7 +200,7 @@ Two decisions are made aloud at a Closing and the household hears both. The dyin
 
 : The Asking
 
-```poetry {form=litany lang=en}
+```verse {form=litany lang=en}
 You to whom the dead owes: stand, and be asked.
 Will you say _I require no more_? The scribe writes it.
 Will you say no? It is lawful, and the scribe writes it.

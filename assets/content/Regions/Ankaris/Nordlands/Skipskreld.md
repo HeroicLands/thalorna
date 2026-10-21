@@ -21,7 +21,7 @@ At Raltholm they tell it otherwise. The two were not going anywhere; they were c
 
 : Skipskreld {#skreld}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
 _Thrunvald said:_
 Take the oar, Velgrímr.
 There is one on your side.
@@ -65,7 +65,7 @@ Thrunvald rowed. He pulled forty strokes on the steerboard side, and the boat ca
 
 : Skipskreld, forty and forty {#skreld-2}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
 _Velgrímr said:_
 Forty and forty.
 Eighty strokes, and look:
@@ -168,7 +168,7 @@ The singer who takes Velgrímr's part names no haven for the drowned men. Thrald
 
 : Skipskreld, the bailing {#skreld-3}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
 _Velgrímr said:_
 Bail, then. Bail.
 That is water that will bend to you.
@@ -246,7 +246,7 @@ Thrunvald rowed thirty strokes on that, and the boat came round. At Thraldfjord 
 
 : Skipskreld, the twelve sagas {#skreld-4}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
 _Velgrímr said:_
 Twelve sagas, Thunderer.
 Tell them over on your hands.
@@ -298,7 +298,7 @@ At Thraldfjord the haven shouts the refrain twice there, and the singer who has 
 
 : Skipskreld, two hundred strokes {#skreld-5}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
 _Velgrímr said:_
 Your beard is in the bilge.
 
@@ -355,7 +355,7 @@ Thrunvald did not answer for a hundred strokes. Velgrímr counted them, and this
 
 : Skipskreld, the two lines {#skreld-6}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
 _Thrunvald said:_
 Today you are in the boat.
 Take the other oar.
@@ -365,7 +365,7 @@ Velgrímr took the other oar. They made shore at dark, and the strokes from ther
 
 : Skipskreld, the last line {#skreld-7}
 
-```poetry {form=skreld lang=en}
+```verse {form=skreld lang=en}
   _Row, then._
 ```
 

@@ -312,7 +312,7 @@ years, and it comes out as elegy.
 
 : The Birds
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 And there were birds.
   They came in at the shafts of light, and some of them stayed.
 They nested in the high galleries, on the ledges of the vaults,

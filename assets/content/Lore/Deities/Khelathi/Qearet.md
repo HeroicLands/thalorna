@@ -19,7 +19,7 @@ Her theology rests on one overwhelming doctrine: [The Weighing]{.name data-type=
 
 : The Weighing
 
-```poetry {form=litany lang=en}
+```verse {form=litany lang=en}
 Before the assembled gods both accounts are opened.
 Ours is read as it stands; theirs is set beside it.
 The tablets lie level on the beam, and nothing is bought at the beam.

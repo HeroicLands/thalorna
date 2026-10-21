@@ -29,7 +29,7 @@ The lament is sung through the [[place-talothe|Talote]] when a patron dies, with
 
 : The Lament for Karalze {#lament}
 
-```poetry {form=lament rhyme=AABCCB lang=en}
+```verse {form=lament rhyme=AABCCB lang=en}
 I came at the morning call, as I have come
 each morning twenty years, with the others, dumb
 with the cold of the march at first light, and I stood

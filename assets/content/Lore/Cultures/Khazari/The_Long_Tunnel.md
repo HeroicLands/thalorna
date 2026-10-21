@@ -107,7 +107,7 @@ The record of the year enters against Dulkun of Khalv-gunáv's name the mark of 
 
 : The Claim of Work of Dulkun of Khalv-gunáv {#mazadh}
 
-```poetry {form=mazadh lang=en}
+```verse {form=mazadh lang=en}
 The hold lost its water.
 The hold gave me the water to find.
 I did not find the water.

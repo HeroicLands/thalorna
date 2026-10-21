@@ -67,7 +67,7 @@ The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], hold
 
 : The Witness {#swearing-witness}
 
-```poetry {form=praise lang=en}
+```verse {form=praise lang=en}
 And who watched?
   _The lion watched._
 The song says witness. It says no more than witness.

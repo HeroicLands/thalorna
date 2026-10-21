@@ -19,7 +19,7 @@ The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]],
 
 : The Crossing of the Clans {#song}
 
-```poetry {form=habad lang=en}
+```verse {form=habad lang=en}
 The lamp is lit.
 Lit, the lamp is a lamp.
 Unlit, it is oil and a wick and a hand.

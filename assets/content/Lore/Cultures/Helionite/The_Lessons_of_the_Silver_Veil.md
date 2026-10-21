@@ -23,7 +23,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The First Year, at Twelve {#first}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 Remember what was said at dinner, and by whom.
 Remember what was not said, and by whom it was not said.
 A word is a guest. Know its name before it leaves the house.
@@ -40,7 +40,7 @@ You are twelve. You know nothing. That is the first thing to remember.
 
 : The Second Year, at Thirteen {#second}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 The lyre is played with the left hand. The right only strikes.
 A song is in the stopping of the string, not the striking.
 Sing below the talk, not over it. A guest should not have to raise his voice.
@@ -55,7 +55,7 @@ The Veiled Dreamer gave the singer the night. Give the guests the evening.
 
 : The Third Year, at Fourteen {#third}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 Learn the Song of the Ships as every city sings it.
 Learn which ship came first in Thirenae, and in Pelagora, and say each in its house.
 Never say which ship came first. Ask. Let the guest tell you.
@@ -71,7 +71,7 @@ A song is the oldest record a city keeps. Read it as a record.
 
 : The Fourth Year, at Fifteen {#fourth}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 Argue either side. Then argue the third side, which no one has seen.
 Never win at dinner what you can win tomorrow at the door.
 A man defeated in front of his friends is an enemy. Alone, he is a pupil.
@@ -86,7 +86,7 @@ The assembly is not yours. The dinner before the assembly is.
 
 : The Fifth Year, at Sixteen {#fifth}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 Know the seat of every guest before he sits in it.
 The host puts the man he fears on his right. Watch the man on his right.
 A guest who comes early wants something. A guest who comes late has it already.
@@ -101,7 +101,7 @@ In a strange city eat what is put before you, and remember who put it there.
 
 : The Sixth Year, at Seventeen {#sixth}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 Learn the garden. Learn it all, the root and the leaf and the seed.
 Learn what cools a fever, and what eases a birth, and what brings sleep.
 Learn what brings a sleep that does not end. Learn it so that you know it in a cup.
@@ -115,7 +115,7 @@ Do not give a man a sleeping draught unless he asks for it. Then ask him again.
 
 : The Seventh Year, at Eighteen {#seventh}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 Learn the law of your own city, and of the seven, and of the sea.
 Learn the law of the house you go to, which is not written, and is older.
 Know what a metic may own, and what a freedman may say, and what a slave may not.
@@ -131,7 +131,7 @@ He will not know. Nor will you. That is right.
 
 : The Eighth Year, at Nineteen {#eighth}
 
-```poetry {form=precepts lang=en}
+```verse {form=precepts lang=en}
 […]
 
 The city could not keep its freedom by arms,

@@ -62,7 +62,7 @@ And she thought about the weaver, and the debt, and the twelve hanks, and then s
 
 And he smiled. It was not a good thing to see. And he said the terms, and these are the words, and say them with me:
 
-```poetry {form=bargain meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=bargain meter="iambic tetrameter" rhyme=AABB lang=en}
 Spin me a thread from your door to mine,
 and while it runs, so runs your line.
 I'll come along it on the hinge-night

@@ -16,7 +16,7 @@ The standard telling musters the honored dead on [[place-vigvoll|Vigvoll]] besid
 
 : The Muster of the Worthy
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Who comes to the doors,
 where the spear roofs shine?
 Who sits by the fire,

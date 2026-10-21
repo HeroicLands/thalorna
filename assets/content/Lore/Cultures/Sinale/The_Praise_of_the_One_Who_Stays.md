@@ -29,7 +29,7 @@ The song stops before its own ending. Beneath the three peaks he named, in [[lor
 
 : The Praise of the One Who Stays {#song}
 
-```poetry {form=tellame lang=en}
+```verse {form=tellame lang=en}
 Hear the deed. Ask not after the doer.
 Comes the doer late in a song, or never.
 Hear, you under the gate, who grind the bread;

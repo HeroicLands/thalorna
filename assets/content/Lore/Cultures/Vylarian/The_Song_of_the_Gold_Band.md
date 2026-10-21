@@ -31,7 +31,7 @@ The recruits learn the song before they learn the oath. The text below is the so
 
 : The Song of the Gold Band {#song}
 
-```poetry {form=road-song lang=en}
+```verse {form=road-song lang=en}
 Left foot the road, and the right foot the road,
   and the road goes north, and the road goes north.
 Who carries the eagle? The Urzelthos carries.
@@ -100,7 +100,7 @@ The parade ends there, on the four words of the manual, shouted twice: _Zel orka
 
 : The Road Verses {#road}
 
-```poetry {form=road-song lang=en}
+```verse {form=road-song lang=en}
 Beneath the eagle stand the borders,
   and beneath the borders, us.
 Beneath the borders the Urzelthos,

@@ -30,7 +30,7 @@ The bards mark the break as a silence, and keep the last line where it stops.
 
 : The Seven Towers {#song}
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 The evening comes early to that valley, for its walls are high.
   The last light climbs the eastern face, and stands there, and is gone.
 We knew it when it was only stone and water and the swifts,

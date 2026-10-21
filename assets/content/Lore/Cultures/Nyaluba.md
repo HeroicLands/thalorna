@@ -51,7 +51,7 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 
 : The Yes Worth Carrying {#swearing-yes}
 
-```poetry {form=praise lang=en}
+```verse {form=praise lang=en}
 Nine generations, and the five come back.
 Each could say no. None of them has said it.
 That is why the yes is worth carrying.

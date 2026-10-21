@@ -18,7 +18,7 @@ A coastal telling joins the hammer's battle and blessing in one refrain, carryin
 
 : The Hammer Held
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Hark to the hammer's head;
 hear how the heavens answer.
 Clouds close over the coast;

@@ -17,7 +17,7 @@ The Swearing Under the Baobab is the memory-song of the [Long Pact]{.name data-t
 
 : The Swearing Under the Baobab {#song}
 
-```poetry {form=praise lang=en}
+```verse {form=praise lang=en}
 Hear me, children of the five.
   _We hear you, keeper._
 Hear me, lion-tooth and braided hair.

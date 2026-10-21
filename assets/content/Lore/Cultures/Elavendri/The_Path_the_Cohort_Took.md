@@ -61,7 +61,7 @@ It said, "The path is ours. We will lend it. Hear the terms, and if you take the
 
 And then it said the terms, and these are the words, and I'll say them, and you say them with me:
 
-```poetry {form=bargain meter="iambic tetrameter" rhyme=ABAB lang=en}
+```verse {form=bargain meter="iambic tetrameter" rhyme=ABAB lang=en}
 Keep the silver. Show the way.
 The way is ours; the feet are yours.
 Who walks behind you walks to stay.

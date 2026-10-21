@@ -27,7 +27,7 @@ Each singer opens with a verse to the fair, on a vowel of the singer's choosing,
 
 : The Greeting {#greeting-verses}
 
-```poetry {form=gortsada lang=en}
+```verse {form=gortsada lang=en}
 THE SLING
 Good fair to Thórgila,
 and the horses in the row,
@@ -57,7 +57,7 @@ The horse-judge set the first bout: _Sling, you are a captain at the spring must
 
 : The Muster {#muster-verses}
 
-```poetry {form=gortsada lang=en}
+```verse {form=gortsada lang=en}
 THE HAIL
 Captain, I am fifteen.
 I have kept the flock each day
@@ -117,7 +117,7 @@ The second bout is the one the hill farms sing most. _Hail, you have come home f
 
 : The Mule in the Byre {#mule-verses}
 
-```poetry {form=gortsada lang=en}
+```verse {form=gortsada lang=en}
 THE HAIL
 Wife, I'm home. Here is the money.
 Six years. Count it. It is mine,
@@ -177,7 +177,7 @@ _Sling, you are the oath stone in the yard of this fair. Hail, you swore on it a
 
 : The Stone in the Yard {#stone-verses}
 
-```poetry {form=gortsada lang=en}
+```verse {form=gortsada lang=en}
 THE HAIL
 Stone, I swore on you in spring.
 I swore the horse was sound. Not so.
@@ -227,7 +227,7 @@ At the end of a duel the theme-giver may set one word, and each singer sings one
 
 : The Last Word {#last-word-verses}
 
-```poetry {form=gortsada lang=en}
+```verse {form=gortsada lang=en}
 THE HAIL
 Free is the man under contract.
 He chose the captain. So

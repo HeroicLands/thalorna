@@ -28,7 +28,7 @@ The court singers of [[place-jalnazdal|Jalnasdal]] have the cut songs too, and s
 
 : The Songs of the Salt Pans {#songs}
 
-```poetry {form=waiting-song lang=en}
+```verse {form=waiting-song lang=en}
 I. The Land Wind
 
 Mother, the wind has come down off the valley,

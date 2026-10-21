@@ -26,7 +26,7 @@ The form is the Vedyari dialogue in couplets (_poksa_), a long line answered by 
 
 : The Reading {#reading}
 
-```poetry {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue meter="a long line answered by a short one" lang=en}
 In this court, before the scale of the goddess,
   the bows have come home.
 Stand where you stand, the grip in the left hand,
@@ -49,7 +49,7 @@ Hear the couplets as the fort keeps them.
 
 : The Camp {#camp}
 
-```poetry {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue meter="a long line answered by a short one" lang=en}
 Below the gold road the valley king's fires
   stood in rows on the shale.
 His companies of the bow slept by their staves,
@@ -246,7 +246,7 @@ The rest stayed by the fires. The fort does not count them.
 
 : The Gorge {#gorge}
 
-```poetry {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue meter="a long line answered by a short one" lang=en}
 Sharabira:
 Three days down with the staves on our backs and no fires,
   and the reed kept dry.
@@ -337,7 +337,7 @@ I have the draw. I have nothing else.
 
 : The Cairn {#cairn}
 
-```poetry {form=dialogue meter="a long line answered by a short one" lang=en}
+```verse {form=dialogue meter="a long line answered by a short one" lang=en}
 Every autumn the bows come down out of six kingdoms
   by whatever road they served.
 The road from the river country does not pass the mouth.

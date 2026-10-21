@@ -21,7 +21,7 @@ data:
 
 : The Question {#question}
 
-```poetry {form=divided-question rhyme=ABABCC lang=en}
+```verse {form=divided-question rhyme=ABABCC lang=en}
 SERDALE
 Iltore, here's a question for the feast:
 choose which you'll hold, and I will hold the other.

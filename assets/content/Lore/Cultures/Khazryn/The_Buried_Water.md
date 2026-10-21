@@ -26,7 +26,7 @@ What it tells is the steppe's account of the ground it rides on. The heart of th
 
 : The Buried Water {#song}
 
-```poetry {form=koyoz lang=en}
+```verse {form=koyoz lang=en}
 The Rider. First up, in the west, when the grass comes.
 Look at him. He stands up out of the dune at dusk with his spear.
 He is the first star because he is the first thing a tribe needs:

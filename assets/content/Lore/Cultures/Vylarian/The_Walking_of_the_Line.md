@@ -36,7 +36,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 
 : The Walking of the Line {#line}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 The hallowed boundary I sing, and the one who walked it, and the stones
 set down in the grass of the six hills before a wall stood on any of them.
 Keeper of the open book, Marendas, who hold what was written and what was not,

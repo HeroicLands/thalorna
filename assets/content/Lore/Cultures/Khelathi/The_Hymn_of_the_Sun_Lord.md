@@ -41,7 +41,7 @@ The copy given here is cut in the sacred hand on the wall of the tomb of [Khelan
 
 : Zamlet elu Uqa'a {#hymn}
 
-```poetry {form=zamlet lang=en}
+```verse {form=zamlet lang=en}
 _\[Sung at the eastern face of the Great Temple before the sun is up the road. The fire-tender keeps the count with a rod on the altar step. The name of the god is sung in two breaths, and between the breaths the singers stop. The rest is held for three strokes of the rod, and nothing is sung in it. This is the god's rest, and it is kept at every naming, at the first and at the last, and at the names of the others of the Twelve where the hymn sings them. It is not the other silence. The other silence comes on the road at night, and it is a name not given.\]_
 
 Uqa'a.

@@ -26,7 +26,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The Vow at the Grove {#vow}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 Keep the door. Set the cup down. This is the lay of the cord,
 the Othholt lay, of two halls, and the knots tied between them,
 as the one before me gave it, and the one before her.
@@ -101,7 +101,7 @@ The birch is still standing. Nobody has felled it. The two marks have grown over
 
 : Before the Three Seats {#seats}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 _The Other Chief said:_
 
 The Skathár has reckoned, and I have heard it, and I say it is full.
@@ -298,7 +298,7 @@ Taken by the _othrún_ of the Grimskorn and by Armund's widow, for the girl. Ref
 
 : The First Winter {#first}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 _Grema_ came, and the river was a road, and the landing was quiet.
 Vristulf came down to the boats with two of his hall, to see the ice.
 The two Othmund out of the south were there, stacking the Skathár's oars,
@@ -329,7 +329,7 @@ Vristulf of the Harvith, killed at the landing in _grema_ by Skathrik, in the op
 
 : The Harvith Hall {#harvith}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 _The mistress of the Harvith said to her sons:_
 
 I have counted the stores, as the woman across the clearing counted hers, and I will say them.
@@ -361,7 +361,7 @@ The second winter. Three of the nine, at the Harvith woodpile; two of the Harvit
 
 : The Wall {#wall}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 The ninth stood on the wall, which was his charge, and watched the eight go out.
 Eight on the river road at dusk, with spears, and no torch, going east.
 He counted them going, as the War Chief had counted them, and the War Chief stood by him.
@@ -417,7 +417,7 @@ The third winter. Skathrik and the last three of the nine, and the last three Ha
 
 : The Grove Again {#grove}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 In the third _grema_ the river was a road again, and there was nobody left to walk it but seven men.
 Three Harvith who could still hold a spear, and Skathrik, and the three of the nine who were left,
 and each side knew where the other would be. There was one place left, and it was the grove.
@@ -472,7 +472,7 @@ Skathrik burned at the landing with his spear and his axe, the Shaman guiding it
 
 : The Knot {#knot}
 
-```poetry {form=drunga lang=en}
+```verse {form=drunga lang=en}
 They built the pyre at the landing, where the ice had been that first winter, where the Grimskorn burn.
 The women of the village raised the lament over him, the ones who were left, and that is theirs and is not told here.
 The _othrún_ washed him, as she had said, and put the spear by him and the axe, and not the tusk,

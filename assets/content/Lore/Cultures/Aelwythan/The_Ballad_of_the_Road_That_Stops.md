@@ -29,7 +29,7 @@ The ballad is of [Edwald the Drover]{.name data-type="being/npc"}, a drover's la
 
 : The Ballad {#ballad}
 
-```poetry {form=ballad meter="common metre" rhyme=ABCB lang=en}
+```verse {form=ballad meter="common metre" rhyme=ABCB lang=en}
 Young Edwald was a drover's lad,
 His master's kine he drove
 From the high grass to the lowland fair

@@ -28,7 +28,7 @@ The song is a satire as well as a lament, and it is sung against a crown. It set
 
 : The Lament at the Road's End {#lament}
 
-```poetry {form=nelthava meter="common metre" rhyme=ABCB lang=en}
+```verse {form=nelthava meter="common metre" rhyme=ABCB lang=en}
 Come down, come down to the road's foot,
 you that came up for the fair.
 The cheese is sold, the hides are sold,

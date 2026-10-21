@@ -18,7 +18,7 @@ A rune-hall recitation praises Skjalfgeir as the All-Father's sign of precision 
 
 : The Mark and the Knowing
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Come to the benches' warmth;
 black sea moves beyond hearing.
 Stars sharpen above the snow;

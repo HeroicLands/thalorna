@@ -28,7 +28,7 @@ A coastal telling follows Skrilmil's winter ascent and the clearing of the storm
 
 : The Climb Through White Weather
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Name the mountain under snow;
 name it above the sea.
 Thrumufjall thrusts through white weather;

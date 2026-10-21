@@ -29,7 +29,7 @@ The Circle does not settle whose the hart was. The Tradition Keepers say that th
 
 : The Lay of the Tree Line {#lay}
 
-```poetry {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
 Lusinia, who spins the line
 of every house, and spun out mine,
 sit by the harp. And you who wait
@@ -283,7 +283,7 @@ The harp is still. The hall attends.
 
 The monarch, bareheaded, with both hands open:
 
-```poetry {form=oath lang=en}
+```verse {form=oath lang=en}
 I am of the old blood, and the crown I take stops at the tree line.
 No court of mine shall hear a case against the tribes.
 No soldier of mine shall go up into the mountains unless he is asked.
@@ -293,7 +293,7 @@ I say it with my mouth, and no page holds it.
 
 The Bard of the Circle:
 
-```poetry {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
+```verse {form=lay meter="iambic tetrameter" rhyme=AABB lang=en}
 It's said. The page is white. The hall
 has heard it, and it holds you. All
 the houses heard. Put on the crown.

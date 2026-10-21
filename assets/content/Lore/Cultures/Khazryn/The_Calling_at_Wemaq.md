@@ -25,7 +25,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 
 : The Calling at Vomek {#calling}
 
-```poetry {form=oqod lang=en}
+```verse {form=oqod lang=en}
 Wind off the grass. First wind. The one that comes green.
 We are the Kesukur, and these are not our dead,
 and we call them, because the ones whose dead they are

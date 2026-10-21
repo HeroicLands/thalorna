@@ -23,7 +23,7 @@ data:
 
 : Folmhnura {#hnura}
 
-```poetry {form=hnura lang=en}
+```verse {form=hnura lang=en}
 I stand.
 Mark that I stand, as at the ting.
 This is the seventh night.

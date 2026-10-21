@@ -27,7 +27,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The Opening {#opening}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Tonight we light one fire out of many vessels,
   and every vessel goes home with a piece of it.
 Hold yours to the pile. Do not hurry it.
@@ -44,7 +44,7 @@ There is a king in the song. The chronicle has his name.
 
 : The Lamp {#lamp}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 He came down the river road out of the hills, the way the villages came,
   ten years behind them.
 A staff, a bowl, a cloth, and ash on his arms and his brow.
@@ -87,7 +87,7 @@ He went out of the door with the lamp lit, and the door shut,
 
 : The West Bank {#west-bank}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Nobody goes onto the west bank at dusk.
   He went at dusk, with the lamp.
 First he made a fire on the road above the east bank, where a drover's fire draws,
@@ -134,7 +134,7 @@ The fire went out on the ford.
 
 : The Fires {#fires}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Twelve lines the first night, and twelve out.
   A hundred by the ninth day.
 On the ninth day a priest came up the river road from Rajepur, the king's town,
@@ -266,7 +266,7 @@ After the rains there is no dry grass until the next year,
 
 : The One That Took {#one-that-took}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Late in the season, with the cloud on the hills every evening,
   he lit the lamp at the road-fire at dusk.
 He went down into the east bank grass, the near half,
@@ -309,7 +309,7 @@ The rains came out of the hills some days after and down the river,
 
 : The Ember {#ember}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 He walked up the river road to the last village with the pot in the crook of his arm,
   and the lamp in his hand.
 He gave Padmika the lamp. She put it back on the beam above the door,

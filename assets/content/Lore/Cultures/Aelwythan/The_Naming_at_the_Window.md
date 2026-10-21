@@ -28,7 +28,7 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 
 : The Naming {#naming}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 I set the candle. Judge, here is the light.
 It is the first night, and the door is shut,
 And thy door shut, and all the temple dark;

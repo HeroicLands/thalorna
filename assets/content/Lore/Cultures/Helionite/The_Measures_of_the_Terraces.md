@@ -31,7 +31,7 @@ The schools have argued with the first half since there have been schools. Its g
 
 : The Measures of the Terraces {#poem}
 
-```poetry {form=didactic-verse lang=en}
+```verse {form=didactic-verse lang=en}
 Weaver at the wheel, and you, Keeper of the book with the stars around it,
 I am a man of the high terraces, and I have no learning but the year,
 and I will sing the year, and before the year the thing that made it,

@@ -28,7 +28,7 @@ The southern ports sing the song shorter. In [[place-jalnazdal|Jalnasdal]] and [
 
 : The Song of the Last Shrine {#song}
 
-```poetry {form=voyage-song rhyme=ABABABCC lang=en}
+```verse {form=voyage-song rhyme=ABABABCC lang=en}
 Wayfarer, lord of every hallowed road,
 you with the serpent staff and the needle crown,
 I ask no wind of you. I ask what's owed:

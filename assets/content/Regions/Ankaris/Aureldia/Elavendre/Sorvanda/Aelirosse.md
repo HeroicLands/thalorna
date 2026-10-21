@@ -41,7 +41,7 @@ One of them, [[lore-seventowers|The Seven Towers]], stands in the makers' halls 
 
 : We Do Not Build
 
-```poetry {form=elegy lang=en}
+```verse {form=elegy lang=en}
 We do not build. We have never wished to; the forest builds itself,
   and what we make we sing, and what we sing does not fall down.
 But we stood a long while in those ways and said nothing,

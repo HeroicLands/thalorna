@@ -29,7 +29,7 @@ The women stand on the mound and keep the time with the heel on the frozen groun
 
 : Mahnreth meldra {#mahnryth-meldra}
 
-```poetry {form=meldra lang=en}
+```verse {form=meldra lang=en}
 _The one who leads:_
 
 Put your heel down. The ground is hard enough.

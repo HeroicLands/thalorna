@@ -82,7 +82,7 @@ And in the month of the crest, each year, he raised the lament. He had no house 
 
 : The Lament at the Well {#lament}
 
-```poetry {form=tazlet lang=en}
+```verse {form=tazlet lang=en}
 Raise it. There is nobody here to raise it, so I raise it.
 I raise it over myself, as the poor do when the club has failed and the house is empty.
 At the island the water is standing on the stair. I know the day; the day is on the stick.
@@ -148,7 +148,7 @@ The old man read it to him from his head, standing, with the queue listening. Gu
 
 : The Column of the Struck Years {#column}
 
-```poetry {form=litany lang=en}
+```verse {form=litany lang=en}
 I had my hand on the stone. This is where the water stood.
 
 Year two of […]. The water stood at twelve cubits and one palm.
@@ -217,7 +217,7 @@ Then the reading of the third year was read, nine cubits and three palms, procla
 
 : The Asking {#asking}
 
-```poetry {form=litany lang=en}
+```verse {form=litany lang=en}
 You to whom the dead owes: stand, and be asked.
 Will you say _I require no more_? The scribe writes it.
 Will you say no? It is lawful, and the scribe writes it.

@@ -31,7 +31,7 @@ The contract was sealed at the end of that year, and the lady went to Kalveza an
 
 : The Song {#song}
 
-```poetry {form=dawn-song rhyme=ABAB lang=en}
+```verse {form=dawn-song rhyme=ABAB lang=en}
 THE LOVER
 The lamp is low; the lane is going grey;
 I hear the first carts on the river road.

@@ -37,7 +37,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : Before the Cord {#before}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, what was there before the field?
   Light, and the light had no edge.
 There was no here, because there was no there;
@@ -63,7 +63,7 @@ and in front of it the first measured ground,
 
 : The Knots {#knots}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, how many knots are in the cord?
   As many as there are things.
 He tied a knot for the sky and drew the vault
@@ -95,7 +95,7 @@ The school says: long. The school says: it is done.
 
 : The Four Doors {#doors}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, where did the water come from?
   From under the ice, through four doors.
 When the wall was cut he laid the ice on it
@@ -129,7 +129,7 @@ Under the stone the water does not freeze.
 
 : The Keeping {#keeping}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, when the measuring was done, who kept it?
   His sister. Say her name.
 Mahajaya, who had the scale in her hands
@@ -161,7 +161,7 @@ The recitation says both, and the altar you stand before
 
 : The Breaking {#breaking}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, if everything was measured and kept,
   why is there a second age?
 Because a kept thing seizes. Listen.
@@ -210,7 +210,7 @@ they will tell you at the roadside, with the vessel open,
 
 : The Breath Not Measured {#breath}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, if everything was measured, what is death?
   The one measure he did not take.
 When he measured a body, knot by knot,
@@ -265,7 +265,7 @@ The flame-priests burned half of it anyway.
 
 : The Same Cord {#same}
 
-```poetry {form=cosmogony lang=en}
+```verse {form=cosmogony lang=en}
 Master, will this age end?
   Yes. Everything measured is kept, and everything kept seizes.
 One day the stones will have grown into a wall again

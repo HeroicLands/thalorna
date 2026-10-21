@@ -26,7 +26,7 @@ The verse is codified, like the rest of Vedyari devotional making: couplets of a
 
 : The Opening {#opening}
 
-```poetry {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
+```verse {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
 In this hall, before the altar of stone,
   the sabhra sits again.
 On this day, in the year the count has reached,
@@ -50,7 +50,7 @@ _Here the line is recited king by king, from the ancestor's heir to the seventh 
 
 : The Six {#six}
 
-```poetry {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
+```verse {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
 Now come the six, each worse than him before;
   the kingdom bore them all.
 
@@ -97,7 +97,7 @@ He left no son to stand before the stone;
 
 : The Forty Days {#forty-days}
 
-```poetry {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
+```verse {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6,10,6" lang=en}
 The people did not look for one to crown;
   they came here, to this door.
 They asked the priest who kept the shaper's house
@@ -121,14 +121,14 @@ It bound the villages to this one hall,
 
 : The Roll and the Acknowledgment {#acknowledgment}
 
-```poetry {form=recitation meter="couplets of ten and six" syllables="10,6" lang=en}
+```verse {form=recitation meter="couplets of ten and six" syllables="10,6" lang=en}
 The roll runs on; no king comes to the stone.
   This generation's name:
 ```
 
 _Here the keeper speaks the name entered in the genealogy for this generation, the one who would have inherited had the line gone on, and closes._
 
-```poetry {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6" lang=en}
+```verse {form=recitation meter="couplets of ten and six" syllables="10,6,10,6,10,6" lang=en}
 What ended once may end again: this too,
   if it should earn its end.
 The Mahanodi kingdom is no more;

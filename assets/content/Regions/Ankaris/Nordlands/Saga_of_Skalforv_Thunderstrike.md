@@ -17,7 +17,7 @@ Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvth
 
 : Saga of Skalforv Thunderstrike {#saga}
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Beat wood upon the benches;
 bend ears toward the tale.
 Cups wait for the telling;

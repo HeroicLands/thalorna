@@ -23,7 +23,7 @@ The tally runs from the four who died since the thaw, through the dead with deed
 
 : Eichthúl eldskorn {#eichthuleldskorn}
 
-```poetry {form=eldskorn lang=en}
+```verse {form=eldskorn lang=en}
 _The eldest of the near hearth has the staff._
 
 These are the dead of the Eichthúl. Put the children where they can hear.

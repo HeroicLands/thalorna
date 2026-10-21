@@ -71,7 +71,7 @@ Thrunvald is most famously shown wielding his hammer, [[lore-thrunhamarr|Thrúnh
 
 : The Hammer Raised
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Lift high the hammer;
 the sea has a voice.
 Shingle gives speech;

@@ -34,7 +34,7 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The Spit {#spit}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 The spit at Sandyapur is a mile of sand
 and nothing on it that a wind cannot move.
 Behind it, that night, the boats.
@@ -87,7 +87,7 @@ The spit keeps it.
 
 : The Fan of Stones {#stones}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 Where the hills open onto the road the ground is stones,
 a fan of them, spread the way a river spreads them,
 and the river gone. Nothing grows on it.
@@ -141,7 +141,7 @@ The stones keep it.
 
 : The Road {#road}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 The road is a wagon's width of beaten ground
 from the salt to the sand,
 and for half a day it does not gho where it went.
@@ -195,7 +195,7 @@ The chain keeps it.
 
 : The Wall {#wall}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 The wall at Ludrapur is mud brick on a stone footing,
 a mile round, four gates,
 and it turns the wind, which is what a wall is for,
@@ -242,7 +242,7 @@ The wall keeps it.
 
 : The House {#house}
 
-```poetry {form=lament lang=en}
+```verse {form=lament lang=en}
 The temple at Ludrapur is stone, and it stands.
 It is the one roof left in the town, and the emptiest.
 

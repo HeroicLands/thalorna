@@ -24,7 +24,7 @@ data:
 
 : The Lament of Haulonna {#lament}
 
-```poetry {form=neltava lang=en}
+```verse {form=neltava lang=en}
 Word came down from the north today. One of us came down with it.
   She went up alone in the spring and came back in the leaf-fall, and she says: it stands.
 It stands as it stood the morning after. Nothing in it has moved.

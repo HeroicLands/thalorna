@@ -26,7 +26,7 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reig
 
 : The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
-```poetry {form=recitation lang=en}
+```verse {form=recitation lang=en}
 His guard went from the barrack to the grain
   while he sat in the hall.
 His cook had neighbors in the hungry lanes

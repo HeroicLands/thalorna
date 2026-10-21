@@ -187,7 +187,7 @@ Stand up now, and say it back to me, a line at a time. You will know it by the n
 
 : The Declaration {#declaration}
 
-```poetry {form=legend lang=en}
+```verse {form=legend lang=en}
 Órashion has iron and no road.
   That is what we lack.
 Argirteikhos has the pass and the silver, and no bread.

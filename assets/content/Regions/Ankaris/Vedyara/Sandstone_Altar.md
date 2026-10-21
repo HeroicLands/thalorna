@@ -20,7 +20,7 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names the altar at
 
 : Each King Hallowed There {#recitation-excerpt}
 
-```poetry {form=recitation lang=en}
+```verse {form=recitation lang=en}
 The altar of this hall was cut for them;
   each king was hallowed there.
 ```

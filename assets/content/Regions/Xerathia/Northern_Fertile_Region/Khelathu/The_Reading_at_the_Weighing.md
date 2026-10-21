@@ -22,7 +22,7 @@ Among the [[lore-khelathiclt|Khelathi]], temple scribes keep The Reading at the 
 
 : The Reading at the Weighing {#reading}
 
-```poetry {form=litany lang=en}
+```verse {form=litany lang=en}
 _Shelmu zetem._ Let those who follow hear.
 Let the household come in; let the creditor come in.
 _\[The reader names the year of the reign, the season, the day, and the dead.\]_

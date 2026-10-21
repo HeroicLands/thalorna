@@ -51,7 +51,7 @@ Khalvan of Ramk-sumád laid courses. His claim of work for the lower hall stands
 
 : The Courses of Khalvan {#khalvan}
 
-```poetry {form=bazan lang=en}
+```verse {form=bazan lang=en}
 The course, the layer of the course, the laying:
 three, and the record keeps two.
 The course keeps itself.
@@ -87,7 +87,7 @@ Thimir of Marg-buráth carried the name of her grandmother's mother, who had cut
 
 : The Courses of Thimir {#thimri}
 
-```poetry {form=bazan lang=en}
+```verse {form=bazan lang=en}
 The hand that cut it is in the mountain.
 The cut is the mountain,
 as far as it goes, and it goes as far as you walk.

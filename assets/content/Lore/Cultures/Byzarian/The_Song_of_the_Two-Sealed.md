@@ -28,7 +28,7 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 
 : The Song of the Two-Sealed {#song}
 
-```poetry {form=borderer-song lang=en}
+```verse {form=borderer-song lang=en}
 Sit down by the fire of the fort, you borderers of the springs,
 and you who come in from the grass to winter under the truce.
 The pass is shut with the snow; nothing crosses the gate tonight.

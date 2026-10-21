@@ -23,7 +23,7 @@ At [[place-vithgard|Vithgard]]'s great hov of [[affiliation-motefnir|Mótefnir]]
 
 : Motmál {#motmal}
 
-```poetry {form=speech-poem lang=en}
+```verse {form=speech-poem lang=en}
 The ground was there,
 and the gray sea on it,
 and the weather went over both, with nobody under.

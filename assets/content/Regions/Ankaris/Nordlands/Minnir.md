@@ -18,7 +18,7 @@ The faith keeps the well in a rite. The [Rite of Minnir's Well]{.name data-type=
 
 : The Mouth Beside the Well
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Dark under the brim,
 a darkness paid for;
 under the darkness,

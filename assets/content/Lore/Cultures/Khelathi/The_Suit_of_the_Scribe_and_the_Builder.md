@@ -52,7 +52,7 @@ _\[He lays the bricks as he speaks. The wall is a painted cloth on a frame, rais
 
 : The Builder's Boast {#boast}
 
-```poetry {form=genzat lang=en}
+```verse {form=genzat lang=en}
 I measured the ground with my arm, from the elbow to the end of the finger.
 There was no other cubit. Mine is the cubit.
 I took the mud of the bank and I pressed it; I pressed it in a frame of my hands,
@@ -216,7 +216,7 @@ _\[The boys behind the painted water lean the cloth. All the players lean. The f
 
 : The Scribe's Pleading {#pleading-scribe}
 
-```poetry {form=genzat lang=en}
+```verse {form=genzat lang=en}
 Let the account be read as it stands, and let nothing unwritten be read.
 First entry. Ground. Empty.
 Witnessed by the water, which was there, and does not count.
@@ -240,7 +240,7 @@ since I have to eat with him afterward.
 
 : The Builder's Pleading {#pleading-builder}
 
-```poetry {form=genzat lang=en}
+```verse {form=genzat lang=en}
 I did not write it. I made it. Writing is his.
 I set a brick on a brick, and a brick on those.
 The wall is the witness. It stood there the whole time.
@@ -300,7 +300,7 @@ While the Builder was counting his bricks a second time out loud and the Scribe 
 
 : The Scale Tries the Doors {#doors}
 
-```poetry {form=genzat lang=en}
+```verse {form=genzat lang=en}
 There are four doors, and I will try each, and I will try them in order.
 Perform. What was promised? Nothing was promised. There is nothing to perform. The door is shut.
 Settle. What is owed, that something else might be given for it? Nothing is owed. The door is shut.
@@ -336,7 +336,7 @@ _\[The Scale speaks. The Scribe writes on a brick, because the tablets are mud.\
 
 : The First Lease {#lease}
 
-```poetry {form=genzat lang=en}
+```verse {form=genzat lang=en}
 Entered on the first ground, on the day there was one house.
 Parties: the Builder, who is a stranger; the Scribe, who is a stranger;
 and I, who do the scale.
@@ -399,7 +399,7 @@ _\[Thuba'i, to the benches, the jar up. The benches answer every line with the s
 
 : The Song of the First Rent {#song}
 
-```poetry {form=genzat lang=en}
+```verse {form=genzat lang=en}
 The Builder built it, and the door stuck.
     Put your shoulder to it. Put your shoulder to it.
 The Scribe moved in, and he wrote it after.

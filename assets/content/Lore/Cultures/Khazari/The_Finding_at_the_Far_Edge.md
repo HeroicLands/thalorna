@@ -113,7 +113,7 @@ The founding inscription was cut in the thaw of the year of the city 2022, when 
 
 : The Founding Inscription of Varíg {#inscription}
 
-```poetry {form=pirzath lang=en}
+```verse {form=pirzath lang=en}
 Behind the third rib of the sea-face the cave Fikir of Rabad-runát found.
 In the year of the city two thousand and twenty-one it was found.
 A season from the water the finder listened.

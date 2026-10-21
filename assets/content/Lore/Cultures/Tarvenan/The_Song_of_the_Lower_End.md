@@ -29,7 +29,7 @@ The poem is in verse paragraphs of uneven length, each held on one vowel at the 
 
 : The Song of the Lower End {#oldemo}
 
-```poetry {form=oldemo lang=en}
+```verse {form=oldemo lang=en}
 I was there. I carried stone.
 I was a herd boy with a sling, and the sling was all I owned.
 Sit. The meat is eaten, and the fire is burning low.

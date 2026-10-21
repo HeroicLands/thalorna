@@ -31,7 +31,7 @@ The prelude stands outside the count. The first letters of the stanzas after it 
 
 : The Hymn of the First Terms {#hymn}
 
-```poetry {form=kumetin lang=en}
+```verse {form=kumetin lang=en}
 The year stands on its threshold, and the door is in two leaves:
 one leaf is the year that is owed, and one is the year that is lent.
 Keeper of the Gates, of the two faces, serene to the giver, stern to the taker,

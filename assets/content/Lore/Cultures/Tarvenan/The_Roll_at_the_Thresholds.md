@@ -23,7 +23,7 @@ At the end the captain and the company say the contract over before the stone, a
 
 : The Roll at the Thresholds {#roll}
 
-```poetry {form=litany lang=en}
+```verse {form=litany lang=en}
 THE CAPTAIN
 Is the stone here?
 THE COMPANY

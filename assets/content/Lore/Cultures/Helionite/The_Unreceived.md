@@ -32,7 +32,7 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 : The Entry of the Levy {#entry}
 
-```poetry {form=choral-ode lang=en}
+```verse {form=choral-ode lang=en}
 Up from the grey grass, ranks of the city of the Keeper,
 up from the place where we lay down and were not lifted,
 stand to the line as we stood in the morning,
@@ -59,7 +59,7 @@ The chorus stands in its ranks. The judge of the Temple comes on and walks the r
 
 : The First Ode {#first}
 
-```poetry {form=choral-ode lang=en}
+```verse {form=choral-ode lang=en}
 Turn.
 There is a measure the gods set on the fire,
 how much a man may hold in his two hands and live.
@@ -92,7 +92,7 @@ The herald of Korinthea comes to the ring with his staff. He calls across the st
 
 : The Lament at the Ring {#lament}
 
-```poetry {form=choral-ode lang=en}
+```verse {form=choral-ode lang=en}
 Herald.
 Men of the levy, the city asks for you.
 I stand at the ring with the staff and the city asks for you.
@@ -146,7 +146,7 @@ The mother goes. The herald stays at the ring through the night, and does not cr
 
 : The Second Ode {#second}
 
-```poetry {form=choral-ode lang=en}
+```verse {form=choral-ode lang=en}
 Turn.
 The wrong done in the open is answered in the open.
 A man strikes a man in the agorin, and the agorin saw it,
@@ -179,7 +179,7 @@ The herald leaves for the city. The judge records the stones and goes. The choru
 
 : The Exit {#exit}
 
-```poetry {form=choral-ode lang=en}
+```verse {form=choral-ode lang=en}
 The day goes over. The light goes down on the western road.
 The carters go round us on the bend, and look the other way.
 Soon we lie down in the grey grass for the year,

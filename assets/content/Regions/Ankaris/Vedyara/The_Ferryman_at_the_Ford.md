@@ -107,7 +107,7 @@ Then they swore it. Every village that was on the terrace swore it, each in its 
 
 : The Oath on the Terrace {#oath}
 
-```poetry {form=oath lang=en}
+```verse {form=oath lang=en}
 We feed the man who holds the ford for all.
   A measure from each hearth,
 whether the river is up or down,

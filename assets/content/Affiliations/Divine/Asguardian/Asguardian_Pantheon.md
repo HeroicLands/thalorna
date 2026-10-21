@@ -94,7 +94,7 @@ Beside the clergy gho the _velvur_, itinerant seeresses bound to no hov, who tra
 
 : The Ten and the Last Muster
 
-```poetry {form=epic lang=en}
+```verse {form=epic lang=en}
 Gather the hall;
 hear the Ten named.
 Cup follows cup;

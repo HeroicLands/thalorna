@@ -23,7 +23,7 @@ For a bone. You say it with the splint in your hand and the bast in your teeth, 
 
 : The first charm, for a bone {#bone}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 A boar bit an oak
 in the old wood,
 broke his tusk in the bark
@@ -47,7 +47,7 @@ For a crossing. You say it on the bank with the pole in your hands, and whoever 
 
 : The second charm, for a crossing {#crossing}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 The bear went over
 at the ford, in the old thaw,
 a pine across her mouth.
@@ -69,7 +69,7 @@ For a fever. The fever asks questions. You say this over the sick one and you an
 
 : The third charm, for a fever {#fever}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 **Vethwin** went under,
 first of the Shamans,
 and a voice there had a word for her,
@@ -90,7 +90,7 @@ For the night. The one who has broken nothing today lays the ash. That is usuall
 
 : The fourth charm, for the night {#night}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 Three came round a hearth
 in the old wood, hungry,
 round and round.
@@ -123,7 +123,7 @@ For a goat that holds her milk. Anybody with two hands says it, and the slave at
 
 : The fifth charm, for a goat {#goat}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 A goat in the old wood
 held her milk three mornings,
 stood like a stone, and held.
@@ -147,7 +147,7 @@ These are not counted among the nine. No old days stand behind them; they are wh
 
 : The small charms, not counted {#small}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 _For a splinter:_
 
 Yarrow, chewed, on it,
@@ -231,7 +231,7 @@ For a birth. You say it when the cord is cut and the child has cried, and you sa
 
 : The sixth charm, for a birth {#birth}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 The first ones came
 out of the trees,
 out of the dark of the wood,
@@ -258,7 +258,7 @@ For a death. You say it over the body before the women raise the _meldra_, and y
 
 : The seventh charm, for a death {#death}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 The first ones went
 back into the trees,
 into the dark of the wood,
@@ -285,7 +285,7 @@ For the taking. You say it at the edge of the wood before the trapping and the c
 
 : The eighth charm, for the taking {#taking}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 A man in the old wood
 took the doe and the fawn,
 the tree and the seedling,
@@ -314,7 +314,7 @@ The ninth. For a Shaman gone under in _skomel_ and not back by morning. You lear
 
 : The ninth charm, in its opening {#ninth}
 
-```poetry {form=vreld lang=en}
+```verse {form=vreld lang=en}
 A Shaman in the old wood
 went under at dusk,
 and the kin kept her warm
