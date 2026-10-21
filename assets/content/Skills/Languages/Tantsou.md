@@ -18,6 +18,10 @@ data:
       holds: "The court of heaven, its bureaus and law, and the cycle of life."
     - {name: Beasts, holds: "The beasts of the calendar and the Celestial Order."}
     - {name: Doing and describing, holds: "The verbs and the qualities that open compound names."}
+    - {name: Senses and passions, holds: "The senses, the passions and the loves."}
+    - {name: The body, holds: "The parts of the body."}
+    - {name: Needs and common things, holds: "Food, drink, shelter and the things of a household."}
+    - {name: Kin, holds: "Family and kin."}
   grammar: {verbs: {invariant: true}}
   words:
     - {form: ho, class: "n", field: "Sky, land and the elements", gloss: "fire", concept: fire}
@@ -103,7 +107,8 @@ data:
     - form: lei
       class: "n"
       field: "Heaven, law and the order of things"
-      gloss: "spirit, soul, vital energy"
+      gloss: "breath, spirit"
+      concept: breath
     - form: sei
       class: "n"
       field: "Heaven, law and the order of things"
@@ -201,6 +206,514 @@ data:
       class: "n"
       field: "People, rank and office"
       gloss: '"Sacred blade": the ceremonial dagger of a Tseising, often a family heirloom'
+    - form: hing
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to see, to look"
+      concept: see-verb
+    - form: jie
+      class: "n"
+      field: "Senses and passions"
+      gloss: "sight, view; what is seen"
+      concept: see-noun
+    - form: ten
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to hear, to listen"
+      concept: hear-verb
+    - form: yong
+      class: "n"
+      field: "Senses and passions"
+      gloss: "sound, voice"
+      concept: hear-noun
+    - {form: sin, class: "v", field: "Senses and passions", gloss: "to smell", concept: smell-verb}
+    - form: fai
+      class: "n"
+      field: "Senses and passions"
+      gloss: "smell, scent, odour"
+      concept: smell-noun
+    - form: tsie
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to taste"
+      concept: taste-verb
+    - form: ruo
+      class: "n"
+      field: "Senses and passions"
+      gloss: "taste, flavour"
+      concept: taste-noun
+    - form: gai
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to touch, to feel with the hand"
+      concept: touch-verb
+    - {form: hao, class: "n", field: "The body", gloss: "head", concept: head}
+    - {form: sao, class: "n", field: "The body", gloss: "hair of the head", concept: hair}
+    - {form: lan, class: "n", field: "The body", gloss: "face", concept: face}
+    - {form: ching, class: "n", field: "The body", gloss: "eye", concept: eye}
+    - {form: lui, class: "n", field: "The body", gloss: "ear", concept: ear}
+    - {form: fong, class: "n", field: "The body", gloss: "nose", concept: nose}
+    - {form: tsong, class: "n", field: "The body", gloss: "mouth", concept: mouth}
+    - {form: ga, class: "n", field: "The body", gloss: "tooth", concept: tooth}
+    - {form: lie, class: "n", field: "The body", gloss: "tongue", concept: tongue}
+    - {form: beng, class: "n", field: "The body", gloss: "neck, throat", concept: neck}
+    - {form: kong, class: "n", field: "The body", gloss: "shoulder", concept: shoulder}
+    - {form: bin, class: "n", field: "The body", gloss: "arm", concept: arm}
+    - {form: ting, class: "n", field: "The body", gloss: "finger", concept: finger}
+    - {form: hong, class: "n", field: "The body", gloss: "chest, breast-bone", concept: chest}
+    - {form: nen, class: "n", field: "The body", gloss: "breast", concept: breast}
+    - {form: tsen, class: "n", field: "The body", gloss: "heart; seat of feeling", concept: heart}
+    - {form: tuo, class: "n", field: "The body", gloss: "belly", concept: belly}
+    - {form: shai, class: "n", field: "The body", gloss: "back", concept: back}
+    - {form: kuen, class: "n", field: "The body", gloss: "hip", concept: hip}
+    - {form: jo, class: "n", field: "The body", gloss: "leg", concept: leg}
+    - {form: dai, class: "n", field: "The body", gloss: "foot", concept: foot}
+    - {form: lo, class: "n", field: "The body", gloss: "skin, hide", concept: skin}
+    - {form: ko, class: "n", field: "The body", gloss: "bone", concept: bone}
+    - {form: chui, class: "n", field: "The body", gloss: "blood", concept: blood}
+    - {form: muen, class: "n", field: "The body", gloss: "flesh, meat", concept: flesh}
+    - {form: ta, class: "n", field: "Needs and common things", gloss: "food, meal", concept: food}
+    - {form: sho, class: "v", field: "Needs and common things", gloss: "to eat", concept: eat}
+    - {form: sa, class: "n", field: "Needs and common things", gloss: "drink", concept: drink-noun}
+    - form: hui
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to drink"
+      concept: drink-verb
+    - form: fou
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to breathe"
+      concept: breathe
+    - form: min
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to sleep"
+      concept: sleep-verb
+    - {form: liao, class: "n", field: "Needs and common things", gloss: "urine", concept: urine}
+    - form: bou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "dung, excrement"
+      concept: dung
+    - form: jin
+      class: "n"
+      field: "Needs and common things"
+      gloss: "warmth; warm"
+      concept: warmth
+    - {form: gan, class: "n", field: "Needs and common things", gloss: "table", concept: table}
+    - {form: tong, class: "n", field: "Needs and common things", gloss: "floor", concept: floor}
+    - {form: zheng, class: "n", field: "Needs and common things", gloss: "wall", concept: wall}
+    - {form: zhuen, class: "n", field: "Needs and common things", gloss: "roof", concept: roof}
+    - form: zhong
+      class: "n"
+      field: "Needs and common things"
+      gloss: "house, home, abode"
+      concept: abode
+    - {form: sen, class: "n", field: "Needs and common things", gloss: "door, gate", concept: door}
+    - form: kin
+      class: "n"
+      field: "Needs and common things"
+      gloss: "lock; to lock"
+      concept: lock
+    - {form: ling, class: "n", field: "Needs and common things", gloss: "cup", concept: cup}
+    - {form: gwou, class: "n", field: "Needs and common things", gloss: "bowl", concept: bowl}
+    - {form: rai, class: "n", field: "Needs and common things", gloss: "spoon", concept: spoon}
+    - {form: ban, class: "n", field: "Needs and common things", gloss: "pot", concept: pot}
+    - {form: shen, class: "n", field: "Needs and common things", gloss: "cloth", concept: cloth}
+    - {form: tsi, class: "num", field: "Colour and number", gloss: "one", concept: one}
+    - {form: len, class: "num", field: "Colour and number", gloss: "two", concept: two}
+    - {form: tao, class: "num", field: "Colour and number", gloss: "three", concept: three}
+    - {form: fei, class: "num", field: "Colour and number", gloss: "four", concept: four}
+    - {form: jou, class: "num", field: "Colour and number", gloss: "six", concept: six}
+    - {form: tai, class: "num", field: "Colour and number", gloss: "seven", concept: seven}
+    - {form: mo, class: "num", field: "Colour and number", gloss: "eight", concept: eight}
+    - {form: gou, class: "num", field: "Colour and number", gloss: "hundred", concept: hundred}
+    - {form: keng, class: "num", field: "Colour and number", gloss: "thousand", concept: thousand}
+    - {form: tsan, class: "num", field: "Colour and number", gloss: "half", concept: half}
+    - {form: chong, class: "adj", field: "Colour and number", gloss: "many, much", concept: many}
+    - {form: bo, class: "adj", field: "Colour and number", gloss: "few, little", concept: few}
+    - form: mong
+      class: "adj"
+      field: "Colour and number"
+      gloss: "none, nothing; not"
+      concept: none
+    - {form: jao, class: "adj", field: "Colour and number", gloss: "yellow", concept: yellow}
+    - form: kui
+      class: "adj"
+      field: "Colour and number"
+      gloss: "grey, ash-coloured"
+      concept: grey
+    - {form: jan, class: "adj", field: "Colour and number", gloss: "brown", concept: brown}
+    - {form: na, class: "n", field: "Kin", gloss: "mother", concept: mother}
+    - {form: to, class: "n", field: "Kin", gloss: "father", concept: father}
+    - {form: dong, class: "n", field: "Kin", gloss: "brother", concept: brother}
+    - {form: nin, class: "n", field: "Kin", gloss: "sister", concept: sister}
+    - {form: dei, class: "v", field: "Doing and describing", gloss: "to be", concept: be}
+    - {form: kai, class: "v", field: "Doing and describing", gloss: "to have", concept: have}
+    - {form: rou, class: "v", field: "Doing and describing", gloss: "to go", concept: go}
+    - {form: nao, class: "v", field: "Doing and describing", gloss: "to come", concept: come}
+    - {form: zhan, class: "v", field: "Doing and describing", gloss: "to give", concept: give}
+    - {form: dui, class: "v", field: "Doing and describing", gloss: "to take", concept: take}
+    - {form: shao, class: "v", field: "Doing and describing", gloss: "to make", concept: make}
+    - {form: tsiao, class: "v", field: "Doing and describing", gloss: "to do", concept: do}
+    - {form: ya, class: "v", field: "Doing and describing", gloss: "to say", concept: say}
+    - form: tsuen
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to speak, to talk"
+      concept: speak
+    - {form: tsing, class: "v", field: "Doing and describing", gloss: "to know", concept: know}
+    - {form: sai, class: "v", field: "Doing and describing", gloss: "to think", concept: think}
+    - form: yei
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to want, to desire"
+      concept: want
+    - {form: shan, class: "v", field: "Doing and describing", gloss: "to live", concept: live}
+    - {form: fen, class: "v", field: "Doing and describing", gloss: "to die", concept: die}
+    - {form: tuen, class: "v", field: "Doing and describing", gloss: "to walk", concept: walk}
+    - {form: ruen, class: "v", field: "Doing and describing", gloss: "to run", concept: run}
+    - {form: den, class: "v", field: "Doing and describing", gloss: "to sit", concept: sit}
+    - {form: ki, class: "v", field: "Doing and describing", gloss: "to stand", concept: stand}
+    - form: yuen
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to lie down"
+      concept: lie-down
+    - {form: gwen, class: "v", field: "Doing and describing", gloss: "to hold", concept: hold}
+    - form: hai
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to bring, to carry"
+      concept: bring
+    - form: ra
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to put, to set down"
+      concept: put
+    - {form: zhing, class: "v", field: "Doing and describing", gloss: "to find", concept: find}
+    - {form: shin, class: "v", field: "Doing and describing", gloss: "to lose", concept: lose}
+    - {form: ka, class: "v", field: "Doing and describing", gloss: "to open", concept: open}
+    - form: seng
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to close, to shut"
+      concept: close
+    - {form: chao, class: "v", field: "Doing and describing", gloss: "to begin", concept: begin}
+    - form: luen
+      class: "v"
+      field: "Doing and describing"
+      gloss: "to end, to finish"
+      concept: end
+    - {form: hin, class: "n", field: "Senses and passions", gloss: "love, to cherish"}
+    - {form: jeng, class: "n", field: "The body", gloss: "joint, knot; where a limb bends"}
+    - {form: mi, class: "n", field: "Kin", gloss: "woman; female"}
+    - {form: chan, class: "n", field: "Kin", gloss: "man; male"}
+    - {form: chuo, class: "num", field: "Colour and number", gloss: "rank, place in order"}
+    - {form: si, class: "n", field: "Needs and common things", gloss: "pearl"}
+    - {form: do, class: "n", field: "Needs and common things", gloss: "pine"}
+    - {form: ri, class: "n", field: "Needs and common things", gloss: "sail"}
+    - {form: ma, class: "n", field: "Needs and common things", gloss: "song"}
+    - {form: da, class: "n", field: "Needs and common things", gloss: "feather"}
+    - {form: rei, class: "n", field: "Needs and common things", gloss: "dew"}
+    - {form: di, class: "n", field: "Needs and common things", gloss: "drum"}
+    - {form: tei, class: "n", field: "Needs and common things", gloss: "ink"}
+    - {form: go, class: "n", field: "Needs and common things", gloss: "gourd"}
+    - {form: ti, class: "n", field: "Needs and common things", gloss: "bell"}
+    - {form: ro, class: "n", field: "Needs and common things", gloss: "reed"}
+    - {form: ni, class: "n", field: "Needs and common things", gloss: "willow"}
+    - {form: ba, class: "n", field: "Needs and common things", gloss: "plum"}
+    - {form: li, class: "n", field: "Needs and common things", gloss: "silk"}
+    - {form: "no", class: "n", field: "Needs and common things", gloss: "honey"}
+    - {form: ran, class: "n", field: "Needs and common things", gloss: "lacquer"}
+    - {form: shi, class: "n", field: "Needs and common things", gloss: "comb"}
+    - form: Gaihuo
+      class: "n"
+      field: "Senses and passions"
+      gloss: "touch"
+      concept: touch-noun
+      built: [gai, huo]
+    - form: Hotsen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "wrath"
+      concept: wrath
+      built: [ho, tsen]
+    - form: Hatsen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "envy"
+      concept: envy
+      built: [ha, tsen]
+    - form: Lengtsen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "hope"
+      concept: hope
+      built: [leng, tsen]
+    - form: Yeirong
+      class: "n"
+      field: "Senses and passions"
+      gloss: "greed"
+      concept: greed
+      built: [yei, rong]
+    - form: Daotsong
+      class: "n"
+      field: "Senses and passions"
+      gloss: "boasting"
+      concept: boasting
+      built: [dao, tsong]
+    - form: Daotsei
+      class: "n"
+      field: "Senses and passions"
+      gloss: "pride"
+      concept: pride
+      built: [dao, tsei]
+    - form: Rinyei
+      class: "n"
+      field: "Senses and passions"
+      gloss: "lust"
+      concept: lust
+      built: [rin, yei]
+    - form: Singtsen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "despair"
+      concept: despair
+      built: [sing, tsen]
+    - form: Jongtsen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "disappointment"
+      concept: disappointment
+      built: [jong, tsen]
+    - form: Tengtsen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "faith"
+      concept: faith
+      built: [teng, tsen]
+    - form: Rinhin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "romantic love (eros)"
+      concept: love-eros
+      built: [rin, hin]
+    - form: Douhin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "friendship (philia)"
+      concept: love-philia
+      built: [dou, hin]
+    - form: Kenhin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "love of family (storge)"
+      concept: love-storge
+      built: [ken, hin]
+    - form: Ronghin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "selfless, universal love (agape)"
+      concept: love-agape
+      built: [rong, hin]
+    - form: Tsongluo
+      class: "n"
+      field: "The body"
+      gloss: "lip"
+      concept: lip
+      built: [tsong, luo]
+    - form: Binjeng
+      class: "n"
+      field: "The body"
+      gloss: "elbow"
+      concept: elbow
+      built: [bin, jeng]
+    - form: Tingwei
+      class: "n"
+      field: "The body"
+      gloss: "fingernail"
+      concept: nail
+      built: [ting, wei]
+    - form: Jojeng
+      class: "n"
+      field: "The body"
+      gloss: "knee"
+      concept: knee
+      built: [jo, jeng]
+    - form: Daiting
+      class: "n"
+      field: "The body"
+      gloss: "toe"
+      concept: toe
+      built: [dai, ting]
+    - form: Tenglei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "air"
+      concept: air
+      built: [teng, lei]
+    - form: Minmei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "sleep"
+      concept: sleep-noun
+      built: [min, mei]
+    - form: Liaojong
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to urinate"
+      concept: urinate
+      built: [liao, jong]
+    - form: Boujong
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to defecate"
+      concept: defecate
+      built: [bou, jong]
+    - form: Zhuenhou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "shelter"
+      concept: shelter
+      built: [zhuen, hou]
+    - form: Denmou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "chair"
+      concept: chair
+      built: [den, mou]
+    - form: Yuenmou
+      class: "n"
+      field: "Needs and common things"
+      gloss: "bed"
+      concept: bed
+      built: [yuen, mou]
+    - form: Kinja
+      class: "n"
+      field: "Needs and common things"
+      gloss: "key"
+      concept: key
+      built: [kin, ja]
+    - form: Lengsen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "window"
+      concept: window
+      built: [leng, sen]
+    - form: Hasen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "shutters"
+      concept: shutters
+      built: [ha, sen]
+    - form: Shuija
+      class: "n"
+      field: "Needs and common things"
+      gloss: "knife"
+      concept: knife
+      built: [shui, ja]
+    - form: Lengho
+      class: "n"
+      field: "Needs and common things"
+      gloss: "lamp"
+      concept: lamp
+      built: [leng, ho]
+    - form: Loshen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "clothes"
+      concept: clothes
+      built: [lo, shen]
+    - form: Lenwai
+      class: "num"
+      field: "Colour and number"
+      gloss: "twenty"
+      concept: twenty
+      built: [len, wai]
+    - form: Chuotsi
+      class: "num"
+      field: "Colour and number"
+      gloss: "first"
+      concept: first
+      built: [chuo, tsi]
+    - form: Chuolen
+      class: "num"
+      field: "Colour and number"
+      gloss: "second"
+      concept: second
+      built: [chuo, len]
+    - form: Chuotao
+      class: "num"
+      field: "Colour and number"
+      gloss: "third"
+      concept: third
+      built: [chuo, tao]
+    - form: Zhazhan
+      class: "n"
+      field: "Kin"
+      gloss: "parent"
+      concept: parent
+      built: [zha, zhan]
+    - form: Mizhei
+      class: "n"
+      field: "Kin"
+      gloss: "daughter"
+      concept: daughter
+      built: [mi, zhei]
+    - form: Kuona
+      class: "n"
+      field: "Kin"
+      gloss: "grandmother"
+      concept: grandmother
+      built: [kuo, na]
+    - form: Kuoto
+      class: "n"
+      field: "Kin"
+      gloss: "grandfather"
+      concept: grandfather
+      built: [kuo, to]
+    - form: Shuizhei
+      class: "n"
+      field: "Kin"
+      gloss: "grandchild"
+      concept: grandchild
+      built: [shui, zhei]
+    - {form: Todong, class: "n", field: "Kin", gloss: "uncle", concept: uncle, built: [to, dong]}
+    - {form: Tonin, class: "n", field: "Kin", gloss: "aunt", concept: aunt, built: [to, nin]}
+    - form: Zhaodong
+      class: "n"
+      field: "Kin"
+      gloss: "cousin"
+      concept: cousin
+      built: [zhao, dong]
+    - form: Kenchan
+      class: "n"
+      field: "Kin"
+      gloss: "husband"
+      concept: husband
+      built: [ken, chan]
+    - {form: Kenmi, class: "n", field: "Kin", gloss: "wife", concept: wife, built: [ken, mi]}
+    - form: Kuolei
+      class: "n"
+      field: "Kin"
+      gloss: "ancestor"
+      concept: ancestor
+      built: [kuo, lei]
+    - form: Jongzhei
+      class: "n"
+      field: "Kin"
+      gloss: "descendant"
+      concept: descendant
+      built: [jong, zhei]
+    - form: Mongzhei
+      class: "n"
+      field: "Kin"
+      gloss: "orphan"
+      concept: orphan
+      built: [mong, zhei]
+    - {form: Tsimi, class: "n", field: "Kin", gloss: "widow", concept: widow, built: [tsi, mi]}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -983,7 +1496,7 @@ data:
     - {forms: {skill-tantsoulng: wen, skill-jurthatlng: wen}, gloss: "center, middle"}
     - {forms: {skill-tantsoulng: wou, skill-jurthatlng: wu}, gloss: "court, palace, hall"}
     - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}, gloss: "divine, sacred"}
-    - {forms: {skill-tantsoulng: lei, skill-jurthatlng: rei}, gloss: "spirit, soul, vital energy"}
+    - {forms: {skill-tantsoulng: lei, skill-jurthatlng: rei}, gloss: "breath, spirit"}
     - {forms: {skill-tantsoulng: sei, skill-jurthatlng: sei}, gloss: "bureau, office, ministry"}
     - {forms: {skill-tantsoulng: lou, skill-jurthatlng: ru}, gloss: "law, rule"}
     - {forms: {skill-tantsoulng: dou, skill-jurthatlng: du}, gloss: "path, road, journey"}
@@ -1019,6 +1532,134 @@ data:
     - {forms: {skill-tantsoulng: dao, skill-jurthatlng: dou}, gloss: "great, supreme"}
     - {forms: {skill-tantsoulng: kuo, skill-jurthatlng: ko}, gloss: "old, ancient, eternal"}
     - {forms: {skill-tantsoulng: shui, skill-jurthatlng: shui}, gloss: "new, lesser, small"}
+    - {forms: {skill-tantsoulng: hing, skill-jurthatlng: hi}, gloss: "to see, to look"}
+    - {forms: {skill-tantsoulng: jie, skill-jurthatlng: je}, gloss: "sight, view; what is seen"}
+    - {forms: {skill-tantsoulng: ten, skill-jurthatlng: ten}, gloss: "to hear, to listen"}
+    - {forms: {skill-tantsoulng: yong, skill-jurthatlng: yo}, gloss: "sound, voice"}
+    - {forms: {skill-tantsoulng: sin, skill-jurthatlng: sin}, gloss: "to smell"}
+    - {forms: {skill-tantsoulng: fai, skill-jurthatlng: fai}, gloss: "smell, scent, odor"}
+    - {forms: {skill-tantsoulng: tsie, skill-jurthatlng: tse}, gloss: "to taste"}
+    - {forms: {skill-tantsoulng: ruo, skill-jurthatlng: ro}, gloss: "taste, flavor"}
+    - forms: {skill-tantsoulng: gai, skill-jurthatlng: gai}
+      gloss: "to touch, to feel with the hand"
+    - {forms: {skill-tantsoulng: hao, skill-jurthatlng: hou}, gloss: "head"}
+    - {forms: {skill-tantsoulng: sao, skill-jurthatlng: sou}, gloss: "hair of the head"}
+    - {forms: {skill-tantsoulng: lan, skill-jurthatlng: ran}, gloss: "face"}
+    - {forms: {skill-tantsoulng: ching, skill-jurthatlng: chi}, gloss: "eye"}
+    - {forms: {skill-tantsoulng: lui, skill-jurthatlng: rui}, gloss: "ear"}
+    - {forms: {skill-tantsoulng: fong, skill-jurthatlng: fo}, gloss: "nose"}
+    - {forms: {skill-tantsoulng: tsong, skill-jurthatlng: tso}, gloss: "mouth"}
+    - {forms: {skill-tantsoulng: ga, skill-jurthatlng: ga}, gloss: "tooth"}
+    - {forms: {skill-tantsoulng: lie, skill-jurthatlng: re}, gloss: "tongue"}
+    - {forms: {skill-tantsoulng: beng, skill-jurthatlng: be}, gloss: "neck, throat"}
+    - {forms: {skill-tantsoulng: kong, skill-jurthatlng: ko}, gloss: "shoulder"}
+    - {forms: {skill-tantsoulng: bin, skill-jurthatlng: bin}, gloss: "arm"}
+    - {forms: {skill-tantsoulng: ting, skill-jurthatlng: ti}, gloss: "finger"}
+    - {forms: {skill-tantsoulng: hong, skill-jurthatlng: ho}, gloss: "chest, breast-bone"}
+    - {forms: {skill-tantsoulng: nen, skill-jurthatlng: nen}, gloss: "breast"}
+    - {forms: {skill-tantsoulng: tsen, skill-jurthatlng: tsen}, gloss: "heart; seat of feeling"}
+    - {forms: {skill-tantsoulng: tuo, skill-jurthatlng: to}, gloss: "belly"}
+    - {forms: {skill-tantsoulng: shai, skill-jurthatlng: shai}, gloss: "back"}
+    - {forms: {skill-tantsoulng: kuen, skill-jurthatlng: ken}, gloss: "hip"}
+    - {forms: {skill-tantsoulng: jo, skill-jurthatlng: jo}, gloss: "leg"}
+    - {forms: {skill-tantsoulng: dai, skill-jurthatlng: dai}, gloss: "foot"}
+    - {forms: {skill-tantsoulng: lo, skill-jurthatlng: ro}, gloss: "skin, hide"}
+    - {forms: {skill-tantsoulng: ko, skill-jurthatlng: ko}, gloss: "bone"}
+    - {forms: {skill-tantsoulng: chui, skill-jurthatlng: chui}, gloss: "blood"}
+    - {forms: {skill-tantsoulng: muen, skill-jurthatlng: men}, gloss: "flesh, meat"}
+    - {forms: {skill-tantsoulng: ta, skill-jurthatlng: ta}, gloss: "food, meal"}
+    - {forms: {skill-tantsoulng: sho, skill-jurthatlng: sho}, gloss: "to eat"}
+    - {forms: {skill-tantsoulng: sa, skill-jurthatlng: sa}, gloss: "drink"}
+    - {forms: {skill-tantsoulng: hui, skill-jurthatlng: fui}, gloss: "to drink"}
+    - {forms: {skill-tantsoulng: fou, skill-jurthatlng: fu}, gloss: "to breathe"}
+    - {forms: {skill-tantsoulng: min, skill-jurthatlng: min}, gloss: "to sleep"}
+    - {forms: {skill-tantsoulng: liao, skill-jurthatlng: ro}, gloss: "urine"}
+    - {forms: {skill-tantsoulng: bou, skill-jurthatlng: bu}, gloss: "dung, excrement"}
+    - {forms: {skill-tantsoulng: jin, skill-jurthatlng: jin}, gloss: "warmth; warm"}
+    - {forms: {skill-tantsoulng: gan, skill-jurthatlng: gan}, gloss: "table"}
+    - {forms: {skill-tantsoulng: tong, skill-jurthatlng: to}, gloss: "floor"}
+    - {forms: {skill-tantsoulng: zheng, skill-jurthatlng: ze}, gloss: "wall"}
+    - {forms: {skill-tantsoulng: zhuen, skill-jurthatlng: zen}, gloss: "roof"}
+    - {forms: {skill-tantsoulng: zhong, skill-jurthatlng: zo}, gloss: "house, home, abode"}
+    - {forms: {skill-tantsoulng: sen, skill-jurthatlng: sen}, gloss: "door, gate"}
+    - {forms: {skill-tantsoulng: kin, skill-jurthatlng: kin}, gloss: "lock; to lock"}
+    - {forms: {skill-tantsoulng: ling, skill-jurthatlng: ri}, gloss: "cup"}
+    - {forms: {skill-tantsoulng: gwou, skill-jurthatlng: wu}, gloss: "bowl"}
+    - {forms: {skill-tantsoulng: rai, skill-jurthatlng: rai}, gloss: "spoon"}
+    - {forms: {skill-tantsoulng: ban, skill-jurthatlng: ban}, gloss: "pot"}
+    - {forms: {skill-tantsoulng: shen, skill-jurthatlng: shen}, gloss: "cloth"}
+    - {forms: {skill-tantsoulng: tsi, skill-jurthatlng: kei}, gloss: "one"}
+    - {forms: {skill-tantsoulng: len, skill-jurthatlng: ren}, gloss: "two"}
+    - {forms: {skill-tantsoulng: tao, skill-jurthatlng: tou}, gloss: "three"}
+    - {forms: {skill-tantsoulng: fei, skill-jurthatlng: fei}, gloss: "four"}
+    - {forms: {skill-tantsoulng: jou, skill-jurthatlng: ju}, gloss: "six"}
+    - {forms: {skill-tantsoulng: tai, skill-jurthatlng: tai}, gloss: "seven"}
+    - {forms: {skill-tantsoulng: mo, skill-jurthatlng: mo}, gloss: "eight"}
+    - {forms: {skill-tantsoulng: gou, skill-jurthatlng: gu}, gloss: "hundred"}
+    - {forms: {skill-tantsoulng: keng, skill-jurthatlng: ke}, gloss: "thousand"}
+    - {forms: {skill-tantsoulng: tsan, skill-jurthatlng: tsan}, gloss: "half"}
+    - {forms: {skill-tantsoulng: chong, skill-jurthatlng: cho}, gloss: "many, much"}
+    - {forms: {skill-tantsoulng: bo, skill-jurthatlng: bo}, gloss: "few, little"}
+    - {forms: {skill-tantsoulng: mong, skill-jurthatlng: mo}, gloss: "none, nothing; not"}
+    - {forms: {skill-tantsoulng: jao, skill-jurthatlng: jou}, gloss: "yellow"}
+    - {forms: {skill-tantsoulng: kui, skill-jurthatlng: kui}, gloss: "gray, ash-colored"}
+    - {forms: {skill-tantsoulng: jan, skill-jurthatlng: jan}, gloss: "brown"}
+    - {forms: {skill-tantsoulng: na, skill-jurthatlng: na}, gloss: "mother"}
+    - {forms: {skill-tantsoulng: to, skill-jurthatlng: to}, gloss: "father"}
+    - {forms: {skill-tantsoulng: dong, skill-jurthatlng: do}, gloss: "brother"}
+    - {forms: {skill-tantsoulng: nin, skill-jurthatlng: nin}, gloss: "sister"}
+    - {forms: {skill-tantsoulng: dei, skill-jurthatlng: dei}, gloss: "to be"}
+    - {forms: {skill-tantsoulng: kai, skill-jurthatlng: kai}, gloss: "to have"}
+    - {forms: {skill-tantsoulng: rou, skill-jurthatlng: ru}, gloss: "to go"}
+    - {forms: {skill-tantsoulng: nao, skill-jurthatlng: nou}, gloss: "to come"}
+    - {forms: {skill-tantsoulng: zhan, skill-jurthatlng: zan}, gloss: "to give"}
+    - {forms: {skill-tantsoulng: dui, skill-jurthatlng: dui}, gloss: "to take"}
+    - {forms: {skill-tantsoulng: shao, skill-jurthatlng: shou}, gloss: "to make"}
+    - {forms: {skill-tantsoulng: tsiao, skill-jurthatlng: tso}, gloss: "to do"}
+    - {forms: {skill-tantsoulng: ya, skill-jurthatlng: ya}, gloss: "to say"}
+    - {forms: {skill-tantsoulng: tsuen, skill-jurthatlng: tsen}, gloss: "to speak, to talk"}
+    - {forms: {skill-tantsoulng: tsing, skill-jurthatlng: tsi}, gloss: "to know"}
+    - {forms: {skill-tantsoulng: sai, skill-jurthatlng: sai}, gloss: "to think"}
+    - {forms: {skill-tantsoulng: yei, skill-jurthatlng: yei}, gloss: "to want, to desire"}
+    - {forms: {skill-tantsoulng: shan, skill-jurthatlng: shan}, gloss: "to live"}
+    - {forms: {skill-tantsoulng: fen, skill-jurthatlng: fen}, gloss: "to die"}
+    - {forms: {skill-tantsoulng: tuen, skill-jurthatlng: ten}, gloss: "to walk"}
+    - {forms: {skill-tantsoulng: ruen, skill-jurthatlng: ren}, gloss: "to run"}
+    - {forms: {skill-tantsoulng: den, skill-jurthatlng: den}, gloss: "to sit"}
+    - {forms: {skill-tantsoulng: ki, skill-jurthatlng: ki}, gloss: "to stand"}
+    - {forms: {skill-tantsoulng: yuen, skill-jurthatlng: yen}, gloss: "to lie down"}
+    - {forms: {skill-tantsoulng: gwen, skill-jurthatlng: wen}, gloss: "to hold"}
+    - {forms: {skill-tantsoulng: hai, skill-jurthatlng: hai}, gloss: "to bring, to carry"}
+    - {forms: {skill-tantsoulng: ra, skill-jurthatlng: ra}, gloss: "to put, to set down"}
+    - {forms: {skill-tantsoulng: zhing, skill-jurthatlng: zi}, gloss: "to find"}
+    - {forms: {skill-tantsoulng: shin, skill-jurthatlng: shin}, gloss: "to lose"}
+    - {forms: {skill-tantsoulng: ka, skill-jurthatlng: ka}, gloss: "to open"}
+    - {forms: {skill-tantsoulng: seng, skill-jurthatlng: se}, gloss: "to close, to shut"}
+    - {forms: {skill-tantsoulng: chao, skill-jurthatlng: chou}, gloss: "to begin"}
+    - {forms: {skill-tantsoulng: luen, skill-jurthatlng: ren}, gloss: "to end, to finish"}
+    - {forms: {skill-tantsoulng: hin, skill-jurthatlng: hin}, gloss: "love, to cherish"}
+    - forms: {skill-tantsoulng: jeng, skill-jurthatlng: je}
+      gloss: "joint, knot; where a limb bends"
+    - {forms: {skill-tantsoulng: mi, skill-jurthatlng: mi}, gloss: "woman; female"}
+    - {forms: {skill-tantsoulng: chan, skill-jurthatlng: chan}, gloss: "man; male"}
+    - {forms: {skill-tantsoulng: chuo, skill-jurthatlng: cho}, gloss: "rank, place in order"}
+    - {forms: {skill-tantsoulng: si, skill-jurthatlng: si}, gloss: "pearl"}
+    - {forms: {skill-tantsoulng: do, skill-jurthatlng: do}, gloss: "pine"}
+    - {forms: {skill-tantsoulng: ri, skill-jurthatlng: ri}, gloss: "sail"}
+    - {forms: {skill-tantsoulng: ma, skill-jurthatlng: ma}, gloss: "song"}
+    - {forms: {skill-tantsoulng: da, skill-jurthatlng: da}, gloss: "feather"}
+    - {forms: {skill-tantsoulng: rei, skill-jurthatlng: rei}, gloss: "dew"}
+    - {forms: {skill-tantsoulng: di, skill-jurthatlng: di}, gloss: "drum"}
+    - {forms: {skill-tantsoulng: tei, skill-jurthatlng: tei}, gloss: "ink"}
+    - {forms: {skill-tantsoulng: go, skill-jurthatlng: go}, gloss: "gourd"}
+    - {forms: {skill-tantsoulng: ti, skill-jurthatlng: ti}, gloss: "bell"}
+    - {forms: {skill-tantsoulng: ro, skill-jurthatlng: ro}, gloss: "reed"}
+    - {forms: {skill-tantsoulng: ni, skill-jurthatlng: ni}, gloss: "willow"}
+    - {forms: {skill-tantsoulng: ba, skill-jurthatlng: ba}, gloss: "plum"}
+    - {forms: {skill-tantsoulng: li, skill-jurthatlng: ri}, gloss: "silk"}
+    - {forms: {skill-tantsoulng: no, skill-jurthatlng: no}, gloss: "honey"}
+    - {forms: {skill-tantsoulng: ran, skill-jurthatlng: ran}, gloss: "lacquer"}
+    - {forms: {skill-tantsoulng: shi, skill-jurthatlng: shi}, gloss: "comb"}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

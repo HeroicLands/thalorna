@@ -21,6 +21,9 @@ data:
     - {name: The honorific grid, holds: "One verb in every tier and form of the grid."}
     - name: Houses and granted names
       holds: "House names, retainer family names and granted personal names."
+    - {name: Senses and passions, holds: "The senses, the passions and the loves."}
+    - {name: The body, holds: "The parts of the body."}
+    - {name: Needs and common things, holds: "Food, drink, shelter and the things of a household."}
     - {name: Places, holds: "The mountains, castle towns, villages and estates of the realm."}
   affixes:
     - form: "-jai"
@@ -79,8 +82,8 @@ data:
     - form: ho
       class: "n"
       field: "Land, sea and sky"
-      gloss: "fire; and, by the other pitch, hand"
-      concept: fire
+      gloss: ["fire; and, by the other pitch, hand", "chest, breast-bone"]
+      concept: [fire, chest, hand]
       source: {kind: inherited}
     - form: ji
       class: "n"
@@ -91,6 +94,7 @@ data:
       class: "n"
       field: "Land, sea and sky"
       gloss: "wood; and, at the same pitch, green"
+      concept: green
       source: {kind: inherited}
     - form: shu
       class: "n"
@@ -114,7 +118,12 @@ data:
       field: "Land, sea and sky"
       gloss: "cloud"
       source: {kind: inherited}
-    - {form: zi, class: "n", field: "Land, sea and sky", gloss: "star", source: {kind: inherited}}
+    - form: zi
+      class: "n"
+      field: "Land, sea and sky"
+      gloss: ["star", "to find"]
+      concept: find
+      source: {kind: inherited}
     - form: yu
       class: "n"
       field: "Land, sea and sky"
@@ -123,7 +132,8 @@ data:
     - form: ro
       class: "n"
       field: "Land, sea and sky"
-      gloss: "flower, lotus"
+      gloss: ["flower, lotus", "taste, flavor", "skin, hide", "urine", "reed"]
+      concept: [taste-noun, skin, urine]
       source: {kind: inherited}
     - form: nu
       class: "n"
@@ -138,7 +148,8 @@ data:
     - form: zen
       class: "n"
       field: "Land, sea and sky"
-      gloss: "snow; and, by the other pitch, boar"
+      gloss: ["snow; and, by the other pitch, boar", "roof"]
+      concept: roof
       source: {kind: inherited}
     - form: rou
       class: "n"
@@ -148,7 +159,8 @@ data:
     - form: ra
       class: "n"
       field: "Land, sea and sky"
-      gloss: "lightning"
+      gloss: ["lightning", "to put, to set down"]
+      concept: put
       source: {kind: inherited}
     - form: tsui
       class: "n"
@@ -201,8 +213,8 @@ data:
     - form: wen
       class: num
       field: Number and color
-      gloss: "five; and, by the other pitch, the center"
-      concept: five
+      gloss: ["five; and, by the other pitch, the center", "to hold"]
+      concept: [five, hold]
       source: {kind: inherited}
     - form: jen
       class: num
@@ -248,7 +260,8 @@ data:
     - form: re
       class: adj
       field: Number and color
-      gloss: "bright, radiant; dawn"
+      gloss: ["bright, radiant; dawn", "tongue"]
+      concept: tongue
       source: {kind: inherited}
     - form: dou
       class: adj
@@ -258,7 +271,8 @@ data:
     - form: ko
       class: adj
       field: Number and color
-      gloss: "old, ancient"
+      gloss: ["old, ancient", "shoulder", "bone"]
+      concept: [shoulder, bone]
       source: {kind: inherited}
     - form: shui
       class: adj
@@ -273,7 +287,8 @@ data:
     - form: zo
       class: "n"
       field: "Rank, house and office"
-      gloss: "lord; and, at the same pitch, dragon"
+      gloss: ["lord; and, at the same pitch, dragon", "house, home, abode"]
+      concept: abode
       source: {kind: inherited}
     - form: nei
       class: "n"
@@ -309,12 +324,13 @@ data:
       class: "n"
       field: "Rank, house and office"
       gloss: "son, child"
-      concept: son
+      concept: [son, child]
       source: {kind: inherited}
     - form: nou
       class: "n"
       field: "Rank, house and office"
-      gloss: "person, folk"
+      gloss: ["person, folk", "to come"]
+      concept: come
       source: {kind: inherited}
     - form: zou
       class: "n"
@@ -324,13 +340,14 @@ data:
     - form: ken
       class: "n"
       field: "Rank, house and office"
-      gloss: "hearth, household"
-      concept: hearth
+      gloss: ["hearth, household", "hip"]
+      concept: [hearth, hip]
       source: {kind: inherited}
     - form: sho
       class: "n"
       field: "Rank, house and office"
-      gloss: "trade"
+      gloss: ["trade", "to eat"]
+      concept: eat
       source: {kind: inherited}
     - form: ja
       class: "n"
@@ -406,12 +423,13 @@ data:
     - form: wu
       class: "n"
       field: "Rites, honor and court"
-      gloss: "court, palace, hall; and, at the same pitch, tortoise"
+      gloss: ["court, palace, hall; and, at the same pitch, tortoise", "bowl"]
+      concept: bowl
       source: {kind: inherited}
     - form: rei
       class: "n"
       field: "Rites, honor and court"
-      gloss: "spirit, breath"
+      gloss: ["spirit, breath", "dew"]
       concept: breath
       source: {kind: inherited}
     - form: sei
@@ -422,7 +440,8 @@ data:
     - form: ru
       class: "n"
       field: "Rites, honor and court"
-      gloss: "law, rule"
+      gloss: ["law, rule", "to go"]
+      concept: go
       source: {kind: inherited}
     - form: du
       class: "n"
@@ -432,7 +451,8 @@ data:
     - form: fu
       class: "n"
       field: "Rites, honor and court"
-      gloss: "balance, harmony, calm"
+      gloss: ["balance, harmony, calm", "to breathe"]
+      concept: breathe
       source: {kind: inherited}
     - form: tsai
       class: "n"
@@ -447,7 +467,7 @@ data:
     - form: si
       class: "n"
       field: "Rites, honor and court"
-      gloss: "death"
+      gloss: ["death", "pearl"]
       source: {kind: inherited}
     - form: za
       class: "n"
@@ -477,12 +497,13 @@ data:
     - form: do
       class: "n"
       field: "Rites, honor and court"
-      gloss: "sorcery, magic"
+      gloss: ["sorcery, magic", "brother", "pine"]
+      concept: brother
       source: {kind: inherited}
     - form: "no"
       class: "n"
       field: "Rites, honor and court"
-      gloss: "decay, rot"
+      gloss: ["decay, rot", "honey"]
       source: {kind: inherited}
     - form: dowu
       class: "n"
@@ -492,7 +513,8 @@ data:
     - form: rui
       class: "n"
       field: "Rites, honor and court"
-      gloss: "ritual, ceremony, dance"
+      gloss: ["ritual, ceremony, dance", "ear"]
+      concept: ear
       source: {kind: inherited}
     - form: jui
       class: "n"
@@ -528,18 +550,33 @@ data:
     - {form: su, class: "n", field: Beasts, gloss: "serpent", source: {kind: inherited}}
     - {form: mai, class: "n", field: Beasts, gloss: "horse", source: {kind: inherited}}
     - {form: bei, class: "n", field: Beasts, gloss: "ape", source: {kind: inherited}}
-    - {form: yo, class: "n", field: Beasts, gloss: "demon, fiend", source: {kind: inherited}}
+    - form: yo
+      class: "n"
+      field: Beasts
+      gloss: ["demon, fiend", "sound, voice"]
+      concept: hear-noun
+      source: {kind: inherited}
     - form: je
       class: "n"
       field: Beasts
-      gloss: "a horned beast of good omen"
+      gloss:
+        - "a horned beast of good omen"
+        - "sight, view; what is seen"
+        - "joint, knot; where a limb bends"
+      concept: see-noun
       source: {kind: inherited}
     - form: ri
       class: part
       field: Speaking
-      gloss: "of; binds a word to the one after it"
+      gloss: ["of; binds a word to the one after it", "cup", "sail", "silk"]
+      concept: cup
       source: {kind: island}
-    - {form: bo, class: part, field: Speaking, gloss: "closes a question", source: {kind: island}}
+    - form: bo
+      class: part
+      field: Speaking
+      gloss: ["closes a question", "few, little"]
+      concept: few
+      source: {kind: island}
     - form: ku
       class: part
       field: Speaking
@@ -571,9 +608,15 @@ data:
     - form: jo
       class: v
       field: Speaking
-      gloss: "to fall, to descend"
+      gloss: ["to fall, to descend", "leg"]
+      concept: leg
       source: {kind: inherited}
-    - {form: cho, class: v, field: Speaking, gloss: "to freeze; winter", source: {kind: inherited}}
+    - form: cho
+      class: v
+      field: Speaking
+      gloss: ["to freeze; winter", "many, much", "rank, place in order"]
+      concept: many
+      source: {kind: inherited}
     - {form: wone, class: v, field: Speaking, gloss: "to serve a lord", source: {kind: coined}}
     - {form: zine, class: v, field: Speaking, gloss: "to grant a name", source: {kind: coined}}
     - form: wanu
@@ -1200,6 +1243,816 @@ data:
       gloss: "Iron Lord, a granted name"
       source: {kind: coined}
       built: [tsui, zo]
+    - form: hi
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to see, to look"
+      source: {kind: inherited}
+      concept: see-verb
+    - form: ten
+      class: "v"
+      field: "Senses and passions"
+      gloss: ["to hear, to listen", "to walk"]
+      source: {kind: inherited}
+      concept: [hear-verb, walk]
+    - form: sin
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to smell"
+      source: {kind: inherited}
+      concept: smell-verb
+    - form: fai
+      class: "n"
+      field: "Senses and passions"
+      gloss: "smell, scent, odor"
+      source: {kind: inherited}
+      concept: smell-noun
+    - form: tse
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to taste"
+      source: {kind: inherited}
+      concept: taste-verb
+    - form: gai
+      class: "v"
+      field: "Senses and passions"
+      gloss: "to touch, to feel with the hand"
+      source: {kind: inherited}
+      concept: touch-verb
+    - form: hou
+      class: "n"
+      field: "The body"
+      gloss: "head"
+      source: {kind: inherited}
+      concept: head
+    - form: sou
+      class: "n"
+      field: "The body"
+      gloss: "hair of the head"
+      source: {kind: inherited}
+      concept: hair
+    - form: ran
+      class: "n"
+      field: "The body"
+      gloss: ["face", "lacquer"]
+      source: {kind: inherited}
+      concept: face
+    - form: chi
+      class: "n"
+      field: "The body"
+      gloss: "eye"
+      source: {kind: inherited}
+      concept: eye
+    - form: fo
+      class: "n"
+      field: "The body"
+      gloss: "nose"
+      source: {kind: inherited}
+      concept: nose
+    - form: tso
+      class: "n"
+      field: "The body"
+      gloss: ["mouth", "to do"]
+      source: {kind: inherited}
+      concept: [mouth, do]
+    - form: ga
+      class: "n"
+      field: "The body"
+      gloss: "tooth"
+      source: {kind: inherited}
+      concept: tooth
+    - form: be
+      class: "n"
+      field: "The body"
+      gloss: "neck, throat"
+      source: {kind: inherited}
+      concept: neck
+    - form: bin
+      class: "n"
+      field: "The body"
+      gloss: "arm"
+      source: {kind: inherited}
+      concept: arm
+    - form: ti
+      class: "n"
+      field: "The body"
+      gloss: ["finger", "bell"]
+      source: {kind: inherited}
+      concept: finger
+    - form: nen
+      class: "n"
+      field: "The body"
+      gloss: "breast"
+      source: {kind: inherited}
+      concept: breast
+    - form: tsen
+      class: "n"
+      field: "The body"
+      gloss: ["heart; seat of feeling", "to speak, to talk"]
+      source: {kind: inherited}
+      concept: [heart, speak]
+    - form: to
+      class: "n"
+      field: "The body"
+      gloss: ["belly", "floor", "father"]
+      source: {kind: inherited}
+      concept: [belly, floor, father]
+    - form: shai
+      class: "n"
+      field: "The body"
+      gloss: "back"
+      source: {kind: inherited}
+      concept: back
+    - form: dai
+      class: "n"
+      field: "The body"
+      gloss: "foot"
+      source: {kind: inherited}
+      concept: foot
+    - form: chui
+      class: "n"
+      field: "The body"
+      gloss: "blood"
+      source: {kind: inherited}
+      concept: blood
+    - form: men
+      class: "n"
+      field: "The body"
+      gloss: "flesh, meat"
+      source: {kind: inherited}
+      concept: flesh
+    - form: ta
+      class: "n"
+      field: "Needs and common things"
+      gloss: "food, meal"
+      source: {kind: inherited}
+      concept: food
+    - form: sa
+      class: "n"
+      field: "Needs and common things"
+      gloss: "drink"
+      source: {kind: inherited}
+      concept: drink-noun
+    - form: fui
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to drink"
+      source: {kind: inherited}
+      concept: drink-verb
+    - form: min
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to sleep"
+      source: {kind: inherited}
+      concept: sleep-verb
+    - form: bu
+      class: "n"
+      field: "Needs and common things"
+      gloss: "dung, excrement"
+      source: {kind: inherited}
+      concept: dung
+    - form: jin
+      class: "n"
+      field: "Needs and common things"
+      gloss: "warmth; warm"
+      source: {kind: inherited}
+      concept: warmth
+    - form: gan
+      class: "n"
+      field: "Needs and common things"
+      gloss: "table"
+      source: {kind: inherited}
+      concept: table
+    - form: ze
+      class: "n"
+      field: "Needs and common things"
+      gloss: "wall"
+      source: {kind: inherited}
+      concept: wall
+    - form: sen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "door, gate"
+      source: {kind: inherited}
+      concept: door
+    - form: kin
+      class: "n"
+      field: "Needs and common things"
+      gloss: "lock; to lock"
+      source: {kind: inherited}
+      concept: lock
+    - form: rai
+      class: "n"
+      field: "Needs and common things"
+      gloss: "spoon"
+      source: {kind: inherited}
+      concept: spoon
+    - form: ban
+      class: "n"
+      field: "Needs and common things"
+      gloss: "pot"
+      source: {kind: inherited}
+      concept: pot
+    - form: shen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "cloth"
+      source: {kind: inherited}
+      concept: cloth
+    - form: ren
+      class: "num"
+      field: "Number and color"
+      gloss: ["two", "to run", "to end, to finish"]
+      source: {kind: inherited}
+      concept: [two, run, end]
+    - form: tou
+      class: "num"
+      field: "Number and color"
+      gloss: "three"
+      source: {kind: inherited}
+      concept: three
+    - form: fei
+      class: "num"
+      field: "Number and color"
+      gloss: "four"
+      source: {kind: inherited}
+      concept: four
+    - form: ju
+      class: "num"
+      field: "Number and color"
+      gloss: "six"
+      source: {kind: inherited}
+      concept: six
+    - form: tai
+      class: "num"
+      field: "Number and color"
+      gloss: "seven"
+      source: {kind: inherited}
+      concept: seven
+    - form: mo
+      class: "num"
+      field: "Number and color"
+      gloss: ["eight", "none, nothing; not"]
+      source: {kind: inherited}
+      concept: [eight, none]
+    - form: gu
+      class: "num"
+      field: "Number and color"
+      gloss: "hundred"
+      source: {kind: inherited}
+      concept: hundred
+    - form: ke
+      class: "num"
+      field: "Number and color"
+      gloss: "thousand"
+      source: {kind: inherited}
+      concept: thousand
+    - form: tsan
+      class: "num"
+      field: "Number and color"
+      gloss: "half"
+      source: {kind: inherited}
+      concept: half
+    - form: jou
+      class: "adj"
+      field: "Number and color"
+      gloss: "yellow"
+      source: {kind: inherited}
+      concept: yellow
+    - form: kui
+      class: "adj"
+      field: "Number and color"
+      gloss: "gray, ash-colored"
+      source: {kind: inherited}
+      concept: grey
+    - form: jan
+      class: "adj"
+      field: "Number and color"
+      gloss: "brown"
+      source: {kind: inherited}
+      concept: brown
+    - form: na
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "mother"
+      source: {kind: inherited}
+      concept: mother
+    - form: nin
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "sister"
+      source: {kind: inherited}
+      concept: sister
+    - form: dei
+      class: "v"
+      field: "Speaking"
+      gloss: "to be"
+      source: {kind: inherited}
+      concept: be
+    - form: kai
+      class: "v"
+      field: "Speaking"
+      gloss: "to have"
+      source: {kind: inherited}
+      concept: have
+    - form: zan
+      class: "v"
+      field: "Speaking"
+      gloss: "to give"
+      source: {kind: inherited}
+      concept: give
+    - form: dui
+      class: "v"
+      field: "Speaking"
+      gloss: "to take"
+      source: {kind: inherited}
+      concept: take
+    - form: shou
+      class: "v"
+      field: "Speaking"
+      gloss: "to make"
+      source: {kind: inherited}
+      concept: make
+    - form: ya
+      class: "v"
+      field: "Speaking"
+      gloss: "to say"
+      source: {kind: inherited}
+      concept: say
+    - form: tsi
+      class: "v"
+      field: "Speaking"
+      gloss: "to know"
+      source: {kind: inherited}
+      concept: know
+    - form: sai
+      class: "v"
+      field: "Speaking"
+      gloss: "to think"
+      source: {kind: inherited}
+      concept: think
+    - form: yei
+      class: "v"
+      field: "Speaking"
+      gloss: "to want, to desire"
+      source: {kind: inherited}
+      concept: want
+    - form: shan
+      class: "v"
+      field: "Speaking"
+      gloss: "to live"
+      source: {kind: inherited}
+      concept: live
+    - form: fen
+      class: "v"
+      field: "Speaking"
+      gloss: "to die"
+      source: {kind: inherited}
+      concept: die
+    - form: den
+      class: "v"
+      field: "Speaking"
+      gloss: "to sit"
+      source: {kind: inherited}
+      concept: sit
+    - form: ki
+      class: "v"
+      field: "Speaking"
+      gloss: "to stand"
+      source: {kind: inherited}
+      concept: stand
+    - form: yen
+      class: "v"
+      field: "Speaking"
+      gloss: "to lie down"
+      source: {kind: inherited}
+      concept: lie-down
+    - form: hai
+      class: "v"
+      field: "Speaking"
+      gloss: "to bring, to carry"
+      source: {kind: inherited}
+      concept: bring
+    - form: shin
+      class: "v"
+      field: "Speaking"
+      gloss: "to lose"
+      source: {kind: inherited}
+      concept: lose
+    - form: ka
+      class: "v"
+      field: "Speaking"
+      gloss: "to open"
+      source: {kind: inherited}
+      concept: open
+    - form: se
+      class: "v"
+      field: "Speaking"
+      gloss: "to close, to shut"
+      source: {kind: inherited}
+      concept: close
+    - form: chou
+      class: "v"
+      field: "Speaking"
+      gloss: "to begin"
+      source: {kind: inherited}
+      concept: begin
+    - form: hin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "love, to cherish"
+      source: {kind: inherited}
+    - form: mi
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "woman; female"
+      source: {kind: inherited}
+    - form: chan
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "man; male"
+      source: {kind: inherited}
+    - form: ma
+      class: "n"
+      field: "Needs and common things"
+      gloss: "song"
+      source: {kind: inherited}
+    - form: da
+      class: "n"
+      field: "Needs and common things"
+      gloss: "feather"
+      source: {kind: inherited}
+    - form: di
+      class: "n"
+      field: "Needs and common things"
+      gloss: "drum"
+      source: {kind: inherited}
+    - form: tei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "ink"
+      source: {kind: inherited}
+    - form: go
+      class: "n"
+      field: "Needs and common things"
+      gloss: "gourd"
+      source: {kind: inherited}
+    - form: ni
+      class: "n"
+      field: "Needs and common things"
+      gloss: "willow"
+      source: {kind: inherited}
+    - form: ba
+      class: "n"
+      field: "Needs and common things"
+      gloss: "plum"
+      source: {kind: inherited}
+    - form: shi
+      class: "n"
+      field: "Needs and common things"
+      gloss: "comb"
+      source: {kind: inherited}
+    - form: gaibo
+      class: "n"
+      field: "Senses and passions"
+      gloss: "touch"
+      source: {kind: coined}
+      concept: touch-noun
+      built: [gai, ho]
+    - form: hozen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "wrath"
+      source: {kind: coined}
+      concept: wrath
+      built: [ho, tsen]
+    - form: hazen
+      class: "n"
+      field: "Senses and passions"
+      gloss: ["envy", "shutters"]
+      source: {kind: coined}
+      concept: [envy, shutters]
+    - form: rezen
+      class: "n"
+      field: "Senses and passions"
+      gloss: ["hope", "window"]
+      source: {kind: coined}
+      concept: [hope, window]
+    - form: yeirou
+      class: "n"
+      field: "Senses and passions"
+      gloss: "greed"
+      source: {kind: coined}
+      concept: greed
+      built: [yei, rou]
+    - form: douzo
+      class: "n"
+      field: "Senses and passions"
+      gloss: "boasting"
+      source: {kind: coined}
+      concept: boasting
+      built: [dou, tso]
+    - form: douzei
+      class: "n"
+      field: "Senses and passions"
+      gloss: "pride"
+      source: {kind: coined}
+      concept: pride
+      built: [dou, tsei]
+    - form: rinyei
+      class: "n"
+      field: "Senses and passions"
+      gloss: "lust"
+      source: {kind: coined}
+      concept: lust
+      built: [rin, yei]
+    - form: sizen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "despair"
+      source: {kind: coined}
+      concept: despair
+      built: [si, tsen]
+    - form: jozen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "disappointment"
+      source: {kind: coined}
+      concept: disappointment
+      built: [jo, tsen]
+    - form: tezen
+      class: "n"
+      field: "Senses and passions"
+      gloss: "faith"
+      source: {kind: coined}
+      concept: faith
+      built: [te, tsen]
+    - form: rinbin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "romantic love (eros)"
+      source: {kind: coined}
+      concept: love-eros
+      built: [rin, hin]
+    - form: dubin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "friendship (philia)"
+      source: {kind: coined}
+      concept: love-philia
+      built: [du, hin]
+    - form: kenbin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "love of family (storge)"
+      source: {kind: coined}
+      concept: love-storge
+      built: [ken, hin]
+    - form: roubin
+      class: "n"
+      field: "Senses and passions"
+      gloss: "selfless, universal love (agape)"
+      source: {kind: coined}
+      concept: love-agape
+      built: [rou, hin]
+    - form: tsoro
+      class: "n"
+      field: "The body"
+      gloss: "lip"
+      source: {kind: coined}
+      concept: lip
+      built: [tso, ro]
+    - form: binje
+      class: "n"
+      field: "The body"
+      gloss: "elbow"
+      source: {kind: coined}
+      concept: elbow
+      built: [bin, je]
+    - form: tiwei
+      class: "n"
+      field: "The body"
+      gloss: "fingernail"
+      source: {kind: coined}
+      concept: nail
+      built: [ti, wei]
+    - form: joje
+      class: "n"
+      field: "The body"
+      gloss: "knee"
+      source: {kind: coined}
+      concept: knee
+      built: [jo, je]
+    - form: daidi
+      class: "n"
+      field: "The body"
+      gloss: "toe"
+      source: {kind: coined}
+      concept: toe
+      built: [dai, ti]
+    - form: terei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "air"
+      source: {kind: coined}
+      concept: air
+      built: [te, rei]
+    - form: minmei
+      class: "n"
+      field: "Needs and common things"
+      gloss: "sleep"
+      source: {kind: coined}
+      concept: sleep-noun
+      built: [min, mei]
+    - form: rojo
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to urinate"
+      source: {kind: coined}
+      concept: urinate
+      built: [ro, jo]
+    - form: bujo
+      class: "v"
+      field: "Needs and common things"
+      gloss: "to defecate"
+      source: {kind: coined}
+      concept: defecate
+      built: [bu, jo]
+    - form: zenbu
+      class: "n"
+      field: "Needs and common things"
+      gloss: "shelter"
+      source: {kind: coined}
+      concept: shelter
+      built: [zen, fu]
+    - form: denmu
+      class: "n"
+      field: "Needs and common things"
+      gloss: "chair"
+      source: {kind: coined}
+      concept: chair
+      built: [den, mu]
+    - form: yenmu
+      class: "n"
+      field: "Needs and common things"
+      gloss: "bed"
+      source: {kind: coined}
+      concept: bed
+      built: [yen, mu]
+    - form: kinja
+      class: "n"
+      field: "Needs and common things"
+      gloss: "key"
+      source: {kind: coined}
+      concept: key
+      built: [kin, ja]
+    - form: shuija
+      class: "n"
+      field: "Needs and common things"
+      gloss: "knife"
+      source: {kind: coined}
+      concept: knife
+      built: [shui, ja]
+    - form: rebo
+      class: "n"
+      field: "Needs and common things"
+      gloss: "lamp"
+      source: {kind: coined}
+      concept: lamp
+      built: [re, ho]
+    - form: rojen
+      class: "n"
+      field: "Needs and common things"
+      gloss: "clothes"
+      source: {kind: coined}
+      concept: clothes
+      built: [ro, shen]
+    - form: renwai
+      class: "num"
+      field: "Number and color"
+      gloss: "twenty"
+      source: {kind: coined}
+      concept: twenty
+      built: [ren, wai]
+    - form: chogei
+      class: "num"
+      field: "Number and color"
+      gloss: "first"
+      source: {kind: coined}
+      concept: first
+      built: [cho, kei]
+    - form: choren
+      class: "num"
+      field: "Number and color"
+      gloss: "second"
+      source: {kind: coined}
+      concept: second
+      built: [cho, ren]
+    - form: chodou
+      class: "num"
+      field: "Number and color"
+      gloss: "third"
+      source: {kind: coined}
+      concept: third
+      built: [cho, tou]
+    - form: zazan
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "parent"
+      source: {kind: coined}
+      concept: parent
+      built: [za, zan]
+    - form: mizei
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "daughter"
+      source: {kind: coined}
+      concept: daughter
+      built: [mi, zei]
+    - form: kona
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "grandmother"
+      source: {kind: coined}
+      concept: grandmother
+      built: [ko, na]
+    - form: kodo
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "grandfather"
+      source: {kind: coined}
+      concept: grandfather
+      built: [ko, to]
+    - form: shuizei
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "grandchild"
+      source: {kind: coined}
+      concept: grandchild
+      built: [shui, zei]
+    - form: todo
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "uncle"
+      source: {kind: coined}
+      concept: uncle
+      built: [to, do]
+    - form: tonin
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "aunt"
+      source: {kind: coined}
+      concept: aunt
+      built: [to, nin]
+    - form: zoudo
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "cousin"
+      source: {kind: coined}
+      concept: cousin
+      built: [zou, do]
+    - form: kenjan
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "husband"
+      source: {kind: coined}
+      concept: husband
+      built: [ken, chan]
+    - form: kenmi
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "wife"
+      source: {kind: coined}
+      concept: wife
+      built: [ken, mi]
+    - form: korei
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "ancestor"
+      source: {kind: coined}
+      concept: ancestor
+      built: [ko, rei]
+    - form: jozei
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "descendant"
+      source: {kind: coined}
+      concept: descendant
+      built: [jo, zei]
+    - form: mozei
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "orphan"
+      source: {kind: coined}
+      concept: orphan
+      built: [mo, zei]
+    - form: keimi
+      class: "n"
+      field: "Rank, house and office"
+      gloss: "widow"
+      source: {kind: coined}
+      concept: widow
+      built: [kei, mi]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
