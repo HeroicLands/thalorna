@@ -62,23 +62,31 @@ data:
     - form: "-in"
       gloss: "one who has or keeps it"
       attaches: "replaces a closing short a"
+      replaces: "a"
       examples: ["vreta > vretin"]
     - form: "-ina"
       gloss: "one of the kind, of good standing in it"
       attaches: "replaces a closing short a"
+      replaces: "a"
       examples: ["kulpa > kulena"]
     - form: "-i"
       gloss: "a woman's form of a word; one who deals in it"
       attaches: "replaces a closing short a"
+      replaces: "a"
       examples: ["sundora > sundeli"]
-    - {form: "-ika", gloss: "a woman's name", attaches: "replaces a closing short a"}
+    - form: "-ika"
+      gloss: "a woman's name"
+      attaches: "replaces a closing short a"
+      replaces: "a"
     - form: "-i"
       gloss: "one from it, said of a place or a land"
       attaches: "replaces a closing short a"
+      replaces: "a"
       examples: ["vedyara > vedyari"]
     - form: "-an"
       gloss: "belonging to it: a god's, a land's"
       attaches: "replaces a closing short a"
+      replaces: "a"
       examples: ["vedyara > vedyaran"]
     - form: "-ka"
       gloss: "one who works it, or a thing of it"

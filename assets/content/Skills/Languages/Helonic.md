@@ -50,94 +50,117 @@ data:
     - form: "-ides"
       gloss: "one of the line of: a clan name of the old stock"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Ghan- > Ghanides"]
     - form: "-os"
       gloss: "the clan of: a clan name of the old stock"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Afir- > Afiros"]
     - form: "-ites"
       gloss: "one from a place"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Niktar- > Niktarites, one from the harbor of Niktar"]
     - form: "-ion"
       gloss: "the place of it, or a man's name on a root"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["lókh- > lókhion, a place of ambush"]
     - form: "-ikos"
       gloss: "belonging to it; a man's name on an eastern root in Bizarian"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Mérith- > Mérithikos"]
     - form: "-os"
       gloss: "a man's name of the old stock"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Lothan- > Lothanos"]
     - form: "-is"
       gloss: "a man's name of the old stock, or a clan name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Kren- > Krenis"]
     - form: "-es"
       gloss: "a man's name of the old stock, or a clan name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Bákin- > Bákines"]
     - form: "-a"
       gloss: "a woman's name, and the feminine of an adjective"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["kélir- > kélira, beautiful"]
     - form: "-tha"
       gloss: "a woman's name of the old stock"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Timari- > Timaritha"]
     - form: "-ia"
       gloss: "a woman's name of the old stock"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Sfrad- > Sfradia"]
     - form: "-ína"
       gloss: "a woman's name on a root in Bizarian"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Dorim- > Dorimina"]
     - form: "-ash"
       gloss: "a Bizarian man's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Méril- > Mérilash"]
     - form: "-áhr"
       gloss: "a Bizarian man's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Mérit- > Méritáhr"]
     - form: "-kar"
       gloss: "a Bizarian man's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Sothan- > Sothankar"]
     - form: "-azur"
       gloss: "a Bizarian man's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Dorim- > Dorimazur"]
     - form: "-íza"
       gloss: "a Bizarian woman's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Ghalen- > Ghaleniza"]
     - form: "-éze"
       gloss: "a Bizarian woman's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Sothar- > Sothareze"]
     - form: "-ara"
       gloss: "a Bizarian woman's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Ghalen- > Ghalenara"]
     - form: "-éhran"
       gloss: "a Bizarian woman's hybrid name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Mérin- > Mérinehran"]
     - form: "-ákit"
       gloss: "the Bizarian house of a trade"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["sider- > Siderakit"]
     - form: "-íkot"
       gloss: "the Bizarian house of a place"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["hod- > Hodikot"]
     - form: "-ídek"
       gloss: "the Bizarian house of a forebear"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Ghalen- > Ghalenidek"]
     - form: "-zát"
       gloss: "the Bizarian house of an eastern founder"
@@ -146,10 +169,12 @@ data:
     - form: "-issa"
       gloss: "a Bethuan woman who holds the office or the art"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Grammat- > Grammatissa, a scribe of the realm"]
     - form: "-e"
       gloss: "a Bethuan high priestess's name-ending"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["Hiér- > Hiere"]
   words:
     - form: "soth-"

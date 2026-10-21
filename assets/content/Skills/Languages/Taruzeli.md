@@ -58,6 +58,7 @@ data:
     - form: "-a"
       gloss: "a woman's name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["belgin- > Belgina"]
     - form: "-uya"
       gloss: "a woman's name, the soft form"

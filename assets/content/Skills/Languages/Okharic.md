@@ -35,10 +35,12 @@ data:
     - form: "-ira"
       gloss: "many of them, a company or a kind"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["korthari > kortharira, guardians"]
     - form: "-ing"
       gloss: "of it, belonging to it; set after the word it qualifies"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["nkaru > nkaring, of the flame"]
     - form: "-in"
       gloss: "bearing it, of its kind: the adjective"

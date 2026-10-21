@@ -23,22 +23,27 @@ data:
     - form: "-or"
       gloss: "a man's trade name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["ushadu > Ushador"]
     - form: "-an"
       gloss: "a trade name for anyone"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["bazunu > Bazunan"]
     - form: "-ela"
       gloss: "a woman's trade name"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["ushadu > Ushadela"]
     - form: "-eni"
       gloss: "a woman's trade name, the soft form"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["besiku > Besikeni"]
     - form: "-ari"
       gloss: "the name of a house, a crew or a trading firm"
       attaches: "replaces a closing vowel"
+      replaces: vowel
       examples: ["yakodu > Yakodari"]
   grammar: {verbs: {invariant: true}}
   words:

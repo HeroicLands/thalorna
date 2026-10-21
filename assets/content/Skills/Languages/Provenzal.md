@@ -54,18 +54,22 @@ data:
     - form: "-e"
       gloss: "one who does it; the native agent"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["sorim- > sorime"]
     - form: "-o"
       gloss: "one who does it; the learned agent"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["lorez- > lorezo"]
     - form: "-al"
       gloss: "the office, the body or the whole of it"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["marend- > marendal"]
     - form: "-alo"
       gloss: "the same, in the learned form"
       attaches: "replaces the final vowel"
+      replaces: vowel
       examples: ["marend- > marendalo"]
   words:
     - form: veramis

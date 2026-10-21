@@ -73,6 +73,7 @@
         "lint:earth-names": "node utils/earth-names.mjs",
         "lint:earth-words": "node utils/earth-words.mjs",
         "lint:observer": "node utils/observer-shape.mjs",
+        "lint:affix-replaces": "node utils/affix-replaces.mjs",
         "build:module": "package-build manifest",
         "lint:retired": "node utils/nordmal-drift.mjs && node --test utils/retired-names.test.mjs",
         "lint:nordmal-concordance": "node utils/nordmal-concordance-check.mjs"
