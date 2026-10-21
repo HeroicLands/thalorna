@@ -64,14 +64,14 @@ Three villages are named on Muwojai's roll; the rest of its 30,000 bales comes f
 | Village | Meaning        | Kind         | Holder                                  | Livelihood                                | Assessed |
 | ------- | -------------- | ------------ | --------------------------------------- | ----------------------------------------- | -------: |
 | Zainu   | Crane Terraces | Court estate | The Emperor, through the lord's granary | Rice, the court estate nearest the throne |    1,600 |
-| Zuju    | Blue River     | Demesne      | The lord's granary at Kowu              | The ferry and toll on the road to Léngwou |    1,100 |
+| Zuju    | Blue River     | Demesne      | The lord's granary at Kowu              | The ferry and toll on the road to Lengwou |    1,100 |
 | Tsaimu  | Craft Wood     | Fief         | The Weiju                               | Lacquer and cedar joinery                 |      800 |
 
-The summit shrine of Zijai is provisioned from the lord's villages, and beside it stands the observatory of the omen-readers, whose Tanchéi keep the heavens for the court.
+The summit shrine of Zijai is provisioned from the lord's villages, and beside it stands the observatory of the omen-readers, whose Tanchei keep the heavens for the court.
 
 ## The Roads
 
-Every petition to the Emperor, every envoy bound for the [Dawn Rite]{.name data-type="lore/custom"} and every bale of the court's rice travels some part of Muwojai's road, because Zojai's district opens onto no other ground. The lord's garrisons hold the passes. The ferry at Zuju crosses the river that every traveler to [[place-lengwou|Léngwou]] must cross, and Chaiwo's toll-keepers enter the name of each party that goes over. Nothing reaches the Emperor except over Chaiwo's roads, and nothing leaves Zojai except by the same way.
+Every petition to the Emperor, every envoy bound for the [Dawn Rite]{.name data-type="lore/custom"} and every bale of the court's rice travels some part of Muwojai's road, because Zojai's district opens onto no other ground. The lord's garrisons hold the passes. The ferry at Zuju crosses the river that every traveler to [[place-lengwou|Lengwou]] must cross, and Chaiwo's toll-keepers enter the name of each party that goes over. Nothing reaches the Emperor except over Chaiwo's roads, and nothing leaves Zojai except by the same way.
 
 ## Retainers
 

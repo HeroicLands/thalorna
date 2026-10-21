@@ -67,7 +67,7 @@ Tsuijai's roll names the three villages below; smaller terraces and mining hamle
 | Kodu    | Old Road     | Court estate | The Emperor, through the lord's granary | Rice and charcoal                    |      900 |
 | Tsaigen | Craft Master | Fief         | The Jaju                                | The forge-village of the swordsmiths |      600 |
 
-The summit shrine of Tsuijai keeps the earth and metal aspects of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages.
+The summit shrine of Tsuijai keeps the earth and metal aspects of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages.
 
 ## Retainers
 

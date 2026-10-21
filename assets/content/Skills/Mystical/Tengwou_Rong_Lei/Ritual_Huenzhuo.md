@@ -1,9 +1,11 @@
 ---
-shortcode: zhenho
-name: {full: "Ritual: Zhenho", aliases: [Zhenho, The Minister of Fire]}
+shortcode: henzhuo
+name:
+  full: "Ritual: Huenzhuo"
+  aliases: [Huenzhuo, The Lord of the Unclassified, The First Refusal]
 type: skill
 subType: mystical
-tags: [tengwou, faith-skill, draft]
+tags: [celestial-pantheon, faith-skill, draft]
 data: {templatePriority: null, packFolder: tengwouronglei}
 sohl:
   system:
@@ -15,4 +17,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zhenho|Zhenho]]
+See [[affiliation-henzhuo|Huenzhuo]]

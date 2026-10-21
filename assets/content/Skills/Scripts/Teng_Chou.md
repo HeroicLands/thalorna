@@ -17,14 +17,14 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Teng Chou, the **Celestial Record**, is the writing of the east: one character to one morpheme, characters built out of semantic radicals and combined into compounds exactly as the spoken languages build compound words. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.
+Teng Chou, the **Celestial Record**, is the writing of the east: one character to one morpheme, which in Tantsou is one syllable. Each character is built out of semantic radicals, and a compound word is written as a row of characters, one to a root, exactly as the spoken languages set their roots side by side. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.
 
 Its defining property is that **it is not tied to a language**. Teng Chou writes [[skill-tantsoulng|Tantsou]] and it writes [[skill-jurthatlng|Jurthati]], and a Tantsou minister and a Jenchai retainer who cannot exchange three spoken sentences can conduct an entire negotiation in writing, each reading the characters aloud in his own tongue or not aloud at all. A thousand years of mutual non-recognition between [[affiliation-tantsouempr|Tantsou]] and [[affiliation-jenchaiempr|Jenchai]] has not produced two scripts, because neither court will concede that the other is entitled to a separate one.
 
 ## The two forms
 
-- **Teng Chou**, the complex or formal form—precise angular strokes, the full character, nothing elided. Imperial documents, religious texts, classical literature, monumental bronze. Calligraphy in this form is a discipline of the [[lore-tanchei|Tanchéi]] and, in the islands, of any retainer with pretensions to cultivation; the brushwork is judged as closely as the content.
-- **Dou Chou**, the **Flowing Record**—the simplified running hand, strokes reduced and joined, used for administration, commerce, correspondence and every ledger in either realm. It is legible to a trained scribe and very nearly opaque to anyone else.
+- **Teng Chou**, the complex or formal form—precise angular strokes, the full character, nothing elided. Imperial documents, religious texts, classical literature, monumental bronze. Calligraphy in this form is a discipline of the [[lore-tanchei|Tanchei]] and, in the islands, of any retainer with pretensions to cultivation; the brushwork is judged as closely as the content.
+- **Dou Chou**, the **Record of the Road**—the simplified running hand, strokes reduced and joined, used for administration, commerce, correspondence and every ledger in either realm. It is legible to a trained scribe and very nearly opaque to anyone else.
 
 Both are the same writing system and a character normally learns both, unevenly. Clerks read the cursive better than the formal; scholars the reverse.
 
@@ -34,7 +34,7 @@ Seals. A carved clan seal pressed into red clay is what makes a Tantsou document
 
 ## Who has it
 
-Nobility 30–50%, the priesthood, the imperial bureaucracy, the professional scribes. Certain sacred texts are reserved to the Tanchéi and forbidden to other castes outright—a scribe of the wrong caste who reads them has committed an offense that has nothing to do with his competence. In Jenchai the warrior aristocracy holds calligraphy as a spiritual practice, so literacy runs higher among the retainer class there than the equivalent rank on the mainland.
+Nobility 30–50%, the priesthood, the imperial bureaucracy, the professional scribes. Certain sacred texts are reserved to the Tanchei and forbidden to other castes outright—a scribe of the wrong caste who reads them has committed an offense that has nothing to do with his competence. In Jenchai the warrior aristocracy holds calligraphy as a spiritual practice, so literacy runs higher among the retainer class there than the equivalent rank on the mainland.
 
 ## In play
 

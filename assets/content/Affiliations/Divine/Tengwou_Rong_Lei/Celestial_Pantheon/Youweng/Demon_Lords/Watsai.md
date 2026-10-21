@@ -13,7 +13,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youwéng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youweng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
       - level: 2
         title: Acolyte
         description: >-
@@ -58,7 +58,7 @@ sohl: {system: {commonSkills: []}}
 
 ## Watsai—The Forger of False Records
 
-In the Watsai cultus, [[lore-watsaidty|Watsai]] is described as once an Archival Scribe (Chougen) in [[affiliation-wantou|Wántou]]'s Bureau of All Records, a dutiful functionary who copied and preserved the classifications established during [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting. At some point—the [[lore-tanchei|Tanchéi]] disagree on when—Watsai began to _edit_. Not destroy records, not lose them, but subtly alter them: changing a boundary here, reclassifying a substance there, inserting categories that had never existed into the master archive.
+In the Watsai cultus, [[lore-watsaidty|Watsai]] is described as once an Archival Scribe (Chougen) in [[affiliation-wantou|Wantou]]'s Bureau of All Records, a dutiful functionary who copied and preserved the classifications established during [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting. At some point—the [[lore-tanchei|Tanchei]] disagree on when—Watsai began to _edit_. Not destroy records, not lose them, but subtly alter them: changing a boundary here, reclassifying a substance there, inserting categories that had never existed into the master archive.
 
 The result was not chaos but something more insidious: _false order_. Things that should not exist were given classifications and therefore became real. Creatures that the Great Sorting had dissolved were given new names and reformed. Boundaries between domains were shifted to create jurisdictional gaps that no bureau oversaw—unmonitored spaces in which anything could happen.
 
@@ -73,10 +73,10 @@ Watsai is the celestial patron of the [[affiliation-nuotsourui|Nuotsou Rui]]'s m
 [[affiliation-nuotsourui|Nuotsou Rui]]
 : The cult whose bureaucratic sabotage is dedicated to Watsai
 
-[[affiliation-youweng|Youwéng]]
+[[affiliation-youweng|Youweng]]
 : The Demon Realm
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy whose archives Watsai forges
 
 ## Outside the Ladder

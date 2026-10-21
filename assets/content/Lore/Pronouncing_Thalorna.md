@@ -33,7 +33,7 @@ Each vowel letter has one sound. Vowels are sounded one at a time unless they fo
 
 A pair of vowels not in this table is sounded apart, each vowel on its own, as in _Zoë_.
 
-Two more pairs are written only in some tongues. _ee_ and _oo_ are the _e_ of _bet_ and the _o_ of _go_ held a little, one syllable each, never the sounds of _see_ and _food_, and only [[skill-sinalelng|Sinale]] and [[skill-sowideslng|Sovidur]] write them. _ea_ is _eh-ah_ run into one syllable, and only [[skill-aelwthlng|Aelwythi]] writes it; everywhere else _e_ and _a_ in a row are sounded apart, _e-a_.
+Some pairs are written only in some tongues. _ee_ and _oo_ are the _e_ of _bet_ and the _o_ of _go_ held a little, one syllable each, never the sounds of _see_ and _food_, and only [[skill-sinalelng|Sinale]] and [[skill-sowideslng|Sovidur]] write them. _ea_ is _eh-ah_ run into one syllable, and only [[skill-aelwthlng|Aelwythi]] writes it; everywhere else _e_ and _a_ in a row are sounded apart, _e-a_. _ao_ is _ah-oh_ run into one syllable, near the _ow_ of _cow_, and only [[skill-tantsoulng|Tantsou]] writes it. _ui_ is _oo-ee_ run into one syllable, as in _gooey_ said quickly, and only Tantsou and [[skill-jurthatlng|Jurthati]] write it. In those two tongues an _i_ or a _u_ before another vowel glides into it, so _chuen_ and _chiao_ are each one syllable.
 
 ## Consonants
 

@@ -1,7 +1,7 @@
 ---
 shortcode: wantou
 name:
-  full: Wántou
+  full: Wantou
   aliases: [The Keeper of the Celestial Archive, Chou Sei, The Archive of All Records]
 type: affiliation
 subType: faithtradition
@@ -16,7 +16,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -25,7 +25,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -51,11 +51,11 @@ data:
         description: >-
           Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Wántou, The Keeper of the Celestial Archive: >-
+      Wantou, The Keeper of the Celestial Archive: >-
         Teng Gui of the Chou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Chougen: >-
         Archival Scribes, who copy and preserve records.
-      Chouléi: >-
+      Choulei: >-
         Indexing Spirits, who maintain the classification system itself.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -83,7 +83,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Wántou—The Keeper of the Celestial Archive
+## Wantou—The Keeper of the Celestial Archive
 
 Bureau
 : Chou Sei, The Archive of All Records
@@ -92,9 +92,9 @@ Domain
 : Knowledge
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-Wántou teaches that Chou Sei holds the record of [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, and every amendment since. It does not decide
+Wantou teaches that Chou Sei holds the record of [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting, and every amendment since. It does not decide
 anything; it establishes what is true, which in an administration of precedent is a great deal more
 powerful than deciding.
 
@@ -109,12 +109,12 @@ problem.
 Chougen
 : Archival Scribes, who copy and preserve records.
 
-Chouléi
+Choulei
 : Indexing Spirits, who maintain the classification system itself.
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

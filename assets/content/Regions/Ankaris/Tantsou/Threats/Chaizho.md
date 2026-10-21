@@ -17,7 +17,7 @@ Their hide is the problem. It is thick, scaled and layered over plates of bone, 
 
 ## The Earthshatter
 
-The earthquake the northwest calls the [Kuojén Touhén]{.name data-type="lore/history"} ("Millennial Earthshatter") brought down cliffs that held Khazari cities and tore up wide stretches of Sinalean forest by the roots. The Chaizho came up out of the new fissures in its wake, as if the tremors had woken them from somewhere deep in the earth. Where they lived before, and whether more remain below, nobody knows.
+The earthquake the northwest calls the [Kuojen Touhuen]{.name data-type="lore/history"} ("Millennial Earthshatter") brought down cliffs that held Khazari cities and tore up wide stretches of Sinalean forest by the roots. The Chaizho came up out of the new fissures in its wake, as if the tremors had woken them from somewhere deep in the earth. Where they lived before, and whether more remain below, nobody knows.
 
 ## The Line in the Northwest
 

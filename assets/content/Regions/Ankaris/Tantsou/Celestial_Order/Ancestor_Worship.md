@@ -35,7 +35,7 @@ Each tablet is an ancestor's address: the place where the spirit receives what i
 
 Visitors from the Aureldian west often take ancestor worship for fond remembrance of the dead, and in Tantsou it is nothing of the kind. The living and the dead are bound by obligations that run both ways.
 
-**The living owe the dead** offerings of spirit money and food, a shrine kept in order, a yearly report on the family's affairs filed through the Hearth Monitor (_Tsaikén_), the keeping of every death-day, and children to carry on the line. A family that fails in these has broken a contract, and an ancestor whose offerings are neglected loses credit and strength, which is a harm the living do to the dead.
+**The living owe the dead** offerings of spirit money and food, a shrine kept in order, a yearly report on the family's affairs filed through the Hearth Monitor (_Tsaiken_), the keeping of every death-day, and children to carry on the line. A family that fails in these has broken a contract, and an ancestor whose offerings are neglected loses credit and strength, which is a harm the living do to the dead.
 
 **The dead owe the living** advocacy in heaven, warnings sent through dreams and omens, the protection of the household and counsel on great decisions. An ancestor who ignores his descendants' petitions has abandoned his post, and a family may in the end dismiss him: take his tablet from the shrine, stop his offerings, and cut him off from everything the family can send.
 
@@ -43,21 +43,21 @@ What unsettles visitors most is that **the dead give orders**. Through a Leigen,
 
 ## The Leigen
 
-The Leigen (spirit masters) arise in the [[lore-nouwen|Nouwén]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihuo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
+The Leigen (spirit masters) arise in the [[lore-nouwen|Nouwen]] villages with the gift of speaking to the dead. They carry a household's business to its ancestors and bring back the answer, as interpreter, go-between and spirit-clerk. They receive and read ancestral commands, treat sickness that comes from the spirit side, often alongside the Yaiwo healers of the [[lore-tsaihuo|Tsaihuo]], perform the village rites that enter a birth, a union or a death with heaven, and settle disputes by asking the ancestors concerned to rule.
 
 A Leigen is a peasant by caste, and every caste respects him. Speaking with the dead, he speaks with heaven, and that gives him an authority caste cannot measure. Warlords and even [[lore-zhazho|Zhazho]] consult Leigen on hard spiritual questions, always in private, since to acknowledge a peasant's authority openly would break caste.
 
 ## The Elder Dead
 
-The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep the Tantsou rites. The Sinale honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazari make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanchei|Tanchéi]] do not look into the matter.
+The [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] within the empire do not keep the Tantsou rites. The Sinale honor their dead by planting trees and tending sacred groves, in private ceremonies with nothing of the ledger about them. The Khazari make memorials and keep the tools and weapons of the dead as sacred things. Both traditions stand wholly apart from the human faith, the celestial bureaucracy has no place to file them, and the [[lore-tanchei|Tanchei]] do not look into the matter.
 
 ## The Festival of the Dead
 
-The greatest festival of the dead is the [Festival of the Dead]{.name data-type="lore/gathering"} (Singléi Jui), held in [Zhenyou]{.name data-type="lore/calendar"}, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
+The greatest festival of the dead is the [Festival of the Dead]{.name data-type="lore/gathering"} (Singlei Jui), held in [Zhenyou]{.name data-type="lore/calendar"}, the Month of Snow, at midwinter. Families provision their ancestors for the coming year: spirit money and paper goods are burned in great heaps, accounts are settled, and the Leigen speak with the dead to learn their instructions for the year ahead. It is the holiest and the costliest event of the Tantsou year, and a family that cannot keep it properly faces a year with weakened advocates in heaven. [[lore-clndrstrlgy|Calendar and Astrology]] gives the whole round of festivals.
 
 ## See Also
 
-[[lore-nouwen|Nouwén]]
+[[lore-nouwen|Nouwen]]
 : the caste from which the Leigen arise
 
 [[lore-marriage|Marriage]]

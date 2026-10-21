@@ -14,7 +14,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -83,9 +83,9 @@ sohl: {system: {commonSkills: []}}
 
 ## Zhoushou Zho—The Lord of Water
 
-The Elemental Lord of Water, manifests in the celestial records as a figure of fluid motion and deceptive constancy—an official whose authority extends across all manifestations of water, yet whose administration is marked by a peculiar instability and tendency toward jurisdictional fluidity. Unlike [[lore-daotouwochaidty|Daotou Wochai]]'s rigid certainty or even [[lore-rinhodaowengdty|Rinho Daowéng]]'s organic tolerance, Zhoushou Zho maintains authority through constant adaptation and boundary-shifting. Some [[lore-tanchei|Tanchéi]] scholars note with concern that the Lord of Water exhibits the characteristic traits of his element: formlessness, the capacity to dissolve barriers, the ability to flow around obstacles rather than confronting them directly. Others suggest that this flexibility is precisely the attribute required to administer an element that refuses stable categorization.
+The Elemental Lord of Water, manifests in the celestial records as a figure of fluid motion and deceptive constancy—an official whose authority extends across all manifestations of water, yet whose administration is marked by a peculiar instability and tendency toward jurisdictional fluidity. Unlike [[lore-daotouwochaidty|Daotou Wochai]]'s rigid certainty or even [[lore-rinhodaowengdty|Rinho Daoweng]]'s organic tolerance, Zhoushou Zho maintains authority through constant adaptation and boundary-shifting. Some [[lore-tanchei|Tanchei]] scholars note with concern that the Lord of Water exhibits the characteristic traits of his element: formlessness, the capacity to dissolve barriers, the ability to flow around obstacles rather than confronting them directly. Others suggest that this flexibility is precisely the attribute required to administer an element that refuses stable categorization.
 
-Like all Elemental Lords, Zhoushou Zho answers directly to [[lore-weizhuodty|Wéizhuo]], the Jade Sovereign, rather than to a specific bureau overseer. His authority encompasses water in all its manifestations—rivers, seas, lakes, rain, fog, and water incorporated into other substances. In the Tantsou cosmological framework, water occupies a paradoxical position: it is simultaneously the most common substance and the most dangerous to categorization, because water refuses the stable boundaries that allow classification. A river is not quite a part of the earth (it moves). A cloud is not quite air (it has substance). Seawater is not quite earth (it flows) and not quite pure water (it contains minerals). Zhoushou Zho's entire administrative burden derives from this essential instability.
+Like all Elemental Lords, Zhoushou Zho answers directly to [[lore-weizhuodty|Weizhuo]], the Jade Sovereign, rather than to a specific bureau overseer. His authority encompasses water in all its manifestations—rivers, seas, lakes, rain, fog, and water incorporated into other substances. In the Tantsou cosmological framework, water occupies a paradoxical position: it is simultaneously the most common substance and the most dangerous to categorization, because water refuses the stable boundaries that allow classification. A river is not quite a part of the earth (it moves). A cloud is not quite air (it has substance). Seawater is not quite earth (it flows) and not quite pure water (it contains minerals). Zhoushou Zho's entire administrative burden derives from this essential instability.
 
 ### The Classification of Water
 
@@ -109,11 +109,11 @@ A secondary but equally persistent tension involves the **Bureau of Passage** (D
 
 Zhoushou Zho also maintains an uneasy relationship with **[[affiliation-neitsai|Neitsai]]** (Overseer of the [[affiliation-neitsai|Bureau of Creation]]), whose authority over living things (which consist largely of water) seems to encroach on the Lord of Water's domain. Neitsai's position is that water in living things is part of the _continuity_ of those living things and therefore falls under his bureau. Zhoushou Zho disputes this interpretation, though with less institutional force than his disputes with Raogui.
 
-Finally, Zhoushou Zho maintains a relationship with the **Earth Lord** ([[lore-wengdaozhouwodty|Wéngdao Zhouwo]]) over groundwater, wells, springs, and the boundary between water as a distinct element and water as a component of soil. This dispute is less frequently adjudicated, but it creates practical problems for settlements dependent on wells and for agricultural regions dependent on groundwater.
+Finally, Zhoushou Zho maintains a relationship with the **Earth Lord** ([[lore-wengdaozhouwodty|Wengdao Zhouwo]]) over groundwater, wells, springs, and the boundary between water as a distinct element and water as a component of soil. This dispute is less frequently adjudicated, but it creates practical problems for settlements dependent on wells and for agricultural regions dependent on groundwater.
 
 ### Mortal Engagement
 
-Mortals petition Zhoushou Zho through offerings at water shrines, through the pouring of water-offerings and spirit-documents into rivers or wells, or through mediation by the Tanchéi priesthood. Petitions to the Lord of Water are often more emotional and less formally structured than petitions to the metal or fire lords, though all must still acknowledge proper protocol. Some communities treat petitions to Zhoushou Zho as inherently less certain in outcome than petitions to other Elemental Lords, reflecting the Lord of Water's reputation for boundary-fluidity.
+Mortals petition Zhoushou Zho through offerings at water shrines, through the pouring of water-offerings and spirit-documents into rivers or wells, or through mediation by the Tanchei priesthood. Petitions to the Lord of Water are often more emotional and less formally structured than petitions to the metal or fire lords, though all must still acknowledge proper protocol. Some communities treat petitions to Zhoushou Zho as inherently less certain in outcome than petitions to other Elemental Lords, reflecting the Lord of Water's reputation for boundary-fluidity.
 
 **Fishermen and River-Workers** form the primary petitioning constituency. A fishing community will petition Zhoushou Zho for steady fish populations, reliable water flow, and protection against flooding. These petitions are understood as requests for the Lord of Water to maintain his administrative oversight rather than allow the river to slip into uncontrolled variation. Fishing communities maintain shrines along rivers and observe seasonal festivals honoring Zhoushou Zho, particularly at the beginning of spawning season.
 
@@ -127,7 +127,7 @@ Mortals petition Zhoushou Zho through offerings at water shrines, through the po
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy that appointed Zhoushou Zho as Elemental Lord
 
 [[affiliation-raogui|Raogui]]
@@ -136,8 +136,8 @@ Mortals petition Zhoushou Zho through offerings at water shrines, through the po
 [[affiliation-wodou|Wodou]]
 : Overseer of the Bureau of Passage, who claims authority over water in its "transit" function
 
-[[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]
+[[affiliation-wengdaozhouwo|Wengdao Zhouwo]]
 : The Elemental Lord of Earth, with whom Zhoushou Zho shares jurisdiction over groundwater
 
-[[lore-tanchei|Tanchéi]]
+[[lore-tanchei|Tanchei]]
 : The priesthood who mediate petitions to the Elemental Lords

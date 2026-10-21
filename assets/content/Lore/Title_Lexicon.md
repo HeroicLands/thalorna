@@ -186,7 +186,7 @@ A glossed word appears in a dozen rows—`Bondservant`, `Chieftain`, `Elder`,
 of those peoples uses at home. Read those rows as a statement about the account,
 not about the people.
 
-**A word standing alone is worth attention.** `Niding`, `Átimor`, `Noutsou` and
+**A word standing alone is worth attention.** `Niding`, `Átimor`, `Nuitsou` and
 `Severed` all name the man set outside the law, and each carries its people's
 particular idea of what that means—thrown out of the kindred, struck from the
 citizen roll, unnamed, or cut away. The word is the argument.

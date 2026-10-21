@@ -13,7 +13,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youwéng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youweng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
       - level: 2
         title: Acolyte
         description: >-
@@ -62,7 +62,7 @@ In the Douyo cultus, [[lore-douyodty|Douyo]] is described as a corrupted spirit 
 
 At some point, Douyo is said to have begun _redirecting_. Travelers who should have arrived at a neighboring village found themselves in places that appeared on no map. Trade caravans vanished from well-traveled routes and reappeared weeks later in locations hundreds of leagues away, their members confused and missing time. Pilgrims bound for holy sites arrived instead at the edges of the [[lore-infrnlrlms|Infernal Realms]], where things without proper classification whispered offers of assistance.
 
-The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the [[lore-tanchei|Tanchéi]] is that Douyo encountered something in the spaces between classified regions—something from the [Henléi]{.name data-type="lore/cosmology"} that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo is said to maintain a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
+The Bureau of Passage has never explained how one of its waymark spirits became corrupted. The leading theory among the [[lore-tanchei|Tanchei]] is that Douyo encountered something in the spaces between classified regions—something from the [Huenlei]{.name data-type="lore/cosmology"} that offered it an alternative cartography, a map of roads that connect not places but _states of being_. Douyo is said to maintain a network of passages that exist outside the celestial administration's jurisdiction entirely: roads that lead from despair to madness, from grief to oblivion, from ambition to ruin. Those who travel Douyo's roads arrive somewhere, but it is never where they intended, and it is always where they feared.
 
 ### Mortal Cultus: The Nuotsou Rui
 
@@ -73,12 +73,12 @@ Douyo occupies a lesser but real place in the devotional life of the [[affiliati
 [[affiliation-nuotsourui|Nuotsou Rui]]
 : The cult that venerates Douyo for misdirection and escape
 
-[[affiliation-youweng|Youwéng]]
+[[affiliation-youweng|Youweng]]
 : The Demon Realm
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy whose waymarks Douyo corrupted
 
 ## Outside the Ladder
 
-A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wantou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

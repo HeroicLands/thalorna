@@ -1,6 +1,6 @@
 ---
 shortcode: wengdaozhouwo
-name: {full: "Ritual: Wéngdao Zhouwo", aliases: [Wéngdao Zhouwo]}
+name: {full: "Ritual: Wengdao Zhouwo", aliases: [Wengdao Zhouwo]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-wengdaozhouwo|Wéngdao Zhouwo]]
+See [[affiliation-wengdaozhouwo|Wengdao Zhouwo]]

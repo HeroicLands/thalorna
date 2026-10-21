@@ -15,18 +15,18 @@ data:
       definition: "The Festival of the Mountain, each domain's harvest rite at its summit shrine; native _chai jui_"
       language: skill-tantsoulng
     - name: "Leigen"
-      definition: '"Spirit Master": a Nouwén who speaks with the dead for their households'
+      definition: '"Spirit Master": a Nouwen who speaks with the dead for their households'
       language: skill-tantsoulng
     - name: "Leng Rui"
       definition: "The Dawn Rite, performed by the Emperor on Zojai's summit on the first day of the year; native _re rui_"
       language: skill-tantsoulng
-    - name: "Léngwou"
+    - name: "Lengwou"
       definition: "The Dawn Court, the Emperor's capital on the lowest slope of Zojai; native _Rewu_"
       language: skill-tantsoulng
-    - name: "Noutsou"
+    - name: "Nuitsou"
       definition: "Slaves and outcasts, below every bond"
       language: skill-tantsoulng
-    - name: "Rongléng Tengzhéi"
+    - name: "Rongleng Tengzhei"
       definition: '"Son of Heaven of Ten Thousand Dawns": the Emperor''s style'
       language: skill-tantsoulng
     - name: "Ruising"
@@ -35,7 +35,7 @@ data:
     - name: "Teyan Jenjai"
       definition: '"The Nine Mountains Above the Clouds of Heaven": the islands'' full name for their land'
       language: skill-tantsoulng
-    - name: "Wánduo"
+    - name: "Wanduo"
       definition: "A sorcerer, on the islands a retainer with a stipend and a name"
       language: skill-tantsoulng
     - {name: "Zojai", definition: "The Dragon's Mountain, the Emperor's own"}
@@ -88,16 +88,16 @@ A Jenchai can point to the objects that hold a domain together, and most of them
 
 Ordinary religion is the mainland's household practice with the lord set into it. The shrine is swept and the brazier lit at dawn, food is set before the ancestor tablets, and spirit paper is burned for what the household owes or wants sent up. A retainer household keeps one tablet more than a mainland one: the tablet of the lord's line, set beside the family's own dead, because the household's service does not end when a lord dies. The mainland's dawn exercise survives in the retainers' halls as a drill with the blade, kept in the same courtyards at the same hour.
 
-The rest of the day is service. The farmer works the terrace whose four parts in ten go to the granary; the smith works the forge whose blades go to the hall; the retainer attends his lord, keeps his office and trains. A farmer who wants something of heaven goes to the village shrine, and a lord who wants something of heaven goes up the mountain. The summit shrines are kept by the domain's **Tanchéi**, and their readings of the mountain are taken as seriously as a mainland omen. An eruption is read as heaven's attention, so a household on a mountain that is rumbling sweeps its shrine twice and pays its arrears first.
+The rest of the day is service. The farmer works the terrace whose four parts in ten go to the granary; the smith works the forge whose blades go to the hall; the retainer attends his lord, keeps his office and trains. A farmer who wants something of heaven goes to the village shrine, and a lord who wants something of heaven goes up the mountain. The summit shrines are kept by the domain's **Tanchei**, and their readings of the mountain are taken as seriously as a mainland omen. An eruption is read as heaven's attention, so a household on a mountain that is rumbling sweeps its shrine twice and pays its arrears first.
 
 ## The Round of the Year
 
 The islands keep the mainland calendar with two rites of their own at its two ends.
 
-- [New Year Purification]{.name data-type="lore/custom"} (Shui Nié Wo) closes the year as it does on the mainland: households, shrines and halls are cleansed, and the year's spent spirit paper is burned.
+- [New Year Purification]{.name data-type="lore/custom"} (Shui Nie Wo) closes the year as it does on the mainland: households, shrines and halls are cleansed, and the year's spent spirit paper is burned.
 - **The Dawn Rite** (_Leng Rui_) opens the year. The Emperor performs it at dawn on the first day of the year on Zojai's summit, and every lord's envoy attends. The seating order is the year's political map, and the lords' envoys negotiate it for months. Every household of the Nine lights a lamp at the same dawn, which is the one act the whole realm performs together.
-- [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youwéi]], the Minister of the Moon.
-- The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is each domain's own, held when the harvest is in and the assessment paid. The lord climbs his mountain to the summit shrine, the Tanchéi read the mountain's year from the record, and the lord's roll is closed for the year. The day differs from mountain to mountain, and a lord who cannot climb sends his heir, which is how a domain learns who the heir is to be.
+- [Moon Festival]{.name data-type="lore/gathering"} (You Jui) falls in late autumn as on the mainland, with lanterns lit against the unsorted and offerings to [[lore-youweidty|Youbui]], the Minister of the Moon.
+- The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is each domain's own, held when the harvest is in and the assessment paid. The lord climbs his mountain to the summit shrine, the Tanchei read the mountain's year from the record, and the lord's roll is closed for the year. The day differs from mountain to mountain, and a lord who cannot climb sends his heir, which is how a domain learns who the heir is to be.
 - [Festival of the Dead]{.name data-type="lore/gathering"} , falls at midwinter and is the costliest event of the year, as on the mainland. Retainer households provision the dead of their lord's line as well as their own.
 
 ## Favor and Disgrace
@@ -111,7 +111,7 @@ Penalty runs from the hall's displeasure to death.
 3. **The lash.** Flogging is for commoners and soldiers; a retainer is never struck.
 4. **Confinement.** A retainer may be shut in his own house for a season, with the gate closed and his office held by another.
 5. **The burned writ.** A retainer stripped of his name loses his name-writ to the brazier, his stipend and his seat, and is no longer spoken to by his former name. He is not renamed, because no lord has taken him.
-6. **Outcasting.** A man who has killed his lord, and a house that has harbored the deed, is entered among the **Noutsou**.
+6. **Outcasting.** A man who has killed his lord, and a house that has harbored the deed, is entered among the **Nuitsou**.
 7. [Ruising]{.name data-type="lore/custom"}. A retainer or a lord condemned to die may be ordered to take his own life, which keeps his house its name. The mainland's ordered suicide is the islands' word for every ritual death, ordered or chosen.
 8. **Execution.** Death by the sword is for commoners and for outcasts. Few lords keep a prison, and confinement in one is rare.
 
@@ -119,7 +119,7 @@ Penalty runs from the hall's displeasure to death.
 
 Within his mountain the lord holds civil authority whole. He appoints his own judges from among his retainers, and a judge hears the cases of the castle town and the cases between villages. A village settles its own quarrels through its headman and its elders, and only a quarrel with a retainer or a crime of blood goes up to the lord's judge. The records belong to retainer families that hold the office by inheritance and are named for it, as the [Besheju]{.name data-type="affiliation/lineage"} keep the records of the salt. The assessment is collected through the headman, who answers for the whole village, into the lord's granary.
 
-Religious authority belongs to the summit shrine and its Tanchéi, and the two powers are allies by habit. The shrine's readings support the lord's claim to heaven's favor, and the lord provisions the shrine from its own villages. When the two conflict, the lord decides, but a bad reading in an eruption year can wound a lord's standing more than a lost battle. Above both stands the Emperor, the only claimant to the whole Mandate. An appeal can climb to him, but it reaches Zojai only over the roads of the lord who keeps its gate, and a ruling from the throne carries weight only when some lord is willing to enforce it.
+Religious authority belongs to the summit shrine and its Tanchei, and the two powers are allies by habit. The shrine's readings support the lord's claim to heaven's favor, and the lord provisions the shrine from its own villages. When the two conflict, the lord decides, but a bad reading in an eruption year can wound a lord's standing more than a lost battle. Above both stands the Emperor, the only claimant to the whole Mandate. An appeal can climb to him, but it reaches Zojai only over the roads of the lord who keeps its gate, and a ruling from the throne carries weight only when some lord is willing to enforce it.
 
 ## Service After Death
 
@@ -131,9 +131,9 @@ A person lives accordingly. He keeps faith because his dead depend on it. He cho
 
 ## Reaching the Dead
 
-The living and the dead owe one another as on the mainland: offerings, a kept shrine and the keeping of death-days on one side, advocacy in heaven, warnings through dreams and counsel on great decisions on the other. The channel is the **Leigen**, the spirit master, a Nouwén born with the gift of speaking to the dead, who carries a household's business to its ancestors and brings back the answer for the price of the offering the dead demand. Lords consult the Leigen in private, as mainland lords do.
+The living and the dead owe one another as on the mainland: offerings, a kept shrine and the keeping of death-days on one side, advocacy in heaven, warnings through dreams and counsel on great decisions on the other. The channel is the **Leigen**, the spirit master, a Nouwen born with the gift of speaking to the dead, who carries a household's business to its ancestors and brings back the answer for the price of the offering the dead demand. Lords consult the Leigen in private, as mainland lords do.
 
-The islands add the mountain. A lord's dead are taken to sit in the mountain with the house, and the summit shrine's readings of the mountain are taken as their word. An eruption is the mountain speaking; a quiet year is the mountain content. So the lord's dead are consulted through the Tanchéi of his shrine, the costliest channel in the domain, and the reading arrives in a form that the whole domain hears at once.
+The islands add the mountain. A lord's dead are taken to sit in the mountain with the house, and the summit shrine's readings of the mountain are taken as their word. An eruption is the mountain speaking; a quiet year is the mountain content. So the lord's dead are consulted through the Tanchei of his shrine, the costliest channel in the domain, and the reading arrives in a form that the whole domain hears at once.
 
 ## Speech, the Blade and the Verse
 
@@ -153,19 +153,19 @@ In return he is owed what the bond gives. A retainer is owed his stipend or his 
 
 The islanders divide the weak by whether they stand inside a bond. Inside it, care is a duty. A village pays its assessment as one body, so its widows, orphans and old belong to the whole village, and the headman who lets one starve has let the village's share fall short. A retainer's widow keeps his stipend until the heir succeeds; a retainer's orphan is taken into the lord's hall as a page and raised in the lord's service. Outside a bond, care is a kindness, and the mainland's teaching that alms are credit in heaven survives to make it one.
 
-The man with no lord is the hardest case. A retainer whose lord has died without an heir, or whose house has been dispossessed, has no stipend, no seat and no name that anyone is bound to use. He may find another lord and be renamed, he may take vows and be renamed, or he may sell his blade to whoever pays. The last road leads to the raiding fleets and the mainland's mercenary trade, and the islands hold the men on it in contempt and hire them all the same. Below every bond are the Noutsou, fed as property and owed nothing.
+The man with no lord is the hardest case. A retainer whose lord has died without an heir, or whose house has been dispossessed, has no stipend, no seat and no name that anyone is bound to use. He may find another lord and be renamed, he may take vows and be renamed, or he may sell his blade to whoever pays. The last road leads to the raiding fleets and the mainland's mercenary trade, and the islands hold the men on it in contempt and hire them all the same. Below every bond are the Nuitsou, fed as property and owed nothing.
 
 ## Those Who Cannot Serve
 
 A retainer wounded in his lord's service keeps his name and his stipend, because the wound is part of the service. He is set to the work he can still do, and most such men end as teachers of arms and letters in the lord's hall. A commoner who cannot work stays on his village's share, and his neighbors carry his days of labor on the castle and the roads.
 
-Age has its own door. A lord or a retainer who can no longer serve well retires while he lives, takes vows and is renamed, and his heir succeeds at once. Retirement settles a succession while the old man can still enforce it, and it is the ordinary end of a long life at the top of a house. The Retired Emperor in [[place-lengwou|Léngwou]] is the realm's best-known example, and his household is one the court cannot afford.
+Age has its own door. A lord or a retainer who can no longer serve well retires while he lives, takes vows and is renamed, and his heir succeeds at once. Retirement settles a succession while the old man can still enforce it, and it is the ordinary end of a long life at the top of a house. The Retired Emperor in [[place-lengwou|Lengwou]] is the realm's best-known example, and his household is one the court cannot afford.
 
 ## Shelter, Teaching and Defense
 
 Shelter is the lord's. Every village sits on land entered in the lord's roll, and a village that pays its assessment cannot be moved off it. A retainer lives in the castle town in a house the lord provides, or on the fief he holds. When a family fails, the village takes in its commoners and the lord's hall takes in its retainers' children.
 
-Teaching runs through the household and the hall. A craft is taught in its workshop from master to son and apprentice, and the smiths' lineages teach theirs in the forge-yards, one of which an [[being-embrhnd|Emberhound]] guards. Retainer children are schooled in the hall, the boys in arms and letters, the girls in letters, accounts and the keeping of a household. At ten every child of the Nine is tested for the gift, as on the mainland. A child who shows it is claimed by the lord and raised a retainer, with a stipend and in time a granted name, and the family may see the child; on the islands a [[lore-wanduo|Wánduo]] is a retainer like any other, and is not property.
+Teaching runs through the household and the hall. A craft is taught in its workshop from master to son and apprentice, and the smiths' lineages teach theirs in the forge-yards, one of which an [[being-embrhnd|Emberhound]] guards. Retainer children are schooled in the hall, the boys in arms and letters, the girls in letters, accounts and the keeping of a household. At ten every child of the Nine is tested for the gift, as on the mainland. A child who shows it is claimed by the lord and raised a retainer, with a stipend and in time a granted name, and the family may see the child; on the islands a [[lore-wanduo|Wanduo]] is a retainer like any other, and is not property.
 
 Defense is layered. The **Tsaihuo** soldiers are raised from the castle town and the villages at a fixed rate on the assessment; the retainers command them and fill the lord's ships. Each lord keeps his own fleet. When a mountain erupts and a [[being-pyrclsm|Pyroclasm]] walks out of it, the lord's retainers clear the villages in its path and his sorcerers and shrine priests try to turn it toward the sea.
 
@@ -179,7 +179,7 @@ A child is entered on the household's shrine at birth and is known by house and 
 
 The blind spot of the islands is the bond itself. Faith is owed to the lord, and nothing in the culture says what a retainer owes when the lord is wrong. Thoughtful Jenchai disagree about it. One school holds that faith is owed to the lord whatever he commands, and that a retainer's only answer to a wrong order is the blade. The other holds that faith is owed to the house and the mountain, and that a retainer may set his lord aside to save them. The first school costs the islands their best men at the moments they are most needed, and the second has started every war between the houses.
 
-The sin is the [War of the Empty Seat]{.name data-type="lore/history"}. When Hojujai Henwo, the last Teng Ja, died in 709 AF, his heir was three years old. The houses of the Nine preach faith to a lord's heir as the first of virtues, and the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, so that no house should hold it and the balance among them should stand. The war that followed ran until 712 AF. The peace was bought with the throne: the Emperor abdicated in favor of his eleven-year-old son, who has conferred the office on nobody since. The islands hold that the mainland lost the Mandate because its line of emperors was broken. Their own line stands unbroken because the lords made a Son of Heaven step down to pay for their quarrel, and they keep the Dawn Rite each year with the Retired Emperor watching from [[place-lengwou|Léngwou]].
+The sin is the [War of the Empty Seat]{.name data-type="lore/history"}. When Hojujai Henwo, the last Teng Ja, died in 709 AF, his heir was three years old. The houses of the Nine preach faith to a lord's heir as the first of virtues, and the [[affiliation-shuiwojaidmn|Shuiwojai Domain]] and the [[affiliation-wojaidmn|Wojai Domain]] pressed the court not to confer the office on a regency, so that no house should hold it and the balance among them should stand. The war that followed ran until 712 AF. The peace was bought with the throne: the Emperor abdicated in favor of his eleven-year-old son, who has conferred the office on nobody since. The islands hold that the mainland lost the Mandate because its line of emperors was broken. Their own line stands unbroken because the lords made a Son of Heaven step down to pay for their quarrel, and they keep the Dawn Rite each year with the Retired Emperor watching from [[place-lengwou|Lengwou]].
 
 ## See Also
 

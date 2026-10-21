@@ -75,7 +75,11 @@ data:
       attaches: "added"
       examples: ["wai > waiyu, ten coins"]
   words:
-    - {form: ho, class: "n", field: "Land, sea and sky", gloss: "fire", source: {kind: inherited}}
+    - form: ho
+      class: "n"
+      field: "Land, sea and sky"
+      gloss: "fire; and, by the other pitch, hand"
+      source: {kind: inherited}
     - form: ji
       class: "n"
       field: "Land, sea and sky"
@@ -137,6 +141,11 @@ data:
       class: "n"
       field: "Land, sea and sky"
       gloss: "thunder; and, at the same pitch, ten thousand, a myriad"
+      source: {kind: inherited}
+    - form: ra
+      class: "n"
+      field: "Land, sea and sky"
+      gloss: "lightning"
       source: {kind: inherited}
     - form: tsui
       class: "n"
@@ -330,7 +339,7 @@ data:
     - form: tanjei
       class: "n"
       field: "Rank, house and office"
-      gloss: "a celestial scholar; the native reading of _Tanchéi_"
+      gloss: "a celestial scholar; the native reading of _Tanchei_"
       source: {kind: coined}
       built: [tan, "-jei"]
     - form: wobu
@@ -354,13 +363,13 @@ data:
     - form: nuwen
       class: "n"
       field: "Rank, house and office"
-      gloss: "the farmers; the native reading of _Nouwén_"
+      gloss: "the farmers; the native reading of _Nouwen_"
       source: {kind: coined}
       built: [nu, wen]
     - form: nuzu
       class: "n"
       field: "Rank, house and office"
-      gloss: "the bound folk; the native reading of _Noutsou_"
+      gloss: "the bound folk; the native reading of _Nuitsou_"
       source: {kind: coined}
       built: [nu, "-zu"]
     - form: tanzo
@@ -433,6 +442,21 @@ data:
       class: "n"
       field: "Rites, honor and court"
       gloss: "record, lore"
+      source: {kind: inherited}
+    - form: wan
+      class: "n"
+      field: "Rites, honor and court"
+      gloss: "account, reckoning"
+      source: {kind: inherited}
+    - form: do
+      class: "n"
+      field: "Rites, honor and court"
+      gloss: "sorcery, magic"
+      source: {kind: inherited}
+    - form: "no"
+      class: "n"
+      field: "Rites, honor and court"
+      gloss: "decay, rot"
       source: {kind: inherited}
     - form: dowu
       class: "n"
@@ -1184,7 +1208,7 @@ data:
         - "Zoja"
         - "Henja"
         - "Zowo"
-        - "Henwo"
+        - "Huenwo"
         - "Rowo"
         - "Tsuiwo"
         - "Buija"
@@ -1241,17 +1265,14 @@ data:
       to: skill-jurthatlng
       steps:
         - step: "1"
-          change: "`á` > `a`; `à` > `a`; `é` > `e`; `è` > `e`; `í` > `i`; `ì` > `i`; `ó` > `o`; `ò` > `o`; `ú` > `u`; `ù` > `u`"
-          where: anywhere
-        - step: "2"
           change: "`eng` > `ē`; `eng` > `ē`; `ing` > `i`; `ing` > `i`; `ong` > `ō`; `ong` > `ō`"
           where: at the end of a word
-        - step: "3"
+        - step: "2"
           change: "`iao` > `yo`; `ao` > `ō`; `ou` > `ū`; `ou` > `ū`; `uo` > `o`; `ie` > `e`; `ei` > `ē`; `chy` > `ch`"
           where: anywhere
-        - {step: "4", change: "`zh` > `z`; `l` > `r`", where: anywhere}
-        - {step: "5", change: "`hu` > `fu`; `hu` > `fu`", where: at the start of a word}
-        - {step: "6", change: "`tu` > `tsu`; `tu` > `tsu`", where: at the start of a word}
+        - {step: "3", change: "`zh` > `z`; `l` > `r`", where: anywhere}
+        - {step: "4", change: "`hu` > `fu`; `hu` > `fu`", where: at the start of a word}
+        - {step: "5", change: "`tu` > `tsu`; `tu` > `tsu`", where: at the start of a word}
   scope:
     folders: [jenchai, ankarisjenchai]
     parents: [jenchairgn]
@@ -1309,13 +1330,13 @@ data:
     - {name: Keeper of the Stables, tongue: translation}
     - {name: Kingdom of Mountains and Seas, tongue: translation}
     - {name: Kowu, tongue: jurthati, built: [ko, wu]}
-    - {name: Léngwou, tongue: kept, built: [leng, wou]}
+    - {name: Lengwou, tongue: kept, built: [leng, wou]}
     - {name: Lord's Peak, tongue: translation}
     - {name: Moon Hall, tongue: translation}
     - {name: Moon Peak, tongue: translation}
     - {name: Muwojai Domain, tongue: translation}
     - {name: Nine Mountains, tongue: translation}
-    - {name: Nouwén, tongue: kept, built: [nou, wen]}
+    - {name: Nouwen, tongue: kept, built: [nou, wen]}
     - {name: Old Hall, tongue: translation}
     - {name: Omen-Reader, tongue: translation}
     - {name: Outlaw, tongue: translation}
@@ -1332,13 +1353,13 @@ data:
     - {name: Snow Peak, tongue: translation}
     - {name: Star Peak, tongue: translation}
     - {name: Subject, tongue: translation}
-    - {name: Tanchéi, tongue: kept, built: [tan, chei]}
+    - {name: Tanchei, tongue: kept, built: [tan, chei]}
     - {name: Teng Ja, tongue: kept, built: [teng, ja]}
     - {name: The Breaking Away, tongue: translation}
     - {name: The Dawn Court, tongue: translation}
     - {name: The Secession of Jenchai, tongue: translation}
     - {name: Thunder Peak, tongue: translation}
-    - {name: Tsaihuo, tongue: kept}
+    - {name: Tsaihuo, tongue: kept, built: [tsai, huo]}
     - {name: Tsuijai, tongue: jurthati, built: [tsui, -jai]}
     - {name: Tsuijai Domain, tongue: translation}
     - {name: Tsuiwu, tongue: jurthati, built: [tsui, wu]}
@@ -1367,7 +1388,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Tantsou}}
 
-# terran_analog: Jurthati is an island daughter of the Tantsou stock, open-syllabled and mora-timed in the manner of Japanese beside a Chinese-shaped parent, and its inherited words lose the parent's -ng into long vowels as Japanese readings of Chinese do. The inherited words follow from Tantsou by the change table; the island words coined here are made to the rules and are not the Japanese or Chinese word for their meaning.
+# terran_analog: Jurthati is an island daughter of the Tantsou stock, open-syllabled and mora-timed in the manner of Japanese beside a Chinese-shaped parent, and its inherited words lose the parent's -ng into long vowels as Japanese readings of Chinese do. The inherited words are stated, and agree with the change table; the island words coined here are made to the rules and are not the Japanese or Chinese word for their meaning.
 ---
 
 Jurthati is a tongue of the [Tantsou Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Jurthati, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -1467,7 +1488,7 @@ The islands of Jenchai speak the mainland's words with the music taken out. Wher
 
 This page is the word-hoard of the island tongue. It gives the inherited stock as the change table makes it from [[skill-tantsoulng#lexicon|Tantsou]], the island words beside it, the endings of the honorific grid, the rules a new word or name is built by, and the register of every name the setting gives in Jenchai.
 
-Jurthati holds two readings for much of its vocabulary. The **native reading** is the word as the islands say it, made from the mainland word by the changes below. The **learned reading** is the mainland pronunciation, written as the mainland writes it, tone marks and all, and kept for the realm's name, titles, rites, the names of castes and offices, and the set phrases of the court and the shrines. The learned reading keeps the _-ng_, the _zh_, the _l_ and the four tones the native reading loses, so _Ruising_, the ritual death, is a learned word whose native reading is _ruizi_. The dictionary gives the native reading; the learned forms the notes write stand in the table of names outside the pattern below.
+Jurthati holds two readings for much of its vocabulary. The **native reading** is the word as the islands say it, which agrees with the mainland word by the changes below. The **learned reading** is the mainland pronunciation, written as the mainland writes it and kept for the realm's name, titles, rites, the names of castes and offices, and the set phrases of the court and the shrines. The learned reading keeps the _-ng_, the _zh_, the _l_ and the four tones the native reading loses, so _Ruising_, the ritual death, is a learned word whose native reading is _ruizi_. The dictionary gives the native reading; the learned forms the notes write stand in the table of names outside the pattern below.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -1508,7 +1529,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-jurthatlng'
 
 ## The family {#the-family}
 
-Jurthati is the daughter of [[skill-tantsoulng|Tantsou]], and every inherited word follows from its mainland root by the changes below, in the order given. The parent column is the form the [[skill-tantsoulng#lexicon|Tantsou Lexicon]] cites, tone mark and all; the daughter column is the native reading.
+Jurthati is the daughter of [[skill-tantsoulng|Tantsou]]. Each inherited word is stated beside its mainland root, one row for each character of Teng Chou the two tongues share, and the changes below, in the order given, describe how the island readings drew apart. A reading agrees with the changes and is not worked out from them, so a few readings go their own way. The parent column is the form the [[skill-tantsoulng#lexicon|Tantsou Lexicon]] cites; the daughter column is the native reading.
 
 ### Roots
 
@@ -1532,14 +1553,13 @@ ORDER BY step_position, part
 
 The rows of one step are one change, written out sound by sound.
 
-1. **The tones become pitch.** The acute and the grave fall away. The macron stays as length: a vowel in the mainland's high level tone is a long vowel on the islands.
-2. **The _-ng_ becomes length.** A closing _ng_ is lost into the vowel before it, which is held long: _teng_ gives _te_, _jing_ gives _ji_, _wong_ gives _wo_. A closing _n_ stays, and is held as a beat of its own.
-3. **Gliding vowels settle.** _ao_ and _ou_ become single long vowels, _iao_ becomes _yo_ and loses its glide after _ch_, _uo_ becomes _o_, _ie_ becomes _e_, and a long _ei_ becomes one long vowel. The pairs _ai_, _ei_ and _ui_ stay.
-4. **Two consonants change.** _zh_ becomes _z_ and _l_ becomes the tapped _r_.
-5. **Before _u_**, an opening _h_ becomes _f_.
-6. **Before _u_**, an opening _t_ becomes _ts_.
+1. **The _-ng_ becomes length.** A closing _ng_ is lost into the vowel before it, which is held long: _teng_ gives _te_, _jing_ gives _ji_, _wong_ gives _wo_. A closing _n_ stays, and is held as a beat of its own.
+2. **Gliding vowels settle.** _ao_ and _ou_ become single long vowels, _iao_ becomes _yo_ and loses its glide after _ch_, _uo_ becomes _o_, _ie_ becomes _e_, and a long _ei_ becomes one long vowel. The pairs _ai_, _ei_ and _ui_ stay.
+3. **Two consonants change.** _zh_ becomes _z_ and _l_ becomes the tapped _r_.
+4. **Before _u_**, an opening _h_ becomes _f_.
+5. **Before _u_**, an opening _t_ becomes _ts_.
 
-**Pitch.** A root in the high level or the rising tone is said high; a root in the falling or the low tone is said low. The pitch is not written. Where two roots fall together in writing, the pitch parts them when it differs, and nothing in speech parts them when it does not.
+**Pitch.** The mainland's tones became pitch on the islands. A root in the high level or the rising tone is said high; a root in the falling or the low tone is said low. The pitch is not written. Where two roots fall together in writing, the pitch parts them when it differs, and nothing in speech parts them when it does not.
 
 ### Words the changes made alike
 
@@ -1549,9 +1569,9 @@ The rows of one step are one change, written out sound by sound.
 | `zen`  | low, high | _zhen_ snow; _zhin_ boar           |
 | `chen` | low, high | _chuen_ frost; _chen_ emperor      |
 | `wen`  | low, high | _wuen_ five; _wen_ center          |
-| `hen`  | high, low | _huen_ chaos; _hieng_ tiger        |
+| `hen`  | high, low | _huen_ chaos; _hen_ tiger          |
 | `mu`   | low       | _mou_ wood; _muo_ green            |
-| `nu`   | low       | _nou_ field; _nuei_ bound          |
+| `nu`   | low       | _nou_ field; _nui_ bound           |
 | `wo`   | high      | _wong_ sea; _wo_ sacred            |
 | `rou`  | low       | _rao_ thunder; _rong_ ten thousand |
 | `zo`   | low       | _zhuo_ lord; _zho_ dragon          |
@@ -1625,28 +1645,28 @@ ORDER BY position
 
 The notes write these names in the learned reading, so they keep the mainland's tones, its _-ng_, its _zh_ and its _l_. Each stands with its native reading where this page's words give one.
 
-| Name                | Where it is met                                                                   | Native reading | Why it stands outside                                                                                                         |
-| ------------------- | --------------------------------------------------------------------------------- | -------------- | ----------------------------------------------------------------------------------------------------------------------------- |
-| _Jenchai_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _Jenjai_       | the realm's name in the learned reading, as the court and the script give it                                                  |
-| _Rongléng Tengzhéi_ | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _Rore Tezei_   | the Emperor's style, a title of the court in the learned reading                                                              |
-| _Daozhuo_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _dozo_         | a rank in the learned reading                                                                                                 |
-| _Shuizhuo_          | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _shuizo_       | a rank in the learned reading                                                                                                 |
-| _Ruising_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _ruizi_        | a rite in the learned reading                                                                                                 |
-| _Noutsou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuzu_         | a caste in the learned reading                                                                                                |
-| _Shuonong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _shono_        | a caste in the learned reading                                                                                                |
-| _Nouwén_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuwen_        | a caste in the learned reading                                                                                                |
-| _Tanchéi_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _tanjei_       | a caste in the learned reading                                                                                                |
-| _Wohou_             | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _wobu_         | a caste in the learned reading                                                                                                |
-| _Zhazho_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _zazo_         | a caste in the learned reading                                                                                                |
-| _Tsaihuo_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | none           | a caste in the learned reading, whose second part is no root of the Tantsou page                                              |
-| _Wánduo_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | none           | the mainland's sorcerer caste, whose first part is no root of the Tantsou page; on the islands sorcerers rank among the Wohou |
-| _Chai Kowen_        | [[skill-jurthatlng\|Jurthati]]                                                    | _Chai Kowen_   | the name of court speech, whose first word keeps the learned _chai_ of the court                                              |
-| _Léngwou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Rewu_         | the capital's name in the learned reading                                                                                     |
-| _Weiléng_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Weire_        | the reigning Emperor's name in the learned reading                                                                            |
-| _Teng Ja_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _te ja_        | the office of the realm's war leader, a title of the court in the learned reading                                             |
-| _Chaiwong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _chaiwo_       | the mainland's name for the islands, the mountains and the seas, in Tantsou                                                   |
-| _Leng Rui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _re rui_       | the Dawn Rite, a rite in the learned reading                                                                                  |
-| _Chai Jui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                                                                   |
+| Name                | Where it is met                                                                   | Native reading | Why it stands outside                                                             |
+| ------------------- | --------------------------------------------------------------------------------- | -------------- | --------------------------------------------------------------------------------- |
+| _Jenchai_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _Jenjai_       | the realm's name in the learned reading, as the court and the script give it      |
+| _Rongleng Tengzhei_ | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _Rore Tezei_   | the Emperor's style, a title of the court in the learned reading                  |
+| _Daozhuo_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _dozo_         | a rank in the learned reading                                                     |
+| _Shuizhuo_          | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _shuizo_       | a rank in the learned reading                                                     |
+| _Ruising_           | [[affiliation-jenchaiempr\|Jenchai Empire]], [[place-jenchairgn\|Jenchai Region]] | _ruizi_        | a rite in the learned reading                                                     |
+| _Nuitsou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuzu_         | a caste in the learned reading                                                    |
+| _Shuonong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _shono_        | a caste in the learned reading                                                    |
+| _Nouwen_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _nuwen_        | a caste in the learned reading                                                    |
+| _Tanchei_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _tanjei_       | a caste in the learned reading                                                    |
+| _Wohou_             | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _wobu_         | a caste in the learned reading                                                    |
+| _Zhazho_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _zazo_         | a caste in the learned reading                                                    |
+| _Tsaihuo_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _tsaiho_       | a caste in the learned reading                                                    |
+| _Wanduo_            | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _wando_        | the mainland's sorcerer caste; on the islands sorcerers rank among the Wohou      |
+| _Chai Kowen_        | [[skill-jurthatlng\|Jurthati]]                                                    | _Chai Kowen_   | the name of court speech, whose first word keeps the learned _chai_ of the court  |
+| _Lengwou_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Rewu_         | the capital's name in the learned reading                                         |
+| _Weileng_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _Weire_        | the reigning Emperor's name in the learned reading                                |
+| _Teng Ja_           | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _te ja_        | the office of the realm's war leader, a title of the court in the learned reading |
+| _Chaiwong_          | [[affiliation-jenchaiempr\|Jenchai Empire]]                                       | _chaiwo_       | the mainland's name for the islands, the mountains and the seas, in Tantsou       |
+| _Leng Rui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _re rui_       | the Dawn Rite, a rite in the learned reading                                      |
+| _Chai Jui_          | [[lore-jenchaiclt\|Jenchai]]                                                      | _chai jui_     | the Festival of the Mountain, a rite in the learned reading                       |
 
 The proverbs and formulae the language note quotes are in the native reading. The mountain dialects keep a closing _-ng_ the standard speech has lengthened away, and the shrine register keeps mainland forms whole, tones and all.
 

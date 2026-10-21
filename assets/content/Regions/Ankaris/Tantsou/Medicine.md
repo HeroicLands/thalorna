@@ -11,7 +11,7 @@ A Yaiwo master takes a new apprentice's wrist in her fingers on the first mornin
 
 ## The Healers' Standing
 
-The Yaiwo are Tsaihuo by caste and are held in a respect far above it. They have none of the political weight of the [[lore-tanchei|Tanchéi]] or the [[lore-wanduo|Wánduo]], and they do not need it: everyone falls ill, from the poorest peasant to the Son of Heaven, and everyone needs a healer who understands how a body is put together.
+The Yaiwo are Tsaihuo by caste and are held in a respect far above it. They have none of the political weight of the [[lore-tanchei|Tanchei]] or the [[lore-wanduo|Wanduo]], and they do not need it: everyone falls ill, from the poorest peasant to the Son of Heaven, and everyone needs a healer who understands how a body is put together.
 
 ## What a Healer Believes
 
@@ -48,16 +48,16 @@ Some sickness comes from the spirit side. An ancestor withdraws his advocacy, a 
 
 The Yaiwo answer for the health of whole communities: clean water, the quarantine and treatment of epidemics, and a watch on the health of every district. They work under the Warlords, and a Warlord counts his people's health as a measure of his own government, since a province swept by plague is a province whose classification is failing, and the court reads it so.
 
-When an epidemic strikes, the Tanchéi are called to say whether it has a cosmic cause: the displeasure of a bureau, a breach in the boundary between the sorted world and the [Henléi]{.name data-type="lore/cosmology"}, or a failure in the district's spiritual upkeep. The response then joins all three: the Yaiwo's remedies, the Tanchéi's diagnosis and the Leigen's rites.
+When an epidemic strikes, the Tanchei are called to say whether it has a cosmic cause: the displeasure of a bureau, a breach in the boundary between the sorted world and the [Huenlei]{.name data-type="lore/cosmology"}, or a failure in the district's spiritual upkeep. The response then joins all three: the Yaiwo's remedies, the Tanchei's diagnosis and the Leigen's rites.
 
 ## Training and Rank
 
 A healer apprentices under a master for many years. The training joins the study of the medical texts, which are ordered by the five elements, with practice at the master's side in diagnosis and treatment. A Yaiwo rises through four ranks:
 
-- _Chéizhui_ (apprentices) learn the principles of the body's classification, prepare simple remedies and assist in minor treatments.
+- _Cheizhui_ (apprentices) learn the principles of the body's classification, prepare simple remedies and assist in minor treatments.
 - _Yaigui_ (practitioners) have finished their apprenticeship. They keep their own shops or serve as household physicians.
 - _Daoyai_ (master physicians) have won wide respect for their skill. They treat high nobles and teach.
-- _Woyai_ (grand healers) are held to understand the bond between the body's order and the cosmic order nearly completely. They attend the Emperor and the Warlords, and the Tanchéi consult them where health and classification meet.
+- _Woyai_ (grand healers) are held to understand the bond between the body's order and the cosmic order nearly completely. They attend the Emperor and the Warlords, and the Tanchei consult them where health and classification meet.
 
 The Tantsou draw no line between health of the body and health of the spirit. Both are the same order, and both are kept the same way: by keeping things in their places.
 

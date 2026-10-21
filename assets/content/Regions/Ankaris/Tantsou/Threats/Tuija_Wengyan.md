@@ -41,7 +41,7 @@ Tuija Wengyan, granted the name Iron Spear Piercing the Clouds for his service, 
 
 **The disobedience.** On a critical campaign he received a direct imperial order to hold his position. He judged it a mistake, attacked, and won. The victory was the problem: a battle won by defying an order is proof the order was wrong, and an imperial order cannot be wrong without the [[lore-mandatehvn|Mandate]] behind it being questioned. The court stripped him of his rank and exiled him, and the registry recorded the victory under another commander's name.
 
-**The exile.** He did not accept it. In exile he gathered soldiers disaffected by the purge that followed him and minor [[lore-zhazho|Zhazho]] nobles with grievances of their own against the court. The nobles brought their [[lore-wanduo|Wánduo]] with them, because a Zhazho's sorcerers go where their owner goes.
+**The exile.** He did not accept it. In exile he gathered soldiers disaffected by the purge that followed him and minor [[lore-zhazho|Zhazho]] nobles with grievances of their own against the court. The nobles brought their [[lore-wanduo|Wanduo]] with them, because a Zhazho's sorcerers go where their owner goes.
 
 **The rebellion.** He means to return, not as the empire's servant but as its conqueror. His forces have made real gains in the border provinces, and the alliance that carried them there is beginning to crack.
 
@@ -67,11 +67,11 @@ He needs nobles he does not trust and sorcerers he does not own. His rebellion h
 
 ### Patrons
 
-[Zhaowéi Lengzhai]{.name data-type="being/npc"}
-: called the Radiant Phoenix, the shrewd matriarch of the [Zhaowéi clan]{.name data-type="affiliation/lineage"}, who wants her family's influence back after years of decline. Her Wánduo work fire and earth. She favors open battle and thinks Tuija a necessary tool to be put down once the work is done.
+[Zhaowei Lengzhai]{.name data-type="being/npc"}
+: called the Radiant Phoenix, the shrewd matriarch of the [Zhaowei clan]{.name data-type="affiliation/lineage"}, who wants her family's influence back after years of decline. Her Wanduo work fire and earth. She favors open battle and thinks Tuija a necessary tool to be put down once the work is done.
 
-[Wenzhao Wéngdao]{.name data-type="being/npc"}
-: called Wind's Roar, the young head of the [Wenzhao clan]{.name data-type="affiliation/lineage"}, too impatient to wait out his family's slow rehabilitation at court. His Wánduo work air and spirit. He prefers subterfuge, and he also thinks Tuija expendable.
+[Wenzhao Wengdao]{.name data-type="being/npc"}
+: called Wind's Roar, the young head of the [Wenzhao clan]{.name data-type="affiliation/lineage"}, too impatient to wait out his family's slow rehabilitation at court. His Wanduo work air and spirit. He prefers subterfuge, and he also thinks Tuija expendable.
 
 ### Enemies
 
@@ -89,10 +89,10 @@ The True Record
 : A clerk in a provincial archive has found the original battle report, with Tuija's name on the victory. Both the rebels and the court want it, for opposite reasons.
 
 The Matriarch's Exit
-: Zhaowéi Lengzhai wants safe passage out of the empire for her heirs before the rebellion's luck turns, and she will pay with Tuija's plans.
+: Zhaowei Lengzhai wants safe passage out of the empire for her heirs before the rebellion's luck turns, and she will pay with Tuija's plans.
 
 Sorcerers Without Owners
-: Two of Wenzhao Wéngdao's Wánduo have slipped away from his camp and are trying to reach [[affiliation-hazhao|Ha Zhao]], the Shadow Sect. Their owner, the rebels and the throne all want them back.
+: Two of Wenzhao Wengdao's Wanduo have slipped away from his camp and are trying to reach [[affiliation-hazhao|Ha Zhao]], the Shadow Sect. Their owner, the rebels and the throne all want them back.
 
 The Northern Envoy
 : An envoy from [[being-wogenhenzhuo|Wogen Henzhuo]] reaches the rebel camp. Tuija must decide whether a steppe army in the north is an ally or the end of the empire he means to rule.

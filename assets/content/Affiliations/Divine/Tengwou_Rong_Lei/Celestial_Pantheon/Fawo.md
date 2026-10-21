@@ -16,7 +16,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -25,7 +25,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -55,7 +55,7 @@ data:
         Teng Gui of the Falou Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Nouwo: >-
         Field Allocation Spirits, who distribute harvest quality to farming communities.
-      Faléi: >-
+      Falei: >-
         Coin Spirits, who influence the flow of trade and commercial fortune.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -92,7 +92,7 @@ Domain
 : Prosperity
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
 In Fawo's teaching, prosperity is allocated, not granted. Falou Sei holds the schedules by which harvest quality and
 commercial fortune are distributed, and a merchant house's good years are its allocation rather than
@@ -108,12 +108,12 @@ when Falou Sei is winning.
 Nouwo
 : Field Allocation Spirits, who distribute harvest quality to farming communities.
 
-Faléi
+Falei
 : Coin Spirits, who influence the flow of trade and commercial fortune.
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

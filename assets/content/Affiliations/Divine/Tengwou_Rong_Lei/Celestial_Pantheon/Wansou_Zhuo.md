@@ -1,7 +1,7 @@
 ---
 shortcode: wansouzhuo
 name:
-  full: Wánsou Zhuo
+  full: Wansou Zhuo
   aliases: [The Chief Auditor of Souls, Singwou, The Ministry of Final Account]
 type: affiliation
 subType: faithtradition
@@ -16,7 +16,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -25,7 +25,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -51,11 +51,11 @@ data:
         description: >-
           Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Wánsou Zhuo, The Chief Auditor of Souls: >-
+      Wansou Zhuo, The Chief Auditor of Souls: >-
         Teng Gui of the Singwou, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
       Wai Singzhuo: >-
         The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
-      Haléi: >-
+      Halei: >-
         Transit Spirits, who escort souls from death to processing.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
@@ -83,7 +83,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Wánsou Zhuo—The Chief Auditor of Souls
+## Wansou Zhuo—The Chief Auditor of Souls
 
 Bureau
 : Singwou, The Ministry of Final Account
@@ -92,11 +92,11 @@ Domain
 : Death
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-In Wánsou Zhuo's teaching, every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
+In Wansou Zhuo's teaching, every soul passes through Singwou, which gives the ministry leverage no other bureau has and which it
 is not above using. At death the Chief Auditor reviews the moral ledger line by line—the running
-account of credits and debits that the household's Tsaikén has been filing on all along—and what
+account of credits and debits that the household's Tsaiken has been filing on all along—and what
 the audit finds determines the quality of the afterlife and the power the spirit will have to
 advocate for its descendants.
 
@@ -110,12 +110,12 @@ desk eventually.
 Wai Singzhuo
 : The Ten Magistrates of the Dead, each presiding over a different category of moral failing.
 
-Haléi
+Halei
 : Transit Spirits, who escort souls from death to processing.
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

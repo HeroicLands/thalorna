@@ -3,7 +3,7 @@ shortcode: hazhao
 name: {full: Ha Zhao, aliases: [The Shadow Sect, Shadow Folk, Hatsou]}
 type: affiliation
 subType: criminal
-description: "Rogue Shadow Sect of escaped Wánduo sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
+description: "Rogue Shadow Sect of escaped Wanduo sorcerers offering forbidden magic while pursuing liberation of magic itself from the empire's classification system."
 tags: []
 data:
   culture: tantsouclt
@@ -80,20 +80,20 @@ Region
 : [[affiliation-tantsouempr|Empire of Tantsou]]
 
 Composition
-: Rogue [[lore-wanduo|Wánduo]] sorcerers and their collaborators
+: Rogue [[lore-wanduo|Wanduo]] sorcerers and their collaborators
 
 Tantsou
 : _Ha Zhao_—literally "Shadow Sect"; collectively sometimes called _Hatsou_ ("shadow folk")
 
 ## Overview
 
-The **Ha Zhao**—the Shadow Sect—is a clandestine network of rogue [[lore-wanduo|Wánduo]] who have escaped imperial control and the chains of chattel service. They operate in the empire's dark interstices, offering forbidden magical services to those willing to pay in coin or leverage, and pursuing an ideological goal that would be unthinkable within the imperial order: the liberation of magic itself from the classification system.
+The **Ha Zhao**—the Shadow Sect—is a clandestine network of rogue [[lore-wanduo|Wanduo]] who have escaped imperial control and the chains of chattel service. They operate in the empire's dark interstices, offering forbidden magical services to those willing to pay in coin or leverage, and pursuing an ideological goal that would be unthinkable within the imperial order: the liberation of magic itself from the classification system.
 
 The Shadow Sect is not a crime syndicate. Where the [[affiliation-haluozhao|Ha Luo Zhao]] pursues wealth through protection, bribery, and commerce, the Ha Zhao pursues freedom—and sees every coin earned through its magical services as an investment in an order that does not yet exist. This ideological character makes the Sect far more dangerous to the imperial system than any mere criminal organization. The Black Lotus wants a larger share of the pie. The Shadow Sect wants a different pie.
 
 ## Origin
 
-Every member of the Ha Zhao has a story. The pattern is always the same in outline: a Wánduo, born into chattel service and bound to a [[lore-zhazho|Zhazho]] household from infancy, discovers—through accident, through a sympathetic outsider, through the slow accumulation of small observations—that the classification that defines them is not the whole of what they are. At some point, each member made the decision to escape. The decision is irreversible. A Wánduo who runs and is caught is not reclassified; they are _unmade_. The [[affiliation-wansouzhuo|Ministry of Final Account]] has specific protocols for the ritual erasure of runaway Wánduo, and the protocols are applied with extraordinary thoroughness.
+Every member of the Ha Zhao has a story. The pattern is always the same in outline: a Wanduo, born into chattel service and bound to a [[lore-zhazho|Zhazho]] household from infancy, discovers—through accident, through a sympathetic outsider, through the slow accumulation of small observations—that the classification that defines them is not the whole of what they are. At some point, each member made the decision to escape. The decision is irreversible. A Wanduo who runs and is caught is not reclassified; they are _unmade_. The [[affiliation-wansouzhuo|Ministry of Final Account]] has specific protocols for the ritual erasure of runaway Wanduo, and the protocols are applied with extraordinary thoroughness.
 
 Those who escape and are not caught find one another, over time, through channels that the Sect guards with furious care. The network is not large—by most estimates, no more than a few hundred active members empire-wide—but each member represents the survival of an escape that imperial doctrine holds to be impossible.
 
@@ -101,21 +101,21 @@ Those who escape and are not caught find one another, over time, through channel
 
 **Forbidden magical services:** The Sect's core practical work. Its members perform magic that the Tantsou classification system does not permit to flow to any but state-sanctioned patrons—unbinding rituals for the desperate, illicit divinations for the politically ambitious, curse-work against specific targets, resurrection-adjacent necromancy for grieving households willing to court catastrophe. The Sect's services are expensive, and the price is never only coin: clients inevitably surrender leverage of some kind, knowledge of which becomes additional insurance against betrayal.
 
-**Unbinding and liberation:** The Sect's most ideologically charged operation. When a Wánduo somewhere in the empire begins to contemplate escape, a message sometimes reaches them through channels they cannot identify. What follows is a rescue—complex, dangerous, and occasionally catastrophic—during which the Sect extracts the Wánduo from their household, breaks the binding rituals that chain them to their Zhazho master, and relocates them to a safe interstice. Not every attempt succeeds. The Sect tallies its dead.
+**Unbinding and liberation:** The Sect's most ideologically charged operation. When a Wanduo somewhere in the empire begins to contemplate escape, a message sometimes reaches them through channels they cannot identify. What follows is a rescue—complex, dangerous, and occasionally catastrophic—during which the Sect extracts the Wanduo from their household, breaks the binding rituals that chain them to their Zhazho master, and relocates them to a safe interstice. Not every attempt succeeds. The Sect tallies its dead.
 
 **Arcane archives:** The Sect maintains hidden libraries of magical knowledge that the empire has suppressed—pre-classification magical texts, unregistered grimoires, and working notes produced by its own members over generations. These archives are scattered across multiple concealed locations for redundancy. Access within the Sect is restricted by seniority and demonstrated need.
 
-**Information brokerage:** Because its operations depend on knowing which Zhazho households are spiritually weak, which magistrates are bribable, which [[lore-tanchei|Tanchéi]] can be persuaded to misread omens, and which Ministry clerks can be suborned, the Sect has over time accumulated an intelligence network to rival the Black Lotus's. It shares information with the Black Lotus only when the arrangement is clearly mutually beneficial; the two organizations regard each other with the wary professionalism of rival specialists who happen to frequent the same dangerous neighborhood.
+**Information brokerage:** Because its operations depend on knowing which Zhazho households are spiritually weak, which magistrates are bribable, which [[lore-tanchei|Tanchei]] can be persuaded to misread omens, and which Ministry clerks can be suborned, the Sect has over time accumulated an intelligence network to rival the Black Lotus's. It shares information with the Black Lotus only when the arrangement is clearly mutually beneficial; the two organizations regard each other with the wary professionalism of rival specialists who happen to frequent the same dangerous neighborhood.
 
 ## Relationship with the Thordimalon
 
 Of all the Shadow Sect's external relationships, the most consequential—and the most perilous—is its arrangement with the [[affiliation-ordoarcanis|Thordimalon]] embassy in the imperial capital. The relationship is strained, transactional, and deeply subversive, and it exists because each side needs something that only the other can provide.
 
-**What the Order needs.** The Thordimalon (the Arcane Order) operates in [[affiliation-tantsouempr|Tantsou]] under severe constraints. The imperial classification system treats unsanctioned magical inquiry as a form of heresy, and the empire's own magic—the bureaucratic arts of the Tanchéi, the chattel sorcery of the Wánduo, and the forbidden techniques preserved in private archives—is largely closed to outsiders. An Order surveyor who attempts open research is deported if lucky and executed if not. Yet the Order's scholarly imperatives demand access: it cannot produce a complete account of Thalornan magical tradition while the richest and strangest tradition on the continent remains behind a wall.
+**What the Order needs.** The Thordimalon (the Arcane Order) operates in [[affiliation-tantsouempr|Tantsou]] under severe constraints. The imperial classification system treats unsanctioned magical inquiry as a form of heresy, and the empire's own magic—the bureaucratic arts of the Tanchei, the chattel sorcery of the Wanduo, and the forbidden techniques preserved in private archives—is largely closed to outsiders. An Order surveyor who attempts open research is deported if lucky and executed if not. Yet the Order's scholarly imperatives demand access: it cannot produce a complete account of Thalornan magical tradition while the richest and strangest tradition on the continent remains behind a wall.
 
-**What the Sect needs.** The Shadow Sect requires protection, resources, and—at rare intervals—extraction of members whose cover has failed catastrophically enough that no Tantsou asylum remains safe. The Order embassy can provide all three. Its diplomatic status affords a shield against direct Tantsou enforcement; its resources include coin, materiel, and safe passage beyond imperial borders; and its network of chapterhouses across the wider world can absorb a relocated Wánduo into a new life in [[place-vylariargn|Vylaria]] or [[place-beravel|Péravel]], where the classification system does not reach.
+**What the Sect needs.** The Shadow Sect requires protection, resources, and—at rare intervals—extraction of members whose cover has failed catastrophically enough that no Tantsou asylum remains safe. The Order embassy can provide all three. Its diplomatic status affords a shield against direct Tantsou enforcement; its resources include coin, materiel, and safe passage beyond imperial borders; and its network of chapterhouses across the wider world can absorb a relocated Wanduo into a new life in [[place-vylariargn|Vylaria]] or [[place-beravel|Péravel]], where the classification system does not reach.
 
-**How it works.** The Order embassy secretly provides support—funds, documents, occasional safe houses, and intelligence about imperial enforcement activity—in return for information and carefully measured access to the magical practices the Order cannot otherwise acquire in so rigid a society. Specific Wánduo texts are transcribed for Order archivists. Specific ritual techniques are demonstrated under controlled conditions. Specific intelligence on Tantsou court magic flows westward. In exchange, specific Shadow Sect members find their escape routes paved, their safehouses resupplied, and—when matters become untenable—passage out of the empire arranged.
+**How it works.** The Order embassy secretly provides support—funds, documents, occasional safe houses, and intelligence about imperial enforcement activity—in return for information and carefully measured access to the magical practices the Order cannot otherwise acquire in so rigid a society. Specific Wanduo texts are transcribed for Order archivists. Specific ritual techniques are demonstrated under controlled conditions. Specific intelligence on Tantsou court magic flows westward. In exchange, specific Shadow Sect members find their escape routes paved, their safehouses resupplied, and—when matters become untenable—passage out of the empire arranged.
 
 **The terror at the heart of the arrangement.** Neither side wants to be caught. The consequences of exposure would be catastrophic for both. For the Order, exposure would mean the immediate expulsion of the entire embassy, the termination of all chapterhouse operations within Tantsou, the loss of decades of accumulated access, and—for the individual Order agents implicated—almost certain trial before an imperial tribunal that does not recognize diplomatic immunity for acts of magical heresy. For the Sect, exposure would mean the eradication of the relationship that sustains half its survival infrastructure, the imperial identification of every member who has ever been associated with it, and the kind of sustained ritual erasure that the Ministry of Final Account has spent centuries refining.
 
@@ -148,7 +148,7 @@ Every new member is subjected to an extended evaluation process—years, typical
 
 ## See Also
 
-[[lore-wanduo|Wánduo]]
+[[lore-wanduo|Wanduo]]
 : The chattel sorcerer caste from which the Sect's members are drawn
 
 [[affiliation-ordoarcanis|Thordimalon]]

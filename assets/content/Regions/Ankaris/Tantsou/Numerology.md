@@ -13,7 +13,7 @@ A Tantsou builder asked to add a fourth step to a temple stair adds a fifth inst
 
 **Eight** is the number of the complete social order, because there are eight castes, and of the endless cycle by which the celestial administration sorts, keeps and renews the world. It is the number of prosperity. Marriages, contracts and filings are set on days that carry an eight so that they will be processed favorably, and merchant houses open on them.
 
-**Nine** is the number of the throne. It is the highest single digit and the fullest expression of the sorted order, tied to the Tengwo, the [[lore-mandatehvn|Mandate of Heaven]], and to the appointment of the imperial line, and every rite of the Emperor and the [[lore-zhazho|Zhazho]] is counted in nines. It is also a number of protection: the Tanchéi use it in rites that strengthen the boundary between the sorted world and the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos.
+**Nine** is the number of the throne. It is the highest single digit and the fullest expression of the sorted order, tied to the Tengwo, the [[lore-mandatehvn|Mandate of Heaven]], and to the appointment of the imperial line, and every rite of the Emperor and the [[lore-zhazho|Zhazho]] is counted in nines. It is also a number of protection: the Tanchei use it in rites that strengthen the boundary between the sorted world and the [Huenlei]{.name data-type="lore/cosmology"}, the unsorted chaos.
 
 **Five** is the number of the five material domains—Air, Fire, Earth, Metal and Water—that make up the physical world and are kept by the [[lore-fvlmntlrds|Five Elemental Lords]]. It stands for balance among them, and it is used in the rites that keep natural forces in proportion: the agricultural festivals, the healing ceremonies, and any undertaking meant to last.
 
@@ -30,7 +30,7 @@ A Tantsou builder asked to add a fourth step to a temple stair adds a fifth inst
 ## Numbers in Daily Life
 
 Dates
-: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchéi]] astrologer is paid to find one.
+: weddings, coronations and the dedication of buildings are set for days and hours that carry auspicious numbers, and a [[lore-tanchei|Tanchei]] astrologer is paid to find one.
 
 Design
 : a temple has nine steps to its door, a merchant house opens on an eighth day, and no official building has four of anything that can be counted.

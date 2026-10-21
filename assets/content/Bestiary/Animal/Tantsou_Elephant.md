@@ -291,7 +291,7 @@ The road of fitted stone is wide enough for two carts, and the elephant takes up
 
 The Tantsou elephant is the elephant of the far east of [[place-ankrscntnnt|Ankaris]]: eight to ten feet at the shoulder, five tons and more, domed of head and small of ear, with short tusks in the bulls and none to speak of in the cows. It is the heavy laborer of the [[affiliation-tantsouempr|Empire of Tantsou]]—hauling timber and stone, turning great water-wheels, carrying the baggage of armies and the litters of the great—and wild herds still live in the forests and grasslands of the river basins and the hills beyond the terraces. A tame one is the most valuable animal a household can own; a wild one, or a tame one gone wrong, is the most dangerous animal in the empire's settled country. It is clever enough to learn many dozens of words and to remember a face for its whole life.
 
-The empire's bureaus have classed it, as they class everything. To the [[lore-tanchei|Tanchéi]] it is a natural kind, a life-group of the sorted world, and every tame elephant in [[place-tantsouregin|Tantsou]] is entered in a register with its number, its keeper's lineage and its work.
+The empire's bureaus have classed it, as they class everything. To the [[lore-tanchei|Tanchei]] it is a natural kind, a life-group of the sorted world, and every tame elephant in [[place-tantsouregin|Tantsou]] is entered in a register with its number, its keeper's lineage and its work.
 
 ## Presentation
 

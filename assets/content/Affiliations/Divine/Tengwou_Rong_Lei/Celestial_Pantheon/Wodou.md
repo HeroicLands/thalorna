@@ -14,7 +14,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -90,7 +90,7 @@ Domain
 : Transit
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
 In Wodou's teaching, Dou Sei administers movement between classified regions—which, in a cosmos where a boundary is a
 real administrative object, means it administers the boundaries themselves. Its Douzhi keep the
@@ -98,7 +98,7 @@ waymarks that say where one classification ends and the next begins.
 
 Travelers and merchants petition it for safe passage, and its filings are the cheapest routine
 business in the empire because so many are made. It is also the bureau most damaged by the
-[[affiliation-youweng|Youwéng]]'s Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dou Sei
+[[affiliation-youweng|Youweng]]'s Gap-Makers: every forged boundary is a waymark that no longer marks anything, and Dou Sei
 is the office that has to discover this, usually when somebody fails to arrive.
 
 ### Lesser Spirits
@@ -111,7 +111,7 @@ Zhowo
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

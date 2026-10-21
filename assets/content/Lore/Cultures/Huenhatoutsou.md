@@ -1,9 +1,9 @@
 ---
 shortcode: henhatoutsouclt
-name: {full: Hénhatoutsou, aliases: [The Tribes of the Black Wilds]}
+name: {full: Huenhatoutsou, aliases: [The Tribes of the Black Wilds]}
 type: lore
 subType: culture
-description: "The Hénhatoutsou—the steppe tribes of the Black Wilds north of the Empire of Tantsou."
+description: "The Huenhatoutsou—the steppe tribes of the Black Wilds north of the Empire of Tantsou."
 tags: [draft]
 data:
   language: skill-tantsoulng
@@ -16,7 +16,7 @@ data:
     height: {female: {min: 5' 3", max: 5' 10"}, male: {min: 5' 8", max: 6' 3"}}
 ---
 
-The Hénhatoutsou are the tribes of [Hénhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the [[place-grkrhlmrgn|Grukari marches]]. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.
+The Huenhatoutsou are the tribes of [Huenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]], beyond the [[place-grkrhlmrgn|Grukari marches]]. They are horse-riders who live from grazing, and their wells and grazing grounds are what they fight over.
 
 ## Tribes and feuds
 

@@ -14,7 +14,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -51,7 +51,7 @@ data:
     offices:
       Nuowo, The Minister of Dissolution: >-
         Teng Gui of the Nuo Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Nuoléi: >-
+      Nuolei: >-
         Dissolution Spirits, who break down expired classifications.
       Zhawo: >-
         Renewal Spirits, who feed recycled materials back into the Bureau of Creation's processes.
@@ -90,7 +90,7 @@ Domain
 : Dissolution
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
 In Nuowo's teaching, Nuo Sei is the reclamation office. What has finished being one thing is broken down here and
 returned as material for something else, which is why it works so closely with the
@@ -104,7 +104,7 @@ understands what they have asked for.
 
 ### Lesser Spirits
 
-Nuoléi
+Nuolei
 : Dissolution Spirits, who break down expired classifications.
 
 Zhawo
@@ -112,7 +112,7 @@ Zhawo
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

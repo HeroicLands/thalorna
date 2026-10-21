@@ -11,9 +11,9 @@ The richest man in a river city of [[affiliation-tantsouempr|Tantsou]] walks beh
 
 ## Trade and Lending
 
-A Shuonong house buys what the [[lore-tsaihuo|Tsaihuo]] make and the [[lore-nouwen|Nouwén]] grow, carries it from the province where it is cheap to the province where it is dear, and sells it. The great houses keep warehouses and factors in several river cities, run barge trains along the canals, and hold the empire's trade with the foreign merchants who are let into the walled quarters of the ports. The smaller ones keep a stall, a cart and a ledger.
+A Shuonong house buys what the [[lore-tsaihuo|Tsaihuo]] make and the [[lore-nouwen|Nouwen]] grow, carries it from the province where it is cheap to the province where it is dear, and sells it. The great houses keep warehouses and factors in several river cities, run barge trains along the canals, and hold the empire's trade with the foreign merchants who are let into the walled quarters of the ports. The smaller ones keep a stall, a cart and a ledger.
 
-Some houses lend money. Lending is legal and closely supervised: the rate is capped, every loan is witnessed and entered, and a moneylender who presses a Nouwén household into ruin answers to the magistrate. The profit is large enough that the great houses lend anyway, to one another, to Wohou officers short of cash before a campaign, and, quietly, to Warlords. [[lore-tantsoucrncy|Tantsou Currency]] explains how those debts are recorded and enforced.
+Some houses lend money. Lending is legal and closely supervised: the rate is capped, every loan is witnessed and entered, and a moneylender who presses a Nouwen household into ruin answers to the magistrate. The profit is large enough that the great houses lend anyway, to one another, to Wohou officers short of cash before a campaign, and, quietly, to Warlords. [[lore-tantsoucrncy|Tantsou Currency]] explains how those debts are recorded and enforced.
 
 ## Rights and Restrictions
 
@@ -34,7 +34,7 @@ Tax
 : he pays at rates far above any other caste's, and a merchant who fails to pay loses his goods, then his liberty, then his life.
 
 Fair dealing
-: usury, fraud and sharp practice against the Nouwén or anyone below are punished by fines, prison or death.
+: usury, fraud and sharp practice against the Nouwen or anyone below are punished by fines, prison or death.
 
 No politics
 : he may take no part in governance or military affairs, and any attempt to sway state policy is tried as treason.
@@ -77,10 +77,10 @@ A Shuonong is necessary and distrusted. The empire needs his barges, his warehou
 [[lore-tseising|Law and Honor]]
 : the commercial law and its penalties
 
-[[lore-nouwen|Nouwén]]
+[[lore-nouwen|Nouwen]]
 : peasant farmers, the caste above, whom the merchant may not exploit
 
-[[lore-noutsou|Noutsou]]
+[[lore-noutsou|Nuitsou]]
 : slaves and outcasts, the caste below
 
 [[lore-wohou|Wohou]]

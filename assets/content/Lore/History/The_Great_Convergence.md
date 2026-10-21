@@ -48,7 +48,7 @@ data:
 The Celestial Calendar, the reckoning set out in [[lore-clndrstrlgy|Calendar and Astrology]], begins at **The Great Convergence**, which the
 [[lore-celestlrdr|Celestial Order]] reckons exactly. The figure is exact because the zero of a calendar
 is exact, and inside the empire it is not offered as tradition or as a way of speaking: it is the date
-every bureau files against, the date a [[lore-tanchei|Tanchéi]] computes a Generation from, and the date a household
+every bureau files against, the date a [[lore-tanchei|Tanchei]] computes a Generation from, and the date a household
 names when it burns the year's spirit money.
 
 The dynastic record is a separate instrument and does not reach anything like so far—see
@@ -57,7 +57,7 @@ are not rivals. One is the epoch of cosmic time, held as revelation and stated a
 the earliest point at which the empire's filing cabinets can produce an emperor, a dynasty and a year
 together.
 
-The Tanchéi account for the interval as a matter of jurisdiction rather than of
+The Tanchei account for the interval as a matter of jurisdiction rather than of
 history: the mortal [Bureau of Records]{.name data-type="affiliation/governmental"} was not staffed at the Convergence, and the filings of the
 earliest dynasties went upward into the celestial archive. That doctrine does precisely the work the
 empire needs done, and the scholars positioned to notice as much leave it where it lies.

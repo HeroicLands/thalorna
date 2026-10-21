@@ -12,7 +12,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty th
 ## War on the Frontiers
 
 [[being-wogenhenzhuo|Wogen Henzhuo]]
-: the warlord who has united the tribes of the Hénhatou, the Black Wilds (the [[lore-henhatoutsouclt|Hénhatoutsou]]), and whose riders are already raiding the northern provinces
+: the warlord who has united the tribes of the Huenhatou, the Black Wilds (the [[lore-henhatoutsouclt|Huenhatoutsou]]), and whose riders are already raiding the northern provinces
 
 [[doc-extrnlthrts|External Threats]]
 : [[affiliation-jenchaiempr|Jenchai]], the archipelago the empire calls Chaiwong, and the western passes
@@ -20,7 +20,7 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] has outlasted every dynasty th
 ## Enemies Within
 
 [[being-tuijawengyan|Tuija Wengyan]]
-: an exiled general in open rebellion, with disaffected nobles and their Wánduo behind him
+: an exiled general in open rebellion, with disaffected nobles and their Wanduo behind him
 
 [[affiliation-yanchaizhao|Yanchai Zhao]]
 : a fallen noble house that has staked its last chance on the Black Lotus Society

@@ -1,20 +1,20 @@
 ---
-shortcode: genhen
-name: {full: Genhén, aliases: [The Minister of Entropy, Huen Sei, The Bureau of Unraveling]}
+shortcode: zhenho
+name: {full: Zhinho, aliases: [The Minister of Fire, Ho Sei, The Bureau of Transformation]}
 type: affiliation
 subType: faithtradition
-description: "Entropy."
+description: "Fire."
 tags: [pantheon]
 data:
   banner: faithbnr
   templatePriority: null
   demonym: null
-  epithet: The Minister of Entropy
+  epithet: The Minister of Fire
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -49,12 +49,12 @@ data:
         description: >-
           Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Genhén, The Minister of Entropy: >-
-        Teng Gui of the Huen Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Henwo: >-
-        Controlled Dissolution Spirits, who execute authorized unraveling.
-      Yoléi: >-
-        Trickster Spirits, who inhabit the boundary between classified order and the Henléi. Technically under Genhén's authority and notoriously difficult to administer.
+      Zhinho, The Minister of Fire: >-
+        Teng Gui of the Ho Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Tsaiken: >-
+        The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaiken not out of devotion but to ensure favorable reports.
+      Daoho Wo: >-
+        Wildfire Spirits, the enforcement arm for fire-related punitive action.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -81,38 +81,41 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Genhén—The Minister of Entropy
+## Zhinho—The Minister of Fire
 
 Bureau
-: Huen Sei, The Bureau of Unraveling
+: Ho Sei, The Bureau of Transformation
 
 Domain
-: Entropy
+: Fire
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-In Genhén's teaching, somebody must be responsible for things ending, and [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, appointed Genhén. Huen Sei
-conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
-the failure of a lineage that should not continue, the flood that clears ground.
+In Zhinho's teaching, Ho Sei administers transformation, and therefore administers the entire postal system of the
+cosmos: fire is the medium by which a document passes from the mortal plane to the celestial one,
+so every petition filed to every bureau is carried by this one. Burning a correctly addressed
+petition actually files it; burning spirit money actually credits an account; burning offerings for
+the dead actually provisions them.
 
-The bureau is widely misunderstood by mortals as malevolent and is nothing of the kind—an
-unauthorized dissolution is as much its problem as anyone's, and the [[affiliation-youweng|Youwéng]]
-represent precisely the unraveling it has failed to keep licensed. Its Yoléi are a standing
-embarrassment: technically subordinate, functionally uncontrollable, and the single largest source
-of jurisdictional gaps in the administration.
+This makes Zhinho structurally indispensable and personally unpopular. The other overseers resent
+depending on a colleague to deliver their own mail, and the Tanchei note that no bureau has ever
+successfully petitioned to have the arrangement changed.
+
+The bureau also seats the **Tsaiken** in every household in Tantsou, which means it holds the raw
+observations on which every moral ledger is built.
 
 ### Lesser Spirits
 
-Henwo
-: Controlled Dissolution Spirits, who execute authorized unraveling.
+Tsaiken
+: The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaiken not out of devotion but to ensure favorable reports.
 
-Yoléi
-: Trickster Spirits, who inhabit the boundary between classified order and the [Henléi]{.name data-type="lore/cosmology"}. Technically under Genhén's authority and notoriously difficult to administer.
+Daoho Wo
+: Wildfire Spirits, the enforcement arm for fire-related punitive action.
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

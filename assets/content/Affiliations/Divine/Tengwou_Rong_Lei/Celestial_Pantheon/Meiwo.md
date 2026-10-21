@@ -14,7 +14,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -90,17 +90,17 @@ Domain
 : Dreams
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
 Meiwo teaches that Mei Sei processes dream-petitions, delivers omens, and files night-counsel reports. A Tantsou who
 wishes to be answered in sleep files for it, and a dream that arrives unbidden is understood to be
 a memo from a clerk rather than a message from a god.
 
-The bureau is the [[affiliation-tengwouronglei|Téngwou Rong Lei]]'s expression of [[lore-goddreams|the God of Dreams]]—the same
+The bureau is the [[affiliation-tengwouronglei|Tengwou Rong Lei]]'s expression of [[lore-goddreams|the God of Dreams]]—the same
 entity the Asguardians call **[[lore-bjartrdty|Bjart]]**, the Aureldians [[lore-zunelasdty|Zunelas]], the Ki'ichek [[lore-naliktzuqaldty|Nal'ik Ts'uqal]] and the
 Khelathi [[lore-nehleatdty|Nehle'at]]. In the Tantsou framework this is not a coincidence but a bureaucratic anomaly: one
 being appears to hold the Dream portfolio across several celestial administrations at once, which
-no procedure accounts for and which the Tanchéi find deeply troubling.
+no procedure accounts for and which the Tanchei find deeply troubling.
 
 ### Lesser Spirits
 
@@ -112,7 +112,7 @@ Hayo
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

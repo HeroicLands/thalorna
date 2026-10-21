@@ -66,7 +66,7 @@ The roll names three villages here; smaller terraces and hamlets, each under its
 | Yanju   | Cloud Spring     | Demesne      | The lord's granary at Yanwu             | Hot springs, bathhouses and sulphur     |    1,500 |
 | Weinu   | Jade Terraces    | Fief         | A Shuizhuo of the domain                | Rice                                    |    2,600 |
 
-The summit shrine of Hojai is provisioned from the lord's villages, and its Tanchéi keep the mountain record on which the house's claim to heaven's favor rests.
+The summit shrine of Hojai is provisioned from the lord's villages, and its Tanchei keep the mountain record on which the house's claim to heaven's favor rests.
 
 ## Retainers
 

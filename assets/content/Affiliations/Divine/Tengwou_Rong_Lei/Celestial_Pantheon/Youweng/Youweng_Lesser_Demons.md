@@ -1,8 +1,8 @@
 ---
 shortcode: youwenglsrdmns
 name:
-  full: Youwéng Lesser Demons
-  aliases: [The Youwéng, The Demon-Swarm, The Infernal Functionaries]
+  full: Youweng Lesser Demons
+  aliases: [The Youweng, The Demon-Swarm, The Infernal Functionaries]
 type: affiliation
 subType: faithtradition
 tags: [youweng, celestial-order, demon]
@@ -15,7 +15,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youwéng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youweng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
@@ -26,7 +26,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
       - level: 2
         title: Acolyte
         description: >-
@@ -58,11 +58,11 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## The Lesser Demons—Youwéng
+## The Lesser Demons—Youweng
 
-The [[affiliation-youweng|Youwéng]] is home to far more than its five great Demon Lords. The Infernal Realm teems with a population of lesser demonic beings—the **Youwéng** proper—whose nature and function is less grand and more pragmatic than that of the Lords. Where the Demon Lords represent the fundamental failures of the celestial classification system, the lesser demons are the _operators_ of those failures, the functionaries through which the Youwéng engages with the classified cosmos.
+The [[affiliation-youweng|Youweng]] is home to far more than its five great Demon Lords. The Infernal Realm teems with a population of lesser demonic beings—the **Youweng** proper—whose nature and function is less grand and more pragmatic than that of the Lords. Where the Demon Lords represent the fundamental failures of the celestial classification system, the lesser demons are the _operators_ of those failures, the functionaries through which the Youweng engages with the classified cosmos.
 
-The lesser demons are not malevolent in a theological sense. They do not embody cosmic rebellion or fundamental anti-classification. They are, rather, the spiritual equivalent of bureaucratic subordinates—clerks, messengers, enforcers, and minor officials whose role is to execute the orders of higher powers or to exploit the gaps in the celestial administration for their own advantage. Many lesser demons were once functionaries of the celestial bureaus before corruption, dismissal, or unauthorized initiative led them to seek refuge in the Youwéng. Some were never bureaucratic at all, but rather coalesced from the raw demonic potential of the Infernal Realms, forming consciousness and will in the shadows of the Demon Lords.
+The lesser demons are not malevolent in a theological sense. They do not embody cosmic rebellion or fundamental anti-classification. They are, rather, the spiritual equivalent of bureaucratic subordinates—clerks, messengers, enforcers, and minor officials whose role is to execute the orders of higher powers or to exploit the gaps in the celestial administration for their own advantage. Many lesser demons were once functionaries of the celestial bureaus before corruption, dismissal, or unauthorized initiative led them to seek refuge in the Youweng. Some were never bureaucratic at all, but rather coalesced from the raw demonic potential of the Infernal Realms, forming consciousness and will in the shadows of the Demon Lords.
 
 ### Those Who Petition Them
 
@@ -78,16 +78,16 @@ employed doing something entirely respectable, and the two facts are not in tens
 What such a person holds is a small and specific inheritance: the forms of address for one or two
 classes of lesser demon, the appeasements each expects, and the knowledge of which requests are
 worth making. It is taught by one practitioner to one other, rarely written, and lost constantly.
-The [[lore-tanchei|Tanchéi]] consider the resulting variation the reason lesser-demon petitions gho wrong so much
+The [[lore-tanchei|Tanchei]] consider the resulting variation the reason lesser-demon petitions gho wrong so much
 more often than Demon Lord petitions, which are drafted by professionals.
 
-They gho wrong in the same direction as everything else in the Youwéng. A ledger-gnawer asked to
+They gho wrong in the same direction as everything else in the Youweng. A ledger-gnawer asked to
 remove an inconvenient entry will remove the entry—and, if the request was loosely drawn, the
 ledger, the archive it sat in, and the clerk who filed it.
 
 ### Nature and Hierarchy
 
-The lesser demons occupy a space of severe inequality. A powerful demon may command dozens of subordinates; a weak one may exist in near-thralldom to a stronger entity. There is no formal hierarchy, no unified administration, and no appeal process. Authority in the Youwéng is asserted through power—spiritual strength, accumulated secrets, access to stolen seals, or proximity to one of the Demon Lords.
+The lesser demons occupy a space of severe inequality. A powerful demon may command dozens of subordinates; a weak one may exist in near-thralldom to a stronger entity. There is no formal hierarchy, no unified administration, and no appeal process. Authority in the Youweng is asserted through power—spiritual strength, accumulated secrets, access to stolen seals, or proximity to one of the Demon Lords.
 
 Yet for all their chaos, the lesser demons operate according to consistent principles. Each has a specialized function or domain: ledger-gnawers who devour records, seal-thieves who steal celestial authority, possession-spirits who inhabit mortal vessels, threshold-whispers who insinuate doubt and temptation at the margins of consciousness. These specializations are not assigned by higher power but emerge through self-organization and predatory selection. A demon good at corrupting officials accumulates more influence and begins to gather apprentices. A demon skilled at possessing mortals becomes a resource to other, less talented entities. Over time, functional hierarchies crystallize, though they remain fluid and subject to violent rearrangement.
 
@@ -95,13 +95,13 @@ Lesser demons possess corporeal form, but it is neither stable nor material in t
 
 ### Categories and Functions
 
-The Tanchéi have identified several broad classes of lesser demon, though they acknowledge that this taxonomy is incomplete and that the Youwéng continuously generates new types:
+The Tanchei have identified several broad classes of lesser demon, though they acknowledge that this taxonomy is incomplete and that the Youweng continuously generates new types:
 
 #### **Ledger-Gnawers** (Chounuoyo)
 
 Lesser demons specialized in the corruption and destruction of celestial records. A ledger-gnawer will infiltrate archives, devour pages, or alter entries in order to obscure accounts or create false trails. They serve the Demon Lord [[lore-watsaidty|Watsai]], the Forger of False Records, though many operate independently. Mortals in league with ledger-gnawers often become scribes, monks, or bureaucratic officials—positions from which a demon can most effectively damage the celestial record-keeping apparatus.
 
-#### **Seal-Thieves** (Zhuoréi)
+#### **Seal-Thieves** (Zhuorei)
 
 Demons whose function is the theft, counterfeiting, and improper deployment of celestial seals and stamps. These beings understand bureaucratic authentication as a form of power and extract authority from the celestial system by acquiring documents or seal-implements. Seal-thieves are closely affiliated with [[lore-yozhuodty|Yozhuo]], the Custodian of Lost Seals, and access to Yozhuo's archive is typically controlled by seal-thieves who guard the infernal repository.
 
@@ -117,9 +117,9 @@ Lesser demons specialized in the inhabitation and control of mortal vessels. A p
 
 Demons whose domain is the hidden spaces between records, the forgotten marginal notes in celestial documents, the erased corrections that still leave traces. An archive-shadow consumes the _substance_ of archives—not the visible text but the authority and coherence that holds a record system together. They are parasites on the celestial bureaucracy itself, and they are particularly valued by entities like Watsai who wish to poison the archive without leaving obvious evidence of tampering.
 
-#### **Entropy-Vermin** (Hénsingyo)
+#### **Entropy-Vermin** (Huensingyo)
 
-Lesser demons that serve the Demon Lord [[lore-nuohodty|Nuoho]] and embody his principle of annihilation without remainder. These beings specialize in the complete erasure of classified things—objects, persons, memories, administrative categories. Wherever an entropy-vermin feeds, what it consumes does not decompose or recycle. It is simply gone, falling back into the [Henléi]{.name data-type="lore/cosmology"} as undifferentiated potential.
+Lesser demons that serve the Demon Lord [[lore-nuohodty|Nuoho]] and embody his principle of annihilation without remainder. These beings specialize in the complete erasure of classified things—objects, persons, memories, administrative categories. Wherever an entropy-vermin feeds, what it consumes does not decompose or recycle. It is simply gone, falling back into the [Huenlei]{.name data-type="lore/cosmology"} as undifferentiated potential.
 
 #### **Wayward Spirits** (Douzhawo)
 
@@ -127,26 +127,26 @@ Demons of passage and misdirection, affiliated with the Demon Lord [[lore-douyod
 
 ### Mortal Engagement
 
-The vast majority of mortal encounters with the Youwéng occur through lesser demons rather than Demon Lords. A mortal who seeks to contact the Infernal Realms—whether through accident, desperation, or deliberate ritual—will most likely find a lesser demon.
+The vast majority of mortal encounters with the Youweng occur through lesser demons rather than Demon Lords. A mortal who seeks to contact the Infernal Realms—whether through accident, desperation, or deliberate ritual—will most likely find a lesser demon.
 
 Direct bargains with lesser demons are possible but risky. A demon will agree to a bargain if the terms offer advantage—typically the mortal provides something the demon desires (access to records, a valuable host, contact with a person of influence) in exchange for the demon providing something the mortal needs (knowledge, power, aid in a criminal or transgressive act). The contract is typically unwritten and unenforceable by any power except the demon itself, which means the terms are whatever the demon claims they are. Mortals who bargain with lesser demons frequently discover that they have agreed to far more onerous terms than they understood, and repayment is extracted over years or even across generations of a family line.
 
-The **Nuotsou Rui** maintains the most sustained organized relationship with the lesser demons. Cult operatives include those who have been possessed by lesser demons and never wholly purged themselves, those who have made formal bargains for esoteric knowledge or power, and those who serve as intermediaries between the cult's mortal structure and the Youwéng's demonic hierarchy. The cult provides the lesser demons with resources they value—records to corrupt, mortals to possess, opportunities to expand their influence—in exchange for aid in the cult's program of bureaucratic subversion.
+The **Nuotsou Rui** maintains the most sustained organized relationship with the lesser demons. Cult operatives include those who have been possessed by lesser demons and never wholly purged themselves, those who have made formal bargains for esoteric knowledge or power, and those who serve as intermediaries between the cult's mortal structure and the Youweng's demonic hierarchy. The cult provides the lesser demons with resources they value—records to corrupt, mortals to possess, opportunities to expand their influence—in exchange for aid in the cult's program of bureaucratic subversion.
 
 Lesser demons can be exorcized through properly performed celestial rituals that invoke the authority of the Sun Bureaus and seal the boundaries between the classified cosmos and the Infernal Realms. However, such exorcisms require precise knowledge of celestial procedure and are most effectively conducted by trained members of the priesthood. Amateurs who attempt exorcism risk triggering a more violent demonic response or, alternatively, merely driving the demon temporarily away without achieving true expulsion. Some exorcized demons merely hide until the protection fades; others exact revenge on the mortals who sought to banish them.
 
 ### See Also
 
-[[affiliation-youweng|Youwéng]]
+[[affiliation-youweng|Youweng]]
 : The Demon Realm where the lesser demons dwell
 
-[[affiliation-henzhuo|Hénzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]
+[[affiliation-henzhuo|Huenzhuo]], [[affiliation-watsai|Watsai]], [[affiliation-zhaosou|Zhaosou]], [[affiliation-nuoho|Nuoho]], [[affiliation-douyo|Douyo]]
 : The five Demon Lords who command lesser demon populations
 
 [[affiliation-yozhuo|Yozhuo]]
 : The Custodian of Lost Seals, a unique intermediate power
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy whose failures spawned the lesser demons
 
 [[affiliation-nuotsourui|Nuotsou Rui]]
@@ -154,4 +154,4 @@ Lesser demons can be exorcized through properly performed celestial rituals that
 
 ## Outside the Ladder
 
-A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wantou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

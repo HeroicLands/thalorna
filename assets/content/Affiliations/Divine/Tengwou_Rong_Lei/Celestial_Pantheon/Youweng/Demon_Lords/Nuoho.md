@@ -13,7 +13,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youwéng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youweng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
       - level: 2
         title: Acolyte
         description: >-
@@ -58,9 +58,9 @@ sohl: {system: {commonSkills: []}}
 
 ## Nuoho—The Burning Dissolution
 
-In the Nuoho cultus, where [[affiliation-nuowo|Nuowo]]'s Bureau of Returns (Nuo Sei) recycles dissolved things back into the classification system, and [[affiliation-zhenho|Zhenho]]'s Bureau of Transformation (Ho Sei) governs fire as a tool of purification and transmission, [[lore-nuohodty|Nuoho]] represents the catastrophic fusion of both functions. It is fire that does not purify but annihilates—dissolution that does not recycle but erases. Things consumed by Nuoho do not return to their elemental categories for reuse. They simply cease to be classified at all, falling back into the [Henléi]{.name data-type="lore/cosmology"} as raw, unprocessed potential.
+In the Nuoho cultus, where [[affiliation-nuowo|Nuowo]]'s Bureau of Returns (Nuo Sei) recycles dissolved things back into the classification system, and [[affiliation-zhenho|Zhinho]]'s Bureau of Transformation (Ho Sei) governs fire as a tool of purification and transmission, [[lore-nuohodty|Nuoho]] represents the catastrophic fusion of both functions. It is fire that does not purify but annihilates—dissolution that does not recycle but erases. Things consumed by Nuoho do not return to their elemental categories for reuse. They simply cease to be classified at all, falling back into the [Huenlei]{.name data-type="lore/cosmology"} as raw, unprocessed potential.
 
-The [[lore-tanchei|Tanchéi]] teach that Nuoho was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict—dissolution and transformation applied simultaneously to the same thing—produced an entity that embodies both functions taken to their most destructive extreme.
+The [[lore-tanchei|Tanchei]] teach that Nuoho was born from a jurisdictional failure: a moment in the early cycles of the celestial administration when the Bureau of Returns and the Bureau of Transformation issued contradictory directives regarding the same cosmic material. The resulting conflict—dissolution and transformation applied simultaneously to the same thing—produced an entity that embodies both functions taken to their most destructive extreme.
 
 Nuoho is invoked (never worshipped) by those who wish to destroy something so completely that the celestial administration itself loses track of it. This is, needless to say, illegal under celestial law. The [Sekran]{.name data-type="affiliation"} equivalent within the Tantsou system—the Celestial Marshals (Teng Wozhuo)—treat any evidence of Nuoho invocation as a matter of the highest urgency.
 
@@ -75,12 +75,12 @@ The Celestial Marshals are aware of this development and regard it as the single
 [[affiliation-nuotsourui|Nuotsou Rui]]
 : The cult that has taken Nuoho as its primary patron
 
-[[affiliation-youweng|Youwéng]]
+[[affiliation-youweng|Youweng]]
 : The Demon Realm
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy whose failures produced Nuoho
 
 ## Outside the Ladder
 
-A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wantou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

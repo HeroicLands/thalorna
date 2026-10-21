@@ -7,37 +7,37 @@ description: "How marriage works in Tantsou—a household registered with the ce
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A Tanchéi matchmaker who has arranged two hundred weddings tells every new bride's mother the same thing: "You are not giving your daughter away. You are opening an account." Marriage in the [[affiliation-tantsouempr|Empire of Tantsou]] merges two families' spiritual standing into a new household, registered with the celestial bureaucracy and given a [[lore-celestlrdr|moral ledger]] of its own. The Tantsou keep love and marriage in separate categories. Love is a private feeling; marriage is a filing that changes the cosmic standing of two houses.
+A Tanchei matchmaker who has arranged two hundred weddings tells every new bride's mother the same thing: "You are not giving your daughter away. You are opening an account." Marriage in the [[affiliation-tantsouempr|Empire of Tantsou]] merges two families' spiritual standing into a new household, registered with the celestial bureaucracy and given a [[lore-celestlrdr|moral ledger]] of its own. The Tantsou keep love and marriage in separate categories. Love is a private feeling; marriage is a filing that changes the cosmic standing of two houses.
 
 The customs differ by caste, and one rule holds at every level: a marriage creates a new household in the classification, and the new household has to be sorted correctly.
 
 ## What a Marriage Joins
 
-When two clans agree a match, the new household receives three things. It has one moral ledger, opened from the balances of both families. It has one set of [[lore-ancstrwrshp|ancestor spirits]], drawn from both lineages, to argue its case in heaven. And it is assigned a [[lore-celestlrdr|Hearth Monitor]] (_Tsaikén_), the minor celestial official who watches the household and reports on it.
+When two clans agree a match, the new household receives three things. It has one moral ledger, opened from the balances of both families. It has one set of [[lore-ancstrwrshp|ancestor spirits]], drawn from both lineages, to argue its case in heaven. And it is assigned a [[lore-celestlrdr|Hearth Monitor]] (_Tsaiken_), the minor celestial official who watches the household and reports on it.
 
 That is why the clan council arranges the match and the couple does not. The council asks which families' ancestors will work well together, which pair of ledger balances makes the strongest new account, and which alliance best serves the clan's standing in heaven and on earth. The couple's feelings for each other do not enter into it.
 
 ## Who May Marry
 
-**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zhazho|Zhazho]], the [[lore-wohou|Wohou]], the [[lore-tanchei|Tanchéi]] and the [[lore-tsaihuo|Tsaihuo]]. These castes stand high enough in the classification to warrant the formal filing.
+**The marrying castes.** Legal marriage, registered with the celestial administration, is open to the [[lore-zhazho|Zhazho]], the [[lore-wohou|Wohou]], the [[lore-tanchei|Tanchei]] and the [[lore-tsaihuo|Tsaihuo]]. These castes stand high enough in the classification to warrant the formal filing.
 
-**The castes that may not.** The [[lore-nouwen|Nouwén]], the [[lore-shuonong|Shuonong]] and the [[lore-noutsou|Noutsou]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nouwén accept it as the way of things; most Shuonong, who could afford a wedding finer than many nobles', resent it in private.
+**The castes that may not.** The [[lore-nouwen|Nouwen]], the [[lore-shuonong|Shuonong]] and the [[lore-noutsou|Nuitsou]] may live together and raise children within their caste, and their unions are not registered. The classification holds their households too low to justify the filing. Most Nouwen accept it as the way of things; most Shuonong, who could afford a wedding finer than many nobles', resent it in private.
 
-The Nouwén have their own answer. A village Leigen (spirit master) performs a bonding rite that presents the couple to the ancestors of both families, if not to the bureaus of heaven, and in the villages that rite carries all the weight a temple wedding carries in the cities. The empire does not recognize it, and nobody in the village cares.
+The Nouwen have their own answer. A village Leigen (spirit master) performs a bonding rite that presents the couple to the ancestors of both families, if not to the bureaus of heaven, and in the villages that rite carries all the weight a temple wedding carries in the cities. The empire does not recognize it, and nobody in the village cares.
 
-**The clan's choice.** Every legal marriage is arranged by the clan council, and the council weighs four things: the combined ledger balance of the two families; whether their ancestors will agree, which a Tanchéi or a Leigen learns by divination; the political and material gain of the alliance; and the astrology of the match, read from the birth-years and the spirit animals of the couple (see [[lore-clndrstrlgy|Calendar and Astrology]]).
+**The clan's choice.** Every legal marriage is arranged by the clan council, and the council weighs four things: the combined ledger balance of the two families; whether their ancestors will agree, which a Tanchei or a Leigen learns by divination; the political and material gain of the alliance; and the astrology of the match, read from the birth-years and the spirit animals of the couple (see [[lore-clndrstrlgy|Calendar and Astrology]]).
 
 ## The Wedding
 
 The wedding is a registration, and each of its five steps does a piece of administrative work.
 
-**The contract** (_Zhaolou Hou_). The two clan councils sign a contract, drafted by a Tanchéi and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
+**The contract** (_Zhaolou Hou_). The two clan councils sign a contract, drafted by a Tanchei and sealed with both clan seals. It sets out the terms of the merger: what property passes, which ancestor tablets move to the new household's shrine, what each family owes, and on what grounds the contract can be dissolved.
 
 **The petition** (_Lei Sei Chou_). A spirit document is burned at the temple, addressed to the [Bureau of Creation]{.name data-type="affiliation"} (Tsai Sei), asking that the new household be registered and given its Hearth Monitor. It carries the names, birth-dates and spirit animals of the couple and a statement of both families' ledgers. A petition filed with an error is held to leave the household wrongly classified from its first day, and families pay a scholar to check it twice.
 
 **The consultation** (_Kuo Lei Wou_). Before the union is final, a Leigen speaks with the ancestors of both families to win their consent. An ancestor who objects can forbid the marriage, and defying the prohibition costs the household heavily on its ledger. Clans bargain with reluctant ancestors much as they bargain with each other, with extra offerings burned until the spirit relents.
 
-**The tablet transfer** (_Kuo Chou Dou_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Leigen or a Tanchéi performs it, in exact ritual words, so that the change of address is recorded correctly.
+**The tablet transfer** (_Kuo Chou Dou_). Chosen ancestor tablets are carried from the bride's family shrine to the groom's. This is the solemn heart of the wedding, because it changes where those ancestors are addressed in the celestial filing: from tonight they argue for this household. A Leigen or a Tanchei performs it, in exact ritual words, so that the change of address is recorded correctly.
 
 **The sealing** (_Hou Wo_). A seal carved for the occasion is pressed into red clay and set on the new shrine beside the transferred tablets. Every spiritual filing the household makes will carry that seal, and from the moment it is set, the household exists in the cosmic order.
 
@@ -61,7 +61,7 @@ The heir inherits the duty with the property. He keeps the ancestor shrine, carr
 
 A divorce is rare, because it removes a registered household from the cosmic order, and the celestial administration does not undo its filings willingly. A clan council considers it for three causes: dishonor heavy enough to threaten both families' ledgers, failure to produce an heir, or proof that the petition was false, in which case the household was never properly classified at all.
 
-The process takes a petition to the Bureau of Creation, the return of each ancestor tablet to its own family's shrine, and the breaking of the household seal. It is costly, it damages both families' ledgers, and it is a social disaster, because it says that the classification made a mistake, and the Tanchéi and Leigen who approved the match carry the blame.
+The process takes a petition to the Bureau of Creation, the return of each ancestor tablet to its own family's shrine, and the breaking of the household seal. It is costly, it damages both families' ledgers, and it is a social disaster, because it says that the classification made a mistake, and the Tanchei and Leigen who approved the match carry the blame.
 
 ## See Also
 

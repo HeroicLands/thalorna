@@ -35,6 +35,7 @@ data:
     - {form: zhen, class: "n", field: "Sky, land and the elements", gloss: "snow"}
     - {form: chuen, class: "n", field: "Sky, land and the elements", gloss: "frost"}
     - {form: rao, class: "n", field: "Sky, land and the elements", gloss: "thunder"}
+    - {form: la, class: "n", field: "Sky, land and the elements", gloss: "lightning"}
     - {form: tui, class: "n", field: "Sky, land and the elements", gloss: "iron"}
     - {form: wei, class: "n", field: "Sky, land and the elements", gloss: "jade"}
     - form: teng
@@ -62,12 +63,13 @@ data:
     - {form: yai, class: "n", field: "People, rank and office", gloss: "healer, physician"}
     - {form: zhei, class: "n", field: "People, rank and office", gloss: "son, child"}
     - {form: nong, class: "n", field: "People, rank and office", gloss: "person, folk"}
-    - {form: nuei, class: adj, field: "People, rank and office", gloss: "bound, enslaved"}
+    - {form: nui, class: adj, field: "People, rank and office", gloss: "bound, enslaved"}
     - {form: tsou, class: "n", field: "People, rank and office", gloss: "tribe, group, people"}
     - {form: zhao, class: "n", field: "People, rank and office", gloss: "house, clan, family"}
     - {form: ken, class: "n", field: "People, rank and office", gloss: "hearth, household"}
     - {form: shuo, class: "n", field: "People, rank and office", gloss: "trade"}
     - {form: ja, class: "n", field: "People, rank and office", gloss: "blade"}
+    - {form: huo, class: "n", field: "People, rank and office", gloss: "hand"}
     - form: wen
       class: "n"
       field: "Heaven, law and the order of things"
@@ -123,13 +125,17 @@ data:
       gloss: "ritual, ceremony, dance"
     - {form: jui, class: "n", field: "Heaven, law and the order of things", gloss: "festival"}
     - {form: tsei, class: "n", field: "Heaven, law and the order of things", gloss: "self, own"}
-    - {form: nié, class: "n", field: "Heaven, law and the order of things", gloss: "year"}
+    - form: wan
+      class: "n"
+      field: "Heaven, law and the order of things"
+      gloss: "account, reckoning, tally"
+    - {form: nie, class: "n", field: "Heaven, law and the order of things", gloss: "year"}
     - {form: mei, class: "n", field: "Heaven, law and the order of things", gloss: "dream"}
-    - form: "Henléi"
+    - form: "Huenlei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the primordial chaos of the Unclassified"
-    - form: "Leichéi"
+    - form: "Leichei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: '"Spirit-Wisdom": the daily meditative movement that realigns the body with its classification'
@@ -141,7 +147,7 @@ data:
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "the Mandate of Heaven, the cosmic appointment by which the Emperor rules"
-    - form: "Woléi"
+    - form: "Wolei"
       class: "n"
       field: "Heaven, law and the order of things"
       gloss: "spirit, the element the celestial bureaus govern collectively"
@@ -154,7 +160,7 @@ data:
       field: "Heaven, law and the order of things"
       gloss: "the Caste Laws, which fix every caste's rights, duties and restrictions"
     - {form: zho, class: "n", field: Beasts, gloss: "dragon"}
-    - {form: hieng, class: "n", field: Beasts, gloss: "tiger"}
+    - {form: hen, class: "n", field: Beasts, gloss: "tiger"}
     - {form: zhai, class: "n", field: Beasts, gloss: "bird, phoenix, crane"}
     - {form: gwo, class: "n", field: Beasts, gloss: "tortoise"}
     - {form: sou, class: "n", field: Beasts, gloss: "serpent"}
@@ -181,57 +187,57 @@ data:
     pattern: "{family} {given}"
     given:
       female:
-        - "Léngluo"
-        - "Youwéi"
+        - "Luoleng"
+        - "Youzhen"
         - "Meizhi"
-        - "Wéiluo"
-        - "Zhouléng"
+        - "Weiluo"
+        - "Zhouleng"
         - "Buiyou"
         - "Houluo"
         - "Rinyan"
-        - "Shouwéi"
-        - "Lengméi"
+        - "Wongwei"
+        - "Lengmei"
         - "Luoyou"
         - "Zhiluo"
-        - "Yanluo"
-        - "Wéiyou"
+        - "Buiyan"
+        - "Chuenyou"
         - "Zhenluo"
-        - "Chenwéi"
-        - "Méiluo"
+        - "Chenwei"
+        - "Meiluo"
         - "Rinluo"
         - "Builuo"
         - "Houyou"
         - "Zhouluo"
-        - "Zhiyou"
-        - "Meiyan"
-        - "Houwéi"
+        - "Tengzhi"
+        - "Meizhai"
+        - "Weihou"
         - "Buizhi"
         - "Wongyou"
         - "Nouluo"
-        - "Shouluo"
-        - "Youléng"
+        - "Wongluo"
+        - "Youleng"
         - "Zhouyan"
-        - "Weiméi"
+        - "Buimei"
         - "Rinzhi"
-        - "Houméi"
-        - "Léngyou"
+        - "Houmei"
+        - "Lengyou"
         - "Zhenyou"
-        - "Yanwéi"
-        - "Buiwéi"
-        - "Rinméi"
+        - "Yanwei"
+        - "Buiwei"
+        - "Rinmei"
         - "Houzhi"
-        - "Zhouwéi"
-        - "Wéngluo"
+        - "Muowei"
+        - "Wengluo"
         - "Mouluo"
-        - "Zhenzhi"
+        - "Chuenzhi"
       male:
         - "Tanzho"
         - "Tuija"
         - "Wuodao"
-        - "Raoléng"
+        - "Raoleng"
         - "Cheiwo"
-        - "Jingzhén"
-        - "Houwéng"
+        - "Jingzhin"
+        - "Houweng"
         - "Daohen"
         - "Mouwo"
         - "Daowo"
@@ -243,27 +249,27 @@ data:
         - "Daojing"
         - "Hozho"
         - "Wengzho"
-        - "Chéidao"
+        - "Cheidao"
         - "Wuoja"
-        - "Tuizhén"
+        - "Tuizhin"
         - "Jenwo"
         - "Kuowo"
         - "Touwo"
         - "Moujing"
-        - "Daochéi"
+        - "Daochei"
         - "Jingwo"
         - "Henja"
         - "Zhouja"
         - "Raozho"
         - "Wengja"
-        - "Kuochéi"
+        - "Kuochei"
         - "Tuiwo"
         - "Houwuo"
         - "Daogen"
         - "Jenja"
         - "Howo"
-        - "Daozhén"
-        - "Tuidao"
+        - "Daozhin"
+        - "Tuizho"
         - "Wohen"
         - "Wenghen"
         - "Raojing"
@@ -294,15 +300,37 @@ data:
       - "Zhai"
       - "Mai"
       - "Bei"
-      - "Hieng"
+      - "Hen"
       - "Rao"
       - "Zhowou"
   sounds:
     edges:
+      - edge: openConsonant
+        sounds: [w, zh, h, l, y, j, t, ch, d, r, m, n, s, ts, sh, b, g, k, f, gw]
       - {edge: openCluster, sounds: []}
       - {edge: closeConsonant, sounds: [n, ng]}
       - {edge: closeCluster, sounds: []}
     clusters: {max: 2}
+    syllables: {onsets: single, codas: [n, ng], initialVowel: false}
+    finals:
+      - {final: a, like: "the a of father"}
+      - {final: o, like: "the o of go"}
+      - {final: i, like: "the i of machine"}
+      - {final: ai, like: eye}
+      - {final: ei, like: day}
+      - {final: ao, like: "ah-oh in one syllable, near cow"}
+      - {final: ou, like: soul}
+      - {final: ui, like: "oo-ee in one syllable, near gooey"}
+      - {final: uo, like: "oo-oh in one syllable"}
+      - {final: ie, like: "ee-eh in one syllable"}
+      - {final: an, like: "ahn, the a of father closed on n"}
+      - {final: en, like: "the en of ten"}
+      - {final: in, like: "een, as in seen"}
+      - {final: eng, like: "the eng of length"}
+      - {final: ing, like: "eeng, the i of machine closed on ng"}
+      - {final: ong, like: "ohng, the o of go closed on ng"}
+      - {final: uen, like: "oo-en in one syllable, near wen"}
+      - {final: iao, like: "ee-ah-oh in one syllable, near yow"}
   scope:
     folders:
       - tantsou
@@ -366,7 +394,7 @@ data:
     - {name: Champion, tongue: translation}
     - {name: Chief Intendant, tongue: translation}
     - {name: Chougen, tongue: tanvuri, built: [chou, gen]}
-    - {name: Chouléi, tongue: tanvuri, built: [chou, lei]}
+    - {name: Choulei, tongue: tanvuri, built: [chou, lei]}
     - {name: Chou Sei, tongue: tanvuri, built: [chou, sei]}
     - {name: Clerk, tongue: translation}
     - {name: Clerk of Transmission, tongue: translation}
@@ -392,7 +420,7 @@ data:
     - {name: Emperor, tongue: translation}
     - {name: Empire of Tantsou, tongue: translation}
     - {name: Enforcer, tongue: translation}
-    - {name: Faléi, tongue: tanvuri, built: [fa, lei]}
+    - {name: Falei, tongue: tanvuri, built: [fa, lei]}
     - {name: Falou Sei, tongue: tanvuri, built: [fa, lou, sei]}
     - {name: Fawo, tongue: tanvuri, built: [fa, wo]}
     - {name: "Fawo, The Minister of Material Fortune", tongue: translation}
@@ -401,9 +429,9 @@ data:
     - {name: Fixer, tongue: translation}
     - {name: Gap-Maker, tongue: translation}
     - {name: Genealogist, tongue: translation}
-    - {name: Genhén, tongue: tanvuri}
-    - {name: "Genhén, The Minister of Entropy", tongue: translation}
-    - {name: Haléi, tongue: tanvuri, built: [ha, lei]}
+    - {name: Genhuen, tongue: tanvuri, built: [gen, huen]}
+    - {name: "Genhuen, The Minister of Entropy", tongue: translation}
+    - {name: Halei, tongue: tanvuri, built: [ha, lei]}
     - {name: Ha Luo Zhao, tongue: tanvuri, built: [ha, luo, zhao]}
     - {name: Hanger-on, tongue: translation}
     - {name: Hatsou, tongue: tanvuri, built: [ha, tsou]}
@@ -411,10 +439,10 @@ data:
     - {name: Ha Zhao, tongue: tanvuri, built: [ha, zhao]}
     - {name: Head of the House, tongue: translation}
     - {name: Heir, tongue: translation}
-    - {name: Hénhatoutsou, tongue: tanvuri, built: [huen, ha, tou, tsou]}
+    - {name: Huenhatoutsou, tongue: tanvuri, built: [huen, ha, tou, tsou]}
     - {name: Huen Sei, tongue: tanvuri, built: [huen, sei]}
-    - {name: Henwo, tongue: tanvuri, built: [huen, wo]}
-    - {name: Hénzhuo, tongue: tanvuri, built: [huen, zhuo]}
+    - {name: Huenwo, tongue: tanvuri, built: [huen, wo]}
+    - {name: Huenzhuo, tongue: tanvuri, built: [huen, zhuo]}
     - {name: Ho Sei, tongue: tanvuri, built: [ho, sei]}
     - {name: Illuminator, tongue: translation}
     - {name: Infernal Realms, tongue: translation}
@@ -428,7 +456,7 @@ data:
     - {name: Keeper of the Sacred Texts, tongue: translation}
     - {name: Kin by Blood, tongue: translation}
     - {name: Kin by Marriage, tongue: translation}
-    - {name: Lanéi, tongue: tanvuri}
+    - {name: Lanei, tongue: tanvuri, built: [la, nei]}
     - {name: Lay, tongue: translation}
     - {name: Lengwo, tongue: tanvuri, built: [leng, wo]}
     - {name: Made Member, tongue: translation}
@@ -445,12 +473,12 @@ data:
     - {name: "Meiwo, The Minister of Dreams", tongue: translation}
     - {name: Neitsai, tongue: tanvuri, built: [nei, tsai]}
     - {name: "Neitsai, The Minister of Continuity", tongue: translation}
-    - {name: Noutsou, tongue: tanvuri, built: [nuei, tsou]}
-    - {name: Nouwén, tongue: tanvuri, built: [nou, wen]}
+    - {name: Nuitsou, tongue: tanvuri, built: [nui, tsou]}
+    - {name: Nouwen, tongue: tanvuri, built: [nou, wen]}
     - {name: Nouwo, tongue: tanvuri, built: [nou, wo]}
     - {name: Numerology, tongue: translation}
     - {name: Nuoho, tongue: tanvuri, built: [nuo, ho]}
-    - {name: Nuoléi, tongue: tanvuri, built: [nuo, lei]}
+    - {name: Nuolei, tongue: tanvuri, built: [nuo, lei]}
     - {name: Nuo Sei, tongue: tanvuri, built: [nuo, sei]}
     - {name: Nuotsou Rui, tongue: tanvuri, built: [nuo, tsou, rui]}
     - {name: Nuowo, tongue: tanvuri, built: [nuo, wo]}
@@ -469,30 +497,30 @@ data:
     - {name: Recruiter, tongue: translation}
     - {name: Registrar, tongue: translation}
     - {name: Registrar of Allocations, tongue: translation}
-    - {name: Rinho Daowéng, tongue: tanvuri, built: [rin, ho, dao, weng]}
+    - {name: Rinho Daoweng, tongue: tanvuri, built: [rin, ho, dao, weng]}
     - {name: "Ritual: Daotou Wochai", tongue: translation}
     - {name: "Ritual: Douyo", tongue: translation}
     - {name: "Ritual: Fawo", tongue: translation}
-    - {name: "Ritual: Genhén", tongue: translation}
-    - {name: "Ritual: Hénzhuo", tongue: translation}
+    - {name: "Ritual: Genhuen", tongue: translation}
+    - {name: "Ritual: Huenzhuo", tongue: translation}
     - {name: "Ritual: Meiwo", tongue: translation}
     - {name: "Ritual: Neitsai", tongue: translation}
     - {name: "Ritual: Nuoho", tongue: translation}
     - {name: "Ritual: Nuowo", tongue: translation}
     - {name: "Ritual: Raogui", tongue: translation}
-    - {name: "Ritual: Rinho Daowéng", tongue: translation}
+    - {name: "Ritual: Rinho Daoweng", tongue: translation}
     - {name: "Ritual: Tanzho", tongue: translation}
-    - {name: "Ritual: Wánsou Zhuo", tongue: translation}
-    - {name: "Ritual: Wántou", tongue: translation}
+    - {name: "Ritual: Wansou Zhuo", tongue: translation}
+    - {name: "Ritual: Wantou", tongue: translation}
     - {name: "Ritual: Watsai", tongue: translation}
-    - {name: "Ritual: Wéizhuo", tongue: translation}
-    - {name: "Ritual: Wéngdao Zhouwo", tongue: translation}
+    - {name: "Ritual: Weizhuo", tongue: translation}
+    - {name: "Ritual: Wengdao Zhouwo", tongue: translation}
     - {name: "Ritual: Wodou", tongue: translation}
     - {name: "Ritual: Wojing Ja", tongue: translation}
-    - {name: "Ritual: Youwéi", tongue: translation}
+    - {name: "Ritual: Youbui", tongue: translation}
     - {name: "Ritual: Yozhuo", tongue: translation}
     - {name: "Ritual: Zhaosou", tongue: translation}
-    - {name: "Ritual: Zhenho", tongue: translation}
+    - {name: "Ritual: Zhinho", tongue: translation}
     - {name: "Ritual: Zhoushou Zho", tongue: translation}
     - {name: Seal-Forger, tongue: translation}
     - {name: Seal-Holder, tongue: translation}
@@ -503,7 +531,7 @@ data:
     - {name: Singwou, tongue: tanvuri, built: [sing, wou]}
     - {name: Steward, tongue: translation}
     - {name: Struck from the Rolls, tongue: translation}
-    - {name: Tanchéi, tongue: tanvuri, built: [tan, chei]}
+    - {name: Tanchei, tongue: tanvuri, built: [tan, chei]}
     - {name: Tantsou, tongue: tanvuri, built: [tan, tsou]}
     - {name: Tantsou Adventurer's Guide, tongue: translation}
     - {name: Tantsou Currency, tongue: translation}
@@ -516,7 +544,7 @@ data:
     - {name: Teng Chou, tongue: tanvuri, built: [teng, chou]}
     - {name: Teng Chou Script, tongue: translation}
     - {name: Teng Gui, tongue: tanvuri, built: [teng, gui]}
-    - {name: Téngwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}
+    - {name: Tengwou Rong Lei, tongue: tanvuri, built: [teng, wou, rong, lei]}
     - {name: The Archive of All Records, tongue: translation}
     - {name: The Black Lotus, tongue: translation}
     - {name: The Black Lotus Society, tongue: translation}
@@ -560,44 +588,44 @@ data:
     - {name: The Unmaker, tongue: translation}
     - {name: The Unsorted, tongue: translation}
     - {name: The Walking Contradiction, tongue: translation}
-    - {name: The Youwéng, tongue: translation}
+    - {name: The Youweng, tongue: translation}
     - {name: Treasurer, tongue: translation}
-    - {name: Tsaihuo, tongue: tanvuri}
-    - {name: Tsaikén, tongue: tanvuri, built: [tsai, ken]}
+    - {name: Tsaihuo, tongue: tanvuri, built: [tsai, huo]}
+    - {name: Tsaiken, tongue: tanvuri, built: [tsai, ken]}
     - {name: Tsai Sei, tongue: tanvuri, built: [tsai, sei]}
     - {name: Tseising, tongue: tanvuri, built: [tsei, sing]}
     - {name: Tuija Wengyan, tongue: tanvuri, built: [tui, ja, weng, yan]}
     - {name: Wai Singzhuo, tongue: tanvuri, built: [wai, sing, zhuo]}
-    - {name: Wánduo, tongue: tanvuri}
-    - {name: Wánsou Zhuo, tongue: tanvuri}
-    - {name: "Wánsou Zhuo, The Chief Auditor of Souls", tongue: translation}
-    - {name: Wántou, tongue: tanvuri}
-    - {name: "Wántou, The Keeper of the Celestial Archive", tongue: translation}
+    - {name: Wanduo, tongue: tanvuri, built: [wan, duo]}
+    - {name: Wansou Zhuo, tongue: tanvuri, built: [wan, sou, zhuo]}
+    - {name: "Wansou Zhuo, The Chief Auditor of Souls", tongue: translation}
+    - {name: Wantou, tongue: tanvuri, built: [wan, tou]}
+    - {name: "Wantou, The Keeper of the Celestial Archive", tongue: translation}
     - {name: Warden of the Bound, tongue: translation}
     - {name: Warlord, tongue: translation}
     - {name: Watcher, tongue: translation}
     - {name: Watsai, tongue: tanvuri, built: [wa, tsai]}
     - {name: Wei Zhai Rui, tongue: tanvuri, built: [wei, zhai, rui]}
-    - {name: Wéizhuo, tongue: tanvuri, built: [wei, zhuo]}
-    - {name: "Wéizhuo Daonéi, the Jade Sovereign", tongue: translation}
-    - {name: Wéngdao Zhouwo, tongue: tanvuri, built: [weng, dao, zhou, wo]}
+    - {name: Weizhuo, tongue: tanvuri, built: [wei, zhuo]}
+    - {name: "Weizhuo Daonei, the Jade Sovereign", tongue: translation}
+    - {name: Wengdao Zhouwo, tongue: tanvuri, built: [weng, dao, zhou, wo]}
     - {name: Wodou, tongue: tanvuri, built: [wo, dou]}
     - {name: "Wodou, The Minister of Roads", tongue: translation}
     - {name: Wogen Henzhuo, tongue: tanvuri, built: [wo, gen, hen, zhuo]}
     - {name: Wohou, tongue: tanvuri, built: [wo, hou]}
     - {name: Wojing Ja, tongue: tanvuri, built: [wo, jing, ja]}
-    - {name: Wouchéi, tongue: tanvuri}
+    - {name: Wouchei, tongue: tanvuri, built: [wou, chei]}
     - {name: Yanchai Zhao, tongue: tanvuri, built: [yan, chai, zhao]}
-    - {name: Yoléi, tongue: tanvuri, built: [yo, lei]}
-    - {name: Youwéi, tongue: tanvuri, built: [you, wei]}
-    - {name: Youwéng, tongue: tanvuri}
-    - {name: Youwéng Lesser Demons, tongue: translation}
+    - {name: Yolei, tongue: tanvuri, built: [yo, lei]}
+    - {name: Youbui, tongue: tanvuri, built: [you, bui]}
+    - {name: Youweng, tongue: tanvuri, built: [you, weng]}
+    - {name: Youweng Lesser Demons, tongue: translation}
     - {name: Yozhuo, tongue: tanvuri, built: [yo, zhuo]}
     - {name: Zhaosou, tongue: tanvuri, built: [zhao, sou]}
     - {name: Zhawo, tongue: tanvuri, built: [zha, wo]}
     - {name: Zhazho, tongue: tanvuri, built: [zha, zho]}
-    - {name: Zhenho, tongue: tanvuri, built: [zhin, ho]}
-    - {name: "Zhenho, The Minister of Fire", tongue: translation}
+    - {name: Zhinho, tongue: tanvuri, built: [zhin, ho]}
+    - {name: "Zhinho, The Minister of Fire", tongue: translation}
     - {name: Zhoushou Zho, tongue: tanvuri, built: [zhou, shou, zho]}
     - {name: Zhowo, tongue: tanvuri, built: [zho, wo]}
     - {name: Zhozhuo, tongue: tanvuri, built: [zho, zhuo]}
@@ -620,13 +648,13 @@ data:
     - {form: Shükrën, instead: Shuonong, why: "built on an Earth word, the merchant caste"}
     - {form: Vüsrën, instead: Wonong, why: "built on an Earth word, the common soldiers"}
     - form: Tëngvōk Vān Lëi
-      instead: Téngwou Rong Lei
+      instead: Tengwou Rong Lei
       why: "built on an Earth word, the Celestial Order"
     - form: Dāk Vān Hōk
       instead: Dao Rong Hou
       why: "built on an Earth word, the Great Convergence"
     - form: Vānlëng
-      instead: Rongléng
+      instead: Rongleng
       why: "built on an Earth word, the title of the Emperor of Jürthāt"
     - {form: Röthöt, instead: Rinho, why: "built on an Earth word, the lord of fire"}
     - form: Rötzhāt
@@ -654,96 +682,112 @@ data:
     - {form: Dragon Horse, instead: Dawn Horse, why: an Earth beast of omen}
     - {form: Jade Emperor, instead: Jade Sovereign, why: an Earth god}
     - {form: qilin, instead: jei, why: "an Earth word, a horned beast of good omen"}
-    - {form: Qigong, instead: Leichéi, why: "an Earth word, a discipline of breath"}
-    - {form: Bëitbëi, instead: Buibéi, why: the name's earlier spelling}
-    - {form: Bëitthëi, instead: Buichéi, why: the name's earlier spelling}
+    - {form: Qigong, instead: Leichei, why: "an Earth word, a discipline of breath"}
+    - {form: Bëitbëi, instead: Buibei, why: the name's earlier spelling}
+    - {form: Bëitthëi, instead: Buichei, why: the name's earlier spelling}
     - {form: Dākhöt, instead: Daoho, why: the name's earlier spelling}
     - {form: Dākhöt Vōr, instead: Daoho Wo, why: the name's earlier spelling}
-    - {form: Dāknëi, instead: Daonéi, why: the name's earlier spelling}
+    - {form: Dāknëi, instead: Daonei, why: the name's earlier spelling}
     - {form: Dāktūr, instead: Daotou, why: the name's earlier spelling}
     - {form: Dāktūr Vōrthāt, instead: Daotou Wochai, why: the name's earlier spelling}
-    - {form: Dākvëng, instead: Daowéng, why: the name's earlier spelling}
+    - {form: Dākvëng, instead: Daoweng, why: the name's earlier spelling}
     - {form: Dākyāt, instead: Daoyai, why: the name's earlier spelling}
     - {form: Dākzhös, instead: Daozho, why: the name's earlier spelling}
     - {form: Dākzhük, instead: Daozhuo, why: the name's earlier spelling}
     - {form: Dākzhüt, instead: Daozhou, why: the name's earlier spelling}
+    - {form: Daozhen, instead: Daozhin, why: the name's earlier spelling}
     - {form: Dōk Sëi, instead: Dou Sei, why: the name's earlier spelling}
     - {form: Dōk Thōk, instead: Dou Chou, why: the name's earlier spelling}
     - {form: Dōkyök, instead: Douyo, why: the name's earlier spelling}
     - {form: Dōkzhëkvōr, instead: Douzhawo, why: the name's earlier spelling}
     - {form: Dōkzhīr, instead: Douzhi, why: the name's earlier spelling}
-    - {form: Fëklëi, instead: Faléi, why: the name's earlier spelling}
+    - {form: Fëklëi, instead: Falei, why: the name's earlier spelling}
     - {form: Fëklüt, instead: Falou, why: the name's earlier spelling}
     - {form: Fëklüt Sëi, instead: Falou Sei, why: the name's earlier spelling}
     - {form: Fëkvōr, instead: Fawo, why: the name's earlier spelling}
+    - {form: Genhen, instead: Genhuen, why: the name's earlier spelling}
     - {form: Gīrkthāt, instead: Guichai, why: the name's earlier spelling}
     - {form: Gīrkvüs, instead: Guiwo, why: the name's earlier spelling}
-    - {form: Gürnhürn, instead: Genhén, why: the name's earlier spelling}
-    - {form: Hëklëi, instead: Haléi, why: the name's earlier spelling}
+    - {form: Gürnhürn, instead: Genhuen, why: the name's earlier spelling}
+    - {form: Hëklëi, instead: Halei, why: the name's earlier spelling}
     - {form: Hëk Lōt Zhāk, instead: Ha Luo Zhao, why: the name's earlier spelling}
     - {form: Hëkvōr, instead: Hawo, why: the name's earlier spelling}
     - {form: Hëkyök, instead: Hayo, why: the name's earlier spelling}
     - {form: Hëk Zhāk, instead: Ha Zhao, why: the name's earlier spelling}
     - {form: Hëkzhāt, instead: Hazhai, why: the name's earlier spelling}
     - {form: Hëkzōk, instead: Hatsou, why: the name's earlier spelling}
+    - {form: Henhatou, instead: Huenhatou, why: the name's earlier spelling}
+    - {form: Henhatoutsou, instead: Huenhatoutsou, why: the name's earlier spelling}
+    - {form: Henlei, instead: Huenlei, why: the name's earlier spelling}
+    - {form: Hensingyo, instead: Huensingyo, why: the name's earlier spelling}
+    - {form: Henweng, instead: Huenweng, why: the name's earlier spelling}
+    - {form: hieng, instead: hen, why: the name's earlier spelling}
     - {form: Hōkyüt, instead: Houyou, why: the name's earlier spelling}
     - {form: Höt Sëi, instead: Ho Sei, why: the name's earlier spelling}
     - {form: Hötyüt, instead: Hoyou, why: the name's earlier spelling}
-    - {form: Hürnhëktūr, instead: Hénhatou, why: the name's earlier spelling}
-    - {form: Hürnhëktūrzōk, instead: Hénhatoutsou, why: the name's earlier spelling}
-    - {form: Hürnlëi, instead: Henléi, why: the name's earlier spelling}
+    - {form: Houwei, instead: Weihou, why: the name's earlier spelling}
+    - {form: Hürnhëktūr, instead: Huenhatou, why: the name's earlier spelling}
+    - {form: Hürnhëktūrzōk, instead: Huenhatoutsou, why: the name's earlier spelling}
+    - {form: Hürnlëi, instead: Huenlei, why: the name's earlier spelling}
     - {form: Hürn Sëi, instead: Huen Sei, why: the name's earlier spelling}
-    - {form: Hürnvëng, instead: Henwéng, why: the name's earlier spelling}
-    - {form: Hürnvëthzhük, instead: Hénsingyo, why: the name's earlier spelling}
-    - {form: Hürnvōr, instead: Henwo, why: the name's earlier spelling}
-    - {form: Hürnzhük, instead: Hénzhuo, why: the name's earlier spelling}
+    - {form: Hürnvëng, instead: Huenweng, why: the name's earlier spelling}
+    - {form: Hürnvëthzhük, instead: Huensingyo, why: the name's earlier spelling}
+    - {form: Hürnvōr, instead: Huenwo, why: the name's earlier spelling}
+    - {form: Hürnzhük, instead: Huenzhuo, why: the name's earlier spelling}
     - {form: Hürtzhük, instead: Henzhuo, why: the name's earlier spelling}
     - {form: Jëityüt, instead: Juiyou, why: the name's earlier spelling}
     - {form: Jīkyüt, instead: Jingyou, why: the name's earlier spelling}
     - {form: Jīkzhös, instead: Jingzho, why: the name's earlier spelling}
+    - {form: Jingzhen, instead: Jingzhin, why: the name's earlier spelling}
     - {form: Jürthāt, instead: Jenchai, why: the name's earlier spelling}
     - {form: Jürthātese, instead: Jenchai, why: the name's earlier spelling}
     - {form: Kēr, instead: Hou, why: the name's earlier spelling}
     - {form: Kērlüt, instead: Tuichai, why: the name's earlier spelling}
     - {form: Kērvōn, instead: Houwo, why: the name's earlier spelling}
     - {form: Kīrhürt, instead: Jeihen, why: the name's earlier spelling}
-    - {form: Kōtjür, instead: Kuojén, why: the name's earlier spelling}
+    - {form: Kōtjür, instead: Kuojen, why: the name's earlier spelling}
     - {form: Kōtvüt, instead: Kuowou, why: the name's earlier spelling}
     - {form: Lëigürt, instead: Leigen, why: the name's earlier spelling}
-    - {form: Lëithëi, instead: Leichéi, why: the name's earlier spelling}
+    - {form: Lëithëi, instead: Leichei, why: the name's earlier spelling}
     - {form: Lëivōr, instead: Leiwo, why: the name's earlier spelling}
-    - {form: Lëknëi, instead: Lanéi, why: the name's earlier spelling}
+    - {form: Lëknëi, instead: Lanei, why: the name's earlier spelling}
+    - {form: Lengluo, instead: Luoleng, why: the name's earlier spelling}
     - {form: Lëngmāt, instead: Lengmai, why: the name's earlier spelling}
     - {form: Lëngvōr, instead: Lengwo, why: the name's earlier spelling}
     - {form: Lëngzhāt, instead: Lengzhai, why: the name's earlier spelling}
     - {form: Mëivōr, instead: Meiwo, why: the name's earlier spelling}
+    - {form: Meiyan, instead: Meizhai, why: the name's earlier spelling}
     - {form: Mütyüt, instead: Mouyou, why: the name's earlier spelling}
     - {form: Nëizāt, instead: Neitsai, why: the name's earlier spelling}
     - {form: Nōkvōr, instead: Nouwo, why: the name's earlier spelling}
-    - {form: Nōkvür, instead: Nouwén, why: the name's earlier spelling}
+    - {form: Nōkvür, instead: Nouwen, why: the name's earlier spelling}
+    - {form: Noutsou, instead: Nuitsou, why: the name's earlier spelling}
+    - {form: nuei, instead: nui, why: the name's earlier spelling}
     - {form: Nürthöt, instead: Nenho, why: the name's earlier spelling}
     - {form: Nüshöt, instead: Nuoho, why: the name's earlier spelling}
-    - {form: Nüslëi, instead: Nuoléi, why: the name's earlier spelling}
+    - {form: Nüslëi, instead: Nuolei, why: the name's earlier spelling}
     - {form: Nüs Sëi, instead: Nuo Sei, why: the name's earlier spelling}
     - {form: Nüsvōr, instead: Nuowo, why: the name's earlier spelling}
     - {form: Nüsvōrroth, instead: Nuoworoth, why: the name's earlier spelling}
     - {form: Nüsvōrroths, instead: Nuoworoths, why: the name's earlier spelling}
     - {form: Nüszōk, instead: Nuotsou, why: the name's earlier spelling}
     - {form: Nüszōk Rëit, instead: Nuotsou Rui, why: the name's earlier spelling}
-    - {form: Nützōk, instead: Noutsou, why: the name's earlier spelling}
+    - {form: Nützōk, instead: Nuitsou, why: the name's earlier spelling}
     - {form: Rëkgīrk, instead: Raogui, why: the name's earlier spelling}
     - {form: Rëkshüt, instead: Raoshou, why: the name's earlier spelling}
     - {form: Rīrnhöt, instead: Rinho, why: the name's earlier spelling}
-    - {form: Rīrnhöt Dākvëng, instead: Rinho Daowéng, why: the name's earlier spelling}
-    - {form: Rūrklëng, instead: Rongléng, why: the name's earlier spelling}
+    - {form: Rīrnhöt Dākvëng, instead: Rinho Daoweng, why: the name's earlier spelling}
+    - {form: Rūrklëng, instead: Rongleng, why: the name's earlier spelling}
     - {form: Shëitzhük, instead: Shuizhuo, why: the name's earlier spelling}
+    - {form: Shouluo, instead: Wongluo, why: the name's earlier spelling}
+    - {form: Shouwei, instead: Wongwei, why: the name's earlier spelling}
     - {form: Shüknürk, instead: Shuonong, why: the name's earlier spelling}
     - {form: Shütyüt, instead: Shouyou, why: the name's earlier spelling}
-    - {form: Sīklëi, instead: Singléi, why: the name's earlier spelling}
+    - {form: Sīklëi, instead: Singlei, why: the name's earlier spelling}
     - {form: Sīkvōk, instead: Singwou, why: the name's earlier spelling}
     - {form: Sīkvūrzhïk, instead: Chounuoyo, why: the name's earlier spelling}
     - {form: Sīkzhük, instead: Singzhuo, why: the name's earlier spelling}
-    - {form: Tānthëi, instead: Tanchéi, why: the name's earlier spelling}
+    - {form: Tānthëi, instead: Tanchei, why: the name's earlier spelling}
     - {form: Tánvür, instead: Tantsou, why: the name's earlier spelling}
     - {form: Tānvüran, instead: Tantsou, why: the name's earlier spelling}
     - {form: Tānvuri, instead: Tantsou, why: the name's earlier spelling}
@@ -753,100 +797,112 @@ data:
     - {form: Tëitjëk, instead: Tuija, why: the name's earlier spelling}
     - {form: Tëitjëk Vëngyīrt, instead: Tuija Wengyan, why: the name's earlier spelling}
     - {form: Tëng Gīrk, instead: Teng Gui, why: the name's earlier spelling}
-    - {form: Tëngmüt, instead: Téngmou, why: the name's earlier spelling}
+    - {form: Tëngmüt, instead: Tengmou, why: the name's earlier spelling}
     - {form: Tëng Thōk, instead: Teng Chou, why: the name's earlier spelling}
-    - {form: Tëngvōk, instead: Téngwou, why: the name's earlier spelling}
-    - {form: Tëngvōk Rūrk Lëi, instead: Téngwou Rong Lei, why: the name's earlier spelling}
+    - {form: Tëngvōk, instead: Tengwou, why: the name's earlier spelling}
+    - {form: Tëngvōk Rūrk Lëi, instead: Tengwou Rong Lei, why: the name's earlier spelling}
     - {form: Tëngvōr, instead: Tengwo, why: the name's earlier spelling}
-    - {form: Tëngyōk, instead: Téngyou, why: the name's earlier spelling}
+    - {form: Tëngyōk, instead: Tengyou, why: the name's earlier spelling}
     - {form: Thākhöt, instead: Chaoho, why: the name's earlier spelling}
     - {form: Thātvōng, instead: Chaiwong, why: the name's earlier spelling}
     - {form: Thātzhös, instead: Chaizho, why: the name's earlier spelling}
     - {form: Thëikyüt, instead: Chiaoyou, why: the name's earlier spelling}
-    - {form: Thëizhëit, instead: Chéizhui, why: the name's earlier spelling}
+    - {form: Thëizhëit, instead: Cheizhui, why: the name's earlier spelling}
     - {form: Thimvōrk, instead: Mougui, why: the name's earlier spelling}
     - {form: Thōkgürt, instead: Chougen, why: the name's earlier spelling}
-    - {form: Thōklëi, instead: Chouléi, why: the name's earlier spelling}
+    - {form: Thōklëi, instead: Choulei, why: the name's earlier spelling}
     - {form: Thōk Sëi, instead: Chou Sei, why: the name's earlier spelling}
     - {form: Thōkvōr, instead: Chouwo, why: the name's earlier spelling}
     - {form: Thürtyüt, instead: Chenyou, why: the name's earlier spelling}
-    - {form: Thürzhük, instead: Chénzhuo, why: the name's earlier spelling}
-    - {form: Tūrhürn, instead: Touhén, why: the name's earlier spelling}
+    - {form: Thürzhük, instead: Chenzhuo, why: the name's earlier spelling}
+    - {form: Touhen, instead: Touhuen, why: the name's earlier spelling}
+    - {form: Tuidao, instead: Tuizho, why: the name's earlier spelling}
+    - {form: Tuizhen, instead: Tuizhin, why: the name's earlier spelling}
+    - {form: Tūrhürn, instead: Touhuen, why: the name's earlier spelling}
     - {form: Tūrvōr, instead: Touwo, why: the name's earlier spelling}
     - {form: Tūryüt, instead: Touyou, why: the name's earlier spelling}
     - {form: Vāt Sīkzhük, instead: Wai Singzhuo, why: the name's earlier spelling}
     - {form: Vëithāt, instead: Weichai, why: the name's earlier spelling}
     - {form: Vëi Zhāt Rëit, instead: Wei Zhai Rui, why: the name's earlier spelling}
-    - {form: Vëizhük, instead: Wéizhuo, why: the name's earlier spelling}
+    - {form: Vëizhük, instead: Weizhuo, why: the name's earlier spelling}
     - {form: Vëkzāt, instead: Watsai, why: the name's earlier spelling}
     - {form: Vëkzhös, instead: Wazho, why: the name's earlier spelling}
-    - {form: Vëndük, instead: Wánduo, why: the name's earlier spelling}
-    - {form: Vëngdāk, instead: Wéngdao, why: the name's earlier spelling}
-    - {form: Vëngdāk Zhütvōr, instead: Wéngdao Zhouwo, why: the name's earlier spelling}
+    - {form: Vëndük, instead: Wanduo, why: the name's earlier spelling}
+    - {form: Vëngdāk, instead: Wengdao, why: the name's earlier spelling}
+    - {form: Vëngdāk Zhütvōr, instead: Wengdao Zhouwo, why: the name's earlier spelling}
     - {form: Vënghöt, instead: Wengho, why: the name's earlier spelling}
     - {form: Vëngyīrt, instead: Wengyan, why: the name's earlier spelling}
-    - {form: Vëngyüt, instead: Wéngyou, why: the name's earlier spelling}
+    - {form: Vëngyüt, instead: Wengyou, why: the name's earlier spelling}
     - {form: Vëngzhös, instead: Wengzho, why: the name's earlier spelling}
-    - {form: Vëngzhük, instead: Wéngzhuo, why: the name's earlier spelling}
-    - {form: Vënsōk, instead: Wánsou, why: the name's earlier spelling}
-    - {form: Vënsōk Zhük, instead: Wánsou Zhuo, why: the name's earlier spelling}
-    - {form: Vëntōk, instead: Wántou, why: the name's earlier spelling}
+    - {form: Vëngzhük, instead: Wengzhuo, why: the name's earlier spelling}
+    - {form: Vënsōk, instead: Wansou, why: the name's earlier spelling}
+    - {form: Vënsōk Zhük, instead: Wansou Zhuo, why: the name's earlier spelling}
+    - {form: Vëntōk, instead: Wantou, why: the name's earlier spelling}
     - {form: Vōrdāk, instead: Wodao, why: the name's earlier spelling}
     - {form: Vōrdōk, instead: Wodou, why: the name's earlier spelling}
     - {form: Vōrjëk, instead: Woja, why: the name's earlier spelling}
     - {form: Vōrjīk, instead: Wojing, why: the name's earlier spelling}
     - {form: Vōrjīk Jëk, instead: Wojing Ja, why: the name's earlier spelling}
     - {form: Vörkāt, instead: Tsaimou, why: the name's earlier spelling}
-    - {form: Vōrlëi, instead: Woléi, why: the name's earlier spelling}
+    - {form: Vōrlëi, instead: Wolei, why: the name's earlier spelling}
     - {form: Vōrthāk, instead: Wochao, why: the name's earlier spelling}
     - {form: Vōrthāt, instead: Wochai, why: the name's earlier spelling}
     - {form: Vōryāt, instead: Woyai, why: the name's earlier spelling}
-    - {form: Vōrzhür, instead: Wozhén, why: the name's earlier spelling}
+    - {form: Vōrzhür, instead: Wozhin, why: the name's earlier spelling}
     - {form: Vürtzhāk, instead: Wenzhao, why: the name's earlier spelling}
     - {form: Vüsgürt, instead: Wogen, why: the name's earlier spelling}
     - {form: Vüsgürt Hürtzhük, instead: Wogen Henzhuo, why: the name's earlier spelling}
     - {form: Vüshōk, instead: Wohou, why: the name's earlier spelling}
     - {form: Vüsnürk, instead: Wonong, why: the name's earlier spelling}
     - {form: Vüszhük, instead: Wozhuo, why: the name's earlier spelling}
-    - {form: Vüthëi, instead: Wouchéi, why: the name's earlier spelling}
+    - {form: Vüthëi, instead: Wouchei, why: the name's earlier spelling}
+    - {form: Weimei, instead: Buimei, why: the name's earlier spelling}
+    - {form: Weiyou, instead: Chuenyou, why: the name's earlier spelling}
+    - {form: Wozhen, instead: Wozhin, why: the name's earlier spelling}
+    - {form: Yanluo, instead: Buiyan, why: the name's earlier spelling}
     - {form: Yātgīrk, instead: Yaigui, why: the name's earlier spelling}
     - {form: Yātvōr, instead: Yaiwo, why: the name's earlier spelling}
     - {form: Yātzāt, instead: Yaitsai, why: the name's earlier spelling}
     - {form: Yīrtthāt, instead: Yanchai, why: the name's earlier spelling}
     - {form: Yīrtthāt Zhāk, instead: Yanchai Zhao, why: the name's earlier spelling}
-    - {form: Yöklëi, instead: Yoléi, why: the name's earlier spelling}
-    - {form: Yökvëng, instead: Youwéng, why: the name's earlier spelling}
+    - {form: Yöklëi, instead: Yolei, why: the name's earlier spelling}
+    - {form: Yökvëng, instead: Youweng, why: the name's earlier spelling}
     - {form: Yökzhük, instead: Yozhuo, why: the name's earlier spelling}
+    - {form: Youwei, instead: [Youbui, Youzhen], why: the name's earlier spelling}
     - {form: Yütjëit, instead: Youjui, why: the name's earlier spelling}
-    - {form: Yütvëi, instead: Youwéi, why: the name's earlier spelling}
+    - {form: Yütvëi, instead: Youbui, why: the name's earlier spelling}
     - {form: Zāthük, instead: Tsaihuo, why: the name's earlier spelling}
-    - {form: Zātkür, instead: Tsaikén, why: the name's earlier spelling}
+    - {form: Zātkür, instead: Tsaiken, why: the name's earlier spelling}
     - {form: Zāt Sëi, instead: Tsai Sei, why: the name's earlier spelling}
     - {form: Zëisīk, instead: Tseising, why: the name's earlier spelling}
     - {form: Zhākkōt, instead: Zhaokuo, why: the name's earlier spelling}
-    - {form: Zhāklëi, instead: Zhaoléi, why: the name's earlier spelling}
+    - {form: Zhāklëi, instead: Zhaolei, why: the name's earlier spelling}
     - {form: Zhāklüt, instead: Zhaolou, why: the name's earlier spelling}
     - {form: Zhāksōk, instead: Zhaosou, why: the name's earlier spelling}
-    - {form: Zhākvëi, instead: Zhaowéi, why: the name's earlier spelling}
+    - {form: Zhākvëi, instead: Zhaowei, why: the name's earlier spelling}
     - {form: Zhëkvōr, instead: Zhawo, why: the name's earlier spelling}
     - {form: Zhëkvōrthān, instead: Zhawochan, why: the name's earlier spelling}
     - {form: Zhëkyāt, instead: Zhayai, why: the name's earlier spelling}
     - {form: Zhëkzhös, instead: Zhazho, why: the name's earlier spelling}
+    - {form: Zhenho, instead: Zhinho, why: the name's earlier spelling}
+    - {form: Zhenzhi, instead: Chuenzhi, why: the name's earlier spelling}
     - {form: Zhëtvök, instead: Nongyo, why: the name's earlier spelling}
     - {form: Zhik, instead: Rui, why: the name's earlier spelling}
     - {form: Zhīrvōr, instead: Zhiwo, why: the name's earlier spelling}
     - {form: Zhīrzhāt, instead: Zhizhai, why: the name's earlier spelling}
+    - {form: Zhiyou, instead: Tengzhi, why: the name's earlier spelling}
     - {form: Zhöshöt, instead: Zhoho, why: the name's earlier spelling}
     - {form: Zhösjëk, instead: Zhoja, why: the name's earlier spelling}
-    - {form: Zhöslëi, instead: Zholéi, why: the name's earlier spelling}
+    - {form: Zhöslëi, instead: Zholei, why: the name's earlier spelling}
     - {form: Zhösvōk, instead: Zhowou, why: the name's earlier spelling}
     - {form: Zhösvōr, instead: Zhowo, why: the name's earlier spelling}
     - {form: Zhösvörsīk, instead: Hameiyo, why: the name's earlier spelling}
     - {form: Zhöszhük, instead: Zhozhuo, why: the name's earlier spelling}
-    - {form: Zhükrëi, instead: Zhuoréi, why: the name's earlier spelling}
+    - {form: Zhouwei, instead: Muowei, why: the name's earlier spelling}
+    - {form: Zhükrëi, instead: Zhuorei, why: the name's earlier spelling}
     - {form: Zhükvōr, instead: Zhuowo, why: the name's earlier spelling}
     - {form: Zhükzhös, instead: Zhuozho, why: the name's earlier spelling}
-    - {form: Zhürhöt, instead: Zhenho, why: the name's earlier spelling}
+    - {form: Zhürhöt, instead: Zhinho, why: the name's earlier spelling}
     - {form: Zhürtyüt, instead: Zhenyou, why: the name's earlier spelling}
     - {form: Zhütshel, instead: Singzha, why: the name's earlier spelling}
     - {form: Zhütshüt, instead: Zhoushou, why: the name's earlier spelling}
@@ -871,6 +927,7 @@ data:
     - {forms: {skill-tantsoulng: zhen, skill-jurthatlng: zen}, gloss: snow}
     - {forms: {skill-tantsoulng: chuen, skill-jurthatlng: chen}, gloss: frost}
     - {forms: {skill-tantsoulng: rao, skill-jurthatlng: rou}, gloss: thunder}
+    - {forms: {skill-tantsoulng: la, skill-jurthatlng: ra}, gloss: lightning}
     - {forms: {skill-tantsoulng: tui, skill-jurthatlng: tsui}, gloss: iron}
     - {forms: {skill-tantsoulng: wei, skill-jurthatlng: wei}, gloss: jade}
     - {forms: {skill-tantsoulng: teng, skill-jurthatlng: te}, gloss: "heaven, the sky; celestial"}
@@ -895,12 +952,13 @@ data:
     - {forms: {skill-tantsoulng: yai, skill-jurthatlng: yai}, gloss: "healer, physician"}
     - {forms: {skill-tantsoulng: zhei, skill-jurthatlng: zei}, gloss: "son, child"}
     - {forms: {skill-tantsoulng: nong, skill-jurthatlng: nou}, gloss: "person, folk"}
-    - {forms: {skill-tantsoulng: nuei, skill-jurthatlng: nu}, gloss: "bound, enslaved"}
+    - {forms: {skill-tantsoulng: nui, skill-jurthatlng: nu}, gloss: "bound, enslaved"}
     - {forms: {skill-tantsoulng: tsou, skill-jurthatlng: tsu}, gloss: "tribe, group, people"}
     - {forms: {skill-tantsoulng: zhao, skill-jurthatlng: zou}, gloss: "house, clan, family"}
     - {forms: {skill-tantsoulng: ken, skill-jurthatlng: ken}, gloss: "hearth, household"}
     - {forms: {skill-tantsoulng: shuo, skill-jurthatlng: sho}, gloss: trade}
     - {forms: {skill-tantsoulng: ja, skill-jurthatlng: ja}, gloss: blade}
+    - {forms: {skill-tantsoulng: huo, skill-jurthatlng: ho}, gloss: hand}
     - {forms: {skill-tantsoulng: wen, skill-jurthatlng: wen}, gloss: "center, middle"}
     - {forms: {skill-tantsoulng: wou, skill-jurthatlng: wu}, gloss: "court, palace, hall"}
     - {forms: {skill-tantsoulng: wo, skill-jurthatlng: wo}, gloss: "divine, sacred"}
@@ -920,10 +978,11 @@ data:
     - {forms: {skill-tantsoulng: rui, skill-jurthatlng: rui}, gloss: "ritual, ceremony, dance"}
     - {forms: {skill-tantsoulng: jui, skill-jurthatlng: jui}, gloss: festival}
     - {forms: {skill-tantsoulng: tsei, skill-jurthatlng: tsei}, gloss: "self, own"}
-    - {forms: {skill-tantsoulng: nié, skill-jurthatlng: ne}, gloss: year}
+    - {forms: {skill-tantsoulng: wan, skill-jurthatlng: wan}, gloss: "account, reckoning"}
+    - {forms: {skill-tantsoulng: nie, skill-jurthatlng: ne}, gloss: year}
     - {forms: {skill-tantsoulng: mei, skill-jurthatlng: mei}, gloss: dream}
     - {forms: {skill-tantsoulng: zho, skill-jurthatlng: zo}, gloss: dragon}
-    - {forms: {skill-tantsoulng: hieng, skill-jurthatlng: hen}, gloss: tiger}
+    - {forms: {skill-tantsoulng: hen, skill-jurthatlng: hen}, gloss: tiger}
     - {forms: {skill-tantsoulng: zhai, skill-jurthatlng: zai}, gloss: "bird, phoenix, crane"}
     - {forms: {skill-tantsoulng: gwo, skill-jurthatlng: wu}, gloss: tortoise}
     - {forms: {skill-tantsoulng: sou, skill-jurthatlng: su}, gloss: serpent}
@@ -947,6 +1006,8 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
+
+# terran_analog: Tantsou is Chinese-shaped, on the model of Mandarin: one syllable to a morpheme, an initial, a final and a tone, words of one or two syllables compounded modifier-first. It leaves out Mandarin's -ang, its bare -e, its q, x, c and z, and every medial glide but u before o, i and en, and i before e and ao. A root collides only when it is the Mandarin syllable for the same meaning; a written word of two or more syllables collides when it is a common Mandarin word or a well-known name.
 ---
 
 Tantsou is a tonal tongue of single-syllable words. Fluency measures the sophistication of expression in Tantsou, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
@@ -957,17 +1018,21 @@ The language is known natively as **Tantsou**, the name of the people (_tan_, ce
 
 ## How Tantsou sounds
 
-Tantsou is built of single syllables set side by side. Each syllable is short and complete.
+Tantsou is built of single syllables set side by side. Each syllable is short and complete: one consonant, a vowel or a gliding pair, and at most a soft _-n_ or _-ng_. Most words have one or two syllables, and two is the commonest.
 
-**The vowels.** Syllables close on _-ou_, _-ei_, _-ai_, _-uo_ or _-ao_, or on _-ng_ or _-n_.
+**The vowels.** Syllables rest on _-ou_, _-ei_, _-o_, _-uo_, _-a_, _-ao_, _-ui_, _-ai_ or _-i_, or close on _-en_, _-eng_, _-an_, _-ing_, _-in_ or _-ong_. _-ie_, _-uen_ and _-iao_ are rare. These eighteen finals are the whole of them.
 
-**The consonants.** _w_, _zh_, _ch_, _j_, _ts_, _sh_, _d_, _t_, _h_ and _l_ open syllables.
+**The consonants.** _w_, _zh_, _h_, _l_, _y_, _j_, _t_, _ch_ and _d_ open most syllables. _r_, _m_, _n_, _s_, _ts_ and _sh_ are common; _b_, _g_, _k_, _f_ and _gw_ are rare. These twenty are the whole of them. _y_ never stands before a final that begins with _i_, and _gw_ never before one that begins with _u_.
 
-**Clusters.** None inside a syllable. A compound is two or three syllables written together.
+**Clusters.** None inside a syllable. Two consonants meet only across a compound's seam.
 
-**Endings.** Every syllable ends on a vowel, _-n_ or _-ng_.
+**Endings.** Every syllable ends on a vowel, _-n_ or _-ng_, and most on a vowel.
 
-**What Tantsou leaves out.** It has no tone marks: tone is not written, and a mark on a Tantsou word does not mark stress.
+**One syllable, one root.** Every root is a single syllable and a single character of Teng Chou, and every syllable of a word is a root: a compound is its roots set side by side and nothing else, with no endings and no bound pieces. A root spells the same in every word it builds, so _hen_, the tiger, is _hen_ in _Tuihen_ and in _Daohen_.
+
+**Roots that sound alike.** Two or three roots may share a written form, never more, and each root that builds names has a form of its own. Roots that share a form share one entry in the lexicon, whose gloss gives each sense in turn.
+
+**What Tantsou leaves out.** _p_, _v_, _x_ and _q_; a _z_ standing alone; a syllable that opens on a vowel; a closing consonant other than _n_ and _ng_; the endings _-ang_ and a bare _-e_; and any mark on a letter. Tone is not written.
 
 ## Pronunciation Guide
 
@@ -1006,7 +1071,7 @@ The primary word-formation process is **compounding**: two or more single-syllab
 - _sing_ (death) + _wou_ (court) > _Sing Wou_ (Court of the Dead)
 - _tui_ (iron) + _ja_ (blade) > _Tuija_ (Iron Blade, a personal name)
 
-A compound that is a personal or place name, a god or a caste is written as a single word: _Tanzho_, _Wéizhuo_, _Raogui_. A descriptive title, an office or an institution keeps its words apart: _Teng Gui_ (Celestial Minister), _Lei Sei_ (Spirit Bureau).
+A compound that is a personal or place name, a god or a caste is written as a single word: _Tanzho_, _Weizhuo_, _Raogui_. A descriptive title, an office or an institution keeps its words apart: _Teng Gui_ (Celestial Minister), _Lei Sei_ (Spirit Bureau).
 
 ### Suffixes
 
@@ -1014,17 +1079,17 @@ A small number of words close compounds so often that they act as suffixes:
 
 | Suffix | Meaning               | Example                                                |
 | ------ | --------------------- | ------------------------------------------------------ |
-| -tsou  | tribe, group, people  | _Noutsou_ (slaves), _Ha Tsou_ > _Hatsou_ (shadow folk) |
+| -tsou  | tribe, group, people  | _Nuitsou_ (slaves), _Ha Tsou_ > _Hatsou_ (shadow folk) |
 | -wo    | sacred, divine        | _Meiwo_ (Dream Spirit), _Nuowo_ (Spirit of Decay)      |
 | -gui   | official, minister    | _Raogui_ (Thunder Lord), _Yaigui_ (Practitioner)       |
 | -gen   | master, teacher       | _Leigen_ (Spirit Master), _Chougen_ (Lore Master)      |
 | -zhuo  | lord, sovereign       | _Yozhuo_ (Demon Lord), _Wozhuo_ (War Lord)             |
-| -léi   | spirit                | _Nuoléi_ (Decay Spirit), _Faléi_ (Fortune Spirit)      |
+| -lei   | spirit                | _Nuolei_ (Decay Spirit), _Falei_ (Fortune Spirit)      |
 | -you   | month                 | _Hoyou_ (Fire Month), _Touyou_ (Earth Month)           |
 | -jui   | festival              | _Hou Lei Jui_ (Harmony Festival)                       |
 | -chai  | mountain, peak, place | _Jenchai_ (Nine Mountains), _Weichai_ (Jade Peak)      |
-| -wou   | court, palace, hall   | _Téngwou_ (Celestial Court), _Sing Wou_ (Death Court)  |
-| -séi   | bureau, ministry      | _Ho Sei_ (Fire Bureau), _Dou Sei_ (Journey Bureau)     |
+| -wou   | court, palace, hall   | _Tengwou_ (Celestial Court), _Sing Wou_ (Death Court)  |
+| -sei   | bureau, ministry      | _Ho Sei_ (Fire Bureau), _Dou Sei_ (Journey Bureau)     |
 
 ### Plurals
 
@@ -1032,7 +1097,7 @@ Tantsou does not mark plurality on nouns. Context says whether a word means one 
 
 ### Honorifics and Titles
 
-Titles follow the name: _Tanzho Wozhuo_ = Tanzho + "Sacred Lord" (a title). In formal address the word _dao_ (great, supreme) may be prefixed: _Daonéi_ (Great Sovereign), _Daoyai_ (Grand Physician).
+Titles follow the name: _Tanzho Wozhuo_ = Tanzho + "Sacred Lord" (a title). In formal address the word _dao_ (great, supreme) may be prefixed: _Daonei_ (Great Sovereign), _Daoyai_ (Grand Physician).
 
 ---
 
@@ -1044,8 +1109,8 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 | Tantsou           | Literal Meaning            | Usage                 |
 | ----------------- | -------------------------- | --------------------- |
-| Tengzhéi          | Heaven-Child               | Emperor               |
-| Rongléng Tengzhéi | Myriad-Bright Heaven-Child | Emperor of Jenchai    |
+| Tengzhei          | Heaven-Child               | Emperor               |
+| Rongleng Tengzhei | Myriad-Bright Heaven-Child | Emperor of Jenchai    |
 | Wozhuo            | Warrior-Lord               | Warlord               |
 | Daozhuo           | Great-Lord                 | Great Lord (Jenchai)  |
 | Shuizhuo          | Lesser-Lord                | Lesser Lord (Jenchai) |
@@ -1059,28 +1124,28 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Tantsou  | Literal Meaning   | Role                                                 |
 | -------- | ----------------- | ---------------------------------------------------- |
 | Zhazho   | Life-Dragon       | Imperial family—"Dragon-born"                        |
-| Nouduo   | Bound-Magic       | Chattel Sorcerers                                    |
+| Wanduo   | Reckoning-Magic   | Chattel Sorcerers                                    |
 | Wohou    | Warrior-Noble     | Warrior Nobility                                     |
-| Tanchéi  | Celestial-Scholar | Celestial Scholars                                   |
-| Tsaizhao | Craft-House       | Artisans and Craftsmen                               |
-| Nouwén   | Field-Centre      | Farmers and Peasants                                 |
+| Tanchei  | Celestial-Scholar | Celestial Scholars                                   |
+| Tsaihuo  | Craft-Hand        | Artisans and Craftsmen                               |
+| Nouwen   | Field-Centre      | Farmers and Peasants                                 |
 | Shuonong | Trade-Folk        | Merchants                                            |
-| Noutsou  | Bound-Tribe       | Slaves and Outcasts                                  |
+| Nuitsou  | Bound-Tribe       | Slaves and Outcasts                                  |
 | Wonong   | Warrior-Folk      | Common soldiers and enforcers within the craft caste |
 
 ### Religious Terms
 
 | Tantsou          | Literal Meaning                   | Usage                                        |
 | ---------------- | --------------------------------- | -------------------------------------------- |
-| Téngwou Rong Lei | Celestial Court of Myriad Spirits | The Celestial Order (pantheon name)          |
+| Tengwou Rong Lei | Celestial Court of Myriad Spirits | The Celestial Order (pantheon name)          |
 | Lei Sei          | Spirit Bureau                     | Spirit Bureaus (collective)                  |
 | Tengwo           | Heaven-Sacred                     | Mandate of Heaven                            |
 | Leiwo            | Spirit-Sacred                     | The philosophy of vital energy               |
 | Leigen           | Spirit-Master                     | Spirit priest/practitioner                   |
-| Leichéi          | Spirit-Scholar                    | A discipline of breath and vital energy      |
+| Leichei          | Spirit-Scholar                    | A discipline of breath and vital energy      |
 | Tseising         | Self-Death                        | Ritual suicide                               |
 | Ruising          | Ritual-Death                      | State-ordered ritual suicide                 |
-| Henléi           | Chaos-Spirit                      | The Unclassified; primordial chaos           |
+| Huenlei          | Chaos-Spirit                      | The Unclassified; primordial chaos           |
 | Dao Chou Lei     | Great Record-Spirit               | The Master Registry of all classified things |
 
 ### Medical Terms
@@ -1090,20 +1155,20 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Yaiwo    | Heal-Sacred     | Physician caste (collective) |
 | Yaitsai  | Heal-Craft      | Herbal Master / Apothecary   |
 | Zhayai   | Life-Heal       | Physician (general)          |
-| Chéishui | Scholar-Lesser  | Medical student              |
+| Cheishui | Scholar-Lesser  | Medical student              |
 | Yaigui   | Heal-Official   | Practitioner (experienced)   |
 | Daoyai   | Great-Heal      | Master Physician             |
 | Woyai    | Sacred-Heal     | Grand Healer (highest rank)  |
 
 ### The Celestial Pantheon
 
-| Tantsou | Epithet                                          | Domain                                |
-| ------- | ------------------------------------------------ | ------------------------------------- |
-| Tanzho  | Tanzho Wozhuo (Sacred Celestial Dragon Lord)     | Heaven, order, cosmic law             |
-| Wéizhuo | Wéizhuo Daonéi (Jade Sovereign)                  | Administration, celestial bureaucracy |
-| Raogui  | Raogui Wodao (Thunder of Divine Might)           | Thunder, storms, justice              |
-| Youwéi  | Youwéi Téngwou (Moon Jade of the Heavenly Court) | Moon, healing, dreams                 |
-| Yozhuo  | —                                                | Demon King, ruler of infernal realms  |
+| Tantsou | Epithet                                            | Domain                                |
+| ------- | -------------------------------------------------- | ------------------------------------- |
+| Tanzho  | Tanzho Wozhuo (Sacred Celestial Dragon Lord)       | Heaven, order, cosmic law             |
+| Weizhuo | Weizhuo Daonei (Jade Sovereign)                    | Administration, celestial bureaucracy |
+| Raogui  | Raogui Wodao (Thunder of Divine Might)             | Thunder, storms, justice              |
+| Youbui  | Youbui Tengyou (Moon-Silver of the Heavenly Court) | Moon, healing, dreams                 |
+| Yozhuo  | —                                                  | Demon King, ruler of infernal realms  |
 
 ### The Eleven Spirit Bureaus
 
@@ -1125,8 +1190,8 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 | Tantsou        | Element                         |
 | -------------- | ------------------------------- |
-| Wéngdao Zhouwo | Air—Azure Wind of Sacred Breath |
-| Rinho Daowéng  | Fire—Blazing Fire Great Wind    |
+| Wengdao Zhouwo | Air—Azure Wind of Sacred Breath |
+| Rinho Daoweng  | Fire—Blazing Fire Great Wind    |
 | Daotou Wochai  | Earth—Great Earth Sacred Stone  |
 | Wojing Ja      | Metal—Divine Gold Blade         |
 | Zhoushou Zho   | Water—Azure Water Dragon        |
@@ -1142,7 +1207,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | 5   | Touyou   | Earth Month           |
 | 6   | Jingyou  | Metal Month           |
 | 7   | Shouyou  | Water Month           |
-| 8   | Wéngyou  | Wind Month            |
+| 8   | Wengyou  | Wind Month            |
 | 9   | Youjui   | Moon Festival (Month) |
 | 10  | Chiaoyou | Winter Month          |
 | 11  | Zhenyou  | Snow Month            |
@@ -1157,12 +1222,12 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Zhizhai  | Star Bird        |
 | Kuowou   | Ancient Tortoise |
 | Jei      | Sacred Beast     |
-| Buichéi  | White Sage       |
+| Buichei  | White Sage       |
 | Lengzhai | Radiant Phoenix  |
 | Lengmai  | Dawn Horse       |
-| Buibéi   | White Ape        |
-| Chéisou  | Sage Serpent     |
-| Wozhén   | Righteous Boar   |
+| Buibei   | White Ape        |
+| Cheisou  | Sage Serpent     |
+| Wozhin   | Righteous Boar   |
 | Hazhai   | Shadow Bird      |
 | Jingzho  | Golden Dragon    |
 | Wazho    | Echo Dragon      |
@@ -1175,7 +1240,7 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 | Hou Lei Jui   | Festival of Harmonious Spirit |
 | Wuen Tsai Jui | Festival of Five Elements     |
 | You Jui       | Moon Festival                 |
-| Singléi Jui   | Festival of the Dead          |
+| Singlei Jui   | Festival of the Dead          |
 
 ### Organizations and Factions
 
@@ -1206,11 +1271,11 @@ Every word below is built from the roots in [[skill-tantsoulng#lexicon|the lexic
 
 ## Script & Literacy
 
-Tantsou employs a **logographic writing system** in which each character represents a morpheme. Characters are organized by semantic radicals and may be combined into compound characters mirroring the language's compounding grammar. Because a character stands for a meaning, the same character serves several words that differ only in tone. The system is extraordinarily rich but demands years of intensive study.
+Tantsou employs a **logographic writing system** in which each character represents a morpheme. Characters are organized by semantic radicals. One root is one syllable and one character, so a compound word is written as a row of characters, one to a syllable, and no character is ever two roots fused. Because a character stands for a meaning, roots that sound alike are written with different characters. The system is extraordinarily rich but demands years of intensive study.
 
 **Formal Script ([[skill-tengchouscript|Teng Chou]], "Celestial Record"):** The standard script used in imperial documents, religious texts, and classical literature. Characters are drawn with precise, angular strokes. Approximately 3,000-4,000 characters are required for general educated reading; scholars may master 6,000 or more.
 
-**Cursive Script ([[skill-tengchouscript|Dou Chou]], "Flowing Record"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
+**Cursive Script ([[skill-tengchouscript|Dou Chou]], "the Record of the Road"):** A more rapid, connected hand used for administrative and mercantile purposes. Simplified character forms reduce the stroke count while preserving legibility for trained scribes.
 
 **Literacy:** True literacy—the ability to read and compose continuous text—is confined to the nobility (30-50%), the priesthood, the imperial bureaucracy, and professional scribes. Formal education in classical characters requires 10-15 years of study. Even in major urban centers, most merchants and guildsmen possess only functional recognition of common characters—enough for trade marks, numerals, and familiar signs—and rely on scribes for contracts and correspondence. The vast majority of the population is non-literate.
 
@@ -1238,7 +1303,7 @@ Tantsou is a language isolate with no widely-accepted external relatives. Older 
 
 In Tantsou tradition, names are auspicious utterances invoking favorable qualities, celestial principles, or virtuous ancestors. The bestowing of a name is an occasion of considerable importance, often conducted by a learned scholar or priest who consults astrological and classical texts.
 
-Names follow a **family-name-first pattern**. The family name (_zhao_) precedes the given name, creating names of two to four compound elements. Given names are constructed from the vocabulary through compounding—a name like _Tuija_ ("Iron Blade") or _Léngluo_ ("Bright Lotus") is simultaneously a name and a meaningful phrase. A name is written as one word, and every syllable carries its tone.
+Names follow a **family-name-first pattern**. The family name (_zhao_) precedes the given name, creating names of two to four compound elements. Given names are constructed from the vocabulary through compounding—a name like _Tuija_ ("Iron Blade") or _Luoleng_ ("Lotus-Dawn") is simultaneously a name and a meaningful phrase. A name is written as one word, and every syllable carries its tone.
 
 **Male given names** often incorporate elements associated with strength, virtue, or celestial forces: _dao_ (great), _wuo_ (warrior), _zho_ (dragon), _jing_ (gold), _chei_ (scholar), _rao_ (thunder).
 
@@ -1248,9 +1313,9 @@ Names follow a **family-name-first pattern**. The family name (_zhao_) precedes 
 
 ### Example Names
 
-**Male:** Tanzho (Celestial Dragon), Tuija (Iron Blade), Wuodao (Great Warrior), Raléng (Thunder Dawn), Cheiwo (Sacred Scholar), Jingzhén (Golden Boar), Houwéng (Calm Wind), Daohen (Great Tiger), Lengzhi (Radiant Star), Mouwo (Sacred Wood)
+**Male:** Tanzho (Celestial Dragon), Tuija (Iron Blade), Wuodao (Great Warrior), Raoleng (Thunder Dawn), Cheiwo (Sacred Scholar), Jingzhin (Golden Boar), Houweng (Calm Wind), Daohen (Great Tiger), Hozho (Fire Dragon), Mouwo (Sacred Wood)
 
-**Female:** Léngluo (Bright Lotus), Youwéi (Moon Jade), Meizhi (Dream Star), Wéiluo (Jade Flower), Zhouléng (Azure Dawn), Buiyou (Silver Moon), Houluo (Peaceful Lotus), Rinyan (Red Cloud), Shouwéi (Water Jade), Lengméi (Radiant Dream)
+**Female:** Luoleng (Lotus-Dawn), Youzhen (Moon-Snow), Meizhi (Dream Star), Weiluo (Jade Flower), Zhouleng (Azure Dawn), Buiyou (Silver Moon), Houluo (Peaceful Lotus), Rinyan (Red Cloud), Wongwei (Sea Jade), Lengmei (Radiant Dream)
 
 **Family Names:** Tan (celestial), Wei (jade), Jing (gold), Shou (water), Ho (fire), Mou (wood), Lei (spirit), Chai (mountain), Zhi (star), Dou (path), Hou (harmony), Kuo (ancient)
 
@@ -1261,7 +1326,7 @@ Names follow a **family-name-first pattern**. The family name (_zhao_) precedes 
 [[affiliation-tantsouempr|Tantsou empire]]
 : Overview of the empire and its culture
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Order (pantheon)
 
 [[lore-phlsphyleiwo|Philosophy of Leiwo]]
@@ -1275,11 +1340,11 @@ Names follow a **family-name-first pattern**. The family name (_zhao_) precedes 
 
 ## Tantsou Lexicon {#lexicon}
 
-In local tradition, the Celestial Order of [[affiliation-tantsouempr|Tantsou]] calls itself the _Téngwou Rong Lei_, the celestial court of a myriad spirits, and every piece of that name is a word a farmer uses: _teng_ is the sky over his field, _wou_ the magistrate's hall, _rong_ the count past counting, _lei_ the breath in his chest. Tantsou builds its names by setting such words side by side, and the empire's castes, gods, bureaus, months and generals are all made this way. This page is the word-hoard of the tongue: the words, the rules a new word is built by, and the register of every name the setting gives in Tantsou, and in the Celestial Order.
+In local tradition, the Celestial Order of [[affiliation-tantsouempr|Tantsou]] calls itself the _Tengwou Rong Lei_, the celestial court of a myriad spirits, and every piece of that name is a word a farmer uses: _teng_ is the sky over his field, _wou_ the magistrate's hall, _rong_ the count past counting, _lei_ the breath in his chest. Tantsou builds its names by setting such words side by side, and the empire's castes, gods, bureaus, months and generals are all made this way. This page is the word-hoard of the tongue: the words, the rules a new word is built by, and the register of every name the setting gives in Tantsou, and in the Celestial Order.
 
-A Tantsou word is a single syllable, and a compound reads modifier first: _zha_ is life and _zho_ is the dragon, so _Zhazho_, life-dragon, is the dragon-born caste of the Emperor's family. A name or a caste is written as one word; a title, an office or an institution is written as separate words, as in _Teng Gui_, the celestial minister.
+A Tantsou root is a single syllable, and a compound reads modifier first: _zha_ is life and _zho_ is the dragon, so _Zhazho_, life-dragon, is the dragon-born caste of the Emperor's family. A name or a caste is written as one word; a title, an office or an institution is written as separate words, as in _Teng Gui_, the celestial minister.
 
-The sound of Tantsou is sung. Every syllable opens on a consonant, rests on an open vowel or a gliding pair of vowels, and may close on a soft _-n_ or _-ng_; no hard stop ends a word. Pitch carries meaning: each syllable has one of four tones, and two words that differ only in tone are different words, as _wen_, the centre, and _wuen_, five.
+The sound of Tantsou is sung. Every syllable opens on a consonant, rests on an open vowel or a gliding pair of vowels, and may close on a soft _-n_ or _-ng_; no hard stop ends a word. Pitch carries meaning: each syllable has one of four tones, and two roots that differ only in tone are different words, written with different characters.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -1300,10 +1365,10 @@ Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronounci
 
 ### Word edges
 
-A word opens on a single consonant and closes on a vowel or on _n_ or _ng_. A compound sets the close of one syllable against the opening of the next, so two consonants may meet inside a word.
+A syllable opens on one of the twenty consonants below, never on a vowel, and closes on a vowel or on _n_ or _ng_. _y_ never stands before a final that begins with _i_, and _gw_ never before one that begins with _u_. A compound sets the close of one syllable against the opening of the next, so two consonants may meet inside a word.
 
 ```sql
-SELECT CASE edge WHEN 'openCluster' THEN 'Pairs that may open a word' WHEN 'closeConsonant' THEN 'Consonants that close a word' WHEN 'closeCluster' THEN 'Pairs that may close a word' END AS "Edge", coalesce(nullif(array_to_string(list_transform(sounds, x -> '`' || x || '`'), ', '), ''), CASE edge WHEN 'openCluster' THEN '—' WHEN 'closeCluster' THEN '—' ELSE '—' END) AS "Sounds"
+SELECT CASE edge WHEN 'openConsonant' THEN 'Consonants that open a syllable' WHEN 'openCluster' THEN 'Pairs that may open a word' WHEN 'closeConsonant' THEN 'Consonants that close a word' WHEN 'closeCluster' THEN 'Pairs that may close a word' END AS "Edge", coalesce(nullif(array_to_string(list_transform(sounds, x -> '`' || x || '`'), ', '), ''), CASE edge WHEN 'openCluster' THEN '—' WHEN 'closeCluster' THEN '—' ELSE '—' END) AS "Sounds"
 FROM edges WHERE language = 'thalorna-note-skill-tantsoulng' ORDER BY position
 ```
 
@@ -1314,9 +1379,18 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-tantsoulng'
 ```
 
+### Finals
+
+A syllable rests on one of these eighteen finals, and on nothing else. An _i_ or a _u_ before another vowel glides into it, so _chuen_ and _chiao_ are each one syllable.
+
+```sql
+SELECT '_' || final || '_' AS "Final", "like" AS "Sounds like"
+FROM finals WHERE language = 'thalorna-note-skill-tantsoulng' ORDER BY position
+```
+
 ## Building words {#building-words}
 
-One move makes nearly every built word on this page: **two words set side by side, the modifier first.** _Ho_ is fire and _you_ is the month, so _Hoyou_ is the fire month. A handful of words close compounds so often that this note lists them as suffixes: _-tsou_ for a people or group, _-wo_ and _-léi_ for a spirit, _-gui_ for an official, _-gen_ for a master, _-zhuo_ for a lord, _-you_ for a month, _-jui_ for a festival, _-chai_ for a mountain or place, _-wou_ for a court and _-séi_ for a bureau. Each is the plain word, and each is set on its first word unchanged.
+One move makes nearly every built word on this page: **two words set side by side, the modifier first.** _Ho_ is fire and _you_ is the month, so _Hoyou_ is the fire month. A handful of words close compounds so often that this note lists them as suffixes: _-tsou_ for a people or group, _-wo_ and _-lei_ for a spirit, _-gui_ for an official, _-gen_ for a master, _-zhuo_ for a lord, _-you_ for a month, _-jui_ for a festival, _-chai_ for a mountain or place, _-wou_ for a court and _-sei_ for a bureau. Each is the plain word, and each is set on its first word unchanged.
 
 Nothing joins or alters the two words, each syllable keeps its own tone, and the tongue marks no plural: _rong_, ten thousand, set before a noun, gives the sense of countless.
 

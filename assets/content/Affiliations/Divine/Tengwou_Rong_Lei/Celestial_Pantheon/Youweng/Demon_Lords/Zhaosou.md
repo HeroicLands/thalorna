@@ -13,7 +13,7 @@ data:
   governance:
     model: oligarchy
     summary: >-
-      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youwéng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
+      A flat priesthood, not a career. There are forms, seals, censers and tribute here as surely as in any temple—but the forms are forged, the seals are cut rather than issued, and the censer is unlicensed. A person is lay, or they have been taught, or they can draft—and there is nothing else to be. The Youweng are not a temple religion and mostly have no temples; a censer in a back room is the whole of the establishment.
 
       They dislike being petitioned at all, and a petition they do take up is granted exactly as written rather than as intended: where a celestial bureau fails safe and loses a bad filing, these fail dangerous and honor it. What loyalty is owed is enforced without appeal—death ordinarily, and undeath where the knowledge is too valuable to lose.
     ranks:
@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youwéng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
       - level: 2
         title: Acolyte
         description: >-
@@ -58,11 +58,11 @@ sohl: {system: {commonSkills: []}}
 
 ## Zhaosou—The Unsorted
 
-In the Zhaosou cultus, [[lore-zhaosoudty|Zhaosou]] is the paradox the [[lore-tanchei|Tanchéi]] cannot resolve: an entity that possesses coherent identity and will—the hallmarks of a classified being—yet defies every category the celestial administration has attempted to assign it. It is not fire or water, not living or dead, not spirit or flesh. Every bureau that has claimed jurisdiction over Zhaosou has found its classification systems failing. It registers simultaneously as a natural phenomenon, an ancestor spirit, a lesser demon, and a geographic feature. Filing it under one category causes the other categories to reject their own contents.
+In the Zhaosou cultus, [[lore-zhaosoudty|Zhaosou]] is the paradox the [[lore-tanchei|Tanchei]] cannot resolve: an entity that possesses coherent identity and will—the hallmarks of a classified being—yet defies every category the celestial administration has attempted to assign it. It is not fire or water, not living or dead, not spirit or flesh. Every bureau that has claimed jurisdiction over Zhaosou has found its classification systems failing. It registers simultaneously as a natural phenomenon, an ancestor spirit, a lesser demon, and a geographic feature. Filing it under one category causes the other categories to reject their own contents.
 
-The Tanchéi believe Zhaosou emerged during [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting itself—a thing that was in the process of being classified when the sorting moved on, leaving it permanently between states. It is, in bureaucratic terms, an open case that was never closed: a petition filed with every bureau and accepted by none.
+The Tanchei believe Zhaosou emerged during [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting itself—a thing that was in the process of being classified when the sorting moved on, leaving it permanently between states. It is, in bureaucratic terms, an open case that was never closed: a petition filed with every bureau and accepted by none.
 
-Zhaosou does not destroy. It _confuses_. Regions where its influence is believed to be felt experience categorical breakdown: crops grow in wrong seasons, rivers change direction, social hierarchies invert without apparent cause. [Téngwou Dao]{.name data-type="affiliation/governmental"} (the Bureau of Order) considers Zhaosou the single greatest administrative embarrassment in the celestial system—proof that the Great Sorting was not, in fact, perfect. This is an opinion they do not share publicly.
+Zhaosou does not destroy. It _confuses_. Regions where its influence is believed to be felt experience categorical breakdown: crops grow in wrong seasons, rivers change direction, social hierarchies invert without apparent cause. [Tengwou Dao]{.name data-type="affiliation/governmental"} (the Bureau of Order) considers Zhaosou the single greatest administrative embarrassment in the celestial system—proof that the Great Sorting was not, in fact, perfect. This is an opinion they do not share publicly.
 
 ### Mortal Cultus: The Nuotsou Rui
 
@@ -73,12 +73,12 @@ Zhaosou is the celestial patron of those whom the [[affiliation-nuotsourui|Nuots
 [[affiliation-nuotsourui|Nuotsou Rui]]
 : The cult whose recruits take Zhaosou as their patron
 
-[[affiliation-youweng|Youwéng]]
+[[affiliation-youweng|Youweng]]
 : The Demon Realm
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : The Celestial Bureaucracy that cannot classify Zhaosou
 
 ## Outside the Ladder
 
-A person [[affiliation-wantou|Wántou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.
+A person [[affiliation-wantou|Wantou]]'s Bureau of All Records has noticed has a file opened and the forgery known, and the cult is finished with them. Where an orthodox clerk fears being struck from the rolls, here the catastrophe is being entered on them.

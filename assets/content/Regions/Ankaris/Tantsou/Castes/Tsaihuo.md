@@ -45,20 +45,20 @@ When a shopkeeper in a Tantsou town is robbed, it is a Wonong he goes to, and th
 
 ## The Yaiwo
 
-The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaihuo by caste, and the respect they command runs far past it: a Warlord rises when a Grand Healer enters his hall, and a Tanchéi scholar takes her advice without argument. The Tantsou say that illness does not ask a patient's caste, and neither does the healer.
+The Yaiwo (healers) are the empire's apothecaries and physicians. They are Tsaihuo by caste, and the respect they command runs far past it: a Warlord rises when a Grand Healer enters his hall, and a Tanchei scholar takes her advice without argument. The Tantsou say that illness does not ask a patient's caste, and neither does the healer.
 
 **What a healer believes.** The Yaiwo teach that the body is a small copy of the [Great Sorting]{.name data-type="lore/cosmology"}. Health is a body whose elements, organs and flows of [Lei]{.name data-type="lore/cosmology"} are each in their proper place, and illness is a breach of that classification: something displaced from where it belongs. Body, mind and spirit are three sortings of one person, and treating one alone leaves the work half done. A healer's [Mandate of Health]{.name data-type="lore/theology"} mirrors the Emperor's [[lore-mandatehvn|Mandate of Heaven]], each the keeping of order in its own domain, and the healer is taught that living in good order prevents more sickness than any remedy cures. [[lore-medicine|Medicine]] sets out the practice in full.
 
 **The ranks.** A healer rises through four:
 
-1. _Chéizhui_ (apprentice), learning the foundations at a master's side.
+1. _Cheizhui_ (apprentice), learning the foundations at a master's side.
 2. _Yaigui_ (practitioner), licensed to treat and to dispense remedies.
 3. _Daoyai_ (renowned healer), a master of proven skill.
 4. _Woyai_ (grand healer), whose knowledge of the body is held to be nearly complete, and whose counsel is sought by the Zhazho.
 
 **The two branches.** The _Yaitsai_ (herb-masters) are the apothecaries, who compound remedies from roots, leaves, minerals and animal parts. The _Zhayai_ (life-givers) are the physicians, who dress wounds, set bones, cut and stitch, and sit with the patient.
 
-**Where medicine ends.** Some illness comes from the spirit side—an ancestor who has withdrawn his advocacy, a debit on the moral ledger falling due as sickness, or the touch of the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos. A Yaiwo who suspects one of these calls in a [[lore-tanchei|Tanchéi]] scholar, or in a village a Leigen, and the two treat the patient together.
+**Where medicine ends.** Some illness comes from the spirit side—an ancestor who has withdrawn his advocacy, a debit on the moral ledger falling due as sickness, or the touch of the [Huenlei]{.name data-type="lore/cosmology"}, the unsorted chaos. A Yaiwo who suspects one of these calls in a [[lore-tanchei|Tanchei]] scholar, or in a village a Leigen, and the two treat the patient together.
 
 **Public health.** The Yaiwo are responsible for the empire's sanitation, its quarantines and its response to epidemics, and they teach the common people how to keep a clean well and a clean kitchen. A province swept by plague is held to be a province whose classification is failing, and the healers who contain it are doing the empire's spiritual work as much as its medical work.
 
@@ -77,10 +77,10 @@ Most [[lore-flksinale|Sinale Folk]] and [[lore-flkkhazar|Khazár Folk]] who live
 [[lore-wohou|Wohou]]
 : the warrior nobility who command the Wonong
 
-[[lore-tanchei|Tanchéi]]
+[[lore-tanchei|Tanchei]]
 : celestial scholars, the caste above, who treat the spirit-sick with the Yaiwo
 
-[[lore-nouwen|Nouwén]]
+[[lore-nouwen|Nouwen]]
 : peasant farmers, the caste below
 
 [[lore-shuonong|Shuonong]]

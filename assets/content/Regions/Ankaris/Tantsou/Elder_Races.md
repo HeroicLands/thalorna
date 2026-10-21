@@ -15,7 +15,7 @@ The empire's dated record of dynasties opens around **2500 BF**, and the [[lore-
 
 Tantsou chroniclers draw a conclusion from this that the Elder peoples reject and refuse to argue over. Every great work of the Sinale and the Khazari, the chroniclers point out, was made before the Mandate and none after it: their songs of their own best age are laments, their finest halls stand closed, and neither people has raised anything in the empire's memory to match what its own accounts describe. The chroniclers read this as a transfer of office. The mortal plane needed an administrator; one was appointed; and the age in which the Elder peoples held the world in trust closed, as a jurisdiction closes when the bureau that succeeds it is staffed. The boldest of them say the Mandate is what allowed the Elder age to end at all.
 
-Nothing in the empire's keeping supports this. The imperial archive goes back to 2500 BF and no further, and it says nothing about the Elder peoples before that date. The Sinale will not discuss when their great age ended, and the Khazari will not discuss anything. It is exactly the claim an imperial chronicler would want to make, it cannot be tested against one document the empire holds, and the Tanchéi who share a caste with Sinalean and Khazárian scholars take care not to raise it in their hearing.
+Nothing in the empire's keeping supports this. The imperial archive goes back to 2500 BF and no further, and it says nothing about the Elder peoples before that date. The Sinale will not discuss when their great age ended, and the Khazari will not discuss anything. It is exactly the claim an imperial chronicler would want to make, it cannot be tested against one document the empire holds, and the Tanchei who share a caste with Sinalean and Khazárian scholars take care not to raise it in their hearing.
 
 ## Where the Elder Peoples Are Placed
 
@@ -23,13 +23,13 @@ The empire places the Elder peoples by function. The placement is binding in law
 
 [[lore-tsaihuo|Tsaihuo]], most of them. Most Sinale and Khazari in the empire are classified Tsaihuo, the artisan caste. Sinalean woodwork, weaving and jewelry and Khazárian smithing and stonework command prices no human workshop can, and the best Elder craftsmen are richer and better respected than their caste would suggest.
 
-[[lore-tanchei|Tanchéi]], the scholars. Sinalean sages of ancient lore, the stars and the natural world are often classified Tanchéi and advise the human elite. Their counsel is valued and mistrusted in equal measure, since every scholar at court knows that a Sinalo's opinion rests on more centuries of watching than any human library holds. Khazárian masters of engineering, mining and metallurgy are classified Tanchéi when they design the empire's fortresses and mines; a Khazari-laid mine follows the rock and needs no timber. Their practical skill is prized, and their deeper knowledge of stone and ore is regarded with awe and unease.
+[[lore-tanchei|Tanchei]], the scholars. Sinalean sages of ancient lore, the stars and the natural world are often classified Tanchei and advise the human elite. Their counsel is valued and mistrusted in equal measure, since every scholar at court knows that a Sinalo's opinion rests on more centuries of watching than any human library holds. Khazárian masters of engineering, mining and metallurgy are classified Tanchei when they design the empire's fortresses and mines; a Khazari-laid mine follows the rock and needs no timber. Their practical skill is prized, and their deeper knowledge of stone and ore is regarded with awe and unease.
 
 [[lore-wohou|Wohou]], the officers. Khazari of proven courage or generalship are given Wohou rank and usually hold the empire's mountain borders, where their stubbornness under attack is famous. Sinalean archers and scouts who serve as officers are given the rank too, and are prized for skirmishing and scouting, though their reluctance to commit to a human war before they must is a standing source of friction with their commanders.
 
 [[lore-zhazho|Zhazho]], rarely. Only the lords of the Elder peoples, or those bound to a ruling house by a great alliance, are classified Zhazho. They manage their people's dealings with the throne, and they know how little their rank would weigh if the court turned against them.
 
-**Never [[lore-wanduo|Wánduo]].** No Elder is classified Wánduo, because Elder magic is part of their nature and does not work through the sorcerer's petition.
+**Never [[lore-wanduo|Wanduo]].** No Elder is classified Wanduo, because Elder magic is part of their nature and does not work through the sorcerer's petition.
 
 ## The Enclaves
 
@@ -47,7 +47,7 @@ The Elder peoples are inside the caste system and remain distinct from it, and t
 
 **The Elder view.** The Sinale and Khazari deal carefully with humans, knowing they live in an empire that could turn on them if it felt threatened. They keep to themselves and take part in the empire's affairs only as far as they must.
 
-**Magic.** The Elder peoples keep their magic within their own lands, under an agreement that has never been written down, and the empire watches that it stays there. The Wánduo are always on guard for Sinalean or Khazárian influence, because Elder magic is the one power in the empire their monopoly cannot reach.
+**Magic.** The Elder peoples keep their magic within their own lands, under an agreement that has never been written down, and the empire watches that it stays there. The Wanduo are always on guard for Sinalean or Khazárian influence, because Elder magic is the one power in the empire their monopoly cannot reach.
 
 ## In War
 

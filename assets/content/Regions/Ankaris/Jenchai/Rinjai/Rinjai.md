@@ -19,7 +19,7 @@ Rinjai (Red Peak) is the ninth of the Nine Mountains and the only one off the gr
 
 The mountain rises steeply from the sea, and its coast is cut with coves that shelter a ship from the strait's storms. The raiders' harbor of [Jawo]{.name data-type="place/settlement"} lies in the deepest of them. Small terraces of rice at [Hennu]{.name data-type="place/settlement"} climb the sheltered slope, and the road over the mountain, which the Shuizhuo of [Sudu]{.name data-type="place/settlement"} keeps, runs in switchbacks from the harbors on one side of the island to those on the other. The castle town of [[place-rinwu|Rinwu]] stands above the main harbor.
 
-The summit shrine is kept by the domain's Tanchéi, who hold the mountain record. The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is held there when the harvest is in.
+The summit shrine is kept by the domain's Tanchei, who hold the mountain record. The [Festival of the Mountain]{.name data-type="lore/gathering"} (_Chai Jui_) is held there when the harvest is in.
 
 ## See Also
 

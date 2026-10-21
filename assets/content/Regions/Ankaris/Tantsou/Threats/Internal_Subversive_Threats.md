@@ -11,13 +11,13 @@ The [[affiliation-tantsouempr|Empire of Tantsou]] keeps a register of every pers
 
 ## The Sorcerers' Guild
 
-The [[affiliation-ordoarcanis|Thordimalon]], called in Tantsou the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Arcane Order the [[lore-wanduo|Wánduo]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Arcane Order keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Wánduo, stir them to resist and gather what they know.
+The [[affiliation-ordoarcanis|Thordimalon]], called in Tantsou the Sorcerers' Guild, is a guild of mages from beyond the borders, and it holds that no sorcerer should be owned. To the Arcane Order the [[lore-wanduo|Wanduo]] are prisoners; to the empire they are property, and the empire's control of magic rests on them. The Arcane Order keeps an embassy in the imperial capital under treaty, and from it runs a quiet operation to reach the Wanduo, stir them to resist and gather what they know.
 
 ## Ha Zhao, the Shadow Sect
 
-[[affiliation-hazhao|Ha Zhao]] is a network of Wánduo who have escaped their owners and gone to ground in the empire's cities. Its members sell forbidden magic to anyone who can pay, and they work toward something no one else in the empire would say aloud: magic freed from the classification altogether, and an order in which a sorcerer belongs to himself.
+[[affiliation-hazhao|Ha Zhao]] is a network of Wanduo who have escaped their owners and gone to ground in the empire's cities. Its members sell forbidden magic to anyone who can pay, and they work toward something no one else in the empire would say aloud: magic freed from the classification altogether, and an order in which a sorcerer belongs to himself.
 
-The Sect's most dangerous tie is to the Arcane Order embassy. The Arcane Order supplies money, safe houses and the means to smuggle a hunted sorcerer out over the [[doc-extrnlthrts|western passes]]; the Sect supplies information and measured access to Wánduo practice the Arcane Order could get no other way. Both sides deal through intermediaries and keep their exchanges compartmented, because exposure would destroy them both, and each holds enough on the other to make blackmail a standing option.
+The Sect's most dangerous tie is to the Arcane Order embassy. The Arcane Order supplies money, safe houses and the means to smuggle a hunted sorcerer out over the [[doc-extrnlthrts|western passes]]; the Sect supplies information and measured access to Wanduo practice the Arcane Order could get no other way. Both sides deal through intermediaries and keep their exchanges compartmented, because exposure would destroy them both, and each holds enough on the other to make blackmail a standing option.
 
 ## The Merchants' Rising
 
@@ -27,7 +27,7 @@ The [[lore-shuonong|Shuonong]] are rich, taxed hardest of any caste and barred o
 
 [[affiliation-nuotsourui|Nuotsou Rui]] grew among the lower castes, and it preaches that the order of the world is rotten past repair and must be destroyed. Unlike the Shadow Sect or the merchants, it wants nothing in its place.
 
-The cult worships the **Demon Lords** of the [[affiliation-youweng|Youwéng]], the powers inside the [[affiliation-tengwouronglei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[lore-nuohodty|Nuoho]] the Unmaker, [[lore-watsaidty|Watsai]] the Forger of False Records, [[lore-zhaosoudty|Zhaosou]] the Walking Contradiction and [[lore-henzhuodty|Hénzhuo]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
+The cult worships the **Demon Lords** of the [[affiliation-youweng|Youweng]], the powers inside the [[affiliation-tengwouronglei|Celestial Order]] whose whole nature is to refuse, corrupt or unmake the celestial bureaucracy. Chief among them are [[lore-nuohodty|Nuoho]] the Unmaker, [[lore-watsaidty|Watsai]] the Forger of False Records, [[lore-zhaosoudty|Zhaosou]] the Walking Contradiction and [[lore-henzhuodty|Huenzhuo]] the First Refusal. Because they already stand in the empire's own cosmology, a convert keeps everything he was taught and turns its values over: the cult holds that the Demon Lords are the truth of the bureaucracy, not a sickness in it.
 
 The cult claims Nuoho taught it to raise the [[lore-undead|undead]], and it looses them in crowded districts to cause the greatest disorder it can, among the living and in the registers alike. It has nothing to do with the [[affiliation-vrnkpnthn|Varnuka Pantheon]], whose cycle of destruction and renewal it despises, since the cult wants destruction that never ends.
 
@@ -44,7 +44,7 @@ The Black Lotus Society is the empire's great criminal syndicate. Its existence 
 
 ## The Famine in the South
 
-The southern rice harvests have failed several years running. Crops have withered, smaller rivers have dried in their beds, and the villages are starving. The [[lore-tanchei|Tanchéi]] are divided over the cause: one school reads a breakdown of classification in the domains of Earth and Water, and the other a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, a reading no scholar puts in writing. As hunger spreads, so does unrest, and in some districts the [[lore-nouwen|Nouwén]] have risen against their lords and the magistrates who collect the tribute.
+The southern rice harvests have failed several years running. Crops have withered, smaller rivers have dried in their beds, and the villages are starving. The [[lore-tanchei|Tanchei]] are divided over the cause: one school reads a breakdown of classification in the domains of Earth and Water, and the other a sign that the [[lore-mandatehvn|Mandate of Heaven]] is weakening, a reading no scholar puts in writing. As hunger spreads, so does unrest, and in some districts the [[lore-nouwen|Nouwen]] have risen against their lords and the magistrates who collect the tribute.
 
 ## See Also
 

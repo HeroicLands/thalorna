@@ -67,7 +67,7 @@ The roll's 38,000 bales come from the three villages named here and from smaller
 | Buimu   | White Wood      | Demesne      | The lord's granary at Buiwu             | Timber and charcoal  |      600 |
 | Maidu   | Horse Road      | Fief         | The Maiju                               | Horse pastures       |      700 |
 
-The summit shrine of Zenjai is provisioned from the lord's villages, and its Tanchéi read the mountain for a lord whose year is decided by the snow.
+The summit shrine of Zenjai is provisioned from the lord's villages, and its Tanchei read the mountain for a lord whose year is decided by the snow.
 
 ## Retainers
 

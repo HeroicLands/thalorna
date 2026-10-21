@@ -4,7 +4,7 @@ name: {full: Wogen Henzhuo, aliases: [Master Tiger of the Steppes]}
 type: being
 subType: npc
 description: >-
-  Warlord risen out of the Hénhatou, the Black Wilds north of the Empire of Tantsou—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
+  Warlord risen out of the Huenhatou, the Black Wilds north of the Empire of Tantsou—a master strategist whose steppe confederation has become the gravest external threat the imperial frontier has faced in a generation.
 tags: [draft]
 data:
   icon: icon-person
@@ -35,11 +35,11 @@ A broad, unhurried man in a felt coat sewn with iron plates sits his horse a lit
 
 # Dossier {#dossier}
 
-Wogen Henzhuo, called the Master Tiger of the Steppes, is the warlord of the [Hénhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches toward the [[place-grkrhlmrgn|Grukarholm Region]]. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
+Wogen Henzhuo, called the Master Tiger of the Steppes, is the warlord of the [Huenhatou]{.name data-type="place/region"}, the Black Wilds: the steppe and broken hill-country that lies north of the [[affiliation-tantsouempr|Empire of Tantsou]] beyond the marches toward the [[place-grkrhlmrgn|Grukarholm Region]]. He has done what no one in living memory managed and united its feuding tribes under one banner, and his riders are raiding the empire's northern provinces. He is a strategist before he is a warrior, and the frontier commanders have learned that the campaigns he loses are the ones he meant to lose.
 
 ## Background
 
-**The divided steppe.** For generations the tribes of the Hénhatou fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. Wogen began as the war-leader of a minor tribe. He bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. To the tribes he presented himself as their strength gathered in one hand, and he promised them the riches of the south.
+**The divided steppe.** For generations the tribes of the Huenhatou fought one another over grazing, wells and blood debts, and the empire's border garrisons kept them divided with gifts to one chief and raids against another. Wogen began as the war-leader of a minor tribe. He bound the others to him one at a time: by marriage where a chief had a daughter, by treaty where a chief had sense, and by slaughter where he had neither. To the tribes he presented himself as their strength gathered in one hand, and he promised them the riches of the south.
 
 **The open door.** He chose his moment. Infighting among the [[lore-wohou|Wohou]] lords of the north thinned the frontier garrisons, and the court was too busy with its own intrigues to notice the steppe uniting. By the time a Warlord's report reached the capital, the border was porous and the tribes answered to one man.
 
@@ -72,7 +72,7 @@ The northern Warlords
 
 ### Affiliations
 
-The [Hénhatou confederation]{.name data-type="affiliation/polity"}
+The [Huenhatou confederation]{.name data-type="affiliation/polity"}
 : the tribes of the Black Wilds, sworn to him as their single war-leader.
 
 ## Plot Hooks

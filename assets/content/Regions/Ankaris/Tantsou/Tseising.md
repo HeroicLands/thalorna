@@ -7,11 +7,11 @@ description: "The law of Tantsou—the Heavenly Law, its courts and punishments,
 data: {packFolder: tantsou, culture: tantsouclt}
 ---
 
-A district magistrate of [[affiliation-tantsouempr|Tantsou]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the [Henléi]{.name data-type="lore/cosmology"}, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Tseising_, the ritual by which a Tantsou of rank answers a dishonor that no court can undo.
+A district magistrate of [[affiliation-tantsouempr|Tantsou]] explains his court to a newly classified foreigner in two sentences. A crime here is a thing moved out of the place heaven sorted it into, he says, and my work is to put it back, or to take it off the register altogether. Law in the empire is the enforcement of the classification: the same order that sorts the elements, assigns the gods to their bureaus and holds the line against the [Huenlei]{.name data-type="lore/cosmology"}, the unsorted chaos, applied to people. Its gravest sentence is death, and beside it stands a death no court orders: _Tseising_, the ritual by which a Tantsou of rank answers a dishonor that no court can undo.
 
 ## Tseising
 
-_Tseising_ ("self-death") is the ritual suicide of the warrior and noble castes. Most often it is atonement: a person who has failed or been disgraced makes a final, decisive entry on his [[lore-celestlrdr|moral ledger]] that clears the debit for himself and his house. The Tanchéi describe it as a self-made reclassification, by which a person removes himself from the sorted order on his own terms before the celestial administration can process his disgrace.
+_Tseising_ ("self-death") is the ritual suicide of the warrior and noble castes. Most often it is atonement: a person who has failed or been disgraced makes a final, decisive entry on his [[lore-celestlrdr|moral ledger]] that clears the debit for himself and his house. The Tanchei describe it as a self-made reclassification, by which a person removes himself from the sorted order on his own terms before the celestial administration can process his disgrace.
 
 It can also be a protest. A Wohou or a noble may take his life to show his superiors his anger at an order or an injustice, in a form nobody can answer or reverse. A death of that kind is held to lay a great and permanent debit on the ledger of the person who provoked it, and his whole family inherits it: a Warlord whose injustice drives an officer to Tseising carries the entry for the rest of his life and into the next.
 
@@ -31,15 +31,15 @@ The code of the empire is the [Teng Lou]{.name data-type="lore/law"} (Heavenly L
 
 ## The Courts
 
-**The Emperor** (_Tengzhéi_). His rulings carry the weight of the classification itself, and to defy one is to defy the cosmic order. He seldom hears a case. Any case can be carried up to the imperial court, and his judgment there is final in this world and the next.
+**The Emperor** (_Tengzhei_). His rulings carry the weight of the classification itself, and to defy one is to defy the cosmic order. He seldom hears a case. Any case can be carried up to the imperial court, and his judgment there is final in this world and the next.
 
 **The Warlords** (_Wozhuo_). They are the judges, lawmakers and enforcers of their provinces, reading the Teng Lou to fit their lands and holding court through their magistrates. Their authority rests on their armies and on heaven together: a Warlord's judgment makes entries on the ledger of everyone it touches, and a just one credits his own. A Warlord's honor and integrity are his credentials, and an accusation of corruption against one is read as a sign that the classification is failing in his province.
 
-The [[lore-tanchei|Tanchéi]] (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Warlords consult them on what a judgment will cost in heaven.
+The [[lore-tanchei|Tanchei]] (celestial scholars). They advise on the cases where heaven and law meet: disputes over caste lines, questions of which bureau has jurisdiction, cases where an omen or an ancestor's command runs against the law of men. Their reading of a question of classification is authoritative, and Warlords consult them on what a judgment will cost in heaven.
 
 **The magistrates** (_Guichai_). Appointed by the Warlords, they hear the cases of towns and villages, settle disputes and order punishments, according to the Teng Lou, local custom and the castes of the people before them. A crime across caste lines is always graver than one within a caste, because it breaches the hierarchy as well as the law.
 
-**The clan elders** (_Zhaokuo_). Among the [[lore-nouwen|Nouwén]], the elders of a clan settle disputes among its own members by clan custom. Their rulings mix the Teng Lou with the commands of the ancestors, received through the village [[lore-ancstrwrshp|Leigen]].
+**The clan elders** (_Zhaokuo_). Among the [[lore-nouwen|Nouwen]], the elders of a clan settle disputes among its own members by clan custom. Their rulings mix the Teng Lou with the commands of the ancestors, received through the village [[lore-ancstrwrshp|Leigen]].
 
 When a shopkeeper in a river town finds his shutters forced in the morning, he goes first to the Wonong who walks his street, and most such matters end there, with a thief found and goods returned. If they do not, the Wonong takes the matter to the magistrate, and only a crime across caste lines, or one that touches the rites, climbs higher.
 
@@ -47,7 +47,7 @@ When a shopkeeper in a river town finds his shutters forced in the morning, he g
 
 The Teng Lou is arranged by the kind of breach a crime commits, not by subject.
 
-**The laws of the cosmic order** govern the upkeep of the classification itself: the rites, the temples, and the duties of the [[lore-wanduo|Wánduo]], the Tanchéi and the Leigen. Neglecting a required rite, defacing a temple or interfering with the burning of spirit documents weakens the boundary with the Henléi, and the penalty runs from exile to death by the damage done.
+**The laws of the cosmic order** govern the upkeep of the classification itself: the rites, the temples, and the duties of the [[lore-wanduo|Wanduo]], the Tanchei and the Leigen. Neglecting a required rite, defacing a temple or interfering with the burning of spirit documents weakens the boundary with the Huenlei, and the penalty runs from exile to death by the damage done.
 
 **The caste laws** keep each caste in its place. Claiming a higher caste's privileges, doing another caste's work or crossing a caste line without leave is a direct challenge to the cosmic order, and the penalties are harsh and rise with the breach. [[lore-castelaws|Caste Laws]] gives them in full.
 
@@ -63,25 +63,25 @@ A punishment in Tantsou puts the offender back in his proper place, or takes him
 
 **The lash and the brand.** Flogging, caning and branding are common for lesser crimes, above all among the lower castes. They mark the body of a person who stepped outside his category. A brand is permanent, and the person who carries one is known for the rest of his life as someone whose sorting had to be corrected.
 
-**Fines and restitution.** Fines fall mostly on the Shuonong and the Nouwén for minor offenses. Restitution pays the victim's household for the damage to its ledger, and an offender who cannot pay may be set to work off the debt, entered in a lower working category until the account is clear.
+**Fines and restitution.** Fines fall mostly on the Shuonong and the Nouwen for minor offenses. Restitution pays the victim's household for the damage to its ledger, and an offender who cannot pay may be set to work off the debt, entered in a lower working category until the account is clear.
 
 **Prison.** Imprisonment is rare and is meant to hold, not to reform: it suspends a person from the register while his case is decided. The prisons are harsh, and a long term is feared more than death, because a prisoner earns no credit on his ledger while the celestial administration goes on keeping its accounts, and he falls further behind every season.
 
 **Exile.** The exile loses his household, his shrine, his caste and his ledger standing. He becomes unsorted, with no bureau to hear his petitions and no ancestors to argue for him, and many exiles are held to die of that isolation sooner than of hunger.
 
-**Execution.** Death is the usual penalty for a grave crime. It removes the person from the mortal register, and it is carried out with exact ritual, by beheading, hanging or burning according to caste and crime, so that the soul is sent to the Ministry of Final Account for judgment and not let loose into the Henléi.
+**Execution.** Death is the usual penalty for a grave crime. It removes the person from the mortal register, and it is carried out with exact ritual, by beheading, hanging or burning according to caste and crime, so that the soul is sent to the Ministry of Final Account for judgment and not let loose into the Huenlei.
 
 [Ruising]{.name data-type="lore/custom"}. A Wohou or a noble condemned to die may be ordered to take his own life instead. _Ruising_, the ordered suicide, follows the forms of Tseising under a magistrate's eye, and the family is spared the shame of a public execution. It is a sentence, not a choice, and the ledger records it as one.
 
-**Public humiliation.** A higher-caste offender whose crime shames his caste may be paraded through the streets, made to wear a lower caste's clothing or set to the Noutsou's work for a time, a public demotion below his own category. Recovering his standing afterward takes acts of atonement large enough to show on the ledger.
+**Public humiliation.** A higher-caste offender whose crime shames his caste may be paraded through the streets, made to wear a lower caste's clothing or set to the Nuitsou's work for a time, a public demotion below his own category. Recovering his standing afterward takes acts of atonement large enough to show on the ledger.
 
-**Cleansing.** For desecration, unlicensed sorcery short of the death penalty and other breaches of sacred boundaries, the offender may be made to undergo long purification rites under a Tanchéi or a Leigen, to set his own Lei back in order and repair what he broke. A rite left incomplete is answered with exile or death.
+**Cleansing.** For desecration, unlicensed sorcery short of the death penalty and other breaches of sacred boundaries, the offender may be made to undergo long purification rites under a Tanchei or a Leigen, to set his own Lei back in order and repair what he broke. A rite left incomplete is answered with exile or death.
 
 ## Honor
 
 Honor in Tantsou is a standing on the ledger. Honorable conduct makes credits, dishonorable conduct makes debits, and both fall on the household, the clan and the ancestors as well as the person. Among the Warlords and the Wohou, quarrels of honor are settled by duel or ritual combat. To accuse someone of dishonor in public is itself an offense, because the accusation opens a debit on the accused's ledger that stands until the matter is settled, and an open accusation weakens everyone connected to it until it is closed.
 
-The harshness of the law follows from what the Tantsou believe is at stake. Every breach left uncorrected is a crack in the wall between the sorted world and the Henléi, and the magistrate's work is to keep that wall standing.
+The harshness of the law follows from what the Tantsou believe is at stake. Every breach left uncorrected is a crack in the wall between the sorted world and the Huenlei, and the magistrate's work is to keep that wall standing.
 
 ## See Also
 

@@ -19,7 +19,7 @@ Kowu (Old Hall) is the castle town and seat of [Muwojai Chaiwo]{.name data-type=
 
 The castle holds the **granary**, where the lord's four parts in ten are delivered from the demesne at [Zuju]{.name data-type="place/settlement"} and the rice of the domain, and the hall. The Tsaihuo soldiers are raised from the town's streets and posted to the passes, and the barracks of the road garrisons fill the lower town.
 
-The town lives on the road. Carters, ferrymen, innkeepers and the clerks of the toll-keepers serve the envoys and petitioners bound for [[place-lengwou|Léngwou]], and the lacquerers and joiners of [Tsaimu]{.name data-type="place/settlement"} sell their work at the town's market, where Shuonong merchants buy the timber and lacquer.
+The town lives on the road. Carters, ferrymen, innkeepers and the clerks of the toll-keepers serve the envoys and petitioners bound for [[place-lengwou|Lengwou]], and the lacquerers and joiners of [Tsaimu]{.name data-type="place/settlement"} sell their work at the town's market, where Shuonong merchants buy the timber and lacquer.
 
 Every house keeps an envoy in the town, since a message for the Emperor passes through Kowu first.
 

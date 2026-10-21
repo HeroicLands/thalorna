@@ -67,7 +67,7 @@ Of the 52,000 bales on the roll, the three villages below are named; the rest co
 | Ronu    | Flower Terraces | Court estate | The Emperor, through the lord's granary | Rice, mulberry and silk         |    1,700 |
 | Shodu   | Trade Road      | Fief         | The Woju                                | The pack road inland            |    1,200 |
 
-The summit shrine of Yujai is provisioned from the lord's villages, and its Tanchéi read the mountain for a lord whose standing rests on trade as much as on rice.
+The summit shrine of Yujai is provisioned from the lord's villages, and its Tanchei read the mountain for a lord whose standing rests on trade as much as on rice.
 
 ## Retainers
 

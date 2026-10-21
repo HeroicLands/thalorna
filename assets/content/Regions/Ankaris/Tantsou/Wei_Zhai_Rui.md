@@ -23,11 +23,11 @@ The [[lore-zhazho|Zhazho]]. The Zhazho—the Emperor's counselors, his ministers
 
 The Wohou. The great Wohou lords play as the holders of armies, and a faction that wins their support can carry any question.
 
-The [[lore-tanchei|Tanchéi]]. The senior Tanchéi play through their monopoly on reading heaven's signs. An omen read one way justifies a policy; read the other way, it ruins a minister.
+The [[lore-tanchei|Tanchei]]. The senior Tanchei play through their monopoly on reading heaven's signs. An omen read one way justifies a policy; read the other way, it ruins a minister.
 
 **The Emperor.** The Emperor sits at the top and governs through the same channels every other player works. An Emperor who cannot play finds his decrees delayed, his petitions misrouted, his appointments undercut and his policies reinterpreted by the officials who carry them out. The best players steer imperial policy without the Emperor ever learning that he was steered.
 
-The [[lore-wanduo|Wánduo]]. The Wánduo are pieces on the board, not players, since they are owned by the Zhazho. A sorcerer whose counsel shapes a Warlord's choices nonetheless holds power his caste denies him. Ambitious Zhazho tend their Wánduo with care, and more than one great house has been built on a gifted sorcerer's craft: petition-forms laid to win favorable rulings, divinations timed to give useful omens, and wards that keep a household's secrets from rival sorcerers.
+The [[lore-wanduo|Wanduo]]. The Wanduo are pieces on the board, not players, since they are owned by the Zhazho. A sorcerer whose counsel shapes a Warlord's choices nonetheless holds power his caste denies him. Ambitious Zhazho tend their Wanduo with care, and more than one great house has been built on a gifted sorcerer's craft: petition-forms laid to win favorable rulings, divinations timed to give useful omens, and wards that keep a household's secrets from rival sorcerers.
 
 ## How the Game Is Played
 
@@ -35,9 +35,9 @@ The [[lore-wanduo|Wánduo]]. The Wánduo are pieces on the board, not players, s
 
 **Rumor.** The commonest and safest weapon. Players keep informants, plant rumors and spread half-truths to damage a rival's name and so his ledger, since a public accusation of dishonor opens a debit on the accused's account until it is settled (see [[lore-tseising|Tseising]]). A skilled player can bury an enemy under accusations no court has time to close, each one a small wound that festers.
 
-**Paperwork.** The weapon most particular to Tantsou. Because the imperial and celestial administrations mirror each other, a mortal file can do spiritual harm. A petition delayed misses its filing day. A magistrate's bribed ruling changes a family's standing. A Tanchéi's omen, nudged by the right patron, removes a rival from office, and removal is a reclassification that marks his ledger, weakens his ancestors and narrows his children's prospects.
+**Paperwork.** The weapon most particular to Tantsou. Because the imperial and celestial administrations mirror each other, a mortal file can do spiritual harm. A petition delayed misses its filing day. A magistrate's bribed ruling changes a family's standing. A Tanchei's omen, nudged by the right patron, removes a rival from office, and removal is a reclassification that marks his ledger, weakens his ancestors and narrows his children's prospects.
 
-**Betrayal.** Expected, feared, and admired when it is done with grace. The court distinguishes crude betrayal, which costs heavily on the ledger, from a realignment to a higher obligation, which can be justified. A minister who abandons a patron for undermining the cosmic order is correcting an error of classification, and the Tanchéi may agree with him if they are well persuaded.
+**Betrayal.** Expected, feared, and admired when it is done with grace. The court distinguishes crude betrayal, which costs heavily on the ledger, from a realignment to a higher obligation, which can be justified. A minister who abandons a patron for undermining the cosmic order is correcting an error of classification, and the Tanchei may agree with him if they are well persuaded.
 
 **Murder.** Rare, dangerous and ruinous when it is discovered. Murder makes one of the heaviest debits on the ledger, and the killer's household and ancestors share it. A death in the Dance is therefore arranged to look like an accident, an illness or, most elegantly, the natural end of a man already disgraced. The [[affiliation-haluozhao|Black Lotus Society]] takes such commissions, and hiring it is a ledger risk in itself.
 
@@ -45,9 +45,9 @@ The [[lore-wanduo|Wánduo]]. The Wánduo are pieces on the board, not players, s
 
 ## The Emperor's Shadow
 
-Inside the Dance works a secret faction, the [Chénzhuo Hawo]{.name data-type="affiliation"} (Emperor's Shadow): great nobles and officials who mean to control the Emperor and run the empire to suit themselves. They work the channels his authority flows through, so that some petitions reach him and others are lost, some omens are read favorably and others buried, and the key appointments go to their friends.
+Inside the Dance works a secret faction, the [Chenzhuo Hawo]{.name data-type="affiliation"} (Emperor's Shadow): great nobles and officials who mean to control the Emperor and run the empire to suit themselves. They work the channels his authority flows through, so that some petitions reach him and others are lost, some omens are read favorably and others buried, and the key appointments go to their friends.
 
-The faction has a doctrine for itself. The [[lore-mandatehvn|Mandate of Heaven]] ties the Emperor's Lei to the health of the empire; an Emperor who decides badly weakens the classification; so guiding his decisions, even without his knowledge, serves the cosmic order. The Tanchéi inside the faction supply this reasoning and are careful never to write it down.
+The faction has a doctrine for itself. The [[lore-mandatehvn|Mandate of Heaven]] ties the Emperor's Lei to the health of the empire; an Emperor who decides badly weakens the classification; so guiding his decisions, even without his knowledge, serves the cosmic order. The Tanchei inside the faction supply this reasoning and are careful never to write it down.
 
 The Shadow is not united. Its members are ambitious people joined by the wish to control others, and they maneuver against each other as constantly as they cooperate against everyone else.
 
@@ -57,7 +57,7 @@ The Shadow is not united. Its members are ambitious people joined by the wish to
 
 **Defeat** brings disgrace: titles stripped, banishment from court, or [[lore-tseising|Tseising]] to save what remains of a family's honor. The fall then feeds itself. Lost standing means poorer offerings, poorer offerings mean weaker ancestors, weaker ancestors mean thinner advocacy in heaven, and thinner advocacy means further decline. Great houses have been ruined by the Dance in heaven as well as on earth, their once-mighty dead left to wither unfed. At the extreme a beaten player is quietly killed and his death put down to illness. The Black Lotus Society has grown rich on such work, and its clients pay twice, once in silver and once on their ledgers.
 
-**The balance.** For all its cruelty the Dance does a necessary thing. It keeps any single faction from gathering enough power to threaten the Emperor's appointment and with it the whole classification. The Tanchéi understand this, tolerate the game and usually play it, because a court without rivals is a court where one failure could bring down the empire. The celestial administration, they point out, has competing bureaus for the same reason.
+**The balance.** For all its cruelty the Dance does a necessary thing. It keeps any single faction from gathering enough power to threaten the Emperor's appointment and with it the whole classification. The Tanchei understand this, tolerate the game and usually play it, because a court without rivals is a court where one failure could bring down the empire. The celestial administration, they point out, has competing bureaus for the same reason.
 
 ## See Also
 

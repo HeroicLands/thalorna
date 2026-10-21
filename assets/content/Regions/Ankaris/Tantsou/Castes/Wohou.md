@@ -11,11 +11,11 @@ The Wohou are the warrior nobility of [[affiliation-tantsouempr|Tantsou]], the t
 
 ## Authority and Responsibilities
 
-**Military command.** The Wohou alone hold the right to lead soldiers. Every garrison, field army and campaign is commanded by an officer of this caste, and the [[lore-tsaihuo|Wonong]], the common soldiers of the Tsaihuo, carry their spears on Wohou authority and under Wohou orders. A Warlord's strategy is worked out with his Wohou commanders and his [[lore-wanduo|Wánduo]] counselors together, and executed by the former.
+**Military command.** The Wohou alone hold the right to lead soldiers. Every garrison, field army and campaign is commanded by an officer of this caste, and the [[lore-tsaihuo|Wonong]], the common soldiers of the Tsaihuo, carry their spears on Wohou authority and under Wohou orders. A Warlord's strategy is worked out with his Wohou commanders and his [[lore-wanduo|Wanduo]] counselors together, and executed by the former.
 
 **Judicial authority.** The Warlords hold the law in their provinces, and the magistrates and administrators who hear cases, investigate crimes, settle disputes and enforce the [[lore-castelaws|Caste Laws]] in a Warlord's name are drawn from this caste. A Wohou provincial administrator holds a district's revenue, its courts and its corvée under the Warlord's appointment, and answers to him for all three.
 
-**Territorial governance.** Wohou receive lands and titles in exchange for military service. The holding grants authority over the people living on it, and the [[lore-nouwen|Nouwén]] who work it render their tribute of produce and labor to the Wohou lord as they do to the Zhazho above him.
+**Territorial governance.** Wohou receive lands and titles in exchange for military service. The holding grants authority over the people living on it, and the [[lore-nouwen|Nouwen]] who work it render their tribute of produce and labor to the Wohou lord as they do to the Zhazho above him.
 
 ## The Code of Honor
 
@@ -47,7 +47,7 @@ Service to the Zhazho
 
 ## Naming and Honors
 
-A personal name is granted only to a Wohou of exceptional service, usually for a deed of great prowess or a stroke of military genius, and the name is a phrase that evokes power, speed and the fight. Three such names: Zho Shou Teng Ja (Dragon's Rain of Heavenly Arrows), Bui Ja Wuo Rao (Ice Blade of Thunderous Battle) and Weng Hieng Rao Chai (Wind Tiger Roars Across Thunder Mountain). See [[lore-personlnms|Personal Names]] for how the grant is made.
+A personal name is granted only to a Wohou of exceptional service, usually for a deed of great prowess or a stroke of military genius, and the name is a phrase that evokes power, speed and the fight. Three such names: Zho Shou Teng Ja (Dragon's Rain of Heavenly Arrows), Bui Ja Wuo Rao (Ice Blade of Thunderous Battle) and Weng Hen Rao Chai (Wind Tiger Roars Across Thunder Mountain). See [[lore-personlnms|Personal Names]] for how the grant is made.
 
 ## Elder Races Among the Wohou
 
@@ -68,10 +68,10 @@ In the [[lore-phlsphyleiwo|Leiwo]] framework the Wohou are the enforcing Lei of 
 [[lore-zhazho|Zhazho]]
 : the Emperor and the Warlords the Wohou serve
 
-[[lore-tanchei|Tanchéi]]
+[[lore-tanchei|Tanchei]]
 : celestial scholars who advise Wohou commanders
 
-[[lore-wanduo|Wánduo]]
+[[lore-wanduo|Wanduo]]
 : magical counselors who work alongside Wohou commanders
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

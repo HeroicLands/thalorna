@@ -37,7 +37,7 @@ Vaelith is the Vylarian name for the moon, met first in this corpus because it i
 
 **Ts'uqal** is Itsani for moonlight, glossed beside _K'inish_ (Sunlight) and _Ish'ilan_ (Star) in the [[skill-kicheklng|Ki'ichek]] celestial lexicon. It also names a goddess, [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], the Dreamer in Moonlight, whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by [[skill-chlxplmscrpt|the Chalix Tsib script]].
 
-[[lore-youweidty|Youwéi]] is a [[lore-tantsouclt|Tantsou]] deity, Youwéi Téngyou, Moon Jade of the [Heavenly Court]{.name data-type="affiliation"}, held to be the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tantsou woman, meaning Moon Jade.
+[[lore-youweidty|Youbui]] is a [[lore-tantsouclt|Tantsou]] deity, Youbui Tengyou, Moon-Silver of the [Heavenly Court]{.name data-type="affiliation"}, held to be the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tantsou woman, meaning Moon Jade.
 
 [[affiliation-genzetyalgu|Genzet'Yalgu]], the Court of the Nine Moons, met in the dossier of [[being-amqltzlmlglq|Amqelet-Zelemu Legulu’akun]], names no second moon. It is a council of the nine most powerful clans of the [[affiliation-empireakhlth|Empire of Au'Khelathu]], and "the Convergence of the Nine Moons" and "the Eclipse of the Nine Moons" describe that council's fortunes, not an event in the sky. Thalorna has one moon, without qualification, and nothing else in this corpus describes a second.
 

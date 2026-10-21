@@ -248,7 +248,7 @@ A fireflit is a slender lizard-shape of flame, about the length of a hand, with 
 
 ## In the Land
 
-Fireflits gather wherever fire is plentiful and handled with care or with ceremony: round forges, kilns and great hearths, round volcanic vents and burning ground, and round places where the spirit realm lies close. In Tantsou they cluster round the temples, where braziers burn petitions day and night, and round the compounds of the [[lore-wanduo|Wánduo]], whose artificers work the elemental energies into the empire's enchanted arms. They live in the fires themselves, moving from one to another through any fire that joins them, and they leave when a fire dies. A large fire draws them from a distance.
+Fireflits gather wherever fire is plentiful and handled with care or with ceremony: round forges, kilns and great hearths, round volcanic vents and burning ground, and round places where the spirit realm lies close. In Tantsou they cluster round the temples, where braziers burn petitions day and night, and round the compounds of the [[lore-wanduo|Wanduo]], whose artificers work the elemental energies into the empire's enchanted arms. They live in the fires themselves, moving from one to another through any fire that joins them, and they leave when a fire dies. A large fire draws them from a distance.
 
 ## Key Behaviors
 
@@ -256,7 +256,7 @@ Fireflits are curious and playful. They are drawn to shiny objects, bright light
 
 ## What the Tantsou Do
 
-The [[affiliation-tengwouronglei|Celestial Order]] holds that burning a petition transmits it to the celestial bureaus, a category of fire, ritual-fire, kept by [[lore-wojingjadty|Wojing Ja]], the Lord of Fire, in close and quarrelsome coordination with [[affiliation-zhenho|Zhenho]], the Bureau of Transformation. Many temple clerks hold that fireflits are the lowest clerk-spirits of that service, carrying the burned petitions up, and they treat a fireflit hovering over a brazier with the respect owed to a courier: they do not swat it, they do not put out its fire, and they finish their burning before they speak. The [[lore-tanchei|Tanchéi]] who keep the formal theology have never confirmed the belief and never forbidden it. Temple wardens keep water-jars by every brazier all the same, and a swarm that has got into a temple's archive is put out by the jarful, the clerks apologizing to it as they pour. Wánduo artificers summon fireflits as scouts and errand-runners, and pay them in charcoal.
+The [[affiliation-tengwouronglei|Celestial Order]] holds that burning a petition transmits it to the celestial bureaus, a category of fire, ritual-fire, kept by [[lore-wojingjadty|Wojing Ja]], the Lord of Fire, in close and quarrelsome coordination with [[affiliation-zhenho|Zhinho]], the Bureau of Transformation. Many temple clerks hold that fireflits are the lowest clerk-spirits of that service, carrying the burned petitions up, and they treat a fireflit hovering over a brazier with the respect owed to a courier: they do not swat it, they do not put out its fire, and they finish their burning before they speak. The [[lore-tanchei|Tanchei]] who keep the formal theology have never confirmed the belief and never forbidden it. Temple wardens keep water-jars by every brazier all the same, and a swarm that has got into a temple's archive is put out by the jarful, the clerks apologizing to it as they pour. Wanduo artificers summon fireflits as scouts and errand-runners, and pay them in charcoal.
 
 ## Signs
 

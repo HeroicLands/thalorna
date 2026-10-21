@@ -11,7 +11,7 @@ The Zhazho are the people in [[affiliation-tantsouempr|Tantsou]] who are never a
 
 ## The Son of Heaven
 
-The Emperor is the **Tengzhéi** (Son of Heaven), the celestial bureaucracy's appointed agent in the mortal world. His line holds the [[lore-mandatehvn|Mandate of Heaven]]: an appointment held to tie the Emperor's own Lei to the Lei of the empire. The Tanchéi hold that when he is sick the harvests fail, and when his household is in disorder the provinces rebel. He is not a god, and the Tanchéi are careful to say so. He is the administrator of the sorted world, and an administrator who falls out of order puts what he administers out of order with him.
+The Emperor is the **Tengzhei** (Son of Heaven), the celestial bureaucracy's appointed agent in the mortal world. His line holds the [[lore-mandatehvn|Mandate of Heaven]]: an appointment held to tie the Emperor's own Lei to the Lei of the empire. The Tanchei hold that when he is sick the harvests fail, and when his household is in disorder the provinces rebel. He is not a god, and the Tanchei are careful to say so. He is the administrator of the sorted world, and an administrator who falls out of order puts what he administers out of order with him.
 
 ## Who Decides
 
@@ -19,7 +19,7 @@ The Emperor's authority over state, law and war is absolute, and in practice he 
 
 - **the throne itself**, the Emperor and his household, whose decree is final;
 - **the Warlords** (_Wozhuo_), Zhazho of the imperial blood who hold the provinces and exercise the military, administrative and judicial power of the throne within them, with the [[lore-wohou|Wohou]] serving under them;
-- the [[lore-wanduo|Wánduo]], the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
+- the [[lore-wanduo|Wanduo]], the chattel sorcerers, whose counsel shapes strategy, ritual and the spiritual health of the realm.
 
 Every final decision in governance, war and the law of faith belongs to the Zhazho, and the Warlords are the ones who make most of them. The history of the empire is largely the history of how far a given Emperor could make his Warlords obey.
 
@@ -33,7 +33,7 @@ Final authority
 The appointment
 : the sole right to decide matters of state, war and religion, by the celestial bureaucracy's designation.
 
-The Wánduo
+The Wanduo
 : ownership of the chattel sorcerers, bound to the Zhazho from the day they are claimed.
 
 And they hold it to three duties:
@@ -49,7 +49,7 @@ Marriage within the caste
 
 ## Names and the Number Nine
 
-A Zhazho may be granted a personal name for great service, as a Wohou or a Tanchéi may, and the names given to the first caste speak of dragons, of heaven's authority and of the Mandate. [[lore-personlnms|Personal Names]] describes the grant.
+A Zhazho may be granted a personal name for great service, as a Wohou or a Tanchei may, and the names given to the first caste speak of dragons, of heaven's authority and of the Mandate. [[lore-personlnms|Personal Names]] describes the grant.
 
 Nine is the number of the throne. Rites of the Emperor and his caste are reckoned in nines—nine steps to the dais, nine bows, nine dishes at a coronation banquet—because nine is held to be the fullest expression of the Tengwo. [[lore-numerology|Numerology]] explains the rest of the reckoning.
 
@@ -68,7 +68,7 @@ A member of the [[lore-flksinale|Sinale Folk]] or the [[lore-flkkhazar|Khazár F
 [[lore-wohou|Wohou]]
 : the warrior nobility who serve the Warlords
 
-[[lore-wanduo|Wánduo]]
+[[lore-wanduo|Wanduo]]
 : the chattel sorcerers who serve and counsel the throne
 
 [[lore-numerology|Numerology]]

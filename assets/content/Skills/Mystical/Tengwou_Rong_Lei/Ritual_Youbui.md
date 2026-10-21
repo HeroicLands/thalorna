@@ -1,9 +1,9 @@
 ---
-shortcode: genhen
-name: {full: "Ritual: Genhén", aliases: [Genhén, The Minister of Entropy]}
+shortcode: youwei
+name: {full: "Ritual: Youbui", aliases: [Youbui]}
 type: skill
 subType: mystical
-tags: [tengwou, faith-skill, draft]
+tags: [celestial-pantheon, faith-skill, draft]
 data: {templatePriority: null, packFolder: tengwouronglei}
 sohl:
   system:
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-genhen|Genhén]]
+See [[affiliation-youwei|Youbui]]

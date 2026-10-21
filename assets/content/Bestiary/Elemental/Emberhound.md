@@ -286,7 +286,7 @@ An emberhound is not mindless. It thinks, hunts, remembers, and understands tact
 
 ## What the Swordsmiths Do
 
-The lineage that keeps the forge says its founder bound the hound to the gate with the help of a [[lore-wanduo|Wánduo]] in a great lord's service, one of the sorcerers who on the islands serve the lords as retainers; the binding is renewed by each master of the forge, with a rite and a payment the lineage does not discuss. Apprentices are introduced to the hound on their first day, by name, and are not burned. Customers wait outside the gate until a master walks out to them. The lineage's blades are quenched, they say, in water the hound has breathed on, and no one has ever stolen one. A lord's retainers who came to take the forge in a feud did not get past the gate, and the lord, a man who prized refinement, had a poem written about it instead of trying again.
+The lineage that keeps the forge says its founder bound the hound to the gate with the help of a [[lore-wanduo|Wanduo]] in a great lord's service, one of the sorcerers who on the islands serve the lords as retainers; the binding is renewed by each master of the forge, with a rite and a payment the lineage does not discuss. Apprentices are introduced to the hound on their first day, by name, and are not burned. Customers wait outside the gate until a master walks out to them. The lineage's blades are quenched, they say, in water the hound has breathed on, and no one has ever stolen one. A lord's retainers who came to take the forge in a feud did not get past the gate, and the lord, a man who prized refinement, had a poem written about it instead of trying again.
 
 ## Signs
 

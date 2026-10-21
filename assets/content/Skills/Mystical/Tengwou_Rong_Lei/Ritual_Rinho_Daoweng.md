@@ -1,6 +1,6 @@
 ---
 shortcode: rinhodaoweng
-name: {full: "Ritual: Rinho Daowéng", aliases: [Rinho Daowéng]}
+name: {full: "Ritual: Rinho Daoweng", aliases: [Rinho Daoweng]}
 type: skill
 subType: mystical
 tags: [celestial-pantheon, faith-skill, draft]
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-rinhodaoweng|Rinho Daowéng]]
+See [[affiliation-rinhodaoweng|Rinho Daoweng]]

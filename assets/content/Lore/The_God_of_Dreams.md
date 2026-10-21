@@ -21,7 +21,7 @@ The Sinale and Khazari do not acknowledge the human faiths as legitimate express
 | [[affiliation-arldnpnthn\|Aureldian]]            | [[affiliation-zunelas\|Zunelas]]           | Female                  | Dreams, celestial visions                                                                        |
 | [[affiliation-itzanpnthn\|Itsani]]               | [[affiliation-itzanpnthn\|Nal'ik Ts'uqal]] | Female                  | Dreams, visions, prophecy, the moon                                                              |
 | Khelathi                                         | Nehle'at                                   | Female                  | Dreams, sleep, protective visions                                                                |
-| [[affiliation-tengwouronglei\|Téngwou Rong Lei]] | Mei Sei                                    | —                       | Dreams, visions, omens                                                                           |
+| [[affiliation-tengwouronglei\|Tengwou Rong Lei]] | Mei Sei                                    | —                       | Dreams, visions, omens                                                                           |
 | [[affiliation-ashanpnthn\|Ashaian]]              | Zárvanya                                   | Female                  | Dreams, celestial visions, omens                                                                 |
 | [[affiliation-vrnkpnthn\|Varnuka]]               | _(unnamed)_                                | —                       | Worshipped indirectly through the Svapnadevas (the Dreaming Host), divine servants of this deity |
 

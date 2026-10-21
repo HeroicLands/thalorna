@@ -66,7 +66,7 @@ Rinjai's roll names the three villages below; smaller terraces and landings unde
 | Hennu   | Tiger Terraces | Court estate | The Emperor, through the lord's granary | Rice                            |    1,100 |
 | Sudu    | Serpent Road   | Fief         | A Shuizhuo of the domain                | The switchback road over Rinjai |      900 |
 
-The summit shrine of Rinjai is provisioned from the lord's villages, and its Tanchéi keep the mountain record for a house that holds the sea gate of the realm.
+The summit shrine of Rinjai is provisioned from the lord's villages, and its Tanchei keep the mountain record for a house that holds the sea gate of the realm.
 
 ## Retainers
 

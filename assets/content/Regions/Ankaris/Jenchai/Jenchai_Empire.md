@@ -25,7 +25,7 @@ data:
         description: >-
           Merchants and usurers—wealthy, indispensable, and ranked beneath the peasantry for the offense of profiting without producing.
       - level: 2
-        title: Nouwén
+        title: Nouwen
         description: >-
           Peasant farmers and laborers, the base on which the celestial order rests and the caste it constrains most.
       - level: 3
@@ -33,7 +33,7 @@ data:
         description: >-
           Artisans, craftsmen and common warriors—skilled hands, and the highest a commoner may ordinarily rise.
       - level: 4
-        title: Tanchéi
+        title: Tanchei
         description: >-
           Celestial Scholars: interpreters of omens and keepers of the sacred texts by which the realm reckons everything, and the keepers of every mountain's summit shrine.
       - level: 5
@@ -58,8 +58,8 @@ data:
         Heaven's Blade, the Emperor's sword-arm, who speaks for him to the other lords, keeps the peace between them by force and forwards the rice of the court estates. A Daozhuo holds the office by the Emperor's conferral, and it lapses with its holder; it stands vacant.
       Celestial Minister: >-
         Court dignity conferring precedence at the Dawn Rite and no function; the Emperor grants it to a lord he wishes to honor.
-      Omen-Reader: Tanchéi charged with interpreting the heavens for the timing of imperial acts; a working post at court, with an observatory on Zijai.
-      Keeper of the Sacred Texts: Tanchéi warden of the canon against which every proposal at court is measured; a working post.
+      Omen-Reader: Tanchei charged with interpreting the heavens for the timing of imperial acts; a working post at court, with an observatory on Zijai.
+      Keeper of the Sacred Texts: Tanchei warden of the canon against which every proposal at court is measured; a working post.
       Caste-Registrar: >-
         Court dignity conferring precedence and no function; each domain keeps its own rolls.
       Censor of Purity: >-
@@ -82,9 +82,9 @@ Jenchai's culture is shaped by its Tantsou origins—the caste structures, the w
 
 ## The Emperor of Ten Thousand Dawns
 
-Jenchai maintains an Emperor—the **Rongléng Tengzhéi** ("Son of Heaven of Ten Thousand Dawns")—who claims an unbroken line of descent from the last imperial governor who led the secession. The Emperor performs elaborate seasonal rituals, receives foreign ambassadors in his palace above [[place-lengwou|Léngwou]], and serves as the ceremonial heart of the nation. His court is a pageant of ancient protocol and exquisite aesthetics.
+Jenchai maintains an Emperor—the **Rongleng Tengzhei** ("Son of Heaven of Ten Thousand Dawns")—who claims an unbroken line of descent from the last imperial governor who led the secession. The Emperor performs elaborate seasonal rituals, receives foreign ambassadors in his palace above [[place-lengwou|Lengwou]], and serves as the ceremonial heart of the nation. His court is a pageant of ancient protocol and exquisite aesthetics.
 
-In practice, the Emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. He is nineteen years old, styled [Weiléng]{.name data-type="being/npc"} in his reign, and was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named Celestial Minister or receiving a court title carries immense social weight, even though the titles confer no actual authority. The Emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
+In practice, the Emperor commands almost nothing. He has no standing army, controls no territory beyond the imperial capital district, and depends on the great lords for his household's upkeep. He is nineteen years old, styled [Weileng]{.name data-type="being/npc"} in his reign, and was enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. The court's real function is as a stage for the lords to compete for prestige and proximity to divine legitimacy—being named Celestial Minister or receiving a court title carries immense social weight, even though the titles confer no actual authority. The Emperor's power lies entirely in this ability to grant or withhold honor, a currency the warrior lords value above gold.
 
 ## The Great Lords
 
@@ -115,14 +115,14 @@ A **bale** is rice enough to feed one adult for a year, and it is the unit of ev
 
 ## The Court and Its Poverty
 
-The Emperor does not leave the Dragon's Mountain, [[place-zojai|Zojai]]. The imperial person may not set foot beyond Zojai, so the realm comes to him: every lord's envoy, every petition and every bale of rice. He can go nowhere to collect, and this is the hinge of his poverty. The imperial district is Zojai and the capital on its lowest slope, Léngwou, the Dawn Court, a town of 12,000 below the Emperor's palace, in a district of 20,000 people assessed at 6,000 bales. Foreign ambassadors come as far as Léngwou, and the upper slope is closed to them.
+The Emperor does not leave the Dragon's Mountain, [[place-zojai|Zojai]]. The imperial person may not set foot beyond Zojai, so the realm comes to him: every lord's envoy, every petition and every bale of rice. He can go nowhere to collect, and this is the hinge of his poverty. The imperial district is Zojai and the capital on its lowest slope, Lengwou, the Dawn Court, a town of 12,000 below the Emperor's palace, in a district of 20,000 people assessed at 6,000 bales. Foreign ambassadors come as far as Lengwou, and the upper slope is closed to them.
 
-The court's nominal income is 6,880 bales a year: four parts in ten of its own district's assessment, plus four parts in ten of eight **court estates**, one village in each domain whose share is owed to the Emperor. Each Daozhuo collects his court estate through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales against the 9,000 it spends, and the Retired Emperor's household in Léngwou is part of that cost. Silver from Shuiwojai has covered the gap for three years, and the court is in his debt. The court's strongroom stands at [Tsaimu]{.name data-type="place/settlement"} in Muwojai ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
+The court's nominal income is 6,880 bales a year: four parts in ten of its own district's assessment, plus four parts in ten of eight **court estates**, one village in each domain whose share is owed to the Emperor. Each Daozhuo collects his court estate through his own granary and forwards what he chooses. In 719 AF the court received 4,100 bales against the 9,000 it spends, and the Retired Emperor's household in Lengwou is part of that cost. Silver from Shuiwojai has covered the gap for three years, and the court is in his debt. The court's strongroom stands at [Tsaimu]{.name data-type="place/settlement"} in Muwojai ground, in the keeping of that house's [Weiju]{.name data-type="affiliation/lineage"}.
 
 The Emperor grants four things, and each costs him nothing:
 
 - **The patent of the mountain.** Each Daozhuo holds his mountain by a patent the Emperor issues on every succession. The Emperor cannot enforce it; a lord without one holds by force alone and cannot call on any other lord's duty.
-- **Court dignities.** Celestial Minister, Caste-Registrar and Censor of Purity are titles conferring precedence and no function. Omen-Reader and Keeper of the Sacred Texts remain working posts of the Tanchéi at court.
+- **Court dignities.** Celestial Minister, Caste-Registrar and Censor of Purity are titles conferring precedence and no function. Omen-Reader and Keeper of the Sacred Texts remain working posts of the Tanchei at court.
 - **Precedence at the [Dawn Rite]{.name data-type="lore/custom"}.** The New Year rite on Zojai's summit is attended by the envoy of every lord, and its seating order is the year's political map.
 - **The office of Teng Ja.**
 
@@ -150,9 +150,9 @@ This belief fuels both their pride and their aggression. Jenchai's superior navy
 
 A thousand years of separation have produced meaningful cultural differences:
 
-**Caste system:** Jenchai inherited Tantsou's caste structure but has bent it around its feudal reality. The warrior lords dominate completely—there is no equivalent of the Tantsou balance between Zhazho, Wánduo, and Wohou. Magic-users exist but are subordinate to their lords in a way that even the Wánduo's chattel status doesn't quite capture; in Jenchai, a sorcerer is simply another retainer, not a separate pillar of power.
+**Caste system:** Jenchai inherited Tantsou's caste structure but has bent it around its feudal reality. The warrior lords dominate completely—there is no equivalent of the Tantsou balance between Zhazho, Wanduo, and Wohou. Magic-users exist but are subordinate to their lords in a way that even the Wanduo's chattel status doesn't quite capture; in Jenchai, a sorcerer is simply another retainer, not a separate pillar of power.
 
-**Religion:** The Celestial Order is recognizable but has fractured into regional variations. Each Great Lord's domain tends to emphasize the deities that suit their territory—coastal lords venerate storm and sea aspects, mountain lords emphasize earth and metal. The Mandate of Heaven is interpreted locally: each Great Lord claims some measure of divine favor for their own line, and the summit shrine of each mountain, kept by the domain's Tanchéi, supports the claim. The Emperor's is the one claim to the whole Mandate. An eruption is read as heaven's attention, so an eruption in a disputed year is a verdict on the house beneath the mountain.
+**Religion:** The Celestial Order is recognizable but has fractured into regional variations. Each Great Lord's domain tends to emphasize the deities that suit their territory—coastal lords venerate storm and sea aspects, mountain lords emphasize earth and metal. The Mandate of Heaven is interpreted locally: each Great Lord claims some measure of divine favor for their own line, and the summit shrine of each mountain, kept by the domain's Tanchei, supports the claim. The Emperor's is the one claim to the whole Mandate. An eruption is read as heaven's attention, so an eruption in a disputed year is a verdict on the house beneath the mountain.
 
 **Aesthetics and refinement:** Where Tantsou's culture prizes cosmic harmony and bureaucratic order, Jenchai has developed an intense aesthetic sensibility—an almost spiritual devotion to beauty in craft, poetry, swordsmanship, and the rituals of daily life. Tea-craft, flower arrangement, garden design and the forging of blades are all elevated to spiritual practices, and the same lords who keep them wage war without restraint.
 
@@ -164,7 +164,7 @@ Jenchai's greatest military advantage is its navy. Island geography forced the d
 
 ## Outside the Ladder
 
-The Noutsou are slaves and outcasts, the caste that is not a caste, whose members may hold no name the law recognizes.
+The Nuitsou are slaves and outcasts, the caste that is not a caste, whose members may hold no name the law recognizes.
 
 ## See Also
 

@@ -1,6 +1,6 @@
 ---
 shortcode: lengwou
-name: {full: Léngwou, aliases: [The Dawn Court]}
+name: {full: Lengwou, aliases: [The Dawn Court]}
 type: place
 subType: settlement
 description: "The Dawn Court, the Emperor's capital on the lowest slope of Zojai—a town of 12,000 below the palace of a nineteen-year-old Emperor, with a Retired Emperor and a treasury that is owed 6,880 bales and received 4,100."
@@ -15,13 +15,13 @@ data:
   culture: jenchaiclt
 ---
 
-Léngwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Daozhuo holds.
+Lengwou (the Dawn Court) is the capital of [[affiliation-jenchaiempr|Jenchai]], a town of 12,000 people on the lowest slope of [[place-zojai|Zojai]], below the Emperor's palace; the islanders say _Rewu_. With Zojai it forms the imperial district of 20,000 people, assessed at 6,000 bales a year. It is the only town of the Nine that no Daozhuo holds.
 
 ## The Court
 
-The Emperor is [Weiléng]{.name data-type="being/npc"} (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. He is styled _Rongléng Tengzhéi_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Léngwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
+The Emperor is [Weileng]{.name data-type="being/npc"} (Jade Dawn), nineteen years old, enthroned in 712 AF at eleven, when his father abdicated as the price of the peace that ended the [War of the Empty Seat]{.name data-type="lore/history"}. He is styled _Rongleng Tengzhei_, Son of Heaven of Ten Thousand Dawns. His father, the **Retired Emperor**, lives in Lengwou and keeps a household that the court cannot afford. The Emperor has a household guard and no other force.
 
-The court is a pageant of ancient protocol, and its business is honor. The Emperor issues each Daozhuo's patent of the mountain on every succession, and he grants the court dignities: **Celestial Minister**, **Caste-Registrar** and **Censor of Purity** confer precedence and no function, while **Omen-Reader** and **Keeper of the Sacred Texts** remain working posts of the Tanchéi, the first with its observatory on [[place-zijai|Zijai]]. He holds the [Dawn Rite]{.name data-type="lore/custom"} on Zojai each New Year, where the order in which the lords' envoys stand is the year's political map. He also confers the office of **Teng Ja**, which stands vacant.
+The court is a pageant of ancient protocol, and its business is honor. The Emperor issues each Daozhuo's patent of the mountain on every succession, and he grants the court dignities: **Celestial Minister**, **Caste-Registrar** and **Censor of Purity** confer precedence and no function, while **Omen-Reader** and **Keeper of the Sacred Texts** remain working posts of the Tanchei, the first with its observatory on [[place-zijai|Zijai]]. He holds the [Dawn Rite]{.name data-type="lore/custom"} on Zojai each New Year, where the order in which the lords' envoys stand is the year's political map. He also confers the office of **Teng Ja**, which stands vacant.
 
 ## The Treasury
 
@@ -31,9 +31,9 @@ Silver from [[affiliation-shuiwojaidmn|Shuiwojai]] has covered the gap for three
 
 ## The Town
 
-Léngwou lives on the court. Its 12,000 people are the Emperor's household and guard, the Tanchéi of the shrine and the offices, the craftsmen who serve the palace, and the inns and lodgings of the envoys, who come from every house for the Dawn Rite and stay for months to bargain over their places. The town is poor beside the castle towns of the lords, since it has no fleet, mine or harbor of its own, and the rice that feeds it arrives through the granaries of the houses.
+Lengwou lives on the court. Its 12,000 people are the Emperor's household and guard, the Tanchei of the shrine and the offices, the craftsmen who serve the palace, and the inns and lodgings of the envoys, who come from every house for the Dawn Rite and stay for months to bargain over their places. The town is poor beside the castle towns of the lords, since it has no fleet, mine or harbor of its own, and the rice that feeds it arrives through the granaries of the houses.
 
-The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Léngwou and go no farther, since the upper slope of Zojai is closed to them.
+The Emperor's judges hear the town's cases, and a village of the district settles its own quarrels through its headman. Foreign ambassadors are received at Lengwou and go no farther, since the upper slope of Zojai is closed to them.
 
 ## See Also
 

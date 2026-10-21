@@ -14,7 +14,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -51,8 +51,8 @@ data:
     offices:
       Neitsai, The Minister of Continuity: >-
         Teng Gui of the Tsai Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Wouchéi: >-
-        The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
+      Wouchei: >-
+        The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchei preserves cultural continuity.
       Zhawo: >-
         Continuity Spirits, who ensure that living things reproduce according to their classification.
       Chief Intendant: >-
@@ -90,28 +90,28 @@ Domain
 : Continuity
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
 In Neitsai's teaching, Tsai Sei resists change, which is its function and not its failing. It ensures that things continue
 to be what they were classified as: that a lineage breeds true, that a craft is transmitted intact,
-that a boundary drawn in [Dao Zhaoléi]{.name data-type="lore/cosmology"}, the Great Sorting, is still where it was drawn.
+that a boundary drawn in [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting, is still where it was drawn.
 
-It is the natural rival of [[affiliation-zhenho|Zhenho]], the Bureau of Transformation, and the rivalry is
+It is the natural rival of [[affiliation-zhenho|Zhinho]], the Bureau of Transformation, and the rivalry is
 the sharpest in the administration—one bureau exists to change things and the other to prevent
 it, and both are correct. Petitions for a difficult birth, an unbroken inheritance or the survival
 of a craft gho here.
 
 ### Lesser Spirits
 
-[Wouchéi]{.name data-type="lore/spirit"}
-: The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchéi preserves cultural continuity.
+[Wouchei]{.name data-type="lore/spirit"}
+: The Instructor, associated with the transmission of knowledge and technique across generations; where Neitsai preserves biological continuity, Wouchei preserves cultural continuity.
 
 Zhawo
 : Continuity Spirits, who ensure that living things reproduce according to their classification.
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]

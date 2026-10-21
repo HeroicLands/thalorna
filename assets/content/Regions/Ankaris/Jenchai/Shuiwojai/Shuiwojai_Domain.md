@@ -67,7 +67,7 @@ Three of Rojai's villages are named here. The rest of the 78,000 bales comes fro
 | Kowo    | Old Sea          | Demesne      | The lord's granary at Hawu              | Shipyards and fishing |    3,100 |
 | Rounu   | Thunder Terraces | Court estate | The Emperor, through the lord's granary | Rice under Rojai      |    1,800 |
 
-The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchéi are provisioned from the lord's villages.
+The summit shrine of Rojai keeps the storm aspect of the [[affiliation-tengwouronglei|Celestial Order]], and its Tanchei are provisioned from the lord's villages.
 
 ## Retainers
 

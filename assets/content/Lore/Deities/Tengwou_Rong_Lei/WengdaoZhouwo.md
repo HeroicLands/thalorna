@@ -1,11 +1,11 @@
 ---
 shortcode: wengdaozhouwodty
-name: {full: Wéngdao Zhouwo, aliases: []}
+name: {full: Wengdao Zhouwo, aliases: []}
 type: lore
 subType: deity
-description: "Lord of Earth in the Téngwou Rong Lei—one of the five Elemental Lords, holding earth as an office of the celestial bureaucracy."
+description: "Lord of Earth in the Tengwou Rong Lei—one of the five Elemental Lords, holding earth as an office of the celestial bureaucracy."
 tags: [draft]
 data: {packFolder: deitiestengwouronglei, culture: tantsouclt}
 ---
 
-Wéngdao Zhouwo is the Lord of Earth, one of the five Elemental Lords of the [[affiliation-tengwouronglei|Téngwou Rong Lei]]. Earth is held as an office of the celestial bureaucracy, and the Lord of Earth is one of its appointed officials. His standing is recorded in the [[affiliation-wengdaozhouwo|Wéngdao Zhouwo]] affiliation.
+Wengdao Zhouwo is the Lord of Earth, one of the five Elemental Lords of the [[affiliation-tengwouronglei|Tengwou Rong Lei]]. Earth is held as an office of the celestial bureaucracy, and the Lord of Earth is one of its appointed officials. His standing is recorded in the [[affiliation-wengdaozhouwo|Wengdao Zhouwo]] affiliation.

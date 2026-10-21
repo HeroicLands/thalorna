@@ -95,9 +95,9 @@ The [[affiliation-khelathpnthn|Khelathi Pantheon]] is the ancient faith of the g
 [[affiliation-empireakhlth|Empire of Au'Khelathu]]
 : state religion of the empire
 
-## [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+## [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]], the **Celestial Order** ("The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
+[[affiliation-tengwouronglei|Tengwou Rong Lei]], the **Celestial Order** ("The Celestial Court of Ten Thousand Spirits")—a vast celestial bureaucracy mirroring the imperial government of the east.
 
 **Primary region:**
 

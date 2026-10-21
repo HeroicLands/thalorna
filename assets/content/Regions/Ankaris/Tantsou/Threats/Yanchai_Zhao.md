@@ -81,7 +81,7 @@ The house was formidable in the Jade Fan Dance for generations, and it lost its 
 
 ## The New Head's Gamble
 
-The present head, [Wéngzhuo Zhoja]{.name data-type="being/npc"} ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires. He has made a secret alliance with the [[affiliation-haluozhao|Ha Luo Zhao]] (the Black Lotus Society), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council.
+The present head, [Wengzhuo Zhoja]{.name data-type="being/npc"} ("Wind-Summoning Dragon Spear"), has vowed to restore the house by any means that work, and he has no patience for the slow accumulation of favors the traditional road requires. He has made a secret alliance with the [[affiliation-haluozhao|Ha Luo Zhao]] (the Black Lotus Society), whose trade is forged tablets, bought omens and the starving of rivals' ancestors, and he has not told most of his own council.
 
 The alliance has split the house. The senior kin who know of it call it reckless and dishonorable, and the kin who do not know of it have noticed that their head keeps company he will not name, and the suspicion between the two halves of the council is itself a weakness any player of the Dance can use.
 

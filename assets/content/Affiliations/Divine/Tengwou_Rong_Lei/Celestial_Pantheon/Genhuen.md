@@ -1,20 +1,20 @@
 ---
-shortcode: zhenho
-name: {full: Zhenho, aliases: [The Minister of Fire, Ho Sei, The Bureau of Transformation]}
+shortcode: genhen
+name: {full: Genhuen, aliases: [The Minister of Entropy, Huen Sei, The Bureau of Unraveling]}
 type: affiliation
 subType: faithtradition
-description: "Fire."
+description: "Entropy."
 tags: [pantheon]
 data:
   banner: faithbnr
   templatePriority: null
   demonym: null
-  epithet: The Minister of Fire
+  epithet: The Minister of Entropy
   symbol: null
   governance:
     model: meritocracy
     summary: >-
-      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchéi caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
+      Not a church but an administration. Temples are celestial post offices and their clergy are clerks; standing follows competence with forms, seals, precedent and the correct bureau, within the bounds the Tanchei caste sets on who may be trained at all. A petition filed to the wrong bureau is simply lost.
     ranks:
       - level: 0
         title: Struck from the Rolls
@@ -23,7 +23,7 @@ data:
       - level: 1
         title: Petitioner
         description: >-
-          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaikén, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
+          Every Tantsou: keeps a moral ledger, is observed by the household's Tsaiken, and files through a temple for rain, healing, a ruling, or a relative's passage through the Ministry of Final Account.
       - level: 2
         title: Copyist
         description: >-
@@ -49,12 +49,12 @@ data:
         description: >-
           Senior mortal officer of a bureau's whole temple establishment, who signs what is transmitted upward to its Teng Gui and answers for it if the bureau rejects it.
     offices:
-      Zhenho, The Minister of Fire: >-
-        Teng Gui of the Ho Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
-      Tsaikén: >-
-        The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaikén not out of devotion but to ensure favorable reports.
-      Daoho Wo: >-
-        Wildfire Spirits, the enforcement arm for fire-related punitive action.
+      Genhuen, The Minister of Entropy: >-
+        Teng Gui of the Huen Sei, whose power is the authority of the office and not of their person, and who may be promoted, demoted, reassigned or dismissed.
+      Huenwo: >-
+        Controlled Dissolution Spirits, who execute authorized unraveling.
+      Yolei: >-
+        Trickster Spirits, who inhabit the boundary between classified order and the Huenlei. Technically under Genhuen's authority and notoriously difficult to administer.
       Chief Intendant: >-
         Senior mortal officer of this bureau's temples, who signs what is transmitted upward.
       Registrar: >-
@@ -81,41 +81,38 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-## Zhenho—The Minister of Fire
+## Genhuen—The Minister of Entropy
 
 Bureau
-: Ho Sei, The Bureau of Transformation
+: Huen Sei, The Bureau of Unraveling
 
 Domain
-: Fire
+: Entropy
 
 Parent
-: [[affiliation-tengwouronglei|Téngwou Rong Lei]]
+: [[affiliation-tengwouronglei|Tengwou Rong Lei]]
 
-In Zhenho's teaching, Ho Sei administers transformation, and therefore administers the entire postal system of the
-cosmos: fire is the medium by which a document passes from the mortal plane to the celestial one,
-so every petition filed to every bureau is carried by this one. Burning a correctly addressed
-petition actually files it; burning spirit money actually credits an account; burning offerings for
-the dead actually provisions them.
+In Genhuen's teaching, somebody must be responsible for things ending, and [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Great Sorting, appointed Genhuen. Huen Sei
+conducts _authorized_ unraveling: the collapse of a structure that has outlived its classification,
+the failure of a lineage that should not continue, the flood that clears ground.
 
-This makes Zhenho structurally indispensable and personally unpopular. The other overseers resent
-depending on a colleague to deliver their own mail, and the Tanchéi note that no bureau has ever
-successfully petitioned to have the arrangement changed.
-
-The bureau also seats the **Tsaikén** in every household in Tantsou, which means it holds the raw
-observations on which every moral ledger is built.
+The bureau is widely misunderstood by mortals as malevolent and is nothing of the kind—an
+unauthorized dissolution is as much its problem as anyone's, and the [[affiliation-youweng|Youweng]]
+represent precisely the unraveling it has failed to keep licensed. Its Yolei are a standing
+embarrassment: technically subordinate, functionally uncontrollable, and the single largest source
+of jurisdictional gaps in the administration.
 
 ### Lesser Spirits
 
-Tsaikén
-: The Hearth Monitor—a household spirit assigned to every family, who observes daily conduct and files annual reports to the Ministry of Final Account. Families make offerings to Tsaikén not out of devotion but to ensure favorable reports.
+Huenwo
+: Controlled Dissolution Spirits, who execute authorized unraveling.
 
-Daoho Wo
-: Wildfire Spirits, the enforcement arm for fire-related punitive action.
+Yolei
+: Trickster Spirits, who inhabit the boundary between classified order and the [Huenlei]{.name data-type="lore/cosmology"}. Technically under Genhuen's authority and notoriously difficult to administer.
 
 ### See Also
 
-[[affiliation-tengwouronglei|Téngwou Rong Lei]]
+[[affiliation-tengwouronglei|Tengwou Rong Lei]]
 : the Celestial Bureaucracy this bureau belongs to
 
 [[affiliation-tantsouempr|Empire of Tantsou]]
