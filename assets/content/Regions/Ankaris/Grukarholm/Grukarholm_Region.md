@@ -96,7 +96,7 @@ Velanthia lies north of the thickest Grukar country and in the pocket to its sou
 : the three subspecies
 
 [[skill-grukarlng|Grukar Language]]
-: the Grukar tongue
+: body language and scent, with sounds only for emphasis
 
 [[place-nrdlndsrgn|Nordlands Region]]
 : farther west and north

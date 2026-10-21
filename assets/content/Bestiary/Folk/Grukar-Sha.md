@@ -266,9 +266,15 @@ You almost missed it. At the edge of the firelight, half turned as if already le
 
 The Grukar-Sha is the thinker of the Grukar, roughly one Grukar in ten: four and a half to five feet tall, thin, physically the weakest of its kind, and the only Grukar that can think forward. [[being-grukaruk|An Uk]] hatches with everything it will ever know and a [[being-grkrhshk|Hushk]] learns only what a fight teaches; a Sha sees what a course will cost several moves on, what another creature wants and how that wanting can be turned. To other Grukar this looks very nearly like sorcery. The Sha are the tribe's scouts, spies, counselors and poisoners, its only voice to outsiders, and the only Grukar that can see that a tribe is finished. They survive by being too useful to kill, until the day the spawn-chamber decides they are too useful to leave alive.
 
+The name Grukar-Sha is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognise the distinction themselves.
+
 ## Presentation
 
 A Sha is lean to gauntness, with narrow shoulders, long limbs and long, dextrous fingers. Its skin is the Grukar gray-green, paler and more mottled than its kin's and often marked with paint or tattoos for concealment. Its features are sharper than other Grukar's, with high cheekbones, pointed ears, shorter tusks and large, pale, watchful eyes. It dresses in dark, plain stuff and carries small, hidden weapons, daggers, bone needles, poison. It moves with a nervous economy and always stands near a way out, a shadow or a protector. Alone among Grukar it speaks human tongues, in a voice made partly by the mouth and partly by the chest-resonance all Grukar use, so that it arrives a little out of step with the lips.
+
+## Human Tongues
+
+Every other Grukar takes speech for sound, and sound for emphasis, and so takes nothing from a word. A Sha grasps that a human language is a language. It almost always has the idea within a week of hearing one, and speaks it rudimentarily within a month, faster when it has a captive to learn from. Most Sha never pass basic fluency, but many know several human languages at a basic to modest level, picked up from every road and wall they have watched. A few especially intelligent Sha read and write simple human scripts. The Grukar have no script of their own, so a Sha that writes writes a human tongue in human letters. Among other Grukar a Sha converses as they all do, by posture and scent.
 
 ## In the Land
 
@@ -322,7 +328,7 @@ It climbs, swims, leaps and runs over ground no one else can, and when it choose
 
 ### Hybrid Speech
 
-Alone among Grukar it speaks human tongues, in a voice that sounds from the chest as much as the mouth, grammatical, understandable and physically wrong to a human listener.
+Alone among Grukar it speaks human tongues, in a voice that sounds from the chest as much as the mouth, seldom past basic fluency, understandable and physically wrong to a human listener.
 
 ## Attributes
 

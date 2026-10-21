@@ -15,3 +15,4 @@
 - Vylari has words for "perhaps", "truth" and "truly" (_zikai_, _varelza_, _varlai_), and the Morning Call and the Second Reading turn on _zikai_, the word that marks a thing as only alleged.
 - The setting lists the core words every human language covers: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.
 - Tantsou has words for every core concept: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.
+- The Grukar converse by body language and scent; their grunts and bellows only lend emphasis, they keep no names or script, and only the Grukar-Sha learn to speak human tongues.

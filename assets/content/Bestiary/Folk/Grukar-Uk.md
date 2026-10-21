@@ -266,9 +266,11 @@ They come out of the tree-line at a jog, twenty or thirty of them, short and bro
 
 The Grukar-Uk is the common member of the [[lore-grukarfolk|Grukar Folk]], the laborer and foot soldier of its tribe and roughly eighty-five percent of every tribe's number: about four and a half feet tall, stocky, strong for its size, dull, lazy, and spawned in such numbers that its death matters to no one, least of all to the [[being-grkrahk|Grukar-ahk]] that laid it. An Uk hatches knowing everything it will ever know, how to hold a spear, which fungus is safe, where the tribe's water lies, and it learns nothing afterward. One Uk is a nuisance. Fifty, driven by a [[being-grkrhshk|Grukar-Hushk]] and aimed by a [[being-grkrsh|Grukar-Sha]], are a tide that burns farmsteads, empties folds and carries off the people it catches, to eat.
 
+The name Grukar-Uk is an old human convention. The [[lore-pelwarpepl|Pelwar]] and the folk before them coined the caste names for the four kinds of Grukar they see. Nobody knows whether the Grukar recognise the distinction themselves.
+
 ## Presentation
 
-A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a big man, with a broad chest, a thick neck, and arms that hang a little too long. Its skin is a dull gray-green, rougher and hairier than the other castes', with coarse dark bristles over the back, shoulders and forearms. The face is broad and flat, with a heavy brow, small eyes and a jutting lower jaw from which short tusks stick up. It wears whatever it has scavenged: ill-fitting leather, scraps of stolen mail, a dented helm. It carries rough, practical weapons, hand-axes, clubs, spears with fire-hardened points, and now and then a stolen sword it does not use well. Uk communicate as all Grukar do, mostly by posture and gesture, with clacks, rasps and calls from the chest and throat, some of them too low or too high for human ears.
+A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a big man, with a broad chest, a thick neck, and arms that hang a little too long. Its skin is a dull gray-green, rougher and hairier than the other castes', with coarse dark bristles over the back, shoulders and forearms. The face is broad and flat, with a heavy brow, small eyes and a jutting lower jaw from which short tusks stick up. It wears whatever it has scavenged: ill-fitting leather, scraps of stolen mail, a dented helm. It carries rough, practical weapons, hand-axes, clubs, spears with fire-hardened points, and now and then a stolen sword it does not use well. Uk converse as all Grukar do, by posture, gesture and scent, and the clacks, rasps and grunts from the chest and throat only lend emphasis. To a human a band of Uk looks restless and stinks.
 
 ## In the Land
 
@@ -288,7 +290,7 @@ Every people that borders the Grukar deals with the Uk the same way, because the
 - Stock gone from a fold in the night, the hurdles broken outward, and the guard dogs dead.
 - A rank, musky smell on the edge of a wood, and fresh dung in a pile at a trail-side.
 - Felled trees and dug earth at the edge of a forest where nobody from the village has been cutting.
-- Low clacks and rasps at night from the trees, and a pressure in the chest from calls that cannot be heard.
+- Low clacks and rasps at night from the trees, and a pressure in the chest from sounds too low to hear.
 
 ## Combat Strategy
 
