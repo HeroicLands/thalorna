@@ -6,6 +6,7 @@ subType: language
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtari loanwords and barely known in its interior form."
 tags: []
 data:
+  core: true
   abbreviation: Kal.
   fields:
     - name: The keeping
@@ -26,7 +27,11 @@ data:
       field: The keeping
       gloss: "to keep, to tend what is left in one's charge"
     - {form: "sili-", class: stem, field: The keeping, gloss: "to watch"}
-    - {form: "vaar-", class: stem, field: The keeping, gloss: "to hold, to keep unchanged"}
+    - form: "vaar-"
+      class: stem
+      field: The keeping
+      gloss: "to hold, to keep unchanged"
+      concept: hold
     - {form: "thári-", class: stem, field: The keeping, gloss: "what came before"}
     - {form: "sari-", class: stem, field: The keeping, gloss: "to tend, an act of tending"}
     - {form: "val-", class: stem, field: The keeping, gloss: "a thread, a cord"}
@@ -100,14 +105,22 @@ data:
       class: stem
       field: "Water, stone and growing things"
       gloss: "still, at rest"
-    - {form: "vanu-", class: stem, field: "Water, stone and growing things", gloss: "water"}
+    - form: "vanu-"
+      class: stem
+      field: "Water, stone and growing things"
+      gloss: "water"
+      concept: water
     - {form: "koa-", class: stem, field: "Water, stone and growing things", gloss: "deep"}
     - {form: "manu-", class: stem, field: "Water, stone and growing things", gloss: "root"}
     - {form: "thei-", class: stem, field: "Water, stone and growing things", gloss: "bright"}
     - {form: "luori-", class: stem, field: "Water, stone and growing things", gloss: "canopy"}
     - {form: "rei-", class: stem, field: "Water, stone and growing things", gloss: "old"}
     - {form: "luvao-", class: stem, field: "Water, stone and growing things", gloss: "vine"}
-    - {form: "nao-", class: stem, field: "Water, stone and growing things", gloss: "green"}
+    - form: "nao-"
+      class: stem
+      field: "Water, stone and growing things"
+      gloss: "green"
+      concept: green
     - {form: "thuri-", class: stem, field: "Water, stone and growing things", gloss: "wind"}
     - form: "lua-"
       class: stem
@@ -127,6 +140,7 @@ data:
       class: stem
       field: "Water, stone and growing things"
       gloss: "a door, an opening that is kept"
+      concept: door
     - form: "nalu-"
       class: stem
       field: "Water, stone and growing things"

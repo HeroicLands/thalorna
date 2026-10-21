@@ -7,6 +7,7 @@ description: "The speech of the island of Aelwyth, given in these pages in the o
 tags: []
 
 data:
+  core: true
   abbreviation: Aelw.
   icon: icon-speaking
   templatePriority: null

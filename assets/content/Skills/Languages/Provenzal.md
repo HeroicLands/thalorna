@@ -6,6 +6,7 @@ subType: language
 description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 tags: []
 data:
+  core: true
   family: skill-vylarilng
   abbreviation: Prv.
   classModifiers: [m, f]
@@ -106,6 +107,7 @@ data:
       class: n m
       field: The city and its standing
       gloss: "a wall; a city's wall"
+      concept: wall
       source: {kind: inherited, form: kembothos}
     - form: kalzote
       class: n m
@@ -301,6 +303,7 @@ data:
       class: n f
       field: Patron and client
       gloss: "friendship, as the songs speak of it"
+      concept: love-philia
       source: {kind: borrowed, language: skill-elvndrlng, form: ánsevirsa}
     - form: ellevirsa
       class: n f
@@ -346,6 +349,7 @@ data:
       class: n m
       field: Love and its conduct
       gloss: "a husband"
+      concept: husband
       source: {kind: inherited, form: kambethos}
     - form: solvima
       class: n f
@@ -476,6 +480,7 @@ data:
       class: n f
       field: The house and the street
       gloss: "water"
+      concept: water
       source: {kind: inherited}
     - form: ulmervodera
       class: n f
@@ -511,6 +516,7 @@ data:
       class: n f
       field: The house and the street
       gloss: "a lamp"
+      concept: lamp
       source: {kind: inherited, form: ithrola}
     - form: umeltandar
       class: adj
@@ -561,6 +567,7 @@ data:
       class: n m
       field: The gods and the hearth
       gloss: "the hearth; the fire of a house"
+      concept: hearth
       source: {kind: inherited, form: "k'aralzon"}
     - form: karalzis
       class: n m
@@ -626,6 +633,7 @@ data:
       class: v
       field: Learning and the academies
       gloss: "to know"
+      concept: know
       source: {kind: inherited, form: kezdathen}
     - form: lorezate
       class: v
@@ -676,11 +684,13 @@ data:
       class: n m
       field: "The house, kin and the name"
       gloss: "a brother"
+      concept: brother
       source: {kind: inherited, form: semrothos}
     - form: semrota
       class: n f
       field: "The house, kin and the name"
       gloss: "a sister"
+      concept: sister
       source: {kind: inherited, form: semrotha}
     - form: aipsea
       class: n f
@@ -951,6 +961,7 @@ data:
       class: v
       field: Craft and the workshop
       gloss: "to make"
+      concept: make
       source: {kind: inherited, form: tambathen}
     - form: tamba
       class: n m
@@ -1266,26 +1277,31 @@ data:
       class: n m
       field: "The body, life and death"
       gloss: "a head"
+      concept: head
       source: {kind: inherited, form: tholkezos}
     - form: jentamis
       class: n f
       field: "The body, life and death"
       gloss: "a face"
+      concept: face
       source: {kind: inherited, form: yenthamis}
     - form: dechaze
       class: n m
       field: "The body, life and death"
       gloss: "a hand"
+      concept: hand
       source: {kind: inherited, form: dekazu}
     - form: silvime
       class: n m
       field: "The body, life and death"
       gloss: "an eye"
+      concept: eye
       source: {kind: inherited, form: silkimos}
     - form: brudamis
       class: n f
       field: "The body, life and death"
       gloss: "blood"
+      concept: blood
       source: {kind: inherited, form: brudhamis}
     - form: riteze
       class: n m
@@ -1311,6 +1327,7 @@ data:
       class: v
       field: "The body, life and death"
       gloss: "to die"
+      concept: die
       source: {kind: inherited, form: kalmethathen}
     - form: demrol
       class: n m
@@ -1457,6 +1474,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to live"
+      concept: live
       source: {kind: inherited, form: thernathen}
     - form: falvate
       class: v
@@ -1477,26 +1495,31 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "two"
+      concept: two
       source: {kind: inherited, form: tawemer}
     - form: felzur
       class: num
       field: Numbers and grammar words
       gloss: "four"
+      concept: four
       source: {kind: inherited}
     - form: jolemis
       class: num
       field: Numbers and grammar words
       gloss: "five"
+      concept: five
       source: {kind: inherited, form: yolemiks}
     - form: raetur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
+      concept: seven
       source: {kind: inherited, form: ranethur}
     - form: zorimas
       class: num
       field: Numbers and grammar words
       gloss: "eight"
+      concept: eight
       source: {kind: inherited, form: zorimaks}
     - form: dorechis
       class: num
@@ -1507,6 +1530,7 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
+      concept: thousand
       source: {kind: inherited, form: thambezur}
     - form: jo
       class: pron

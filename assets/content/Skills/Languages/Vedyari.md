@@ -6,6 +6,7 @@ subType: language
 description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
 tags: []
 data:
+  core: true
   abbreviation: Ved.
   fields:
     - name: "Sun, moon, sky and the reckoning of time"
@@ -292,7 +293,11 @@ data:
       gloss: "the deep water; an ocean of anything"
     - {form: nadri, class: "n", field: "Water, rain and the monsoon", gloss: "a river"}
     - {form: derka, class: "n", field: "Water, rain and the monsoon", gloss: "a stream, a flow"}
-    - {form: jalka, class: "n", field: "Water, rain and the monsoon", gloss: "water"}
+    - form: jalka
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "water"
+      concept: water
     - {form: kupra, class: "n", field: "Water, rain and the monsoon", gloss: "a well"}
     - {form: tirsa, class: "n", field: "Water, rain and the monsoon", gloss: "a bank, a shore"}
     - form: ghatka
@@ -376,6 +381,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a foot; the land at the foot of a thing"
+      concept: foot
     - form: padu
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
@@ -400,10 +406,12 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a door, a gate; a pass through mountains"
+      concept: door
     - form: mukhva
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a mouth; the mouth of a river or a pass"
+      concept: mouth
     - form: uttarka
       class: adj
       field: "Mountain, forest, field and the shapes of the land"
@@ -436,6 +444,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "an abode, a dwelling"
+      concept: abode
     - form: groha
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
@@ -489,6 +498,7 @@ data:
       class: "n"
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "a wall"
+      concept: wall
     - {form: suvorna, class: "n", field: "Stone, metal and treasure", gloss: "gold; a gold coin"}
     - {form: kaneka, class: "n", field: "Stone, metal and treasure", gloss: "worked gold"}
     - form: hirenya
@@ -536,7 +546,11 @@ data:
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "indigo; dark blue"
-    - {form: harota, class: adj, field: "Crops, beasts and growing things", gloss: "green"}
+    - form: harota
+      class: adj
+      field: "Crops, beasts and growing things"
+      gloss: "green"
+      concept: green
     - {form: podma, class: "n", field: "Crops, beasts and growing things", gloss: "a lotus"}
     - form: ambeja
       class: "n"
@@ -561,6 +575,7 @@ data:
       class: "n"
       field: "Kin, household and the person"
       gloss: "a mother; the mistress of a house"
+      concept: mother
     - form: dasu
       class: "n"
       field: "Kin, household and the person"
@@ -587,21 +602,32 @@ data:
       field: "Kin, household and the person"
       gloss: "increase, prosperity"
     - {form: ravha, class: "n", field: "Kin, household and the person", gloss: "a cry, a voice"}
-    - {form: tobu, class: "n", field: "Kin, household and the person", gloss: "a father"}
+    - form: tobu
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "a father"
+      concept: father
     - form: kema
       class: "n"
       field: "Kin, household and the person"
       gloss: "a son; a boy of the house"
+      concept: son
     - form: kemri
       class: "n"
       field: "Kin, household and the person"
       gloss: "a daughter"
+      concept: daughter
       built: [kema, "-i"]
-    - {form: bhaul, class: "n", field: "Kin, household and the person", gloss: "a brother"}
+    - form: bhaul
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "a brother"
+      concept: brother
     - form: bhauli
       class: "n"
       field: "Kin, household and the person"
       gloss: "a sister"
+      concept: sister
       built: [bhaul, "-i"]
     - {form: stovira, class: "n", field: "Kin, household and the person", gloss: "an elder"}
     - form: kobala
@@ -610,16 +636,40 @@ data:
       gloss: "a household, the hearth and those who eat at it"
     - {form: nipra, class: "n", field: "Kin, household and the person", gloss: "a bride"}
     - {form: vandra, class: "n", field: "Kin, household and the person", gloss: "a bridegroom"}
-    - {form: lam, class: "n", field: "Kin, household and the person", gloss: "a child, an infant"}
+    - form: lam
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "a child, an infant"
+      concept: child
     - {form: hetka, class: "n", field: "Kin, household and the person", gloss: "an heir"}
-    - {form: nusha, class: "n", field: "Kin, household and the person", gloss: "a widow"}
+    - form: nusha
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "a widow"
+      concept: widow
     - {form: etka, class: "n", field: "Kin, household and the person", gloss: "kin, kindred"}
     - {form: atki, class: "n", field: "Kin, household and the person", gloss: "a guest"}
     - {form: kholu, class: "n", field: "Kin, household and the person", gloss: "the body"}
-    - {form: daim, class: "n", field: "Kin, household and the person", gloss: "the heart"}
-    - {form: pomba, class: "n", field: "Kin, household and the person", gloss: "a hand"}
-    - {form: diku, class: "n", field: "Kin, household and the person", gloss: "an eye"}
-    - {form: shoru, class: "n", field: "Kin, household and the person", gloss: "blood"}
+    - form: daim
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "the heart"
+      concept: heart
+    - form: pomba
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "a hand"
+      concept: hand
+    - form: diku
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "an eye"
+      concept: eye
+    - form: shoru
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "blood"
+      concept: blood
     - {form: tirma, class: "n", field: "Kin, household and the person", gloss: "a name"}
     - form: tarona
       class: "n"
@@ -827,7 +877,11 @@ data:
     - {form: kamva, class: "n", field: "Gods, rites and the temple", gloss: "love, desire"}
     - {form: jayra, class: "n", field: "Gods, rites and the temple", gloss: "victory"}
     - {form: jnena, class: "n", field: "Gods, rites and the temple", gloss: "knowledge"}
-    - {form: agmi, class: "n", field: "Gods, rites and the temple", gloss: "fire, the flame"}
+    - form: agmi
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "fire, the flame"
+      concept: fire
     - {form: bhosma, class: "n", field: "Gods, rites and the temple", gloss: "ash"}
     - {form: "dah-", class: v, field: "Gods, rites and the temple", gloss: "burn"}
     - form: dahona
@@ -846,16 +900,21 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a lamp"
+      concept: lamp
       built: [jvel, "-ka"]
     - {form: svopna, class: "n", field: "Gods, rites and the temple", gloss: "a dream"}
-    - {form: nidva, class: "n", field: "Gods, rites and the temple", gloss: "sleep"}
+    - form: nidva
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "sleep"
+      concept: sleep-noun
     - form: nidrapala
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a keeper of sleep"
       built: [nidva, palda]
     - {form: sarhi, class: "n", field: "Gods, rites and the temple", gloss: "a follower"}
-    - {form: tre, class: num, field: "Gods, rites and the temple", gloss: "three"}
+    - {form: tre, class: num, field: "Gods, rites and the temple", gloss: "three", concept: three}
     - form: sampradeya
       class: "n"
       field: "Gods, rites and the temple"
@@ -972,8 +1031,13 @@ data:
       class: "n"
       field: "Death, the dead and the ancestors"
       gloss: "an ancestor; the ancestors"
+      concept: ancestor
     - {form: birnu, class: "n", field: "Death, the dead and the ancestors", gloss: "mourning"}
-    - {form: dakta, class: "n", field: "Death, the dead and the ancestors", gloss: "a bone"}
+    - form: dakta
+      class: "n"
+      field: "Death, the dead and the ancestors"
+      gloss: "a bone"
+      concept: bone
     - {form: "dhaush-", class: v, field: "Death, the dead and the ancestors", gloss: "die"}
     - form: shorukshetra
       class: "n"
@@ -1038,7 +1102,11 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "a weaver"
       built: [okhra, "-ka"]
-    - {form: chel, class: "n", field: "Craft, trade and the counting-house", gloss: "cloth"}
+    - form: chel
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cloth"
+      concept: cloth
     - {form: lusha, class: "n", field: "Craft, trade and the counting-house", gloss: "silk"}
     - {form: chorta, class: "n", field: "Craft, trade and the counting-house", gloss: "a dye"}
     - form: sutka
@@ -1049,7 +1117,11 @@ data:
       class: adj
       field: "Craft, trade and the counting-house"
       gloss: "cut, severed"
-    - {form: koda, class: "n", field: "Craft, trade and the counting-house", gloss: "a pot"}
+    - form: koda
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "a pot"
+      concept: pot
     - form: kodin
       class: "n"
       field: "Craft, trade and the counting-house"
@@ -1161,17 +1233,25 @@ data:
     - {form: "pom-", class: v, field: "Doing, going and being", gloss: "give"}
     - {form: "ghum-", class: v, field: "Doing, going and being", gloss: "eat"}
     - {form: "orm-", class: v, field: "Doing, going and being", gloss: "live"}
-    - {form: aisu, class: num, field: Numbers and grammar words, gloss: "one"}
-    - {form: birsa, class: num, field: Numbers and grammar words, gloss: "two"}
-    - {form: sotra, class: num, field: Numbers and grammar words, gloss: "four"}
-    - {form: kunsha, class: num, field: Numbers and grammar words, gloss: "five"}
-    - {form: shauka, class: num, field: Numbers and grammar words, gloss: "six"}
-    - {form: netu, class: num, field: Numbers and grammar words, gloss: "seven"}
-    - {form: daum, class: num, field: Numbers and grammar words, gloss: "eight"}
-    - {form: jaum, class: num, field: Numbers and grammar words, gloss: "nine"}
-    - {form: teska, class: num, field: Numbers and grammar words, gloss: "ten"}
-    - {form: golsa, class: num, field: Numbers and grammar words, gloss: "a hundred"}
-    - {form: mursha, class: num, field: Numbers and grammar words, gloss: "a thousand"}
+    - {form: aisu, class: num, field: Numbers and grammar words, gloss: "one", concept: one}
+    - {form: birsa, class: num, field: Numbers and grammar words, gloss: "two", concept: two}
+    - {form: sotra, class: num, field: Numbers and grammar words, gloss: "four", concept: four}
+    - {form: kunsha, class: num, field: Numbers and grammar words, gloss: "five", concept: five}
+    - {form: shauka, class: num, field: Numbers and grammar words, gloss: "six", concept: six}
+    - {form: netu, class: num, field: Numbers and grammar words, gloss: "seven", concept: seven}
+    - {form: daum, class: num, field: Numbers and grammar words, gloss: "eight", concept: eight}
+    - {form: jaum, class: num, field: Numbers and grammar words, gloss: "nine", concept: nine}
+    - {form: teska, class: num, field: Numbers and grammar words, gloss: "ten", concept: ten}
+    - form: golsa
+      class: num
+      field: Numbers and grammar words
+      gloss: "a hundred"
+      concept: hundred
+    - form: mursha
+      class: num
+      field: Numbers and grammar words
+      gloss: "a thousand"
+      concept: thousand
     - form: teskamursha
       class: num
       field: Numbers and grammar words

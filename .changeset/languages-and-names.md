@@ -13,3 +13,4 @@
 - Vylari gains some ninety words, among them the senses, the passions and four kinds of love, and its grammar page sets out its plurals, its six present forms, "of", time words and "let, must, may and can".
 - Vylari is stressed by the pronunciation guide's rule, and its third-person verbs end in _-zor_: _lokazor_, _falvazor_, _yarezor_.
 - Vylari has words for "perhaps", "truth" and "truly" (_zikai_, _varelza_, _varlai_), and the Morning Call and the Second Reading turn on _zikai_, the word that marks a thing as only alleged.
+- The setting lists the core words every human language covers: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.

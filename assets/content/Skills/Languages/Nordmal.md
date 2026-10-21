@@ -6,6 +6,7 @@ subType: language
 description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms, bending its vowels with every fjord."
 tags: []
 data:
+  core: true
   abbreviation: Nord.
   icon: icon-speaking
   templatePriority: null
@@ -583,8 +584,9 @@ data:
       class: "n"
       field: "The body and the grave"
       gloss: "a bone"
+      concept: bone
       built: ["marv-"]
-    - {form: "vrell", class: "n", field: "The body and the grave", gloss: "blood"}
+    - {form: "vrell", class: "n", field: "The body and the grave", gloss: "blood", concept: blood}
     - {form: "hnoll", class: "n", field: "The body and the grave", gloss: "a skull"}
     - form: "dvern"
       class: "n"
@@ -948,7 +950,7 @@ data:
       class: "stem"
       field: "Name elements"
       gloss: "an oath sworn at a spear-point"
-    - {form: "eld-", class: "stem", field: "Name elements", gloss: "fire"}
+    - {form: "eld-", class: "stem", field: "Name elements", gloss: "fire", concept: fire}
     - {form: "flom-", class: "stem", field: "Name elements", gloss: "blubber"}
     - {form: "folm-", class: "stem", field: "Name elements", gloss: "sickness"}
     - {form: "fosk-", class: "stem", field: "Name elements", gloss: "ash, what a fire leaves"}
@@ -963,7 +965,11 @@ data:
     - {form: "glúd-", class: "stem", field: "Name elements", gloss: "a day"}
     - {form: "gnúm-", class: "stem", field: "Name elements", gloss: "a clay pot"}
     - {form: "grím-", class: "stem", field: "Name elements", gloss: "a mask"}
-    - {form: "gron-", class: "stem", field: "Name elements", gloss: "green, and growing"}
+    - form: "gron-"
+      class: "stem"
+      field: "Name elements"
+      gloss: "green, and growing"
+      concept: green
     - {form: "gull-", class: "stem", field: "Name elements", gloss: "gold"}
     - {form: "geldr-", class: "stem", field: "Name elements", gloss: "a praise-poem"}
     - {form: "haf-", class: "stem", field: "Name elements", gloss: "the open sea"}
@@ -972,14 +978,14 @@ data:
     - {form: "heims-", class: "stem", field: "Name elements", gloss: "the world's"}
     - {form: "hers-", class: "stem", field: "Name elements", gloss: "a host under arms"}
     - {form: "hirv-", class: "stem", field: "Name elements", gloss: "a king's household troop"}
-    - {form: "hlom-", class: "stem", field: "Name elements", gloss: "gray"}
+    - {form: "hlom-", class: "stem", field: "Name elements", gloss: "gray", concept: grey}
     - {form: "hnell-", class: "stem", field: "Name elements", gloss: "steel"}
     - {form: "hnerv-", class: "stem", field: "Name elements", gloss: "a refrain"}
     - {form: "hnoll-", class: "stem", field: "Name elements", gloss: "a skull"}
     - {form: "hnúr-", class: "stem", field: "Name elements", gloss: "a lament"}
     - {form: "hovs-", class: "stem", field: "Name elements", gloss: "belonging to a hov"}
     - {form: "hofud-", class: "stem", field: "Name elements", gloss: "the head of a body of men"}
-    - {form: "hond-", class: "stem", field: "Name elements", gloss: "a hand"}
+    - {form: "hond-", class: "stem", field: "Name elements", gloss: "a hand", concept: hand}
     - {form: "hrafn-", class: "stem", field: "Name elements", gloss: "a raven"}
     - {form: "hrend-", class: "stem", field: "Name elements", gloss: "a boundary marker"}
     - {form: "hrím-", class: "stem", field: "Name elements", gloss: "rime"}
@@ -1003,7 +1009,7 @@ data:
       class: "stem"
       field: "Name elements"
       gloss: "a standard carried in battle"
-    - {form: "merv-", class: "stem", field: "Name elements", gloss: "a bone"}
+    - {form: "merv-", class: "stem", field: "Name elements", gloss: "a bone", concept: bone}
     - form: "minni-"
       class: "stem"
       field: "Name elements"
@@ -1038,7 +1044,7 @@ data:
     - {form: "stein-", class: "stem", field: "Name elements", gloss: "stone"}
     - {form: "stórald-", class: "stem", field: "Name elements", gloss: "a saga"}
     - {form: "storm-", class: "stem", field: "Name elements", gloss: "a storm"}
-    - {form: "svart-", class: "stem", field: "Name elements", gloss: "black"}
+    - {form: "svart-", class: "stem", field: "Name elements", gloss: "black", concept: black}
     - {form: "sveld-", class: "stem", field: "Name elements", gloss: "a seat"}
     - {form: "svelth-", class: "stem", field: "Name elements", gloss: "death"}
     - form: "tal-"
@@ -1053,12 +1059,12 @@ data:
     - {form: "tvelg-", class: "stem", field: "Name elements", gloss: "a remnant"}
     - {form: "úlf-", class: "stem", field: "Name elements", gloss: "a wolf"}
     - {form: "val-", class: "stem", field: "Name elements", gloss: "the slain"}
-    - {form: "vatn-", class: "stem", field: "Name elements", gloss: "water"}
+    - {form: "vatn-", class: "stem", field: "Name elements", gloss: "water", concept: water}
     - {form: "vél-", class: "stem", field: "Name elements", gloss: "a wile"}
     - {form: "vetr-", class: "stem", field: "Name elements", gloss: "winter"}
     - {form: "víg-", class: "stem", field: "Name elements", gloss: "a battle joined"}
     - {form: "vorn-", class: "stem", field: "Name elements", gloss: "a defense held"}
-    - {form: "vrell-", class: "stem", field: "Name elements", gloss: "blood"}
+    - {form: "vrell-", class: "stem", field: "Name elements", gloss: "blood", concept: blood}
     - {form: "vuld-", class: "stem", field: "Name elements", gloss: "grain"}
     - form: "bandlagshringr"
       class: "n"

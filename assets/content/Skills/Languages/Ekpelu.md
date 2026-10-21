@@ -6,6 +6,7 @@ subType: language
 description: "The common tongue of the forest peoples of central Zerathia: small, open and unwritten, spoken with a different accent and a different word for the sacred by each of the four traditions."
 tags: []
 data:
+  core: true
   abbreviation: Ekp.
   fields:
     - name: The people and the bands
@@ -51,7 +52,12 @@ data:
       field: The people and the bands
       gloss: "a person, one of the people"
       tones: HL
-    - {form: sepo, class: "n", field: The people and the bands, gloss: "a child", tones: LH}
+    - form: sepo
+      class: "n"
+      field: The people and the bands
+      gloss: "a child"
+      tones: LH
+      concept: child
     - form: dumo
       class: "n"
       field: The people and the bands
@@ -66,11 +72,13 @@ data:
       class: "n"
       field: The people and the bands
       gloss: "a fire, the fire a band eats at"
+      concept: fire
       tones: LL
     - form: gbulu
       class: "n"
       field: The people and the bands
       gloss: "an ancestor, one of the dead who are still spoken to"
+      concept: ancestor
       tones: HL
     - form: tolu
       class: "n"

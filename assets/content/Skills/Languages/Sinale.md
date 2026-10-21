@@ -77,12 +77,21 @@ data:
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "gold, sun-coloured"
-    - {form: helti, class: adj, field: "Light, stars, sky and the hours", gloss: "white"}
-    - {form: olsel, class: adj, field: "Light, stars, sky and the hours", gloss: "grey"}
+    - form: helti
+      class: adj
+      field: "Light, stars, sky and the hours"
+      gloss: "white"
+      concept: white
+    - form: olsel
+      class: adj
+      field: "Light, stars, sky and the hours"
+      gloss: "grey"
+      concept: grey
     - form: ikkessa
       class: adj
       field: "Light, stars, sky and the hours"
       gloss: "blue, the colour of the high sky"
+      concept: blue
     - {form: ylpe, class: "n", field: "Light, stars, sky and the hours", gloss: "the high air"}
     - {form: seippe, class: "n", field: "Light, stars, sky and the hours", gloss: "a high cloud"}
     - {form: irikka, class: "n", field: "Light, stars, sky and the hours", gloss: "the rainbow"}
@@ -193,7 +202,11 @@ data:
     - {form: sulme, class: "n", field: "Water, weather and the seasons", gloss: "the first thaw"}
     - {form: liseri, class: "n", field: "Water, weather and the seasons", gloss: "still water"}
     - {form: telvi, class: "n", field: "Water, weather and the seasons", gloss: "the falling drop"}
-    - {form: melke, class: "n", field: "Water, weather and the seasons", gloss: "water"}
+    - form: melke
+      class: "n"
+      field: "Water, weather and the seasons"
+      gloss: "water"
+      concept: water
     - {form: ravatto, class: n, field: "Water, weather and the seasons", gloss: "rain"}
     - {form: nyke, class: n, field: "Water, weather and the seasons", gloss: "snow"}
     - {form: isketti, class: "n", field: "Water, weather and the seasons", gloss: "ice"}
@@ -352,7 +365,11 @@ data:
     - {form: lirna, class: "n", field: "Trees, plants and the living wood", gloss: "a vine"}
     - {form: alpes, class: "n", field: "Trees, plants and the living wood", gloss: "sap"}
     - {form: lirta, class: v, field: "Trees, plants and the living wood", gloss: "grow"}
-    - {form: valsai, class: adj, field: "Trees, plants and the living wood", gloss: "green"}
+    - form: valsai
+      class: adj
+      field: "Trees, plants and the living wood"
+      gloss: "green"
+      concept: green
     - form: kalpikko
       class: "n"
       field: "Trees, plants and the living wood"
@@ -887,10 +904,12 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a hand"
+      concept: hand
     - form: tirel
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a finger"
+      concept: finger
     - form: virnis
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -903,6 +922,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a knife"
+      concept: knife
     - form: hyrke
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -939,6 +959,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "fire"
+      concept: fire
     - form: selta
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -947,6 +968,7 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a cup"
+      concept: cup
     - form: tolka
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -1007,10 +1029,12 @@ data:
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a wall"
+      concept: wall
     - form: ovaikke
       class: "n"
       field: "Craft: weaving, wood-shaping, healing and the hand"
       gloss: "a door"
+      concept: door
     - form: vaissa
       class: v
       field: "Craft: weaving, wood-shaping, healing and the hand"
@@ -1107,11 +1131,28 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a hearth"
-    - {form: velpis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a home"}
+      concept: hearth
+    - form: velpis
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a home"
+      concept: abode
     - {form: ninte, class: "n", field: "Kin, hearth, the person and the body", gloss: "a house"}
-    - {form: ennakke, class: "n", field: "Kin, hearth, the person and the body", gloss: "a mother"}
-    - {form: hauttel, class: "n", field: "Kin, hearth, the person and the body", gloss: "a father"}
-    - {form: nysse, class: "n", field: "Kin, hearth, the person and the body", gloss: "a child"}
+    - form: ennakke
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a mother"
+      concept: mother
+    - form: hauttel
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a father"
+      concept: father
+    - form: nysse
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a child"
+      concept: child
     - form: maldika
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -1130,22 +1171,78 @@ data:
     - {form: yemi, class: adj, field: "Kin, hearth, the person and the body", gloss: "young"}
     - {form: voonu, class: adj, field: "Kin, hearth, the person and the body", gloss: "old"}
     - {form: ramme, class: "n", field: "Kin, hearth, the person and the body", gloss: "a body"}
-    - {form: pauttes, class: "n", field: "Kin, hearth, the person and the body", gloss: "a head"}
-    - {form: tylte, class: "n", field: "Kin, hearth, the person and the body", gloss: "an eye"}
-    - {form: lenkase, class: "n", field: "Kin, hearth, the person and the body", gloss: "an ear"}
-    - {form: aumel, class: "n", field: "Kin, hearth, the person and the body", gloss: "a mouth"}
+    - form: pauttes
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a head"
+      concept: head
+    - form: tylte
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "an eye"
+      concept: eye
+    - form: lenkase
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "an ear"
+      concept: ear
+    - form: aumel
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a mouth"
+      concept: mouth
     - {form: lalke, class: "n", field: "Kin, hearth, the person and the body", gloss: "a tongue"}
-    - {form: intis, class: "n", field: "Kin, hearth, the person and the body", gloss: "a heart"}
-    - {form: hautte, class: n, field: "Kin, hearth, the person and the body", gloss: "blood"}
-    - {form: sorpe, class: "n", field: "Kin, hearth, the person and the body", gloss: "a bone"}
-    - {form: vessita, class: "n", field: "Kin, hearth, the person and the body", gloss: "skin"}
-    - {form: lirsa, class: n, field: "Kin, hearth, the person and the body", gloss: "hair"}
-    - {form: heëve, class: "n", field: "Kin, hearth, the person and the body", gloss: "breath"}
-    - {form: nerve, class: "n", field: "Kin, hearth, the person and the body", gloss: "a face"}
-    - {form: pauren, class: "n", field: "Kin, hearth, the person and the body", gloss: "a foot"}
-    - {form: naukki, class: v, field: "Kin, hearth, the person and the body", gloss: "sleep"}
+    - form: intis
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a heart"
+      concept: heart
+    - form: hautte
+      class: n
+      field: "Kin, hearth, the person and the body"
+      gloss: "blood"
+      concept: blood
+    - form: sorpe
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a bone"
+      concept: bone
+    - form: vessita
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "skin"
+      concept: skin
+    - form: lirsa
+      class: n
+      field: "Kin, hearth, the person and the body"
+      gloss: "hair"
+      concept: hair
+    - form: heëve
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "breath"
+      concept: breath
+    - form: nerve
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a face"
+      concept: face
+    - form: pauren
+      class: "n"
+      field: "Kin, hearth, the person and the body"
+      gloss: "a foot"
+      concept: foot
+    - form: naukki
+      class: v
+      field: "Kin, hearth, the person and the body"
+      gloss: "sleep"
+      concept: sleep-noun
     - {form: mairel, class: v, field: "Kin, hearth, the person and the body", gloss: "eat"}
-    - {form: leval, class: v, field: "Kin, hearth, the person and the body", gloss: "drink"}
+    - form: leval
+      class: v
+      field: "Kin, hearth, the person and the body"
+      gloss: "drink"
+      concept: drink-noun
     - {form: neëre, class: v, field: "Kin, hearth, the person and the body", gloss: "love"}
     - form: rontatti
       class: "n"
@@ -1156,6 +1253,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "an ancestor, one of a hearth's first"
+      concept: ancestor
     - form: tultasi
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -1203,6 +1301,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "friendship"
+      concept: love-philia
       built: [ansekki, "-rsa"]
     - form: ellevirsa
       class: "n"
@@ -1218,6 +1317,7 @@ data:
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "a bed, a sleeping place"
+      concept: bed
       built: [naukki, "-sto"]
     - form: voonursa
       class: "n"
@@ -1344,6 +1444,7 @@ data:
       class: "n"
       field: "Time: age, season, waiting and the long view"
       gloss: "hope, the waiting that expects"
+      concept: hope
     - form: ennos
       class: part
       field: "Time: age, season, waiting and the long view"
@@ -1789,6 +1890,7 @@ data:
       class: "n"
       field: "Motion, rest and being"
       gloss: "sight"
+      concept: see-noun
       built: [yinse, "-rse"]
     - form: ernirsa
       class: "n"
@@ -1856,46 +1958,57 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "many"
+      concept: many
     - form: ilte
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "one"
+      concept: one
     - form: sipes
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "two"
+      concept: two
     - form: kevu
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "three"
+      concept: three
     - form: pemi
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "four"
+      concept: four
     - form: letta
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "five"
+      concept: five
     - form: louti
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "six"
+      concept: six
     - form: ilpe
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "seven"
+      concept: seven
     - form: lerre
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "eight"
+      concept: eight
     - form: tumi
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "nine"
+      concept: nine
     - form: tova
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "ten"
+      concept: ten
     - form: ilto
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
@@ -1904,6 +2017,7 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "twenty"
+      concept: twenty
     - form: movi
       class: pron
       field: "Grammar words: pronouns, particles, numbers and pointing words"
@@ -1976,6 +2090,7 @@ data:
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"
       gloss: "few"
+      concept: few
     - form: ervu
       class: num
       field: "Grammar words: pronouns, particles, numbers and pointing words"

@@ -6,6 +6,7 @@ subType: language
 description: "The unwritten tongue of the Vristwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
 tags: []
 data:
+  core: true
   abbreviation: Var.
   icon: icon-speaking
   templatePriority: null
@@ -392,7 +393,7 @@ data:
       class: "n"
       field: "Kept words"
       gloss: "an ancestor spirit addressed through the village's totem"
-    - {form: "blud", class: "n", field: "Kept words", gloss: "blood"}
+    - {form: "blud", class: "n", field: "Kept words", gloss: "blood", concept: blood}
     - {form: "tusk", class: "n", field: "Kept words", gloss: "a tusk"}
     - {form: "barsk", class: "n", field: "Kept words", gloss: "a boar"}
     - {form: "dask", class: "n", field: "Animal words", gloss: "badger"}
@@ -465,6 +466,7 @@ data:
       class: "n"
       field: "The reciters' stock"
       gloss: "an ancestor, one of the remembered dead"
+      concept: ancestor
     - form: "weskgrund"
       class: "n"
       field: "The reciters' stock"
@@ -548,11 +550,13 @@ data:
       class: "n"
       field: "The reciters' stock"
       gloss: "a son, the younger of the holding"
+      concept: son
       built: ["óth-", "-lin"]
     - form: "othwa"
       class: "n"
       field: "The reciters' stock"
       gloss: "a daughter, a woman born to the holding"
+      concept: daughter
       built: ["óth-", "-wa"]
     - form: "othrún"
       class: "n"
@@ -563,8 +567,13 @@ data:
       class: "n"
       field: "The reciters' stock"
       gloss: "a brother, a kinsman within the kindred's peace"
+      concept: brother
       built: ["frith-", "-win"]
-    - {form: "frithwina", class: "n", field: "The reciters' stock", gloss: "a sister"}
+    - form: "frithwina"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "a sister"
+      concept: sister
     - form: Vristrith
       class: name
       field: Standing words

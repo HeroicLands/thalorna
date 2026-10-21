@@ -161,21 +161,19 @@ WITH peoples AS (
   FROM notes n
   WHERE n.type = 'affiliation' AND n.subType = 'polity'
 )
--- `offices` is read as a MAP because the corpus carries more than two hundred
--- distinct office keys, which is the threshold above which a JSON object is
--- inferred as a map rather than a struct. Consolidating the office vocabulary
--- below that count flips the column to a struct and `map_entries` stops binding,
--- which fails the build rather than emptying the table.
+-- `offices` is keyed by office, so it is read through `json_each`, which walks
+-- an object's keys whether the column is typed as a struct or a map.
 SELECT p.people AS _section,
-       e.key    AS "Office",
+       j.key    AS "Office",
        coalesce(
-           nullif(regexp_extract(min(e.value), '^(.*?[.!?])(\s|$)', 1), ''),
-           min(e.value)
+           nullif(regexp_extract(min(j.value->>'$'), '^(.*?[.!?])(\s|$)', 1), ''),
+           min(j.value->>'$')
        )        AS "What it is"
-FROM peoples p, unnest(map_entries(p.data.governance.offices)) AS t(e)
+FROM peoples p, json_each(to_json(p.data.governance.offices)) AS j
 WHERE p.people IS NOT NULL
-GROUP BY p.people, e.key
-ORDER BY p.people, e.key COLLATE NOCASE
+  AND json_type(j.value) = 'VARCHAR'
+GROUP BY p.people, j.key
+ORDER BY p.people, j.key COLLATE NOCASE
 ```
 
 ## Reading the tables

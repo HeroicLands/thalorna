@@ -6,6 +6,7 @@ subType: language
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
 tags: []
 data:
+  core: true
   family: skill-vylarilng
   abbreviation: Tarv.
   classModifiers: [m, f, "n"]
@@ -245,6 +246,7 @@ data:
       class: n m
       field: The company and the trade of arms
       gloss: "a wall"
+      concept: wall
       source: {kind: worn, form: kembothos}
     - form: brutha
       class: n f
@@ -275,17 +277,25 @@ data:
       class: n m
       field: The household
       gloss: "a brother"
+      concept: brother
       source: {kind: worn, form: semrothos}
-    - {form: sembra, class: n f, field: The household, gloss: "a sister", source: {kind: worn}}
+    - form: sembra
+      class: n f
+      field: The household
+      gloss: "a sister"
+      source: {kind: worn}
+      concept: sister
     - form: nur
       class: n n
       field: The household
       gloss: "a child"
+      concept: child
       source: {kind: worn, form: nurizon}
     - form: kambo
       class: n m
       field: The household
       gloss: "a husband"
+      concept: husband
       source: {kind: worn, form: kambethos}
     - form: kamza
       class: n f
@@ -848,6 +858,7 @@ data:
       class: n f
       field: "Land, the high country and the weather"
       gloss: "water"
+      concept: water
       source: {kind: worn}
     - form: lizel
       class: n f
@@ -863,6 +874,7 @@ data:
       class: n f
       field: "The body, life and death"
       gloss: "blood"
+      concept: blood
       source: {kind: worn, form: brudhamis}
     - form: irtho
       class: n n
@@ -883,6 +895,7 @@ data:
       class: v
       field: "The body, life and death"
       gloss: "to die"
+      concept: die
       source: {kind: worn}
     - form: dembro
       class: n n
@@ -1005,6 +1018,7 @@ data:
       class: v
       field: Craft and the forge
       gloss: "to make"
+      concept: make
       source: {kind: inherited}
     - form: tambando
       class: n n
@@ -1015,6 +1029,7 @@ data:
       class: v
       field: "Speech, song and the learned"
       gloss: "to speak"
+      concept: speak
       source: {kind: inherited}
     - form: dokme
       class: n n
@@ -1065,6 +1080,7 @@ data:
       class: v
       field: "Speech, song and the learned"
       gloss: "to know"
+      concept: know
       source: {kind: inherited}
     - form: thórdima
       class: n f
@@ -1170,6 +1186,7 @@ data:
       class: n f
       field: "Towns, holdings and the road"
       gloss: "a lamp"
+      concept: lamp
       source: {kind: worn}
     - form: paltho
       class: n f
@@ -1292,26 +1309,31 @@ data:
       class: adj
       field: Qualities
       gloss: "white"
+      concept: white
       source: {kind: worn, form: iltheros}
     - form: thal
       class: adj
       field: Qualities
       gloss: "red"
+      concept: red
       source: {kind: worn, form: thaluros}
     - form: lokad
       class: v
       field: "Doing, going and being"
       gloss: "to come"
+      concept: come
       source: {kind: inherited}
     - form: tigad
       class: v
       field: "Doing, going and being"
       gloss: "to go"
+      concept: go
       source: {kind: inherited}
     - form: oked
       class: v
       field: "Doing, going and being"
       gloss: "to see"
+      concept: see-verb
       source: {kind: inherited}
     - form: vagad
       class: v
@@ -1322,6 +1344,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to give"
+      concept: give
       source: {kind: inherited}
     - form: lozed
       class: v
@@ -1332,6 +1355,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to sit"
+      concept: sit
       source: {kind: inherited}
     - form: nembed
       class: v
@@ -1357,31 +1381,37 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to live"
+      concept: live
       source: {kind: inherited}
     - form: tavre
       class: num
       field: Numbers and grammar words
       gloss: "two"
+      concept: two
       source: {kind: worn, form: tawemer}
     - form: helza
       class: num
       field: Numbers and grammar words
       gloss: "four"
+      concept: four
       source: {kind: worn, form: felzur}
     - form: olmi
       class: num
       field: Numbers and grammar words
       gloss: "five"
+      concept: five
       source: {kind: worn, form: yolemiks}
     - form: neth
       class: num
       field: Numbers and grammar words
       gloss: "seven"
+      concept: seven
       source: {kind: worn, form: ranethur}
     - form: zorma
       class: num
       field: Numbers and grammar words
       gloss: "eight"
+      concept: eight
       source: {kind: worn}
     - form: dorke
       class: num
@@ -1392,6 +1422,7 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
+      concept: thousand
       source: {kind: worn}
     - form: en
       class: pron

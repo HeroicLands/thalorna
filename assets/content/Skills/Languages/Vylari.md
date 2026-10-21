@@ -6,6 +6,7 @@ subType: language
 description: "The imperial tongue of the Vylarian court and, as the Vylarians hold it, the language of learning, government, the arcane and the university system in the empire and the lands that look to it."
 tags: []
 data:
+  core: true
   abbreviation: Vyl.
   classModifiers: [m, f, "n"]
   emphasis: words
@@ -358,17 +359,20 @@ data:
       class: n n
       field: The hallowed and the gods
       gloss: "faith; trust; the holding of a thing true"
+      concept: faith
       source: {kind: coined}
     - form: ulthnethoron
       class: n n
       field: The hallowed and the gods
       gloss: "agape; selfless love, given to others or to the gods without asking a return"
+      concept: love-agape
       source: {kind: coined}
       built: ["ulth-", nethoron]
     - form: kalmethar
       class: n m
       field: "Ancestors, the house and the name"
       gloss: "an ancestor; one of the dead a house still counts"
+      concept: ancestor
       source: {kind: inherited}
     - form: lavura
       class: n f
@@ -406,46 +410,55 @@ data:
       class: n m
       field: "Ancestors, the house and the name"
       gloss: "a father"
+      concept: father
       source: {kind: inherited}
     - form: mezara
       class: n f
       field: "Ancestors, the house and the name"
       gloss: "a mother"
+      concept: mother
       source: {kind: inherited, form: medhara}
     - form: nurethos
       class: n m
       field: "Ancestors, the house and the name"
       gloss: "a son"
+      concept: son
       source: {kind: inherited}
     - form: nuretha
       class: n f
       field: "Ancestors, the house and the name"
       gloss: "a daughter"
+      concept: daughter
       source: {kind: inherited}
     - form: semrothos
       class: n m
       field: "Ancestors, the house and the name"
       gloss: "a brother"
+      concept: brother
       source: {kind: inherited}
     - form: semrotha
       class: n f
       field: "Ancestors, the house and the name"
       gloss: "a sister"
+      concept: sister
       source: {kind: inherited}
     - form: nurizon
       class: n n
       field: "Ancestors, the house and the name"
       gloss: "a child; a person not yet of age, and in law not yet a person"
+      concept: child
       source: {kind: inherited}
     - form: kambetha
       class: n f
       field: "Ancestors, the house and the name"
       gloss: "a wife; a woman married into a household"
+      concept: wife
       source: {kind: inherited}
     - form: kambethos
       class: n m
       field: "Ancestors, the house and the name"
       gloss: "a husband"
+      concept: husband
       source: {kind: inherited}
     - form: kondamos
       class: n m
@@ -511,6 +524,7 @@ data:
       plural: sorethar
       field: "Ancestors, the house and the name"
       gloss: "storge; the love of family, of parent and child"
+      concept: love-storge
       source: {kind: coined}
     - form: zirothos
       class: n m
@@ -688,12 +702,14 @@ data:
       class: n f
       field: "Precedence, patronage and what is owed"
       gloss: "pride; honor a person claims for himself"
+      concept: pride
       source: {kind: coined}
       built: ["veth-", velda]
     - form: vethdokemon
       class: n n
       field: "Precedence, patronage and what is owed"
       gloss: "boasting; a boast; a speech made in one's own praise"
+      concept: boasting
       source: {kind: coined}
       built: ["veth-", dokemon]
     - form: holvethon
@@ -701,6 +717,7 @@ data:
       plural: holvethar
       field: "Precedence, patronage and what is owed"
       gloss: "philia; the affection of friends; the bond of companions"
+      concept: love-philia
       source: {kind: coined}
     - form: vornon
       class: n n
@@ -1249,6 +1266,7 @@ data:
       class: n m
       field: The legions and the frontier
       gloss: "a wall; a city's wall or a fort's"
+      concept: wall
       source: {kind: inherited}
     - form: kalpeza
       class: n f
@@ -1377,6 +1395,7 @@ data:
       class: adj
       field: The legions and the frontier
       gloss: "second; next in rank"
+      concept: second
       source: {kind: inherited}
     - form: yalmeza
       class: n f
@@ -1449,6 +1468,7 @@ data:
       class: n f
       field: "The city: stone, water and the street"
       gloss: "water"
+      concept: water
       source: {kind: inherited}
     - form: ulmerpozera
       class: n f
@@ -1531,6 +1551,7 @@ data:
       class: n f
       field: "The city: stone, water and the street"
       gloss: "a lamp; a cold-fire lamp of the Arcane Order"
+      concept: lamp
       source: {kind: inherited}
     - form: selkora
       class: n f
@@ -1679,6 +1700,7 @@ data:
       class: v
       field: "Craft, guild and the kept secret"
       gloss: "to make; to do"
+      concept: make
       source: {kind: inherited}
     - form: tambandon
       class: n n
@@ -1854,6 +1876,7 @@ data:
       class: n f
       field: "Coin, trade and the counting-table"
       gloss: "greed; the want of more than a thing is worth"
+      concept: greed
       source: {kind: coined}
     - form: yormalis
       class: n f
@@ -2160,16 +2183,19 @@ data:
       class: n m
       field: "The body, life and death"
       gloss: "a head"
+      concept: head
       source: {kind: inherited}
     - form: yenthamis
       class: n f
       field: "The body, life and death"
       gloss: "a face"
+      concept: face
       source: {kind: inherited}
     - form: dekazu
       class: n m
       field: "The body, life and death"
       gloss: "a hand; also the power a master holds over a person"
+      concept: hand
       source: {kind: inherited}
     - form: holdekazu
       class: n m
@@ -2181,16 +2207,19 @@ data:
       class: n m
       field: "The body, life and death"
       gloss: "an eye"
+      concept: eye
       source: {kind: inherited}
     - form: nethora
       class: n f
       field: "The body, life and death"
       gloss: "a heart"
+      concept: heart
       source: {kind: inherited}
     - form: bruzamis
       class: n f
       field: "The body, life and death"
       gloss: "blood"
+      concept: blood
       source: {kind: inherited, form: brudhamis}
     - form: sirema
       class: n f
@@ -2267,65 +2296,77 @@ data:
       class: n f
       field: "The body, life and death"
       gloss: "a smell; a scent"
+      concept: smell-noun
       source: {kind: coined}
     - form: okandon
       class: n n
       field: "The body, life and death"
       gloss: "a sight; a thing seen; the look of a thing (okandon ol ulfoi, the sight of fish)"
+      concept: see-noun
       source: {kind: coined}
       built: ["ok-", "-andon"]
     - form: thavandon
       class: n n
       field: "The body, life and death"
       gloss: "a sound; a thing heard"
+      concept: hear-noun
       source: {kind: coined}
       built: ["thav-", "-andon"]
     - form: tirmis
       class: n f
       field: "The body, life and death"
       gloss: "a taste; a flavour (tirmis ol thremuzis, the taste of salt)"
+      concept: taste-noun
       source: {kind: coined}
     - form: tolvis
       class: n f
       field: "The body, life and death"
       gloss: "a touch; the feel of a thing"
+      concept: touch-noun
       source: {kind: coined}
     - form: kremeza
       class: n f
       field: "The body, life and death"
       gloss: "wrath; anger that burns"
+      concept: wrath
       source: {kind: coined}
     - form: thesavon
       class: n n
       field: "The body, life and death"
       gloss: "envy; the want of what another has"
+      concept: envy
       source: {kind: coined}
     - form: orva
       class: n f
       field: "The body, life and death"
       gloss: "hope"
+      concept: hope
       source: {kind: coined}
     - form: anorva
       class: n f
       field: "The body, life and death"
       gloss: "despair; hope given up"
+      concept: despair
       source: {kind: coined}
       built: ["an-", orva]
     - form: nemborva
       class: n f
       field: "The body, life and death"
       gloss: "disappointment; a hope that has fallen"
+      concept: disappointment
       source: {kind: coined}
       built: ["nemb-", orva]
     - form: bruzeza
       class: n f
       field: "The body, life and death"
       gloss: "lust; the want of the body, the heat of the blood"
+      concept: lust
       source: {kind: coined}
     - form: nethoron
       class: n n
       field: "The body, life and death"
       gloss: "romantic love; the love between lovers"
+      concept: love-eros
       source: {kind: coined}
     - form: tharnela
       class: n f
@@ -2429,6 +2470,7 @@ data:
       class: v
       field: "Learning, speech and the letters"
       gloss: "to speak; to say before others"
+      concept: speak
       source: {kind: inherited}
     - form: dokemon
       class: n n
@@ -2560,6 +2602,7 @@ data:
       class: v
       field: "Learning, speech and the letters"
       gloss: "to know"
+      concept: know
       source: {kind: inherited}
     - form: lorezathen
       class: v
@@ -2712,11 +2755,31 @@ data:
       built: ["varel-", "-za"]
     - {form: sethros, class: adj, field: Qualities, gloss: "false", source: {kind: inherited}}
     - {form: zenothos, class: adj, field: Qualities, gloss: "wise", source: {kind: inherited}}
-    - {form: holimos, class: adj, field: Qualities, gloss: "first", source: {kind: inherited}}
+    - form: holimos
+      class: adj
+      field: Qualities
+      gloss: "first"
+      source: {kind: inherited}
+      concept: first
     - {form: orthemos, class: adj, field: Qualities, gloss: "last", source: {kind: inherited}}
-    - {form: iltheros, class: adj, field: Qualities, gloss: "white", source: {kind: inherited}}
-    - {form: kauros, class: adj, field: Qualities, gloss: "black; dark", source: {kind: inherited}}
-    - {form: thaluros, class: adj, field: Qualities, gloss: "red", source: {kind: inherited}}
+    - form: iltheros
+      class: adj
+      field: Qualities
+      gloss: "white"
+      source: {kind: inherited}
+      concept: white
+    - form: kauros
+      class: adj
+      field: Qualities
+      gloss: "black; dark"
+      source: {kind: inherited}
+      concept: black
+    - form: thaluros
+      class: adj
+      field: Qualities
+      gloss: "red"
+      source: {kind: inherited}
+      concept: red
     - {form: ethlos, class: adj, field: Qualities, gloss: "golden", source: {kind: inherited}}
     - form: aithar
       class: adv
@@ -2748,31 +2811,37 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to be"
+      concept: be
       source: {kind: inherited}
     - form: kerathen
       class: v
       field: "Doing, going and being"
       gloss: "to hold; to have"
+      concept: hold
       source: {kind: inherited}
     - form: lokathen
       class: v
       field: "Doing, going and being"
       gloss: "to come"
+      concept: come
       source: {kind: inherited}
     - form: tigathen
       class: v
       field: "Doing, going and being"
       gloss: "to go"
+      concept: go
       source: {kind: inherited}
     - form: okethen
       class: v
       field: "Doing, going and being"
       gloss: "to see"
+      concept: see-verb
       source: {kind: inherited}
     - form: thavithen
       class: v
       field: "Doing, going and being"
       gloss: "to hear"
+      concept: hear-verb
       source: {kind: inherited, form: thawithen}
     - form: vakathen
       class: v
@@ -2783,11 +2852,13 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to give; to grant as a patron grants"
+      concept: give
       source: {kind: inherited}
     - form: kurethen
       class: v
       field: "Doing, going and being"
       gloss: "to take"
+      concept: take
       source: {kind: inherited}
     - form: lozethen
       class: v
@@ -2798,11 +2869,13 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to stand"
+      concept: stand
       source: {kind: inherited}
     - form: ombithen
       class: v
       field: "Doing, going and being"
       gloss: "to sit; to take one's seat in order"
+      concept: sit
       source: {kind: inherited}
     - form: nembethen
       class: v
@@ -2828,6 +2901,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to live"
+      concept: live
       source: {kind: inherited}
     - form: falvathen
       class: v
@@ -2849,6 +2923,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to walk; to pace out a line"
+      concept: walk
       source: {kind: coined}
     - form: lendathen
       class: v
@@ -2859,6 +2934,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to open"
+      concept: open
       source: {kind: coined}
     - form: volzathen
       class: v
@@ -2899,6 +2975,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to want; to desire"
+      concept: want
       source: {kind: coined}
     - form: memrathen
       class: v
@@ -2914,6 +2991,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to close"
+      concept: close
       source: {kind: coined}
       built: ["an-", olmathen]
     - form: anmemrathen
@@ -2943,11 +3021,13 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to smell; to catch the smell of a thing"
+      concept: smell-verb
       source: {kind: coined}
     - form: tirmathen
       class: v
       field: "Doing, going and being"
       gloss: "to taste"
+      concept: taste-verb
       source: {kind: coined}
     - form: tolvathen
       class: v
@@ -2985,51 +3065,61 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "one"
+      concept: one
       source: {kind: inherited}
     - form: tavemer
       class: num
       field: Numbers and grammar words
       gloss: "two"
+      concept: two
       source: {kind: inherited, form: tawemer}
     - form: karzis
       class: num
       field: Numbers and grammar words
       gloss: "three"
+      concept: three
       source: {kind: inherited}
     - form: felzur
       class: num
       field: Numbers and grammar words
       gloss: "four"
+      concept: four
       source: {kind: inherited}
     - form: yolemiks
       class: num
       field: Numbers and grammar words
       gloss: "five"
+      concept: five
       source: {kind: inherited}
     - form: selthur
       class: num
       field: Numbers and grammar words
       gloss: "six"
+      concept: six
       source: {kind: inherited}
     - form: ranethur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
+      concept: seven
       source: {kind: inherited}
     - form: zorimaks
       class: num
       field: Numbers and grammar words
       gloss: "eight"
+      concept: eight
       source: {kind: inherited}
     - form: lukemar
       class: num
       field: Numbers and grammar words
       gloss: "nine"
+      concept: nine
       source: {kind: inherited}
     - form: umbaris
       class: num
       field: Numbers and grammar words
       gloss: "ten"
+      concept: ten
       source: {kind: inherited}
     - form: dorekis
       class: num
@@ -3040,11 +3130,13 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "a hundred"
+      concept: hundred
       source: {kind: inherited, form: kharwelon}
     - form: thambezur
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
+      concept: thousand
       source: {kind: inherited}
     - form: en
       class: pron
@@ -3065,6 +3157,7 @@ data:
       class: pron
       field: Numbers and grammar words
       gloss: "you, many; and to one person, the formal you"
+      concept: many
       source: {kind: inherited}
     - form: vethis
       class: pron
@@ -3216,6 +3309,7 @@ data:
       class: adj
       field: Numbers and grammar words
       gloss: "third"
+      concept: third
       source: {kind: coined}
       built: ["karz-", "-oros"]
     - form: felzoros

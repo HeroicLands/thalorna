@@ -6,6 +6,7 @@ subType: language
 description: "The harbor pidgin of Mídhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
 tags: []
 data:
+  core: true
   abbreviation: Valt.
   fields:
     - name: People of the quay
@@ -107,7 +108,11 @@ data:
       class: "n"
       field: "Ship, sea and road"
       gloss: "a harbor, a port, a port town; Taruzeli _besiku_"
-    - {form: idiro, class: "n", field: "Ship, sea and road", gloss: "water; Helonic _hidhir_"}
+    - form: idiro
+      class: "n"
+      field: "Ship, sea and road"
+      gloss: "water; Helonic _hidhir_"
+      concept: water
     - {form: vidu, class: "n", field: "Ship, sea and road", gloss: "bread; Nordmal _vuld_, grain"}
     - form: durasu
       class: "n"
@@ -123,16 +128,36 @@ data:
       field: "Ship, sea and road"
       gloss: "a road, a route; Helonic _hodis_"
     - {form: norodu, class: "n", field: "Ship, sea and road", gloss: "the north; Aelwythi _nord_"}
-    - {form: lokatu, class: v, field: Doing, gloss: "to come, to go, to arrive; Vylari _lokathen_"}
-    - {form: kusadu, class: v, field: Doing, gloss: "to bring, to carry; Taruzeli _kusad-_"}
+    - form: lokatu
+      class: v
+      field: Doing
+      gloss: "to come, to go, to arrive; Vylari _lokathen_"
+      concept: [come, go]
+    - form: kusadu
+      class: v
+      field: Doing
+      gloss: "to bring, to carry; Taruzeli _kusad-_"
+      concept: bring
     - form: begi
       class: v
       field: Doing
       gloss: "to leave, to put out from shore; Taruzeli _belgin-_"
-    - {form: dorasu, class: v, field: Doing, gloss: "to give, to trade; Helonic _doras-_"}
-    - {form: geniru, class: v, field: Doing, gloss: "to take, to accept; Taruzeli _genir-_"}
+    - form: dorasu
+      class: v
+      field: Doing
+      gloss: "to give, to trade; Helonic _doras-_"
+      concept: give
+    - form: geniru
+      class: v
+      field: Doing
+      gloss: "to take, to accept; Taruzeli _genir-_"
+      concept: take
     - {form: yepalu, class: v, field: Doing, gloss: "to need, must; Vylari _yerpalon_, duty"}
-    - {form: katusu, class: v, field: Doing, gloss: "to hold, to keep, to grip; Taruzeli _qatush_"}
+    - form: katusu
+      class: v
+      field: Doing
+      gloss: "to hold, to keep, to grip; Taruzeli _qatush_"
+      concept: hold
     - form: rusaku
       class: "n"
       field: Doing
@@ -141,6 +166,7 @@ data:
       class: "n"
       field: Doing
       gloss: "a hand, and the skill in it; Helonic _kheirin_"
+      concept: hand
     - form: latara
       class: adj
       field: Describing
@@ -150,11 +176,16 @@ data:
       class: adj
       field: Describing
       gloss: "strong, sound, whole; Taruzeli _temadan_"
+      concept: hear-noun
     - form: sotaru
       class: adj
       field: Describing
       gloss: "safe, secure; Helonic _sotharin_, to save"
-    - {form: pulumu, class: adj, field: Describing, gloss: "many, much; Helonic _plum_, all"}
+    - form: pulumu
+      class: adj
+      field: Describing
+      gloss: "many, much; Helonic _plum_, all"
+      concept: many
     - form: funatu
       class: "n"
       field: Describing
@@ -191,12 +222,36 @@ data:
       class: part
       field: "Asking, time and number"
       gloss: "no, not, among Helonic speakers; Helonic _uf_"
-    - {form: yezu, class: num, field: "Asking, time and number", gloss: "one; Taruzeli _yez_"}
-    - {form: lelor, class: num, field: "Asking, time and number", gloss: "two; Taruzeli _lel_"}
-    - {form: zemu, class: num, field: "Asking, time and number", gloss: "three; Taruzeli _zem_"}
-    - {form: vubu, class: num, field: "Asking, time and number", gloss: "four; Taruzeli _vub_"}
-    - {form: fomul, class: num, field: "Asking, time and number", gloss: "five; Taruzeli _fom_"}
-    - {form: zekoru, class: num, field: "Asking, time and number", gloss: "ten; Helonic _zekhor_"}
+    - form: yezu
+      class: num
+      field: "Asking, time and number"
+      gloss: "one; Taruzeli _yez_"
+      concept: one
+    - form: lelor
+      class: num
+      field: "Asking, time and number"
+      gloss: "two; Taruzeli _lel_"
+      concept: two
+    - form: zemu
+      class: num
+      field: "Asking, time and number"
+      gloss: "three; Taruzeli _zem_"
+      concept: three
+    - form: vubu
+      class: num
+      field: "Asking, time and number"
+      gloss: "four; Taruzeli _vub_"
+      concept: four
+    - form: fomul
+      class: num
+      field: "Asking, time and number"
+      gloss: "five; Taruzeli _fom_"
+      concept: five
+    - form: zekoru
+      class: num
+      field: "Asking, time and number"
+      gloss: "ten; Helonic _zekhor_"
+      concept: ten
     - form: ushador
       class: "n"
       field: Trade names

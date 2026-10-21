@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of the guide-people of the Eastern Reach—unrelated to any lowland family, unwritten, and the one trans-Grazian language a lowlander occasionally learns."
 tags: []
 data:
+  core: true
   abbreviation: Hv.
   fields:
     - name: The people and the house
@@ -29,6 +30,7 @@ data:
       class: "n"
       field: The people and the house
       gloss: "a hearth, a household at one fire"
+      concept: hearth
     - form: douzn
       class: "n"
       field: The people and the house
@@ -52,7 +54,7 @@ data:
       gloss: "a party, those who walk on one rope"
     - {form: rouzn, class: "n", field: The roll, gloss: "the roll of the dead"}
     - {form: hozd, class: "n", field: The roll, gloss: "the place where one of the dead was found"}
-    - {form: dzevd, class: "n", field: The roll, gloss: "a bone"}
+    - {form: dzevd, class: "n", field: The roll, gloss: "a bone", concept: bone}
     - {form: poudz, class: v, field: The roll, gloss: "bring up from below"}
     - {form: zourd, class: v, field: The roll, gloss: "recite, say aloud before the council"}
     - {form: nezn, class: v, field: The roll, gloss: "read the weather"}

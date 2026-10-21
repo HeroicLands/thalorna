@@ -658,6 +658,7 @@ data:
       class: "n"
       field: Craft and the forge
       gloss: "fire"
+      concept: fire
       root: "g-l-d"
       frame: bare
     - form: gulád
@@ -1054,6 +1055,7 @@ data:
       class: v
       field: Craft and the forge
       gloss: "to work, to make"
+      concept: make
       root: "b-m-r"
       frame: deed
     - form: bummár
@@ -1349,7 +1351,13 @@ data:
       frame: adjective
     - {form: hutabar, class: "n", field: The deep, gloss: "a cistern", root: "t-b-r", frame: place}
     - {form: tubár, class: v, field: The deep, gloss: "to flood", root: "t-b-r", frame: deed}
-    - {form: lakamev, class: "n", field: The deep, gloss: "a lamp", root: "l-k-m", frame: bare}
+    - form: lakamev
+      class: "n"
+      field: The deep
+      gloss: "a lamp"
+      root: "l-k-m"
+      frame: bare
+      concept: lamp
     - form: lakamir
       class: "n"
       field: The deep
@@ -2289,6 +2297,7 @@ data:
       class: v
       field: Caves and their finding
       gloss: "to open, to join, to level"
+      concept: open
       root: "p-th-k"
       frame: deed
     - form: putthák
@@ -2331,6 +2340,7 @@ data:
       class: "n"
       field: The face and the light
       gloss: "a window, an opening in the face"
+      concept: window
       root: "v-n-d"
       frame: bare
     - form: vaníd
@@ -3215,7 +3225,13 @@ data:
       gloss: "a stairwell"
       root: "s-t-v"
       frame: place
-    - {form: daghal, class: "n", field: The hold, gloss: "a door", root: "d-gh-l", frame: bare}
+    - form: daghal
+      class: "n"
+      field: The hold
+      gloss: "a door"
+      root: "d-gh-l"
+      frame: bare
+      concept: door
     - form: daghalir
       class: "n"
       field: The hold
@@ -3247,7 +3263,13 @@ data:
       gloss: "to vault as a master does"
       root: "b-th-l"
       frame: mastery
-    - {form: zald, class: "n", field: The hold, gloss: "a wall", root: "z-l-d", frame: bare}
+    - form: zald
+      class: "n"
+      field: The hold
+      gloss: "a wall"
+      root: "z-l-d"
+      frame: bare
+      concept: wall
     - {form: zalíd, class: adj, field: The hold, gloss: "walled", root: "z-l-d", frame: adjective}
     - {form: zulád, class: v, field: The hold, gloss: "to wall in", root: "z-l-d", frame: deed}
     - {form: padhar, class: "n", field: The hold, gloss: "a chamber", root: "p-dh-r", frame: bare}
@@ -3263,7 +3285,13 @@ data:
       gloss: "a finished chamber"
       root: "p-dh-r"
       frame: done thing
-    - {form: bavath, class: "n", field: The hold, gloss: "a floor", root: "b-v-th", frame: bare}
+    - form: bavath
+      class: "n"
+      field: The hold
+      gloss: "a floor"
+      root: "b-v-th"
+      frame: bare
+      concept: floor
     - {form: buváth, class: v, field: The hold, gloss: "to pave", root: "b-v-th", frame: deed}
     - form: bivathath
       class: "n"
@@ -3378,6 +3406,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a child"
+      concept: child
       root: "l-f-d"
       frame: bare
     - form: lafíd
@@ -3396,12 +3425,14 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a father"
+      concept: father
       root: "d-v-g"
       frame: bare
     - form: davagev
       class: "n"
       field: Kin and the house
       gloss: "a mother"
+      concept: mother
       root: "d-v-g"
       frame: bare
     - form: duvág
@@ -3414,12 +3445,14 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a brother"
+      concept: brother
       root: "s-p-v"
       frame: bare
     - form: sapavev
       class: "n"
       field: Kin and the house
       gloss: "a sister"
+      concept: sister
       root: "s-p-v"
       frame: bare
     - form: satupáv
@@ -3432,12 +3465,14 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a husband"
+      concept: husband
       root: "n-b-d"
       frame: bare
     - form: nabadev
       class: "n"
       field: Kin and the house
       gloss: "a wife"
+      concept: wife
       root: "n-b-d"
       frame: bare
     - form: nubád
@@ -3504,6 +3539,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a hearth"
+      concept: hearth
       root: "v-l-th"
       frame: bare
     - form: valíth
@@ -3516,6 +3552,7 @@ data:
       class: "n"
       field: Kin and the house
       gloss: "a home"
+      concept: abode
       root: "v-l-th"
       frame: place
     - form: balv
@@ -4038,6 +4075,7 @@ data:
       class: v
       field: "Oath, law and measure"
       gloss: "to give"
+      concept: give
       root: "th-n-z"
       frame: deed
     - form: thinzath
@@ -4452,6 +4490,7 @@ data:
       class: v
       field: Song and telling
       gloss: "to speak"
+      concept: speak
       root: "g-n-dh"
       frame: deed
     - form: gandhir
@@ -4628,7 +4667,13 @@ data:
       gloss: "to wait without end"
       root: "p-z-l"
       frame: mastery
-    - {form: marg, class: "n", field: Body and person, gloss: "a bone", root: "m-r-g", frame: bare}
+    - form: marg
+      class: "n"
+      field: Body and person
+      gloss: "a bone"
+      root: "m-r-g"
+      frame: bare
+      concept: bone
     - form: maríg
       class: adj
       field: Body and person
@@ -4651,6 +4696,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "a hand"
+      concept: hand
       root: "th-n-p"
       frame: bare
     - form: thaníp
@@ -4669,6 +4715,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "an eye"
+      concept: eye
       root: "v-z-l"
       frame: bare
     - form: vazíl
@@ -4705,6 +4752,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "blood"
+      concept: blood
       root: "r-th-v"
       frame: bare
     - form: rathív
@@ -4723,6 +4771,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "a heart"
+      concept: heart
       root: "m-v-dh"
       frame: bare
     - form: mavídh
@@ -4735,18 +4784,21 @@ data:
       class: "n"
       field: Body and person
       gloss: "breath"
+      concept: breath
       root: "h-v-th"
       frame: bare
     - form: huváth
       class: v
       field: Body and person
       gloss: "to breathe"
+      concept: breathe
       root: "h-v-th"
       frame: deed
     - form: pagam
       class: "n"
       field: Body and person
       gloss: "a shoulder"
+      concept: shoulder
       root: "p-g-m"
       frame: bare
     - form: pagím
@@ -4795,6 +4847,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "a foot"
+      concept: foot
       root: "t-f-n"
       frame: bare
     - {form: tufán, class: v, field: Body and person, gloss: "to step", root: "t-f-n", frame: deed}
@@ -4820,6 +4873,7 @@ data:
       class: "n"
       field: Body and person
       gloss: "a face"
+      concept: face
       root: "h-z-m"
       frame: bare
     - {form: huzám, class: v, field: Body and person, gloss: "to face", root: "h-z-m", frame: deed}
@@ -5133,6 +5187,7 @@ data:
       class: v
       field: Death and memory
       gloss: "to die"
+      concept: die
       root: "th-v-l"
       frame: deed
     - form: pand
@@ -5433,6 +5488,7 @@ data:
       class: "n"
       field: The god and devotion
       gloss: "hope"
+      concept: hope
       root: "h-p-d"
       frame: bare
     - form: hapíd
@@ -5906,12 +5962,14 @@ data:
       class: "n"
       field: Other peoples and the larder
       gloss: "a drink, a draught"
+      concept: drink-noun
       root: "g-l-k"
       frame: bare
     - form: gulák
       class: v
       field: Other peoples and the larder
       gloss: "to drink"
+      concept: drink-verb
       root: "g-l-k"
       frame: deed
     - form: pargh-buráth
@@ -5972,6 +6030,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to be, to stand"
+      concept: be
       root: "z-v-k"
       frame: deed
     - form: darm
@@ -5984,6 +6043,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to sit"
+      concept: sit
       root: "d-r-m"
       frame: deed
     - form: fand
@@ -5996,6 +6056,7 @@ data:
       class: v
       field: Motion and holding
       gloss: "to go"
+      concept: go
       root: "f-n-d"
       frame: deed
     - form: nazav
@@ -6152,6 +6213,7 @@ data:
       class: "n"
       field: Grammar words
       gloss: "a half"
+      concept: half
       root: "p-dh-l"
       frame: bare
     - form: pudhál
@@ -6170,6 +6232,7 @@ data:
       class: adj
       field: Grammar words
       gloss: "many"
+      concept: many
       root: "r-v-z"
       frame: adjective
     - {form: dhapal, class: "n", field: Grammar words, gloss: "a few", root: "dh-p-l", frame: bare}
@@ -6177,6 +6240,7 @@ data:
       class: adj
       field: Grammar words
       gloss: "few, scant"
+      concept: few
       root: "dh-p-l"
       frame: adjective
     - form: tavaz
@@ -6237,6 +6301,7 @@ data:
       class: adj
       field: Grammar words
       gloss: "first"
+      concept: first
       root: "dh-n-v"
       frame: adjective
     - form: favaz
@@ -6277,16 +6342,16 @@ data:
     - {form: nuv, class: part, field: Grammar words, gloss: "with, together with"}
     - {form: lez, class: part, field: Grammar words, gloss: "also"}
     - {form: hez, class: part, field: Grammar words, gloss: "again"}
-    - {form: tob, class: num, field: Grammar words, gloss: "one"}
-    - {form: zik, class: num, field: Grammar words, gloss: "two"}
-    - {form: vem, class: num, field: Grammar words, gloss: "three"}
-    - {form: bozd, class: num, field: Grammar words, gloss: "four"}
-    - {form: zop, class: num, field: Grammar words, gloss: "five"}
-    - {form: nefk, class: num, field: Grammar words, gloss: "six"}
-    - {form: fozd, class: num, field: Grammar words, gloss: "seven"}
-    - {form: kabr, class: num, field: Grammar words, gloss: "eight"}
-    - {form: khozm, class: num, field: Grammar words, gloss: "nine"}
-    - {form: zund, class: num, field: Grammar words, gloss: "ten"}
+    - {form: tob, class: num, field: Grammar words, gloss: "one", concept: one}
+    - {form: zik, class: num, field: Grammar words, gloss: "two", concept: two}
+    - {form: vem, class: num, field: Grammar words, gloss: "three", concept: three}
+    - {form: bozd, class: num, field: Grammar words, gloss: "four", concept: four}
+    - {form: zop, class: num, field: Grammar words, gloss: "five", concept: five}
+    - {form: nefk, class: num, field: Grammar words, gloss: "six", concept: six}
+    - {form: fozd, class: num, field: Grammar words, gloss: "seven", concept: seven}
+    - {form: kabr, class: num, field: Grammar words, gloss: "eight", concept: eight}
+    - {form: khozm, class: num, field: Grammar words, gloss: "nine", concept: nine}
+    - {form: zund, class: num, field: Grammar words, gloss: "ten", concept: ten}
     - {form: dolb, class: num, field: Grammar words, gloss: "eleven"}
     - {form: mazk, class: num, field: Grammar words, gloss: "twelve"}
     - {form: fegd, class: num, field: Grammar words, gloss: "thirteen"}

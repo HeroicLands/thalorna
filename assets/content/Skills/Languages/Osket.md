@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."
 tags: []
 data:
+  core: true
   abbreviation: Osk.
   fields:
     - name: The road and the col
@@ -58,12 +59,14 @@ data:
       class: "n"
       field: The hearth and the cord
       gloss: "a hearth, a house with its herd, its pasture and its road"
+      concept: hearth
     - {form: poich, class: "n", field: The hearth and the cord, gloss: "a yak"}
     - {form: rul, class: "n", field: The hearth and the cord, gloss: "the common winter store"}
     - form: shom
       class: "n"
       field: The hearth and the cord
       gloss: "a door, and the shelter owed to whoever reaches it"
+      concept: door
     - {form: wugh, class: "n", field: The hearth and the cord, gloss: "a knotted cord"}
     - {form: boik, class: "n", field: The hearth and the cord, gloss: "a knot"}
     - form: yoigh

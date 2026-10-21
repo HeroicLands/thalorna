@@ -6,6 +6,7 @@ subType: language
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
 tags: []
 data:
+  core: true
   abbreviation: Nyal.
   fields:
     - name: Clan and totem
@@ -61,7 +62,11 @@ data:
       class: "n"
       field: The Pact and the council
       gloss: "a stone enclosure, an Old Heto"
-    - {form: nyoli, class: "n", field: The Pact and the council, gloss: "a daughter"}
+    - form: nyoli
+      class: "n"
+      field: The Pact and the council
+      gloss: "a daughter"
+      concept: daughter
     - {form: ndafo, class: adj, field: The Pact and the council, gloss: "great, senior"}
     - {form: nkulu, class: "n", field: The Pact and the council, gloss: "an elder"}
     - {form: "shor-", class: stem, field: The Brightness and the guides, gloss: "to shine"}

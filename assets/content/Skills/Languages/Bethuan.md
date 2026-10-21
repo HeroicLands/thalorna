@@ -6,6 +6,7 @@ subType: language
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
 tags: []
 data:
+  core: true
   family: skill-helonclng
   abbreviation: Beth.
   fields:

@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of culture and the arts—drama, rhetoric, poetry and the epics—spoken in Helionis and the parent of Bizarian and Bethuan."
 tags: []
 data:
+  core: true
   abbreviation: Hel.
   fields:
     - name: "Thought, measure and the schools"
@@ -239,6 +240,7 @@ data:
       class: stem
       field: "Thought, measure and the schools"
       gloss: "to think, to weigh in the mind"
+      concept: think
     - form: therin
       class: "n"
       field: "Thought, measure and the schools"
@@ -543,7 +545,11 @@ data:
       field: "The city, law and office"
       gloss: "a magistrate; the presiding one, who gives the year his name"
       built: ["árs-", "-ir"]
-    - {form: "árs-", class: stem, field: "The city, law and office", gloss: "to rule, to begin"}
+    - form: "árs-"
+      class: stem
+      field: "The city, law and office"
+      gloss: "to rule, to begin"
+      concept: begin
     - form: strátimor
       class: "n"
       field: "The city, law and office"
@@ -558,7 +564,11 @@ data:
       gloss: "the warden of the market, ruling on its weights, coin and disputes"
       built: ["agóran-", "-ir"]
     - {form: "agóran-", class: stem, field: "The city, law and office", gloss: "of the market"}
-    - {form: teikhir, class: "n", field: "The city, law and office", gloss: "a wall, the city's"}
+    - form: teikhir
+      class: "n"
+      field: "The city, law and office"
+      gloss: "a wall, the city's"
+      concept: wall
     - form: "teíkh-"
       class: stem
       field: "The city, law and office"
@@ -654,7 +664,11 @@ data:
     - {form: hodhis, class: "n", field: "Trade, coin, goods and the road", gloss: "a way, a road"}
     - {form: ánthimor, class: "n", field: "Kin, the person and the body", gloss: "person, human"}
     - {form: dorasin, class: "n", field: "Kin, the person and the body", gloss: "gift"}
-    - {form: "doras-", class: stem, field: "Kin, the person and the body", gloss: "to give"}
+    - form: "doras-"
+      class: stem
+      field: "Kin, the person and the body"
+      gloss: "to give"
+      concept: give
     - form: andáhr
       class: "n"
       field: "Kin, the person and the body"
@@ -664,16 +678,33 @@ data:
       field: "Kin, the person and the body"
       gloss: "a house, a household"
     - {form: "dóm-", class: stem, field: "Kin, the person and the body", gloss: "of the house"}
-    - {form: parikhor, class: "n", field: "Kin, the person and the body", gloss: "father"}
-    - {form: mathira, class: "n", field: "Kin, the person and the body", gloss: "mother"}
+    - form: parikhor
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "father"
+      concept: father
+    - form: mathira
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "mother"
+      concept: mother
     - {form: "math-", class: stem, field: "Kin, the person and the body", gloss: "of the mother"}
-    - {form: huyir, class: "n", field: "Kin, the person and the body", gloss: "son"}
-    - {form: thighir, class: "n", field: "Kin, the person and the body", gloss: "daughter"}
-    - {form: adhelir, class: "n", field: "Kin, the person and the body", gloss: "brother"}
+    - {form: huyir, class: "n", field: "Kin, the person and the body", gloss: "son", concept: son}
+    - form: thighir
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "daughter"
+      concept: daughter
+    - form: adhelir
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "brother"
+      concept: brother
     - form: adhélira
       class: "n"
       field: "Kin, the person and the body"
       gloss: "sister"
+      concept: sister
       built: ["adhél-", "-ira"]
     - form: "adhél-"
       class: stem
@@ -688,26 +719,59 @@ data:
       class: "n"
       field: "Kin, the person and the body"
       gloss: "a companion; the educated companion trained in music, philosophy and the social arts"
-    - {form: kefalir, class: "n", field: "Kin, the person and the body", gloss: "the head"}
-    - {form: kheirin, class: "n", field: "Kin, the person and the body", gloss: "the hand"}
-    - {form: kordhin, class: "n", field: "Kin, the person and the body", gloss: "the heart"}
-    - {form: haimin, class: "n", field: "Kin, the person and the body", gloss: "blood"}
+    - form: kefalir
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "the head"
+      concept: head
+    - form: kheirin
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "the hand"
+      concept: hand
+    - form: kordhin
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "the heart"
+      concept: heart
+    - form: haimin
+      class: "n"
+      field: "Kin, the person and the body"
+      gloss: "blood"
+      concept: blood
     - {form: somir, class: "n", field: "Kin, the person and the body", gloss: "the body"}
-    - {form: hidhir, class: "n", field: "Water, works and the island", gloss: "water"}
+    - form: hidhir
+      class: "n"
+      field: "Water, works and the island"
+      gloss: "water"
+      concept: water
     - form: ithrin
       class: "n"
       field: "Water, works and the island"
       gloss: "fire; the hearth-fire a household keeps alive"
+      concept: fire
       built: ["ithr-", "-in"]
     - {form: "ithr-", class: stem, field: "Water, works and the island", gloss: "of the fire"}
     - {form: krenir, class: "n", field: "Water, works and the island", gloss: "a spring"}
     - {form: "kren-", class: stem, field: "Water, works and the island", gloss: "of a spring"}
-    - {form: ésarin, class: v, field: "Doing, going and being", gloss: "to be, to exist"}
+    - form: ésarin
+      class: v
+      field: "Doing, going and being"
+      gloss: "to be, to exist"
+      concept: be
     - {form: théradhin, class: v, field: "Doing, going and being", gloss: "to behold, contemplate"}
     - {form: dhidakhin, class: v, field: "Doing, going and being", gloss: "to teach"}
     - {form: rhézarin, class: v, field: "Doing, going and being", gloss: "to flow"}
-    - {form: rhéthasin, class: v, field: "Doing, going and being", gloss: "to speak, to say aloud"}
-    - {form: dókhanir, class: v, field: "Doing, going and being", gloss: "to think, judge"}
+    - form: rhéthasin
+      class: v
+      field: "Doing, going and being"
+      gloss: "to speak, to say aloud"
+      concept: speak
+    - form: dókhanir
+      class: v
+      field: "Doing, going and being"
+      gloss: "to think, judge"
+      concept: think
     - {form: dokhazin, class: v, field: "Doing, going and being", gloss: "to honor, glorify"}
     - {form: ársidhin, class: v, field: "Doing, going and being", gloss: "to rule, begin"}
     - form: sotharin
@@ -728,13 +792,25 @@ data:
       field: "Doing, going and being"
       gloss: "to become, to come to be"
     - {form: "ghígn-", class: stem, field: "Doing, going and being", gloss: "to become"}
-    - {form: érkharin, class: v, field: "Doing, going and being", gloss: "to go, to come"}
-    - {form: "érkh-", class: stem, field: "Doing, going and being", gloss: "to go"}
+    - form: érkharin
+      class: v
+      field: "Doing, going and being"
+      gloss: "to go, to come"
+      concept: [go, come]
+    - {form: "érkh-", class: stem, field: "Doing, going and being", gloss: "to go", concept: go}
     - {form: pléarin, class: v, field: "Doing, going and being", gloss: "to sail"}
     - {form: ághrarin, class: v, field: "Doing, going and being", gloss: "to lead, to drive"}
     - {form: "ághr-", class: stem, field: "Doing, going and being", gloss: "to lead, to drive"}
-    - {form: lámbarin, class: v, field: "Doing, going and being", gloss: "to take, to receive"}
-    - {form: "lámb-", class: stem, field: "Doing, going and being", gloss: "to take"}
+    - form: lámbarin
+      class: v
+      field: "Doing, going and being"
+      gloss: "to take, to receive"
+      concept: take
+    - form: "lámb-"
+      class: stem
+      field: "Doing, going and being"
+      gloss: "to take"
+      concept: take
     - {form: olasin, class: adj, field: "Doing, going and being", gloss: "whole, entire"}
     - {form: kelir, class: adj, field: "Doing, going and being", gloss: "beautiful, good, noble"}
     - form: kélira
@@ -782,13 +858,13 @@ data:
     - {form: thu, class: pron, field: Grammar words, gloss: "you"}
     - {form: heum, class: pron, field: Grammar words, gloss: "this"}
     - {form: heun, class: pron, field: Grammar words, gloss: "that"}
-    - {form: meun, class: num, field: Grammar words, gloss: "one"}
-    - {form: drin, class: num, field: Grammar words, gloss: "two"}
-    - {form: trel, class: num, field: Grammar words, gloss: "three"}
-    - {form: vesmor, class: num, field: Grammar words, gloss: "four"}
-    - {form: plem, class: num, field: Grammar words, gloss: "five"}
-    - {form: zemor, class: num, field: Grammar words, gloss: "six"}
-    - {form: zekhor, class: num, field: Grammar words, gloss: "ten"}
+    - {form: meun, class: num, field: Grammar words, gloss: "one", concept: one}
+    - {form: drin, class: num, field: Grammar words, gloss: "two", concept: two}
+    - {form: trel, class: num, field: Grammar words, gloss: "three", concept: three}
+    - {form: vesmor, class: num, field: Grammar words, gloss: "four", concept: four}
+    - {form: plem, class: num, field: Grammar words, gloss: "five", concept: five}
+    - {form: zemor, class: num, field: Grammar words, gloss: "six", concept: six}
+    - {form: zekhor, class: num, field: Grammar words, gloss: "ten", concept: ten}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

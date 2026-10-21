@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of Taruzel's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
 tags: []
 data:
+  core: true
   abbreviation: Taruz.
   fields:
     - name: The bargain and the word
@@ -298,7 +299,11 @@ data:
       field: "Reckoning, credit and debt"
       gloss: "a creditor"
       built: ["yushud-", "-um"]
-    - {form: "funat-", class: stem, field: "Reckoning, credit and debt", gloss: "to lose"}
+    - form: "funat-"
+      class: stem
+      field: "Reckoning, credit and debt"
+      gloss: "to lose"
+      concept: lose
     - form: funatush
       class: "n"
       field: "Reckoning, credit and debt"
@@ -434,7 +439,7 @@ data:
       field: "Hull, tide and knot"
       gloss: "a shoal or reef"
       built: ["hitus-", "-u"]
-    - {form: "zupum-", class: stem, field: "Hull, tide and knot", gloss: "to run"}
+    - {form: "zupum-", class: stem, field: "Hull, tide and knot", gloss: "to run", concept: run}
     - form: zupumush
       class: "n"
       field: "Hull, tide and knot"
@@ -726,7 +731,7 @@ data:
       field: "Law, oath and the Confederation"
       gloss: "a city deputy"
       built: ["zuvar-", "-um"]
-    - {form: "genir-", class: stem, field: Doing and being, gloss: "to take"}
+    - {form: "genir-", class: stem, field: Doing and being, gloss: "to take", concept: take}
     - {form: geniram, class: v, field: Doing and being, gloss: "takes", built: ["genir-", "-am"]}
     - form: genirush
       class: "n"
@@ -754,14 +759,14 @@ data:
       field: Doing and being
       gloss: "a payment"
       built: ["yutal-", "-ush"]
-    - {form: "kudum-", class: stem, field: Doing and being, gloss: "to come"}
+    - {form: "kudum-", class: stem, field: Doing and being, gloss: "to come", concept: come}
     - {form: kudumam, class: v, field: Doing and being, gloss: "comes", built: ["kudum-", "-am"]}
     - form: kudumush
       class: "n"
       field: Doing and being
       gloss: "an arrival"
       built: ["kudum-", "-ush"]
-    - {form: "jiram-", class: stem, field: Doing and being, gloss: "to speak"}
+    - {form: "jiram-", class: stem, field: Doing and being, gloss: "to speak", concept: speak}
     - {form: jiramam, class: v, field: Doing and being, gloss: "speaks", built: ["jiram-", "-am"]}
     - form: jiramush
       class: "n"
@@ -817,12 +822,12 @@ data:
     - {form: mi, class: part, field: Grammar words, gloss: "from, of"}
     - {form: ju, class: pron, field: Grammar words, gloss: "this"}
     - {form: ji, class: pron, field: Grammar words, gloss: "that"}
-    - {form: yez, class: num, field: Grammar words, gloss: "one"}
-    - {form: lel, class: num, field: Grammar words, gloss: "two"}
-    - {form: zem, class: num, field: Grammar words, gloss: "three"}
-    - {form: vub, class: num, field: Grammar words, gloss: "four"}
-    - {form: fom, class: num, field: Grammar words, gloss: "five"}
-    - {form: yet, class: num, field: Grammar words, gloss: "ten"}
+    - {form: yez, class: num, field: Grammar words, gloss: "one", concept: one}
+    - {form: lel, class: num, field: Grammar words, gloss: "two", concept: two}
+    - {form: zem, class: num, field: Grammar words, gloss: "three", concept: three}
+    - {form: vub, class: num, field: Grammar words, gloss: "four", concept: four}
+    - {form: fom, class: num, field: Grammar words, gloss: "five", concept: five}
+    - {form: yet, class: num, field: Grammar words, gloss: "ten", concept: ten}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

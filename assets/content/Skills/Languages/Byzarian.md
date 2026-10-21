@@ -6,6 +6,7 @@ subType: language
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
 tags: []
 data:
+  core: true
   family: skill-helonclng
   abbreviation: Byz.
   fields:

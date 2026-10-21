@@ -6,6 +6,7 @@ subType: language
 description: "The island speech of the Nine Mountains—a daughter of Tantsou hardened by a thousand years of separation, and layered with the most elaborate honorifics in the east."
 tags: []
 data:
+  core: true
   abbreviation: Jur.
   fields:
     - name: "Land, sea and sky"
@@ -79,6 +80,7 @@ data:
       class: "n"
       field: "Land, sea and sky"
       gloss: "fire; and, by the other pitch, hand"
+      concept: fire
       source: {kind: inherited}
     - form: ji
       class: "n"
@@ -94,6 +96,7 @@ data:
       class: "n"
       field: "Land, sea and sky"
       gloss: "water, river"
+      concept: water
       source: {kind: inherited}
     - form: tsu
       class: "n"
@@ -189,14 +192,30 @@ data:
       gloss: "the clouds of heaven, the high cloud the Nine stand above"
       source: {kind: coined}
       built: [te, yan]
-    - {form: kei, class: num, field: Number and color, gloss: "one", source: {kind: island}}
+    - form: kei
+      class: num
+      field: Number and color
+      gloss: "one"
+      source: {kind: island}
+      concept: one
     - form: wen
       class: num
       field: Number and color
       gloss: "five; and, by the other pitch, the center"
+      concept: five
       source: {kind: inherited}
-    - {form: jen, class: num, field: Number and color, gloss: "nine", source: {kind: inherited}}
-    - {form: wai, class: num, field: Number and color, gloss: "ten", source: {kind: inherited}}
+    - form: jen
+      class: num
+      field: Number and color
+      gloss: "nine"
+      source: {kind: inherited}
+      concept: nine
+    - form: wai
+      class: num
+      field: Number and color
+      gloss: "ten"
+      source: {kind: inherited}
+      concept: ten
     - form: tan
       class: adj
       field: Number and color
@@ -206,21 +225,25 @@ data:
       class: adj
       field: Number and color
       gloss: "blue, azure; flowing"
+      concept: blue
       source: {kind: inherited}
     - form: rin
       class: adj
       field: Number and color
       gloss: "red, vermilion"
+      concept: red
       source: {kind: inherited}
     - form: bui
       class: adj
       field: Number and color
       gloss: "white, silver"
+      concept: white
       source: {kind: inherited}
     - form: ha
       class: adj
       field: Number and color
       gloss: "dark, black, hidden"
+      concept: black
       source: {kind: inherited}
     - form: re
       class: adj
@@ -286,6 +309,7 @@ data:
       class: "n"
       field: "Rank, house and office"
       gloss: "son, child"
+      concept: son
       source: {kind: inherited}
     - form: nou
       class: "n"
@@ -301,6 +325,7 @@ data:
       class: "n"
       field: "Rank, house and office"
       gloss: "hearth, household"
+      concept: hearth
       source: {kind: inherited}
     - form: sho
       class: "n"
@@ -387,6 +412,7 @@ data:
       class: "n"
       field: "Rites, honor and court"
       gloss: "spirit, breath"
+      concept: breath
       source: {kind: inherited}
     - form: sei
       class: "n"

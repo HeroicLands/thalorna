@@ -6,6 +6,7 @@ subType: language
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."
 tags: []
 data:
+  core: true
   family: skill-aelendlng
   abbreviation: Elav.
   fields:
@@ -49,16 +50,19 @@ data:
       class: n
       field: The house and the old blood
       gloss: "a brother"
+      concept: brother
       source: {kind: borrowed, language: skill-aelendlng, form: semroth}
     - form: sémrotha
       class: n
       field: The house and the old blood
       gloss: "a sister"
+      concept: sister
       source: {kind: borrowed, language: skill-aelendlng, form: semrotha}
     - form: nyerison
       class: n
       field: The house and the old blood
       gloss: "a child; one not yet given a name"
+      concept: child
       source: {kind: borrowed, language: skill-aelendlng, form: nurison}
     - form: sorhand
       class: n
@@ -214,6 +218,7 @@ data:
       class: v
       field: The bard and the word
       gloss: "to speak; to say before the council"
+      concept: speak
       source: {kind: borrowed, language: skill-aelendlng, form: dokhathen}
     - form: thárlema
       class: n
@@ -249,6 +254,7 @@ data:
       class: v
       field: The bard and the word
       gloss: "to know"
+      concept: know
       source: {kind: borrowed, language: skill-aelendlng, form: khésdathen}
     - form: shéimarson
       class: n
@@ -639,6 +645,7 @@ data:
       class: v
       field: The hall and the guest
       gloss: "to give; to set food before a guest"
+      concept: give
       source: {kind: borrowed, language: skill-aelendlng, form: dáimathen}
     - form: dyemaralon
       class: n
@@ -684,6 +691,7 @@ data:
       class: n
       field: The hall and the guest
       gloss: "a lamp"
+      concept: lamp
       source: {kind: borrowed, language: skill-aelendlng, form: íthrola}
     - form: énthison
       class: n
@@ -714,6 +722,7 @@ data:
       class: n
       field: The hall and the guest
       gloss: "friendship"
+      concept: love-philia
       source: {kind: borrowed, language: skill-aelendlng, form: ánsepirsa}
     - form: shéimara
       class: n
@@ -1029,6 +1038,7 @@ data:
       class: n
       field: "Mountain, water and stone"
       gloss: "water"
+      concept: water
       source: {kind: borrowed, language: skill-aelendlng, form: ulmera}
     - form: dyemeson
       class: n
@@ -1104,6 +1114,7 @@ data:
       class: n
       field: The body and the dead
       gloss: "blood"
+      concept: blood
       source: {kind: borrowed, language: skill-aelendlng, form: rudhamis}
     - form: ríetheson
       class: n
@@ -1119,6 +1130,7 @@ data:
       class: v
       field: The body and the dead
       gloss: "to live"
+      concept: live
       source: {kind: borrowed, language: skill-aelendlng, form: thernathen}
     - form: néimethen
       class: v
@@ -1504,16 +1516,19 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to come"
+      concept: come
       source: {kind: borrowed, language: skill-aelendlng, form: lokhathen}
     - form: tíegathen
       class: v
       field: "Doing, going and being"
       gloss: "to go"
+      concept: go
       source: {kind: borrowed, language: skill-aelendlng, form: tigathen}
     - form: óuhethen
       class: v
       field: "Doing, going and being"
       gloss: "to see"
+      concept: see-verb
       source: {kind: borrowed, language: skill-aelendlng, form: okhethen}
     - form: lóusethen
       class: v
@@ -1564,26 +1579,31 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "four"
+      concept: four
       source: {kind: borrowed, language: skill-aelendlng, form: elsur}
     - form: óulemiks
       class: num
       field: Numbers and grammar words
       gloss: "five"
+      concept: five
       source: {kind: borrowed, language: skill-aelendlng, form: olemiks}
     - form: ránethur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
+      concept: seven
       source: {kind: borrowed, language: skill-aelendlng, form: ránethur}
     - form: sóurimaks
       class: num
       field: Numbers and grammar words
       gloss: "eight"
+      concept: eight
       source: {kind: borrowed, language: skill-aelendlng, form: sorimaks}
     - form: yemaris
       class: num
       field: Numbers and grammar words
       gloss: "ten"
+      concept: ten
       source: {kind: borrowed, language: skill-aelendlng, form: umaris}
     - form: dóurehis
       class: num
@@ -1594,6 +1614,7 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
+      concept: thousand
       source: {kind: borrowed, language: skill-aelendlng, form: thamesur}
     - form: en
       class: pron
@@ -1634,6 +1655,7 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "one"
+      concept: one
       source: {kind: borrowed, language: skill-aelendlng, form: uk}
     - form: "sil"
       class: "stem"

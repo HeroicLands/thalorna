@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of the three Okhari city-states, with an archaic sacred register reserved for scripture and temple rites."
 tags: []
 data:
+  core: true
   abbreviation: Okh.
   fields:
     - name: The Flame and the temple
@@ -62,6 +63,7 @@ data:
       class: "n"
       field: The Flame and the temple
       gloss: "flame, fire"
+      concept: fire
       built: ["nkar-", "-u"]
     - form: nkaring
       class: adj
@@ -217,7 +219,11 @@ data:
       field: The spirits and the cairn
       gloss: "of the forest"
       built: [ombe, "-ing"]
-    - {form: yombel, class: "n", field: The spirits and the cairn, gloss: "a mother"}
+    - form: yombel
+      class: "n"
+      field: The spirits and the cairn
+      gloss: "a mother"
+      concept: mother
     - {form: "ngor-", class: stem, field: The spirits and the cairn, gloss: "to run as water runs"}
     - form: ngorira
       class: "n"
@@ -249,7 +255,7 @@ data:
       gloss: "of the blade"
       built: [shengel, "-ing"]
     - {form: ngwelo, class: "n", field: The spirits and the cairn, gloss: "a beast"}
-    - {form: shikoro, class: "n", field: The spirits and the cairn, gloss: "envy"}
+    - {form: shikoro, class: "n", field: The spirits and the cairn, gloss: "envy", concept: envy}
     - {form: khamwesi, class: "n", field: The spirits and the cairn, gloss: "a land-crocodile"}
     - {form: "rokhom-", class: stem, field: The spirits and the cairn, gloss: "to hunt in a pack"}
     - form: rokhomira

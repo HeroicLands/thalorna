@@ -6,6 +6,7 @@ subType: language
 description: "The tonal, hieroglyph-written tongue of the K'ich'chik city-states, whose compound morphology can take a lifetime to master."
 tags: []
 data:
+  core: true
   abbreviation: Kichk.
   icon: icon-speaking
   templatePriority: null
@@ -88,7 +89,7 @@ data:
       class: num
       field: "Sky, sun and the count of days"
       gloss: "zero; a shell, an empty thing"
-    - {form: "ne'", class: "n", field: Water and land, gloss: "water"}
+    - {form: "ne'", class: "n", field: Water and land, gloss: "water", concept: water}
     - form: "ne'ok"
       class: adj
       field: Water and land
@@ -296,46 +297,46 @@ data:
       gloss: "the knotted cord-records"
       built: ["k'ots-", "-el"]
     - {form: "kul'al", class: adj, field: "Rank, temple and court", gloss: "alive, living"}
-    - {form: pakul, class: "n", field: House and hearth, gloss: "a table"}
-    - {form: "ch'ishum", class: "n", field: House and hearth, gloss: "a chair"}
+    - {form: pakul, class: "n", field: House and hearth, gloss: "a table", concept: table}
+    - {form: "ch'ishum", class: "n", field: House and hearth, gloss: "a chair", concept: chair}
     - {form: "ts'uku", class: "n", field: House and hearth, gloss: "a pillow"}
-    - {form: "ha'tan", class: "n", field: House and hearth, gloss: "a bowl"}
-    - {form: "shil'ik", class: "n", field: House and hearth, gloss: "a cup"}
-    - {form: "ts'anul", class: "n", field: House and hearth, gloss: "a roof"}
-    - {form: "shots'em", class: "n", field: House and hearth, gloss: "a door"}
+    - {form: "ha'tan", class: "n", field: House and hearth, gloss: "a bowl", concept: bowl}
+    - {form: "shil'ik", class: "n", field: House and hearth, gloss: "a cup", concept: cup}
+    - {form: "ts'anul", class: "n", field: House and hearth, gloss: "a roof", concept: roof}
+    - {form: "shots'em", class: "n", field: House and hearth, gloss: "a door", concept: door}
     - {form: "ts'iqal", class: "n", field: House and hearth, gloss: "a blanket"}
-    - {form: "nal'ish", class: "n", field: House and hearth, gloss: "a spoon"}
-    - {form: "k'ulqat", class: "n", field: House and hearth, gloss: "a knife"}
+    - {form: "nal'ish", class: "n", field: House and hearth, gloss: "a spoon", concept: spoon}
+    - {form: "k'ulqat", class: "n", field: House and hearth, gloss: "a knife", concept: knife}
     - {form: "ts'opil", class: "n", field: House and hearth, gloss: "a basket"}
-    - {form: "pu'chal", class: "n", field: House and hearth, gloss: "a bed; full"}
-    - {form: "lu'she", class: "n", field: House and hearth, gloss: "a pot"}
+    - {form: "pu'chal", class: "n", field: House and hearth, gloss: "a bed; full", concept: bed}
+    - {form: "lu'she", class: "n", field: House and hearth, gloss: "a pot", concept: pot}
     - {form: "k'ayish", class: "n", field: House and hearth, gloss: "firewood"}
     - {form: "ha'kin", class: "n", field: House and hearth, gloss: "a mirror"}
-    - {form: "ts'alish", class: "n", field: House and hearth, gloss: "a window"}
+    - {form: "ts'alish", class: "n", field: House and hearth, gloss: "a window", concept: window}
     - {form: "pik'al", class: "n", field: House and hearth, gloss: "a plate"}
     - {form: shilum, class: "n", field: House and hearth, gloss: "a stool"}
     - {form: "ha'mal", class: "n", field: House and hearth, gloss: "a bucket; fearful"}
     - {form: "ch'ishal", class: "n", field: House and hearth, gloss: "the bitter bean drink"}
-    - {form: "ts'akun", class: v, field: Doing and being, gloss: "to go"}
-    - {form: ishan, class: v, field: Doing and being, gloss: "to sleep"}
-    - {form: "k'alish", class: v, field: Doing and being, gloss: "to be"}
-    - {form: "ha'kan", class: v, field: Doing and being, gloss: "to have; cold"}
-    - {form: "ts'ukal", class: v, field: Doing and being, gloss: "to want"}
+    - {form: "ts'akun", class: v, field: Doing and being, gloss: "to go", concept: go}
+    - {form: ishan, class: v, field: Doing and being, gloss: "to sleep", concept: sleep-verb}
+    - {form: "k'alish", class: v, field: Doing and being, gloss: "to be", concept: be}
+    - {form: "ha'kan", class: v, field: Doing and being, gloss: "to have; cold", concept: have}
+    - {form: "ts'ukal", class: v, field: Doing and being, gloss: "to want", concept: want}
     - {form: "ch'upan", class: v, field: Doing and being, gloss: "to work"}
     - {form: "ts'ulam", class: v, field: Doing and being, gloss: "to play"}
-    - {form: "k'ayal", class: v, field: Doing and being, gloss: "to see"}
-    - {form: "nal'un", class: v, field: Doing and being, gloss: "to eat"}
-    - {form: "ts'ik'an", class: v, field: Doing and being, gloss: "to drink"}
-    - {form: "ch'um-", class: stem, field: Doing and being, gloss: "to speak"}
-    - {form: "ch'umun", class: v, field: Doing and being, gloss: "to speak"}
+    - {form: "k'ayal", class: v, field: Doing and being, gloss: "to see", concept: see-verb}
+    - {form: "nal'un", class: v, field: Doing and being, gloss: "to eat", concept: eat}
+    - {form: "ts'ik'an", class: v, field: Doing and being, gloss: "to drink", concept: drink-verb}
+    - {form: "ch'um-", class: stem, field: Doing and being, gloss: "to speak", concept: speak}
+    - {form: "ch'umun", class: v, field: Doing and being, gloss: "to speak", concept: speak}
     - {form: "p'iqal", class: v, field: Doing and being, gloss: "to build"}
-    - {form: shilan, class: v, field: Doing and being, gloss: "to walk"}
+    - {form: shilan, class: v, field: Doing and being, gloss: "to walk", concept: walk}
     - {form: "ha'tsul", class: v, field: Doing and being, gloss: "to swim"}
-    - {form: ishkan, class: v, field: Doing and being, gloss: "to think"}
+    - {form: ishkan, class: v, field: Doing and being, gloss: "to think", concept: think}
     - {form: "ts'anum", class: v, field: Doing and being, gloss: "to rest"}
     - {form: "nal'ik'an", class: v, field: Doing and being, gloss: "to dream"}
     - {form: "pu'tal", class: v, field: Doing and being, gloss: "to climb"}
-    - {form: "k'ay'an", class: v, field: Doing and being, gloss: "to hear"}
+    - {form: "k'ay'an", class: v, field: Doing and being, gloss: "to hear", concept: hear-verb}
     - {form: "ch'upalum", class: v, field: Doing and being, gloss: "to carry"}
     - {form: "ch'akal", class: adj, field: Doing and being, gloss: "big, large"}
     - {form: "ts'ulun", class: adj, field: Doing and being, gloss: "small, tiny"}
@@ -344,11 +345,11 @@ data:
     - {form: "kul'uk", class: adj, field: Doing and being, gloss: "tall"}
     - {form: "shi'tan", class: adj, field: Doing and being, gloss: "short"}
     - {form: ishchek, class: adj, field: Doing and being, gloss: "silver"}
-    - {form: "ts'umul", class: adj, field: Doing and being, gloss: "red"}
-    - {form: shilik, class: adj, field: Doing and being, gloss: "blue"}
-    - {form: "ha'nak", class: adj, field: Doing and being, gloss: "green"}
-    - {form: "ch'upul", class: adj, field: Doing and being, gloss: "white"}
-    - {form: "p'uqan", class: adj, field: Doing and being, gloss: "black"}
+    - {form: "ts'umul", class: adj, field: Doing and being, gloss: "red", concept: red}
+    - {form: shilik, class: adj, field: Doing and being, gloss: "blue", concept: blue}
+    - {form: "ha'nak", class: adj, field: Doing and being, gloss: "green", concept: green}
+    - {form: "ch'upul", class: adj, field: Doing and being, gloss: "white", concept: white}
+    - {form: "p'uqan", class: adj, field: Doing and being, gloss: "black", concept: black}
     - {form: "p'ikun", class: adj, field: Doing and being, gloss: "soft"}
     - {form: "ch'ukun", class: adj, field: Doing and being, gloss: "rough"}
     - {form: "ts'elun", class: adj, field: Doing and being, gloss: "smooth"}
@@ -376,18 +377,18 @@ data:
     - {form: "ch'al", class: part, field: Grammar words, gloss: "beneath, under, within"}
     - {form: "ts'ik", class: part, field: Grammar words, gloss: "above, outside"}
     - {form: "shaq'al", class: part, field: Grammar words, gloss: "apart from, separate from"}
-    - {form: "pe'", class: num, field: Grammar words, gloss: "one"}
-    - {form: "q'o", class: num, field: Grammar words, gloss: "two"}
-    - {form: lishe, class: num, field: Grammar words, gloss: "three"}
-    - {form: mushe, class: num, field: Grammar words, gloss: "four"}
-    - {form: "p'o", class: num, field: Grammar words, gloss: "five"}
-    - {form: "ts'ishe", class: num, field: Grammar words, gloss: "six"}
-    - {form: "nuq'el", class: num, field: Grammar words, gloss: "seven"}
-    - {form: "q'ishe", class: num, field: Grammar words, gloss: "eight"}
-    - {form: "pek'ash", class: num, field: Grammar words, gloss: "nine"}
-    - {form: "olek'", class: num, field: Grammar words, gloss: "ten"}
+    - {form: "pe'", class: num, field: Grammar words, gloss: "one", concept: one}
+    - {form: "q'o", class: num, field: Grammar words, gloss: "two", concept: two}
+    - {form: lishe, class: num, field: Grammar words, gloss: "three", concept: three}
+    - {form: mushe, class: num, field: Grammar words, gloss: "four", concept: four}
+    - {form: "p'o", class: num, field: Grammar words, gloss: "five", concept: five}
+    - {form: "ts'ishe", class: num, field: Grammar words, gloss: "six", concept: six}
+    - {form: "nuq'el", class: num, field: Grammar words, gloss: "seven", concept: seven}
+    - {form: "q'ishe", class: num, field: Grammar words, gloss: "eight", concept: eight}
+    - {form: "pek'ash", class: num, field: Grammar words, gloss: "nine", concept: nine}
+    - {form: "olek'", class: num, field: Grammar words, gloss: "ten", concept: ten}
     - {form: "k'aqil", class: num, field: Grammar words, gloss: "a unit, the place of ones"}
-    - {form: "ts'ob", class: num, field: Grammar words, gloss: "twenty"}
+    - {form: "ts'ob", class: num, field: Grammar words, gloss: "twenty", concept: twenty}
     - {form: "pel'ush", class: num, field: Grammar words, gloss: "four hundred"}
     - {form: "q'umpel", class: num, field: Grammar words, gloss: "eight thousand"}
     - {form: sholemash, class: num, field: Grammar words, gloss: "one hundred and sixty thousand"}

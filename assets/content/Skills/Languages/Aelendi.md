@@ -6,6 +6,7 @@ subType: language
 description: "The older Pelwar tongue of the Áelendan highlanders, preserved in mountain valleys where Élavendri has not yet reached."
 tags: []
 data:
+  core: true
   abbreviation: Ael.
   classModifiers: [m, f, "n"]
   fields:
@@ -251,16 +252,19 @@ data:
       class: n m
       field: "Kin, the clan and the name"
       gloss: "a brother"
+      concept: brother
       source: {kind: inherited, form: semrothos}
     - form: semrotha
       class: n f
       field: "Kin, the clan and the name"
       gloss: "a sister"
+      concept: sister
       source: {kind: inherited}
     - form: nurison
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a child; one not yet given a name"
+      concept: child
       source: {kind: inherited, form: nurizon}
     - form: sorkhand
       class: n m
@@ -346,6 +350,7 @@ data:
       class: v
       field: "The lodge, the fire and the guest"
       gloss: "to give; to set food before a guest"
+      concept: give
       source: {kind: inherited}
     - form: dumaralon
       class: n n
@@ -391,6 +396,7 @@ data:
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "a lamp"
+      concept: lamp
       source: {kind: inherited}
     - form: enthison
       class: n n
@@ -421,6 +427,7 @@ data:
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "friendship"
+      concept: love-philia
       source: {kind: borrowed, language: skill-sinalelng, form: ansekkirsa}
     - form: séimara
       class: n f
@@ -556,6 +563,7 @@ data:
       class: n f
       field: "Mountain, snow and stone"
       gloss: "water"
+      concept: water
       source: {kind: inherited}
     - form: dhumeson
       class: n n
@@ -621,6 +629,7 @@ data:
       class: n f
       field: "The body, life and death"
       gloss: "blood"
+      concept: blood
       source: {kind: inherited, form: brudhamis}
     - form: ritheson
       class: n n
@@ -636,6 +645,7 @@ data:
       class: v
       field: "The body, life and death"
       gloss: "to live"
+      concept: live
       source: {kind: inherited}
     - form: nemethen
       class: v
@@ -1271,6 +1281,7 @@ data:
       class: v
       field: "Song, speech and the letters"
       gloss: "to speak; to say before the council"
+      concept: speak
       source: {kind: inherited, form: dokathen}
     - form: tharlema
       class: n f
@@ -1306,6 +1317,7 @@ data:
       class: v
       field: "Song, speech and the letters"
       gloss: "to know"
+      concept: know
       source: {kind: inherited, form: kezdathen}
     - form: semarson
       class: n n
@@ -1571,16 +1583,19 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to come"
+      concept: come
       source: {kind: inherited, form: lokathen}
     - form: tigathen
       class: v
       field: "Doing, going and being"
       gloss: "to go"
+      concept: go
       source: {kind: inherited}
     - form: okhethen
       class: v
       field: "Doing, going and being"
       gloss: "to see"
+      concept: see-verb
       source: {kind: inherited, form: okethen}
     - form: losethen
       class: v
@@ -1631,26 +1646,31 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "four"
+      concept: four
       source: {kind: inherited, form: felzur}
     - form: olemiks
       class: num
       field: Numbers and grammar words
       gloss: "five"
+      concept: five
       source: {kind: inherited, form: yolemiks}
     - form: ránethur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
+      concept: seven
       source: {kind: inherited}
     - form: sorimaks
       class: num
       field: Numbers and grammar words
       gloss: "eight"
+      concept: eight
       source: {kind: inherited, form: zorimaks}
     - form: umaris
       class: num
       field: Numbers and grammar words
       gloss: "ten"
+      concept: ten
       source: {kind: inherited, form: umbaris}
     - form: dorekhis
       class: num
@@ -1661,6 +1681,7 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
+      concept: thousand
       source: {kind: inherited, form: thambezur}
     - form: en
       class: pron
@@ -1711,16 +1732,19 @@ data:
       class: num
       field: Numbers and grammar words
       gloss: "one"
+      concept: one
       source: {kind: worn, form: urkis}
     - form: ta
       class: num
       field: Numbers and grammar words
       gloss: "two"
+      concept: two
       source: {kind: worn, form: tawemer}
     - form: kha
       class: num
       field: Numbers and grammar words
       gloss: "three"
+      concept: three
       source: {kind: worn, form: karzis}
   icon: icon-speaking
   templatePriority: null

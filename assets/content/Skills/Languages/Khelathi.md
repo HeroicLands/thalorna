@@ -6,6 +6,7 @@ subType: language
 description: "The ancient speech of Au'Khelathu, bound to ritual and sorcery, written in the hieroglyphs of the sacred hand for priests and the Qalezu alphabet for everyone else."
 tags: []
 data:
+  core: true
   abbreviation: Khel.
   banner: khelathubnr
   icon: icon-speaking
@@ -290,6 +291,7 @@ data:
       class: "stem"
       field: "Rank morphemes"
       gloss: "heart, and the account a heart answers for"
+      concept: heart
     - {form: "Wazu", class: "stem", field: "Rank morphemes", gloss: "pure"}
     - {form: "Genzet", class: "stem", field: "Rank morphemes", gloss: "council"}
     - {form: "Selat", class: "stem", field: "Rank morphemes", gloss: "province"}
@@ -331,6 +333,7 @@ data:
       class: "n"
       field: "Occupations"
       gloss: "the lock, and the locksmiths' work-word"
+      concept: lock
     - form: "qethar"
       class: "n"
       field: "Occupations"
@@ -466,7 +469,11 @@ data:
     - {form: lekhau, class: n, field: "Temple, arcane and cosmology", gloss: sacred power}
     - {form: zethu, class: n, field: "Temple, arcane and cosmology", gloss: [writing, a scribe]}
     - {form: nelgir, class: n, field: "Temple, arcane and cosmology", gloss: god}
-    - {form: halzi, class: n, field: "Temple, arcane and cosmology", gloss: "heart, account"}
+    - form: halzi
+      class: n
+      field: "Temple, arcane and cosmology"
+      gloss: "heart, account"
+      concept: heart
     - {form: igelu, class: n, field: "Temple, arcane and cosmology", gloss: the river}
     - form: Zulaten
       class: name
@@ -556,18 +563,18 @@ data:
       field: "The realm, its people and its hands"
       gloss: the everyday alphabet
     - {form: "Lin'", class: "stem", field: "Head-words", gloss: "The opening of a guild's name"}
-    - {form: lazen, class: num, field: "Numbers", gloss: "one"}
-    - {form: khul, class: num, field: "Numbers", gloss: "two"}
-    - {form: khemu, class: num, field: "Numbers", gloss: "three"}
-    - {form: tuzar, class: num, field: "Numbers", gloss: "four"}
-    - {form: chalen, class: num, field: "Numbers", gloss: "five"}
-    - {form: chun, class: num, field: "Numbers", gloss: "six"}
-    - {form: salet, class: num, field: "Numbers", gloss: "seven"}
-    - {form: waqen, class: num, field: "Numbers", gloss: "eight"}
-    - {form: qanu, class: num, field: "Numbers", gloss: "nine"}
-    - {form: gerun, class: num, field: "Numbers", gloss: "ten"}
-    - {form: khen, class: num, field: "Numbers", gloss: "a hundred"}
-    - {form: qalzun, class: num, field: "Numbers", gloss: "a thousand"}
+    - {form: lazen, class: num, field: "Numbers", gloss: "one", concept: one}
+    - {form: khul, class: num, field: "Numbers", gloss: "two", concept: two}
+    - {form: khemu, class: num, field: "Numbers", gloss: "three", concept: three}
+    - {form: tuzar, class: num, field: "Numbers", gloss: "four", concept: four}
+    - {form: chalen, class: num, field: "Numbers", gloss: "five", concept: five}
+    - {form: chun, class: num, field: "Numbers", gloss: "six", concept: six}
+    - {form: salet, class: num, field: "Numbers", gloss: "seven", concept: seven}
+    - {form: waqen, class: num, field: "Numbers", gloss: "eight", concept: eight}
+    - {form: qanu, class: num, field: "Numbers", gloss: "nine", concept: nine}
+    - {form: gerun, class: num, field: "Numbers", gloss: "ten", concept: ten}
+    - {form: khen, class: num, field: "Numbers", gloss: "a hundred", concept: hundred}
+    - {form: qalzun, class: num, field: "Numbers", gloss: "a thousand", concept: thousand}
     - form: mazel
       class: v
       field: "Doing"

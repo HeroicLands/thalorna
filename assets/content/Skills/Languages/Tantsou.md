@@ -6,6 +6,7 @@ subType: language
 description: "The imperial speech of Tantsou—tonal and sung, logographic in script, built of single-syllable roots set side by side, with vernaculars that drift the farther one travels from the capital."
 tags: []
 data:
+  core: true
   abbreviation: Tant.
   fields:
     - name: "Sky, land and the elements"
@@ -19,10 +20,14 @@ data:
     - {name: Doing and describing, holds: "The verbs and the qualities that open compound names."}
   grammar: {verbs: {invariant: true}}
   words:
-    - {form: ho, class: "n", field: "Sky, land and the elements", gloss: "fire"}
+    - {form: ho, class: "n", field: "Sky, land and the elements", gloss: "fire", concept: fire}
     - {form: jing, class: "n", field: "Sky, land and the elements", gloss: "metal, gold"}
     - {form: mou, class: "n", field: "Sky, land and the elements", gloss: "wood"}
-    - {form: shou, class: "n", field: "Sky, land and the elements", gloss: "water, river"}
+    - form: shou
+      class: "n"
+      field: "Sky, land and the elements"
+      gloss: "water, river"
+      concept: water
     - {form: tou, class: "n", field: "Sky, land and the elements", gloss: "earth, soil"}
     - {form: weng, class: "n", field: "Sky, land and the elements", gloss: "wind"}
     - {form: chai, class: "n", field: "Sky, land and the elements", gloss: "mountain, peak, place"}
@@ -43,15 +48,23 @@ data:
       field: "Sky, land and the elements"
       gloss: "heaven, the sky; celestial"
     - {form: tan, class: adj, field: "Sky, land and the elements", gloss: "celestial, of heaven"}
-    - {form: muo, class: adj, field: Colour and number, gloss: "green"}
-    - {form: zhou, class: adj, field: Colour and number, gloss: "blue, azure; flowing"}
-    - {form: rin, class: adj, field: Colour and number, gloss: "red, vermilion"}
-    - {form: bui, class: adj, field: Colour and number, gloss: "white, silver"}
-    - {form: ha, class: adj, field: Colour and number, gloss: "dark, black, hidden; shadow"}
+    - {form: muo, class: adj, field: Colour and number, gloss: "green", concept: green}
+    - form: zhou
+      class: adj
+      field: Colour and number
+      gloss: "blue, azure; flowing"
+      concept: blue
+    - {form: rin, class: adj, field: Colour and number, gloss: "red, vermilion", concept: red}
+    - {form: bui, class: adj, field: Colour and number, gloss: "white, silver", concept: white}
+    - form: ha
+      class: adj
+      field: Colour and number
+      gloss: "dark, black, hidden; shadow"
+      concept: black
     - {form: leng, class: adj, field: Colour and number, gloss: "bright, radiant; dawn"}
-    - {form: jen, class: num, field: Colour and number, gloss: "nine"}
-    - {form: wuen, class: num, field: Colour and number, gloss: "five"}
-    - {form: wai, class: num, field: Colour and number, gloss: "ten"}
+    - {form: jen, class: num, field: Colour and number, gloss: "nine", concept: nine}
+    - {form: wuen, class: num, field: Colour and number, gloss: "five", concept: five}
+    - {form: wai, class: num, field: Colour and number, gloss: "ten", concept: ten}
     - {form: rong, class: num, field: Colour and number, gloss: "ten thousand, a myriad"}
     - {form: chen, class: "n", field: "People, rank and office", gloss: "emperor, king"}
     - {form: zhuo, class: "n", field: "People, rank and office", gloss: "lord, sovereign"}
@@ -61,15 +74,23 @@ data:
     - {form: wuo, class: "n", field: "People, rank and office", gloss: "warrior, soldier"}
     - {form: chei, class: "n", field: "People, rank and office", gloss: "scholar, sage"}
     - {form: yai, class: "n", field: "People, rank and office", gloss: "healer, physician"}
-    - {form: zhei, class: "n", field: "People, rank and office", gloss: "son, child"}
+    - form: zhei
+      class: "n"
+      field: "People, rank and office"
+      gloss: "son, child"
+      concept: [son, child]
     - {form: nong, class: "n", field: "People, rank and office", gloss: "person, folk"}
     - {form: nui, class: adj, field: "People, rank and office", gloss: "bound, enslaved"}
     - {form: tsou, class: "n", field: "People, rank and office", gloss: "tribe, group, people"}
     - {form: zhao, class: "n", field: "People, rank and office", gloss: "house, clan, family"}
-    - {form: ken, class: "n", field: "People, rank and office", gloss: "hearth, household"}
+    - form: ken
+      class: "n"
+      field: "People, rank and office"
+      gloss: "hearth, household"
+      concept: hearth
     - {form: shuo, class: "n", field: "People, rank and office", gloss: "trade"}
     - {form: ja, class: "n", field: "People, rank and office", gloss: "blade"}
-    - {form: huo, class: "n", field: "People, rank and office", gloss: "hand"}
+    - {form: huo, class: "n", field: "People, rank and office", gloss: "hand", concept: hand}
     - form: wen
       class: "n"
       field: "Heaven, law and the order of things"
