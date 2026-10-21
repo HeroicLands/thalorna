@@ -44,7 +44,7 @@
         "lint:markdown:fix": "package-build markdown --fix",
         "lint:content-links": "package-build links",
         "lint:addresses": "package-build lint",
-        "build:site": "package-build site build",
+        "build:site": "run-s build:deps && package-build site build",
         "build:book": "package-build pdf",
         "serve:site": "package-build site serve",
         "build:pack-release": "package-build release",
