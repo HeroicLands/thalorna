@@ -33,7 +33,7 @@
         {
             "episode": 1,
             "title": "The heading",
-            "english": "Year 1 of the Gar-Au ⟨Meqes, the seventh of the name⟩, {living, enduring, strong}. Went to the West the Gar-Au ⟨Meqes, the sixth of the name⟩, [Lord of the River and of the Two Banks], beloved of Uqa'a, {fire of Uqa'a upon the mound, who stood, who was crowned, lord of the count, whose house is entered, whose seal is on the granary, whose grain the barges carry}, [given life like the sun forever], in his twenty-seventh year. His account is read.",
+            "english": "Year 1 of the Gar-Au ⟨Meqes, the seventh of the name⟩, {living, enduring, strong}. Went to the West the Gar-Au ⟨Meqes, the sixth of the name⟩, [Lord of the River and of the Two Banks], beloved of Uqa'a, {fire of Uqa'a upon the mound, who stood, who was crowned, lord of the count, whose seal is on the granary, whose grain the barges carry}, [given life like the sun forever], in his twenty-seventh year. His account is read.",
             "registers": [1]
         },
         {
@@ -57,7 +57,7 @@
         {
             "episode": 5,
             "title": "The great hunt and the lean years",
-            "english": "Rode he out, {the Gar-Au ⟨Meqes⟩, beloved of Uqa'a, Lord of the River and of the Two Banks,} against the river-horses that ravaged the herds and the fields, and the beasts taken were counted. In the years of the low river he opened the god's granaries under his seal, which he had filled in the years of the flood, and none of his people hungered.",
+            "english": "Rode he out, {the Gar-Au ⟨Meqes⟩, beloved of Uqa'a, Lord of the River and of the Two Banks,} against the lions and the river-horses that ravaged the herds and the fields, and the beasts taken were counted. In the years of the low river he opened the god's granaries under his seal, which he had filled in the years of the flood, and none of his people hungered.",
             "registers": [7, 8]
         },
         {
@@ -72,14 +72,10 @@
             "n": 1,
             "episode": 1,
             "line_in_episode": 1,
-            "mdc": "16-024:16-004-11-001:11-002-<13-002*13-003-12-005:16-021>-08-005*10-002-01-014*04-015:10-014-11-001:11-002-<13-002*13-003-12-005:16-027>-01-060*01-013:10-016-10-001-10-016:10-028-16-005*02-017-10-016:16-001*13-003*16-001-09-002*09-015:10-016-09-002:10-016-10-011:15-007-01-060*01-013:10-016-13-035:11-003-14-018*13-032:10-016-11-004-14-016:12-014-03-023*08-005:09-005-10-002-10-016:16-024-16-003*16-003:16-021*04-018-03-005",
-            "text_width": 24.82,
-            "slack": 6.48,
+            "mdc": "16-024:16-004-11-001:11-002-<13-002*13-003-12-005:16-021>-08-005*10-002-01-014*04-028:10-014-11-001:11-002-<13-002*13-003-12-005:16-027>-01-060*01-013:10-016-10-001-10-016:10-025-16-005*02-017-10-016:16-001*13-003*16-001-09-002*09-014:10-016-09-002:10-016:10-011-01-081-01-013:10-016-13-035:15-010-10-016:11-004-14-016:12-014-04-009*08-005:13-043*09-005-10-002-10-016:16-024-16-003*16-003:16-021*04-018-14-026",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 0.97,
-                    "width": 0.932,
                     "rows": [
                         [
                             {
@@ -115,8 +111,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.633,
-                    "width": 0.611,
                     "rows": [
                         [
                             {
@@ -152,8 +146,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.834,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -187,8 +179,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.642,
-                    "width": 0.561,
                     "rows": [
                         [
                             {
@@ -217,15 +207,13 @@
                                 "w": 0.47,
                                 "h": 0.616,
                                 "mirror": false,
-                                "flag": "ordinal"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.941,
                     "rows": [
                         [
                             {
@@ -261,8 +249,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.708,
-                    "width": 0.995,
                     "rows": [
                         [
                             {
@@ -280,15 +266,15 @@
                                 "added_from": "Stela of Kuz'Uqa :59"
                             },
                             {
-                                "id": "04-015",
-                                "codepoint": "U+1EAB8",
-                                "subject": "legs walking",
+                                "id": "04-028",
+                                "codepoint": "U+1EC2C",
+                                "subject": "legs striding down a slope",
                                 "writes": "went (to the West)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.727,
-                                "h": 0.887,
+                                "w": 0.894,
+                                "h": 0.958,
                                 "mirror": false,
                                 "flag": null
                             }
@@ -312,8 +298,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.633,
-                    "width": 0.611,
                     "rows": [
                         [
                             {
@@ -349,8 +333,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.834,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -384,8 +366,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.642,
-                    "width": 0.561,
                     "rows": [
                         [
                             {
@@ -414,15 +394,13 @@
                                 "w": 0.34,
                                 "h": 0.616,
                                 "mirror": false,
-                                "flag": "ordinal"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.816,
-                    "width": 0.769,
                     "rows": [
                         [
                             {
@@ -473,8 +451,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.47,
                     "rows": [
                         [
                             {
@@ -496,8 +472,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.943,
                     "rows": [
                         [
                             {
@@ -517,17 +491,17 @@
                         ],
                         [
                             {
-                                "id": "10-028",
-                                "codepoint": "U+1EB63",
-                                "subject": "land and a sprout",
-                                "writes": "the land (bank)",
+                                "id": "10-025",
+                                "codepoint": "U+1EB60",
+                                "subject": "river bank",
+                                "writes": "the bank",
                                 "role": "ideogram",
                                 "colour": "land",
                                 "shape": "low",
-                                "w": 0.94,
-                                "h": 0.629,
+                                "w": 0.973,
+                                "h": 0.319,
                                 "mirror": false,
-                                "flag": "bank",
+                                "flag": null,
                                 "restored": true
                             }
                         ]
@@ -535,8 +509,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.694,
                     "rows": [
                         [
                             {
@@ -550,7 +522,7 @@
                                 "w": 0.21,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "bank",
+                                "flag": null,
                                 "restored": true
                             },
                             {
@@ -571,8 +543,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.844,
-                    "width": 0.796,
                     "rows": [
                         [
                             {
@@ -634,8 +604,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.738,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -652,17 +620,17 @@
                                 "flag": null
                             },
                             {
-                                "id": "09-015",
-                                "codepoint": "U+1EB3F",
-                                "subject": "smoke rising from a hearth",
-                                "writes": "fire (the hearth's flame)",
+                                "id": "09-014",
+                                "codepoint": "U+1EB3E",
+                                "subject": "flame on a brazier",
+                                "writes": "fire (the fire of Uqa'a)",
                                 "role": "ideogram",
                                 "colour": "god:uqaa",
                                 "shape": "tall",
-                                "w": 0.496,
-                                "h": 0.948,
+                                "w": 0.656,
+                                "h": 0.739,
                                 "mirror": false,
-                                "flag": "fire",
+                                "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :50"
                             }
                         ],
@@ -686,8 +654,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.901,
-                    "width": 0.86,
                     "rows": [
                         [
                             {
@@ -720,14 +686,7 @@
                                 "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :50"
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 0.962,
-                    "width": 0.937,
-                    "rows": [
+                        ],
                         [
                             {
                                 "id": "10-011",
@@ -743,20 +702,25 @@
                                 "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :50"
                             }
-                        ],
+                        ]
+                    ]
+                },
+                {
+                    "frame": false,
+                    "rows": [
                         [
                             {
-                                "id": "15-007",
-                                "codepoint": "U+1EBD1",
-                                "subject": "the crown of the Gar-Au: gold band with azure uprights and the two-headed serpent",
-                                "writes": "who stood, who was crowned (the crown)",
+                                "id": "01-081",
+                                "codepoint": "U+1EC32",
+                                "subject": "the Gar-Au standing upon the mound, crowned",
+                                "writes": "who stood, who was crowned (stood upon the mound)",
                                 "role": "ideogram",
-                                "colour": "gold",
-                                "shape": "low",
-                                "w": 0.856,
-                                "h": 0.656,
+                                "colour": "figure",
+                                "shape": "tall",
+                                "w": 0.513,
+                                "h": 0.955,
                                 "mirror": false,
-                                "flag": "stood",
+                                "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :57"
                             }
                         ]
@@ -764,24 +728,8 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.816,
-                    "width": 0.769,
                     "rows": [
                         [
-                            {
-                                "id": "01-060",
-                                "codepoint": "U+1EA7B",
-                                "subject": "figure seated on a stepped throne, the crown of the Gar-Au",
-                                "writes": "(the Gar-Au enthroned, det.)",
-                                "role": "determinative",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.564,
-                                "h": 0.955,
-                                "mirror": false,
-                                "flag": null,
-                                "added_from": "Stela of Kuz'Uqa :57"
-                            },
                             {
                                 "id": "01-013",
                                 "codepoint": "U+1EA4C",
@@ -817,8 +765,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.648,
-                    "width": 0.629,
                     "rows": [
                         [
                             {
@@ -838,57 +784,25 @@
                         ],
                         [
                             {
-                                "id": "11-003",
-                                "codepoint": "U+1EB66",
-                                "subject": "house, roof and door",
-                                "writes": "whose house",
+                                "id": "15-010",
+                                "codepoint": "U+1EBD4",
+                                "subject": "signet ring",
+                                "writes": "whose seal (his own seal)",
                                 "role": "ideogram",
-                                "colour": "object",
-                                "shape": "tall",
-                                "w": 0.895,
-                                "h": 0.9,
+                                "colour": "gold",
+                                "shape": "small",
+                                "w": 0.376,
+                                "h": 0.479,
                                 "mirror": false,
-                                "flag": "houseentered",
-                                "added_from": "Stela of Kuz'Uqa :56, :58"
+                                "flag": "gravingseal",
+                                "added_from": "Stela of Kuz'Uqa :58"
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.82,
-                    "width": 0.961,
                     "rows": [
-                        [
-                            {
-                                "id": "14-018",
-                                "codepoint": "U+1EBC5",
-                                "subject": "clay tablet",
-                                "writes": "is entered (the tablet)",
-                                "role": "ideogram",
-                                "colour": "object",
-                                "shape": "tall",
-                                "w": 0.557,
-                                "h": 0.857,
-                                "mirror": false,
-                                "flag": "houseentered",
-                                "added_from": "Stela of Kuz'Uqa :56, :58"
-                            },
-                            {
-                                "id": "13-032",
-                                "codepoint": "U+1EBAA",
-                                "subject": "stamp seal",
-                                "writes": "whose seal",
-                                "role": "ideogram",
-                                "colour": "object",
-                                "shape": "tall",
-                                "w": 0.574,
-                                "h": 0.953,
-                                "mirror": false,
-                                "flag": "gravingseal",
-                                "added_from": "Stela of Kuz'Uqa :56, :58"
-                            }
-                        ],
                         [
                             {
                                 "id": "10-016",
@@ -904,14 +818,7 @@
                                 "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :56, :58"
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 1,
-                    "width": 0.79,
-                    "rows": [
+                        ],
                         [
                             {
                                 "id": "11-004",
@@ -932,8 +839,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.908,
-                    "width": 0.886,
                     "rows": [
                         [
                             {
@@ -971,22 +876,20 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.693,
-                    "width": 0.949,
                     "rows": [
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "given",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give",
+                                "flag": null,
                                 "restored": true
                             },
                             {
@@ -1006,17 +909,31 @@
                         ],
                         [
                             {
+                                "id": "13-043",
+                                "codepoint": "U+1EC27",
+                                "subject": "two weight-pieces of one size side by side",
+                                "writes": "like",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.935,
+                                "h": 0.295,
+                                "mirror": false,
+                                "flag": null,
+                                "restored": true
+                            },
+                            {
                                 "id": "09-005",
                                 "codepoint": "U+1EB35",
                                 "subject": "disk at the top of the arch",
-                                "writes": "like the sun (thelqen)",
+                                "writes": "the sun (thelqen)",
                                 "role": "ideogram",
                                 "colour": "gold",
                                 "shape": "low",
                                 "w": 0.955,
                                 "h": 0.505,
                                 "mirror": false,
-                                "flag": "like",
+                                "flag": null,
                                 "restored": true
                             }
                         ]
@@ -1024,8 +941,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.435,
                     "rows": [
                         [
                             {
@@ -1047,8 +962,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.961,
                     "rows": [
                         [
                             {
@@ -1084,8 +997,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.835,
-                    "width": 0.959,
                     "rows": [
                         [
                             {
@@ -1147,22 +1058,20 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.818,
                     "rows": [
                         [
                             {
-                                "id": "03-005",
-                                "codepoint": "U+1EA95",
-                                "subject": "a curl of breath leaving a mouth",
-                                "writes": "is read (breath leaving a mouth)",
+                                "id": "14-026",
+                                "codepoint": "U+1EBFA",
+                                "subject": "open mouth beside a roll",
+                                "writes": "is read (the mouth beside the roll)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.818,
-                                "h": 0.691,
+                                "w": 0.83,
+                                "h": 0.811,
                                 "mirror": false,
-                                "flag": "read"
+                                "flag": null
                             }
                         ]
                     ]
@@ -1173,14 +1082,10 @@
             "n": 2,
             "episode": 2,
             "line_in_episode": 1,
-            "mdc": "03-009-01-026-10-016:02-011*01-011-10-016:11-003-12-006-16-001:13-002-13-007:15-007-01-060-10-016:10-011:13-005-13-001*13-008:10-012-01-002*03-001:16-006*10-016-09-002:15-007-03-023*13-042-<13-002-13-003*12-005>-13-042-14-019*16-006:16-024-13-003*16-001*12-007-13-005-03-006:04-011-13-033:10-016-04-006:12-007*12-009-16-001:12-005-16-001*12-007-03-007:01-041*13-042-10-016:11-013*03-001-16-006:03-023-08-005*03-029:09-005",
-            "text_width": 25.69,
-            "slack": 5.61,
+            "mdc": "03-009:04-026-10-016:02-003*01-011-10-016:11-003-12-006-16-001:13-002-13-007*01-081-10-016:10-011:13-005-13-001*13-008:10-012-01-078*16-006:10-016-09-002:15-007-04-009:13-042-<13-002-13-003*12-005>-13-042-14-019*16-006:16-024-13-003*16-001*12-007-13-005-03-006:04-011:03-025-13-033:10-016-04-006:12-007*12-009-16-001:12-005-16-001*12-007-03-007:01-041*13-042-10-016:11-013*03-001-16-006:04-009-08-005*03-029:13-043*09-005",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.786,
                     "rows": [
                         [
                             {
@@ -1196,35 +1101,26 @@
                                 "mirror": false,
                                 "flag": null
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 1,
-                    "width": 0.677,
-                    "rows": [
+                        ],
                         [
                             {
-                                "id": "01-026",
-                                "codepoint": "U+1EA59",
-                                "subject": "man at the wheel",
-                                "writes": "shaped (the potter at the wheel)",
+                                "id": "04-026",
+                                "codepoint": "U+1EC28",
+                                "subject": "two hands shaping a lump of clay",
+                                "writes": "shaped (the hands shaping clay)",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.677,
-                                "h": 0.952,
+                                "shape": "low",
+                                "w": 0.975,
+                                "h": 0.426,
                                 "mirror": false,
-                                "flag": "shaped"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.815,
-                    "width": 1.009,
                     "rows": [
                         [
                             {
@@ -1244,17 +1140,17 @@
                         ],
                         [
                             {
-                                "id": "02-011",
-                                "codepoint": "U+1EA88",
-                                "subject": "seated lady in a long garment",
-                                "writes": "the womb (the mother)",
+                                "id": "02-003",
+                                "codepoint": "U+1EA80",
+                                "subject": "seated pregnant woman",
+                                "writes": "the womb (the pregnant woman)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.594,
-                                "h": 0.945,
+                                "w": 0.626,
+                                "h": 0.956,
                                 "mirror": false,
-                                "flag": "womb",
+                                "flag": null,
                                 "restored": true
                             },
                             {
@@ -1275,8 +1171,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.858,
-                    "width": 0.809,
                     "rows": [
                         [
                             {
@@ -1312,8 +1206,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.874,
                     "rows": [
                         [
                             {
@@ -1334,8 +1226,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.908,
-                    "width": 0.906,
                     "rows": [
                         [
                             {
@@ -1371,8 +1261,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.629,
-                    "width": 0.58,
                     "rows": [
                         [
                             {
@@ -1387,40 +1275,16 @@
                                 "h": 0.895,
                                 "mirror": false,
                                 "flag": null
-                            }
-                        ],
-                        [
+                            },
                             {
-                                "id": "15-007",
-                                "codepoint": "U+1EBD1",
-                                "subject": "the crown of the Gar-Au: gold band with azure uprights and the two-headed serpent",
-                                "writes": "stood (crowned)",
+                                "id": "01-081",
+                                "codepoint": "U+1EC32",
+                                "subject": "the Gar-Au standing upon the mound, crowned",
+                                "writes": "stood he upon the mound",
                                 "role": "ideogram",
-                                "colour": "gold",
-                                "shape": "low",
-                                "w": 0.856,
-                                "h": 0.656,
-                                "mirror": false,
-                                "flag": "stood"
-                            }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 1,
-                    "width": 0.564,
-                    "rows": [
-                        [
-                            {
-                                "id": "01-060",
-                                "codepoint": "U+1EA7B",
-                                "subject": "figure seated on a stepped throne, the crown of the Gar-Au",
-                                "writes": "the Gar-Au (det.)",
-                                "role": "determinative",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.564,
+                                "w": 0.513,
                                 "h": 0.955,
                                 "mirror": false,
                                 "flag": null
@@ -1430,15 +1294,13 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.622,
-                    "width": 0.607,
                     "rows": [
                         [
                             {
                                 "id": "10-016",
                                 "codepoint": "U+1EB57",
                                 "subject": "field with furrows, one edge showing",
-                                "writes": "elu, upon",
+                                "writes": "ezu, at",
                                 "role": "phonetic",
                                 "colour": "plant",
                                 "shape": "low",
@@ -1453,7 +1315,7 @@
                                 "id": "10-011",
                                 "codepoint": "U+1EB52",
                                 "subject": "mound on a flat",
-                                "writes": "the mound; Yath- (mound)",
+                                "writes": "Yath- (mound)",
                                 "role": "ideogram",
                                 "colour": "land",
                                 "shape": "low",
@@ -1483,8 +1345,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.678,
-                    "width": 0.766,
                     "rows": [
                         [
                             {
@@ -1536,40 +1396,22 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.789,
-                    "width": 1.083,
                     "rows": [
                         [
                             {
-                                "id": "01-002",
-                                "codepoint": "U+1EA41",
-                                "subject": "kneeling servant, palms up on the thighs",
-                                "writes": "the priesthood (lem, servant)",
+                                "id": "01-078",
+                                "codepoint": "U+1EC2A",
+                                "subject": "standing man in a linen kilt pouring a libation",
+                                "writes": "the priesthood (the priest)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.744,
-                                "h": 0.952,
+                                "w": 0.539,
+                                "h": 0.958,
                                 "mirror": false,
-                                "flag": "priesthood",
-                                "added_from": "Stela of Kuz'Uqa :105, :107"
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :104-107"
                             },
-                            {
-                                "id": "03-001",
-                                "codepoint": "U+1EA91",
-                                "subject": "seated god, hands on his knees",
-                                "writes": "of the god (Lem'Nelgir, priest)",
-                                "role": "determinative",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.588,
-                                "h": 0.943,
-                                "mirror": false,
-                                "flag": "priesthood",
-                                "added_from": "Stela of Kuz'Uqa :105, :107"
-                            }
-                        ],
-                        [
                             {
                                 "id": "16-006",
                                 "codepoint": "U+1EBE1",
@@ -1581,9 +1423,11 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :105, :107"
-                            },
+                            }
+                        ],
+                        [
                             {
                                 "id": "10-016",
                                 "codepoint": "U+1EB57",
@@ -1603,8 +1447,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.649,
-                    "width": 0.62,
                     "rows": [
                         [
                             {
@@ -1634,7 +1476,7 @@
                                 "w": 0.856,
                                 "h": 0.656,
                                 "mirror": false,
-                                "flag": null,
+                                "flag": "crown",
                                 "added_from": "Stela of Kuz'Uqa :105, :107"
                             }
                         ]
@@ -1642,24 +1484,24 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.872,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "gave him",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give",
-                                "added_from": "Stela of Kuz'Uqa :105, :107"
-                            },
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :104-107"
+                            }
+                        ],
+                        [
                             {
                                 "id": "13-042",
                                 "codepoint": "U+1EC05",
@@ -1679,8 +1521,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 1,
-                    "width": 0.997,
                     "rows": [
                         [
                             {
@@ -1702,8 +1542,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.92,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -1739,8 +1577,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.36,
                     "rows": [
                         [
                             {
@@ -1762,8 +1598,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.808,
-                    "width": 1.047,
                     "rows": [
                         [
                             {
@@ -1791,7 +1625,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "added_from": "Stela of Kuz'Uqa :108"
                             }
                         ],
@@ -1815,8 +1649,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 1.045,
                     "rows": [
                         [
                             {
@@ -1863,8 +1695,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.847,
                     "rows": [
                         [
                             {
@@ -1885,8 +1715,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.894,
-                    "width": 0.816,
                     "rows": [
                         [
                             {
@@ -1915,15 +1743,28 @@
                                 "w": 0.913,
                                 "h": 0.265,
                                 "mirror": false,
-                                "flag": "set"
+                                "flag": null
+                            }
+                        ],
+                        [
+                            {
+                                "id": "03-025",
+                                "codepoint": "U+1EAA9",
+                                "subject": "a low stand with a flat top",
+                                "writes": "(over the stand: set, place)",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.975,
+                                "h": 0.275,
+                                "mirror": false,
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.918,
-                    "width": 0.882,
                     "rows": [
                         [
                             {
@@ -1959,8 +1800,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.728,
-                    "width": 0.738,
                     "rows": [
                         [
                             {
@@ -2009,8 +1848,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.808,
-                    "width": 0.707,
                     "rows": [
                         [
                             {
@@ -2046,8 +1883,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.723,
                     "rows": [
                         [
                             {
@@ -2081,8 +1916,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.661,
-                    "width": 0.758,
                     "rows": [
                         [
                             {
@@ -2131,8 +1964,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.826,
-                    "width": 1.092,
                     "rows": [
                         [
                             {
@@ -2183,8 +2014,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.89,
-                    "width": 0.767,
                     "rows": [
                         [
                             {
@@ -2198,30 +2027,28 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "gave",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.684,
-                    "width": 0.974,
                     "rows": [
                         [
                             {
@@ -2253,17 +2080,30 @@
                         ],
                         [
                             {
+                                "id": "13-043",
+                                "codepoint": "U+1EC27",
+                                "subject": "two weight-pieces of one size side by side",
+                                "writes": "like",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.935,
+                                "h": 0.295,
+                                "mirror": false,
+                                "flag": null
+                            },
+                            {
                                 "id": "09-005",
                                 "codepoint": "U+1EB35",
                                 "subject": "disk at the top of the arch",
-                                "writes": "like the sun (thelqen)",
+                                "writes": "the sun (thelqen)",
                                 "role": "ideogram",
                                 "colour": "gold",
                                 "shape": "low",
                                 "w": 0.955,
                                 "h": 0.505,
                                 "mirror": false,
-                                "flag": "like"
+                                "flag": null
                             }
                         ]
                     ]
@@ -2274,26 +2114,22 @@
             "n": 3,
             "episode": 3,
             "line_in_episode": 1,
-            "mdc": "04-015-01-060-11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002*01-013:10-016-10-001-10-016:10-028:16-005-03-023*08-005:09-005-10-002-01-066:01-040",
-            "text_width": 10.81,
-            "slack": 1.6,
+            "mdc": "04-028-01-060-11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002*01-013:10-016-10-001-10-016:10-025:16-005-04-009*08-005:13-043*09-005-10-002",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.727,
                     "rows": [
                         [
                             {
-                                "id": "04-015",
-                                "codepoint": "U+1EAB8",
-                                "subject": "legs walking",
+                                "id": "04-028",
+                                "codepoint": "U+1EC2C",
+                                "subject": "legs striding down a slope",
                                 "writes": "came down",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.727,
-                                "h": 0.887,
+                                "w": 0.894,
+                                "h": 0.958,
                                 "mirror": false,
                                 "flag": null
                             }
@@ -2302,8 +2138,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.564,
                     "rows": [
                         [
                             {
@@ -2324,8 +2158,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.633,
-                    "width": 0.611,
                     "rows": [
                         [
                             {
@@ -2363,8 +2195,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 1,
-                    "width": 0.997,
                     "rows": [
                         [
                             {
@@ -2386,8 +2216,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.92,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -2423,8 +2251,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.444,
                     "rows": [
                         [
                             {
@@ -2446,8 +2272,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.844,
-                    "width": 0.796,
                     "rows": [
                         [
                             {
@@ -2513,8 +2337,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.816,
-                    "width": 1.075,
                     "rows": [
                         [
                             {
@@ -2566,8 +2388,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.47,
                     "rows": [
                         [
                             {
@@ -2589,8 +2409,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.826,
-                    "width": 0.779,
                     "rows": [
                         [
                             {
@@ -2610,18 +2428,18 @@
                         ],
                         [
                             {
-                                "id": "10-028",
-                                "codepoint": "U+1EB63",
-                                "subject": "land and a sprout",
-                                "writes": "the land (bank)",
+                                "id": "10-025",
+                                "codepoint": "U+1EB60",
+                                "subject": "river bank",
+                                "writes": "the bank",
                                 "role": "ideogram",
                                 "colour": "land",
                                 "shape": "low",
-                                "w": 0.94,
-                                "h": 0.629,
+                                "w": 0.973,
+                                "h": 0.319,
                                 "mirror": false,
-                                "flag": "bank",
-                                "added_from": "the approved titulary"
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :49-59"
                             }
                         ],
                         [
@@ -2636,7 +2454,7 @@
                                 "w": 0.21,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "bank",
+                                "flag": null,
                                 "added_from": "the approved titulary"
                             }
                         ]
@@ -2644,23 +2462,21 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.693,
-                    "width": 0.949,
                     "rows": [
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "given",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give",
-                                "added_from": "the approved titulary"
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :49-59"
                             },
                             {
                                 "id": "08-005",
@@ -2679,17 +2495,31 @@
                         ],
                         [
                             {
+                                "id": "13-043",
+                                "codepoint": "U+1EC27",
+                                "subject": "two weight-pieces of one size side by side",
+                                "writes": "like",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.935,
+                                "h": 0.295,
+                                "mirror": false,
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :49-59"
+                            },
+                            {
                                 "id": "09-005",
                                 "codepoint": "U+1EB35",
                                 "subject": "disk at the top of the arch",
-                                "writes": "like the sun (thelqen)",
+                                "writes": "the sun (thelqen)",
                                 "role": "ideogram",
                                 "colour": "gold",
                                 "shape": "low",
                                 "w": 0.955,
                                 "h": 0.505,
                                 "mirror": false,
-                                "flag": "like",
+                                "flag": null,
                                 "added_from": "the approved titulary"
                             }
                         ]
@@ -2697,8 +2527,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.435,
                     "rows": [
                         [
                             {
@@ -2717,27 +2545,18 @@
                             }
                         ]
                     ]
-                },
+                }
+            ]
+        },
+        {
+            "n": 4,
+            "episode": 3,
+            "line_in_episode": 2,
+            "mdc": "01-040-10-013:16-006:10-016-10-014:10-002*13-014-13-003*16-001*12-007-03-011*09-011:10-016-01-060-13-026:01-038-01-079*16-006-04-027:05-001*16-006-04-015*01-039:16-006-15-009:01-044-10-002*01-060",
+            "quadrats": [
                 {
                     "frame": false,
-                    "k": 0.635,
-                    "width": 0.607,
                     "rows": [
-                        [
-                            {
-                                "id": "01-066",
-                                "codepoint": "U+1EBFF",
-                                "subject": "two lines of men advancing against each other",
-                                "writes": "upon (in battle)",
-                                "role": "ideogram",
-                                "colour": "figure",
-                                "shape": "low",
-                                "w": 0.956,
-                                "h": 0.578,
-                                "mirror": false,
-                                "flag": "against"
-                            }
-                        ],
                         [
                             {
                                 "id": "01-040",
@@ -2754,21 +2573,9 @@
                             }
                         ]
                     ]
-                }
-            ]
-        },
-        {
-            "n": 4,
-            "episode": 3,
-            "line_in_episode": 2,
-            "mdc": "10-013:16-006:10-016-10-014:10-002*13-014-13-003*16-001*12-007-03-011*01-015:10-016-01-060-13-026:01-038-01-013*01-040:16-006-04-011:05-035*16-006-04-015*01-039:16-006*01-044-04-015-10-002*01-060",
-            "text_width": 10.34,
-            "slack": 2.07,
-            "quadrats": [
+                },
                 {
                     "frame": false,
-                    "k": 0.96,
-                    "width": 0.927,
                     "rows": [
                         [
                             {
@@ -2797,7 +2604,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -2819,8 +2626,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.709,
-                    "width": 0.794,
                     "rows": [
                         [
                             {
@@ -2869,8 +2674,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 1.045,
                     "rows": [
                         [
                             {
@@ -2917,8 +2720,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.789,
-                    "width": 0.897,
                     "rows": [
                         [
                             {
@@ -2935,17 +2736,17 @@
                                 "flag": null
                             },
                             {
-                                "id": "01-015",
-                                "codepoint": "U+1EA4E",
-                                "subject": "running man",
-                                "writes": "raged (rushing)",
+                                "id": "09-011",
+                                "codepoint": "U+1EB3B",
+                                "subject": "storm cloud",
+                                "writes": "raged (the storm)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.619,
-                                "h": 0.96,
+                                "w": 0.952,
+                                "h": 0.713,
                                 "mirror": false,
-                                "flag": "raged"
+                                "flag": null
                             }
                         ],
                         [
@@ -2967,8 +2768,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.564,
                     "rows": [
                         [
                             {
@@ -2989,8 +2788,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.772,
-                    "width": 0.737,
                     "rows": [
                         [
                             {
@@ -3026,38 +2823,21 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.784,
-                    "width": 0.773,
                     "rows": [
                         [
                             {
-                                "id": "01-013",
-                                "codepoint": "U+1EA4C",
-                                "subject": "standing man in a long garment",
-                                "writes": "their chieftains (lords)",
+                                "id": "01-079",
+                                "codepoint": "U+1EC2B",
+                                "subject": "bearded foreigner standing with a long staff",
+                                "writes": "their chieftains (the foreign chief)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.323,
-                                "h": 0.96,
-                                "mirror": false,
-                                "flag": "chieftain"
-                            },
-                            {
-                                "id": "01-040",
-                                "codepoint": "U+1EA67",
-                                "subject": "bushy-bearded man",
-                                "writes": "foreign (det.)",
-                                "role": "determinative",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.622,
-                                "h": 0.957,
+                                "w": 0.347,
+                                "h": 0.958,
                                 "mirror": false,
                                 "flag": null
-                            }
-                        ],
-                        [
+                            },
                             {
                                 "id": "16-006",
                                 "codepoint": "U+1EBE1",
@@ -3069,43 +2849,41 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.937,
-                    "width": 1.036,
                     "rows": [
                         [
                             {
-                                "id": "04-011",
-                                "codepoint": "U+1EAB4",
-                                "subject": "hand",
-                                "writes": "took (the hand)",
+                                "id": "04-027",
+                                "codepoint": "U+1EC29",
+                                "subject": "forearm, hand closed on a rope's end",
+                                "writes": "took",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "low",
-                                "w": 0.913,
-                                "h": 0.265,
+                                "shape": "tall",
+                                "w": 0.622,
+                                "h": 0.535,
                                 "mirror": false,
-                                "flag": "took",
+                                "flag": null,
                                 "restored": true
                             }
                         ],
                         [
                             {
-                                "id": "05-035",
-                                "codepoint": "U+1EAE2",
-                                "subject": "bull's head",
-                                "writes": "their herds",
+                                "id": "05-001",
+                                "codepoint": "U+1EAC0",
+                                "subject": "bull, standing",
+                                "writes": "their herds (the herd beast)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.725,
-                                "h": 0.762,
+                                "w": 0.957,
+                                "h": 0.844,
                                 "mirror": false,
                                 "flag": null,
                                 "restored": true
@@ -3121,7 +2899,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "restored": true
                             }
                         ]
@@ -3129,8 +2907,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.752,
-                    "width": 1.005,
                     "rows": [
                         [
                             {
@@ -3172,13 +2948,36 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
-                            },
+                                "flag": null
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "frame": false,
+                    "rows": [
+                        [
+                            {
+                                "id": "15-009",
+                                "codepoint": "U+1EBD3",
+                                "subject": "sandal",
+                                "writes": "beneath his sandals (the sandal)",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.959,
+                                "h": 0.265,
+                                "mirror": false,
+                                "flag": null,
+                                "restored": true
+                            }
+                        ],
+                        [
                             {
                                 "id": "01-044",
                                 "codepoint": "U+1EA6B",
                                 "subject": "man prostrate, face to the ground",
-                                "writes": "beneath (prostrate)",
+                                "writes": "(the prostrate man, under the sandal)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "low",
@@ -3193,31 +2992,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.727,
-                    "rows": [
-                        [
-                            {
-                                "id": "04-015",
-                                "codepoint": "U+1EAB8",
-                                "subject": "legs walking",
-                                "writes": "his sandals (the feet)",
-                                "role": "ideogram",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.727,
-                                "h": 0.887,
-                                "mirror": false,
-                                "flag": "sandals",
-                                "restored": true
-                            }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 1,
-                    "width": 1.039,
                     "rows": [
                         [
                             {
@@ -3257,14 +3031,10 @@
             "n": 5,
             "episode": 4,
             "line_in_episode": 1,
-            "mdc": "12-005-11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002-03-023*08-005:09-005-10-002*01-040:16-006*10-016-10-022:10-009",
-            "text_width": 9.53,
-            "slack": 0.09,
+            "mdc": "12-005-11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002-04-009*08-005:13-043*09-005-10-002*01-040:16-006*10-016",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.874,
                     "rows": [
                         [
                             {
@@ -3285,8 +3055,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.633,
-                    "width": 0.611,
                     "rows": [
                         [
                             {
@@ -3324,8 +3092,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 1,
-                    "width": 0.997,
                     "rows": [
                         [
                             {
@@ -3347,8 +3113,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.92,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -3384,8 +3148,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.444,
                     "rows": [
                         [
                             {
@@ -3407,8 +3169,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.844,
-                    "width": 0.796,
                     "rows": [
                         [
                             {
@@ -3474,8 +3234,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.955,
                     "rows": [
                         [
                             {
@@ -3497,23 +3255,21 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.693,
-                    "width": 0.949,
                     "rows": [
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "given",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give",
-                                "added_from": "the approved titulary"
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :49-59"
                             },
                             {
                                 "id": "08-005",
@@ -3532,17 +3288,31 @@
                         ],
                         [
                             {
+                                "id": "13-043",
+                                "codepoint": "U+1EC27",
+                                "subject": "two weight-pieces of one size side by side",
+                                "writes": "like",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.935,
+                                "h": 0.295,
+                                "mirror": false,
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :49-59"
+                            },
+                            {
                                 "id": "09-005",
                                 "codepoint": "U+1EB35",
                                 "subject": "disk at the top of the arch",
-                                "writes": "like the sun (thelqen)",
+                                "writes": "the sun (thelqen)",
                                 "role": "ideogram",
                                 "colour": "gold",
                                 "shape": "low",
                                 "w": 0.955,
                                 "h": 0.505,
                                 "mirror": false,
-                                "flag": "like",
+                                "flag": null,
                                 "added_from": "the approved titulary"
                             }
                         ]
@@ -3550,8 +3320,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.786,
-                    "width": 1.04,
                     "rows": [
                         [
                             {
@@ -3594,7 +3362,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             },
                             {
                                 "id": "10-016",
@@ -3608,43 +3376,6 @@
                                 "h": 0.226,
                                 "mirror": false,
                                 "flag": null
-                            }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 0.773,
-                    "width": 0.746,
-                    "rows": [
-                        [
-                            {
-                                "id": "10-022",
-                                "codepoint": "U+1EB5D",
-                                "subject": "water over broken rocks",
-                                "writes": "the sea",
-                                "role": "ideogram",
-                                "colour": "water",
-                                "shape": "low",
-                                "w": 0.927,
-                                "h": 0.597,
-                                "mirror": false,
-                                "flag": "sea"
-                            }
-                        ],
-                        [
-                            {
-                                "id": "10-009",
-                                "codepoint": "U+1EB50",
-                                "subject": "pool with trees round it",
-                                "writes": "north (Miglet): m-g",
-                                "role": "phonetic",
-                                "colour": "water",
-                                "shape": "low",
-                                "w": 0.964,
-                                "h": 0.656,
-                                "mirror": false,
-                                "flag": "north"
                             }
                         ]
                     ]
@@ -3655,26 +3386,37 @@
             "n": 6,
             "episode": 4,
             "line_in_episode": 2,
-            "mdc": "13-001-13-005*09-015:10-016-16-001*13-003-16-001:09-002-04-015:12-002-16-006:10-001-12-016:12-014-04-015:13-038-13-037*16-006:05-005*16-006-01-069-16-006:10-001*01-060",
-            "text_width": 8.72,
-            "slack": 0.9,
+            "mdc": "10-034:10-032-09-014:10-016-16-001*13-003-16-001:09-002-04-015:12-002-16-006:10-001-12-016:12-014-04-015:13-038-13-037*16-006:05-005*16-006-01-069-16-006:10-001*01-060",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.316,
                     "rows": [
                         [
                             {
-                                "id": "13-001",
-                                "codepoint": "U+1EB8B",
-                                "subject": "plumb-line with its bob",
-                                "writes": "Miglet: l",
-                                "role": "phonetic",
-                                "colour": "object",
+                                "id": "10-034",
+                                "codepoint": "U+1EC2E",
+                                "subject": "rows of wave crests with no bank",
+                                "writes": "the sea",
+                                "role": "ideogram",
+                                "colour": "water",
+                                "shape": "low",
+                                "w": 1.018,
+                                "h": 0.469,
+                                "mirror": false,
+                                "flag": null
+                            }
+                        ],
+                        [
+                            {
+                                "id": "10-032",
+                                "codepoint": "U+1EC2D",
+                                "subject": "a channel parting into three mouths at a wave line",
+                                "writes": "northern (the north, the delta)",
+                                "role": "ideogram",
+                                "colour": "water",
                                 "shape": "tall",
-                                "w": 0.316,
-                                "h": 0.917,
+                                "w": 0.982,
+                                "h": 0.881,
                                 "mirror": false,
                                 "flag": null
                             }
@@ -3683,35 +3425,20 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.795,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
-                                "id": "13-005",
-                                "codepoint": "U+1EB8F",
-                                "subject": "grain scoop",
-                                "writes": "Miglet: t",
-                                "role": "phonetic",
-                                "colour": "object",
-                                "shape": "tall",
-                                "w": 0.847,
-                                "h": 0.957,
-                                "mirror": false,
-                                "flag": null
-                            },
-                            {
-                                "id": "09-015",
-                                "codepoint": "U+1EB3F",
-                                "subject": "smoke rising from a hearth",
-                                "writes": "the fire (the hearth's flame)",
+                                "id": "09-014",
+                                "codepoint": "U+1EB3E",
+                                "subject": "flame on a brazier",
+                                "writes": "the fire (the fire of Uqa'a)",
                                 "role": "ideogram",
                                 "colour": "god:uqaa",
                                 "shape": "tall",
-                                "w": 0.496,
-                                "h": 0.948,
+                                "w": 0.656,
+                                "h": 0.739,
                                 "mirror": false,
-                                "flag": "fire"
+                                "flag": null
                             }
                         ],
                         [
@@ -3733,8 +3460,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.566,
                     "rows": [
                         [
                             {
@@ -3768,8 +3493,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.847,
-                    "width": 0.809,
                     "rows": [
                         [
                             {
@@ -3805,8 +3528,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.826,
-                    "width": 0.79,
                     "rows": [
                         [
                             {
@@ -3842,8 +3563,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.798,
-                    "width": 0.375,
                     "rows": [
                         [
                             {
@@ -3857,7 +3576,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -3879,8 +3598,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.962,
-                    "width": 0.919,
                     "rows": [
                         [
                             {
@@ -3916,8 +3633,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.648,
-                    "width": 0.525,
                     "rows": [
                         [
                             {
@@ -3953,8 +3668,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.806,
-                    "width": 1.077,
                     "rows": [
                         [
                             {
@@ -3981,7 +3694,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -4009,15 +3722,13 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.987,
-                    "width": 0.597,
                     "rows": [
                         [
                             {
@@ -4039,8 +3750,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.787,
-                    "width": 0.846,
                     "rows": [
                         [
                             {
@@ -4054,7 +3763,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "restored": true
                             }
                         ],
@@ -4096,14 +3805,10 @@
             "n": 7,
             "episode": 5,
             "line_in_episode": 1,
-            "mdc": "05-005-11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002*01-013:10-016-10-001-10-016:10-028-16-005*13-025",
-            "text_width": 9.28,
-            "slack": 1.58,
+            "mdc": "05-005-11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002*01-013:10-016-10-001-10-016:10-025-16-005*13-025",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.929,
                     "rows": [
                         [
                             {
@@ -4124,8 +3829,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.633,
-                    "width": 0.611,
                     "rows": [
                         [
                             {
@@ -4163,8 +3866,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 1,
-                    "width": 0.997,
                     "rows": [
                         [
                             {
@@ -4186,8 +3887,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.92,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -4223,8 +3922,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.444,
                     "rows": [
                         [
                             {
@@ -4246,8 +3943,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.844,
-                    "width": 0.796,
                     "rows": [
                         [
                             {
@@ -4313,8 +4008,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.816,
-                    "width": 1.075,
                     "rows": [
                         [
                             {
@@ -4366,8 +4059,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.47,
                     "rows": [
                         [
                             {
@@ -4389,8 +4080,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.943,
                     "rows": [
                         [
                             {
@@ -4410,26 +4099,24 @@
                         ],
                         [
                             {
-                                "id": "10-028",
-                                "codepoint": "U+1EB63",
-                                "subject": "land and a sprout",
-                                "writes": "the land (bank)",
+                                "id": "10-025",
+                                "codepoint": "U+1EB60",
+                                "subject": "river bank",
+                                "writes": "the bank",
                                 "role": "ideogram",
                                 "colour": "land",
                                 "shape": "low",
-                                "w": 0.94,
-                                "h": 0.629,
+                                "w": 0.973,
+                                "h": 0.319,
                                 "mirror": false,
-                                "flag": "bank",
-                                "added_from": "the approved titulary"
+                                "flag": null,
+                                "added_from": "Stela of Kuz'Uqa :49-59"
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.893,
                     "rows": [
                         [
                             {
@@ -4443,7 +4130,7 @@
                                 "w": 0.21,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "bank",
+                                "flag": null,
                                 "added_from": "the approved titulary"
                             },
                             {
@@ -4468,15 +4155,39 @@
             "n": 8,
             "episode": 5,
             "line_in_episode": 2,
-            "mdc": "05-018:16-006:10-016-05-035:16-006-10-008*16-006:13-035-09-019:16-006-10-016:09-018:04-011-13-032*11-004:16-006*10-016-03-001-14-016:10-016:09-019-16-006:10-016:09-016-01-068*16-006:14-007-08-005",
-            "text_width": 9.48,
-            "slack": 1.38,
+            "mdc": "05-015*16-006:05-018*16-006-10-016:05-001:16-006-10-008*16-006:13-035-09-019:16-006-10-016:09-018:04-011-15-010*11-004:16-006*10-016-03-001-14-016:10-016:09-019-16-006:10-016:09-016-01-068*16-006:14-007-08-005",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 0.959,
-                    "width": 0.959,
                     "rows": [
+                        [
+                            {
+                                "id": "05-015",
+                                "codepoint": "U+1EACE",
+                                "subject": "lion, standing",
+                                "writes": "the lions",
+                                "role": "ideogram",
+                                "colour": "figure",
+                                "shape": "tall",
+                                "w": 0.95,
+                                "h": 0.857,
+                                "mirror": false,
+                                "flag": "lions"
+                            },
+                            {
+                                "id": "16-006",
+                                "codepoint": "U+1EBE1",
+                                "subject": "three strokes",
+                                "writes": "(plural)",
+                                "role": "determinative",
+                                "colour": "stroke",
+                                "shape": "small",
+                                "w": 0.34,
+                                "h": 0.275,
+                                "mirror": false,
+                                "flag": null
+                            }
+                        ],
                         [
                             {
                                 "id": "05-018",
@@ -4489,10 +4200,8 @@
                                 "w": 1.0,
                                 "h": 0.462,
                                 "mirror": false,
-                                "flag": "beasts"
-                            }
-                        ],
-                        [
+                                "flag": null
+                            },
                             {
                                 "id": "16-006",
                                 "codepoint": "U+1EBE1",
@@ -4504,9 +4213,14 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
-                        ],
+                        ]
+                    ]
+                },
+                {
+                    "frame": false,
+                    "rows": [
                         [
                             {
                                 "id": "10-016",
@@ -4521,25 +4235,18 @@
                                 "mirror": false,
                                 "flag": null
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 0.929,
-                    "width": 0.673,
-                    "rows": [
+                        ],
                         [
                             {
-                                "id": "05-035",
-                                "codepoint": "U+1EAE2",
-                                "subject": "bull's head",
-                                "writes": "the herds",
+                                "id": "05-001",
+                                "codepoint": "U+1EAC0",
+                                "subject": "bull, standing",
+                                "writes": "the herds (the herd beast)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.725,
-                                "h": 0.762,
+                                "w": 0.957,
+                                "h": 0.844,
                                 "mirror": false,
                                 "flag": "ravaged"
                             }
@@ -4556,15 +4263,13 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.862,
-                    "width": 1.099,
                     "rows": [
                         [
                             {
@@ -4591,7 +4296,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -4613,8 +4318,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.917,
-                    "width": 0.711,
                     "rows": [
                         [
                             {
@@ -4643,15 +4346,13 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.975,
                     "rows": [
                         [
                             {
@@ -4702,22 +4403,20 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.783,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
-                                "id": "13-032",
-                                "codepoint": "U+1EBAA",
-                                "subject": "stamp seal",
-                                "writes": "his seal",
+                                "id": "15-010",
+                                "codepoint": "U+1EBD4",
+                                "subject": "signet ring",
+                                "writes": "his seal (his own seal)",
                                 "role": "ideogram",
-                                "colour": "object",
-                                "shape": "tall",
-                                "w": 0.574,
-                                "h": 0.953,
+                                "colour": "gold",
+                                "shape": "small",
+                                "w": 0.376,
+                                "h": 0.479,
                                 "mirror": false,
-                                "flag": "seal"
+                                "flag": null
                             },
                             {
                                 "id": "11-004",
@@ -4745,7 +4444,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             },
                             {
                                 "id": "10-016",
@@ -4765,8 +4464,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.588,
                     "rows": [
                         [
                             {
@@ -4787,8 +4484,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.623,
-                    "width": 0.607,
                     "rows": [
                         [
                             {
@@ -4839,8 +4534,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.894,
-                    "width": 0.859,
                     "rows": [
                         [
                             {
@@ -4854,7 +4547,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -4891,8 +4584,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.703,
-                    "width": 0.645,
                     "rows": [
                         [
                             {
@@ -4919,7 +4610,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -4941,8 +4632,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.466,
                     "rows": [
                         [
                             {
@@ -4967,14 +4656,10 @@
             "n": 9,
             "episode": 6,
             "line_in_episode": 1,
-            "mdc": "11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002-11-025-11-001:10-016-16-001*13-003-16-001:09-002-14-009:16-006*13-038-13-032-10-008*16-006:05-004*01-061-10-020:11-017-10-016:10-020:10-014-10-016:12-006-10-002*12-007-10-027:03-005-04-006:10-016:16-001",
-            "text_width": 17.34,
-            "slack": 2.23,
+            "mdc": "11-001:11-002-<13-002-13-003*12-005>-02-017-10-016:16-001*13-003*16-001-09-002-11-025-11-001:10-016-16-001*13-003-16-001:09-002-04-009:14-009*16-006-13-038:13-032-10-008*16-006:05-001*16-006-01-061-10-020:11-017-10-016:10-020:10-014-10-016:12-006-10-002*12-007-10-027:03-005-04-006:10-016:16-001",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 0.633,
-                    "width": 0.611,
                     "rows": [
                         [
                             {
@@ -5012,8 +4697,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 1,
-                    "width": 0.997,
                     "rows": [
                         [
                             {
@@ -5035,8 +4718,6 @@
                 },
                 {
                     "frame": true,
-                    "k": 0.92,
-                    "width": 1.1,
                     "rows": [
                         [
                             {
@@ -5072,8 +4753,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.444,
                     "rows": [
                         [
                             {
@@ -5095,8 +4774,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.844,
-                    "width": 0.796,
                     "rows": [
                         [
                             {
@@ -5162,8 +4839,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.955,
                     "rows": [
                         [
                             {
@@ -5185,8 +4860,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.975,
                     "rows": [
                         [
                             {
@@ -5207,8 +4880,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.833,
-                    "width": 0.8,
                     "rows": [
                         [
                             {
@@ -5244,8 +4915,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.566,
                     "rows": [
                         [
                             {
@@ -5279,8 +4948,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.847,
-                    "width": 0.809,
                     "rows": [
                         [
                             {
@@ -5316,9 +4983,22 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.715,
-                    "width": 0.851,
                     "rows": [
+                        [
+                            {
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
+                                "writes": "gave it",
+                                "role": "ideogram",
+                                "colour": "figure",
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
+                                "mirror": false,
+                                "flag": null
+                            }
+                        ],
                         [
                             {
                                 "id": "14-009",
@@ -5331,10 +5011,8 @@
                                 "w": 0.895,
                                 "h": 0.742,
                                 "mirror": false,
-                                "flag": "gave"
-                            }
-                        ],
-                        [
+                                "flag": null
+                            },
                             {
                                 "id": "16-006",
                                 "codepoint": "U+1EBE1",
@@ -5346,8 +5024,15 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
-                            },
+                                "flag": null
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "frame": false,
+                    "rows": [
+                        [
                             {
                                 "id": "13-038",
                                 "codepoint": "U+1EBB0",
@@ -5361,14 +5046,7 @@
                                 "mirror": false,
                                 "flag": "lapis"
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 1,
-                    "width": 0.574,
-                    "rows": [
+                        ],
                         [
                             {
                                 "id": "13-032",
@@ -5388,8 +5066,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.66,
-                    "width": 1.013,
                     "rows": [
                         [
                             {
@@ -5416,23 +5092,43 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
                             {
-                                "id": "05-004",
-                                "codepoint": "U+1EAC3",
-                                "subject": "two oxen under a yoke",
-                                "writes": "herds",
+                                "id": "05-001",
+                                "codepoint": "U+1EAC0",
+                                "subject": "bull, standing",
+                                "writes": "herds (the herd beast)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.874,
-                                "h": 0.79,
+                                "w": 0.957,
+                                "h": 0.844,
                                 "mirror": false,
                                 "flag": null
                             },
+                            {
+                                "id": "16-006",
+                                "codepoint": "U+1EBE1",
+                                "subject": "three strokes",
+                                "writes": "(plural)",
+                                "role": "determinative",
+                                "colour": "stroke",
+                                "shape": "small",
+                                "w": 0.34,
+                                "h": 0.275,
+                                "mirror": false,
+                                "flag": null
+                            }
+                        ]
+                    ]
+                },
+                {
+                    "frame": false,
+                    "rows": [
+                        [
                             {
                                 "id": "01-061",
                                 "codepoint": "U+1EA7C",
@@ -5452,8 +5148,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.874,
-                    "width": 0.852,
                     "rows": [
                         [
                             {
@@ -5491,8 +5185,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.816,
-                    "width": 0.798,
                     "rows": [
                         [
                             {
@@ -5546,8 +5238,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.857,
-                    "width": 0.808,
                     "rows": [
                         [
                             {
@@ -5585,8 +5275,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.914,
                     "rows": [
                         [
                             {
@@ -5622,8 +5310,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.839,
-                    "width": 0.789,
                     "rows": [
                         [
                             {
@@ -5661,8 +5347,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.943,
                     "rows": [
                         [
                             {
@@ -5720,14 +5404,10 @@
             "n": 10,
             "episode": 6,
             "line_in_episode": 2,
-            "mdc": "13-003*16-001-09-002*09-015:10-016:10-011-01-013-10-016:14-020-04-015:10-020-01-067*02-017-03-023:10-028-16-006:10-013:16-006-01-043-01-044:04-015-03-023-09-019:16-006-10-016:09-005:10-016-11-002:01-060-10-016:03-001-16-006:03-006-13-033:16-014-16-030:16-015-04-015:10-014-04-018",
-            "text_width": 16.46,
-            "slack": 3.11,
+            "mdc": "13-003*16-001-09-002*09-014:10-016:10-011-01-013-10-016:14-020-09-003:10-020-01-067*02-017-04-009:10-028-16-006:10-013:16-006-01-043-15-009:01-044-04-009:09-019*16-006-10-016:09-005:10-016-11-002:01-060-10-016:03-001-16-006:03-006-13-033:14-032-16-030:14-034-04-028-10-014:14-034",
             "quadrats": [
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.566,
                     "rows": [
                         [
                             {
@@ -5763,8 +5443,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.626,
-                    "width": 0.933,
                     "rows": [
                         [
                             {
@@ -5782,18 +5460,18 @@
                                 "restored": true
                             },
                             {
-                                "id": "09-015",
-                                "codepoint": "U+1EB3F",
-                                "subject": "smoke rising from a hearth",
-                                "writes": "fire",
+                                "id": "09-014",
+                                "codepoint": "U+1EB3E",
+                                "subject": "flame on a brazier",
+                                "writes": "fire (the fire of Uqa'a)",
                                 "role": "ideogram",
                                 "colour": "god:uqaa",
                                 "shape": "tall",
-                                "w": 0.496,
-                                "h": 0.948,
+                                "w": 0.656,
+                                "h": 0.739,
                                 "mirror": false,
-                                "flag": "fire",
-                                "added_from": "Hymn of the Sun Lord :48, :51, :53"
+                                "flag": null,
+                                "added_from": "Hymn of the Sun Lord :48"
                             }
                         ],
                         [
@@ -5832,8 +5510,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.323,
                     "rows": [
                         [
                             {
@@ -5855,8 +5531,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.956,
                     "rows": [
                         [
                             {
@@ -5894,23 +5568,21 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.699,
-                    "width": 0.672,
                     "rows": [
                         [
                             {
-                                "id": "04-015",
-                                "codepoint": "U+1EAB8",
-                                "subject": "legs walking",
-                                "writes": "who comes up",
+                                "id": "09-003",
+                                "codepoint": "U+1EB33",
+                                "subject": "disk rising between two hills, the east",
+                                "writes": "who comes up (the sunrise)",
                                 "role": "ideogram",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.727,
-                                "h": 0.887,
+                                "colour": "gold",
+                                "shape": "low",
+                                "w": 0.975,
+                                "h": 0.323,
                                 "mirror": false,
-                                "flag": null,
-                                "added_from": "Hymn of the Sun Lord :48, :51, :53"
+                                "flag": "comesup",
+                                "added_from": "Hymn of the Sun Lord :53"
                             }
                         ],
                         [
@@ -5933,8 +5605,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.962,
                     "rows": [
                         [
                             {
@@ -5970,22 +5640,20 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.677,
-                    "width": 0.636,
                     "rows": [
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "I give you",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give",
+                                "flag": null,
                                 "restored": true
                             }
                         ],
@@ -6009,8 +5677,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.917,
-                    "width": 0.885,
                     "rows": [
                         [
                             {
@@ -6024,7 +5690,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "restored": true
                             }
                         ],
@@ -6056,7 +5722,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "restored": true
                             }
                         ]
@@ -6064,8 +5730,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.425,
                     "rows": [
                         [
                             {
@@ -6087,15 +5751,29 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.833,
-                    "width": 0.795,
                     "rows": [
+                        [
+                            {
+                                "id": "15-009",
+                                "codepoint": "U+1EBD3",
+                                "subject": "sandal",
+                                "writes": "beneath your sandals (the sandal)",
+                                "role": "ideogram",
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.959,
+                                "h": 0.265,
+                                "mirror": false,
+                                "flag": null,
+                                "restored": true
+                            }
+                        ],
                         [
                             {
                                 "id": "01-044",
                                 "codepoint": "U+1EA6B",
                                 "subject": "man prostrate, face to the ground",
-                                "writes": "(prostrate, det.)",
+                                "writes": "(the prostrate man, under the sandal)",
                                 "role": "determinative",
                                 "colour": "figure",
                                 "shape": "low",
@@ -6105,53 +5783,28 @@
                                 "flag": null,
                                 "restored": true
                             }
-                        ],
-                        [
-                            {
-                                "id": "04-015",
-                                "codepoint": "U+1EAB8",
-                                "subject": "legs walking",
-                                "writes": "beneath your sandals (the feet)",
-                                "role": "ideogram",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.727,
-                                "h": 0.887,
-                                "mirror": false,
-                                "flag": "sandals",
-                                "restored": true
-                            }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 1,
-                    "width": 0.862,
                     "rows": [
                         [
                             {
-                                "id": "03-023",
-                                "codepoint": "U+1EAA7",
-                                "subject": "an open palm held above a bowed head",
+                                "id": "04-009",
+                                "codepoint": "U+1EAB2",
+                                "subject": "forearm, palm up",
                                 "writes": "I give you",
                                 "role": "ideogram",
                                 "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.862,
-                                "h": 0.809,
+                                "shape": "low",
+                                "w": 0.956,
+                                "h": 0.322,
                                 "mirror": false,
-                                "flag": "give",
+                                "flag": null,
                                 "restored": true
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 0.917,
-                    "width": 0.711,
-                    "rows": [
+                        ],
                         [
                             {
                                 "id": "09-019",
@@ -6166,9 +5819,7 @@
                                 "mirror": false,
                                 "flag": null,
                                 "restored": true
-                            }
-                        ],
-                        [
+                            },
                             {
                                 "id": "16-006",
                                 "codepoint": "U+1EBE1",
@@ -6180,7 +5831,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural",
+                                "flag": null,
                                 "restored": true
                             }
                         ]
@@ -6188,8 +5839,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.964,
-                    "width": 0.921,
                     "rows": [
                         [
                             {
@@ -6243,8 +5892,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.625,
-                    "width": 0.604,
                     "rows": [
                         [
                             {
@@ -6282,8 +5929,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.827,
-                    "width": 0.78,
                     "rows": [
                         [
                             {
@@ -6319,8 +5964,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.886,
-                    "width": 0.758,
                     "rows": [
                         [
                             {
@@ -6334,7 +5977,7 @@
                                 "w": 0.34,
                                 "h": 0.275,
                                 "mirror": false,
-                                "flag": "plural"
+                                "flag": null
                             }
                         ],
                         [
@@ -6356,8 +5999,6 @@
                 },
                 {
                     "frame": false,
-                    "k": 0.927,
-                    "width": 0.891,
                     "rows": [
                         [
                             {
@@ -6376,25 +6017,23 @@
                         ],
                         [
                             {
-                                "id": "16-014",
-                                "codepoint": "U+1EBE9",
-                                "subject": "closing bar under a row",
-                                "writes": "closed (what he owed)",
+                                "id": "14-032",
+                                "codepoint": "U+1EC22",
+                                "subject": "sealed roll resting in the closing bar",
+                                "writes": "closed (what he owed; the entry closed)",
                                 "role": "ideogram",
-                                "colour": "stroke",
+                                "colour": "object",
                                 "shape": "low",
                                 "w": 0.935,
-                                "h": 0.216,
+                                "h": 0.352,
                                 "mirror": false,
-                                "flag": "closed"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.952,
-                    "width": 0.89,
                     "rows": [
                         [
                             {
@@ -6413,41 +6052,44 @@
                         ],
                         [
                             {
-                                "id": "16-015",
-                                "codepoint": "U+1EBEA",
-                                "subject": "gap in a bar",
-                                "writes": "open (what was owed to him)",
+                                "id": "14-034",
+                                "codepoint": "U+1EC24",
+                                "subject": "sealed roll over a gap in a bar",
+                                "writes": "open (what was owed to him; the entry open)",
                                 "role": "ideogram",
-                                "colour": "stroke",
+                                "colour": "object",
                                 "shape": "low",
-                                "w": 0.935,
-                                "h": 0.135,
+                                "w": 0.895,
+                                "h": 0.412,
                                 "mirror": false,
-                                "flag": "open"
+                                "flag": null
                             }
                         ]
                     ]
                 },
                 {
                     "frame": false,
-                    "k": 0.745,
-                    "width": 0.728,
                     "rows": [
                         [
                             {
-                                "id": "04-015",
-                                "codepoint": "U+1EAB8",
-                                "subject": "legs walking",
-                                "writes": "he went down (to the West)",
+                                "id": "04-028",
+                                "codepoint": "U+1EC2C",
+                                "subject": "legs striding down a slope",
+                                "writes": "he went down (to the West: died)",
                                 "role": "ideogram",
                                 "colour": "figure",
                                 "shape": "tall",
-                                "w": 0.727,
-                                "h": 0.887,
+                                "w": 0.894,
+                                "h": 0.958,
                                 "mirror": false,
                                 "flag": null
                             }
-                        ],
+                        ]
+                    ]
+                },
+                {
+                    "frame": false,
+                    "rows": [
                         [
                             {
                                 "id": "10-014",
@@ -6462,27 +6104,20 @@
                                 "mirror": false,
                                 "flag": null
                             }
-                        ]
-                    ]
-                },
-                {
-                    "frame": false,
-                    "k": 1,
-                    "width": 0.639,
-                    "rows": [
+                        ],
                         [
                             {
-                                "id": "04-018",
-                                "codepoint": "U+1EABB",
-                                "subject": "heart bound with a cord and sealed with a knot",
-                                "writes": "owed (his account)",
+                                "id": "14-034",
+                                "codepoint": "U+1EC24",
+                                "subject": "sealed roll over a gap in a bar",
+                                "writes": "owed (the entry open)",
                                 "role": "ideogram",
-                                "colour": "figure",
-                                "shape": "tall",
-                                "w": 0.639,
-                                "h": 0.903,
+                                "colour": "object",
+                                "shape": "low",
+                                "w": 0.895,
+                                "h": 0.412,
                                 "mirror": false,
-                                "flag": "owed"
+                                "flag": null
                             }
                         ]
                     ]
@@ -6671,15 +6306,15 @@
                     "scale": 2.1
                 },
                 {
-                    "id": "05-004",
-                    "codepoint": "U+1EAC3",
-                    "subject": "two oxen under a yoke",
+                    "id": "05-001",
+                    "codepoint": "U+1EAC0",
+                    "subject": "bull, standing",
                     "writes": "their herds taken",
                     "role": "vignette",
                     "colour": "figure",
                     "shape": "tall",
-                    "w": 0.874,
-                    "h": 0.79,
+                    "w": 0.957,
+                    "h": 0.844,
                     "mirror": false,
                     "flag": null,
                     "vignette": true,
@@ -7004,6 +6639,21 @@
                     "scale": 2.1
                 },
                 {
+                    "id": "05-015",
+                    "codepoint": "U+1EACE",
+                    "subject": "lion, standing",
+                    "writes": "a lion at bay",
+                    "role": "vignette",
+                    "colour": "figure",
+                    "shape": "tall",
+                    "w": 0.95,
+                    "h": 0.857,
+                    "mirror": false,
+                    "flag": null,
+                    "vignette": true,
+                    "scale": 2.1
+                },
+                {
                     "id": "01-025",
                     "codepoint": "U+1EA58",
                     "subject": "man with crook and bundle over the shoulders",
@@ -7019,15 +6669,15 @@
                     "scale": 2.1
                 },
                 {
-                    "id": "05-004",
-                    "codepoint": "U+1EAC3",
-                    "subject": "two oxen under a yoke",
+                    "id": "05-001",
+                    "codepoint": "U+1EAC0",
+                    "subject": "bull, standing",
                     "writes": "the herds the hunt kept",
                     "role": "vignette",
                     "colour": "figure",
                     "shape": "tall",
-                    "w": 0.874,
-                    "h": 0.79,
+                    "w": 0.957,
+                    "h": 0.844,
                     "mirror": false,
                     "flag": null,
                     "vignette": true,
@@ -7198,15 +6848,15 @@
             "scale": 2.1,
             "signs": [
                 {
-                    "id": "01-052",
-                    "codepoint": "U+1EA73",
-                    "subject": "man in a long robe holding a censer",
-                    "writes": "a priest with a censer",
+                    "id": "01-078",
+                    "codepoint": "U+1EC2A",
+                    "subject": "standing man in a linen kilt pouring a libation",
+                    "writes": "a priest pouring a libation",
                     "role": "vignette",
                     "colour": "figure",
                     "shape": "tall",
-                    "w": 0.544,
-                    "h": 0.96,
+                    "w": 0.539,
+                    "h": 0.958,
                     "mirror": false,
                     "flag": null,
                     "vignette": true,
@@ -7339,86 +6989,53 @@
                     "flag": null,
                     "vignette": true,
                     "scale": 2.1
+                },
+                {
+                    "id": "05-001",
+                    "codepoint": "U+1EAC0",
+                    "subject": "bull, standing",
+                    "writes": "a bull of the herds given to the house",
+                    "role": "vignette",
+                    "colour": "figure",
+                    "shape": "tall",
+                    "w": 0.957,
+                    "h": 0.844,
+                    "mirror": false,
+                    "flag": null,
+                    "vignette": true,
+                    "scale": 2.1
                 }
             ]
         }
     ],
     "flags": {
-        "ordinal": {
-            "title": "the sixth and the seventh of the name",
-            "note": "No sign writes an ordinal, and neither the design note nor the thalorna notes say how a regnal number is written in Zethu. Proposed: the strokes inside the oval after the name, six (16-027) for Meqes VI and seven (16-021) for Meqes VII, since the king-list numbers a throne name's bearers and the number belongs to the name. The alternative is the strokes just outside the oval's tie."
-        },
         "strong": {
             "title": "living, enduring, strong",
             "note": "From the stela's closing epithet. _Strong_ is 01-014, the standing man braced on a stave, whose consonants k-z are _kuz_, strong (the throne-name element in the Khelathi note)."
-        },
-        "bank": {
-            "title": "Two Banks",
-            "note": "No sign means a river bank. Written _the land, two_: 10-028 (land and a sprout) with the two strokes after it, as a count follows its noun in Zethu. 10-001 (current between two banks) already draws both banks, so an alternative is to drop the phrase into _Lord of the River_ alone."
-        },
-        "fire": {
-            "title": "the fire of Uqa'a",
-            "note": "The fire is 09-015, smoke rising from a hearth (h). It is a hearth, not a weapon, and the sign carries no god of its own. Uqa'a's gloss is _fire_, so his sign alone could stand here instead."
-        },
-        "stood": {
-            "title": "stood upon the mound",
-            "note": "The standing is written as the crowning it was: the crown of the Gar-Au (15-007) and the enthroned figure (01-060), then _upon the mound_. No sign shows a man standing on a mound."
         },
         "countlord": {
             "title": "lord of the count",
             "note": "The stela's _lord of the count_ is written _lord, of, the tally rod_ (01-013, 10-016, 13-035)."
         },
-        "houseentered": {
-            "title": "whose house is entered",
-            "note": "Written _house, tablet_ (11-003, 14-018): the clay tablet stands for the entry, as in _his account is read_."
-        },
         "gravingseal": {
             "title": "whose seal is on the granary, whose grain the barges carry",
-            "note": "Written _seal, upon, granary; grain, barge_ (13-032, 10-016, 11-004; 14-016, 12-014). The relative _whose_ is unwritten."
-        },
-        "give": {
-            "title": "given / I give you",
-            "note": "No sign means _give_. 03-023, an open palm held above a bowed head, is the gesture of a superior conferring on a bowed recipient, and carries no god. It is the nearest honest sign; the plain hand (04-011) is the fallback."
-        },
-        "like": {
-            "title": "like the sun",
-            "note": "No sign means _like_, so the comparison is unwritten: _life, dominion, the sun_. 09-005 (the disk at the top of the arch) is used for the sun so that Uqa'a's own sign, 09-002, keeps its god's sense."
+            "note": "Written _his seal, upon, granary; grain, barge_ (15-010, 10-016, 11-004; 14-016, 12-014). The signet ring is the seal a man carries as his own. The relative _whose_ is unwritten."
         },
         "account": {
             "title": "his account",
-            "note": "04-018, the heart bound with a cord and sealed (h-l-z), is _halzi_: the heart and the account it answers for. It writes _his account_ here and _owed_ at the end of register 6."
+            "note": "04-018, the heart bound with a cord and sealed (h-l-z), is _halzi_: the heart and the account it answers for."
         },
-        "read": {
-            "title": "is read",
-            "note": "No sign means _read aloud_. 03-005, a curl of breath leaving a mouth, writes speaking."
-        },
-        "shaped": {
-            "title": "shaped him",
-            "note": "No sign means _shape_. 01-026, the man at the wheel (g-th-r, _gethar_, potter), shows a potter forming a vessel. It is an image of making, not a word for it."
-        },
-        "womb": {
-            "title": "in the womb",
-            "note": "No sign for the womb. Written _in the mother_ with 02-011, the seated lady in a long garment."
-        },
-        "priesthood": {
-            "title": "the priesthood of Uqa'a",
-            "note": "Written as the sample inscription writes a priest, _Lem'Nelgir_: the kneeling servant (01-002, l-m, _lem_) and the seated god (03-001), with the plural strokes, then _of Uqa'a_."
-        },
-        "plural": {
-            "title": "plural mark",
-            "note": "The three strokes (16-006) are the numeral three. Using them after a noun as the plural mark is the Egyptian convention, and no Zethu note states it. The fallback is to write a plural by repeating the sign."
+        "crown": {
+            "title": "set the crown on him",
+            "note": "The crown (15-007) alone writes the setting of it. The hand over the stand (04-011 : 03-025) writes _set_ only where Qe'aret sets truth; written here too, it would cost the line a quadrat."
         },
         "contract": {
             "title": "every contract",
-            "note": "No sign means a contract. 14-019, the sealed roll tied with a cord, is the nearest: a document closed under seal. The stela names contracts, tax rolls and leases; only the contract is written."
+            "note": "14-019, the sealed roll tied with a cord, is the base of the entry family and writes the contract, with the plural strokes. The stela names contracts, tax rolls and leases; only the contract is written. 14-031, the entry opened, would write _every entry made_ instead."
         },
         "dated": {
             "title": "is dated",
             "note": "No sign means _to date_. The regnal-year sign (16-024) after _contract_ writes _of the year_, and the dating is read from it."
-        },
-        "set": {
-            "title": "set truth in his mouth",
-            "note": "No verb sign for _set_ or _place_. The plain hand (04-011) stands for the act."
         },
         "truth": {
             "title": "truth",
@@ -7428,37 +7045,9 @@
             "title": "dominion",
             "note": "03-029, a hand of power within a ring, carries no stated word. Read as power held, it stands for dominion."
         },
-        "against": {
-            "title": "came down upon",
-            "note": "01-066, two lines of men advancing against each other (q-z-t, _qezat_, battle), writes the war. At banner size its figures are small and thin; it is the least legible sign on the wall."
-        },
-        "raged": {
-            "title": "raged",
-            "note": "No sign for rage. 01-015, the running man, writes the onrush."
-        },
-        "chieftain": {
-            "title": "chieftains",
-            "note": "No sign for a chief. Written as _lord_ (01-013, the noble) with the foreigner (01-040) as determinative and the plural strokes."
-        },
-        "took": {
-            "title": "took their herds",
-            "note": "No sign for _take_. The plain hand (04-011) stands for seizing."
-        },
-        "sandals": {
-            "title": "beneath his/your sandals",
-            "note": "The sandal (15-009) is in the inventory but not drawn, so it prints nothing. Written with the walking legs (04-015) and, in register 3, the prostrate man (01-044). The sandal is the right sign once drawn."
-        },
         "mine": {
             "title": "was the Gar-Au's",
             "note": "The stela's refrain _and the canal was his_ is written with the enthroned Gar-Au (01-060) after the thing taken: _the margins, the Gar-Au_."
-        },
-        "sea": {
-            "title": "the northern sea",
-            "note": "No sign for the sea. 10-022, water over broken rocks, reads as surf on a coast."
-        },
-        "north": {
-            "title": "north",
-            "note": "No sign for north. Spelled from the affix _-Miglet_: 10-009 (m-g), 13-001 (l), 13-005 (t). Its m-g value is from the sign's consonants; the spelling has no other source."
         },
         "cedar": {
             "title": "cedar",
@@ -7468,13 +7057,13 @@
             "title": "rode out",
             "note": "No chariot or rider is drawn. The horse (05-005) stands for riding out."
         },
-        "beasts": {
-            "title": "the wild beasts",
-            "note": "No lion and no wild bull is drawn: the bull survives only as a head (05-035), which already writes the herds. The beasts are the river-horse (05-018, _igelzut_), drawn half under the waterline; a river-horse in the fields is a beast that ravages crops. The river cat (05-040) is the only other wild beast drawn that belongs to no god; the jackal is Hezmu'iri's and the crocodile Chelsur's."
+        "lions": {
+            "title": "the lions and the river-horses",
+            "note": "Written _lions, river-horses_, each with the plural strokes, in one quadrat. No sign writes _and_; the beasts are listed as the tribute's gold, cedar and horses are."
         },
         "ravaged": {
             "title": "that ravaged the herds and the fields",
-            "note": "No sign for ravaging. The line reads _the beasts of the herds and the fields_, and the vignette carries the hunt."
+            "note": "No sign for ravaging. The line reads _the beasts of the herds and the fields_, and the scene carries the hunt."
         },
         "count": {
             "title": "the beasts taken were counted",
@@ -7482,11 +7071,7 @@
         },
         "opened": {
             "title": "opened the granaries",
-            "note": "No sign for opening. The plain hand (04-011) stands for the act."
-        },
-        "seal": {
-            "title": "under his seal",
-            "note": "13-032, the stamp seal (_qathur_), after the stela's _whose seal is on the granary_."
+            "note": "No sign for opening a store. The plain hand (04-011) stands for the act; the entry family's _open_ (14-034) names the state of an entry and does not write it."
         },
         "filled": {
             "title": "filled its storehouses",
@@ -7500,10 +7085,6 @@
             "title": "none of his people hungered",
             "note": "No sign for hunger or its absence. Written _his people: bread and life_, with the loaf (14-007) and the sprout of life (08-005)."
         },
-        "gave": {
-            "title": "gave it altars",
-            "note": "No sign means _give_ to a god here; the offering table (14-009) with the plural strokes writes _altars_, and the giving is left unwritten."
-        },
         "lapis": {
             "title": "lapis",
             "note": "No sign for lapis or any blue stone, and none is coined. The register reads _altars of gold_; the render can paint the altar sign lapis blue to carry the rest."
@@ -7514,11 +7095,15 @@
         },
         "head": {
             "title": "at the head of the death-road",
-            "note": "No sign for the head of a road. Written _at the road of the dead_: 10-020 (path between two stones) with 10-014 (the west, the realm of the dead) as determinative."
+            "note": "No sign for the head of a road. Written _at the road of the dead_: 10-020 (path between two stones) with 10-014, the west, which also writes the dead, as determinative."
         },
         "firstground": {
             "title": "fire on the first ground",
             "note": "The hymn's _first ground_ is the primeval mound; 10-011 (mound on a flat) writes it."
+        },
+        "comesup": {
+            "title": "who comes up the road",
+            "note": "The hymn is sung on the eastern face before the sun is up the road, and _who comes up the road_ is the sun rising. 09-003, the disk rising between two hills, writes the coming up as the sunrise, and 10-020 the road."
         },
         "son": {
             "title": "my son",
@@ -7531,18 +7116,6 @@
         "level": {
             "title": "the tablets level on the beam",
             "note": "03-006 draws the Reading's _tablets level on the beam_ exactly, and it is also Qe'aret's sign. On a wall of the weighing both readings stand: the level account, and the goddess of the scale who holds it."
-        },
-        "closed": {
-            "title": "closed",
-            "note": "16-014, a closing bar under a row, writes the reader's _Closed_. No note states this use; the subject supports it."
-        },
-        "open": {
-            "title": "open",
-            "note": "16-015, a gap in a bar, writes the reader's _Open_: the credit side left open. No note states this use; it is the broken bar beside the closing one."
-        },
-        "owed": {
-            "title": "he went down owed",
-            "note": "No sign means _owed_. Written _went down, his account_ after _open_: the walking legs (04-015) and the bound heart (04-018). The reading rests on the open bar before it."
         }
     }
 }

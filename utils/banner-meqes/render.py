@@ -741,7 +741,8 @@ def disk(r):
 def paint_sign(glyphs, sign, k, pos_index):
     """One sign as tile layers: silhouette coverage, paint colour, gold weight and interior
     grooves, mirrored when the sign's flag asks."""
-    regions = PAINTMOD.Regions(glyphs.pg, sign["glyph"], k)
+    close = PAINT["signs"].get(sign["id"], {}).get("close", ())
+    regions = PAINTMOD.Regions(glyphs.pg, sign["glyph"], k, close=close)
     cov, ink_bin, hair, pad = regions.coverage.astype(np.float32), regions.ink, regions.hair, regions.pad
     lab2, n2 = regions.labels.copy(), regions.n
     # The painted outline is finer than the drawn hairline: the line's core, about 0.8 of it.
