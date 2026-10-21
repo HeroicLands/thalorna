@@ -1274,7 +1274,7 @@ data:
     - {name: Caste-Registrar, tongue: translation}
     - {name: Celestial Minister, tongue: translation}
     - {name: Censor of Purity, tongue: translation}
-    - {name: Chaiwong, tongue: exonym:tantsou, built: [chai, wong]}
+    - {name: Chaiwong, tongue: exonym:tanvuri, built: [chai, wong]}
     - {name: Cloud Hall, tongue: translation}
     - {name: Daozhuo, tongue: kept, built: [dao, zhuo]}
     - {name: Dark Hall, tongue: translation}

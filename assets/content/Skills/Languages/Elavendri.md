@@ -1814,7 +1814,7 @@ data:
         - {step: L5, change: stress moves to the first syllable}
         - {step: L6, change: acute on the stressed vowel}
   tongues:
-    - {tag: elavendri, meaning: an Élavendri name}
+    - {tag: elavendri, meaning: an Élavendri name, language: skill-elvndrlng}
     - {tag: translation, meaning: a name given in the language of these pages}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - tag: other:<tongue>

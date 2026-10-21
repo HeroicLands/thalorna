@@ -6875,7 +6875,7 @@ data:
     - {name: Mídhalión, tongue: human}
     - {name: Zerathia, tongue: human}
   tongues:
-    - {tag: khazari, meaning: a Khazari name}
+    - {tag: khazari, meaning: a Khazari name, language: skill-khazarlng}
     - {tag: older, meaning: "a word older than the rules, which keeps a shape no frame makes"}
     - tag: exonym:<tongue>
       meaning: "another people's rendering of a Khazari word, with the people after the colon; the derivation names the word"

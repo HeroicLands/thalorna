@@ -1878,7 +1878,7 @@ data:
     - {name: Maze of Echoes, tongue: translation}
     - {name: Ménavar Abbey, tongue: translation}
     - {name: Mount Hidraven, tongue: translation}
-    - {name: Sirmenne, tongue: other:sinale}
+    - {name: Sirmenne, tongue: other:older}
     - {name: Temporal Compass, tongue: translation}
     - {name: Satvote, tongue: provenzal}
     - {name: Yarvalen Henge, tongue: translation}

@@ -504,6 +504,7 @@ data:
     - {name: The Followers of the Thundering Voice, tongue: translation}
     - {name: The Silent Jackal, tongue: translation}
     - {name: The Storm Cults, tongue: translation}
+    - {name: Tigh'Baharan, tongue: dunhari}
     - {name: The Storm Cults of Báhramis, tongue: translation}
     - {name: Torvash, tongue: dunhari}
     - {name: Truce-Warden, tongue: translation}
@@ -606,6 +607,8 @@ data:
     - {name: Tahruz Girani, tongue: dunhari}
     - {name: Captain Tahruz the Venerable, tongue: translation}
     - {name: Captain Tahruz, tongue: translation}
+    - {name: Bahar, tongue: dunhari}
+    - {name: Vast, tongue: dunhari}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

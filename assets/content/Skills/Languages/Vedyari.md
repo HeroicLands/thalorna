@@ -1485,6 +1485,8 @@ data:
     - {tag: vedyari, meaning: a Vedyari name}
     - {tag: translation, meaning: a name given in the language of these pages}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
+    - tag: other:<tongue>
+      meaning: "a name in another tongue of the setting, as its speakers give it"
     - tag: calling
       meaning: "a calling name, cut from the given name its **Built from** cell gives"
   register:
@@ -1805,7 +1807,7 @@ data:
     - {name: Haritagram, tongue: vedyari, built: [harota, grima]}
     - {name: Himashila, tongue: vedyari, built: [himra, shilsa]}
     - {name: Hiranyadara, tongue: vedyari, built: [hirenya, derka]}
-    - {name: The Hvarn, tongue: exonym:hvarn}
+    - {name: Hvarn, tongue: other:hvarn}
     - {name: Unhoused, tongue: translation}
     - {name: Taken-in, tongue: translation}
     - {name: Hearth-kin, tongue: translation}
@@ -1888,7 +1890,7 @@ data:
     - {name: Nilatir, tongue: vedyari, built: [nilka, tirsa]}
     - {name: Nilaban, tongue: vedyari, built: [nilka, vanta]}
     - {name: Nurvharn, tongue: exonym:hvarn}
-    - {name: The Osket, tongue: exonym:osket}
+    - {name: Osket, tongue: other:osket}
     - {name: Roadless, tongue: translation}
     - {name: Fosterling, tongue: translation}
     - {name: Herdholder, tongue: translation}

@@ -361,6 +361,7 @@ data:
     - {name: Celestial Record, tongue: translation}
     - {name: Cell Operator, tongue: translation}
     - {name: Censor of Purity, tongue: translation}
+    - {name: Chaiwong, tongue: tanvuri, built: [chai, wong]}
     - {name: Chaizho, tongue: tanvuri, built: [chai, zho]}
     - {name: Champion, tongue: translation}
     - {name: Chief Intendant, tongue: translation}

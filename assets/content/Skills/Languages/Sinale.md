@@ -2316,8 +2316,10 @@ data:
       gloss: one whose care is a pool; the name of a Sinale woman of the old stock
       layer: Primordial
   tongues:
-    - {tag: sinale, meaning: a Sinale word}
-    - {tag: older, meaning: a Sinale word older than the rules the language page states}
+    - {tag: sinale, meaning: a Sinale word, language: skill-sinalelng}
+    - tag: older
+      meaning: a Sinale word older than the rules the language page states
+      language: skill-sinalelng
     - {tag: exonym, meaning: "a name another people gives, its tongue not stated"}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -2342,9 +2344,6 @@ data:
     - {name: Seer, tongue: translation}
     - {name: The Faithful, tongue: translation}
     - {name: Unaccorded, tongue: translation}
-    - {name: Aelirosse, tongue: exonym:elavendri}
-    - {name: Ethalosse, tongue: exonym:elavendri}
-    - {name: Serenthale, tongue: exonym:elavendri}
     - {name: Enclave of Aelirosse, tongue: translation}
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Serenthale, tongue: translation}
@@ -2405,6 +2404,10 @@ data:
     - {name: Mallonna, tongue: older}
     - {name: Tehy, tongue: sinale, built: [tehy]}
     - {name: Talve, tongue: sinale, built: [talve]}
+    - {name: Aelirosse, tongue: sinale}
+    - {name: Ethalosse, tongue: sinale}
+    - {name: Serenthale, tongue: sinale}
+    - {name: Vierka, tongue: sinale}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
 sohl:

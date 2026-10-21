@@ -107,6 +107,9 @@ data:
     - tag: tellumi
       meaning: "a Tellumi name, built from Tellumi stems"
       language: skill-khazrilng
+    - tag: khazryn
+      meaning: "a name the Khazryn tongues share, from the shared stems"
+      language: skill-khazrilng
     - tag: sowides
       meaning: "a Sovidur name, built from Sovidur stems"
       language: skill-sowideslng
@@ -515,6 +518,7 @@ data:
       tongue: kept
       why: "the region's name, which stands outside the three tongues"
     - {name: Tellumel, tongue: tellumi, built: [te, lu, -mi, -el]}
+    - {name: Dranavár, tongue: khazryn}
     - {name: Tellumi Confederation, tongue: gloss, built: [Tellumi]}
     - {name: Princes of Tellumel, tongue: gloss, built: [Tellumel]}
     - {name: The Tellumi Calendar, tongue: gloss, built: [Tellumi]}

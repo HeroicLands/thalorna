@@ -4520,7 +4520,7 @@ data:
       proto: us
       gloss: over
   tongues:
-    - {tag: vylari, meaning: a Vylari name}
+    - {tag: vylari, meaning: a Vylari name, language: skill-vylarilng}
     - {tag: kept, meaning: "a loanword kept in its source tongue's spelling, by ruling"}
     - {tag: translation, meaning: a name given in the language of these pages}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
@@ -5189,6 +5189,16 @@ data:
     - {name: Blazewarden Sirethos, tongue: translation}
     - {name: Hamsarnor, tongue: vylari}
     - {name: Rozimoi, tongue: vylari}
+    - {name: Thizarlambizon, tongue: vylari}
+    - {name: Tavemyenthamis, tongue: vylari}
+    - {name: Elztholmeza, tongue: vylari}
+    - {name: Zargelza, tongue: vylari}
+    - {name: Zulen Hidalis, tongue: vylari}
+    - {name: Zulen Neumenos, tongue: vylari}
+    - {name: Zulen Fisera, tongue: vylari}
+    - {name: Zulen Pirethos, tongue: vylari}
+    - {name: Zulen Sideris, tongue: vylari}
+    - {name: Zulen Zefaris, tongue: vylari}
   retired:
     - {form: Murkas, instead: Pozerandi, why: a month named with an echo of an Earth god}
     - {form: Vulcar, instead: Thumbandi, why: a month named with an echo of an Earth god}

@@ -1887,7 +1887,7 @@ data:
         - step: S8
           change: "acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more"
   tongues:
-    - {tag: aelendi, meaning: an Áelendi name}
+    - {tag: aelendi, meaning: an Áelendi name, language: skill-aelendlng}
     - {tag: translation, meaning: a name given in the language of these pages}
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - tag: other:<tongue>
@@ -1950,6 +1950,9 @@ data:
     - {name: Sírtala, tongue: aelendi}
     - {name: Ronken, tongue: aelendi}
     - {name: Tháurmira, tongue: aelendi}
+    - {name: Kélpasi, tongue: aelendi}
+    - {name: Khálpilonpu, tongue: aelendi}
+    - {name: Pálmirno, tongue: aelendi}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}

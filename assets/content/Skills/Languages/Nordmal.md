@@ -1189,6 +1189,11 @@ data:
     - {form: -vangr, position: closing, kind: place, sense: an open field, joining: -vangar}
     - {form: -vatn, position: closing, kind: place, sense: a lake, joining: -vatnar}
     - {form: -vík, position: closing, kind: place, sense: an inlet, joining: -víkar}
+  tongues: [{tag: nordmal, meaning: "a Nordmal name", language: skill-nordmalng}]
+  register:
+    - {name: Thalmdal, tongue: nordmal}
+    - {name: Bjart, tongue: nordmal}
+    - {name: Bralvik, tongue: nordmal}
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:
