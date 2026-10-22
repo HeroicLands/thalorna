@@ -21,7 +21,7 @@ data:
     - name: "Mountain, snow and stone"
       holds: "The Spine and its valleys, snow, winter, tarns and torrents, water, and the stone the Áelendan cut and raise."
     - name: "The body, life and death"
-      holds: "Blood, wounds and healers, living and falling, the cairn and the field of cairns."
+      holds: "The senses, the passions and the loves, the parts of the body, food, drink, sleep and breath, blood, wounds and healers, living and falling, the cairn and the field of cairns."
     - name: "Light, sky and the turning year"
       holds: "The sun, the moon and the stars, the day and its parts, the months, the seasons, feasts and ages, and the reckoning from the crossing."
     - name: "Water and the wood's weather"
@@ -42,6 +42,8 @@ data:
       holds: "The verbs of ordinary speech, cited by the infinitive."
     - name: Numbers and grammar words
       holds: "The numbers, the pronouns, the article, the pointing words and the particles."
+    - name: "Colour and the look of things"
+      holds: "The colours: black, white, red, green, yellow, blue, grey and brown."
   affixes:
     - form: "-and"
       gloss: "one who does it, or keeps it"
@@ -67,6 +69,7 @@ data:
     - {form: "-undi", gloss: "those of, after _u_", attaches: "added", examples: ["Dul > Dulundi"]}
     - {form: "-ndi", gloss: "those of, after a vowel", attaches: "added"}
     - {form: "-di", gloss: "those of, after _n_", attaches: "added", examples: ["Dhan > Dhandi"]}
+    - {form: "an-", gloss: "not; un-", attaches: "added", examples: ["últhathen > ánulthathen"]}
   words:
     - form: tháurathen
       class: v
@@ -77,7 +80,7 @@ data:
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a keeper; a Warden; one who holds a sacred site for the kin"
-      source: {kind: inherited, form: thauros}
+      source: {kind: inherited}
     - form: tháuralon
       class: n n
       field: "The Pact, the oath and the keeping"
@@ -97,7 +100,7 @@ data:
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a vow; a binding laid on oneself alone, outside the Pact"
-      source: {kind: inherited, form: tholmeza}
+      source: {kind: inherited}
     - form: khelmaron
       class: n n
       field: "The Pact, the oath and the keeping"
@@ -107,12 +110,12 @@ data:
       class: adj
       field: "The Pact, the oath and the keeping"
       gloss: "accursed; put outside the Pact and the kin's protection"
-      source: {kind: inherited, form: kelmarthos}
+      source: {kind: inherited}
     - form: kuthresa
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a forfeit; what a kin pays with one of its own who broke his word"
-      source: {kind: inherited, form: kuthreza}
+      source: {kind: inherited}
     - form: dhámolis
       class: n f
       field: "The Pact, the oath and the keeping"
@@ -122,22 +125,22 @@ data:
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "outlawry; the sentence that walks a man past the tree line"
-      source: {kind: inherited, form: wenthodis}
+      source: {kind: inherited}
     - form: nasdis
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a judgment; what the elders decide in council"
-      source: {kind: inherited, form: nazdis}
+      source: {kind: inherited}
     - form: nasdalon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "the council of elders sitting in judgment"
-      source: {kind: inherited, form: nazdalon}
+      source: {kind: inherited}
     - form: ornalon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "custom; the whole of what is done because it has always been done"
-      source: {kind: inherited, form: wornalon}
+      source: {kind: inherited}
     - form: thidharon
       class: n n
       field: "The Pact, the oath and the keeping"
@@ -182,27 +185,27 @@ data:
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a prayer; anything said to the land aloud"
-      source: {kind: inherited, form: yaltheza}
+      source: {kind: inherited}
     - form: odhethand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a reader of signs; one who reads the weather and the birds for the council"
-      source: {kind: inherited, form: odhethos}
+      source: {kind: inherited}
     - form: orenon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a debt of honor; a thing done that must be repaid in kind"
-      source: {kind: inherited, form: orfenon}
+      source: {kind: inherited}
     - form: orenathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to owe; to stand under a debt of honor"
-      source: {kind: inherited, form: orfenathen}
+      source: {kind: inherited}
     - form: kurthand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "an elder; one who sits in the council of a valley"
-      source: {kind: inherited, form: kurthos}
+      source: {kind: inherited}
     - form: kúrthema
       class: n f
       field: "The Pact, the oath and the keeping"
@@ -222,38 +225,38 @@ data:
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to bring a grievance before the elders"
-      source: {kind: inherited, form: krezulathen}
+      source: {kind: inherited}
     - form: losand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a speaker for another; one who carries a kinsman's grievance to the elders"
-      source: {kind: inherited, form: lozos}
+      source: {kind: inherited}
     - form: thidharand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a keeper of the boundary marks"
-      source: {kind: inherited, form: thidharos}
+      source: {kind: inherited}
     - form: thrameson
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "the Warden's oath; the oath that makes a Warden"
-      source: {kind: inherited, form: thramezon}
+      source: {kind: inherited}
     - form: thramesand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a sworn Warden"
-      source: {kind: inherited, form: thramezan}
+      source: {kind: inherited}
     - form: sorethendi
       class: n m
       field: "Kin, the clan and the name"
       gloss: "kin; those of one blood"
-      source: {kind: inherited, form: sorethis}
+      source: {kind: inherited}
     - form: semroth
       class: n m
       field: "Kin, the clan and the name"
       gloss: "a brother"
       concept: brother
-      source: {kind: inherited, form: semrothos}
+      source: {kind: inherited}
     - form: semrotha
       class: n f
       field: "Kin, the clan and the name"
@@ -265,27 +268,27 @@ data:
       field: "Kin, the clan and the name"
       gloss: "a child; one not yet given a name"
       concept: child
-      source: {kind: inherited, form: nurizon}
+      source: {kind: inherited}
     - form: sorkhand
       class: n m
       field: "Kin, the clan and the name"
       gloss: "the head of a household; the one who speaks for a hearth in council"
-      source: {kind: inherited, form: zorkos}
+      source: {kind: inherited}
     - form: thelaralon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "an old line; a family the genealogies carry back to the crossing"
-      source: {kind: inherited, form: thelwaralon}
+      source: {kind: inherited}
     - form: arlendi
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a clan name; the name of those of a founder"
-      source: {kind: inherited, form: harlenis}
+      source: {kind: inherited}
     - form: kíramarlen
       class: n n
       field: "Kin, the clan and the name"
       gloss: "an earned name; the name sung at the gathering after a deed"
-      source: {kind: inherited, form: kiramharlen}
+      source: {kind: inherited}
     - form: kondamon
       class: n n
       field: "Kin, the clan and the name"
@@ -300,21 +303,22 @@ data:
       class: n n
       field: "Kin, the clan and the name"
       gloss: "an elder; one old enough to have heard the genealogies from the last Keeper"
-      source: {kind: kept, form: huron}
+      source: {kind: inherited}
     - form: renkhon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a possession; what a man owns outside the clan's common"
-      source: {kind: inherited, form: frenkon}
+      source: {kind: inherited}
     - form: erosalon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a share; a household's right in the common grazing"
-      source: {kind: inherited, form: werosalon}
-    - form: kálmethathen
+      source: {kind: inherited}
+    - form: dhónkathen
       class: v
       field: "Kin, the clan and the name"
       gloss: "to go to the ancestors; to die, as the Keepers say it"
+      concept: die
       source: {kind: inherited}
     - form: íthanersa
       class: n f
@@ -330,17 +334,18 @@ data:
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "the kept fire; the fire of a lodge, banked at night and never let die"
-      source: {kind: inherited, form: "k'aralzon"}
+      concept: hearth
+      source: {kind: inherited}
     - form: sirothathen
       class: v
       field: "The lodge, the fire and the guest"
       gloss: "to seat; to give a guest his place at the fire"
-      source: {kind: inherited, form: zirothathen}
+      source: {kind: inherited}
     - form: sirothalon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "the order of the seats; worked out again at every gathering"
-      source: {kind: inherited, form: zirothalon}
+      source: {kind: inherited}
     - form: dáimela
       class: n m
       field: "The lodge, the fire and the guest"
@@ -356,7 +361,7 @@ data:
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "guest-right; what the hall owes the one under its roof"
-      source: {kind: inherited, form: dumwaralon}
+      source: {kind: inherited}
     - form: lordemon
       class: n n
       field: "The lodge, the fire and the guest"
@@ -371,7 +376,7 @@ data:
       class: adj
       field: "The lodge, the fire and the guest"
       gloss: "unseated; of a guest whose place at the fire nobody has settled"
-      source: {kind: inherited, form: anzirothos}
+      source: {kind: inherited}
     - form: dáimelalon
       class: n n
       field: "The lodge, the fire and the guest"
@@ -386,12 +391,12 @@ data:
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "the greeting at a lodge door at first light"
-      source: {kind: inherited, form: pramolza}
+      source: {kind: inherited}
     - form: remalis
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "the gathering ground before a lodge"
-      source: {kind: inherited, form: rembalis}
+      source: {kind: inherited}
     - form: íthrola
       class: n f
       field: "The lodge, the fire and the guest"
@@ -402,7 +407,7 @@ data:
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "mead; the old word for wine, kept for the drink the highlands make"
-      source: {kind: inherited, form: yenthizon}
+      source: {kind: inherited}
     - form: éllepirsa
       class: n f
       field: "The lodge, the fire and the guest"
@@ -448,12 +453,12 @@ data:
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "a horse; the small hill horse of the Spine"
-      source: {kind: inherited, form: ghulmos}
+      source: {kind: inherited}
     - form: ghulmand
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "a rider; a herder on horseback"
-      source: {kind: inherited, form: ghulmandos}
+      source: {kind: inherited}
     - form: ghulmalon
       class: n n
       field: "Herds, pasture and the high grass"
@@ -473,17 +478,17 @@ data:
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "land; the ground a clan grazes"
-      source: {kind: inherited, form: yormalis}
+      source: {kind: inherited}
     - form: olthamis
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a field; the walled ground below a lodge"
-      source: {kind: inherited, form: polthamis}
+      source: {kind: inherited}
     - form: thremusis
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "salt; the lick set out on the high pasture"
-      source: {kind: inherited, form: thremuzis}
+      source: {kind: inherited}
     - form: komrelalon
       class: n n
       field: "Herds, pasture and the high grass"
@@ -498,7 +503,7 @@ data:
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "the counter of the herds"
-      source: {kind: inherited, form: theronos}
+      source: {kind: inherited}
     - form: tarkhelon
       class: n n
       field: "Herds, pasture and the high grass"
@@ -508,7 +513,7 @@ data:
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "the keeper of the common store"
-      source: {kind: inherited, form: karezos}
+      source: {kind: inherited}
     - form: selkhora
       class: n f
       field: "Herds, pasture and the high grass"
@@ -518,7 +523,7 @@ data:
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a leat; water led along a hillside to a field"
-      source: {kind: inherited, form: ulmerpodhera}
+      source: {kind: inherited}
     - form: sodhrakis
       class: n f
       field: "Herds, pasture and the high grass"
@@ -533,7 +538,7 @@ data:
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a riding; a band of mounted Wardens"
-      source: {kind: inherited, form: gulmeza}
+      source: {kind: inherited}
     - form: nélamis
       class: n f
       field: "Mountain, snow and stone"
@@ -543,12 +548,12 @@ data:
       class: n f
       field: "Mountain, snow and stone"
       gloss: "winter; the snow-time"
-      source: {kind: inherited, form: nelameza}
+      source: {kind: inherited}
     - form: neralis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a valley; a clan's ground between two ridges"
-      source: {kind: inherited, form: nebralis}
+      source: {kind: inherited}
     - form: tholmara
       class: n f
       field: "Mountain, snow and stone"
@@ -558,7 +563,7 @@ data:
       class: n n
       field: "Mountain, snow and stone"
       gloss: "a torrent; a river in spate off the snowfields"
-      source: {kind: inherited, form: wilaras}
+      source: {kind: inherited}
     - form: ulmera
       class: n f
       field: "Mountain, snow and stone"
@@ -569,42 +574,42 @@ data:
       class: n n
       field: "Mountain, snow and stone"
       gloss: "a rock basin; a spring caught in cut stone"
-      source: {kind: inherited, form: dhumbezon}
+      source: {kind: inherited}
     - form: khalmesar
       class: n n
       field: "Mountain, snow and stone"
       gloss: "white stone; the pale marble of the Spine"
-      source: {kind: inherited, form: kalmezar}
+      source: {kind: inherited}
     - form: grumalon
       class: n n
       field: "Mountain, snow and stone"
       gloss: "a stone cut; the place a ring's stones were taken from, left open"
-      source: {kind: inherited, form: grumbalon}
+      source: {kind: inherited}
     - form: althokis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a dressed stone"
-      source: {kind: inherited, form: palthokis}
+      source: {kind: inherited}
     - form: dorkima
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a pillar of stone"
       source: {kind: inherited}
-    - form: kaldrema
-      class: n f
+    - form: lonku
+      class: n n
       field: "Mountain, snow and stone"
       gloss: "the wood below the snow line"
-      source: {kind: inherited}
+      source: {kind: borrowed, language: skill-sinalelng, form: lonku}
     - form: thersolis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "an island in a tarn"
       source: {kind: inherited}
-    - form: orkhaima
-      class: n f
+    - form: raumel
+      class: n m
       field: "Mountain, snow and stone"
       gloss: "an eagle"
-      source: {kind: inherited, form: orkaima}
+      source: {kind: borrowed, language: skill-sinalelng, form: raumel}
     - form: auldi
       class: n n
       field: "Mountain, snow and stone"
@@ -624,23 +629,23 @@ data:
       class: v
       field: "Mountain, snow and stone"
       gloss: "to stand empty; said of a lodge whose kin are gone"
-      source: {kind: inherited, form: humelthathen}
+      source: {kind: inherited}
     - form: rudhamis
       class: n f
       field: "The body, life and death"
       gloss: "blood"
       concept: blood
-      source: {kind: inherited, form: brudhamis}
+      source: {kind: inherited}
     - form: ritheson
       class: n n
       field: "The body, life and death"
       gloss: "a wound"
-      source: {kind: inherited, form: rithezon}
+      source: {kind: inherited}
     - form: rithesand
       class: n m
       field: "The body, life and death"
       gloss: "a healer; one who closes wounds"
-      source: {kind: inherited, form: rithezos}
+      source: {kind: inherited}
     - form: thernathen
       class: v
       field: "The body, life and death"
@@ -651,7 +656,7 @@ data:
       class: v
       field: "The body, life and death"
       gloss: "to fall"
-      source: {kind: inherited, form: nembethen}
+      source: {kind: inherited}
     - form: dhemrolon
       class: n n
       field: "The body, life and death"
@@ -662,26 +667,21 @@ data:
       field: "The body, life and death"
       gloss: "a field of cairns at the edge of a valley"
       source: {kind: inherited}
-    - form: korathis
+    - form: khirkel
       class: n m
       field: "Light, sky and the turning year"
       gloss: "the sun"
-      source: {kind: inherited, form: korwathis}
-    - form: alsemis
-      class: n f
+      source: {kind: borrowed, language: skill-sinalelng, form: hirkel}
+    - form: sotel
+      class: n m
       field: "Light, sky and the turning year"
       gloss: "the moon"
-      source: {kind: inherited, form: yalzemis}
-    - form: ílthera
-      class: n f
+      source: {kind: borrowed, language: skill-sinalelng, form: sotel}
+    - form: núpanu
+      class: n n
       field: "Light, sky and the turning year"
       gloss: "a star"
-      source: {kind: inherited}
-    - form: ilthera
-      class: n f
-      field: "Light, sky and the turning year"
-      gloss: "the evening; the hour the first stars come"
-      source: {kind: inherited, form: hilthera}
+      source: {kind: borrowed, language: skill-sinalelng, form: nuuvanu}
     - form: nardelon
       class: n n
       field: "Light, sky and the turning year"
@@ -701,7 +701,7 @@ data:
       class: n f
       field: "Light, sky and the turning year"
       gloss: "the crossing; the year the band came over the pass, from which the years are counted"
-      source: {kind: inherited, form: zerthazis}
+      source: {kind: inherited}
     - form: últhalon
       class: n n
       field: "Light, sky and the turning year"
@@ -1090,7 +1090,7 @@ data:
     - form: úlpaldepan
       class: n m
       field: "The fae, the thin places and the wards"
-      gloss: "the deeper places beyond the veil"
+      gloss: "what lies beyond the veil, as the Sinale name it"
       source: {kind: borrowed, language: skill-sinalelng, form: ultasaldevan}
     - form: áithepi
       class: n n
@@ -1181,7 +1181,7 @@ data:
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "a druid; one who keeps the rites of a grove"
-      source: {kind: inherited, form: sarkenandos}
+      source: {kind: inherited}
     - form: sarkhenanda
       class: n f
       field: "The fae, the thin places and the wards"
@@ -1196,7 +1196,7 @@ data:
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "a lowland mage"
-      source: {kind: inherited, form: thordimos}
+      source: {kind: inherited}
     - form: sélporo
       class: n n
       field: Rite and the dead
@@ -1235,12 +1235,12 @@ data:
     - form: náuldinno
       class: n n
       field: Rite and the dead
-      gloss: "a binder of the dead"
+      gloss: "a binder of the dead, among the Sinale"
       source: {kind: borrowed, language: skill-sinalelng, form: nauldinno}
     - form: náuldisto
       class: n n
       field: Rite and the dead
-      gloss: "a place of binding"
+      gloss: "a place of binding, among the Sinale"
       source: {kind: borrowed, language: skill-sinalelng, form: nauldisto}
     - form: sáuldisto
       class: n n
@@ -1267,42 +1267,43 @@ data:
       field: Rite and the dead
       gloss: "a walking away; the desertion of one's kin"
       source: {kind: borrowed, language: skill-sinalelng, form: olkairsa}
-    - form: sorimathen
+    - form: luro
       class: v
       field: "Song, speech and the letters"
       gloss: "to sing"
-      source: {kind: inherited}
-    - form: sorimand
-      class: n m
+      source: {kind: borrowed, language: skill-sinalelng, form: luuro}
+    - form: lúronno
+      class: n n
       field: "Song, speech and the letters"
       gloss: "a singer; one who sings at the gathering"
-      source: {kind: inherited, form: sorimos}
-    - form: dokhathen
+      source: {kind: borrowed, language: skill-sinalelng, form: luuronno}
+    - form: rúnathen
       class: v
       field: "Song, speech and the letters"
       gloss: "to speak; to say before the council"
-      concept: speak
-      source: {kind: inherited, form: dokathen}
-    - form: tharlema
+      concept: [speak, say]
+      source: {kind: inherited}
+    - form: óstila
       class: n f
       field: "Song, speech and the letters"
       gloss: "a tongue; a language"
+      concept: tongue
       source: {kind: inherited}
     - form: lamison
       class: n n
       field: "Song, speech and the letters"
       gloss: "a word"
-      source: {kind: inherited, form: lambizon}
+      source: {kind: inherited}
     - form: loresathen
       class: v
       field: "Song, speech and the letters"
       gloss: "to recite; to say the old words exactly as they were said"
-      source: {kind: inherited, form: lorezathen}
+      source: {kind: inherited}
     - form: loresand
       class: n m
       field: "Song, speech and the letters"
       gloss: "a Tradition Keeper; a reciter of the Pact and the genealogies"
-      source: {kind: inherited, form: lorezos}
+      source: {kind: inherited}
     - form: oldhemon
       class: n n
       field: "Song, speech and the letters"
@@ -1318,12 +1319,12 @@ data:
       field: "Song, speech and the letters"
       gloss: "to know"
       concept: know
-      source: {kind: inherited, form: kezdathen}
+      source: {kind: inherited}
     - form: semarson
       class: n n
       field: "Song, speech and the letters"
       gloss: "a stave; one sign of the rune-row"
-      source: {kind: inherited, form: semarzon}
+      source: {kind: inherited}
     - form: thilandon
       class: n n
       field: "Song, speech and the letters"
@@ -1343,7 +1344,7 @@ data:
       class: n m
       field: "Song, speech and the letters"
       gloss: "a teacher; a Keeper who teaches the genealogies"
-      source: {kind: inherited, form: marendos}
+      source: {kind: inherited}
     - form: ólnaro
       class: n n
       field: "Song, speech and the letters"
@@ -1413,12 +1414,12 @@ data:
       class: n f
       field: The Wardens and the border
       gloss: "war"
-      source: {kind: inherited, form: grumeza}
+      source: {kind: inherited}
     - form: redha
       class: n f
       field: The Wardens and the border
       gloss: "peace; the quiet between neighbors"
-      source: {kind: inherited, form: predha}
+      source: {kind: inherited}
     - form: thrumathen
       class: v
       field: The Wardens and the border
@@ -1448,7 +1449,7 @@ data:
       class: n n
       field: The Wardens and the border
       gloss: "a long knife"
-      source: {kind: inherited, form: kadzimon}
+      source: {kind: inherited}
     - form: dhurgalis
       class: n f
       field: The Wardens and the border
@@ -1458,27 +1459,27 @@ data:
       class: n n
       field: The Wardens and the border
       gloss: "a held pass; the holding of a way against whoever comes up it"
-      source: {kind: inherited, form: thurgezon}
+      source: {kind: inherited}
     - form: takhesand
       class: n m
       field: The Wardens and the border
       gloss: "a captain; one who leads ten"
-      source: {kind: inherited, form: takezos}
+      source: {kind: inherited}
     - form: thumalis
       class: n f
       field: Craft and the metals
       gloss: "a forge"
-      source: {kind: inherited, form: thumbalis}
+      source: {kind: inherited}
     - form: malkhesa
       class: n f
       field: Craft and the metals
       gloss: "a hammer"
-      source: {kind: inherited, form: malkeza}
+      source: {kind: inherited}
     - form: radsimon
       class: n n
       field: Craft and the metals
       gloss: "copper"
-      source: {kind: inherited, form: radzimon}
+      source: {kind: inherited}
     - form: thurdimon
       class: n n
       field: Craft and the metals
@@ -1488,12 +1489,12 @@ data:
       class: n n
       field: Craft and the metals
       gloss: "gold"
-      source: {kind: inherited, form: ethlon}
+      source: {kind: inherited}
     - form: ánkhrason
       class: n n
       field: Craft and the metals
       gloss: "silver"
-      source: {kind: inherited, form: ankron}
+      source: {kind: inherited}
     - form: ulthimon
       class: n n
       field: Craft and the metals
@@ -1503,7 +1504,7 @@ data:
       class: n n
       field: Craft and the metals
       gloss: "a work; a thing made by hand"
-      source: {kind: inherited, form: tambandon}
+      source: {kind: inherited}
     - form: kelthathen
       class: v
       field: Craft and the metals
@@ -1518,12 +1519,12 @@ data:
       class: n m
       field: Craft and the metals
       gloss: "a master of a craft"
-      source: {kind: inherited, form: ghartos}
+      source: {kind: inherited}
     - form: tháleson
       class: n n
       field: Craft and the metals
       gloss: "steel; bought from below, and prized"
-      source: {kind: inherited, form: thalbezon}
+      source: {kind: inherited}
     - form: solkimon
       class: n n
       field: Craft and the metals
@@ -1543,12 +1544,12 @@ data:
       class: n f
       field: Craft and the metals
       gloss: "a price"
-      source: {kind: inherited, form: werdakis}
+      source: {kind: inherited}
     - form: khésilon
       class: n n
       field: Craft and the metals
       gloss: "a wedge"
-      source: {kind: inherited, form: kezilon}
+      source: {kind: inherited}
     - form: lórrami
       class: n n
       field: Craft and the metals
@@ -1601,12 +1602,12 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to carry"
-      source: {kind: inherited, form: lozethen}
+      source: {kind: inherited}
     - form: ursithen
       class: v
       field: "Doing, going and being"
       gloss: "to rise"
-      source: {kind: inherited, form: urzithen}
+      source: {kind: inherited}
     - form: gháurathen
       class: v
       field: "Doing, going and being"
@@ -1616,7 +1617,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to send"
-      source: {kind: inherited, form: felzathen}
+      source: {kind: inherited}
     - form: usathen
       class: v
       field: "Doing, going and being"
@@ -1626,12 +1627,12 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to see to; to look after a thing for another"
-      source: {kind: inherited, form: karezathen}
+      source: {kind: inherited}
     - form: orsathen
       class: v
       field: "Doing, going and being"
       gloss: "to command; said of a war leader in the field and of nobody else"
-      source: {kind: inherited, form: orzathen}
+      source: {kind: inherited}
     - form: dorandar
       class: adj
       field: "Doing, going and being"
@@ -1641,19 +1642,19 @@ data:
       class: adv
       field: "Doing, going and being"
       gloss: "less"
-      source: {kind: inherited, form: nizeron}
+      source: {kind: inherited}
     - form: elsur
       class: num
       field: Numbers and grammar words
       gloss: "four"
       concept: four
-      source: {kind: inherited, form: felzur}
+      source: {kind: inherited}
     - form: olemiks
       class: num
       field: Numbers and grammar words
       gloss: "five"
       concept: five
-      source: {kind: inherited, form: yolemiks}
+      source: {kind: inherited}
     - form: ránethur
       class: num
       field: Numbers and grammar words
@@ -1665,13 +1666,13 @@ data:
       field: Numbers and grammar words
       gloss: "eight"
       concept: eight
-      source: {kind: inherited, form: zorimaks}
+      source: {kind: inherited}
     - form: umaris
       class: num
       field: Numbers and grammar words
       gloss: "ten"
       concept: ten
-      source: {kind: inherited, form: umbaris}
+      source: {kind: inherited}
     - form: dorekhis
       class: num
       field: Numbers and grammar words
@@ -1682,7 +1683,7 @@ data:
       field: Numbers and grammar words
       gloss: "a thousand"
       concept: thousand
-      source: {kind: inherited, form: thambezur}
+      source: {kind: inherited}
     - form: en
       class: pron
       field: Numbers and grammar words
@@ -1692,7 +1693,7 @@ data:
       class: pron
       field: Numbers and grammar words
       gloss: "you, one person"
-      source: {kind: inherited, form: ko}
+      source: {kind: inherited}
     - form: enoi
       class: pron
       field: Numbers and grammar words
@@ -1727,25 +1728,871 @@ data:
       class: part
       field: Numbers and grammar words
       gloss: "the; the article, from the old yonder"
-      source: {kind: worn, form: alathos}
+      source: {kind: inherited}
     - form: uk
       class: num
       field: Numbers and grammar words
       gloss: "one"
       concept: one
-      source: {kind: worn, form: urkis}
+      source: {kind: inherited}
     - form: ta
       class: num
       field: Numbers and grammar words
       gloss: "two"
       concept: two
-      source: {kind: worn, form: tawemer}
+      source: {kind: inherited}
     - form: kha
       class: num
       field: Numbers and grammar words
       gloss: "three"
       concept: three
-      source: {kind: worn, form: karzis}
+      source: {kind: inherited}
+    - form: dírmalis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a sight; a thing seen; the look of a thing"
+      concept: see-noun
+      source: {kind: inherited}
+    - form: sóldithen
+      class: v
+      field: "The body, life and death"
+      gloss: "to hear"
+      concept: hear-verb
+      source: {kind: inherited}
+    - form: sóldaris
+      class: n f
+      field: "The body, life and death"
+      gloss: "a sound; a thing heard"
+      concept: hear-noun
+      source: {kind: inherited}
+    - form: múnsathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to smell; to catch the smell of a thing"
+      concept: smell-verb
+      source: {kind: inherited}
+    - form: múnsala
+      class: n f
+      field: "The body, life and death"
+      gloss: "a smell; a scent"
+      concept: smell-noun
+      source: {kind: inherited}
+    - form: lóskathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to taste"
+      concept: taste-verb
+      source: {kind: inherited}
+    - form: lóskima
+      class: n f
+      field: "The body, life and death"
+      gloss: "a taste; a flavour"
+      concept: taste-noun
+      source: {kind: inherited}
+    - form: gríthathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to feel; to touch"
+      concept: touch-verb
+      source: {kind: inherited}
+    - form: gríthalis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a touch; the feel of a thing"
+      concept: touch-noun
+      source: {kind: inherited}
+    - form: ghórasa
+      class: n f
+      field: "The body, life and death"
+      gloss: "wrath; anger that burns"
+      concept: wrath
+      source: {kind: inherited}
+    - form: dhérgamon
+      class: n n
+      field: "The body, life and death"
+      gloss: "envy; the want of what another has"
+      concept: envy
+      source: {kind: inherited}
+    - form: sénthira
+      class: n f
+      field: "The body, life and death"
+      gloss: "hope"
+      concept: hope
+      source: {kind: inherited}
+    - form: ghúlthesa
+      class: n f
+      field: "The body, life and death"
+      gloss: "greed; the want of more than a thing is worth"
+      concept: greed
+      source: {kind: inherited}
+    - form: ghárdimon
+      class: n n
+      field: "The body, life and death"
+      gloss: "boasting; a speech made in one's own praise"
+      concept: boasting
+      source: {kind: inherited}
+    - form: rónkalis
+      class: n f
+      field: "The body, life and death"
+      gloss: "pride; honour a man claims for himself"
+      concept: pride
+      source: {kind: inherited}
+    - form: ghérmisa
+      class: n f
+      field: "The body, life and death"
+      gloss: "lust; the heat of the blood"
+      concept: lust
+      source: {kind: inherited}
+    - form: ánsenthira
+      class: n f
+      field: "The body, life and death"
+      gloss: "despair; hope given up"
+      concept: despair
+      built: ["an-", sénthira]
+    - form: némsenthira
+      class: n f
+      field: "The body, life and death"
+      gloss: "disappointment; a hope that has fallen"
+      concept: disappointment
+      built: [nemethen, sénthira]
+    - form: dhárison
+      class: n n
+      field: "The body, life and death"
+      gloss: "faith; trust; the holding of the Pact true"
+      concept: faith
+      source: {kind: inherited}
+    - form: méldaris
+      class: n f
+      field: "The body, life and death"
+      gloss: "romantic love; the love between lovers"
+      concept: love-eros
+      source: {kind: inherited}
+    - form: kénalis
+      class: n f
+      field: "The body, life and death"
+      gloss: "storge; the love of kin, of parent and child"
+      concept: love-storge
+      source: {kind: inherited}
+    - form: ílthamon
+      class: n n
+      field: "The body, life and death"
+      gloss: "agape; hallowed love, given to all without asking"
+      concept: love-agape
+      source: {kind: inherited}
+    - form: ghoran
+      class: n m
+      field: "The body, life and death"
+      gloss: "a head"
+      concept: head
+      source: {kind: inherited}
+    - form: tharsa
+      class: n f
+      field: "The body, life and death"
+      gloss: "the hair of the head"
+      concept: hair
+      source: {kind: inherited}
+    - form: ghélmira
+      class: n f
+      field: "The body, life and death"
+      gloss: "a face"
+      concept: face
+      source: {kind: inherited}
+    - form: dulin
+      class: n m
+      field: "The body, life and death"
+      gloss: "an eye"
+      concept: eye
+      source: {kind: inherited}
+    - form: ósala
+      class: n f
+      field: "The body, life and death"
+      gloss: "the ear"
+      concept: ear
+      source: {kind: inherited}
+    - form: runkis
+      class: n f
+      field: "The body, life and death"
+      gloss: "the nose"
+      concept: nose
+      source: {kind: inherited}
+    - form: ghama
+      class: n f
+      field: "The body, life and death"
+      gloss: "the mouth"
+      concept: mouth
+      source: {kind: inherited}
+    - form: mersa
+      class: n f
+      field: "The body, life and death"
+      gloss: "a lip"
+      concept: lip
+      source: {kind: inherited}
+    - form: kelsis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a tooth"
+      concept: tooth
+      source: {kind: inherited}
+    - form: khórtima
+      class: n f
+      field: "The body, life and death"
+      gloss: "the neck"
+      concept: neck
+      source: {kind: inherited}
+    - form: gárthemon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the shoulder"
+      concept: shoulder
+      source: {kind: inherited}
+    - form: drámelis
+      class: n f
+      field: "The body, life and death"
+      gloss: "the arm"
+      concept: arm
+      source: {kind: inherited}
+    - form: kúrdela
+      class: n f
+      field: "The body, life and death"
+      gloss: "the elbow"
+      concept: elbow
+      source: {kind: inherited}
+    - form: thramis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a hand"
+      concept: hand
+      source: {kind: inherited}
+    - form: lundis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a finger"
+      concept: finger
+      source: {kind: inherited}
+    - form: drésala
+      class: n f
+      field: "The body, life and death"
+      gloss: "a fingernail; a toenail"
+      concept: nail
+      source: {kind: inherited}
+    - form: thórkalon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the chest"
+      concept: chest
+      source: {kind: inherited}
+    - form: múnara
+      class: n f
+      field: "The body, life and death"
+      gloss: "a breast"
+      concept: breast
+      source: {kind: inherited}
+    - form: khámira
+      class: n f
+      field: "The body, life and death"
+      gloss: "a heart"
+      concept: heart
+      source: {kind: inherited}
+    - form: múrkalon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the belly"
+      concept: belly
+      source: {kind: inherited}
+    - form: ránthemon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the back"
+      concept: back
+      source: {kind: inherited}
+    - form: mórgila
+      class: n f
+      field: "The body, life and death"
+      gloss: "the hip; the waist"
+      concept: hip
+      source: {kind: inherited}
+    - form: ghúrthamon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the leg"
+      concept: leg
+      source: {kind: inherited}
+    - form: gúrdamon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the knee"
+      concept: knee
+      source: {kind: inherited}
+    - form: thodra
+      class: n f
+      field: "The body, life and death"
+      gloss: "the foot"
+      concept: foot
+      source: {kind: inherited}
+    - form: thódrundis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a toe"
+      concept: toe
+      built: [thodra, lundis]
+    - form: lúmrisa
+      class: n f
+      field: "The body, life and death"
+      gloss: "the skin; a hide"
+      concept: skin
+      source: {kind: inherited}
+    - form: kulthon
+      class: n n
+      field: "The body, life and death"
+      gloss: "a bone"
+      concept: bone
+      source: {kind: inherited}
+    - form: dúmeris
+      class: n f
+      field: "The body, life and death"
+      gloss: "flesh; meat"
+      concept: flesh
+      source: {kind: inherited}
+    - form: tamris
+      class: n f
+      field: "The body, life and death"
+      gloss: "food; a meal"
+      concept: food
+      source: {kind: inherited}
+    - form: támrathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to eat"
+      concept: eat
+      source: {kind: inherited}
+    - form: lúnthema
+      class: n f
+      field: "The body, life and death"
+      gloss: "a drink"
+      concept: drink-noun
+      source: {kind: inherited}
+    - form: lúnthathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to drink"
+      concept: drink-verb
+      source: {kind: inherited}
+    - form: thérsala
+      class: n f
+      field: "The body, life and death"
+      gloss: "air"
+      concept: air
+      source: {kind: inherited}
+    - form: nimon
+      class: n n
+      field: "The body, life and death"
+      gloss: "breath; a breath"
+      concept: breath
+      source: {kind: inherited}
+    - form: nímathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to breathe"
+      concept: breathe
+      source: {kind: inherited}
+    - form: dursa
+      class: n f
+      field: "The body, life and death"
+      gloss: "sleep"
+      concept: sleep-noun
+      source: {kind: inherited}
+    - form: dúrsathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to sleep"
+      concept: sleep-verb
+      source: {kind: inherited}
+    - form: ghúrlena
+      class: n f
+      field: "The body, life and death"
+      gloss: "urine"
+      concept: urine
+      source: {kind: inherited}
+    - form: ghúrlathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to urinate"
+      concept: urinate
+      source: {kind: inherited}
+    - form: múrkison
+      class: n n
+      field: "The body, life and death"
+      gloss: "dung"
+      concept: dung
+      source: {kind: inherited}
+    - form: múrkathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to defecate"
+      concept: defecate
+      source: {kind: inherited}
+    - form: dhálmesa
+      class: n f
+      field: "The body, life and death"
+      gloss: "warmth"
+      concept: warmth
+      source: {kind: inherited}
+    - form: ródhalis
+      class: n f
+      field: "The body, life and death"
+      gloss: "shelter; a place under a roof"
+      concept: shelter
+      source: {kind: inherited}
+    - form: sírothon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a chair"
+      concept: chair
+      source: {kind: inherited}
+    - form: tháldema
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a table"
+      concept: table
+      source: {kind: inherited}
+    - form: dhurin
+      class: n m
+      field: "The lodge, the fire and the guest"
+      gloss: "a bed"
+      concept: bed
+      source: {kind: inherited}
+    - form: ghérmalon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a floor"
+      concept: floor
+      source: {kind: inherited}
+    - form: dhúrmera
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a wall; a lodge wall or a field wall"
+      concept: wall
+      source: {kind: inherited}
+    - form: kheldon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a roof"
+      concept: roof
+      source: {kind: inherited}
+    - form: khalthon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a lodge; a house; a home"
+      concept: abode
+      source: {kind: inherited}
+    - form: khenda
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "fire; a fire"
+      concept: fire
+      source: {kind: inherited}
+    - form: ganda
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a door"
+      concept: door
+      source: {kind: inherited}
+    - form: grúndalon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a lock"
+      concept: lock
+      source: {kind: inherited}
+    - form: dornis
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a key"
+      concept: key
+      source: {kind: inherited}
+    - form: thúrnela
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a window"
+      concept: window
+      source: {kind: inherited}
+    - form: thárkison
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "shutters; the boards of a window"
+      concept: shutters
+      source: {kind: inherited}
+    - form: thulon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a cup"
+      concept: cup
+      source: {kind: inherited}
+    - form: ólkhena
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a bowl"
+      concept: bowl
+      source: {kind: inherited}
+    - form: ghursis
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a knife"
+      concept: knife
+      source: {kind: inherited}
+    - form: sármela
+      class: n f
+      field: "The lodge, the fire and the guest"
+      gloss: "a spoon"
+      concept: spoon
+      source: {kind: inherited}
+    - form: dhórthemon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "a pot"
+      concept: pot
+      source: {kind: inherited}
+    - form: ghélthamon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "cloth"
+      concept: cloth
+      source: {kind: inherited}
+    - form: sórkalon
+      class: n n
+      field: "The lodge, the fire and the guest"
+      gloss: "clothes; what is worn"
+      concept: clothes
+      source: {kind: inherited}
+    - form: dontur
+      class: num
+      field: "Numbers and grammar words"
+      gloss: "six"
+      concept: six
+      source: {kind: inherited}
+    - form: ghondis
+      class: num
+      field: "Numbers and grammar words"
+      gloss: "nine"
+      concept: nine
+      source: {kind: inherited}
+    - form: táumaris
+      class: num
+      field: "Numbers and grammar words"
+      gloss: "twenty; two tens"
+      concept: twenty
+      built: [ta, umaris]
+    - form: dhórkamon
+      class: num
+      field: "Numbers and grammar words"
+      gloss: "a hundred"
+      concept: hundred
+      source: {kind: inherited}
+    - form: trenen
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "first"
+      concept: first
+      source: {kind: inherited}
+    - form: dálamen
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "second; next in rank"
+      concept: second
+      source: {kind: inherited}
+    - form: khárinen
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "third"
+      concept: third
+      source: {kind: inherited}
+    - form: dhima
+      class: n f
+      field: "Numbers and grammar words"
+      gloss: "a half"
+      concept: half
+      source: {kind: inherited}
+    - form: ghurnar
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "many"
+      concept: many
+      source: {kind: inherited}
+    - form: sendar
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "few"
+      concept: few
+      source: {kind: inherited}
+    - form: aruk
+      class: pron
+      field: "Numbers and grammar words"
+      gloss: "none; nothing; not one"
+      concept: none
+      built: [ar, uk]
+    - form: thanar
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "black; dark"
+      concept: black
+      source: {kind: inherited}
+    - form: khalmar
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "white"
+      concept: white
+      source: {kind: inherited}
+    - form: rudhar
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "red"
+      concept: red
+      source: {kind: inherited}
+    - form: mírnaren
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "green"
+      concept: green
+      source: {kind: inherited}
+    - form: sótharen
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "yellow"
+      concept: yellow
+      source: {kind: inherited}
+    - form: dhéndaren
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "blue; the colour of the high sky"
+      concept: blue
+      source: {kind: inherited}
+    - form: ghéstaren
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "grey; ash-coloured"
+      concept: grey
+      source: {kind: inherited}
+    - form: khóldaren
+      class: adj
+      field: "Colour and the look of things"
+      gloss: "brown"
+      concept: brown
+      source: {kind: inherited}
+    - form: ámmira
+      class: n f
+      field: "Kin, the clan and the name"
+      gloss: "a mother"
+      concept: mother
+      source: {kind: inherited}
+    - form: dathar
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a father"
+      concept: father
+      source: {kind: inherited}
+    - form: kénalor
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a parent"
+      concept: parent
+      source: {kind: inherited}
+    - form: khelnor
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a son"
+      concept: son
+      source: {kind: inherited}
+    - form: khélnora
+      class: n f
+      field: "Kin, the clan and the name"
+      gloss: "a daughter"
+      concept: daughter
+      source: {kind: inherited}
+    - form: úrammira
+      class: n f
+      field: "Kin, the clan and the name"
+      gloss: "a grandmother"
+      concept: grandmother
+      built: [uron, ámmira]
+    - form: úrdathar
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a grandfather"
+      concept: grandfather
+      built: [uron, dathar]
+    - form: sénkhinon
+      class: n n
+      field: "Kin, the clan and the name"
+      gloss: "a grandchild"
+      concept: grandchild
+      source: {kind: inherited}
+    - form: gháldoran
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "an uncle"
+      concept: uncle
+      source: {kind: inherited}
+    - form: gháldora
+      class: n f
+      field: "Kin, the clan and the name"
+      gloss: "an aunt"
+      concept: aunt
+      source: {kind: inherited}
+    - form: kénthilar
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a cousin"
+      concept: cousin
+      source: {kind: inherited}
+    - form: thalmand
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a husband"
+      concept: husband
+      source: {kind: inherited}
+    - form: thálmanda
+      class: n f
+      field: "Kin, the clan and the name"
+      gloss: "a wife"
+      concept: wife
+      source: {kind: inherited}
+    - form: úrkenand
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "an ancestor; one of the dead a clan still counts"
+      concept: ancestor
+      source: {kind: inherited}
+    - form: núrendar
+      class: n m
+      field: "Kin, the clan and the name"
+      gloss: "a descendant"
+      concept: descendant
+      source: {kind: inherited}
+    - form: ánkenon
+      class: n n
+      field: "Kin, the clan and the name"
+      gloss: "an orphan; a child with no kin to keep it"
+      concept: orphan
+      source: {kind: inherited}
+    - form: dhélsara
+      class: n f
+      field: "Kin, the clan and the name"
+      gloss: "a widow"
+      concept: widow
+      source: {kind: inherited}
+    - form: ónathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to be"
+      concept: be
+      source: {kind: inherited}
+    - form: dhárkathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to hold; to have"
+      concept: [have, hold]
+      source: {kind: inherited}
+    - form: ghóldathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to take"
+      concept: take
+      source: {kind: inherited}
+    - form: ghársathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to make; to do"
+      concept: [make, do]
+      source: {kind: inherited}
+    - form: khórmathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to think"
+      concept: think
+      source: {kind: inherited}
+    - form: ílnathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to want; to desire"
+      concept: want
+      source: {kind: inherited}
+    - form: sénkathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to walk"
+      concept: walk
+      source: {kind: inherited}
+    - form: ghírdathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to run"
+      concept: run
+      source: {kind: inherited}
+    - form: khóthathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to sit"
+      concept: sit
+      source: {kind: inherited}
+    - form: róndathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to stand"
+      concept: stand
+      source: {kind: inherited}
+    - form: ghórnathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to lie down"
+      concept: lie-down
+      source: {kind: inherited}
+    - form: dórgathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to bring"
+      concept: bring
+      source: {kind: inherited}
+    - form: thíldathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to set; to lay a thing in its place"
+      concept: put
+      source: {kind: inherited}
+    - form: sórkathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to find"
+      concept: find
+      source: {kind: inherited}
+    - form: ánsorkathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to lose"
+      concept: lose
+      built: ["an-", sórkathen]
+    - form: gárdathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to open"
+      concept: open
+      source: {kind: inherited}
+    - form: ángardathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to close"
+      concept: close
+      built: ["an-", gárdathen]
+    - form: thrénathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to begin"
+      concept: begin
+      source: {kind: inherited}
+    - form: dhúlkathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to end"
+      concept: end
+      source: {kind: inherited}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -1966,6 +2813,37 @@ data:
     - {form: Tîpel, instead: Timel, why: a name with a lip sound the tongue does not make}
     - {form: Eshálosha, instead: Ésalosa, why: a name with a letter and a stress the tongue lacks}
     - {form: Thúravardh, instead: Thurarth, why: a name with a lip sound the tongue does not make}
+    - form: kálmethathen
+      instead: dhónkathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kaldrema
+      instead: lonku
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: orkhaima
+      instead: raumel
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: korathis
+      instead: khirkel
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: alsemis
+      instead: sotel
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: ílthera
+      instead: núpanu
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - {form: ilthera, instead: ólparne, why: "the evening is written with the Sinale loan"}
+    - form: sorimathen
+      instead: luro
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: sorimand
+      instead: lúronno
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: dokhathen
+      instead: rúnathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tharlema
+      instead: óstila
+      why: "a word that reads as a Vylari word; the native word is written instead"
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -1976,7 +2854,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Pelwar}}
 
-# terran_analog: Áelendi is patterned on a conservative mountain branch of a family whose lowland daughters changed fast, with a deep layer of borrowings from a neighbor it shares nothing else with, in the way the Celtic tongues of the uplands kept old sounds and took words from their neighbors. Every inherited word is derived by the tables below from an ancient Vylari root, and every loan from a row of the Sinale lexicon; none is checked by eye alone, and every word is checked against Earth word lists.
+# terran_analog: Áelendi is patterned on a conservative mountain branch of a family whose lowland daughters changed fast, with a deep layer of borrowings from a neighbor it shares nothing else with, in the way the Celtic tongues of the uplands kept old sounds and took words from their neighbors. Every loan is taken from a row of the Sinale lexicon, and every word is checked against Earth word lists.
 ---
 
 Áelendi is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill; see below for the linguistic and cultural background of the tongue itself.
@@ -2021,7 +2899,7 @@ The two tongues descend from one, and nearly every difference between them is a 
 
 **The ejectives.** Proto-Pelwar held three stop series, and Áelendi holds all three. Élavendri holds two: its ejectives have fallen together with the plain stops, which is why its inventory runs to four common stops where Áelendi's runs to twelve.
 
-**The aspirates.** Where Áelendi closes the mouth, Élavendri opens it. Its th and dh are breath rather than closure, and the back pair went further—kh has weakened to plain h and gh has dropped out between vowels with the vowels closing over the gap. Áelendi keeps all four as stops, and is left with a single fricative for the whole language.
+**The aspirates.** Where Áelendi closes the mouth, Élavendri opens it. Its th is breath rather than closure, and it has lost _kh_, _gh_ and _dh_. Áelendi keeps all four as stops, and is left with a single fricative for the whole language.
 
 **The long vowels.** An Áelendi long vowel is held on one colour and let go. Élavendri broke those vowels into the diphthongs it is admired for, so an Áelendi long _a_ stands where Élavendri has _ae_, a long _i_ where it has _ia_ or _ie_, and a long _u_ where it has _ye_.
 
@@ -2122,21 +3000,19 @@ The roots are ordinary vocabulary, and a speaker hears the sense as he hears the
 
 At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinale, and the Áelendan count them as their own.
 
-This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the daughter of ancient [[skill-vylarilng|Vylari]] that left first and changed least: it still says the clicked stops the empire's speech gave up, and it lost only the sounds made with the lips. It is also the only daughter that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
+This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the Pelwar tongue that changed least: it still says the clicked stops the lowland speech gave up, and it makes no sound with the lips but _m_. It is also the only Pelwar tongue that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. An inherited word names its ancient Vylari form and a loan its Sinale form, marked as the table of sources below sets out. Its meaning is given in Áelendi, which is often not its meaning in imperial Vylari. A word made of smaller parts names the Áelendi words and suffixes it is made of.
+An entry gives the word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. An inherited word is native Proto-Pelwar and names no source form, and a loan names its Sinale form, marked as the table of sources below sets out. Its meaning is given in Áelendi. A word made of smaller parts names the Áelendi words and suffixes it is made of.
 
 ### Sources
 
-| Source    | From                                        | Meaning                                                                                         |
-| --------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
-| `*`       | [[skill-vylarilng#lexicon\|Vylari Lexicon]] | inherited: the ancient Vylari form, as the Vylari lexicon gives it                              |
-| `kept:`   | —                                           | inherited from an ancient form the empire's speech lost; the scholars know it only from Áelendi |
-| `worn:`   | —                                           | a small word worn down; the ancient form is named                                               |
-| `sinale:` | [[skill-sinalelng#lexicon\|Sinale Lexicon]] | a loan from Sinale: the Sinale form, as the Sinale lexicon gives it                             |
-| `built`   | —                                           | made in Áelendi from the words of this lexicon; the Built from cell says how                    |
+| Source    | From                                        | Meaning                                                                      |
+| --------- | ------------------------------------------- | ---------------------------------------------------------------------------- |
+| `*`       | —                                           | inherited: native Proto-Pelwar; no source form is given                      |
+| `sinale:` | [[skill-sinalelng#lexicon\|Sinale Lexicon]] | a loan from Sinale: the Sinale form, as the Sinale lexicon gives it          |
+| `built`   | —                                           | made in Áelendi from the words of this lexicon; the Built from cell says how |
 
 ### Fields
 
@@ -2151,7 +3027,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The tongue has no `f`, no `v`, no `b`, no `h` alone and no `w`: every sound the ancient tongue made with the lips fell away. A Sinale `v` is said `p`, the one lip sound the Áelendan learned to make for their neighbors' words, and a Sinale `w` is said `g`. So the yew, _eiva_ in the Sinale's mouth, is _eipa_ in an Áelendan's. Hearing the tongue, a scholar of the empire is hearing the ancient tongue with its lips closed.
+The tongue has no `f`, no `v`, no `b`, no `h` alone and no `w`: the only sound it makes with the lips is `m`. A Sinale `v` is said `p`, the one other lip sound the Áelendan learned to make for their neighbors' words, and a Sinale `w` is said `g`. So the yew, _eiva_ in the Sinale's mouth, is _eipa_ in an Áelendan's.
 
 ### Word edges
 
@@ -2281,7 +3157,7 @@ The dead are buried under cairns, a stone for each kinsman who comes to the buri
 
 ### Light, sky and the turning year
 
-Here the two layers of the tongue lie side by side. The sun, the moon, the day and the month are inherited words, the ones the band brought over the pass. The light itself, and the hours when it changes, are Sinale: _áulira_, light, _írpalo_, dawn, _ólpessa_, the long dusk, and _nupa_, starlight, the Sinale's own word for what they are. An Áelendan says _ílthera_ for a star and _nupa_ for the light it gives, and does not hear the two as belonging to different tongues.
+Here the two layers of the tongue lie side by side. The day and the month are inherited words, the ones the band brought over the pass. The sun and the moon, the light itself and the hours when it changes are Sinale: _khirkel_, the sun, _sotel_, the moon, _áulira_, light, _írpalo_, dawn, _ólpessa_, the long dusk, and _nupa_, starlight, the Sinale's own word for what they are. An Áelendan says _núpanu_ for a star and _nupa_ for the light it gives, and does not hear the two as belonging to different tongues.
 
 The year is counted from the crossing, _serthasis_, the word the empire uses for the founding of its capital.
 
@@ -2291,7 +3167,7 @@ Above the tree line the water is inherited and the weather is the mountain's: sn
 
 ### Trees and the living wood
 
-The grassland people had a word for a wood and not much more, and the Áelendan have kept it: _kaldrema_. Every tree that grows in it is called by a Sinale name. _Torpel_ is the oak, _khersel_ the pine, _eipa_ the yew, and a stand of birch is _kálpirno_. This is the field where the loans are thickest, because the trees were what the Sinale taught first: "You learn it: tree, path, pool." A birch stand within the deep wood, _khálpilonpu_, is a Sinale compound the Áelendan say whole and never take apart.
+The wood itself is _lonku_, the deep wood, the Sinale's word. Every tree that grows in it is called by a Sinale name. _Torpel_ is the oak, _khersel_ the pine, _eipa_ the yew, and a stand of birch is _kálpirno_. This is the field where the loans are thickest, because the trees were what the Sinale taught first: "You learn it: tree, path, pool." A birch stand within the deep wood, _khálpilonpu_, is a Sinale compound the Áelendan say whole and never take apart.
 
 ### The fae, the thin places and the wards
 
@@ -2323,7 +3199,11 @@ The verbs are almost all inherited, and every inherited verb closes on the old i
 
 ### Numbers and grammar words
 
-The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn down further, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
+The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
+
+### Colour and the look of things
+
+The colours are plain adjectives, each cited in its masculine.
 
 ## Attested names {#attested-names}
 

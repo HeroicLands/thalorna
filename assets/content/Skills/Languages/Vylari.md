@@ -4795,12 +4795,7 @@ data:
         skill-tarvenlng: nebra
       proto: nebralis
       gloss: a valley
-    - forms:
-        skill-vylarilng: kaldrema
-        skill-aelendlng: kaldrema
-        skill-elvndrlng: káldrema
-        skill-provnzlng: kaldrema
-        skill-tarvenlng: kaldrema
+    - forms: {skill-vylarilng: kaldrema, skill-provnzlng: kaldrema, skill-tarvenlng: kaldrema}
       proto: kaldrema
       gloss: a wood
     - forms:
@@ -4811,28 +4806,13 @@ data:
         skill-tarvenlng: nelmis
       proto: nelamis
       gloss: snow
-    - forms:
-        skill-vylarilng: korvathis
-        skill-aelendlng: korathis
-        skill-elvndrlng: kóurathis
-        skill-provnzlng: korvatis
-        skill-tarvenlng: korvath
+    - forms: {skill-vylarilng: korvathis, skill-provnzlng: korvatis, skill-tarvenlng: korvath}
       proto: korwathis
       gloss: the sun
-    - forms:
-        skill-vylarilng: yalzemis
-        skill-aelendlng: alsemis
-        skill-elvndrlng: álsemis
-        skill-provnzlng: jalzemis
-        skill-tarvenlng: als
+    - forms: {skill-vylarilng: yalzemis, skill-provnzlng: jalzemis, skill-tarvenlng: als}
       proto: yalzemis
       gloss: the moon
-    - forms:
-        skill-vylarilng: ilthera
-        skill-aelendlng: ílthera
-        skill-elvndrlng: ílthera
-        skill-provnzlng: iltera
-        skill-tarvenlng: iltha
+    - forms: {skill-vylarilng: ilthera, skill-provnzlng: iltera, skill-tarvenlng: iltha}
       proto: ilthera
       gloss: a star
     - forms:
@@ -4851,12 +4831,7 @@ data:
         skill-tarvenlng: brud
       proto: brudhamis
       gloss: blood
-    - forms:
-        skill-vylarilng: kalmethathen
-        skill-aelendlng: kálmethathen
-        skill-elvndrlng: kálmethathen
-        skill-provnzlng: kalmetate
-        skill-tarvenlng: kalmad
+    - forms: {skill-vylarilng: kalmethathen, skill-provnzlng: kalmetate, skill-tarvenlng: kalmad}
       proto: kalmethathen
       gloss: to go to the ancestors
     - forms:
@@ -4923,26 +4898,11 @@ data:
         skill-tarvenlng: zertha
       proto: zerthazis
       gloss: the founding
-    - forms:
-        skill-vylarilng: sorimathen
-        skill-aelendlng: sorimathen
-        skill-elvndrlng: sóurimathen
-        skill-provnzlng: sorimate
-        skill-tarvenlng: sormad
+    - forms: {skill-vylarilng: sorimathen, skill-provnzlng: sorimate, skill-tarvenlng: sormad}
       proto: sorimathen
       gloss: to sing
-    - forms:
-        skill-vylarilng: sorimos
-        skill-aelendlng: sorimand
-        skill-elvndrlng: sóurimand
-        skill-provnzlng: sorime
-      proto: sorimos
-      gloss: a poet
-    - forms:
-        skill-vylarilng: dokathen
-        skill-aelendlng: dokhathen
-        skill-elvndrlng: dóuhathen
-        skill-tarvenlng: dokad
+    - {forms: {skill-vylarilng: sorimos, skill-provnzlng: sorime}, proto: sorimos, gloss: a poet}
+    - forms: {skill-vylarilng: dokathen, skill-tarvenlng: dokad}
       proto: dokathen
       gloss: to speak
     - forms:
@@ -4953,12 +4913,7 @@ data:
         skill-tarvenlng: dokme
       proto: dokemon
       gloss: an oration
-    - forms:
-        skill-vylarilng: tharlema
-        skill-aelendlng: tharlema
-        skill-elvndrlng: thárlema
-        skill-provnzlng: tarlema
-        skill-tarvenlng: tharlema
+    - forms: {skill-vylarilng: tharlema, skill-provnzlng: tarlema, skill-tarvenlng: tharlema}
       proto: tharlema
       gloss: a tongue
     - forms:

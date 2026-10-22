@@ -380,7 +380,7 @@ data:
       class: n m
       field: Song and the síladors
       gloss: "a singer; a sílador, who sings what he makes"
-      source: {kind: borrowed, language: skill-elvndrlng, form: sóurimand}
+      source: {kind: borrowed, language: skill-elvndrlng, form: lyeronno}
     - form: sorime
       class: n m
       field: Song and the síladors
