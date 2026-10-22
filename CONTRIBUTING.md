@@ -59,6 +59,14 @@ Kelestia Productions' Hârn properties never enters this repository — it lives
 separate licence. Under no circumstances commit copyrighted text, art, maps, or
 trade dress belonging to a third party.
 
+## Writing in the tongues
+
+Words, names, passages and verse in the invented languages, and their drawing in
+the setting's scripts, follow [Writing in the tongues of Thalorna](docs/writing-in-the-tongues.md).
+It covers the spelling guide, a language note's frontmatter, coining a word,
+registering a name, marking a passage with `lang=`, `font=` and `map=`, and the
+guards to run.
+
 ## Names in prose
 
 Follow [Mark every name](assets/content/README-gazeteer.md#mark-every-name):
