@@ -28,15 +28,15 @@ data:
         description: >-
           Born to the serving tarona—drovers, tank-diggers, leather-workers and the herd-hands who do the year's walking for another man's cattle.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona, and on the plateau the tarona that matters: the herd-owning lineages, whose stock and whose wells are the kingdom's whole wealth.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and owing mounted service on the droveways in the moving seasons.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, and the one who reads the season and names the day the herds move.
       - level: 6

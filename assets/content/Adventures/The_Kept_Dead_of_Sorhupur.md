@@ -140,7 +140,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 - **The arch closed and the lamps released.** The estates' surveyors redraw the district, and the gathering peoples cross the interior freely for the first time. Valsi's people bring their dead home to burn them.
 - **The city burned.** The Agmi-pantra counts it among the grounds it has cleansed, and the orthodox temples do not forgive it.
 - **The arch left open.** The forest around the interior sickens. The villages nearest it lose their dead in the night, and the Standing walk the pilgrim road.
-- **A lamp carried out.** A receiver in a river town sells it to a Danaja household, and the household's next death is the one that goes missing.
+- **A lamp carried out.** A receiver in a river town sells it to a Danhija household, and the household's next death is the one that goes missing.
 - **The shrena's debt.** The Adanshreni asks, in the spring, for the cell's ashes.
 
 ## See Also

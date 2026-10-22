@@ -22,14 +22,14 @@ data:
     - name: "melka"
       definition: "the great assembly of the janpodas at Sangema, for worship and business together"
       common: true
-    - name: "Retuja"
+    - name: "Ritrija"
       definition: "the priestly station, which bears arms for the temple and never for pay"
       common: true
     - name: "sabhra"
       definition: "the assembly of a janpoda, meeting in its temple hall"
       common: true
     - {name: "Samonta", definition: "a lord who holds land and a fort of a king", common: true}
-    - name: "Senaja"
+    - name: "Sentija"
       definition: "the warrior station, which bears arms by right and owes service in the host"
       common: true
     - {name: "tomra", definition: "the copper coin every court strikes", common: true}
@@ -54,7 +54,7 @@ data:
 
 The Vedyari are one people across a map that has never been one state. A scholar from a southern harbor who lands at a northern pass-kingdom finds the temple, the assembly, the stations and the classical curriculum all intelligible on the first day, and the coinage and the king strange. What holds across [[place-vedyarargn|Vedyara]] is the station a person is born to, the household that station sits in, and the rites that mark both. What varies is who collects the tax.
 
-A **Retuja** who keeps the school at a janpoda temple, asked by a foreign student where to begin, begins at the wrist. "Before you learn our gods or our grammar, learn where to look when someone gives you their hand. Everyone you meet here has already read yours, and found nothing there, and decided what that means."
+A **Ritrija** who keeps the school at a janpoda temple, asked by a foreign student where to begin, begins at the wrist. "Before you learn our gods or our grammar, learn where to look when someone gives you their hand. Everyone you meet here has already read yours, and found nothing there, and decided what that means."
 
 ## The Wrist-Line
 
@@ -75,20 +75,20 @@ The order runs from outside it upward, and every station is a station a person c
 | Outcaste                                           | not in orthodox country, and is killed for it; freely in the pass-kingdoms, on a deck, and above the last Pass-Shrine | no                                             | none of the three              | no                            | anywhere nobody asks                                 |
 | **Bonded Servant**                                 | as the household's man, carrying its token                                                                            | no                                             | the household's, never his own | no                            | only with the bond-token; without it he is a runaway |
 | **Karmija**                                        | as a levy, or by an academy's grant                                                                                   | use-rights in a janpoda, never in his own name | all three                      | when his village's turn comes | on his sabhra's leave, or his master's               |
-| **Danaja**                                         | by right, and is answered as a gentleman                                                                              | yes                                            | all three                      | yes                           | freely, on a Collective letter                       |
-| **Senaja**                                         | by right, and owes service in the host                                                                                | yes                                            | all three                      | yes, on war                   | freely                                               |
-| Retuja                                             | for the temple, never for pay                                                                                         | through the temple                             | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
+| **Danhija**                                        | by right, and is answered as a gentleman                                                                              | yes                                            | all three                      | yes                           | freely, on a Collective letter                       |
+| **Sentija**                                        | by right, and owes service in the host                                                                                | yes                                            | all three                      | yes, on war                   | freely                                               |
+| Ritrija                                            | for the temple, never for pay                                                                                         | through the temple                             | all three, and holds the court | convenes it                   | on a sanctioned ordeal, or as an ascetic             |
 | **Samonta**, **Kulena**, **Sabhasadaka** and above | yes                                                                                                                   | yes                                            | all three                      | yes                           | by leave of court, council or sabhra                 |
 
-A Retuja who takes pay for arms is **Patuta**—fallen—and the ordination ends with the payment. It is the sharpest of the station rules, and the first one a temple school teaches.
+A Ritrija who takes pay for arms is **Patuta**—fallen—and the ordination ends with the payment. It is the sharpest of the station rules, and the first one a temple school teaches.
 
 ## Leaving a Station, Losing It, Hiding It
 
 A station is not chosen and is rarely changed, and the ways out of one are few enough to name.
 
-**It is lost.** A court or a sabhra puts a Karmija or a Danaja out of the order for a judgment it names. A Senaja loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Retuja loses his to Patuta, which brands the face, a mark every temple and house recognizes. It is read at every temple gate, and a forgiven Patuta carries proof of the forgiveness for the rest of his life.
+**It is lost.** A court or a sabhra puts a Karmija or a Danhija out of the order for a judgment it names. A Sentija loses his by refusing the host's call or by one of the dishonors the military manuals set out at length. A Ritrija loses his to Patuta, which brands the face, a mark every temple and house recognizes. It is read at every temple gate, and a forgiven Patuta carries proof of the forgiveness for the rest of his life.
 
-**It is left.** A Retuja walks out as an ascetic, and loses the office and not the tarona; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
+**It is left.** A Ritrija walks out as an ascetic, and loses the office and not the tarona; he is received with reverence wherever he goes and kept by the devout. Nobody else has this door.
 
 **It is bought out.** A Bonded Servant's debt is paid—at the great pilgrim assembly, where the bond-holders come to be paid, or by a letter of credit from [[affiliation-mrchntclctvvdyr|the Merchant Collective]]. A runaway who reaches the sea or the pass-kingdoms is not returned, and both know it.
 
@@ -98,7 +98,7 @@ A station is not chosen and is rarely changed, and the ways out of one are few e
 
 The Vedyari answer to what is good is _dorma_, duty, and the answer is specific to the person asked. **Good is the work of one's station done whole and in the open; evil is the petition left unheard and the dead left unburned.** Both are the sins of a king, and the chronicle of [[place-rajepur|Rajepur]] names both against the second of its last six: he stopped hearing petitions, and then forbade the pyre for the men who came to be heard. A well-keeper adds a third from the plateau: the crown that takes its share of a well and does not guarantee the lineage against a raid has broken the whole bargain, whatever it kept.
 
-Success is a station filled out, not a station escaped. A Karmija who is the man the village sends when the river is up has succeeded, and so has a Danaja whose ledger a sabhra will accept without an audit. The marks run in a recognizable order: a household that holds its use-right unbroken, a seat in the sabhra when the village's turn comes, a name the temple writes in its roll, sons and daughters married within the kulpa with the elders of both houses content, and a pyre lit within the day by people who know whose it is. Failure is the wrap that has to be worn, the debt that ends in a bond-token, the judgment that puts a person out of the order, or a death that leaves nobody who will tend the lamp. Poverty is not on the list. A poor household that keeps its station and its dead is a household in good standing.
+Success is a station filled out, not a station escaped. A Karmija who is the man the village sends when the river is up has succeeded, and so has a Danhija whose ledger a sabhra will accept without an audit. The marks run in a recognizable order: a household that holds its use-right unbroken, a seat in the sabhra when the village's turn comes, a name the temple writes in its roll, sons and daughters married within the kulpa with the elders of both houses content, and a pyre lit within the day by people who know whose it is. Failure is the wrap that has to be worn, the debt that ends in a bond-token, the judgment that puts a person out of the order, or a death that leaves nobody who will tend the lamp. Poverty is not on the list. A poor household that keeps its station and its dead is a household in good standing.
 
 A Vedyari values the duty done without being asked to do it, the guest fed before the question, the record kept whole, the craft practiced to the classical standard and the bargain a temple can see. A Vedyari values least the claim that rests on nothing a sabhra can read: a king's word with no guarantee behind it, a priest's fee taken for arms, a station asserted by a mark nobody will show. It gives its highest regard to the plain work of the station of labor when the work is a ferry rope and a flood.
 
@@ -110,11 +110,11 @@ The household is the people who eat at one hearth, the _kobala_, and the kulpa r
 
 Marriage is within the kulpa, arranged between households and settled by the elders of both. The bride's household shows the wrist-line and the groom's household shows the ledger. A marriage across tarona is not impossible and is not survivable in a village; the cities make room for it, and the children carry the lower of the two marks.
 
-A life climbs a ladder that the temple marks with the conch. The black conch sounds at a birth, at coming of age and at the last breath, and the household's own rungs sit between. An infant is named at eight days. A child hears [[lore-measuringcord|the Measuring Cord]] on the first morning of a year, before the letters and before the count. The young are taught a trade or a classical curriculum by a master, or a bow at [[place-danurkot|Danurkot]], where the academy's first lesson is that the station of the man beside you changes nothing inside the walls. A young adult is married within the kulpa and takes a place in the household's work. An adult sits in the sabhra when the village's turn comes, and holds a use-right in the janpoda's land. The old are _stovira_, elders, whose standing in the kulpa grows as their strength fails, and a Retuja may walk out as an ascetic. The dying are the household's, with the lamp, and then the [[lore-kalavratadty|Kalavrata]]'s.
+A life climbs a ladder that the temple marks with the conch. The black conch sounds at a birth, at coming of age and at the last breath, and the household's own rungs sit between. An infant is named at eight days. A child hears [[lore-measuringcord|the Measuring Cord]] on the first morning of a year, before the letters and before the count. The young are taught a trade or a classical curriculum by a master, or a bow at [[place-danurkot|Danurkot]], where the academy's first lesson is that the station of the man beside you changes nothing inside the walls. A young adult is married within the kulpa and takes a place in the household's work. An adult sits in the sabhra when the village's turn comes, and holds a use-right in the janpoda's land. The old are _stovira_, elders, whose standing in the kulpa grows as their strength fails, and a Ritrija may walk out as an ascetic. The dying are the household's, with the lamp, and then the [[lore-kalavratadty|Kalavrata]]'s.
 
 ## Two Names
 
-The same Retuja teaches names next, and as a warning. "You will learn two names for everyone here, and you will be given the second one late, if at all. The formal name—the given name and the clan, [[being-pdmvldnrkrt|Padmavali Danurkirti]] in full—is what the temple writes in its rolls and what a court reads out, and it is what you say to anyone you have not been asked to call otherwise. The short one is the _calling name_, cut from the given name, and it belongs to kin and friends: her mother calls her Padmi. It is offered, never taken. Use a calling name nobody gave you and you have claimed a closeness you were not granted, and that is a presumption the household will remember." The rule a calling name is cut by stands in the [[skill-vedyarlng#lexicon|Vedyari Lexicon]].
+The same Ritrija teaches names next, and as a warning. "You will learn two names for everyone here, and you will be given the second one late, if at all. The formal name—the given name and the clan, [[being-pdmvldnrkrt|Padmavali Danurkirti]] in full—is what the temple writes in its rolls and what a court reads out, and it is what you say to anyone you have not been asked to call otherwise. The short one is the _calling name_, cut from the given name, and it belongs to kin and friends: her mother calls her Padmi. It is offered, never taken. Use a calling name nobody gave you and you have claimed a closeness you were not granted, and that is a presumption the household will remember." The rule a calling name is cut by stands in the [[skill-vedyarlng#lexicon|Vedyari Lexicon]].
 
 ## Water, Food and the Touched Thing
 
@@ -176,7 +176,7 @@ The pyre follows within the day. Between the conch and the pyre there is a gap, 
 
 ## What the Next Life Asks of Today
 
-Vedyari teaching holds that a birth follows from a life already lived, and that the duties of a station are the road out of it, not in this life but in the next. That teaching reaches an ordinary day at several points. A Vedyari does the station's work properly, because doing it badly is worse than doing it unwillingly and the next life is made of it. The household's lamp, the conch above the doorpost and the Coin of Passage are kept ready, so a death is met without scrambling. A Karmija pays the temple's share in labor and a Danaja in coin.
+Vedyari teaching holds that a birth follows from a life already lived, and that the duties of a station are the road out of it, not in this life but in the next. That teaching reaches an ordinary day at several points. A Vedyari does the station's work properly, because doing it badly is worse than doing it unwillingly and the next life is made of it. The household's lamp, the conch above the doorpost and the Coin of Passage are kept ready, so a death is met without scrambling. A Karmija pays the temple's share in labor and a Danhija in coin.
 
 The same teaching shapes law and burial. Where a household's succession turns on what a dead person meant, a sealed will stands over any answer the Threshold-keepers bring back, and the answer weighs only against the documents. Burial is the pyre, within the day, and a household that cannot afford a struck coin files a tomra blank. The dread that corresponds to all of it is the field where the pyre was never lit.
 
@@ -194,9 +194,9 @@ A guest is fed before he is questioned. A household that turns a traveler away a
 
 ## What Station Earns and What Breaking It Costs
 
-Reward is a station kept, widened by the household's standing. The Karmija who is trusted with the village's turn in the sabhra; the Danaja whose tithe the temple counts as sound; the Senaja who answers the host's call and is answered as a gentleman; the Retuja who holds the temple's court and bears arms for it and never for pay. In the janpodas the temple's roll holds the household's name, and the sabhra's trust follows that record. In the passes a Maharava's court gives its Samonta land and a fort.
+Reward is a station kept, widened by the household's standing. The Karmija who is trusted with the village's turn in the sabhra; the Danhija whose tithe the temple counts as sound; the Sentija who answers the host's call and is answered as a gentleman; the Ritrija who holds the temple's court and bears arms for it and never for pay. In the janpodas the temple's roll holds the household's name, and the sabhra's trust follows that record. In the passes a Maharava's court gives its Samonta land and a fort.
 
-The penalties climb the same ladder downward. A janpoda that ignores the Melka's consensus meets its peers' disapproval and the slow withdrawal of cooperation, which can end its water arrangements and its trade, and one judged to have behaved shamefully is denounced in public at the Melka. A person is dealt with by a court or a sabhra, which puts a Karmija or a Danaja out of the order for a judgment it names. A Senaja loses his station by refusing the host's call. A Retuja who takes pay for arms is Patuta, put out of the order for good and branded on the face, and the brand is read at every temple gate. Below the order's floor is the Outcaste's stroke across the wrist, a mark a person can be born under.
+The penalties climb the same ladder downward. A janpoda that ignores the Melka's consensus meets its peers' disapproval and the slow withdrawal of cooperation, which can end its water arrangements and its trade, and one judged to have behaved shamefully is denounced in public at the Melka. A person is dealt with by a court or a sabhra, which puts a Karmija or a Danhija out of the order for a judgment it names. A Sentija loses his station by refusing the host's call. A Ritrija who takes pay for arms is Patuta, put out of the order for good and branded on the face, and the brand is read at every temple gate. Below the order's floor is the Outcaste's stroke across the wrist, a mark a person can be born under.
 
 ## Hall and Temple, King and Sabhra
 
@@ -222,7 +222,7 @@ The limit is the wrist. The Bonded Servant is kept by the household while the bo
 
 ## Those Who Cannot Work
 
-A person who is injured or too frail to work stays in the household that holds the use-right, and the household feeds him from its own portion; the station is the household's to keep, and the household does not lose it because one member cannot work it. The old are _stovira_, elders, and the lineage-elders of a janpoda sit in its sabhra. When the harvest fails, the common store carries every household: the quarter-share in Suvargeri, the millet from the dry western terraces, the endowment at Rajepur. A household in a lean year pays its share in what it has, labor from the Karmija and coin from the Danaja.
+A person who is injured or too frail to work stays in the household that holds the use-right, and the household feeds him from its own portion; the station is the household's to keep, and the household does not lose it because one member cannot work it. The old are _stovira_, elders, and the lineage-elders of a janpoda sit in its sabhra. When the harvest fails, the common store carries every household: the quarter-share in Suvargeri, the millet from the dry western terraces, the endowment at Rajepur. A household in a lean year pays its share in what it has, labor from the Karmija and coin from the Danhija.
 
 ## Shelter, Teaching and Defense
 
@@ -230,7 +230,7 @@ Shelter is the household's and the temple's. A guest is fed before he is questio
 
 Teaching is the temple's. The temple is the school, the schools of the [[affiliation-vyalendravada|Vyalendravada]] are tied to the great academies and the building trades, and the academies of Danurkot train archers for every kingdom. A merchant's clerk learns the running hand and no classical, and is not called educated.
 
-Defense is the janpoda's own militia, raised from its villages at need, with Senaja households as its core and Karmija households for the numbers. A janpoda that cannot answer a serious threat seeks a patron, a city-state or a regional kingdom, and sends grain, labor and sometimes auxiliary troops in exchange for the protection of its standing forces. The confederation has raised an army three times; the last time it put an invader back out through the door he came in by and then dissolved, leaving a garrison at [[place-sangrafort|the Sangra-fort]] manned by rotation.
+Defense is the janpoda's own militia, raised from its villages at need, with Sentija households as its core and Karmija households for the numbers. A janpoda that cannot answer a serious threat seeks a patron, a city-state or a regional kingdom, and sends grain, labor and sometimes auxiliary troops in exchange for the protection of its standing forces. The confederation has raised an army three times; the last time it put an invader back out through the door he came in by and then dissolved, leaving a garrison at [[place-sangrafort|the Sangra-fort]] manned by rotation.
 
 ## What the Order Does Not See
 

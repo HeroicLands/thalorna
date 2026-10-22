@@ -37,7 +37,7 @@ The river villages say that something is wrong at the Landing. They say it quiet
 
 Between the sounding of the conch and the lighting of the pyre there is a gap, and the Vedyari know it. It is the space in which the way a soul has just gone is still open behind it. [[affiliation-thresholdkeepers|Threshold-keepers]] work in that gap by warrant. At Dahanaghat, someone else does.
 
-A fallen Retuja, [Dakunata]{.name data-type="being/npc"}, uses the gap. He has learned that a body not burned within the day, with its coin withheld and the conch held back, stays in the gap, and that what stays can be asked a good deal more than one question. He pays Kholu to set certain bodies aside, and Kholu, who is in debt to a lender with no name, does. The bodies gho down a stair under the cenotaph beyond the gallery, where a cell of the [Chinnasutra]{.name data-type="affiliation/criminal"}, the craft-lines [[affiliation-adanshreni|the Adanshreni]] cut away, keeps its takings. Its sentries are the unburned dead.
+A fallen Ritrija, [Dakunata]{.name data-type="being/npc"}, uses the gap. He has learned that a body not burned within the day, with its coin withheld and the conch held back, stays in the gap, and that what stays can be asked a good deal more than one question. He pays Kholu to set certain bodies aside, and Kholu, who is in debt to a lender with no name, does. The bodies gho down a stair under the cenotaph beyond the gallery, where a cell of the [Chinnasutra]{.name data-type="affiliation/criminal"}, the craft-lines [[affiliation-adanshreni|the Adanshreni]] cut away, keeps its takings. Its sentries are the unburned dead.
 
 The gap, left open too often in one place, stops closing. The ground at the Landing is becoming a [[lore-bloodfield|_shorukshetra_]]. [[lore-theshadow|The Shadow]] has found a place where the way behind the souls is wide.
 
@@ -54,7 +54,7 @@ A road runs upriver from Naughat along the north bank, a mile of packed earth be
 
 ## Hooks
 
-- **The light urn.** A Danaja household buried an urn that rattled. The widow has been told to say nothing, and wants someone to ask the ash.
+- **The light urn.** A Danhija household buried an urn that rattled. The widow has been told to say nothing, and wants someone to ask the ash.
 - **The cell.** The Sabhra of the shrena wants a Chinnasutra cell removed and cannot be seen to, and the cell has chosen the one place nobody searches.
 - **The ember.** A Jvelita has been asked to purge the Landing and arrives to find the pyre-keeper's family watching him from the gallery.
 

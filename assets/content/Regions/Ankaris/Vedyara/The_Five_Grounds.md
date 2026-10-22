@@ -53,7 +53,7 @@ This night it was the sheds on the pans.
 
 The son spoke, with his hand on a horse's neck,
 in the shape a son speaks before the household:
-"We are Senaja. We have a hundred horse.
+"We are Sentija. We have a hundred horse.
 The king took his banners up the road,
 and we are in a boat."
 

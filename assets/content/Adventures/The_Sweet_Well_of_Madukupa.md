@@ -31,14 +31,14 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 **Situation.** The track climbs to a gatehouse of white stone as the sun sets. The gate is open. A servant stands in it with a cup and a jar, and behind him the courtyard is lit and full of the smell of food. Everyone who comes in at this hour is a guest, and a guest is fed before he is questioned.
 
-**NPCs and threats.** The **gate-ward** is [Kavrapal]{.name data-type="being/npc"}, a stout Senaja who served in the Maharava's host and now keeps the gate of the Samonta's household. He is kind and bluff and has the habit of drinking from the jar himself, before and after every guest. The cup he offers is the first threat. The sweet water is cold and deeply restful, and a few swallows start the long dream. Kavrapal is not wicked; he has seen the sleepers walk, and he has talked himself into believing it is a rite. Behind him, [Nili]{.name data-type="being/npc"}, a bonded cup-bearer no older than fifteen, stands with her wrist wrapped in cloth and her bond-token on a cord. She does not meet any guest's eye.
+**NPCs and threats.** The **gate-ward** is [Kavrapal]{.name data-type="being/npc"}, a stout Sentija who served in the Maharava's host and now keeps the gate of the Samonta's household. He is kind and bluff and has the habit of drinking from the jar himself, before and after every guest. The cup he offers is the first threat. The sweet water is cold and deeply restful, and a few swallows start the long dream. Kavrapal is not wicked; he has seen the sleepers walk, and he has talked himself into believing it is a rite. Behind him, [Nili]{.name data-type="being/npc"}, a bonded cup-bearer no older than fifteen, stands with her wrist wrapped in cloth and her bond-token on a cord. She does not meet any guest's eye.
 
 **Player choices.**
 
 - _Drink._ A single swallow gives the dream a hold. A bowl gives it the night.
 - _Pour a libation._ Spilling the first of the cup to the ground, with a word to the pass-gods, is a courtesy as old as the road. Kavrapal accepts it, a little puzzled.
 - _Bring their own._ A guest with their own skin may drink from it. It is no insult, and the household remembers it.
-- _Claim a station._ A Retuja, an ascetic or a bearer of a letter from [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] may be taken in without the cup. The household bows.
+- _Claim a station._ A Ritrija, an ascetic or a bearer of a letter from [[affiliation-mrchntclctvvdyr|the Merchant Collective of Vedyara]] may be taken in without the cup. The household bows.
 - _Climb the wall._ The curtain is plain stone. A stealthy party enters over the north angle, and sleeps in the horse-lines.
 
 **Clues and rewards.** Every servant wears a token stamped with a ring and a line, the well and its stair. None of them wears gray hair. Nili's cord is knotted, and the knot is a count of dry seasons.

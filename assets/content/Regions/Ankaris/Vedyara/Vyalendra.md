@@ -27,15 +27,15 @@ data:
         description: >-
           Born to the serving tarona—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—merchants, dyers and cloth-factors, whose houses carry the city's trade and pay for its walls.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and owing service in the city watch.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no act of the Loom-Council is complete.
       - level: 6
@@ -96,7 +96,7 @@ The **Koshadyoksha** answers for the city treasury: the cloth-tax, the warehouse
 
 ## The Watch
 
-The **Commander of the Watch** is a graduate of the [[affiliation-dnrktjnpd|Danurkot academies]] and never a Vyalendri, by a custom nobody remembers the beginning of. The Council values him for having no kin in the city to favor. Because the academies take students of any station, the man who holds the gates and the treasury is as often born to the serving station as not, and **Senaja** of the loom households, born to arms, refuse him the salute. The Council has twice been asked to end the custom and has twice declined.
+The **Commander of the Watch** is a graduate of the [[affiliation-dnrktjnpd|Danurkot academies]] and never a Vyalendri, by a custom nobody remembers the beginning of. The Council values him for having no kin in the city to favor. Because the academies take students of any station, the man who holds the gates and the treasury is as often born to the serving station as not, and **Sentija** of the loom households, born to arms, refuse him the salute. The Council has twice been asked to end the custom and has twice declined.
 
 ## The Port and the Fleet
 

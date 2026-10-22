@@ -43,7 +43,7 @@ data:
     - form: "-ija"
       gloss: "one born to it: the names of the four stations"
       attaches: "replaces a closing vowel"
-      replaces: "u"
+      replaces: vowel
       examples: ["karmu > karmija"]
     - form: "-oka"
       gloss: "one who does it"
@@ -683,18 +683,21 @@ data:
       field: "Station, rank and office"
       gloss: "a Karmija, one born to labor"
       built: [karmu, "-ija"]
-    - form: danaja
+    - form: danhija
       class: "n"
       field: "Station, rank and office"
-      gloss: "a Danaja, one born to wealth"
-    - form: senaja
+      gloss: "a Danhija, one born to wealth"
+      built: [danha, "-ija"]
+    - form: sentija
       class: "n"
       field: "Station, rank and office"
-      gloss: "a Senaja, one born to the host"
-    - form: retuja
+      gloss: "a Sentija, one born to the host"
+      built: [senta, "-ija"]
+    - form: ritrija
       class: "n"
       field: "Station, rank and office"
-      gloss: "a Retuja, one born to the rites"
+      gloss: "a Ritrija, one born to the rites"
+      built: [ritru, "-ija"]
     - {form: rajva, class: "n", field: "Station, rank and office", gloss: "a king"}
     - {form: rojni, class: "n", field: "Station, rank and office", gloss: "a queen"}
     - {form: mahva, class: adj, field: "Station, rank and office", gloss: "great"}
@@ -1824,9 +1827,9 @@ data:
     - {name: Bihra, tongue: vedyari, built: [bihra]}
     - {name: Bonded Servant, tongue: translation}
     - {name: Karmija, tongue: vedyari, built: [karmija]}
-    - {name: Danaja, tongue: vedyari, built: [danaja]}
-    - {name: Senaja, tongue: vedyari, built: [senaja]}
-    - {name: Retuja, tongue: vedyari, built: [retuja]}
+    - {name: Danhija, tongue: vedyari, built: [danhija]}
+    - {name: Sentija, tongue: vedyari, built: [sentija]}
+    - {name: Ritrija, tongue: vedyari, built: [ritrija]}
     - {name: Shetrapalda, tongue: vedyari, built: [shetrapalda]}
     - {name: Devapavi, tongue: vedyari, built: [devapavi]}
     - {name: Vanapalda, tongue: vedyari, built: [vanapalda]}
@@ -2195,6 +2198,12 @@ data:
     - {name: Darmeja Daranir, tongue: vedyari}
     - {name: Captain Darmeja, tongue: translation}
   retired:
+    - {form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija}
+    - {form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija}
+    - {form: Retuja, instead: Ritrija, why: the station name is the stem ritru with -ija}
+    - {form: Danhija, instead: Danhija, why: the station name is the stem danha with -ija}
+    - {form: Sentija, instead: Sentija, why: the station name is the stem senta with -ija}
+    - {form: Ritrija, instead: Ritrija, why: the station name is the stem ritru with -ija}
     - {form: Vindhyālaya, instead: Shikhalaya, why: "the Vindhya, a mountain range of Earth"}
     - {form: Vindhyan, instead: Shikhalayan, why: "the Vindhya, a mountain range of Earth"}
     - {form: Vindhya, why: a mountain range of Earth}
@@ -2255,7 +2264,7 @@ sohl:
     initSkillMult: 0
   flags: {"thalorna": {lang_family: Vedyari (isolate)}}
 
-# terran_analog: Vedyari reads Indian. Its words and names take the sound of Sanskrit and Hindi and keep clear of the whole words, and the joining rules are Sanskrit vowel sandhi; the corpus relies on that resemblance for common nouns, titles and offices. It keeps clear of the Sanskrit names for the four stations (Karmija, Danaja, Senaja, Retuja), for the word for station (tarona), and for the gods, whose names are coined. The coined roots in this lexicon (every row attested `—`) are made to the rules and are not the Sanskrit, Hindi or Tamil word for their meaning.
+# terran_analog: Vedyari reads Indian. Its words and names take the sound of Sanskrit and Hindi and keep clear of the whole words, and the joining rules are Sanskrit vowel sandhi; the corpus relies on that resemblance for common nouns, titles and offices. It keeps clear of the Sanskrit names for the four stations (Karmija, Danhija, Sentija, Ritrija), for the word for station (tarona), and for the gods, whose names are coined. The coined roots in this lexicon (every row attested `—`) are made to the rules and are not the Sanskrit, Hindi or Tamil word for their meaning.
 ---
 
 Vedyari is a tongue of the Vedyari (isolate) family. Fluency measures the sophistication of expression in Vedyari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.

@@ -28,15 +28,15 @@ data:
         description: >-
           Born to the serving tarona—fellers, raftsmen, porters and the estate's own cultivators on the cleared ground around its temple.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—the licensed buyers and carriers who take the estate's resin, lac and spice down to the coast and answer for its price.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and serving in the small bodies the estates keep against theft of standing timber.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no felling season opens and no boundary is moved.
       - level: 6

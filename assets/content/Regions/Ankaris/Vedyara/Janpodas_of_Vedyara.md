@@ -31,15 +31,15 @@ data:
         description: >-
           Born to the serving tarona—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and owing service in the militia the sabhra raises from the villages.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no act of the sabhra is complete.
       - level: 6
@@ -119,7 +119,7 @@ A city-state often keeps informal patron-client relations with a number of nearb
 
 ## Defense
 
-The Janpodas of Vedyara keep no central army. Each janpoda raises its own militia from its villages at need, the **Senaja** households providing a core of trained fighters and the **Karmija** households the numbers. Most janpodas field a few hundred men on short notice and a few thousand on a longer call-up. That is enough for banditry, for a raid out of a neighboring kingdom in dispute, and for keeping order at home. It is not enough for a campaign or a major invasion.
+The Janpodas of Vedyara keep no central army. Each janpoda raises its own militia from its villages at need, the **Sentija** households providing a core of trained fighters and the **Karmija** households the numbers. Most janpodas field a few hundred men on short notice and a few thousand on a longer call-up. That is enough for banditry, for a raid out of a neighboring kingdom in dispute, and for keeping order at home. It is not enough for a campaign or a major invasion.
 
 The answer to a serious threat is the patron-client relationship with a nearby city-state, or inland with a regional kingdom. The janpoda sends grain, labor and sometimes auxiliary troops; the patron sends the protection of its standing forces.
 

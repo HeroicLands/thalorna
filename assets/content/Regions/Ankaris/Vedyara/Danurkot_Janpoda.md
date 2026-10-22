@@ -3,7 +3,7 @@ shortcode: dnrktjnpd
 name: {full: Danurkot Janpoda, aliases: [The Janpoda of the Bow-Fort]}
 type: affiliation
 subType: polity
-description: The temple-republic of Danurkot—the villages of the upper Sarveda valley federated around the ancient bow-fort and its great temple of Mahajaya, governed by a sabhra with an unusually strong Senaja presence and famed across Vedyara for its archery academies.
+description: The temple-republic of Danurkot—the villages of the upper Sarveda valley federated around the ancient bow-fort and its great temple of Mahajaya, governed by a sabhra with an unusually strong Sentija presence and famed across Vedyara for its archery academies.
 tags: []
 data:
   templatePriority: null
@@ -28,15 +28,15 @@ data:
         description: >-
           Born to the serving tarona—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and owing service in the militia the sabhra raises from the villages.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no act of the sabhra is complete.
       - level: 6
@@ -78,7 +78,7 @@ The **Danurkot Janpoda** trains the archers of every kingdom in [[place-vedyarar
 
 By any measure but one, Danurkot is ordinary. It is one of perhaps eighty janpodas of the upper Sarveda, in a **Sarveda circuit** of more than a thousand, which is the reckoning that matters at the [Mahva-Melka]{.name data-type="lore/gathering"}, where a janpoda is counted with the others that drink the same river and not with the whole of the [[affiliation-janpdsvdyr|Mahva-Sangra]]. It is neither large nor wealthy by Vedyari standards. What it has, and what it is known for across the region, is the **Bow**: four ancient archery academies whose graduates have staffed the elite missile companies of every major Vedyari kingdom for fifteen centuries.
 
-At the [Festival of the Drawn Bow]{.name data-type="lore/gathering"} each spring, an instructor of the [[place-highdraw|High Draw]] lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a **Senaja**'s son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
+At the [Festival of the Drawn Bow]{.name data-type="lore/gathering"} each spring, an instructor of the [[place-highdraw|High Draw]] lines up the year's new students in the temple court and gives them the first lesson before anyone touches a stave. "Look at the man beside you. He may be a **Sentija**'s son and he may be a cultivator's, and inside these walls it changes nothing about how either of you is taught. Outside them, the people who hire you will care a great deal. Learn to shoot first. The rest you will learn on the road."
 
 ## The Four Academies
 
@@ -99,11 +99,11 @@ The sabhra has forty-two members, convened by the senior priest of the Mahajaya 
 
 ## Society
 
-Danurkot keeps the ordinary Vedyari order of stations, with the Senaja households, who bear arms by right and owe service in the host, unusually numerous and unusually wealthy for a janpoda. About one Danurkot in eight is Senaja, against perhaps one in twenty in an ordinary janpoda. Their money comes from three places: the fees aspiring archers bring from across Vedyara, the standing retainers paid by patron kingdoms whose officers come out of the academies, and the donations that men the academies trained make to the Mahajaya temple.
+Danurkot keeps the ordinary Vedyari order of stations, with the Sentija households, who bear arms by right and owe service in the host, unusually numerous and unusually wealthy for a janpoda. About one Danurkot in eight is Sentija, against perhaps one in twenty in an ordinary janpoda. Their money comes from three places: the fees aspiring archers bring from across Vedyara, the standing retainers paid by patron kingdoms whose officers come out of the academies, and the donations that men the academies trained make to the Mahajaya temple.
 
-The other stations stand in ordinary proportions. The **Danaja** households handle the considerable trade in arms, since Danurkot bows and arrows are sold across Vedyara, together with the provisioning, lodging and equipment-keeping the academies need. The **Retuja** households sit in and around the temple, and the senior priest convenes the sabhra. The villages supply the bow itself: bamboo staves from [[place-veniban|Veniban]], horn and sinew from [[place-vishanagram|Vishanagram]], reed shafts from [[place-shiraban|Shiraban]], wax for the bindings from [[place-madupada|Madupada]].
+The other stations stand in ordinary proportions. The **Danhija** households handle the considerable trade in arms, since Danurkot bows and arrows are sold across Vedyara, together with the provisioning, lodging and equipment-keeping the academies need. The **Ritrija** households sit in and around the temple, and the senior priest convenes the sabhra. The villages supply the bow itself: bamboo staves from [[place-veniban|Veniban]], horn and sinew from [[place-vishanagram|Vishanagram]], reed shafts from [[place-shiraban|Shiraban]], wax for the bindings from [[place-madupada|Madupada]].
 
-Danurkot allows more social mobility than most Vedyari polities. The academies accept students of any station, the lowest included, and within the janpoda a graduate takes certain Senaja prerogatives whatever his birth: the right to bear arms, the right to hold land in his own name, and the right to speak in the sabhra on military matters. Orthodox opinion finds the custom scandalous. The sabhra holds that the academies would not be what they are without it.
+Danurkot allows more social mobility than most Vedyari polities. The academies accept students of any station, the lowest included, and within the janpoda a graduate takes certain Sentija prerogatives whatever his birth: the right to bear arms, the right to hold land in his own name, and the right to speak in the sabhra on military matters. Orthodox opinion finds the custom scandalous. The sabhra holds that the academies would not be what they are without it.
 
 ## Religion
 
@@ -119,11 +119,11 @@ Shrines to the other Varnuka gods stand throughout the villages. [[place-vyalsrc
 
 ## Economy
 
-The janpoda is moderately wealthy by janpoda standards and not rich by a city-state's. Most of its wealth is held by the temple and the Senaja lineages, and the cultivating villages live as well as any in inland Vedyara and no better.
+The janpoda is moderately wealthy by janpoda standards and not rich by a city-state's. Most of its wealth is held by the temple and the Sentija lineages, and the cultivating villages live as well as any in inland Vedyara and no better.
 
 ## Defense
 
-Danurkot is defended far better than a janpoda of its size usually is. The four academies keep their own training-corps, which field eight hundred elite archers between them on short notice, and the villages can muster another two thousand fighting men of the Senaja households. The bow-fort stands on megalithic foundations that no siege technique short of sustained heavy magic will breach, and in extremity it shelters the whole janpoda.
+Danurkot is defended far better than a janpoda of its size usually is. The four academies keep their own training-corps, which field eight hundred elite archers between them on short notice, and the villages can muster another two thousand fighting men of the Sentija households. The bow-fort stands on megalithic foundations that no siege technique short of sustained heavy magic will breach, and in extremity it shelters the whole janpoda.
 
 Danurkot has not been seriously threatened in three centuries. Its reputation is its first defense, since no neighboring kingdom wants to learn what eight hundred elite archers cost on their own ground, and every Danurkot engagement in recent memory has been fought by academy graduates serving abroad in the wars of patron kingdoms. The last threat was [[lore-hghlndwar|the Highland War]], about 415, stopped at [[place-sharamukha|Sharamukha]].
 

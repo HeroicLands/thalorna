@@ -28,15 +28,15 @@ data:
         description: >-
           Born to the serving tarona—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and owing service in the militia the sabhra raises from the villages.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no act of the sabhra is complete.
       - level: 6
@@ -130,7 +130,7 @@ The [Weighing]{.name data-type="lore/custom"} is Suvargeri's own rite. At each n
 
 ## Defense
 
-The gold makes Suvargeri a better target than most janpodas, and it is defended more seriously than most. It keeps a permanent body of three hundred trained guards, drawn from its **Senaja** households and paid from the common share, and observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any likely raiding force until help arrives.
+The gold makes Suvargeri a better target than most janpodas, and it is defended more seriously than most. It keeps a permanent body of three hundred trained guards, drawn from its **Sentija** households and paid from the common share, and observation posts on the mountain's higher slopes. The three temples are fortified well enough to hold any likely raiding force until help arrives.
 
 The help is the more important defense. Two neighboring kingdoms stand as Suvargeri's formal patrons, and several nearby janpodas help it by informal arrangement. The small mountain realm of [[affiliation-bharyastan|the Kingdom of Bharyastan]] is bound by standing treaty to send military assistance in exchange for an annual gold tribute. Suvargeri has not lost gold to a raid in eight hundred years and has not been seriously attacked in three centuries. The last raid and the treaty that followed it are [[lore-lastgldrd|the Last Gold Raid]], and the last serious attack is [[lore-hghlndwar|the Highland War]].
 

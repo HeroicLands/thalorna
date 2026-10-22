@@ -28,15 +28,15 @@ data:
         description: >-
           Born to the serving tarona—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—merchants, herders and landholders, whose tithes in coin and goods sustain the temple and its granary.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: >-
           Born to the warrior tarona, bearing arms by right and owing service in the militia the sabhra raises from the villages.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no act of the sabhra is complete.
       - level: 6
@@ -139,7 +139,7 @@ By long custom the senior priest of the temple convenes the sabhra. [Karunamoya 
 
 Rajepur keeps the ordinary Vedyari order of stations with one Rajapuri specialty: an unusually large and influential body of **scholar families**, descended in part from the educated court functionaries of the old kingdom and absorbed into the new order at the dissolution. They live in and around the temple complex and staff the school, the library and the sabhra's secretariat, and Rajepur's share of Vedyari classical scholarship is out of all proportion to its size.
 
-The Danaja households handle the river trade up and down the Mahanodi, the considerable manuscript trade out of the temple library included. The Senaja households are few and over the centuries have largely merged into the artisan households. Rajepur has kept no military tradition since the dissolution and has needed none.
+The Danhija households handle the river trade up and down the Mahanodi, the considerable manuscript trade out of the temple library included. The Sentija households are few and over the centuries have largely merged into the artisan households. Rajepur has kept no military tradition since the dissolution and has needed none.
 
 ## Religion and the Day of the Dissolution
 

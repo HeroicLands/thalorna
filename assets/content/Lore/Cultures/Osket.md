@@ -215,4 +215,4 @@ The sin is the sale of the road. The Osket remember in detail the two occasions 
 
 The full dictionary is in the [[skill-osketlng#lexicon|Osket Language note]].
 
-Retuja, tarona, ushtaka and wrist-line are loanwords from [[lore-vedyariclt#glossary|Vedyara]].
+Ritrija, tarona, ushtaka and wrist-line are loanwords from [[lore-vedyariclt#glossary|Vedyara]].

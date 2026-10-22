@@ -3,7 +3,7 @@ shortcode: passshrineushtakas
 name: {full: The Pass-Shrine Ushtakas, aliases: [The Altitude Ushtakas]}
 type: affiliation
 subType: faithtradition
-description: "The hereditary line of Retuja ushtakas who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
+description: "The hereditary line of Ritrija ushtakas who keep the shrines at the summits of the crossing roads, and work the weather-rite and the road-rite at an altitude no lowland academy has ever tested them at."
 tags: [varnuka, arcane, mountain]
 data:
   banner: faithbnr
@@ -80,7 +80,7 @@ Seat
 Pantheon
 : [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 
-**The Pass-Shrine Ushtakas** are a hereditary line of **Retuja** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
+**The Pass-Shrine Ushtakas** are a hereditary line of **Ritrija** who keep the temples at the high points of the crossing roads. They are born to the work, they marry inside the line, their children are raised on the cols, and one of them who comes down to the plains at forty is an old man there.
 
 They are the only body in [[place-vedyarargn|Vedyara]] that works a Varnuka rite where a lowland priest cannot breathe, and that fact settles almost everything else about them.
 

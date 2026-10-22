@@ -40,7 +40,7 @@ The [[affiliation-vyalendravada|Vyalendravada]] keeps the mother-house of the [A
 
 ## The Watch
 
-The watch is two thousand men and is commanded by a graduate of the [[affiliation-dnrktjnpd|Danurkot academies]] who is never a Vyalendri. The custom is old and nobody remembers the beginning of it. It has a consequence the city lives with: a Danurkot commission is granted without regard to birth, so the man who holds the gates and the treasury is as often of the serving tarona as not, and he outranks **Senajas** of the loom households, born to arms, who will not salute him. The Council has twice been asked to end the custom and has twice declined, on the ground that a commander with no kin in the city is the point of him.
+The watch is two thousand men and is commanded by a graduate of the [[affiliation-dnrktjnpd|Danurkot academies]] who is never a Vyalendri. The custom is old and nobody remembers the beginning of it. It has a consequence the city lives with: a Danurkot commission is granted without regard to birth, so the man who holds the gates and the treasury is as often of the serving tarona as not, and he outranks **Sentijas** of the loom households, born to arms, who will not salute him. The Council has twice been asked to end the custom and has twice declined, on the ground that a commander with no kin in the city is the point of him.
 
 ## The Long Evening
 

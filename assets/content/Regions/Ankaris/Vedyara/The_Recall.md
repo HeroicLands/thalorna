@@ -177,9 +177,9 @@ What I owe him is paid to the new moon.
   I owe him the next moon nothing.
 
 The elder:
-The manuals say a Senaja who refuses the host's call
-  is not a Senaja.
-We stand as Senaja by the fort's own grant, you and I,
+The manuals say a Sentija who refuses the host's call
+  is not a Sentija.
+We stand as Sentija by the fort's own grant, you and I,
   reed-cutters' sons.
 The host is called. Gho down the road, and by the fort's own law
   you are a reed-cutter with a bow.

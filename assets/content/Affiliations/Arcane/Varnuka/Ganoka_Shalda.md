@@ -105,7 +105,7 @@ A single day is enough to move a [Weighing]{.name data-type="lore/custom"}, a co
 
 ### Who Is Admitted
 
-The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A **Karmija** who passes the boards is a Ganoka, and a court that will not seat a Karmija hires him through a **Danaja** merchant instead and pays both.
+The college examines in open hall and publishes the question with the answer. It takes a candidate on what he computes and not on his wrist-line, and it has held to that for long enough that the practice is no longer argued about—only worked around. A **Karmija** who passes the boards is a Ganoka, and a court that will not seat a Karmija hires him through a **Danhija** merchant instead and pays both.
 
 ### What It Will Not Do
 

@@ -21,7 +21,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 ## Hooks
 
 - **The thief.** A Stovira of [[affiliation-adanshreni|the Adanshreni]] needs a [Chinnasutra]{.name data-type="affiliation/criminal"} cell removed and cannot be seen near it. The cell takes from houses in mourning, which the shrena forbids, and hides its takings where nobody looks. The contract is generous and will not be honoured in writing.
-- **The mercenary or soldier.** A Danaja widow hires two reliable swords to stand beside her at her husband's pyre. She will not say why. Her husband's brother wants the household's keys, and a dying man's wishes are in dispute.
+- **The mercenary or soldier.** A Danhija widow hires two reliable swords to stand beside her at her husband's pyre. She will not say why. Her husband's brother wants the household's keys, and a dying man's wishes are in dispute.
 - **The leader.** The sabhra of a river village asks a chieftain to settle a quarrel with the pyre-keeper. The villagers' urns are light, and the keeper says the fire was thorough.
 - **The wanderer.** A Jvelita of the [[affiliation-agmipantra|Agmi-pantra]] has been sent for to purge the ground, and finds the keeper's family waiting on the gallery to see what he brings. He asks a traveler to watch the river with him.
 
@@ -97,7 +97,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 
 **Situation.** Beyond the cellar, a second stair descends to a round vault lined with white clay. On a bed in the center lies a dying man in gold-threaded cloth, and over him burns a single threshold lamp. The old man is not dead. He has not died, for days, and his lips move. Around him stand a dozen of the Waiting in a ring, facing outward, a coin in every hand.
 
-**NPCs and threats.** [Dakunata]{.name data-type="being/npc"}, the Lamp-Seller, is a Retuja fallen, with the brand of a Patuta on his face and a hood to hide it. He was a priest of the temple school, trained to the passage, and he has learned how to keep a soul at the threshold and ask it things. He is quiet, exact and intensely courteous. He addresses the dying man by the polite name of his station, and the dying man answers him. The old man is [Dhanapati Ratnapala]{.name data-type="being/npc"}, the head of a trading household of [[place-naughat|Naughat]], and the questions are of trade: where the money is, who is owed, what the cargoes were worth. [[affiliation-twilighths|The Twilight House]] has commissioned the answers. Its Factor, [Sandhyakirti]{.name data-type="being/npc"}, a courtesan in grey-green silk, sits at the foot of the bed with a slate, writing. Dakunata fights with the Waiting and with a word that stops the heart.
+**NPCs and threats.** [Dakunata]{.name data-type="being/npc"}, the Lamp-Seller, is a Ritrija fallen, with the brand of a Patuta on his face and a hood to hide it. He was a priest of the temple school, trained to the passage, and he has learned how to keep a soul at the threshold and ask it things. He is quiet, exact and intensely courteous. He addresses the dying man by the polite name of his station, and the dying man answers him. The old man is [Dhanapati Ratnapala]{.name data-type="being/npc"}, the head of a trading household of [[place-naughat|Naughat]], and the questions are of trade: where the money is, who is owed, what the cargoes were worth. [[affiliation-twilighths|The Twilight House]] has commissioned the answers. Its Factor, [Sandhyakirti]{.name data-type="being/npc"}, a courtesan in grey-green silk, sits at the foot of the bed with a slate, writing. Dakunata fights with the Waiting and with a word that stops the heart.
 
 **Player choices.**
 
@@ -128,7 +128,7 @@ At [[place-dahanaghat|Dahanaghat]] the urns come home too light and the dead sta
 - _Give it up._ The party leaves, and the Landing becomes a blood-field that spreads along the lower reaches of [[place-sarvedarivr|the Sarveda]].
 - _Take the register._ Dakunata's register and the Factor's slate are worth more to some people than the Landing.
 
-**Clues and rewards.** The cenotaph's store is returned to its families by the sabhra, and the shrena pays modestly, in chendra, for the removal of the cell. The grateful Danaja household of Ratnapala rewards the party with a letter of credit.
+**Clues and rewards.** The cenotaph's store is returned to its families by the sabhra, and the shrena pays modestly, in chendra, for the removal of the cell. The grateful Danhija household of Ratnapala rewards the party with a letter of credit.
 
 **Consequences.** What leaves the Landing in the party's packs is a register, a debt, a flame or a grudge, depending on what they did at the end.
 

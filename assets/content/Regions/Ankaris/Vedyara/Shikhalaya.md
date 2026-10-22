@@ -27,14 +27,14 @@ data:
         description: >-
           Born to the serving tarona—cultivators, artisans and laborers who hold their place by work rather than by rite.
       - level: 3
-        title: Danaja
+        title: Danhija
         description: >-
           Born to the productive tarona—merchants, herders and landholders, whose wealth sustains the court and its temples.
       - level: 4
-        title: Senaja
+        title: Sentija
         description: Born to the warrior tarona, bearing arms by right and owing service in the Maharava's host.
       - level: 5
-        title: Retuja
+        title: Ritrija
         description: >-
           Born to the priestly tarona, keeper of rite and learning, without whose sanction no royal act is complete.
       - level: 6
@@ -88,7 +88,7 @@ A clerk at the Suryagarha customs-house, writing out a pass-token for a caravan 
 
 ## Character
 
-Shikhalayan culture is austere by Vedyari standards. The kingdom sits at the edge of settled country, and the highland has made a people quieter, harder and more martial than their southern cousins. The **Senaja** households are unusually numerous and unusually respected. In the southern kingdoms the warrior nobility yields precedence to the **Retuja** in nearly every social setting; in Shikhalaya the two stations share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior ushtaka of the temples.
+Shikhalayan culture is austere by Vedyari standards. The kingdom sits at the edge of settled country, and the highland has made a people quieter, harder and more martial than their southern cousins. The **Sentija** households are unusually numerous and unusually respected. In the southern kingdoms the warrior nobility yields precedence to the **Ritrija** in nearly every social setting; in Shikhalaya the two stations share rank, and a clan-chieftain who has held a pass against a winter raid is received at court with the honor due a senior ushtaka of the temples.
 
 Hospitality is the first thing a traveler should know about. A traveler who reaches a Shikhalayan village before sundown is owed food, a fire and a safe night under the clan's roof-tree, and the obligation holds even between feuding clans. A family that turns a traveler away is still remembered for it three generations later.
 

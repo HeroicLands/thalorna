@@ -55,7 +55,7 @@ A track leaves the march road at the wells above [[place-ashvapada|Ashvapada]] a
 
 - **The cup.** A caravan-master hires guards for the two days that pass the fort, and tells them in confidence to drink only from their own skins.
 - **The bond-market.** A mother arrives at the fort looking for a son sold into its household three dry seasons ago. The Samonta says the boy left.
-- **The Samonta's request.** A messenger from the fort carries the Samonta's letter to a ranking Retuja of the Maharava's court, asking for a priest to assist with a purgation he does not describe.
+- **The Samonta's request.** A messenger from the fort carries the Samonta's letter to a ranking Ritrija of the Maharava's court, asking for a priest to assist with a purgation he does not describe.
 
 [[scenario-sweetwellmadu|A Cup Before Questions]] gives these as a five-scene adventure.
 
