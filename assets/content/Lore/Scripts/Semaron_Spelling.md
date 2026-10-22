@@ -39,6 +39,8 @@ data:
       - ["O", "󰈍"] # U+F020D
       - ["p", "󰈾"] # U+F023E
       - ["P", "󰈎"] # U+F020E
+      - ["q", "󰈹"] # U+F0239
+      - ["Q", "󰈉"] # U+F0209
       - ["r", "󰈿"] # U+F023F
       - ["R", "󰈏"] # U+F020F
       - ["s", "󰉀"] # U+F0240
@@ -163,5 +165,6 @@ Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **The catch** (`'`, `’`, a grave accent or a hyphen) is a mark set over the letter before it. With no letter before it, it prints the box.
 - **Every pause** (`.`, `,`, `;`, `:` and both dashes) is the one point.
 - **The numerals** 0 to 9 are the Semaron numerals.
+- **_q_ is the letter _k_.** The script has no _q_, so a foreign name keeps its roman spelling and is written with _k_: _Meqes_ is written as _Mekes_.
 
-_c_, _q_, _x_ and any other character the script lacks pass through unchanged, and the face prints the box for them.
+_c_, _x_ and any other character the script lacks pass through unchanged, and the face prints the box for them.

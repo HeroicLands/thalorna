@@ -481,6 +481,12 @@ every coinage**, so the workflow is propose, approve, apply.
    it belongs to, and use the word. Run `package-build lint` and
    `npm run lint:earth-words`.
 
+**Earth-checking a candidate before it is in a note.** `lint:earth-words` reads
+`data.words`, so a candidate is checked by a trial: in a scratch worktree
+(`.claude/worktrees/<name>`, after `npm ci`), add the candidate as an entry of
+the language note's `data.words`, run `npm run lint:earth-words`, and revert the
+note with `git checkout -- <note>` before anything is committed.
+
 A word that is only a new regular form of an existing word (a plural, a verb
 form, an affixed form whose affix states `replaces`, an agreeing form or a
 participle) is not a coinage and is not added: the word check recognises it.
@@ -571,6 +577,12 @@ register:
 
   > `` `Dunharra` is registered as `other:dunhari`, but the register of Dunhari Language (skill-dunharlng) lists no `dunhari` name `Dunharra`; correct the spelling, or register the name there first ``
 
+- **Which register a name is checked against depends on the run.** A bare name
+  in a `lang=vyl` run is checked against Vylari's register, so a Khelathi name
+  there needs the row `other:khelathi` in Vylari, and the same name in
+  Khelathi's register as `khelathi`. A name in a span of its own,
+  `[Meqes]{lang=khel}`, is checked against Khelathi's register alone, and
+  Vylari's needs no row for it.
 - **`translation`** rows are English renderings and never count as words of the
   tongue.
 - **Bare `other`, `kept`, `ancient` and `translation`** rows are not checked
@@ -666,6 +678,19 @@ The escape is shown here so the excerpt reads in any viewer.
   rows of its own, tried first.
 - **The code points come from the face's own `fonts.json`.** Every row's `to`
   must be drawn by every face listed.
+
+**A foreign letter a script lacks is written as its nearest letter,** with one
+row for the letter, upper and lower case. The name keeps its roman spelling in
+the note. Semaron has no _q_, so it carries `["q", …]` and `["Q", …]` with the
+code points of its _k_, and _Meqes_ is written ⟨Mekes⟩ in Semaron:
+
+```markdown
+[Meqes]{lang=khel font=semaron-kuriale map=semaron}
+```
+
+Each such row is the owner's to approve. A letter with no row passes through
+unchanged and the face coverage check reports it, so a script's missing letter
+is a finding until a row writes it.
 
 The "From the Spelling Guide to Semaron" section of the mapping note states in
 prose how each part of the spelling guide lands in the script (_ch_ is three
@@ -777,16 +802,18 @@ From `Skills/Scripts/Thuravark.md`, a span in running prose:
 
 A span inside a marked block or fence takes the passage's keys, and its own keys
 win. A Khelathi phrase inside a Vylari passage is checked against Khelathi's
-lexicon and tagged Khelathi, but still drawn through Semaron's rows:
+lexicon and register and tagged Khelathi, but still drawn through Semaron's
+rows. _Meqes_ is a name in Khelathi's register, so the span passes, and Semaron
+writes its _q_ as _k_ ([What a mapping row is](#82-what-a-mapping-row-is)):
 
 ```markdown
 ::: {lang=vyl font=semaron-kuriale map=semaron}
-Zaron lonak, [Gar-Anlagh]{lang=khel}, lokamen zaron.
+Voza olmathen thilandon, [Meqes]{lang=khel}, ul voza lorezathen.
 :::
 ```
 
 To draw it in Qalezu instead, the span states its own face and mapping:
-`[Gar-Anlagh]{lang=khel font=qalezu-hand map=qalezu}`. Qalezu runs right to
+`[Meqes]{lang=khel font=qalezu-hand map=qalezu}`. Qalezu runs right to
 left inside the left-to-right line with no `dir=` written. To set a gloss in
 the page's own font, `[an oath]{lang=en font=serif}` inside the passage drops
 both the face and the map by naming new ones.
@@ -871,23 +898,23 @@ the spelling.
 
 Each message below is a real finding from this repository's build.
 
-| Finding                                                                                                                                                                                          | Meaning                                                          | Fix                                                                                                                                       |
-| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ---------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
-| `` `kelvothar` is not a word of the `vyl` lexicon, a registered name, or a regular form of one; coin it in the lexicon (or register the name) first ``                                           | The word is in no lexicon, register or regular form.             | Coin it after approval, register the name, or correct the spelling.                                                                       |
-| `` `semaron-kurial` is not a font: `font=` names an installed face, or `mono`, `serif` or `sans`; did you mean `semaron-kuriale`? ``                                                             | The face does not exist.                                         | Write the face the message suggests.                                                                                                      |
-| `` `semron` is not a map: `map=` names the `data.map.name` of a mapping note; did you mean `semaron`? ``                                                                                         | The mapping does not exist.                                      | Write the name a mapping note declares.                                                                                                   |
-| `` `q` is not a declared language (`languages` in package-build.config.yaml) or a BCP 47 tag ``                                                                                                  | The language is neither declared nor a valid tag.                | Write a declared short name.                                                                                                              |
-| `` `vly` is read as a BCP 47 tag; did you mean the declared language `vyl`? `` (a warning)                                                                                                       | A near miss of a declared name, which is also a valid tag.       | Write the declared name.                                                                                                                  |
-| `` `?` (U+003F) is not drawn by the font `semaron-kuriale`, and the map `semaron` has no row for it ``                                                                                           | A mark the script does not have. Questions are carried by words. | Write the question in words, and leave the mark out.                                                                                      |
-| `` `x` (U+0078) is not drawn by the font `semaron-kuriale` ``                                                                                                                                    | Roman letters under `font=` with no `map=`.                      | Add `map=`, or type the face's own code points.                                                                                           |
-| `` `X` (U+0058) is not drawn by the font `semaron-kuriale`, and the map `semaron` has no row for it ``                                                                                           | A letter the script lacks (_c_, _q_, _x_).                       | Respell with the guide's letters, or remove it.                                                                                           |
-| `` `thuravark-carved` is not a font of the map `semaron`; it is for `semaron-kuriale` ``                                                                                                         | The face is not one the mapping lists.                           | Use a face the mapping lists. Further findings follow, one per mapped character, each naming the code point the other face does not draw. |
-| `` `vyl` marks emphasis with a word, not a mark; write the word ``                                                                                                                               | Stars in a run of a `words` language.                            | Remove the stars and write the word the language stresses with.                                                                           |
-| `` `Dunhara` is not a word of the `vyl` lexicon, a registered name, or a regular form of one; … ``                                                                                               | A foreign name not in this language's register.                  | Register it as `other:<tongue>` or `exonym:<tongue>`.                                                                                     |
-| `` `ch` maps to U+F0299 in the map `semaron`, which the font `semaron-kuriale` does not draw ``                                                                                                  | A row writes a code point the face lacks.                        | Correct the row's `to` from `fonts.json`.                                                                                                 |
-| `` `zaron` is written U+F0299 by the lexicon of `vyl` for the map `semaron`, which the font `semaron-kuriale` does not draw ``                                                                   | A native form holds a code point the face lacks.                 | Correct the word's `native` text.                                                                                                         |
-| `` `Orlan` is capitalised, and the native form … does not begin as the rows spell its first letter, so the rows cannot capitalise it; state `Orlan` as a word of its own with its native form `` | A capitalised exception the rows cannot capitalise.              | State the capitalised word as its own lexicon entry.                                                                                      |
-| `` `data.words[0].native[0]` states what the rows already give … ``                                                                                                                              | A redundant exception.                                           | Delete the `native` entry.                                                                                                                |
+| Finding                                                                                                                                                                                          | Meaning                                                              | Fix                                                                                                                                       |
+| ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | -------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------- |
+| `` `kelvothar` is not a word of the `vyl` lexicon, a registered name, or a regular form of one; coin it in the lexicon (or register the name) first ``                                           | The word is in no lexicon, register or regular form.                 | Coin it after approval, register the name, or correct the spelling.                                                                       |
+| `` `semaron-kurial` is not a font: `font=` names an installed face, or `mono`, `serif` or `sans`; did you mean `semaron-kuriale`? ``                                                             | The face does not exist.                                             | Write the face the message suggests.                                                                                                      |
+| `` `semron` is not a map: `map=` names the `data.map.name` of a mapping note; did you mean `semaron`? ``                                                                                         | The mapping does not exist.                                          | Write the name a mapping note declares.                                                                                                   |
+| `` `q` is not a declared language (`languages` in package-build.config.yaml) or a BCP 47 tag ``                                                                                                  | The language is neither declared nor a valid tag.                    | Write a declared short name.                                                                                                              |
+| `` `vly` is read as a BCP 47 tag; did you mean the declared language `vyl`? `` (a warning)                                                                                                       | A near miss of a declared name, which is also a valid tag.           | Write the declared name.                                                                                                                  |
+| `` `?` (U+003F) is not drawn by the font `semaron-kuriale`, and the map `semaron` has no row for it ``                                                                                           | A mark the script does not have. Questions are carried by words.     | Write the question in words, and leave the mark out.                                                                                      |
+| `` `x` (U+0078) is not drawn by the font `semaron-kuriale` ``                                                                                                                                    | Roman letters under `font=` with no `map=`.                          | Add `map=`, or type the face's own code points.                                                                                           |
+| `` `X` (U+0058) is not drawn by the font `semaron-kuriale`, and the map `semaron` has no row for it ``                                                                                           | A letter the script lacks and no row writes (_c_ outside _ch_, _x_). | Respell with the guide's letters, or remove it.                                                                                           |
+| `` `thuravark-carved` is not a font of the map `semaron`; it is for `semaron-kuriale` ``                                                                                                         | The face is not one the mapping lists.                               | Use a face the mapping lists. Further findings follow, one per mapped character, each naming the code point the other face does not draw. |
+| `` `vyl` marks emphasis with a word, not a mark; write the word ``                                                                                                                               | Stars in a run of a `words` language.                                | Remove the stars and write the word the language stresses with.                                                                           |
+| `` `Dunhara` is not a word of the `vyl` lexicon, a registered name, or a regular form of one; … ``                                                                                               | A foreign name not in this language's register.                      | Register it as `other:<tongue>` or `exonym:<tongue>`.                                                                                     |
+| `` `ch` maps to U+F0299 in the map `semaron`, which the font `semaron-kuriale` does not draw ``                                                                                                  | A row writes a code point the face lacks.                            | Correct the row's `to` from `fonts.json`.                                                                                                 |
+| `` `zaron` is written U+F0299 by the lexicon of `vyl` for the map `semaron`, which the font `semaron-kuriale` does not draw ``                                                                   | A native form holds a code point the face lacks.                     | Correct the word's `native` text.                                                                                                         |
+| `` `Orlan` is capitalised, and the native form … does not begin as the rows spell its first letter, so the rows cannot capitalise it; state `Orlan` as a word of its own with its native form `` | A capitalised exception the rows cannot capitalise.                  | State the capitalised word as its own lexicon entry.                                                                                      |
+| `` `data.words[0].native[0]` states what the rows already give … ``                                                                                                                              | A redundant exception.                                               | Delete the `native` entry.                                                                                                                |
 
 ## 11. Verse
 
@@ -899,8 +926,8 @@ byte for byte, so indentation, line breaks and spans survive formatting.
 
 ````markdown
 ```verse {lang=vyl font=semaron-kuriale map=semaron}
-Lokazor lonak,
-  lokamen zaron.
+Voza olmathen thilandon,
+  ul voza lorezathen.
 ```
 ````
 
@@ -969,8 +996,8 @@ states `data.sounds.stress` (see [Stress as data](#4-stress-as-data)):
 
 ````markdown
 ```verse {lang=vyl scan=trimeter}
-Lokazor lonak zaron.
-Lokamen lonak zaron.
+Voza olmathen thilandon.
+Ul voza lorezathen.
 ```
 ````
 
@@ -1020,7 +1047,7 @@ alt text is the roman text it was written from.
 
 **What this repository has.** No script note here states `direction`, and no
 mapping note exists for Teng Chou, so no `scroll` fence is written in a note.
-The package-build this repository installs (24.0.1) does not read a `scroll`
+The package-build this repository installs does not read a `scroll`
 fence: in a note it is an ordinary code block, so the fence is written only
 against a package-build whose documentation describes it. The Khelathi-zethu script note says its text is written
 either right to left in lines or top down in columns, and the font lays out a
@@ -1157,7 +1184,7 @@ Vylari; a prose passage skips the fence.
 5. **The build converts and checks it,** deterministically: dictionary, rows,
    lexicon check and face coverage.
 6. **Proof it with the two commands.**
-   - `package-build transliterate semaron --lang vyl --hex "Lokazor lonak, lokamen zaron."`
+   - `package-build transliterate semaron --lang vyl --hex "Voza olmathen thilandon, ul voza lorezathen."`
      prints the code points the build writes, exactly as it writes them.
    - `package-build lexicon vyl --map semaron` lists every word of the language
      with its native form, class and gloss, and whether it is an exception;
@@ -1182,13 +1209,14 @@ not, do not add it.
 `transliterate` prints:
 
 ```console
-$ package-build transliterate semaron --lang vyl --hex "Lokazor lonak, lokamen zaron."
-U+F020A U+F023D U+F0239 U+F0230 U+F0246 U+F023D U+F023F U+0020 U+F023A U+F023D U+F023C U+F0230 U+F0239 U+F0268 U+0020 U+F023A U+F023D U+F0239 U+F0230 U+F023B U+F0233 U+F023C U+0020 U+F0246 U+F0230 U+F023F U+F023D U+F023C U+F0268
+$ package-build transliterate semaron --lang vyl --hex "Voza olmathen thilandon, ul voza lorezathen."
+U+F0213 U+F023D U+F0246 U+F0230 U+0020 U+F023D U+F023A U+F023B U+F0230 U+F0250 U+F0233 U+F023C U+0020 U+F0250 U+F0237 U+F023A U+F0230 U+F023C U+F0232 U+F023D U+F023C U+F0268 U+0020 U+F0242 U+F023A U+0020 U+F0243 U+F023D U+F0246 U+F0230 U+0020 U+F023A U+F023D U+F023F U+F0233 U+F0246 U+F0230 U+F0250 U+F0233 U+F023C U+F0268
 ```
 
-`Lokazor` begins with the capital _L_ of the rows (U+F020A), the comma and full
-stop are the script's one point (U+F0268), and `zaron` is spelled by the rows
-because no Vylari word states a native form.
+`Voza` begins with the capital _V_ of the rows (U+F0213), the comma and full
+stop are the script's one point (U+F0268), and `voza` is spelled by the rows
+because no Vylari word states a native form. The _th_ of `olmathen` is the one
+letter U+F0250.
 
 ## 16. The guards an author runs
 
@@ -1215,6 +1243,15 @@ continuous integration; it reads every note and takes minutes.
 | `npx package-build core [--language <name>]`                  | The concepts a language has no word for                                                                                                                          | Nothing: a missing concept is the work list, and the exit status is 0                                               |
 
 Notes on the table:
+
+- **Filter `package-build lint` to your own file.** The full run prints every
+  finding of the tree, thousands of them. Read only the file being written:
+  `npx package-build lint 2>&1 | grep '^assets/content/path/to/Note.md:'`. The
+  exit status is 1 only when an error is reported, so a warning leaves it 0.
+  Two warnings are expected noise: `first-use/repeated-name` (a name linked or
+  marked more than once) and `the piece … matches no word, affix or element`
+  (a built piece that prints with no gloss). Neither fails the build, and
+  neither is a reason to change a passage.
 
 - **`lint:earth-words` reads word lists the running machine keeps.** The
   repository holds no list and no word of any real language. The lists are the

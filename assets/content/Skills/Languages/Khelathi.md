@@ -662,6 +662,8 @@ data:
     - form: "Aqun-Uqa, wethûr ezu qelet"
       instead: "Uqa'a, qamzet ezu gazlet"
       why: sounds the death god's name in an invocation of the sun
+  tongues: [{tag: khelathi, meaning: a Khelathi name, language: skill-khelathlng}]
+  register: [{name: Meqes, tongue: khelathi}, {name: "Uqa'a", tongue: khelathi}]
   naming:
     nearName:
       minSyllables: 4
