@@ -71,7 +71,7 @@ Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, pr
 
 The consequence is that the Élavendri are unimpressed by displays. Power casually shown is vulgar; power precisely applied is admired. A visiting mage who sets out to overawe an Élavendri court gets an attentive, appreciative and entirely unmoved audience.
 
-The magic they study is the [[affiliation-hexhodai|Zemor Hodhis]], the Six Ways, as [[affiliation-ordoarcanis|the Thordimalon]] teaches it, and the houses' ties with the Order are very close: the [University of Péravel]{.name data-type="affiliation"} and the Order's chapterhouses are where a well-bred Élavendri learns the art. The bond is a real point of tension with the Áelendan, who actively dislike the Order and do not tolerate its meddling in their sacred sites.
+The magic they study is the [[affiliation-zemorhodhis|Zemor Hodhis]], the Six Ways, as [[affiliation-ordoarcanis|the Thordimalon]] teaches it, and the houses' ties with the Order are very close: the [University of Péravel]{.name data-type="affiliation"} and the Order's chapterhouses are where a well-bred Élavendri learns the art. The bond is a real point of tension with the Áelendan, who actively dislike the Order and do not tolerate its meddling in their sacred sites.
 
 Because the [[lore-flksinale|Sinale]] walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
 

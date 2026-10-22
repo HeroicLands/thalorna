@@ -31,7 +31,7 @@ Pick the entry that suits the hero. Each leads to [[place-rngtrndpths|the Ring o
 
 ### Overview
 
-[Denrik Réncaris]{.name data-type="being/npc"}, a _marendos_ of the Order's [[affiliation-sideros|Sideris]], came into the Silver Forests to prove that the [[lore-flksinale|Sinale paths]] can be bound straight by metal. He drove silver pegs in a ring around eight living birch, strung silver wire between them, and worked a [Straight Road]{.name data-type="mysticalability"} upon it. The working took. Every straight line in the hollow now ends at the ring, the wire draws walkers in along it, and the working takes the footing of whoever follows. They walk the circuit of the pegs and cannot stop. Each dusk it takes another.
+[Denrik Réncaris]{.name data-type="being/npc"}, a _marendos_ of the Order's [[affiliation-sideris|Sideris]], came into the Silver Forests to prove that the [[lore-flksinale|Sinale paths]] can be bound straight by metal. He drove silver pegs in a ring around eight living birch, strung silver wire between them, and worked a [Straight Road]{.name data-type="mysticalability"} upon it. The working took. Every straight line in the hollow now ends at the ring, the wire draws walkers in along it, and the working takes the footing of whoever follows. They walk the circuit of the pegs and cannot stop. Each dusk it takes another.
 
 Réncaris stands in the middle in the working's eye, alive because the working needs him. He cannot undo it without unmaking himself, and he has not asked the wood to turn the paths because to ask is to admit the Order's reading of the paths was wrong.
 
@@ -155,5 +155,5 @@ The Sinale do nothing. They do not fight, and the paths around the ring now turn
 - [[place-rngtrndpths|The Ring of Turned Paths]]
 - [[lore-blacksnow|The Black Snow]]—the birch law
 - [[lore-theasking|The Asking]]—the song of asking
-- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-sideros|Zulen Sideris]]
+- [[affiliation-alndnwrdns|The Áelendan Wardens]] · [[affiliation-ordoarcanis|Thordimalon]] · [[affiliation-sideris|Zulen Sideris]]
 - [[lore-vylrncrncy|Vylarian Currency]]

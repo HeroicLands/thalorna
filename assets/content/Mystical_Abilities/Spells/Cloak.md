@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-anvilbdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: sideros
+    assocSkillCode: sideris
     masteryLevelBase: 0
     levelBase: 5
     charges: {value: null, max: null}

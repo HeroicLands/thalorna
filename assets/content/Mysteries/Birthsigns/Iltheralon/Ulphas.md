@@ -13,26 +13,26 @@ sohl:
     skillAptitudes:
       "subType:nature": 10
       earth: 10
-      physera: 10
+      fisera: 10
       "subType:script": 0
       "subType:craft": 0
       metal: 0
-      sideros: 0
+      sideris: 0
       "subType:combattechnique": -10
       "subType:combat": -10
       fire: -10
-      pyrethos: -10
+      pirethos: -10
       "subType:physical": -10
       air: -10
-      zepharis: -10
+      zefaris: -10
       "subType:mystical": 0
       "subType:lore": 0
       spirit: 0
-      pneumenos: 0
+      neumenos: 0
       "subType:language": 10
       "subType:social": 10
       water: 10
-      hydalis: 10
+      hidalis: 10
 ---
 
 Ulfas, the Fish, closes the wheel of the year. Its natives are attuned to living things and gifted in speech and society, yet the arts of war and the strength of the body are not the gifts this sign bestows.

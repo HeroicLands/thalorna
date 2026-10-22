@@ -13,26 +13,26 @@ sohl:
     skillAptitudes:
       "subType:nature": -5
       earth: -5
-      physera: -5
+      fisera: -5
       "subType:script": -15
       "subType:craft": -15
       metal: -15
-      sideros: -15
+      sideris: -15
       "subType:combattechnique": -5
       "subType:combat": -5
       fire: -5
-      pyrethos: -5
+      pirethos: -5
       "subType:physical": 5
       air: 5
-      zepharis: 5
+      zefaris: 5
       "subType:mystical": 15
       "subType:lore": 15
       spirit: 15
-      pneumenos: 15
+      neumenos: 15
       "subType:language": 5
       "subType:social": 5
       water: 5
-      hydalis: 5
+      hidalis: 5
 ---
 
 Ithrolas, the Lamp, is the seer's sign. Its natives incline to the arcane and the antiquarian, keepers of lore and quiet counsel, while the maker's crafts and the disciplines of steel remain foreign to them.

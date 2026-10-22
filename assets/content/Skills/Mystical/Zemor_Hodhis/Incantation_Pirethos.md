@@ -1,10 +1,10 @@
 ---
-shortcode: pyrethos
+shortcode: pirethos
 name: {full: Incantation Pirethos, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: pyrethos, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: pirethos, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-pyrethos|Rhezin Pirethos]]
+See [[affiliation-pirethos|Rhezin Pirethos]]

@@ -1,10 +1,10 @@
 ---
-shortcode: sideros
+shortcode: sideris
 name: {full: Incantation Sideris, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: sideros, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: sideris, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-sideros|Rhezin Sideris]]
+See [[affiliation-sideris|Rhezin Sideris]]

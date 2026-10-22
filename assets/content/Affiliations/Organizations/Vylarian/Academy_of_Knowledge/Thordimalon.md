@@ -69,7 +69,7 @@ The Order is older than the [[affiliation-vylarinmpr|Vylarian Empire]] it serves
 
 Before the Order, magic was practiced in many forms across western Ankaris, and nobody governed it. Mage-kings and mage-warlords rose with disturbing regularity, arcanists who seized temporal power and used magic as a weapon of conquest and coercion. Alchemical disasters poisoned rivers and blighted farmland. Summoning experiments tore holes in the fabric of reality. Seer-cults manipulated succession crises. Rogue necromancers raised armies of the dead. Whole communities were destroyed or transformed by experiments that went wrong, and at its worst a single mage-warlord commanding enough power could threaten the existence of a kingdom.
 
-The [[place-helionis|Helionite]] city-states held the most sophisticated scholarship in the west, in every domain of philosophical inquiry and not only the arcane. The Epistémion (the Academy of Knowledge), a federation of scholars covering metaphysics, ethics, logic, natural philosophy, political thought and the arcane arts, had been the crown of Helionite civilization since about 400 BF (see [[lore-panepistfnd|the Founding of the Epistémion]]). Its College of Arcane Philosophy had built a rich body of theory, including the elemental classification and oppositional forces that became the [[affiliation-hexhodai|Zemor Hodhis]]. But the Epistémion (the Academy) was an intellectual society, not an enforcement body. It kept its standards through peer reputation and scholarly consensus, and it could not stop an individual mage, or a whole city-state, from turning that knowledge into a weapon.
+The [[place-helionis|Helionite]] city-states held the most sophisticated scholarship in the west, in every domain of philosophical inquiry and not only the arcane. The Epistémion (the Academy of Knowledge), a federation of scholars covering metaphysics, ethics, logic, natural philosophy, political thought and the arcane arts, had been the crown of Helionite civilization since about 400 BF (see [[lore-panepistfnd|the Founding of the Epistémion]]). Its College of Arcane Philosophy had built a rich body of theory, including the elemental classification and oppositional forces that became the [[affiliation-zemorhodhis|Zemor Hodhis]]. But the Epistémion (the Academy) was an intellectual society, not an enforcement body. It kept its standards through peer reputation and scholarly consensus, and it could not stop an individual mage, or a whole city-state, from turning that knowledge into a weapon.
 
 ### The Wars of Vylaria and Helionis
 
@@ -157,7 +157,7 @@ Most chapters are led by a _holmarendos_, who is both the chapter's internal aut
 
 ### The Zemor Hodhis
 
-The Order teaches and sorts its members by the [[affiliation-hexhodai|Zemor Hodhis]], the Six Ways, a classification of all magical phenomena into six schools, the _rheza_ (currents), arranged on a hexagonal diagram called the Thizaron (the Seal). That note sets out the six _rheza_, the three oppositions that the Thizaron draws between them, and [[affiliation-kentra|Kentra]], the mastery of all six. Within the Order it is doctrine: a _kosthemos_ (initiate) is taught it as the structure of magic itself, and the Order's politics run along its lines.
+The Order teaches and sorts its members by the [[affiliation-zemorhodhis|Zemor Hodhis]], the Six Ways, a classification of all magical phenomena into six schools, the _rheza_ (currents), arranged on a hexagonal diagram called the Thizaron (the Seal). That note sets out the six _rheza_, the three oppositions that the Thizaron draws between them, and [[affiliation-kentra|Kentra]], the mastery of all six. Within the Order it is doctrine: a _kosthemos_ (initiate) is taught it as the structure of magic itself, and the Order's politics run along its lines.
 
 Two consequences matter here. Alliances across fellowships form most easily between neighboring _rheza_ on the Thizaron, so a _marendos_ seeking allies on a council looks first to the fellowships that flank their own. And the Order's promotions favor the politician over the transcendent: the practitioners who learn to work across all six schools, the Kentra, ought to be the natural _holmarendoi_, but the _holmarendoi_ are likelier to be gifted politicians than gifted mages, and many a Kentra mage has spent a career as a quietly respected _marendos_ while less talented and more ambitious colleagues rose to the Verdan.
 
@@ -165,22 +165,22 @@ Two consequences matter here. Alliances across fellowships form most easily betw
 
 Each of the six _rheza_ has a corresponding **Zulen** (pl. _Zulethalar_), a fellowship of practitioners who share it. The Zulethalar (fellowships) work something like religious orders within a church: they cut across the formal hierarchy of chapters and colleges, binding together mages who share a philosophical orientation wherever they are stationed and whatever practical discipline they study.
 
-Zulen [[affiliation-pyrethos|Pirethos]]
+Zulen [[affiliation-pirethos|Pirethos]]
 : The Fellowship of Fire. Aggressive, ambitious and politically influential. Fire mages are drawn to combat magic and hold a disproportionate share of the Sekran.
 
-Zulen [[affiliation-hydalis|Hidalis]]
+Zulen [[affiliation-hidalis|Hidalis]]
 : The Fellowship of Water. Patient, adaptable, and associated with healing and divination. Water mages often serve as mediators in internal disputes.
 
-Zulen [[affiliation-zepharis|Zefaris]]
+Zulen [[affiliation-zefaris|Zefaris]]
 : The Fellowship of Air. Subtle, cerebral, and drawn to illusion, communication and the magic of the unseen. It is the smallest fellowship and is heavily represented among the Order's intelligence operatives.
 
-Zulen [[affiliation-physera|Fisera]]
+Zulen [[affiliation-fisera|Fisera]]
 : The Fellowship of Earth. Practical, conservative and deeply rooted in tradition. Earth mages dominate alchemy, herblore and the crafting of magical materials, and the fellowship is the largest by membership.
 
-Zulen [[affiliation-sideros|Sideris]]
+Zulen [[affiliation-sideris|Sideris]]
 : The Fellowship of Metal. Precise and disciplined, associated with binding, warding and the imposition of arcane order. Metal mages have strong ties to the [College of Enchantment]{.name data-type="affiliation"}.
 
-Zulen [[affiliation-pneumenos|Pnumenos]]
+Zulen [[affiliation-neumenos|Neumenos]]
 : The Fellowship of Spirit. Mystical, intense and sometimes unsettling: summoners, seers and practitioners who deal with entities beyond the material world. The other fellowships regard it warily, and the Sekran supervises it most closely.
 
 Kentra mages belong to no Zulen (fellowship), or rather have outgrown the one they began in. Some keep honorary ties to their original fellowship; others are regarded with awe and suspicion by former colleagues who can no longer follow how they think. There is no formal Zulen Kentra, though Kentra mages tend to find each other and form loose networks. The Order has debated whether to formalize a fellowship for them, and the Kentra mages have always resisted: organizing a group defined by transcending categories into a category of its own misses the point.

@@ -442,7 +442,7 @@ The GM may, of course, have personal moral views, and so may the players. Nothin
 [[lore-frgntradcomp|Foreign Traditions Comparative]]
 : _(GM-only)_ How each non-Order magical tradition channels the potential, including priestly traditions
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Order's framework, in-world doctrine
 
 [[affiliation-ordoarcanis|Thordimalon]]

@@ -91,7 +91,7 @@ sohl:
     - {model: sohl-sohl-miscgear-stdrtns, system: {quantity: 3}}
     - name: Pirethos focus (fire-opal set in bronze, worn at the throat)
       type: miscgear
-      system: {shortcode: pyrethosfocus, weight: 0.2, value: 25, durability: 3}
+      system: {shortcode: pirethosfocus, weight: 0.2, value: 25, durability: 3}
     - name: Thordimalon sigil ring (therman rank)
       type: miscgear
       system: {shortcode: ordoarcanissigilring, value: 8, weight: 1, durability: 3}
@@ -428,7 +428,7 @@ sohl:
 
 ![[klstrtsxrchds|Kalestratos Zarkedis]]{float=top-left}
 
-Kalestratos stands 6'2" tall with a medium build—long-limbed and lean, with the stored energy of a man whose body has been shaped by the physical disciplines the [[affiliation-ordoarcanis|Thordimalon]] imposes on its combat-track practitioners. He has olive skin, dark brown hair worn loose to the shoulders, and brown eyes that catch the light with an unsettling warmth in certain angles—a common mark among Fire mages who have spent years channeling [[affiliation-pyrethos|Pirethos]] energy, though the Order's physicians insist it is merely a trick of pigmentation. His features are angular: an oblong face, a strong nose, a pronounced chin, a wide mouth, thick dark brows, and hollow cheeks that give him a gaunt intensity even when he is well-fed. The burn scarring across both palms and the backs of his hands is the kind that comes from years of direct arcane practice—channeling fire without sufficient warding, either through ambition or impatience. A thin scar along his left jaw is from something more mundane: a [Sekran]{.name data-type="affiliation"} field operation that went sideways in a border village two years ago.
+Kalestratos stands 6'2" tall with a medium build—long-limbed and lean, with the stored energy of a man whose body has been shaped by the physical disciplines the [[affiliation-ordoarcanis|Thordimalon]] imposes on its combat-track practitioners. He has olive skin, dark brown hair worn loose to the shoulders, and brown eyes that catch the light with an unsettling warmth in certain angles—a common mark among Fire mages who have spent years channeling [[affiliation-pirethos|Pirethos]] energy, though the Order's physicians insist it is merely a trick of pigmentation. His features are angular: an oblong face, a strong nose, a pronounced chin, a wide mouth, thick dark brows, and hollow cheeks that give him a gaunt intensity even when he is well-fed. The burn scarring across both palms and the backs of his hands is the kind that comes from years of direct arcane practice—channeling fire without sufficient warding, either through ambition or impatience. A thin scar along his left jaw is from something more mundane: a [Sekran]{.name data-type="affiliation"} field operation that went sideways in a border village two years ago.
 
 He dresses practically but with the understated quality of someone raised in a noble house that no longer has the wealth to match its habits: a well-cut worsted coat, good leather boots, bracers that serve both as arm protection and as anchoring points for warding sigils. The bronze-and-fire-opal focus he wears at his throat marks him as Zulen (fellowship) Pirethos to anyone who knows what to look for, and the sigil ring on his right hand identifies his rank as _therman_ (adept) within the Order.
 

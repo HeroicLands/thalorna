@@ -19,7 +19,7 @@ sohl:
 #   name: Aqua
 ---
 
-Waterheart is a pristine, perfectly clear elixir that tastes of spring rain and distant mountains, infused with the Principle of Water ([[affiliation-zepharis|Zefaris]]). The liquid sits inert in its vial, as if the very essence of hydration has been distilled and bound into this small measure. When drunk, the body's thirst becomes voracious but manageable: the imbiber's water requirements drop to a quarter of normal, allowing for weeks of desert journeys or, conversely, frugal supplies that stretch impossibly far.
+Waterheart is a pristine, perfectly clear elixir that tastes of spring rain and distant mountains, infused with the Principle of Water ([[affiliation-zefaris|Zefaris]]). The liquid sits inert in its vial, as if the very essence of hydration has been distilled and bound into this small measure. When drunk, the body's thirst becomes voracious but manageable: the imbiber's water requirements drop to a quarter of normal, allowing for weeks of desert journeys or, conversely, frugal supplies that stretch impossibly far.
 
 The price paid is weariness fatigue equal to base Aural Shock multiplied by five—a deep, bone-aching dehydration that haunts the drinker long after their thirst is sated. This is not true drying of the flesh but an alchemical toll: the body's balance of humors thrown askew, leaving the imbiber lethargic and hollow. As the Aural Shock decays through monthly Decay Rolls, so does this fatigue lift, though slowly.
 

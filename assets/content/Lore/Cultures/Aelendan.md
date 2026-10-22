@@ -87,7 +87,7 @@ The Élavendri are the Áelendan's adaptable modern descendants, and they regard
 
 The Áelendan return the regard with affection and unease. They understand Élavendri well and take nothing from it into their own speech. They acknowledge the kingdom without submitting to it, govern themselves by their own customs and answer to their own elders, and they hold that the cities traded something away. Both sides are courteous about it.
 
-The Élavendri do not keep the Pact tradition. They worship the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the Aureldian manner, and they follow the philosophy of the [[affiliation-hexhodai|Zemor Hodhis]], the Six Ways. They have very close ties with the Thordimalon, and that bond is a real point of tension between the two peoples, beside their regard. The Áelendan actively dislike the Order and do not tolerate its meddling in their sacred sites, and they count the kingdom's permission for it, more than any single theft, as the offense.
+The Élavendri do not keep the Pact tradition. They worship the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the Aureldian manner, and they follow the philosophy of the [[affiliation-zemorhodhis|Zemor Hodhis]], the Six Ways. They have very close ties with the Thordimalon, and that bond is a real point of tension between the two peoples, beside their regard. The Áelendan actively dislike the Order and do not tolerate its meddling in their sacred sites, and they count the kingdom's permission for it, more than any single theft, as the offense.
 
 ## What Is Good, and What Succeeds
 

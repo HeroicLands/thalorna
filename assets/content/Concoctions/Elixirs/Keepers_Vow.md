@@ -23,4 +23,4 @@ Keeper's Vow appears as a shimmering, pearl-like suspension that casts a faint l
 
 The process is incremental but relentless. Each failed attempt to breach the aegis leaves the object more stubbornly guarded, consuming the elixir's charge via the monthly Decay Roll. When AS reaches zero, the protective aura dissipates entirely. This elixir is applied, not swallowed—drinking it inflicts Alchemical Dissolution (page 267), with Crucial Dissolution triggered on certain d100 rolls.
 
-The elixir draws from the Principle of Substance ([[affiliation-sideros|Sideris]]). It serves as a guardian for reliquaries, merchant's safes, and arcane tomes that must never fall under enemy control.
+The elixir draws from the Principle of Substance ([[affiliation-sideris|Sideris]]). It serves as a guardian for reliquaries, merchant's safes, and arcane tomes that must never fall under enemy control.

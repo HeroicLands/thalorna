@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: physera
+    assocSkillCode: fisera
     masteryLevelBase: 0
     levelBase: 6
     charges: {value: null, max: null}

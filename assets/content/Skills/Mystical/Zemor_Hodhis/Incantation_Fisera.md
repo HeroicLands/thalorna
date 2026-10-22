@@ -1,10 +1,10 @@
 ---
-shortcode: physera
+shortcode: fisera
 name: {full: Incantation Fisera, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: physera, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: fisera, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-physera|Rhezin Fisera]]
+See [[affiliation-fisera|Rhezin Fisera]]

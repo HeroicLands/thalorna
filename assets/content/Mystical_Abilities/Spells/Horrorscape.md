@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-wind, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: zepharis
+    assocSkillCode: zefaris
     masteryLevelBase: 0
     levelBase: 4
     charges: {value: null, max: null}

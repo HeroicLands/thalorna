@@ -19,7 +19,7 @@ magical practice in the known world. It holds that the arcane divides into eight
 region of the cosmic order over which a correctly known name has authority. Its practitioners are the
 _lekhau_, those who hold sacred power; the title of every high priest in the empire—Thaz'Lekhau, "Great of Sacred Power"—names the greatest of them.
 
-It predates the [[affiliation-hexhodai|Zemor Hodhis]] by some thousands of years, and it is not a variant of
+It predates the [[affiliation-zemorhodhis|Zemor Hodhis]] by some thousands of years, and it is not a variant of
 it. The two traditions are not rival schools within one framework. They are two complete and
 incompatible accounts of the same thing.
 
@@ -201,7 +201,7 @@ a tradition where power is correct address, the library _is_ the armory.
 
 ### See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]—the western six-fold partition of the same Dynaris
+- [[affiliation-zemorhodhis|Zemor Hodhis]]—the western six-fold partition of the same Dynaris
 - [[affiliation-garqarquzu|Gar-Qar'kuzu]] · [[affiliation-garzelgut|Gar-Zelgút]] · [[affiliation-garathenuqa|Gar-Thelqen'Uqa]] ·
   [[affiliation-garithnetau|Gar-Ithnetáu]] · [[affiliation-garnlghkhlth|Gar-Anlagh'Khelathu]] ·
   [[affiliation-gargezrulutu|Gar-Gezru'lutu]] · [[affiliation-garrethzethu|Gar-Reth'zethu]] ·

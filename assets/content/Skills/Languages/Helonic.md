@@ -1198,21 +1198,21 @@ data:
       - lore-bethuanclt
       - skill-helnkscrpt
       - affiliation-panepistmm
-      - affiliation-hexhodai
-      - affiliation-pyrethos
-      - affiliation-zepharis
-      - affiliation-physera
-      - affiliation-hydalis
-      - affiliation-sideros
-      - affiliation-pneumenos
-      - skill-pyrethos
-      - skill-zepharis
-      - skill-physera
-      - skill-hydalis
-      - skill-sideros
-      - skill-pneumenos
+      - affiliation-zemorhodhis
+      - affiliation-pirethos
+      - affiliation-zefaris
+      - affiliation-fisera
+      - affiliation-hidalis
+      - affiliation-sideris
+      - affiliation-neumenos
+      - skill-pirethos
+      - skill-zefaris
+      - skill-fisera
+      - skill-hidalis
+      - skill-sideris
+      - skill-neumenos
       - skill-kentra
-      - lore-hxhdncnttns
+      - lore-zmrhdhsncnttns
   tongues:
     - {tag: helonic, meaning: a Helonic name, language: skill-helonclng}
     - {tag: byzarian, meaning: a Bizarian name, language: skill-byzarnlng}
@@ -1988,7 +1988,7 @@ sohl:
 
 Helonic is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
-The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Mídhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-hexhodai|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vylarian system]].
+The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Mídhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-zemorhodhis|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vylarian system]].
 
 ## Overview
 

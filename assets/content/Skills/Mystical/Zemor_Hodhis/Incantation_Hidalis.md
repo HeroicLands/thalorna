@@ -1,10 +1,10 @@
 ---
-shortcode: hydalis
+shortcode: hidalis
 name: {full: Incantation Hidalis, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: hydalis, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: hidalis, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-hydalis|Rhezin Hidalis]]
+See [[affiliation-hidalis|Rhezin Hidalis]]

@@ -1,11 +1,11 @@
 ---
-shortcode: hydalis
+shortcode: hidalis
 name: {full: Hidalis, aliases: [Rhezin Hidalis, Zulen Hidalis]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
-  icon: hydalis
+  icon: hidalis
   templatePriority: null
   demonym: null
   epithet: null
@@ -54,16 +54,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [hexhodai]
-  relations: {pyrethos: nemesis, sideros: aligned, physera: aligned}
-  packFolder: affiliationshexhodai
+  parents: [zemorhodhis]
+  relations: {pirethos: nemesis, sideris: aligned, fisera: aligned}
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # thalorna:
 #   school: water
 ---
 
-Rhezin **Hidalis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite Rhezin [[affiliation-pyrethos|Pirethos]]. Where Fire transforms by destroying, Water transforms by _becoming_—by adapting, yielding, absorbing, and reshaping. Hidalis practitioners are [[affiliation-ordoarcanis|Thordimalon]]'s healers, its diviners, and its most patient diplomats.
+Rhezin **Hidalis** is the school of cold, flow, healing, and transformation through adaptation. It sits at the lower-left vertex of the [[affiliation-zemorhodhis|Thizaron]], directly opposite Rhezin [[affiliation-pirethos|Pirethos]]. Where Fire transforms by destroying, Water transforms by _becoming_—by adapting, yielding, absorbing, and reshaping. Hidalis practitioners are [[affiliation-ordoarcanis|Thordimalon]]'s healers, its diviners, and its most patient diplomats.
 
 ## Philosophy
 
@@ -87,7 +87,7 @@ In chapter councils, the two fellowships serve as natural checks on each other. 
 
 ## Adjacencies
 
-Hidalis shares its edges of the Thizaron with Rhezin [[affiliation-physera|Fisera]] and Rhezin [[affiliation-sideros|Sideris]].
+Hidalis shares its edges of the Thizaron with Rhezin [[affiliation-fisera|Fisera]] and Rhezin [[affiliation-sideris|Sideris]].
 
 The sympathy with Fisera is one of _sustenance_. Earth nourishes and Water heals; both schools concern themselves with living things and the conditions that allow life to flourish. Hidalis and Fisera practitioners often collaborate on matters of agriculture, medicine, and the maintenance of communities. Their combined magic is the magic of the garden, the granary, and the sickroom—less dramatic than Fire and Air, but more essential to daily life.
 
@@ -103,16 +103,16 @@ The Zulen Hidalis is not without its own ambitions, however. Its members underst
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-pyrethos|Rhezin Pirethos]]
+[[affiliation-pirethos|Rhezin Pirethos]]
 : The opposing _rhezin_
 
-[[affiliation-physera|Rhezin Fisera]]
+[[affiliation-fisera|Rhezin Fisera]]
 : Adjacent _rhezin_ (sustenance)
 
-[[affiliation-sideros|Rhezin Sideris]]
+[[affiliation-sideris|Rhezin Sideris]]
 : Adjacent _rhezin_ (patience)
 
 [[affiliation-ordoarcanis|Thordimalon]]

@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-water, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: hydalis
+    assocSkillCode: hidalis
     masteryLevelBase: 0
     levelBase: 6
     charges: {value: null, max: null}

@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-firebdg, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: pyrethos
+    assocSkillCode: pirethos
     masteryLevelBase: 0
     levelBase: 4
     charges: {value: null, max: null}

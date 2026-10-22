@@ -3,8 +3,8 @@ shortcode: kentra
 name: {full: Incantation Kentra, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: kentra, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: kentra, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"

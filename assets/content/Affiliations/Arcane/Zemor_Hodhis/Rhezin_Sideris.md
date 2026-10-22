@@ -1,11 +1,11 @@
 ---
-shortcode: sideros
+shortcode: sideris
 name: {full: Sideris, aliases: [Rhezin Sideris, Zulen Sideris]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
-  icon: sideros
+  icon: sideris
   templatePriority: null
   demonym: null
   epithet: null
@@ -54,16 +54,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [hexhodai]
-  relations: {zepharis: nemesis, hydalis: aligned, pneumenos: aligned}
-  packFolder: affiliationshexhodai
+  parents: [zemorhodhis]
+  relations: {zefaris: nemesis, hidalis: aligned, neumenos: aligned}
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # thalorna:
 #   school: metal
 ---
 
-Rhezin **Sideris** is the current of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite Rhezin [[affiliation-zepharis|Zefaris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sideris is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
+Rhezin **Sideris** is the current of craft, precision, binding, and the material world made orderly. It occupies the lower-right vertex of the [[affiliation-zemorhodhis|Thizaron]], directly opposite Rhezin [[affiliation-zefaris|Zefaris]]. Where Air dissolves and obscures, Metal defines and clarifies. Where Air deals in the intangible, Metal deals in the unyielding. Sideris is the school of the artificer, the ward-maker, the enchanter, and the lawgiver—the mage who believes that the world has a structure and that magic's highest purpose is to discover, reinforce, and perfect it.
 
 ## Philosophy
 
@@ -83,7 +83,7 @@ The rivalry between the two Zulethalar (fellowships) is cold rather than hot—a
 
 ## Adjacencies
 
-Rhezin Sideris shares its edges of the Thizaron with Rhezin [[affiliation-hydalis|Hidalis]] and Rhezin [[affiliation-pneumenos|Neumenos]].
+Rhezin Sideris shares its edges of the Thizaron with Rhezin [[affiliation-hidalis|Hidalis]] and Rhezin [[affiliation-neumenos|Neumenos]].
 
 The sympathy with Rhezin Hidalis is one of _patience_. Both _rheza_ value careful, sustained effort over dramatic action. Water shapes through persistence; Metal shapes through precision. A Sideris enchanter working for months to craft a single artifact and a Hidalis healer spending weeks coaxing a patient back to health share an understanding that the most meaningful work cannot be rushed. Their collaboration is quiet but productive—Hidalis mages frequently consult Sideris practitioners on the structural aspects of healing magic, and Sideris enchanters rely on Hidalis diviners to test whether their creations will endure.
 
@@ -99,16 +99,16 @@ Politically, the Zulen Sideris tends toward conservatism—it defends existing s
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-zepharis|Rhezin Zefaris]]
+[[affiliation-zefaris|Rhezin Zefaris]]
 : The opposing _rhezin_
 
-[[affiliation-hydalis|Rhezin Hidalis]]
+[[affiliation-hidalis|Rhezin Hidalis]]
 : Adjacent _rhezin_ (patience)
 
-[[affiliation-pneumenos|Rhezin Neumenos]]
+[[affiliation-neumenos|Rhezin Neumenos]]
 : Adjacent _rhezin_ (binding)
 
 [[affiliation-ordoarcanis|Thordimalon]]

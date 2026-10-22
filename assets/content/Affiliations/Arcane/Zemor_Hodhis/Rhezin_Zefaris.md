@@ -1,11 +1,11 @@
 ---
-shortcode: zepharis
+shortcode: zefaris
 name: {full: Zefaris, aliases: [Rhezin Zefaris, Zulen Zefaris]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
-  icon: zepharis
+  icon: zefaris
   templatePriority: null
   demonym: null
   epithet: null
@@ -54,16 +54,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [hexhodai]
-  relations: {sideros: nemesis, pyrethos: aligned, physera: aligned}
-  packFolder: affiliationshexhodai
+  parents: [zemorhodhis]
+  relations: {sideris: nemesis, pirethos: aligned, fisera: aligned}
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # thalorna:
 #   school: air
 ---
 
-Rhezin **Zefaris** is the current of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite Rhezin [[affiliation-sideros|Sideris]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zefaris is the smallest of the six Zulethalar (fellowships) by membership, but its practitioners are disproportionately represented among [[affiliation-ordoarcanis|Thordimalon]]'s most subtle and dangerous operatives.
+Rhezin **Zefaris** is the current of wind, weather, sound, illusion, and the intangible. It occupies the upper-right vertex of the [[affiliation-zemorhodhis|Thizaron]], directly opposite Rhezin [[affiliation-sideris|Sideris]]. Where Metal seeks to define, bind, and make orderly, Air seeks to dissolve boundaries, escape categories, and reveal that what appears solid may be nothing more than a trick of perception. Zefaris is the smallest of the six Zulethalar (fellowships) by membership, but its practitioners are disproportionately represented among [[affiliation-ordoarcanis|Thordimalon]]'s most subtle and dangerous operatives.
 
 ## Philosophy
 
@@ -77,13 +77,13 @@ The deeper principle of Zefaris is _the power of the intangible_. What cannot be
 
 Rhezin Zefaris stands directly opposite Rhezin Sideris on the Thizaron (the Seal), and their opposition is perhaps the most philosophically irreconcilable of the three. Metal seeks to _define_—to draw clear boundaries, impose precise forms, and make the chaotic orderly. Air seeks to _dissolve_—to blur boundaries, escape definitions, and reveal that order is a human imposition on a world that resists it. A Zefaris mage attempting Metal magic finds the experience suffocating: the obsessive precision, the demand for exact specification, the insistence that everything have a fixed form and a proper place. It feels like being caged.
 
-The rivalry between the two Zulethalar is less fiery than the [[affiliation-pyrethos|Pirethos]]-[[affiliation-hydalis|Hidalis]] antagonism but more philosophically bitter. Sideris practitioners view Air mages as unreliable, evasive, and dangerously comfortable with ambiguity. Zefaris practitioners view Metal mages as rigid, unimaginative, and so committed to their categories that they cannot see what does not fit. The disagreement runs deeper than temperament—it is a fundamental dispute about the nature of reality. Is the world structured, and our task to discover its order? Or is structure a story we tell ourselves, and the world's true nature something more fluid and uncertain?
+The rivalry between the two Zulethalar is less fiery than the [[affiliation-pirethos|Pirethos]]-[[affiliation-hidalis|Hidalis]] antagonism but more philosophically bitter. Sideris practitioners view Air mages as unreliable, evasive, and dangerously comfortable with ambiguity. Zefaris practitioners view Metal mages as rigid, unimaginative, and so committed to their categories that they cannot see what does not fit. The disagreement runs deeper than temperament—it is a fundamental dispute about the nature of reality. Is the world structured, and our task to discover its order? Or is structure a story we tell ourselves, and the world's true nature something more fluid and uncertain?
 
 In chapter politics, the two fellowships rarely clash directly—their domains of interest seldom overlap. But when they do engage, the arguments are memorable. A Sideris _marendos_ (master) proposing new regulations and a Zefaris _marendos_ questioning whether the categories being regulated even exist can produce debates that last for years.
 
 ## Adjacencies
 
-Zefaris shares its edges of the Thizaron with Rhezin Pirethos and Rhezin [[affiliation-physera|Fisera]].
+Zefaris shares its edges of the Thizaron with Rhezin Pirethos and Rhezin [[affiliation-fisera|Fisera]].
 
 The sympathy with Pirethos is one of _dynamism_. Fire and Air are the active, kinetic _rheza_ of the Thizaron—both deal in energy in motion, transformation in real-time, forces that refuse to hold still. Wind feeds flame; lightning is born where weather and heat collide. Pirethos and Zefaris practitioners share an impatience with stasis and a preference for action, though their styles differ: Fire acts with overwhelming force, while Air acts with misdirection and subtlety. Their alliance is the Thizaron's most aggressive partnership.
 
@@ -99,16 +99,16 @@ The Zulen (fellowship) Zefaris also produces the Order's finest illusionists and
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-sideros|Rhezin Sideris]]
+[[affiliation-sideris|Rhezin Sideris]]
 : The opposing _rhezin_
 
-[[affiliation-pyrethos|Rhezin Pirethos]]
+[[affiliation-pirethos|Rhezin Pirethos]]
 : Adjacent _rhezin_ (dynamism)
 
-[[affiliation-physera|Rhezin Fisera]]
+[[affiliation-fisera|Rhezin Fisera]]
 : Adjacent _rhezin_ (the natural world)
 
 [[affiliation-ordoarcanis|Thordimalon]]

@@ -16,7 +16,7 @@ In Soraks a family's name counts for more in the courts than in any ledger at [[
 
 The story the city tells about itself is the story of its houses, and the clearest example is [House Zarkedis]{.name data-type="affiliation/lineage"}. Three generations ago a Zarkedis served as a provincial magistrate, and the family name still carried weight in the local courts long after the wealth behind it had gone: land sold, alliances fraying, the family's seat in Soraks growing shabbier while newer houses climbed past them.
 
-The end came through a commercial venture on borrowed money, faithless partners, and creditors placed to profit from the fall. The father, a trusted bureaucrat in Soraks's provincial administration, was disgraced; the land was seized and the house sold to cover the debts. The son, [[being-klstrtsxrchds|Kalestratos Zarkedis]], was by then a [[affiliation-pyrethos|Pirethos]] mage of the [[affiliation-ordoarcanis|Thordimalon]] at [[place-velysara|Velisara]], and the fall of his house made him what he is.
+The end came through a commercial venture on borrowed money, faithless partners, and creditors placed to profit from the fall. The father, a trusted bureaucrat in Soraks's provincial administration, was disgraced; the land was seized and the house sold to cover the debts. The son, [[being-klstrtsxrchds|Kalestratos Zarkedis]], was by then a [[affiliation-pirethos|Pirethos]] mage of the [[affiliation-ordoarcanis|Thordimalon]] at [[place-velysara|Velisara]], and the fall of his house made him what he is.
 
 ## See Also
 

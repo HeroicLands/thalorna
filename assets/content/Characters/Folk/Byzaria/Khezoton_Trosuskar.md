@@ -36,4 +36,4 @@ Kezoton Trosuskar is an 80-year-old man who stands 5'9" tall with a light build.
 
 # Dossier {#dossier}
 
-Kezoton Trosuskar is _Holmarendos_ (prelate) of the [[affiliation-zepharis|Zefaris]] fellowship and the elderly senior master of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) in [[place-byzaris|Bizaris]]. He mentored [[being-dkhhrnbsrn|Dókhehran Fefes]] in her early years and defends her controversial theories against pressure from more conservative factions.
+Kezoton Trosuskar is _Holmarendos_ (prelate) of the [[affiliation-zefaris|Zefaris]] fellowship and the elderly senior master of the [[affiliation-panepistmm|Epistémion]] (the Academy of Knowledge) in [[place-byzaris|Bizaris]]. He mentored [[being-dkhhrnbsrn|Dókhehran Fefes]] in her early years and defends her controversial theories against pressure from more conservative factions.

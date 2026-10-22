@@ -1,6 +1,6 @@
 ---
 shortcode: elxheal
-name: {full: Fyseran Balm, aliases: [Healing Elixir]}
+name: {full: Fiseran Balm, aliases: [Healing Elixir]}
 type: concoctiongear
 subType: elixir
 description: "Vibrant golden life elixir; banishes wounds, bleeding, exhaustion."
@@ -19,7 +19,7 @@ sohl:
 #   name: Healing
 ---
 
-Fyseran Balm is a vibrant golden liquid that tastes of honey, sunlight, and life itself, bound to the Principle of Life (Fyseran). This most precious of elixirs imparts three instantaneous effects upon imbibing. First, it banishes all windedness and weariness fatigue; it halts all bleeding, no matter how grave; and it removes Stunning, Incapacitation, and Unconsciousness Shock States from the drinker, returning them to consciousness and mobility. Second, each instance of physical trauma suffered at that moment receives an immediate Healing Roll, Course Roll, or Advance Roll as appropriate. These rolls overlap with healing from other sources such as blessed balms; a single injury cannot benefit from multiple Healing Rolls simultaneously, though the elixir may grant additional rolls to different injuries.
+Fiseran Balm is a vibrant golden liquid that tastes of honey, sunlight, and life itself, bound to the Principle of Life (Fiseran). This most precious of elixirs imparts three instantaneous effects upon imbibing. First, it banishes all windedness and weariness fatigue; it halts all bleeding, no matter how grave; and it removes Stunning, Incapacitation, and Unconsciousness Shock States from the drinker, returning them to consciousness and mobility. Second, each instance of physical trauma suffered at that moment receives an immediate Healing Roll, Course Roll, or Advance Roll as appropriate. These rolls overlap with healing from other sources such as blessed balms; a single injury cannot benefit from multiple Healing Rolls simultaneously, though the elixir may grant additional rolls to different injuries.
 
 Third, each day thereafter, a d10 roll is made against a Target Number equal to the current Aural Shock. Success grants each existing trauma its applicable recovery test; whether successful or not, the Aural Shock decreases by 1. These daily rolls continue until the Aural Shock reaches 0 or all trauma incurred at the moment of imbibing has fully healed. New injuries suffered after the elixir's administration are unaffected by the original dose.
 

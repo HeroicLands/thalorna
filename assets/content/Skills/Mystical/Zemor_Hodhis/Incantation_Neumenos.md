@@ -1,10 +1,10 @@
 ---
-shortcode: pneumenos
+shortcode: neumenos
 name: {full: Incantation Neumenos, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: pneumenos, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: neumenos, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-pneumenos|Rhezin Neumenos]]
+See [[affiliation-neumenos|Rhezin Neumenos]]

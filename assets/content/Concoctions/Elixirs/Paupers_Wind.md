@@ -19,7 +19,7 @@ sohl:
 #   name: Airtap
 ---
 
-Pauper's Wind is a pale, nearly invisible liquid that feels cool against the lips, as if one were tasting the breath itself. Tied to the Principle of Air ([[affiliation-hydalis|Hidalis]]), this elixir grants the imbiber extraordinary lung capacity and metabolic efficiency. Once swallowed, the body's hunger for breath diminishes to half—the imbiber can hold their breath twice as long as an ordinary person—while the fatigue that accumulates from movement and exertion comes at half the normal rate. Swimming, running, climbing: all demand less of the body's reserves.
+Pauper's Wind is a pale, nearly invisible liquid that feels cool against the lips, as if one were tasting the breath itself. Tied to the Principle of Air ([[affiliation-hidalis|Hidalis]]), this elixir grants the imbiber extraordinary lung capacity and metabolic efficiency. Once swallowed, the body's hunger for breath diminishes to half—the imbiber can hold their breath twice as long as an ordinary person—while the fatigue that accumulates from movement and exertion comes at half the normal rate. Swimming, running, climbing: all demand less of the body's reserves.
 
 Yet this gift extracts its toll. The imbiber accrues weariness fatigue equal to their base Aural Shock multiplied by five, a creeping exhaustion that no ordinary rest entirely relieves. The body, granted such efficiency, becomes brittle and worn; the arcane cost manifests as deep-seated fatigue that clouds the days ahead. The elixir's Aural Shock decays with each monthly Decay Roll, and when fully expended, the imbiber's breathlessness and fatigue fade together.
 

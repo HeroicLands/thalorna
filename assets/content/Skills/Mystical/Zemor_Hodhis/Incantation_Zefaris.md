@@ -1,10 +1,10 @@
 ---
-shortcode: zepharis
+shortcode: zefaris
 name: {full: Incantation Zefaris, aliases: []}
 type: skill
 subType: mystical
-tags: [hex-hodai, draft]
-data: {icon: zepharis, templatePriority: null, packFolder: hexhodai}
+tags: [zemor-hodhis, draft]
+data: {icon: zefaris, templatePriority: null, packFolder: zemorhodhis}
 sohl:
   system:
     skillBaseFormula: "@aur, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-zepharis|Rhezin Zefaris]]
+See [[affiliation-zefaris|Rhezin Zefaris]]

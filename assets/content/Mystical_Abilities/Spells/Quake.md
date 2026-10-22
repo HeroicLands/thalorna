@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-tree, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: physera
+    assocSkillCode: fisera
     masteryLevelBase: 0
     levelBase: 2
     charges: {value: null, max: null}
@@ -20,4 +20,4 @@ sohl:
 # duration: Index rounds
 ---
 
-To cast Quake, the caster strikes the ground with a hand, foot, or elemental focus, and a wave of trembling [[affiliation-physera|Fisera]] energy radiates outward from the point of impact, sending a mild but persistent earth tremor rippling Index x 5 feet out. Although the tremor is not powerful enough to damage structures, it forces every moving or standing creature within its radius—except the caster—to make a Stumble Roll at the start of each turn for the spell's duration, with a -20 penalty applied to the check on Critical Success. Moreover, all movement within the affected area becomes Difficult, halving travel speed as the shaking ground makes every step uncertain.
+To cast Quake, the caster strikes the ground with a hand, foot, or elemental focus, and a wave of trembling [[affiliation-fisera|Fisera]] energy radiates outward from the point of impact, sending a mild but persistent earth tremor rippling Index x 5 feet out. Although the tremor is not powerful enough to damage structures, it forces every moving or standing creature within its radius—except the caster—to make a Stumble Roll at the start of each turn for the spell's duration, with a -20 penalty applied to the check on Critical Success. Moreover, all movement within the affected area becomes Difficult, halving travel speed as the shaking ground makes every step uncertain.

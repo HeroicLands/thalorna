@@ -8,7 +8,7 @@ tags: []
 data: {icon: icon-divination, templatePriority: null, packFolder: spells}
 sohl:
   system:
-    assocSkillCode: pneumenos
+    assocSkillCode: neumenos
     masteryLevelBase: 0
     levelBase: 6
     charges: {value: null, max: null}

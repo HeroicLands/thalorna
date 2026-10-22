@@ -1,11 +1,11 @@
 ---
-shortcode: pneumenos
+shortcode: neumenos
 name: {full: Neumenos, aliases: [Rhezin Neumenos, Zulen Neumenos]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
-  icon: pneumenos
+  icon: neumenos
   templatePriority: null
   demonym: null
   epithet: null
@@ -54,16 +54,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [hexhodai]
-  relations: {physera: nemesis, sideros: aligned, pyrethos: aligned}
-  packFolder: affiliationshexhodai
+  parents: [zemorhodhis]
+  relations: {fisera: nemesis, sideris: aligned, pirethos: aligned}
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # thalorna:
 #   school: spirit
 ---
 
-Rhezin **Neumenos** is the current of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite Rhezin [[affiliation-physera|Fisera]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch—the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Neumenos is the most respected, the most feared, and the most closely supervised of the six schools.
+Rhezin **Neumenos** is the current of mind, soul, communion with otherworldly entities, and the immaterial. It occupies the lower-left vertex of the [[affiliation-zemorhodhis|Thizaron]], directly opposite Rhezin [[affiliation-fisera|Fisera]]. Where Earth trusts only what can be touched, Spirit reaches for what lies beyond touch—the unseen architectures of consciousness, the entities that inhabit the spaces between the material and the divine, and the deep structures of will and awareness that underlie all magical practice. Neumenos is the most respected, the most feared, and the most closely supervised of the six schools.
 
 ## Philosophy
 
@@ -71,7 +71,7 @@ The Neumenos mage perceives reality as _layered_—the material world that most 
 
 This philosophy produces practitioners who are intense, introspective, and sometimes deeply unsettling to their colleagues. A Neumenos mage's attention is directed inward as much as outward—they study their own consciousness as rigorously as they study external phenomena, because the mind is both the instrument of perception and the medium through which Spirit magic operates. Self-knowledge is not a luxury for the Spirit mage; it is a survival skill. The forces they work with—entities from beyond the material, the raw stuff of consciousness, the boundaries between self and other—are dangerous precisely because they interact with the mage's own psyche. A Neumenos practitioner who does not know their own mind risks losing it.
 
-The school's signature domains are the most esoteric in [[affiliation-ordoarcanis|Thordimalon]]'s repertoire. Summoning—the calling and binding of entities from beyond the material world—is the most dramatic and most closely regulated. Telepathy and the magic of mental communion allow Spirit mages to touch other minds, share perceptions, and (at the highest levels) influence thought itself. Prophecy—not the water-gazing of Rhezin [[affiliation-hydalis|Hidalis]] but the deeper, more dangerous communion with forces that perceive time differently than mortals—is a Neumenos specialty. And the study of the soul itself—its nature, its relationship to the body, its fate after death—is the school's most controversial pursuit.
+The school's signature domains are the most esoteric in [[affiliation-ordoarcanis|Thordimalon]]'s repertoire. Summoning—the calling and binding of entities from beyond the material world—is the most dramatic and most closely regulated. Telepathy and the magic of mental communion allow Spirit mages to touch other minds, share perceptions, and (at the highest levels) influence thought itself. Prophecy—not the water-gazing of Rhezin [[affiliation-hidalis|Hidalis]] but the deeper, more dangerous communion with forces that perceive time differently than mortals—is a Neumenos specialty. And the study of the soul itself—its nature, its relationship to the body, its fate after death—is the school's most controversial pursuit.
 
 The deeper principle of Neumenos is _the power of the immaterial_. What has no body cannot be destroyed. What has no location cannot be contained. What exists as pure awareness can perceive realities that matter cannot touch. The Spirit mage understands that consciousness is not an epiphenomenon of the material world but a fundamental force—perhaps _the_ fundamental force—and that the mage who masters it masters something more essential than fire or stone.
 
@@ -85,9 +85,9 @@ The wariness between the two Zulethalar (fellowships) is mutual and deep. Fisera
 
 ## Adjacencies
 
-Rhezin Neumenos shares its edges of the Thizaron with Rhezin Fisera and Rhezin [[affiliation-pyrethos|Pirethos]].
+Rhezin Neumenos shares its edges of the Thizaron with Rhezin Fisera and Rhezin [[affiliation-pirethos|Pirethos]].
 
-The sympathy with Rhezin [[affiliation-sideros|Sideris]] is one of _binding and precision_. Both _rheza_ deal in the imposition of order on what resists it—Metal through material craft, Spirit through the binding of wills and entities. A summoning circle is, at its core, a structure of arcane force that contains and constrains an entity that would rather not be contained—and the precision required is pure Sideris craftsmanship, applied to immaterial subjects. The two schools collaborate more than their mutual reserve might suggest: Sideris provides the structural framework, Neumenos provides the understanding of what is being contained. Many of the Order's most powerful wards and containment systems are joint creations of Metal and Spirit practitioners.
+The sympathy with Rhezin [[affiliation-sideris|Sideris]] is one of _binding and precision_. Both _rheza_ deal in the imposition of order on what resists it—Metal through material craft, Spirit through the binding of wills and entities. A summoning circle is, at its core, a structure of arcane force that contains and constrains an entity that would rather not be contained—and the precision required is pure Sideris craftsmanship, applied to immaterial subjects. The two schools collaborate more than their mutual reserve might suggest: Sideris provides the structural framework, Neumenos provides the understanding of what is being contained. Many of the Order's most powerful wards and containment systems are joint creations of Metal and Spirit practitioners.
 
 The sympathy with Rhezin Pirethos is one of _intensity_. Both _rheza_ are willing to push past the boundaries where lesser mages would stop—Pirethos through the application of overwhelming force, Neumenos through the opening of the self to forces beyond ordinary perception. There is a shared quality of daring in the best practitioners of both schools, a recognition that the most powerful magic lies on the far side of a threshold that most people are wise to leave uncrossed. This creates a wary mutual respect. Fire mages admire Spirit mages' courage, even if they find their methods eerie; Spirit mages admire Fire mages' power, even if they find their approach crude.
 
@@ -101,16 +101,16 @@ Politically, the Zulen (fellowship) Neumenos is the most isolated of the six fel
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-physera|Rhezin Fisera]]
+[[affiliation-fisera|Rhezin Fisera]]
 : The opposing _rhezin_
 
-[[affiliation-sideros|Rhezin Sideris]]
+[[affiliation-sideris|Rhezin Sideris]]
 : Adjacent _rhezin_ (binding and precision)
 
-[[affiliation-pyrethos|Rhezin Pirethos]]
+[[affiliation-pirethos|Rhezin Pirethos]]
 : Adjacent _rhezin_ (intensity)
 
 [[affiliation-ordoarcanis|Thordimalon]]

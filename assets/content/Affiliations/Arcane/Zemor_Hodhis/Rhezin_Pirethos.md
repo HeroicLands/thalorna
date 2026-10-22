@@ -1,11 +1,11 @@
 ---
-shortcode: pyrethos
+shortcode: pirethos
 name: {full: Pirethos, aliases: [Rhezin Pirethos, Zulen Pirethos]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
-  icon: pyrethos
+  icon: pirethos
   templatePriority: null
   demonym: null
   epithet: null
@@ -54,16 +54,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [hexhodai]
-  relations: {hydalis: nemesis, zepharis: aligned, pneumenos: aligned}
-  packFolder: affiliationshexhodai
+  parents: [zemorhodhis]
+  relations: {hidalis: nemesis, zefaris: aligned, neumenos: aligned}
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # thalorna:
 #   school: fire
 ---
 
-Rhezin **Pirethos** is the current of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[affiliation-hexhodai|Thizaron]], and its practitioners are among the most visible and politically influential mages within [[affiliation-ordoarcanis|the Order]]. Where other schools work through subtlety, patience, or communion, Pirethos works through _force_—the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
+Rhezin **Pirethos** is the current of heat, light, energy, and transformation through destruction. It occupies the topmost vertex of the [[affiliation-zemorhodhis|Thizaron]], and its practitioners are among the most visible and politically influential mages within [[affiliation-ordoarcanis|the Order]]. Where other schools work through subtlety, patience, or communion, Pirethos works through _force_—the direct application of arcane energy to change the state of the world, usually by burning away what was there before.
 
 ## Philosophy
 
@@ -75,13 +75,13 @@ In practice, however, the Order tends to train its Pirethos mages toward combat 
 
 ## The Opposition: Hidalis
 
-Rhezin Pirethos stands directly opposite Rhezin [[affiliation-hydalis|Hidalis]] on the Thizaron (the Seal), and their opposition is the most viscerally obvious of the three. Fire consumes; Water adapts. Fire releases energy in sudden bursts; Water circulates energy in patient cycles. A Pirethos mage who attempts Water magic finds it maddening—the instinct is always to _push_, to intensify, to force a change, and Hidalis magic demands the opposite: surrender to the current, let the flow carry you, yield where you would resist.
+Rhezin Pirethos stands directly opposite Rhezin [[affiliation-hidalis|Hidalis]] on the Thizaron (the Seal), and their opposition is the most viscerally obvious of the three. Fire consumes; Water adapts. Fire releases energy in sudden bursts; Water circulates energy in patient cycles. A Pirethos mage who attempts Water magic finds it maddening—the instinct is always to _push_, to intensify, to force a change, and Hidalis magic demands the opposite: surrender to the current, let the flow carry you, yield where you would resist.
 
 The rivalry between the two Zulethalar (fellowships) is ancient and personal. Pirethos mages regard Hidalis practitioners as passive, indecisive, and maddeningly willing to let problems resolve themselves. Hidalis mages regard Pirethos practitioners as reckless, destructive, and incapable of solving any problem without setting something on fire. Both characterizations contain enough truth to sting. In chapter councils, the Fire and Water fellowships are almost always on opposite sides of any debate—not because their political interests necessarily diverge, but because their instinctive approaches to _every_ problem are fundamentally incompatible.
 
 ## Adjacencies
 
-Rhezin Pirethos shares its edges of the Thizaron with Rhezin [[affiliation-zepharis|Zefaris]] and Rhezin [[affiliation-pneumenos|Neumenos]].
+Rhezin Pirethos shares its edges of the Thizaron with Rhezin [[affiliation-zefaris|Zefaris]] and Rhezin [[affiliation-neumenos|Neumenos]].
 
 The sympathy with Rhezin Zefaris is one of _dynamism_—both _rheza_ deal in energy, motion, and change. Fire and Air are natural allies: wind feeds flame, and both schools prize action over contemplation. A Pirethos mage learning weather magic or the manipulation of sound finds the underlying principles surprisingly familiar—it is all energy in motion, merely expressed in different media. The two Zulethalar frequently collaborate and form political alliances within the Order.
 
@@ -97,16 +97,16 @@ This meritocratic streak makes the Zulen Pirethos simultaneously one of the most
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-hydalis|Rhezin Hidalis]]
+[[affiliation-hidalis|Rhezin Hidalis]]
 : The opposing _rhezin_
 
-[[affiliation-zepharis|Rhezin Zefaris]]
+[[affiliation-zefaris|Rhezin Zefaris]]
 : Adjacent _rhezin_ (dynamism)
 
-[[affiliation-pneumenos|Rhezin Neumenos]]
+[[affiliation-neumenos|Rhezin Neumenos]]
 : Adjacent _rhezin_ (intensity)
 
 [[affiliation-ordoarcanis|Thordimalon]]

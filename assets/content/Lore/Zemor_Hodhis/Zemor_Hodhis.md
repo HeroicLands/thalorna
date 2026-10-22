@@ -1,9 +1,9 @@
 ---
-shortcode: hexhodai
+shortcode: zemorhodhis
 name: {full: Zemor Hodhis, aliases: [The Six Ways, The Thizaron]}
 type: affiliation
 subType: arcanetradition
-tags: [lore, arcane, hex-hodai, ordo-arcanis]
+tags: [lore, arcane, zemor-hodhis, ordo-arcanis]
 data:
   culture: vylarianclt
   icon: null
@@ -31,7 +31,7 @@ data:
   lore: []
   parents: []
   relations: {}
-  packFolder: affiliationshexhodai
+  packFolder: affiliationszemorhodhis
 ---
 
 ## The Zemor Hodhis (The Six Ways)
@@ -46,7 +46,7 @@ The framework predates the Order. Its roots lie in the Helionite city-states, wh
 
 The six _rheza_ are traditionally represented as a hexagonal diagram known as the **Thizaron** (the Seal), with one _rhezin_ at each vertex. The arrangement is not arbitrary—it encodes the relationships between the _rheza_ in geometric form.
 
-Reading clockwise from the top, the Thizaron (the Seal) places: [[affiliation-pyrethos|Pirethos]] (Fire), [[affiliation-zepharis|Zefaris]] (Air), [[affiliation-physera|Fisera]] (Earth), [[affiliation-hydalis|Hidalis]] (Water), [[affiliation-sideros|Sideris]] (Metal), and [[affiliation-pneumenos|Neumenos]] (Spirit). Each _rhezin_ sits directly opposite its natural antagonist, connected by a line that passes through the center of the figure. At that center sits [[affiliation-kentra|Kentra]]—not a seventh _rhezin_, but the mastery of all six.
+Reading clockwise from the top, the Thizaron (the Seal) places: [[affiliation-pirethos|Pirethos]] (Fire), [[affiliation-zefaris|Zefaris]] (Air), [[affiliation-fisera|Fisera]] (Earth), [[affiliation-hidalis|Hidalis]] (Water), [[affiliation-sideris|Sideris]] (Metal), and [[affiliation-neumenos|Neumenos]] (Spirit). Each _rhezin_ sits directly opposite its natural antagonist, connected by a line that passes through the center of the figure. At that center sits [[affiliation-kentra|Kentra]]—not a seventh _rhezin_, but the mastery of all six.
 
 The Thizaron appears throughout the Order's iconography: carved above chapter house doorways, embossed on the covers of arcane texts, woven into the robes of _marendoi_ (masters), and—most importantly—inscribed on the floor of the great examination hall in [[affiliation-provinclys|Alessa]], where every _kosthemos_ (initiate) first learns which _rhezin_ will claim them.
 
@@ -124,22 +124,22 @@ The Order's response to these objections, when pressed, is pragmatic rather than
 
 ### The Rheza
 
-[[affiliation-pyrethos|Rhezin Pirethos]]
+[[affiliation-pirethos|Rhezin Pirethos]]
 : Fire: heat, light, energy, transformation through destruction
 
-[[affiliation-zepharis|Rhezin Zefaris]]
+[[affiliation-zefaris|Rhezin Zefaris]]
 : Air: wind, weather, sound, illusion, the intangible
 
-[[affiliation-physera|Rhezin Fisera]]
+[[affiliation-fisera|Rhezin Fisera]]
 : Earth: stone, growth, endurance, the body, the solid and rooted
 
-[[affiliation-hydalis|Rhezin Hidalis]]
+[[affiliation-hidalis|Rhezin Hidalis]]
 : Water: cold, flow, healing, transformation through adaptation
 
-[[affiliation-sideros|Rhezin Sideris]]
+[[affiliation-sideris|Rhezin Sideris]]
 : Metal: craft, precision, binding, the material world made orderly
 
-[[affiliation-pneumenos|Rhezin Neumenos]]
+[[affiliation-neumenos|Rhezin Neumenos]]
 : Spirit: mind, soul, communion with otherworldly entities, the immaterial
 
 [[affiliation-kentra|Kentra]]

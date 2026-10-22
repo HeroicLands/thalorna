@@ -1,11 +1,11 @@
 ---
-shortcode: physera
+shortcode: fisera
 name: {full: Fisera, aliases: [Rhezin Fisera, Zulen Fisera]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
-  icon: physera
+  icon: fisera
   templatePriority: null
   demonym: null
   epithet: null
@@ -54,16 +54,16 @@ data:
   population: null
   economy: []
   lore: []
-  parents: [hexhodai]
-  relations: {pneumenos: nemesis, zepharis: aligned, hydalis: aligned}
-  packFolder: affiliationshexhodai
+  parents: [zemorhodhis]
+  relations: {neumenos: nemesis, zefaris: aligned, hidalis: aligned}
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # thalorna:
 #   school: earth
 ---
 
-**Fisera** is the current of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[affiliation-hexhodai|Thizaron]], directly opposite [[affiliation-pneumenos|Neumenos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Rhezin Fisera is the largest of the six Zulethalar (fellowships) by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
+**Fisera** is the current of stone, growth, endurance, the body, and all that is solid and rooted. It occupies the right vertex of the [[affiliation-zemorhodhis|Thizaron]], directly opposite [[affiliation-neumenos|Neumenos]]. Where Spirit reaches beyond the material, Earth insists on the primacy of what can be touched, tasted, grown, and built. Rhezin Fisera is the largest of the six Zulethalar (fellowships) by membership—a fact its practitioners regard as entirely appropriate, since most of the world is, after all, made of earth.
 
 ## Philosophy
 
@@ -85,7 +85,7 @@ The tension is sharpest in the College of Alchemy, where Fisera's material scien
 
 ## Adjacencies
 
-Fisera shares its edges of the Thizaron with [[affiliation-zepharis|Zefaris]] and [[affiliation-hydalis|Hidalis]].
+Fisera shares its edges of the Thizaron with [[affiliation-zefaris|Zefaris]] and [[affiliation-hidalis|Hidalis]].
 
 The sympathy with Zefaris is the natural world itself. Earth and Air are the ground and the sky—inseparable in shaping the environments where life exists. A Fisera mage studying soil composition and a Zefaris mage studying rainfall patterns are examining the same ecological system from complementary angles. Their collaboration is most productive in agricultural magic, weather prediction, and the understanding of landscapes and natural hazards. The partnership is quietly one of the most practically valuable in the Order's repertoire, even if it lacks the dramatic flair of Fire-Air combinations.
 
@@ -97,20 +97,20 @@ The **Zulen Fisera**—the Fellowship of Earth—is the largest of the six Zulet
 
 The fellowship's internal culture prizes reliability, deep knowledge, and long service. Advancement is slow and seniority-weighted; the Zulen (fellowship) has little patience for prodigies who have not yet demonstrated that their brilliance is matched by steadiness. A Fisera _marendos_ (master) who has spent forty years perfecting the alchemical processes of a single chapter's laboratory commands immense respect within the fellowship—more, perhaps, than a younger mage of greater raw talent who has not yet proven their endurance.
 
-Politically, the Zulen Fisera is a stabilizing force within the Order. Its members instinctively resist sudden change, defend established practices, and prioritize institutional continuity over reform. This conservatism makes the fellowship a natural ally of [[affiliation-sideros|Sideris]] in most governance debates, and the Earth-Metal bloc is the Order's most formidable obstacle to any faction that proposes rapid institutional change. Critics describe this as reactionary; the fellowship's members describe it as responsible stewardship of an institution that has survived for centuries by not rushing into things.
+Politically, the Zulen Fisera is a stabilizing force within the Order. Its members instinctively resist sudden change, defend established practices, and prioritize institutional continuity over reform. This conservatism makes the fellowship a natural ally of [[affiliation-sideris|Sideris]] in most governance debates, and the Earth-Metal bloc is the Order's most formidable obstacle to any faction that proposes rapid institutional change. Critics describe this as reactionary; the fellowship's members describe it as responsible stewardship of an institution that has survived for centuries by not rushing into things.
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-pneumenos|Rhezin Neumenos]]
+[[affiliation-neumenos|Rhezin Neumenos]]
 : The opposing _rhezin_
 
-[[affiliation-zepharis|Rhezin Zefaris]]
+[[affiliation-zefaris|Rhezin Zefaris]]
 : Adjacent _rhezin_ (the natural world)
 
-[[affiliation-hydalis|Rhezin Hidalis]]
+[[affiliation-hidalis|Rhezin Hidalis]]
 : Adjacent _rhezin_ (sustenance and growth)
 
 [[affiliation-ordoarcanis|Thordimalon]]

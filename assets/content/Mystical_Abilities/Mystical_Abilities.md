@@ -12,7 +12,7 @@ data: {banner: packagebuild-none-image-mysticalabilitybnr}
 
 Arcane incantations are divided by tradition.
 
-- [[affiliation-hexhodai|Zemor Hodhis]]
+- [[affiliation-zemorhodhis|Zemor Hodhis]]
 
 ### Incantation Hidalis
 
@@ -23,7 +23,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'hydalis'
+  AND sohl.system.assocSkillCode = 'hidalis'
 ORDER BY name.full COLLATE NOCASE
 ```
 
@@ -49,7 +49,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'pneumenos'
+  AND sohl.system.assocSkillCode = 'neumenos'
 ORDER BY name.full COLLATE NOCASE
 ```
 
@@ -62,7 +62,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'physera'
+  AND sohl.system.assocSkillCode = 'fisera'
 ORDER BY name.full COLLATE NOCASE
 ```
 
@@ -75,7 +75,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'pyrethos'
+  AND sohl.system.assocSkillCode = 'pirethos'
 ORDER BY name.full COLLATE NOCASE
 ```
 
@@ -88,7 +88,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'sideros'
+  AND sohl.system.assocSkillCode = 'sideris'
 ORDER BY name.full COLLATE NOCASE
 ```
 
@@ -101,7 +101,7 @@ SELECT address.slug AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'zepharis'
+  AND sohl.system.assocSkillCode = 'zefaris'
 ORDER BY name.full COLLATE NOCASE
 ```
 

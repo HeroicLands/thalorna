@@ -1,10 +1,10 @@
 ---
-shortcode: hxhdncnttns
+shortcode: zmrhdhsncnttns
 name: {full: Zemor Hodhis Incantations, aliases: []}
 type: lore
 subType: arcana
-tags: [lore, arcane, hex-hodai, draft]
-data: {packFolder: affiliationshexhodai, culture: vylarianclt}
+tags: [lore, arcane, zemor-hodhis, draft]
+data: {packFolder: affiliationszemorhodhis, culture: vylarianclt}
 ---
 
 ## Pirethos (Fire)
@@ -17,7 +17,7 @@ SELECT address.slug          AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'pyrethos'
+  AND sohl.system.assocSkillCode = 'pirethos'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
@@ -31,7 +31,7 @@ SELECT address.slug          AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'zepharis'
+  AND sohl.system.assocSkillCode = 'zefaris'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
@@ -45,7 +45,7 @@ SELECT address.slug          AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'physera'
+  AND sohl.system.assocSkillCode = 'fisera'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
@@ -59,7 +59,7 @@ SELECT address.slug          AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'hydalis'
+  AND sohl.system.assocSkillCode = 'hidalis'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
@@ -73,7 +73,7 @@ SELECT address.slug          AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'sideros'
+  AND sohl.system.assocSkillCode = 'sideris'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
@@ -87,7 +87,7 @@ SELECT address.slug          AS _ref,
 FROM notes
 WHERE type = 'mysticalability'
   AND subType = 'arcaneincantation'
-  AND sohl.system.assocSkillCode = 'pneumenos'
+  AND sohl.system.assocSkillCode = 'neumenos'
 ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 ```
 
@@ -107,4 +107,4 @@ ORDER BY sohl.system.levelBase, name.full COLLATE NOCASE
 
 ## See Also
 
-- [[affiliation-hexhodai|Zemor Hodhis]]
+- [[affiliation-zemorhodhis|Zemor Hodhis]]

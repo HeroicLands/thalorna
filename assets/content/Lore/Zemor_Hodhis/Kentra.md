@@ -3,7 +3,7 @@ shortcode: kentra
 name: {full: Kentra, aliases: [The Centre, The Centred]}
 type: affiliation
 subType: arcanetradition
-tags: [hex-hodai]
+tags: [zemor-hodhis]
 data:
   culture: vylarianclt
   icon: kentra
@@ -57,7 +57,7 @@ data:
   lore: []
   parents: []
   relations: {}
-  packFolder: affiliationshexhodai
+  packFolder: affiliationszemorhodhis
 sohl: {system: {commonSkills: []}}
 
 # school: center
@@ -65,11 +65,11 @@ sohl: {system: {commonSkills: []}}
 # opposition: none
 ---
 
-**Kentra** is not a seventh _rhezin_ (current) of the [[affiliation-hexhodai|Zemor Hodhis]] but the _mastery_ of all six. Kentra mages stand at the center of the [[affiliation-hexhodai|Thizaron]], able to attune to and work magic across all six _rheza_ with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Order]], and among the most powerful. Within Order cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
+**Kentra** is not a seventh _rhezin_ (current) of the [[affiliation-zemorhodhis|Zemor Hodhis]] but the _mastery_ of all six. Kentra mages stand at the center of the [[affiliation-zemorhodhis|Thizaron]], able to attune to and work magic across all six _rheza_ with equal facility. They are the rarest practitioners in the [[affiliation-ordoarcanis|Order]], and among the most powerful. Within Order cosmology, they represent the pinnacle of arcane achievement: the mage who has mastered every form magic can take.
 
 ## The Nature of Kentra
 
-Every mage in the Order begins their training within a single _rhezin_. The Zemor Hodhis is structured this way deliberately: by attuning a student to a single current of the [[affiliation-hexhodai#dynaris-and-morphis|Dynaris]], the framework accelerates their mastery of that _rhezin_'s principles and Morfís. A [[affiliation-pyrethos|Pirethos]] mage learns faster because they are learning _one thing deeply_, not six things shallowly. The trade-off is well understood—the student gains mastery of their _rhezin_ at the cost of increasing alienation from the opposing _rhezin_—and the Order considers this an acceptable bargain. Most mages spend their entire careers within the _rhezin_ that claimed them as _kosthemoi_ (initiates), and most are content to do so.
+Every mage in the Order begins their training within a single _rhezin_. The Zemor Hodhis is structured this way deliberately: by attuning a student to a single current of the [[affiliation-zemorhodhis#dynaris-and-morphis|Dynaris]], the framework accelerates their mastery of that _rhezin_'s principles and Morfís. A [[affiliation-pirethos|Pirethos]] mage learns faster because they are learning _one thing deeply_, not six things shallowly. The trade-off is well understood—the student gains mastery of their _rhezin_ at the cost of increasing alienation from the opposing _rhezin_—and the Order considers this an acceptable bargain. Most mages spend their entire careers within the _rhezin_ that claimed them as _kosthemoi_ (initiates), and most are content to do so.
 
 But a few are not content, and a very few are _capable_ of something more. Over years or decades of practice, certain mages begin to extend their attunement—first to an adjacent _rhezin_ whose current shares qualities with their own, then to a second, then in rare cases to all six. Each extension is the work of years. Each requires the mage to learn a new repertoire of Morfís, to develop sensitivity to a current they have spent their career learning to ignore, and to hold the new attunement without losing the old. Most who attempt the work fail at one or another stage, settling into a partial mastery that the Order respects but does not consider Kentra. A very few succeed entirely, achieving fluency across the full Thizaron (the Seal).
 
@@ -148,25 +148,25 @@ A few have escaped. A very few have found their way to foreign teachers. What be
 
 ## See Also
 
-[[affiliation-hexhodai|Zemor Hodhis]]
+[[affiliation-zemorhodhis|Zemor Hodhis]]
 : The Zemor Hodhis framework
 
-[[affiliation-pyrethos|Rhezin Pirethos]]
+[[affiliation-pirethos|Rhezin Pirethos]]
 : Fire
 
-[[affiliation-hydalis|Rhezin Hidalis]]
+[[affiliation-hidalis|Rhezin Hidalis]]
 : Water
 
-[[affiliation-zepharis|Rhezin Zefaris]]
+[[affiliation-zefaris|Rhezin Zefaris]]
 : Air
 
-[[affiliation-physera|Rhezin Fisera]]
+[[affiliation-fisera|Rhezin Fisera]]
 : Earth
 
-[[affiliation-sideros|Rhezin Sideris]]
+[[affiliation-sideris|Rhezin Sideris]]
 : Metal
 
-[[affiliation-pneumenos|Rhezin Neumenos]]
+[[affiliation-neumenos|Rhezin Neumenos]]
 : Spirit
 
 [[affiliation-ordoarcanis|Thordimalon]]
