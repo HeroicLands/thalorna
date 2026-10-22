@@ -7,7 +7,7 @@ data:
   packFolder: languages
   map:
     name: semaron
-    vowels: "aeiouAEIOUáéíóúÁÉÍÓÚ"
+    vowels: "aeiouëAEIOUËáéíóúÁÉÍÓÚ"
     rows:
       - ["a", "󰈰"] # U+F0230
       - ["A", "󰈀"] # U+F0200
@@ -16,7 +16,9 @@ data:
       - ["d", "󰈲"] # U+F0232
       - ["D", "󰈂"] # U+F0202
       - ["e", "󰈳"] # U+F0233
+      - ["ë", "󰈳"] # U+F0233
       - ["E", "󰈃"] # U+F0203
+      - ["Ë", "󰈃"] # U+F0203
       - ["f", "󰈴"] # U+F0234
       - ["F", "󰈄"] # U+F0204
       - ["g", "󰈵"] # U+F0235
@@ -165,6 +167,7 @@ Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **The catch** (`'`, `’`, a grave accent or a hyphen) is a mark set over the letter before it. With no letter before it, it prints the box.
 - **Every pause** (`.`, `,`, `;`, `:` and both dashes) is the one point.
 - **The numerals** 0 to 9 are the Semaron numerals.
+- **_ë_ is the letter _e_.**
 - **_q_ is the letter _k_.** The script has no _q_, so a foreign name keeps its roman spelling and is written with _k_: _Meqes_ is written as _Mekes_.
 
 _c_, _x_ and any other character the script lacks pass through unchanged, and the face prints the box for them.

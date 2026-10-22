@@ -37,7 +37,9 @@ data:
       - ["b", "𞨑"] # U+1EA11
       - ["B", "𞨑"] # U+1EA11
       - ["f", "𞨒"] # U+1EA12
+      - ["v", "𞨒"] # U+1EA12
       - ["F", "𞨒"] # U+1EA12
+      - ["V", "𞨒"] # U+1EA12
       - ["w", "𞨓"] # U+1EA13
       - ["W", "𞨓"] # U+1EA13
       - ["y", "𞨔"] # U+1EA14
@@ -59,6 +61,8 @@ data:
       - ["Gh", "𞨍"] # U+1EA0D
       - ["GH", "𞨍"] # U+1EA0D
       - ["ch", "𞨖"] # U+1EA16
+      - ["J", "𞨖"] # U+1EA16
+      - ["j", "𞨖"] # U+1EA16
       - ["cH", "𞨖"] # U+1EA16
       - ["Ch", "𞨖"] # U+1EA16
       - ["CH", "𞨖"] # U+1EA16
@@ -123,9 +127,21 @@ data:
       - ["Bb", "𞨨"] # U+1EA28
       - ["BB", "𞨨"] # U+1EA28
       - ["ff", "𞨩"] # U+1EA29
+      - ["fv", "𞨩"] # U+1EA29
+      - ["vf", "𞨩"] # U+1EA29
+      - ["vv", "𞨩"] # U+1EA29
       - ["fF", "𞨩"] # U+1EA29
+      - ["fV", "𞨩"] # U+1EA29
+      - ["vF", "𞨩"] # U+1EA29
+      - ["vV", "𞨩"] # U+1EA29
       - ["Ff", "𞨩"] # U+1EA29
+      - ["Fv", "𞨩"] # U+1EA29
+      - ["Vf", "𞨩"] # U+1EA29
+      - ["Vv", "𞨩"] # U+1EA29
       - ["FF", "𞨩"] # U+1EA29
+      - ["FV", "𞨩"] # U+1EA29
+      - ["VF", "𞨩"] # U+1EA29
+      - ["VV", "𞨩"] # U+1EA29
       - ["ww", "𞨪"] # U+1EA2A
       - ["wW", "𞨪"] # U+1EA2A
       - ["Ww", "𞨪"] # U+1EA2A
@@ -167,6 +183,10 @@ data:
       - ["GGh", "𞨤"] # U+1EA24
       - ["GGH", "𞨤"] # U+1EA24
       - ["cch", "𞨬"] # U+1EA2C
+      - ["JJ", "𞨬"] # U+1EA2C
+      - ["Jj", "𞨬"] # U+1EA2C
+      - ["jJ", "𞨬"] # U+1EA2C
+      - ["jj", "𞨬"] # U+1EA2C
       - ["ccH", "𞨬"] # U+1EA2C
       - ["cCh", "𞨬"] # U+1EA2C
       - ["cCH", "𞨬"] # U+1EA2C
@@ -247,25 +267,49 @@ data:
       - ["GHGh", "𞨤"] # U+1EA24
       - ["GHGH", "𞨤"] # U+1EA24
       - ["chch", "𞨬"] # U+1EA2C
+      - ["Jch", "𞨬"] # U+1EA2C
+      - ["chJ", "𞨬"] # U+1EA2C
+      - ["chj", "𞨬"] # U+1EA2C
+      - ["jch", "𞨬"] # U+1EA2C
       - ["chcH", "𞨬"] # U+1EA2C
+      - ["JcH", "𞨬"] # U+1EA2C
+      - ["jcH", "𞨬"] # U+1EA2C
       - ["chCh", "𞨬"] # U+1EA2C
+      - ["JCh", "𞨬"] # U+1EA2C
+      - ["jCh", "𞨬"] # U+1EA2C
       - ["chCH", "𞨬"] # U+1EA2C
+      - ["JCH", "𞨬"] # U+1EA2C
+      - ["jCH", "𞨬"] # U+1EA2C
       - ["cHch", "𞨬"] # U+1EA2C
+      - ["cHJ", "𞨬"] # U+1EA2C
+      - ["cHj", "𞨬"] # U+1EA2C
       - ["cHcH", "𞨬"] # U+1EA2C
       - ["cHCh", "𞨬"] # U+1EA2C
       - ["cHCH", "𞨬"] # U+1EA2C
       - ["Chch", "𞨬"] # U+1EA2C
+      - ["ChJ", "𞨬"] # U+1EA2C
+      - ["Chj", "𞨬"] # U+1EA2C
       - ["ChcH", "𞨬"] # U+1EA2C
       - ["ChCh", "𞨬"] # U+1EA2C
       - ["ChCH", "𞨬"] # U+1EA2C
       - ["CHch", "𞨬"] # U+1EA2C
+      - ["CHJ", "𞨬"] # U+1EA2C
+      - ["CHj", "𞨬"] # U+1EA2C
       - ["CHcH", "𞨬"] # U+1EA2C
       - ["CHCh", "𞨬"] # U+1EA2C
       - ["CHCH", "𞨬"] # U+1EA2C
       - ["chtj", "𞨬"] # U+1EA2C
+      - ["Jtj", "𞨬"] # U+1EA2C
+      - ["jtj", "𞨬"] # U+1EA2C
       - ["chtJ", "𞨬"] # U+1EA2C
+      - ["JtJ", "𞨬"] # U+1EA2C
+      - ["jtJ", "𞨬"] # U+1EA2C
       - ["chTj", "𞨬"] # U+1EA2C
+      - ["JTj", "𞨬"] # U+1EA2C
+      - ["jTj", "𞨬"] # U+1EA2C
       - ["chTJ", "𞨬"] # U+1EA2C
+      - ["JTJ", "𞨬"] # U+1EA2C
+      - ["jTJ", "𞨬"] # U+1EA2C
       - ["cHtj", "𞨬"] # U+1EA2C
       - ["cHtJ", "𞨬"] # U+1EA2C
       - ["cHTj", "𞨬"] # U+1EA2C
@@ -279,18 +323,26 @@ data:
       - ["CHTj", "𞨬"] # U+1EA2C
       - ["CHTJ", "𞨬"] # U+1EA2C
       - ["tjch", "𞨬"] # U+1EA2C
+      - ["tjJ", "𞨬"] # U+1EA2C
+      - ["tjj", "𞨬"] # U+1EA2C
       - ["tjcH", "𞨬"] # U+1EA2C
       - ["tjCh", "𞨬"] # U+1EA2C
       - ["tjCH", "𞨬"] # U+1EA2C
       - ["tJch", "𞨬"] # U+1EA2C
+      - ["tJJ", "𞨬"] # U+1EA2C
+      - ["tJj", "𞨬"] # U+1EA2C
       - ["tJcH", "𞨬"] # U+1EA2C
       - ["tJCh", "𞨬"] # U+1EA2C
       - ["tJCH", "𞨬"] # U+1EA2C
       - ["Tjch", "𞨬"] # U+1EA2C
+      - ["TjJ", "𞨬"] # U+1EA2C
+      - ["Tjj", "𞨬"] # U+1EA2C
       - ["TjcH", "𞨬"] # U+1EA2C
       - ["TjCh", "𞨬"] # U+1EA2C
       - ["TjCH", "𞨬"] # U+1EA2C
       - ["TJch", "𞨬"] # U+1EA2C
+      - ["TJJ", "𞨬"] # U+1EA2C
+      - ["TJj", "𞨬"] # U+1EA2C
       - ["TJcH", "𞨬"] # U+1EA2C
       - ["TJCh", "𞨬"] # U+1EA2C
       - ["TJCH", "𞨬"] # U+1EA2C
@@ -395,9 +447,13 @@ data:
       - {from: "A", to: "𞨕", at: start} # U+1EA15
       - ["A", ""]
       - {from: "e", to: "𞨕", at: start} # U+1EA15
+      - {from: "ë", to: "𞨕", at: start} # U+1EA15
       - ["e", ""]
+      - ["ë", ""]
       - {from: "E", to: "𞨕", at: start} # U+1EA15
+      - {from: "Ë", to: "𞨕", at: start} # U+1EA15
       - ["E", ""]
+      - ["Ë", ""]
       - {from: "i", to: "𞨕", at: start} # U+1EA15
       - ["i", ""]
       - {from: "I", to: "𞨕", at: start} # U+1EA15
@@ -414,7 +470,9 @@ data:
       - ["'a", "𞨕"] # U+1EA15
       - ["'A", "𞨕"] # U+1EA15
       - ["'e", "𞨕"] # U+1EA15
+      - ["'ë", "𞨕"] # U+1EA15
       - ["'E", "𞨕"] # U+1EA15
+      - ["'Ë", "𞨕"] # U+1EA15
       - ["'i", "𞨕"] # U+1EA15
       - ["'I", "𞨕"] # U+1EA15
       - ["'o", "𞨕"] # U+1EA15
@@ -425,7 +483,9 @@ data:
       - ["’a", "𞨕"] # U+1EA15
       - ["’A", "𞨕"] # U+1EA15
       - ["’e", "𞨕"] # U+1EA15
+      - ["’ë", "𞨕"] # U+1EA15
       - ["’E", "𞨕"] # U+1EA15
+      - ["’Ë", "𞨕"] # U+1EA15
       - ["’i", "𞨕"] # U+1EA15
       - ["’I", "𞨕"] # U+1EA15
       - ["’o", "𞨕"] # U+1EA15
@@ -461,7 +521,9 @@ data:
       - ["'b", "𞳑"] # U+1ECD1
       - ["'B", "𞳑"] # U+1ECD1
       - ["'f", "𞳒"] # U+1ECD2
+      - ["'v", "𞳒"] # U+1ECD2
       - ["'F", "𞳒"] # U+1ECD2
+      - ["'V", "𞳒"] # U+1ECD2
       - ["'w", "𞳓"] # U+1ECD3
       - ["'W", "𞳓"] # U+1ECD3
       - ["'y", "𞳔"] # U+1ECD4
@@ -475,6 +537,8 @@ data:
       - ["'gh", "𞳍"] # U+1ECCD
       - ["'Gh", "𞳍"] # U+1ECCD
       - ["'ch", "𞳕"] # U+1ECD5
+      - ["'J", "𞳕"] # U+1ECD5
+      - ["'j", "𞳕"] # U+1ECD5
       - ["'Ch", "𞳕"] # U+1ECD5
       - ["'tj", "𞳕"] # U+1ECD5
       - ["'Tj", "𞳕"] # U+1ECD5
@@ -507,7 +571,13 @@ data:
       - ["'bb", "𞳧"] # U+1ECE7
       - ["'Bb", "𞳧"] # U+1ECE7
       - ["'ff", "𞳨"] # U+1ECE8
+      - ["'fv", "𞳨"] # U+1ECE8
+      - ["'vf", "𞳨"] # U+1ECE8
+      - ["'vv", "𞳨"] # U+1ECE8
       - ["'Ff", "𞳨"] # U+1ECE8
+      - ["'Fv", "𞳨"] # U+1ECE8
+      - ["'Vf", "𞳨"] # U+1ECE8
+      - ["'Vv", "𞳨"] # U+1ECE8
       - ["'ww", "𞳩"] # U+1ECE9
       - ["'Ww", "𞳩"] # U+1ECE9
       - ["'yy", "𞳪"] # U+1ECEA
@@ -521,6 +591,10 @@ data:
       - ["'ggh", "𞳣"] # U+1ECE3
       - ["'Ggh", "𞳣"] # U+1ECE3
       - ["'cch", "𞳫"] # U+1ECEB
+      - ["'JJ", "𞳫"] # U+1ECEB
+      - ["'Jj", "𞳫"] # U+1ECEB
+      - ["'jJ", "𞳫"] # U+1ECEB
+      - ["'jj", "𞳫"] # U+1ECEB
       - ["'Cch", "𞳫"] # U+1ECEB
       - ["'ttj", "𞳫"] # U+1ECEB
       - ["'Ttj", "𞳫"] # U+1ECEB
@@ -533,11 +607,23 @@ data:
       - ["'ghgh", "𞳣"] # U+1ECE3
       - ["'Ghgh", "𞳣"] # U+1ECE3
       - ["'chch", "𞳫"] # U+1ECEB
+      - ["'Jch", "𞳫"] # U+1ECEB
+      - ["'chJ", "𞳫"] # U+1ECEB
+      - ["'chj", "𞳫"] # U+1ECEB
+      - ["'jch", "𞳫"] # U+1ECEB
       - ["'Chch", "𞳫"] # U+1ECEB
+      - ["'ChJ", "𞳫"] # U+1ECEB
+      - ["'Chj", "𞳫"] # U+1ECEB
       - ["'chtj", "𞳫"] # U+1ECEB
+      - ["'Jtj", "𞳫"] # U+1ECEB
+      - ["'jtj", "𞳫"] # U+1ECEB
       - ["'Chtj", "𞳫"] # U+1ECEB
       - ["'tjch", "𞳫"] # U+1ECEB
+      - ["'tjJ", "𞳫"] # U+1ECEB
+      - ["'tjj", "𞳫"] # U+1ECEB
       - ["'Tjch", "𞳫"] # U+1ECEB
+      - ["'TjJ", "𞳫"] # U+1ECEB
+      - ["'Tjj", "𞳫"] # U+1ECEB
       - ["'tjtj", "𞳫"] # U+1ECEB
       - ["'Tjtj", "𞳫"] # U+1ECEB
       - ["'ttth", "𞳂𞨠"] # U+1ECC2 U+1EA20
@@ -579,7 +665,9 @@ data:
       - ["'ab", "𞳑"] # U+1ECD1
       - ["'Ab", "𞳑"] # U+1ECD1
       - ["'af", "𞳒"] # U+1ECD2
+      - ["'av", "𞳒"] # U+1ECD2
       - ["'Af", "𞳒"] # U+1ECD2
+      - ["'Av", "𞳒"] # U+1ECD2
       - ["'aw", "𞳓"] # U+1ECD3
       - ["'Aw", "𞳓"] # U+1ECD3
       - ["'ay", "𞳔"] # U+1ECD4
@@ -593,55 +681,117 @@ data:
       - ["'agh", "𞳍"] # U+1ECCD
       - ["'Agh", "𞳍"] # U+1ECCD
       - ["'ach", "𞳕"] # U+1ECD5
+      - ["'aJ", "𞳕"] # U+1ECD5
+      - ["'aj", "𞳕"] # U+1ECD5
       - ["'Ach", "𞳕"] # U+1ECD5
+      - ["'AJ", "𞳕"] # U+1ECD5
+      - ["'Aj", "𞳕"] # U+1ECD5
       - ["'atj", "𞳕"] # U+1ECD5
       - ["'Atj", "𞳕"] # U+1ECD5
       - ["'el", "𞳀"] # U+1ECC0
+      - ["'ël", "𞳀"] # U+1ECC0
       - ["'El", "𞳀"] # U+1ECC0
+      - ["'Ël", "𞳀"] # U+1ECC0
       - ["'er", "𞳁"] # U+1ECC1
+      - ["'ër", "𞳁"] # U+1ECC1
       - ["'Er", "𞳁"] # U+1ECC1
+      - ["'Ër", "𞳁"] # U+1ECC1
       - ["'et", "𞳂"] # U+1ECC2
+      - ["'ët", "𞳂"] # U+1ECC2
       - ["'Et", "𞳂"] # U+1ECC2
+      - ["'Ët", "𞳂"] # U+1ECC2
       - ["'ed", "𞳃"] # U+1ECC3
+      - ["'ëd", "𞳃"] # U+1ECC3
       - ["'Ed", "𞳃"] # U+1ECC3
+      - ["'Ëd", "𞳃"] # U+1ECC3
       - ["'ez", "𞳄"] # U+1ECC4
+      - ["'ëz", "𞳄"] # U+1ECC4
       - ["'Ez", "𞳄"] # U+1ECC4
+      - ["'Ëz", "𞳄"] # U+1ECC4
       - ["'es", "𞳅"] # U+1ECC5
+      - ["'ës", "𞳅"] # U+1ECC5
       - ["'Es", "𞳅"] # U+1ECC5
+      - ["'Ës", "𞳅"] # U+1ECC5
       - ["'eg", "𞳆"] # U+1ECC6
+      - ["'ëg", "𞳆"] # U+1ECC6
       - ["'Eg", "𞳆"] # U+1ECC6
+      - ["'Ëg", "𞳆"] # U+1ECC6
       - ["'ek", "𞳇"] # U+1ECC7
+      - ["'ëk", "𞳇"] # U+1ECC7
       - ["'Ek", "𞳇"] # U+1ECC7
+      - ["'Ëk", "𞳇"] # U+1ECC7
       - ["'en", "𞳈"] # U+1ECC8
+      - ["'ën", "𞳈"] # U+1ECC8
       - ["'En", "𞳈"] # U+1ECC8
+      - ["'Ën", "𞳈"] # U+1ECC8
       - ["'em", "𞳊"] # U+1ECCA
+      - ["'ëm", "𞳊"] # U+1ECCA
       - ["'Em", "𞳊"] # U+1ECCA
+      - ["'Ëm", "𞳊"] # U+1ECCA
       - ["'eq", "𞳋"] # U+1ECCB
+      - ["'ëq", "𞳋"] # U+1ECCB
       - ["'Eq", "𞳋"] # U+1ECCB
+      - ["'Ëq", "𞳋"] # U+1ECCB
       - ["'eh", "𞳎"] # U+1ECCE
+      - ["'ëh", "𞳎"] # U+1ECCE
       - ["'Eh", "𞳎"] # U+1ECCE
+      - ["'Ëh", "𞳎"] # U+1ECCE
       - ["'ep", "𞳐"] # U+1ECD0
+      - ["'ëp", "𞳐"] # U+1ECD0
       - ["'Ep", "𞳐"] # U+1ECD0
+      - ["'Ëp", "𞳐"] # U+1ECD0
       - ["'eb", "𞳑"] # U+1ECD1
+      - ["'ëb", "𞳑"] # U+1ECD1
       - ["'Eb", "𞳑"] # U+1ECD1
+      - ["'Ëb", "𞳑"] # U+1ECD1
       - ["'ef", "𞳒"] # U+1ECD2
+      - ["'ev", "𞳒"] # U+1ECD2
+      - ["'ëf", "𞳒"] # U+1ECD2
+      - ["'ëv", "𞳒"] # U+1ECD2
       - ["'Ef", "𞳒"] # U+1ECD2
+      - ["'Ev", "𞳒"] # U+1ECD2
+      - ["'Ëf", "𞳒"] # U+1ECD2
+      - ["'Ëv", "𞳒"] # U+1ECD2
       - ["'ew", "𞳓"] # U+1ECD3
+      - ["'ëw", "𞳓"] # U+1ECD3
       - ["'Ew", "𞳓"] # U+1ECD3
+      - ["'Ëw", "𞳓"] # U+1ECD3
       - ["'ey", "𞳔"] # U+1ECD4
+      - ["'ëy", "𞳔"] # U+1ECD4
       - ["'Ey", "𞳔"] # U+1ECD4
+      - ["'Ëy", "𞳔"] # U+1ECD4
       - ["'eth", "𞳉"] # U+1ECC9
+      - ["'ëth", "𞳉"] # U+1ECC9
       - ["'Eth", "𞳉"] # U+1ECC9
+      - ["'Ëth", "𞳉"] # U+1ECC9
       - ["'esh", "𞳏"] # U+1ECCF
+      - ["'ësh", "𞳏"] # U+1ECCF
       - ["'Esh", "𞳏"] # U+1ECCF
+      - ["'Ësh", "𞳏"] # U+1ECCF
       - ["'ekh", "𞳌"] # U+1ECCC
+      - ["'ëkh", "𞳌"] # U+1ECCC
       - ["'Ekh", "𞳌"] # U+1ECCC
+      - ["'Ëkh", "𞳌"] # U+1ECCC
       - ["'egh", "𞳍"] # U+1ECCD
+      - ["'ëgh", "𞳍"] # U+1ECCD
       - ["'Egh", "𞳍"] # U+1ECCD
+      - ["'Ëgh", "𞳍"] # U+1ECCD
       - ["'ech", "𞳕"] # U+1ECD5
+      - ["'eJ", "𞳕"] # U+1ECD5
+      - ["'ej", "𞳕"] # U+1ECD5
+      - ["'ëJ", "𞳕"] # U+1ECD5
+      - ["'ëch", "𞳕"] # U+1ECD5
+      - ["'ëj", "𞳕"] # U+1ECD5
       - ["'Ech", "𞳕"] # U+1ECD5
+      - ["'EJ", "𞳕"] # U+1ECD5
+      - ["'Ej", "𞳕"] # U+1ECD5
+      - ["'ËJ", "𞳕"] # U+1ECD5
+      - ["'Ëch", "𞳕"] # U+1ECD5
+      - ["'Ëj", "𞳕"] # U+1ECD5
       - ["'etj", "𞳕"] # U+1ECD5
+      - ["'ëtj", "𞳕"] # U+1ECD5
       - ["'Etj", "𞳕"] # U+1ECD5
+      - ["'Ëtj", "𞳕"] # U+1ECD5
       - ["'il", "𞳀"] # U+1ECC0
       - ["'Il", "𞳀"] # U+1ECC0
       - ["'ir", "𞳁"] # U+1ECC1
@@ -671,7 +821,9 @@ data:
       - ["'ib", "𞳑"] # U+1ECD1
       - ["'Ib", "𞳑"] # U+1ECD1
       - ["'if", "𞳒"] # U+1ECD2
+      - ["'iv", "𞳒"] # U+1ECD2
       - ["'If", "𞳒"] # U+1ECD2
+      - ["'Iv", "𞳒"] # U+1ECD2
       - ["'iw", "𞳓"] # U+1ECD3
       - ["'Iw", "𞳓"] # U+1ECD3
       - ["'iy", "𞳔"] # U+1ECD4
@@ -685,7 +837,11 @@ data:
       - ["'igh", "𞳍"] # U+1ECCD
       - ["'Igh", "𞳍"] # U+1ECCD
       - ["'ich", "𞳕"] # U+1ECD5
+      - ["'iJ", "𞳕"] # U+1ECD5
+      - ["'ij", "𞳕"] # U+1ECD5
       - ["'Ich", "𞳕"] # U+1ECD5
+      - ["'IJ", "𞳕"] # U+1ECD5
+      - ["'Ij", "𞳕"] # U+1ECD5
       - ["'itj", "𞳕"] # U+1ECD5
       - ["'Itj", "𞳕"] # U+1ECD5
       - ["'ol", "𞳀"] # U+1ECC0
@@ -717,7 +873,9 @@ data:
       - ["'ob", "𞳑"] # U+1ECD1
       - ["'Ob", "𞳑"] # U+1ECD1
       - ["'of", "𞳒"] # U+1ECD2
+      - ["'ov", "𞳒"] # U+1ECD2
       - ["'Of", "𞳒"] # U+1ECD2
+      - ["'Ov", "𞳒"] # U+1ECD2
       - ["'ow", "𞳓"] # U+1ECD3
       - ["'Ow", "𞳓"] # U+1ECD3
       - ["'oy", "𞳔"] # U+1ECD4
@@ -731,7 +889,11 @@ data:
       - ["'ogh", "𞳍"] # U+1ECCD
       - ["'Ogh", "𞳍"] # U+1ECCD
       - ["'och", "𞳕"] # U+1ECD5
+      - ["'oJ", "𞳕"] # U+1ECD5
+      - ["'oj", "𞳕"] # U+1ECD5
       - ["'Och", "𞳕"] # U+1ECD5
+      - ["'OJ", "𞳕"] # U+1ECD5
+      - ["'Oj", "𞳕"] # U+1ECD5
       - ["'otj", "𞳕"] # U+1ECD5
       - ["'Otj", "𞳕"] # U+1ECD5
       - ["'ul", "𞳀"] # U+1ECC0
@@ -763,7 +925,9 @@ data:
       - ["'ub", "𞳑"] # U+1ECD1
       - ["'Ub", "𞳑"] # U+1ECD1
       - ["'uf", "𞳒"] # U+1ECD2
+      - ["'uv", "𞳒"] # U+1ECD2
       - ["'Uf", "𞳒"] # U+1ECD2
+      - ["'Uv", "𞳒"] # U+1ECD2
       - ["'uw", "𞳓"] # U+1ECD3
       - ["'Uw", "𞳓"] # U+1ECD3
       - ["'uy", "𞳔"] # U+1ECD4
@@ -777,7 +941,11 @@ data:
       - ["'ugh", "𞳍"] # U+1ECCD
       - ["'Ugh", "𞳍"] # U+1ECCD
       - ["'uch", "𞳕"] # U+1ECD5
+      - ["'uJ", "𞳕"] # U+1ECD5
+      - ["'uj", "𞳕"] # U+1ECD5
       - ["'Uch", "𞳕"] # U+1ECD5
+      - ["'UJ", "𞳕"] # U+1ECD5
+      - ["'Uj", "𞳕"] # U+1ECD5
       - ["'utj", "𞳕"] # U+1ECD5
       - ["'Utj", "𞳕"] # U+1ECD5
       - ["’l", "𞳀"] # U+1ECC0
@@ -809,7 +977,9 @@ data:
       - ["’b", "𞳑"] # U+1ECD1
       - ["’B", "𞳑"] # U+1ECD1
       - ["’f", "𞳒"] # U+1ECD2
+      - ["’v", "𞳒"] # U+1ECD2
       - ["’F", "𞳒"] # U+1ECD2
+      - ["’V", "𞳒"] # U+1ECD2
       - ["’w", "𞳓"] # U+1ECD3
       - ["’W", "𞳓"] # U+1ECD3
       - ["’y", "𞳔"] # U+1ECD4
@@ -823,6 +993,8 @@ data:
       - ["’gh", "𞳍"] # U+1ECCD
       - ["’Gh", "𞳍"] # U+1ECCD
       - ["’ch", "𞳕"] # U+1ECD5
+      - ["’J", "𞳕"] # U+1ECD5
+      - ["’j", "𞳕"] # U+1ECD5
       - ["’Ch", "𞳕"] # U+1ECD5
       - ["’tj", "𞳕"] # U+1ECD5
       - ["’Tj", "𞳕"] # U+1ECD5
@@ -855,7 +1027,13 @@ data:
       - ["’bb", "𞳧"] # U+1ECE7
       - ["’Bb", "𞳧"] # U+1ECE7
       - ["’ff", "𞳨"] # U+1ECE8
+      - ["’fv", "𞳨"] # U+1ECE8
+      - ["’vf", "𞳨"] # U+1ECE8
+      - ["’vv", "𞳨"] # U+1ECE8
       - ["’Ff", "𞳨"] # U+1ECE8
+      - ["’Fv", "𞳨"] # U+1ECE8
+      - ["’Vf", "𞳨"] # U+1ECE8
+      - ["’Vv", "𞳨"] # U+1ECE8
       - ["’ww", "𞳩"] # U+1ECE9
       - ["’Ww", "𞳩"] # U+1ECE9
       - ["’yy", "𞳪"] # U+1ECEA
@@ -869,6 +1047,10 @@ data:
       - ["’ggh", "𞳣"] # U+1ECE3
       - ["’Ggh", "𞳣"] # U+1ECE3
       - ["’cch", "𞳫"] # U+1ECEB
+      - ["’JJ", "𞳫"] # U+1ECEB
+      - ["’Jj", "𞳫"] # U+1ECEB
+      - ["’jJ", "𞳫"] # U+1ECEB
+      - ["’jj", "𞳫"] # U+1ECEB
       - ["’Cch", "𞳫"] # U+1ECEB
       - ["’ttj", "𞳫"] # U+1ECEB
       - ["’Ttj", "𞳫"] # U+1ECEB
@@ -881,11 +1063,23 @@ data:
       - ["’ghgh", "𞳣"] # U+1ECE3
       - ["’Ghgh", "𞳣"] # U+1ECE3
       - ["’chch", "𞳫"] # U+1ECEB
+      - ["’Jch", "𞳫"] # U+1ECEB
+      - ["’chJ", "𞳫"] # U+1ECEB
+      - ["’chj", "𞳫"] # U+1ECEB
+      - ["’jch", "𞳫"] # U+1ECEB
       - ["’Chch", "𞳫"] # U+1ECEB
+      - ["’ChJ", "𞳫"] # U+1ECEB
+      - ["’Chj", "𞳫"] # U+1ECEB
       - ["’chtj", "𞳫"] # U+1ECEB
+      - ["’Jtj", "𞳫"] # U+1ECEB
+      - ["’jtj", "𞳫"] # U+1ECEB
       - ["’Chtj", "𞳫"] # U+1ECEB
       - ["’tjch", "𞳫"] # U+1ECEB
+      - ["’tjJ", "𞳫"] # U+1ECEB
+      - ["’tjj", "𞳫"] # U+1ECEB
       - ["’Tjch", "𞳫"] # U+1ECEB
+      - ["’TjJ", "𞳫"] # U+1ECEB
+      - ["’Tjj", "𞳫"] # U+1ECEB
       - ["’tjtj", "𞳫"] # U+1ECEB
       - ["’Tjtj", "𞳫"] # U+1ECEB
       - ["’ttth", "𞳂𞨠"] # U+1ECC2 U+1EA20
@@ -927,7 +1121,9 @@ data:
       - ["’ab", "𞳑"] # U+1ECD1
       - ["’Ab", "𞳑"] # U+1ECD1
       - ["’af", "𞳒"] # U+1ECD2
+      - ["’av", "𞳒"] # U+1ECD2
       - ["’Af", "𞳒"] # U+1ECD2
+      - ["’Av", "𞳒"] # U+1ECD2
       - ["’aw", "𞳓"] # U+1ECD3
       - ["’Aw", "𞳓"] # U+1ECD3
       - ["’ay", "𞳔"] # U+1ECD4
@@ -941,55 +1137,117 @@ data:
       - ["’agh", "𞳍"] # U+1ECCD
       - ["’Agh", "𞳍"] # U+1ECCD
       - ["’ach", "𞳕"] # U+1ECD5
+      - ["’aJ", "𞳕"] # U+1ECD5
+      - ["’aj", "𞳕"] # U+1ECD5
       - ["’Ach", "𞳕"] # U+1ECD5
+      - ["’AJ", "𞳕"] # U+1ECD5
+      - ["’Aj", "𞳕"] # U+1ECD5
       - ["’atj", "𞳕"] # U+1ECD5
       - ["’Atj", "𞳕"] # U+1ECD5
       - ["’el", "𞳀"] # U+1ECC0
+      - ["’ël", "𞳀"] # U+1ECC0
       - ["’El", "𞳀"] # U+1ECC0
+      - ["’Ël", "𞳀"] # U+1ECC0
       - ["’er", "𞳁"] # U+1ECC1
+      - ["’ër", "𞳁"] # U+1ECC1
       - ["’Er", "𞳁"] # U+1ECC1
+      - ["’Ër", "𞳁"] # U+1ECC1
       - ["’et", "𞳂"] # U+1ECC2
+      - ["’ët", "𞳂"] # U+1ECC2
       - ["’Et", "𞳂"] # U+1ECC2
+      - ["’Ët", "𞳂"] # U+1ECC2
       - ["’ed", "𞳃"] # U+1ECC3
+      - ["’ëd", "𞳃"] # U+1ECC3
       - ["’Ed", "𞳃"] # U+1ECC3
+      - ["’Ëd", "𞳃"] # U+1ECC3
       - ["’ez", "𞳄"] # U+1ECC4
+      - ["’ëz", "𞳄"] # U+1ECC4
       - ["’Ez", "𞳄"] # U+1ECC4
+      - ["’Ëz", "𞳄"] # U+1ECC4
       - ["’es", "𞳅"] # U+1ECC5
+      - ["’ës", "𞳅"] # U+1ECC5
       - ["’Es", "𞳅"] # U+1ECC5
+      - ["’Ës", "𞳅"] # U+1ECC5
       - ["’eg", "𞳆"] # U+1ECC6
+      - ["’ëg", "𞳆"] # U+1ECC6
       - ["’Eg", "𞳆"] # U+1ECC6
+      - ["’Ëg", "𞳆"] # U+1ECC6
       - ["’ek", "𞳇"] # U+1ECC7
+      - ["’ëk", "𞳇"] # U+1ECC7
       - ["’Ek", "𞳇"] # U+1ECC7
+      - ["’Ëk", "𞳇"] # U+1ECC7
       - ["’en", "𞳈"] # U+1ECC8
+      - ["’ën", "𞳈"] # U+1ECC8
       - ["’En", "𞳈"] # U+1ECC8
+      - ["’Ën", "𞳈"] # U+1ECC8
       - ["’em", "𞳊"] # U+1ECCA
+      - ["’ëm", "𞳊"] # U+1ECCA
       - ["’Em", "𞳊"] # U+1ECCA
+      - ["’Ëm", "𞳊"] # U+1ECCA
       - ["’eq", "𞳋"] # U+1ECCB
+      - ["’ëq", "𞳋"] # U+1ECCB
       - ["’Eq", "𞳋"] # U+1ECCB
+      - ["’Ëq", "𞳋"] # U+1ECCB
       - ["’eh", "𞳎"] # U+1ECCE
+      - ["’ëh", "𞳎"] # U+1ECCE
       - ["’Eh", "𞳎"] # U+1ECCE
+      - ["’Ëh", "𞳎"] # U+1ECCE
       - ["’ep", "𞳐"] # U+1ECD0
+      - ["’ëp", "𞳐"] # U+1ECD0
       - ["’Ep", "𞳐"] # U+1ECD0
+      - ["’Ëp", "𞳐"] # U+1ECD0
       - ["’eb", "𞳑"] # U+1ECD1
+      - ["’ëb", "𞳑"] # U+1ECD1
       - ["’Eb", "𞳑"] # U+1ECD1
+      - ["’Ëb", "𞳑"] # U+1ECD1
       - ["’ef", "𞳒"] # U+1ECD2
+      - ["’ev", "𞳒"] # U+1ECD2
+      - ["’ëf", "𞳒"] # U+1ECD2
+      - ["’ëv", "𞳒"] # U+1ECD2
       - ["’Ef", "𞳒"] # U+1ECD2
+      - ["’Ev", "𞳒"] # U+1ECD2
+      - ["’Ëf", "𞳒"] # U+1ECD2
+      - ["’Ëv", "𞳒"] # U+1ECD2
       - ["’ew", "𞳓"] # U+1ECD3
+      - ["’ëw", "𞳓"] # U+1ECD3
       - ["’Ew", "𞳓"] # U+1ECD3
+      - ["’Ëw", "𞳓"] # U+1ECD3
       - ["’ey", "𞳔"] # U+1ECD4
+      - ["’ëy", "𞳔"] # U+1ECD4
       - ["’Ey", "𞳔"] # U+1ECD4
+      - ["’Ëy", "𞳔"] # U+1ECD4
       - ["’eth", "𞳉"] # U+1ECC9
+      - ["’ëth", "𞳉"] # U+1ECC9
       - ["’Eth", "𞳉"] # U+1ECC9
+      - ["’Ëth", "𞳉"] # U+1ECC9
       - ["’esh", "𞳏"] # U+1ECCF
+      - ["’ësh", "𞳏"] # U+1ECCF
       - ["’Esh", "𞳏"] # U+1ECCF
+      - ["’Ësh", "𞳏"] # U+1ECCF
       - ["’ekh", "𞳌"] # U+1ECCC
+      - ["’ëkh", "𞳌"] # U+1ECCC
       - ["’Ekh", "𞳌"] # U+1ECCC
+      - ["’Ëkh", "𞳌"] # U+1ECCC
       - ["’egh", "𞳍"] # U+1ECCD
+      - ["’ëgh", "𞳍"] # U+1ECCD
       - ["’Egh", "𞳍"] # U+1ECCD
+      - ["’Ëgh", "𞳍"] # U+1ECCD
       - ["’ech", "𞳕"] # U+1ECD5
+      - ["’eJ", "𞳕"] # U+1ECD5
+      - ["’ej", "𞳕"] # U+1ECD5
+      - ["’ëJ", "𞳕"] # U+1ECD5
+      - ["’ëch", "𞳕"] # U+1ECD5
+      - ["’ëj", "𞳕"] # U+1ECD5
       - ["’Ech", "𞳕"] # U+1ECD5
+      - ["’EJ", "𞳕"] # U+1ECD5
+      - ["’Ej", "𞳕"] # U+1ECD5
+      - ["’ËJ", "𞳕"] # U+1ECD5
+      - ["’Ëch", "𞳕"] # U+1ECD5
+      - ["’Ëj", "𞳕"] # U+1ECD5
       - ["’etj", "𞳕"] # U+1ECD5
+      - ["’ëtj", "𞳕"] # U+1ECD5
       - ["’Etj", "𞳕"] # U+1ECD5
+      - ["’Ëtj", "𞳕"] # U+1ECD5
       - ["’il", "𞳀"] # U+1ECC0
       - ["’Il", "𞳀"] # U+1ECC0
       - ["’ir", "𞳁"] # U+1ECC1
@@ -1019,7 +1277,9 @@ data:
       - ["’ib", "𞳑"] # U+1ECD1
       - ["’Ib", "𞳑"] # U+1ECD1
       - ["’if", "𞳒"] # U+1ECD2
+      - ["’iv", "𞳒"] # U+1ECD2
       - ["’If", "𞳒"] # U+1ECD2
+      - ["’Iv", "𞳒"] # U+1ECD2
       - ["’iw", "𞳓"] # U+1ECD3
       - ["’Iw", "𞳓"] # U+1ECD3
       - ["’iy", "𞳔"] # U+1ECD4
@@ -1033,7 +1293,11 @@ data:
       - ["’igh", "𞳍"] # U+1ECCD
       - ["’Igh", "𞳍"] # U+1ECCD
       - ["’ich", "𞳕"] # U+1ECD5
+      - ["’iJ", "𞳕"] # U+1ECD5
+      - ["’ij", "𞳕"] # U+1ECD5
       - ["’Ich", "𞳕"] # U+1ECD5
+      - ["’IJ", "𞳕"] # U+1ECD5
+      - ["’Ij", "𞳕"] # U+1ECD5
       - ["’itj", "𞳕"] # U+1ECD5
       - ["’Itj", "𞳕"] # U+1ECD5
       - ["’ol", "𞳀"] # U+1ECC0
@@ -1065,7 +1329,9 @@ data:
       - ["’ob", "𞳑"] # U+1ECD1
       - ["’Ob", "𞳑"] # U+1ECD1
       - ["’of", "𞳒"] # U+1ECD2
+      - ["’ov", "𞳒"] # U+1ECD2
       - ["’Of", "𞳒"] # U+1ECD2
+      - ["’Ov", "𞳒"] # U+1ECD2
       - ["’ow", "𞳓"] # U+1ECD3
       - ["’Ow", "𞳓"] # U+1ECD3
       - ["’oy", "𞳔"] # U+1ECD4
@@ -1079,7 +1345,11 @@ data:
       - ["’ogh", "𞳍"] # U+1ECCD
       - ["’Ogh", "𞳍"] # U+1ECCD
       - ["’och", "𞳕"] # U+1ECD5
+      - ["’oJ", "𞳕"] # U+1ECD5
+      - ["’oj", "𞳕"] # U+1ECD5
       - ["’Och", "𞳕"] # U+1ECD5
+      - ["’OJ", "𞳕"] # U+1ECD5
+      - ["’Oj", "𞳕"] # U+1ECD5
       - ["’otj", "𞳕"] # U+1ECD5
       - ["’Otj", "𞳕"] # U+1ECD5
       - ["’ul", "𞳀"] # U+1ECC0
@@ -1111,7 +1381,9 @@ data:
       - ["’ub", "𞳑"] # U+1ECD1
       - ["’Ub", "𞳑"] # U+1ECD1
       - ["’uf", "𞳒"] # U+1ECD2
+      - ["’uv", "𞳒"] # U+1ECD2
       - ["’Uf", "𞳒"] # U+1ECD2
+      - ["’Uv", "𞳒"] # U+1ECD2
       - ["’uw", "𞳓"] # U+1ECD3
       - ["’Uw", "𞳓"] # U+1ECD3
       - ["’uy", "𞳔"] # U+1ECD4
@@ -1125,7 +1397,11 @@ data:
       - ["’ugh", "𞳍"] # U+1ECCD
       - ["’Ugh", "𞳍"] # U+1ECCD
       - ["’uch", "𞳕"] # U+1ECD5
+      - ["’uJ", "𞳕"] # U+1ECD5
+      - ["’uj", "𞳕"] # U+1ECD5
       - ["’Uch", "𞳕"] # U+1ECD5
+      - ["’UJ", "𞳕"] # U+1ECD5
+      - ["’Uj", "𞳕"] # U+1ECD5
       - ["’utj", "𞳕"] # U+1ECD5
       - ["’Utj", "𞳕"] # U+1ECD5
       - {from: "al", to: "𞳀", at: start} # U+1ECC0
@@ -1157,7 +1433,9 @@ data:
       - {from: "ab", to: "𞳑", at: start} # U+1ECD1
       - {from: "Ab", to: "𞳑", at: start} # U+1ECD1
       - {from: "af", to: "𞳒", at: start} # U+1ECD2
+      - {from: "av", to: "𞳒", at: start} # U+1ECD2
       - {from: "Af", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Av", to: "𞳒", at: start} # U+1ECD2
       - {from: "aw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Aw", to: "𞳓", at: start} # U+1ECD3
       - {from: "ay", to: "𞳔", at: start} # U+1ECD4
@@ -1171,9 +1449,17 @@ data:
       - {from: "agh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Agh", to: "𞳍", at: start} # U+1ECCD
       - {from: "ach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aj", to: "𞳕", at: start} # U+1ECD5
       - {from: "atj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Atj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aj", to: "𞳕", at: start} # U+1ECD5
       - {from: "all", to: "𞳖", at: start} # U+1ECD6
       - {from: "All", to: "𞳖", at: start} # U+1ECD6
       - {from: "arr", to: "𞳗", at: start} # U+1ECD7
@@ -1203,7 +1489,13 @@ data:
       - {from: "abb", to: "𞳧", at: start} # U+1ECE7
       - {from: "Abb", to: "𞳧", at: start} # U+1ECE7
       - {from: "aff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "afv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "avf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "avv", to: "𞳨", at: start} # U+1ECE8
       - {from: "Aff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Afv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Avf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Avv", to: "𞳨", at: start} # U+1ECE8
       - {from: "aww", to: "𞳩", at: start} # U+1ECE9
       - {from: "Aww", to: "𞳩", at: start} # U+1ECE9
       - {from: "ayy", to: "𞳪", at: start} # U+1ECEA
@@ -1217,9 +1509,25 @@ data:
       - {from: "aggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Aggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "acch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Acch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajj", to: "𞳫", at: start} # U+1ECEB
       - {from: "attj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Attj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajj", to: "𞳫", at: start} # U+1ECEB
       - {from: "athth", to: "𞳟", at: start} # U+1ECDF
       - {from: "Athth", to: "𞳟", at: start} # U+1ECDF
       - {from: "ashsh", to: "𞳥", at: start} # U+1ECE5
@@ -1229,13 +1537,77 @@ data:
       - {from: "aghgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Aghgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "achch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "achJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "achj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Achch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Achj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajj", to: "𞳫", at: start} # U+1ECEB
       - {from: "achtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "achJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "achj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Achtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Achj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "atjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "atjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "atjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Atjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Atjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "atjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "aJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ajtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "atjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "atjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Atjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ajtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "AtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Atjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "attth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "Attth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "asssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
@@ -1275,7 +1647,9 @@ data:
       - {from: "aab", to: "𞳑", at: start} # U+1ECD1
       - {from: "Aab", to: "𞳑", at: start} # U+1ECD1
       - {from: "aaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "aav", to: "𞳒", at: start} # U+1ECD2
       - {from: "Aaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Aav", to: "𞳒", at: start} # U+1ECD2
       - {from: "aaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Aaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "aay", to: "𞳔", at: start} # U+1ECD4
@@ -1289,55 +1663,129 @@ data:
       - {from: "aagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Aagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "aach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "aatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ael", to: "𞳀", at: start} # U+1ECC0
+      - {from: "aël", to: "𞳀", at: start} # U+1ECC0
       - {from: "Ael", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Aël", to: "𞳀", at: start} # U+1ECC0
       - {from: "aer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "aër", to: "𞳁", at: start} # U+1ECC1
       - {from: "Aer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Aër", to: "𞳁", at: start} # U+1ECC1
       - {from: "aet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "aët", to: "𞳂", at: start} # U+1ECC2
       - {from: "Aet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Aët", to: "𞳂", at: start} # U+1ECC2
       - {from: "aed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "aëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "Aed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Aëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "aez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "aëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Aez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Aëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "aes", to: "𞳅", at: start} # U+1ECC5
+      - {from: "aës", to: "𞳅", at: start} # U+1ECC5
       - {from: "Aes", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Aës", to: "𞳅", at: start} # U+1ECC5
       - {from: "aeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "aëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "Aeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Aëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "aek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "aëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Aek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Aëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "aen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "aën", to: "𞳈", at: start} # U+1ECC8
       - {from: "Aen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Aën", to: "𞳈", at: start} # U+1ECC8
       - {from: "aem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "aëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "Aem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Aëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "aeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "aëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Aeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Aëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "aeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "aëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Aeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Aëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "aep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "aëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "Aep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Aëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "aeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "aëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "Aeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Aëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "aef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "aev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "aëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "aëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Aef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Aev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Aëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Aëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "aew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "aëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Aew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Aëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "aey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "aëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Aey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Aëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "aeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "aëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Aeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Aëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "aesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "aësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Aesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Aësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "aekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "aëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Aekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Aëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "aegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "aëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Aegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Aëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "aech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "aetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ail", to: "𞳀", at: start} # U+1ECC0
       - {from: "Ail", to: "𞳀", at: start} # U+1ECC0
       - {from: "air", to: "𞳁", at: start} # U+1ECC1
@@ -1367,7 +1815,9 @@ data:
       - {from: "aib", to: "𞳑", at: start} # U+1ECD1
       - {from: "Aib", to: "𞳑", at: start} # U+1ECD1
       - {from: "aif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "aiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Aif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Aiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "aiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Aiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "aiy", to: "𞳔", at: start} # U+1ECD4
@@ -1381,9 +1831,17 @@ data:
       - {from: "aigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Aigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "aich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aij", to: "𞳕", at: start} # U+1ECD5
       - {from: "aitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aij", to: "𞳕", at: start} # U+1ECD5
       - {from: "aol", to: "𞳀", at: start} # U+1ECC0
       - {from: "Aol", to: "𞳀", at: start} # U+1ECC0
       - {from: "aor", to: "𞳁", at: start} # U+1ECC1
@@ -1413,7 +1871,9 @@ data:
       - {from: "aob", to: "𞳑", at: start} # U+1ECD1
       - {from: "Aob", to: "𞳑", at: start} # U+1ECD1
       - {from: "aof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "aov", to: "𞳒", at: start} # U+1ECD2
       - {from: "Aof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Aov", to: "𞳒", at: start} # U+1ECD2
       - {from: "aow", to: "𞳓", at: start} # U+1ECD3
       - {from: "Aow", to: "𞳓", at: start} # U+1ECD3
       - {from: "aoy", to: "𞳔", at: start} # U+1ECD4
@@ -1427,9 +1887,17 @@ data:
       - {from: "aogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Aogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "aoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "aotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "aoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Aotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Aoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "aul", to: "𞳀", at: start} # U+1ECC0
       - {from: "Aul", to: "𞳀", at: start} # U+1ECC0
       - {from: "aur", to: "𞳁", at: start} # U+1ECC1
@@ -1459,7 +1927,9 @@ data:
       - {from: "aub", to: "𞳑", at: start} # U+1ECD1
       - {from: "Aub", to: "𞳑", at: start} # U+1ECD1
       - {from: "auf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "auv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Auf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Auv", to: "𞳒", at: start} # U+1ECD2
       - {from: "auw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Auw", to: "𞳓", at: start} # U+1ECD3
       - {from: "auy", to: "𞳔", at: start} # U+1ECD4
@@ -1473,357 +1943,1117 @@ data:
       - {from: "augh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Augh", to: "𞳍", at: start} # U+1ECCD
       - {from: "auch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "auJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "auj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Auch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Auj", to: "𞳕", at: start} # U+1ECD5
       - {from: "autj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "auJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "auj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Autj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "AuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Auj", to: "𞳕", at: start} # U+1ECD5
       - {from: "el", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ël", to: "𞳀", at: start} # U+1ECC0
       - {from: "El", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ël", to: "𞳀", at: start} # U+1ECC0
       - {from: "er", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ër", to: "𞳁", at: start} # U+1ECC1
       - {from: "Er", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ër", to: "𞳁", at: start} # U+1ECC1
       - {from: "et", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ët", to: "𞳂", at: start} # U+1ECC2
       - {from: "Et", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ët", to: "𞳂", at: start} # U+1ECC2
       - {from: "ed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "Ed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "ez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Ez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "es", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ës", to: "𞳅", at: start} # U+1ECC5
       - {from: "Es", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ës", to: "𞳅", at: start} # U+1ECC5
       - {from: "eg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "Eg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "ek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Ek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "en", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ën", to: "𞳈", at: start} # U+1ECC8
       - {from: "En", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ën", to: "𞳈", at: start} # U+1ECC8
       - {from: "em", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "Em", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "eq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Eq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "eh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Eh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "ep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "Ep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "eb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "Eb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "ef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Ef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "ew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Ew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "ey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Ey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "eth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Eth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "esh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Esh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "ekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Ekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "egh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Egh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "ech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "etj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Etj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ell", to: "𞳖", at: start} # U+1ECD6
+      - {from: "ëll", to: "𞳖", at: start} # U+1ECD6
       - {from: "Ell", to: "𞳖", at: start} # U+1ECD6
+      - {from: "Ëll", to: "𞳖", at: start} # U+1ECD6
       - {from: "err", to: "𞳗", at: start} # U+1ECD7
+      - {from: "ërr", to: "𞳗", at: start} # U+1ECD7
       - {from: "Err", to: "𞳗", at: start} # U+1ECD7
+      - {from: "Ërr", to: "𞳗", at: start} # U+1ECD7
       - {from: "ett", to: "𞳘", at: start} # U+1ECD8
+      - {from: "ëtt", to: "𞳘", at: start} # U+1ECD8
       - {from: "Ett", to: "𞳘", at: start} # U+1ECD8
+      - {from: "Ëtt", to: "𞳘", at: start} # U+1ECD8
       - {from: "edd", to: "𞳙", at: start} # U+1ECD9
+      - {from: "ëdd", to: "𞳙", at: start} # U+1ECD9
       - {from: "Edd", to: "𞳙", at: start} # U+1ECD9
+      - {from: "Ëdd", to: "𞳙", at: start} # U+1ECD9
       - {from: "ezz", to: "𞳚", at: start} # U+1ECDA
+      - {from: "ëzz", to: "𞳚", at: start} # U+1ECDA
       - {from: "Ezz", to: "𞳚", at: start} # U+1ECDA
+      - {from: "Ëzz", to: "𞳚", at: start} # U+1ECDA
       - {from: "ess", to: "𞳛", at: start} # U+1ECDB
+      - {from: "ëss", to: "𞳛", at: start} # U+1ECDB
       - {from: "Ess", to: "𞳛", at: start} # U+1ECDB
+      - {from: "Ëss", to: "𞳛", at: start} # U+1ECDB
       - {from: "egg", to: "𞳜", at: start} # U+1ECDC
+      - {from: "ëgg", to: "𞳜", at: start} # U+1ECDC
       - {from: "Egg", to: "𞳜", at: start} # U+1ECDC
+      - {from: "Ëgg", to: "𞳜", at: start} # U+1ECDC
       - {from: "ekk", to: "𞳝", at: start} # U+1ECDD
+      - {from: "ëkk", to: "𞳝", at: start} # U+1ECDD
       - {from: "Ekk", to: "𞳝", at: start} # U+1ECDD
+      - {from: "Ëkk", to: "𞳝", at: start} # U+1ECDD
       - {from: "enn", to: "𞳞", at: start} # U+1ECDE
+      - {from: "ënn", to: "𞳞", at: start} # U+1ECDE
       - {from: "Enn", to: "𞳞", at: start} # U+1ECDE
+      - {from: "Ënn", to: "𞳞", at: start} # U+1ECDE
       - {from: "emm", to: "𞳠", at: start} # U+1ECE0
+      - {from: "ëmm", to: "𞳠", at: start} # U+1ECE0
       - {from: "Emm", to: "𞳠", at: start} # U+1ECE0
+      - {from: "Ëmm", to: "𞳠", at: start} # U+1ECE0
       - {from: "eqq", to: "𞳡", at: start} # U+1ECE1
+      - {from: "ëqq", to: "𞳡", at: start} # U+1ECE1
       - {from: "Eqq", to: "𞳡", at: start} # U+1ECE1
+      - {from: "Ëqq", to: "𞳡", at: start} # U+1ECE1
       - {from: "ehh", to: "𞳤", at: start} # U+1ECE4
+      - {from: "ëhh", to: "𞳤", at: start} # U+1ECE4
       - {from: "Ehh", to: "𞳤", at: start} # U+1ECE4
+      - {from: "Ëhh", to: "𞳤", at: start} # U+1ECE4
       - {from: "epp", to: "𞳦", at: start} # U+1ECE6
+      - {from: "ëpp", to: "𞳦", at: start} # U+1ECE6
       - {from: "Epp", to: "𞳦", at: start} # U+1ECE6
+      - {from: "Ëpp", to: "𞳦", at: start} # U+1ECE6
       - {from: "ebb", to: "𞳧", at: start} # U+1ECE7
+      - {from: "ëbb", to: "𞳧", at: start} # U+1ECE7
       - {from: "Ebb", to: "𞳧", at: start} # U+1ECE7
+      - {from: "Ëbb", to: "𞳧", at: start} # U+1ECE7
       - {from: "eff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "efv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "evf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "evv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ëff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ëfv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ëvf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ëvv", to: "𞳨", at: start} # U+1ECE8
       - {from: "Eff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Efv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Evf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Evv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ëff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ëfv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ëvf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ëvv", to: "𞳨", at: start} # U+1ECE8
       - {from: "eww", to: "𞳩", at: start} # U+1ECE9
+      - {from: "ëww", to: "𞳩", at: start} # U+1ECE9
       - {from: "Eww", to: "𞳩", at: start} # U+1ECE9
+      - {from: "Ëww", to: "𞳩", at: start} # U+1ECE9
       - {from: "eyy", to: "𞳪", at: start} # U+1ECEA
+      - {from: "ëyy", to: "𞳪", at: start} # U+1ECEA
       - {from: "Eyy", to: "𞳪", at: start} # U+1ECEA
+      - {from: "Ëyy", to: "𞳪", at: start} # U+1ECEA
       - {from: "etth", to: "𞳟", at: start} # U+1ECDF
+      - {from: "ëtth", to: "𞳟", at: start} # U+1ECDF
       - {from: "Etth", to: "𞳟", at: start} # U+1ECDF
+      - {from: "Ëtth", to: "𞳟", at: start} # U+1ECDF
       - {from: "essh", to: "𞳥", at: start} # U+1ECE5
+      - {from: "ëssh", to: "𞳥", at: start} # U+1ECE5
       - {from: "Essh", to: "𞳥", at: start} # U+1ECE5
+      - {from: "Ëssh", to: "𞳥", at: start} # U+1ECE5
       - {from: "ekkh", to: "𞳢", at: start} # U+1ECE2
+      - {from: "ëkkh", to: "𞳢", at: start} # U+1ECE2
       - {from: "Ekkh", to: "𞳢", at: start} # U+1ECE2
+      - {from: "Ëkkh", to: "𞳢", at: start} # U+1ECE2
       - {from: "eggh", to: "𞳣", at: start} # U+1ECE3
+      - {from: "ëggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Eggh", to: "𞳣", at: start} # U+1ECE3
+      - {from: "Ëggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "ecch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëcch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ecch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëcch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ettj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëttj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ettj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëttj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ethth", to: "𞳟", at: start} # U+1ECDF
+      - {from: "ëthth", to: "𞳟", at: start} # U+1ECDF
       - {from: "Ethth", to: "𞳟", at: start} # U+1ECDF
+      - {from: "Ëthth", to: "𞳟", at: start} # U+1ECDF
       - {from: "eshsh", to: "𞳥", at: start} # U+1ECE5
+      - {from: "ëshsh", to: "𞳥", at: start} # U+1ECE5
       - {from: "Eshsh", to: "𞳥", at: start} # U+1ECE5
+      - {from: "Ëshsh", to: "𞳥", at: start} # U+1ECE5
       - {from: "ekhkh", to: "𞳢", at: start} # U+1ECE2
+      - {from: "ëkhkh", to: "𞳢", at: start} # U+1ECE2
       - {from: "Ekhkh", to: "𞳢", at: start} # U+1ECE2
+      - {from: "Ëkhkh", to: "𞳢", at: start} # U+1ECE2
       - {from: "eghgh", to: "𞳣", at: start} # U+1ECE3
+      - {from: "ëghgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Eghgh", to: "𞳣", at: start} # U+1ECE3
+      - {from: "Ëghgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "echch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "echJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "echj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëchch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Echch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Echj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëchch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "echtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "echJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "echj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëchtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Echtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Echj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëchtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "etjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "etjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "etjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëtjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëtjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Etjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Etjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëtjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëtjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "etjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "eJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ejtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "etjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "etjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëtjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ëtjtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Etjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ejtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "EtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Etjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ËtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëtjj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ëtjtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ettth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
+      - {from: "ëttth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "Ettth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
+      - {from: "Ëttth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "esssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
+      - {from: "ësssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
       - {from: "Esssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
+      - {from: "Ësssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
       - {from: "ekkkh", to: "𞳇𞨣", at: start} # U+1ECC7 U+1EA23
+      - {from: "ëkkkh", to: "𞳇𞨣", at: start} # U+1ECC7 U+1EA23
       - {from: "Ekkkh", to: "𞳇𞨣", at: start} # U+1ECC7 U+1EA23
+      - {from: "Ëkkkh", to: "𞳇𞨣", at: start} # U+1ECC7 U+1EA23
       - {from: "egggh", to: "𞳆𞨤", at: start} # U+1ECC6 U+1EA24
+      - {from: "ëgggh", to: "𞳆𞨤", at: start} # U+1ECC6 U+1EA24
       - {from: "Egggh", to: "𞳆𞨤", at: start} # U+1ECC6 U+1EA24
+      - {from: "Ëgggh", to: "𞳆𞨤", at: start} # U+1ECC6 U+1EA24
       - {from: "etttj", to: "𞳂𞨬", at: start} # U+1ECC2 U+1EA2C
+      - {from: "ëtttj", to: "𞳂𞨬", at: start} # U+1ECC2 U+1EA2C
       - {from: "Etttj", to: "𞳂𞨬", at: start} # U+1ECC2 U+1EA2C
+      - {from: "Ëtttj", to: "𞳂𞨬", at: start} # U+1ECC2 U+1EA2C
       - {from: "eal", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ëal", to: "𞳀", at: start} # U+1ECC0
       - {from: "Eal", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ëal", to: "𞳀", at: start} # U+1ECC0
       - {from: "ear", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ëar", to: "𞳁", at: start} # U+1ECC1
       - {from: "Ear", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ëar", to: "𞳁", at: start} # U+1ECC1
       - {from: "eat", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ëat", to: "𞳂", at: start} # U+1ECC2
       - {from: "Eat", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ëat", to: "𞳂", at: start} # U+1ECC2
       - {from: "ead", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëad", to: "𞳃", at: start} # U+1ECC3
       - {from: "Ead", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëad", to: "𞳃", at: start} # U+1ECC3
       - {from: "eaz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëaz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Eaz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëaz", to: "𞳄", at: start} # U+1ECC4
       - {from: "eas", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ëas", to: "𞳅", at: start} # U+1ECC5
       - {from: "Eas", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ëas", to: "𞳅", at: start} # U+1ECC5
       - {from: "eag", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëag", to: "𞳆", at: start} # U+1ECC6
       - {from: "Eag", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëag", to: "𞳆", at: start} # U+1ECC6
       - {from: "eak", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëak", to: "𞳇", at: start} # U+1ECC7
       - {from: "Eak", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëak", to: "𞳇", at: start} # U+1ECC7
       - {from: "ean", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ëan", to: "𞳈", at: start} # U+1ECC8
       - {from: "Ean", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ëan", to: "𞳈", at: start} # U+1ECC8
       - {from: "eam", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëam", to: "𞳊", at: start} # U+1ECCA
       - {from: "Eam", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëam", to: "𞳊", at: start} # U+1ECCA
       - {from: "eaq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëaq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Eaq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëaq", to: "𞳋", at: start} # U+1ECCB
       - {from: "eah", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëah", to: "𞳎", at: start} # U+1ECCE
       - {from: "Eah", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëah", to: "𞳎", at: start} # U+1ECCE
       - {from: "eap", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëap", to: "𞳐", at: start} # U+1ECD0
       - {from: "Eap", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëap", to: "𞳐", at: start} # U+1ECD0
       - {from: "eab", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëab", to: "𞳑", at: start} # U+1ECD1
       - {from: "Eab", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëab", to: "𞳑", at: start} # U+1ECD1
       - {from: "eaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "eav", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëav", to: "𞳒", at: start} # U+1ECD2
       - {from: "Eaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Eav", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëav", to: "𞳒", at: start} # U+1ECD2
       - {from: "eaw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Eaw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "eay", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëay", to: "𞳔", at: start} # U+1ECD4
       - {from: "Eay", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëay", to: "𞳔", at: start} # U+1ECD4
       - {from: "eath", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëath", to: "𞳉", at: start} # U+1ECC9
       - {from: "Eath", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëath", to: "𞳉", at: start} # U+1ECC9
       - {from: "eash", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ëash", to: "𞳏", at: start} # U+1ECCF
       - {from: "Eash", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ëash", to: "𞳏", at: start} # U+1ECCF
       - {from: "eakh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëakh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Eakh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëakh", to: "𞳌", at: start} # U+1ECCC
       - {from: "eagh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Eagh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "each", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eaj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Each", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eaj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eaj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëaj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëatj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eaj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëaj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëatj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "eël", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ëel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ëël", to: "𞳀", at: start} # U+1ECC0
       - {from: "Eel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Eël", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ëel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ëël", to: "𞳀", at: start} # U+1ECC0
       - {from: "eer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "eër", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ëer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ëër", to: "𞳁", at: start} # U+1ECC1
       - {from: "Eer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Eër", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ëer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ëër", to: "𞳁", at: start} # U+1ECC1
       - {from: "eet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "eët", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ëet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ëët", to: "𞳂", at: start} # U+1ECC2
       - {from: "Eet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Eët", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ëet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ëët", to: "𞳂", at: start} # U+1ECC2
       - {from: "eed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "eëd", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "Eed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Eëd", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "eez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "eëz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Eez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Eëz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "ees", to: "𞳅", at: start} # U+1ECC5
+      - {from: "eës", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ëes", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ëës", to: "𞳅", at: start} # U+1ECC5
       - {from: "Ees", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Eës", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ëes", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ëës", to: "𞳅", at: start} # U+1ECC5
       - {from: "eeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "eëg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "Eeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Eëg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "eek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "eëk", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Eek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Eëk", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "een", to: "𞳈", at: start} # U+1ECC8
+      - {from: "eën", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ëen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ëën", to: "𞳈", at: start} # U+1ECC8
       - {from: "Een", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Eën", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ëen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ëën", to: "𞳈", at: start} # U+1ECC8
       - {from: "eem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "eëm", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "Eem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Eëm", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "eeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "eëq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Eeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Eëq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "eeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "eëh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Eeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Eëh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "eep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "eëp", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "Eep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Eëp", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "eeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "eëb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "Eeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Eëb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "eef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "eev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "eëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "eëv", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Eef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Eev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Eëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Eëv", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "eew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "eëw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Eew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Eëw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "eey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "eëy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Eey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Eëy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "eeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "eëth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Eeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Eëth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "eesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "eësh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ëesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ëësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Eesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Eësh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ëesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ëësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "eekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "eëkh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Eekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Eëkh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "eegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "eëgh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Eegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Eëgh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "eech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eëtj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eëtj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eil", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ëil", to: "𞳀", at: start} # U+1ECC0
       - {from: "Eil", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ëil", to: "𞳀", at: start} # U+1ECC0
       - {from: "eir", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ëir", to: "𞳁", at: start} # U+1ECC1
       - {from: "Eir", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ëir", to: "𞳁", at: start} # U+1ECC1
       - {from: "eit", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ëit", to: "𞳂", at: start} # U+1ECC2
       - {from: "Eit", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ëit", to: "𞳂", at: start} # U+1ECC2
       - {from: "eid", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëid", to: "𞳃", at: start} # U+1ECC3
       - {from: "Eid", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëid", to: "𞳃", at: start} # U+1ECC3
       - {from: "eiz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëiz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Eiz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëiz", to: "𞳄", at: start} # U+1ECC4
       - {from: "eis", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ëis", to: "𞳅", at: start} # U+1ECC5
       - {from: "Eis", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ëis", to: "𞳅", at: start} # U+1ECC5
       - {from: "eig", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëig", to: "𞳆", at: start} # U+1ECC6
       - {from: "Eig", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëig", to: "𞳆", at: start} # U+1ECC6
       - {from: "eik", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëik", to: "𞳇", at: start} # U+1ECC7
       - {from: "Eik", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëik", to: "𞳇", at: start} # U+1ECC7
       - {from: "ein", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ëin", to: "𞳈", at: start} # U+1ECC8
       - {from: "Ein", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ëin", to: "𞳈", at: start} # U+1ECC8
       - {from: "eim", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëim", to: "𞳊", at: start} # U+1ECCA
       - {from: "Eim", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëim", to: "𞳊", at: start} # U+1ECCA
       - {from: "eiq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëiq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Eiq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëiq", to: "𞳋", at: start} # U+1ECCB
       - {from: "eih", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëih", to: "𞳎", at: start} # U+1ECCE
       - {from: "Eih", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëih", to: "𞳎", at: start} # U+1ECCE
       - {from: "eip", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëip", to: "𞳐", at: start} # U+1ECD0
       - {from: "Eip", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëip", to: "𞳐", at: start} # U+1ECD0
       - {from: "eib", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëib", to: "𞳑", at: start} # U+1ECD1
       - {from: "Eib", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëib", to: "𞳑", at: start} # U+1ECD1
       - {from: "eif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "eiv", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Eif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Eiv", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "eiw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Eiw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "eiy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëiy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Eiy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëiy", to: "𞳔", at: start} # U+1ECD4
       - {from: "eith", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëith", to: "𞳉", at: start} # U+1ECC9
       - {from: "Eith", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëith", to: "𞳉", at: start} # U+1ECC9
       - {from: "eish", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ëish", to: "𞳏", at: start} # U+1ECCF
       - {from: "Eish", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ëish", to: "𞳏", at: start} # U+1ECCF
       - {from: "eikh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëikh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Eikh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëikh", to: "𞳌", at: start} # U+1ECCC
       - {from: "eigh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Eigh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "eich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eij", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eij", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëij", to: "𞳕", at: start} # U+1ECD5
       - {from: "eitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eij", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëij", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëitj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eij", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëij", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëitj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eol", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ëol", to: "𞳀", at: start} # U+1ECC0
       - {from: "Eol", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ëol", to: "𞳀", at: start} # U+1ECC0
       - {from: "eor", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ëor", to: "𞳁", at: start} # U+1ECC1
       - {from: "Eor", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ëor", to: "𞳁", at: start} # U+1ECC1
       - {from: "eot", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ëot", to: "𞳂", at: start} # U+1ECC2
       - {from: "Eot", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ëot", to: "𞳂", at: start} # U+1ECC2
       - {from: "eod", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëod", to: "𞳃", at: start} # U+1ECC3
       - {from: "Eod", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëod", to: "𞳃", at: start} # U+1ECC3
       - {from: "eoz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëoz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Eoz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëoz", to: "𞳄", at: start} # U+1ECC4
       - {from: "eos", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ëos", to: "𞳅", at: start} # U+1ECC5
       - {from: "Eos", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ëos", to: "𞳅", at: start} # U+1ECC5
       - {from: "eog", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëog", to: "𞳆", at: start} # U+1ECC6
       - {from: "Eog", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëog", to: "𞳆", at: start} # U+1ECC6
       - {from: "eok", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëok", to: "𞳇", at: start} # U+1ECC7
       - {from: "Eok", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëok", to: "𞳇", at: start} # U+1ECC7
       - {from: "eon", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ëon", to: "𞳈", at: start} # U+1ECC8
       - {from: "Eon", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ëon", to: "𞳈", at: start} # U+1ECC8
       - {from: "eom", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëom", to: "𞳊", at: start} # U+1ECCA
       - {from: "Eom", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëom", to: "𞳊", at: start} # U+1ECCA
       - {from: "eoq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëoq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Eoq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëoq", to: "𞳋", at: start} # U+1ECCB
       - {from: "eoh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëoh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Eoh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëoh", to: "𞳎", at: start} # U+1ECCE
       - {from: "eop", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëop", to: "𞳐", at: start} # U+1ECD0
       - {from: "Eop", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëop", to: "𞳐", at: start} # U+1ECD0
       - {from: "eob", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëob", to: "𞳑", at: start} # U+1ECD1
       - {from: "Eob", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëob", to: "𞳑", at: start} # U+1ECD1
       - {from: "eof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "eov", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëov", to: "𞳒", at: start} # U+1ECD2
       - {from: "Eof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Eov", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëov", to: "𞳒", at: start} # U+1ECD2
       - {from: "eow", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëow", to: "𞳓", at: start} # U+1ECD3
       - {from: "Eow", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëow", to: "𞳓", at: start} # U+1ECD3
       - {from: "eoy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëoy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Eoy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëoy", to: "𞳔", at: start} # U+1ECD4
       - {from: "eoth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëoth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Eoth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëoth", to: "𞳉", at: start} # U+1ECC9
       - {from: "eosh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ëosh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Eosh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ëosh", to: "𞳏", at: start} # U+1ECCF
       - {from: "eokh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëokh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Eokh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëokh", to: "𞳌", at: start} # U+1ECCC
       - {from: "eogh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Eogh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "eoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eoj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eoj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "eoj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëoj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëotj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Eoj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëoj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëotj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eul", to: "𞳀", at: start} # U+1ECC0
+      - {from: "ëul", to: "𞳀", at: start} # U+1ECC0
       - {from: "Eul", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Ëul", to: "𞳀", at: start} # U+1ECC0
       - {from: "eur", to: "𞳁", at: start} # U+1ECC1
+      - {from: "ëur", to: "𞳁", at: start} # U+1ECC1
       - {from: "Eur", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Ëur", to: "𞳁", at: start} # U+1ECC1
       - {from: "eut", to: "𞳂", at: start} # U+1ECC2
+      - {from: "ëut", to: "𞳂", at: start} # U+1ECC2
       - {from: "Eut", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Ëut", to: "𞳂", at: start} # U+1ECC2
       - {from: "eud", to: "𞳃", at: start} # U+1ECC3
+      - {from: "ëud", to: "𞳃", at: start} # U+1ECC3
       - {from: "Eud", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Ëud", to: "𞳃", at: start} # U+1ECC3
       - {from: "euz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "ëuz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Euz", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Ëuz", to: "𞳄", at: start} # U+1ECC4
       - {from: "eus", to: "𞳅", at: start} # U+1ECC5
+      - {from: "ëus", to: "𞳅", at: start} # U+1ECC5
       - {from: "Eus", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Ëus", to: "𞳅", at: start} # U+1ECC5
       - {from: "eug", to: "𞳆", at: start} # U+1ECC6
+      - {from: "ëug", to: "𞳆", at: start} # U+1ECC6
       - {from: "Eug", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Ëug", to: "𞳆", at: start} # U+1ECC6
       - {from: "euk", to: "𞳇", at: start} # U+1ECC7
+      - {from: "ëuk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Euk", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Ëuk", to: "𞳇", at: start} # U+1ECC7
       - {from: "eun", to: "𞳈", at: start} # U+1ECC8
+      - {from: "ëun", to: "𞳈", at: start} # U+1ECC8
       - {from: "Eun", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Ëun", to: "𞳈", at: start} # U+1ECC8
       - {from: "eum", to: "𞳊", at: start} # U+1ECCA
+      - {from: "ëum", to: "𞳊", at: start} # U+1ECCA
       - {from: "Eum", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Ëum", to: "𞳊", at: start} # U+1ECCA
       - {from: "euq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "ëuq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Euq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Ëuq", to: "𞳋", at: start} # U+1ECCB
       - {from: "euh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "ëuh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Euh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Ëuh", to: "𞳎", at: start} # U+1ECCE
       - {from: "eup", to: "𞳐", at: start} # U+1ECD0
+      - {from: "ëup", to: "𞳐", at: start} # U+1ECD0
       - {from: "Eup", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Ëup", to: "𞳐", at: start} # U+1ECD0
       - {from: "eub", to: "𞳑", at: start} # U+1ECD1
+      - {from: "ëub", to: "𞳑", at: start} # U+1ECD1
       - {from: "Eub", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Ëub", to: "𞳑", at: start} # U+1ECD1
       - {from: "euf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "euv", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëuf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ëuv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Euf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Euv", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëuf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ëuv", to: "𞳒", at: start} # U+1ECD2
       - {from: "euw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "ëuw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Euw", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Ëuw", to: "𞳓", at: start} # U+1ECD3
       - {from: "euy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "ëuy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Euy", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Ëuy", to: "𞳔", at: start} # U+1ECD4
       - {from: "euth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "ëuth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Euth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Ëuth", to: "𞳉", at: start} # U+1ECC9
       - {from: "eush", to: "𞳏", at: start} # U+1ECCF
+      - {from: "ëush", to: "𞳏", at: start} # U+1ECCF
       - {from: "Eush", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Ëush", to: "𞳏", at: start} # U+1ECCF
       - {from: "eukh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "ëukh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Eukh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Ëukh", to: "𞳌", at: start} # U+1ECCC
       - {from: "eugh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "ëugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Eugh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Ëugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "euch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "euJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "euj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëuch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Euch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Euj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëuch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "eutj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "euJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "euj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëuj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ëutj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Eutj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "EuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Euj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ËuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëuj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ëutj", to: "𞳕", at: start} # U+1ECD5
       - {from: "il", to: "𞳀", at: start} # U+1ECC0
       - {from: "Il", to: "𞳀", at: start} # U+1ECC0
       - {from: "ir", to: "𞳁", at: start} # U+1ECC1
@@ -1853,7 +3083,9 @@ data:
       - {from: "ib", to: "𞳑", at: start} # U+1ECD1
       - {from: "Ib", to: "𞳑", at: start} # U+1ECD1
       - {from: "if", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iv", to: "𞳒", at: start} # U+1ECD2
       - {from: "If", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iv", to: "𞳒", at: start} # U+1ECD2
       - {from: "iw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Iw", to: "𞳓", at: start} # U+1ECD3
       - {from: "iy", to: "𞳔", at: start} # U+1ECD4
@@ -1867,9 +3099,17 @@ data:
       - {from: "igh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Igh", to: "𞳍", at: start} # U+1ECCD
       - {from: "ich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ij", to: "𞳕", at: start} # U+1ECD5
       - {from: "itj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Itj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ij", to: "𞳕", at: start} # U+1ECD5
       - {from: "ill", to: "𞳖", at: start} # U+1ECD6
       - {from: "Ill", to: "𞳖", at: start} # U+1ECD6
       - {from: "irr", to: "𞳗", at: start} # U+1ECD7
@@ -1899,7 +3139,13 @@ data:
       - {from: "ibb", to: "𞳧", at: start} # U+1ECE7
       - {from: "Ibb", to: "𞳧", at: start} # U+1ECE7
       - {from: "iff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ifv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ivf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ivv", to: "𞳨", at: start} # U+1ECE8
       - {from: "Iff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ifv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ivf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ivv", to: "𞳨", at: start} # U+1ECE8
       - {from: "iww", to: "𞳩", at: start} # U+1ECE9
       - {from: "Iww", to: "𞳩", at: start} # U+1ECE9
       - {from: "iyy", to: "𞳪", at: start} # U+1ECEA
@@ -1913,9 +3159,25 @@ data:
       - {from: "iggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Iggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "icch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Icch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ittj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ittj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ithth", to: "𞳟", at: start} # U+1ECDF
       - {from: "Ithth", to: "𞳟", at: start} # U+1ECDF
       - {from: "ishsh", to: "𞳥", at: start} # U+1ECE5
@@ -1925,13 +3187,77 @@ data:
       - {from: "ighgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Ighgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "ichch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ichJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ichj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ichch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ichj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ichtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ichJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ichj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ichtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ichj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "itjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "itjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "itjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Itjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ItjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Itjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "itjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "iJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ijtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "itjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "itjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Itjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "IjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ijtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ItjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Itjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ittth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "Ittth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "isssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
@@ -1971,7 +3297,9 @@ data:
       - {from: "iab", to: "𞳑", at: start} # U+1ECD1
       - {from: "Iab", to: "𞳑", at: start} # U+1ECD1
       - {from: "iaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iav", to: "𞳒", at: start} # U+1ECD2
       - {from: "Iaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iav", to: "𞳒", at: start} # U+1ECD2
       - {from: "iaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Iaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "iay", to: "𞳔", at: start} # U+1ECD4
@@ -1985,55 +3313,129 @@ data:
       - {from: "iagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Iagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "iach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "iatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "iel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "iël", to: "𞳀", at: start} # U+1ECC0
       - {from: "Iel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Iël", to: "𞳀", at: start} # U+1ECC0
       - {from: "ier", to: "𞳁", at: start} # U+1ECC1
+      - {from: "iër", to: "𞳁", at: start} # U+1ECC1
       - {from: "Ier", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Iër", to: "𞳁", at: start} # U+1ECC1
       - {from: "iet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "iët", to: "𞳂", at: start} # U+1ECC2
       - {from: "Iet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Iët", to: "𞳂", at: start} # U+1ECC2
       - {from: "ied", to: "𞳃", at: start} # U+1ECC3
+      - {from: "iëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "Ied", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Iëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "iez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "iëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Iez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Iëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "ies", to: "𞳅", at: start} # U+1ECC5
+      - {from: "iës", to: "𞳅", at: start} # U+1ECC5
       - {from: "Ies", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Iës", to: "𞳅", at: start} # U+1ECC5
       - {from: "ieg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "iëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "Ieg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Iëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "iek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "iëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Iek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Iëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "ien", to: "𞳈", at: start} # U+1ECC8
+      - {from: "iën", to: "𞳈", at: start} # U+1ECC8
       - {from: "Ien", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Iën", to: "𞳈", at: start} # U+1ECC8
       - {from: "iem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "iëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "Iem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Iëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "ieq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "iëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Ieq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Iëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "ieh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "iëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Ieh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Iëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "iep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "iëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "Iep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Iëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "ieb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "iëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "Ieb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Iëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "ief", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Ief", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "iew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "iëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Iew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Iëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "iey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "iëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Iey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Iëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "ieth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "iëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Ieth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Iëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "iesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "iësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Iesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Iësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "iekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "iëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Iekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Iëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "iegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "iëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Iegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Iëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "iech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ieJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ietj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ieJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ietj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "iil", to: "𞳀", at: start} # U+1ECC0
       - {from: "Iil", to: "𞳀", at: start} # U+1ECC0
       - {from: "iir", to: "𞳁", at: start} # U+1ECC1
@@ -2063,7 +3465,9 @@ data:
       - {from: "iib", to: "𞳑", at: start} # U+1ECD1
       - {from: "Iib", to: "𞳑", at: start} # U+1ECD1
       - {from: "iif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Iif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "iiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Iiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "iiy", to: "𞳔", at: start} # U+1ECD4
@@ -2077,9 +3481,17 @@ data:
       - {from: "iigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Iigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "iich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iij", to: "𞳕", at: start} # U+1ECD5
       - {from: "iitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iij", to: "𞳕", at: start} # U+1ECD5
       - {from: "iol", to: "𞳀", at: start} # U+1ECC0
       - {from: "Iol", to: "𞳀", at: start} # U+1ECC0
       - {from: "ior", to: "𞳁", at: start} # U+1ECC1
@@ -2109,7 +3521,9 @@ data:
       - {from: "iob", to: "𞳑", at: start} # U+1ECD1
       - {from: "Iob", to: "𞳑", at: start} # U+1ECD1
       - {from: "iof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iov", to: "𞳒", at: start} # U+1ECD2
       - {from: "Iof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iov", to: "𞳒", at: start} # U+1ECD2
       - {from: "iow", to: "𞳓", at: start} # U+1ECD3
       - {from: "Iow", to: "𞳓", at: start} # U+1ECD3
       - {from: "ioy", to: "𞳔", at: start} # U+1ECD4
@@ -2123,9 +3537,17 @@ data:
       - {from: "iogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Iogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "ioch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ioJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ioj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ioch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ioj", to: "𞳕", at: start} # U+1ECD5
       - {from: "iotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ioJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ioj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ioj", to: "𞳕", at: start} # U+1ECD5
       - {from: "iul", to: "𞳀", at: start} # U+1ECC0
       - {from: "Iul", to: "𞳀", at: start} # U+1ECC0
       - {from: "iur", to: "𞳁", at: start} # U+1ECC1
@@ -2155,7 +3577,9 @@ data:
       - {from: "iub", to: "𞳑", at: start} # U+1ECD1
       - {from: "Iub", to: "𞳑", at: start} # U+1ECD1
       - {from: "iuf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "iuv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Iuf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Iuv", to: "𞳒", at: start} # U+1ECD2
       - {from: "iuw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Iuw", to: "𞳓", at: start} # U+1ECD3
       - {from: "iuy", to: "𞳔", at: start} # U+1ECD4
@@ -2169,9 +3593,17 @@ data:
       - {from: "iugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Iugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "iuch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iuch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "iutj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "iuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Iutj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "IuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Iuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ol", to: "𞳀", at: start} # U+1ECC0
       - {from: "Ol", to: "𞳀", at: start} # U+1ECC0
       - {from: "or", to: "𞳁", at: start} # U+1ECC1
@@ -2201,7 +3633,9 @@ data:
       - {from: "ob", to: "𞳑", at: start} # U+1ECD1
       - {from: "Ob", to: "𞳑", at: start} # U+1ECD1
       - {from: "of", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ov", to: "𞳒", at: start} # U+1ECD2
       - {from: "Of", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ov", to: "𞳒", at: start} # U+1ECD2
       - {from: "ow", to: "𞳓", at: start} # U+1ECD3
       - {from: "Ow", to: "𞳓", at: start} # U+1ECD3
       - {from: "oy", to: "𞳔", at: start} # U+1ECD4
@@ -2215,9 +3649,17 @@ data:
       - {from: "ogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Ogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "och", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Och", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oj", to: "𞳕", at: start} # U+1ECD5
       - {from: "otj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Otj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oj", to: "𞳕", at: start} # U+1ECD5
       - {from: "oll", to: "𞳖", at: start} # U+1ECD6
       - {from: "Oll", to: "𞳖", at: start} # U+1ECD6
       - {from: "orr", to: "𞳗", at: start} # U+1ECD7
@@ -2247,7 +3689,13 @@ data:
       - {from: "obb", to: "𞳧", at: start} # U+1ECE7
       - {from: "Obb", to: "𞳧", at: start} # U+1ECE7
       - {from: "off", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ofv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ovf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ovv", to: "𞳨", at: start} # U+1ECE8
       - {from: "Off", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ofv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ovf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ovv", to: "𞳨", at: start} # U+1ECE8
       - {from: "oww", to: "𞳩", at: start} # U+1ECE9
       - {from: "Oww", to: "𞳩", at: start} # U+1ECE9
       - {from: "oyy", to: "𞳪", at: start} # U+1ECEA
@@ -2261,9 +3709,25 @@ data:
       - {from: "oggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Oggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "occh", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Occh", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ottj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ottj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojj", to: "𞳫", at: start} # U+1ECEB
       - {from: "othth", to: "𞳟", at: start} # U+1ECDF
       - {from: "Othth", to: "𞳟", at: start} # U+1ECDF
       - {from: "oshsh", to: "𞳥", at: start} # U+1ECE5
@@ -2273,13 +3737,77 @@ data:
       - {from: "oghgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Oghgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "ochch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ochJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ochj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ochch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ochj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ochtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ochJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ochj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ochtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ochj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "otjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "otjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "otjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Otjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Otjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "otjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "oJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ojtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "otjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "otjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Otjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ojtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "OtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Otjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "ottth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "Ottth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "osssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
@@ -2319,7 +3847,9 @@ data:
       - {from: "oab", to: "𞳑", at: start} # U+1ECD1
       - {from: "Oab", to: "𞳑", at: start} # U+1ECD1
       - {from: "oaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "oav", to: "𞳒", at: start} # U+1ECD2
       - {from: "Oaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Oav", to: "𞳒", at: start} # U+1ECD2
       - {from: "oaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Oaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "oay", to: "𞳔", at: start} # U+1ECD4
@@ -2333,55 +3863,129 @@ data:
       - {from: "oagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Oagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "oach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Oach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "oatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Oatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "oel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "oël", to: "𞳀", at: start} # U+1ECC0
       - {from: "Oel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Oël", to: "𞳀", at: start} # U+1ECC0
       - {from: "oer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "oër", to: "𞳁", at: start} # U+1ECC1
       - {from: "Oer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Oër", to: "𞳁", at: start} # U+1ECC1
       - {from: "oet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "oët", to: "𞳂", at: start} # U+1ECC2
       - {from: "Oet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Oët", to: "𞳂", at: start} # U+1ECC2
       - {from: "oed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "oëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "Oed", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Oëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "oez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "oëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Oez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Oëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "oes", to: "𞳅", at: start} # U+1ECC5
+      - {from: "oës", to: "𞳅", at: start} # U+1ECC5
       - {from: "Oes", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Oës", to: "𞳅", at: start} # U+1ECC5
       - {from: "oeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "oëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "Oeg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Oëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "oek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "oëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Oek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Oëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "oen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "oën", to: "𞳈", at: start} # U+1ECC8
       - {from: "Oen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Oën", to: "𞳈", at: start} # U+1ECC8
       - {from: "oem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "oëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "Oem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Oëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "oeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "oëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Oeq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Oëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "oeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "oëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Oeh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Oëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "oep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "oëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "Oep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Oëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "oeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "oëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "Oeb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Oëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "oef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "oev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "oëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "oëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Oef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Oev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Oëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Oëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "oew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "oëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Oew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Oëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "oey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "oëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Oey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Oëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "oeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "oëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Oeth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Oëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "oesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "oësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Oesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Oësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "oekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "oëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Oekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Oëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "oegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "oëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Oegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Oëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "oech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Oech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "oetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Oetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "oil", to: "𞳀", at: start} # U+1ECC0
       - {from: "Oil", to: "𞳀", at: start} # U+1ECC0
       - {from: "oir", to: "𞳁", at: start} # U+1ECC1
@@ -2411,7 +4015,9 @@ data:
       - {from: "oib", to: "𞳑", at: start} # U+1ECD1
       - {from: "Oib", to: "𞳑", at: start} # U+1ECD1
       - {from: "oif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "oiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Oif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Oiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "oiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Oiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "oiy", to: "𞳔", at: start} # U+1ECD4
@@ -2425,9 +4031,17 @@ data:
       - {from: "oigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Oigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "oich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Oich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oij", to: "𞳕", at: start} # U+1ECD5
       - {from: "oitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "oij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Oitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Oij", to: "𞳕", at: start} # U+1ECD5
       - {from: "ool", to: "𞳀", at: start} # U+1ECC0
       - {from: "Ool", to: "𞳀", at: start} # U+1ECC0
       - {from: "oor", to: "𞳁", at: start} # U+1ECC1
@@ -2457,7 +4071,9 @@ data:
       - {from: "oob", to: "𞳑", at: start} # U+1ECD1
       - {from: "Oob", to: "𞳑", at: start} # U+1ECD1
       - {from: "oof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "oov", to: "𞳒", at: start} # U+1ECD2
       - {from: "Oof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Oov", to: "𞳒", at: start} # U+1ECD2
       - {from: "oow", to: "𞳓", at: start} # U+1ECD3
       - {from: "Oow", to: "𞳓", at: start} # U+1ECD3
       - {from: "ooy", to: "𞳔", at: start} # U+1ECD4
@@ -2471,9 +4087,17 @@ data:
       - {from: "oogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Oogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "ooch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ooJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ooj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ooch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ooj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ootj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ooJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ooj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ootj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ooj", to: "𞳕", at: start} # U+1ECD5
       - {from: "oul", to: "𞳀", at: start} # U+1ECC0
       - {from: "Oul", to: "𞳀", at: start} # U+1ECC0
       - {from: "our", to: "𞳁", at: start} # U+1ECC1
@@ -2503,7 +4127,9 @@ data:
       - {from: "oub", to: "𞳑", at: start} # U+1ECD1
       - {from: "Oub", to: "𞳑", at: start} # U+1ECD1
       - {from: "ouf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "ouv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Ouf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Ouv", to: "𞳒", at: start} # U+1ECD2
       - {from: "ouw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Ouw", to: "𞳓", at: start} # U+1ECD3
       - {from: "ouy", to: "𞳔", at: start} # U+1ECD4
@@ -2517,9 +4143,17 @@ data:
       - {from: "ough", to: "𞳍", at: start} # U+1ECCD
       - {from: "Ough", to: "𞳍", at: start} # U+1ECCD
       - {from: "ouch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ouJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ouj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Ouch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ouj", to: "𞳕", at: start} # U+1ECD5
       - {from: "outj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ouJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ouj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Outj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "OuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Ouj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ul", to: "𞳀", at: start} # U+1ECC0
       - {from: "Ul", to: "𞳀", at: start} # U+1ECC0
       - {from: "ur", to: "𞳁", at: start} # U+1ECC1
@@ -2549,7 +4183,9 @@ data:
       - {from: "ub", to: "𞳑", at: start} # U+1ECD1
       - {from: "Ub", to: "𞳑", at: start} # U+1ECD1
       - {from: "uf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Uf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uv", to: "𞳒", at: start} # U+1ECD2
       - {from: "uw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Uw", to: "𞳓", at: start} # U+1ECD3
       - {from: "uy", to: "𞳔", at: start} # U+1ECD4
@@ -2563,9 +4199,17 @@ data:
       - {from: "ugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Ugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "uch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uj", to: "𞳕", at: start} # U+1ECD5
       - {from: "utj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Utj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uj", to: "𞳕", at: start} # U+1ECD5
       - {from: "ull", to: "𞳖", at: start} # U+1ECD6
       - {from: "Ull", to: "𞳖", at: start} # U+1ECD6
       - {from: "urr", to: "𞳗", at: start} # U+1ECD7
@@ -2595,7 +4239,13 @@ data:
       - {from: "ubb", to: "𞳧", at: start} # U+1ECE7
       - {from: "Ubb", to: "𞳧", at: start} # U+1ECE7
       - {from: "uff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "ufv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "uvf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "uvv", to: "𞳨", at: start} # U+1ECE8
       - {from: "Uff", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Ufv", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Uvf", to: "𞳨", at: start} # U+1ECE8
+      - {from: "Uvv", to: "𞳨", at: start} # U+1ECE8
       - {from: "uww", to: "𞳩", at: start} # U+1ECE9
       - {from: "Uww", to: "𞳩", at: start} # U+1ECE9
       - {from: "uyy", to: "𞳪", at: start} # U+1ECEA
@@ -2609,9 +4259,25 @@ data:
       - {from: "uggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Uggh", to: "𞳣", at: start} # U+1ECE3
       - {from: "ucch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Ucch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujj", to: "𞳫", at: start} # U+1ECEB
       - {from: "uttj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Uttj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujj", to: "𞳫", at: start} # U+1ECEB
       - {from: "uthth", to: "𞳟", at: start} # U+1ECDF
       - {from: "Uthth", to: "𞳟", at: start} # U+1ECDF
       - {from: "ushsh", to: "𞳥", at: start} # U+1ECE5
@@ -2621,13 +4287,77 @@ data:
       - {from: "ughgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "Ughgh", to: "𞳣", at: start} # U+1ECE3
       - {from: "uchch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Uchch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Uchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujj", to: "𞳫", at: start} # U+1ECEB
       - {from: "uchtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Uchtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UchJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Uchj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujtj", to: "𞳫", at: start} # U+1ECEB
       - {from: "utjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "utjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "utjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Utjch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujch", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Utjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "utjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "uJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "ujtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "utjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "utjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "Utjtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UJtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Ujtj", to: "𞳫", at: start} # U+1ECEB
+      - {from: "UtjJ", to: "𞳫", at: start} # U+1ECEB
+      - {from: "Utjj", to: "𞳫", at: start} # U+1ECEB
       - {from: "uttth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "Uttth", to: "𞳂𞨠", at: start} # U+1ECC2 U+1EA20
       - {from: "usssh", to: "𞳅𞨦", at: start} # U+1ECC5 U+1EA26
@@ -2667,7 +4397,9 @@ data:
       - {from: "uab", to: "𞳑", at: start} # U+1ECD1
       - {from: "Uab", to: "𞳑", at: start} # U+1ECD1
       - {from: "uaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uav", to: "𞳒", at: start} # U+1ECD2
       - {from: "Uaf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uav", to: "𞳒", at: start} # U+1ECD2
       - {from: "uaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Uaw", to: "𞳓", at: start} # U+1ECD3
       - {from: "uay", to: "𞳔", at: start} # U+1ECD4
@@ -2681,55 +4413,129 @@ data:
       - {from: "uagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Uagh", to: "𞳍", at: start} # U+1ECCD
       - {from: "uach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uach", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uatj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UaJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uaj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "uël", to: "𞳀", at: start} # U+1ECC0
       - {from: "Uel", to: "𞳀", at: start} # U+1ECC0
+      - {from: "Uël", to: "𞳀", at: start} # U+1ECC0
       - {from: "uer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "uër", to: "𞳁", at: start} # U+1ECC1
       - {from: "Uer", to: "𞳁", at: start} # U+1ECC1
+      - {from: "Uër", to: "𞳁", at: start} # U+1ECC1
       - {from: "uet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "uët", to: "𞳂", at: start} # U+1ECC2
       - {from: "Uet", to: "𞳂", at: start} # U+1ECC2
+      - {from: "Uët", to: "𞳂", at: start} # U+1ECC2
       - {from: "ued", to: "𞳃", at: start} # U+1ECC3
+      - {from: "uëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "Ued", to: "𞳃", at: start} # U+1ECC3
+      - {from: "Uëd", to: "𞳃", at: start} # U+1ECC3
       - {from: "uez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "uëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "Uez", to: "𞳄", at: start} # U+1ECC4
+      - {from: "Uëz", to: "𞳄", at: start} # U+1ECC4
       - {from: "ues", to: "𞳅", at: start} # U+1ECC5
+      - {from: "uës", to: "𞳅", at: start} # U+1ECC5
       - {from: "Ues", to: "𞳅", at: start} # U+1ECC5
+      - {from: "Uës", to: "𞳅", at: start} # U+1ECC5
       - {from: "ueg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "uëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "Ueg", to: "𞳆", at: start} # U+1ECC6
+      - {from: "Uëg", to: "𞳆", at: start} # U+1ECC6
       - {from: "uek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "uëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "Uek", to: "𞳇", at: start} # U+1ECC7
+      - {from: "Uëk", to: "𞳇", at: start} # U+1ECC7
       - {from: "uen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "uën", to: "𞳈", at: start} # U+1ECC8
       - {from: "Uen", to: "𞳈", at: start} # U+1ECC8
+      - {from: "Uën", to: "𞳈", at: start} # U+1ECC8
       - {from: "uem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "uëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "Uem", to: "𞳊", at: start} # U+1ECCA
+      - {from: "Uëm", to: "𞳊", at: start} # U+1ECCA
       - {from: "ueq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "uëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "Ueq", to: "𞳋", at: start} # U+1ECCB
+      - {from: "Uëq", to: "𞳋", at: start} # U+1ECCB
       - {from: "ueh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "uëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "Ueh", to: "𞳎", at: start} # U+1ECCE
+      - {from: "Uëh", to: "𞳎", at: start} # U+1ECCE
       - {from: "uep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "uëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "Uep", to: "𞳐", at: start} # U+1ECD0
+      - {from: "Uëp", to: "𞳐", at: start} # U+1ECD0
       - {from: "ueb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "uëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "Ueb", to: "𞳑", at: start} # U+1ECD1
+      - {from: "Uëb", to: "𞳑", at: start} # U+1ECD1
       - {from: "uef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Uef", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uev", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uëf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uëv", to: "𞳒", at: start} # U+1ECD2
       - {from: "uew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "uëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Uew", to: "𞳓", at: start} # U+1ECD3
+      - {from: "Uëw", to: "𞳓", at: start} # U+1ECD3
       - {from: "uey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "uëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "Uey", to: "𞳔", at: start} # U+1ECD4
+      - {from: "Uëy", to: "𞳔", at: start} # U+1ECD4
       - {from: "ueth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "uëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "Ueth", to: "𞳉", at: start} # U+1ECC9
+      - {from: "Uëth", to: "𞳉", at: start} # U+1ECC9
       - {from: "uesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "uësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "Uesh", to: "𞳏", at: start} # U+1ECCF
+      - {from: "Uësh", to: "𞳏", at: start} # U+1ECCF
       - {from: "uekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "uëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "Uekh", to: "𞳌", at: start} # U+1ECCC
+      - {from: "Uëkh", to: "𞳌", at: start} # U+1ECCC
       - {from: "uegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "uëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Uegh", to: "𞳍", at: start} # U+1ECCD
+      - {from: "Uëgh", to: "𞳍", at: start} # U+1ECCD
       - {from: "uech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ueJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uech", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uëch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uëj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "ueJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uetj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UeJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uej", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UëJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uëj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uëtj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uil", to: "𞳀", at: start} # U+1ECC0
       - {from: "Uil", to: "𞳀", at: start} # U+1ECC0
       - {from: "uir", to: "𞳁", at: start} # U+1ECC1
@@ -2759,7 +4565,9 @@ data:
       - {from: "uib", to: "𞳑", at: start} # U+1ECD1
       - {from: "Uib", to: "𞳑", at: start} # U+1ECD1
       - {from: "uif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Uif", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uiv", to: "𞳒", at: start} # U+1ECD2
       - {from: "uiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Uiw", to: "𞳓", at: start} # U+1ECD3
       - {from: "uiy", to: "𞳔", at: start} # U+1ECD4
@@ -2773,9 +4581,17 @@ data:
       - {from: "uigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Uigh", to: "𞳍", at: start} # U+1ECCD
       - {from: "uich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uich", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uij", to: "𞳕", at: start} # U+1ECD5
       - {from: "uitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uij", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uitj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UiJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uij", to: "𞳕", at: start} # U+1ECD5
       - {from: "uol", to: "𞳀", at: start} # U+1ECC0
       - {from: "Uol", to: "𞳀", at: start} # U+1ECC0
       - {from: "uor", to: "𞳁", at: start} # U+1ECC1
@@ -2805,7 +4621,9 @@ data:
       - {from: "uob", to: "𞳑", at: start} # U+1ECD1
       - {from: "Uob", to: "𞳑", at: start} # U+1ECD1
       - {from: "uof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uov", to: "𞳒", at: start} # U+1ECD2
       - {from: "Uof", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uov", to: "𞳒", at: start} # U+1ECD2
       - {from: "uow", to: "𞳓", at: start} # U+1ECD3
       - {from: "Uow", to: "𞳓", at: start} # U+1ECD3
       - {from: "uoy", to: "𞳔", at: start} # U+1ECD4
@@ -2819,9 +4637,17 @@ data:
       - {from: "uogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Uogh", to: "𞳍", at: start} # U+1ECCD
       - {from: "uoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uoch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uotj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UoJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uoj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uul", to: "𞳀", at: start} # U+1ECC0
       - {from: "Uul", to: "𞳀", at: start} # U+1ECC0
       - {from: "uur", to: "𞳁", at: start} # U+1ECC1
@@ -2851,7 +4677,9 @@ data:
       - {from: "uub", to: "𞳑", at: start} # U+1ECD1
       - {from: "Uub", to: "𞳑", at: start} # U+1ECD1
       - {from: "uuf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "uuv", to: "𞳒", at: start} # U+1ECD2
       - {from: "Uuf", to: "𞳒", at: start} # U+1ECD2
+      - {from: "Uuv", to: "𞳒", at: start} # U+1ECD2
       - {from: "uuw", to: "𞳓", at: start} # U+1ECD3
       - {from: "Uuw", to: "𞳓", at: start} # U+1ECD3
       - {from: "uuy", to: "𞳔", at: start} # U+1ECD4
@@ -2865,9 +4693,17 @@ data:
       - {from: "uugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "Uugh", to: "𞳍", at: start} # U+1ECCD
       - {from: "uuch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uuch", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "uutj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "uuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "Uutj", to: "𞳕", at: start} # U+1ECD5
+      - {from: "UuJ", to: "𞳕", at: start} # U+1ECD5
+      - {from: "Uuj", to: "𞳕", at: start} # U+1ECD5
       - {from: "-", to: "", at: end}
       - ["-", " "] # U+0020
       - ["0", "𞨭"] # U+1EA2D
@@ -2896,7 +4732,8 @@ Qalezu Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalor
 Qalezu writes consonants. A reader supplies the vowels from the word.
 
 - **Each consonant is its sign**, and case is not written.
-- **The digraphs are one sign each:** _th_, _sh_, _kh_ and _gh_, and _ch_ and _tj_, which are the same sign.
+- **The digraphs are one sign each:** _th_, _sh_, _kh_ and _gh_, and _ch_ and _tj_, which are the same sign. _j_ is that sign too.
+- **_v_ is the sign of _f_**, and **_ë_ is the vowel _e_**.
 - **A consonant written twice** with no vowel between is that sign's doubled form, and so is a letter doubled before a digraph that begins with it (_tth_).
 - **A vowel is not written**, except at the start of a word, where it is the catch.
 - **The catch** is `'` or `’`.
@@ -2906,4 +4743,4 @@ Qalezu writes consonants. A reader supplies the vowels from the word.
 
 Qalezu Hand draws each doubled form and each catch-before form as a character of its own, so the rows write them. A catch and the sign after it are therefore one row, with each vowel that may stand between them.
 
-_j_, _v_, _x_, _c_ outside _ch_ and any other character the script lacks pass through unchanged, and the face prints the box for them.
+_x_, _c_ outside _ch_ and any other character the script lacks pass through unchanged, and the face prints the box for them.

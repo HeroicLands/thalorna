@@ -7,12 +7,14 @@ data:
   packFolder: languages
   map:
     name: thuravark
-    vowels: "aeiouAEIOUáéíóúÁÉÍÓÚ"
+    vowels: "aeiouëAEIOUËáéíóúÁÉÍÓÚ"
     rows:
       - ["a", "󰄀"] # U+F0100
       - ["A", "󰄀"] # U+F0100
       - ["e", "󰄁"] # U+F0101
+      - ["ë", "󰄁"] # U+F0101
       - ["E", "󰄁"] # U+F0101
+      - ["Ë", "󰄁"] # U+F0101
       - ["i", "󰄂"] # U+F0102
       - ["I", "󰄂"] # U+F0102
       - ["o", "󰄃"] # U+F0103
@@ -33,6 +35,8 @@ data:
       - ["J", "󰄊"] # U+F010A
       - ["k", "󰄋"] # U+F010B
       - ["K", "󰄋"] # U+F010B
+      - ["q", "󰄋"] # U+F010B
+      - ["Q", "󰄋"] # U+F010B
       - ["l", "󰄌"] # U+F010C
       - ["L", "󰄌"] # U+F010C
       - ["m", "󰄍"] # U+F010D
@@ -191,5 +195,6 @@ Thuravark Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Tha
 - **An acute vowel is the vowel and the acute mark**, which the face draws as the stave twice.
 - **_y_ before a vowel is the glide _j_**, and anywhere else the vowel _i_.
 - **The full stop** is the dash, and **the numerals** 0 to 9 are the Thuravark numerals.
+- **_q_ is the stave _k_**, and **_ë_ is the vowel _e_.** The script has no _q_ or _ë_.
 
-A space draws nothing in the face. A hyphen, `'`, `,`, _c_, _q_, _x_ and any other character the script lacks pass through unchanged; the face draws nothing for a hyphen and prints the box for the rest.
+A space draws nothing in the face. A hyphen, `'`, `,`, _c_, _x_ and any other character the script lacks pass through unchanged; the face draws nothing for a hyphen and prints the box for the rest.

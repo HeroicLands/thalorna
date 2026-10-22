@@ -7,12 +7,14 @@ data:
   packFolder: languages
   map:
     name: pirzath
-    vowels: "aeiouAEIOUáéíóúÁÉÍÓÚ"
+    vowels: "aeiouëAEIOUËáéíóúÁÉÍÓÚ"
     rows:
       - ["a", "󰀀"] # U+F0000
       - ["A", "󰀀"] # U+F0000
       - ["e", "󰀁"] # U+F0001
+      - ["ë", "󰀁"] # U+F0001
       - ["E", "󰀁"] # U+F0001
+      - ["Ë", "󰀁"] # U+F0001
       - ["i", "󰀂"] # U+F0002
       - ["I", "󰀂"] # U+F0002
       - ["o", "󰀃"] # U+F0003
@@ -256,13 +258,21 @@ data:
       - ["Áú", "󰀱󰁠󰁠"] # U+F0031 U+F0060 U+F0060
       - ["ÁÚ", "󰀱󰁠󰁠"] # U+F0031 U+F0060 U+F0060
       - ["ei", "󰀲"] # U+F0032
+      - ["ëi", "󰀲"] # U+F0032
       - ["eI", "󰀲"] # U+F0032
+      - ["ëI", "󰀲"] # U+F0032
       - ["Ei", "󰀲"] # U+F0032
+      - ["Ëi", "󰀲"] # U+F0032
       - ["EI", "󰀲"] # U+F0032
+      - ["ËI", "󰀲"] # U+F0032
       - ["eí", "󰀲󰁠"] # U+F0032 U+F0060
+      - ["ëí", "󰀲󰁠"] # U+F0032 U+F0060
       - ["eÍ", "󰀲󰁠"] # U+F0032 U+F0060
+      - ["ëÍ", "󰀲󰁠"] # U+F0032 U+F0060
       - ["Eí", "󰀲󰁠"] # U+F0032 U+F0060
+      - ["Ëí", "󰀲󰁠"] # U+F0032 U+F0060
       - ["EÍ", "󰀲󰁠"] # U+F0032 U+F0060
+      - ["ËÍ", "󰀲󰁠"] # U+F0032 U+F0060
       - ["éi", "󰀲󰁠"] # U+F0032 U+F0060
       - ["éI", "󰀲󰁠"] # U+F0032 U+F0060
       - ["Éi", "󰀲󰁠"] # U+F0032 U+F0060
@@ -320,13 +330,21 @@ data:
       - {from: "ÁY", to: "󰀰󰁠", before: consonant} # U+F0030 U+F0060
       - {from: "ÁY", to: "󰀰󰁠", at: end} # U+F0030 U+F0060
       - {from: "ey", to: "󰀲", before: consonant} # U+F0032
+      - {from: "ëy", to: "󰀲", before: consonant} # U+F0032
       - {from: "ey", to: "󰀲", at: end} # U+F0032
+      - {from: "ëy", to: "󰀲", at: end} # U+F0032
       - {from: "eY", to: "󰀲", before: consonant} # U+F0032
+      - {from: "ëY", to: "󰀲", before: consonant} # U+F0032
       - {from: "eY", to: "󰀲", at: end} # U+F0032
+      - {from: "ëY", to: "󰀲", at: end} # U+F0032
       - {from: "Ey", to: "󰀲", before: consonant} # U+F0032
+      - {from: "Ëy", to: "󰀲", before: consonant} # U+F0032
       - {from: "Ey", to: "󰀲", at: end} # U+F0032
+      - {from: "Ëy", to: "󰀲", at: end} # U+F0032
       - {from: "EY", to: "󰀲", before: consonant} # U+F0032
+      - {from: "ËY", to: "󰀲", before: consonant} # U+F0032
       - {from: "EY", to: "󰀲", at: end} # U+F0032
+      - {from: "ËY", to: "󰀲", at: end} # U+F0032
       - {from: "éy", to: "󰀲󰁠", before: consonant} # U+F0032 U+F0060
       - {from: "éy", to: "󰀲󰁠", at: end} # U+F0032 U+F0060
       - {from: "éY", to: "󰀲󰁠", before: consonant} # U+F0032 U+F0060
@@ -416,21 +434,37 @@ data:
       - ["YÁú", "󰀗󰀀󰁠󰀄󰁠"] # U+F0017 U+F0000 U+F0060 U+F0004 U+F0060
       - ["YÁÚ", "󰀗󰀀󰁠󰀄󰁠"] # U+F0017 U+F0000 U+F0060 U+F0004 U+F0060
       - ["yei", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["yëi", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["yeI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["yëI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["yEi", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["yËi", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["yEI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["yËI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["Yei", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["Yëi", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["YeI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["YëI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["YEi", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["YËi", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["YEI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
+      - ["YËI", "󰀗󰀁󰀂"] # U+F0017 U+F0001 U+F0002
       - ["yeí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["yëí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["yeÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["yëÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["yEí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["yËí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["yEÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["yËÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["Yeí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["Yëí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["YeÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["YëÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["YEí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["YËí", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["YEÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
+      - ["YËÍ", "󰀗󰀁󰀂󰁠"] # U+F0017 U+F0001 U+F0002 U+F0060
       - ["yéi", "󰀗󰀁󰁠󰀂"] # U+F0017 U+F0001 U+F0060 U+F0002
       - ["yéI", "󰀗󰀁󰁠󰀂"] # U+F0017 U+F0001 U+F0060 U+F0002
       - ["yÉi", "󰀗󰀁󰁠󰀂"] # U+F0017 U+F0001 U+F0060 U+F0002
@@ -544,21 +578,37 @@ data:
       - {from: "YÁY", to: "󰀗󰀀󰁠󰀂", before: consonant} # U+F0017 U+F0000 U+F0060 U+F0002
       - {from: "YÁY", to: "󰀗󰀀󰁠󰀂", at: end} # U+F0017 U+F0000 U+F0060 U+F0002
       - {from: "yey", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "yëy", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "yey", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "yëy", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "yeY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "yëY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "yeY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "yëY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "yEy", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "yËy", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "yEy", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "yËy", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "yEY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "yËY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "yEY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "yËY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "Yey", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "Yëy", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "Yey", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "Yëy", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "YeY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "YëY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "YeY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "YëY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "YEy", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "YËy", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "YEy", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "YËy", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "YEY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
+      - {from: "YËY", to: "󰀗󰀁󰀂", before: consonant} # U+F0017 U+F0001 U+F0002
       - {from: "YEY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
+      - {from: "YËY", to: "󰀗󰀁󰀂", at: end} # U+F0017 U+F0001 U+F0002
       - {from: "yéy", to: "󰀗󰀁󰁠󰀂", before: consonant} # U+F0017 U+F0001 U+F0060 U+F0002
       - {from: "yéy", to: "󰀗󰀁󰁠󰀂", at: end} # U+F0017 U+F0001 U+F0060 U+F0002
       - {from: "yéY", to: "󰀗󰀁󰁠󰀂", before: consonant} # U+F0017 U+F0001 U+F0060 U+F0002
@@ -657,6 +707,7 @@ Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **An acute vowel is the vowel and the length mark.**
 - **The vowel pairs are letters:** _ai_, _au_, _ei_, _oi_ and _ou_, carrying the length mark of either vowel. _ay_, _ey_ and _oy_ are the pairs _ai_, _ei_ and _oi_, except before a vowel.
 - **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. After the glide, a vowel pair is written as its two vowels, which the faces join into the pair.
+- **_ë_ is the vowel _e_.**
 - **The catch** is `'` or `’`.
 - **The numerals count in sixteens:** 0 to 9, then `@`, `#`, `$`, `%`, `^` and `&` for ten to fifteen.
 - **The points** are `.`, `,`, `!` and the hyphen.
