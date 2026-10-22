@@ -235,10 +235,11 @@ data:
     - {name: "Numbers", holds: "The numerals, one to ten, a hundred and a thousand."}
     - {name: "Doing", holds: "The verbs, each one form that does not change."}
   affixes:
-    - {form: "-Zalu", gloss: "south"}
-    - {form: "-Miglet", gloss: "north"}
-    - {form: "-Ithnet", gloss: "west"}
-    - {form: "-Iaqtet", gloss: "east"}
+    - {form: "-Zalu", gloss: "south", native: [{map: zethu, text: "𞭝"}]}
+    - {form: "-Miglet", gloss: "north", native: [{map: zethu, text: "𞰭"}]}
+    - {form: "-Ithnet", gloss: "west", native: [{map: zethu, text: "𞭕"}]}
+    - {form: "-Iaqtet", gloss: "east", native: [{map: zethu, text: "𞬳"}]}
+  grammar: {native: [{ending: plural, map: zethu, text: "𞯡"}]}
   elements:
     - {form: anlagh, variants: [anlaghu], sense: life}
     - {form: zab, variants: [zabu], sense: "lord, lady"}
@@ -263,107 +264,226 @@ data:
       class: "part"
       field: "Particles"
       gloss: "of, toward—the linking particle, and the one a commoner's byname hangs on"
-    - {form: "elu", class: "part", field: "Particles", gloss: "of, upon"}
-    - {form: "ezu", class: "part", field: "Particles", gloss: "in"}
+      native: [{map: zethu, text: "𞭗"}]
+    - form: "elu"
+      class: "part"
+      field: "Particles"
+      gloss: "of, upon"
+      native: [{map: zethu, text: "𞭗"}]
+    - form: "ezu"
+      class: "part"
+      field: "Particles"
+      gloss: "in"
+      native: [{map: zethu, text: "𞭗"}]
     - form: "agu"
       class: "part"
       field: "Particles"
       gloss: "shall—marking what is undertaken rather than what is done"
-    - {form: "Gar-", class: "stem", field: "Place elements", gloss: "house of, temple of"}
-    - {form: "Zu-", class: "stem", field: "Place elements", gloss: "land of"}
-    - {form: "Lut-", class: "stem", field: "Place elements", gloss: "estate of"}
-    - {form: "Yath-", class: "stem", field: "Place elements", gloss: "mound of"}
-    - {form: "Zel-", class: "stem", field: "Place elements", gloss: "place of"}
-    - {form: "Magu-", class: "stem", field: "Place elements", gloss: "garden of"}
-    - {form: "Khuqet-", class: "stem", field: "Place elements", gloss: "desert land of"}
-    - {form: "Selat-", class: "stem", field: "Place elements", gloss: "the province"}
+      native: [{map: zethu, text: "𞯜𞮒"}]
+    - form: "Gar-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "house of, temple of"
+      native: [{map: zethu, text: "𞭤"}]
+    - form: "Zu-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "land of"
+      native: [{map: zethu, text: "𞭗"}]
+    - form: "Lut-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "estate of"
+      native: [{map: zethu, text: "𞭘"}]
+    - form: "Yath-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "mound of"
+      native: [{map: zethu, text: "𞭒"}]
+    - form: "Zel-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "place of"
+      native: [{map: zethu, text: "𞭙"}]
+    - form: "Magu-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "garden of"
+      native: [{map: zethu, text: "𞭐"}]
+    - form: "Khuqet-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "desert land of"
+      native: [{map: zethu, text: "𞭔"}]
+    - form: "Selat-"
+      class: "stem"
+      field: "Place elements"
+      gloss: "the province"
+      native: [{map: zethu, text: "𞭚"}]
     - form: "Au"
       class: "stem"
       field: "Rank morphemes"
       gloss: "of the throne and the realm, and reserved to it"
+      native: [{map: zethu, text: "𞭥"}]
     - form: "Thaz"
       class: "stem"
       field: "Rank morphemes"
       gloss: "of rank and extent—the ordinary word for great, and so the unpaused one"
-    - {form: "Lem'", class: "stem", field: "Rank morphemes", gloss: "servant of"}
-    - {form: "Nelgir", class: "stem", field: "Rank morphemes", gloss: "god"}
-    - {form: "Lekhau", class: "stem", field: "Rank morphemes", gloss: "sacred power"}
+      native: [{map: zethu, text: "𞰇"}]
+    - form: "Lem'"
+      class: "stem"
+      field: "Rank morphemes"
+      gloss: "servant of"
+      native: [{map: zethu, text: "𞩁"}]
+    - form: "Nelgir"
+      class: "stem"
+      field: "Rank morphemes"
+      gloss: "god"
+      native: [{map: zethu, text: "𞪑"}]
+    - form: "Lekhau"
+      class: "stem"
+      field: "Rank morphemes"
+      gloss: "sacred power"
+      native: [{map: zethu, text: "𞪓"}]
     - form: "Halzi"
       class: "stem"
       field: "Rank morphemes"
       gloss: "heart, and the account a heart answers for"
       concept: heart
-    - {form: "Wazu", class: "stem", field: "Rank morphemes", gloss: "pure"}
-    - {form: "Genzet", class: "stem", field: "Rank morphemes", gloss: "council"}
-    - {form: "Selat", class: "stem", field: "Rank morphemes", gloss: "province"}
+      native: [{map: zethu, text: "𞪻"}]
+    - form: "Wazu"
+      class: "stem"
+      field: "Rank morphemes"
+      gloss: "pure"
+      native: [{map: zethu, text: "𞩅"}]
+    - form: "Genzet"
+      class: "stem"
+      field: "Rank morphemes"
+      gloss: "council"
+      native: [{map: zethu, text: "𞭬"}]
+    - form: "Selat"
+      class: "stem"
+      field: "Rank morphemes"
+      gloss: "province"
+      native: [{map: zethu, text: "𞭚"}]
     - {form: "Iru'palu", class: "stem", field: "Rank morphemes", gloss: "the hereditary standing"}
     - form: "Zelar"
       class: "n"
       field: "Rank morphemes"
       gloss: "a commoner, the free rank of no house"
+      native: [{map: zethu, text: "𞰈"}]
     - form: "Zabu"
       class: "n"
       field: "Rank morphemes"
       gloss: "a noble, the rank of one born or married into a titled house"
-    - {form: "zuqat", class: "n", field: "Occupations", gloss: "tiller"}
-    - {form: "meglu", class: "n", field: "Occupations", gloss: "herder"}
-    - {form: "igelar", class: "n", field: "Occupations", gloss: "boatman"}
-    - {form: "shebar", class: "n", field: "Occupations", gloss: "reed-cutter"}
-    - {form: "qedlu", class: "n", field: "Occupations", gloss: "quarryman"}
-    - {form: "gethar", class: "n", field: "Occupations", gloss: "potter"}
+      native: [{map: zethu, text: "𞩌"}]
+    - form: "zuqat"
+      class: "n"
+      field: "Occupations"
+      gloss: "tiller"
+      native: [{map: zethu, text: "𞩓"}]
+    - form: "meglu"
+      class: "n"
+      field: "Occupations"
+      gloss: "herder"
+      native: [{map: zethu, text: "𞩘"}]
+    - form: "igelar"
+      class: "n"
+      field: "Occupations"
+      gloss: "boatman"
+      native: [{map: zethu, text: "𞩛"}]
+    - form: "shebar"
+      class: "n"
+      field: "Occupations"
+      gloss: "reed-cutter"
+      native: [{map: zethu, text: "𞩠"}]
+    - form: "qedlu"
+      class: "n"
+      field: "Occupations"
+      gloss: "quarryman"
+      native: [{map: zethu, text: "𞩡"}]
+    - form: "gethar"
+      class: "n"
+      field: "Occupations"
+      gloss: "potter"
+      native: [{map: zethu, text: "𞩙"}]
     - {form: "legzar", class: "n", field: "Occupations", gloss: "brewer"}
-    - {form: "walir", class: "n", field: "Occupations", gloss: "weaver"}
-    - {form: "lemzu", class: "n", field: "Occupations", gloss: "bondsman"}
+    - form: "walir"
+      class: "n"
+      field: "Occupations"
+      gloss: "weaver"
+      native: [{map: zethu, text: "𞪃"}]
+    - form: "lemzu"
+      class: "n"
+      field: "Occupations"
+      gloss: "bondsman"
+      native: [{map: zethu, text: "𞰉"}]
     - form: "githar"
       class: "n"
       field: "Occupations"
       gloss: "the loom, and the weavers' work-word"
+      native: [{map: zethu, text: "𞯚"}]
     - form: "legharu"
       class: "n"
       field: "Occupations"
       gloss: "the herb, and the apothecaries' work-word"
+      native: [{map: zethu, text: "𞬬"}]
     - form: "lemu"
       class: "n"
       field: "Occupations"
       gloss: "service, and the servants' work-word"
+      native: [{map: zethu, text: "𞩁"}]
     - form: "melnu"
       class: "n"
       field: "Occupations"
       gloss: "the forge, and the metalworkers' work-word"
+      native: [{map: zethu, text: "𞮮"}]
     - form: "qelzu"
       class: "n"
       field: "Occupations"
       gloss: "the lock, and the locksmiths' work-word"
       concept: lock
+      native: [{map: zethu, text: "𞭪"}]
     - form: "qethar"
       class: "n"
       field: "Occupations"
       gloss: "the old way, and the traditionalists' work-word"
-    - {form: "rethu", class: "n", field: "Occupations", gloss: "lore, and the scholars' work-word"}
+      native: [{map: zethu, text: "𞰊"}]
+    - form: "rethu"
+      class: "n"
+      field: "Occupations"
+      gloss: "lore, and the scholars' work-word"
+      native: [{map: zethu, text: "𞰅𞯆"}]
     - form: "shelun"
       class: "n"
       field: "Occupations"
       gloss: "performance, and the players' work-word"
+      native: [{map: zethu, text: "𞰋"}]
     - form: "zamlu"
       class: "n"
       field: "Occupations"
       gloss: "music, and the minstrels' work-word"
+      native: [{map: zethu, text: "𞩩"}]
     - form: "zegaru"
       class: "n"
       field: "Occupations"
       gloss: "the field, and the farmers' work-word"
+      native: [{map: zethu, text: "𞭏"}]
     - form: "zeghet"
       class: "n"
       field: "Occupations"
       gloss: "the hunt; Zeghet' opens the name of a company that goes out"
+      native: [{map: zethu, text: "𞩗"}]
     - form: "zemnu"
       class: "n"
       field: "Occupations"
       gloss: "craft, and the artisans' work-word"
+      native: [{map: zethu, text: "𞰌"}]
     - form: "zuwaret"
       class: "n"
       field: "Occupations"
       gloss: "trade, and the merchants' work-word"
+      native: [{map: zethu, text: "𞮊"}]
     - form: "qatlun"
       class: "n"
       field: "Counting-house and water-works"
@@ -372,153 +492,298 @@ data:
       class: "n"
       field: "Counting-house and water-works"
       gloss: "a tax, the impost on goods crossing a line"
+      native: [{map: zethu, text: "𞮭"}]
     - form: "qathur"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "a seal, and the warrant it closes"
-    - {form: "telqas", class: "n", field: "Counting-house and water-works", gloss: "a quay"}
-    - {form: "habtun", class: "n", field: "Counting-house and water-works", gloss: "a storehouse"}
+      native: [{map: zethu, text: "𞮪"}]
+    - form: "telqas"
+      class: "n"
+      field: "Counting-house and water-works"
+      gloss: "a quay"
+      native: [{map: zethu, text: "𞭹"}]
+    - form: "habtun"
+      class: "n"
+      field: "Counting-house and water-works"
+      gloss: "a storehouse"
+      native: [{map: zethu, text: "𞭧"}]
     - form: "halzat"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "the weighing, built on halzi"
+      native: [{map: zethu, text: "𞮫"}]
     - form: "qinlat"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "sweet oil, unguent"
-    - {form: "duras", class: "n", field: "Counting-house and water-works", gloss: "washing-salt"}
+      native: [{map: zethu, text: "𞮿"}]
+    - form: "duras"
+      class: "n"
+      field: "Counting-house and water-works"
+      gloss: "washing-salt"
+      native: [{map: zethu, text: "𞮱"}]
     - form: "gezan"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "the temple-attested weight-piece of copper, silver or gold; ten qelu"
+      native: [{map: zethu, text: "𞯞"}]
     - form: "qelu"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "a tenth of a gezan, the smaller weight-piece"
+      native: [{map: zethu, text: "𞮙"}]
     - form: "mazgar"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "a measure of grain"
+      native: [{map: zethu, text: "𞮜"}]
     - form: "mazgaru"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "bulk, volume; the work-word of merchants who deal by volume"
-    - {form: "lagun", class: "n", field: "Counting-house and water-works", gloss: "timber"}
-    - {form: "qenuwa", class: "n", field: "Counting-house and water-works", gloss: "gold"}
+      native: [{map: zethu, text: "𞮜𞯃"}]
+    - form: "lagun"
+      class: "n"
+      field: "Counting-house and water-works"
+      gloss: "timber"
+      native: [{map: zethu, text: "𞮯"}]
+    - form: "qenuwa"
+      class: "n"
+      field: "Counting-house and water-works"
+      gloss: "gold"
+      native: [{map: zethu, text: "𞮰"}]
     - form: "qezelet"
       class: "n"
       field: "Counting-house and water-works"
       gloss: "the formal, temple form of qelu, written on attestations"
+      native: [{map: zethu, text: "𞮙𞭻"}]
     - form: "zamlet"
       class: "n"
       field: "The written and the recited"
       gloss: "a hymn, a song sung before a god"
       note: built on zamlu, music
+      native: [{map: zethu, text: "𞯸"}]
     - form: "lekhunet"
       class: "n"
       field: "The written and the recited"
       gloss: "a spell, a working spoken aloud over the dead or the living"
       note: built on lekhau, as Halzunet is built on halzi
+      native: [{map: zethu, text: "𞯹"}]
     - form: "rethet"
       class: "n"
       field: "The written and the recited"
       gloss: "an instruction, the teaching a father or a master hands down"
       note: built on reth, the name, and rethu, lore
+      native: [{map: zethu, text: "𞯆"}]
     - form: "qethunet"
       class: "n"
       field: "The written and the recited"
       gloss: "a tale, a telling in prose of how a thing was"
       note: built on qethar, the old way, as Halzunet on halzi
+      native: [{map: zethu, text: "𞰊𞪯"}]
     - form: "tazlet"
       class: "n"
       field: "The written and the recited"
       gloss: "a lament, the keening raised over the dead before the burial"
       note: built on a root of its own, t-z-l, to bow down and keen
+      native: [{map: zethu, text: "𞯻"}]
     - form: "genzat"
       class: "n"
       field: "The written and the recited"
       gloss: "a suit at law, and a tale of one, gods' or men's"
       note: built on genzet, the court, as halzat on halzi
+      native: [{map: zethu, text: "𞯼"}]
     - form: "qedlet"
       class: "n"
       field: "The written and the recited"
       gloss: "an inscription, a text cut in stone"
       note: built on the root of qedlu, the quarryman
-    - {form: Uqa'a, class: name, field: The Twelve, gloss: fire, variants: [Uqa]}
-    - {form: Qe'aret, class: name, field: The Twelve, gloss: order, variants: [Qar]}
-    - {form: Reth'Sa'ar, class: name, field: The Twelve, gloss: knowledge, variants: [Retha]}
-    - {form: Saq'aru, class: name, field: The Twelve, gloss: creation, variants: [Psaqa]}
+      native: [{map: zethu, text: "𞯽"}]
+    - form: Uqa'a
+      class: name
+      field: The Twelve
+      gloss: fire
+      variants: [Uqa]
+      native: [{map: zethu, text: "𞬲"}]
+    - form: Qe'aret
+      class: name
+      field: The Twelve
+      gloss: order
+      variants: [Qar]
+      native: [{map: zethu, text: "𞪖"}]
+    - form: Reth'Sa'ar
+      class: name
+      field: The Twelve
+      gloss: knowledge
+      variants: [Retha]
+      native: [{map: zethu, text: "𞪗"}]
+    - form: Saq'aru
+      class: name
+      field: The Twelve
+      gloss: creation
+      variants: [Psaqa]
+      native: [{map: zethu, text: "𞪘"}]
     - form: Uzn'era
       class: name
       field: The Twelve
       gloss: fertility and healing
       variants: [Uzner]
-    - {form: Weth'ur, class: name, field: The Twelve, gloss: death}
-    - {form: Thuba'i, class: name, field: The Twelve, gloss: prosperity}
-    - {form: Chaq'ur, class: name, field: The Twelve, gloss: storms}
-    - {form: Nehle'at, class: name, field: The Twelve, gloss: dreams}
-    - {form: Hezmu'iri, class: name, field: The Twelve, gloss: decay}
-    - {form: Gewa'atis, class: name, field: The Twelve, gloss: voyages}
-    - {form: Azu'athis, class: name, field: The Twelve, gloss: chaos}
-    - {form: Qeztu, class: name, field: Local gods, gloss: war}
-    - {form: Chelsur, class: name, field: Local gods, gloss: river-beasts}
-    - {form: Shebazet, class: name, field: Local gods, gloss: the marsh}
-    - {form: Pelgun, class: name, field: Local gods, gloss: desert roads}
-    - {form: Linhur, class: name, field: Local gods, gloss: "the hunt, the hunter"}
-    - {form: Linkur, class: name, field: Local gods, gloss: "the hunt, the killing"}
-    - {form: Igelnaru, class: name, field: Local gods, built: [igelu], gloss: the river}
-    - {form: lekhau, class: n, field: "Temple, arcane and cosmology", gloss: sacred power}
-    - {form: zethu, class: n, field: "Temple, arcane and cosmology", gloss: [writing, a scribe]}
-    - {form: nelgir, class: n, field: "Temple, arcane and cosmology", gloss: god}
+      native: [{map: zethu, text: "𞪙"}]
+    - form: Weth'ur
+      class: name
+      field: The Twelve
+      gloss: death
+      native: [{map: zethu, text: "𞰛"}]
+    - form: Thuba'i
+      class: name
+      field: The Twelve
+      gloss: prosperity
+      native: [{map: zethu, text: "𞪚"}]
+    - form: Chaq'ur
+      class: name
+      field: The Twelve
+      gloss: storms
+      native: [{map: zethu, text: "𞪛"}]
+    - form: Nehle'at
+      class: name
+      field: The Twelve
+      gloss: dreams
+      native: [{map: zethu, text: "𞪜"}]
+    - form: Hezmu'iri
+      class: name
+      field: The Twelve
+      gloss: decay
+      native: [{map: zethu, text: "𞪝"}]
+    - form: Gewa'atis
+      class: name
+      field: The Twelve
+      gloss: voyages
+      native: [{map: zethu, text: "𞪞"}]
+    - form: Azu'athis
+      class: name
+      field: The Twelve
+      gloss: chaos
+      native: [{map: zethu, text: "𞪟"}]
+    - {form: Qeztu, class: name, field: Local gods, gloss: war, native: [{map: zethu, text: "𞪠"}]}
+    - form: Chelsur
+      class: name
+      field: Local gods
+      gloss: river-beasts
+      native: [{map: zethu, text: "𞬉"}]
+    - form: Shebazet
+      class: name
+      field: Local gods
+      gloss: the marsh
+      native: [{map: zethu, text: "𞬑"}]
+    - form: Pelgun
+      class: name
+      field: Local gods
+      gloss: desert roads
+      native: [{map: zethu, text: "𞪡"}]
+    - form: Linhur
+      class: name
+      field: Local gods
+      gloss: "the hunt, the hunter"
+      native: [{map: zethu, text: "𞪢"}]
+    - form: Linkur
+      class: name
+      field: Local gods
+      gloss: "the hunt, the killing"
+      native: [{map: zethu, text: "𞪣"}]
+    - form: Igelnaru
+      class: name
+      field: Local gods
+      built: [igelu]
+      gloss: the river
+      native: [{map: zethu, text: "𞪤"}]
+    - form: lekhau
+      class: n
+      field: "Temple, arcane and cosmology"
+      gloss: sacred power
+      native: [{map: zethu, text: "𞪓"}]
+    - form: zethu
+      class: n
+      field: "Temple, arcane and cosmology"
+      gloss: [writing, a scribe]
+      native: [{map: zethu, text: "𞩨"}]
+    - form: nelgir
+      class: n
+      field: "Temple, arcane and cosmology"
+      gloss: god
+      native: [{map: zethu, text: "𞪑"}]
     - form: halzi
       class: n
       field: "Temple, arcane and cosmology"
       gloss: "heart, account"
       concept: heart
-    - {form: igelu, class: n, field: "Temple, arcane and cosmology", gloss: the river}
+      native: [{map: zethu, text: "𞪻"}]
+    - form: igelu
+      class: n
+      field: "Temple, arcane and cosmology"
+      gloss: the river
+      native: [{map: zethu, text: "𞭈"}]
     - form: Zulaten
       class: name
       field: "Temple, arcane and cosmology"
       gloss: the realm of the dead
-    - {form: Gethunu, class: name, field: "Temple, arcane and cosmology", gloss: the arcane order}
+      native: [{map: zethu, text: "𞭕"}]
+    - form: Gethunu
+      class: name
+      field: "Temple, arcane and cosmology"
+      gloss: the arcane order
+      native: [{map: zethu, text: "𞰍"}]
     - form: Algit
       class: name
       field: "Temple, arcane and cosmology"
       gloss: the Devourer of the Dead
+      native: [{map: zethu, text: "𞪥"}]
     - form: Qet Telgu
       class: name
       field: "Temple, arcane and cosmology"
       gloss: the first occasion
+      native: [{map: zethu, text: "𞭆"}]
     - form: selqur
       class: n
       field: "Temple, arcane and cosmology"
       gloss: a year of the count from the Qet Telgu
+      native: [{map: zethu, text: "𞭃"}]
     - form: Halzunet
       class: name
       field: "Temple, arcane and cosmology"
       gloss: "the noon denials, the heart's account declared aloud"
+      native: [{map: zethu, text: "𞬵"}]
     - form: zaglu
       class: n
       field: "Temple, arcane and cosmology"
       gloss: a figure that answers for its owner
-    - {form: Azlet, class: name, field: "Temple, arcane and cosmology", gloss: the season of flood}
+      native: [{map: zethu, text: "𞯉"}]
+    - form: Azlet
+      class: name
+      field: "Temple, arcane and cosmology"
+      gloss: the season of flood
+      native: [{map: zethu, text: "𞭀"}]
     - form: Gelet
       class: name
       field: "Temple, arcane and cosmology"
       gloss: the season of growing
+      native: [{map: zethu, text: "𞭁"}]
     - form: Shelu
       class: name
       field: "Temple, arcane and cosmology"
       gloss: the harvest, the season of low water
+      native: [{map: zethu, text: "𞭂"}]
     - form: qezat
       class: n
       field: "Temple, arcane and cosmology"
       gloss: "a battle, built on `Qeztu` as `halzat` on `halzi`"
+      native: [{map: zethu, text: "𞯿"}]
     - form: zelqezat
       class: n
       field: "Temple, arcane and cosmology"
       built: [Zel-, qezat]
       gloss: "a blood-field, the place of a battle left unread"
+      native: [{map: zethu, text: "𞰀"}]
     - form: zelalgit
       class: n
       field: "Temple, arcane and cosmology"
@@ -528,6 +793,7 @@ data:
       class: n
       field: "Temple, arcane and cosmology"
       gloss: "the disk, the sun's visible body"
+      native: [{map: zethu, text: "𞬲"}]
     - form: qamzet
       class: adj
       field: "Temple, arcane and cosmology"
@@ -536,28 +802,37 @@ data:
       class: n
       field: "Temple, arcane and cosmology"
       gloss: "a sanctuary, the inner room of a temple"
+      native: [{map: zethu, text: "𞭭"}]
     - form: "dumatu"
       class: "n"
       field: "Temple, arcane and cosmology"
       gloss: "the driven one, the mindless undead; abroad, damut"
+      native: [{map: zethu, text: "𞯛"}]
     - form: "qelt"
       class: "n"
       field: "Temple, arcane and cosmology"
       gloss: "the soul-component that is embalmed"
+      native: [{map: zethu, text: "𞪾"}]
     - form: "terebu"
       class: "n"
       field: "Temple, arcane and cosmology"
       gloss: "the cloaked one, the sentient undead; abroad, tereb"
+      native: [{map: zethu, text: "𞯎"}]
     - form: Au'Khelathu
       class: name
       field: "The realm, its people and its hands"
       built: [Au, Khelathu]
       gloss: "the empire, formally"
-    - {form: Khelathu, class: name, field: "The realm, its people and its hands", gloss: the land}
+    - form: Khelathu
+      class: name
+      field: "The realm, its people and its hands"
+      gloss: the land
+      native: [{map: zethu, text: "𞭣"}]
     - form: Khelathi
       class: name
       field: "The realm, its people and its hands"
       gloss: "its people, and its tongue"
+      native: [{map: zethu, text: "𞰑"}]
     - form: Khelathi-zethu
       class: name
       field: "The realm, its people and its hands"
@@ -567,80 +842,205 @@ data:
       class: name
       field: "The realm, its people and its hands"
       gloss: the everyday alphabet
-    - {form: "Lin'", class: "stem", field: "Head-words", gloss: "The opening of a guild's name"}
-    - {form: lazen, class: num, field: "Numbers", gloss: "one", concept: one}
-    - {form: khul, class: num, field: "Numbers", gloss: "two", concept: two}
-    - {form: khemu, class: num, field: "Numbers", gloss: "three", concept: three}
-    - {form: tuzar, class: num, field: "Numbers", gloss: "four", concept: four}
-    - {form: chalen, class: num, field: "Numbers", gloss: "five", concept: five}
-    - {form: chun, class: num, field: "Numbers", gloss: "six", concept: six}
-    - {form: salet, class: num, field: "Numbers", gloss: "seven", concept: seven}
-    - {form: waqen, class: num, field: "Numbers", gloss: "eight", concept: eight}
-    - {form: qanu, class: num, field: "Numbers", gloss: "nine", concept: nine}
-    - {form: gerun, class: num, field: "Numbers", gloss: "ten", concept: ten}
-    - {form: khen, class: num, field: "Numbers", gloss: "a hundred", concept: hundred}
-    - {form: qalzun, class: num, field: "Numbers", gloss: "a thousand", concept: thousand}
+      native: [{map: zethu, text: "𞰏"}]
+    - form: "Lin'"
+      class: "stem"
+      field: "Head-words"
+      gloss: "The opening of a guild's name"
+      native: [{map: zethu, text: "𞩭"}]
+    - form: lazen
+      class: num
+      field: "Numbers"
+      gloss: "one"
+      concept: one
+      native: [{map: zethu, text: "𞯟"}]
+    - form: khul
+      class: num
+      field: "Numbers"
+      gloss: "two"
+      concept: two
+      native: [{map: zethu, text: "𞯠"}]
+    - form: khemu
+      class: num
+      field: "Numbers"
+      gloss: "three"
+      concept: three
+      native: [{map: zethu, text: "𞯠𞯟"}]
+    - form: tuzar
+      class: num
+      field: "Numbers"
+      gloss: "four"
+      concept: four
+      native: [{map: zethu, text: "𞰕"}]
+    - form: chalen
+      class: num
+      field: "Numbers"
+      gloss: "five"
+      concept: five
+      native: [{map: zethu, text: "𞰖"}]
+    - form: chun
+      class: num
+      field: "Numbers"
+      gloss: "six"
+      concept: six
+      native: [{map: zethu, text: "𞰗"}]
+    - form: salet
+      class: num
+      field: "Numbers"
+      gloss: "seven"
+      concept: seven
+      native: [{map: zethu, text: "𞰃"}]
+    - form: waqen
+      class: num
+      field: "Numbers"
+      gloss: "eight"
+      concept: eight
+      native: [{map: zethu, text: "𞰘"}]
+    - form: qanu
+      class: num
+      field: "Numbers"
+      gloss: "nine"
+      concept: nine
+      native: [{map: zethu, text: "𞰙"}]
+    - form: gerun
+      class: num
+      field: "Numbers"
+      gloss: "ten"
+      concept: ten
+      native: [{map: zethu, text: "𞯞"}]
+    - form: khen
+      class: num
+      field: "Numbers"
+      gloss: "a hundred"
+      concept: hundred
+      native: [{map: zethu, text: "𞯢"}]
+    - form: qalzun
+      class: num
+      field: "Numbers"
+      gloss: "a thousand"
+      concept: thousand
+      native: [{map: zethu, text: "𞯣"}]
     - form: mazel
       class: v
       field: "Doing"
       gloss: "measure; read off a gauge, a field or a river"
-    - {form: ghamuz, class: v, field: "Doing", gloss: "proclaim, announce aloud"}
-    - {form: lekhath, class: v, field: "Doing", gloss: "bless, confer sacred power"}
-    - {form: qezir, class: v, field: "Doing", gloss: "strike, spear"}
-    - {form: tegul, class: v, field: "Doing", gloss: "divide, share out"}
-    - {form: nelgen, class: v, field: "Doing", gloss: "offer, give to a god"}
-    - {form: qathez, class: v, field: "Doing", gloss: "seal"}
-    - {form: muzan, class: v, field: "Doing", gloss: "build"}
-    - {form: lagath, class: v, field: "Doing", gloss: "guard, keep"}
-    - {form: tazul, class: v, field: "Doing", gloss: "mourn"}
+      native: [{map: zethu, text: "𞩱"}]
+    - form: ghamuz
+      class: v
+      field: "Doing"
+      gloss: "proclaim, announce aloud"
+      native: [{map: zethu, text: "𞮔𞪯"}]
+    - form: lekhath
+      class: v
+      field: "Doing"
+      gloss: "bless, confer sacred power"
+      native: [{map: zethu, text: "𞪧"}]
+    - form: qezir
+      class: v
+      field: "Doing"
+      gloss: "strike, spear"
+      native: [{map: zethu, text: "𞮤"}]
+    - form: tegul
+      class: v
+      field: "Doing"
+      gloss: "divide, share out"
+      native: [{map: zethu, text: "𞯵"}]
+    - form: nelgen
+      class: v
+      field: "Doing"
+      gloss: "offer, give to a god"
+      native: [{map: zethu, text: "𞮴"}]
+    - {form: qathez, class: v, field: "Doing", gloss: "seal", native: [{map: zethu, text: "𞮪"}]}
+    - {form: muzan, class: v, field: "Doing", gloss: "build", native: [{map: zethu, text: "𞭼"}]}
+    - form: lagath
+      class: v
+      field: "Doing"
+      gloss: "guard, keep"
+      native: [{map: zethu, text: "𞩸"}]
+    - {form: tazul, class: v, field: "Doing", gloss: "mourn", native: [{map: zethu, text: "𞪆"}]}
     - form: nelgat
       class: n
       field: "Temple, arcane and cosmology"
       built: [nelgen]
       gloss: "an offering"
-    - {form: nelgu, class: n, field: "The realm, its people and its hands", gloss: "a mighty one"}
+    - form: nelgu
+      class: n
+      field: "The realm, its people and its hands"
+      gloss: "a mighty one"
+      native: [{map: zethu, text: "𞮓𞮋𞮒𞩍"}]
     - form: zagul
       class: n
       field: "Counting-house and water-works"
       gloss: "the crocodile, the beast as distinct from the god Chelsur"
+      native: [{map: zethu, text: "𞬊"}]
     - form: igelzut
       class: n
       field: "Counting-house and water-works"
       built: [igelu]
       gloss: "the hippopotamus"
+      native: [{map: zethu, text: "𞫑"}]
     - form: igelqat
       class: n
       field: "Counting-house and water-works"
       built: [igelu]
       gloss: "the river cat"
-    - {form: zugel, class: n, field: "Counting-house and water-works", gloss: "a harpoon"}
-    - {form: shenulet, class: n, field: "Counting-house and water-works", gloss: "a net"}
-    - {form: tulaz, class: n, field: "Counting-house and water-works", gloss: "a bow"}
+      native: [{map: zethu, text: "𞯳"}]
+    - form: zugel
+      class: n
+      field: "Counting-house and water-works"
+      gloss: "a harpoon"
+      native: [{map: zethu, text: "𞮨"}]
+    - form: shenulet
+      class: n
+      field: "Counting-house and water-works"
+      gloss: "a net"
+      native: [{map: zethu, text: "𞮧"}]
+    - form: tulaz
+      class: n
+      field: "Counting-house and water-works"
+      gloss: "a bow"
+      native: [{map: zethu, text: "𞮣"}]
     - form: shebigel
       class: n
       field: "Counting-house and water-works"
       built: [shebar, igelu]
       gloss: "a reed boat"
-    - {form: qemul, class: n, field: "Counting-house and water-works", gloss: "a cubit"}
+      native: [{map: zethu, text: "𞭾"}]
+    - form: qemul
+      class: n
+      field: "Counting-house and water-works"
+      gloss: "a cubit"
+      native: [{map: zethu, text: "𞮛"}]
     - form: zelzin
       class: n
       field: "Temple, arcane and cosmology"
       built: [zin]
       gloss: "a coffin, the place of the soul"
+      native: [{map: zethu, text: "𞯄"}]
     - {form: zeghetar, class: n, field: "Occupations", built: [zeghet], gloss: "hunter"}
-    - {form: zugelar, class: n, field: "Occupations", built: [zugel], gloss: "harpooner"}
+    - form: zugelar
+      class: n
+      field: "Occupations"
+      built: [zugel]
+      gloss: "harpooner"
+      native: [{map: zethu, text: "𞩖"}]
     - form: tegular
       class: n
       field: "Occupations"
       built: [tegul]
       gloss: "butcher, divider of what is taken"
+      native: [{map: zethu, text: "𞯰"}]
     - {form: lagathar, class: n, field: "Occupations", built: [lagath], gloss: "keeper, warden"}
     - form: mazelar
       class: n
       field: "Occupations"
       built: [mazel]
       gloss: "surveyor; scout, reader of the ground"
-    - {form: tuqal, class: n, field: "Occupations", gloss: "bearer"}
+    - form: tuqal
+      class: n
+      field: "Occupations"
+      gloss: "bearer"
+      native: [{map: zethu, text: "𞩵"}]
   retired:
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
