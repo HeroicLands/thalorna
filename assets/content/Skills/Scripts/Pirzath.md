@@ -9,7 +9,7 @@ data:
   icon: icon-speaking
   templatePriority: null
   packFolder: script
-  script: {fonts: [pirzath-carved, pirzath-hand], emphasis: rubric}
+  script: {fonts: [pirzath-carved, pirzath-hand, pirzath-hand-lifted], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -56,5 +56,15 @@ Almost nobody. Dedicated scholars, and those with Khazari kinship or long foster
 The script is genuinely easy to _recognize_ and hard to _read_: a party finds carved Pirzath on a bridge keystone, a tunnel lintel, a blade tang, a marker in a mine, and can tell at once what it is, and can do nothing with it. A lead sheet or a wax tablet found in a hold is the hand form, legible only to someone who learned it. What is written there is usually technical—a load rating, a date, an assay, a maker's warrant—and technical Khazari is a register with vocabulary that a conversational speaker simply does not have. Age is less of an obstacle here than elsewhere: Khazari orthography has barely moved in three thousand years, so a very old inscription is likely to be as legible as a new one.
 
 The sentence end is always the last mark of a sentence, outside a closing quotation mark or any other mark, as in _Galdan bunát, "Dalík bant, maríg bant"._ Written in the script, no space stands on either side of the sentence end: the next sentence begins straight after it. A command is marked at its start: the imperative mark stands before the first word of the sentence it governs, or just inside the opening quotation mark when it governs only the quotation.
+
+The strongest Khazari undertaking, _Dalík bant, maríg bant_ ("oath of stone, oath of bone"), in Carved Pirzath and then in the hand form:
+
+::: {lang=khaz font=pirzath-carved map=pirzath}
+Dalík bant, maríg bant.
+:::
+
+::: {lang=khaz font=pirzath-hand map=pirzath}
+Dalík bant, maríg bant.
+:::
 
 A handout, a shield device or a banner shows a whole word or a name in the script, never a single letter standing alone. Several letters, seen on their own, share their shape with runes that are used as hate symbols; inside a word they read as letters.

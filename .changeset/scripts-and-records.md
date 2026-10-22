@@ -10,4 +10,5 @@
 - The K'otsel cord records are described knot by knot, Kaliharans keep their knowledge by memory through the new Vaarthari skill, and the Ithari's stone marks are no script.
 - Every Khelathi god has a full-colour emblem icon, its hieroglyph painted on lapis, and the Khelathi Pantheon shows each god's glyph.
 - New spelling pages show how roman Vylari, Khazari, Nordmal and Khelathi are set in Semaron, Pirzath, Thuravark and Qalezu, and each script says how a scribe marks a stressed word.
+- The Semaron, Pirzath, Thuravark and Qalezu pages each show Vylari, Khazari, Nordmal or Khelathi words set in the script itself.
 - The Khelathu banner is a painted temple wall inscribed in Zethu.

@@ -35,6 +35,8 @@ A carver of Thuravark marks a stressed word in rubric red.
 
 Twenty-eight staves, all of them straight. There are no horizontal strokes, because a horizontal cut runs with the grain of a plank and splits it, and there are no curves, because a chisel does not make them. Runes are cut in a continuous line with no word-spacing; readers separate the words themselves, which is why an unfamiliar name in an inscription is so easily mis-divided. Long vowels are marked by doubling the stave rather than by any diacritic. There is no distinction of capital and small forms—the notion would be meaningless to a carver.
 
+In the staves, the Nordmal _hrend_, a stone set at a claim's edge, is cut [hrend]{lang=nord font=thuravark-carved map=thuravark}, and _hrum_, the howe raised over a grave, is cut [hrum]{lang=nord font=thuravark-carved map=thuravark}.
+
 ## Where it is found
 
 Memorial and grave stones; boundary markers; ships' stems and steering-oars; weapon hilts, spearheads and sword pommels; roof-beams and door-lintels of halls; the rims of drinking horns; and above all the **oath-staves**—flat wands of ash or yew cut with an agreement and split lengthwise, so that each party holds a half and neither can alter it without the break showing. In law, the stave is the contract. A hall that has lost its staves has lost its claims.
