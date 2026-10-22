@@ -50,7 +50,7 @@ data:
     offices:
       Sabhapavi: >-
         The senior priest of the central temple, who convenes the sabhra, puts its questions and declares what it has agreed.
-      Smrtibhara: >-
+      Smiritibhara: >-
         The Memory-Keeper, who holds the janpoda's genealogies, boundary records and precedents, and recites them when the sabhra asks.
       Koshadyoksha: >-
         Superintendent of the temple treasury, answerable for the granary reserve, the endowments and the tithe rolls.

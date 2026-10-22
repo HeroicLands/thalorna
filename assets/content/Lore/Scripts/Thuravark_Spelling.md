@@ -168,6 +168,7 @@ data:
       - {from: "Y", to: "󰄊", before: vowel} # U+F010A
       - ["Y", "󰄂"] # U+F0102
       - [".", "󰅀"] # U+F0140
+      - ["-", ""]
       - ["0", "󰄰"] # U+F0130
       - ["1", "󰄱"] # U+F0131
       - ["2", "󰄲"] # U+F0132
@@ -197,4 +198,4 @@ Thuravark Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Tha
 - **The full stop** is the dash, and **the numerals** 0 to 9 are the Thuravark numerals.
 - **_q_ is the stave _k_**, and **_ë_ is the vowel _e_.** The script has no _q_ or _ë_.
 
-A space draws nothing in the face. A hyphen, `'`, `,`, _c_, _x_ and any other character the script lacks pass through unchanged; the face draws nothing for a hyphen and prints the box for the rest.
+A space draws nothing in the face, and a hyphen is written as nothing. `'`, `,`, _c_, _x_ and any other character the script lacks pass through unchanged, and the face prints the box for them.

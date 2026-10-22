@@ -50,7 +50,7 @@ data:
     offices:
       Sabhapavi: >-
         The senior priest of the central temple, who convenes the sabhra, puts its questions and declares what it has agreed.
-      Smrtibhara: >-
+      Smiritibhara: >-
         The Memory-Keeper, who holds the janpoda's genealogies, boundary records and precedents, and recites them when the sabhra asks.
       Koshadyoksha: >-
         Superintendent of the temple treasury, answerable for the granary reserve, the endowments and the tithe rolls.
@@ -105,7 +105,7 @@ The classical chronicles put this in the first year of [[lore-agecopyists|the Ag
 
 ## The Memory-Keeper
 
-Rajepur's government carries one office no other janpoda has, the Memory-Keeper (Smrtibhara). A single family has held it in continuous succession since the dissolution, and its duties are four:
+Rajepur's government carries one office no other janpoda has, the Memory-Keeper (Smiritibhara). A single family has held it in continuous succession since the dissolution, and its duties are four:
 
 - **The genealogy.** The Memory-Keeper keeps the complete genealogy of the displaced royal line, before the dissolution and notionally after it. The last king left no surviving descendants, so the genealogy records who would have inherited had the line continued, and each generation a new "what would have been" name is entered.
 - **The recitation.** At the opening of every formal session of the sabhra, the Memory-Keeper recites the dynastic history in full, from the founding ancestor through the dissolution, and concludes with the formal acknowledgment that the kingdom is no more and the janpoda governs in its place.
@@ -123,7 +123,7 @@ The janpoda governs in its place,
   and does so by your leave.
 ```
 
-The Memory-Keepers are one of the most respected scholarly families in the inland part of the [[place-vedyarargn|Vedyara Region]]. Historians from across the region consult their library, their authority on Vedyari political history has no rival, and their ceremonial role in the sabhra is taken with great seriousness. The present Memory-Keeper, [Ramavahan Smrtibhara]{.name data-type="being/npc"}, is a quiet scholar in his late fifties and the author of the most respected modern commentary on the dissolution.
+The Memory-Keepers are one of the most respected scholarly families in the inland part of the [[place-vedyarargn|Vedyara Region]]. Historians from across the region consult their library, their authority on Vedyari political history has no rival, and their ceremonial role in the sabhra is taken with great seriousness. The present Memory-Keeper, [Ramavahan Smiritibhara]{.name data-type="being/npc"}, is a quiet scholar in his late fifties and the author of the most respected modern commentary on the dissolution.
 
 Visiting scholars ask why a dynasty that cannot return is kept in memory at all. The Rajapuri answer is that the dissolution was a _judgment_: the kingdom failed because it deserved to fail, and the recitation is the standing reminder of why kingship is dangerous. The sabhra governs by consent of the constituent villages, and the recitation reminds it that any government, its own included, can fail and be dissolved by the process that ended the Kingdom of Mahanodi.
 
@@ -164,7 +164,7 @@ The janpoda has not been seriously threatened in living memory. The last armed c
 Karunamoya Podma-Hasta
 : senior priest of the Vyalendra temple and convenor of the sabhra, about sixty, the third woman to hold the office in nine centuries.
 
-Ramavahan Smrtibhara
+Ramavahan Smiritibhara
 : the Memory-Keeper, in his late fifties, author of the standard modern commentary on the dissolution.
 
 [[being-anrjhrshkr|Anuraja Harshakar]]

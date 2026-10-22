@@ -1193,7 +1193,7 @@ data:
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "lore, a body of knowledge"
-    - {form: smrti, class: "n", field: "Speech, learning and the written word", gloss: "memory"}
+    - {form: smiriti, class: "n", field: "Speech, learning and the written word", gloss: "memory"}
     - form: bhora
       class: "n"
       field: "Speech, learning and the written word"
@@ -1280,7 +1280,7 @@ data:
       female:
         - "Adaki"
         - "Adarti"
-        - "Amrtesa"
+        - "Amretesa"
         - "Amrapadma"
         - "Aruti"
         - "Asvari"
@@ -1337,7 +1337,7 @@ data:
         - "Vashani"
         - "Viduliya"
         - "Vikuti"
-        - "Vrnnati"
+        - "Vrinnati"
       male:
         - "Agarana"
         - "Amatin"
@@ -1347,7 +1347,7 @@ data:
         - "Balabata"
         - "Bhalanand"
         - "Bhanusha"
-        - "Bhrjivara"
+        - "Bhrijivara"
         - "Chandarsha"
         - "Chendruka"
         - "Devanur"
@@ -1355,26 +1355,26 @@ data:
         - "Disamaya"
         - "Dulaka"
         - "Dipanaka"
-        - "Drtapaja"
+        - "Dritapaja"
         - "Garunya"
-        - "Hrshabaran"
+        - "Harshabaran"
         - "Jagasvar"
         - "Jayarsha"
         - "Jayanit"
         - "Kanduta"
         - "Kankamar"
-        - "Krtakana"
-        - "Krvalaya"
+        - "Kritakana"
+        - "Krivalaya"
         - "Shemanaya"
         - "Shemapal"
         - "Madurava"
         - "Mahataya"
         - "Nagarit"
         - "Narayaka"
-        - "Prtanaka"
-        - "Prtivita"
-        - "Prturaja"
-        - "Prtubal"
+        - "Pritanaka"
+        - "Pritivita"
+        - "Prituraja"
+        - "Pritubal"
         - "Rajabar"
         - "Rajayetra"
         - "Ranishva"
@@ -1430,13 +1430,13 @@ data:
       - "Madibada"
       - "Mahadika"
       - "Manadas"
-      - "Manrshti"
+      - "Manrishti"
       - "Nandibar"
       - "Padmadiksha"
-      - "Padmavrksha"
+      - "Padmavriksha"
       - "Parikshuna"
       - "Priturshta"
-      - "Prtasya"
+      - "Pritasya"
       - "Purnaka"
       - "Rajapali"
       - "Rajasen"
@@ -1448,7 +1448,7 @@ data:
       - "Shraddana"
       - "Shuravan"
       - "Sukhishta"
-      - "Srnataka"
+      - "Sirnataka"
       - "Tamraksha"
       - "Tarayara"
       - "Valaka"
@@ -1463,18 +1463,18 @@ data:
   sounds:
     edges:
       - edge: openCluster
-        sounds: [pr, tr, dr, kr, gr, br, vr, shr, sm, st, sth, sv, shv, dv, vy, ny, shy, jv, jn]
+        sounds: [pr, tr, dr, kr, gr, br, bhr, vr, shr, sm, st, sv, shv, dv, vy, ny, shy, jv, jn]
       - {edge: closeConsonant, sounds: [n, r, t, k, s, l, m, d]}
     clusters: {max: 3}
     joining:
       - {first: [a, a], second: [a, a], written: a, example: _podma_ + _avoli_ = _padmavali_}
       - {first: [a, a], second: [i, i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_}
-      - {first: [a, a], second: [u, ū], written: o}
+      - {first: [a, a], second: [u, u], written: o}
       - first: [i, i]
-        second: [a, a, u, ū, e, o]
+        second: [a, a, u, u, e, o]
         written: y+
         example: "_nadri_ + _avoli_ = _nadryavoli_, a _y_ between"
-      - {first: [u, ū], second: [a, a, i, i, e, o], written: v+}
+      - {first: [u, u], second: [a, a, i, i, e, o], written: v+}
   elements:
     - form: pur
       position: closing
@@ -1757,9 +1757,9 @@ data:
     - {name: Darmapalda, tongue: vedyari, built: [dorma, palda]}
     - {name: Darmu, tongue: calling, built: [Darmapalda]}
     - {name: Vimuktan, tongue: vedyari}
-    - {name: Drksharana, tongue: vedyari}
-    - {name: Driksha, tongue: calling, built: [Drksharana]}
-    - {name: Manrshti, tongue: vedyari}
+    - {name: Driksharana, tongue: vedyari}
+    - {name: Driksha, tongue: calling, built: [Driksharana]}
+    - {name: Manrishti, tongue: vedyari}
     - {name: Madurava, tongue: vedyari, built: [madru, ravha]}
     - {name: Madru, tongue: calling, built: [Madurava]}
     - {name: Sutrapal, tongue: vedyari, built: [sutka, palda]}
@@ -1775,9 +1775,10 @@ data:
     - {name: Pritarika, tongue: vedyari}
     - {name: Pripri, tongue: calling, built: [Pritarika]}
     - {name: Padmadiksha, tongue: vedyari, built: [podma, deksha]}
-    - {name: Prtimaja, tongue: vedyari}
-    - {name: Pritu, tongue: calling, built: [Prtimaja]}
+    - {name: Pritimaja, tongue: vedyari}
+    - {name: Pritu, tongue: calling, built: [Pritimaja]}
     - {name: Kayadara, tongue: vedyari}
+    - {name: Kritiraya, tongue: vedyari}
     - {name: Senapavi, tongue: vedyari, built: [senapavi]}
     - {name: Senu, tongue: calling, built: [Senapavi]}
     - {name: Vikramada, tongue: vedyari, built: [vikroma, -da]}
@@ -1869,7 +1870,7 @@ data:
     - {name: The Janpoda of the Bow-Fort, tongue: translation}
     - {name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka]}
     - {name: Sabhapavi, tongue: vedyari, built: [sabhapavi]}
-    - {name: Smrtibhara, tongue: vedyari, built: [smrti, bhora]}
+    - {name: Smiritibhara, tongue: vedyari, built: [smiriti, bhora]}
     - {name: Senoni, tongue: vedyari, built: [senoni]}
     - {name: Danurachorya, tongue: vedyari, built: [danur, achorya]}
     - {name: Danyagram, tongue: vedyari, built: [danva, grima]}
@@ -2193,8 +2194,8 @@ data:
     - {name: Captain Garunya, tongue: translation}
     - {name: Samurat Ratamar, tongue: vedyari}
     - {name: Captain Samurat, tongue: translation}
-    - {name: Prturaja Samudraya, tongue: vedyari}
-    - {name: Captain-Merchant Prturaja, tongue: translation}
+    - {name: Prituraja Samudraya, tongue: vedyari}
+    - {name: Captain-Merchant Prituraja, tongue: translation}
     - {name: Darmeja Daranir, tongue: vedyari}
     - {name: Captain Darmeja, tongue: translation}
   retired:
@@ -2300,44 +2301,34 @@ Vedyari employs a rich consonantal inventory marked by articulatory precision:
 **Stops and Affricates:**
 
 Unvoiced
-: p, t, retroflex t, k
+: p, t, k
 
 Voiced
-: b, d, retroflex d, g
+: b, d, g
 
 Affricates
-: ch (TS), j (DZH)
+: ch, j
 
-Aspirated
-: kh, gh, bh—each stop with a breath after it
+Breathed
+: bh, a _b_ with a breath after it
 
-**Fricatives:**
+**Fricatives:** s, sh, h, and the throat sounds kh and gh
 
-Unvoiced
-: s, palatal sh, retroflex sh, h
+**Nasals:** m, n, ny, and ng inside a word
 
-Voiced
-: z (marginal)
-
-**Nasals:** m, n, retroflex n, palatal ny
-
-**Liquids & Approximants:** l, r, retroflex r; y, v
+**Liquids & Approximants:** l, r; y, v
 
 **Distinctive Features:**
 
-- The retroflexes (t, d, n and r) are phonemically significant and appear frequently in speech, marking a clear articulatory tendency
-- Palatal sh and ny maintain distinctness from their dental/velar counterparts
-- Geminate consonants are common and grammatically meaningful, marking compound formation
+- A few words double a consonant, said once and held a little (_uttarka_, _Pallovi_)
 
 ### Vowel System
 
-Vedyari distinguishes five cardinal vowels, each occurring in short and long variants:
+Vedyari distinguishes five cardinal vowels:
 
-**Vowels:** a, i and u (each short or long), e (mid-front), o (mid-back)
+**Vowels:** a, i, u, e (front), o (back)
 
 **Diphthongs:** Common sequences include ai, au, which may function as monophthongs in rapid speech
-
-**Vocalic r:** The r-colored nucleus of a syllable is a vowel, and an _r_ standing between two consonants is that vowel: _Prtimaja_ is four syllables, _Pr-ti-ma-ja_.
 
 **Vowel Harmony Patterns:** Historically significant; elements that select for front vowels (i, e) or back vowels (a, o, u) tend to cluster within morphemes.
 
@@ -2346,13 +2337,13 @@ Vedyari distinguishes five cardinal vowels, each occurring in short and long var
 Analysis of attested names reveals:
 
 Consonant Clusters
-: A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pair _jn_. Inside a word no more than three consonants stand together, as in _Chendra_ and _Sandva_. The aspirates _kh_, _gh_ and _bh_ are single consonants, so _Bharava_ opens on one
+: A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pair _jn_. Inside a word no more than three consonants stand together, as in _Chendra_ and _Sandva_. _ksh_ stands only inside a word. The aspirates _kh_, _gh_ and _bh_ are single consonants, so _Bharava_ opens on one
 
 Syllable Structure
 : Predominantly CV or CVC; onset-heavy structure favors initial consonants
 
 Final Consonants
-: A word closes on a vowel or on _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_; the retroflex and palatal nasals close a word in the scholars' texts
+: A word closes on a vowel or on _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_
 
 Word Length
 : Most words and names have two or three syllables. A name is one word or two joined, and a name of five syllables or more is an old name or a title.
@@ -2401,18 +2392,15 @@ Lenition of intervocalic stops
 Nasalization of vowels before nasals
 : Incipient; most evident in rapid speech
 
-Merger of dental and retroflex sibilants
-: Common in younger speakers
-
 Classical Vedyari remains largely frozen in literature and formal address, but vernacular speech has simplified many inflectional endings and leveled irregular paradigms.
 
 ## Regional Dialects
 
 ### Northern Vedyarian (Varcine Region)
 
-- Retains more conservative phonology; retroflex consonants pronounced with greater distinction
+- Retains more conservative pronunciation
 - Preserves older endings
-- Stress patterns follow classical norms (penultimate mora receives primary stress)
+- Stress patterns follow classical norms (the second-to-last syllable receives primary stress)
 
 ### Southern Vedyarian (Coastlands & Trading Cities)
 
@@ -2513,32 +2501,32 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Balakin
 - Bhalanand
 - Bhanusha
-- Bhrjivara
+- Bhrijivara
 - Chandarsha
 - Chendruka
 - Darmeja
 - Devanur
 - Dipanaka
 - Disamaya
-- Drtapaja
+- Dritapaja
 - Dulaka
 - Garunya
-- Hrshabaran
+- Harshabaran
 - Jagasvar
 - Jayanit
 - Jayarsha
 - Kanduta
 - Kankamar
-- Krtakana
-- Krvalaya
+- Kritakana
+- Krivalaya
 - Madurava
 - Mahataya
 - Nagarit
 - Narayaka
-- Prtanaka
-- Prtivita
-- Prtubal
-- Prturaja
+- Pritanaka
+- Pritivita
+- Pritubal
+- Prituraja
 - Rajabar
 - Rajayetra
 - Ranishva
@@ -2571,7 +2559,7 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Adaki
 - Adarti
 - Amrapadma
-- Amrtesa
+- Amretesa
 - Aruti
 - Asvari
 - Bhagoni
@@ -2627,7 +2615,7 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Vashani
 - Viduliya
 - Vikuti
-- Vrnnati
+- Vrinnati
 
 ### Clan Names
 
@@ -2662,13 +2650,13 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Madibada
 - Mahadika
 - Manadas
-- Manrshti
+- Manrishti
 - Nandibar
 - Padmadiksha
-- Padmavrksha
+- Padmavriksha
 - Parikshuna
 - Priturshta
-- Prtasya
+- Pritasya
 - Purnaka
 - Rajapali
 - Rajasen
@@ -2679,7 +2667,7 @@ The words of Vedyari, the rules a word is built by and a register of every Vedya
 - Shambatan
 - Shraddana
 - Shuravan
-- Srnataka
+- Sirnataka
 - Sukhishta
 - Tamraksha
 - Tarayara
@@ -2842,11 +2830,11 @@ A person from a place takes _-i_: a [[place-rajepur|Rajepur]] man is a Rajepuri,
 
 A woman entered on the temple roll as _Padmavali_ answers to _Padmi_ in her mother's kitchen. The long name is the formal one: it stands in records, in the temple and before a court, and it is the name a stranger uses. The short one is the _calling name_, used by kin and friends, and it is offered, never taken; the [[lore-vedyariclt|Vedyari]] culture note says what follows from that. Every calling name is cut from the given name by one rule, and it is never made from the clan name.
 
-**Counting syllables.** A syllable is counted by its vowel. Each short vowel, long vowel and diphthong is one syllable, and so is an `r` standing between two consonants, so _Prtimaja_ has four: _pr·ti·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dre·li_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _padmavali_, the merged vowel is a single syllable, _pad·ma·va·li_.
+**Counting syllables.** A syllable is counted by its vowel. Each vowel and diphthong is one syllable, so _Pritimaja_ has four: _pri·ti·ma·ja_. A single consonant between two vowels opens the second syllable; where several stand together, the first closes the syllable before and the rest open the next, as in _chan·dre·li_. A seam adds nothing of its own: where the joining has merged two vowels into one, as _podma_ and _avoli_ merge in _padmavali_, the merged vowel is a single syllable, _pad·ma·va·li_.
 
 **Cutting the name.** Keep the first one or two syllables of the given name whole, carry over the consonants that open the next syllable, and close on `-u`, `-i` or `-a` where that syllable's vowel stood. Put another way, the given name is cut just before its second or third vowel and a closing is added: _Darmapalda_ is cut to _Darm-_ and gives _Darmu_, and _Padmavali_ is cut to _Padm-_ and gives _Padmi_. The letters before the cut are the given name's own, long vowels long; where a name is written with a stress mark the pages do not use, the vowel beneath it may be read short or long. The other way to make a calling name is to double the first syllable, writing its opening consonants and its vowel twice: _Suvarti_ gives _Susu_. A name that opens on a vowel has no doubled form, since two vowels never stand together.
 
-A calling name is said aloud far more often than it is written, and one sound changes on the way: a vowel `r` is spoken and written `ri`. _Prtimaja_ is cut to _Prit-_ and gives _Pritu_, and _Drksharana_ is cut to _Drksh-_ and gives _Driksha_. Apart from that, everything before the closing comes from the given name, and a calling name always closes on a vowel, so it keeps the word rules without effort.
+A calling name is said aloud far more often than it is written, and _Pritimaja_ is cut to _Prit-_ and gives _Pritu_, and _Driksharana_ is cut to _Driksh-_ and gives _Driksha_. Apart from that, everything before the closing comes from the given name, and a calling name always closes on a vowel, so it keeps the word rules without effort.
 
 ```sql
 SELECT coalesce('`' || form || '`', 'the first syllable doubled') AS "Closing",
@@ -2870,11 +2858,11 @@ The calling names the pages record, each cut before the second vowel of the give
 | [[being-anrjhrshkr\|Anuraja Harshakar]]        | _An-_           | _Anva_       |
 | [[being-chndrljyvl\|Chandreli Jayavalli]]      | _Chandr-_       | _Chandri_    |
 | [[being-drmpldvmkt\|Darmapalda Vimuktan]]      | _Darm-_         | _Darmu_      |
-| [[being-drkaranamn\|Drksharana Manrshti]]      | _Drksh-_        | _Driksha_    |
+| [[being-drikaranamn\|Driksharana Manrishti]]   | _Driksh-_       | _Driksha_    |
 | [[being-madurvstrpl\|Madurava Sutrapal]]       | _Madr-_         | _Madru_      |
 | [[being-pdmvldnrkrt\|Padmavali Danurkirti]]    | _Padm-_         | _Padmi_      |
 | [[being-prtrkpdmdksh\|Pritarika Padmadiksha]]  | _Pri-_, doubled | _Pripri_     |
-| [[being-prtmjkydr\|Prtimaja Kayadara]]         | _Prit-_         | _Pritu_      |
+| [[being-prtmjkydr\|Pritimaja Kayadara]]        | _Prit-_         | _Pritu_      |
 | [[being-senpvvkrmd\|Senapavi Vikramada]]       | _Sen-_          | _Senu_       |
 | [[being-suvrtrtnsn\|Suvarti Ratnisen]]         | _Suv-_          | _Suvi_       |
 | [[being-shlbrvdsmndl\|Shilabir Vidsamondal]]   | _Shil-_         | _Shilu_      |

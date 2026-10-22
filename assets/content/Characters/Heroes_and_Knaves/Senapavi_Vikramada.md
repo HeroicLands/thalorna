@@ -505,8 +505,8 @@ Vulnerability to Loyalty
 
 ### Patrons
 
-Captain-Merchant [[being-prturajasam|Prturaja]]
-: A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prturaja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
+Captain-Merchant [[being-priturajasam|Prituraja]]
+: A successful merchant captain who employs Senapavi regularly and considers him the foundation of his trading success. Prituraja has offered Senapavi a permanent position with significant authority, which Senapavi has declined.
 
 [The Shipwrights' Shrena of Vedyara]{.name data-type="affiliation/guild"}
 : Maintains good relationships with the shrena, occasionally consulting on matters of crew management and vessel design from the standpoint of practical seamanship.

@@ -3,7 +3,7 @@ shortcode: devanurvasa
 name: {full: Devanur Vasavesha, aliases: [Maharava Devanur]}
 type: being
 subType: npc
-description: A maharava whose heirs, after his death, demand that Prtimaja Kayadara return or compensate for a commissioned piece.
+description: A maharava whose heirs, after his death, demand that Pritimaja Kayadara return or compensate for a commissioned piece.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Devanur Vasavesha was a 60-year-old man who stood 5'10" tall with a medium build
 
 # Dossier {#dossier}
 
-Devanur Vasavesha was a maharava who commissioned an extraordinary piece from [[being-prtmjkydr|Prtimaja Kayadara]]. After his death his heirs demanded that Prtimaja return or compensate for it, and the administrators of his estate are pursuing legal action, claiming Prtimaja stole materials and payment without delivering the promised work.
+Devanur Vasavesha was a maharava who commissioned an extraordinary piece from [[being-prtmjkydr|Pritimaja Kayadara]]. After his death his heirs demanded that Pritimaja return or compensate for it, and the administrators of his estate are pursuing legal action, claiming Pritimaja stole materials and payment without delivering the promised work.

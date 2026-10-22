@@ -118,6 +118,10 @@ jobs:
             - name: Fetch the fonts
               run: git clone --depth 1 https://github.com/HeroicLands/fonts.git "$RUNNER_TEMP/fonts"
 
+            # The guards write each form through the fonts' mapping tool, which imports package-build.
+            - name: Install the fonts' Node packages
+              run: npm ci --prefix "$RUNNER_TEMP/fonts" --ignore-scripts
+
             # Only what the guards import, at the versions the fonts pin.
             - name: Install the guards' packages
               run: |
@@ -129,30 +133,35 @@ jobs:
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/pirzath/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khazari.md"
+                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Pirzath_Spelling.md"
 
             - name: Pirzath Hand
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/pirzath-hand/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khazari.md"
+                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Pirzath_Spelling.md"
 
             - name: Thuravark Carved
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/thuravark-carved/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Nordmal.md"
+                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Thuravark_Spelling.md"
 
             - name: Qalezu Hand
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/qalezu-hand/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khelathi.md"
+                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Qalezu_Spelling.md"
 
             - name: Semaron Kuriale
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/semaron-kuriale/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vylari.md"
+                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Semaron_Spelling.md"
 
             # Every Sinale and Áelendi form and name is set through the
             # `veldikko` mapping note; Sinale must also equal the fonts'
