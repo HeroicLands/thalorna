@@ -12,3 +12,4 @@
 - New spelling pages show how roman Vylari, Khazari, Nordmal and Khelathi are set in Semaron, Pirzath, Thuravark and Qalezu, and each script says how a scribe marks a stressed word.
 - The Semaron, Pirzath, Thuravark and Qalezu pages each show Vylari, Khazari, Nordmal or Khelathi words set in the script itself.
 - The Khelathu banner is a painted temple wall inscribed in Zethu.
+- Khelathi inscriptions can be written sign by sign in Zethu on any page.

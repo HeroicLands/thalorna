@@ -516,10 +516,12 @@ data:
     - form: zelqezat
       class: n
       field: "Temple, arcane and cosmology"
+      built: [Zel-, qezat]
       gloss: "a blood-field, the place of a battle left unread"
     - form: zelalgit
       class: n
       field: "Temple, arcane and cosmology"
+      built: [Zel-, Algit]
       gloss: "a thin blood-field, the Devourer's place, on `Algit`"
     - form: thelqen
       class: n
@@ -548,6 +550,7 @@ data:
     - form: Au'Khelathu
       class: name
       field: "The realm, its people and its hands"
+      built: [Au, Khelathu]
       gloss: "the empire, formally"
     - {form: Khelathu, class: name, field: "The realm, its people and its hands", gloss: the land}
     - form: Khelathi
@@ -557,6 +560,7 @@ data:
     - form: Khelathi-zethu
       class: name
       field: "The realm, its people and its hands"
+      built: [Khelathi, zethu]
       gloss: the sacred hand
     - form: Qalezu
       class: name
