@@ -2793,7 +2793,7 @@ Ligatures
 Ornate variants
 : Sacred texts employ extremely elaborate, decorated letter forms
 
-The Veldikko is the Sinale's own, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, and always has.
+The Veldikko is the Sinale's own featural script, made for this language and for no other, and the fit shows: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal are the same shape three times over, so a worn word looks worn. The [[lore-aelendnppl|Áelendi]] took the script from the Sinale, being the humans closest to them; the rest of [[place-aureldirgn|Aureldia Region]] writes in [[skill-semrnscrpt|Semaron Script]], the Vylarian alphabet, and always has.
 
 Literacy in Sinale is near-universal among the Sinale themselves—the language and written tradition are central to their culture. However, human literacy in Sinale is **extremely rare**. Only scholars, elves, and highly educated humans can read or write the language.
 
@@ -2811,7 +2811,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
-**This is Sinale's mapping and not [[skill-aelendlng|Áelendi Language]]'s.** The Áelendan write in the same hand, borrowed and much adapted, for a language carrying sounds the Veldikko was never cut for. A passage of Áelendi wants its own convention and does not follow this one.
+**This is Sinale's mapping and not [[skill-aelendlng|Áelendi Language]]'s.** The Áelendan write the same letters in an older, plainer hand, unchanged in centuries, for a language carrying sounds the Veldikko was never cut for. A passage of Áelendi wants its own convention and does not follow this one.
 
 ## Historical Development
 

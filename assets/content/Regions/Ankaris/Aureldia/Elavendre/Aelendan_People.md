@@ -29,11 +29,13 @@ The name "People of the Pact" refers to an ancient compact that the Áelendan be
 
 Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan place extraordinary value on continuity—of language, of custom, of relationship with place—and they view the rapid cultural change that characterizes the lowland Élavendri with a mixture of affection and unease.
 
-The Áelendan speak [[skill-aelendlng|Áelendi]]**, the ancestral Pelwar tongue—the most conservative member of the Pelwar language family, preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
+The Áelendan are very conservative, and the conservatism is close to the defining trait of the people. Their language and their writing systems have not changed in hundreds of years.
+
+The Áelendan speak [[skill-aelendlng|Áelendi]], a Proto-Pelwar tongue heavily influenced by Sinale, with many Sinale loanwords; they do not speak Sinale. They write it in the [[skill-clthndscrpt|Veldikko]], and carve in the [[skill-thrvrdhscrpt|Thurarth]] runes. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
 
 ## Relationship with the Élavendri
 
-The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people, and the crown of [[affiliation-kngdmlvndr|Élavendre]] protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
+The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect. The Élavendri hold the Áelendan in fond, respectful regard as their ancestor people, an old culture that keeps the old ways, and the crown of [[affiliation-kngdmlvndr|Élavendre]] protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
 
 Élavendri noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
 

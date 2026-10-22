@@ -39,7 +39,7 @@ Noble houses go to great lengths to trace their ancestry back to the Áelendan, 
 
 The **Áelendan**—also known as the **People of the Pact**—are the ancestor people of the Élavendri: tribes who never settled into the kingdom's cities and who have maintained the old ways since before the founding of the monarchy. They live in the mountainous interior of Élavendre, organized in tribal communities that follow traditions stretching back to the earliest Pelwar settlement of the region. They eschew the modern cities and the ways of the kingdom, living close to the land as their forebears did.
 
-The Áelendan speak [[skill-aelendlng|Áelendi]]**, an older tongue from which modern [[skill-elvndrlng|Élavendri]] descends. The two languages are related but distinct—an Élavendri speaker can catch fragments and occasional phrases of Áelendi, but sustained conversation requires genuine study.
+The Áelendan speak [[skill-aelendlng|Áelendi]], an older tongue from which modern [[skill-elvndrlng|Élavendri]] descends, and it has not changed in hundreds of years. The two languages are related but distinct—an Élavendri speaker can catch fragments and occasional phrases of Áelendi, but sustained conversation requires genuine study.
 
 The relationship between the two peoples is one of mutual respect. The Élavendri recognize the Áelendan as their ancestor people and the crown of the [[affiliation-kngdmlvndr|Kingdom of Élavendre]] protects the Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
 

@@ -259,7 +259,7 @@ data:
     - form: shéimarson
       class: n
       field: The bard and the word
-      gloss: "a stave; one sign of the rune-row, cut for magic and old poetry"
+      gloss: "a stave; one sign of the Áelendi rune-row, cut for monuments, magic and old poetry"
       source: {kind: borrowed, language: skill-aelendlng, form: semarson}
     - form: thíelandon
       class: n
@@ -2270,7 +2270,7 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 ## Script & Literacy
 
-Élavendri traditionally employs [[skill-thrvrdhscrpt|Thurarth]], the old [[lore-aelendnppl|Áelendan rune-row]], but this script has been largely supplemented by the [[skill-semrnscrpt|Semaron]]—the same alphabet used in Vylari and neighboring regions. Thurarth persists in magical texts, poetry, and items of great antiquity. The [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] never came down the passes: the highlanders write Áelendi in it and the lowlands took imperial letters instead, so two peoples who can hold a conversation cannot read a word of each other.
+Élavendri is written in the [[skill-semrnscrpt|Semaron]], the same alphabet used in Vylari and neighboring regions, with diacritics added for pitch. The lowlands took it up readily, as they take up anything that serves. The Áelendan rune-row [[skill-thrvrdhscrpt|Thurarth]] and the [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] belong to the highlanders, who carve in the one and write [[skill-aelendlng|Áelendi]] in the other, so two peoples who can hold a conversation cannot read a word of each other. Ancient texts in the region are Áelendi, and an Élavendri who reads one has learned a second tongue and a second script to do it.
 
 A distinctive scribal tradition employs flowing, connected letterforms that reflect the language's musical nature. Decorative elements (flourishes, miniatures) are common in high-quality texts. True literacy is confined to the priesthood, professional scribes, those training for magical arts (for whom reading is an absolute necessity), and perhaps one noble in four. The common folk of Élavendre, like those elsewhere on [[place-worldthlrn|Thalorna]], are almost entirely non-literate and rely on scribes for any written communication.
 
@@ -2278,7 +2278,7 @@ A distinctive scribal tradition employs flowing, connected letterforms that refl
 
 Élavendri developed from Proto-Pelwar stock but in isolation from the other branches, in the northern forests and mountains of Élavendre. The language absorbed deep influence from the non-Pelwar populations of the region—people of fey heritage, indigenous forest dwellers, and magical practitioners—resulting in a tongue with features quite foreign to other Pelwar languages.
 
-The most conservative member of the Pelwar family is [[skill-aelendlng|Áelendi]], spoken by the [[lore-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre. Élavendri proper represents a "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms.
+The most conservative member of the Pelwar family is [[skill-aelendlng|Áelendi]], spoken by the [[lore-aelendnppl|Áelendan]] people in the mountainous interior of Élavendre, whose speech and writing have not changed in hundreds of years. The Élavendri are much less conservative. They have adapted to the new realities of their situation far more fluidly than the Áelendan, and Élavendri proper is the "modernized" variant that has absorbed more external influences and grammatical simplification, particularly the loss of one gender and some synthetic verb forms. The same readiness is part of why they took up the Semaron.
 
 ## Regional Dialects
 
@@ -2405,7 +2405,7 @@ Land is a duty and not a possession. A lord who lets his people go hungry has fa
 
 Poetry is how a house's history is held, how a prophecy is passed on and how a judgment is made memorable enough to bind, and the bard's words are the oldest in the tongue's care. _Sóurimand_, a singer, is the highland singer at the gathering grown into a court officer; _lóuresand_, a reciter, is the highland Tradition Keeper, and in the lowlands he keeps a house's records in the head. A satire composed by a bard of standing is a weapon the law recognizes, and it is made of these words.
 
-The letters came twice. The rune-row is still cut for magic and old poetry, and its staves are _shéimarson_. Everything else is written in the empire's [[skill-semrnscrpt|Semaron]], whose letter is _sémarzon_, the same word borrowed back from the coast.
+Élavendri is written in the empire's [[skill-semrnscrpt|Semaron]], whose letter is _sémarzon_, the same word borrowed back from the coast. The highlanders' rune-row, whose staves are _shéimarson_, is cut for monuments, magic and old poetry, and its language is Áelendi.
 
 ### The art and the thin places
 
