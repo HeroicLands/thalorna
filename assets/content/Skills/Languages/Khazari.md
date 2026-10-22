@@ -7,6 +7,7 @@ description: "The second of the Elder Tongues—short, percussive, and consonant
 tags: []
 data:
   abbreviation: Khaz.
+  writtenIn: {map: pirzath, font: pirzath-hand}
   fields:
     - {name: Stone and metal, holds: "stone, ore, metal, gem"}
     - {name: Craft and the forge, holds: "craft, tool, forge, fire"}

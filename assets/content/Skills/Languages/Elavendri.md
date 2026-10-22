@@ -9,6 +9,7 @@ data:
   core: true
   family: skill-aelendlng
   abbreviation: Elav.
+  writtenIn: {map: semaron, font: semaron-kuriale}
   fields:
     - name: The house and the old blood
       holds: "The noble house and the descent it claims, kin, the clan name and the earned name, inheritance and fosterage, and the old words the houses trace themselves through."

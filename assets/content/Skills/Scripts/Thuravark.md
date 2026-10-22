@@ -35,7 +35,7 @@ A carver of Thuravark marks a stressed word in rubric red.
 
 Twenty-eight staves, all of them straight. There are no horizontal strokes, because a horizontal cut runs with the grain of a plank and splits it, and there are no curves, because a chisel does not make them. Runes are cut in a continuous line with no word-spacing; readers separate the words themselves, which is why an unfamiliar name in an inscription is so easily mis-divided. Long vowels are marked by doubling the stave rather than by any diacritic. There is no distinction of capital and small forms—the notion would be meaningless to a carver.
 
-In the staves, the Nordmal _hrend_, a stone set at a claim's edge, is cut [hrend]{lang=nord font=thuravark-carved map=thuravark}, and _hrum_, the howe raised over a grave, is cut [hrum]{lang=nord font=thuravark-carved map=thuravark}.
+In the staves, the Nordmal _hrend_, a stone set at a claim's edge, is cut [hrend]{lang=nord}, and _hrum_, the howe raised over a grave, is cut [hrum]{lang=nord}.
 
 ## Where it is found
 
@@ -43,7 +43,7 @@ Memorial and grave stones; boundary markers; ships' stems and steering-oars; wea
 
 ## Who has it
 
-Far more widely held than pen literacy, and held by different people. A smith, a shipwright or a steading-holder may cut a competent inscription having never held a quill, because runes are a craft of the hand rather than a scholar's accomplishment, and are learned at the workbench. The priesthood and the professional scribes hold it as a matter of course. What high-status text exists—law recitations, genealogies, sacred formulas—is cut in runes and not written in the southern alphabet, since a jarl who received a genealogy in [[skill-semrnscrpt|Semaron]] would take the choice of script as a comment on his house. The alphabet has nonetheless made steady inroads in trade and maritime use, where speed matters more than dignity.
+Far more widely held than pen literacy, and held by different people. A smith, a shipwright or a steading-holder may cut a competent inscription having never held a quill, because runes are a craft of the hand rather than a scholar's accomplishment, and are learned at the workbench. The priesthood and the professional scribes hold it as a matter of course. What high-status text exists—law recitations, genealogies, sacred formulas—is cut in runes, and so is a trader's tally or a shipmaster's reckoning: the Nordmen write in nothing else, and the [[skill-semrnscrpt|Semaron]] of the south has no place among them.
 
 ## In play
 

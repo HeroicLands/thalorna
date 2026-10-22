@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Valt.
+  writtenIn: {map: semaron, font: semaron-kuriale}
   fields:
     - name: People of the quay
       holds: "The captain, the merchant, the factor, the sailor and the friend."

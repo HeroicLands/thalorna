@@ -8,6 +8,8 @@ tags: []
 data:
   core: true
   abbreviation: Nord.
+  writtenIn: {map: thuravark, font: thuravark-carved}
+  sounds: {stress: {two: first, longer: first}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -1308,11 +1310,11 @@ Alliteration binds, and end rhyme does nothing. A skald binds a line by repeatin
 
 ## Script & Literacy
 
-Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thuravark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the [[lore-flkkhazar|Khazari]] when the Pelwar tribes were their subjects—a claim the Nordmen refuse to hear) for formal and sacred writing. The runic system is considered more noble and traditional than the alphabetic script used for trade and common writing. High-status texts—legal documents, genealogies, religious texts—are written in runes.
+Nordmal traditionally employs a runic script (the ancient [[skill-thuravarkscript|Thuravark]], adapted for Pelwar sounds, and in all likelihood inherited, by way of a Proto-Pelwar row learned from the [[lore-flkkhazar|Khazari]] when the Pelwar tribes were their subjects—a claim the Nordmen refuse to hear) for every kind of writing, sacred and common alike. Nordmen do not write in the southern alphabet. High-status texts—legal documents, genealogies, religious texts—are written in runes.
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The [[skill-semrnscrpt|Semaron alphabet]] has become increasingly common for practical purposes, particularly in trade and maritime contexts. True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
+True literacy remains rare—confined to the priesthood, professional scribes, and a small minority of the nobility (perhaps 10-20%). Many jarls and thanes consider reading a scribe's task, not a warrior's, and keep household scribes for correspondence and record-keeping. Even in trading cities, most merchants rely on scribes for contracts and correspondence; a guildsman may recognize common trade marks and numerals but cannot read continuous text. Inland and rural populations are almost entirely non-literate. However, the cultural prestige of poetry and sagas means many non-literate Nordmen can recite extensive oral literature from memory.
 
 ## Historical Development
 

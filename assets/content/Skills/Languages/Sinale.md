@@ -2321,6 +2321,7 @@ data:
       - "Syllente"
       - "Ressinto"
   sounds:
+    stress: {two: first, longer: first}
     syllables:
       vowelPairs: [ai, au, ia, eo, oi, ou, ui, uo, ei, ie, yi, ye]
       harmony:

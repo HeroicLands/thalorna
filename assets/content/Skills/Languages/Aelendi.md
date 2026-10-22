@@ -2723,6 +2723,7 @@ data:
       - "Térgadandi"
       - "Tírindi"
   sounds:
+    stress: {two: first, longer: first}
     edges:
       - {edge: openCluster, sounds: [tr, dr, kr, gr, thr, khr, ghr]}
       - {edge: closeConsonant, sounds: [k, l, n, r, s, ks, lm, nd, th, rth]}

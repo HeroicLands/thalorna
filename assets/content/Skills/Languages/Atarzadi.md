@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Atz.
+  writtenIn: {map: qalezu, font: qalezu-hand}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

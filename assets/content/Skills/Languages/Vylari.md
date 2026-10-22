@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Vyl.
+  writtenIn: {map: semaron, font: semaron-kuriale}
   classModifiers: [m, f, "n"]
   emphasis: words
   fields:

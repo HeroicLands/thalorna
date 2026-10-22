@@ -9,6 +9,7 @@ data:
   core: true
   family: skill-vylarilng
   abbreviation: Prv.
+  writtenIn: {map: semaron, font: semaron-kuriale}
   classModifiers: [m, f]
   fields:
     - name: The city and its standing

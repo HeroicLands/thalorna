@@ -9,6 +9,7 @@ data:
   core: true
   family: skill-vylarilng
   abbreviation: Tarv.
+  writtenIn: {map: semaron, font: semaron-kuriale}
   classModifiers: [m, f, "n"]
   fields:
     - name: The word given

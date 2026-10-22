@@ -63,7 +63,7 @@ The strongest Khazari undertaking, _Dalík bant, maríg bant_ ("oath of stone, o
 Dalík bant, maríg bant.
 :::
 
-::: {lang=khaz font=pirzath-hand map=pirzath}
+::: {lang=khaz}
 Dalík bant, maríg bant.
 :::
 

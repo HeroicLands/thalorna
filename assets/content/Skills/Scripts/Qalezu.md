@@ -25,7 +25,7 @@ Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roug
 
 The title of [[lore-zamletuqaa|the Hymn of the Sun-Lord]], _Zamlet elu Uqa'a_, in Qalezu, read from the right:
 
-::: {lang=khel font=qalezu-hand map=qalezu}
+::: {lang=khel}
 Zamlet elu Uqa'a
 :::
 

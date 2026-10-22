@@ -3,7 +3,108 @@ shortcode: prnncthlrn
 name: {full: Pronouncing Thalorna, aliases: []}
 type: doc
 subType: reference
-data: {banner: null}
+data:
+  banner: null
+  sounds:
+    letters:
+      - {letters: [a], kind: vowel, like: father, ipa: ɑ}
+      - {letters: [e], kind: vowel, like: bet, ipa: ɛ}
+      - {letters: [i], kind: vowel, like: machine, ipa: i}
+      - {letters: [o], kind: vowel, like: go, ipa: o}
+      - {letters: [u], kind: vowel, like: rule, ipa: u}
+      - {letters: [ai], kind: vowel pair, like: eye, ipa: aɪ}
+      - {letters: [au], kind: vowel pair, like: cow, ipa: aʊ}
+      - {letters: [ei], kind: vowel pair, like: day, ipa: eɪ}
+      - {letters: [oi], kind: vowel pair, like: boy, ipa: ɔɪ}
+      - {letters: [ou], kind: vowel pair, like: soul, ipa: oʊ}
+      - {letters: [aa], kind: long vowel, like: "a long a, one vowel held a little", ipa: ɑː}
+      - {letters: [ii], kind: long vowel, like: "a long i, one vowel held a little", ipa: iː}
+      - {letters: [uu], kind: long vowel, like: "a long u, one vowel held a little", ipa: uː}
+      - {letters: [ie], kind: vowel pair, like: ee-eh run into one syllable, ipa: iɛ}
+      - {letters: [uo], kind: vowel pair, like: oo-oh run into one syllable, ipa: uo}
+      - {letters: [ae], kind: vowel pair, like: "day, one syllable", ipa: eɪ}
+      - letters: [ee]
+        kind: long vowel
+        like: "the e of bet held a little, one syllable"
+        ipa: ɛː
+        tongue: [skill-sinalelng, skill-sowideslng]
+      - letters: [oo]
+        kind: long vowel
+        like: "the o of go held a little, one syllable"
+        ipa: oː
+        tongue: [skill-sinalelng, skill-sowideslng]
+      - letters: [ea]
+        kind: vowel pair
+        like: eh-ah run into one syllable
+        ipa: ɛa
+        tongue: [skill-aelwthlng]
+      - letters: [ao]
+        kind: vowel pair
+        like: "ah-oh run into one syllable, near the ow of cow"
+        ipa: ao
+        tongue: [skill-tantsoulng]
+      - letters: [ui]
+        kind: vowel pair
+        like: "oo-ee run into one syllable, as in gooey said quickly"
+        ipa: ui
+        tongue: [skill-tantsoulng, skill-jurthatlng]
+      - {letters: [b], kind: consonant, like: bat, ipa: b}
+      - {letters: [d], kind: consonant, like: dog, ipa: d}
+      - {letters: [f], kind: consonant, like: fun, ipa: f}
+      - {letters: [h], kind: consonant, like: hat, ipa: h}
+      - {letters: [l], kind: consonant, like: let, ipa: l}
+      - {letters: [m], kind: consonant, like: man, ipa: m}
+      - {letters: [n], kind: consonant, like: net, ipa: n}
+      - {letters: [p], kind: consonant, like: pen, ipa: p}
+      - {letters: [s], kind: consonant, like: sun, ipa: s}
+      - {letters: [t], kind: consonant, like: ten, ipa: t}
+      - {letters: [v], kind: consonant, like: van, ipa: v}
+      - {letters: [w], kind: consonant, like: wet, ipa: w}
+      - {letters: [z], kind: consonant, like: zoo, ipa: z}
+      - {letters: [g], kind: consonant, like: "go, always hard and never as in gem", ipa: ɡ}
+      - {letters: [k], kind: consonant, like: kit, ipa: k}
+      - {letters: [ch], kind: consonant, like: church, ipa: tʃ}
+      - {letters: [sh], kind: consonant, like: ship, ipa: ʃ}
+      - {letters: [th], kind: consonant, like: thin, ipa: θ}
+      - {letters: [dh], kind: consonant, like: this, ipa: ð}
+      - {letters: [kh], kind: consonant, like: the Scottish loch, ipa: x}
+      - {letters: [gh], kind: consonant, like: "the same sound as kh, voiced", ipa: ɣ}
+      - {letters: [zh], kind: consonant, like: the s in measure, ipa: ʒ}
+      - {letters: [j], kind: consonant, like: judge, ipa: dʒ}
+      - letters: [y]
+        kind: consonant or vowel
+        like: "a consonant as in yes before a vowel; a vowel said as i, as in Bryn and Ashby, between consonants or at the end of a word"
+        ipa: "j, i"
+      - {letters: [ph], kind: consonant, like: "f, as in Phera", ipa: f}
+      - letters: [q]
+        kind: consonant
+        like: a k said further back in the throat; a plain k is fine
+        ipa: q
+      - {letters: [ts], kind: consonant, like: cats, ipa: ts}
+      - {letters: [ny], kind: consonant, like: canyon, ipa: ɲ}
+      - {letters: [ng], kind: consonant, like: "sing, even at the start of a word", ipa: ŋ}
+      - letters: [mb]
+        kind: consonant
+        like: "at the start of a word the two letters run together, as in mba"
+        ipa: mb
+      - letters: [nd]
+        kind: consonant
+        like: at the start of a word the two letters run together
+        ipa: nd
+      - {letters: [hl], kind: consonant, like: a breathy l, ipa: ɬ}
+      - {letters: [r], kind: consonant, like: "rolled or not, as the reader likes", ipa: r}
+      - letters: [bh]
+        kind: consonant
+        like: a b said with a breath after it
+        ipa: bʱ
+        tongue: [skill-vedyarlng]
+      - letters: ["'"]
+        kind: catch
+        like: "a catch in the throat, the pause in uh-oh; after a consonant, that consonant is said with the same catch"
+        ipa: ʔ
+    marks:
+      - {mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one}
+      - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: length, limit: one}
 ---
 
 Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, the same for every language, so a reader learns it once and can say any word in the setting. Where a word's own dictionary entry has more to say, it is for the curious; this guide is enough to play.

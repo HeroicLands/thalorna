@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Nyal.
+  writtenIn: {map: qalezu, font: qalezu-hand}
   fields:
     - name: Clan and totem
       holds: "The five clans, the totems they are named for, and the ending that makes a clan."
@@ -256,6 +257,7 @@ data:
       - "Zákedala"
       - "Zímbala"
   sounds:
+    stress: {two: first, longer: first}
     edges:
       - {edge: openCluster, sounds: [mb, mp, nd, nt, nk, nj, nz]}
       - {edge: closeConsonant, sounds: []}

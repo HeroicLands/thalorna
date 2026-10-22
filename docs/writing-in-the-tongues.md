@@ -101,6 +101,43 @@ The rules of the guide:
 - **Length** is written only by a doubled vowel. Tone and nasal vowels are not
   written.
 
+**The guide states its letters and marks as data.** The frontmatter of
+`Pronouncing_Thalorna.md` holds `data.sounds` with `letters` and `marks`, the
+same row shapes a language note uses. Each letter row gives the letters, a
+`kind`, what the letters sound `like` and the sound in the International
+Phonetic Alphabet as `ipa`. A row carries `tongue`, the Addresses of the
+language notes that write the letters, only where some tongues write them and
+others do not; a row without `tongue` holds for every tongue:
+
+```yaml
+data:
+  sounds:
+    letters:
+      - { letters: [sh], kind: consonant, like: ship, ipa: ʃ }
+      - {
+          letters: [ea],
+          kind: vowel pair,
+          like: eh-ah run into one syllable,
+          ipa: ɛa,
+          tongue: [skill-aelwthlng],
+        }
+      - {
+          letters: [ui],
+          kind: vowel pair,
+          like: "oo-ee run into one syllable, as in gooey said quickly",
+          ipa: ui,
+          tongue: [skill-tantsoulng, skill-jurthatlng],
+        }
+    marks:
+      - { mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one }
+```
+
+A row's `tongue` names language notes by their Addresses, and an Address that is
+no language note is an error at the value. A language note states
+`data.sounds.letters` for what is particular to the tongue, as Okharic does for
+_kh_. The guide's prose and its data say the same thing, so a change to a
+letter's sound changes both.
+
 **Worked example.** The guide's own words: _Kelara_ is said ke-LA-ra, and
 _Kelarán_ carries an acute because the rule would stress the middle syllable
 and the word stresses the last. The Vylari word _k'aralzon_ (the kept fire)
@@ -409,6 +446,16 @@ stress: { two: first, longer: penultimate, mark: acute }
   moves the stress to the syllable it sits on: `acute`, `grave` or
   `circumflex`. The roman spelling uses the acute.
 
+A language that stresses the first syllable of every word states it in full:
+
+```yaml
+stress: { two: first, longer: first }
+```
+
+`longer: first` places the stress on the first syllable of a word of three or
+more, counted from the start rather than the end. Áelendi, Sinale, Nordmal,
+Hvarn and Nyaluban state it.
+
 **Syllables are vowel groups.** A vowel is a letter whose base is _a_, _e_, _i_,
 _o_ or _u_, and a pair that the language lists in
 `data.sounds.syllables.vowelPairs` is one syllable. Vylari lists
@@ -616,22 +663,46 @@ them. Every face is a face of `@heroiclands/fonts`; `font=` names it by its
 class without `hl-` (`hl-semaron-kuriale` is `font=semaron-kuriale`), or one of
 the generic families `mono`, `serif` and `sans`.
 
-**A default script per language is not available.** A language does not name a
-script, so a run states `font=` and `map=` every time. A run that states
-`lang=vyl` alone is tagged Vylari, in roman, in the page's font.
+**A language names its script.** A language note's `data.writtenIn` states the
+mapping and the face its text is usually written in:
 
-The scripts in use with a language:
+```yaml
+data:
+  writtenIn: { map: semaron, font: semaron-kuriale }
+```
 
-| Language          | Script written in | Run                                               |
-| ----------------- | ----------------- | ------------------------------------------------- |
-| Vylari (`vyl`)    | Semaron           | `{lang=vyl font=semaron-kuriale map=semaron}`     |
-| Khazari (`khaz`)  | Pirzath           | `{lang=khaz font=pirzath-carved map=pirzath}`     |
-| Nordmal (`nord`)  | Thuravark         | `{lang=nord font=thuravark-carved map=thuravark}` |
-| Khelathi (`khel`) | Qalezu            | `{lang=khel font=qalezu-hand map=qalezu}`         |
+A run marked with the language alone then takes both, so `{lang=vyl}` is
+`{lang=vyl font=semaron-kuriale map=semaron}`, in a span, a `:::` block, a
+`verse` fence or a `scroll` fence. A run that states one of the two keys keeps
+it, and takes the other from the language only where the two agree. A run
+states `font=` and `map=` only to write a language in a script other than its
+usual one. `map` must be a mapping note's `data.map.name`, and `font` a face
+that mapping is drawn in; either fault is an error at the key.
+
+| Language          | `writtenIn`                     | Another script a run may name                         |
+| ----------------- | ------------------------------- | ----------------------------------------------------- |
+| Vylari (`vyl`)    | `semaron`, `semaron-kuriale`    |                                                       |
+| Provenzal         | `semaron`, `semaron-kuriale`    |                                                       |
+| Tarveni           | `semaron`, `semaron-kuriale`    |                                                       |
+| Élavendri         | `semaron`, `semaron-kuriale`    |                                                       |
+| Valtari           | `semaron`, `semaron-kuriale`    |                                                       |
+| Varokhi           | `semaron`, `semaron-kuriale`    |                                                       |
+| Nordmal (`nord`)  | `thuravark`, `thuravark-carved` |                                                       |
+| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`       | `pirzath-carved`, `pirzath-hand-lifted`               |
+| Khelathi (`khel`) | `qalezu`, `qalezu-hand`         | `khelathi-zethu-glyphs` with `zethu`, the sacred hand |
+| Atárzadi          | `qalezu`, `qalezu-hand`         |                                                       |
+| Dunhari           | `qalezu`, `qalezu-hand`         |                                                       |
+| Nyáluban          | `qalezu`, `qalezu-hand`         |                                                       |
+
+Sinale and Áelendi are written in the Veldikko, and Tantsou and Jurthati in
+Teng Chou. No mapping note exists for either script, so those four tongues
+state no `writtenIn`, and a run marked with their `lang=` alone is tagged, in
+roman, in the page's font. A language that states none behaves so.
 
 Other tongues are written in these scripts by the same mappings: a tongue
 borrowing Semaron uses `map=semaron` with its own `lang=` and its own
-dictionary.
+dictionary, and a tongue whose note states no `writtenIn` is marked with both
+keys every time.
 
 ### 8.2 What a mapping row is
 
@@ -734,48 +805,51 @@ spell every word.
 Three optional keys mark text, on a span, a `:::` block or a `verse` fence.
 They are independent.
 
-| Written                                                       | What it is                                                                       |
-| ------------------------------------------------------------- | -------------------------------------------------------------------------------- |
-| `[Daimela, helthos.]{lang=vyl}`                               | Vylari, tagged `art-x-vyl`, in roman and in the page's font. Unchecked.          |
-| `[…]{font=semaron-kuriale}`                                   | The code points exactly as typed, in Semaron Kuriale. Checked for coverage only. |
-| `[Zaron tholmeza]{lang=vyl font=semaron-kuriale map=semaron}` | Vylari typed in roman, mapped through the dictionary and the rows, and checked.  |
-| `[…]{map=semaron}` with no `lang=`                            | The rows alone: no dictionary, no lexicon check.                                 |
-| `[ad astra]{lang=la font=serif}`                              | A real language's tag, unchecked, in the reader's serif.                         |
-| `::: {lang=… font=… map=…}` … `:::`                           | The same keys for a passage of paragraphs.                                       |
-| A `verse` fence opened with `{lang=… font=… map=…}`           | The same keys for a poem.                                                        |
+| Written                                                       | What it is                                                                                              |
+| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
+| `[Daimela, helthos.]{lang=en}`                                | English, tagged, in roman and in the page's font. Unchecked.                                            |
+| `[…]{font=semaron-kuriale}`                                   | The code points exactly as typed, in Semaron Kuriale. Checked for coverage only.                        |
+| `[Zaron tholmeza]{lang=vyl}`                                  | Vylari typed in roman, mapped through the dictionary and the rows of Vylari's `writtenIn`, and checked. |
+| `[Zaron tholmeza]{lang=vyl font=semaron-kuriale map=semaron}` | The same, with both keys written out.                                                                   |
+| `[…]{map=semaron}` with no `lang=`                            | The rows alone: no dictionary, no lexicon check.                                                        |
+| `[ad astra]{lang=la font=serif}`                              | A real language's tag, unchecked, in the reader's serif.                                                |
+| `::: {lang=… font=… map=…}` … `:::`                           | The same keys for a passage of paragraphs.                                                              |
+| A `verse` fence opened with `{lang=… font=… map=…}`           | The same keys for a poem.                                                                               |
 
 ### 9.1 The three cases
 
-1. **Roman, tagged** (`{lang=vyl}`). The text is roman and unchecked. Use it
-   for a word or phrase quoted in the page's own font.
+1. **Roman, tagged** (`{lang=en}`, or the `lang=` of a language whose note
+   states no `writtenIn`). The text is roman and unchecked. Use it for a word or
+   phrase quoted in the page's own font.
 2. **Native code points typed directly** (`{font=…}`). The characters reach the
    page exactly as written. Nothing is checked against any language. The only
    check is face coverage: every character must be one the face draws. The
    characters are the face's own code points, typed with a keyboard layout or
    an input method (see [Typing natively](#14-typing-natively)).
-3. **Roman mapped** (`{lang=vyl font=… map=…}`). The roman is converted by the
-   dictionary and the rows, then checked against the language's lexicon and
-   register, then checked for face coverage. This is the usual choice for a
-   language with a dictionary, because the note's source stays readable and
-   diffable.
+3. **Roman mapped** (`{lang=vyl}`, or `{lang=vyl font=… map=…}` for a script
+   other than the language's own). The roman is converted by the dictionary and
+   the rows, then checked against the language's lexicon and register, then
+   checked for face coverage. This is the usual choice for a language with a
+   dictionary, because the note's source stays readable and diffable.
 
 **Real runs in the tree.** From `Skills/Scripts/Semaron.md`, the opening of a
 sworn oath in High Vylari, as a block:
 
 ```markdown
-::: {lang=vyl font=semaron-kuriale map=semaron}
+::: {lang=vyl}
 Voza ulthoi okethen denon zaron, ul kalmetharoi.
 :::
 ```
 
-From `Skills/Scripts/Pirzath.md`, the same words in two faces:
+From `Skills/Scripts/Pirzath.md`, the same words in two faces. Khazari's own
+`writtenIn` face is Pirzath Hand, so only the carved form names its face:
 
 ```markdown
-::: {lang=khaz font=pirzath-carved map=pirzath}
+::: {lang=khaz font=pirzath-carved}
 Dalík bant, maríg bant.
 :::
 
-::: {lang=khaz font=pirzath-hand map=pirzath}
+::: {lang=khaz}
 Dalík bant, maríg bant.
 :::
 ```
@@ -783,7 +857,7 @@ Dalík bant, maríg bant.
 From `Skills/Scripts/Thuravark.md`, a span in running prose:
 
 ```markdown
-[hrend]{lang=nord font=thuravark-carved map=thuravark}
+[hrend]{lang=nord}
 ```
 
 ### 9.2 The keys
@@ -807,13 +881,15 @@ rows. _Meqes_ is a name in Khelathi's register, so the span passes, and Semaron
 writes its _q_ as _k_ ([What a mapping row is](#82-what-a-mapping-row-is)):
 
 ```markdown
-::: {lang=vyl font=semaron-kuriale map=semaron}
+::: {lang=vyl}
 Voza olmathen thilandon, [Meqes]{lang=khel}, ul voza lorezathen.
 :::
 ```
 
-To draw it in Qalezu instead, the span states its own face and mapping:
-`[Meqes]{lang=khel font=qalezu-hand map=qalezu}`. Qalezu runs right to
+The span's language is Khelathi, whose `writtenIn` is Qalezu, but the span names
+no `font=` or `map=`, so it keeps the passage's Semaron: the passage's keys win
+over the span's language. To draw it in Qalezu instead, the span names the
+script itself: `[Meqes]{lang=khel font=qalezu-hand map=qalezu}`. Qalezu runs right to
 left inside the left-to-right line with no `dir=` written. To set a gloss in
 the page's own font, `[an oath]{lang=en font=serif}` inside the passage drops
 both the face and the map by naming new ones.
@@ -1045,13 +1121,29 @@ with one paragraph per paragraph of text, set with `writing-mode: vertical-rl`.
 In the book, each panel is drawn as an image from the face's outlines, and its
 alt text is the roman text it was written from.
 
-**What this repository has.** No script note here states `direction`, and no
-mapping note exists for Teng Chou, so no `scroll` fence is written in a note.
-The package-build this repository installs does not read a `scroll`
-fence: in a note it is an ordinary code block, so the fence is written only
-against a package-build whose documentation describes it. The Khelathi-zethu script note says its text is written
-either right to left in lines or top down in columns, and the font lays out a
-line; a column is laid out by the page.
+A script note states the direction in `data.script`:
+
+```yaml
+data:
+  script:
+    fonts: [teng-chou]
+    emphasis: rubric
+    direction: vertical-rl
+```
+
+When the language's note states `writtenIn`, `lang=` alone is enough:
+
+````markdown
+```scroll {rows=25 cols=12 lang=<language>}
+<the passage, in roman, one paragraph per blank-line-separated block>
+```
+````
+
+**What this repository has.** No script note here states `direction`, and Teng
+Chou has no mapping note, so no note contains a `scroll` fence. The
+Khelathi-zethu script note says its text is written either right to left in
+lines or top down in columns, and the font lays out a line; a column is laid out
+by the page.
 
 ## 13. Logographic writing: Zethu
 

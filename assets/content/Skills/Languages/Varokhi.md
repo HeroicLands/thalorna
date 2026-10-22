@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Var.
+  writtenIn: {map: semaron, font: semaron-kuriale}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

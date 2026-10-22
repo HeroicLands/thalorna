@@ -131,6 +131,7 @@ data:
       - "Vrestun"
       - "Shulnrh"
   sounds:
+    stress: {two: first, longer: first}
     edges:
       - {edge: openCluster, sounds: [hv, hvr, vh, vr, vn, kl, tr, br, dr, zv]}
       - {edge: closeConsonant, sounds: any}

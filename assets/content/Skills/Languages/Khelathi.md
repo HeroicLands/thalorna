@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Khel.
+  writtenIn: {map: qalezu, font: qalezu-hand}
   banner: khelathubnr
   icon: icon-speaking
   templatePriority: null

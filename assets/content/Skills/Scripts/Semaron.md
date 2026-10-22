@@ -33,7 +33,7 @@ The letterforms descend from the older carved runes of [[skill-thrvrknscrpt|Thar
 
 The opening of a sworn oath in High Vylari, _Voza ulthoi okethen denon zaron, ul kalmetharoi_ ("May the gods see this oath, and the ancestors"), in the Kuriale hand:
 
-::: {lang=vyl font=semaron-kuriale map=semaron}
+::: {lang=vyl}
 Voza ulthoi okethen denon zaron, ul kalmetharoi.
 :::
 
@@ -51,7 +51,7 @@ Literacy in the Semaron is what the Imperial Scribal Guild sells, examines and d
 
 ## Beyond the Empire
 
-The Semaron is the nearest thing [[place-midhalnrgn|Mídhalión]] has to a common alphabet. It carries Vylari, Provenzal, Tarveni, modern Élavendri, Nordmal for trade and western Valtari. [[skill-elvndrlng|Élavendri]] is written in it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its ledgers in it whatever tongue the entries are in, while the Bizarian language itself is written in the [[skill-helnkscrpt|Helónika]]; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
+The Semaron is the nearest thing [[place-midhalnrgn|Mídhalión]] has to a common alphabet. It carries Vylari, Provenzal, Tarveni, modern Élavendri and western Valtari. [[skill-elvndrlng|Élavendri]] is written in it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its ledgers in it whatever tongue the entries are in, while the Bizarian language itself is written in the [[skill-helnkscrpt|Helónika]]; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
 
 ## In play
 

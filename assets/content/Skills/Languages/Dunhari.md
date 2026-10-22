@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Dun.
+  writtenIn: {map: qalezu, font: qalezu-hand}
   fields:
     - name: "The Shebarader's court"
       holds: "The offices through which the Shebarader of Amradad governs his cities, markets and doors."
