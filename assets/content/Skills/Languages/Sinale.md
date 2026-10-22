@@ -7,6 +7,7 @@ description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, 
 tags: []
 data:
   abbreviation: Sin.
+  writtenIn: {map: veldikko, font: veldikko}
   fields:
     - name: "Light, stars, sky and the hours"
       holds: "Light and dark, the sun, moon and stars, the colours of the sky, the parts of the day."
@@ -2826,7 +2827,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 **The check that catches most copyists.** A word never holds a back vowel and a front vowel together, so every vowel mark in a word belongs to one set. A word carrying both is an error before it is anything else, and it is the first thing a Sinale reader sees.
 
-**This is Sinale's mapping and not [[skill-aelendlng|Áelendi Language]]'s.** The Áelendan write the same letters in an older, plainer hand, unchanged in centuries, for a language carrying sounds the Veldikko was never cut for. A passage of Áelendi wants its own convention and does not follow this one.
+**[[skill-aelendlng|Áelendi Language]] has its own rows.** The Áelendan write the same letters in an older, plainer hand, unchanged in centuries, and their _g_ and aspirates take letters of their own, so a separate mapping holds them.
 
 ## Historical Development
 

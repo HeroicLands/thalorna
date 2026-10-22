@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Ael.
+  writtenIn: {map: veldikko-aelendi, font: veldikko}
   classModifiers: [m, f, "n"]
   fields:
     - name: "The Pact, the oath and the keeping"

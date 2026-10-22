@@ -154,6 +154,24 @@ jobs:
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/semaron-kuriale/guard.py"
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vylari.md"
 
+            # Every Sinale and Áelendi form and name is set through the
+            # `veldikko` mapping note; Sinale must also equal the fonts'
+            # converter, code point for code point.
+            - name: Setup Node
+              if: ${{ !cancelled() }}
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: 24
+                  cache: npm
+
+            - name: Install dependencies
+              if: ${{ !cancelled() }}
+              run: npm ci
+
+            - name: Veldikko
+              if: ${{ !cancelled() }}
+              run: node utils/veldikko-guard.mjs --fonts "$RUNNER_TEMP/fonts"
+
     lint:
         name: Content, prose, and registry checks
         runs-on: lint

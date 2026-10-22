@@ -1,0 +1,1195 @@
+---
+shortcode: mapveldikko
+name: {full: Veldikko Spelling, aliases: []}
+type: doc
+subType: reference
+data:
+  packFolder: languages
+  map:
+    name: veldikko
+    rows:
+      - ["ng", "𞵚"] # U+1ED5A
+      - ["nG", "𞵚"] # U+1ED5A
+      - ["Ng", "𞵚"] # U+1ED5A
+      - ["NG", "𞵚"] # U+1ED5A
+      - ["dh", "𞵗"] # U+1ED57
+      - ["dH", "𞵗"] # U+1ED57
+      - ["Dh", "𞵗"] # U+1ED57
+      - ["DH", "𞵗"] # U+1ED57
+      - ["nk", "𞵚𞵘"] # U+1ED5A U+1ED58
+      - ["nK", "𞵚𞵘"] # U+1ED5A U+1ED58
+      - ["Nk", "𞵚𞵘"] # U+1ED5A U+1ED58
+      - ["NK", "𞵚𞵘"] # U+1ED5A U+1ED58
+      - ["ch", "𞵘"] # U+1ED58
+      - ["cH", "𞵘"] # U+1ED58
+      - ["Ch", "𞵘"] # U+1ED58
+      - ["CH", "𞵘"] # U+1ED58
+      - ["sh", "𞵔"] # U+1ED54
+      - ["sH", "𞵔"] # U+1ED54
+      - ["Sh", "𞵔"] # U+1ED54
+      - ["SH", "𞵔"] # U+1ED54
+      - ["x", "𞵘𞵔"] # U+1ED58 U+1ED54
+      - ["X", "𞵘𞵔"] # U+1ED58 U+1ED54
+      - ["p", "𞵐"] # U+1ED50
+      - ["P", "𞵐"] # U+1ED50
+      - ["v", "𞵑"] # U+1ED51
+      - ["V", "𞵑"] # U+1ED51
+      - ["m", "𞵒"] # U+1ED52
+      - ["M", "𞵒"] # U+1ED52
+      - ["t", "𞵓"] # U+1ED53
+      - ["T", "𞵓"] # U+1ED53
+      - ["s", "𞵔"] # U+1ED54
+      - ["S", "𞵔"] # U+1ED54
+      - ["n", "𞵕"] # U+1ED55
+      - ["N", "𞵕"] # U+1ED55
+      - ["d", "𞵖"] # U+1ED56
+      - ["D", "𞵖"] # U+1ED56
+      - ["k", "𞵘"] # U+1ED58
+      - ["K", "𞵘"] # U+1ED58
+      - ["h", "𞵙"] # U+1ED59
+      - ["H", "𞵙"] # U+1ED59
+      - ["l", "𞵛"] # U+1ED5B
+      - ["L", "𞵛"] # U+1ED5B
+      - ["r", "𞵜"] # U+1ED5C
+      - ["R", "𞵜"] # U+1ED5C
+      - ["b", "𞵐"] # U+1ED50
+      - ["B", "𞵐"] # U+1ED50
+      - ["f", "𞵑"] # U+1ED51
+      - ["F", "𞵑"] # U+1ED51
+      - ["w", "𞵑"] # U+1ED51
+      - ["W", "𞵑"] # U+1ED51
+      - ["z", "𞵔"] # U+1ED54
+      - ["Z", "𞵔"] # U+1ED54
+      - ["c", "𞵘"] # U+1ED58
+      - ["C", "𞵘"] # U+1ED58
+      - ["q", "𞵘"] # U+1ED58
+      - ["Q", "𞵘"] # U+1ED58
+      - ["g", "𞵘"] # U+1ED58
+      - ["G", "𞵘"] # U+1ED58
+      - ["pp", "𞵐𞵼"] # U+1ED50 U+1ED7C
+      - ["pP", "𞵐𞵼"] # U+1ED50 U+1ED7C
+      - ["Pp", "𞵐𞵼"] # U+1ED50 U+1ED7C
+      - ["PP", "𞵐𞵼"] # U+1ED50 U+1ED7C
+      - ["vv", "𞵑𞵼"] # U+1ED51 U+1ED7C
+      - ["vV", "𞵑𞵼"] # U+1ED51 U+1ED7C
+      - ["Vv", "𞵑𞵼"] # U+1ED51 U+1ED7C
+      - ["VV", "𞵑𞵼"] # U+1ED51 U+1ED7C
+      - ["mm", "𞵒𞵼"] # U+1ED52 U+1ED7C
+      - ["mM", "𞵒𞵼"] # U+1ED52 U+1ED7C
+      - ["Mm", "𞵒𞵼"] # U+1ED52 U+1ED7C
+      - ["MM", "𞵒𞵼"] # U+1ED52 U+1ED7C
+      - ["tt", "𞵓𞵼"] # U+1ED53 U+1ED7C
+      - ["tT", "𞵓𞵼"] # U+1ED53 U+1ED7C
+      - ["Tt", "𞵓𞵼"] # U+1ED53 U+1ED7C
+      - ["TT", "𞵓𞵼"] # U+1ED53 U+1ED7C
+      - ["ss", "𞵔𞵼"] # U+1ED54 U+1ED7C
+      - ["sS", "𞵔𞵼"] # U+1ED54 U+1ED7C
+      - ["Ss", "𞵔𞵼"] # U+1ED54 U+1ED7C
+      - ["SS", "𞵔𞵼"] # U+1ED54 U+1ED7C
+      - ["nn", "𞵕𞵼"] # U+1ED55 U+1ED7C
+      - ["nN", "𞵕𞵼"] # U+1ED55 U+1ED7C
+      - ["Nn", "𞵕𞵼"] # U+1ED55 U+1ED7C
+      - ["NN", "𞵕𞵼"] # U+1ED55 U+1ED7C
+      - ["dd", "𞵖𞵼"] # U+1ED56 U+1ED7C
+      - ["dD", "𞵖𞵼"] # U+1ED56 U+1ED7C
+      - ["Dd", "𞵖𞵼"] # U+1ED56 U+1ED7C
+      - ["DD", "𞵖𞵼"] # U+1ED56 U+1ED7C
+      - ["kk", "𞵘𞵼"] # U+1ED58 U+1ED7C
+      - ["kK", "𞵘𞵼"] # U+1ED58 U+1ED7C
+      - ["Kk", "𞵘𞵼"] # U+1ED58 U+1ED7C
+      - ["KK", "𞵘𞵼"] # U+1ED58 U+1ED7C
+      - ["hh", "𞵙𞵼"] # U+1ED59 U+1ED7C
+      - ["hH", "𞵙𞵼"] # U+1ED59 U+1ED7C
+      - ["Hh", "𞵙𞵼"] # U+1ED59 U+1ED7C
+      - ["HH", "𞵙𞵼"] # U+1ED59 U+1ED7C
+      - ["ll", "𞵛𞵼"] # U+1ED5B U+1ED7C
+      - ["lL", "𞵛𞵼"] # U+1ED5B U+1ED7C
+      - ["Ll", "𞵛𞵼"] # U+1ED5B U+1ED7C
+      - ["LL", "𞵛𞵼"] # U+1ED5B U+1ED7C
+      - ["rr", "𞵜𞵼"] # U+1ED5C U+1ED7C
+      - ["rR", "𞵜𞵼"] # U+1ED5C U+1ED7C
+      - ["Rr", "𞵜𞵼"] # U+1ED5C U+1ED7C
+      - ["RR", "𞵜𞵼"] # U+1ED5C U+1ED7C
+      - ["ngng", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["ngnG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["ngNg", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["ngNG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["nGng", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["nGnG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["nGNg", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["nGNG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["Ngng", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NgnG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NgNg", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NgNG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NGng", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NGnG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NGNg", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["NGNG", "𞵚𞵼"] # U+1ED5A U+1ED7C
+      - ["dhdh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dhdH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dhDh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dhDH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dHdh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dHdH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dHDh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["dHDH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["Dhdh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DhdH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DhDh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DhDH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DHdh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DHdH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DHDh", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - ["DHDH", "𞵗𞵼"] # U+1ED57 U+1ED7C
+      - {from: "-", to: "", at: start} # writes nothing
+      - {from: "-", to: "", at: end} # writes nothing
+      - ["-", " "] # a word space
+      - {from: "a", to: "𞵝𞵰", at: start} # U+1ED5D U+1ED70
+      - ["a", "𞵰"] # U+1ED70
+      - {from: "A", to: "𞵝𞵰", at: start} # U+1ED5D U+1ED70
+      - ["A", "𞵰"] # U+1ED70
+      - {from: "á", to: "𞵝𞵰", at: start} # U+1ED5D U+1ED70
+      - ["á", "𞵰"] # U+1ED70
+      - {from: "Á", to: "𞵝𞵰", at: start} # U+1ED5D U+1ED70
+      - ["Á", "𞵰"] # U+1ED70
+      - {from: "e", to: "𞵝𞵳", at: start} # U+1ED5D U+1ED73
+      - ["e", "𞵳"] # U+1ED73
+      - {from: "E", to: "𞵝𞵳", at: start} # U+1ED5D U+1ED73
+      - ["E", "𞵳"] # U+1ED73
+      - {from: "é", to: "𞵝𞵳", at: start} # U+1ED5D U+1ED73
+      - ["é", "𞵳"] # U+1ED73
+      - {from: "É", to: "𞵝𞵳", at: start} # U+1ED5D U+1ED73
+      - ["É", "𞵳"] # U+1ED73
+      - {from: "i", to: "𞵝𞵴", at: start} # U+1ED5D U+1ED74
+      - ["i", "𞵴"] # U+1ED74
+      - {from: "I", to: "𞵝𞵴", at: start} # U+1ED5D U+1ED74
+      - ["I", "𞵴"] # U+1ED74
+      - {from: "í", to: "𞵝𞵴", at: start} # U+1ED5D U+1ED74
+      - ["í", "𞵴"] # U+1ED74
+      - {from: "Í", to: "𞵝𞵴", at: start} # U+1ED5D U+1ED74
+      - ["Í", "𞵴"] # U+1ED74
+      - {from: "o", to: "𞵝𞵱", at: start} # U+1ED5D U+1ED71
+      - ["o", "𞵱"] # U+1ED71
+      - {from: "O", to: "𞵝𞵱", at: start} # U+1ED5D U+1ED71
+      - ["O", "𞵱"] # U+1ED71
+      - {from: "ó", to: "𞵝𞵱", at: start} # U+1ED5D U+1ED71
+      - ["ó", "𞵱"] # U+1ED71
+      - {from: "Ó", to: "𞵝𞵱", at: start} # U+1ED5D U+1ED71
+      - ["Ó", "𞵱"] # U+1ED71
+      - {from: "u", to: "𞵝𞵲", at: start} # U+1ED5D U+1ED72
+      - ["u", "𞵲"] # U+1ED72
+      - {from: "U", to: "𞵝𞵲", at: start} # U+1ED5D U+1ED72
+      - ["U", "𞵲"] # U+1ED72
+      - {from: "ú", to: "𞵝𞵲", at: start} # U+1ED5D U+1ED72
+      - ["ú", "𞵲"] # U+1ED72
+      - {from: "Ú", to: "𞵝𞵲", at: start} # U+1ED5D U+1ED72
+      - ["Ú", "𞵲"] # U+1ED72
+      - {from: "y", to: "𞵝𞵵", at: start} # U+1ED5D U+1ED75
+      - ["y", "𞵵"] # U+1ED75
+      - {from: "Y", to: "𞵝𞵵", at: start} # U+1ED5D U+1ED75
+      - ["Y", "𞵵"] # U+1ED75
+      - {from: "ý", to: "𞵝𞵵", at: start} # U+1ED5D U+1ED75
+      - ["ý", "𞵵"] # U+1ED75
+      - {from: "Ý", to: "𞵝𞵵", at: start} # U+1ED5D U+1ED75
+      - ["Ý", "𞵵"] # U+1ED75
+      - {from: "ë", to: "𞵝𞵶", at: start} # U+1ED5D U+1ED76
+      - ["ë", "𞵶"] # U+1ED76
+      - {from: "Ë", to: "𞵝𞵶", at: start} # U+1ED5D U+1ED76
+      - ["Ë", "𞵶"] # U+1ED76
+      - {from: "j", to: "𞵝𞵵", at: start} # U+1ED5D U+1ED75
+      - ["j", "𞵵"] # U+1ED75
+      - {from: "J", to: "𞵝𞵵", at: start} # U+1ED5D U+1ED75
+      - ["J", "𞵵"] # U+1ED75
+      - {from: "aa", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["aa", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "aA", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["aA", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "aá", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["aá", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "aÁ", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["aÁ", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "Aa", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["Aa", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "AA", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["AA", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "Aá", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["Aá", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "AÁ", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["AÁ", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "áa", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["áa", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "áA", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["áA", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "áá", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["áá", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "áÁ", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["áÁ", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "Áa", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["Áa", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "ÁA", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["ÁA", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "Áá", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["Áá", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "ÁÁ", to: "𞵝𞵰𞵸", at: start} # U+1ED5D U+1ED70 U+1ED78
+      - ["ÁÁ", "𞵰𞵸"] # U+1ED70 U+1ED78
+      - {from: "ae", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["ae", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "aE", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["aE", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "aé", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["aé", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "aÉ", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["aÉ", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "Ae", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["Ae", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "AE", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["AE", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "Aé", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["Aé", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "AÉ", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["AÉ", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "áe", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["áe", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "áE", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["áE", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "áé", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["áé", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "áÉ", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["áÉ", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "Áe", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["Áe", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "ÁE", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["ÁE", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "Áé", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["Áé", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "ÁÉ", to: "𞵝𞵰𞵝𞵳", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED73
+      - ["ÁÉ", "𞵰𞵝𞵳"] # U+1ED70 U+1ED5D U+1ED73
+      - {from: "ao", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["ao", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "aO", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["aO", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "aó", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["aó", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "aÓ", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["aÓ", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "Ao", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["Ao", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "AO", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["AO", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "Aó", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["Aó", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "AÓ", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["AÓ", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "áo", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["áo", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "áO", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["áO", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "áó", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["áó", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "áÓ", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["áÓ", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "Áo", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["Áo", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "ÁO", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["ÁO", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "Áó", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["Áó", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "ÁÓ", to: "𞵝𞵰𞵝𞵱", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED71
+      - ["ÁÓ", "𞵰𞵝𞵱"] # U+1ED70 U+1ED5D U+1ED71
+      - {from: "ay", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["ay", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "aY", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["aY", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "aý", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["aý", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "aÝ", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["aÝ", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "Ay", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["Ay", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "AY", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["AY", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "Aý", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["Aý", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "AÝ", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["AÝ", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "áy", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["áy", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "áY", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["áY", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "áý", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["áý", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "áÝ", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["áÝ", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "Áy", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["Áy", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "ÁY", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["ÁY", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "Áý", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["Áý", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "ÁÝ", to: "𞵝𞵰𞵝𞵵", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED75
+      - ["ÁÝ", "𞵰𞵝𞵵"] # U+1ED70 U+1ED5D U+1ED75
+      - {from: "aë", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["aë", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "aË", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["aË", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "Aë", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["Aë", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "AË", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["AË", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "áë", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["áë", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "áË", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["áË", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "Áë", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["Áë", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "ÁË", to: "𞵝𞵰𞵝𞵶", at: start} # U+1ED5D U+1ED70 U+1ED5D U+1ED76
+      - ["ÁË", "𞵰𞵝𞵶"] # U+1ED70 U+1ED5D U+1ED76
+      - {from: "ea", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["ea", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "eA", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["eA", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "eá", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["eá", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "eÁ", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["eÁ", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "Ea", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["Ea", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "EA", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["EA", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "Eá", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["Eá", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "EÁ", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["EÁ", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "éa", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["éa", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "éA", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["éA", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "éá", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["éá", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "éÁ", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["éÁ", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "Éa", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["Éa", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "ÉA", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["ÉA", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "Éá", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["Éá", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "ÉÁ", to: "𞵝𞵳𞵝𞵰", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED70
+      - ["ÉÁ", "𞵳𞵝𞵰"] # U+1ED73 U+1ED5D U+1ED70
+      - {from: "ee", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["ee", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "eE", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["eE", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "eé", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["eé", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "eÉ", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["eÉ", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "Ee", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["Ee", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "EE", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["EE", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "Eé", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["Eé", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "EÉ", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["EÉ", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "ée", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["ée", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "éE", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["éE", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "éé", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["éé", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "éÉ", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["éÉ", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "Ée", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["Ée", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "ÉE", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["ÉE", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "Éé", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["Éé", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "ÉÉ", to: "𞵝𞵳𞵸", at: start} # U+1ED5D U+1ED73 U+1ED78
+      - ["ÉÉ", "𞵳𞵸"] # U+1ED73 U+1ED78
+      - {from: "eu", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["eu", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "eU", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["eU", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "eú", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["eú", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "eÚ", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["eÚ", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "Eu", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["Eu", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "EU", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["EU", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "Eú", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["Eú", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "EÚ", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["EÚ", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "éu", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["éu", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "éU", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["éU", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "éú", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["éú", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "éÚ", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["éÚ", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "Éu", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["Éu", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "ÉU", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["ÉU", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "Éú", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["Éú", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "ÉÚ", to: "𞵝𞵳𞵝𞵲", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED72
+      - ["ÉÚ", "𞵳𞵝𞵲"] # U+1ED73 U+1ED5D U+1ED72
+      - {from: "ey", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["ey", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "eY", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["eY", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "eý", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["eý", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "eÝ", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["eÝ", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "Ey", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["Ey", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "EY", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["EY", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "Eý", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["Eý", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "EÝ", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["EÝ", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "éy", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["éy", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "éY", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["éY", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "éý", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["éý", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "éÝ", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["éÝ", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "Éy", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["Éy", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "ÉY", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["ÉY", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "Éý", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["Éý", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "ÉÝ", to: "𞵝𞵳𞵝𞵵", at: start} # U+1ED5D U+1ED73 U+1ED5D U+1ED75
+      - ["ÉÝ", "𞵳𞵝𞵵"] # U+1ED73 U+1ED5D U+1ED75
+      - {from: "eë", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["eë", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "eË", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["eË", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "Eë", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["Eë", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "EË", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["EË", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "éë", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["éë", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "éË", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["éË", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "Éë", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["Éë", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "ÉË", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["ÉË", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "ii", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["ii", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "iI", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["iI", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "ií", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["ií", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "iÍ", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["iÍ", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "Ii", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["Ii", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "II", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["II", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "Ií", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["Ií", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "IÍ", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["IÍ", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "íi", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["íi", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "íI", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["íI", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "íí", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["íí", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "íÍ", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["íÍ", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "Íi", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["Íi", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "ÍI", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["ÍI", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "Íí", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["Íí", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "ÍÍ", to: "𞵝𞵴𞵸", at: start} # U+1ED5D U+1ED74 U+1ED78
+      - ["ÍÍ", "𞵴𞵸"] # U+1ED74 U+1ED78
+      - {from: "io", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["io", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "iO", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["iO", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "ió", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["ió", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "iÓ", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["iÓ", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "Io", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["Io", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "IO", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["IO", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "Ió", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["Ió", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "IÓ", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["IÓ", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "ío", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["ío", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "íO", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["íO", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "íó", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["íó", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "íÓ", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["íÓ", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "Ío", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["Ío", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "ÍO", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["ÍO", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "Íó", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["Íó", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "ÍÓ", to: "𞵝𞵴𞵝𞵱", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED71
+      - ["ÍÓ", "𞵴𞵝𞵱"] # U+1ED74 U+1ED5D U+1ED71
+      - {from: "iu", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["iu", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "iU", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["iU", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "iú", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["iú", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "iÚ", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["iÚ", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "Iu", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["Iu", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "IU", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["IU", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "Iú", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["Iú", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "IÚ", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["IÚ", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "íu", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["íu", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "íU", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["íU", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "íú", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["íú", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "íÚ", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["íÚ", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "Íu", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["Íu", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "ÍU", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["ÍU", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "Íú", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["Íú", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "ÍÚ", to: "𞵝𞵴𞵝𞵲", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED72
+      - ["ÍÚ", "𞵴𞵝𞵲"] # U+1ED74 U+1ED5D U+1ED72
+      - {from: "iy", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["iy", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "iY", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["iY", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "iý", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["iý", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "iÝ", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["iÝ", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "Iy", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["Iy", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "IY", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["IY", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "Iý", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["Iý", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "IÝ", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["IÝ", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "íy", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["íy", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "íY", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["íY", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "íý", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["íý", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "íÝ", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["íÝ", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "Íy", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["Íy", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "ÍY", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["ÍY", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "Íý", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["Íý", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "ÍÝ", to: "𞵝𞵴𞵝𞵵", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED75
+      - ["ÍÝ", "𞵴𞵝𞵵"] # U+1ED74 U+1ED5D U+1ED75
+      - {from: "ië", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["ië", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "iË", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["iË", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "Ië", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["Ië", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "IË", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["IË", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "íë", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["íë", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "íË", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["íË", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "Íë", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["Íë", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "ÍË", to: "𞵝𞵴𞵝𞵶", at: start} # U+1ED5D U+1ED74 U+1ED5D U+1ED76
+      - ["ÍË", "𞵴𞵝𞵶"] # U+1ED74 U+1ED5D U+1ED76
+      - {from: "oa", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["oa", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "oA", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["oA", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "oá", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["oá", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "oÁ", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["oÁ", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "Oa", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["Oa", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "OA", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["OA", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "Oá", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["Oá", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "OÁ", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["OÁ", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "óa", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["óa", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "óA", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["óA", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "óá", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["óá", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "óÁ", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["óÁ", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "Óa", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["Óa", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "ÓA", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["ÓA", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "Óá", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["Óá", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "ÓÁ", to: "𞵝𞵱𞵝𞵰", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED70
+      - ["ÓÁ", "𞵱𞵝𞵰"] # U+1ED71 U+1ED5D U+1ED70
+      - {from: "oe", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["oe", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "oE", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["oE", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "oé", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["oé", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "oÉ", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["oÉ", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "Oe", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["Oe", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "OE", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["OE", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "Oé", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["Oé", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "OÉ", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["OÉ", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "óe", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["óe", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "óE", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["óE", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "óé", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["óé", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "óÉ", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["óÉ", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "Óe", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["Óe", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "ÓE", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["ÓE", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "Óé", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["Óé", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "ÓÉ", to: "𞵝𞵱𞵝𞵳", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED73
+      - ["ÓÉ", "𞵱𞵝𞵳"] # U+1ED71 U+1ED5D U+1ED73
+      - {from: "oo", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["oo", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "oO", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["oO", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "oó", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["oó", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "oÓ", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["oÓ", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "Oo", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["Oo", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "OO", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["OO", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "Oó", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["Oó", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "OÓ", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["OÓ", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "óo", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["óo", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "óO", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["óO", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "óó", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["óó", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "óÓ", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["óÓ", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "Óo", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["Óo", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "ÓO", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["ÓO", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "Óó", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["Óó", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "ÓÓ", to: "𞵝𞵱𞵸", at: start} # U+1ED5D U+1ED71 U+1ED78
+      - ["ÓÓ", "𞵱𞵸"] # U+1ED71 U+1ED78
+      - {from: "oy", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["oy", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "oY", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["oY", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "oý", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["oý", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "oÝ", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["oÝ", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "Oy", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["Oy", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "OY", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["OY", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "Oý", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["Oý", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "OÝ", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["OÝ", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "óy", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["óy", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "óY", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["óY", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "óý", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["óý", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "óÝ", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["óÝ", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "Óy", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["Óy", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "ÓY", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["ÓY", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "Óý", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["Óý", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "ÓÝ", to: "𞵝𞵱𞵝𞵵", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED75
+      - ["ÓÝ", "𞵱𞵝𞵵"] # U+1ED71 U+1ED5D U+1ED75
+      - {from: "oë", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["oë", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "oË", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["oË", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "Oë", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["Oë", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "OË", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["OË", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "óë", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["óë", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "óË", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["óË", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "Óë", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["Óë", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "ÓË", to: "𞵝𞵱𞵝𞵶", at: start} # U+1ED5D U+1ED71 U+1ED5D U+1ED76
+      - ["ÓË", "𞵱𞵝𞵶"] # U+1ED71 U+1ED5D U+1ED76
+      - {from: "ua", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["ua", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "uA", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["uA", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "uá", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["uá", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "uÁ", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["uÁ", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "Ua", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["Ua", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "UA", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["UA", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "Uá", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["Uá", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "UÁ", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["UÁ", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "úa", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["úa", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "úA", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["úA", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "úá", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["úá", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "úÁ", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["úÁ", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "Úa", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["Úa", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "ÚA", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["ÚA", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "Úá", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["Úá", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "ÚÁ", to: "𞵝𞵲𞵝𞵰", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED70
+      - ["ÚÁ", "𞵲𞵝𞵰"] # U+1ED72 U+1ED5D U+1ED70
+      - {from: "ue", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["ue", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "uE", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["uE", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "ué", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["ué", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "uÉ", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["uÉ", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "Ue", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["Ue", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "UE", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["UE", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "Ué", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["Ué", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "UÉ", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["UÉ", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "úe", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["úe", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "úE", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["úE", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "úé", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["úé", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "úÉ", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["úÉ", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "Úe", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["Úe", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "ÚE", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["ÚE", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "Úé", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["Úé", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "ÚÉ", to: "𞵝𞵲𞵝𞵳", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED73
+      - ["ÚÉ", "𞵲𞵝𞵳"] # U+1ED72 U+1ED5D U+1ED73
+      - {from: "uu", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["uu", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "uU", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["uU", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "uú", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["uú", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "uÚ", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["uÚ", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "Uu", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["Uu", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "UU", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["UU", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "Uú", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["Uú", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "UÚ", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["UÚ", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "úu", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["úu", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "úU", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["úU", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "úú", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["úú", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "úÚ", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["úÚ", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "Úu", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["Úu", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "ÚU", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["ÚU", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "Úú", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["Úú", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "ÚÚ", to: "𞵝𞵲𞵸", at: start} # U+1ED5D U+1ED72 U+1ED78
+      - ["ÚÚ", "𞵲𞵸"] # U+1ED72 U+1ED78
+      - {from: "uy", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["uy", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "uY", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["uY", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "uý", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["uý", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "uÝ", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["uÝ", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "Uy", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["Uy", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "UY", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["UY", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "Uý", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["Uý", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "UÝ", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["UÝ", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "úy", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["úy", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "úY", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["úY", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "úý", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["úý", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "úÝ", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["úÝ", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "Úy", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["Úy", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "ÚY", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["ÚY", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "Úý", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["Úý", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "ÚÝ", to: "𞵝𞵲𞵝𞵵", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED75
+      - ["ÚÝ", "𞵲𞵝𞵵"] # U+1ED72 U+1ED5D U+1ED75
+      - {from: "uë", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["uë", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "uË", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["uË", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "Uë", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["Uë", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "UË", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["UË", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "úë", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["úë", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "úË", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["úË", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "Úë", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["Úë", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "ÚË", to: "𞵝𞵲𞵝𞵶", at: start} # U+1ED5D U+1ED72 U+1ED5D U+1ED76
+      - ["ÚË", "𞵲𞵝𞵶"] # U+1ED72 U+1ED5D U+1ED76
+      - {from: "ya", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ya", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "yA", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["yA", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "yá", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["yá", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "yÁ", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["yÁ", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "Ya", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["Ya", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "YA", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["YA", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "Yá", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["Yá", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "YÁ", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["YÁ", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "ýa", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ýa", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "ýA", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ýA", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "ýá", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ýá", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "ýÁ", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ýÁ", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "Ýa", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["Ýa", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "ÝA", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ÝA", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "Ýá", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["Ýá", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "ÝÁ", to: "𞵝𞵵𞵝𞵰", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED70
+      - ["ÝÁ", "𞵵𞵝𞵰"] # U+1ED75 U+1ED5D U+1ED70
+      - {from: "yo", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["yo", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "yO", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["yO", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "yó", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["yó", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "yÓ", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["yÓ", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "Yo", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["Yo", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "YO", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["YO", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "Yó", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["Yó", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "YÓ", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["YÓ", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "ýo", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["ýo", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "ýO", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["ýO", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "ýó", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["ýó", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "ýÓ", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["ýÓ", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "Ýo", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["Ýo", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "ÝO", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["ÝO", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "Ýó", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["Ýó", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "ÝÓ", to: "𞵝𞵵𞵝𞵱", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED71
+      - ["ÝÓ", "𞵵𞵝𞵱"] # U+1ED75 U+1ED5D U+1ED71
+      - {from: "yu", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["yu", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "yU", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["yU", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "yú", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["yú", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "yÚ", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["yÚ", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "Yu", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["Yu", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "YU", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["YU", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "Yú", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["Yú", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "YÚ", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["YÚ", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "ýu", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["ýu", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "ýU", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["ýU", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "ýú", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["ýú", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "ýÚ", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["ýÚ", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "Ýu", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["Ýu", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "ÝU", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["ÝU", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "Ýú", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["Ýú", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "ÝÚ", to: "𞵝𞵵𞵝𞵲", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED72
+      - ["ÝÚ", "𞵵𞵝𞵲"] # U+1ED75 U+1ED5D U+1ED72
+      - {from: "yy", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["yy", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "yY", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["yY", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "yý", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["yý", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "yÝ", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["yÝ", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "Yy", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["Yy", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "YY", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["YY", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "Yý", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["Yý", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "YÝ", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["YÝ", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "ýy", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["ýy", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "ýY", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["ýY", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "ýý", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["ýý", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "ýÝ", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["ýÝ", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "Ýy", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["Ýy", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "ÝY", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["ÝY", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "Ýý", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["Ýý", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "ÝÝ", to: "𞵝𞵵𞵸", at: start} # U+1ED5D U+1ED75 U+1ED78
+      - ["ÝÝ", "𞵵𞵸"] # U+1ED75 U+1ED78
+      - {from: "yë", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["yë", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "yË", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["yË", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "Yë", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["Yë", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "YË", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["YË", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "ýë", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["ýë", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "ýË", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["ýË", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "Ýë", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["Ýë", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "ÝË", to: "𞵝𞵵𞵝𞵶", at: start} # U+1ED5D U+1ED75 U+1ED5D U+1ED76
+      - ["ÝË", "𞵵𞵝𞵶"] # U+1ED75 U+1ED5D U+1ED76
+      - {from: "ëa", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["ëa", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "ëA", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["ëA", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "ëá", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["ëá", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "ëÁ", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["ëÁ", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "Ëa", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["Ëa", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "ËA", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["ËA", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "Ëá", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["Ëá", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "ËÁ", to: "𞵝𞵶𞵝𞵰", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED70
+      - ["ËÁ", "𞵶𞵝𞵰"] # U+1ED76 U+1ED5D U+1ED70
+      - {from: "ëe", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["ëe", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "ëE", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["ëE", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "ëé", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["ëé", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "ëÉ", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["ëÉ", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "Ëe", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["Ëe", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "ËE", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["ËE", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "Ëé", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["Ëé", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "ËÉ", to: "𞵝𞵶𞵝𞵳", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED73
+      - ["ËÉ", "𞵶𞵝𞵳"] # U+1ED76 U+1ED5D U+1ED73
+      - {from: "ëi", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["ëi", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "ëI", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["ëI", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "ëí", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["ëí", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "ëÍ", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["ëÍ", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "Ëi", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["Ëi", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "ËI", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["ËI", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "Ëí", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["Ëí", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "ËÍ", to: "𞵝𞵶𞵝𞵴", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED74
+      - ["ËÍ", "𞵶𞵝𞵴"] # U+1ED76 U+1ED5D U+1ED74
+      - {from: "ëo", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["ëo", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "ëO", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["ëO", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "ëó", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["ëó", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "ëÓ", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["ëÓ", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "Ëo", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["Ëo", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "ËO", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["ËO", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "Ëó", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["Ëó", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "ËÓ", to: "𞵝𞵶𞵝𞵱", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED71
+      - ["ËÓ", "𞵶𞵝𞵱"] # U+1ED76 U+1ED5D U+1ED71
+      - {from: "ëu", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["ëu", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "ëU", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["ëU", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "ëú", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["ëú", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "ëÚ", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["ëÚ", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "Ëu", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["Ëu", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "ËU", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["ËU", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "Ëú", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["Ëú", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "ËÚ", to: "𞵝𞵶𞵝𞵲", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED72
+      - ["ËÚ", "𞵶𞵝𞵲"] # U+1ED76 U+1ED5D U+1ED72
+      - {from: "ëy", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["ëy", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "ëY", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["ëY", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "ëý", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["ëý", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "ëÝ", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["ëÝ", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "Ëy", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["Ëy", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "ËY", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["ËY", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "Ëý", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["Ëý", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "ËÝ", to: "𞵝𞵶𞵝𞵵", at: start} # U+1ED5D U+1ED76 U+1ED5D U+1ED75
+      - ["ËÝ", "𞵶𞵝𞵵"] # U+1ED76 U+1ED5D U+1ED75
+      - {from: "ëë", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["ëë", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "ëË", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["ëË", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "Ëë", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["Ëë", "𞵶𞵸"] # U+1ED76 U+1ED78
+      - {from: "ËË", to: "𞵝𞵶𞵸", at: start} # U+1ED5D U+1ED76 U+1ED78
+      - ["ËË", "𞵶𞵸"] # U+1ED76 U+1ED78
+    fonts: [{font: veldikko}]
+---
+
+Veldikko Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-clthndscrpt|Veldikko]]. A passage marked with `map=veldikko` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script, running right to left. [[skill-sinalelng|Sinale]] is written by these rows. [[doc-mapveldikkoael|Áelendi Veldikko Spelling]] holds the rows of [[skill-aelendlng|Áelendi]], which differ in the letters Áelendi adds and in _dh_. A language's lexicon states a native form only for a word that these rows would spell differently.
+
+```text
+[nuuva]{lang=sina map=veldikko font=veldikko}
+```
+
+The rows of this note are generated by `utils/veldikko-spelling.mjs`, which writes both Veldikko mapping notes from one source.
+
+## From the Spelling Guide to the Veldikko
+
+- **Each consonant is its letter**, and case is not written. _p_, _v_, _m_, _t_, _s_, _n_, _d_, _k_, _h_, _l_ and _r_ are one letter each.
+- **_ng_ and _dh_ are one letter each.** _N_ before _k_ is the letter _ng_ and then _k_. _Dh_ is the voiced fricative between vowels.
+- **_g_ is _k_**, since Sinale has no _g_.
+- **A sound with no letter is the nearest letter:** _b_ is _p_, _f_ and _w_ are _v_, _z_ is _s_, _c_, _q_ and _ch_ are _k_, _sh_ is _s_, _x_ is _k_ then _s_, and _j_ is the vowel _y_. No roman letter is left in the text.
+- **A doubled consonant is its letter once, with the length bar beneath it.**
+- **A vowel is the mark over the consonant it follows.** _A_, _o_, _u_, _e_, _i_, _y_ and _ë_ are seven marks, and an acute vowel is the plain vowel, since stress is never written.
+- **A vowel at the start of a word, or sounded apart from the one before it, stands on the carrier.**
+- **A doubled vowel is one long mark**, and _eë_ is the long _ë_.
+- **A diphthong is two marks over one letter**, in the order they are said: _ai_, _au_, _ia_, _eo_, _oi_, _ou_, _ui_, _uo_, _ei_, _ie_, _yi_ and _ye_.
+- **A hyphen is a word space**, and at the start or end of a word it writes nothing.
+- **Pitch and emphasis are not written.** The face keeps their signs for a poem set by hand.

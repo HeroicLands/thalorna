@@ -693,11 +693,12 @@ that mapping is drawn in; either fault is an error at the key.
 | Atárzadi          | `qalezu`, `qalezu-hand`         |                                                       |
 | Dunhari           | `qalezu`, `qalezu-hand`         |                                                       |
 | Nyáluban          | `qalezu`, `qalezu-hand`         |                                                       |
+| Sinale (`sina`)   | `veldikko`, `veldikko`          |                                                       |
+| Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`  |                                                       |
 
-Sinale and Áelendi are written in the Veldikko, and Tantsou and Jurthati in
-Teng Chou. No mapping note exists for either script, so those four tongues
-state no `writtenIn`, and a run marked with their `lang=` alone is tagged, in
-roman, in the page's font. A language that states none behaves so.
+Tantsou and Jurthati are written in Teng Chou. No mapping note exists for that
+script, so those two tongues state no `writtenIn`, and a run marked with their
+`lang=` alone is tagged, in roman, in the page's font. A language that states none behaves so.
 
 Other tongues are written in these scripts by the same mappings: a tongue
 borrowing Semaron uses `map=semaron` with its own `lang=` and its own
@@ -1198,12 +1199,24 @@ Egyptian script, and in a browser they fall out of the run and the quadrat
 comes apart.
 
 **What this repository has.** The Khelathi-zethu script note lists the face
-`khelathi-zethu-glyphs`. No mapping note named `zethu` or `zethu-mdc` exists,
-and no Khelathi word states a `native` writing for one. Zethu text in a note is
-therefore typed as the face's own code points under `font=khelathi-zethu-glyphs`
-(case 2 of [the three cases](#91-the-three-cases)), passed through verbatim and
-checked only for face coverage. Zethu signs are typed by sign id in Emacs (see
-[Typing natively](#14-typing-natively)).
+`khelathi-zethu-glyphs`, and two mapping notes write it. `Zethu_Writing.md`
+declares the logographic map `zethu`: a run marked `lang=khel map=zethu` is
+written word by word from the `native` writings in the Khelathi lexicon, and a
+word with no writing there is an error at the word. `Zethu_Codage.md` declares
+`zethu-mdc`, which writes signs by their ids in the manner of the Manuel de
+Codage, for a foreign name or anything the lexicon does not hold:
+
+```markdown
+[zeghet ez igelu]{lang=khel font=khelathi-zethu-glyphs map=zethu}
+
+::: {font=khelathi-zethu-glyphs map=zethu-mdc}
+11-001:11-002-<13-002*13-003-12-005:16-027>
+:::
+```
+
+Zethu signs can also be typed as the face's own code points under
+`font=khelathi-zethu-glyphs` (case 2 of [the three cases](#91-the-three-cases)),
+or by sign id in Emacs (see [Typing natively](#14-typing-natively)).
 
 Teng Chou is also logographic: one character per morpheme, in Tantsou one
 syllable, shared by Tantsou and Jurthati. It has no mapping note in this
