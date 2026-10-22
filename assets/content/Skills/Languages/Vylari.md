@@ -306,6 +306,7 @@ data:
       plural: karalzar
       field: The hallowed and the gods
       gloss: "the kept fire; the hearth of a house, never let go out"
+      concept: hearth
       source: {kind: inherited, form: "k'aralzon"}
     - form: karalzis
       class: n m
@@ -1266,7 +1267,6 @@ data:
       class: n m
       field: The legions and the frontier
       gloss: "a wall; a city's wall or a fort's"
-      concept: wall
       source: {kind: inherited}
     - form: kalpeza
       class: n f
@@ -1551,7 +1551,6 @@ data:
       class: n f
       field: "The city: stone, water and the street"
       gloss: "a lamp; a cold-fire lamp of the Arcane Order"
-      concept: lamp
       source: {kind: inherited}
     - form: selkora
       class: n f
@@ -1700,7 +1699,7 @@ data:
       class: v
       field: "Craft, guild and the kept secret"
       gloss: "to make; to do"
-      concept: make
+      concept: [make, do]
       source: {kind: inherited}
     - form: tambandon
       class: n n
@@ -2235,6 +2234,7 @@ data:
       class: v
       field: "The body, life and death"
       gloss: "to go to the ancestors; to die, as the courteous say it"
+      concept: die
       source: {kind: inherited}
     - form: kelmeza
       class: n f
@@ -2470,7 +2470,7 @@ data:
       class: v
       field: "Learning, speech and the letters"
       gloss: "to speak; to say before others"
-      concept: speak
+      concept: [speak, say]
       source: {kind: inherited}
     - form: dokemon
       class: n n
@@ -2487,6 +2487,7 @@ data:
       class: n f
       field: "Learning, speech and the letters"
       gloss: "a tongue; a language"
+      concept: tongue
       source: {kind: inherited}
     - form: lambizon
       class: n n
@@ -2817,7 +2818,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to hold; to have"
-      concept: hold
+      concept: [hold, have]
       source: {kind: inherited}
     - form: lokathen
       class: v
@@ -2929,6 +2930,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to set; to lay a thing in its place"
+      concept: put
       source: {kind: coined}
     - form: olmathen
       class: v
@@ -3033,6 +3035,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to feel; to touch"
+      concept: touch-verb
       source: {kind: coined}
     - form: thesavethen
       class: v
@@ -3157,7 +3160,6 @@ data:
       class: pron
       field: Numbers and grammar words
       gloss: "you, many; and to one person, the formal you"
-      concept: many
       source: {kind: inherited}
     - form: vethis
       class: pron
@@ -3330,6 +3332,543 @@ data:
       gloss: "sixth"
       source: {kind: coined}
       built: ["selth-", "-oros"]
+    - form: velkira
+      class: n f
+      field: "The body, life and death"
+      gloss: "the hair of the head"
+      concept: hair
+      source: {kind: coined}
+    - form: thavrela
+      class: n f
+      field: "The body, life and death"
+      gloss: "the ear"
+      concept: ear
+      source: {kind: coined}
+    - form: nelthumis
+      class: n f
+      field: "The body, life and death"
+      gloss: "the nose"
+      concept: nose
+      source: {kind: coined}
+    - form: kozma
+      class: n f
+      field: "The body, life and death"
+      gloss: "the mouth"
+      concept: mouth
+      source: {kind: coined}
+    - form: lirvela
+      class: n f
+      field: "The body, life and death"
+      gloss: "a lip"
+      concept: lip
+      source: {kind: coined}
+    - form: zekrima
+      class: n f
+      field: "The body, life and death"
+      gloss: "a tooth"
+      concept: tooth
+      source: {kind: coined}
+    - form: kolzeros
+      class: n m
+      field: "The body, life and death"
+      gloss: "the neck"
+      concept: neck
+      source: {kind: coined}
+    - form: dalmeros
+      class: n m
+      field: "The body, life and death"
+      gloss: "the shoulder"
+      concept: shoulder
+      source: {kind: coined}
+    - form: lamothos
+      class: n m
+      field: "The body, life and death"
+      gloss: "the arm"
+      concept: arm
+      source: {kind: coined}
+    - form: gomrisa
+      class: n f
+      field: "The body, life and death"
+      gloss: "the elbow"
+      concept: elbow
+      source: {kind: coined}
+    - form: dekis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a finger"
+      concept: finger
+      source: {kind: coined}
+    - form: kirsela
+      class: n f
+      field: "The body, life and death"
+      gloss: "a fingernail; a toenail"
+      concept: nail
+      source: {kind: coined}
+    - form: varmothon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the chest"
+      concept: chest
+      source: {kind: coined}
+    - form: sulmena
+      class: n f
+      field: "The body, life and death"
+      gloss: "a breast"
+      concept: breast
+      source: {kind: coined}
+    - form: bulmeron
+      class: n n
+      field: "The body, life and death"
+      gloss: "the belly"
+      concept: belly
+      source: {kind: coined}
+    - form: telkemon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the back"
+      concept: back
+      source: {kind: coined}
+    - form: zalpima
+      class: n f
+      field: "The body, life and death"
+      gloss: "the hip"
+      concept: hip
+      source: {kind: coined}
+    - form: thalmeros
+      class: n m
+      field: "The body, life and death"
+      gloss: "the leg"
+      concept: leg
+      source: {kind: coined}
+    - form: klinemon
+      class: n n
+      field: "The body, life and death"
+      gloss: "the knee"
+      concept: knee
+      source: {kind: coined}
+    - form: valma
+      class: n f
+      field: "The body, life and death"
+      gloss: "the foot"
+      concept: foot
+      source: {kind: coined}
+    - form: valmdekis
+      class: n f
+      field: "The body, life and death"
+      gloss: "a toe"
+      concept: toe
+      source: {kind: coined}
+      built: ["valm-", dekis]
+    - form: lethrima
+      class: n f
+      field: "The body, life and death"
+      gloss: "the skin; a hide"
+      concept: skin
+      source: {kind: coined}
+    - form: kolvemos
+      class: n m
+      field: "The body, life and death"
+      gloss: "a bone"
+      concept: bone
+      source: {kind: coined}
+    - form: meltharis
+      class: n f
+      field: "The body, life and death"
+      gloss: "flesh; meat"
+      concept: flesh
+      source: {kind: coined}
+    - form: paza
+      class: n f
+      field: "The body, life and death"
+      gloss: "food; a meal"
+      concept: food
+      source: {kind: coined}
+    - form: pazathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to eat"
+      concept: eat
+      source: {kind: coined}
+    - form: vima
+      class: n f
+      field: "The body, life and death"
+      gloss: "a drink"
+      concept: drink-noun
+      source: {kind: coined}
+    - form: vimathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to drink"
+      concept: drink-verb
+      source: {kind: coined}
+    - form: sithrema
+      class: n f
+      field: "The body, life and death"
+      gloss: "air"
+      concept: air
+      source: {kind: coined}
+    - form: zirva
+      class: n f
+      field: "The body, life and death"
+      gloss: "breath; a breath"
+      concept: breath
+      source: {kind: coined}
+    - form: zirvathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to breathe"
+      concept: breathe
+      source: {kind: coined}
+    - form: lotha
+      class: n f
+      field: "The body, life and death"
+      gloss: "sleep"
+      concept: sleep-noun
+      source: {kind: coined}
+    - form: lothathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to sleep"
+      concept: sleep-verb
+      source: {kind: coined}
+    - form: zilvena
+      class: n f
+      field: "The body, life and death"
+      gloss: "urine"
+      concept: urine
+      source: {kind: coined}
+    - form: zilvathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to urinate"
+      concept: urinate
+      source: {kind: coined}
+    - form: pumzemon
+      class: n n
+      field: "The body, life and death"
+      gloss: "dung"
+      concept: dung
+      source: {kind: coined}
+    - form: pumzathen
+      class: v
+      field: "The body, life and death"
+      gloss: "to defecate"
+      concept: defecate
+      source: {kind: coined}
+    - form: auveza
+      class: n f
+      field: "The body, life and death"
+      gloss: "warmth"
+      concept: warmth
+      source: {kind: coined}
+    - form: zelkovra
+      class: n f
+      field: "The body, life and death"
+      gloss: "shelter; a place under a roof"
+      concept: shelter
+      source: {kind: coined}
+      built: ["zel-", kovra]
+    - form: ombela
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a chair"
+      concept: chair
+      source: {kind: coined}
+    - form: morvalis
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a table"
+      concept: table
+      source: {kind: coined}
+    - form: nalvemon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "a bed"
+      concept: bed
+      source: {kind: coined}
+    - form: grendima
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a floor"
+      concept: floor
+      source: {kind: coined}
+    - form: kovra
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a roof"
+      concept: roof
+      source: {kind: coined}
+    - form: dumva
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a house; a home"
+      concept: abode
+      source: {kind: coined}
+    - form: karvon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "fire; a fire"
+      concept: fire
+      source: {kind: coined}
+    - form: fenza
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a door"
+      concept: door
+      source: {kind: coined}
+    - form: zundela
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a lock"
+      concept: lock
+      source: {kind: coined}
+    - form: kezra
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a key"
+      concept: key
+      source: {kind: coined}
+    - form: okvela
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a window"
+      concept: window
+      source: {kind: coined}
+    - form: plekai
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "shutters; a plural"
+      concept: shutters
+      source: {kind: coined}
+    - form: hirkon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "a cup"
+      concept: cup
+      source: {kind: coined}
+    - form: lankima
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a bowl"
+      concept: bowl
+      source: {kind: coined}
+    - form: dremis
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a knife"
+      concept: knife
+      source: {kind: coined}
+    - form: pelgira
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a spoon"
+      concept: spoon
+      source: {kind: coined}
+    - form: tolkemon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "a pot"
+      concept: pot
+      source: {kind: coined}
+    - form: tholbon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "cloth"
+      concept: cloth
+      source: {kind: coined}
+    - form: vemrai
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "clothes; a plural"
+      concept: clothes
+      source: {kind: coined}
+    - form: tavendur
+      class: num
+      field: "Numbers and grammar words"
+      gloss: "twenty"
+      concept: twenty
+      source: {kind: coined}
+    - form: soltha
+      class: n f
+      field: "Numbers and grammar words"
+      gloss: "a half"
+      concept: half
+      source: {kind: coined}
+    - form: ithros
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "few"
+      concept: few
+      source: {kind: coined}
+    - form: arurkis
+      class: pron
+      field: "Numbers and grammar words"
+      gloss: "none; nothing; not one"
+      concept: none
+      source: {kind: coined}
+      built: [ar, urkis]
+    - form: zolmos
+      class: adj
+      field: "Numbers and grammar words"
+      gloss: "many"
+      concept: many
+      source: {kind: coined}
+    - form: velmiros
+      class: adj
+      field: Qualities
+      gloss: "green"
+      concept: green
+      source: {kind: coined}
+    - form: amelos
+      class: adj
+      field: Qualities
+      gloss: "yellow"
+      concept: yellow
+      source: {kind: coined}
+    - form: zalthenos
+      class: adj
+      field: Qualities
+      gloss: "blue"
+      concept: blue
+      source: {kind: coined}
+    - form: elzen
+      class: adj
+      field: Qualities
+      gloss: "grey; ash-coloured"
+      concept: grey
+      source: {kind: coined}
+      built: ["elz-", "-en"]
+    - form: tharvelos
+      class: adj
+      field: Qualities
+      gloss: "brown"
+      concept: brown
+      source: {kind: coined}
+    - form: ilmaros
+      class: n m
+      field: "Ancestors, the house and the name"
+      gloss: "a parent"
+      concept: parent
+      source: {kind: coined}
+    - form: holmezara
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a grandmother"
+      concept: grandmother
+      source: {kind: coined}
+      built: ["hol-", mezara]
+    - form: holhelthos
+      class: n m
+      field: "Ancestors, the house and the name"
+      gloss: "a grandfather"
+      concept: grandfather
+      source: {kind: coined}
+      built: ["hol-", helthos]
+    - form: zelnurizon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "a grandchild"
+      concept: grandchild
+      source: {kind: coined}
+      built: ["zel-", nurizon]
+    - form: kemaros
+      class: n m
+      field: "Ancestors, the house and the name"
+      gloss: "an uncle"
+      concept: uncle
+      source: {kind: coined}
+    - form: kemara
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "an aunt"
+      concept: aunt
+      source: {kind: coined}
+    - form: sorthenos
+      class: n m
+      field: "Ancestors, the house and the name"
+      gloss: "a cousin"
+      concept: cousin
+      source: {kind: coined}
+    - form: nurothar
+      class: n m
+      field: "Ancestors, the house and the name"
+      gloss: "a descendant"
+      concept: descendant
+      source: {kind: coined}
+    - form: falvizon
+      class: n n
+      field: "Ancestors, the house and the name"
+      gloss: "an orphan"
+      concept: orphan
+      source: {kind: coined}
+    - form: elzkambetha
+      class: n f
+      field: "Ancestors, the house and the name"
+      gloss: "a widow"
+      concept: widow
+      source: {kind: coined}
+      built: ["elz-", kambetha]
+    - form: pelmathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to think"
+      concept: think
+      source: {kind: coined}
+    - form: ralvathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to run"
+      concept: run
+      source: {kind: coined}
+    - form: nalithen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to lie down"
+      concept: lie-down
+      source: {kind: coined}
+    - form: amrethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to bring"
+      concept: bring
+      source: {kind: coined}
+    - form: halvethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to find"
+      concept: find
+      source: {kind: coined}
+    - form: anhalvethen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to lose"
+      concept: lose
+      source: {kind: coined}
+      built: ["an-", halvethen]
+    - form: holimathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to begin"
+      concept: begin
+      source: {kind: coined}
+    - form: orthemathen
+      class: v
+      field: "Doing, going and being"
+      gloss: "to end"
+      concept: end
+      source: {kind: coined}
+    - form: zandira
+      class: n f
+      field: "The city: stone, water and the street"
+      gloss: "a lamp; an ordinary lamp of oil or tallow"
+      concept: lamp
+      source: {kind: coined}
+    - form: kormeros
+      class: n m
+      field: "The city: stone, water and the street"
+      gloss: "a wall; a house wall or a garden wall"
+      concept: wall
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

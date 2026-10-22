@@ -14,6 +14,7 @@
 - Vylari is stressed by the pronunciation guide's rule, and its third-person verbs end in _-zor_: _lokazor_, _falvazor_, _yarezor_.
 - Vylari has words for "perhaps", "truth" and "truly" (_zikai_, _varelza_, _varlai_), and the Morning Call and the Second Reading turn on _zikai_, the word that marks a thing as only alleged.
 - The setting lists the core words every human language covers: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.
+- Vylari has words for every core concept: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs; Provenzal and Tarveni share them.
 - Tantsou has words for every core concept: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.
 - The Grukar converse by body language and scent; their grunts and bellows only lend emphasis, they keep no names or script, and only the Grukar-Sha learn to speak human tongues.
 - Vedyari's word endings are shown as they are written: _-oka_, _-ona_, _-uta_, _-ru_ and _-ija_, and the station names are spelled _Karmija_, _Danhija_, _Sentija_ and _Ritrija_.
