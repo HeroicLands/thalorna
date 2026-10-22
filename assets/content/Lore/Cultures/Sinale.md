@@ -68,6 +68,10 @@ Restraint did not keep humanity from learning. Humans watched the Sinale and too
 
 Beyond the general policy, individual Sinale act as they see fit. A student who asked well has been taught, and the Long Inheritance records such transmissions as unauthorized and undocumented. Marriage, fosterage and long friendship occur at the edge where the Sinale and the [[lore-aelendnppl|Áelendan]] meet, rarely and quietly.
 
+## The Numinous
+
+The Sinale do not set magic apart from the natural, and their dealings with the world are not divided into the magical and the ordinary. They are of the numinous, and it is closed to humans except at its outer fringe. [[lore-flksinale#the-numinous|Sinale Folk]] describes what it takes in.
+
 ## Those Who Carry
 
 The Sinale do not treat with human powers directly. They have not for millennia, they decline to explain why, and the handful of exceptions are one exception: they deal with the Áelendan, and the Áelendan carry.

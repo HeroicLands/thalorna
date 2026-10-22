@@ -10,3 +10,4 @@
 - Poems that were tagged with a metre or a rhyme scheme now state it in a sentence beside the poem.
 - The Walking of the Line is set in two columns, Vylari in Semaron beside the English, with every fifth line numbered.
 - The Tevran and Vylarian military pages show their tables as tables.
+- The Sinale's numinous, which joins spirit, totem and the celestial to the natural world, is described, along with how little of it humans may reach.

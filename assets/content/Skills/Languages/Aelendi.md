@@ -3673,7 +3673,7 @@ The wood itself is _lonku_, the deep wood, the Sinale's word. Every tree that gr
 
 Nearly every word here is Sinale, and the Áelendan do not count a single one of them as foreign. The lore of the veil came with the keeping of the wood, and a thing that is kept is part of the people that keeps it. _Audhi_ is the veil, _sírnasto_ a thin place where it wears, and _orthi_ a ward. The fae themselves are _pénallanu_, one at a time; the tongue has a plural for them and the highlands do not say it.
 
-The art the empire calls magic is _simme_ here, the Sinale word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Thordimalon]]'s. The Arcane Order's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
+The art the empire calls magic is _simme_ here, the Sinale word, and the Áelendi words for it share nothing with the [[affiliation-ordoarcanis|Thordimalon]]'s. These words, like the others for [[lore-flksinale#the-numinous|the numinous]], are Sinale loans for its outer fringe, which is all the Áelendan are taught. Áelendi has no word for the inner Sinale ways: the Áelendan have the concept and cannot fully apprehend it. The Arcane Order's scholars, who come up the valleys to study what the tribes exist to keep, have never been taught these words, and this is the field they most want.
 
 ### Rite and the dead
 

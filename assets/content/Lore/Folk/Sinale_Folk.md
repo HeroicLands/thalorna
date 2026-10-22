@@ -35,9 +35,15 @@ The Sinale are not human, though they resemble humanity closely enough that the 
 
 They are creatures of forest and starlight, of ancient music and long memory. Their connection to the natural world runs deeper than any human druidic tradition—it is not worship or reverence but something closer to kinship. The forests they inhabit respond to their presence in ways that humans find unnerving: paths appear and vanish, distances shift, and the quality of light changes in ways that defy the angle of the sun.
 
-Their magic—if it can be called magic in the human sense—is nothing like the [[affiliation-ordoarcanis|Thordimalon]]'s systematized arcane practice. The Sinale do not classify their arts into schools or codify them in texts. Their power is woven into their nature, inseparable from their songs, their craft, and their relationship with the living world.
-
 They build rarely, and rarely in stone, and never with the passion the [[lore-flkkhazar|Khazari]] bring to it. Oriented toward the forest and living things, they prefer to craft or to grow their architecture in accordance with nature: dwellings worked into living trees, for one. They can raise fine stone buildings when they must, and the few that stand are rare works among them. The Arcane Order has attempted, at various points in its history, to study or categorize Sinalean magic and has failed completely. The Sinale find these attempts somewhere between amusing and insulting.
+
+## The Numinous {#the-numinous}
+
+The Sinale do not set magic apart from the natural. Song, craft, forest and star are one fabric to them, and what humans sort into the magical and the mundane is a single thing. That whole is the numinous. It takes in spirit magic, the totems, good and evil spirits, and even celestial mortal beings such as demons.
+
+The Sinale have their own ways of dealing with the numinous, and they are _of_ it in a way humans never can be. Their power is woven into their nature, inseparable from their songs, their craft and their relationship with the living world, and they neither classify it into schools nor codify it in texts. It cannot truly be taught, because what a human would learn is a method and what a Sinalo has is a nature. It is nothing like the systematized arcane practice of the [[affiliation-ordoarcanis|Thordimalon]], which has tried to study it and failed.
+
+Humans reach only the outer fringe. The [[lore-aelendnppl|Áelendan]], whom the Sinale love, are taught that fringe and no more. They hold the concept without being able to grasp it whole, because the rest is closed to them. Their words for it are Sinale loans, and they have none for the inner ways ([[skill-aelendlng#the-sinale-loans|the Sinale loans]]).
 
 ## History
 
@@ -83,7 +89,7 @@ There are exceptions—places where sustained contact exists between the Sinale 
 
 The most notable exception to the Sinale's isolation is [[place-elavendre|Élavendre]]. The Élavendren royal family and aristocracy have maintained a formal relationship with the local Sinalean enclaves for centuries—the longest sustained contact between humans and Sinale anywhere in the known world. Day to day, the contact runs through [[lore-aelendnppl|Áelendan intermediaries]]; see [[place-ethalosse|Ethalosse]]. The nature of this relationship is complex and not fully understood by outsiders. It is not an alliance in the political sense, and folk say the Sinale do not recognize human political structures. The Sinale have kings, queens and lords of their own, but these do not work as human ones do. The relationship is closer to a neighborly understanding between peoples who share the same forests and have learned, over generations, to respect each other's presence.
 
-The Élavendren fae traditions—the sacred groves, the nature spirits, the thin veil between worlds—are not mere superstition. They reflect genuine contact with the Sinale and with the other fae beings that inhabit the forests of Élavendre. The Élavendren bardic colleges preserve songs and stories that the Sinale have shared with them, and Élavendren druids practice forms of magic that bear a distant, diluted resemblance to Sinalean arts. The Sinale tolerate this—perhaps even encourage it—in a way they do not elsewhere.
+The Élavendren fae traditions—the sacred groves, the nature spirits, the thin veil between worlds—are not mere superstition. They reflect genuine contact with the Sinale and with the other fae beings that inhabit the forests of Élavendre. The Élavendren bardic colleges preserve songs and stories that the Sinale have shared with them, and Élavendren druids practice forms of magic that bear a distant, diluted resemblance to Sinalean arts, and these belong to the outer fringe of [[lore-flksinale#the-numinous|the numinous]] and no deeper. The Sinale tolerate this—perhaps even encourage it—in a way they do not elsewhere.
 
 One such song, [[lore-seventowers|The Seven Towers]], opens on a valley at evening:
 
