@@ -48,64 +48,64 @@ data:
       field: The house and the old blood
       gloss: "kin; those of one blood"
       source: {kind: borrowed, language: skill-aelendlng, form: sorethendi}
-    - form: semroth
+    - form: ondren
       class: n
       field: The house and the old blood
       gloss: "a brother"
       concept: brother
-      source: {kind: borrowed, language: skill-aelendlng, form: semroth}
-    - form: sémrotha
+      source: {kind: borrowed, language: skill-aelendlng, form: ondren}
+    - form: ondre
       class: n
       field: The house and the old blood
       gloss: "a sister"
       concept: sister
-      source: {kind: borrowed, language: skill-aelendlng, form: semrotha}
-    - form: nyerison
+      source: {kind: borrowed, language: skill-aelendlng, form: ondra}
+    - form: lyegon
       class: n
       field: The house and the old blood
       gloss: "a child; one not yet given a name"
       concept: child
-      source: {kind: borrowed, language: skill-aelendlng, form: nurison}
+      source: {kind: borrowed, language: skill-aelendlng, form: lughon}
     - form: sorhand
       class: n
       field: The house and the old blood
       gloss: "the head of a household; the one who speaks for a hearth in council"
       source: {kind: borrowed, language: skill-aelendlng, form: sorkhand}
-    - form: théilaralon
+    - form: úrkenon
       class: n
       field: The house and the old blood
       gloss: "an old line; a house the genealogies carry back to the crossing"
-      source: {kind: borrowed, language: skill-aelendlng, form: thelaralon}
+      source: {kind: borrowed, language: skill-aelendlng, form: úrkenon}
     - form: árlende
       class: n
       field: The house and the old blood
       gloss: "a clan name; the name of those of a founder"
       source: {kind: borrowed, language: skill-aelendlng, form: arlendi}
-    - form: kíramarlen
+    - form: sílderon
       class: n
       field: The house and the old blood
       gloss: "an earned name; the name sung at the gathering after a deed"
-      source: {kind: borrowed, language: skill-aelendlng, form: kíramarlen}
-    - form: kóndamon
+      source: {kind: borrowed, language: skill-aelendlng, form: sílderon}
+    - form: durnon
       class: n
       field: The house and the old blood
       gloss: "an inheritance; what passes to the clan at a death"
-      source: {kind: borrowed, language: skill-aelendlng, form: kondamon}
-    - form: lískaima
+      source: {kind: borrowed, language: skill-aelendlng, form: dhurnon}
+    - form: duskis
       class: n
       field: The house and the old blood
       gloss: "a release; the sending of a fosterling home to its own clan"
-      source: {kind: borrowed, language: skill-aelendlng, form: liskaima}
-    - form: renhon
+      source: {kind: borrowed, language: skill-aelendlng, form: dhuskis}
+    - form: telgon
       class: n
       field: The house and the old blood
       gloss: "a possession; what a man owns outside the clan's common"
-      source: {kind: borrowed, language: skill-aelendlng, form: renkhon}
-    - form: éirosalon
+      source: {kind: borrowed, language: skill-aelendlng, form: telgon}
+    - form: mírdalon
       class: n
       field: The house and the old blood
       gloss: "a share; a household's right in the common grazing"
-      source: {kind: borrowed, language: skill-aelendlng, form: erosalon}
+      source: {kind: borrowed, language: skill-aelendlng, form: mírdalon}
     - form: dónkathen
       class: v
       field: The house and the old blood
@@ -122,91 +122,96 @@ data:
       field: The house and the old blood
       gloss: "of one kin; said of two clans who share a founder"
       source: {kind: borrowed, language: skill-aelendlng, form: érnapisa}
-    - form: gulm
+    - form: drun
       class: n
       field: The land in keeping
       gloss: "a horse; the small hill horse of the Spine"
-      source: {kind: borrowed, language: skill-aelendlng, form: ghulm}
-    - form: gulmand
+      source: {kind: borrowed, language: skill-aelendlng, form: drun}
+    - form: dryenand
       class: n
       field: The land in keeping
       gloss: "a rider; a herder on horseback"
-      source: {kind: borrowed, language: skill-aelendlng, form: ghulmand}
-    - form: gúlmalon
+      source: {kind: borrowed, language: skill-aelendlng, form: drunand}
+    - form: drýenalon
       class: n
       field: The land in keeping
       gloss: "the horse herd of a clan"
-      source: {kind: borrowed, language: skill-aelendlng, form: ghulmalon}
-    - form: héidrilis
+      source: {kind: borrowed, language: skill-aelendlng, form: drúnalon}
+    - form: omris
       class: n
       field: The land in keeping
       gloss: "a sheep"
-      source: {kind: borrowed, language: skill-aelendlng, form: khedrilis}
-    - form: hólsama
+      source: {kind: borrowed, language: skill-aelendlng, form: omris}
+    - form: athra
       class: n
       field: The land in keeping
       gloss: "the hay harvest"
-      source: {kind: borrowed, language: skill-aelendlng, form: kholsama}
-    - form: órmalis
+      source: {kind: borrowed, language: skill-aelendlng, form: athra}
+    - form: mirla
       class: n
       field: The land in keeping
       gloss: "land; the ground a clan grazes"
-      source: {kind: borrowed, language: skill-aelendlng, form: ormalis}
-    - form: ólthamis
+      source: {kind: borrowed, language: skill-aelendlng, form: mirla}
+    - form: ilmis
       class: n
       field: The land in keeping
       gloss: "a field; the walled ground below a lodge"
-      source: {kind: borrowed, language: skill-aelendlng, form: olthamis}
-    - form: thréimusis
+      source: {kind: borrowed, language: skill-aelendlng, form: ilmis}
+    - form: sulmis
       class: n
       field: The land in keeping
       gloss: "salt; the lick set out on the high pasture"
-      source: {kind: borrowed, language: skill-aelendlng, form: thremusis}
-    - form: kómrelalon
+      source: {kind: borrowed, language: skill-aelendlng, form: sulmis}
+    - form: tírnalon
       class: n
       field: The land in keeping
       gloss: "the summer move; the going up to the high pastures with the herds"
-      source: {kind: borrowed, language: skill-aelendlng, form: komrelalon}
-    - form: théironand
+      source: {kind: borrowed, language: skill-aelendlng, form: tírnalon}
+    - form: delnis
+      class: n
+      field: The land in keeping
+      gloss: "the spring count; the counting of a clan's herds after the winter"
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelnis}
+    - form: delnand
       class: n
       field: The land in keeping
       gloss: "the counter of the herds"
-      source: {kind: borrowed, language: skill-aelendlng, form: theronand}
-    - form: tárhelon
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelnand}
+    - form: dólgalon
       class: n
       field: The land in keeping
       gloss: "the common store; what a lordship holds against a bad winter"
-      source: {kind: borrowed, language: skill-aelendlng, form: tarkhelon}
-    - form: háresand
+      source: {kind: borrowed, language: skill-aelendlng, form: dhólgalon}
+    - form: gerkand
       class: n
       field: The land in keeping
       gloss: "a steward; the officer who answers for a house's stores"
-      source: {kind: borrowed, language: skill-aelendlng, form: kháresand}
-    - form: sélhora
+      source: {kind: borrowed, language: skill-aelendlng, form: gherkand}
+    - form: dolga
       class: n
       field: The land in keeping
       gloss: "a grain store"
-      source: {kind: borrowed, language: skill-aelendlng, form: selkhora}
+      source: {kind: borrowed, language: skill-aelendlng, form: dholga}
     - form: úlmedera
       class: n
       field: The land in keeping
       gloss: "a leat; water led along a hillside to a field"
       source: {kind: borrowed, language: skill-aelendlng, form: ulmedhera}
-    - form: sóudragis
+    - form: dorla
       class: n
       field: The land in keeping
       gloss: "a ditch"
-      source: {kind: borrowed, language: skill-aelendlng, form: sodhrakis}
-    - form: ráethauna
+      source: {kind: borrowed, language: skill-aelendlng, form: dorla}
+    - form: renthis
       class: n
       field: The land in keeping
       gloss: "a horse race; the race at the summer gathering"
-      source: {kind: borrowed, language: skill-aelendlng, form: rathauna}
-    - form: gúlmesa
+      source: {kind: borrowed, language: skill-aelendlng, form: renthis}
+    - form: drunsa
       class: n
       field: The land in keeping
       gloss: "a riding; a band of mounted Wardens"
-      source: {kind: borrowed, language: skill-aelendlng, form: gulmesa}
+      source: {kind: borrowed, language: skill-aelendlng, form: drunsa}
     - form: lyero
       class: v
       field: The bard and the word
@@ -229,62 +234,62 @@ data:
       gloss: "a tongue; a language"
       concept: tongue
       source: {kind: borrowed, language: skill-aelendlng, form: óstila}
-    - form: láemison
+    - form: leithon
       class: n
       field: The bard and the word
       gloss: "a word"
-      source: {kind: borrowed, language: skill-aelendlng, form: lamison}
-    - form: lóuresathen
+      source: {kind: borrowed, language: skill-aelendlng, form: lethon}
+    - form: lórnethen
       class: v
       field: The bard and the word
       gloss: "to recite; to say the old words exactly as they were said"
-      source: {kind: borrowed, language: skill-aelendlng, form: loresathen}
-    - form: lóuresand
+      source: {kind: borrowed, language: skill-aelendlng, form: lórnethen}
+    - form: lornand
       class: n
       field: The bard and the word
       gloss: "a reciter; one who keeps a house's records in his head"
-      source: {kind: borrowed, language: skill-aelendlng, form: loresand}
-    - form: óldemon
+      source: {kind: borrowed, language: skill-aelendlng, form: lornand}
+    - form: mougon
       class: n
       field: The bard and the word
       gloss: "a recitation; an account of what was done, never written"
-      source: {kind: borrowed, language: skill-aelendlng, form: oldhemon}
-    - form: máerendis
+      source: {kind: borrowed, language: skill-aelendlng, form: moghon}
+    - form: sáumirsa
       class: n
       field: The bard and the word
       gloss: "wisdom"
-      source: {kind: borrowed, language: skill-aelendlng, form: marendis}
-    - form: hésdathen
+      source: {kind: borrowed, language: skill-aelendlng, form: sáumirsa}
+    - form: sárgathen
       class: v
       field: The bard and the word
       gloss: "to know"
       concept: know
-      source: {kind: borrowed, language: skill-aelendlng, form: khésdathen}
-    - form: shéimarson
+      source: {kind: borrowed, language: skill-aelendlng, form: sárgathen}
+    - form: ugrin
       class: n
       field: The bard and the word
       gloss: "a stave; one sign of the Áelendi rune-row, cut for monuments, magic and old poetry"
-      source: {kind: borrowed, language: skill-aelendlng, form: semarson}
-    - form: thíelandon
+      source: {kind: borrowed, language: skill-aelendlng, form: ugrin}
+    - form: graethon
       class: n
       field: The bard and the word
       gloss: "a cutting; a thing graven in stone"
-      source: {kind: borrowed, language: skill-aelendlng, form: thilandon}
-    - form: dóuhemon
+      source: {kind: borrowed, language: skill-aelendlng, form: grathon}
+    - form: ryenon
       class: n
       field: The bard and the word
       gloss: "a speech before the council"
-      source: {kind: borrowed, language: skill-aelendlng, form: dokhemon}
-    - form: máerendon
+      source: {kind: borrowed, language: skill-aelendlng, form: runon}
+    - form: saume
       class: n
       field: The bard and the word
       gloss: "the Keepers' teaching; the years a child spends learning the genealogies"
-      source: {kind: borrowed, language: skill-aelendlng, form: marendalon}
-    - form: máerendand
+      source: {kind: borrowed, language: skill-aelendlng, form: saumi}
+    - form: sáuminne
       class: n
       field: The bard and the word
       gloss: "a teacher; a Keeper who teaches the genealogies"
-      source: {kind: borrowed, language: skill-aelendlng, form: marendand}
+      source: {kind: borrowed, language: skill-aelendlng, form: sáuminno}
     - form: ólnare
       class: n
       field: The bard and the word
@@ -430,279 +435,279 @@ data:
       field: The art and the thin places
       gloss: "humans; the people beyond the wood"
       source: {kind: borrowed, language: skill-aelendlng, form: mupu}
-    - form: sárhenand
+    - form: lonthand
       class: n
       field: The art and the thin places
       gloss: "a druid; one who keeps a grove's rites"
-      source: {kind: borrowed, language: skill-aelendlng, form: sarkhenand}
-    - form: sárhenanda
+      source: {kind: borrowed, language: skill-aelendlng, form: lonthand}
+    - form: lónthande
       class: n
       field: The art and the thin places
       gloss: "a druid, a woman"
-      source: {kind: borrowed, language: skill-aelendlng, form: sarkhenanda}
+      source: {kind: borrowed, language: skill-aelendlng, form: lónthanda}
     - form: thórdima
       class: n
       field: The art and the thin places
       gloss: "a working; one act of the art as the lowland mages do it"
-      source: {kind: borrowed, language: skill-aelendlng, form: thordima}
+      source: {kind: borrowed, language: skill-vylarilng, form: thordima}
     - form: thórdimand
       class: n
       field: The art and the thin places
       gloss: "a mage; the lowland practitioner, as the highlands name him"
-      source: {kind: borrowed, language: skill-aelendlng, form: thordimand}
-    - form: tháurathen
+      source: {kind: borrowed, language: skill-vylarilng, form: thordimos}
+    - form: géilathen
       class: v
       field: "The Pact, the oath and the judgment"
       gloss: "to keep; to hold a place as the Pact holds it, and answer for it"
-      source: {kind: borrowed, language: skill-aelendlng, form: tháurathen}
-    - form: thaurand
+      source: {kind: borrowed, language: skill-aelendlng, form: ghélathen}
+    - form: geiland
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a keeper; one who holds a grove or a spring for the crown or a house"
-      source: {kind: borrowed, language: skill-aelendlng, form: thaurand}
-    - form: tháuralon
+      source: {kind: borrowed, language: skill-aelendlng, form: gheland}
+    - form: géilalon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "the keeping; the whole duty of the Wardens, from the tree line up"
-      source: {kind: borrowed, language: skill-aelendlng, form: tháuralon}
-    - form: lyesathen
+      source: {kind: borrowed, language: skill-aelendlng, form: ghélalon}
+    - form: théndathen
       class: v
       field: "The Pact, the oath and the judgment"
       gloss: "to stand before; to put oneself between a thing and harm"
-      source: {kind: borrowed, language: skill-aelendlng, form: lusathen}
-    - form: sémnalis
+      source: {kind: borrowed, language: skill-aelendlng, form: théndathen}
+    - form: dáerela
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a compact; a binding between two kins, sworn before the valley"
-      source: {kind: borrowed, language: skill-aelendlng, form: semnalis}
-    - form: thólmesa
+      source: {kind: borrowed, language: skill-aelendlng, form: dhárela}
+    - form: nolgra
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a vow; a binding laid on oneself alone, outside the Pact"
-      source: {kind: borrowed, language: skill-aelendlng, form: tholmesa}
-    - form: hélmaron
+      source: {kind: borrowed, language: skill-aelendlng, form: nolgra}
+    - form: gurthon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a curse; the words that put a kinsman outside the Pact"
-      source: {kind: borrowed, language: skill-aelendlng, form: khelmaron}
+      source: {kind: borrowed, language: skill-aelendlng, form: gurthon}
     - form: helmarth
       class: adj
       field: "The Pact, the oath and the judgment"
       gloss: "accursed; put outside the Pact and the kin's protection"
       source: {kind: borrowed, language: skill-aelendlng, form: khelmarth}
-    - form: chyethresa
+    - form: thengra
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a forfeit; what a kin pays with one of its own who broke his word"
-      source: {kind: borrowed, language: skill-aelendlng, form: kuthresa}
-    - form: dámolis
+      source: {kind: borrowed, language: skill-aelendlng, form: thengra}
+    - form: gorna
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "guilt; the weight a broken oath leaves on a name"
-      source: {kind: borrowed, language: skill-aelendlng, form: dhámolis}
-    - form: énthodis
+      source: {kind: borrowed, language: skill-aelendlng, form: ghorna}
+    - form: ánkenis
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "outlawry; the sentence that walks a man past the tree line"
-      source: {kind: borrowed, language: skill-aelendlng, form: enthodis}
-    - form: nasdis
+      source: {kind: borrowed, language: skill-aelendlng, form: ánkenis}
+    - form: thargis
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a judgment; what the elders decide in council"
-      source: {kind: borrowed, language: skill-aelendlng, form: nasdis}
-    - form: násdalon
+      source: {kind: borrowed, language: skill-aelendlng, form: thargis}
+    - form: thárgalon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "the council of elders sitting in judgment"
-      source: {kind: borrowed, language: skill-aelendlng, form: nasdalon}
-    - form: órnalon
+      source: {kind: borrowed, language: skill-aelendlng, form: thárgalon}
+    - form: úrdalon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "custom; the whole of what is done because it has always been done"
-      source: {kind: borrowed, language: skill-aelendlng, form: ornalon}
-    - form: thíedaron
+      source: {kind: borrowed, language: skill-aelendlng, form: úrdalon}
+    - form: kernon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a mark; the sign cut in a boundary stone"
-      source: {kind: borrowed, language: skill-aelendlng, form: thidharon}
-    - form: dáktela
+      source: {kind: borrowed, language: skill-aelendlng, form: kernon}
+    - form: laegis
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a grant of grazing; ground given to a kin under the Pact"
-      source: {kind: borrowed, language: skill-aelendlng, form: dhaktela}
-    - form: últhathen
+      source: {kind: borrowed, language: skill-aelendlng, form: laghis}
+    - form: írthathen
       class: v
       field: "The Pact, the oath and the judgment"
       gloss: "to hallow; to set a place under the Pact"
-      source: {kind: borrowed, language: skill-aelendlng, form: últhathen}
-    - form: últhandon
+      source: {kind: borrowed, language: skill-aelendlng, form: írthathen}
+    - form: irthon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a hallowing; the rite that sets a place under the Pact"
-      source: {kind: borrowed, language: skill-aelendlng, form: últhandon}
-    - form: ánulthathen
+      source: {kind: borrowed, language: skill-aelendlng, form: irthon}
+    - form: ánirthathen
       class: v
       field: "The Pact, the oath and the judgment"
       gloss: "to unhallow; to strike a place out of the Pact, which is done once in a lifetime if at all"
-      source: {kind: borrowed, language: skill-aelendlng, form: ánulthathen}
-    - form: thíruthrima
+      source: {kind: borrowed, language: skill-aelendlng, form: ánirthathen}
+    - form: ryethis
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "the bound of a hallowed place, which no blade crosses drawn"
-      source: {kind: borrowed, language: skill-aelendlng, form: thrima}
-    - form: néihaimon
+      source: {kind: borrowed, language: skill-aelendlng, form: ruthis}
+    - form: mirgon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a boundary shrine; the cairn where a valley's ground begins"
-      source: {kind: borrowed, language: skill-aelendlng, form: nekhaimon}
-    - form: kúrdalis
+      source: {kind: borrowed, language: skill-aelendlng, form: mirgon}
+    - form: ugra
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "an offering stone; the flat rock where the first of a harvest is left"
-      source: {kind: borrowed, language: skill-aelendlng, form: kurdhalis}
-    - form: álthesa
+      source: {kind: borrowed, language: skill-aelendlng, form: ughra}
+    - form: ilda
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a prayer; anything said to the land aloud"
-      source: {kind: borrowed, language: skill-aelendlng, form: álthesa}
+      source: {kind: borrowed, language: skill-aelendlng, form: ilda}
     - form: óudethand
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a reader of signs; one who reads the weather and the birds for the council"
       source: {kind: borrowed, language: skill-aelendlng, form: odhethand}
-    - form: óurenon
+    - form: molthon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a debt of honor; a thing done that must be repaid in kind"
-      source: {kind: borrowed, language: skill-aelendlng, form: orenon}
-    - form: óurenathen
+      source: {kind: borrowed, language: skill-aelendlng, form: molthon}
+    - form: mólthathen
       class: v
       field: "The Pact, the oath and the judgment"
       gloss: "to owe; to stand under a debt of honor"
-      source: {kind: borrowed, language: skill-aelendlng, form: orenathen}
+      source: {kind: borrowed, language: skill-aelendlng, form: mólthathen}
     - form: kurthand
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a councillor"
       source: {kind: borrowed, language: skill-aelendlng, form: kurthand}
-    - form: kúrthema
+    - form: mendis
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "the council of a lordship; the lords sitting together"
-      source: {kind: borrowed, language: skill-aelendlng, form: kúrthema}
-    - form: kúrthalon
+      source: {kind: borrowed, language: skill-aelendlng, form: mendis}
+    - form: méndalon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a council; any gathering that sits and decides"
-      source: {kind: borrowed, language: skill-aelendlng, form: kúrthalon}
-    - form: dílmara
+      source: {kind: borrowed, language: skill-aelendlng, form: méndalon}
+    - form: mendra
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a voice in council; one elder's word in a decision"
-      source: {kind: borrowed, language: skill-aelendlng, form: dhílmara}
-    - form: kréisulathen
+      source: {kind: borrowed, language: skill-aelendlng, form: mendra}
+    - form: ágrathen
       class: v
       field: "The Pact, the oath and the judgment"
       gloss: "to bring a grievance before the elders"
-      source: {kind: borrowed, language: skill-aelendlng, form: kresulathen}
+      source: {kind: borrowed, language: skill-aelendlng, form: ághrathen}
     - form: lousand
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a speaker for another; one who carries a kinsman's grievance to the elders"
       source: {kind: borrowed, language: skill-aelendlng, form: losand}
-    - form: thíedarand
+    - form: kernand
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a keeper of the boundary marks"
-      source: {kind: borrowed, language: skill-aelendlng, form: thidharand}
-    - form: thráemeson
+      source: {kind: borrowed, language: skill-aelendlng, form: kernand}
+    - form: darthon
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "the Warden's oath; the oath that makes a Warden"
-      source: {kind: borrowed, language: skill-aelendlng, form: thrameson}
-    - form: thráemesand
+      source: {kind: borrowed, language: skill-aelendlng, form: dharthon}
+    - form: darthand
       class: n
       field: "The Pact, the oath and the judgment"
       gloss: "a sworn Warden"
-      source: {kind: borrowed, language: skill-aelendlng, form: thramesand}
-    - form: káralson
+      source: {kind: borrowed, language: skill-aelendlng, form: dharthand}
+    - form: káerathon
       class: n
       field: The hall and the guest
       gloss: "the kept fire; the hearth of a hall"
       concept: hearth
-      source: {kind: borrowed, language: skill-aelendlng, form: "káralson"}
-    - form: shírothathen
+      source: {kind: borrowed, language: skill-aelendlng, form: kárathon}
+    - form: máldathen
       class: v
       field: The hall and the guest
       gloss: "to seat; to give a guest his place at the fire"
-      source: {kind: borrowed, language: skill-aelendlng, form: sirothathen}
-    - form: shírothalon
+      source: {kind: borrowed, language: skill-aelendlng, form: máldathen}
+    - form: máldalon
       class: n
       field: The hall and the guest
       gloss: "the order of the seats; worked out again at every gathering"
-      source: {kind: borrowed, language: skill-aelendlng, form: sirothalon}
-    - form: dáimela
+      source: {kind: borrowed, language: skill-aelendlng, form: máldalon}
+    - form: laegand
       class: n
       field: The hall and the guest
       gloss: "a giver; the one who sets a feast and sits at its head"
-      source: {kind: borrowed, language: skill-aelendlng, form: dáimela}
-    - form: dáimathen
+      source: {kind: borrowed, language: skill-aelendlng, form: laghand}
+    - form: láegathen
       class: v
       field: The hall and the guest
       gloss: "to give; to set food before a guest"
       concept: give
-      source: {kind: borrowed, language: skill-aelendlng, form: dáimathen}
-    - form: dyemaralon
+      source: {kind: borrowed, language: skill-aelendlng, form: lághathen}
+    - form: háelalon
       class: n
       field: The hall and the guest
       gloss: "guest-right; what the hall owes the one under its roof"
-      source: {kind: borrowed, language: skill-aelendlng, form: dumaralon}
-    - form: lórdemon
+      source: {kind: borrowed, language: skill-aelendlng, form: khálalon}
+    - form: kurnis
       class: n
       field: The hall and the guest
       gloss: "a feast; a gathering with food, at which the genealogies are sung"
-      source: {kind: borrowed, language: skill-aelendlng, form: lordemon}
-    - form: kómrela
+      source: {kind: borrowed, language: skill-aelendlng, form: kurnis}
+    - form: tirna
       class: n
       field: The hall and the guest
       gloss: "a manor in the hills"
-      source: {kind: borrowed, language: skill-aelendlng, form: komrela}
-    - form: ánsiroth
+      source: {kind: borrowed, language: skill-aelendlng, form: tirna}
+    - form: ánmaldar
       class: adj
       field: The hall and the guest
       gloss: "unseated; of a guest whose place at the fire nobody has settled"
-      source: {kind: borrowed, language: skill-aelendlng, form: ánsiroth}
-    - form: dáimelalon
+      source: {kind: borrowed, language: skill-aelendlng, form: ánmaldar}
+    - form: láegalon
       class: n
       field: The hall and the guest
       gloss: "the giving of a feast"
-      source: {kind: borrowed, language: skill-aelendlng, form: dáimelalon}
-    - form: thélmalon
+      source: {kind: borrowed, language: skill-aelendlng, form: lághalon}
+    - form: syénalon
       class: n
       field: The hall and the guest
       gloss: "a following; the young men who sit below a leader at the fire"
-      source: {kind: borrowed, language: skill-aelendlng, form: thélmalon}
-    - form: ráemolsa
+      source: {kind: borrowed, language: skill-aelendlng, form: súnalon}
+    - form: trénkira
       class: n
       field: The hall and the guest
       gloss: "the greeting at a lodge door at first light"
-      source: {kind: borrowed, language: skill-aelendlng, form: ramolsa}
-    - form: réimalis
+      source: {kind: borrowed, language: skill-aelendlng, form: trénkira}
+    - form: galnis
       class: n
       field: The hall and the guest
       gloss: "the gathering ground before a lodge"
-      source: {kind: borrowed, language: skill-aelendlng, form: remalis}
-    - form: íthrola
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalnis}
+    - form: henthra
       class: n
       field: The hall and the guest
       gloss: "a lamp"
       concept: lamp
-      source: {kind: borrowed, language: skill-aelendlng, form: íthrola}
-    - form: énthison
+      source: {kind: borrowed, language: skill-aelendlng, form: khenthra}
+    - form: korthon
       class: n
       field: The hall and the guest
       gloss: "mead; the old word for wine, kept for the drink the highlands make"
-      source: {kind: borrowed, language: skill-aelendlng, form: enthison}
+      source: {kind: borrowed, language: skill-aelendlng, form: korthon}
     - form: éllevirsa
       class: n
       field: The hall and the guest
@@ -754,31 +759,31 @@ data:
       field: "Light, sky and the turning year"
       gloss: "a star"
       source: {kind: borrowed, language: skill-aelendlng, form: núpanu}
-    - form: nárdelon
+    - form: kieron
       class: n
       field: "Light, sky and the turning year"
       gloss: "a day"
-      source: {kind: borrowed, language: skill-aelendlng, form: nardelon}
-    - form: óltrema
+      source: {kind: borrowed, language: skill-aelendlng, form: kiron}
+    - form: óskena
       class: n
       field: "Light, sky and the turning year"
       gloss: "a month"
-      source: {kind: borrowed, language: skill-aelendlng, form: oltrema}
-    - form: thúrkelon
+      source: {kind: borrowed, language: skill-aelendlng, form: óskena}
+    - form: móugalon
       class: n
       field: "Light, sky and the turning year"
       gloss: "an age; as long back as a living Keeper remembers"
-      source: {kind: borrowed, language: skill-aelendlng, form: thurkelon}
-    - form: sérthasis
+      source: {kind: borrowed, language: skill-aelendlng, form: móghalon}
+    - form: ganthis
       class: n
       field: "Light, sky and the turning year"
       gloss: "the crossing; the year the band came over the pass, from which the years are counted"
-      source: {kind: borrowed, language: skill-aelendlng, form: serthasis}
-    - form: últhalon
+      source: {kind: borrowed, language: skill-aelendlng, form: ganthis}
+    - form: írthalon
       class: n
       field: "Light, sky and the turning year"
       gloss: "the neuter; the gender of what lasts, which was once the gender of the hallowed"
-      source: {kind: borrowed, language: skill-aelendlng, form: últhalon}
+      source: {kind: borrowed, language: skill-aelendlng, form: írthalon}
     - form: nyevarne
       class: n
       field: "Light, sky and the turning year"
@@ -1014,72 +1019,72 @@ data:
       field: The wood and its weather
       gloss: "the long road; a path through the deep wood"
       source: {kind: borrowed, language: skill-aelendlng, form: tírpali}
-    - form: nélamis
+    - form: neilis
       class: n
       field: "Mountain, water and stone"
       gloss: "snow"
-      source: {kind: borrowed, language: skill-aelendlng, form: nélamis}
-    - form: nélamesa
+      source: {kind: borrowed, language: skill-aelendlng, form: nelis}
+    - form: neldra
       class: n
       field: "Mountain, water and stone"
       gloss: "winter; the snow-time"
-      source: {kind: borrowed, language: skill-aelendlng, form: nélamesa}
-    - form: néiralis
+      source: {kind: borrowed, language: skill-aelendlng, form: neldra}
+    - form: dulgis
       class: n
       field: "Mountain, water and stone"
       gloss: "a valley; a clan's ground between two ridges"
-      source: {kind: borrowed, language: skill-aelendlng, form: neralis}
-    - form: thólmara
+      source: {kind: borrowed, language: skill-aelendlng, form: dulgis}
+    - form: dulna
       class: n
       field: "Mountain, water and stone"
       gloss: "a tarn; a lake held in a corrie"
-      source: {kind: borrowed, language: skill-aelendlng, form: tholmara}
-    - form: íelaras
+      source: {kind: borrowed, language: skill-aelendlng, form: dulna}
+    - form: sirthal
       class: n
       field: "Mountain, water and stone"
       gloss: "a torrent; a river in spate off the snowfields"
-      source: {kind: borrowed, language: skill-aelendlng, form: ilaras}
-    - form: úlmera
+      source: {kind: borrowed, language: skill-aelendlng, form: sirthal}
+    - form: sira
       class: n
       field: "Mountain, water and stone"
       gloss: "water"
       concept: water
-      source: {kind: borrowed, language: skill-aelendlng, form: ulmera}
+      source: {kind: borrowed, language: skill-aelendlng, form: sira}
     - form: dyemeson
       class: n
       field: "Mountain, water and stone"
       gloss: "a rock basin; a spring caught in cut stone"
       source: {kind: borrowed, language: skill-aelendlng, form: dhumeson}
-    - form: hálmesar
+    - form: halmon
       class: n
       field: "Mountain, water and stone"
       gloss: "white stone; the pale marble of the Spine"
-      source: {kind: borrowed, language: skill-aelendlng, form: khalmesar}
-    - form: gryemalon
+      source: {kind: borrowed, language: skill-aelendlng, form: khalmon}
+    - form: tálkeron
       class: n
       field: "Mountain, water and stone"
       gloss: "a stone cut; the place a ring's stones were taken from, left open"
-      source: {kind: borrowed, language: skill-aelendlng, form: grumalon}
-    - form: álthogis
+      source: {kind: borrowed, language: skill-aelendlng, form: tálkeron}
+    - form: kerthis
       class: n
       field: "Mountain, water and stone"
       gloss: "a dressed stone"
-      source: {kind: borrowed, language: skill-aelendlng, form: althokis}
-    - form: dórkima
+      source: {kind: borrowed, language: skill-aelendlng, form: kerthis}
+    - form: talgis
       class: n
       field: "Mountain, water and stone"
       gloss: "a pillar of stone"
-      source: {kind: borrowed, language: skill-aelendlng, form: dorkima}
+      source: {kind: borrowed, language: skill-aelendlng, form: talgis}
     - form: lonke
       class: n
       field: "Mountain, water and stone"
       gloss: "the wood below the snow line"
       source: {kind: borrowed, language: skill-aelendlng, form: lonku}
-    - form: thérsolis
+    - form: gersa
       class: n
       field: "Mountain, water and stone"
       gloss: "an island in a tarn"
-      source: {kind: borrowed, language: skill-aelendlng, form: thersolis}
+      source: {kind: borrowed, language: skill-aelendlng, form: ghersa}
     - form: raumel
       class: n
       field: "Mountain, water and stone"
@@ -1110,48 +1115,48 @@ data:
       field: "Mountain, water and stone"
       gloss: "a mountain"
       source: {kind: borrowed, language: skill-aelendlng, form: sórpanda}
-    - form: yemelthathen
+    - form: ánkenathen
       class: v
       field: "Mountain, water and stone"
       gloss: "to stand empty; said of a lodge whose kin are gone"
-      source: {kind: borrowed, language: skill-aelendlng, form: umelthathen}
+      source: {kind: borrowed, language: skill-aelendlng, form: ánkenathen}
     - form: ryedamis
       class: n
       field: The body and the dead
       gloss: "blood"
       concept: blood
       source: {kind: borrowed, language: skill-aelendlng, form: rudhamis}
-    - form: ríetheson
+    - form: ruskon
       class: n
       field: The body and the dead
       gloss: "a wound"
-      source: {kind: borrowed, language: skill-aelendlng, form: ritheson}
-    - form: ríethesand
+      source: {kind: borrowed, language: skill-aelendlng, form: ruskon}
+    - form: ruskand
       class: n
       field: The body and the dead
       gloss: "a healer; one who closes wounds"
-      source: {kind: borrowed, language: skill-aelendlng, form: rithesand}
-    - form: thérnathen
+      source: {kind: borrowed, language: skill-aelendlng, form: ruskand}
+    - form: élthethen
       class: v
       field: The body and the dead
       gloss: "to live"
       concept: live
-      source: {kind: borrowed, language: skill-aelendlng, form: thernathen}
-    - form: néimethen
+      source: {kind: borrowed, language: skill-aelendlng, form: élthethen}
+    - form: lúrgathen
       class: v
       field: The body and the dead
       gloss: "to fall"
-      source: {kind: borrowed, language: skill-aelendlng, form: nemethen}
-    - form: démrolon
+      source: {kind: borrowed, language: skill-aelendlng, form: lúrgathen}
+    - form: groumon
       class: n
       field: The body and the dead
       gloss: "a cairn; a grave under stones"
-      source: {kind: borrowed, language: skill-aelendlng, form: dhemrolon}
-    - form: démrolara
+      source: {kind: borrowed, language: skill-aelendlng, form: ghromon}
+    - form: gróumalon
       class: n
       field: The body and the dead
       gloss: "a field of cairns at the edge of a valley"
-      source: {kind: borrowed, language: skill-aelendlng, form: dhemrolara}
+      source: {kind: borrowed, language: skill-aelendlng, form: ghrómalon}
     - form: sélvore
       class: n
       field: The body and the dead
@@ -1207,81 +1212,81 @@ data:
       field: The body and the dead
       gloss: "a walking away; the desertion of one's kin"
       source: {kind: borrowed, language: skill-aelendlng, form: ólpairsa}
-    - form: kórdathen
+    - form: dryégathen
       class: v
       field: Arms and the border
       gloss: "to fight"
-      source: {kind: borrowed, language: skill-aelendlng, form: kordathen}
-    - form: gryemesa
+      source: {kind: borrowed, language: skill-aelendlng, form: drúgathen}
+    - form: greisa
       class: n
       field: Arms and the border
       gloss: "war"
-      source: {kind: borrowed, language: skill-aelendlng, form: grumesa}
-    - form: thryemathen
+      source: {kind: borrowed, language: skill-aelendlng, form: ghresa}
+    - form: úldathen
       class: v
       field: Arms and the border
       gloss: "to lead"
-      source: {kind: borrowed, language: skill-aelendlng, form: thrumathen}
-    - form: thryemar
+      source: {kind: borrowed, language: skill-aelendlng, form: úldathen}
+    - form: uldar
       class: n
       field: Arms and the border
       gloss: "a war leader"
-      source: {kind: borrowed, language: skill-aelendlng, form: thrumar}
-    - form: gréidala
+      source: {kind: borrowed, language: skill-aelendlng, form: uldar}
+    - form: genta
       class: n
       field: Arms and the border
       gloss: "a spear"
-      source: {kind: borrowed, language: skill-aelendlng, form: ghretala}
-    - form: thárkelon
+      source: {kind: borrowed, language: skill-aelendlng, form: ghenta}
+    - form: thorgon
       class: n
       field: Arms and the border
       gloss: "a shield"
-      source: {kind: borrowed, language: skill-aelendlng, form: thárkelon}
-    - form: gáimela
+      source: {kind: borrowed, language: skill-aelendlng, form: thorgon}
+    - form: kaives
       class: n
       field: Arms and the border
       gloss: "a bow"
-      source: {kind: borrowed, language: skill-aelendlng, form: gáimela}
-    - form: hádsimon
+      source: {kind: borrowed, language: skill-aelendlng, form: kaipes}
+    - form: delkon
       class: n
       field: Arms and the border
       gloss: "a long knife"
-      source: {kind: borrowed, language: skill-aelendlng, form: khadsimon}
-    - form: dúrgalis
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelkon}
+    - form: gorthis
       class: n
       field: Arms and the border
       gloss: "a hill fort; a walled place above a valley"
-      source: {kind: borrowed, language: skill-aelendlng, form: dhurgalis}
-    - form: thúrgeson
+      source: {kind: borrowed, language: skill-aelendlng, form: ghorthis}
+    - form: gandurth
       class: n
       field: Arms and the border
       gloss: "a held pass; the holding of a way against whoever comes up it"
-      source: {kind: borrowed, language: skill-aelendlng, form: thurgeson}
+      source: {kind: borrowed, language: skill-aelendlng, form: gandurth}
     - form: táehesand
       class: n
       field: Arms and the border
       gloss: "a captain; one who leads ten"
       source: {kind: borrowed, language: skill-aelendlng, form: takhesand}
-    - form: thyemalis
+    - form: dúrgala
       class: n
       field: "Craft, coin and the market"
       gloss: "a forge"
-      source: {kind: borrowed, language: skill-aelendlng, form: thumalis}
-    - form: málhesa
+      source: {kind: borrowed, language: skill-aelendlng, form: dhúrgala}
+    - form: thruk
       class: n
       field: "Craft, coin and the market"
       gloss: "a hammer"
-      source: {kind: borrowed, language: skill-aelendlng, form: malkhesa}
-    - form: rádsimon
+      source: {kind: borrowed, language: skill-aelendlng, form: thruk}
+    - form: rýedamon
       class: n
       field: "Craft, coin and the market"
       gloss: "copper"
-      source: {kind: borrowed, language: skill-aelendlng, form: radsimon}
-    - form: thúrdimon
+      source: {kind: borrowed, language: skill-aelendlng, form: rúdhamon}
+    - form: kraenon
       class: n
       field: "Craft, coin and the market"
       gloss: "bronze"
-      source: {kind: borrowed, language: skill-aelendlng, form: thurdimon}
+      source: {kind: borrowed, language: skill-aelendlng, form: kranon}
     - form: éltheson
       class: n
       field: "Craft, coin and the market"
@@ -1292,61 +1297,61 @@ data:
       field: "Craft, coin and the market"
       gloss: "silver"
       source: {kind: borrowed, language: skill-aelendlng, form: ánkhrason}
-    - form: últhimon
+    - form: gilson
       class: n
       field: "Craft, coin and the market"
       gloss: "glass"
-      source: {kind: borrowed, language: skill-aelendlng, form: ulthimon}
-    - form: táemandon
+      source: {kind: borrowed, language: skill-aelendlng, form: ghilson}
+    - form: gársalon
       class: n
       field: "Craft, coin and the market"
       gloss: "a work; a thing made by hand"
-      source: {kind: borrowed, language: skill-aelendlng, form: tamandon}
-    - form: kélthathen
+      source: {kind: borrowed, language: skill-aelendlng, form: ghársalon}
+    - form: myégathen
       class: v
       field: "Craft, coin and the market"
       gloss: "to keep a craft in one family"
-      source: {kind: borrowed, language: skill-aelendlng, form: kelthathen}
-    - form: gártema
+      source: {kind: borrowed, language: skill-aelendlng, form: múghathen}
+    - form: thelgis
       class: n
       field: "Craft, coin and the market"
       gloss: "a bench; a craftsman's place"
-      source: {kind: borrowed, language: skill-aelendlng, form: ghartema}
-    - form: gartand
+      source: {kind: borrowed, language: skill-aelendlng, form: thelgis}
+    - form: thelgand
       class: n
       field: "Craft, coin and the market"
       gloss: "a master of a craft"
-      source: {kind: borrowed, language: skill-aelendlng, form: ghartand}
-    - form: tháleson
+      source: {kind: borrowed, language: skill-aelendlng, form: thelgand}
+    - form: thálbezon
       class: n
       field: "Craft, coin and the market"
       gloss: "steel; bought from below, and prized"
-      source: {kind: borrowed, language: skill-aelendlng, form: tháleson}
-    - form: sólkimon
+      source: {kind: borrowed, language: skill-vylarilng, form: thalbezon}
+    - form: menthon
       class: n
       field: "Craft, coin and the market"
       gloss: "a weight"
-      source: {kind: borrowed, language: skill-aelendlng, form: solkimon}
-    - form: thráedina
+      source: {kind: borrowed, language: skill-aelendlng, form: menthon}
+    - form: sorgis
       class: n
       field: "Craft, coin and the market"
       gloss: "a scale; a balance for weighing"
-      source: {kind: borrowed, language: skill-aelendlng, form: thradina}
-    - form: déilalon
+      source: {kind: borrowed, language: skill-aelendlng, form: sorgis}
+    - form: gerdon
       class: n
       field: "Craft, coin and the market"
       gloss: "a trading ground; where the valleys meet to trade at midsummer"
-      source: {kind: borrowed, language: skill-aelendlng, form: delalon}
-    - form: érdagis
+      source: {kind: borrowed, language: skill-aelendlng, form: gherdon}
+    - form: desna
       class: n
       field: "Craft, coin and the market"
       gloss: "a price"
-      source: {kind: borrowed, language: skill-aelendlng, form: erdakis}
-    - form: hésilon
+      source: {kind: borrowed, language: skill-aelendlng, form: dhesna}
+    - form: genkon
       class: n
       field: "Craft, coin and the market"
       gloss: "a wedge"
-      source: {kind: borrowed, language: skill-aelendlng, form: khésilon}
+      source: {kind: borrowed, language: skill-aelendlng, form: ghenkon}
     - form: lórrame
       class: n
       field: "Craft, coin and the market"
@@ -1517,140 +1522,155 @@ data:
       field: "The crown, the law and the University"
       gloss: "an altar of the imperial cult"
       source: {kind: borrowed, language: skill-vylarilng, form: kurzalis}
-    - form: lóuhathen
+    - form: árnathen
       class: v
       field: "Doing, going and being"
       gloss: "to come"
       concept: come
-      source: {kind: borrowed, language: skill-aelendlng, form: lokhathen}
-    - form: tíegathen
+      source: {kind: borrowed, language: skill-aelendlng, form: árnathen}
+    - form: róugathen
       class: v
       field: "Doing, going and being"
       gloss: "to go"
       concept: go
-      source: {kind: borrowed, language: skill-aelendlng, form: tigathen}
-    - form: óuhethen
+      source: {kind: borrowed, language: skill-aelendlng, form: rógathen}
+    - form: nóurethen
       class: v
       field: "Doing, going and being"
       gloss: "to see"
       concept: see-verb
-      source: {kind: borrowed, language: skill-aelendlng, form: okhethen}
-    - form: lóusethen
+      source: {kind: borrowed, language: skill-aelendlng, form: nórethen}
+    - form: thélkathen
       class: v
       field: "Doing, going and being"
       gloss: "to carry"
-      source: {kind: borrowed, language: skill-aelendlng, form: losethen}
-    - form: úrsithen
+      source: {kind: borrowed, language: skill-aelendlng, form: thélkathen}
+    - form: róunithen
       class: v
       field: "Doing, going and being"
       gloss: "to rise"
-      source: {kind: borrowed, language: skill-aelendlng, form: ursithen}
-    - form: gáurathen
+      source: {kind: borrowed, language: skill-aelendlng, form: rónithen}
+    - form: háelathen
       class: v
       field: "Doing, going and being"
       gloss: "to build"
-      source: {kind: borrowed, language: skill-aelendlng, form: gháurathen}
-    - form: élsathen
+      source: {kind: borrowed, language: skill-aelendlng, form: khálathen}
+    - form: méisathen
       class: v
       field: "Doing, going and being"
       gloss: "to send"
-      source: {kind: borrowed, language: skill-aelendlng, form: elsathen}
-    - form: yesathen
+      source: {kind: borrowed, language: skill-aelendlng, form: mésathen}
+    - form: géithathen
       class: v
       field: "Doing, going and being"
       gloss: "to set over; to put someone in charge of a thing"
-      source: {kind: borrowed, language: skill-aelendlng, form: usathen}
-    - form: háresathen
+      source: {kind: borrowed, language: skill-aelendlng, form: ghéthathen}
+    - form: gérkathen
       class: v
       field: "Doing, going and being"
       gloss: "to see to; to look after a thing for another"
-      source: {kind: borrowed, language: skill-aelendlng, form: kháresathen}
-    - form: órsathen
+      source: {kind: borrowed, language: skill-aelendlng, form: ghérkathen}
+    - form: dróusathen
       class: v
       field: "Doing, going and being"
       gloss: "to command; said of a war leader in the field and of nobody else"
-      source: {kind: borrowed, language: skill-aelendlng, form: orsathen}
-    - form: dóurandar
+      source: {kind: borrowed, language: skill-aelendlng, form: drósathen}
+    - form: tenthar
       class: adj
       field: "Doing, going and being"
       gloss: "enduring"
-      source: {kind: borrowed, language: skill-aelendlng, form: dorandar}
-    - form: níeseron
+      source: {kind: borrowed, language: skill-aelendlng, form: tenthar}
+    - form: thienen
       class: adv
       field: "Doing, going and being"
       gloss: "less"
-      source: {kind: borrowed, language: skill-aelendlng, form: niseron}
-    - form: elsur
+      source: {kind: borrowed, language: skill-aelendlng, form: thinen}
+    - form: ordur
       class: num
       field: Numbers and grammar words
       gloss: "four"
       concept: four
-      source: {kind: borrowed, language: skill-aelendlng, form: elsur}
-    - form: óulemiks
+      source: {kind: borrowed, language: skill-aelendlng, form: ordhur}
+    - form: reithik
       class: num
       field: Numbers and grammar words
       gloss: "five"
       concept: five
-      source: {kind: borrowed, language: skill-aelendlng, form: olemiks}
-    - form: ránethur
+      source: {kind: borrowed, language: skill-aelendlng, form: rethik}
+    - form: meithur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
       concept: seven
-      source: {kind: borrowed, language: skill-aelendlng, form: ránethur}
-    - form: sóurimaks
+      source: {kind: borrowed, language: skill-aelendlng, form: methur}
+    - form: dorgen
       class: num
       field: Numbers and grammar words
       gloss: "eight"
       concept: eight
-      source: {kind: borrowed, language: skill-aelendlng, form: sorimaks}
-    - form: yemaris
+      source: {kind: borrowed, language: skill-aelendlng, form: dhorgen}
+    - form: taehes
       class: num
       field: Numbers and grammar words
       gloss: "ten"
       concept: ten
-      source: {kind: borrowed, language: skill-aelendlng, form: umaris}
-    - form: dóurehis
+      source: {kind: borrowed, language: skill-aelendlng, form: takhes}
+    - form: kreinis
       class: num
       field: Numbers and grammar words
       gloss: "twelve"
-      source: {kind: borrowed, language: skill-aelendlng, form: dorekhis}
-    - form: tháemesur
+      source: {kind: borrowed, language: skill-aelendlng, form: krenis}
+    - form: mórdamon
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
       concept: thousand
-      source: {kind: borrowed, language: skill-aelendlng, form: thamesur}
-    - form: en
+      source: {kind: borrowed, language: skill-aelendlng, form: mórdamon}
+    - form: munde
       class: pron
       field: Numbers and grammar words
       gloss: "I"
-      source: {kind: borrowed, language: skill-aelendlng, form: en}
-    - form: ul
+      source: {kind: borrowed, language: skill-aelendlng, form: mund}
+    - form: en
+      class: v
+      field: Numbers and grammar words
+      gloss: "is, are; the copula"
+      source: {kind: inherited}
+    - form: tose
+      class: pron
+      field: Numbers and grammar words
+      gloss: "you, one person"
+      source: {kind: borrowed, language: skill-aelendlng, form: tos}
+    - form: nyes
+      class: pron
+      field: Numbers and grammar words
+      gloss: "we"
+      source: {kind: borrowed, language: skill-aelendlng, form: nus}
+    - form: reik
       class: part
       field: Numbers and grammar words
       gloss: "and"
-      source: {kind: borrowed, language: skill-aelendlng, form: ul}
-    - form: ar
+      source: {kind: borrowed, language: skill-aelendlng, form: rek}
+    - form: nond
       class: part
       field: Numbers and grammar words
       gloss: "not"
-      source: {kind: borrowed, language: skill-aelendlng, form: ar}
-    - form: tha
+      source: {kind: borrowed, language: skill-aelendlng, form: nond}
+    - form: seis
       class: part
       field: Numbers and grammar words
       gloss: "that, so that"
-      source: {kind: borrowed, language: skill-aelendlng, form: tha}
-    - form: ir
+      source: {kind: borrowed, language: skill-aelendlng, form: ses}
+    - form: rith
       class: part
       field: Numbers and grammar words
       gloss: "in, into"
-      source: {kind: borrowed, language: skill-aelendlng, form: ir}
-    - form: us
+      source: {kind: borrowed, language: skill-aelendlng, form: ris}
+    - form: geth
       class: part
       field: Numbers and grammar words
       gloss: "over"
-      source: {kind: borrowed, language: skill-aelendlng, form: us}
+      source: {kind: borrowed, language: skill-aelendlng, form: gheth}
     - form: al
       class: part
       field: Numbers and grammar words
@@ -1662,6 +1682,12 @@ data:
       gloss: "one"
       concept: one
       source: {kind: borrowed, language: skill-aelendlng, form: uk}
+    - form: nonduk
+      class: pron
+      field: Numbers and grammar words
+      gloss: "none; nothing; not one"
+      concept: none
+      source: {kind: borrowed, language: skill-aelendlng, form: nonduk}
     - form: "sil"
       class: "stem"
       field: "The bard and the word"
@@ -2727,7 +2753,7 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 
 Élavendri is the soft lowland daughter of Áelendi. Its vowels break into pairs, its consonants loosen between vowels, and its words end on a murmured _-e_.
 
-**The vowels.** Vowel pairs carry the language: _ie_, _ou_, _ae_ and _ei_, as in _ríetheson_ and _máerendand_. A final _-e_ closes many words.
+**The vowels.** Vowel pairs carry the language: _ie_, _ou_, _ae_ and _ei_, as in _kieron_ and _géilalon_. A final _-e_ closes many words.
 
 **The consonants.** _l_, _v_, _r_, _n_, _s_, _m_ and _th_ do most of the work. _ny_ and _sh_ appear before a vowel.
 
@@ -2878,7 +2904,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-elvndrlng'
 
 ## The learned words {#the-learned-words}
 
-The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Semaron]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, keeps its last vowel, and takes the stress on its first syllable, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside the inherited form of the same root: the inherited _lóuresand_ is a reciter who keeps a house's records in his head, and the learned _lórezand_ is a lecturer at the University.
+The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Semaron]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, keeps its last vowel, and takes the stress on its first syllable, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside an inherited word of like sense: the learned _lórezand_ is a lecturer at the University, and the inherited _lornand_ is a reciter who keeps a house's records in his head.
 
 ## Words {#words}
 
@@ -2886,33 +2912,33 @@ The imperial words came with the clerks in the centuries of vassalage and with t
 
 An Élavendri house is the whole descending line, the dead included, and its standing rests on one claim: that the line runs back to the [[lore-aelendnppl|Áelendan]]. The words the houses use to make it are the highland words, worn down. A clan name in the highlands is the founder's name with _-ndi_; in the lowlands the old houses carry the same ending as _-nde_, and a house that can show _sóurethende_, kin of one blood, on a genealogy that goes back to the crossing outranks one that cannot, whatever its acreage.
 
-An old line is _théilaralon_, the word the empire uses for a noble house with a seat in its [[affiliation-seldan|Seldan]] (Senate), and an earned name, _kíramarlen_, is the one a bard gives. Whether all the claims are genuine is another matter, and a claim kept up gracefully for four hundred years has earned a standing of its own.
+An old line is _úrkenon_, and an earned name, _sílderon_, is the one a bard gives. Whether all the claims are genuine is another matter, and a claim kept up gracefully for four hundred years has earned a standing of its own.
 
 ### The land in keeping
 
-Land is a duty and not a possession. A lord who lets his people go hungry has failed the one thing his rank is for, and the land words are the herders' words of the highlands turned to the lowland estate. _Órmalis_ is the land a house keeps, _tárhelon_ the common store held against a bad winter, and _háresand_ the steward who answers for it. A house is judged by the state of the land in its keeping as much as by its bards.
+Land is a duty and not a possession. A lord who lets his people go hungry has failed the one thing his rank is for, and the land words are the herders' words of the highlands turned to the lowland estate. _Mirla_ is the land a house keeps, _dólgalon_ the common store held against a bad winter, and _gerkand_ the steward who answers for it. A house is judged by the state of the land in its keeping as much as by its bards.
 
 ### The bard and the word
 
-Poetry is how a house's history is held, how a prophecy is passed on and how a judgment is made memorable enough to bind, and the bard's words are the oldest in the tongue's care. _Lyeronno_, a singer, is the highland singer at the gathering grown into a court officer; _lóuresand_, a reciter, is the highland Tradition Keeper, and in the lowlands he keeps a house's records in the head. A satire composed by a bard of standing is a weapon the law recognizes, and it is made of these words.
+Poetry is how a house's history is held, how a prophecy is passed on and how a judgment is made memorable enough to bind, and the bard's words are the oldest in the tongue's care. _Lyeronno_, a singer, is the highland singer at the gathering grown into a court officer; _lornand_, a reciter, is the highland Tradition Keeper, and in the lowlands he keeps a house's records in the head. A satire composed by a bard of standing is a weapon the law recognizes, and it is made of these words.
 
-Élavendri is written in the empire's [[skill-semrnscrpt|Semaron]], whose letter is _sémarzon_, the same word borrowed back from the coast. The highlanders' rune-row, whose staves are _shéimarson_, is cut for monuments, magic and old poetry, and its language is Áelendi.
+Élavendri is written in the empire's [[skill-semrnscrpt|Semaron]], whose letter is _sémarzon_. The highlanders' rune-row, whose staves are _ugrin_, is cut for monuments, magic and old poetry, and its language is Áelendi.
 
 ### The art and the thin places
 
-Magic is ordinary here, studied and discussed at table and expected of the well-bred, and its words came down through the highlands from the [[lore-flksinale|Sinale]]. That is where the tongue's _th-_ comes from: so many of the Sinale words open on it that _th-_ is the sound of the uncanny in the tongue. The art is _simme_, a thin place _sírnaste_, a spirit _áitheve_, and the fae, one at a time, _pénallane_. The lowland mage, _thórdimand_, is the word the highlands use for him, and the Élavendri do not mind it.
+Magic is ordinary here, studied and discussed at table and expected of the well-bred, and its words came down through the highlands from the [[lore-flksinale|Sinale]]. That is where the tongue's _th-_ comes from: so many of the Sinale words open on it that _th-_ is the sound of the uncanny in the tongue. The art is _simme_, a thin place _sírnaste_, a spirit _áitheve_, and the fae, one at a time, _pénallane_. The lowland mage, _thórdimand_, and his working, _thórdima_, are the Arcane Order's words, learned from the empire; the highlands call him _símmenne_.
 
 ### The Pact, the oath and the judgment
 
-The [Kindred Pact]{.name data-type="lore/law"} is the last thing an Élavendri owes, and he does not explain it to a foreigner, partly from courtesy and partly because he is not sure of the terms. Its words are the highland words: _tháurathen_, to keep, _thaurand_, a keeper, _thólmesa_, a vow. In the lowlands they serve the courts as well as the groves. A judgment is _nasdis_ and the council that gives it _kúrthema_, the word the empire keeps for its Senate.
+The [Kindred Pact]{.name data-type="lore/law"} is the last thing an Élavendri owes, and he does not explain it to a foreigner, partly from courtesy and partly because he is not sure of the terms. Its words are the highland words: _géilathen_, to keep, _geiland_, a keeper, _nolgra_, a vow. In the lowlands they serve the courts as well as the groves. A judgment is _thargis_ and the council that gives it _mendis_.
 
 ### The hall and the guest
 
-The lodge of the highlands is the lowland hall, and the courtesy of the hall is the highlands' own, refined. The kept fire is _káralson_; the order of the seats, _shírothalon_, is worked out for every feast; and the welcome, _éllevirsa_, is the Sinale word the highlands took and the lowlands kept.
+The lodge of the highlands is the lowland hall, and the courtesy of the hall is the highlands' own, refined. The kept fire is _káerathon_; the order of the seats, _máldalon_, is worked out for every feast; and the welcome, _éllevirsa_, is the Sinale word the highlands took and the lowlands kept.
 
 ### Light, sky and the turning year
 
-The light words are the most Sinale of all, and the bards' favorites: _áulira_, light, _olthe_, a cast shadow, _írvale_, dawn. The years are counted from the crossing, _sérthasis_, like the highlands' and unlike the empire's.
+The light words are the most Sinale of all, and the bards' favorites: _áulira_, light, _olthe_, a cast shadow, _írvale_, dawn. The years are counted from the crossing, _ganthis_, like the highlands' and unlike the empire's.
 
 ### The wood and its weather
 
@@ -2920,11 +2946,11 @@ The kingdom is a woodland kingdom, and every tree in it has a Sinale name brough
 
 ### Mountain, water and stone
 
-The kingdom's interior is the Áelendan's mountains, and the lowland words for it are the highland ones softened: _nélamis_, snow, _néiralis_, a valley, _úlmera_, water.
+The kingdom's interior is the Áelendan's mountains, and the lowland words for it are the highland ones softened: _neilis_, snow, _dulgis_, a valley, _sira_, water.
 
 ### The body and the dead
 
-The dead are part of the house, and the words for them are many. The highland cairn, _démrolon_, is a lowland tomb, and the Sinale words for death and grief, _sélvore_ and _nélthava_, are the bards' words for them.
+The dead are part of the house, and the words for them are many. The highland cairn, _groumon_, is a lowland tomb, and the Sinale words for death and grief, _sélvore_ and _nélthava_, are the bards' words for them.
 
 ### Arms and the border
 
@@ -2936,7 +2962,7 @@ The craft words are inherited, and the coin words came from the empire with its 
 
 ### The crown, the law and the University
 
-For centuries the kingdom owed the empire service, and the words of that service came north with the imperial clerks and stayed: the law, _vornon_, the charter, _záktela_, the tax farmer, _sóhatand_. They are the only words in the tongue with `b`, `f` or `z`, and the three letters mark a clerk's word. The University and the [[affiliation-ordoarcanis|Thordimalon]] brought a second band, and the kingdom treats the Order as a rival to be balanced, licensed and argued with, in the Order's own words: a lecturer is _lórezand_, the learned twin of the highland _lóuresand_, a reciter.
+For centuries the kingdom owed the empire service, and the words of that service came north with the imperial clerks and stayed: the law, _vornon_, the charter, _záktela_, the tax farmer, _sóhatand_. They are the only words in the tongue with `b`, `f` or `z`, and the three letters mark a clerk's word. The University and the [[affiliation-ordoarcanis|Thordimalon]] brought a second band, and the kingdom treats the Order as a rival to be balanced, licensed and argued with, in the Order's own words: a lecturer is _lórezand_, beside the highland _lornand_, a reciter.
 
 ### Doing, going and being
 

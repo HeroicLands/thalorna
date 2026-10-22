@@ -20,7 +20,7 @@ Where the [[place-auldalon|Áuldalon]] hills climb toward the mountains and the 
 
 When the Vylarian legions came north-west into the hills and the war at Valdun recounted in [[lore-elvtribute|the Tribute of Élavendre]] was fought, a cohort that followed a path at the forest margin was not seen again. The hill levy tells it as a victory of the ground. The cohort's _Lusar_, [Solkimos]{.name data-type="being/npc"}, led it on a winter night into the fold, and found a hall with a lit door.
 
-He did not ask. A Vylarian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the [[lore-aelendnppl|Áelendan]] name _[dáimela]{.name data-type="lore/spirit"}_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
+He did not ask. A Vylarian _Lusar_ with frostbitten men at his back and a legion's name behind him demanded shelter for the Sovereign's soldiers. The one within, whom the [[lore-aelendnppl|Áelendan]] name _[Dáimela]{.name data-type="lore/spirit"}_, the Giver, answered in the manner of its kind: exactly. It gave a hall, a fire and bread. The _Lusar_ swore that his cohort would hold the place against all comers for as long as the Sovereign's name stood, and the Giver took him at his word.
 
 The cohort holds it still. Its men are not dead and not of [[lore-theshadow|the Shadow]]. They are kept: they do not age, they do not sleep, they eat the hall's bread and drink its wine, and they cannot leave. The legion's name still stands.
 

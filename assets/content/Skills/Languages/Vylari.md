@@ -3997,68 +3997,31 @@ data:
     stress: {two: first, longer: penultimate, mark: acute}
     syllables: {vowelPairs: [ai, au, oi, aa, ii, uu]}
   cognates:
-    - forms:
-        skill-vylarilng: ulthathen
-        skill-aelendlng: últhathen
-        skill-elvndrlng: últhathen
-        skill-tarvenlng: ulthad
+    - forms: {skill-vylarilng: ulthathen, skill-tarvenlng: ulthad}
       proto: ulthathen
       gloss: to hallow
-    - forms:
-        skill-vylarilng: ulthandon
-        skill-aelendlng: últhandon
-        skill-elvndrlng: últhandon
-        skill-provnzlng: ultande
-        skill-tarvenlng: ulthando
+    - forms: {skill-vylarilng: ulthandon, skill-provnzlng: ultande, skill-tarvenlng: ulthando}
       proto: ulthandon
       gloss: a consecration
-    - forms:
-        skill-vylarilng: sarkenandos
-        skill-aelendlng: sarkhenand
-        skill-elvndrlng: sárhenand
-        skill-provnzlng: sarcheande
-        skill-tarvenlng: sarko
+    - forms: {skill-vylarilng: sarkenandos, skill-provnzlng: sarcheande, skill-tarvenlng: sarko}
       proto: sarkenandos
       gloss: a priest
     - forms:
         skill-vylarilng: sarkenanda
-        skill-aelendlng: sarkhenanda
-        skill-elvndrlng: sárhenanda
         skill-provnzlng: sarcheanda
         skill-tarvenlng: sarkenanda
       proto: sarkenanda
       gloss: a priestess
-    - forms:
-        skill-vylarilng: kurzalis
-        skill-aelendlng: kurdhalis
-        skill-elvndrlng: kúrdalis
-        skill-provnzlng: kurdalis
-        skill-tarvenlng: kur
+    - forms: {skill-vylarilng: kurzalis, skill-provnzlng: kurdalis, skill-tarvenlng: kur}
       proto: kurdhalis
       gloss: an altar
-    - forms:
-        skill-vylarilng: nekaimon
-        skill-aelendlng: nekhaimon
-        skill-elvndrlng: néihaimon
-        skill-provnzlng: nechaime
-        skill-tarvenlng: nekai
+    - forms: {skill-vylarilng: nekaimon, skill-provnzlng: nechaime, skill-tarvenlng: nekai}
       proto: nekaimon
       gloss: a wayside shrine
-    - forms:
-        skill-vylarilng: tholmeza
-        skill-aelendlng: tholmesa
-        skill-elvndrlng: thólmesa
-        skill-provnzlng: tolmeza
-        skill-tarvenlng: tholza
+    - forms: {skill-vylarilng: tholmeza, skill-provnzlng: tolmeza, skill-tarvenlng: tholza}
       proto: tholmeza
       gloss: a vow
-    - forms:
-        skill-vylarilng: kelmaron
-        skill-aelendlng: khelmaron
-        skill-elvndrlng: hélmaron
-        skill-tarvenlng: kelmo
-      proto: kelmaron
-      gloss: a curse
+    - {forms: {skill-vylarilng: kelmaron, skill-tarvenlng: kelmo}, proto: kelmaron, gloss: a curse}
     - forms:
         skill-vylarilng: kelmarthos
         skill-aelendlng: khelmarth
@@ -4074,27 +4037,13 @@ data:
         skill-provnzlng: odeve
       proto: odhethos
       gloss: a diviner
-    - forms:
-        skill-vylarilng: yaltheza
-        skill-aelendlng: álthesa
-        skill-elvndrlng: álthesa
-        skill-provnzlng: jalteza
+    - forms: {skill-vylarilng: yaltheza, skill-provnzlng: jalteza}
       proto: yaltheza
       gloss: a prayer
-    - forms:
-        skill-vylarilng: karalzon
-        skill-aelendlng: káralson
-        skill-elvndrlng: káralson
-        skill-provnzlng: karalze
-        skill-tarvenlng: karalzo
+    - forms: {skill-vylarilng: karalzon, skill-provnzlng: karalze, skill-tarvenlng: karalzo}
       proto: k'aralzon
       gloss: the kept fire
-    - forms:
-        skill-vylarilng: thelvaralon
-        skill-aelendlng: thelaralon
-        skill-elvndrlng: théilaralon
-        skill-provnzlng: telvaral
-        skill-tarvenlng: thelvaralo
+    - forms: {skill-vylarilng: thelvaralon, skill-provnzlng: telvaral, skill-tarvenlng: thelvaralo}
       proto: thelwaralon
       gloss: a noble house
     - forms:
@@ -4105,29 +4054,13 @@ data:
         skill-tarvenlng: zork
       proto: zorkos
       gloss: the master of a household
-    - forms:
-        skill-vylarilng: semrothos
-        skill-aelendlng: semroth
-        skill-elvndrlng: semroth
-        skill-provnzlng: semrote
-        skill-tarvenlng: sembro
+    - forms: {skill-vylarilng: semrothos, skill-provnzlng: semrote, skill-tarvenlng: sembro}
       proto: semrothos
       gloss: a brother
-    - forms:
-        skill-vylarilng: semrotha
-        skill-aelendlng: semrotha
-        skill-elvndrlng: sémrotha
-        skill-provnzlng: semrota
-        skill-tarvenlng: sembra
+    - forms: {skill-vylarilng: semrotha, skill-provnzlng: semrota, skill-tarvenlng: sembra}
       proto: semrotha
       gloss: a sister
-    - forms:
-        skill-vylarilng: nurizon
-        skill-aelendlng: nurison
-        skill-elvndrlng: nyerison
-        skill-tarvenlng: nur
-      proto: nurizon
-      gloss: a child
+    - {forms: {skill-vylarilng: nurizon, skill-tarvenlng: nur}, proto: nurizon, gloss: a child}
     - forms:
         skill-vylarilng: harlenis
         skill-aelendlng: arlendi
@@ -4138,8 +4071,6 @@ data:
       gloss: the house name
     - forms:
         skill-vylarilng: kiramharlen
-        skill-aelendlng: kíramarlen
-        skill-elvndrlng: kíramarlen
         skill-provnzlng: kiramarle
         skill-tarvenlng: kiramharlen
       proto: kiramharlen
@@ -4152,86 +4083,35 @@ data:
         skill-tarvenlng: sora
       proto: sorethis
       gloss: kin
-    - forms:
-        skill-vylarilng: zirothalon
-        skill-aelendlng: sirothalon
-        skill-elvndrlng: shírothalon
-        skill-provnzlng: zirotal
+    - forms: {skill-vylarilng: zirothalon, skill-provnzlng: zirotal}
       proto: zirothalon
       gloss: precedence
-    - forms:
-        skill-vylarilng: zirothathen
-        skill-aelendlng: sirothathen
-        skill-elvndrlng: shírothathen
-        skill-provnzlng: zirotate
+    - forms: {skill-vylarilng: zirothathen, skill-provnzlng: zirotate}
       proto: zirothathen
       gloss: to place
-    - forms:
-        skill-vylarilng: anzirothos
-        skill-aelendlng: ánsiroth
-        skill-elvndrlng: ánsiroth
-        skill-provnzlng: anzirote
-        skill-tarvenlng: anziro
+    - forms: {skill-vylarilng: anzirothos, skill-provnzlng: anzirote, skill-tarvenlng: anziro}
       proto: anzirothos
       gloss: unplaced
-    - forms:
-        skill-vylarilng: daimela
-        skill-aelendlng: dáimela
-        skill-elvndrlng: dáimela
-        skill-provnzlng: daimela
-        skill-tarvenlng: daima
+    - forms: {skill-vylarilng: daimela, skill-provnzlng: daimela, skill-tarvenlng: daima}
       proto: daimela
       gloss: a patron
-    - forms:
-        skill-vylarilng: daimelalon
-        skill-aelendlng: dáimelalon
-        skill-elvndrlng: dáimelalon
-        skill-provnzlng: daimelal
-        skill-tarvenlng: daimelalo
+    - forms: {skill-vylarilng: daimelalon, skill-provnzlng: daimelal, skill-tarvenlng: daimelalo}
       proto: daimelalon
       gloss: patronage
-    - forms:
-        skill-vylarilng: pramolza
-        skill-aelendlng: ramolsa
-        skill-elvndrlng: ráemolsa
-        skill-provnzlng: pramolza
+    - forms: {skill-vylarilng: pramolza, skill-provnzlng: pramolza}
       proto: pramolza
       gloss: the morning call
-    - forms:
-        skill-vylarilng: orfenon
-        skill-aelendlng: orenon
-        skill-elvndrlng: óurenon
-        skill-tarvenlng: orhen
-      proto: orfenon
-      gloss: a favor
-    - forms:
-        skill-vylarilng: orfenathen
-        skill-aelendlng: orenathen
-        skill-elvndrlng: óurenathen
-        skill-provnzlng: orfeate
-        skill-tarvenlng: orhenad
+    - {forms: {skill-vylarilng: orfenon, skill-tarvenlng: orhen}, proto: orfenon, gloss: a favor}
+    - forms: {skill-vylarilng: orfenathen, skill-provnzlng: orfeate, skill-tarvenlng: orhenad}
       proto: orfenathen
       gloss: to owe
-    - forms:
-        skill-vylarilng: dumvaralon
-        skill-aelendlng: dumaralon
-        skill-elvndrlng: dyemaralon
-        skill-provnzlng: dumvaral
+    - forms: {skill-vylarilng: dumvaralon, skill-provnzlng: dumvaral}
       proto: dumwaralon
       gloss: guest-right
-    - forms:
-        skill-vylarilng: verosalon
-        skill-aelendlng: erosalon
-        skill-elvndrlng: éirosalon
-        skill-provnzlng: verosal
-        skill-tarvenlng: verosalo
+    - forms: {skill-vylarilng: verosalon, skill-provnzlng: verosal, skill-tarvenlng: verosalo}
       proto: werosalon
       gloss: citizenship
-    - forms:
-        skill-vylarilng: liskaima
-        skill-aelendlng: liskaima
-        skill-elvndrlng: lískaima
-        skill-provnzlng: liskaima
+    - forms: {skill-vylarilng: liskaima, skill-provnzlng: liskaima}
       proto: liskaima
       gloss: manumission
     - forms:
@@ -4242,26 +4122,13 @@ data:
         skill-tarvenlng: kurth
       proto: kurthos
       gloss: a senator
-    - forms:
-        skill-vylarilng: nazdis
-        skill-aelendlng: nasdis
-        skill-elvndrlng: nasdis
-        skill-provnzlng: nasdis
-        skill-tarvenlng: nazda
+    - forms: {skill-vylarilng: nazdis, skill-provnzlng: nasdis, skill-tarvenlng: nazda}
       proto: nazdis
       gloss: a judgment
-    - forms:
-        skill-vylarilng: nazdalon
-        skill-aelendlng: nasdalon
-        skill-elvndrlng: násdalon
-        skill-provnzlng: nasdal
+    - forms: {skill-vylarilng: nazdalon, skill-provnzlng: nasdal}
       proto: nazdalon
       gloss: a court of law
-    - forms:
-        skill-vylarilng: krezulathen
-        skill-aelendlng: kresulathen
-        skill-elvndrlng: kréisulathen
-        skill-provnzlng: krezulate
+    - forms: {skill-vylarilng: krezulathen, skill-provnzlng: krezulate}
       proto: krezulathen
       gloss: to sue
     - forms:
@@ -4272,127 +4139,52 @@ data:
         skill-tarvenlng: lozo
       proto: lozos
       gloss: an advocate
-    - forms:
-        skill-vylarilng: semnalis
-        skill-aelendlng: semnalis
-        skill-elvndrlng: sémnalis
-        skill-provnzlng: semnalis
-        skill-tarvenlng: semna
+    - forms: {skill-vylarilng: semnalis, skill-provnzlng: semnalis, skill-tarvenlng: semna}
       proto: semnalis
       gloss: a contract
-    - forms:
-        skill-vylarilng: thizaros
-        skill-aelendlng: thidharand
-        skill-elvndrlng: thíedarand
-        skill-provnzlng: tidare
-        skill-tarvenlng: thidro
+    - forms: {skill-vylarilng: thizaros, skill-provnzlng: tidare, skill-tarvenlng: thidro}
       proto: thidharos
       gloss: a keeper of seals
-    - forms:
-        skill-vylarilng: zaktela
-        skill-aelendlng: dhaktela
-        skill-elvndrlng: dáktela
-        skill-provnzlng: daktela
-        skill-tarvenlng: dakta
+    - forms: {skill-vylarilng: zaktela, skill-provnzlng: daktela, skill-tarvenlng: dakta}
       proto: dhaktela
       gloss: a charter
-    - forms:
-        skill-vylarilng: kuthreza
-        skill-aelendlng: kuthresa
-        skill-elvndrlng: chyethresa
-        skill-provnzlng: kutreza
-        skill-tarvenlng: kuthra
+    - forms: {skill-vylarilng: kuthreza, skill-provnzlng: kutreza, skill-tarvenlng: kuthra}
       proto: kuthreza
       gloss: a penalty
-    - forms:
-        skill-vylarilng: zamolis
-        skill-aelendlng: dhámolis
-        skill-elvndrlng: dámolis
-        skill-provnzlng: damolis
-        skill-tarvenlng: damla
+    - forms: {skill-vylarilng: zamolis, skill-provnzlng: damolis, skill-tarvenlng: damla}
       proto: dhamolis
       gloss: guilt
-    - forms:
-        skill-vylarilng: frenkon
-        skill-aelendlng: renkhon
-        skill-elvndrlng: renhon
-        skill-provnzlng: frenche
+    - forms: {skill-vylarilng: frenkon, skill-provnzlng: frenche}
       proto: frenkon
       gloss: property
-    - forms:
-        skill-vylarilng: venthodis
-        skill-aelendlng: enthodis
-        skill-elvndrlng: énthodis
-        skill-provnzlng: ventodis
-        skill-tarvenlng: ventha
+    - forms: {skill-vylarilng: venthodis, skill-provnzlng: ventodis, skill-tarvenlng: ventha}
       proto: wenthodis
       gloss: exile
-    - forms:
-        skill-vylarilng: orzathen
-        skill-aelendlng: orsathen
-        skill-elvndrlng: órsathen
-        skill-provnzlng: orzate
-        skill-tarvenlng: orzad
+    - forms: {skill-vylarilng: orzathen, skill-provnzlng: orzate, skill-tarvenlng: orzad}
       proto: orzathen
       gloss: to rule
-    - forms:
-        skill-vylarilng: kurthema
-        skill-aelendlng: kúrthema
-        skill-elvndrlng: kúrthema
-        skill-provnzlng: kurtema
-        skill-tarvenlng: kurtha
+    - forms: {skill-vylarilng: kurthema, skill-provnzlng: kurtema, skill-tarvenlng: kurtha}
       proto: kurthema
       gloss: the Senate
-    - forms:
-        skill-vylarilng: zilmara
-        skill-aelendlng: dhílmara
-        skill-elvndrlng: dílmara
-        skill-provnzlng: dilmara
-        skill-tarvenlng: dil
+    - forms: {skill-vylarilng: zilmara, skill-provnzlng: dilmara, skill-tarvenlng: dil}
       proto: dhilmara
       gloss: a vote
-    - forms:
-        skill-vylarilng: karezathen
-        skill-aelendlng: kháresathen
-        skill-elvndrlng: háresathen
-        skill-provnzlng: charezate
+    - forms: {skill-vylarilng: karezathen, skill-provnzlng: charezate}
       proto: karezathen
       gloss: to see to
-    - forms:
-        skill-vylarilng: karezos
-        skill-aelendlng: kháresand
-        skill-elvndrlng: háresand
-        skill-provnzlng: chareze
-        skill-tarvenlng: karzo
+    - forms: {skill-vylarilng: karezos, skill-provnzlng: chareze, skill-tarvenlng: karzo}
       proto: karezos
       gloss: a steward
-    - forms:
-        skill-vylarilng: felzathen
-        skill-aelendlng: elsathen
-        skill-elvndrlng: élsathen
-        skill-provnzlng: felzate
+    - forms: {skill-vylarilng: felzathen, skill-provnzlng: felzate}
       proto: felzathen
       gloss: to send
-    - forms:
-        skill-vylarilng: thauros
-        skill-aelendlng: thaurand
-        skill-elvndrlng: thaurand
-        skill-provnzlng: taure
-        skill-tarvenlng: thaur
+    - forms: {skill-vylarilng: thauros, skill-provnzlng: taure, skill-tarvenlng: thaur}
       proto: thauros
       gloss: a guardsman
-    - forms:
-        skill-vylarilng: kordathen
-        skill-aelendlng: kordathen
-        skill-elvndrlng: kórdathen
-        skill-tarvenlng: kordad
+    - forms: {skill-vylarilng: kordathen, skill-tarvenlng: kordad}
       proto: kordathen
       gloss: to fight
-    - forms:
-        skill-vylarilng: thramezan
-        skill-aelendlng: thramesand
-        skill-elvndrlng: thráemesand
-        skill-tarvenlng: thramzo
+    - forms: {skill-vylarilng: thramezan, skill-tarvenlng: thramzo}
       proto: thramezan
       gloss: a legionary
     - forms:
@@ -4403,116 +4195,46 @@ data:
         skill-tarvenlng: takzo
       proto: takezos
       gloss: a centurion
-    - forms:
-        skill-vylarilng: zurgalis
-        skill-aelendlng: dhurgalis
-        skill-elvndrlng: dúrgalis
-        skill-provnzlng: durvalis
-        skill-tarvenlng: durga
+    - forms: {skill-vylarilng: zurgalis, skill-provnzlng: durvalis, skill-tarvenlng: durga}
       proto: dhurgalis
       gloss: a camp
-    - forms:
-        skill-vylarilng: kadzimon
-        skill-aelendlng: khadsimon
-        skill-elvndrlng: hádsimon
-        skill-provnzlng: chadzime
-        skill-tarvenlng: kadzo
+    - forms: {skill-vylarilng: kadzimon, skill-provnzlng: chadzime, skill-tarvenlng: kadzo}
       proto: kadzimon
       gloss: a sword
-    - forms:
-        skill-vylarilng: gretala
-        skill-aelendlng: ghretala
-        skill-elvndrlng: gréidala
-        skill-provnzlng: gredala
-        skill-tarvenlng: gred
+    - forms: {skill-vylarilng: gretala, skill-provnzlng: gredala, skill-tarvenlng: gred}
       proto: ghretala
       gloss: a spear
-    - forms:
-        skill-vylarilng: gulman
-        skill-aelendlng: ghulmand
-        skill-elvndrlng: gulmand
-        skill-provnzlng: gulme
-        skill-tarvenlng: gul
+    - forms: {skill-vylarilng: gulman, skill-provnzlng: gulme, skill-tarvenlng: gul}
       proto: ghulmandos
       gloss: a horseman
-    - forms:
-        skill-vylarilng: thrumathen
-        skill-aelendlng: thrumathen
-        skill-elvndrlng: thryemathen
-        skill-provnzlng: trumate
-        skill-tarvenlng: thrumad
+    - forms: {skill-vylarilng: thrumathen, skill-provnzlng: trumate, skill-tarvenlng: thrumad}
       proto: thrumathen
       gloss: to lead
-    - forms:
-        skill-vylarilng: thrumar
-        skill-aelendlng: thrumar
-        skill-elvndrlng: thryemar
-        skill-provnzlng: trumar
-        skill-tarvenlng: thrumar
+    - forms: {skill-vylarilng: thrumar, skill-provnzlng: trumar, skill-tarvenlng: thrumar}
       proto: thrumar
       gloss: a general
-    - forms:
-        skill-vylarilng: thurgezon
-        skill-aelendlng: thurgeson
-        skill-elvndrlng: thúrgeson
-        skill-provnzlng: turveze
-        skill-tarvenlng: thurgo
+    - forms: {skill-vylarilng: thurgezon, skill-provnzlng: turveze, skill-tarvenlng: thurgo}
       proto: thurgezon
       gloss: a siege
-    - forms:
-        skill-vylarilng: grumeza
-        skill-aelendlng: grumesa
-        skill-elvndrlng: gryemesa
-        skill-provnzlng: grumeza
-        skill-tarvenlng: gruma
+    - forms: {skill-vylarilng: grumeza, skill-provnzlng: grumeza, skill-tarvenlng: gruma}
       proto: grumeza
       gloss: war
-    - forms:
-        skill-vylarilng: gulmeza
-        skill-aelendlng: gulmesa
-        skill-elvndrlng: gúlmesa
-        skill-provnzlng: gulmeza
-        skill-tarvenlng: gulma
+    - forms: {skill-vylarilng: gulmeza, skill-provnzlng: gulmeza, skill-tarvenlng: gulma}
       proto: gulmeza
       gloss: a troop of horse
-    - forms:
-        skill-vylarilng: gaimela
-        skill-aelendlng: gáimela
-        skill-elvndrlng: gáimela
-        skill-provnzlng: gaimela
-        skill-tarvenlng: gaima
+    - forms: {skill-vylarilng: gaimela, skill-provnzlng: gaimela, skill-tarvenlng: gaima}
       proto: gaimela
       gloss: a bow
-    - forms:
-        skill-vylarilng: thrima
-        skill-aelendlng: thrima
-        skill-elvndrlng: thíruthrima
-        skill-provnzlng: tirutrima
-        skill-tarvenlng: thirúthrima
+    - forms: {skill-vylarilng: thrima, skill-provnzlng: tirutrima, skill-tarvenlng: thirúthrima}
       proto: thrima
       gloss: "the hallowed boundary of a city, inside which no legion marches"
-    - forms:
-        skill-vylarilng: rembalis
-        skill-aelendlng: remalis
-        skill-elvndrlng: réimalis
-        skill-provnzlng: rembalis
-        skill-tarvenlng: emba
+    - forms: {skill-vylarilng: rembalis, skill-provnzlng: rembalis, skill-tarvenlng: emba}
       proto: rembalis
       gloss: a square
-    - forms:
-        skill-vylarilng: dorkima
-        skill-aelendlng: dorkima
-        skill-elvndrlng: dórkima
-        skill-provnzlng: dorvima
-        skill-tarvenlng: dorka
+    - forms: {skill-vylarilng: dorkima, skill-provnzlng: dorvima, skill-tarvenlng: dorka}
       proto: dorkima
       gloss: a column
-    - forms:
-        skill-vylarilng: ulmera
-        skill-aelendlng: ulmera
-        skill-elvndrlng: úlmera
-        skill-provnzlng: ulmera
-        skill-tarvenlng: ulmer
+    - forms: {skill-vylarilng: ulmera, skill-provnzlng: ulmera, skill-tarvenlng: ulmer}
       proto: ulmera
       gloss: water
     - forms:
@@ -4531,128 +4253,50 @@ data:
         skill-tarvenlng: dúmbezo
       proto: dhumbezon
       gloss: a cistern
-    - forms:
-        skill-vylarilng: sozrakis
-        skill-aelendlng: sodhrakis
-        skill-elvndrlng: sóudragis
-        skill-provnzlng: sodravis
-        skill-tarvenlng: sodra
+    - forms: {skill-vylarilng: sozrakis, skill-provnzlng: sodravis, skill-tarvenlng: sodra}
       proto: sodhrakis
       gloss: a drain
-    - forms:
-        skill-vylarilng: komrela
-        skill-aelendlng: komrela
-        skill-elvndrlng: kómrela
-        skill-provnzlng: komrela
-        skill-tarvenlng: kombra
+    - forms: {skill-vylarilng: komrela, skill-provnzlng: komrela, skill-tarvenlng: kombra}
       proto: komrela
       gloss: a villa
-    - forms:
-        skill-vylarilng: komrelalon
-        skill-aelendlng: komrelalon
-        skill-elvndrlng: kómrelalon
-        skill-provnzlng: komrelal
-        skill-tarvenlng: kombrelalo
+    - forms: {skill-vylarilng: komrelalon, skill-provnzlng: komrelal, skill-tarvenlng: kombrelalo}
       proto: komrelalon
       gloss: an estate
-    - forms:
-        skill-vylarilng: rathauna
-        skill-aelendlng: rathauna
-        skill-elvndrlng: ráethauna
-        skill-tarvenlng: arthauna
+    - forms: {skill-vylarilng: rathauna, skill-tarvenlng: arthauna}
       proto: rathauna
       gloss: a racecourse
-    - forms:
-        skill-vylarilng: palthokis
-        skill-aelendlng: althokis
-        skill-elvndrlng: álthogis
-        skill-provnzlng: paltovis
-        skill-tarvenlng: paltho
+    - forms: {skill-vylarilng: palthokis, skill-provnzlng: paltovis, skill-tarvenlng: paltho}
       proto: palthokis
       gloss: a brick
-    - forms:
-        skill-vylarilng: kalmezar
-        skill-aelendlng: khalmesar
-        skill-elvndrlng: hálmesar
-        skill-provnzlng: chalmezar
-        skill-tarvenlng: kálmezar
+    - forms: {skill-vylarilng: kalmezar, skill-provnzlng: chalmezar, skill-tarvenlng: kálmezar}
       proto: kalmezar
       gloss: marble
-    - forms:
-        skill-vylarilng: grumbalon
-        skill-aelendlng: grumalon
-        skill-elvndrlng: gryemalon
-        skill-provnzlng: grumbal
-        skill-tarvenlng: grumba
+    - forms: {skill-vylarilng: grumbalon, skill-provnzlng: grumbal, skill-tarvenlng: grumba}
       proto: grumbalon
       gloss: a quarry
-    - forms:
-        skill-vylarilng: ithrola
-        skill-aelendlng: íthrola
-        skill-elvndrlng: íthrola
-        skill-provnzlng: itrola
-        skill-tarvenlng: ithra
+    - forms: {skill-vylarilng: ithrola, skill-provnzlng: itrola, skill-tarvenlng: ithra}
       proto: ithrola
       gloss: a lamp
-    - forms:
-        skill-vylarilng: selkora
-        skill-aelendlng: selkhora
-        skill-elvndrlng: sélhora
-        skill-provnzlng: selchora
-        skill-tarvenlng: selka
+    - forms: {skill-vylarilng: selkora, skill-provnzlng: selchora, skill-tarvenlng: selka}
       proto: selkora
       gloss: a granary
-    - forms:
-        skill-vylarilng: humelthathen
-        skill-aelendlng: umelthathen
-        skill-elvndrlng: yemelthathen
-        skill-provnzlng: umeltate
+    - forms: {skill-vylarilng: humelthathen, skill-provnzlng: umeltate}
       proto: humelthathen
       gloss: to rest
-    - forms:
-        skill-vylarilng: kelthathen
-        skill-aelendlng: kelthathen
-        skill-elvndrlng: kélthathen
-        skill-provnzlng: keltate
+    - forms: {skill-vylarilng: kelthathen, skill-provnzlng: keltate}
       proto: kelthathen
       gloss: to keep a secret
-    - forms:
-        skill-vylarilng: gartema
-        skill-aelendlng: ghartema
-        skill-elvndrlng: gártema
-        skill-provnzlng: gardema
-        skill-tarvenlng: garta
+    - forms: {skill-vylarilng: gartema, skill-provnzlng: gardema, skill-tarvenlng: garta}
       proto: ghartema
       gloss: a bench
-    - forms:
-        skill-vylarilng: gartos
-        skill-aelendlng: ghartand
-        skill-elvndrlng: gartand
-        skill-provnzlng: garde
-      proto: ghartos
-      gloss: a master
-    - forms:
-        skill-vylarilng: thumbalis
-        skill-aelendlng: thumalis
-        skill-elvndrlng: thyemalis
-        skill-provnzlng: tumbalis
-        skill-tarvenlng: thumba
+    - {forms: {skill-vylarilng: gartos, skill-provnzlng: garde}, proto: ghartos, gloss: a master}
+    - forms: {skill-vylarilng: thumbalis, skill-provnzlng: tumbalis, skill-tarvenlng: thumba}
       proto: thumbalis
       gloss: a forge
-    - forms:
-        skill-vylarilng: thalbezon
-        skill-aelendlng: tháleson
-        skill-elvndrlng: tháleson
-        skill-provnzlng: talveze
-        skill-tarvenlng: talbo
+    - forms: {skill-vylarilng: thalbezon, skill-provnzlng: talveze, skill-tarvenlng: talbo}
       proto: thalbezon
       gloss: steel
-    - forms:
-        skill-vylarilng: radzimon
-        skill-aelendlng: radsimon
-        skill-elvndrlng: rádsimon
-        skill-provnzlng: radzime
-        skill-tarvenlng: adzo
+    - forms: {skill-vylarilng: radzimon, skill-provnzlng: radzime, skill-tarvenlng: adzo}
       proto: radzimon
       gloss: copper
     - forms:
@@ -4671,139 +4315,56 @@ data:
         skill-tarvenlng: ankro
       proto: ankron
       gloss: silver
-    - forms:
-        skill-vylarilng: thurdimon
-        skill-aelendlng: thurdimon
-        skill-elvndrlng: thúrdimon
-        skill-provnzlng: turdime
-        skill-tarvenlng: turdo
+    - forms: {skill-vylarilng: thurdimon, skill-provnzlng: turdime, skill-tarvenlng: turdo}
       proto: thurdimon
       gloss: bronze
-    - forms:
-        skill-vylarilng: malkeza
-        skill-aelendlng: malkhesa
-        skill-elvndrlng: málhesa
-        skill-provnzlng: malcheza
-        skill-tarvenlng: malka
+    - forms: {skill-vylarilng: malkeza, skill-provnzlng: malcheza, skill-tarvenlng: malka}
       proto: malkeza
       gloss: a hammer
-    - forms:
-        skill-vylarilng: tambandon
-        skill-aelendlng: tamandon
-        skill-elvndrlng: táemandon
-        skill-provnzlng: tamba
-        skill-tarvenlng: tambando
+    - forms: {skill-vylarilng: tambandon, skill-provnzlng: tamba, skill-tarvenlng: tambando}
       proto: tambandon
       gloss: a work
-    - forms:
-        skill-vylarilng: verdakis
-        skill-aelendlng: erdakis
-        skill-elvndrlng: érdagis
-        skill-provnzlng: verdavis
-        skill-tarvenlng: verdo
+    - forms: {skill-vylarilng: verdakis, skill-provnzlng: verdavis, skill-tarvenlng: verdo}
       proto: werdakis
       gloss: a price
-    - forms:
-        skill-vylarilng: kezilon
-        skill-aelendlng: khésilon
-        skill-elvndrlng: hésilon
-        skill-tarvenlng: kiézilo
-      proto: kezilon
-      gloss: a wedge
-    - forms:
-        skill-vylarilng: solkimon
-        skill-aelendlng: solkimon
-        skill-elvndrlng: sólkimon
-        skill-tarvenlng: solko
+    - {forms: {skill-vylarilng: kezilon, skill-tarvenlng: kiézilo}, proto: kezilon, gloss: a wedge}
+    - forms: {skill-vylarilng: solkimon, skill-tarvenlng: solko}
       proto: solkimon
       gloss: a weight
-    - forms:
-        skill-vylarilng: thradina
-        skill-aelendlng: thradina
-        skill-elvndrlng: thráedina
-        skill-tarvenlng: thrada
+    - forms: {skill-vylarilng: thradina, skill-tarvenlng: thrada}
       proto: thradina
       gloss: a scale
-    - forms:
-        skill-vylarilng: yenthizon
-        skill-aelendlng: enthison
-        skill-elvndrlng: énthison
-        skill-provnzlng: jentize
-        skill-tarvenlng: entho
+    - forms: {skill-vylarilng: yenthizon, skill-provnzlng: jentize, skill-tarvenlng: entho}
       proto: yenthizon
       gloss: wine
-    - forms:
-        skill-vylarilng: thremuzis
-        skill-aelendlng: thremusis
-        skill-elvndrlng: thréimusis
-        skill-provnzlng: tremuzis
-        skill-tarvenlng: thres
+    - forms: {skill-vylarilng: thremuzis, skill-provnzlng: tremuzis, skill-tarvenlng: thres}
       proto: thremuzis
       gloss: salt
-    - forms:
-        skill-vylarilng: yormalis
-        skill-aelendlng: ormalis
-        skill-elvndrlng: órmalis
-        skill-provnzlng: jormalis
-        skill-tarvenlng: orma
+    - forms: {skill-vylarilng: yormalis, skill-provnzlng: jormalis, skill-tarvenlng: orma}
       proto: yormalis
       gloss: land
-    - forms:
-        skill-vylarilng: polthamis
-        skill-aelendlng: olthamis
-        skill-elvndrlng: ólthamis
-        skill-provnzlng: poltamis
-        skill-tarvenlng: poltha
+    - forms: {skill-vylarilng: polthamis, skill-provnzlng: poltamis, skill-tarvenlng: poltha}
       proto: polthamis
       gloss: a field
-    - forms:
-        skill-vylarilng: kolsama
-        skill-aelendlng: kholsama
-        skill-elvndrlng: hólsama
-        skill-provnzlng: cholsama
-        skill-tarvenlng: kolsama
+    - forms: {skill-vylarilng: kolsama, skill-provnzlng: cholsama, skill-tarvenlng: kolsama}
       proto: kolsama
       gloss: a harvest
-    - forms:
-        skill-vylarilng: kedrilis
-        skill-aelendlng: khedrilis
-        skill-elvndrlng: héidrilis
-        skill-provnzlng: chedrilis
-        skill-tarvenlng: ked
+    - forms: {skill-vylarilng: kedrilis, skill-provnzlng: chedrilis, skill-tarvenlng: ked}
       proto: kedrilis
       gloss: a sheep
-    - forms:
-        skill-vylarilng: vilaras
-        skill-aelendlng: ilaras
-        skill-elvndrlng: íelaras
-        skill-provnzlng: vilare
+    - forms: {skill-vylarilng: vilaras, skill-provnzlng: vilare}
       proto: wilaras
       gloss: the great river
-    - forms:
-        skill-vylarilng: tholmara
-        skill-aelendlng: tholmara
-        skill-elvndrlng: thólmara
-        skill-provnzlng: tolmara
-        skill-tarvenlng: thol
+    - forms: {skill-vylarilng: tholmara, skill-provnzlng: tolmara, skill-tarvenlng: thol}
       proto: tholmara
       gloss: a lake
-    - forms:
-        skill-vylarilng: nebralis
-        skill-aelendlng: neralis
-        skill-elvndrlng: néiralis
-        skill-provnzlng: nebralis
-        skill-tarvenlng: nebra
+    - forms: {skill-vylarilng: nebralis, skill-provnzlng: nebralis, skill-tarvenlng: nebra}
       proto: nebralis
       gloss: a valley
     - forms: {skill-vylarilng: kaldrema, skill-provnzlng: kaldrema, skill-tarvenlng: kaldrema}
       proto: kaldrema
       gloss: a wood
-    - forms:
-        skill-vylarilng: nelamis
-        skill-aelendlng: nélamis
-        skill-elvndrlng: nélamis
-        skill-provnzlng: nelamis
-        skill-tarvenlng: nelmis
+    - forms: {skill-vylarilng: nelamis, skill-provnzlng: nelamis, skill-tarvenlng: nelmis}
       proto: nelamis
       gloss: snow
     - forms: {skill-vylarilng: korvathis, skill-provnzlng: korvatis, skill-tarvenlng: korvath}
@@ -4815,12 +4376,7 @@ data:
     - forms: {skill-vylarilng: ilthera, skill-provnzlng: iltera, skill-tarvenlng: iltha}
       proto: ilthera
       gloss: a star
-    - forms:
-        skill-vylarilng: thersolis
-        skill-aelendlng: thersolis
-        skill-elvndrlng: thérsolis
-        skill-provnzlng: tersolis
-        skill-tarvenlng: thersa
+    - forms: {skill-vylarilng: thersolis, skill-provnzlng: tersolis, skill-tarvenlng: thersa}
       proto: thersolis
       gloss: an island
     - forms:
@@ -4834,68 +4390,28 @@ data:
     - forms: {skill-vylarilng: kalmethathen, skill-provnzlng: kalmetate, skill-tarvenlng: kalmad}
       proto: kalmethathen
       gloss: to go to the ancestors
-    - forms:
-        skill-vylarilng: rithezon
-        skill-aelendlng: ritheson
-        skill-elvndrlng: ríetheson
-        skill-provnzlng: riteze
-        skill-tarvenlng: irtho
+    - forms: {skill-vylarilng: rithezon, skill-provnzlng: riteze, skill-tarvenlng: irtho}
       proto: rithezon
       gloss: a wound
-    - forms:
-        skill-vylarilng: rithezos
-        skill-aelendlng: rithesand
-        skill-elvndrlng: ríethesand
-        skill-provnzlng: ritezande
-        skill-tarvenlng: irthezo
+    - forms: {skill-vylarilng: rithezos, skill-provnzlng: ritezande, skill-tarvenlng: irthezo}
       proto: rithezos
       gloss: a physician
-    - forms:
-        skill-vylarilng: zemrolon
-        skill-aelendlng: dhemrolon
-        skill-elvndrlng: démrolon
-        skill-provnzlng: demrol
-        skill-tarvenlng: dembro
+    - forms: {skill-vylarilng: zemrolon, skill-provnzlng: demrol, skill-tarvenlng: dembro}
       proto: dhemrolon
       gloss: a tomb
-    - forms:
-        skill-vylarilng: zemrolara
-        skill-aelendlng: dhemrolara
-        skill-elvndrlng: démrolara
-        skill-provnzlng: demrolara
-        skill-tarvenlng: dembrolara
+    - forms: {skill-vylarilng: zemrolara, skill-provnzlng: demrolara, skill-tarvenlng: dembrolara}
       proto: dhemrolara
       gloss: a city of the dead
-    - forms:
-        skill-vylarilng: oltrema
-        skill-aelendlng: oltrema
-        skill-elvndrlng: óltrema
-        skill-provnzlng: oltrema
-        skill-tarvenlng: oltra
+    - forms: {skill-vylarilng: oltrema, skill-provnzlng: oltrema, skill-tarvenlng: oltra}
       proto: oltrema
       gloss: a month
-    - forms:
-        skill-vylarilng: nelameza
-        skill-aelendlng: nélamesa
-        skill-elvndrlng: nélamesa
-        skill-provnzlng: nelameza
-        skill-tarvenlng: nelza
+    - forms: {skill-vylarilng: nelameza, skill-provnzlng: nelameza, skill-tarvenlng: nelza}
       proto: nelameza
       gloss: winter
-    - forms:
-        skill-vylarilng: lordemon
-        skill-aelendlng: lordemon
-        skill-elvndrlng: lórdemon
-        skill-provnzlng: lordeme
-        skill-tarvenlng: lordo
+    - forms: {skill-vylarilng: lordemon, skill-provnzlng: lordeme, skill-tarvenlng: lordo}
       proto: lordemon
       gloss: a festival
-    - forms:
-        skill-vylarilng: zerthazis
-        skill-aelendlng: serthasis
-        skill-elvndrlng: sérthasis
-        skill-provnzlng: zertazis
-        skill-tarvenlng: zertha
+    - forms: {skill-vylarilng: zerthazis, skill-provnzlng: zertazis, skill-tarvenlng: zertha}
       proto: zerthazis
       gloss: the founding
     - forms: {skill-vylarilng: sorimathen, skill-provnzlng: sorimate, skill-tarvenlng: sormad}
@@ -4905,222 +4421,83 @@ data:
     - forms: {skill-vylarilng: dokathen, skill-tarvenlng: dokad}
       proto: dokathen
       gloss: to speak
-    - forms:
-        skill-vylarilng: dokemon
-        skill-aelendlng: dokhemon
-        skill-elvndrlng: dóuhemon
-        skill-provnzlng: docheme
-        skill-tarvenlng: dokme
+    - forms: {skill-vylarilng: dokemon, skill-provnzlng: docheme, skill-tarvenlng: dokme}
       proto: dokemon
       gloss: an oration
     - forms: {skill-vylarilng: tharlema, skill-provnzlng: tarlema, skill-tarvenlng: tharlema}
       proto: tharlema
       gloss: a tongue
-    - forms:
-        skill-vylarilng: lambizon
-        skill-aelendlng: lamison
-        skill-elvndrlng: láemison
-        skill-provnzlng: lambize
+    - forms: {skill-vylarilng: lambizon, skill-provnzlng: lambize}
       proto: lambizon
       gloss: a word
-    - forms:
-        skill-vylarilng: semarzon
-        skill-aelendlng: semarson
-        skill-elvndrlng: shéimarson
-        skill-provnzlng: semarze
-        skill-tarvenlng: semzo
+    - forms: {skill-vylarilng: semarzon, skill-provnzlng: semarze, skill-tarvenlng: semzo}
       proto: semarzon
       gloss: a letter
-    - forms:
-        skill-vylarilng: marendis
-        skill-aelendlng: marendis
-        skill-elvndrlng: máerendis
-        skill-provnzlng: marendis
-        skill-tarvenlng: marendis
+    - forms: {skill-vylarilng: marendis, skill-provnzlng: marendis, skill-tarvenlng: marendis}
       proto: marendis
       gloss: wisdom
-    - forms:
-        skill-vylarilng: marendalon
-        skill-aelendlng: marendalon
-        skill-elvndrlng: máerendon
-        skill-provnzlng: marendal
+    - forms: {skill-vylarilng: marendalon, skill-provnzlng: marendal}
       proto: marendalon
       gloss: a school
-    - forms:
-        skill-vylarilng: marendos
-        skill-aelendlng: marendand
-        skill-elvndrlng: máerendand
-        skill-provnzlng: marende
+    - forms: {skill-vylarilng: marendos, skill-provnzlng: marende}
       proto: marendos
       gloss: a master
-    - forms:
-        skill-vylarilng: kezdathen
-        skill-aelendlng: khésdathen
-        skill-elvndrlng: hésdathen
-        skill-provnzlng: chesdate
-        skill-tarvenlng: kezdad
+    - forms: {skill-vylarilng: kezdathen, skill-provnzlng: chesdate, skill-tarvenlng: kezdad}
       proto: kezdathen
       gloss: to know
-    - forms:
-        skill-vylarilng: lorezathen
-        skill-aelendlng: loresathen
-        skill-elvndrlng: lóuresathen
-        skill-provnzlng: lorezate
+    - forms: {skill-vylarilng: lorezathen, skill-provnzlng: lorezate}
       proto: lorezathen
       gloss: to read aloud
-    - forms:
-        skill-vylarilng: olzemon
-        skill-aelendlng: oldhemon
-        skill-elvndrlng: óldemon
-        skill-tarvenlng: oldemo
+    - forms: {skill-vylarilng: olzemon, skill-tarvenlng: oldemo}
       proto: oldhemon
       gloss: a history
-    - forms:
-        skill-vylarilng: thordima
-        skill-aelendlng: thordima
-        skill-elvndrlng: thórdima
-        skill-provnzlng: tordima
-        skill-tarvenlng: thórdima
+    - forms: {skill-vylarilng: thordima, skill-provnzlng: tordima, skill-tarvenlng: thórdima}
       proto: thordima
       gloss: magic
-    - forms:
-        skill-vylarilng: thordimos
-        skill-aelendlng: thordimand
-        skill-elvndrlng: thórdimand
-        skill-provnzlng: tordime
-        skill-tarvenlng: thordimo
+    - forms: {skill-vylarilng: thordimos, skill-provnzlng: tordime, skill-tarvenlng: thordimo}
       proto: thordimos
       gloss: a mage
-    - forms:
-        skill-vylarilng: dorandar
-        skill-aelendlng: dorandar
-        skill-elvndrlng: dóurandar
-        skill-provnzlng: dorandar
-        skill-tarvenlng: dorandar
+    - forms: {skill-vylarilng: dorandar, skill-provnzlng: dorandar, skill-tarvenlng: dorandar}
       proto: dorandar
       gloss: enduring
-    - forms:
-        skill-vylarilng: lokathen
-        skill-aelendlng: lokhathen
-        skill-elvndrlng: lóuhathen
-        skill-tarvenlng: lokad
-      proto: lokathen
-      gloss: to come
-    - forms:
-        skill-vylarilng: tigathen
-        skill-aelendlng: tigathen
-        skill-elvndrlng: tíegathen
-        skill-tarvenlng: tigad
-      proto: tigathen
-      gloss: to go
-    - forms:
-        skill-vylarilng: okethen
-        skill-aelendlng: okhethen
-        skill-elvndrlng: óuhethen
-        skill-tarvenlng: oked
-      proto: okethen
-      gloss: to see
-    - forms:
-        skill-vylarilng: daimathen
-        skill-aelendlng: dáimathen
-        skill-elvndrlng: dáimathen
-        skill-provnzlng: daimate
-        skill-tarvenlng: daimad
+    - {forms: {skill-vylarilng: lokathen, skill-tarvenlng: lokad}, proto: lokathen, gloss: to come}
+    - {forms: {skill-vylarilng: tigathen, skill-tarvenlng: tigad}, proto: tigathen, gloss: to go}
+    - {forms: {skill-vylarilng: okethen, skill-tarvenlng: oked}, proto: okethen, gloss: to see}
+    - forms: {skill-vylarilng: daimathen, skill-provnzlng: daimate, skill-tarvenlng: daimad}
       proto: daimathen
       gloss: to give
-    - forms:
-        skill-vylarilng: lozethen
-        skill-aelendlng: losethen
-        skill-elvndrlng: lóusethen
-        skill-provnzlng: lozete
-        skill-tarvenlng: lozed
+    - forms: {skill-vylarilng: lozethen, skill-provnzlng: lozete, skill-tarvenlng: lozed}
       proto: lozethen
       gloss: to carry
-    - forms:
-        skill-vylarilng: nembethen
-        skill-aelendlng: nemethen
-        skill-elvndrlng: néimethen
-        skill-provnzlng: nembete
-        skill-tarvenlng: nembed
+    - forms: {skill-vylarilng: nembethen, skill-provnzlng: nembete, skill-tarvenlng: nembed}
       proto: nembethen
       gloss: to fall
-    - forms:
-        skill-vylarilng: urzithen
-        skill-aelendlng: ursithen
-        skill-elvndrlng: úrsithen
-        skill-tarvenlng: urzid
-      proto: urzithen
-      gloss: to rise
-    - forms:
-        skill-vylarilng: gaurathen
-        skill-aelendlng: gháurathen
-        skill-elvndrlng: gáurathen
-        skill-provnzlng: gaurate
-        skill-tarvenlng: gaurad
+    - {forms: {skill-vylarilng: urzithen, skill-tarvenlng: urzid}, proto: urzithen, gloss: to rise}
+    - forms: {skill-vylarilng: gaurathen, skill-provnzlng: gaurate, skill-tarvenlng: gaurad}
       proto: ghaurathen
       gloss: to build
-    - forms:
-        skill-vylarilng: thaurathen
-        skill-aelendlng: tháurathen
-        skill-elvndrlng: tháurathen
-        skill-provnzlng: taurate
-        skill-tarvenlng: thaurad
+    - forms: {skill-vylarilng: thaurathen, skill-provnzlng: taurate, skill-tarvenlng: thaurad}
       proto: thaurathen
       gloss: to keep
-    - forms:
-        skill-vylarilng: thernathen
-        skill-aelendlng: thernathen
-        skill-elvndrlng: thérnathen
-        skill-provnzlng: ternate
-        skill-tarvenlng: thernad
+    - forms: {skill-vylarilng: thernathen, skill-provnzlng: ternate, skill-tarvenlng: thernad}
       proto: thernathen
       gloss: to live
-    - forms:
-        skill-vylarilng: felzur
-        skill-aelendlng: elsur
-        skill-elvndrlng: elsur
-        skill-provnzlng: felzur
-        skill-tarvenlng: helza
+    - forms: {skill-vylarilng: felzur, skill-provnzlng: felzur, skill-tarvenlng: helza}
       proto: felzur
       gloss: four
-    - forms:
-        skill-vylarilng: yolemiks
-        skill-aelendlng: olemiks
-        skill-elvndrlng: óulemiks
-        skill-provnzlng: jolemis
-        skill-tarvenlng: olmi
+    - forms: {skill-vylarilng: yolemiks, skill-provnzlng: jolemis, skill-tarvenlng: olmi}
       proto: yolemiks
       gloss: five
-    - forms:
-        skill-vylarilng: ranethur
-        skill-aelendlng: ránethur
-        skill-elvndrlng: ránethur
-        skill-provnzlng: raetur
-        skill-tarvenlng: neth
+    - forms: {skill-vylarilng: ranethur, skill-provnzlng: raetur, skill-tarvenlng: neth}
       proto: ranethur
       gloss: seven
-    - forms:
-        skill-vylarilng: zorimaks
-        skill-aelendlng: sorimaks
-        skill-elvndrlng: sóurimaks
-        skill-provnzlng: zorimas
-        skill-tarvenlng: zorma
+    - forms: {skill-vylarilng: zorimaks, skill-provnzlng: zorimas, skill-tarvenlng: zorma}
       proto: zorimaks
       gloss: eight
-    - forms:
-        skill-vylarilng: dorekis
-        skill-aelendlng: dorekhis
-        skill-elvndrlng: dóurehis
-        skill-provnzlng: dorechis
-        skill-tarvenlng: dorke
+    - forms: {skill-vylarilng: dorekis, skill-provnzlng: dorechis, skill-tarvenlng: dorke}
       proto: dorekis
       gloss: twelve
-    - forms:
-        skill-vylarilng: thambezur
-        skill-aelendlng: thamesur
-        skill-elvndrlng: tháemesur
-        skill-provnzlng: tambezur
-        skill-tarvenlng: thamba
+    - forms: {skill-vylarilng: thambezur, skill-provnzlng: tambezur, skill-tarvenlng: thamba}
       proto: thambezur
       gloss: a thousand
     - forms:

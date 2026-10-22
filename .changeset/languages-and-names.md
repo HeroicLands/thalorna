@@ -18,3 +18,4 @@
 - The Grukar converse by body language and scent; their grunts and bellows only lend emphasis, they keep no names or script, and only the Grukar-Sha learn to speak human tongues.
 - Vedyari's word endings are shown as they are written: _-oka_, _-ona_, _-uta_, _-ru_ and _-ija_, and the station names are spelled _Karmija_, _Danhija_, _Sentija_ and _Ritrija_.
 - The language pages no longer carry sound-change step tables or the sections that listed them: Provenzal, Tarveni, Áelendi, Élavendri, Vylari, Helonic and Jurthati keep their words, sources and sound rules.
+- Áelendi's own words no longer echo Vylari, among them the words for a judgment, a vow, a horse, ten and four, and Élavendri follows; Élavendri takes the Vylari _thálbezon_ for steel; Sinale gains its words for teaching and wisdom.

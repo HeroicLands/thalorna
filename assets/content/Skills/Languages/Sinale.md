@@ -737,6 +737,20 @@ data:
     - {form: kippel, class: "n", field: "Song, speech, memory and the telling", gloss: "a lie"}
     - {form: olpis, class: "n", field: "Song, speech, memory and the telling", gloss: "meaning"}
     - {form: saumel, class: v, field: "Song, speech, memory and the telling", gloss: "teach"}
+    - form: saumi
+      class: "n"
+      field: "Song, speech, memory and the telling"
+      gloss: "teaching; what is taught"
+    - form: sauminno
+      class: "n"
+      field: "Song, speech, memory and the telling"
+      gloss: "a teacher"
+      built: [saumi, "-nno"]
+    - form: saumirsa
+      class: "n"
+      field: "Song, speech, memory and the telling"
+      gloss: "wisdom; the quality of what is taught"
+      built: [saumi, "-rsa"]
     - {form: ruvas, class: v, field: "Song, speech, memory and the telling", gloss: "learn"}
     - {form: elline, class: "n", field: "Song, speech, memory and the telling", gloss: "a tune"}
     - form: saunari

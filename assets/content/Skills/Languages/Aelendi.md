@@ -52,7 +52,7 @@ data:
     - form: "-alon"
       gloss: "the whole of it: a body, a duty, a herd"
       attaches: "added"
-      examples: ["ghulm > ghulmalon"]
+      examples: ["drun > drúnalon"]
     - form: "-andi"
       gloss: "those of: a clan name, after a stem whose last vowel is _a_"
       attaches: "added"
@@ -69,119 +69,119 @@ data:
     - {form: "-undi", gloss: "those of, after _u_", attaches: "added", examples: ["Dul > Dulundi"]}
     - {form: "-ndi", gloss: "those of, after a vowel", attaches: "added"}
     - {form: "-di", gloss: "those of, after _n_", attaches: "added", examples: ["Dhan > Dhandi"]}
-    - {form: "an-", gloss: "not; un-", attaches: "added", examples: ["últhathen > ánulthathen"]}
+    - {form: "an-", gloss: "not; un-", attaches: "added", examples: ["írthathen > ánirthathen"]}
   words:
-    - form: tháurathen
+    - form: ghélathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to keep; to hold a place as the Pact holds it, and answer for it"
       source: {kind: inherited}
-    - form: thaurand
+    - form: gheland
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a keeper; a Warden; one who holds a sacred site for the kin"
-      source: {kind: inherited}
-    - form: tháuralon
+      built: ["ghel-", "-and"]
+    - form: ghélalon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "the keeping; the whole duty of the Wardens, from the tree line up"
-      source: {kind: inherited}
-    - form: lusathen
+      built: ["ghel-", "-alon"]
+    - form: théndathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to stand before; to put oneself between a thing and harm"
       source: {kind: inherited}
-    - form: semnalis
+    - form: dhárela
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a compact; a binding between two kins, sworn before the valley"
       source: {kind: inherited}
-    - form: tholmesa
+    - form: nolgra
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a vow; a binding laid on oneself alone, outside the Pact"
       source: {kind: inherited}
-    - form: khelmaron
+    - form: gurthon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a curse; the words that put a kinsman outside the Pact"
-      source: {kind: inherited, form: kelmaron}
+      source: {kind: inherited}
     - form: khelmarth
       class: adj
       field: "The Pact, the oath and the keeping"
       gloss: "accursed; put outside the Pact and the kin's protection"
       source: {kind: inherited}
-    - form: kuthresa
+    - form: thengra
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a forfeit; what a kin pays with one of its own who broke his word"
       source: {kind: inherited}
-    - form: dhámolis
+    - form: ghorna
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "guilt; the weight a broken oath leaves on a name"
       source: {kind: inherited}
-    - form: enthodis
+    - form: ánkenis
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "outlawry; the sentence that walks a man past the tree line"
       source: {kind: inherited}
-    - form: nasdis
+    - form: thargis
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a judgment; what the elders decide in council"
       source: {kind: inherited}
-    - form: nasdalon
+    - form: thárgalon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "the council of elders sitting in judgment"
-      source: {kind: inherited}
-    - form: ornalon
+      built: ["tharg-", "-alon"]
+    - form: úrdalon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "custom; the whole of what is done because it has always been done"
       source: {kind: inherited}
-    - form: thidharon
+    - form: kernon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a mark; the sign cut in a boundary stone"
       source: {kind: inherited}
-    - form: dhaktela
+    - form: laghis
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a grant of grazing; ground given to a kin under the Pact"
       source: {kind: inherited}
-    - form: últhathen
+    - form: írthathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to hallow; to set a place under the Pact"
       source: {kind: inherited}
-    - form: últhandon
+    - form: irthon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a hallowing; the rite that sets a place under the Pact"
       source: {kind: inherited}
-    - form: ánulthathen
+    - form: ánirthathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to unhallow; to strike a place out of the Pact, which is done once in a lifetime if at all"
-      source: {kind: inherited}
-    - form: thrima
+      built: ["an-", írthathen]
+    - form: ruthis
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "the bound of a hallowed place, which no blade crosses drawn"
       source: {kind: inherited}
-    - form: nekhaimon
+    - form: mirgon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a boundary shrine; the cairn where a valley's ground begins"
-      source: {kind: inherited, form: nekaimon}
-    - form: kurdhalis
+      source: {kind: inherited}
+    - form: ughra
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "an offering stone; the flat rock where the first of a harvest is left"
       source: {kind: inherited}
-    - form: álthesa
+    - form: ilda
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a prayer; anything said to the land aloud"
@@ -191,12 +191,12 @@ data:
       field: "The Pact, the oath and the keeping"
       gloss: "a reader of signs; one who reads the weather and the birds for the council"
       source: {kind: inherited}
-    - form: orenon
+    - form: molthon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a debt of honor; a thing done that must be repaid in kind"
       source: {kind: inherited}
-    - form: orenathen
+    - form: mólthathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to owe; to stand under a debt of honor"
@@ -206,22 +206,22 @@ data:
       field: "The Pact, the oath and the keeping"
       gloss: "an elder; one who sits in the council of a valley"
       source: {kind: inherited}
-    - form: kúrthema
+    - form: mendis
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "the council of a valley; the elders sitting together"
       source: {kind: inherited}
-    - form: kúrthalon
+    - form: méndalon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "a council; any gathering that sits and decides"
-      source: {kind: inherited}
-    - form: dhílmara
+      built: ["mend-", "-alon"]
+    - form: mendra
       class: n f
       field: "The Pact, the oath and the keeping"
       gloss: "a voice in council; one elder's word in a decision"
       source: {kind: inherited}
-    - form: kresulathen
+    - form: ághrathen
       class: v
       field: "The Pact, the oath and the keeping"
       gloss: "to bring a grievance before the elders"
@@ -231,39 +231,39 @@ data:
       field: "The Pact, the oath and the keeping"
       gloss: "a speaker for another; one who carries a kinsman's grievance to the elders"
       source: {kind: inherited}
-    - form: thidharand
+    - form: kernand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a keeper of the boundary marks"
-      source: {kind: inherited}
-    - form: thrameson
+      built: ["kern-", "-and"]
+    - form: dharthon
       class: n n
       field: "The Pact, the oath and the keeping"
       gloss: "the Warden's oath; the oath that makes a Warden"
       source: {kind: inherited}
-    - form: thramesand
+    - form: dharthand
       class: n m
       field: "The Pact, the oath and the keeping"
       gloss: "a sworn Warden"
-      source: {kind: inherited}
+      built: ["dharth-", "-and"]
     - form: sorethendi
       class: n m
       field: "Kin, the clan and the name"
       gloss: "kin; those of one blood"
       source: {kind: inherited}
-    - form: semroth
+    - form: ondren
       class: n m
       field: "Kin, the clan and the name"
       gloss: "a brother"
       concept: brother
       source: {kind: inherited}
-    - form: semrotha
+    - form: ondra
       class: n f
       field: "Kin, the clan and the name"
       gloss: "a sister"
       concept: sister
       source: {kind: inherited}
-    - form: nurison
+    - form: lughon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a child; one not yet given a name"
@@ -274,7 +274,7 @@ data:
       field: "Kin, the clan and the name"
       gloss: "the head of a household; the one who speaks for a hearth in council"
       source: {kind: inherited}
-    - form: thelaralon
+    - form: úrkenon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "an old line; a family the genealogies carry back to the crossing"
@@ -284,17 +284,17 @@ data:
       field: "Kin, the clan and the name"
       gloss: "a clan name; the name of those of a founder"
       source: {kind: inherited}
-    - form: kíramarlen
+    - form: sílderon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "an earned name; the name sung at the gathering after a deed"
       source: {kind: inherited}
-    - form: kondamon
+    - form: dhurnon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "an inheritance; what passes to the clan at a death"
       source: {kind: inherited}
-    - form: liskaima
+    - form: dhuskis
       class: n f
       field: "Kin, the clan and the name"
       gloss: "a release; the sending of a fosterling home to its own clan"
@@ -304,12 +304,12 @@ data:
       field: "Kin, the clan and the name"
       gloss: "an elder; one old enough to have heard the genealogies from the last Keeper"
       source: {kind: inherited}
-    - form: renkhon
+    - form: telgon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a possession; what a man owns outside the clan's common"
       source: {kind: inherited}
-    - form: erosalon
+    - form: mírdalon
       class: n n
       field: "Kin, the clan and the name"
       gloss: "a share; a household's right in the common grazing"
@@ -330,80 +330,80 @@ data:
       field: "Kin, the clan and the name"
       gloss: "of one kin; said of two clans who share a founder"
       source: {kind: borrowed, language: skill-sinalelng, form: ernattisa}
-    - form: "káralson"
+    - form: kárathon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "the kept fire; the fire of a lodge, banked at night and never let die"
       concept: hearth
       source: {kind: inherited}
-    - form: sirothathen
+    - form: máldathen
       class: v
       field: "The lodge, the fire and the guest"
       gloss: "to seat; to give a guest his place at the fire"
       source: {kind: inherited}
-    - form: sirothalon
+    - form: máldalon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "the order of the seats; worked out again at every gathering"
-      source: {kind: inherited}
-    - form: dáimela
+      built: ["mald-", "-alon"]
+    - form: laghand
       class: n m
       field: "The lodge, the fire and the guest"
       gloss: "a giver; the one who sets a feast and sits at its head"
-      source: {kind: inherited}
-    - form: dáimathen
+      built: ["lagh-", "-and"]
+    - form: lághathen
       class: v
       field: "The lodge, the fire and the guest"
       gloss: "to give; to set food before a guest"
       concept: give
       source: {kind: inherited}
-    - form: dumaralon
+    - form: khálalon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "guest-right; what the hall owes the one under its roof"
       source: {kind: inherited}
-    - form: lordemon
+    - form: kurnis
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "a feast; a gathering with food, at which the genealogies are sung"
       source: {kind: inherited}
-    - form: komrela
+    - form: tirna
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "a summer steading; the huts on the high pasture"
       source: {kind: inherited}
-    - form: ánsiroth
+    - form: ánmaldar
       class: adj
       field: "The lodge, the fire and the guest"
       gloss: "unseated; of a guest whose place at the fire nobody has settled"
-      source: {kind: inherited}
-    - form: dáimelalon
+      built: ["an-", "mald-", "-ar"]
+    - form: lághalon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "the giving of a feast"
-      source: {kind: inherited}
-    - form: thélmalon
+      built: ["lagh-", "-alon"]
+    - form: súnalon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "a following; the young men who sit below a leader at the fire"
       source: {kind: inherited}
-    - form: ramolsa
+    - form: trénkira
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "the greeting at a lodge door at first light"
       source: {kind: inherited}
-    - form: remalis
+    - form: ghalnis
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "the gathering ground before a lodge"
       source: {kind: inherited}
-    - form: íthrola
+    - form: khenthra
       class: n f
       field: "The lodge, the fire and the guest"
       gloss: "a lamp"
       concept: lamp
       source: {kind: inherited}
-    - form: enthison
+    - form: korthon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "mead; the old word for wine, kept for the drink the highlands make"
@@ -449,122 +449,122 @@ data:
       field: "The lodge, the fire and the guest"
       gloss: "a debt owed to the wood"
       source: {kind: borrowed, language: skill-sinalelng, form: oirava}
-    - form: ghulm
+    - form: drun
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "a horse; the small hill horse of the Spine"
       source: {kind: inherited}
-    - form: ghulmand
+    - form: drunand
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "a rider; a herder on horseback"
-      source: {kind: inherited}
-    - form: ghulmalon
+      built: [drun, "-and"]
+    - form: drúnalon
       class: n n
       field: "Herds, pasture and the high grass"
       gloss: "the horse herd of a clan"
-      source: {kind: inherited}
-    - form: khedrilis
+      built: [drun, "-alon"]
+    - form: omris
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a sheep"
-      source: {kind: inherited, form: kedrilis}
-    - form: kholsama
+      source: {kind: inherited}
+    - form: athra
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "the hay harvest"
-      source: {kind: inherited, form: kolsama}
-    - form: ormalis
+      source: {kind: inherited}
+    - form: mirla
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "land; the ground a clan grazes"
       source: {kind: inherited}
-    - form: olthamis
+    - form: ilmis
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a field; the walled ground below a lodge"
       source: {kind: inherited}
-    - form: thremusis
+    - form: sulmis
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "salt; the lick set out on the high pasture"
       source: {kind: inherited}
-    - form: komrelalon
+    - form: tírnalon
       class: n n
       field: "Herds, pasture and the high grass"
       gloss: "the summer move; the going up to the high pastures with the herds"
-      source: {kind: inherited}
-    - form: therona
+      built: ["tirn-", "-alon"]
+    - form: dhelnis
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "the spring count; the counting of a clan's herds after the winter"
       source: {kind: inherited}
-    - form: theronand
+    - form: dhelnand
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "the counter of the herds"
-      source: {kind: inherited}
-    - form: tarkhelon
+      built: ["dheln-", "-and"]
+    - form: dhólgalon
       class: n n
       field: "Herds, pasture and the high grass"
       gloss: "the common store; the grain a clan holds against the winter"
-      source: {kind: inherited, form: tarkelon}
-    - form: kháresand
+      built: ["dholg-", "-alon"]
+    - form: gherkand
       class: n m
       field: "Herds, pasture and the high grass"
       gloss: "the keeper of the common store"
-      source: {kind: inherited}
-    - form: selkhora
+      built: ["gherk-", "-and"]
+    - form: dholga
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a grain store"
-      source: {kind: inherited, form: selkora}
+      source: {kind: inherited}
     - form: ulmedhera
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a leat; water led along a hillside to a field"
       source: {kind: inherited}
-    - form: sodhrakis
+    - form: dorla
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a ditch"
       source: {kind: inherited}
-    - form: rathauna
+    - form: renthis
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a horse race; the race at the summer gathering"
       source: {kind: inherited}
-    - form: gulmesa
+    - form: drunsa
       class: n f
       field: "Herds, pasture and the high grass"
       gloss: "a riding; a band of mounted Wardens"
       source: {kind: inherited}
-    - form: nélamis
+    - form: nelis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "snow"
       source: {kind: inherited}
-    - form: nélamesa
+    - form: neldra
       class: n f
       field: "Mountain, snow and stone"
       gloss: "winter; the snow-time"
       source: {kind: inherited}
-    - form: neralis
+    - form: dulgis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a valley; a clan's ground between two ridges"
       source: {kind: inherited}
-    - form: tholmara
+    - form: dulna
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a tarn; a lake held in a corrie"
       source: {kind: inherited}
-    - form: ilaras
+    - form: sirthal
       class: n n
       field: "Mountain, snow and stone"
       gloss: "a torrent; a river in spate off the snowfields"
       source: {kind: inherited}
-    - form: ulmera
+    - form: sira
       class: n f
       field: "Mountain, snow and stone"
       gloss: "water"
@@ -575,22 +575,22 @@ data:
       field: "Mountain, snow and stone"
       gloss: "a rock basin; a spring caught in cut stone"
       source: {kind: inherited}
-    - form: khalmesar
+    - form: khalmon
       class: n n
       field: "Mountain, snow and stone"
       gloss: "white stone; the pale marble of the Spine"
       source: {kind: inherited}
-    - form: grumalon
+    - form: tálkeron
       class: n n
       field: "Mountain, snow and stone"
       gloss: "a stone cut; the place a ring's stones were taken from, left open"
       source: {kind: inherited}
-    - form: althokis
+    - form: kerthis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a dressed stone"
       source: {kind: inherited}
-    - form: dorkima
+    - form: talgis
       class: n f
       field: "Mountain, snow and stone"
       gloss: "a pillar of stone"
@@ -600,7 +600,7 @@ data:
       field: "Mountain, snow and stone"
       gloss: "the wood below the snow line"
       source: {kind: borrowed, language: skill-sinalelng, form: lonku}
-    - form: thersolis
+    - form: ghersa
       class: n f
       field: "Mountain, snow and stone"
       gloss: "an island in a tarn"
@@ -625,7 +625,7 @@ data:
       field: "Mountain, snow and stone"
       gloss: "a mountain"
       source: {kind: borrowed, language: skill-sinalelng, form: sorkanda}
-    - form: umelthathen
+    - form: ánkenathen
       class: v
       field: "Mountain, snow and stone"
       gloss: "to stand empty; said of a lodge whose kin are gone"
@@ -636,37 +636,37 @@ data:
       gloss: "blood"
       concept: blood
       source: {kind: inherited}
-    - form: ritheson
+    - form: ruskon
       class: n n
       field: "The body, life and death"
       gloss: "a wound"
       source: {kind: inherited}
-    - form: rithesand
+    - form: ruskand
       class: n m
       field: "The body, life and death"
       gloss: "a healer; one who closes wounds"
-      source: {kind: inherited}
-    - form: thernathen
+      built: ["rusk-", "-and"]
+    - form: élthethen
       class: v
       field: "The body, life and death"
       gloss: "to live"
       concept: live
       source: {kind: inherited}
-    - form: nemethen
+    - form: lúrgathen
       class: v
       field: "The body, life and death"
       gloss: "to fall"
       source: {kind: inherited}
-    - form: dhemrolon
+    - form: ghromon
       class: n n
       field: "The body, life and death"
       gloss: "a cairn; a grave under stones"
       source: {kind: inherited}
-    - form: dhemrolara
-      class: n f
+    - form: ghrómalon
+      class: n n
       field: "The body, life and death"
       gloss: "a field of cairns at the edge of a valley"
-      source: {kind: inherited}
+      built: ["ghrom-", "-alon"]
     - form: khirkel
       class: n m
       field: "Light, sky and the turning year"
@@ -682,31 +682,31 @@ data:
       field: "Light, sky and the turning year"
       gloss: "a star"
       source: {kind: borrowed, language: skill-sinalelng, form: nuuvanu}
-    - form: nardelon
+    - form: kiron
       class: n n
       field: "Light, sky and the turning year"
       gloss: "a day"
       source: {kind: inherited}
-    - form: oltrema
+    - form: óskena
       class: n f
       field: "Light, sky and the turning year"
       gloss: "a month"
       source: {kind: inherited}
-    - form: thurkelon
+    - form: móghalon
       class: n n
       field: "Light, sky and the turning year"
       gloss: "an age; as long back as a living Keeper remembers"
-      source: {kind: inherited}
-    - form: serthasis
+      built: [mogh, "-alon"]
+    - form: ganthis
       class: n f
       field: "Light, sky and the turning year"
       gloss: "the crossing; the year the band came over the pass, from which the years are counted"
       source: {kind: inherited}
-    - form: últhalon
+    - form: írthalon
       class: n n
       field: "Light, sky and the turning year"
       gloss: "the neuter; the gender of what lasts, which was once the gender of the hallowed"
-      source: {kind: inherited}
+      built: ["irth-", "-alon"]
     - form: nuparno
       class: n n
       field: "Light, sky and the turning year"
@@ -1177,26 +1177,26 @@ data:
       field: "The fae, the thin places and the wards"
       gloss: "humans; the people beyond the wood"
       source: {kind: borrowed, language: skill-sinalelng, form: muuvu}
-    - form: sarkhenand
+    - form: lonthand
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "a druid; one who keeps the rites of a grove"
-      source: {kind: inherited}
-    - form: sarkhenanda
+      built: ["lónthe-", "-and"]
+    - form: lónthanda
       class: n f
       field: "The fae, the thin places and the wards"
       gloss: "a druid, a woman"
-      source: {kind: inherited, form: sarkenanda}
-    - form: thordima
+      built: ["lónthe-", "-and", "-a"]
+    - form: kithe
       class: n f
       field: "The fae, the thin places and the wards"
       gloss: "a working; one act of the art as the lowland mages do it"
-      source: {kind: inherited}
-    - form: thordimand
+      source: {kind: borrowed, language: skill-sinalelng, form: kiette}
+    - form: símmenne
       class: n m
       field: "The fae, the thin places and the wards"
       gloss: "a lowland mage"
-      source: {kind: inherited}
+      source: {kind: borrowed, language: skill-sinalelng, form: symmenne}
     - form: sélporo
       class: n n
       field: Rite and the dead
@@ -1289,62 +1289,62 @@ data:
       gloss: "a tongue; a language"
       concept: tongue
       source: {kind: inherited}
-    - form: lamison
+    - form: lethon
       class: n n
       field: "Song, speech and the letters"
       gloss: "a word"
       source: {kind: inherited}
-    - form: loresathen
+    - form: lórnethen
       class: v
       field: "Song, speech and the letters"
       gloss: "to recite; to say the old words exactly as they were said"
       source: {kind: inherited}
-    - form: loresand
+    - form: lornand
       class: n m
       field: "Song, speech and the letters"
       gloss: "a Tradition Keeper; a reciter of the Pact and the genealogies"
-      source: {kind: inherited}
-    - form: oldhemon
+      built: ["lorn-", "-and"]
+    - form: moghon
       class: n n
       field: "Song, speech and the letters"
       gloss: "a recitation; an account of what was done, never written"
       source: {kind: inherited}
-    - form: marendis
+    - form: sáumirsa
       class: n f
       field: "Song, speech and the letters"
       gloss: "wisdom"
-      source: {kind: inherited}
-    - form: khésdathen
+      source: {kind: borrowed, language: skill-sinalelng, form: saumirsa}
+    - form: sárgathen
       class: v
       field: "Song, speech and the letters"
       gloss: "to know"
       concept: know
       source: {kind: inherited}
-    - form: semarson
+    - form: ugrin
       class: n n
       field: "Song, speech and the letters"
       gloss: "a stave; one sign of the rune-row"
       source: {kind: inherited}
-    - form: thilandon
+    - form: grathon
       class: n n
       field: "Song, speech and the letters"
       gloss: "a cutting; a thing graven in stone"
       source: {kind: inherited}
-    - form: dokhemon
+    - form: runon
       class: n n
       field: "Song, speech and the letters"
       gloss: "a speech before the council"
-      source: {kind: inherited, form: dokemon}
-    - form: marendalon
+      source: {kind: inherited}
+    - form: saumi
       class: n n
       field: "Song, speech and the letters"
       gloss: "the Keepers' teaching; the years a child spends learning the genealogies"
-      source: {kind: inherited}
-    - form: marendand
+      source: {kind: borrowed, language: skill-sinalelng, form: saumi}
+    - form: sáuminno
       class: n m
       field: "Song, speech and the letters"
       gloss: "a teacher; a Keeper who teaches the genealogies"
-      source: {kind: inherited}
+      source: {kind: borrowed, language: skill-sinalelng, form: sauminno}
     - form: ólnaro
       class: n n
       field: "Song, speech and the letters"
@@ -1405,12 +1405,12 @@ data:
       field: "Song, speech and the letters"
       gloss: "one who foretells"
       source: {kind: borrowed, language: skill-sinalelng, form: orrisanno}
-    - form: kordathen
+    - form: drúgathen
       class: v
       field: The Wardens and the border
       gloss: "to fight"
       source: {kind: inherited}
-    - form: grumesa
+    - form: ghresa
       class: n f
       field: The Wardens and the border
       gloss: "war"
@@ -1420,42 +1420,42 @@ data:
       field: The Wardens and the border
       gloss: "peace; the quiet between neighbors"
       source: {kind: inherited}
-    - form: thrumathen
+    - form: úldathen
       class: v
       field: The Wardens and the border
       gloss: "to lead"
       source: {kind: inherited}
-    - form: thrumar
+    - form: uldar
       class: n m
       field: The Wardens and the border
       gloss: "a war leader; the one who leads a valley's Wardens"
-      source: {kind: inherited}
-    - form: ghretala
+      built: ["uld-", "-ar"]
+    - form: ghenta
       class: n f
       field: The Wardens and the border
       gloss: "a spear"
       source: {kind: inherited}
-    - form: thárkelon
+    - form: thorgon
       class: n n
       field: The Wardens and the border
       gloss: "a shield"
       source: {kind: inherited}
-    - form: gáimela
+    - form: kaipes
       class: n f
       field: The Wardens and the border
       gloss: "a bow"
-      source: {kind: inherited}
-    - form: khadsimon
+      source: {kind: borrowed, language: skill-sinalelng, form: kaives}
+    - form: dhelkon
       class: n n
       field: The Wardens and the border
       gloss: "a long knife"
       source: {kind: inherited}
-    - form: dhurgalis
+    - form: ghorthis
       class: n f
       field: The Wardens and the border
       gloss: "a hill fort; a walled place above a valley"
       source: {kind: inherited}
-    - form: thurgeson
+    - form: gandurth
       class: n n
       field: The Wardens and the border
       gloss: "a held pass; the holding of a way against whoever comes up it"
@@ -1464,23 +1464,23 @@ data:
       class: n m
       field: The Wardens and the border
       gloss: "a captain; one who leads ten"
-      source: {kind: inherited}
-    - form: thumalis
+      built: [takhes, "-and"]
+    - form: dhúrgala
       class: n f
       field: Craft and the metals
       gloss: "a forge"
       source: {kind: inherited}
-    - form: malkhesa
+    - form: thruk
       class: n f
       field: Craft and the metals
       gloss: "a hammer"
       source: {kind: inherited}
-    - form: radsimon
+    - form: rúdhamon
       class: n n
       field: Craft and the metals
       gloss: "copper"
       source: {kind: inherited}
-    - form: thurdimon
+    - form: kranon
       class: n n
       field: Craft and the metals
       gloss: "bronze"
@@ -1495,57 +1495,57 @@ data:
       field: Craft and the metals
       gloss: "silver"
       source: {kind: inherited}
-    - form: ulthimon
+    - form: ghilson
       class: n n
       field: Craft and the metals
       gloss: "glass"
       source: {kind: inherited}
-    - form: tamandon
+    - form: ghársalon
       class: n n
       field: Craft and the metals
       gloss: "a work; a thing made by hand"
-      source: {kind: inherited}
-    - form: kelthathen
+      built: ["ghárs-", "-alon"]
+    - form: múghathen
       class: v
       field: Craft and the metals
       gloss: "to keep a craft in one family"
       source: {kind: inherited}
-    - form: ghartema
+    - form: thelgis
       class: n f
       field: Craft and the metals
       gloss: "a bench; a craftsman's place"
       source: {kind: inherited}
-    - form: ghartand
+    - form: thelgand
       class: n m
       field: Craft and the metals
       gloss: "a master of a craft"
-      source: {kind: inherited}
-    - form: tháleson
+      built: ["thelg-", "-and"]
+    - form: ghrelon
       class: n n
       field: Craft and the metals
       gloss: "steel; bought from below, and prized"
       source: {kind: inherited}
-    - form: solkimon
+    - form: menthon
       class: n n
       field: Craft and the metals
       gloss: "a weight"
       source: {kind: inherited}
-    - form: thradina
+    - form: sorgis
       class: n f
       field: Craft and the metals
       gloss: "a scale; a balance for weighing"
       source: {kind: inherited}
-    - form: delalon
+    - form: gherdon
       class: n n
       field: Craft and the metals
       gloss: "a trading ground; where the valleys meet to trade at midsummer"
       source: {kind: inherited}
-    - form: erdakis
+    - form: dhesna
       class: n f
       field: Craft and the metals
       gloss: "a price"
       source: {kind: inherited}
-    - form: khésilon
+    - form: ghenkon
       class: n n
       field: Craft and the metals
       gloss: "a wedge"
@@ -1580,146 +1580,146 @@ data:
       field: Craft and the metals
       gloss: "a carver of wood"
       source: {kind: borrowed, language: skill-sinalelng, form: haltenno}
-    - form: lokhathen
+    - form: árnathen
       class: v
       field: "Doing, going and being"
       gloss: "to come"
       concept: come
-      source: {kind: inherited, form: lokathen}
-    - form: tigathen
+      source: {kind: inherited}
+    - form: rógathen
       class: v
       field: "Doing, going and being"
       gloss: "to go"
       concept: go
       source: {kind: inherited}
-    - form: okhethen
+    - form: nórethen
       class: v
       field: "Doing, going and being"
       gloss: "to see"
       concept: see-verb
-      source: {kind: inherited, form: okethen}
-    - form: losethen
+      source: {kind: inherited}
+    - form: thélkathen
       class: v
       field: "Doing, going and being"
       gloss: "to carry"
       source: {kind: inherited}
-    - form: ursithen
+    - form: rónithen
       class: v
       field: "Doing, going and being"
       gloss: "to rise"
       source: {kind: inherited}
-    - form: gháurathen
+    - form: khálathen
       class: v
       field: "Doing, going and being"
       gloss: "to build"
       source: {kind: inherited}
-    - form: elsathen
+    - form: mésathen
       class: v
       field: "Doing, going and being"
       gloss: "to send"
       source: {kind: inherited}
-    - form: usathen
+    - form: ghéthathen
       class: v
       field: "Doing, going and being"
       gloss: "to set over; to put someone in charge of a thing"
-      source: {kind: inherited}
-    - form: kháresathen
+      built: [gheth, "-athen"]
+    - form: ghérkathen
       class: v
       field: "Doing, going and being"
       gloss: "to see to; to look after a thing for another"
       source: {kind: inherited}
-    - form: orsathen
+    - form: drósathen
       class: v
       field: "Doing, going and being"
       gloss: "to command; said of a war leader in the field and of nobody else"
       source: {kind: inherited}
-    - form: dorandar
+    - form: tenthar
       class: adj
       field: "Doing, going and being"
       gloss: "enduring"
       source: {kind: inherited}
-    - form: niseron
+    - form: thinen
       class: adv
       field: "Doing, going and being"
       gloss: "less"
       source: {kind: inherited}
-    - form: elsur
+    - form: ordhur
       class: num
       field: Numbers and grammar words
       gloss: "four"
       concept: four
       source: {kind: inherited}
-    - form: olemiks
+    - form: rethik
       class: num
       field: Numbers and grammar words
       gloss: "five"
       concept: five
       source: {kind: inherited}
-    - form: ránethur
+    - form: methur
       class: num
       field: Numbers and grammar words
       gloss: "seven"
       concept: seven
       source: {kind: inherited}
-    - form: sorimaks
+    - form: dhorgen
       class: num
       field: Numbers and grammar words
       gloss: "eight"
       concept: eight
       source: {kind: inherited}
-    - form: umaris
+    - form: takhes
       class: num
       field: Numbers and grammar words
       gloss: "ten"
       concept: ten
       source: {kind: inherited}
-    - form: dorekhis
+    - form: krenis
       class: num
       field: Numbers and grammar words
       gloss: "twelve"
-      source: {kind: inherited, form: dorekis}
-    - form: thamesur
+      source: {kind: inherited}
+    - form: mórdamon
       class: num
       field: Numbers and grammar words
       gloss: "a thousand"
       concept: thousand
       source: {kind: inherited}
-    - form: en
+    - form: mund
       class: pron
       field: Numbers and grammar words
       gloss: "I"
       source: {kind: inherited}
-    - form: kho
+    - form: tos
       class: pron
       field: Numbers and grammar words
       gloss: "you, one person"
       source: {kind: inherited}
-    - form: enoi
+    - form: nus
       class: pron
       field: Numbers and grammar words
       gloss: "we"
       source: {kind: inherited}
-    - form: ul
+    - form: rek
       class: part
       field: Numbers and grammar words
       gloss: "and"
       source: {kind: inherited}
-    - form: ar
+    - form: nond
       class: part
       field: Numbers and grammar words
       gloss: "not"
       source: {kind: inherited}
-    - form: tha
+    - form: ses
       class: part
       field: Numbers and grammar words
       gloss: "that, so that"
       source: {kind: inherited}
-    - form: ir
+    - form: ris
       class: part
       field: Numbers and grammar words
       gloss: "in, into"
       source: {kind: inherited}
-    - form: us
+    - form: gheth
       class: part
       field: Numbers and grammar words
       gloss: "over"
@@ -1849,12 +1849,12 @@ data:
       gloss: "despair; hope given up"
       concept: despair
       built: ["an-", sénthira]
-    - form: némsenthira
+    - form: lúrgsenthira
       class: n f
       field: "The body, life and death"
       gloss: "disappointment; a hope that has fallen"
       concept: disappointment
-      built: [nemethen, sénthira]
+      built: [lúrgathen, sénthira]
     - form: dhárison
       class: n n
       field: "The body, life and death"
@@ -2143,7 +2143,7 @@ data:
       gloss: "shelter; a place under a roof"
       concept: shelter
       source: {kind: inherited}
-    - form: sírothon
+    - form: maldon
       class: n n
       field: "The lodge, the fire and the guest"
       gloss: "a chair"
@@ -2275,12 +2275,12 @@ data:
       gloss: "nine"
       concept: nine
       source: {kind: inherited}
-    - form: táumaris
+    - form: tátakhes
       class: num
       field: "Numbers and grammar words"
       gloss: "twenty; two tens"
       concept: twenty
-      built: [ta, umaris]
+      built: [ta, takhes]
     - form: dhórkamon
       class: num
       field: "Numbers and grammar words"
@@ -2323,12 +2323,12 @@ data:
       gloss: "few"
       concept: few
       source: {kind: inherited}
-    - form: aruk
+    - form: nonduk
       class: pron
       field: "Numbers and grammar words"
       gloss: "none; nothing; not one"
       concept: none
-      built: [ar, uk]
+      built: [nond, uk]
     - form: thanar
       class: adj
       field: "Colour and the look of things"
@@ -2794,6 +2794,7 @@ data:
     - {name: Kélpasi, tongue: aelendi}
     - {name: Khálpilonpu, tongue: aelendi}
     - {name: Pálmirno, tongue: aelendi}
+    - {name: Dáimela, tongue: aelendi}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}
@@ -2843,6 +2844,504 @@ data:
       why: "a word that reads as a Vylari word; the native word is written instead"
     - form: tharlema
       instead: óstila
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: marendis
+      instead: sáumirsa
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: marendalon
+      instead: saumi
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: marendand
+      instead: sáuminno
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: tháurathen
+      instead: ghélathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tháuralon
+      instead: ghélalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: lusathen
+      instead: théndathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: semnalis
+      instead: dhárela
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: khelmaron
+      instead: gurthon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: últhathen
+      instead: írthathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: últhandon
+      instead: irthon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ánulthathen
+      instead: ánirthathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thrima
+      instead: ruthis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: nekhaimon
+      instead: mirgon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kúrthema
+      instead: mendis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kúrthalon
+      instead: méndalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: semrotha
+      instead: ondra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kondamon
+      instead: dhurnon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: liskaima
+      instead: dhuskis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dáimela
+      instead: laghand
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dáimathen
+      instead: lághathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: lordemon
+      instead: kurnis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: komrela
+      instead: tirna
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dáimelalon
+      instead: lághalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thélmalon
+      instead: súnalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: íthrola
+      instead: khenthra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: khedrilis
+      instead: omris
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kholsama
+      instead: athra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: komrelalon
+      instead: tírnalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: therona
+      instead: dhelnis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tarkhelon
+      instead: dhólgalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: selkhora
+      instead: dholga
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: rathauna
+      instead: renthis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: nélamis
+      instead: nelis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tholmara
+      instead: dulna
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ulmera
+      instead: sira
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dorkima
+      instead: talgis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thersolis
+      instead: ghersa
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thernathen
+      instead: élthethen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: nardelon
+      instead: kiron
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: oltrema
+      instead: óskena
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thurkelon
+      instead: móghalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: últhalon
+      instead: írthalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sarkhenanda
+      instead: lónthanda
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thordima
+      instead: kithe
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: thilandon
+      instead: grathon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dokhemon
+      instead: runon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kordathen
+      instead: drúgathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thrumathen
+      instead: úldathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thrumar
+      instead: uldar
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thárkelon
+      instead: thorgon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: gáimela
+      instead: kaipes
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: thurdimon
+      instead: kranon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ulthimon
+      instead: ghilson
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kelthathen
+      instead: múghathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: solkimon
+      instead: menthon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thradina
+      instead: sorgis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: delalon
+      instead: gherdon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: lokhathen
+      instead: árnathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tigathen
+      instead: rógathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: okhethen
+      instead: nórethen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: usathen
+      instead: ghéthathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dorandar
+      instead: tenthar
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ránethur
+      instead: methur
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dorekhis
+      instead: krenis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: en
+      instead: mund
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kho
+      instead: tos
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: enoi
+      instead: nus
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ul
+      instead: rek
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ar
+      instead: nond
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tha
+      instead: ses
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ir
+      instead: ris
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: us
+      instead: gheth
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thaurand
+      instead: gheland
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: semroth
+      instead: ondren
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sarkhenand
+      instead: lonthand
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thordimand
+      instead: símmenne
+      why: "a word of the Sinale's own domains; the Sinale loan is written instead"
+    - form: aruk
+      instead: nonduk
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tholmesa
+      instead: nolgra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kuthresa
+      instead: thengra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dhámolis
+      instead: ghorna
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: enthodis
+      instead: ánkenis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: nasdis
+      instead: thargis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: nasdalon
+      instead: thárgalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ornalon
+      instead: úrdalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thidharon
+      instead: kernon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thidharand
+      instead: kernand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: dhaktela
+      instead: laghis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kurdhalis
+      instead: ughra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: álthesa
+      instead: ilda
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: orenon
+      instead: molthon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: orenathen
+      instead: mólthathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dhílmara
+      instead: mendra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kresulathen
+      instead: ághrathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thrameson
+      instead: dharthon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thramesand
+      instead: dharthand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: nurison
+      instead: lughon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thelaralon
+      instead: úrkenon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kíramarlen
+      instead: sílderon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: renkhon
+      instead: telgon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: erosalon
+      instead: mírdalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: káralson
+      instead: kárathon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sirothathen
+      instead: máldathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sirothalon
+      instead: máldalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sírothon
+      instead: maldon
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: ánsiroth
+      instead: ánmaldar
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: dumaralon
+      instead: khálalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ramolsa
+      instead: trénkira
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: remalis
+      instead: ghalnis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: enthison
+      instead: korthon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ghulm
+      instead: drun
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: ghulmand
+      instead: drunand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: ghulmalon
+      instead: drúnalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: gulmesa
+      instead: drunsa
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ormalis
+      instead: mirla
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: olthamis
+      instead: ilmis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thremusis
+      instead: sulmis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sodhrakis
+      instead: dorla
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: nélamesa
+      instead: neldra
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: theronand
+      instead: dhelnand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: neralis
+      instead: dulgis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ilaras
+      instead: sirthal
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: khalmesar
+      instead: khalmon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: grumalon
+      instead: tálkeron
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: althokis
+      instead: kerthis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: umelthathen
+      instead: ánkenathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ritheson
+      instead: ruskon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: rithesand
+      instead: ruskand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: nemethen
+      instead: lúrgathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: némsenthira
+      instead: lúrgsenthira
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: dhemrolon
+      instead: ghromon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dhemrolara
+      instead: ghrómalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: serthasis
+      instead: ganthis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: lamison
+      instead: lethon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: loresathen
+      instead: lórnethen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: loresand
+      instead: lornand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: oldhemon
+      instead: moghon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: khésdathen
+      instead: sárgathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: semarson
+      instead: ugrin
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: grumesa
+      instead: ghresa
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ghretala
+      instead: ghenta
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: khadsimon
+      instead: dhelkon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: dhurgalis
+      instead: ghorthis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thurgeson
+      instead: gandurth
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: thumalis
+      instead: dhúrgala
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: malkhesa
+      instead: thruk
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: radsimon
+      instead: rúdhamon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: tamandon
+      instead: ghársalon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ghartema
+      instead: thelgis
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ghartand
+      instead: thelgand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: tháleson
+      instead: ghrelon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: erdakis
+      instead: dhesna
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: khésilon
+      instead: ghenkon
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: losethen
+      instead: thélkathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: ursithen
+      instead: rónithen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: gháurathen
+      instead: khálathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: elsathen
+      instead: mésathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kháresathen
+      instead: ghérkathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: kháresand
+      instead: gherkand
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: orsathen
+      instead: drósathen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: niseron
+      instead: thinen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: elsur
+      instead: ordhur
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: olemiks
+      instead: rethik
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: sorimaks
+      instead: dhorgen
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: umaris
+      instead: takhes
+      why: "a word that reads as a Vylari word; the native word is written instead"
+    - form: táumaris
+      instead: tátakhes
+      why: "a word built on one that reads as a Vylari word; the new word is written instead"
+    - form: thamesur
+      instead: mórdamon
       why: "a word that reads as a Vylari word; the native word is written instead"
 sohl:
   system:
@@ -2948,14 +3447,14 @@ The Áelendan nonetheless write very little. The [Kindred Pact]{.name data-type=
 
 ## Sample Phrases
 
-"Al-síren ek dul-than, al-kír ek dul-síl."
-: "Life flows from the deep dark, light rises from the deep-still." (Ancient creation phrase, perfectly balanced.)
+"Áulira rónithen, náldursa úlpessen."
+: "Light rises; darkness is the deep of night." (Ancient creation phrase, perfectly balanced.)
 
-"Ek-thalíren en simat dul-el."
-: "The pact holds through all time." (Oath formula.)
+"Dhárison ghélathen ris tálparo."
+: "Faith holds through a long age." (Oath formula.)
 
-"Sires en thal-kír, sires en thal-dûn."
-: "The people of light, the people of darkness." (Archaic dualistic reference.)
+"Sorethendi áulira, sorethendi náldursa."
+: "The kin of light, the kin of darkness." (Archaic dualistic reference.)
 
 ## Naming Traditions
 
@@ -3090,76 +3589,76 @@ A man's name closes on a consonant, as the masculine does, and needs no ending; 
 
 The names are older than most of the words. A name element is the stem of a word, often a word the tongue has since lost or let shrink to the name alone, and the Tradition Keepers hold the meaning of each. The table gives each with its sense, and with the word it is the stem of where the lexicon has that word.
 
-| Element | Sense            | Word        |
-| ------- | ---------------- | ----------- |
-| `ael`   | first light      | —           |
-| `kir`   | light            | —           |
-| `sil`   | song             | —           |
-| `sir`   | living water     | —           |
-| `than`  | the deep dark    | —           |
-| `dul`   | deep             | —           |
-| `thal`  | shadow           | —           |
-| `tal`   | standing stone   | —           |
-| `nel`   | snow             | `nélamis`   |
-| `khal`  | hall             | —           |
-| `mogh`  | memory           | —           |
-| `mir`   | ground, footing  | —           |
-| `ron`   | summit, horn     | —           |
-| `ken`   | kindred          | —           |
-| `dhar`  | oath, the Pact   | —           |
-| `gan`   | pass, gate       | —           |
-| `k'ar`  | kept fire        | `k'áralson` |
-| `t'en`  | unbroken         | —           |
-| `g'ol`  | root             | —           |
-| `sath`  | wind off the ice | —           |
-| `tir`   | pasture          | —           |
-| `ur`    | elder            | `uron`      |
-| `lor`   | keeper           | —           |
-| `dran`  | thunder          | —           |
-| `red`   | peace            | `redha`     |
-| `thaur` | keeping          | `thaurand`  |
-| `ghulm` | horse            | `ghulm`     |
-| `semr`  | brother, sister  | `semroth`   |
+| Element | Sense            | Word       |
+| ------- | ---------------- | ---------- |
+| `ael`   | first light      | —          |
+| `kir`   | light            | `kiron`    |
+| `sil`   | song             | `sílderon` |
+| `sir`   | living water     | `sira`     |
+| `than`  | the deep dark    | —          |
+| `dul`   | deep             | `dulna`    |
+| `thal`  | shadow           | —          |
+| `tal`   | standing stone   | `talgis`   |
+| `nel`   | snow             | `nelis`    |
+| `khal`  | hall             | `khálalon` |
+| `mogh`  | memory           | `móghalon` |
+| `mir`   | ground, footing  | `mirgon`   |
+| `ron`   | summit, horn     | `rónithen` |
+| `ken`   | kindred          | —          |
+| `dhar`  | oath, the Pact   | `dharthon` |
+| `gan`   | pass, gate       | `ganthis`  |
+| `k'ar`  | kept fire        | `kárathon` |
+| `t'en`  | unbroken         | `tenthar`  |
+| `g'ol`  | root             | —          |
+| `sath`  | wind off the ice | —          |
+| `tir`   | pasture          | —          |
+| `ur`    | elder            | `uron`     |
+| `lor`   | keeper           | `lornand`  |
+| `dran`  | thunder          | —          |
+| `red`   | peace            | `redha`    |
+| `thaur` | keeping          | —          |
+| `ghulm` | horse            | —          |
+| `semr`  | brother, sister  | —          |
 
 ## Words {#words}
 
 ### The Pact, the oath and the keeping
 
-The Pact is never written, so the words for it are the oldest in the tongue and the most carefully said. An Áelendan who swears does not promise to do a thing; he puts himself under _semnalis_, a compact between two kins that the whole valley is witness to, and a man who breaks one owes _kuthresa_, a forfeit his kin pays with him. The worst sentence the elders can give is _enthodis_, the word the empire uses for exile. In the highlands it means being walked past the tree line and not let back, which is a death that takes longer.
+The Pact is never written, so the words for it are the oldest in the tongue and the most carefully said. An Áelendan who swears does not promise to do a thing; he puts himself under _dhárela_, a compact between two kins that the whole valley is witness to, and a man who breaks one owes _thengra_, a forfeit his kin pays with him. The worst sentence the elders can give is _ánkenis_, outlawry: being walked past the tree line and not let back, which is a death that takes longer.
 
-The verb at the heart of the field is _tháurathen_, to keep. The empire's speech kept the same word for its palace guard. The highlands kept it for what a Warden does to a spring, a grove or a cairn: stands by it, turns away whoever comes for it, and answers for it to the kin. A keeper is _thaurand_, and his duty, the whole of it, is _tháuralon_.
+The verb at the heart of the field is _ghélathen_, to keep. It is what a Warden does to a spring, a grove or a cairn: stands by it, turns away whoever comes for it, and answers for it to the kin. A keeper is _gheland_, and his duty, the whole of it, is _ghélalon_.
 
 ### Kin, the clan and the name
 
 A clan is its founder's name with an ending, "those of" him, and the word for kin is built the same way: _sorethendi_, those of one blood. Nobody in the highlands belongs to a household the way a Vylarian belongs to one, under a master who answers for him. The head of a household is _sorkhand_, a man who speaks for the hearth in council, and the council can overrule him.
 
-A child is _nurison_ until it is named, and the naming is the event. The genealogies, recited by the Tradition Keepers at every gathering, are lists of names and nothing else, and to have a name in them is to exist. An earned name, _kíramarlen_, is sung once at the gathering after the deed and is the bearer's from then on. A name inherited through a clan is _arlendi_, the same ending again. The lowland houses that claim Áelendan descent claim it in exactly these words, and the Keepers are the only people who can say whether the claim is true.
+A child is _lughon_ until it is named, and the naming is the event. The genealogies, recited by the Tradition Keepers at every gathering, are lists of names and nothing else, and to have a name in them is to exist. An earned name, _sílderon_, is sung once at the gathering after the deed and is the bearer's from then on. A name inherited through a clan is _arlendi_, the same ending again. The lowland houses that claim Áelendan descent claim it in exactly these words, and the Keepers are the only people who can say whether the claim is true.
 
 ### The lodge, the fire and the guest
 
-The lodge is a fire with a roof over it. Every hearth keeps _káralson_, the kept fire, which is banked at night and never let die, and a household whose fire goes out borrows a coal from a neighbor and owes for it. Where a guest sits is settled before he is fed: _sirothathen_ is to give a man his place at the fire, and _sirothalon_ is the order of the seats, worked out again for every gathering.
+The lodge is a fire with a roof over it. Every hearth keeps _kárathon_, the kept fire, which is banked at night and never let die, and a household whose fire goes out borrows a coal from a neighbor and owes for it. Where a guest sits is settled before he is fed: _máldathen_ is to give a man his place at the fire, and _máldalon_ is the order of the seats, worked out again for every gathering.
 
-Half the courtesy in this field came over the eastern pass from the [[lore-flksinale|Sinale]], and the loans are the gentler half. The native _dumaralon_ is guest-right as a duty: what the hall owes the man under its roof. The loan _éllepirsa_ is guest-right as a welcome, the word the Áelendan use for what passes between them and their neighbors in the wood. _Tárnepi_, bread, is a loan as well, because the first bread the band was given on the far side of the pass was Sinale bread, and the offering is still made with it.
+Half the courtesy in this field came over the eastern pass from the [[lore-flksinale|Sinale]], and the loans are the gentler half. The native _khálalon_ is guest-right as a duty: what the hall owes the man under its roof. The loan _éllepirsa_ is guest-right as a welcome, the word the Áelendan use for what passes between them and their neighbors in the wood. _Tárnepi_, bread, is a loan as well, because the first bread the band was given on the far side of the pass was Sinale bread, and the offering is still made with it.
 
 ### Herds, pasture and the high grass
 
-The Pelwar came out of the grasslands, and the highlands kept the grass words when they had little grass left to use them on. _Ghulm_, the horse, is the same word the empire uses for its cavalry. In a valley of the Spine it means the small hard-footed beast a herder rides up to the summer grazing, and the herd a clan keeps between its valleys is _ghulmalon_, a word the empire turned into an order of knights. The move up the mountain each spring, sheep and horses and families together, is _komrelalon_. In the coastal speech the same word names a country estate with slaves.
+The Pelwar came out of the grasslands, and the highlands kept the grass words when they had little grass left to use them on. _Drun_, the horse, is the small hard-footed beast a herder rides up to the summer grazing in a valley of the Spine, and the herd a clan keeps between its valleys is _drúnalon_. The move up the mountain each spring, sheep and horses and families together, is _tírnalon_.
 
 ### Mountain, snow and stone
 
-The Áelendan live where the snow lies half the year, and the snow word is one they share with the empire: _nélamis_. The coastal speech means a thing seen on the far peaks. In the highlands it is the condition of life from autumn to the thaw, and winter is simply _nélamesa_, the snow-time. A valley is _neralis_, a tarn in its corrie _tholmara_, and a torrent in spate _ilaras_, the word the empire keeps for its one great river and declines as a god.
+The Áelendan live where the snow lies half the year, and the snow word is _nelis_. It is the condition of life from autumn to the thaw, and winter is simply _neldra_, the snow-time. A valley is _dulgis_, a tarn in its corrie _dulna_, and a torrent in spate _sirthal_.
 
-Stone is cut for two purposes, to raise as a boundary and to cover the dead. _Dorkima_ is a pillar, _althokis_ a dressed block, and _grumalon_ the cut in a hillside where the stones for a ring were taken, which is left open and never quarried again.
+Stone is cut for two purposes, to raise as a boundary and to cover the dead. _Talgis_ is a pillar, _kerthis_ a dressed block, and _tálkeron_ the cut in a hillside where the stones for a ring were taken, which is left open and never quarried again.
 
 ### The body, life and death
 
-The dead are buried under cairns, a stone for each kinsman who comes to the burial, so the size of a cairn is the size of a life. A single grave is _dhemrolon_. The field of cairns at the edge of a valley is _dhemrolara_, and the same word in imperial Vylari names the rows of tombs along the roads out of a city. The Sinale words for death and grief, which the Áelendan use beside these, stand under the rites.
+The dead are buried under cairns, a stone for each kinsman who comes to the burial, so the size of a cairn is the size of a life. A single grave is _ghromon_. The field of cairns at the edge of a valley is _ghrómalon_. The Sinale words for death and grief, which the Áelendan use beside these, stand under the rites.
 
 ### Light, sky and the turning year
 
 Here the two layers of the tongue lie side by side. The day and the month are inherited words, the ones the band brought over the pass. The sun and the moon, the light itself and the hours when it changes are Sinale: _khirkel_, the sun, _sotel_, the moon, _áulira_, light, _írpalo_, dawn, _ólpessa_, the long dusk, and _nupa_, starlight, the Sinale's own word for what they are. An Áelendan says _núpanu_ for a star and _nupa_ for the light it gives, and does not hear the two as belonging to different tongues.
 
-The year is counted from the crossing, _serthasis_, the word the empire uses for the founding of its capital.
+The year is counted from the crossing, _ganthis_.
 
 ### Water and the wood's weather
 
@@ -3181,21 +3680,21 @@ A rite is done the way the Sinale showed it, so its words are theirs, and the bu
 
 ### Song, speech and the letters
 
-The Kindred Pact lives in the mouth, and the people who carry it are the Tradition Keepers, the _loresand_: the word the empire uses for a lecturer at its University, and which here means a reciter, one who says the old words aloud at the gathering exactly as they were said to him. To recite is _loresathen_; an account of what was done, which in the empire is a history book, is _oldhemon_, a recitation that is never written down.
+The Kindred Pact lives in the mouth, and the people who carry it are the Tradition Keepers, the _lornand_: a reciter, one who says the old words aloud at the gathering exactly as they were said to him. To recite is _lórnethen_; an account of what was done is _moghon_, a recitation that is never written down.
 
-Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrvrdhscrpt|Thurarth]], their own rune-row, and a stave of it is _semarson_, the word the empire uses for one letter of its script. What they write with ink they write in the Sinale hand, the [[skill-clthndscrpt|Veldikko]], which they call _példirno_; its scribe is _példinno_, and a roll of names kept in it _sírnerno_. These words came with the hand, a band of loans later than the rest.
+Letters are a borrowing, and late. The Áelendan cut a few words in [[skill-thrvrdhscrpt|Thurarth]], their own rune-row, and a stave of it is _ugrin_. What they write with ink they write in the Sinale hand, the [[skill-clthndscrpt|Veldikko]], which they call _példirno_; its scribe is _példinno_, and a roll of names kept in it _sírnerno_. These words came with the hand, a band of loans later than the rest.
 
 ### The Wardens and the border
 
-The Áelendan keep no army and have needed one rarely, and the war words they inherited have shrunk to the size of the border they hold. _Kamdor_ is the empire's word for a general; here it is the one who leads the Wardens of a valley. _Thurgeson_, a siege in the coastal speech, is the holding of a pass against whoever is coming up it. The word for peace is the one the whole family shares, _redha_, and in the highlands it means the quiet between neighbors more than the end of a war.
+The Áelendan keep no army and have needed one rarely, and the war words they inherited have shrunk to the size of the border they hold. The _uldar_ is the one who leads the Wardens of a valley. _Gandurth_ is the holding of a pass against whoever is coming up it. The word for peace is the one the whole family shares, _redha_, and in the highlands it means the quiet between neighbors more than the end of a war.
 
 ### Craft and the metals
 
-A smith in the highlands works bronze and copper more than iron, and the metal words are the inherited ones. The verb _kelthathen_, which in the empire means to keep a guild's secret, means here what it meant before the guilds: to keep a craft in one family, taught to sons and daughters and to nobody else.
+A smith in the highlands works bronze and copper more than iron, and the metal words are the inherited ones. The verb _múghathen_ means to keep a craft in one family, taught to sons and daughters and to nobody else.
 
 ### Doing, going and being
 
-The verbs are almost all inherited, and every inherited verb closes on the old infinitive ending, as _tigathen_ (to go) and _okhethen_ (to see) do. The few Sinale verbs in the tongue belong to the veil and the wood, and keep the Sinale shape.
+The verbs are almost all inherited, and every inherited verb closes on the old infinitive ending, as _rógathen_ (to go) and _nórethen_ (to see) do. The few Sinale verbs in the tongue belong to the veil and the wood, and keep the Sinale shape.
 
 ### Numbers and grammar words
 

@@ -112,14 +112,14 @@ Each person carries smaller things. A hedge-affiliate carries a knotted cord of 
 
 On an ordinary day the religion is small and local. The Élavendren worship the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], with [[lore-lusiniadty|Lusinia]] the World-Weaver and [[lore-zunelasdty|Zunelas]] the Veiled Dreamer held in special prominence, and no Élavendren sets the gods and the older spirits of the land against each other. Sacred groves, standing stones and holy wells serve beside the temples. A household leaves a loaf, _tárneve_, at a birch, a well or a stone and does not wait to see it taken. A village healer or herbalist who walks in [[affiliation-groveconcl|the Grove Council]]'s tradition is the person a sick child is taken to, and a grove-elder is heeded before any sheriff.
 
-The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _shírothalon_, which is worked out again at every gathering, and the right of the guest under the roof, _dyemaralon_, is not argued.
+The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _máldalon_, which is worked out again at every gathering, and the right of the guest under the roof, _háelalon_, is not argued.
 
 ## The Round of the Year
 
 The turning of the seasons is marked by elaborate festivals that honor the gods and the older spirits of the land together. The ones that bind the kingdom are those where its old institutions meet.
 
 - **The hinge-days** are the equinoxes and solstices, when the Grove Council gathers at the great groves. They are for deciding what the forests need, what the fae are owed and what the kingdom must refuse [[affiliation-ordoarcanis|the Order]].
-- **The feast**, _lórdemon_, is a gathering with food at which the genealogies are sung. A house gives it on its own occasions and a bard of the house sings the line. It is for renewing a claim of descent in the hearing of everyone who might dispute it.
+- **The feast**, _kurnis_, is a gathering with food at which the genealogies are sung. A house gives it on its own occasions and a bard of the house sings the line. It is for renewing a claim of descent in the hearing of everyone who might dispute it.
 - **The autumn fair at [[place-elanmere|Elanmere]]** brings tribal families down to camp on the lake shore rather than enter the walls, and the high country trades with the low. It is for trade face to face, and for a house's claim of descent to be heard by people who remember the genealogy differently.
 - **The crowning** is where the monarch swears that the crown stops at the tree line. It is for saying again, in the basin, where the kingdom ends.
 
@@ -127,7 +127,7 @@ The turning of the seasons is marked by elaborate festivals that honor the gods 
 
 Reward is standing: a place in the first rank, a bard of note at the table, a College's proof of descent, a village that counts the grove-elder as its own. A great bard's song is the reward that lasts, since a deed sung well is remembered longer than a deed done.
 
-Penalty runs from courtesy to the tree line. A house that produces no artists and no mages across two generations quietly stops being counted among the first rank. A bard of standing may sing a satire, and the law recognizes a satire as a weapon. A king who crosses a grove-elder finds his harvests strange, his hunts empty and his soldiers reluctant to march into forest country. A trespasser in sacred territory is warned once and escorted out, and one who returns or desecrates is dealt with harshly by the [[affiliation-alndnwrdns|Wardens]]. A person outlawed, _énthodis_, is walked past the tree line and known to the realm only as one it has excluded.
+Penalty runs from courtesy to the tree line. A house that produces no artists and no mages across two generations quietly stops being counted among the first rank. A bard of standing may sing a satire, and the law recognizes a satire as a weapon. A king who crosses a grove-elder finds his harvests strange, his hunts empty and his soldiers reluctant to march into forest country. A trespasser in sacred territory is warned once and escorted out, and one who returns or desecrates is dealt with harshly by the [[affiliation-alndnwrdns|Wardens]]. A person outlawed, _ánkenis_, is walked past the tree line and known to the realm only as one it has excluded.
 
 ## The Crown, the Circle and the Grove
 
@@ -139,7 +139,7 @@ A case is tried by the royal courts in the cities and shires and by the grove-el
 
 The Aureldian faiths teach that the soul passes through the spirit realm and that the Silent Judge [[lore-selmorosdty|Sélmoros]] keeps the gate. The Élavendri add what the land adds. The dead are part of the house, and the house is the whole descending line, living and not. The veil between the worlds is thin in Élavendre, and the dead lie in a country where it can be crossed. The Áelendan send a Death-Speaker to the owl-spirit of [[place-owlhollow|the Owl Hollow]] to ask whether the recently dead have gone.
 
-That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvosalve_, and sings the lament at the cairn, _nélthava_. A debt of honor, _óurenon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
+That belief makes an ordinary day. A house names its dead at the feast, since the genealogies sung there are the dead in the one place where they are kept. A family plants a tree for one of the dead, _sélvosalve_, and sings the lament at the cairn, _nélthava_. A debt of honor, _molthon_, outlasts the person who owed it and falls on the line. A noble pays a College to prove descent because the proof is an inheritance of the dead as much as of the living, and a house that lets its talent lapse has failed its dead as well as its heirs. Money goes into the proof, the bard, the cairn, the tree and the patronage of the arts the house is judged by.
 
 ## Reaching the Dead
 
@@ -153,7 +153,7 @@ Ask an Élavendri what a person owes, and he answers: the house first, and by ho
 
 Last he owes the Pact—the old arrangement with the Áelendan and with what was here before anyone—and he will not explain it to a foreigner, partly from courtesy and partly because he is not entirely sure of the terms himself.
 
-In return a person is owed the house's name and protection, the land's keeping by the lord whose rank exists for it, a hearing that is courteous and slow, and a place at the fire under _dyemaralon_. The crown owes its people the tree line held and its lords the stewardship that justifies their rank.
+In return a person is owed the house's name and protection, the land's keeping by the lord whose rank exists for it, a hearing that is courteous and slow, and a place at the fire under _háelalon_. The crown owes its people the tree line held and its lords the stewardship that justifies their rank.
 
 ## The Weak
 
