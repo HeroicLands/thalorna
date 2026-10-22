@@ -1880,36 +1880,6 @@ data:
       - {edge: openCluster, sounds: [tr, dr, kr, gr, thr, khr, ghr]}
       - {edge: closeConsonant, sounds: [k, l, n, r, s, ks, lm, nd, th, rth]}
     clusters: {max: 3}
-  soundChanges:
-    - name: From ancient Vylari
-      from: skill-vylarilng
-      to: skill-aelendlng
-      steps:
-        - {step: A1, change: "`p ph b w h` > `—`", where: anywhere}
-        - {step: A2, change: "`y` > `—`; `z` > `s`; `x` > `ks`", where: anywhere}
-        - {step: A3, change: "like vowels merge, long"}
-        - {step: A4, change: "unlike vowels merge to the first, long"}
-        - {step: A5, change: "`andis` > `di`", where: word end and after `n`}
-        - {step: A6, change: "`andis` > `ndi`", where: word end and after a vowel}
-        - {step: A7, change: "`andis` > `Vndi`", where: word end}
-        - {step: A8, change: "`os` > `—`; `a` > `a`", where: word end}
-        - {step: A9, change: stress moves to the first syllable}
-        - {step: A10, change: "`a ê î ô û` > `a e i o u`", where: unstressed syllable}
-        - step: A11
-          change: "acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more"
-    - name: Sinale loans
-      from: skill-sinalelng
-      to: skill-aelendlng
-      steps:
-        - {step: S1, change: "`aa ee ii oo uu yy eë` > `a ê î ô û î ê`", where: anywhere}
-        - {step: S2, change: "`y` > `i`; `ë` > `e`", where: anywhere}
-        - {step: S3, change: "`rh` > `r`", where: anywhere}
-        - {step: S4, change: "`ah eh ih oh uh` > `a ê î ô û`", where: before a consonant}
-        - {step: S5, change: "`h` > `kh`", where: anywhere}
-        - {step: S6, change: "`v` > `p`; `w` > `g`", where: anywhere}
-        - {step: S7, change: stress moves to the first syllable}
-        - step: S8
-          change: "acute on a stressed short vowel, circumflex on a long one of a word of two syllables or more"
   tongues:
     - {tag: aelendi, meaning: an Áelendi name, language: skill-aelendlng}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -2017,7 +1987,7 @@ sohl:
 
 Áelendi represents a direct descent from the ancient Pelwar tongue (see [[lore-pelwarpepl|Pelwar People]]), preserved with minimal change over millennia. The Áelendan deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss. New concepts are incorporated through loan translation (creating new words from ancient roots) rather than loanwords.
 
-The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sources, the rules that make them, and the elements the names are built from.
+The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sources and the elements the names are built from.
 
 ## How Áelendi sounds
 
@@ -2150,21 +2120,21 @@ The roots are ordinary vocabulary, and a speaker hears the sense as he hears the
 
 At a gathering in [[place-eshalshldg|Ésalosa]], before anything is decided, a Tradition Keeper stands and recites the names. He begins with the band that crossed the eastern pass and comes down, founder by founder and clan by clan, to the people sitting at the fire, and he does not hurry, because a name left out has stopped existing. Every name he says is an Áelendi word, and so is every word he uses to join them. Half the words for the wood outside came from the Sinale, and the Áelendan count them as their own.
 
-This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the daughter of ancient [[skill-vylarilng|Vylari]] that left first and changed least: it still says the clicked stops the empire's speech gave up, and it lost only the sounds made with the lips. It is also the only daughter that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the rules that turn an ancient word or a Sinale one into Áelendi, and the pieces the names are built from.
+This is the word-hoard of Áelendi, the tongue of the [[lore-aelendnppl|Áelendan]]. It is the daughter of ancient [[skill-vylarilng|Vylari]] that left first and changed least: it still says the clicked stops the empire's speech gave up, and it lost only the sounds made with the lips. It is also the only daughter that took a whole second layer of words from a neighbor. The [[lore-flksinale|Sinale]] of the deep wood taught the band that crossed the pass how to keep the wood, and the words came with the keeping: the trees, the water below the snow line, the veil and the thin places, the rites and the hand the Áelendan write in. This page gives every word with its source, the pieces the names are built from.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. An inherited word names its ancient Vylari form and a loan its Sinale form, marked as the table of sources below sets out, and the word is exactly what the changes make of that form. Its meaning is given in Áelendi, which is often not its meaning in imperial Vylari. A word made of smaller parts names the Áelendi words and suffixes it is made of.
+An entry gives the word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. An inherited word names its ancient Vylari form and a loan its Sinale form, marked as the table of sources below sets out. Its meaning is given in Áelendi, which is often not its meaning in imperial Vylari. A word made of smaller parts names the Áelendi words and suffixes it is made of.
 
 ### Sources
 
-| Source    | From                                        | By                | Meaning                                                                                                                              |
-| --------- | ------------------------------------------- | ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| `*`       | [[skill-vylarilng#lexicon\|Vylari Lexicon]] | ### Sound changes | inherited: the ancient Vylari form, as the Vylari lexicon gives it                                                                   |
-| `kept:`   | —                                           | ### Sound changes | inherited from an ancient form the empire's speech lost; the scholars know it only from Áelendi                                      |
-| `worn:`   | —                                           | —                 | a small word worn down further than the changes take it; the ancient form is named, and the Áelendi form is not made from it by rule |
-| `sinale:` | [[skill-sinalelng#lexicon\|Sinale Lexicon]] | ### Sinale loans  | a loan from Sinale: the Sinale form, as the Sinale lexicon gives it                                                                  |
-| `built`   | —                                           | —                 | made in Áelendi from the words of this lexicon; the Built from cell says how                                                         |
+| Source    | From                                        | Meaning                                                                                         |
+| --------- | ------------------------------------------- | ----------------------------------------------------------------------------------------------- |
+| `*`       | [[skill-vylarilng#lexicon\|Vylari Lexicon]] | inherited: the ancient Vylari form, as the Vylari lexicon gives it                              |
+| `kept:`   | —                                           | inherited from an ancient form the empire's speech lost; the scholars know it only from Áelendi |
+| `worn:`   | —                                           | a small word worn down; the ancient form is named                                               |
+| `sinale:` | [[skill-sinalelng#lexicon\|Sinale Lexicon]] | a loan from Sinale: the Sinale form, as the Sinale lexicon gives it                             |
+| `built`   | —                                           | made in Áelendi from the words of this lexicon; the Built from cell says how                    |
 
 ### Fields
 
@@ -2179,7 +2149,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The tongue has no `f`, no `v`, no `b`, no `h` alone and no `w`: every sound the ancient tongue made with the lips fell away. A Sinale `v` is said `p`, the one lip sound the Áelendan learned to make for their neighbors' words, and a Sinale `w` is said `g`. So the yew, _eiva_ in the Sinale's mouth, is _eipa_ in an Áelendan's.
+The tongue has no `f`, no `v`, no `b`, no `h` alone and no `w`: every sound the ancient tongue made with the lips fell away. A Sinale `v` is said `p`, the one lip sound the Áelendan learned to make for their neighbors' words, and a Sinale `w` is said `g`. So the yew, _eiva_ in the Sinale's mouth, is _eipa_ in an Áelendan's. Hearing the tongue, a scholar of the empire is hearing the ancient tongue with its lips closed.
 
 ### Word edges
 
@@ -2199,35 +2169,11 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-aelendlng'
 ```
 
-## From ancient Vylari {#from-ancient-vylari}
-
-Eleven changes, in this order, make an Áelendi word of an ancient one. The lip sounds and `h` fell, and the vowels they had stood between ran together: like vowels into one long vowel, unlike ones into the first, lengthened. `y` fell the same way, `z` became `s` and `x` became `ks`. The old ending _-is_ became the clan ending, its vowel copied from the stem. The masculine ending fell, leaving the bare stem, and the feminine one shortened. Then the stress moved to the first syllable, and every long vowel behind it was said short. So _preja_ (peace) is _redha_, _ghulmos_ (a horse) is _ghulm_, and _soretis_ (those of one blood) is _sorethendi_.
-
-### Sound changes
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-aelendlng' AND name = 'From ancient Vylari'
-ORDER BY step_position
-```
-
-The clicked stops, the breathed `dh` and `gh` and the long vowels of the first syllable all pass through unchanged. That is what makes Áelendi the conservative daughter: hearing it, a scholar of the empire is hearing the ancient tongue with its lips closed.
-
 ## The Sinale loans {#the-sinale-loans}
 
 When the band came over the eastern pass, about two thousand one hundred years ago, the Sinale met them at the lowest pool and set a watch at [Talve]{.name data-type="place/site"}, and what they taught was the wood: "You learn it: tree, path, pool. And there are places where it's thin." The words came with the teaching. They are thickest where the teaching was, in the trees, the water below the snow line, the veil and the rites, and they are absent from the herds, the kin, the body, the numbers and the oath, which the band brought with it. A second band of loans came later with the [[skill-clthndscrpt|Veldikko]], the Sinale hand. The loans are almost all nouns. No pronoun, number, kin word, part of the body or ending was ever borrowed, and no given name, because names are inherited.
 
-A Sinale word is said in Áelendi by the changes below. Doubled vowels become long ones; `y` and `ë` become `i` and `e`; `rh` becomes `r`; an `h` before a consonant falls and lengthens the vowel before it, and any other `h` becomes `kh`; `v` becomes `p` and `w` becomes `g`; and the stress moves to the first syllable. A loan noun takes its gender from its last sound: feminine on `-a`, neuter on any other vowel, masculine on a consonant.
-
-### Sinale loans
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-aelendlng' AND name = 'Sinale loans'
-ORDER BY step_position
-```
+A loan noun takes its gender from its last sound: feminine on `-a`, neuter on any other vowel, masculine on a consonant.
 
 The Áelendan do not count these words as borrowed. Asked, a Keeper says that they came with the keeping of the wood, and that a thing kept is part of the people who keep it. What the Áelendan refuse are the lowland words and the empire's: for a new thing from below they coin a word from their own roots, and a lowland word said in council is said once and corrected.
 
@@ -2375,7 +2321,7 @@ The verbs are almost all inherited, and every inherited verb closes on the old i
 
 ### Numbers and grammar words
 
-The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn further than the changes alone would take them, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
+The numbers and the small words are the most worn part of any tongue, and Áelendi is no exception. A few of them have worn down further, and these are marked as worn, with the ancient form they come from. The article _al_ is the old "yonder" worn to its first syllable, the same word imperial Vylari is wearing down in the streets of [[place-alyssa|Alessa]].
 
 ## Attested names {#attested-names}
 

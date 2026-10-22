@@ -3452,16 +3452,9 @@ data:
       - "Iltheris"
   sounds:
     edges:
-      - {edge: openCluster, sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
+      - {edge: openCluster, sounds: [st, pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
       - {edge: closeConsonant, sounds: [s, n, r, l]}
     clusters: {max: 3}
-  soundChanges:
-    - name: From ancient to imperial
-      steps:
-        - {step: V1, change: "`t' d' k' g'` > `t d k g`", where: anywhere}
-        - {step: V2, change: "`dh` > `z`; `gh` > `g`", where: anywhere}
-        - {step: V3, change: "`w` > `v`", where: anywhere}
-        - {step: V4, change: "`b` > `v`", where: between vowels}
   cognates:
     - forms:
         skill-vylarilng: ulthathen
@@ -4665,7 +4658,7 @@ data:
     - tag: other:<tongue>
       meaning: "a name in another tongue of the setting, as its speakers give it"
     - {tag: other, meaning: a name in no tongue these pages name}
-    - {tag: ancient, meaning: "a letter of ancient Vylari, before the sound changes"}
+    - {tag: ancient, meaning: "a letter of ancient Vylari"}
   register:
     - {name: Thordimalon, tongue: vylari}
     - {name: Revothar Baremzator, tongue: vylari}
@@ -6111,7 +6104,7 @@ Vylari is crisp and clipped, the speech of law and the court. Most words have tw
 
 ## Phonology
 
-**Consonants.** Imperial Vylari has the stops _p t k b d g_, the breathed stops _f_ and _th_, the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (_t' k' d' g'_), voiced stops with a breath after them (_dh gh_), and _w_; four sound changes turned it into the imperial system, and the [[skill-vylarilng#lexicon|Vylari Lexicon]] sets them out.
+**Consonants.** Imperial Vylari has the stops _p t k b d g_, the breathed stops _f_ and _th_, the hissed _s_ and buzzed _z_, _v_, _h_, _m n l r_, and _y_ before a vowel. The contrast between plain and breathed stops tells words apart, and a foreigner who says every _th_ as a plain _t_ is understood with an effort. Ancient Vylari had a third series of stops closed hard in the throat and released with a click (_t' k' d' g'_), voiced stops with a breath after them (_dh gh_), and _w_; imperial Vylari has none of these.
 
 **Vowels.** Five vowels, _a e i o u_, each short or long. A long _a_, _i_ or _u_ is written double (_aa_, _ii_, _uu_); a long _e_ or _o_ is written single. Three diphthongs: _ai au oi_.
 
@@ -6333,7 +6326,7 @@ The language page sets out the grammar. This page carries the words.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the imperial word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. The ancient form stands beside it, and the imperial form is exactly what the sound changes below make of it. A word made of smaller parts names the imperial words, stems and suffixes it is made of, joined by `+`, and the form is exactly what they give. A stem is written with a hyphen after it.
+An entry gives the imperial word as it is cited: a noun in its basic form, an adjective in its masculine, a verb in its infinitive. The ancient form stands beside it. A word made of smaller parts names the imperial words, stems and suffixes it is made of, joined by `+`, and the form is exactly what they give. A stem is written with a hyphen after it.
 
 ### Fields
 
@@ -6366,20 +6359,7 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-vylarilng'
 ```
 
-## From ancient to imperial {#from-ancient-to-imperial}
-
-Four changes, in this order, turn every ancient word into its imperial form, and the lexicon's Form column is what they give. The clicked stops lost their click; the breathed voiced stops became `z` and `g`; `w` became `v`; and `b` softened to `v` between two vowels. So _dharon_ (an oath) became _zaron_, _k'aralzon_ (the kept fire) became _karalzon_, and _labura_ (an ancestor's mask) became _lavura_.
-
-### Sound changes
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-vylarilng' AND name = 'From ancient to imperial'
-ORDER BY step_position
-```
-
-Two more changes belong to speech and are never written. In ordinary talk a long vowel in an unstressed syllable is said short, so the street clips the vowel; a speaker of High Vylari holds every length, and the difference marks his education as clearly as his clothes. In the [[place-hylen|Hilen]] lowlands `th` is said `s`, and a Hilen man's _sorimos_ (a poet) and his _thilos_ (a scribe) begin alike, with a hiss.
+Two habits of speech are never written. In ordinary talk a long vowel in an unstressed syllable is said short, so the street clips the vowel; a speaker of High Vylari holds every length, and the difference marks his education as clearly as his clothes. In the [[place-hylen|Hilen]] lowlands `th` is said `s`, and a Hilen man's _sorimos_ (a poet) and his _thilos_ (a scribe) begin alike, with a hiss.
 
 ## Building words {#building-words}
 

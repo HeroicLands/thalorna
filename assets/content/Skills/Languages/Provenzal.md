@@ -1719,56 +1719,6 @@ data:
       - {edge: openCluster, sounds: [pr, pl, tr, kr, kl, br, bl, dr, gr, gl, fr, fl, thr]}
       - {edge: closeConsonant, sounds: [l, n, r, s, th]}
     clusters: {max: 3}
-  soundChanges:
-    - name: From ancient Vylari
-      from: skill-vylarilng
-      to: skill-provnzlng
-      steps:
-        - {step: P1, change: "`t' d' k' g'` > `t d k g`", where: anywhere}
-        - step: P2
-          change: "`ph` > `f`; `kh` > `ch`; `gh` > `g`; `h` > `—`; `x` > `s`"
-          where: anywhere
-        - {step: P3, change: "`th dh` > `t d`", where: word start}
-        - {step: P4, change: "`w` > `v`", where: anywhere}
-        - {step: P5, change: "`y` > `j`", where: word start}
-        - {step: P6, change: "`y` > `i`", where: anywhere}
-        - step: P7
-          change: "`p b` > `v`; `t` > `d`; `d` > `dh`; `k g` > `v`"
-          where: after a vowel or a liquid and before a vowel
-        - step: P8
-          change: "`an an` > `ã`; `en en in in` > `ẽ`; `on on un un` > `õ`"
-          where: before a vowel
-        - {step: P9, change: "`an` > `a`; `en` > `e`; `os on on en un` > `—`", where: word end}
-        - {step: P10, change: "`CC` > `CCe`", where: word end}
-        - step: P11
-          change: "`th dh z m ch v d t k g b p f` > `the dhe ze me che ve de te ke ge be pe fe`"
-          where: word end
-        - {step: P12, change: "`a ê î ô û` > `a e i o u`", where: anywhere}
-        - {step: P13, change: stress moves to the penultimate or final}
-        - {step: P14, change: grave on the stressed vowel}
-    - name: Vylari loans
-      from: skill-vylarilng
-      to: skill-provnzlng
-      steps:
-        - step: L1
-          change: "`ph` > `f`; `kh` > `ch`; `h` > `—`; `x` > `s`; `y` > `j`"
-          where: anywhere
-        - {step: L2, change: "`th` > `t`", where: word start}
-        - {step: L3, change: "`os on` > `o`", where: word end}
-        - {step: L4, change: "`a ê î ô û` > `a e i o u`", where: anywhere}
-        - {step: L5, change: stress moves to the penultimate or final}
-        - {step: L6, change: grave on the stressed vowel}
-    - name: Élavendri loans
-      from: skill-elvndrlng
-      to: skill-provnzlng
-      steps:
-        - {step: R1, change: "`ë` > `e`", where: anywhere}
-        - {step: R2, change: "`ye` > `iu`; `ae` > `ai`; `ie` > `i`", where: anywhere}
-        - {step: R3, change: "`y` > `i`", where: anywhere}
-        - {step: R4, change: "`sh` > `ch`; `h` > `—`", where: anywhere}
-        - {step: R5, change: "`CC` > `CCe`", where: word end}
-        - {step: R6, change: stress moves to the penultimate or final}
-        - {step: R7, change: grave on the stressed vowel}
   tongues:
     - {tag: provenzal, meaning: a Provenzal name}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -2145,7 +2095,7 @@ Provenzal speakers pride themselves on the liquid grace of their language. Where
 
 The language is inseparable from [[lore-provenzianclt|Provenzal]] culture: love songs and courtly poetry are composed in Provenzal, sung by traveling bards, and memorized by citizens of all classes. To speak Provenzal without grace is considered a personal failing.
 
-The [[skill-provnzlng#lexicon|Provenzal Lexicon]] gives the words with their sources, the inherited and the learned side by side, and the rules that make them.
+The [[skill-provnzlng#lexicon|Provenzal Lexicon]] gives the words with their sources, the inherited and the learned side by side.
 
 ## How Provenzal sounds
 
@@ -2286,17 +2236,17 @@ This is the word-hoard of Provenzal, the tongue of the Provenzians. It is the da
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word as it is cited: a noun or an adjective in its one form, a verb in its infinitive. An inherited word names its ancient Vylari form and a loan the imperial Vylari or Élavendri word it was taken from, marked as the table of sources below sets out, and the word is exactly what the changes make of that form. Its meaning is given in Provenzal. A word made of smaller parts names the Provenzal words and suffixes it is made of.
+An entry gives the word as it is cited: a noun or an adjective in its one form, a verb in its infinitive. An inherited word names its ancient Vylari form and a loan the imperial Vylari or Élavendri word it was taken from, marked as the table of sources below sets out. Its meaning is given in Provenzal. A word made of smaller parts names the Provenzal words and suffixes it is made of.
 
 ### Sources
 
-| Source       | From                                           | By                  | Meaning                                                                                                                      |
-| ------------ | ---------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| `*`          | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | ### Sound changes   | inherited: the ancient Vylari form, as the Vylari lexicon gives it; the changes start from that form                         |
-| `vylari:`    | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | ### Vylari loans    | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it                                |
-| `elavendri:` | [[skill-elvndrlng#lexicon\|Élavendri Lexicon]] | ### Élavendri loans | a loan from Élavendri: the Élavendri form, as the Élavendri lexicon gives it                                                 |
-| `worn:`      | —                                              | —                   | a small word worn down further than the changes take it; the ancient form is named, and the form is not made from it by rule |
-| `built`      | —                                              | —                   | made in Provenzal from the words of this lexicon; the Built from cell says how                                               |
+| Source       | From                                           | Meaning                                                                                       |
+| ------------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `*`          | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | inherited: the ancient Vylari form, as the Vylari lexicon gives it                            |
+| `vylari:`    | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it |
+| `elavendri:` | [[skill-elvndrlng#lexicon\|Élavendri Lexicon]] | a loan from Élavendri: the Élavendri form, as the Élavendri lexicon gives it                  |
+| `worn:`      | —                                              | a small word worn down; the ancient form is named                                             |
+| `built`      | —                                              | made in Provenzal from the words of this lexicon; the Built from cell says how                |
 
 ### Fields
 
@@ -2331,46 +2281,13 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-provnzlng'
 ```
 
-## From ancient Vylari {#from-ancient-vylari}
-
-Provenzal takes each word from its ancient form. Fourteen changes, in this order, make a Provenzal word of it. The clicked stops lost their click; the breathed stops became `f`, `ch` and plain `g`, and `h` fell; `th` and `dh` lost their breath at the start of a word, so that no native word opens on them; `w` became `v` and `y` became `j` at the start of a word and `i` elsewhere. Then the consonants softened between vowels: `p` and `b` became `v`, `t` became `d`, `d` became `dh`, and `k` and `g` became `v`. An `n` between two vowels fell and left the vowel before it nasal. The ancient endings fell, the feminine keeping its _-a_; a word left closing on two consonants, or on a consonant the tongue does not close on, took a support _-e_; the long vowels shortened; and the stress moved to the next-to-last syllable of a word ending on a vowel, or the last of one ending on a consonant.
-
-So the ancient _weramis_ (a city) is _veramis_, and the ancient _yunakos_ (a recruit) is _joache_.
-
-### Sound changes
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-provnzlng' AND name = 'From ancient Vylari'
-ORDER BY step_position
-```
-
 ## The learned words {#the-learned-words}
 
 The empire's law books, its coins and its University gave Provenzal a second layer of words, taken from imperial Vylari as it is written and not as it was inherited. A learned word keeps its consonants hard between vowels and keeps a final _-o_ where the inherited word lost its ending, so the two forms of one root stand side by side: _nasdal_ and _nasdalo_, _marendal_ and _marendalo_. The inherited word belongs to the street and the household, the learned one to the notary and the academy.
 
-### Vylari loans
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-provnzlng' AND name = 'Vylari loans'
-ORDER BY step_position
-```
-
 ## The words from the north {#the-words-from-the-north}
 
 Provenzal had little to say about light, dream, longing or the uncanny, and it borrowed what it lacked from [[skill-elvndrlng|Élavendri]] across the northern border. The loans came with the songs, and the lyric is still where they live.
-
-### Élavendri loans
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-provnzlng' AND name = 'Élavendri loans'
-ORDER BY step_position
-```
 
 ## Building words {#building-words}
 
@@ -2490,7 +2407,7 @@ A verb is cited by its infinitive, which every native verb closes on _-athe_ or 
 
 ### Numbers and grammar words
 
-The three pointing words of the ancient tongue all became articles, and a Provenzian chooses among them as a speaker of another tongue chooses a tone of voice: _de_ for what is near and his own, _te_ for what is the listener's, and _at_ for what is far, famous or past. The copula is _ez_. These small words wore down past what the changes give, and stand here with the ancient forms they came from.
+The three pointing words of the ancient tongue all became articles, and a Provenzian chooses among them as a speaker of another tongue chooses a tone of voice: _de_ for what is near and his own, _te_ for what is the listener's, and _at_ for what is far, famous or past. The copula is _ez_. These small words wore down, and stand here with the ancient forms they came from.
 
 ## Attested names {#attested-names}
 

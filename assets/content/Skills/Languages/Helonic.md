@@ -1186,22 +1186,6 @@ data:
       gloss: "the chorus, the company of the play"
     - forms: {skill-helonclng: thresos, skill-byzarnlng: tresos, skill-bethunlng: thresos}
       gloss: "a vote, a cast stone"
-  soundChanges:
-    - name: From Helonic to Bizarian
-      from: skill-helonclng
-      to: skill-byzarnlng
-      steps:
-        - {step: "1", change: "`th` > `t`", where: anywhere}
-        - {step: "2", change: "`dh` > `d`", where: anywhere}
-        - {step: "3", change: "`ph` > `f`", where: anywhere}
-        - {step: "4", change: "`rh` > `r`", where: anywhere}
-    - name: From Helonic to Bethuan
-      from: skill-helonclng
-      to: skill-bethunlng
-      steps:
-        - {step: "1", change: "`ph` > `f`", where: anywhere}
-        - {step: "2", change: "`ss` > `s`", where: anywhere}
-        - {step: "3", change: "`os` > `os`", where: at the end of a word}
   scope:
     folders: [hellad, helionis, byzaria, bethua]
     cultures: [helioniteclt, byzarianclt, bethuanclt]
@@ -2646,7 +2630,7 @@ The four Bizarian house endings, and only they, close a name on a stop; **no Biz
 
 ## The family {#the-family}
 
-The three tongues share one stock, and a daughter's form of a shared word follows from the Helonic by the changes below, step by step, in the order given. The parent form is the one the schools write; the daughter form is the one the street says and the daughter's own records write.
+The three tongues share one stock. The parent form is the one the schools write; the daughter form is the one the street says and the daughter's own records write.
 
 ### Roots
 
@@ -2658,25 +2642,11 @@ FROM cognates WHERE language = 'thalorna-note-skill-helonclng'
 GROUP BY position, gloss ORDER BY position
 ```
 
-### From Helonic to Bizarian
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-helonclng' AND name = 'From Helonic to Bizarian'
-ORDER BY step_position
-```
+### Bizarian
 
 Bizarian lost the breathed consonants of the schools and kept the rasps: _th_ and _dh_ became plain _t_ and _d_, and the breathed _rh_ that opens an old word became a plain _r_. Everything else the daughter did to the stock it did at the ends of words, where the bazaar swallows a verb's ending and says _esh_ for _ésharin_ and _danizh_ for _danizharin_; the clipped forms stand in the dictionary as Bizarian words of their own, because the counting-house writes them.
 
-### From Helonic to Bethuan
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-helonclng' AND name = 'From Helonic to Bethuan'
-ORDER BY step_position
-```
+### Bethuan
 
 Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a word that closes on _-os_ holds the vowel long, so a Helonic man's name in _-os_ is heard on the island as _-os_ and, in a formal register, is recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_. Three more habits are spoken and never written, so they stand in no table: _k_ and _g_ soften toward _ky_ and _gy_ before a front vowel, a short vowel lengthens before a cluster (_Jádharos_ is said _Jadharos_), and a dental _s_ is sometimes heard as _th_ (_Dókhiron_ as _Thabiron_).
 

@@ -1805,36 +1805,6 @@ data:
       - {edge: openCluster, sounds: [tr, dr, kr, gr, thr, hr]}
       - {edge: closeConsonant, sounds: [k, ks, l, lm, n, nd, r, rth, s, th, z]}
     clusters: {max: 3}
-  soundChanges:
-    - name: From Áelendi
-      from: skill-aelendlng
-      to: skill-elvndrlng
-      steps:
-        - {step: E1, change: "`t' d' k' g'` > `t d k g`", where: anywhere}
-        - {step: E2, change: "`kh` > `h`", where: anywhere}
-        - {step: E3, change: "`gh` > `g`", where: word start}
-        - {step: E4, change: "`gh` > `—`", where: anywhere}
-        - {step: E5, change: "like vowels merge, short"}
-        - step: E6
-          change: "`a ê î ô û` > `ae ei ie ou ye`"
-          where: stressed syllable and open syllable
-        - {step: E7, change: "`a ê î ô û` > `a e i o u`", where: anywhere}
-        - {step: E8, change: "`p` > `v`", where: between vowels}
-        - {step: E9, change: "`p` > `v`", where: after a nasal or a liquid}
-        - {step: E10, change: "`t d k` > `d dh g`", where: between vowels}
-        - {step: E11, change: "`k g s` > `ch j sh`", where: "before `ie`, `ei`, `ye`"}
-        - {step: E12, change: "`e i o u y` > `ë`", where: word end and after a consonant}
-        - {step: E13, change: acute on the stressed vowel}
-    - name: Vylari loans
-      from: skill-vylarilng
-      to: skill-elvndrlng
-      steps:
-        - {step: L1, change: "`ph` > `f`; `kh` > `h`; `x` > `s`", where: anywhere}
-        - {step: L2, change: "`os` > `—`", where: word end}
-        - {step: L3, change: "`a ê î ô û` > `a e i o u`", where: anywhere}
-        - {step: L4, change: "`e i o u` > `ë`", where: word end and after a consonant}
-        - {step: L5, change: stress moves to the first syllable}
-        - {step: L6, change: acute on the stressed vowel}
   tongues:
     - {tag: elavendri, meaning: an Élavendri name, language: skill-elvndrlng}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -2260,7 +2230,7 @@ sohl:
 
 The language is marked by a preference for alliteration, assonance, and poetic phrasing even in everyday speech. A simple greeting in Élavendri carries overtones of blessing and ritual. The language's connection to music is profound—many Élavendri linguistic features are better understood through melody than grammar.
 
-The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their sources, each traced to its [[skill-aelendlng|Áelendi]] or imperial original, and the changes that made them.
+The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their sources, each traced to its [[skill-aelendlng|Áelendi]] or imperial original.
 
 ## How Élavendri sounds
 
@@ -2373,7 +2343,7 @@ This is the word-hoard of Élavendri, the tongue of the lowland kingdom. It is t
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word as it is cited: a noun in its basic form, an adjective in its one form, a verb in its infinitive. It names the Áelendi word it descends from, or the imperial Vylari word it was taken from, and the word is exactly what the changes make of that form. Its meaning is given in Élavendri. A word made of smaller parts names them.
+An entry gives the word as it is cited: a noun in its basic form, an adjective in its one form, a verb in its infinitive. It names the Áelendi word it descends from, or the imperial Vylari word it was taken from. Its meaning is given in Élavendri. A word made of smaller parts names them.
 
 ### Classes
 
@@ -2381,10 +2351,10 @@ The highland masculine and feminine fell together as the animate gender, and the
 
 ### Sources
 
-| Source     | From                                         | By                | Meaning                                                                                       |
-| ---------- | -------------------------------------------- | ----------------- | --------------------------------------------------------------------------------------------- |
-| `aelendi:` | [[skill-aelendlng#lexicon\|Áelendi Lexicon]] | ### Sound changes | inherited from Áelendi: the Áelendi form, as the Áelendi lexicon gives it                     |
-| `vylari:`  | [[skill-vylarilng#lexicon\|Vylari Lexicon]]  | ### Vylari loans  | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it |
+| Source     | From                                         | Meaning                                                                                       |
+| ---------- | -------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `aelendi:` | [[skill-aelendlng#lexicon\|Áelendi Lexicon]] | inherited from Áelendi: the Áelendi form, as the Áelendi lexicon gives it                     |
+| `vylari:`  | [[skill-vylarilng#lexicon\|Vylari Lexicon]]  | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it |
 
 ### Fields
 
@@ -2398,6 +2368,8 @@ ORDER BY position
 ## Sounds and spelling {#sounds-and-spelling}
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
+
+Many Sinale words come back toward their Sinale shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Sinale `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Sinale words, and the tongue's whole Brittonic colour, the colour of the lays, is the Sinale layer heard through two mouths.
 
 ### Word edges
 
@@ -2413,35 +2385,9 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-elvndrlng'
 ```
 
-## From Áelendi {#from-aelendi}
-
-Thirteen changes, in this order, make an Élavendri word of an Áelendi one. The clicked stops merged with the plain ones. The breathed `kh` weakened to `h`; `gh` lost its breath at the start of a word and fell everywhere else, and the like vowels it had stood between ran together into one. A long vowel in the stressed open syllable broke into a diphthong, long `a` to `ae`, long `e` to `ei`, long `i` to `ie`, long `o` to `ou` and long `u` to `ye`, and every other long vowel shortened. Between vowels `p` softened to `v`, as it did after a nasal or a liquid, and `t`, `d` and `k` softened to `d`, `dh` and `g`. Before the new front diphthongs `k`, `g` and `s` became `ch`, `j` and `sh`. A final vowel other than _-a_ after a consonant was reduced to a weak vowel, and the stress stayed on the first syllable of the root.
-
-So the highland name _Khalden_ is _Halden_, _kuthresa_ (a forfeit) is _chyethresa_, _sirothathen_ (to seat a guest) is _shírothathen_, and the Sinale loan _kálpirno_, a stand of birch, comes back to _kálvirne_, close to the Sinale _kalpikko_ it started from.
-
-### Sound changes
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-elvndrlng' AND name = 'From Áelendi'
-ORDER BY step_position
-```
-
-The Sinale words ride the same table, and many of them come back toward their Sinale shape on the way down, because the lowland softening undoes what the highland mouth did to them: the Sinale `v` the Áelendan said as `p` is `v` again between vowels. This is where the "fey" sound of Élavendri comes from. The words that open on _th-_ are disproportionately the Sinale words, and the tongue's whole Brittonic colour, the colour of the lays, is the Sinale layer heard through two mouths.
-
 ## The learned words {#the-learned-words}
 
 The imperial words came with the clerks in the centuries of vassalage and with the [[skill-semrnscrpt|Semaron]] and the University after. A learned word keeps its imperial shape more than an inherited one does: it loses its masculine ending and its long vowels, reduces its last vowel to _ë_, and takes the stress on its first syllable, but it keeps `b`, `f` and `z`, which no inherited word has. Several stand beside the inherited form of the same root: the inherited _lóuresand_ is a reciter who keeps a house's records in his head, and the learned _lórezand_ is a lecturer at the University.
-
-### Vylari loans
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-elvndrlng' AND name = 'Vylari loans'
-ORDER BY step_position
-```
 
 ## Words {#words}
 

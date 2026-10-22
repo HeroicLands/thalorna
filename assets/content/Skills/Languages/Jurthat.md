@@ -2138,20 +2138,6 @@ data:
       - {mutation: voicing, sound: sh, becomes: j}
       - {mutation: voicing, sound: h, becomes: b}
       - {mutation: voicing, sound: f, becomes: b}
-  soundChanges:
-    - name: From Tantsou to Jurthati
-      from: skill-tantsoulng
-      to: skill-jurthatlng
-      steps:
-        - step: "1"
-          change: "`eng` > `ē`; `eng` > `ē`; `ing` > `i`; `ing` > `i`; `ong` > `ō`; `ong` > `ō`"
-          where: at the end of a word
-        - step: "2"
-          change: "`iao` > `yo`; `ao` > `ō`; `ou` > `ū`; `ou` > `ū`; `uo` > `o`; `ie` > `e`; `ei` > `ē`; `chy` > `ch`"
-          where: anywhere
-        - {step: "3", change: "`zh` > `z`; `l` > `r`", where: anywhere}
-        - {step: "4", change: "`hu` > `fu`; `hu` > `fu`", where: at the start of a word}
-        - {step: "5", change: "`tu` > `tsu`; `tu` > `tsu`", where: at the start of a word}
   scope:
     folders: [jenchai, ankarisjenchai]
     parents: [jenchairgn]
@@ -2274,7 +2260,7 @@ Jurthati is a tongue of the [Tantsou Family]{.name data-type="lore"}. Fluency me
 
 Jurthati is the speech of the [[affiliation-jenchaiempr|Jenchai Empire]]—the great island and the lesser island of the [[place-jenchairgn|Jenchai Region]], east of the mainland, which their inhabitants call **Teyan Jenjai**, the Nine Mountains Above the Clouds of Heaven: the peaks stand above the clouds, and the people who live on them stand above every other people, the western mainland first among them. In speech the name shortens to **Jenjai**, the Nine Mountains, the native reading of the name the court writes _Jenchai_. It descends from the [[skill-tantsoulng|Tantsou]] brought across the strait a thousand years and more ago, and a thousand years of separation, mutual non-recognition and open war have made it a distinct language rather than a dialect. [[affiliation-tantsouempr|Tantsou]] does not concede this, and Tantsou grammarians still describe Jurthati as a provincial corruption; Jurthati scholars return the compliment by describing mainland speech as what happens to a language administered by clerks.
 
-The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] gives the words in their native reading with the changes that make them from Tantsou, the endings of the honorific grid, and the rules a house or a granted name is built by.
+The [[skill-jurthatlng#lexicon|Jurthati Lexicon]] gives the words in their native reading beside their Tantsou roots, the endings of the honorific grid, and the rules a house or a granted name is built by.
 
 ## Overview
 
@@ -2365,13 +2351,13 @@ Great Lords' houses take their names from features of their mountains—a peak, 
 
 The islands of Jenchai speak the mainland's words with the music taken out. Where a Tantsou minister sings _teng_ for heaven, rising through the syllable and closing on _-ng_, a Jurthati fisherman says _te_, the nasal gone into a long vowel and the rising tone left behind as a high pitch. A thousand years of separation have made Jurthati a language of open syllables and even beats: every word closes on a vowel or on _n_, two consonants meet inside a word only where an _n_ stands first, and the verb at the close of a sentence carries the speaker's whole relation to the listener and the subject.
 
-This page is the word-hoard of the island tongue. It gives the inherited stock as the change table makes it from [[skill-tantsoulng#lexicon|Tantsou]], the island words beside it, the endings of the honorific grid, the rules a new word or name is built by, and the register of every name the setting gives in Jenchai.
+This page is the word-hoard of the island tongue. It gives the inherited stock beside its [[skill-tantsoulng#lexicon|Tantsou]] roots, the island words beside it, the endings of the honorific grid, the rules a new word or name is built by, and the register of every name the setting gives in Jenchai.
 
-Jurthati holds two readings for much of its vocabulary. The **native reading** is the word as the islands say it, which agrees with the mainland word by the changes below. The **learned reading** is the mainland pronunciation, written as the mainland writes it and kept for the realm's name, titles, rites, the names of castes and offices, and the set phrases of the court and the shrines. The learned reading keeps the _-ng_, the _zh_, the _l_ and the four tones the native reading loses, so _Ruising_, the ritual death, is a learned word whose native reading is _ruizi_. The dictionary gives the native reading; the learned forms the notes write stand in the table of names outside the pattern below.
+Jurthati holds two readings for much of its vocabulary. The **native reading** is the word as the islands say it. The **learned reading** is the mainland pronunciation, written as the mainland writes it and kept for the realm's name, titles, rites, the names of castes and offices, and the set phrases of the court and the shrines. The learned reading keeps the _-ng_, the _zh_, the _l_ and the four tones the native reading loses, so _Ruising_, the ritual death, is a learned word whose native reading is _ruizi_. The dictionary gives the native reading; the learned forms the notes write stand in the table of names outside the pattern below.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
-An entry gives the word in its native reading. A meaning with two glosses joined by _and, by the other pitch,_ is two mainland words the loss of tone has made alike in writing, which the pitch-accent keeps apart in speech; two glosses joined by _and, at the same pitch,_ are two mainland words the islands say alike, which only the script keeps apart. A word made of smaller parts names the words and endings it is made of, joined by `+`, and the form is exactly what the building rules make of them. An entry's source is `inherited` for a word the change table makes from its Tantsou root, `island` for a word a note gives that has no Tantsou root, and `coined` for a word this page makes so that the tongue can be used.
+An entry gives the word in its native reading. A meaning with two glosses joined by _and, by the other pitch,_ is two mainland words the loss of tone has made alike in writing, which the pitch-accent keeps apart in speech; two glosses joined by _and, at the same pitch,_ are two mainland words the islands say alike, which only the script keeps apart. A word made of smaller parts names the words and endings it is made of, joined by `+`, and the form is exactly what the building rules make of them. An entry's source is `inherited` for a word with a Tantsou root, `island` for a word a note gives that has no Tantsou root, and `coined` for a word this page makes so that the tongue can be used.
 
 ### Fields
 
@@ -2408,7 +2394,7 @@ FROM clusters WHERE language = 'thalorna-note-skill-jurthatlng'
 
 ## The family {#the-family}
 
-Jurthati is the daughter of [[skill-tantsoulng|Tantsou]]. Each inherited word is stated beside its mainland root, one row for each character of Teng Chou the two tongues share, and the changes below, in the order given, describe how the island readings drew apart. A reading agrees with the changes and is not worked out from them, so a few readings go their own way. The parent column is the form the [[skill-tantsoulng#lexicon|Tantsou Lexicon]] cites; the daughter column is the native reading.
+Jurthati is the daughter of [[skill-tantsoulng|Tantsou]]. Each inherited word is stated beside its mainland root, one row for each character of Teng Chou the two tongues share. The parent column is the form the [[skill-tantsoulng#lexicon|Tantsou Lexicon]] cites; the daughter column is the native reading.
 
 ### Roots
 
@@ -2419,28 +2405,11 @@ FROM cognates WHERE language = 'thalorna-note-skill-tantsoulng'
 GROUP BY position, gloss ORDER BY position
 ```
 
-### From Tantsou to Jurthati
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM (SELECT step, step_position, "where", unnest(string_split(change, '; ')) AS change,
-             generate_subscripts(string_split(change, '; '), 1) AS part
-      FROM sound_changes
-      WHERE language = 'thalorna-note-skill-jurthatlng' AND name = 'From Tantsou to Jurthati')
-ORDER BY step_position, part
-```
-
-The rows of one step are one change, written out sound by sound.
-
-1. **The _-ng_ becomes length.** A closing _ng_ is lost into the vowel before it, which is held long: _teng_ gives _te_, _jing_ gives _ji_, _wong_ gives _wo_. A closing _n_ stays, and is held as a beat of its own.
-2. **Gliding vowels settle.** _ao_ and _ou_ become single long vowels, _iao_ becomes _yo_ and loses its glide after _ch_, _uo_ becomes _o_, _ie_ becomes _e_, and a long _ei_ becomes one long vowel. The pairs _ai_, _ei_ and _ui_ stay.
-3. **Two consonants change.** _zh_ becomes _z_ and _l_ becomes the tapped _r_.
-4. **Before _u_**, an opening _h_ becomes _f_.
-5. **Before _u_**, an opening _t_ becomes _ts_.
+### Pitch
 
 **Pitch.** The mainland's tones became pitch on the islands. A root in the high level or the rising tone is said high; a root in the falling or the low tone is said low. The pitch is not written. Where two roots fall together in writing, the pitch parts them when it differs, and nothing in speech parts them when it does not.
 
-### Words the changes made alike
+### Words the islands say alike
 
 | Native | Pitch     | Tantsou roots                      |
 | ------ | --------- | ---------------------------------- |

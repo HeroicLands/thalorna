@@ -9,3 +9,4 @@
 - The swordmaster who challenges Koremdanis Barkratis is Weja the Unbound, of Jenchai.
 - Poems that were tagged with a metre or a rhyme scheme now state it in a sentence beside the poem.
 - The Walking of the Line is set in two columns, Vylari in Semaron beside the English, with every fifth line numbered.
+- The Tevran and Vylarian military pages show their tables as tables.

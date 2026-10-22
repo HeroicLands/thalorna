@@ -1561,36 +1561,6 @@ data:
       - {edge: openCluster, sounds: [pr, tr, kr, br, dr, gr, thr, hr]}
       - {edge: closeConsonant, sounds: [d, k, l, n, r, s, th, ts]}
     clusters: {max: 3}
-  soundChanges:
-    - name: From ancient Vylari
-      from: skill-vylarilng
-      to: skill-tarvenlng
-      steps:
-        - {step: T1, change: "`p t k` > `b d g`", where: between vowels}
-        - {step: T2, change: "`t' d'` > `t`; `k' g'` > `k`", where: anywhere}
-        - {step: T3, change: "`ph` > `h`; `dh` > `d`; `gh` > `g`; `x` > `ks`", where: anywhere}
-        - {step: T4, change: "`w` > `v`", where: anywhere}
-        - {step: T5, change: "`y` > `—`", where: word start}
-        - {step: T6, change: "`y` > `i`", where: anywhere}
-        - {step: T7, change: "`e o` > `ié ué`", where: stressed syllable and open syllable}
-        - {step: T8, change: "`os` > `o`; `as` > `a`; `a` > `a`; `on` > `o`", where: word end}
-        - {step: T9, change: "`a ê î ô û` > `a e i o u`", where: anywhere}
-        - {step: T10, change: acute on the stressed vowel of a word of two syllables or more}
-    - name: Vylari loans
-      from: skill-vylarilng
-      to: skill-tarvenlng
-      steps:
-        - {step: L1, change: "`ph` > `h`; `x` > `ks`", where: anywhere}
-        - {step: L2, change: "`os on` > `o`; `as` > `a`", where: word end}
-        - {step: L3, change: "`a ê î ô û` > `a e i o u`", where: anywhere}
-        - {step: L4, change: acute on the stressed vowel of a word of two syllables or more}
-    - name: Provenzal loans
-      from: skill-provnzlng
-      to: skill-tarvenlng
-      steps:
-        - {step: R1, change: "`ã` > `an`; `ẽ` > `en`; `õ` > `on`", where: anywhere}
-        - {step: R2, change: "`ch` > `kh`; `j` > `i`; `f` > `h`", where: anywhere}
-        - {step: R3, change: acute on the stressed vowel of a word of two syllables or more}
   tongues:
     - {tag: tarveni, meaning: a Tarveni name}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -2073,7 +2043,7 @@ Ervothandis, Zedimis, Zenothis, Orthemandis, Iltheris, Thaluris, Korvathandis, O
 
 On the road down from the passes a company is coming home. The captain is _thrumar_ and the men are sworn to him for the season, _daro_, sworn men, by the contract, _semna_, that every one of them can recite. In the villages they pass, a lantern stands on each threshold, because it is the season when the dead walk the roads, and every word the villagers have for that is older than the tongue the company speaks.
 
-This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the rules that make an ancient word Tarveni, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provenzia]].
+This is the word-hoard of Tarveni, the tongue of the Tarvenans. It is the daughter of ancient Vylari that kept the most of the ancestor's grammar after the empire's own speech: three genders. It kept them with help. Before the Pelwar came into the peninsula the mountains had a speech of their own, and that speech settled into Tarveni as the empire's never did, leaving its trilled _rr_, its _ts_, and a store of words for the high country, the flocks, and a goddess older than any of the Aureldian gods. This page gives every word with its source, the shape every word of the old speech keeps, and the few words taken back from the empire and from [[place-provenzrgn|Provenzia]].
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -2081,13 +2051,13 @@ An entry gives the word as it is cited: a noun or an adjective in its basic form
 
 ### Sources
 
-| Source       | From                                           | By                  | Meaning                                                                                                                      |
-| ------------ | ---------------------------------------------- | ------------------- | ---------------------------------------------------------------------------------------------------------------------------- |
-| `*`          | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | ### Sound changes   | inherited: the ancient Vylari form, as the Vylari lexicon gives it                                                           |
-| `substrate`  | —                                              | —                   | from the old mountain speech, which left no other record; the word keeps that speech's shape                                 |
-| `vylari:`    | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | ### Vylari loans    | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it                                |
-| `provenzal:` | [[skill-provnzlng#lexicon\|Provenzal Lexicon]] | ### Provenzal loans | a loan from Provenzal: the Provenzal form, as the Provenzal lexicon gives it                                                 |
-| `worn:`      | —                                              | —                   | a small word worn down further than the changes take it; the ancient form is named, and the form is not made from it by rule |
+| Source       | From                                           | Meaning                                                                                       |
+| ------------ | ---------------------------------------------- | --------------------------------------------------------------------------------------------- |
+| `*`          | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | inherited: the ancient Vylari form, as the Vylari lexicon gives it                            |
+| `substrate`  | —                                              | from the old mountain speech, which left no other record; the word keeps that speech's shape  |
+| `vylari:`    | [[skill-vylarilng#lexicon\|Vylari Lexicon]]    | a learned word, taken from imperial Vylari: the imperial form, as the Vylari lexicon gives it |
+| `provenzal:` | [[skill-provnzlng#lexicon\|Provenzal Lexicon]] | a loan from Provenzal: the Provenzal form, as the Provenzal lexicon gives it                  |
+| `worn:`      | —                                              | a small word worn down; the ancient form is named                                             |
 
 ### Fields
 
@@ -2102,7 +2072,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The tongue has no `f`: the ancient `ph` became `h`, and the old mountain speech had none either.
+The tongue has no `f`, and the old mountain speech had none either.
 
 ### Word edges
 
@@ -2118,19 +2088,6 @@ SELECT 'Most consonants together inside a word' AS "Rule", max AS "Count"
 FROM clusters WHERE language = 'thalorna-note-skill-tarvenlng'
 ```
 
-## From ancient Vylari {#from-ancient-vylari}
-
-Tarveni takes each word from its ancient form, and ten changes, in this order, make a Tarveni word of it. The plain stops `p`, `t` and `k` were voiced between vowels, to `b`, `d` and `g`; only then did the clicked stops lose their click, becoming the plain `t` and `k` that had just been emptied, so the ancient difference between a plain stop and a clicked one survives as the difference between a voiced and a voiceless one. So _sokatos_ (a tax farmer) is _sokedo_, and _k'aralzon_ (the kept fire) is _karalzo_ with its `k` hard. The breathed `ph` became `h`, `dh` and `gh` lost their breath, `x` became `ks`; `w` became `v`, and `y` fell at the start of a word and became `i` elsewhere. A short `e` or `o` that took the stress in an open syllable broke into `ie` or `ue`. The ancient endings lost their `s` and their length, and every long vowel shortened. The ancient stress stayed where it was.
-
-### Sound changes
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-tarvenlng' AND name = 'From ancient Vylari'
-ORDER BY step_position
-```
-
 ## The old mountain speech {#the-old-mountain-speech}
 
 The speech the Pelwar found in the mountains left no inscription and no name for itself, and nobody has found its people. Its words stand in Tarveni in a shape no inherited word has. Every syllable is a consonant and a vowel, with at most one consonant closing it; `rr` stands between vowels and `ts` anywhere; and no word of it opens on `r` or holds an `f` or a `p`.
@@ -2138,24 +2095,6 @@ The speech the Pelwar found in the mountains left no inscription and no name for
 ## The learned and borrowed words {#the-learned-and-borrowed-words}
 
 A few words came back into the tongue from the empire's schools and temples, in the empire's spelling, keeping the `z` the imperial tongue made of an ancient `dh` and the hard stops it never voiced: the inherited altar is _kur_ and the learned one _kurzalis_. A handful more came up the coast from Provenzia with its songs and its silk.
-
-### Vylari loans
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-tarvenlng' AND name = 'Vylari loans'
-ORDER BY step_position
-```
-
-### Provenzal loans
-
-```sql
-SELECT step AS "Step", change AS "Change", coalesce("where", '—') AS "Where"
-FROM sound_changes
-WHERE language = 'thalorna-note-skill-tarvenlng' AND name = 'Provenzal loans'
-ORDER BY step_position
-```
 
 ## Words {#words}
 

@@ -337,15 +337,15 @@ The Valdor is a politically loaded posting. An insult to the Valdor is an insult
 
 Each legion also has specialist staff:
 
-| Vylarian Term | Role |
-| ------------- | ------------------------------------------------------------------------------------------------------------------- | --------------------------------- |
-| **Hornan** | Signal-horn player; relays orders by horn-call within a Hundal |
-| **Brasan** | Trumpeter; legion-wide command signals |
-| **Makner** | Field engineer; siege works, road construction, encampment design |
-| **Borgel** | Armorer / smith |
-| **Salvan** | Field surgeon (typically several per legion, including assistants) |
-| **Notrel** | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld\|Imperial Scribal Guild]] trained) |
-| **Omelar** | Diviner/chaplain—reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis\|Thordimalon]] |
+| Vylarian Term | Role                                                                                                                             |
+| ------------- | -------------------------------------------------------------------------------------------------------------------------------- |
+| **Hornan**    | Signal-horn player; relays orders by horn-call within a Hundal                                                                   |
+| **Brasan**    | Trumpeter; legion-wide command signals                                                                                           |
+| **Makner**    | Field engineer; siege works, road construction, encampment design                                                                |
+| **Borgel**    | Armorer / smith                                                                                                                  |
+| **Salvan**    | Field surgeon (typically several per legion, including assistants)                                                               |
+| **Notrel**    | Quartermaster's clerk; rolls, pay, supply ([[affiliation-imprlscrblgld\|Imperial Scribal Guild]] trained)                        |
+| **Omelar**    | Diviner/chaplain—reads omens before major actions; jointly licensed by the army and the [[affiliation-ordoarcanis\|Thordimalon]] |
 
 ## Cavalry, Auxiliaries and Naval
 

@@ -40,23 +40,24 @@ data:
     - name: Numbers and grammar words
       holds: "Numbers, pronouns, pointing words and the particles that hold a sentence together."
   affixes:
-    - form: "-ja"
+    - form: "-ija"
       gloss: "one born to it: the names of the four stations"
-      attaches: "lengthens its last vowel"
+      attaches: "replaces a closing vowel"
+      replaces: "u"
       examples: ["karmu > karmija"]
-    - form: "-aka"
+    - form: "-oka"
       gloss: "one who does it"
       attaches: "added to a verb stem"
       examples: ["gan- > ganoka"]
-    - form: "-ana"
+    - form: "-ona"
       gloss: "the doing of it"
       attaches: "added to a verb stem"
       examples: ["dah- > dahona"]
-    - form: "-ita"
+    - form: "-uta"
       gloss: "one to whom it is done"
       attaches: "added to a verb stem"
       examples: ["pat- > patuta"]
-    - form: "-ta"
+    - form: "-ru"
       gloss: "done, finished"
       attaches: "added to a verb stem"
       examples: ["muk- > mukru"]
@@ -69,7 +70,6 @@ data:
       gloss: "one of the kind, of good standing in it"
       attaches: "replaces a closing short a"
       replaces: "a"
-      examples: ["kulpa > kulena"]
     - form: "-i"
       gloss: "a woman's form of a word; one who deals in it"
       attaches: "replaces a closing short a"
@@ -682,22 +682,19 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a Karmija, one born to labor"
-      built: [karmu, "-ja"]
+      built: [karmu, "-ija"]
     - form: danaja
       class: "n"
       field: "Station, rank and office"
       gloss: "a Danaja, one born to wealth"
-      built: [danha, "-ja"]
     - form: senaja
       class: "n"
       field: "Station, rank and office"
       gloss: "a Senaja, one born to the host"
-      built: [senta, "-ja"]
     - form: retuja
       class: "n"
       field: "Station, rank and office"
       gloss: "a Retuja, one born to the rites"
-      built: [ritru, "-ja"]
     - {form: rajva, class: "n", field: "Station, rank and office", gloss: "a king"}
     - {form: rojni, class: "n", field: "Station, rank and office", gloss: "a queen"}
     - {form: mahva, class: adj, field: "Station, rank and office", gloss: "great"}
@@ -728,7 +725,6 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a Kulena, one of a great lineage"
-      built: [kulpa, "-ina"]
     - form: sabhra
       class: "n"
       field: "Station, rank and office"
@@ -787,7 +783,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a leader"
-      built: ["nay-", "-aka"]
+      built: ["nay-", "-oka"]
     - form: dandanayeka
       class: "n"
       field: "Station, rank and office"
@@ -814,7 +810,7 @@ data:
       class: adj
       field: "Station, rank and office"
       gloss: "fallen; one put out of the order for good"
-      built: ["pat-", "-ita"]
+      built: ["pat-", "-uta"]
     - form: chinnasutra
       class: "n"
       field: "Station, rank and office"
@@ -888,14 +884,14 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "the burning"
-      built: ["dah-", "-ana"]
+      built: ["dah-", "-ona"]
     - {form: mulka, class: "n", field: "Gods, rites and the temple", gloss: "a root"}
     - {form: "jval-", class: v, field: "Gods, rites and the temple", gloss: "blaze, kindle"}
     - form: jvelita
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a kindled one, an ordinary priest of the flame"
-      built: ["jval-", "-ita"]
+      built: ["jval-", "-uta"]
     - form: jvelaka
       class: "n"
       field: "Gods, rites and the temple"
@@ -935,13 +931,13 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a seer"
-      built: ["darsh-", "-aka"]
+      built: ["darsh-", "-oka"]
     - {form: "sev-", class: v, field: "Gods, rites and the temple", gloss: "serve"}
     - form: seboka
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a servant"
-      built: ["sev-", "-aka"]
+      built: ["sev-", "-oka"]
     - {form: anshe, class: part, field: "Gods, rites and the temple", gloss: "near, beside"}
     - {form: "vas-", class: v, field: "Gods, rites and the temple", gloss: "dwell"}
     - form: antevosin
@@ -954,13 +950,13 @@ data:
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a lay devotee"
-      built: ["upas-", "-aka"]
+      built: ["upas-", "-oka"]
     - {form: "usht-", class: v, field: "Gods, rites and the temple", gloss: "hold, keep"}
     - form: ushtaka
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a keeper of a pass-shrine"
-      built: ["usht-", "-aka"]
+      built: ["usht-", "-oka"]
     - form: purohata
       class: "n"
       field: "Gods, rites and the temple"
@@ -989,7 +985,7 @@ data:
       class: adj
       field: "Gods, rites and the temple"
       gloss: "released, freed"
-      built: ["muk-", "-ta"]
+      built: ["muk-", "-ru"]
     - {form: "muk-", class: v, field: "Gods, rites and the temple", gloss: "release, free"}
     - {form: shonya, class: adj, field: "Gods, rites and the temple", gloss: "empty"}
     - form: vahrati
@@ -1067,7 +1063,7 @@ data:
       class: "n"
       field: "War, arms and the host"
       gloss: "a battle, the fighting"
-      built: ["bhaund-", "-ana"]
+      built: ["bhaund-", "-ona"]
     - {form: petsa, class: "n", field: "War, arms and the host", gloss: "a wound"}
     - {form: lantu, class: "n", field: "War, arms and the host", gloss: "a banner"}
     - {form: ghom, class: "n", field: "War, arms and the host", gloss: "a drum"}
@@ -1095,7 +1091,7 @@ data:
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a reckoner"
-      built: ["gan-", "-aka"]
+      built: ["gan-", "-oka"]
     - {form: okhra, class: "n", field: "Craft, trade and the counting-house", gloss: "a loom"}
     - form: okhraka
       class: "n"
@@ -1226,7 +1222,7 @@ data:
       class: "n"
       field: "Doing, going and being"
       gloss: "a crossing, a ford"
-      built: ["tar-", "-ana"]
+      built: ["tar-", "-ona"]
     - {form: "pat-", class: v, field: "Doing, going and being", gloss: "fall"}
     - {form: "chamb-", class: v, field: "Doing, going and being", gloss: "gho"}
     - {form: "hauv-", class: v, field: "Doing, going and being", gloss: "come"}
@@ -1868,7 +1864,7 @@ data:
     - {name: Danurkot, tongue: vedyari, built: [danur, kotra]}
     - {name: Danurkot Janpoda, tongue: vedyari, built: [danur, kotra, janra, padu]}
     - {name: The Janpoda of the Bow-Fort, tongue: translation}
-    - {name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -aka]}
+    - {name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka]}
     - {name: Sabhapavi, tongue: vedyari, built: [sabhapavi]}
     - {name: Smrtibhara, tongue: vedyari, built: [smrti, bhora]}
     - {name: Senoni, tongue: vedyari, built: [senoni]}
@@ -2280,7 +2276,7 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 
 **Clusters.** Consonants meet in a few favoured pairs and triples inside a word: _ndr_, _shr_, _kr_, _dr_, _vr_ and _pr_. A word opens on at most two consonants together. _ksh_ stands inside a word, as in _akshora_, never at its start.
 
-**Endings.** A classical word ends on a vowel, most often _-a_: the gods _Rasikara_ and _Kalavrata_, the titles _maharava_ and _senapavi_, the words _dorma_ "duty" and _janpoda_. A person or a thing done ends in _-ana_, _-ika_, _-in_, _-ini_ or _-ja_, and a lord or a god in _-endra_, _-esha_ or _-deva_. The spoken word may close on one consonant, _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_: _lam_ "a child", _ghal_ "a sword", _daum_ "eight". A place people travel to closes the same way: a town in _-pur_, a village in _-gram_, a landing in _-ghat_, a fort in _-kot_, a pass in _-dvar_, a peak in _-shikhar_, a grove in _-ban_, a ground in _-stal_, a seat in _-stan_, a bank in _-tir_, and a keeper's land in _-pal_; a hero's name ends in _-bir_ or _-bira_; a weekday ends in _-var_. A given name ends on _-a_, _-i_ or a consonant (_Chandreli_, _Shilabir_, _Jayanit_); a clan name more often on a vowel.
+**Endings.** A classical word ends on a vowel, most often _-a_: the gods _Rasikara_ and _Kalavrata_, the titles _maharava_ and _senapavi_, the words _dorma_ "duty" and _janpoda_. A person or a thing done ends in _-ona_, _-ika_, _-in_, _-ini_ or _-ija_, and a lord or a god in _-endra_, _-esha_ or _-deva_. The spoken word may close on one consonant, _n_, _r_, _t_, _k_, _s_, _l_, _m_ or _d_, or on _nd_: _lam_ "a child", _ghal_ "a sword", _daum_ "eight". A place people travel to closes the same way: a town in _-pur_, a village in _-gram_, a landing in _-ghat_, a fort in _-kot_, a pass in _-dvar_, a peak in _-shikhar_, a grove in _-ban_, a ground in _-stal_, a seat in _-stan_, a bank in _-tir_, and a keeper's land in _-pal_; a hero's name ends in _-bir_ or _-bira_; a weekday ends in _-var_. A given name ends on _-a_, _-i_ or a consonant (_Chandreli_, _Shilabir_, _Jayanit_); a clan name more often on a vowel.
 
 **Built names.** A name is one word or two joined, seldom three: _Chandreli_ is _chendra_ and _sundeli_, "moon, the beautiful", and _Danurkirti_ is "bow-fame". A name of five syllables or more is an old name or a title.
 
@@ -2736,7 +2732,7 @@ Two moves make every built word in this lexicon, and a new word made the same wa
 
 **A compound.** Two words set side by side make one, and the first describes the second: _surta_ "the sun" and _dvarna_ "a door" give _suryadvar_, the sun's door. Most names of places and offices are compounds, and many have three or four members: _meghra_, _mukhva_ and _kalda_ give _meghamukhakala_, the month of the mouth of the clouds. A hyphen may stand at a seam, and where it does the two words keep their own shapes: _Surta-samedra_.
 
-**A suffix.** A word or a verb stem takes one of the suffixes below: _gan-_ "count" takes _-aka_ to give _ganoka_, a reckoner, and _vreta_ "a vow" takes _-in_ to give _vretin_, one under a vow.
+**A suffix.** A word or a verb stem takes one of the suffixes below: _gan-_ "count" takes _-oka_ to give _ganoka_, a reckoner, and _vreta_ "a vow" takes _-in_ to give _vretin_, one under a vow.
 
 ### Joining
 
@@ -2827,7 +2823,7 @@ WHERE e.language = 'thalorna-note-skill-vedyarlng' AND e.kind = 'place' ORDER BY
 
 A person from a place takes _-i_: a [[place-rajepur|Rajepur]] man is a Rajepuri, a woman of [[affiliation-vyalendra2|Vyalendra]] a Vyalendri.
 
-**An office** is a compound whose last member says what the holder does: _palda_ keeps (_shetrapalda_, a keeper of fields), _pavi_ presides (_sabhapavi_, the presiding officer of a sabhra), _nayeka_ leads, _adyoksha_ oversees, _achorya_ teaches. A title from a verb takes _-aka_, as _dorshaka_, a seer, or _-in_, as _vretin_, one under a vow. The great titles are compounds with _mahva_: _maharava_, _mahaprasoda_.
+**An office** is a compound whose last member says what the holder does: _palda_ keeps (_shetrapalda_, a keeper of fields), _pavi_ presides (_sabhapavi_, the presiding officer of a sabhra), _nayeka_ leads, _adyoksha_ oversees, _achorya_ teaches. A title from a verb takes _-oka_, as _dorshaka_, a seer, or _-in_, as _vretin_, one under a vow. The great titles are compounds with _mahva_: _maharava_, _mahaprasoda_.
 
 **A god** of the [[affiliation-vrnkpnthn|Varnuka]] is named by a compound that says what the god keeps or does: [[lore-kalavratadty|Kalavrata]] is the vow of death, [[lore-meghonatadty|Meghonata]] the lord of the clouds, [[lore-vyalendradty|Vyalendra]] the chief of beasts. A god's adjective takes _-an_, and a god's day takes _vura_.
 

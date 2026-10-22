@@ -16,3 +16,5 @@
 - The setting lists the core words every human language covers: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.
 - Tantsou has words for every core concept: the senses, passions, loves, body, needs, common things, numbers, colours, kin and basic verbs.
 - The Grukar converse by body language and scent; their grunts and bellows only lend emphasis, they keep no names or script, and only the Grukar-Sha learn to speak human tongues.
+- Vedyari's word endings are shown as they are written: _-oka_, _-ona_, _-uta_, _-ru_ and _-ija_.
+- The language pages no longer carry sound-change step tables or the sections that listed them: Provenzal, Tarveni, Áelendi, Élavendri, Vylari, Helonic and Jurthati keep their words, sources and sound rules.
