@@ -62,6 +62,22 @@ data:
 # terran_analog: "Egypt and Sudan (Nile valley civilization): a river-set year, a scribal and archival culture, titles that precede the personal name, weighing and burial customs for the dead. Appearance, dress and naming follow an Egyptian palette. Departs: twelve canonical gods with some forty local patron gods, magic taught as a learned profession by the Khelunu Lekhau, and ledgers of written and unwritten obligation at the center of ethics."
 ---
 
+: The memorial of Meqes VI
+
+![[image-khelathubnr|The memorial of Meqes VI, carved in Khelathi-zethu]]{size=full-width}
+
+> Year 1 of the Gar-Au Meqes, the seventh of the name, living, enduring, strong. Went to the West the Gar-Au Meqes, the sixth of the name, Lord of the River and of the Two Banks, beloved of Uqa'a, fire of Uqa'a upon the mound, who stood, who was crowned, lord of the count, whose seal is on the granary, whose grain the barges carry, given life like the sun forever, in his twenty-seventh year. His account is read.
+>
+> Shaped him Uzn'era in the womb, a child of the house of Zu'Meku. Stood he upon the mound at Yath-Telgu; the priesthood of Uqa'a set the crown on him, and gave him his name, Meqes; by this name every contract of the year is dated. Qe'aret set truth in his mouth, and Reth'Sa'ar wrote his name in the house of books. The gods gave him life and dominion, like the sun.
+>
+> Came down His Majesty, the Gar-Au Meqes, beloved of Uqa'a, Lord of the River and of the Two Banks, given life like the sun forever, upon the hill-men of the western margins, and Chaq'ur raged before him like the storm. Smote he their chieftains, took he their herds, and brought back their princes bound beneath his sandals. The margins were the Gar-Au's.
+>
+> Sailed he, the Gar-Au Meqes, beloved of Uqa'a, given life like the sun forever, against the raiders of the northern sea, and the fire of Uqa'a went out against their ships. The river was at peace, and the barges came up laden: gold, cedar, horses and slaves. The river was the Gar-Au's.
+>
+> Rode he out, the Gar-Au Meqes, beloved of Uqa'a, Lord of the River and of the Two Banks, against the lions and the river-horses that ravaged the herds and the fields, and the beasts taken were counted. In the years of the low river he opened the god's granaries under his seal, which he had filled in the years of the flood, and none of his people hungered.
+>
+> The Gar-Au Meqes, beloved of Uqa'a, built anew the house of Uqa'a, gave it altars of gold, and endowed it with fields and herds. He raised his Way at the head of the death-road at Zu-Gezer. Words spoken by Uqa'a, fire on the first ground, lord of the dry ink, who comes up the road: "My beloved son, I give you every land, every foreign country bowed beneath your sandals; I give you the years of the sun upon the throne of the mound." Before the gods the tablets lay level on the beam: what he owed was closed, and nothing remained; what was owed to him stood open. He went down owed.
+
 The **Khelathi** hold that theirs is the oldest civilization in the world, and the temple king-lists count 2,830 years back to the first [[lore-garauu|Gar-Au]] in unbroken sequence. Three facts shape a life in the valley: the river comes and goes on a schedule a farmer can name to the day, the house holds the land and answers at law for everyone attached to it, and the heart is weighed at the end before a court no one has ever bribed.
 
 ## The River Sets the Year

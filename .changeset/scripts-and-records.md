@@ -12,6 +12,7 @@
 - New spelling pages show how roman Vylari, Khazari, Nordmal and Khelathi are set in Semaron, Pirzath, Thuravark and Qalezu, and each script says how a scribe marks a stressed word.
 - The Semaron, Pirzath, Thuravark and Qalezu pages each show Vylari, Khazari, Nordmal or Khelathi words set in the script itself.
 - The Khelathu banner is a painted temple wall inscribed in Zethu.
+- The Khelathi page opens with the memorial of Meqes VI and its translation.
 - Khelathi inscriptions can be written sign by sign in Zethu on any page.
 - The Áelendan, very conservative, write their own tongue in the Sinale hand and carve in their old runes, while the Élavendri, who adapt readily, write in Semaron; ancient texts in the region are Áelendi.
 - Khelathi names such as Meqes can be written in Semaron, which writes its missing _q_ as _k_.
