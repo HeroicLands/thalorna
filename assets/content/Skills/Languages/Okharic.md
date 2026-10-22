@@ -506,11 +506,16 @@ data:
       - "Yumbaro"
       - "Zékara"
   sounds:
+    letters:
+      - letters: [kh]
+        kind: consonant
+        like: "a rasp at the back of the throat, as when clearing it"
     edges:
       - {edge: openCluster, sounds: [mb, nd, nj, nk, nt, kw, ngw, n']}
       - {edge: closeConsonant, sounds: [n, ng, m, l, r, t, s]}
       - {edge: vowelPair, sounds: [ai, au, ei, oi, ou, io]}
     clusters: {max: 2}
+    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     folders:
       - okharis
@@ -828,8 +833,6 @@ Okharik is the tongue of the savanna clans and their temple-cities.
 **Clusters.** _ng-_, _mb-_ and _nd-_ open words and syllables.
 
 **Endings.** Okharik words end in _-ing_, _-ari_, _-oro_, _-el_ or _-u_.
-
-**What Okharik leaves out.** It has no _th_ or _kh_, which belong to [[skill-khelathlng|Khelathi]], and no _kw_.
 
 ## Phonology
 

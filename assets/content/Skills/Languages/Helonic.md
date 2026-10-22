@@ -1084,6 +1084,7 @@ data:
       - {edge: closeConsonant, sounds: [n, r, s, m, l, th, sh, z, zh, t, k, d, b, f, gh]}
       - {edge: closeCluster, sounds: [hr]}
     clusters: {max: 3}
+    stress: {two: first, longer: penultimate, mark: acute}
     joining:
       - first: [a, a]
         second: [a, a]
@@ -2057,11 +2058,11 @@ Helonic uses a pitch-accent system inherited from its Proto-Helonic ancestor. St
 
 Characteristic patterns from the names:
 
-_Aferion_ (AF-er-ee-on)
-: paroxytone, with long vowel on the accented syllable
+_Aferion_ (a-fer-EE-on)
+: paroxytone, on the second-to-last syllable
 
-_Kalidrás_ (KAL-ee-dras)
-: paroxytone, opening accent
+_Kalidrás_ (ka-lee-DRAS)
+: final stress, which the acute marks
 
 _Ghanides_ (gah-NEE-des)
 : paroxytone with clear secondary stress

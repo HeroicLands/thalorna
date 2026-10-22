@@ -32,7 +32,7 @@ data:
       field: The keeping
       gloss: "to hold, to keep unchanged"
       concept: hold
-    - {form: "thári-", class: stem, field: The keeping, gloss: "what came before"}
+    - {form: "thari-", class: stem, field: The keeping, gloss: "what came before"}
     - {form: "sari-", class: stem, field: The keeping, gloss: "to tend, an act of tending"}
     - {form: "val-", class: stem, field: The keeping, gloss: "a thread, a cord"}
     - {form: "sul-", class: stem, field: The keeping, gloss: "stone that takes no mark"}
@@ -66,7 +66,7 @@ data:
       class: "n"
       field: The keeping
       gloss: "a senior custodian, one who keeps what came before"
-      built: ["kaan-", "thári-"]
+      built: ["kaan-", "thari-"]
     - form: "sari'kaan"
       class: "n"
       field: The keeping
@@ -358,7 +358,10 @@ data:
       - "Avonithei"
       - "Kuathivoel"
       - "Tavunithei"
-  sounds: {edges: [{edge: closeConsonant, sounds: [n, l, r, th]}], clusters: {max: 2}}
+  sounds:
+    edges: [{edge: closeConsonant, sounds: [n, l, r, th]}]
+    clusters: {max: 2}
+    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     folders: [kalihara, heroesandknaveskalihara]
     cultures: [kaliharanclt]
@@ -421,7 +424,7 @@ data:
     - {name: Ithasul, tongue: kalihari, built: [ithari, sul-]}
     - {name: kaan'sili, tongue: kalihari, built: [kaan-, sili-]}
     - {name: kaan'sul, tongue: kalihari, built: [kaan-, sul-]}
-    - {name: kaan'thari, tongue: kalihari, built: [kaan-, thári-]}
+    - {name: kaan'thari, tongue: kalihari, built: [kaan-, thari-]}
     - {name: kaan'vaar, tongue: kalihari, built: [kaan-, vaar-]}
     - {name: Kalihara, tongue: kalihari}
     - {name: Kalihara Adventurer's Guide, tongue: translation}
@@ -540,11 +543,11 @@ data:
     - {name: The Wind-Stones, tongue: translation}
     - {name: Theinuvael, tongue: kalihari}
     - {name: Those Who Came Before, tongue: translation}
-    - {name: Thári'vaan, tongue: kalihari, built: [thári-, vaan-]}
+    - {name: Thári'vaan, tongue: kalihari, built: [thari-, vaan-]}
     - {name: Turned Out, tongue: translation}
     - {name: Unheard, tongue: translation}
     - {name: Unkept, tongue: translation}
-    - {name: Vaarthari, tongue: kalihari, built: [vaar-, thári-]}
+    - {name: Vaarthari, tongue: kalihari, built: [vaar-, thari-]}
     - {name: Vaarnei, tongue: kalihari, built: [vaar-, -nei]}
     - {name: Vaarvanu, tongue: kalihari, built: [vaar-, vanu-]}
     - {name: Vaelukoa, tongue: kalihari}

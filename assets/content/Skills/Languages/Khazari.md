@@ -6512,6 +6512,7 @@ data:
       - "Vald-sukár"
       - "Kaval-zunáth"
   sounds:
+    stress: {two: first, longer: penultimate, mark: acute}
     skeleton: [{second: [l, r, m, n, s]}, {second: any, between: a}]
     frames:
       - frame: bare

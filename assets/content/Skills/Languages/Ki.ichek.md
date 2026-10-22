@@ -397,6 +397,7 @@ data:
       - {edge: openCluster, sounds: [tq']}
       - {edge: closeConsonant, sounds: ["'", k, k', q, l, m, n, t, x, ch, tz, b, h]}
     clusters: {max: 3}
+    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     paths:
       - Regions/K.ich.chik/

@@ -1993,7 +1993,7 @@ The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sour
 
 Áelendi is the conservative highland tongue that [[skill-elvndrlng|Élavendri]] came from. It keeps the old, hard sounds that the lowland softened.
 
-**The vowels.** _a_, _o_, _e_ and _i_ are held single and full. One acute moves stress where it falls off the rule.
+**The vowels.** _a_, _o_, _e_ and _i_ are held single and full.
 
 **The consonants.** _dh_, _gh_ and _th_ carry the old sound, beside _r_, _l_, _n_, _d_, _g_ and _k_.
 

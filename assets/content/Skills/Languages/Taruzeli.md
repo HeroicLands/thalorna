@@ -1020,6 +1020,7 @@ data:
   sounds:
     edges: [{edge: closeConsonant, sounds: [n, r, m, l, sh, k, z, t, b]}]
     clusters: {max: 3}
+    stress: {two: first, longer: penultimate, mark: acute}
   scope:
     folders: [taruzel, midhaliontaruzel]
     cultures: [taruzelianclt]
@@ -1301,8 +1302,8 @@ Taruzeli exhibits stress patterns that tend toward the penultimate syllable in m
 
 Examples from given names:
 
-- _NAD-u-mar_ (stress on first syllable, secondary on third)
-- _SHA-mul-u_ (stress on first, secondary on third)
+- _na-DU-mar_ (stress on the second-to-last syllable)
+- _sha-MU-lu_ (stress on the second-to-last syllable)
 - _TAR-ruk_ (stress on first)
 
 The language is generally non-tonal but employs pitch accents for emphasis in formal contexts.

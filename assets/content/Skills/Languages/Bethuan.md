@@ -91,6 +91,7 @@ data:
       field: "Kin, the person and the body"
       gloss: "The Grace: the open-hand and kicking art of Bethuan women; a master is a Charissa"
     - {form: "thius", class: "n", field: "The gods", gloss: "God"}
+  sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

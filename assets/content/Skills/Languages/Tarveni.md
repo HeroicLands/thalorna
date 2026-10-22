@@ -1561,6 +1561,7 @@ data:
       - {edge: openCluster, sounds: [pr, tr, kr, br, dr, gr, thr, hr]}
       - {edge: closeConsonant, sounds: [d, k, l, n, r, s, th, ts]}
     clusters: {max: 3}
+    stress: {two: first, longer: penultimate, mark: acute}
   tongues:
     - {tag: tarveni, meaning: a Tarveni name}
     - {tag: translation, meaning: a name given in the language of these pages}
@@ -1958,9 +1959,9 @@ Tarveni employs a rich inventory of consonants with strong distinctions between 
 
 **Consonants:** The language features a prominent rolled /r/ (rr represents the strongest form) and a strong distinction between dental and alveolar stops (d/t). Initial consonant clusters are common and often pronounced with clarity (_tr-, dr-, kr-, gr-_). Word-final consonants are regularly preserved, unlike in Provenzal.
 
-**Vowels:** Tarveni maintains five vowels (a, e, i, o, u) with less systematic length distinction than Vylari. Stress is phonemic—the placement of stress often distinguishes otherwise identical words. The language uses diphthongs sparingly and with specific meanings.
+**Vowels:** Tarveni maintains five vowels (a, e, i, o, u) with less systematic length distinction than Vylari. The language uses diphthongs sparingly and with specific meanings.
 
-**Stress and Accent:** Stress is marked through increased loudness and vowel lengthening. The stress pattern varies lexically (not fixed by position like Vylari): some words are inherently stressed on the first syllable (RAN-zi-o), others on the final (fer-RIK). Dialect variation is most apparent in stress assignment.
+**Stress and Accent:** Stress is marked through increased loudness and vowel lengthening. It falls by the rule of [[doc-prnncthlrn|Pronouncing Thalorna]], as in Vylari: a word of two syllables on the first (FER-rik), a longer word on the second-to-last (ran-ZI-o), and an acute marks any stress the rule would not choose. How the dialects differ is set out under [[skill-tarvenlng#regional-dialects|Regional Dialects]].
 
 **Distinctive Features:** Tarveni speakers trill their /r/ sounds, and this feature is associated with educated speech and formal contexts. The language permits complex consonant clusters at word boundaries and internal positions, making it sound more consonant-heavy than Vylari or Provenzal. A glottal stop—the catch in the middle of "uh-oh"—marks emphasis or separation between words in formal speech.
 
@@ -1976,7 +1977,7 @@ Tarveni employs a rich inventory of consonants with strong distinctions between 
 
 Tarveni is written in the [[skill-semrnscrpt|Semaron]], the Vylarian alphabet, which is the common script of [[place-aureldirgn|Aureldia]] and was taken up here as everywhere else in the region—a people who spent centuries refusing the empire's rule write in the empire's letters and see no contradiction in it. Regional scribal traditions have developed distinctive features: the southern kingdoms favor rounder letterforms, while the more austere northern regions use angular, geometric styles.
 
-The alphabet pinches in two places, and Tarveni has repaired neither. It has no letter for the glottal stop, so the catch that separates words in formal speech goes unwritten and the reader supplies it from the sense. And Vylari fixes stress by position, so the imperial letters were never given any way to mark it—where in Tarveni stress is phonemic and tells one word from another, with the result that a pair a speaker would never confuse reaches the page as a single string of letters. A Tarvenan reads such a page aloud and decides as he goes, which is no hardship to a people who carry most of their literature in the mouth; an imperial clerk obliged to work from a Tarveni document finds it maddening, and says so.
+The alphabet pinches in two places, and Tarveni has repaired neither. It has no letter for the glottal stop, so the catch that separates words in formal speech goes unwritten and the reader supplies it from the sense. And Vylari fixes stress by position, so the imperial letters were never given any way to mark it—where a Tarveni word takes its stress off the rule, as its acute shows in the roman, the script writes it exactly as it would a word that keeps the rule, so a pair a speaker would never confuse reaches the page as a single string of letters. A Tarvenan reads such a page aloud and decides as he goes, which is no hardship to a people who carry most of their literature in the mouth; an imperial clerk working from a Tarveni document has only the letters, and they do not tell him which of the pair is meant.
 
 True literacy is confined to the clergy, professional scribes, and a minority of the nobility (perhaps 10-20%)—many Tarvenan lords consider reading a scribe's business, not a warrior's. Guildsmen in the coastal trading centers may possess basic functional literacy—recognizing trade marks, numerals, and simple words—but rely on scribes and solicitors for contracts and legal documents. Inland and rural populations are almost entirely non-literate. The Tarvenan cultural emphasis on poetry and epic tradition means that non-literate speakers preserve extensive oral literature through memorization and performance.
 
@@ -1986,7 +1987,7 @@ Tarveni developed from Proto-Pelwar stock, but followed a distinctive evolutiona
 
 The political fragmentation of Tarvénia into competing kingdoms prevented the linguistic standardization seen in Vylari. Instead, Tarveni developed as a family of related dialects, each associated with a major city or kingdom. This diversity is a source of both pride (each kingdom claims its dialect is the "truest" Tarveni) and occasional difficulty in trade and diplomacy.
 
-## Regional Dialects
+## Regional Dialects {#regional-dialects}
 
 **Astúrathi Tarveni:** The speech of the mountainous interior heartland, characterized by interdental pronunciation of /z/ and strong stress patterns. Considered archaic by coastal speakers but prestigious among scholars and warriors of the High King's court.
 

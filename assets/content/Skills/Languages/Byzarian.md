@@ -169,6 +169,7 @@ data:
       field: Grammar words
       gloss: 'the eastern "there is none", the bazaar''s flat no'
     - {form: chazh, class: part, field: Grammar words, gloss: 'the eastern emphatic, "indeed"'}
+  sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
