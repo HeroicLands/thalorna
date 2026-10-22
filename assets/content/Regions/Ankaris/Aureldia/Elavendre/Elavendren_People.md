@@ -17,7 +17,7 @@ and that attunement is the thing an outsider notices first about either of them.
 Their language, [[skill-elvndrlng|Élavendri]], descends directly from [[skill-aelendlng|Áelendi]] with simplifications
 and absorbed outside influences—which is the relationship between the peoples in miniature. It is written in the [[skill-semrnscrpt|Semaron]].
 
-The Élavendren are the "modern" descendants of the Áelendan, and they hold them in fond, respectful regard as an ancestor culture that keeps the old ways. They are much less conservative themselves, and have adapted to the new realities of their situation far more fluidly than the Áelendan; taking up the Semaron is one instance. Ancient texts in the region are Áelendi, not Élavendri.
+The Élavendren are the "modern" descendants of the Áelendan, and they hold them in great respect as an ancestor culture that keeps the old ways, though they do not always agree with them. They are much less conservative themselves, and have adapted to the new realities of their situation far more fluidly than the Áelendan; taking up the Semaron is one instance. Ancient texts in the region are Áelendi, not Élavendri.
 
 ## Faith
 
