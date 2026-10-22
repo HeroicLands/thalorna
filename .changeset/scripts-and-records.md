@@ -15,3 +15,4 @@
 - Khelathi inscriptions can be written sign by sign in Zethu on any page.
 - The Áelendan, very conservative, write their own tongue in the Sinale hand and carve in their old runes, while the Élavendri, who adapt readily, write in Semaron; ancient texts in the region are Áelendi.
 - Khelathi names such as Meqes can be written in Semaron, which writes its missing _q_ as _k_.
+- The Veldikko, the Sinale hand, is written right to left.

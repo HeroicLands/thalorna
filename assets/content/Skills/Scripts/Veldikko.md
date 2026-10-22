@@ -17,7 +17,7 @@ sohl:
   flags: {"thalorna": {script_family: Featural}}
 ---
 
-The Veldikko—the starlight-hand—is the writing of the [[lore-flksinale|Sinale]]: organic, curved, fully connected letterforms that run left to right and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; the vowels are marks above the consonant they follow, carrying length and pitch and poetic emphasis, and because pitch does in Sinale the work that stress does in other tongues, those marks are not ornament. They carry the rise of a question and the warmth or reproach laid over a called name, and with them a page can be heard as well as read.
+The Veldikko—the starlight-hand—is the writing of the [[lore-flksinale|Sinale]]: organic, curved, fully connected letterforms that run right to left and give a page the look of vine-growth or moving water. Ligatures are constant rather than occasional; the vowels are marks above the consonant they follow, carrying length and pitch and poetic emphasis, and because pitch does in Sinale the work that stress does in other tongues, those marks are not ornament. They carry the rise of a question and the warmth or reproach laid over a called name, and with them a page can be heard as well as read.
 
 The Veldikko is the Sinale's own script, made for Sinale. It is featural: each of the three places of articulation has its own family of letters, and within a family the stop, the fricative and the nasal share one shape at three grades. Its signs are not those of the [[skill-semrnscrpt|Semaron]], and the letter-for-sound mapping is set out in the [[skill-sinalelng|Sinale]] note.
 

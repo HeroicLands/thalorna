@@ -2777,7 +2777,7 @@ The ending _-tos_ compares: what something exceeds is the place it stands out fr
 
 ## Script and Literacy
 
-Sinale is written in the [[skill-clthndscrpt|Veldikko]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written left-to-right, top-to-bottom, but the flowing nature of the letters creates a visual impression of music.
+Sinale is written in the [[skill-clthndscrpt|Veldikko]], a **flowing script** that resembles calligraphy. Glyphs are organic, curved, and highly stylized—each letter is an artwork. The script is written right to left, line below line, and the flowing nature of the letters creates a visual impression of music.
 
 Key features:
 
