@@ -21,7 +21,7 @@ Somarmál is the traditional season of the great assemblies: the tings at which 
 
 ## Walking the Boundary
 
-On the frontier, neighbors use the season to settle where one household ends and the next begins. A bundi walks the boundary stones with the neighboring householder and a witness for the landvordr (king's reeve). They read each mark aloud and strike its stone, so that both households can later say where the line lay.
+On the frontier, neighbors use the season to settle where one household ends and the next begins. A bundi walks the boundary stones with the neighboring householder and a witness for the landvordur (king's reeve). They read each mark aloud and strike its stone, so that both households can later say where the line lay.
 
 A stone found moved becomes a matter for the ting: the mover, or the mover's kin after death, must answer the claim. The tale says a stone-mover whose kin refuse that duty comes back after death carrying the stone, still asking where to set it. A child who hears it does not forget where a boundary runs, though the ting settles title on the word of living witnesses.
 
@@ -30,7 +30,7 @@ A stone found moved becomes a matter for the ting: the mover, or the mover's kin
 [[lore-nordheimnclt|Nordheimn]]
 : the boundary rite and the ting's peace
 
-[[lore-jol|Jel]], [[lore-midsumar|Midsomar]] and [[lore-vetrnaetr|Vetrnetr]]
+[[lore-jol|Jel]], [[lore-midsumar|Midsomar]] and [[lore-veturnetur|Veturnetur]]
 : the other three great blets
 
 [[affiliation-asguardian|Asguardian Pantheon]]

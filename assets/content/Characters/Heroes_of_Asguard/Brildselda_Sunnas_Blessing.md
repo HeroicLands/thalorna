@@ -397,7 +397,7 @@ Brildselda's healing abilities are extraordinary, combining deep knowledge of he
 
 [[being-hvrnrvdthmg|Hvirnorv the Deathmage]]—The necromancer views Brildselda's healing power as a direct threat to his Helspawn legions and has specifically targeted her for destruction.
 
-[The Blood Cult of Svartbrandr]{.name data-type="affiliation/faithtradition"}—An extremist faction within [[affiliation-svartbrandr|Svartbrandr's faith]] that believes healing the land prevents the necessary purification by fire. They consider Brildselda a heretic against the natural order.
+[The Blood Cult of Svartbrandur]{.name data-type="affiliation/faithtradition"}—An extremist faction within [[affiliation-svartbrandur|Svartbrandur's faith]] that believes healing the land prevents the necessary purification by fire. They consider Brildselda a heretic against the natural order.
 
 ## Plot Hooks
 

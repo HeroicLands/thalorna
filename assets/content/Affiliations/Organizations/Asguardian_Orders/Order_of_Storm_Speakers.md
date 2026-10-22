@@ -19,7 +19,7 @@ data:
       A candidate stands the receptive test at Thrumufjall before a sponsoring Speaker presents him for examination; the conclave of Storm-Captains also tries and casts out a Speaker for cause, and chooses the Voice of the Hammer from among its own for life.
     ranks:
       - level: 0
-        title: Eidvargr
+        title: Eidvargur
         lore: putfromordrrnk
         description: >-
           An outlaw of the oath, his sworn vows void. Cast out by conclave of the Storm-Captains, closing Thrumufjall and every chapter hall's hospitality for good.
@@ -80,7 +80,7 @@ A sponsoring Speaker presents a candidate, typically between sixteen and twenty 
 
 The order holds four ranks:
 
-Put from the Order (_Eidvargr_)
+Put from the Order (_Eidvargur_)
 : cast out by conclave of the Storm-Captains, which closes Thrumufjall and every chapter hall's hospitality for good.
 
 Storm-Aspirant (_Eidefnir_)

@@ -23,13 +23,13 @@ data:
         description: >-
           The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the offering at a valley infirmary's hov by its own gudi, cutting a man from Frodvin's clergy and from the care it extends to the sick.
       - level: 1
-        title: Bletmadr
+        title: Bletmadur
         lore: blotmadrrnk
         description: >-
           Attends the blet at a valley infirmary's hov, sharing the harvest-offering most of Frodvin's faithful never rise past.
       - level: 2
-        title: Hofsmadr
-        lore: hofsmadrrnk
+        title: Hofsmadur
+        lore: hofsmadurrnk
         description: >-
           Given to a valley infirmary's hov young, laboring at its herb-lore and its sick for years short of any claim to the priesthood.
       - level: 3
@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-The first thing a hofsmadr learns at a hov of Frodvin is to carry water. Nobody explains it; you carry it to the herb beds in the morning, to the sickroom at noon and out to the field benches when the [Blessing of the Fields]{.name data-type="lore/custom"} comes round, and sometime in the second year you notice that all three trips are the same prayer. A young hofsmadr bent over a drying rack of yarrow says it better: "People come here wanting to be told the god is kind. He is. But what he does with his kindness is hand you a bucket."
+The first thing a hofsmadur learns at a hov of Frodvin is to carry water. Nobody explains it; you carry it to the herb beds in the morning, to the sickroom at noon and out to the field benches when the [Blessing of the Fields]{.name data-type="lore/custom"} comes round, and sometime in the second year you notice that all three trips are the same prayer. A young hofsmadur bent over a drying rack of yarrow says it better: "People come here wanting to be told the god is kind. He is. But what he does with his kindness is hand you a bucket."
 
 [[lore-frodvindty|Frodvin]] is the compassionate god of fertility, agriculture, peace and healing, and the faith holds a special place among farmers and rural folk, who believe their harvests and herds depend on his blessing. Temples of Frodvin are rare, and they are invariably attached to hospitals: they serve the sick first. The clergy are mendicant, humble in dress and in habit, and are most often found working beside their flock in fields and glens. They hold their services outdoors, under the open sky, so that worshippers seek to meet the god directly through the earth and what it yields.
 
@@ -76,10 +76,10 @@ The ladder is the one every blet-keeping faith of the Ten shares, and in Frodvin
 Refused the Blet
 : denied the offering at a valley infirmary's hov, and cut from the clergy and from the care it extends to the sick.
 
-Bletmadr
+Bletmadur
 : attends the blet at a valley infirmary's hov and shares its harvest-offering.
 
-Hofsmadr
+Hofsmadur
 : given to a valley infirmary's hov young, laboring at its herb-lore and its sick before any claim to the priesthood.
 
 Gudi / Gudja

@@ -18,7 +18,7 @@ data:
       What this cult confers is taught in secret rather than offered at a public rite: a hidden hov's gudi admits an offerer, teaches an initiate the observances known only to Nahild's own, and takes the sacrifices nobody outside the faith may witness. No rank of the land reaches here, and nothing above a hidden hov's gudi answers for it, because the pattern the other seven faiths of the Ten share depends on a public blet this cult cannot keep.
     ranks:
       - level: 0
-        title: Navargr
+        title: Navargur
         lore: betrayerrnk
         description: >-
           An outlaw of the corpse-goddess, cast out after betraying the cult that received him. Named a hidden hov, an initiate or a gudi to outsiders and lost the shelter the cult's secrecy owed him; the hov he betrayed owes him nothing further.
@@ -50,7 +50,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-No hov of the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten) in the [[place-nrdlndsrgn|Nordlands Region]] will take an offering from the Faith of Nahild, and no kingdom lets her clergy stand in the open, so nobody can tell you where one of her hovs is. A landvordr who has ridden the dues circuit for twenty winters gives a new clerk the one rule she has about them: "You will never be shown a hov of hers, and nobody who has stood in one will tell you where. If a hov will not say where it stands or who keeps it, ask what the secrecy is for. Her faith is the only one of the Ten the other nine call a heresy, and it survives because the hungers it feeds on survive in every generation: rage, grief nobody admits to, envy nobody settled."
+No hov of the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten) in the [[place-nrdlndsrgn|Nordlands Region]] will take an offering from the Faith of Nahild, and no kingdom lets her clergy stand in the open, so nobody can tell you where one of her hovs is. A landvordur who has ridden the dues circuit for twenty winters gives a new clerk the one rule she has about them: "You will never be shown a hov of hers, and nobody who has stood in one will tell you where. If a hov will not say where it stands or who keeps it, ask what the secrecy is for. Her faith is the only one of the Ten the other nine call a heresy, and it survives because the hungers it feeds on survive in every generation: rage, grief nobody admits to, envy nobody settled."
 
 What follows is what the cult's own accounts claim for it.
 

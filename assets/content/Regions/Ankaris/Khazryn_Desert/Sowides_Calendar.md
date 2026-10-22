@@ -12,7 +12,7 @@ data:
     - {name: Volket, abbreviation: Vol, days: 91}
     - {name: Orqaz, abbreviation: Orq, days: 91}
     - {name: Uruvaq, abbreviation: Uru, days: 91}
-    - {name: Vootri, abbreviation: Voo, days: 92}
+    - {name: Votri, abbreviation: Voo, days: 92}
   eras:
     - {shortcode: bfu, name: Before the Lantern Union, abbreviation: BLU, marker: BLU, start: null}
     - {shortcode: lu, name: The Lantern Union, abbreviation: LU, marker: SLU, start: 1}
@@ -33,7 +33,7 @@ The year is four seasons, and each season is also a month. The tribes divide the
 - [Volket]{.name data-type="lore/calendar"}, the grass, ninety-one days. The spring rain falls on the north and the western margin, the herds fatten and the tribes move onto the high grazing. The late storms that bury a camp in an hour come before it ends.
 - **Orqaz**, the heat, ninety-one days. The wells drop, the tribes draw in to the water they own, and the caravans that dare the crossing march by night.
 - [Uruvaq]{.name data-type="lore/calendar"}, the wind, ninety-one days. The heat breaks, the autumn markets are held, and the cold winds that close the northern and eastern stretches begin before the season ends.
-- [Vootri]{.name data-type="lore/calendar"}, the cold, ninety-two days. The tribes winter at the stone wells. The year closes on the day before the grass returns.
+- [Votri]{.name data-type="lore/calendar"}, the cold, ninety-two days. The tribes winter at the stone wells. The year closes on the day before the grass returns.
 
 ## The Eras
 

@@ -28,7 +28,7 @@ Three things make up the night, and the boy on the headland names them as a chil
 [[lore-jol|Jel]]
 : the twelve nights at the other end of the year
 
-[[lore-sumarmal|Somarmál]] and [[lore-vetrnaetr|Vetrnetr]]
+[[lore-sumarmal|Somarmál]] and [[lore-veturnetur|Veturnetur]]
 : the festivals that open and close the open season
 
 [[affiliation-bjartr|Faith of Bjart]]

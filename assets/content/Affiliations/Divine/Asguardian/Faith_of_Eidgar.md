@@ -23,13 +23,13 @@ data:
         description: >-
           The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the offering at the hov where the local ting sits by its own gudi, cutting a man from Eidgar's clergy and from the assembly's standing in one stroke.
       - level: 1
-        title: Bletmadr
+        title: Bletmadur
         lore: blotmadrrnk
         description: >-
           Attends the blet at the hov where the ting sits, sharing the meal that binds Eidgar's faithful to the law as well as the god.
       - level: 2
-        title: Hofsmadr
-        lore: hofsmadrrnk
+        title: Hofsmadur
+        lore: hofsmadurrnk
         description: >-
           Given to the hov where the ting sits, laboring at its observances for years short of standing in the priesthood that judges there.
       - level: 3
@@ -61,11 +61,11 @@ sohl: {system: {commonSkills: []}}
 
 Bring a dispute to a hov of Eidgar and the first question is what you are prepared to swear. A jarl who patronizes the hov beside her province's ting explains why she carries her quarrels there: "A ruling given in the open binds me as hard as it binds my neighbor, and a ruling sworn on the god's own oath ring binds us both harder. I would rather lose a boundary than be known to have walked away from that oath."
 
-[[lore-eidgardty|Eidgar]] is the god of justice and honorable combat, the judge whose standard is fairness, valor and sacrifice. His founding myth tells how he gave his hand to the great wolf [[lore-vetrulfr|Vetrúlfr]], and his faith reads the loss as the model of what it asks: a decision that costs the one who makes it nothing is not worth trusting. Temples of Eidgar are places of law and order, where disputes are settled and oaths are sworn. Warriors are trained there in the ethics that govern their weapons as well as in the weapons themselves, and the faithful are expected to fight with honor and never to use deceit or unnecessary cruelty.
+[[lore-eidgardty|Eidgar]] is the god of justice and honorable combat, the judge whose standard is fairness, valor and sacrifice. His founding myth tells how he gave his hand to the great wolf [[lore-vetrulfur|Vetrúlfur]], and his faith reads the loss as the model of what it asks: a decision that costs the one who makes it nothing is not worth trusting. Temples of Eidgar are places of law and order, where disputes are settled and oaths are sworn. Warriors are trained there in the ethics that govern their weapons as well as in the weapons themselves, and the faithful are expected to fight with honor and never to use deceit or unnecessary cruelty.
 
 ## The God and His Standing
 
-Images show Eidgar as a noble, stoic figure whose one remaining hand holds a sword or a pair of scales, for he is warrior and judge together, and he commands respect as the moral compass for warriors and leaders. In the faith’s account of the cosmic struggle between order and chaos he stands in direct opposition to [[lore-svartbrandrdty|Svartbrandr]], and the faithful read their battles as that eternal contest in miniature. His bond with [[lore-frodvindty|Frodvin]] runs the other way, toward mutual respect and shared purpose: Frodvin nurtures the earth and fosters peace, and Eidgar makes certain that justice prevails, which gives growth and order a balance.
+Images show Eidgar as a noble, stoic figure whose one remaining hand holds a sword or a pair of scales, for he is warrior and judge together, and he commands respect as the moral compass for warriors and leaders. In the faith’s account of the cosmic struggle between order and chaos he stands in direct opposition to [[lore-svartbrandurdty|Svartbrandur]], and the faithful read their battles as that eternal contest in miniature. His bond with [[lore-frodvindty|Frodvin]] runs the other way, toward mutual respect and shared purpose: Frodvin nurtures the earth and fosters peace, and Eidgar makes certain that justice prevails, which gives growth and order a balance.
 
 A worshipper carries an iron scale for balance and fairness in judgment, a broken sword for sacrifice for the greater good, a shield fragment for the defense of justice, or an oath ring, which is used in the rites that bind oaths and keep honor. Three relics belong to the faith. [The Hand of Justice]{.name data-type="armorgear"} is unique, a finely made gauntlet of silver and iron forged to replace the god's lost hand; its wearer can tell truth from lies. [Oathkeeper's Sword]{.name data-type="weapongear"} is a ceremonial blade inscribed with runes of truth and justice, found in the larger or more important temples, and any oath sworn on it is held unbreakable, bound by Eidgar's authority. The [Shield of Honor]{.name data-type="armorgear"} is a sturdy shield painted with the scales of justice, believed to give its bearer better protection against treachery and deceit.
 
@@ -76,10 +76,10 @@ Every rung of the clergy centers on the hov where the local ting sits:
 Refused the Blet
 : denied the offering at the hov where the local ting sits, and cut from the clergy and from the assembly's standing.
 
-Bletmadr
+Bletmadur
 : attends the blet at the hov where the ting sits and shares the meal that binds the law to the god.
 
-Hofsmadr
+Hofsmadur
 : given to the hov where the ting sits, laboring at its observances before standing in the priesthood that judges there.
 
 Gudi / Gudja
@@ -88,7 +88,7 @@ Gudi / Gudja
 Hofgudi / Hofgudja
 : consecrates the hovs where tings sit, ordains their gudar, and performs the great blet at a season's turning.
 
-The faith's skills are legal knowledge and judgment, combat and strategy, oathbinding and mediation, and sacrifice and self-discipline. Two kinds of servant belong to Eidgar: the **Honorguard**, divine warriors who protect the sanctity of law and order, and **Vetrúlfr's Bane**, spirits that uphold justice and often appear in times of conflict to see that it is done fairly.
+The faith's skills are legal knowledge and judgment, combat and strategy, oathbinding and mediation, and sacrifice and self-discipline. Two kinds of servant belong to Eidgar: the **Honorguard**, divine warriors who protect the sanctity of law and order, and **Vetrúlfur's Bane**, spirits that uphold justice and often appear in times of conflict to see that it is done fairly.
 
 ## Ceremonies and Festivals
 
@@ -100,10 +100,10 @@ Three ordeals are held to win the god's favor. In the [Sword's Trial]{.name data
 
 ## See Also
 
-[[affiliation-logbrandr|Logbrandr]]
+[[affiliation-logbrandur|Logbrandur]]
 : the Order of the Sword, priests who master combat and the upholding of justice
 
-[[affiliation-eidringr|Eidringr]]
+[[affiliation-eidringur|Eidringur]]
 : the Oathsworn, priests who oversee the swearing of oaths and mediate on their breach
 
 [[affiliation-eidkappar|Eidkappar]]

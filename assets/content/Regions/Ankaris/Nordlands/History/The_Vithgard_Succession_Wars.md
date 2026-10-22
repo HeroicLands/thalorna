@@ -67,7 +67,7 @@ data:
         - what happens to Hrandstead's seat when Glirvorv dies, which the truce does not say
 ---
 
-"Check the lines before you check your sword," [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] tells the levymen he sells tents to, and the levy he learned it in was fighting a king's son against a king's son. **The Vithgard Succession Wars** are the war every captain of the north's free companies learned his trade in, and the truce that ended them is the kind that keeps a kingdom quiet rather than at peace.
+"Check the lines before you check your sword," [[being-dvrnvrhrfnsvld|Dvarnvir Hrafansvald]] tells the levymen he sells tents to, and the levy he learned it in was fighting a king's son against a king's son. **The Vithgard Succession Wars** are the war every captain of the north's free companies learned his trade in, and the truce that ended them is the kind that keeps a kingdom quiet rather than at peace.
 
 ## A King with Two Sons
 
@@ -77,7 +77,7 @@ Snirvmil, the elder, held Thrunborg and the coast, and the kingdom's ting at [[p
 
 ## Seven Summers
 
-It was a war of levies and hired swords, fought in the short season between the ships going out and the slaughter. The [[affiliation-malldbndlg|Compact's companies]] sold their swords to both brothers, which is why the present Speaker of the Málalidabandalag, [Hrindvir Vetreldr]{.name data-type="being/npc"}, has one eye, and why a company that served Snirvmil one summer and Glirvorv the next was breaking no oath. The war's one remembered night is [The Burning of Inthstead]{.name data-type="lore/history"}, at the border steading of [[place-inthstead|Inthstead]], when fire took a levy's tent-lines with the men inside them, and Dvarnvir, then a young levyman, carried burning canvas out of his company's tent before it could close over his companions. Nothing in seven summers settled anything. Neither brother could take the other's ting, and a king who cannot be acclaimed by the whole assembly is a king of half a kingdom.
+It was a war of levies and hired swords, fought in the short season between the ships going out and the slaughter. The [[affiliation-malldbndlg|Compact's companies]] sold their swords to both brothers, which is why the present Speaker of the Málalidabandalag, [Hrindvir Vetreldur]{.name data-type="being/npc"}, has one eye, and why a company that served Snirvmil one summer and Glirvorv the next was breaking no oath. The war's one remembered night is [The Burning of Inthstead]{.name data-type="lore/history"}, at the border steading of [[place-inthstead|Inthstead]], when fire took a levy's tent-lines with the men inside them, and Dvarnvir, then a young levyman, carried burning canvas out of his company's tent before it could close over his companions. Nothing in seven summers settled anything. Neither brother could take the other's ting, and a king who cannot be acclaimed by the whole assembly is a king of half a kingdom.
 
 ## The Truce of Logstead
 

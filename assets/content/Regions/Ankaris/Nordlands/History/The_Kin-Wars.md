@@ -1,9 +1,9 @@
 ---
 shortcode: nordkinwars
-name: {full: The Kin-Wars, aliases: [The Ice at Skalfvatn, The Peace of Asgarthul]}
+name: {full: The Kin-Wars, aliases: [The Ice at Skalfvatan, The Peace of Asgarthul]}
 type: lore
 subType: history
-description: "From 420 to 471 AF Nordheim and Malagna fought for the first place in the north, by raid, by marriage and twice by host; the war ended under the ice of Skalfvatn in 466, where Malagna's king and eleven hundred men went through, and at Asgarthul in 471, where Norgaad's king made the peace that founded the Great Moot."
+description: "From 420 to 471 AF Nordheim and Malagna fought for the first place in the north, by raid, by marriage and twice by host; the war ended under the ice of Skalfvatan in 466, where Malagna's king and eleven hundred men went through, and at Asgarthul in 471, where Norgaad's king made the peace that founded the Great Moot."
 tags: [history, nordlands]
 data:
   culture: nordheimnclt
@@ -27,18 +27,18 @@ data:
             knowledge: named
       unresolved:
         - whether the Malagnan claim was ever heard at a sitting, or only pressed by host
-    - id: skalfvatn
+    - id: skalfvatan
       when: 466
       kind: battle
       depth: region
       stated: {calendar: domseycount, text: "180 KW"}
-      sources: [place-skalfvatn, affiliation-kingdomlgn, affiliation-kngdmnrdhm, lore-bloodfield]
+      sources: [place-skalfvatan, affiliation-kingdomlgn, affiliation-kngdmnrdhm, lore-bloodfield]
       summary: >-
-        In the last weeks of winter King Gnirthorv of Malagna leads his host across the frozen border lake of Skalfvatn to take King Thrildorv's Nordheim host from behind. Thrildorv holds the far shore, and the ice gives under the Malagnan centre: about eleven hundred men and the king go through. Nordheim burns its own dead with full honors; the Malagnan drowned stay under the ice, unburned and without grave-ale, and the lake is a blood-field.
+        In the last weeks of winter King Gnirthorv of Malagna leads his host across the frozen border lake of Skalfvatan to take King Thrildorv's Nordheim host from behind. Thrildorv holds the far shore, and the ice gives under the Malagnan centre: about eleven hundred men and the king go through. Nordheim burns its own dead with full honors; the Malagnan drowned stay under the ice, unburned and without grave-ale, and the lake is a blood-field.
       standing: attested
-      names: [{name: the Ice at Skalfvatn, by: affiliation-skaldscrcl}]
+      names: [{name: the Ice at Skalfvatan, by: affiliation-skaldscrcl}]
       where:
-        locus: [place-skalfvatn]
+        locus: [place-skalfvatan]
         reach:
           - place: place-gnarthborg
             how: the crown passes to Gnirthorv's younger son's line, which names itself from Hlurthann I rather than from the drowned king
@@ -82,12 +82,12 @@ data:
             knowledge: named
       who: [{ref: affiliation-kingdmnrgd, role: actor}]
       follows:
-        - {event: "lore-nordkinwars#skalfvatn", how: caused, note: the ice that ended the war}
+        - {event: "lore-nordkinwars#skalfvatan", how: caused, note: the ice that ended the war}
       unresolved:
         - the terms on the peace-stave's uncut face, which the parties never agreed and the Moot has never ruled on
 ---
 
-The ice-fishers of [[place-skalfvatn|Skalfvatn]] teach their children one sound before any other: a boom under the ice in a marching beat, in the last weeks of winter, that means get off the lake and do not look back. The beat is the Malagnan host of 466 still crossing, and **the Kin-Wars** are why it is down there.
+The ice-fishers of [[place-skalfvatan|Skalfvatan]] teach their children one sound before any other: a boom under the ice in a marching beat, in the last weeks of winter, that means get off the lake and do not look back. The beat is the Malagnan host of 466 still crossing, and **the Kin-Wars** are why it is down there.
 
 ## A Crown with Two Claimants
 
@@ -95,7 +95,7 @@ The first four kings of [[affiliation-kngdmnrdhm|Nordheim]] passed the arm-ring 
 
 Two generations fought over it the way kingdoms with fleets and short summers fight: a raid on a hall in [[lore-midsumar|Midsomar]], a marriage in the winter to bind what the raid had taken, another raid when the marriage failed to. The border between the two kingdoms is lined with howes from these years, and each crown claims some of the other's dead as its own. Twice the quarrel became a host.
 
-## The Ice at Skalfvatn
+## The Ice at Skalfvatan
 
 The second time was 466. King [Gnirthorv]{.name data-type="being/npc"} of Malagna brought his host to the border in the last weeks of winter, when the lake that lies along the line was still frozen, and meant to cross it and take King [Thrildorv]{.name data-type="being/npc"}'s host from behind before the thaw opened the roads. His pilots told him the ice was shuddering, the sound the [[skill-nordmalng|Nordmál language]] has a word for, _skalf_, the shudder in ice before it gives; the lake is named for it. He crossed anyway, because Thrildorv was on the far shore with fewer men and the thaw would bring more.
 
@@ -111,14 +111,14 @@ Snirvthann asked a price. Norgaad held five seats on [[place-domsey|Domsey]] aga
 
 ## What It Left
 
-- **The field.** Skalfvatn, a recurrence, moderate: dangerous to anyone who answers a call from under the ice.
+- **The field.** Skalfvatan, a recurrence, moderate: dangerous to anyone who answers a call from under the ice.
 - **The blank stone.** Gnirthorv's arm-ring is under the lake. The man who brings it up holds a token of the oldest Hlurthidrok claim in a kingdom on the edge of civil war, and a Nordheim jarl who wants the blank stone cut and the grave-ale drunk would end the field and hand Malagna a wergild claim older than its present king.
 - **The [[place-asgarthul|Great Moot]].** Norgaad's Lawspeaker can call the kingdoms to Asgarthul between sittings, and does.
 - **The habit.** Nordheim and Malagna have been rivals since, fraternal and competitive at once, and the border howes are robbed by both sides' kin.
 
 ## See Also
 
-- [[place-skalfvatn|Skalfvatn]]—the lake and its field
+- [[place-skalfvatan|Skalfvatan]]—the lake and its field
 - [[place-asgarthul|Asgarthul]]—the hall of the peace and the Great Moot
 - [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] · [[affiliation-kingdomlgn|Kingdom of Malagna]]—the two crowns
 - [[lore-nordfirstsit|The First Sitting on Domsey]]—the first time the two settled a quarrel with hirvs

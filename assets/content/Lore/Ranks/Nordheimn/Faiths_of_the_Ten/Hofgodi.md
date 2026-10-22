@@ -12,7 +12,7 @@ No hov of the faith stands unless a priest of Hofgudi / Hofgudja standing has co
 
 ## What This Standing Is
 
-A hofgudi or hofgudja consecrates a hov, ordains the gudar who serve under it, and performs the great blet at [[lore-jol|Jel]], [[lore-sumarmal|Somarmál]], [[lore-midsumar|Midsomar]], or [[lore-vetrnaetr|Vetrnetr]]. Nothing religious sits above this standing: no rank of the land reaches inside a faith, and no faith answers to a pontiff.
+A hofgudi or hofgudja consecrates a hov, ordains the gudar who serve under it, and performs the great blet at [[lore-jol|Jel]], [[lore-sumarmal|Somarmál]], [[lore-midsumar|Midsomar]], or [[lore-veturnetur|Veturnetur]]. Nothing religious sits above this standing: no rank of the land reaches inside a faith, and no faith answers to a pontiff.
 
 ## How the Law Treats a Person Here
 

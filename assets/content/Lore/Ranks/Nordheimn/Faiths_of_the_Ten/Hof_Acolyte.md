@@ -1,6 +1,6 @@
 ---
-shortcode: hofsmadrrnk
-name: {full: "Hofsmadr", aliases: [Hov Acolyte]}
+shortcode: hofsmadurrnk
+name: {full: "Hofsmadur", aliases: [Hov Acolyte]}
 type: lore
 subType: law
 description: "Given to a hov young and years short of the priesthood, in the faiths of the Ten that keep the blet."
@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Not every young member of the [[lore-nordheimnclt|Nordheimn]] people spends years at a hov. A hofsmadr (hov acolyte) is given to a hov young, takes up its labor and learns its observances, and stands years short of the priesthood a gudi holds.
+Not every young member of the [[lore-nordheimnclt|Nordheimn]] people spends years at a hov. A hofsmadur (hov acolyte) is given to a hov young, takes up its labor and learns its observances, and stands years short of the priesthood a gudi holds.
 
 ## What This Standing Is
 
@@ -20,7 +20,7 @@ He is bound to the hov's own rule rather than to the ting or to a clan: the hov 
 
 ## Privileges
 
-He learns the observances of his hov under its gudi, and shares its blet with its people as a bletmadr does.
+He learns the observances of his hov under its gudi, and shares its blet with its people as a bletmadur does.
 
 ## Obligations
 

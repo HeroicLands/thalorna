@@ -3,7 +3,7 @@ shortcode: hlrthsldhrngsdtr
 name:
   full: Hlirthselda Hringsdottir
   given: Hlirthselda
-  aliases: [the Shield-Maiden of Vrathavn]
+  aliases: [the Shield-Maiden of Vrathavan]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, soldiery]
@@ -14,7 +14,7 @@ data:
   occupation: Huscarl
   lore: []
   culture: nordheimnclt
-  homes: [vrathavn]
+  homes: [vrathavan]
   affiliations: {kingdmnrgd: {rank: 4}, thrunvald: {rank: 1}}
   gender: female
   species: humanflk
@@ -426,7 +426,7 @@ Hlirthselda is 5’10" with a strong, athletic build, weighing about 180 pounds.
 
 # Dossier {#dossier}
 
-Hlirthselda is a fierce warrior from the trading town of [[place-vrathavn|Vrathavn]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Groa]] during a battle with raiders from the [[affiliation-kingdmtrgd|Kingdom of Targud]]. [[being-grosdrnrgd|Groa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
+Hlirthselda is a fierce warrior from the trading town of [[place-vrathavan|Vrathavan]], a town known for its warlike traditions and its ships of raiders. Born into a warrior clan, Hlirthselda was trained from childhood in the use of weapons, particularly the spear and shield. Her clan holds the duty of protecting [[place-norgaad|Norgaad]]’s coastlines from invaders and raiders. Hlirthselda first encountered [[being-grosdrnrgd|Groa]] during a battle with raiders from the [[affiliation-kingdmtrgd|Kingdom of Targud]]. [[being-grosdrnrgd|Groa]]’s strange powers and ability to foresee the movements of the enemy saved Hlirthselda’s warband and won her respect.
 
 ## Background
 
@@ -512,5 +512,5 @@ Waves of Betrayal
 The Crimson Banner
 : A rival shield-maiden challenges Hlirthselda to lead a raid into contested territory to recover a sacred relic—a crimson banner said to bring victory in battle. The mission forces Hlirthselda to handle treacherous terrain, hostile enemies, and the tension of competing loyalties within her own warband.
 
-The Ghosts of Vrathavn
-: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavn, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.
+The Ghosts of Vrathavan
+: After a fierce storm, the spirits of fallen warriors are seen wandering the outskirts of Vrathavan, lamenting their unfulfilled oaths. Hlirthselda learns that these warriors fought under her family’s banner but were betrayed by a forgotten ally. To lay their spirits to rest, she must uncover the truth of their betrayal and bring justice to those responsible, even if it means facing powerful enemies.

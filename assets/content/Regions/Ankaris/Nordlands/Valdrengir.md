@@ -10,7 +10,7 @@ data: {packFolder: nordlands, culture: nordheimnclt}
 
 "I cannot tell you where your brother is," a velva says at a howe-wake to the household that has asked her. "I can tell you what the halls teach about the honored dead, and that is a different gift." What the halls teach concerns the **Valdrengir**, the honored dead gathered into the defending gods' halls to wait and train for [[lore-aldarlok|Aldarlok]].
 
-The Asguardian account names who is gathered: fallen warriors, oath-keepers who die keeping their word, mothers who die in childbirth, and craftsmen who fall defending their work. Their principal destinations are [[place-valsalhall|Ódvarsholl]] in [[place-valsal|Valsal]] and [[place-solvangrhall|Sólrunsholl]] on [[place-solvangr|Solvangr]]. In Valsal the warriors arm and fight each day, recover their wounds by evening and feast at the hall.
+The Asguardian account names who is gathered: fallen warriors, oath-keepers who die keeping their word, mothers who die in childbirth, and craftsmen who fall defending their work. Their principal destinations are [[place-valsalhall|Ódvarsholl]] in [[place-valsal|Valsal]] and [[place-solvangurhall|Sólrunsholl]] on [[place-solvangur|Solvangur]]. In Valsal the warriors arm and fight each day, recover their wounds by evening and feast at the hall.
 
 The standard telling musters the honored dead on [[place-vigvoll|Vigvoll]] beside the defending gods for a war they know is lost. Their willingness to gather is the faith's virtue of defiance, and the velva leaves it at that.
 
@@ -141,7 +141,7 @@ with no evening after.
 They learn for that day;
 they learn together.
 
-On Solvangr, tables
+On Solvangur, tables
 stand bright with welcome.
 Worked timber glows;
 the gold is given.
@@ -230,7 +230,7 @@ for a dawn like this.
 Companies pass;
 the cups stand empty.
 Valsal goes forth;
-Solvangr follows.
+Solvangur follows.
 Vigvoll welcomes
 the feet of the worthy.
 Shield and sworn word,
@@ -249,7 +249,7 @@ where the World-Wyrm rises.
 Eidgar approaches
 his ancient adversary.
 Frodvin faces
-Svartbrandr's fire blade.
+Svartbrandur's fire blade.
 The dead do not bid
 the gods stand behind them.
 The gods do not bid

@@ -11,7 +11,7 @@ data:
   population: null
   borders: [{to: velanthrgn, bearing: E}]
   routes:
-    - {to: edrwald, bearing: W, mode: land, days: 45, terrain: [forest]}
+    - {to: edriwald, bearing: W, mode: land, days: 45, terrain: [forest]}
     - {to: skathwald, bearing: E, mode: land, days: 45, terrain: [forest]}
     - {to: vrystwldrvrs, bearing: SW, mode: boat, days: 20, terrain: [river]}
   packFolder: vrystwald
@@ -31,5 +31,5 @@ Thornwald is where eastern [[place-vrystwald|Vristwald]] meets [[place-velanthrg
 [[place-velanthrgn|Velanthia]]
 : the neighboring grain country
 
-[[place-edrwald|Edrwald]] and [[place-skathwald|Skathwald]]
+[[place-edriwald|Edriwald]] and [[place-skathwald|Skathwald]]
 : the reaches on either side

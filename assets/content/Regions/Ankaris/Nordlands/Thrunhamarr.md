@@ -168,7 +168,7 @@ Aldarlok enters the hall singing;
 all cups halt in passing.
 The wyrm waits on Vigvoll;
 wide lies its dreadful shadow.
-Heimsormr heaves before the god;
+Heimsormur heaves before the god;
 high lifts the hammer again.
 Knowingly the knuckles close;
 knowledge bears the weight within.

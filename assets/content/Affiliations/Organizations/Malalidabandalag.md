@@ -23,12 +23,12 @@ data:
       A captain swears his company into the Compact before the Council of the Hall and becomes a Signed Captain outright; the Council also discharges a captain in disgrace by vote, and elects the Speaker of the Compact from among its own for a five-year term.
     ranks:
       - level: 0
-        title: Bandlagsvargr
+        title: Bandlagsvargur
         lore: dischargedrnk
         description: >-
-          The league's outlaw, cast out of the Compact that received his company. Expelled by Council vote, the bandlagshringr surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
+          The league's outlaw, cast out of the Compact that received his company. Expelled by Council vote, the bandlagshringur surrendered and the company's contracts dishonored, its hostels closed and its old debts settled by rivals the Compact will not restrain.
       - level: 1
-        title: Bandlagsmadr
+        title: Bandlagsmadur
         lore: companyswornrnk
         description: >-
           A man on the league's roll through the oath of his signed company. A common warrior testified by his captain rather than sworn directly to the Compact, holding its truce and a legible oath when he crosses from one signed company to another.
@@ -36,7 +36,7 @@ data:
         title: Signed Captain
         lore: signedcaptnrnk
         description: >-
-          Swears the company into the Compact before the Council of the Hall, wears the bandlagshringr, and answers before the Council for the company's conduct under its oath.
+          Swears the company into the Compact before the Council of the Hall, wears the bandlagshringur, and answers before the Council for the company's conduct under its oath.
     offices:
       Speaker of the Compact: >-
         Elected by the Council of the Hall for a five-year term; one position, holding the Compact's day-to-day administration.
@@ -81,11 +81,11 @@ You come to the Hall with your muster named and your oath ready. A company joins
 
 The Compact confers three standings:
 
-- A Signed Captain swore his company in before the Council. He wears the _bandlagshringr_ and answers to the Council for his company's conduct.
+- A Signed Captain swore his company in before the Council. He wears the _bandlagshringur_ and answers to the Council for his company's conduct.
 - A warrior of his company holds the lesser standing of Sworn of a Signed Company. He is testified by his captain's oath rather than sworn to the Compact directly, and he is bound by whatever his captain swore on the company's behalf.
 - A captain who breaks the Compact's rules is Discharged in Disgrace by Council vote. His ring is surrendered, his company's contracts are dishonored, and its old debts pass to rivals the Compact will not restrain.
 
-Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadr_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is [Hrindvir Vetreldr]{.name data-type="being/npc"}, a one-eyed veteran of [[lore-vthgrdsccwrs|the Vithgard succession wars]], widely respected and very much feared.
+Day to day, the **Speaker of the Compact**, the _Bandalagstalsmadur_, runs the Hall. The Council elects the Speaker for a five-year term, and the present Speaker is [Hrindvir Vetreldur]{.name data-type="being/npc"}, a one-eyed veteran of [[lore-vthgrdsccwrs|the Vithgard succession wars]], widely respected and very much feared.
 
 Thirty-four signed companies of meaningful size answer to the Hall, from twelve-sword scouting bands to the Hringstead Long-Ship Fellowship, which counts nearly four hundred warriors and twelve ships. The largest signed company in living memory was the [Stormhand Brotherhood]{.name data-type="affiliation/venture"}, six hundred swords, [[lore-stormhandfld|broken about 692]] in western [[place-vrystwald|Vristwald]], a week's march over the frontier, on a Nordheim jarl's contract. People still tell its story as a caution.
 
@@ -119,7 +119,7 @@ The rules are short, and a captain who breaks any of them faces expulsion. In th
 
 ## The Ring
 
-A signed captain wears a heavy bronze ring on the right thumb, the _bandlagshringr_, bearing the Compact's mark and his own sigil. The Council awards it at the swearing and takes it back at expulsion. Common warriors wear no Compact mark beyond their company's own; their captain testifies to their standing.
+A signed captain wears a heavy bronze ring on the right thumb, the _bandlagshringur_, bearing the Compact's mark and his own sigil. The Council awards it at the swearing and takes it back at expulsion. Common warriors wear no Compact mark beyond their company's own; their captain testifies to their standing.
 
 ## Trouble to Hand
 

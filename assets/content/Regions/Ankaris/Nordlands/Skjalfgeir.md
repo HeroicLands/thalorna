@@ -179,7 +179,7 @@ Vigvoll waits for the muster;
 vast doom lies before it.
 Wolf breaks its binding chain;
 wisdom knows whom it takes.
-The All-Father falls to Vetrúlfr;
+The All-Father falls to Vetrúlfur;
 all praise bears that ending.
 Speak the spear's straight name;
 speak beside the known darkness.

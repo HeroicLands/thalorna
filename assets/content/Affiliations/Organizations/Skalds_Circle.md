@@ -2,7 +2,7 @@
 shortcode: skaldscrcl
 name:
   full: The Skalds' Circle
-  aliases: [Skaldahringr, The Memory of the North, The Skalds' Guild]
+  aliases: [Skaldahringur, The Memory of the North, The Skalds' Guild]
 type: affiliation
 subType: fellowship
 description: "Pan-Nordlands fellowship of skalds—keepers of saga, kin-line, and the spoken record of every kingdom, hall, and free company across the north."
@@ -19,7 +19,7 @@ data:
       A master swears an apprentice into the Circle once a Skaldating accepts his geldra; the assembled skalds convict and ring-break one who breaks the truth of the recital, and the Circle acclaims a Stóraldstjori by peer recognition rather than vote.
     ranks:
       - level: 0
-        title: Skaldavargr
+        title: Skaldavargur
         lore: ringbrokenrnk
         description: >-
           The skalds' outlaw, deprived of the standing the Circle grants. Convicted of breaking the truth of the recital, the silver arm-ring broken at the next Skaldating—a punishment with no recovery, imposed perhaps seven times in living memory.
@@ -32,7 +32,7 @@ data:
         title: Skald
         lore: skaldrnk
         description: >-
-          Sworn in by the master once the geldra is accepted, wearing the forged skaldhringr, entitled to food, shelter and safe passage at any hall, and bound to recite truly even against his own employer.
+          Sworn in by the master once the geldra is accepted, wearing the forged skaldhringur, entitled to food, shelter and safe passage at any hall, and bound to recite truly even against his own employer.
       - level: 4
         title: Stóraldstjori
         lore: storaldstjrnk
@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 Nothing a skald recites is written down, because parchment burns in a night and can be forged in an afternoon. An apprentice who will present a geldra at the next [[lore-skaldating|Skaldating]] learns that some day he will be asked to say what was sworn in a hall, and that he will say it as it was said, even if the man who feeds him has stopped listening.
 
-The Skalds' Circle, the Skaldahringr or "Ring of the Skalds," is the fellowship of every sworn skald in the north and the keeper of the north's spoken record. An outsider remembers it for the truth of the recital: a skald's account of an oath, a genealogy or a judgment counts in the Asguardian courts as documentary evidence, and the Circle breaks the ring of any skald who falsifies one.
+The Skalds' Circle, the Skaldahringur or "Ring of the Skalds," is the fellowship of every sworn skald in the north and the keeper of the north's spoken record. An outsider remembers it for the truth of the recital: a skald's account of an oath, a genealogy or a judgment counts in the Asguardian courts as documentary evidence, and the Circle breaks the ring of any skald who falsifies one.
 
 Type
 : pan-regional bardic fellowship
@@ -93,7 +93,7 @@ Skald
 : the sworn singer, entitled to food, shelter and safe passage at any hall, and bound to recite truly even against his own employer.
 
 Stóraldstjori
-: the "saga-master" (_Sogmadr_), a senior skald whose composed sagas the Circle has accepted into its standing repertoire. His peers acclaim him; no one appoints him.
+: the "saga-master" (_Sogmadur_), a senior skald whose composed sagas the Circle has accepted into its standing repertoire. His peers acclaim him; no one appoints him.
 
 Two offices sit above a sworn Skald without raising him further. The Hirvskáld is a court skald in formal service to a jarl or king, the most prestigious working position the craft offers. The Logskáld, the law-skald, specializes in reciting legal precedents and witnessing formal proceedings. Few in number, the Logskaldar are indispensable to Nordland legal practice.
 
@@ -107,7 +107,7 @@ The third principle has cost skalds their positions and occasionally their lives
 
 ## Who Wears the Ring
 
-A sworn skald wears a silver arm-ring, the _skaldhringr_, forged at the swearing and worn for life. It bears the marks of his master and his master's master, traced back as far as the Circle's records permit. A skald convicted of breaking the truth of the recital has the ring broken in his presence at the next [[lore-skaldating|Skaldating]], a punishment with no recovery that has been imposed perhaps seven times in living memory. Court skalds pin a brooch in the shape of a raven, [[lore-odvardty|Odvar]]'s bird, to the cloak.
+A sworn skald wears a silver arm-ring, the _skaldhringur_, forged at the swearing and worn for life. It bears the marks of his master and his master's master, traced back as far as the Circle's records permit. A skald convicted of breaking the truth of the recital has the ring broken in his presence at the next [[lore-skaldating|Skaldating]], a punishment with no recovery that has been imposed perhaps seven times in living memory. Court skalds pin a brooch in the shape of a raven, [[lore-odvardty|Odvar]]'s bird, to the cloak.
 
 The Hirvskaldar at the five courts are known by the sagas they compose more than by their names. The senior sogumenn number perhaps a dozen at any time, scattered across the kingdoms, and their compositions are the standing repertoire taught to every apprentice.
 

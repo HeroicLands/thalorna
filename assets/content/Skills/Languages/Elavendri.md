@@ -2292,8 +2292,8 @@ data:
       - "Úlmernde"
       - "Hérselnde"
       - "Ósselnde"
-      - "Ílsevnde"
-      - "Kélvasnde"
+      - "Ílsevende"
+      - "Kélvasende"
       - "Thólmarnde"
       - "Élvannde"
       - "Sérdalnde"
@@ -2302,12 +2302,12 @@ data:
       - "Lísernde"
       - "Tírvalnde"
       - "Dórkimnde"
-      - "Hálmesnde"
+      - "Hálmesende"
       - "Órhaimnde"
-      - "Úrthavnde"
-      - "Háresnde"
+      - "Úrthavende"
+      - "Háresende"
       - "Thaurnde"
-      - "Sémrothnde"
+      - "Sémrothende"
       - "Darel"
       - "Elarven"
       - "Halren"
@@ -2635,9 +2635,9 @@ data:
     - {name: Chief Úlmera, tongue: translation}
     - {name: Sérdale Lísernde, tongue: elavendri}
     - {name: Elder Healer Sérdale, tongue: translation}
-    - {name: Chénira Háresnde, tongue: elavendri}
+    - {name: Chénira Háresende, tongue: elavendri}
     - {name: Captain Chénira, tongue: translation}
-    - {name: Vargen Hálmesnde, tongue: elavendri}
+    - {name: Vargen Hálmesende, tongue: elavendri}
     - {name: Lord Vargen, tongue: translation}
     - {name: Dalren Mórlineth, tongue: elavendri}
     - {name: Lord Dalren Mórlineth, tongue: translation}
@@ -2648,7 +2648,7 @@ data:
     - {name: Tralkar Hérselnde, tongue: elavendri}
     - {name: Captain Tralkar Hérselnde, tongue: translation}
     - {name: Captain Tralkar, tongue: translation}
-    - {name: Délitha Kélvasnde, tongue: elavendri}
+    - {name: Délitha Kélvasende, tongue: elavendri}
     - {name: Mother Délitha, tongue: translation}
     - {name: Áulirane Kardeth, tongue: elavendri}
     - {name: Lady Áulirane of Kardeth, tongue: translation}
@@ -2658,7 +2658,7 @@ data:
     - {name: Magistrate Ílsevile, tongue: translation}
     - {name: Sálvurne Áulirnde, tongue: elavendri}
     - {name: Foreman Sálvurne, tongue: translation}
-    - {name: Íthrola Sémrothnde, tongue: elavendri}
+    - {name: Íthrola Sémrothende, tongue: elavendri}
     - {name: Countess Íthrola, tongue: translation}
     - {name: Lotren Ílthernde, tongue: elavendri}
     - {name: Lord Lotren Ílthernde, tongue: translation}
@@ -2676,7 +2676,7 @@ data:
     - {name: Lady Nélamis, tongue: translation}
     - {name: Tenral Salthar, tongue: elavendri}
     - {name: Captain-Commander Tenral Salthar, tongue: translation}
-    - {name: Nyevasa Úrthavnde, tongue: elavendri}
+    - {name: Nyevasa Úrthavende, tongue: elavendri}
     - {name: Sorcerer Nyevasa, tongue: translation}
   retired:
     - {form: Tirwen, instead: Éllive, why: a name borrowed from an Earth tongue}
@@ -2851,7 +2851,7 @@ Gulmand, Hersel, Ossel, Sórvanda, Súldinne, Ílsevand, Sálvurnand, Sóurimand
 
 ## Clan Names
 
-Áulirnde, Ílthernde, Úlmernde, Hérselnde, Ósselnde, Ílsevnde, Kélvasnde, Thólmarnde, Élvannde, Sérdalnde, Ólnarnde, Láuvinnde, Lísernde, Tírvalnde, Dórkimnde, Hálmesnde, Órhaimnde, Úrthavnde, Háresnde, Thaurnde, Sémrothnde, Darel, Elarven, Halren, Kálmereth, Mórlineth, Othral, Párdalen, Salthar, Tárvenel, Véldarin
+Áulirnde, Ílthernde, Úlmernde, Hérselnde, Ósselnde, Ílsevende, Kélvasende, Thólmarnde, Élvannde, Sérdalnde, Ólnarnde, Láuvinnde, Lísernde, Tírvalnde, Dórkimnde, Hálmesende, Órhaimnde, Úrthavende, Háresende, Thaurnde, Sémrothende, Darel, Elarven, Halren, Kálmereth, Mórlineth, Othral, Párdalen, Salthar, Tárvenel, Véldarin
 
 ## Élavendri Lexicon {#lexicon}
 

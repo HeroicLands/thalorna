@@ -11,8 +11,8 @@ data:
   occupation: Herder
   lore: []
   culture: nordheimnclt
-  homes: [vrathavn]
-  affiliations: {kingdmnrgd: {rank: 3}, svartbrandr: {rank: 1}}
+  homes: [vrathavan]
+  affiliations: {kingdmnrgd: {rank: 3}, svartbrandur: {rank: 1}}
   socialTies: {being-skrldmylstrmbrn: patron}
   gender: male
   species: humanflk

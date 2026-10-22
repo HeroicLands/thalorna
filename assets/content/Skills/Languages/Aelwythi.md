@@ -508,7 +508,9 @@ data:
     - name: Geldar
       kind: given
       why: "An Élavendri-form name, borne by a member of the Dúnavarre embassy."
-    - {name: Hafringr, kind: byname, why: A Nordmal name borne by an Aelwythan of Nordmen descent.}
+    - name: Hafringur
+      kind: byname
+      why: A Nordmal name borne by an Aelwythan of Nordmen descent.
     - name: Hawise
       kind: given
       why: A short or foreign-shaped name that no listed element builds.
@@ -628,8 +630,6 @@ Aelwythi names have two parts, each an old word: a first part such as _Ald-_, _E
 **The consonants.** _w_, _th_, _d_, _l_, _r_, _f_ and _g_ are common. The hard sound is always written _k_, as in _Kuth-_ and _-rik_.
 
 **Endings.** Men's names end in _-wald_, _-rik_, _-mund_, _-win_ or _-red_. Women's names end in _-rith_, _-run_, _-ith_ or _-wyn_.
-
-**Spelling.** Aelwythi writes _ea_ as one syllable, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
 
 **What Aelwythi leaves out.** It has no _c_ outside _ch_. Its names are new pairings of the old parts, not the attested names of history.
 

@@ -17,7 +17,7 @@ data:
       A sworn devotee is Hand-Squire until the Council of Hands examines and admits him a Sworn Hand; the Council also tries and puts a Hand from the order for a broken ruling, and elects the Voice of Logstead from its Elder Hands for life.
     ranks:
       - level: 0
-        title: Eidvargr
+        title: Eidvargur
         lore: putfromordrrnk
         description: >-
           An outlaw of the oath, his sworn vows void. Cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case, closing every chapter's hospitality for good.
@@ -70,7 +70,7 @@ The order claims no sovereign authority. It works inside the law of each [[place
 
 It exists because local justice in the Nordlands can be corrupted. A ting convened in the hall of the jarl whose interests are at issue is not always able to rule against him. Over centuries the kings of the five kingdoms have found it useful to keep an institution to which contested matters can be referred, and from which their own subjects can demand referral when their faith in the local ting has run out. The order does not displace local justice. It stands behind it and steps forward when called.
 
-By tradition the knights ride alone or in pairs. They wear the broken-handed sigil of [[lore-eidgardty|Eidgar]], who is said to have sacrificed his right hand to bind [[lore-vetrulfr|Vetrúlfr]], and they carry at the saddle the white wand that marks their authority to convene a ting in his name.
+By tradition the knights ride alone or in pairs. They wear the broken-handed sigil of [[lore-eidgardty|Eidgar]], who is said to have sacrificed his right hand to bind [[lore-vetrulfur|Vetrúlfur]], and they carry at the saddle the white wand that marks their authority to convene a ting in his name.
 
 ## Becoming a Hand
 
@@ -78,11 +78,11 @@ Any sworn devotee of Eidgar who can pass the examinations may join. The examinat
 
 The order holds four ranks:
 
-Put from the Order (_Eidvargr_)
+Put from the Order (_Eidvargur_)
 : cast out at trial before the Council of Hands for softening a ruling, taking a gift from an interested party, or refusing a hard case. Every chapter's hospitality is closed to such a person for good.
 
 Hand-Squire (_Eidefnir_)
-: the admitted candidate, whom the knights call a _Hondskjoldr_, a hand's shield. He serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
+: the admitted candidate, whom the knights call a _Hondskjoldur_, a hand's shield. He serves a senior knight for five to ten years before standing for examination, doing the order's work while holding none of its authority to judge.
 
 Sworn Hand (_Eidhond_)
 : the working knight. He takes contracts from the order or rides his own circuit by elder permission, convening a ting under the white wand to render and enforce a ruling.

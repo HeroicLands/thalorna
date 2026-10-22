@@ -40,7 +40,7 @@ data:
           - place: place-ravenmoor
             how: the Synod institutes the compulsory call that year, requiring every vessel between the island and the mainland to put in at the port before any other
             knowledge: named
-          - place: place-vrathavn
+          - place: place-vrathavan
             how: a smith makes an iron-man to guard the town while the fleet is away, and the fjord keeps a reach the nets avoid
             knowledge: named
           - place: place-vrystwald
@@ -98,7 +98,7 @@ The Khazari did not come down to the plain. What is free of Vardanreach lives in
 
 ## The Year at Home
 
-The north remembers the same year by what happened while the fleets were away. At [[place-vrathavn|Vrathavn]], Norgaad's port, a smith made a guard of iron plates and human bones to stand the town's watch with so many of its men at sea, and a rune-worker cut a working into its chest; the guard stood through the winter, then killed its maker and walked into the fjord, and the nets still avoid the stretch of water where it went in. [[lore-nrgadhstry|Histories and Legends of Norgaad]] keeps the tale and the debt no ting has priced.
+The north remembers the same year by what happened while the fleets were away. At [[place-vrathavan|Vrathavan]], Norgaad's port, a smith made a guard of iron plates and human bones to stand the town's watch with so many of its men at sea, and a rune-worker cut a working into its chest; the guard stood through the winter, then killed its maker and walked into the fjord, and the nets still avoid the stretch of water where it went in. [[lore-nrgadhstry|Histories and Legends of Norgaad]] keeps the tale and the debt no ting has priced.
 
 In the forest south of the kingdoms the taking changed a trade. A jarldom that works a plain with thralls needs thralls by the tens of thousands, and within a decade captives from the Velanthian frontier and the [[place-moktur|Moktur]] passes were going down [[place-vrystwald|Vristwald]]'s rivers to Nordmen buyers by the boatload. The forest's own history tells that part.
 
@@ -110,7 +110,7 @@ The island did little. [[affiliation-kngdmldrth|Aldorath]] mustered no host agai
 
 - **The Jarldom.** Thirty thousand Nordmen, a hundred and twenty thousand thralls, and jarls who hold land on both sides of the water.
 - **Vorgald's grief.** A friendship of thousands of years ended in a summer, and a hold that did not come down and has not said why.
-- **The reach at Vrathavn.** A stretch of fjord the fishers will not net.
+- **The reach at Vrathavan.** A stretch of fjord the fishers will not net.
 - **A debt no ting has priced.** The north took a nation in one season and has never been asked to reckon it, because the only people who could ask are its thralls.
 
 A party can come to Stormveld as Nordheim kin taking service in a hall, or from the southern kingdoms the jarls raid, or from the high valleys where the free Vardain keep a list of names. The pilot's grandson will bring their hull in past the headland either way.
@@ -127,7 +127,7 @@ A party can come to Stormveld as Nordheim kin taking service in a hall, or from 
 : the hold whose friendship ended
 
 [[lore-nrgadhstry|Histories and Legends of Norgaad]]
-: the iron-man of Vrathavn
+: the iron-man of Vrathavan
 
 [[lore-domseycount|The Domsey Count]]
 : the Stormveld Generation

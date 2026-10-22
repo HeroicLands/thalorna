@@ -521,7 +521,7 @@ data:
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the lifted stone"
-    - form: loova
+    - form: lova
       class: "n"
       field: "The land: ground, hill, valley, shore and stone"
       gloss: "the far bank"
@@ -1184,7 +1184,7 @@ data:
     - {form: taumel, class: n, field: "Kin, hearth, the person and the body", gloss: "the folk"}
     - {form: voldan, class: "n", field: "Kin, hearth, the person and the body", gloss: "an elder"}
     - {form: yemi, class: adj, field: "Kin, hearth, the person and the body", gloss: "young"}
-    - {form: voonu, class: adj, field: "Kin, hearth, the person and the body", gloss: "old"}
+    - {form: vonu, class: adj, field: "Kin, hearth, the person and the body", gloss: "old"}
     - {form: ramme, class: "n", field: "Kin, hearth, the person and the body", gloss: "a body"}
     - form: pauttes
       class: "n"
@@ -1264,7 +1264,7 @@ data:
       field: "Kin, hearth, the person and the body"
       gloss: "a king, one who holds a crown"
     - {form: somarri, class: "n", field: "Kin, hearth, the person and the body", gloss: "a crown"}
-    - form: voorasi
+    - form: vorasi
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "an ancestor, one of a hearth's first"
@@ -1334,11 +1334,11 @@ data:
       gloss: "a bed, a sleeping place"
       concept: bed
       built: [naukki, "-sto"]
-    - form: voonursa
+    - form: vonursa
       class: "n"
       field: "Kin, hearth, the person and the body"
       gloss: "oldness"
-      built: [voonu, "-rsa"]
+      built: [vonu, "-rsa"]
     - form: yemirse
       class: "n"
       field: "Kin, hearth, the person and the body"
@@ -2189,8 +2189,8 @@ data:
         - "Talvela"
         - "Talvetta"
         - "Nuomitta"
-        - "Loovala"
-        - "Loovatta"
+        - "Lovala"
+        - "Lovatta"
         - "Lonkula"
         - "Lonkutta"
         - "Hyssele"
@@ -2251,7 +2251,7 @@ data:
         - "Kelkasivo"
         - "Solmerivo"
         - "Talvetti"
-        - "Loovatti"
+        - "Lovatti"
         - "Hallesitti"
         - "Hallesivo"
         - "Lonkutti"
@@ -2302,7 +2302,7 @@ data:
       - "Solmerinto"
       - "Talvento"
       - "Nuominto"
-      - "Loovanto"
+      - "Lovanto"
       - "Hallesinto"
       - "Lonkunto"
       - "Hyssente"
@@ -2566,15 +2566,13 @@ What a human listener never notices is where the grammar sits. The work of sayin
 
 Sinale is the eldest tongue, sung as often as spoken. Its words are long and open, full of vowels, and its consonants are clean: the stops _t_, _k_ and _p_ beside _s_, _n_, _l_ and _r_, and nothing harsh.
 
-**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is written doubled (_nuuva_, _loova_, _aamas_), and _ai_, _ei_, _oi_, _au_, _ou_, _ie_ and _uo_ are frequent (_huoma_, _toimu_, _eilava_). _y_ is a front vowel, said _i_ (_rivy_, _nelyve_). _ë_ marks a vowel sounded apart (_leësy_).
+**The vowels.** _a_ most often, then _i_, _e_, _u_ and _o_. A long vowel is written doubled (_nuuva_, _aamas_), and _ai_, _ei_, _oi_, _au_, _ou_, _ie_ and _uo_ are frequent (_huoma_, _toimu_, _eilava_). _y_ is a front vowel, said _i_ (_rivy_, _nelyve_). _ë_ marks a vowel sounded apart (_leësy_).
 
 **The consonants.** _t_, _s_, _k_ and _n_ lead, then _l_, _r_, _p_, _m_, _v_ and _h_. A consonant is often long and written doubled: _tt_, _kk_, _ll_, _nn_, _ss_, _mm_ (_mollu_, _hekky_, _Kalpitti_).
 
 **Clusters.** Two consonants meet only inside a word: a long consonant, a nasal and its stop (_nt_, _nk_, _mp_), or a liquid and a stop (_lt_, _lk_, _lp_, _rt_, _rk_). No word opens on two.
 
 **Endings.** Most words end in a vowel. The rest end in _-n_, _-s_, _-l_ or _-r_.
-
-**Spelling.** Sinale writes a long _e_ and a long _o_ as _ee_ and _oo_, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
 
 **What Sinale leaves out.** It has no _th_, _rh_ or _w_, no _b_, _g_, _f_, _z_, _sh_ or _ch_, and no _d_ except after _l_, _n_ or _r_. _dh_ is rare and stands only between vowels.
 
@@ -2858,7 +2856,7 @@ Sinale is fragmented geographically, with scattered communities speaking distinc
 
 - **Lonku** (the deep wood): The most conservative and archaic form, closest to ancient Sinale, and the slowest
 - **Eilava** (the wide sky, the high valleys): Slightly more rapid speech, some flattening of pitch, subtly different vowel lengths
-- **Loova** (the far bank, the old coastal settlements): Long isolated; some unique vocabulary and archaic constructions
+- **Lova** (the far bank, the old coastal settlements): Long isolated; some unique vocabulary and archaic constructions
 
 Deep-wood speech sounds archaic and formal beside the speech of the high valleys. The differences are subtle but noticeable to native speakers.
 
@@ -2954,15 +2952,15 @@ A Sinale known for something more carries it as an epithet, which stands after t
 
 ### Male Given Names
 
-Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Huomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nuomivo, Loovatti, Hallesitti, Hallesivo, Lonkutti, Hysseve, Ilvytti, Tellakitti, Eilavatti, Rivytti, Nelyvetti, Hyssetti, Pelvaitti, Tilvaitti, Esselivo, Elvyritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nuomitti, Selkitti, Nylkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
+Nuuvatti, Kalpitti, Mollutti, Molluvo, Toimutti, Toimuvo, Oltessavo, Olmasitti, Olmasivo, Unturotti, Unturovo, Esselitti, Tirvalitti, Tirvalivo, Almaritti, Almarivo, Lapuritti, Lapurivo, Masseritti, Masserivo, Ropelitti, Lorramitti, Ansorutti, Ansoruvo, Huomavo, Lantavotti, Ropelivo, Porkitti, Lorramivo, Kelkasitti, Kelkasivo, Solmerivo, Talvetti, Nuomivo, Lovatti, Hallesitti, Hallesivo, Lonkutti, Hysseve, Ilvytti, Tellakitti, Eilavatti, Rivytti, Nelyvetti, Hyssetti, Pelvaitti, Tilvaitti, Esselivo, Elvyritti, Ilevatti, Solmeritti, Lentivo, Kilpetti, Nuomitti, Selkitti, Nylkitti, Sulmetti, Liseritti, Liserivo, Kinsatti, Kinsavo, Telvitti, Sulmevo, Olmarnatti, Olmarnavo, Ressitti, Ressivo
 
 ### Female Given Names
 
-Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelyvele, Talvela, Talvetta, Nuomila, Nuomitta, Loovala, Loovatta, Hallesitta, Lonkula, Lonkutta, Hyssele, Hyssette, Ilvyle, Ilvytte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rivyle, Rivytte, Nelyvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvyrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nylkile, Nylkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
+Nuuvala, Nuuvatta, Kalpila, Kalpitta, Mollutta, Toimula, Oltessala, Oltessatta, Olmasila, Olmasitta, Unturola, Esselitta, Hallesila, Tirvalitta, Almarila, Lapurila, Masserila, Ropelitta, Porkitta, Lorramila, Lorramitta, Ansorula, Huomala, Huomatta, Lantavola, Lantavotta, Porkila, Kelkasila, Kelkasitta, Solmerila, Nelyvele, Talvela, Talvetta, Nuomila, Nuomitta, Lovala, Lovatta, Hallesitta, Lonkula, Lonkutta, Hyssele, Hyssette, Ilvyle, Ilvytte, Tellakila, Tellakitta, Eilavala, Eilavatta, Rivyle, Rivytte, Nelyvette, Pelvaila, Pelvaitta, Tilvaila, Tilvaitta, Elvyrile, Kilpele, Ilevala, Ilevatta, Lentila, Kilpette, Selkile, Selkitte, Nylkile, Nylkitte, Sulmela, Sulmetta, Liserila, Kinsala, Kinsatta, Telvitte, Olmarnala, Olmarnatta, Ressila, Ressitta
 
 ### Lineage Names (Inherited Matrilineally)
 
-Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nuominto—"the still hour" Loovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hyssente—"the held breath" Ilvynte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rivynte—"the turning leaf" Nelyvente—"the first frost" Pelvainto—"the low cloud" Elvyrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nylkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Syllente—"the rising note" Ressinto—"the plaited mat"
+Nuuvanto—"starlight" Kalpinto—"pale wood" Mollunto—"deep pool" Toimunto—"the turning year" Oltessanto—"the long dusk" Olmasinto—"moss on stone" Unturonto—"winter" Esselinto—"the still surface" Tirvalinto—"the long road" Almarinto—"the cupped hand" Lapurinto—"running water" Masserinto—"the deep ground" Ropelinto—"the lifted stone" Lorraminto—"woven cloth" Ansorunto—"the long watch" Huomanto—"the first warmth" Porkinto—"the split log" Kelkasinto—"the cold spring" Solmerinto—"the smell of rain" Talvento—"the low fog" Nuominto—"the still hour" Lovanto—"the far bank" Hallesinto—"white frost" Lonkunto—"the deep wood" Hyssente—"the held breath" Ilvynte—"thin ice" Tellakinto—"the small bell" Eilavanto—"the wide sky" Rivynte—"the turning leaf" Nelyvente—"the first frost" Pelvainto—"the low cloud" Elvyrinte—"the evening star" Ilevanto—"the clear place" Kilpente—"the far call" Selkinte—"the woven light" Nylkinte—"the deep root" Sulmento—"the first thaw" Liserinto—"still water" Syllente—"the rising note" Ressinto—"the plaited mat"
 
 ## Lexicon
 

@@ -18,11 +18,11 @@ data:
     - name: The winter council
       holds: "The offices of the council, each a compound of two words."
   words:
-    - form: hvrn
+    - form: hvarn
       class: "n"
       field: The people and the house
       gloss: "the people, the Hvarn as they name themselves"
-    - form: vhrn
+    - form: vharn
       class: "n"
       field: The people and the house
       gloss: "the long house, one roof over the whole people"
@@ -31,11 +31,11 @@ data:
       field: The people and the house
       gloss: "a hearth, a household at one fire"
       concept: hearth
-    - form: douzn
+    - form: douzen
       class: "n"
       field: The people and the house
       gloss: "winter, the closed months"
-    - {form: ruvn, class: "n", field: The people and the house, gloss: "a debt between hearths"}
+    - {form: ruven, class: "n", field: The people and the house, gloss: "a debt between hearths"}
     - form: sevd
       class: "n"
       field: The people and the house
@@ -48,31 +48,31 @@ data:
     - {form: wuvd, class: "n", field: The road and the party, gloss: "a gorge"}
     - {form: kleizd, class: "n", field: The road and the party, gloss: "a storm of the Reach"}
     - {form: zvazd, class: "n", field: The road and the party, gloss: "a rope"}
-    - form: muvn
+    - form: muven
       class: "n"
       field: The road and the party
       gloss: "a party, those who walk on one rope"
-    - {form: rouzn, class: "n", field: The roll, gloss: "the roll of the dead"}
+    - {form: rouzen, class: "n", field: The roll, gloss: "the roll of the dead"}
     - {form: hozd, class: "n", field: The roll, gloss: "the place where one of the dead was found"}
     - {form: dzevd, class: "n", field: The roll, gloss: "a bone", concept: bone}
     - {form: poudz, class: v, field: The roll, gloss: "bring up from below"}
     - {form: zourd, class: v, field: The roll, gloss: "recite, say aloud before the council"}
-    - {form: nezn, class: v, field: The roll, gloss: "read the weather"}
+    - {form: nezen, class: v, field: The roll, gloss: "read the weather"}
     - form: dzevdpoudz
       class: "n"
       field: The winter council
       gloss: "the bone-bringer, who recovers the dead and keeps the roll"
       built: [dzevd, poudz]
-    - form: kleizdnezn
+    - form: kleizdnezen
       class: "n"
       field: The winter council
       gloss: "the storm-reader, whose refusal ends a day's travel"
-      built: [kleizd, nezn]
-    - form: douznzourd
+      built: [kleizd, nezen]
+    - form: douzenzourd
       class: "n"
       field: The winter council
       gloss: "the winter-speaker, who presides over the council"
-      built: [douzn, zourd]
+      built: [douzen, zourd]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -86,18 +86,18 @@ data:
         - "Delzh"
         - "Vurn"
         - "Shemli"
-        - "Brdnu"
+        - "Berdnu"
         - "Zhavel"
         - "Ourn"
         - "Klemsi"
-        - "Rhevzhn"
+        - "Rhevzhen"
         - "Tudzelv"
         - "Vnesh"
-        - "Melrhu"
+        - "Melerhu"
         - "Dzorin"
-        - "Habvrn"
+        - "Habvern"
         - "Sulzhe"
-        - "Trmen"
+        - "Termen"
         - "Ovru"
         - "Rhistne"
       male:
@@ -107,29 +107,29 @@ data:
         - "Delzh"
         - "Vurn"
         - "Shemli"
-        - "Brdnu"
+        - "Berdnu"
         - "Zhavel"
         - "Ourn"
         - "Klemsi"
-        - "Rhevzhn"
+        - "Rhevzhen"
         - "Tudzelv"
         - "Vnesh"
-        - "Melrhu"
+        - "Melerhu"
         - "Dzorin"
-        - "Habvrn"
+        - "Habvern"
         - "Sulzhe"
-        - "Trmen"
+        - "Termen"
         - "Ovru"
         - "Rhistne"
     hearth:
       - "Nurvharn"
-      - "Tsedvrn"
+      - "Tsedvern"
       - "Rhonzhel"
-      - "Klemvrd"
+      - "Klemverd"
       - "Hvurnash"
-      - "Dzelbrn"
+      - "Dzelbern"
       - "Vrestun"
-      - "Shulnrh"
+      - "Shulner"
   sounds:
     stress: {two: first, longer: first}
     edges:
@@ -138,7 +138,6 @@ data:
       - edge: closeCluster
         sounds: [rn, rd, rzh, lv, lk, nk, sk, vd, zd, zn, lzh, rv, nd, vn, dn, rk, lt]
       - {edge: vowelPair, sounds: [ei, ou]}
-      - {edge: syllabic, sounds: [r, rh, l, m, n]}
     clusters: {max: 3}
   scope:
     lore: [hvarnclt]
@@ -200,7 +199,7 @@ Hvarn is the dense, short speech of the eastern guide-people. Most of its words 
 
 **The consonants.** _hv_, _dz_, _zh_, _v_, _z_, _r_, _l_, _n_ and _d_.
 
-**Clusters.** _hv-_ and _dz-_ open words, and _-zd_, _-vn_ and _-zn_ close them.
+**Clusters.** _hv-_ and _dz-_ open words, and _-zd_ closes them; _-ven_ and _-zen_ end many.
 
 **Endings.** Hvarn words end on _-n_, _-d_, _-v_ or _-l_. Names add _-i_ or _-el_.
 
@@ -228,7 +227,7 @@ Hvarn is the dense, short speech of the eastern guide-people. Most of its words 
 
 **Diphthongs:** ei, ou
 
-Hvarn admits syllabic liquids and nasals, so that a word may be spoken with no vowel in it at all: _Nurvharn_ carries its second syllable on the r, and _hvrn_, the people's own word for themselves, has none. Lowlanders supply a vowel where there is none.
+_hvarn_ is the people's own word for themselves, and the one lowlanders use.
 
 ### Phonotactic Patterns
 
@@ -236,7 +235,7 @@ Consonant Clusters
 : Heavy in every position, and the initial cluster _hv-_ is the people's own name
 
 Syllable Structure
-: Closed, and frequently vowelless; stress falls on the first syllable without exception
+: Closed; stress falls on the first syllable without exception
 
 Final Consonants
 : Unrestricted, and a final cluster of three is ordinary
@@ -258,17 +257,17 @@ A person carries a given name and a hearth name, and the hearth name changes if 
 
 ### Name Lists
 
-**Given Names:** Hvrel, Tsevrel, Rhanvi, Delzh, Vurn, Shemli, Brdnu, Zhavel, Ourn, Klemsi, Rhevzhn, Tudzelv, Vnesh, Melrhu, Dzorin, Habvrn, Sulzhe, Trmen, Ovru, Rhistne
+**Given Names:** Hvrel, Tsevrel, Rhanvi, Delzh, Vurn, Shemli, Berdnu, Zhavel, Ourn, Klemsi, Rhevzhen, Tudzelv, Vnesh, Melerhu, Dzorin, Habvern, Sulzhe, Termen, Ovru, Rhistne
 
-**Hearth Names:** Nurvharn, Tsedvrn, Rhonzhel, Klemvrd, Hvurnash, Dzelbrn, Vrestun, Shulnrh
+**Hearth Names:** Nurvharn, Tsedvern, Rhonzhel, Klemverd, Hvurnash, Dzelbern, Vrestun, Shulner
 
 ## Hvarn Lexicon {#lexicon}
 
-The [[affiliation-hvarnguides|Hvarn]] call themselves _hvrn_, a word with no vowel in it, and the vowel a lowlander hears there is the one he supplied. Hvarn is short and heavy: a word of one syllable carries what Vedyari says in a phrase, and a compound of two such words names an office of the winter council. This page is the word-hoard of the tongue: its words, the rules a new word is built by, and the register of every name the setting gives the Hvarn and the places they hold.
+The [[affiliation-hvarnguides|Hvarn]] call themselves _hvarn_, which is also the word lowlanders use. Hvarn is short and heavy: a word of one syllable carries what Vedyari says in a phrase, and a compound of two such words names an office of the winter council. This page is the word-hoard of the tongue: its words, the rules a new word is built by, and the register of every name the setting gives the Hvarn and the places they hold.
 
 A Hvarn compound sets two words side by side, the first saying which and the second saying what: _dzevd_ is bone and _poudz_ is to bring up from below, so _dzevdpoudz_ is the bone-bringer, who recovers the dead from the eastern gorges. The words are written whole at the seam, however many consonants meet there.
 
-The sound of Hvarn is dense. Clusters stand at the start and the end of a word, a final cluster of three is ordinary, and the liquids and nasals carry a syllable of their own where no vowel stands beside them: _hvrn_ is spoken _hv-_, a syllable on the _r_, and a closing _n_. Stress falls on the first syllable without exception.
+The sound of Hvarn is dense. Clusters stand at the start and the end of a word, a final cluster of three is ordinary. Stress falls on the first syllable without exception.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 
@@ -289,10 +288,10 @@ Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronounci
 
 ### Word edges
 
-A word opens on a vowel, a single consonant, or one of the clusters below, and closes on any consonant or one of the clusters below. A liquid or a nasal between consonants, or closing a word after one, carries the syllable itself and stands where a vowel would.
+A word opens on a vowel, a single consonant, or one of the clusters below, and closes on any consonant or one of the clusters below.
 
 ```sql
-SELECT CASE edge WHEN 'openCluster' THEN 'Pairs that may open a word, and three' WHEN 'closeConsonant' THEN 'Consonants that close a word' WHEN 'closeCluster' THEN 'Pairs that may close a word' WHEN 'vowelPair' THEN 'Vowels that may stand together' WHEN 'syllabic' THEN 'Consonants that may carry a syllable' END AS "Edge", coalesce(nullif(array_to_string(list_transform(sounds, x -> '`' || x || '`'), ', '), ''), '—') AS "Sounds"
+SELECT CASE edge WHEN 'openCluster' THEN 'Pairs that may open a word, and three' WHEN 'closeConsonant' THEN 'Consonants that close a word' WHEN 'closeCluster' THEN 'Pairs that may close a word' WHEN 'vowelPair' THEN 'Vowels that may stand together' END AS "Edge", coalesce(nullif(array_to_string(list_transform(sounds, x -> '`' || x || '`'), ', '), ''), '—') AS "Sounds"
 FROM edges WHERE language = 'thalorna-note-skill-hvarnlng' ORDER BY position
 ```
 
@@ -307,11 +306,11 @@ FROM clusters WHERE language = 'thalorna-note-skill-hvarnlng'
 
 ### The people and the house
 
-The long house at [[place-nurvhrn|Nurvharn]] is _vhrn_, the roof that holds the whole people through the closed months, and every household along it is a _kuzh_, a hearth. The name _Nurvharn_ is older than the words on this page.
+The long house at [[place-nurvhrn|Nurvharn]] is _vharn_, the roof that holds the whole people through the closed months, and every household along it is a _kuzh_, a hearth. The name _Nurvharn_ is older than the words on this page.
 
 ## Making names {#making-names}
 
-**A person** carries a given name and a hearth name, the given name first: _Hvrel, of the Klemvrd hearth_. A given name comes off the roll, so it is as old as the person it remembers and is not built from the words on this page. A hearth name is the winter house's, and changes when a person is taken into another hearth.
+**A person** carries a given name and a hearth name, the given name first: _Hvrel, of the Klemverd hearth_. A given name comes off the roll, so it is as old as the person it remembers and is not built from the words on this page. A hearth name is the winter house's, and changes when a person is taken into another hearth.
 
 **An office** of the winter council is a compound of what the holder handles and what he does with it, as _dzevdpoudz_, the bone-bringer, is. The notes give the offices in the reader's tongue, and the register tags them so.
 

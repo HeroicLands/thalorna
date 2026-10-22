@@ -67,5 +67,5 @@ The same spring can open a session three different ways.
 [[skill-sowideslng|Sovidur Language]]
 : the tongue in which the price is named
 
-[[place-qelodwatri|Kelodvootri]]
+[[place-qelodwatri|Kelodvotri]]
 : an owned spring whose lid holds something worse than a kelodud

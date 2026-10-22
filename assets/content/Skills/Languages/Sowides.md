@@ -15,12 +15,12 @@ data:
     pattern: "{given} {tribe}"
     given:
       female:
-        - "Tijoodlun"
+        - "Tijodlun"
         - "Savaghlun"
         - "Khilodlun"
         - "Jilaqlun"
         - "Koyozlun"
-        - "Vooyerlun"
+        - "Voyerlun"
         - "Evodlun"
         - "Jiboqlun"
         - "Vilaqlun"
@@ -57,8 +57,8 @@ data:
         - "Khilodkharu"
         - "Savaghjilaq"
         - "Savaghbiiloq"
-        - "Tijoodkharu"
-        - "Tijoodorkun"
+        - "Tijodkharu"
+        - "Tijodorkun"
         - "Atazdovaq"
         - "Atazyaqnar"
         - "Orqazjilaq"
@@ -79,7 +79,7 @@ data:
       - "Diqrakur"
       - "Khilodur"
       - "Savaghur"
-      - "Tijoodur"
+      - "Tijodur"
       - "Bujalur"
       - "Gorenur"
       - "Soqritur"
@@ -95,7 +95,7 @@ data:
       codas: [b, d, t, k, g, q, gh, kh, j, ch, s, sh, z, m, n, l, r, v, y]
       finals: [d, t, k, q, kh, ch, s, sh, z, m, n, l, r, y]
       doubled: []
-      vowelPairs: [aa, ee, ii, oo, uu, oo, uu]
+      vowelPairs: [aa, ii, uu]
       initialVowel: true
       neverInitial: [r]
       harmony: {back: [a, o, u], front: [e, ö, ü], neutral: [i], neutralAs: front}
@@ -131,7 +131,7 @@ data:
     - {form: semok, sense: guest}
     - {form: jibun, sense: debt}
     - {form: koser, sense: "passage, safe-conduct, toll"}
-    - {form: eevur, sense: sky}
+    - {form: evur, sense: sky}
     - {form: uruvaq, sense: wind}
     - {form: bolid, sense: tower}
     - {form: jeske, sense: city}
@@ -157,11 +157,11 @@ data:
     - {form: goren, sense: storm}
     - {form: khilod, sense: sun}
     - {form: savagh, sense: moon}
-    - {form: tijood, sense: star}
+    - {form: tijod, sense: star}
     - {form: numaq, sense: night}
     - {form: yodvir, sense: day}
     - {form: ataz, sense: dusk}
-    - {form: vootri, sense: cold}
+    - {form: votri, sense: cold}
     - {form: orqaz, sense: heat}
     - {form: bovi, sense: snow}
     - {form: uruukhiq, sense: blood}
@@ -180,20 +180,20 @@ data:
     - {form: naqkhaq, sense: sheep}
     - {form: jeko, sense: goat}
     - {form: lekjek, sense: meat}
-    - {form: vooyer, sense: milk}
+    - {form: voyer, sense: milk}
     - {form: ghotaz, sense: tent}
     - {form: oroqid, sense: camp}
     - {form: otviil, sense: "fire, hearth"}
     - {form: dujar, sense: smoke}
     - {form: yeloz, sense: laying-out ground}
-    - {form: ooqlaq, sense: "spirit, soul"}
+    - {form: oqlaq, sense: "spirit, soul"}
     - {form: akhaq, sense: father}
-    - {form: ekoon, sense: mother}
+    - {form: ekon, sense: mother}
     - {form: boyad, sense: son}
     - {form: minju, sense: daughter}
     - {form: todva, sense: elder}
     - {form: ghachaa, sense: child}
-    - {form: oroolqi, sense: "people, folk"}
+    - {form: orolqi, sense: "people, folk"}
     - {form: soqir, sense: tribe}
     - {form: juchon, sense: "moot, council"}
     - {form: yadqit, sense: market}
@@ -225,9 +225,9 @@ data:
     - {form: kholqon, sense: "unification, a gathering of tribes"}
     - {form: qiimod, sense: "silent, still"}
     - {form: kharu, sense: patience}
-    - {form: qoojid, sense: "cursed, forbidden"}
-    - {form: keedok, sense: "blood-ground, a blood-field"}
-    - {form: veesuk, sense: "cursed ground, a thin blood-field"}
+    - {form: qojid, sense: "cursed, forbidden"}
+    - {form: kedok, sense: "blood-ground, a blood-field"}
+    - {form: vesuk, sense: "cursed ground, a thin blood-field"}
     - {form: oqod, sense: "calling, the naming of the dead"}
     - {form: koyoz, sense: song}
     - {form: chuyel, sense: jackal}
@@ -276,11 +276,11 @@ data:
       field: Derived words
       gloss: "a man's name: wolf-spear"
       built: [voghal, toliz]
-    - form: Tijoodlun
+    - form: Tijodlun
       class: name
       field: Derived words
       gloss: "a woman's name: star"
-      built: [tijood, -lun]
+      built: [tijod, -lun]
     - form: Atazkharu
       class: name
       field: Derived words
@@ -421,16 +421,16 @@ data:
       field: Derived words
       gloss: "the hunter: the steppe hunter"
       built: [yiqnot, -ud]
-    - form: Keedok
+    - form: Kedok
       class: name
       field: Derived words
       gloss: "blood-ground: a blood-field"
-      built: [keedok]
-    - form: Veesuk
+      built: [kedok]
+    - form: Vesuk
       class: name
       field: Derived words
       gloss: "cursed ground: a thin blood-field"
-      built: [veesuk]
+      built: [vesuk]
     - form: Vomekoqod
       class: name
       field: Derived words
@@ -466,11 +466,11 @@ data:
       field: Derived words
       gloss: "a woman's name: snow"
       built: [bovi, -lun]
-    - form: Vooyerlun
+    - form: Voyerlun
       class: name
       field: Derived words
       gloss: "a woman's name: milk"
-      built: [vooyer, -lun]
+      built: [voyer, -lun]
     - form: Uruvolun
       class: name
       field: Derived words
@@ -481,11 +481,11 @@ data:
       field: Derived words
       gloss: "a man's name: sun-spear; a rider of the Shirzari"
       built: [khilod, toliz]
-    - form: Kelodekoon
+    - form: Kelodekon
       class: name
       field: Derived words
       gloss: "the well-mother: the keeper at the bottom of the stepped well"
-      built: [kelod, ekoon]
+      built: [kelod, ekon]
     - form: Khamaqjivoq
       class: name
       field: Derived words
@@ -506,11 +506,11 @@ data:
       field: Derived words
       gloss: "a man's name: deer-sword; a desert lord who races camels"
       built: [khuvan, kenod]
-    - form: Kelodvootri
+    - form: Kelodvotri
       class: name
       field: Derived words
       gloss: "the cold well: an owned spring of the Kuuyoyur"
-      built: [kelod, vootri]
+      built: [kelod, votri]
     - form: Kuuyoyur
       class: name
       field: Derived words
@@ -619,8 +619,8 @@ data:
     - {name: Steppe Reckoning, tongue: gloss, built: [Sovidur]}
     - {name: Vulud, tongue: sowides, built: [vulud]}
     - {name: The Half-Buried Towers, tongue: gloss, built: [Vulud]}
-    - {name: Kelodvootri, tongue: sowides, built: [kelod, vootri]}
-    - {name: The Cold Well, tongue: gloss, built: [Kelodvootri]}
+    - {name: Kelodvotri, tongue: sowides, built: [kelod, votri]}
+    - {name: The Cold Well, tongue: gloss, built: [Kelodvotri]}
     - {name: Bolidqiiso, tongue: sowides, built: [bolid, qiiso]}
     - {name: The Counting-House Tower, tongue: gloss, built: [Bolidqiiso]}
     - {name: The Price-Tower, tongue: gloss, built: [Bolidqiiso]}
@@ -654,10 +654,10 @@ data:
     - {name: Bulaqsovid Yovakur, tongue: gloss, built: [Bulaqsovid, Yovakur]}
     - {name: Administrator Bulaqsovid, tongue: gloss, built: [Bulaqsovid]}
     - {name: Town Administrator Bulaqsovid, tongue: gloss, built: [Bulaqsovid]}
-    - {name: Tijoodorkun, tongue: sowides, built: [tijood, orkun]}
+    - {name: Tijodorkun, tongue: sowides, built: [tijod, orkun]}
     - {name: Savaghur, tongue: sowides, built: [savagh, -ur]}
-    - {name: Tijoodorkun Savaghur, tongue: gloss, built: [Tijoodorkun, Savaghur]}
-    - {name: Elder Shaman Tijoodorkun, tongue: gloss, built: [Tijoodorkun]}
+    - {name: Tijodorkun Savaghur, tongue: gloss, built: [Tijodorkun, Savaghur]}
+    - {name: Elder Shaman Tijodorkun, tongue: gloss, built: [Tijodorkun]}
     - {name: Khilodlun, tongue: sowides, built: [khilod, -lun]}
     - {name: Biilokur, tongue: sowides, built: [biiloq, -ur]}
     - {name: Khilodlun Biilokur, tongue: gloss, built: [Khilodlun, Biilokur]}
@@ -686,8 +686,6 @@ Sovidur is the clipped speech of the steppe tribes: short syllables and back-of-
 **Clusters.** Few: _lq_, _rq_ and _gh_ before a vowel.
 
 **Endings.** Sovidur words end in _-od_, _-ur_, _-aq_, _-iq_, _-lun_ or _-oliz_.
-
-**Spelling.** Sovidur writes a long _e_ and a long _o_ as _ee_ and _oo_, as [[doc-prnncthlrn|Pronouncing Thalorna]] allows for it.
 
 **What Sovidur leaves out.** It has no word of more than four syllables.
 
@@ -723,7 +721,7 @@ SELECT 8 AS o, 'Signature' AS "Rule", array_to_string(list_transform(signature, 
 
 A syllable opens on one consonant or on nothing and closes on nothing or on one consonant. A word may begin with a vowel (_orkun_, _otviil_) but never with _r_, never sets two different vowels side by side, never doubles a consonant, and ends on a vowel or on one of the finals above.
 
-**Every stem takes its vowels from one group.** _kodu_ "horse", _jedor_ "road" and _kelod_ "well" are front stems; _khoshiq_ "sand", _qodir_ "mountain" and _bolid_ "tower" are back stems. A stem of _i_ alone counts as front. A compound keeps each stem's own group, so _Kelodvootri_ holds a front half and a back half, and a suffix takes the group of the stem before it.
+**Every stem takes its vowels from one group.** _kodu_ "horse", _jedor_ "road" and _kelod_ "well" are front stems; _khoshiq_ "sand", _qodir_ "mountain" and _bolid_ "tower" are back stems. A stem of _i_ alone counts as front. A compound keeps each stem's own group, so _Kelodvotri_ holds a front half and a back half, and a suffix takes the group of the stem before it.
 
 **The velars follow the group.** _q_ and _gh_ belong to back stems and _k_ and _g_ to front ones: _qodir_ and _kelod_, _savagh_ "moon" and _goren_ "storm".
 
@@ -772,7 +770,7 @@ Each tribe has its chief, the _dovaq_. The tribes stand alone. Now and then a di
 | Diqraqor    | _diqraq_ + _-or_   | the stone range           |
 | Jadakud     | _jadaq_ + _-ud_    | a raider                  |
 | Voghaltoliz | _voghal_ + _toliz_ | a man's name: wolf-spear  |
-| Tijoodlun   | _tijood_ + _-lun_  | a woman's name: star      |
+| Tijodlun    | _tijod_ + _-lun_   | a woman's name: star      |
 
 **A union** is named by the stem of its emblem or its country with _-oq_ or _-ok_, and a tribe by the same stem with _-ur_. **A range** takes _-or_ after what marks it: stone, grass, salt. **A man's name** is two stems with no suffix, a beast or a weather and then a weapon or a virtue; **a woman's name** is one stem with _-lun_.
 

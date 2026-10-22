@@ -3,7 +3,7 @@ shortcode: signedcaptnrnk
 name: {full: "Signed Captain", aliases: []}
 type: lore
 subType: law
-description: "Swears the Compact before the Council of the Hall and wears the bandlagshringr, in Málalidabandalag."
+description: "Swears the Compact before the Council of the Hall and wears the bandlagshringur, in Málalidabandalag."
 tags: []
 data: {culture: nordheimnclt}
 ---
@@ -12,7 +12,7 @@ A captain who swears a company into [[affiliation-malldbndlg|the Compact]] at [[
 
 ## What This Standing Is
 
-A signed captain swears his company into the Compact before the [Council of the Hall]{.name data-type="affiliation/governmental"}, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandlagshringr, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
+A signed captain swears his company into the Compact before the [Council of the Hall]{.name data-type="affiliation/governmental"}, binding it to accept the Compact's rulings, honor sworn terms, declare any contract against another signed company, and pay the Hall's annual due. He wears the bandlagshringur, a bronze ring on the right thumb bearing the Compact's mark and his own sigil, awarded at the swearing.
 
 ## How the Law Treats a Person Here
 

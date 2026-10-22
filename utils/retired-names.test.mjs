@@ -93,9 +93,9 @@ export const RETIRED = [
         retired: ["Aldric"],
         replacement: "the host culture's given names",
         scope: [
-            "assets/content/Characters/Heroes_and_Knaves/Gnaldrthann_Solvargr.md",
+            "assets/content/Characters/Heroes_and_Knaves/Gnaldurthann_Solvargur.md",
             "assets/content/Characters/Heroes_and_Knaves/Kelena_Estilgon.md",
-            "assets/content/Characters/Heroes_and_Knaves/Vrildmyl_Hrafnsvald.md",
+            "assets/content/Characters/Heroes_and_Knaves/Vrildmyl_Hrafansvald.md",
             "assets/content/Characters/Heroes_of_Asguard/Dvurnvir_the_Shaper.md",
         ],
     },
@@ -118,7 +118,7 @@ export const RETIRED = [
         replacement: "the host culture's given names",
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Hrandrinna_Drekanott.md",
-            "assets/content/Characters/Heroes_and_Knaves/Svulthyra_Solvargr.md",
+            "assets/content/Characters/Heroes_and_Knaves/Svulthyra_Solvargur.md",
             "assets/content/Characters/Heroes_and_Knaves/Eldira_Torvaleth.md",
         ],
     },
@@ -135,7 +135,7 @@ export const RETIRED = [
         replacement: "the host culture's given names",
         scope: [
             "assets/content/Characters/Heroes_and_Knaves/Idrise_Korisvar.md",
-            "assets/content/Characters/Heroes_and_Knaves/Thrildvir_Iseldr.md",
+            "assets/content/Characters/Heroes_and_Knaves/Thrildvir_Iseldur.md",
         ],
     },
     {
@@ -154,7 +154,7 @@ export const RETIRED = [
     {
         retired: ["Elara"],
         replacement: "the host culture's given names",
-        scope: ["assets/content/Characters/Heroes_and_Knaves/Thalmthann_Solvargr.md"],
+        scope: ["assets/content/Characters/Heroes_and_Knaves/Thalmthann_Solvargur.md"],
     },
     {
         retired: ["Kyros"],

@@ -13,13 +13,13 @@ data:
   subjects:
     - lore-nrdlndsfnrl
     - place-nulthey
-    - place-solvangrhall
+    - place-solvangurhall
     - lore-solrundty
     - lore-nahilddty
     - place-gnarthborg
 ---
 
-**Folmhnura**, the sickness-lament, is the _hnura_ the women of the [[place-gnarthborg|Gnarthborg]] shipyards sing on the seventh night when the dead died of the _folm_ (sickness), which no hall of the honored dead takes, and it is called by its kind because the yards have only one. The [[lore-nrdlndsfnrl|grave-ale]] runs in a fixed order—the praise, then a lament if the household has a skald to make one, then the reckoning, then the heir's cup—and a shipwright of the [[affiliation-hrafnvar|Hrafnvar]] named [Knarvthira]{.name data-type="being/npc"}, whose household had no skald, made this one herself over her daughter [Knirvinda]{.name data-type="being/npc"}, an apprentice of the yard dead of a fever at fourteen in the dark of the year. She made it in the one shape she knew well, which was a suit at the ting: she names her witnesses, states her claim, reckons the estate, petitions, and withdraws. The women of the [[place-malagna|Malagna]] yards sing it now at any grave-ale for a sickness death. The girl's own name and the girl's own faults are left in it, and nobody pays for a _hnura_; the men at the ale know it is being sung and do not join in. The Hofgudja of [[lore-solrundty|Solrún]]'s feast-hall in the town allows it, since the suit rests on her own hall's teaching that the Golden One seats whom she pleases. The clergy of the [[affiliation-odvar|Faith of Odvar]] do not care for it, and say so, and do not forbid it. It names [[lore-nahilddty|Nahild]] once, where a hall names her only with care.
+**Folmhnura**, the sickness-lament, is the _hnura_ the women of the [[place-gnarthborg|Gnarthborg]] shipyards sing on the seventh night when the dead died of the _folm_ (sickness), which no hall of the honored dead takes, and it is called by its kind because the yards have only one. The [[lore-nrdlndsfnrl|grave-ale]] runs in a fixed order—the praise, then a lament if the household has a skald to make one, then the reckoning, then the heir's cup—and a shipwright of the [[affiliation-hrafanvar|Hrafanvar]] named [Knarvthira]{.name data-type="being/npc"}, whose household had no skald, made this one herself over her daughter [Knirvinda]{.name data-type="being/npc"}, an apprentice of the yard dead of a fever at fourteen in the dark of the year. She made it in the one shape she knew well, which was a suit at the ting: she names her witnesses, states her claim, reckons the estate, petitions, and withdraws. The women of the [[place-malagna|Malagna]] yards sing it now at any grave-ale for a sickness death. The girl's own name and the girl's own faults are left in it, and nobody pays for a _hnura_; the men at the ale know it is being sung and do not join in. The Hofgudja of [[lore-solrundty|Solrún]]'s feast-hall in the town allows it, since the suit rests on her own hall's teaching that the Golden One seats whom she pleases. The clergy of the [[affiliation-odvar|Faith of Odvar]] do not care for it, and say so, and do not forbid it. It names [[lore-nahilddty|Nahild]] once, where a hall names her only with care.
 
 : Folmhnura {#hnura}
 
@@ -43,7 +43,7 @@ Hear the suit.
 I name my witnesses.
 
 The yard.
-The Hrafnvar yard, its slips and its sawpit and its tar-pot,
+The Hrafanvar yard, its slips and its sawpit and its tar-pot,
 that had her every hour there was light for, two winters,
 and knows her hands.
 Let the yard stand.
@@ -287,7 +287,7 @@ I go to the yard.
 [[place-nulthey|Nulthey]]
 : where the Ten's doctrine sends the sickness-dead
 
-[[place-solvangrhall|Sólrunsholl]]
+[[place-solvangurhall|Sólrunsholl]]
 : the hall whose seating the suit rests on
 
 [[lore-nordheimnclt|Nordheimn]]

@@ -506,10 +506,6 @@ data:
       - "Yumbaro"
       - "Zékara"
   sounds:
-    letters:
-      - letters: [kh]
-        kind: consonant
-        like: "a rasp at the back of the throat, as when clearing it"
     edges:
       - {edge: openCluster, sounds: [mb, nd, nj, nk, nt, kw, ngw, n']}
       - {edge: closeConsonant, sounds: [n, ng, m, l, r, t, s]}

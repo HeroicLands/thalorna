@@ -60,7 +60,7 @@ King [Tvarnthann]{.name data-type="being/npc"} died in the winter dark of 694 wi
 
 In 679, forty-one years ago, after a winter of failed whaling, a ting at [[place-dvarnvik|Dvarnvík]] accused eleven people of
 working the winds. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused
-of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. Velva [Aldrhildr]{.name data-type="being/npc"} was accused but not tried. A
+of _ergi_ were burned on the skerry called [[place-askholm|Askholm]]. Velva [Aldurhildur]{.name data-type="being/npc"} was accused but not tried. A
 [[lore-swornhandrnk|Sworn Hand]] ruled that foretelling alone was no working against a named person.
 
 The ruling survives as a precedent, while the deaths remain a grievance. Some plateau clans avoid
@@ -82,7 +82,7 @@ known.
 
 ## The Fell-Taken of Hnarvdal
 
-Velva Aldrhildr's story says she disappeared into the [[place-hnarvdal|Hnarvdal]] fell as a child and came back seven
+Velva Aldurhildur's story says she disappeared into the [[place-hnarvdal|Hnarvdal]] fell as a child and came back seven
 winters later with older words and a seer's knowledge. Some say hidden folk kept her and that a
 hearth-woman in the mountain taught her. The tale explains why Vithgard seeks her sight. It does not
 establish a public path into the fell or prove that every missing child can be called back.

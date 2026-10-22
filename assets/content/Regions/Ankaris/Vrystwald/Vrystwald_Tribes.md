@@ -25,8 +25,8 @@ data:
         description: >-
           Taken in war or bought at the river-landings and answerable to the mistress of the house he serves in every particular; the standing is not hereditary, and marriage or manumission can end it.
       - level: 2
-        title: Edrmund
-        lore: edrmundrnk
+        title: Edrimund
+        lore: edrimundrnk
         description: >-
           Free and sheltered by a household not his own blood, with no war-band before which he has sworn, so nobody can yet take his word the way a Druthmund's oath is taken.
       - level: 3

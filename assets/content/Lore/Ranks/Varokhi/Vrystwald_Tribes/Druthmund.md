@@ -16,7 +16,7 @@ A Druthmund is of a kindred's blood, entitled to its protection, its feud, and i
 
 ## How the Law Treats a Person Here
 
-His oath spoken before a war-band is the whole of his security, in a people with no contract, no registry, and no written deed to fall back on instead: a Druthmund's word is trusted the way an Othmund's or an [[lore-edrmundrnk|Edrmund]]'s cannot yet be, and his kindred owes him the vengeance and the hospitality that reach nobody outside their blood.
+His oath spoken before a war-band is the whole of his security, in a people with no contract, no registry, and no written deed to fall back on instead: a Druthmund's word is trusted the way an Othmund's or an [[lore-edrimundrnk|Edrimund]]'s cannot yet be, and his kindred owes him the vengeance and the hospitality that reach nobody outside their blood.
 
 ## Privileges
 

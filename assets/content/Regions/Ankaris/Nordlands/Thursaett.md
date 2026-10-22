@@ -12,11 +12,11 @@ data: {packFolder: nordlands, culture: nordheimnclt}
 
 In that account, one of the kin was killed instead of banished. [[lore-hrimthurspr|Hrimthur]] died on the field, and the Ten cut [[place-worldthlrn|the World of Thalorna]], Mannguard, out of his body. Every hall that teaches the war teaches that much.
 
-Where the kin came from is another matter, and [[lore-aldarhringr|Aldarhringr]] gives both accounts. Odholm's rune-hall holds that they are the part of the old age's remnant that would not take a new shape. The adherents of the [[affiliation-hrimthur|Faith of Hrimthur]] hold that they are the old age's own folk, older than the Ten, and that the gods are the newcomers. Both are taught openly.
+Where the kin came from is another matter, and [[lore-aldarhringur|Aldarhringur]] gives both accounts. Odholm's rune-hall holds that they are the part of the old age's remnant that would not take a new shape. The adherents of the [[affiliation-hrimthur|Faith of Hrimthur]] hold that they are the old age's own folk, older than the Ten, and that the gods are the newcomers. Both are taught openly.
 
 ## See Also
 
-[[lore-aldarhringr|Aldarhringr]]
+[[lore-aldarhringur|Aldarhringur]]
 : the two accounts of where the giant-kin came from
 
 [[place-thursguard|Thursguard]]

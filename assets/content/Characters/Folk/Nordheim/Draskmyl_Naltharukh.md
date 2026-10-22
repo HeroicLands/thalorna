@@ -8,7 +8,7 @@ name:
     - Lord Commander Draskmil
 type: being
 subType: npc
-description: The highest-ranking military officer in the region, a lord commander on whom Gnaldrthann Solvargr has repeatedly relied.
+description: The highest-ranking military officer in the region, a lord commander on whom Gnaldurthann Solvargur has repeatedly relied.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -41,4 +41,4 @@ Draskmil Naltharuk is a 45-year-old man who stands 5'7" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Draskmil Naltharuk is a lord commander and the highest-ranking military officer in the region. He respects [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]], has repeatedly relied on his counsel and experience, and has sheltered him from some of the more politically motivated aspects of military service.
+Draskmil Naltharuk is a lord commander and the highest-ranking military officer in the region. He respects [[being-gnldrthnslvrgr|Gnaldurthann Solvargur]], has repeatedly relied on his counsel and experience, and has sheltered him from some of the more politically motivated aspects of military service.

@@ -17,32 +17,32 @@ data:
       - {letters: [ei], kind: vowel pair, like: day, ipa: eɪ}
       - {letters: [oi], kind: vowel pair, like: boy, ipa: ɔɪ}
       - {letters: [ou], kind: vowel pair, like: soul, ipa: oʊ}
-      - {letters: [aa], kind: long vowel, like: "a long a, one vowel held a little", ipa: ɑː}
-      - {letters: [ii], kind: long vowel, like: "a long i, one vowel held a little", ipa: iː}
-      - {letters: [uu], kind: long vowel, like: "a long u, one vowel held a little", ipa: uː}
-      - {letters: [ie], kind: vowel pair, like: ee-eh run into one syllable, ipa: iɛ}
-      - {letters: [uo], kind: vowel pair, like: oo-oh run into one syllable, ipa: uo}
-      - {letters: [ae], kind: vowel pair, like: "day, one syllable", ipa: eɪ}
-      - letters: [ee]
+      - letters: [aa]
         kind: long vowel
-        like: "the e of bet held a little, one syllable"
-        ipa: ɛː
-        tongue: [skill-sinalelng, skill-sowideslng]
-      - letters: [oo]
+        like: "a long a, one vowel held a little; the short vowel is fine"
+        ipa: ɑː
+      - letters: [ii]
         kind: long vowel
-        like: "the o of go held a little, one syllable"
-        ipa: oː
-        tongue: [skill-sinalelng, skill-sowideslng]
-      - letters: [ea]
+        like: "a long i, one vowel held a little; the short vowel is fine"
+        ipa: iː
+      - letters: [uu]
+        kind: long vowel
+        like: "a long u, one vowel held a little; the short vowel is fine"
+        ipa: uː
+      - letters: [ie]
         kind: vowel pair
-        like: eh-ah run into one syllable
-        ipa: ɛa
-        tongue: [skill-aelwthlng]
+        like: "ee-eh run into one syllable; two syllables are fine"
+        ipa: iɛ
+      - letters: [uo]
+        kind: vowel pair
+        like: "oo-oh run into one syllable; two syllables are fine"
+        ipa: uo
+      - {letters: [ae], kind: vowel pair, like: "day, one syllable", ipa: eɪ}
       - letters: [ao]
         kind: vowel pair
         like: "ah-oh run into one syllable, near the ow of cow"
         ipa: ao
-        tongue: [skill-tantsoulng]
+        tongue: [skill-tantsoulng, skill-kalihrlng]
       - letters: [ui]
         kind: vowel pair
         like: "oo-ee run into one syllable, as in gooey said quickly"
@@ -67,125 +67,256 @@ data:
       - {letters: [sh], kind: consonant, like: ship, ipa: ʃ}
       - {letters: [th], kind: consonant, like: thin, ipa: θ}
       - {letters: [dh], kind: consonant, like: this, ipa: ð}
-      - {letters: [kh], kind: consonant, like: the Scottish loch, ipa: x}
-      - {letters: [gh], kind: consonant, like: "the same sound as kh, voiced", ipa: ɣ}
+      - {letters: [kh], kind: consonant, like: "the Scottish loch; a plain k is fine", ipa: x}
+      - letters: [gh]
+        kind: consonant
+        like: "the same sound as kh, voiced; a plain g is fine"
+        ipa: ɣ
       - {letters: [zh], kind: consonant, like: the s in measure, ipa: ʒ}
       - {letters: [j], kind: consonant, like: judge, ipa: dʒ}
       - letters: [y]
         kind: consonant or vowel
         like: "a consonant as in yes before a vowel; a vowel said as i, as in Bryn and Ashby, between consonants or at the end of a word"
         ipa: "j, i"
-      - {letters: [ph], kind: consonant, like: "f, as in Phera", ipa: f}
       - letters: [q]
         kind: consonant
         like: a k said further back in the throat; a plain k is fine
         ipa: q
       - {letters: [ts], kind: consonant, like: cats, ipa: ts}
       - {letters: [ny], kind: consonant, like: canyon, ipa: ɲ}
-      - {letters: [ng], kind: consonant, like: "sing, even at the start of a word", ipa: ŋ}
+      - letters: [ng]
+        kind: consonant
+        like: "sing, inside a word or at its end; the ng-g of finger is fine inside a word"
+        ipa: ŋ
       - letters: [mb]
         kind: consonant
-        like: "at the start of a word the two letters run together, as in mba"
+        like: "at the start of a word the two letters run together, as in mba; the consonant alone is fine"
         ipa: mb
+        tongue: [skill-ekpelulng, skill-okharclng, skill-nyalbnlng]
       - letters: [nd]
         kind: consonant
-        like: at the start of a word the two letters run together
+        like: "at the start of a word the two letters run together; the consonant alone is fine"
         ipa: nd
-      - {letters: [hl], kind: consonant, like: a breathy l, ipa: ɬ}
-      - {letters: [r], kind: consonant, like: "rolled or not, as the reader likes", ipa: r}
+        tongue: [skill-ekpelulng, skill-okharclng, skill-nyalbnlng]
+      - letters: [nk]
+        kind: consonant
+        like: "at the start of a word the two letters run together; the consonant alone is fine"
+        ipa: ŋk
+        tongue: [skill-nyalbnlng, skill-okharclng]
+      - letters: [nt]
+        kind: consonant
+        like: "at the start of a word the two letters run together; the consonant alone is fine"
+        ipa: nt
+        tongue: [skill-nyalbnlng, skill-okharclng]
+      - letters: [mp]
+        kind: consonant
+        like: "at the start of a word the two letters run together; the consonant alone is fine"
+        ipa: mp
+        tongue: [skill-nyalbnlng, skill-okharclng]
+      - letters: [nj]
+        kind: consonant
+        like: "at the start of a word the two letters run together; the consonant alone is fine"
+        ipa: ndʒ
+        tongue: [skill-nyalbnlng, skill-okharclng]
+      - letters: [ngw]
+        kind: consonant
+        like: "at the start of a word the ng runs together with a w after it; the consonant alone is fine"
+        ipa: ŋɡw
+        tongue: [skill-okharclng]
+      - letters: [gb]
+        kind: consonant
+        like: "the two letters said at once, the lips and the back of the tongue closing together; a plain b is fine"
+        ipa: ɡ͡b
+        tongue: [skill-ekpelulng]
+      - letters: [kp]
+        kind: consonant
+        like: "the two letters said at once, the lips and the back of the tongue closing together; a plain p is fine"
+        ipa: k͡p
+        tongue: [skill-ekpelulng]
+      - letters: [hl]
+        kind: consonant
+        like: "a breathy l; a plain l is fine"
+        ipa: ɬ
+        tongue: [skill-nordmalng]
+      - {letters: [r], kind: consonant, like: "rolled; an unrolled r is fine", ipa: r}
       - letters: [bh]
         kind: consonant
-        like: a b said with a breath after it
+        like: "a b said with a breath after it; a plain b is fine"
         ipa: bʱ
         tongue: [skill-vedyarlng]
       - letters: ["'"]
         kind: catch
-        like: "a catch in the throat, the pause in uh-oh; after a consonant, that consonant is said with the same catch"
+        like: "a catch in the throat, the pause in uh-oh; after a consonant, that consonant is said with the same catch; the consonant said plainly is fine"
         ipa: ʔ
     marks:
       - {mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one}
       - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: length, limit: one}
 ---
 
-Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, the same for every language, so a reader learns it once and can say any word in the setting. Where a word's own dictionary entry has more to say, it is for the curious; this guide is enough to play.
+Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, so a reader learns them once and can say any word in the setting.
 
-## Vowels
+Ease of speaking comes first. Where a sound is hard for an English speaker, a footnote gives a plain sound to use instead, and the plain sound is always correct.
 
-Each vowel letter has one sound. Vowels are sounded one at a time unless they form a pair in the table below, and a final _e_ is never silent.
+## Common pronunciation
 
-| Letter | Sounds like                         | Example |
-| ------ | ----------------------------------- | ------- |
-| a      | _father_                            | _ana_   |
-| e      | _bet_                               | _eda_   |
-| i      | _machine_                           | _siri_  |
-| o      | _go_                                | _oro_   |
-| u      | _rule_                              | _lunu_  |
-| ai     | _eye_                               | _kaira_ |
-| au     | _cow_                               | _taum_  |
-| ei     | _day_                               | _meiro_ |
-| oi     | _boy_                               | _soin_  |
-| ou     | _soul_                              | _koulo_ |
-| aa     | A long _a_, one vowel held a little | _baar_  |
-| ii     | A long _i_, one vowel held a little | _niir_  |
-| uu     | A long _u_, one vowel held a little | _suul_  |
-| ie     | _ee-eh_ run into one syllable       | _fiel_  |
-| uo     | _oo-oh_ run into one syllable       | _duon_  |
-| ae     | _day_, one syllable                 | _Gael_  |
+Every tongue is read by this section. A tongue that departs from it has a short section of its own below, listing only its departures.
 
-A pair of vowels not in this table is sounded apart, each vowel on its own, as in _Zoë_.
+### Vowels
 
-Some pairs are written only in some tongues. _ee_ and _oo_ are the _e_ of _bet_ and the _o_ of _go_ held a little, one syllable each, never the sounds of _see_ and _food_, and only [[skill-sinalelng|Sinale]] and [[skill-sowideslng|Sovidur]] write them. _ea_ is _eh-ah_ run into one syllable, and only [[skill-aelwthlng|Aelwythi]] writes it; everywhere else _e_ and _a_ in a row are sounded apart, _e-a_. _ao_ is _ah-oh_ run into one syllable, near the _ow_ of _cow_, and only [[skill-tantsoulng|Tantsou]] writes it. _ui_ is _oo-ee_ run into one syllable, as in _gooey_ said quickly, and only Tantsou and [[skill-jurthatlng|Jurthati]] write it. In those two tongues an _i_ or a _u_ before another vowel glides into it, so _chuen_ and _chiao_ are each one syllable.
+Each vowel letter has one sound. Vowels are sounded one at a time unless they form a pair in this table, and a final _e_ is never silent.
 
-## Consonants
+| Letter | Sounds like                                | Example |
+| ------ | ------------------------------------------ | ------- |
+| a      | _father_                                   | _ana_   |
+| e      | _bet_                                      | _eda_   |
+| i      | _machine_                                  | _siri_  |
+| o      | _go_                                       | _oro_   |
+| u      | _rule_                                     | _lunu_  |
+| ai     | _eye_                                      | _kaira_ |
+| au     | _cow_                                      | _taum_  |
+| ei     | _day_                                      | _meiro_ |
+| oi     | _boy_                                      | _soin_  |
+| ou     | _soul_                                     | _koulo_ |
+| ae     | _day_, one syllable                        | _Gael_  |
+| ie     | _ee-eh_ run into one syllable[^ie]         | _fiel_  |
+| uo     | _oo-oh_ run into one syllable[^uo]         | _duon_  |
+| aa     | a long _a_, one vowel held a little[^long] | _baar_  |
+| ii     | a long _i_, one vowel held a little[^long] | _niir_  |
+| uu     | a long _u_, one vowel held a little[^long] | _suul_  |
+
+A pair of vowels not in this table is sounded apart, each vowel on its own, as in _Zoë_. _y_ before a vowel is the consonant of _yes_; between consonants or at the end of a word it is the vowel _i_, as in _Bryn_ and _Ashby_.
+
+### Consonants
 
 Consonants have their usual English values, with these points.
 
-| Spelling          | Sounds like                                                                                                                          |
-| ----------------- | ------------------------------------------------------------------------------------------------------------------------------------ |
-| g                 | Always hard, as in _go_. Never as in _gem_.                                                                                          |
-| k                 | _kit_                                                                                                                                |
-| ch                | _church_                                                                                                                             |
-| sh                | _ship_                                                                                                                               |
-| th                | _thin_                                                                                                                               |
-| dh                | _this_                                                                                                                               |
-| kh                | The Scottish _loch_.                                                                                                                 |
-| gh                | The same sound as _kh_, voiced.                                                                                                      |
-| zh                | The _s_ in _measure_.                                                                                                                |
-| j                 | _judge_                                                                                                                              |
-| y                 | Before a vowel, a consonant, as in _yes_. Between consonants or at the end of a word, a vowel said as _i_, as in _Bryn_ and _Ashby_. |
-| ph                | _f_, as in _Phera_.                                                                                                                  |
-| q                 | A _k_ said further back in the throat. Saying a plain _k_ is fine.                                                                   |
-| ts                | _cats_                                                                                                                               |
-| ny                | _canyon_                                                                                                                             |
-| ng                | _sing_, even at the start of a word.                                                                                                 |
-| mb, nd            | At the start of a word the two letters run together, as in _mba_.                                                                    |
-| hl                | A breathy _l_.                                                                                                                       |
-| r                 | Rolled or not, as the reader likes.                                                                                                  |
-| Doubled consonant | Said once and held a little, as in _sharru_ and _Brett_.                                                                             |
-
-Some tongues also write _bh_, a _b_ said with a breath after it; a language's own note says when it does.
+| Spelling          | Sounds like                                                                       |
+| ----------------- | --------------------------------------------------------------------------------- |
+| g                 | Always hard, as in _go_. Never as in _gem_.                                       |
+| ch                | _church_                                                                          |
+| sh                | _ship_                                                                            |
+| th                | _thin_                                                                            |
+| dh                | _this_                                                                            |
+| kh                | The Scottish _loch_.[^kh]                                                         |
+| gh                | The same sound as _kh_, voiced.[^gh]                                              |
+| zh                | The _s_ in _measure_.                                                             |
+| j                 | _judge_                                                                           |
+| q                 | A _k_ said further back in the throat.[^q]                                        |
+| ts                | _cats_, at the start of a word too, as in _tsar_.                                 |
+| ny                | _canyon_, before a vowel. Before a consonant or at the end, _y_ is the vowel _i_. |
+| ng                | _sing_, inside a word or at its end.[^ng]                                         |
+| r                 | Rolled.[^r]                                                                       |
+| Doubled consonant | Held a little, as in _sharru_ and _Brett_.[^double]                               |
 
 The letter _c_ appears only inside _ch_; a hard _c_ sound is written _k_. The letter _x_ is never used.
 
-The whole kit is twenty-four letters used alone (every letter but _c_ and _x_), the fixed pairs _ch_, _sh_, _th_, _dh_, _kh_, _gh_, _zh_, _ph_, _ng_, _ny_, _ts_ and _hl_, the vowel pairs, doubled consonants, the apostrophe, and the two marks.
+### Syllables
 
-## Stress
+Every syllable has a written vowel. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. Where two consonants open a word in a pair English does not use, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath.[^h]
+
+### Stress
 
 A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. So _Kelara_ is said ke-LA-ra, and _Torin_ is said TO-rin.
 
-## Marks
+### Marks
 
 A word carries at most one mark, and a mark appears for one of two reasons.
 
 - An **acute** (_á_) marks a stressed syllable that the rule above would not choose. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
 - A **diaeresis** (_ë_) marks a vowel sounded apart from the vowel before it, as in _Zoë_.
 
-No other mark is used. There is no circumflex, grave, macron, tilde, umlaut or tone mark.
+No other mark is used.
 
-## The apostrophe
+### The apostrophe
 
-An apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mark and does not count against the limit of one. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch. A word carries at most two.
+An apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mark and does not count against the limit of one. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch.[^catch] A word carries at most two.
 
-## What is not written
+### What is not written
 
-Tone and nasal vowels are not written. Vowel length is written only by a doubled vowel (_aa_, _ii_, _uu_, and _ee_ and _oo_ where they are allowed); a single vowel is not marked for length. A word's dictionary entry may note what is not written for anyone who wants it.
+Tone and nasal vowels are not written. Vowel length is written only by a doubled vowel; a single vowel is not marked for length.
+
+## Áelendi
+
+[[skill-aelendlng|Áelendi]] stresses the first syllable of every word, whatever its length. An acute marks any other stressed syllable.
+
+## Ekpelu
+
+[[skill-ekpelulng|Ekpelu]] has two sounds of its own: _gb_ and _kp_, each the two letters said at once, the lips and the back of the tongue closing together.[^ekpelu-gb] At the start of a word, _mb_, _nd_ and _ng_ are each one sound, the nasal running straight into the next letter, as in _mbala_, _ndaro_ and _ngoto_.[^ekpelu-nasal]
+
+## Hvarn
+
+[[skill-hvarnlng|Hvarn]] stresses the first syllable of every word.
+
+## Jurthat
+
+In [[skill-jurthatlng|Jurthat]], _ui_ is _oo-ee_ run into one syllable, as in _gooey_ said quickly, and an _i_ or a _u_ before another vowel glides into it, so _shuiwo_ is two syllables.[^jurthat-glide]
+
+## Kalihari
+
+In [[skill-kalihrlng|Kalihari]], _ao_ is _ah-oh_ run into one syllable, near the _ow_ of _cow_, as in _luvao_.[^kalihari-ao]
+
+## Nordmal
+
+[[skill-nordmalng|Nordmal]] stresses the first syllable of every word. An acute marks any other stressed syllable. _hl_ is a breathy _l_, as in _hlask_.[^nordmal-hl]
+
+## Nyáluban
+
+[[skill-nyalbnlng|Nyáluban]] stresses the first syllable of every word, and an acute marks any other stressed syllable. At the start of a word, _mb_, _nd_, _ng_, _nk_, _nt_, _mp_ and _nj_ are each one sound, the nasal running straight into the next letter, as in _Mbuka_, _ndafo_ and _nkulu_.[^nyaluban-nasal]
+
+## Okharik
+
+At the start of a word in [[skill-okharclng|Okharik]], _mb_, _nd_, _ng_, _nk_ and _nt_ are each one sound, the nasal running straight into the next letter, as in _Mbaka_, _Ndori_ and _ngor_; _ngw_ is that _ng_ with a _w_ after it, as in _ngwelo_.[^okharic-nasal]
+
+## Sinale
+
+[[skill-sinalelng|Sinale]] stresses the first syllable of every word, whatever its length.
+
+## Tantsou
+
+In [[skill-tantsoulng|Tantsou]], _ao_ is _ah-oh_ run into one syllable, near the _ow_ of _cow_, and _ui_ is _oo-ee_ run into one syllable, as in _gooey_ said quickly. An _i_ or a _u_ before another vowel glides into it, so _chuen_ and _chiao_ are each one syllable.[^tantsou-glide]
+
+## Vedyari
+
+[[skill-vedyarlng|Vedyari]] writes _bh_, a _b_ said with a breath after it, as in _bharava_.[^vedyari-bh]
+
+[^ie]: Two syllables, _ee-eh_, are always fine.
+
+[^uo]: Two syllables, _oo-oh_, are always fine.
+
+[^long]: The short vowel is always fine.
+
+[^kh]: A plain _k_ is always fine.
+
+[^gh]: A plain _g_ is always fine.
+
+[^q]: A plain _k_ is always fine.
+
+[^ng]: Inside a word before a vowel, the _ng-g_ of _finger_ is always fine.
+
+[^r]: An unrolled _r_ is always fine.
+
+[^double]: The consonant said once is always fine.
+
+[^pair]: A slight vowel between the two consonants is always fine, and so is a silent _k_ or _g_ before _n_, as English says _knee_.
+
+[^h]: A silent _h_ is always fine.
+
+[^catch]: The consonant said plainly, with a short break after it or none, is always fine.
+
+[^ekpelu-gb]: A plain _b_ for _gb_ and a plain _p_ for _kp_ are always fine.
+
+[^ekpelu-nasal]: A short hum before the consonant, as in _em-BA-la_, or the consonant alone, is always fine.
+
+[^jurthat-glide]: Saying the two vowels apart is always fine.
+
+[^kalihari-ao]: Two syllables, _ah-oh_, are always fine.
+
+[^nordmal-hl]: A plain _l_ is always fine.
+
+[^nyaluban-nasal]: A short hum before the consonant, as in _um-BU-ka_, or the consonant alone, is always fine.
+
+[^okharic-nasal]: A short hum before the consonant, as in _em-BA-ka_, or the consonant alone, is always fine.
+
+[^tantsou-glide]: Saying the vowels apart, in separate syllables, is always fine.
+
+[^vedyari-bh]: A plain _b_ is always fine.

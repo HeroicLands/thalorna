@@ -24,7 +24,7 @@ The valley's quarrel with the wider kingdom is the reckoning-post's authority ag
 
 ## The Fell above the Valley
 
-Hnarvdal's fell is the setting of the kingdom's best-known tale of a seer. **Velva [Aldrhildr]{.name data-type="being/npc"}**, the story says, vanished into the fell as a child and came back seven winters later with older words and a seer's knowledge. Some say hidden folk kept her and that a hearth-woman in the mountain taught her. The tale explains why Vithgard seeks her sight; it does not establish a public path into the fell. [[lore-vthgdhstry|Histories and Legends of Vithgard]] tells it.
+Hnarvdal's fell is the setting of the kingdom's best-known tale of a seer. **Velva [Aldurhildur]{.name data-type="being/npc"}**, the story says, vanished into the fell as a child and came back seven winters later with older words and a seer's knowledge. Some say hidden folk kept her and that a hearth-woman in the mountain taught her. The tale explains why Vithgard seeks her sight; it does not establish a public path into the fell. [[lore-vthgdhstry|Histories and Legends of Vithgard]] tells it.
 
 ## See Also
 

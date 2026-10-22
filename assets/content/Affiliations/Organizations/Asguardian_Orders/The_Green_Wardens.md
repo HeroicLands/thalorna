@@ -17,7 +17,7 @@ data:
       A candidate is sponsored and examined before the Chapter and sworn in a Guardian outright; the Chapter also puts a Guardian from the order for breaking its vow, and elects the Speaker of the Green from among the Elder Guardians for a five-year term.
     ranks:
       - level: 0
-        title: Eidvargr
+        title: Eidvargur
         lore: putfromordrrnk
         description: >-
           An outlaw of the oath, his sworn vows void. Cast out by vote of the Chapter, closing every valley station's hospitality and every sibling order's recognition for good.
@@ -71,14 +71,14 @@ A sitting Guardian sponsors a candidate and presents him at the annual chapter. 
 
 The order holds three ranks, and it admits nobody below its sworn rank: a candidate is sponsored and examined before he is anything.
 
-Put from the Order (_Eidvargr_)
+Put from the Order (_Eidvargur_)
 : cast out by vote of the Chapter, which closes every valley station's hospitality and every sibling order's recognition for good.
 
-Sworn Guardian (_Gronvordr_)
+Sworn Guardian (_Gronvordur_)
 : the working warden, assigned to a station or, occasionally, riding as a circuit relief.
 
 Elder Guardian (_Eidhofding_)
-: the senior member, called _Eldri Gronvordr_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
+: the senior member, called _Eldri Gronvordur_ among the Wardens themselves. An Elder Guardian may serve as station-warden for a more important valley, may oversee training, and sits on the order's Chapter.
 
 The chair is the Speaker of the Green, _Gronmál_, elected by the Chapter for a five-year term. There is one Speaker, who acts as an administrative coordinator rather than a commander. The present Speaker is [Thulmrinna Gronmál]{.name data-type="being/npc"}, a former station-warden of a contested [[place-vrystwald|Vristwald]] valley and widely regarded as the moral conscience of the order today. The standing Chapter is perhaps sixty Elder Guardians across the five kingdoms.
 

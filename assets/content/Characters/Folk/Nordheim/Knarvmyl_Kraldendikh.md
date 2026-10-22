@@ -5,7 +5,7 @@ name:
   aliases: [Merchant-Lord Knarvmil Kraldendik, Merchant-Lord Knarvmil]
 type: being
 subType: npc
-description: A coastal merchant prince who wanted to hire Gnurthselda Hafringr's services for a private war against a rival.
+description: A coastal merchant prince who wanted to hire Gnurthselda Hafringur's services for a private war against a rival.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -38,4 +38,4 @@ Knarvmil Kraldendik is a 34-year-old man who stands 5'11" tall with a heavy buil
 
 # Dossier {#dossier}
 
-Knarvmil Kraldendik is a coastal merchant prince who wanted to hire [[being-gnrthsldhfrngr|Gnurthselda Hafringr]]'s services for a private war against a rival. When Gnurthselda refused, he circulated rumors about her.
+Knarvmil Kraldendik is a coastal merchant prince who wanted to hire [[being-gnrthsldhfrngr|Gnurthselda Hafringur]]'s services for a private war against a rival. When Gnurthselda refused, he circulated rumors about her.

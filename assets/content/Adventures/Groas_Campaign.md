@@ -25,7 +25,7 @@ This is a campaign where wisdom, diplomacy, and strength of character are valued
 ### The Three Great Challenges
 
 Internal Strife
-: Malagna is teetering on the edge of civil war. [[being-knghlrthni|King Hlurthann III]] is aging and ineffective, and various factions within the kingdom, including powerful clans like the [[affiliation-hrafnvar|Hrafnvar]] and [[affiliation-grimvar|Grimvar]], vie for dominance. Groa and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
+: Malagna is teetering on the edge of civil war. [[being-knghlrthni|King Hlurthann III]] is aging and ineffective, and various factions within the kingdom, including powerful clans like the [[affiliation-hrafanvar|Hrafanvar]] and [[affiliation-grimvar|Grimvar]], vie for dominance. Groa and her companions find themselves in a kingdom where the real threat is not only the ancient sea spirit, but also the unraveling of their homeland’s social fabric.
 
 Foreign Invasions
 : In addition to internal turmoil, foreign threats loom on Malagna’s borders. [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the [[affiliation-kingdmtrgd|Kingdom of Targud]], emboldened by Malagna’s political weakness, launch raids along the coast. Villages are left defenseless, and the kingdom’s military is too fractured to protect the people. Groa and her companions will need to confront these invaders, rally the common folk, and defend their homeland against these external dangers.

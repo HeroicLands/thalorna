@@ -7,7 +7,7 @@ description: "A day north of the last burned farm the ice at a lake's heart will
 tags: [draft]
 data:
   parents: []
-  locations: [dvilgvatn, driskborg]
+  locations: [dvilgvatan, driskborg]
   cast: []
   factions: [nalok]
   follows: []
@@ -20,7 +20,7 @@ A lake of black ice north of the refugee fortress does not thaw, and the dead wh
 
 ## Overview
 
-[[place-dvilgvatn|Dvilgvatn]] lies a day north of Draskborg, up the river and beyond the last burned farm. The ice at its center is black and will not melt. Under it, a hidden hov of [[affiliation-nahild|Nahild]] stands with its roof-ridge a man's height below the surface, kept by [[affiliation-nalok|Nalok]] under a **Dróttstjori**, [Gnuldrthira]{.name data-type="being/npc"}, who was the wife of a bundi from the [[affiliation-kingdmtrgd|Kingdom of Targud]] before the burning of her farm. The lake is a seep of the Eye of the Void: [[lore-theshadow|the Shadow]] comes through it in a cold that does not warm, and the dead who freeze there rise as **Ginnborn**. Nalok cuts shards of the black ice to set in howes elsewhere in the north.
+[[place-dvilgvatan|Dvilgvatan]] lies a day north of Draskborg, up the river and beyond the last burned farm. The ice at its center is black and will not melt. Under it, a hidden hov of [[affiliation-nahild|Nahild]] stands with its roof-ridge a man's height below the surface, kept by [[affiliation-nalok|Nalok]] under a **Dróttstjori**, [Gnuldurthira]{.name data-type="being/npc"}, who was the wife of a bundi from the [[affiliation-kingdmtrgd|Kingdom of Targud]] before the burning of her farm. The lake is a seep of the Eye of the Void: [[lore-theshadow|the Shadow]] comes through it in a cold that does not warm, and the dead who freeze there rise as **Ginnborn**. Nalok cuts shards of the black ice to set in howes elsewhere in the north.
 
 Draskborg's wardens see the dark from the tower. The fortress is full of people who have lost everything, and some of them walk north in the night.
 
@@ -53,7 +53,7 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Situation.** On a stone shoal at the lake's edge stands a camp of low turf huts. A dozen people live there: bundi and thralls from the burned east, a few Draskborg runaways, a hunter with a frostbitten hand. They carry out the hov's work in a dull, sad silence and share a kettle. They are **Her Offerers**, and the hidden hov has asked nothing of them yet but labor.
 
-**NPCs and threats.** [Braldvir]{.name data-type="being/npc"}, the camp's elder, is a bundi who lost his farm and sons to the [[lore-grukarfolk|Grukar]] and was turned away from the fortress for want of room. He is polite, tired, and unafraid. He does not know what the hov does with the shards. The Drottmadr who runs the camp, [Anthinda]{.name data-type="being/npc"}, is a lean woman who watches the party and does not speak. The hunter has the beginnings of the black in his hand.
+**NPCs and threats.** [Braldvir]{.name data-type="being/npc"}, the camp's elder, is a bundi who lost his farm and sons to the [[lore-grukarfolk|Grukar]] and was turned away from the fortress for want of room. He is polite, tired, and unafraid. He does not know what the hov does with the shards. The Drottmadur who runs the camp, [Anthinda]{.name data-type="being/npc"}, is a lean woman who watches the party and does not speak. The hunter has the beginnings of the black in his hand.
 
 **Player choices.** Force: seize the camp, which the people fight with whatever they hold. Stealth: pass the huts at night while they sleep. Guile: pose as new offerers who have lost their farms, which is nearly true. Parley: tell Braldvir the truth about the shards, and the Ginnborn, and what happens to the dead at the lake.
 
@@ -83,15 +83,15 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Purpose.** The confrontation with Nalok and the leak itself.
 
-**Situation.** The hov is a long hall of ship-timber and black glass. At its far end is an altar cut from a single block of the black ice, and in the floor before the altar is a round of dark that is not the floor. The cold coming off it is the cold of nothing. Gnuldrthira kneels at the altar, chipping shards from the block with a bone chisel. Ginnborn line the walls.
+**Situation.** The hov is a long hall of ship-timber and black glass. At its far end is an altar cut from a single block of the black ice, and in the floor before the altar is a round of dark that is not the floor. The cold coming off it is the cold of nothing. Gnuldurthira kneels at the altar, chipping shards from the block with a bone chisel. Ginnborn line the walls.
 
-**NPCs and threats.** Gnuldrthira is a woman in her forties with a grey streak in her hair and black eyes, and she serves the goddess with a refugee's gratitude: she credits Nahild with giving her a place when none was given. She believes in the quiet that Nahild holds out to the dead. The Ginnborn move when she lifts a hand. The round of dark is the leak, and it draws on the living as the party stands near it.
+**NPCs and threats.** Gnuldurthira is a woman in her forties with a grey streak in her hair and black eyes, and she serves the goddess with a refugee's gratitude: she credits Nahild with giving her a place when none was given. She believes in the quiet that Nahild holds out to the dead. The Ginnborn move when she lifts a hand. The round of dark is the leak, and it draws on the living as the party stands near it.
 
-**Player choices.** Force: break the altar, which closes the seep for a season and sends the Shadow lashing through the hall. Stealth: slip the bone case of finished shards from the altar's foot and carry it out. Guile: convince Gnuldrthira that her Order is feeding something that will eat the hov, which is true. Parley: tell her that the fortress would have kept her husband's name, and ask her to stop.
+**Player choices.** Force: break the altar, which closes the seep for a season and sends the Shadow lashing through the hall. Stealth: slip the bone case of finished shards from the altar's foot and carry it out. Guile: convince Gnuldurthira that her Order is feeding something that will eat the hov, which is true. Parley: tell her that the fortress would have kept her husband's name, and ask her to stop.
 
 **Clues and rewards.** The altar is the block the leak feeds. Without the altar, the dark has nothing to gather around and thins, but it does not close. The Ginnborn are ice to the bone, and a burning brand makes them give ground. The shards of the bone case are Nalok's seed for other howes.
 
-**Consequences.** A party that breaks the altar frees the hov from its master but not the lake from the Eye. A party that kills Gnuldrthira leaves the Ginnborn masterless, and masterless Ginnborn walk. A party that persuades her loses her to the lake, because she will not leave the dark.
+**Consequences.** A party that breaks the altar frees the hov from its master but not the lake from the Eye. A party that kills Gnuldurthira leaves the Ginnborn masterless, and masterless Ginnborn walk. A party that persuades her loses her to the lake, because she will not leave the dark.
 
 **If bypassed.** A party that takes the shards and leaves sees the hov's lamps go out behind it, and the black spreads a hand's breadth in a night.
 
@@ -101,7 +101,7 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 
 **Situation.** Behind the altar is a store-room cut into the ice. It holds the possessions of the lake's dead: frozen purses, cloaks, weapons and a child's wooden horse. Beneath them lies a roll of hazel tally-sticks, one for each howe a shard has been set in.
 
-**NPCs and threats.** If Gnuldrthira lives, she follows the party and begs it to leave the cache, because the dead of the lake are hers to keep.
+**NPCs and threats.** If Gnuldurthira lives, she follows the party and begs it to leave the cache, because the dead of the lake are hers to keep.
 
 **Player choices.** Force: carry the goods out on a sledge. Stealth: take only the tally-sticks. Guile: sort the goods and return them to the families who lost them. Parley: bring the goods to Draskborg and ask the hirvman what is to be done.
 
@@ -114,13 +114,13 @@ Draskborg's wardens see the dark from the tower. The fortress is full of people 
 ## Aftermath
 
 - **If the altar was broken and the hov burned.** The leak does not close, but it stops spreading. The wardens of Draskborg set a watch on the north shore and light the beacon toward the lake as well as the river.
-- **If Gnuldrthira was persuaded.** She leaves the lake and walks into Draskborg, where the gate-warden opens the gate for her as he opens it for all of them.
+- **If Gnuldurthira was persuaded.** She leaves the lake and walks into Draskborg, where the gate-warden opens the gate for her as he opens it for all of them.
 - **If the tally-sticks were taken.** The [[affiliation-ravenguard|Raven Guard]] learn where the shards lie, and the work of cleansing the howes begins.
 - **If the party failed.** The black spreads, and Draskborg takes in a new kind of refugee: the ones who walked out of the north with ice in their limbs.
 
 ## See Also
 
-[[place-dvilgvatn|Dvilgvatn]]
+[[place-dvilgvatan|Dvilgvatan]]
 : the lake
 
 [[place-driskborg|Draskborg]]

@@ -11,7 +11,7 @@ data:
   occupation: Woodcutter
   lore: []
   culture: nordheimnclt
-  homes: [horgsvangr]
+  homes: [horgsvangur]
   affiliations: {kngdmnrdhm: {rank: 3}, eidgar: {rank: 1}}
   gender: male
   species: humanflk

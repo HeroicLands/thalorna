@@ -23,13 +23,13 @@ data:
         description: >-
           The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the mead and the rune-offering at a rune-hall by its own gudi, cutting a man from Odvar's clergy and from the hall's reckoning of him at once.
       - level: 1
-        title: Bletmadr
+        title: Bletmadur
         lore: blotmadrrnk
         description: >-
           Attends the blet at a rune-hall and shares its mead and its meal—the whole of what most of Odvar's faithful ever hold.
       - level: 2
-        title: Hofsmadr
-        lore: hofsmadrrnk
+        title: Hofsmadur
+        lore: hofsmadurrnk
         description: >-
           Given to a rune-hall young, laboring at its rune-lore and its upkeep for years short of any claim to the priesthood.
       - level: 3
@@ -61,7 +61,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-When a rune-hall casts the staves for the whole community, a Bletmadr stands at the back with the mead cup. A Bletmadr at a hall of Odvar is not a caster and never claims to be. "I pour, I listen, I carry the cup round afterward," he says. "The runes do not tell the hall what to do. They show the shape of the current a choice will run in, and the hall decides what to do with the shape. Anyone who tells you more than that has not watched many casts."
+When a rune-hall casts the staves for the whole community, a Bletmadur stands at the back with the mead cup. A Bletmadur at a hall of Odvar is not a caster and never claims to be. "I pour, I listen, I carry the cup round afterward," he says. "The runes do not tell the hall what to do. They show the shape of the current a choice will run in, and the hall decides what to do with the shape. Anyone who tells you more than that has not watched many casts."
 
 The Faith of Odvar honors [[lore-odvardty|Odvar]] as the god of knowledge, wisdom and the pursuit of understanding. The faith's founding story is his sacrifice of an eye at the well of [[lore-minnir|Minnir]] in exchange for a drink of its wisdom-bestowing waters, and his wisdom reaches beyond the scholar's into the mystical and the arcane: the runes, the secrets of the cosmos and the mysteries of life and death. In the faith’s teaching, his reach extends further still. He is a god of poetry, war and honorable death, who guides souls to [[place-valsal|Valsal]] and inspires warriors with the courage to fight and the judgment to know when to use their power. The faith calls him a god of paradoxes, creator and destroyer, wise and warlike, loving and fearsome.
 
@@ -78,10 +78,10 @@ Every rung of the ladder belongs to a rune-hall:
 Refused the Blet
 : denied the mead and rune-offering at a rune-hall, and cut from the clergy and from the hall's reckoning of him.
 
-Bletmadr
+Bletmadur
 : attends the blet at a rune-hall and shares its mead and meal.
 
-Hofsmadr
+Hofsmadur
 : given to a rune-hall young, laboring at its rune-lore before any claim to the priesthood.
 
 Gudi / Gudja
@@ -90,7 +90,7 @@ Gudi / Gudja
 Hofgudi / Hofgudja
 : consecrates rune-halls, ordains their gudar, and performs the great blet at a season's turning.
 
-The faith teaches rune casting and divination, shamanic journeying, poetic inspiration and storytelling, battle wisdom and strategic insight, intrigue and politics, and the arcane arts. Three kinds of servant belong to Odvar. The choosers of the slain select fallen warriors and bring them to Valsal. The [[lore-valdrengir|Valdrengir]] are the honored dead who live there, training for the final battle of [[lore-aldarlok|Aldarlok]]; half the honored dead are said to gho instead to [[lore-solrundty|Solrún]]'s field at [[place-solvangr|Solvangr]]. The ravens fly the world each day, Hugvin gathering knowledge and wisdom and Munvin traveling far to bring back insights from every corner of it.
+The faith teaches rune casting and divination, shamanic journeying, poetic inspiration and storytelling, battle wisdom and strategic insight, intrigue and politics, and the arcane arts. Three kinds of servant belong to Odvar. The choosers of the slain select fallen warriors and bring them to Valsal. The [[lore-valdrengir|Valdrengir]] are the honored dead who live there, training for the final battle of [[lore-aldarlok|Aldarlok]]; half the honored dead are said to gho instead to [[lore-solrundty|Solrún]]'s field at [[place-solvangur|Solvangur]]. The ravens fly the world each day, Hugvin gathering knowledge and wisdom and Munvin traveling far to bring back insights from every corner of it.
 
 ## Ceremonies and Festivals
 
@@ -106,7 +106,7 @@ Five ordeals are held to win the All-Father's favor. In the [Trial of the Runes]
 
 ## See Also
 
-[[affiliation-hrafnrun|Hrafnrún]]
+[[affiliation-hrafanrun|Hrafanrún]]
 : the Order of the Raven, priests devoted to rune-lore and divination
 
 [[affiliation-hugaett|Hugaett]]

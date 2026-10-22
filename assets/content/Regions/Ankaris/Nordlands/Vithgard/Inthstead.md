@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [vithgard], population: 0, packFolder: 
 
 ## Overview
 
-Check the lines before you check your sword: that is the rule [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] has given levymen for years, and the reason is a night at Inthstead.
+Check the lines before you check your sword: that is the rule [[being-dvrnvrhrfnsvld|Dvarnvir Hrafansvald]] has given levymen for years, and the reason is a night at Inthstead.
 
 Inthstead is a steading on the borders of [[place-vithgard|Vithgard]]. The levies of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]] have camped near it in the border conflicts, and the place is remembered for one night of them. Its name says where it stands: _inth-_, the far side of a pass, before the generic for a farmstead.
 
@@ -20,7 +20,7 @@ At [The Burning of Inthstead]{.name data-type="lore/history"}, one night of [[lo
 
 ## See Also
 
-[[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]]
+[[being-dvrnvrhrfnsvld|Dvarnvir Hrafansvald]]
 : the soldier who pulled the canvas clear
 
 [[place-vithgard|Vithgard]]

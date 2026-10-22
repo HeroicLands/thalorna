@@ -41,9 +41,9 @@ data:
         - "Glurvselda"
         - "Gnaldrinna"
         - "Gnarthinda"
-        - "Gnildrselda"
+        - "Gnildurselda"
         - "Gnirthrinna"
-        - "Gnuldrthira"
+        - "Gnuldurthira"
         - "Gnurthselda"
         - "Hlarthrinna"
         - "Hlaskinda"
@@ -142,11 +142,11 @@ data:
         - "Glarvorv"
         - "Glirvir"
         - "Glurvmil"
-        - "Gnaldrvir"
+        - "Gnaldurvir"
         - "Gnarthorv"
-        - "Gnildrmil"
+        - "Gnildurmil"
         - "Gnirthvir"
-        - "Gnuldrthann"
+        - "Gnuldurthann"
         - "Gnurthmil"
         - "Hlarthvir"
         - "Hlaskorv"
@@ -372,7 +372,7 @@ data:
     - form: "-idrok"
       gloss: "a forebear: a line reckoned from a name-giver the clan can still recite to"
     - {form: "-aett", gloss: "a kin reckoned together"}
-    - {form: "-aldr", gloss: "an age"}
+    - {form: "-aldur", gloss: "an age"}
     - {form: "-ask", gloss: "an ash-tree"}
     - {form: "-auga", gloss: "an eye"}
     - {form: "-bandalag", gloss: "a league of sworn companies"}
@@ -381,20 +381,20 @@ data:
     - {form: "-blet", gloss: "a sacrifice"}
     - {form: "-borinn", gloss: "one born of a thing"}
     - {form: "-born", gloss: "children"}
-    - {form: "-brandr", gloss: "a brand, either a firebrand or a blade"}
-    - {form: "-dómr", gloss: "a judgment given"}
+    - {form: "-brandur", gloss: "a brand, either a firebrand or a blade"}
+    - {form: "-dómur", gloss: "a judgment given"}
     - {form: "-drengir", gloss: "warriors"}
     - {form: "-dulm", gloss: "a grave"}
     - {form: "-dirma", gloss: "a lay"}
     - {form: "-efnir", gloss: "one in the making"}
-    - {form: "-eldr", gloss: "fire"}
+    - {form: "-eldur", gloss: "fire"}
     - {form: "-fadir", gloss: "a father or a mother, and the head of a hov"}
     - {form: "-módir", gloss: "a father or a mother, and the head of a hov"}
     - {form: "-gar", gloss: "a spear"}
     - {form: "-geir", gloss: "a spear"}
     - {form: "-gengir", gloss: "ones that go"}
     - {form: "-gudi", gloss: "a priest-chieftain"}
-    - {form: "-grímr", gloss: "a mask"}
+    - {form: "-grímur", gloss: "a mask"}
     - {form: "-grind", gloss: "a gate"}
     - {form: "-guard", gloss: "an enclosed world"}
     - {form: "-geldra", gloss: "a praise-poem"}
@@ -406,21 +406,21 @@ data:
     - {form: "-hofding", gloss: "a chieftain"}
     - {form: "-holl", gloss: "a great hall"}
     - {form: "-hond", gloss: "a hand"}
-    - {form: "-hringr", gloss: "a ring, and a circle of sworn men"}
-    - {form: "-ringr", gloss: "a ring, and a circle of sworn men"}
+    - {form: "-hringur", gloss: "a ring, and a circle of sworn men"}
+    - {form: "-ringur", gloss: "a ring, and a circle of sworn men"}
     - {form: "-hrúd", gloss: "a well"}
     - {form: "-hulma", gloss: "a kenning"}
     - {form: "-káppar", gloss: "champions"}
     - {form: "-lid", gloss: "a company in the field"}
     - {form: "-lok", gloss: "a close, an end"}
-    - {form: "-madr", gloss: "a man holding a station"}
+    - {form: "-madur", gloss: "a man holding a station"}
     - {form: "-melir", gloss: "one that speaks, and ones that speak"}
     - {form: "-melendir", gloss: "one that speaks, and ones that speak"}
     - {form: "-mál", gloss: "speech, and the voice a body speaks with"}
     - {form: "-minni", gloss: "a cup drunk to a memory"}
     - {form: "-nár", gloss: "a corpse, and the dead that linger"}
     - {form: "-nótt", gloss: "night"}
-    - {form: "-ormr", gloss: "a wyrm"}
+    - {form: "-ormur", gloss: "a wyrm"}
     - {form: "-reid", gloss: "a ride"}
     - {form: "-rót", gloss: "a root"}
     - {form: "-rún", gloss: "a rune"}
@@ -428,7 +428,7 @@ data:
     - {form: "-skald", gloss: "a poet whose verse is a realm's memory"}
     - {form: "-skari", gloss: "a troop"}
     - {form: "-skel", gloss: "a shell, and a plate of iron"}
-    - {form: "-skjoldr", gloss: "a shield"}
+    - {form: "-skjoldur", gloss: "a shield"}
     - {form: "-skreld", gloss: "a flyting"}
     - {form: "-snerv", gloss: "a prophecy"}
     - {form: "-stjóri", gloss: "the master of a thing"}
@@ -436,13 +436,13 @@ data:
     - {form: "-sistur", gloss: "sisters"}
     - {form: "-thur", gloss: "a giant"}
     - {form: "-ting", gloss: "the lawful assembly"}
-    - {form: "-úlfr", gloss: "a wolf"}
+    - {form: "-úlfur", gloss: "a wolf"}
     - {form: "-vald", gloss: "one who wields"}
-    - {form: "-vangr", gloss: "a field"}
+    - {form: "-vangur", gloss: "a field"}
     - {form: "-var", gloss: "a ward, a keeper"}
-    - {form: "-vordr", gloss: "a ward, a keeper"}
+    - {form: "-vordur", gloss: "a ward, a keeper"}
     - {form: "-verdir", gloss: "a ward, a keeper"}
-    - {form: "-vargr", gloss: "an outlaw, a wolf in the law's eye"}
+    - {form: "-vargur", gloss: "an outlaw, a wolf in the law's eye"}
     - {form: "-ven", gloss: "one who dwells in a place"}
     - {form: "-vin", gloss: "a friend"}
     - {form: "-vinir", gloss: "a friend"}
@@ -567,16 +567,16 @@ data:
       field: "Whale and seal"
       gloss: "oil rendered from blubber and burned in a lamp"
       built: ["glarv-"]
-    - form: "skelfr"
+    - form: "skelfur"
       class: "n"
       field: "Whale and seal"
       gloss: "the ice-edge, where sea ice meets open water"
       built: ["skalf-"]
-    - form: "dvonvangr"
+    - form: "dvonvangur"
       class: "n"
       field: "Whale and seal"
       gloss: "a rookery, the shore where seals haul out to breed"
-      built: ["dvon-", "-vangr"]
+      built: ["dvon-", "-vangur"]
     - form: "knerv"
       class: "n"
       field: "The body and the grave"
@@ -636,11 +636,11 @@ data:
       class: "n"
       field: "The body and the grave"
       gloss: "a night-riding dread, warded off by turning shoes outward and keeping steel by the bed"
-    - form: "heimsaldr"
+    - form: "heimsaldur"
       class: "n"
       field: "The making of the world"
       gloss: "a world-age, the world from its kindling to its end"
-      built: ["heims-", "-aldr"]
+      built: ["heims-", "-aldur"]
     - form: "fosk"
       class: "n"
       field: "The making of the world"
@@ -724,9 +724,18 @@ data:
     - {form: "knarv-", class: "stem", field: "Name-stems", gloss: "a joint made to take strain"}
     - {form: "knirv-", class: "stem", field: "Name-stems", gloss: "a joint made to take strain"}
     - {form: "knurv-", class: "stem", field: "Name-stems", gloss: "a joint made to take strain"}
-    - {form: "gnaldr-", class: "stem", field: "Name-stems", gloss: "floes grinding on one another"}
-    - {form: "gnildr-", class: "stem", field: "Name-stems", gloss: "floes grinding on one another"}
-    - {form: "gnuldr-", class: "stem", field: "Name-stems", gloss: "floes grinding on one another"}
+    - form: "gnaldur-"
+      class: "stem"
+      field: "Name-stems"
+      gloss: "floes grinding on one another"
+    - form: "gnildur-"
+      class: "stem"
+      field: "Name-stems"
+      gloss: "floes grinding on one another"
+    - form: "gnuldur-"
+      class: "stem"
+      field: "Name-stems"
+      gloss: "floes grinding on one another"
     - form: "gnarth-"
       class: "stem"
       field: "Name-stems"
@@ -929,7 +938,7 @@ data:
     - {form: "inth-", class: "stem", field: "Name-stems", gloss: "the far side of a pass"}
     - {form: "unth-", class: "stem", field: "Name-stems", gloss: "the far side of a pass"}
     - {form: "ald-", class: "stem", field: "Name elements", gloss: "an age, and the age's"}
-    - {form: "aldr-", class: "stem", field: "Name elements", gloss: "an age, and the age's"}
+    - {form: "aldur-", class: "stem", field: "Name elements", gloss: "an age, and the age's"}
     - {form: "aldar-", class: "stem", field: "Name elements", gloss: "an age, and the age's"}
     - {form: "as-", class: "stem", field: "Name elements", gloss: "a god of the defending kin"}
     - form: "bandlag-"
@@ -973,7 +982,7 @@ data:
       gloss: "green, and growing"
       concept: green
     - {form: "gull-", class: "stem", field: "Name elements", gloss: "gold"}
-    - {form: "geldr-", class: "stem", field: "Name elements", gloss: "a praise-poem"}
+    - {form: "geldur-", class: "stem", field: "Name elements", gloss: "a praise-poem"}
     - {form: "haf-", class: "stem", field: "Name elements", gloss: "the open sea"}
     - {form: "hall-", class: "stem", field: "Name elements", gloss: "a great hall's"}
     - {form: "hamar-", class: "stem", field: "Name elements", gloss: "a hammer"}
@@ -988,7 +997,7 @@ data:
     - {form: "hovs-", class: "stem", field: "Name elements", gloss: "belonging to a hov"}
     - {form: "hofud-", class: "stem", field: "Name elements", gloss: "the head of a body of men"}
     - {form: "hond-", class: "stem", field: "Name elements", gloss: "a hand", concept: hand}
-    - {form: "hrafn-", class: "stem", field: "Name elements", gloss: "a raven"}
+    - {form: "hrafan-", class: "stem", field: "Name elements", gloss: "a raven"}
     - {form: "hrend-", class: "stem", field: "Name elements", gloss: "a boundary marker"}
     - {form: "hrím-", class: "stem", field: "Name elements", gloss: "rime"}
     - {form: "hring-", class: "stem", field: "Name elements", gloss: "a ring given at a hall"}
@@ -1061,14 +1070,14 @@ data:
     - {form: "tvelg-", class: "stem", field: "Name elements", gloss: "a remnant"}
     - {form: "úlf-", class: "stem", field: "Name elements", gloss: "a wolf"}
     - {form: "val-", class: "stem", field: "Name elements", gloss: "the slain"}
-    - {form: "vatn-", class: "stem", field: "Name elements", gloss: "water", concept: water}
+    - {form: "vatan-", class: "stem", field: "Name elements", gloss: "water", concept: water}
     - {form: "vél-", class: "stem", field: "Name elements", gloss: "a wile"}
-    - {form: "vetr-", class: "stem", field: "Name elements", gloss: "winter"}
+    - {form: "vetur-", class: "stem", field: "Name elements", gloss: "winter"}
     - {form: "víg-", class: "stem", field: "Name elements", gloss: "a battle joined"}
     - {form: "vorn-", class: "stem", field: "Name elements", gloss: "a defense held"}
     - {form: "vrell-", class: "stem", field: "Name elements", gloss: "blood", concept: blood}
     - {form: "vuld-", class: "stem", field: "Name elements", gloss: "grain"}
-    - form: "bandlagshringr"
+    - form: "bandlagshringur"
       class: "n"
       field: "The orders and their marks"
       gloss: "The bronze ring a Signed Captain of the Málalidabandalag wears on the thumb"
@@ -1079,8 +1088,8 @@ data:
     - form: "hrúmsmodir"
       class: "n"
       field: "Tellers' tales"
-      gloss: "The mothers of the oldest lines, said to lie beneath the stones of Horgsvangr"
-    - form: "skaldhringr"
+      gloss: "The mothers of the oldest lines, said to lie beneath the stones of Horgsvangur"
+    - form: "skaldhringur"
       class: "n"
       field: "The orders and their marks"
       gloss: "The silver arm-ring a sworn skald wears for life"
@@ -1088,11 +1097,11 @@ data:
       class: "n"
       field: "The orders and their marks"
       gloss: "a skald's apprentice, a pupil who has yet to present a geldra the Circle accepts"
-    - form: "Hluskmadr"
+    - form: "Hluskmadur"
       class: "n"
       field: "The orders and their marks"
       gloss: "one of the faith of Bjart whom the council will not accord, and meets with silence"
-    - form: "Draskmadr"
+    - form: "Draskmadur"
       class: "n"
       field: "The orders and their marks"
       gloss: "one who holds Hrimthur's work in awe and has joined none of his factions"
@@ -1173,7 +1182,7 @@ data:
       kind: place
       sense: an enclosed yard and its buildings
       joining: -gardar
-    - {form: -havn, position: closing, kind: place, sense: a haven, joining: -havnar}
+    - {form: -havan, position: closing, kind: place, sense: a haven, joining: -havnar}
     - form: -heim
       position: closing
       kind: place
@@ -1194,14 +1203,20 @@ data:
       kind: place
       sense: a seat where the law is recited
       joining: -thular
-    - {form: -vangr, position: closing, kind: place, sense: an open field, joining: -vangar}
-    - {form: -vatn, position: closing, kind: place, sense: a lake, joining: -vatnar}
+    - {form: -vangur, position: closing, kind: place, sense: an open field, joining: -vangar}
+    - {form: -vatan, position: closing, kind: place, sense: a lake, joining: -vatnar}
     - {form: -vík, position: closing, kind: place, sense: an inlet, joining: -víkar}
   tongues: [{tag: nordmal, meaning: "a Nordmal name", language: skill-nordmalng}]
   register:
     - {name: Thalmdal, tongue: nordmal}
     - {name: Bjart, tongue: nordmal}
     - {name: Bralvik, tongue: nordmal}
+  retired:
+    - {form: vatn, instead: vatan, why: "an Earth word"}
+    - {form: hrafn, instead: hrafan, why: "an Earth word"}
+    - {form: aldr, instead: aldur, why: "an Earth word"}
+    - {form: hringr, instead: hringur, why: "an Earth word"}
+    - {form: brandr, instead: brandur, why: "an Earth word"}
 # terran_analog: the place-name layers follow Scandinavian toponymy: theophoric names such as Odensvi, Torsberg and Ullevi, a founder's name as in Grimsstadir, and the assembly's as in Thingvellir and Logberg.
 sohl:
   system:
@@ -1232,7 +1247,7 @@ Nordmal is hammer-stressed and short: one or two syllables, with the weight on t
 
 **The consonants.** _r_, _l_, _v_, _s_, _k_, _g_, _d_ and _th_ do the work.
 
-**Clusters.** Words open on _hr-_, _hn-_, _hl-_, _sk-_, _sn-_ or _dv-_ and close on _-ld_, _-rv_, _-lm_, _-rn_ or _-sk_.
+**Clusters.** Words open on _hr-_, _hn-_, _hl-_, _sk-_, _sn-_ or _dv-_ and close on _-ld_, _-rv_, _-lm_, _-rn_ or _-sk_, and end on _-ur_ after a consonant.
 
 **Endings.** Nordmal words end on a consonant or on _-a_ or _-i_. Names take _-inna_, _-ira_ or _-ann_.
 
@@ -1279,7 +1294,7 @@ SELECT CASE edge || '/' || of WHEN 'closeConsonant/name' THEN 'any name' WHEN 'c
 FROM name_edges WHERE language = 'thalorna-note-skill-nordmalng' AND edge IN ('closeConsonant', 'closeCluster') ORDER BY position
 ```
 
-No Nordmal name ends in `b`, `f`, `h`, `j`, `p`, `s`, `th` or `z`. A name whose last element would otherwise close on `f` takes the strong ending `-r` instead, which is why the wolf is _ulfr_ and the fire _eldr_.
+No Nordmal name ends in `b`, `f`, `h`, `j`, `p`, `s`, `th` or `z`. A name whose last element would otherwise close on `f` takes the strong ending `-ur` instead, which is why the wolf is _ulfur_ and the fire _eldur_.
 
 **The consonant band.** Nordmal carries about two and a third consonants for every vowel, and a name has to sit inside the band its class occupies. A compound runs heavier than a bound name, because the two elements bring their codas together at the seam. Below the floor a coinage stops sounding northern: a name with more vowels in it than consonants belongs to a southern tongue.
 
@@ -1338,7 +1353,7 @@ The five Nordmen kingdoms maintained relative political independence, preventing
 : "The host-wielder calls the assembly." (Plain statement, showing the enclitic article `-it` on a neuter noun.)
 
 "Ver gangum í fridi."
-: "We come in peace." (Formal diplomatic formula; _fridi_ comes from _fridr_, the peace a hall owes a guest.)
+: "We come in peace." (Formal diplomatic formula; _fridi_ comes from _fridur_, the peace a hall owes a guest.)
 
 "Thrunvald vakir, ulfar thyrsta!"
 : "The Thunder-Wielder wakes, the wolves thirst!" (Battle cry, bound by its alliteration on _th_ rather than by rhyme.)
@@ -1404,7 +1419,7 @@ Patronymic forms are common, particularly in genealogical contexts. The suffix -
 
 ### Name-stems and name-endings
 
-A Nordmal name is built from two bound pieces, and neither is a word of the language standing on its own. A **name-stem** (_nafnstofn_) carries the sense. A **name-ending** (_nafnending_) carries none at all, and says only what kind of name this is. Because the ending is empty, a Nordmal name states one thing and not two, and there is no second piece in it for a hearer to translate. This is the line between a name and a **kenning**: a skald who wants to call a man a cliff-warden says so in the words for cliff and for warden, and both words keep their own sense.
+A Nordmal name is built from two bound pieces, and neither is a word of the language standing on its own. A **name-stem** (_nafanstofan_) carries the sense. A **name-ending** (_nafnending_) carries none at all, and says only what kind of name this is. Because the ending is empty, a Nordmal name states one thing and not two, and there is no second piece in it for a hearer to translate. This is the line between a name and a **kenning**: a skald who wants to call a man a cliff-warden says so in the words for cliff and for warden, and both words keep their own sense.
 
 **The stems ablaut.** Every name-stem is spoken in one of three grades—the **hard** grade in _a_, the **middle** in _i_, and the **deep** in _u_—and in a name the grade is the generation mark: a child takes the grade after the name-giver's, hard to middle, middle to deep, deep to hard again. A hall's genealogy therefore rings through its vowels, which is why a skald recites eleven generations of a line without faltering, and why a wrong grade is heard at once.
 
@@ -1441,7 +1456,7 @@ FROM affixes WHERE language = 'thalorna-note-skill-nordmalng' AND kind IS NULL A
 
 An **element** is a piece that means something and does not stand alone as a word. Every compound name is elements and nothing else, so the lexicon is the whole of what a compound may be made of. The thirty-four name-stems are elements too, and the ones that carry the most weight: a place or a person named from a stem is named from the stock the halls themselves are named from.
 
-Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is [[lore-heimsask|Heimsask]] and [[affiliation-skaldscrcl|the Skalds' Circle]] is Skaldahringr; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfr`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
+Four things happen at a seam. A stem and an ending that meet on one consonant write it once, which is the bound seam's rule and only the bound seam's: a compound seam writes both, so _storm-_ and `-melendir` give Stormmelendir. An element may take a joining `-s` or `-a` before the seam, which is why the world-ash is [[lore-heimsask|Heimsask]] and [[affiliation-skaldscrcl|the Skalds' Circle]] is Skaldahringur; those endings join an element to the next piece, and § _Place names_ gives the joining forms a whole name takes. An element that would leave a name ending in `f` takes the strong `-r`, so the wolf closes a compound as `-úlfur`. And any element may stand alone as a name by taking that same `-r` in place of a second element, which is how Minnir is built.
 
 **A kept word is not an element.** The words in _The words the tongue keeps_
 are given whole, and no compound is built from one. An element that shares a
@@ -1479,7 +1494,7 @@ SELECT '`' || form || '`' AS "generic", sense AS "what it names", '`' || joining
 FROM elements WHERE language = 'thalorna-note-skill-nordmalng' AND kind = 'place' ORDER BY position
 ```
 
-**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangrhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
+**What stands first is what the place is held from.** Ground held from nothing but itself takes a name-stem, so one stock names a hall's people and the ground they hold. Ground held from a god takes the god's name, which is the oldest layer of the family's toponymy; ground held from the man who broke it takes his; ground held from the assembly takes the assembly's, as [[place-logstead|Logstead]] and [[place-hringstead|Hringstead]] carry theirs. A god's name enters clipped to its first element, because a compound name gives a compound place name its opening and no more, so Thrunvald's seat is [[place-thrunborg|Thrunborg]] and his mountain [[place-thrumufjall|Thrumufjall]]. Ground the god dwells on rather than merely holds takes the name whole instead, with a joining `-s` or `-a` at the seam, so [[lore-odvardty|Odvar]]'s hall is [[place-valsalhall|Ódvarsholl]] and Solrún's is [[place-solvangurhall|Sólrunsholl]]. A founder's given name enters whole, with the same joining ending at the seam. Ground named for what it bears takes the element for that thing, so [[place-askholm|Askholm]] is the islet of the ash-tree and [[place-isdal|Isdal]] the dale of ice, and a beach where the seals haul out is named from _dvon-_ before anyone thinks to name it for a man. The ting's island is held from the judgment given on it, which is why the assembly of the **King of All Clans** convenes at [[place-domsey|Domsey]].
 
 ```sql
 SELECT source AS "held from",
@@ -1496,7 +1511,7 @@ FROM held_from WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY positio
 
 **The clause reaches place names and nothing else.** In every other compound—an office, an order, a god's own name, an earned clan name—the first element is an element from the lexicon, and a god's or a founder's name does not stand there. A place is held from a god and the name records the holding; a station is held from a king, so an office built on a god's name would say something the rank ladder does not mean, and an earned name built on one would have a hall claiming descent from a god.
 
-**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangr` gives `vangar`. The table also gives `eyjar` for `-ey`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.
+**A place name's joining form changes only its generic.** The first element stays as written. The joining form ends in `-ar`, replacing a final vowel or the strong `-r`: `-brekka` gives `brekkar` and `-vangur` gives `vangar`. The table also gives `eyjar` for `-ey`, `hallar` for `-holl` and `stadar` for `-stead`. Every generic's joining form stands in the third column above, so Nalthmark gives Nalthmarkar and Dvalgheim gives Dvalgheimar by following the row.
 
 **A place name's joining form stands as a separate word.** It connects another word with the place across a space, so the Voice of Logstead is _Logstadar Mal_ in two words and the man who holds the seat is Knilthvir Logstadar. The joining forms here do different work: an element's `-s` or `-a` joins pieces inside one word, a god's whole name takes the same `-s` or `-a` at that seam, and a place name's `-ar` stands free beside another word.
 
@@ -1504,44 +1519,44 @@ FROM held_from WHERE language = 'thalorna-note-skill-nordmalng' ORDER BY positio
 
 An office is an element and one of the office suffixes, and the suffix says what kind of authority it is. An order takes the same shape, with a plural suffix where the order is its members rather than its head.
 
-| suffix              | what it makes                  |
-| ------------------- | ------------------------------ |
-| `-aett`             | a kin taken as a body          |
-| `-beri`             | the bearer of a thing          |
-| `-fadir`, `-módir`  | the head of a hov              |
-| `-gudi`             | a priest-chieftain             |
-| `-madr`             | a man of a station             |
-| `-mál`              | the voice a body speaks with   |
-| `-stjóri`           | the master of a thing          |
-| `-vald`             | one who wields an authority    |
-| `-vordr`, `-verdir` | the ward or keeper of a thing  |
-| `-skald`            | a sworn skald holding a charge |
+| suffix               | what it makes                  |
+| -------------------- | ------------------------------ |
+| `-aett`              | a kin taken as a body          |
+| `-beri`              | the bearer of a thing          |
+| `-fadir`, `-módir`   | the head of a hov              |
+| `-gudi`              | a priest-chieftain             |
+| `-madur`             | a man of a station             |
+| `-mál`               | the voice a body speaks with   |
+| `-stjóri`            | the master of a thing          |
+| `-vald`              | one who wields an authority    |
+| `-vordur`, `-verdir` | the ward or keeper of a thing  |
+| `-skald`             | a sworn skald holding a charge |
 
-**An office suffix answers for something—a hov, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-hofding` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sarmál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Gronmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadr**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
+**An office suffix answers for something—a hov, a kin, a station, an authority, a thing kept or wielded—rather than naming what a member has become.** A closing element that marks a stage climbed in a ladder of trust, a trial survived, or a deed done is not an office suffix, however senior the standing it carries: `-hofding` names a chieftain's seniority among peers and stays in the general lexicon, while `-stjóri` names the one office of a muster's or a household's master and stands in the table above. `-mál` makes the chair an order elects to speak for it, so the chair of [[affiliation-thursborn|the Giant's Children]] is the **Sarmál**, that of [[affiliation-gronverdir|the Green Wardens]] the **Gronmál** and that of [[affiliation-ordrstrmspkrs|the Storm-Speakers]] the **Hamarsmál**, and [[affiliation-malldbndlg|the Compact]] names its Speaker the **Bandalagstalsmadur**, a man of the league's speech. The ten suffixes are closing elements like any other, so a compound that takes one is judged the same way every compound is; what sets an office apart from a rank is never the element alone but what it is asked to answer for.
 
 **The rank is Skald.** The [[affiliation-skaldscrcl|Skalds' Circle]] writes its sworn rank, [[lore-skaldrnk|Skald]], with the acute, and so are the offices built on it: the **Hirvskáld** and the **Logskáld**, and in the plural the Hirvskaldar and the Logskaldar. Every other use carries no accent—the kept word _skald_, the `-skald` element, and a skald spoken of as the ordinary noun—so the mark tells a reader when the Circle's standing is meant.
 
 **The words the tongue keeps.** These are words and not names, given whole rather than formed, and a reader meets them as the north's own vocabulary.
 
-| kept word                         | what it is                                     |
-| --------------------------------- | ---------------------------------------------- |
-| jarl                              | the holder of a province under a king          |
-| gudi, gudja                       | a priest-chieftain, and a priestess-chieftain  |
-| hirv, hirvman                     | a king's household troop, and a man of it      |
-| ting, tingfridr                   | the lawful assembly, and the peace it holds    |
-| skald                             | a poet whose verse is a realm's memory         |
-| storald                           | a saga                                         |
-| thrall                            | a man owned outright                           |
-| bundi                             | a farmer holding his own land                  |
-| niding                            | a man outlawed at the ting                     |
-| dreng                             | a warrior of standing                          |
-| blet                              | a sacrifice                                    |
-| hov, horgr                        | a roofed temple, and an open stone altar       |
-| velva                             | a seeress                                      |
-| seid, ergi                        | the trance-craft, and the shame attached to it |
-| rúnagaldr, rúnstjori              | rune-craft, and a master of it                 |
-| odel                              | land held by inheritance and not by grant      |
-| Jel, Somarmál, Midsomar, Vetrnetr | the four turns of the year                     |
+| kept word                           | what it is                                     |
+| ----------------------------------- | ---------------------------------------------- |
+| jarl                                | the holder of a province under a king          |
+| gudi, gudja                         | a priest-chieftain, and a priestess-chieftain  |
+| hirv, hirvman                       | a king's household troop, and a man of it      |
+| ting, tingfridur                    | the lawful assembly, and the peace it holds    |
+| skald                               | a poet whose verse is a realm's memory         |
+| storald                             | a saga                                         |
+| thrall                              | a man owned outright                           |
+| bundi                               | a farmer holding his own land                  |
+| niding                              | a man outlawed at the ting                     |
+| dreng                               | a warrior of standing                          |
+| blet                                | a sacrifice                                    |
+| hov, horgur                         | a roofed temple, and an open stone altar       |
+| velva                               | a seeress                                      |
+| seid, ergi                          | the trance-craft, and the shame attached to it |
+| rúnagaldur, rúnstjori               | rune-craft, and a master of it                 |
+| odel                                | land held by inheritance and not by grant      |
+| Jel, Somarmál, Midsomar, Veturnetur | the four turns of the year                     |
 
 ### Bynames
 
@@ -1551,11 +1566,11 @@ A handful of titles and folk words reach the page the same way, and the list is 
 
 ### Earned clan names
 
-The Nordmen tradition of _aettarnafn_ stands beside the bestowal endings and is central to the culture: a man performs a great deed, takes a second name for it, and where the deed outlives him the name becomes his line's. An earned name is **granted rather than bestowed**, so it takes no ending and is built as a compound of elements—Jarnskel, Solvargr, Drekanótt, Steinblet, Stormrót. It closes the way a compound closes and not on a ting-ending, so position is what tells it from a given name: the second of two Nordmal names is the clan.
+The Nordmen tradition of _aettarnafan_ stands beside the bestowal endings and is central to the culture: a man performs a great deed, takes a second name for it, and where the deed outlives him the name becomes his line's. An earned name is **granted rather than bestowed**, so it takes no ending and is built as a compound of elements—Jarnskel, Solvargur, Drekanótt, Steinblet, Stormrót. It closes the way a compound closes and not on a ting-ending, so position is what tells it from a given name: the second of two Nordmal names is the clan.
 
 ### A seeress's name
 
-A velva who takes the high seat of a hall is known by a seeress's name rather than the one she was given at her naming. The name is granted, as an earned clan name is, so it takes no bestowal ending and is built as a compound of elements, closing the way a compound closes. [Aldrhildr]{.name data-type="being/npc"}, who taught at [[place-thrunborg|Thrunborg]] and whom the [[lore-vthgdhstry|Vithgard histories]] name at the burning of Askholm, carries `aldr-`, an age in its strong form, and `-hild`, a battle, closing in the strong `-r`: the woman who stands against the age.
+A velva who takes the high seat of a hall is known by a seeress's name rather than the one she was given at her naming. The name is granted, as an earned clan name is, so it takes no bestowal ending and is built as a compound of elements, closing the way a compound closes. [Aldurhildur]{.name data-type="being/npc"}, who taught at [[place-thrunborg|Thrunborg]] and whom the [[lore-vthgdhstry|Vithgard histories]] name at the burning of Askholm, carries `aldur-`, an age in its strong form, and `-hild`, a battle, closing in the strong `-r`: the woman who stands against the age.
 
 ### Theonyms
 
@@ -1567,11 +1582,11 @@ Five names are older than the stem system and are not formed by any rule in it: 
 
 ## Male Given Names
 
-Althmil, Braldvir, Brildmil, Bruldthann, Draskmil, Driskthann, Druskorv, Dvalgmil, Dvarnvir, Dvilgthann, Dvirnmil, Dvulgorv, Dvurnthann, Anthorv, Flarnthann, Flirnorv, Flurnvir, Glarvorv, Glirvir, Glurvmil, Gnaldrvir, Gnarthorv, Gnildrmil, Gnirthvir, Gnuldrthann, Gnurthmil, Hlarthvir, Hlaskorv, Hlirthmil, Hliskvir, Hlurthann, Hlusmil, Hnarvir, Hnirmil, Hnurvthann, Hrandorv, Hrindvir, Hrundmil, Hvalgmil, Hvarnthann, Hvilgthann, Hvirnorv, Hvulgorv, Hvurnvir, Ilthann, Inthvir, Knalthann, Knarvmil, Knilthorv, Knirvthann, Knulthvir, Knurvorv, Kralmil, Krildthann, Kruldorv, Marvorv, Mirvir, Murvmil, Nalthvir, Nilthmil, Nulthann, Ralthann, Rilthorv, Rulthvir, Skalforv, Skilfvir, Skraldvir, Skrilmil, Skruldthann, Skulfmil, Snalthmil, Snarvthann, Snilthann, Snirvorv, Snulthorv, Snurvir, Svalthvir, Svilthmil, Svulthann, Thalmthann, Thilmorv, Thraldorv, Thraskvir, Thrildvir, Thriskmil, Thruldmil, Thruskthann, Thulmvir, Tvalgthann, Tvarnorv, Tvilgorv, Tvirnvir, Tvulgvir, Tvurnmil, Ulthorv, Unthmil, Vraldmil, Vrathann, Vrildthann, Vrithorv, Vruldorv, Vruthvir
+Althmil, Braldvir, Brildmil, Bruldthann, Draskmil, Driskthann, Druskorv, Dvalgmil, Dvarnvir, Dvilgthann, Dvirnmil, Dvulgorv, Dvurnthann, Anthorv, Flarnthann, Flirnorv, Flurnvir, Glarvorv, Glirvir, Glurvmil, Gnaldurvir, Gnarthorv, Gnildurmil, Gnirthvir, Gnuldurthann, Gnurthmil, Hlarthvir, Hlaskorv, Hlirthmil, Hliskvir, Hlurthann, Hlusmil, Hnarvir, Hnirmil, Hnurvthann, Hrandorv, Hrindvir, Hrundmil, Hvalgmil, Hvarnthann, Hvilgthann, Hvirnorv, Hvulgorv, Hvurnvir, Ilthann, Inthvir, Knalthann, Knarvmil, Knilthorv, Knirvthann, Knulthvir, Knurvorv, Kralmil, Krildthann, Kruldorv, Marvorv, Mirvir, Murvmil, Nalthvir, Nilthmil, Nulthann, Ralthann, Rilthorv, Rulthvir, Skalforv, Skilfvir, Skraldvir, Skrilmil, Skruldthann, Skulfmil, Snalthmil, Snarvthann, Snilthann, Snirvorv, Snulthorv, Snurvir, Svalthvir, Svilthmil, Svulthann, Thalmthann, Thilmorv, Thraldorv, Thraskvir, Thrildvir, Thriskmil, Thruldmil, Thruskthann, Thulmvir, Tvalgthann, Tvarnorv, Tvilgorv, Tvirnvir, Tvulgvir, Tvurnmil, Ulthorv, Unthmil, Vraldmil, Vrathann, Vrildthann, Vrithorv, Vruldorv, Vruthvir
 
 ## Female Given Names
 
-Althselda, Braldrinna, Brildselda, Bruldthira, Draskselda, Driskthira, Druskinda, Dvalgselda, Dvarnrinna, Dvilgthira, Dvirnselda, Dvulginda, Dvurnthira, Anthinda, Flarnthira, Flirninda, Flurnrinna, Glarvinda, Glirvrinna, Glurvselda, Gnaldrinna, Gnarthinda, Gnildrselda, Gnirthrinna, Gnuldrthira, Gnurthselda, Hlarthrinna, Hlaskinda, Hlirthselda, Hliskrinna, Hlurthira, Hluskselda, Hnarvrinna, Hnirvselda, Hnurvthira, Hrandinda, Hrindrinna, Hrundselda, Hvalgselda, Hvarnthira, Hvilgthira, Hvirninda, Hvulginda, Hvurnrinna, Ilthira, Inthrinna, Knalthira, Knarvselda, Knilthinda, Knirvthira, Knulthrinna, Knurvinda, Kraldselda, Krildthira, Kruldinda, Marvinda, Mirvrinna, Murvselda, Nalthrinna, Nilthselda, Nulthira, Ralthira, Rilthinda, Rulthrinna, Skalfinda, Skilfrinna, Skraldrinna, Skrildselda, Skruldthira, Skulfselda, Snalthselda, Snarvthira, Snilthira, Snirvinda, Snulthinda, Snurvrinna, Svalthrinna, Svilthselda, Svulthira, Thalmthira, Thilminda, Thraldinda, Thraskrinna, Thrildrinna, Thriskselda, Thruldselda, Thruskthira, Thulmrinna, Tvalgthira, Tvarninda, Tvilginda, Tvirnrinna, Tvulgrinna, Tvurnselda, Ulthinda, Unthselda, Vraldselda, Vrathira, Vrildthira, Vrithinda, Vruldinda, Vruthrinna
+Althselda, Braldrinna, Brildselda, Bruldthira, Draskselda, Driskthira, Druskinda, Dvalgselda, Dvarnrinna, Dvilgthira, Dvirnselda, Dvulginda, Dvurnthira, Anthinda, Flarnthira, Flirninda, Flurnrinna, Glarvinda, Glirvrinna, Glurvselda, Gnaldrinna, Gnarthinda, Gnildurselda, Gnirthrinna, Gnuldurthira, Gnurthselda, Hlarthrinna, Hlaskinda, Hlirthselda, Hliskrinna, Hlurthira, Hluskselda, Hnarvrinna, Hnirvselda, Hnurvthira, Hrandinda, Hrindrinna, Hrundselda, Hvalgselda, Hvarnthira, Hvilgthira, Hvirninda, Hvulginda, Hvurnrinna, Ilthira, Inthrinna, Knalthira, Knarvselda, Knilthinda, Knirvthira, Knulthrinna, Knurvinda, Kraldselda, Krildthira, Kruldinda, Marvinda, Mirvrinna, Murvselda, Nalthrinna, Nilthselda, Nulthira, Ralthira, Rilthinda, Rulthrinna, Skalfinda, Skilfrinna, Skraldrinna, Skrildselda, Skruldthira, Skulfselda, Snalthselda, Snarvthira, Snilthira, Snirvinda, Snulthinda, Snurvrinna, Svalthrinna, Svilthselda, Svulthira, Thalmthira, Thilminda, Thraldinda, Thraskrinna, Thrildrinna, Thriskselda, Thruldselda, Thruskthira, Thulmrinna, Tvalgthira, Tvarninda, Tvilginda, Tvirnrinna, Tvulgrinna, Tvurnselda, Ulthinda, Unthselda, Vraldselda, Vrathira, Vrildthira, Vrithinda, Vruldinda, Vruthrinna
 
 ## Clan Names
 
@@ -1581,21 +1596,21 @@ Althendik, Braldaruk, Brildendik, Bruldumak, Draskendik, Driskumak, Druskidrok, 
 
 A standing compound names the claim its body grants. An empty level in a ladder grants no claim of its own. The oath compounds serve the fighting orders where their candidate, senior-peer and expelled standings exist; the Green Wardens admit candidates directly to the sworn standing.
 
-| Compound      | Elements                             | Sense                            |
-| ------------- | ------------------------------------ | -------------------------------- |
-| Eidefnir      | `eid-` + `-efnir`                    | One in the making for the oath   |
-| Eidhofding    | `eid-` + `-hofding`                  | Senior among the sworn peers     |
-| Eidvargr      | `eid-` + `-vargr`                    | Outlaw whose sworn vows are void |
-| Skaldefnir    | `skald-` + `-efnir`                  | A skald in the making            |
-| Skaldavargr   | `skalda-` + `-vargr`                 | The skalds' outlaw               |
-| Bandlagsmadr  | `bandlag-` + joining `-s` + `-madr`  | Man on the league's roll         |
-| Bandlagsvargr | `bandlag-` + joining `-s` + `-vargr` | The league's outlaw              |
-| Hofudvald     | `hofud-` + `-vald`                   | The head who wields authority    |
-| Hrimmadr      | `hrím-` + `-madr`                    | Man of the rime's station        |
-| Hrimvin       | `hrím-` + `-vin`                     | Friend of the rime               |
-| Bletlok       | `blet-` + `-lok`                     | The sacrifice closed to him      |
-| Navargr       | `ná-` + `-vargr`                     | The corpse-goddess's outlaw      |
-| Bjartgengir   | `bjart-` + `-gengir`                 | Those who go to the light        |
-| Bjartlok      | `bjart-` + `-lok`                    | The light closed to him          |
+| Compound       | Elements                              | Sense                            |
+| -------------- | ------------------------------------- | -------------------------------- |
+| Eidefnir       | `eid-` + `-efnir`                     | One in the making for the oath   |
+| Eidhofding     | `eid-` + `-hofding`                   | Senior among the sworn peers     |
+| Eidvargur      | `eid-` + `-vargur`                    | Outlaw whose sworn vows are void |
+| Skaldefnir     | `skald-` + `-efnir`                   | A skald in the making            |
+| Skaldavargur   | `skalda-` + `-vargur`                 | The skalds' outlaw               |
+| Bandlagsmadur  | `bandlag-` + joining `-s` + `-madur`  | Man on the league's roll         |
+| Bandlagsvargur | `bandlag-` + joining `-s` + `-vargur` | The league's outlaw              |
+| Hofudvald      | `hofud-` + `-vald`                    | The head who wields authority    |
+| Hrimmadur      | `hrím-` + `-madur`                    | Man of the rime's station        |
+| Hrimvin        | `hrím-` + `-vin`                      | Friend of the rime               |
+| Bletlok        | `blet-` + `-lok`                      | The sacrifice closed to him      |
+| Navargur       | `ná-` + `-vargur`                     | The corpse-goddess's outlaw      |
+| Bjartgengir    | `bjart-` + `-gengir`                  | Those who go to the light        |
+| Bjartlok       | `bjart-` + `-lok`                     | The light closed to him          |
 
-`-vargr` names membership revoked from someone received; `-lok` names admission withheld. `-hofding` names seniority among peers who choose a chair; `-stjóri` names a master's office. **Lidstjori**, `lid-` + `-stjóri`, means master of a company and is deliberately unused as a Compact rung: its Signed Captain is a standing before the league, while the league's administrative chair is its Speaker. The Giant's Children's senior standing is not Eidhofding: their Fathers of the Halls choose the chair by virtue of office.
+`-vargur` names membership revoked from someone received; `-lok` names admission withheld. `-hofding` names seniority among peers who choose a chair; `-stjóri` names a master's office. **Lidstjori**, `lid-` + `-stjóri`, means master of a company and is deliberately unused as a Compact rung: its Signed Captain is a standing before the league, while the league's administrative chair is its Speaker. The Giant's Children's senior standing is not Eidhofding: their Fathers of the Halls choose the chair by virtue of office.

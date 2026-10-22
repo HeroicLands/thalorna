@@ -1,0 +1,18 @@
+---
+shortcode: velgrimur
+name: {full: "Ritual: Velgrímur", aliases: [The Serpent's Path]}
+type: skill
+subType: mystical
+tags: [asguardian, faith-skill, draft]
+data: {icon: velgrimur, templatePriority: null, packFolder: asguardian}
+sohl:
+  system:
+    skillBaseFormula: "@wil, @rea"
+    masteryLevelBase: 0
+    improveFlag: false
+    combatCategory: none
+    parentSkillCode: ""
+    initSkillMult: 0
+---
+
+See [[affiliation-velgrimur|Faith of Velgrímur]]

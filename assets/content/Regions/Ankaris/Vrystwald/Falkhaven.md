@@ -11,7 +11,7 @@ data:
   population: null
   borders: [{to: nrdlndsrgn, bearing: N}]
   routes:
-    - {to: edrwald, bearing: E, mode: land, days: 45, terrain: [forest]}
+    - {to: edriwald, bearing: E, mode: land, days: 45, terrain: [forest]}
     - {to: vrystwald, bearing: E, mode: land, days: 30, terrain: [forest]}
     - {to: vrystwldrvrs, bearing: E, mode: boat, days: 20, terrain: [river]}
   packFolder: vrystwald
@@ -31,5 +31,5 @@ Falkhaven is [[place-vrystwald|Vristwald]]'s western arm, the long reach of fore
 [[place-nrdlndsrgn|Nordlands]]
 : northern neighbor and principal trading partner
 
-[[place-edrwald|Edrwald]]
+[[place-edriwald|Edriwald]]
 : the next reach along the bay

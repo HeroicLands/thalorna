@@ -389,7 +389,7 @@ Tvilgorv's reforged body is extraordinarily powerful, combining human martial sk
 
 ### Patrons
 
-[[being-gnldrthyrfrskn|Gnuldrthira the Forsaken]]—A fellow being whose saga attributes her transformation to Mótefnir and who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
+[[being-gnldrthyrfrskn|Gnuldurthira the Forsaken]]—A fellow being whose saga attributes her transformation to Mótefnir and who understands Tvilgorv's struggle better than anyone. She offers companionship and the kind of acceptance he cannot find elsewhere.
 
 **Elder [[being-hrundmyl|Hrundmil]]**—The leader of the village Tvilgorv saved, who has declared Tvilgorv a friend of his people despite the warrior's monstrous appearance. He provides shelter and supplies when needed.
 

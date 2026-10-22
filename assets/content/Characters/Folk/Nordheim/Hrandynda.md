@@ -3,7 +3,7 @@ shortcode: hrandynda
 name: {full: Hrandinda, aliases: [Thane Hrandinda]}
 type: being
 subType: npc
-description: A warlord of the northern territories who views the Serpent's Hearth as a den of spies, named in Hvalgvir Vetrdómr.
+description: A warlord of the northern territories who views the Serpent's Hearth as a den of spies, named in Hvalgvir Veturdómur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hrandinda is a 19-year-old woman who stands 5'10" tall with a medium build. She 
 
 # Dossier {#dossier}
 
-Hrandinda is a warlord of the northern territories who views the [Serpent's Hearth]{.name data-type="place/structure"} as a den of spies. She has made veiled threats about bringing [[being-hvlgvrvtrdmr|Hvalgvir]] and the establishment to heel. Hrandinda is named in Hvalgvir Vetrdómr.
+Hrandinda is a warlord of the northern territories who views the [Serpent's Hearth]{.name data-type="place/structure"} as a den of spies. She has made veiled threats about bringing [[being-hvlgvrvtrdmr|Hvalgvir]] and the establishment to heel. Hrandinda is named in Hvalgvir Veturdómur.

@@ -56,13 +56,13 @@ data:
       kind: departure
       depth: region
       stated: {calendar: wintertally, text: "51 TW"}
-      sources: [lore-pelwarmigr, place-edrwald, affiliation-alndnwrdns, place-aelwyth]
+      sources: [lore-pelwarmigr, place-edriwald, affiliation-alndnwrdns, place-aelwyth]
       summary: >-
-        The Pelwar who will not stay to be married leave west along the bay shore that is now Edrwald, toward the coast and the crossing to Aelwyth. They gather at a stone landing the Varokh never learned to use and leave behind rock shrines, springs and burial places the host has no names for.
+        The Pelwar who will not stay to be married leave west along the bay shore that is now Edriwald, toward the coast and the crossing to Aelwyth. They gather at a stone landing the Varokh never learned to use and leave behind rock shrines, springs and burial places the host has no names for.
       standing: reconstructed
       names: [{name: the Driving-Out along the Bay, by: lore-varokhiclt}]
       where:
-        locus: [place-edrwald]
+        locus: [place-edriwald]
         reach:
           - place: place-aelwyth
             how: the leavers who survive the crossing come ashore about 1200 BF, driven off the mainland by the Varkhad
@@ -91,9 +91,9 @@ About 1250 BF that host reached the eastern edge of the forest that is now [[pla
 
 ## The Driving-Out along the Bay
 
-The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edrwald|Edrwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of [Skaldwald]{.name data-type="place/settlement"} still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varkhad. Most of them did not arrive at all.
+The Pelwar who would neither fight nor marry went west. They followed the bay shore that the Varokh now call [[place-edriwald|Edriwald]] toward the coast, and the reciters keep the road they took as the lost shore path, which the singers of [Skaldwald]{.name data-type="place/settlement"} still claim to know. They gathered at a stone landing on the bay, [[place-theodhaven|Theódhaven]], the folk's haven, and crossed in whatever would float. The ones who reached [[place-aelwyth|Aelwyth]] about 1200 BF arrived, as the island's own accounts put it, driven off the mainland by the Varkhad. Most of them did not arrive at all.
 
-They left holy ground behind them that the host did not understand: rock-cut shrines at the landing, springs, and burial places with no Varokh name. The [[affiliation-alndnwrdns|Áelendan Wardens]] keep Varokh parties off several of those places on the Edrwald shore to this day, and they have never said for whom.
+They left holy ground behind them that the host did not understand: rock-cut shrines at the landing, springs, and burial places with no Varokh name. The [[affiliation-alndnwrdns|Áelendan Wardens]] keep Varokh parties off several of those places on the Edriwald shore to this day, and they have never said for whom.
 
 ## Two Tellings at Once
 
@@ -102,10 +102,10 @@ The Varokh call Vristwald their primeval homeland, and the claim rests on both h
 ## What It Left
 
 - **[[place-vethhrom|Vethhrum]], the hallowed mound.** The oldest kindred mound in the Deepwood, claimed by both tellings. A flood once opened its side and showed grave goods of two kinds lying together, and the Shaman who saw it had the side closed again before anyone could say which kind lay deeper.
-- **[[place-theodhaven|Theódhaven]], the leavers' landing.** A stone landing and rock-cut shrines on the Edrwald bay that no Varokh village uses. Varokh boat crews cut across it, and the Wardens turn them back.
+- **[[place-theodhaven|Theódhaven]], the leavers' landing.** A stone landing and rock-cut shrines on the Edriwald bay that no Varokh village uses. Varokh boat crews cut across it, and the Wardens turn them back.
 - **The forest itself.** No Varokh grove, mound or village name is older than this age, and every one of them sits on ground somebody else named first.
 
-A Varokh child who finds a carved stone on the bay shore and brings it home brings a question with it that no Shaman in Edrwald wants to answer: whose dead the stone was cut for, and whether they are owed anything by the people who took the wood.
+A Varokh child who finds a carved stone on the bay shore and brings it home brings a question with it that no Shaman in Edriwald wants to answer: whose dead the stone was cut for, and whether they are owed anything by the people who took the wood.
 
 ## See Also
 
@@ -118,5 +118,5 @@ A Varokh child who finds a carved stone on the bay shore and brings it home brin
 [[lore-pelwarmigr|The Pelwar Migration]]
 : the displacement this was one stage of
 
-[[place-edrwald|Edrwald]]
+[[place-edriwald|Edriwald]]
 : the bay shore the leavers took

@@ -3,7 +3,7 @@ shortcode: krildthannth
 name: {full: Krildthann the Cutthroat, aliases: []}
 type: being
 subType: npc
-description: A rival tentmaker who undercuts Dvarnvir Hrafnsvald at half his prices with inferior materials.
+description: A rival tentmaker who undercuts Dvarnvir Hrafansvald at half his prices with inferior materials.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Krildthann the Cutthroat is a 56-year-old man who stands 5'8" tall with a heavy 
 
 # Dossier {#dossier}
 
-Krildthann the Cutthroat is a rival tentmaker who undercuts [[being-dvrnvrhrfnsvld|Dvarnvir Hrafnsvald]] at half his prices with inferior materials. His tents look impressive but fail under real stress.
+Krildthann the Cutthroat is a rival tentmaker who undercuts [[being-dvrnvrhrfnsvld|Dvarnvir Hrafansvald]] at half his prices with inferior materials. His tents look impressive but fail under real stress.

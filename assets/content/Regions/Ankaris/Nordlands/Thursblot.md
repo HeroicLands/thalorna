@@ -30,11 +30,11 @@ The adherents of the [[affiliation-hrimthur|Faith of Hrimthur]] call it the firs
 
 ## What the Cutting Asks of You
 
-A newcomer to the north meets the Thursblet in small things before anyone explains it. A hov of Hrimthur counts its gray chips, struck from its own floor, aloud against the roll of its dead at [The Naming of the Stone]{.name data-type="lore/custom"}, and returns them to the floor they came from. A pilgrim pours meltwater taken at a glacier's foot over his hands before a rite at a horgr on high ground. At every blet of the Ten, the meal is shared three ways because the first one was. Each of these treats the ground as a body, which is what every hall in the north holds that it is.
+A newcomer to the north meets the Thursblet in small things before anyone explains it. A hov of Hrimthur counts its gray chips, struck from its own floor, aloud against the roll of its dead at [The Naming of the Stone]{.name data-type="lore/custom"}, and returns them to the floor they came from. A pilgrim pours meltwater taken at a glacier's foot over his hands before a rite at a horgur on high ground. At every blet of the Ten, the meal is shared three ways because the first one was. Each of these treats the ground as a body, which is what every hall in the north holds that it is.
 
 ## See Also
 
-[[lore-aldarhringr|Aldarhringr]]
+[[lore-aldarhringur|Aldarhringur]]
 : the ring of ages the cutting begins
 
 [[lore-hrimthurspr|Hrimthur]]

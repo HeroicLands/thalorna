@@ -513,7 +513,7 @@ Master Jorun Graywick (Former Master)
 [Kalf Stonebrow]{.name data-type="being/npc"}
 : A rival potter of lesser skill who has begun spreading rumors that Flarnthira's success derives from her family name rather than talent. His jealousy has led him to undercut her prices and poach apprentices.
 
-Her Father, [Vikingr Steinblet]{.name data-type="being/npc"}
+Her Father, [Vikingur Steinblet]{.name data-type="being/npc"}
 : Though he lives in distant lands, the memory of his disapproval and the knowledge that she has succeeded despite his wishes creates an ongoing internal conflict; she occasionally hears rumors of his grudging pride.
 
 [The Graystone Collective]{.name data-type="affiliation/guild"}

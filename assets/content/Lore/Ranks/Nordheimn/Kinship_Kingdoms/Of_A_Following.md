@@ -1,6 +1,6 @@
 ---
-shortcode: lidmadrrnk
-name: {full: "Lidmadr", aliases: [Of a Following]}
+shortcode: lidmadurrnk
+name: {full: "Lidmadur", aliases: [Of a Following]}
 type: lore
 subType: law
 description: "Free and of no clan, answering through a following rather than through kinship, in the five kingdoms and the Jarldom of Stormveld."
@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-A free person with no clan has nobody to answer for them, so the law finds someone else. A lidmadr is vouched for by a following in place of kin, whether that is a former master, a company under a captain or the terms on which a settler was welcomed.
+A free person with no clan has nobody to answer for them, so the law finds someone else. A lidmadur is vouched for by a following in place of kin, whether that is a former master, a company under a captain or the terms on which a settler was welcomed.
 
 ## What This Standing Is
 
-A lidmadr is free but holds no clan to answer for him, and reaches the ting through a following instead of through kinship: a manumitted thrall still bound in obligation to his former master, a dreng without a hall to seat him, or a freeman of another people settled under Nordmal law. Each stands apart from the polity's clans and each is vouched for by someone other than a kinsman.
+A lidmadur is free but holds no clan to answer for him, and reaches the ting through a following instead of through kinship: a manumitted thrall still bound in obligation to his former master, a dreng without a hall to seat him, or a freeman of another people settled under Nordmal law. Each stands apart from the polity's clans and each is vouched for by someone other than a kinsman.
 
 ## How the Law Treats a Person Here
 
@@ -28,7 +28,7 @@ He owes the following that vouches for him whatever service or bond first placed
 
 ## Offices Open at This Standing
 
-None. A lidmadr's obligations run to the man or company he follows, not to an office of the polity.
+None. A lidmadur's obligations run to the man or company he follows, not to an office of the polity.
 
 ## Where This Standing Is Held
 

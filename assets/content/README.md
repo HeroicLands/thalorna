@@ -119,7 +119,7 @@ working name—from that narrower identity instead). The steps:
    the same letter to one as you go. Keep whichever vowels keep the result
    sayable; two authors compressing the same name by hand do not always drop
    exactly the same ones, and that is expected rather than a mistake to
-   correct. `Vrildmýl Hrafnsvald` compresses to `vrldmylhrfnsvld`; `Fýléze
+   correct. `Vrildmýl Hrafansvald` compresses to `vrldmylhrfnsvld`; `Fýléze
 Steníkot` compresses to `fylzstnkt`.
 6. **A note whose shortcode names what general kind of thing it is**—a
    deity's own lore article, a totem, a rank or office, a people's culture
@@ -144,8 +144,8 @@ drops articles, prepositions and (past the threshold) inner vowels, a
 filename keeps every word of the display title: fold diacritics, drop
 apostrophes, turn each run of spaces or hyphens into a single underscore, and
 keep the title's own capitalization. `Order of Týr's Justice` files as
-`Order_of_Tyrs_Justice.md`; `Bjalfi Hrafnsvald` files as
-`Bjalfi_Hrafnsvald.md`. Where a note sits in the directory tree is otherwise
+`Order_of_Tyrs_Justice.md`; `Bjalfi Hrafansvald` files as
+`Bjalfi_Hrafansvald.md`. Where a note sits in the directory tree is otherwise
 unconstrained—see "Notes are routed by frontmatter, not by location" above.
 
 **Mark anything unfinished with a `draft` tag.**

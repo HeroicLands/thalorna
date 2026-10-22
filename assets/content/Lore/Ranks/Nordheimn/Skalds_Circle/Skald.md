@@ -12,7 +12,7 @@ When an inheritance, a contested oath or a tribute owed three winters ago is in 
 
 ## What This Standing Is
 
-A skald is sworn into [[affiliation-skaldscrcl|the Circle]] by his own master once his first saga, the _geldra_, is accepted at the [[lore-skaldating|Skaldating]], and wears the silver arm-ring, the _skaldhringr_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
+A skald is sworn into [[affiliation-skaldscrcl|the Circle]] by his own master once his first saga, the _geldra_, is accepted at the [[lore-skaldating|Skaldating]], and wears the silver arm-ring, the _skaldhringur_, forged at his swearing and bearing the marks of his master and his master's master. He is the trained, sworn keeper of his hall's record, his kingdom's history, and the impartial witness the Asguardian courts summon when a dispute turns on what was said or owed.
 
 ## How the Law Treats a Person Here
 

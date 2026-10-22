@@ -16,7 +16,7 @@ data:
   packFolder: adventures
 ---
 
-A dust storm strips the party from its caravan in the [Long Dry]{.name data-type="place/feature"}, and their guide brings them by the stars to the one water he knows: [[place-qelodwatri|Kelodvootri]], an owned spring of twelve palms whose well lies under a stone wrapped in chains. Its owners are two exhausted riders who forbid anyone to go near the well, and their water-warden went down the shaft three days ago and has not come up. Something lives in the cistern under the palms, and every sign the party meets says it is hunting. It is not. It is the true owner of the water, and it is collecting the debt that every tribe of the sand range collects from a trespasser: one person held until the debt is paid, a beast for each skin of water drawn, and the stranger's rope laid by the stone as proof.
+A dust storm strips the party from its caravan in the [Long Dry]{.name data-type="place/feature"}, and their guide brings them by the stars to the one water he knows: [[place-qelodwatri|Kelodvotri]], an owned spring of twelve palms whose well lies under a stone wrapped in chains. Its owners are two exhausted riders who forbid anyone to go near the well, and their water-warden went down the shaft three days ago and has not come up. Something lives in the cistern under the palms, and every sign the party meets says it is hunting. It is not. It is the true owner of the water, and it is collecting the debt that every tribe of the sand range collects from a trespasser: one person held until the debt is paid, a beast for each skin of water drawn, and the stranger's rope laid by the stone as proof.
 
 ## Overview
 
@@ -39,7 +39,7 @@ The adventure follows the customs of [[lore-ownedoasis|the owned oasis]] through
 
 ## What Is Really Happening
 
-The full truth of the spring—what the Bodekud is, the custom it keeps, what it has done this season and what each of the tribe's tellings is worth—is in [[place-qelodwatri#truth|the truth of Kelodvootri]]. In short: the warden drew six skins without asking the owner below, went down on his own rope and fought when he was held, and the custom answered with blood. Four skins are still owed when the party arrives. Every beast the Bodekud takes pays one of them, and it holds one of the debtors alive until the rest are paid. This section covers what that truth does at the table.
+The full truth of the spring—what the Bodekud is, the custom it keeps, what it has done this season and what each of the tribe's tellings is worth—is in [[place-qelodwatri#truth|the truth of Kelodvotri]]. In short: the warden drew six skins without asking the owner below, went down on his own rope and fought when he was held, and the custom answered with blood. Four skins are still owed when the party arrives. Every beast the Bodekud takes pays one of them, and it holds one of the debtors alive until the rest are paid. This section covers what that truth does at the table.
 
 > [!IMPORTANT]
 > The party must reach Scene Three believing that something below is hunting it, and must be able to see by the end of that scene that it is collecting. Everything the Bodekud does is exact and countable: one beast for one skin, only beasts that drank drawn water, and the held kept alive. Keep every act consistent with that, and the pattern does the revealing.
@@ -299,7 +299,7 @@ At dawn on the fourth day, if not before, a dozen riders of the Kuuyoyur come do
 
 ## See Also
 
-[[place-qelodwatri|Kelodvootri]]
+[[place-qelodwatri|Kelodvotri]]
 : the spring and the cistern
 
 [[lore-ownedoasis|The Owned Oasis]]

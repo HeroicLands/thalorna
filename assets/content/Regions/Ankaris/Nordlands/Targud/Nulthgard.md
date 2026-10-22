@@ -3,7 +3,7 @@ shortcode: nulthgard
 name: {full: Nulthgard, aliases: [The Burned Hall]}
 type: place
 subType: site
-description: "The first royal hall of Targud, a burned shell on a rise above the ford at Dvulgvangr with the howes of four kings beside it, on the wrong side of the line since 613 AF; a king of Targud rides out to it once in his reign to pour the grave-ale at his forebears' howes."
+description: "The first royal hall of Targud, a burned shell on a rise above the ford at Dvulgvangur with the howes of four kings beside it, on the wrong side of the line since 613 AF; a king of Targud rides out to it once in his reign to pour the grave-ale at his forebears' howes."
 tags: [site, ruin, hall]
 data: {demonym: null, lore: [nordheimnclt], parents: [targud], population: 0, packFolder: targud}
 ---
@@ -14,7 +14,7 @@ From the ford the rise looks like any other low hill on the burned ground until 
 
 ## The Four Howes
 
-Below the hall on the river side stand four howes, each with its stone and its names, and every king of Targud from the acclamation to the father of [Skruldmil II]{.name data-type="being/npc"} lies in one of them, because the [Driskaruk]{.name data-type="affiliation/lineage"} opened a howe again for each king who died and laid him with his forebears. When the hall burned the howes were left where they stood, and the line the kingdom holds now runs a day's walk to the west of them, so the kings of the Driskaruk lie on the wrong side of their own frontier. Once in his reign a king of Targud rides out from [[place-tvalgard|Tvalgard]] with his hirv to pour the grave-ale at the four howes, and comes back past the ford at [[place-dvulgvangr|Dvulgvangr]] before dusk if he has timed it well. The ride is the only royal rite in the north performed on ground the crown does not hold.
+Below the hall on the river side stand four howes, each with its stone and its names, and every king of Targud from the acclamation to the father of [Skruldmil II]{.name data-type="being/npc"} lies in one of them, because the [Driskaruk]{.name data-type="affiliation/lineage"} opened a howe again for each king who died and laid him with his forebears. When the hall burned the howes were left where they stood, and the line the kingdom holds now runs a day's walk to the west of them, so the kings of the Driskaruk lie on the wrong side of their own frontier. Once in his reign a king of Targud rides out from [[place-tvalgard|Tvalgard]] with his hirv to pour the grave-ale at the four howes, and comes back past the ford at [[place-dvulgvangur|Dvulgvangur]] before dusk if he has timed it well. The ride is the only royal rite in the north performed on ground the crown does not hold.
 
 ## What Is There Now
 
@@ -31,7 +31,7 @@ The [[lore-grukarfolk|Grukar]] do not camp on the rise. The watch's patrols say 
 [[lore-burningeast|The Burning of the East]]
 : how the hall fell
 
-[[place-dvulgvangr|Dvulgvangr]]
+[[place-dvulgvangur|Dvulgvangur]]
 : the ford below the rise, and its field
 
 [[place-tvalgard|Tvalgard]]

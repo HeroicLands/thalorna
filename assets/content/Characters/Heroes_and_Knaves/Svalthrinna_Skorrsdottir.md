@@ -1,6 +1,6 @@
 ---
 shortcode: svlthrnskrsdtr
-name: {full: Svalthrinna Skorrsdottir, given: Svalthrinna, clan: Iseldr, aliases: []}
+name: {full: Svalthrinna Skorrsdottir, given: Svalthrinna, clan: Iseldur, aliases: []}
 type: being
 subType: character
 tags: [tamzir-crew, soldiery]

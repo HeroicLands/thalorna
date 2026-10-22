@@ -283,11 +283,11 @@ data:
       - "Eichengrund"
       - "Vandgrund"
       - "Fródhaven"
-      - "Eichr"
+      - "Eichar"
       - "Dunkelwald"
       - "Erthhaven"
       - "Frithhaven"
-      - "Edrgrund"
+      - "Edrigrund"
       - "Druthholt"
   fields:
     - name: "Kept words"
@@ -398,25 +398,25 @@ data:
     - {form: "tusk", class: "n", field: "Kept words", gloss: "a tusk"}
     - {form: "barsk", class: "n", field: "Kept words", gloss: "a boar"}
     - {form: "dask", class: "n", field: "Animal words", gloss: "badger"}
-    - {form: "brokn", class: "n", field: "Animal words", gloss: "bear"}
+    - {form: "brokan", class: "n", field: "Animal words", gloss: "bear"}
     - {form: "lodkat", class: "n", field: "Animal words", gloss: "bobcat"}
     - {form: "sturn", class: "n", field: "Animal words", gloss: "bull"}
     - {form: "muskfis", class: "n", field: "Animal words", gloss: "catfish"}
     - {form: "hesk", class: "n", field: "Animal words", gloss: "chicken"}
     - {form: "ku", class: "n", field: "Animal words", gloss: "cow"}
-    - {form: "kravl", class: "n", field: "Animal words", gloss: "crow"}
+    - {form: "kravel", class: "n", field: "Animal words", gloss: "crow"}
     - {form: "hirsk", class: "n", field: "Animal words", gloss: "deer"}
     - {form: "esel", class: "n", field: "Animal words", gloss: "donkey"}
     - {form: "dulv", class: "n", field: "Animal words", gloss: "dove"}
     - {form: "andrek", class: "n", field: "Animal words", gloss: "duck"}
     - {form: "arnek", class: "n", field: "Animal words", gloss: "eagle"}
-    - {form: "fulkr", class: "n", field: "Animal words", gloss: "falcon"}
+    - {form: "fulkar", class: "n", field: "Animal words", gloss: "falcon"}
     - {form: "fukth", class: "n", field: "Animal words", gloss: "fox"}
     - {form: "gedth", class: "n", field: "Animal words", gloss: "goat"}
     - {form: "gunsk", class: "n", field: "Animal words", gloss: "goose"}
     - {form: "hamst", class: "n", field: "Animal words", gloss: "hamster"}
     - {form: "havrik", class: "n", field: "Animal words", gloss: "hawk"}
-    - {form: "igl", class: "n", field: "Animal words", gloss: "hedgehog"}
+    - {form: "igel", class: "n", field: "Animal words", gloss: "hedgehog"}
     - {form: "hrosk", class: "n", field: "Animal words", gloss: "horse"}
     - {form: "linsk", class: "n", field: "Animal words", gloss: "lynx"}
     - {form: "uthra", class: "n", field: "Animal words", gloss: "otter"}
@@ -427,7 +427,7 @@ data:
     - {form: "sefis", class: "n", field: "Animal words", gloss: "seabass"}
     - {form: "hrask", class: "n", field: "Animal words", gloss: "shark"}
     - {form: "skafel", class: "n", field: "Animal words", gloss: "sheep"}
-    - {form: "slengr", class: "n", field: "Animal words", gloss: "snake"}
+    - {form: "slengar", class: "n", field: "Animal words", gloss: "snake"}
     - {form: "hirt", class: "n", field: "Animal words", gloss: "stag"}
     - {form: "stur", class: "n", field: "Animal words", gloss: "sturgeon"}
     - {form: "forl", class: "n", field: "Animal words", gloss: "trout"}
@@ -508,7 +508,7 @@ data:
       class: "n"
       field: "The reciters' stock"
       gloss: "a war-band, the company a village sends out"
-    - form: "brukn"
+    - form: "brukin"
       class: "n"
       field: "The reciters' stock"
       gloss: "a raid for cattle, goods and captives"
@@ -924,7 +924,7 @@ Varokhi builds every class of name by one operation. A name is two **elements**,
 Five rules settle the whole of it.
 
 1. **A name is an opening element and a closing element**, and nothing formed any other way is a Varokhi name. _Vith-_ (valor) and `-rúnd` (a shield) give [Vithrúnd]{.name data-type="affiliation/lineage"}, the clan whose shield is its valor.
-2. **A linking piece may stand at the seam**, and the three are `-a-`, `-i-` and `-en-`. Each lets a closing beginning with a consonant sit against an opening that already ends in one: _wíth-_ and `-rik` give Wítharik, _edr-_ and `-gar` give Edrigar, and _eich-_ and `-grund` give Eichengrund. A linking vowel takes the acute where the name is said long.
+2. **A linking piece stands at the seam where the opening ends on a consonant and _r_ and the closing begins with a consonant, and may stand elsewhere**, and the three are `-a-`, `-i-` and `-en-`. Each lets a closing beginning with a consonant sit against an opening that already ends in one: _wíth-_ and `-rik` give Wítharik, _edr-_ and `-gar` give Edrigar, and _eich-_ and `-grund` give Eichengrund. A linking vowel takes the acute where the name is said long.
 3. **A seam writes both pieces whole.** _Skath-_ and `-helm` give Skathhelm with the `h` written twice, and no letter is dropped to tidy the join.
 4. **A woman's name closes on `-a`, or on `-wen`, `-rún` or `-ris`.** The `-a` is added to a name otherwise complete, which is why Domrik and Dómrika, Hrodar and Hródara stand in the two lists as one name twice; the other three closings carry a woman's name without it, as Falkwen, Radrún and Theodris do. A man's name closes on a consonant and on none of those three.
 5. **A clan name is built exactly as a given name is, and position tells them apart.** The name after _yra_ in a name in full is the clan, which is why Vethar stands in a given-name list and in the clan list both. A clan name is unmarked for gender, since a clan holds men and women alike.

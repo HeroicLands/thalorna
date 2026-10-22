@@ -30,7 +30,7 @@ data:
     - name: "Druthmund"
       definition: "A full member of a kindred by a true name earned at eth-kethrun, entitled to its protection, feud and share."
       common: true
-    - name: "Edrmund"
+    - name: "Edrimund"
       definition: "A free person sheltered by a household not of their blood, with no independent voice at the moot."
       common: true
     - name: "Frodrád"
@@ -155,7 +155,7 @@ A man's first loyalty is to his war-band, then his village. A woman's work cente
 
 The division of work sustains those obligations. Men train for war as their occupation, rather than farming between seasonal raids. Women hold the household economy and carry the fur trade from traplines to river markets. Slaves tend stock, haul wood and water and work the fields. Most villages hold some; prosperous river landings hold many. Craftwork also supports village life, and individual skill gives people useful work beyond the general division.
 
-An [[lore-edrmundrnk|Edrmund]] is free but sheltered by a household outside their blood. The household vouches for them; they owe the service or deference agreed when it took them in. They have no independent moot voice. An [[lore-othmundrnk|Othmund]] owes labor and obedience to the household mistress and answers through her rather than in their own name. Neither standing carries a free clan member's full reciprocal rights.
+An [[lore-edrimundrnk|Edrimund]] is free but sheltered by a household outside their blood. The household vouches for them; they owe the service or deference agreed when it took them in. They have no independent moot voice. An [[lore-othmundrnk|Othmund]] owes labor and obedience to the household mistress and answers through her rather than in their own name. Neither standing carries a free clan member's full reciprocal rights.
 
 ## When a Household Falls Short
 
@@ -179,7 +179,7 @@ The obligation reaches beyond a gift made once. A household that receives someon
 
 The extended household and its kindred organize Varokh life. A clan is a kindred, and a village is the ground several kindreds share: Eichengrund holds the [Vithrúnd]{.name data-type="affiliation/lineage"}, the Mahnlin and others, and its households share the boar wesk, while particular people may also carry a personal totem. A kindred that splits with its village keeps its clan name in both, so one clan can hold ground in more than one village. A person is named in full by both, the clan after _yra_ and the village after _wur_, as Varokhi sets out. A household can contain blood kin, married-in adults, sheltered free dependents and enslaved people without giving all of them the same standing.
 
-A married-in adult may own and trade goods in their own name. An Othmund may be freed and sometimes married in; the children of that marriage are simply Varokh. Bondage is not hereditary in the way Ankarian bondage often is. A freed person sheltered before marriage-in may hold Edrmund standing. Taking someone under a roof is protection, but it does not by itself make them blood kin.
+A married-in adult may own and trade goods in their own name. An Othmund may be freed and sometimes married in; the children of that marriage are simply Varokh. Bondage is not hereditary in the way Ankarian bondage often is. A freed person sheltered before marriage-in may hold Edrimund standing. Taking someone under a roof is protection, but it does not by itself make them blood kin.
 
 A captive still worth ransoming is kept rather than absorbed into an owning household. Varokh captives are ransomed by their own tribe as a matter of course and treated well while payment is sought. Nordlanders are commonly ransomed too. A captive from a raided southern coast seldom has kin within reach to pay, and is likely to become permanent household labor. The Skathár reckons ransom alongside blood settlement. Returning captives helps rival villages sustain their feuds without destroying one another, while captives without reachable kin pay for that arrangement with their freedom.
 

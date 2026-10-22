@@ -1,6 +1,6 @@
 ---
 shortcode: blotmadrrnk
-name: {full: "Bletmadr", aliases: []}
+name: {full: "Bletmadur", aliases: []}
 type: lore
 subType: law
 description: "One who attends the blet, the laity of the faiths of the Ten that keep it."
@@ -8,11 +8,11 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Most of the faithful never become more than this. A bletmadr comes to the hov when the blet is held, brings the offering it asks and shares the meal, and that is the whole of what the standing requires.
+Most of the faithful never become more than this. A bletmadur comes to the hov when the blet is held, brings the offering it asks and shares the meal, and that is the whole of what the standing requires.
 
 ## What This Standing Is
 
-A bletmadr attends the blet, the sacrifice and shared meal a hov's gudi offers. Admission is the offering itself: whoever is not refused it and comes to a hov's rite holds this standing.
+A bletmadur attends the blet, the sacrifice and shared meal a hov's gudi offers. Admission is the offering itself: whoever is not refused it and comes to a hov's rite holds this standing.
 
 ## How the Law Treats a Person Here
 

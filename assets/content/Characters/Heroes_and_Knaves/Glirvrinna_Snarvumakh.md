@@ -12,7 +12,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [braldheim]
-  affiliations: {kingdomlgn: {rank: 3}, svartbrandr: {rank: 1}}
+  affiliations: {kingdomlgn: {rank: 3}, svartbrandur: {rank: 1}}
   gender: female
   species: humanflk
   born: "688.120"

@@ -89,5 +89,5 @@ Four ordeals are held to win Bjart's particular favor, and each tests a differen
 [[affiliation-aldarmal|Aldarmál]]
 : the Elder's Voice, the rare standing that speaks between the elder races and mortals
 
-[[affiliation-bjartbrandr|Bjartbrandr]]
+[[affiliation-bjartbrandur|Bjartbrandur]]
 : the Lightning Swords, elder-trained fighters of Bjart's will

@@ -17,13 +17,13 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Drottvargr
-        lore: drottvargrrnk
+        title: Drottvargur
+        lore: drottvargurrnk
         description: >-
           Cast out of Námelendir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Drottmadr
-        lore: drottmadrrnk
+        title: Drottmadur
+        lore: drottmadurrnk
         description: >-
           Carries Nahild's doctrine to a single convert at a time, working alone or in pairs where a public blet cannot reach.
       - level: 3

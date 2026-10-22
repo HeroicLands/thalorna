@@ -12,7 +12,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [knalthstead]
-  affiliations: {kngdmnrdhm: {rank: 3}, velgrimr: {rank: 1}}
+  affiliations: {kngdmnrdhm: {rank: 3}, velgrimur: {rank: 1}}
   gender: female
   species: humanflk
   born: 697.95

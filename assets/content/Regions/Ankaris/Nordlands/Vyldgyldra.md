@@ -15,7 +15,7 @@ data:
     - place-domsey
     - lore-nrdlndswhal
     - lore-nordheimnclt
-    - place-gnaldrfjord
+    - place-gnaldurfjord
 ---
 
 Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuldgeldra** is the praise-poem the Hirvskáld [Hliskvir]{.name data-type="being/npc"} made for **Jarl [Krildorv Kraldaruk]{.name data-type="being/npc"}**, who holds one of the five [[affiliation-kingdmnrgd|Norgaad provinces]] whose jarls sit at [[place-domsey|Domsey]], for a winter in which the jarl's fjords went hungry and nothing happened that a _geldra_ ordinarily sings. It was first given at the close of [[lore-sumarmal|Somarmál]], after the kings came home from Domsey and its skalds had begun reciting, and [[affiliation-skaldscrcl|the Skalds' Circle]] has carried it as standing repertoire since the [[lore-skaldating|Skaldating]] after: it is the piece an apprentice's own _geldra_ is measured against, and the Circle teaches it as the model of the truth of the recital. The text below is the repertoire text as one Stóraldstjori teaches it to apprentices at the Skaldating, with his gloss of the kennings between the parts; the gloss is his, and other masters read one or two of the _hulmur_ otherwise.
@@ -64,9 +64,9 @@ Krildorv's own key turned first.
 Loud, the lock of a jarl.
 ```
 
-He names the kind of poem in the first line by its price, and what he will not sing in the third and fourth. The cloak's raven is a Hirvskáld, from the brooch he wears. The reddened sail is a raid, and a small [[place-vigvoll|Vigvoll]] is a battle, because every battle is the last one, smaller. The wolf's long turn at the chain is winter: in the telling, [[lore-vetrulfr|Vetrúlfr]] is chained until the end, and winter is in his name. "Notch by notch" is the tally-stick, and the _hnerv_ is built on the same stem.
+He names the kind of poem in the first line by its price, and what he will not sing in the third and fourth. The cloak's raven is a Hirvskáld, from the brooch he wears. The reddened sail is a raid, and a small [[place-vigvoll|Vigvoll]] is a battle, because every battle is the last one, smaller. The wolf's long turn at the chain is winter: in the telling, [[lore-vetrulfur|Vetrúlfur]] is chained until the end, and winter is in his name. "Notch by notch" is the tally-stick, and the _hnerv_ is built on the same stem.
 
-The thin flesh is the fields. In the telling, [[lore-hrimthurspr|Hrimthur]] had little flesh on him, and what there was went thin over the bone when the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] cut him, so a furrow's bone is the rock under a field and "the thin flesh gave little" is a bad harvest. The blade-bone is the shoulder read at the [[lore-vetrnaetr|Vetrnetr]] blet. The steward's stick is the buvordr's tally of the pits, and it said worse than the bones, which is Hliskvir telling you the bones were kind. The giver is [[lore-solrundty|Solrún]], whose gold is given away. She takes her portion whole in a hungry year, and he wants you to know nobody cut it.
+The thin flesh is the fields. In the telling, [[lore-hrimthurspr|Hrimthur]] had little flesh on him, and what there was went thin over the bone when the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] cut him, so a furrow's bone is the rock under a field and "the thin flesh gave little" is a bad harvest. The blade-bone is the shoulder read at the [[lore-veturnetur|Veturnetur]] blet. The steward's stick is the buvordur's tally of the pits, and it said worse than the bones, which is Hliskvir telling you the bones were kind. The giver is [[lore-solrundty|Solrún]], whose gold is given away. She takes her portion whole in a hungry year, and he wants you to know nobody cut it.
 
 Stanza three you will work out yourselves. I am not asked about it, and I do not answer.
 
@@ -95,7 +95,7 @@ mark cut, moss on the mark.
 
 From the giant's spilled cold
 the ebb left a hill, fat,
-at [[place-gnaldrfjord|Gnaldrfjord]], dark months,
+at [[place-gnaldurfjord|Gnaldurfjord]], dark months,
 where the floes grind their teeth;
 the finder ran, knife sheathed,
 to the strand's holder first;
@@ -125,7 +125,7 @@ The fire's kept coal is the hearth. The hand that stayed is the scale. In the te
 
 The sixth stanza has no kenning in it. He put none there. A rationing is a plain thing and he gives it to you plain, and then he cuts the first notch. The notch comes before you know what it counts. That is what a notch is: you cut it when the year falls, and you count it later. "His bench on Domsey bare" is a _tingsveld_, a stone bench with the holder's mark cut in its back, and his stood empty at the assembly that year. Apprentices ask me every year what the moss stands for. It stands for moss. The island is wet.
 
-The giant's spilled cold is the sea, from his blood, and where the blood meets the flesh is the tide-line, the sea on the soil, which is the strand the law names. The fat hill is the whale, and he never says whale, because the word is small and the thing was not. The law-mouth is the Lawspeaker, and the sixth is the sixth rule as Norgaad's Lawspeaker counts [[lore-nrdlndswhal|the law of the stranded whale]]: in a hungry winter the jarl shares it, and the strand is repaid from the next good season. The jarl's own words stand unbroken in the seventh and eighth lines. Flat light is the oil, which is the stem's own sense and barely a _hulma_. Nobody carved the jaw: no gatepost stands at [[place-gnaldrfjord|Gnaldrfjord]] for this one.
+The giant's spilled cold is the sea, from his blood, and where the blood meets the flesh is the tide-line, the sea on the soil, which is the strand the law names. The fat hill is the whale, and he never says whale, because the word is small and the thing was not. The law-mouth is the Lawspeaker, and the sixth is the sixth rule as Norgaad's Lawspeaker counts [[lore-nrdlndswhal|the law of the stranded whale]]: in a hungry winter the jarl shares it, and the strand is repaid from the next good season. The jarl's own words stand unbroken in the seventh and eighth lines. Flat light is the oil, which is the stem's own sense and barely a _hulma_. Nobody carved the jaw: no gatepost stands at [[place-gnaldurfjord|Gnaldurfjord]] for this one.
 
 : The notched part, second {#notches-second}
 
@@ -176,7 +176,7 @@ the grain went to the pan.
 The pan had not been moved.
 ```
 
-The cold's hard hem is the ice-edge, where the sealers go in the hungry weeks. "Twice the floes groaned" is two deaths. Gnaldrfjord is named for the sound its ice makes, and every coast in the north hears that sound as somebody dying. Sing it inland and it is a line about ice. He has the two by name, and says so, and keeps them out. A _geldra_ is bought and a _hnura_ is not, and the nine are named in the household's _hnura_, which the Circle does not teach.
+The cold's hard hem is the ice-edge, where the sealers go in the hungry weeks. "Twice the floes groaned" is two deaths. Gnaldurfjord is named for the sound its ice makes, and every coast in the north hears that sound as somebody dying. Sing it inland and it is a line about ice. He has the two by name, and says so, and keeps them out. A _geldra_ is bought and a _hnura_ is not, and the nine are named in the household's _hnura_, which the Circle does not teach.
 
 [[lore-thrunvalddty|Thrunvald]]'s floor is the sea again, and he has two words for it. When it gives, it is the giant's cold. When it is sailed, or it takes, it is the Thunderer's. The shingle crying is a keel, from the sound a keel makes going off and coming on, and the keel's own word is built on it. The south's yellow is grain from [[place-midhalnrgn|Mídhalión]]. The ring off his arm went for the buying.
 
@@ -226,7 +226,7 @@ The hall roofed in bone is the whale's ribs where the gale had the roof. "Fewer"
 
 The sixteenth stanza is the debt entered. A debt said at a feast and carried by a skald is in the hall's [[lore-kinhalcrdt|standing credit]] from that night, so a debt said is a howe, and nobody digs in it: digging in a howe is theft from the dead and the line together. He has said it at two Jels so far.
 
-The cliff is [[lore-threewinters|the Three Winters]]. The tellers have gray heads going over it, and some skalds give the five kings' oath as history. Hliskvir will not; he cuts no notch he did not see. The one-eyed's birds are [[lore-odvardty|Odvar]]'s ravens, which wheel over the cliffs at Gnaldrfjord, and the brooch on a Hirvskáld's cloak.
+The cliff is [[lore-threewinters|the Three Winters]]. The tellers have gray heads going over it, and some skalds give the five kings' oath as history. Hliskvir will not; he cuts no notch he did not see. The one-eyed's birds are [[lore-odvardty|Odvar]]'s ravens, which wheel over the cliffs at Gnaldurfjord, and the brooch on a Hirvskáld's cloak.
 
 : The close {#close}
 

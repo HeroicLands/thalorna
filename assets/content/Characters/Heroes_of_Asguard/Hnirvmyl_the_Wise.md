@@ -395,14 +395,14 @@ Hnirmil's runic mastery is unmatched in the northern lands; he can read omens in
 
 ### Enemies
 
-[Gnildrmil Iron-Eye]{.name data-type="being/npc"}—A rival seer who claims Hnirmil is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildrmil has placed bounties on Hnirmil's head among mercenary bands.
+[Gnildurmil Iron-Eye]{.name data-type="being/npc"}—A rival seer who claims Hnirmil is a fraud and that his prophecies are fabrications designed to manipulate jarls. Gnildurmil has placed bounties on Hnirmil's head among mercenary bands.
 
 [The Sekran]{.name data-type="affiliation"}—The [[affiliation-ordoarcanis|Thordimalon]] (the Arcane Order) enforcement arm has taken an interest in Hnirmil's runic practices, viewing his unsanctioned magic as a potential threat to their monopoly on arcane knowledge.
 
 ## Plot Hooks
 
 The Shattered Rune
-: Hnirmil has discovered fragments of an ancient rune that, when assembled, could reveal the location of Odvar's lost eye. Rival factions—including Gnildrmil Iron-Eye and agents of the Thordimalon—are also hunting the fragments. The party must help Hnirmil recover the pieces before they fall into the wrong hands.
+: Hnirmil has discovered fragments of an ancient rune that, when assembled, could reveal the location of Odvar's lost eye. Rival factions—including Gnildurmil Iron-Eye and agents of the Thordimalon—are also hunting the fragments. The party must help Hnirmil recover the pieces before they fall into the wrong hands.
 
 The Silent Ravens
 : [[lore-hugvin|Hugvin]] and [[lore-munvin|Munvin]] have gone silent. Hnirmil can no longer hear their whispers and fears something terrible has happened in the spirit realm. He needs companions to journey to the [World Tree]{.name data-type="place/feature"}'s roots and investigate what has disrupted the ravens' flight.

@@ -19,7 +19,7 @@ data:
       A sponsor presents a candidate for a year of labor at a chapter hall before the rite of the Born of the Wound admits him outright; the assembled Fathers of the Halls also cast a brother from the order, and choose the Voice from the Wound in conclave.
     ranks:
       - level: 0
-        title: Eidvargr
+        title: Eidvargur
         lore: putfromordrrnk
         description: >-
           An outlaw of the oath, his sworn vows void. Cast out by the assembled Fathers of the Halls, closing every one of the nine chapter halls' hospitality for good.
@@ -80,7 +80,7 @@ The order is exclusively male in present practice. The historical record include
 
 Initiation comes in stages that follow the order's account of the cosmogony. The order holds four ranks:
 
-Put from the Order (_Eidvargr_)
+Put from the Order (_Eidvargur_)
 : cast out by the assembled Fathers of the Halls, which closes every one of the nine chapter halls' hospitality for good.
 
 The Frost-Touched (_Eidefnir_)

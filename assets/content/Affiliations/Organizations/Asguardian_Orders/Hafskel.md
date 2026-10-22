@@ -17,13 +17,13 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Drottvargr
-        lore: drottvargrrnk
+        title: Drottvargur
+        lore: drottvargurrnk
         description: >-
           Cast out of Hafskel, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Drottmadr
-        lore: drottmadrrnk
+        title: Drottmadur
+        lore: drottmadurrnk
         description: >-
           Trains aboard ship in naval combat and a vessel's defense, ranking under the order's own before the crew's.
       - level: 3

@@ -10,7 +10,7 @@ data:
   packFolder: settinglore
   form: drunga
   subjects:
-    - place-edrwald
+    - place-edriwald
     - affiliation-vrystwldtrbs
     - lore-druthmundrnk
     - lore-othmundrnk
@@ -20,7 +20,7 @@ data:
 # terran_analog: "The Nibelungenlied's foreboding stanza and its logic of loyalty over settlement; the Hildebrandslied's set speeches; the Icelandic sagas' bookkeeping of killings and compensation. Departs: the hero's loyalty is the danger the lay shows rather than its ideal, and the climax is a payment counted aloud, not a hall burning."
 ---
 
-At [Othholt]{.name data-type="place/settlement"}, a village of [[place-edrwald|Edrwald]] whose households argue over an inherited grove, a kindred minded to refuse a settlement the Skathár has reckoned hears **The Lay of the Feud-Cord**, _Skathdreth drunga_, before the three seats hear the refusal. The Other Chief calls for it. The reciter stands with a staff and strikes the floor on the long lines, and between the runs of stanzas the Skathár of the day reads out, flat and without the staff, the reckoning of [The Othholt Feud]{.name data-type="lore/history"} as her predecessors kept it: what was owed, what was offered, who refused, and how many knots. A Skathár of Othholt learns that reckoning before she is trusted with a living cord, and it is the frame the stanzas hang in.
+At [Othholt]{.name data-type="place/settlement"}, a village of [[place-edriwald|Edriwald]] whose households argue over an inherited grove, a kindred minded to refuse a settlement the Skathár has reckoned hears **The Lay of the Feud-Cord**, _Skathdreth drunga_, before the three seats hear the refusal. The Other Chief calls for it. The reciter stands with a staff and strikes the floor on the long lines, and between the runs of stanzas the Skathár of the day reads out, flat and without the staff, the reckoning of [The Othholt Feud]{.name data-type="lore/history"} as her predecessors kept it: what was owed, what was offered, who refused, and how many knots. A Skathár of Othholt learns that reckoning before she is trusted with a living cord, and it is the frame the stanzas hang in.
 
 The lay itself is held word for word, as a _drunga_ is, and it is a lay of speeches: the killings are in the reckoning, and the verse carries what was said in the hall by the two kindreds, the [Grimskorn]{.name data-type="affiliation/lineage"} and the [Harvith]{.name data-type="affiliation/lineage"}, and by the seats. [Domholt]{.name data-type="place/settlement"}, where the Harvith women went with their children, keeps a lay of the same feud that gives the killer a speech; Othholt's gives him none. No stanza states the [[lore-varokhiclt|Varokhi]] view of a price refused; the occasion says it. The lay stops where the reckoning stops, at the cord.
 
@@ -544,5 +544,5 @@ and it did not want to come, and the old fingers worked it, and the girl held th
 [[lore-druthmundrnk|Druthmund]]
 : the standing whose full price the lay reckons
 
-[[place-edrwald|Edrwald]]
+[[place-edriwald|Edriwald]]
 : the bay shore where Othholt, Domholt and Hildreth stand

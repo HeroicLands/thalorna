@@ -12,7 +12,7 @@ Hrug, or thrall, is a condition of ownership, not a sentence the ting hands down
 
 ## What This Standing Is
 
-A thrall is owned outright, bought or taken rather than born free. The [[lore-nordheimnclt|Nordheimn]] people buy people at [[place-kruldheim|Kruldheim]] and along the [[place-nalthmark|Nalthmark]] road, and what a thrall owes an owner is labor itself rather than a share of what the labor produces. In [[affiliation-jrldmstrmvld|Stormveld]] the standing is the condition of some 120,000 native people of the [[lore-aelwythanclt|Aelwythan]] culture, whose plain the Nordmen took. A thrall who is freed becomes a [[lore-lidmadrrnk|lidmadr]], still bound to the former owner.
+A thrall is owned outright, bought or taken rather than born free. The [[lore-nordheimnclt|Nordheimn]] people buy people at [[place-kruldheim|Kruldheim]] and along the [[place-nalthmark|Nalthmark]] road, and what a thrall owes an owner is labor itself rather than a share of what the labor produces. In [[affiliation-jrldmstrmvld|Stormveld]] the standing is the condition of some 120,000 native people of the [[lore-aelwythanclt|Aelwythan]] culture, whose plain the Nordmen took. A thrall who is freed becomes a [[lore-lidmadurrnk|lidmadur]], still bound to the former owner.
 
 ## How the Law Treats a Person Here
 

@@ -27,7 +27,7 @@ data:
         description: >-
           A friend of the rime, drawn to the giant without joining a faction. Holds Hrimthur's work in awe without joining any of the scattered factions that keep his worship, drawn by no rite because there is none to enter.
       - level: 3
-        title: Hrimmadr
+        title: Hrimmadur
         lore: adherentrnk
         description: >-
           A man of the rime's station, attached to a faction that keeps the giant's worship. Attached to one of the scattered factions tied to a hov and the wound it keeps, holding whatever standing that faction claims for what he has made or understood.

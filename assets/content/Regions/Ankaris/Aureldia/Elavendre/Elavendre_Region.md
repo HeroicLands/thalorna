@@ -9,7 +9,7 @@ data:
   lore: [humanflk]
   parents: [aureldirgn]
   population: 2000000
-  borders: [{to: vrystwald, bearing: NE}, {to: edrwald, bearing: N}]
+  borders: [{to: vrystwald, bearing: NE}, {to: edriwald, bearing: N}]
   packFolder: elavendre
   government: kngdmlvndr
   culture: elavendriclt

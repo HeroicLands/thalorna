@@ -233,7 +233,7 @@ She said the cliff would hold seven.
 Over the listeners the words were not said.
   They were kept.
 
-_Kabr_
+_Kabur_
 
 In the tower of Lummáv the keepers of the record
   were laid among the records.
@@ -269,7 +269,7 @@ The genealogies were there, every line to the seven,
 Over the keepers of the record the words were not said.
   They were kept.
 
-_Khozm_
+_Khozum_
 
 Then the city was made clean,
   as a house is made clean for its dead.

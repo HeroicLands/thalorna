@@ -23,13 +23,13 @@ data:
         description: >-
           The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the offering by the gudi of the hov he swore his first work at, cutting a man from Mótefnir's clergy and from the standing his craft held through it.
       - level: 1
-        title: Bletmadr
+        title: Bletmadur
         lore: blotmadrrnk
         description: >-
           Attends the blet at a hov of the Maker, setting a tool on the stone before the rite and sharing the meal that follows it.
       - level: 2
-        title: Hofsmadr
-        lore: hofsmadrrnk
+        title: Hofsmadur
+        lore: hofsmadurrnk
         description: >-
           Given to a hov of the Maker, keeping its workshops as well as its floors for years short of standing in its priesthood.
       - level: 3
@@ -67,7 +67,7 @@ The faith teaches three things about him and holds that everything else is specu
 
 In this teaching, he is therefore the only god of the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten) whose work a traveler can meet on a road. The [[lore-dreadspawncrtr|Dreadspawn]] are his, and the faith names them his without hedging—a troll on a ford, a drake in a high valley, a thing assembled out of parts that do not belong together. None of them reproduces. Many of them were set down mid-project. His clergy teach the abandonment as doctrine: he is finished with a thing the moment it has taught him what it had to teach, which is neither cruelty nor mercy but the whole of his temper.
 
-He is not a destroyer and his clergy will not have him confused with one. [[lore-svartbrandrdty|Svartbrandr]] unmakes on purpose; Mótefnir unmakes nothing at all. He stops, and what he stopped working on keeps going.
+He is not a destroyer and his clergy will not have him confused with one. [[lore-svartbrandurdty|Svartbrandur]] unmakes on purpose; Mótefnir unmakes nothing at all. He stops, and what he stopped working on keeps going.
 
 Depictions give him hands and little else that is fixed—a pair of hands over a mould, or a bench seen from above with the work still on it. His hovs are workshops as much as halls, and a hov that has no bench in it is held to be a hov in name only.
 
@@ -87,10 +87,10 @@ The Clay Mould
 Refused the Blet
 : declined the offering by his own hov's gudi, cut from the clergy and from the standing his craft held through it.
 
-Bletmadr
+Bletmadur
 : attends the blet, setting a tool on the stone before the rite.
 
-Hofsmadr
+Hofsmadur
 : given to a hov, keeping its workshops as well as its floors before standing in its priesthood.
 
 Gudi / Gudja

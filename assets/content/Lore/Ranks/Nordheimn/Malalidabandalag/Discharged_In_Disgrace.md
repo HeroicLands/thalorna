@@ -12,7 +12,7 @@ A captain is Discharged in Disgrace when the [Council of the Hall]{.name data-ty
 
 ## What This Standing Is
 
-A captain is expelled by vote of the Council for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandlagshringr, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
+A captain is expelled by vote of the Council for breaking one of the Compact's standing rules—walking off a contract without annulment, taking a contract against a signed company without declaring it at the Hall, or failing the Hall's due. The bandlagshringur, the bronze thumb-ring awarded at his swearing, is surrendered at expulsion.
 
 ## How the Law Treats a Person Here
 

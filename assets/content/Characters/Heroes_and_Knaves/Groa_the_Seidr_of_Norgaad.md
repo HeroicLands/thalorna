@@ -15,7 +15,7 @@ data:
   occupation: Shaman
   lore: []
   culture: nordheimnclt
-  homes: [gnaldrfjord]
+  homes: [gnaldurfjord]
   affiliations: {kingdmnrgd: {rank: 4}, frodvin: {rank: 1}}
   gender: female
   species: humanflk
@@ -429,7 +429,7 @@ Groa stands at 5’8" with a slender, wiry frame, weighing around 140 pounds. He
 
 ### Origin and Early Life
 
-Groa was born into the [Nalthendik clan]{.name data-type="affiliation/lineage"}, a small, isolated lesser free clan of [[place-norgaad|Norgaad]], a land of rugged fjords, deep forests, and frozen seas, home to fierce warriors and hardy seafarers. Growing up in the [[place-gnaldrfjord|Gnaldrfjord]] region, her family was primarily involved in fishing and hunting, eking out a living from the sea and the sparse lowlands that fringed the fjords. From a young age, Groa exhibited signs of being different—she had strange dreams, could sense emotions in others, and felt a deep connection to the spirits of the natural world. Her village feared her, but they also recognized her gifts, for such powers were rare and valuable in [[place-nordheim|Nordheim]].
+Groa was born into the [Nalthendik clan]{.name data-type="affiliation/lineage"}, a small, isolated lesser free clan of [[place-norgaad|Norgaad]], a land of rugged fjords, deep forests, and frozen seas, home to fierce warriors and hardy seafarers. Growing up in the [[place-gnaldurfjord|Gnaldurfjord]] region, her family was primarily involved in fishing and hunting, eking out a living from the sea and the sparse lowlands that fringed the fjords. From a young age, Groa exhibited signs of being different—she had strange dreams, could sense emotions in others, and felt a deep connection to the spirits of the natural world. Her village feared her, but they also recognized her gifts, for such powers were rare and valuable in [[place-nordheim|Nordheim]].
 
 ### The Awakening
 

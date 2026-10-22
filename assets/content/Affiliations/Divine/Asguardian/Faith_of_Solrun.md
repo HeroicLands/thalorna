@@ -23,13 +23,13 @@ data:
         description: >-
           The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the offering at a feast-hall by its own gudi, cutting a man from Solrún's clergy and from the generosity that measures standing there.
       - level: 1
-        title: Bletmadr
+        title: Bletmadur
         lore: blotmadrrnk
         description: >-
           Attends the blet at a feast-hall, sharing the meal and the gold given away there—the whole of what most of Solrún's faithful hold.
       - level: 2
-        title: Hofsmadr
-        lore: hofsmadrrnk
+        title: Hofsmadur
+        lore: hofsmadurrnk
         description: >-
           Given to a feast-hall's hov young, laboring at its stores and its rites for years short of any claim to the priesthood.
       - level: 3
@@ -59,9 +59,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A trader who holds a Bletmadr's seat at a feast-hall describes her faith's arithmetic: "I came to the hov with a ledger and the first thing the Hofgudja did was ask me what I had given away that season. Not what I had earned. I understood by midwinter that the earning is my business and the giving is hers, and that she is the better accountant."
+A trader who holds a Bletmadur's seat at a feast-hall describes her faith's arithmetic: "I came to the hov with a ledger and the first thing the Hofgudja did was ask me what I had given away that season. Not what I had earned. I understood by midwinter that the earning is my business and the giving is hers, and that she is the better accountant."
 
-The Faith of Solrún honors [[lore-solrundty|Solrún]] as the goddess of love, beauty and prosperity, an alluring, many-sided figure within the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten). In its teaching, she inspires passion and enchantment and draws the hearts of those who seek her favor, and as goddess of prosperity she is patroness of merchants, usurers and everyone who pursues wealth. She and [[lore-odvardty|Odvar]] hold the craft of seid in their keeping, which is why most of the itinerant velvur count themselves her servants or his, and half of the honored dead pass to her field at [[place-solvangr|Solvangr]] and to her hall, [[place-solvangrhall|Sólrunsholl]].
+The Faith of Solrún honors [[lore-solrundty|Solrún]] as the goddess of love, beauty and prosperity, an alluring, many-sided figure within the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten). In its teaching, she inspires passion and enchantment and draws the hearts of those who seek her favor, and as goddess of prosperity she is patroness of merchants, usurers and everyone who pursues wealth. She and [[lore-odvardty|Odvar]] hold the craft of seid in their keeping, which is why most of the itinerant velvur count themselves her servants or his, and half of the honored dead pass to her field at [[place-solvangur|Solvangur]] and to her hall, [[place-solvangurhall|Sólrunsholl]].
 
 ## The Hov and the Priestesses
 
@@ -76,10 +76,10 @@ The faith's highest rank, Hofgudi or Hofgudja, is held by women alone. Every run
 Refused the Blet
 : denied the offering at a feast-hall, and cut from the clergy and from the generosity that measures standing there.
 
-Bletmadr
+Bletmadur
 : attends the blet at a feast-hall and shares its meal and the gold given away there.
 
-Hofsmadr
+Hofsmadur
 : given to a feast-hall's hov young, laboring at its stores and its rites before any claim to the priesthood.
 
 Gudi / Gudja

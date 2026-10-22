@@ -422,7 +422,7 @@ Hvarnthann stands 6'2" tall with a medium build. He has tanned weathered skin, b
 
 # Dossier {#dossier}
 
-Hvarnthann was born in [[place-hrandstead|Hrandstead]], a minor coastal settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], to parents of modest means. His mother, [Ragnhildr]{.name data-type="being/npc"}, ran a small inn catering to sailors, while his father, [Jostein Stormrót]{.name data-type="being/npc"}, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Hvarnthann took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
+Hvarnthann was born in [[place-hrandstead|Hrandstead]], a minor coastal settlement of the [[affiliation-kngdmvthgrd|Kingdom of Vithgard]], to parents of modest means. His mother, [Ragnhildur]{.name data-type="being/npc"}, ran a small inn catering to sailors, while his father, [Jostein Stormrót]{.name data-type="being/npc"}, was himself a ship's navigator until a boarding accident left him partially crippled. Rather than burden his aging parents further, Hvarnthann took to the sea at fourteen, climbing the ranks from cabin boy through sheer competence and an intuitive understanding of ships and seafaring.
 
 For sixteen years, Hvarnthann has served aboard merchant vessels, fishing fleets, and occasionally military patrol ships contracted to Vithgard's coastal defense. He has sailed the [Crystalline Straits]{.name data-type="place/feature"}, the [Shattered Archipelago]{.name data-type="place/feature"}, and the dangerous shoals of the [Merchant's Passage]{.name data-type="place/feature"}, surviving tempests that sank larger, better-equipped vessels. His reputation is earned through uncountable small acts of seamanship—the ability to read weather before it manifests, to navigate by stars when maps fail, to remain calm when the deck pitches forty degrees and the masts groan with the strain of violent wind.
 
@@ -478,8 +478,8 @@ Emotional Distance
 
 ### Patrons
 
-Captain [[being-gnuldrthanni|Gnuldrthann Ilthumak]]
-: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Gnuldrthann has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
+Captain [[being-gnuldurthanni|Gnuldurthann Ilthumak]]
+: A grizzled merchant captain whose aging vessel has become famous across the northern routes. He brings Hvarnthann aboard whenever his schedule allows, calling him "the best navigator in Vithgard's service." Gnuldurthann has twice promoted Hvarnthann to first mate, though Hvarnthann has refused permanent rank.
 
 Merchant Princess [[being-thruldselda|Thruldselda]]
 : A wealthy trading magnate who contracts sailors for her extensive merchant fleet. She has offered Hvarnthann command of her flagship multiple times, recognizing his value and offering wages that would set him for life. His refusals perplex and intrigue her.

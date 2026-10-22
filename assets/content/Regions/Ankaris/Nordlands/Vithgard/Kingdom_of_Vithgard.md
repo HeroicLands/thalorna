@@ -24,8 +24,8 @@ data:
         description: >-
           Owned outright rather than born free, owing his master labor itself rather than rent, and barred from bearing arms or being heard at the ting.
       - level: 2
-        title: Lidmadr
-        lore: lidmadrrnk
+        title: Lidmadur
+        lore: lidmadurrnk
         description: >-
           Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less dreng, or a settled outsider—so his word carries no weight on the assembly's floor.
       - level: 3
@@ -60,15 +60,15 @@ data:
       Hersvald: Answers for a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
       Hirvstjori: The king's marshal, commander of his household men and master of the muster.
-      Buvordr: >-
-        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnetr.
-      Hringvordr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Buvordur: >-
+        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Veturnetur.
+      Hringvordur: Keeper of the rings the king gives, his tribute and the silver of his hall.
       Merkberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: >-
         Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations; the standing behind the post belongs to the Skalds' Circle.
       Hirvman: >-
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
-      Landvordr: The king's reeve in a district, collecting his dues and holding his courts.
+      Landvordur: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: thrunborg
@@ -115,9 +115,9 @@ The coast has trades that grow from the hunt. [[place-marvstead|Marvstead]]'s ca
 
 ## Seers and the Long Dark
 
-Vithgard's shamanic traditions are the strongest of any [[lore-nordheimnclt|Nordmen]] realm. The long dark winters are sacred time, when the veil between worlds thins and the velvur commune most clearly with the spirits, and Vithgard's seers are sought out by all five kingdoms for their prophetic gifts. The kingdom tells a story of a seer, Velva [Aldrhildr]{.name data-type="being/npc"}, who as a child vanished into the fell above Hnarvdal and returned seven winters later with older words. The tale explains why Vithgard seeks her sight; it does not open a public path into the fell.
+Vithgard's shamanic traditions are the strongest of any [[lore-nordheimnclt|Nordmen]] realm. The long dark winters are sacred time, when the veil between worlds thins and the velvur commune most clearly with the spirits, and Vithgard's seers are sought out by all five kingdoms for their prophetic gifts. The kingdom tells a story of a seer, Velva [Aldurhildur]{.name data-type="being/npc"}, who as a child vanished into the fell above Hnarvdal and returned seven winters later with older words. The tale explains why Vithgard seeks her sight; it does not open a public path into the fell.
 
-The kingdom has also burned people accused of working the winds. [[place-askholm|Askholm]], the bare skerry off Dvarnvík, is where eleven were burned after a winter of failed whaling. Aldrhildr was accused with them and never tried, and the Sworn Hand's ruling that followed binds every ting in the kingdom. The deaths remain a grievance, and some plateau clans still avoid Dvarnvík.
+The kingdom has also burned people accused of working the winds. [[place-askholm|Askholm]], the bare skerry off Dvarnvík, is where eleven were burned after a winter of failed whaling. Aldurhildur was accused with them and never tried, and the Sworn Hand's ruling that followed binds every ting in the kingdom. The deaths remain a grievance, and some plateau clans still avoid Dvarnvík.
 
 ## The Border and the Warriors
 

@@ -3,7 +3,7 @@ shortcode: althmylvrald
 name: {full: Althmil Vraldendik, aliases: [Lord Althmil Vraldendik]}
 type: being
 subType: npc
-description: A lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware, named in Thalmthann Solvargr and Thulmvir Snarvaruk.
+description: A lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware, named in Thalmthann Solvargur and Thulmvir Snarvaruk.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Althmil Vraldendik is a 22-year-old man who stands 5'9" tall with a heavy build.
 
 # Dossier {#dossier}
 
-Althmil Vraldendik is a lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware. He values quality and tradition, and keeps [[being-thlmvrsnrvrkh|Thulmvir Snarvaruk]]'s work in demand among the upper classes. Althmil Vraldendik is named in [[being-thlmthnslvrgr|Thalmthann Solvargr]] and Thulmvir Snarvaruk.
+Althmil Vraldendik is a lord and patriarch of a house that values quality and tradition and commissions specialized glassware and tableware. He values quality and tradition, and keeps [[being-thlmvrsnrvrkh|Thulmvir Snarvaruk]]'s work in demand among the upper classes. Althmil Vraldendik is named in [[being-thlmthnslvrgr|Thalmthann Solvargur]] and Thulmvir Snarvaruk.

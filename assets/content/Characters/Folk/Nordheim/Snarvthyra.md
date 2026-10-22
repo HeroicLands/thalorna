@@ -3,7 +3,7 @@ shortcode: snarvthyra
 name: {full: Snarvthira, aliases: [High Priestess Snarvthira]}
 type: being
 subType: npc
-description: High Priestess of Thrunvald in the nearest settlement, who views Kralmil Vetrdómr as a genuine worshipper.
+description: High Priestess of Thrunvald in the nearest settlement, who views Kralmil Veturdómur as a genuine worshipper.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Snarvthira is a 48-year-old woman who stands 5'4" tall with a heavy build. She h
 
 # Dossier {#dossier}
 
-Snarvthira is the high priestess of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement, who views [[being-krldmylvtrdmr|Kralmil Vetrdómr]] as a genuine worshipper. She sees Kralmil as a worshipper of the storm god.
+Snarvthira is the high priestess of [[affiliation-thrunvald|Thrunvald]] in the nearest settlement, who views [[being-krldmylvtrdmr|Kralmil Veturdómur]] as a genuine worshipper. She sees Kralmil as a worshipper of the storm god.

@@ -3,7 +3,7 @@ shortcode: marvyndamurv
 name: {full: Marvinda Murvendik, aliases: [Captain Marvinda Murvendik]}
 type: being
 subType: npc
-description: A rival soldier of approximately equal skill who has competed with Gnaldrthann Solvargr for recognition.
+description: A rival soldier of approximately equal skill who has competed with Gnaldurthann Solvargur for recognition.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Marvinda Murvendik is a 29-year-old woman who stands 5'9" tall with a medium bui
 
 # Dossier {#dossier}
 
-Marvinda Murvendik is a rival soldier of approximately equal skill who has competed with [[being-gnldrthnslvrgr|Gnaldrthann Solvargr]] for recognition. She has competed with Gnaldrthann for recognition and advancement.
+Marvinda Murvendik is a rival soldier of approximately equal skill who has competed with [[being-gnldrthnslvrgr|Gnaldurthann Solvargur]] for recognition. She has competed with Gnaldurthann for recognition and advancement.

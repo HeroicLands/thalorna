@@ -3,14 +3,14 @@ shortcode: asvinir
 name: {full: Ásvinir, aliases: []}
 type: lore
 subType: theology
-description: "The defending kin of the gods in archaic Asguardian liturgy, joined by common cause against Nahild and Svartbrandr."
+description: "The defending kin of the gods in archaic Asguardian liturgy, joined by common cause against Nahild and Svartbrandur."
 tags: [asguardian]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
 "Ten gods sit at the table," a gudi of a coastal hov tells the newcomers who ask what the old liturgy means by _Ásvinir_, "and the old words name the ones who mean to stand up from it." The word is the archaic liturgical name for the defending kin of the gods, and the old liturgies use it where a newcomer would expect a list of the gods of the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten.
 
-In the liturgy, what makes the Ásvinir kin is common cause, not harmony. They stand against [[lore-nahilddty|Nahild]], against [[lore-svartbrandrdty|Svartbrandr]] and against the corruption both of them spread, and they do so while quarreling among themselves, keeping favorites and failing as gods fail. The name therefore sorts the Ten rather than listing them: it covers the defending kin and leaves out Nahild and Svartbrandr, who belong to the pantheon without belonging to the kin that stands against them.
+In the liturgy, what makes the Ásvinir kin is common cause, not harmony. They stand against [[lore-nahilddty|Nahild]], against [[lore-svartbrandurdty|Svartbrandur]] and against the corruption both of them spread, and they do so while quarreling among themselves, keeping favorites and failing as gods fail. The name therefore sorts the Ten rather than listing them: it covers the defending kin and leaves out Nahild and Svartbrandur, who belong to the pantheon without belonging to the kin that stands against them.
 
 ## The Older Name on the Coast
 
@@ -24,7 +24,7 @@ On the coasts the liturgy has a rival in memory. In the coastal tellings the Ás
 [[lore-nahilddty|Nahild]]
 : one of the two the Ásvinir stand against
 
-[[lore-svartbrandrdty|Svartbrandr]]
+[[lore-svartbrandurdty|Svartbrandur]]
 : the other, who burns the world at Aldarlok
 
 [[miscgear-hornnjordur|The Horn of Hafvald]]

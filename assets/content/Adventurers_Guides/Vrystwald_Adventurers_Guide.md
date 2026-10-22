@@ -21,7 +21,7 @@ data: {packFolder: adventurersguides, culture: varokhiclt}
 Vristwald falls into five reaches, each named for the country it faces. None of them is a government.
 
 - [[place-falkhaven|Falkhaven]] faces the western shore and the Nordmal frontier. At [[place-falkensten|Falkenstein]], a hill fort that commands the easiest crossing for leagues, Nordmal expeditions and Varokh counter-raids have met more than once.
-- [[place-edrwald|Edrwald]] turns around the bay toward [[place-elavendre|Élavendre]], where fishing villages share their landings season by season.
+- [[place-edriwald|Edriwald]] turns around the bay toward [[place-elavendre|Élavendre]], where fishing villages share their landings season by season.
 - [[place-thornwald|Thornwald]] meets Velanthia, the most permeable border in the region. At [[place-thornhaven|Thornhaven]] the villagers look as much like Velanthian river-folk as their own kin, and at [[place-frithhaven|Frithhaven]] the Other Chief keeps a truce at the water with children of both sides in her household as surety.
 - [[place-skathwald|Skathwald]] lies where [[lore-grukarfolk|Grukar]] nests grow thicker toward [[place-grkrhlmrgn|Grukarholm]]. Its villages watch their paths through every season and are the poorest and most embattled in the forest.
 - [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria, where overgrown imperial forts tempt treasure-hunters and the pass scouts serve no foreign claimant.
@@ -47,7 +47,7 @@ The [[place-vrystwldrvrs|rivers]] change with the year. A river party covers gro
 
 Each village has three coequal elders, the Frodrád, with one vote each, so a vote of the three never ties. The Weskár, the Shaman, keeps the village's totem and rules on sacred breaches. The War Chief, the _Harthúl_, leads the war-band and keeps the peace. The Other Chief, the _Theodár_, hears trade, custom, debts, inheritance and blood-payment before witnesses, and in most villages answers for its dealings with outsiders. A matter that crosses their duties goes to the three together. Each seat passes its own way: the Shaman trains and names an apprentice, band leaders contest the War Chief's seat by their deeds, and the people acclaim an Other Chief from among the proven assistants. A village can withdraw its support from any of them.
 
-Below the seats runs a ladder of standing. A Druthmund is a full member of a kindred, holding a true name earned at eth-kethrun, the rite of adulthood, through a deed of significance. A Hrodthúl bears a charge on renown already won, as a Shaman's apprentice or a hunting-band leader. An Edrmund is free and sheltered by a household not of their blood, without a voice at the moot. An Othmund is enslaved and answers to the _othris_, the mistress of the house. At the bottom stands the Vristrith, cast out by their own kin and claimed by nobody, owed neither shelter nor vengeance.
+Below the seats runs a ladder of standing. A Druthmund is a full member of a kindred, holding a true name earned at eth-kethrun, the rite of adulthood, through a deed of significance. A Hrodthúl bears a charge on renown already won, as a Shaman's apprentice or a hunting-band leader. An Edrimund is free and sheltered by a household not of their blood, without a voice at the moot. An Othmund is enslaved and answers to the _othris_, the mistress of the house. At the bottom stands the Vristrith, cast out by their own kin and claimed by nobody, owed neither shelter nor vengeance.
 
 Only imminent danger lets several villages' elders meet, acclaim a common War Chief and call a muster, and that command ends with the response. The brief unity has broken more than one Vylarian legion without leaving a government behind it.
 
@@ -114,7 +114,7 @@ ORDER BY name.full COLLATE NOCASE
 
 ## Ways In
 
-A party can come up the rivers from Velanthia with a fur-buyer's boat, cross the southern highlands from Moktur, or walk in from the Nordmal frontier. A Varokh character might be a young warrior who has not yet earned a true name, a trader on the river circuit, a Shaman's apprentice, an Edrmund sheltered by a household that took them in, or a captive freed and married in. At the first landing, ask three questions: **Whose roof are you under? Before whom have you sworn? Which wesk do they keep here?**
+A party can come up the rivers from Velanthia with a fur-buyer's boat, cross the southern highlands from Moktur, or walk in from the Nordmal frontier. A Varokh character might be a young warrior who has not yet earned a true name, a trader on the river circuit, a Shaman's apprentice, an Edrimund sheltered by a household that took them in, or a captive freed and married in. At the first landing, ask three questions: **Whose roof are you under? Before whom have you sworn? Which wesk do they keep here?**
 
 Campaigns start well from a claim on a village. A captive taken in a failed raid still awaits ransom, and the party is sent to carry the price. A feud between a village and its daughter clearing needs witnesses to a settlement both sides will accept. A Grukar raid leaves a palisade open and nobody to bury. A Velanthian prince wants Varokh auxiliaries for a war that is not theirs, and a War Chief wants to know what he will pay.
 

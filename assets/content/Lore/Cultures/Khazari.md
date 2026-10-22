@@ -196,14 +196,14 @@ Joy is ordinary and lives near the light. Marriages, namings and the finishing o
 
 When a long work is shown to the hold, one voice gives the toast and the court answers it:
 
-_Bamr bamír._
-: BAMR ba-MÍR! — work · well-made — "The work is well made!"
+_Bamur bamír._
+: BAMUR ba-MÍR! — work · well-made — "The work is well made!"
 
 _Gatharir tamík._
 : ga-THA-rir ta-MÍK! — master · trusted — "The master is trusted!"
 
-_Gazn gulák nuv gatharir._
-: gazn gu-LÁK nuv ga-THA-rir! — we · drink · with · master — "We drink with the master!"
+_Gazun gulák nuv gatharir._
+: gazun gu-LÁK nuv ga-THA-rir! — we · drink · with · master — "We drink with the master!"
 
 ## What the Record Holds Against a Name
 
@@ -272,8 +272,8 @@ At the gate the watch and the guard keep a call and an answer, and the third lin
 _Thiz durákh tanv._
 : THIZ du-RÁKH TANV? — who · holds-fast · gate — "Who holds the gate?"
 
-_Gazn. Gazn durákh tanv._
-: GAZN! gazn du-RÁKH TANV! — we · we · hold-fast · gate — "We do! We hold the gate!"
+_Gazun. Gazun durákh tanv._
+: GAZUN! gazun du-RÁKH TANV! — we · we · hold-fast · gate — "We do! We hold the gate!"
 
 _Dalk. Bant. Tanv-guráz._
 : DALK! BANT! TANV-gu-RÁZ! — stone · oath · the-guarding-of-the-gate — "Stone! Oath! The guarding of the gate!"

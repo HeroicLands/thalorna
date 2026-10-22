@@ -24,8 +24,8 @@ data:
         description: >-
           Owned outright rather than born free, owing his master labor itself rather than rent, and barred from bearing arms or being heard at the ting.
       - level: 2
-        title: Lidmadr
-        lore: lidmadrrnk
+        title: Lidmadur
+        lore: lidmadurrnk
         description: >-
           Free but answering through a following rather than a clan—a freed thrall still bound to his former master, a hall-less dreng, or a settled outsider—so his word carries no weight on the assembly's floor.
       - level: 3
@@ -60,15 +60,15 @@ data:
       Hersvald: Answers for a named district, leading its men to the muster and speaking for them at the ting.
       Lawspeaker: Keeper of the law in memory, who recites it at the assembly and declares what it is.
       Hirvstjori: The king's marshal, commander of his household men and master of the muster.
-      Buvordr: >-
-        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Vetrnetr.
-      Hringvordr: Keeper of the rings the king gives, his tribute and the silver of his hall.
+      Buvordur: >-
+        Steward of a royal estate, answerable for its yield and for the king's rights within it; the same office seats the hall's honored old at Veturnetur.
+      Hringvordur: Keeper of the rings the king gives, his tribute and the silver of his hall.
       Merkberi: Bearer of the king's standard in battle, a post of the highest honor and shortest life.
       Skald: >-
         Court poet, whose verse is the realm's memory and whose praise or scorn makes reputations; the standing behind the post belongs to the Skalds' Circle.
       Hirvman: >-
         Sworn man of the king's household troop, fed at his table and bound to his person, and raised by that oath to Hringberi.
-      Landvordr: The king's reeve in a district, collecting his dues and holding his courts.
+      Landvordur: The king's reeve in a district, collecting his dues and holding his courts.
       Skipstjori: Master of a ship, commanding her crew at sea and answering for her in the levy.
       Harbor-reeve: Keeper of a haven, collecting its tolls and adjudicating disputes on its wharves.
   seat: asgarthul
@@ -102,13 +102,13 @@ The crown carries one open question of right. A king's brother led an expedition
 
 ## The Royal Line
 
-Norgaad's kings come from the [Tvurnidrok]{.name data-type="affiliation/lineage"}, the royal clan at Asgarthul. Its most honored king is [Snirvthann]{.name data-type="being/npc"}, about 462 to 490, who called the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the [[affiliation-kingdomlgn|Kingdom of Malagna]] to his hall after the ice at [[place-skalfvatn|Skalfvatn]] and made the peace from which the Great Moot comes; the same peace refused him the two more seats on Domsey that Norgaad has asked for ever since ([[lore-nordkinwars|The Kin-Wars]]). The present king is [Ilthmil]{.name data-type="being/npc"}, acclaimed about 684 over his elder brother [Ilthorv]{.name data-type="being/npc"}, the king's brother who was lost on the Saddle in 688. Ilthorv's line keeps the claim that the ting chose wrongly, and Ilthmil has sons of his own.
+Norgaad's kings come from the [Tvurnidrok]{.name data-type="affiliation/lineage"}, the royal clan at Asgarthul. Its most honored king is [Snirvthann]{.name data-type="being/npc"}, about 462 to 490, who called the [[affiliation-kngdmnrdhm|Kingdom of Nordheim]] and the [[affiliation-kingdomlgn|Kingdom of Malagna]] to his hall after the ice at [[place-skalfvatan|Skalfvatan]] and made the peace from which the Great Moot comes; the same peace refused him the two more seats on Domsey that Norgaad has asked for ever since ([[lore-nordkinwars|The Kin-Wars]]). The present king is [Ilthmil]{.name data-type="being/npc"}, acclaimed about 684 over his elder brother [Ilthorv]{.name data-type="being/npc"}, the king's brother who was lost on the Saddle in 688. Ilthorv's line keeps the claim that the ting chose wrongly, and Ilthmil has sons of his own.
 
 ## The People and the Old Ways
 
-Norgaad's people are herders, hunters and miners more than sailors, though the coastal settlements keep respectable fleets. [[place-thraskvik|Thraskvík]] builds the longships the kingdom is famous for, and [[place-vrathavn|Vrathavn]], its principal port on the northern coast, keeps a garrison of professional warriors, the closest thing Norgaad has to a standing army. In the interior, [[place-flarnbrekka|Flarnbrekka]] works silver ore out of a frost-split mountainside, and the miners of [[place-skulfheim|Skulfheim]] knock on their timber and listen before they enter a gallery. [[place-tvarnmark|Tvarnmark]] is a stone-built trade town of weavers and merchant families, and [[place-hvarnvik|Hvarnvík]] has the one harbor that stays open through winter.
+Norgaad's people are herders, hunters and miners more than sailors, though the coastal settlements keep respectable fleets. [[place-thraskvik|Thraskvík]] builds the longships the kingdom is famous for, and [[place-vrathavan|Vrathavan]], its principal port on the northern coast, keeps a garrison of professional warriors, the closest thing Norgaad has to a standing army. In the interior, [[place-flarnbrekka|Flarnbrekka]] works silver ore out of a frost-split mountainside, and the miners of [[place-skulfheim|Skulfheim]] knock on their timber and listen before they enter a gallery. [[place-tvarnmark|Tvarnmark]] is a stone-built trade town of weavers and merchant families, and [[place-hvarnvik|Hvarnvík]] has the one harbor that stays open through winter.
 
-The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]], and the kingdom's velvur, its seers and shamans, are the most powerful and respected in the north. The seid of [[place-gnaldrfjord|Gnaldrfjord]] receives pilgrims from across the kingdom, and at [[place-holafell|Holafell]] stands the oldest hov of [[lore-hrimthurspr|Hrimthur]], where the Wound is renewed at the turn of every winter.
+The people are deeply devoted to the [[affiliation-asguardian|Asguardian Pantheon]], and the kingdom's velvur, its seers and shamans, are the most powerful and respected in the north. The seid of [[place-gnaldurfjord|Gnaldurfjord]] receives pilgrims from across the kingdom, and at [[place-holafell|Holafell]] stands the oldest hov of [[lore-hrimthurspr|Hrimthur]], where the Wound is renewed at the turn of every winter.
 
 ## Relations
 

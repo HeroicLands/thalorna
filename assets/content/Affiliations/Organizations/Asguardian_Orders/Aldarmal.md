@@ -17,13 +17,13 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Drottvargr
-        lore: drottvargrrnk
+        title: Drottvargur
+        lore: drottvargurrnk
         description: >-
           Cast out of Aldarmál, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Drottmadr
-        lore: drottmadrrnk
+        title: Drottmadur
+        lore: drottmadurrnk
         description: >-
           Learns the ancient knowledge the standing is built to preserve, without yet speaking for the elder races.
       - level: 3
@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 "Who speaks for the elder races?" a pilgrim asks the Ansorun who tends a grove of [[affiliation-bjartr|Bjart]]. "Usually no one," comes the answer. "The standing is claimed when it arises, not filled on a schedule."
 
-Aldarmál, the Elder's Voice, is that standing: the one who speaks between the elder races and mortals in Bjart's name, preserving ancient knowledge and keeping harmony between the two. No more than one or two members hold it at once, and the faith is often served by none. The Dróttstjori speaks between the elder races and mortals; the Drottmadr beneath him is still learning the ancient knowledge and does not yet speak for them.
+Aldarmál, the Elder's Voice, is that standing: the one who speaks between the elder races and mortals in Bjart's name, preserving ancient knowledge and keeping harmony between the two. No more than one or two members hold it at once, and the faith is often served by none. The Dróttstjori speaks between the elder races and mortals; the Drottmadur beneath him is still learning the ancient knowledge and does not yet speak for them.

@@ -92,7 +92,7 @@ The crew's enemies are varied and persistent. The [[affiliation-ordoarcanis|Thor
 - [[being-slvrvlskyr|Sélvara Valskir]] (First Mate)
 - [[being-fethardhrl|Fetar Darel]] (Pilot)
 - [[being-blgnrskn|Belgina Rusakuni]] (Shipwright)
-- [[being-grlfdrthgr|Garulf yra Druthgar wur Edrgrund]] (Sellsword)
+- [[being-grlfdrthgr|Garulf yra Druthgar wur Edrigrund]] (Sellsword)
 - [[being-theldnkhldr|Théldina Khalidra]] (Courtesan)
 - [[being-damsnghlrn|Dámasun Gholaron]] (Priest)
 - [[being-lucernsrnt|Lukeros Serenthis]] (Physician)

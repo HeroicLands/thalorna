@@ -3,7 +3,7 @@ shortcode: dvurnthyra
 name: {full: Dvurnthira, aliases: [Lady Dvurnthira]}
 type: being
 subType: npc
-description: A scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts, named in Hliskthann Vetrdómr.
+description: A scholar and collector of traditional wisdom, of the Archives, who travels Malagna documenting dying crafts, named in Hliskthann Veturdómur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Dvurnthira is a 41-year-old woman who stands 5'6" tall with a heavy build. She h
 
 # Dossier {#dossier}
 
-Dvurnthira is a scholar and collector of traditional wisdom, of the [Archives]{.name data-type="affiliation"}, who travels [[place-malagna|Malagna]] documenting dying crafts. She asks [[being-hlskthnvtrdmr|Hliskthann]] to become the subject of a comprehensive written record of his techniques. Dvurnthira is named in Hliskthann Vetrdómr.
+Dvurnthira is a scholar and collector of traditional wisdom, of the [Archives]{.name data-type="affiliation"}, who travels [[place-malagna|Malagna]] documenting dying crafts. She asks [[being-hlskthnvtrdmr|Hliskthann]] to become the subject of a comprehensive written record of his techniques. Dvurnthira is named in Hliskthann Veturdómur.

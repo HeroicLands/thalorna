@@ -44,7 +44,7 @@ Whichever account a hall keeps, it tells the same ending. When Hrandmil was gone
 [[lore-thursblot|Thursblet]]
 : the cutting of the world they were made from
 
-[[lore-aldarhringr|Aldarhringr]]
+[[lore-aldarhringur|Aldarhringur]]
 : the ring of ages
 
 [[lore-nrdlndsfnrl|The Pyre, the Ship and the Howe]]

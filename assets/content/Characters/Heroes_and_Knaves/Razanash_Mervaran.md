@@ -502,7 +502,7 @@ Limited Trust in Material Solutions
 
 ### Patrons
 
-Elder Shaman [[being-tijoodorquns|Tijoodorkun]]
+Elder Shaman [[being-tijodorquns|Tijodorkun]]
 : The oldest and most respected shaman in the tribe; he has mentored Razanash in the tribe's own ways since her initiation and continues to provide guidance, though he sometimes worries that her methods are too unconventional.
 
 Chief [[being-khilodlunbii|Khilodlun]]

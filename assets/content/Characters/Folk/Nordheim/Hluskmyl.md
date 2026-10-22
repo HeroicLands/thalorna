@@ -3,7 +3,7 @@ shortcode: hluskmyl
 name: {full: Hlusmil, aliases: [Alderman Hlusmil]}
 type: being
 subType: npc
-description: An alderman and local administrative leader who supports Kralmil Vetrdómr.
+description: An alderman and local administrative leader who supports Kralmil Veturdómur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hlusmil is a 60-year-old man who stands 6'1" tall with a light build. He has pal
 
 # Dossier {#dossier}
 
-Hlusmil is an alderman and local administrative leader who supports [[being-krldmylvtrdmr|Kralmil Vetrdómr]]. He respects Kralmil's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.
+Hlusmil is an alderman and local administrative leader who supports [[being-krldmylvtrdmr|Kralmil Veturdómur]]. He respects Kralmil's integrity and supports him against occasional attempts to regulate or control the forests from which he harvests.

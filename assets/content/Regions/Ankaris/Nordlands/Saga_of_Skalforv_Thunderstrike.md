@@ -3,17 +3,17 @@ shortcode: sagaskalforv
 name: {full: Saga of Skalforv Thunderstrike, aliases: []}
 type: lore
 subType: literature
-description: "An attributed Nordmen hero saga of Skalforv’s four-day battle with Heimsormr and return to the threatened coast."
+description: "An attributed Nordmen hero saga of Skalforv’s four-day battle with Heimsormur and return to the threatened coast."
 tags: [asguardian, nordlands, heroes-of-asguard]
 data:
   packFolder: nordlands
   culture: nordheimnclt
   form: saga
   language: nordmalng
-  subjects: [being-sklfrvthndrstrk, lore-heimsormr, lore-thrunvalddty]
+  subjects: [being-sklfrvthndrstrk, lore-heimsormur, lore-thrunvalddty]
 ---
 
-Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormr|Heimsormr]] under [[lore-thrunvalddty|Thrunvald]]'s blessing. Whether he once walked the coast or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.
+Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvthndrstrk|Skalforv Thunderstrike]] taking a small boat against [[lore-heimsormur|Heimsormur]] under [[lore-thrunvalddty|Thrunvald]]'s blessing. Whether he once walked the coast or belongs to its songs, the skalds give him three days and nights of battle and a fourth day's victorious blow. Other tales warn that the serpent survived beneath the waves. Its place in the telling of [[lore-aldarlok|Aldarlok]] remains a separate matter, and the singers leave the depths unmeasured.
 
 : Saga of Skalforv Thunderstrike {#saga}
 
@@ -72,8 +72,8 @@ made mountains of the sea.
 The shore shrank before it;
 small houses held their breath.
 
-Heimsormr, said the frightened;
-Heimsormr, sang the skalds.
+Heimsormur, said the frightened;
+Heimsormur, sang the skalds.
 Its length lay beyond reckoning;
 land seemed small beside it.
 The earth could be encircled,

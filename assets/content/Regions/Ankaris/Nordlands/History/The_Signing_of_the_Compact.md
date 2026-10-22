@@ -39,7 +39,7 @@ data:
       stated: {calendar: domseycount, text: "274 HF"}
       sources: [affiliation-malldbndlg, place-hringstead]
       summary: >-
-        The captains of the free companies meet at Hringstead, on the neutral ground the Circle has held since before the kingdoms, and sign the Compact: a captain swears his company before a council of nine, wears the bandlagshringr, and answers for his company's conduct under its oath, so that an employer knows what he buys. The Compact-Hall is raised on the Circle's swearing-ground.
+        The captains of the free companies meet at Hringstead, on the neutral ground the Circle has held since before the kingdoms, and sign the Compact: a captain swears his company before a council of nine, wears the bandlagshringur, and answers for his company's conduct under its oath, so that an employer knows what he buys. The Compact-Hall is raised on the Circle's swearing-ground.
       standing: attested
       names: [{name: the Signing of the Compact, by: affiliation-malldbndlg}]
       where:
@@ -67,7 +67,7 @@ The trade suited the north. A younger son, a dispossessed jarl, an oath-broken h
 
 ## The Hall at Hringstead
 
-A trade in sworn men needs a place where the swearing can be witnessed, and the north had one. [[place-hringstead|Hringstead]], on the border of [[place-nordheim|Nordheim]] and [[place-vithgard|Vithgard]], had been neutral ground since the [[affiliation-skaldscrcl|Skalds' Circle]] swore its first oath there, before any kingdom existed, and every king guaranteed it. About 560 the captains of the free companies met there and signed **[[affiliation-malldbndlg|Málalidabandalag]]**, the Compact in the north's own speech: a captain swears his company before a council of nine, wears the _bandlagshringr_, the ring that marks him signed, and answers before the Council for his company's conduct under its oath. An employer who hires a signed company knows what it will and will not do. A company that breaks its oath is discharged by vote, its ring surrendered and its contracts dishonored, and no hall on either side of the water will hire it after.
+A trade in sworn men needs a place where the swearing can be witnessed, and the north had one. [[place-hringstead|Hringstead]], on the border of [[place-nordheim|Nordheim]] and [[place-vithgard|Vithgard]], had been neutral ground since the [[affiliation-skaldscrcl|Skalds' Circle]] swore its first oath there, before any kingdom existed, and every king guaranteed it. About 560 the captains of the free companies met there and signed **[[affiliation-malldbndlg|Málalidabandalag]]**, the Compact in the north's own speech: a captain swears his company before a council of nine, wears the _bandlagshringur_, the ring that marks him signed, and answers before the Council for his company's conduct under its oath. An employer who hires a signed company knows what it will and will not do. A company that breaks its oath is discharged by vote, its ring surrendered and its contracts dishonored, and no hall on either side of the water will hire it after.
 
 The Compact-Hall was raised on the Circle's swearing-ground, and the two bodies have shared the place since: the Circle keeps the north's memory there, and the Compact keeps its word.
 

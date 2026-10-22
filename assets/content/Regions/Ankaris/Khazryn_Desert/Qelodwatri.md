@@ -1,6 +1,6 @@
 ---
 shortcode: qelodwatri
-name: {full: Kelodvootri, aliases: [The Cold Well]}
+name: {full: Kelodvotri, aliases: [The Cold Well]}
 type: place
 subType: site
 description: "An owned spring of twelve palms at the foot of a black mesa in the Khoshiqor, whose tribe keeps a stone over its well and will not say what lives under it."
@@ -8,7 +8,7 @@ tags: [draft, oasis, well, dreadspawn]
 data: {demonym: null, lore: [], parents: [hskrrgn], population: 0, packFolder: khazryndesert}
 ---
 
-Two days north of the road, where the gravel of the [[place-hskrrgn|Khoshiqor]] runs up against the foot of a black mesa, there is a ring of twelve palms around a well. The tribe that owns it, the [Kuuyoyur]{.name data-type="affiliation"}, "the arrow people", call it **Kelodvootri**, "the cold well", because the water drawn from it is cold at noon in high summer. It is a [[lore-ownedoasis|bodek]], owned water: the tribe's reserve for a dry year, visited in its season and empty the rest of it. A horse skull on a pole faces the approach, and a flat stone lies over the well-mouth with a weight on it.
+Two days north of the road, where the gravel of the [[place-hskrrgn|Khoshiqor]] runs up against the foot of a black mesa, there is a ring of twelve palms around a well. The tribe that owns it, the [Kuuyoyur]{.name data-type="affiliation"}, "the arrow people", call it **Kelodvotri**, "the cold well", because the water drawn from it is cold at noon in high summer. It is a [[lore-ownedoasis|bodek]], owned water: the tribe's reserve for a dry year, visited in its season and empty the rest of it. A horse skull on a pole faces the approach, and a flat stone lies over the well-mouth with a weight on it.
 
 The tribe's sign is cut high on the oldest palm, where a camel cannot rub it out. Beneath it is an older carving, half grown over by the bark: a figure tipping a jar into a pool, and below the pool a long shape with its arms spread. The Kuuyoyur did not cut it, and they cut their own sign above it rather than across it.
 
@@ -32,11 +32,11 @@ Asked about the stone on the well, the Kuuyoyur say what every tribe says of a l
 
 The tribes of the Khoshiqor have a saying for owned water in general: that they hold the wells of the road in trust until the owners return. Guides of the grass who cross the sand range repeat it at every bodek they stop at, and most of them drink from their own skins until the owners have come down to grant guest-right.
 
-A guide who knows the mesa has usually heard that the Kuuyoyur keep a stone on Kelodvootri, and some say among themselves that a kelodud is not all that lives there.
+A guide who knows the mesa has usually heard that the Kuuyoyur keep a stone on Kelodvotri, and some say among themselves that a kelodud is not all that lives there.
 
 ## Reaching It
 
-Kelodvootri is marked on no map and lies off every caravan track. A string blown off the road by a dust storm in the [Long Dry]{.name data-type="place/feature"}, west of [[place-qisomrktcmp|Qiiso]], can reach it by the stars if its guide knows the mesa. The next water is three days off across open sand.
+Kelodvotri is marked on no map and lies off every caravan track. A string blown off the road by a dust storm in the [Long Dry]{.name data-type="place/feature"}, west of [[place-qisomrktcmp|Qiiso]], can reach it by the stars if its guide knows the mesa. The next water is three days off across open sand.
 
 ## See Also
 
@@ -58,7 +58,7 @@ Kelodvootri is marked on no map and lies off every caravan track. A string blown
 [[scenario-weightwell|The Weight upon the Well]]
 : a scenario set here
 
-# The Truth of Kelodvootri {#truth .secret}
+# The Truth of Kelodvotri {#truth .secret}
 
 **The cistern.** The spring is older than the tribe and older than its palms. Under the well-mouth the shaft drops into a cistern cut from the rock by the builders of [[lore-towercities|the Tower Cities]], who found the spring and roofed it: a long hall of black water with ledges round it, a second drawing-basin cut into the north ledge, and an overflow channel that carries the excess out under the palms, where it waters their roots and comes up at the hole among them. A shutter of cut stone drops into a slot at the channel mouth to close it, worked from the north ledge by a bar and a counterweight. A narrow passage of steps runs from the cleft in the mesa foot down to the ledge, so that the cistern can be cleaned without lowering a man on a rope, and it is the way the wardens go down. Halfway down the passage a slab sits in a groove and slides aside on a dry shelf cut above the highest water the spring has ever reached. The shelf holds the Kuuyoyur's reserve for a ruinous year: silver in sealed jars, strings of turquoise, a cord of the tribe's passage tokens, and two fine swords in oiled cloth, the price the tribe was paid to end a feud four generations ago. A [[being-bnscrpn|bone scorpion]] keeps to the shade at the mouth of the cleft in most seasons, and the wardens pass it in the last hour before dawn, when it is slowest.
 
@@ -66,7 +66,7 @@ Kelodvootri is marked on no map and lies off every caravan track. A string blown
 
 The [Bodekud]{.name data-type="being/creature"}. The thing in the cistern is a [[lore-dreadspawncrtr|dreadspawn]], not a kelodud, and the tribe has a word for it that it does not use in front of strangers: **Bodekud**, "the one who owns the water". The Kuuyoyur use the word as a name and have long forgotten that it is a plain description. Nobody has seen the whole of it. What has been seen is arms: pale, wet, jointed in more places than an arm should be, and longer than three men laid end to end, ending in hands with long smooth fingers that leave prints with no lines in the palm. It hangs beneath the ledges with its arms spread over the pool and its body under the stone, a pale bulk larger than a camel. It comes into the open only at night, by the overflow channel and the palm roots, and the dry wind of noon drives it deep. A sudden heat makes it go still, fire on its arms makes it draw them under, and a pool fouled with its blood is bitter for a season. It does not climb the passage into the dry air and does not follow anyone up the shaft into daylight.
 
-Whether the builders dug down to something that was already there, or a maker set it in the spring to keep the water for them, nobody can say. The saying of the Khoshiqor tribes is, at Kelodvootri, a plain statement of fact: the owner never left.
+Whether the builders dug down to something that was already there, or a maker set it in the spring to keep the water for them, nobody can say. The saying of the Khoshiqor tribes is, at Kelodvotri, a plain statement of fact: the owner never left.
 
 **The owner's custom.** The Bodekud keeps the custom of [[lore-ownedoasis|the owned oasis]] exactly, as the owner of the water, and every act of it that looks like hunting is a step of that custom.
 
@@ -101,5 +101,5 @@ It keeps what it takes. The beasts it collects stand alive in an air pocket bene
 
 - **The kelodud.** False. A kelodud has no hands, does not come up into the open where the wind blows, does not return what it takes and cannot tie a knot. The Kuuyoyur have called the Bodekud one for generations, and the name has let them forget what the other word means.
 - **Letting the well drink first.** True, and more than a charm. The grandmothers who poured back the first draw were asking guest-right of the owner below, as the builders did in the carvings, and the Bodekud granted it every season they asked.
-- **The wells held in trust until the owners return.** At Kelodvootri, literally true.
+- **The wells held in trust until the owners return.** At Kelodvotri, literally true.
 - **The guides' unease.** Well founded: the thing under the stone is not a kelodud. It is not a hunter either.

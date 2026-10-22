@@ -3,7 +3,7 @@ shortcode: skalforv
 name: {full: Skalforv, aliases: [Duke Skalforv]}
 type: being
 subType: npc
-description: Duke of a neighboring realm who believes all wilderness should be exploited for profit, named in Svulthira Solvargr.
+description: Duke of a neighboring realm who believes all wilderness should be exploited for profit, named in Svulthira Solvargur.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Skalforv is a 43-year-old man who stands 5'10" tall with a light build. He has t
 
 # Dossier {#dossier}
 
-Skalforv is the duke of a neighboring realm who believes all wilderness should be exploited for profit. He has contracted poachers to slaughter the rare silver elk. Skalforv is named in [[being-svlthyrslvrgr|Svulthira Solvargr]].
+Skalforv is the duke of a neighboring realm who believes all wilderness should be exploited for profit. He has contracted poachers to slaughter the rare silver elk. Skalforv is named in [[being-svlthyrslvrgr|Svulthira Solvargur]].

@@ -23,13 +23,13 @@ data:
         description: >-
           The sacrifice is closed to him: the hov declines his offering and grants him no standing. Declined the offering at a coastal hov by its own gudi, cutting a man from Thrunvald's clergy and from the crew that shares his hov's blessing.
       - level: 1
-        title: Bletmadr
+        title: Bletmadur
         lore: blotmadrrnk
         description: >-
           Attends the blet at a coastal hov, sharing the sea-blessing most of Thrunvald's faithful never rise past.
       - level: 2
-        title: Hofsmadr
-        lore: hofsmadrrnk
+        title: Hofsmadur
+        lore: hofsmadurrnk
         description: >-
           Given to a coastal hov young, laboring at its nets and its storm-rites for years short of any claim to the priesthood.
       - level: 3
@@ -159,7 +159,7 @@ he remains at his keeping.
 
 Far comes the day
 when water is venom.
-Heimsormr rises
+Heimsormur rises
 against the last field.
 World-Wyrm, wide terror,
 meets the lifted hammer.
@@ -224,10 +224,10 @@ Every rung belongs to a coastal hov:
 Refused the Blet
 : denied the offering at a coastal hov, and cut from the clergy and from the crew that shares its blessing.
 
-Bletmadr
+Bletmadur
 : attends the blet at a coastal hov and shares its sea-blessing.
 
-Hofsmadr
+Hofsmadur
 : given to a coastal hov young, laboring at its nets and its storm-rites before any claim to the priesthood.
 
 Gudi / Gudja
@@ -248,7 +248,7 @@ Three ordeals are held to win the god's favor. In the [Hammer's Trial]{.name dat
 
 ## See Also
 
-[[affiliation-thrumuskjoldr|Thrumuskjoldr]]
+[[affiliation-thrumuskjoldur|Thrumuskjoldur]]
 : the Order of the Hammer, priests who master combat and protection at a coastal hov
 
 [[affiliation-hamardrengir|Hamardrengir]]

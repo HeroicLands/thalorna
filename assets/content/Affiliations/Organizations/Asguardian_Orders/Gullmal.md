@@ -17,13 +17,13 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Drottvargr
-        lore: drottvargrrnk
+        title: Drottvargur
+        lore: drottvargurrnk
         description: >-
           Cast out of Gullmál, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Drottmadr
-        lore: drottmadrrnk
+        title: Drottmadur
+        lore: drottmadurrnk
         description: >-
           Speaks for a feast-hall's temple in minor dealings, holding no standing yet as a full diplomat.
       - level: 3
@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 Where a dispute turns on charm rather than force, a temple of the [[affiliation-solrun|Faith of Solrún]] sends a Gilded Voice.
 
-Gullmál, the Gilded Voices, are priests prized for their persuasiveness, serving the faith as diplomats, negotiators and ambassadors. A member speaks for a feast-hall's temple in dealings no blunter envoy could carry. In minor dealings the temple is spoken for by a Drottmadr, who is not yet a full diplomat; negotiation and the carrying of embassies belong to the Dróttstjori.
+Gullmál, the Gilded Voices, are priests prized for their persuasiveness, serving the faith as diplomats, negotiators and ambassadors. A member speaks for a feast-hall's temple in dealings no blunter envoy could carry. In minor dealings the temple is spoken for by a Drottmadur, who is not yet a full diplomat; negotiation and the carrying of embassies belong to the Dróttstjori.

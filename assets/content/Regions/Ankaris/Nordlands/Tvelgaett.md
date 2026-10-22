@@ -12,17 +12,17 @@ The last names a skald speaks at [[lore-jol|Jel]] belong to gods nobody prays to
 
 ## Why There Are Heirs
 
-The halls teach that the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] were kindled from the remnant of the age before this one, and the [[lore-aldarhringr|Aldarhringr]], the ring of ages, teaches that every age ends the same way. So the Ten have heirs as surely as a jarl does, and for the same reason: what a house leaves is how it goes on. The Ten do not cross into the new age themselves, and the hovs never soften that. "The heirs are not the Ten come back," a Hofgudi at [[place-odholm|Odholm]] tells a newcomer who has asked. "They are what the Ten leave. You will meet the same thing at every grave-ale you ever drink."
+The halls teach that the Ten of the [[affiliation-asguardian|Asguardian Pantheon]] were kindled from the remnant of the age before this one, and the [[lore-aldarhringur|Aldarhringur]], the ring of ages, teaches that every age ends the same way. So the Ten have heirs as surely as a jarl does, and for the same reason: what a house leaves is how it goes on. The Ten do not cross into the new age themselves, and the hovs never soften that. "The heirs are not the Ten come back," a Hofgudi at [[place-odholm|Odholm]] tells a newcomer who has asked. "They are what the Ten leave. You will meet the same thing at every grave-ale you ever drink."
 
 The heirs keep no hovs, take no blet and confer no standing. Nobody in this age serves them, because they have nothing yet to be served for; their age has not begun. They are spoken of, and only at the end of the telling.
 
 ## The Three Every Hall Names
 
-In the halls' tellings, [Aldvar]{.name data-type="lore/deity"} is [[lore-odvardty|Odvar]]'s son, and the silent one. His name is the ward of the age, and he speaks no word in any telling until the last day. When [[lore-vetrulfr|Vetrúlfr]] the Winter-Wolf takes his father, Aldvar goes to the wolf, sets his foot in the lower jaw and his hands to the upper, and tears the mouth that swallowed wisdom; then he walks out of the fire with nothing to say. The rune-halls read him as the answer to the bargain his father made at [[lore-minnir|Minnir]]'s well: Odvar paid an eye to learn his death, and his son is what that death could not take.
+In the halls' tellings, [Aldvar]{.name data-type="lore/deity"} is [[lore-odvardty|Odvar]]'s son, and the silent one. His name is the ward of the age, and he speaks no word in any telling until the last day. When [[lore-vetrulfur|Vetrúlfur]] the Winter-Wolf takes his father, Aldvar goes to the wolf, sets his foot in the lower jaw and his hands to the upper, and tears the mouth that swallowed wisdom; then he walks out of the fire with nothing to say. The rune-halls read him as the answer to the bargain his father made at [[lore-minnir|Minnir]]'s well: Odvar paid an eye to learn his death, and his son is what that death could not take.
 
-[Hamarberi]{.name data-type="lore/deity"} is [[lore-thrunvalddty|Thrunvald]]'s daughter, the hammer-bearer. When the Thunderer has struck [[lore-heimsormr|Heimsormr]], walked his nine steps and fallen, [[lore-thrunhamarr|Thrúnhamarr]] lies on the field where he dropped it, and she is the one who lifts it. The coastal hovs tell that she carries it out of the fire still warm, and that the first thunder of the new age is the hammer set down on new ground.
+[Hamarberi]{.name data-type="lore/deity"} is [[lore-thrunvalddty|Thrunvald]]'s daughter, the hammer-bearer. When the Thunderer has struck [[lore-heimsormur|Heimsormur]], walked his nine steps and fallen, [[lore-thrunhamarr|Thrúnhamarr]] lies on the field where he dropped it, and she is the one who lifts it. The coastal hovs tell that she carries it out of the fire still warm, and that the first thunder of the new age is the hammer set down on new ground.
 
-[Gronvin]{.name data-type="lore/deity"} is [[lore-frodvindty|Frodvin]]'s heir, the green friend, and the least warlike of the three. Frodvin goes down to [[lore-svartbrandrdty|Svartbrandr]] and the harvest is left with no hand to bring it home; Gronvin is the first shoot through the ash after the fire has gone out, and the tellings make the first morning of the new age hers. The hovs of Frodvin speak her name over a field sown after a burning.
+[Gronvin]{.name data-type="lore/deity"} is [[lore-frodvindty|Frodvin]]'s heir, the green friend, and the least warlike of the three. Frodvin goes down to [[lore-svartbrandurdty|Svartbrandur]] and the harvest is left with no hand to bring it home; Gronvin is the first shoot through the ash after the fire has gone out, and the tellings make the first morning of the new age hers. The hovs of Frodvin speak her name over a field sown after a burning.
 
 ## The Heirs the Halls Dispute
 
@@ -37,14 +37,14 @@ The heirs give the north its idea of what a death is for. A man's heir drinks th
 [[lore-aldarlok|Aldarlok]]
 : the close of this age, and the fire the heirs come through
 
-[[lore-aldarhringr|Aldarhringr]]
+[[lore-aldarhringur|Aldarhringur]]
 : the ring of ages, and why every age has heirs
 
-[[lore-vetrulfr|Vetrúlfr]]
+[[lore-vetrulfur|Vetrúlfur]]
 : the Winter-Wolf Aldvar kills
 
 [[lore-thrunhamarr|Thrúnhamarr]]
 : the hammer Hamarberi lifts
 
-[[lore-dulmvargr|Dulmvargr]]
+[[lore-dulmvargur|Dulmvargur]]
 : the hound that takes Eidgar

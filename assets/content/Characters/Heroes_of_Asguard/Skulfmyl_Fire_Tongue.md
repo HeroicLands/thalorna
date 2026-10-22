@@ -12,7 +12,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [nrdlndsrgn]
-  affiliations: {kngdmnrdhm: {rank: 3}, velgrimr: {rank: 1}}
+  affiliations: {kngdmnrdhm: {rank: 3}, velgrimur: {rank: 1}}
   gender: male
   species: humanflk
   born: 684.244
@@ -365,7 +365,7 @@ Skulfmil stands 5'10" with a medium, energetic frame, weighing about 175 pounds.
 
 # Dossier {#dossier}
 
-Skulfmil was born with a gift for words, a natural storyteller and orator whose speeches could rally the disheartened and inspire the downtrodden. But his talent for persuasion came with a darker side—he was just as adept at stirring up trouble and inciting chaos with his words. Skulfmil quickly realized that he could use his gift to manipulate those around him, turning friends against one another and causing unrest wherever he went. In his saga, under [[lore-velgrimrdty|Velgrímr]]'s guidance, Skulfmil embraced his role as a provocateur, using his fiery words to disrupt order and bring about change through chaos.
+Skulfmil was born with a gift for words, a natural storyteller and orator whose speeches could rally the disheartened and inspire the downtrodden. But his talent for persuasion came with a darker side—he was just as adept at stirring up trouble and inciting chaos with his words. Skulfmil quickly realized that he could use his gift to manipulate those around him, turning friends against one another and causing unrest wherever he went. In his saga, under [[lore-velgrimurdty|Velgrímur]]'s guidance, Skulfmil embraced his role as a provocateur, using his fiery words to disrupt order and bring about change through chaos.
 
 The saga of Skulfmil Fire-Tongue tells of how he brought the city of [[place-tvurnholm|Tvurnholm]] to its knees with nothing but his voice. Tvurnholm was known for its strict laws and rigid social order. Skulfmil entered the city disguised as a traveling bard and began telling stories that questioned the city's laws, mocking the rulers and encouraging the people to think for themselves. As his influence grew, the people began to rebel, and soon the city was engulfed in riots. When the rulers realized what had happened, it was too late—Skulfmil had already moved on, leaving the city in ruins.
 
@@ -377,7 +377,7 @@ Skulfmil is charismatic and provocative, a man who believes that the existing so
 
 ### Motivation
 
-Skulfmil believes that rigid social structures are prisons that benefit only those at the top, and that the common people deserve the freedom to shape their own destiny. He uses gifts he attributes to Velgrímr to tear down oppressive systems, believing that what rises from the ashes will be better. His deeper motivation is a need to matter—to prove that words alone can change the world and that the pen (or tongue) truly is mightier than the sword.
+Skulfmil believes that rigid social structures are prisons that benefit only those at the top, and that the common people deserve the freedom to shape their own destiny. He uses gifts he attributes to Velgrímur to tear down oppressive systems, believing that what rises from the ashes will be better. His deeper motivation is a need to matter—to prove that words alone can change the world and that the pen (or tongue) truly is mightier than the sword.
 
 ### Strengths
 
@@ -391,7 +391,7 @@ Skulfmil's oratory is supernaturally persuasive; his words can stir emotions, ch
 
 [The Free Speakers]{.name data-type="affiliation"}—A loose network of revolutionary thinkers who share Skulfmil's belief that the current social order must be torn down. They provide him with safe houses, intelligence, and financial support.
 
-[[lore-velgrimrdty|Velgrímr]]—In the saga, the god of chaos finds Skulfmil's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
+[[lore-velgrimurdty|Velgrímur]]—In the saga, the god of chaos finds Skulfmil's work endlessly amusing and provides subtle supernatural assistance, ensuring that his words carry extra weight and that he always escapes just in time.
 
 ### Enemies
 

@@ -11,7 +11,7 @@ data:
   occupation: Miner
   lore: []
   culture: nordheimnclt
-  homes: [horgsvangr]
+  homes: [horgsvangur]
   affiliations: {kngdmnrdhm: {rank: 1}, frodvin: {rank: 1}}
   gender: male
   species: humanflk

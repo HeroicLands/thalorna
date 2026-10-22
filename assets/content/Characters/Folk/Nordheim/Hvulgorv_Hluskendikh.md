@@ -3,7 +3,7 @@ shortcode: hvulgorvhlus
 name: {full: Hvulgorv Hluskendik, aliases: [Magistrate Hvulgorv Hluskendik]}
 type: being
 subType: npc
-description: The town's chief law enforcement, who relies on Hvalgvir Vetrdómr's network of informants.
+description: The town's chief law enforcement, who relies on Hvalgvir Veturdómur's network of informants.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hvulgorv Hluskendik is a 58-year-old man who stands 5'10" tall with a light buil
 
 # Dossier {#dossier}
 
-Hvulgorv Hluskendik is the town's chief law enforcement, who relies on [[being-hvlgvrvtrdmr|Hvalgvir Vetrdómr]]'s network of informants. He holds the post of magistrate.
+Hvulgorv Hluskendik is the town's chief law enforcement, who relies on [[being-hvlgvrvtrdmr|Hvalgvir Veturdómur]]'s network of informants. He holds the post of magistrate.

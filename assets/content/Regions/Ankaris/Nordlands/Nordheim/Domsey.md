@@ -21,7 +21,7 @@ A Lawspeaker who has recited at three of those assemblies puts the island's firs
 
 ## The Hallowing
 
-Before any king steps ashore, the **Landsgudi** hallows the ground. The office belongs to the King of All Clans and to no single faith: the Landsgudi is the priest of the land who speaks for the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—with one voice, and on Domsey that is the whole of the work. He walks the bounds of the ting-ground and strikes each _hrend_ (boundary stone) as he passes it, as a frontier bundi walks his own stones at Somarmál, and when the last stone is struck the _tingfridr_ (ting-peace) is on the island. From that moment until the Landsgudi lifts it, a blow struck inside the stones is an offense against the gods and the five crowns together, and no wergild settles it.
+Before any king steps ashore, the **Landsgudi** hallows the ground. The office belongs to the King of All Clans and to no single faith: the Landsgudi is the priest of the land who speaks for the [[affiliation-asguardian|Asguardian Pantheon]]—the Ten—with one voice, and on Domsey that is the whole of the work. He walks the bounds of the ting-ground and strikes each _hrend_ (boundary stone) as he passes it, as a frontier bundi walks his own stones at Somarmál, and when the last stone is struck the _tingfridur_ (ting-peace) is on the island. From that moment until the Landsgudi lifts it, a blow struck inside the stones is an offense against the gods and the five crowns together, and no wergild settles it.
 
 ## The Seats
 

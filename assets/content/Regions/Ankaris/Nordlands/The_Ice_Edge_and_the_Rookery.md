@@ -8,13 +8,13 @@ tags: [asguardian, draft]
 data: {packFolder: nordlands, culture: nordheimnclt}
 ---
 
-In The Ice-Edge and the Rookery, ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvon_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfr_ (ice-edge) at the end of winter, and the _dvonvangr_ (rookery) in autumn.
+In The Ice-Edge and the Rookery, ice gives warning before it goes, and the men who drown are the ones who were too busy to listen. The _dvon_ (seal) feeds more northern households than the whale does, because a whale comes when it chooses and a seal can be gone out and fetched. The hunt has two grounds and two seasons: the _skelfur_ (ice-edge) at the end of winter, and the _dvonvangur_ (rookery) in autumn.
 
 ## The Ice-Edge
 
-In the last weeks of winter, where the sea ice meets open water, the seals haul out onto the floes to whelp, and the coast goes out to them. The name of the place is the warning: _skelfr_ is built from _skalf_, the shudder in ice before it gives, and a sealer on the edge watches for that shudder more closely than he watches for seals. Some crews walk out from the shore across the fast ice; others row along the edge and land on the floes. Either way the work is done with clubs and short spears, quickly, and the skins and fat are dragged back over the ice on sledges before the light goes.
+In the last weeks of winter, where the sea ice meets open water, the seals haul out onto the floes to whelp, and the coast goes out to them. The name of the place is the warning: _skelfur_ is built from _skalf_, the shudder in ice before it gives, and a sealer on the edge watches for that shudder more closely than he watches for seals. Some crews walk out from the shore across the fast ice; others row along the edge and land on the floes. Either way the work is done with clubs and short spears, quickly, and the skins and fat are dragged back over the ice on sledges before the light goes.
 
-The danger is the ice itself. A floe that breaks free carries its hunters out to sea, and floes grinding together in a swell crush a boat between them; the stem _gnaldr_, floes grinding on one another, is a name in the north because every coast has heard that sound end in a death. A household that loses a man on the ice and never gets his body back raises a carved stone for him on the headland and holds his grave-ale there.
+The danger is the ice itself. A floe that breaks free carries its hunters out to sea, and floes grinding together in a swell crush a boat between them; the stem _gnaldur_, floes grinding on one another, is a name in the north because every coast has heard that sound end in a death. A household that loses a man on the ice and never gets his body back raises a carved stone for him on the headland and holds his grave-ale there.
 
 ## The Rookery
 
@@ -36,7 +36,7 @@ Sealskins are also money. Along the northern coasts a bundle of good skins is a 
 [[place-vithgard|Vithgard]]
 : the coast that lives by the whale and the seal
 
-[[place-gnaldrfjord|Gnaldrfjord]]
+[[place-gnaldurfjord|Gnaldurfjord]]
 : a Norgaad fjord village that hunts both
 
 [[lore-bartercnmy|Barter Economy]]

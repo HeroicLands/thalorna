@@ -17,13 +17,13 @@ data:
       What this order confers is membership alone: a devotee holds its least claim, admitted to its work, and a leader its fullest, with nothing recorded between the two rungs.
     ranks:
       - level: 0
-        title: Drottvargr
-        lore: drottvargrrnk
+        title: Drottvargur
+        lore: drottvargurrnk
         description: >-
           Cast out of Sólvinir, forfeiting whatever counsel, shelter or standing membership gave him.
       - level: 1
-        title: Drottmadr
-        lore: drottmadrrnk
+        title: Drottmadur
+        lore: drottmadurrnk
         description: >-
           Trains in the arts of love and beauty at a feast-hall's hov, holding no standing yet to counsel the powerful.
       - level: 3
@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 Those who seek [[lore-solrundty|Solrún's favor]] and have power to lose often take counsel from the Order of the Enchanted Rose.
 
-Sólvinir trains priests in the arts of love and beauty, and advises the powerful and the influential. A member is as likely to be found counseling a jarl's court as attending the rites of a feast-hall. A Dróttstjori advises jarls and others of influence in Solrún's name; a Drottmadr trains in those arts at a feast-hall's hov and does not yet counsel the powerful.
+Sólvinir trains priests in the arts of love and beauty, and advises the powerful and the influential. A member is as likely to be found counseling a jarl's court as attending the rites of a feast-hall. A Dróttstjori advises jarls and others of influence in Solrún's name; a Drottmadur trains in those arts at a feast-hall's hov and does not yet counsel the powerful.

@@ -439,7 +439,7 @@ His relationship with the Epistémion is entirely cynical: he uses their librari
 
 ### Patrons and Teachers
 
-[Thurídr of the Deep Roads]{.name data-type="being/npc"}, his original teacher and the most powerful velva in the northern underground (though she is now in her eighties and preparing to pass her knowledge on). She is the person Knarvir owes the most—she took him in when he manifested his gifts, taught him to survive and hide, gave him the framework that allowed him to live at all. She is also his greatest source of paranoia; he constantly worries that she is becoming a liability, that her age and visibility are threats to the entire community, that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
+[Thurídur of the Deep Roads]{.name data-type="being/npc"}, his original teacher and the most powerful velva in the northern underground (though she is now in her eighties and preparing to pass her knowledge on). She is the person Knarvir owes the most—she took him in when he manifested his gifts, taught him to survive and hide, gave him the framework that allowed him to live at all. She is also his greatest source of paranoia; he constantly worries that she is becoming a liability, that her age and visibility are threats to the entire community, that someone will eventually break her and trace the network back to him. His love for her is absolute; his fear that she will bring him down is equally so.
 
 [Svalthmil Fisherman]{.name data-type="being/npc"}, an ostensible friend from his merchant days (connection from southern trading voyages) who is actually a supplier of rare materials and books from beyond Nordheim. The arrangement is old and relatively safe; Svalthmil asks no questions, and Knarvir pays well in coin that is clean and untraced.
 
@@ -459,7 +459,7 @@ The Student's Betrayal
 The Unidentified Watcher Reveals Themselves
 : The person or persons investigating Knarvir finally makes direct contact, revealing that they are a representative of the southern [[affiliation-ordoarcanis|Thordimalon]], interested in his spirit-craft for reasons he does not initially understand. They offer him a proposition: share his knowledge, become a consultant to their organization, gain protection through their institutional power. The catch is that doing so would require him to leave Nordheim and potentially betray the hiding network. The offer is tempting and deeply dangerous.
 
-Thurídr is Dying
+Thurídur is Dying
 : His teacher suffers a sudden severe illness (or falls into a supernatural crisis that only manifests as illness). Knarvir must either stay hidden and hope she survives without him (knowing she probably will not), or reveal himself by coming openly to her aid. The time pressure is extreme; he has perhaps three days to decide before the moment passes.
 
 The Spirit's Demand

@@ -3,7 +3,7 @@ shortcode: hvelmsnerv
 name: {full: Hvelmsnerv, aliases: [The Whale-Prophecy]}
 type: lore
 subType: literature
-description: "Velva Aldrhildr's foretelling from a Dvarnvík high seat on the first night of the winter the whales did not come, as the hall's skald gave it at the ting."
+description: "Velva Aldurhildur's foretelling from a Dvarnvík high seat on the first night of the winter the whales did not come, as the hall's skald gave it at the ting."
 tags: [draft, nordlands]
 data:
   packFolder: nordlands
@@ -11,7 +11,7 @@ data:
   form: snerv
   language: nordmalng
   subjects:
-    - lore-aldarhringr
+    - lore-aldarhringur
     - lore-tvelgaett
     - lore-aldarlok
     - lore-vthgdhstry
@@ -19,9 +19,9 @@ data:
     - place-dvarnvik
 ---
 
-**Hvelmsnerv**, the Whale-Prophecy, is the name a [[place-dvarnvik|Dvarnvík]] hall gave to the _snerv_ (foretelling) that Velva [Aldrhildr]{.name data-type="being/npc"} spoke from its high seat at [[lore-vetrnaetr|Vetrnetr]], on the first night of the last winter in which [[place-vithgard|Vithgard]]'s whaling failed. The name keeps the question the host asked and nothing of the answer he was given. [[lore-nordheimnclt|Nordmen]] halls along the whale-coast recite it while the bones of the slaughter-blet are read, in four-beat stanzas of uneven length that close on her _hnerv_ (refrain) about the hall's own fire. She passes over the fire and the wolf of [[lore-aldarlok|Aldarlok]] in a handful of lines, as a thing the hall's skald already has at [[lore-jol|Jel]], and spends her length on what [[lore-aldarhringr|Aldarhringr]], the ring of ages, leaves: a coal banked in the empty _gnum_, the clay pot a household keeps waiting for its next death, and the three heirs of the [[lore-tvelgaett|Tvelgaett]] who inherit a morning in which nobody says a name from this age.
+**Hvelmsnerv**, the Whale-Prophecy, is the name a [[place-dvarnvik|Dvarnvík]] hall gave to the _snerv_ (foretelling) that Velva [Aldurhildur]{.name data-type="being/npc"} spoke from its high seat at [[lore-veturnetur|Veturnetur]], on the first night of the last winter in which [[place-vithgard|Vithgard]]'s whaling failed. The name keeps the question the host asked and nothing of the answer he was given. [[lore-nordheimnclt|Nordmen]] halls along the whale-coast recite it while the bones of the slaughter-blet are read, in four-beat stanzas of uneven length that close on her _hnerv_ (refrain) about the hall's own fire. She passes over the fire and the wolf of [[lore-aldarlok|Aldarlok]] in a handful of lines, as a thing the hall's skald already has at [[lore-jol|Jel]], and spends her length on what [[lore-aldarhringur|Aldarhringur]], the ring of ages, leaves: a coal banked in the empty _gnum_, the clay pot a household keeps waiting for its next death, and the three heirs of the [[lore-tvelgaett|Tvelgaett]] who inherit a morning in which nobody says a name from this age.
 
-The text is the recital the hall's skald gives after the ting, as he gave it there under the truth of the recital. The ting sat at Dvarnvík in the spring, when the strand had stayed empty through the dark months, and it accused eleven people of working the winds; [[lore-vthgdhstry|the Vithgard histories]] keep the judgment. A [[lore-swornhandrnk|Sworn Hand]] ruled there that foretelling alone is no working against a named person, and under that ruling the piece is still sung. The ting struck two kinds of name from the recital, the names the velva spoke down the benches and the one she named as the carrier of the pot, and the skald keeps them struck; those are the lacunae. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused of _ergi_ were burned on the skerry of [[place-askholm|Askholm]]. Aldrhildr was accused and never tried. The whales did not come in.
+The text is the recital the hall's skald gives after the ting, as he gave it there under the truth of the recital. The ting sat at Dvarnvík in the spring, when the strand had stayed empty through the dark months, and it accused eleven people of working the winds; [[lore-vthgdhstry|the Vithgard histories]] keep the judgment. A [[lore-swornhandrnk|Sworn Hand]] ruled there that foretelling alone is no working against a named person, and under that ruling the piece is still sung. The ting struck two kinds of name from the recital, the names the velva spoke down the benches and the one she named as the carrier of the pot, and the skald keeps them struck; those are the lacunae. Seven women, two plateau men who had sold wind-knots and two Dvarnvík men accused of _ergi_ were burned on the skerry of [[place-askholm|Askholm]]. Aldurhildur was accused and never tried. The whales did not come in.
 
 : Hvelmsnerv {#snerv}
 
@@ -249,7 +249,7 @@ The one who walks does not know it,
 and he is the one who would.
 […] your daughter's keys […] and the cask of oil
 you still owe at […]
-And mine. They gave me Aldrhildr at my first high seat,
+And mine. They gave me Aldurhildur at my first high seat,
 and nobody will say it there either. Nobody. Not once.
 
 The host said, "What is a name for, then?"
@@ -297,7 +297,7 @@ The fire is low.
 [[lore-tvelgaett|Tvelgaett]]
 : the three heirs the velva names
 
-[[lore-aldarhringr|Aldarhringr]]
+[[lore-aldarhringur|Aldarhringur]]
 : the ring of ages, and the remnant each age leaves
 
 [[lore-aldarlok|Aldarlok]]

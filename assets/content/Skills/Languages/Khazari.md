@@ -571,7 +571,7 @@ data:
       gloss: "the freeing of ore"
       root: "z-gh-r + p-th-k"
       frame: compound
-    - form: thamr
+    - form: thamur
       class: "n"
       field: Craft and the forge
       gloss: "a blow"
@@ -607,7 +607,7 @@ data:
       gloss: "to strike oneself, or one another"
       root: "th-m-r"
       frame: reflexive
-    - form: huthamr
+    - form: huthamur
       class: "n"
       field: Craft and the forge
       gloss: "a striking-floor"
@@ -1034,7 +1034,7 @@ data:
       gloss: "a chiselled line"
       root: "z-d-b"
       frame: done thing
-    - form: bamr
+    - form: bamur
       class: "n"
       field: Craft and the forge
       gloss: "craft, the work"
@@ -1065,7 +1065,7 @@ data:
       gloss: "to make as a master makes"
       root: "b-m-r"
       frame: mastery
-    - form: hubamr
+    - form: hubamur
       class: "n"
       field: Craft and the forge
       gloss: "a workshop"
@@ -1245,7 +1245,7 @@ data:
       gloss: "the binding of fire; the tempering of a blade"
       root: "g-l-d + v-l-d"
       frame: compound
-    - form: bamr-pubál
+    - form: bamur-pubál
       class: "n"
       field: Craft and the forge
       gloss: "the offering of craft"
@@ -1484,10 +1484,10 @@ data:
       gloss: "the enduring of the glow"
       root: "l-b-t + b-t-m"
       frame: compound
-    - {form: basr, class: "n", field: The deep, gloss: "a spring", root: "b-s-r", frame: bare}
+    - {form: basur, class: "n", field: The deep, gloss: "a spring", root: "b-s-r", frame: bare}
     - {form: basír, class: adj, field: The deep, gloss: "welling", root: "b-s-r", frame: adjective}
     - {form: busár, class: v, field: The deep, gloss: "to well up", root: "b-s-r", frame: deed}
-    - form: hubasr
+    - form: hubasur
       class: "n"
       field: The deep
       gloss: "a spring-head"
@@ -1904,7 +1904,7 @@ data:
       gloss: "a work that answers what the stone asked"
       root: "th-b-gh"
       frame: done thing
-    - form: tasm
+    - form: tasum
       class: "n"
       field: The grain of the rock
       gloss: "soundness"
@@ -1922,7 +1922,7 @@ data:
       gloss: "to hold sound"
       root: "t-s-m"
       frame: deed
-    - form: hutasm
+    - form: hutasum
       class: "n"
       field: The grain of the rock
       gloss: "a sound face, firm ground"
@@ -3488,7 +3488,7 @@ data:
       gloss: "to wed one another"
       root: "n-b-d"
       frame: reflexive
-    - form: vanr
+    - form: vanur
       class: "n"
       field: Kin and the house
       gloss: "a forebear"
@@ -4217,7 +4217,7 @@ data:
       gloss: "a text, a written thing"
       root: "h-r-t"
       frame: done thing
-    - form: lanr
+    - form: lanur
       class: "n"
       field: Letters and writing
       gloss: "a line of writing"
@@ -4271,7 +4271,7 @@ data:
       gloss: "a thing written in the flowing hand, the hand form of Pirzath"
       root: "m-l-g"
       frame: done thing
-    - form: lanr-lubáz
+    - form: lanur-lubáz
       class: "n"
       field: Letters and writing
       gloss: "a line of carved text, which follows a seam"
@@ -6320,9 +6320,9 @@ data:
     - {form: gaz, class: pron, field: Grammar words, gloss: "I"}
     - {form: ves, class: pron, field: Grammar words, gloss: "you"}
     - {form: vog, class: pron, field: Grammar words, gloss: "he, she, it"}
-    - {form: gazn, class: pron, field: Grammar words, gloss: "we"}
-    - {form: vesn, class: pron, field: Grammar words, gloss: "you (many)"}
-    - {form: vogn, class: pron, field: Grammar words, gloss: "they"}
+    - {form: gazun, class: pron, field: Grammar words, gloss: "we"}
+    - {form: vesun, class: pron, field: Grammar words, gloss: "you (many)"}
+    - {form: vogun, class: pron, field: Grammar words, gloss: "they"}
     - {form: kedz, class: dem, field: Grammar words, gloss: "this, these"}
     - {form: kodz, class: dem, field: Grammar words, gloss: "that, those"}
     - {form: kelg, class: dem, field: Grammar words, gloss: "here"}
@@ -6350,8 +6350,8 @@ data:
     - {form: zop, class: num, field: Grammar words, gloss: "five", concept: five}
     - {form: nefk, class: num, field: Grammar words, gloss: "six", concept: six}
     - {form: fozd, class: num, field: Grammar words, gloss: "seven", concept: seven}
-    - {form: kabr, class: num, field: Grammar words, gloss: "eight", concept: eight}
-    - {form: khozm, class: num, field: Grammar words, gloss: "nine", concept: nine}
+    - {form: kabur, class: num, field: Grammar words, gloss: "eight", concept: eight}
+    - {form: khozum, class: num, field: Grammar words, gloss: "nine", concept: nine}
     - {form: zund, class: num, field: Grammar words, gloss: "ten", concept: ten}
     - {form: dolb, class: num, field: Grammar words, gloss: "eleven"}
     - {form: mazk, class: num, field: Grammar words, gloss: "twelve"}
@@ -6520,7 +6520,7 @@ data:
         shape: K1aK2K3
         class: [n]
         makes: the thing itself
-        examples: {r-m-k: ramk, d-l-k: dalk, th-m-r: thamr}
+        examples: {r-m-k: ramk, d-l-k: dalk, th-m-r: thamur}
       - frame: adjective
         shape: K1aK2iK3
         class: [adj]
@@ -6550,7 +6550,7 @@ data:
         shape: huK1aK2K3
         class: [n]
         makes: where it is done
-        examples: {r-m-k: huramk, d-l-k: hudalk, th-m-r: huthamr}
+        examples: {r-m-k: huramk, d-l-k: hudalk, th-m-r: huthamur}
       - frame: done thing
         shape: K1iK2K3ath
         class: [n]
@@ -6985,7 +6985,7 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 
 **What Khazari leaves out.** No native word ends on a vowel except the particle _zi_, no part of a word has more than three syllables, and no frame has _e_ or _o_.
 
-**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk. Bant. Tanv-guráz._ (DALK! BANT! TANV-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamr bamír._ (BAMR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
+**Said aloud.** In speech the short words come forward: the pronouns, the particles and the bare nouns are single blows, and the longer words fall between them with the stress where the acute stands. The gate-cry is three such blows and a built name, _Dalk. Bant. Tanv-guráz._ (DALK! BANT! TANV-gu-RÁZ!), and the toast at a finished work is two words that share their skeleton, _Bamur bamír._ (BAMUR ba-MÍR!), "the work is well made". More are in the [[skill-khazarlng#phrasebook|phrasebook]].
 
 ## Phonology
 
@@ -6993,7 +6993,7 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazari, and a Khazari saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamr_, _bant_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
+The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazari, and a Khazari saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamur_, _bant_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
 
 ### Vowels
 
@@ -7009,11 +7009,11 @@ Khazari has no diphthongs. Two vowels never stand together, because a native wor
 
 No word opens on two consonants. A dash joins the two parts of a built name. Inside a word no more than two consonants stand together—a doubled consonant counts as one—and a word ends on at most two.
 
-One rule governs every frame. **The second and third consonants of a skeleton stand together only when the second is one of five; otherwise a short _a_ stands between them.** No frame can override it.
+One rule governs every frame. **The second and third consonants of a skeleton stand together only when the second is one of five; otherwise a short _a_ stands between them.** No frame can override it. The one exception is a bare frame, or a _hu-_ frame, that would end on _m_, _n_ or _s_ before _r_, _m_ or _n_: a short _u_ stands between them (_thamur_).
 
 ```sql
 SELECT CASE WHEN second = ['any'] THEN 'any other' ELSE array_to_string(list_transform(second, x -> '`' || x || '`'), ' ') END AS "Second consonant of the skeleton",
-       CASE WHEN "between" IS NULL THEN 'nothing: _dalk_, _thamr_' ELSE '`' || "between" || '`' || ': _kaval_' END AS "Between the second and third"
+       CASE WHEN "between" IS NULL THEN 'nothing: _dalk_, _ramk_' ELSE '`' || "between" || '`' || ': _kaval_' END AS "Between the second and third"
 FROM skeleton WHERE language = 'thalorna-note-skill-khazarlng' ORDER BY position
 ```
 
@@ -7130,31 +7130,31 @@ Poetic inversion is permitted and is immediately recognisable as poetry.
 
 ### Pronouns and particles
 
-| Form   | Class | Sense                                           |
-| ------ | ----- | ----------------------------------------------- |
-| `gaz`  | pron  | I                                               |
-| `ves`  | pron  | you                                             |
-| `vog`  | pron  | he, she, it                                     |
-| `gazn` | pron  | we                                              |
-| `vesn` | pron  | you (many)                                      |
-| `vogn` | pron  | they                                            |
-| `kedz` | dem   | this, these                                     |
-| `kodz` | dem   | that, those                                     |
-| `kelg` | dem   | here                                            |
-| `kolg` | dem   | there                                           |
-| `thuf` | part  | not; stands before the verb                     |
-| `zef`  | part  | closes a question                               |
-| `thiz` | part  | who? opens a question                           |
-| `thaz` | part  | what? opens a question                          |
-| `thuz` | part  | where? opens a question                         |
-| `bep`  | conj  | and                                             |
-| `duz`  | conj  | or                                              |
-| `gev`  | conj  | but                                             |
-| `hiz`  | conj  | if                                              |
-| `zi`   | rel   | who, which, that; opens a clause after its noun |
-| `nuv`  | part  | with, together with                             |
-| `lez`  | part  | also                                            |
-| `hez`  | part  | again                                           |
+| Form    | Class | Sense                                           |
+| ------- | ----- | ----------------------------------------------- |
+| `gaz`   | pron  | I                                               |
+| `ves`   | pron  | you                                             |
+| `vog`   | pron  | he, she, it                                     |
+| `gazun` | pron  | we                                              |
+| `vesun` | pron  | you (many)                                      |
+| `vogun` | pron  | they                                            |
+| `kedz`  | dem   | this, these                                     |
+| `kodz`  | dem   | that, those                                     |
+| `kelg`  | dem   | here                                            |
+| `kolg`  | dem   | there                                           |
+| `thuf`  | part  | not; stands before the verb                     |
+| `zef`   | part  | closes a question                               |
+| `thiz`  | part  | who? opens a question                           |
+| `thaz`  | part  | what? opens a question                          |
+| `thuz`  | part  | where? opens a question                         |
+| `bep`   | conj  | and                                             |
+| `duz`   | conj  | or                                              |
+| `gev`   | conj  | but                                             |
+| `hiz`   | conj  | if                                              |
+| `zi`    | rel   | who, which, that; opens a clause after its noun |
+| `nuv`   | part  | with, together with                             |
+| `lez`   | part  | also                                            |
+| `hez`   | part  | again                                           |
 
 The demonstratives take no suffix and stand before the noun and any adjective.
 
@@ -7179,24 +7179,24 @@ A question that asks who, what or where opens on _thiz_, _thaz_ or _thuz_ and ta
 
 Khazari counts in sixteens. Sixteen halves cleanly to eight, four, two and one, so ore, stores, gate-shares and lengths of course divide among houses by halving with no fraction left over, and a share is always a whole number of parts. Every number up to fifteen has a word of its own, and sixteen is _girm_. A larger number is said sixteens first and units after, the count of sixteens as a unit before _girm_, joined to the units by _bep_: thirty-seven is _zik girm bep zop_, "two sixteen and five", and a hundred is _nefk girm bep bozd_, "six sixteen and four". Sixteen sixteens is a great count, two hundred fifty-six, with a noun of its own in the [[skill-khazarlng#lexicon|Khazari Lexicon]], and a count of great counts is said the same way. A noun after a number above one takes the plural.
 
-| Word    | Value |
-| ------- | ----: |
-| `tob`   |     1 |
-| `zik`   |     2 |
-| `vem`   |     3 |
-| `bozd`  |     4 |
-| `zop`   |     5 |
-| `nefk`  |     6 |
-| `fozd`  |     7 |
-| `kabr`  |     8 |
-| `khozm` |     9 |
-| `zund`  |    10 |
-| `dolb`  |    11 |
-| `mazk`  |    12 |
-| `fegd`  |    13 |
-| `vunth` |    14 |
-| `thulk` |    15 |
-| `girm`  |    16 |
+| Word     | Value |
+| -------- | ----: |
+| `tob`    |     1 |
+| `zik`    |     2 |
+| `vem`    |     3 |
+| `bozd`   |     4 |
+| `zop`    |     5 |
+| `nefk`   |     6 |
+| `fozd`   |     7 |
+| `kabur`  |     8 |
+| `khozum` |     9 |
+| `zund`   |    10 |
+| `dolb`   |    11 |
+| `mazk`   |    12 |
+| `fegd`   |    13 |
+| `vunth`  |    14 |
+| `thulk`  |    15 |
+| `girm`   |    16 |
 
 The craft-records keep their own arithmetic in this count, and divide a measure of ore or a length of course into sixteenths.
 
@@ -7272,7 +7272,7 @@ Inter-stronghold communication is maintained through formal written records and 
 _Vog dalkir, vog rummák ramk_
 : "He is a mason; he lays the course as a master does" (an introduction, and a claim to competence)
 
-_Thamr, dank. Vald, varn._
+_Thamur, dank. Vald, varn._
 : "The blow, the hammer-fall; the binding, the true line" (a proverb: results follow method)
 
 _Dalkir sumág dalk, dalkir khusáp_
@@ -7303,8 +7303,8 @@ _Ramk tasím._
 
 **An invitation to share a meal**
 
-_Ves mulágh nuv gazn zef._
-: ves mu-LÁGH nuv gazn zef? — you · feast · with · us · (question) — "Will you share our meal?"
+_Ves mulágh nuv gazun zef._
+: ves mu-LÁGH nuv gazun zef? — you · feast · with · us · (question) — "Will you share our meal?"
 
 **"Are you thirsty?", and an answer**
 

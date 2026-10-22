@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-A half-day's row along the coast from [[place-vrathavn|Vrathavn]], past the last of the harbor headlands, a cape of black rock runs out into the cold water, and the crews of Vrathavn raise their stones on it. Every drowned man of the town and the coast has a carved stone on that cape if his kin could afford one, and the grave-ale for the lost is drunk there. Under the stones is a sea-cave, and in the cave is **Thraldholl**, the hall of the undertow: _thrald-_ is the pull of a current under calm water, with the generic for a great hall.
+A half-day's row along the coast from [[place-vrathavan|Vrathavan]], past the last of the harbor headlands, a cape of black rock runs out into the cold water, and the crews of Vrathavan raise their stones on it. Every drowned man of the town and the coast has a carved stone on that cape if his kin could afford one, and the grave-ale for the lost is drunk there. Under the stones is a sea-cave, and in the cave is **Thraldholl**, the hall of the undertow: _thrald-_ is the pull of a current under calm water, with the generic for a great hall.
 
 The hall is a long vault in the rock, open to the sea at the low ebb of the tide and sealed by it at the flood. A ship stands on a cradle of whale-ribs in the middle of the floor. Benches line the walls. The lamps along them burn rendered oil, which a crew of living servants brings in by the one dry stair, and under their light the oars of the ship are manned.
 
@@ -30,14 +30,14 @@ He found a teacher. The Helspawn lord [Thilmorv]{.name data-type="being/creature
 
 The dead at the oars are not ghosts. Each is a body the sea returned, kept in the cold and bound by the jarl's craft with a fragment of the soul dragged back from the spirit realm. The Nordmen name them for what they are, the _hafnár_, the dead who linger in the open sea, and every one of them carries the Shadow that holds an undead together. They row a ship that does not move. Their eyes are open, and the water runs out of them when they turn their heads.
 
-A name cut in rune-stone is a handle. The jarl calls the drowned by the names on the stones above the cave, which is why the stones of the cape have begun to be defaced by kin who cannot bear what they imply, and why a mother of Vrathavn will not say her drowned son's name aloud on a night of east wind.
+A name cut in rune-stone is a handle. The jarl calls the drowned by the names on the stones above the cave, which is why the stones of the cape have begun to be defaced by kin who cannot bear what they imply, and why a mother of Vrathavan will not say her drowned son's name aloud on a night of east wind.
 
 ## Who Knows of It
 
-- **The crews of Vrathavn** say the cape is bad ground and stay off it after dark. Crews that have lost a ship rarely raise a stone on it now.
+- **The crews of Vrathavan** say the cape is bad ground and stay off it after dark. Crews that have lost a ship rarely raise a stone on it now.
 - **The shield-maiden of [[place-shieldhall|the Shield-Hall]]** seals the honor-bonds of the crews, and she is asked by the bereaved to find out what became of the drowned. She does not have the warriors to spare for a cave she cannot reach on foot, and does not say so aloud.
 - **Fishermen who work the cape** have seen the cave mouth open on the lowest ebb and a skiff with two rowers go in. They do not describe the rowers.
-- **The skalds** who winter at Vrathavn sing a lament for the cape that every crew in the harbor knows, and they do not sing the last verse.
+- **The skalds** who winter at Vrathavan sing a lament for the cape that every crew in the harbor knows, and they do not sing the last verse.
 
 ## Reaching It
 
@@ -45,7 +45,7 @@ By boat on the low ebb, past the headland stones, through a mouth that clears th
 
 ## See Also
 
-[[place-vrathavn|Vrathavn]]
+[[place-vrathavan|Vrathavan]]
 : the harbor town that raises its stones on the cape
 
 [[place-shieldhall|The Shield-Hall]]

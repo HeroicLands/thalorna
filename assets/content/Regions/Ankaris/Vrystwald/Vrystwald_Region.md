@@ -44,7 +44,7 @@ The [[place-vrystwldrvrs|great river systems]]
 The **eastern frontier**
 : the fluid border with Velanthia, where Vristwaldi forest gives way gradually to Velanthian grain-belt and the two cultures meet in mixed villages, intermarriage, and intermittent raids.
 
-Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edrwald|Edrwald]] turns around the bay toward Élavendre; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
+Five reaches describe the forest's different contacts: [[place-falkhaven|Falkhaven]] faces the western shore and Nordmal frontier; [[place-edriwald|Edriwald]] turns around the bay toward Élavendre; [[place-thornwald|Thornwald]] meets Velanthia to the east; [[place-skathwald|Skathwald]] lies where Grukar nests grow more prevalent; and [[place-vandstein|Vandstein]] faces the southern highlands toward Vylaria. These are descriptions of ground and contact, not governments. [[place-vethwald|Vethwald]], the Deepwood, lies within the forest interior.
 
 The climate is harsh-continental: long bitter winters with deep snow, brief warm summers, distinct spring thaw and autumn freeze. Sunlight is filtered by the canopy through most of the year; the open river-valleys and the lake-shores get the direct sun the deep forest never sees.
 
@@ -157,21 +157,21 @@ The twenty named village notes are a small sample. This further roster gives six
 | Radstein                       | [[place-falkhaven\|Falkhaven]] |    230 | [[lore-falconttm\|falcon]]     | Other Chief  | A rocky hearing place settles boat debts.              |
 | [[place-sundhaven\|Sundhaven]] | [[place-falkhaven\|Falkhaven]] |    370 | [[lore-whalettm\|whale]]       | Shaman       | A stranded whale once fed it through a famine.         |
 | Wulfreth                       | [[place-falkhaven\|Falkhaven]] |    290 | [[lore-wolfttm\|wolf]]         | War Chief    | Its daughter clearing still disputes the old trapline. |
-| Domholt                        | [[place-edrwald\|Edrwald]]     |    280 | [[lore-badgerttm\|badger]]     | Shaman       | The oldest copse shelters a forbidden grave.           |
-| Druthhaven                     | [[place-edrwald\|Edrwald]]     |    430 | [[lore-goosettm\|goose]]       | Other Chief  | Boat crews leave pledges before crossing the bay.      |
-| Eichwald                       | [[place-edrwald\|Edrwald]]     |    260 | [[lore-stagttm\|stag]]         | Shaman       | Oak seedlings grow behind a defended hedge.            |
-| Ermgrund                       | [[place-edrwald\|Edrwald]]     |    340 | [[lore-deerttm\|deer]]         | Other Chief  | Several kin groups share its wet valley floor.         |
-| Frodstein                      | [[place-edrwald\|Edrwald]]     |    210 | [[lore-owlttm\|owl]]           | Shaman       | A weathered rock holds a memory of older rites.        |
-| Hildreth                       | [[place-edrwald\|Edrwald]]     |    380 | [[lore-crowttm\|crow]]         | War Chief    | It cut a new clearing after a feud over timber.        |
-| Othholt                        | [[place-edrwald\|Edrwald]]     |    450 | [[lore-rabbitttm\|rabbit]]     | Other Chief  | Its households argue over an inherited grove.          |
-| Radburg                        | [[place-edrwald\|Edrwald]]     |    320 | [[lore-boarttm\|boar]]         | War Chief    | A small timber ring protects the bay ford.             |
-| Ríkhaven                       | [[place-edrwald\|Edrwald]]     |    250 | [[lore-duckttm\|duck]]         | Other Chief  | The landing changes hands each fishing season.         |
-| Skaldwald                      | [[place-edrwald\|Edrwald]]     |    400 | [[lore-pigeonttm\|pigeon]]     | Shaman       | Its singers remember a lost shore path.                |
-| Thalhaven                      | [[place-edrwald\|Edrwald]]     |    290 | [[lore-troutttm\|trout]]       | Other Chief  | Freshwater and saltwater traders meet here.            |
-| Vithgrund                      | [[place-edrwald\|Edrwald]]     |    360 | [[lore-oxttm\|ox]]             | War Chief    | Its young men guard grain brought up from the south.   |
+| Domholt                        | [[place-edriwald\|Edriwald]]   |    280 | [[lore-badgerttm\|badger]]     | Shaman       | The oldest copse shelters a forbidden grave.           |
+| Druthhaven                     | [[place-edriwald\|Edriwald]]   |    430 | [[lore-goosettm\|goose]]       | Other Chief  | Boat crews leave pledges before crossing the bay.      |
+| Eichwald                       | [[place-edriwald\|Edriwald]]   |    260 | [[lore-stagttm\|stag]]         | Shaman       | Oak seedlings grow behind a defended hedge.            |
+| Ermgrund                       | [[place-edriwald\|Edriwald]]   |    340 | [[lore-deerttm\|deer]]         | Other Chief  | Several kin groups share its wet valley floor.         |
+| Frodstein                      | [[place-edriwald\|Edriwald]]   |    210 | [[lore-owlttm\|owl]]           | Shaman       | A weathered rock holds a memory of older rites.        |
+| Hildreth                       | [[place-edriwald\|Edriwald]]   |    380 | [[lore-crowttm\|crow]]         | War Chief    | It cut a new clearing after a feud over timber.        |
+| Othholt                        | [[place-edriwald\|Edriwald]]   |    450 | [[lore-rabbitttm\|rabbit]]     | Other Chief  | Its households argue over an inherited grove.          |
+| Radburg                        | [[place-edriwald\|Edriwald]]   |    320 | [[lore-boarttm\|boar]]         | War Chief    | A small timber ring protects the bay ford.             |
+| Ríkhaven                       | [[place-edriwald\|Edriwald]]   |    250 | [[lore-duckttm\|duck]]         | Other Chief  | The landing changes hands each fishing season.         |
+| Skaldwald                      | [[place-edriwald\|Edriwald]]   |    400 | [[lore-pigeonttm\|pigeon]]     | Shaman       | Its singers remember a lost shore path.                |
+| Thalhaven                      | [[place-edriwald\|Edriwald]]   |    290 | [[lore-troutttm\|trout]]       | Other Chief  | Freshwater and saltwater traders meet here.            |
+| Vithgrund                      | [[place-edriwald\|Edriwald]]   |    360 | [[lore-oxttm\|ox]]             | War Chief    | Its young men guard grain brought up from the south.   |
 | Balthhaven                     | [[place-thornwald\|Thornwald]] |    330 | [[lore-foxttm\|fox]]           | Other Chief  | A Velanthian family winters inside its gate.           |
 | Dagholt                        | [[place-thornwald\|Thornwald]] |    240 | [[lore-chickenttm\|chicken]]   | Shaman       | Dawn rites mark a grove shared by two kindreds.        |
-| Edrgrund                       | [[place-thornwald\|Thornwald]] |    470 | [[lore-cowttm\|cow]]           | Other Chief  | Its grazing rights cross the disputed frontier.        |
+| Edrigrund                      | [[place-thornwald\|Thornwald]] |    470 | [[lore-cowttm\|cow]]           | Other Chief  | Its grazing rights cross the disputed frontier.        |
 | Falkreth                       | [[place-thornwald\|Thornwald]] |    300 | [[lore-falconttm\|falcon]]     | War Chief    | Scouts watch the grain fields from its clearing.       |
 | Garstein                       | [[place-thornwald\|Thornwald]] |    280 | [[lore-hawkttm\|hawk]]         | War Chief    | Its rock shelters an ambush path to the river.         |
 | Hárhaven                       | [[place-thornwald\|Thornwald]] |    420 | [[lore-goosettm\|goose]]       | Other Chief  | Two markets bargain under a temporary truce.           |
@@ -356,7 +356,7 @@ The Common Council
 [[place-nrdlndsrgn|Nordlands Region]]
 : western neighbor
 
-[[place-edrwald|Edrwald]]
+[[place-edriwald|Edriwald]]
 : the bayward forest facing [[place-elavendre|Elavendre]]
 
 [[place-vrystwldrvrs|Vristwald Rivers]]

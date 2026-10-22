@@ -33,7 +33,7 @@ The _hrum_ (howe) is the barrow raised over a grave, and it is a claim as well a
 
 The rite follows the person's standing and the manner of their death, and the north is exact about it.
 
-- **The honored dead.** A warrior fallen in battle, an oath-keeper who died keeping the oath, a mother who died in childbirth and a craftsman who fell defending his work are burned or buried with a warrior's honors, the mother and the craftsman as much as the warrior, because the halls of [[place-valsal|Valsal]] and [[place-solvangr|Solvangr]] take all four.
+- **The honored dead.** A warrior fallen in battle, an oath-keeper who died keeping the oath, a mother who died in childbirth and a craftsman who fell defending his work are burned or buried with a warrior's honors, the mother and the craftsman as much as the warrior, because the halls of [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]] take all four.
 - **The free.** The pyre, the clay pot and a stone setting or a howe, as the household can afford.
 - **The great.** The ship and the howe over it, or the ship set burning on the water.
 - **A thrall.** Buried in the ground without a pyre, near the hall he served; a master who honors a good thrall puts a tool in the grave with him.

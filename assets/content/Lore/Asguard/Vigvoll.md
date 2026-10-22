@@ -8,7 +8,7 @@ tags: [asguardian]
 data: {demonym: null, lore: [], parents: [], population: null, packFolder: settinglore}
 ---
 
-The last place a skald names on the last night of [[lore-jol|Jel]] is a field, and the hall goes quiet for it. **Vigvoll** is the plain where the defending gods and the [[lore-valdrengir|Valdrengir]] muster at [[lore-aldarlok|Aldarlok]]. [[place-valsal|Valsal]] and [[place-solvangr|Solvangr]] empty onto it, and the honored dead draw up in one line beside the gods for the final battle.
+The last place a skald names on the last night of [[lore-jol|Jel]] is a field, and the hall goes quiet for it. **Vigvoll** is the plain where the defending gods and the [[lore-valdrengir|Valdrengir]] muster at [[lore-aldarlok|Aldarlok]]. [[place-valsal|Valsal]] and [[place-solvangur|Solvangur]] empty onto it, and the honored dead draw up in one line beside the gods for the final battle.
 
 The Asguardian telling is blunt about what the field offers. The defenders know the muster fails and gather anyway, and Vigvoll is the appointed place where that defiance is made. A rune-priest who teaches it adds no promise to the lesson, because the field promises no triumph to anyone who stands on it.
 
@@ -23,5 +23,5 @@ The Asguardian telling is blunt about what the field offers. The defenders know 
 [[place-valsal|Valsal]]
 : the region that sends half of them
 
-[[place-solvangr|Solvangr]]
+[[place-solvangur|Solvangur]]
 : the region that sends the other half

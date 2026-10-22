@@ -415,7 +415,7 @@ Experienced, authoritative, strong sense of duty.
 
 ## Social
 
-Hrundmil holds his post under the Tingward, the _Tingvordr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Landvordr, the king's reeve.
+Hrundmil holds his post under the Tingward, the _Tingvordr_, the sworn men who keep the ting-peace within Knalthstead's walls, and answers to the Landvordur, the king's reeve.
 
 ## Companions
 

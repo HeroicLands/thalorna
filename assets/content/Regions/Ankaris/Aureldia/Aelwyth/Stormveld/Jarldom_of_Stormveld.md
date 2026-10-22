@@ -25,8 +25,8 @@ data:
         description: >-
           Owned outright rather than born free, owing labor itself rather than rent, and holding no voice when the moot decides.
       - level: 2
-        title: Lidmadr
-        lore: lidmadrrnk
+        title: Lidmadur
+        lore: lidmadurrnk
         description: >-
           Free but answering through a following rather than a clan, so his word carries no weight on the moot's floor until some captain or former master vouches for him.
       - level: 3

@@ -3,7 +3,7 @@ shortcode: hnarvir
 name: {full: Hnarvir, aliases: []}
 type: being
 subType: npc
-description: A promising young warrior raised in the fortress and treated as Gnurthselda Hafringr's unofficial successor.
+description: A promising young warrior raised in the fortress and treated as Gnurthselda Hafringur's unofficial successor.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Hnarvir is a 24-year-old man who stands 5'9" tall with a heavy build. He has tan
 
 # Dossier {#dossier}
 
-Hnarvir is a promising young warrior raised in the fortress and treated as [[being-gnrthsldhfrngr|Gnurthselda Hafringr]]'s unofficial successor. [[being-knarvmylkral|Knarvmil]] holds his younger sister's debt-contract.
+Hnarvir is a promising young warrior raised in the fortress and treated as [[being-gnrthsldhfrngr|Gnurthselda Hafringur]]'s unofficial successor. [[being-knarvmylkral|Knarvmil]] holds his younger sister's debt-contract.

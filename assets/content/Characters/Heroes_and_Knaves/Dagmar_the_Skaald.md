@@ -13,7 +13,7 @@ data:
   lore: []
   culture: nordheimnclt
   homes: [flarnbrekka]
-  affiliations: {kingdmnrgd: {rank: 2}, svartbrandr: {rank: 1}}
+  affiliations: {kingdmnrgd: {rank: 2}, svartbrandur: {rank: 1}}
   gender: male
   species: humanflk
   born: "690.36"

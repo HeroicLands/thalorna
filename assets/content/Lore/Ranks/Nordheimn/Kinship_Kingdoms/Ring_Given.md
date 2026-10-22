@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The ring a king gives is a seat in his hall: the huscarl who holds one is heard before a common bundi, and in return the service he swore stays sworn. The king's Hringvordr, who keeps the rings the king gives, puts it to a huscarl newly sworn in just those words.
+The ring a king gives is a seat in his hall: the huscarl who holds one is heard before a common bundi, and in return the service he swore stays sworn. The king's Hringvordur, who keeps the rings the king gives, puts it to a huscarl newly sworn in just those words.
 
 ## What This Standing Is
 

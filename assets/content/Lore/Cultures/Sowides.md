@@ -9,7 +9,7 @@ data:
   calendar: lore-swdsclndr
   language: skill-sowideslng
   glossary:
-    - name: "keedok"
+    - name: "kedok"
       definition: "A blood-field: ground where many died at once and none received their rite"
       common: true
     - name: "orkun"
@@ -24,7 +24,7 @@ data:
     - name: "sovid"
       definition: "A rider of a tribe who travels with a caravan across the tribe's range and answers for it"
       common: true
-    - name: "veesuk"
+    - name: "vesuk"
       definition: "A thin blood-field, where the hunters cross and kill"
       common: true
     - name: "hand-off well"

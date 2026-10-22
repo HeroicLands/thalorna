@@ -26,7 +26,7 @@ A garrison town needs what a market town does not, and Tvalgard has it. [[being-
 
 ## The Sword Behind the Seat
 
-The hall is said to hold [Vrellbrandr]{.name data-type="weapongear"}, the blood-brand, behind the king's seat, its hilt and scabbard bound together with nine knots that are checked each morning. [[lore-trgdahstry|Histories and Legends of Targud]] gives the tale and the two ways skalds read it.
+The hall is said to hold [Vrellbrandur]{.name data-type="weapongear"}, the blood-brand, behind the king's seat, its hilt and scabbard bound together with nine knots that are checked each morning. [[lore-trgdahstry|Histories and Legends of Targud]] gives the tale and the two ways skalds read it.
 
 ## What the Town Argues About
 

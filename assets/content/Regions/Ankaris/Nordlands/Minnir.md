@@ -76,7 +76,7 @@ the drinking is finished.
 
 The answer is death;
 the death is his own.
-Vetrúlfr waits
+Vetrúlfur waits
 in the last of his knowing.
 The Winter-Wolf comes
 when the binding breaks.
@@ -267,7 +267,7 @@ its companies for battle.
 Odvar goes forth
 to the field he foresaw.
 The wolf will take him;
-his son will take Vetrúlfr.
+his son will take Vetrúlfur.
 So runs the telling;
 so the songs remember.
 The age will burn;

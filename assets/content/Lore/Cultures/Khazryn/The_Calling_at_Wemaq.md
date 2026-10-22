@@ -68,7 +68,7 @@ and that was not the thing to have read. He was not spared.
 Shamans are not killed. Children are not killed. Women are not killed.
 That is the custom of a raid. It was not a raid. We say what it was.
   _It was not a raid._
-Vooyerlun, who was the dovaq's second wife, who was carrying,
+Voyerlun, who was the dovaq's second wife, who was carrying,
 and who was found in the grass with her hands over the child under her heart,
 and who is one name, and the child is no name, and we call the one.
 A boy of the Khuvanur, fifteen, who had his first spear that year

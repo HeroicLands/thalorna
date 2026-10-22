@@ -60,7 +60,7 @@ data:
       kind: treaty
       depth: region
       stated: {calendar: domseycount, text: "232 HF"}
-      sources: [lore-nrdhmhstry, lore-nordheimnclt, place-domsey, lore-vetrnaetr]
+      sources: [lore-nrdhmhstry, lore-nordheimnclt, place-domsey, lore-veturnetur]
       summary: >-
         At the thirty-fourth sitting on Domsey, the first after the famine, King Bruldmil of Nordheim and the four kings swear at the law-rock that no hall shall send its old to the fell while another hall has bread. The Skalds' Circle teaches the oath as history; the skalds of Hliskvir's school decline it, and say the tale gives a shape to a duty older than the famine.
       standing: disputed
@@ -69,7 +69,7 @@ data:
         locus: [place-domsey]
         reach:
           - place: place-nrdlndsrgn
-            how: every hall seats its honored old by the door at Vetrnetr and serves them first
+            how: every hall seats its honored old by the door at Veturnetur and serves them first
             knowledge: named
       who: [{ref: affiliation-kngdmnrdhm, role: actor}]
       follows:
@@ -86,7 +86,7 @@ data:
       unresolved: ["whether the oath was sworn in the words the Circle recites, or at all"]
 ---
 
-At [[lore-vetrnaetr|Vetrnetr]] in every hall of the north, the steward seats the household's old by the door and serves them before the jarl, and the first time a fosterling sees it done he asks why the honored seat is the cold one nearest the way out. The answer is **the Three Winters**, and it is the north's best-known shame.
+At [[lore-veturnetur|Veturnetur]] in every hall of the north, the steward seats the household's old by the door and serves them before the jarl, and the first time a fosterling sees it done he asks why the honored seat is the cold one nearest the way out. The answer is **the Three Winters**, and it is the north's best-known shame.
 
 ## The Winters That Ran Together
 
@@ -100,11 +100,11 @@ The famine reached the forest. In [[place-vrystwald|Vristwald]] the stores faile
 
 The first sitting after the famine fell in 518, the thirty-fourth by [[lore-domseycount|the Domsey count]]. King [Bruldmil]{.name data-type="being/npc"} of [[affiliation-kngdmnrdhm|Nordheim]], who had been king through all three winters and had sent his own grain west to Vithgard in the second of them, came to the island with the other four kings, and at the law-rock, the [[affiliation-skaldscrcl|Skalds' Circle]] says, they swore together that no hall should send its old to the fell while another hall had bread. The Circle recites the oath in fixed words and teaches it as history. The skalds of [Hliskvir]{.name data-type="being/npc"}'s school decline it: they say the tale gives a shape to a duty older than the famine, that the words were made by a skald a generation later, and that five kings who had each let halls starve would not have sworn anything that named what they had done. The culture note says the plainer thing, that the obligation of kin to feed their old depends on nobody proving the oath.
 
-What is not disputed is the door-seat. From that generation on, the steward of every hall seats the honored old by the door at Vetrnetr and serves them first, and a hall that cannot provision its elders goes to its kin and its neighbors for help, which enters [[lore-kinhalcrdt|hall credit]] and diminishes a house that leaves it unpaid. The seat nearest the way out became the seat of honor because that is the way the old had gone.
+What is not disputed is the door-seat. From that generation on, the steward of every hall seats the honored old by the door at Veturnetur and serves them first, and a hall that cannot provision its elders goes to its kin and its neighbors for help, which enters [[lore-kinhalcrdt|hall credit]] and diminishes a house that leaves it unpaid. The seat nearest the way out became the seat of honor because that is the way the old had gone.
 
 ## What It Left
 
-- **The svelthfell.** A cliff above Marvstead with small frost-split cairns at its foot, where kin with a grandmother's name in the argument still go at Vetrnetr.
+- **The svelthfell.** A cliff above Marvstead with small frost-split cairns at its foot, where kin with a grandmother's name in the argument still go at Veturnetur.
 - **The door-seat.** Kept in every hall, whatever the skalds say about the oath.
 - **The crying child.** Travelers on the [[place-nalthmark|Nalthmark]] road hear a child between the last farm and the forest, and the tale places it in these winters, left unnamed when its mother's food failed.
 - **The fleets.** The famine sent every hull in the north south within five years ([[lore-southrnfleets|The Southern Fleets]]), and the shame of the fell is the reason the skalds give for the ferocity of what followed.

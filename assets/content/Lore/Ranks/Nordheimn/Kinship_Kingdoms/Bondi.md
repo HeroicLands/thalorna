@@ -28,7 +28,7 @@ He answers the muster when it is called and pays the dues his kingdom sets. Wher
 
 ## Offices Open at This Standing
 
-A hersvald's muster, a landvordr's witness at a mark-walk, and a hirvman's oath—the last of which raises him to [[lore-hringberirnk|Hringberi]], because the ring a hirvman takes comes with the higher standing.
+A hersvald's muster, a landvordur's witness at a mark-walk, and a hirvman's oath—the last of which raises him to [[lore-hringberirnk|Hringberi]], because the ring a hirvman takes comes with the higher standing.
 
 ## Where This Standing Is Held
 

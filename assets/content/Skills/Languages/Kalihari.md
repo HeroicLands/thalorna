@@ -663,7 +663,7 @@ Five distinct vowels, each pronounced with clarity and sometimes elongated for e
 - **O** (mid, back)—rounded, warm
 - **U** (high, back)—rounded, distant
 
-**Diphthongs** are common and meaningful, especially AE, OA, EI, OU—these are true two-vowel combinations, not glides, and carry semantic weight. A word like "ithavao" contains three diphthongs (i-tha, va-o) distributed across its syllables.
+**Diphthongs** are common and meaningful. _ai_, _ei_ and _ao_ are one syllable each; other vowels side by side are said apart. A word like "ithavao" contains three diphthongs (i-tha, va-o) distributed across its syllables.
 
 ### Stress and Prosody
 

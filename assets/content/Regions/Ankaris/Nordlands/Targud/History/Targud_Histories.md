@@ -3,20 +3,20 @@ shortcode: trgdahstry
 name: {full: Histories and Legends of Targud, aliases: []}
 type: lore
 subType: history
-description: "Targud's frontier memory and the disputed tale of Vrellbrandr, the sword bound behind its king's seat."
+description: "Targud's frontier memory and the disputed tale of Vrellbrandur, the sword bound behind its king's seat."
 tags: []
 data:
   culture: nordheimnclt
   packFolder: targud
   events:
-    - id: vrellbrandr
+    - id: vrellbrandur
       when: ~590
       kind: making
       depth: region
       stated: {calendar: domseycount, text: "304 BG"}
       sources: [lore-trgdahstry, place-tvalgard]
       summary: >-
-        The story of Vrellbrandr, the sword that must drink when drawn, places its making before the east burned; the sword's tellers say it hangs bound with nine knots behind the king's seat at Tvalgard.
+        The story of Vrellbrandur, the sword that must drink when drawn, places its making before the east burned; the sword's tellers say it hangs bound with nine knots behind the king's seat at Tvalgard.
       standing: legendary
       names: [{name: Thirst, by: affiliation-kingdmtrgd}]
       where: {locus: [place-targud]}
@@ -44,13 +44,13 @@ frontier's history, not evidence of a peace bought from a nest.
 
 ## The Kingdom's Past
 
-[[affiliation-kingdmtrgd|Targud]] was a kingdom of farms before it was a kingdom of forts. Its kings, the [Driskaruk]{.name data-type="affiliation/lineage"}, held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [Skruldmil I]{.name data-type="being/npc"}, about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hirv and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangr|Dvulgvangr]] and died there, and [Skruldmil II]{.name data-type="being/npc"} fell back to [[place-tvalgard|Tvalgard]] and ordered every bundi in the kingdom onto the wall in turn; [[lore-burningeast|the Burning of the East]] tells it. His son [Braldmil I]{.name data-type="being/npc"} raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Storald of Draskborg]] remembers from the other end.
+[[affiliation-kingdmtrgd|Targud]] was a kingdom of farms before it was a kingdom of forts. Its kings, the [Driskaruk]{.name data-type="affiliation/lineage"}, held their hall at [[place-nulthgard|Nulthgard]] above a ford in the old eastern districts for three centuries, and [Skruldmil I]{.name data-type="being/npc"}, about 528 to 556, raised the first watchtowers along the eastern woods when the Grukar raids grew bold. From 604 a single Grukar tribe spawned for war burned the east district by district, and in 613 it reached Nulthgard. The hirv and the eastern farmers held the ford below the hall for three days at [[place-dvulgvangur|Dvulgvangur]] and died there, and [Skruldmil II]{.name data-type="being/npc"} fell back to [[place-tvalgard|Tvalgard]] and ordered every bundi in the kingdom onto the wall in turn; [[lore-burningeast|the Burning of the East]] tells it. His son [Braldmil I]{.name data-type="being/npc"} raised [[place-driskborg|Draskborg]] and the beacon line about 640, which the saga of [[lore-storalddraskborg|Storald of Draskborg]] remembers from the other end.
 
 Three kings have held Tvalgard since 686: [Skruldmil III]{.name data-type="being/npc"}, his short-lived son [Thraldvir]{.name data-type="being/npc"}, and [Braldmil II]{.name data-type="being/npc"}, king since 707. The court has had three accessions in a generation and the frontier has had none of the peace a settled succession buys.
 
 ## The Sword Named Thirst
 
-The [[place-tvalgard|Tvalgard]] hall is said to hold [Vrellbrandr]{.name data-type="weapongear"}, the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
+The [[place-tvalgard|Tvalgard]] hall is said to hold [Vrellbrandur]{.name data-type="weapongear"}, the blood-brand, a sword its tellers call Thirst, behind the king's seat. In the
 story its hilt and scabbard are bound together with nine knots, checked each morning. Its making is
 placed before the land to the east was burned, about 590. A teller warns that it must drink when drawn or turn
 on the one who draws it. One older king's kinsman is said to have spared his own men by killing a
@@ -65,5 +65,5 @@ frontier's pressure must decide what it would mean to find the knots cut.
 
 - [[affiliation-kingdmtrgd|Kingdom of Targud]] · [[place-targud|Targud]]
 - [[place-grkrhlmrgn|Grukarholm]] · [[lore-aldarlok|Aldarlok]]
-- [[lore-burningeast|The Burning of the East]] · [[place-nulthgard|Nulthgard]] · [[place-dvulgvangr|Dvulgvangr]]
+- [[lore-burningeast|The Burning of the East]] · [[place-nulthgard|Nulthgard]] · [[place-dvulgvangur|Dvulgvangur]]
 - [[lore-domseycount|The Domsey Count]]—the reckoning of the sittings and the ages of the north

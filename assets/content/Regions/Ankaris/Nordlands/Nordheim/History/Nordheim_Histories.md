@@ -15,7 +15,7 @@ no record of Nordheim's law or institutions.
 
 ## The Kingdom's Past
 
-[[affiliation-kngdmnrdhm|Nordheim]] counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the [Knalthidrok]{.name data-type="affiliation/lineage"} have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. [Svalthorv]{.name data-type="being/npc"}, the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Domsey]] at the first sitting in 287. His son [Snilthorv]{.name data-type="being/npc"} took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|the First Sitting on Domsey]] tells. A quarrel over the succession of the fifth king opened [[lore-nordkinwars|the Kin-Wars]] with [[affiliation-kingdomlgn|Malagna]] about 420, and two generations later [Thrildorv]{.name data-type="being/npc"} held the Nordheim shore of [[place-skalfvatn|Skalfvatn]] while the Malagnan host went through the ice in 466.
+[[affiliation-kngdmnrdhm|Nordheim]] counts its kings from the hall at [[place-knalthstead|Knalthstead]], where the [Knalthidrok]{.name data-type="affiliation/lineage"} have held the crown since the hall-lords of the western fjords first raised one of their own over the rest. [Svalthorv]{.name data-type="being/npc"}, the first king the ting acclaimed, about 270, died on the strand of [[place-domsey|Domsey]] at the first sitting in 287. His son [Snilthorv]{.name data-type="being/npc"} took the island's keeping in place of a wergild nobody else could pay, and every king of Nordheim since has convened the sittings by that right, as [[lore-nordfirstsit|the First Sitting on Domsey]] tells. A quarrel over the succession of the fifth king opened [[lore-nordkinwars|the Kin-Wars]] with [[affiliation-kingdomlgn|Malagna]] about 420, and two generations later [Thrildorv]{.name data-type="being/npc"} held the Nordheim shore of [[place-skalfvatan|Skalfvatan]] while the Malagnan host went through the ice in 466.
 
 [Bruldmil]{.name data-type="being/npc"} was king through [[lore-threewinters|the Three Winters]] of 512 to 514, and at the sitting of 518 he swore the oath told below. His son [Thraskmil]{.name data-type="being/npc"} sent the hulls south the next spring ([[lore-southrnfleets|The Southern Fleets]]), and the church silver in the royal howes at Knalthstead came home with them. [Vruthorv]{.name data-type="being/npc"} sent the fleets of three kingdoms over the water in 660 and made [[lore-stormveldtkn|the Taking of Stormveld]], and the jarls who hold that plain are Nordheim kin.
 
@@ -69,7 +69,7 @@ there was one, unnamed; it cannot undo the court's refusal to treat a dream as p
 
 ## The Mothers under the Stones
 
-At [[place-horgsvangr|Horgsvangr]], women speak of the _hrúmsmodir_: mothers of the older clans laid beneath the stones. They
+At [[place-horgsvangur|Horgsvangur]], women speak of the _hrúmsmodir_: mothers of the older clans laid beneath the stones. They
 credit these dead with keeping a household's luck. The winter-night observance associated with them
 is kept among women, beyond the public rites of the gudar. Men know that it is held but do not claim
 to know what happens there. The belief says what the living ask of their foremothers; it does not

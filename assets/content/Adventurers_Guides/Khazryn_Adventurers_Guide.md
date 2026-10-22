@@ -83,7 +83,7 @@ Other ruins belong to no story anyone tells. The caverns of [[place-ruweq|Uruvaq
 
 ## The Four Blood Lands
 
-A keedok (blood-field) is ground where a great many died at once and nobody performed their rite. Four are known. Two are veesuk (thin blood-fields), where the hunters the tribes call [[being-yiqnotud|Yiqnotud]] cross in half-material form and kill.
+A kedok (blood-field) is ground where a great many died at once and nobody performed their rite. Four are known. Two are vesuk (thin blood-fields), where the hunters the tribes call [[being-yiqnotud|Yiqnotud]] cross in half-material form and kill.
 
 - [[place-jilaq|Jilaq]], chief of the Tower Cities, was killed by the first orkun about 190 BF. Its towers light themselves on still nights, and the road bends three days south round it.
 - [[place-qimod|Qiimod]], a caravan town on the spur, died in its market week about 548 AF. No sound carries in its lanes, no fire stays lit, and whoever sleeps inside is taken by the throat.

@@ -13,7 +13,7 @@ data:
   borders: [{to: falkensten, bearing: W}]
   routes:
     - {to: falkensten, bearing: W, mode: land, days: 3, terrain: [track, forest]}
-    - {to: edrhaven, bearing: E, mode: land, days: 5, terrain: [track, forest]}
+    - {to: edrihaven, bearing: E, mode: land, days: 5, terrain: [track, forest]}
   government: vrystwldvlgcncl
   packFolder: vrystwald
 ---
@@ -29,7 +29,7 @@ The Shaman holds the strongest of the village's three seats, but the other two e
 [[place-falkhaven|Falkhaven]]
 : the reach around the village
 
-[[place-falkensten|Falkenstein]] and [[place-edrhaven|Edrhaven]]
+[[place-falkensten|Falkenstein]] and [[place-edrihaven|Edrihaven]]
 : neighboring villages reached by forest tracks
 
 [[affiliation-vrystwldtrbs|Vristwald Tribes]]
