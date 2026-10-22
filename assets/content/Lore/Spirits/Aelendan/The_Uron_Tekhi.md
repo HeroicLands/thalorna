@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "The spirit seated in an ancient tree of the Silver Forests—old, awake, and not certainly of the mortal world."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind
@@ -22,6 +22,9 @@ Posture
 
 Met through
 : [[skill-uronsprt|The Uron Tekhi Spirit Power]]
+
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
 
 The Uron Tekhi is the oldest Kindred the [[lore-aelendnppl|Áelendan]] deal with, and the one they are least
 certain about. Shamen count it place-kin, since it holds a clearing and does not leave it. They

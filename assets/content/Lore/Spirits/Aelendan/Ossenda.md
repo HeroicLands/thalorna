@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Owl-spirit of the Owl Hollow—keeper of what is spoken at night, and the Kindred shamen consult about the dead."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind
@@ -23,7 +23,10 @@ Posture
 Met through
 : [[skill-ossendasprt|Óssenda Spirit Power]]
 
-Óssendapresides over the owls of the wood in the Owl Hollow, and over a narrower thing
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
+
+Óssenda presides over the owls of the wood in the Owl Hollow, and over a narrower thing
 besides: what is said aloud at night within her territory. The [[lore-aelendnppl|Áelendan]] of the surrounding country are careful
 speakers after dark, not from fear of her but because she is understood to be listening and to
 remember.

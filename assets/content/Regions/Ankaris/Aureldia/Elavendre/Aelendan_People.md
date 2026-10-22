@@ -4,11 +4,14 @@ name: {full: Áelendan People, aliases: [People of the Pact]}
 type: lore
 subType: folk
 description: "Mountain dwellers who preserve the ancestral Pelwar ways and hold sacred pact with the land itself through unwritten tradition, ritual, and kinship with fae beings."
-data: {packFolder: elavendre, culture: sinaleclt}
+data: {packFolder: elavendre, culture: aelendanclt}
 ---
 
 Parent realm
 : [[place-elavendre|Élavendre]]
+
+Culture
+: [[lore-aelendanclt|Áelendan]]
 
 Related peoples
 : [[lore-pelwarpepl|Pelwar People]] (ancestral), [[lore-flksinale|Sinale]] (neighbors)
@@ -23,21 +26,17 @@ The **Áelendan People**—also known as the **People of the Pact**—are a sub-
 
 ## The Kindred Pact
 
-The name "People of the Pact" refers to an ancient compact that the Áelendan believe binds them to the land itself—a sacred relationship with the forests, mountains, and waters of central Élavendre that their forebears entered into at the dawn of Pelwar settlement. The specifics of the [Kindred Pact]{.name data-type="lore/law"} are not written down; they are transmitted through oral tradition, sung across generations, and enacted through the seasonal rituals that mark Áelendan life. To the Áelendan, the Kindred Pact is not metaphor. It is the operating agreement by which their communities remain in good standing with the land and its spirits. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nelgan]]), and the pact was first sung at the lowest pool of [[place-longstair|the Long Stair]] in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]).
+The name "People of the Pact" refers to the [Kindred Pact]{.name data-type="lore/law"}, the unwritten compact that the Áelendan believe binds them to the land itself, transmitted through oral tradition and enacted through the seasonal rituals that mark Áelendan life. The people came over the eastern pass in the snow ([[lore-nelgancross|The Crossing of Nelgan]]), and the pact was first sung at the lowest pool of [[place-longstair|the Long Stair]] in the generation that followed ([[lore-lowestpoolpct|The Pact at the Lowest Pool]]). What the Pact means to them, and the spiritual tradition it sits within, is in [[lore-aelendanclt#the-pact-and-the-old-way|the Áelendan culture note]].
 
 ## Culture and Society
 
-Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan place extraordinary value on continuity—of language, of custom, of relationship with place—and they view the rapid cultural change that characterizes the lowland Élavendri with a mixture of affection and unease.
-
-The Áelendan are very conservative, and the conservatism is close to the defining trait of the people. Their language and their writing systems have not changed in hundreds of years.
+Áelendan communities are organized tribally, with authority vested in councils of elders rather than hereditary nobility. Leadership is earned through demonstrated wisdom, skill in the old ways, and service to the community. The Áelendan are [[lore-aelendanclt|deeply conservative]], almost to the point of it defining them, and their beliefs, mores and obligations are described in [[lore-aelendanclt|the Áelendan culture note]].
 
 The Áelendan speak [[skill-aelendlng|Áelendi]], a Proto-Pelwar tongue heavily influenced by Sinale, with many Sinale loanwords; they do not speak Sinale. They write it in the [[skill-clthndscrpt|Veldikko]], and carve in the [[skill-thrvrdhscrpt|Thurarth]] runes. See [[skill-aelendlng|Áelendi Language]] for linguistic details.
 
 ## Relationship with the Élavendri
 
-The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect. The Élavendri hold the Áelendan in fond, respectful regard as their ancestor people, an old culture that keeps the old ways, and the crown of [[affiliation-kngdmlvndr|Élavendre]] protects Áelendan tribal areas by law. Áelendan ways and sacred sites are respected, and the kingdom's courts will act against anyone who encroaches on tribal lands. The Áelendan, for their part, acknowledge the kingdom without submitting to it—they govern themselves by their own customs and answer to their own elders.
-
-Élavendri noble houses go to great lengths to trace their ancestry back to the Áelendan, and a demonstrable connection to the old blood is a source of immense prestige. Whether all such claims are genuine is another matter entirely.
+The relationship between the Áelendan and the settled [[lore-elavendrnppl|Élavendri]] is one of mutual respect, and the crown of [[affiliation-kngdmlvndr|Élavendre]] protects Áelendan sacred ground by law ([[lore-aelendanclt#the-elavendri|the Élavendri]]).
 
 ## Relationship with the Sinale
 
@@ -54,9 +53,9 @@ Council of Elders
 Tradition Keepers
 : Specialist memorizers who hold the unwritten Kindred Pact, the tribal songs, and the genealogies. Training to become a Tradition Keeper begins in childhood and continues across decades.
 
-## Territories
+## Where They Live
 
-Áelendan territory encompasses the mountainous interior of Élavendre, with particular concentration around sites sacred to the Kindred Pact:
+The Áelendan live in the mountainous interior of Élavendre, most thickly around the sites sacred to the Kindred Pact. They claim no land and own none ([[lore-aelendanclt#land-that-is-not-owned|Land That Is Not Owned]]), and they defend the sacred sites fiercely:
 
 [[place-drenavrspn|The Drenavar Spine]]
 : Sacred mountain range at the heart of Áelendan territory
@@ -87,8 +86,11 @@ records of the northern interior are notably thin on what became of several of t
 
 ## See Also
 
+[[lore-aelendanclt|Áelendan]]
+: The culture: the Pact, the Old Way and what a person owes
+
 [[place-elavendre|Élavendre]]
-: The kingdom within which Áelendan territory lies
+: The kingdom in whose interior the Áelendan live
 
 [[skill-aelendlng|Áelendi]]
 : The ancestral Pelwar tongue of the Áelendan

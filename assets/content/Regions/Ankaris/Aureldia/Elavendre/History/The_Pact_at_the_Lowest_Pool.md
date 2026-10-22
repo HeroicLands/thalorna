@@ -6,7 +6,7 @@ subType: history
 description: "About 1350 BF the Áelendan, after Dhargan had sat four days at the wood's edge and asked, were taught the Long Stair's rules, made their first pact with the river-mother Sálenda at the lowest pool, and set the watch on the fog-hollow that became the Wardens."
 tags: [history]
 data:
-  culture: elavendriclt
+  culture: aelendanclt
   packFolder: elavendre
   events:
     - when: ~-1350

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Bear-spirit of the high corries—warded against in winter and venerated in summer, the same spirit both times."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind
@@ -23,7 +23,10 @@ Posture
 Met through
 : [[skill-urnelsprt|Urnel Spirit Power]]
 
-Urnelis the clearest case in [[lore-aelendnppl|Áelendan practice]] of a single Kindred requiring two postures, and
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
+
+Urnel is the clearest case in [[lore-aelendnppl|Áelendan practice]] of a single Kindred requiring two postures, and
 shamen use him to teach it. Between the first hard frost and the thaw he is warded against: the
 corries are not entered, the protective songs are carried by anyone who must pass below them, and
 a tribe that loses someone up there in winter does not go to look.

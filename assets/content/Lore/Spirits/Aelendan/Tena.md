@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Hearth-kin of the great hall at Ésalosa—the oldest tended fire in Áelendan country, keeper of guest-right, and the one Kindred that came into being because people kept returning."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind

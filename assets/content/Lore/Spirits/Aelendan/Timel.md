@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Hawk-spirit of the high Drenavar air—distant, exact about its crags, and the Kindred consulted about weather and distance."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind
@@ -23,7 +23,10 @@ Posture
 Met through
 : [[skill-tipelsprt|Timel Spirit Power]]
 
-Timelholds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
+
+Timel holds the high air over the Drenavar Spine and the crags its hawks nest in. Of the named
 animal-kin he is the most distant: he does not deal with the tribes at their lodges, he is not
 addressed at the hearth, and he is met by going up.
 

@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "Fox-spirit of the lower wood—a thief, a bargainer, and the one Kindred that will renegotiate."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind
@@ -23,7 +23,10 @@ Posture
 Met through
 : [[skill-kiltassprt|Kiltas Spirit Power]]
 
-Kiltasholds the lower wood where the forest thins into field-edge and midden, which is to say
+Tradition
+: [[affiliation-theoldway|The Old Way]], the [[lore-aelendanclt#the-pact-and-the-old-way|Áelendan]] Pact tradition
+
+Kiltas holds the lower wood where the forest thins into field-edge and midden, which is to say
 the ground where the [[lore-aelendnppl|Áelendan]] and the wild are most mixed up with one another. He is
 correspondingly the least dignified of the named Kindred and the most frequently dealt with.
 

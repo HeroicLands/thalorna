@@ -5,7 +5,7 @@ type: affiliation
 subType: order
 description: "Ancient protective order guarding sacred sites and fae-touched lands against violation, answering only to tribal tradition and the Kindred Pact itself."
 data:
-  culture: elavendriclt
+  culture: aelendanclt
   templatePriority: null
   demonym: null
   epithet: null

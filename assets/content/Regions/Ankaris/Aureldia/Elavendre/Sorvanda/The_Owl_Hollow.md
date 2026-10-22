@@ -58,8 +58,7 @@ for it and the tribes do not advertise it, but an undertaking made in the hollow
 witnessed by something that will not forget it, and both parties know that.
 
 The same property makes carelessness expensive. A boast, a threat, a lie told in the dark under those
-trees is also remembered, and the Áelendan will tell you—without elaborating, and without being
-asked twice—that this has mattered.
+trees is also remembered, and the Áelendan say, without elaborating, that this has mattered.
 
 ## Outsiders
 

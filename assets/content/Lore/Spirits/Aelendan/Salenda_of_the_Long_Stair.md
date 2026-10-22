@@ -5,7 +5,7 @@ type: lore
 subType: spirit
 description: "River-mother of the Long Stair—exacting, exact, and the reason nobody climbs past the lowest pool."
 tags: [draft, first-gods]
-data: {packFolder: lorespiritsaelendan, culture: elavendriclt}
+data: {packFolder: lorespiritsaelendan, culture: aelendanclt}
 ---
 
 Kind

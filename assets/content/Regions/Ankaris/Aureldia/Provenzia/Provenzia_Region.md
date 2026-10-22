@@ -89,6 +89,11 @@ tribes cordial—which in practice means restraining their own subjects rather t
 the Áelendan, who have very little they want and nothing they will trade for. It is one of the few
 questions on which the two crowns have never needed to be persuaded to agree.
 
+Provenzia's tolerance of the tribes is policy, not sympathy. The sacred sites lie in the mountains and
+the remote forest, where the crown loses little by leaving them alone, and tolerating their defense
+keeps relations with Élavendre smooth. Tarvénia and Vylaria are considerably less
+tolerant ([[lore-aelendanclt#land-that-is-not-owned|Land That Is Not Owned]]).
+
 Relations with Tarvénia are the opposite in every respect: competitive, mistrustful, and violent at the margins. Skirmishing along the mountainous eastern frontier is effectively constant—raid and counter-raid over pasture, passes and precedence, kept below the level at which either crown must formally acknowledge a war. The border families on both sides have been fighting the same quarrel for so long that it functions less as a conflict than as a way of life.
 
 ## Notable Features

@@ -3359,13 +3359,13 @@ sohl:
 
 Áelendi is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Áelendi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill; see below for the linguistic and cultural background of the tongue itself.
 
-Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the [[lore-aelendnppl|Áelendan people]]—the "People of the Pact"—who dwell in the mountains of central [[place-elavendre|Élavendre]]. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
+Áelendi is the most conservative member of the entire Pelwar language family, preserved and spoken by the [[lore-aelendnppl|Áelendan people]]—the "People of the Pact", whose culture is described in [[lore-aelendanclt|Áelendan]]—who dwell in the mountains of central [[place-elavendre|Élavendre]]. The Áelendan consider themselves the guardians of an ancient compact with the land itself, and their language reflects this sacred role.
 
 ## Overview
 
 Áelendi descends from a Proto-Pelwar tongue (see [[lore-pelwarpepl|Pelwar People]]) and has been heavily influenced by [[skill-sinalelng|Sinale]], from which it has many loanwords (see [[skill-aelendlng#the-sinale-loans|the Sinale loans]]). Its speakers do not speak Sinale.
 
-The Áelendan are very conservative, and the conservatism is close to the defining trait of the people. Their language and their writing systems have not changed in hundreds of years. They deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss, and new concepts are made from ancient roots.
+The Áelendan are [[lore-aelendanclt#the-unchanging|deeply conservative]]. Their language and their writing systems have not changed in hundreds of years. They deliberately minimize linguistic change as a matter of cultural practice, viewing language change as a form of cultural loss, and new concepts are made from ancient roots.
 
 The [[skill-aelendlng#lexicon|Áelendi Lexicon]] gives the words with their sources and the elements the names are built from.
 

@@ -6,7 +6,7 @@ subType: history
 description: "About 1250 BF a war-band of the host then taking the forest east of the mountains came over Nelgan with brands, the Áelendan stood at the trees under a second Dhargan, the Sinale showed themselves, and the wood was given over to the Áelendan at Ethalosse."
 tags: [history]
 data:
-  culture: elavendriclt
+  culture: aelendanclt
   packFolder: elavendre
   events:
     - when: ~-1250

@@ -6,7 +6,7 @@ subType: history
 description: "About 1380 BF a Pelwar band led by the herdsman Dhargan came over the eastern pass in snow, starved through a winter at the edge of the Silver Forests that cost them a son, and were watched by the Sinale the whole time and welcomed by none."
 tags: [history]
 data:
-  culture: elavendriclt
+  culture: aelendanclt
   packFolder: elavendre
   events:
     - when: ~-1380

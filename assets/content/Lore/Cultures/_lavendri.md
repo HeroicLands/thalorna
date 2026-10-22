@@ -15,9 +15,6 @@ data:
       definition: "The true name, used only among intimates and at night"
       common: true
     - {name: "sun name", definition: "The name used in formal and public life", common: true}
-    - name: "Tradition Keeper"
-      definition: "An Áelendan memorizer who holds the Kindred Pact, the tribal songs and the genealogies"
-      common: true
     - name: "arálwen-water"
       definition: "A river that is aralwen along its length, running partly in each world"
     - name: "hinge-days"
@@ -58,7 +55,7 @@ Commoners are farmers, craftspeople and merchants, and they live well by the sta
 
 ## The Áelendan
 
-In the mountainous interior live the Áelendan, the People of the Pact: the ancestor tribes who never settled into the kingdom's cities and who keep the old ways from before the monarchy.
+In the mountainous interior live the [[lore-aelendanclt|Áelendan]], the People of the Pact: the ancestor tribes who never settled into the kingdom's cities and who keep the old ways from before the monarchy.
 
 The Élavendri relationship to them is complicated and mostly unspoken. They are the source of every noble house's prestige, and they are also, from the cities' point of view, rustics who declined civilization. The Áelendan view is that the cities traded something away and have been decorating the gap ever since. Both sides are courteous about it, and neither is persuaded.
 
@@ -73,6 +70,8 @@ An Élavendri therefore listens to form as well as content. A thing said well is
 Magic is ordinary here in a way it is nowhere else in Ankaris. It is studied, practiced, discussed at table, and expected of the well-bred, and a noble who cannot at least follow a technical conversation about it is embarrassing in the way a Provenzian who cannot follow an argument is embarrassing.
 
 The consequence is that the Élavendri are unimpressed by displays. Power casually shown is vulgar; power precisely applied is admired. A visiting mage who sets out to overawe an Élavendri court gets an attentive, appreciative and entirely unmoved audience.
+
+The magic they study is the [[affiliation-hexhodai|Zemor Hodhis]], the Six Ways, as [[affiliation-ordoarcanis|the Thordimalon]] teaches it, and the houses' ties with the Order are very close: the [University of Péravel]{.name data-type="affiliation"} and the Order's chapterhouses are where a well-bred Élavendri learns the art. The bond is a real point of tension with the Áelendan, who actively dislike the Order and do not tolerate its meddling in their sacred sites.
 
 Because the [[lore-flksinale|Sinale]] walk openly among them, the Élavendri also have a settled sense of proportion about their own arts. They know what a truly old practitioner looks like, and the knowledge prevents a certain kind of human vanity.
 
@@ -110,7 +109,7 @@ Each person carries smaller things. A hedge-affiliate carries a knotted cord of 
 
 ## The Day Kept
 
-On an ordinary day the religion is small and local. The Élavendren worship the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]], with [[lore-lusiniadty|Lusinia]] the World-Weaver and [[lore-zunelasdty|Zunelas]] the Veiled Dreamer held in special prominence, and no Élavendren sets the gods and the older spirits of the land against each other. Sacred groves, standing stones and holy wells serve beside the temples. A household leaves a loaf, _tárneve_, at a birch, a well or a stone and does not wait to see it taken. A village healer or herbalist who walks in [[affiliation-groveconcl|the Grove Council]]'s tradition is the person a sick child is taken to, and a grove-elder is heeded before any sheriff.
+On an ordinary day the religion is small and local. The Élavendren worship the gods of the [[affiliation-arldnpnthn|Aureldian Pantheon]] in the Aureldian manner, with [[lore-lusiniadty|Lusinia]] the World-Weaver and [[lore-zunelasdty|Zunelas]] the Veiled Dreamer held in special prominence, and they do not keep the Áelendan's Pact tradition. No Élavendren sets the gods and the older spirits of the land against each other. Sacred groves, standing stones and holy wells serve beside the temples. A household leaves a loaf, _tárneve_, at a birch, a well or a stone and does not wait to see it taken. A village healer or herbalist who walks in [[affiliation-groveconcl|the Grove Council]]'s tradition is the person a sick child is taken to, and a grove-elder is heeded before any sheriff.
 
 The rest of the day is the house: the land's stewardship, the work of whatever art the household follows, and a meal at which magic is discussed as other peoples discuss the weather. An Élavendri listens to form as well as content, since a thing said well is more likely to be believed and repeated. A guest is seated by the order of the seats, _máldalon_, which is worked out again at every gathering, and the right of the guest under the roof, _háelalon_, is not argued.
 
@@ -192,8 +191,8 @@ The sin is the welcome. The crown's cordiality to the Order is warm and sincere,
 [[skill-elvndrlng|Élavendri]]
 : the tongue of the houses and the bards
 
-[[lore-aelendnppl|The Áelendan]]
-: the ancestor tribes and the Pact
+[[lore-aelendanclt|The Áelendan]]
+: the ancestor tribes, the Pact and the Old Way
 
 [[affiliation-bardicolgs|The Bardic Colleges]]
 : the genealogies, the songs and the Circle
