@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-The [[affiliation-bjartr|faith of Bjart]] has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorun]] presides over the [Aulirakko]{.name data-type="affiliation/governmental"}. When the council will not reach accord on a man, its silence toward him does the work.
+The [[affiliation-bjartur|faith of Bjart]] has no officer who pronounces an expulsion, because no single [[lore-calathirrnk|Ansorun]] presides over the [Aulirakko]{.name data-type="affiliation/governmental"}. When the council will not reach accord on a man, its silence toward him does the work.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None.
 
 ## Where This Standing Is Held
 
-The [[affiliation-bjartr|Faith of Bjart]] alone.
+The [[affiliation-bjartur|Faith of Bjart]] alone.

@@ -152,7 +152,7 @@ Wandering velvur offer _seid_, dream-reading and contact with spirits outside a 
 
 [[lore-sumarmal|Somarmál]] marks return: ships to the water, warriors from winter quarters and cattle to pasture. Offerings seek a good growing and sailing year. It is also the season of great tings, when disputes are heard and public oaths taken.
 
-[[lore-midsumar|Midsomar]], at the summer solstice, celebrates light and community. Coastal bonfires and shared feasts honor [[lore-bjartrdty|Bjart]]; leaping low flames seeks luck. [[lore-veturnetur|Veturnetur]], the Winter Nights, prepares the household for scarcity. Livestock that cannot be kept are slaughtered, meat is preserved, and the dead are honored. [[lore-solrundty|Solrún]] receives a great portion, while [[lore-odvardty|Odvar]] is invoked for the long dark ahead.
+[[lore-midsumar|Midsomar]], at the summer solstice, celebrates light and community. Coastal bonfires and shared feasts honor [[lore-bjarturdty|Bjart]]; leaping low flames seeks luck. [[lore-veturnetur|Veturnetur]], the Winter Nights, prepares the household for scarcity. Livestock that cannot be kept are slaughtered, meat is preserved, and the dead are honored. [[lore-solrundty|Solrún]] receives a great portion, while [[lore-odvardty|Odvar]] is invoked for the long dark ahead.
 
 ## Praise, Restitution and Outlawry
 

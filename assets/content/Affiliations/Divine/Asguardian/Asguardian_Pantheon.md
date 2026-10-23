@@ -36,7 +36,7 @@ data:
   lore: []
   parents: []
   relations:
-    bjartr: aligned
+    bjartur: aligned
     solrun: aligned
     frodvin: aligned
     nahild: aligned
@@ -60,7 +60,7 @@ The Asguardian Pantheon is the dominant faith of the northern and coastal people
 | Domain                                  | Deity                                  | Epithet              | Symbol                                                         | Faith                                               |
 | --------------------------------------- | -------------------------------------- | -------------------- | -------------------------------------------------------------- | --------------------------------------------------- |
 | Dead & Underworld                       | [[lore-nahilddty\|Nahild]]             | The Despiser of Life | Obsidian shard and the Eye of the Void                         | [[affiliation-nahild\|Faith of Nahild]]             |
-| Elder Races, Dreams & Light             | [[lore-bjartrdty\|Bjart]]              | The Radiant One      | Sunstone and silver leaf                                       | [[affiliation-bjartr\|Faith of Bjart]]              |
+| Elder Races, Dreams & Light             | [[lore-bjarturdty\|Bjart]]             | The Radiant One      | Sunstone and silver leaf                                       | [[affiliation-bjartur\|Faith of Bjart]]             |
 | Fertility, Agriculture, Peace & Healing | [[lore-frodvindty\|Frodvin]]           | The Healer           | Sheaf of wheat and healing herb bundle                         | [[affiliation-frodvin\|Faith of Frodvin]]           |
 | Love, Beauty & Prosperity               | [[lore-solrundty\|Solrún]]             | The Golden One       | Rose petal and silver coin                                     | [[affiliation-solrun\|Faith of Solrún]]             |
 | Cunning, Deception & Thieves            | [[lore-velgrimurdty\|Velgrímur]]       | The Trickster        | Serpent skin and shadowed glass                                | [[affiliation-velgrimur\|Faith of Velgrímur]]       |
@@ -86,7 +86,7 @@ The faithful dead divide into two broad destinies. Those who have died honorably
 
 "Nobody above me can tell me how to keep this hov," the Norgaad gudi says, "and nobody below me has to ask my leave to pour mead on his own horgur." Asguardian practice has no center, and the grand civic cults of the Aureldian south have nothing like its looseness. There is no pontiff over the pantheon, no continental synod and no single canon. Each faith keeps its own clergy, its own liturgy and its own ranks, and the details change from kingdom to kingdom and sometimes from jarldom to jarldom. What binds the pantheon together is a shared mythology, a shared calendar and a shared ritual grammar: the runes, the mead poured in offering, the ancestral tongue spoken at the high ceremonies, and the binding weight of the spoken oath.
 
-Most faiths keep their clergy to a single conferring rite rather than a ladder of circles. Eight of the Ten admit, raise, and cast out through the blet—the offering and shared meal a hov's gudi grants or withholds—rising from the laity through an ordained priesthood to a high priest who consecrates hovs and performs the great blet at a season's turning. Nahild's suppressed cult confers by teaching its observances in secret rather than at any public rite, and the human clergy of the [[affiliation-bjartr|Faith of Bjart]] follow the Sinalean structure of the iltorin and the Ansorun. Outside the Ten, the scattered factions of the [[affiliation-hrimthur|Faith of Hrimthur]], each tied to its own hov and wound, confer nothing at all.
+Most faiths keep their clergy to a single conferring rite rather than a ladder of circles. Eight of the Ten admit, raise, and cast out through the blet—the offering and shared meal a hov's gudi grants or withholds—rising from the laity through an ordained priesthood to a high priest who consecrates hovs and performs the great blet at a season's turning. Nahild's suppressed cult confers by teaching its observances in secret rather than at any public rite, and the human clergy of the [[affiliation-bjartur|Faith of Bjart]] follow the Sinalean structure of the iltorin and the Ansorun. Outside the Ten, the scattered factions of the [[affiliation-hrimthur|Faith of Hrimthur]], each tied to its own hov and wound, confer nothing at all.
 
 Temples are called _hovs_, and their form varies. A major hov in a royal seat may be a substantial stone hall with carved pillars, smoke-darkened rafters, and interior chambers for divination and the keeping of relics; a rural hov may be little more than a wooden shrine-house in a sacred grove. Size does not make a hov. A hov is a place where a _blet_ (sacrifice or offering) may be properly made, where a _ting_ (assembly) may gather under the god's attention, and where oaths may be sworn with binding force. A family's household may contain a smaller _horgur_—a stone altar or cairn—where the everyday offerings are made: the first pour of the day's mead, a portion of meat from the slaughter, a lock of hair before a journey.
 
@@ -405,7 +405,7 @@ The Asguardian calendar is organized around four great seasonal blets, supplemen
 
 [[lore-sumarmal|Somarmál]] (the beginning of summer, roughly the first month of the Ankarian calendar) is the blet of return—the return of warriors from winter quarters, of ships to the water, of cattle to the high pastures. The offerings are for the coming year: [[lore-frodvindty|Frodvin]] is prominent, as are Thrunvald for seafaring and [[miscgear-hornnjordur#hafvald|Hafvald]] among those coastal peoples who keep the older names. It is the traditional season for the great assemblies, the tings at which disputes are heard and oaths are taken.
 
-[[lore-midsumar|Midsomar]] (the summer solstice) is the brightest festival, the long bonfire-night when the sun barely sets and the gods of light are at their strongest. [[lore-bjartrdty|Bjart]] is central here, and the feast is a festival of community and joy; fires are kindled on every promontory along the northern coasts, and the faithful leap the low flames for luck.
+[[lore-midsumar|Midsomar]] (the summer solstice) is the brightest festival, the long bonfire-night when the sun barely sets and the gods of light are at their strongest. [[lore-bjarturdty|Bjart]] is central here, and the feast is a festival of community and joy; fires are kindled on every promontory along the northern coasts, and the faithful leap the low flames for luck.
 
 [[lore-veturnetur|Veturnetur]] (the Winter Nights, at the turn toward winter in late autumn) is the most somber of the four. The livestock that will not be kept through the winter are slaughtered in a great blet, the meat preserved, the bones read, the dead honored. Nahild's name is spoken with caution; Solrún receives the greatest portion, for she is the keeper of half the honored dead; Odvar is invoked as the wanderer of the coming long dark.
 

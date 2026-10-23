@@ -136,7 +136,7 @@ The kingdom's places show its range. [[place-odholm|Odholm]] on the northern coa
 
 ## Faith and the Velvur
 
-Nordheim worships the [[affiliation-asguardian|Asguardian Pantheon]], a company of powerful and often capricious gods said to govern the forces of nature and the virtues the Nordmen prize. [[lore-odvardty|Odvar]] is the All-Father, god of knowledge and wisdom; [[lore-bjartrdty|Bjart]] is the god of light, dreams and the elder races; and [[lore-nahilddty|Nahild]] is the dreaded goddess of the underworld, whose cult, the [[affiliation-nahild|Faith of Nahild]], is feared and reviled.
+Nordheim worships the [[affiliation-asguardian|Asguardian Pantheon]], a company of powerful and often capricious gods said to govern the forces of nature and the virtues the Nordmen prize. [[lore-odvardty|Odvar]] is the All-Father, god of knowledge and wisdom; [[lore-bjarturdty|Bjart]] is the god of light, dreams and the elder races; and [[lore-nahilddty|Nahild]] is the dreaded goddess of the underworld, whose cult, the [[affiliation-nahild|Faith of Nahild]], is feared and reviled.
 
 Worship is practical and personal. People make offerings at standing stones, in sacred groves and at household altars. Four blets mark the turns of the year. The midwinter feast of [[lore-jol|Jel]] and the midsummer bonfires of [[lore-midsumar|Midsomar]] are the great communal celebrations; [[lore-sumarmal|Somarmál]] opens the assembly season, and Veturnetur closes the year's slaughter. The _velvur_, seeresses and spirit-workers, read omens, work seid and stand between the living and the divine.
 

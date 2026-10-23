@@ -9,7 +9,7 @@ tags: [asguardian]
 
 A southern clerk sent up the headland for Midsomar learns not to wait for the sun to set, since it only dips, and to watch the other headlands instead. Down the coast, one promontory after another, fires are catching, and by the time the last of them is lit the whole shore from here to the next fjord is a string of orange points under a sky that never goes dark.
 
-Midsomar is the summer-solstice festival, the brightest night of the northern year. The sun barely sets, the gods of light are held to be at their strongest, and every promontory along the northern coasts carries a bonfire. [[lore-bjartrdty|Bjart]] is central to it, and the feast belongs to him.
+Midsomar is the summer-solstice festival, the brightest night of the northern year. The sun barely sets, the gods of light are held to be at their strongest, and every promontory along the northern coasts carries a bonfire. [[lore-bjarturdty|Bjart]] is central to it, and the feast belongs to him.
 
 ## What Is Done
 
@@ -31,7 +31,7 @@ Three things make up the night, and the boy on the headland names them as a chil
 [[lore-sumarmal|Somarmál]] and [[lore-veturnetur|Veturnetur]]
 : the festivals that open and close the open season
 
-[[affiliation-bjartr|Faith of Bjart]]
+[[affiliation-bjartur|Faith of Bjart]]
 : the god of light and his clergy
 
 [[affiliation-asguardian|Asguardian Pantheon]]

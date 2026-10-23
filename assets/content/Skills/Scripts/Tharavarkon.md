@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The graven letters of imperial Vylaria—the ceremonial runic script of temple, tomb and triumphal arch."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: script
+  script: {fonts: [thuravark-carved-bound], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

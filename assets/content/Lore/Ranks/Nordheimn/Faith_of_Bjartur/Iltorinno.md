@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Anyone may come to the rites of the [[affiliation-bjartr|Faith of Bjart]]. An iltorin has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorun]] admits the iltorin, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.
+Anyone may come to the rites of the [[affiliation-bjartur|Faith of Bjart]]. An iltorin has been called to more, and the calling comes with a teacher: an [[lore-calathirrnk|Ansorun]] admits the iltorin, teaches dream-reading, healing and the tending of sacred groves, and the standing rests on that teacher.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None short of entrustment as [[lore-calathirrnk|Ansorun]].
 
 ## Where This Standing Is Held
 
-The [[affiliation-bjartr|Faith of Bjart]] alone.
+The [[affiliation-bjartur|Faith of Bjart]] alone.

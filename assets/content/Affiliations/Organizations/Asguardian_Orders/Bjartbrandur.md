@@ -41,6 +41,6 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"Most of us heal and dream," an Iltorin of [[affiliation-bjartr|Bjart]] tells a newcomer who has asked about swords. "The Lightning Swords are the exception."
+"Most of us heal and dream," an Iltorin of [[affiliation-bjartur|Bjart]] tells a newcomer who has asked about swords. "The Lightning Swords are the exception."
 
-Bjartbrandur, the Lightning Swords, are fighters trained by the elder races themselves in the techniques and magic that uphold [[lore-bjartrdty|Bjart]]'s will. They are the one body in Bjart's service built for battle, and they stand apart from the faith's priests. Those who lead its fighters are Dróttstjori; a new Drottmadur trains under the elder races and carries none of the order's authority yet.
+Bjartbrandur, the Lightning Swords, are fighters trained by the elder races themselves in the techniques and magic that uphold [[lore-bjarturdty|Bjart]]'s will. They are the one body in Bjart's service built for battle, and they stand apart from the faith's priests. Those who lead its fighters are Dróttstjori; a new Drottmadur trains under the elder races and carries none of the order's authority yet.

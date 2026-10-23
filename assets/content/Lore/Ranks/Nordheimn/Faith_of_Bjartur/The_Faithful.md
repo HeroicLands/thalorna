@@ -8,7 +8,7 @@ tags: []
 data: {culture: nordheimnclt}
 ---
 
-Nobody enrolls in the [[affiliation-bjartr|faith of Bjart]]. You come to a rite, and from that night you are counted among the faith's people.
+Nobody enrolls in the [[affiliation-bjartur|faith of Bjart]]. You come to a rite, and from that night you are counted among the faith's people.
 
 ## What This Standing Is
 
@@ -32,4 +32,4 @@ None; the faith's offices attach to the clergy above this rank.
 
 ## Where This Standing Is Held
 
-The [[affiliation-bjartr|Faith of Bjart]] alone.
+The [[affiliation-bjartur|Faith of Bjart]] alone.

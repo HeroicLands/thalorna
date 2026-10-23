@@ -1,12 +1,12 @@
 ---
-shortcode: bjartr
+shortcode: bjartur
 name: {full: Faith of Bjart, aliases: [The Luminous Path]}
 type: affiliation
 subType: faithtradition
 tags: [asguardian]
 data:
   banner: faithbnr
-  icon: bjartr
+  icon: bjartur
   templatePriority: null
   demonym: null
   epithet: The Radiant One
@@ -42,7 +42,7 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [bjartrdty]
+  lore: [bjarturdty]
   parents: [asguardian]
   relations: {asguardian: aligned}
   packFolder: pantheonsasguardian
@@ -57,7 +57,7 @@ sohl: {system: {commonSkills: []}}
 
 The Faith of Bjart gathers under trees rather than in a hov. At the [Blessing of Light]{.name data-type="lore/custom"}, a priest stands a worshipper in a forest clearing at dusk and asks that the light come between that person and despair, and for most of Bjart's followers that one ceremony is the whole of their devotion. A pilgrim who walks to a northern grove each autumn puts it plainly: "I will never be a priest, and nobody there expects it of me. I take the blessing, I sleep easier for a season, and I gho home. The faith asks nothing more than that I came."
 
-[[lore-bjartrdty|Bjart]] is the Asguardian name for [[lore-goddreams|the God of Dreams]], a deity older than any human pantheon, honored by the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] since before humankind existed. The Aureldian peoples know the same god as [[lore-zunelasdty|Zunelas]]. Among northern humans the faith draws its worshippers through the god's dream aspect, understood as the power to guide, inspire and foretell through the landscapes of sleep. That makes it unusual within the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten): where most northern faiths are led by warriors, jarls and seafarers, Bjart's human followers tend to be seers, healers and people who look for wisdom in vision rather than in the sword.
+[[lore-bjarturdty|Bjart]] is the Asguardian name for [[lore-goddreams|the God of Dreams]], a deity older than any human pantheon, honored by the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] since before humankind existed. The Aureldian peoples know the same god as [[lore-zunelasdty|Zunelas]]. Among northern humans the faith draws its worshippers through the god's dream aspect, understood as the power to guide, inspire and foretell through the landscapes of sleep. That makes it unusual within the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten): where most northern faiths are led by warriors, jarls and seafarers, Bjart's human followers tend to be seers, healers and people who look for wisdom in vision rather than in the sword.
 
 ## What the Light Means
 

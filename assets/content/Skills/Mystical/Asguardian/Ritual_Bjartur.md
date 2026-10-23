@@ -1,10 +1,10 @@
 ---
-shortcode: bjartr
+shortcode: bjartur
 name: {full: "Ritual: Bjart", aliases: [The Luminous Path]}
 type: skill
 subType: mystical
 tags: [asguardian, faith-skill, draft]
-data: {icon: bjartr, templatePriority: null, packFolder: asguardian}
+data: {icon: bjartur, templatePriority: null, packFolder: asguardian}
 sohl:
   system:
     skillBaseFormula: "@wil, @rea"
@@ -15,4 +15,4 @@ sohl:
     initSkillMult: 0
 ---
 
-See [[affiliation-bjartr|Faith of Bjart]]
+See [[affiliation-bjartur|Faith of Bjart]]

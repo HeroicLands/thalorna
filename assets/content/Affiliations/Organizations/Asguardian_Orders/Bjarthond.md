@@ -43,4 +43,4 @@ sohl: {system: {commonSkills: []}}
 
 Say you come to the [Blessing of Light]{.name data-type="lore/custom"} with a wound that will not close and a dream that will not leave you. The Radiant Hand tends both, and the order does not count them as two cares.
 
-Bjarthond, the Order of the Radiant Hand, trains priests of [[affiliation-bjartr|Bjart]] in healing and the spreading of his light. Its members serve the faithful as medics and counselors wherever the Blessing of Light or the [Night of Dreams]{.name data-type="lore/gathering"} is kept. At those rites a Drottmadur tends a wound or a troubled dream and holds no further standing, and the order's medics and counselors answer to a Dróttstjori.
+Bjarthond, the Order of the Radiant Hand, trains priests of [[affiliation-bjartur|Bjart]] in healing and the spreading of his light. Its members serve the faithful as medics and counselors wherever the Blessing of Light or the [Night of Dreams]{.name data-type="lore/gathering"} is kept. At those rites a Drottmadur tends a wound or a troubled dream and holds no further standing, and the order's medics and counselors answer to a Dróttstjori.
