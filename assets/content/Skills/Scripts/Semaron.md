@@ -21,7 +21,7 @@ sohl:
   flags: {"thalorna": {script_family: Alphabetic}}
 ---
 
-The Semaron is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form, one sign to one sound. Its name is simply the [[skill-vylarilng|Vylari]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
+The Semaron is the working alphabet of the [[affiliation-vylarinmpr|Vylarian Empire]]—twenty-four letters written left to right, each with a majuscule and a minuscule form. In its Vylari use a sign has one sound; other tongues give the letters their own readings. Its name is simply the [[skill-vylarilng|Vylari]] word for _the letters_, from _sema_, "mark"; a single character is a _sema_, and to a Vylarian clerk the word carries no more romance than "the alphabet" does. That flatness is a large part of why it traveled.
 
 As with any script, it is a writing system and not a tongue. A character needs **both** the Semaron and the relevant [[sohl-none-docskill-lang|Language]] to read anything set down in it, and the Semaron carries a good many languages that have nothing to do with each other—see [[sohl-none-docskill-script|Script]] for how the two skills combine.
 
@@ -51,7 +51,7 @@ Literacy in the Semaron is what the Imperial Scribal Guild sells, examines and d
 
 ## Beyond the Empire
 
-The Semaron is the nearest thing [[place-midhalnrgn|Mídhalión]] has to a common alphabet. It carries Vylari, Provenzal, Tarveni, modern Élavendri and western Valtari. [[skill-elvndrlng|Élavendri]] is written in it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its international books in it, whatever tongue the entries are in, while a house's local books and the Bizarian language itself are written in the [[skill-helnkscrpt|Helónika]]; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
+The Semaron is the nearest thing [[place-midhalnrgn|Mídhalión]] has to a common alphabet. It carries Vylari, Provenzal, Tarveni, modern Élavendri, Aelwythi and western Valtari. [[skill-aelwthlng|Aelwythi]] uses its own [[doc-mapaelwsemaron|spelling conventions]], with contextual readings of letters and vowel groups. [[skill-elvndrlng|Élavendri]] is written in it; [[skill-provnzlng|Provenzal]] is written in nothing else; the [[affiliation-byzarianlg|Bizarian League]] keeps its international books in it, whatever tongue the entries are in, while a house's local books and the Bizarian language itself are written in the [[skill-helnkscrpt|Helónika]]; and [[skill-varokhlng|Varokhi speakers]] who want anything written down borrow it, while insisting it is a foreign tool and not Varokhi writing. Foreigners generally call it "the Vylari letters," a name no Vylarian uses.
 
 ## In play
 

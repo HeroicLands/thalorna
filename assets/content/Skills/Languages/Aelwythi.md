@@ -9,6 +9,36 @@ tags: []
 data:
   core: true
   abbreviation: Aelw.
+  writtenIn: {map: aelwythi-semaron, font: semaron-kuriale}
+  fields: [{name: Ordinary speech, holds: "Everyday words with script or pronunciation notes."}]
+  words:
+    - "form": "exact"
+      "class": "v"
+      "gloss": "require or demand"
+      "native": [{"map": "aelwythi-semaron", "text": "󰈳󰈵󰉆󰈰󰈹󰉁"}]
+      "field": "Ordinary speech"
+    - "form": "conquer"
+      "class": "v"
+      "gloss": "overcome or subdue"
+      "native": [{"map": "aelwythi-semaron", "text": "󰈹󰈽󰈼󰈹󰈳󰈿"}]
+      "field": "Ordinary speech"
+    - "form": "sceptic"
+      "class": "n"
+      "gloss": "one who doubts"
+      "native": [{"map": "aelwythi-semaron", "text": "󰉀󰈹󰈳󰈾󰉁󰈷󰈹"}]
+      "field": "Ordinary speech"
+    - form: offering
+      class: n
+      field: Ordinary speech
+      gloss: a gift presented
+      pronunciation: OFF-ring
+      note: "Two syllables in the crossroads charm; this division specifies the contraction, not a new vowel reading."
+    - form: courteous
+      class: adj
+      field: Ordinary speech
+      gloss: showing courtesy or respect
+      pronunciation: COUR-teous
+      note: "Two syllables in the crossroads charm: teous is compressed into one syllable. The division does not prescribe a new vowel reading."
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -631,7 +661,7 @@ Aelwythi names have two parts, each an old word: a first part such as _Ald-_, _E
 
 **Endings.** Men's names end in _-wald_, _-rik_, _-mund_, _-win_ or _-red_. Women's names end in _-rith_, _-run_, _-ith_ or _-wyn_.
 
-**What Aelwythi leaves out.** It has no _c_ outside _ch_. Its names are new pairings of the old parts, not the attested names of history.
+**The naming elements.** Their hard consonant is written _k_. The prose and verse keep their ordinary readable word spellings, including _c_ and _x_. Its names are new pairings of the old parts, not the attested names of history.
 
 ## Beside Élavendri and Vylari
 
@@ -645,9 +675,15 @@ Ordinary folk who stay at home speak Aelwythi alone. The travelled and educated 
 
 Aelwythi is given in these pages in the reader's own language, in a register that stays older than the ordinary prose of the notes. Anything said, sung or recorded in Aelwythi is set in this register throughout: quoted speech, songs, proverbs, oaths, charms and folklore. The notes that describe the language, the people and the land stay in the setting's ordinary present-tense prose; only the text in Aelwythi follows the rules below.
 
+Aelwythi is written in the [[skill-semrnscrpt|Semaron Script]]. The
+[[doc-mapaelwsemaron|Aelwythi Semaron Spelling]] converts a passage marked
+`lang=aelw` into the Kuriale hand. Its source keeps ordinary readable word
+spellings; the [[doc-prnncthlrn#aelwythi|Aelwythi pronunciation rules]] give
+them the reconstructed sounds of the older stage.
+
 **Rules for writers.**
 
-- **Grammar.** One person addressed familiarly is _thou_ (subject), _thee_ (object), _thy_ or _thine_ (possessive, _thine_ before a vowel). _Ye_ and _you_ address several people, or one with respect. A verb after _thou_ closes in _-est_ (_thou goest_, _thou hast_, _thou art_), and a verb after _he_, _she_ or _it_ in _-eth_ (_he goeth_, _she hath_). Questions and denials are formed as the older speech formed them: _dost thou know_, _I know not_, _fear not_, _wilt thou_, _shalt thou_. Word order may invert for emphasis, verb before subject.
+- **Grammar.** One person addressed familiarly is _thou_ (subject), _thee_ (object), and _thy_ or _thine_ (possessive). _Thine_ often precedes a vowel and also stands alone; _thy_ before a vowel is possible. _Ye_ and _you_ address several people, or one with respect. A finite present verb with _thou_ commonly takes _-est_ or _-st_, with forms such as _art_, _hast_, _dost_, _canst_, _wilt_ and _shalt_. An auxiliary carries the agreement: _dost thou carry_, with the following verb bare. With _he_, _she_ or _it_, both _-s_ and _-eth_ occur; _hath_, _doth_ and _saith_ are common older forms. Questions and denials allow _dost thou know_, _I know not_, _fear not_, _wilt thou_ and _shalt thou_. Word order may invert for emphasis.
 - **Vocabulary.** Words in use around the year 1600, and no others, each in the sense it then had. A word coined, or a sense acquired, in a later age is not used. Where a word is in doubt, a plainer word that was certainly current takes its place.
 - **Style.** The cadence and idiom of the older stage, both prose and verse. Antique words scattered through modern sentences are wrong; the sentence itself is built the older way. Verse keeps its metre and rhyme.
 
@@ -677,6 +713,17 @@ A charm said at the crossroads:
 > Who watcheth where the roads divide
 > Will let the courteous pass beside.
 
+In the charm, _offering_ and _courteous_ each take two syllables: _off-ring_,
+and _cour-teous_ with the second part compressed. These divisions mark the
+metre; the vowel readings still follow the pronunciation guide and the word.
+_Who_ here means _whoever_. Both the charm and the harvest song have eight
+syllables to a line. The contracted _off'ring_ is attested in
+[_Henry IV, Part 1_, 4.1](https://internetshakespeare.uvic.ca/doc/1H4_M/scene/4.1/index.html),
+and the two-syllable _courteous_ fits the line in
+[_A Midsummer Night's Dream_, 3.1](https://shakespeare.mit.edu/midsummer/full.html).
+The older verb alternatives are described in the
+[language companion's account of third-person endings](https://www.shakespeareswords.com/Public/LanguageCompanion/ThemesAndTopics.aspx?TopicId=40).
+
 ## Naming Traditions
 
 Names on Aelwyth are in the reader's own language, and they are kept in the forms already in use. The island's people name by compounding, and the same small stock of elements serves places, people and families.
@@ -691,7 +738,7 @@ Names on Aelwyth are in the reader's own language, and they are kept in the form
 
 ## Aelwythi Lexicon {#lexicon}
 
-Aelwythi is the speech of Aelwyth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Aelwythans hold that its plainness is honesty. Because the words are the reader's own, this page states no sound rules. It states what the island's names are made of: the small stock of elements that place names, given names and bynames are built from, the register of the names in use, and the names that stand outside the pattern.
+Aelwythi is the speech of Aelwyth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Aelwythans hold that its plainness is honesty. The pronunciation guide states their historical readings; the dictionary's native forms state exceptional Semaron spellings. This page states what the island's names are made of: the small stock of elements that place names, given names and bynames are built from, the register of the names in use, and the names that stand outside the pattern.
 
 The elements are the island's own, and the pattern they make is what keeps a new name from sounding as if it came from another coast. A new place, person or family on Aelwyth is built from the elements below, or it is a plain exception and is entered in the last table with the reason.
 

@@ -148,18 +148,188 @@ data:
         kind: catch
         like: "a catch in the throat, the pause in uh-oh; after a consonant, that consonant is said with the same catch; the consonant said plainly is fine"
         ipa: ʔ
+      - "letters": ["i", "y"]
+        "kind": "vowel"
+        "like": "i in sit; y in myth, slightly open towards eh"
+        "ipa": "ɪ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["e"]
+        "kind": "vowel"
+        "like": "e in met"
+        "ipa": "e"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["a"]
+        "kind": "vowel"
+        "like": "cap and bath share a short open ah-like vowel"
+        "ipa": "a"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["u", "o"]
+        "kind": "vowel"
+        "like": "cup and love: higher and farther back than modern cup; a rounded put-like variant is possible"
+        "ipa": "ɤ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["u", "oo"]
+        "kind": "vowel"
+        "like": "u in put; oo in look, with lexical short or long alternatives"
+        "ipa": "ʊ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["o"]
+        "kind": "vowel"
+        "like": "o in hot"
+        "ipa": "ɒ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["a"]
+        "kind": "vowel"
+        "like": "watch has a short open ah after w"
+        "ipa": "ɑ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["a", "e", "o", "u"]
+        "kind": "vowel"
+        "like": "a neutral uh in unstressed a or the"
+        "ipa": "ə"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["ee", "ea", "e", "ie"]
+        "kind": "long vowel"
+        "like": "see: hold a close eh-like vowel, above the broader eh of day"
+        "ipa": "iː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["a", "ai", "ay"]
+        "kind": "long vowel"
+        "like": "make and day: hold a broad eh, without a closing ee glide"
+        "ipa": "ɛː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["ir", "er", "ur"]
+        "kind": "long vowel"
+        "like": "bird: an open central vowel followed by a sounded r"
+        "ipa": "ɐː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["a", "al", "ar"]
+        "kind": "long vowel"
+        "like": "wall and war: a long open ah; sound the r"
+        "ipa": "ɑː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["aw", "au", "or"]
+        "kind": "long vowel"
+        "like": "fawn and cord: an open aw, kept long"
+        "ipa": "ɔː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["o", "oa", "ou"]
+        "kind": "long vowel"
+        "like": "go: hold a steady oh without a closing oo glide"
+        "ipa": "oː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["o", "oo", "ew", "u"]
+        "kind": "long vowel"
+        "like": "o in do; oo in spoon"
+        "ipa": "uː"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["i", "y", "igh", "oi", "oy"]
+        "kind": "vowel pair"
+        "like": "time and thy: uh-ee; also boy in the merged choice reading"
+        "ipa": "əɪ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["ou", "ow"]
+        "kind": "vowel pair"
+        "like": "thou and now: uh-oo"
+        "ipa": "əʊ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["p", "b", "t", "d", "k", "f", "v", "h", "l", "m", "n", "w", "z"]
+        "kind": "consonant"
+        "like": "the ordinary consonant sounds in these letters"
+        "ipa": "p b t d k f v h l m n w z"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["g"]
+        "kind": "consonant"
+        "like": "hard in go, soft in gem; the word determines the reading"
+        "ipa": "ɡ, dʒ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["s"]
+        "kind": "consonant"
+        "like": "unvoiced in sip, voiced in is; a lexical reading"
+        "ipa": "s, z"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["c"]
+        "kind": "consonant spelling"
+        "like": "hard c takes k; soft c takes s; dictionary native forms supply exceptional spellings"
+        "ipa": "k, s"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["x"]
+        "kind": "consonant spelling"
+        "like": "takes ks; a dictionary native form supplies a different spelling, as in exact"
+        "ipa": "ks, ɡz"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["q", "qu"]
+        "kind": "consonant spelling"
+        "like": "q takes k; qu takes kw; conquer has its dictionary native form"
+        "ipa": "k, kw"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["th"]
+        "kind": "consonant"
+        "like": "unvoiced in thin, voiced in thy; both use the same Semaron sign"
+        "ipa": "θ, ð"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["sh"]
+        "kind": "consonant"
+        "like": "the sound in ship"
+        "ipa": "ʃ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["ch", "tch"]
+        "kind": "consonant spelling"
+        "like": "the sound in church or watch, written with Semaron t, s, h"
+        "ipa": "tʃ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["j", "dge"]
+        "kind": "consonant"
+        "like": "the sounds at either end of judge"
+        "ipa": "dʒ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["ng"]
+        "kind": "consonant"
+        "like": "the end of sing; the verb ending may also have n"
+        "ipa": "ŋ, n"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["wh"]
+        "kind": "consonant"
+        "like": "a voiceless w in where, distinct from w in wear"
+        "ipa": "ʍ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["r"]
+        "kind": "consonant"
+        "like": "sounded after a vowel as well as before one"
+        "ipa": "ɹ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["y"]
+        "kind": "consonant or vowel"
+        "like": "a glide in yes; its vowel readings depend on the word"
+        "ipa": "j, ɪ, əɪ"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["gh", "k", "w", "e"]
+        "kind": "silent spelling"
+        "like": "silence is lexical: gh in light, initial k in know, w in write, final e in make"
+        "ipa": "∅"
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["bb", "dd", "ff", "gg", "ll", "mm", "nn", "pp", "rr", "ss", "tt"]
+        "kind": "consonant spelling"
+        "like": "doubled letters do not require a held consonant"
+        "ipa": ""
+        "tongue": ["skill-aelwthlng"]
+      - "letters": ["'", "’"]
+        "kind": "omission or possession"
+        "like": "an apostrophe marks omitted sounds or possession; it does not require a glottal stop"
+        "ipa": ""
+        "tongue": ["skill-aelwthlng"]
     marks:
       - {mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one}
       - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: apart, limit: one}
 ---
 
-Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, so a reader learns them once and can say any word in the setting.
+Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives names and coined words one set of readings. Aelwythi keeps readable word spellings and has its own pronunciation section.
 
 Ease of speaking comes first. Where a sound is hard for an English speaker, a footnote gives a plain sound to use instead, and the plain sound is always correct.
 
 ## Common pronunciation
 
-Every tongue is read by this section. A tongue that departs from it has a short section of its own below, listing only its departures.
+A tongue follows this section except where its own section gives a different reading. Aelwythi follows the word spellings and historical readings in its own section throughout.
 
 ### Vowels
 
@@ -238,6 +408,78 @@ Tone and nasal vowels are not written. Vowel length is written only by a doubled
 ## Áelendi
 
 [[skill-aelendlng|Áelendi]] stresses the first syllable of every word, whatever its length. An acute marks any other stressed syllable.
+
+## Aelwythi {#aelwythi}
+
+[[skill-aelwthlng|Aelwythi]] uses the reconstructed pronunciation of the older
+stage. Read its familiar word spellings with the sound values below. Silent
+letters, variable vowels and lexical stress belong to this spelling; the
+common transcription's fixed vowel, stress and apostrophe rules do not apply.
+The prose explaining the language uses ordinary modern wording.
+
+The inventory follows David Crystal's
+[_Oxford Dictionary of Original Shakespearean Pronunciation_, introduction,
+pp. xli–xlvii](https://api.pageplace.de/preview/DT0400.9780191645433_A30390764/preview-9780191645433_A30390764.pdf#page=42).
+It is a usable reconstruction with lexical and regional alternatives. For a
+particular word's reading, consult that dictionary or the
+[paired modern and historical recordings](https://www.shakespeareswords.com/Public/About/Audio.aspx).
+[Paul Meier's sound demonstrations](https://www.paulmeier.com/OP.pdf#page=7)
+provide an introduction to the accent.
+
+### Vowels and vowel groups
+
+The example words identify historical readings, not their present-day sound
+models. The table gives contextual spellings, not a rule that each listed
+letter has only one sound. The whole word determines the reading. The signs distinguish
+_sit_, _see_ and _day_ through their spellings; a new vowel sign is unnecessary.
+
+```sql
+SELECT array_to_string(letters, ', ') AS "Spelling", ipa AS "Sound", "like" AS "Reading"
+FROM letters
+WHERE language = 'thalorna-note-doc-prnncthlrn'
+  AND list_contains(tongue, 'skill-aelwthlng')
+  AND kind IN ('vowel', 'long vowel', 'vowel pair')
+ORDER BY position
+```
+
+Keep the long vowels in _day_ and _go_ steady. Begin the diphthongs in _thy_
+and _thou_ centrally. _Boy_ and _thy_ can share a diphthong; an unstressed
+final _-y_ can also take that reading. The vowels of _cup_, _put_ and _fool_
+need their word's reading and the chosen regional variant; the spelling _oo_
+does not settle vowel length.
+
+### Consonants, silence and marks
+
+```sql
+SELECT array_to_string(letters, ', ') AS "Spelling", ipa AS "Sound", "like" AS "Reading"
+FROM letters
+WHERE language = 'thalorna-note-doc-prnncthlrn'
+  AND list_contains(tongue, 'skill-aelwthlng')
+  AND kind NOT IN ('vowel', 'long vowel', 'vowel pair')
+ORDER BY position
+```
+
+Sound _r_ in _far_ and _word_, and distinguish _wh_ in _where_ from _w_ in
+_wear_. Word endings and metre can allow alternatives, including _-ing_ said
+with _n_. Stress and elision follow the word and the verse, not the common
+transcription's syllable count. A written _-ed_ need not add a syllable.
+
+### Writing these sounds in Semaron
+
+The [[doc-mapaelwsemaron|Aelwythi Semaron Spelling]] uses the existing letters
+and their groups for this orthography. _th_ covers both sounds; _sh_ writes the
+sound of _ship_; _ch_ and _tch_ take _t_ and _sh_; _j_ writes the sound of
+_judge_; _ng_ and _wh_ keep their groups. Vowel spellings and context carry the
+vowel distinctions. The existing group _zh_ can also spell a voiced _sh_ sound
+in a borrowed word; it does not assign that modern reading to every familiar
+word such as _pleasure_. No extra letter is required for this inventory.
+
+A passage marked `lang=aelw` receives that mapping automatically. The map
+rewrites spelling, while this section and the word's lexical reading determine
+pronunciation. In particular, its treatment of _c_, _x_ and _qu_ is not an
+algorithm for recovering every word's sounds. A dictionary native form records
+an exceptional script spelling and takes precedence automatically. The roman
+source keeps its ordinary words and punctuation.
 
 ## Ekpelu
 

@@ -11,6 +11,7 @@ compatibility:
 # ISO 639 assigns no four-letter code, so none reads as a real language's tag.
 languages:
     aele: { tag: art-x-aele, note: skill-aelendlng }
+    aelw: { tag: art-x-aelw, note: skill-aelwthlng }
     atar: { tag: art-x-atar, note: skill-atarzadilng }
     beth: { tag: art-x-beth, note: skill-bethunlng }
     biza: { tag: art-x-biza, note: skill-byzarnlng }

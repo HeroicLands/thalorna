@@ -41,13 +41,13 @@ key in frontmatter, and prose is never parsed for it.
 
 | Rule                                                                                                                          | Where it lives                                                    | What enforces it                                                    |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
-| One sound, one spelling, no silent letters, for every tongue                                                                  | `assets/content/Lore/Pronouncing_Thalorna.md`                     | The author, and `data.sounds` in each language note                 |
+| One sound, one spelling, no silent letters in the common transcription; Aelwythi has its own readings                         | `assets/content/Lore/Pronouncing_Thalorna.md`                     | The author, and `data.sounds` in each language note                 |
 | Each tongue has its own flavour: favoured sounds, endings and shapes, and what it leaves out                                  | The language note: `data.sounds` for data, its prose for the rest | The author; the owner's approval of every coinage                   |
 | A word that a tongue's model language writes whole is replaced                                                                | `SOURCES` in `utils/earth-words.mjs`                              | `npm run lint:earth-words`                                          |
 | A word a passage uses is in the language's lexicon first                                                                      | `data.words` in the language note                                 | `package-build lint`, on every mapped run                           |
 | A name a passage uses is in the language's register first                                                                     | `data.register` in the language note                              | `package-build lint`, on every mapped run                           |
 | A text is marked by what it is: `lang=` its language, `font=` its face, `map=` the rewrite into a script                      | The attribute block of a span, a `:::` block or a fence           | `package-build lint`, the site, the Foundry compile and the book    |
-| A script has one mapping note, shared by every language written in it                                                         | `assets/content/Lore/Scripts/`                                    | `package-build lint`                                                |
+| A script has a common mapping note; Aelwythi also has its own orthographic mapping                                            | `assets/content/Lore/Scripts/`                                    | `package-build lint`                                                |
 | A mark that changes nothing is left out                                                                                       | Every script and mapping                                          | The author                                                          |
 | Mood, questions and quotation are carried by words, not marks, unless a tongue's own note says its scribes use a mark         | The tongue's note                                                 | `package-build lint`: a mark with no row in the mapping is an error |
 | Nothing is required to be complete: gender, plurals and verb patterns exist only where a note states them                     | The language note                                                 | No check demands a form                                             |
@@ -55,8 +55,10 @@ key in frontmatter, and prose is never parsed for it.
 | The owner approves every coinage                                                                                              | [Coining a word](#5-coining-a-word)                               | Review                                                              |
 
 **A script is not a language.** Several tongues share one script, as many
-Earth languages share the Latin alphabet. A script has one mapping note, and
-what differs between the tongues written in it is their dictionaries. A tongue
+Earth languages share the Latin alphabet. A script's common mapping serves
+the shared transcription; Aelwythi also has an orthographic mapping for its
+own readable word spellings. Other differences
+between the tongues written in a script belong to their dictionaries. A tongue
 that borrows a script may give a glyph a different sound or meaning, and add a
 few glyphs of its own where it needs them.
 
@@ -73,15 +75,19 @@ Every tongue of the setting is written in roman letters by one guide,
 `assets/content/Lore/Pronouncing_Thalorna.md`. The peoples write in their own
 scripts, and the roman spelling is the transcription every reader learns once.
 
-The rules of the guide:
+The common rules below have the language-specific departures the guide states.
+Aelwythi uses its own word spellings and historical readings, as described in
+[Aelwythi word spelling](#aelwythi-word-spelling).
+
+The common rules of the guide:
 
 - **One sound, one spelling.** Each vowel letter has one sound, and a final _e_
   is never silent. Vowels are sounded one at a time unless they form a listed
   pair (_ai_, _au_, _ei_, _oi_, _ou_, the long _aa_, _ii_, _uu_, and _ie_, _uo_,
   _ae_). A pair that is not in the table is sounded apart, as in _Zoë_.
-- **Some pairs belong to some tongues.** _ee_ and _oo_ are written only by
-  Sinale and Sovidur, _ea_ only by Aelwythi, _ao_ only by Tantsou, _ui_ only by
-  Tantsou and Jurthati. _bh_ is written only by a tongue whose own note says
+- **Some pairs belong to some tongues.** _ee_ and _oo_ occur in
+  Sinale and Sovidur. Aelwythi keeps its own vowel spellings, including _ea_.
+  _ao_ belongs to Tantsou, and _ui_ to Tantsou and Jurthati. _bh_ is written only by a tongue whose own note says
   so. A letter pair outside the guide is used only by a language whose note
   allows it.
 - **Consonants have their usual English values**, with the guide's points: _g_
@@ -101,6 +107,35 @@ The rules of the guide:
 - **Length** is written only by a doubled vowel. Tone and nasal vowels are not
   written.
 
+### Aelwythi word spelling
+
+Aelwythi keeps ordinary readable word spellings and follows the reconstructed
+pronunciation in the guide's Aelwythi section. Its silent letters, vowel
+groups, lexical stress and apostrophes follow that section, including the
+tongue-scoped `data.sounds.letters` rows. The common transcription rules above
+apply where a tongue's section does not give its own readings.
+
+Aelwythi uses the existing Semaron letters through its own orthographic
+`aelwythi-semaron` map in
+`assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md`. The Aelwythi
+language note selects it with `data.writtenIn`, so `[Whither goest thou?]{lang=aelw}`
+converts automatically. All conversion rules are executable frontmatter rows;
+they rewrite spelling, not pronunciation. A word whose script spelling needs
+an exception states `native: [{map: aelwythi-semaron, text: "…"}]` in the
+language's `data.words`; that native form takes precedence automatically.
+Keep the roman word unchanged. For example, _exact_ uses its declared native
+form rather than the rows' _ks_ spelling for _x_.
+
+```console
+$ npx package-build transliterate aelwythi-semaron --lang aelw --hex "Whither goest thou?"
+```
+
+This language-specific mapping does not alter the shared `semaron` rows. It
+retains vowel spellings and _y_, writes _c_, _x_ and _qu_ with existing
+letters, uses the point for pauses and leaves apostrophes unmarked. A passing
+glyph check proves that the font draws the output; the pronunciation guide
+and lexical readings determine its sounds.
+
 **The guide states its letters and marks as data.** The frontmatter of
 `Pronouncing_Thalorna.md` holds `data.sounds` with `letters` and `marks`, the
 same row shapes a language note uses. Each letter row gives the letters, a
@@ -116,9 +151,9 @@ data:
       - { letters: [sh], kind: consonant, like: ship, ipa: ʃ }
       - {
           letters: [ea],
-          kind: vowel pair,
-          like: eh-ah run into one syllable,
-          ipa: ɛa,
+          kind: long vowel,
+          like: "ee in see, with a more open quality near eː",
+          ipa: iː,
           tongue: [skill-aelwthlng],
         }
       - {
@@ -647,16 +682,16 @@ register:
 A script is a `type: skill`, `subType: script` note under
 `assets/content/Skills/Scripts/`, whose `data.script` lists the faces it is
 drawn in, and how it marks emphasis. A mapping is a `doc` note under
-`assets/content/Lore/Scripts/`, **one per script, shared by every language
-written in it**.
+`assets/content/Lore/Scripts/`. The common mapping serves a script's shared
+transcription; Aelwythi also has an orthographic Semaron mapping.
 
-| Script         | Script note                        | Faces (`font=`)                  | Mapping (`map=`) | Direction     |
-| -------------- | ---------------------------------- | -------------------------------- | ---------------- | ------------- |
-| Semaron        | `Skills/Scripts/Semaron.md`        | `semaron-kuriale`                | `semaron`        | left to right |
-| Pirzath        | `Skills/Scripts/Pirzath.md`        | `pirzath-carved`, `pirzath-hand` | `pirzath`        | left to right |
-| Thuravark      | `Skills/Scripts/Thuravark.md`      | `thuravark-carved`               | `thuravark`      | left to right |
-| Qalezu         | `Skills/Scripts/Qalezu.md`         | `qalezu-hand`                    | `qalezu`         | right to left |
-| Khelathi-zethu | `Skills/Scripts/Khelathi_zethu.md` | `khelathi-zethu-glyphs`          | none             | right to left |
+| Script         | Script note                        | Faces (`font=`)                  | Mapping (`map=`)              | Direction     |
+| -------------- | ---------------------------------- | -------------------------------- | ----------------------------- | ------------- |
+| Semaron        | `Skills/Scripts/Semaron.md`        | `semaron-kuriale`                | `semaron`, `aelwythi-semaron` | left to right |
+| Pirzath        | `Skills/Scripts/Pirzath.md`        | `pirzath-carved`, `pirzath-hand` | `pirzath`                     | left to right |
+| Thuravark      | `Skills/Scripts/Thuravark.md`      | `thuravark-carved`               | `thuravark`                   | left to right |
+| Qalezu         | `Skills/Scripts/Qalezu.md`         | `qalezu-hand`                    | `qalezu`                      | right to left |
+| Khelathi-zethu | `Skills/Scripts/Khelathi_zethu.md` | `khelathi-zethu-glyphs`          | none                          | right to left |
 
 The other script notes state no `data.script`, so no face and no mapping draws
 them. Every face is a face of `@heroiclands/fonts`; `font=` names it by its
@@ -679,31 +714,32 @@ states `font=` and `map=` only to write a language in a script other than its
 usual one. `map` must be a mapping note's `data.map.name`, and `font` a face
 that mapping is drawn in; either fault is an error at the key.
 
-| Language          | `writtenIn`                     | Another script a run may name                         |
-| ----------------- | ------------------------------- | ----------------------------------------------------- |
-| Vylari (`vyl`)    | `semaron`, `semaron-kuriale`    |                                                       |
-| Provenzal         | `semaron`, `semaron-kuriale`    |                                                       |
-| Tarveni           | `semaron`, `semaron-kuriale`    |                                                       |
-| Élavendri         | `semaron`, `semaron-kuriale`    |                                                       |
-| Valtari           | `semaron`, `semaron-kuriale`    |                                                       |
-| Varokhi           | `semaron`, `semaron-kuriale`    |                                                       |
-| Nordmal (`nord`)  | `thuravark`, `thuravark-carved` |                                                       |
-| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`       | `pirzath-carved`                                      |
-| Khelathi (`khel`) | `qalezu`, `qalezu-hand`         | `khelathi-zethu-glyphs` with `zethu`, the sacred hand |
-| Atárzadi          | `qalezu`, `qalezu-hand`         |                                                       |
-| Dunhari           | `qalezu`, `qalezu-hand`         |                                                       |
-| Nyáluban          | `qalezu`, `qalezu-hand`         |                                                       |
-| Sinale (`sina`)   | `veldikko`, `veldikko`          |                                                       |
-| Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`  |                                                       |
+| Language          | `writtenIn`                           | Another script a run may name                         |
+| ----------------- | ------------------------------------- | ----------------------------------------------------- |
+| Aelwythi (`aelw`) | `aelwythi-semaron`, `semaron-kuriale` |                                                       |
+| Vylari (`vyl`)    | `semaron`, `semaron-kuriale`          |                                                       |
+| Provenzal         | `semaron`, `semaron-kuriale`          |                                                       |
+| Tarveni           | `semaron`, `semaron-kuriale`          |                                                       |
+| Élavendri         | `semaron`, `semaron-kuriale`          |                                                       |
+| Valtari           | `semaron`, `semaron-kuriale`          |                                                       |
+| Varokhi           | `semaron`, `semaron-kuriale`          |                                                       |
+| Nordmal (`nord`)  | `thuravark`, `thuravark-carved`       |                                                       |
+| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`             | `pirzath-carved`                                      |
+| Khelathi (`khel`) | `qalezu`, `qalezu-hand`               | `khelathi-zethu-glyphs` with `zethu`, the sacred hand |
+| Atárzadi          | `qalezu`, `qalezu-hand`               |                                                       |
+| Dunhari           | `qalezu`, `qalezu-hand`               |                                                       |
+| Nyáluban          | `qalezu`, `qalezu-hand`               |                                                       |
+| Sinale (`sina`)   | `veldikko`, `veldikko`                |                                                       |
+| Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`        |                                                       |
 
 Tantsou and Jurthati are written in Teng Chou. No mapping note exists for that
 script, so those two tongues state no `writtenIn`, and a run marked with their
 `lang=` alone is tagged, in roman, in the page's font. A language that states none behaves so.
 
 Other tongues are written in these scripts by the same mappings: a tongue
-borrowing Semaron uses `map=semaron` with its own `lang=` and its own
-dictionary, and a tongue whose note states no `writtenIn` is marked with both
-keys every time.
+borrowing Semaron for the common transcription uses `map=semaron` with its
+own `lang=` and dictionary. Aelwythi uses `map=aelwythi-semaron`. A tongue
+whose note states no `writtenIn` is marked with both keys every time.
 
 ### 8.2 What a mapping row is
 
