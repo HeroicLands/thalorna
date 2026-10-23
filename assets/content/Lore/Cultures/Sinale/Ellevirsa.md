@@ -244,7 +244,7 @@ the two that stand over the birch at the thaw, when the crossing is;
 the one we named, and then found was two, standing close, and we kept the one name for both;
 and the first we named, the one that stands in the evening over the pass, where the watch was kept.
 
-The one who said keep them out, who kept the watch at the pass: **Nylkitti Esselinto**.
+The one who said keep them out, who kept the watch at the pass: [Nylkitti Esselinto]{.name data-type="being/npc" lang=sina}.
   He was let in with the rest of us. He is cut here last, after the valley, which is the right order.
 ```
 

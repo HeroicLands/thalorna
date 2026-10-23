@@ -148,7 +148,7 @@ Higher, harsher the mountain;
 harder each breath to draw.
 Home hid beneath the snowfall;
 hearth light lived in memory.
-Thrúnhamarr had struck here;
+[[lore-thrunhamarr|Thrúnhamarr]] had struck here;
 the telling held that hope.
 Skrilmil stopped at the summit;
 snow streamed across his shield.
@@ -229,7 +229,7 @@ Wide runs his wish for union;
 war worn clans need peace.
 Jarls guard their own grandeur;
 jealous hearts reckon losses.
-Hnirmil's wisdom once bound allies;
+[[being-hnirvmylwise|Hnirmil]]'s wisdom once bound allies;
 his hope remembers that bond.
 Skrilmil seeks a shared purpose;
 songs cannot swear its success.

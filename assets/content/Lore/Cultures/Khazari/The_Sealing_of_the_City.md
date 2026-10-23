@@ -47,7 +47,7 @@ They were spoken over.
   One voice in a great count of bodies.
 They had not tired at the gate.
   They are made to tire.
-The voice was _Zugán_. The one who carried it
+The voice was _[[miscgear-secondvoice|Zugán]]_. The one who carried it
   was of the forest folk.
 We know his name as we know our line.
   It is not cut. It is not sung.
@@ -60,15 +60,15 @@ That is the whole of what is said of them here.
 
 _Zik_
 
-In the tower of Gurráz was the guarding,
+In the tower of [Gurráz]{.name data-type="affiliation/lineage" lang=khaz} was the guarding,
   the gate and the deep.
-Tanv-guráz had the gate,
-  Bamg-durákh the deep.
-**Garzan** had the gate that night.
+[Tanv-guráz]{.name data-type="affiliation/lineage" lang=khaz} had the gate,
+  [Bamg-durákh]{.name data-type="affiliation/lineage" lang=khaz} the deep.
+[Garzan]{.name data-type="being/npc" lang=khaz} had the gate that night.
   He was found at it.
-**Guruz** had the gate after him.
+[Guruz]{.name data-type="being/npc" lang=khaz} had the gate after him.
   She had not left it.
-**Nilpin** of Nalp-furád had the high approach,
+[Nilpin]{.name data-type="being/npc" lang=khaz} of [Nalp-furád]{.name data-type="affiliation/lineage" lang=khaz} had the high approach,
   the cold watch.
 He was found on the approach.
   He had sent the word down.
@@ -77,7 +77,7 @@ The word came down. The gate was shut.
 
 Bamg-durákh had the refuge,
   the holding of the deep.
-**Bamgan** had the door, and **Bimig**.
+[Bamgan]{.name data-type="being/npc" lang=khaz} had the door, and [Bimig]{.name data-type="being/npc" lang=khaz}.
   They were found at it, inside.
 The door was made for what tires.
   They did not tire.
@@ -107,37 +107,37 @@ Over them the words were not said.
 
 _Vem_
 
-In the tower of Gullád the forges were cold.
+In the tower of [Gullád]{.name data-type="affiliation/lineage" lang=khaz} the forges were cold.
   They had been cold nine days.
 The smiths were laid at their hearths,
   each with the tool of his hand.
-**Galdan** of Gald-vulád, master of the hearth,
+[Galdan]{.name data-type="being/npc" lang=khaz} of [Gald-vulád]{.name data-type="affiliation/lineage" lang=khaz}, master of the hearth,
   with the hammer.
 It was his own hammer, of his own making,
   warranted on the haft.
-**Thamran** of Hamk-dunák, the striker,
+[Thamran]{.name data-type="being/npc" lang=khaz} of [Hamk-dunák]{.name data-type="affiliation/lineage" lang=khaz}, the striker,
   with the striker's hammer.
-**Hamkan** of Hamk-dunák, who sounded the blades,
+[Hamkan]{.name data-type="being/npc" lang=khaz} of Hamk-dunák, who sounded the blades,
   with a blade not sounded.
-**Sikir** of Sakar-puláz, the folder of iron,
+[Sikir]{.name data-type="being/npc" lang=khaz} of [Sakar-puláz]{.name data-type="affiliation/lineage" lang=khaz}, the folder of iron,
   with the tongs,
 and in the tongs a bar folded four times.
   The fifth fold was not made.
-**Piliz** her apprentice, of Sakar-puláz,
+[Piliz]{.name data-type="being/npc" lang=khaz} her apprentice, of Sakar-puláz,
   with the bar's other end.
-**Bitim** of Vald-sukár at the bellows,
+[Bitim]{.name data-type="being/npc" lang=khaz} of [Vald-sukár]{.name data-type="affiliation/lineage" lang=khaz} at the bellows,
   with the bellows.
-**Balgan** of Balg-tumák at the copper,
+[Balgan]{.name data-type="being/npc" lang=khaz} of [Balg-tumák]{.name data-type="affiliation/lineage" lang=khaz} at the copper,
   with a basin half raised.
-**Halban** of Halb-zumád at the silver,
+[Halban]{.name data-type="being/npc" lang=khaz} of [Halb-zumád]{.name data-type="affiliation/lineage" lang=khaz} at the silver,
   with the touchstone.
 His weights were on the bench, and they were counted:
   twelve, and all true.
-**Zamad** of Halb-zumád, who assayed,
+[Zamad]{.name data-type="being/npc" lang=khaz} of Halb-zumád, who assayed,
   with the lead.
-**Garpan** of Zanth-guráp at the whetstone,
+[Garpan]{.name data-type="being/npc" lang=khaz} of [Zanth-guráp]{.name data-type="affiliation/lineage" lang=khaz} at the whetstone,
   with an axe half-edged.
-**Guldun** of Gald-vulád, a child of the house,
+[Guldun]{.name data-type="being/npc" lang=khaz} of Gald-vulád, a child of the house,
   born in the hungry year,
 who carried the charcoal to the hearths,
   with the charcoal.
@@ -156,11 +156,11 @@ Over the smiths the words were not said.
 
 _Bozd_
 
-In the tower of Dullák the cutters were laid
+In the tower of [Dullák]{.name data-type="affiliation/lineage" lang=khaz} the cutters were laid
   among their cuts.
-**Dalkan** of Dalk-thumár by the wall he was dressing.
+[Dalkan]{.name data-type="being/npc" lang=khaz} of [Dalk-thumár]{.name data-type="affiliation/lineage" lang=khaz} by the wall he was dressing.
   It is dressed to the seam.
-**Delek** of Kaval-zunáth, hoped for by her house,
+[Delek]{.name data-type="being/npc" lang=khaz} of [Kaval-zunáth]{.name data-type="affiliation/lineage" lang=khaz}, hoped for by her house,
   by the pillar she was finishing.
 The rock had left the pillar standing.
   She had touched it with three cuts.
@@ -169,13 +169,13 @@ Over the cutters the words were not said.
 
 _Zop_
 
-In the tower of Rummák the layers of courses
+In the tower of [Rummák]{.name data-type="affiliation/lineage" lang=khaz} the layers of courses
   were laid in the halls.
-**Ramkan** of Ramk-sumád in the hall he had raised,
+[Ramkan]{.name data-type="being/npc" lang=khaz} of [Ramk-sumád]{.name data-type="affiliation/lineage" lang=khaz} in the hall he had raised,
   two hundred and fifty-six feet to the vault.
-**Rimik** of Batam-rumák, who took up her forebear's work,
+[Rimik]{.name data-type="being/npc" lang=khaz} of [Batam-rumák]{.name data-type="affiliation/lineage" lang=khaz}, who took up her forebear's work,
   on the stair her forebear began.
-**Talgan** of Talg-hunáth, who made the roads,
+[Talgan]{.name data-type="being/npc" lang=khaz} of [Talg-hunáth]{.name data-type="affiliation/lineage" lang=khaz}, who made the roads,
   on the road inside the rock.
 The great ways run straight in Khazartúrn.
   We wanted it so.
@@ -188,19 +188,19 @@ Over the layers of courses the words were not said.
 
 _Nefk_
 
-In the tower of Vurrán the followers of the line
+In the tower of [Vurrán]{.name data-type="affiliation/lineage" lang=khaz} the followers of the line
   were laid in the workings.
-**Malnan** of Khalv-gunáv in the unlit working,
+[Malnan]{.name data-type="being/npc" lang=khaz} of [Khalv-gunáv]{.name data-type="affiliation/lineage" lang=khaz} in the unlit working,
   where the lamp had gone out.
 The lamp had burned to the end of its oil.
   It was not put out.
-**Ribid** of Rabad-runát at the vein,
+[Ribid]{.name data-type="being/npc" lang=khaz} of [Rabad-runát]{.name data-type="affiliation/lineage" lang=khaz} at the vein,
   with the reckoning of the vein on wax.
-**Multun** of Malt-purán was at the salt with us.
+[Multun]{.name data-type="being/npc" lang=khaz} of [Malt-purán]{.name data-type="affiliation/lineage" lang=khaz} was at the salt with us.
   He carried his father up.
-**Tabaran** of Tabar-suláth at the channel-head
+[Tabaran]{.name data-type="being/npc" lang=khaz} of [Tabar-suláth]{.name data-type="affiliation/lineage" lang=khaz} at the channel-head
   where the water comes in.
-**Barthan** of Malt-purán, the bearer,
+[Barthan]{.name data-type="being/npc" lang=khaz} of Malt-purán, the bearer,
   with his load, at the foot of the stair.
 The long tunnel of Vurrán needs no prop.
   It needed none that night.
@@ -211,21 +211,21 @@ Over the followers of the line the words were not said.
 
 _Fozd_
 
-In the tower of Summág the listeners
+In the tower of [Summág]{.name data-type="affiliation/lineage" lang=khaz} the listeners
   were laid in the listening-places.
 The apprentices were there with their slates.
   The slates were read.
-**Nulup**, born in the hungry year, had written:
+[Nulup]{.name data-type="being/npc" lang=khaz}, born in the hungry year, had written:
   it rings sound.
 The stone of that place rings sound.
   It rang sound that night.
-**Gakal** of Khard-vurán had the reading of the faces.
+[Gakal]{.name data-type="being/npc" lang=khaz} of [Khard-vurán]{.name data-type="affiliation/lineage" lang=khaz} had the reading of the faces.
   She was laid in her reading-room,
 with the valley before her, on wax, in her hand,
   face by face.
 The one who found the valley is in the record
   from before the first tower.
-**Samag** of Khard-vurán read the cliff from the valley floor
+[Samag]{.name data-type="being/npc" lang=khaz} of Khard-vurán read the cliff from the valley floor
   and said: seven.
 She said the cliff would hold seven.
   It held seven.
@@ -235,15 +235,15 @@ Over the listeners the words were not said.
 
 _Kabur_
 
-In the tower of Lummáv the keepers of the record
+In the tower of [Lummáv]{.name data-type="affiliation/lineage" lang=khaz} the keepers of the record
   were laid among the records.
-**Lakaman** of Lakam-mulán, the lamp in the silence,
+[Lakaman]{.name data-type="being/npc" lang=khaz} of Lakam-mulán, the lamp in the silence,
   had the archive lamp.
 It was found trimmed. It was found out.
   He was found by it.
-**Bantan** of Bant-khubán, who recited the oaths,
+[Bantan]{.name data-type="being/npc" lang=khaz} of [Bant-khubán]{.name data-type="affiliation/lineage" lang=khaz}, who recited the oaths,
   among the oaths.
-**Lamav** of Bant-khubán had the day-record.
+[Lamav]{.name data-type="being/npc" lang=khaz} of Bant-khubán had the day-record.
   She was found at it.
 On the wax of that day, in the flowing hand, it reads:
   _On this day the gate sends down—_
@@ -351,7 +351,7 @@ Then the gate.
   The last came out of it.
 It was walled, and the wall was dressed to the cliff,
   bedding and stain.
-**Dilkin** of Dalk-thumár set the last block.
+[Dilkin]{.name data-type="being/npc" lang=khaz} of Dalk-thumár set the last block.
   It is set flush.
 He had the first cut of it and the last.
   He cut it where the cliff had a block to give.

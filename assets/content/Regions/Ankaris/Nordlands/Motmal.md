@@ -333,14 +333,14 @@ The birds on the weed were where they had been.
 
 _Odvar said:_
 
-This one is **Hrandmil**:
+This one is [Hrandmil]{.name data-type="being/npc" lang=nord}:
 a thing held down,
 set down first, and not for moving.
 He was first on the strand.
 He is first of them.
 What is set down does not go looking for a place.
 
-This one is **Dvarnrinna**:
+This one is [Dvarnrinna]{.name data-type="being/npc" lang=nord}:
 a door never barred,
 for the children will come in by her.
 Leave it open.

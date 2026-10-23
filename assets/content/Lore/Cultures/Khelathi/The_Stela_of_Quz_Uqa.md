@@ -93,7 +93,7 @@ Broke the right, toward the town, and the gate of the town was shut, and the men
 Ran they toward the river, and the river was there.
 Ran they toward the desert, and the horses were there.
 Stood the standards of fourteen selatu in the barley at noon; at dusk the barley stood, and they did not.
-Went to the West in his fourteenth year Amqel'Uzner.
+Went to the West in his fourteenth year [Amqel'Uzner]{.name data-type="being/npc" lang=khel}.
 Lie they where they fell. None was carried off. None was wrapped.
 No name was read over any of them, and the kites of the west bank were fed through the Harvest.
 Took he up his own dead and their horses and carried them west into the grass.
@@ -107,7 +107,7 @@ and the fire of the god was in him, as it was in the one before him, as it is in
 Gave him the priesthood his name: Kuz'Uqa, strong of the sun-lord.
 By this name he is entered. By this name every contract of the year is dated, every tax roll, every lease of a field.
 The name he came down with is not cut on this stone, nor on any stone, nor in any roll.
-Entered is his house among the houses of the Gar-Auu: Tha'Ulgau, after the house of Zu'Magetu, which is closed.
+Entered is his house among the houses of the Gar-Auu: Tha'Ulgau, after the house of [Zu'Magetu]{.name data-type="affiliation/lineage" lang=khel}, which is closed.
 
 Came he up the river again with the crown, in the Harvest, to the ground where it was done.
 Set he this stone on it, and the ground is his: let no cord be stretched on it, let no stake be driven.
@@ -166,7 +166,7 @@ Their number is the number of the rows.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 _\[In the fourth row, cut deep in the sacred hand by a temple cutter, the oldest of the later hands:\]_
-**Gahser ez Iku**. Went down to the West on this ground.
+[Gahser ez Iku]{.name data-type="being/npc" lang=khel}. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
@@ -180,7 +180,7 @@ _\[In the fourth row, cut deep in the sacred hand by a temple cutter, the oldest
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 _\[In the seventeenth row, cut shallow, in a hand used to wood:\]_
-**Inhagi ez Gau**. Went down to the West on this ground.
+[Inhagi ez Gau]{.name data-type="being/npc" lang=khel}. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
@@ -202,7 +202,7 @@ _\[Two rows flaked away.\]_
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 _\[In the thirty-seventh row, in a fine small sacred hand that does not reach the edge of the space:\]_
-**Zapse ez Chegu**. Went down to the West on this ground.
+[Zapse ez Chegu]{.name data-type="being/npc" lang=khel}. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
@@ -217,7 +217,7 @@ _\[In the thirty-seventh row, in a fine small sacred hand that does not reach th
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 _\[In the fifty-first row, cut large and deep by a quarryman's hand, over the edge of the space and into the row beneath:\]_
-**Amruzi ez Zel-Qar**. Went down to the West on this ground.
+[Amruzi ez Zel-Qar]{.name data-type="being/npc" lang=khel}. Went down to the West on this ground.
 _\[The end of the name above fills this space.\]_ ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
@@ -229,8 +229,8 @@ _\[The end of the name above fills this space.\]_ ez ———. Went down to the
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
-_\[In the sixty-third row, scratched in Qalezu with a point, the newest:\]_
-**Lefta ez Iqeru**. Went down to the West on this ground.
+_\[In the sixty-third row, scratched in [[skill-qalzscrscrpt|Qalezu]] with a point, the newest:\]_
+[Lefta ez Iqeru]{.name data-type="being/npc" lang=khel}. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.
 ——— ez ———. Went down to the West on this ground.

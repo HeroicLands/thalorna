@@ -1064,7 +1064,29 @@ data:
       instead: "Uqa'a, qamzet ezu gazlet"
       why: sounds the death god's name in an invocation of the sun
   tongues: [{tag: khelathi, meaning: a Khelathi name, language: skill-khelathlng}]
-  register: [{name: Meqes, tongue: khelathi}, {name: "Uqa'a", tongue: khelathi}]
+  register:
+    - {name: Meqes, tongue: khelathi}
+    - {name: "Uqa'a", tongue: khelathi}
+    - {name: "Amqel'Uzner", tongue: khelathi}
+    - {name: "Amruzi ez Zel-Qar", tongue: khelathi}
+    - {name: "Azlet'Kutu", tongue: khelathi}
+    - {name: "Gahser ez Iku", tongue: khelathi}
+    - {name: "Githira", tongue: khelathi}
+    - {name: "Gulur ez Galezkara", tongue: khelathi}
+    - {name: "Imsithe Reth'el'Qetu", tongue: khelathi}
+    - {name: "Inhagi ez Gau", tongue: khelathi}
+    - {name: "Kuz'Uqa", tongue: khelathi}
+    - {name: "Lefta ez Iqeru", tongue: khelathi}
+    - {name: "Legir'el'Retha", tongue: khelathi}
+    - {name: "Legir'Uzner", tongue: khelathi}
+    - {name: "Lemjen ez Galezkara", tongue: khelathi}
+    - {name: "Maqi Reth'el'Qetu", tongue: khelathi}
+    - {name: "Qedut ez Gar-Legulu", tongue: khelathi}
+    - {name: "Thakat ez Gar-Qethar", tongue: khelathi}
+    - {name: "Thethi ez Gar-Qethar", tongue: khelathi}
+    - {name: "Zabita ez Gar-Qethar", tongue: khelathi}
+    - {name: "Zapse ez Chegu", tongue: khelathi}
+    - {name: "Zu'Magetu", tongue: khelathi}
   naming:
     nearName:
       minSyllables: 4

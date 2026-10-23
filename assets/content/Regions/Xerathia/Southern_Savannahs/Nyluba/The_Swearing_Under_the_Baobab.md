@@ -51,17 +51,17 @@ That host is gone. It left no herds behind it.
 
 Who came up from the river?
   _The crocodile came._
-Kolembozi of the reed canoe and the slow brown water,
+[Kolembozi]{.name data-type="affiliation/lineage" lang=nyal} of the reed canoe and the slow brown water,
 who name the crocodile by its mother and her mother.
 
 Who came down from the high country?
   _The eagle came._
-Ngonzi of the red escarpment and the gold in the river-sand,
+[Ngonzi]{.name data-type="affiliation/lineage" lang=nyal} of the red escarpment and the gold in the river-sand,
 the only hands among the five that answer to stone.
 
 Who came in from the edge of the trees?
   _The leopard came._
-Sengala of many tongues, who know the road to the north
+[Sengala]{.name data-type="affiliation/lineage" lang=nyal} of many tongues, who know the road to the north
 and say less about it than they know.
 
 Who came from the standing water?

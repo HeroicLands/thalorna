@@ -50,14 +50,14 @@ A man who weeps at a song has told you what he will not say.
 Do not sing the song he weeps at twice. Once he forgives. Twice he remembers.
 Tune the lyre before the guests come. A girl who tunes at table is a carpenter.
 Your voice is your own. Your face is the Academy's. Keep both.
-The Veiled Dreamer gave the singer the night. Give the guests the evening.
+The [[lore-zunelasdty|Veiled Dreamer]] gave the singer the night. Give the guests the evening.
 ```
 
 : The Third Year, at Fourteen {#third}
 
 ```verse {form=precepts lang=en}
-Learn the Song of the Ships as every city sings it.
-Learn which ship came first in Thirenae, and in Pelagora, and say each in its house.
+Learn the [Song of the Ships]{.name data-type="lore/literature" lang=en} as every city sings it.
+Learn which ship came first in Thirenae, and in [[affiliation-pelagora|Pelagora]], and say each in its house.
 Never say which ship came first. Ask. Let the guest tell you.
 Learn the founders of every city, the seven and the colonies after them,
 and the names of the old clans, and which clan sits beside which in the theater.
@@ -109,7 +109,7 @@ A companion who cannot tell what is in a cup is a companion who drinks it.
 Grow nothing you would be ashamed to have found in your room.
 Your hands heal. Say so. Let them see you heal a slave's burn at table.
 The herb that cures and the herb that kills are often one herb. So are words.
-The Mistress of the Waning Moon keeps the end of every growing thing. Respect her.
+The [[lore-morvanadty|Mistress of the Waning Moon]] keeps the end of every growing thing. Respect her.
 Do not give a man a sleeping draught unless he asks for it. Then ask him again.
 ```
 

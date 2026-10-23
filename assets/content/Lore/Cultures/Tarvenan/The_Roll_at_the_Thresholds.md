@@ -58,29 +58,29 @@ THE COMPANY
 Call it.
 
 THE CAPTAIN
-Garrutsa, the Wolf.
+[Garrutsa]{.name data-type="being/npc" lang=tarv}, the Wolf.
 GARRUTSA
 Here, and kept.
 THE CAPTAIN
-Oztuk, the Crag.
+[Oztuk]{.name data-type="being/npc" lang=tarv}, the Crag.
 OZTUK
 Here, and kept.
 THE CAPTAIN
-Átseka, the ewe, as the company has it, who is not gentle.
+[Átseka]{.name data-type="being/npc" lang=tarv}, the ewe, as the company has it, who is not gentle.
 ÁTSEKA
 Here, and kept.
 THE CAPTAIN
-Tsala, the Bell.
+[Tsala]{.name data-type="being/npc" lang=tarv}, the Bell.
 TSALA
 Here. Kept. And loud.
 THE COMPANY
 And loud.
 THE CAPTAIN
-Ozka, the Wind off the Peaks.
+[Ozka]{.name data-type="being/npc" lang=tarv}, the Wind off the Peaks.
 OZKA
 Here, and kept.
 THE CAPTAIN
-Betsa, the Cheese, who came home lighter than he went.
+[Betsa]{.name data-type="being/npc" lang=tarv}, the Cheese, who came home lighter than he went.
 BETSA
 Here, and kept, and lighter.
 THE CAPTAIN
@@ -103,25 +103,25 @@ You are kept.
 
 THE CAPTAIN
 Now the ones who marched and are not here.
-Kolzarra, the Scree, who went first up the ladder at the wall in the summer, and came down it.
+[Kolzarra]{.name data-type="being/npc" lang=tarv}, the Scree, who went first up the ladder at the wall in the summer, and came down it.
 HIS COMPANION
 I marched beside him. He is not here. He went up first. He kept it.
 THE COMPANY
 He kept it.
 THE CAPTAIN
-Ziduák, the Vulture, who was always first at the dead after a fight, and stripped them for the company and not for himself, and who is with them.
+[Ziduák]{.name data-type="being/npc" lang=tarv}, the Vulture, who was always first at the dead after a fight, and stripped them for the company and not for himself, and who is with them.
 HIS COMPANION
 I marched beside him. He is not here. He took nothing that was not the company's. He kept it.
 THE COMPANY
 He kept it.
 THE CAPTAIN
-Bortsula, the Byre, who held the mule-line the night the camp burned, and the mules lived.
+[Bortsula]{.name data-type="being/npc" lang=tarv}, the Byre, who held the mule-line the night the camp burned, and the mules lived.
 HIS COMPANION
 I marched beside him. He is not here. The mules lived. He kept it.
 THE COMPANY
 He kept it.
 THE CAPTAIN
-Uguzta, the Goat, who carried me out of the river on his back in the spring,
+[Uguzta]{.name data-type="being/npc" lang=tarv}, the Goat, who carried me out of the river on his back in the spring,
 and died of the river in the autumn, in his bed, of the cough he got there.
 HIS COMPANION
 I marched beside him. He is not here. He carried the captain. He kept it.
@@ -130,7 +130,7 @@ He carried me.
 THE COMPANY
 He kept it.
 THE CAPTAIN
-Dúrreka, the Fog, who shot the herald of our own paymaster by mistake in the fog,
+[Dúrreka]{.name data-type="being/npc" lang=tarv}, the Fog, who shot the herald of our own paymaster by mistake in the fog,
 and paid the company's penalty for it from his own pay for three seasons, every bit,
 and was killed in the fourth season, owing nothing.
 HIS COMPANION
@@ -175,7 +175,7 @@ Now the names earned this year.
 The man who came over the wall second, behind the Scree.
 What do we call him?
 THE COMPANY
-Garrunda. The Peak. He was the top of the wall.
+[Garrunda]{.name data-type="being/npc" lang=tarv}. The Peak. He was the top of the wall.
 THE CAPTAIN
 Garrunda. Say it to him.
 THE COMPANY
@@ -187,7 +187,7 @@ The boy who carried the bolts to the line under the arrows on the river bank,
 who was not on the roll, and was there.
 What do we call him?
 THE COMPANY
-Ekutsa. The Sheepdog. Up and down the bank all day, and never bit.
+[Ekutsa]{.name data-type="being/npc" lang=tarv}. The Sheepdog. Up and down the bank all day, and never bit.
 THE CAPTAIN
 Then he is on the roll. Ekutsa. Say it to him.
 THE COMPANY

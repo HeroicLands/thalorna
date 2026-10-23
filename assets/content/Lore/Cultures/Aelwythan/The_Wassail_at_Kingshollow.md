@@ -171,7 +171,7 @@ _The door is opened. The king stands in it, or the steward, and says:_
 
 > "Ye have asked it well, and ye shall have it. Go up at first light, and fell the tree my forester hath marked, and that one and no other. Wassail."
 
-_The singers answer:_ "Wassail, and the Twelve keep thee."
+_The singers answer:_ "Wassail, and [[affiliation-arldnpnthn|the Twelve]] keep thee."
 
 : The Going Home {#home}
 

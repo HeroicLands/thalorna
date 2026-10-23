@@ -28,11 +28,11 @@ _The eldest of the near hearth has the staff._
 
 These are the dead of the Eichthúl. Put the children where they can hear.
 One stroke to a name. Say the deed as you had it. If you have it wrong, the hall stops its feet.
-**Thalrún** had the staff last winter. I have it this winter, and I begin with her.
+[Thalrún]{.name data-type="being/npc" lang=varo} had the staff last winter. I have it this winter, and I begin with her.
 
 Thalrún, who said these forty winters, and is said.
-**Vithskorn**, who mended the weir in the autumn and did not see it hold the spring water.
-**Vandilda**, who went up to the posts with the Nordmen's own words in her mouth, and was not answered.
+[Vithskorn]{.name data-type="being/npc" lang=varo}, who mended the weir in the autumn and did not see it hold the spring water.
+[Vandilda]{.name data-type="being/npc" lang=varo}, who went up to the posts with the Nordmen's own words in her mouth, and was not answered.
 
     She went at the thaw, when the ice goes, alone, with no spear behind her,
     and stood at their gate and said in their tongue whose ground it was and what was under it,
@@ -41,13 +41,13 @@ Thalrún, who said these forty winters, and is said.
     so that the words would be ours whatever the gate did. She was dead by the long days.
     The posts are standing.
 
-**Erthrik**.
+[Erthrik]{.name data-type="being/npc" lang=varo}.
 
     There is no deed. He was sixteen. He is said.
 
 Those are the four from thaw to thaw. The staff goes back.
 
-**Wulfbán**, who carried the fire behind Mahnulf to the first stockade, and was dead before the second stood.
+[Wulfbán]{.name data-type="being/npc" lang=varo}, who carried the fire behind Mahnulf to the first stockade, and was dead before the second stood.
 
     The wind was off the grove that night and the fire went where it was sent.
     The Nordmen stood out in the field with their cattle and let it burn,
@@ -56,22 +56,22 @@ Those are the four from thaw to thaw. The staff goes back.
     The river fever had him before the leaves.
     The posts are standing.
 
-**Harskald**, who was Hildskald and recited the burning to the _frath_ every winter after, in the same words,
+[Harskald]{.name data-type="being/npc" lang=varo}, who was Hildskald and recited the burning to the _frath_ every winter after, in the same words,
 and the burning as we have it is in his words.
-**Frithrád**, who brought the _frath_ home.
+[Frithrád]{.name data-type="being/npc" lang=varo}, who brought the _frath_ home.
 
 _The far hearth, every winter:_ Late.
 
 _The eldest:_
 
-**Sundrik**, who ate for three and fought for two, and the hall called it a fair bargain.
-**Erthmund**, who carried **Grimrik** four miles with an arrow in his own leg and set him down at the wrong hall,
+[Sundrik]{.name data-type="being/npc" lang=varo}, who ate for three and fought for two, and the hall called it a fair bargain.
+[Erthmund]{.name data-type="being/npc" lang=varo}, who carried [Grimrik]{.name data-type="being/npc" lang=varo} four miles with an arrow in his own leg and set him down at the wrong hall,
 
     and Grimrik was fed there a week before anybody came for him, and came home fatter.
 
-**Garstein**, who left the crossing before the man who was to take it came.
-**Domrún**, who kept three feuds in her head and untied two, and said the third aloud at the moot so it would not go into the ground with her.
-**Dorgulf**, who swore a _vora_ before the _frath_ and did not keep it.
+[Garstein]{.name data-type="being/npc" lang=varo}, who left the crossing before the man who was to take it came.
+[Domrún]{.name data-type="being/npc" lang=varo}, who kept three feuds in her head and untied two, and said the third aloud at the moot so it would not go into the ground with her.
+[Dorgulf]{.name data-type="being/npc" lang=varo}, who swore a _vora_ before the _frath_ and did not keep it.
 
 _From the children's bench:_ Is he said?
 
@@ -79,13 +79,13 @@ _The eldest:_
 
 He is said. What the ancestors made of him is theirs. Keep your feet going.
 
-**Edrigar**, who was Other Chief, and heard the cow that two doors claimed, and gave the calf to a third.
-**Arnmund**. **Arnrád**. **Arnhilda**.
+[Edrigar]{.name data-type="being/npc" lang=varo}, who was Other Chief, and heard the cow that two doors claimed, and gave the calf to a third.
+[Arnmund]{.name data-type="being/npc" lang=varo}. [Arnrád]{.name data-type="being/npc" lang=varo}. [Arnhilda]{.name data-type="being/npc" lang=varo}.
 
     Three from one door in one winter, of the cough that came up the river with the grain boats.
     The door stood empty two years. It is not empty now; wait for it.
 
-**Thornwin**, who came up the river in the bottom of a grain boat and was bought, and is said.
+[Thornwin]{.name data-type="being/npc" lang=varo}, who came up the river in the bottom of a grain boat and was bought, and is said.
 The name she came with went back down the river with the boat.
 
     The _othrún_ paid two _skurth_ and an axe for her at the landing, and the boatman wanted three.
@@ -94,7 +94,7 @@ The name she came with went back down the river with the boat.
 
 _The far hearth takes the staff._
 
-**Frodwin**, who was _othrún_ in the **Winter of the Split Oak**, and portioned.
+[Frodwin]{.name data-type="being/npc" lang=varo}, who was _othrún_ in the [Winter of the Split Oak]{.name data-type="lore/history" lang=en}, and portioned.
 
     The cold came down in the deep of _grema_ and stayed.
     The great oak at the edge of the grove split from the crown to the root
@@ -106,14 +106,14 @@ _The far hearth takes the staff._
     Her hand is cut on the store-post. We measure by it still.
     The oak is standing. It leafs on both halves. It is inside their fence.
 
-**Theodmund**, who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to.
-**Wíthilda**, who kept the _gloth_, and through every night of that cold it did not go out once.
-**Hildris**, who crossed the ice to the Nordmen's farms with _skurth_ and came back with grain, and never said what else she paid.
-**Sundwin**, who was Skathár, and reckoned the Nordmen's grain against what Hildris carried, and said the sum at the moot, and it was paid.
-**Garulf**, and **Hildrún**, and **Skaldár**, who died of the cold and of the hand measure,
+[Theodmund]{.name data-type="being/npc" lang=varo}, who stopped eating that winter and said so before the hearth first, so that nobody could say afterward he had been made to.
+[Wíthilda]{.name data-type="being/npc" lang=varo}, who kept the _gloth_, and through every night of that cold it did not go out once.
+[Hildris]{.name data-type="being/npc" lang=varo}, who crossed the ice to the Nordmen's farms with _skurth_ and came back with grain, and never said what else she paid.
+[Sundwin]{.name data-type="being/npc" lang=varo}, who was Skathár, and reckoned the Nordmen's grain against what Hildris carried, and said the sum at the moot, and it was paid.
+[Garulf]{.name data-type="being/npc" lang=varo}, and [Hildrún]{.name data-type="being/npc" lang=varo}, and [Skaldár]{.name data-type="being/npc" lang=varo}, who died of the cold and of the hand measure,
 and lay in the hides at the cold end of the hall till the ground gave, and went in together.
 
-**Grimbán**. Grimrik. **Grimhilda**. **Grimwin**.
+[Grimbán]{.name data-type="being/npc" lang=varo}. Grimrik. [Grimhilda]{.name data-type="being/npc" lang=varo}. [Grimwin]{.name data-type="being/npc" lang=varo}.
 
     One door, one opening, four names. They had the far end of the hall.
     The far end is cold now and the hides are kept there.
@@ -124,24 +124,24 @@ _The far hearth:_
 
 Nobody counts them. A number is for furs.
 
-**Thalwen**, who had the boats.
-**Rikwin**.
+[Thalwen]{.name data-type="being/npc" lang=varo}, who had the boats.
+[Rikwin]{.name data-type="being/npc" lang=varo}.
 
-**Hródila**, who came out of the **Eichwern** with the furs and without **Falkwen**.
+[Hródila]{.name data-type="being/npc" lang=varo}, who came out of the [Eichwern]{.name data-type="place/feature" lang=varo} with the furs and without [Falkwen]{.name data-type="being/npc" lang=varo}.
 Falkwen.
 
-    This is the **Drowned Boat at the Eichwern**. The autumn wind came across the lake
+    This is the [Drowned Boat at the Eichwern]{.name data-type="lore/history" lang=en}. The autumn wind came across the lake
     with the year's _skurth_ in the boat, three bales, and the boat went over off the stones.
     Hródila got one bale to the stones. Some say she went back for the second.
     Some say she went back for Falkwen, and the lake had her already, and she took the bale because it was there.
     The bale fed the hall that winter. That much is not said two ways.
 
-**Waldulf**, who built the boats, and after the Eichwern built them wider.
-**Ermina**, who was Weskár, and named **Athalwin** her apprentice over her own daughter, and said why before the hall.
+[Waldulf]{.name data-type="being/npc" lang=varo}, who built the boats, and after the Eichwern built them wider.
+[Ermina]{.name data-type="being/npc" lang=varo}, who was Weskár, and named [Athalwin]{.name data-type="being/npc" lang=varo} her apprentice over her own daughter, and said why before the hall.
 Athalwin, who was Weskár after her, and went out to the wesk nine times, and was asked nine times what the dead had said, and nine times said: nothing you may hear.
-**Balthulf**, who was War Chief, and lost the seat at the moot to **Dagrith**, and kept his bench, and ate at Dagrith's fire till he died.
+[Balthulf]{.name data-type="being/npc" lang=varo}, who was War Chief, and lost the seat at the moot to [Dagrith]{.name data-type="being/npc" lang=varo}, and kept his bench, and ate at Dagrith's fire till he died.
 Dagrith.
-**Wulfrád**, who raised the first post of this hall the summer the mother village split,
+[Wulfrád]{.name data-type="being/npc" lang=varo}, who raised the first post of this hall the summer the mother village split,
 
     and the feud with the mother village that the split gave us he carried till his death,
     and his grandson untied it, and the grandson is under the oaks.
@@ -172,19 +172,19 @@ Say them, then. Our feet are still.
 
 _The far hearth keeps its feet still through these._
 
-**Athalrik**, who turned the first sod of the _hrum_ under the oaks, and is in it.
-**Athalrún**.
-**Dagwin**, who carried the goods up to the mound for every funeral of her life and chose them.
-**Vithmund**, who held the Nordmen at the old ford, in the years of the raiding.
+[Athalrik]{.name data-type="being/npc" lang=varo}, who turned the first sod of the _hrum_ under the oaks, and is in it.
+[Athalrún]{.name data-type="being/npc" lang=varo}.
+[Dagwin]{.name data-type="being/npc" lang=varo}, who carried the goods up to the mound for every funeral of her life and chose them.
+[Vithmund]{.name data-type="being/npc" lang=varo}, who held the Nordmen at the old ford, in the years of the raiding.
 
     They came up the river at the thaw, for cattle, and he met them at the ford with eleven.
     Six of the eleven are in the mound with him. The Nordmen went home.
     Their grandsons' grandsons came down the road instead, with posts, and did not go home.
 
-**Skaldrún**. **Druthwin**. **Vristmund**.
-**Theodbán**, who was War Chief for nineteen years and died in his bed, which he said was the deed.
-**Ermawin**. **Vandhelm**.
-**Frithgár**, who was the last laid there, the summer before the posts.
+[Skaldrún]{.name data-type="being/npc" lang=varo}. [Druthwin]{.name data-type="being/npc" lang=varo}. [Vristmund]{.name data-type="being/npc" lang=varo}.
+[Theodbán]{.name data-type="being/npc" lang=varo}, who was War Chief for nineteen years and died in his bed, which he said was the deed.
+[Ermawin]{.name data-type="being/npc" lang=varo}. [Vandhelm]{.name data-type="being/npc" lang=varo}.
+[Frithgár]{.name data-type="being/npc" lang=varo}, who was the last laid there, the summer before the posts.
 The posts are standing.
 
 _The Weskár, Erthilda, from her place by the fire:_
@@ -195,27 +195,27 @@ _Nothing is said after it. No feet go while the length of a calling passes, and 
 
 Now the ones whose deeds we have lost. Strike slower. There is nothing to say between.
 
-**Rikmund**, who did a thing at the ford. The ford is known. The thing is not.
-**Brunjara**, whose deed went with the hearth that had it.
+[Rikmund]{.name data-type="being/npc" lang=varo}, who did a thing at the ford. The ford is known. The thing is not.
+[Brunjara]{.name data-type="being/npc" lang=varo}, whose deed went with the hearth that had it.
 
     That hearth burned in Grimbán's grandmother's time,
     and the names came over to this end of the hall without their lines.
     We have the names. Nobody has gone and got the lines back.
 
-**Harwen**, who was at the Eichwern, on the stones or in the boat.
+[Harwen]{.name data-type="being/npc" lang=varo}, who was at the Eichwern, on the stones or in the boat.
 The hearth that knew which is the hearth that burned.
-**Druthulf**. **Thrawin**. **Frithwen**. **Garwin**.
-**Gárhilda**, who had a horse.
-**Erthwin**.
-**Rádhilda**, who was _othrún_, or her mother was.
+[Druthulf]{.name data-type="being/npc" lang=varo}. [Thrawin]{.name data-type="being/npc" lang=varo}. [Frithwen]{.name data-type="being/npc" lang=varo}. [Garwin]{.name data-type="being/npc" lang=varo}.
+[Gárhilda]{.name data-type="being/npc" lang=varo}, who had a horse.
+[Erthwin]{.name data-type="being/npc" lang=varo}.
+[Rádhilda]{.name data-type="being/npc" lang=varo}, who was _othrún_, or her mother was.
 
 Now the ones who are the wood.
 
-**Balthrith**. **Hildwin**.
-**Domrik**. **Dómrika**.
-**Vithár**. **Vithilda**.
-**Waldrún**. **Skathrún**.
-**Thrawald**. **Thrarún**. **Wulfstein**. **Thragrim**.
+[Balthrith]{.name data-type="being/npc" lang=varo}. [Hildwin]{.name data-type="being/npc" lang=varo}.
+[Domrik]{.name data-type="being/npc" lang=varo}. [Dómrika]{.name data-type="being/npc" lang=varo}.
+[Vithár]{.name data-type="being/npc" lang=varo}. [Vithilda]{.name data-type="being/npc" lang=varo}.
+[Waldrún]{.name data-type="being/npc" lang=varo}. [Skathrún]{.name data-type="being/npc" lang=varo}.
+[Thrawald]{.name data-type="being/npc" lang=varo}. [Thrarún]{.name data-type="being/npc" lang=varo}. [Wulfstein]{.name data-type="being/npc" lang=varo}. [Thragrim]{.name data-type="being/npc" lang=varo}.
 
     Before Thragrim the staff has nothing.
     The names went into the oaks before there was a staff to strike them,
@@ -223,14 +223,14 @@ Now the ones who are the wood.
 
 Now the staff turns.
 
-**Arnwin**, born at the thaw, said for the first time.
-**Skathulf**, born in the long days, said for the first time.
-**Frodrik**, born at Weskmund, who has the door the cough emptied, said for the first time.
-**Dagrún**, named three nights before this one.
+[Arnwin]{.name data-type="being/npc" lang=varo}, born at the thaw, said for the first time.
+[Skathulf]{.name data-type="being/npc" lang=varo}, born in the long days, said for the first time.
+[Frodrik]{.name data-type="being/npc" lang=varo}, born at Weskmund, who has the door the cough emptied, said for the first time.
+[Dagrún]{.name data-type="being/npc" lang=varo}, named three nights before this one.
 
 Who has them after me?
 
-_**Othwen**:_ I have them.
+_[Othwen]{.name data-type="being/npc" lang=varo}:_ I have them.
 
 _The eldest:_ Say the first.
 

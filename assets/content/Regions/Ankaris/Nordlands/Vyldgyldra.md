@@ -54,7 +54,7 @@ The bowl went by her, full.
 The wall was whole that night,
 the turf-knife on its peg.
 
-Jel came. The pits, counted
+[[lore-jol|Jel]] came. The pits, counted
 twice, came up the same twice.
 He called the ting in snow —
 no sword came, no feud came —
@@ -204,7 +204,7 @@ A debt said is a howe:
 nobody digs in it.
 
 The tellers have a cliff
-in the Three Winters, gray
+in the [[lore-threewinters|Three Winters]], gray
 heads going over it.
 They have it. I do not.
 I have one door, one bowl,
@@ -226,7 +226,7 @@ The hall roofed in bone is the whale's ribs where the gale had the roof. "Fewer"
 
 The sixteenth stanza is the debt entered. A debt said at a feast and carried by a skald is in the hall's [[lore-kinhalcrdt|standing credit]] from that night, so a debt said is a howe, and nobody digs in it: digging in a howe is theft from the dead and the line together. He has said it at two Jels so far.
 
-The cliff is [[lore-threewinters|the Three Winters]]. The tellers have gray heads going over it, and some skalds give the five kings' oath as history. Hliskvir will not; he cuts no notch he did not see. The one-eyed's birds are [[lore-odvardty|Odvar]]'s ravens, which wheel over the cliffs at Gnaldurfjord, and the brooch on a Hirvskáld's cloak.
+The cliff is the Three Winters. The tellers have gray heads going over it, and some skalds give the five kings' oath as history. Hliskvir will not; he cuts no notch he did not see. The one-eyed's birds are [[lore-odvardty|Odvar]]'s ravens, which wheel over the cliffs at Gnaldurfjord, and the brooch on a Hirvskáld's cloak.
 
 : The close {#close}
 

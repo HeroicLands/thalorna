@@ -129,7 +129,7 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Thornulf**.
+[Thornulf]{.name data-type="being/npc" lang=varo}.
 You were on the platform. You came down when the dogs stopped.
 That is your spear in the yard with the bend bitten out of it.
 We would have burned you. A man of the band is burned,
@@ -147,7 +147,7 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Sundilda**.
+[Sundilda]{.name data-type="being/npc" lang=varo}.
 Your stores were counted the morning after and nothing was short,
 which is what you would have asked first.
 Your comb. The blue one, that you wore on the river days,
@@ -173,7 +173,7 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Radwin**.
+[Radwin]{.name data-type="being/npc" lang=varo}.
 There was a stag of yours over half the doors we left.
 Yours was over your own, and the knife marks were still white on it.
 This one you kept back. It was not finished.
@@ -188,7 +188,7 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Othgar**.
+[Othgar]{.name data-type="being/npc" lang=varo}.
 Your name was a summer old.
 You took it at the spring hunt, and the band said it back to you.
 The Theodár called it at the gate, and no one answered to it.
@@ -204,7 +204,7 @@ Where will you go, with no ground on you?
 
 _The one who leads:_
 
-**Fródhilda**.
+[Fródhilda]{.name data-type="being/npc" lang=varo}.
 Your needle-case. Bone, with the stopper your father cut.
 There are four needles in it. We counted. Four.
 You sewed the pelts for the river;
@@ -286,7 +286,7 @@ We will say you, with no ground on you.
 _The one who leads:_
 
 And this.
-At Weskskald, when the fire is banked and the household says its dead,
+At [Weskskald]{.name data-type="lore/gathering" lang=varo}, when the fire is banked and the household says its dead,
 the ones who were burned and the ones who were put in,
 back to the oldest of them,
 we will say you with them.

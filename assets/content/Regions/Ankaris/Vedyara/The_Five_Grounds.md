@@ -116,9 +116,9 @@ the horses went over the banners,
 the king went down under his horse,
 and none of the host came home.
 
-No conch of Kalavrata: the households were five days south.
+No conch of [[affiliation-kalavrata|Kalavrata]]: the households were five days south.
 No lamp: the houses were burning.
-No fire of Rasikara: there was nobody left to lay it,
+No fire of [[affiliation-rasikara|Rasikara]]: there was nobody left to lay it,
 and the hundred banners lay their dead out and say the names to the wind,
 and nobody laid them out, and nobody said the names.
 Two hosts went through one door at once, and nobody shut it.
@@ -163,17 +163,17 @@ A herder who sees it cross lets it gho.
 The captain tells the new men the names,
 in the shape the names are told, where each was found.
 
-**Ashvapala**, who went in after a strayed horse
+[Ashvapala]{.name data-type="being/npc" lang=vedy}, who went in after a strayed horse
 at first dark, with the rope in his hand.
 Found at the stones in the morning
 with the rope in his hand and no horse on it.
 
-**Jalavira**, who said the wind off the hills was wind,
+[Jalavira]{.name data-type="being/npc" lang=vedy}, who said the wind off the hills was wind,
 in the dry season, and lifted the chain.
 Found a hundred paces in,
 face to the hills, no mark on him.
 
-**Meghavira**, who did not lift the chain.
+[Meghavira]{.name data-type="being/npc" lang=vedy}, who did not lift the chain.
 He camped at the post, as the rule says,
 and in the night he got up and walked,
 and the men at the fire thought he had got up to piss.
@@ -277,7 +277,7 @@ Nobody has settled it. They settle the knife and leave it.
 Hear who sings this.
 We are hired men, Vedyari and Dunhari and both.
 We never saw the kingdom; none of us did.
-Kavrabira hired the first of us ten years after, out of the escort money,
+[Kavrabira]{.name data-type="being/npc" lang=vedy} hired the first of us ten years after, out of the escort money,
 by the season, and we are hired by the season still,
 and the money comes from the road, and the road is what the king went up with his banners,
 and when the money stops we keep the road anyway

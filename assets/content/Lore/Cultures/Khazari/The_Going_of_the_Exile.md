@@ -59,7 +59,7 @@ That is as it should be.
 
 Four bars go across the gate on the inside.
   They are the oldest iron in the hold.
-**Gasvan** of Tanv-guráz made them and quenched them in the sump,
+[Gasvan]{.name data-type="being/npc" lang=khaz} of Tanv-guráz made them and quenched them in the sump,
   and the water hissed, the account says,
 and the iron set.
   They hold.
@@ -120,8 +120,8 @@ My hammer is on the wall of the gatehouse, on the second peg.
 The hand was mine.
   It is here.
 
-I had the gate from **Tunvun** of Tanv-guráz,
-  who had it from **Tunuv**,
+I had the gate from [Tunvun]{.name data-type="being/npc" lang=khaz} of Tanv-guráz,
+  who had it from [Tunuv]{.name data-type="being/npc" lang=khaz},
 who had it from the one who hung the bars,
   Gasvan, who quenched them.
 Four keepers of the gate since the bars were hung.

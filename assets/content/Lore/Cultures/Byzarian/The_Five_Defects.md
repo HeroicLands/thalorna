@@ -38,7 +38,7 @@ In the year before the Compact a host came out of the steppe and over the passes
 
 The five cities each sent what men they had, and they put them under one man, because there was no time to quarrel about who should command, and the man was Strátimos Ghéranides of the pass-city, which you call Argirteikhos. Remember his name. It is the one name in this telling that every city tells alike.
 
-Strátimos did not go out to meet the host on the grass, where every horse it rode would have counted against him. He walled the springs. Every spring in the foothills he ringed with a fort of stone and turf, and he put men from two cities in every fort, so that no fort was any one city's, and the host came down out of the passes and found every water it could reach under the arrows of men who could not be bought by any one city's quarrel. It went at the forts for eleven days and took none. Its horses died at the walls of arrows, and in the ground between the forts of thirst, and the field where they died is the field the March garrison keeps the jar at, which you will hear about if your master trades east. What was left of the host went back the way it had come.
+Strátimos did not go out to meet the host on the grass, where every horse it rode would have counted against him. He walled the springs. Every spring in the foothills he ringed with a fort of stone and turf, and he put men from two cities in every fort, so that no fort was any one city's, and the host came down out of the passes and found every water it could reach under the arrows of men who could not be bought by any one city's quarrel. It went at the forts for eleven days and took none. Its horses died at the walls of arrows, and in the ground between the forts of thirst, and the field where they died is the field the [[place-eastrnmrch|March]] garrison keeps the jar at, which you will hear about if your master trades east. What was left of the host went back the way it had come.
 
 Here is the first lesson, apprentices, before the telling begins: a host does not die of its strength. It dies of what it lacks.
 
@@ -58,15 +58,15 @@ He named the top of the road because it was the one place on the map that belong
 
 They came before the barley was cut, five envoys, each with his scribe and his servants and his city's die, and they lodged in the toll-houses of the mule-yard town, and the town's council gave them bread and wine and roast kid before it asked them anything, because it was the custom of the mule-masters to feed a caravan-master before naming him a price, and the custom of the mule-masters is the custom of the Hall.
 
-From Nesthiros came **Ánevkar**, a ship-owner, who had the wind in his name and the sea in his walk, and who did not like the mules.
+From Nesthiros came Ánevkar, a ship-owner, who had the wind in his name and the sea in his walk, and who did not like the mules.
 
-From Argirteikhos came **Teíkhazur**, a captain of the wall, who had stood on it through the eleven days and did not let anyone forget it.
+From Argirteikhos came Teíkhazur, a captain of the wall, who had stood on it through the eleven days and did not let anyone forget it.
 
-From Órashion came **Órashazur**, a master of the forges, black in the creases of his hands where no washing reaches, who spoke slowly and meant everything.
+From Órashion came Órashazur, a master of the forges, black in the creases of his hands where no washing reaches, who spoke slowly and meant everything.
 
-From Karvashion came **Tchirnalash**, a caravan-master, who had a bell on his belt as caravan-masters do, and who smiled at everything and agreed to nothing.
+From Karvashion came Tchirnalash, a caravan-master, who had a bell on his belt as caravan-masters do, and who smiled at everything and agreed to nothing.
 
-From Krusteikhos, which was the town they were sitting in, came **Agórankar**, the warden of the mule-market, who was the youngest of the five and the poorest, and who poured the wine.
+From Krusteikhos, which was the town they were sitting in, came Agórankar, the warden of the mule-market, who was the youngest of the five and the poorest, and who poured the wine.
 
 And Strátimos came down from the springs with two soldiers and sat at the end of the table, and said he was not an envoy, and would not speak until he was asked, and would not leave until they had sealed.
 
@@ -155,7 +155,7 @@ That is how Krusteikhos, which had nothing but the place, came to hold the table
 
 ## The Republic's Envoy
 
-You will want to know what the Republic did. It was the Republic's country, after all, in those years, or it thought so.
+You will want to know what the [Republic]{.name data-type="affiliation/polity" lang=en} did. It was the Republic's country, after all, in those years, or it thought so.
 
 In the summer after the Compact an envoy of the Republic came east with a small escort and a large letter, and the five cities received him in the new hall, which had a roof by then, and he read the letter aloud. It said that the cities had made a league without leave, and that the Republic required them to dissolve it and submit their passes to the Republic's officers.
 

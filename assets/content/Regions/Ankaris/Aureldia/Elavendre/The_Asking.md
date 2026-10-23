@@ -137,7 +137,7 @@ with wind. You went up all the same.
 
 The pass was high. The snow came cold.
   Some sat to rest. They sit there yet.
-  Nela, his daughter, would not let
+  [Nela]{.name data-type="being/npc" lang=aele}, his daughter, would not let
 the lamb go from her coat's warm fold.
 
 And every ewe you have, you say,
@@ -174,7 +174,7 @@ That night you stopped outside, and lit
   took starlight, up into the dark,
 and all the hillside shone with it.
 
-Your shaman, Silor, sang. The wood
+Your shaman, [Silor]{.name data-type="being/npc" lang=aele}, sang. The wood
   did not reply. His songs were made
   for wolf and rain and river, laid
 on grass-land. Here they did no good.
@@ -230,7 +230,7 @@ Take me, and leave them, and we'll serve
 Believe it, and we will not swerve."
 
 The wood said nothing. Nor did we.
-  The prayer was wrong. Your Way does not
+  The prayer was wrong. Your [[affiliation-theoldway|Way]] does not
   beg favors, and he knew it. What
 he did, he meant. And we could see.
 
@@ -241,7 +241,7 @@ bread, milk, and blood: the plain's old due.
 
 It had not asked. One night, alone,
   he came down to the pool. And there
-  was one of us: Lauva, whose care
+  was one of us: [Lauva]{.name data-type="being/npc" lang=sina}, whose care
 is water, standing on a stone.
 
 He took her for the wood. He knelt,
@@ -268,7 +268,7 @@ You did not ask. We did not say.
   before, and watched it fall behind
 the next bright thing, and pass away.
 
-Hauletta, eldest of us, said,
+[Hauletta]{.name data-type="being/npc" lang=sina}, eldest of us, said,
   "I knew halls once." She stopped. "These came
   here pushed. A pushed thing does the same
 to what is next. And we're ahead.
@@ -301,7 +301,7 @@ nor let you in, nor let you go.
 We turned the paths in rings. The deer
   went in to where you could not go.
   You hunted nothing in the snow.
-You starved. You call it the Lean Year.
+You starved. You call it [[lore-nelgancross|the Lean Year]].
 
 A girl died in your camp. Her bones
   went under stone. Her brothers were
@@ -320,7 +320,7 @@ The fog kept him. No man, no dog.
 
 You did not know that hollow yet,
   nor what it was. You'd learn. The cost
-  was Dranketh, Ansel's brother. Lost.
+  was [Dranketh]{.name data-type="being/npc" lang=aele}, [Ansel]{.name data-type="being/npc" lang=aele}'s brother. Lost.
 Not dead. Not back. No trace. No debt.
 
 One sat down in the snow, not old,
@@ -428,11 +428,11 @@ This wood is Lonku." "Lonpu." "No.
 His mouth could not. We let it go.
 
 "The pool where I knelt down?" he said.
-  "Mallonna is the pool. It's thin,
+  "[Mallonna]{.name data-type="place/feature" lang=sina} is the pool. It's thin,
   and Lauva keeps it. Don't go in.
 What's under it has limbs, no head."
 
-"The tree that talked?" "Tehy. Go there
+"The tree that talked?" "[Tehy]{.name data-type="place/site" lang=sina}. Go there
   seldom, with cause, and ask one thing.
   It answers true. But what you bring
 away is to some other care.
@@ -482,7 +482,7 @@ You did not ask. We did not say.
 beneath a cairn, beside the way.
 
 You found a valley, high and still.
-  You built Ésalosa in oak
+  You built [[place-eshalshldg|Ésalosa]] in oak
   and stone. No birch. The first hearth-smoke
 went up. We watched it from the hill.
 
@@ -533,7 +533,7 @@ as Dhargan had. That Pact is yours.
 
 One spring he asked about the fog
   that kept his son. Hauletta told:
-  "Talve. It's thin there, when the cold
+  "[Talve]{.name data-type="place/site" lang=sina}. It's thin there, when the cold
 goes out in spring. Take spear and dog.
 
 Sit by it through the night, in twos.
@@ -603,7 +603,7 @@ holds stones. Not him. Where, we don't know.
 
 His Nela kept the lore, grew old,
   and gave it to a child, and died.
-  Tala, that child, sat down outside
+  [Tala]{.name data-type="being/npc" lang=aele}, that child, sat down outside
 the trees and sang, as she'd been told.
 
 She had one thing in it we had
@@ -626,7 +626,7 @@ You did not ask. We did not say.
   where Dhargan had. And he had that
 same face, the first one's, gone half grey.
 
-"I'm Ghalmir, of his line," he said.
+"I'm [Ghalmir]{.name data-type="being/npc" lang=aele}, of his line," he said.
   Hauletta looked at him, and saw
   the first one's face, the same set jaw,
 and, under stone, the first one, dead.
@@ -671,7 +671,7 @@ It walked at night. It took the young:
 in fog, the wrong song on his tongue.
 
 The song for it was in the lore.
-  Mogha, his sister, had it whole.
+  [Mogha]{.name data-type="being/npc" lang=aele}, his sister, had it whole.
   No one had asked her. That's the hole
 it came in by. Not fog. A door.
 
@@ -725,11 +725,11 @@ say no to you. The why we hold.
 
 ```verse {form=lay lang=en}
 One spring: fires on the pass, at night.
-  Nelgan, you call it now: Snow-Gate.
+  [[place-nelgan|Nelgan]], you call it now: Snow-Gate.
   The folk who'd pushed your fathers. Late,
 but come. For grass. For sheep. To fight.
 
-His name was Dulthan, the Deep Dark.
+His name was [Dulthan]{.name data-type="being/npc" lang=aele}, the Deep Dark.
   Your mothers say that name to make
   a child lie still. He'd burned, to take
 the grass, two valleys to the bark.

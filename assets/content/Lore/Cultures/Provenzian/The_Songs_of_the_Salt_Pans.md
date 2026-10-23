@@ -58,7 +58,7 @@ I am raking the salt, and the salt is white.
 
 II. The Suit Against the Sea
 
-Sea, I lent you a man in the spring at the Blessing.
+Sea, I lent you a man in the spring at the [Blessing]{.name data-type="lore/gathering" lang=en}.
 Sea, I lent you a man at the oath on the sand.
     Give back what is lent, as the honest give back.
 I lent him with oil on his brow and the staff in his hand;
@@ -134,7 +134,7 @@ What does a woman leave when the sea has gone from her eyes?
 Salt on her cheek, and she does not sell it.
     Rake it, rake it. The sun does the rest.
 
-V. The Sail at the Shrine
+V. The Sail at the [Shrine]{.name data-type="place/site" lang=en}
 
 Friend at the next pan, did you see a sail come round?
 Friend at the next pan, did you see a sail from the north?

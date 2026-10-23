@@ -58,7 +58,7 @@ the best ground in the barony? Would you? Not now.
     Where did it grow? That isn't asked at table.
     Pass the jar, and praise it while you're able.
 
-Twice the Silent Judge's priest came up the vale
+Twice the [[affiliation-selmoros|Silent Judge]]'s priest came up the vale
 to offer them the rite, and place the dead,
 and twice they thanked him, and they poured him pale
 wine of the west, and twice they shook their head.

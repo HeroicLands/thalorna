@@ -45,7 +45,7 @@ on the great stone, when he said: You are the one who goes.
 Three times the legions climbed the ranges from the plain,
 and three times the ranges sent them back the way they came.
 They held the lowlands then, the harbor and the grain,
-the walled towns and the towers that watched the lords of Lienrik by day.
+the walled towns and the towers that watched the lords of [[place-leonrik|Lienrik]] by day.
 The mountains they could not take.
 The fourth time a legion came, and it brought its road along the way:
 it cut the road in front of it, and walked on what it made.
@@ -90,7 +90,7 @@ He kept the passes there. He took no ewe from the plateau's flocks, not one,
 and none from the next valley's. Eleven men came up to him, one by one:
 a man whose company was dead, a man whose captain ran,
 a man from the coast with a reason he would not say, a smith's second son,
-two brothers from Eskarath, four from the low country with their painted shields, and one
+two brothers from [[place-eskarath|Eskarath]], four from the low country with their painted shields, and one
 who was only a man with a bow. He kept them as a captain keeps his own,
 on no contract, for no sum.
 His wife kept the holding in the third valley seven years without his name on it, and she was the one
@@ -247,7 +247,7 @@ until the horns had stopped. That is the whole recall. It still blows. It still 
 In the morning Tórsaro came down the cliff path, and his sworn men in a row,
 and they went into the gorge and counted the dead among the rocks, and it took them till the light was low.
 Under a cart gone over on its side they found the legate's standard, the cloth still on the pole,
-and the legate under it. I do not sing his name. It is the Empire's, and the Empire would not hold
+and the legate under it. I do not sing his name. It is the [[affiliation-vylarinmpr|Empire]]'s, and the Empire would not hold
 it. Let him be what they made of him: a man nobody owes.
 At evening Tórsaro came to the lower end, and climbed the stone from the gorge side, over the dead, alone,
 and found me sitting by the man with no name. The sword was across his knees. He was looking down the valley, slow,

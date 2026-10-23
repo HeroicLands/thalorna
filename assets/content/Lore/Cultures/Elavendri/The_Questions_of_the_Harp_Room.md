@@ -44,7 +44,7 @@ _The Master:_ Come in.
 _The Master:_ What is the oldest song?
 
 ```verse {form=saunarine lang=en}
-The oldest song is the Asking: those
+The oldest song is [[lore-theasking|the Asking]]: those
 who came over the snow, and chose
 to sit outside the wood, and ask,
 and wait to be called in. The task
@@ -195,7 +195,7 @@ exactly where it's asked is praised.
 At table, when they talk of the art,
 follow it well. You need not start.
 
-The Order writes it down. We sing.
+[[affiliation-ordoarcanis|The Order]] writes it down. We sing.
 Ask which of us forgets the thing.
 
 When an old one of the wood is near,
@@ -260,7 +260,7 @@ _The Master:_ Where does the crown stop?
 
 ```verse {form=saunarine lang=en}
 At the tree line. The first king said
-it at the Hearth, and nothing read:
+it at [[lore-tenaspr|the Hearth]], and nothing read:
 "Where your keeping starts, my road
 will end." It's kept. It is still owed.
 ```
@@ -283,7 +283,7 @@ just where it stops. It stops. Let be.
 _The Master:_ Where are the dead kept?
 
 ```verse {form=saunarine lang=en}
-Sélmoros keeps them past the gate.
+[[lore-selmorosdty|Sélmoros]] keeps them past the gate.
 The feast keeps them this side. And late
 or early, every name is sung,
 the least, the best, in the house's tongue.

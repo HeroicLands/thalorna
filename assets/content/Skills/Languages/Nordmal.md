@@ -1211,6 +1211,10 @@ data:
     - {name: Thalmdal, tongue: nordmal}
     - {name: Bjart, tongue: nordmal}
     - {name: Bralvik, tongue: nordmal}
+    - {name: Hrandmil, tongue: nordmal}
+    - {name: Dvarnrinna, tongue: nordmal}
+    - {name: Hamarberi, tongue: nordmal}
+    - {name: Aldvar, tongue: nordmal}
   retired:
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}

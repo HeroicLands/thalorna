@@ -28,7 +28,7 @@ The verse is in iambic tetrameter, rhymed in couplets.
 
 : The Long Thread {#tale}
 
-Lusinia, mind the wheel. Here's the long one, and it's long, so draw your wool out fine.
+[[lore-lusiniadty|Lusinia]], mind the wheel. Here's the long one, and it's long, so draw your wool out fine.
 
 In a village under the wood, this side of Liranel, there was a spinner called Áuvenna, and she spun the best thread on the coast. You know what that means. It means the weavers of the basin sent for it by name, and she never had a bit of her own, because the weaver who bought it set the price and the weaver who sold the cloth set the other one. She was the last of her house. Her mother had been a spinner and her mother's mother, and before that nobody knew, because a spinner's house has no bard, and she was the last of it, unmarried, past the age, with a wheel and a window and a debt to the weaver she would be working off till she was buried.
 
@@ -87,7 +87,7 @@ So she spun. And she took the end of the thread she had spun that night, and he 
 
 You want to know if it came true. It came true. They always do; that's the trouble with them.
 
-That spring a haulier came down the coast road with a team of oxen, **Kelthar**, a big quiet man from the timber yards at Liranel, and he stopped at her door for water, and he came back for water every week all summer, and there's only so much water a man needs. They were married at the autumn hinge. She'd not have chosen the day, but he didn't know, and she couldn't tell him. And the year after there was a daughter, Thélvara, and that was the line, running.
+That spring a haulier came down the coast road with a team of oxen, [Kelthar]{.name data-type="being/npc" lang=elav}, a big quiet man from the timber yards at Liranel, and he stopped at her door for water, and he came back for water every week all summer, and there's only so much water a man needs. They were married at the autumn hinge. She'd not have chosen the day, but he didn't know, and she couldn't tell him. And the year after there was a daughter, Thélvara, and that was the line, running.
 
 And on every hinge-night, four times a year, the one from the wood came along the thread. She'd hear the knock. Kelthar slept like a felled oak on the hinge-nights, he never woke, not once in all his life; that was part of it. She'd open the door, and the tall one would come in under it, and sit on the stool, and she'd put bread in front of him, and he'd not eat it, and he'd watch her spin. She spun his thread on those nights and no others. She never asked him anything. Not his name. Not where the thread went. Not why he wanted it. In the morning he'd be gone and the bread on the board, and she'd give it to the hens.
 

@@ -54,7 +54,7 @@ Now every bale is marked, and the price is set, and the terms are read,
 and we stand behind the seal.
 
 Free they were, and there was nothing they were free of.
-The Wayfarer had no road to wander from. The Weaver had no thread.
+[[lore-pozerasdty|The Wayfarer]] had no road to wander from. The Weaver had no thread.
 The Keeper of Sacred Wisdom had a book and nothing to write in it,
 because a word is a thing said to someone, and there was no one.
 The Forge-Lord had a fire, and the fire had no shape to hold.
@@ -111,11 +111,11 @@ and we stand behind the seal.
 
 Lady of the open book, Keeper of Sacred Wisdom, the book was yours, and you wrote.
 You wrote the clause of the road, the Wayfarer's: the road ends at the harbor, and the harbor is owed its due.
-You wrote the clause of the storm, the Thunderer's: he may break what is not built to the standard.
-You wrote the clause of increase, the Nurturer's: what is sown is owed its harvest, saving the storm.
-You wrote the clause of plenty, the Bountiful One's: what is gained is shared at the rate stated.
-You wrote the clause of wearing, the Waning Moon's: whatever is used wears, and the wearing is no theft.
-In the margin, where a scribe writes small, you wrote the Veiled Dreamer's clause:
+You wrote the clause of the storm, the [[lore-brazemasdty|Thunderer]]'s: he may break what is not built to the standard.
+You wrote the clause of increase, the [[lore-lizelasdty|Nurturer]]'s: what is sown is owed its harvest, saving the storm.
+You wrote the clause of plenty, the [[lore-olveniadty|Bountiful One]]'s: what is gained is shared at the rate stated.
+You wrote the clause of wearing, the [[lore-morvanadty|Waning Moon]]'s: whatever is used wears, and the wearing is no theft.
+In the margin, where a scribe writes small, you wrote the [[lore-zunelasdty|Veiled Dreamer]]'s clause:
 that a man may see in his sleep the terms he cannot read awake.
 You wrote the Keeper's clause first and the Silent Judge's last,
 and between them every clause of the world, and nothing in general terms,

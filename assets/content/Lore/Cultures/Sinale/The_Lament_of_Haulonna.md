@@ -52,7 +52,7 @@ This is the lament of Haulonna, the hearth of the unfallen leaf.
 Other hearths sing this with other names in it.
   Every hearth that had one of its own in the valley calls its own, and the valley had many hearths in it.
 We call five. We were far from it; few who sing this were further.
-  We sing it because one of the five was ours, **Porkila Ilevanto**, and the other four were hers.
+  We sing it because one of the five was ours, [Porkila Ilevanto]{.name data-type="being/npc" lang=sina}, and the other four were hers.
 
 Haulonna is a valley in the north, high, with the rock close on both sides,
   and the hearth-row along the water, and the trees above the hearth-row, and the pool above the trees.
@@ -75,7 +75,7 @@ There was a pool at the top of Haulonna, above the last of the trees,
   a high pool with a lip of stone, that the sky lay in.
 In the morning a low cloud came up the valley and sat on it,
   as a low cloud does on high water, every morning there is, out of the north.
-**Pelvaila Pelvainto** kept the low cloud off the high pool.
+Pelvaila Pelvainto kept the low cloud off the high pool.
   She went up before the light and sang the cloud down off the water,
 down the slope, into the oaks, where it did no harm and was pretty among the trunks,
   so that the pool was clear when the first of us came up to it,
@@ -98,7 +98,7 @@ The call goes north over the water.
   The call goes north, and no one turns.
 
 No one found Haulonna twice who was not of it. That was not the valley's doing.
-  **Kinsatti Hallesinto** walked the boundary paths and turned them.
+  [Kinsatti Hallesinto]{.name data-type="being/npc" lang=sina} walked the boundary paths and turned them.
 He went out at the still hour with nothing in his hands
   and walked each path to where it left the valley, and turned it there,
 so that a path which came in went out again a little further along,
@@ -134,7 +134,7 @@ The call goes north over the water.
 There was a spring at the foot of the valley where the water came out of the hill,
   a cold spring, the coldest in Haulonna, and the whole hearth-row drank from it.
 In the north a spring like that shuts in the winter. The ice goes in at the mouth of it.
-  **Kelkasitta Nuominto** sang the cold spring open.
+  [Kelkasitta Nuominto]{.name data-type="being/npc" lang=sina} sang the cold spring open.
 She went down at the still hour, which is her hearth's hour, with a cup,
   and sat by the shut mouth of the spring and sang to the water behind the ice,
 and the water remembered that it was running, and ran, and the ice let go of the stone,
@@ -155,7 +155,7 @@ Kelkasitta.
 The call goes north over the water.
   The call goes north, and no one turns.
 
-**Toimuvo Sulmento** was a child, and had his name one year.
+[Toimuvo Sulmento]{.name data-type="being/npc" lang=sina} was a child, and had his name one year.
   He was a child without a name a long while, as our children are.
 We name slowly. A child is a child a long while before it is anyone.
   The hearth watched him for the thing he was, and said nothing for years, and then said it,

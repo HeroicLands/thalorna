@@ -144,10 +144,10 @@ the god home from falling.
 
 Aldarlok opens the last field;
 all its defenders gather there.
-Vigvoll waits beneath their feet;
+[[place-vigvoll|Vigvoll]] waits beneath their feet;
 vast is the approaching fire.
 The ash awaits its burning;
-Asguard stands beneath that doom.
+[[place-asguard|Asguard]] stands beneath that doom.
 Thrunvald faces the great wyrm;
 the hammer rises above him.
 The hand that hallows ships

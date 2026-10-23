@@ -23,7 +23,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 : The Path the Cohort Took {#tale}
 
-Sit by the stone that stops. You've seen it, at the gate: the last of the Empire's milestones, with the eagle on it and the count of the miles worn off. East of it the road is theirs, or was. West of it the road is ours. Nobody laid a stone this side of the gate, and this is why.
+Sit by the stone that stops. You've seen it, at the gate: the last of [[affiliation-vylarinmpr|the Empire]]'s milestones, with the eagle on it and the count of the miles worn off. East of it the road is theirs, or was. West of it the road is ours. Nobody laid a stone this side of the gate, and this is why.
 
 **The eagles in the hills.** In the queen's time the legions had the lowlands over the eastern border, and they came north and west into these hills to go down into the basin behind us. A legion is five thousand sworn men, and the eagle on a pole in front, and engineers who make a road under their own feet as they come. You have seen a drove of cattle on the ridge road. Think of that, and every beast in it a man with a shield, and the drove ten miles long.
 
@@ -114,13 +114,13 @@ The legion understood a few days after, when its scouts came back from the path,
 
 **Valdun.** The legion waited for its cohort, and waited, and sent scouts along the path, and the scouts found the path, and came out of the wood somewhere else, or did not. After a month the legate knew he had lost a cohort and would not get it back, and that the levy still held the basin passes, and that the tribes were still in the trees, a little way off to the west. And he sent to the queen.
 
-The queen was Réidane, of the house of Orethan, and she came up from Péravel to Valdun to treat, and she came late, as the court does. The levy sat in Valdun and watched her come up the ridge road with all her following, and the hill opinion of it was the hill opinion. You know it. But she was a sound queen, the hills allow, and she saw what there was to see: that she could not beat the legion, and that it could not beat the kingdom, and that the thing to do was to say so in a form both could keep.
+The queen was [Réidane]{.name data-type="being/npc" lang=elav}, of the house of [Orethan]{.name data-type="affiliation/lineage" lang=elav}, and she came up from [[place-beravel|Péravel]] to Valdun to treat, and she came late, as the court does. The levy sat in Valdun and watched her come up the ridge road with all her following, and the hill opinion of it was the hill opinion. You know it. But she was a sound queen, the hills allow, and she saw what there was to see: that she could not beat the legion, and that it could not beat the kingdom, and that the thing to do was to say so in a form both could keep.
 
 There was a hall at Valdun then, before the wall, a long drover's hall, and the treaty was made in it. The queen's people went in in their order, the queen first and her lords behind and the bards behind them. The levy went in behind, as was right. And Derva was in Valdun with the levy, because her steading was ashes and she had nowhere else, and the boy with her, walking now on his own feet, holding her hand, a little behind.
 
 She could not go in behind. So she went in front. She walked in ahead of the queen.
 
-You can think what that was. The queen's guard had her by the arms before she was three steps in, and her brother crying, and the queen's lords on their feet. But the queen said, "Let her stand," and they let her stand, and the queen asked her by what right she walked in front of the crown of Élavendre in a hall.
+You can think what that was. The queen's guard had her by the arms before she was three steps in, and her brother crying, and the queen's lords on their feet. But the queen said, "Let her stand," and they let her stand, and the queen asked her by what right she walked in front of the crown of [[affiliation-kngdmlvndr|Élavendre]] in a hall.
 
 Derva said, "By no right. By a bargain. If I walk behind anyone, I am theirs."
 

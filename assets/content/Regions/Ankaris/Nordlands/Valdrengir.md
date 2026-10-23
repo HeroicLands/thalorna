@@ -94,7 +94,7 @@ The cradle has claim
 in the cry of the muster;
 the childbed has claim
 where courage is counted.
-Solrún gives welcome;
+[[lore-solrundty|Solrún]] gives welcome;
 her gold hall gathers.
 There, by her measure,
 the mother is seated.
@@ -149,7 +149,7 @@ The goddess appoints
 the guest his seating.
 Her welcome comes first;
 her questions follow.
-Odvar keeps worth
+[[lore-odvardty|Odvar]] keeps worth
 in the place on the bench.
 Solrún moves guests
 as her measure bids.
@@ -221,7 +221,7 @@ when speaking was dangerous.
 The feast holds their voices;
 the field will receive them.
 
-Then Eldheim opens;
+Then [[place-eldheim|Eldheim]] opens;
 then winter walks.
 The halls give back
 the host they harbored.
@@ -243,13 +243,13 @@ All honor knows
 that fire is coming.
 
 Odvar goes forth
-where the Winter-Wolf waits.
-Thrunvald goes forth
-where the World-Wyrm rises.
-Eidgar approaches
+where the [[lore-vetrulfur|Winter-Wolf]] waits.
+[[lore-thrunvalddty|Thrunvald]] goes forth
+where the [[lore-heimsormur|World-Wyrm]] rises.
+[[lore-eidgardty|Eidgar]] approaches
 his ancient adversary.
-Frodvin faces
-Svartbrandur's fire blade.
+[[lore-frodvindty|Frodvin]] faces
+[[lore-svartbrandurdty|Svartbrandur]]'s fire blade.
 The dead do not bid
 the gods stand behind them.
 The gods do not bid
@@ -277,7 +277,7 @@ No singer may sell
 the souls of the dead.
 A remnant will rise
 when the age lies fallen.
-The Ten do not rule
+[[affiliation-asguardian|The Ten]] do not rule
 in the dawn beyond it.
 Here stand the worthy;
 here all is offered:

@@ -200,13 +200,13 @@ nine steps from the one who dropped it,
 and it lay in the fire the whole time and did not melt,
 and when the ash was wet enough to walk on
 a woman walked on it and picked it up.
-Hamarberi. She was not looking for it. It was there.
+[Hamarberi]{.name data-type="lore/deity" lang=nord}. She was not looking for it. It was there.
 It was still warm. She carried it a long way,
 and when she was tired she set it down on the new ground,
 and the new ground had its first thunder, a small one,
 and the rain stopped for a while.
 
-And the one who walks. Aldvar, [[lore-odvardty|Odvar]]'s son,
+And the one who walks. [Aldvar]{.name data-type="lore/deity" lang=nord}, [[lore-odvardty|Odvar]]'s son,
 who tore the wolf's jaw open and said nothing about it,
 walks the first morning with his hands at his sides,
 and he says none of the old names. Not his father's.

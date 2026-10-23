@@ -140,7 +140,7 @@ in the work of crossing.
 Salt stings the faces;
 still keep the watch.
 
-At the Iron Vigil
+At the [Iron Vigil]{.name data-type="lore/custom" lang=en}
 rain runs bitter cold.
 One faithful watcher
 faces the night.
@@ -159,7 +159,7 @@ he remains at his keeping.
 
 Far comes the day
 when water is venom.
-Heimsormur rises
+[[lore-heimsormur|Heimsormur]] rises
 against the last field.
 World-Wyrm, wide terror,
 meets the lifted hammer.
@@ -244,7 +244,7 @@ The low ceremony is the [Hammer's Blessing]{.name data-type="lore/custom"}, in w
 
 ## Ordeals for Favor
 
-Three ordeals are held to win the god's favor. In the [Hammer's Trial]{.name data-type="lore/custom"} the faithful lift and carry a heavy hammer a great distance and dedicate their strength to Thrunvald. In the [Ocean's Challenge]{.name data-type="lore/custom"} participants navigate treacherous waters, trusting the god to guide them safely. In the [Iron Vigil]{.name data-type="lore/custom"} they remain watchful through a stormy night and protect a sacred site from any threat.
+Three ordeals are held to win the god's favor. In the [Hammer's Trial]{.name data-type="lore/custom"} the faithful lift and carry a heavy hammer a great distance and dedicate their strength to Thrunvald. In the [Ocean's Challenge]{.name data-type="lore/custom"} participants navigate treacherous waters, trusting the god to guide them safely. In the Iron Vigil they remain watchful through a stormy night and protect a sacred site from any threat.
 
 ## See Also
 

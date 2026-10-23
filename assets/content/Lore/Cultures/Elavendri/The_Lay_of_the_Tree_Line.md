@@ -32,7 +32,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 : The Lay of the Tree Line {#lay}
 
 ```verse {form=lay lang=en}
-Lusinia, who spins the line
+[[lore-lusiniadty|Lusinia]], who spins the line
 of every house, and spun out mine,
 sit by the harp. And you who wait
 bareheaded, here, inside the gate:
@@ -45,7 +45,7 @@ bareheaded, as you stand. That's all
 the crown asks first. The rest is long.
 It waits on this. Now hear the song.
 
-The Berav runs, as it runs now,
+[[place-beravriver|The Berav]] runs, as it runs now,
 wide through the basin. Field and plough,
 and barge and quay, and squared grey stone
 were there, and houses with their own
@@ -53,7 +53,7 @@ names, and the bards to keep the names
 and sing the lines, and prove the claims
 that every line ran up the hill
 to the old people, who hold still
-the high ground and the Pact, and keep
+the high ground and the [Pact]{.name data-type="lore/law" lang=en}, and keep
 the wood above the fields and sheep.
 The basin came of them. But they
 had come down long since, and their way
@@ -65,7 +65,7 @@ at the Berav's ford, and they said,
 "We'll have a king." And they were led,
 as the basin always is, by long
 debate, and courtesy, and song,
-to Táldoren of Orethan.
+to Táldoren of [Orethan]{.name data-type="affiliation/lineage" lang=elav}.
 Three years the rain came wrong, and ran
 the harvest into mud, and men
 kept granaries barred. His house, then,
@@ -98,7 +98,7 @@ a loaf beneath her arm. Before
 the houses at the ford she stood,
 and gave it him. "This bread is good.
 It is the Lodge's. Bring it back
-up to the Hearth along the track
+up to [[lore-tenaspr|the Hearth]] along the track
 you're shown, and do not break it. Do
 not eat beside it. It's for you
 and us to break there. Bring your lords

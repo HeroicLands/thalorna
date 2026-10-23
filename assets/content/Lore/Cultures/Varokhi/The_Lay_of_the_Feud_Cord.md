@@ -30,7 +30,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 Keep the door. Set the cup down. This is the lay of the cord,
 the Othholt lay, of two halls, and the knots tied between them,
 as the one before me gave it, and the one before her.
-Strike the floor for **Armund**. Strike it twice over for the ones who came after him.
+Strike the floor for [Armund]{.name data-type="being/npc" lang=varo}. Strike it twice over for the ones who came after him.
 
 The seats are sitting. The cord is on its peg, and the Skathár has her hand on the reckoning.
 Whoever came in here to refuse, keep your hand off the cord till this is done.
@@ -42,7 +42,7 @@ A woman brought it, married out of the Grimskorn into the Harvith
 three grandmothers back, and both halls have cut in it since,
 and nobody had yet said which stump was whose, and the saying was coming.
 
-Armund was of the Grimskorn, and **Skathrik** was his _frithwin_,
+Armund was of the Grimskorn, and [Skathrik]{.name data-type="being/npc" lang=varo} was his _frithwin_,
 one winter younger, and he went where the other went.
 They came to the _frath_ in one spring and took their true names in one spring,
 and the band that took them in was nine young men, and the nine are counted here.
@@ -81,7 +81,7 @@ I take no cow for you, no pelt, no boat, no ground.
 Blood for blood, and the cord stays knotted till I have it.
 Before these nine who hear it, I say it, and they will hold me to it.
 
-That was **the Vow at the Grove**, and it was a fine thing to hear.
+That was [the Vow at the Grove]{.name data-type="lore/history" lang=en}, and it was a fine thing to hear.
 The nine struck their spears on the roots and said they had heard it.
 There was no Skathár there, and no seat, and nobody old,
 and Armund's _othwa_ was not yet born, who sits at the end of this.
@@ -92,12 +92,12 @@ and was laughed down at the wedding, and came up again at the naming.
 Skathrik did not marry. He had said where he would be, and he was there.
 
 There was a birch at the grove's edge, a good one, straight for twenty feet,
-and Armund put his mark on it in the autumn, and **Vristulf** of the Harvith put his on it under Armund's,
+and Armund put his mark on it in the autumn, and [Vristulf]{.name data-type="being/npc" lang=varo} of the Harvith put his on it under Armund's,
 and in the spring each went up to fell it and found the other's mark, and the axes were already in their hands.
 The birch is still standing. Nobody has felled it. The two marks have grown over, and the bark has closed on both.
 ```
 
-**The reckoning of the Skathár.** Kept by **Edrarún**, Skathár of Othholt, and by those after her. Armund of the Grimskorn, a [[lore-druthmundrnk|Druthmund]], killed in the grove on the third day after the thaw by Vristulf of the Harvith, with an axe, in daylight, the blow in front, over a birch both men claimed. Owed by the Harvith: the full price of a man. Offered by the Harvith at the first moon after, before the three seats, in the Grimskorn hall: forty winter pelts, marten and fox; a boat with four oars; an ox; an iron kettle; two [[lore-othmundrnk|Othmund]], a man and his wife out of the south; and the Harvith half of the grove, to Armund's _othwa_ **Árhilda**, five winters old. Reckoned by Edrarún as full. The _othrún_ of the Grimskorn spoke first, Skathrik's mother and Armund's.
+**The reckoning of the Skathár.** Kept by [Edrarún]{.name data-type="being/npc" lang=varo}, Skathár of Othholt, and by those after her. Armund of the Grimskorn, a [[lore-druthmundrnk|Druthmund]], killed in the grove on the third day after the thaw by Vristulf of the Harvith, with an axe, in daylight, the blow in front, over a birch both men claimed. Owed by the Harvith: the full price of a man. Offered by the Harvith at the first moon after, before the three seats, in the Grimskorn hall: forty winter pelts, marten and fox; a boat with four oars; an ox; an iron kettle; two [[lore-othmundrnk|Othmund]], a man and his wife out of the south; and the Harvith half of the grove, to Armund's _othwa_ [Árhilda]{.name data-type="being/npc" lang=varo}, five winters old. Reckoned by Edrarún as full. The _othrún_ of the Grimskorn spoke first, Skathrik's mother and Armund's.
 
 : Before the Three Seats {#seats}
 
@@ -140,7 +140,7 @@ He gives one bench emptied across the clearing to match ours,
 and a knot in their cord to match the knot in ours, and two more hands to tie the next.
 
 I have seen a cord go to the peg and stay there.
-At Hildreth they knotted over timber until the ones left cut a new clearing,
+At [Hildreth]{.name data-type="place/settlement" lang=varo} they knotted over timber until the ones left cut a new clearing,
 because the old one had nobody in it to cut. That is what a kept cord comes to.
 A clearing with birches through the hearth-stones, and a cord on a peg with no wall.
 
@@ -367,7 +367,7 @@ Eight on the river road at dusk, with spears, and no torch, going east.
 He counted them going, as the War Chief had counted them, and the War Chief stood by him.
 He counted them coming back at dawn, and it was easier, because it was five.
 
-At Weskskald in the second winter both halls said their dead, as every hall does, at the same hour.
+At [Weskskald]{.name data-type="lore/gathering" lang=varo} in the second winter both halls said their dead, as every hall does, at the same hour.
 The Grimskorn _othrún_ said Armund, and her husband, and her husband's mother, and back, as it is said,
 and across the clearing the Harvith said Vristulf, and the two from the trapline, and the two from the woodpile, and back,
 and the girl at the Harvith fire heard her uncle named as the hand, and her father named across the snow, and said nothing.
@@ -413,7 +413,7 @@ and the girl walked back across the snow by herself, because she was Grimskorn o
 and the Grimskorn hall had one woman in it and one fire, and nobody else was coming home to it.
 ```
 
-The third winter. Skathrik and the last three of the nine, and the last three Harvith who could hold a spear, in the grove. Six dead there. Skathrik found by the ninth at dusk, and dead before morning. The Grimskorn cord: eleven. The Harvith cord: ten. Of the Harvith at Othholt: none. The women went to Domholt and to Eichwald with the children, and the hall was unroofed for its timber. The Harvith cord went to Domholt with the _othrún_, as she had said.
+The third winter. Skathrik and the last three of the nine, and the last three Harvith who could hold a spear, in the grove. Six dead there. Skathrik found by the ninth at dusk, and dead before morning. The Grimskorn cord: eleven. The Harvith cord: ten. Of the Harvith at Othholt: none. The women went to Domholt and to [Eichwald]{.name data-type="place/settlement" lang=varo} with the children, and the hall was unroofed for its timber. The Harvith cord went to Domholt with the _othrún_, as she had said.
 
 : The Grove Again {#grove}
 

@@ -33,7 +33,7 @@ The copy given here is a school roll of the age of [[lore-akhhsmeqes|the House o
 
 ## The Prologue
 
-Keeper of the King-Lists Khelayu, Lem'Nelgir of Reth'Sa'ar, who copied the list for twenty-six years and has kept it for seven, who holds the master copy in the god's precinct on Yath-Telgu and answers for the second copy at [[place-khelunu|Khelunu]], who entered [[lore-hillhouse|the closing of the hill house]] in the year the house closed, says this to his son Zinuri, Lem'Nelgir of Reth'Sa'ar, ordained copyist, on the day of his ordination, in Year 30 of Gar-Au Gez'el'Retha III, in the first month of Shelu, with the roads open.
+Keeper of the King-Lists Khelayu, Lem'Nelgir of Reth'Sa'ar, who copied the list for twenty-six years and has kept it for seven, who holds the master copy in the god's precinct on Yath-Telgu and answers for the second copy at [[place-khelunu|Khelunu]], who entered [[lore-hillhouse|the closing of the hill house]] in the year the house closed, says this to his son Zinuri, Lem'Nelgir of Reth'Sa'ar, ordained copyist, on the day of his ordination, in Year 30 of Gar-Au Gez'el'Retha III, in the first month of [[lore-sheluessn|Shelu]], with the roads open.
 
 Sit, and do not copy anything yet. I said that to you this morning in front of the others, because it is what the Keeper says, and I say it again here, with the door shut. You will copy this list for forty years. First learn to read it. It does not say what it means, and the house has never once corrected it.
 
@@ -60,7 +60,7 @@ Tell them: the first Gar-Au, by his title.
 They ask again. Tell them again, in the same words.
 The third time, give them beer. They have come a long way, and the answer is not going to change.
 
-The farmers of [[place-zugernome|Zu-Ger]] plow round the stones. The stones are the First House.
+The farmers of [[place-zugernome|Zu-Ger]] plow round the stones. The stones are the [First House]{.name data-type="affiliation/lineage" lang=en}.
 Do not tell the farmers what the stones are. They know, and it is their field.
 
 Learn the hand you were given.
@@ -70,8 +70,8 @@ Neither of you is a fool. Do not read his manifest at him.
 A man who reads both hands is very senior or under suspicion.
 Be very senior.
 
-Cut your reeds in Gelet, when the stem is green, and dry them on the roof.
-A reed cut in Azlet drinks the ink and splits at the first stroke.
+Cut your reeds in [[lore-geletssn|Gelet]], when the stem is green, and dry them on the roof.
+A reed cut in [[lore-azletssn|Azlet]] drinks the ink and splits at the first stroke.
 Keep the knife sharp. A dull knife makes a thick pen,
 a thick pen makes a fat sign, a fat sign reads as another sign,
 and another sign is another reign.
@@ -121,7 +121,7 @@ Look. Do not write what you see.
 _A child of five floods_, and the name of the one who stood beside him.
 Write the year, the child and the one who stood. Write nothing else.
 You will want to write more.
-The list has wanted to since the First Tablets, and has not.
+The list has wanted to since the [[lore-akhfirsttab|First Tablets]], and has not.
 _The throne passed to the one who stood beside it._
 Read the line above it. Then read this line again.
 _The house is closed._ Four signs. Write them shut.
@@ -149,7 +149,7 @@ If the scraper is ever put in your hand, hold it for the time it takes to say th
 Then use it. The priesthood has judged. You are the hand, and the hand does not judge twice.
 
 A throne name is the first thing a reign says, and it is said to you.
-Gez'el'Retha, the third. The second wore it in Azlet'Kutu,
+Gez'el'Retha, the third. The second wore it in [Azlet'Kutu]{.name data-type="affiliation/lineage" lang=khel},
 and between the second and the third lie nearly seven hundred years of tablets.
 The name said: the crown is the old crown.
 It did not say what the sixty years before it were.
@@ -161,7 +161,7 @@ Write it, and let it say what it says.
 I entered the closing of the hill house. I was in my fourth year at the desk.
 The Keeper put the tablet in front of me and said, "The house is closed. Enter it."
 I entered it: four reigns, fifty-nine years, and the formula.
-The first of them was crowned Kuz'Uqa. The fourth was crowned Legir'Uzner, the first,
+The first of them was crowned [Kuz'Uqa]{.name data-type="being/npc" lang=khel}. The fourth was crowned [Legir'Uzner]{.name data-type="being/npc" lang=khel}, the first,
 fair of the healer, a name no hill-man would have chosen. It was chosen for him.
 Enter the name. The name was worn, and a worn name is so.
 Nobody struck the house. I was not told why, and I did not ask,
@@ -193,7 +193,7 @@ Pay the club. Pay it before the beer.
 A copyist of the god's precinct goes to the West wrapped, and the precinct sees to it.
 Pay the club anyway. Your mother did not copy for the god.
 
-Drink at the god's feast. Pleasure is gratitude; the priests of Thuba'i say so.
+Drink at the god's feast. Pleasure is gratitude; the priests of [[affiliation-thubai|Thuba'i]] say so.
 Do not drink on a copying day.
 
 Buy your zaglu early, and buy them plain.

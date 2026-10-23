@@ -50,8 +50,8 @@ He weighed the silk at the warehouse door with a balance he had from his father,
   and he weighed it right every day of his life, and his hands smelled of the bales.
 He owed: the dyer of the fourth street, for the indigo, the spring consignment;
   the house of the weavers, for the loom he broke, which he had already paid;
-  the temple of the Forge, a lamp, which he had promised and not brought.
-He was owed: by the factor in Karvashion, the price of nine bales, at the second grade;
+  the temple of the [[affiliation-sacredforge|Forge]], a lamp, which he had promised and not brought.
+He was owed: by the factor in [[place-karvashion2|Karvashion]], the price of nine bales, at the second grade;
   by his brother's widow, nothing, though he lent her much; he wrote it off on the bed.
 He settled it aloud. I held his hand while he settled it.
   He called in the nine bales and owned the indigo and the lamp,
@@ -97,7 +97,7 @@ They were right to. I would have. I sent them a bale of the ruined silk,
 Keeper, who keeps a keeping for a man the sea has?
   Who keeps the keeping, when the keeper is kept?
 
-Keeper, I was a bride at the Thresholds. You know the custom. Write it anyway.
+Keeper, I was a bride at the [Thresholds]{.name data-type="lore/gathering" lang=en}. You know the custom. Write it anyway.
   On the turning morning the spouses go down with the merchants and the masters,
 and the temple's witness reads the vow over, and the two seal it again,
   and the clerk writes it in the record under the year, as the gods renew the world.
@@ -112,7 +112,7 @@ This year I went down alone. The witness asked me what I had come to renew.
 He wrote: the vow unrenewed, the husband being kept. That is the term for it.
   He wrote it kindly. Write it here too, keeper, in the margin. It is a number: one.
 
-And on the night of the black candles, at the end of the Silent Passage,
+And on the night of the black candles, at the end of the [Silent Passage]{.name data-type="lore/gathering" lang=en},
   when your temples are shut to us and the priests are saying the rites inside,
 I set the candles in the windows of the house on the street of the weavers,
   a candle for every name on the lintel, as the custom is, in the lintel's order,

@@ -40,7 +40,7 @@ and where the clay is broken, I will tell you so, and say.
 
   _Here. This one. The man in gold._
 
-This is the prince. His name was Gold. His father's name was Law,
+This is the prince. His name was Gold. His father's name was [Law]{.name data-type="being/npc" lang=en},
 and when his father died the town had never seen a flaw
 in the count of what it owed and what was owed it in return.
 Sunhemay loved the second half. He let the first half burn.
@@ -73,7 +73,7 @@ baked hard against the day that comes to every house, and more.
 And this one, at her skirt, with the wooden sword, is their son.
 They named him Return. Revunay. I will tell you why that was done.
 For the prince sent the champion away in the first year of his reign,
-to the salt and the Descent, to make his debts in silver plain,
+to the salt and [[place-wstrndscnt|the Descent]], to make his debts in silver plain,
 to stand at the caravans' heads with the prince's seal in his hand
 and bring the silver home. Seven years. That was the prince's command.
 Berniray went down to Minesha with the child not yet born
@@ -99,7 +99,7 @@ and empty, and the day's heat on her, and no beast and no man.
 She asked at the gate of Vahurdash for the thing that a stranger can:
 bread, and shade, and water, and no question asked. The neyin's right.
 We give it to the thief. We give it to the enemy at night.
-We gave it to the Atarzád, and we have not taken it back.
+We gave it to the [[affiliation-tribestrzd|Atarzád]], and we have not taken it back.
 That is a different song. The clay of that one is black.
 
   _So. The gate. Revunay held the gate that noon. He was the watch._

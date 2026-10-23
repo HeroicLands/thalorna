@@ -142,7 +142,7 @@ on the last muster.
 From Valsal go forth
 the worthy together.
 From Solvangur come
-those Solrún gathered.
+those [[lore-solrundty|Solrún]] gathered.
 Tables stand empty;
 the benches are silent.
 Hands leave cups

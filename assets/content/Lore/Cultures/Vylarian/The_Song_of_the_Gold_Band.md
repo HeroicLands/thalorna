@@ -50,7 +50,7 @@ The forest came down with an eagle in front of it,
   an eagle that was not the forest's eagle.
 Whose was the eagle? The Fourth's was the eagle,
   the Felzen Hiltheren's, two years in the trees.
-Gilt on the pole and the pole in a Varokh fist,
+Gilt on the pole and the pole in a [[lore-varokhiclt|Varokh]] fist,
   and the Fourth on the roll and nobody in it.
 
 Up went the Urzelthos, up to the ridges,
@@ -126,7 +126,7 @@ Twenty years under the eagle, and then the door,
   one door, and the army holds it open.
 Thirty-five, and a citizen, and the dole in the city,
   and a wife with the right to the dole for her life,
-and a room in the Warrens up ninety stairs,
+and a room in the [Warrens]{.name data-type="place/site" lang=en} up ninety stairs,
   and nothing to count from the window but roofs.
 
 Old Gretalis went into the city with the band on his shoulder,

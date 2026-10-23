@@ -41,18 +41,18 @@ The white gown, my father's gown, a veteran's, who served his twenty years
 and went in at the one door, and the door shut behind him on his son,
 at sixteen, as the law shuts it, and left the son the gown.
 It was white when the city gave it to my father,
-and it is white now in the way a winter sky in Moktur is white.
+and it is white now in the way a winter sky in [[place-moktur|Moktur]] is white.
 Down the ninety stairs, mind the ninth, it is missing, mind the fortieth,
 it is there but it is a rumor. Out. The street. Orzara. Morning.
 
 The client's come. The patron's out.
 
-Up from the River Hill to the Laurel, every street a stair,
+Up from the [River Hill]{.name data-type="place/feature" lang=en} to the Laurel, every street a stair,
 past the fountain that has not thrown water since the last Orzas but one,
 which the ward-magistrate's clerk has entered in the roll as resting,
 past the colonnade whose columns are resting, and the arch,
 which is resting very hard on two of its legs and considering the third,
-past the porters, who are not resting, and who curse me in Hilen speech
+past the porters, who are not resting, and who curse me in [[place-hylen|Hilen]] speech
 for a man in a white gown who walks where they need to put a sack.
 Here is the Laurel. Here are the houses. Here is the garden wall,
 and the door, and the bronze on the door, and in front of the door,
@@ -61,18 +61,18 @@ in the grey, in their gowns, in a line, the clients. Here I am. Place me.
 For the steward places us. The steward is the one true magistrate.
 He stands at the door with his staff and his list and his memory,
 and he knows who is whose, and whose that one is, and where it stops,
-and he sets the line in order down the steps, as the Senate is set,
+and he sets the line in order down the steps, as the [[affiliation-seldan|Senate]] is set,
 the first client at the top step and the last at the bottom,
 and between them all the empire, step by step, measured to the hair.
 Twelve years ago I stood on the fourth step. That was a good year.
-Then the third son of the senator from Alessar came, and I was on the fifth.
+Then the third son of the senator from [[place-alyssar|Alessar]] came, and I was on the fifth.
 Then a freedman of the house, whose master had died and left him a vineyard
 and a seal and an opinion of himself, and I was on the sixth.
-Then a dealer in Taruzelian silk, whose patron's patron sits in the Senate,
+Then a dealer in [[lore-taruzelianclt|Taruzelian]] silk, whose patron's patron sits in the Senate,
 and I was on the seventh, and he looked at me, and I looked at the silk.
 This year a boy of fourteen who writes verses. His verses are bad.
 His uncle is the patron's physician. I am on the eighth step.
-Next year the ninth. The year after, the street, and then the Clearance.
+Next year the ninth. The year after, the street, and then the [Clearance]{.name data-type="place/site" lang=en}.
 
 Halfway down, a stranger, a provincial, nobody knows whose he is.
 He will not say, because in his province nobody asks. The steward asks.
@@ -123,13 +123,13 @@ Two doors down the Laurel there is a new house, raised last spring,
 an elevated house, a house the sovereign raised for a gift of ships,
 and the cupboard of masks by its door was empty when they raised it,
 since a house that is new has no faces, and a house with no faces is not a house.
-They had it filled in a month from a sculptor's yard in the Gilded Quarter.
+They had it filled in a month from a sculptor's yard in the [Gilded Quarter]{.name data-type="place/site" lang=en}.
 The faces are very fine. The faces are wax, and the wax is good wax.
 The faces are consuls and generals and a priestess and a judge
-of the courts of the Republic, with his seal in his hand, and a founder
+of the courts of the [Republic]{.name data-type="affiliation/polity" lang=en}, with his seal in his hand, and a founder
 who walked behind a cart, I think, or behind an army, the sculptor was not sure.
 They are all very grave. Not one of them has seen the house they belong to.
-On the night of the Silent Passage the steward of the new house
+On the night of the [Silent Passage]{.name data-type="lore/gathering" lang=en} the steward of the new house
 read out the names of the faces in the window, in order, without a stumble,
 and I stood in the street and heard them, and I knew three of them
 from the sculptor's yard, where they had been somebody else's the year before.
@@ -139,8 +139,8 @@ is a gift of ships, and the new house sits on the fourth step of the Senate.
 The client's come. The patron's out.
 
 Home, then. Down from the Laurel at evening, by the long way,
-the avenue, the Orzas's Circle, the great one, and in the Circle
-the Founder, the colossus, standing over the triumphs and the accessions,
+the avenue, the [Orzas's Circle]{.name data-type="place/site" lang=en}, the great one, and in the Circle
+the [Founder]{.name data-type="being/npc" lang=en}, the colossus, standing over the triumphs and the accessions,
 with the crowned mark cut on the plinth where the rule of the old letters says
 a god's name goes, or a founder's, and inside the mark the stone smoothed blank.
 I stopped. I am a client. A client stops in front of anything that will not see him.

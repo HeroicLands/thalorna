@@ -752,6 +752,7 @@ data:
       - {edge: closeConsonant, sounds: [d, k, l, m, n, r, s, th], vowel: true}
       - {edge: closeCluster, sounds: [ld, lf, lm, lt, nd, rg, rn]}
     shapes: [{of: name, syllables: {min: 2, max: 3}, perVowel: {min: 1, max: 3.5}}]
+  tongues: [{tag: varokhi, meaning: "a Varokhi name", language: skill-varokhlng}]
   register:
     - {name: Dunkelwald, kind: place, built: [dunkel-, -wald], gloss: the dark wood}
     - {name: Edrak, kind: place, built: [edr-, -ak], gloss: the thicket at the bound}
@@ -762,6 +763,116 @@ data:
     - {name: Thornhaven, kind: place, built: [thorn-, -haven], gloss: the haven among the thorns}
     - {name: Vristwald, kind: place, built: [vrist-, -wald], gloss: the free wood}
     - {name: Waldburg, kind: place, built: [wald-, -burg], gloss: the wood's stronghold}
+    - {name: Armund, tongue: varokhi}
+    - {name: Skathrik, tongue: varokhi}
+    - {name: Vristulf, tongue: varokhi}
+    - {name: Edrarún, tongue: varokhi}
+    - {name: Árhilda, tongue: varokhi}
+    - {name: Hildreth, tongue: varokhi}
+    - {name: Weskskald, tongue: varokhi}
+    - {name: Eichwald, tongue: varokhi}
+    - {name: Thalrún, tongue: varokhi}
+    - {name: Vithskorn, tongue: varokhi}
+    - {name: Vandilda, tongue: varokhi}
+    - {name: Erthrik, tongue: varokhi}
+    - {name: Wulfbán, tongue: varokhi}
+    - {name: Harskald, tongue: varokhi}
+    - {name: Frithrád, tongue: varokhi}
+    - {name: Sundrik, tongue: varokhi}
+    - {name: Erthmund, tongue: varokhi}
+    - {name: Grimrik, tongue: varokhi}
+    - {name: Garstein, tongue: varokhi}
+    - {name: Domrún, tongue: varokhi}
+    - {name: Dorgulf, tongue: varokhi}
+    - {name: Edrigar, tongue: varokhi}
+    - {name: Arnmund, tongue: varokhi}
+    - {name: Arnrád, tongue: varokhi}
+    - {name: Arnhilda, tongue: varokhi}
+    - {name: Thornwin, tongue: varokhi}
+    - {name: Frodwin, tongue: varokhi}
+    - {name: Theodmund, tongue: varokhi}
+    - {name: Wíthilda, tongue: varokhi}
+    - {name: Hildris, tongue: varokhi}
+    - {name: Sundwin, tongue: varokhi}
+    - {name: Garulf, tongue: varokhi}
+    - {name: Hildrún, tongue: varokhi}
+    - {name: Skaldár, tongue: varokhi}
+    - {name: Grimbán, tongue: varokhi}
+    - {name: Grimhilda, tongue: varokhi}
+    - {name: Grimwin, tongue: varokhi}
+    - {name: Thalwen, tongue: varokhi}
+    - {name: Rikwin, tongue: varokhi}
+    - {name: Hródila, tongue: varokhi}
+    - {name: Eichwern, tongue: varokhi}
+    - {name: Falkwen, tongue: varokhi}
+    - {name: Waldulf, tongue: varokhi}
+    - {name: Ermina, tongue: varokhi}
+    - {name: Athalwin, tongue: varokhi}
+    - {name: Balthulf, tongue: varokhi}
+    - {name: Dagrith, tongue: varokhi}
+    - {name: Wulfrád, tongue: varokhi}
+    - {name: Athalrik, tongue: varokhi}
+    - {name: Athalrún, tongue: varokhi}
+    - {name: Dagwin, tongue: varokhi}
+    - {name: Vithmund, tongue: varokhi}
+    - {name: Skaldrún, tongue: varokhi}
+    - {name: Druthwin, tongue: varokhi}
+    - {name: Vristmund, tongue: varokhi}
+    - {name: Theodbán, tongue: varokhi}
+    - {name: Ermawin, tongue: varokhi}
+    - {name: Vandhelm, tongue: varokhi}
+    - {name: Frithgár, tongue: varokhi}
+    - {name: Rikmund, tongue: varokhi}
+    - {name: Brunjara, tongue: varokhi}
+    - {name: Harwen, tongue: varokhi}
+    - {name: Druthulf, tongue: varokhi}
+    - {name: Thrawin, tongue: varokhi}
+    - {name: Frithwen, tongue: varokhi}
+    - {name: Garwin, tongue: varokhi}
+    - {name: Gárhilda, tongue: varokhi}
+    - {name: Erthwin, tongue: varokhi}
+    - {name: Rádhilda, tongue: varokhi}
+    - {name: Balthrith, tongue: varokhi}
+    - {name: Hildwin, tongue: varokhi}
+    - {name: Domrik, tongue: varokhi}
+    - {name: Dómrika, tongue: varokhi}
+    - {name: Vithár, tongue: varokhi}
+    - {name: Vithilda, tongue: varokhi}
+    - {name: Waldrún, tongue: varokhi}
+    - {name: Skathrún, tongue: varokhi}
+    - {name: Thrawald, tongue: varokhi}
+    - {name: Thrarún, tongue: varokhi}
+    - {name: Wulfstein, tongue: varokhi}
+    - {name: Thragrim, tongue: varokhi}
+    - {name: Arnwin, tongue: varokhi}
+    - {name: Skathulf, tongue: varokhi}
+    - {name: Frodrik, tongue: varokhi}
+    - {name: Dagrún, tongue: varokhi}
+    - {name: Othwen, tongue: varokhi}
+    - {name: Thornulf, tongue: varokhi}
+    - {name: Sundilda, tongue: varokhi}
+    - {name: Radwin, tongue: varokhi}
+    - {name: Othgar, tongue: varokhi}
+    - {name: Fródhilda, tongue: varokhi}
+    - {name: Brunjulf, tongue: varokhi}
+    - {name: Balthgar, tongue: varokhi}
+    - {name: Frodhelm, tongue: varokhi}
+    - {name: Erthulf, tongue: varokhi}
+    - {name: Domwin, tongue: varokhi}
+    - {name: Druthrik, tongue: varokhi}
+    - {name: Erthran, tongue: varokhi}
+    - {name: Falkwin, tongue: varokhi}
+    - {name: Garbán, tongue: varokhi}
+    - {name: Grimhár, tongue: varokhi}
+    - {name: Hildrik, tongue: varokhi}
+    - {name: Mahnrád, tongue: varokhi}
+    - {name: Sundgar, tongue: varokhi}
+    - {name: Dorghár, tongue: varokhi}
+    - {name: Thalwin, tongue: varokhi}
+    - {name: Dorghreth, tongue: varokhi}
+    - {name: Dorghróm, tongue: varokhi}
+    - {name: Brunjár, tongue: varokhi}
+    - {name: Vethwin, tongue: varokhi}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -170,7 +170,7 @@ A faith forbidden costs more in trade than orthodoxy could recover.
   Bow at the shrine you pass. The gods of the road are owed their due.
 
 Every fort on the road stands on water.
-  When you are lost in the March, walk to the nearest fort. It stands on a spring.
+  When you are lost in the [[place-eastrnmrch|March]], walk to the nearest fort. It stands on a spring.
 ```
 
 : On the Arbitrator {#arbitrator}
@@ -189,7 +189,7 @@ Do not carry the quarrel out of the paper.
   The man who takes his own revenge loses his charter, and then he is not a man of the League.
 
 A feud is a cost. The arbitrator is cheaper. Count it.
-  The yards burned once in Nesthiros. They are stone now.
+  The yards burned once in [[place-nesthiros2|Nesthiros]]. They are stone now.
 
 When the ruling goes against you, pay.
   Then go home and read the clause you wrote, and see where it went against you.
@@ -220,16 +220,16 @@ Do not try to question the dead.
 : On the Gods {#gods}
 
 ```verse {form=sayings lang=en}
-Renew your terms at the Thresholds. Renew them all, even the ones that are turning.
+Renew your terms at the [Thresholds]{.name data-type="lore/gathering" lang=en}. Renew them all, even the ones that are turning.
   The gods renew the world on the same morning, and they look at your seal.
 
-The Keeper of the Gates has two faces. Show him both of yours.
+The [[lore-ardavondty|Keeper of the Gates]] has two faces. Show him both of yours.
   The face you give with and the face you take with. He knows them already.
 
-Do not bargain with the Silent Judge. He takes no offer.
+Do not bargain with the [[lore-selmorosdty|Silent Judge]]. He takes no offer.
   Pay the keepers. That is a different thing.
 
-The Wild Beast would not seal, and the Keeper did not compel him.
+The [[lore-karnavosdty|Wild Beast]] would not seal, and the Keeper did not compel him.
   Do not compel a man to seal. A bond forced is a bond broken on the first day.
 
 A man who prays for more than the terms is asking the gods to bend them.

@@ -115,7 +115,7 @@ He did not bring his sword or his bow. You do not bring a sword to a creditor.
 He said: who are you, who come through a shut gate without paying the toll?
 The rider said: I am the Collector. I come from the black gate,
 from the Silent Judge, who takes no offer and hears no plea.
-Your thread is run to its length on the Weaver's wheel, Two-Sealed,
+Your thread is run to its length on the [[lore-lusiniadty|Weaver]]'s wheel, Two-Sealed,
 and I am sent to close your account. Come with me. The road is long.
 Kezvunash said: show me the paper. No man in the five cities
 goes on a road with a stranger because the stranger says there is a paper.
@@ -181,7 +181,7 @@ and before they took hold the Collector spoke, and the fort's brother heard it,
 and the brother said afterward that it was spoken as a clause is read:
 Throw me a third time, Two-Sealed, and the thread runs on with no length.
 A thread with no length is no term, and a thing with no term is unagreed.
-You will ride at the margin with the Wild Beast, who would not seal,
+You will ride at the margin with the [[lore-karnavosdty|Wild Beast]], who would not seal,
 the fort's no more, and the camp's no more, sealed by neither, kept by none.
 That is what a third throw buys you. I declare it before you buy it.
 

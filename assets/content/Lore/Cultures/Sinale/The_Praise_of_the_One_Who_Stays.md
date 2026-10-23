@@ -77,10 +77,10 @@ Say it the hearths.
 He stays. We stay.
 
 Raise him the hearths, every voice, and no voice first.
-Raises him **Lapurinto**, the hearth of the running water.
-Raises him **Kalpinto**, the hearth of the pale wood.
-Raises him **Nuuvanto**, the hearth of starlight.
-Raises him **Unturonto**, the hearth of winter.
+Raises him [Lapurinto]{.name data-type="affiliation/lineage" lang=sina}, the hearth of the running water.
+Raises him [Kalpinto]{.name data-type="affiliation/lineage" lang=sina}, the hearth of the pale wood.
+Raises him [Nuuvanto]{.name data-type="affiliation/lineage" lang=sina}, the hearth of starlight.
+Raises him [Unturonto]{.name data-type="affiliation/lineage" lang=sina}, the hearth of winter.
 Shout the gate-folk from the field's edge,
 and are not counted, and are not stopped.
 Raise they him lord in the clear place, at dusk, by the water,

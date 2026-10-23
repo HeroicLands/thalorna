@@ -111,40 +111,40 @@ standing, with his hands open    so all could see them empty:
 "I will cross the water at the ford    and stand where they stand.
 I will not come back up the bank    until the ford is ours."
 
-That was the vow. The lay calls him    **Brunjulf** from here,
+That was the vow. The lay calls him    [Brunjulf]{.name data-type="being/npc" lang=varo} from here,
 because that is the name he came back with,    and the lay knows the end.
 The band heard it and did not laugh.    A vow before the band
 is a thing every man who heard it    has to carry down the bank.
 
-**Balthgar** said: you are young for it.    And then: the band goes too.
+[Balthgar]{.name data-type="being/npc" lang=varo} said: you are young for it.    And then: the band goes too.
 Nobody said the ford was not worth it.    The children were eating the horses.
-**Frodhelm** struck the ground once    and said he would keep the words,
+[Frodhelm]{.name data-type="being/npc" lang=varo} struck the ground once    and said he would keep the words,
 and from that strike the count begins,    the first fall of the staff.
 
 These went down the bank with him.    I give them as I have them.
-**Erthulf** went, who had killed a bear    with a spear that broke
+[Erthulf]{.name data-type="being/npc" lang=varo} went, who had killed a bear    with a spear that broke
 and finished it with the half.    Balthgar went, the eldest,
 who had buried three wives and said    he would not bury a fourth.
 
-**Domwin** went, and **Druthrik**,    who were one mother's
+[Domwin]{.name data-type="being/npc" lang=varo} went, and [Druthrik]{.name data-type="being/npc" lang=varo},    who were one mother's
 and did not speak to each other    and were never apart.
-**Erthran** went, who read the signs,    the birds and the wind turning,
+[Erthran]{.name data-type="being/npc" lang=varo} went, who read the signs,    the birds and the wind turning,
 and read them wrong once,    and the once was on the ice.
 
-**Falkwin** went, the quick one.    **Garbán** went, who carried
+[Falkwin]{.name data-type="being/npc" lang=varo} went, the quick one.    [Garbán]{.name data-type="being/npc" lang=varo} went, who carried
 two spears because he threw one    and liked to have another.
-**Grimhár** went in a war-mask    he was never seen out of.
+[Grimhár]{.name data-type="being/npc" lang=varo} went in a war-mask    he was never seen out of.
 Some said there was no face under it.    He never said.
 
-**Hildrik** went, who laughed.    Mark him. He laughed at the river,
+[Hildrik]{.name data-type="being/npc" lang=varo} went, who laughed.    Mark him. He laughed at the river,
 he laughed at the cold, he laughed    at the dark under the trees,
 and the band was glad of his laughing    for the most of the way,
 and there came a night    they were not glad of it.
 
-**Mahnrád** went, and **Sundgar**,    and **Dorghár** with the dogs,
+[Mahnrád]{.name data-type="being/npc" lang=varo} went, and [Sundgar]{.name data-type="being/npc" lang=varo},    and [Dorghár]{.name data-type="being/npc" lang=varo} with the dogs,
 three dogs that would not go in the wood    and were left on the grass,
 and he went in without them    and never kept dogs again.
-**Thalwin** went.    Thalwin carried the water.
+[Thalwin]{.name data-type="being/npc" lang=varo} went.    Thalwin carried the water.
 
 That is all the lay has of Thalwin.    He carried the water.
 He carried it over the ice    and he carried it up the bank
@@ -241,7 +241,7 @@ Mahnrád took the third one's stone    across the shoulder and sat down,
 and Sundgar put Balthgar down    and picked Mahnrád up
 and said to the dead man: wait,    and the dead man waited.
 
-The ford was there in the first gray.    The **Dorghreth**, we call it,
+The ford was there in the first gray.    The [Dorghreth]{.name data-type="place/feature" lang=varo}, we call it,
 the giants' crossing; it is ours,    and the name says whose it was.
 The water ran black through the ice    and the mist stood on it,
 and in the mist, in the water to the knee,    the last of them was standing.
@@ -354,7 +354,7 @@ the way it had laid it itself    when it asked.
 And they went back for Balthgar    and burned him on the bank
 with his axe, as a warrior is burned,    and Hildrik they burned beside him,
 and the two fires and the one mound    were the first of ours in the wood,
-and that is the **Dorghróm**,    and the ford has had it since.
+and that is the [Dorghróm]{.name data-type="place/structure" lang=varo},    and the ford has had it since.
 
 They named him on the bank.    Frodhelm gave the name
 as a reciter gives it, aloud,    and the band said it after him:
@@ -372,7 +372,7 @@ the eldest says first, before any name,    before his own father's:
 "The one in the ford. The one at the bottom.    The one with no name that we have."
 
 Brunjulf said it first that winter    on the bank, in the snow,
-and his father's name after it,    **Brunjár**, who had come back on the cloak,
+and his father's name after it,    [Brunjár]{.name data-type="being/npc" lang=varo}, who had come back on the cloak,
 and Balthgar after him, and Hildrik,    and the band said them after him,
 and the fire banked that night,    and the coals were there at morning.
 

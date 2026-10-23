@@ -282,7 +282,7 @@ _\[He stands between the two pans with a jar in each hand.\]_
 
 _\[Laughter here. Let the Scale look at him until it stops. She does not do the lid-joke either.\]_
 
-_\[In another hand, in the margin here: Whoever plays the Scale, she does not do mercy and she does not do laughing. They will try you at the brick, and here at the lid, and worst at the wall; look at the beam. Let the beam-boys laugh; nobody is watching them. **Lemjen ez Galezkara**, who played her nine Harvests.\]_
+_\[In another hand, in the margin here: Whoever plays the Scale, she does not do mercy and she does not do laughing. They will try you at the brick, and here at the lid, and worst at the wall; look at the beam. Let the beam-boys laugh; nobody is watching them. [Lemjen ez Galezkara]{.name data-type="being/npc" lang=khel}, who played her nine Harvests.\]_
 
 He turned to the Scribe, and he lowered his voice, which in Thuba'i is a thing everyone in the hall can hear.
 

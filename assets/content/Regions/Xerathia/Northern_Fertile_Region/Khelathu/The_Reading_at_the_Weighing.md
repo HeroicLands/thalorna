@@ -80,7 +80,7 @@ If you decline, the dead goes in short on it, and that too is lawful.
 A father's failure is no flaw in a son; a debt descends by consent.
     Entered.
 
-What the dead called in at the Closing passes to the heirs.
+What the dead called in at the [Closing]{.name data-type="lore/custom" lang=en} passes to the heirs.
 What the dead left open at the Closing goes down with the dead.
 The bread given in a bad winter stands to the credit of the giver.
 The kindness never returned stands to the credit of the giver.

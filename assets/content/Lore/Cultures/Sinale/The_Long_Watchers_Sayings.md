@@ -311,7 +311,7 @@ Have you heard what the Long-Watcher said to the Seer?
 
 ```verse {form=saunari lang=en}
 Have you heard what the Long-Watcher said to the Seer?
-  Aulveira takes the dead to the god's hall in **Ollevikko**. Of this we are sure.
+  Aulveira takes the dead to the god's hall in [Ollevikko]{.name data-type="place" lang=sina}. Of this we are sure.
   We are sure of little. Hold this one with both hands.
 
 Have you heard what the Long-Watcher said to the Seer?
@@ -345,7 +345,7 @@ Have you heard what the Long-Watcher said to the Seer?
 Have you heard what the Long-Watcher said to the Seer?
   Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevikko.
   Aelirosse says Olmasitti Ropelinto Torvelsa now, of the oak, and his name is one word longer.
-  **Ilevala Huomanto**, who was the Seer, says this one, and it is hers.
+  [Ilevala Huomanto]{.name data-type="being/npc" lang=sina}, who was the Seer, says this one, and it is hers.
   I have put four of the acorns in the ground by the water-court. They are grown when the child who watches us is a grandmother.
   I will have a saying by then, or I will have four oaks.
 ```

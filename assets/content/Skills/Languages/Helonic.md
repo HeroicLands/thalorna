@@ -1222,6 +1222,9 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - {tag: kept, meaning: a name that stands outside the three tongues by the owner's ruling}
   register:
+    - {name: "Aghris", tongue: helonic}
+    - {name: "Arsos", tongue: helonic}
+    - {name: "Frelos", tongue: helonic}
     - {name: Academy of Knowledge, tongue: translation}
     - {name: Adhélimis Ghotones, tongue: helonic}
     - {name: Admiral Dómirtha Habines, tongue: translation}

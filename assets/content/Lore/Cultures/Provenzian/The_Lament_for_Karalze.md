@@ -49,7 +49,7 @@ who stood behind him stood behind a door.
 He kept the carter's widow in his train
 when the carter drowned at the ford in the autumn rain;
 he sent the tanner's boy to the academy
-at Aurelane, at his own cost, to see
+at [[place-aureliane|Aurelane]], at his own cost, to see
 what a boy from the march could be, and read, and more;
 he set the old horse-master on a bench by his door.
 

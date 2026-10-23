@@ -34,13 +34,13 @@ We call them here, on our own ground, a day from the water.
 We do not call them at the water. You know why.
   _We know why._
 
-Savaghlun, who strained the milk at the first light every morning,
+[Savaghlun]{.name data-type="being/npc" lang=sovi}, who strained the milk at the first light every morning,
 and who was straining it when the horns came through the palms.
 Her cloth was found on the reed-bed, with the milk gone to the ground.
 A man of the Khuvanur, a herder of the long-legged horses,
 who had forty mares at the pool and his sons among them,
 and who was not spared, and his sons were not spared, and the mares were taken.
-Bovilun, a girl of nine years, who kept the skull-pole,
+[Bovilun]{.name data-type="being/npc" lang=sovi}, a girl of nine years, who kept the skull-pole,
 who tied the cloths the guests brought, and untied them when the guests left,
 and who was at the pole when the first riders came, and did not run,
 because a child at the skull-pole does not leave it. She was at the pole.
@@ -68,7 +68,7 @@ and that was not the thing to have read. He was not spared.
 Shamans are not killed. Children are not killed. Women are not killed.
 That is the custom of a raid. It was not a raid. We say what it was.
   _It was not a raid._
-Voyerlun, who was the dovaq's second wife, who was carrying,
+[Voyerlun]{.name data-type="being/npc" lang=sovi}, who was the dovaq's second wife, who was carrying,
 and who was found in the grass with her hands over the child under her heart,
 and who is one name, and the child is no name, and we call the one.
 A boy of the Khuvanur, fifteen, who had his first spear that year
@@ -170,7 +170,7 @@ Gorentoliz. Storm-spear. Taken up. Say it.
   _Gorentoliz. Storm-spear. Taken up._
 
 Now this is the witnessed word of the elders of the Kesukur,
-spoken at the central well before the moot, in the first year of the Hundred Banners,
+spoken at the central well before the moot, in the first year of the [[lore-hndrdbnnrs|Hundred Banners]],
 and spoken again by every eldest since, in these words, under the open sky:
 _We hold the names of the Khuvanur. We say them in our camp.
 We do not say them at the water, because the water lies on the road,

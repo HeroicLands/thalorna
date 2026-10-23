@@ -23,7 +23,7 @@ Come to the benches' warmth;
 black sea moves beyond hearing.
 Stars sharpen above the snow;
 shore roads vanish beneath whiteness.
-Odholm's stone holds northern cold;
+[[place-odholm|Odholm]]'s stone holds northern cold;
 old ravens fold their wings.
 Fire finds the gathered faces;
 faint light gathers on cups.
@@ -76,7 +76,7 @@ a sure road through darkness.
 
 Name now the well's water;
 name the wisdom bought there.
-Minnir's well mirrors the price;
+[[lore-minnir|Minnir]]'s well mirrors the price;
 mead pauses in the passing.
 An eye the All-Father paid;
 an empty place bears witness.
@@ -107,9 +107,9 @@ death takes no words away.
 Speak the spear's straight name;
 speak where the ways divide.
 
-Hugvin, hear the winged thought;
+[[lore-hugvin|Hugvin]], hear the winged thought;
 high goes its swift flight.
-Munvin, memory's dark feather;
+[[lore-munvin|Munvin]], memory's dark feather;
 much returns within its keeping.
 White field receives their shadows;
 wind carries them across snow.
@@ -175,11 +175,11 @@ right purpose must walk there.
 
 Far lies the final field;
 fire gathers beyond the horizon.
-Vigvoll waits for the muster;
+[[place-vigvoll|Vigvoll]] waits for the muster;
 vast doom lies before it.
 Wolf breaks its binding chain;
 wisdom knows whom it takes.
-The All-Father falls to Vetrúlfur;
+The All-Father falls to [[lore-vetrulfur|Vetrúlfur]];
 all praise bears that ending.
 Speak the spear's straight name;
 speak beside the known darkness.

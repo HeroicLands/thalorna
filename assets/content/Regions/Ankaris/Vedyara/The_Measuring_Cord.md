@@ -102,14 +102,14 @@ When the wall was cut he laid the ice on it
   as a roof is laid on a house,
 and in the ice he tied four knots, and where
   each knot lay a river came out.
-Chandraprabhava, the moon's source, the first,
-  where the Chandramahi comes out warm;
-Sarvaprabhava, the source of all, the second,
-  where the priests read the Sarveda daily;
-Mahaprabhava, the great source, the third,
-  where the Mahanodi leaves the blue;
-Bharavaprabhava, the fourth, the forest's,
-  where the Bharava goes down to the trees.
+[[place-chandrprbh|Chandraprabhava]], the moon's source, the first,
+  where [[place-chandrmahi|the Chandramahi]] comes out warm;
+[[place-sarvaprbhv|Sarvaprabhava]], the source of all, the second,
+  where the priests read [[place-sarvedarivr|the Sarveda]] daily;
+[[place-mahaprbhva|Mahaprabhava]], the great source, the third,
+  where [[place-mahanodi|the Mahanodi]] leaves the blue;
+[[place-bhrvprbhav|Bharavaprabhava]], the fourth, the forest's,
+  where [[place-bharavarivr|the Bharava]] goes down to the trees.
 Four knots. Four doors. Four rivers. And the plain
   between them is the field,
 and every field you will ever plow or pay for
@@ -121,7 +121,7 @@ The temple at the moon's source washes it
   at the turn of every season,
 and calls it a footstool, and does not say whose,
   and this recitation does not say.
-The Osket say it is the mountain's own. The temple says nothing.
+[[affiliation-osketguides|The Osket]] say it is the mountain's own. The temple says nothing.
   You will say what you are told, which is nothing.
 Under the stone the water does not freeze.
   That is all the school says of it.
@@ -145,7 +145,7 @@ Say what the scale weighs, child. Measure. Not judgment.
 She asks whether it is what it was measured to be,
   and if it is, she keeps it.
 That is why the sabhra counts the water at the gate
-  and why the Weighing is done in daylight,
+  and why the [Weighing]{.name data-type="lore/custom" lang=en} is done in daylight,
 and why a clerk who gives short measure has stolen
   from the sister, and not from you.
 
@@ -189,7 +189,7 @@ no more, no less, and that is the whole of his law,
   and the ash-mark is the sign that you have learned it.
 What yielded of itself he did not touch;
   the gentle one took that,
-Vahrati, with her bowl, the way your mother takes
+[[lore-vahratidty|Vahrati]], with her bowl, the way your mother takes
   the day's garland from the shrine.
 Everything else burned down to the knot,
   and the cord was still there under the ash,
@@ -219,7 +219,7 @@ he left one length of the cord untied,
   the length of one breath,
 and he gave that length to the one who had asked for nothing,
   the only one who had asked for nothing,
-Kalavrata, who has no face, because a face
+[[lore-kalavratadty|Kalavrata]], who has no face, because a face
   would be a thing to measure,
 and said: this is yours. Keep the breath nobody keeps.
   And the Gatekeeper took it.

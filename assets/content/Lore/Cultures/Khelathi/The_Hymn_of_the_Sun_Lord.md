@@ -164,7 +164,7 @@ Every door in the city says the denials now, with you overhead.
 "I have left open no entry I could close."
 "I have taken no stranger's word without a witness."
 "I have not let the dead go hungry at the shrine."
-Qe'aret keeps the scale. You keep the light the scale is read by.
+[[lore-qearetdty|Qe'aret]] keeps the scale. You keep the light the scale is read by.
 What the scribe wrote, you light.
 What the scribe did not write, the gods keep, and we do not ask you for it on the eastern face.
 
@@ -223,7 +223,7 @@ which is what you fight with.
 They stand while you pass and they sit when you have passed,
 and the bread on their tables is counted to them in the dark.
 
-Reth'Sa'ar walks with you to the first gate and no farther.
+[[lore-rethsaardty|Reth'Sa'ar]] walks with you to the first gate and no farther.
 He has the names of the gates on his tablet, and he gives them to you one by one,
 and you say them, and the gates stand open, and he goes back to his library.
 The dead who went down this year are on the road ahead of you with their tablets under their arms.
@@ -296,7 +296,7 @@ _\[At the last naming the rest is held as at the first. The singers go in to the
 
 : The Graffito {#graffito}
 
-> Year 9 of Gar-Au Meqes II, the second month of Shelu. **Qedut ez [[place-garlegulu|Gar-Legulu]]**, scribe of the tally for the granary of the god, came into this storeroom to take the brewer's tally and found this wall. It is in the sacred hand, which I have, and I read what is on it aloud from the beginning to the end. Where the door is cut through it I read on the far side of the door. The brewer's father cut the door; the brewer says so. I said the name of Khelansi, Overseer of the Granaries of the God, so that it is said. Nobody in this house knew it. I asked them. The brewer took two qelu for the lamp. I have written my name under Khelansi's, and my town. Qedut ez Gar-Legulu. Gar-Legulu.
+> Year 9 of Gar-Au Meqes II, the second month of [[lore-sheluessn|Shelu]]. [Qedut ez Gar-Legulu]{.name data-type="being/npc" lang=khel}, scribe of the tally for the granary of the god, came into this storeroom to take the brewer's tally and found this wall. It is in the sacred hand, which I have, and I read what is on it aloud from the beginning to the end. Where the door is cut through it I read on the far side of the door. The brewer's father cut the door; the brewer says so. I said the name of Khelansi, Overseer of the Granaries of the God, so that it is said. Nobody in this house knew it. I asked them. The brewer took two qelu for the lamp. I have written my name under Khelansi's, and my town. Qedut ez Gar-Legulu. Gar-Legulu.
 
 ## See Also
 

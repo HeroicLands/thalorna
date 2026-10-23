@@ -32,7 +32,7 @@ The schools have argued with the first half since there have been schools. Its g
 : The Measures of the Terraces {#poem}
 
 ```verse {form=didactic-verse lang=en}
-Weaver at the wheel, and you, Keeper of the book with the stars around it,
+[[lore-lusiniadty|Weaver]] at the wheel, and you, [[lore-marendasdty|Keeper of the book with the stars around it]],
 I am a man of the high terraces, and I have no learning but the year,
 and I will sing the year, and before the year the thing that made it,
 the measure, and how the measure came, and who was there, and who was not.
@@ -58,12 +58,12 @@ and the thread ran off the wheel and did not end, and lay in the Unmeasured,
 and it was no use. A thread that does not end will not make a cloth.
 The Keeper of Sacred Wisdom was there with her book and could not open it,
 for what is not measured cannot be known, and what is not known cannot be written.
-The Forge-Lord had a fire that was neither hot nor cold. The Wayfarer walked,
+[[lore-ustarondty|The Forge-Lord]] had a fire that was neither hot nor cold. [[lore-pozerasdty|The Wayfarer]] walked,
 and arrived nowhere, for nowhere was any farther than anywhere else.
-The Thunderer could not tell his thunder from the quiet. The Bountiful One
+[[lore-brazemasdty|The Thunderer]] could not tell his thunder from the quiet. [[lore-olveniadty|The Bountiful One]]
 had plenty and could not count it, and plenty that is not counted is not plenty.
-The Keeper of the Gates stood with his two faces and had no door to stand in.
-And the Silent Judge was there, and was silent, and nothing came to him.
+[[lore-ardavondty|The Keeper of the Gates]] stood with his two faces and had no door to stand in.
+And the [[lore-selmorosdty|Silent Judge]] was there, and was silent, and nothing came to him.
 
 Then the Keeper of Sacred Wisdom spoke, the first word, and the word was a question,
 for she is the one who asks, and the cities that keep her ask still.
@@ -75,11 +75,11 @@ when the price of oil is down and the levy is called and nobody wants to go,
 for a long time and loudly, with the same thing said by twelve mouths.
 The Bountiful One said: give me a measure, so that I can know my plenty.
 The Thunderer said: give me none, for a storm that is measured is a shower.
-The Nurturer said: give me a measure, for a child must be carried a time.
-The Mistress of the Waning Moon said: give me a measure, and give it an end,
+[[lore-lizelasdty|The Nurturer]] said: give me a measure, for a child must be carried a time.
+[[lore-morvanadty|The Mistress of the Waning Moon]] said: give me a measure, and give it an end,
 for I am the waning, and without an end there is nothing for me to do.
 The Forge-Lord said: give me a measure, for a sword without a length is no sword.
-The Dreamer said nothing, and slept, and dreamed what the measure would be.
+[[lore-zunelasdty|The Dreamer]] said nothing, and slept, and dreamed what the measure would be.
 The Silent Judge said nothing, for he says nothing, and waited.
 And the Wild Beast said: give me none. I run. I want no fence and no gate.
 If you measure the world you will measure me, and I will not be measured.

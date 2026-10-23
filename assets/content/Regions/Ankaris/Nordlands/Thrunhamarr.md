@@ -166,9 +166,9 @@ Far burns the final fire;
 fate fills the dark horizon.
 Aldarlok enters the hall singing;
 all cups halt in passing.
-The wyrm waits on Vigvoll;
+The wyrm waits on [[place-vigvoll|Vigvoll]];
 wide lies its dreadful shadow.
-Heimsormur heaves before the god;
+[[lore-heimsormur|Heimsormur]] heaves before the god;
 high lifts the hammer again.
 Knowingly the knuckles close;
 knowledge bears the weight within.

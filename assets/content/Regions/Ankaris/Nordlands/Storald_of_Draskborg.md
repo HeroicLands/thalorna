@@ -44,11 +44,11 @@ Who set it saw no sun
 set on it a second time.
 Ask the thaw, not the man,
 how the mark went walking.
-I keep what Hrandmil kept:
+I keep what [Hrandmil]{.name data-type="being/npc" lang=nord} kept:
 a thing set down stays down.
 ```
 
-The verse was taken more than one way. [Hrandmil]{.name data-type="being/npc"} is the first man of [[lore-gnumborinn|Gnúmborinn]]; what Gnurthorv meant by keeping what Hrandmil kept, nobody at the ting asked him. The witness said afterward that he had heard a man deny a thing and own it in the same breath, and that he did not know which half he would be asked to swear to. The Lawspeaker said that a stone was not a thing the ting could look at from where it sat. He set the claim over to the next Somarmál, when the walk would be made again and the witness could say whether the thaw had moved the mark back. Until then the fourth stone was to stand where it stood and nobody was to lay a hand on it. Both men said they were content with that. Dvirnselda had come to the ting; she said nothing there, and a good deal on the way home.
+The verse was taken more than one way. Hrandmil is the first man of [[lore-gnumborinn|Gnúmborinn]]; what Gnurthorv meant by keeping what Hrandmil kept, nobody at the ting asked him. The witness said afterward that he had heard a man deny a thing and own it in the same breath, and that he did not know which half he would be asked to swear to. The Lawspeaker said that a stone was not a thing the ting could look at from where it sat. He set the claim over to the next Somarmál, when the walk would be made again and the witness could say whether the thaw had moved the mark back. Until then the fourth stone was to stand where it stood and nobody was to lay a hand on it. Both men said they were content with that. Dvirnselda had come to the ting; she said nothing there, and a good deal on the way home.
 
 That summer the two households cut their hay to the stone, each on its own side, and the pace of hay between the old line and the new went to the Gnurthendik, and nobody from the Dvirnendik went down to look at it.
 
@@ -100,9 +100,9 @@ Nalthvir lit the _dresk_ himself. The fort's verse on the lighting is this one; 
 : The beacon {#beacon}
 
 ```verse {form=skaldic lang=en}
-Up went the Destroyer's tongue
+Up went the [[lore-svartbrandurdty|Destroyer]]'s tongue
 on Draskborg's tower-top;
-down on Hrimthur's rime-road
+down on [[lore-hrimthurspr|Hrimthur]]'s rime-road
 the tusk-host's torches crawled.
 ```
 

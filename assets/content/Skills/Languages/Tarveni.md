@@ -1570,6 +1570,14 @@ data:
       meaning: "a name in another tongue of the setting, as its speakers give it"
     - {tag: other, meaning: a name in no tongue these pages name}
   register:
+    - {name: "Átseka", tongue: tarveni}
+    - {name: "Betsa", tongue: tarveni}
+    - {name: "Ekutsa", tongue: tarveni}
+    - {name: "Kolzarra", tongue: tarveni}
+    - {name: "Ozka", tongue: tarveni}
+    - {name: "Oztuk", tongue: tarveni}
+    - {name: "Tsala", tongue: tarveni}
+    - {name: "Uguzta", tongue: tarveni}
     - {name: Kárenna, tongue: tarveni}
     - {name: Graveth, tongue: tarveni}
     - {name: Dometh, tongue: tarveni}

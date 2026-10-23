@@ -57,27 +57,27 @@ who went ahead of the others by day and came back to them at evening
 to say what the coast was like ahead, and to say it louder than anyone.
 From her came the city of the ships, the city of the hands raised in the assembly.
 
-Then the ship of Krenis, who dreams the water, the ship with the painted eyes,
+Then the ship of [Krenis]{.name data-type="being/npc" lang=helo}, who dreams the water, the ship with the painted eyes,
 whose captain slept at the steering-oar and woke and named the next spring,
 and the crew dug where he said and found it, and found it every time, and feared him.
 From her came the city of the theater, the city of the patron houses.
 
-Then the ship of Arsos, who began the count, who sat on the cross-bench with a cord
+Then the ship of [Arsos]{.name data-type="being/npc" lang=helo}, who began the count, who sat on the cross-bench with a cord
 and tied a knot for every soul aboard and a knot for every jar of seed,
 and untied a knot when one of them died, and the cord grew short in the autumn.
 From her came the city of the oldest texts, of the terraces and the colonnades.
 
-Then the ship of Aghris, who drove the furrow, the ship with the two oxen in her,
+Then the ship of [Aghris]{.name data-type="being/npc" lang=helo}, who drove the furrow, the ship with the two oxen in her,
 the only ship of the seven that carried a yoke and the beasts to bear it,
 and the beasts stood in the waist of the ship and lowed when the sea got up.
-From her came the city of the judges, the city of the Keeper's temple.
+From her came the city of the judges, the city of the [[affiliation-ardavon|Keeper]]'s temple.
 
-Then the ship of Timis, who held the year, the old ship patched with hides,
+Then the ship of [Timis]{.name data-type="being/npc" lang=helo}, who held the year, the old ship patched with hides,
 whose captain cut a notch in the mast for every moon of the voyage,
 and gave the moons their names, and no one else on the water knew what moon it was.
 From her came the city that names its years, the city of the auditors.
 
-Then the ship of Frelos, who held the shingle, the smallest ship of the seven,
+Then the ship of [Frelos]{.name data-type="being/npc" lang=helo}, who held the shingle, the smallest ship of the seven,
 twenty oars and a sail of hide and a hull that leaked at the stern-post,
 whose captain ran her up on any beach at dusk and slept on the stones beside her.
 From her came the small city on the shore, the city of the fishing boats.

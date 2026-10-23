@@ -76,7 +76,7 @@ the drinking is finished.
 
 The answer is death;
 the death is his own.
-Vetrúlfur waits
+[[lore-vetrulfur|Vetrúlfur]] waits
 in the last of his knowing.
 The Winter-Wolf comes
 when the binding breaks.
@@ -260,9 +260,9 @@ has its place beside Odvar.
 Still, Odvar listens;
 still, wisdom is bitter.
 
-Eldheim will open;
+[[place-eldheim|Eldheim]] will open;
 winter will descend.
-Valsal will yield
+[[place-valsal|Valsal]] will yield
 its companies for battle.
 Odvar goes forth
 to the field he foresaw.
@@ -274,7 +274,7 @@ The age will burn;
 the world-ash will fall.
 A remnant will rise;
 a new morning follows.
-The Ten do not rule
+[[affiliation-asguardian|The Ten]] do not rule
 in the world of their heirs.
 Here stands the hall,
 with its door still open.

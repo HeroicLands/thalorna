@@ -56,9 +56,9 @@ when the legion was in the hill:
 our law, our line, and silver paid.
 And the silver was owing still.
 
-The line of Orethan ran out,
+The line of [Orethan]{.name data-type="affiliation/lineage" lang=elav} ran out,
 and the Circle chose a king,
-Hóuradel of Kírethel,
+Hóuradel of [Kírethel]{.name data-type="affiliation/lineage" lang=elav},
 who could not pay the thing.
 
 He looked up at the mountains then,
@@ -66,7 +66,7 @@ at the silver in the stone,
 and the gold, and the bright stones that the tribes
 had always let alone.
 
-The crier cried at Péravel,
+The crier cried at [[place-beravel|Péravel]],
 at Valdun, at the fords:
 "Silver in hand for a strong back,
 and bread, and the king's own word."
@@ -139,7 +139,7 @@ by the lake, and shook their head.
 The deepest cut was sealed with more
 than stone. That much is known.
 With what, the ones who came down won't say,
-and the Lodge keeps its own.
+and [[place-eshalshldg|the Lodge]] keeps its own.
 
 Dalren, Moren, Naldor, Tenral,
 Orlen, Denrik, Salten,

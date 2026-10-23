@@ -49,7 +49,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [before a wall stood on any of them.]{lang=en}
 [pra kembothos us urkis ol alathoi thalezor.]{lang=vyl}
 
-[Keeper of the open book, Marendas,]{lang=en}
+[Keeper of the open book, [[lore-marendasdty|Marendas]],]{lang=en}
 [Thauras ol thilandon olmthon, Marendas,]{lang=vyl}
 
 [who hold what was written and what was not,]{lang=en}
@@ -93,7 +93,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [before the light, on the river flats,]{lang=en}
 [pra korvathis, ir zela polthamis,]{lang=vyl}
 
-[and the Senator came down from the Old Hill]{lang=en}
+[and the Senator came down from [[place-antel|the Old Hill]]]{lang=en}
 [ul Kurthas lokazor zel Antelen,]{lang=vyl}
 
 [with no cloak of office on,]{lang=en}
@@ -211,7 +211,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 
 ***
 
-[As when a farmer in the hills of Hilen,]{lang=en}
+[As when a farmer in the hills of [[place-hylen|Hilen]],]{lang=en}
 [Sa kan polthos ir malkothoi ol Hilen,]{lang=vyl}
 
 [the morning his eldest goes for a soldier,]{lang=en}
@@ -359,7 +359,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [and take the lowlands,]{lang=en}
 [ul zela yormalis kurezoi,]{lang=vyl}
 
-[and east to the League of the weighers,]{lang=en}
+[and east to the [[affiliation-byzarianlg|League]] of the weighers,]{lang=en}
 [ul ir pramiza, ir konthalon ol thradinoi,]{lang=vyl}
 
 [and the weighers will weigh for you;]{lang=en}
@@ -568,7 +568,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [in the order the line went round.]{lang=en}
 [ir zirothalon kedis thrima kir tigazor.]{lang=vyl}
 
-[First the River Hill above the landing,]{lang=en}
+[First the [River Hill]{.name data-type="place/feature" lang=en} above the landing,]{lang=en}
 [Holimos Nerval us volkema,]{lang=vyl}
 
 [where the boats tie up, and the porters]{lang=en}
@@ -586,10 +586,10 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [and the porters stopped to look.]{lang=en}
 [ul lozandar fa okethen sistazoi.]{lang=vyl}
 
-[Second the Hill of the Scholars,]{lang=en}
+[Second the [Hill of the Scholars]{.name data-type="place/feature" lang=en},]{lang=en}
 [Ethoros Mernel,]{lang=vyl}
 
-[where the masters of the old schools of the Republic]{lang=en}
+[where the masters of the old schools of the [Republic]{.name data-type="affiliation/polity" lang=en}]{lang=en}
 [ir kedis marendoi ol ankeloi marendalar ol verosalon]{lang=vyl}
 
 [argued in the porches already,]{lang=en}
@@ -604,7 +604,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [or only show where a city already is.]{lang=en}
 [ves vakathen ir kedis veramis yarezor.]{lang=vyl}
 
-[Third the Laurel, green and new,]{lang=en}
+[Third [[place-selvin|the Laurel]], green and new,]{lang=en}
 [Karzoros Selvin, thernandar ul peleros,]{lang=vyl}
 
 [with the bay trees on it and no houses yet,]{lang=en}
@@ -616,7 +616,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [and the stones went down in grass.]{lang=en}
 [ul talothoi ir yormalis zel tigazoi.]{lang=vyl}
 
-[Fourth the Coronal, the hill of the old houses,]{lang=en}
+[Fourth the [Coronal]{.name data-type="place/feature" lang=en}, the hill of the old houses,]{lang=en}
 [Felzoros Torvel, malkothos ol ankeloi thelvaralar,]{lang=vyl}
 
 [where the villas of the senators]{lang=en}
@@ -637,7 +637,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [and did not bow, and did not speak.]{lang=en}
 [ul ar klinezoi, ul ar dokazoi.]{lang=vyl}
 
-[Fifth the Eagle Hill, the highest, empty,]{lang=en}
+[Fifth the [[place-arvel|Eagle Hill]], the highest, empty,]{lang=en}
 [Yolemoros Arvel, thelvarimmos, ar kerandar,]{lang=vyl}
 
 [with nothing on its crown but wind,]{lang=en}
@@ -1010,7 +1010,7 @@ The poem opens on the two words every schoolboy can say: _Thiruthriman sorimamen
 [when the colossus was raised]{lang=en}
 [kan melvar Zerthas urzizor]{lang=vyl}
 
-[in the Circle before the new gate,]{lang=en}
+[in the [Circle]{.name data-type="place/site" lang=en} before the new gate,]{lang=en}
 [ir rembalis pra pelera kalpeza,]{lang=vyl}
 
 [and set beneath the Founder's feet for a plinth,]{lang=en}

@@ -261,7 +261,7 @@ Fill up the bowl, ye gentles, an ye would.
 Put in your Bits, and put your Argos in,
 And if ye've Soldeni, that were no sin;
 A notch for every coin, and one notch more,
-And the Twelve keep you till we play once more.
+And [[affiliation-arldnpnthn|the Twelve]] keep you till we play once more.
 ```
 
 _The players go out singing, the Grukar and the Grukar's son behind them, still fighting with Hildrik through the gate of the yard._

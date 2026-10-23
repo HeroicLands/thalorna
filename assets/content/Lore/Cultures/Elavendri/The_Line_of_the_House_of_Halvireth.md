@@ -50,29 +50,29 @@ up to the first. Hear, house and feast.
 The line:
 
 ```verse {form=sirnerne lang=en}
-Sílvera, named tonight, whose other name is not for this hall, child of Táeren.
-Táeren, who holds the house, and keeps the river-meadows, and whose people eat, child of Méldoreth.
-Méldoreth, who followed the art at Péravel and came home, and kept a harper twenty years and paid him, child of Óuravel.
-Óuravel, in whose years the silver stopped going east, who built the living bridge over the mill-race, which stands, child of Deneth.
-Deneth, who held the house in her own right, and in the year the rain came wrong unbarred the stores, child of Kálvorin.
-Kálvorin, for whom the oak stands at the ford-gate, child of Therseth.
-Therseth, who stood on the north shore the year the fleets came, and came home, child of Ráenor.
-Ráenor, whom a bard of standing sang against, and who lived it down, and never named the bard, child of Ílthera.
-Ílthera, who held a chair at court against the Order, and kept it, child of Gálveren.
+[Sílvera]{.name data-type="being/npc" lang=elav}, named tonight, whose other name is not for this hall, child of [Táeren]{.name data-type="being/npc" lang=elav}.
+Táeren, who holds the house, and keeps the river-meadows, and whose people eat, child of [Méldoreth]{.name data-type="being/npc" lang=elav}.
+Méldoreth, who followed the art at Péravel and came home, and kept a harper twenty years and paid him, child of [Óuravel]{.name data-type="being/npc" lang=elav}.
+Óuravel, in whose years the silver stopped going east, who built the living bridge over the mill-race, which stands, child of [Deneth]{.name data-type="being/npc" lang=elav}.
+Deneth, who held the house in her own right, and in the year the rain came wrong unbarred the stores, child of [Kálvorin]{.name data-type="being/npc" lang=elav}.
+Kálvorin, for whom the oak stands at the ford-gate, child of [Therseth]{.name data-type="being/npc" lang=elav}.
+Therseth, who stood on the north shore the year the fleets came, and came home, child of [Ráenor]{.name data-type="being/npc" lang=elav}.
+Ráenor, whom a bard of standing sang against, and who lived it down, and never named the bard, child of [Ílthera]{.name data-type="being/npc" lang=elav}.
+Ílthera, who held a chair at court against [[affiliation-ordoarcanis|the Order]], and kept it, child of [Gálveren]{.name data-type="being/npc" lang=elav}.
 Gálveren, who planted the birch in the low meadow for his brother, which stands, child of Velthar.
-Velthar, who went up to the fair at Elanmere and sang the line there, and was heard, child of Sarhel.
-Sarhel, who lost the harp-hall to fire and built it again in stone, child of Nerrin.
+Velthar, who went up to the fair at Elanmere and sang the line there, and was heard, child of [Sarhel]{.name data-type="being/npc" lang=elav}.
+Sarhel, who lost the harp-hall to fire and built it again in stone, child of [Nerrin]{.name data-type="being/npc" lang=elav}.
 Nerrin, a harper, the house's own, who sat in the Circle, child of Árnolen.
-Árnolen, who in the year the mountains closed set the College to prove the line, and paid, and the College sang it in this hall, child of Lothel.
-Lothel, fostered in the house of Orethan, who owed Orethan a fosterling, and Orethan's line ran out before it was paid; the debt is the line's, and owed; child of Méreval and of Sírtala.
+Árnolen, who in the year the mountains closed set the College to prove the line, and paid, and the College sang it in this hall, child of [Lothel]{.name data-type="being/npc" lang=elav}.
+Lothel, fostered in the house of [Orethan]{.name data-type="affiliation/lineage" lang=elav}, who owed Orethan a fosterling, and Orethan's line ran out before it was paid; the debt is the line's, and owed; child of [Méreval]{.name data-type="being/npc" lang=elav} and of Sírtala.
 Méreval, a trader on the river, who married Sírtala.
 
 [Here the harp is loudest.]
 
 Sírtala of the Dhárgandi, who came down from the hills to the basin and stayed, and kept the high tongue in her mouth all her life, child of Ronken.
-Ronken of the Dhárgandi, child of Tháurmira.
-Tháurmira of the Dhárgandi, of the hearth that was kindled from the Lodge.
-And up the Dhárgandi line, which the Keepers hold and not this house, to Dhargan, who sat.
+Ronken of the Dhárgandi, child of [Tháurmira]{.name data-type="being/npc" lang=aele}.
+Tháurmira of the Dhárgandi, of the hearth that was kindled from [[place-eshalshldg|the Lodge]].
+And up the Dhárgandi line, which the Keepers hold and not this house, to [Dhargan]{.name data-type="being/npc" lang=aele}, who sat.
 And up past Dhargan, to the snow on the pass, and the lamb in the coat.
 ```
 

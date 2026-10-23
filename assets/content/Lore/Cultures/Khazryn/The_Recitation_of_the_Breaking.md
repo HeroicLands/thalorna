@@ -33,10 +33,10 @@ Stand for it. It is not long. Nothing in it is spoken
 that is not on a tablet, and the tablet will be named,
 and where no tablet holds a thing, the thing will not be claimed.
 Seven cities, and the order of them, as the first tablets give:
-Shirvan, under the pale cliff, where the great spring broke, to live;
-Ashkarad, of the workshops; Zargandur, of the horse;
-Kethramír, where the spur comes down; Vahurdash, where the course
-of the last stream fails; Mernagord, by the salt; Ushtra-ber, by the ice.
+[[place-oasishirvn|Shirvan]], under the pale cliff, where the great spring broke, to live;
+[[place-ashkarad|Ashkarad]], of the workshops; Zargandur, of the horse;
+[[place-kethramir|Kethramír]], where the spur comes down; [[place-vahurdash|Vahurdash]], where the course
+of the last stream fails; [[place-mehrnagord|Mernagord]], by the salt; [[place-ushtraber|Ushtra-ber]], by the ice.
 Seven springs. Seven houses. Seven tablets. Say it twice.
 Seven. We came down from the mountains to them. That is the first claim,
 and no one who has taken a city of ours has taken that from the name.
@@ -68,7 +68,7 @@ because a guest does not take a weir, and the prince sent to ask them why,
 and the one who answered said: the land is promised. That was the whole reply.
 The land is promised. We will hear that sentence at every gate in the case.
 It is their claim, and this is ours: that no god gives one people's place
-to another people. The Flame is a god, and keeps the hearth, and is honored in his seat.
+to another people. [[lore-atarosdty|The Flame]] is a god, and keeps the hearth, and is honored in his seat.
 He is not a sovereign who grants a city. The tablet of Shirvan is complete
 on the order of the gods, and has been for two thousand years, and he is in it,
 and he grants no kingdoms in it. That is the finding. We do not need a minute
@@ -88,7 +88,7 @@ Budishay, who carried the house's banner, and did not drop it; the staff was fou
 standing in the trench with the cloth rotted off it, and he beneath.
 Pedunay, the drill-master, who taught the house its strokes, and died with his teeth
 set, the tablet says, which is the only word it gives on how any of them died.
-Garvanay, who bred the gray mares the Zhoqarod ride today, and rode one.
+Garvanay, who bred the gray mares the [Zhoqarod]{.name data-type="affiliation/polity" lang=atar} ride today, and rode one.
 Perimay, who kept the gate-fires, and was the youngest, and was somebody's son.
 Hageshay, who held the right, and was found with the princes, and had held.
 Lirunay, who was a freed man of the house, and need not have ridden, and was felled
@@ -102,7 +102,7 @@ Our dead were left on the pasture. No Delkoshekh was let beyond the wall. He had
 the quarter's Delkoshekh; he stood at the north gate with the house's tablet in his hands
 and asked to go out and read the names, as the rite is, as every Tellumi understands
 the rite to be: the name read from the clay, the lamps lit, and then the dead are received.
-He asked. The gate was theirs. The worship of the Keeper was already forbidden. He believed
+He asked. The gate was theirs. The worship of the [[affiliation-ahurdaen|Keeper]] was already forbidden. He believed
 they would let him, because he was a priest. They did not let him. The lamps were not lit.
 Three days the war-house lay on the north grass. On the third day the Zhoqarod dug a pit
 and drove the bodies into it with their horses, and filled it, and the grass on the trench
@@ -121,15 +121,15 @@ ask a chandler of Zargandur why she sells so many lamps. She will not tell you. 
 That is the second year. The war went on for ten more. The other houses will tell you so.
 
 The fifth year, Ashkarad, of the workshops. The tablet of Ashkarad gives the gate
-and the hour, and the name of the man who opened it, which the House of Ashkarad does not state
+and the hour, and the name of the man who opened it, which the [House of Ashkarad]{.name data-type="affiliation/lineage" lang=en} does not state
 in the recitation, because his line is still in the city and makes good tools.
-Ashkarad fell by treachery and not by horse, and the Teghumod hold it, and the rules
+Ashkarad fell by treachery and not by horse, and the [Teghumod]{.name data-type="affiliation/polity" lang=atar} hold it, and the rules
 of the workshops stand, and the craft councils sit, and the tribe buys what is made,
 and the water-tunnels are family property shaft by shaft, and the tax is paid.
 The eighth year, Kethramír, of the priests. The tablet of Kethramír gives the count
 of the Delkoshekhs killed in the yards, who would not flee, and it is a large amount,
-and the recitation gives the number when the House of Kethramír recites it, and we do not,
-because it is theirs to give. The Tozhirod hold the city and rule it like scholars, by rote
+and the recitation gives the number when the [House of Kethramír]{.name data-type="affiliation/lineage" lang=en} recites it, and we do not,
+because it is theirs to give. The [Tozhirod]{.name data-type="affiliation/polity" lang=atar} hold the city and rule it like scholars, by rote
 and precedent, and the quarter has its Delkoshekh and its courts, and the magistrate reads the clay
 and sometimes agrees with it. That is the eighth year. The ninth and tenth we do not say;
 the tablets of those years are the siege of Shirvan, and the siege is a long account
@@ -137,10 +137,10 @@ of water, and who held the basin, and who held the cliff, and the amount
 the city paid for grain, and nobody recites it, because it ends the same way.
 
 The eleventh year, Shirvan. The first city. The holiest. The great spring under the cliff. The day
-the Awakening count gives is the first of the month of the low water, and the wall
+the [Awakening]{.name data-type="lore/calendar" lang=en} count gives is the first of the month of the low water, and the wall
 was opened at the basin gate, and the city was taken by nightfall, and that is not all.
 The temple of the Keeper of Harmony was pulled down. Its stones are in the fire-temple now.
-The great shrine of the Mother of the Oasis at the spring was pulled down, and the fires they vow
+The great shrine of the [[affiliation-zurathra|Mother of the Oasis]] at the spring was pulled down, and the fires they vow
 never to let go out were built over the holy water itself, and burn there, and the Tellumi do not drink
 on that side of the basin, and have not said why to any Atarzád, and will not. Think
 what the archive was. Two thousand years of clay, without a gap, in the temple's rooms:

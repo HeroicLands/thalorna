@@ -74,7 +74,7 @@ Friend, go now by the cistern stair, not the square.
 Her steward's at the gate; her herald's out.
 I've held it all I can. I cannot spare
 another breath. I cry it now. Look out:
-    Pramiza, cries the watch, and it is morning.
+    [Pramiza]{.name data-type="being/npc" lang=prov}, cries the watch, and it is morning.
 
 THE LOVER
 I went down by the cistern. Behind me rose

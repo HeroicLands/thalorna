@@ -88,7 +88,7 @@ A hall that a bird will live in is not a room.
   We said so to the makers once. They said they knew.
 
 Then a horde came up the valley in the dark,
-  Grukar, more than that valley had ever held of anything,
+  [[lore-grukarfolk|Grukar]], more than that valley had ever held of anything,
 and they came as one, which Grukar cannot do,
   and they did not break, which Grukar always do,
 and all that was known of them was true, and it was nothing.

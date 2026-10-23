@@ -52,7 +52,7 @@ A staff, a bowl, a cloth, and ash on his arms and his brow.
 The last village above the ford is a dozen houses and a well,
   and it shuts its doors at dusk on the river side.
 He stood at a door at dusk and the door opened,
-  because it was a door in Vedyara.
+  because it was a door in [[place-vedyarargn|Vedyara]].
 The woman of the house was Padmika, a widow since the winter.
   She set millet before him before she asked.
 He ate. She asked. He said: I am going down to the ford.
@@ -138,7 +138,7 @@ The fire went out on the ford.
 Twelve lines the first night, and twelve out.
   A hundred by the ninth day.
 On the ninth day a priest came up the river road from Rajepur, the king's town,
-  Dormanata, an Achorya of the Triyanga, with no soldier behind him.
+  Dormanata, an Achorya of [[affiliation-triyangasampradeya|the Triyanga]], with no soldier behind him.
 He stood on the road above the east bank in the heat and he put the case,
   and it is a true case, and we sing it whole.
 He said: The dead are Kalavrata's. He takes every soul on, asked or not.
@@ -163,7 +163,7 @@ I take the refusal. I will set it again, and he may refuse it again.
   That is not deciding. That is a petition.
 It is the one thing this kingdom does not know how to receive.
   I bring it anyway.
-And Vahrati, the gentle sister of the fire, takes what yields of itself.
+And [[lore-vahratidty|Vahrati]], the gentle sister of the fire, takes what yields of itself.
   Ten years. It has not yielded.
 Dormanata said: Then hear the last, and it is the sharpest.
   Every fire you light here and lose, the field learns from.

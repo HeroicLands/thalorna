@@ -6898,6 +6898,57 @@ data:
     - {root: t-v-z, sense: "each, one by one", field: grammar}
     - {root: v-z-th, sense: "a sixteen of sixteens, a great count", field: grammar}
   register:
+    - {name: "Balgan", tongue: khazari}
+    - {name: "Bamgan", tongue: khazari}
+    - {name: "Bantan", tongue: khazari}
+    - {name: "Barthan", tongue: khazari}
+    - {name: "Bimig", tongue: khazari}
+    - {name: "Bitim", tongue: khazari}
+    - {name: "Bumgun", tongue: khazari}
+    - {name: "Dalkan", tongue: khazari}
+    - {name: "Darkhan", tongue: khazari}
+    - {name: "Delek", tongue: khazari}
+    - {name: "Dilkin", tongue: khazari}
+    - {name: "Galdan", tongue: khazari}
+    - {name: "Garpan", tongue: khazari}
+    - {name: "Garzan", tongue: khazari}
+    - {name: "Gasvan", tongue: khazari}
+    - {name: "Girip", tongue: khazari}
+    - {name: "Guldun", tongue: khazari}
+    - {name: "Guruz", tongue: khazari}
+    - {name: "Halban", tongue: khazari}
+    - {name: "Hamkan", tongue: khazari}
+    - {name: "Khard-vurán", tongue: khazari}
+    - {name: "Khilvin", tongue: khazari}
+    - {name: "Khirid", tongue: khazari}
+    - {name: "Lakaman", tongue: khazari}
+    - {name: "Lamav", tongue: khazari}
+    - {name: "Malnan", tongue: khazari}
+    - {name: "Malt-purán", tongue: khazari}
+    - {name: "Multun", tongue: khazari}
+    - {name: "Murgun", tongue: khazari}
+    - {name: "Nilpin", tongue: khazari}
+    - {name: "Nulup", tongue: khazari}
+    - {name: "Palaz", tongue: khazari}
+    - {name: "Piliz", tongue: khazari}
+    - {name: "Ramkan", tongue: khazari}
+    - {name: "Ribid", tongue: khazari}
+    - {name: "Rimik", tongue: khazari}
+    - {name: "Rinit", tongue: khazari}
+    - {name: "Samag", tongue: khazari}
+    - {name: "Sikir", tongue: khazari}
+    - {name: "Suluth", tongue: khazari}
+    - {name: "Tabar-suláth", tongue: khazari}
+    - {name: "Tabaran", tongue: khazari}
+    - {name: "Talgan", tongue: khazari}
+    - {name: "Tanvan", tongue: khazari}
+    - {name: "Thamran", tongue: khazari}
+    - {name: "Tilig", tongue: khazari}
+    - {name: "Timkin", tongue: khazari}
+    - {name: "Tunuv", tongue: khazari}
+    - {name: "Tunvun", tongue: khazari}
+    - {name: "Vurun", tongue: khazari}
+    - {name: "Zamad", tongue: khazari}
     - {name: Khazár Folk, tongue: gloss, built: [Khazár]}
     - {name: Khazari, tongue: older}
     - {name: Khazar, tongue: gloss, built: [Khazár]}

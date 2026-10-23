@@ -70,7 +70,7 @@ For a fever. The fever asks questions. You say this over the sick one and you an
 : The third charm, for a fever {#fever}
 
 ```verse {form=vreld lang=en}
-**Vethwin** went under,
+[Vethwin]{.name data-type="being/npc" lang=varo} went under,
 first of the Shamans,
 and a voice there had a word for her,
 and she came up with both hands empty.

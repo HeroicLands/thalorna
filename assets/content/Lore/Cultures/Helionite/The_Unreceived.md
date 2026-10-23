@@ -63,8 +63,8 @@ The chorus stands in its ranks. The judge of the Temple comes on and walks the r
 Turn.
 There is a measure the gods set on the fire,
 how much a man may hold in his two hands and live.
-The Forge-Lord gave the hammer and the anvil,
-the Keeper of Sacred Wisdom gave the book that names the fire,
+The [[lore-ustarondty|Forge-Lord]] gave the hammer and the anvil,
+the [[lore-marendasdty|Keeper of Sacred Wisdom]] gave the book that names the fire,
 and the book says: so much and no more.
 The man on the rise read the book, and turned the page,
 and read the page after the last page, where nothing is written,
@@ -142,7 +142,7 @@ Go home, mother. Lay out the cloak.
 We are standing. Tell them we are standing still.
 ```
 
-The mother goes. The herald stays at the ring through the night, and does not cross again. In the last scene before the second ode, he tells the judge of the Temple that he will go to the assembly and ask it to pay for the rite of the Silent Judge, and the judge tells him that he may ask, that no one has ever put it to the assembly, and that the families will see to it that no one does.
+The mother goes. The herald stays at the ring through the night, and does not cross again. In the last scene before the second ode, he tells the judge of the Temple that he will go to the assembly and ask it to pay for the rite of the [[affiliation-selmoros|Silent Judge]], and the judge tells him that he may ask, that no one has ever put it to the assembly, and that the families will see to it that no one does.
 
 : The Second Ode {#second}
 

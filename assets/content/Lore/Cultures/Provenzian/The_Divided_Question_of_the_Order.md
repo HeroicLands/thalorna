@@ -59,13 +59,13 @@ You'd leave her with the unplaced. Which is worse?
 SERDALE
 Not with the unplaced. There are three the list
 has never held, and never will: the sea;
-the dead, the Judge's, whom the clerks have missed
+the dead, the [[lore-selmorosdty|Judge]]'s, whom the clerks have missed
 on purpose; and the one you love. These three
 no steward seats; no herald ever could.
 I keep her with the sea and the dead, for good.
 
 ILTORE
-The dead are placed. The Silent Judge's priest
+The dead are placed. The [[affiliation-selmoros|Silent Judge]]'s priest
 will place the dead of any field, for a fee;
 that is the rite. So strike the dead, at least.
 That leaves your lady out there with the sea,
@@ -107,7 +107,7 @@ The judge finds, first, that Serdale has recited the order correctly, and is rig
 
 She finds, second, that Iltore has argued that a name given in the dark outranks a name given at birth, and has offered to be unnamed by his city in order to keep it. She finds the offer handsome and notes that it has not been asked of him.
 
-She finds, third, that Iltore is right that the dead are placed, since the priests of [[affiliation-selmoros|Sélmoros]] place them for a fee, and that Serdale has therefore left his lady with the sea alone. She finds that Serdale has not answered this, and that he has asked a better question in reply, which Iltore has answered with his heart and not with his house.
+She finds, third, that Iltore is right that the dead are placed, since the priests of Sélmoros place them for a fee, and that Serdale has therefore left his lady with the sea alone. She finds that Serdale has not answered this, and that he has asked a better question in reply, which Iltore has answered with his heart and not with his house.
 
 She finds, fourth, that neither party has asked the beloved where she stands. The beloved is not a party to the order and has not been called. The question is therefore improperly put, and no judgment between the parties can settle it.
 

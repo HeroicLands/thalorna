@@ -66,7 +66,7 @@ Who sings it, I do not say. Ask me whether the sound ends and I will stand silen
 
 The carriers were told that eleven lines stand in the gap and were not given to them, and that the singer did not finish the line before the gap either, when she sang it.
 
-The account names her here: **Tellakitta Eilavanto**, the small bell, of the hearth of the wide sky.
+The account names her here: [Tellakitta Eilavanto]{.name data-type="being/npc" lang=sina}, the small bell, of the hearth of the wide sky.
 
 The one who kept the oaks rose while the last line was still being held, which is not done, and the account keeps that he did it. He said, before he sang: "You say the stars stop when the singer stops."
 
@@ -99,7 +99,7 @@ Tellakitta sang that the world ends when its singer stops. I say it ends when it
   So tend. That is my speech. It is not long, because the oak is waiting and the rot does not wait with it.
 ```
 
-The account names him: **Rivytti Syllente**, the turning leaf, of the hearth of the rising note.
+The account names him: [Rivytti Syllente]{.name data-type="being/npc" lang=sina}, the turning leaf, of the hearth of the rising note.
 
 The one who kept the meadow stood then and said: "You say the Dark is slow."
 
@@ -129,7 +129,7 @@ Ours have not. Put the question down. It is not ours to lift, and we did not lif
 The grass goes down. The grass stands. Between the two there is a winter, and that is all there is between them.
 ```
 
-The account names her: **Lentila Talvento**, the tall grass, of the hearth of the low fog.
+The account names her: [Lentila Talvento]{.name data-type="being/npc" lang=sina}, the tall grass, of the hearth of the low fog.
 
 Tellakitta said: "I sang that the breath is sung. I did not sing that the morning is."
 
@@ -174,13 +174,13 @@ I say that a world ends: a hearth, a valley, everyone in it, in a night,
   and the rest of the world does not know, and the grass on the meadow below the passes stood up that spring as it always does.
 That is the end as I have seen it, and I have seen one. A valley with its people kept in it.
   One place at a time, and the next place not knowing, and the next.
-We know where the dead go. Aulveira takes them to **Ollevikko**. On that there has never been a gathering, because there is nothing in it to speak against.
+We know where the dead go. Aulveira takes them to [Ollevikko]{.name data-type="place" lang=sina}. On that there has never been a gathering, because there is nothing in it to speak against.
   I do not know whether Ollevikko outlasts the world. I asked two who chose to go there and have slipped back. They are no wiser about it than I am.
 ```
 
 The account marks a silence after this the length of a long line, and nobody took it up.
 
-The account names him: **Hyssetti Toimunto**, the held breath, of the hearth of the turning year, and after the name an epithet the carriers rendered as the one who stood at the edge. He went north again when the gathering had sat its nights, and his speech stayed in the clearing with the one who keeps it now, as each of them is kept by someone until the gathering is called again. The account does not say that he came back, and the Sinalo who gave it to the carriers did not say either. Of Ollevikko the carriers were told that the name is the gathering of the dead, and nothing else, and they asked nothing else.
+The account names him: [Hyssetti Toimunto]{.name data-type="being/npc" lang=sina}, the held breath, of the hearth of the turning year, and after the name an epithet the carriers rendered as the one who stood at the edge. He went north again when the gathering had sat its nights, and his speech stayed in the clearing with the one who keeps it now, as each of them is kept by someone until the gathering is called again. The account does not say that he came back, and the Sinalo who gave it to the carriers did not say either. Of Ollevikko the carriers were told that the name is the gathering of the dead, and nothing else, and they asked nothing else.
 
 ## The One Word
 

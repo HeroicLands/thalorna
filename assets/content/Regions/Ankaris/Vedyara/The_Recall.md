@@ -70,7 +70,7 @@ He did not ask for the king. He asked for the grips
 and the bowmen came out of their blankets to the fire,
   and he spoke it standing:
 
-"Dhanurpala of the High Draw says it,
+"[Dhanurpala]{.name data-type="being/npc" lang=vedy} of the High Draw says it,
   and the three say it with him.
 The bow was given at the gate. It was not sold.
   The mark on the grip is ours.
@@ -266,9 +266,9 @@ The horse stood off on the flat to the left of the mouth,
   where a horse can turn.
 We went up the two jaws in the dark, the long bows
   to the shelves above the road,
-the Patient Eye higher and farther in, one arrow each,
+[[place-patienteye|the Patient Eye]] higher and farther in, one arrow each,
   lying still.
-Where the Hidden String went, nobody saw.
+Where [[place-hiddenstring|the Hidden String]] went, nobody saw.
   Nobody looks.
 That night, we said, the priests are awake in the fort.
   The lamps are up before the scale.

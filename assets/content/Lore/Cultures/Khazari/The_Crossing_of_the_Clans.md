@@ -150,7 +150,7 @@ The stone did not count us. We counted.
 Now the course under the first course.
 Under is where we did not cut. Under is where we were cut.
 We say the name once. The eldest says it.
-**Humadan**. The middle place.
+[Humadan]{.name data-type="place/world" lang=khaz}. The middle place.
 It is said. It is not said again tonight,
 and next year it is not said by anyone younger.
 What is under that, we do not know.
@@ -162,7 +162,7 @@ and says no more of it than that, because we did not stay to the end of it.
 In that war, rings were forged.
 A ring, the ringing-round; what was ringed round was forced.
 Forced, the forcing; the forcing is the whole of what a ring does.
-**Dagar-kurág**: the ringing-round of forcing. One of them is a _kirgath_.
+[Dagar-kurág]{.name data-type="miscgear" lang=khaz}: the ringing-round of forcing. One of them is a _kirgath_.
 Some of them were given to our forebears. Given.
 The forebears who were given them took them. The ones who took them were forced.
 We say forebears. We do not say the names.

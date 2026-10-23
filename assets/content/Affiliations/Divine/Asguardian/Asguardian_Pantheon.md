@@ -253,7 +253,7 @@ and the hall holds shelter.
 The tongue has its task;
 the hand has its keeping.
 
-At Jel, twelve nights
+At [[lore-jol|Jel]], twelve nights
 are bright in the hovs.
 Darkness leans close
 to lighted windows.
@@ -286,14 +286,14 @@ Eldheim opens;
 Svartbrandur rides forth.
 Fire-kin follow;
 burning goes before him.
-Vetrúlfur slips free;
+[[lore-vetrulfur|Vetrúlfur]] slips free;
 the wolf-winter follows.
 The chain cannot hold
 the world's last cold.
 
 Valsal goes forth;
 Solvangur empties.
-Vigvoll receives
+[[place-vigvoll|Vigvoll]] receives
 the muster of honor.
 The dead draw up
 beside defending gods.
@@ -311,7 +311,7 @@ Wisdom and fury
 lie fallen in turn.
 
 Thrunvald strikes
-Heimsormur, the World-Wyrm.
+[[lore-heimsormur|Heimsormur]], the World-Wyrm.
 Thrúnhamarr answers
 the rising of terror.
 The wyrm falls down;
@@ -401,7 +401,7 @@ The third is the _rune-casting_—the reading of the carved rune-staves to disce
 
 The Asguardian calendar is organized around four great seasonal blets, supplemented by dozens of faith-specific festivals.
 
-[[lore-jol|Jel]] (mid-winter) is the longest and most universally observed. For the twelve nights around the solstice, the hovs are kept ablaze with light, the jarls' halls hold open feast, the dead are invited to the table, and the living hold vigil against the long dark. Odvar is prominent—the [[lore-jol|Jel-Ride]] is abroad on the worst of the nights—but every faith has its place in the season. [[affiliation-thrunvald|Thrunvald's priests]] bless the hearth; [[affiliation-solrun|Solrún's priestesses]] conduct the rites of the coming year's loves and marriages; the skalds of [[affiliation-skaldscrcl|the Circle]] sing the year-long cycle of hero-sagas from first night to last.
+Jel (mid-winter) is the longest and most universally observed. For the twelve nights around the solstice, the hovs are kept ablaze with light, the jarls' halls hold open feast, the dead are invited to the table, and the living hold vigil against the long dark. Odvar is prominent—the [[lore-jol|Jel-Ride]] is abroad on the worst of the nights—but every faith has its place in the season. [[affiliation-thrunvald|Thrunvald's priests]] bless the hearth; [[affiliation-solrun|Solrún's priestesses]] conduct the rites of the coming year's loves and marriages; the skalds of [[affiliation-skaldscrcl|the Circle]] sing the year-long cycle of hero-sagas from first night to last.
 
 [[lore-sumarmal|Somarmál]] (the beginning of summer, roughly the first month of the Ankarian calendar) is the blet of return—the return of warriors from winter quarters, of ships to the water, of cattle to the high pastures. The offerings are for the coming year: [[lore-frodvindty|Frodvin]] is prominent, as are Thrunvald for seafaring and [[miscgear-hornnjordur#hafvald|Hafvald]] among those coastal peoples who keep the older names. It is the traditional season for the great assemblies, the tings at which disputes are heard and oaths are taken.
 
@@ -413,9 +413,9 @@ Between these four, each faith maintains its own calendar of high rites—the [F
 
 ## The Cosmic Struggle: Aldarlok
 
-The defining eschatological claim of the Asguardian faith is that the present age is not eternal. At some appointed time—a time the skalds describe in terms so specific that it cannot be a myth and so elusive that it cannot be a date—the world will come to a contest from which it cannot be saved by half-measures. The chained will slip their chains, the burning realm will open, [[lore-vetrulfur|Vetrúlfur]] the Winter-Wolf will come loose, and Svartbrandur will ride out of Eldheim with his fire-kin at his heel, and the final battle will be joined.
+The defining eschatological claim of the Asguardian faith is that the present age is not eternal. At some appointed time—a time the skalds describe in terms so specific that it cannot be a myth and so elusive that it cannot be a date—the world will come to a contest from which it cannot be saved by half-measures. The chained will slip their chains, the burning realm will open, Vetrúlfur the Winter-Wolf will come loose, and Svartbrandur will ride out of Eldheim with his fire-kin at his heel, and the final battle will be joined.
 
-In the standard telling, the defending gods and the Valdrengir will muster on the plain of [[place-vigvoll|Vigvoll]]. Odvar will fall to the wolf, and the wolf will fall to his son. Thrunvald will strike [[lore-heimsormur|Heimsormur]] the World-Wyrm and take nine steps and die of its venom. Eidgar will meet his long-chained adversary, the hound [[lore-dulmvargur|Dulmvargur]], and both will be destroyed together. Frodvin will fight Svartbrandur himself and be cut down, and Svartbrandur will then burn the world and everything in it, and the tree itself will fall. Out of the ashes a remnant will rise and a remade world will be kindled from the coals, but the pantheon that now stands will not stand to see it—what stands in the new age will be their heirs, the [[lore-tvelgaett|Tvelgaett]], not themselves.
+In the standard telling, the defending gods and the Valdrengir will muster on the plain of Vigvoll. Odvar will fall to the wolf, and the wolf will fall to his son. Thrunvald will strike Heimsormur the World-Wyrm and take nine steps and die of its venom. Eidgar will meet his long-chained adversary, the hound [[lore-dulmvargur|Dulmvargur]], and both will be destroyed together. Frodvin will fight Svartbrandur himself and be cut down, and Svartbrandur will then burn the world and everything in it, and the tree itself will fall. Out of the ashes a remnant will rise and a remade world will be kindled from the coals, but the pantheon that now stands will not stand to see it—what stands in the new age will be their heirs, the [[lore-tvelgaett|Tvelgaett]], not themselves.
 
 This is not held to be certain in every detail. The rune-priests speak of _branchings_ in the great nelth, of choices not yet made, of the possibility—however slim—that some part of the outcome may be shifted by the conduct of those alive in the final age. But the general shape is fixed. The gods know they will die; the Valdrengir are being trained for a war they will lose; the honorable dead are being gathered for a battle that will end in fire. The theological response is not despair but defiance: to fight well in a losing cause is, in the Asguardian understanding, the highest form of virtue. It is what makes the gods worthy of worship, and it is what makes a mortal worthy of the gods' hall.
 

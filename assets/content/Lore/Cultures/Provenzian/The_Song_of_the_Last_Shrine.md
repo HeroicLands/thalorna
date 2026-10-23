@@ -37,7 +37,7 @@ I ask no wind of you. I ask what's owed:
 the count of days, the soundings written down,
 the water measured and the biscuit stowed,
 the morning the last headland settled down.
-Thunderer, let the weather have its say.
+[[lore-brazemasdty|Thunderer]], let the weather have its say.
 I sing a ship that sailed, and turned away.
 
 You who are home again at the equinox
@@ -55,7 +55,7 @@ how Lentize, a fisher's son, first put
 his net out, nine years old, from his father's skiff;
 how he laid the Solmere's cedar keel, and shut
 his door on every counsel and every if,
-and took her up the Gulf, and brought her back.
+and took her up the [[place-batarengulf|Gulf]], and brought her back.
 Now hear the fourth song, and the western track.
 
 On the spring day the outbound ships are blessed,
@@ -89,18 +89,18 @@ Now hear the twelve, and hear them as they're named,
 the city first, the way a man is known:
 Kalveza, a caulker, whose seams were never blamed;
 Jalnasdal, a clerk to keep the count, whose own
-hand was a notary's; Lizela, famed
+hand was a notary's; [[place-lizela|Lizela]], famed
 for salt, a cooper for the casks; from the old stone
-of Aurelane, a student of the stars
+of [[place-aureliane|Aurelane]], a student of the stars
 who'd read them in a book and not from spars.
 
-Válaren, a sailmaker, to mend what tore;
-Palvote, a hill man who had only heard
+[[place-valarencity|Válaren]], a sailmaker, to mend what tore;
+[[place-palvothe|Palvote]], a hill man who had only heard
 the sea described, and wanted to see more;
-Hárivren, a carpenter; a cook, preferred
-for the dried peaches Eltrembis had in store;
-Bataren, a pilot of the north, whose word
-went half Élavendri when the wind was high;
+[[place-harivrencity|Hárivren]], a carpenter; a cook, preferred
+for the dried peaches [[place-elthrembis|Eltrembis]] had in store;
+[[place-batarencity|Bataren]], a pilot of the north, whose word
+went half [[skill-elvndrlng|Élavendri]] when the wind was high;
 and Volsater, three, his cousins, born nearby.
 
 They went the way the fast boats go, at night,
@@ -229,7 +229,7 @@ a herald names an embassy, a load
 of cities, then the men. And then he paid
 each man his wage, and then again, and laid
 
-the hill man's share in the priest of Sélmoros's hand
+the hill man's share in the priest of [[affiliation-selmoros|Sélmoros]]'s hand
 to carry up to the hills, and then once more
 he paid the clerk, for the counting, and the stand
 he took. That is the end the southern shore
