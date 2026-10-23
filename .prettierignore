@@ -15,9 +15,3 @@ CHANGELOG.md
 # would make the copy differ from its source and re-diff on every re-vendor.
 # `sohl.json` alone is 38,000 lines, so that churn is not small.
 assets/manifests/*.json
-
-# The website. The pages and rendered output beneath `site/` are generated, and
-# the theme arrives as an npm package with its own style. The layouts are Go
-# templates in `.html` files, which Prettier reflows as HTML — folding the
-# template comments and directives into prose.
-/site/
