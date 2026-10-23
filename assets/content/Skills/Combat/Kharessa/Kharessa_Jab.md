@@ -1,9 +1,9 @@
 ---
 shortcode: chrssajab
-name: {full: Charissa Jab, aliases: []}
+name: {full: Kharessa Jab, aliases: []}
 type: skill
 subType: combattechnique
-description: "The fast, precise open-hand strike of the Charissa, aimed with the fingertips or the heel of the hand."
+description: "The fast, precise open-hand strike of the Kharessa, aimed with the fingertips or the heel of the hand."
 tags: [bethua, unarmed]
 data:
   icon: sohl-none-icon-fist
@@ -61,7 +61,7 @@ sohl:
     impairedByRoles: [manipulator]
 ---
 
-The **Charissa Jab** is a short, straight strike with the fingertips or the heel of the open hand, thrown and withdrawn before an opponent can answer it. Together with the [[skill-chrssachop|Charissa Chop]] it takes the place of the closed-fist punch in the [[skill-charissa|Charissa]].
+The **Kharessa Jab** is a short, straight strike with the fingertips or the heel of the open hand, thrown and withdrawn before an opponent can answer it. Together with the [[skill-chrssachop|Kharessa Chop]] it takes the place of the closed-fist punch in the [[skill-charissa|Kharessa]].
 
 The Jab is the art's speed made into a single blow. It strikes no harder than a folk punch, but it arrives sooner and lands where it is sent, so it takes +5 to the attack and aims more precisely than any other open-hand blow. It goes for the eyes, the throat and the ribs, and it is most often the blow that opens the way for the next.
 

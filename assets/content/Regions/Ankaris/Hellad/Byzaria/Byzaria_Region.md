@@ -25,7 +25,7 @@ The region shares its language family, its pantheon and its alphabet with [[plac
 
 Bizaria rises in three steps from the sea.
 
-The coast is short: Bizaria reaches the Vylarian Sea only at its western end, beside Helionis and opposite the [[place-taruzelrgn|Taruzelian islands]]. It is warm and dry in the Helladic manner—hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its straits make natural fortresses: [[place-nesthiros2|Nesthiros]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
+The coast is short: Bizaria reaches the Vylarian Sea only at its western end, beside Helionis and opposite the [[place-taruzelrgn|Taruzelian islands]]. It is warm and dry in the Helladic manner—hot summers, mild wet winters, terraced olive groves and vineyards on the hills behind the harbors. The shoreline is deeply indented, and its straits make natural fortresses: [[place-nesthiros2|Nesthiros]], the League's great port, sits on a fortress isle in the straits that carry its name, and the lesser harbors of [[place-chrysamar|Krisamar]], [[place-thalassos|Thálassos]] and [[place-kostaros|Kostaros]] string out along the coast to either side. The coast is the most densely settled part of the region, and its cities look outward to the sea rather than inward to the plateau.
 
 The plateau behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds of sheep, goats and horses move between seasonal pastures and the villages grow hardy grain in the valley bottoms. The coastal hills climb to it in a series of escarpments, and [[place-khryshteikhos2|Krusteikhos]], the League's capital, sits at the seam where the lowland road from Nesthiros reaches the plateau's edge. In the lusher valleys of the plateau's eastern hills lies [[place-karvashion2|Karvashion]], the caravan city where the roads east and south divide. On the arid highland inland from Nesthiros sprawls [[place-nykhtion|Nikhtion]], the city of the dead, where every great house of the League keeps its tombs.
 
@@ -75,7 +75,7 @@ The League's neutrality is its foreign policy. The [[affiliation-vylarinmpr|Vyla
 
 ## Trade
 
-Bizaria lives on transfer. Eastern goods come down the passes and the Dunhara road to Karvashion, cross the plateau to Krusteikhos, where they are banked, and descend to Nesthiros or Chrisamar to be shipped west. Western goods make the journey in reverse. The League takes its cut at every step, and the [[lore-vylrncrncy|Vylarian currency]] and the paper-script of the [[affiliation-danvar|Danvar]] make the whole system liquid.
+Bizaria lives on transfer. Eastern goods come down the passes and the Dunhara road to Karvashion, cross the plateau to Krusteikhos, where they are banked, and descend to Nesthiros or Krisamar to be shipped west. Western goods make the journey in reverse. The League takes its cut at every step, and the [[lore-vylrncrncy|Vylarian currency]] and the paper-script of the [[affiliation-danvar|Danvar]] make the whole system liquid.
 
 The region's own exports are the silver of Argirteikhos, the iron, arms and metalwork of Órashion, the ceramics and leather of Bizaris, the silks its weavers finish from eastern thread, and the wool, hides and horses of the plateau. It imports grain from Velanthia and the coast of Mídhalión, timber for its shipyards, and the luxuries of every market it sells to.
 
@@ -102,7 +102,7 @@ Across the sea beyond the Taruzelian islands lie the coasts of [[place-xerathia|
 [[place-eastrnmrch|Eastern March]], [[place-southrnmrch|Southern March]], [[place-northrnmrch|Northern March]]
 : the League's border districts
 
-[[place-byzaris|Bizaris]], [[place-chrysamar|Chrisamar]], [[place-thalassos|Thálassos]], [[place-kostaros|Kostaros]], [[place-selimara|Selímara]], [[place-nykhtion|Nikhtion]]
+[[place-byzaris|Bizaris]], [[place-chrysamar|Krisamar]], [[place-thalassos|Thálassos]], [[place-kostaros|Kostaros]], [[place-selimara|Selímara]], [[place-nykhtion|Nikhtion]]
 : lesser towns
 
 [[skill-byzarnlng|Bizarian Language]]

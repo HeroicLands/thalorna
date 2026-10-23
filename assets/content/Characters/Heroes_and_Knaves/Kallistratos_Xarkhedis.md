@@ -539,7 +539,7 @@ The Zulen Pirethos
 [[being-phltsklfts|Filezos Klethes]]
 : The fire-sworn strategist, a tactician and planner who complements Kalestratos's directness with careful forethought.
 
-[[being-euthlshnshrzt|Euthalash Nesharzát]]
+[[being-euthlshnshrzt|Eutalash Nesharzát]]
 : The diplomatic blade dancer, whose social skills and cultural fluency open doors that Kalestratos's temperament would keep firmly shut.
 
 [[being-myrnklypss|Mirene Kalethos]]

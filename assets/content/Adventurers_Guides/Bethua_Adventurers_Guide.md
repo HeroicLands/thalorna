@@ -26,7 +26,7 @@ A foreign man who trades here is served fairly, his coin taken and his contracts
 
 Bethura, the capital, seats both councils and the federation of the Trade-Houses; a Great House's letter is good at any other Great House, and a Junior House's paper is rarely taken outside the city that issued it. [[place-ashira|Oshira]] on the coast is the seat of House [Khalath-Mara]{.name data-type="affiliation/lineage"}, the oldest and proudest of the Great Houses. Inland, the line between green wheat and straw-colored grass is wherever the water stops, and the southern borderlands are shared with nomads who pay tribute rather than obey. [[affiliation-bethuanflt|The Bethuan Fleet]], the best navy in the region, escorts the convoys and wages a deniable privateer war on Vylarian shipping.
 
-Do not mistake an unarmed Bethuan woman for a defenseless one: the [[skill-charissa|Charissa]], an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and to many free women besides.
+Do not mistake an unarmed Bethuan woman for a defenseless one: the [[skill-charissa|Kharessa]], an open-hand and kicking art built on speed, is taught to every woman of the Spear-Sisterhood and to many free women besides.
 
 ## Ways In
 

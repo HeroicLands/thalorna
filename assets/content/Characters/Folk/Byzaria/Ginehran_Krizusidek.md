@@ -3,7 +3,7 @@ shortcode: ginehrankriz
 name: {full: Ginehran Krizusidek, aliases: [Duchess Ginehran Krizusidek]}
 type: being
 subType: npc
-description: An aging noblewoman of considerable power who is Fodios Thimiakit's most steadfast patron.
+description: An aging noblewoman of considerable power who is Fodios Timiakit's most steadfast patron.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Ginehran Krizusidek is a 70-year-old woman who stands 5'11" tall with a heavy bu
 
 # Dossier {#dossier}
 
-Ginehran Krizusidek is an aging noblewoman of considerable power. She is the most steadfast patron of [[being-angldsthymkt|Fodios Thimiakit]].
+Ginehran Krizusidek is an aging noblewoman of considerable power. She is the most steadfast patron of [[being-angldsthymkt|Fodios Timiakit]].

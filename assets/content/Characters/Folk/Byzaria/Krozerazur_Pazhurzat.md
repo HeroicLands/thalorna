@@ -3,7 +3,7 @@ shortcode: krozerazurpa
 name: {full: Krozerazur Pazhurzát, aliases: [Captain Krozerazur Pazhurzát]}
 type: being
 subType: npc
-description: A gruff merchant vessel commander who apprenticed Planthash Tredis at twelve and remains his closest professional contact.
+description: A gruff merchant vessel commander who apprenticed Plantash Tredis at twelve and remains his closest professional contact.
 tags: [generated, draft]
 data:
   icon: icon-person
@@ -36,4 +36,4 @@ Krozerazur Pazhurzát is a 66-year-old man who stands 6'1" tall with a medium bu
 
 # Dossier {#dossier}
 
-Krozerazur Pazhurzát is a gruff merchant vessel commander who apprenticed [[being-plnthshplytms|Planthash Tredis]] at twelve. He remains Planthash's closest professional contact.
+Krozerazur Pazhurzát is a gruff merchant vessel commander who apprenticed [[being-plnthshplytms|Plantash Tredis]] at twelve. He remains Plantash's closest professional contact.

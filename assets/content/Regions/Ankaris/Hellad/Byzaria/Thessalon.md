@@ -14,11 +14,11 @@ In Thessalon the harbormaster decides which ships sail. Thessalon is a harbor of
 
 ## The Harbormaster's Favor
 
-A seaman who judges a hull honestly is worth a great deal to a man in that office. [[being-plnthshplytms|Planthash Tredis]], a common seaman of [[place-nesthiros2|Nesthiros]], has that reputation, and the harbormaster values his honest assessments of a vessel's condition enough to steer ship-repair contracts his way from time to time.
+A seaman who judges a hull honestly is worth a great deal to a man in that office. [[being-plnthshplytms|Plantash Tredis]], a common seaman of [[place-nesthiros2|Nesthiros]], has that reputation, and the harbormaster values his honest assessments of a vessel's condition enough to steer ship-repair contracts his way from time to time.
 
 ## See Also
 
-[[being-plnthshplytms|Planthash Tredis]]
+[[being-plnthshplytms|Plantash Tredis]]
 : a seaman the harbormaster trusts
 
 [[place-byzariargn|Bizaria]]

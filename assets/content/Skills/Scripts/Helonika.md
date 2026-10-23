@@ -23,6 +23,8 @@ sohl:
 
 The Helónika is the alphabet of [[place-helionis|Helionis]] and the eastern half of the civilized world—twenty-four letters, seven of them vowels, each with a majuscule and a minuscule form, written left to right with spaces between words and a raised dot at the end of a sentence. It is the older of the two great alphabets: the [[skill-semrnscrpt|Semaron]] took its habit of writing vowels as letters rather than as points from [[skill-helonclng|Helonic]] practice, and [[lore-vylarianclt|Vylarian]] scholars, who dislike admitting it, still cite Helonic works in the original.
 
+A capital marks a proper name and the first word of a paragraph, and nothing else; a sentence that begins inside a paragraph begins in a minuscule.
+
 It is a script, not a tongue. A character needs **both** the Helónika and the relevant [[sohl-none-docskill-lang|Language]] to read anything set in it, and it carries at least three that are not mutually intelligible.
 
 ## What it carries
@@ -31,17 +33,17 @@ Helonic
 : the original fit, and still the prestige one. Published drama, poetry and rhetoric are written in Helonic in the Helónika whatever the writer's birth tongue.
 
 [[skill-byzarnlng|Bizarian]]
-: the same letters plus additions for _zh_ and the eastern _kh_, and length diacritics that formal writing feels free to omit. The scribe-houses of [Soridion]{.name data-type="place/settlement"} and [Khalumion]{.name data-type="place/settlement"} standardized it.
+: the same letters plus additions for _zh_ and the eastern _kh_, and length diacritics that formal writing feels free to omit. The scribe-houses of [Soridion]{.name data-type="place/settlement"} and [Kalumion]{.name data-type="place/settlement"} standardized it.
 
 [[skill-bethunlng|Bethuan]]
-: a recension with macron length marks, dedicated aspirate letterforms, a grave for pitch accent, and the **§ register-mark** that signals a shift between the masculine and feminine grammatical registers. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
+: a recension that sets a length bar over a long vowel, writes _kh_ with a letter of its own, marks the pitch accent with an accent over the vowel, and has the **§ register-mark** that signals a shift between the masculine and feminine grammatical registers. Feminine-register texts are the more carefully pointed; temple copies are pointed throughout.
 
 [[skill-valtarlng|Valtari]]
 : in the northern and Helonic-facing ports, where a docker's tally is set down in Helonic letters by whoever is holding the stylus, with no orthography worth the name.
 
 ## Hands
 
-The book hand is upright, evenly spaced, and slow, and is what a copyist in a monastery or a chapterhouse of the [[affiliation-panepistmm|Epistémion]] produces. Against it stands **cursive Bizarian**, the abbreviated commercial hand of the [[affiliation-byzarianlg|Bizarian League]]—rapid, ligature-choked, and, in the League's own phrase, incomprehensible to the untrained. A reader fluent in the book hand may be functionally illiterate in a Nesthiros factor's daybook.
+The book hand is upright, evenly spaced, and slow, and is what a copyist in a monastery or a chapterhouse of the [[affiliation-panepistmm|Epistémion]] produces. Against it stands **cursive Bizarian**, the abbreviated hand in which a merchant house keeps its local books—rapid, ligature-choked, and, in the League's own phrase, incomprehensible to the untrained. A reader fluent in the book hand may be functionally illiterate in a Nesthiros factor's daybook.
 
 ## Who has it
 

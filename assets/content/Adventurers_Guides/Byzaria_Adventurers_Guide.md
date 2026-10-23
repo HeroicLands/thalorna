@@ -14,7 +14,7 @@ data: {packFolder: adventurersguides, culture: byzarianclt}
 
 The [[affiliation-byzarianlg|Bizarian League]] has no great river and no divine mandate. It has a road. Every silk, spice, incense and porcelain that crosses from the far east to the western sea comes over the eastern passes or up the road from [[place-dunharargn|Dunhara]], crosses the Bizarian plateau, and goes down to the coast to be shipped, and five merchant cities take their cut at every step. About eight million people live in [[place-byzariargn|Bizaria]], the inland band of upland and mountain in the east of [[place-heladrgn|Hellád]], which reaches the [[place-vylarianse|Vylarian Sea]] only at its western end. Their wealth rests on one thing, and they say so without embarrassment: a reputation for keeping terms.
 
-This guide is the letter that [House Chrisakit]{.name data-type="affiliation/venture"}, a banking house of Krusteikhos, gives the guards, drivers and correspondents it hires for the first time. Its factors write it the way they write everything—courteously, patiently and to the letter—and they leave out what a house would rather a new hire did not know.
+This guide is the letter that [House Krisakit]{.name data-type="affiliation/venture"}, a banking house of Krusteikhos, gives the guards, drivers and correspondents it hires for the first time. Its factors write it the way they write everything—courteously, patiently and to the letter—and they leave out what a house would rather a new hire did not know.
 
 **The one thing to understand before anything else: in Bizaria, the terms come first.** What was agreed is kept exactly as agreed, whether or not it has turned out well. Bizarians write everything down—contracts, weights, inspections, judgments and the terms on which a quarrel was settled—and a dispute opens with both sides producing paper. A Bizarian will not agree to anything in general terms and settle the details later, because that is how swindles begin. Negotiation is slow, exhaustive and conducted with real warmth, and at the end of it both parties know what was agreed, because it is on a page with two seals.
 
@@ -22,7 +22,7 @@ This guide is the letter that [House Chrisakit]{.name data-type="affiliation/ven
 
 Bizaria rises in three steps from the sea, and the trade climbs them in reverse.
 
-The coast is short, warm and dry, with olive groves and vineyards terraced on the hills behind the harbors. [[place-nesthiros2|Nesthiros]], the League's great seaport, sits on a fortress isle in the straits that carry its name; a dozen languages are heard on its docks, and Taruzelian merchantmen lie beside Vylarian galleys. [[place-chrysamar|Chrisamar]] rivals it with quick turnarounds, consortium warehouses and fewer questions. [[place-thalassos|Thálassos]] keeps so little customs authority that ships wanting privacy put in there, and [[place-kostaros|Kostaros]] is another of the small harbors along the shore.
+The coast is short, warm and dry, with olive groves and vineyards terraced on the hills behind the harbors. [[place-nesthiros2|Nesthiros]], the League's great seaport, sits on a fortress isle in the straits that carry its name; a dozen languages are heard on its docks, and Taruzelian merchantmen lie beside Vylarian galleys. [[place-chrysamar|Krisamar]] rivals it with quick turnarounds, consortium warehouses and fewer questions. [[place-thalassos|Thálassos]] keeps so little customs authority that ships wanting privacy put in there, and [[place-kostaros|Kostaros]] is another of the small harbors along the shore.
 
 The plateau behind the coast is the country most outsiders never see: a broad, treeless upland of grass and scrub, cold in winter and baked in summer, where herds move between seasonal pastures. Krusteikhos, the Golden Fortress, stands at the top of the last escarpment where the lowland road from Nesthiros reaches the plateau. Its counting houses wear gilded domes, and eastern goods are banked there before they go down to the sea. Inland from Nesthiros, on the arid highland, sprawls [[place-nykhtion|Nikhtion]], the city of the dead, where every great house keeps its tombs. [[place-byzaris|Bizaris]] is the artisan city of the guilds, governed by the heads of its twelve greatest guilds; [[place-selimara|Selímara]] is a market town on the inland roads.
 
@@ -130,7 +130,7 @@ WHERE type = 'being'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-In the Eastern March, [[being-arshzrktkls|Árshazur Gavios]] has held a garrison captaincy for a decade, and the mercenary [[being-lofrflmds|Lofáhr Vuzaghios]] has taken the League's silver for twenty years. [[being-orshkrnlkt|Órashkar Naulakit]], a teamster of Chrisamar, refused to pay the [Ravenswood Brigands]{.name data-type="affiliation/criminal"} their tribute on the eastern routes and has been paying for it since.
+In the Eastern March, [[being-arshzrktkls|Árshazur Gavios]] has held a garrison captaincy for a decade, and the mercenary [[being-lofrflmds|Lofáhr Vuzaghios]] has taken the League's silver for twenty years. [[being-orshkrnlkt|Órashkar Naulakit]], a teamster of Krisamar, refused to pay the [Ravenswood Brigands]{.name data-type="affiliation/criminal"} their tribute on the eastern routes and has been paying for it since.
 
 ## Ways In
 
@@ -141,7 +141,7 @@ At the first toll post, ask three questions: **Whose seal is on your load? Who i
 Campaigns here start well from a contract. A house hires the party to escort a caravan whose terms specify the arrival date to the day. An arbitrator needs a witness found before the hearing. A guild master's seal has turned up on goods his guild never made. A shipment of [Merchant House Valdris]{.name data-type="affiliation/venture"} has vanished on the eastern routes with no wreckage, no bodies and no sign of a struggle, and the Ravenswood Brigands are blamed for it.
 
 :::secret
-**For the GM:** What House Chrisakit's letter does not mention: twenty-six years ago a local lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take the village of [[place-trianthion|Trianthion]], and by nightfall every adult there was dead. The company collected its rate and the lord paid without comment. The Iron Wolves keep their compound outside [[place-veridon|Veridon]], they are the work the League prefers not to admit buying, and a survivor who testified in public would force the League to act. The company's most famous deserter, [[being-ghymrhrptrks|Ghimaráhr Rores]], is still being hunted.
+**For the GM:** What House Krisakit's letter does not mention: twenty-six years ago a local lord hired [[affiliation-irnwlvscmpny|the Iron Wolves Company]] to take the village of [[place-trianthion|Trianthion]], and by nightfall every adult there was dead. The company collected its rate and the lord paid without comment. The Iron Wolves keep their compound outside [[place-veridon|Veridon]], they are the work the League prefers not to admit buying, and a survivor who testified in public would force the League to act. The company's most famous deserter, [[being-ghymrhrptrks|Ghimaráhr Rores]], is still being hunted.
 :::
 
 :::secret

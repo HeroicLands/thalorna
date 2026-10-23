@@ -425,11 +425,11 @@ Sedikon stands 6'1" tall with a medium build. He has light tanned skin, greying 
 
 **The Rising Star**
 
-Born to a minor merchant house in the port city of [[place-chrysamar|Chrisamar]], Sedikon showed early aptitude with steel. At fifteen, he was apprenticed to **Master [Duvon of the Silver Halls]{.name data-type="being/npc"}**, the most celebrated swordmaster in the [[affiliation-byzarianlg|Bizarian League]]. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested Duvon himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
+Born to a minor merchant house in the port city of [[place-chrysamar|Krisamar]], Sedikon showed early aptitude with steel. At fifteen, he was apprenticed to **Master [Duvon of the Silver Halls]{.name data-type="being/npc"}**, the most celebrated swordmaster in the [[affiliation-byzarianlg|Bizarian League]]. For seven years he trained with obsessive devotion, drilling combinations until his shoulders screamed and his palms bled. His breakthrough came at twenty-two, when he bested Duvon himself in a ceremonial bout, a victory that scandalized the traditional hierarchy and elevated him to independent master status.
 
 **Years of Ascendancy**
 
-For the next twenty years, Sedikon took on wealthy patrons and noble households, training younger warriors and children of the mercantile elite. His school in Chrisamar became famous; to be accepted as a student of Sedikon Manedes was to be guaranteed status, discipline, and the martial arts that would shape one's adult life. He won lucrative contracts instructing the city's garrison, devised training regimens that military commanders still emulate, and built a reputation for flawless technique and unshakeable principles.
+For the next twenty years, Sedikon took on wealthy patrons and noble households, training younger warriors and children of the mercantile elite. His school in Krisamar became famous; to be accepted as a student of Sedikon Manedes was to be guaranteed status, discipline, and the martial arts that would shape one's adult life. He won lucrative contracts instructing the city's garrison, devised training regimens that military commanders still emulate, and built a reputation for flawless technique and unshakeable principles.
 
 **The Reckoning with Mortality**
 
@@ -489,7 +489,7 @@ Vulnerability to Schemes
 : A wealthy merchant dynasty that has employed Sedikon as a private weapons master for fifteen years. Their eldest son, [Fruves Markedon]{.name data-type="being/npc"}, now commands the garrison, a position Sedikon helped him prepare for.
 
 Captain-General [[being-ruzhvelanakh|Ruzhvelana Korikot]] of the [City Guard]{.name data-type="affiliation"}
-: The supreme military commander of Chrisamar personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.
+: The supreme military commander of Krisamar personally consults with Sedikon on matters of combat doctrine and maintains him on an annual retainer.
 
 Arsir [[being-rabekaraneor|Rabekara Neorikot]]
 : A senior political figure who guards Sedikon jealously, seeing that he receives prominent civic positions and shielding him from rivals' schemes—in exchange for advice on matters requiring decisive action.
@@ -516,7 +516,7 @@ His own reputation, an inner enemy
 ## Plot Hooks
 
 The Challenge from Beyond the Sea
-: A famed swordmaster from a distant Bizarian colony arrives in Chrisamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikon Manedes, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikon to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikon gain a truly honorable victory.
+: A famed swordmaster from a distant Bizarian colony arrives in Krisamar, claiming to have defeated all challengers across three continents. He specifically requests to duel Sedikon Manedes, challenging the aging master's reputation before the gathered nobility. The adventurers might be hired by Sedikon to investigate this challenger's true background, only to discover he is not a trained warrior at all but a warrior-servant bound by dark magic to an ancient curse, doomed to defeat every master swordsman he faces. Only by breaking the curse can Sedikon gain a truly honorable victory.
 
 The Stolen Techniques
 : Sedikon discovers that Swordmaster Vesazáhr Brirorash has somehow obtained detailed notes of his most advanced fighting forms—techniques Sedikon has never written down and only teaches to elite students after years of trust-building. Someone has betrayed him. Sedikon hires the party to identify the traitor and recover the stolen knowledge before it spreads among the city's swordmasters, diluting his edge. The investigation might reveal that the leak comes from a beloved former student now fallen into desperate circumstances, forcing Sedikon to confront his own rigidity.

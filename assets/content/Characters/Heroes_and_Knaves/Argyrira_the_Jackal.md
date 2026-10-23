@@ -402,7 +402,7 @@ Argirira is a lean, weather-hardened woman in her early forties, built in the wi
 
 ### Origin: A Daughter of the Matriarchy
 
-Argirira was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]—lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the [[skill-charissa|Charissa]], the lethal Bethuan unarmed art, and she earned a place among the [Lonkhai]{.name data-type="affiliation"}, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethua raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
+Argirira was born to a minor clan of the southern cantons of the [[affiliation-mtrrchybth|Matriarchy of Bethua]]—lesser nobility, but nobility, with land enough to raise a daughter to expect standing. Like the realm's other promising women she was trained young in arms and in the [[skill-charissa|Kharessa]], the lethal Bethuan unarmed art, and she earned a place among the [Lonkhai]{.name data-type="affiliation"}, the Spear-Sisterhood, rising to command a frontier company that patrolled the very marches she now haunts. For most of her life she was exactly what Bethua raises its women to be: armed, proud, and certain of her place in an order built around her sex. The name she was born with she no longer speaks, and will kill anyone who uses it; she threw her House away the day it threw her away, and keeps only the given name her mother gave her and the byname the marches hung on her after.
 
 ### The Fall
 
@@ -416,7 +416,7 @@ It was in those years that the byname found her. Whether the marcher clans first
 
 ### Skills and Abilities
 
-The Charissa
+The Kharessa
 : Argirira was trained from girlhood in the Bethuan open-hand killing art, and remains lethal weaponless—a fact that has surprised more than one larger opponent who took an unarmed woman of forty for an easy mark.
 
 Spear-Sister's Craft
@@ -438,7 +438,7 @@ She is not, in her own telling, a traitor or a monster but a woman who was throw
 
 ### Strengths
 
-- **The Charissa and a lifetime of arms**—lethal even unarmed
+- **The Kharessa and a lifetime of arms**—lethal even unarmed
 - **A disciplined core** of exiled Spadai and Bethuan women who fight in the trained manner
 - **Real command and tactics** from her years as a Lonkha officer
 

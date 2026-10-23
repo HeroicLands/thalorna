@@ -144,10 +144,10 @@ data:
     fonts: [{font: helonika-book}]
 ---
 
-Helónika Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-helnkscrpt|Helónika]], in Helonika Book. A passage marked with `map=helonika` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script, running left to right. [[skill-helonclng|Helonic]] is written by these rows, and so is [[skill-valtarlng|Valtari]] where it is written in the Helónika. A language's lexicon states a native form only for a word that these rows would spell differently.
+Helónika Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-helnkscrpt|Helónika]], in Helonika Book. A passage marked with `map=helonika` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script, running left to right. [[skill-helonclng|Helonic]] is written by these rows, and so is [[skill-valtarlng|Valtari]] where it is written in the Helónika. [[doc-mapbizarian|Bizarian Spelling]] and [[doc-mapbethuan|Bethuan Spelling]] add the letters and marks those two tongues write. A language's lexicon states a native form only for a word that these rows would spell differently.
 
 ```text
-[Sothira]{lang=hel font=helonika-book map=helonika}
+[Sothira]{lang=helo font=helonika-book map=helonika}
 ```
 
 ## From the Spelling Guide to the Helónika
@@ -165,5 +165,6 @@ Helónika Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Tha
 - **_q_ is the letter _k_.** The script has no _q_.
 - **The raised dot takes the place of the space after a sentence.** It acts like a space that ends the sentence as well as the word, so `.`, `;` and `:` followed by a space are written as the dot alone and the next word follows with no space between. A `.`, `;` or `:` with no space after it, at the end of a line or a passage, is the dot as well. **The comma, both dashes and the hyphen write nothing**: the word space carries the light pause, and a compound is written solid.
 - **The numerals** 0 to 9 are the Helónika digits.
+- **Capitals are the author's.** A capital is written as the majuscule. Write a Helónika passage with a capital only on a name and on the paragraph's first word; the roman transcription beside it keeps the capitals of ordinary writing.
 
 _c_ outside _ch_, _x_, the question and exclamation marks, quotation marks, the apostrophe, `§` and any other character the script lacks pass through unchanged, and the face prints the box for them.

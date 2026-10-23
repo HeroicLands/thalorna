@@ -1,6 +1,6 @@
 ---
 shortcode: kmthrpsskt
-name: {full: Kumethara Pissakit, given: Kumethara, clan: Pissakit, aliases: []}
+name: {full: Kumetara Pissakit, given: Kumetara, clan: Pissakit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, common-folk]
@@ -420,34 +420,34 @@ sohl:
 
 # Appearance {#appearance}
 
-![[kmthrpsskt|Kumethara Pissakit]]{float=top-left}
+![[kmthrpsskt|Kumetara Pissakit]]{float=top-left}
 
-Kumethara stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
+Kumetara stands 5'10" tall with a medium build. She has golden-toned skin, auburn hair, and green eyes. Her features include a diamond-shaped face, a straight nose, a narrow chin, an expressive mouth, arched brows, prominent cheeks.
 
 # Dossier {#dossier}
 
-Kumethara was born into the [Pissakit family]{.name data-type="affiliation/lineage"} in the heavily forested regions of the [[affiliation-byzarianlg|Bizarian League]], in a village built literally within the forest itself. Her father, [Khodegahran Pissakit]{.name data-type="being/npc"}, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kumethara was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kumethara showed early aptitude for woodcraft.
+Kumetara was born into the [Pissakit family]{.name data-type="affiliation/lineage"} in the heavily forested regions of the [[affiliation-byzarianlg|Bizarian League]], in a village built literally within the forest itself. Her father, [Khodegahran Pissakit]{.name data-type="being/npc"}, was a respected woodcutter of modest renown, skilled but not ambitious. Her mother died when Kumetara was young, leaving her father to raise three children with only the forest for support. Where her brothers sought other livelihoods—one became a stonemason, the other a merchant—Kumetara showed early aptitude for woodcraft.
 
-Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Kumethara took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
+Her father initially resisted teaching her, believing the work unsuitable for a woman. When she was fourteen, he fell from a tree and broke his leg. With no other option and no money for hired help, Kumetara took up his axe and worked the contracts herself. By the time her father healed, she had proven she could do the work as well as any man. Grudgingly, then with pride, her father became her mentor.
 
-Now thirty-four, Kumethara has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in [The Woodcutters' Guild of the Bizarian League]{.name data-type="affiliation/guild"} but often works independently on specialized contracts.
+Now thirty-four, Kumetara has established herself as a master of her craft. She specializes in the selective harvesting of timber—taking only mature trees and in patterns that sustain the forest rather than strip it. Her reputation for both skill and forestry wisdom has made her by builders, furniture makers, and increasingly by those concerned with preserving woodland resources. She maintains membership in [The Woodcutters' Guild of the Bizarian League]{.name data-type="affiliation/guild"} but often works independently on specialized contracts.
 
 ## Psyche
 
 ### Personality
 
-Kumethara is a woman of few words but warmth. She expresses herself primarily through her work—perfect joints in furniture, sustainable practices in harvesting, and craftsmanship in everything she undertakes. She has little patience for idle conversation but will engage in substantive discussion for hours if the topic interests her. With clients and colleagues who show respect for both her work and the forest, she is generous with her time and knowledge.
+Kumetara is a woman of few words but warmth. She expresses herself primarily through her work—perfect joints in furniture, sustainable practices in harvesting, and craftsmanship in everything she undertakes. She has little patience for idle conversation but will engage in substantive discussion for hours if the topic interests her. With clients and colleagues who show respect for both her work and the forest, she is generous with her time and knowledge.
 
 Her stubbornness is famous among woodcutters, but it is a principled stubbornness rooted in conviction about how forests should be managed. She will not compromise on practices she believes damage long-term sustainability, regardless of how much money she might earn. This has cost her lucrative contracts but has also earned her the deep respect of those who value stewardship over profit.
 
 ### Motivation
 
-Kumethara is driven by a love for the forests of her homeland and a determination to prove that harvesting timber and preserving forests are not inherently opposed goals. She wants to demonstrate that a woman can master a trade traditionally dominated by men, and that doing so with integrity and wisdom is more valuable than any amount of unethical profit. She also carries a personal mission: to ensure that the practices of careless woodcutters do not destroy the forests her descendants will inherit.
+Kumetara is driven by a love for the forests of her homeland and a determination to prove that harvesting timber and preserving forests are not inherently opposed goals. She wants to demonstrate that a woman can master a trade traditionally dominated by men, and that doing so with integrity and wisdom is more valuable than any amount of unethical profit. She also carries a personal mission: to ensure that the practices of careless woodcutters do not destroy the forests her descendants will inherit.
 
 ### Strengths
 
 Master Timbercraftsman
-: Kumethara's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
+: Kumetara's understanding of wood—its properties, growth patterns, and potential—is encyclopedic. She can assess a forest and know immediately which trees should be harvested and which preserved.
 
 Strength and Skill
 : Her ability to fell a tree exactly as intended, to judge its fall with precision, and to maximize usable timber from each cut is extraordinary. She has never had an accident in decades of work.
@@ -464,13 +464,13 @@ Resilience and Endurance
 ### Weaknesses
 
 Stubbornness
-: Kumethara's principles are admirable but can make her inflexible. She will refuse lucrative contracts on moral grounds, costing herself and potentially her family financially.
+: Kumetara's principles are admirable but can make her inflexible. She will refuse lucrative contracts on moral grounds, costing herself and potentially her family financially.
 
 Limited Negotiation Skills
 : She struggles with business negotiations, often accepting less favorable terms rather than haggle. Her bluntness can offend potential clients in cities where subtlety is valued.
 
 Overexertion Tendency
-: In her dedication to completing work properly, Kumethara sometimes pushes herself beyond wise limits, risking injury or illness.
+: In her dedication to completing work properly, Kumetara sometimes pushes herself beyond wise limits, risking injury or illness.
 
 Difficulty with Urban Environments
 : She is uncomfortable in cities and formal settings, feeling out of place and slightly contemptuous of those she views as soft or disconnected from honest work.
@@ -483,18 +483,18 @@ Risk of Burnout
 ### Patrons
 
 Master Carpenter [Eustrátiash Pimokhkar]{.name data-type="being/npc"}
-: A furniture maker who commissions Kumethara specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
+: A furniture maker who commissions Kumetara specifically for rare wood projects. He values her craftsmanship and has become a trusted colleague and occasional confidant.
 
 [The Architects' Collective of the Bizarian League]{.name data-type="affiliation"}
-: A group of builders committed to lasting construction. They seek Kumethara's timber for high-profile projects and trust her judgment on material selection.
+: A group of builders committed to lasting construction. They seek Kumetara's timber for high-profile projects and trust her judgment on material selection.
 
 [The Monastery of Silent Waters]{.name data-type="affiliation"}
-: A religious community in the forest that employs Kumethara to manage their woodlands sustainably while generating income. The head priest, **Father [[being-trokhazulpet|Trokhazul Petrikot]]**, shares her conservation philosophy.
+: A religious community in the forest that employs Kumetara to manage their woodlands sustainably while generating income. The head priest, **Father [[being-trokhazulpet|Trokhazul Petrikot]]**, shares her conservation philosophy.
 
 ### Enemies
 
 [The Logging Consortium of the Bizarian League]{.name data-type="affiliation/venture"}
-: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester [Zarránikos]{.name data-type="being/npc"}**, views Kumethara as an irritant and has attempted to undercut her contracts.
+: A commercial enterprise that prioritizes profit over sustainability. Their operation manager, **Master Harvester [Zarránikos]{.name data-type="being/npc"}**, views Kumetara as an irritant and has attempted to undercut her contracts.
 
 Corrupt Guild Officials
 : Some members of the **Woodcutters' Guild** resent her for raising standards and are occasionally hostile toward her work practices.
@@ -505,7 +505,7 @@ Unscrupulous Competing Woodcutters
 ### Affiliations
 
 The Woodcutters' Guild of the Bizarian League
-: Kumethara maintains membership and serves informally as an advocate for sustainable practices.
+: Kumetara maintains membership and serves informally as an advocate for sustainable practices.
 
 [The Forest Stewards' Council]{.name data-type="affiliation"}
 : An informal association of woodworkers, builders, and conservationists dedicated to balancing timber harvesting with forest preservation.
@@ -513,16 +513,16 @@ The Woodcutters' Guild of the Bizarian League
 ## Plot Hooks
 
 The Ancient Grove
-: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Kumethara is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
+: A developer seeks to purchase rights to harvest timber from the oldest forest in the region—a grove so ancient that **druids** are rumored to guard it. Kumetara is approached both by the developer and by forest advocates. Her investigation reveals the grove may contain answers to environmental catastrophes and that powerful forces—both commercial and magical—are manipulating the situation.
 
 The Poisoned Forest
-: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumethara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
+: Trees in the northern region begin dying inexplicably. The **Logging Consortium** blames natural causes and seeks to harvest dying trees before they rot. Kumetara's investigation suggests intentional poisoning and discovers evidence pointing toward industrial sabotage or darker forces. Exposing the truth might devastate the region's economy.
 
 The Apprentice Question
-: A young woman, [Nargizán Fulunáhr]{.name data-type="being/npc"}, seeks to apprentice with Kumethara, claiming spiritual calling and skill. Kumethara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumethara's work.
+: A young woman, [Nargizán Fulunáhr]{.name data-type="being/npc"}, seeks to apprentice with Kumetara, claiming spiritual calling and skill. Kumetara would be pleased to teach her, but investigation reveals **Nargizán** may be an infiltrator sent by the **Logging Consortium** to spy on sustainable practices or potentially sabotage Kumetara's work.
 
 The Lost Technique
-: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumethara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
+: An old woodcutter claims to have knowledge of an ancient **joinery technique** from before the current age—methods that make timber bonds stronger than any current practice. He will only teach Kumetara, but his asking price is that she agree to a dangerous expedition into forbidden forest where these techniques were supposedly lost.
 
 The Sanctuary Controversy
-: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Kumethara must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Kumethara must discover before accepting.
+: The **Monastery of Silent Waters** reveals that they cannot continue financially sustaining the forest without increased logging operations. Kumetara must either find alternative funding, negotiate with the monastery's leadership to change their economic model, or compromise her principles. Meanwhile, a mysterious benefactor offers to fund the monastery—but with strings attached that Kumetara must discover before accepting.

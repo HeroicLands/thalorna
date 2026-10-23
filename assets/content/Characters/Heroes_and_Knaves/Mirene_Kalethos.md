@@ -532,7 +532,7 @@ Her relationship with Kalestratos is both her greatest work and her greatest vul
 [[being-phltsklfts|Filezos Klethes]]
 : The company's tactician. Mirene respects his mind and his usefulness but considers him a man of limited vision—capable of solving problems but incapable of grasping the larger purpose that drives her.
 
-[[being-euthlshnshrzt|Euthalash Nesharzát]]
+[[being-euthlshnshrzt|Eutalash Nesharzát]]
 : The blade dancer and diplomat. Mirene finds him interesting—his social gifts rival her own, and she suspects he sees through her rhetoric more clearly than most. This makes him both a potential challenge and a worthy interlocutor.
 
 ### Patrons

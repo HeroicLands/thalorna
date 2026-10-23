@@ -427,17 +427,17 @@ Lámbira stands 5'7" tall with a heavy build. She has dark tanned skin, black ha
 
 Lámbira Pédhinion was born in [[place-sehela|Sehela]], a small grain-village of the dry southern interior of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], where the fields are kept alive only by the qanats and channels the engineer-priestesses maintain. Her family were peasants of the irrigated hinterland, working land held by the local House. As is the [[lore-bethuanclt|Bethuan]] way, the household turned on its women: Lámbira's mother and grandmother held what little the family owned and governed its affairs, while her father and the men of the house labored in the fields as the dependents they were under law. Lámbira, the eldest daughter, was raised from the first as one who would matter—for in Bethua it is daughters who inherit, carry the line, and answer for a household.
 
-Like every free Bethuan girl, Lámbira was trained young in arms and in the [[skill-charissa|Charissa]], the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do—by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Charissa depends, marked her out to the women who trained the village levy.
+Like every free Bethuan girl, Lámbira was trained young in arms and in the [[skill-charissa|Kharessa]], the realm's lethal unarmed art that turns a woman's speed and agility into a weapon. She took to it as few do—by ten she was outfighting girls years older, and her unusual quickness, the very gift on which the Kharessa depends, marked her out to the women who trained the village levy.
 
 ### Training and Rise to Prominence
 
-Lámbira's talent did not go unnoticed. Dómissa [Tázitha]{.name data-type="being/npc"} of [House Khalithon]{.name data-type="affiliation/lineage"}, the clan-matriarch whose lands hold Sehela and the cantons around it, took an interest in the girl and brought her into her own household guard, where she learned the spear, the broadsword, and the finer points of the Charissa from the Dómissa's veteran women. Lámbira rose quickly to be among the most feared fighters of the House's retinue, prized for her discipline and her cold tactical sense as much as her skill at arms.
+Lámbira's talent did not go unnoticed. Dómissa [Tázitha]{.name data-type="being/npc"} of [House Khalithon]{.name data-type="affiliation/lineage"}, the clan-matriarch whose lands hold Sehela and the cantons around it, took an interest in the girl and brought her into her own household guard, where she learned the spear, the broadsword, and the finer points of the Kharessa from the Dómissa's veteran women. Lámbira rose quickly to be among the most feared fighters of the House's retinue, prized for her discipline and her cold tactical sense as much as her skill at arms.
 
 For a time she was one of the Dómissa's household guard, enforcing her mistress's will and settling the disputes of the canton. But the work chafed. Lámbira had risen as high as a peasant's daughter could within another woman's House, and she wanted a path that answered to her own judgment rather than spending her life as the instrument of a Dómissa's.
 
 ### Becoming a Bounty Hunter
 
-Her chance came with a runaway bound-man—a House servant who had struck his mistress and fled into the southern marches, a capital matter in Bethua, where no man may raise his hand to a woman and live. Lámbira tracked him across the borderlands and returned him for judgment, and in doing so found her trade. She left the Dómissa's guard with her blessing and set up as a **thief-taker and bounty hunter**, hiring out her tracking, her blade, and her Charissa to any woman with coin and a quarry: the Houses, [[affiliation-bthntrdhss|the Trade-Houses]], the cantonal Hégissai, and in time the discreet agents of the capital itself. Working out of [[place-bethura|Bethura]], she built a name as the woman you sent after a quarry no one else could run to ground.
+Her chance came with a runaway bound-man—a House servant who had struck his mistress and fled into the southern marches, a capital matter in Bethua, where no man may raise his hand to a woman and live. Lámbira tracked him across the borderlands and returned him for judgment, and in doing so found her trade. She left the Dómissa's guard with her blessing and set up as a **thief-taker and bounty hunter**, hiring out her tracking, her blade, and her Kharessa to any woman with coin and a quarry: the Houses, [[affiliation-bthntrdhss|the Trade-Houses]], the cantonal Hégissai, and in time the discreet agents of the capital itself. Working out of [[place-bethura|Bethura]], she built a name as the woman you sent after a quarry no one else could run to ground.
 
 ### Current Mission
 
@@ -507,7 +507,7 @@ Despite her skills and reputation, Lámbira is not without doubts. She struggles
 
 - **Bounty Hunting & Tracking**
 - **Dual-Wielding** (broadsword and dagger)
-- **The Charissa**—the Bethuan unarmed killing art, in which her agility makes her lethal even weaponless
+- **The Kharessa**—the Bethuan unarmed killing art, in which her agility makes her lethal even weaponless
 
 ## Social
 

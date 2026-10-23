@@ -490,7 +490,7 @@ Emotional Restraint
 
 ### Patrons
 
-Governor [[being-belzurelachr|Belzurela Chrisakit]]
+Governor [[being-belzurelachr|Belzurela Krisakit]]
 : The current governor of Bizaris, who values Sakozes's knowledge of ceremonial matters and relies heavily on his judgment regarding questions of proper form and precedent in official functions.
 
 [The Grand Council of the Bizarian League]{.name data-type="affiliation/governmental"}

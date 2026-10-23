@@ -99,7 +99,7 @@ Bethua repays this with genuine reverence. The Spadai are praised in song and ce
 
 ## The Grace
 
-The Spear-Sisterhood trains from youth in arms and tactics and in the [[skill-charissa|Charissa]]—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
+The Spear-Sisterhood trains from youth in arms and tactics and in the [[skill-charissa|Kharessa]]—the Grace—an open-hand and kicking art built to turn a woman's agility into a weapon and let her beat a larger, stronger opponent. It is neither a sport nor an ornament. The realm's security rests on the proposition that a trained woman defeats an untrained man, and Bethua intends to keep that proposition true.
 
 Above the army stands the fleet, which is what Bethua is actually famous for: the best navy in the region, escorting its convoys, guarding its coast, and waging a deniable privateer war on [[affiliation-vylarinmpr|Vylarian shipping]] as the maritime proxy of its [[affiliation-empireakhlth|Khelathi patron]].
 
@@ -135,7 +135,7 @@ Each is for something concrete. First Growth is for the field and the marriage, 
 
 ## Rank, Reward and Penalty
 
-Reward runs through the House. A daughter named to follow her mother is rewarded with the seal, a Dómissa with a seat in the Council of Houses, a Hégissa with a canton, a Hiérissa with a place in the [Sacred College]{.name data-type="affiliation/governmental"} and an Izet-Mu with the water of the realm. A warrant-captain of the fleet keeps the bulk of what she takes, and a Charissa master carries real prestige. A man's reward is regard: the courtesy of _kiris_, a place in the household he serves well, and for the Spadai the songs, the quarters and the equipment the crown provides.
+Reward runs through the House. A daughter named to follow her mother is rewarded with the seal, a Dómissa with a seat in the Council of Houses, a Hégissa with a canton, a Hiérissa with a place in the [Sacred College]{.name data-type="affiliation/governmental"} and an Izet-Mu with the water of the realm. A warrant-captain of the fleet keeps the bulk of what she takes, and a Kharessa master carries real prestige. A man's reward is regard: the courtesy of _kiris_, a place in the household he serves well, and for the Spadai the songs, the quarters and the equipment the crown provides.
 
 Penalty climbs the other way. A woman passed over for the name takes a lesser office and waits. A House's seal that is dishonored loses its credit in every House that lends on it. A woman who fails her House or is made the failure the Houses need is stripped of her commission, cast out of her House and exiled, which is the worst the realm can say of a woman short of death. A man who strikes a woman or takes up arms without leave is put to death. A runaway bound-man is hunted. A Spados who is cast out joins the Houseless of the south.
 
@@ -183,7 +183,7 @@ The House carries its injured and its old as long as its seal can afford them. A
 
 ## Shelter, Teaching and Defense
 
-Shelter is the House's, and when a House cannot, the temple's. Teaching is graded by sex and by station. A Parthena, a consecrated girl, spends the long temple education before ordination. A girl of a lettered House learns the rolls, the ciphers and the dense legal tongue of warrants and writs. A free girl learns the spear and the Charissa young. The Order of the Waters trains the engineer-priestesses, and a boy learns his trade at the bench of the man his mistress sets him under. A beautiful and gifted son may be put forward for the Spadai.
+Shelter is the House's, and when a House cannot, the temple's. Teaching is graded by sex and by station. A Parthena, a consecrated girl, spends the long temple education before ordination. A girl of a lettered House learns the rolls, the ciphers and the dense legal tongue of warrants and writs. A free girl learns the spear and the Kharessa young. The Order of the Waters trains the engineer-priestesses, and a boy learns his trade at the bench of the man his mistress sets him under. A beautiful and gifted son may be put forward for the Spadai.
 
 Defense is the Spear-Sisterhood and the Spadai, the fleet and the household guard of a Dómissa. The Houses raise the levy the Council of Houses votes, and no man bears arms for the realm unless he has been unmade for it.
 

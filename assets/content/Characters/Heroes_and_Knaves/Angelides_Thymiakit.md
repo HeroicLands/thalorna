@@ -1,6 +1,6 @@
 ---
 shortcode: angldsthymkt
-name: {full: Fodios Thimiakit, given: Fodios, clan: Thimiakit, aliases: []}
+name: {full: Fodios Timiakit, given: Fodios, clan: Timiakit, aliases: []}
 type: being
 subType: character
 tags: [heroes-and-knaves, guilded, tradesfolk]
@@ -415,7 +415,7 @@ sohl:
 
 # Appearance {#appearance}
 
-![[angldsthymkt|Fodios Thimiakit]]{float=top-left}
+![[angldsthymkt|Fodios Timiakit]]{float=top-left}
 
 Fodios stands 6'3" tall with a heavy build. He has tanned weathered skin, black hair, and green eyes. His features include a long face, a hawkish nose, a pronounced chin, well-defined lips, and prominent brows. He has a scar on his neck.
 
@@ -425,7 +425,7 @@ Fodios stands 6'3" tall with a heavy build. He has tanned weathered skin, black 
 
 ### Early Years and Tragedy
 
-Born to a merchant family in the [[affiliation-byzarianlg|Bizarian League]], Fodios was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady [[being-sefadethymia|Sefade Thimiakit]]**—a marriage that was to unite two powerful merchant families.
+Born to a merchant family in the [[affiliation-byzarianlg|Bizarian League]], Fodios was raised with every advantage—education, connections, and exposure to the finer pleasures of the great cities of the north. His childhood was spent in the marketplace stalls of his family's perfume house, where he learned to distinguish thousands of scents, to understand the poetry of olfaction, and to recognize how fragrance shapes emotion and memory. At seventeen, he was betrothed to a young woman of equal standing, **Lady [[being-sefadethymia|Sefade Timiakit]]**—a marriage that was to unite two powerful merchant families.
 
 On the night of their wedding, tragedy struck. A rival merchant house, jealous of his family's dominance in the lucrative perfume trade, orchestrated an attack. Fodios survived only by chance—his would-be assassin's blade struck his neck rather than his heart. His betrothed was not so fortunate. Sefade died in his arms, whispering words of forgiveness rather than recrimination, even as her blood stained the silken wedding garments they both wore.
 

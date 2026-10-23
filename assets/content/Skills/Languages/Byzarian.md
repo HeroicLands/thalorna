@@ -9,6 +9,7 @@ data:
   core: true
   family: skill-helonclng
   abbreviation: Byz.
+  writtenIn: {map: helonika-bizarian, font: helonika-book}
   fields:
     - name: "Thought, measure and the schools"
       holds: "What the academies argue about: wisdom, measure, proportion, proof, the first principle and the ordering of the world."
@@ -299,7 +300,7 @@ data:
         - "Zosiráz"
         - "Brorazur"
     house:
-      - "Chrisakit"
+      - "Krisakit"
       - "Argirakit"
       - "Kalkakit"
       - "Keramakit"
@@ -309,14 +310,14 @@ data:
       - "Linakit"
       - "Eriakit"
       - "Zilakit"
-      - "Thimiakit"
+      - "Timiakit"
       - "Margarakit"
       - "Olkadakit"
       - "Zigakit"
       - "Nomismakit"
       - "Pirgikot"
       - "Gefirikot"
-      - "Thalassikot"
+      - "Talassikot"
       - "Pedinikot"
       - "Aktikot"
       - "Stenikot"
@@ -394,7 +395,7 @@ Bizarian sets Helonic grammar on an eastern vocabulary. Its sound is the crossro
 
 **Endings.** Bizarian words end in _-ar_, _-ur_, _-el_, _-in_, _-ash_ or _-ena_. Names take _-ikos_ or _-ion_ from Helonic.
 
-**What Bizarian leaves out.** It has no _tch_ (written _ch_), no run of four consonants, and no _kh_ at the start of a word.
+**What Bizarian leaves out.** Its _ch_ is the _church_ sound, never written _tch_. It has no run of four consonants, and no _kh_ at the start of a word.
 
 ## Phonology
 
@@ -452,7 +453,7 @@ Bizarian employs primarily **word-stress accent** rather than pitch accent. The 
 
 Characteristic patterns:
 
-_Chrisandáhr_ (CHRY-san-DAHR)
+_Krisandáhr_ (kri-san-DAHR)
 : stress on the final syllable (eastern influence)
 
 _Plamogiza_ (pla-mo-GEE-za)
@@ -488,8 +489,8 @@ Loanword integration
 
 These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Core Vocabulary), showing Bizarian simplification.
 
-Ath pólitar ésharike yn Bizarion
-: "The city is in Bizaria" (_pólitar_ fem., _ésharin_ + the place particle _-ke_, _yn_ "in")
+Ath pólitar ésharike in Bizarion
+: "The city is in Bizaria" (_pólitar_ fem., _ésharin_ + the place particle _-ke_, _in_ "in")
 
 Ash émfarin parádarin krémashin
 : "The merchant delivers goods" (_émfarin_ "merchant", _parádarin_ "delivers", _krémashin_ "goods")
@@ -507,9 +508,9 @@ Helonic base
 Bizarian additions for eastern sounds
 : Additional letters for zh, kh variants, and diacritics for vowel length
 
-In practical written contexts, Bizarian employs **diacritical marks** above vowels to indicate length and stress, though formal writing sometimes omits them. Commercial documents developed their own abbreviated script for speed—a "cursive Bizarian" that is rapid to write but often incomprehensible to the untrained.
+In practical written contexts, Bizarian employs **diacritical marks** above vowels to indicate length and stress, though formal writing sometimes omits them. A merchant house keeps its local books in an abbreviated hand of the Helónika, a "cursive Bizarian" that is rapid to write but often incomprehensible to the untrained. The League's international books are kept in the [[skill-semrnscrpt|Semaron]].
 
-**Literacy:** True Bizarian literacy is rare outside the nobility, the clergy, and the professional scribe class. Perhaps 30-50% of the Bizarian nobility can read, and most noble households retain a scribe or secretary for daily correspondence. Merchant guildsmen often possess functional literacy—enough to recognize common trade marks, numerals, and their own sigil—but rely on hired scribes and solicitors for contracts, ledgers, and legal documents. The presence of scribe-houses in major cities ([Soridion]{.name data-type="place/settlement"}, [Khalumion]{.name data-type="place/settlement"}) has standardized written Bizarian, though most citizens encounter the written word only through public criers and posted proclamations read aloud. Among educated Bizarians who can read, facility in both Bizarian and Helonic is expected; Helonic remains the prestige language for formal documents, poetry and drama.
+**Literacy:** True Bizarian literacy is rare outside the nobility, the clergy, and the professional scribe class. Perhaps 30-50% of the Bizarian nobility can read, and most noble households retain a scribe or secretary for daily correspondence. Merchant guildsmen often possess functional literacy—enough to recognize common trade marks, numerals, and their own sigil—but rely on hired scribes and solicitors for contracts, ledgers, and legal documents. The presence of scribe-houses in major cities ([Soridion]{.name data-type="place/settlement"}, [Kalumion]{.name data-type="place/settlement"}) has standardized written Bizarian, though most citizens encounter the written word only through public criers and posted proclamations read aloud. Among educated Bizarians who can read, facility in both Bizarian and Helonic is expected; Helonic remains the prestige language for formal documents, poetry and drama.
 
 ## Historical Development
 
@@ -594,13 +595,13 @@ Eastern-influenced names
 Hybrid Bizarian names
 : Invented forms that synthesize Helonic and eastern elements, creating uniquely Bizarian identities, and the mark of Bizarian identity proper. A man's hybrid ending is `-áhr`, `-ash`, `-azur`, `-kar`, `-áz`, `-marzan`, `-in` or `-azul`; a woman's is `-íza`, `-éze`, `-ara`, `-éhran`, `-ánaz`, `-áze`, `-iásh`, `-ázira`, `-áhre` or `-ade`.
 
-Stress is read off the spelling: the acute carries it, and a name without one takes the penultimate. _Sturash_ is STU-rash, _Chrisandáhr_ is chry-san-DAHR, _Rabekara_ is ra-be-KAH-ra.
+Stress is read off the spelling: the acute carries it, and a name without one takes the penultimate. _Sturash_ is STU-rash, _Krisandáhr_ is kri-san-DAHR, _Rabekara_ is ra-be-KAH-ra.
 
 ### House Names
 
 A house name states what the house is answerable for, and the suffix says on what footing it holds the name:
 
-- **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _chrys-_ "gold" gives **Chrisakit**, _porfyr-_ the purple dye gives **Porfirakit**, _nomism-_ "coin" gives **Nomismakit**.
+- **`-ákit`**, hardened from the Helonic `-akis`—**the house of a trade**. _kris-_ "gold" gives **Krisakit**, _porfyr-_ the purple dye gives **Porfirakit**, _nomism-_ "coin" gives **Nomismakit**.
 - **`-íkot`**, hardened from `-ikos`—**the house of a place**. _limen-_ "harbor" gives **Limenikot**, _gefyr-_ "bridge" gives **Gefirikot**, _ampel-_ "vineyard" gives **Ampelikot**.
 - **`-ídek`**, hardened from the mixed `-ides`—**the house of a forebear**. _Mud-_ gives **Mudidek**, _Plav-_ gives **Plavidek**.
 - **`-zát`**, hardened from the eastern `-zatvel` "born of"—**the house of an eastern founder**, claimed by a line that reckons itself from an eastern marriage or an eastern ancestor. _zhevran_ "gem" gives **Zhevranzát**, _karvash_ "caravan" gives **Karvashzát**.
@@ -609,7 +610,7 @@ A house name descends in the male line and does not change. A merchant whose con
 
 A few houses are instead known by a **founder's own name, worn whole**. These close on a continuant like any personal name, so the ending does not tell them from a given name and only position does—the second name in a pair is the house. The assessors disapprove and the houses that do it are proud of that, which is the whole of the quarrel.
 
-The tradition of **patronymic and matronymic suffixes** is used formally: "Sturash son-of-Ghudash." Trade names are common—merchants may have a formal legal name and a shorter trade name used in the bazaar. A merchant named _Chrisandáhr Nomismakit_ might be known simply as _Chrisha_ among business associates.
+The tradition of **patronymic and matronymic suffixes** is used formally: "Sturash son-of-Ghudash." Trade names are common—merchants may have a formal legal name and a shorter trade name used in the bazaar. A merchant named _Krisandáhr Nomismakit_ might be known simply as _Krisha_ among business associates.
 
 The suffix system reflects layers of history:
 
@@ -667,7 +668,7 @@ The suffix system reflects layers of history:
 
 #### Distinctly Bizarian (hybrid forms)
 
-- Chrisandáhr
+- Krisandáhr
 - Krozerazur
 - Fruzukáz
 - Zavukáhr
@@ -828,7 +829,7 @@ The suffix system reflects layers of history:
 
 #### Houses of the trade
 
-- Chrisakit
+- Krisakit
 - Argirakit
 - Siderakit
 - Kalkakit
@@ -847,7 +848,7 @@ The suffix system reflects layers of history:
 - Skitakit
 - Zilakit
 - Pissakit
-- Thimiakit
+- Timiakit
 - Farmakakit
 - Margarakit
 - Lithakit
@@ -864,7 +865,7 @@ The suffix system reflects layers of history:
 - Teikhikot
 - Gefirikot
 - Potamikot
-- Thalassikot
+- Talassikot
 - Oreinikot
 - Pedinikot
 - Nesikot

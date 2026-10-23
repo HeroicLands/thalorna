@@ -1,6 +1,6 @@
 ---
 shortcode: belzurelachr
-name: {full: Belzurela Chrisakit, aliases: [Governor Belzurela Chrisakit]}
+name: {full: Belzurela Krisakit, aliases: [Governor Belzurela Krisakit]}
 type: being
 subType: npc
 description: The current governor of Bizaris, who values Sakozes Bulides's knowledge of ceremonial matters.
@@ -32,8 +32,8 @@ data:
 
 # Appearance {#appearance}
 
-Belzurela Chrisakit is a 52-year-old woman who stands 5'5" tall with a heavy build. She has tanned skin, sun-kissed complexion, brown hair, and hazel eyes.
+Belzurela Krisakit is a 52-year-old woman who stands 5'5" tall with a heavy build. She has tanned skin, sun-kissed complexion, brown hair, and hazel eyes.
 
 # Dossier {#dossier}
 
-Belzurela Chrisakit is the current governor of [[place-byzaris|Bizaris]]. The governor values the knowledge of ceremonial matters held by [[being-flndrsbldds|Sakozes Bulides]] and relies on his judgment about proper form and precedent in official functions.
+Belzurela Krisakit is the current governor of [[place-byzaris|Bizaris]]. The governor values the knowledge of ceremonial matters held by [[being-flndrsbldds|Sakozes Bulides]] and relies on his judgment about proper form and precedent in official functions.

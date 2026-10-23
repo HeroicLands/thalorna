@@ -86,7 +86,7 @@ Standing follows the register, as in every League city. The freeman is enrolled,
 
 ## Relations
 
-Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea, and Nesthiros's galleys are what the League sets against Taruzelian competition. [[place-chrysamar|Chrisamar]], a coastal port that rivals Nesthiros's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law inside the city, and Nesthiros is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
+Nesthiros and Taruzelian merchantmen share the same docks and the same sea. [[affiliation-cnfdrtntrzlnstts|Taruzel]] is the League's great rival at sea, and Nesthiros's galleys are what the League sets against Taruzelian competition. [[place-chrysamar|Krisamar]], a coastal port that rivals Nesthiros's trade, is the closer quarrel: commercial rivalry, occasional skirmishes between merchant fleets, and careful posturing at the League's councils. A Dunhari and a Khazryni merchant quarter keep their own tongues, faiths and law inside the city, and Nesthiros is aligned with the [[affiliation-arldnpnthn|Aureldian Pantheon]].
 
 ## Commerce and Currency
 
@@ -103,7 +103,7 @@ Nesthiros uses the [[lore-vylrncrncy|Vylarian currency]] (Solden / Ardin / Ogdel
 [[place-nesthiros2|Nesthiros]]
 : the city on its fortress isle
 
-[[place-chrysamar|Chrisamar]]
+[[place-chrysamar|Krisamar]]
 : the rival port
 
 [[affiliation-khryshteikhos|Krusteikhos]], [[affiliation-karvashion|Karvashion]], [[affiliation-argyrteikhos|Argirteikhos]], [[affiliation-orashion|Órashion]]

@@ -430,7 +430,7 @@ Trufios stands 6'0" tall with a heavy build. He has weathered tanned skin, dark 
 
 **The Shipwright's Apprenticeship**
 
-Born in the maritime city of [[place-chrysamar|Chrisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the [[place-byzariargn|Bizarian coast]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
+Born in the maritime city of [[place-chrysamar|Krisamar]] to a family of modest means, Trufios showed early aptitude for mathematics and spatial reasoning. At age nine, his father apprenticed him to Master Shipwright [Sangázion the Old]{.name data-type="being/npc"}, the most celebrated shipbuilder of the [[place-byzariargn|Bizarian coast]]. For twelve years, Trufios absorbed everything—understanding timber grain and seasoning, learning to calculate displacement and hull stress, mastering the geometry of sails and balance. Sangázion recognized rare talent and pushed the boy relentlessly, holding him to impossibly high standards.
 
 **Rising Through the Guild Ranks**
 
@@ -438,7 +438,7 @@ By age twenty-one, Trufios completed his journeyman's examination and began supe
 
 **Master and Commander**
 
-At age thirty-five, Trufios achieved the rank of Master Shipwright and opened his own yard in Chrisamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the [Bizarian Fleet]{.name data-type="affiliation"}, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
+At age thirty-five, Trufios achieved the rank of Master Shipwright and opened his own yard in Krisamar, employing up to thirty craftspeople during busy seasons. His warship designs have been adopted by the [Bizarian Fleet]{.name data-type="affiliation"}, and his merchant vessels are prized for their speed and durability. His work has grown ever more refined—each vessel is a marvel of engineering, drawing on mathematics, a deep knowledge of timber and iron, and accumulated practical wisdom. Yet his success has not mellowed him; if anything, age has sharpened his perfectionism and his intolerance for anything less than excellence.
 
 ## Psyche
 

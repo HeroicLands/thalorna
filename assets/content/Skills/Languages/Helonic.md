@@ -8,6 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Hel.
+  writtenIn: {map: helonika, font: helonika-book}
   fields:
     - name: "Thought, measure and the schools"
       holds: "What the academies argue about: wisdom, measure, proportion, proof, the first principle and the ordering of the world."
@@ -941,7 +942,7 @@ data:
         - "Azidás"
         - "Bákion"
         - "Barekiós"
-        - "Chankhor"
+        - "Khankhor"
         - "Dámasun"
         - "Dókhares"
         - "Dómelis"
@@ -1000,8 +1001,8 @@ data:
       - "Basiris"
       - "Basiros"
       - "Bisanis"
-      - "Chaddaris"
-      - "Chaddul"
+      - "Khaddaris"
+      - "Khaddul"
       - "Damines"
       - "Fadiros"
       - "Farikos"
@@ -1247,7 +1248,7 @@ data:
     - {name: Baron Lopebáz Halikot, tongue: translation}
     - {name: Bazebos, tongue: byzarian}
     - {name: Bazia, tongue: byzarian}
-    - {name: Belzurela Chrisakit, tongue: byzarian}
+    - {name: Belzurela Krisakit, tongue: byzarian}
     - {name: Belzurion Vughash, tongue: byzarian}
     - {name: Bethua Adventurer's Guide, tongue: translation}
     - {name: Bethua Region, tongue: translation}
@@ -1277,7 +1278,7 @@ data:
     - {name: Captain Drelia Petrikot, tongue: translation}
     - {name: Captain Kekhasin, tongue: translation}
     - {name: Captain Kekhasin Rekhazur, tongue: translation}
-    - {name: Captain Kemiásh Thalassikot, tongue: translation}
+    - {name: Captain Kemiásh Talassikot, tongue: translation}
     - {name: Captain Krozerazur Pazhurzát, tongue: translation}
     - {name: Captain Krusidade Plavidek, tongue: translation}
     - {name: Captain Máravion Sarinos, tongue: translation}
@@ -1286,9 +1287,9 @@ data:
     - {name: Captain Zhambelikos Kitvarzát, tongue: translation}
     - {name: Captain-General Ruzhvelana Korikot, tongue: translation}
     - {name: Cartographer Fruzukáz Selvazhazát, tongue: translation}
-    - {name: Chankhor Gharithos, tongue: helonic}
-    - {name: Chánnaon Habiles, tongue: helonic}
-    - {name: Chrisamar, tongue: byzarian}
+    - {name: Khankhor Gharithos, tongue: helonic}
+    - {name: Khánnaon Habiles, tongue: helonic}
+    - {name: Krisamar, tongue: byzarian}
     - {name: City-State of Kostaros, tongue: translation}
     - {name: City-States of Helionis, tongue: translation}
     - {name: Commander Dalveshikos Brirorash, tongue: translation}
@@ -1318,7 +1319,7 @@ data:
     - {name: Elspeth Rowen, tongue: translation}
     - {name: Epistémion, tongue: helonic, built: [epistém-, -ion]}
     - {name: Érkhiros Ghanides, tongue: helonic, built: [érkh-, -ir, -os, ghan-, -ides]}
-    - {name: Euthalash, tongue: byzarian, built: [euthál-, -ash]}
+    - {name: Eutalash, tongue: byzarian, built: [euthál-, -ash]}
     - {name: Father Trokhazul Petrikot, tongue: translation}
     - {name: Fefes, tongue: byzarian}
     - {name: Fibakon, tongue: byzarian}
@@ -1327,7 +1328,7 @@ data:
     - {name: Frolázira Fabidek, tongue: byzarian}
     - {name: Fruzukáz Selvazhazát, tongue: byzarian}
     - {name: Fileze, tongue: byzarian, built: [fil-, -éze]}
-    - {name: Gáberos Chaddaris, tongue: helonic}
+    - {name: Gáberos Khaddaris, tongue: helonic}
     - {name: Gavios, tongue: byzarian}
     - {name: Gharidos Murades, tongue: helonic}
     - {name: Ghéranira Rafiros, tongue: helonic, built: [ghéran-, -ira, rafir-, -os]}
@@ -1342,7 +1343,7 @@ data:
     - {name: Ginehran Krizusidek, tongue: byzarian}
     - {name: Govabes, tongue: byzarian}
     - {name: Government of Bethua, tongue: translation}
-    - {name: Governor Belzurela Chrisakit, tongue: translation}
+    - {name: Governor Belzurela Krisakit, tongue: translation}
     - {name: Guild Master Frolázira, tongue: translation}
     - {name: Guild Master Frolázira Fabidek, tongue: translation}
     - {name: Guild Master Vokhiásh Loridek, tongue: translation}
@@ -1384,7 +1385,7 @@ data:
     - {name: Karvashikos Margarakit, tongue: byzarian}
     - {name: Karvashion, tongue: byzarian, built: [karvash, -ion]}
     - {name: Kekhasin Rekhazur, tongue: byzarian}
-    - {name: Kemiásh Thalassikot, tongue: byzarian}
+    - {name: Kemiásh Talassikot, tongue: byzarian}
     - {name: Kepikot, tongue: byzarian, built: [kep-, -íkot]}
     - {name: Kezhvalikos Bolalidek, tongue: byzarian}
     - {name: Kezvunena Nomismakit, tongue: byzarian}
@@ -1406,7 +1407,7 @@ data:
     - {name: Krusidade Plavidek, tongue: byzarian}
     - {name: Zemor Hodhis, tongue: helonic, built: [zemor, hodhis]}
     - {name: Zemor Hodhis Incantations, tongue: translation}
-    - {name: Kumethara, tongue: byzarian, built: [kumeth-, -ara]}
+    - {name: Kumetara, tongue: byzarian, built: [kumeth-, -ara]}
     - {name: Kumetin Arkhidin, tongue: byzarian, built: [kumet-, -in, arkhidin]}
     - {name: Lady Ambarena Linakit, tongue: translation}
     - {name: Lady Ghodia Elaiakit, tongue: translation}
@@ -1416,7 +1417,7 @@ data:
     - {name: Lady Merchant Bruzanaz Ghigidek, tongue: translation}
     - {name: Lady Merchant Mazhrelena Olkadakit, tongue: translation}
     - {name: Lady Nimaris, tongue: translation}
-    - {name: Lady Sefade Thimiakit, tongue: translation}
+    - {name: Lady Sefade Timiakit, tongue: translation}
     - {name: Lady Charzilina Zigakit, tongue: translation}
     - {name: Lady Tulvazea, tongue: translation}
     - {name: Lady Tulvazea Melitakit, tongue: translation}
@@ -1452,8 +1453,8 @@ data:
     - {name: Mazitos Rekhazur, tongue: byzarian}
     - {name: Mercenary Lord Ruzhvelis, tongue: translation}
     - {name: Mercenary Lord Ruzhvelis Sapipidek, tongue: translation}
-    - {name: Merchant Captain Kemiásh Thalassikot, tongue: translation}
-    - {name: Merchant Consortia of Chrisamar, tongue: translation}
+    - {name: Merchant Captain Kemiásh Talassikot, tongue: translation}
+    - {name: Merchant Consortia of Krisamar, tongue: translation}
     - {name: Merchant Lord Dókhares Fadiros, tongue: translation}
     - {name: Merchant-Lord Kezhvalikos Bolalidek, tongue: translation}
     - {name: Merchant-Lord Pazhurikos Plekolidek, tongue: translation}
@@ -1492,7 +1493,7 @@ data:
     - {name: Pédhinion, tongue: bethuan, built: [pédh-, -in, -ion]}
     - {name: Pelagora, tongue: helonic}
     - {name: Pissakit, tongue: byzarian, built: [piss-, -ákit]}
-    - {name: Planthash, tongue: byzarian, built: [plánth-, -ash]}
+    - {name: Plantash, tongue: byzarian, built: [plánth-, -ash]}
     - {name: Plasáhr Olkadakit, tongue: byzarian}
     - {name: Porfirakit, tongue: byzarian, built: [porfyr-, -ákit]}
     - {name: Holmarendos Kezoton Trosuskar, tongue: translation}
@@ -1520,7 +1521,7 @@ data:
     - {name: Sakozes, tongue: byzarian}
     - {name: Samarina, tongue: byzarian, built: [samar-, -ína]}
     - {name: Sedikon, tongue: byzarian}
-    - {name: Sefade Thimiakit, tongue: byzarian}
+    - {name: Sefade Timiakit, tongue: byzarian}
     - {name: Sehela, tongue: bethuan}
     - {name: Selímara, tongue: byzarian}
     - {name: Selvazhikon Zigakit, tongue: byzarian}
@@ -1646,7 +1647,7 @@ data:
     - {name: Theradon, tongue: helonic}
     - {name: Thérores Safithos, tongue: helonic}
     - {name: Thessalon, tongue: byzarian}
-    - {name: Thimiakit, tongue: byzarian}
+    - {name: Timiakit, tongue: byzarian}
     - {name: Thirenae, tongue: helonic}
     - {name: Tredis, tongue: byzarian}
     - {name: Trianthion, tongue: byzarian}
@@ -1722,9 +1723,9 @@ data:
     - {form: Denizaran, instead: Nesthirian, why: the demonym of a retired name}
     - {form: Nékropolis, instead: Nikhtion, why: an Earth word}
     - {form: Temnos, instead: Soridion, why: an Earth place name}
-    - {form: Kephala, instead: Khalumion, why: an Earth place name}
+    - {form: Kephala, instead: Kalumion, why: an Earth place name}
     - {form: Vasilis, instead: Mazitos, why: an Earth personal name}
-    - {form: Akákios, instead: Planthash, why: an Earth personal name}
+    - {form: Akákios, instead: Plantash, why: an Earth personal name}
     - {form: Arkádios, instead: Lofáhr, why: an Earth personal name}
     - {form: Athênagoras, instead: Árshazur, why: an Earth personal name}
     - {form: Isidôra, instead: Agélara, why: an Earth personal name}
@@ -1738,14 +1739,14 @@ data:
     - {form: Lysándros, instead: Morzáhr, why: an Earth personal name}
     - {form: Philína, instead: Kreneze, why: an Earth personal name}
     - {form: Thêkla, instead: Fileze, why: an Earth personal name}
-    - {form: Thêsaloníke, instead: Kumethara, why: an Earth personal and place name}
+    - {form: Thêsaloníke, instead: Kumetara, why: an Earth personal and place name}
     - {form: Timothéon, instead: Órashkar, why: an Earth personal name}
     - {form: Thêbas, instead: Érkhiros, why: an Earth place name}
     - {form: Thêrèssa, instead: Nevarina, why: an Earth personal name}
     - {form: Isâra, instead: Théldina, why: an Earth word}
     - {form: Malkhet, instead: Pédhinion, why: an Earth word}
     - {form: Marut, instead: Zighiros, why: an Earth name}
-    - {form: Shadiq, instead: Euthalash, why: an Earth word}
+    - {form: Shadiq, instead: Eutalash, why: an Earth word}
     - {form: Zahira, instead: Lámbira, why: an Earth name; Zahira Tabires is Ánevira Tabires}
     - {form: Yâsûra, instead: Argirira, why: an Earth name}
     - {form: Rashìdós, instead: Lofiros, why: an Earth name}
@@ -1998,7 +1999,7 @@ Helonic is characterized by its flowing, musical quality—a language that rewar
 
 Helonic is the tongue of drama and argument. It is clear-voweled and fond of breathed consonants.
 
-**The vowels.** _a_, _e_, _i_ and _o_, and the pairs _ai_, _ei_ and _eu_.
+**The vowels.** _a_, _e_, _i_, _o_ and _u_, and the pairs _ai_ and _ei_. Long _e_ and long _o_ are letters of their own in the Helónika, written _ei_ and _ou_ on these pages.
 
 **The consonants.** _th_, _kh_ and _rh_ are its mark, beside _s_, _n_, _m_, _r_, _l_, _k_, _p_ and _f_. _gh_ stands inside a word.
 
@@ -2029,7 +2030,7 @@ o
 u
 : short, as in "put"; long, as in "boot"
 
-The language is naturally rich in diphthongs, particularly -ia, -io, -ea, and -eo combinations, which create fluent transitions between phonemes. The vowel inventory is one reason Helonic achieves its melodic quality.
+The vowel inventory is one reason Helonic achieves its melodic quality.
 
 ### Consonant System
 
@@ -2039,16 +2040,18 @@ Stops
 : p, b, t, d, k, g
 
 Fricatives
-: f, th (as in "thin"), s, kh (a rasp at the back of the throat, as when clearing it), gh (that same rasp voiced, softer than "g")
+: f, v, s, z, h, th (as in "thin")
 
-Nasals
-: m, n
+Breathed pairs
+: kh (a rasp at the back of the throat), gh (that rasp voiced), dh (as in "this"), rh
 
-Liquids
-: r, l
+Others
+: j (as in "judge"), m, n, r, l
 
-Semivowels
+Glides
 : y (as in "yes"), w
+
+The Helónika has a letter for _th_ and writes _kh_, _gh_, _dh_ and _rh_ as the plain letter and _h_; the glides are written with _i_ and _u_.
 
 The fricative system is distinctive: theta (th) and kh are particularly marked, appearing primarily in educated or formal speech. The voiced throaty rasp written **gh** is unique to Helonic among western languages—a guttural sound that is distinctly non-trivial to produce correctly.
 
@@ -2087,7 +2090,7 @@ Gender system
 : Three genders (masculine, feminine, neuter) marked throughout nouns, adjectives, and determiners
 
 Articles
-: Definite article _as/âs/ath_ (the); indefinite article _fom_ (a/an)
+: Definite article _as_ (masculine and feminine) and _ath_ (neuter); indefinite article _fom_ (a/an)
 
 Participial constructions
 : Helonic is famous for its flexible use of participles, allowing compact and elegant subordinate clauses
@@ -2200,7 +2203,7 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 
 ### Derivation in Daughter Languages
 
-Bizarian contracts _ash/ath_ to enclitics, and eastern particles (_zhe, vezh, chazh_) supplement the inherited system. Bethuan keeps _ash/âsh/ath_ whole in the feminine register, and in the masculine register they may contract to _'s/'th_.
+Bizarian contracts _ash/ath_ to enclitics, and eastern particles (_zhe, vezh, chazh_) supplement the inherited system. Bethuan's feminine register keeps its own full article, _asho_, _ashe_ and _athoth_, which the masculine register contracts to _-s_ and _-t_.
 
 ## Sample Phrases
 
@@ -2266,8 +2269,8 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Bákion
 - Barekiós
 - Bulelon
-- Chankhor
-- Chánnaon
+- Khankhor
+- Khánnaon
 - Dámasun
 - Dókhares
 - Dókhiron
@@ -2463,8 +2466,8 @@ Given names are typically paired with clan names (derived from family ancestry),
 - Basiros
 - Bisanis
 - Bisarion
-- Chaddaris
-- Chaddul
+- Khaddaris
+- Khaddul
 - Damines
 - Damines
 - Dorasos
@@ -2558,7 +2561,7 @@ This is the word-hoard of the three: every stem the family is known to share, wh
 The three tongues sound nothing alike, which is the first thing a traveler notices and the last thing a grammarian admits:
 
 - **Helonic** is musical and long-voweled. Every vowel comes short or long, and the rasp _kh_ and its voiced partner _gh_ are the sounds the rest of the west cannot make. Stress falls on the second-last syllable unless an acute says otherwise. _Sothira_, _kosamir_, _Kalidrás_.
-- **Bizarian** is clipped and percussive. The stops at the ends of its words are let go with a crack, which is why every house name closes on one, and _th_ and _dh_ have flattened to _t_ and _d_. It has a buzzing _z_ and _zh_ the others lack, and in the bazaar it swallows the end of a verb whole: _esh_ for _ésharin_. _Chrisandáhr_, _Siderakit_, _Ghaleniza_.
+- **Bizarian** is clipped and percussive. The stops at the ends of its words are let go with a crack, which is why every house name closes on one, and _th_ and _dh_ have flattened to _t_ and _d_. It has a buzzing _z_ and _zh_ the others lack, and in the bazaar it swallows the end of a verb whole: _esh_ for _ésharin_. _Krisandáhr_, _Siderakit_, _Ghaleniza_.
 - **Bethuan** is slow and gliding. Vowels are held and run into one another, and a word that closes on _-os_ in Helonic closes on a long _-os_ here. The feminine register pronounces every _th_ and every ending; the masculine register drops the article to a breath, _'s_. _Sotira_, _fótamir_, _Hiérissa_.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
@@ -2578,7 +2581,7 @@ ORDER BY position
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-Two vowels standing together are both said: _-ia_, _-io_, _-ea_, _-eo_ glide, and _-ai_, _-ei_, _-oi_, _-au_, _-ou_, _-eu_ are the diphthongs of the inherited stock. Bethuan runs them longest, Bizarian flattens _-ai_, _-ei_ and _-oi_ to plain _e_, _i_ and _u_ in rapid speech.
+Two vowels standing together are said apart, each on its own (_e-u-tha-lir_, _Ka-li-dri-a_), except _ai_, _ei_, _oi_, _au_ and _ou_, the pairs of the guide. In rapid speech Bizarian flattens _ai_, _ei_ and _oi_ to plain _e_, _i_ and _u_.
 
 ### Word edges
 
@@ -2604,7 +2607,7 @@ Three moves make every built word on this page, and a new word made the same way
 
 **An ending on a stem.** The inherited stock keeps its stems bound and gives each a family of endings: _soth-_ "wise" takes _-ira_ and gives _sothira_, wisdom, takes _-arin_ and gives _sotharin_, to hold together, takes _-ir_ and gives _sothir_, a wise one. A stem is listed in its field with the class `stem`, and the words built on it stand beside it.
 
-**Two words set together.** The first describes the second, and where a vowel meets a vowel the joining table decides what is written: _khris-_ "gold" and _andáhr_ "lord" give _Chrisandáhr_, the gold-lord, a Bizarian man's name. Bizarian compounds freely; Helonic compounds only in poetry and in names.
+**Two words set together.** The first describes the second, and where a vowel meets a vowel the joining table decides what is written: _khris-_ "gold" and _andáhr_ "lord" give _Krisandáhr_, the gold-lord, a Bizarian man's name. Bizarian compounds freely; Helonic compounds only in poetry and in names.
 
 **A name-ending on a root.** A person's name is a root with an ending the tongue reserves for names, and the daughters differ most here: the same root _Méril-_ is _Mérilos_ in a Helonic school roll, _Mérilash_ on a Bizarian contract and _Mérilia_ in a Bethuan temple register. The endings stand under Making names.
 
@@ -2649,7 +2652,7 @@ Bizarian lost the breathed consonants of the schools and kept the rasps: _th_ an
 
 ### Bethuan
 
-Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a word that closes on _-os_ holds the vowel long, so a Helonic man's name in _-os_ is heard on the island as _-os_ and, in a formal register, is recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_. Three more habits are spoken and never written, so they stand in no table: _k_ and _g_ soften toward _ky_ and _gy_ before a front vowel, a short vowel lengthens before a cluster (_Jádharos_ is said _Jadharos_), and a dental _s_ is sometimes heard as _th_ (_Dókhiron_ as _Thabiron_).
+Bethuan kept every breathed sound, which is why a hymn in the feminine register is thick with _th_; it took the eastern _f_ as Bizarian did; a doubled _s_ fell together; and a word that closes on _-os_ holds the vowel long, so a Helonic man's name in _-os_ is heard on the island with the _o_ held long and, in a formal register, is recast on a woman's ending. The doubled _s_ is why _Wissaros_ is written _Wisaros_ in a Bethuan hand, and a temple roll recasts the name on a woman's ending as _Wisaria_. Three more habits are spoken and never written, so they stand in no table: _k_ and _g_ soften toward _ky_ and _gy_ before a front vowel, a short vowel lengthens before a cluster (_Jádharos_ is said _Jadharos_), and a dental _s_ is sometimes heard as _th_ (_Sotharion_ as _Thotharion_).
 
 ## Words {#words}
 
@@ -2749,9 +2752,9 @@ The article is the family's badge: the schools say _as_, _as_ and _ath_ for the 
 
 **A Helonic person** carries a given name and a clan name, the given name first: [[being-damsnghlrn|Dámasun Gholaron]] is Dámasun of the clan Gholaron. A man's given name closes on _-os_, _-on_, _-es_ or _-is_; a woman's on _-a_, _-tha_, _-ra_ or _-ia_, and the women's names run longer and richer in vowels, which the Helonic peoples hold to be the graceful shape. A clan name is a root with _-os_, _-ides_, _-es_ or _-is_, and the root is most often an ancestor's name worn down: the clan Ghanides is the line of a Ghan nobody remembers. The names a Helionite child is given are chosen for how they will sound in the assembly, and a name is tested by saying it aloud across a room. Among friends a given name is cut to its first two syllables with the stress kept: _Dámasun_ is _Dama_ at home, and the register lists such a short form where a note gives one.
 
-**A Bizarian** carries a given name and a house name, and the tongue builds the two by different operations so that a clerk never has to ask which is which: a given name is a root with a personal ending and closes on a vowel or a continuant; a house name is a root with one of four house endings, _-ákit_ for the house of a trade, _-íkot_ for the house of a place, _-ídek_ for the house of a forebear and _-zát_ for the house of an eastern founder, and every one of them closes on a stop. [[being-chrysntssdrkt|Fibakon Siderakit]] is Fibakon of the iron-house. Three registers of given name are live at once: the old Helonic names in _-os_ and _-es_ among the merchant dynasties, eastern roots with a Helonic or Bizarian ending among families with eastern marriages, and the hybrid names that are Bizarian proper, a Helonic root with an ending no other tongue has. A merchant known formally as _Chrisandáhr Nomismakit_ is _Chrisha_ in the bazaar: the trade name keeps the first two syllables of the given name and nothing else.
+**A Bizarian** carries a given name and a house name, and the tongue builds the two by different operations so that a clerk never has to ask which is which: a given name is a root with a personal ending and closes on a vowel or a continuant; a house name is a root with one of four house endings, _-ákit_ for the house of a trade, _-íkot_ for the house of a place, _-ídek_ for the house of a forebear and _-zát_ for the house of an eastern founder, and every one of them closes on a stop. [[being-chrysntssdrkt|Fibakon Siderakit]] is Fibakon of the iron-house. Three registers of given name are live at once: the old Helonic names in _-os_ and _-es_ among the merchant dynasties, eastern roots with a Helonic or Bizarian ending among families with eastern marriages, and the hybrid names that are Bizarian proper, a Helonic root with an ending no other tongue has. A merchant known formally as _Krisandáhr Nomismakit_ is _Krisha_ in the bazaar: the trade name keeps the first two syllables of the given name and nothing else.
 
-**A Bethuan** is named in the register she lives in. The feminine register gives a woman's name in _-a_, _-ia_ or _-e_ and keeps every _th_; a priestess's name takes _-issa_, the office-ending that also makes the titles of the realm, and a high priestess alone takes _-e_. A man's name in the practical register is the Helonic one with the island's sounds, _-os_ held long as _-os_; in a formal document the same man is entered under his mother's house. [[being-juthrjmthn|Júthara Jamithon]] is Júthara of the house Jamithon. The short name a Bethuan answers to is the given name's first two syllables with the first vowel held long: _Júthara_ is _Jutha_ to her sisters.
+**A Bethuan** is named in the register she lives in. The feminine register gives a woman's name in _-a_, _-ia_ or _-e_ and keeps every _th_; a priestess's name takes _-issa_, the office-ending that also makes the titles of the realm, and a high priestess alone takes _-e_. A man's name in the practical register is the Helonic one with the island's sounds, _-os_ with the _o_ held long; in a formal document the same man is entered under his mother's house. [[being-juthrjmthn|Júthara Jamithon]] is Júthara of the house Jamithon. The short name a Bethuan answers to is the given name's first two syllables with the first vowel held long: _Júthara_ is _Jutha_ to her sisters.
 
 **A place** of the old stock is a root with _-on_, _-ea_, _-ia_ or _-os_: _Thirenae_, _Pelagora_, _Kalidria_. A Bizarian town takes the schools' spelling and is most often a compound whose first word describes the second, or a root with _-ion_, the place of it: _Krusteikhos_ is the gold wall, _Argirteikhos_ the silver one, _Karvashion_ the caravan-place. A Bethuan town is named in the feminine register, in _-a_: _Bethura_, _Oshira_, _Sehela_.
 

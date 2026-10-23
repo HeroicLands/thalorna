@@ -1,6 +1,6 @@
 ---
 shortcode: chnkhrghrths
-name: {full: Chankhor Gharithos, aliases: []}
+name: {full: Khankhor Gharithos, aliases: []}
 type: being
 subType: npc
 tags: [draft, common-folk]
@@ -393,13 +393,13 @@ sohl:
 
 # Appearance {#appearance}
 
-Chankhor Gharithos is a 38-year-old man who stands 6'3" tall and is broad and solidly built. He has a square face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. His bright gray eyes sit beneath prominent brows, lending him a lively gaze. An aquiline nose and firm lips complete his features. He has fair skin with a bronzed complexion. His black hair is falling in loose waves.
+Khankhor Gharithos is a 38-year-old man who stands 6'3" tall and is broad and solidly built. He has a square face with sharp cheekbones, a wide forehead, and a square jaw that leads to a strong chin. His bright gray eyes sit beneath prominent brows, lending him a lively gaze. An aquiline nose and firm lips complete his features. He has fair skin with a bronzed complexion. His black hair is falling in loose waves.
 
 # Dossier {#dossier}
 
-Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Chankhor Gharithos came into the world of the ostler through a combination of circumstance and aptitude.
+Born in the [[place-helionis|Helionis]] region to a freeman family of [[lore-helioniteclt|Helionite]] heritage, Khankhor Gharithos came into the world of the ostler through a combination of circumstance and aptitude.
 
-Chankhor is a seasoned ostler who has managed stables for many years. With a wealth of knowledge about different horse breeds and their care requirements, he is often called upon for his expertise. Chankhor takes pride in maintaining a well-organized stable and often trains younger ostlers in proper care techniques. His strong presence and experience make him a respected figure in the community.
+Khankhor is a seasoned ostler who has managed stables for many years. With a wealth of knowledge about different horse breeds and their care requirements, he is often called upon for his expertise. Khankhor takes pride in maintaining a well-organized stable and often trains younger ostlers in proper care techniques. His strong presence and experience make him a respected figure in the community.
 
 ## Psyche
 
@@ -409,7 +409,7 @@ Can be overly critical, struggles with modern techniques.
 
 ### Motivation
 
-Chankhor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ostler work keep him vigilant and adaptable.
+Khankhor is driven by the desire to master his craft and secure a stable future. The uncertainties of life in ostler work keep him vigilant and adaptable.
 
 ### Strengths
 
@@ -417,15 +417,15 @@ Highly knowledgeable about horses, strong leadership skills, good organizer.
 
 ## Social
 
-Chankhor is affiliated with none; he works independently for the inn.
+Khankhor is affiliated with none; he works independently for the inn.
 
-As a Helionite ostler, Chankhor occupies a recognized social niche within Helionis society.
+As a Helionite ostler, Khankhor occupies a recognized social niche within Helionis society.
 
 ## Companions
 
 ### Patrons
 
-Chankhor's primary patrons are local innkeepers and merchants needing horse care services. This relationship provides both opportunity and obligation.
+Khankhor's primary patrons are local innkeepers and merchants needing horse care services. This relationship provides both opportunity and obligation.
 
 ### Enemies
 
@@ -434,16 +434,16 @@ Few; generally respected but sometimes viewed as traditionalist.
 ## Plot Hooks
 
 The Ostler's Dilemma
-: Chankhor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
+: Khankhor faces a crisis that threatens his livelihood. A choice must be made between principle and survival, and the consequences will ripple through his community in Helionis.
 
 Old Grudges
 : Few; generally respected but sometimes viewed as traditionalist. This conflict threatens to escalate beyond personal rivalry into something far more dangerous.
 
 Echoes of the Past
-: Something from Chankhor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
+: Something from Khankhor's earlier life resurfaces unexpectedly, forcing him to confront unfinished business that he thought was long buried.
 
 Shifting Winds
-: Political changes in Helionis threaten to upend the social order that Chankhor depends upon. He must decide whether to adapt, resist, or flee.
+: Political changes in Helionis threaten to upend the social order that Khankhor depends upon. He must decide whether to adapt, resist, or flee.
 
 The Opportunity
-: A chance encounter offers Chankhor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.
+: A chance encounter offers Khankhor the possibility of advancement beyond anything he has dared hope for—but the price may be higher than it first appears.

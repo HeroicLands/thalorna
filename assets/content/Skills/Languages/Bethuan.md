@@ -9,6 +9,7 @@ data:
   core: true
   family: skill-helonclng
   abbreviation: Beth.
+  writtenIn: {map: helonika-bethuan, font: helonika-book}
   fields:
     - name: "Kin, the person and the body"
       holds: "The household, the mother and the house she rules, the person, the body and the names people are given."
@@ -86,10 +87,10 @@ data:
       class: art
       field: Grammar words
       gloss: "the, neuter, in the feminine register; plural _athoi_"
-    - form: "Charissa"
+    - form: "Kharessa"
       class: "n"
       field: "Kin, the person and the body"
-      gloss: "The Grace: the open-hand and kicking art of Bethuan women; a master is a Charissa"
+      gloss: "The Grace: the open-hand and kicking art of Bethuan women; a master is a Kharessa"
     - {form: "thius", class: "n", field: "The gods", gloss: "God"}
   sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
@@ -164,11 +165,11 @@ data:
         - "Aferion"
         - "Ághranes"
         - "Áridras"
-        - "Áshrukos"
+        - "Ásrukos"
         - "Azidás"
         - "Bákion"
         - "Barekiós"
-        - "Chankhor"
+        - "Khankhor"
         - "Dámasun"
         - "Dókhares"
         - "Dómelis"
@@ -227,8 +228,8 @@ data:
       - "Bashiris"
       - "Bashiros"
       - "Bishanis"
-      - "Chaddaris"
-      - "Chaddul"
+      - "Khaddaris"
+      - "Khaddul"
       - "Damines"
       - "Fadiros"
       - "Farikos"
@@ -313,7 +314,7 @@ Bethuan is the open, vowel-final daughter of Helonic, with a layer of desert wor
 
 **The vowels.** _a_, _i_ and _o_ lead, and _ia_ and _io_ close many words.
 
-**The consonants.** _r_, _s_, _n_, _m_, _j_, _b_ and _d_, and from the desert layer _kh_ and _gh_. Some nouns take the article _al-_.
+**The consonants.** _r_, _s_, _n_, _m_, _j_, _b_ and _d_, and from the desert layer _kh_ and _gh_. Some Khelathi loans keep the Khelathi article on the front, _en-_ or _et-_.
 
 **Clusters.** _sh_, _ndr_ and _rth_ meet inside a word.
 
@@ -334,7 +335,7 @@ Bethuan's vowels are notably fuller and longer-holding than Helonic:
 - **u**—short, the "u" of "put"; long, the "oo" of "boot"
 - a front-rounded vowel, the lips rounded as for _o_ while the tongue says _e_ (rare, in older loanwords)
 
-Diphthongs are richer and more common than in Bizarian: -ia, -io, -ea, -eo are glided smoothly, and -ou (a long "oh") and -au (a long "ah" gliding to "oo") are native. **Hiatus** (two adjacent vowels not forming a diphthong) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
+Diphthongs are richer and more common than in Bizarian: -ou (a long "oh") and -au (a long "ah" gliding to "oo") are native pairs, and other vowels standing together are said apart. **Hiatus** (two adjacent vowels not forming a pair) is common and pronounced distinctly: _theo-on_ (god-ACC) is pronounced as three syllables.
 
 ### Consonant System
 
@@ -359,7 +360,7 @@ Soft consonants
 Liquid gemination
 : Doubled r and l (_rr_, _ll_) are common in formal speech, signaling emphasis or prestige
 
-Consonant clusters are avoided; vowel epenthesis creates intermediate vowels: _sketar_ becomes _seekatar_ (secretary).
+Consonant clusters are avoided; vowel epenthesis creates intermediate vowels: _sketar_ becomes _sekatar_ (secretary).
 
 **Gender Register Effects on Phonology:** The feminine register favors softer consonant articulation and clearer vowel production; theta (th) is more frequent, and sibilants (s, z) are pronounced with greater precision. The masculine register permits more consonant reduction and more rapid vowel elision.
 
@@ -408,7 +409,7 @@ Both registers share the core SVO structure, but the feminine register keeps ful
 
 | Feature              | Feminine Register                                            | Masculine Register          |
 | -------------------- | ------------------------------------------------------------ | --------------------------- |
-| **Definite article** | asho, ashe, athoth (singular) / ashoi, ashai, athoi (plural) | 's, 't (enclitic particles) |
+| **Definite article** | asho, ashe, athoth (singular) / ashoi, ashai, athoi (plural) | -s, -t (enclitic particles) |
 
 ### Sample Constructions
 
@@ -416,16 +417,16 @@ These examples use vocabulary inherited from [[skill-helonclng|Helonic]] (see Co
 
 **Feminine register:**
 
-_Ashe sothira thásiron ésharin arkhidhin plumon_
+_Ashe sothira thásiron ésarin arkhidhin plumon_
 : "The wisdom of the gods is the beginning of all things" (the full forms _thásiron_ "of the gods" and _plumon_ "of all things")
 
-_Thásiran sothiras dokházhimir plumai_
-: "We honor the goddess of wisdom with all reverence" (_thásiran_ "goddess", _sothiras_ "of wisdom", _dokházhimir_ "we honor", _plumai_ "all")
+_Thásiran sothiras dokhásimir plumai_
+: "We honor the goddess of wisdom with all reverence" (_thásiran_ "goddess", _sothiras_ "of wisdom", _dokhásimir_ "we honor", _plumai_ "all")
 
 **Masculine register:**
 
-_Sothira thásiron's, árshidhir pluma_
-: "God's wisdom starts everything" (the enclitic possessive _'s_ replaces the full article, and _pluma_ replaces _plumon_)
+_Sothira thásiron-s, ársidhir pluma_
+: "God's wisdom starts everything" (the enclitic possessive _-s_ replaces the full article, and _pluma_ replaces _plumon_)
 
 _Dókhemir sothira thásiras meghal_
 : "We think highly of the divine wisdom" (_dókhemir_ "we think" from _dókhanir_, _thásiras_ "of the goddess" from _thasir_, _meghal_ truncated from _méghara_)
@@ -441,8 +442,8 @@ The basic inventory matches Helonic (24 letters), but Bethuan orthography includ
 Diacritical length marks
 : long vowels often marked, especially in formal writing
 
-Aspiration marks
-: the aspirated th and the less-common kh are consistently distinguished with dedicated letterforms
+Aspirate letters
+: _th_ has a letter of its own, and Bethuan writes _kh_ with a letter of its own where Helonic writes _k_ and _h_
 
 Accent marks
 : pitch accent is marked; feminine register texts are more carefully accentuated
@@ -505,8 +506,8 @@ Khelathi has sounds Bethuan does not, and they are regularly smoothed away on th
 
 - **Uvular** _q_ collapses into plain _k_.
 - The Khelathi **glottal stop** is dropped, and a lost glottal stop usually leaves a Bethuan **hiatus** in its place.
-- Khelathi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set, typically by **lengthening** (_a > a, i > î, u > û_) and by epenthetic _e_ and _o_.
-- **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _seekatar_).
+- Khelathi's spare three-vowel system (_a, i, u_) is recolored into Bethuan's richer set, held long in speech and broken up by epenthetic _e_ and _o_.
+- **Consonant clusters**, which Bethuan dislikes, are broken with an inserted vowel (the same epenthesis that turns _sketar_ into _sekatar_).
 - Stress is reset to the Bethuan **paroxytone** default.
 
 The single most recognizable mark of a Khelathi loan, though, is the **fossilized article**. Khelathi nouns often entered Bethuan with their definite article _en-_ or _et-_ still attached, and Bethuan speakers ceased to parse it as an article at all—so the word _is_ _en-telekas_, "the quay," article and all. A prefixed _en-_ or _et-_ on an otherwise opaque noun is, to a Helonic ear, the instant tell of a Khelathi borrowing.
@@ -525,8 +526,8 @@ The result is a productive irony that runs through all of Bethuan life: the most
 
 Where the feminine examples above (see Sample Constructions) run on pure Helonic vocabulary, ordinary practical speech mixes the strata freely:
 
-_En-telekas's khabetun plios et-degan_
-: "The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _'s_, shortened endings, three Khelathi loans—_en-telekas, khabetun, et-degan_—carried on a Helonic frame).
+_En-telekas-s khabetun plios et-degan_
+: "The quay's warehouse is full; (pay) the customs-due" (masculine register: enclitic possessive _-s_, shortened endings, three Khelathi loans—_en-telekas, khabetun, et-degan_—carried on a Helonic frame).
 
 ## Regional Dialects
 
@@ -548,19 +549,19 @@ Border Dialects
 
 All phrases use vocabulary from the shared [[skill-helonclng|Helonic]] lexicon.
 
-Thásira sothira árshidhir pluma
-: "The goddess of wisdom rules all things" (formal, feminine; _thásira_ "goddess", _árshidhir_ "rules" from _árshidhin_, _pluma_ "all things")
+Thásira sothira ársidhir pluma
+: "The goddess of wisdom rules all things" (formal, feminine; _thásira_ "goddess", _ársidhir_ "rules" from _árshidhin_, _pluma_ "all things")
 
-Ashe harmodhin koshamir sothashir
+Ashe harmodhin kosamir sothashir
 : "Harmony holds the world together" (poetic, feminine; _sothashir_ "holds together" from _sotharin_)
 
-Sothira ésharin aghathin, thásiras dorashin
-: "Wisdom is a good thing, a goddess's gift" (philosophical, feminine; _aghathin_ "good thing", _thásiras_ "of the goddess", _dorashin_ "gift")
+Sothira ésarin aghathin, thásiras dorasin
+: "Wisdom is a good thing, a goddess's gift" (philosophical, feminine; _aghathin_ "good thing", _thásiras_ "of the goddess", _dorasin_ "gift")
 
-Dókhemir kéliran sothira, thásiras dorashin
+Dókhemir kéliran sothira, thásiras dorasin
 : "We value the beauty of wisdom, the goddess's gift" (casual, masculine; _dókhemir_ "we value" from _dókhanir_, shortened endings)
 
-Olashin koshamir yn harmodhin
+Olashin kosamir in harmodhin
 : "The entire cosmos is in balance" (formal)
 
 ## Related Languages
@@ -586,13 +587,13 @@ Bethuan maintains the Helonic naming structure but applies **Bethuan pronunciati
 
 When Helonic names are used in Bethuan contexts, they undergo regular phonetic shifts:
 
-| Helonic Feature                        | Bethuan Shift                                                     | Example                                       |
-| -------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------- |
-| Hard velar k, g before front vowels    | Softened to "ky", "gy", or fully palatal                          | _Khaliros_ > _Khaliiros_                      |
-| Final -os (masculine)                  | Lengthens to a long -os; in formal feminine context, recast to -a | _Wissaros_ > _Wisaria_ (formal)               |
-| Short vowels before consonant clusters | Lengthened, cluster simplified                                    | _Jádharos_ > _Jadharos_                       |
-| Sibilant s                             | More fricative, dental articulation                               | _Sotharion_ > _Thotharion_ (in some contexts) |
-| Theta (th)                             | Frequent in formal feminine register                              | _Thammas_, _Tháliminos_ (preserved)           |
+| Helonic Feature                        | Bethuan Shift                                                | Example                                       |
+| -------------------------------------- | ------------------------------------------------------------ | --------------------------------------------- |
+| Hard velar k, g before front vowels    | Softened to "ky", "gy", or fully palatal                     | _Kéliran_ said _kyéliran_ (spoken only)       |
+| Final -os (masculine)                  | The o is held long; in formal feminine context, recast to -a | _Wissaros_ > _Wisaria_ (formal)               |
+| Short vowels before consonant clusters | Lengthened, cluster simplified                               | _Jádharos_ > _Jadharos_                       |
+| Sibilant s                             | More fricative, dental articulation                          | _Sotharion_ > _Thotharion_ (in some contexts) |
+| Theta (th)                             | Frequent in formal feminine register                         | _Thammas_, _Tháliminos_ (preserved)           |
 
 ### Bethuan-Specific Naming Conventions
 
@@ -622,15 +623,15 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Ághranes
 - Amarith
 - Áridras
-- Áshrukos
+- Ásrukos
 - Azárinos
 - Azidás
 - Bákines
 - Bákion
 - Barekiós
 - Bulelon
-- Chankhor
-- Chánnaon
+- Khankhor
+- Khánnaon
 - Dámasun
 - Dókhares
 - Dókhiron
@@ -830,8 +831,8 @@ Bethuan uses the **Helonic name list**, with Bethuan phonetic and grammatical co
 - Bashiros
 - Bishanis
 - Bisharion
-- Chaddaris
-- Chaddul
+- Khaddaris
+- Khaddul
 - Damines
 - Damines
 - Dorashos
