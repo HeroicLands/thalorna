@@ -37,7 +37,7 @@ The temple, which in a Vedyari janpoda is also the record office, the school, th
 
 ## Who has it
 
-Priesthood and professional scribes; about one noble in four. The merchant caste has driven the spread of the simplified cursive without much learning it themselves—the simplification was for the scribes they hire. Outside the cities, literacy exists in the temple and nowhere else.
+Priesthood and professional scribes; about one noble in six. The merchant caste has driven the spread of the simplified cursive without much learning it themselves—the simplification was for the scribes they hire. Outside the cities, literacy exists in the temple and nowhere else.
 
 ## In play
 

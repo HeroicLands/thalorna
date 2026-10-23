@@ -1037,7 +1037,7 @@ data:
       field: "Death, the dead and the ancestors"
       gloss: "a bone"
       concept: bone
-    - {form: "dhaush-", class: v, field: "Death, the dead and the ancestors", gloss: "die"}
+    - {form: "daush-", class: v, field: "Death, the dead and the ancestors", gloss: "die"}
     - form: shorukshetra
       class: "n"
       field: "Death, the dead and the ancestors"
@@ -1227,7 +1227,7 @@ data:
       gloss: "a crossing, a ford"
       built: ["tar-", "-ona"]
     - {form: "pat-", class: v, field: "Doing, going and being", gloss: "fall"}
-    - {form: "chamb-", class: v, field: "Doing, going and being", gloss: "gho"}
+    - {form: "chamb-", class: v, field: "Doing, going and being", gloss: "go"}
     - {form: "hauv-", class: v, field: "Doing, going and being", gloss: "come"}
     - {form: "pom-", class: v, field: "Doing, going and being", gloss: "give"}
     - {form: "ghum-", class: v, field: "Doing, going and being", gloss: "eat"}
@@ -1463,18 +1463,18 @@ data:
   sounds:
     edges:
       - edge: openCluster
-        sounds: [pr, tr, dr, kr, gr, br, bhr, vr, shr, sm, st, sv, shv, dv, vy, ny, shy, jv, jn]
+        sounds: [pr, tr, dr, kr, gr, br, bhr, vr, shr, sm, st, sv, dv, vy, ny, jv, jn]
       - {edge: closeConsonant, sounds: [n, r, t, k, s, l, m, d]}
     clusters: {max: 3}
     joining:
-      - {first: [a, a], second: [a, a], written: a, example: _podma_ + _avoli_ = _padmavali_}
-      - {first: [a, a], second: [i, i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_}
-      - {first: [a, a], second: [u, u], written: o}
-      - first: [i, i]
-        second: [a, a, u, u, e, o]
+      - {first: [a], second: [a], written: a, example: _podma_ + _avoli_ = _padmavali_}
+      - {first: [a], second: [i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_}
+      - {first: [a], second: [u], written: o}
+      - first: [i]
+        second: [a, u, e, o]
         written: y+
         example: "_nadri_ + _avoli_ = _nadryavoli_, a _y_ between"
-      - {first: [u, u], second: [a, a, i, i, e, o], written: v+}
+      - {first: [u], second: [a, i, e, o], written: v+}
   elements:
     - form: pur
       position: closing
@@ -1599,8 +1599,8 @@ data:
     - {name: Framer of the Question, tongue: translation}
     - {name: Witness of Record, tongue: translation}
     - {name: Keeper of the Register, tongue: translation}
-    - {name: The Adanshreni, tongue: vedyari, built: [adun, shrena]}
-    - {name: The Adun, tongue: vedyari, built: [adun]}
+    - {name: Adanshreni, tongue: vedyari, built: [adun, shrena]}
+    - {name: Adun, tongue: vedyari, built: [adun]}
     - {name: The Receivers, tongue: translation}
     - {name: The Shrena of Taking, tongue: translation}
     - {name: Chinnasutra, tongue: vedyari, built: [chinnasutra]}
@@ -1823,7 +1823,7 @@ data:
     - {name: Lower Mahanodi Janpoda, tongue: translation}
     - {name: Bharava, tongue: vedyari, built: [bharava]}
     - {name: Bharava-Devabhona, tongue: vedyari, built: [bharava, devra, bhogra]}
-    - {name: The Devabhona, tongue: vedyari, built: [devra, bhogra]}
+    - {name: Devabhona, tongue: vedyari, built: [devra, bhogra]}
     - {name: The Forest Estates, tongue: translation}
     - {name: Bihra, tongue: vedyari, built: [bihra]}
     - {name: Bonded Servant, tongue: translation}
@@ -1836,7 +1836,7 @@ data:
     - {name: Vanapalda, tongue: vedyari, built: [vanapalda]}
     - {name: Koshapala, tongue: vedyari, built: [koshra, palda]}
     - {name: The Bharava-Devastena Hostels, tongue: translation}
-    - {name: The Bharava-Devastena, tongue: vedyari, built: [bharava, devra, stonu]}
+    - {name: Bharava-Devastena, tongue: vedyari, built: [bharava, devra, stonu]}
     - {name: Bharavamukha, tongue: vedyari, built: [bharava, mukhva]}
     - {name: Bharavaprabhava, tongue: vedyari, built: [bharava, prabhana]}
     - {name: Bharavaban, tongue: vedyari, built: [bharava, vanta]}
@@ -1913,7 +1913,7 @@ data:
     - {name: Janpodas of Vedyara, tongue: translation}
     - {name: Mahva-Sangra of Vedyara, tongue: translation}
     - {name: The Temple-Republics of Vedyara, tongue: translation}
-    - {name: The Vedyari Janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s]}
+    - {name: Vedyari Janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s]}
     - {name: Sabhapavi of the Melka, tongue: translation}
     - {name: The Council of Three, tongue: translation}
     - {name: Circuit-Speaker, tongue: translation}
@@ -2156,7 +2156,7 @@ data:
     - {name: Keeper of a Line, tongue: translation}
     - {name: Preparer, tongue: translation}
     - {name: Remembered, tongue: translation}
-    - {name: The Chaya-vreta, tongue: vedyari}
+    - {name: Chaya-vreta, tongue: vedyari}
     - {name: The Shadow-Vow, tongue: translation}
     - {name: Under the Vow, tongue: translation}
     - {name: Sorhupur, tongue: vedyari, built: [sorhu, pur]}
@@ -2290,7 +2290,7 @@ Vedyari has two registers, and they sound alike but end differently. The classic
 
 **Built names.** A name is one word or two joined, seldom three: _Chandreli_ is _chendra_ and _sundeli_, "moon, the beautiful", and _Danurkirti_ is "bow-fame". A name of five syllables or more is an old name or a title.
 
-**What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_, which readers say as _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
+**What Vedyari leaves out.** It has no _th_ and no _dh_, since the guide reads both as the sounds of _thin_ and _this_, and no _ph_; the sound of _f_ is written _f_. It avoids _lv_ and the endings of [[skill-helonclng|Helonic Language]], _-os_ and _-is_. No word closes on two consonants but _nd_, and none closes on _sh_, _kh_, _bh_, _v_ or _h_.
 
 ## Phonology
 
@@ -2307,12 +2307,12 @@ Voiced
 : b, d, g
 
 Affricates
-: ch, j
+: ch, j, ts
 
 Breathed
 : bh, a _b_ with a breath after it
 
-**Fricatives:** s, sh, h, and the throat sounds kh and gh
+**Fricatives:** s, sh, h, f in a few words, and the throat sounds kh and gh
 
 **Nasals:** m, n, ny, and ng inside a word
 
@@ -2337,7 +2337,7 @@ Vedyari distinguishes five cardinal vowels:
 Analysis of attested names reveals:
 
 Consonant Clusters
-: A word opens on a single consonant or on one of a short list of pairs: a consonant before _r_ (_pr_, _tr_, _dr_, _gr_, _vr_, _shr_), a consonant before _y_ or _v_ (_vy_, _shy_, _sv_, _jv_), and the old pair _jn_. Inside a word no more than three consonants stand together, as in _Chendra_ and _Sandva_. _ksh_ stands only inside a word. The aspirates _kh_, _gh_ and _bh_ are single consonants, so _Bharava_ opens on one
+: A word opens on a single consonant or on one of the pairs in the word-edges table. Inside a word no more than three consonants stand together, as in _Chendra_ and _Sandva_. _ksh_ stands only inside a word. The aspirates _kh_, _gh_ and _bh_ are single consonants, so _Bharava_ opens on one
 
 Syllable Structure
 : Predominantly CV or CVC; onset-heavy structure favors initial consonants
@@ -2370,7 +2370,7 @@ Classical Vedyari follows a **Subject-Object-Verb (SOV)** order in main clauses,
 
 **Common Cursive:** A more flowing, connected variant has developed for administrative and mercantile use, reducing the syllabic inventory to roughly 36 core forms with additional ligatures.
 
-**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and perhaps one noble in six. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best—enough to recognize trade marks and numerals—and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
+**Literacy:** Formal education in Classical Vedyari is the province of the priesthood, professional scribes, and about one noble in six. Even in the wealthiest city-states, the general population is overwhelmingly non-literate; merchants and guildsmen possess functional literacy at best—enough to recognize trade marks and numerals—and rely on scribes for contracts and record-keeping. In hinterland regions, literacy is virtually nonexistent outside the local temple. The mercantile caste has driven adoption of simplified script variants, but these are used by hired scribes rather than merchants themselves.
 
 ## Historical Development
 
@@ -2387,7 +2387,7 @@ The standardization of Classical Vedyari occurred roughly 1,200 years before the
 Since [[lore-stndrdmdstn|the Standardization at Madustan]], gradual sound changes have created divergence:
 
 Lenition of intervocalic stops
-: p, t and k soften to f, "th" and a throaty kh between vowels in some dialects (more pronounced in southern city-states)
+: p, t and k soften between vowels in some dialects (more pronounced in southern city-states)
 
 Nasalization of vowels before nasals
 : Incipient; most evident in rapid speech

@@ -1,6 +1,6 @@
 ---
 shortcode: bhrvdvbhon
-name: {full: Bharava-Devabhona, aliases: [The Devabhona, The Forest Estates]}
+name: {full: Bharava-Devabhona, aliases: [Devabhona, The Devabhona, The Forest Estates]}
 type: affiliation
 subType: polity
 description: The temple-estates of the lower Bharava—the one Vedyari arrangement with no assembly in it, holding six hundred miles of forest for the gods and paying for the pilgrim road out of resin, lac and hardwood.

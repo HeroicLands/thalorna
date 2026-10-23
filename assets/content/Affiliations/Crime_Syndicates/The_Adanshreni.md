@@ -1,6 +1,8 @@
 ---
 shortcode: adanshreni
-name: {full: The Adanshreni, aliases: [The Adun, The Receivers, The Shrena of Taking]}
+name:
+  full: The Adanshreni
+  aliases: [Adanshreni, Adun, The Adun, The Receivers, The Shrena of Taking]
 type: affiliation
 subType: criminal
 description: "The chartered thieves' shrena of Vedyara—a hereditary craft-shreni that holds a charter from each of the forty polities seated at the great assembly in their own right, earns more from underwriting theft than from committing it, and survives dynasties because it is a shrena with hereditary lines and not a syndicate."

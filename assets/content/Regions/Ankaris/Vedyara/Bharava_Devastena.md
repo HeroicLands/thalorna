@@ -1,6 +1,6 @@
 ---
 shortcode: bhrvdvstna
-name: {full: The Bharava-Devastena Hostels, aliases: [The Bharava-Devastena]}
+name: {full: The Bharava-Devastena Hostels, aliases: [Bharava-Devastena, The Bharava-Devastena]}
 type: place
 subType: site
 description: "The endowed network of free hostels for traveling priests and ascetics, twenty-three houses on the great pilgrimage roads, paid for out of Suvargeri's gold."
