@@ -401,10 +401,10 @@ data:
       - [",", "󰁑"] # U+F0051
       - ["!", "󰁒"] # U+F0052
       - ["-", "󰁓"] # U+F0053
-    fonts: [{font: pirzath-carved}, {font: pirzath-hand}, {font: pirzath-hand-lifted}]
+    fonts: [{font: pirzath-carved}, {font: pirzath-hand}]
 ---
 
-Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in [[skill-drthrkscrpt|Pirzath]], in any of its three faces: Pirzath Carved, Pirzath Hand, and Pirzath Hand with its letters lifted apart. A passage marked with `map=pirzath` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. The three faces share every row.
+Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in [[skill-drthrkscrpt|Pirzath]], in either of its two faces: Pirzath Carved and Pirzath Hand. A passage marked with `map=pirzath` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. The two faces share every row.
 
 ```text
 [Khazár]{lang=khaz font=pirzath-carved map=pirzath}

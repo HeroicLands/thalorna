@@ -163,14 +163,17 @@ jobs:
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vylari.md"
                   --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Semaron_Spelling.md"
 
-            # The Helónika guard reads the Helonic and Valtari notes from origin/main only.
             - name: Helónika
               if: ${{ !cancelled() }}
               run: |
-                  git -C "$GITHUB_WORKSPACE" fetch --depth 1 origin main:refs/remotes/origin/main
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/helonika/guard.py" \
-                      --thalorna "$GITHUB_WORKSPACE" \
-                      --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Helonika_Spelling.md"
+                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Helonic.md" \
+                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Valtari.md" \
+                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Byzarian.md" \
+                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Bethuan.md" \
+                      --map-note helonika="$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Helonika_Spelling.md" \
+                      --map-note bizarian="$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Bizarian_Spelling.md" \
+                      --map-note bethuan="$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Bethuan_Spelling.md"
 
             - name: Vedyakshara Classical
               if: ${{ !cancelled() }}

@@ -650,13 +650,13 @@ drawn in, and how it marks emphasis. A mapping is a `doc` note under
 `assets/content/Lore/Scripts/`, **one per script, shared by every language
 written in it**.
 
-| Script         | Script note                        | Faces (`font=`)                                         | Mapping (`map=`) | Direction     |
-| -------------- | ---------------------------------- | ------------------------------------------------------- | ---------------- | ------------- |
-| Semaron        | `Skills/Scripts/Semaron.md`        | `semaron-kuriale`                                       | `semaron`        | left to right |
-| Pirzath        | `Skills/Scripts/Pirzath.md`        | `pirzath-carved`, `pirzath-hand`, `pirzath-hand-lifted` | `pirzath`        | left to right |
-| Thuravark      | `Skills/Scripts/Thuravark.md`      | `thuravark-carved`                                      | `thuravark`      | left to right |
-| Qalezu         | `Skills/Scripts/Qalezu.md`         | `qalezu-hand`                                           | `qalezu`         | right to left |
-| Khelathi-zethu | `Skills/Scripts/Khelathi_zethu.md` | `khelathi-zethu-glyphs`                                 | none             | right to left |
+| Script         | Script note                        | Faces (`font=`)                  | Mapping (`map=`) | Direction     |
+| -------------- | ---------------------------------- | -------------------------------- | ---------------- | ------------- |
+| Semaron        | `Skills/Scripts/Semaron.md`        | `semaron-kuriale`                | `semaron`        | left to right |
+| Pirzath        | `Skills/Scripts/Pirzath.md`        | `pirzath-carved`, `pirzath-hand` | `pirzath`        | left to right |
+| Thuravark      | `Skills/Scripts/Thuravark.md`      | `thuravark-carved`               | `thuravark`      | left to right |
+| Qalezu         | `Skills/Scripts/Qalezu.md`         | `qalezu-hand`                    | `qalezu`         | right to left |
+| Khelathi-zethu | `Skills/Scripts/Khelathi_zethu.md` | `khelathi-zethu-glyphs`          | none             | right to left |
 
 The other script notes state no `data.script`, so no face and no mapping draws
 them. Every face is a face of `@heroiclands/fonts`; `font=` names it by its
@@ -688,7 +688,7 @@ that mapping is drawn in; either fault is an error at the key.
 | Valtari           | `semaron`, `semaron-kuriale`    |                                                       |
 | Varokhi           | `semaron`, `semaron-kuriale`    |                                                       |
 | Nordmal (`nord`)  | `thuravark`, `thuravark-carved` |                                                       |
-| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`       | `pirzath-carved`, `pirzath-hand-lifted`               |
+| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`       | `pirzath-carved`                                      |
 | Khelathi (`khel`) | `qalezu`, `qalezu-hand`         | `khelathi-zethu-glyphs` with `zethu`, the sacred hand |
 | Atárzadi          | `qalezu`, `qalezu-hand`         |                                                       |
 | Dunhari           | `qalezu`, `qalezu-hand`         |                                                       |

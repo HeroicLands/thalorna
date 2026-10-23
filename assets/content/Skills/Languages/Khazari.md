@@ -6514,7 +6514,10 @@ data:
       - "Kaval-zunáth"
   sounds:
     stress: {two: first, longer: penultimate, mark: acute}
-    skeleton: [{second: [l, r, m, n, s]}, {second: any, between: a}]
+    skeleton:
+      - {second: [m, n, s], third: [r, m, n], between: u}
+      - {second: [l, r, m, n, s]}
+      - {second: any, between: a}
     frames:
       - frame: bare
         shape: K1aK2K3
@@ -6993,7 +6996,7 @@ Khazari is short and hard, a stone-cutter's tongue. Most of its words have two s
 
 Its words are written in the setting's one guide; see [[doc-prnncthlrn|Pronouncing Thalorna]].
 
-The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazari, and a Khazari saying a foreign name that has one says `s`. **Consonant clusters are common**, which is unusual on Thalorna: _thamur_, _bant_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
+The four digraphs—_th_, _dh_, _kh_, _gh_—are single sounds and count as single consonants everywhere in the grammar below. There is no `sh`: the hushing sound does not exist in Khazari, and a Khazari saying a foreign name that has one says `s`. A Khazari speaker drops a foreign name's opening vowel, since no Khazari word begins with a vowel, so _Árdavon_ is said _Rdavon_. **Consonant clusters are common**, which is unusual on Thalorna: _thamur_, _bant_, _zamd_ and _maln_ are ordinary words, and the density is the point. More meaning travels per syllable than any human tongue manages.
 
 ### Vowels
 
@@ -7009,7 +7012,7 @@ Khazari has no diphthongs. Two vowels never stand together, because a native wor
 
 No word opens on two consonants. A dash joins the two parts of a built name. Inside a word no more than two consonants stand together—a doubled consonant counts as one—and a word ends on at most two.
 
-One rule governs every frame. **The second and third consonants of a skeleton stand together only when the second is one of five; otherwise a short _a_ stands between them.** No frame can override it. The one exception is a bare frame, or a _hu-_ frame, that would end on _m_, _n_ or _s_ before _r_, _m_ or _n_: a short _u_ stands between them (_thamur_).
+One rule governs every frame. **The second and third consonants of a skeleton stand together only when the second is one of five; otherwise a short _a_ stands between them.** No frame can override it. A bare or _hu-_ frame whose skeleton has _m_, _n_ or _s_ second and _r_, _m_ or _n_ third takes a short _u_ between them (_thamur_).
 
 ```sql
 SELECT CASE WHEN second = ['any'] THEN 'any other' ELSE array_to_string(list_transform(second, x -> '`' || x || '`'), ' ') END AS "Second consonant of the skeleton",

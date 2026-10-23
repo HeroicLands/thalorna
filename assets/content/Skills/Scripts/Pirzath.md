@@ -3,13 +3,13 @@ shortcode: drthrkscrpt
 name: {full: Pirzath Script, aliases: []}
 type: skill
 subType: script
-description: "The letters of the Khazari—angular carved characters that follow the stone, a flowing hand for everyday use, and a people who write down nearly everything."
+description: "The letters of the Khazari—angular carved characters that follow the stone, a plain printed hand for everyday use, and a people who write down nearly everything."
 tags: []
 data:
   icon: icon-speaking
   templatePriority: null
   packFolder: script
-  script: {fonts: [pirzath-carved, pirzath-hand, pirzath-hand-lifted], emphasis: rubric}
+  script: {fonts: [pirzath-carved, pirzath-hand], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -27,7 +27,7 @@ Twenty-four of the forty-one write the sounds of Khazari as it is spoken. The ot
 
 Numbers are written in place order with **sixteen numeral signs**, nought through fifteen, built from tally-strokes, so a number of sixteens is read in the same way in both forms.
 
-**The hand form of Pirzath** is the everyday writing: flowing, curved and joined, in ink or scratched with a stylus. It is written on slate and chalk for teaching, tallies and notes; on wax tablets for drafts and accounts; in ink on hide or parchment for letters and books; and with a stylus on thin sheets of lead or copper for records meant to last without being monumental. It reads left to right and top to bottom, as the carved form does, and marks the skeleton of a word with a heavier stroke. Reading carved Pirzath well means reading the stone.
+**The hand form of Pirzath** is the everyday writing: a plain printed hand, each letter standing clear of its neighbour, in ink or scratched with a stylus. It is written on slate and chalk for teaching, tallies and notes; on wax tablets for drafts and accounts; in ink on hide or parchment for letters and books; and with a stylus on thin sheets of lead or copper for records meant to last without being monumental. It reads left to right and top to bottom, as the carved form does, and marks the skeleton of a word with a heavier stroke. Reading carved Pirzath well means reading the stone.
 
 It resembles the [[sohl-none-docskill-runic|Runic]] traditions of the [[lore-pelwarpepl|Pelwar peoples]] because it is their **parent**. Pirzath is the elder script by some thousands of years, and the staves of [[skill-thuravarkscript|Thuravark Runic Script]] in [[skill-nordmalng|Nordmal Language]] correspond to a subset of the Pirzath characters closely enough—same angles, same notch-and-drill diacritics, broadly the same sound values wherever the two languages allow the comparison—that the relationship is not seriously disputed by anyone outside the [[place-nrdlndsrgn|Nordlands]].
 

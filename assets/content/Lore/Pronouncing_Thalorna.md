@@ -150,7 +150,7 @@ data:
         ipa: ʔ
     marks:
       - {mark: acute, letters: [á, é, í, ó, ú, ý], kind: stress, limit: one}
-      - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: length, limit: one}
+      - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: apart, limit: one}
 ---
 
 Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. Every name and word on these pages is transcribed into them by one set of rules, so a reader learns them once and can say any word in the setting.
