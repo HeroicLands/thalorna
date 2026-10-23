@@ -9,7 +9,7 @@ data:
   icon: icon-speaking
   templatePriority: null
   packFolder: script
-  script: {fonts: [teng-chou], emphasis: rubric}
+  script: {fonts: [teng-chou], emphasis: rubric, direction: vertical-rl}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"
@@ -21,9 +21,13 @@ sohl:
   flags: {"thalorna": {script_family: Logographic}}
 ---
 
-Teng Chou, the **Celestial Record**, is the writing of the east: one character to one morpheme, which in Tantsou is one syllable. Each character is built out of semantic radicals, and a compound word is written as a row of characters, one to a root, exactly as the spoken languages set their roots side by side. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.
+Teng Chou, the **Celestial Record**, is the writing of the east: one character to one morpheme, which in Tantsou is one syllable. Each character is built out of semantic radicals, and a compound word is written as a sequence of characters, one to a root, exactly as the spoken languages set their roots side by side. Three to four thousand characters are needed for educated reading; a scholar may hold six thousand or more; a full formal education in it runs ten to fifteen years.
 
 Its defining property is that **it is not tied to a language**. Teng Chou writes [[skill-tantsoulng|Tantsou]] and it writes [[skill-jurthatlng|Jurthati]], and a Tantsou minister and a Jenchai retainer who cannot exchange three spoken sentences can conduct an entire negotiation in writing, each reading the characters aloud in his own tongue or not aloud at all. A thousand years of mutual non-recognition between [[affiliation-tantsouempr|Tantsou]] and [[affiliation-jenchaiempr|Jenchai]] has not produced two scripts, because neither court will concede that the other is entitled to a separate one.
+
+## Columns and handscrolls
+
+Teng Chou is written from top to bottom in vertical columns, read from right to left. A paragraph begins flush at the top of a new column, with no indent. Tantsou and Jenchai keep records, literature and letters on handscrolls; monuments carry the same columns in stone. Horizontal writing appears only where the surface forces it, such as a shop sign or a ledger margin.
 
 ## The two forms
 

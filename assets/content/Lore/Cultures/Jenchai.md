@@ -84,6 +84,8 @@ A Jenchai can point to the objects that hold a domain together, and most of them
 
 **The house blade** of a lord or a retainer family is passed from holder to heir with the office, and the smiths' lineages that make them are named in the same breath as the houses they serve. **The mountain record** of each summit shrine holds every eruption, earthquake and spring of the mountain with the year and the lord in whose time it fell, and a lord's claim to heaven's favor rests on what it says. The court on Zojai keeps the mainland canon, the cosmological treatises and the formulae of the great rites, under the Keeper of the Sacred Texts. No domain keeps a census of the realm, and the Caste-Registrar at court registers nobody.
 
+Records, literature and letters are kept on handscrolls, written in [[skill-tengchouscript|Teng Chou Script]] in vertical columns read from right to left.
+
 ## The Day Kept
 
 Ordinary religion is the mainland's household practice with the lord set into it. The shrine is swept and the brazier lit at dawn, food is set before the ancestor tablets, and spirit paper is burned for what the household owes or wants sent up. A retainer household keeps one tablet more than a mainland one: the tablet of the lord's line, set beside the family's own dead, because the household's service does not end when a lord dies. The mainland's dawn exercise survives in the retainers' halls as a drill with the blade, kept in the same courtyards at the same hour.
