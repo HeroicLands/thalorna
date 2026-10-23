@@ -59,11 +59,11 @@ The sentence end is always the last mark of a sentence, outside a closing quotat
 
 The strongest Khazari undertaking, _Dalík bant, maríg bant_ ("oath of stone, oath of bone"), in Carved Pirzath and then in the hand form:
 
-::: {lang=khaz font=pirzath-carved map=pirzath}
+::: {.nativefont lang=khaz font=pirzath-carved map=pirzath}
 Dalík bant, maríg bant.
 :::
 
-::: {lang=khaz}
+::: {.nativefont lang=khaz}
 Dalík bant, maríg bant.
 :::
 

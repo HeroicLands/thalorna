@@ -25,7 +25,7 @@ Khelathi-zethu is the sacred writing of the [[affiliation-empireakhlth|Empire of
 
 The heading of the memorial of [Meqes VI]{.name data-type="being/npc"}, the first register of the Khelathu banner, read from the right: _Year 1 of the Gar-Au Meqes VII, living, enduring, strong. Went to the West the Gar-Au Meqes VI, Lord of the River and of the Two Banks, beloved of Uqa'a, fire of Uqa'a upon the mound, who stood, who was crowned, lord of the count, whose seal is on the granary, whose grain the barges carry, given life like the sun forever, in his twenty-seventh year. His account is read._
 
-::: {font=khelathi-zethu-glyphs map=zethu-mdc}
+::: {.nativefont lang=khel font=khelathi-zethu-glyphs map=zethu-mdc}
 16-024:16-004-11-001:11-002-<13-002\*13-003-12-005:16-021>-08-005\*10-002-01-014\*04-028:10-014-11-001:11-002-<13-002\*13-003-12-005:16-027>-01-060\*01-013:10-016-10-001-10-016:10-025-16-005\*02-017-10-016:16-001\*13-003\*16-001-09-002\*09-014:10-016-09-002:10-016:10-011-01-081-01-013:10-016-13-035:15-010-10-016:11-004-14-016:12-014-04-009\*08-005:13-043\*09-005-10-002-10-016:16-024-16-003\*16-003:16-021\*04-018-14-026
 :::
 

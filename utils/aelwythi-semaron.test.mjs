@@ -97,8 +97,8 @@ test("the language selects its own executable mapping in the installed renderer"
     });
 });
 
-test("lang=aelw runs use the installed renderer and dictionary native forms", () => {
-    const rendered = renderRuns("[Exact conquer sceptic]{lang=aelw}", ctx);
+test("explicit native Aelwythi runs use the installed renderer and dictionary forms", () => {
+    const rendered = renderRuns("[Exact conquer sceptic]{.nativefont lang=aelw}", ctx);
     assert.deepEqual(rendered.errors, []);
     assert.match(rendered.markdown, /hl-semaron-kuriale/);
     assert(rendered.markdown.includes(write("Exact conquer sceptic")));

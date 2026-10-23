@@ -2198,6 +2198,11 @@ data:
     - {name: Captain-Merchant Prituraja, tongue: translation}
     - {name: Darmeja Daranir, tongue: vedyari}
     - {name: Captain Darmeja, tongue: translation}
+    - {name: Ashvapala, tongue: vedyari}
+    - {name: Jalavira, tongue: vedyari}
+    - {name: Meghavira, tongue: vedyari}
+    - {name: Kavrabira, tongue: vedyari}
+    - {name: Dhanurpala, tongue: vedyari}
   retired:
     - {form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija}
     - {form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija}
