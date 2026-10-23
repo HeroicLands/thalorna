@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The Helonic letters—the eastern alphabet of theater, verse and the ledger, carried by three tongues and every harbor between them."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: script
+  script: {fonts: [helonika-book], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

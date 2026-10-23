@@ -5,7 +5,11 @@ type: skill
 subType: script
 description: "The forty-eight syllables of Vedyara—a temple script for law, lineage and liturgy, with a running hand for the caravan."
 tags: []
-data: {icon: icon-speaking, templatePriority: null, packFolder: script}
+data:
+  icon: icon-speaking
+  templatePriority: null
+  packFolder: script
+  script: {fonts: [vedyakshara-classical], emphasis: rubric}
 sohl:
   system:
     skillBaseFormula: "@rea, @per"

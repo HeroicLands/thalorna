@@ -163,6 +163,23 @@ jobs:
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vylari.md"
                   --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Semaron_Spelling.md"
 
+            # The Helónika guard reads the Helonic and Valtari notes from origin/main only.
+            - name: Helónika
+              if: ${{ !cancelled() }}
+              run: |
+                  git -C "$GITHUB_WORKSPACE" fetch --depth 1 origin main:refs/remotes/origin/main
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/helonika/guard.py" \
+                      --thalorna "$GITHUB_WORKSPACE" \
+                      --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Helonika_Spelling.md"
+
+            - name: Vedyakshara Classical
+              if: ${{ !cancelled() }}
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/vedyakshara/guard.py"
+                  --thalorna "$GITHUB_WORKSPACE"
+                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vedyari.md"
+                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Vedyakshara_Spelling.md"
+
             # Every Sinale and Áelendi form and name is set through the
             # `veldikko` mapping note; Sinale must also equal the fonts'
             # converter, code point for code point.
