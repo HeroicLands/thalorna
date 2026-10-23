@@ -1209,6 +1209,7 @@ data:
   tongues: [{tag: nordmal, meaning: "a Nordmal name", language: skill-nordmalng}]
   register:
     - {name: Thalmdal, tongue: nordmal}
+    - {name: Hlusmil Svartrunar, tongue: nordmal}
     - {name: Bjart, tongue: nordmal}
     - {name: Bralvik, tongue: nordmal}
     - {name: Hrandmil, tongue: nordmal}

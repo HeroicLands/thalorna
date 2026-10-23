@@ -20,288 +20,694 @@ data:
 # terran_analog: "Canu Heledd and the Llywarch Hen englynion, for the survivor's refrain over the empty hall; the Kalevala and the Kanteletar, for the line restated by the line that follows; Karelian lament-singing, which calls the dead by name and circumlocution; Finnic origin-charms, which tell how a harm was made so that it can be undone."
 ---
 
-**The Lament of Haulonna**, _Haulonnaren neltava_, is the lament the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] sing on the evening word comes from the north. Word comes seldom and by one person at a time: a Sinalo who went up alone to the valley of [[place-haulonna|Haulonna]], the hearth of the unfallen leaf, comes back down to the wood and says what stands there, and when what stands there is what stood the morning after its fall, the wood sings this that night. A _neltava_ is a lament that calls the dead by name, and it keeps one shape wherever Sinale sing: it opens on [[lore-goddreams|Aulveira]] coming for the one who has died, it calls each of the dead in turn, and it closes on one fixed line, known to every Sinalo, which says that the dead are gathered into [Ollevikko]{.name data-type="place"}, the god's hall, the gathering of the dead. The dead of Haulonna are not gathered. The runes cut into the valley hold their spirits in it, awake, and the god has not come for them, so the singers of the Hallowwood call five of them by name, tell plainly how the valley was shut, and stop where the closing line stands. A name spoken to its bearer takes the falling pitch of a call in [[skill-sinalelng|Sinale]], so the name in the call is not the name in the telling—for [Pelvaila Pelvainto]{.name data-type="being/npc"}, Pelvaila spoken of is Pelvaila called—and the rendering keeps both, the call alone on its line and the telling after it, because the difference between them is the whole of what a call is. The one who had the long watch of the valley, [Ansorutti Lonkunto]{.name data-type="being/npc"}, is never named in the verse: a name said in it is a name called, and the singers do not call him off his watch. An [[lore-aelendnppl|Áelendan embassy]] from across the water, received in the wood on a night word had come, heard the lament sung before anything else was said to it, and asked for it, and was given it together with the account of its shape; the Tradition Keepers hold it as it was given, with the stop where the Sinale stop, and the roll of the paths reached them one line short, so the gap is kept where it fell. It is sung by no human voice anywhere but theirs.
+**The Lament of Haulonna**, _Haulonnaren neltava_, is sung by the [[lore-flksinale|Sinale]] of [[place-hallowwood|the Hallowwood]] when a solitary traveller brings word from [[place-haulonna|Thalmdal]], the valley they call Haulonna, the hearth of the unfallen leaf. The singers call five of its dead: [Pelvaila Pelvainto]{.name data-type="being/npc" lang=sina}, [Kinsatti Hallesinto]{.name data-type="being/npc" lang=sina}, [Kelkasitta Nuominto]{.name data-type="being/npc" lang=sina}, [Toimuvo Sulmento]{.name data-type="being/npc" lang=sina} and [Porkila Ilevanto]{.name data-type="being/npc" lang=sina}. Porkila is kin to the singers; through her, the other four belong to their lament.
+
+A _neltava_ opens with [[lore-goddreams|The God of Dreams]], whom the Sinale call Aulveira. In the singers' account the god takes the dead to [Ollevikko]{.name data-type="place"}, the gathering of the dead. A lament closes with a familiar line affirming that gathering. Haulonna's dead remain captive in the valley, and this lament leaves that line unsung. The long-watcher, [Ansorutti Lonkunto]{.name data-type="being/npc" lang=sina}, is described at work inside the prison and never named in the verse. The singers keep his name and leave him at his watch.
+
+The Sinale verse moves in pairs, with an answering line set inward. Alliteration falls on the first stressed syllables, joining an act to its bearer; the answering line repeats an image or turns it against itself. Each called name keeps its full spelling and takes the falling pitch of direct address in performance. The written reading leaves pitch unmarked. The translation follows the images and sense of the [[skill-sinalelng|Sinale]] lines.
+
+The [[lore-aelendnppl|Áelendan People]] hold the lament as a gift to an embassy received in the Hallowwood. Their Tradition Keepers are the only humans who sing it. Their copy preserves a missing line in the roll of paths, and the singers' silence where the closing line belongs.
 
 : The Lament of Haulonna {#lament}
 
-```verse {form=neltava lang=en}
-Word came down from the north today. One of us came down with it.
-  She went up alone in the spring and came back in the leaf-fall, and she says: it stands.
-It stands as it stood the morning after. Nothing in it has moved.
-  So we sing this tonight, as we sing it every night that word comes and it is not the word.
-You who came over the water today are welcome. You hear this before anything.
-  Sit. It is not long. It is the only thing we have that is not long.
+```verse {form=neltava numstep=5 cols=2}
+1 [Raakke Aulveira ollevinu]{.nativefont lang=sina}
+2 [Aulveira takes one of the dead.]{lang=en}
+2 [Raakke Aulveira ollevinu]{lang=sina}
 
-When one of us dies, and it is seldom,
-  Aulveira comes for the one who has died.
-We do not say how the god comes. We have seen it, and we do not say.
-  The god takes the one who died to the god's hall,
-to Ollevikko, the gathering of the dead,
-  and the one who is taken is gathered there, and that is where they are,
-and it is not a bad hall. We have no better one to sing you.
-  This is how a lament begins among us: it begins with the god,
-so that the dead hear the god's name first, before they hear their own.
-  It ends on a line we all know, which says that they are gathered.
-Between the two we call the dead, each one by name,
-  because a name called turns the one who carries it,
-and the dead turn their heads once more toward us before they go.
-  That is all a lament is for. It is a turning of the head.
-This is the lament of Haulonna, the hearth of the unfallen leaf.
-  It begins as a lament begins. Mark where it ends.
+1 [.Ollevikko onsa velpis]{.nativefont lang=sina}
+2 [.Ollevikko is their home.]{lang=en}
+2 [.Ollevikko onsa velpis]{lang=sina}
 
-Other hearths sing this with other names in it.
-  Every hearth that had one of its own in the valley calls its own, and the valley had many hearths in it.
-We call five. We were far from it; few who sing this were further.
-  We sing it because one of the five was ours, [Porkila Ilevanto]{.name data-type="being/npc" lang=sina}, and the other four were hers.
+1 [Korpe kilpe pauttes]{.nativefont lang=sina}
+2 [A call turns a head.]{lang=en}
+2 [Korpe kilpe pauttes]{lang=sina}
 
-Haulonna is a valley in the north, high, with the rock close on both sides,
-  and the hearth-row along the water, and the trees above the hearth-row, and the pool above the trees.
-It is the hearth of the unfallen leaf, and the name is plain: the leaf did not fall there.
-  The oak kept its leaf through the snow, and the leaf was green under the snow, and the birch kept its leaf,
-and the snow came down the valley and did not reach the ground. It stopped above the ground and was water.
-  The hunters of the north came near it and said so to each other, and were laughed at, and were right.
-It was old. The yews by the hearth-row were the third yews.
-  The first fell, and the second came up out of the first and fell, and the third stood when the valley stood.
-We do not count the years. We count the yews. Three yews is old for a valley, even for us.
-  A few hundred of us were there at the most. Fewer at the end. We have the count.
-The rowans were by the water. The alders were at the foot. The oaks were below the pool.
-  The water came out of the hill at the foot, cold, and ran the length of the hearth-row, and went out under the alders.
-Birds sang there that sing nowhere else in the north, because they came north with us and stayed.
-  The hunters heard the birds and said the song was strange. It was our birds. It was not strange to us.
-In the evening the hearth-row sang. Every hearth sang its own, and the valley held all of it,
-  because the rock was close on both sides, and a song sung at the foot was heard at the pool.
+1 [.Kelsa ollevi olkai onsaa]{.nativefont lang=sina}
+2 [.The dead hear, and leave.]{lang=en}
+2 [.Kelsa ollevi olkai onsaa]{lang=sina}
 
-There was a pool at the top of Haulonna, above the last of the trees,
-  a high pool with a lip of stone, that the sky lay in.
-In the morning a low cloud came up the valley and sat on it,
-  as a low cloud does on high water, every morning there is, out of the north.
-Pelvaila Pelvainto kept the low cloud off the high pool.
-  She went up before the light and sang the cloud down off the water,
-down the slope, into the oaks, where it did no harm and was pretty among the trunks,
-  so that the pool was clear when the first of us came up to it,
-and showed, in the water, what the sky had in it that day,
-  and what the night had had in it, the stars that had stood over the valley,
-for the pool held them a while after the sky let them go. That was what the pool was for.
-  The ones who read dreams went up to it after a hard night, to look at something that held still,
-and she had it clear for them, and went down, and did not ask what they had seen.
-  She did this each morning. She did it when the oaks below the pool were seedlings.
-She said the cloud was her own name and did as it was told.
-  It did not always. Some mornings she was up there a long time.
-Then she came down wet to the hearth-row and ate standing, and said nothing about it,
-  and the pool was clear, and we went up and looked in it.
-Her hearth is the low cloud. Her name is the low cloud. The pool was clear.
-  She kept her own name off the water every morning of her life.
+1 [Luuro ehii Ollevikko]{.nativefont lang=sina}
+2 [We sing of Ollevikko.]{lang=en}
+2 [Luuro ehii Ollevikko]{lang=sina}
 
-Pelvaila.
-  Pelvaila, who kept the cloud off the water.
-The call goes north over the water.
-  The call goes north, and no one turns.
+1 [.Luuro lonku vaikkis]{.nativefont lang=sina}
+2 [.The deep wood sings farewell.]{lang=en}
+2 [.Luuro lonku vaikkis]{lang=sina}
 
-No one found Haulonna twice who was not of it. That was not the valley's doing.
-  [Kinsatti Hallesinto]{.name data-type="being/npc" lang=sina} walked the boundary paths and turned them.
-He went out at the still hour with nothing in his hands
-  and walked each path to where it left the valley, and turned it there,
-so that a path which came in went out again a little further along,
-  and a hunter who came up it came down it on the far side of the ridge
-with the sun on the wrong shoulder and his dog looking at him.
-  A path is turned by walking it with the wish that it go elsewhere,
-and a path takes the wish if it is walked enough, and it takes a long while.
-  A path is a slow thing to persuade. He was not in a hurry. He had the paths from his mother's brother.
-There were eleven paths. Kinsatti said twelve. He counted the river.
-  The path by the rowans, that comes up from the hunters' country.
-The path under the crag, that comes down off the plateau.
-  The path along the water, that the deer made and the hunters found.
-The path over the saddle, that nobody used, and he turned it anyway.
-  The path through the alders. The path from the burnt ground.
-The path from the lake, that is a long one, and he walked the length of it.
-  […]
-The two paths that cross below the high pool, that he turned toward each other,
-  so that a stranger walked a circle and came out where he had gone in
-and thought the valley a small one, and went home, and told it as a tall tale,
-  and we heard the tale, in time, from the ones who go among the hunters, and kept it.
-The hunters' dogs knew. A dog knows a turned path and sits down at the turn of it.
-  The hunters called their dogs stubborn.
-His hearth is white frost. He walked the paths in every frost there was.
-  He had turned them so long he turned them in his sleep, his hearth said,
-and in the morning the hearth was facing the other way.
-  He laughed at that. He said it every winter as if it were new, and laughed at it every winter.
+1 [Haulonna neltava iha]{.nativefont lang=sina}
+2 [This is the lament of Haulonna.]{lang=en}
+2 [Haulonna neltava iha]{lang=sina}
 
-Kinsatti.
-  Kinsatti, who walked the paths and turned them.
-The call goes north over the water.
-  The call goes north, and no one turns.
+1 [.Ahi luuro ehii oltandi]{.nativefont lang=sina}
+2 [.We do not sing the ending.]{lang=en}
+2 [.Ahi luuro ehii oltandi]{lang=sina}
 
-There was a spring at the foot of the valley where the water came out of the hill,
-  a cold spring, the coldest in Haulonna, and the whole hearth-row drank from it.
-In the north a spring like that shuts in the winter. The ice goes in at the mouth of it.
-  [Kelkasitta Nuominto]{.name data-type="being/npc" lang=sina} sang the cold spring open.
-She went down at the still hour, which is her hearth's hour, with a cup,
-  and sat by the shut mouth of the spring and sang to the water behind the ice,
-and the water remembered that it was running, and ran, and the ice let go of the stone,
-  and she filled the cup first, and drank, and it hurt her teeth,
-and then the hearth-row came down with the jars.
-  The hearth of the lifted stone came first, always, with the big jar, and said nothing.
-The hearth of the woven cloth came last and talked, and she waited for them, and filled their jar herself.
-  She did this every winter morning from the first frost to the first thaw.
-She did not sing it open in summer. It did not need her. She said so, and did not go down.
-  In the summer she slept late. It is said of her that she slept late in the summer,
-and that she had earned it, and that she was the one who said she had earned it.
-  One winter it would not open for four mornings, and she sat there four mornings.
-On the fifth it opened. She said nothing to it. She filled the cup.
-  Her name is the cold spring. The cold spring is her name. One of them was always running.
+***
 
-Kelkasitta.
-  Kelkasitta, who sang the spring open.
-The call goes north over the water.
-  The call goes north, and no one turns.
+1 [Patten sinalo vitteltos]{.nativefont lang=sina}
+2 [One of our people returns from the north.]{lang=en}
+2 [Patten sinalo vitteltos]{lang=sina}
 
-[Toimuvo Sulmento]{.name data-type="being/npc" lang=sina} was a child, and had his name one year.
-  He was a child without a name a long while, as our children are.
-We name slowly. A child is a child a long while before it is anyone.
-  The hearth watched him for the thing he was, and said nothing for years, and then said it,
-and he was the turning year: he was not the same two mornings together,
-  and he was never done, and he came around again.
-So they named him, at the first thaw, which is his hearth's time, and he answered to it,
-  and he answered to it loudly, as a child does who has waited for a name.
-He had one thing to do, and it was his. He carried the seed to the birds
-  when the snow was down and the birds came along the hearth-row for it,
-and he knew which bird came first, and said so, and was right.
-  He answered the first time anyone called his name. He answered every time it was called.
-That is the whole of what he tended.
-  It is enough. It is what there was.
+1 [.Pettan onsa evesi ilte setty]{.nativefont lang=sina}
+2 [.They bring one word: standing.]{lang=en}
+2 [.Pettan onsa evesi ilte setty]{lang=sina}
 
-Toimuvo.
-  Toimuvo, who had the seed for the birds.
-The call goes north over the water.
-  The call goes north, and no one turns.
+1 [Setty salpu vennas]{.nativefont lang=sina}
+2 [The trees stand.]{lang=en}
+2 [Setty salpu vennas]{lang=sina}
 
-Porkila Ilevanto was ours. She was a guest there, and should not have been there.
-  She went north from this wood with a basket of apple-seed
-for the hearth of the unfallen leaf, because they had asked for apple-seed,
-  and one does not send seed by a stranger. She went to be a guest one winter.
-She stayed a second winter. She had taken the woodpile.
-  A guest who takes a chore has stayed too long. We say that. We sent it up to her
-by the ones who went up after her, and she sent this back: "The woodpile is badly kept.
-  I am coming when it is kept properly." She split the logs. Her name is the split log.
-She did not sit at a hearth where the wood was split wrong. We know it. We were that hearth.
-  They gave her a word after her name, there, which is how a guest is told she is a guest no longer:
-Porkila of the woodpile. She wore it. She sent it home to us in a message, so that we knew she had taken it,
-  and we laughed, and we were angry, and we sent nothing back, and she knew what that meant.
-Her hearth here is the clear place, and the clear place is here still,
-  and her mother's mother sits in it, and the wood there is split properly, and her mother's mother splits it.
-She should not have been there. She was there. She was ours, and she was theirs by then.
-  She would have said so herself, and did.
+1 [.Ahi velpe lauppinu ilte]{.nativefont lang=sina}
+2 [.Not a single leaf falls.]{lang=en}
+2 [.Ahi velpe lauppinu ilte]{lang=sina}
 
-Porkila of the woodpile.
-  Porkila of the woodpile, who went north with the seed, and stayed.
-The call goes north over the water.
-  The call goes north, and no one turns.
+1 [Serdattota ehii lauppisa salpu unturoho]{.nativefont lang=sina}
+2 [We remember: a tree in leaf in winter.]{lang=en}
+2 [Serdattota ehii lauppisa salpu unturoho]{lang=sina}
 
-This is how it was done. It is sung so that it is known how it was done.
-  It is said plainly, because a thing told plainly can be followed back to its beginning.
-The wards of Haulonna were older than the trees that held them.
-  They were in the roots. The roots were in them. There was no telling the one from the other.
-A man came in by the path over the saddle, the one that nobody used, and that was turned anyway.
-  He came in at night. He was a man of the north, dead already, and walking.
-[[being-hlskmylsvrtrnr|Hlusmil Svartrunar]] is his name. It is said once.
-  He came through the wards. We do not know how. We have gone up since and looked, and we do not know how.
-What he served put a hand under him. It is one of the ones we name Dark.
-  He went in among the hearth-row in the dark, and he cut.
-He cut signs into the ground of Haulonna, into the earth itself, with a knife,
-  black signs, the signs he cuts in flesh, cut into the ground now,
-and he cut them well. He is good at it. We say so. It is so.
-  He did not hurry. He had the whole of the night, and he used the whole of it. We have looked at the signs.
-The ground took the signs. The roots took them from the ground.
-  The wards took them from the roots, as the wards took everything from the roots,
-and the wards turned. The trees turned. The water turned.
-  What had kept the valley kept it still. It kept it shut.
-What had been sung into the roots sang back out of the roots, and it sang wrong.
-  Our own art came at us out of our own trees. We fought with it, and it fought us.
-We fought. It is said that we fought, because it was so, and because it was no use.
-  We sang against it, and the song went into the roots and came back at us with the signs in it.
-We put hands to it, and the trees put branches to us. We had grown those trees.
-  Some of us died in the first hour, and the god did not come, and we did not know yet why the god did not.
-That was not a thing we had known could be done. It was done.
-  It was done in one night, to a hearth of three yews.
+1 [.Luuro sytte vittelho]{.nativefont lang=sina}
+2 [.Birds sang in the north.]{lang=en}
+2 [.Luuro sytte vittelho]{lang=sina}
 
-The one who had the long watch of Haulonna went out against the man.
-  He had the star-staff of the valley, which was older than he was, and he was old.
-He went out with it among the turned trees, and stood,
-  and the man came to him with what he served behind him,
-and the staff broke.
-  The staff broke. It was heard in every hearth. The ones who were still in the hearths heard it.
-Then the wards shut, and the valley was a cage, and what was in it was in it.
-  That is the night. When the light came the leaf had not fallen. It had turned black on the branch.
-The pool at the top is dark. The spring at the foot is shut, and nobody sits by it.
-  The paths go straight in now. Anyone can find it. Nobody goes twice.
+1 [Vonu aunekke]{.nativefont lang=sina}
+2 [The valley was old.]{lang=en}
+2 [Vonu aunekke]{lang=sina}
 
-The hunters of the north go near it still, because the deer go near it and the hunters follow the deer.
-  They know it now by the birds stopping, and by the air, which is cold in the middle of summer, and stale.
-A hunter who feels that on his face turns around and goes down and does not argue with his feet.
-  He has it right. He does not know what he has right. The cold is them. The cold is ours.
-It goes a little further out of the valley in a bad year, over the ridge, down the streams, into the hunters' country.
-  The streams go bad. The lambs come wrong. The hunters have noticed. They have not been told why.
+1 [.Uulse eikka eikka ulsen eikka ulsen]{.nativefont lang=sina}
+2 [.One yew, then another, then another.]{lang=en}
+2 [.Uulse eikka eikka ulsen eikka ulsen]{lang=sina}
 
-The god did not come for them.
-  We say it as we found it. The god comes for the dead, and the god did not come,
-because the door the god comes by was cut over with the man's signs,
-  and what is behind that door is behind it. They are there. They are not gathered.
-They are in the valley, in the roots, in the turned wards, and they are awake.
-  The man draws on them as a hearth draws on a woodpile.
-More than two twenties of us. We have the count. We do not sing the count.
-  We call five. The five stand for the count. The count stands behind the five.
+1 [Luuro aukkessa vennas]{.nativefont lang=sina}
+2 [The hearths sang.]{lang=en}
+2 [Luuro aukkessa vennas]{lang=sina}
 
-The hearth of the low cloud. The hearth of white frost. The hearth of the still hour.
-  The hearth of the first thaw. The hearth of the clear place, which is ours.
-And the hearths we do not call tonight, which are called by their own:
-  the hearth of the lifted stone, that came first to the spring with the big jar;
-the hearth of the woven cloth, that came last and talked;
-  the hearth of the far bank, the hearth of the held breath, the hearth of the small bell;
-the hearth of moss on stone, that was the oldest there, and had its name from before the first yew;
-  the hearth of the wide sky, that had the pool before Pelvaila's hearth had it;
-the hearth of the deep root, that had the alders at the foot and kept them from the water;
-  the hearth of the deep pool, the hearth of the still surface, the hearth of the far call,
-and the hearth of the deep wood, which is his, and is not called until it is done.
-  That is not all of them. It is what one hearth can sing in a night and still sing the five.
+1 [.Kelsa mollu olnaro]{.nativefont lang=sina}
+2 [.The pool heard the song.]{lang=en}
+2 [.Kelsa mollu olnaro]{lang=sina}
 
-Aulveira. You came for the ones before them, every one, for as long as we have been in this world.
-  You come for the ones after them. One of us died in this wood two leaf-falls ago, and you came.
-These you have not come for.
-  We do not say how long. We say that you have not, and that they are there.
-We have sung to you longer than anyone has sung to anyone. We are still singing.
-  We ask you nothing tonight. We tell you where they are. You know where they are.
+***
 
-Some of us go up. They go one at a time, and they go slowly, and they come back or they do not.
-  The ones who come back say what stands there. They have said it for a long while now.
-They say he is there. They say the trees stand and do not fall. They say the ground is cold in the summer.
-  They say the signs are well cut, and that nothing they know undoes a sign so cut without undoing what it holds.
-The last to go up is the one who came down today.
-  She stood at the mouth of the valley a day and a night and did not go in,
-because going in is seldom coming back, and she had been asked to come back. She says: it stands.
-  We are slow. We know it. The younger peoples have told us so, and they are right.
-We are slow, and we are at it, and we have not stopped, and this is the nearest we have to haste.
-  Nobody has asked us to hurry. We would not know how.
+1 [Luuro Pelvaila Pelvainto molluho]{.nativefont lang=sina}
+2 [Pelvaila Pelvainto sang at the pool.]{lang=en}
+2 [Luuro Pelvaila Pelvainto molluho]{lang=sina}
 
-We do not call the one who had the long watch.
-  A call turns the one who carries the name, and we do not want him turned.
-His name is the long watch. He is at it.
-  He is in the valley with the others, and he has not stopped. The ones who go up say so.
-He is turning the signs over in the dark, one at a time, from the inside, as a root turns a stone.
-  It is slow. It is a watch. A watch is slow, or it is not a watch.
-We do not call him off it. We do not say his name at all.
-  A name said in this song is a name called, so it cannot be said here without calling him.
-So it is not said. It is saved for the calling.
-  When it is done, he comes down the valley with the others, and the god comes for them,
-and then we call him, and the call turns his head, and we see his face.
-  We have the line for that.
+1 [.Laukkessa liseri olkai pelvai]{.nativefont lang=sina}
+2 [.The water lay still; the low cloud departed.]{lang=en}
+2 [.Laukkessa liseri olkai pelvai]{lang=sina}
 
-Pelvaila. Kinsatti. Kelkasitta. Toimuvo. Porkila of the woodpile.
-  Five. You five, and the count behind you.
-The call goes north over the water.
-  The call goes north, and no one turns.
+1 [Salpukki torvel tunes]{.nativefont lang=sina}
+2 [The oak was a sapling then.]{lang=en}
+2 [Salpukki torvel tunes]{lang=sina}
 
-Here stands the line that ends a lament.
-  Every one of us knows it. Toimuvo, you knew it, who had your name a year.
+1 [.Luuro onsa lirta torvel]{.nativefont lang=sina}
+2 [.She sang, and the oak grew.]{lang=en}
+2 [.Luuro onsa lirta torvel]{lang=sina}
+
+1 [Paval esseli olkai ossenda]{.nativefont lang=sina}
+2 [The surface opened; night departed.]{lang=en}
+2 [Paval esseli olkai ossenda]{lang=sina}
+
+1 [.Tupe mollu nuuva roselho]{.nativefont lang=sina}
+2 [.In the morning the pool held starlight.]{lang=en}
+2 [.Tupe mollu nuuva roselho]{lang=sina}
+
+1 [Pelvai onsa sirne]{.nativefont lang=sina}
+2 [Her name was the low cloud.]{lang=en}
+2 [Pelvai onsa sirne]{lang=sina}
+
+1 [.Kilpete Pelvaila pelvai]{.nativefont lang=sina}
+2 [.Pelvaila called the cloud.]{lang=en}
+2 [.Kilpete Pelvaila pelvai]{lang=sina}
+
+1 [Ahi helsa pelvai]{.nativefont lang=sina}
+2 [The cloud did not listen.]{lang=en}
+2 [Ahi helsa pelvai]{lang=sina}
+
+1 [.Sennevi ehii sennevi mollu]{.nativefont lang=sina}
+2 [.We waited, and the pool waited.]{lang=en}
+2 [.Sennevi ehii sennevi mollu]{lang=sina}
+
+1 [Mekkis onsa mairel onsa]{.nativefont lang=sina}
+2 [She was wet. She ate,]{lang=en}
+2 [Mekkis onsa mairel onsa]{lang=sina}
+
+1 [.Setty onsa aukkessaho]{.nativefont lang=sina}
+2 [.standing beside the hearth.]{lang=en}
+2 [.Setty onsa aukkessaho]{lang=sina}
+
+1 [Pelvaila]{.nativefont lang=sina}
+2 [Pelvaila.]{lang=en}
+2 [Pelvaila]{lang=sina}
+
+1 [.Kilpete ehii velvai sirne]{.nativefont lang=sina}
+2 [.We call the name of the low cloud.]{lang=en}
+2 [.Kilpete ehii velvai sirne]{lang=sina}
+
+1 [Vaukka kilpe vittel ulpanneho]{.nativefont lang=sina}
+2 [The call travels over the northern sea.]{lang=en}
+2 [Vaukka kilpe vittel ulpanneho]{lang=sina}
+
+1 [.Ahi horpe ollevi]{.nativefont lang=sina}
+2 [.The dead do not turn.]{lang=en}
+2 [.Ahi horpe ollevi]{lang=sina}
+
+***
+
+1 [Korpe Kinsatti Hallesinto leësy vennas]{.nativefont lang=sina}
+2 [Kinsatti Hallesinto turned the paths.]{lang=en}
+2 [Korpe Kinsatti Hallesinto leësy vennas]{lang=sina}
+
+1 [.Sattai onsa nuomiho]{.nativefont lang=sina}
+2 [.He walked at the still hour.]{lang=en}
+2 [.Sattai onsa nuomiho]{lang=sina}
+
+1 [Raakke onsa leësy vennas onsa ennakke maldikatos]{.nativefont lang=sina}
+2 [He took the paths from his mother's sibling.]{lang=en}
+2 [Raakke onsa leësy vennas onsa ennakke maldikatos]{lang=sina}
+
+1 [.Serdattota leësy vennas sattai Kinsatti]{.nativefont lang=sina}
+2 [.The paths remembered; Kinsatti walked.]{lang=en}
+2 [.Serdattota leësy vennas sattai Kinsatti]{lang=sina}
+
+1 [Leësy ilte tovaho]{.nativefont lang=sina}
+2 [Eleven paths.]{lang=en}
+2 [Leësy ilte tovaho]{lang=sina}
+
+1 [.Leësy sipes tovaho evatte onsa]{.nativefont lang=sina}
+2 [.Twelve paths, he said.]{lang=en}
+2 [.Leësy sipes tovaho evatte onsa]{lang=sina}
+
+1 [Leësy lanteppi erme]{.nativefont lang=sina}
+2 [The river was a path as well.]{lang=en}
+2 [Leësy lanteppi erme]{lang=sina}
+
+1 [.Leësy ryssehe leësy harkelho]{.nativefont lang=sina}
+2 [.A path by the rowan; a path by the crag.]{lang=en}
+2 [.Leësy ryssehe leësy harkelho]{lang=sina}
+
+1 [Leësy aldesseho leësy vainessatos]{.nativefont lang=sina}
+2 [A path over the pass; a path from the lake.]{lang=en}
+2 [Leësy aldesseho leësy vainessatos]{lang=sina}
+
+1 [.\[…\]]{lang=sina}
+2 [.\[…\]]{lang=en}
+2 [.\[…\]]{lang=sina}
+
+1 [Korpe leësy sipes molluho]{.nativefont lang=sina}
+2 [Two paths turned at the pool.]{lang=en}
+2 [Korpe leësy sipes molluho]{lang=sina}
+
+1 [.Leëvi rennu lemmes suldinno rennu ulsen]{.nativefont lang=sina}
+2 [.The dog sat down; the hunter found it again.]{lang=en}
+2 [.Leëvi rennu lemmes suldinno rennu ulsen]{lang=sina}
+
+1 [Evatte onsa unturoho]{.nativefont lang=sina}
+2 [In winter he said:]{lang=en}
+2 [Evatte onsa unturoho]{lang=sina}
+
+1 [.Korpe ehi leësy vennas naukkistoho]{.nativefont lang=sina}
+2 [.I turn the paths in bed.]{lang=en}
+2 [.Korpe ehi leësy vennas naukkistoho]{lang=sina}
+
+1 [Korpe aukkessa erme]{.nativefont lang=sina}
+2 [The hearth turns too.]{lang=en}
+2 [Korpe aukkessa erme]{lang=sina}
+
+1 [.Unturo ulsen kilteta Kinsatti]{.nativefont lang=sina}
+2 [.Winter again; Kinsatti laughed.]{lang=en}
+2 [.Unturo ulsen kilteta Kinsatti]{lang=sina}
+
+1 [Kinsatti]{.nativefont lang=sina}
+2 [Kinsatti.]{lang=en}
+2 [Kinsatti]{lang=sina}
+
+1 [.Korpe ovu leësy vennas]{.nativefont lang=sina}
+2 [.You turned the paths.]{lang=en}
+2 [.Korpe ovu leësy vennas]{lang=sina}
+
+1 [Vaukka kilpe vittel ulpanneho]{.nativefont lang=sina}
+2 [The call travels over the northern sea.]{lang=en}
+2 [Vaukka kilpe vittel ulpanneho]{lang=sina}
+
+1 [.Ahi horpe ollevi]{.nativefont lang=sina}
+2 [.The dead do not turn.]{lang=en}
+2 [.Ahi horpe ollevi]{lang=sina}
+
+***
+
+1 [Kilpete Kelkasitta Nuominto kelkasi]{.nativefont lang=sina}
+2 [Kelkasitta Nuominto called the cold spring.]{lang=en}
+2 [Kilpete Kelkasitta Nuominto kelkasi]{lang=sina}
+
+1 [.Leëvi onsa luuro onsa]{.nativefont lang=sina}
+2 [.She sat, and sang.]{lang=en}
+2 [.Leëvi onsa luuro onsa]{lang=sina}
+
+1 [Sennevi onsa roselho pemi]{.nativefont lang=sina}
+2 [She waited four mornings.]{lang=en}
+2 [Sennevi onsa roselho pemi]{lang=sina}
+
+1 [.Setty isketti sennevi onsa]{.nativefont lang=sina}
+2 [.The ice held; she waited.]{lang=en}
+2 [.Setty isketti sennevi onsa]{lang=sina}
+
+1 [Uulse rosel pemi paval kelkasi]{.nativefont lang=sina}
+2 [After four mornings, the spring opened.]{lang=en}
+2 [Uulse rosel pemi paval kelkasi]{lang=sina}
+
+1 [.Raakke onsa melke kaltenho]{.nativefont lang=sina}
+2 [.She took water in a cup.]{lang=en}
+2 [.Raakke onsa melke kaltenho]{lang=sina}
+
+1 [Tenvas ropeli aukkessa]{.nativefont lang=sina}
+2 [The hearth of the lifted stone came.]{lang=en}
+2 [Tenvas ropeli aukkessa]{lang=sina}
+
+1 [.Tupe onsa vautti tolka]{.nativefont lang=sina}
+2 [.They held a tall jar.]{lang=en}
+2 [.Tupe onsa vautti tolka]{lang=sina}
+
+1 [Tenvas lorrami aukkessa]{.nativefont lang=sina}
+2 [The hearth of the woven cloth came.]{lang=en}
+2 [Tenvas lorrami aukkessa]{lang=sina}
+
+1 [.Evatte onsa sennevi Kelkasitta]{.nativefont lang=sina}
+2 [.They talked; Kelkasitta waited.]{lang=en}
+2 [.Evatte onsa sennevi Kelkasitta]{lang=sina}
+
+1 [Naukki Kelkasitta autemelho]{.nativefont lang=sina}
+2 [In summer, Kelkasitta slept.]{lang=en}
+2 [Naukki Kelkasitta autemelho]{lang=sina}
+
+1 [.Ahi hilpete kelkasi onsa]{.nativefont lang=sina}
+2 [.The spring did not call her.]{lang=en}
+2 [.Ahi hilpete kelkasi onsa]{lang=sina}
+
+1 [Kelkasitta]{.nativefont lang=sina}
+2 [Kelkasitta.]{lang=en}
+2 [Kelkasitta]{lang=sina}
+
+1 [.Kelsa melke ovu evette]{.nativefont lang=sina}
+2 [.The water heard your voice.]{lang=en}
+2 [.Kelsa melke ovu evette]{lang=sina}
+
+1 [Vaukka kilpe vittel ulpanneho]{.nativefont lang=sina}
+2 [The call travels over the northern sea.]{lang=en}
+2 [Vaukka kilpe vittel ulpanneho]{lang=sina}
+
+1 [.Ahi horpe ollevi]{.nativefont lang=sina}
+2 [.The dead do not turn.]{lang=en}
+2 [.Ahi horpe ollevi]{lang=sina}
+
+***
+
+1 [Nysse Toimuvo Sulmento]{.nativefont lang=sina}
+2 [Toimuvo Sulmento was a child.]{lang=en}
+2 [Nysse Toimuvo Sulmento]{lang=sina}
+
+1 [.Sennevi aukkessa onsa sirne]{.nativefont lang=sina}
+2 [.The hearth waited for his name.]{lang=en}
+2 [.Sennevi aukkessa onsa sirne]{lang=sina}
+
+1 [Tupe Toimuvo sirne]{.nativefont lang=sina}
+2 [Toimuvo bore a name.]{lang=en}
+2 [Tupe Toimuvo sirne]{lang=sina}
+
+1 [.Toimunu ilte onsa sirne sennave]{.nativefont lang=sina}
+2 [.His name was a year old.]{lang=en}
+2 [.Toimunu ilte onsa sirne sennave]{lang=sina}
+
+1 [Kilpete aukkessa onsa sirne]{.nativefont lang=sina}
+2 [The hearth called his name.]{lang=en}
+2 [Kilpete aukkessa onsa sirne]{lang=sina}
+
+1 [.Vandel onsa aurannos]{.nativefont lang=sina}
+2 [.He always answered.]{lang=en}
+2 [.Vandel onsa aurannos]{lang=sina}
+
+1 [Nysse peve neëre ehii onsaa]{.nativefont lang=sina}
+2 [We have few children. We love them.]{lang=en}
+2 [Nysse peve neëre ehii onsaa]{lang=sina}
+
+1 [.Sennevi aukkessa onsa evette]{.nativefont lang=sina}
+2 [.The hearth waited for his voice.]{lang=en}
+2 [.Sennevi aukkessa onsa evette]{lang=sina}
+
+1 [Tupe Toimuvo aimetti]{.nativefont lang=sina}
+2 [Toimuvo held the seed.]{lang=en}
+2 [Tupe Toimuvo aimetti]{lang=sina}
+
+1 [.Tenvas sytte nykehe]{.nativefont lang=sina}
+2 [.The birds came in the snow.]{lang=en}
+2 [.Tenvas sytte nykehe]{lang=sina}
+
+1 [Sirneta onsa eirandi sytteny]{.nativefont lang=sina}
+2 [He named the first bird.]{lang=en}
+2 [Sirneta onsa eirandi sytteny]{lang=sina}
+
+1 [.Tenvas sytteny oso sirneta onsa]{.nativefont lang=sina}
+2 [.The bird he named came.]{lang=en}
+2 [.Tenvas sytteny oso sirneta onsa]{lang=sina}
+
+1 [Kelsa aukkessa kelsa ehii]{.nativefont lang=sina}
+2 [The hearth listened; we listened.]{lang=en}
+2 [Kelsa aukkessa kelsa ehii]{lang=sina}
+
+1 [.Serdattota ehii onsa evette]{.nativefont lang=sina}
+2 [.We remember his voice.]{lang=en}
+2 [.Serdattota ehii onsa evette]{lang=sina}
+
+1 [Toimuvo]{.nativefont lang=sina}
+2 [Toimuvo.]{lang=en}
+2 [Toimuvo]{lang=sina}
+
+1 [.Vandel ovu aurannos]{.nativefont lang=sina}
+2 [.You always answered.]{lang=en}
+2 [.Vandel ovu aurannos]{lang=sina}
+
+1 [Vaukka kilpe vittel ulpanneho]{.nativefont lang=sina}
+2 [The call travels over the northern sea.]{lang=en}
+2 [Vaukka kilpe vittel ulpanneho]{lang=sina}
+
+1 [.Ahi horpe ollevi]{.nativefont lang=sina}
+2 [.The dead do not turn.]{lang=en}
+2 [.Ahi horpe ollevi]{lang=sina}
+
+***
+
+1 [Ehii ernatti Porkila Ilevanto]{.nativefont lang=sina}
+2 [Porkila Ilevanto was our kin.]{lang=en}
+2 [Ehii ernatti Porkila Ilevanto]{lang=sina}
+
+1 [.Pettan onsa lamaine aimetti]{.nativefont lang=sina}
+2 [.She brought apple seed.]{lang=en}
+2 [.Pettan onsa lamaine aimetti]{lang=sina}
+
+1 [Ellevi onsa Haulonnaho]{.nativefont lang=sina}
+2 [She was a guest in Haulonna.]{lang=en}
+2 [Ellevi onsa Haulonnaho]{lang=sina}
+
+1 [.Sendeppi onsa unturoho ulsen]{.nativefont lang=sina}
+2 [.She stayed another winter.]{lang=en}
+2 [.Sendeppi onsa unturoho ulsen]{lang=sina}
+
+1 [Porkita Porkila setty porkikko]{.nativefont lang=sina}
+2 [Porkila split the wood; the woodpile stood.]{lang=en}
+2 [Porkita Porkila setty porkikko]{lang=sina}
+
+1 [.Kilpete ehii vandel onsa]{.nativefont lang=sina}
+2 [.We called. She answered:]{lang=en}
+2 [.Kilpete ehii vandel onsa]{lang=sina}
+
+1 [Ahi supe porkikko aiva]{.nativefont lang=sina}
+2 [The woodpile does not hold itself up.]{lang=en}
+2 [Ahi supe porkikko aiva]{lang=sina}
+
+1 [.Porkita ehi patten ehi uulse]{.nativefont lang=sina}
+2 [.I split the wood; I shall come back afterwards.]{lang=en}
+2 [.Porkita ehi patten ehi uulse]{lang=sina}
+
+1 [Porkikko onsa ennasi]{.nativefont lang=sina}
+2 [Woodpile was added to her name.]{lang=en}
+2 [Porkikko onsa ennasi]{lang=sina}
+
+1 [.Kilteta ehii ahi vandel ehii]{.nativefont lang=sina}
+2 [.We laughed, and sent no answer.]{lang=en}
+2 [.Kilteta ehii ahi vandel ehii]{lang=sina}
+
+1 [Onsaa ernatti onsa ehii ernatti onsa]{.nativefont lang=sina}
+2 [She was their kin. She was ours.]{lang=en}
+2 [Onsaa ernatti onsa ehii ernatti onsa]{lang=sina}
+
+1 [.Neëre onsa aukkessa sipes]{.nativefont lang=sina}
+2 [.She loved two hearths.]{lang=en}
+2 [.Neëre onsa aukkessa sipes]{lang=sina}
+
+1 [Leëvi onsa tultasi ihaho]{.nativefont lang=sina}
+2 [Her mother's mother sits here.]{lang=en}
+2 [Leëvi onsa tultasi ihaho]{lang=sina}
+
+1 [.Porkita tultasi setty porkikko]{.nativefont lang=sina}
+2 [.Her mother's mother splits the wood; the woodpile stands.]{lang=en}
+2 [.Porkita tultasi setty porkikko]{lang=sina}
+
+1 [Ileva ihaho]{.nativefont lang=sina}
+2 [The clear place, here.]{lang=en}
+2 [Ileva ihaho]{lang=sina}
+
+1 [.Tupe aukkessa Porkila sirne]{.nativefont lang=sina}
+2 [.The hearth keeps Porkila's name.]{lang=en}
+2 [.Tupe aukkessa Porkila sirne]{lang=sina}
+
+1 [Porkila]{.nativefont lang=sina}
+2 [Porkila.]{lang=en}
+2 [Porkila]{lang=sina}
+
+1 [.Porkikko ovu ennasi]{.nativefont lang=sina}
+2 [.Woodpile was added to your name.]{lang=en}
+2 [.Porkikko ovu ennasi]{lang=sina}
+
+1 [Vaukka kilpe vittel ulpanneho]{.nativefont lang=sina}
+2 [The call travels over the northern sea.]{lang=en}
+2 [Vaukka kilpe vittel ulpanneho]{lang=sina}
+
+1 [.Ahi horpe ollevi]{.nativefont lang=sina}
+2 [.The dead do not turn.]{lang=en}
+2 [.Ahi horpe ollevi]{lang=sina}
+
+***
+
+1 [Orti nylkihe nylki ortiho]{.nativefont lang=sina}
+2 [A ward in the root; a root in the ward.]{lang=en}
+2 [Orti nylkihe nylki ortiho]{lang=sina}
+
+1 [.Vonu orti salputos]{.nativefont lang=sina}
+2 [.The ward was older than the tree.]{lang=en}
+2 [.Vonu orti salputos]{lang=sina}
+
+1 [Ulpes muuvunu ossendaho]{.nativefont lang=sina}
+2 [A man came in at night.]{lang=en}
+2 [Ulpes muuvunu ossendaho]{lang=sina}
+
+1 [.Selkorosa onsa sattai onsa]{.nativefont lang=sina}
+2 [.He was dead. He walked.]{lang=en}
+2 [.Selkorosa onsa sattai onsa]{lang=sina}
+
+1 [Hlusmil Svartrunar]{.nativefont lang=sina}
+2 [[being-hlskmylsvrtrnr|Hlusmil Svartrunar]]{lang=sina}[.]{lang=en}
+2 [Hlusmil Svartrunar]{lang=sina}
+
+1 [.Uulse onsa sirne hissel]{.nativefont lang=sina}
+2 [.After his name, silence.]{lang=en}
+2 [.Uulse onsa sirne hissel]{lang=sina}
+
+1 [Halte onsa maldes kuse terka]{.nativefont lang=sina}
+2 [He cut the earth with a knife.]{lang=en}
+2 [Halte onsa maldes kuse terka]{lang=sina}
+
+1 [.Hissel aukkessa halte onsa]{.nativefont lang=sina}
+2 [.The hearth was silent. He carved.]{lang=en}
+2 [.Hissel aukkessa halte onsa]{lang=sina}
+
+1 [Halte onsa naldu tekkire vennas]{.nativefont lang=sina}
+2 [He carved dark signs.]{lang=en}
+2 [Halte onsa naldu tekkire vennas]{lang=sina}
+
+1 [.Irnasa onsa yinse ehii]{.nativefont lang=sina}
+2 [.He was skilled; we see it.]{lang=en}
+2 [.Irnasa onsa yinse ehii]{lang=sina}
+
+1 [Raakke maldes tekkire vennas]{.nativefont lang=sina}
+2 [The earth took the signs.]{lang=en}
+2 [Raakke maldes tekkire vennas]{lang=sina}
+
+1 [.Raakke nylki tekkire vennas]{.nativefont lang=sina}
+2 [.The root took the signs.]{lang=en}
+2 [.Raakke nylki tekkire vennas]{lang=sina}
+
+1 [Korpe orti korpe orvakka]{.nativefont lang=sina}
+2 [The ward turned; the living wood turned.]{lang=en}
+2 [Korpe orti korpe orvakka]{lang=sina}
+
+1 [.Kalpe orti aukkessa vennas]{.nativefont lang=sina}
+2 [.The ward shut the hearths in.]{lang=en}
+2 [.Kalpe orti aukkessa vennas]{lang=sina}
+
+1 [Lirta ehii salpu vennas]{.nativefont lang=sina}
+2 [We had grown those trees.]{lang=en}
+2 [Lirta ehii salpu vennas]{lang=sina}
+
+1 [.Talkevita salpu vennas ehii]{.nativefont lang=sina}
+2 [.The trees wounded us.]{lang=en}
+2 [.Talkevita salpu vennas ehii]{lang=sina}
+
+1 [Luuro ehii nylkihe]{.nativefont lang=sina}
+2 [We sang at the root.]{lang=en}
+2 [Luuro ehii nylkihe]{lang=sina}
+
+1 [.Patten olnaro kuse tekkire vennas]{.nativefont lang=sina}
+2 [.The song came back with the signs.]{lang=en}
+2 [.Patten olnaro kuse tekkire vennas]{lang=sina}
+
+1 [Hurravata ehii hurravata orvakka]{.nativefont lang=sina}
+2 [We fought; the living wood fought.]{lang=en}
+2 [Hurravata ehii hurravata orvakka]{lang=sina}
+
+1 [.Neëre ehii salpu vennas]{.nativefont lang=sina}
+2 [.We loved those trees.]{lang=en}
+2 [.Neëre ehii salpu vennas]{lang=sina}
+
+***
+
+1 [Erdavi ansorun nuuvavarnotti]{.nativefont lang=sina}
+2 [The long-watcher carried the star-staff.]{lang=en}
+2 [Erdavi ansorun nuuvavarnotti]{lang=sina}
+
+1 [.Setty onsa salpukkoho]{.nativefont lang=sina}
+2 [.He stood in the grove.]{lang=en}
+2 [.Setty onsa salpukkoho]{lang=sina}
+
+1 [Tenvas nauldinno tahke nuuvavarnotti]{.nativefont lang=sina}
+2 [The binder of the dead came; the star-staff broke.]{lang=en}
+2 [Tenvas nauldinno tahke nuuvavarnotti]{lang=sina}
+
+1 [.Kelsa aukkessa vennas]{.nativefont lang=sina}
+2 [.The hearths heard it.]{lang=en}
+2 [.Kelsa aukkessa vennas]{lang=sina}
+
+1 [Kalpe orti aunekke]{.nativefont lang=sina}
+2 [The ward closed the valley.]{lang=en}
+2 [Kalpe orti aunekke]{lang=sina}
+
+1 [.Nauldisto Haulonna]{.nativefont lang=sina}
+2 [.Haulonna was a prison.]{lang=en}
+2 [.Nauldisto Haulonna]{lang=sina}
+
+1 [Nauldi tekkire vennas aittevi vennas]{.nativefont lang=sina}
+2 [The signs bound the spirits.]{lang=en}
+2 [Nauldi tekkire vennas aittevi vennas]{lang=sina}
+
+1 [.Hesse ollevi ahi naukki onsaa]{.nativefont lang=sina}
+2 [.The dead wake, and do not sleep.]{lang=en}
+2 [.Hesse ollevi ahi naukki onsaa]{lang=sina}
+
+1 [Nauldinno porkikko ollevi]{.nativefont lang=sina}
+2 [The dead are the binder's woodpile.]{lang=en}
+2 [Nauldinno porkikko ollevi]{lang=sina}
+
+1 [.Tupe orti ahi vausse orti]{.nativefont lang=sina}
+2 [.The ward holds. The ward does not release.]{lang=en}
+2 [.Tupe orti ahi vausse orti]{lang=sina}
+
+***
+
+1 [Naldu mollu nelkis melke]{.nativefont lang=sina}
+2 [The pool is dark, the water still.]{lang=en}
+2 [Naldu mollu nelkis melke]{lang=sina}
+
+1 [.Aamassa leëviste kelkasiho]{.nativefont lang=sina}
+2 [.An empty seat beside the spring.]{lang=en}
+2 [.Aamassa leëviste kelkasiho]{lang=sina}
+
+1 [Ahi senvas Aulveira]{.nativefont lang=sina}
+2 [Aulveira did not come.]{lang=en}
+2 [Ahi senvas Aulveira]{lang=sina}
+
+1 [.Kalpe tekkire vennas ovaikke]{.nativefont lang=sina}
+2 [.The signs close the door.]{lang=en}
+2 [.Kalpe tekkire vennas ovaikke]{lang=sina}
+
+1 [Ahi eho ollevi Ollevikkoho]{.nativefont lang=sina}
+2 [These dead are not in Ollevikko.]{lang=en}
+2 [Ahi eho ollevi Ollevikkoho]{lang=sina}
+
+1 [.Nylkihe onsaa nauldistoho onsaa]{.nativefont lang=sina}
+2 [.They are in the root, in the prison.]{lang=en}
+2 [.Nylkihe onsaa nauldistoho onsaa]{lang=sina}
+
+1 [Aulveira erni ovu]{.nativefont lang=sina}
+2 [Aulveira, you know.]{lang=en}
+2 [Aulveira erni ovu]{lang=sina}
+
+1 [.Eho onsaa Haulonnaho]{.nativefont lang=sina}
+2 [.They are in Haulonna.]{lang=en}
+2 [.Eho onsaa Haulonnaho]{lang=sina}
+
+1 [Luuro ehii luuro lonku]{.nativefont lang=sina}
+2 [We sing. The wood sings.]{lang=en}
+2 [Luuro ehii luuro lonku]{lang=sina}
+
+1 [.Ahi hessave ehii soumai]{.nativefont lang=sina}
+2 [.We ask no blessing.]{lang=en}
+2 [.Ahi hessave ehii soumai]{lang=sina}
+
+***
+
+1 [Patten sinalo evatte onsa]{.nativefont lang=sina}
+2 [One of our people returns and says:]{lang=en}
+2 [Patten sinalo evatte onsa]{lang=sina}
+
+1 [.Ansoruta ansorun nauldistoho]{.nativefont lang=sina}
+2 [.The long-watcher keeps watch in the prison.]{lang=en}
+2 [.Ansoruta ansorun nauldistoho]{lang=sina}
+
+1 [Korpe onsa tekkire ilte]{.nativefont lang=sina}
+2 [He turns a single sign.]{lang=en}
+2 [Korpe onsa tekkire ilte]{lang=sina}
+
+1 [.Korpe nylki valki]{.nativefont lang=sina}
+2 [.A root turns a stone.]{lang=en}
+2 [.Korpe nylki valki]{lang=sina}
+
+1 [Ukken iha ahi laukkessa onsa]{.nativefont lang=sina}
+2 [It is slow. He does not rest.]{lang=en}
+2 [Ukken iha ahi laukkessa onsa]{lang=sina}
+
+1 [.Ahi naukki ansorun hurravata onsa]{.nativefont lang=sina}
+2 [.The long-watcher does not sleep. He fights.]{lang=en}
+2 [.Ahi naukki ansorun hurravata onsa]{lang=sina}
+
+1 [Ahi hilpete ehii ansorun]{.nativefont lang=sina}
+2 [We do not call the long-watcher.]{lang=en}
+2 [Ahi hilpete ehii ansorun]{lang=sina}
+
+1 [.Tupe ehii onsa sirne]{.nativefont lang=sina}
+2 [.We hold his name.]{lang=en}
+2 [.Tupe ehii onsa sirne]{lang=sina}
+
+***
+
+1 [Pelvaila Kinsatti Kelkasitta]{.nativefont lang=sina}
+2 [Pelvaila. Kinsatti. Kelkasitta.]{lang=en}
+2 [Pelvaila Kinsatti Kelkasitta]{lang=sina}
+
+1 [.Toimuvo Porkila]{.nativefont lang=sina}
+2 [.Toimuvo. Porkila.]{lang=en}
+2 [.Toimuvo Porkila]{lang=sina}
+
+1 [Sirne letta ollevi vennas]{.nativefont lang=sina}
+2 [Five names; many dead.]{lang=en}
+2 [Sirne letta ollevi vennas]{lang=sina}
+
+1 [.Kilpete ehii kelsa ehii hissel]{.nativefont lang=sina}
+2 [.We call, and hear silence.]{lang=en}
+2 [.Kilpete ehii kelsa ehii hissel]{lang=sina}
+
+1 [Vaukka kilpe vittel ulpanneho]{.nativefont lang=sina}
+2 [The call travels over the northern sea.]{lang=en}
+2 [Vaukka kilpe vittel ulpanneho]{lang=sina}
+
+1 [.Ahi horpe ollevi]{.nativefont lang=sina}
+2 [.The dead do not turn.]{lang=en}
+2 [.Ahi horpe ollevi]{lang=sina}
+
+1 [Oltandi tylne ihaho]{.nativefont lang=sina}
+2 [Here, the final line.]{lang=en}
+2 [Oltandi tylne ihaho]{lang=sina}
+
+1 [.Erni ovu onsa Toimuvo]{.nativefont lang=sina}
+2 [.You knew it, Toimuvo.]{lang=en}
+2 [.Erni ovu onsa Toimuvo]{lang=sina}
 ```
 
 ## See Also

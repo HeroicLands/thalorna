@@ -390,12 +390,12 @@ A word of two syllables is stressed on the first. A longer word is stressed on t
 
 ### Marks
 
-A word carries at most one mark, and a mark appears for one of two reasons.
+In common spelling a word carries at most one mark, and a mark appears for one of two reasons. Sinale performance notation is an exception, described below.
 
 - An **acute** (_á_) marks a stressed syllable that the rule above would not choose. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
 - A **diaeresis** (_ë_) marks a vowel sounded apart from the vowel before it, as in _Zoë_.
 
-No other mark is used.
+No other mark is used in common spelling; Sinale may also annotate pitch and emphasis.
 
 ### The apostrophe
 
@@ -403,7 +403,7 @@ An apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mar
 
 ### What is not written
 
-Tone and nasal vowels are not written. Vowel length is written only by a doubled vowel; a single vowel is not marked for length.
+Common spelling leaves tone and nasal vowels unwritten. Sinale may annotate pitch as described below. Vowel length is written only by a doubled vowel; a single vowel is not marked for length.
 
 ## Áelendi
 
@@ -509,9 +509,21 @@ In [[skill-kalihrlng|Kalihari]], _ao_ is _ah-oh_ run into one syllable, near the
 
 At the start of a word in [[skill-okharclng|Okharik]], _mb_, _nd_, _ng_, _nk_ and _nt_ are each one sound, the nasal running straight into the next letter, as in _Mbaka_, _Ndori_ and _ngor_; _ngw_ is that _ng_ with a _w_ after it, as in _ngwelo_.[^okharic-nasal]
 
-## Sinale
+## Sinale {#sinale}
 
 [[skill-sinalelng|Sinale]] stresses the first syllable of every word, whatever its length.
+
+Sinale may annotate a performance on the selected vowel nucleus. These marks change delivery, not the vowel's identity or the fixed first-syllable stress:
+
+| Delivery      | Roman example and Unicode                        | Combining mark                     | Veldikko font assignment |
+| ------------- | ------------------------------------------------ | ---------------------------------- | ------------------------ |
+| falling pitch | _ǎ_, U+01CE LATIN SMALL LETTER A WITH CARON      | U+030C COMBINING CARON             | FALL, U+1ED7A            |
+| rising pitch  | _â_, U+00E2 LATIN SMALL LETTER A WITH CIRCUMFLEX | U+0302 COMBINING CIRCUMFLEX ACCENT | RISE, U+1ED79            |
+| emphasis      | _á_, U+00E1 LATIN SMALL LETTER A WITH ACUTE      | U+0301 COMBINING ACUTE ACCENT      | EMPHASIS, U+1ED7B        |
+
+The native values are assignments in the project's Veldikko font, not Unicode-standard names for Veldikko letters. The combining marks allow the same notation on other vowels. Existing _ë_ (U+00EB LATIN SMALL LETTER E WITH DIAERESIS) remains a distinct Sinale vowel.
+
+_Pelvailǎ_ marks a falling call, _Pelvailâ_ a rise, and _Pélvaila_ emphasis on the first syllable. A called name keeps its full spelling and never wears. Acute emphasis may accompany one pitch mark; caron and circumflex are mutually exclusive. An unmarked line still has spoken pitch. Written questions retain _uvi_; a rise does not replace the question particle.
 
 ## Tantsou
 
