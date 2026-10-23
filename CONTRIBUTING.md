@@ -138,15 +138,15 @@ A rank note describes the standing and carries no level. The level lives in the
 `ranks:` data of each affiliation that confers the standing, so one note can
 serve ladders that place it at different levels.
 
-An English rank title stays when it names the standing the culture actually
+A rank title in the reader's language stays when it names the standing the culture actually
 confers, since ranks read in the reader's tongue as bynames do. A title changes
 where it names the wrong kind of standing, where it is out of its period, or
 where the culture's own notes already name the standing natively.
 
-A rank note's full name is never a bare common English word such as _King_ or
+A rank note's full name is never a bare common word in the reader's language such as _King_ or
 _Thrall_: the full name must identify the culture's particular standing. The
 note takes the culture's own word, entered in that language's dictionary, and
-the English word stays in its description.
+the translated word stays in its description.
 
 ## Aliases
 

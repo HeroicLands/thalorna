@@ -325,7 +325,7 @@ data:
 
 Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives names and coined words one set of readings. Aelwythi keeps readable word spellings and has its own pronunciation section.
 
-Ease of speaking comes first. Where a sound is hard for an English speaker, a footnote gives a plain sound to use instead, and the plain sound is always correct.
+Ease of speaking comes first. Where a sound is hard for a reader, a footnote gives a plain sound to use instead, and the plain sound is always correct.
 
 ## Common pronunciation
 
@@ -358,7 +358,7 @@ A pair of vowels not in this table is sounded apart, each vowel on its own, as i
 
 ### Consonants
 
-Consonants have their usual English values, with these points.
+Consonants have their usual values in the reader's language, with these points.
 
 | Spelling          | Sounds like                                                                       |
 | ----------------- | --------------------------------------------------------------------------------- |
@@ -382,7 +382,7 @@ The letter _c_ appears only inside _ch_; a hard _c_ sound is written _k_. The le
 
 ### Syllables
 
-Every syllable has a written vowel. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. Where two consonants open a word in a pair English does not use, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath.[^h]
+Every syllable has a written vowel. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. Where two consonants open a word in a pair unfamiliar in the reader's language, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath.[^h]
 
 ### Stress
 
@@ -417,12 +417,10 @@ letters, variable vowels and lexical stress belong to this spelling; the
 common transcription's fixed vowel, stress and apostrophe rules do not apply.
 The prose explaining the language uses ordinary modern wording.
 
-The inventory follows David Crystal's
-[_Oxford Dictionary of Original Shakespearean Pronunciation_, introduction,
-pp. xli–xlvii](https://api.pageplace.de/preview/DT0400.9780191645433_A30390764/preview-9780191645433_A30390764.pdf#page=42).
+The inventory follows the
+[introductory pronunciation tables, pp. xli–xlvii](https://api.pageplace.de/preview/DT0400.9780191645433_A30390764/preview-9780191645433_A30390764.pdf#page=42).
 It is a usable reconstruction with lexical and regional alternatives. For a
-particular word's reading, consult that dictionary or the
-[paired modern and historical recordings](https://www.shakespeareswords.com/Public/About/Audio.aspx).
+particular word's reading, consult the linked reference.
 [Paul Meier's sound demonstrations](https://www.paulmeier.com/OP.pdf#page=7)
 provide an introduction to the accent.
 
@@ -551,7 +549,7 @@ In [[skill-tantsoulng|Tantsou]], _ao_ is _ah-oh_ run into one syllable, near the
 
 [^double]: The consonant said once is always fine.
 
-[^pair]: A slight vowel between the two consonants is always fine, and so is a silent _k_ or _g_ before _n_, as English says _knee_.
+[^pair]: A slight vowel between the two consonants is always fine, and so is a silent _k_ or _g_ before _n_, as in _knee_.
 
 [^h]: A silent _h_ is always fine.
 

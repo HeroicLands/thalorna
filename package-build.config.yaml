@@ -701,7 +701,7 @@ packageBuild:
             allowBugReporter: true
         languages:
             - lang: en
-              name: English
+              name: Reader's language
               path: lang/en.json
         esmodules:
             - thalorna.mjs

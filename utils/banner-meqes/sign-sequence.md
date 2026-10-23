@@ -2,7 +2,7 @@
 
 The Khelathu banner is a posthumous memorial of Meqes VI in ten registers of tightly packed quadrats, with figure scenes two registers tall. The balance of accounts frames it (the heading and the weighing); the reign fills the wall between. Every sign is a drawn sign of Khelathi Zethu Glyphs. `sign-sequence.json` holds the same sequence as data, and `render.py` draws the banner from it.
 
-## The English text
+## The translated text
 
 `[square brackets]` mark text restored from the approved inscription; `{braces}` mark formulas added from the Stela of Kuz'Uqa, the Hymn of the Sun Lord and the culture notes (sources below). Each episode is one paragraph; its registers follow it.
 

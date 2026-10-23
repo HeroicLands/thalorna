@@ -234,6 +234,8 @@ data:
       holds: "The head-words that open the name of a body and say what kind of body it is: a house, a guild, a temple, an order, a court."
     - {name: "Numbers", holds: "The numerals, one to ten, a hundred and a thousand."}
     - {name: "Doing", holds: "The verbs, each one form that does not change."}
+    - name: "Everyday speech"
+      holds: "Words and whole expressions for ordinary life, with their spoken uses."
   affixes:
     - {form: "-Zalu", gloss: "south", native: [{map: zethu, text: "𞭝"}]}
     - {form: "-Miglet", gloss: "north", native: [{map: zethu, text: "𞰭"}]}
@@ -265,16 +267,19 @@ data:
       field: "Particles"
       gloss: "of, toward—the linking particle, and the one a commoner's byname hangs on"
       native: [{map: zethu, text: "𞭗"}]
+      concept: ["toward", "to"]
     - form: "elu"
       class: "part"
       field: "Particles"
       gloss: "of, upon"
       native: [{map: zethu, text: "𞭗"}]
+      concept: "on"
     - form: "ezu"
       class: "part"
       field: "Particles"
       gloss: "in"
       native: [{map: zethu, text: "𞭗"}]
+      concept: "in"
     - form: "agu"
       class: "part"
       field: "Particles"
@@ -349,7 +354,6 @@ data:
       class: "stem"
       field: "Rank morphemes"
       gloss: "heart, and the account a heart answers for"
-      concept: heart
       native: [{map: zethu, text: "𞪻"}]
     - form: "Wazu"
       class: "stem"
@@ -449,6 +453,7 @@ data:
       field: "Occupations"
       gloss: "the old way, and the traditionalists' work-word"
       native: [{map: zethu, text: "𞰊"}]
+      concept: "tradition"
     - form: "rethu"
       class: "n"
       field: "Occupations"
@@ -469,6 +474,7 @@ data:
       field: "Occupations"
       gloss: "the field, and the farmers' work-word"
       native: [{map: zethu, text: "𞭏"}]
+      concept: "field"
     - form: "zeghet"
       class: "n"
       field: "Occupations"
@@ -723,6 +729,7 @@ data:
       field: "Temple, arcane and cosmology"
       gloss: the river
       native: [{map: zethu, text: "𞭈"}]
+      concept: "river"
     - form: Zulaten
       class: name
       field: "Temple, arcane and cosmology"
@@ -748,6 +755,7 @@ data:
       field: "Temple, arcane and cosmology"
       gloss: a year of the count from the Qet Telgu
       native: [{map: zethu, text: "𞭃"}]
+      concept: "year"
     - form: Halzunet
       class: name
       field: "Temple, arcane and cosmology"
@@ -794,6 +802,7 @@ data:
       field: "Temple, arcane and cosmology"
       gloss: "the disk, the sun's visible body"
       native: [{map: zethu, text: "𞬲"}]
+      concept: "sun"
     - form: qamzet
       class: adj
       field: "Temple, arcane and cosmology"
@@ -925,6 +934,7 @@ data:
       field: "Doing"
       gloss: "measure; read off a gauge, a field or a river"
       native: [{map: zethu, text: "𞩱"}]
+      concept: "measure-verb"
     - form: ghamuz
       class: v
       field: "Doing"
@@ -940,23 +950,31 @@ data:
       field: "Doing"
       gloss: "strike, spear"
       native: [{map: zethu, text: "𞮤"}]
+      concept: "hit"
     - form: tegul
       class: v
       field: "Doing"
       gloss: "divide, share out"
       native: [{map: zethu, text: "𞯵"}]
+      concept: "share"
     - form: nelgen
       class: v
       field: "Doing"
       gloss: "offer, give to a god"
       native: [{map: zethu, text: "𞮴"}]
     - {form: qathez, class: v, field: "Doing", gloss: "seal", native: [{map: zethu, text: "𞮪"}]}
-    - {form: muzan, class: v, field: "Doing", gloss: "build", native: [{map: zethu, text: "𞭼"}]}
+    - "form": "muzan"
+      "class": "v"
+      "field": "Doing"
+      "gloss": "build"
+      "native": [{"map": "zethu", "text": "𞭼"}]
+      "concept": "build"
     - form: lagath
       class: v
       field: "Doing"
       gloss: "guard, keep"
       native: [{map: zethu, text: "𞩸"}]
+      concept: "defend"
     - {form: tazul, class: v, field: "Doing", gloss: "mourn", native: [{map: zethu, text: "𞪆"}]}
     - form: nelgat
       class: n
@@ -1041,6 +1059,5647 @@ data:
       field: "Occupations"
       gloss: "bearer"
       native: [{map: zethu, text: "𞩵"}]
+    - form: nazu
+      class: pron
+      field: Everyday speech
+      gloss: I; me, the speaker
+      source: {kind: coined}
+      concept: i
+    - form: telu
+      class: pron
+      field: Everyday speech
+      gloss: you, the person addressed; used without marking number
+      source: {kind: coined}
+      concept: you-reference
+    - form: saru
+      class: pron
+      field: Everyday speech
+      gloss: he; him
+      source: {kind: coined}
+      concept: he
+    - form: sari
+      class: pron
+      field: Everyday speech
+      gloss: she; her
+      source: {kind: coined}
+      concept: she
+    - form: qu
+      class: pron
+      field: Everyday speech
+      gloss: it, a thing already identified
+      source: {kind: coined}
+      concept: it
+    - form: naru
+      class: pron
+      field: Everyday speech
+      gloss: they; them
+      source: {kind: coined}
+      concept: they
+    - form: nazun
+      class: pron
+      field: Everyday speech
+      gloss: we; us, the speaker and others
+      source: {kind: coined}
+      concept: we
+    - form: khez
+      class: part
+      field: Everyday speech
+      gloss: "not; placed immediately before the predicate it negates, as in khez zuren nazu telu, I do not see you. In the listed noun phrases, it marks absence: khez zuran, without sight; khez khashel, without hearing; malen khez talqar, child without living parents; shalar khez qeznet, cloth without a pattern; khalqar khez khalnur, sky without clouds; wazlat khez zeqat, release without debt."
+      source: {kind: coined}
+      concept: not
+    - form: wanel
+      class: v
+      field: Everyday speech
+      gloss: "to be; links the following subject to its stated condition: wanel nazu zalet, I am well"
+      source: {kind: coined}
+      concept: be
+    - form: qamar
+      class: v
+      field: Everyday speech
+      gloss: "to have; to possess or experience what follows the subject: qamar nazu zamet, I feel joy"
+      source: {kind: coined}
+      concept: have
+    - form: genar
+      class: n
+      field: Everyday speech
+      gloss: a person; a human being of any gender or age
+      source: {kind: coined}
+      concept: [person, human]
+    - form: temun
+      class: n
+      field: Everyday speech
+      gloss: a thing; something considered or referred to
+      source: {kind: coined}
+      concept: thing
+    - form: walun
+      class: n
+      field: Everyday speech
+      gloss: a friend
+      source: {kind: coined}
+      concept: friend
+    - form: talen
+      class: n
+      field: Everyday speech
+      gloss: kin; one's relatives, including relatives outside the household
+      source: {kind: coined}
+      concept: kin
+    - form: amzel
+      class: n
+      field: Everyday speech
+      gloss: love; affectionate concern for another, distinct from sexual appetite
+      source: {kind: coined}
+      concept: affection
+    - form: hamret
+      class: n
+      field: Everyday speech
+      gloss: a feeling; an emotional experience
+      source: {kind: coined}
+    - form: zamat
+      class: adj
+      field: Everyday speech
+      gloss: all; the whole specified set without exception
+      source: {kind: coined}
+      concept: all
+    - form: zalet
+      class: adj
+      field: Everyday speech
+      gloss: healthy; well in body
+      source: {kind: coined}
+      concept: healthy
+    - form: kezar
+      class: n
+      field: Everyday speech
+      gloss: a claim; something asserted, whether true or mistaken
+      source: {kind: coined}
+    - form: zuran
+      class: n
+      field: Everyday speech
+      gloss: sight; the faculty of seeing
+      source: {kind: coined}
+    - form: khashel
+      class: n
+      field: Everyday speech
+      gloss: hearing; the faculty of hearing
+      source: {kind: coined}
+    - form: zuranet
+      class: n
+      field: Everyday speech
+      gloss: visibility; the condition of being discernible to an observer
+      source: {kind: coined}
+    - form: neral
+      class: n
+      field: Everyday speech
+      gloss: a companion; someone sharing an activity or one's company
+      source: {kind: coined}
+      concept: companion
+    - form: meral
+      class: n
+      field: Everyday speech
+      gloss: a beloved person in a romantic relationship
+      source: {kind: coined}
+    - form: zeqat
+      class: n
+      field: Everyday speech
+      gloss: a debt; something owed
+      source: {kind: coined}
+      concept: debt
+    - form: wazal
+      class: v
+      field: Everyday speech
+      gloss: to release another from an obligation or claim; to forgive what they owe
+      source: {kind: coined}
+      concept: forgive-verb
+    - form: tamur
+      class: n
+      field: Everyday speech
+      gloss: a desire; something wanted
+      source: {kind: coined}
+      concept: desire
+    - form: qemaz
+      class: adj
+      field: Everyday speech
+      gloss: fulfilled; satisfied through the attainment of what was wanted
+      source: {kind: coined}
+    - form: elqar
+      class: adj
+      field: Everyday speech
+      gloss: absent; not present where expected
+      source: {kind: coined}
+    - form: qarun
+      class: n
+      field: Everyday speech
+      gloss: a purpose; an intended end of action
+      source: {kind: coined}
+      concept: purpose
+    - form: khazen
+      class: n
+      field: Everyday speech
+      gloss: fear; the felt expectation of danger
+      source: {kind: coined}
+      concept: fear
+    - form: walet
+      class: v
+      field: Everyday speech
+      gloss: to hold; to keep a grasp on or retain what follows the subject
+      source: {kind: coined}
+      concept: hold
+    - form: zuren
+      class: v
+      field: Everyday speech
+      gloss: to see; to discern with the eyes
+      source: {kind: coined}
+      concept: see-verb
+    - form: zurnet
+      class: n
+      field: Everyday speech
+      gloss: a sight; something seen, distinct from the ability to see
+      source: {kind: coined}
+      concept: see-noun
+    - form: khashul
+      class: v
+      field: Everyday speech
+      gloss: to hear; to receive sound with the ears
+      source: {kind: coined}
+      concept: hear-verb
+    - form: khashat
+      class: n
+      field: Everyday speech
+      gloss: a sound; something audible
+      source: {kind: coined}
+      concept: hear-noun
+    - form: nezur
+      class: v
+      field: Everyday speech
+      gloss: to smell; to sense a scent with the nose
+      source: {kind: coined}
+      concept: smell-verb
+    - form: nezat
+      class: n
+      field: Everyday speech
+      gloss: a smell; a scent, pleasant or unpleasant
+      source: {kind: coined}
+      concept: smell-noun
+    - form: lamet
+      class: v
+      field: Everyday speech
+      gloss: to taste; to sense the flavour of something
+      source: {kind: coined}
+      concept: taste-verb
+    - form: lamar
+      class: n
+      field: Everyday speech
+      gloss: a taste; a flavour
+      source: {kind: coined}
+      concept: taste-noun
+    - form: thaluz
+      class: v
+      field: Everyday speech
+      gloss: to touch; to feel something with the hand
+      source: {kind: coined}
+      concept: touch-verb
+    - form: thalat
+      class: n
+      field: Everyday speech
+      gloss: a touch; an instance of physical contact
+      source: {kind: coined}
+      concept: touch-noun
+    - form: zurat
+      class: v
+      field: Everyday speech
+      gloss: to look; to direct one's eyes at something
+      source: {kind: coined}
+      concept: look
+    - form: zurat lagath
+      class: v
+      field: Everyday speech
+      gloss: to watch; to keep looking attentively, a conventional paired-action citation rather than merely having seen something
+      source: {kind: coined}
+      concept: watch
+      built: [zurat, lagath]
+    - form: zurnet elu temun
+      class: n
+      field: Everyday speech
+      gloss: appearance; the outward look of a thing, literally the sight of the thing; temun is replaceable by the named thing
+      source: {kind: coined}
+      concept: appearance
+      built: [zurnet, elu, temun]
+    - form: zuret
+      class: adj
+      field: Everyday speech
+      gloss: visible; discernible to a situated observer with sight
+      source: {kind: coined}
+      concept: visible
+    - form: khez zuret
+      class: adj
+      field: Everyday speech
+      gloss: invisible; not discernible to a situated observer with sight
+      source: {kind: coined}
+      concept: invisible
+      built: [khez, zuret]
+    - form: khashath
+      class: v
+      field: Everyday speech
+      gloss: to listen; to direct one's attention to what is heard
+      source: {kind: coined}
+      concept: listen
+    - form: khaznat
+      class: n
+      field: Everyday speech
+      gloss: noise; intrusive or irregular sound
+      source: {kind: coined}
+      concept: noise
+    - form: raznu
+      class: n
+      field: Everyday speech
+      gloss: a voice; the sound produced by a speaker or animal
+      source: {kind: coined}
+      concept: voice
+    - form: khashat elqar
+      class: n
+      field: Everyday speech
+      gloss: silence; the absence of audible sound in the situation, literally absent sound
+      source: {kind: coined}
+      concept: silence
+      built: [khashat, elqar]
+    - form: khazul
+      class: adj
+      field: Everyday speech
+      gloss: loud; having great audible intensity
+      source: {kind: coined}
+      concept: loud
+    - form: khazil
+      class: adj
+      field: Everyday speech
+      gloss: quiet; making little or no sound
+      source: {kind: coined}
+      concept: quiet
+    - form: nezlet
+      class: adj
+      field: Everyday speech
+      gloss: fragrant; having a pleasant scent
+      source: {kind: coined}
+      concept: fragrant
+    - form: nezrat
+      class: adj
+      field: Everyday speech
+      gloss: foul-smelling; having an unpleasant smell
+      source: {kind: coined}
+      concept: foul
+    - form: lamun
+      class: adj
+      field: Everyday speech
+      gloss: sweet to the taste
+      source: {kind: coined}
+      concept: sweet
+    - form: lemqat
+      class: adj
+      field: Everyday speech
+      gloss: sour to the taste
+      source: {kind: coined}
+      concept: sour
+    - form: khumet
+      class: adj
+      field: Everyday speech
+      gloss: bitter to the taste
+      source: {kind: coined}
+      concept: bitter
+    - form: qezun
+      class: adj
+      field: Everyday speech
+      gloss: salty; tasting of salt
+      source: {kind: coined}
+      concept: salty
+    - form: shegul
+      class: v
+      field: Everyday speech
+      gloss: to feel a bodily sensation; not a statement of belief or an emotion alone
+      source: {kind: coined}
+      concept: feel-verb
+    - form: shegat
+      class: n
+      field: Everyday speech
+      gloss: a bodily sensation; an experience of the senses
+      source: {kind: coined}
+      concept: sensation
+    - form: shalet
+      class: adj
+      field: Everyday speech
+      gloss: smooth to the touch
+      source: {kind: coined}
+      concept: smooth
+    - form: shazet
+      class: adj
+      field: Everyday speech
+      gloss: rough to the touch
+      source: {kind: coined}
+      concept: rough
+    - form: malun
+      class: adj
+      field: Everyday speech
+      gloss: soft to the touch
+      source: {kind: coined}
+      concept: soft
+    - form: qathen
+      class: adj
+      field: Everyday speech
+      gloss: hard to the touch; firm rather than soft
+      source: {kind: coined}
+      concept: hard-texture
+    - form: zernu
+      class: v
+      field: Everyday speech
+      gloss: to notice; to become aware of something previously unattended
+      source: {kind: coined}
+      concept: notice
+    - form: sheqel
+      class: v
+      field: Everyday speech
+      gloss: to perceive; to become aware through one or more senses
+      source: {kind: coined}
+      concept: perceive
+    - form: rethul
+      class: v
+      field: Everyday speech
+      gloss: to recognize; to identify something already known
+      source: {kind: coined}
+      concept: recognize
+    - form: zarun
+      class: v
+      field: Everyday speech
+      gloss: "to seem; to present an appearance: zarun temun malun, the thing seems soft"
+      source: {kind: coined}
+      concept: seem
+    - form: khazmar
+      class: n
+      field: Everyday speech
+      gloss: wrath; intense consuming anger
+      source: {kind: coined}
+      concept: wrath
+    - form: khazmar elu walun
+      class: n
+      field: Everyday speech
+      gloss: envy; the conventional feeling of anger at another's good fortune, including a friend's; walun may be replaced by the envied person
+      source: {kind: coined}
+      concept: envy
+      built: [khazmar, elu, walun]
+    - form: thamel
+      class: n
+      field: Everyday speech
+      gloss: hope; desire for a good outcome accompanied by an expectation that it may occur
+      source: {kind: coined}
+      concept: hope
+    - form: tamur qezathen
+      class: n
+      field: Everyday speech
+      gloss: greed; desire that exceeds a fitting share, including desire for wealth or power
+      source: {kind: coined}
+      concept: greed
+      built: [tamur, qezathen]
+    - form: raznat
+      class: n
+      field: Everyday speech
+      gloss: boasting; speech that displays one's own worth or achievements excessively
+      source: {kind: coined}
+      concept: boasting
+    - form: halmet
+      class: n
+      field: Everyday speech
+      gloss: pride; felt esteem in oneself or what one identifies with
+      source: {kind: coined}
+      concept: pride
+    - form: lamaz
+      class: n
+      field: Everyday speech
+      gloss: lust; sexual appetite, distinct from romantic or selfless love
+      source: {kind: coined}
+      concept: lust
+    - form: thamel elqar
+      class: n
+      field: Everyday speech
+      gloss: despair; the felt loss of hope, not the mere absence of a prediction
+      source: {kind: coined}
+      concept: despair
+      built: [thamel, elqar]
+    - form: tharzet
+      class: n
+      field: Everyday speech
+      gloss: disappointment; sadness at an expectation not being fulfilled
+      source: {kind: coined}
+      concept: disappointment
+    - form: qelmat
+      class: n
+      field: Everyday speech
+      gloss: faith; committed trust in a person, teaching or sacred promise without requiring proof
+      source: {kind: coined}
+      concept: faith
+    - form: zamet
+      class: n
+      field: Everyday speech
+      gloss: joy; a keen feeling of gladness
+      source: {kind: coined}
+      concept: joy
+    - form: zamul
+      class: n
+      field: Everyday speech
+      gloss: happiness; a sustained feeling of being happy and one's life going well
+      source: {kind: coined}
+      concept: happiness
+    - form: lamzu
+      class: n
+      field: Everyday speech
+      gloss: pleasure; felt enjoyment or delight
+      source: {kind: coined}
+      concept: pleasure
+    - form: halzi qemaz
+      class: n
+      field: Everyday speech
+      gloss: contentment; the idiom of a satisfied heart, being at ease with what one has
+      source: {kind: coined}
+      concept: contentment
+      built: [halzi, qemaz]
+    - form: remaz
+      class: n
+      field: Everyday speech
+      gloss: gratitude; thankful recognition of a benefit received, distinct from a debt itself
+      source: {kind: coined}
+      concept: gratitude
+    - form: halmet elu genar
+      class: n
+      field: Everyday speech
+      gloss: admiration; the felt esteem directed toward another's qualities or acts; genar may be replaced by the admired person
+      source: {kind: coined}
+      concept: admiration
+      built: [halmet, elu, genar]
+    - form: qelmun
+      class: n
+      field: Everyday speech
+      gloss: trust; willing reliance on a person or thing; does not itself assert that the reliance is justified
+      source: {kind: coined}
+      concept: trust
+    - form: walet qarun ezu khazen
+      class: v
+      field: Everyday speech
+      gloss: courage; the conventional expression keep one's purpose in fear, acting despite fear rather than keeping fear alive; walet nazu qarun ezu khazen, I keep my purpose despite fear
+      source: {kind: coined}
+      concept: courage
+      built: [walet, qarun, ezu, khazen]
+    - form: khazmer
+      class: n
+      field: Everyday speech
+      gloss: anger; a feeling of displeasure directed against someone or something
+      source: {kind: coined}
+      concept: anger
+    - form: qazlet
+      class: n
+      field: Everyday speech
+      gloss: hatred; enduring intense aversion
+      source: {kind: coined}
+      concept: hatred
+    - form: khazmer elu amzel
+      class: n
+      field: Everyday speech
+      gloss: jealousy; anger and anxiety about losing a valued relationship to a rival, literally anger over love
+      source: {kind: coined}
+      concept: jealousy
+      built: [khazmer, elu, amzel]
+    - form: khazen khazul
+      class: n
+      field: Everyday speech
+      gloss: terror; overwhelming fear, conventionally called loud fear, regardless of whether the frightened person speaks
+      source: {kind: coined}
+      concept: terror
+      built: [khazen, khazul]
+    - form: halnur
+      class: n
+      field: Everyday speech
+      gloss: sadness; felt unhappiness
+      source: {kind: coined}
+      concept: sadness
+    - form: halnur elu elqar
+      class: n
+      field: Everyday speech
+      gloss: grief; deep sadness at loss, the idiom sadness over absence; the absent or lost person or thing can be named after elu
+      source: {kind: coined}
+      concept: grief
+      built: [halnur, elu, elqar]
+    - form: zamqet
+      class: n
+      field: Everyday speech
+      gloss: shame; painful feeling of being diminished in one's own or others' eyes
+      source: {kind: coined}
+      concept: shame
+    - form: qazmet
+      class: n
+      field: Everyday speech
+      gloss: guilt; the felt recognition of one's own wrongdoing, distinct from a legal finding or inherited debt
+      source: {kind: coined}
+      concept: guilt
+    - form: tarmaz
+      class: n
+      field: Everyday speech
+      gloss: regret; sorrow over what happened or what one did or failed to do
+      source: {kind: coined}
+      concept: regret
+    - form: halmun
+      class: n
+      field: Everyday speech
+      gloss: humility; a modest assessment of one's place and worth
+      source: {kind: coined}
+      concept: humility
+    - form: qerun
+      class: n
+      field: Everyday speech
+      gloss: confidence; felt assurance in one's capacity or a likely outcome, and assurance in a claim, without making it true
+      source: {kind: coined}
+      concept: confidence
+    - form: zamqet khazil
+      class: n
+      field: Everyday speech
+      gloss: embarrassment; the idiom quiet shame, awkward self-conscious discomfort rather than necessarily a moral fault
+      source: {kind: coined}
+      concept: embarrassment
+      built: [zamqet, khazil]
+    - form: amzel elu halnur
+      class: n
+      field: Everyday speech
+      gloss: compassion; concern for another's suffering and the wish to relieve it, conventionally love directed toward sorrow
+      source: {kind: coined}
+      concept: compassion
+      built: [amzel, elu, halnur]
+    - form: halnur elu genar
+      class: n
+      field: Everyday speech
+      gloss: pity; sorrow at another's suffering or misfortune; the affected person may replace genar
+      source: {kind: coined}
+      concept: pity
+      built: [halnur, elu, genar]
+    - form: hamret elu neral
+      class: n
+      field: Everyday speech
+      gloss: sympathy; sharing or understanding another's feeling, literally feeling of one's companion; not restricted to a friend
+      source: {kind: coined}
+      concept: sympathy
+      built: [hamret, elu, neral]
+    - form: khazmer thalun
+      class: n
+      field: Everyday speech
+      gloss: resentment; anger that persists at a remembered injury or unfairness
+      source: {kind: coined}
+      concept: resentment
+      built: [khazmer, thalun]
+    - form: qazlet qezil
+      class: n
+      field: Everyday speech
+      gloss: contempt; aversion joined with a judgement that its object is beneath regard
+      source: {kind: coined}
+      concept: contempt
+      built: [qazlet, qezil]
+    - form: wazlat
+      class: n
+      field: Everyday speech
+      gloss: forgiveness; release of blame or of a claim against another, distinct from payment or performance
+      source: {kind: coined}
+      concept: forgiveness
+    - form: tamur elu elqar
+      class: n
+      field: Everyday speech
+      gloss: longing; a persistent desire for what is absent or unattained, not restricted to an absent person
+      source: {kind: coined}
+      concept: longing
+      built: [tamur, elu, elqar]
+    - form: hamret elu tamur qemaz
+      class: n
+      field: Everyday speech
+      gloss: satisfaction; the felt fulfillment of desire, literally the feeling of fulfilled desire; not merely a settled legal account
+      source: {kind: coined}
+      concept: satisfaction
+      built: [hamret, elu, tamur, qemaz]
+    - form: thamzat
+      class: n
+      field: Everyday speech
+      gloss: frustration; distress at an obstructed desire or effort
+      source: {kind: coined}
+      concept: frustration
+    - form: rethmet
+      class: n
+      field: Everyday speech
+      gloss: curiosity; desire to discover or understand something
+      source: {kind: coined}
+      concept: curiosity
+    - form: rethqat
+      class: n
+      field: Everyday speech
+      gloss: confusion; inability to make sense of a situation or distinguish its parts
+      source: {kind: coined}
+      concept: confusion
+    - form: qerlat
+      class: n
+      field: Everyday speech
+      gloss: doubt; felt uncertainty about a claim or outcome
+      source: {kind: coined}
+      concept: doubt
+    - form: qerun zamat
+      class: n
+      field: Everyday speech
+      gloss: certainty; complete subjective assurance, literally whole confidence, without asserting the truth of the claim
+      source: {kind: coined}
+      concept: certainty
+      built: [qerun, zamat]
+    - form: sheqet
+      class: n
+      field: Everyday speech
+      gloss: surprise; the feeling occasioned by something unanticipated
+      source: {kind: coined}
+      concept: surprise
+    - form: lamzur
+      class: n
+      field: Everyday speech
+      gloss: boredom; lack of interest or stimulation felt as tedious
+      source: {kind: coined}
+      concept: boredom
+    - form: thamar
+      class: n
+      field: Everyday speech
+      gloss: anticipation; attentive expectation of something to come, pleasant or unpleasant
+      source: {kind: coined}
+      concept: anticipation
+    - form: qereth
+      class: n
+      field: Everyday speech
+      gloss: belief; acceptance of a claim as true, without guaranteeing its truth
+      source: {kind: coined}
+      concept: belief
+    - form: halmet elu nelgir
+      class: n
+      field: Everyday speech
+      gloss: reverence; the conventional deeply respectful attitude exemplified by esteem toward a god; a revered person or thing may replace nelgir
+      source: {kind: coined}
+      concept: reverence
+      built: [halmet, elu, nelgir]
+    - form: khazen elu lekhau
+      class: n
+      field: Everyday speech
+      gloss: awe; wonder and humbled fear before something overwhelming, conventionally fear before sacred power; need not be religious
+      source: {kind: coined}
+      concept: awe
+      built: [khazen, elu, lekhau]
+    - form: amzel elu meral
+      class: n
+      field: Everyday speech
+      gloss: romantic love; affectionate attachment to a beloved partner, distinct from sexual appetite alone
+      source: {kind: coined}
+      concept: love-eros
+      built: [amzel, elu, meral]
+    - form: amzel elu walun
+      class: n
+      field: Everyday speech
+      gloss: friendship; affectionate regard between friends
+      source: {kind: coined}
+      concept: love-philia
+      built: [amzel, elu, walun]
+    - form: amzel elu talen
+      class: n
+      field: Everyday speech
+      gloss: family love; affectionate attachment between kin
+      source: {kind: coined}
+      concept: love-storge
+      built: [amzel, elu, talen]
+    - form: amzelu
+      class: n
+      field: Everyday speech
+      gloss: selfless universal love; concern for the good of all people without seeking repayment, credit after death, kinship advantage or sexual gratification
+      source: {kind: coined}
+      concept: love-agape
+    - form: thamaz
+      class: n
+      field: Everyday speech
+      gloss: attraction; a felt pull toward someone or something, romantic, physical or otherwise
+      source: {kind: coined}
+      concept: attraction
+    - form: halzel
+      class: n
+      field: Everyday speech
+      gloss: intimacy; shared closeness and private mutual familiarity
+      source: {kind: coined}
+      concept: intimacy
+    - form: amzel thalun
+      class: n
+      field: Everyday speech
+      gloss: devotion; enduring affectionate dedication to a person, undertaking or ideal
+      source: {kind: coined}
+      concept: devotion
+      built: [amzel, thalun]
+    - form: qelmat thalun
+      class: n
+      field: Everyday speech
+      gloss: loyalty; steadfast allegiance to a person, group or commitment
+      source: {kind: coined}
+      concept: loyalty
+      built: [qelmat, thalun]
+    - form: neralnet
+      class: n
+      field: Everyday speech
+      gloss: companionship; the state of sharing company or activity with a companion
+      source: {kind: coined}
+      concept: companionship
+    - form: qaznat
+      class: n
+      field: Everyday speech
+      gloss: enmity; a relationship of hostility
+      source: {kind: coined}
+      concept: enmity
+    - form: qezathen
+      class: adj
+      field: Everyday speech
+      gloss: excessive; exceeding a fitting or intended limit
+      source: {kind: coined}
+    - form: thalun
+      class: adj
+      field: Everyday speech
+      gloss: enduring; continuing for a sustained time
+      source: {kind: coined}
+      concept: lasting-duration
+    - form: qezil
+      class: adj
+      field: Everyday speech
+      gloss: low; below the usual or stated level
+      source: {kind: coined}
+    - form: qaren
+      class: n
+      field: Everyday speech
+      gloss: the head
+      source: {kind: coined}
+      concept: head
+    - form: shenu
+      class: n
+      field: Everyday speech
+      gloss: hair; the strands growing on a person's head, not sheep's fleece
+      source: {kind: coined}
+      concept: hair
+    - form: zamur
+      class: n
+      field: Everyday speech
+      gloss: the face
+      source: {kind: coined}
+      concept: face
+    - form: zurin
+      class: n
+      field: Everyday speech
+      gloss: the eye
+      source: {kind: coined}
+      concept: eye
+    - form: khashin
+      class: n
+      field: Everyday speech
+      gloss: the ear
+      source: {kind: coined}
+      concept: ear
+    - form: nezun
+      class: n
+      field: Everyday speech
+      gloss: the nose
+      source: {kind: coined}
+      concept: nose
+    - form: lamur
+      class: n
+      field: Everyday speech
+      gloss: the mouth
+      source: {kind: coined}
+      concept: mouth
+    - form: lamret
+      class: n
+      field: Everyday speech
+      gloss: the lip
+      source: {kind: coined}
+      concept: lip
+    - form: qethun
+      class: n
+      field: Everyday speech
+      gloss: the tooth
+      source: {kind: coined}
+      concept: tooth
+    - form: lazun
+      class: n
+      field: Everyday speech
+      gloss: the tongue; the muscular organ inside the mouth, not a language
+      source: {kind: coined}
+      concept: tongue
+    - form: nazret
+      class: n
+      field: Everyday speech
+      gloss: the neck
+      source: {kind: coined}
+      concept: neck
+    - form: qalmer
+      class: n
+      field: Everyday speech
+      gloss: the shoulder
+      source: {kind: coined}
+      concept: shoulder
+    - form: thulun
+      class: n
+      field: Everyday speech
+      gloss: the arm
+      source: {kind: coined}
+      concept: arm
+    - form: thulqet
+      class: n
+      field: Everyday speech
+      gloss: the elbow
+      source: {kind: coined}
+      concept: elbow
+    - form: thalmu
+      class: n
+      field: Everyday speech
+      gloss: the hand
+      source: {kind: coined}
+      concept: hand
+    - form: thalmin
+      class: n
+      field: Everyday speech
+      gloss: the finger
+      source: {kind: coined}
+      concept: finger
+    - form: thalqet
+      class: n
+      field: Everyday speech
+      gloss: the fingernail
+      source: {kind: coined}
+      concept: nail
+    - form: halqar
+      class: n
+      field: Everyday speech
+      gloss: the chest
+      source: {kind: coined}
+      concept: chest
+    - form: malzat
+      class: n
+      field: Everyday speech
+      gloss: a breast; the organ that produces milk, distinct from the chest as a whole
+      source: {kind: coined}
+      concept: breast
+    - form: qumet
+      class: n
+      field: Everyday speech
+      gloss: the belly
+      source: {kind: coined}
+      concept: belly
+    - form: qazun
+      class: n
+      field: Everyday speech
+      gloss: the back
+      source: {kind: coined}
+      concept: back
+    - form: qalmet
+      class: n
+      field: Everyday speech
+      gloss: the hip
+      source: {kind: coined}
+      concept: hip
+    - form: thaqur
+      class: n
+      field: Everyday speech
+      gloss: the leg
+      source: {kind: coined}
+      concept: leg
+    - form: thaqet
+      class: n
+      field: Everyday speech
+      gloss: the knee
+      source: {kind: coined}
+      concept: knee
+    - form: tarel
+      class: n
+      field: Everyday speech
+      gloss: the foot
+      source: {kind: coined}
+      concept: foot
+    - form: tarin
+      class: n
+      field: Everyday speech
+      gloss: the toe
+      source: {kind: coined}
+      concept: toe
+    - form: shamur
+      class: n
+      field: Everyday speech
+      gloss: the skin
+      source: {kind: coined}
+      concept: skin
+    - form: qetharun
+      class: n
+      field: Everyday speech
+      gloss: the bone
+      source: {kind: coined}
+      concept: bone
+    - form: hazun
+      class: n
+      field: Everyday speech
+      gloss: blood
+      source: {kind: coined}
+      concept: blood
+    - form: malqat
+      class: n
+      field: Everyday speech
+      gloss: flesh
+      source: {kind: coined}
+      concept: flesh
+    - form: qaren elu zamur
+      class: n
+      field: Everyday speech
+      gloss: the forehead; literally the head of the face, an anatomical expression for the region above the eyes
+      source: {kind: coined}
+      concept: forehead
+      built: [qaren, elu, zamur]
+    - form: qethmar
+      class: n
+      field: Everyday speech
+      gloss: the jaw; the bone bearing the teeth
+      source: {kind: coined}
+      concept: jaw
+    - form: zamret
+      class: n
+      field: Everyday speech
+      gloss: chin
+      source: {kind: coined}
+      concept: chin
+    - form: zamlat
+      class: n
+      field: Everyday speech
+      gloss: cheek
+      source: {kind: coined}
+      concept: cheek
+    - form: lazmar
+      class: n
+      field: Everyday speech
+      gloss: the throat; the inner passage through the neck
+      source: {kind: coined}
+      concept: throat
+    - form: qumret
+      class: n
+      field: Everyday speech
+      gloss: the stomach; the digestive organ inside the belly
+      source: {kind: coined}
+      concept: stomach
+    - form: qumzal
+      class: n
+      field: Everyday speech
+      gloss: waist
+      source: {kind: coined}
+      concept: waist
+    - form: qazret
+      class: n
+      field: Everyday speech
+      gloss: spine
+      source: {kind: coined}
+      concept: spine
+    - form: qazmat
+      class: n
+      field: Everyday speech
+      gloss: buttock
+      source: {kind: coined}
+      concept: buttock
+    - form: thalmet
+      class: n
+      field: Everyday speech
+      gloss: wrist
+      source: {kind: coined}
+      concept: wrist
+    - form: thalmur
+      class: n
+      field: Everyday speech
+      gloss: palm
+      source: {kind: coined}
+      concept: palm
+    - form: thalmen
+      class: n
+      field: Everyday speech
+      gloss: thumb
+      source: {kind: coined}
+      concept: thumb
+    - form: thaqmer
+      class: n
+      field: Everyday speech
+      gloss: thigh
+      source: {kind: coined}
+      concept: thigh
+    - form: tarqet
+      class: n
+      field: Everyday speech
+      gloss: ankle
+      source: {kind: coined}
+      concept: ankle
+    - form: tarmun
+      class: n
+      field: Everyday speech
+      gloss: heel
+      source: {kind: coined}
+      concept: heel
+    - form: tarmet
+      class: n
+      field: Everyday speech
+      gloss: sole
+      source: {kind: coined}
+      concept: sole
+    - form: tarqath
+      class: n
+      field: Everyday speech
+      gloss: toenail
+      source: {kind: coined}
+      concept: toenail
+    - form: thulmar
+      class: n
+      field: Everyday speech
+      gloss: muscle
+      source: {kind: coined}
+      concept: muscle
+    - form: malzun
+      class: n
+      field: Everyday speech
+      gloss: fat; the bodily tissue and its fatty substance
+      source: {kind: coined}
+      concept: fat
+    - form: shazun
+      class: n
+      field: Everyday speech
+      gloss: sweat (noun)
+      source: {kind: coined}
+      concept: sweat
+    - form: zurlat
+      class: n
+      field: Everyday speech
+      gloss: tears
+      source: {kind: coined}
+      concept: tears
+    - form: lamnet
+      class: n
+      field: Everyday speech
+      gloss: saliva
+      source: {kind: coined}
+      concept: saliva
+    - form: qarnet
+      class: n
+      field: Everyday speech
+      gloss: brain
+      source: {kind: coined}
+      concept: brain
+    - form: khalun
+      class: n
+      field: Everyday speech
+      gloss: lung
+      source: {kind: coined}
+      concept: lung
+    - form: hazmet
+      class: n
+      field: Everyday speech
+      gloss: liver
+      source: {kind: coined}
+      concept: liver
+    - form: hazlat
+      class: n
+      field: Everyday speech
+      gloss: kidney
+      source: {kind: coined}
+      concept: kidney
+    - form: qumlat
+      class: n
+      field: Everyday speech
+      gloss: intestine
+      source: {kind: coined}
+      concept: intestine
+    - form: malqet
+      class: n
+      field: Everyday speech
+      gloss: the genitals; the external reproductive parts
+      source: {kind: coined}
+      concept: genitals
+    - form: melqar
+      class: n
+      field: Everyday speech
+      gloss: womb
+      source: {kind: coined}
+      concept: womb
+    - form: malqur
+      class: n
+      field: Everyday speech
+      gloss: penis
+      source: {kind: coined}
+      concept: penis
+    - form: malqir
+      class: n
+      field: Everyday speech
+      gloss: vagina
+      source: {kind: coined}
+      concept: vagina
+    - form: malqan
+      class: n
+      field: Everyday speech
+      gloss: testicle
+      source: {kind: coined}
+      concept: testicle
+    - form: temat
+      class: n
+      field: Everyday speech
+      gloss: food
+      source: {kind: coined}
+      concept: food
+    - form: tamul
+      class: v
+      field: Everyday speech
+      gloss: to eat
+      source: {kind: coined}
+      concept: eat
+    - form: qalmu
+      class: n
+      field: Everyday speech
+      gloss: a drink; a serving of liquid for drinking
+      source: {kind: coined}
+      concept: drink-noun
+    - form: qaler
+      class: v
+      field: Everyday speech
+      gloss: to drink
+      source: {kind: coined}
+      concept: drink-verb
+    - form: qalu
+      class: n
+      field: Everyday speech
+      gloss: water
+      source: {kind: coined}
+      concept: water
+    - form: khalet
+      class: n
+      field: Everyday speech
+      gloss: air
+      source: {kind: coined}
+      concept: air
+    - form: khalat
+      class: n
+      field: Everyday speech
+      gloss: breath
+      source: {kind: coined}
+      concept: breath
+    - form: khaler
+      class: v
+      field: Everyday speech
+      gloss: to breathe; to draw in and let out air
+      source: {kind: coined}
+      concept: breathe
+    - form: shamul
+      class: n
+      field: Everyday speech
+      gloss: sleep
+      source: {kind: coined}
+      concept: sleep-noun
+    - form: shamel
+      class: v
+      field: Everyday speech
+      gloss: to sleep
+      source: {kind: coined}
+      concept: sleep-verb
+    - form: qamlu
+      class: n
+      field: Everyday speech
+      gloss: urine
+      source: {kind: coined}
+      concept: urine
+    - form: qamlath
+      class: v
+      field: Everyday speech
+      gloss: to urinate
+      source: {kind: coined}
+      concept: urinate
+    - form: qunlet
+      class: n
+      field: Everyday speech
+      gloss: dung
+      source: {kind: coined}
+      concept: dung
+    - form: qunath
+      class: v
+      field: Everyday speech
+      gloss: to defecate
+      source: {kind: coined}
+      concept: defecate
+    - form: thumal
+      class: n
+      field: Everyday speech
+      gloss: warmth
+      source: {kind: coined}
+      concept: warmth
+    - form: galret
+      class: n
+      field: Everyday speech
+      gloss: shelter; protection against exposure, and a place providing it
+      source: {kind: coined}
+      concept: shelter
+    - form: tamlat
+      class: n
+      field: Everyday speech
+      gloss: hunger
+      source: {kind: coined}
+      concept: hunger
+    - form: tamlet
+      class: adj
+      field: Everyday speech
+      gloss: hungry
+      source: {kind: coined}
+      concept: hungry
+    - form: qallat
+      class: n
+      field: Everyday speech
+      gloss: thirst
+      source: {kind: coined}
+      concept: thirst
+    - form: qallet
+      class: adj
+      field: Everyday speech
+      gloss: thirsty
+      source: {kind: coined}
+      concept: thirsty
+    - form: khaleth
+      class: v
+      field: Everyday speech
+      gloss: to inhale; to draw air into the lungs
+      source: {kind: coined}
+      concept: inhale
+    - form: khaluz
+      class: v
+      field: Everyday speech
+      gloss: to exhale; to let air out of the lungs
+      source: {kind: coined}
+      concept: exhale
+    - form: khazuth
+      class: v
+      field: Everyday speech
+      gloss: to suffocate; to be unable to obtain breathable air because air is absent or breathing is obstructed
+      source: {kind: coined}
+      concept: suffocate
+    - form: shamath
+      class: v
+      field: Everyday speech
+      gloss: to wake; to cease sleeping
+      source: {kind: coined}
+      concept: wake
+    - form: shamet
+      class: adj
+      field: Everyday speech
+      gloss: awake
+      source: {kind: coined}
+      concept: awake
+    - form: shamnet
+      class: n
+      field: Everyday speech
+      gloss: a dream; an experience during sleep, not a prediction by itself
+      source: {kind: coined}
+      concept: dream
+    - form: shalmu
+      class: n
+      field: Everyday speech
+      gloss: rest; a pause in exertion that permits recovery
+      source: {kind: coined}
+      concept: rest
+    - form: shalmet
+      class: adj
+      field: Everyday speech
+      gloss: tired
+      source: {kind: coined}
+      concept: tired
+    - form: shazath
+      class: v
+      field: Everyday speech
+      gloss: to sweat
+      source: {kind: coined}
+      concept: sweat-verb
+    - form: thumar
+      class: n
+      field: Everyday speech
+      gloss: heat
+      source: {kind: coined}
+      concept: heat
+    - form: khamul
+      class: n
+      field: Everyday speech
+      gloss: cold as a bodily need or temperature condition
+      source: {kind: coined}
+      concept: cold-noun
+    - form: thumet
+      class: adj
+      field: Everyday speech
+      gloss: hot
+      source: {kind: coined}
+      concept: hot
+    - form: thumil
+      class: adj
+      field: Everyday speech
+      gloss: warm; moderately hot, pleasantly or undesirably as context determines
+      source: {kind: coined}
+      concept: warm
+    - form: khamil
+      class: adj
+      field: Everyday speech
+      gloss: cool; moderately cold
+      source: {kind: coined}
+      concept: cool
+    - form: khamath
+      class: v
+      field: Everyday speech
+      gloss: to freeze; to turn to ice or become frozen
+      source: {kind: coined}
+      concept: freeze
+    - form: thumath
+      class: v
+      field: Everyday speech
+      gloss: to burn; to be consumed or damaged by fire or heat
+      source: {kind: coined}
+      concept: burn
+    - form: lagret
+      class: n
+      field: Everyday speech
+      gloss: safety
+      source: {kind: coined}
+      concept: safety
+    - form: qazlat
+      class: n
+      field: Everyday speech
+      gloss: danger
+      source: {kind: coined}
+      concept: danger
+    - form: lagathnet
+      class: n
+      field: Everyday speech
+      gloss: protection; the guarding of someone or something against harm; an individually cited noun related to lagath
+      source: {kind: coined}
+      concept: protection
+    - form: malzen
+      class: n
+      field: Everyday speech
+      gloss: sex; sexual intercourse
+      source: {kind: coined}
+      concept: sex
+    - form: melqath
+      class: v
+      field: Everyday speech
+      gloss: to conceive; to become pregnant, distinct from intending a plan
+      source: {kind: coined}
+      concept: conceive
+    - form: melqat
+      class: n
+      field: Everyday speech
+      gloss: pregnancy
+      source: {kind: coined}
+      concept: pregnancy
+    - form: melqet
+      class: adj
+      field: Everyday speech
+      gloss: pregnant
+      source: {kind: coined}
+      concept: pregnant
+    - form: melnet
+      class: n
+      field: Everyday speech
+      gloss: birth; the event of being born
+      source: {kind: coined}
+      concept: birth
+    - form: melath
+      class: v
+      field: Everyday speech
+      gloss: to give birth; the birthing parent's act
+      source: {kind: coined}
+      concept: give-birth
+    - form: malzath
+      class: v
+      field: Everyday speech
+      gloss: to nurse a child; to feed a child at the breast
+      source: {kind: coined}
+      concept: nurse
+    - form: thazul
+      class: v
+      field: Everyday speech
+      gloss: to grow; to increase in size or develop toward maturity
+      source: {kind: coined}
+      concept: grow
+    - form: qarnath
+      class: v
+      field: Everyday speech
+      gloss: to age; to grow older
+      source: {kind: coined}
+      concept: [age-verb, aging]
+    - form: wathun
+      class: n
+      field: Everyday speech
+      gloss: death
+      source: {kind: coined}
+      concept: death
+    - form: wathet
+      class: adj
+      field: Everyday speech
+      gloss: dead
+      source: {kind: coined}
+      concept: dead
+    - form: zazet
+      class: adj
+      field: Everyday speech
+      gloss: sick; ill
+      source: {kind: coined}
+      concept: sick
+    - form: hazqet
+      class: adj
+      field: Everyday speech
+      gloss: injured; wounded
+      source: {kind: coined}
+      concept: injured
+    - form: qazul
+      class: adj
+      field: Everyday speech
+      gloss: Strong
+      source: {kind: coined}
+      concept: strong
+    - form: qazil
+      class: adj
+      field: Everyday speech
+      gloss: weak
+      source: {kind: coined}
+      concept: weak
+    - form: shalmet qezathen
+      class: adj
+      field: Everyday speech
+      gloss: exhausted; so tired that one's strength is spent
+      source: {kind: coined}
+      concept: exhausted
+      built: [shalmet, qezathen]
+    - form: tamen
+      class: adj
+      field: Everyday speech
+      gloss: sated; full after eating or drinking
+      source: {kind: coined}
+      concept: sated
+    - form: khumil
+      class: adj
+      field: Everyday speech
+      gloss: cold in temperature
+      source: {kind: coined}
+      concept: cold
+    - form: thumet ezu zazun
+      class: adj
+      field: Everyday speech
+      gloss: feverish; hot with illness, not merely hot from weather or exertion
+      source: {kind: coined}
+      concept: feverish
+      built: [thumet, ezu, zazun]
+    - form: hazat
+      class: n
+      field: Everyday speech
+      gloss: Pain
+      source: {kind: coined}
+      concept: pain
+    - form: hazath
+      class: v
+      field: Everyday speech
+      gloss: to hurt someone; to cause pain or injury to the object
+      source: {kind: coined}
+      concept: hurt-verb
+    - form: hazret
+      class: n
+      field: Everyday speech
+      gloss: an ache; a persistent dull bodily pain
+      source: {kind: coined}
+      concept: ache
+    - form: hazul
+      class: v
+      field: Everyday speech
+      gloss: to suffer; to undergo pain or distress
+      source: {kind: coined}
+      concept: suffer
+    - form: hazuth
+      class: v
+      field: Everyday speech
+      gloss: to bleed; to lose blood from the body
+      source: {kind: coined}
+      concept: bleed
+    - form: zaleth
+      class: v
+      field: Everyday speech
+      gloss: to heal; to restore an injured body or cause a wound to close
+      source: {kind: coined}
+      concept: heal
+    - form: zalal
+      class: v
+      field: Everyday speech
+      gloss: to recover; to return toward health after illness or injury
+      source: {kind: coined}
+      concept: recover
+    - form: khez zuran
+      class: part
+      field: Everyday speech
+      gloss: blind; without sight as a bodily incapacity, not merely unable to see a particular hidden object; wanel nazu khez zuran, I am blind
+      source: {kind: coined}
+      concept: blind
+      built: [khez, zuran]
+    - form: khez khashel
+      class: part
+      field: Everyday speech
+      gloss: deaf; without hearing as a bodily incapacity, not simply inattentive; wanel nazu khez khashel, I am deaf
+      source: {kind: coined}
+      concept: deaf
+      built: [khez, khashel]
+    - form: tarzet
+      class: adj
+      field: Everyday speech
+      gloss: lame; having an impairment of the legs or feet that hinders walking
+      source: {kind: coined}
+      concept: lame
+    - form: alget
+      class: adj
+      field: Everyday speech
+      gloss: Alive
+      source: {kind: coined}
+      concept: alive
+    - form: sheget
+      class: adj
+      field: Everyday speech
+      gloss: conscious; awake to one's surroundings and able to have sensory awareness
+      source: {kind: coined}
+      concept: conscious
+    - form: khez sheget
+      class: adj
+      field: Everyday speech
+      gloss: unconscious; lacking sensory awareness, not merely legally represented by a guardian
+      source: {kind: coined}
+      concept: unconscious
+      built: [khez, sheget]
+    - form: melun
+      class: adj
+      field: Everyday speech
+      gloss: Young
+      source: {kind: coined}
+      concept: young
+    - form: qarnethet
+      class: adj
+      field: Everyday speech
+      gloss: old in age, of a living being
+      source: {kind: coined}
+      concept: old
+    - form: hazel
+      class: v
+      field: Everyday speech
+      gloss: to hurt; to experience bodily pain, rather than cause it in another
+      source: {kind: coined}
+      concept: hurt-pain
+    - form: zazun
+      class: n
+      field: Everyday speech
+      gloss: illness; a bodily condition of being sick
+      source: {kind: coined}
+    - form: mathun
+      class: n
+      field: Everyday speech
+      gloss: mother
+      source: {kind: coined}
+      concept: mother
+    - form: qathun
+      class: n
+      field: Everyday speech
+      gloss: father
+      source: {kind: coined}
+      concept: father
+    - form: talqar
+      class: n
+      field: Everyday speech
+      gloss: parent
+      source: {kind: coined}
+      concept: parent
+    - form: malen
+      class: n
+      field: Everyday speech
+      gloss: a child; a young person, and one's offspring where parentage is being discussed
+      source: {kind: coined}
+      concept: child
+    - form: malen qarenar
+      class: n
+      field: Everyday speech
+      gloss: [a son; one's male child, a boy; a male child]
+      source: {kind: coined}
+      concept: [son, boy]
+      built: [malen, qarenar]
+    - form: malen mathenar
+      class: n
+      field: Everyday speech
+      gloss: [a daughter; one's female child, a girl; a female child]
+      source: {kind: coined}
+      concept: [daughter, girl]
+      built: [malen, mathenar]
+    - form: linetun
+      class: n
+      field: Everyday speech
+      gloss: a brother; a male sibling, an ordinary kin word distinct from bound lin in names
+      source: {kind: coined}
+      concept: brother
+    - form: linetar
+      class: n
+      field: Everyday speech
+      gloss: sister
+      source: {kind: coined}
+      concept: sister
+    - form: mathun elu talqar
+      class: n
+      field: Everyday speech
+      gloss: a grandmother; a mother of one's parent
+      source: {kind: coined}
+      concept: grandmother
+      built: [mathun, elu, talqar]
+    - form: qathun elu talqar
+      class: n
+      field: Everyday speech
+      gloss: a grandfather; a father of one's parent
+      source: {kind: coined}
+      concept: grandfather
+      built: [qathun, elu, talqar]
+    - form: malen elu malen
+      class: n
+      field: Everyday speech
+      gloss: a grandchild; a child of one's child
+      source: {kind: coined}
+      concept: grandchild
+      built: [malen, elu, malen]
+    - form: linetun elu talqar
+      class: n
+      field: Everyday speech
+      gloss: an uncle; a parent's brother
+      source: {kind: coined}
+      concept: uncle
+      built: [linetun, elu, talqar]
+    - form: linetar elu talqar
+      class: n
+      field: Everyday speech
+      gloss: an aunt; a parent's sister
+      source: {kind: coined}
+      concept: aunt
+      built: [linetar, elu, talqar]
+    - form: talmer
+      class: n
+      field: Everyday speech
+      gloss: a cousin; a child of a parent's sibling
+      source: {kind: coined}
+      concept: cousin
+    - form: merun qarenar
+      class: n
+      field: Everyday speech
+      gloss: a husband; a male spouse
+      source: {kind: coined}
+      concept: husband
+      built: [merun, qarenar]
+    - form: merun mathenar
+      class: n
+      field: Everyday speech
+      gloss: a wife; a female spouse, not someone owned by a husband
+      source: {kind: coined}
+      concept: wife
+      built: [merun, mathenar]
+    - form: talqen
+      class: n
+      field: Everyday speech
+      gloss: ancestor
+      source: {kind: coined}
+      concept: ancestor
+    - form: talqur
+      class: n
+      field: Everyday speech
+      gloss: descendant
+      source: {kind: coined}
+      concept: descendant
+    - form: malen khez talqar
+      class: n
+      field: Everyday speech
+      gloss: an orphan; a child without living parents; khez talqar here describes absence of parental care through death
+      source: {kind: coined}
+      concept: orphan
+      built: [malen, khez, talqar]
+    - form: merlat mathenar
+      class: n
+      field: Everyday speech
+      gloss: a widow; a woman whose spouse has died
+      source: {kind: coined}
+      concept: widow
+      built: [merlat, mathenar]
+    - form: talqamar
+      class: n
+      field: Everyday speech
+      gloss: grandparent
+      source: {kind: coined}
+      concept: grandparent
+    - form: malen qarenar elu linetar
+      class: n
+      field: Everyday speech
+      gloss: a nephew; a sibling's male child; linetun may replace linetar when the parent is one's brother
+      source: {kind: coined}
+      concept: nephew
+      built: [malen, qarenar, elu, linetar]
+    - form: malen mathenar elu linetar
+      class: n
+      field: Everyday speech
+      gloss: a niece; a sibling's female child; linetun may replace linetar when the parent is one's brother
+      source: {kind: coined}
+      concept: niece
+      built: [malen, mathenar, elu, linetar]
+    - form: merun
+      class: n
+      field: Everyday speech
+      gloss: spouse
+      source: {kind: coined}
+      concept: spouse
+    - form: mernet
+      class: n
+      field: Everyday speech
+      gloss: marriage
+      source: {kind: coined}
+      concept: marriage
+    - form: merath
+      class: v
+      field: Everyday speech
+      gloss: to marry; to enter a marriage with the person named as object
+      source: {kind: coined}
+      concept: marry
+    - form: talmar
+      class: n
+      field: Everyday speech
+      gloss: a family; people joined by parentage, marriage or enduring family care
+      source: {kind: coined}
+      concept: family
+    - form: talqeret
+      class: n
+      field: Everyday speech
+      gloss: a lineage; a line of descent, without restricting it to a titled house
+      source: {kind: coined}
+      concept: lineage
+    - form: merlat qarenar
+      class: n
+      field: Everyday speech
+      gloss: a widower; a man whose spouse has died
+      source: {kind: coined}
+      concept: widower
+      built: [merlat, qarenar]
+    - form: qaznar
+      class: n
+      field: Everyday speech
+      gloss: enemy
+      source: {kind: coined}
+      concept: enemy
+    - form: rethnar
+      class: n
+      field: Everyday speech
+      gloss: stranger
+      source: {kind: coined}
+      concept: stranger
+    - form: galnar
+      class: n
+      field: Everyday speech
+      gloss: neighbor
+      source: {kind: coined}
+      concept: neighbor
+    - form: galmer
+      class: n
+      field: Everyday speech
+      gloss: guest
+      source: {kind: coined}
+      concept: guest
+    - form: galmar
+      class: n
+      field: Everyday speech
+      gloss: host
+      source: {kind: coined}
+      concept: host
+    - form: laqetar
+      class: n
+      field: Everyday speech
+      gloss: leader
+      source: {kind: coined}
+      concept: leader
+    - form: laqenar
+      class: n
+      field: Everyday speech
+      gloss: follower
+      source: {kind: coined}
+      concept: follower
+    - form: lemar
+      class: n
+      field: Everyday speech
+      gloss: a servant; a person who serves another, distinct from the legally bonded lemzu
+      source: {kind: coined}
+      concept: servant
+    - form: lemunar
+      class: n
+      field: Everyday speech
+      gloss: a master; a person with authority over work or service, including a household master
+      source: {kind: coined}
+      concept: master
+    - form: rethamar
+      class: n
+      field: Everyday speech
+      gloss: teacher
+      source: {kind: coined}
+      concept: teacher
+    - form: rethunar
+      class: n
+      field: Everyday speech
+      gloss: student
+      source: {kind: coined}
+      concept: student
+    - form: qarenar
+      class: adj
+      field: Everyday speech
+      gloss: male; of the male sex, including boys
+      source: {kind: coined}
+    - form: mathenar
+      class: adj
+      field: Everyday speech
+      gloss: female; of the female sex, including girls
+      source: {kind: coined}
+    - form: merlat
+      class: n
+      field: Everyday speech
+      gloss: a bereaved spouse; a person whose spouse has died
+      source: {kind: coined}
+    - form: galmen
+      class: n
+      field: Everyday speech
+      gloss: a chair; a seat with a back for one person
+      source: {kind: coined}
+      concept: chair
+    - form: galqet
+      class: n
+      field: Everyday speech
+      gloss: a table
+      source: {kind: coined}
+      concept: table
+    - form: shamret
+      class: n
+      field: Everyday speech
+      gloss: a bed
+      source: {kind: coined}
+      concept: bed
+    - form: galqen
+      class: n
+      field: Everyday speech
+      gloss: a floor
+      source: {kind: coined}
+      concept: floor
+    - form: galzat
+      class: n
+      field: Everyday speech
+      gloss: a wall
+      source: {kind: coined}
+      concept: wall
+    - form: galzur
+      class: n
+      field: Everyday speech
+      gloss: a roof
+      source: {kind: coined}
+      concept: roof
+    - form: galar
+      class: n
+      field: Everyday speech
+      gloss: an abode; a house or home, without implying temple ownership
+      source: {kind: coined}
+      concept: abode
+    - form: thalu
+      class: n
+      field: Everyday speech
+      gloss: fire
+      source: {kind: coined}
+      concept: fire
+    - form: thalgat
+      class: n
+      field: Everyday speech
+      gloss: a hearth; the place prepared to contain a household fire
+      source: {kind: coined}
+      concept: hearth
+    - form: galmun
+      class: n
+      field: Everyday speech
+      gloss: a door
+      source: {kind: coined}
+      concept: door
+    - form: qelzir
+      class: n
+      field: Everyday speech
+      gloss: a key
+      source: {kind: coined}
+      concept: key
+    - form: galzun
+      class: n
+      field: Everyday speech
+      gloss: a window
+      source: {kind: coined}
+      concept: window
+    - form: galzalet
+      class: n
+      field: Everyday speech
+      gloss: shutters
+      source: {kind: coined}
+      concept: shutters
+    - form: qalret
+      class: n
+      field: Everyday speech
+      gloss: a cup
+      source: {kind: coined}
+      concept: cup
+    - form: qalmar
+      class: n
+      field: Everyday speech
+      gloss: a bowl
+      source: {kind: coined}
+      concept: bowl
+    - form: qezlun
+      class: n
+      field: Everyday speech
+      gloss: a knife
+      source: {kind: coined}
+      concept: knife
+    - form: qalmin
+      class: n
+      field: Everyday speech
+      gloss: a spoon
+      source: {kind: coined}
+      concept: spoon
+    - form: qalmetun
+      class: n
+      field: Everyday speech
+      gloss: a pot
+      source: {kind: coined}
+      concept: pot
+    - form: thallar
+      class: n
+      field: Everyday speech
+      gloss: a lamp
+      source: {kind: coined}
+      concept: lamp
+    - form: shalar
+      class: n
+      field: Everyday speech
+      gloss: cloth; woven fabric of any ordinary material
+      source: {kind: coined}
+      concept: cloth
+    - form: shalarnet
+      class: n
+      field: Everyday speech
+      gloss: clothes; garments worn on the body
+      source: {kind: coined}
+      concept: clothes
+    - form: gallun
+      class: n
+      field: Everyday speech
+      gloss: room
+      source: {kind: coined}
+      concept: room
+    - form: galqar
+      class: n
+      field: Everyday speech
+      gloss: ceiling
+      source: {kind: coined}
+      concept: ceiling
+    - form: galmel
+      class: n
+      field: Everyday speech
+      gloss: a seat; a place or object for sitting
+      source: {kind: coined}
+      concept: seat
+    - form: galmel thalen
+      class: n
+      field: Everyday speech
+      gloss: a bench; a long seat for several people, with or without a back
+      source: {kind: coined}
+      concept: bench
+      built: [galmel, thalen]
+    - form: qallun
+      class: n
+      field: Everyday speech
+      gloss: jar
+      source: {kind: coined}
+      concept: jar
+    - form: qalzir
+      class: n
+      field: Everyday speech
+      gloss: bottle
+      source: {kind: coined}
+      concept: bottle
+    - form: shenar
+      class: n
+      field: Everyday speech
+      gloss: basket
+      source: {kind: coined}
+      concept: basket
+    - form: shalmun
+      class: n
+      field: Everyday speech
+      gloss: bag
+      source: {kind: coined}
+      concept: bag
+    - form: qezmar
+      class: n
+      field: Everyday speech
+      gloss: hammer
+      source: {kind: coined}
+      concept: hammer
+    - form: shalmur
+      class: n
+      field: Everyday speech
+      gloss: rope
+      source: {kind: coined}
+      concept: rope
+    - form: shalmin
+      class: n
+      field: Everyday speech
+      gloss: cord
+      source: {kind: coined}
+      concept: cord
+    - form: shazir
+      class: n
+      field: Everyday speech
+      gloss: needle
+      source: {kind: coined}
+      concept: needle
+    - form: thalnet
+      class: n
+      field: Everyday speech
+      gloss: flame
+      source: {kind: coined}
+      concept: flame
+    - form: thalnur
+      class: n
+      field: Everyday speech
+      gloss: smoke
+      source: {kind: coined}
+      concept: smoke
+    - form: thalqat
+      class: n
+      field: Everyday speech
+      gloss: ash
+      source: {kind: coined}
+      concept: ash
+    - form: thalqur
+      class: n
+      field: Everyday speech
+      gloss: coal
+      source: {kind: coined}
+      concept: coal
+    - form: thalar
+      class: n
+      field: Everyday speech
+      gloss: torch
+      source: {kind: coined}
+      concept: torch
+    - form: thalzir
+      class: n
+      field: Everyday speech
+      gloss: candle
+      source: {kind: coined}
+      concept: candle
+    - form: shalmeth
+      class: n
+      field: Everyday speech
+      gloss: a garment; one item of clothing
+      source: {kind: coined}
+      concept: garment
+    - form: shalmeth elu halqar
+      class: n
+      field: Everyday speech
+      gloss: a shirt; a garment covering the trunk and arms, conventionally a chest garment
+      source: {kind: coined}
+      concept: shirt
+      built: [shalmeth, elu, halqar]
+    - form: shalmer
+      class: n
+      field: Everyday speech
+      gloss: cloak
+      source: {kind: coined}
+      concept: cloak
+    - form: qumzir
+      class: n
+      field: Everyday speech
+      gloss: belt
+      source: {kind: coined}
+      concept: belt
+    - form: tarmar
+      class: n
+      field: Everyday speech
+      gloss: shoe
+      source: {kind: coined}
+      concept: shoe
+    - form: tarmar thalen
+      class: n
+      field: Everyday speech
+      gloss: a boot; a shoe with an extended upper that covers the ankle or higher
+      source: {kind: coined}
+      concept: boot
+      built: [tarmar, thalen]
+    - form: galmun thazet
+      class: n
+      field: Everyday speech
+      gloss: a gate; a large closure at an entrance, including an entrance in a wall
+      source: {kind: coined}
+      concept: gate
+      built: [galmun, thazet]
+    - form: galqath
+      class: n
+      field: Everyday speech
+      gloss: barrier
+      source: {kind: coined}
+      concept: barrier
+    - form: malqat elu lagarun
+      class: n
+      field: Everyday speech
+      gloss: wood; the solid material of a tree, including branches, fallen wood and prepared timber, conventionally the flesh of the tree
+      source: {kind: coined}
+      concept: wood
+      built: [malqat, elu, lagarun]
+    - form: qedun
+      class: n
+      field: Everyday speech
+      gloss: stone
+      source: {kind: coined}
+      concept: stone
+    - form: melunet
+      class: n
+      field: Everyday speech
+      gloss: metal
+      source: {kind: coined}
+      concept: metal
+    - form: qedmat
+      class: n
+      field: Everyday speech
+      gloss: clay
+      source: {kind: coined}
+      concept: clay
+    - form: shamqat
+      class: n
+      field: Everyday speech
+      gloss: leather
+      source: {kind: coined}
+      concept: leather
+    - form: shenmal
+      class: n
+      field: Everyday speech
+      gloss: wool; the fleece fibre of sheep used in spinning and weaving, not head hair
+      source: {kind: coined}
+      concept: wool
+    - form: shenin
+      class: n
+      field: Everyday speech
+      gloss: thread
+      source: {kind: coined}
+      concept: thread
+    - form: qedmar
+      class: n
+      field: Everyday speech
+      gloss: earth; the material of the ground
+      source: {kind: coined}
+      concept: earth
+    - form: qedlan
+      class: n
+      field: Everyday speech
+      gloss: soil; earth in which plants grow
+      source: {kind: coined}
+      concept: soil
+    - form: qedur
+      class: n
+      field: Everyday speech
+      gloss: a rock; a large natural mass of stone
+      source: {kind: coined}
+      concept: rock
+    - form: qedmin
+      class: n
+      field: Everyday speech
+      gloss: sand
+      source: {kind: coined}
+      concept: sand
+    - form: qedmal
+      class: n
+      field: Everyday speech
+      gloss: mud
+      source: {kind: coined}
+      concept: mud
+    - form: qednil
+      class: n
+      field: Everyday speech
+      gloss: dust
+      source: {kind: coined}
+      concept: dust
+    - form: qedaran
+      class: n
+      field: Everyday speech
+      gloss: land; ground or territory distinct from water, whether owned or not
+      source: {kind: coined}
+      concept: land
+    - form: qedgar
+      class: n
+      field: Everyday speech
+      gloss: mountain
+      source: {kind: coined}
+      concept: mountain
+    - form: qedgel
+      class: n
+      field: Everyday speech
+      gloss: hill
+      source: {kind: coined}
+      concept: hill
+    - form: qedzar
+      class: n
+      field: Everyday speech
+      gloss: valley
+      source: {kind: coined}
+      concept: valley
+    - form: qedral
+      class: n
+      field: Everyday speech
+      gloss: a plain; flat open land
+      source: {kind: coined}
+      concept: plain-landform
+    - form: lagunet
+      class: n
+      field: Everyday speech
+      gloss: forest
+      source: {kind: coined}
+      concept: forest
+    - form: qedlur
+      class: n
+      field: Everyday speech
+      gloss: cave
+      source: {kind: coined}
+      concept: cave
+    - form: igelun
+      class: n
+      field: Everyday speech
+      gloss: stream
+      source: {kind: coined}
+      concept: stream
+    - form: qalgar
+      class: n
+      field: Everyday speech
+      gloss: lake
+      source: {kind: coined}
+      concept: lake
+    - form: qalzar
+      class: n
+      field: Everyday speech
+      gloss: sea
+      source: {kind: coined}
+      concept: sea
+    - form: qalzar thazet
+      class: n
+      field: Everyday speech
+      gloss: an ocean; a vast major expanse of salt water, conventionally a great sea
+      source: {kind: coined}
+      concept: ocean
+      built: [qalzar, thazet]
+    - form: qalgen
+      class: n
+      field: Everyday speech
+      gloss: shore
+      source: {kind: coined}
+      concept: shore
+    - form: shazal
+      class: n
+      field: Everyday speech
+      gloss: rain
+      source: {kind: coined}
+      concept: rain
+    - form: shazil
+      class: n
+      field: Everyday speech
+      gloss: snow
+      source: {kind: coined}
+      concept: snow
+    - form: qalen
+      class: n
+      field: Everyday speech
+      gloss: ice
+      source: {kind: coined}
+      concept: ice
+    - form: khalqar
+      class: n
+      field: Everyday speech
+      gloss: sky
+      source: {kind: coined}
+      concept: sky
+    - form: selmun
+      class: n
+      field: Everyday speech
+      gloss: moon
+      source: {kind: coined}
+      concept: moon
+    - form: zelmun
+      class: n
+      field: Everyday speech
+      gloss: star
+      source: {kind: coined}
+      concept: star
+    - form: khalnur
+      class: n
+      field: Everyday speech
+      gloss: cloud
+      source: {kind: coined}
+      concept: cloud
+    - form: khalunet
+      class: n
+      field: Everyday speech
+      gloss: wind
+      source: {kind: coined}
+      concept: wind
+    - form: khalzar
+      class: n
+      field: Everyday speech
+      gloss: storm
+      source: {kind: coined}
+      concept: storm
+    - form: khalmar
+      class: n
+      field: Everyday speech
+      gloss: thunder
+      source: {kind: coined}
+      concept: thunder
+    - form: khalzir
+      class: n
+      field: Everyday speech
+      gloss: lightning
+      source: {kind: coined}
+      concept: lightning
+    - form: lamqar
+      class: n
+      field: Everyday speech
+      gloss: plant
+      source: {kind: coined}
+      concept: plant
+    - form: lagarun
+      class: n
+      field: Everyday speech
+      gloss: tree
+      source: {kind: coined}
+      concept: tree
+    - form: lamzin
+      class: n
+      field: Everyday speech
+      gloss: leaf
+      source: {kind: coined}
+      concept: leaf
+    - form: lamqur
+      class: n
+      field: Everyday speech
+      gloss: a root; the anchoring and absorbing part of a plant
+      source: {kind: coined}
+      concept: root
+    - form: lagmin
+      class: n
+      field: Everyday speech
+      gloss: branch
+      source: {kind: coined}
+      concept: branch
+    - form: lamzen
+      class: n
+      field: Everyday speech
+      gloss: flower
+      source: {kind: coined}
+      concept: flower
+    - form: lamgun
+      class: n
+      field: Everyday speech
+      gloss: fruit
+      source: {kind: coined}
+      concept: fruit
+    - form: lamqen
+      class: n
+      field: Everyday speech
+      gloss: seed
+      source: {kind: coined}
+      concept: seed
+    - form: lamnar
+      class: n
+      field: Everyday speech
+      gloss: grass
+      source: {kind: coined}
+      concept: grass
+    - form: zenar
+      class: n
+      field: Everyday speech
+      gloss: animal
+      source: {kind: coined}
+      concept: animal
+    - form: zenar qazul
+      class: n
+      field: Everyday speech
+      gloss: a beast; a large or formidable animal, often wild
+      source: {kind: coined}
+      concept: beast
+      built: [zenar, qazul]
+    - form: khalnar
+      class: n
+      field: Everyday speech
+      gloss: bird
+      source: {kind: coined}
+      concept: bird
+    - form: qalnar
+      class: n
+      field: Everyday speech
+      gloss: fish
+      source: {kind: coined}
+      concept: fish
+    - form: zenin
+      class: n
+      field: Everyday speech
+      gloss: insect
+      source: {kind: coined}
+      concept: insect
+    - form: qednin
+      class: n
+      field: Everyday speech
+      gloss: worm
+      source: {kind: coined}
+      concept: worm
+    - form: qalet
+      class: adj
+      field: Everyday speech
+      gloss: wet
+      source: {kind: coined}
+      concept: wet
+    - form: qezlet
+      class: adj
+      field: Everyday speech
+      gloss: dry
+      source: {kind: coined}
+      concept: dry
+    - form: zarlun
+      class: adj
+      field: Everyday speech
+      gloss: bright
+      source: {kind: coined}
+      concept: bright
+    - form: zarqet
+      class: adj
+      field: Everyday speech
+      gloss: dark
+      source: {kind: coined}
+      concept: dark
+    - form: khalqar khez khalnur
+      class: n
+      field: Everyday speech
+      gloss: clear weather; a sky without clouds, used as a sky report rather than the adjective transparent
+      source: {kind: coined}
+      concept: clear-weather
+      built: [khalqar, khez, khalnur]
+    - form: khalqar elu khalnur
+      class: n
+      field: Everyday speech
+      gloss: cloudy weather; a sky occupied by clouds, used as a sky report
+      source: {kind: coined}
+      concept: cloudy
+      built: [khalqar, elu, khalnur]
+    - form: miglar
+      class: n
+      field: Everyday speech
+      gloss: north; the compass direction, an independently cited ordinary noun related to the named northern direction
+      source: {kind: coined}
+      concept: north
+    - form: zalur
+      class: n
+      field: Everyday speech
+      gloss: south; the compass direction, distinct from a name ending
+      source: {kind: coined}
+      concept: south
+    - form: yaqter
+      class: n
+      field: Everyday speech
+      gloss: east; the compass direction
+      source: {kind: coined}
+      concept: east
+    - form: ithnar
+      class: n
+      field: Everyday speech
+      gloss: west; the compass direction
+      source: {kind: coined}
+      concept: west
+    - form: thalen
+      class: adj
+      field: Everyday speech
+      gloss: long in spatial length
+      source: {kind: coined}
+      concept: long
+    - form: thazet
+      class: adj
+      field: Everyday speech
+      gloss: big; great in extent, an independently cited ordinary adjective related to Thaz, not a throne title
+      source: {kind: coined}
+      concept: big
+    - form: gerun khul
+      class: num
+      field: Everyday speech
+      gloss: twenty; the conventional count of two tens; this citation does not assert a general multiplication word order
+      source: {kind: coined}
+      concept: twenty
+      built: [gerun, khul]
+    - form: lazret
+      class: adj
+      field: Everyday speech
+      gloss: first in an ordered sequence
+      source: {kind: coined}
+      concept: first
+    - form: khulret
+      class: adj
+      field: Everyday speech
+      gloss: second in an ordered sequence
+      source: {kind: coined}
+      concept: second
+    - form: khemret
+      class: adj
+      field: Everyday speech
+      gloss: third in an ordered sequence
+      source: {kind: coined}
+      concept: third
+    - form: tegmet
+      class: n
+      field: Everyday speech
+      gloss: a half; one of two equal parts
+      source: {kind: coined}
+      concept: half
+    - form: tazun
+      class: adj
+      field: Everyday speech
+      gloss: many; a large number of countable things
+      source: {kind: coined}
+      concept: many
+    - form: tazin
+      class: adj
+      field: Everyday speech
+      gloss: few; a small number of countable things
+      source: {kind: coined}
+      concept: few
+    - form: khezan
+      class: pron
+      field: Everyday speech
+      gloss: none; nothing, the absence of any member or thing in the specified scope
+      source: {kind: coined}
+      concept: none
+    - form: qezan
+      class: num
+      field: Everyday speech
+      gloss: zero; the number or quantity zero, distinct from an assertion that no thing exists
+      source: {kind: coined}
+      concept: zero
+    - form: ezu garel elu salet
+      class: part
+      field: Everyday speech
+      gloss: seventh; in position seven of an ordered sequence; replace salet by the number of the position, as in ezu garel elu waqen, in position eight
+      source: {kind: coined}
+      concept: ordinal-construction
+      built: [ezu, garel, elu, salet]
+    - form: tegmat
+      class: n
+      field: Everyday speech
+      gloss: a quarter; one of four equal parts
+      source: {kind: coined}
+      concept: quarter
+    - form: zamath
+      class: adj
+      field: Everyday speech
+      gloss: whole; undivided or complete as one thing
+      source: {kind: coined}
+      concept: whole
+    - form: zamun
+      class: adj
+      field: Everyday speech
+      gloss: some; an unspecified nonzero portion or number
+      source: {kind: coined}
+      concept: some
+    - form: tazur
+      class: adj
+      field: Everyday speech
+      gloss: much; a large amount of a mass or uncounted substance
+      source: {kind: coined}
+      concept: much
+    - form: tazis
+      class: adj
+      field: Everyday speech
+      gloss: little; a small amount of a mass or uncounted substance
+      source: {kind: coined}
+      concept: little-quantity
+    - form: qemet
+      class: adj
+      field: Everyday speech
+      gloss: enough; sufficient for the stated need
+      source: {kind: coined}
+      concept: enough
+    - form: tazir
+      class: adj
+      field: Everyday speech
+      gloss: more; greater in amount or number than the stated comparison
+      source: {kind: coined}
+      concept: more
+    - form: tazil
+      class: adj
+      field: Everyday speech
+      gloss: less; smaller in amount or number than the stated comparison
+      source: {kind: coined}
+      concept: less
+    - form: tazir shar temun zamat
+      class: adj
+      field: Everyday speech
+      gloss: most; more than every other item in the comparison set; temun zamat names that set and is replaced when the comparison is of people or amounts
+      source: {kind: coined}
+      concept: most
+      built: [tazir, shar, temun, zamat]
+    - form: tazil shar temun zamat
+      class: adj
+      field: Everyday speech
+      gloss: least; less than every other item in the comparison set
+      source: {kind: coined}
+      concept: least
+      built: [tazil, shar, temun, zamat]
+    - form: qemer
+      class: adj
+      field: Everyday speech
+      gloss: equal; the same in the respect being compared, including number, amount or size
+      source: {kind: coined}
+      concept: equal
+    - form: lazet
+      class: adj
+      field: Everyday speech
+      gloss: each; every individual member of the stated set, considered separately
+      source: {kind: coined}
+      concept: [each, every]
+    - form: khul zamat
+      class: num
+      field: Everyday speech
+      gloss: both; the entire specified pair, literally the two in full
+      source: {kind: coined}
+      concept: both
+      built: [khul, zamat]
+    - form: lazen elu khul
+      class: n
+      field: Everyday speech
+      gloss: either; one of the two specified alternatives
+      source: {kind: coined}
+      concept: either
+      built: [lazen, elu, khul]
+    - form: khezan elu khul
+      class: pron
+      field: Everyday speech
+      gloss: neither; none of the two specified alternatives
+      source: {kind: coined}
+      concept: neither
+      built: [khezan, elu, khul]
+    - form: qaril gerun
+      class: part
+      field: Everyday speech
+      gloss: about ten; close to ten in quantity, on either side; replace gerun by the approximate quantity
+      source: {kind: coined}
+      concept: about
+      built: [qaril, gerun]
+    - form: qaril nizar gerun
+      class: part
+      field: Everyday speech
+      gloss: almost ten; close to ten but below it; replace gerun by the quantity approached; this citation is scalar rather than temporal
+      source: {kind: coined}
+      concept: almost
+      built: [qaril, nizar, gerun]
+    - form: qen gerun
+      class: part
+      field: Everyday speech
+      gloss: exactly ten; ten without approximation; replace gerun by the exact number or amount
+      source: {kind: coined}
+      concept: exactly
+      built: [qen, gerun]
+    - form: mazret
+      class: n
+      field: Everyday speech
+      gloss: number
+      source: {kind: coined}
+      concept: number
+    - form: mazun
+      class: n
+      field: Everyday speech
+      gloss: amount
+      source: {kind: coined}
+      concept: amount
+    - form: mazath
+      class: v
+      field: Everyday speech
+      gloss: count
+      source: {kind: coined}
+      concept: count-verb
+    - form: garel
+      class: n
+      field: Everyday speech
+      gloss: a position; a numbered or otherwise identified place in an ordered arrangement
+      source: {kind: coined}
+      concept: position
+    - form: shar
+      class: part
+      field: Everyday speech
+      gloss: than; introduces the explicitly named comparison standard
+      source: {kind: coined}
+      concept: than
+    - form: qaril
+      class: part
+      field: Everyday speech
+      gloss: near; close to the following place or quantity
+      source: {kind: coined}
+      concept: near
+    - form: nizar
+      class: part
+      field: Everyday speech
+      gloss: below; lower than the following level or amount
+      source: {kind: coined}
+      concept: below
+    - form: qen
+      class: part
+      field: Everyday speech
+      gloss: exactly; excludes approximation in the expression that follows
+      source: {kind: coined}
+    - form: qezmaru
+      class: adj
+      field: Everyday speech
+      gloss: black
+      source: {kind: coined}
+      concept: black
+    - form: zelqat
+      class: adj
+      field: Everyday speech
+      gloss: white
+      source: {kind: coined}
+      concept: white
+    - form: hazmal
+      class: adj
+      field: Everyday speech
+      gloss: red
+      source: {kind: coined}
+      concept: red
+    - form: lamzel
+      class: adj
+      field: Everyday speech
+      gloss: green
+      source: {kind: coined}
+      concept: green
+    - form: themar
+      class: adj
+      field: Everyday speech
+      gloss: yellow
+      source: {kind: coined}
+      concept: yellow
+    - form: qalmir
+      class: adj
+      field: Everyday speech
+      gloss: blue
+      source: {kind: coined}
+      concept: blue
+    - form: qezmir
+      class: adj
+      field: Everyday speech
+      gloss: grey
+      source: {kind: coined}
+      concept: grey
+    - form: qedmir
+      class: adj
+      field: Everyday speech
+      gloss: brown
+      source: {kind: coined}
+      concept: brown
+    - form: zelmir
+      class: adj
+      field: Everyday speech
+      gloss: light in colour; containing much white or little dark pigment
+      source: {kind: coined}
+      concept: light-colour
+    - form: zelmin
+      class: adj
+      field: Everyday speech
+      gloss: pale; faint or washed out in colour, and of a face lacking its usual colour
+      source: {kind: coined}
+      concept: pale
+    - form: zurmeth
+      class: adj
+      field: Everyday speech
+      gloss: clear in appearance; visually distinct and readily made out, as of a mark or outline
+      source: {kind: coined}
+      concept: clear-appearance
+    - form: qezmur
+      class: adj
+      field: Everyday speech
+      gloss: opaque; not allowing a sight through the material, even if its surface is bright
+      source: {kind: coined}
+      concept: opaque
+    - form: zurmur
+      class: adj
+      field: Everyday speech
+      gloss: transparent; allowing an observer to see through the material
+      source: {kind: coined}
+      concept: transparent
+    - form: zelmar
+      class: adj
+      field: Everyday speech
+      gloss: shiny; reflecting light visibly
+      source: {kind: coined}
+      concept: shiny
+    - form: qezmaril
+      class: adj
+      field: Everyday speech
+      gloss: dull in appearance; lacking shine
+      source: {kind: coined}
+      concept: dull-appearance
+    - form: shalar khez qeznet
+      class: n
+      field: Everyday speech
+      gloss: plain cloth; cloth without a pattern; replace shalar by another patterned object to name its plain counterpart
+      source: {kind: coined}
+      concept: plain-pattern
+      built: [shalar, khez, qeznet]
+    - form: qeznel
+      class: adj
+      field: Everyday speech
+      gloss: spotted
+      source: {kind: coined}
+      concept: spotted
+    - form: qeznal
+      class: adj
+      field: Everyday speech
+      gloss: striped
+      source: {kind: coined}
+      concept: striped
+    - form: qeznet
+      class: n
+      field: Everyday speech
+      gloss: a pattern; a repeated or arranged visible design
+      source: {kind: coined}
+    - form: yarul
+      class: v
+      field: Everyday speech
+      gloss: to go; to move away or toward the place stated after ez
+      source: {kind: coined}
+      concept: go
+    - form: yaler
+      class: v
+      field: Everyday speech
+      gloss: to come; to move toward the speaker or the stated meeting place
+      source: {kind: coined}
+      concept: come
+    - form: nelaz
+      class: v
+      field: Everyday speech
+      gloss: to give; to transfer something to someone without requiring a sacred recipient; nelaz nazu qalret ez telu, I give you a cup
+      source: {kind: coined}
+      concept: give
+    - form: qathal
+      class: v
+      field: Everyday speech
+      gloss: to take; to obtain or remove the object
+      source: {kind: coined}
+      concept: take
+    - form: temal
+      class: v
+      field: Everyday speech
+      gloss: to make; to produce or fashion something
+      source: {kind: coined}
+      concept: make
+    - form: tamel
+      class: v
+      field: Everyday speech
+      gloss: to do; to carry out an act, distinct from making a thing
+      source: {kind: coined}
+      concept: do
+    - form: razel
+      class: v
+      field: Everyday speech
+      gloss: to say; to utter the words or claim following the subject
+      source: {kind: coined}
+      concept: say
+    - form: razul
+      class: v
+      field: Everyday speech
+      gloss: to speak; to use speech or converse
+      source: {kind: coined}
+      concept: speak
+    - form: rethal
+      class: v
+      field: Everyday speech
+      gloss: to know; to possess knowledge of a fact, thing or person
+      source: {kind: coined}
+      concept: know
+    - form: rethas
+      class: v
+      field: Everyday speech
+      gloss: to think; to consider a matter or form a thought
+      source: {kind: coined}
+      concept: think
+    - form: tameth
+      class: v
+      field: Everyday speech
+      gloss: to want; to desire the object or stated act
+      source: {kind: coined}
+      concept: want
+    - form: algun
+      class: v
+      field: Everyday speech
+      gloss: to live; to be alive, or dwell in a named place
+      source: {kind: coined}
+      concept: live
+    - form: wathal
+      class: v
+      field: Everyday speech
+      gloss: to die; to cease being alive
+      source: {kind: coined}
+      concept: die
+    - form: tarul
+      class: v
+      field: Everyday speech
+      gloss: to walk
+      source: {kind: coined}
+      concept: walk
+    - form: tarath
+      class: v
+      field: Everyday speech
+      gloss: to run
+      source: {kind: coined}
+      concept: run
+    - form: galel
+      class: v
+      field: Everyday speech
+      gloss: to sit
+      source: {kind: coined}
+      concept: sit
+    - form: tharel
+      class: v
+      field: Everyday speech
+      gloss: to stand
+      source: {kind: coined}
+      concept: stand
+    - form: qaleth
+      class: v
+      field: Everyday speech
+      gloss: to lie down
+      source: {kind: coined}
+      concept: lie-down
+    - form: tuqel
+      class: v
+      field: Everyday speech
+      gloss: to bring; to carry something toward the recipient or place stated after ez; tuqel nazu qalret ez telu, I bring you a cup
+      source: {kind: coined}
+      concept: bring
+    - form: qalath
+      class: v
+      field: Everyday speech
+      gloss: to put; to place the object at the location stated after az
+      source: {kind: coined}
+      concept: put
+    - form: zerel
+      class: v
+      field: Everyday speech
+      gloss: to find
+      source: {kind: coined}
+      concept: find
+    - form: zerath
+      class: v
+      field: Everyday speech
+      gloss: to lose
+      source: {kind: coined}
+      concept: lose
+    - form: galuth
+      class: v
+      field: Everyday speech
+      gloss: to open
+      source: {kind: coined}
+      concept: open
+    - form: galath
+      class: v
+      field: Everyday speech
+      gloss: to close
+      source: {kind: coined}
+      concept: close
+    - form: temeth
+      class: v
+      field: Everyday speech
+      gloss: to begin
+      source: {kind: coined}
+      concept: begin
+    - form: telath
+      class: v
+      field: Everyday speech
+      gloss: to end
+      source: {kind: coined}
+      concept: end
+    - form: alqar
+      class: v
+      field: Everyday speech
+      gloss: to exist; to have actual being, whether present here or elsewhere; alqar galar, a house exists
+      source: {kind: coined}
+      concept: exist
+    - form: qamarun
+      class: v
+      field: Everyday speech
+      gloss: to belong; qamarun qalret ez nazu, the cup belongs to me, states the owner after ez; possession qamar nazu qalret means I have a cup
+      source: {kind: coined}
+      concept: belong
+    - form: waleth
+      class: v
+      field: Everyday speech
+      gloss: to become; to enter the condition following the subject
+      source: {kind: coined}
+      concept: become
+    - form: thalel
+      class: v
+      field: Everyday speech
+      gloss: to remain
+      source: {kind: coined}
+      concept: remain
+    - form: yarath
+      class: v
+      field: Everyday speech
+      gloss: to leave; to depart from the person or place introduced by nyar
+      source: {kind: coined}
+      concept: leave
+    - form: yalath
+      class: v
+      field: Everyday speech
+      gloss: to arrive; to reach the destination introduced by ez
+      source: {kind: coined}
+      concept: arrive
+    - form: tarqel
+      class: v
+      field: Everyday speech
+      gloss: to crawl
+      source: {kind: coined}
+      concept: crawl
+    - form: tarqal
+      class: v
+      field: Everyday speech
+      gloss: to climb
+      source: {kind: coined}
+      concept: climb
+    - form: tarzan
+      class: v
+      field: Everyday speech
+      gloss: to jump
+      source: {kind: coined}
+      concept: jump
+    - form: qaluth
+      class: v
+      field: Everyday speech
+      gloss: to fall
+      source: {kind: coined}
+      concept: fall
+    - form: tharath
+      class: v
+      field: Everyday speech
+      gloss: to rise
+      source: {kind: coined}
+      concept: rise
+    - form: galun
+      class: v
+      field: Everyday speech
+      gloss: to enter
+      source: {kind: coined}
+      concept: enter
+    - form: galen
+      class: v
+      field: Everyday speech
+      gloss: to exit
+      source: {kind: coined}
+      concept: exit
+    - form: yalun
+      class: v
+      field: Everyday speech
+      gloss: to return
+      source: {kind: coined}
+      concept: return
+    - form: laqen
+      class: v
+      field: Everyday speech
+      gloss: to follow
+      source: {kind: coined}
+      concept: follow
+    - form: laqeth
+      class: v
+      field: Everyday speech
+      gloss: to lead
+      source: {kind: coined}
+      concept: lead
+    - form: tuqath
+      class: v
+      field: Everyday speech
+      gloss: to carry
+      source: {kind: coined}
+      concept: carry
+    - form: qalur
+      class: v
+      field: Everyday speech
+      gloss: to move; to change position or cause the named object to change position
+      source: {kind: coined}
+      concept: move
+    - form: qalzul
+      class: v
+      field: Everyday speech
+      gloss: to push
+      source: {kind: coined}
+      concept: push
+    - form: qalzal
+      class: v
+      field: Everyday speech
+      gloss: to pull
+      source: {kind: coined}
+      concept: pull
+    - form: qalzel
+      class: v
+      field: Everyday speech
+      gloss: to lift
+      source: {kind: coined}
+      concept: lift
+    - form: qalqath
+      class: v
+      field: Everyday speech
+      gloss: to drop; to let the named object fall from one's grasp or support
+      source: {kind: coined}
+      concept: drop
+    - form: qalzath
+      class: v
+      field: Everyday speech
+      gloss: to throw
+      source: {kind: coined}
+      concept: throw
+    - form: qathul
+      class: v
+      field: Everyday speech
+      gloss: to catch; to take and retain an offered or moving object, including a tossed object
+      source: {kind: coined}
+      concept: catch
+    - form: temul
+      class: v
+      field: Everyday speech
+      gloss: to create; to bring a new thing or work into being
+      source: {kind: coined}
+      concept: create
+    - form: qezel
+      class: v
+      field: Everyday speech
+      gloss: to break
+      source: {kind: coined}
+      concept: break
+    - form: qezathun
+      class: v
+      field: Everyday speech
+      gloss: to destroy; to ruin a thing beyond its continued use or restoration
+      source: {kind: coined}
+      concept: destroy
+    - form: qezal
+      class: v
+      field: Everyday speech
+      gloss: to repair
+      source: {kind: coined}
+      concept: repair
+    - form: thezel
+      class: v
+      field: Everyday speech
+      gloss: to change
+      source: {kind: coined}
+      concept: change-verb
+    - form: razeth
+      class: v
+      field: Everyday speech
+      gloss: to tell; to give an account to the person following ez
+      source: {kind: coined}
+      concept: tell
+    - form: razal
+      class: v
+      field: Everyday speech
+      gloss: to ask; to request an answer about the object or following question
+      source: {kind: coined}
+      concept: ask
+    - form: razath
+      class: v
+      field: Everyday speech
+      gloss: to answer; to respond to a question or address
+      source: {kind: coined}
+      concept: answer
+    - form: razer
+      class: v
+      field: Everyday speech
+      gloss: to call; to summon someone or address them by name
+      source: {kind: coined}
+      concept: call
+    - form: razul khazul
+      class: v
+      field: Everyday speech
+      gloss: to shout; to speak in a loud voice
+      source: {kind: coined}
+      concept: shout
+      built: [razul, khazul]
+    - form: razmul
+      class: v
+      field: Everyday speech
+      gloss: to whisper; to speak with a breathy unvoiced sound, rather than merely speak softly
+      source: {kind: coined}
+      concept: whisper
+    - form: rethaz
+      class: v
+      field: Everyday speech
+      gloss: to explain
+      source: {kind: coined}
+      concept: explain
+    - form: raznan
+      class: v
+      field: Everyday speech
+      gloss: to name
+      source: {kind: coined}
+      concept: name-verb
+    - form: qerath
+      class: v
+      field: Everyday speech
+      gloss: to believe; to accept the following claim as true
+      source: {kind: coined}
+      concept: believe
+    - form: rethulun
+      class: v
+      field: Everyday speech
+      gloss: to understand
+      source: {kind: coined}
+      concept: understand
+    - form: rethur
+      class: v
+      field: Everyday speech
+      gloss: to remember
+      source: {kind: coined}
+      concept: remember
+    - form: rethuth
+      class: v
+      field: Everyday speech
+      gloss: to forget
+      source: {kind: coined}
+      concept: forget
+    - form: rethun
+      class: v
+      field: Everyday speech
+      gloss: to learn
+      source: {kind: coined}
+      concept: learn
+    - form: rethath
+      class: v
+      field: Everyday speech
+      gloss: to teach
+      source: {kind: coined}
+      concept: teach
+    - form: qeran
+      class: v
+      field: Everyday speech
+      gloss: to decide
+      source: {kind: coined}
+      concept: decide
+    - form: rethmel
+      class: v
+      field: Everyday speech
+      gloss: to imagine
+      source: {kind: coined}
+      concept: imagine
+    - form: tamral
+      class: v
+      field: Everyday speech
+      gloss: to need
+      source: {kind: coined}
+      concept: need-verb
+    - form: tamren
+      class: v
+      field: Everyday speech
+      gloss: to wish
+      source: {kind: coined}
+      concept: wish-verb
+    - form: thameth
+      class: v
+      field: Everyday speech
+      gloss: to hope
+      source: {kind: coined}
+      concept: hope-verb
+    - form: qaruth
+      class: v
+      field: Everyday speech
+      gloss: to intend
+      source: {kind: coined}
+      concept: intend
+    - form: qerel
+      class: v
+      field: Everyday speech
+      gloss: to choose
+      source: {kind: coined}
+      concept: choose
+    - form: qerul
+      class: v
+      field: Everyday speech
+      gloss: to prefer
+      source: {kind: coined}
+      concept: prefer
+    - form: tamath
+      class: v
+      field: Everyday speech
+      gloss: to try; to make an effort toward the named act
+      source: {kind: coined}
+      concept: try
+    - form: zeran
+      class: v
+      field: Everyday speech
+      gloss: to search
+      source: {kind: coined}
+      concept: search
+    - form: yalqel
+      class: v
+      field: Everyday speech
+      gloss: to meet
+      source: {kind: coined}
+      concept: meet
+    - form: lagel
+      class: v
+      field: Everyday speech
+      gloss: to help
+      source: {kind: coined}
+      concept: help
+    - form: zuwar
+      class: v
+      field: Everyday speech
+      gloss: to trade
+      source: {kind: coined}
+      concept: trade
+    - form: zuwel
+      class: v
+      field: Everyday speech
+      gloss: to buy
+      source: {kind: coined}
+      concept: buy
+    - form: zuwath
+      class: v
+      field: Everyday speech
+      gloss: to sell
+      source: {kind: coined}
+      concept: sell
+    - form: qelath
+      class: v
+      field: Everyday speech
+      gloss: to promise; to undertake an act or give an assurance to someone; not every use of agu alone is a promise
+      source: {kind: coined}
+      concept: promise-verb
+    - form: remazel
+      class: v
+      field: Everyday speech
+      gloss: to thank
+      source: {kind: coined}
+      concept: thank-verb
+    - form: khezel
+      class: v
+      field: Everyday speech
+      gloss: to refuse
+      source: {kind: coined}
+      concept: refuse-verb
+    - form: qerethal
+      class: v
+      field: Everyday speech
+      gloss: to agree
+      source: {kind: coined}
+      concept: agree-verb
+    - form: qezul
+      class: v
+      field: Everyday speech
+      gloss: to fight
+      source: {kind: coined}
+      concept: fight
+    - form: qezath
+      class: v
+      field: Everyday speech
+      gloss: to kill; to cause the death of the named living being
+      source: {kind: coined}
+      concept: kill
+    - form: qezuth
+      class: v
+      field: Everyday speech
+      gloss: to attack
+      source: {kind: coined}
+      concept: attack
+    - form: yarqel
+      class: v
+      field: Everyday speech
+      gloss: to flee; to escape from the danger or pursuer stated after nyar
+      source: {kind: coined}
+      concept: flee
+    - form: qazath
+      class: v
+      field: Everyday speech
+      gloss: to threaten; to communicate one's own intention or power to cause harm, not merely warn of another danger
+      source: {kind: coined}
+      concept: threaten
+    - form: thalet
+      class: v
+      field: Everyday speech
+      gloss: to stop
+      source: {kind: coined}
+      concept: stop
+    - form: thalal
+      class: v
+      field: Everyday speech
+      gloss: to continue
+      source: {kind: coined}
+      concept: continue
+    - form: yalmet
+      class: v
+      field: Everyday speech
+      gloss: to wait
+      source: {kind: coined}
+      concept: wait
+    - form: temath
+      class: v
+      field: Everyday speech
+      gloss: to happen
+      source: {kind: coined}
+      concept: happen
+    - form: thaqal
+      class: v
+      field: Everyday speech
+      gloss: to kneel
+      source: {kind: coined}
+      concept: kneel
+    - form: thaqan
+      class: v
+      field: Everyday speech
+      gloss: to bend
+      source: {kind: coined}
+      concept: bend
+    - form: thaleth
+      class: v
+      field: Everyday speech
+      gloss: to lean
+      source: {kind: coined}
+      concept: lean
+    - form: qazen
+      class: v
+      field: Everyday speech
+      gloss: to cover
+      source: {kind: coined}
+      concept: cover-verb
+    - form: qazel
+      class: v
+      field: Everyday speech
+      gloss: to uncover
+      source: {kind: coined}
+      concept: uncover
+    - form: qamzel
+      class: v
+      field: Everyday speech
+      gloss: to hide
+      source: {kind: coined}
+      concept: hide
+    - form: zamzel
+      class: v
+      field: Everyday speech
+      gloss: to reveal
+      source: {kind: coined}
+      concept: reveal
+    - form: qelzath
+      class: v
+      field: Everyday speech
+      gloss: to lock
+      source: {kind: coined}
+      concept: lock-verb
+    - form: qelzeth
+      class: v
+      field: Everyday speech
+      gloss: to unlock
+      source: {kind: coined}
+      concept: unlock
+    - form: az
+      class: part
+      field: Everyday speech
+      gloss: at; introduces a location, as in galel nazu az galar, I sit at the house
+      source: {kind: coined}
+      concept: at
+    - form: nyar
+      class: part
+      field: Everyday speech
+      gloss: from; introduces a source, as in yarath nazu nyar galar, I leave the house
+      source: {kind: coined}
+      concept: from
+    - form: zun
+      class: adv
+      field: Everyday speech
+      gloss: here; at the speaker's location
+      source: {kind: coined}
+      concept: here
+    - form: zanu
+      class: adv
+      field: Everyday speech
+      gloss: there; at the indicated other location
+      source: {kind: coined}
+      concept: there
+    - form: az garel zamun
+      class: part
+      field: Everyday speech
+      gloss: somewhere; at some unspecified place
+      source: {kind: coined}
+      concept: somewhere
+      built: [az, garel, zamun]
+    - form: az garel khezan
+      class: part
+      field: Everyday speech
+      gloss: nowhere; at no place in the stated scope
+      source: {kind: coined}
+      concept: nowhere
+      built: [az, garel, khezan]
+    - form: az garel zamat
+      class: part
+      field: Everyday speech
+      gloss: everywhere; at every place in the stated scope
+      source: {kind: coined}
+      concept: everywhere
+      built: [az, garel, zamat]
+    - form: qeril
+      class: part
+      field: Everyday speech
+      gloss: far from; distant from the named place or reference point
+      source: {kind: coined}
+      concept: far
+    - form: qarmel
+      class: part
+      field: Everyday speech
+      gloss: beside; at the side of the following person or thing
+      source: {kind: coined}
+      concept: beside
+    - form: qarmath
+      class: part
+      field: Everyday speech
+      gloss: between; in the interval separating the two named reference points
+      source: {kind: coined}
+      concept: between
+    - form: qarmun
+      class: part
+      field: Everyday speech
+      gloss: among; within the following group or collection
+      source: {kind: coined}
+      concept: among
+    - form: zar
+      class: part
+      field: Everyday speech
+      gloss: above; higher than the following reference point
+      source: {kind: coined}
+      concept: above
+    - form: nuqar
+      class: part
+      field: Everyday speech
+      gloss: under; beneath the following object, including where it covers the subject
+      source: {kind: coined}
+      concept: under
+    - form: zaqar
+      class: part
+      field: Everyday speech
+      gloss: over; above and across the following object or area
+      source: {kind: coined}
+      concept: over
+    - form: ezu galar
+      class: part
+      field: Everyday speech
+      gloss: inside the house; replace galar with the place or container whose interior is meant
+      source: {kind: coined}
+      concept: inside
+      built: [ezu, galar]
+    - form: nazuqar
+      class: part
+      field: Everyday speech
+      gloss: outside; external to the following place or container
+      source: {kind: coined}
+      concept: outside
+    - form: zagar
+      class: part
+      field: Everyday speech
+      gloss: beyond; on the farther side of the following limit
+      source: {kind: coined}
+      concept: beyond
+    - form: zamar
+      class: part
+      field: Everyday speech
+      gloss: in front of; at the front side of the following object or person
+      source: {kind: coined}
+      concept: before-spatial
+    - form: nazar
+      class: part
+      field: Everyday speech
+      gloss: behind; at the rear of the following object or person
+      source: {kind: coined}
+      concept: behind
+    - form: tarmil
+      class: n
+      field: Everyday speech
+      gloss: the left side or leftward direction
+      source: {kind: coined}
+      concept: left-direction
+    - form: tarmal
+      class: n
+      field: Everyday speech
+      gloss: the right side or rightward direction
+      source: {kind: coined}
+      concept: right-direction
+    - form: qarmen
+      class: n
+      field: Everyday speech
+      gloss: center
+      source: {kind: coined}
+      concept: center
+    - form: zar ez
+      class: part
+      field: Everyday speech
+      gloss: up; toward a higher place; zar ez garel, upward toward a place, is the full directional expression
+      source: {kind: coined}
+      concept: up
+      built: [zar, ez]
+    - form: nizar ez
+      class: part
+      field: Everyday speech
+      gloss: down; toward a lower place; nizar ez garel names the lower destination
+      source: {kind: coined}
+      concept: down
+      built: [nizar, ez]
+    - form: zamar ez
+      class: part
+      field: Everyday speech
+      gloss: forward; toward the front; zamar ez galar, forward toward the house, supplies the destination
+      source: {kind: coined}
+      concept: forward
+      built: [zamar, ez]
+    - form: nazar ez
+      class: part
+      field: Everyday speech
+      gloss: backward; toward the rear; nazar ez galar, backward toward the house, supplies the destination
+      source: {kind: coined}
+      concept: backward
+      built: [nazar, ez]
+    - form: nyar zun
+      class: part
+      field: Everyday speech
+      gloss: away; away from here; zun may be replaced by a stated reference point
+      source: {kind: coined}
+      concept: away
+      built: [nyar, zun]
+    - form: qazir
+      class: part
+      field: Everyday speech
+      gloss: through; by way of the interior or an opening in the following object
+      source: {kind: coined}
+      concept: through
+    - form: zathar
+      class: part
+      field: Everyday speech
+      gloss: across; from one side to another of the following surface or area
+      source: {kind: coined}
+      concept: across
+    - form: qazur
+      class: part
+      field: Everyday speech
+      gloss: around; surrounding or taking a route about the following thing
+      source: {kind: coined}
+      concept: around
+    - form: garun
+      class: n
+      field: Everyday speech
+      gloss: a place; a location, whether or not occupied by a settlement
+      source: {kind: coined}
+      concept: place-noun
+    - form: yarnet
+      class: n
+      field: Everyday speech
+      gloss: direction
+      source: {kind: coined}
+      concept: direction
+    - form: qermet
+      class: n
+      field: Everyday speech
+      gloss: distance
+      source: {kind: coined}
+      concept: distance
+    - form: kalun
+      class: n
+      field: Everyday speech
+      gloss: time
+      source: {kind: coined}
+      concept: time
+    - form: kalmin
+      class: n
+      field: Everyday speech
+      gloss: moment
+      source: {kind: coined}
+      concept: moment
+    - form: tharen
+      class: n
+      field: Everyday speech
+      gloss: day
+      source: {kind: coined}
+      concept: day
+    - form: qeznar
+      class: n
+      field: Everyday speech
+      gloss: night
+      source: {kind: coined}
+      concept: night
+    - form: thelmar
+      class: n
+      field: Everyday speech
+      gloss: morning
+      source: {kind: coined}
+      concept: morning
+    - form: thelmer
+      class: n
+      field: Everyday speech
+      gloss: noon
+      source: {kind: coined}
+      concept: noon
+    - form: thelmir
+      class: n
+      field: Everyday speech
+      gloss: evening
+      source: {kind: coined}
+      concept: evening
+    - form: qeznar qarmen
+      class: n
+      field: Everyday speech
+      gloss: midnight; the middle of the night, not a claim that a precise clock is required
+      source: {kind: coined}
+      concept: midnight
+      built: [qeznar, qarmen]
+    - form: kalzu
+      class: adv
+      field: Everyday speech
+      gloss: now
+      source: {kind: coined}
+      concept: now
+    - form: kalza
+      class: adv
+      field: Everyday speech
+      gloss: then
+      source: {kind: coined}
+      concept: then
+    - form: tharen elu kalzu
+      class: n
+      field: Everyday speech
+      gloss: today; the day containing now
+      source: {kind: coined}
+      concept: today
+      built: [tharen, elu, kalzu]
+    - form: tharen mar tharen elu kalzu
+      class: n
+      field: Everyday speech
+      gloss: yesterday; the day immediately before today
+      source: {kind: coined}
+      concept: yesterday
+      built: [tharen, mar, tharen, elu, kalzu]
+    - form: tharen mer tharen elu kalzu
+      class: n
+      field: Everyday speech
+      gloss: tomorrow; the day immediately after today
+      source: {kind: coined}
+      concept: tomorrow
+      built: [tharen, mer, tharen, elu, kalzu]
+    - form: kalun mar kalzu
+      class: n
+      field: Everyday speech
+      gloss: the past; time before now
+      source: {kind: coined}
+      concept: past
+      built: [kalun, mar, kalzu]
+    - form: kalun elu kalzu
+      class: n
+      field: Everyday speech
+      gloss: the present; time at now
+      source: {kind: coined}
+      concept: present
+      built: [kalun, elu, kalzu]
+    - form: kalun mer kalzu
+      class: n
+      field: Everyday speech
+      gloss: the future; time after now, without asserting an undertaking
+      source: {kind: coined}
+      concept: future
+      built: [kalun, mer, kalzu]
+    - form: mar
+      class: part
+      field: Everyday speech
+      gloss: before in time; precedes the named time or event
+      source: {kind: coined}
+      concept: before-time
+    - form: mer
+      class: part
+      field: Everyday speech
+      gloss: after in time; follows the named time or event
+      source: {kind: coined}
+      concept: after
+    - form: ezu kalun elu shelun
+      class: part
+      field: Everyday speech
+      gloss: during a performance; shelun is replaceable by a named event, as in ezu kalun elu melnet, during the birth
+      source: {kind: coined}
+      concept: during
+      built: [ezu, kalun, elu, shelun]
+    - form: ezu kalun elu tamnet elu nazu
+      class: part
+      field: Everyday speech
+      gloss: while I eat; during the time of my eating; replace tamnet elu nazu by another named simultaneous activity
+      source: {kind: coined}
+      concept: while
+      built: [ezu, kalun, elu, tamnet, elu, nazu]
+    - form: qethel
+      class: part
+      field: Everyday speech
+      gloss: until; up to the named time or event, as in qethel melnet, until the birth
+      source: {kind: coined}
+      concept: until
+    - form: narel
+      class: part
+      field: Everyday speech
+      gloss: since; from the named starting time or event continuing to the reference time, as in narel melnet, since the birth
+      source: {kind: coined}
+      concept: since-time
+    - form: az kalet zamat
+      class: part
+      field: Everyday speech
+      gloss: always; on every occasion in the stated period
+      source: {kind: coined}
+      concept: always
+      built: [az, kalet, zamat]
+    - form: az kalet tazun
+      class: part
+      field: Everyday speech
+      gloss: [often; on many occasions, repeatedly; on many occasions]
+      source: {kind: coined}
+      concept: [often, repeatedly]
+      built: [az, kalet, tazun]
+    - form: az kalet zamun
+      class: part
+      field: Everyday speech
+      gloss: sometimes; on some occasions
+      source: {kind: coined}
+      concept: sometimes
+      built: [az, kalet, zamun]
+    - form: az kalet tazin
+      class: part
+      field: Everyday speech
+      gloss: rarely; on few occasions
+      source: {kind: coined}
+      concept: rarely
+      built: [az, kalet, tazin]
+    - form: az kalet khezan
+      class: part
+      field: Everyday speech
+      gloss: never; on no occasion in the stated period
+      source: {kind: coined}
+      concept: never
+      built: [az, kalet, khezan]
+    - form: kalmet
+      class: adj
+      field: Everyday speech
+      gloss: lasting a long time
+      source: {kind: coined}
+      concept: long-duration
+    - form: kalmit
+      class: adj
+      field: Everyday speech
+      gloss: lasting a short time
+      source: {kind: coined}
+      concept: short-duration
+    - form: kalmit qezathil
+      class: adj
+      field: Everyday speech
+      gloss: brief; extremely short in duration
+      source: {kind: coined}
+      concept: brief-duration
+      built: [kalmit, qezathil]
+    - form: yalret
+      class: adv
+      field: Everyday speech
+      gloss:
+        - again; once more, marking recurrence rather than merely a counted occasion
+        - again; used as a request to repeat the act or utterance just made
+      source: {kind: coined}
+      concept: [again, expression-again]
+    - form: az kalet lazen
+      class: part
+      field: Everyday speech
+      gloss: once; on one occasion
+      source: {kind: coined}
+      concept: once
+      built: [az, kalet, lazen]
+    - form: az kalet khul
+      class: part
+      field: Everyday speech
+      gloss: twice; on two occasions
+      source: {kind: coined}
+      concept: twice
+      built: [az, kalet, khul]
+    - form: telath nazu tamel
+      class: v
+      field: Everyday speech
+      gloss: I have already done it; completion precedes the reference point in this fixed citation; replace nazu and the named action tamel to state another actor or completed act
+      source: {kind: coined}
+      concept: already
+      built: [telath, nazu, tamel]
+    - form: thalal nazu tamel
+      class: v
+      field: Everyday speech
+      gloss: I am still doing it; the named action continues at the reference point
+      source: {kind: coined}
+      concept: still
+      built: [thalal, nazu, tamel]
+    - form: khez telath nazu tamel
+      class: v
+      field: Everyday speech
+      gloss: I have not done it yet; the expected completion has not occurred at the reference point
+      source: {kind: coined}
+      concept: yet
+      built: [khez, telath, nazu, tamel]
+    - form: az kalun qaril kalzu
+      class: part
+      field: Everyday speech
+      gloss: soon; at a time close after now; this conventional phrase looks forward from the present
+      source: {kind: coined}
+      concept: soon
+      built: [az, kalun, qaril, kalzu]
+    - form: az kalun mer kalzu
+      class: part
+      field: Everyday speech
+      gloss: later; at a time after the present reference point
+      source: {kind: coined}
+      concept: later
+      built: [az, kalun, mer, kalzu]
+    - form: mar kalun qemet
+      class: part
+      field: Everyday speech
+      gloss: early; before the expected or suitable time
+      source: {kind: coined}
+      concept: early
+      built: [mar, kalun, qemet]
+    - form: mer kalun qemet
+      class: part
+      field: Everyday speech
+      gloss: late; after the expected or suitable time
+      source: {kind: coined}
+      concept: late
+      built: [mer, kalun, qemet]
+    - form: az kalet lazret
+      class: part
+      field: Everyday speech
+      gloss: first in a sequence of events; on the first occasion
+      source: {kind: coined}
+      concept: first-sequence
+      built: [az, kalet, lazret]
+    - form: az kalet khulret
+      class: part
+      field: Everyday speech
+      gloss: next; on the following occasion, conventionally the second relative to the current one
+      source: {kind: coined}
+      concept: next
+      built: [az, kalet, khulret]
+    - form: telnet
+      class: adj
+      field: Everyday speech
+      gloss: last; final in the relevant ordered sequence
+      source: {kind: coined}
+      concept: last
+    - form: az kalet telnet
+      class: part
+      field: Everyday speech
+      gloss: finally; on the final occasion, at the end of the event sequence
+      source: {kind: coined}
+      concept: finally
+      built: [az, kalet, telnet]
+    - form: kalqet
+      class: n
+      field: Everyday speech
+      gloss: a season; a recurring division of the year, without restricting it to one named season
+      source: {kind: coined}
+      concept: season
+    - form: selmet
+      class: n
+      field: Everyday speech
+      gloss: month
+      source: {kind: coined}
+      concept: month
+    - form: thelmun
+      class: n
+      field: Everyday speech
+      gloss: dawn
+      source: {kind: coined}
+      concept: dawn
+    - form: thelman
+      class: n
+      field: Everyday speech
+      gloss: dusk
+      source: {kind: coined}
+      concept: dusk
+    - form: kalet
+      class: n
+      field: Everyday speech
+      gloss: an occasion; one occurrence of an event, distinct from time as a whole
+      source: {kind: coined}
+    - form: tamnet
+      class: n
+      field: Everyday speech
+      gloss: eating; the activity of consuming food, an individual action noun beside tamul, not an instruction to nominalize every verb
+      source: {kind: coined}
+    - form: elu nazu
+      class: part
+      field: Everyday speech
+      gloss: "my; mine; belonging to me: qalret elu nazu, my cup"
+      source: {kind: coined}
+      concept: my
+      built: [elu, nazu]
+    - form: elu telu
+      class: part
+      field: Everyday speech
+      gloss: "your; yours; belonging to the person addressed: qalret elu telu, your cup"
+      source: {kind: coined}
+      concept: your
+      built: [elu, telu]
+    - form: elu nazun
+      class: part
+      field: Everyday speech
+      gloss: our; ours; belonging to the speaker and others
+      source: {kind: coined}
+      concept: our
+      built: [elu, nazun]
+    - form: eqar
+      class: dem
+      field: Everyday speech
+      gloss: This
+      source: {kind: coined}
+      concept: this
+    - form: eqaru
+      class: dem
+      field: Everyday speech
+      gloss: that
+      source: {kind: coined}
+      concept: that
+    - form: eqan
+      class: dem
+      field: Everyday speech
+      gloss: these
+      source: {kind: coined}
+      concept: these
+    - form: eqanu
+      class: dem
+      field: Everyday speech
+      gloss: those
+      source: {kind: coined}
+      concept: those
+    - form: genar zamun
+      class: n
+      field: Everyday speech
+      gloss: someone; an unspecified person
+      source: {kind: coined}
+      concept: someone
+      built: [genar, zamun]
+    - form: genar leqal
+      class: n
+      field: Everyday speech
+      gloss: anyone; any person without restriction of identity, in a question, permission or general statement
+      source: {kind: coined}
+      concept: anyone
+      built: [genar, leqal]
+    - form: genar zamat
+      class: n
+      field: Everyday speech
+      gloss: everyone; all people within the stated scope
+      source: {kind: coined}
+      concept: everyone
+      built: [genar, zamat]
+    - form: genar khezan
+      class: n
+      field: Everyday speech
+      gloss: no one; no person in the stated scope
+      source: {kind: coined}
+      concept: no-one
+      built: [genar, khezan]
+    - form: temun zamun
+      class: n
+      field: Everyday speech
+      gloss: something; an unspecified thing
+      source: {kind: coined}
+      concept: something
+      built: [temun, zamun]
+    - form: temun leqal
+      class: n
+      field: Everyday speech
+      gloss: anything; any thing without restriction of identity, in a question, permission or general statement
+      source: {kind: coined}
+      concept: anything
+      built: [temun, leqal]
+    - form: temun zamat
+      class: n
+      field: Everyday speech
+      gloss: everything; all things within the stated scope
+      source: {kind: coined}
+      concept: everything
+      built: [temun, zamat]
+    - form: qezunet
+      class: pron
+      field: Everyday speech
+      gloss: "oneself; reflexive object tied to the subject: zuren nazu qezunet, I see myself; zuren sari qezunet, she sees herself"
+      source: {kind: coined}
+      concept: self
+    - form: leqar
+      class: adj
+      field: Everyday speech
+      gloss: other
+      source: {kind: coined}
+      concept: other
+    - form: leqar lazen
+      class: n
+      field: Everyday speech
+      gloss: another; one further or different member of the stated kind
+      source: {kind: coined}
+      concept: another
+      built: [leqar, lazen]
+    - form: qemel
+      class: adj
+      field: Everyday speech
+      gloss: Same
+      source: {kind: coined}
+      concept: same
+    - form: khez qemel
+      class: adj
+      field: Everyday speech
+      gloss: different; not the same in identity or the stated respect
+      source: {kind: coined}
+      concept: different
+      built: [khez, qemel]
+    - form: shel
+      class: pron
+      field: Everyday speech
+      gloss: who; asks for a person's identity, as in yaler shel, who comes
+      source: {kind: coined}
+      concept: question-who
+    - form: sher
+      class: pron
+      field: Everyday speech
+      gloss:
+        - what; asks for a thing or matter, as in zuren telu sher, what do you see
+        - what; used alone as a conversational question when the missing thing or content is recoverable
+      source: {kind: coined}
+      concept: [question-what, expression-what]
+    - form: shal
+      class: dem
+      field: Everyday speech
+      gloss: "which; asks the hearer to select a member from a known set: qalret shal, which cup"
+      source: {kind: coined}
+      concept: question-which
+    - form: az sher garun
+      class: part
+      field: Everyday speech
+      gloss: "where; at what place: alqar galar az sher garun, where is there a house"
+      source: {kind: coined}
+      concept: question-where
+      built: [az, sher, garun]
+    - form: az sher kalun
+      class: part
+      field: Everyday speech
+      gloss: "when; at what time: yaler telu az sher kalun, when do you come"
+      source: {kind: coined}
+      concept: question-when
+      built: [az, sher, kalun]
+    - form: ez qaran elu sher
+      class: part
+      field: Everyday speech
+      gloss: "why; for what reason: yarul telu ez qaran elu sher, why do you go"
+      source: {kind: coined}
+      concept: question-why
+      built: [ez, qaran, elu, sher]
+    - form: qer elu sher
+      class: part
+      field: Everyday speech
+      gloss: "how; by what manner: muzan telu galar qer elu sher, how do you build a house"
+      source: {kind: coined}
+      concept: question-how
+      built: [qer, elu, sher]
+    - form: wanel mazret elu qalret sher
+      class: v
+      field: Everyday speech
+      gloss: "how many cups; what is the count of cups: wanel mazret elu qalret sher, what is the count of cups; replace qalret by the counted thing"
+      source: {kind: coined}
+      concept: question-how-many
+      built: [wanel, mazret, elu, qalret, sher]
+    - form: wanel mazun elu qalu sher
+      class: v
+      field: Everyday speech
+      gloss: "how much water; what is the amount of water: wanel mazun elu qalu sher; replace qalu by the measured substance"
+      source: {kind: coined}
+      concept: question-how-much
+      built: [wanel, mazun, elu, qalu, sher]
+    - form: elu shel
+      class: part
+      field: Everyday speech
+      gloss: "whose; belonging to whom: wanel qalret elu shel, whose is the cup"
+      source: {kind: coined}
+      concept: question-whose
+      built: [elu, shel]
+    - form: ez shel
+      class: part
+      field: Everyday speech
+      gloss: "to whom: nelaz telu qalret ez shel, to whom do you give the cup"
+      source: {kind: coined}
+      concept: question-to-whom
+      built: [ez, shel]
+    - form: nyar sher garun
+      class: part
+      field: Everyday speech
+      gloss: "from where: yaler telu nyar sher garun, from where do you come"
+      source: {kind: coined}
+      concept: question-from-where
+      built: [nyar, sher, garun]
+    - form: ez sher qarun
+      class: part
+      field: Everyday speech
+      gloss: "for what purpose: muzan telu galar ez sher qarun, for what purpose do you build a house"
+      source: {kind: coined}
+      concept: question-for-what-purpose
+      built: [ez, sher, qarun]
+    - form: qe
+      class: part
+      field: Everyday speech
+      gloss: "marks a yes or no question before the complete VSO clause: qe zuren telu eqar, do you see this"
+      source: {kind: coined}
+      concept: question-polar
+    - form: razal nazu sher razel telu
+      class: v
+      field: Everyday speech
+      gloss: I ask what you say; a fixed clarification request in which sher razel telu supplies the queried content
+      source: {kind: coined}
+      concept: question-clarification
+      built: [razal, nazu, sher, razel, telu]
+    - form: leqal
+      class: adj
+      field: Everyday speech
+      gloss: any; unrestricted as to the identity of the person or thing
+      source: {kind: coined}
+    - form: qer
+      class: part
+      field: Everyday speech
+      gloss: by the manner stated after elu; qer elu names a manner or means
+      source: {kind: coined}
+    - form: enu
+      class: call
+      field: Everyday speech
+      gloss: yes; an affirmative answer to the question asked
+      source: {kind: coined}
+      concept: yes
+    - form: khe
+      class: call
+      field: Everyday speech
+      gloss: no; a negative answer to the question asked
+      source: {kind: coined}
+      concept: no
+    - form: qenet
+      class: adj
+      field: Everyday speech
+      gloss: true; agreeing with what actually is the case, not merely believed firmly
+      source: {kind: coined}
+      concept: "true"
+    - form: khez qenet
+      class: adj
+      field: Everyday speech
+      gloss: false; not agreeing with what actually is the case
+      source: {kind: coined}
+      concept: "false"
+      built: [khez, qenet]
+    - form: qenat
+      class: n
+      field: Everyday speech
+      gloss: truth; what actually is the case, and the quality of a true claim
+      source: {kind: coined}
+      concept: truth
+    - form: razqet
+      class: n
+      field: Everyday speech
+      gloss: a lie; a statement made with the intention of deceiving its hearer into accepting a false account
+      source: {kind: coined}
+      concept: lie-noun
+    - form: qenul
+      class: adv
+      field: Everyday speech
+      gloss: "really; truly; genuinely; asserts the reality or sincerity of what follows: wanel nazu qenul zalet, I am truly well"
+      source: {kind: coined}
+      concept: sincerity
+    - form: qenul enu
+      class: call
+      field: Everyday speech
+      gloss: indeed; an emphatic confirmation of what was said
+      source: {kind: coined}
+      concept: indeed
+      built: [qenul, enu]
+    - form: qerun zamat elu nazu
+      class: n
+      field: Everyday speech
+      gloss: certainly; a conventional avowal of complete personal assurance, literally my complete confidence; it does not itself make the claim true
+      source: {kind: coined}
+      concept: certainly
+      built: [qerun, zamat, elu, nazu]
+    - form: lan
+      class: part
+      field: Everyday speech
+      gloss: perhaps; marks the following complete clause as a possibility without asserting it
+      source: {kind: coined}
+      concept: perhaps
+    - form: lan qerir
+      class: part
+      field: Everyday speech
+      gloss: probably; marks the following clause as more likely than its contrary; qerir expresses likelihood in this phrase
+      source: {kind: coined}
+      concept: probably
+      built: [lan, qerir]
+    - form: lan qeril
+      class: part
+      field: Everyday speech
+      gloss: unlikely; marks the following clause as improbable; this fixed pairing uses distance as a conventional low likelihood, not spatial distance in the claim itself
+      source: {kind: coined}
+      concept: unlikely
+      built: [lan, qeril]
+    - form: qerunet
+      class: adj
+      field: Everyday speech
+      gloss: certain; subjectively assured of a claim or outcome, not necessarily correct
+      source: {kind: coined}
+      concept: certain
+    - form: khez qerunet
+      class: adj
+      field: Everyday speech
+      gloss: uncertain; not assured of a claim or outcome
+      source: {kind: coined}
+      concept: uncertain
+      built: [khez, qerunet]
+    - form: zurnet elu nazu
+      class: n
+      field: Everyday speech
+      gloss: apparently; a conventional qualification from the speaker's observed appearance, literally the sight available to me; placed before the claim qualified
+      source: {kind: coined}
+      concept: apparently
+      built: [zurnet, elu, nazu]
+    - form: razel naru
+      class: v
+      field: Everyday speech
+      gloss: they say; used before a reported complete clause to mark supposedly, without asserting the speaker's agreement with the report
+      source: {kind: coined}
+      concept: supposedly
+      built: [razel, naru]
+    - form: ezu qenat
+      class: part
+      field: Everyday speech
+      gloss: in fact; according to what actually is the case, rather than according to an earlier appearance or supposition
+      source: {kind: coined}
+      concept: in-fact
+      built: [ezu, qenat]
+    - form: qerlathel
+      class: v
+      field: Everyday speech
+      gloss: to doubt; to be uncertain whether the following claim is true
+      source: {kind: coined}
+      concept: doubt-verb
+    - form: qerqel
+      class: v
+      field: Everyday speech
+      gloss: to suspect; to consider a claim possible on limited grounds, whether welcome or unwelcome
+      source: {kind: coined}
+      concept: suspect
+    - form: qerzel
+      class: v
+      field: Everyday speech
+      gloss: to guess; to offer a conclusion without enough information to know
+      source: {kind: coined}
+      concept: guess-verb
+    - form: qerathal
+      class: v
+      field: Everyday speech
+      gloss: to assume; to take a claim as a starting point without first establishing it
+      source: {kind: coined}
+      concept: assume-verb
+    - form: qenlet
+      class: adj
+      field: Everyday speech
+      gloss: correct; free from an error in the stated task or account
+      source: {kind: coined}
+      concept: correct
+    - form: khez qenlet
+      class: adj
+      field: Everyday speech
+      gloss: incorrect; containing an error
+      source: {kind: coined}
+      concept: incorrect
+      built: [khez, qenlet]
+    - form: khez qerethal
+      class: v
+      field: Everyday speech
+      gloss: to disagree; to withhold assent to the expressed claim, not assert merely that two people jointly lack a belief
+      source: {kind: coined}
+      concept: disagree
+      built: [khez, qerethal]
+    - form: kezar khez qenet
+      class: n
+      field: Everyday speech
+      gloss: a falsehood; a false claim, whether intentional or mistaken
+      source: {kind: coined}
+      concept: falsehood
+      built: [kezar, khez, qenet]
+    - form: ta
+      class: conj
+      field: Everyday speech
+      gloss: and; joins the two named things or complete clauses
+      source: {kind: coined}
+      concept: and
+    - form: lu
+      class: conj
+      field: Everyday speech
+      gloss: or; offers the alternatives that it joins
+      source: {kind: coined}
+      concept: or
+    - form: thal
+      class: conj
+      field: Everyday speech
+      gloss: but; introduces a contrasting complete clause
+      source: {kind: coined}
+      concept: but
+    - form: ta khez
+      class: conj
+      field: Everyday speech
+      gloss: nor; and not, introducing a further denied alternative after a negative clause; khez yaler saru ta khez yaler sari, he does not come nor does she
+      source: {kind: coined}
+      concept: nor
+      built: [ta, khez]
+    - form: qaral
+      class: conj
+      field: Everyday speech
+      gloss: because; introduces the complete clause giving a reason
+      source: {kind: coined}
+      concept: because
+    - form: qalar
+      class: conj
+      field: Everyday speech
+      gloss: therefore; introduces a complete clause as a consequence of the preceding one
+      source: {kind: coined}
+      concept: therefore
+    - form: qamaru
+      class: conj
+      field: Everyday speech
+      gloss: if; introduces the condition in qamaru P, tharun Q
+      source: {kind: coined}
+      concept: if
+    - form: tharun
+      class: conj
+      field: Everyday speech
+      gloss: then; introduces the consequence Q in qamaru P, tharun Q
+      source: {kind: coined}
+      concept: then-conditional
+    - form: qamaru khez yaler telu tharun yarul nazu
+      class: conj
+      field: Everyday speech
+      gloss: unless; if P is not the case, Q follows; P and Q stand for whole clauses, with khez negating P rather than a noun inside it
+      source: {kind: coined}
+      concept: unless
+      built: [qamaru, khez, yaler, telu, tharun, yarul, nazu]
+    - form: qamaru khez eqar tharun
+      class: conj
+      field: Everyday speech
+      gloss: otherwise; if this is not the case, then; eqar points back to the complete preceding proposition and the consequence clause follows tharun
+      source: {kind: coined}
+      concept: otherwise
+      built: [qamaru, khez, eqar, tharun]
+    - form: thalamun
+      class: conj
+      field: Everyday speech
+      gloss: although; introduces a true circumstance conceded before the contrasting main clause
+      source: {kind: coined}
+      concept: although
+    - form: thal qenul
+      class: conj
+      field: Everyday speech
+      gloss: however; introduces a contrasting assertion while acknowledging what precedes it
+      source: {kind: coined}
+      concept: however
+      built: [thal, qenul]
+    - form: thal tharun
+      class: conj
+      field: Everyday speech
+      gloss: nevertheless; introduces a consequence that holds despite the conceded circumstance
+      source: {kind: coined}
+      concept: nevertheless
+      built: [thal, tharun]
+    - form: thar
+      class: part
+      field: Everyday speech
+      gloss: despite; introduces the named obstacle or circumstance, as in thar zazun, despite illness
+      source: {kind: coined}
+      concept: despite
+    - form: az garel elu
+      class: part
+      field: Everyday speech
+      gloss: instead of; at the place of the named alternative, as in qalmu az garel elu temat, a drink instead of food
+      source: {kind: coined}
+      concept: instead
+      built: [az, garel, elu]
+    - form: ez qarun
+      class: part
+      field: Everyday speech
+      gloss: for the purpose of; names the intended end in ez qarun elu, for the purpose of the stated act or thing
+      source: {kind: coined}
+      concept: for-purpose
+      built: [ez, qarun]
+    - form: qel
+      class: part
+      field: Everyday speech
+      gloss: like; similar to the named comparison
+      source: {kind: coined}
+      concept: like
+    - form: khez qel
+      class: part
+      field: Everyday speech
+      gloss: unlike; not similar to the named comparison
+      source: {kind: coined}
+      concept: unlike
+      built: [khez, qel]
+    - form: qel nazu
+      class: part
+      field: Everyday speech
+      gloss: as I do; the fixed manner comparison qel nazu, as I, is used after the compared act; another person may replace nazu
+      source: {kind: coined}
+      concept: as
+      built: [qel, nazu]
+    - form: lu yaler telu lu yarul nazu
+      class: conj
+      field: Everyday speech
+      gloss: either P or Q; a pair of alternatives with both clauses stated
+      source: {kind: coined}
+      concept: either-alternative
+      built: [lu, yaler, telu, lu, yarul, nazu]
+    - form: khez yaler telu ta khez yarul nazu
+      class: conj
+      field: Everyday speech
+      gloss: neither P nor Q; both alternatives are denied, not just one unspecified member
+      source: {kind: coined}
+      concept: neither-alternative
+      built: [khez, yaler, telu, ta, khez, yarul, nazu]
+    - form: ta yaler telu ta yarul nazu
+      class: conj
+      field: Everyday speech
+      gloss: both P and Q; both complete clauses are affirmed
+      source: {kind: coined}
+      concept: both-conjunction
+      built: [ta, yaler, telu, ta, yarul, nazu]
+    - form: qe yaler telu lu khez yaler telu
+      class: conj
+      field: Everyday speech
+      gloss: whether P or not P; supplies both alternatives in a question under consideration; P is replaced by the full proposition each time
+      source: {kind: coined}
+      concept: whether
+      built: [qe, yaler, telu, lu, khez, yaler, telu]
+    - form: razel nazu
+      class: v
+      field: Everyday speech
+      gloss: that is; literally I say, used before a rephrasing that clarifies the preceding expression
+      source: {kind: coined}
+      concept: that-is
+      built: [razel, nazu]
+    - form: renan
+      class: part
+      field: Everyday speech
+      gloss: namely; introduces the specific names or items intended by the preceding general expression
+      source: {kind: coined}
+      concept: namely
+    - form: qarul
+      class: part
+      field: Everyday speech
+      gloss: for example; introduces a particular instance illustrating a preceding general statement
+      source: {kind: coined}
+      concept: for-example
+    - form: nyar zamat khez
+      class: part
+      field: Everyday speech
+      gloss: except; from the whole set excluding the named member; nyar zamat khez telu, except you
+      source: {kind: coined}
+      concept: except
+      built: [nyar, zamat, khez]
+    - form: laz
+      class: part
+      field: Everyday speech
+      gloss: only; limits the following item or clause to the stated one
+      source: {kind: coined}
+      concept: only
+    - form: thaqel
+      class: part
+      field: Everyday speech
+      gloss: even; includes the following unexpected member or circumstance
+      source: {kind: coined}
+      concept: even
+    - form: tan
+      class: part
+      field: Everyday speech
+      gloss: also; adds the following item or clause to what has already been stated
+      source: {kind: coined}
+      concept: also
+    - form: thazir
+      class: part
+      field: Everyday speech
+      gloss: especially; singles out what follows as particularly relevant or prominent
+      source: {kind: coined}
+      concept: especially
+    - form: qerir
+      class: adj
+      field: Everyday speech
+      gloss: likely; supported as probable by the present grounds
+      source: {kind: coined}
+    - form: thazit
+      class: adj
+      field: Everyday speech
+      gloss: small
+      source: {kind: coined}
+      concept: small
+    - form: thazit qezathil
+      class: adj
+      field: Everyday speech
+      gloss: tiny; extremely small, rather than merely smaller than a comparator
+      source: {kind: coined}
+      concept: tiny
+      built: [thazit, qezathil]
+    - form: thazet qezathil
+      class: adj
+      field: Everyday speech
+      gloss: huge; extremely big in absolute extent, not merely bigger than another
+      source: {kind: coined}
+      concept: huge
+      built: [thazet, qezathil]
+    - form: thalit
+      class: adj
+      field: Everyday speech
+      gloss: short in spatial length
+      source: {kind: coined}
+      concept: short
+    - form: zarat
+      class: adj
+      field: Everyday speech
+      gloss: high
+      source: {kind: coined}
+      concept: high
+    - form: nizet
+      class: adj
+      field: Everyday speech
+      gloss: low
+      source: {kind: coined}
+      concept: low
+    - form: zarat thalen
+      class: adj
+      field: Everyday speech
+      gloss: tall; of great vertical height, including a standing person or upright thing
+      source: {kind: coined}
+      concept: tall
+      built: [zarat, thalen]
+    - form: qarmet
+      class: adj
+      field: Everyday speech
+      gloss: wide
+      source: {kind: coined}
+      concept: wide
+    - form: qarmit
+      class: adj
+      field: Everyday speech
+      gloss: narrow
+      source: {kind: coined}
+      concept: narrow
+    - form: qemur
+      class: adj
+      field: Everyday speech
+      gloss: heavy
+      source: {kind: coined}
+      concept: heavy
+    - form: qemir
+      class: adj
+      field: Everyday speech
+      gloss: light in weight
+      source: {kind: coined}
+      concept: light-weight
+    - form: thelun
+      class: adj
+      field: Everyday speech
+      gloss: new
+      source: {kind: coined}
+      concept: new
+    - form: thelin
+      class: adj
+      field: Everyday speech
+      gloss: old; long existing, not newly made or acquired; for things rather than living age
+      source: {kind: coined}
+      concept: old-object
+    - form: tarlet
+      class: adj
+      field: Everyday speech
+      gloss: fast
+      source: {kind: coined}
+      concept: fast
+    - form: tarlit
+      class: adj
+      field: Everyday speech
+      gloss: slow
+      source: {kind: coined}
+      concept: slow
+    - form: temlet
+      class: adj
+      field: Everyday speech
+      gloss: easy
+      source: {kind: coined}
+      concept: easy
+    - form: temlit
+      class: adj
+      field: Everyday speech
+      gloss: difficult
+      source: {kind: coined}
+      concept: difficult
+    - form: leqet
+      class: adj
+      field: Everyday speech
+      gloss: good
+      source: {kind: coined}
+      concept: good
+    - form: laqet
+      class: adj
+      field: Everyday speech
+      gloss: bad
+      source: {kind: coined}
+      concept: bad
+    - form: leqet tazir
+      class: adj
+      field: Everyday speech
+      gloss: better; better than the stated comparison, with shar introducing that comparison
+      source: {kind: coined}
+      concept: better
+      built: [leqet, tazir]
+    - form: laqet tazir
+      class: adj
+      field: Everyday speech
+      gloss: worse; worse than the stated comparison, with shar introducing that comparison
+      source: {kind: coined}
+      concept: worse
+      built: [laqet, tazir]
+    - form: leqet tazir shar temun zamat
+      class: adj
+      field: Everyday speech
+      gloss: best; better than every other member in the named comparison set
+      source: {kind: coined}
+      concept: best
+      built: [leqet, tazir, shar, temun, zamat]
+    - form: laqet tazir shar temun zamat
+      class: adj
+      field: Everyday speech
+      gloss: worst; worse than every other member in the named comparison set
+      source: {kind: coined}
+      concept: worst
+      built: [laqet, tazir, shar, temun, zamat]
+    - form: qarmathil
+      class: adj
+      field: Everyday speech
+      gloss: important
+      source: {kind: coined}
+      concept: important
+    - form: qarmith
+      class: adj
+      field: Everyday speech
+      gloss: trivial
+      source: {kind: coined}
+      concept: trivial
+    - form: tamret
+      class: adj
+      field: Everyday speech
+      gloss: necessary; needed for the stated purpose or circumstance
+      source: {kind: coined}
+      concept: necessary
+    - form: qenmar
+      class: adj
+      field: Everyday speech
+      gloss: valuable
+      source: {kind: coined}
+      concept: valuable
+    - form: elu qenmet qezan
+      class: part
+      field: Everyday speech
+      gloss: "worthless; of zero worth: wanel temun elu qenmet qezan, the thing has no worth; qezan is zero, not merely a small amount"
+      source: {kind: coined}
+      concept: worthless
+      built: [elu, qenmet, qezan]
+    - form: temqet
+      class: adj
+      field: Everyday speech
+      gloss: useful
+      source: {kind: coined}
+      concept: useful
+    - form: khez temqet
+      class: adj
+      field: Everyday speech
+      gloss: useless
+      source: {kind: coined}
+      concept: useless
+      built: [khez, temqet]
+    - form: qezet
+      class: adj
+      field: Everyday speech
+      gloss: broken
+      source: {kind: coined}
+      concept: broken
+    - form: telnethet
+      class: adj
+      field: Everyday speech
+      gloss: complete; lacking no required part, distinct from a promise or account merely being closed
+      source: {kind: coined}
+      concept: complete
+    - form: khez telnethet
+      class: adj
+      field: Everyday speech
+      gloss: incomplete
+      source: {kind: coined}
+      concept: incomplete
+      built: [khez, telnethet]
+    - form: razqen
+      class: adj
+      field: Everyday speech
+      gloss: honest; sincere and unwilling to deceive, without requiring every statement to be factually correct
+      source: {kind: coined}
+      concept: honest
+    - form: razqaz
+      class: adj
+      field: Everyday speech
+      gloss: dishonest; willing to deceive, not merely mistaken
+      source: {kind: coined}
+      concept: dishonest
+    - form: qemath
+      class: adv
+      field: Everyday speech
+      gloss: very; intensifies a quality in the cited thazit qemath, very small
+      source: {kind: coined}
+      concept: very
+    - form: qezathil
+      class: adv
+      field: Everyday speech
+      gloss: extremely; marks a very high degree in thazit qezathil, extremely small, and thazet qezathil, extremely big
+      source: {kind: coined}
+      concept: extremely
+    - form: zamin
+      class: adv
+      field: Everyday speech
+      gloss: somewhat
+      source: {kind: coined}
+      concept: somewhat
+    - form: zammin
+      class: adv
+      field: Everyday speech
+      gloss: slightly
+      source: {kind: coined}
+      concept: slightly
+    - form: qemin
+      class: adv
+      field: Everyday speech
+      gloss: barely; only just at the threshold of the stated quality or act
+      source: {kind: coined}
+      concept: barely
+    - form: tazir shar mazun qemet
+      class: adj
+      field: Everyday speech
+      gloss: too much; more than the sufficient amount for the stated need or purpose; wanel mazun elu qalu tazir shar mazun qemet, the amount of water is more than enough
+      source: {kind: coined}
+      concept: too-much
+      built: [tazir, shar, mazun, qemet]
+    - form: khez qemet
+      class: adj
+      field: Everyday speech
+      gloss: too little; insufficient for the stated need
+      source: {kind: coined}
+      concept: too-little
+      built: [khez, qemet]
+    - form: qemret
+      class: adj
+      field: Everyday speech
+      gloss: similar
+      source: {kind: coined}
+      concept: similar
+    - form: qemrat
+      class: adj
+      field: Everyday speech
+      gloss: opposite
+      source: {kind: coined}
+      concept: opposite
+    - form: dunel
+      class: v
+      field: Everyday speech
+      gloss: "can; be able to perform the action following the subject: dunel nazu tarul, I can walk"
+      source: {kind: coined}
+      concept: can
+    - form: khez dunel
+      class: v
+      field: Everyday speech
+      gloss: "cannot; lack ability to perform the named action: khez dunel nazu tarul, I cannot walk"
+      source: {kind: coined}
+      concept: cannot
+      built: [khez, dunel]
+    - form: dunet
+      class: adj
+      field: Everyday speech
+      gloss: possible; able to occur under the circumstances
+      source: {kind: coined}
+      concept: possible
+    - form: khez dunet
+      class: adj
+      field: Everyday speech
+      gloss: impossible
+      source: {kind: coined}
+      concept: impossible
+      built: [khez, dunet]
+    - form: lemel
+      class: v
+      field: Everyday speech
+      gloss: "may; have permission to perform the action following the subject: lemel telu yarul, you may go"
+      source: {kind: coined}
+      concept: may-permission
+    - form: lan yaler saru
+      class: part
+      field: Everyday speech
+      gloss: he might come; the event is possible; replace the complete VSO clause yaler saru by the event qualified
+      source: {kind: coined}
+      concept: might-possibility
+      built: [lan, yaler, saru]
+    - form: qelan
+      class: v
+      field: Everyday speech
+      gloss: "must; be obliged to perform the action following the subject: qelan nazu yarul, I must go"
+      source: {kind: coined}
+      concept: must
+    - form: qelan nazu khez yarul
+      class: v
+      field: Everyday speech
+      gloss: I must not go; the obligation is to refrain from going; khez negates the action rather than the obligation; replace nazu and yarul as required
+      source: {kind: coined}
+      concept: must-not
+      built: [qelan, nazu, khez, yarul]
+    - form: leqamul
+      class: v
+      field: Everyday speech
+      gloss: "ought; be well advised to perform the action following the subject, without necessarily being obliged: leqamul telu shamel, you should sleep"
+      source: {kind: coined}
+      concept: ought
+    - form: qelamet
+      class: adj
+      field: Everyday speech
+      gloss: required; demanded by an obligation or applicable instruction
+      source: {kind: coined}
+      concept: required
+    - form: lemet khez qelamet
+      class: adj
+      field: Everyday speech
+      gloss: optional; permitted and not required, both properties holding together in this conventional expression
+      source: {kind: coined}
+      concept: optional
+      built: [lemet, khez, qelamet]
+    - form: lemet
+      class: adj
+      field: Everyday speech
+      gloss: allowed; permitted by the relevant person or rule
+      source: {kind: coined}
+      concept: allowed
+    - form: khelmet
+      class: adj
+      field: Everyday speech
+      gloss: forbidden; expressly prohibited, not merely something for which permission has not been asked
+      source: {kind: coined}
+      concept: forbidden
+    - form: lemath
+      class: v
+      field: Everyday speech
+      gloss: to permit; to authorize the person named as object to perform the action already under discussion
+      source: {kind: coined}
+      concept: permit
+    - form: khelmath
+      class: v
+      field: Everyday speech
+      gloss: to prohibit; to forbid the person named as object from the action already under discussion
+      source: {kind: coined}
+      concept: prohibit
+    - form: walunet
+      class: adj
+      field: Everyday speech
+      gloss: free to act; not constrained in the relevant action
+      source: {kind: coined}
+      concept: free
+    - form: qathnet
+      class: adj
+      field: Everyday speech
+      gloss: constrained; prevented or restricted from acting freely
+      source: {kind: coined}
+      concept: constrained
+    - form: tamer
+      class: adj
+      field: Everyday speech
+      gloss: willing; ready to undertake the stated action by one's own choice
+      source: {kind: coined}
+      concept: willing
+    - form: khez tamer
+      class: adj
+      field: Everyday speech
+      gloss: unwilling
+      source: {kind: coined}
+      concept: unwilling
+      built: [khez, tamer]
+    - form: qarunet
+      class: adj
+      field: Everyday speech
+      gloss: intended; resulting from an intention, not simply expected
+      source: {kind: coined}
+      concept: intended
+    - form: khez qarunet
+      class: adj
+      field: Everyday speech
+      gloss: accidental; occurring without the relevant actor's intention
+      source: {kind: coined}
+      concept: accidental
+      built: [khez, qarunet]
+    - form: Khelathu elu anlagh
+      class: call
+      field: Everyday speech
+      gloss: hello; the attested greeting Khelathi way upon life, used as a whole formula; it does not make its bound name element a free word
+      concept: hello
+    - form: lagret ez telu
+      class: call
+      field: Everyday speech
+      gloss: goodbye; a conventional wish of safety toward the departing person
+      source: {kind: coined}
+      concept: goodbye
+      built: [lagret, ez, telu]
+    - form: wanel telu galmer
+      class: call
+      field: Everyday speech
+      gloss: welcome; you are a guest here, a host's conventional reception of the arriving person
+      source: {kind: coined}
+      concept: expression-welcome
+      built: [wanel, telu, galmer]
+    - form: lamethel
+      class: call
+      field: Everyday speech
+      gloss: please; a polite request marker used with a named action, without creating a new imperative ending
+      source: {kind: coined}
+      concept: expression-please
+    - form: qamar nazu remaz
+      class: call
+      field: Everyday speech
+      gloss: thank you; I feel gratitude, said to the person thanked
+      source: {kind: coined}
+      concept: expression-thank-you
+      built: [qamar, nazu, remaz]
+    - form: wazlat khez zeqat
+      class: call
+      field: Everyday speech
+      gloss: you are welcome; the conventional response releasing any debt of thanks, literally release without debt; it does not deny the benefit given
+      source: {kind: coined}
+      concept: expression-youre-welcome
+      built: [wazlat, khez, zeqat]
+    - form: lamethel wathar
+      class: call
+      field: Everyday speech
+      gloss: excuse me; a request for room to pass or forbearance before a small intrusion
+      source: {kind: coined}
+      concept: expression-excuse-me
+      built: [lamethel, wathar]
+    - form: qamar nazu tarmaz
+      class: call
+      field: Everyday speech
+      gloss: sorry; I feel regret, an acknowledgement of sorrow or responsibility as context determines
+      source: {kind: coined}
+      concept: expression-sorry
+      built: [qamar, nazu, tarmaz]
+    - form: wazal telu nazu
+      class: call
+      field: Everyday speech
+      gloss: forgive me; a conventional request to the addressee to release blame against the speaker, without a special imperative form
+      source: {kind: coined}
+      concept: expression-forgive-me
+      built: [wazal, telu, nazu]
+    - form: enu qenul
+      class: call
+      field: Everyday speech
+      gloss: of course; a ready and emphatic assent
+      source: {kind: coined}
+      concept: of-course
+      built: [enu, qenul]
+    - form: khashath telu
+      class: call
+      field: Everyday speech
+      gloss: listen; a conventional request to the addressee to listen
+      source: {kind: coined}
+      concept: expression-listen
+      built: [khashath, telu]
+    - form: zurat telu
+      class: call
+      field: Everyday speech
+      gloss: look; a conventional request to the addressee to direct their eyes
+      source: {kind: coined}
+      concept: expression-look
+      built: [zurat, telu]
+    - form: yalmet telu
+      class: call
+      field: Everyday speech
+      gloss: wait; a conventional request to pause and wait
+      source: {kind: coined}
+      concept: expression-wait
+      built: [yalmet, telu]
+    - form: yaler telu zun
+      class: call
+      field: Everyday speech
+      gloss: come here; a conventional request with here naming the speaker's location
+      source: {kind: coined}
+      concept: expression-come-here
+      built: [yaler, telu, zun]
+    - form: yarul telu nyar zun
+      class: call
+      field: Everyday speech
+      gloss: go away; a conventional request to leave the speaker's location
+      source: {kind: coined}
+      concept: expression-go-away
+      built: [yarul, telu, nyar, zun]
+    - form: lagel telu nazu
+      class: call
+      field: Everyday speech
+      gloss: help; a conventional urgent request for help from the addressee
+      source: {kind: coined}
+      concept: expression-help
+      built: [lagel, telu, nazu]
+    - form: thalet telu
+      class: call
+      field: Everyday speech
+      gloss: stop; a conventional request to cease the action under discussion
+      source: {kind: coined}
+      concept: expression-stop
+      built: [thalet, telu]
+    - form: lamethel razel telu yalret
+      class: call
+      field: Everyday speech
+      gloss: pardon; a courteous request that the addressee say it again
+      source: {kind: coined}
+      concept: expression-pardon
+      built: [lamethel, razel, telu, yalret]
+    - form: rethulun nazu
+      class: v
+      field: Everyday speech
+      gloss: I understand; an acknowledgement of comprehension
+      source: {kind: coined}
+      concept: expression-i-understand
+      built: [rethulun, nazu]
+    - form: khez rethulun nazu
+      class: v
+      field: Everyday speech
+      gloss: I do not understand; an acknowledgement that the current matter has not been understood
+      source: {kind: coined}
+      concept: expression-i-do-not-understand
+      built: [khez, rethulun, nazu]
+    - form: razal nazu sher qaruth telu
+      class: v
+      field: Everyday speech
+      gloss: what do you mean; I ask what you intend, a conversational question about intended meaning
+      source: {kind: coined}
+      concept: expression-what-do-you-mean
+      built: [razal, nazu, sher, qaruth, telu]
+    - form: razal nazu qer elu sher razel telu eqar
+      class: v
+      field: Everyday speech
+      gloss: how do you say this; I ask the manner of saying the expression indicated by eqar; replace eqar with the quoted expression
+      source: {kind: coined}
+      concept: expression-how-do-you-say
+      built: [razal, nazu, qer, elu, sher, razel, telu, eqar]
+    - form: wanel rethan elu eqar sher
+      class: v
+      field: Everyday speech
+      gloss: "what is this called; what is the name of this: wanel rethan elu eqar sher; eqar may be replaced by the thing whose name is asked"
+      source: {kind: coined}
+      concept: expression-what-is-this-called
+      built: [wanel, rethan, elu, eqar, sher]
+    - form: qe qenul
+      class: call
+      field: Everyday speech
+      gloss: really; a conversational request for confirmation of the immediately preceding claim
+      source: {kind: coined}
+      concept: expression-really
+      built: [qe, qenul]
+    - form: khe qenul
+      class: call
+      field: Everyday speech
+      gloss: not at all; an emphatic negative response to the degree asserted in the preceding question or claim
+      source: {kind: coined}
+      concept: expression-not-at-all
+      built: [khe, qenul]
+    - form: wathar
+      class: n
+      field: Everyday speech
+      gloss: room to pass; clearance between people or objects
+      source: {kind: coined}
+    - form: genun
+      class: n
+      field: Everyday speech
+      gloss: people; a plurality of persons, without restricting them to a single nation or rank
+      source: {kind: coined}
+      concept: people
+    - form: genar qarenar
+      class: n
+      field: Everyday speech
+      gloss: a man; an adult male person
+      source: {kind: coined}
+      concept: man
+      built: [genar, qarenar]
+    - form: genar mathenar
+      class: n
+      field: Everyday speech
+      gloss: a woman; an adult female person
+      source: {kind: coined}
+      concept: woman
+      built: [genar, mathenar]
+    - form: genar melqen
+      class: n
+      field: Everyday speech
+      gloss: an adult; a person who has reached bodily maturity
+      source: {kind: coined}
+      concept: adult
+      built: [genar, melqen]
+    - form: genar qarnethet
+      class: n
+      field: Everyday speech
+      gloss: an elder; an old person, with or without a formal office
+      source: {kind: coined}
+      concept: elder
+      built: [genar, qarnethet]
+    - form: genar lazen
+      class: n
+      field: Everyday speech
+      gloss: an individual; one person considered separately
+      source: {kind: coined}
+      concept: individual
+      built: [genar, lazen]
+    - form: genmar
+      class: n
+      field: Everyday speech
+      gloss: group
+      source: {kind: coined}
+      concept: group
+    - form: genzar
+      class: n
+      field: Everyday speech
+      gloss: crowd
+      source: {kind: coined}
+      concept: crowd
+    - form: talgen
+      class: n
+      field: Everyday speech
+      gloss: a clan; a group organized around acknowledged kinship, without requiring a titled house
+      source: {kind: coined}
+      concept: clan
+    - form: genqet
+      class: n
+      field: Everyday speech
+      gloss: tribe
+      source: {kind: coined}
+      concept: tribe
+    - form: galgenar
+      class: n
+      field: Everyday speech
+      gloss: a community; people sharing a place or enduring common life
+      source: {kind: coined}
+      concept: community
+    - form: laqethar
+      class: n
+      field: Everyday speech
+      gloss: a ruler; one who exercises governing authority; an agent citation from laqeth, lead
+      source: {kind: coined}
+      concept: ruler
+    - form: tamelar
+      class: n
+      field: Everyday speech
+      gloss: a worker; someone who performs work, not restricted to a bonded rank
+      source: {kind: coined}
+      concept: worker
+    - form: zemnar
+      class: n
+      field: Everyday speech
+      gloss: an artisan; a maker skilled in a craft, individually cited beside zemnu
+      source: {kind: coined}
+      concept: artisan
+    - form: zuwarar
+      class: n
+      field: Everyday speech
+      gloss: a merchant; someone who trades goods, agent of zuwar
+      source: {kind: coined}
+      concept: merchant
+    - form: rethan
+      class: n
+      field: Everyday speech
+      gloss: a name; the word by which someone or something is called, distinct from bound reth and from rethu lore
+      source: {kind: coined}
+      concept: name-noun
+    - form: rethlet
+      class: n
+      field: Everyday speech
+      gloss: a title; an identifying designation of office, status or work
+      source: {kind: coined}
+      concept: title
+    - form: zabnet
+      class: n
+      field: Everyday speech
+      gloss: rank; a person's position in a social hierarchy, whether common or titled
+      source: {kind: coined}
+      concept: rank
+    - form: qethal
+      class: n
+      field: Everyday speech
+      gloss: a custom; an established customary practice
+      source: {kind: coined}
+      concept: custom
+    - form: qathnetun
+      class: n
+      field: Everyday speech
+      gloss: law; a publicly or institutionally binding body of norms, and a particular law
+      source: {kind: coined}
+      concept: law
+    - form: qathlet
+      class: n
+      field: Everyday speech
+      gloss: a rule; an instruction or norm governing a stated activity
+      source: {kind: coined}
+      concept: rule
+    - form: qernet
+      class: n
+      field: Everyday speech
+      gloss: order; an arranged and coherent state, distinct from a command
+      source: {kind: coined}
+      concept: order-noun
+    - form: ghamnet
+      class: n
+      field: Everyday speech
+      gloss: a command; an instruction given with authority, individually cited beside ghamuz
+      source: {kind: coined}
+      concept: command-noun
+    - form: lemnet
+      class: n
+      field: Everyday speech
+      gloss: obedience; acting in accordance with an authoritative instruction
+      source: {kind: coined}
+      concept: obedience
+    - form: qenqet
+      class: n
+      field: Everyday speech
+      gloss: justice; fair treatment and the due ordering of claims
+      source: {kind: coined}
+      concept: justice
+    - form: khez qenqet
+      class: n
+      field: Everyday speech
+      gloss: injustice; denial or violation of just treatment
+      source: {kind: coined}
+      concept: injustice
+      built: [khez, qenqet]
+    - form: qenqethet
+      class: adj
+      field: Everyday speech
+      gloss: right; morally acceptable
+      source: {kind: coined}
+      concept: right-ethical
+    - form: khez qenqethet
+      class: adj
+      field: Everyday speech
+      gloss: wrong; morally unacceptable
+      source: {kind: coined}
+      concept: wrong-ethical
+      built: [khez, qenqethet]
+    - form: leget
+      class: n
+      field: Everyday speech
+      gloss: peace; absence of active hostility and a condition of settled relations, an ordinary word distinct from bound legez
+      source: {kind: coined}
+      concept: peace
+    - form: qeznetun
+      class: n
+      field: Everyday speech
+      gloss: war; sustained armed conflict, distinct from one qezat battle
+      source: {kind: coined}
+      concept: war
+    - form: walnet
+      class: n
+      field: Everyday speech
+      gloss: freedom; the condition of being free to act
+      source: {kind: coined}
+      concept: freedom
+    - form: qathmar
+      class: n
+      field: Everyday speech
+      gloss: captivity; being held against one's liberty, distinct from an ordinary locked object
+      source: {kind: coined}
+      concept: captivity
+    - form: nelmat
+      class: n
+      field: Everyday speech
+      gloss: a gift; something freely given to a person, not necessarily an offering to a god
+      source: {kind: coined}
+      concept: gift
+    - form: zuwret
+      class: n
+      field: Everyday speech
+      gloss: exchange
+      source: {kind: coined}
+      concept: exchange-noun
+    - form: qenzar
+      class: n
+      field: Everyday speech
+      gloss: wealth; abundant material means or valued resources
+      source: {kind: coined}
+      concept: wealth
+    - form: qenzil
+      class: n
+      field: Everyday speech
+      gloss: poverty; a lack of sufficient material means
+      source: {kind: coined}
+      concept: poverty
+    - form: qamret
+      class: n
+      field: Everyday speech
+      gloss: property; possessions held by someone, distinct from the land itself
+      source: {kind: coined}
+      concept: property
+    - form: qamnet
+      class: n
+      field: Everyday speech
+      gloss: ownership; the recognized relation of an owner to property
+      source: {kind: coined}
+      concept: ownership
+    - form: halqet
+      class: n
+      field: Everyday speech
+      gloss: honor; esteem and acknowledged worth accorded to a person or conduct
+      source: {kind: coined}
+      concept: honor
+    - form: temun qamzet
+      class: n
+      field: Everyday speech
+      gloss: a secret; a hidden matter whose disclosure is withheld, without requiring sacred status
+      source: {kind: coined}
+      concept: secret
+      built: [temun, qamzet]
+    - form: rethnet
+      class: n
+      field: Everyday speech
+      gloss: knowledge; what is known, and the state of knowing
+      source: {kind: coined}
+      concept: knowledge
+    - form: alqarar
+      class: n
+      field: Everyday speech
+      gloss: a being; something that exists, including a living or supernatural being
+      source: {kind: coined}
+      concept: being
+    - form: algunet
+      class: n
+      field: Everyday speech
+      gloss: life; being alive, and the lived course of a living being
+      source: {kind: coined}
+      concept: life
+    - form: qarnun
+      class: n
+      field: Everyday speech
+      gloss: origin; the source from which something first comes
+      source: {kind: coined}
+      concept: origin
+    - form: temnet
+      class: n
+      field: Everyday speech
+      gloss: beginning
+      source: {kind: coined}
+      concept: beginning
+    - form: telnetun
+      class: n
+      field: Everyday speech
+      gloss: End
+      source: {kind: coined}
+      concept: end-noun
+    - form: telan
+      class: n
+      field: Everyday speech
+      gloss: completion; the event or state of finishing, not necessarily emotional satisfaction
+      source: {kind: coined}
+      concept: completion
+    - form: theznet
+      class: n
+      field: Everyday speech
+      gloss: Change
+      source: {kind: coined}
+      concept: change-noun
+    - form: thezmar
+      class: n
+      field: Everyday speech
+      gloss: transformation; a change of form or character
+      source: {kind: coined}
+      concept: transformation
+    - form: tegnet
+      class: n
+      field: Everyday speech
+      gloss: Part
+      source: {kind: coined}
+      concept: part
+    - form: qarat
+      class: n
+      field: Everyday speech
+      gloss: a cause; something that brings about an event or state
+      source: {kind: coined}
+      concept: cause
+    - form: qarnat
+      class: n
+      field: Everyday speech
+      gloss: an effect; a result brought about by a cause
+      source: {kind: coined}
+      concept: effect
+    - form: qaran
+      class: n
+      field: Everyday speech
+      gloss: a reason; a ground explaining or supporting an action or judgement
+      source: {kind: coined}
+      concept: reason
+    - form: temnar
+      class: n
+      field: Everyday speech
+      gloss: a kind; a class or sort sharing defining characteristics
+      source: {kind: coined}
+      concept: kind
+    - form: alqaret
+      class: adj
+      field: Everyday speech
+      gloss: real; actually existing or occurring
+      source: {kind: coined}
+      concept: real
+    - form: khez alqaret
+      class: adj
+      field: Everyday speech
+      gloss: unreal
+      source: {kind: coined}
+      concept: unreal
+      built: [khez, alqaret]
+    - form: lamqet
+      class: adj
+      field: Everyday speech
+      gloss: natural; arising from the ordinary processes or character of nature
+      source: {kind: coined}
+      concept: natural
+    - form: khez lamqet
+      class: adj
+      field: Everyday speech
+      gloss: unnatural
+      source: {kind: coined}
+      concept: unnatural
+      built: [khez, lamqet]
+    - form: melqen
+      class: adj
+      field: Everyday speech
+      gloss: mature; having reached bodily adulthood
+      source: {kind: coined}
+    - form: qenmet
+      class: n
+      field: Everyday speech
+      gloss: worth; the value attributed to a thing or act
+      source: {kind: coined}
   retired:
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
@@ -1229,6 +6888,191 @@ Verbs do not change. Each verb has one form, and the particle _agu_ and the orde
 ### Agent nouns
 
 A word takes _-ar_ to name the one who does it or handles it: _tegul_, divide, gives _tegular_, the butcher; _lagath_, guard, gives _lagathar_, the keeper; _mazel_, measure, gives _mazelar_, the surveyor; and _zugel_, harpoon, gives _zugelar_, the harpooner.
+
+## Everyday speech
+
+_Zuren nazu telu_ means “I see you”; _zuren telu nazu_ means “you see me”.
+The verb comes first and keeps its form. _Wanel nazu zalet_ means “I am well”,
+and _qamar nazu zamet_ means “I feel joy”. These ordinary utterances use the
+speaker's own feeling; a sealed warrant or a paid account does not establish it.
+_Nazu_ is I or me, _telu_ the person addressed, _saru_ he, _sari_ she, _qu_ it,
+_naru_ they and _nazun_ we. _Telu_ leaves the addressee's number unstated.
+
+_Qalret elu nazu_ is my cup, _qalret elu telu_ your cup and
+_qalret elu nazun_ our cup. _Qamar nazu qalret_ means “I have a cup”;
+_qamarun qalret ez nazu_ means “the cup belongs to me”. The kin expressions
+_mathun elu talqar_ and _malen elu malen_ name a parent's mother and a child's
+child. The named relative replaces the general kin word when the relationship
+needs to be specified. _Meral_ names a romantic beloved; _merun_ names a spouse.
+
+The short descriptions are given as whole expressions: _galmel thalen_ is a
+long seat, _genar qarenar_ an adult man and _malen qarenar_ a boy or one's son.
+The relation being discussed supplies the difference between a boy and a son.
+_Genar mathenar_ is an adult woman, and _malen mathenar_ a girl or one's daughter.
+_Mathun elu talqar_ can name a grandmother through either parent. A nephew is
+_malen qarenar elu linetar_ through one's sister or
+_malen qarenar elu linetun_ through one's brother; the corresponding female-child
+expressions name nieces. An orphan's _malen khez talqar_ describes the loss of
+living parents, rather than a judgement about birth or household rank.
+
+_Khez zuren nazu telu_ means “I do not see you”. _Wanel nazu khez zuran_
+describes blindness, while _wanel nazu khez khashel_ describes deafness.
+The first is loss of sight and the second loss of hearing, rather than an
+unseen object or an ignored speaker. _Zuret_ describes an object discernible
+to an observer with sight; _khez zuret_ describes an object that observer
+cannot discern. _Zurmur_ describes material one can see through, _qezmur_
+material one cannot see through, and _zurmeth_ a visually distinct mark or outline.
+
+_Khaleth nazu_ means “I inhale”, _khaluz nazu_ “I exhale” and
+_khazuth nazu_ “I am suffocating”. Suffocation involves absent breathable air or
+obstructed breathing. _Wanel nazu tamen_ means “I am full” after food or drink.
+_Melqath sari_ means “she conceives”; _melath sari_ means “she gives birth”.
+_Malzath sari malen_ means “she nurses a child at the breast”. _Qarnath saru_
+means “he is growing older”. _Hazath saru nazu_ means “he hurts me”, while
+_hazel nazu_ means “I hurt”. _Khez sheget_ describes loss of sensory awareness;
+it says nothing by itself about a person's account or legal standing.
+
+The heart expressions belong to felt life. _Halzi qemaz_ is contentment, a heart
+at ease with what it has. _Hamret elu tamur qemaz_ is satisfaction at a desire
+fulfilled. _Walet qarun ezu khazen_ names
+courage through the image of retaining one's purpose while afraid.
+_Walet nazu qarun ezu khazen_ means “I keep my purpose despite fear”. The
+language also names resentment, envy and jealousy through their particular
+objects; these expressions do not turn every account or obligation into anger.
+
+_Amzel elu meral_ is romantic love, _amzel elu walun_ the affection of friends,
+and _amzel elu talen_ family love. _Amzelu_ concerns everyone's good without
+claiming repayment, advantage for one's house or credit after death. It differs
+from _lamaz_, sexual appetite, and from the sacred giving of _nelgen_.
+_Neralnet_ is companionship in shared company or activity, including company
+without close friendship. _Qelmun_ names reliance, _qerun_ felt confidence and
+_qenat_ truth; confidence can be misplaced.
+
+_Nelaz nazu qalret ez telu_ means “I give you a cup”, and
+_tuqel nazu qalret ez telu_ “I bring you a cup”. _Qalath nazu qalret az galar_
+means “I put the cup at the house”. _Yarath nazu nyar galar_ means “I leave the
+house”; _yalath nazu ez galar_ means “I arrive at the house”. _Yarqel nazu nyar
+qaznar_ means “I flee from an enemy”. _Qelzath nazu galmun_ means “I lock the
+door”. The lock is _qelzu_ and its key _qelzir_.
+
+_Qaril galar_ means near the house, _qeril galar_ far from it, _qarmel galar_
+beside it and _qarmath galar ta qedgar_ between the house and the mountain.
+_Ezu galar_ is inside the house, _nazuqar galar_ outside it and _zagar galar_
+beyond it. _Zar ez galar_ directs someone upward toward the house;
+_nizar ez galar_ directs them downward toward it. _Zamar ez galar_ and
+_nazar ez galar_ give forward and backward movement toward the named destination.
+_Nyar zun_ means away from here. The place or reference object is named again
+when “here” would leave the direction unclear.
+
+_Ezu garel elu salet_ means in position seven; _ezu garel elu waqen_ in position
+eight. A stated position number supplies further ordinals. _Gerun khul_ is the
+listed count twenty. _Lazen elu khul_ selects either of a pair and
+_khezan elu khul_ excludes both. _Qaril gerun_ is about ten,
+_qaril nizar gerun_ almost ten, and _qen gerun_ exactly ten. The near-below
+expression stays below the stated amount; it does not mean “a short time ago”.
+
+_Wanel mazret elu qalret tazir shar mazret elu galmen_ means “the count of cups
+is greater than the count of chairs”. _Wanel mazun elu qalu tazil shar mazun elu
+qalmu_ means “the amount of water is less than the amount of drink”. _Tazir shar
+temun zamat_ compares an item with every other item in the stated set to identify
+the most; _tazil shar temun zamat_ identifies the least. With _leqet_ and
+_laqet_, the same explicitly named set supplies best and worst. The comparison
+can name people, counted objects or measured amounts as appropriate.
+_Tazir shar mazun qemet_ is too much for the stated need; _khez qemet_ is too
+little. _Wanel temun elu qenmet qezan_ means “the thing is of zero worth”.
+
+_Az kalet lazen_ is once, _az kalet khul_ twice and _az kalet tazun_ repeatedly.
+_Yalret_ marks recurrence rather than a count. _Ezu kalun elu shelun_ means during
+a performance; _ezu kalun elu melnet_ during a birth. _Ezu kalun elu tamnet elu
+nazu_ means while I eat, literally during the time of my eating. _Tamnet_ names
+that activity as a noun. _Qethel melnet_ means until the birth and _narel melnet_
+since the birth. Replace the named event with the actual starting or ending event.
+_Telath nazu tamel_ means “I have already done it”, _thalal nazu tamel_ “I am
+still doing it”, and _khez telath nazu tamel_ “I have not done it yet”. These
+citations use finishing or continuing the named act; _agu_ keeps its force of an
+undertaking. _Tharen mar tharen elu kalzu_ is yesterday and
+_tharen mer tharen elu kalzu_ tomorrow.
+
+_Zuren nazu qezunet_ means “I see myself”; _zuren sari qezunet_ “she sees
+herself”. The reflexive object refers to the subject of its own clause.
+_Yaler shel_ asks “who comes”; _zuren telu sher_ “what do you see”.
+_Qalret shal_ selects “which cup” from a known set. _Alqar galar az sher garun_
+asks where a house exists, _yaler telu az sher kalun_ when the addressee comes,
+and _yarul telu ez qaran elu sher_ why they go. _Muzan telu galar qer elu sher_
+asks how they build the house. _Wanel mazret elu qalret sher_ asks the count of
+cups; _wanel mazun elu qalu sher_ the amount of water. Replace the counted object
+or measured substance to ask about another quantity.
+
+_Wanel qalret elu shel_ asks whose the cup is. _Nelaz telu qalret ez shel_
+asks to whom the addressee gives a cup; _yaler telu nyar sher garun_ asks from
+where they come. _Muzan telu galar ez sher qarun_ asks for what purpose they
+build the house. _Qe zuren telu eqar_ asks “do you see this”. _Razal nazu sher
+razel telu_ requests clarification of what the addressee says.
+
+_Qenul_ affirms reality or sincerity. _Qerun zamat elu nazu_ avows the speaker's
+complete assurance. _Zurnet elu nazu_ qualifies a claim by its observed appearance.
+_Razel naru yaler saru_ means “they say he comes”: the coming stays inside the
+report and need not be endorsed by the speaker. _Lan yaler saru_ means “perhaps
+he comes”; _lan qerir yaler saru_ “he probably comes”; _lan qeril yaler saru_
+“he is unlikely to come”. _Razqet_ is an intentionally deceptive statement;
+_kezar khez qenet_ can be a mistaken claim without deception.
+
+_Yaler telu ta yarul nazu_ means “you come and I go”; replacing _ta_ by _lu_
+offers the alternatives, and by _thal_ contrasts them. _Khez yaler saru ta khez
+yaler sari_ denies both arrivals: “he does not come, nor does she”.
+_Qamaru yaler telu, tharun yarul nazu_ means “if you come, then I go”.
+_Qamaru khez yaler telu, tharun yarul nazu_ means “unless you come, I go”.
+The negation covers the complete condition. _Qamaru khez eqar, tharun yarul
+nazu_ means “otherwise I go”, with _eqar_ referring to the preceding proposition.
+_Thalamun wanel nazu zazet, yarul nazu_ means “although I am ill, I go”.
+_Thar zazun_ names the obstacle “despite illness”. _Thal tharun yarul nazu_
+means “nevertheless I go”. _Qalmu az garel elu temat_ names a drink instead of
+food. _Yarul nazu ez qarun elu nelmat_ means “I go for the purpose of a gift”.
+
+_Lu yaler telu lu yarul nazu_ means “either you come or I go”; _khez yaler telu
+ta khez yarul nazu_ “neither you come nor I go”; _ta yaler telu ta yarul nazu_
+“both you come and I go”. _Rethas nazu qe yaler telu lu khez yaler telu_ means
+“I consider whether you come or do not come”. Both alternatives keep the same
+subject. _Muzan telu galar qel nazu_ compares the addressee's building with the
+speaker's: “you build a house as I do”. _Nyar zamat khez telu_ means except you;
+_laz telu_ only you; _thaqel telu_ even you; _tan telu_ you also.
+
+_Dunel nazu tarul_ means “I can walk” and _khez dunel nazu tarul_ “I cannot
+walk”. _Lemel telu yarul_ gives permission to go. _Qelan nazu yarul_ states an
+obligation to go; _qelan nazu khez yarul_ an obligation not to go.
+_Khez qelan nazu yarul_ denies the obligation. _Leqamul telu shamel_ advises
+sleep. The named action follows the person in these citations. _Lemath nazu
+telu_ permits the addressee to do the act already under discussion;
+_khelmath nazu telu_ prohibits it. _Lemet khez qelamet_ is both permitted and
+not required; _khelmet_ is forbidden. _Lan yaler saru_ states a possible event
+rather than granting someone leave to act.
+
+The attested whole greeting _Khelathu elu anlagh_ remains in use. _Lagret ez
+telu_ wishes safety on parting. A host's _wanel telu galmer_ receives someone
+as a guest. _Qamar nazu remaz_ expresses thanks; _wazlat khez zeqat_ replies
+by releasing any debt of thanks. _Qamar nazu tarmaz_ expresses regret;
+_wazal telu nazu_ asks forgiveness. These are conventional spoken requests and
+responses with the listed invariant words. _Lamethel_ makes a request courteous:
+_lamethel khashath telu_, please listen. _Lamethel wathar_ asks room to pass or
+forbearance for an intrusion. _Lamethel razel telu yalret_ asks that something be
+said again. _Yalmet telu_, _yalem telu zun_, _yarul telu nyar zun_,
+_lagel telu nazu_ and _thalet telu_ ask someone to wait, come here, go away,
+help and stop. None depends on a new imperative ending.
+
+_Rethulun nazu_ acknowledges understanding; _khez rethulun nazu_ acknowledges its
+absence. _Razal nazu sher qaruth telu_ asks the intended meaning.
+_Razal nazu qer elu sher razel telu eqar_ asks how to say this; the expression
+being asked about replaces _eqar_. _Wanel rethan elu eqar sher_ asks the name of
+this. _Qe qenul_ requests confirmation with conversational surprise.
+
+_Thazit qemath_ is very small, _thazit qezathil_ tiny and _thazet qezathil_ huge.
+_Thazit zamin_ is somewhat small and _thazit zammin_ slightly small. The tree
+expression _malqat elu lagarun_ names wood as material, including branches and
+fallen wood; _lagun_ keeps its ordinary use for timber.
+
+The everyday list uses Qalezu. Existing sacred writings in Zethu keep their
+recorded signs; an ordinary word's inclusion here does not assign it a new
+hieroglyph.
 
 ## Script & Literacy
 

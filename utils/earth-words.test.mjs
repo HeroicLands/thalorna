@@ -109,6 +109,89 @@ test("a stem or affix written with a hyphen is not compared", () => {
     assert.deepEqual(earthHits({ form: "-aqua", gloss: "" }, earth, ["latin"]), []);
 });
 
+test("source boundaries and explicit bound classes do not become whole words", () => {
+    const root = path.join(dir, "bound-classes");
+    const classes = [
+        "root",
+        "affix",
+        "suffix",
+        "prefix",
+        "infix",
+        "interfix",
+        "circumfix",
+        "combining_form",
+    ];
+    const forms = [
+        "radika",
+        "afixa",
+        "sufixa",
+        "prefika",
+        "infika",
+        "interika",
+        "circuma",
+        "kombina",
+    ];
+    write("bound-classes/latin.txt", [...forms, "eza", "pre", "unlisted"].join("\n"));
+    write(
+        "bound-classes/latin.tsv",
+        [
+            ...classes.map((pos, i) => `${forms[i]}\t${pos}\tbound sense`),
+            "-eza\tnoun\tmarked at the left boundary",
+            "pre-\tnoun\tmarked at the right boundary",
+        ].join("\n"),
+    );
+    const earth = loadEarth([root]);
+    for (const form of [...forms, "eza", "pre"])
+        assert.deepEqual(earthHits({ form, gloss: "" }, earth, ["latin"]), [], form);
+    assert.equal(earthHits({ form: "unlisted", gloss: "" }, earth, ["latin"]).length, 1);
+});
+
+test("a free homonym survives while its bound glosses cannot create meaning matches", () => {
+    const root = path.join(dir, "homonyms");
+    write("homonyms/latin.txt", "aqua\n");
+    write("homonyms/latin.tsv", "-áqua\tsuffix\tfire\naqua\troot\tstone\nAQUA\tnoun\twater\n");
+    const earth = loadEarth([root]);
+    assert.equal(earthHits({ form: "aqua", gloss: "fire" }, earth, ["latin"]).length, 1);
+    assert.deepEqual(earth.glosses.get("latin").get(normalize("aqua")), ["water"]);
+    assert.deepEqual(earthHits({ form: "aqua", gloss: "fire" }, earth, ["latin"], true), []);
+    assert.equal(earthHits({ form: "aqua", gloss: "water" }, earth, ["latin"], true).length, 1);
+});
+
+test("bound-only entries in one directory cannot erase an independent word in another", () => {
+    const bound = path.join(dir, "union-bound");
+    const free = path.join(dir, "union-free");
+    write("union-bound/latin.txt", "eza\n");
+    write("union-bound/latin.tsv", "-eza\tsuffix\tfire\n");
+    write("union-free/latin.txt", "eza\n");
+    write("union-free/latin.tsv", "eza\tnoun\twater\n");
+    for (const dirs of [
+        [bound, free],
+        [free, bound],
+    ]) {
+        const earth = loadEarth(dirs);
+        assert.equal(earthHits({ form: "eza", gloss: "" }, earth, ["latin"]).length, 1);
+        assert.deepEqual(earth.glosses.get("latin").get("eza"), ["water"]);
+    }
+});
+
+test("text-only lists retain unclassified words and internal hyphens", () => {
+    const root = path.join(dir, "text-only");
+    const bound = path.join(dir, "text-only-bound");
+    write("text-only/latin.txt", "-suffix\nprefix-\nordinary\npart-whole\neza\n");
+    write("text-only-bound/latin.txt", "eza\n");
+    write("text-only-bound/latin.tsv", "-eza\tsuffix\tbound sense\n");
+    for (const dirs of [
+        [bound, root],
+        [root, bound],
+    ]) {
+        const earth = loadEarth(dirs);
+        for (const form of ["suffix", "prefix"])
+            assert.deepEqual(earthHits({ form, gloss: "" }, earth, ["latin"]), []);
+        for (const form of ["ordinary", "part-whole", "eza"])
+            assert.equal(earthHits({ form, gloss: "" }, earth, ["latin"]).length, 1, form);
+    }
+});
+
 test("a stem inside a word is not reported", () => {
     const earth = loadEarth([lists()]);
     assert.deepEqual(earthHits({ form: "aquaron", gloss: "" }, earth, ["latin"]), []);

@@ -9,7 +9,8 @@
  * The corpus names no Earth proper name.
  *
  * A language, country, region, city, people, religion, mythology, real person or
- * work of fiction is an Earth name, and so are "English" and "Common tongue".
+ * work of fiction is an Earth name, as are names of the reader's languages
+ * and "Common tongue".
  * "Common Calendar" is refused beside them: the shared year-count belongs to the
  * Vylarian Empire, and prose calls it the Vylarian Calendar.
  * Each is refused in every note, README and table under `assets/content`, and in
@@ -20,7 +21,7 @@
  * Two places may name other Earth names: the Terran analogs note, and a
  * `# terran_analog:` comment line.
  *
- * "English", "French" and "Latin" are the reader's own languages. Each is refused
+ * Names of the reader's own languages are refused
  * as a whole word in any case everywhere under `assets/content`, the Terran
  * analogs note and `# terran_analog:` lines included.
  *
@@ -46,7 +47,7 @@ const PRONUNCIATION_GUIDE = "assets/content/Lore/Pronouncing_Thalorna.md";
 /** Files that may name Earth. */
 const EXEMPT_FILES = new Set([
     "assets/content/Reference/Terran_Analogs.md",
-    // The pronunciation guide explains our spelling to readers, so it names English, Roman and Scottish.
+    // The pronunciation guide explains spelling through reference languages and regional readings.
     PRONUNCIATION_GUIDE,
 ]);
 

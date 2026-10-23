@@ -24,7 +24,11 @@
  * form per line; lists of one name in several directories merge. A
  * `<language>.tsv` beside it carries glosses, one entry per line, the form in
  * the first tab-separated column and the gloss in the last. A form may stand on
- * several lines, one per sense. A form of fewer than three letters is not
+ * several lines, one per sense. Raw boundary hyphens and explicit bound classes
+ * in the second column identify roots and affixes; only free senses contribute
+ * words and glosses. An unclassified text-only form is retained. Classification
+ * happens before lists from different directories merge, so a free homonym in
+ * either source remains a word. A form of fewer than three letters is not
  * compared.
  *
  * **Meaning.** Where it is required, two glosses mean the same when they share content words: each
@@ -68,7 +72,7 @@ const SAME_MEANING = 0.5;
  */
 export const SOURCES = {
     "Aelendi.md": ["welsh", "old-irish"],
-    "Aelwythi.md": ["old-english"],
+    // Aelwythi speech is rendered in an older register of the reader's language.
     "Atarzadi.md": ["persian"],
     "Bethuan.md": ["ancient-greek", "arabic"],
     "Byzarian.md": ["ancient-greek", "persian", "turkish"],
@@ -191,30 +195,62 @@ export function listDirs(argv, env, cwd) {
 export function loadEarth(dirs) {
     const lists = new Map();
     const glosses = new Map();
+    const boundClasses = new Set([
+        "root",
+        "affix",
+        "suffix",
+        "prefix",
+        "infix",
+        "interfix",
+        "circumfix",
+        "combining_form",
+    ]);
+    const hasBoundary = (form) => /^-|-$/.test(form.trim());
     const isDir = (d) => fs.existsSync(d) && fs.statSync(d).isDirectory();
     for (const dir of dirs.filter(isDir)) {
         for (const name of fs.readdirSync(dir).sort()) {
             if (!name.endsWith(".txt")) continue;
             const key = name.slice(0, -4);
-            const set = lists.get(key) ?? new Set();
+            const local = new Set();
             for (const line of fs.readFileSync(path.join(dir, name), "utf8").split("\n")) {
+                if (hasBoundary(line)) continue;
                 const n = normalize(line);
-                if (n) set.add(n);
+                if (n) local.add(n);
             }
-            if (set.size) lists.set(key, set);
+            const bound = new Set();
+            const free = new Set();
+            const localSenses = new Map();
             const tsv = path.join(dir, `${key}.tsv`);
-            if (!fs.existsSync(tsv)) continue;
-            const senses = glosses.get(key) ?? new Map();
-            for (const line of fs.readFileSync(tsv, "utf8").split("\n")) {
-                const cells = line.split("\t");
-                if (cells.length < 2) continue;
-                const n = normalize(cells[0]);
-                const gloss = cells[cells.length - 1].trim();
-                if (!n || !gloss) continue;
-                if (!senses.has(n)) senses.set(n, []);
-                if (!senses.get(n).includes(gloss)) senses.get(n).push(gloss);
+            if (fs.existsSync(tsv)) {
+                for (const line of fs.readFileSync(tsv, "utf8").split("\n")) {
+                    const cells = line.split("\t");
+                    if (cells.length < 2) continue;
+                    const n = normalize(cells[0]);
+                    if (!n) continue;
+                    const pos = cells.length > 2 ? cells[1].trim().toLowerCase() : "";
+                    if (hasBoundary(cells[0]) || boundClasses.has(pos)) {
+                        bound.add(n);
+                        continue;
+                    }
+                    free.add(n);
+                    const gloss = cells[cells.length - 1].trim();
+                    if (!gloss) continue;
+                    if (!localSenses.has(n)) localSenses.set(n, []);
+                    if (!localSenses.get(n).includes(gloss)) localSenses.get(n).push(gloss);
+                }
             }
-            glosses.set(key, senses);
+            // Classify each source before union: another directory may attest a free homonym.
+            for (const n of bound) if (!free.has(n)) local.delete(n);
+            const set = lists.get(key) ?? new Set();
+            for (const n of local) set.add(n);
+            if (set.size) lists.set(key, set);
+            const senses = glosses.get(key) ?? new Map();
+            for (const [n, entries] of localSenses) {
+                if (!senses.has(n)) senses.set(n, []);
+                for (const gloss of entries)
+                    if (!senses.get(n).includes(gloss)) senses.get(n).push(gloss);
+            }
+            if (senses.size) glosses.set(key, senses);
         }
     }
     return { lists, glosses };

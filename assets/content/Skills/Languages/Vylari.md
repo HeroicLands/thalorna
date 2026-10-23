@@ -360,8 +360,8 @@ data:
     - form: varelon
       class: n n
       field: The hallowed and the gods
-      gloss: "faith; trust; the holding of a thing true"
-      concept: faith
+      gloss: faith; trust; the holding of a thing true
+      concept: [faith, trust, belief]
       source: {kind: coined}
     - form: ulthnethoron
       class: n n
@@ -388,9 +388,10 @@ data:
       source: {kind: inherited, form: dherthas}
     - form: dorthene
       class: n f
-      field: "Ancestors, the house and the name"
-      gloss: "a line; a lineage traced through the hall's masks"
+      field: Ancestors, the house and the name
+      gloss: a line; a lineage traced through the hall's masks
       source: {kind: inherited}
+      concept: lineage
     - form: thelvaralon
       class: n n
       field: "Ancestors, the house and the name"
@@ -490,9 +491,10 @@ data:
       source: {kind: inherited}
     - form: harlen
       class: n n
-      field: "Ancestors, the house and the name"
-      gloss: "a name"
+      field: Ancestors, the house and the name
+      gloss: a name
       source: {kind: inherited}
+      concept: name-noun
     - form: harlenis
       class: n n
       plural: harlenar
@@ -513,14 +515,16 @@ data:
       source: {kind: inherited}
     - form: kambeza
       class: n f
-      field: "Ancestors, the house and the name"
-      gloss: "a marriage; the handing of a woman from one household to another"
+      field: Ancestors, the house and the name
+      gloss: a marriage; the handing of a woman from one household to another
       source: {kind: inherited}
+      concept: marriage
     - form: sorethis
       class: n m
-      field: "Ancestors, the house and the name"
-      gloss: "kin; those of one blood"
+      field: Ancestors, the house and the name
+      gloss: kin; those of one blood
       source: {kind: inherited}
+      concept: kin
     - form: sorethon
       class: n n
       plural: sorethar
@@ -530,15 +534,17 @@ data:
       source: {kind: coined}
     - form: zirothos
       class: n m
-      field: "Precedence, patronage and what is owed"
-      gloss: "a step of rank; one rung of the order"
+      field: Precedence, patronage and what is owed
+      gloss: a step of rank; one rung of the order
       source: {kind: inherited}
+      concept: rank
     - form: zirothalon
       class: n n
-      field: "Precedence, patronage and what is owed"
-      gloss: "precedence; the order of a room worked out to the step"
+      field: Precedence, patronage and what is owed
+      gloss: precedence; the order of a room worked out to the step
       source: {kind: inherited}
-      built: ["ziroth-", "-alon"]
+      built: [ziroth-, -alon]
+      concept: order-noun
     - form: zirothathen
       class: v
       field: "Precedence, patronage and what is owed"
@@ -583,14 +589,16 @@ data:
       source: {kind: inherited}
     - form: orfenathen
       class: v
-      field: "Precedence, patronage and what is owed"
-      gloss: "to owe; to stand under a favor"
+      field: Precedence, patronage and what is owed
+      gloss: to owe; to stand under a favor
       source: {kind: inherited}
+      concept: must
     - form: velda
       class: n f
-      field: "Precedence, patronage and what is owed"
-      gloss: "honor; a public thing, made of offices held and remembered"
+      field: Precedence, patronage and what is owed
+      gloss: honor; a public thing, made of offices held and remembered
       source: {kind: inherited, form: welda}
+      concept: honor
     - form: anvelda
       class: n f
       field: "Precedence, patronage and what is owed"
@@ -608,9 +616,10 @@ data:
       source: {kind: inherited}
     - form: dumvaros
       class: n m
-      field: "Precedence, patronage and what is owed"
-      gloss: "a guest; one under a host's roof and his protection"
+      field: Precedence, patronage and what is owed
+      gloss: a guest; one under a host's roof and his protection
       source: {kind: inherited, form: dumwaros}
+      concept: guest
     - form: dumvaralon
       class: n n
       field: "Precedence, patronage and what is owed"
@@ -619,9 +628,10 @@ data:
       built: ["dumvar-", "-alon"]
     - form: haldethos
       class: n m
-      field: "Precedence, patronage and what is owed"
-      gloss: "a host"
+      field: Precedence, patronage and what is owed
+      gloss: a host
       source: {kind: inherited}
+      concept: host
     - form: verosa
       class: n f
       field: "Precedence, patronage and what is owed"
@@ -696,10 +706,11 @@ data:
       built: ["peler-", "-en"]
     - form: anorfenathen
       class: v
-      field: "Precedence, patronage and what is owed"
-      gloss: "to forgive; to release from what is owed"
+      field: Precedence, patronage and what is owed
+      gloss: to forgive; to release from what is owed
       source: {kind: coined}
-      built: ["an-", orfenathen]
+      built: [an-, orfenathen]
+      concept: forgive-verb
     - form: vethvelda
       class: n f
       field: "Precedence, patronage and what is owed"
@@ -724,9 +735,10 @@ data:
     - form: vornon
       class: n n
       plural: vornar
-      field: "Law, the court and the written act"
-      gloss: "a law; a statute the Senate has voted"
+      field: Law, the court and the written act
+      gloss: a law; a statute the Senate has voted
       source: {kind: inherited, form: wornon}
+      concept: law
     - form: vornalon
       class: n n
       field: "Law, the court and the written act"
@@ -735,9 +747,10 @@ data:
       built: ["vorn-", "-alon"]
     - form: zesima
       class: n f
-      field: "Law, the court and the written act"
-      gloss: "a custom; what is done because it has always been done"
+      field: Law, the court and the written act
+      gloss: a custom; what is done because it has always been done
       source: {kind: inherited, form: dhesima}
+      concept: custom
     - form: nazdis
       class: n f
       plural: nazdar
@@ -822,15 +835,17 @@ data:
       source: {kind: inherited, form: dhamolis}
     - form: yestharos
       class: adj
-      field: "Law, the court and the written act"
-      gloss: "within one's right; lawful, of an act or a claim"
+      field: Law, the court and the written act
+      gloss: within one's right; lawful, of an act or a claim
       source: {kind: inherited}
+      concept: allowed
     - form: frenkon
       class: n n
       plural: frenkar
-      field: "Law, the court and the written act"
-      gloss: "property; a thing owned, land or slave or craft"
+      field: Law, the court and the written act
+      gloss: property; a thing owned, land or slave or craft
       source: {kind: inherited}
+      concept: property
     - form: nampeza
       class: n f
       field: "Law, the court and the written act"
@@ -940,8 +955,9 @@ data:
     - form: lusathen
       class: v
       field: The state and its offices
-      gloss: "to protect; to stand before"
+      gloss: to protect; to stand before
       source: {kind: inherited}
+      concept: defend
     - form: lusos
       class: n m
       field: The state and its offices
@@ -1033,8 +1049,9 @@ data:
     - form: felzathen
       class: v
       field: The state and its offices
-      gloss: "to send"
+      gloss: [to send, to throw; to send an object through the air]
       source: {kind: inherited}
+      concept: throw
     - form: felzos
       class: n m
       field: The state and its offices
@@ -1192,8 +1209,9 @@ data:
     - form: kordathen
       class: v
       field: The legions and the frontier
-      gloss: "to fight; in the passive, there is fighting"
+      gloss: to fight; in the passive, there is fighting
       source: {kind: inherited}
+      concept: fight
     - form: thramezos
       class: n m
       field: The legions and the frontier
@@ -1272,8 +1290,9 @@ data:
     - form: kalpeza
       class: n f
       field: The legions and the frontier
-      gloss: "a gate"
+      gloss: a gate
       source: {kind: inherited}
+      concept: gate
     - form: thorgila
       class: n f
       field: The legions and the frontier
@@ -1329,13 +1348,15 @@ data:
     - form: thrumathen
       class: v
       field: The legions and the frontier
-      gloss: "to lead"
+      gloss: to lead
       source: {kind: inherited}
+      concept: lead
     - form: thrumar
       class: n m
       field: The legions and the frontier
-      gloss: "a general; a war-leader"
+      gloss: a general; a war-leader
       source: {kind: inherited}
+      concept: leader
     - form: velzora
       class: n f
       field: The legions and the frontier
@@ -1354,8 +1375,9 @@ data:
     - form: preza
       class: n f
       field: The legions and the frontier
-      gloss: "peace; the quiet between neighbors"
+      gloss: peace; the quiet between neighbors
       source: {kind: inherited, form: predha}
+      concept: peace
     - form: thurgezon
       class: n n
       field: The legions and the frontier
@@ -1379,8 +1401,9 @@ data:
     - form: grumeza
       class: n f
       field: The legions and the frontier
-      gloss: "war"
+      gloss: war
       source: {kind: inherited}
+      concept: war
     - form: gulmeza
       class: n f
       field: The legions and the frontier
@@ -1421,8 +1444,9 @@ data:
     - form: holvethos
       class: n m
       field: The legions and the frontier
-      gloss: "a companion; one who rides beside a commander"
+      gloss: a companion; one who rides beside a commander
       source: {kind: inherited, form: holwethos}
+      concept: companion
     - form: zumbros
       class: n m
       field: The legions and the frontier
@@ -1546,8 +1570,9 @@ data:
     - form: malkothos
       class: n m
       field: "The city: stone, water and the street"
-      gloss: "a hill; one of the hills a city sits on"
+      gloss: a hill; one of the hills a city sits on
       source: {kind: inherited}
+      concept: hill
     - form: ithrola
       class: n f
       field: "The city: stone, water and the street"
@@ -1572,8 +1597,9 @@ data:
     - form: funela
       class: n f
       field: "The city: stone, water and the street"
-      gloss: "a cord; the measuring line a boundary is walked with"
+      gloss: a cord; the measuring line a boundary is walked with
       source: {kind: coined}
+      concept: cord
     - form: pozertalothos
       class: n m
       field: "The city: stone, water and the street"
@@ -1621,15 +1647,17 @@ data:
       source: {kind: inherited}
     - form: gartema
       class: n f
-      field: "Craft, guild and the kept secret"
-      gloss: "a bench; a master's place in a workshop, and the right to hold one"
+      field: Craft, guild and the kept secret
+      gloss: a bench; a master's place in a workshop, and the right to hold one
       source: {kind: inherited, form: ghartema}
+      concept: bench
     - form: gartos
       class: n m
-      field: "Craft, guild and the kept secret"
-      gloss: "a master; one who holds a bench and may take apprentices"
+      field: Craft, guild and the kept secret
+      gloss: a master; one who holds a bench and may take apprentices
       source: {kind: inherited, form: ghartos}
-      built: ["gart-", "-os"]
+      built: [gart-, -os]
+      concept: master
     - form: pithros
       class: n m
       field: "Craft, guild and the kept secret"
@@ -1688,9 +1716,10 @@ data:
       source: {kind: inherited}
     - form: malkeza
       class: n f
-      field: "Craft, guild and the kept secret"
-      gloss: "a hammer"
+      field: Craft, guild and the kept secret
+      gloss: a hammer
       source: {kind: inherited}
+      concept: hammer
     - form: thumisa
       class: n f
       field: "Craft, guild and the kept secret"
@@ -1698,9 +1727,9 @@ data:
       source: {kind: inherited}
     - form: tambathen
       class: v
-      field: "Craft, guild and the kept secret"
-      gloss: "to make; to do"
-      concept: [make, do]
+      field: Craft, guild and the kept secret
+      gloss: to make; to do
+      concept: [make, do, create]
       source: {kind: inherited}
     - form: tambandon
       class: n n
@@ -1739,14 +1768,16 @@ data:
       built: ["gaur-", "-os"]
     - form: delamos
       class: n m
-      field: "Coin, trade and the counting-table"
-      gloss: "a merchant"
+      field: Coin, trade and the counting-table
+      gloss: a merchant
       source: {kind: inherited}
+      concept: merchant
     - form: delathen
       class: v
-      field: "Coin, trade and the counting-table"
-      gloss: "to trade; to buy and sell"
+      field: Coin, trade and the counting-table
+      gloss: to trade; to buy and sell
       source: {kind: inherited}
+      concept: trade
     - form: delalon
       class: n n
       field: "Coin, trade and the counting-table"
@@ -1803,9 +1834,10 @@ data:
       built: ["fezum-", "-os"]
     - form: nezora
       class: n f
-      field: "Coin, trade and the counting-table"
-      gloss: "a debt"
+      field: Coin, trade and the counting-table
+      gloss: a debt
       source: {kind: inherited, form: nedhora}
+      concept: debt
     - form: solkimon
       class: n n
       field: "Coin, trade and the counting-table"
@@ -1869,9 +1901,10 @@ data:
       built: ["thradin-", "-os"]
     - form: rozimathen
       class: v
-      field: "Coin, trade and the counting-table"
-      gloss: "to count; to reckon; to date by a reckoning"
+      field: Coin, trade and the counting-table
+      gloss: to count; to reckon; to date by a reckoning
       source: {kind: coined}
+      concept: count-verb
     - form: verdakeza
       class: n f
       field: "Coin, trade and the counting-table"
@@ -1880,14 +1913,16 @@ data:
       source: {kind: coined}
     - form: yormalis
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "land; the ground a house owns"
+      field: Land, the vine and the river
+      gloss: land; the ground a house owns
       source: {kind: inherited}
+      concept: land
     - form: polthamis
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a field; farmland"
+      field: Land, the vine and the river
+      gloss: a field; farmland
       source: {kind: inherited}
+      concept: field
     - form: polthos
       class: n m
       field: "Land, the vine and the river"
@@ -1932,9 +1967,10 @@ data:
       source: {kind: inherited, form: wilaras}
     - form: siretha
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a river; running water"
+      field: Land, the vine and the river
+      gloss: a river; running water
       source: {kind: inherited}
+      concept: river
     - form: linthima
       class: n f
       field: "Land, the vine and the river"
@@ -1942,19 +1978,22 @@ data:
       source: {kind: inherited}
     - form: tholmara
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a lake"
+      field: Land, the vine and the river
+      gloss: a lake
       source: {kind: inherited}
+      concept: lake
     - form: nebralis
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a valley"
+      field: Land, the vine and the river
+      gloss: a valley
       source: {kind: inherited}
+      concept: valley
     - form: ronethos
       class: n m
-      field: "Land, the vine and the river"
-      gloss: "a mountain"
+      field: Land, the vine and the river
+      gloss: a mountain
       source: {kind: inherited}
+      concept: mountain
     - form: ganothos
       class: n m
       field: "Land, the vine and the river"
@@ -1962,14 +2001,16 @@ data:
       source: {kind: inherited}
     - form: lizela
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a flower"
+      field: Land, the vine and the river
+      gloss: a flower
       source: {kind: inherited}
+      concept: flower
     - form: kaldrema
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a wood; a forest"
+      field: Land, the vine and the river
+      gloss: a wood; a forest
       source: {kind: inherited}
+      concept: forest
     - form: tharozos
       class: n f
       field: "Land, the vine and the river"
@@ -1982,29 +2023,34 @@ data:
       source: {kind: inherited, form: wenthelos}
     - form: nelamis
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "snow"
+      field: Land, the vine and the river
+      gloss: snow
       source: {kind: inherited}
+      concept: snow
     - form: huradis
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "rain"
+      field: Land, the vine and the river
+      gloss: rain
       source: {kind: inherited}
+      concept: rain
     - form: korvathis
       class: n m
-      field: "Land, the vine and the river"
-      gloss: "the sun"
+      field: Land, the vine and the river
+      gloss: the sun
       source: {kind: inherited, form: korwathis}
+      concept: sun
     - form: yalzemis
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "the moon"
+      field: Land, the vine and the river
+      gloss: the moon
       source: {kind: inherited}
+      concept: moon
     - form: ilthera
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "a star"
+      field: Land, the vine and the river
+      gloss: a star
       source: {kind: inherited}
+      concept: star
     - form: iltheron
       class: n n
       field: "Land, the vine and the river"
@@ -2013,9 +2059,10 @@ data:
       built: ["ilther-", "-alon"]
     - form: satheros
       class: n m
-      field: "Land, the vine and the river"
-      gloss: "a wind"
+      field: Land, the vine and the river
+      gloss: a wind
       source: {kind: inherited}
+      concept: wind
     - form: talothos
       class: n m
       field: "Land, the vine and the river"
@@ -2023,9 +2070,10 @@ data:
       source: {kind: inherited}
     - form: elza
       class: n f
-      field: "Land, the vine and the river"
-      gloss: "ash; a cinder"
+      field: Land, the vine and the river
+      gloss: ash; a cinder
       source: {kind: inherited, form: eldha}
+      concept: ash
     - form: varthos
       class: n m
       field: "Land, the vine and the river"
@@ -2058,14 +2106,16 @@ data:
       source: {kind: inherited}
     - form: ulfis
       class: n m
-      field: "Land, the vine and the river"
-      gloss: "a fish"
+      field: Land, the vine and the river
+      gloss: a fish
       source: {kind: inherited}
+      concept: fish
     - form: sedon
       class: n n
-      field: "Land, the vine and the river"
-      gloss: "a place; a spot; the ground a thing stands on"
+      field: Land, the vine and the river
+      gloss: a place; a spot; the ground a thing stands on
       source: {kind: coined}
+      concept: place-noun
     - form: klivon
       class: n n
       field: "Land, the vine and the river"
@@ -2091,13 +2141,15 @@ data:
     - form: ornethe
       class: n f
       field: The sea and the sailing year
-      gloss: "the sea"
+      gloss: the sea
       source: {kind: inherited}
+      concept: [sea, ocean]
     - form: salkon
       class: n n
       field: The sea and the sailing year
-      gloss: "a shore"
+      gloss: a shore
       source: {kind: inherited}
+      concept: shore
     - form: threnema
       class: n f
       field: The sea and the sailing year
@@ -2149,13 +2201,15 @@ data:
     - form: brazema
       class: n f
       field: The sea and the sailing year
-      gloss: "a storm"
+      gloss: a storm
       source: {kind: inherited}
+      concept: storm
     - form: zurmela
       class: n f
       field: The sea and the sailing year
-      gloss: "thunder"
+      gloss: thunder
       source: {kind: inherited, form: dhurmela}
+      concept: thunder
     - form: aistroi
       class: n m
       plural: aistroi
@@ -2223,14 +2277,16 @@ data:
       source: {kind: inherited, form: brudhamis}
     - form: sirema
       class: n f
-      field: "The body, life and death"
-      gloss: "life"
+      field: The body, life and death
+      gloss: life
       source: {kind: inherited}
+      concept: life
     - form: kolvazis
       class: n f
-      field: "The body, life and death"
-      gloss: "death; a word said as seldom as it can be"
+      field: The body, life and death
+      gloss: death; a word said as seldom as it can be
       source: {kind: inherited, form: kholwazis}
+      concept: death
     - form: kalmethathen
       class: v
       field: "The body, life and death"
@@ -2273,9 +2329,10 @@ data:
       built: ["zemrol-", "-ara"]
     - form: tholbema
       class: n f
-      field: "The body, life and death"
-      gloss: "a cloak; the citizen's gown"
+      field: The body, life and death
+      gloss: a cloak; the citizen's gown
       source: {kind: inherited}
+      concept: cloak
     - form: kistela
       class: n f
       field: "The body, life and death"
@@ -2301,11 +2358,11 @@ data:
       source: {kind: coined}
     - form: okandon
       class: n n
-      field: "The body, life and death"
-      gloss: "a sight; a thing seen; the look of a thing (okandon ol ulfoi, the sight of fish)"
-      concept: see-noun
+      field: The body, life and death
+      gloss: a sight; a thing seen; the look of a thing (okandon ol ulfoi, the sight of fish)
+      concept: [see-noun, appearance]
       source: {kind: coined}
-      built: ["ok-", "-andon"]
+      built: [ok-, -andon]
     - form: thavandon
       class: n n
       field: "The body, life and death"
@@ -2371,24 +2428,28 @@ data:
       source: {kind: coined}
     - form: tharnela
       class: n f
-      field: "Time, the calendar and the festivals"
-      gloss: "a year"
+      field: Time, the calendar and the festivals
+      gloss: a year
       source: {kind: inherited}
+      concept: year
     - form: oltrema
       class: n f
-      field: "Time, the calendar and the festivals"
-      gloss: "a month"
+      field: Time, the calendar and the festivals
+      gloss: a month
       source: {kind: inherited}
+      concept: month
     - form: nardelon
       class: n n
-      field: "Time, the calendar and the festivals"
-      gloss: "a day"
+      field: Time, the calendar and the festivals
+      gloss: a day
       source: {kind: inherited}
+      concept: day
     - form: zunela
       class: n f
-      field: "Time, the calendar and the festivals"
-      gloss: "night"
+      field: Time, the calendar and the festivals
+      gloss: night
       source: {kind: inherited, form: dhunela}
+      concept: night
     - form: thapelon
       class: n n
       field: "Time, the calendar and the festivals"
@@ -2396,14 +2457,16 @@ data:
       source: {kind: inherited}
     - form: pramiza
       class: n f
-      field: "Time, the calendar and the festivals"
-      gloss: "the morning; the hour of the morning call"
+      field: Time, the calendar and the festivals
+      gloss: the morning; the hour of the morning call
       source: {kind: inherited}
+      concept: morning
     - form: hilthera
       class: n f
-      field: "Time, the calendar and the festivals"
-      gloss: "the evening"
+      field: Time, the calendar and the festivals
+      gloss: the evening
       source: {kind: inherited}
+      concept: evening
     - form: herthema
       class: n f
       field: "Time, the calendar and the festivals"
@@ -2469,9 +2532,9 @@ data:
       built: ["hilther-", sorima]
     - form: dokathen
       class: v
-      field: "Learning, speech and the letters"
-      gloss: "to speak; to say before others"
-      concept: [speak, say]
+      field: Learning, speech and the letters
+      gloss: to speak; to say before others
+      concept: [speak, say, tell]
       source: {kind: inherited}
     - form: dokemon
       class: n n
@@ -2486,9 +2549,8 @@ data:
       built: ["dok-", "-os"]
     - form: tharlema
       class: n f
-      field: "Learning, speech and the letters"
-      gloss: "a tongue; a language"
-      concept: tongue
+      field: Learning, speech and the letters
+      gloss: a tongue; a language
       source: {kind: inherited}
     - form: lambizon
       class: n n
@@ -2579,10 +2641,11 @@ data:
       built: ["zarg-", elza]
     - form: marendos
       class: n m
-      field: "Learning, speech and the letters"
-      gloss: "a master; a teacher licensed to teach"
+      field: Learning, speech and the letters
+      gloss: a master; a teacher licensed to teach
       source: {kind: inherited}
-      built: ["marend-", "-os"]
+      built: [marend-, -os]
+      concept: teacher
     - form: zetmarendalon
       class: n n
       field: "Learning, speech and the letters"
@@ -2597,9 +2660,10 @@ data:
       built: ["zet-", marendos]
     - form: galethos
       class: n m
-      field: "Learning, speech and the letters"
-      gloss: "a student"
+      field: Learning, speech and the letters
+      gloss: a student
       source: {kind: inherited, form: ghalethos}
+      concept: student
     - form: kezdathen
       class: v
       field: "Learning, speech and the letters"
@@ -2686,21 +2750,62 @@ data:
     - form: thelvaros
       class: adj
       field: Qualities
-      gloss: "high; noble"
+      gloss: high; noble
       source: {kind: inherited, form: thelwaros}
+      concept: high
     - form: melvar
       class: adj
       field: Qualities
       gloss: "great"
       source: {kind: inherited, form: melwar}
-    - {form: dorandar, class: adj, field: Qualities, gloss: "enduring", source: {kind: inherited}}
-    - {form: dayos, class: adj, field: Qualities, gloss: "good", source: {kind: inherited}}
-    - {form: korethos, class: adj, field: Qualities, gloss: "bad", source: {kind: inherited}}
-    - {form: solteros, class: adj, field: Qualities, gloss: "large", source: {kind: inherited}}
-    - {form: nizelos, class: adj, field: Qualities, gloss: "small", source: {kind: inherited}}
-    - {form: peleros, class: adj, field: Qualities, gloss: "new", source: {kind: inherited}}
-    - {form: ankelos, class: adj, field: Qualities, gloss: "old", source: {kind: inherited}}
-    - {form: dayimmon, class: adj, field: Qualities, gloss: "the best", source: {kind: coined}}
+    - form: dorandar
+      class: adj
+      field: Qualities
+      gloss: enduring
+      source: {kind: inherited}
+      concept: lasting-duration
+    - form: dayos
+      class: adj
+      field: Qualities
+      gloss: good
+      source: {kind: inherited}
+      concept: good
+    - form: korethos
+      class: adj
+      field: Qualities
+      gloss: bad
+      source: {kind: inherited}
+      concept: bad
+    - form: solteros
+      class: adj
+      field: Qualities
+      gloss: large
+      source: {kind: inherited}
+      concept: big
+    - form: nizelos
+      class: adj
+      field: Qualities
+      gloss: small
+      source: {kind: inherited}
+      concept: small
+    - form: peleros
+      class: adj
+      field: Qualities
+      gloss: new
+      source: {kind: inherited}
+      concept: new
+    - form: ankelos
+      class: adj
+      field: Qualities
+      gloss: old
+      source: {kind: inherited}
+      concept: [old, old-object, elder]
+    - form: dayimmon
+      class: adj
+      field: Qualities
+      gloss: the best
+      source: {kind: coined}
+      concept: best
     - form: nizelimmon
       class: adj
       field: Qualities
@@ -2722,40 +2827,61 @@ data:
       field: Qualities
       gloss: "the most weighty; the most grave"
       source: {kind: coined}
-    - {form: teremos, class: adj, field: Qualities, gloss: "long", source: {kind: inherited}}
+    - form: teremos
+      class: adj
+      field: Qualities
+      gloss: long
+      source: {kind: inherited}
+      concept: long
     - form: zetimos
       class: adj
       field: Qualities
-      gloss: "all; every; whole"
+      gloss: all; every; whole
       source: {kind: inherited}
+      concept: [whole, all, every, complete]
     - form: kiramos
       class: adj
       field: Qualities
-      gloss: "bright; famous"
+      gloss: bright; famous
       source: {kind: inherited}
-    - {form: tharkos, class: adj, field: Qualities, gloss: "strong", source: {kind: inherited}}
+      concept: bright
+    - form: tharkos
+      class: adj
+      field: Qualities
+      gloss: strong
+      source: {kind: inherited}
+      concept: strong
     - form: solkimos
       class: adj
       field: Qualities
-      gloss: "weighty; grave"
+      gloss: weighty; grave
       source: {kind: inherited}
+      concept: heavy
     - form: revothos
       class: adj
       field: Qualities
-      gloss: "free"
+      gloss: free
       source: {kind: inherited, form: rewothos}
+      concept: free
     - form: varelin
       class: adj
       field: Qualities
       gloss: "true"
       source: {kind: inherited, form: warelin}
+      concept: "true"
     - form: varelza
       class: n f
       field: Qualities
-      gloss: "truth"
+      gloss: truth
       source: {kind: coined}
-      built: ["varel-", "-za"]
-    - {form: sethros, class: adj, field: Qualities, gloss: "false", source: {kind: inherited}}
+      built: [varel-, -za]
+      concept: truth
+    - form: sethros
+      class: adj
+      field: Qualities
+      gloss: "false"
+      source: {kind: inherited}
+      concept: "false"
     - {form: zenothos, class: adj, field: Qualities, gloss: "wise", source: {kind: inherited}}
     - form: holimos
       class: adj
@@ -2763,7 +2889,12 @@ data:
       gloss: "first"
       source: {kind: inherited}
       concept: first
-    - {form: orthemos, class: adj, field: Qualities, gloss: "last", source: {kind: inherited}}
+    - form: orthemos
+      class: adj
+      field: Qualities
+      gloss: last
+      source: {kind: inherited}
+      concept: last
     - form: iltheros
       class: adj
       field: Qualities
@@ -2773,9 +2904,9 @@ data:
     - form: kauros
       class: adj
       field: Qualities
-      gloss: "black; dark"
+      gloss: black; dark
       source: {kind: inherited}
-      concept: black
+      concept: [black, dark]
     - form: thaluros
       class: adj
       field: Qualities
@@ -2793,27 +2924,44 @@ data:
       field: Qualities
       gloss: "badly; the irregular adverb of korethos"
       source: {kind: inherited}
-    - {form: mazeron, class: adv, field: Qualities, gloss: "more", source: {kind: inherited}}
-    - {form: nizeron, class: adv, field: Qualities, gloss: "less", source: {kind: inherited}}
+    - form: mazeron
+      class: adv
+      field: Qualities
+      gloss: more
+      source: {kind: inherited}
+      concept: more
+    - form: nizeron
+      class: adv
+      field: Qualities
+      gloss: less
+      source: {kind: inherited}
+      concept: less
     - form: zikai
       class: adv
       field: Qualities
-      gloss: "perhaps; the irregular adverb of zikon, fate"
+      gloss: perhaps; the irregular adverb of zikon, fate
       source: {kind: coined}
-      built: ["zik-", "-ai"]
+      built: [zik-, -ai]
+      concept: perhaps
     - form: varlai
       class: adv
       field: Qualities
-      gloss: "truly; standing alone, Really?"
+      gloss: truly; standing alone, Really?
       source: {kind: coined}
-      built: ["varel-", "-ai"]
-    - {form: zelos, class: adj, field: Qualities, gloss: "low", source: {kind: coined}}
-    - {form: levros, class: adj, field: Qualities, gloss: "smooth", source: {kind: coined}}
+      built: [varel-, -ai]
+      concept: sincerity
+    - {form: zelos, class: adj, field: Qualities, gloss: low, source: {kind: coined}, concept: low}
+    - form: levros
+      class: adj
+      field: Qualities
+      gloss: smooth
+      source: {kind: coined}
+      concept: smooth
     - form: yarethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to be"
-      concept: be
+      field: Doing, going and being
+      gloss: to be
+      concept: [be, exist]
       source: {kind: inherited}
     - form: kerathen
       class: v
@@ -2847,9 +2995,10 @@ data:
       source: {kind: inherited, form: thawithen}
     - form: vakathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to show"
+      field: Doing, going and being
+      gloss: to show
       source: {kind: inherited, form: wakathen}
+      concept: reveal
     - form: daimathen
       class: v
       field: "Doing, going and being"
@@ -2864,9 +3013,10 @@ data:
       source: {kind: inherited}
     - form: lozethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to carry"
+      field: Doing, going and being
+      gloss: to carry
       source: {kind: inherited}
+      concept: carry
     - form: thalethen
       class: v
       field: "Doing, going and being"
@@ -2881,19 +3031,22 @@ data:
       source: {kind: inherited}
     - form: nembethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to fall"
+      field: Doing, going and being
+      gloss: to fall
       source: {kind: inherited}
+      concept: fall
     - form: urzithen
       class: v
-      field: "Doing, going and being"
-      gloss: "to rise"
+      field: Doing, going and being
+      gloss: to rise
       source: {kind: inherited}
+      concept: rise
     - form: gaurathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to build"
+      field: Doing, going and being
+      gloss: to build
       source: {kind: inherited, form: ghaurathen}
+      concept: build
     - form: thaurathen
       class: v
       field: "Doing, going and being"
@@ -2918,9 +3071,10 @@ data:
       source: {kind: inherited}
     - form: solkatora
       class: v
-      field: "Doing, going and being"
-      gloss: "to follow; to attend as a client attends"
+      field: Doing, going and being
+      gloss: to follow; to attend as a client attends
       source: {kind: inherited}
+      concept: follow
     - form: valmathen
       class: v
       field: "Doing, going and being"
@@ -2946,14 +3100,16 @@ data:
       source: {kind: coined}
     - form: klinethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to bend; to lean; to bow"
+      field: Doing, going and being
+      gloss: to bend; to lean; to bow
       source: {kind: coined}
+      concept: [bend, lean]
     - form: pethathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to ask"
+      field: Doing, going and being
+      gloss: to ask
       source: {kind: coined}
+      concept: ask
     - form: zundathen
       class: v
       field: "Doing, going and being"
@@ -2961,35 +3117,40 @@ data:
       source: {kind: coined}
     - form: linkathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to leave; to let be; to let go"
+      field: Doing, going and being
+      gloss: to leave; to let be; to let go
       source: {kind: coined}
+      concept: leave
     - form: kremethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to burn"
+      field: Doing, going and being
+      gloss: to burn
       source: {kind: coined}
+      concept: burn
     - form: sistathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to stop; to cease"
+      field: Doing, going and being
+      gloss: to stop; to cease
       source: {kind: coined}
+      concept: stop
     - form: avethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to want; to desire"
-      concept: want
+      field: Doing, going and being
+      gloss: to want; to desire
+      concept: [want, wish-verb]
       source: {kind: coined}
     - form: memrathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to remember"
+      field: Doing, going and being
+      gloss: to remember
       source: {kind: coined}
+      concept: remember
     - form: klamethen
       class: v
-      field: "Doing, going and being"
-      gloss: "to call out; to shout"
+      field: Doing, going and being
+      gloss: to call out; to shout
       source: {kind: coined}
+      concept: [call, shout]
     - form: anolmathen
       class: v
       field: "Doing, going and being"
@@ -2999,15 +3160,17 @@ data:
       built: ["an-", olmathen]
     - form: anmemrathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to forget"
+      field: Doing, going and being
+      gloss: to forget
       source: {kind: coined}
-      built: ["an-", memrathen]
+      built: [an-, memrathen]
+      concept: forget
     - form: dunathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to be able; can"
+      field: Doing, going and being
+      gloss: to be able; can
       source: {kind: coined}
+      concept: can
     - form: klamandon
       class: n n
       field: "Doing, going and being"
@@ -3046,9 +3209,10 @@ data:
       built: ["thes-", avethen]
     - form: orvathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to hope"
+      field: Doing, going and being
+      gloss: to hope
       source: {kind: coined}
+      concept: hope-verb
     - form: vethdokathen
       class: v
       field: "Doing, going and being"
@@ -3057,9 +3221,10 @@ data:
       built: ["veth-", dokathen]
     - form: varelathen
       class: v
-      field: "Doing, going and being"
-      gloss: "to trust; to believe"
+      field: Doing, going and being
+      gloss: to trust; to believe
       source: {kind: coined}
+      concept: believe
     - form: nethorathen
       class: v
       field: "Doing, going and being"
@@ -3145,18 +3310,21 @@ data:
     - form: en
       class: pron
       field: Numbers and grammar words
-      gloss: "I; said aloud, a raised voice"
+      gloss: I; said aloud, a raised voice
       source: {kind: inherited}
+      concept: i
     - form: ko
       class: pron
       field: Numbers and grammar words
-      gloss: "you, one person; emphatic"
+      gloss: you, one person; emphatic
       source: {kind: inherited}
+      concept: you-reference
     - form: enoi
       class: pron
       field: Numbers and grammar words
-      gloss: "we"
+      gloss: we
       source: {kind: inherited}
+      concept: we
     - form: koroi
       class: pron
       field: Numbers and grammar words
@@ -3165,13 +3333,15 @@ data:
     - form: vethis
       class: pron
       field: Numbers and grammar words
-      gloss: "oneself; the reflexive"
+      gloss: oneself; the reflexive
       source: {kind: inherited, form: wethis}
+      concept: self
     - form: denos
       class: pron
       field: Numbers and grammar words
-      gloss: "this, here by me"
+      gloss: this, here by me
       source: {kind: inherited}
+      concept: [he, this]
     - form: thesos
       class: pron
       field: Numbers and grammar words
@@ -3180,8 +3350,9 @@ data:
     - form: alathos
       class: pron
       field: Numbers and grammar words
-      gloss: "that, yonder; said of a person, grand"
+      gloss: that, yonder; said of a person, grand
       source: {kind: inherited}
+      concept: that
     - form: kedis
       class: pron
       field: Numbers and grammar words
@@ -3190,18 +3361,21 @@ data:
     - form: ul
       class: part
       field: Numbers and grammar words
-      gloss: "and"
+      gloss: and
       source: {kind: inherited}
+      concept: and
     - form: ar
       class: part
       field: Numbers and grammar words
-      gloss: "not"
+      gloss: not
       source: {kind: inherited}
+      concept: not
     - form: eza
       class: part
       field: Numbers and grammar words
-      gloss: "opens a question"
+      gloss: opens a question
       source: {kind: inherited}
+      concept: question-polar
     - form: areza
       class: part
       field: Numbers and grammar words
@@ -3230,23 +3404,27 @@ data:
     - form: holethi
       class: part
       field: Numbers and grammar words
-      gloss: "because"
+      gloss: because
       source: {kind: inherited}
+      concept: because
     - form: tha
       class: part
       field: Numbers and grammar words
-      gloss: "that, so that"
+      gloss: that, so that
       source: {kind: inherited}
+      concept: [then-conditional, for-purpose]
     - form: ir
       class: part
       field: Numbers and grammar words
-      gloss: "in, into"
+      gloss: in, into
       source: {kind: inherited}
+      concept: [inside, in]
     - form: us
       class: part
       field: Numbers and grammar words
-      gloss: "over; set over"
+      gloss: over; set over
       source: {kind: inherited}
+      concept: [above, over]
     - form: fa
       class: part
       field: Numbers and grammar words
@@ -3255,13 +3433,15 @@ data:
     - form: zel
       class: part
       field: Numbers and grammar words
-      gloss: "under, beneath"
+      gloss: under, beneath
       source: {kind: inherited, form: dhel}
+      concept: [below, under]
     - form: pra
       class: part
       field: Numbers and grammar words
-      gloss: "before; in front of"
+      gloss: before; in front of
       source: {kind: coined}
+      concept: before-spatial
     - form: kona
       class: part
       field: Numbers and grammar words
@@ -3270,28 +3450,33 @@ data:
     - form: fos
       class: part
       field: Numbers and grammar words
-      gloss: "out; outside; beyond"
+      gloss: out; outside; beyond
       source: {kind: coined}
+      concept: [outside, beyond]
     - form: kir
       class: part
       field: Numbers and grammar words
-      gloss: "around; round"
+      gloss: around; round
       source: {kind: coined}
+      concept: around
     - form: sa
       class: part
       field: Numbers and grammar words
-      gloss: "as; like; as when"
+      gloss: as; like; as when
       source: {kind: coined}
+      concept: [like, as]
     - form: kan
       class: part
       field: Numbers and grammar words
-      gloss: "when"
+      gloss: when
       source: {kind: coined}
+      concept: while
     - form: ves
       class: part
       field: Numbers and grammar words
-      gloss: "or"
+      gloss: or
       source: {kind: coined}
+      concept: or
     - form: ol
       class: part
       field: Numbers and grammar words
@@ -3302,12 +3487,14 @@ data:
       field: Numbers and grammar words
       gloss: "then; once; at that time: sets a narrated passage in the past"
       source: {kind: coined}
+      concept: [then, past]
     - form: lokanthi
       class: adv
       field: Numbers and grammar words
       gloss: "in days to come; hereafter: sets a prophecy or a promise in the future"
       source: {kind: coined}
-      built: ["lok-", "-anthi"]
+      built: [lok-, -anthi]
+      concept: future
     - form: karzoros
       class: adj
       field: Numbers and grammar words
@@ -3571,9 +3758,9 @@ data:
       built: ["zel-", kovra]
     - form: ombela
       class: n f
-      field: "Ancestors, the house and the name"
-      gloss: "a chair"
-      concept: chair
+      field: Ancestors, the house and the name
+      gloss: a chair
+      concept: [chair, seat]
       source: {kind: coined}
     - form: morvalis
       class: n f
@@ -3697,9 +3884,9 @@ data:
       source: {kind: coined}
     - form: ithros
       class: adj
-      field: "Numbers and grammar words"
-      gloss: "few"
-      concept: few
+      field: Numbers and grammar words
+      gloss: [few, little in quantity; few]
+      concept: [few, little-quantity]
       source: {kind: coined}
     - form: arurkis
       class: pron
@@ -3710,9 +3897,9 @@ data:
       built: [ar, urkis]
     - form: zolmos
       class: adj
-      field: "Numbers and grammar words"
-      gloss: "many"
-      concept: many
+      field: Numbers and grammar words
+      gloss: [many, much; many in the mass sense]
+      concept: [many, much]
       source: {kind: coined}
     - form: velmiros
       class: adj
@@ -3870,6 +4057,3949 @@ data:
       gloss: "a wall; a house wall or a garden wall"
       concept: wall
       source: {kind: coined}
+    - form: "silkathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to look; to direct the eyes at something"
+      source: {"kind": "coined"}
+      concept: "look"
+    - form: "silkarethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to watch; to observe attentively"
+      source: {"kind": "coined"}
+      concept: "watch"
+    - form: "okelos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "visible; able to be seen"
+      source: {"kind": "coined"}
+      concept: "visible"
+    - form: "anokelos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "invisible; unable to be seen"
+      source: {"kind": "coined"}
+      concept: "invisible"
+    - form: "thavrelathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to listen; to attend to sound"
+      source: {"kind": "coined"}
+      concept: "listen"
+    - form: "klamena"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "noise; a disturbing or indistinct sound"
+      source: {"kind": "coined"}
+      concept: "noise"
+    - form: "dokela"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "a voice; the sound made by a speaker"
+      source: {"kind": "coined"}
+      concept: "voice"
+    - form: "ar thavandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "silence; no sound Usage: ar, not, before the noun thavandon; verbless negation."
+      source: {"kind": "coined"}
+      note: "ar, not, before the noun thavandon; verbless negation."
+      concept: "silence"
+    - form: "klamos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "loud; of great sound volume"
+      source: {"kind": "coined"}
+      concept: "loud"
+    - form: "anklamos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "quiet; making little noise"
+      source: {"kind": "coined"}
+      concept: "quiet"
+    - form: "daya nelthis kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "fragrant; having a pleasant smell Usage: daya agrees with feminine nelthis, scent; kerandar, having, is the participle of kerathen."
+      source: {"kind": "coined"}
+      note: "daya agrees with feminine nelthis, scent; kerandar, having, is the participle of kerathen."
+      concept: "fragrant"
+    - form: "koretha nelthis kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "foul-smelling; having an unpleasant smell Usage: koretha, bad (feminine), with nelthis, scent, and kerandar, having."
+      source: {"kind": "coined"}
+      note: "koretha, bad (feminine), with nelthis, scent, and kerandar, having."
+      concept: "foul"
+    - form: "melzos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "sweet in taste"
+      source: {"kind": "coined"}
+      concept: "sweet"
+    - form: "tarzos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "sour; acidic in taste"
+      source: {"kind": "coined"}
+      concept: "sour"
+    - form: "grelos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "bitter in taste"
+      source: {"kind": "coined"}
+      concept: "bitter"
+    - form: "thremuzen"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "salty; tasting of salt"
+      source: {"kind": "coined"}
+      note: "Lexical material adjective beside thremuzis, salt; not an expansion of the place-and-people suffix rule."
+      concept: "salty"
+    - form: "zarvethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to feel a bodily sensation"
+      source: {"kind": "coined"}
+      note: "Related to unlike tolvathen, touch with the hand, it includes inner bodily sensations."
+      concept: "feel-verb"
+    - form: "zarvandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "a sensation; an instance of bodily feeling"
+      source: {"kind": "coined"}
+      concept: "sensation"
+    - form: "grathos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "rough to the touch"
+      source: {"kind": "coined"}
+      concept: "rough"
+    - form: "lomeros"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "soft to the touch"
+      source: {"kind": "coined"}
+      concept: "soft"
+    - form: "kornelos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "hard to the touch; firm"
+      source: {"kind": "coined"}
+      note: "Related to does not mean difficult."
+      concept: "hard-texture"
+    - form: "okzedathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to notice; to become aware of something"
+      source: {"kind": "coined"}
+      note: "Independent lexical coinage beside okethen, see, and kezdathen, know; not a productive sound-changing compound."
+      concept: "notice"
+    - form: "zarvokethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to perceive; to apprehend through the senses"
+      source: {"kind": "coined"}
+      concept: "perceive"
+    - form: "memrokethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to recognize; to identify as previously known"
+      source: {"kind": "coined"}
+      concept: "recognize"
+    - form: "okandon daimathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to seem; to give an appearance Usage: okandon, appearance, object of daimathen, give; the apparent quality can follow ol in the noun phrase."
+      source: {"kind": "coined"}
+      note: "okandon, appearance, object of daimathen, give; the apparent quality can follow ol in the noun phrase."
+      concept: "seem"
+    - form: "yaleza"
+      class: "n f"
+      field: "Qualities"
+      gloss: "joy; happiness"
+      source: {"kind": "coined"}
+      concept: ["joy", "happiness"]
+    - form: "zelvira"
+      class: "n f"
+      field: "Qualities"
+      gloss: "pleasure; enjoyment of an experience"
+      source: {"kind": "coined"}
+      note: "Related to distinct from bodily sensation and fulfilled desire."
+      concept: "pleasure"
+    - form: "avrethon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "contentment; peaceful satisfaction with what one has"
+      source: {"kind": "coined"}
+      note: "Related to avethen, want; distinct from desire fulfilled."
+      concept: "contentment"
+    - form: "memrandon ol orfenon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "gratitude; grateful remembrance of a kindness received Usage: memrandon, remembering, from memrathen and -andon, of orfenon, favor; lexical thankful use."
+      source: {"kind": "coined"}
+      note: "memrandon, remembering, from memrathen and -andon, of orfenon, favor; lexical thankful use."
+      concept: "gratitude"
+    - form: "velda ol zenothos"
+      class: "n f"
+      field: "Qualities"
+      gloss: "admiration; the feeling of esteem for someone excellent Usage: Lexical emotional expression: velda, honor, of zenothos, the wise (adjective used as noun); applies also to other admired excellence."
+      source: {"kind": "coined"}
+      note: "Lexical emotional expression: velda, honor, of zenothos, the wise (adjective used as noun); applies also to other admired excellence."
+      concept: "admiration"
+    - form: "tharvela"
+      class: "n f"
+      field: "Qualities"
+      gloss: "courage; readiness to act despite fear or danger"
+      source: {"kind": "coined"}
+      note: "Related to tharkos, strong; courage need not be fearless."
+      concept: "courage"
+    - form: "kremila"
+      class: "n f"
+      field: "Qualities"
+      gloss: "anger; a feeling of displeasure and hostility"
+      source: {"kind": "coined"}
+      concept: "anger"
+    - form: "zirnon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "hatred; enduring hostility toward someone or something"
+      source: {"kind": "coined"}
+      concept: "hatred"
+    - form: "nethorzela"
+      class: "n f"
+      field: "Qualities"
+      gloss: "jealousy; distress at a rival for an affection or bond"
+      source: {"kind": "coined"}
+      concept: "jealousy"
+    - form: "ternandon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "fear; apprehension of danger"
+      source: {"kind": "coined"}
+      concept: "fear"
+    - form: "ternandon solteron"
+      class: "n n"
+      field: "Qualities"
+      gloss: "terror; overwhelming fear Usage: ternandon, fear, with neuter solteron, large."
+      source: {"kind": "coined"}
+      note: "ternandon, fear, with neuter solteron, large."
+      concept: "terror"
+    - form: "zelmira"
+      class: "n f"
+      field: "Qualities"
+      gloss: "sadness; sorrow"
+      source: {"kind": "coined"}
+      concept: "sadness"
+    - form: "zelmira ol anhalvandon"
+      class: "n f"
+      field: "Qualities"
+      gloss: "grief; sorrow over a loss Usage: zelmira, sadness, of anhalvandon, losing, from anhalvethen and -andon."
+      source: {"kind": "coined"}
+      note: "zelmira, sadness, of anhalvandon, losing, from anhalvethen and -andon."
+      concept: "grief"
+    - form: "vethanvelda"
+      class: "n f"
+      field: "Qualities"
+      gloss: "shame; one's own sense of dishonor"
+      source: {"kind": "coined"}
+      concept: "shame"
+    - form: "vethzamolis"
+      class: "n f"
+      field: "Qualities"
+      gloss: "guilt; the feeling of having done wrong"
+      source: {"kind": "coined"}
+      note: "veth-, self, and zamolis, guilt in judgment; internal guilt, whether or not a court has judged."
+      concept: "guilt"
+    - form: "antambeza"
+      class: "n f"
+      field: "Qualities"
+      gloss: "regret; sorrow and a wish that something had been otherwise"
+      source: {"kind": "coined"}
+      note: "Related to an-, reverse, and tambathen, do; does not imply actual reversal."
+      concept: "regret"
+    - form: "vethnizela"
+      class: "n f"
+      field: "Qualities"
+      gloss: "humility; a modest view of oneself"
+      source: {"kind": "coined"}
+      note: "veth-, self, beside nizelos, small; lexical emotion noun."
+      concept: "humility"
+    - form: "varelon ol dunandon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "confidence; trust in one's ability Usage: varelon, trust, of dunandon, ability, from dunathen and -andon; no assertion of factual truth."
+      source: {"kind": "coined"}
+      note: "varelon, trust, of dunandon, ability, from dunathen and -andon; no assertion of factual truth."
+      concept: "confidence"
+    - form: "vethanvelda nizela"
+      class: "n f"
+      field: "Qualities"
+      gloss: "embarrassment; a small, passing feeling of shame Usage: vethanvelda, shame, with feminine nizela, small."
+      source: {"kind": "coined"}
+      note: "vethanvelda, shame, with feminine nizela, small."
+      concept: "embarrassment"
+    - form: "lusnethora"
+      class: "n f"
+      field: "Qualities"
+      gloss: "compassion; concern for suffering with a wish to relieve it"
+      source: {"kind": "coined"}
+      note: "lus-, protect, beside nethora, heart; lexical emotion noun."
+      concept: "compassion"
+    - form: "zelmira fa alathos"
+      class: "n f"
+      field: "Qualities"
+      gloss: "pity; sorrow for another person's distress Usage: zelmira, sorrow; fa, for; alathos, another person referred to as he; substitute alatha or a name as appropriate."
+      source: {"kind": "coined"}
+      note: "zelmira, sorrow; fa, for; alathos, another person referred to as he; substitute alatha or a name as appropriate."
+      concept: "pity"
+    - form: "zelmira kona alathos"
+      class: "n f"
+      field: "Qualities"
+      gloss: "sympathy; sorrow shared with another Usage: zelmira, sorrow, with kona alathos, with him; substitute alatha, her, or a name as appropriate."
+      source: {"kind": "coined"}
+      note: "zelmira, sorrow, with kona alathos, with him; substitute alatha, her, or a name as appropriate."
+      concept: "sympathy"
+    - form: "memrandon ol anvelda"
+      class: "n n"
+      field: "Qualities"
+      gloss: "resentment; bitter feeling over remembered dishonor or ill treatment Usage: Lexical emotional expression: memrandon, remembering, of anvelda, dishonor."
+      source: {"kind": "coined"}
+      note: "Lexical emotional expression: memrandon, remembering, of anvelda, dishonor."
+      concept: "resentment"
+    - form: "anzirotheza"
+      class: "n f"
+      field: "Qualities"
+      gloss: "contempt; a feeling that someone or something is beneath regard"
+      source: {"kind": "coined"}
+      note: "an-, reverse, beside zirothos, rank; lexical emotion noun."
+      concept: "contempt"
+    - form: "anorfenandon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "forgiveness; release from a wrong or debt"
+      source: {"kind": "coined"}
+      concept: "forgiveness"
+    - form: "avandon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "desire; a wish or want"
+      source: {"kind": "coined"}
+      concept: "desire"
+    - form: "avandon teremon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "longing; sustained desire for someone or something absent Usage: avandon, desire, with neuter teremon, long; absence is specified by context."
+      source: {"kind": "coined"}
+      note: "avandon, desire, with neuter teremon, long; absence is specified by context."
+      concept: "longing"
+    - form: "avandon tambthon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "satisfaction; a desire fulfilled Usage: avandon, desire, with neuter tambthon, made or accomplished, the neuter -thos participle of tambathen (tamb- plus -thon)."
+      source: {"kind": "coined"}
+      note: "avandon, desire, with neuter tambthon, made or accomplished, the neuter -thos participle of tambathen (tamb- plus -thon)."
+      concept: "satisfaction"
+    - form: "avandon ar tambthon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "frustration; distress at a desire left unfulfilled or blocked Usage: Lexical emotional expression: avandon, desire, with negated tambthon, fulfilled; names the feeling, not merely its cause."
+      source: {"kind": "coined"}
+      note: "Lexical emotional expression: avandon, desire, with negated tambthon, fulfilled; names the feeling, not merely its cause."
+      concept: "frustration"
+    - form: "avandon ol kezdandon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "curiosity; a desire for knowledge Usage: avandon, desire, of kezdandon, knowledge; a feeling of wanting to know, not knowledge already obtained."
+      source: {"kind": "coined"}
+      note: "avandon, desire, of kezdandon, knowledge; a feeling of wanting to know, not knowledge already obtained."
+      concept: "curiosity"
+    - form: "anlambiza"
+      class: "n f"
+      field: "Qualities"
+      gloss: "confusion; inability to make sense of what is encountered"
+      source: {"kind": "coined"}
+      note: "Related to lambizon, word, and an-, reversal; lexical sense, not a new derivation rule."
+      concept: "confusion"
+    - form: "tavemvarelon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "doubt; divided belief"
+      source: {"kind": "coined"}
+      note: "tavem-, two, and varelon, belief; a lexical compound, not a count of two beliefs."
+      concept: "doubt"
+    - form: "zetimon varelon"
+      class: "n n"
+      field: "Qualities"
+      gloss: "certainty; complete conviction that something is so Usage: zetimon, whole (neuter), and varelon, belief; conviction can be mistaken and is distinct from varelza, truth."
+      source: {"kind": "coined"}
+      note: "zetimon, whole (neuter), and varelon, belief; conviction can be mistaken and is distinct from varelza, truth."
+      concept: "certainty"
+    - form: "okretha"
+      class: "n f"
+      field: "Qualities"
+      gloss: "surprise; the feeling caused by an unexpected occurrence"
+      source: {"kind": "coined"}
+      note: "Related to okethen, see; not the occurrence itself."
+      concept: "surprise"
+    - form: "avzelma"
+      class: "n f"
+      field: "Qualities"
+      gloss: "boredom; weariness from lack of interest or stimulation"
+      source: {"kind": "coined"}
+      note: "Related to avethen, want; distinct from peaceful contentment."
+      concept: "boredom"
+    - form: "lokorva"
+      class: "n f"
+      field: "Qualities"
+      gloss: "anticipation; expectation of something yet to happen"
+      source: {"kind": "coined"}
+      concept: "anticipation"
+    - form: "velda fa ulthas"
+      class: "n f"
+      field: "Qualities"
+      gloss: "reverence; honor offered to the hallowed Usage: velda, honor, for ulthas, the hallowed; may address a god or something held sacred."
+      source: {"kind": "coined"}
+      note: "velda, honor, for ulthas, the hallowed; may address a god or something held sacred."
+      concept: "reverence"
+    - form: "ternandon ul velda"
+      class: "n n"
+      field: "Qualities"
+      gloss: "awe; fear mingled with reverent honor Usage: Coordinated nouns ternandon, fear, and velda, honor."
+      source: {"kind": "coined"}
+      note: "Coordinated nouns ternandon, fear, and velda, honor."
+      concept: "awe"
+    - form: "nethila"
+      class: "n f"
+      field: "Ancestors, the house and the name"
+      gloss: "affection; fondness or tender regard"
+      source: {"kind": "coined"}
+      note: "Related to nethoron, romantic love; not restricted to romance."
+      concept: "affection"
+    - form: "avandon ol konandon"
+      class: "n n"
+      field: "Ancestors, the house and the name"
+      gloss: "attraction; a desire to draw close to another Usage: avandon, desire, of konandon, association or being together."
+      source: {"kind": "coined"}
+      note: "avandon, desire, of konandon, association or being together."
+      concept: "attraction"
+    - form: "konandon ol nethora"
+      class: "n n"
+      field: "Ancestors, the house and the name"
+      gloss: "intimacy; closeness of hearts Usage: konandon, association, of nethora, heart; emotional closeness, not necessarily sexual activity."
+      source: {"kind": "coined"}
+      note: "konandon, association, of nethora, heart; emotional closeness, not necessarily sexual activity."
+      concept: "intimacy"
+    - form: "zetimon yerpalon"
+      class: "n n"
+      field: "Ancestors, the house and the name"
+      gloss: "devotion; wholehearted commitment Usage: zetimon, whole, with yerpalon, duty; wholehearted dedication, with its object named after fa."
+      source: {"kind": "coined"}
+      note: "zetimon, whole, with yerpalon, duty; wholehearted dedication, with its object named after fa."
+      concept: "devotion"
+    - form: "thaurandon ol zaron"
+      class: "n n"
+      field: "Ancestors, the house and the name"
+      gloss: "loyalty; faithful keeping of a bond Usage: thaurandon, keeping, from thaurathen and -andon, of zaron, oath; lexical use includes an understood bond without a formal oath."
+      source: {"kind": "coined"}
+      note: "thaurandon, keeping, from thaurathen and -andon, of zaron, oath; lexical use includes an understood bond without a formal oath."
+      concept: "loyalty"
+    - form: "konandon ol holvethos"
+      class: "n n"
+      field: "Ancestors, the house and the name"
+      gloss: "companionship; the company of a companion Usage: konandon, association, from konathen and -andon, of holvethos, companion."
+      source: {"kind": "coined"}
+      note: "konandon, association, from konathen and -andon, of holvethos, companion."
+      concept: "companionship"
+    - form: "zirnon kona alathos"
+      class: "n n"
+      field: "Ancestors, the house and the name"
+      gloss: "enmity; hostility between oneself and another Usage: zirnon, hatred or hostility, with kona alathos, with another; adjust the pointing word to the person."
+      source: {"kind": "coined"}
+      note: "zirnon, hatred or hostility, with kona alathos, with another; adjust the pointing word to the person."
+      concept: "enmity"
+    - form: "larmisa"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the tongue; the organ in the mouth"
+      source: {"kind": "coined"}
+      concept: "tongue"
+    - form: "pratholzon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the forehead; the front of the head above the eyes"
+      source: {"kind": "coined"}
+      note: "Related to pra, before, and tholkezos, head."
+      concept: "forehead"
+    - form: "zekrimkolvemos"
+      class: "n m"
+      field: "The body, life and death"
+      gloss: "the jaw; the tooth-bearing bone"
+      source: {"kind": "coined"}
+      note: "zekrim-, tooth, before kolvemos, bone; modifier-first compound."
+      concept: "jaw"
+    - form: "kozelon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the chin; the lower front of the face"
+      source: {"kind": "coined"}
+      concept: "chin"
+    - form: "yenthama"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "a cheek; either side of the face"
+      source: {"kind": "coined"}
+      concept: "cheek"
+    - form: "kozmaron"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the throat; the passage behind the mouth"
+      source: {"kind": "coined"}
+      concept: "throat"
+    - form: "pazalon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the stomach; the organ that receives food"
+      source: {"kind": "coined"}
+      note: "paz-, food, and -alon, the whole or body; lexical anatomical compound."
+      concept: "stomach"
+    - form: "bulmerziron"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the waist; the body's middle above the hips"
+      source: {"kind": "coined"}
+      concept: "waist"
+    - form: "telkemkolvemos"
+      class: "n m"
+      field: "The body, life and death"
+      gloss: "the spine; the backbone"
+      source: {"kind": "coined"}
+      note: "telkem-, back, before kolvemos, bone."
+      concept: "spine"
+    - form: "ombelma"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "a buttock"
+      source: {"kind": "coined"}
+      concept: "buttock"
+    - form: "dekazklinon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the wrist; the joint of the hand"
+      source: {"kind": "coined"}
+      note: "dekaz-, hand, before klinon, joint."
+      concept: "wrist"
+    - form: "dekira"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the palm; the inner surface of the hand"
+      source: {"kind": "coined"}
+      concept: "palm"
+    - form: "dekis soltera"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the thumb; the broad finger Usage: dekis, finger, with feminine soltera, large; the thumb is the substantial opposing digit."
+      source: {"kind": "coined"}
+      note: "dekis, finger, with feminine soltera, large; the thumb is the substantial opposing digit."
+      concept: "thumb"
+    - form: "thalmon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the thigh; the upper segment of the leg"
+      source: {"kind": "coined"}
+      concept: "thigh"
+    - form: "valmklinon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the ankle; the joint of the foot"
+      source: {"kind": "coined"}
+      note: "valm-, foot, before klinon, joint."
+      concept: "ankle"
+    - form: "valmaron"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the heel; the back of the foot"
+      source: {"kind": "coined"}
+      concept: "heel"
+    - form: "valmera"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the sole; the underside of the foot"
+      source: {"kind": "coined"}
+      concept: "sole"
+    - form: "kirsela ol valma"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "a toenail Usage: kirsela, a fingernail or toenail, of valma, foot; the broader noun is retained."
+      source: {"kind": "coined"}
+      note: "kirsela, a fingernail or toenail, of valma, foot; the broader noun is retained."
+      concept: "toenail"
+    - form: "thalmeza"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "a muscle; flesh that contracts to move the body"
+      source: {"kind": "coined"}
+      concept: "muscle"
+    - form: "zulmera"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "fat; the body's stored fatty tissue"
+      source: {"kind": "coined"}
+      concept: "fat"
+    - form: "zarvela"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "sweat; moisture exuded by the skin"
+      source: {"kind": "coined"}
+      note: "Related to not rain or generic water."
+      concept: "sweat"
+    - form: "silkulmerai"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "tears; water shed by the eyes"
+      source: {"kind": "coined"}
+      note: "silk-, eye, before ulmera, water, with ordinary plural -ai."
+      concept: "tears"
+    - form: "kozulmera"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "saliva; moisture in the mouth"
+      source: {"kind": "coined"}
+      note: "koz-, mouth, before ulmera, water."
+      concept: "saliva"
+    - form: "tholkelon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the brain; the organ within the head"
+      source: {"kind": "coined"}
+      concept: "brain"
+    - form: "zirvalon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "a lung; a breathing organ"
+      source: {"kind": "coined"}
+      note: "zirv-, breathe, and -alon, body or whole; anatomical lexical compound."
+      concept: "lung"
+    - form: "bruzalon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the liver"
+      source: {"kind": "coined"}
+      concept: "liver"
+    - form: "zilvalon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "a kidney; an organ that produces urine"
+      source: {"kind": "coined"}
+      note: "zilv-, urinate, and -alon, body or whole; anatomical lexical compound."
+      concept: "kidney"
+    - form: "pazpozera"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the intestine; the digestive passage after the stomach"
+      source: {"kind": "coined"}
+      note: "paz-, food, before pozera, road; lexical anatomical compound."
+      concept: "intestine"
+    - form: "nurthalar"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the genitals; the reproductive organs collectively"
+      source: {"kind": "coined"}
+      note: "Related to nurizon, child; the form is already plural and not separately inflected."
+      concept: "genitals"
+    - form: "nurkovra"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the womb; the organ in which a child develops"
+      source: {"kind": "coined"}
+      note: "nur-, child, before kovra, roof; lexical anatomical compound."
+      concept: "womb"
+    - form: "nurtalon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "the penis"
+      source: {"kind": "coined"}
+      concept: "penis"
+    - form: "nurfenza"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "the vagina; the birth passage"
+      source: {"kind": "coined"}
+      note: "nur-, child, before fenza, door; lexical anatomical compound."
+      concept: "vagina"
+    - form: "nurkelon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "a testicle"
+      source: {"kind": "coined"}
+      concept: "testicle"
+    - form: "klinon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a joint; a place where two parts bend together"
+      source: {"kind": "coined"}
+    - form: "pazavandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "hunger; bodily need for food"
+      source: {"kind": "coined"}
+      concept: "hunger"
+    - form: "paza avandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "hungry; wanting food Usage: paza, food, object of avandar, wanting (avethen with -andar)."
+      source: {"kind": "coined"}
+      note: "paza, food, object of avandar, wanting (avethen with -andar)."
+      concept: "hungry"
+    - form: "vimavandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "thirst; bodily need for drink"
+      source: {"kind": "coined"}
+      concept: "thirst"
+    - form: "vima avandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "thirsty; wanting a drink Usage: vima, drink, object of avandar, wanting."
+      source: {"kind": "coined"}
+      note: "vima, drink, object of avandar, wanting."
+      concept: "thirsty"
+    - form: "ir zirvathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to inhale; to breathe in Usage: ir, inward, before zirvathen, breathe."
+      source: {"kind": "coined"}
+      note: "ir, inward, before zirvathen, breathe."
+      concept: "inhale"
+    - form: "fos zirvathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to exhale; to breathe out Usage: fos, out, before zirvathen, breathe."
+      source: {"kind": "coined"}
+      note: "fos, out, before zirvathen, breathe."
+      concept: "exhale"
+    - form: "zirvathen ar dunathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to suffocate; to be unable to breathe Usage: zirvathen, breathe, followed by ar dunathen, not be able; the existing ability construction."
+      source: {"kind": "coined"}
+      note: "zirvathen, breathe, followed by ar dunathen, not be able; the existing ability construction."
+      concept: "suffocate"
+    - form: "anlothathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to wake; to cease sleeping"
+      source: {"kind": "coined"}
+      concept: "wake"
+    - form: "anlothandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "awake; no longer asleep"
+      source: {"kind": "coined"}
+      note: "Present participle of anlothathen, wake."
+      concept: "awake"
+    - form: "lothokandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "a dream; an experience in sleep"
+      source: {"kind": "coined"}
+      note: "loth-, sleep, before okandon, a sight or appearance."
+      concept: "dream"
+    - form: "thumera"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "rest; a pause for bodily recovery"
+      source: {"kind": "coined"}
+      concept: "rest"
+    - form: "thumera avandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "tired; in need of rest Usage: thumera, rest, object of avandar, wanting."
+      source: {"kind": "coined"}
+      note: "thumera, rest, object of avandar, wanting."
+      concept: "tired"
+    - form: "zarvelathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to sweat; to exude perspiration"
+      source: {"kind": "coined"}
+      concept: "sweat-verb"
+    - form: "karveza"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "heat; high temperature"
+      source: {"kind": "coined"}
+      concept: "heat"
+    - form: "nelveza"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "cold; low temperature"
+      source: {"kind": "coined"}
+      concept: "cold-noun"
+    - form: "karvos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "hot; having a high temperature"
+      source: {"kind": "coined"}
+      concept: "hot"
+    - form: "auvos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "warm; having a pleasant or moderate heat"
+      source: {"kind": "coined"}
+      concept: "warm"
+    - form: "nizelai nelvos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "cool; mildly cold Usage: nizelai, slightly, the regular -ai adverb of nizelos, small, before nelvos, cold; adjust nelvos to agree with its noun."
+      source: {"kind": "coined"}
+      note: "nizelai, slightly, the regular -ai adverb of nizelos, small, before nelvos, cold; adjust nelvos to agree with its noun."
+      concept: "cool"
+    - form: "nelvathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to freeze; to become frozen or turn to ice"
+      source: {"kind": "coined"}
+      concept: "freeze"
+    - form: "lusandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "safety; protection from harm"
+      source: {"kind": "coined"}
+      concept: ["safety", "protection"]
+    - form: "rithavon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "danger; a risk of harm"
+      source: {"kind": "coined"}
+      concept: "danger"
+    - form: "nurzandon"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "sex; sexual intercourse"
+      source: {"kind": "coined"}
+      note: "Related to distinct from romantic love and lust."
+      concept: "sex"
+    - form: "nurizon holimathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to conceive; to begin a child in the womb Usage: nurizon, child, object of holimathen, begin; reproductive sense."
+      source: {"kind": "coined"}
+      note: "nurizon, child, object of holimathen, begin; reproductive sense."
+      concept: "conceive"
+    - form: "kerandon ol nurizon ir nurkovra"
+      class: "n n"
+      field: "The body, life and death"
+      gloss: "pregnancy; the carrying of a child in the womb Usage: kerandon, having or holding, of nurizon, child, with ir nurkovra, in the womb; distinguishes pregnancy from caring for a born child."
+      source: {"kind": "coined"}
+      note: "kerandon, having or holding, of nurizon, child, with ir nurkovra, in the womb; distinguishes pregnancy from caring for a born child."
+      concept: "pregnancy"
+    - form: "nurizon ir nurkovra kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "pregnant; carrying a child in the womb Usage: nurizon, child, as object, with ir nurkovra, in the womb, before kerandar, having; distinguishes pregnancy from holding a born child in the arms."
+      source: {"kind": "coined"}
+      note: "nurizon, child, as object, with ir nurkovra, in the womb, before kerandar, having; distinguishes pregnancy from holding a born child in the arms."
+      concept: "pregnant"
+    - form: "nureza"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "birth; the coming of a child from the womb"
+      source: {"kind": "coined"}
+      concept: "birth"
+    - form: "nurezathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to give birth"
+      source: {"kind": "coined"}
+      concept: "give-birth"
+    - form: "sulmenathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to nurse a child; to feed a child at the breast"
+      source: {"kind": "coined"}
+      concept: "nurse"
+    - form: "nurethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to grow; to increase in size or maturity"
+      source: {"kind": "coined"}
+      concept: "grow"
+    - form: "ankelathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to age; to grow older"
+      source: {"kind": "coined"}
+      concept: "age-verb"
+    - form: "kolvazos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "dead; no longer alive"
+      source: {"kind": "coined"}
+      concept: "dead"
+    - form: "ar kelmeza kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "healthy; free of sickness Usage: ar kelmeza, no sickness, with kerandar, having."
+      source: {"kind": "coined"}
+      note: "ar kelmeza, no sickness, with kerandar, having."
+      concept: "healthy"
+    - form: "kelmeza kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "sick; having an illness Usage: kelmeza, sickness, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "kelmeza, sickness, object of kerandar, having."
+      concept: "sick"
+    - form: "rithezon kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "injured; wounded Usage: rithezon, wound, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "rithezon, wound, object of kerandar, having."
+      concept: "injured"
+    - form: "antharkos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "weak; lacking strength"
+      source: {"kind": "coined"}
+      concept: "weak"
+    - form: "zetimai thumera avandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "exhausted; wholly in need of rest Usage: zetimai, wholly, regular adverb of zetimos, whole, with thumera avandar, needing rest."
+      source: {"kind": "coined"}
+      note: "zetimai, wholly, regular adverb of zetimos, whole, with thumera avandar, needing rest."
+      concept: "exhausted"
+    - form: "pazelos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "sated; satisfied after eating or drinking enough"
+      source: {"kind": "coined"}
+      note: "Related to paza, food; not a past participle meaning eaten."
+      concept: "sated"
+    - form: "nelvos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "cold; having a low temperature"
+      source: {"kind": "coined"}
+      concept: "cold"
+    - form: "kelmeza ol karveza kerandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "feverish; having an illness marked by heat Usage: kelmeza, illness, of karveza, heat; object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "kelmeza, illness, of karveza, heat; object of kerandar, having."
+      concept: "feverish"
+    - form: "rithena"
+      class: "n f"
+      field: "The body, life and death"
+      gloss: "pain; bodily suffering"
+      source: {"kind": "coined"}
+      concept: "pain"
+    - form: "rithenathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to hurt someone; to cause pain or injury"
+      source: {"kind": "coined"}
+      concept: "hurt-verb"
+    - form: "rithena zarvethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to ache; to hurt; to experience bodily pain Usage: rithena, pain, object of zarvethen, feel; the sufferer is subject, unlike rithenathen, injure."
+      source: {"kind": "coined"}
+      note: "rithena, pain, object of zarvethen, feel; the sufferer is subject, unlike rithenathen, injure."
+      concept: ["ache", "hurt-pain"]
+    - form: "rithena kerathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to suffer; to be in pain or distress Usage: rithena, pain, object of kerathen, have; may be qualified for bodily or emotional distress."
+      source: {"kind": "coined"}
+      note: "rithena, pain, object of kerathen, have; may be qualified for bodily or emotional distress."
+      concept: "suffer"
+    - form: "bruzamis linkathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to bleed; to lose blood Usage: bruzamis, blood, object of linkathen, let go."
+      source: {"kind": "coined"}
+      note: "bruzamis, blood, object of linkathen, let go."
+      concept: "bleed"
+    - form: "anrithezathen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to heal a wound or injury"
+      source: {"kind": "coined"}
+      note: "Lexical healing verb beside rithezon, wound, and an-, reversal."
+      concept: "heal"
+    - form: "ankelmethen"
+      class: "v"
+      field: "The body, life and death"
+      gloss: "to recover; to become well again after sickness"
+      source: {"kind": "coined"}
+      note: "Related to kelmeza, sickness; not an extra tense form."
+      concept: "recover"
+    - form: "okethen ar dunandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "blind; having a bodily incapacity to see Usage: okethen, see, with ar dunandar, not able, participle of dunathen; lexical bodily impairment phrase, not merely failing to see in darkness or through an obstacle."
+      source: {"kind": "coined"}
+      note: "okethen, see, with ar dunandar, not able, participle of dunathen; lexical bodily impairment phrase, not merely failing to see in darkness or through an obstacle."
+      concept: "blind"
+    - form: "thavithen ar dunandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "deaf; having a bodily incapacity to hear Usage: thavithen, hear, with ar dunandar, not able; lexical bodily impairment phrase, not merely an inaudible sound."
+      source: {"kind": "coined"}
+      note: "thavithen, hear, with ar dunandar, not able; lexical bodily impairment phrase, not merely an inaudible sound."
+      concept: "deaf"
+    - form: "valmathen ar dunandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "lame; physically impaired in walking Usage: valmathen, walk, with ar dunandar, not able; lexical bodily impairment phrase, including difficulty rather than only complete inability to walk."
+      source: {"kind": "coined"}
+      note: "valmathen, walk, with ar dunandar, not able; lexical bodily impairment phrase, including difficulty rather than only complete inability to walk."
+      concept: "lame"
+    - form: "thernandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "alive; living"
+      source: {"kind": "coined"}
+      note: "Present participle of thernathen, live."
+      concept: "alive"
+    - form: "zarvandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "conscious; sensing one's surroundings"
+      source: {"kind": "coined"}
+      note: "Present participle of zarvethen, sense; lexical conscious use."
+      concept: "conscious"
+    - form: "ar zarvandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "unconscious; not sensing one's surroundings Usage: ar, not, before zarvandar, conscious."
+      source: {"kind": "coined"}
+      note: "ar, not, before zarvandar, conscious."
+      concept: "unconscious"
+    - form: "nurizos"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "young; not yet mature"
+      source: {"kind": "coined"}
+      concept: "young"
+    - form: "ankelandar"
+      class: "adj"
+      field: "The body, life and death"
+      gloss: "aging; growing older"
+      source: {"kind": "coined"}
+      note: "Present participle of ankelathen, age."
+      concept: "aging"
+    - form: "holilmaros"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a grandparent"
+      source: {"kind": "coined"}
+      concept: "grandparent"
+    - form: "nurethos ol semrothos"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a nephew; a brother's son Usage: nurethos, son, of semrothos, brother; substitute semrotha for a sister's son."
+      source: {"kind": "coined"}
+      note: "nurethos, son, of semrothos, brother; substitute semrotha for a sister's son."
+      concept: "nephew"
+    - form: "nuretha ol semrothos"
+      class: "n f"
+      field: "Ancestors, the house and the name"
+      gloss: "a niece; a brother's daughter Usage: nuretha, daughter, of semrothos, brother; substitute semrotha for a sister's daughter."
+      source: {"kind": "coined"}
+      note: "nuretha, daughter, of semrothos, brother; substitute semrotha for a sister's daughter."
+      concept: "niece"
+    - form: "kambethos ves kambetha"
+      class: "n"
+      field: "Ancestors, the house and the name"
+      gloss: "a spouse; a husband or wife Usage: Coordinated nouns with ves, or; either sex is included without calling a free adult neuter."
+      source: {"kind": "coined"}
+      note: "Coordinated nouns with ves, or; either sex is included without calling a free adult neuter."
+      concept: "spouse"
+    - form: "kambezathen"
+      class: "v"
+      field: "Ancestors, the house and the name"
+      gloss: "to marry; to enter into marriage"
+      source: {"kind": "coined"}
+      concept: "marry"
+    - form: "sorethis ol zorka"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a family; the kin of a household Usage: sorethis, kin, of zorka, household; excludes unrelated servants from the kin sense."
+      source: {"kind": "coined"}
+      note: "sorethis, kin, of zorka, household; excludes unrelated servants from the kin sense."
+      concept: "family"
+    - form: "elzkambethos"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a widower"
+      source: {"kind": "coined"}
+      concept: "widower"
+    - form: "holvethos ol holvethon"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a friend; a companion in affection Usage: holvethos, companion, qualified by holvethon, friendship; distinguishes friendship from official companionship."
+      source: {"kind": "coined"}
+      note: "holvethos, companion, qualified by holvethon, friendship; distinguishes friendship from official companionship."
+      concept: "friend"
+    - form: "zirnos"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "an enemy; a person hostile to oneself"
+      source: {"kind": "coined"}
+      concept: "enemy"
+    - form: "ankezdos"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a stranger; someone not known to oneself"
+      source: {"kind": "coined"}
+      concept: "stranger"
+    - form: "dumvos"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a neighbor; someone who lives nearby"
+      source: {"kind": "coined"}
+      concept: "neighbor"
+    - form: "solkandar"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a follower; one who follows"
+      source: {"kind": "coined"}
+      note: "Present participle of solkatora, follow, used as a noun; does not require client status."
+      concept: "follower"
+    - form: "karezandar"
+      class: "n m"
+      field: "Ancestors, the house and the name"
+      gloss: "a servant; one who attends to another's affairs"
+      source: {"kind": "coined"}
+      note: "Present participle of karezathen, see to or manage, used as a noun; service need not imply slavery."
+      concept: "servant"
+    - form: "dumela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a room; an enclosed part of a house"
+      source: {"kind": "coined"}
+      concept: "room"
+    - form: "kovra ol dumela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a ceiling; the overhead surface of a room Usage: kovra, roof, of dumela, room; distinguishes the interior ceiling from the outer roof."
+      source: {"kind": "coined"}
+      note: "kovra, roof, of dumela, room; distinguishes the interior ceiling from the outer roof."
+      concept: "ceiling"
+    - form: "tolkemon ol kerandon"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "a jar; a pot for holding or storing things Usage: tolkemon, pot, of kerandon, holding or having; a storage vessel rather than a cooking pot."
+      source: {"kind": "coined"}
+      note: "tolkemon, pot, of kerandon, holding or having; a storage vessel rather than a cooking pot."
+      concept: "jar"
+    - form: "kolzolkemon"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "a bottle; a vessel with a neck"
+      source: {"kind": "coined"}
+      note: "Independent lexical coinage beside kolzeros, neck, and tolkemon, pot; not a contraction rule."
+      concept: "bottle"
+    - form: "zundolkis"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a basket; a woven container for carrying"
+      source: {"kind": "coined"}
+      concept: "basket"
+    - form: "loztholbon"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "a bag; a carrying container made from cloth"
+      source: {"kind": "coined"}
+      note: "loz-, carry, before tholbon, cloth; lexical carrying-cloth compound."
+      concept: "bag"
+    - form: "funela soltera"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a rope; a thick cord Usage: funela, cord, with feminine soltera, large."
+      source: {"kind": "coined"}
+      note: "funela, cord, with feminine soltera, large."
+      concept: "rope"
+    - form: "tholkis"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a needle; a pointed tool for sewing"
+      source: {"kind": "coined"}
+      concept: "needle"
+    - form: "karvila"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a flame; the visible tongue of a fire"
+      source: {"kind": "coined"}
+      concept: "flame"
+    - form: "karvuma"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "smoke; airborne products of burning"
+      source: {"kind": "coined"}
+      concept: "smoke"
+    - form: "karlon"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "coal; black mineral fuel or charcoal"
+      source: {"kind": "coined"}
+      concept: "coal"
+    - form: "karvothos"
+      class: "n m"
+      field: "The city: stone, water and the street"
+      gloss: "a torch; a burning stick carried for light"
+      source: {"kind": "coined"}
+      concept: "torch"
+    - form: "karvizon"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "a candle; a wick set in wax or tallow"
+      source: {"kind": "coined"}
+      concept: "candle"
+    - form: "vemra"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a garment; an article of clothing"
+      source: {"kind": "coined"}
+      note: "Singular corresponding to the existing plural vemrai, clothes."
+      concept: "garment"
+    - form: "tholvela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a shirt; a garment for the torso"
+      source: {"kind": "coined"}
+      concept: "shirt"
+    - form: "zalpfunela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a belt; a fastening worn around the waist or hips"
+      source: {"kind": "coined"}
+      note: "zalp-, hip, before funela, cord; lexical clothing compound."
+      concept: "belt"
+    - form: "valmkovra"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a shoe; a covering for the foot"
+      source: {"kind": "coined"}
+      note: "valm-, foot, before kovra, roof; lexical footwear compound."
+      concept: "shoe"
+    - form: "valmkovra terema"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a boot; a long shoe extending up the leg Usage: valmkovra, shoe, with feminine terema, long."
+      source: {"kind": "coined"}
+      note: "valmkovra, shoe, with feminine terema, long."
+      concept: "boot"
+    - form: "tigzundela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "a barrier; something that prevents passage"
+      source: {"kind": "coined"}
+      note: "tig-, go, before zundela, lock; lexical obstruction compound."
+      concept: "barrier"
+    - form: "kaldera"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "wood; the material of trees"
+      source: {"kind": "coined"}
+      concept: "wood"
+    - form: "talon"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "stone; a rock; a piece of stone"
+      source: {"kind": "coined"}
+      note: "New ordinary material noun beside talothos, standing stone; not restricted to worked boundary stones."
+      concept: ["stone", "rock"]
+    - form: "zarela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "metal; any metallic material"
+      source: {"kind": "coined"}
+      note: "Related to zargon, iron; not limited to iron."
+      concept: "metal"
+    - form: "paltheza"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "clay; earth that can be shaped and fired"
+      source: {"kind": "coined"}
+      concept: "clay"
+    - form: "lethrethos"
+      class: "n n"
+      field: "The city: stone, water and the street"
+      gloss: "leather; hide cured for use"
+      source: {"kind": "coined"}
+      note: "Related to lethrima, skin or hide; not simply a stored skin."
+      concept: "leather"
+    - form: "kedrela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "wool; the fleece of a sheep"
+      source: {"kind": "coined"}
+      concept: "wool"
+    - form: "funela nizela"
+      class: "n f"
+      field: "The city: stone, water and the street"
+      gloss: "thread; a fine cord for sewing Usage: funela, cord, with feminine nizela, small."
+      source: {"kind": "coined"}
+      note: "funela, cord, with feminine nizela, small."
+      concept: "thread"
+    - form: "yoreza"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "earth; soil; the ground's loose surface material"
+      source: {"kind": "coined"}
+      concept: ["earth", "soil"]
+    - form: "yoreza ol salkon"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "sand; the loose grains of a shore Usage: yoreza, soil, of salkon, shore; also used for sand away from a shore."
+      source: {"kind": "coined"}
+      note: "yoreza, soil, of salkon, shore; also used for sand away from a shore."
+      concept: "sand"
+    - form: "yoreza ul ulmera"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "mud; earth mixed with water Usage: Coordinated yoreza, soil, and ulmera, water; conventional material expression."
+      source: {"kind": "coined"}
+      note: "Coordinated yoreza, soil, and ulmera, water; conventional material expression."
+      concept: "mud"
+    - form: "yormela"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "dust; fine dry particles of earth or other material"
+      source: {"kind": "coined"}
+      concept: "dust"
+    - form: "yormalis levra"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "a plain; flat open land Usage: yormalis, land, with feminine levra, smooth; geographical use, whether owned or not."
+      source: {"kind": "coined"}
+      note: "yormalis, land, with feminine levra, smooth; geographical use, whether owned or not."
+      concept: "plain-landform"
+    - form: "talondumela"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "a cave; a chamber within rock"
+      source: {"kind": "coined"}
+      note: "talon-, stone, before dumela, room; lexical compound."
+      concept: "cave"
+    - form: "siretha nizela"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "a stream; a small watercourse Usage: siretha, river, with feminine nizela, small."
+      source: {"kind": "coined"}
+      note: "siretha, river, with feminine nizela, small."
+      concept: "stream"
+    - form: "nelvon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "ice; frozen water"
+      source: {"kind": "coined"}
+      concept: "ice"
+    - form: "iltheralon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "the sky; the expanse above the earth"
+      source: {"kind": "coined"}
+      note: "ilther-, star, with -alon, whole; lexical sky noun."
+      concept: "sky"
+    - form: "huradon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "a cloud; a mass of water in the sky"
+      source: {"kind": "coined"}
+      concept: "cloud"
+    - form: "brazkiramon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "lightning; a flash in a storm"
+      source: {"kind": "coined"}
+      note: "braz-, storm, beside kiramos, bright; lexical compound."
+      concept: "lightning"
+    - form: "nurelon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "a plant; a rooted growing thing"
+      source: {"kind": "coined"}
+      concept: "plant"
+    - form: "kalderos"
+      class: "n m"
+      field: "Land, the vine and the river"
+      gloss: "a tree; a woody plant"
+      source: {"kind": "coined"}
+      concept: "tree"
+    - form: "kaldrima"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "a leaf"
+      source: {"kind": "coined"}
+      concept: "leaf"
+    - form: "nurzela"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "a root; the part anchoring a plant and taking in water"
+      source: {"kind": "coined"}
+      concept: "root"
+    - form: "lamothos ol kalderos"
+      class: "n m"
+      field: "Land, the vine and the river"
+      gloss: "a branch; a limb of a tree Usage: lamothos, arm, of kalderos, tree; conventional botanical extension."
+      source: {"kind": "coined"}
+      note: "lamothos, arm, of kalderos, tree; conventional botanical extension."
+      concept: "branch"
+    - form: "nurpaza"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "fruit; a plant's fleshy seed-bearing produce"
+      source: {"kind": "coined"}
+      note: "nur-, grow, before paza, food; lexical plant noun."
+      concept: "fruit"
+    - form: "kelborizon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "a seed; the small body from which a plant grows"
+      source: {"kind": "coined"}
+      concept: "seed"
+    - form: "poltheza"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "grass; low plants with narrow blades"
+      source: {"kind": "coined"}
+      concept: "grass"
+    - form: "thernon"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "an animal; a beast"
+      source: {"kind": "coined"}
+      concept: ["animal", "beast"]
+    - form: "orven"
+      class: "n m"
+      field: "Land, the vine and the river"
+      gloss: "a bird; a feathered animal"
+      source: {"kind": "coined"}
+      concept: "bird"
+    - form: "zelkis"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "an insect; a small six-legged creature"
+      source: {"kind": "coined"}
+      concept: "insect"
+    - form: "yormis"
+      class: "n f"
+      field: "Land, the vine and the river"
+      gloss: "a worm; a long soft animal without legs"
+      source: {"kind": "coined"}
+      concept: "worm"
+    - form: "ulmera kerandar"
+      class: "adj"
+      field: "Land, the vine and the river"
+      gloss: "wet; having water on or in it Usage: ulmera, water, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "ulmera, water, object of kerandar, having."
+      concept: "wet"
+    - form: "ar ulmera kerandar"
+      class: "adj"
+      field: "Land, the vine and the river"
+      gloss: "dry; having no water or moisture Usage: ar ulmera, no water, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "ar ulmera, no water, object of kerandar, having."
+      concept: "dry"
+    - form: "ar huradon kerandar"
+      class: "adj"
+      field: "Land, the vine and the river"
+      gloss: "clear; having no clouds, said of weather Usage: ar huradon, no cloud, object of kerandar, having; weather predicate rather than material transparency."
+      source: {"kind": "coined"}
+      note: "ar huradon, no cloud, object of kerandar, having; weather predicate rather than material transparency."
+      concept: "clear-weather"
+    - form: "huradon kerandar"
+      class: "adj"
+      field: "Land, the vine and the river"
+      gloss: "cloudy; having clouds Usage: huradon, cloud, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "huradon, cloud, object of kerandar, having."
+      concept: "cloudy"
+    - form: "aistron"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "the north; the northern direction"
+      source: {"kind": "coined"}
+      concept: "north"
+    - form: "zeltron"
+      class: "n n"
+      field: "Land, the vine and the river"
+      gloss: "the south; the direction opposite north"
+      source: {"kind": "coined"}
+      concept: "south"
+    - form: "urzkorvathis"
+      class: "n m"
+      field: "Land, the vine and the river"
+      gloss: "the east; the direction of the rising sun"
+      source: {"kind": "coined"}
+      note: "urz-, rise, before korvathis, sun; lexical direction compound."
+      concept: "east"
+    - form: "nembkorvathis"
+      class: "n m"
+      field: "Land, the vine and the river"
+      gloss: "the west; the direction of the setting sun"
+      source: {"kind": "coined"}
+      note: "nemb-, fall, before korvathis, sun; lexical direction compound."
+      concept: "west"
+    - form: "arzon"
+      class: "num"
+      field: "Numbers and grammar words"
+      gloss: "zero; no units in a count"
+      source: {"kind": "coined"}
+      concept: "zero"
+    - form: "ranethoros"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "seventh; an ordinal made from ranethur"
+      source: {"kind": "coined"}
+      note: "ranethur, seven, with the documented ordinal -oros replacing its ending; the same construction supplies later ordinals."
+      concept: "ordinal-construction"
+    - form: "soltha ol soltha"
+      class: "n f"
+      field: "Numbers and grammar words"
+      gloss: "a quarter; half of a half Usage: soltha, half, of soltha, half."
+      source: {"kind": "coined"}
+      note: "soltha, half, of soltha, half."
+      concept: "quarter"
+    - form: "ethris"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "some; an unspecified nonzero quantity or number"
+      source: {"kind": "coined"}
+      concept: "some"
+    - form: "sathos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "enough; sufficient for the purpose"
+      source: {"kind": "coined"}
+      concept: "enough"
+    - form: "zolmimmos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "most; the greatest number or amount"
+      source: {"kind": "coined"}
+      note: "zolmos, many or much, with the documented superlative -immos."
+      concept: "most"
+    - form: "ithrimmos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "least; the smallest number or amount"
+      source: {"kind": "coined"}
+      note: "ithros, few or little, with the documented superlative -immos."
+      concept: "least"
+    - form: "rozelos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "equal; having the same amount, measure or standing"
+      source: {"kind": "coined"}
+      concept: "equal"
+    - form: "urzelos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "each; every one considered separately"
+      source: {"kind": "coined"}
+      concept: "each"
+    - form: "tavemer zetimos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "both; all two Usage: tavemer, two, with zetimos, all; use agreement appropriate to the counted noun."
+      source: {"kind": "coined"}
+      note: "tavemer, two, with zetimos, all; use agreement appropriate to the counted noun."
+      concept: "both"
+    - form: "urkis ol tavemer"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "either one; one of two Usage: urkis, one, of tavemer, two; choice is open between the pair."
+      source: {"kind": "coined"}
+      note: "urkis, one, of tavemer, two; choice is open between the pair."
+      concept: "either"
+    - form: "ar urkis ol tavemer"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "neither one; not one of two Usage: ar, not, before urkis ol tavemer, one of two."
+      source: {"kind": "coined"}
+      note: "ar, not, before urkis ol tavemer, one of two."
+      concept: "neither"
+    - form: "rozethi"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "about; approximately in number or measure"
+      source: {"kind": "coined"}
+      note: "New counting adverb beside rozimathen, reckon."
+      concept: "about"
+    - form: "prenai"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "almost; just short of the relevant point or degree"
+      source: {"kind": "coined"}
+      note: "Related to pra, before."
+      concept: "almost"
+    - form: "zethai"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "exactly; with no difference or approximation"
+      source: {"kind": "coined"}
+      note: "Related to zetimos, whole."
+      concept: "exactly"
+    - form: "rozon"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "a number; a count of units"
+      source: {"kind": "coined"}
+      concept: "number"
+    - form: "zolmon"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "an amount; a quantity"
+      source: {"kind": "coined"}
+      concept: "amount"
+    - form: "thradinathen"
+      class: "v"
+      field: "Numbers and grammar words"
+      gloss: "to measure; to determine an extent or quantity"
+      source: {"kind": "coined"}
+      concept: "measure-verb"
+    - form: "ilthelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "light in colour; pale"
+      source: {"kind": "coined"}
+      concept: ["light-colour", "pale"]
+    - form: "silkros"
+      class: "adj"
+      field: "Qualities"
+      gloss: "clear; transparent; allowing objects behind it to be seen"
+      source: {"kind": "coined"}
+      note: "Related to silkimos, eye; not clear weather."
+      concept: ["clear-appearance", "transparent"]
+    - form: "ansilkros"
+      class: "adj"
+      field: "Qualities"
+      gloss: "opaque; not transparent"
+      source: {"kind": "coined"}
+      concept: "opaque"
+    - form: "ankrelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "shiny; reflecting light from its surface"
+      source: {"kind": "coined"}
+      concept: "shiny"
+    - form: "anankrelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "dull; not shiny"
+      source: {"kind": "coined"}
+      concept: "dull-appearance"
+    - form: "ar thumisa kerandar"
+      class: "adj"
+      field: "Qualities"
+      gloss: "plain; bearing no pattern or decorative marks Usage: ar thumisa, no mark, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "ar thumisa, no mark, object of kerandar, having."
+      concept: "plain-pattern"
+    - form: "thumiselos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "spotted; patterned with spots"
+      source: {"kind": "coined"}
+      concept: "spotted"
+    - form: "funelen"
+      class: "adj"
+      field: "Qualities"
+      gloss: "striped; patterned with long bands"
+      source: {"kind": "coined"}
+      note: "Related to funela, cord or line."
+      concept: "striped"
+    - form: "ol alathos yarethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to belong to someone; to be his Usage: ol alathos, of him, with yarethen, be; replace alathos with the possessor or the proper pointing form."
+      source: {"kind": "coined"}
+      note: "ol alathos, of him, with yarethen, be; replace alathos with the possessor or the proper pointing form."
+      concept: "belong"
+    - form: "pelzathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to become; to enter a state"
+      source: {"kind": "coined"}
+      concept: "become"
+    - form: "dorathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to remain; to continue in a place or state"
+      source: {"kind": "coined"}
+      concept: ["remain", "continue"]
+    - form: "fir sedon lokathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to arrive; to come to a destination Usage: fir, to, with sedon, place, before lokathen, come; replace sedon with the destination, as fir dumva lokathen, arrive at the house."
+      source: {"kind": "coined"}
+      note: "fir, to, with sedon, place, before lokathen, come; replace sedon with the destination, as fir dumva lokathen, arrive at the house."
+      concept: "arrive"
+    - form: "zel valmathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to crawl; to move low along the ground Usage: zel, below or low, with valmathen, walk; lexical movement phrase."
+      source: {"kind": "coined"}
+      note: "zel, below or low, with valmathen, walk; lexical movement phrase."
+      concept: "crawl"
+    - form: "urzvalmathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to climb; to move upward on a surface"
+      source: {"kind": "coined"}
+      note: "urz-, rise, before valmathen, walk; lexical compound verb."
+      concept: "climb"
+    - form: "urzralvathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to jump; to spring upward"
+      source: {"kind": "coined"}
+      note: "urz-, rise, before ralvathen, run; lexical compound verb."
+      concept: "jump"
+    - form: "ir tigathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to enter; to go in Usage: ir, in or into, with tigathen, go."
+      source: {"kind": "coined"}
+      note: "ir, in or into, with tigathen, go."
+      concept: "enter"
+    - form: "fos tigathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to exit; to go out Usage: fos, out, with tigathen, go."
+      source: {"kind": "coined"}
+      note: "fos, out, with tigathen, go."
+      concept: "exit"
+    - form: "antigathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to return; to go back"
+      source: {"kind": "coined"}
+      concept: "return"
+    - form: "sedathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to move; to change place"
+      source: {"kind": "coined"}
+      concept: "move"
+    - form: "prendathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to push; to exert force away from oneself"
+      source: {"kind": "coined"}
+      concept: "push"
+    - form: "zundethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to pull; to draw toward oneself"
+      source: {"kind": "coined"}
+      concept: "pull"
+    - form: "us lozethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to lift; to carry upward Usage: us, over or up, with lozethen, carry."
+      source: {"kind": "coined"}
+      note: "us, over or up, with lozethen, carry."
+      concept: "lift"
+    - form: "nembandon daimathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to drop; to cause a fall Usage: nembandon, a fall, from nembethen and -andon, object of daimathen, give."
+      source: {"kind": "coined"}
+      note: "nembandon, a fall, from nembethen and -andon, object of daimathen, give."
+      concept: "drop"
+    - form: "kurathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to catch; to seize a moving thing"
+      source: {"kind": "coined"}
+      concept: "catch"
+    - form: "kermathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to break; to separate or damage a thing by force"
+      source: {"kind": "coined"}
+      concept: "break"
+    - form: "zetimai kermathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to destroy; to break completely Usage: zetimai, wholly, regular -ai adverb of zetimos, whole, before kermathen, break."
+      source: {"kind": "coined"}
+      note: "zetimai, wholly, regular -ai adverb of zetimos, whole, before kermathen, break."
+      concept: "destroy"
+    - form: "ankermathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to repair; to undo damage or breakage"
+      source: {"kind": "coined"}
+      concept: "repair"
+    - form: "pelzethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to change; to alter something"
+      source: {"kind": "coined"}
+      concept: "change-verb"
+    - form: "pethrethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to answer; to respond to a question or request"
+      source: {"kind": "coined"}
+      concept: "answer"
+    - form: "anklamai dokathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to whisper; to speak very quietly Usage: anklamai, quietly, regular -ai adverb of anklamos, quiet, with dokathen, speak."
+      source: {"kind": "coined"}
+      note: "anklamai, quietly, regular -ai adverb of anklamos, quiet, with dokathen, speak."
+      concept: "whisper"
+    - form: "lambizathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to explain; to make a meaning clear in words"
+      source: {"kind": "coined"}
+      concept: "explain"
+    - form: "harlen daimathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to name; to give a name Usage: harlen, name, object of daimathen, give; an attested construction in the grammar."
+      source: {"kind": "coined"}
+      note: "harlen, name, object of daimathen, give; an attested construction in the grammar."
+      concept: "name-verb"
+    - form: "lambirethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to understand; to grasp a meaning or reason"
+      source: {"kind": "coined"}
+      note: "Related to lambizon, word; not factual knowledge alone."
+      concept: "understand"
+    - form: "marendathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to learn; to acquire knowledge or skill"
+      source: {"kind": "coined"}
+      concept: "learn"
+    - form: "marendethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to teach; to impart knowledge or skill"
+      source: {"kind": "coined"}
+      note: "Related to marendos, teacher; distinct from learning."
+      concept: "teach"
+    - form: "nazdathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to decide; to settle what is to be done"
+      source: {"kind": "coined"}
+      concept: "decide"
+    - form: "vethokethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to imagine; to form an image in one's mind"
+      source: {"kind": "coined"}
+      note: "veth-, self, beside okethen, see; lexical mental verb."
+      concept: "imagine"
+    - form: "yerpathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to need; to require something"
+      source: {"kind": "coined"}
+      concept: "need-verb"
+    - form: "avrenathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to intend; to have an act or outcome deliberately in mind"
+      source: {"kind": "coined"}
+      concept: "intend"
+    - form: "tavemkurethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to choose; to take one from alternatives"
+      source: {"kind": "coined"}
+      note: "tavem-, two, beside kurethen, take; lexical choice verb applicable to more than two options."
+      concept: "choose"
+    - form: "mazeron avethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to prefer; to want more than another option Usage: mazeron, more, with avethen, want; the preferred object precedes it, alternatives are named with ves, or."
+      source: {"kind": "coined"}
+      note: "mazeron, more, with avethen, want; the preferred object precedes it, alternatives are named with ves, or."
+      concept: "prefer"
+    - form: "tarvenathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to try; to attempt an action"
+      source: {"kind": "coined"}
+      note: "Related to beginning alone does not assert effort."
+      concept: "try"
+    - form: "sekerathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to search; to look for something"
+      source: {"kind": "coined"}
+      concept: "search"
+    - form: "konathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to meet; to come together; to associate"
+      source: {"kind": "coined"}
+      concept: "meet"
+    - form: "zumbrathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to help; to assist"
+      source: {"kind": "coined"}
+      concept: "help"
+    - form: "solthathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to share; to divide something among people"
+      source: {"kind": "coined"}
+      concept: "share"
+    - form: "kurelathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to buy; to acquire for a price"
+      source: {"kind": "coined"}
+      concept: "buy"
+    - form: "daimelathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to sell; to give in exchange for a price"
+      source: {"kind": "coined"}
+      concept: "sell"
+    - form: "zarlethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to promise; to undertake to do something"
+      source: {"kind": "coined"}
+      note: "Related to zarathen, swear; a promise need not invoke an oath."
+      concept: "promise-verb"
+    - form: "orfenon memrathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to thank; to acknowledge a favor Usage: orfenon, kindness or favor, object of memrathen, remember; lexical grateful acknowledgment."
+      source: {"kind": "coined"}
+      note: "orfenon, kindness or favor, object of memrathen, remember; lexical grateful acknowledgment."
+      concept: "thank-verb"
+    - form: "ar avethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to refuse; not to consent to a proposal Usage: ar, not, directly before avethen, want; the rejected proposal or action precedes it."
+      source: {"kind": "coined"}
+      note: "ar, not, directly before avethen, want; the rejected proposal or action precedes it."
+      concept: "refuse-verb"
+    - form: "kona alathos varelathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to agree; to share another's belief or judgment Usage: kona alathos, together with him, before varelathen, believe; replace the pointing word with the other party."
+      source: {"kind": "coined"}
+      note: "kona alathos, together with him, before varelathen, believe; replace the pointing word with the other party."
+      concept: "agree-verb"
+    - form: "malkethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to hit; to strike"
+      source: {"kind": "coined"}
+      concept: "hit"
+    - form: "kolvathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to kill; to cause death"
+      source: {"kind": "coined"}
+      note: "Related to kolvazis, death; distinct from kalmethathen, die."
+      concept: "kill"
+    - form: "kordandon holimathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to attack; to begin a fight against someone Usage: kordandon, fighting, from kordathen and -andon, object of holimathen, begin."
+      source: {"kind": "coined"}
+      note: "kordandon, fighting, from kordathen and -andon, object of holimathen, begin."
+      concept: "attack"
+    - form: "fos sedon ol rithavon ralvathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to flee; to run away from danger Usage: fos sedon ol rithavon, out of the place of danger, before ralvathen, run; replace rithavon with a named danger source as appropriate."
+      source: {"kind": "coined"}
+      note: "fos sedon ol rithavon, out of the place of danger, before ralvathen, run; replace rithavon with a named danger source as appropriate."
+      concept: "flee"
+    - form: "rithavon vakathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to threaten; to show that harm may follow Usage: rithavon, danger, object of vakathen, show; lexical warning of harm."
+      source: {"kind": "coined"}
+      note: "rithavon, danger, object of vakathen, show; lexical warning of harm."
+      concept: "threaten"
+    - form: "sistethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to wait; to remain until an expected time or event"
+      source: {"kind": "coined"}
+      concept: "wait"
+    - form: "tambirethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to happen; to occur"
+      source: {"kind": "coined"}
+      concept: "happen"
+    - form: "zel klinethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to kneel; to bend down onto the knee Usage: zel, down, with klinethen, bend; lexical posture phrase."
+      source: {"kind": "coined"}
+      note: "zel, down, with klinethen, bend; lexical posture phrase."
+      concept: "kneel"
+    - form: "kovrathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to cover; to put a covering over something"
+      source: {"kind": "coined"}
+      concept: "cover-verb"
+    - form: "ankovrathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to uncover; to remove a covering"
+      source: {"kind": "coined"}
+      concept: "uncover"
+    - form: "keltherathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to hide; to conceal an object or person from view"
+      source: {"kind": "coined"}
+      concept: "hide"
+    - form: "zundelathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to lock; to fasten with a lock"
+      source: {"kind": "coined"}
+      note: "Related to zundela, lock; tying alone does not establish locking."
+      concept: "lock-verb"
+    - form: "anzundelathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to unlock; to release a lock"
+      source: {"kind": "coined"}
+      concept: "unlock"
+    - form: "ir denon sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "here; in this place Usage: ir, in; denon, this (neuter), agrees with sedon, place."
+      source: {"kind": "coined"}
+      note: "ir, in; denon, this (neuter), agrees with sedon, place."
+      concept: "here"
+    - form: "ir alathon sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "there; in that place over there Usage: ir, in; alathon, that (neuter), agrees with sedon, place."
+      source: {"kind": "coined"}
+      note: "ir, in; alathon, that (neuter), agrees with sedon, place."
+      concept: "there"
+    - form: "ir ethris sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "somewhere; in some place Usage: ir, in; one-form ethris, some; sedon, place."
+      source: {"kind": "coined"}
+      note: "ir, in; one-form ethris, some; sedon, place."
+      concept: "somewhere"
+    - form: "ir arurkis sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "nowhere; in no place Usage: ir, in; arurkis, not one; sedon, place."
+      source: {"kind": "coined"}
+      note: "ir, in; arurkis, not one; sedon, place."
+      concept: "nowhere"
+    - form: "ir zetimon sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "everywhere; in every place Usage: ir, in; zetimon, every (neuter), agrees with sedon, place."
+      source: {"kind": "coined"}
+      note: "ir, in; zetimon, every (neuter), agrees with sedon, place."
+      concept: "everywhere"
+    - form: "denar"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "near; close by"
+      source: {"kind": "coined"}
+      concept: "near"
+    - form: "alathar"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "far; at a great distance"
+      source: {"kind": "coined"}
+      concept: "far"
+    - form: "lan"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "beside; at the side of"
+      source: {"kind": "coined"}
+      concept: "beside"
+    - form: "tavir"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "between; in the intervening space of two things"
+      source: {"kind": "coined"}
+      concept: "between"
+    - form: "zolir"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "among; in the midst of several things or people"
+      source: {"kind": "coined"}
+      concept: "among"
+    - form: "anpra"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "behind; at the back of"
+      source: {"kind": "coined"}
+      note: "an-, reverse, with pra, in front of; spatial sense."
+      concept: "behind"
+    - form: "zelvar"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "the left; the left-hand side or direction"
+      source: {"kind": "coined"}
+      concept: "left-direction"
+    - form: "tharvar"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "the right; the right-hand side or direction"
+      source: {"kind": "coined"}
+      note: "Related to distinct from ethical right and lawful yestharos."
+      concept: "right-direction"
+    - form: "ziron"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "the center; the middle"
+      source: {"kind": "coined"}
+      concept: "center"
+    - form: "fir sedon thelvaron"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "up; toward a higher place Usage: fir, toward; sedon, place; thelvaron, high, neuter agreement with sedon."
+      source: {"kind": "coined"}
+      note: "fir, toward; sedon, place; thelvaron, high, neuter agreement with sedon."
+      concept: "up"
+    - form: "fir sedon zelon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "down; toward a lower place Usage: fir, toward; sedon, place; zelon, low, neuter agreement with sedon."
+      source: {"kind": "coined"}
+      note: "fir, toward; sedon, place; zelon, low, neuter agreement with sedon."
+      concept: "down"
+    - form: "fir prasedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "forward; toward the front Usage: fir, toward, with prasedon, the place in front."
+      source: {"kind": "coined"}
+      note: "fir, toward, with prasedon, the place in front."
+      concept: "forward"
+    - form: "fir anprasedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "backward; toward the rear Usage: fir, toward, with anprasedon, the place behind."
+      source: {"kind": "coined"}
+      note: "fir, toward, with anprasedon, the place behind."
+      concept: "backward"
+    - form: "fir"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "to; toward a destination"
+      source: {"kind": "coined"}
+      note: "New directional particle; the destination follows it; distinct from fa, for a beneficiary."
+      concept: ["toward", "to"]
+    - form: "fos denon sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "away; out from this place Usage: fos, out, followed by denon sedon, this place."
+      source: {"kind": "coined"}
+      note: "fos, out, followed by denon sedon, this place."
+      concept: "away"
+    - form: "tir"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "through; along the interior of and out of"
+      source: {"kind": "coined"}
+      concept: "through"
+    - form: "tavar"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "across; from one side to the other"
+      source: {"kind": "coined"}
+      concept: "across"
+    - form: "un"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "on; in contact with the upper or supporting surface of"
+      source: {"kind": "coined"}
+      concept: "on"
+    - form: "ir sedon ol dumva"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "at the house; at a named location Usage: ir, in; sedon, place; ol dumva, of the house. Replace dumva with the actual location to express at that place."
+      source: {"kind": "coined"}
+      note: "ir, in; sedon, place; ol dumva, of the house. Replace dumva with the actual location to express at that place."
+      concept: "at"
+    - form: "fos sedon ol dumva"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "from the house; from a named source location Usage: fos, out; sedon, place; ol dumva, of the house. Replace dumva with the actual source location."
+      source: {"kind": "coined"}
+      note: "fos, out; sedon, place; ol dumva, of the house. Replace dumva with the actual source location."
+      concept: "from"
+    - form: "sedon ol lathon"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "a position; the place occupied by a thing Usage: sedon, place, with ol lathon, of a thing; replace lathon with the positioned object."
+      source: {"kind": "coined"}
+      note: "sedon, place, with ol lathon, of a thing; replace lathon with the positioned object."
+      concept: "position"
+    - form: "tigen"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "a direction; a way in which something moves or faces"
+      source: {"kind": "coined"}
+      concept: "direction"
+    - form: "teredon ol sedoi"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "distance; the extent between places Usage: teredon, length or extent, of sedoi, places, plural of sedon."
+      source: {"kind": "coined"}
+      note: "teredon, length or extent, of sedoi, places, plural of sedon."
+      concept: "distance"
+    - form: "kanel"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "time; the course or duration of events"
+      source: {"kind": "coined"}
+      concept: "time"
+    - form: "kanizon"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "a moment; a very short span of time"
+      source: {"kind": "coined"}
+      concept: "moment"
+    - form: "nardziron"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "noon; the middle of the day"
+      source: {"kind": "coined"}
+      note: "nard-, day, before ziron, middle."
+      concept: "noon"
+    - form: "zunziron"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "midnight; the middle of the night"
+      source: {"kind": "coined"}
+      note: "zun-, night, before ziron, middle."
+      concept: "midnight"
+    - form: "denkanai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "now; at this time"
+      source: {"kind": "coined"}
+      note: "Related to denos, this, and kanai, then."
+      concept: "now"
+    - form: "denon nardelon"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "today; on this day Usage: denon, this (neuter), agrees with nardelon, day; temporal noun phrase used adverbially."
+      source: {"kind": "coined"}
+      note: "denon, this (neuter), agrees with nardelon, day; temporal noun phrase used adverbially."
+      concept: "today"
+    - form: "pra denon nardelon"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "yesterday; on the day before this one Usage: pra, before, with denon nardelon, this day; lexical calendar expression for the immediately preceding day."
+      source: {"kind": "coined"}
+      note: "pra, before, with denon nardelon, this day; lexical calendar expression for the immediately preceding day."
+      concept: "yesterday"
+    - form: "ethor nardelon"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "tomorrow; on the next day Usage: ethor, after, with nardelon, day; lexical calendar expression for the immediately following day."
+      source: {"kind": "coined"}
+      note: "ethor, after, with nardelon, day; lexical calendar expression for the immediately following day."
+      concept: "tomorrow"
+    - form: "denon kanel"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "the present; this time Usage: denon, this (neuter), with kanel, time."
+      source: {"kind": "coined"}
+      note: "denon, this (neuter), with kanel, time."
+      concept: "present"
+    - form: "pra kanel ol kolsama"
+      class: "part"
+      field: "Time, the calendar and the festivals"
+      gloss: "before the harvest; before a named time or event Usage: pra, before; kanel, time; ol kolsama, of the harvest. Replace kolsama with the relevant event."
+      source: {"kind": "coined"}
+      note: "pra, before; kanel, time; ol kolsama, of the harvest. Replace kolsama with the relevant event."
+      concept: "before-time"
+    - form: "ethor"
+      class: "part"
+      field: "Time, the calendar and the festivals"
+      gloss: "after; later than a time or event"
+      source: {"kind": "coined"}
+      concept: "after"
+    - form: "ir kanel ol kolsama"
+      class: "part"
+      field: "Time, the calendar and the festivals"
+      gloss: "during the harvest; within the time of a named event Usage: ir, in; kanel, time; ol kolsama, of the harvest. Replace kolsama with the relevant event."
+      source: {"kind": "coined"}
+      note: "ir, in; kanel, time; ol kolsama, of the harvest. Replace kolsama with the relevant event."
+      concept: "during"
+    - form: "fir kanel ol kolsama"
+      class: "part"
+      field: "Time, the calendar and the festivals"
+      gloss: "until the harvest; up to the time of a named event Usage: fir, to; kanel, time; ol kolsama, of the harvest. Replace kolsama with the endpoint event."
+      source: {"kind": "coined"}
+      note: "fir, to; kanel, time; ol kolsama, of the harvest. Replace kolsama with the endpoint event."
+      concept: "until"
+    - form: "fos kanel ol kolsama"
+      class: "part"
+      field: "Time, the calendar and the festivals"
+      gloss: "since the harvest; from the time of a named event onward Usage: fos, from; kanel, time; ol kolsama, of the harvest. Replace kolsama with the starting event."
+      source: {"kind": "coined"}
+      note: "fos, from; kanel, time; ol kolsama, of the harvest. Replace kolsama with the starting event."
+      concept: "since-time"
+    - form: "ir zetimon kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "always; at every time Usage: ir, in; zetimon, every (neuter), with kanel, time."
+      source: {"kind": "coined"}
+      note: "ir, in; zetimon, every (neuter), with kanel, time."
+      concept: "always"
+    - form: "ir zolmoi kaneloi"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "often; on many occasions Usage: ir, in; zolmoi, many (plural), agrees with kaneloi, times."
+      source: {"kind": "coined"}
+      note: "ir, in; zolmoi, many (plural), agrees with kaneloi, times."
+      concept: "often"
+    - form: "ir ethris kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "sometimes; at some times Usage: ir, in; ethris, some, with kanel, time."
+      source: {"kind": "coined"}
+      note: "ir, in; ethris, some, with kanel, time."
+      concept: "sometimes"
+    - form: "ir ithroi kaneloi"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "rarely; on few occasions Usage: ir, in; ithroi, few (plural), agrees with kaneloi, times."
+      source: {"kind": "coined"}
+      note: "ir, in; ithroi, few (plural), agrees with kaneloi, times."
+      concept: "rarely"
+    - form: "ir arurkis kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "never; at no time Usage: ir, in; arurkis, none, with kanel, time."
+      source: {"kind": "coined"}
+      note: "ir, in; arurkis, none, with kanel, time."
+      concept: "never"
+    - form: "teremos ol kanel"
+      class: "adj"
+      field: "Time, the calendar and the festivals"
+      gloss: "long in duration Usage: teremos, long, qualified by ol kanel, of time; distinguish length in space."
+      source: {"kind": "coined"}
+      note: "teremos, long, qualified by ol kanel, of time; distinguish length in space."
+      concept: "long-duration"
+    - form: "nizelos ol kanel"
+      class: "adj"
+      field: "Time, the calendar and the festivals"
+      gloss: "short; brief in duration Usage: nizelos, small, qualified by ol kanel, of time."
+      source: {"kind": "coined"}
+      note: "nizelos, small, qualified by ol kanel, of time."
+      concept: ["short-duration", "brief-duration"]
+    - form: "antigai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "again; on another occurrence"
+      source: {"kind": "coined"}
+      note: "New recurrence adverb beside antigathen, return; lexical temporal use."
+      concept: ["again", "expression-again"]
+    - form: "urkis kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "once; on one occasion Usage: urkis, one, with kanel, occasion or time; no claim that narrated kanai means exactly once."
+      source: {"kind": "coined"}
+      note: "urkis, one, with kanel, occasion or time; no claim that narrated kanai means exactly once."
+      concept: "once"
+    - form: "tavemer kaneloi"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "twice; on two occasions Usage: tavemer, two, with plural kaneloi, times."
+      source: {"kind": "coined"}
+      note: "tavemer, two, with plural kaneloi, times."
+      concept: "twice"
+    - form: "zolmoi kaneloi"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "repeatedly; on many occasions Usage: zolmoi, many (plural), with kaneloi, times."
+      source: {"kind": "coined"}
+      note: "zolmoi, many (plural), with kaneloi, times."
+      concept: "repeatedly"
+    - form: "pra denkanai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "already; before now Usage: pra, before, with denkanai, now; indicates an event accomplished by now."
+      source: {"kind": "coined"}
+      note: "pra, before, with denkanai, now; indicates an event accomplished by now."
+      concept: "already"
+    - form: "doranthi"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "still; enduringly; continuing as before"
+      source: {"kind": "coined"}
+      note: "Attested regular adverb of dorandar, enduring, by -andar to -anthi."
+      concept: "still"
+    - form: "fir denkanai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "yet; up to now Usage: fir, to, with denkanai, now; used with ar for not yet."
+      source: {"kind": "coined"}
+      note: "fir, to, with denkanai, now; used with ar for not yet."
+      concept: "yet"
+    - form: "denar kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "soon; at a near time Usage: denar, near (one form), with kanel, time."
+      source: {"kind": "coined"}
+      note: "denar, near (one form), with kanel, time."
+      concept: "soon"
+    - form: "ethorai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "later; next in sequence"
+      source: {"kind": "coined"}
+      note: "Already attested in Time without tenses; cited as the temporal adverb of ethoros, second."
+      concept: ["later", "next"]
+    - form: "pra kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "early; before the expected time Usage: pra, before, with kanel, time; the expected time is understood."
+      source: {"kind": "coined"}
+      note: "pra, before, with kanel, time; the expected time is understood."
+      concept: "early"
+    - form: "ethor kanel"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "late; after the expected time Usage: ethor, after, with kanel, time; the expected time is understood."
+      source: {"kind": "coined"}
+      note: "ethor, after, with kanel, time; the expected time is understood."
+      concept: "late"
+    - form: "holimai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: ["first; before other events", "especially; first in importance"]
+      source: {"kind": "coined"}
+      note: "Already attested in the modal example; regular -ai adverb of holimos, first. Attested holimai, first, lexical emphasis sense alongside sequence-first use."
+      concept: ["first-sequence", "especially"]
+    - form: "orthemai"
+      class: "adv"
+      field: "Time, the calendar and the festivals"
+      gloss: "finally; at the last step"
+      source: {"kind": "coined"}
+      note: "Regular -ai adverb of orthemos, last."
+      concept: "finally"
+    - form: "solthen ol tharnela"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "a season; a natural division of the year Usage: solthen, part, of tharnela, year; conventional calendar expression for spring, summer, autumn or winter."
+      source: {"kind": "coined"}
+      note: "solthen, part, of tharnela, year; conventional calendar expression for spring, summer, autumn or winter."
+      concept: "season"
+    - form: "urzandon ol korvathis"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "dawn; the rising of the sun Usage: urzandon, rising, of korvathis, sun; lexical dawn-time expression."
+      source: {"kind": "coined"}
+      note: "urzandon, rising, of korvathis, sun; lexical dawn-time expression."
+      concept: "dawn"
+    - form: "nembandon ol korvathis"
+      class: "n n"
+      field: "Time, the calendar and the festivals"
+      gloss: "dusk; the falling of the sun Usage: nembandon, falling, of korvathis, sun; lexical time expression for sunset twilight."
+      source: {"kind": "coined"}
+      note: "nembandon, falling, of korvathis, sun; lexical time expression for sunset twilight."
+      concept: "dusk"
+    - form: "ol en"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "my; mine Usage: Attested ol, of, with en, I; follows the possessed noun, or stands as a predicate."
+      source: {"kind": "coined"}
+      note: "Attested ol, of, with en, I; follows the possessed noun, or stands as a predicate."
+      concept: "my"
+    - form: "ol ko"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "your; yours, of one person Usage: Attested possessive; use ol koroi for plural or formal address."
+      source: {"kind": "coined"}
+      note: "Attested possessive; use ol koroi for plural or formal address."
+      concept: "your"
+    - form: "dena"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "she; this woman referred to"
+      source: {"kind": "coined"}
+      concept: "she"
+    - form: "denon"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "it; this thing referred to"
+      source: {"kind": "coined"}
+      note: "Neuter of denos, this one; do not use of a free adult."
+      concept: "it"
+    - form: "denoi"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "they; these ones nearby"
+      source: {"kind": "coined"}
+      note: "Plural masculine or neuter of denos; denai for feminine plural."
+      concept: ["they", "these"]
+    - form: "ol enoi"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "our; ours Usage: Attested possessive ol with enoi, we; follows the possessed noun."
+      source: {"kind": "coined"}
+      note: "Attested possessive ol with enoi, we; follows the possessed noun."
+      concept: "our"
+    - form: "alathoi"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "those ones over there"
+      source: {"kind": "coined"}
+      note: "Plural masculine or neuter of alathos; alathai for feminine plural."
+      concept: "those"
+    - form: "ethris verezos"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "someone; some person Usage: ethris, some, with verezos, person; one-form ethris does not inflect."
+      source: {"kind": "coined"}
+      note: "ethris, some, with verezos, person; one-form ethris does not inflect."
+      concept: "someone"
+    - form: "verethis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "anyone; a person, whichever one"
+      source: {"kind": "coined"}
+      concept: "anyone"
+    - form: "zetimoi verezoi"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "everyone; all people Usage: zetimoi, all (plural), agrees with verezoi, people."
+      source: {"kind": "coined"}
+      note: "zetimoi, all (plural), agrees with verezoi, people."
+      concept: "everyone"
+    - form: "arurkis verezos"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "no one; not one person Usage: arurkis, none, with verezos, person."
+      source: {"kind": "coined"}
+      note: "arurkis, none, with verezos, person."
+      concept: "no-one"
+    - form: "ethris lathon"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "something; an unspecified thing Usage: ethris, some, with lathon, thing."
+      source: {"kind": "coined"}
+      note: "ethris, some, with lathon, thing."
+      concept: "something"
+    - form: "lathethis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "anything; a thing, whichever one"
+      source: {"kind": "coined"}
+      concept: "anything"
+    - form: "zetimoi lathoi"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "everything; all things Usage: zetimoi, all (neuter plural), with lathoi, things."
+      source: {"kind": "coined"}
+      note: "zetimoi, all (neuter plural), with lathoi, things."
+      concept: "everything"
+    - form: "alethos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "other; different from the one in question"
+      source: {"kind": "coined"}
+      concept: ["other", "different"]
+    - form: "alethos urkis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "another; one other Usage: alethos, other, with urkis, one; nominative expression used as a pronoun, with no new case forms."
+      source: {"kind": "coined"}
+      note: "alethos, other, with urkis, one; nominative expression used as a pronoun, with no new case forms."
+      concept: "another"
+    - form: "rozelos urkis"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "the same; one and identical Usage: rozelos, equal, with urkis, one; lexical identity expression, not mere equality in value."
+      source: {"kind": "coined"}
+      note: "rozelos, equal, with urkis, one; lexical identity expression, not mere equality in value."
+      concept: "same"
+    - form: "eza kedis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "who?; which person? Usage: eza opens the question; kedis, who, supplies the questioned person."
+      source: {"kind": "coined"}
+      note: "eza opens the question; kedis, who, supplies the questioned person."
+      concept: "question-who"
+    - form: "eza kethis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "what?; which thing or action? Usage: eza opens the question; kethis is a new interrogative pronoun for things, beside kedis, who."
+      source: {"kind": "coined"}
+      note: "eza opens the question; kethis is a new interrogative pronoun for things, beside kedis, who."
+      concept: ["question-what", "expression-what"]
+    - form: "eza kethos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "which?; which one of a stated set? Usage: eza opens the question; kethos is a new interrogative adjective beside kedis, who; it agrees like an adjective in -os."
+      source: {"kind": "coined"}
+      note: "eza opens the question; kethos is a new interrogative adjective beside kedis, who; it agrees like an adjective in -os."
+      concept: "question-which"
+    - form: "eza ir kethon sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "where?; in which place? Usage: eza, question opener; ir, in; kethon, which, the neuter of kethos, agrees with sedon, place. The location sought can complete an ordinary question clause."
+      source: {"kind": "coined"}
+      note: "eza, question opener; ir, in; kethon, which, the neuter of kethos, agrees with sedon, place. The location sought can complete an ordinary question clause."
+      concept: "question-where"
+    - form: "eza kan"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "when?; at what time? Usage: eza, question opener, with kan, when."
+      source: {"kind": "coined"}
+      note: "eza, question opener, with kan, when."
+      concept: "question-when"
+    - form: "eza holethi kethis"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "why?; because of what? Usage: eza, question opener; holethi, because; kethis, what."
+      source: {"kind": "coined"}
+      note: "eza, question opener; holethi, because; kethis, what."
+      concept: "question-why"
+    - form: "eza sa kethis"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "how?; in what manner? Usage: eza, question opener; sa, as or like; kethis, what."
+      source: {"kind": "coined"}
+      note: "eza, question opener; sa, as or like; kethis, what."
+      concept: "question-how"
+    - form: "eza kethon rozon"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "how many?; what number? Usage: eza, question opener; kethon, which (neuter), agrees with rozon, number. Name the counted things with ol, as eza kethon rozon ol ulfoi, how many fish?"
+      source: {"kind": "coined"}
+      note: "eza, question opener; kethon, which (neuter), agrees with rozon, number. Name the counted things with ol, as eza kethon rozon ol ulfoi, how many fish?"
+      concept: "question-how-many"
+    - form: "eza kethon zolmon"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "how much?; what amount? Usage: eza, question opener; kethon, which (neuter), agrees with zolmon, amount. Name the measured substance with ol, as eza kethon zolmon ol ulmera, how much water?"
+      source: {"kind": "coined"}
+      note: "eza, question opener; kethon, which (neuter), agrees with zolmon, amount. Name the measured substance with ol, as eza kethon zolmon ol ulmera, how much water?"
+      concept: "question-how-much"
+    - form: "eza ol kedis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "whose?; of whom? Usage: eza, question opener; ol, of; kedis, who."
+      source: {"kind": "coined"}
+      note: "eza, question opener; ol, of; kedis, who."
+      concept: "question-whose"
+    - form: "eza fir kedis"
+      class: "pron"
+      field: "Numbers and grammar words"
+      gloss: "to whom? Usage: eza, question opener; fir, to; kedis, who; fa kedis is for whom."
+      source: {"kind": "coined"}
+      note: "eza, question opener; fir, to; kedis, who; fa kedis is for whom."
+      concept: "question-to-whom"
+    - form: "eza fos kethon sedon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "from where?; out of which place? Usage: eza, question opener; fos, out of; kethon, which (neuter), agrees with sedon, place."
+      source: {"kind": "coined"}
+      note: "eza, question opener; fos, out of; kethon, which (neuter), agrees with sedon, place."
+      concept: "question-from-where"
+    - form: "eza fa kethis"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "for what purpose?; for what end? Usage: eza, question opener; fa, for; kethis, what."
+      source: {"kind": "coined"}
+      note: "eza, question opener; fa, for; kethis, what."
+      concept: "question-for-what-purpose"
+    - form: "eza kethis dokazen"
+      class: "call"
+      field: "Numbers and grammar words"
+      gloss: "what do you mean?; what are you saying? Usage: eza, question opener; kethis, what; dokazen, you say, regular singular present of dokathen."
+      source: {"kind": "coined"}
+      note: "eza, question opener; kethis, what; dokazen, you say, regular singular present of dokathen."
+      concept: ["question-clarification", "expression-what-do-you-mean"]
+    - form: "varelin yarezor"
+      class: "call"
+      field: "Numbers and grammar words"
+      gloss: "yes; it is true Usage: Attested assertion with varelin, true, and yarezor, it is; used as an affirmative answer."
+      source: {"kind": "coined"}
+      note: "Attested assertion with varelin, true, and yarezor, it is; used as an affirmative answer."
+      concept: "yes"
+    - form: "ar yarezor"
+      class: "call"
+      field: "Numbers and grammar words"
+      gloss: "no; it is not so Usage: ar, not, directly before yarezor, it is; negative answer."
+      source: {"kind": "coined"}
+      note: "ar, not, directly before yarezor, it is; negative answer."
+      concept: "no"
+    - form: "sethdokandon"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "a lie; a statement made with intent to deceive"
+      source: {"kind": "coined"}
+      note: "seth-, false, before dokandon, a saying; lexical deceptive-statement compound. Intentional deception is part of this word."
+      concept: "lie-noun"
+    - form: "varlai yarezor"
+      class: "call"
+      field: "Numbers and grammar words"
+      gloss: "indeed; it truly is so Usage: varlai, truly, with yarezor, it is; a complete emphatic assertion, not a modifying adverb or a question."
+      source: {"kind": "coined"}
+      note: "varlai, truly, with yarezor, it is; a complete emphatic assertion, not a modifying adverb or a question."
+      concept: "indeed"
+    - form: "varelmai"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "certainly; with conviction"
+      source: {"kind": "coined"}
+      note: "Regular -ai adverb of varelmos, certain; conviction does not guarantee truth."
+      concept: "certainly"
+    - form: "zikarathi"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "probably; more likely than not"
+      source: {"kind": "coined"}
+      note: "Related to zikai, perhaps; degree of likelihood, not degree of confidence."
+      concept: "probably"
+    - form: "ar zikarathi"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "unlikely; probably not Usage: ar, not, before zikarathi, probably; negated likelihood claim."
+      source: {"kind": "coined"}
+      note: "ar, not, before zikarathi, probably; negated likelihood claim."
+      concept: "unlikely"
+    - form: "varelmos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "certain; convinced that something is so"
+      source: {"kind": "coined"}
+      note: "Related to varelon, belief; may be mistaken, unlike varelin, true."
+      concept: "certain"
+    - form: "anvarelmos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "uncertain; not convinced"
+      source: {"kind": "coined"}
+      concept: "uncertain"
+    - form: "sa okandon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "apparently; as it appears Usage: sa, as, with okandon, appearance; does not assert that the appearance is true."
+      source: {"kind": "coined"}
+      note: "sa, as, with okandon, appearance; does not assert that the appearance is true."
+      concept: "apparently"
+    - form: "denon vethor varelin yarezor"
+      class: "call"
+      field: "Numbers and grammar words"
+      gloss: "this is true, they say; supposedly this is true Usage: denon, this, is the first reported phrase; invariant vethor, says, follows it inside the report; varelin yarezor, is true, completes it. Name the reporter nearby; substitute the actual reported proposition while keeping vethor after its first word or phrase."
+      source: {"kind": "coined"}
+      note: "denon, this, is the first reported phrase; invariant vethor, says, follows it inside the report; varelin yarezor, is true, completes it. Name the reporter nearby; substitute the actual reported proposition while keeping vethor after its first word or phrase."
+      concept: "supposedly"
+    - form: "ir varelza"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "in fact; in truth Usage: ir, in, with varelza, truth; a factual corrective assertion."
+      source: {"kind": "coined"}
+      note: "ir, in, with varelza, truth; a factual corrective assertion."
+      concept: "in-fact"
+    - form: "tavemvarelathen"
+      class: "v"
+      field: "Numbers and grammar words"
+      gloss: "to doubt; to be divided in belief"
+      source: {"kind": "coined"}
+      concept: "doubt-verb"
+    - form: "zikai varelathen"
+      class: "v"
+      field: "Numbers and grammar words"
+      gloss: "to suspect; to believe that something may be so Usage: zikai, perhaps, with varelathen, believe; tentative belief."
+      source: {"kind": "coined"}
+      note: "zikai, perhaps, with varelathen, believe; tentative belief."
+      concept: "suspect"
+    - form: "ar kezdandar dokathen"
+      class: "v"
+      field: "Numbers and grammar words"
+      gloss: "to guess; to state something without knowing Usage: ar kezdandar, not knowing, participle of kezdathen, with dokathen, say; lexical tentative answer expression."
+      source: {"kind": "coined"}
+      note: "ar kezdandar, not knowing, participle of kezdathen, with dokathen, say; lexical tentative answer expression."
+      concept: "guess-verb"
+    - form: "varelon lendathen"
+      class: "v"
+      field: "Numbers and grammar words"
+      gloss: "to assume; to set something down as a belief Usage: varelon, belief, object of lendathen, set; treated as a premise without a claim of proof."
+      source: {"kind": "coined"}
+      note: "varelon, belief, object of lendathen, set; treated as a premise without a claim of proof."
+      concept: "assume-verb"
+    - form: "nazdelos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "correct; conforming to the relevant truth or standard"
+      source: {"kind": "coined"}
+      note: "Related to nazdis, judgment; not ethical right."
+      concept: "correct"
+    - form: "annazdelos"
+      class: "adj"
+      field: "Numbers and grammar words"
+      gloss: "incorrect; not conforming to the relevant truth or standard"
+      source: {"kind": "coined"}
+      concept: "incorrect"
+    - form: "alethvarelathen"
+      class: "v"
+      field: "Numbers and grammar words"
+      gloss: "to disagree; to hold a different judgment from someone"
+      source: {"kind": "coined"}
+      note: "Related to alethos, other, and varelathen, believe; the person disagreed with may be named with kona."
+      concept: "disagree"
+    - form: "sethdokemon"
+      class: "n n"
+      field: "Numbers and grammar words"
+      gloss: "a falsehood; an untrue assertion, whether mistaken or deceptive"
+      source: {"kind": "coined"}
+      note: "seth-, false, before dokemon, speech; does not imply intent to deceive."
+      concept: "falsehood"
+    - form: "naren"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "but; introduces a contrast"
+      source: {"kind": "coined"}
+      concept: "but"
+    - form: "ul ar"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "nor; and not Usage: ul, and, with ar, not; ar directly precedes the following negated predicate."
+      source: {"kind": "coined"}
+      note: "ul, and, with ar, not; ar directly precedes the following negated predicate."
+      concept: "nor"
+    - form: "fa denon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "therefore; for this reason Usage: fa, for, with denon, this (neuter pointing word); the previous proposition supplies the reason."
+      source: {"kind": "coined"}
+      note: "fa, for, with denon, this (neuter pointing word); the previous proposition supplies the reason."
+      concept: "therefore"
+    - form: "zai"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "if; introduces a condition"
+      source: {"kind": "coined"}
+      concept: "if"
+    - form: "zai ar"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "unless; if not Usage: zai, if, with ar, not; ar directly precedes the conditional predicate."
+      source: {"kind": "coined"}
+      note: "zai, if, with ar, not; ar directly precedes the conditional predicate."
+      concept: "unless"
+    - form: "zai denon ar yarezor tha tigamen"
+      class: "call"
+      field: "Numbers and grammar words"
+      gloss: "otherwise I go; if this is not so, then I go Usage: zai, if; denon, this; ar yarezor, is not; tha, then; tigamen, I go. The previous proposition supplies this; replace tigamen with the actual consequence."
+      source: {"kind": "coined"}
+      note: "zai, if; denon, this; ar yarezor, is not; tha, then; tigamen, I go. The previous proposition supplies this; replace tigamen with the actual consequence."
+      concept: "otherwise"
+    - form: "narthi"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "although; even given that"
+      source: {"kind": "coined"}
+      concept: "although"
+    - form: "narthai"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "however; nevertheless; despite what was just said"
+      source: {"kind": "coined"}
+      note: "Related to narthi, although."
+      concept: ["however", "nevertheless"]
+    - form: "narthir"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "despite; in spite of"
+      source: {"kind": "coined"}
+      concept: "despite"
+    - form: "alethai"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "instead; in place of the previously named alternative"
+      source: {"kind": "coined"}
+      note: "Regular -ai adverb of alethos, other; lexical alternative-selection use."
+      concept: "instead"
+    - form: "ar sa"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "unlike; not like Usage: ar, not, with sa, like, before the comparison object."
+      source: {"kind": "coined"}
+      note: "ar, not, with sa, like, before the comparison object."
+      concept: "unlike"
+    - form: "mazer"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "than; introduces a comparison standard"
+      source: {"kind": "coined"}
+      concept: "than"
+    - form: "ves urkis ves alethos"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "either this or the other Usage: ves, or, before urkis, one, and before alethos, the other (adjective used as noun)."
+      source: {"kind": "coined"}
+      note: "ves, or, before urkis, one, and before alethos, the other (adjective used as noun)."
+      concept: "either-alternative"
+    - form: "ar urkis ul ar alethos"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "neither this nor the other Usage: ar, not, before urkis, one, and alethos, other, linked by ul, and."
+      source: {"kind": "coined"}
+      note: "ar, not, before urkis, one, and alethos, other, linked by ul, and."
+      concept: "neither-alternative"
+    - form: "ul urkis ul alethos"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "both this and the other Usage: ul, and, before urkis, one, and before alethos, other."
+      source: {"kind": "coined"}
+      note: "ul, and, before urkis, one, and before alethos, other."
+      concept: "both-conjunction"
+    - form: "zai lokazor ves ar lokazor"
+      class: "conj"
+      field: "Numbers and grammar words"
+      gloss: "whether he comes or does not come Usage: zai, if; lokazor, he comes; ves, or; ar lokazor, he does not come. Both alternatives are stated. Example: ar kezdamen zai lokazor ves ar lokazor, I do not know whether he comes or not; replace the repeated predicate to ask another open alternative."
+      source: {"kind": "coined"}
+      note: "zai, if; lokazor, he comes; ves, or; ar lokazor, he does not come. Both alternatives are stated. Example: ar kezdamen zai lokazor ves ar lokazor, I do not know whether he comes or not; replace the repeated predicate to ask another open alternative."
+      concept: "whether"
+    - form: "denon yarezor"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "that is; this means Usage: denon, this, with yarezor, is; introduces an explanatory restatement."
+      source: {"kind": "coined"}
+      note: "denon, this, with yarezor, is; introduces an explanatory restatement."
+      concept: "that-is"
+    - form: "harlen dokathen"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "namely; to say its name Usage: harlen, name, object of dokathen, say; introduces an exact identification."
+      source: {"kind": "coined"}
+      note: "harlen, name, object of dokathen, say; introduces an exact identification."
+      concept: "namely"
+    - form: "sa denon"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "for example; as this instance Usage: sa, as, with denon, this; introduces an instance."
+      source: {"kind": "coined"}
+      note: "sa, as, with denon, this; introduces an instance."
+      concept: "for-example"
+    - form: "fos denon"
+      class: "part"
+      field: "Numbers and grammar words"
+      gloss: "except this; with this left outside the set Usage: fos, outside, with denon, this; replace denon with the excluded member."
+      source: {"kind": "coined"}
+      note: "fos, outside, with denon, this; replace denon with the excluded member."
+      concept: "except"
+    - form: "urthai"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "only; solely; with all alternatives excluded"
+      source: {"kind": "coined"}
+      note: "Related to urkis, one."
+      concept: "only"
+    - form: "zethar"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "even; includes an unexpected or extreme instance"
+      source: {"kind": "coined"}
+      note: "New scalar focus particle used adverbially."
+      concept: "even"
+    - form: "kona denon"
+      class: "adv"
+      field: "Numbers and grammar words"
+      gloss: "also; together with this Usage: kona, with, and denon, this; adds an item or proposition to the preceding one."
+      source: {"kind": "coined"}
+      note: "kona, with, and denon, this; adds an item or proposition to the preceding one."
+      concept: "also"
+    - form: "melvarathi nizelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "tiny; very small in absolute size Usage: melvarathi, greatly, with nizelos, small; not merely smallest among a set of large objects."
+      source: {"kind": "coined"}
+      note: "melvarathi, greatly, with nizelos, small; not merely smallest among a set of large objects."
+      concept: "tiny"
+    - form: "melvarathi solteros"
+      class: "adj"
+      field: "Qualities"
+      gloss: "huge; very large in absolute size Usage: melvarathi, greatly, with solteros, large; not merely largest in a small comparison set."
+      source: {"kind": "coined"}
+      note: "melvarathi, greatly, with solteros, large; not merely largest in a small comparison set."
+      concept: "huge"
+    - form: "nizaros"
+      class: "adj"
+      field: "Qualities"
+      gloss: "short in length"
+      source: {"kind": "coined"}
+      note: "Related to nizelos, small; distinct from short duration."
+      concept: "short"
+    - form: "thalteros"
+      class: "adj"
+      field: "Qualities"
+      gloss: "tall; of great height"
+      source: {"kind": "coined"}
+      concept: "tall"
+    - form: "dalmos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "wide; broad from side to side"
+      source: {"kind": "coined"}
+      concept: "wide"
+    - form: "andalmos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "narrow; of small width"
+      source: {"kind": "coined"}
+      concept: "narrow"
+    - form: "ansolkimos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "light in weight"
+      source: {"kind": "coined"}
+      note: "an-, reverse, with solkimos, weighty; does not mean pale in colour."
+      concept: "light-weight"
+    - form: "ralvos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "fast; moving or happening quickly"
+      source: {"kind": "coined"}
+      concept: "fast"
+    - form: "anralvos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "slow; moving or happening at a low speed"
+      source: {"kind": "coined"}
+      concept: "slow"
+    - form: "dunelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "easy; requiring little effort"
+      source: {"kind": "coined"}
+      note: "Related to dunathen, be able; not a claim of permission."
+      concept: "easy"
+    - form: "andunelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "difficult; requiring much effort"
+      source: {"kind": "coined"}
+      note: "an-, reverse, with dunelos, easy; not hard texture."
+      concept: "difficult"
+    - form: "dayazos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "better; more good"
+      source: {"kind": "coined"}
+      note: "Documented comparative -azos of dayos, good."
+      concept: "better"
+    - form: "korethazos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "worse; more bad"
+      source: {"kind": "coined"}
+      note: "Documented comparative -azos of korethos, bad."
+      concept: "worse"
+    - form: "korethimmos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "worst; most bad"
+      source: {"kind": "coined"}
+      note: "Documented superlative -immos of korethos, bad."
+      concept: "worst"
+    - form: "solkimos ol yerpalon"
+      class: "adj"
+      field: "Qualities"
+      gloss: "important; weighty in what is owed or at stake Usage: solkimos, weighty, qualified by ol yerpalon, of duty; lexical importance phrase."
+      source: {"kind": "coined"}
+      note: "solkimos, weighty, qualified by ol yerpalon, of duty; lexical importance phrase."
+      concept: "important"
+    - form: "nizelos ol yerpalon"
+      class: "adj"
+      field: "Qualities"
+      gloss: "trivial; small in consequence or importance Usage: nizelos, small, qualified by ol yerpalon, of duty; lexical importance phrase."
+      source: {"kind": "coined"}
+      note: "nizelos, small, qualified by ol yerpalon, of duty; lexical importance phrase."
+      concept: "trivial"
+    - form: "yerpelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "required; necessary; needed for an act or purpose"
+      source: {"kind": "coined"}
+      concept: ["necessary", "required"]
+    - form: "verdakis soltera kerandar"
+      class: "adj"
+      field: "Qualities"
+      gloss: "valuable; having a high price or worth Usage: verdakis, price or worth, with feminine soltera, large, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "verdakis, price or worth, with feminine soltera, large, object of kerandar, having."
+      concept: "valuable"
+    - form: "ar verdakis kerandar"
+      class: "adj"
+      field: "Qualities"
+      gloss: "worthless; having no worth Usage: ar verdakis, no worth, object of kerandar, having."
+      source: {"kind": "coined"}
+      note: "ar verdakis, no worth, object of kerandar, having."
+      concept: "worthless"
+    - form: "zumbrandar"
+      class: "adj"
+      field: "Qualities"
+      gloss: "useful; helping a purpose"
+      source: {"kind": "coined"}
+      note: "Present participle of zumbrathen, help."
+      concept: "useful"
+    - form: "ar zumbrandar"
+      class: "adj"
+      field: "Qualities"
+      gloss: "useless; not helping a purpose Usage: ar, not, before zumbrandar, helping."
+      source: {"kind": "coined"}
+      note: "ar, not, before zumbrandar, helping."
+      concept: "useless"
+    - form: "kermthos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "broken; damaged by breaking"
+      source: {"kind": "coined"}
+      note: "Past participle of kermathen, break: kerm- plus -thos; agrees with its noun."
+      concept: "broken"
+    - form: "anzetimos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "incomplete; not whole"
+      source: {"kind": "coined"}
+      concept: "incomplete"
+    - form: "varelthos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "honest; sincere and truthful in intention"
+      source: {"kind": "coined"}
+      note: "New ethical adjective beside varelza, truth; sincerity is distinct from never making a factual mistake."
+      concept: "honest"
+    - form: "anvarelthos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "dishonest; intentionally untruthful"
+      source: {"kind": "coined"}
+      concept: "dishonest"
+    - form: "melvarathi"
+      class: "adv"
+      field: "Qualities"
+      gloss: "very; greatly"
+      source: {"kind": "coined"}
+      note: "Already attested regular -athi adverb of melvar, great."
+      concept: "very"
+    - form: "melvarimmai"
+      class: "adv"
+      field: "Qualities"
+      gloss: "extremely; to the greatest degree"
+      source: {"kind": "coined"}
+      note: "Documented superlative adverb -immai applied to melvar, great."
+      concept: "extremely"
+    - form: "ethris zolmon"
+      class: "adv"
+      field: "Qualities"
+      gloss: "somewhat; to some extent Usage: ethris, some, with zolmon, amount; a degree phrase."
+      source: {"kind": "coined"}
+      note: "ethris, some, with zolmon, amount; a degree phrase."
+      concept: "somewhat"
+    - form: "nizelai"
+      class: "adv"
+      field: "Qualities"
+      gloss: "slightly; to a small degree"
+      source: {"kind": "coined"}
+      note: "Regular -ai adverb of nizelos, small."
+      concept: "slightly"
+    - form: "sathai nizelai"
+      class: "adv"
+      field: "Qualities"
+      gloss: "barely; sufficiently by only a small margin Usage: sathai, sufficiently, with nizelai, slightly; names a narrow margin of sufficiency."
+      source: {"kind": "coined"}
+      note: "sathai, sufficiently, with nizelai, slightly; names a narrow margin of sufficiency."
+      concept: "barely"
+    - form: "mazeron mazer sathos"
+      class: "adv"
+      field: "Qualities"
+      gloss: "too much; more than enough Usage: mazeron, more; mazer, than; sathos, enough."
+      source: {"kind": "coined"}
+      note: "mazeron, more; mazer, than; sathos, enough."
+      concept: "too-much"
+    - form: "nizeron mazer sathos"
+      class: "adv"
+      field: "Qualities"
+      gloss: "too little; less than enough Usage: nizeron, less; mazer, than; sathos, enough."
+      source: {"kind": "coined"}
+      note: "nizeron, less; mazer, than; sathos, enough."
+      concept: "too-little"
+    - form: "rozelos sa"
+      class: "adj"
+      field: "Qualities"
+      gloss: "similar; equal in some respect to Usage: rozelos, equal, with sa, like; the compared thing follows sa and the relevant respect comes from context."
+      source: {"kind": "coined"}
+      note: "rozelos, equal, with sa, like; the compared thing follows sa and the relevant respect comes from context."
+      concept: "similar"
+    - form: "anrozelos"
+      class: "adj"
+      field: "Qualities"
+      gloss: "opposite; reversed in position, direction or character"
+      source: {"kind": "coined"}
+      note: "an-, reversal, beside rozelos, equal; lexical adjective distinct from merely different."
+      concept: "opposite"
+    - form: "ar dunathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to be unable; cannot do an action Usage: ar directly precedes dunathen, be able; put the action's infinitive before this phrase. This denies ability, not permission."
+      source: {"kind": "coined"}
+      note: "ar directly precedes dunathen, be able; put the action's infinitive before this phrase. This denies ability, not permission."
+      concept: "cannot"
+    - form: "dunaros"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "possible; able to occur"
+      source: {"kind": "coined"}
+      note: "Related to dunathen, be able; distinct from effort adjective dunelos, easy."
+      concept: "possible"
+    - form: "andunaros"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "impossible; unable to occur"
+      source: {"kind": "coined"}
+      concept: "impossible"
+    - form: "yestharon yarezor"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "it is lawful; one may act; permission is granted Usage: Attested permission construction; add the permitted action's infinitive. The impersonal neuter yestharon does not assert ability."
+      source: {"kind": "coined"}
+      note: "Attested permission construction; add the permitted action's infinitive. The impersonal neuter yestharon does not assert ability."
+      concept: "may-permission"
+    - form: "zikai yarethen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "might be; may possibly occur Usage: zikai, perhaps, with yarethen, be; append the event or state in the ordinary predicate position. Does not grant permission."
+      source: {"kind": "coined"}
+      note: "zikai, perhaps, with yarethen, be; append the event or state in the ordinary predicate position. Does not grant permission."
+      concept: "might-possibility"
+    - form: "orfenathen ar tambathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "must not do an action; owe nonperformance Usage: Attested obligation construction: orfenathen, owe, with ar, not, directly before the action's infinitive; replace tambathen, do, with that action."
+      source: {"kind": "coined"}
+      note: "Attested obligation construction: orfenathen, owe, with ar, not, directly before the action's infinitive; replace tambathen, do, with that action."
+      concept: "must-not"
+    - form: "dayon yarezor tambathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "one ought to do it; doing it is good Usage: dayon, good (neuter), with yarezor, it is, and tambathen, do, naming the recommended act; replace the infinitive for the actual advice."
+      source: {"kind": "coined"}
+      note: "dayon, good (neuter), with yarezor, it is, and tambathen, do, naming the recommended act; replace the infinitive for the actual advice."
+      concept: "ought"
+    - form: "ar yerpelos"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "optional; not required Usage: ar, not, before yerpelos, required; does not imply forbidden."
+      source: {"kind": "coined"}
+      note: "ar, not, before yerpelos, required; does not imply forbidden."
+      concept: "optional"
+    - form: "ar yestharos"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "forbidden; not lawful or permitted Usage: ar, not, before yestharos, lawful; agrees with the described action or claim."
+      source: {"kind": "coined"}
+      note: "ar, not, before yestharos, lawful; agrees with the described action or claim."
+      concept: "forbidden"
+    - form: "yestharon dokathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to permit; to declare an action lawful Usage: yestharon, lawful (neuter), object of dokathen, say; name the permitted act before this formula."
+      source: {"kind": "coined"}
+      note: "yestharon, lawful (neuter), object of dokathen, say; name the permitted act before this formula."
+      concept: "permit"
+    - form: "ar yestharon dokathen"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "to prohibit; to declare an action not lawful Usage: ar yestharon, not lawful, as the declared content of dokathen, say; the prohibition is directed at a named act."
+      source: {"kind": "coined"}
+      note: "ar yestharon, not lawful, as the declared content of dokathen, say; the prohibition is directed at a named act."
+      concept: "prohibit"
+    - form: "anrevothos"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "constrained; not free to act"
+      source: {"kind": "coined"}
+      concept: "constrained"
+    - form: "avandar"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "willing; wanting to do the proposed act"
+      source: {"kind": "coined"}
+      note: "Present participle of avethen, want; an action infinitive may specify the act."
+      concept: "willing"
+    - form: "ar avandar"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "unwilling; not wanting to do the proposed act Usage: ar, not, before avandar, wanting."
+      source: {"kind": "coined"}
+      note: "ar, not, before avandar, wanting."
+      concept: "unwilling"
+    - form: "avrenos"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "intended; deliberately wanted as an outcome or act"
+      source: {"kind": "coined"}
+      note: "New intention adjective beside avethen, want; deliberateness is part of its lexical meaning."
+      concept: "intended"
+    - form: "anavrenos"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "accidental; unintentional; not deliberately brought about"
+      source: {"kind": "coined"}
+      note: "an-, reverse, with avrenos, intended; an intended but unwelcome event is not accidental."
+      concept: "accidental"
+    - form: "dayon nardelon"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "hello; good day Usage: dayon, good (neuter), agrees with nardelon, day; ordinary daytime greeting."
+      source: {"kind": "coined"}
+      note: "dayon, good (neuter), agrees with nardelon, day; ordinary daytime greeting."
+      concept: "hello"
+    - form: "voza aithar tigathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "goodbye; go well Usage: voza, command marker; aithar, well, the documented irregular adverb; tigathen, go."
+      source: {"kind": "coined"}
+      note: "voza, command marker; aithar, well, the documented irregular adverb; tigathen, go."
+      concept: "goodbye"
+    - form: "dayon lokandon"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "welcome; a good coming Usage: dayon, good (neuter), agrees with lokandon, coming, from lokathen and -andon."
+      source: {"kind": "coined"}
+      note: "dayon, good (neuter), agrees with lokandon, coming, from lokathen and -andon."
+      concept: "expression-welcome"
+    - form: "avemen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "please; I would like it"
+      source: {"kind": "coined"}
+      note: "Use avemen, regular I-form of avethen, want; followed by the requested action's infinitive, without an emphatic pronoun."
+      concept: "expression-please"
+    - form: "orfenon memramen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "thank you; I remember the kindness Usage: orfenon, favor, object of memramen, I remember, regular present of memrathen."
+      source: {"kind": "coined"}
+      note: "orfenon, favor, object of memramen, I remember, regular present of memrathen."
+      concept: "expression-thank-you"
+    - form: "ar nezora yarezor"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "you are welcome; there is no debt Usage: ar nezora, no debt, with yarezor, is; response to thanks."
+      source: {"kind": "coined"}
+      note: "ar nezora, no debt, with yarezor, is; response to thanks."
+      concept: "expression-youre-welcome"
+    - form: "voza linkathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "excuse me; please let me be or let me pass Usage: voza, command marker, with linkathen, let be or let go; a polite interruption or request for room."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with linkathen, let be or let go; a polite interruption or request for room."
+      concept: "expression-excuse-me"
+    - form: "zelmira keramen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "I am sorry; I have sorrow for what happened Usage: zelmira, sorrow, object of keramen, I have; expresses regret, not physical pain."
+      source: {"kind": "coined"}
+      note: "zelmira, sorrow, object of keramen, I have; expresses regret, not physical pain."
+      concept: "expression-sorry"
+    - form: "voza anorfenathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "forgive me Usage: voza, command marker, with anorfenathen, forgive; the speaker is the understood recipient of forgiveness."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with anorfenathen, forgive; the speaker is the understood recipient of forgiveness."
+      concept: "expression-forgive-me"
+    - form: "varelin yarezor varlai"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "of course; it is indeed so Usage: varelin, true; yarezor, it is; varlai, truly; emphatic confirmation."
+      source: {"kind": "coined"}
+      note: "varelin, true; yarezor, it is; varlai, truly; emphatic confirmation."
+      concept: "of-course"
+    - form: "voza thavrelathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "listen! Usage: voza, command marker, with thavrelathen, listen; the addressee is understood."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with thavrelathen, listen; the addressee is understood."
+      concept: "expression-listen"
+    - form: "voza silkathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "look! Usage: voza, command marker, with silkathen, look."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with silkathen, look."
+      concept: "expression-look"
+    - form: "voza sistethen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "wait! Usage: voza, command marker, with sistethen, wait."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with sistethen, wait."
+      concept: "expression-wait"
+    - form: "voza ir denon sedon lokathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "come here! Usage: voza, command marker; ir denon sedon, here; lokathen, come; destination before verb."
+      source: {"kind": "coined"}
+      note: "voza, command marker; ir denon sedon, here; lokathen, come; destination before verb."
+      concept: "expression-come-here"
+    - form: "voza fos tigathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "go away! Usage: voza, command marker; fos, out; tigathen, go."
+      source: {"kind": "coined"}
+      note: "voza, command marker; fos, out; tigathen, go."
+      concept: "expression-go-away"
+    - form: "voza zumbrathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "help! Usage: voza, command marker, with zumbrathen, help."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with zumbrathen, help."
+      concept: "expression-help"
+    - form: "voza sistathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "stop! Usage: voza, command marker, with sistathen, stop."
+      source: {"kind": "coined"}
+      note: "voza, command marker, with sistathen, stop."
+      concept: "expression-stop"
+    - form: "voza antigai dokathen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "pardon?; please say that again Usage: voza, command marker; antigai, again; dokathen, say."
+      source: {"kind": "coined"}
+      note: "voza, command marker; antigai, again; dokathen, say."
+      concept: "expression-pardon"
+    - form: "lambiremen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "I understand"
+      source: {"kind": "coined"}
+      note: "Regular first-person present of lambirethen, understand; no emphatic pronoun."
+      concept: "expression-i-understand"
+    - form: "ar lambiremen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "I do not understand Usage: ar, not, directly before lambiremen, I understand."
+      source: {"kind": "coined"}
+      note: "ar, not, directly before lambiremen, I understand."
+      concept: "expression-i-do-not-understand"
+    - form: "eza sa kethis dokazen"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "how do you say this?; in what manner do you say it? Usage: eza, question opener; sa kethis, like what; dokazen, you say. Name the desired expression before dokazen."
+      source: {"kind": "coined"}
+      note: "eza, question opener; sa kethis, like what; dokazen, you say. Name the desired expression before dokazen."
+      concept: "expression-how-do-you-say"
+    - form: "eza kethis harlen ol denon"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "what is this called?; what is the name of this? Usage: eza, question opener; kethis, what; harlen, name; ol denon, of this. Verbless question."
+      source: {"kind": "coined"}
+      note: "eza, question opener; kethis, what; harlen, name; ol denon, of this. Verbless question."
+      concept: "expression-what-is-this-called"
+    - form: "eza varlai"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "really?; requesting confirmation or expressing surprise Usage: Attested formal question with eza, question opener, and varlai, truly; preserves its ironic questioning use."
+      source: {"kind": "coined"}
+      note: "Attested formal question with eza, question opener, and varlai, truly; preserves its ironic questioning use."
+      concept: "expression-really"
+    - form: "ar urkis"
+      class: "call"
+      field: "Learning, speech and the letters"
+      gloss: "not at all; not even one degree Usage: ar, not, before urkis, one; an emphatic negative response."
+      source: {"kind": "coined"}
+      note: "ar, not, before urkis, one; an emphatic negative response."
+      concept: "expression-not-at-all"
+    - form: "verezos"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a person; a human being"
+      source: {"kind": "coined"}
+      note: "Related to verosa, citizen; does not require citizenship or freedom."
+      concept: ["person", "human"]
+    - form: "verezoi"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "people; human beings"
+      source: {"kind": "coined"}
+      note: "Regular plural of verezos, person; already plural, not a singular nation or ethnicity."
+      concept: "people"
+    - form: "orvenos"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a man; an adult male person"
+      source: {"kind": "coined"}
+      note: "New ordinary person noun; not the bird noun orven."
+      concept: "man"
+    - form: "verezena"
+      class: "n f"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a woman; an adult female person"
+      source: {"kind": "coined"}
+      note: "Related to verezos, person; not a feminine variant of a different meaning."
+      concept: "woman"
+    - form: "nurethon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a boy; a male child"
+      source: {"kind": "coined"}
+      note: "Related to nurethos, son; age-and-sex sense rather than kin relationship."
+      concept: "boy"
+    - form: "nurezon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a girl; a female child"
+      source: {"kind": "coined"}
+      note: "Related to nuretha, daughter. Like nurizon and nurethon, it is grammatically neuter because the person is a child; sex does not change that childhood class."
+      concept: "girl"
+    - form: "ar nurizos"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "an adult; a mature person Usage: Negated nurizos, young, used as a noun; feminine ar nuriza for a woman."
+      source: {"kind": "coined"}
+      note: "Negated nurizos, young, used as a noun; feminine ar nuriza for a woman."
+      concept: "adult"
+    - form: "urkis verezos"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "an individual; one person considered separately Usage: urkis, one, with verezos, person."
+      source: {"kind": "coined"}
+      note: "urkis, one, with verezos, person."
+      concept: "individual"
+    - form: "konalon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a group; an associated body of people or things"
+      source: {"kind": "coined"}
+      concept: "group"
+    - form: "verezalon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a crowd; a gathered mass of people"
+      source: {"kind": "coined"}
+      note: "verez-, person, with -alon, the whole body; does not imply an organized community."
+      concept: "crowd"
+    - form: "sorthalon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a clan; a kin group tracing common descent"
+      source: {"kind": "coined"}
+      concept: "clan"
+    - form: "konalon ol sorthalar"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a tribe; an associated group of clans Usage: konalon, group, of sorthalar, clans, the regular plural of sorthalon."
+      source: {"kind": "coined"}
+      note: "konalon, group, of sorthalar, clans, the regular plural of sorthalon."
+      concept: "tribe"
+    - form: "sedkonalon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a community; people sharing a place or way of life"
+      source: {"kind": "coined"}
+      note: "sed-, place, before konalon, associated group; lexical community noun."
+      concept: "community"
+    - form: "orzandar"
+      class: "n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a ruler; one who rules"
+      source: {"kind": "coined"}
+      note: "Present participle of orzathen, rule, used as a noun; includes rulers below the sovereign."
+      concept: "ruler"
+    - form: "tambandar"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a worker; a person doing work"
+      source: {"kind": "coined"}
+      note: "Present participle of tambathen, do or make, used as a noun."
+      concept: "worker"
+    - form: "palmezos"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "an artisan; a person skilled in a craft"
+      source: {"kind": "coined"}
+      concept: "artisan"
+    - form: "zirothharlen"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a title; a name of rank or office"
+      source: {"kind": "coined"}
+      note: "ziroth-, rank, before harlen, name."
+      concept: "title"
+    - form: "zesima ankela"
+      class: "n f"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a tradition; an old inherited custom Usage: zesima, custom, with feminine ankela, old."
+      source: {"kind": "coined"}
+      note: "zesima, custom, with feminine ankela, old."
+      concept: "tradition"
+    - form: "fenthos"
+      class: "n m"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a rule; a stated standard governing conduct"
+      source: {"kind": "coined"}
+      concept: "rule"
+    - form: "orzandon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a command; an act of directing someone"
+      source: {"kind": "coined"}
+      concept: "command-noun"
+    - form: "solkandon ol orzandon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "obedience; following a command Usage: solkandon, following, from solkatora with -andon, of orzandon, command."
+      source: {"kind": "coined"}
+      note: "solkandon, following, from solkatora with -andon, of orzandon, command."
+      concept: "obedience"
+    - form: "yesthvelda"
+      class: "n f"
+      field: "Precedence, patronage and what is owed"
+      gloss: "justice; fair regard for each person's rights and due"
+      source: {"kind": "coined"}
+      note: "New ethical noun beside yestharos, within one's right, and velda, honor; not merely a court's judgment."
+      concept: "justice"
+    - form: "anyesthvelda"
+      class: "n f"
+      field: "Precedence, patronage and what is owed"
+      gloss: "injustice; denial of a person's rights or due"
+      source: {"kind": "coined"}
+      concept: "injustice"
+    - form: "dayos ol yerpalon"
+      class: "adj"
+      field: "Precedence, patronage and what is owed"
+      gloss: "right; morally good or acceptable Usage: dayos, good, qualified by ol yerpalon, of duty; ethical sense distinct from correct or right-hand direction."
+      source: {"kind": "coined"}
+      note: "dayos, good, qualified by ol yerpalon, of duty; ethical sense distinct from correct or right-hand direction."
+      concept: "right-ethical"
+    - form: "korethos ol yerpalon"
+      class: "adj"
+      field: "Precedence, patronage and what is owed"
+      gloss: "wrong; morally bad or unacceptable Usage: korethos, bad, qualified by ol yerpalon, of duty; does not merely mean unlawful."
+      source: {"kind": "coined"}
+      note: "korethos, bad, qualified by ol yerpalon, of duty; does not merely mean unlawful."
+      concept: "wrong-ethical"
+    - form: "revothon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "freedom; the condition of being free"
+      source: {"kind": "coined"}
+      concept: "freedom"
+    - form: "anrevothon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "captivity; the condition of being held and not free to leave"
+      source: {"kind": "coined"}
+      note: "an-, reverse, beside revothon, freedom; lexical captivity sense, not every constraint."
+      concept: "captivity"
+    - form: "daimandon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a gift; something given"
+      source: {"kind": "coined"}
+      concept: "gift"
+    - form: "delandon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "an exchange; a trading of one thing for another"
+      source: {"kind": "coined"}
+      concept: "exchange-noun"
+    - form: "zolmon frenkon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "wealth; a great amount of property or means Usage: zolmon, much (neuter adjective), agrees with frenkon, property."
+      source: {"kind": "coined"}
+      note: "zolmon, much (neuter adjective), agrees with frenkon, property."
+      concept: "wealth"
+    - form: "ithron frenkon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "poverty; little property or means Usage: ithron, little (neuter adjective), agrees with frenkon, property."
+      source: {"kind": "coined"}
+      note: "ithron, little (neuter adjective), agrees with frenkon, property."
+      concept: "poverty"
+    - form: "kerandon ol frenkon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "ownership; the holding of property as one's own Usage: kerandon, holding or having, of frenkon, property; ownership rather than temporary physical possession."
+      source: {"kind": "coined"}
+      note: "kerandon, holding or having, of frenkon, property; ownership rather than temporary physical possession."
+      concept: "ownership"
+    - form: "lathon keltherthon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "a secret; a matter kept hidden Usage: lathon, thing or matter, with neuter keltherthon, hidden, from keltherathen, hide, plus -thos. General concealed information or affairs, not only the craft secret kelthon."
+      source: {"kind": "coined"}
+      note: "lathon, thing or matter, with neuter keltherthon, hidden, from keltherathen, hide, plus -thos. General concealed information or affairs, not only the craft secret kelthon."
+      concept: "secret"
+    - form: "kezdandon"
+      class: "n n"
+      field: "Precedence, patronage and what is owed"
+      gloss: "knowledge; what is known"
+      source: {"kind": "coined"}
+      concept: "knowledge"
+    - form: "lathon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a thing; an object or matter referred to"
+      source: {"kind": "coined"}
+      concept: "thing"
+    - form: "yarelon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a being; an entity that exists"
+      source: {"kind": "coined"}
+      concept: "being"
+    - form: "linthima ol lathon"
+      class: "n f"
+      field: "Learning, speech and the letters"
+      gloss: "an origin; the source from which a thing comes Usage: linthima, spring or source, of lathon, thing; lexical origin use, with the thing named after ol."
+      source: {"kind": "coined"}
+      note: "linthima, spring or source, of lathon, thing; lexical origin use, with the thing named after ol."
+      concept: "origin"
+    - form: "holimandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a beginning; the start of an event or thing"
+      source: {"kind": "coined"}
+      concept: "beginning"
+    - form: "orthemandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "an end; the stopping point of an event or thing"
+      source: {"kind": "coined"}
+      note: "From orthemathen, end, with -andon; not the verb itself."
+      concept: "end-noun"
+    - form: "zetimandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "completion; the state of an act being wholly done"
+      source: {"kind": "coined"}
+      note: "New abstract noun beside zetimos, whole; names the completed state, not only an object made."
+      concept: "completion"
+    - form: "pelzandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a change; an alteration of state or form"
+      source: {"kind": "coined"}
+      concept: "change-noun"
+    - form: "pelzandon ol yenthamis"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a transformation; a change of form or appearance Usage: pelzandon, change, of yenthamis, face; lexical form-changing sense."
+      source: {"kind": "coined"}
+      note: "pelzandon, change, of yenthamis, face; lexical form-changing sense."
+      concept: "transformation"
+    - form: "solthen"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a part; one portion of a larger whole"
+      source: {"kind": "coined"}
+      note: "Related to soltha, half; not limited to an equal share."
+      concept: "part"
+    - form: "holethon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a cause; what brings about an event or state"
+      source: {"kind": "coined"}
+      concept: "cause"
+    - form: "tambandon ol holethon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "an effect; what is brought about by a cause Usage: tambandon, a thing done or made, of holethon, cause; result expression."
+      source: {"kind": "coined"}
+      note: "tambandon, a thing done or made, of holethon, cause; result expression."
+      concept: "effect"
+    - form: "zenothon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a reason; an explanation or ground for a judgment"
+      source: {"kind": "coined"}
+      concept: "reason"
+    - form: "tambavon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a purpose; the intended end of an action"
+      source: {"kind": "coined"}
+      concept: "purpose"
+    - form: "lathen"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a kind; a class of things sharing a nature"
+      source: {"kind": "coined"}
+      concept: "kind"
+    - form: "yarelos"
+      class: "adj"
+      field: "Learning, speech and the letters"
+      gloss: "real; existing in fact"
+      source: {"kind": "coined"}
+      note: "Related to yarethen, be; not merely sincerely believed."
+      concept: "real"
+    - form: "anyarelos"
+      class: "adj"
+      field: "Learning, speech and the letters"
+      gloss: "unreal; not existing in fact"
+      source: {"kind": "coined"}
+      concept: "unreal"
+    - form: "nurelos"
+      class: "adj"
+      field: "Learning, speech and the letters"
+      gloss: "natural; arising through the ordinary growth or workings of the world"
+      source: {"kind": "coined"}
+      note: "Related to nurethen, grow; not restricted to plants."
+      concept: "natural"
+    - form: "annurelos"
+      class: "adj"
+      field: "Learning, speech and the letters"
+      gloss: "unnatural; contrary to the ordinary growth or workings of the world"
+      source: {"kind": "coined"}
+      concept: "unnatural"
+    - form: "memrandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "remembering; a remembrance"
+      source: {"kind": "coined"}
+    - form: "dunandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "ability; the capacity to do something"
+      source: {"kind": "coined"}
+    - form: "anhalvandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a loss; the losing of something"
+      source: {"kind": "coined"}
+    - form: "thaurandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "keeping; guarding"
+      source: {"kind": "coined"}
+    - form: "kerandar"
+      class: "adj"
+      field: "Learning, speech and the letters"
+      gloss: "holding; having"
+      source: {"kind": "coined"}
+      note: "Regular -andar participle of kerathen, hold or have."
+    - form: "konandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "association; being together"
+      source: {"kind": "coined"}
+    - form: "kerandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "holding; having"
+      source: {"kind": "coined"}
+    - form: "nembandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a fall; falling"
+      source: {"kind": "coined"}
+    - form: "pethandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a question; an asking"
+      source: {"kind": "coined"}
+    - form: "kordandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "fighting; an engagement in combat"
+      source: {"kind": "coined"}
+    - form: "lokandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a coming; an arrival"
+      source: {"kind": "coined"}
+    - form: "solkandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "following; attendance"
+      source: {"kind": "coined"}
+      note: "solkatora, follow, with -andon, using the documented stem before -atora."
+    - form: "urzandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a rising; an ascent"
+      source: {"kind": "coined"}
+    - form: "kethis"
+      class: "pron"
+      field: "Learning, speech and the letters"
+      gloss: "what; an interrogative reference to a thing or action"
+      source: {"kind": "coined"}
+    - form: "kethos"
+      class: "adj"
+      field: "Learning, speech and the letters"
+      gloss: "which; an interrogative selection from a set"
+      source: {"kind": "coined"}
+    - form: "sathai"
+      class: "adv"
+      field: "Learning, speech and the letters"
+      gloss: "sufficiently; enough for the purpose"
+      source: {"kind": "coined"}
+      note: "Regular -ai adverb of sathos, enough."
+    - form: "zetimai"
+      class: "adv"
+      field: "Learning, speech and the letters"
+      gloss: "wholly; completely"
+      source: {"kind": "coined"}
+      note: "Regular -ai adverb of zetimos, whole."
+    - form: "dokandon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "a saying; a statement"
+      source: {"kind": "coined"}
+    - form: "prasedon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "the front; the place in front of the speaker or named referent"
+      source: {"kind": "coined"}
+      note: "pra, in front of, before sedon, place; lexical location compound."
+    - form: "anprasedon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "the rear; the place behind the speaker or named referent"
+      source: {"kind": "coined"}
+      note: "anpra, behind, before sedon, place; lexical location compound."
+    - form: "teredon"
+      class: "n n"
+      field: "Learning, speech and the letters"
+      gloss: "length; spatial extent"
+      source: {"kind": "coined"}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

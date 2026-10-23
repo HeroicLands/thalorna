@@ -60,14 +60,18 @@ function missing(text) {
 }
 const hash = (text) => createHash("sha256").update(text).digest("hex");
 const samples = language.raw.split("### Sample passages\n")[1].split("\n## Naming Traditions")[0];
-const sampleWorks = samples
+const authoredSamples = samples
     .split("\n")
-    .filter((line) => line.startsWith("> "))
+    .filter((line) => line.startsWith("> ") || /^2 \[.*\]\{lang=aelw\}$/.test(line))
+    .map((line) => ({
+        prose: line.startsWith("> "),
+        text: line.startsWith("> ") ? line.slice(2) : line.match(/^2 \[(.*)\]\{lang=aelw\}$/)[1],
+    }));
+// The canonical hash fixes the sample words independently of their presentation.
+const sampleWorks = authoredSamples
+    .map(({ prose, text }) => `> ${prose ? `"${text}"` : text}`)
     .join("\n");
-const passage = sampleWorks
-    .split("\n")
-    .map((line) => line.slice(2))
-    .join("\n");
+const passage = authoredSamples.map(({ text }) => text).join("\n");
 
 test("ordinary Aelwythi source exposes the shared mapping's unsupported characters", () => {
     const old = applyMap(compileMap(shared.fm.data.map), passage).text;
@@ -185,7 +189,7 @@ test("sound and mapping frontmatter use the installed schemas", () => {
     }
 });
 
-test("English graphemes, case, elision and punctuation have usable glyph sequences", () => {
+test("Readable graphemes, case, elision and punctuation have usable glyph sequences", () => {
     const expectations = [
         ["c", [0xf0239]],
         ["ce", [0xf0240, 0xf0233]],
@@ -214,10 +218,10 @@ test("English graphemes, case, elision and punctuation have usable glyph sequenc
     }
 });
 
-test("sample source bytes are preserved while automatic conversion draws every character", () => {
+test("reviewed sample source bytes stay protected while automatic conversion draws every character", () => {
     assert.equal(
         hash(sampleWorks),
-        "489e6aca669e0750a1259459e4edf229a30add3e65132630d13209e6533869c6",
+        "f285babf7adfe62c4c19e42c26e12dfd141fe4d4cf3cd6d95e3e6984ca616d5e",
     );
     const converted = transliterate(ctx, { lang: "aelw", map: map.name }, passage);
     assert.equal(converted.text, write(passage));

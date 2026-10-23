@@ -1,0 +1,7217 @@
+{
+    "categories": [
+        {
+            "number": 1,
+            "name": "Perception and the Senses",
+            "group": "senses"
+        },
+        {
+            "number": 2,
+            "name": "Emotions, Passions, and Mental States",
+            "group": "passions"
+        },
+        {
+            "number": 3,
+            "name": "Love and Affection",
+            "group": "loves"
+        },
+        {
+            "number": 4,
+            "name": "The Body",
+            "group": "body"
+        },
+        {
+            "number": 5,
+            "name": "Bodily Functions and Common Needs",
+            "group": "needs"
+        },
+        {
+            "number": 6,
+            "name": "Health and Physical Conditions",
+            "group": "health"
+        },
+        {
+            "number": 7,
+            "name": "Kinship and Relationships",
+            "group": "kinship"
+        },
+        {
+            "number": 8,
+            "name": "Common Objects and Dwellings",
+            "group": "things"
+        },
+        {
+            "number": 9,
+            "name": "Nature and the Physical World",
+            "group": "nature"
+        },
+        {
+            "number": 10,
+            "name": "Numbers and Quantities",
+            "group": "numbers"
+        },
+        {
+            "number": 11,
+            "name": "Colors and Visual Properties",
+            "group": "colours"
+        },
+        {
+            "number": 12,
+            "name": "Basic Actions and Verbs",
+            "group": "verbs"
+        },
+        {
+            "number": 13,
+            "name": "Space, Location, and Direction",
+            "group": "space"
+        },
+        {
+            "number": 14,
+            "name": "Time and Sequence",
+            "group": "time"
+        },
+        {
+            "number": 15,
+            "name": "Personal Reference and Pronouns",
+            "group": "reference"
+        },
+        {
+            "number": 16,
+            "name": "Questions and Interrogatives",
+            "group": "questions"
+        },
+        {
+            "number": 17,
+            "name": "Negation, Truth, and Certainty",
+            "group": "truth"
+        },
+        {
+            "number": 18,
+            "name": "Logical and Grammatical Relationships",
+            "group": "logic"
+        },
+        {
+            "number": 19,
+            "name": "Degree, Quality, and Evaluation",
+            "group": "qualities"
+        },
+        {
+            "number": 20,
+            "name": "Ability, Obligation, and Permission",
+            "group": "modality"
+        },
+        {
+            "number": 21,
+            "name": "Social and Conversational Expressions",
+            "group": "conversation"
+        },
+        {
+            "number": 22,
+            "name": "People, Society, and Culture",
+            "group": "society"
+        },
+        {
+            "number": 23,
+            "name": "Existence, Identity, and Change",
+            "group": "existence"
+        }
+    ],
+    "legacy": [
+        {
+            "id": "see-verb",
+            "gloss": "to see",
+            "group": "senses"
+        },
+        {
+            "id": "see-noun",
+            "gloss": "a sight; what is seen",
+            "group": "senses"
+        },
+        {
+            "id": "hear-verb",
+            "gloss": "to hear",
+            "group": "senses"
+        },
+        {
+            "id": "hear-noun",
+            "gloss": "a sound",
+            "group": "senses"
+        },
+        {
+            "id": "smell-verb",
+            "gloss": "to smell",
+            "group": "senses"
+        },
+        {
+            "id": "smell-noun",
+            "gloss": "a smell; a scent",
+            "group": "senses"
+        },
+        {
+            "id": "taste-verb",
+            "gloss": "to taste",
+            "group": "senses"
+        },
+        {
+            "id": "taste-noun",
+            "gloss": "a taste; a flavour",
+            "group": "senses"
+        },
+        {
+            "id": "touch-verb",
+            "gloss": "to touch; to feel with the hand",
+            "group": "senses"
+        },
+        {
+            "id": "touch-noun",
+            "gloss": "a touch",
+            "group": "senses"
+        },
+        {
+            "id": "wrath",
+            "gloss": "wrath; intense anger",
+            "group": "passions"
+        },
+        {
+            "id": "envy",
+            "gloss": "envy",
+            "group": "passions"
+        },
+        {
+            "id": "hope",
+            "gloss": "hope",
+            "group": "passions"
+        },
+        {
+            "id": "greed",
+            "gloss": "greed",
+            "group": "passions"
+        },
+        {
+            "id": "boasting",
+            "gloss": "boasting",
+            "group": "passions"
+        },
+        {
+            "id": "pride",
+            "gloss": "pride",
+            "group": "passions"
+        },
+        {
+            "id": "lust",
+            "gloss": "lust",
+            "group": "passions"
+        },
+        {
+            "id": "despair",
+            "gloss": "despair",
+            "group": "passions"
+        },
+        {
+            "id": "disappointment",
+            "gloss": "disappointment",
+            "group": "passions"
+        },
+        {
+            "id": "faith",
+            "gloss": "faith",
+            "group": "passions"
+        },
+        {
+            "id": "love-eros",
+            "gloss": "romantic love (eros)",
+            "group": "loves"
+        },
+        {
+            "id": "love-philia",
+            "gloss": "friendship; affectionate regard between friends (philia)",
+            "group": "loves"
+        },
+        {
+            "id": "love-storge",
+            "gloss": "the love of family (storge)",
+            "group": "loves"
+        },
+        {
+            "id": "love-agape",
+            "gloss": "selfless, universal love (agape)",
+            "group": "loves"
+        },
+        {
+            "id": "head",
+            "gloss": "the head",
+            "group": "body"
+        },
+        {
+            "id": "hair",
+            "gloss": "the hair",
+            "group": "body"
+        },
+        {
+            "id": "face",
+            "gloss": "the face",
+            "group": "body"
+        },
+        {
+            "id": "eye",
+            "gloss": "the eye",
+            "group": "body"
+        },
+        {
+            "id": "ear",
+            "gloss": "the ear",
+            "group": "body"
+        },
+        {
+            "id": "nose",
+            "gloss": "the nose",
+            "group": "body"
+        },
+        {
+            "id": "mouth",
+            "gloss": "the mouth",
+            "group": "body"
+        },
+        {
+            "id": "lip",
+            "gloss": "the lip",
+            "group": "body"
+        },
+        {
+            "id": "tooth",
+            "gloss": "the tooth",
+            "group": "body"
+        },
+        {
+            "id": "tongue",
+            "gloss": "the tongue",
+            "group": "body"
+        },
+        {
+            "id": "neck",
+            "gloss": "the neck",
+            "group": "body"
+        },
+        {
+            "id": "shoulder",
+            "gloss": "the shoulder",
+            "group": "body"
+        },
+        {
+            "id": "arm",
+            "gloss": "the arm",
+            "group": "body"
+        },
+        {
+            "id": "elbow",
+            "gloss": "the elbow",
+            "group": "body"
+        },
+        {
+            "id": "hand",
+            "gloss": "the hand",
+            "group": "body"
+        },
+        {
+            "id": "finger",
+            "gloss": "the finger",
+            "group": "body"
+        },
+        {
+            "id": "nail",
+            "gloss": "the fingernail",
+            "group": "body"
+        },
+        {
+            "id": "chest",
+            "gloss": "the chest",
+            "group": "body"
+        },
+        {
+            "id": "breast",
+            "gloss": "the breast",
+            "group": "body"
+        },
+        {
+            "id": "heart",
+            "gloss": "the heart",
+            "group": "body"
+        },
+        {
+            "id": "belly",
+            "gloss": "the belly",
+            "group": "body"
+        },
+        {
+            "id": "back",
+            "gloss": "the back",
+            "group": "body"
+        },
+        {
+            "id": "hip",
+            "gloss": "the hip",
+            "group": "body"
+        },
+        {
+            "id": "leg",
+            "gloss": "the leg",
+            "group": "body"
+        },
+        {
+            "id": "knee",
+            "gloss": "the knee",
+            "group": "body"
+        },
+        {
+            "id": "foot",
+            "gloss": "the foot",
+            "group": "body"
+        },
+        {
+            "id": "toe",
+            "gloss": "the toe",
+            "group": "body"
+        },
+        {
+            "id": "skin",
+            "gloss": "the skin",
+            "group": "body"
+        },
+        {
+            "id": "bone",
+            "gloss": "the bone",
+            "group": "body"
+        },
+        {
+            "id": "blood",
+            "gloss": "blood",
+            "group": "body"
+        },
+        {
+            "id": "flesh",
+            "gloss": "flesh",
+            "group": "body"
+        },
+        {
+            "id": "food",
+            "gloss": "food",
+            "group": "needs"
+        },
+        {
+            "id": "eat",
+            "gloss": "to eat",
+            "group": "needs"
+        },
+        {
+            "id": "drink-noun",
+            "gloss": "a drink",
+            "group": "needs"
+        },
+        {
+            "id": "drink-verb",
+            "gloss": "to drink",
+            "group": "needs"
+        },
+        {
+            "id": "water",
+            "gloss": "water",
+            "group": "needs"
+        },
+        {
+            "id": "air",
+            "gloss": "air",
+            "group": "needs"
+        },
+        {
+            "id": "breath",
+            "gloss": "breath",
+            "group": "needs"
+        },
+        {
+            "id": "breathe",
+            "gloss": "to breathe",
+            "group": "needs"
+        },
+        {
+            "id": "sleep-noun",
+            "gloss": "sleep",
+            "group": "needs"
+        },
+        {
+            "id": "sleep-verb",
+            "gloss": "to sleep",
+            "group": "needs"
+        },
+        {
+            "id": "urine",
+            "gloss": "urine",
+            "group": "needs"
+        },
+        {
+            "id": "urinate",
+            "gloss": "to urinate",
+            "group": "needs"
+        },
+        {
+            "id": "dung",
+            "gloss": "dung",
+            "group": "needs"
+        },
+        {
+            "id": "defecate",
+            "gloss": "to defecate",
+            "group": "needs"
+        },
+        {
+            "id": "warmth",
+            "gloss": "warmth",
+            "group": "needs"
+        },
+        {
+            "id": "shelter",
+            "gloss": "shelter",
+            "group": "needs"
+        },
+        {
+            "id": "chair",
+            "gloss": "a chair",
+            "group": "things"
+        },
+        {
+            "id": "table",
+            "gloss": "a table",
+            "group": "things"
+        },
+        {
+            "id": "bed",
+            "gloss": "a bed",
+            "group": "things"
+        },
+        {
+            "id": "floor",
+            "gloss": "a floor",
+            "group": "things"
+        },
+        {
+            "id": "wall",
+            "gloss": "a wall",
+            "group": "things"
+        },
+        {
+            "id": "roof",
+            "gloss": "a roof",
+            "group": "things"
+        },
+        {
+            "id": "abode",
+            "gloss": "an abode; a house; a home",
+            "group": "things"
+        },
+        {
+            "id": "fire",
+            "gloss": "fire",
+            "group": "things"
+        },
+        {
+            "id": "hearth",
+            "gloss": "a hearth",
+            "group": "things"
+        },
+        {
+            "id": "door",
+            "gloss": "a door",
+            "group": "things"
+        },
+        {
+            "id": "lock",
+            "gloss": "a lock",
+            "group": "things"
+        },
+        {
+            "id": "key",
+            "gloss": "a key",
+            "group": "things"
+        },
+        {
+            "id": "window",
+            "gloss": "a window",
+            "group": "things"
+        },
+        {
+            "id": "shutters",
+            "gloss": "shutters",
+            "group": "things"
+        },
+        {
+            "id": "cup",
+            "gloss": "a cup",
+            "group": "things"
+        },
+        {
+            "id": "bowl",
+            "gloss": "a bowl",
+            "group": "things"
+        },
+        {
+            "id": "knife",
+            "gloss": "a knife",
+            "group": "things"
+        },
+        {
+            "id": "spoon",
+            "gloss": "a spoon",
+            "group": "things"
+        },
+        {
+            "id": "pot",
+            "gloss": "a pot",
+            "group": "things"
+        },
+        {
+            "id": "lamp",
+            "gloss": "a lamp",
+            "group": "things"
+        },
+        {
+            "id": "cloth",
+            "gloss": "cloth",
+            "group": "things"
+        },
+        {
+            "id": "clothes",
+            "gloss": "clothes",
+            "group": "things"
+        },
+        {
+            "id": "one",
+            "gloss": "one",
+            "group": "numbers"
+        },
+        {
+            "id": "two",
+            "gloss": "two",
+            "group": "numbers"
+        },
+        {
+            "id": "three",
+            "gloss": "three",
+            "group": "numbers"
+        },
+        {
+            "id": "four",
+            "gloss": "four",
+            "group": "numbers"
+        },
+        {
+            "id": "five",
+            "gloss": "five",
+            "group": "numbers"
+        },
+        {
+            "id": "six",
+            "gloss": "six",
+            "group": "numbers"
+        },
+        {
+            "id": "seven",
+            "gloss": "seven",
+            "group": "numbers"
+        },
+        {
+            "id": "eight",
+            "gloss": "eight",
+            "group": "numbers"
+        },
+        {
+            "id": "nine",
+            "gloss": "nine",
+            "group": "numbers"
+        },
+        {
+            "id": "ten",
+            "gloss": "ten",
+            "group": "numbers"
+        },
+        {
+            "id": "twenty",
+            "gloss": "twenty",
+            "group": "numbers"
+        },
+        {
+            "id": "hundred",
+            "gloss": "a hundred",
+            "group": "numbers"
+        },
+        {
+            "id": "thousand",
+            "gloss": "a thousand",
+            "group": "numbers"
+        },
+        {
+            "id": "first",
+            "gloss": "first",
+            "group": "numbers"
+        },
+        {
+            "id": "second",
+            "gloss": "second",
+            "group": "numbers"
+        },
+        {
+            "id": "third",
+            "gloss": "third",
+            "group": "numbers"
+        },
+        {
+            "id": "half",
+            "gloss": "half",
+            "group": "numbers"
+        },
+        {
+            "id": "many",
+            "gloss": "many",
+            "group": "numbers"
+        },
+        {
+            "id": "few",
+            "gloss": "few",
+            "group": "numbers"
+        },
+        {
+            "id": "none",
+            "gloss": "none; nothing",
+            "group": "numbers"
+        },
+        {
+            "id": "black",
+            "gloss": "black",
+            "group": "colours"
+        },
+        {
+            "id": "white",
+            "gloss": "white",
+            "group": "colours"
+        },
+        {
+            "id": "red",
+            "gloss": "red",
+            "group": "colours"
+        },
+        {
+            "id": "green",
+            "gloss": "green",
+            "group": "colours"
+        },
+        {
+            "id": "yellow",
+            "gloss": "yellow",
+            "group": "colours"
+        },
+        {
+            "id": "blue",
+            "gloss": "blue",
+            "group": "colours"
+        },
+        {
+            "id": "grey",
+            "gloss": "grey",
+            "group": "colours"
+        },
+        {
+            "id": "brown",
+            "gloss": "brown",
+            "group": "colours"
+        },
+        {
+            "id": "mother",
+            "gloss": "mother",
+            "group": "kinship"
+        },
+        {
+            "id": "father",
+            "gloss": "father",
+            "group": "kinship"
+        },
+        {
+            "id": "parent",
+            "gloss": "parent",
+            "group": "kinship"
+        },
+        {
+            "id": "child",
+            "gloss": "child",
+            "group": "kinship"
+        },
+        {
+            "id": "son",
+            "gloss": "son",
+            "group": "kinship"
+        },
+        {
+            "id": "daughter",
+            "gloss": "daughter",
+            "group": "kinship"
+        },
+        {
+            "id": "brother",
+            "gloss": "brother",
+            "group": "kinship"
+        },
+        {
+            "id": "sister",
+            "gloss": "sister",
+            "group": "kinship"
+        },
+        {
+            "id": "grandmother",
+            "gloss": "grandmother",
+            "group": "kinship"
+        },
+        {
+            "id": "grandfather",
+            "gloss": "grandfather",
+            "group": "kinship"
+        },
+        {
+            "id": "grandchild",
+            "gloss": "grandchild",
+            "group": "kinship"
+        },
+        {
+            "id": "uncle",
+            "gloss": "uncle",
+            "group": "kinship"
+        },
+        {
+            "id": "aunt",
+            "gloss": "aunt",
+            "group": "kinship"
+        },
+        {
+            "id": "cousin",
+            "gloss": "cousin",
+            "group": "kinship"
+        },
+        {
+            "id": "husband",
+            "gloss": "husband",
+            "group": "kinship"
+        },
+        {
+            "id": "wife",
+            "gloss": "wife",
+            "group": "kinship"
+        },
+        {
+            "id": "ancestor",
+            "gloss": "ancestor",
+            "group": "kinship"
+        },
+        {
+            "id": "descendant",
+            "gloss": "descendant",
+            "group": "kinship"
+        },
+        {
+            "id": "orphan",
+            "gloss": "orphan",
+            "group": "kinship"
+        },
+        {
+            "id": "widow",
+            "gloss": "widow",
+            "group": "kinship"
+        },
+        {
+            "id": "be",
+            "gloss": "to be",
+            "group": "verbs"
+        },
+        {
+            "id": "have",
+            "gloss": "to have",
+            "group": "verbs"
+        },
+        {
+            "id": "go",
+            "gloss": "to go",
+            "group": "verbs"
+        },
+        {
+            "id": "come",
+            "gloss": "to come",
+            "group": "verbs"
+        },
+        {
+            "id": "give",
+            "gloss": "to give",
+            "group": "verbs"
+        },
+        {
+            "id": "take",
+            "gloss": "to take",
+            "group": "verbs"
+        },
+        {
+            "id": "make",
+            "gloss": "to make",
+            "group": "verbs"
+        },
+        {
+            "id": "do",
+            "gloss": "to do",
+            "group": "verbs"
+        },
+        {
+            "id": "say",
+            "gloss": "to say",
+            "group": "verbs"
+        },
+        {
+            "id": "speak",
+            "gloss": "to speak",
+            "group": "verbs"
+        },
+        {
+            "id": "know",
+            "gloss": "to know",
+            "group": "verbs"
+        },
+        {
+            "id": "think",
+            "gloss": "to think",
+            "group": "verbs"
+        },
+        {
+            "id": "want",
+            "gloss": "to want",
+            "group": "verbs"
+        },
+        {
+            "id": "live",
+            "gloss": "to live",
+            "group": "verbs"
+        },
+        {
+            "id": "die",
+            "gloss": "to die",
+            "group": "verbs"
+        },
+        {
+            "id": "walk",
+            "gloss": "to walk",
+            "group": "verbs"
+        },
+        {
+            "id": "run",
+            "gloss": "to run",
+            "group": "verbs"
+        },
+        {
+            "id": "sit",
+            "gloss": "to sit",
+            "group": "verbs"
+        },
+        {
+            "id": "stand",
+            "gloss": "to stand",
+            "group": "verbs"
+        },
+        {
+            "id": "lie-down",
+            "gloss": "to lie down",
+            "group": "verbs"
+        },
+        {
+            "id": "hold",
+            "gloss": "to hold",
+            "group": "verbs"
+        },
+        {
+            "id": "bring",
+            "gloss": "to bring",
+            "group": "verbs"
+        },
+        {
+            "id": "put",
+            "gloss": "to put",
+            "group": "verbs"
+        },
+        {
+            "id": "find",
+            "gloss": "to find",
+            "group": "verbs"
+        },
+        {
+            "id": "lose",
+            "gloss": "to lose",
+            "group": "verbs"
+        },
+        {
+            "id": "open",
+            "gloss": "to open",
+            "group": "verbs"
+        },
+        {
+            "id": "close",
+            "gloss": "to close",
+            "group": "verbs"
+        },
+        {
+            "id": "begin",
+            "gloss": "to begin",
+            "group": "verbs"
+        },
+        {
+            "id": "end",
+            "gloss": "to end",
+            "group": "verbs"
+        }
+    ],
+    "requirements": [
+        {
+            "category": 1,
+            "expression": "see",
+            "id": "see-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "look",
+            "id": "look",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "watch",
+            "id": "watch",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "sight",
+            "id": "see-noun",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "appearance",
+            "id": "appearance",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "visible",
+            "id": "visible",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "invisible",
+            "id": "invisible",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "hear",
+            "id": "hear-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "listen",
+            "id": "listen",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "sound",
+            "id": "hear-noun",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "noise",
+            "id": "noise",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "voice",
+            "id": "voice",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "silence",
+            "id": "silence",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "loud",
+            "id": "loud",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "quiet",
+            "id": "quiet",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "smell (verb)",
+            "id": "smell-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "smell (noun)",
+            "id": "smell-noun",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "fragrant",
+            "id": "fragrant",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "foul",
+            "id": "foul",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "taste (verb)",
+            "id": "taste-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "taste (noun)",
+            "id": "taste-noun",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "sweet",
+            "id": "sweet",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "sour",
+            "id": "sour",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "bitter",
+            "id": "bitter",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "salty",
+            "id": "salty",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "touch",
+            "id": "touch-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 1,
+            "expression": "feel",
+            "id": "feel-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "sensation",
+            "id": "sensation",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "smooth",
+            "id": "smooth",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "rough",
+            "id": "rough",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "soft",
+            "id": "soft",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "hard",
+            "id": "hard-texture",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "notice",
+            "id": "notice",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "perceive",
+            "id": "perceive",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "recognize",
+            "id": "recognize",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "seem",
+            "id": "seem",
+            "disposition": "added"
+        },
+        {
+            "category": 1,
+            "expression": "appear",
+            "id": "seem",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 2,
+            "expression": "joy",
+            "id": "joy",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "happiness",
+            "id": "happiness",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "pleasure",
+            "id": "pleasure",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "contentment",
+            "id": "contentment",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "hope",
+            "id": "hope",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "gratitude",
+            "id": "gratitude",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "admiration",
+            "id": "admiration",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "trust",
+            "id": "trust",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "courage",
+            "id": "courage",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "anger",
+            "id": "anger",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "wrath",
+            "id": "wrath",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "hatred",
+            "id": "hatred",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "envy",
+            "id": "envy",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "jealousy",
+            "id": "jealousy",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "greed",
+            "id": "greed",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "fear",
+            "id": "fear",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "terror",
+            "id": "terror",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "sadness",
+            "id": "sadness",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "grief",
+            "id": "grief",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "despair",
+            "id": "despair",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "shame",
+            "id": "shame",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "guilt",
+            "id": "guilt",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "regret",
+            "id": "regret",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "disappointment",
+            "id": "disappointment",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "pride",
+            "id": "pride",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "humility",
+            "id": "humility",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "boasting",
+            "id": "boasting",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "confidence",
+            "id": "confidence",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "embarrassment",
+            "id": "embarrassment",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "compassion",
+            "id": "compassion",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "pity",
+            "id": "pity",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "sympathy",
+            "id": "sympathy",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "resentment",
+            "id": "resentment",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "contempt",
+            "id": "contempt",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "forgiveness",
+            "id": "forgiveness",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "desire",
+            "id": "desire",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "longing",
+            "id": "longing",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "lust",
+            "id": "lust",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "satisfaction",
+            "id": "satisfaction",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "frustration",
+            "id": "frustration",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "curiosity",
+            "id": "curiosity",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "confusion",
+            "id": "confusion",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "doubt",
+            "id": "doubt",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "certainty",
+            "id": "certainty",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "surprise",
+            "id": "surprise",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "boredom",
+            "id": "boredom",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "anticipation",
+            "id": "anticipation",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "faith",
+            "id": "faith",
+            "disposition": "retained"
+        },
+        {
+            "category": 2,
+            "expression": "belief",
+            "id": "belief",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "reverence",
+            "id": "reverence",
+            "disposition": "added"
+        },
+        {
+            "category": 2,
+            "expression": "awe",
+            "id": "awe",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "romantic or passionate love",
+            "id": "love-eros",
+            "disposition": "retained"
+        },
+        {
+            "category": 3,
+            "expression": "friendship, companionship, and affectionate regard",
+            "id": "love-philia",
+            "disposition": "retained"
+        },
+        {
+            "category": 3,
+            "expression": "familial love and attachment",
+            "id": "love-storge",
+            "disposition": "retained"
+        },
+        {
+            "category": 3,
+            "expression": "selfless, unconditional, or universal love",
+            "id": "love-agape",
+            "disposition": "retained"
+        },
+        {
+            "category": 3,
+            "expression": "affection",
+            "id": "affection",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "attraction",
+            "id": "attraction",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "intimacy",
+            "id": "intimacy",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "devotion",
+            "id": "devotion",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "loyalty",
+            "id": "loyalty",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "lust",
+            "id": "lust",
+            "disposition": "retained"
+        },
+        {
+            "category": 3,
+            "expression": "friendship",
+            "id": "love-philia",
+            "disposition": "retained"
+        },
+        {
+            "category": 3,
+            "expression": "companionship",
+            "id": "companionship",
+            "disposition": "added"
+        },
+        {
+            "category": 3,
+            "expression": "enmity",
+            "id": "enmity",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "head",
+            "id": "head",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "hair",
+            "id": "hair",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "face",
+            "id": "face",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "forehead",
+            "id": "forehead",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "eye",
+            "id": "eye",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "ear",
+            "id": "ear",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "nose",
+            "id": "nose",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "mouth",
+            "id": "mouth",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "lip",
+            "id": "lip",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "tooth",
+            "id": "tooth",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "tongue",
+            "id": "tongue",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "jaw",
+            "id": "jaw",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "chin",
+            "id": "chin",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "cheek",
+            "id": "cheek",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "neck",
+            "id": "neck",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "throat",
+            "id": "throat",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "shoulder",
+            "id": "shoulder",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "chest",
+            "id": "chest",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "breast",
+            "id": "breast",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "heart",
+            "id": "heart",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "belly",
+            "id": "belly",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "stomach",
+            "id": "stomach",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "waist",
+            "id": "waist",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "back",
+            "id": "back",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "spine",
+            "id": "spine",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "hip",
+            "id": "hip",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "buttock",
+            "id": "buttock",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "arm",
+            "id": "arm",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "elbow",
+            "id": "elbow",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "wrist",
+            "id": "wrist",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "hand",
+            "id": "hand",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "palm",
+            "id": "palm",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "finger",
+            "id": "finger",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "thumb",
+            "id": "thumb",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "fingernail",
+            "id": "nail",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "leg",
+            "id": "leg",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "thigh",
+            "id": "thigh",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "knee",
+            "id": "knee",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "ankle",
+            "id": "ankle",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "foot",
+            "id": "foot",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "heel",
+            "id": "heel",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "sole",
+            "id": "sole",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "toe",
+            "id": "toe",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "toenail",
+            "id": "toenail",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "skin",
+            "id": "skin",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "bone",
+            "id": "bone",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "blood",
+            "id": "blood",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "flesh",
+            "id": "flesh",
+            "disposition": "retained"
+        },
+        {
+            "category": 4,
+            "expression": "muscle",
+            "id": "muscle",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "fat",
+            "id": "fat",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "sweat",
+            "id": "sweat",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "tears",
+            "id": "tears",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "saliva",
+            "id": "saliva",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "brain",
+            "id": "brain",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "lung",
+            "id": "lung",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "liver",
+            "id": "liver",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "kidney",
+            "id": "kidney",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "intestine",
+            "id": "intestine",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "genitals",
+            "id": "genitals",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "womb",
+            "id": "womb",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "penis",
+            "id": "penis",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "vagina",
+            "id": "vagina",
+            "disposition": "added"
+        },
+        {
+            "category": 4,
+            "expression": "testicle",
+            "id": "testicle",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "food",
+            "id": "food",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "eat",
+            "id": "eat",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "hunger",
+            "id": "hunger",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "hungry",
+            "id": "hungry",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "drink (noun)",
+            "id": "drink-noun",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "drink (verb)",
+            "id": "drink-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "water",
+            "id": "water",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "thirst",
+            "id": "thirst",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "thirsty",
+            "id": "thirsty",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "air",
+            "id": "air",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "breath",
+            "id": "breath",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "breathe",
+            "id": "breathe",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "inhale",
+            "id": "inhale",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "exhale",
+            "id": "exhale",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "suffocate",
+            "id": "suffocate",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "sleep (noun)",
+            "id": "sleep-noun",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "sleep (verb)",
+            "id": "sleep-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "wake",
+            "id": "wake",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "awake",
+            "id": "awake",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "dream",
+            "id": "dream",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "rest",
+            "id": "rest",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "tired",
+            "id": "tired",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "urine",
+            "id": "urine",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "urinate",
+            "id": "urinate",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "dung",
+            "id": "dung",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "defecate",
+            "id": "defecate",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "sweat",
+            "id": "sweat-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "warmth",
+            "id": "warmth",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "heat",
+            "id": "heat",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "cold",
+            "id": "cold-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "hot",
+            "id": "hot",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "warm",
+            "id": "warm",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "cool",
+            "id": "cool",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "freeze",
+            "id": "freeze",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "burn",
+            "id": "burn",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "shelter",
+            "id": "shelter",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "safety",
+            "id": "safety",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "danger",
+            "id": "danger",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "protection",
+            "id": "protection",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "sex",
+            "id": "sex",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "conceive",
+            "id": "conceive",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "pregnancy",
+            "id": "pregnancy",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "pregnant",
+            "id": "pregnant",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "birth",
+            "id": "birth",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "give birth",
+            "id": "give-birth",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "nurse",
+            "id": "nurse",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "grow",
+            "id": "grow",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "age",
+            "id": "age-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "live",
+            "id": "live",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "die",
+            "id": "die",
+            "disposition": "retained"
+        },
+        {
+            "category": 5,
+            "expression": "death",
+            "id": "death",
+            "disposition": "added"
+        },
+        {
+            "category": 5,
+            "expression": "dead",
+            "id": "dead",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Healthy",
+            "id": "healthy",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "hale",
+            "id": "healthy",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "sick",
+            "id": "sick",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "ill",
+            "id": "sick",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "injured",
+            "id": "injured",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "wounded",
+            "id": "injured",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "Strong",
+            "id": "strong",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "weak",
+            "id": "weak",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "tired",
+            "id": "tired",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "exhausted",
+            "id": "exhausted",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Hungry",
+            "id": "hungry",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "thirsty",
+            "id": "thirsty",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "full",
+            "id": "sated",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "satisfied",
+            "id": "sated",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "Hot",
+            "id": "hot",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "cold",
+            "id": "cold",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "feverish",
+            "id": "feverish",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Pain",
+            "id": "pain",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "hurt",
+            "id": "hurt-pain",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "ache",
+            "id": "ache",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "suffer",
+            "id": "suffer",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Bleed",
+            "id": "bleed",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "heal",
+            "id": "heal",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "recover",
+            "id": "recover",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Blind",
+            "id": "blind",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "deaf",
+            "id": "deaf",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "lame",
+            "id": "lame",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Alive",
+            "id": "alive",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "dead",
+            "id": "dead",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 6,
+            "expression": "conscious",
+            "id": "conscious",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "unconscious",
+            "id": "unconscious",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "Young",
+            "id": "young",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "old",
+            "id": "old",
+            "disposition": "added"
+        },
+        {
+            "category": 6,
+            "expression": "aging",
+            "id": "aging",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "mother",
+            "id": "mother",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "father",
+            "id": "father",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "parent",
+            "id": "parent",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "child",
+            "id": "child",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "son",
+            "id": "son",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "daughter",
+            "id": "daughter",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "brother",
+            "id": "brother",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "sister",
+            "id": "sister",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "grandmother",
+            "id": "grandmother",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "grandfather",
+            "id": "grandfather",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "grandparent",
+            "id": "grandparent",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "grandchild",
+            "id": "grandchild",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "uncle",
+            "id": "uncle",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "aunt",
+            "id": "aunt",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "cousin",
+            "id": "cousin",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "nephew",
+            "id": "nephew",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "niece",
+            "id": "niece",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "husband",
+            "id": "husband",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "wife",
+            "id": "wife",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "spouse",
+            "id": "spouse",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "marriage",
+            "id": "marriage",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "marry",
+            "id": "marry",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "ancestor",
+            "id": "ancestor",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "descendant",
+            "id": "descendant",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "family",
+            "id": "family",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "kin",
+            "id": "kin",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "lineage",
+            "id": "lineage",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "orphan",
+            "id": "orphan",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "widow",
+            "id": "widow",
+            "disposition": "retained"
+        },
+        {
+            "category": 7,
+            "expression": "widower",
+            "id": "widower",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "friend",
+            "id": "friend",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "enemy",
+            "id": "enemy",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "stranger",
+            "id": "stranger",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "neighbor",
+            "id": "neighbor",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "companion",
+            "id": "companion",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "guest",
+            "id": "guest",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "host",
+            "id": "host",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "leader",
+            "id": "leader",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "follower",
+            "id": "follower",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "servant",
+            "id": "servant",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "master",
+            "id": "master",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "teacher",
+            "id": "teacher",
+            "disposition": "added"
+        },
+        {
+            "category": 7,
+            "expression": "student",
+            "id": "student",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "house",
+            "id": "abode",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "home",
+            "id": "abode",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "abode",
+            "id": "abode",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "room",
+            "id": "room",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "floor",
+            "id": "floor",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "wall",
+            "id": "wall",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "roof",
+            "id": "roof",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "ceiling",
+            "id": "ceiling",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "door",
+            "id": "door",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "window",
+            "id": "window",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "shutters",
+            "id": "shutters",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "hearth",
+            "id": "hearth",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "chair",
+            "id": "chair",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "seat",
+            "id": "seat",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "table",
+            "id": "table",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "bed",
+            "id": "bed",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "bench",
+            "id": "bench",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "cup",
+            "id": "cup",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "bowl",
+            "id": "bowl",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "pot",
+            "id": "pot",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "jar",
+            "id": "jar",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "bottle",
+            "id": "bottle",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "basket",
+            "id": "basket",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "bag",
+            "id": "bag",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "knife",
+            "id": "knife",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "spoon",
+            "id": "spoon",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "hammer",
+            "id": "hammer",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "rope",
+            "id": "rope",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "cord",
+            "id": "cord",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "needle",
+            "id": "needle",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "fire",
+            "id": "fire",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "flame",
+            "id": "flame",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "smoke",
+            "id": "smoke",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "ash",
+            "id": "ash",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "coal",
+            "id": "coal",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "lamp",
+            "id": "lamp",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "torch",
+            "id": "torch",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "candle",
+            "id": "candle",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "cloth",
+            "id": "cloth",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "clothes",
+            "id": "clothes",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "garment",
+            "id": "garment",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "shirt",
+            "id": "shirt",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "cloak",
+            "id": "cloak",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "belt",
+            "id": "belt",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "shoe",
+            "id": "shoe",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "boot",
+            "id": "boot",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "lock",
+            "id": "lock",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "key",
+            "id": "key",
+            "disposition": "retained"
+        },
+        {
+            "category": 8,
+            "expression": "gate",
+            "id": "gate",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "barrier",
+            "id": "barrier",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "wood",
+            "id": "wood",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "stone",
+            "id": "stone",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "metal",
+            "id": "metal",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "clay",
+            "id": "clay",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "leather",
+            "id": "leather",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "wool",
+            "id": "wool",
+            "disposition": "added"
+        },
+        {
+            "category": 8,
+            "expression": "thread",
+            "id": "thread",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "earth",
+            "id": "earth",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "soil",
+            "id": "soil",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "stone",
+            "id": "stone",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 9,
+            "expression": "rock",
+            "id": "rock",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "sand",
+            "id": "sand",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "mud",
+            "id": "mud",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "water",
+            "id": "water",
+            "disposition": "retained"
+        },
+        {
+            "category": 9,
+            "expression": "air",
+            "id": "air",
+            "disposition": "retained"
+        },
+        {
+            "category": 9,
+            "expression": "fire",
+            "id": "fire",
+            "disposition": "retained"
+        },
+        {
+            "category": 9,
+            "expression": "smoke",
+            "id": "smoke",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 9,
+            "expression": "dust",
+            "id": "dust",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "land",
+            "id": "land",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "mountain",
+            "id": "mountain",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "hill",
+            "id": "hill",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "valley",
+            "id": "valley",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "plain",
+            "id": "plain-landform",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "forest",
+            "id": "forest",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "field",
+            "id": "field",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "cave",
+            "id": "cave",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "river",
+            "id": "river",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "stream",
+            "id": "stream",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "lake",
+            "id": "lake",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "sea",
+            "id": "sea",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "ocean",
+            "id": "ocean",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "shore",
+            "id": "shore",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "rain",
+            "id": "rain",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "snow",
+            "id": "snow",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "ice",
+            "id": "ice",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "sky",
+            "id": "sky",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "sun",
+            "id": "sun",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "moon",
+            "id": "moon",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "star",
+            "id": "star",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "cloud",
+            "id": "cloud",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "wind",
+            "id": "wind",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "storm",
+            "id": "storm",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "thunder",
+            "id": "thunder",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "lightning",
+            "id": "lightning",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "plant",
+            "id": "plant",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "tree",
+            "id": "tree",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "leaf",
+            "id": "leaf",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "root",
+            "id": "root",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "branch",
+            "id": "branch",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "flower",
+            "id": "flower",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "fruit",
+            "id": "fruit",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "seed",
+            "id": "seed",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "grass",
+            "id": "grass",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "animal",
+            "id": "animal",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "beast",
+            "id": "beast",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "bird",
+            "id": "bird",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "fish",
+            "id": "fish",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "insect",
+            "id": "insect",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "worm",
+            "id": "worm",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "wet",
+            "id": "wet",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "dry",
+            "id": "dry",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "bright",
+            "id": "bright",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "dark",
+            "id": "dark",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "clear",
+            "id": "clear-weather",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "cloudy",
+            "id": "cloudy",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "north",
+            "id": "north",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "south",
+            "id": "south",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "east",
+            "id": "east",
+            "disposition": "added"
+        },
+        {
+            "category": 9,
+            "expression": "west",
+            "id": "west",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "zero",
+            "id": "zero",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "one",
+            "source": "one through ten",
+            "id": "one",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "two",
+            "source": "one through ten",
+            "id": "two",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "three",
+            "source": "one through ten",
+            "id": "three",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "four",
+            "source": "one through ten",
+            "id": "four",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "five",
+            "source": "one through ten",
+            "id": "five",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "six",
+            "source": "one through ten",
+            "id": "six",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "seven",
+            "source": "one through ten",
+            "id": "seven",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "eight",
+            "source": "one through ten",
+            "id": "eight",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "nine",
+            "source": "one through ten",
+            "id": "nine",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "ten",
+            "source": "one through ten",
+            "id": "ten",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "twenty",
+            "id": "twenty",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "hundred",
+            "id": "hundred",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "thousand",
+            "id": "thousand",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "first",
+            "id": "first",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "second",
+            "id": "second",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "third",
+            "id": "third",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "productive formation of additional ordinals",
+            "id": "ordinal-construction",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "half",
+            "id": "half",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "quarter",
+            "id": "quarter",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "whole",
+            "id": "whole",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "all",
+            "id": "all",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "some",
+            "id": "some",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "many",
+            "id": "many",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "much",
+            "id": "much",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "few",
+            "id": "few",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "little",
+            "id": "little-quantity",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "none",
+            "id": "none",
+            "disposition": "retained"
+        },
+        {
+            "category": 10,
+            "expression": "enough",
+            "id": "enough",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "more",
+            "id": "more",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "less",
+            "id": "less",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "most",
+            "id": "most",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "least",
+            "id": "least",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "equal",
+            "id": "equal",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "each",
+            "id": "each",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "every",
+            "id": "every",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "both",
+            "id": "both",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "either",
+            "id": "either",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "neither",
+            "id": "neither",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "about",
+            "id": "about",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "approximately",
+            "id": "about",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 10,
+            "expression": "almost",
+            "id": "almost",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "exactly",
+            "id": "exactly",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "number",
+            "id": "number",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "amount",
+            "id": "amount",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "measure",
+            "id": "measure-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 10,
+            "expression": "count",
+            "id": "count-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "black",
+            "id": "black",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "white",
+            "id": "white",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "red",
+            "id": "red",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "green",
+            "id": "green",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "yellow",
+            "id": "yellow",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "blue",
+            "id": "blue",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "grey",
+            "id": "grey",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "brown",
+            "id": "brown",
+            "disposition": "retained"
+        },
+        {
+            "category": 11,
+            "expression": "light",
+            "id": "light-colour",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "dark",
+            "id": "dark",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 11,
+            "expression": "bright",
+            "id": "bright",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 11,
+            "expression": "pale",
+            "id": "pale",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "clear",
+            "id": "clear-appearance",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "opaque",
+            "id": "opaque",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "transparent",
+            "id": "transparent",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "shiny",
+            "id": "shiny",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "dull",
+            "id": "dull-appearance",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "plain",
+            "id": "plain-pattern",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "spotted",
+            "id": "spotted",
+            "disposition": "added"
+        },
+        {
+            "category": 11,
+            "expression": "striped",
+            "id": "striped",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Be",
+            "id": "be",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "exist",
+            "id": "exist",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "have",
+            "id": "have",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "possess",
+            "id": "have",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "belong",
+            "id": "belong",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "become",
+            "id": "become",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "remain",
+            "id": "remain",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Go",
+            "id": "go",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "come",
+            "id": "come",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "leave",
+            "id": "leave",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "arrive",
+            "id": "arrive",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "walk",
+            "id": "walk",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "run",
+            "id": "run",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "crawl",
+            "id": "crawl",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "climb",
+            "id": "climb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "jump",
+            "id": "jump",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "fall",
+            "id": "fall",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "rise",
+            "id": "rise",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "enter",
+            "id": "enter",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "exit",
+            "id": "exit",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "return",
+            "id": "return",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "follow",
+            "id": "follow",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "lead",
+            "id": "lead",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Give",
+            "id": "give",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "take",
+            "id": "take",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "bring",
+            "id": "bring",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "carry",
+            "id": "carry",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "hold",
+            "id": "hold",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "put",
+            "id": "put",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "place",
+            "id": "put",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "move",
+            "id": "move",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "push",
+            "id": "push",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "pull",
+            "id": "pull",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "lift",
+            "id": "lift",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "drop",
+            "id": "drop",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "throw",
+            "id": "throw",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "catch",
+            "id": "catch",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Make",
+            "id": "make",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "do",
+            "id": "do",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "build",
+            "id": "build",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "create",
+            "id": "create",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "break",
+            "id": "break",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "destroy",
+            "id": "destroy",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "repair",
+            "id": "repair",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "change",
+            "id": "change-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Say",
+            "id": "say",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "speak",
+            "id": "speak",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "tell",
+            "id": "tell",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "ask",
+            "id": "ask",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "answer",
+            "id": "answer",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "call",
+            "id": "call",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "shout",
+            "id": "shout",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "whisper",
+            "id": "whisper",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "explain",
+            "id": "explain",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "name",
+            "id": "name-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Know",
+            "id": "know",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "think",
+            "id": "think",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "believe",
+            "id": "believe",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "understand",
+            "id": "understand",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "remember",
+            "id": "remember",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "forget",
+            "id": "forget",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "learn",
+            "id": "learn",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "teach",
+            "id": "teach",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "decide",
+            "id": "decide",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "imagine",
+            "id": "imagine",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Want",
+            "id": "want",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "need",
+            "id": "need-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "wish",
+            "id": "wish-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "hope",
+            "id": "hope-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "intend",
+            "id": "intend",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "choose",
+            "id": "choose",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "prefer",
+            "id": "prefer",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "try",
+            "id": "try",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "See",
+            "id": "see-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "hear",
+            "id": "hear-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "smell",
+            "id": "smell-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "taste",
+            "id": "taste-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "touch",
+            "id": "touch-verb",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "look",
+            "id": "look",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 12,
+            "expression": "listen",
+            "id": "listen",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 12,
+            "expression": "notice",
+            "id": "notice",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 12,
+            "expression": "find",
+            "id": "find",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "search",
+            "id": "search",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Meet",
+            "id": "meet",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "help",
+            "id": "help",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "share",
+            "id": "share",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "trade",
+            "id": "trade",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "buy",
+            "id": "buy",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "sell",
+            "id": "sell",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "promise",
+            "id": "promise-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "thank",
+            "id": "thank-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "forgive",
+            "id": "forgive-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "refuse",
+            "id": "refuse-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "agree",
+            "id": "agree-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Fight",
+            "id": "fight",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "strike",
+            "id": "hit",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "hit",
+            "id": "hit",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 12,
+            "expression": "hurt",
+            "id": "hurt-verb",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 12,
+            "expression": "kill",
+            "id": "kill",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "defend",
+            "id": "defend",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "attack",
+            "id": "attack",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "flee",
+            "id": "flee",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "threaten",
+            "id": "threaten",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Live",
+            "id": "live",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "die",
+            "id": "die",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "begin",
+            "id": "begin",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "end",
+            "id": "end",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "start",
+            "id": "begin",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "stop",
+            "id": "stop",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "continue",
+            "id": "continue",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "wait",
+            "id": "wait",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "happen",
+            "id": "happen",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Sit",
+            "id": "sit",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "stand",
+            "id": "stand",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "lie down",
+            "id": "lie-down",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "kneel",
+            "id": "kneel",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "bend",
+            "id": "bend",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "lean",
+            "id": "lean",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "Open",
+            "id": "open",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "close",
+            "id": "close",
+            "disposition": "retained"
+        },
+        {
+            "category": 12,
+            "expression": "cover",
+            "id": "cover-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "uncover",
+            "id": "uncover",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "hide",
+            "id": "hide",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "reveal",
+            "id": "reveal",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "lock",
+            "id": "lock-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 12,
+            "expression": "unlock",
+            "id": "unlock",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Here",
+            "id": "here",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "there",
+            "id": "there",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "somewhere",
+            "id": "somewhere",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "nowhere",
+            "id": "nowhere",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "everywhere",
+            "id": "everywhere",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Near",
+            "id": "near",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "far",
+            "id": "far",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "beside",
+            "id": "beside",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "between",
+            "id": "between",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "among",
+            "id": "among",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Above",
+            "id": "above",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "below",
+            "id": "below",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "under",
+            "id": "under",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "over",
+            "id": "over",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Inside",
+            "id": "inside",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "outside",
+            "id": "outside",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "within",
+            "id": "inside",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 13,
+            "expression": "beyond",
+            "id": "beyond",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Before",
+            "id": "before-spatial",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "behind",
+            "id": "behind",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "in front of",
+            "id": "before-spatial",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 13,
+            "expression": "Left",
+            "id": "left-direction",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "right",
+            "id": "right-direction",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "center",
+            "id": "center",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "middle",
+            "id": "center",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 13,
+            "expression": "Up",
+            "id": "up",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "down",
+            "id": "down",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "forward",
+            "id": "forward",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "backward",
+            "id": "backward",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Toward",
+            "id": "toward",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "away",
+            "id": "away",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "through",
+            "id": "through",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "across",
+            "id": "across",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "around",
+            "id": "around",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "In",
+            "id": "in",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "on",
+            "id": "on",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "at",
+            "id": "at",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "from",
+            "id": "from",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "to",
+            "id": "to",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "Place",
+            "id": "place-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "location",
+            "id": "place-noun",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 13,
+            "expression": "position",
+            "id": "position",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "direction",
+            "id": "direction",
+            "disposition": "added"
+        },
+        {
+            "category": 13,
+            "expression": "distance",
+            "id": "distance",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "time",
+            "id": "time",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "moment",
+            "id": "moment",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "day",
+            "id": "day",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "night",
+            "id": "night",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "morning",
+            "id": "morning",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "noon",
+            "id": "noon",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "evening",
+            "id": "evening",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "midnight",
+            "id": "midnight",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "now",
+            "id": "now",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "then",
+            "id": "then",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "today",
+            "id": "today",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "yesterday",
+            "id": "yesterday",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "tomorrow",
+            "id": "tomorrow",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "past",
+            "id": "past",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "present",
+            "id": "present",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "future",
+            "id": "future",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "before",
+            "id": "before-time",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "after",
+            "id": "after",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "during",
+            "id": "during",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "while",
+            "id": "while",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "until",
+            "id": "until",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "since",
+            "id": "since-time",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "always",
+            "id": "always",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "often",
+            "id": "often",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "sometimes",
+            "id": "sometimes",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "rarely",
+            "id": "rarely",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "never",
+            "id": "never",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "long",
+            "id": "long-duration",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "short",
+            "id": "short-duration",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "brief",
+            "id": "brief-duration",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "lasting",
+            "id": "lasting-duration",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "again",
+            "id": "again",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "once",
+            "id": "once",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "twice",
+            "id": "twice",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "repeatedly",
+            "id": "repeatedly",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "already",
+            "id": "already",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "still",
+            "id": "still",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "yet",
+            "id": "yet",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "soon",
+            "id": "soon",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "later",
+            "id": "later",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "early",
+            "id": "early",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "late",
+            "id": "late",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "first",
+            "id": "first-sequence",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "next",
+            "id": "next",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "last",
+            "id": "last",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "finally",
+            "id": "finally",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "season",
+            "id": "season",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "year",
+            "id": "year",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "month",
+            "id": "month",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "dawn",
+            "id": "dawn",
+            "disposition": "added"
+        },
+        {
+            "category": 14,
+            "expression": "dusk",
+            "id": "dusk",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "I",
+            "id": "i",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "me",
+            "id": "i",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 15,
+            "expression": "my",
+            "id": "my",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "mine",
+            "id": "my",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 15,
+            "expression": "You",
+            "id": "you-reference",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "your",
+            "id": "your",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "yours",
+            "id": "your",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 15,
+            "expression": "He",
+            "id": "he",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "she",
+            "id": "she",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "it",
+            "id": "it",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "they",
+            "id": "they",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "We",
+            "id": "we",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "us",
+            "id": "we",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 15,
+            "expression": "our",
+            "id": "our",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "ours",
+            "id": "our",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 15,
+            "expression": "This",
+            "id": "this",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "that",
+            "id": "that",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "these",
+            "id": "these",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "those",
+            "id": "those",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "Someone",
+            "id": "someone",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "anyone",
+            "id": "anyone",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "everyone",
+            "id": "everyone",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "no one",
+            "id": "no-one",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "Something",
+            "id": "something",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "anything",
+            "id": "anything",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "everything",
+            "id": "everything",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "nothing",
+            "id": "none",
+            "disposition": "retained"
+        },
+        {
+            "category": 15,
+            "expression": "Self",
+            "id": "self",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "oneself",
+            "id": "self",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 15,
+            "expression": "other",
+            "id": "other",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "another",
+            "id": "another",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "Same",
+            "id": "same",
+            "disposition": "added"
+        },
+        {
+            "category": 15,
+            "expression": "different",
+            "id": "different",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "Who?",
+            "id": "question-who",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "What?",
+            "id": "question-what",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "Which?",
+            "id": "question-which",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "Where?",
+            "id": "question-where",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "When?",
+            "id": "question-when",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "Why?",
+            "id": "question-why",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "How?",
+            "id": "question-how",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "How many?",
+            "id": "question-how-many",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "How much?",
+            "id": "question-how-much",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "Whose?",
+            "id": "question-whose",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "To whom?",
+            "id": "question-to-whom",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "From where?",
+            "id": "question-from-where",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "For what purpose?",
+            "id": "question-for-what-purpose",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Yes",
+            "id": "yes",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "no",
+            "id": "no",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Not",
+            "id": "not",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "never",
+            "id": "never",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "nothing",
+            "id": "none",
+            "disposition": "retained"
+        },
+        {
+            "category": 17,
+            "expression": "nobody",
+            "id": "no-one",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "True",
+            "id": "true",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "false",
+            "id": "false",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Truth",
+            "id": "truth",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "lie",
+            "id": "lie-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "falsehood",
+            "id": "falsehood",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "Really",
+            "id": "sincerity",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "truly",
+            "id": "sincerity",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "genuinely (de veras)",
+            "id": "sincerity",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "Indeed",
+            "id": "indeed",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "certainly",
+            "id": "certainly",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "definitely",
+            "id": "certainly",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "Perhaps",
+            "id": "perhaps",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "maybe",
+            "id": "perhaps",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "possibly",
+            "id": "perhaps",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "Probably",
+            "id": "probably",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "unlikely",
+            "id": "unlikely",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Sure",
+            "id": "certain",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "certain",
+            "id": "certain",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "uncertain",
+            "id": "uncertain",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Apparently",
+            "id": "apparently",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "seemingly",
+            "id": "apparently",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "supposedly",
+            "id": "supposedly",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Actually",
+            "id": "in-fact",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "in fact",
+            "id": "in-fact",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "Believe",
+            "id": "believe",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "doubt",
+            "id": "doubt-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "suspect",
+            "id": "suspect",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Know",
+            "id": "know",
+            "disposition": "retained"
+        },
+        {
+            "category": 17,
+            "expression": "guess",
+            "id": "guess-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "assume",
+            "id": "assume-verb",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Correct",
+            "id": "correct",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "incorrect",
+            "id": "incorrect",
+            "disposition": "added"
+        },
+        {
+            "category": 17,
+            "expression": "Agree",
+            "id": "agree-verb",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 17,
+            "expression": "disagree",
+            "id": "disagree",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "And",
+            "id": "and",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "or",
+            "id": "or",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "but",
+            "id": "but",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "nor",
+            "id": "nor",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "Because",
+            "id": "because",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "therefore",
+            "id": "therefore",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "so",
+            "id": "therefore",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 18,
+            "expression": "since",
+            "id": "because",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 18,
+            "expression": "consequently",
+            "id": "therefore",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 18,
+            "expression": "If",
+            "id": "if",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "then",
+            "id": "then-conditional",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "unless",
+            "id": "unless",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "otherwise",
+            "id": "otherwise",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "Although",
+            "id": "although",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "however",
+            "id": "however",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "nevertheless",
+            "id": "nevertheless",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "despite",
+            "id": "despite",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "instead",
+            "id": "instead",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "For",
+            "id": "for-purpose",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "in order to",
+            "id": "for-purpose",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 18,
+            "expression": "so that",
+            "id": "for-purpose",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 18,
+            "expression": "Like",
+            "id": "like",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "unlike",
+            "id": "unlike",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "as",
+            "id": "as",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "than",
+            "id": "than",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "Either",
+            "id": "either-alternative",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "neither",
+            "id": "neither-alternative",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "both",
+            "id": "both-conjunction",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "whether",
+            "id": "whether",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "That is",
+            "id": "that-is",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "namely",
+            "id": "namely",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "for example",
+            "id": "for-example",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "Except",
+            "id": "except",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "only",
+            "id": "only",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "even",
+            "id": "even",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "also",
+            "id": "also",
+            "disposition": "added"
+        },
+        {
+            "category": 18,
+            "expression": "especially",
+            "id": "especially",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "big",
+            "id": "big",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "small",
+            "id": "small",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "large",
+            "id": "big",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "tiny",
+            "id": "tiny",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "huge",
+            "id": "huge",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "long",
+            "id": "long",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "short",
+            "id": "short",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "high",
+            "id": "high",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "low",
+            "id": "low",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "tall",
+            "id": "tall",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "wide",
+            "id": "wide",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "narrow",
+            "id": "narrow",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "heavy",
+            "id": "heavy",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "light",
+            "id": "light-weight",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "new",
+            "id": "new",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "old",
+            "id": "old-object",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "young",
+            "id": "young",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "fast",
+            "id": "fast",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "slow",
+            "id": "slow",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "easy",
+            "id": "easy",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "difficult",
+            "id": "difficult",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "hard",
+            "id": "difficult",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "good",
+            "id": "good",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "bad",
+            "id": "bad",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "better",
+            "id": "better",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "worse",
+            "id": "worse",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "best",
+            "id": "best",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "worst",
+            "id": "worst",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "important",
+            "id": "important",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "trivial",
+            "id": "trivial",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "necessary",
+            "id": "necessary",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "valuable",
+            "id": "valuable",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "worthless",
+            "id": "worthless",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "useful",
+            "id": "useful",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "useless",
+            "id": "useless",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "whole",
+            "id": "whole",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "broken",
+            "id": "broken",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "complete",
+            "id": "complete",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "incomplete",
+            "id": "incomplete",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "honest",
+            "id": "honest",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "dishonest",
+            "id": "dishonest",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "very",
+            "id": "very",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "extremely",
+            "id": "extremely",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "somewhat",
+            "id": "somewhat",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "slightly",
+            "id": "slightly",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "barely",
+            "id": "barely",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "enough",
+            "id": "enough",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "too much",
+            "id": "too-much",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "too little",
+            "id": "too-little",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "same",
+            "id": "same",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "similar",
+            "id": "similar",
+            "disposition": "added"
+        },
+        {
+            "category": 19,
+            "expression": "different",
+            "id": "different",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 19,
+            "expression": "opposite",
+            "id": "opposite",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Can",
+            "id": "can",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "cannot",
+            "id": "cannot",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Able",
+            "id": "can",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 20,
+            "expression": "unable",
+            "id": "cannot",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 20,
+            "expression": "Possible",
+            "id": "possible",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "impossible",
+            "id": "impossible",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "May",
+            "id": "may-permission",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "might",
+            "id": "might-possibility",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Must",
+            "id": "must",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "must not",
+            "id": "must-not",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Should",
+            "id": "ought",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "ought",
+            "id": "ought",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 20,
+            "expression": "Need",
+            "id": "need-verb",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 20,
+            "expression": "necessary",
+            "id": "necessary",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 20,
+            "expression": "Required",
+            "id": "required",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "optional",
+            "id": "optional",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Allowed",
+            "id": "allowed",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "forbidden",
+            "id": "forbidden",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Permit",
+            "id": "permit",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "prohibit",
+            "id": "prohibit",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Free",
+            "id": "free",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "constrained",
+            "id": "constrained",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Willing",
+            "id": "willing",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "unwilling",
+            "id": "unwilling",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "Intended",
+            "id": "intended",
+            "disposition": "added"
+        },
+        {
+            "category": 20,
+            "expression": "accidental",
+            "id": "accidental",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Hello",
+            "id": "hello",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "greetings",
+            "id": "hello",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Goodbye",
+            "id": "goodbye",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "farewell",
+            "id": "goodbye",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Welcome",
+            "id": "expression-welcome",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Please",
+            "id": "expression-please",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Thank you",
+            "id": "expression-thank-you",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "You’re welcome",
+            "id": "expression-youre-welcome",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Excuse me",
+            "id": "expression-excuse-me",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Sorry",
+            "id": "expression-sorry",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Forgive me",
+            "id": "expression-forgive-me",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Yes",
+            "id": "yes",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "No",
+            "id": "no",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Certainly",
+            "id": "certainly",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Of course",
+            "id": "of-course",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Perhaps",
+            "id": "perhaps",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "I agree",
+            "id": "agree-verb",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "I disagree",
+            "id": "disagree",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Listen",
+            "id": "expression-listen",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Look",
+            "id": "expression-look",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Wait",
+            "id": "expression-wait",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Come here",
+            "id": "expression-come-here",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Go away",
+            "id": "expression-go-away",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Help!",
+            "id": "expression-help",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Stop!",
+            "id": "expression-stop",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "What?",
+            "id": "expression-what",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Pardon?",
+            "id": "expression-pardon",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Again",
+            "id": "expression-again",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "I understand",
+            "id": "expression-i-understand",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "I do not understand",
+            "id": "expression-i-do-not-understand",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "What do you mean?",
+            "id": "expression-what-do-you-mean",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "How do you say…?",
+            "id": "expression-how-do-you-say",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "What is this called?",
+            "id": "expression-what-is-this-called",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Really?",
+            "id": "expression-really",
+            "disposition": "added"
+        },
+        {
+            "category": 21,
+            "expression": "Truly",
+            "id": "sincerity",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Indeed",
+            "id": "indeed",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "In fact",
+            "id": "in-fact",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Of course",
+            "id": "of-course",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Certainly",
+            "id": "certainly",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 21,
+            "expression": "Not at all",
+            "id": "expression-not-at-all",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Person",
+            "id": "person",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "people",
+            "id": "people",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "human",
+            "id": "human",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Man",
+            "id": "man",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "woman",
+            "id": "woman",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "boy",
+            "id": "boy",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "girl",
+            "id": "girl",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Adult",
+            "id": "adult",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "child",
+            "id": "child",
+            "disposition": "retained"
+        },
+        {
+            "category": 22,
+            "expression": "elder",
+            "id": "elder",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Individual",
+            "id": "individual",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "group",
+            "id": "group",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "crowd",
+            "id": "crowd",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Family",
+            "id": "family",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "clan",
+            "id": "clan",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "tribe",
+            "id": "tribe",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "community",
+            "id": "community",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Friend",
+            "id": "friend",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "enemy",
+            "id": "enemy",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "stranger",
+            "id": "stranger",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "neighbor",
+            "id": "neighbor",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "Leader",
+            "id": "leader",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "ruler",
+            "id": "ruler",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "servant",
+            "id": "servant",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "follower",
+            "id": "follower",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "Teacher",
+            "id": "teacher",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "student",
+            "id": "student",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "Worker",
+            "id": "worker",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "artisan",
+            "id": "artisan",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "merchant",
+            "id": "merchant",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Name",
+            "id": "name-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "title",
+            "id": "title",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "rank",
+            "id": "rank",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Custom",
+            "id": "custom",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "tradition",
+            "id": "tradition",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "law",
+            "id": "law",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "rule",
+            "id": "rule",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Order",
+            "id": "order-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "command",
+            "id": "command-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "obedience",
+            "id": "obedience",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Justice",
+            "id": "justice",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "injustice",
+            "id": "injustice",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Right",
+            "id": "right-ethical",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "wrong",
+            "id": "wrong-ethical",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Peace",
+            "id": "peace",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "war",
+            "id": "war",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Freedom",
+            "id": "freedom",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "captivity",
+            "id": "captivity",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Gift",
+            "id": "gift",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "exchange",
+            "id": "exchange-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "debt",
+            "id": "debt",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Wealth",
+            "id": "wealth",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "poverty",
+            "id": "poverty",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Property",
+            "id": "property",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "ownership",
+            "id": "ownership",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "Honor",
+            "id": "honor",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "shame",
+            "id": "shame",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 22,
+            "expression": "Secret",
+            "id": "secret",
+            "disposition": "added"
+        },
+        {
+            "category": 22,
+            "expression": "knowledge",
+            "id": "knowledge",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Exist",
+            "id": "exist",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "be",
+            "id": "be",
+            "disposition": "retained"
+        },
+        {
+            "category": 23,
+            "expression": "become",
+            "id": "become",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "remain",
+            "id": "remain",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "cease",
+            "id": "stop",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "Something",
+            "id": "something",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "nothing",
+            "id": "none",
+            "disposition": "retained"
+        },
+        {
+            "category": 23,
+            "expression": "Thing",
+            "id": "thing",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "being",
+            "id": "being",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "person",
+            "id": "person",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "Life",
+            "id": "life",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "death",
+            "id": "death",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "Birth",
+            "id": "birth",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "origin",
+            "id": "origin",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "beginning",
+            "id": "beginning",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "End",
+            "id": "end-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "completion",
+            "id": "completion",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Change",
+            "id": "change-noun",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "transformation",
+            "id": "transformation",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Same",
+            "id": "same",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "different",
+            "id": "different",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "Part",
+            "id": "part",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "whole",
+            "id": "whole",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "Cause",
+            "id": "cause",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "effect",
+            "id": "effect",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Reason",
+            "id": "reason",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "purpose",
+            "id": "purpose",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Kind",
+            "id": "kind",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "type",
+            "id": "kind",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "category",
+            "id": "kind",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "Real",
+            "id": "real",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "unreal",
+            "id": "unreal",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Natural",
+            "id": "natural",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "unnatural",
+            "id": "unnatural",
+            "disposition": "added"
+        },
+        {
+            "category": 23,
+            "expression": "Possible",
+            "id": "possible",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 23,
+            "expression": "impossible",
+            "id": "impossible",
+            "disposition": "shared sense"
+        },
+        {
+            "category": 16,
+            "expression": "forming yes/no questions",
+            "id": "question-polar",
+            "disposition": "added"
+        },
+        {
+            "category": 16,
+            "expression": "requesting clarification",
+            "id": "question-clarification",
+            "disposition": "added"
+        }
+    ]
+}

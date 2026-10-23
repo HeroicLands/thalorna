@@ -3,197 +3,987 @@ shortcode: coreconcepts
 name: {full: Core Vocabulary, aliases: []}
 type: doc
 subType: reference
-description: The concepts every human language of Thalorna has a word for.
+description: The concepts every human language of Thalorna can express.
 tags: []
 data:
   concepts:
-    - {id: see-verb, gloss: "to see", group: senses}
-    - {id: see-noun, gloss: "a sight; what is seen", group: senses}
-    - {id: hear-verb, gloss: "to hear", group: senses}
-    - {id: hear-noun, gloss: "a sound", group: senses}
-    - {id: smell-verb, gloss: "to smell", group: senses}
-    - {id: smell-noun, gloss: "a smell; a scent", group: senses}
-    - {id: taste-verb, gloss: "to taste", group: senses}
-    - {id: taste-noun, gloss: "a taste; a flavour", group: senses}
-    - {id: touch-verb, gloss: "to touch; to feel with the hand", group: senses}
-    - {id: touch-noun, gloss: "a touch", group: senses}
-    - {id: wrath, gloss: "wrath", group: passions}
-    - {id: envy, gloss: "envy", group: passions}
-    - {id: hope, gloss: "hope", group: passions}
-    - {id: greed, gloss: "greed", group: passions}
-    - {id: boasting, gloss: "boasting", group: passions}
-    - {id: pride, gloss: "pride", group: passions}
-    - {id: lust, gloss: "lust", group: passions}
-    - {id: despair, gloss: "despair", group: passions}
-    - {id: disappointment, gloss: "disappointment", group: passions}
-    - {id: faith, gloss: "faith", group: passions}
-    - {id: love-eros, gloss: "romantic love (eros)", group: loves}
-    - {id: love-philia, gloss: "friendship (philia)", group: loves}
-    - {id: love-storge, gloss: "the love of family (storge)", group: loves}
-    - {id: love-agape, gloss: "selfless, universal love (agape)", group: loves}
-    - {id: head, gloss: "the head", group: body}
-    - {id: hair, gloss: "the hair", group: body}
-    - {id: face, gloss: "the face", group: body}
-    - {id: eye, gloss: "the eye", group: body}
-    - {id: ear, gloss: "the ear", group: body}
-    - {id: nose, gloss: "the nose", group: body}
-    - {id: mouth, gloss: "the mouth", group: body}
-    - {id: lip, gloss: "the lip", group: body}
-    - {id: tooth, gloss: "the tooth", group: body}
-    - {id: tongue, gloss: "the tongue", group: body}
-    - {id: neck, gloss: "the neck", group: body}
-    - {id: shoulder, gloss: "the shoulder", group: body}
-    - {id: arm, gloss: "the arm", group: body}
-    - {id: elbow, gloss: "the elbow", group: body}
-    - {id: hand, gloss: "the hand", group: body}
-    - {id: finger, gloss: "the finger", group: body}
-    - {id: nail, gloss: "the fingernail", group: body}
-    - {id: chest, gloss: "the chest", group: body}
-    - {id: breast, gloss: "the breast", group: body}
-    - {id: heart, gloss: "the heart", group: body}
-    - {id: belly, gloss: "the belly", group: body}
-    - {id: back, gloss: "the back", group: body}
-    - {id: hip, gloss: "the hip", group: body}
-    - {id: leg, gloss: "the leg", group: body}
-    - {id: knee, gloss: "the knee", group: body}
-    - {id: foot, gloss: "the foot", group: body}
-    - {id: toe, gloss: "the toe", group: body}
-    - {id: skin, gloss: "the skin", group: body}
-    - {id: bone, gloss: "the bone", group: body}
-    - {id: blood, gloss: "blood", group: body}
-    - {id: flesh, gloss: "flesh", group: body}
-    - {id: food, gloss: "food", group: needs}
-    - {id: eat, gloss: "to eat", group: needs}
-    - {id: drink-noun, gloss: "a drink", group: needs}
-    - {id: drink-verb, gloss: "to drink", group: needs}
-    - {id: water, gloss: "water", group: needs}
-    - {id: air, gloss: "air", group: needs}
-    - {id: breath, gloss: "breath", group: needs}
-    - {id: breathe, gloss: "to breathe", group: needs}
-    - {id: sleep-noun, gloss: "sleep", group: needs}
-    - {id: sleep-verb, gloss: "to sleep", group: needs}
-    - {id: urine, gloss: "urine", group: needs}
-    - {id: urinate, gloss: "to urinate", group: needs}
-    - {id: dung, gloss: "dung", group: needs}
-    - {id: defecate, gloss: "to defecate", group: needs}
-    - {id: warmth, gloss: "warmth", group: needs}
-    - {id: shelter, gloss: "shelter", group: needs}
-    - {id: chair, gloss: "a chair", group: things}
-    - {id: table, gloss: "a table", group: things}
-    - {id: bed, gloss: "a bed", group: things}
-    - {id: floor, gloss: "a floor", group: things}
-    - {id: wall, gloss: "a wall", group: things}
-    - {id: roof, gloss: "a roof", group: things}
-    - {id: abode, gloss: "an abode; a house; a home", group: things}
-    - {id: fire, gloss: "fire", group: things}
-    - {id: hearth, gloss: "a hearth", group: things}
-    - {id: door, gloss: "a door", group: things}
-    - {id: lock, gloss: "a lock", group: things}
-    - {id: key, gloss: "a key", group: things}
-    - {id: window, gloss: "a window", group: things}
-    - {id: shutters, gloss: "shutters", group: things}
-    - {id: cup, gloss: "a cup", group: things}
-    - {id: bowl, gloss: "a bowl", group: things}
-    - {id: knife, gloss: "a knife", group: things}
-    - {id: spoon, gloss: "a spoon", group: things}
-    - {id: pot, gloss: "a pot", group: things}
-    - {id: lamp, gloss: "a lamp", group: things}
-    - {id: cloth, gloss: "cloth", group: things}
-    - {id: clothes, gloss: "clothes", group: things}
-    - {id: one, gloss: "one", group: numbers}
-    - {id: two, gloss: "two", group: numbers}
-    - {id: three, gloss: "three", group: numbers}
-    - {id: four, gloss: "four", group: numbers}
-    - {id: five, gloss: "five", group: numbers}
-    - {id: six, gloss: "six", group: numbers}
-    - {id: seven, gloss: "seven", group: numbers}
-    - {id: eight, gloss: "eight", group: numbers}
-    - {id: nine, gloss: "nine", group: numbers}
-    - {id: ten, gloss: "ten", group: numbers}
-    - {id: twenty, gloss: "twenty", group: numbers}
-    - {id: hundred, gloss: "a hundred", group: numbers}
-    - {id: thousand, gloss: "a thousand", group: numbers}
-    - {id: first, gloss: "first", group: numbers}
-    - {id: second, gloss: "second", group: numbers}
-    - {id: third, gloss: "third", group: numbers}
-    - {id: half, gloss: "half", group: numbers}
-    - {id: many, gloss: "many", group: numbers}
-    - {id: few, gloss: "few", group: numbers}
-    - {id: none, gloss: "none; nothing", group: numbers}
-    - {id: black, gloss: "black", group: colours}
-    - {id: white, gloss: "white", group: colours}
-    - {id: red, gloss: "red", group: colours}
-    - {id: green, gloss: "green", group: colours}
-    - {id: yellow, gloss: "yellow", group: colours}
-    - {id: blue, gloss: "blue", group: colours}
-    - {id: grey, gloss: "grey", group: colours}
-    - {id: brown, gloss: "brown", group: colours}
-    - {id: mother, gloss: "mother", group: kinship}
-    - {id: father, gloss: "father", group: kinship}
-    - {id: parent, gloss: "parent", group: kinship}
-    - {id: child, gloss: "child", group: kinship}
-    - {id: son, gloss: "son", group: kinship}
-    - {id: daughter, gloss: "daughter", group: kinship}
-    - {id: brother, gloss: "brother", group: kinship}
-    - {id: sister, gloss: "sister", group: kinship}
-    - {id: grandmother, gloss: "grandmother", group: kinship}
-    - {id: grandfather, gloss: "grandfather", group: kinship}
-    - {id: grandchild, gloss: "grandchild", group: kinship}
-    - {id: uncle, gloss: "uncle", group: kinship}
-    - {id: aunt, gloss: "aunt", group: kinship}
-    - {id: cousin, gloss: "cousin", group: kinship}
-    - {id: husband, gloss: "husband", group: kinship}
-    - {id: wife, gloss: "wife", group: kinship}
-    - {id: ancestor, gloss: "ancestor", group: kinship}
-    - {id: descendant, gloss: "descendant", group: kinship}
-    - {id: orphan, gloss: "orphan", group: kinship}
-    - {id: widow, gloss: "widow", group: kinship}
-    - {id: be, gloss: "to be", group: verbs}
-    - {id: have, gloss: "to have", group: verbs}
-    - {id: go, gloss: "to go", group: verbs}
-    - {id: come, gloss: "to come", group: verbs}
-    - {id: give, gloss: "to give", group: verbs}
-    - {id: take, gloss: "to take", group: verbs}
-    - {id: make, gloss: "to make", group: verbs}
-    - {id: do, gloss: "to do", group: verbs}
-    - {id: say, gloss: "to say", group: verbs}
-    - {id: speak, gloss: "to speak", group: verbs}
-    - {id: know, gloss: "to know", group: verbs}
-    - {id: think, gloss: "to think", group: verbs}
-    - {id: want, gloss: "to want", group: verbs}
-    - {id: live, gloss: "to live", group: verbs}
-    - {id: die, gloss: "to die", group: verbs}
-    - {id: walk, gloss: "to walk", group: verbs}
-    - {id: run, gloss: "to run", group: verbs}
-    - {id: sit, gloss: "to sit", group: verbs}
-    - {id: stand, gloss: "to stand", group: verbs}
-    - {id: lie-down, gloss: "to lie down", group: verbs}
-    - {id: hold, gloss: "to hold", group: verbs}
-    - {id: bring, gloss: "to bring", group: verbs}
-    - {id: put, gloss: "to put", group: verbs}
-    - {id: find, gloss: "to find", group: verbs}
-    - {id: lose, gloss: "to lose", group: verbs}
-    - {id: open, gloss: "to open", group: verbs}
-    - {id: close, gloss: "to close", group: verbs}
-    - {id: begin, gloss: "to begin", group: verbs}
-    - {id: end, gloss: "to end", group: verbs}
+    - {id: "see-verb", gloss: "to see", group: senses}
+    - {id: "see-noun", gloss: "a sight; what is seen", group: senses}
+    - {id: "hear-verb", gloss: "to hear", group: senses}
+    - {id: "hear-noun", gloss: "a sound", group: senses}
+    - {id: "smell-verb", gloss: "to smell", group: senses}
+    - {id: "smell-noun", gloss: "a smell; a scent", group: senses}
+    - {id: "taste-verb", gloss: "to taste", group: senses}
+    - {id: "taste-noun", gloss: "a taste; a flavour", group: senses}
+    - {id: "touch-verb", gloss: "to touch; to feel with the hand", group: senses}
+    - {id: "touch-noun", gloss: "a touch", group: senses}
+    - {id: "look", gloss: "to look", group: senses}
+    - {id: "watch", gloss: "to watch; to observe attentively", group: senses}
+    - {id: "appearance", gloss: "appearance", group: senses}
+    - {id: "visible", gloss: "visible", group: senses}
+    - {id: "invisible", gloss: "invisible", group: senses}
+    - {id: "listen", gloss: "to listen", group: senses}
+    - {id: "noise", gloss: "noise", group: senses}
+    - {id: "voice", gloss: "voice", group: senses}
+    - {id: "silence", gloss: "silence", group: senses}
+    - {id: "loud", gloss: "loud", group: senses}
+    - {id: "quiet", gloss: "quiet", group: senses}
+    - {id: "fragrant", gloss: "fragrant", group: senses}
+    - {id: "foul", gloss: "foul-smelling; having an unpleasant smell", group: senses}
+    - {id: "sweet", gloss: "sweet", group: senses}
+    - {id: "sour", gloss: "sour", group: senses}
+    - {id: "bitter", gloss: "bitter", group: senses}
+    - {id: "salty", gloss: "salty", group: senses}
+    - {id: "feel-verb", gloss: "to feel a sensation", group: senses}
+    - {id: "sensation", gloss: "sensation", group: senses}
+    - {id: "smooth", gloss: "smooth", group: senses}
+    - {id: "rough", gloss: "rough", group: senses}
+    - {id: "soft", gloss: "soft", group: senses}
+    - {id: "hard-texture", gloss: "hard to the touch; firm rather than soft", group: senses}
+    - {id: "notice", gloss: "to notice", group: senses}
+    - {id: "perceive", gloss: "perceive", group: senses}
+    - {id: "recognize", gloss: "recognize", group: senses}
+    - {id: "seem", gloss: "seem", group: senses}
+    - {id: "wrath", gloss: "wrath; intense anger", group: passions}
+    - {id: "envy", gloss: "envy", group: passions}
+    - {id: "hope", gloss: "hope", group: passions}
+    - {id: "greed", gloss: "greed", group: passions}
+    - {id: "boasting", gloss: "boasting", group: passions}
+    - {id: "pride", gloss: "pride", group: passions}
+    - {id: "lust", gloss: "lust", group: passions}
+    - {id: "despair", gloss: "despair", group: passions}
+    - {id: "disappointment", gloss: "disappointment", group: passions}
+    - {id: "faith", gloss: "faith", group: passions}
+    - {id: "joy", gloss: "joy", group: passions}
+    - {id: "happiness", gloss: "happiness", group: passions}
+    - {id: "pleasure", gloss: "pleasure", group: passions}
+    - {id: "contentment", gloss: "contentment", group: passions}
+    - {id: "gratitude", gloss: "gratitude", group: passions}
+    - {id: "admiration", gloss: "admiration", group: passions}
+    - {id: "trust", gloss: "trust", group: passions}
+    - {id: "courage", gloss: "courage", group: passions}
+    - {id: "anger", gloss: "anger", group: passions}
+    - {id: "hatred", gloss: "hatred", group: passions}
+    - {id: "jealousy", gloss: "jealousy", group: passions}
+    - {id: "fear", gloss: "fear", group: passions}
+    - {id: "terror", gloss: "terror", group: passions}
+    - {id: "sadness", gloss: "sadness", group: passions}
+    - {id: "grief", gloss: "grief", group: passions}
+    - {id: "shame", gloss: "shame", group: passions}
+    - {id: "guilt", gloss: "guilt", group: passions}
+    - {id: "regret", gloss: "regret", group: passions}
+    - {id: "humility", gloss: "humility", group: passions}
+    - {id: "confidence", gloss: "confidence", group: passions}
+    - {id: "embarrassment", gloss: "embarrassment", group: passions}
+    - {id: "compassion", gloss: "compassion", group: passions}
+    - {id: "pity", gloss: "pity", group: passions}
+    - {id: "sympathy", gloss: "sympathy", group: passions}
+    - {id: "resentment", gloss: "resentment", group: passions}
+    - {id: "contempt", gloss: "contempt", group: passions}
+    - {id: "forgiveness", gloss: "forgiveness", group: passions}
+    - {id: "desire", gloss: "desire", group: passions}
+    - {id: "longing", gloss: "longing", group: passions}
+    - {id: "satisfaction", gloss: "satisfaction (desire fulfilled)", group: passions}
+    - {id: "frustration", gloss: "frustration", group: passions}
+    - {id: "curiosity", gloss: "curiosity", group: passions}
+    - {id: "confusion", gloss: "confusion", group: passions}
+    - {id: "doubt", gloss: "doubt", group: passions}
+    - {id: "certainty", gloss: "certainty", group: passions}
+    - {id: "surprise", gloss: "surprise", group: passions}
+    - {id: "boredom", gloss: "boredom", group: passions}
+    - {id: "anticipation", gloss: "anticipation", group: passions}
+    - {id: "belief", gloss: "belief", group: passions}
+    - {id: "reverence", gloss: "reverence", group: passions}
+    - {id: "awe", gloss: "awe", group: passions}
+    - {id: "love-eros", gloss: "romantic love (eros)", group: loves}
+    - id: "love-philia"
+      gloss: "friendship; affectionate regard between friends (philia)"
+      group: loves
+    - {id: "love-storge", gloss: "the love of family (storge)", group: loves}
+    - {id: "love-agape", gloss: "selfless, universal love (agape)", group: loves}
+    - {id: "affection", gloss: "affection", group: loves}
+    - {id: "attraction", gloss: "attraction", group: loves}
+    - {id: "intimacy", gloss: "intimacy", group: loves}
+    - {id: "devotion", gloss: "devotion", group: loves}
+    - {id: "loyalty", gloss: "loyalty", group: loves}
+    - {id: "companionship", gloss: "companionship; being together with a companion", group: loves}
+    - {id: "enmity", gloss: "enmity", group: loves}
+    - {id: "head", gloss: "the head", group: body}
+    - {id: "hair", gloss: "the hair", group: body}
+    - {id: "face", gloss: "the face", group: body}
+    - {id: "eye", gloss: "the eye", group: body}
+    - {id: "ear", gloss: "the ear", group: body}
+    - {id: "nose", gloss: "the nose", group: body}
+    - {id: "mouth", gloss: "the mouth", group: body}
+    - {id: "lip", gloss: "the lip", group: body}
+    - {id: "tooth", gloss: "the tooth", group: body}
+    - {id: "tongue", gloss: "the tongue", group: body}
+    - {id: "neck", gloss: "the neck", group: body}
+    - {id: "shoulder", gloss: "the shoulder", group: body}
+    - {id: "arm", gloss: "the arm", group: body}
+    - {id: "elbow", gloss: "the elbow", group: body}
+    - {id: "hand", gloss: "the hand", group: body}
+    - {id: "finger", gloss: "the finger", group: body}
+    - {id: "nail", gloss: "the fingernail", group: body}
+    - {id: "chest", gloss: "the chest", group: body}
+    - {id: "breast", gloss: "the breast", group: body}
+    - {id: "heart", gloss: "the heart", group: body}
+    - {id: "belly", gloss: "the belly", group: body}
+    - {id: "back", gloss: "the back", group: body}
+    - {id: "hip", gloss: "the hip", group: body}
+    - {id: "leg", gloss: "the leg", group: body}
+    - {id: "knee", gloss: "the knee", group: body}
+    - {id: "foot", gloss: "the foot", group: body}
+    - {id: "toe", gloss: "the toe", group: body}
+    - {id: "skin", gloss: "the skin", group: body}
+    - {id: "bone", gloss: "the bone", group: body}
+    - {id: "blood", gloss: "blood", group: body}
+    - {id: "flesh", gloss: "flesh", group: body}
+    - {id: "forehead", gloss: "forehead", group: body}
+    - {id: "jaw", gloss: "jaw", group: body}
+    - {id: "chin", gloss: "chin", group: body}
+    - {id: "cheek", gloss: "cheek", group: body}
+    - {id: "throat", gloss: "throat", group: body}
+    - {id: "stomach", gloss: "stomach", group: body}
+    - {id: "waist", gloss: "waist", group: body}
+    - {id: "spine", gloss: "spine", group: body}
+    - {id: "buttock", gloss: "buttock", group: body}
+    - {id: "wrist", gloss: "wrist", group: body}
+    - {id: "palm", gloss: "palm", group: body}
+    - {id: "thumb", gloss: "thumb", group: body}
+    - {id: "thigh", gloss: "thigh", group: body}
+    - {id: "ankle", gloss: "ankle", group: body}
+    - {id: "heel", gloss: "heel", group: body}
+    - {id: "sole", gloss: "sole", group: body}
+    - {id: "toenail", gloss: "toenail", group: body}
+    - {id: "muscle", gloss: "muscle", group: body}
+    - {id: "fat", gloss: "fat", group: body}
+    - {id: "sweat", gloss: "sweat (noun)", group: body}
+    - {id: "tears", gloss: "tears", group: body}
+    - {id: "saliva", gloss: "saliva", group: body}
+    - {id: "brain", gloss: "brain", group: body}
+    - {id: "lung", gloss: "lung", group: body}
+    - {id: "liver", gloss: "liver", group: body}
+    - {id: "kidney", gloss: "kidney", group: body}
+    - {id: "intestine", gloss: "intestine", group: body}
+    - {id: "genitals", gloss: "genitals", group: body}
+    - {id: "womb", gloss: "womb", group: body}
+    - {id: "penis", gloss: "penis", group: body}
+    - {id: "vagina", gloss: "vagina", group: body}
+    - {id: "testicle", gloss: "testicle", group: body}
+    - {id: "food", gloss: "food", group: needs}
+    - {id: "eat", gloss: "to eat", group: needs}
+    - {id: "drink-noun", gloss: "a drink", group: needs}
+    - {id: "drink-verb", gloss: "to drink", group: needs}
+    - {id: "water", gloss: "water", group: needs}
+    - {id: "air", gloss: "air", group: needs}
+    - {id: "breath", gloss: "breath", group: needs}
+    - {id: "breathe", gloss: "to breathe", group: needs}
+    - {id: "sleep-noun", gloss: "sleep", group: needs}
+    - {id: "sleep-verb", gloss: "to sleep", group: needs}
+    - {id: "urine", gloss: "urine", group: needs}
+    - {id: "urinate", gloss: "to urinate", group: needs}
+    - {id: "dung", gloss: "dung", group: needs}
+    - {id: "defecate", gloss: "to defecate", group: needs}
+    - {id: "warmth", gloss: "warmth", group: needs}
+    - {id: "shelter", gloss: "shelter", group: needs}
+    - {id: "hunger", gloss: "hunger", group: needs}
+    - {id: "hungry", gloss: "hungry", group: needs}
+    - {id: "thirst", gloss: "thirst", group: needs}
+    - {id: "thirsty", gloss: "thirsty", group: needs}
+    - {id: "inhale", gloss: "inhale", group: needs}
+    - {id: "exhale", gloss: "exhale", group: needs}
+    - {id: "suffocate", gloss: "suffocate", group: needs}
+    - {id: "wake", gloss: "wake", group: needs}
+    - {id: "awake", gloss: "awake", group: needs}
+    - {id: "dream", gloss: "a dream", group: needs}
+    - {id: "rest", gloss: "rest (noun)", group: needs}
+    - {id: "tired", gloss: "tired", group: needs}
+    - {id: "sweat-verb", gloss: "to sweat", group: needs}
+    - {id: "heat", gloss: "heat", group: needs}
+    - {id: "cold-noun", gloss: "cold as a bodily need or temperature condition", group: needs}
+    - {id: "hot", gloss: "hot", group: needs}
+    - {id: "warm", gloss: "warm", group: needs}
+    - {id: "cool", gloss: "cool", group: needs}
+    - {id: "freeze", gloss: "freeze", group: needs}
+    - {id: "burn", gloss: "burn", group: needs}
+    - {id: "safety", gloss: "safety", group: needs}
+    - {id: "danger", gloss: "danger", group: needs}
+    - {id: "protection", gloss: "protection", group: needs}
+    - {id: "sex", gloss: "sex", group: needs}
+    - {id: "conceive", gloss: "conceive", group: needs}
+    - {id: "pregnancy", gloss: "pregnancy", group: needs}
+    - {id: "pregnant", gloss: "pregnant", group: needs}
+    - {id: "birth", gloss: "birth", group: needs}
+    - {id: "give-birth", gloss: "give birth", group: needs}
+    - {id: "nurse", gloss: "to nurse a child; to feed a child at the breast", group: needs}
+    - {id: "grow", gloss: "grow", group: needs}
+    - {id: "age-verb", gloss: "to age; to grow older", group: needs}
+    - {id: "death", gloss: "death", group: needs}
+    - {id: "dead", gloss: "dead", group: needs}
+    - {id: "healthy", gloss: "healthy; hale", group: health}
+    - {id: "sick", gloss: "sick; ill", group: health}
+    - {id: "injured", gloss: "injured; wounded", group: health}
+    - {id: "strong", gloss: "Strong", group: health}
+    - {id: "weak", gloss: "weak", group: health}
+    - {id: "exhausted", gloss: "exhausted", group: health}
+    - {id: "sated", gloss: "full; satisfied after eating or drinking", group: health}
+    - {id: "cold", gloss: "cold in temperature", group: health}
+    - {id: "feverish", gloss: "feverish", group: health}
+    - {id: "pain", gloss: "Pain", group: health}
+    - {id: "hurt-verb", gloss: "to hurt; to cause pain or injury to someone", group: health}
+    - {id: "ache", gloss: "ache", group: health}
+    - {id: "suffer", gloss: "suffer", group: health}
+    - {id: "bleed", gloss: "Bleed", group: health}
+    - {id: "heal", gloss: "heal", group: health}
+    - {id: "recover", gloss: "recover", group: health}
+    - {id: "blind", gloss: "Blind", group: health}
+    - {id: "deaf", gloss: "deaf", group: health}
+    - {id: "lame", gloss: "lame", group: health}
+    - {id: "alive", gloss: "Alive", group: health}
+    - {id: "conscious", gloss: "conscious", group: health}
+    - {id: "unconscious", gloss: "unconscious", group: health}
+    - {id: "young", gloss: "Young", group: health}
+    - {id: "old", gloss: "old in age (a living being)", group: health}
+    - {id: "aging", gloss: "aging; growing older", group: health}
+    - {id: "hurt-pain", gloss: "to hurt; to experience bodily pain", group: health}
+    - {id: "mother", gloss: "mother", group: kinship}
+    - {id: "father", gloss: "father", group: kinship}
+    - {id: "parent", gloss: "parent", group: kinship}
+    - {id: "child", gloss: "child", group: kinship}
+    - {id: "son", gloss: "son", group: kinship}
+    - {id: "daughter", gloss: "daughter", group: kinship}
+    - {id: "brother", gloss: "brother", group: kinship}
+    - {id: "sister", gloss: "sister", group: kinship}
+    - {id: "grandmother", gloss: "grandmother", group: kinship}
+    - {id: "grandfather", gloss: "grandfather", group: kinship}
+    - {id: "grandchild", gloss: "grandchild", group: kinship}
+    - {id: "uncle", gloss: "uncle", group: kinship}
+    - {id: "aunt", gloss: "aunt", group: kinship}
+    - {id: "cousin", gloss: "cousin", group: kinship}
+    - {id: "husband", gloss: "husband", group: kinship}
+    - {id: "wife", gloss: "wife", group: kinship}
+    - {id: "ancestor", gloss: "ancestor", group: kinship}
+    - {id: "descendant", gloss: "descendant", group: kinship}
+    - {id: "orphan", gloss: "orphan", group: kinship}
+    - {id: "widow", gloss: "widow", group: kinship}
+    - {id: "grandparent", gloss: "grandparent", group: kinship}
+    - {id: "nephew", gloss: "nephew", group: kinship}
+    - {id: "niece", gloss: "niece", group: kinship}
+    - {id: "spouse", gloss: "spouse", group: kinship}
+    - {id: "marriage", gloss: "marriage", group: kinship}
+    - {id: "marry", gloss: "marry", group: kinship}
+    - {id: "family", gloss: "family", group: kinship}
+    - {id: "kin", gloss: "kin", group: kinship}
+    - {id: "lineage", gloss: "lineage", group: kinship}
+    - {id: "widower", gloss: "widower", group: kinship}
+    - {id: "friend", gloss: "friend", group: kinship}
+    - {id: "enemy", gloss: "enemy", group: kinship}
+    - {id: "stranger", gloss: "stranger", group: kinship}
+    - {id: "neighbor", gloss: "neighbor", group: kinship}
+    - {id: "companion", gloss: "companion", group: kinship}
+    - {id: "guest", gloss: "guest", group: kinship}
+    - {id: "host", gloss: "host", group: kinship}
+    - {id: "leader", gloss: "leader", group: kinship}
+    - {id: "follower", gloss: "follower", group: kinship}
+    - {id: "servant", gloss: "servant", group: kinship}
+    - {id: "master", gloss: "master", group: kinship}
+    - {id: "teacher", gloss: "teacher", group: kinship}
+    - {id: "student", gloss: "student", group: kinship}
+    - {id: "chair", gloss: "a chair", group: things}
+    - {id: "table", gloss: "a table", group: things}
+    - {id: "bed", gloss: "a bed", group: things}
+    - {id: "floor", gloss: "a floor", group: things}
+    - {id: "wall", gloss: "a wall", group: things}
+    - {id: "roof", gloss: "a roof", group: things}
+    - {id: "abode", gloss: "an abode; a house; a home", group: things}
+    - {id: "fire", gloss: "fire", group: things}
+    - {id: "hearth", gloss: "a hearth", group: things}
+    - {id: "door", gloss: "a door", group: things}
+    - {id: "lock", gloss: "a lock", group: things}
+    - {id: "key", gloss: "a key", group: things}
+    - {id: "window", gloss: "a window", group: things}
+    - {id: "shutters", gloss: "shutters", group: things}
+    - {id: "cup", gloss: "a cup", group: things}
+    - {id: "bowl", gloss: "a bowl", group: things}
+    - {id: "knife", gloss: "a knife", group: things}
+    - {id: "spoon", gloss: "a spoon", group: things}
+    - {id: "pot", gloss: "a pot", group: things}
+    - {id: "lamp", gloss: "a lamp", group: things}
+    - {id: "cloth", gloss: "cloth", group: things}
+    - {id: "clothes", gloss: "clothes", group: things}
+    - {id: "room", gloss: "room", group: things}
+    - {id: "ceiling", gloss: "ceiling", group: things}
+    - {id: "seat", gloss: "seat", group: things}
+    - {id: "bench", gloss: "bench", group: things}
+    - {id: "jar", gloss: "jar", group: things}
+    - {id: "bottle", gloss: "bottle", group: things}
+    - {id: "basket", gloss: "basket", group: things}
+    - {id: "bag", gloss: "bag", group: things}
+    - {id: "hammer", gloss: "hammer", group: things}
+    - {id: "rope", gloss: "rope", group: things}
+    - {id: "cord", gloss: "cord", group: things}
+    - {id: "needle", gloss: "needle", group: things}
+    - {id: "flame", gloss: "flame", group: things}
+    - {id: "smoke", gloss: "smoke", group: things}
+    - {id: "ash", gloss: "ash", group: things}
+    - {id: "coal", gloss: "coal", group: things}
+    - {id: "torch", gloss: "torch", group: things}
+    - {id: "candle", gloss: "candle", group: things}
+    - {id: "garment", gloss: "garment", group: things}
+    - {id: "shirt", gloss: "shirt", group: things}
+    - {id: "cloak", gloss: "cloak", group: things}
+    - {id: "belt", gloss: "belt", group: things}
+    - {id: "shoe", gloss: "shoe", group: things}
+    - {id: "boot", gloss: "boot", group: things}
+    - {id: "gate", gloss: "gate", group: things}
+    - {id: "barrier", gloss: "barrier", group: things}
+    - {id: "wood", gloss: "wood", group: things}
+    - {id: "stone", gloss: "stone", group: things}
+    - {id: "metal", gloss: "metal", group: things}
+    - {id: "clay", gloss: "clay", group: things}
+    - {id: "leather", gloss: "leather", group: things}
+    - {id: "wool", gloss: "wool", group: things}
+    - {id: "thread", gloss: "thread", group: things}
+    - {id: "earth", gloss: "earth", group: nature}
+    - {id: "soil", gloss: "soil", group: nature}
+    - {id: "rock", gloss: "rock", group: nature}
+    - {id: "sand", gloss: "sand", group: nature}
+    - {id: "mud", gloss: "mud", group: nature}
+    - {id: "dust", gloss: "dust", group: nature}
+    - {id: "land", gloss: "land", group: nature}
+    - {id: "mountain", gloss: "mountain", group: nature}
+    - {id: "hill", gloss: "hill", group: nature}
+    - {id: "valley", gloss: "valley", group: nature}
+    - {id: "plain-landform", gloss: "a plain; flat open land", group: nature}
+    - {id: "forest", gloss: "forest", group: nature}
+    - {id: "field", gloss: "field", group: nature}
+    - {id: "cave", gloss: "cave", group: nature}
+    - {id: "river", gloss: "river", group: nature}
+    - {id: "stream", gloss: "stream", group: nature}
+    - {id: "lake", gloss: "lake", group: nature}
+    - {id: "sea", gloss: "sea", group: nature}
+    - {id: "ocean", gloss: "ocean", group: nature}
+    - {id: "shore", gloss: "shore", group: nature}
+    - {id: "rain", gloss: "rain", group: nature}
+    - {id: "snow", gloss: "snow", group: nature}
+    - {id: "ice", gloss: "ice", group: nature}
+    - {id: "sky", gloss: "sky", group: nature}
+    - {id: "sun", gloss: "sun", group: nature}
+    - {id: "moon", gloss: "moon", group: nature}
+    - {id: "star", gloss: "star", group: nature}
+    - {id: "cloud", gloss: "cloud", group: nature}
+    - {id: "wind", gloss: "wind", group: nature}
+    - {id: "storm", gloss: "storm", group: nature}
+    - {id: "thunder", gloss: "thunder", group: nature}
+    - {id: "lightning", gloss: "lightning", group: nature}
+    - {id: "plant", gloss: "plant", group: nature}
+    - {id: "tree", gloss: "tree", group: nature}
+    - {id: "leaf", gloss: "leaf", group: nature}
+    - {id: "root", gloss: "root", group: nature}
+    - {id: "branch", gloss: "branch", group: nature}
+    - {id: "flower", gloss: "flower", group: nature}
+    - {id: "fruit", gloss: "fruit", group: nature}
+    - {id: "seed", gloss: "seed", group: nature}
+    - {id: "grass", gloss: "grass", group: nature}
+    - {id: "animal", gloss: "animal", group: nature}
+    - {id: "beast", gloss: "beast", group: nature}
+    - {id: "bird", gloss: "bird", group: nature}
+    - {id: "fish", gloss: "fish", group: nature}
+    - {id: "insect", gloss: "insect", group: nature}
+    - {id: "worm", gloss: "worm", group: nature}
+    - {id: "wet", gloss: "wet", group: nature}
+    - {id: "dry", gloss: "dry", group: nature}
+    - {id: "bright", gloss: "bright", group: nature}
+    - {id: "dark", gloss: "dark", group: nature}
+    - {id: "clear-weather", gloss: "clear weather; without clouds", group: nature}
+    - {id: "cloudy", gloss: "cloudy", group: nature}
+    - {id: "north", gloss: "north", group: nature}
+    - {id: "south", gloss: "south", group: nature}
+    - {id: "east", gloss: "east", group: nature}
+    - {id: "west", gloss: "west", group: nature}
+    - {id: "one", gloss: "one", group: numbers}
+    - {id: "two", gloss: "two", group: numbers}
+    - {id: "three", gloss: "three", group: numbers}
+    - {id: "four", gloss: "four", group: numbers}
+    - {id: "five", gloss: "five", group: numbers}
+    - {id: "six", gloss: "six", group: numbers}
+    - {id: "seven", gloss: "seven", group: numbers}
+    - {id: "eight", gloss: "eight", group: numbers}
+    - {id: "nine", gloss: "nine", group: numbers}
+    - {id: "ten", gloss: "ten", group: numbers}
+    - {id: "twenty", gloss: "twenty", group: numbers}
+    - {id: "hundred", gloss: "a hundred", group: numbers}
+    - {id: "thousand", gloss: "a thousand", group: numbers}
+    - {id: "first", gloss: "first in ordinal position", group: numbers}
+    - {id: "second", gloss: "second", group: numbers}
+    - {id: "third", gloss: "third", group: numbers}
+    - {id: "half", gloss: "half", group: numbers}
+    - {id: "many", gloss: "many", group: numbers}
+    - {id: "few", gloss: "few", group: numbers}
+    - {id: "none", gloss: "none; nothing", group: numbers}
+    - {id: "zero", gloss: "zero", group: numbers}
+    - id: "ordinal-construction"
+      gloss: "productive expression of ordinal positions beyond third"
+      group: numbers
+    - {id: "quarter", gloss: "quarter", group: numbers}
+    - {id: "whole", gloss: "whole", group: numbers}
+    - {id: "all", gloss: "all", group: numbers}
+    - {id: "some", gloss: "some", group: numbers}
+    - {id: "much", gloss: "much", group: numbers}
+    - {id: "little-quantity", gloss: "little", group: numbers}
+    - {id: "enough", gloss: "enough", group: numbers}
+    - {id: "more", gloss: "more", group: numbers}
+    - {id: "less", gloss: "less", group: numbers}
+    - {id: "most", gloss: "most", group: numbers}
+    - {id: "least", gloss: "least", group: numbers}
+    - {id: "equal", gloss: "equal", group: numbers}
+    - {id: "each", gloss: "each", group: numbers}
+    - {id: "every", gloss: "every", group: numbers}
+    - {id: "both", gloss: "both", group: numbers}
+    - {id: "either", gloss: "either", group: numbers}
+    - {id: "neither", gloss: "neither", group: numbers}
+    - {id: "about", gloss: "about", group: numbers}
+    - {id: "almost", gloss: "almost", group: numbers}
+    - {id: "exactly", gloss: "exactly", group: numbers}
+    - {id: "number", gloss: "number", group: numbers}
+    - {id: "amount", gloss: "amount", group: numbers}
+    - {id: "measure-verb", gloss: "measure", group: numbers}
+    - {id: "count-verb", gloss: "count", group: numbers}
+    - {id: "black", gloss: "black", group: colours}
+    - {id: "white", gloss: "white", group: colours}
+    - {id: "red", gloss: "red", group: colours}
+    - {id: "green", gloss: "green", group: colours}
+    - {id: "yellow", gloss: "yellow", group: colours}
+    - {id: "blue", gloss: "blue", group: colours}
+    - {id: "grey", gloss: "grey", group: colours}
+    - {id: "brown", gloss: "brown", group: colours}
+    - {id: "light-colour", gloss: "light in colour", group: colours}
+    - {id: "pale", gloss: "pale", group: colours}
+    - {id: "clear-appearance", gloss: "clear in appearance", group: colours}
+    - {id: "opaque", gloss: "opaque", group: colours}
+    - {id: "transparent", gloss: "transparent", group: colours}
+    - {id: "shiny", gloss: "shiny", group: colours}
+    - {id: "dull-appearance", gloss: "dull", group: colours}
+    - {id: "plain-pattern", gloss: "plain; without a pattern", group: colours}
+    - {id: "spotted", gloss: "spotted", group: colours}
+    - {id: "striped", gloss: "striped", group: colours}
+    - {id: "be", gloss: "to be", group: verbs}
+    - {id: "have", gloss: "to have", group: verbs}
+    - {id: "go", gloss: "to go", group: verbs}
+    - {id: "come", gloss: "to come", group: verbs}
+    - {id: "give", gloss: "to give", group: verbs}
+    - {id: "take", gloss: "to take", group: verbs}
+    - {id: "make", gloss: "to make", group: verbs}
+    - {id: "do", gloss: "to do", group: verbs}
+    - {id: "say", gloss: "to say", group: verbs}
+    - {id: "speak", gloss: "to speak", group: verbs}
+    - {id: "know", gloss: "to know", group: verbs}
+    - {id: "think", gloss: "to think", group: verbs}
+    - {id: "want", gloss: "to want", group: verbs}
+    - {id: "live", gloss: "to live", group: verbs}
+    - {id: "die", gloss: "to die", group: verbs}
+    - {id: "walk", gloss: "to walk", group: verbs}
+    - {id: "run", gloss: "to run", group: verbs}
+    - {id: "sit", gloss: "to sit", group: verbs}
+    - {id: "stand", gloss: "to stand", group: verbs}
+    - {id: "lie-down", gloss: "to lie down", group: verbs}
+    - {id: "hold", gloss: "to hold", group: verbs}
+    - {id: "bring", gloss: "to bring", group: verbs}
+    - {id: "put", gloss: "to put", group: verbs}
+    - {id: "find", gloss: "to find", group: verbs}
+    - {id: "lose", gloss: "to lose", group: verbs}
+    - {id: "open", gloss: "to open", group: verbs}
+    - {id: "close", gloss: "to close", group: verbs}
+    - {id: "begin", gloss: "to begin", group: verbs}
+    - {id: "end", gloss: "to end", group: verbs}
+    - {id: "exist", gloss: "to exist", group: verbs}
+    - {id: "belong", gloss: "to belong", group: verbs}
+    - {id: "become", gloss: "to become", group: verbs}
+    - {id: "remain", gloss: "to remain", group: verbs}
+    - {id: "leave", gloss: "to leave", group: verbs}
+    - {id: "arrive", gloss: "to arrive", group: verbs}
+    - {id: "crawl", gloss: "to crawl", group: verbs}
+    - {id: "climb", gloss: "to climb", group: verbs}
+    - {id: "jump", gloss: "to jump", group: verbs}
+    - {id: "fall", gloss: "to fall", group: verbs}
+    - {id: "rise", gloss: "to rise", group: verbs}
+    - {id: "enter", gloss: "to enter", group: verbs}
+    - {id: "exit", gloss: "to exit", group: verbs}
+    - {id: "return", gloss: "to return", group: verbs}
+    - {id: "follow", gloss: "to follow", group: verbs}
+    - {id: "lead", gloss: "to lead", group: verbs}
+    - {id: "carry", gloss: "to carry", group: verbs}
+    - {id: "move", gloss: "to move", group: verbs}
+    - {id: "push", gloss: "to push", group: verbs}
+    - {id: "pull", gloss: "to pull", group: verbs}
+    - {id: "lift", gloss: "to lift", group: verbs}
+    - {id: "drop", gloss: "to drop", group: verbs}
+    - {id: "throw", gloss: "to throw", group: verbs}
+    - {id: "catch", gloss: "to catch", group: verbs}
+    - {id: "build", gloss: "to build", group: verbs}
+    - {id: "create", gloss: "to create", group: verbs}
+    - {id: "break", gloss: "to break", group: verbs}
+    - {id: "destroy", gloss: "to destroy", group: verbs}
+    - {id: "repair", gloss: "to repair", group: verbs}
+    - {id: "change-verb", gloss: "to change", group: verbs}
+    - {id: "tell", gloss: "to tell", group: verbs}
+    - {id: "ask", gloss: "to ask", group: verbs}
+    - {id: "answer", gloss: "to answer", group: verbs}
+    - {id: "call", gloss: "to call", group: verbs}
+    - {id: "shout", gloss: "to shout", group: verbs}
+    - {id: "whisper", gloss: "to whisper", group: verbs}
+    - {id: "explain", gloss: "to explain", group: verbs}
+    - {id: "name-verb", gloss: "to name", group: verbs}
+    - {id: "believe", gloss: "to believe", group: verbs}
+    - {id: "understand", gloss: "to understand", group: verbs}
+    - {id: "remember", gloss: "to remember", group: verbs}
+    - {id: "forget", gloss: "to forget", group: verbs}
+    - {id: "learn", gloss: "to learn", group: verbs}
+    - {id: "teach", gloss: "to teach", group: verbs}
+    - {id: "decide", gloss: "to decide", group: verbs}
+    - {id: "imagine", gloss: "to imagine", group: verbs}
+    - {id: "need-verb", gloss: "to need", group: verbs}
+    - {id: "wish-verb", gloss: "to wish", group: verbs}
+    - {id: "hope-verb", gloss: "to hope", group: verbs}
+    - {id: "intend", gloss: "to intend", group: verbs}
+    - {id: "choose", gloss: "to choose", group: verbs}
+    - {id: "prefer", gloss: "to prefer", group: verbs}
+    - {id: "try", gloss: "to try", group: verbs}
+    - {id: "search", gloss: "to search", group: verbs}
+    - {id: "meet", gloss: "to meet", group: verbs}
+    - {id: "help", gloss: "to help", group: verbs}
+    - {id: "share", gloss: "to share", group: verbs}
+    - {id: "trade", gloss: "to trade", group: verbs}
+    - {id: "buy", gloss: "to buy", group: verbs}
+    - {id: "sell", gloss: "to sell", group: verbs}
+    - {id: "promise-verb", gloss: "to promise", group: verbs}
+    - {id: "thank-verb", gloss: "to thank", group: verbs}
+    - {id: "forgive-verb", gloss: "to forgive", group: verbs}
+    - {id: "refuse-verb", gloss: "to refuse", group: verbs}
+    - {id: "agree-verb", gloss: "to agree", group: verbs}
+    - {id: "fight", gloss: "to fight", group: verbs}
+    - {id: "hit", gloss: "to hit", group: verbs}
+    - {id: "kill", gloss: "to kill", group: verbs}
+    - {id: "defend", gloss: "to defend", group: verbs}
+    - {id: "attack", gloss: "to attack", group: verbs}
+    - {id: "flee", gloss: "to flee", group: verbs}
+    - {id: "threaten", gloss: "to threaten", group: verbs}
+    - {id: "stop", gloss: "to stop", group: verbs}
+    - {id: "continue", gloss: "to continue", group: verbs}
+    - {id: "wait", gloss: "to wait", group: verbs}
+    - {id: "happen", gloss: "to happen", group: verbs}
+    - {id: "kneel", gloss: "to kneel", group: verbs}
+    - {id: "bend", gloss: "to bend", group: verbs}
+    - {id: "lean", gloss: "to lean", group: verbs}
+    - {id: "cover-verb", gloss: "to cover", group: verbs}
+    - {id: "uncover", gloss: "to uncover", group: verbs}
+    - {id: "hide", gloss: "to hide", group: verbs}
+    - {id: "reveal", gloss: "to reveal", group: verbs}
+    - {id: "lock-verb", gloss: "to lock", group: verbs}
+    - {id: "unlock", gloss: "to unlock", group: verbs}
+    - {id: "here", gloss: "Here", group: space}
+    - {id: "there", gloss: "there", group: space}
+    - {id: "somewhere", gloss: "somewhere", group: space}
+    - {id: "nowhere", gloss: "nowhere", group: space}
+    - {id: "everywhere", gloss: "everywhere", group: space}
+    - {id: "near", gloss: "Near", group: space}
+    - {id: "far", gloss: "far", group: space}
+    - {id: "beside", gloss: "beside", group: space}
+    - {id: "between", gloss: "between", group: space}
+    - {id: "among", gloss: "among", group: space}
+    - {id: "above", gloss: "Above", group: space}
+    - {id: "below", gloss: "below", group: space}
+    - {id: "under", gloss: "under", group: space}
+    - {id: "over", gloss: "over", group: space}
+    - {id: "inside", gloss: "Inside", group: space}
+    - {id: "outside", gloss: "outside", group: space}
+    - {id: "beyond", gloss: "beyond", group: space}
+    - {id: "before-spatial", gloss: "before; in front of (spatial)", group: space}
+    - {id: "behind", gloss: "behind", group: space}
+    - {id: "left-direction", gloss: "left (direction)", group: space}
+    - {id: "right-direction", gloss: "right (direction)", group: space}
+    - {id: "center", gloss: "center", group: space}
+    - {id: "up", gloss: "Up", group: space}
+    - {id: "down", gloss: "down", group: space}
+    - {id: "forward", gloss: "forward", group: space}
+    - {id: "backward", gloss: "backward", group: space}
+    - {id: "toward", gloss: "Toward", group: space}
+    - {id: "away", gloss: "away", group: space}
+    - {id: "through", gloss: "through", group: space}
+    - {id: "across", gloss: "across", group: space}
+    - {id: "around", gloss: "around", group: space}
+    - {id: "in", gloss: "In", group: space}
+    - {id: "on", gloss: "on", group: space}
+    - {id: "at", gloss: "at", group: space}
+    - {id: "from", gloss: "from", group: space}
+    - {id: "to", gloss: "to", group: space}
+    - {id: "place-noun", gloss: "a place; a location", group: space}
+    - {id: "position", gloss: "position", group: space}
+    - {id: "direction", gloss: "direction", group: space}
+    - {id: "distance", gloss: "distance", group: space}
+    - {id: "time", gloss: "time", group: time}
+    - {id: "moment", gloss: "moment", group: time}
+    - {id: "day", gloss: "day", group: time}
+    - {id: "night", gloss: "night", group: time}
+    - {id: "morning", gloss: "morning", group: time}
+    - {id: "noon", gloss: "noon", group: time}
+    - {id: "evening", gloss: "evening", group: time}
+    - {id: "midnight", gloss: "midnight", group: time}
+    - {id: "now", gloss: "now", group: time}
+    - {id: "then", gloss: "then", group: time}
+    - {id: "today", gloss: "today", group: time}
+    - {id: "yesterday", gloss: "yesterday", group: time}
+    - {id: "tomorrow", gloss: "tomorrow", group: time}
+    - {id: "past", gloss: "past", group: time}
+    - {id: "present", gloss: "present", group: time}
+    - {id: "future", gloss: "future", group: time}
+    - {id: "before-time", gloss: "before (temporal)", group: time}
+    - {id: "after", gloss: "after", group: time}
+    - {id: "during", gloss: "during", group: time}
+    - {id: "while", gloss: "while", group: time}
+    - {id: "until", gloss: "until", group: time}
+    - {id: "since-time", gloss: "since a time", group: time}
+    - {id: "always", gloss: "always", group: time}
+    - {id: "often", gloss: "often", group: time}
+    - {id: "sometimes", gloss: "sometimes", group: time}
+    - {id: "rarely", gloss: "rarely", group: time}
+    - {id: "never", gloss: "never", group: time}
+    - {id: "long-duration", gloss: "lasting a long time", group: time}
+    - {id: "short-duration", gloss: "lasting a short time", group: time}
+    - {id: "brief-duration", gloss: "brief in duration", group: time}
+    - {id: "lasting-duration", gloss: "lasting; continuing for a sustained time", group: time}
+    - {id: "again", gloss: "again", group: time}
+    - {id: "once", gloss: "once", group: time}
+    - {id: "twice", gloss: "twice", group: time}
+    - {id: "repeatedly", gloss: "repeatedly", group: time}
+    - {id: "already", gloss: "already", group: time}
+    - {id: "still", gloss: "still", group: time}
+    - {id: "yet", gloss: "yet", group: time}
+    - {id: "soon", gloss: "soon", group: time}
+    - {id: "later", gloss: "later", group: time}
+    - {id: "early", gloss: "early", group: time}
+    - {id: "late", gloss: "late", group: time}
+    - {id: "first-sequence", gloss: "first; before the other events in a sequence", group: time}
+    - {id: "next", gloss: "next", group: time}
+    - {id: "last", gloss: "last", group: time}
+    - {id: "finally", gloss: "finally", group: time}
+    - {id: "season", gloss: "season", group: time}
+    - {id: "year", gloss: "year", group: time}
+    - {id: "month", gloss: "month", group: time}
+    - {id: "dawn", gloss: "dawn", group: time}
+    - {id: "dusk", gloss: "dusk", group: time}
+    - {id: "i", gloss: "I; me (the speaker)", group: reference}
+    - {id: "my", gloss: "my; mine (possession by the speaker)", group: reference}
+    - id: "you-reference"
+      gloss: "you (person addressed; number as the language permits)"
+      group: reference
+    - {id: "your", gloss: "your; yours (possession by the addressee)", group: reference}
+    - {id: "he", gloss: "He", group: reference}
+    - {id: "she", gloss: "she", group: reference}
+    - {id: "it", gloss: "it", group: reference}
+    - {id: "they", gloss: "they", group: reference}
+    - {id: "we", gloss: "we; us (the speaker and others)", group: reference}
+    - {id: "our", gloss: "our; ours (possession by the speaker and others)", group: reference}
+    - {id: "this", gloss: "This", group: reference}
+    - {id: "that", gloss: "that", group: reference}
+    - {id: "these", gloss: "these", group: reference}
+    - {id: "those", gloss: "those", group: reference}
+    - {id: "someone", gloss: "Someone", group: reference}
+    - {id: "anyone", gloss: "anyone", group: reference}
+    - {id: "everyone", gloss: "everyone", group: reference}
+    - {id: "no-one", gloss: "no one", group: reference}
+    - {id: "something", gloss: "Something", group: reference}
+    - {id: "anything", gloss: "anything", group: reference}
+    - {id: "everything", gloss: "everything", group: reference}
+    - {id: "self", gloss: "self; oneself (reflexive reference)", group: reference}
+    - {id: "other", gloss: "other", group: reference}
+    - {id: "another", gloss: "another", group: reference}
+    - {id: "same", gloss: "Same", group: reference}
+    - {id: "different", gloss: "different", group: reference}
+    - {id: "question-who", gloss: "Who (question)", group: questions}
+    - {id: "question-what", gloss: "What (question)", group: questions}
+    - {id: "question-which", gloss: "Which (question)", group: questions}
+    - {id: "question-where", gloss: "Where (question)", group: questions}
+    - {id: "question-when", gloss: "When (question)", group: questions}
+    - {id: "question-why", gloss: "Why (question)", group: questions}
+    - {id: "question-how", gloss: "How (question)", group: questions}
+    - {id: "question-how-many", gloss: "How many (question)", group: questions}
+    - {id: "question-how-much", gloss: "How much (question)", group: questions}
+    - {id: "question-whose", gloss: "Whose (question)", group: questions}
+    - {id: "question-to-whom", gloss: "To whom (question)", group: questions}
+    - {id: "question-from-where", gloss: "From where (question)", group: questions}
+    - {id: "question-for-what-purpose", gloss: "For what purpose (question)", group: questions}
+    - {id: "question-polar", gloss: "forming yes/no questions (question)", group: questions}
+    - id: "question-clarification"
+      gloss: "requesting clarification (question)"
+      group: questions
+    - {id: "yes", gloss: "Yes", group: truth}
+    - {id: "no", gloss: "no", group: truth}
+    - {id: "not", gloss: "Not", group: truth}
+    - {id: "true", gloss: "True", group: truth}
+    - {id: "false", gloss: "false", group: truth}
+    - {id: "truth", gloss: "Truth", group: truth}
+    - {id: "lie-noun", gloss: "a lie; an intentionally deceptive statement", group: truth}
+    - id: "sincerity"
+      gloss: "really; truly; genuinely; de veras (asserting sincerity or reality)"
+      group: truth
+    - {id: "indeed", gloss: "Indeed", group: truth}
+    - {id: "certainly", gloss: "certainly", group: truth}
+    - {id: "perhaps", gloss: "Perhaps", group: truth}
+    - {id: "probably", gloss: "Probably", group: truth}
+    - {id: "unlikely", gloss: "unlikely", group: truth}
+    - {id: "certain", gloss: "Sure", group: truth}
+    - {id: "uncertain", gloss: "uncertain", group: truth}
+    - {id: "apparently", gloss: "Apparently", group: truth}
+    - {id: "supposedly", gloss: "supposedly", group: truth}
+    - {id: "in-fact", gloss: "Actually", group: truth}
+    - {id: "doubt-verb", gloss: "doubt", group: truth}
+    - {id: "suspect", gloss: "suspect", group: truth}
+    - {id: "guess-verb", gloss: "guess", group: truth}
+    - {id: "assume-verb", gloss: "assume", group: truth}
+    - {id: "correct", gloss: "Correct", group: truth}
+    - {id: "incorrect", gloss: "incorrect", group: truth}
+    - {id: "disagree", gloss: "disagree", group: truth}
+    - id: "falsehood"
+      gloss: "a falsehood; a false claim, whether intentional or mistaken"
+      group: truth
+    - {id: "and", gloss: "And", group: logic}
+    - {id: "or", gloss: "or", group: logic}
+    - {id: "but", gloss: "but", group: logic}
+    - {id: "nor", gloss: "nor", group: logic}
+    - {id: "because", gloss: "Because", group: logic}
+    - {id: "therefore", gloss: "therefore", group: logic}
+    - {id: "if", gloss: "If", group: logic}
+    - {id: "then-conditional", gloss: "then, in a condition and its consequence", group: logic}
+    - {id: "unless", gloss: "unless", group: logic}
+    - {id: "otherwise", gloss: "otherwise", group: logic}
+    - {id: "although", gloss: "Although", group: logic}
+    - {id: "however", gloss: "however", group: logic}
+    - {id: "nevertheless", gloss: "nevertheless", group: logic}
+    - {id: "despite", gloss: "despite", group: logic}
+    - {id: "instead", gloss: "instead", group: logic}
+    - {id: "for-purpose", gloss: "for; in order to; so that (purpose)", group: logic}
+    - {id: "like", gloss: "Like", group: logic}
+    - {id: "unlike", gloss: "unlike", group: logic}
+    - {id: "as", gloss: "as", group: logic}
+    - {id: "than", gloss: "than", group: logic}
+    - {id: "either-alternative", gloss: "Either", group: logic}
+    - {id: "neither-alternative", gloss: "neither", group: logic}
+    - {id: "both-conjunction", gloss: "both", group: logic}
+    - {id: "whether", gloss: "whether", group: logic}
+    - {id: "that-is", gloss: "That is", group: logic}
+    - {id: "namely", gloss: "namely", group: logic}
+    - {id: "for-example", gloss: "for example", group: logic}
+    - {id: "except", gloss: "Except", group: logic}
+    - {id: "only", gloss: "only", group: logic}
+    - {id: "even", gloss: "even", group: logic}
+    - {id: "also", gloss: "also", group: logic}
+    - {id: "especially", gloss: "especially", group: logic}
+    - {id: "big", gloss: "big", group: qualities}
+    - {id: "small", gloss: "small", group: qualities}
+    - {id: "tiny", gloss: "tiny", group: qualities}
+    - {id: "huge", gloss: "huge", group: qualities}
+    - {id: "long", gloss: "long in spatial length", group: qualities}
+    - {id: "short", gloss: "short in spatial length", group: qualities}
+    - {id: "high", gloss: "high", group: qualities}
+    - {id: "low", gloss: "low", group: qualities}
+    - {id: "tall", gloss: "tall", group: qualities}
+    - {id: "wide", gloss: "wide", group: qualities}
+    - {id: "narrow", gloss: "narrow", group: qualities}
+    - {id: "heavy", gloss: "heavy", group: qualities}
+    - {id: "light-weight", gloss: "light in weight", group: qualities}
+    - {id: "new", gloss: "new", group: qualities}
+    - {id: "old-object", gloss: "old; not new", group: qualities}
+    - {id: "fast", gloss: "fast", group: qualities}
+    - {id: "slow", gloss: "slow", group: qualities}
+    - {id: "easy", gloss: "easy", group: qualities}
+    - {id: "difficult", gloss: "difficult", group: qualities}
+    - {id: "good", gloss: "good", group: qualities}
+    - {id: "bad", gloss: "bad", group: qualities}
+    - {id: "better", gloss: "better", group: qualities}
+    - {id: "worse", gloss: "worse", group: qualities}
+    - {id: "best", gloss: "best", group: qualities}
+    - {id: "worst", gloss: "worst", group: qualities}
+    - {id: "important", gloss: "important", group: qualities}
+    - {id: "trivial", gloss: "trivial", group: qualities}
+    - {id: "necessary", gloss: "necessary", group: qualities}
+    - {id: "valuable", gloss: "valuable", group: qualities}
+    - {id: "worthless", gloss: "worthless", group: qualities}
+    - {id: "useful", gloss: "useful", group: qualities}
+    - {id: "useless", gloss: "useless", group: qualities}
+    - {id: "broken", gloss: "broken", group: qualities}
+    - {id: "complete", gloss: "complete", group: qualities}
+    - {id: "incomplete", gloss: "incomplete", group: qualities}
+    - {id: "honest", gloss: "honest", group: qualities}
+    - {id: "dishonest", gloss: "dishonest", group: qualities}
+    - {id: "very", gloss: "very", group: qualities}
+    - {id: "extremely", gloss: "extremely", group: qualities}
+    - {id: "somewhat", gloss: "somewhat", group: qualities}
+    - {id: "slightly", gloss: "slightly", group: qualities}
+    - {id: "barely", gloss: "barely", group: qualities}
+    - {id: "too-much", gloss: "too much", group: qualities}
+    - {id: "too-little", gloss: "too little", group: qualities}
+    - {id: "similar", gloss: "similar", group: qualities}
+    - {id: "opposite", gloss: "opposite", group: qualities}
+    - {id: "can", gloss: "can; able to do something (ability)", group: modality}
+    - {id: "cannot", gloss: "cannot; unable to do something (lack of ability)", group: modality}
+    - {id: "possible", gloss: "Possible", group: modality}
+    - {id: "impossible", gloss: "impossible", group: modality}
+    - {id: "may-permission", gloss: "may; have permission to act", group: modality}
+    - {id: "might-possibility", gloss: "might; an event is possible", group: modality}
+    - {id: "must", gloss: "Must", group: modality}
+    - {id: "must-not", gloss: "must not", group: modality}
+    - {id: "ought", gloss: "Should", group: modality}
+    - {id: "required", gloss: "Required", group: modality}
+    - {id: "optional", gloss: "optional", group: modality}
+    - {id: "allowed", gloss: "Allowed", group: modality}
+    - {id: "forbidden", gloss: "forbidden", group: modality}
+    - {id: "permit", gloss: "Permit", group: modality}
+    - {id: "prohibit", gloss: "prohibit", group: modality}
+    - {id: "free", gloss: "free to act; unconstrained", group: modality}
+    - {id: "constrained", gloss: "constrained in action; not free to act", group: modality}
+    - {id: "willing", gloss: "Willing", group: modality}
+    - {id: "unwilling", gloss: "unwilling", group: modality}
+    - {id: "intended", gloss: "Intended", group: modality}
+    - {id: "accidental", gloss: "accidental", group: modality}
+    - {id: "hello", gloss: "Hello", group: conversation}
+    - {id: "goodbye", gloss: "Goodbye", group: conversation}
+    - {id: "expression-welcome", gloss: "Welcome", group: conversation}
+    - {id: "expression-please", gloss: "Please", group: conversation}
+    - {id: "expression-thank-you", gloss: "Thank you", group: conversation}
+    - {id: "expression-youre-welcome", gloss: "You’re welcome", group: conversation}
+    - {id: "expression-excuse-me", gloss: "Excuse me", group: conversation}
+    - {id: "expression-sorry", gloss: "Sorry", group: conversation}
+    - {id: "expression-forgive-me", gloss: "Forgive me", group: conversation}
+    - {id: "of-course", gloss: "Of course", group: conversation}
+    - {id: "expression-listen", gloss: "Listen", group: conversation}
+    - {id: "expression-look", gloss: "Look", group: conversation}
+    - {id: "expression-wait", gloss: "Wait", group: conversation}
+    - {id: "expression-come-here", gloss: "Come here", group: conversation}
+    - {id: "expression-go-away", gloss: "Go away", group: conversation}
+    - {id: "expression-help", gloss: "Help!", group: conversation}
+    - {id: "expression-stop", gloss: "Stop!", group: conversation}
+    - {id: "expression-what", gloss: "What", group: conversation}
+    - {id: "expression-pardon", gloss: "Pardon", group: conversation}
+    - {id: "expression-again", gloss: "Again", group: conversation}
+    - {id: "expression-i-understand", gloss: "I understand", group: conversation}
+    - {id: "expression-i-do-not-understand", gloss: "I do not understand", group: conversation}
+    - {id: "expression-what-do-you-mean", gloss: "What do you mean", group: conversation}
+    - {id: "expression-how-do-you-say", gloss: "How do you say…", group: conversation}
+    - {id: "expression-what-is-this-called", gloss: "What is this called", group: conversation}
+    - id: "expression-really"
+      gloss: "Really? (conversational surprise or request for confirmation)"
+      group: conversation
+    - id: "expression-not-at-all"
+      gloss: "not at all (conversational response)"
+      group: conversation
+    - {id: "person", gloss: "Person", group: society}
+    - {id: "people", gloss: "people", group: society}
+    - {id: "human", gloss: "human", group: society}
+    - {id: "man", gloss: "Man", group: society}
+    - {id: "woman", gloss: "woman", group: society}
+    - {id: "boy", gloss: "boy", group: society}
+    - {id: "girl", gloss: "girl", group: society}
+    - {id: "adult", gloss: "Adult", group: society}
+    - {id: "elder", gloss: "elder", group: society}
+    - {id: "individual", gloss: "Individual", group: society}
+    - {id: "group", gloss: "group", group: society}
+    - {id: "crowd", gloss: "crowd", group: society}
+    - {id: "clan", gloss: "clan", group: society}
+    - {id: "tribe", gloss: "tribe", group: society}
+    - {id: "community", gloss: "community", group: society}
+    - {id: "ruler", gloss: "ruler", group: society}
+    - {id: "worker", gloss: "Worker", group: society}
+    - {id: "artisan", gloss: "artisan", group: society}
+    - {id: "merchant", gloss: "merchant", group: society}
+    - {id: "name-noun", gloss: "Name", group: society}
+    - {id: "title", gloss: "title", group: society}
+    - {id: "rank", gloss: "rank", group: society}
+    - {id: "custom", gloss: "Custom", group: society}
+    - {id: "tradition", gloss: "tradition", group: society}
+    - {id: "law", gloss: "law", group: society}
+    - {id: "rule", gloss: "rule", group: society}
+    - {id: "order-noun", gloss: "Order", group: society}
+    - {id: "command-noun", gloss: "command", group: society}
+    - {id: "obedience", gloss: "obedience", group: society}
+    - {id: "justice", gloss: "Justice", group: society}
+    - {id: "injustice", gloss: "injustice", group: society}
+    - {id: "right-ethical", gloss: "right; morally acceptable", group: society}
+    - {id: "wrong-ethical", gloss: "wrong; morally unacceptable", group: society}
+    - {id: "peace", gloss: "Peace", group: society}
+    - {id: "war", gloss: "war", group: society}
+    - {id: "freedom", gloss: "Freedom", group: society}
+    - {id: "captivity", gloss: "captivity", group: society}
+    - {id: "gift", gloss: "Gift", group: society}
+    - {id: "exchange-noun", gloss: "exchange", group: society}
+    - {id: "debt", gloss: "debt", group: society}
+    - {id: "wealth", gloss: "Wealth", group: society}
+    - {id: "poverty", gloss: "poverty", group: society}
+    - {id: "property", gloss: "Property", group: society}
+    - {id: "ownership", gloss: "ownership", group: society}
+    - {id: "honor", gloss: "Honor", group: society}
+    - {id: "secret", gloss: "Secret", group: society}
+    - {id: "knowledge", gloss: "knowledge", group: society}
+    - {id: "thing", gloss: "Thing", group: existence}
+    - {id: "being", gloss: "being", group: existence}
+    - {id: "life", gloss: "Life", group: existence}
+    - {id: "origin", gloss: "origin", group: existence}
+    - {id: "beginning", gloss: "beginning", group: existence}
+    - {id: "end-noun", gloss: "End", group: existence}
+    - {id: "completion", gloss: "completion", group: existence}
+    - {id: "change-noun", gloss: "Change", group: existence}
+    - {id: "transformation", gloss: "transformation", group: existence}
+    - {id: "part", gloss: "Part", group: existence}
+    - {id: "cause", gloss: "Cause", group: existence}
+    - {id: "effect", gloss: "effect", group: existence}
+    - {id: "reason", gloss: "Reason", group: existence}
+    - {id: "purpose", gloss: "purpose", group: existence}
+    - {id: "kind", gloss: "Kind", group: existence}
+    - {id: "real", gloss: "Real", group: existence}
+    - {id: "unreal", gloss: "unreal", group: existence}
+    - {id: "natural", gloss: "Natural", group: existence}
+    - {id: "unnatural", gloss: "unnatural", group: existence}
 ---
 
-The core vocabulary is the set of concepts every human language of Thalorna has a word for: the senses, the passions, the loves, the parts of the body, the common needs, the common things of a household, the numbers, the colours, kinship and the basic verbs. A translator can then render ordinary text into any of these tongues without coining the basics.
+The core vocabulary is an inventory of meanings every human language of Thalorna should be able to express in everyday conversation. It includes perception, emotion, bodies and needs, relationships, objects and the natural world, actions, quantity, space, time, questions, reference, reasoning and social exchanges. The list describes a target for language coverage; it does not claim that every language already has recorded expressions for every concept.
 
-Each sense has two entries, a verb and a noun: to smell and a smell, as in "the smell of fish". The four loves are distinct from one another and from lust: romantic love, the love of friends, the love of family, and the selfless love given to everyone.
+A concept can be expressed by a single word, a complex word, a sequence of words, an idiom or a documented construction. Several concepts may share an expression when its meanings support them. One concept may take several words. Glosses in the reader's language identify meanings, rather than prescribing its word classes, unrelated roots or separate dictionary headwords. Common cultural objects are included for ordinary setting use; they are not claims about linguistic universals.
 
-A language lists a word against a concept by naming the concept's id in the word's entry. The languages that cover the list are those of the human peoples; the tongues of the other folk and the drum register of Nyáluban are outside it.
+Each sense retains an act and a thing perceived: to smell and a smell, for example. Nouns and verbs remain distinct concepts even where one form expresses both. The four loves remain distinguishable from one another and from lust: romantic love, friendship and affectionate regard between friends, familial love, and selfless universal love. Companionship also has its own concept for being together with a companion. Truth and certainty are distinct: a speaker can be certain of a false claim or uncertain of a true one.
 
-| Group    | Concepts                                                                                   |
-| -------- | ------------------------------------------------------------------------------------------ |
-| Senses   | See, hear, smell, taste and touch, each as a verb and a noun                               |
-| Passions | Wrath, envy, hope, greed, boasting, pride, lust, despair, disappointment, faith            |
-| Loves    | Romantic love, friendship, the love of family, selfless love                               |
-| Body     | Head to toe, with skin, bone, blood and flesh                                              |
-| Needs    | Food and drink, air and breath, sleep, waste, warmth, shelter                              |
-| Things   | Furniture, rooms and doors, fire and hearth, vessels, cloth                                |
-| Numbers  | One to ten, twenty, a hundred, a thousand, the first three ordinals, half, many, few, none |
-| Colours  | Black, white, red, green, yellow, blue, grey, brown                                        |
-| Kinship  | Parents, children, siblings, elders, in-laws, ancestors and descendants                    |
-| Verbs    | Twenty-nine basic verbs, from to be to to end                                              |
+Some repeated glosses name different meanings. Hard to the touch differs from difficult; light in colour differs from light in weight; right as a direction differs from morally right. Before in space differs from before in time. Other expressions share a concept where they describe the same meaning, such as healthy and hale, sick and ill, or goodbye and farewell. A shared concept never requires a language to use one expression for all of its glosses. Existing concept ids remain stable.
+
+A language records an expression in its `data.words` list and names the concept id, or a list of ids, in that entry's `concept`. A `form` may contain spaces; its `gloss` may state several senses. Use an existing word class appropriate to the expression's use. A phrase can name its attested component forms in `built`, and its `note` can explain the meaning and the existing construction that licenses it. Essential usage also belongs in the gloss or the language note’s prose, since dictionary views may omit entry notes. Record an actual usable expression and its meaning. A concept tag, a paraphrase in the reader's language without an expression in the target language, or a bare pattern with no worked example does not demonstrate coverage.
+
+For an idiom, explain its conventional meaning even when its literal meaning differs. For a productive construction, give an actual example and enough explanation to apply the existing pattern. For example, a phrase meaning “countless spirits” demonstrates that whole phrase; its quantity does not by itself prove that the phrase can express “many” in other contexts. Coverage reports count recorded tags; semantic review establishes whether the expressions support them.
+
+Questions, negation, possibility, obligation, reference, possession and logical relationships can use existing phrases or constructions. Temporal concepts such as past and future can be expressed with time words. This inventory adds no tenses, moods, cases, declensions or conjugation requirements. Pronoun glosses such as I/me and my/mine identify the speaker and the speaker's possession without prescribing separate forms. Number systems, colour boundaries, kinship distinctions and calendar conventions follow each language and culture. Later ordinals require a usable productive expression, without imposing a decimal system.
+
+Coverage applies to the languages of the human peoples. The tongues of the other folk and Nyáluban's drum register are outside this inventory. Aelwythi records explicit words and phrases in a readable older register of the reader's language, following its rendering convention. Explanations and glosses use the reader's ordinary modern prose; newly written in-world Aelwythi works follow the register’s grammar and patterns. Its coverage requires the same expression evidence as every other human language.
+
+| Group                                 | Concepts                                                                                          |
+| ------------------------------------- | ------------------------------------------------------------------------------------------------- |
+| Perception and the Senses             | Acts of perception, things perceived, sensory qualities and recognition                           |
+| Emotions, Passions, and Mental States | Emotions, desires, interpersonal attitudes, mental states and faith                               |
+| Love and Affection                    | The four loves, affection, attraction, intimacy, devotion, loyalty and enmity                     |
+| The Body                              | Head, torso, limbs, tissues, organs and reproductive anatomy                                      |
+| Bodily Functions and Common Needs     | Sustenance, breathing, rest, waste, temperature, protection, reproduction and life cycle          |
+| Health and Physical Conditions        | Health, injury, strength, bodily conditions, pain, recovery, disability and age                   |
+| Kinship and Relationships             | Family, marriage, lineage, social circumstances, relationships and roles                          |
+| Common Objects and Dwellings          | Dwellings, furniture, containers, tools, fire, clothing, security and materials                   |
+| Nature and the Physical World         | Substances, landforms, waters, weather, plants, animals and compass directions                    |
+| Numbers and Quantities                | Cardinals, ordinals, fractions, quantities, comparisons, distribution and measurement             |
+| Colors and Visual Properties          | Colours, lightness, clarity, surface appearance and patterns                                      |
+| Basic Actions and Verbs               | Existence, possession, movement, manipulation, creation, communication, thought and social action |
+| Space, Location, and Direction        | Location, relative position, direction, movement paths and spatial relationships                  |
+| Time and Sequence                     | Times of day, relative time, sequence, frequency, duration and natural cycles                     |
+| Personal Reference and Pronouns       | Speakers, addressees, others, possession, demonstratives, indefinite and reflexive reference      |
+| Questions and Interrogatives          | Interrogatives, yes/no questions and clarification                                                |
+| Negation, Truth, and Certainty        | Negation, truth, sincerity, certainty, possibility, evidence and agreement                        |
+| Logical and Grammatical Relationships | Connection, cause, condition, contrast, purpose, comparison, alternatives and qualification       |
+| Degree, Quality, and Evaluation       | Dimensions, weight, age, speed, difficulty, quality, value, intensity and similarity              |
+| Ability, Obligation, and Permission   | Ability, possibility, obligation, permission, willingness and intention                           |
+| Social and Conversational Expressions | Greetings, courtesy, attention, requests, clarification, conversational replies and emphasis      |
+| People, Society, and Culture          | People, groups, roles, customs, law, justice, conflict, exchange, ownership and knowledge         |
+| Existence, Identity, and Change       | Existence, identity, life, origins, completion, change, parts, causes, kinds and reality          |

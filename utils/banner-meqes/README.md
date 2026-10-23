@@ -24,7 +24,7 @@ build/banner-meqes/.venv/bin/python utils/banner-meqes/render.py --crops
 
 With no arguments it reads `utils/banner-meqes/sign-sequence.json` and writes
 `khelathubnr.png` and `khelathubnr.webp` (quality 90) to `build/banner-meqes/`.
-`sign-sequence.md` beside it is the English text and the sources the sequence sets. It never writes into `assets/`. Copying the WebP over the banner is a separate,
+`sign-sequence.md` beside it is the translated text and the sources the sequence sets. It never writes into `assets/`. Copying the WebP over the banner is a separate,
 reviewed step.
 
 | Option            | Effect                                                                                                        |

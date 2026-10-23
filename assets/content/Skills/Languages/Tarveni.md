@@ -46,6 +46,8 @@ data:
       holds: "The verbs of ordinary speech, cited by the infinitive."
     - name: Numbers and grammar words
       holds: "The numbers, the pronouns, the article and the particles."
+    - name: Feelings and personal bonds
+      holds: "The passions, the four loves, affection, friendship, trust, doubt and the feelings named in ordinary speech."
   words:
     - form: semna
       class: n f
@@ -126,8 +128,9 @@ data:
     - form: nezora
       class: n f
       field: The word given
-      gloss: "a debt in money"
+      gloss: a debt in money
       source: {kind: borrowed, language: skill-vylarilng, form: nezora}
+      concept: [debt]
     - form: dakta
       class: n f
       field: The word given
@@ -161,8 +164,9 @@ data:
     - form: thrumad
       class: v
       field: The company and the trade of arms
-      gloss: "to lead"
+      gloss: to lead
       source: {kind: inherited}
+      concept: [lead]
     - form: takzo
       class: n m
       field: The company and the trade of arms
@@ -231,8 +235,9 @@ data:
     - form: kordad
       class: v
       field: The company and the trade of arms
-      gloss: "to fight"
+      gloss: to fight
       source: {kind: inherited}
+      concept: [fight]
     - form: haukel
       class: n f
       field: The company and the trade of arms
@@ -328,13 +333,15 @@ data:
     - form: dumvo
       class: n m
       field: The household
-      gloss: "a guest"
+      gloss: a guest
       source: {kind: worn, form: dumwaros}
+      concept: [guest]
     - form: haldo
       class: n m
       field: The household
-      gloss: "a host"
+      gloss: a host
       source: {kind: worn, form: haldethos}
+      concept: [host]
     - form: thelvaralo
       class: n n
       field: The household
@@ -447,9 +454,10 @@ data:
       source: {kind: worn, form: anzirothos}
     - form: zirtho
       class: n m
-      field: "Kings, councils and the free city"
-      gloss: "a rank; one step of a company's order"
+      field: Kings, councils and the free city
+      gloss: a rank; one step of a company's order
       source: {kind: worn, form: zirothos}
+      concept: [rank]
     - form: verosalo
       class: n n
       field: "Kings, councils and the free city"
@@ -767,9 +775,10 @@ data:
       source: {kind: substrate}
     - form: orma
       class: n f
-      field: "Land, the high country and the weather"
-      gloss: "land"
+      field: Land, the high country and the weather
+      gloss: land
       source: {kind: worn, form: yormalis}
+      concept: [land]
     - form: poltha
       class: n f
       field: "Land, the high country and the weather"
@@ -797,9 +806,10 @@ data:
       source: {kind: worn}
     - form: orneth
       class: n m
-      field: "Land, the high country and the weather"
-      gloss: "a mountain, as seen from below"
+      field: Land, the high country and the weather
+      gloss: a mountain, as seen from below
       source: {kind: worn, form: ronethos}
+      concept: [mountain]
     - form: gando
       class: n m
       field: "Land, the high country and the weather"
@@ -807,9 +817,10 @@ data:
       source: {kind: worn, form: ganothos}
     - form: kaldrema
       class: n f
-      field: "Land, the high country and the weather"
-      gloss: "a wood"
+      field: Land, the high country and the weather
+      gloss: a wood
       source: {kind: inherited}
+      concept: [forest]
     - form: tharzo
       class: n f
       field: "Land, the high country and the weather"
@@ -842,14 +853,16 @@ data:
       source: {kind: worn, form: ofrema}
     - form: korvath
       class: n m
-      field: "Land, the high country and the weather"
-      gloss: "the sun"
+      field: Land, the high country and the weather
+      gloss: the sun
       source: {kind: worn, form: korwathis}
+      concept: [sun]
     - form: als
       class: n f
-      field: "Land, the high country and the weather"
-      gloss: "the moon"
+      field: Land, the high country and the weather
+      gloss: the moon
       source: {kind: worn, form: yalzemis}
+      concept: [moon]
     - form: iltha
       class: n f
       field: "Land, the high country and the weather"
@@ -889,9 +902,10 @@ data:
       source: {kind: inherited, form: rithezos}
     - form: kolva
       class: n f
-      field: "The body, life and death"
-      gloss: "death"
+      field: The body, life and death
+      gloss: death
       source: {kind: worn, form: kholwazis}
+      concept: [death]
     - form: kalmad
       class: v
       field: "The body, life and death"
@@ -916,8 +930,9 @@ data:
     - form: delmo
       class: n m
       field: Coin and trade
-      gloss: "a merchant"
+      gloss: a merchant
       source: {kind: worn, form: delamos}
+      concept: [merchant]
     - form: verdo
       class: n f
       field: Coin and trade
@@ -1018,8 +1033,8 @@ data:
     - form: tambad
       class: v
       field: Craft and the forge
-      gloss: "to make"
-      concept: make
+      gloss: to make
+      concept: [make, create]
       source: {kind: inherited}
     - form: tambando
       class: n n
@@ -1028,9 +1043,9 @@ data:
       source: {kind: inherited, form: tambandon}
     - form: dokad
       class: v
-      field: "Speech, song and the learned"
-      gloss: "to speak"
-      concept: speak
+      field: Speech, song and the learned
+      gloss: to speak
+      concept: [speak, say]
       source: {kind: inherited}
     - form: dokme
       class: n n
@@ -1064,9 +1079,10 @@ data:
       source: {kind: borrowed, language: skill-vylarilng, form: olzemon}
     - form: galtho
       class: n m
-      field: "Speech, song and the learned"
-      gloss: "a student"
+      field: Speech, song and the learned
+      gloss: a student
       source: {kind: worn, form: ghalethos}
+      concept: [student]
     - form: kosthemo
       class: n m
       field: "Speech, song and the learned"
@@ -1206,9 +1222,10 @@ data:
       source: {kind: worn, form: grumbalon}
     - form: maltho
       class: n m
-      field: "Towns, holdings and the road"
-      gloss: "a hill"
+      field: Towns, holdings and the road
+      gloss: a hill
       source: {kind: worn, form: malkothos}
+      concept: [hill]
     - form: arthauna
       class: n f
       field: "Towns, holdings and the road"
@@ -1278,23 +1295,27 @@ data:
     - form: thelvar
       class: adj
       field: Qualities
-      gloss: "high; noble"
+      gloss: high; noble
       source: {kind: worn, form: thelwaros}
+      concept: [high]
     - form: nis
       class: adj
       field: Qualities
-      gloss: "small"
+      gloss: small
       source: {kind: worn, form: nizelos}
+      concept: [small]
     - form: ervo
       class: adj
       field: Qualities
-      gloss: "free"
+      gloss: free
       source: {kind: worn, form: rewothos}
+      concept: [free]
     - form: zed
       class: adj
       field: Qualities
-      gloss: "whole"
+      gloss: whole
       source: {kind: worn, form: zetimos}
+      concept: [whole, complete]
     - form: zeno
       class: adj
       field: Qualities
@@ -1304,8 +1325,9 @@ data:
     - form: orthe
       class: adj
       field: Qualities
-      gloss: "last"
+      gloss: last
       source: {kind: worn, form: orthemos}
+      concept: [last]
     - form: ilto
       class: adj
       field: Qualities
@@ -1338,9 +1360,10 @@ data:
       source: {kind: inherited}
     - form: vagad
       class: v
-      field: "Doing, going and being"
-      gloss: "to show"
+      field: Doing, going and being
+      gloss: to show
       source: {kind: inherited, form: wakathen}
+      concept: [reveal]
     - form: daimad
       class: v
       field: "Doing, going and being"
@@ -1349,9 +1372,10 @@ data:
       source: {kind: inherited}
     - form: lozed
       class: v
-      field: "Doing, going and being"
-      gloss: "to carry"
+      field: Doing, going and being
+      gloss: to carry
       source: {kind: inherited}
+      concept: [carry]
     - form: ombid
       class: v
       field: "Doing, going and being"
@@ -1360,19 +1384,22 @@ data:
       source: {kind: inherited}
     - form: nembed
       class: v
-      field: "Doing, going and being"
-      gloss: "to fall"
+      field: Doing, going and being
+      gloss: to fall
       source: {kind: inherited}
+      concept: [fall]
     - form: urzid
       class: v
-      field: "Doing, going and being"
-      gloss: "to rise"
+      field: Doing, going and being
+      gloss: to rise
       source: {kind: inherited}
+      concept: [rise]
     - form: gaurad
       class: v
-      field: "Doing, going and being"
-      gloss: "to build"
+      field: Doing, going and being
+      gloss: to build
       source: {kind: inherited, form: ghaurathen}
+      concept: [build]
     - form: thaurad
       class: v
       field: "Doing, going and being"
@@ -1428,18 +1455,21 @@ data:
     - form: en
       class: pron
       field: Numbers and grammar words
-      gloss: "I"
+      gloss: I
       source: {kind: inherited}
+      concept: [i]
     - form: ko
       class: pron
       field: Numbers and grammar words
-      gloss: "you, one person"
+      gloss: you, one person
       source: {kind: inherited}
+      concept: [you-reference]
     - form: enoi
       class: pron
       field: Numbers and grammar words
-      gloss: "we"
+      gloss: we
       source: {kind: inherited}
+      concept: [we]
     - form: ath
       class: art
       field: Numbers and grammar words
@@ -1451,6 +1481,2044 @@ data:
     - {form: "enthráth", class: "part", field: "Numbers and grammar words", gloss: "Between"}
     - {form: "kothren", class: n m, field: "The household", gloss: "Brother"}
     - {form: "meru", class: "pron", field: "Numbers and grammar words", gloss: "My"}
+    - form: thavid
+      class: v
+      field: Doing, going and being
+      gloss: to hear
+      concept: hear-verb
+      source: {kind: inherited, form: thawithen}
+    - form: nelthad
+      class: v
+      field: Doing, going and being
+      gloss: to smell; to catch the scent of something
+      concept: smell-verb
+      source: {kind: coined}
+    - form: tirmad
+      class: v
+      field: Doing, going and being
+      gloss: to taste
+      concept: taste-verb
+      source: {kind: coined}
+    - form: tolvad
+      class: v
+      field: Doing, going and being
+      gloss: to touch; to feel with the hand
+      concept: touch-verb
+      source: {kind: coined}
+    - form: silkad
+      class: v
+      field: Doing, going and being
+      gloss: to look; to direct the eyes at something
+      concept: look
+      source: {kind: coined}
+    - form: silkared
+      class: v
+      field: Doing, going and being
+      gloss: to watch; to observe attentively
+      concept: watch
+      source: {kind: coined}
+    - form: thavrelad
+      class: v
+      field: Doing, going and being
+      gloss: to listen; to attend to sound
+      concept: listen
+      source: {kind: coined}
+    - form: kramena
+      class: n
+      field: The body, life and death
+      gloss: noise; a disturbing or indistinct sound
+      concept: noise
+      source: {kind: coined}
+    - form: ar thavandon
+      class: n n
+      field: The body, life and death
+      gloss: silence; no sound
+      concept: silence
+      built: [ar, thavandon]
+    - form: kramo
+      class: adj
+      field: Qualities
+      gloss: loud; of great sound volume
+      concept: loud
+      source: {kind: coined}
+    - form: dun dadro nelthis
+      class: part
+      field: Qualities
+      gloss: fragrant; with a pleasant scent; dadro qualifies the scent in this fixed description
+      concept: fragrant
+      built: [dun, dadro, nelthis]
+    - form: dun korethos nelthis
+      class: part
+      field: Qualities
+      gloss: foul-smelling; with an unpleasant scent
+      concept: foul
+      built: [dun, korethos, nelthis]
+    - form: zarved
+      class: v
+      field: Doing, going and being
+      gloss: to feel a bodily sensation
+      concept: feel-verb
+      source: {kind: coined}
+    - form: okzedad
+      class: v
+      field: Doing, going and being
+      gloss: to notice; to become aware of something
+      concept: notice
+      source: {kind: coined}
+    - form: zarvoked
+      class: v
+      field: Doing, going and being
+      gloss: to perceive; to apprehend through the senses
+      concept: perceive
+      source: {kind: coined}
+    - form: membroked
+      class: v
+      field: Doing, going and being
+      gloss: to recognize; to identify as previously known
+      concept: recognize
+      source: {kind: coined}
+    - form: daimad okandon
+      class: v
+      field: Doing, going and being
+      gloss: to seem; to give an appearance; daimad dadro okandon means to seem good
+      concept: seem
+      built: [daimad, okandon]
+    - form: galeza
+      class: n
+      field: Feelings and personal bonds
+      gloss: joy; happiness
+      concept: [joy, happiness]
+      source: {kind: coined}
+    - form: membron ol orhena
+      class: n
+      field: Feelings and personal bonds
+      gloss: gratitude; grateful remembrance of a kindness received
+      concept: gratitude
+      built: [membron, ol, orhena]
+    - form: velda ol ko
+      class: n f
+      field: Feelings and personal bonds
+      gloss: admiration; esteem felt or shown toward you; replace ko with the person or thing admired; the whole expression names felt regard rather than only public reputation
+      concept: admiration
+      built: [velda, ol, ko]
+    - form: melvar ternandon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: terror; overwhelming fear
+      concept: terror
+      built: [melvar, ternandon]
+    - form: zelmira ol anhalvandon
+      class: n f
+      field: Feelings and personal bonds
+      gloss: grief; sorrow over a loss
+      concept: grief
+      built: [zelmira, ol, anhalvandon]
+    - form: varelon ol dunandon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: confidence; trust in one's ability, without asserting factual truth
+      concept: confidence
+      built: [varelon, ol, dunandon]
+    - form: vethanvelda nis
+      class: n f
+      field: Feelings and personal bonds
+      gloss: embarrassment; a small passing feeling of shame
+      concept: embarrassment
+      built: [vethanvelda, nis]
+    - form: zelmira hir ko
+      class: n f
+      field: Feelings and personal bonds
+      gloss: pity; sorrow for your distress; replace ko with the person pitied
+      concept: pity
+      built: [zelmira, hir, ko]
+    - form: zelmira dun ko
+      class: n f
+      field: Feelings and personal bonds
+      gloss: sympathy; sorrow shared with you; replace ko with the person whose sorrow is shared
+      concept: sympathy
+      built: [zelmira, dun, ko]
+    - form: membron ol anvelda
+      class: n
+      field: Feelings and personal bonds
+      gloss: resentment; bitter feeling over remembered dishonor or ill treatment
+      concept: resentment
+      built: [membron, ol, anvelda]
+    - form: anorhena
+      class: n
+      field: Feelings and personal bonds
+      gloss: forgiveness; release from a wrong or debt
+      concept: forgiveness
+      source: {kind: coined}
+    - form: dorandar avandon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: longing; sustained yearning for someone or something absent
+      concept: longing
+      built: [dorandar, avandon]
+    - form: avandon tambro
+      class: n n
+      field: Feelings and personal bonds
+      gloss: satisfaction; the feeling of having a desire fulfilled
+      concept: satisfaction
+      built: [avandon, tambro]
+    - form: avandon ar tambro
+      class: n n
+      field: Feelings and personal bonds
+      gloss: frustration; distress at a desire left unfulfilled or blocked
+      concept: frustration
+      built: [avandon, ar, tambro]
+    - form: avandon ol kezdandon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: curiosity; desire for knowledge, rather than knowledge already obtained
+      concept: curiosity
+      built: [avandon, ol, kezdandon]
+    - form: zed varelon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: certainty; complete conviction that a claim is true, which may be mistaken
+      concept: certainty
+      built: [zed, varelon]
+    - form: melvar velda ol ko
+      class: n f
+      field: Feelings and personal bonds
+      gloss: reverence; profound respect felt or shown toward you; replace ko with the revered person or thing
+      concept: reverence
+      built: [melvar, velda, ol, ko]
+    - form: ternandon ek velda ol ko
+      class: n
+      field: Feelings and personal bonds
+      gloss: awe; fear mingled with admiring wonder toward you; replace ko with the person or thing inspiring it
+      concept: awe
+      built: [ternandon, ek, velda, ol, ko]
+    - form: avandon ol konandon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: attraction; a felt desire to draw close to another person
+      concept: attraction
+      built: [avandon, ol, konandon]
+    - form: konandon ol nethora
+      class: n n
+      field: Feelings and personal bonds
+      gloss: intimacy; emotional closeness, the closeness of hearts
+      concept: intimacy
+      built: [konandon, ol, nethora]
+    - form: zed gerpalo
+      class: n
+      field: Feelings and personal bonds
+      gloss: devotion; wholehearted loving dedication to a person or cause
+      concept: devotion
+      built: [zed, gerpalo]
+    - form: thaurandon ol konandon
+      class: n n
+      field: Feelings and personal bonds
+      gloss: loyalty; faithful keeping of a bond or association, without requiring a formal oath
+      concept: loyalty
+      built: [thaurandon, ol, konandon]
+    - form: konandon dun ko
+      class: n n
+      field: Feelings and personal bonds
+      gloss: companionship; being in company with you; replace ko with another person
+      concept: companionship
+      built: [konandon, dun, ko]
+    - form: zirnon dun ko
+      class: n n
+      field: Feelings and personal bonds
+      gloss: enmity; hostility between oneself and you; replace ko with the other person
+      concept: enmity
+      built: [zirnon, dun, ko]
+    - form: dadro
+      class: adj
+      field: Qualities
+      gloss: good; pleasant when describing a scent or experience
+      concept: good
+      source: {kind: coined}
+    - form: membron
+      class: n
+      field: Speech, song and the learned
+      gloss: remembering; remembrance
+      source: {kind: coined}
+    - form: orhena
+      class: n
+      field: Feelings and personal bonds
+      gloss: a favor; a kindness received and the social debt it leaves; distinct from orhen, an insult requiring an answer
+      source: {kind: coined}
+    - form: hir
+      class: part
+      field: Numbers and grammar words
+      gloss: for; on behalf of; the person concerned follows hir
+      source: {kind: coined}
+    - form: gerpalo
+      class: n
+      field: The word given
+      gloss: duty; an obligation or commitment to a person or cause
+      source: {kind: coined}
+    - form: tambro
+      class: adj
+      field: Qualities
+      gloss: fulfilled; accomplished
+      source: {kind: coined}
+    - form: enthamis
+      class: n f
+      field: The body, life and death
+      gloss: a face
+      concept: face
+      source: {kind: coined}
+    - form: gombrisa
+      class: n f
+      field: The body, life and death
+      gloss: the elbow
+      concept: elbow
+      source: {kind: coined}
+    - form: krinemon
+      class: n n
+      field: The body, life and death
+      gloss: the knee
+      concept: knee
+      source: {kind: coined}
+    - form: enthama
+      class: n f
+      field: The body, life and death
+      gloss: a cheek; either side of the face
+      concept: cheek
+      source: {kind: coined}
+    - form: dekis solteros
+      class: n f
+      field: The body, life and death
+      gloss: the thumb; the broad opposing finger. In this fixed anatomical name solteros distinguishes the substantial opposing digit from the other fingers.
+      concept: thumb
+      built: [dekis, solteros]
+    - form: valkrinon
+      class: n n
+      field: The body, life and death
+      gloss: the ankle; the joint of the foot
+      concept: ankle
+      source: {kind: coined}
+    - form: nurhenza
+      class: n f
+      field: The body, life and death
+      gloss: the vagina; the birth passage
+      concept: vagina
+      source: {kind: coined}
+    - form: pazad
+      class: v
+      field: Doing, going and being
+      gloss: to eat
+      concept: eat
+      source: {kind: coined}
+    - form: vimad
+      class: v
+      field: Doing, going and being
+      gloss: to drink
+      concept: drink-verb
+      source: {kind: coined}
+    - form: zirvad
+      class: v
+      field: Doing, going and being
+      gloss: to breathe
+      concept: breathe
+      source: {kind: coined}
+    - form: lothad
+      class: v
+      field: Doing, going and being
+      gloss: to sleep
+      concept: sleep-verb
+      source: {kind: coined}
+    - form: zilvad
+      class: v
+      field: Doing, going and being
+      gloss: to urinate
+      concept: urinate
+      source: {kind: coined}
+    - form: pumzad
+      class: v
+      field: Doing, going and being
+      gloss: to defecate
+      concept: defecate
+      source: {kind: coined}
+    - form: hos
+      class: part
+      field: Towns, holdings and the road
+      gloss: out; outside; beyond; outward; out from a named source
+      concept: [outside, beyond]
+      source: {kind: coined}
+    - form: zirvad ir
+      class: v
+      field: Doing, going and being
+      gloss: to inhale; to draw breath inward. Ir names the inward direction of the breath after zirvad in this fixed action expression.
+      concept: inhale
+      built: [zirvad, ir]
+    - form: zirvad hos
+      class: v
+      field: Doing, going and being
+      gloss: to exhale; to send breath outward. Hos names the outward direction of the breath after zirvad in this fixed action expression.
+      concept: exhale
+      built: [zirvad, hos]
+    - form: dunad
+      class: v
+      field: Doing, going and being
+      gloss: to be able; to have the ability to perform the following named action
+      concept: can
+      source: {kind: coined}
+    - form: ar dunad zirvad
+      class: v
+      field: Doing, going and being
+      gloss: to suffocate; to be unable to draw breath because breathing is blocked or breathable air is absent. Ar negates ability to breathe in this particular physical expression.
+      concept: suffocate
+      built: [ar, dunad, zirvad]
+    - form: anlothad
+      class: v
+      field: Doing, going and being
+      gloss: to wake; to cease sleeping
+      concept: wake
+      source: {kind: coined}
+    - form: zarvelad
+      class: v
+      field: Doing, going and being
+      gloss: to sweat; to exude perspiration
+      concept: sweat-verb
+      source: {kind: coined}
+    - form: nelvad
+      class: v
+      field: Doing, going and being
+      gloss: to freeze; to become frozen or turn to ice
+      concept: freeze
+      source: {kind: coined}
+    - form: kremed
+      class: v
+      field: Doing, going and being
+      gloss: to burn
+      concept: burn
+      source: {kind: coined}
+    - form: irthavon
+      class: n n
+      field: The body, life and death
+      gloss: danger; a risk of harm
+      concept: danger
+      source: {kind: coined}
+    - form: holimad
+      class: v
+      field: Doing, going and being
+      gloss: to begin; to start an action or process
+      concept: begin
+      source: {kind: coined}
+    - form: holimad nur ir nurkovra
+      class: v
+      field: Doing, going and being
+      gloss: to conceive; to begin a child in the womb. Nur is the child begun, and ir nurkovra locates the beginning in the womb.
+      concept: conceive
+      built: [holimad, nur, ir, nurkovra]
+    - form: kerandon ol nur ir nurkovra
+      class: n n
+      field: The body, life and death
+      gloss: pregnancy; the carrying of a child in the womb. The whole expression names gestation, not the care of a born child held in the arms.
+      concept: pregnancy
+      built: [kerandon, ol, nur, ir, nurkovra]
+    - form: kerad
+      class: v
+      field: Doing, going and being
+      gloss: to have; to hold or possess a named thing
+      concept: [have, hold]
+      source: {kind: coined}
+    - form: kerad nur ir nurkovra
+      class: v
+      field: Doing, going and being
+      gloss: to be pregnant; to carry a child in the womb. Nur is the child carried, and ir nurkovra locates that carrying in the womb.
+      concept: pregnant
+      built: [kerad, nur, ir, nurkovra]
+    - form: nurezad
+      class: v
+      field: Doing, going and being
+      gloss: to give birth
+      concept: give-birth
+      source: {kind: coined}
+    - form: sulmenad
+      class: v
+      field: Doing, going and being
+      gloss: to nurse a child; to feed a child at the breast
+      concept: nurse
+      source: {kind: coined}
+    - form: nured
+      class: v
+      field: Doing, going and being
+      gloss: to grow; to increase in size or maturity
+      concept: grow
+      source: {kind: coined}
+    - form: ankelad
+      class: v
+      field: Doing, going and being
+      gloss: to age; to grow older
+      concept: age-verb
+      source: {kind: coined}
+    - form: dun irtho
+      class: part
+      field: The body, life and death
+      gloss: injured; with a wound. This fixed physical condition describes a wounded person or animal.
+      concept: injured
+      built: [dun, irtho]
+    - form: irthena
+      class: n f
+      field: The body, life and death
+      gloss: pain; bodily suffering
+      concept: pain
+      source: {kind: coined}
+    - form: irthenad
+      class: v
+      field: Doing, going and being
+      gloss: to hurt someone; to cause pain or injury
+      concept: hurt-verb
+      source: {kind: coined}
+    - form: zarved irthena
+      class: v
+      field: Doing, going and being
+      gloss: to ache; to hurt; to experience bodily pain. The sufferer is the subject; irthena is the pain sensed, unlike irthenad, cause injury.
+      concept: [ache, hurt-pain]
+      built: [zarved, irthena]
+    - form: thaurad irthena
+      class: v
+      field: Doing, going and being
+      gloss: to suffer; to bear bodily pain. In this conventional expression keep or harbor names enduring the pain, rather than causing it.
+      concept: suffer
+      built: [thaurad, irthena]
+    - form: linkad
+      class: v
+      field: Doing, going and being
+      gloss: to let go; to release a named thing
+      source: {kind: coined}
+    - form: linkad brud
+      class: v
+      field: Doing, going and being
+      gloss: to bleed; to lose blood from the body. The whole expression conventionally describes blood escaping through a wound or other bodily opening.
+      concept: bleed
+      built: [linkad, brud]
+    - form: anirthezad
+      class: v
+      field: Doing, going and being
+      gloss: to heal a wound or injury
+      concept: heal
+      source: {kind: coined}
+    - form: ankelmed
+      class: v
+      field: Doing, going and being
+      gloss: to recover; to become well again after sickness
+      concept: recover
+      source: {kind: coined}
+    - form: okarno
+      class: adj
+      field: The body, life and death
+      gloss: blind; having a bodily impairment of sight, rather than merely being unable to see in darkness or through an obstacle
+      concept: blind
+      source: {kind: coined}
+    - form: thavarno
+      class: adj
+      field: The body, life and death
+      gloss: deaf; having a bodily impairment of hearing, rather than merely facing an inaudible sound
+      concept: deaf
+      source: {kind: coined}
+    - form: valmarno
+      class: adj
+      field: The body, life and death
+      gloss: lame; physically impaired in walking, including difficulty rather than only complete inability to walk
+      concept: lame
+      source: {kind: coined}
+    - form: halvizon
+      class: n n
+      field: The household
+      gloss: an orphan
+      concept: orphan
+      source: {kind: coined}
+    - form: nurethos ol sembro
+      class: n m
+      field: The household
+      gloss: a nephew; a brother's son. Sembra replaces sembro for a sister's son.
+      concept: nephew
+      built: [nurethos, ol, sembro]
+    - form: nuretha ol sembro
+      class: n f
+      field: The household
+      gloss: a niece; a brother's daughter. Sembra replaces sembro for a sister's daughter.
+      concept: niece
+      built: [nuretha, ol, sembro]
+    - form: kambo ves kambetha
+      class: n
+      field: The household
+      gloss: a spouse; a husband or wife
+      concept: spouse
+      built: [kambo, ves, kambetha]
+    - form: kambezad
+      class: v
+      field: Doing, going and being
+      gloss: to marry; to enter into marriage
+      concept: marry
+      source: {kind: coined}
+    - form: verezos ol holvethon
+      class: n m
+      field: The household
+      gloss: a friend; a person in a bond of affectionate friendship. This whole expression names personal friendship rather than a position in a company.
+      concept: friend
+      built: [verezos, ol, holvethon]
+    - form: verezos dun ko
+      class: n m
+      field: The household
+      gloss: a companion; a person sharing your company. Ko names the person accompanied and can be replaced by a name; this does not require riding beside a commander.
+      concept: companion
+      built: [verezos, dun, ko]
+    - form: thrumador
+      class: n
+      field: The household
+      gloss: a leader; a person who leads a group or undertaking
+      concept: leader
+      source: {kind: coined}
+    - form: sedon ol karalzo
+      class: n n
+      field: Towns, holdings and the road
+      gloss: a hearth; the physical place of the kept fire. This whole place expression distinguishes the hearth from karalzo, the fire itself.
+      concept: hearth
+      built: [sedon, ol, karalzo]
+    - form: henza
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a door
+      concept: door
+      source: {kind: coined}
+    - form: prekai
+      class: n f
+      field: Towns, holdings and the road
+      gloss: shutters; the coverings of a window
+      concept: shutters
+      source: {kind: coined}
+    - form: vembrai
+      class: n f
+      field: Towns, holdings and the road
+      gloss: clothes; clothing collectively
+      concept: clothes
+      source: {kind: coined}
+    - form: ombela teremos
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a bench; a long seat for several people. This fixed furnishing name does not imply a master's workshop position.
+      concept: bench
+      built: [ombela, teremos]
+    - form: hunela
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a cord; a line for tying or measuring
+      concept: cord
+      source: {kind: coined}
+    - form: hunela solteros
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a rope; a thick cord. The whole expression names a substantial cord used for pulling or securing things.
+      concept: rope
+      built: [hunela, solteros]
+    - form: vembra
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a garment; an article of clothing
+      concept: garment
+      source: {kind: coined}
+    - form: zalhunela
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a belt; a fastening worn around the waist or hips
+      concept: belt
+      source: {kind: coined}
+    - form: valmkovra teremos
+      class: n f
+      field: Towns, holdings and the road
+      gloss: a boot; a long shoe extending up the leg
+      concept: boot
+      built: [valmkovra, teremos]
+    - form: kaldre
+      class: n f
+      field: Towns, holdings and the road
+      gloss: wood; the material of trees
+      concept: wood
+      source: {kind: coined}
+    - form: talor
+      class: n n
+      field: Towns, holdings and the road
+      gloss: stone; a rock; a piece of stone
+      concept: [stone, rock]
+      source: {kind: coined}
+    - form: hunela nis
+      class: n f
+      field: Towns, holdings and the road
+      gloss: thread; a fine cord for sewing
+      concept: thread
+      built: [hunela, nis]
+    - form: oreza
+      class: n f
+      field: Land, the high country and the weather
+      gloss: earth; soil; the ground's loose surface material
+      concept: [earth, soil]
+      source: {kind: coined}
+    - form: oreza ol salkon
+      class: n f
+      field: Land, the high country and the weather
+      gloss: sand; loose grains of earth. The whole conventional expression also names sand away from a shore.
+      concept: sand
+      built: [oreza, ol, salkon]
+    - form: oreza ek ulmer
+      class: n f
+      field: Land, the high country and the weather
+      gloss: mud; earth mixed with water. The whole material expression names their wet mixture.
+      concept: mud
+      built: [oreza, ek, ulmer]
+    - form: ormela
+      class: n f
+      field: Land, the high country and the weather
+      gloss: dust; fine dry particles of earth or other material
+      concept: dust
+      source: {kind: coined}
+    - form: orma levros
+      class: n f
+      field: Land, the high country and the weather
+      gloss: a plain; flat open land. The whole geographical expression names a level tract, whether owned or not.
+      concept: plain-landform
+      built: [orma, levros]
+    - form: siretha nis
+      class: n f
+      field: Land, the high country and the weather
+      gloss: a stream; a small watercourse
+      concept: stream
+      built: [siretha, nis]
+    - form: brazmo
+      class: n
+      field: Land, the high country and the weather
+      gloss: a storm; violent wind and weather on land or sea
+      concept: storm
+      source: {kind: coined}
+    - form: ulhis
+      class: n m
+      field: Land, the high country and the weather
+      gloss: a fish
+      concept: fish
+      source: {kind: coined}
+    - form: ormis
+      class: n f
+      field: Land, the high country and the weather
+      gloss: a worm; a long soft animal without legs
+      concept: worm
+      source: {kind: coined}
+    - form: kaldran
+      class: n m
+      field: Land, the high country and the weather
+      gloss: a tree; a woody plant with a lasting trunk
+      concept: tree
+      source: {kind: coined}
+    - form: lamothos ol kaldran
+      class: n m
+      field: Land, the high country and the weather
+      gloss: a branch; a limb of a tree. This is the conventional botanical use of the whole expression.
+      concept: branch
+      built: [lamothos, ol, kaldran]
+    - form: arzun
+      class: num
+      field: Numbers and grammar words
+      gloss: zero; no units in a count
+      concept: zero
+      source: {kind: coined}
+    - form: ir sedon ol neth
+      class: part
+      field: Numbers and grammar words
+      gloss: in seventh position; an ordinal position expressed with ir sedon ol followed by a number. Replace neth, seven, with another number to specify that position in a sequence.
+      concept: ordinal-construction
+      built: [ir, sedon, ol, neth]
+    - form: zed konalon
+      class: n n
+      field: Numbers and grammar words
+      gloss: all; the whole group under discussion, with every member included. Ol followed by a noun names the relevant set; the whole expression includes each member without exception.
+      concept: [all, every]
+      built: [zed, konalon]
+    - form: ozelos
+      class: adj
+      field: Numbers and grammar words
+      gloss: equal; having the same amount, measure or standing
+      concept: equal
+      source: {kind: coined}
+    - form: zed tavre
+      class: num
+      field: Numbers and grammar words
+      gloss: both; the whole two-member set, with neither member excluded
+      concept: both
+      built: [zed, tavre]
+    - form: urkis ol tavre
+      class: pron
+      field: Numbers and grammar words
+      gloss: either one; one of two, with the choice open between the pair
+      concept: either
+      built: [urkis, ol, tavre]
+    - form: ar urkis ol tavre
+      class: pron
+      field: Numbers and grammar words
+      gloss: neither one; not one of two
+      concept: neither
+      built: [ar, urkis, ol, tavre]
+    - form: ozethi
+      class: adv
+      field: Numbers and grammar words
+      gloss: about; approximately in number or measure
+      concept: about
+      source: {kind: coined}
+    - form: ozon
+      class: n n
+      field: Numbers and grammar words
+      gloss: a number; a count of units
+      concept: number
+      source: {kind: coined}
+    - form: thradinad
+      class: v
+      field: Doing, going and being
+      gloss: to measure; to determine an extent or quantity
+      concept: measure-verb
+      source: {kind: coined}
+    - form: ozimad
+      class: v
+      field: Doing, going and being
+      gloss: to count; to reckon units
+      concept: count-verb
+      source: {kind: coined}
+    - form: hunelen
+      class: adj
+      field: Qualities
+      gloss: striped; patterned with long bands
+      concept: striped
+      source: {kind: coined}
+    - form: ared
+      class: v
+      field: Doing, going and being
+      gloss: to be; to have a named identity or quality, or occupy a named place
+      concept: be
+      source: {kind: coined}
+    - form: kured
+      class: v
+      field: Doing, going and being
+      gloss: to take
+      concept: take
+      source: {kind: coined}
+    - form: ertad
+      class: v
+      field: Doing, going and being
+      gloss: to do; to perform an action or task
+      concept: do
+      source: {kind: coined}
+    - form: pelmad
+      class: v
+      field: Doing, going and being
+      gloss: to think
+      concept: think
+      source: {kind: coined}
+    - form: aved
+      class: v
+      field: Doing, going and being
+      gloss: to want; to desire
+      concept: [want, wish-verb]
+      source: {kind: coined}
+    - form: valmad
+      class: v
+      field: Doing, going and being
+      gloss: to walk; to go on foot
+      concept: walk
+      source: {kind: coined}
+    - form: alvad
+      class: v
+      field: Doing, going and being
+      gloss: to run
+      concept: run
+      source: {kind: coined}
+    - form: thaled
+      class: v
+      field: Doing, going and being
+      gloss: to stand
+      concept: stand
+      source: {kind: coined}
+    - form: nalid
+      class: v
+      field: Doing, going and being
+      gloss: to lie down
+      concept: lie-down
+      source: {kind: coined}
+    - form: ambred
+      class: v
+      field: Doing, going and being
+      gloss: to bring
+      concept: bring
+      source: {kind: coined}
+    - form: lendad
+      class: v
+      field: Doing, going and being
+      gloss: to put; to set or lay a thing in its place
+      concept: put
+      source: {kind: coined}
+    - form: halved
+      class: v
+      field: Doing, going and being
+      gloss: to find
+      concept: find
+      source: {kind: coined}
+    - form: anhalved
+      class: v
+      field: Doing, going and being
+      gloss: to lose
+      concept: lose
+      source: {kind: coined}
+    - form: olmad
+      class: v
+      field: Doing, going and being
+      gloss: to open
+      concept: open
+      source: {kind: coined}
+    - form: anolmad
+      class: v
+      field: Doing, going and being
+      gloss: to close
+      concept: close
+      source: {kind: coined}
+    - form: orthemad
+      class: v
+      field: Doing, going and being
+      gloss: to end; to bring to an end
+      concept: end
+      source: {kind: coined}
+    - form: dumva ared
+      class: v
+      field: Doing, going and being
+      gloss: "a house exists; there is a house. Ared is used absolutely here: replace dumva with the actual subject whose existence is asserted."
+      concept: exist
+      built: [dumva, ared]
+    - form: ared ol ko
+      class: v
+      field: Doing, going and being
+      gloss: to belong to you; to be yours. Ko is the possessor after ol and can be replaced by a name or another pronoun; the owned thing is the subject.
+      concept: belong
+      built: [ared, ol, ko]
+    - form: pelzad
+      class: v
+      field: Doing, going and being
+      gloss: to become; to enter a named state
+      concept: become
+      source: {kind: coined}
+    - form: dorad
+      class: v
+      field: Doing, going and being
+      gloss: to remain; to continue in a place, state or action
+      concept: [remain, continue]
+      source: {kind: coined}
+    - form: tigad hos sedon ol dumva
+      class: v
+      field: Doing, going and being
+      gloss: to leave the house; to depart from a named place. Dumva identifies the place left and can be replaced by the actual source location.
+      concept: leave
+      built: [tigad, hos, sedon, ol, dumva]
+    - form: lokad hir dumva
+      class: v
+      field: Doing, going and being
+      gloss: to arrive at the house; to come to a destination. Hir marks the goal in this fixed movement expression; replace dumva with the actual destination.
+      concept: arrive
+      built: [lokad, hir, dumva]
+    - form: valmad zel
+      class: v
+      field: Doing, going and being
+      gloss: to crawl; to move low along the ground. Zel gives the low direction or level of movement in this conventional expression.
+      concept: crawl
+      built: [valmad, zel]
+    - form: urzvalmad
+      class: v
+      field: Doing, going and being
+      gloss: to climb; to move upward on a surface
+      concept: climb
+      source: {kind: coined}
+    - form: urzalvad
+      class: v
+      field: Doing, going and being
+      gloss: to jump; to spring upward
+      concept: jump
+      source: {kind: coined}
+    - form: tigad ir
+      class: v
+      field: Doing, going and being
+      gloss: to enter; to go in. Ir follows the action here and can introduce the actual place entered.
+      concept: enter
+      built: [tigad, ir]
+    - form: tigad hos
+      class: v
+      field: Doing, going and being
+      gloss: to exit; to go out. Hos follows the action here and can introduce the actual place left.
+      concept: exit
+      built: [tigad, hos]
+    - form: antigad
+      class: v
+      field: Doing, going and being
+      gloss: to return; to go back, whether or not returning from a contract with pay
+      concept: return
+      source: {kind: coined}
+    - form: solkad
+      class: v
+      field: Doing, going and being
+      gloss: to follow; to go after a person or moving thing
+      concept: follow
+      source: {kind: coined}
+    - form: sedad
+      class: v
+      field: Doing, going and being
+      gloss: to move; to change place
+      concept: move
+      source: {kind: coined}
+    - form: prendad
+      class: v
+      field: Doing, going and being
+      gloss: to push; to exert force away from oneself
+      concept: push
+      source: {kind: coined}
+    - form: zunded
+      class: v
+      field: Doing, going and being
+      gloss: to pull; to draw toward oneself
+      concept: pull
+      source: {kind: coined}
+    - form: lozed us
+      class: v
+      field: Doing, going and being
+      gloss: to lift; to carry upward. Us names the upward direction after lozed in this fixed action expression.
+      concept: lift
+      built: [lozed, us]
+    - form: daimad nembandon hir tolkemon
+      class: v
+      field: Doing, going and being
+      gloss: to drop a pot; to give the pot a fall. Tolkemon is the thing caused to fall, marked by hir in this conventional expression; replace it with the actual dropped object.
+      concept: drop
+      built: [daimad, nembandon, hir, tolkemon]
+    - form: helzad
+      class: v
+      field: Doing, going and being
+      gloss: to throw; to send an object through the air
+      concept: throw
+      source: {kind: coined}
+    - form: kurad
+      class: v
+      field: Doing, going and being
+      gloss: to catch; to seize a moving thing
+      concept: catch
+      source: {kind: coined}
+    - form: kermad
+      class: v
+      field: Doing, going and being
+      gloss: to break; to separate or damage a thing by force
+      concept: break
+      source: {kind: coined}
+    - form: kermad zed
+      class: v
+      field: Doing, going and being
+      gloss: to destroy; to break completely. In this conventional action expression zed describes the completeness of the destruction, not the original object's wholeness.
+      concept: destroy
+      built: [kermad, zed]
+    - form: ankermad
+      class: v
+      field: Doing, going and being
+      gloss: to repair; to undo damage or breakage
+      concept: repair
+      source: {kind: coined}
+    - form: pelzed
+      class: v
+      field: Doing, going and being
+      gloss: to change; to alter something
+      concept: change-verb
+      source: {kind: coined}
+    - form: narad
+      class: v
+      field: Doing, going and being
+      gloss: to tell; to relate information or a story to someone
+      concept: tell
+      source: {kind: coined}
+    - form: pethad
+      class: v
+      field: Doing, going and being
+      gloss: to ask a question or make a request
+      concept: ask
+      source: {kind: coined}
+    - form: pethred
+      class: v
+      field: Doing, going and being
+      gloss: to answer; to respond to a question or request
+      concept: answer
+      source: {kind: coined}
+    - form: kramed
+      class: v
+      field: Doing, going and being
+      gloss: to call out; to shout
+      concept: [call, shout]
+      source: {kind: coined}
+    - form: dokad dun thavandon nis
+      class: v
+      field: Doing, going and being
+      gloss: to whisper; to speak with a small breathy, unvoiced sound. The whole conventional expression names whispering rather than any quiet voiced murmur.
+      concept: whisper
+      built: [dokad, dun, thavandon, nis]
+    - form: lambizad
+      class: v
+      field: Doing, going and being
+      gloss: to explain; to make a meaning clear in words
+      concept: explain
+      source: {kind: coined}
+    - form: daimad harlen
+      class: v
+      field: Doing, going and being
+      gloss: to name; to give a name. The person or thing named is identified with hir in the concrete naming use.
+      concept: name-verb
+      built: [daimad, harlen]
+    - form: varelad
+      class: v
+      field: Doing, going and being
+      gloss: to believe; to hold a claim true or trust a named person
+      concept: believe
+      source: {kind: coined}
+    - form: lambired
+      class: v
+      field: Doing, going and being
+      gloss: to understand; to grasp a meaning or reason
+      concept: understand
+      source: {kind: coined}
+    - form: membrad
+      class: v
+      field: Doing, going and being
+      gloss: to remember
+      concept: remember
+      source: {kind: coined}
+    - form: anmembrad
+      class: v
+      field: Doing, going and being
+      gloss: to forget
+      concept: forget
+      source: {kind: coined}
+    - form: marendad
+      class: v
+      field: Doing, going and being
+      gloss: to learn; to acquire knowledge or skill
+      concept: learn
+      source: {kind: coined}
+    - form: marended
+      class: v
+      field: Doing, going and being
+      gloss: to teach; to impart knowledge or skill
+      concept: teach
+      source: {kind: coined}
+    - form: nazdad
+      class: v
+      field: Doing, going and being
+      gloss: to decide; to settle what is to be done
+      concept: decide
+      source: {kind: coined}
+    - form: vethoked
+      class: v
+      field: Doing, going and being
+      gloss: to imagine; to form an image in one's mind
+      concept: imagine
+      source: {kind: coined}
+    - form: gerpad
+      class: v
+      field: Doing, going and being
+      gloss: to need; to require a named thing
+      concept: need-verb
+      source: {kind: coined}
+    - form: orvad
+      class: v
+      field: Doing, going and being
+      gloss: to hope
+      concept: hope-verb
+      source: {kind: coined}
+    - form: avrenad
+      class: v
+      field: Doing, going and being
+      gloss: to intend; to have an act or outcome deliberately in mind
+      concept: intend
+      source: {kind: coined}
+    - form: tavkured
+      class: v
+      field: Doing, going and being
+      gloss: to choose; to take one from alternatives
+      concept: choose
+      source: {kind: coined}
+    - form: aved mazeron
+      class: v
+      field: Doing, going and being
+      gloss: to prefer; to want one option more. The preferred object follows mazeron; mazer introduces the alternative in this fixed action expression.
+      concept: prefer
+      built: [aved, mazeron]
+    - form: tarvenad
+      class: v
+      field: Doing, going and being
+      gloss: to try; to attempt a named action
+      concept: try
+      source: {kind: coined}
+    - form: sekerad
+      class: v
+      field: Doing, going and being
+      gloss: to search; to look for a named thing
+      concept: search
+      source: {kind: coined}
+    - form: konad
+      class: v
+      field: Doing, going and being
+      gloss: to meet; to come together with a named person
+      concept: meet
+      source: {kind: coined}
+    - form: zumbrad
+      class: v
+      field: Doing, going and being
+      gloss: to help; to assist
+      concept: help
+      source: {kind: coined}
+    - form: solthad
+      class: v
+      field: Doing, going and being
+      gloss: to share; to divide something among people
+      concept: share
+      source: {kind: coined}
+    - form: delad
+      class: v
+      field: Doing, going and being
+      gloss: to trade; to buy and sell
+      concept: trade
+      source: {kind: coined}
+    - form: kurelad
+      class: v
+      field: Doing, going and being
+      gloss: to buy; to acquire for a price
+      concept: buy
+      source: {kind: coined}
+    - form: daimelad
+      class: v
+      field: Doing, going and being
+      gloss: to sell; to give in exchange for a price
+      concept: sell
+      source: {kind: coined}
+    - form: zarled
+      class: v
+      field: Doing, going and being
+      gloss: to promise; to undertake to do something
+      concept: promise-verb
+      source: {kind: coined}
+    - form: membrad orhena
+      class: v
+      field: Doing, going and being
+      gloss: to express thanks; to acknowledge a kindness received. The whole conventional expression recalls the favor gratefully, without naming an addressee by itself.
+      concept: thank-verb
+      built: [membrad, orhena]
+    - form: anorhenad
+      class: v
+      field: Doing, going and being
+      gloss: to forgive; to release someone from a wrong or what is owed
+      concept: forgive-verb
+      source: {kind: coined}
+    - form: ar aved
+      class: v
+      field: Doing, going and being
+      gloss: to refuse; not to consent to the following proposed action or thing
+      concept: refuse-verb
+      built: [ar, aved]
+    - form: varelad dun ko
+      class: v
+      field: Doing, going and being
+      gloss: to agree with you; to share your belief or judgment. Ko names the other party and can be replaced by a name.
+      concept: agree-verb
+      built: [varelad, dun, ko]
+    - form: malked
+      class: v
+      field: Doing, going and being
+      gloss: to hit; to strike
+      concept: hit
+      source: {kind: coined}
+    - form: kolvad
+      class: v
+      field: Doing, going and being
+      gloss: to kill; to cause death
+      concept: kill
+      source: {kind: coined}
+    - form: lusad
+      class: v
+      field: Doing, going and being
+      gloss: to defend; to protect someone or something against harm
+      concept: defend
+      source: {kind: coined}
+    - form: holimad kordandon hir ko
+      class: v
+      field: Doing, going and being
+      gloss: to attack you; to begin a fight against you. Hir identifies the target in this fixed hostile expression; ko can be replaced by a name.
+      concept: attack
+      built: [holimad, kordandon, hir, ko]
+    - form: alvad hos sedon ol irthavon
+      class: v
+      field: Doing, going and being
+      gloss: to flee; to run away from danger. The source is the place of danger; a named danger source can replace irthavon.
+      concept: flee
+      built: [alvad, hos, sedon, ol, irthavon]
+    - form: vagad irthavon
+      class: v
+      field: Doing, going and being
+      gloss: to threaten; to show one's intention to cause harm. The whole conventional expression signals the speaker's agency and harmful intent, rather than an innocent warning of danger.
+      concept: threaten
+      built: [vagad, irthavon]
+    - form: sistad
+      class: v
+      field: Doing, going and being
+      gloss: to stop; to cease
+      concept: stop
+      source: {kind: coined}
+    - form: sisted
+      class: v
+      field: Doing, going and being
+      gloss: to wait; to remain until an expected time or event
+      concept: wait
+      source: {kind: coined}
+    - form: tambired
+      class: v
+      field: Doing, going and being
+      gloss: to happen; to occur
+      concept: happen
+      source: {kind: coined}
+    - form: krined
+      class: v
+      field: Doing, going and being
+      gloss: to bend; to lean; to bow
+      concept: [bend, lean]
+      source: {kind: coined}
+    - form: krined hir krinemon
+      class: v
+      field: Doing, going and being
+      gloss: to kneel; to bend down onto the knee. The whole posture expression names lowering the body onto a knee.
+      concept: kneel
+      built: [krined, hir, krinemon]
+    - form: kovrad
+      class: v
+      field: Doing, going and being
+      gloss: to cover; to put a covering over something
+      concept: cover-verb
+      source: {kind: coined}
+    - form: ankovrad
+      class: v
+      field: Doing, going and being
+      gloss: to uncover; to remove a covering
+      concept: uncover
+      source: {kind: coined}
+    - form: keltherad
+      class: v
+      field: Doing, going and being
+      gloss: to hide; to conceal an object or person from view
+      concept: hide
+      source: {kind: coined}
+    - form: zundelad
+      class: v
+      field: Doing, going and being
+      gloss: to lock; to fasten with a lock
+      concept: lock-verb
+      source: {kind: coined}
+    - form: anzundelad
+      class: v
+      field: Doing, going and being
+      gloss: to unlock; to release a lock
+      concept: unlock
+      source: {kind: coined}
+    - form: ir alatho sedon
+      class: part
+      field: Towns, holdings and the road
+      gloss: there; in that place over there. Alatho points to the distant place in this fixed location expression.
+      concept: there
+      built: [ir, alatho, sedon]
+    - form: ir zed konalon ol sedon
+      class: part
+      field: Towns, holdings and the road
+      gloss: everywhere; in the whole set of places, with no relevant place excluded
+      concept: everywhere
+      built: [ir, zed, konalon, ol, sedon]
+    - form: nol
+      class: part
+      field: Towns, holdings and the road
+      gloss: beside; at the side of a named thing
+      concept: beside
+      source: {kind: coined}
+    - form: zirun
+      class: n n
+      field: Towns, holdings and the road
+      gloss: the center; the middle
+      concept: center
+      source: {kind: coined}
+    - form: hir sedon thelvar
+      class: part
+      field: Towns, holdings and the road
+      gloss: up; toward a higher place. Thelvar describes the high destination after hir in this fixed movement expression.
+      concept: up
+      built: [hir, sedon, thelvar]
+    - form: hir sedon zel
+      class: part
+      field: Towns, holdings and the road
+      gloss: down; toward a lower place. Zel locates the low destination in this fixed movement expression.
+      concept: down
+      built: [hir, sedon, zel]
+    - form: hir prasedon
+      class: part
+      field: Towns, holdings and the road
+      gloss: forward; toward the front
+      concept: forward
+      built: [hir, prasedon]
+    - form: hir anprasedon
+      class: part
+      field: Towns, holdings and the road
+      gloss: backward; toward the rear
+      concept: backward
+      built: [hir, anprasedon]
+    - form: hir dumva
+      class: part
+      field: Towns, holdings and the road
+      gloss: toward the house; to the house. This whole goal expression names a destination; replace dumva with the actual destination.
+      concept: [toward, to]
+      built: [hir, dumva]
+    - form: hos denon sedon
+      class: part
+      field: Towns, holdings and the road
+      gloss: away; out from this place. Denon identifies the present place from which movement proceeds.
+      concept: away
+      built: [hos, denon, sedon]
+    - form: hos sedon ol dumva
+      class: part
+      field: Towns, holdings and the road
+      gloss: from the house; from a named source location. Replace dumva with the actual source place.
+      concept: from
+      built: [hos, sedon, ol, dumva]
+    - form: teredon ol sedon ek sedon
+      class: n n
+      field: Towns, holdings and the road
+      gloss: distance; the extent between two places. The first sedon and second sedon are replaced by the actual endpoint places.
+      concept: distance
+      built: [teredon, ol, sedon, ek]
+    - form: ken
+      class: part
+      field: Time and the year
+      gloss: when; while; during the time of the following named event or clause. It also asks when an event occurs in an explicit question.
+      concept: while
+      source: {kind: coined}
+    - form: hir kanel ol kolsama
+      class: part
+      field: Time and the year
+      gloss: until the harvest; up to the time of a named event. Replace kolsama with the endpoint event.
+      concept: until
+      built: [hir, kanel, ol, kolsama]
+    - form: hos kanel ol kolsama
+      class: part
+      field: Time and the year
+      gloss: since the harvest; from the time of a named event onward. Replace kolsama with the starting event.
+      concept: since-time
+      built: [hos, kanel, ol, kolsama]
+    - form: ir zed konalon ol kanel
+      class: part
+      field: Time and the year
+      gloss: always; at every relevant time, with none excluded
+      concept: always
+      built: [ir, zed, konalon, ol, kanel]
+    - form: ir zolmos kanel
+      class: part
+      field: Time and the year
+      gloss: often; on many occasions. The whole temporal expression uses kanel for an occasion, without asserting a plural ending.
+      concept: often
+      built: [ir, zolmos, kanel]
+    - form: ir ithros kanel
+      class: part
+      field: Time and the year
+      gloss: rarely; on few occasions. The whole temporal expression uses kanel for an occasion.
+      concept: rarely
+      built: [ir, ithros, kanel]
+    - form: nis ol kanel
+      class: adj
+      field: Time and the year
+      gloss: short; brief in duration. Ol kanel specifies time rather than physical size in this fixed description.
+      concept: [short-duration, brief-duration]
+      built: [nis, ol, kanel]
+    - form: dorandar ol kanel
+      class: adj
+      field: Time and the year
+      gloss: lasting; enduring through time. The whole expression describes sustained duration.
+      concept: lasting-duration
+      built: [dorandar, ol, kanel]
+    - form: tavre kanel
+      class: n n
+      field: Time and the year
+      gloss: twice; two occasions, used as a temporal adjunct to an action
+      concept: twice
+      built: [tavre, kanel]
+    - form: zolmos kanel
+      class: n n
+      field: Time and the year
+      gloss: repeatedly; many occasions, used as a temporal adjunct to an action
+      concept: repeatedly
+      built: [zolmos, kanel]
+    - form: hir denkanai
+      class: part
+      field: Time and the year
+      gloss: yet; up to now. Ar with an action and this temporal expression gives not yet.
+      concept: yet
+      built: [hir, denkanai]
+    - form: urzandon ol korvath
+      class: n n
+      field: Time and the year
+      gloss: dawn; the rising of the sun. The whole expression names dawn-time.
+      concept: dawn
+      built: [urzandon, ol, korvath]
+    - form: nembandon ol korvath
+      class: n n
+      field: Time and the year
+      gloss: dusk; the falling of the sun. The whole expression names sunset twilight.
+      concept: dusk
+      built: [nembandon, ol, korvath]
+    - form: alatho
+      class: pron
+      field: Numbers and grammar words
+      gloss: that; yonder; pointing to a distant person or thing
+      concept: that
+      source: {kind: coined}
+    - form: zed konalon ol verezos
+      class: n n
+      field: Numbers and grammar words
+      gloss: everyone; the whole set of people under discussion, with every person included
+      concept: everyone
+      built: [zed, konalon, ol, verezos]
+    - form: zed konalon ol lathon
+      class: n n
+      field: Numbers and grammar words
+      gloss: everything; the whole set of things under discussion, with every thing included
+      concept: everything
+      built: [zed, konalon, ol, lathon]
+    - form: ozelos urkis
+      class: adj
+      field: Numbers and grammar words
+      gloss: the same; one and identical. The whole identity expression is stronger than mere equality in value.
+      concept: same
+      built: [ozelos, urkis]
+    - form: eza ir kethos sedon
+      class: part
+      field: Numbers and grammar words
+      gloss: where?; in which place? Kethos identifies the questioned place in this fixed location question.
+      concept: question-where
+      built: [eza, ir, kethos, sedon]
+    - form: eza ken
+      class: part
+      field: Numbers and grammar words
+      gloss: when?; at what time?
+      concept: question-when
+      built: [eza, ken]
+    - form: eza kethos ozon
+      class: n n
+      field: Numbers and grammar words
+      gloss: how many?; what number? Ol followed by the counted thing identifies what is counted.
+      concept: question-how-many
+      built: [eza, kethos, ozon]
+    - form: eza kethos zolmon
+      class: n n
+      field: Numbers and grammar words
+      gloss: how much?; what amount? Ol followed by the measured substance identifies what is measured.
+      concept: question-how-much
+      built: [eza, kethos, zolmon]
+    - form: eza hir kedis
+      class: part
+      field: Numbers and grammar words
+      gloss: to whom?; toward which person? Hir marks the recipient or goal in this fixed question.
+      concept: question-to-whom
+      built: [eza, hir, kedis]
+    - form: eza hos kethos sedon
+      class: part
+      field: Numbers and grammar words
+      gloss: from where?; out from which place? Kethos identifies the questioned source place.
+      concept: question-from-where
+      built: [eza, hos, kethos, sedon]
+    - form: eza hir kethis
+      class: part
+      field: Numbers and grammar words
+      gloss: for what purpose?; for what end? Hir marks the sought purpose in this fixed question.
+      concept: question-for-what-purpose
+      built: [eza, hir, kethis]
+    - form: eza ko dokad kethis
+      class: call
+      field: Numbers and grammar words
+      gloss: what do you mean?; what are you saying? Ko is the person addressed and kethis the questioned content of dokad.
+      concept: [question-clarification, expression-what-do-you-mean]
+      built: [eza, ko, dokad, kethis]
+    - form: denon ared varelin
+      class: call
+      field: Speech, song and the learned
+      gloss: yes; this is true. Denon points to the claim being affirmed.
+      concept: yes
+      built: [denon, ared, varelin]
+    - form: denon ar ared varelin
+      class: call
+      field: Speech, song and the learned
+      gloss: no; this is not true. Ar negates the truth of the claim pointed to by denon.
+      concept: no
+      built: [denon, ar, ared, varelin]
+    - form: denon ared varelin varlai
+      class: call
+      field: Speech, song and the learned
+      gloss: indeed; this truly is so, an emphatic assertion of the claim pointed to by denon
+      concept: [indeed, of-course]
+      built: [denon, ared, varelin, varlai]
+    - form: sa dokandon ol ko
+      class: part
+      field: Speech, song and the learned
+      gloss: supposedly; according to what you say. The whole reporting expression attributes the claim to ko without endorsing its truth; replace ko with the actual reporter.
+      concept: supposedly
+      built: [sa, dokandon, ol, ko]
+    - form: tavvarelad
+      class: v
+      field: Doing, going and being
+      gloss: to doubt; to be divided in belief
+      concept: doubt-verb
+      source: {kind: coined}
+    - form: varelad zikai
+      class: v
+      field: Doing, going and being
+      gloss: to suspect; to believe tentatively that something may be so. Zikai marks the uncertainty in this fixed action expression.
+      concept: suspect
+      built: [varelad, zikai]
+    - form: dokad dun ar kezdandon
+      class: v
+      field: Doing, going and being
+      gloss: to guess; to state something without knowledge. The whole conventional expression describes an uncertain answer, rather than a lie told with knowledge.
+      concept: guess-verb
+      built: [dokad, dun, ar, kezdandon]
+    - form: lendad varelon
+      class: v
+      field: Doing, going and being
+      gloss: to assume; to set something down as a belief or premise, without asserting proof
+      concept: assume-verb
+      built: [lendad, varelon]
+    - form: alethvarelad
+      class: v
+      field: Doing, going and being
+      gloss: to disagree; to hold a different judgment from someone
+      concept: disagree
+      source: {kind: coined}
+    - form: hir denon
+      class: part
+      field: Numbers and grammar words
+      gloss: therefore; for this reason. Denon points to the preceding proposition, treated as the reason for the following one.
+      concept: therefore
+      built: [hir, denon]
+    - form: zai denon ar ared varelin tha en tigad
+      class: call
+      field: Numbers and grammar words
+      gloss: otherwise I go; if this is not true, then I go. Denon points to the preceding proposition; replace en tigad with the actual consequence.
+      concept: otherwise
+      built: [zai, denon, ar, ared, varelin, tha, en, tigad]
+    - form: zai ko lokad ves ko ar lokad
+      class: conj
+      field: Numbers and grammar words
+      gloss: whether you come or do not come. Both alternatives are stated; replace the repeated subject and action to name another open alternative.
+      concept: whether
+      built: [zai, ko, lokad, ves, ar]
+    - form: denon ared
+      class: part
+      field: Numbers and grammar words
+      gloss: that is; this means. This fixed introductory expression points to the preceding claim and introduces its explanatory restatement.
+      concept: that-is
+      built: [denon, ared]
+    - form: dokad harlen
+      class: part
+      field: Numbers and grammar words
+      gloss: namely; to say its name. This fixed introductory expression gives the exact identification following a general description.
+      concept: namely
+      built: [dokad, harlen]
+    - form: hos denon
+      class: part
+      field: Numbers and grammar words
+      gloss: except this; with this left outside the set. Replace denon with the actual excluded member.
+      concept: except
+      built: [hos, denon]
+    - form: melvarathi nis
+      class: adj
+      field: Qualities
+      gloss: tiny; very small in absolute size, rather than merely smallest within a set
+      concept: tiny
+      built: [melvarathi, nis]
+    - form: alvos
+      class: adj
+      field: Qualities
+      gloss: fast; moving or happening quickly
+      concept: fast
+      source: {kind: coined}
+    - form: mazeron dadro
+      class: adj
+      field: Qualities
+      gloss: better; more good than the stated comparison. Mazer introduces the compared alternative in the concrete use.
+      concept: better
+      built: [mazeron, dadro]
+    - form: dadro mazer zed konalon
+      class: adj
+      field: Qualities
+      gloss: best; better than the whole comparison set of other relevant alternatives. The described subject is excluded from that set; all the other relevant alternatives are included after mazer, not merely one rival.
+      concept: best
+      built: [dadro, mazer, zed, konalon]
+    - form: solkimos ol gerpalo
+      class: adj
+      field: Qualities
+      gloss: important; weighty in duty or consequence. The whole expression describes what is at stake, not physical weight alone.
+      concept: important
+      built: [solkimos, ol, gerpalo]
+    - form: nis ol gerpalo
+      class: adj
+      field: Qualities
+      gloss: trivial; small in consequence or importance
+      concept: trivial
+      built: [nis, ol, gerpalo]
+    - form: gerpalen
+      class: adj
+      field: Qualities
+      gloss: required; necessary; needed for the stated act or purpose
+      concept: [necessary, required]
+      source: {kind: coined}
+    - form: kerad solteros verdar
+      class: v
+      field: Doing, going and being
+      gloss: to be valuable; to have substantial worth. Solteros describes the high value of verdar in this fixed expression.
+      concept: valuable
+      built: [kerad, solteros, verdar]
+    - form: kerad ar verdar
+      class: v
+      field: Doing, going and being
+      gloss: to be worthless; to have no worth at all. Ar verdar gives zero worth in this conventional expression, not merely a low price.
+      concept: worthless
+      built: [kerad, ar, verdar]
+    - form: ozelos sa
+      class: adj
+      field: Qualities
+      gloss: similar; equal in some respect to the thing following sa. The relevant respect comes from context.
+      concept: similar
+      built: [ozelos, sa]
+    - form: ar dunad
+      class: v
+      field: Doing, going and being
+      gloss: to be unable; cannot perform the following named action. This denies ability, not permission.
+      concept: cannot
+      built: [ar, dunad]
+    - form: estharad
+      class: v
+      field: Doing, going and being
+      gloss: to have permission; to be permitted to perform the following named action. This grants permission without asserting ability.
+      concept: may-permission
+      source: {kind: coined}
+    - form: zikai tambired
+      class: v
+      field: Doing, going and being
+      gloss: might happen; may possibly occur. Zikai marks possibility and does not grant permission.
+      concept: might-possibility
+      built: [zikai, tambired]
+    - form: gerpalad
+      class: v
+      field: Doing, going and being
+      gloss: to be obliged; to be under a requirement to perform the following named action
+      concept: must
+      source: {kind: coined}
+    - form: gerpalad ar ertad
+      class: v
+      field: Doing, going and being
+      gloss: must not act; to be obliged to refrain. Ar negates the action after gerpalad, not the obligation; replace ertad with the prohibited action.
+      concept: must-not
+      built: [gerpalad, ar, ertad]
+    - form: dadrad
+      class: v
+      field: Doing, going and being
+      gloss: to be well advised; ought to perform the following named action. This is advice, not compulsion.
+      concept: ought
+      source: {kind: coined}
+    - form: estharen
+      class: adj
+      field: Numbers and grammar words
+      gloss: allowed; permitted by the relevant person or authority, whether or not a matter of law
+      concept: allowed
+      source: {kind: coined}
+    - form: anestharen
+      class: adj
+      field: Numbers and grammar words
+      gloss: forbidden; under an actual prohibition by the relevant person or authority, rather than merely lacking express permission
+      concept: forbidden
+      source: {kind: coined}
+    - form: estharen ek ar gerpalen
+      class: adj
+      field: Numbers and grammar words
+      gloss: optional; permitted and not required. The whole expression excludes both compulsion and prohibition.
+      concept: optional
+      built: [estharen, ek, ar, gerpalen]
+    - form: esthared
+      class: v
+      field: Doing, going and being
+      gloss: to permit a named person to perform the action under discussion; to grant permission
+      concept: permit
+      source: {kind: coined}
+    - form: anesthared
+      class: v
+      field: Doing, going and being
+      gloss: to prohibit a named person from performing the action under discussion; to impose a prohibition
+      concept: prohibit
+      source: {kind: coined}
+    - form: dadro nardelon
+      class: call
+      field: Speech, song and the learned
+      gloss: hello; good day, an ordinary daytime greeting
+      concept: hello
+      built: [dadro, nardelon]
+    - form: en aved dadro kanel hir ko
+      class: call
+      field: Speech, song and the learned
+      gloss: goodbye; I wish you good time. The whole conventional friendly parting wish addresses ko, you, without issuing an order.
+      concept: goodbye
+      built: [en, aved, dadro, kanel, hir, ko]
+    - form: dadro lokandon
+      class: call
+      field: Speech, song and the learned
+      gloss: welcome; a good coming, a greeting offered by a host to an arriving guest
+      concept: expression-welcome
+      built: [dadro, lokandon]
+    - form: en aved
+      class: call
+      field: Speech, song and the learned
+      gloss: please; I would like it, a courteous request whose desired act is understood from the exchange
+      concept: expression-please
+      built: [en, aved]
+    - form: en membrad orhena
+      class: call
+      field: Speech, song and the learned
+      gloss: thank you; I gratefully remember the kindness, addressed to the person thanked
+      concept: expression-thank-you
+      built: [en, membrad, orhena]
+    - form: denon ared ar nezora
+      class: call
+      field: Speech, song and the learned
+      gloss: you are welcome; this is no debt, a response to thanks that releases the recipient from repayment
+      concept: expression-youre-welcome
+      built: [denon, ared, ar, nezora]
+    - form: en aved ko linkad en
+      class: call
+      field: Speech, song and the learned
+      gloss: excuse me; I ask you to let me pass or leave me room. The whole courteous request makes ko the actor of linkad and en its object.
+      concept: expression-excuse-me
+      built: [en, aved, ko, linkad]
+    - form: en thaurad zelmira
+      class: call
+      field: Speech, song and the learned
+      gloss: I am sorry; I harbor sorrow for what happened, an expression of emotional regret rather than bodily pain
+      concept: expression-sorry
+      built: [en, thaurad, zelmira]
+    - form: en aved ko anorhenad en
+      class: call
+      field: Speech, song and the learned
+      gloss: forgive me; I ask you to forgive me. In this courteous request ko is the forgiving person and en the person forgiven.
+      concept: expression-forgive-me
+      built: [en, aved, ko, anorhenad]
+    - form: ko thavrelad
+      class: call
+      field: Speech, song and the learned
+      gloss: listen!; a direct appeal to the addressed person to listen attentively
+      concept: expression-listen
+      built: [ko, thavrelad]
+    - form: ko silkad
+      class: call
+      field: Speech, song and the learned
+      gloss: look!; a direct appeal to the addressed person to look
+      concept: expression-look
+      built: [ko, silkad]
+    - form: ko sisted
+      class: call
+      field: Speech, song and the learned
+      gloss: wait!; a direct appeal to the addressed person to wait
+      concept: expression-wait
+      built: [ko, sisted]
+    - form: ko lokad ir denon sedon
+      class: call
+      field: Speech, song and the learned
+      gloss: come here!; a direct appeal to the addressed person to come to this place
+      concept: expression-come-here
+      built: [ko, lokad, ir, denon, sedon]
+    - form: ko tigad hos denon sedon
+      class: call
+      field: Speech, song and the learned
+      gloss: go away!; a direct appeal to the addressed person to leave this place
+      concept: expression-go-away
+      built: [ko, tigad, hos, denon, sedon]
+    - form: ko zumbrad en
+      class: call
+      field: Speech, song and the learned
+      gloss: help!; a direct appeal asking the addressed person to help the speaker
+      concept: expression-help
+      built: [ko, zumbrad, en]
+    - form: ko sistad
+      class: call
+      field: Speech, song and the learned
+      gloss: stop!; a direct appeal to the addressed person to stop
+      concept: expression-stop
+      built: [ko, sistad]
+    - form: eza ko dokad antigai
+      class: call
+      field: Speech, song and the learned
+      gloss: pardon?; please say that again. This fixed question politely requests a repetition of the previous utterance.
+      concept: expression-pardon
+      built: [eza, ko, dokad, antigai]
+    - form: en lambired
+      class: call
+      field: Speech, song and the learned
+      gloss: I understand, an ordinary acknowledgment of comprehension
+      concept: expression-i-understand
+      built: [en, lambired]
+    - form: en ar lambired
+      class: call
+      field: Speech, song and the learned
+      gloss: I do not understand, an ordinary acknowledgment of lack of comprehension
+      concept: expression-i-do-not-understand
+      built: [en, ar, lambired]
+    - form: eza ko dokad denon sa kethis
+      class: call
+      field: Speech, song and the learned
+      gloss: how do you say this?; in what manner do you say it? Denon names or points to the desired expression.
+      concept: expression-how-do-you-say
+      built: [eza, ko, dokad, denon, sa, kethis]
+    - form: eza kethis harlen ol denon
+      class: call
+      field: Speech, song and the learned
+      gloss: what is this called?; what is the name of this? A fixed question without an expressed copula.
+      concept: expression-what-is-this-called
+      built: [eza, kethis, harlen, ol, denon]
+    - form: eza varlai
+      class: call
+      field: Speech, song and the learned
+      gloss: really?; requesting confirmation, expressing surprise or asking ironically
+      concept: expression-really
+      built: [eza, varlai]
+    - form: ar urkis
+      class: call
+      field: Speech, song and the learned
+      gloss: not at all; not even one degree, an emphatic negative response
+      concept: expression-not-at-all
+      built: [ar, urkis]
+    - form: konalon ol sorthalon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: a tribe; an associated group of clans. In this conventional collective expression sorthalon identifies the clan units making up the group.
+      concept: tribe
+      built: [konalon, ol, sorthalon]
+    - form: zesima ankelos
+      class: n f
+      field: Kings, councils and the free city
+      gloss: a tradition; an old inherited custom. The whole expression identifies a custom handed down over time.
+      concept: tradition
+      built: [zesima, ankelos]
+    - form: henthos
+      class: n m
+      field: Kings, councils and the free city
+      gloss: a rule; a stated standard governing conduct
+      concept: rule
+      source: {kind: coined}
+    - form: esthvelda
+      class: n f
+      field: Kings, councils and the free city
+      gloss: justice; fair regard for each person's rights and due
+      concept: justice
+      source: {kind: coined}
+    - form: anesthvelda
+      class: n f
+      field: Kings, councils and the free city
+      gloss: injustice; denial of a person's rights or due
+      concept: injustice
+      source: {kind: coined}
+    - form: dadro ol gerpalo
+      class: adj
+      field: Kings, councils and the free city
+      gloss: right; morally good or acceptable, distinct from merely correct or right-hand direction
+      concept: right-ethical
+      built: [dadro, ol, gerpalo]
+    - form: korethos ol gerpalo
+      class: adj
+      field: Kings, councils and the free city
+      gloss: wrong; morally bad or unacceptable, not merely unlawful
+      concept: wrong-ethical
+      built: [korethos, ol, gerpalo]
+    - form: ervon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: freedom; the condition of being free, rather than only citizenship of a free city
+      concept: freedom
+      source: {kind: coined}
+    - form: hrenkon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: property; a thing owned
+      concept: property
+      source: {kind: coined}
+    - form: zolmos hrenkon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: wealth; a great amount of property or means
+      concept: wealth
+      built: [zolmos, hrenkon]
+    - form: ithros hrenkon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: poverty; little property or means
+      concept: poverty
+      built: [ithros, hrenkon]
+    - form: kerandon ol hrenkon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: ownership; the holding of property as one's own, rather than temporary physical possession
+      concept: ownership
+      built: [kerandon, ol, hrenkon]
+    - form: keltheron lathon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: a secret; a matter kept hidden. This whole general expression names concealed information or affairs, without limiting them to a craft secret.
+      concept: secret
+      built: [keltheron, lathon]
+    - form: arelon
+      class: n n
+      field: Qualities
+      gloss: a being; an entity that exists
+      concept: being
+      source: {kind: coined}
+    - form: pelzandon ol enthamis
+      class: n n
+      field: Qualities
+      gloss: a transformation; a change of form or appearance
+      concept: transformation
+      built: [pelzandon, ol, enthamis]
+    - form: tambando ol holethon
+      class: n n
+      field: Qualities
+      gloss: an effect; what is brought about by a cause
+      concept: effect
+      built: [tambando, ol, holethon]
+    - form: arelos
+      class: adj
+      field: Qualities
+      gloss: real; existing in fact
+      concept: real
+      source: {kind: coined}
+    - form: anarelos
+      class: adj
+      field: Qualities
+      gloss: unreal; not existing in fact
+      concept: unreal
+      source: {kind: coined}
+    - form: verdar
+      class: n
+      field: Qualities
+      gloss: worth; the value of a thing, whether or not it is offered at a price
+      source: {kind: coined}
+    - form: keltheron
+      class: adj
+      field: Qualities
+      gloss: hidden; kept out of view or knowledge
+      source: {kind: coined}
+    - form: dun denon
+      class: part
+      field: Numbers and grammar words
+      gloss: also; together with this. The whole additive expression adds an item or proposition to the preceding one.
+      concept: also
+      built: [dun, denon]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -1981,6 +4049,64 @@ Tarveni employs a rich inventory of consonants with strong distinctions between 
 **Gender:** Tarveni maintains three genders (masculine, feminine, neuter). Gender assignment is largely semantic in origin but has become grammaticalized.
 
 **Derivational Morphology:** Tarveni shows extensive use of suffix chains for derivation—a single root can be modified through multiple suffixes to create words with precise meanings. This allows economy of vocabulary and precision of expression.
+
+## Ordinary expressions
+
+_En oked korvath_ means "I see the sun"; _en thavid dokela_, "I hear a voice"; and _en thaurad ulmer_, "I keep water". These particular spoken utterances put the speaker first, then the action and its object, as in the older examples below. _En nelthad nelthis_ smells a scent; _en tirmad tirmis_ tastes a flavour; _en tolvad dekazu_ touches a hand; and _en zarved zarvandon_ feels a bodily sensation. _En silkad korvath_ directs the eyes toward the sun; _en silkared korvath_ watches it attentively.
+
+_Dun dadro nelthis_ describes something fragrant, with a pleasant scent. _Dun korethos nelthis_ describes an unpleasant scent. In these fixed descriptions the quality belongs to the scent after _dun_, "with". _Ath lizel daimad dadro okandon_ means "The flower seems good": it gives a good appearance. This use reports an appearance rather than guaranteeing the flower's quality.
+
+_En thaurad kremila_ expresses anger held within, and _en thaurad galeza_ joy. These are particular ordinary feeling expressions with _thaurad_, keep or harbor. _Zarved_ is bodily sensation. _Vethzamolis_ names felt guilt over one's own wrongdoing. The older _damla_ keeps the stain on a company's name, and _zamolis_ the law's guilt.
+
+_Orhena_ is a kindness received and the social debt it leaves. _Orhen_ remains the debt of honor arising from an insult. _Membron ol orhena_ is gratitude, grateful remembrance of a kindness. _Velda ol ko_ names admiration, esteem felt or shown toward you; the whole expression is used for appreciative regard. A name or the thing admired can replace _ko_. _Melvar velda ol ko_ gives profound reverence, and _ternandon ek velda ol ko_ joins fearful wonder to that esteem as awe.
+
+_Avrethon_ is contentment, peaceful satisfaction with what one has. _Avandon tambro_ names the feeling of a desire fulfilled; _avandon ar tambro_ the frustration of a desire blocked or unfulfilled. _Dorandar avandon_ is sustained yearning for someone or something absent. _Solmere_ retains longing in the manner of the Provenzian songs. _Varelon ol dunandon_ is confidence in one's ability; _zed varelon_ certainty that a claim is true, which can be mistaken. Truth itself is _varelza_.
+
+_Nethoron_ is romantic love; _holvethon_ the affection of friends; _sorethon_ the love of family; and _ulthnethoron_ selfless love given without seeking a return. Sexual lust is _bruzeza_. _Zed gerpalo_ is wholehearted loving devotion, and _thaurandon ol konandon_ loyalty to a bond without requiring a formal oath. _Konandon dun ko_ is companionship with you; _konandon ol nethora_ emotional intimacy, closeness of hearts. _Zelmira hir ko_ is pity for your distress; _zelmira dun ko_ sympathy that shares your sorrow. _Hir_ names the person concerned or benefited, while _dun_ marks accompaniment or sharing in these expressions.
+
+_En pazad paza_ means "I eat food", and _en vimad ulmer_, "I drink water". _En zirvad ir_ draws breath inward; _en zirvad hos_ sends it outward. _En ar dunad zirvad_ is the physical cry "I cannot breathe" when the airway is blocked or breathable air is absent; it is not a statement about lacking permission to breathe. _En lothad_ means "I sleep"; _en anlothad_, "I wake". These particular utterances retain the listed action citations.
+
+_En holimad nur ir nurkovra_ describes conception; _en kerad nur ir nurkovra_ says "I am pregnant". The child is in the womb in these particular expressions. _Kerandon ol nur ir nurkovra_ names that pregnancy. _En nurezad_ says "I give birth" and _en sulmenad nur_, "I nurse a child at the breast". _Nur_ is an ordinary child; the ancient legal category in the imperial word is not needed here.
+
+_En zarved irthena_ says "I ache": the speaker senses bodily pain. _En irthenad ko_ says "I hurt you": the speaker causes another's pain. _En thaurad irthena_ bears pain, while _en linkad brud_ bleeds, blood escaping the body. _Okarno_ names impaired sight. _Thavarno_ names impaired hearing, and _valmarno_ difficulty walking caused by bodily impairment. Darkness, silence or a blocked road alone do not establish those conditions.
+
+_Aipsa_ keeps the old taking-in of a fosterling or stranger. _Sora_ includes kin of the household by blood or adoption. _Nurethos ol sembro_ is a brother's son; _nuretha ol sembro_, a brother's daughter. _Sembra_ replaces _sembro_ for the corresponding children of a sister. _Verezos ol holvethon_ is a personal friend, and _verezos dun ko_ a companion sharing your company; the old company roles retain their narrower uses.
+
+_Karalzo_ is the kept fire. _Sedon ol karalzo_ is its physical place, the hearth. _Ombela teremos_ is a long seat for several people; the old master's bench and right to it retain their craft meaning. _Vembra_ is one garment, _vembrai_ clothing collectively. _Hunela_ is a cord; _hunela solteros_ a rope, and _hunela nis_ fine sewing thread. These are individually listed expressions, with no new agreement or plural rule implied.
+
+_Kaldre_ is wood as a material; _kaldran_ a tree, and _kaldrema_ a forest. _Orma_ is land; _orma levros_ a geographical plain whether owned or not. _Oreza ek ulmer_ names mud as a wet mixture, and _oreza ol salkon_ sand even away from a shore. _Brazmo_ is a storm on land or sea; the older sea-storm and mountain-storm words keep their own settings.
+
+_Ath tolkemon ared ir sedon ol neth_ puts the pot in seventh position. Replace _neth_, seven, with _zorma_, eight, to put it in eighth position. The ordinal expression names a numbered place in a sequence, without adding an ending to the number. _Arzun_ counts no units. _Zed konalon ol tolkemon_ includes every pot in the group under discussion; _zed tavre_ includes both members of a pair. _Urkis ol tavre_ chooses either one, and _ar urkis ol tavre_ chooses neither. These particular set expressions do not depend on the imperial adjective's agreement forms.
+
+_En ared zeno_ means "I am wise"; _en ared ir dumva_, "I am in a house". _Dumva ared_ says that a house exists. _Ath tolkemon ared ol ko_ says the pot belongs to you: the pot is the subject and _ko_ the possessor. _En ertad gerpalo_ performs a duty; _en tambad tolkemon_ makes a pot. _Tambad_ keeps its making sense. _En kerad tolkemon_ has or holds a pot; _en kured tolkemon_ takes it.
+
+_En tigad hos sedon ol dumva_ leaves the house; _en lokad hir dumva_ arrives at the house. The first expression names the place left after _hos sedon ol_; the second names the goal after _hir_. _En tigad ir dumva_ enters the house; _en tigad hos dumva_ exits it. _En antigad_ returns, without requiring a contract or pay. _En valmad zel_ crawls low along the ground; _en urzvalmad orneth_ climbs the mountain; _en urzalvad_ jumps. _En lozed us tolkemon_ lifts the pot. _En daimad nembandon hir tolkemon_ drops the pot: _hir tolkemon_ identifies the thing given a fall. Replace the pot with the actual dropped thing.
+
+_En dokad dun thavandon nis_ whispers in a breathy, unvoiced sound. A quiet voiced murmur alone is not this conventional whispering expression. _En daimad harlen hir nur_ gives a child a name. _En membrad orhena_ expresses thanks for a kindness; a recipient is not silently included in that utterance. _En varelad dun ko_ agrees with your judgment. _En holimad kordandon hir ko_ begins a fight against you. _En vagad irthavon_ is a threat that signals my intention to cause harm; reporting an outside danger without that intention is not this threatening use.
+
+_En aved mazeron paza mazer vima_ prefers food to drink: food is the preferred option and drink the alternative after _mazer_. _En ozimad tolkemon_ counts pots, and _en thradinad ulmer_ measures water. _Ozethi helza_ is approximately four. The listed spoken examples establish these uses of the citations; they do not supply a new person or tense paradigm.
+
+_En sisted ir dumva_ waits in the house, and _denon tambired_ says "This happens". _En krined hir krinemon_ kneels, bending down onto the knee. _En kovrad tolkemon_ covers a pot; _en ankovrad tolkemon_ uncovers it. _Ath tolkemon ared ir alatho sedon_ puts the pot there, in the place pointed out. _Hir dumva_ means "toward the house" or "to the house" as a whole destination expression; a named place replaces _dumva_. _En tigad hir sedon thelvar_ goes up toward a high place, and _en tigad hir sedon zel_ goes down. _Ath tolkemon ared nol dumva_ places the pot beside the house; _hos dumva_ puts it outside or beyond the house's bounds.
+
+_Teredon ol dumva ek orne_ is the distance between a house and a town: the two places after _ol_ and _ek_ are the endpoints. _En sisted hir kanel ol kolsama_ waits until the harvest; _en thernad hos kanel ol kolsama_ has lived since the harvest, with the starting event after _ol_. _En dokad ken ko lokad_ says "I speak while you come"; _ken_ introduces the simultaneous event. _En lokad tavre kanel_ comes twice, on two occasions. _En lokad zolmos kanel_ comes repeatedly; _en lokad ir ithros kanel_ comes rarely. These are cited occasion expressions, without new count or plural endings. _Ath dokandon ared nis ol kanel_ describes a short speech; _ath dokandon ared dorandar ol kanel_ a lasting one. _Urzandon ol korvath_ is the listed dawn expression, and _nembandon ol korvath_ dusk.
+
+_En_, _ko_ and _enoi_ name I, you and we. _Ath tolkemon ol en_ is my pot; _ath tolkemon ared ol en_ says the pot is mine. _Ath tolkemon ol enoi_ is our pot. In these examples the possessive follows the possessed noun, as _meru_ follows _kothren_ in the older reconciliation formula. _En oked vethis_ says "I see myself": _vethis_ points back to the subject _en_. _Ko oked vethis_ similarly points back to _ko_, not a third person. _Zed konalon ol verezos_ includes everyone in the relevant group, and _zed konalon ol lathon_ everything under discussion.
+
+_Eza ko lokad ken?_ asks "When do you come?"; _eza ko ared ir kethos sedon?_ asks "Where are you?". _Eza kethos ozon ol tolkemon ko kerad?_ asks how many pots you have, and _eza kethos zolmon ol ulmer ko kerad?_ how much water. _Eza ko daimad tolkemon hir kedis?_ asks to whom you give the pot; _eza ko lokad hos kethos sedon?_ asks from where you come. _Eza ko ertad denon hir kethis?_ asks for what purpose you do this. In these particular questions the opening identifies what is sought, and the remaining clause keeps its named subject and action. _Eza harlen ol kedis ared denon?_ asks whose name this is. _Eza ko dokad kethis?_ requests clarification of what you are saying.
+
+_Denon ared varelin_ affirms "Yes, this is true"; _denon ar ared varelin_ denies it. _Denon ared varelin varlai_ asserts it emphatically as indeed or of course. _Sa dokandon ol ko, denon ared varelin_ reports "According to you, this is true", without adopting the claim as the speaker's own knowledge. _Dun denon_ adds "also", together with the preceding item or proposition. _En varelad zikai denon_ suspects tentatively that this is so; _en dokad dun ar kezdandon_ guesses without knowing. _En lendad varelon_ sets down a belief as a premise; _en alethvarelad dun ko_ holds a different judgment from yours.
+
+_Zai ko lokad tha en tigad_ means "If you come, then I go". _Zai ko ar lokad tha en tigad_ gives "Unless you come, I go": not coming is the condition for my going. _Zai denon ar ared varelin tha en tigad_ says "Otherwise I go", with _denon_ pointing to the previous claim. _En ar kezdad zai ko lokad ves ko ar lokad_ does not know whether you come or do not come; the two complete alternatives remain open. _Ves en tigad ves ko tigad_ gives either my going or yours, while _ar en tigad ul ar ko tigad_ excludes both, and _ul en tigad ul ko tigad_ includes both. These are concrete paired clauses, without new finite forms.
+
+_Ath tolkemon ared mazeron dadro mazer ath ombela_ says the pot is better than the chair. _Ath tolkemon ared dadro mazer zed konalon ol tolkemon_ calls it best against the whole relevant set of other pots, excluding the pot being described. The comparison includes every other relevant alternative. _En kerad solteros verdar_ describes substantial worth in the subject; _en kerad ar verdar_ no worth at all in the subject. _Verdar_ names worth beyond a price offered in trade; the older _verdo_ remains a price. _Gerpalo_ names duty; _solkimos ol gerpalo_ describes importance, weight in what is owed or at stake. _Nis ol gerpalo_ describes a trivial consequence.
+
+_En dunad tigad_ says I am able to go; _en ar dunad tigad_ denies that ability. _En estharad tigad_ says I have permission to go. _Zikai denon tambired_ says this might happen, granting nobody permission. _En gerpalad tigad_ says I must go; _en gerpalad ar tigad_ says I must not go, the duty being to refrain. _En dadrad tigad_ says I ought to go, as advice rather than compulsion. _Ath gerpalo ared gerpalen_ calls a duty required; _ath gerpalo ared estharen ek ar gerpalen_ calls it optional, both permitted and not required. _Denon ared anestharen_ places the proposed act under prohibition. In a discussion about going, _en esthared ko_ grants you permission and _en anesthared ko_ forbids you. These individually listed modal uses distinguish ability, permission, obligation and advice, without a new mood or passive construction. The old _orhenad_ still owes the honor debt arising from an insult.
+
+_Dadro nardelon_ greets someone by day. _Dadro lokandon_ welcomes an arriving guest. _En aved dadro kanel hir ko_ wishes you good time at parting. _En aved_ courteously requests the act understood in the exchange. _En membrad orhena_, addressed to the giver of a kindness, says thank you; _denon ared ar nezora_ answers that no repayment is owed. _En thaurad zelmira_ expresses sorrow and regret. _En aved ko anorhenad en_ asks you to forgive me, while _en aved ko linkad en_ courteously asks you to let me pass or leave room. These whole requests state both the acting person and the speaker affected; they do not introduce a general object or command paradigm.
+
+_Ko thavrelad_, _ko silkad_, _ko sisted_ and _ko sistad_ are direct appeals to listen, look, wait and stop. _Ko lokad ir denon sedon_ calls you here; _ko tigad hos denon sedon_ sends you away; _ko zumbrad en_ asks you to help me. _Eza ko dokad antigai?_ requests a repetition. _En lambired_ and _en ar lambired_ acknowledge understanding or its absence. _Eza ko dokad denon sa kethis?_ asks how to say this; _eza kethis harlen ol denon?_ asks its name. _Eza varlai?_ asks really, including surprise or irony. These appeals and questions are whole spoken formulas, not a new imperative ending.
+
+_Konalon ol sorthalon_ is an associated group of clans, a tribe. _Zesima ankelos_ names an inherited tradition. _Esthvelda_ is justice, fair regard for rights and due, and _anesthvelda_ their denial. _Ervon_ is the condition of being free, beyond the narrower freedom of a free city. _Hrenkon_ is property; _zolmos hrenkon_ wealth and _ithros hrenkon_ poverty. _Kerandon ol hrenkon_ is ownership, not merely holding a borrowed thing. _Keltheron lathon_ is a secret matter in general, without changing the craft secret. _Pelzandon ol enthamis_ names a transformation of form or appearance, and _tambando ol holethon_ an effect made by a cause. _Arelon_ names a being that exists; _arelos_ calls it real, _anarelos_ unreal.
 
 ## Script & Literacy
 

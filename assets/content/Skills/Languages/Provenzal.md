@@ -258,8 +258,9 @@ data:
     - form: dumvar
       class: n m
       field: Patron and client
-      gloss: "a guest"
+      gloss: a guest
       source: {kind: inherited, form: dumwaros}
+      concept: [guest]
     - form: dumvaral
       class: n m
       field: Patron and client
@@ -268,8 +269,9 @@ data:
     - form: aldete
       class: n m
       field: Patron and client
-      gloss: "a host"
+      gloss: a host
       source: {kind: inherited, form: haldethos}
+      concept: [host]
     - form: liskaima
       class: n f
       field: Patron and client
@@ -293,18 +295,19 @@ data:
     - form: nezora
       class: n f
       field: Patron and client
-      gloss: "a debt in money"
+      gloss: a debt in money
       source: {kind: borrowed, language: skill-vylarilng, form: nezora}
+      concept: [debt]
     - form: anseve
       class: n m
       field: Patron and client
-      gloss: "a friend; one owed as a client is owed, without the patronage"
+      gloss: a friend; one owed as a client is owed, without the patronage
       source: {kind: borrowed, language: skill-elvndrlng, form: ánseve}
+      concept: [friend]
     - form: ansevirsa
       class: n f
       field: Patron and client
-      gloss: "friendship, as the songs speak of it"
-      concept: love-philia
+      gloss: friendship, as the songs speak of it
       source: {kind: borrowed, language: skill-elvndrlng, form: ánsevirsa}
     - form: ellevirsa
       class: n f
@@ -344,8 +347,9 @@ data:
     - form: kambeza
       class: n f
       field: Love and its conduct
-      gloss: "a marriage; a contract between two houses"
+      gloss: a marriage; a contract between two houses
       source: {kind: inherited}
+      concept: [marriage]
     - form: kambete
       class: n m
       field: Love and its conduct
@@ -593,8 +597,9 @@ data:
     - form: marende
       class: n m
       field: Learning and the academies
-      gloss: "a master; a teacher"
+      gloss: a master; a teacher
       source: {kind: inherited, form: marendos}
+      concept: [teacher]
     - form: marendalo
       class: n m
       field: Learning and the academies
@@ -720,9 +725,10 @@ data:
       source: {kind: inherited, form: neharlon}
     - form: soretis
       class: n m
-      field: "The house, kin and the name"
-      gloss: "kin; those of one blood"
+      field: The house, kin and the name
+      gloss: kin; those of one blood
       source: {kind: inherited, form: sorethis}
+      concept: [kin]
     - form: nasdis
       class: n f
       field: Law and the written act
@@ -786,8 +792,9 @@ data:
     - form: frenche
       class: n m
       field: Law and the written act
-      gloss: "property"
+      gloss: property
       source: {kind: inherited, form: frenkon}
+      concept: [property]
     - form: ventodis
       class: n f
       field: Law and the written act
@@ -801,8 +808,9 @@ data:
     - form: vornalo
       class: n m
       field: Law and the written act
-      gloss: "the written law, in the learned word"
+      gloss: the written law, in the learned word
       source: {kind: borrowed, language: skill-vylarilng, form: vornalon}
+      concept: [law]
     - form: nasdalo
       class: n m
       field: Law and the written act
@@ -825,9 +833,10 @@ data:
       source: {kind: borrowed, language: skill-vylarilng, form: sekeralon}
     - form: delamo
       class: n m
-      field: "The market and the counting-house"
-      gloss: "a merchant"
+      field: The market and the counting-house
+      gloss: a merchant
       source: {kind: borrowed, language: skill-vylarilng, form: delamos}
+      concept: [merchant]
     - form: verdavis
       class: n f
       field: "The market and the counting-house"
@@ -911,8 +920,9 @@ data:
     - form: garde
       class: n m
       field: Craft and the workshop
-      gloss: "a master craftsman"
+      gloss: a master craftsman
       source: {kind: inherited, form: ghartos}
+      concept: [master]
     - form: kolmete
       class: n m
       field: Craft and the workshop
@@ -956,13 +966,14 @@ data:
     - form: malcheza
       class: n f
       field: Craft and the workshop
-      gloss: "a hammer"
+      gloss: a hammer
       source: {kind: inherited, form: malkeza}
+      concept: [hammer]
     - form: tambate
       class: v
       field: Craft and the workshop
-      gloss: "to make"
-      concept: make
+      gloss: to make
+      concept: [make, create]
       source: {kind: inherited, form: tambathen}
     - form: tamba
       class: n m
@@ -991,9 +1002,10 @@ data:
       source: {kind: inherited, form: yormalis}
     - form: poltamis
       class: n f
-      field: "Vine, field and river"
-      gloss: "a field"
+      field: Vine, field and river
+      gloss: a field
       source: {kind: inherited, form: polthamis}
+      concept: [field]
     - form: polte
       class: n m
       field: "Vine, field and river"
@@ -1021,24 +1033,28 @@ data:
       source: {kind: inherited, form: wilaras}
     - form: tolmara
       class: n f
-      field: "Vine, field and river"
-      gloss: "a lake"
+      field: Vine, field and river
+      gloss: a lake
       source: {kind: inherited, form: tholmara}
+      concept: [lake]
     - form: nebralis
       class: n f
-      field: "Vine, field and river"
-      gloss: "a valley"
+      field: Vine, field and river
+      gloss: a valley
       source: {kind: inherited}
+      concept: [valley]
     - form: malvote
       class: n m
-      field: "Vine, field and river"
-      gloss: "a hill"
+      field: Vine, field and river
+      gloss: a hill
       source: {kind: inherited, form: malkothos}
+      concept: [hill]
     - form: kaldrema
       class: n f
-      field: "Vine, field and river"
-      gloss: "a wood"
+      field: Vine, field and river
+      gloss: a wood
       source: {kind: inherited}
+      concept: [forest]
     - form: taroze
       class: n f
       field: "Vine, field and river"
@@ -1046,9 +1062,10 @@ data:
       source: {kind: inherited, form: tharozos}
     - form: nelamis
       class: n f
-      field: "Vine, field and river"
-      gloss: "snow"
+      field: Vine, field and river
+      gloss: snow
       source: {kind: inherited}
+      concept: [snow]
     - form: nelameza
       class: n f
       field: "Vine, field and river"
@@ -1076,24 +1093,28 @@ data:
       source: {kind: borrowed, language: skill-elvndrlng, form: pérranel}
     - form: kalveza
       class: n f
-      field: "Vine, field and river"
-      gloss: "a gate"
+      field: Vine, field and river
+      gloss: a gate
       source: {kind: inherited, form: kalpeza}
+      concept: [gate]
     - form: lizela
       class: n f
-      field: "Vine, field and river"
-      gloss: "a flower"
+      field: Vine, field and river
+      gloss: a flower
       source: {kind: inherited}
+      concept: [flower]
     - form: sater
       class: n m
-      field: "Vine, field and river"
-      gloss: "a wind"
+      field: Vine, field and river
+      gloss: a wind
       source: {kind: inherited, form: satheros}
+      concept: [wind]
     - form: kirame
       class: adj
-      field: "Vine, field and river"
-      gloss: "bright; famous"
+      field: Vine, field and river
+      gloss: bright; famous
       source: {kind: inherited, form: kiramos}
+      concept: [bright]
     - form: talote
       class: n m
       field: "Vine, field and river"
@@ -1117,8 +1138,9 @@ data:
     - form: ornete
       class: n f
       field: The harbor and the sea
-      gloss: "the sea"
+      gloss: the sea
       source: {kind: inherited, form: ornethe}
+      concept: [sea, ocean]
     - form: volchema
       class: n f
       field: The harbor and the sea
@@ -1152,8 +1174,9 @@ data:
     - form: brazema
       class: n f
       field: The harbor and the sea
-      gloss: "a storm"
+      gloss: a storm
       source: {kind: inherited}
+      concept: [storm]
     - form: aistroi
       class: n m
       field: The harbor and the sea
@@ -1172,8 +1195,9 @@ data:
     - form: grumeza
       class: n f
       field: Arms and the field
-      gloss: "war"
+      gloss: war
       source: {kind: inherited}
+      concept: [war]
     - form: trameze
       class: n m
       field: Arms and the field
@@ -1187,8 +1211,9 @@ data:
     - form: trumate
       class: v
       field: Arms and the field
-      gloss: "to lead"
+      gloss: to lead
       source: {kind: inherited, form: thrumathen}
+      concept: [lead]
     - form: tacheze
       class: n m
       field: Arms and the field
@@ -1316,14 +1341,16 @@ data:
       source: {kind: inherited, form: rithezos}
     - form: tolvema
       class: n f
-      field: "The body, life and death"
-      gloss: "a cloak; the long gown a citizen wears to council"
+      field: The body, life and death
+      gloss: a cloak; the long gown a citizen wears to council
       source: {kind: inherited, form: tholbema}
+      concept: [cloak]
     - form: cholvazis
       class: n f
-      field: "The body, life and death"
-      gloss: "death; said as seldom as it can be"
+      field: The body, life and death
+      gloss: death; said as seldom as it can be
       source: {kind: inherited, form: kholwazis}
+      concept: [death]
     - form: kalmetate
       class: v
       field: "The body, life and death"
@@ -1387,29 +1414,34 @@ data:
       source: {kind: inherited, form: dhirawon}
     - form: korvatis
       class: n m
-      field: "Light, dream and the fey north"
-      gloss: "the sun"
+      field: Light, dream and the fey north
+      gloss: the sun
       source: {kind: inherited, form: korwathis}
+      concept: [sun]
     - form: jalzemis
       class: n f
-      field: "Light, dream and the fey north"
-      gloss: "the moon"
+      field: Light, dream and the fey north
+      gloss: the moon
       source: {kind: inherited, form: yalzemis}
+      concept: [moon]
     - form: iltera
       class: n f
-      field: "Light, dream and the fey north"
-      gloss: "a star"
+      field: Light, dream and the fey north
+      gloss: a star
       source: {kind: inherited, form: ilthera}
+      concept: [star]
     - form: oltrema
       class: n f
       field: Time and the year
-      gloss: "a month"
+      gloss: a month
       source: {kind: inherited}
+      concept: [month]
     - form: pramiza
       class: n f
       field: Time and the year
-      gloss: "the morning"
+      gloss: the morning
       source: {kind: inherited}
+      concept: [morning]
     - form: lordeme
       class: n m
       field: Time and the year
@@ -1423,8 +1455,9 @@ data:
     - form: solvime
       class: adj
       field: Qualities
-      gloss: "weighty; grave"
+      gloss: weighty; grave
       source: {kind: inherited, form: solkimos}
+      concept: [heavy]
     - form: zeote
       class: adj
       field: Qualities
@@ -1433,19 +1466,27 @@ data:
     - form: revote
       class: adj
       field: Qualities
-      gloss: "free"
+      gloss: free
       source: {kind: inherited, form: rewothos}
+      concept: [free]
     - form: zedime
       class: adj
       field: Qualities
-      gloss: "whole; every"
+      gloss: whole; every
       source: {kind: inherited, form: zetimos}
+      concept: [whole, all, every, complete]
     - form: orteme
       class: adj
       field: Qualities
-      gloss: "last"
+      gloss: last
       source: {kind: inherited, form: orthemos}
-    - {form: dorandar, class: adj, field: Qualities, gloss: "enduring", source: {kind: inherited}}
+      concept: [last]
+    - form: dorandar
+      class: adj
+      field: Qualities
+      gloss: enduring
+      source: {kind: inherited}
+      concept: [lasting-duration]
     - form: chelmarte
       class: adj
       field: Qualities
@@ -1453,19 +1494,22 @@ data:
       source: {kind: inherited, form: kelmarthos}
     - form: lozete
       class: v
-      field: "Doing, going and being"
-      gloss: "to carry"
+      field: Doing, going and being
+      gloss: to carry
       source: {kind: inherited, form: lozethen}
+      concept: [carry]
     - form: nembete
       class: v
-      field: "Doing, going and being"
-      gloss: "to fall"
+      field: Doing, going and being
+      gloss: to fall
       source: {kind: inherited, form: nembethen}
+      concept: [fall]
     - form: gaurate
       class: v
-      field: "Doing, going and being"
-      gloss: "to build"
+      field: Doing, going and being
+      gloss: to build
       source: {kind: inherited, form: ghaurathen}
+      concept: [build]
     - form: taurate
       class: v
       field: "Doing, going and being"
@@ -1536,33 +1580,39 @@ data:
     - form: jo
       class: pron
       field: Numbers and grammar words
-      gloss: "I"
+      gloss: I
       source: {kind: inherited, form: en}
+      concept: [i]
     - form: cho
       class: pron
       field: Numbers and grammar words
-      gloss: "you, one person"
+      gloss: you, one person
       source: {kind: inherited, form: ko}
+      concept: [you-reference]
     - form: ul
       class: part
       field: Numbers and grammar words
-      gloss: "and"
+      gloss: and
       source: {kind: inherited}
+      concept: [and]
     - form: ar
       class: part
       field: Numbers and grammar words
-      gloss: "not"
+      gloss: not
       source: {kind: inherited}
+      concept: [not]
     - form: ir
       class: part
       field: Numbers and grammar words
-      gloss: "in, into"
+      gloss: in, into
       source: {kind: inherited}
+      concept: [inside, in]
     - form: us
       class: part
       field: Numbers and grammar words
-      gloss: "over"
+      gloss: over
       source: {kind: inherited}
+      concept: [above, over]
     - form: fa
       class: part
       field: Numbers and grammar words
@@ -1571,8 +1621,9 @@ data:
     - form: de
       class: art
       field: Numbers and grammar words
-      gloss: "this; the near article, for what is near the speaker and his own"
+      gloss: this; the near article, for what is near the speaker and his own
       source: {kind: inherited, form: denos}
+      concept: [this]
     - form: te
       class: art
       field: Numbers and grammar words
@@ -1581,13 +1632,15 @@ data:
     - form: at
       class: art
       field: Numbers and grammar words
-      gloss: "the article for what is far, famous or past"
+      gloss: the article for what is far, famous or past
       source: {kind: worn, form: alathos}
+      concept: [that]
     - form: ez
       class: v
       field: Numbers and grammar words
-      gloss: "is; the copula, worn from the old verb to be"
+      gloss: is; the copula, worn from the old verb to be
       source: {kind: worn, form: yarethen}
+      concept: [be]
     - form: "reva"
       class: n f
       field: "Vine, field and river"
@@ -1600,11 +1653,4314 @@ data:
       class: n m
       field: "Light, dream and the fey north"
       gloss: "Light, the native word, held too prosaic for verse"
-    - {form: "preja", class: n f, field: "Arms and the field", gloss: "Peace"}
+    - {form: preja, class: n f, field: Arms and the field, gloss: Peace, concept: [peace]}
     - form: "tel"
       class: n m
       field: "Light, dream and the fey north"
       gloss: "Light, beauty, from Élavendri"
+    - form: okete
+      class: v
+      field: Doing, going and being
+      gloss: to see
+      concept: see-verb
+      source: {kind: coined}
+    - form: okandon
+      class: n
+      field: The body, life and death
+      gloss: a sight; a thing seen; the look or appearance of a thing
+      concept: [see-noun, appearance]
+      source: {kind: coined}
+    - form: tavete
+      class: v
+      field: Doing, going and being
+      gloss: to hear
+      concept: hear-verb
+      source: {kind: inherited, form: thawithen}
+    - form: tavandon
+      class: n
+      field: The body, life and death
+      gloss: a sound; a thing heard
+      concept: hear-noun
+      source: {kind: coined}
+    - form: neltate
+      class: v
+      field: Doing, going and being
+      gloss: to smell; to catch the scent of a thing
+      concept: smell-verb
+      source: {kind: coined}
+    - form: neltis
+      class: n
+      field: The body, life and death
+      gloss: a smell; a scent
+      concept: smell-noun
+      source: {kind: coined}
+    - form: tirmate
+      class: v
+      field: Doing, going and being
+      gloss: to taste
+      concept: taste-verb
+      source: {kind: coined}
+    - form: tolvate
+      class: v
+      field: Doing, going and being
+      gloss: to touch; to feel with the hand
+      concept: touch-verb
+      source: {kind: coined}
+    - form: silvate
+      class: v
+      field: Doing, going and being
+      gloss: to look; to direct the eyes at something
+      concept: look
+      source: {kind: coined}
+    - form: silvarete
+      class: v
+      field: Doing, going and being
+      gloss: to watch; to observe attentively
+      concept: watch
+      source: {kind: coined}
+    - form: okele
+      class: adj
+      field: Qualities
+      gloss: visible; able to be seen
+      concept: visible
+      source: {kind: coined}
+    - form: ar okele
+      class: adj
+      field: Qualities
+      gloss: invisible; not visible
+      concept: invisible
+      source: {kind: coined}
+      built: [ar, okele]
+    - form: tavrelate
+      class: v
+      field: Doing, going and being
+      gloss: to listen; to attend to sound
+      concept: listen
+      source: {kind: coined}
+    - form: ar tavandon
+      class: n
+      field: The body, life and death
+      gloss: silence; no sound
+      concept: silence
+      source: {kind: coined}
+      built: [ar, tavandon]
+    - form: klame
+      class: adj
+      field: Qualities
+      gloss: loud; of great sound volume
+      concept: loud
+      source: {kind: coined}
+    - form: anklame
+      class: adj
+      field: Qualities
+      gloss: quiet; making little noise
+      concept: quiet
+      source: {kind: coined}
+    - form: talv daje neltis
+      class: part
+      field: Qualities
+      gloss: fragrant; with a pleasant scent
+      concept: fragrant
+      source: {kind: coined}
+      built: [talv, daje, neltis]
+    - form: talv korete neltis
+      class: part
+      field: Qualities
+      gloss: foul-smelling; with an unpleasant scent
+      concept: foul
+      source: {kind: coined}
+      built: [talv, korete, neltis]
+    - form: melze
+      class: adj
+      field: Qualities
+      gloss: sweet in taste
+      concept: sweet
+      source: {kind: coined}
+    - form: tarze
+      class: adj
+      field: Qualities
+      gloss: sour; acidic in taste
+      concept: sour
+      source: {kind: coined}
+    - form: grele
+      class: adj
+      field: Qualities
+      gloss: bitter in taste
+      concept: bitter
+      source: {kind: coined}
+    - form: tremuzen
+      class: adj
+      field: Qualities
+      gloss: salty; tasting of salt
+      concept: salty
+      source: {kind: coined}
+    - form: zarvete
+      class: v
+      field: Doing, going and being
+      gloss: to feel a bodily sensation
+      concept: feel-verb
+      source: {kind: coined}
+    - form: zarvandon
+      class: n
+      field: The body, life and death
+      gloss: a sensation; an instance of bodily feeling
+      concept: sensation
+      source: {kind: coined}
+    - form: levre
+      class: adj
+      field: Qualities
+      gloss: smooth to the touch
+      concept: smooth
+      source: {kind: coined}
+    - form: grate
+      class: adj
+      field: Qualities
+      gloss: rough to the touch
+      concept: rough
+      source: {kind: coined}
+    - form: lomere
+      class: adj
+      field: Qualities
+      gloss: soft to the touch
+      concept: soft
+      source: {kind: coined}
+    - form: kornele
+      class: adj
+      field: Qualities
+      gloss: hard to the touch; firm rather than soft
+      concept: hard-texture
+      source: {kind: coined}
+    - form: oksedate
+      class: v
+      field: Doing, going and being
+      gloss: to notice; to become aware of something
+      concept: notice
+      source: {kind: coined}
+    - form: zarvokete
+      class: v
+      field: Doing, going and being
+      gloss: to perceive; to apprehend through the senses
+      concept: perceive
+      source: {kind: coined}
+    - form: memrokete
+      class: v
+      field: Doing, going and being
+      gloss: to recognize; to identify as previously known
+      concept: recognize
+      source: {kind: coined}
+    - form: demate okandon
+      class: v
+      field: Doing, going and being
+      gloss: to seem; to give an appearance; demate daje okandon means to seem good
+      concept: seem
+      source: {kind: coined}
+      built: [demate, okandon]
+    - form: tesavon
+      class: n
+      field: Love and its conduct
+      gloss: envy; the want of what another has
+      concept: envy
+      source: {kind: coined}
+    - form: vedocheme
+      class: n
+      field: Love and its conduct
+      gloss: boasting; a boast or speech in one's own praise
+      concept: boasting
+      source: {kind: coined}
+    - form: vevelda
+      class: n
+      field: Love and its conduct
+      gloss: pride; a feeling of one's own worth or achievement
+      concept: pride
+      source: {kind: coined}
+    - form: varelon
+      class: n
+      field: Love and its conduct
+      gloss: faith; trust; the holding of a thing true
+      concept: [faith, trust, belief]
+      source: {kind: coined}
+    - form: jaleza
+      class: n
+      field: Love and its conduct
+      gloss: joy; happiness
+      concept: [joy, happiness]
+      source: {kind: coined}
+    - form: avreton
+      class: n
+      field: Love and its conduct
+      gloss: contentment; peaceful satisfaction with what one has
+      concept: contentment
+      source: {kind: coined}
+    - form: memrande ol orfenon
+      class: n
+      field: Love and its conduct
+      gloss: gratitude; grateful remembrance of a kindness received
+      concept: gratitude
+      source: {kind: coined}
+      built: [memrande, ol, orfenon]
+    - form: velira
+      class: n
+      field: Love and its conduct
+      gloss: admiration; appreciative esteem for another's excellence
+      concept: admiration
+      source: {kind: coined}
+    - form: tarvela
+      class: n
+      field: Love and its conduct
+      gloss: courage; readiness to act despite fear or danger
+      concept: courage
+      source: {kind: coined}
+    - form: zirnon
+      class: n
+      field: Love and its conduct
+      gloss: hatred; enduring hostility toward someone or something
+      concept: hatred
+      source: {kind: coined}
+    - form: netorzela
+      class: n
+      field: Love and its conduct
+      gloss: jealousy; distress at a rival for an affection or bond
+      concept: jealousy
+      source: {kind: coined}
+    - form: ternandon
+      class: n
+      field: Love and its conduct
+      gloss: fear; apprehension of danger
+      concept: fear
+      source: {kind: coined}
+    - form: melvar ternandon
+      class: n
+      field: Love and its conduct
+      gloss: terror; overwhelming fear
+      concept: terror
+      source: {kind: coined}
+      built: [melvar, ternandon]
+    - form: zelmira ol anvalde
+      class: n f
+      field: Love and its conduct
+      gloss: grief; sorrow over a loss
+      concept: grief
+      source: {kind: coined}
+      built: [zelmira, ol, anvalde]
+    - form: vetanvelda
+      class: n
+      field: Love and its conduct
+      gloss: shame; one's own feeling of dishonor
+      concept: shame
+      source: {kind: coined}
+    - form: vedamolis
+      class: n
+      field: Love and its conduct
+      gloss: guilt; the feeling of having done wrong
+      concept: guilt
+      source: {kind: coined}
+    - form: venizela
+      class: n
+      field: Love and its conduct
+      gloss: humility; a modest view of oneself
+      concept: humility
+      source: {kind: coined}
+    - form: varelon ol dunandon
+      class: n
+      field: Love and its conduct
+      gloss: confidence; trust in one's ability, without asserting factual truth
+      concept: confidence
+      source: {kind: coined}
+      built: [varelon, ol, dunandon]
+    - form: nizele vetanvelda
+      class: n
+      field: Love and its conduct
+      gloss: embarrassment; a small passing feeling of shame
+      concept: embarrassment
+      source: {kind: coined}
+      built: [nizele, vetanvelda]
+    - form: lusnetora
+      class: n
+      field: Love and its conduct
+      gloss: compassion; concern for suffering with a wish to relieve it
+      concept: compassion
+      source: {kind: coined}
+    - form: zelmira fa cho
+      class: n f
+      field: Love and its conduct
+      gloss: pity; sorrow for another's distress, here for you; replace cho with the person concerned
+      concept: pity
+      source: {kind: coined}
+      built: [zelmira, fa, cho]
+    - form: zelmira talv cho
+      class: n f
+      field: Love and its conduct
+      gloss: sympathy; sorrow shared with another, here with you; replace cho with the person concerned
+      concept: sympathy
+      source: {kind: coined}
+      built: [zelmira, talv, cho]
+    - form: memrande ol anvelda
+      class: n
+      field: Love and its conduct
+      gloss: resentment; bitter feeling over remembered dishonor or ill treatment
+      concept: resentment
+      source: {kind: coined}
+      built: [memrande, ol, anvelda]
+    - form: anziroza
+      class: n
+      field: Love and its conduct
+      gloss: contempt; a feeling that someone or something is beneath regard
+      concept: contempt
+      source: {kind: coined}
+    - form: anorfen
+      class: n
+      field: Love and its conduct
+      gloss: forgiveness; release from a wrong or debt
+      concept: forgiveness
+      source: {kind: coined}
+    - form: avandon
+      class: n
+      field: Love and its conduct
+      gloss: desire; a wish or want
+      concept: desire
+      source: {kind: coined}
+    - form: dorandar avandon
+      class: n
+      field: Love and its conduct
+      gloss: longing; sustained yearning for someone or something absent
+      concept: longing
+      source: {kind: coined}
+      built: [dorandar, avandon]
+    - form: avandon tamber
+      class: n
+      field: Love and its conduct
+      gloss: satisfaction; the feeling of having a desire fulfilled
+      concept: satisfaction
+      source: {kind: coined}
+      built: [avandon, tamber]
+    - form: avandon ar tamber
+      class: n
+      field: Love and its conduct
+      gloss: frustration; distress at a desire left unfulfilled or blocked
+      concept: frustration
+      source: {kind: coined}
+      built: [avandon, ar, tamber]
+    - form: avandon ol chesdande
+      class: n
+      field: Love and its conduct
+      gloss: curiosity; desire for knowledge, not knowledge already obtained
+      concept: curiosity
+      source: {kind: coined}
+      built: [avandon, ol, chesdande]
+    - form: tavemvarelon
+      class: n
+      field: Love and its conduct
+      gloss: doubt; divided belief or uncertainty about a claim
+      concept: doubt
+      source: {kind: coined}
+    - form: zedime varelon
+      class: n
+      field: Love and its conduct
+      gloss: certainty; complete conviction that a claim is true, which can be mistaken
+      concept: certainty
+      source: {kind: coined}
+      built: [zedime, varelon]
+    - form: okreta
+      class: n
+      field: Love and its conduct
+      gloss: surprise; the feeling caused by an unexpected occurrence
+      concept: surprise
+      source: {kind: coined}
+    - form: melvar velira
+      class: n
+      field: Love and its conduct
+      gloss: reverence; profound respect felt or shown toward someone or something revered
+      concept: reverence
+      source: {kind: coined}
+      built: [melvar, velira]
+    - form: ternandon ul velira
+      class: n
+      field: Love and its conduct
+      gloss: awe; fear mingled with admiring wonder
+      concept: awe
+      source: {kind: coined}
+      built: [ternandon, ul, velira]
+    - form: netoron
+      class: n
+      field: Love and its conduct
+      gloss: romantic love; the love between lovers
+      concept: love-eros
+      source: {kind: coined}
+    - form: ansevela
+      class: n
+      field: Love and its conduct
+      gloss: friendship; affectionate regard between friends
+      concept: love-philia
+      source: {kind: coined}
+    - form: soreton
+      class: n
+      field: Love and its conduct
+      gloss: the love of family; love of parent and child
+      concept: love-storge
+      source: {kind: coined}
+    - form: ultenora
+      class: n
+      field: Love and its conduct
+      gloss: selfless universal love; love given to all without seeking a return
+      concept: love-agape
+      source: {kind: coined}
+    - form: netila
+      class: n
+      field: Love and its conduct
+      gloss: affection; fondness or tender regard
+      concept: affection
+      source: {kind: coined}
+    - form: avandon ol konandon
+      class: n
+      field: Love and its conduct
+      gloss: attraction; a felt desire to draw close to another person
+      concept: attraction
+      source: {kind: coined}
+      built: [avandon, ol, konandon]
+    - form: konandon ol netora
+      class: n
+      field: Love and its conduct
+      gloss: intimacy; emotional closeness, the closeness of hearts
+      concept: intimacy
+      source: {kind: coined}
+      built: [konandon, ol, netora]
+    - form: jervela
+      class: n
+      field: Love and its conduct
+      gloss: devotion; wholehearted loving dedication to a person or cause
+      concept: devotion
+      source: {kind: coined}
+    - form: taurande
+      class: n
+      field: Love and its conduct
+      gloss: loyalty; faithful keeping of a bond, without requiring a formal oath
+      concept: loyalty
+      source: {kind: coined}
+    - form: konandon ol anseve
+      class: n
+      field: Love and its conduct
+      gloss: companionship; being together with a friend or companion
+      concept: companionship
+      source: {kind: coined}
+      built: [konandon, ol, anseve]
+    - form: zirnon talv cho
+      class: n
+      field: Love and its conduct
+      gloss: enmity; hostility between oneself and another, here with you; replace cho with the other person
+      concept: enmity
+      source: {kind: coined}
+      built: [zirnon, talv, cho]
+    - form: talv
+      class: part
+      field: Numbers and grammar words
+      gloss: with; the particle of accompaniment given in the traditional formal greeting
+    - form: daje
+      class: adj
+      field: Qualities
+      gloss: good; pleasant when describing a scent or experience
+      concept: good
+      source: {kind: coined}
+    - form: korete
+      class: adj
+      field: Qualities
+      gloss: bad; unpleasant when describing a scent or experience
+      concept: bad
+      source: {kind: coined}
+    - form: demate
+      class: v
+      field: Doing, going and being
+      gloss: to give in ordinary exchange or action
+      concept: give
+      source: {kind: coined}
+    - form: memrande
+      class: n
+      field: Song and the síladors
+      gloss: remembering; remembrance
+      source: {kind: coined}
+    - form: orfenon
+      class: n
+      field: The city and its standing
+      gloss: a favor; a kindness received and the social debt it leaves
+      concept: debt
+      source: {kind: inherited}
+    - form: anvalde
+      class: n
+      field: The body, life and death
+      gloss: a loss; the losing of someone or something
+      source: {kind: coined}
+    - form: dunandon
+      class: n
+      field: Qualities
+      gloss: ability; being able to act
+      source: {kind: coined}
+    - form: nizele
+      class: adj
+      field: Qualities
+      gloss: small; little in size or degree
+      concept: small
+      source: {kind: coined}
+    - form: tamber
+      class: adj
+      field: Qualities
+      gloss: fulfilled; accomplished
+      source: {kind: coined}
+    - form: chesdande
+      class: n
+      field: The city and its standing
+      gloss: knowledge; what is known
+      concept: knowledge
+      source: {kind: coined}
+    - form: netora
+      class: n
+      field: The body, life and death
+      gloss: the anatomical heart; also the heart as the center of feeling
+      concept: heart
+      source: {kind: coined}
+    - form: konandon
+      class: n
+      field: The house, kin and the name
+      gloss: being together; association or company
+      source: {kind: coined}
+    - form: tavrela
+      class: n
+      field: The body, life and death
+      gloss: the ear
+      concept: ear
+      source: {kind: coined}
+    - form: neltumis
+      class: n
+      field: The body, life and death
+      gloss: the nose
+      concept: nose
+      source: {kind: coined}
+    - form: kolzere
+      class: n
+      field: The body, life and death
+      gloss: the neck
+      concept: neck
+      source: {kind: coined}
+    - form: dalmere
+      class: n
+      field: The body, life and death
+      gloss: the shoulder
+      concept: shoulder
+      source: {kind: coined}
+    - form: lamote
+      class: n
+      field: The body, life and death
+      gloss: the arm
+      concept: arm
+      source: {kind: coined}
+    - form: varmoton
+      class: n
+      field: The body, life and death
+      gloss: the chest
+      concept: chest
+      source: {kind: coined}
+    - form: bulmeron
+      class: n
+      field: The body, life and death
+      gloss: the belly
+      concept: belly
+      source: {kind: coined}
+    - form: telkemon
+      class: n
+      field: The body, life and death
+      gloss: the back
+      concept: back
+      source: {kind: coined}
+    - form: talmere
+      class: n
+      field: The body, life and death
+      gloss: the leg
+      concept: leg
+      source: {kind: coined}
+    - form: klinemon
+      class: n
+      field: The body, life and death
+      gloss: the knee
+      concept: knee
+      source: {kind: coined}
+    - form: letrima
+      class: n
+      field: The body, life and death
+      gloss: the skin; a hide
+      concept: skin
+      source: {kind: coined}
+    - form: kolvere
+      class: n
+      field: The body, life and death
+      gloss: a bone
+      concept: bone
+      source: {kind: coined}
+    - form: meltaris
+      class: n
+      field: The body, life and death
+      gloss: flesh; meat
+      concept: flesh
+      source: {kind: coined}
+    - form: pratolzon
+      class: n
+      field: The body, life and death
+      gloss: the forehead; the front of the head above the eyes
+      concept: forehead
+      source: {kind: coined}
+    - form: zekrimkolvere
+      class: n
+      field: The body, life and death
+      gloss: the jaw; the tooth-bearing bone
+      concept: jaw
+      source: {kind: coined}
+    - form: kozelon
+      class: n
+      field: The body, life and death
+      gloss: the chin; the lower front of the face
+      concept: chin
+      source: {kind: coined}
+    - form: jentama
+      class: n
+      field: The body, life and death
+      gloss: a cheek; either side of the face
+      concept: cheek
+      source: {kind: coined}
+    - form: kozmaron
+      class: n
+      field: The body, life and death
+      gloss: the throat; the passage behind the mouth
+      concept: throat
+      source: {kind: coined}
+    - form: pazalon
+      class: n
+      field: The body, life and death
+      gloss: the stomach; the organ that receives food
+      concept: stomach
+      source: {kind: coined}
+    - form: bulmerziron
+      class: n
+      field: The body, life and death
+      gloss: the waist; the body's middle above the hips
+      concept: waist
+      source: {kind: coined}
+    - form: telkemkolvere
+      class: n
+      field: The body, life and death
+      gloss: the spine; the backbone
+      concept: spine
+      source: {kind: coined}
+    - form: dechazklinon
+      class: n
+      field: The body, life and death
+      gloss: the wrist; the joint of the hand
+      concept: wrist
+      source: {kind: coined}
+    - form: dekis melvar
+      class: n f
+      field: The body, life and death
+      gloss: the thumb; the broad opposing finger; melvar marks its substantial breadth here
+      concept: thumb
+      source: {kind: coined}
+      built: [dekis, melvar]
+    - form: talmon
+      class: n
+      field: The body, life and death
+      gloss: the thigh; the upper segment of the leg
+      concept: thigh
+      source: {kind: coined}
+    - form: valklinon
+      class: n
+      field: The body, life and death
+      gloss: the ankle; the joint of the foot
+      concept: ankle
+      source: {kind: coined}
+    - form: valmaron
+      class: n
+      field: The body, life and death
+      gloss: the heel; the back of the foot
+      concept: heel
+      source: {kind: coined}
+    - form: kirsela ol valma
+      class: n f
+      field: The body, life and death
+      gloss: a toenail; a nail of the foot
+      concept: toenail
+      source: {kind: coined}
+      built: [kirsela, ol, valma]
+    - form: talmeza
+      class: n
+      field: The body, life and death
+      gloss: a muscle; flesh that contracts to move the body
+      concept: muscle
+      source: {kind: coined}
+    - form: tolkelon
+      class: n
+      field: The body, life and death
+      gloss: the brain; the organ within the head
+      concept: brain
+      source: {kind: coined}
+    - form: zirvalon
+      class: n
+      field: The body, life and death
+      gloss: a lung; a breathing organ
+      concept: lung
+      source: {kind: coined}
+    - form: bruzalon
+      class: n
+      field: The body, life and death
+      gloss: the liver
+      concept: liver
+      source: {kind: coined}
+    - form: zilvalon
+      class: n
+      field: The body, life and death
+      gloss: a kidney; an organ that produces urine
+      concept: kidney
+      source: {kind: coined}
+    - form: nurtalar
+      class: n
+      field: The body, life and death
+      gloss: the genitals; the reproductive organs collectively
+      concept: genitals
+      source: {kind: coined}
+    - form: nurtalon
+      class: n
+      field: The body, life and death
+      gloss: the penis
+      concept: penis
+      source: {kind: coined}
+    - form: nurkelon
+      class: n
+      field: The body, life and death
+      gloss: a testicle
+      concept: testicle
+      source: {kind: coined}
+    - form: pazate
+      class: v
+      field: Doing, going and being
+      gloss: to eat
+      concept: eat
+      source: {kind: coined}
+    - form: vimate
+      class: v
+      field: Doing, going and being
+      gloss: to drink
+      concept: drink-verb
+      source: {kind: coined}
+    - form: sitrema
+      class: n
+      field: The body, life and death
+      gloss: air
+      concept: air
+      source: {kind: coined}
+    - form: zirvate
+      class: v
+      field: Doing, going and being
+      gloss: to breathe
+      concept: breathe
+      source: {kind: coined}
+    - form: lorve
+      class: n
+      field: The body, life and death
+      gloss: sleep
+      concept: sleep-noun
+      source: {kind: coined}
+    - form: lotate
+      class: v
+      field: Doing, going and being
+      gloss: to sleep
+      concept: sleep-verb
+      source: {kind: coined}
+    - form: zilvate
+      class: v
+      field: Doing, going and being
+      gloss: to urinate
+      concept: urinate
+      source: {kind: coined}
+    - form: pumzemon
+      class: n
+      field: The body, life and death
+      gloss: dung
+      concept: dung
+      source: {kind: coined}
+    - form: pumzate
+      class: v
+      field: Doing, going and being
+      gloss: to defecate
+      concept: defecate
+      source: {kind: coined}
+    - form: pazavandon
+      class: n
+      field: The body, life and death
+      gloss: hunger; bodily need for food
+      concept: hunger
+      source: {kind: coined}
+    - form: talv pazavandon
+      class: part
+      field: The body, life and death
+      gloss: hungry; with bodily hunger; jo ez talv pazavandon means I am hungry
+      concept: hungry
+      source: {kind: coined}
+      built: [talv, pazavandon]
+    - form: vimavandon
+      class: n
+      field: The body, life and death
+      gloss: thirst; bodily need for drink
+      concept: thirst
+      source: {kind: coined}
+    - form: talv vimavandon
+      class: part
+      field: The body, life and death
+      gloss: thirsty; with thirst; jo ez talv vimavandon means I am thirsty
+      concept: thirsty
+      source: {kind: coined}
+      built: [talv, vimavandon]
+    - form: zirvate ir
+      class: v
+      field: Doing, going and being
+      gloss: to inhale; to draw breath inward; ir has inward direction after zirvate in this fixed use
+      concept: inhale
+      source: {kind: coined}
+      built: [zirvate, ir]
+    - form: zirvate fos
+      class: v
+      field: Doing, going and being
+      gloss: to exhale; to send breath outward; fos has outward direction after zirvate in this fixed use
+      concept: exhale
+      source: {kind: coined}
+      built: [zirvate, fos]
+    - form: ar dunate zirvate
+      class: v
+      field: Doing, going and being
+      gloss: to suffocate; to be deprived of breath or have breathing blocked; ar negates dunate ability, and zirvate names the action one cannot perform
+      concept: suffocate
+      source: {kind: coined}
+      built: [ar, dunate, zirvate]
+    - form: anlotate
+      class: v
+      field: Doing, going and being
+      gloss: to wake; to cease sleeping
+      concept: wake
+      source: {kind: coined}
+    - form: anlotandar
+      class: adj
+      field: The body, life and death
+      gloss: awake; no longer asleep
+      concept: awake
+      source: {kind: coined}
+    - form: lotokandon
+      class: n
+      field: The body, life and death
+      gloss: a dream; an experience in sleep
+      concept: dream
+      source: {kind: coined}
+    - form: tumera
+      class: n
+      field: The body, life and death
+      gloss: rest; a pause for bodily recovery
+      concept: rest
+      source: {kind: coined}
+    - form: talv avandon ol tumera
+      class: part
+      field: The body, life and death
+      gloss: tired; in need of bodily rest; with a desire for rest, in this conventional bodily use
+      concept: tired
+      source: {kind: coined}
+      built: [talv, avandon, ol, tumera]
+    - form: zarvelate
+      class: v
+      field: Doing, going and being
+      gloss: to sweat; to exude perspiration
+      concept: sweat-verb
+      source: {kind: coined}
+    - form: karve
+      class: adj
+      field: The body, life and death
+      gloss: hot; having a high temperature
+      concept: hot
+      source: {kind: coined}
+    - form: auvre
+      class: adj
+      field: The body, life and death
+      gloss: warm; having a pleasant or moderate heat
+      concept: warm
+      source: {kind: coined}
+    - form: nelve nizele
+      class: adj
+      field: The body, life and death
+      gloss: cool; mildly cold; nizele marks a small degree of cold in this fixed expression
+      concept: cool
+      source: {kind: coined}
+      built: [nelve, nizele]
+    - form: nelvate
+      class: v
+      field: Doing, going and being
+      gloss: to freeze; to become frozen or turn to ice
+      concept: freeze
+      source: {kind: coined}
+    - form: kremete
+      class: v
+      field: Doing, going and being
+      gloss: to burn
+      concept: burn
+      source: {kind: coined}
+    - form: lusandon
+      class: n
+      field: The body, life and death
+      gloss: safety; protection from harm
+      concept: [safety, protection]
+      source: {kind: coined}
+    - form: ritavon
+      class: n
+      field: The body, life and death
+      gloss: danger; a risk of harm
+      concept: danger
+      source: {kind: coined}
+    - form: nurzandon
+      class: n
+      field: The body, life and death
+      gloss: sex; sexual intercourse
+      concept: sex
+      source: {kind: coined}
+    - form: olimate nurizon ir nurkovra
+      class: v
+      field: Doing, going and being
+      gloss: to conceive; to begin a child in the womb; ir nurkovra confines this phrase to conception
+      concept: conceive
+      source: {kind: coined}
+      built: [olimate, nurizon, ir, nurkovra]
+    - form: lozandon ol nurizon ir nurkovra
+      class: n
+      field: The body, life and death
+      gloss: pregnancy; carrying a child in the womb, rather than in the arms
+      concept: pregnancy
+      source: {kind: coined}
+      built: [lozandon, ol, nurizon, ir, nurkovra]
+    - form: lozete nurizon ir nurkovra
+      class: v
+      field: Doing, going and being
+      gloss: to be pregnant; to carry a child in the womb; ir nurkovra distinguishes pregnancy from carrying a born child
+      concept: pregnant
+      source: {kind: coined}
+      built: [lozete, nurizon, ir, nurkovra]
+    - form: nurezate
+      class: v
+      field: Doing, going and being
+      gloss: to give birth
+      concept: give-birth
+      source: {kind: coined}
+    - form: sulmenate
+      class: v
+      field: Doing, going and being
+      gloss: to nurse a child; to feed a child at the breast
+      concept: nurse
+      source: {kind: coined}
+    - form: nurate
+      class: v
+      field: Doing, going and being
+      gloss: to grow; to increase in size or maturity
+      concept: grow
+      source: {kind: coined}
+    - form: ankelate
+      class: v
+      field: Doing, going and being
+      gloss: to age; to grow older
+      concept: age-verb
+      source: {kind: coined}
+    - form: cholvaze
+      class: adj
+      field: The body, life and death
+      gloss: dead; no longer alive
+      concept: dead
+      source: {kind: coined}
+    - form: ankelmele
+      class: adj
+      field: The body, life and death
+      gloss: healthy; free of sickness
+      concept: healthy
+      source: {kind: coined}
+    - form: kelmele
+      class: adj
+      field: The body, life and death
+      gloss: sick; having an illness
+      concept: sick
+      source: {kind: coined}
+    - form: ritele
+      class: adj
+      field: The body, life and death
+      gloss: injured; wounded
+      concept: injured
+      source: {kind: coined}
+    - form: tarke
+      class: adj
+      field: The body, life and death
+      gloss: strong
+      concept: strong
+      source: {kind: coined}
+    - form: antarke
+      class: adj
+      field: The body, life and death
+      gloss: weak; lacking strength
+      concept: weak
+      source: {kind: coined}
+    - form: talv melvar avandon ol tumera
+      class: part
+      field: The body, life and death
+      gloss: exhausted; in overwhelming bodily need of rest; melvar intensifies the need in this fixed expression
+      concept: exhausted
+      source: {kind: coined}
+      built: [talv, melvar, avandon, ol, tumera]
+    - form: pazele
+      class: adj
+      field: The body, life and death
+      gloss: sated; satisfied after eating or drinking enough
+      concept: sated
+      source: {kind: coined}
+    - form: nelve
+      class: adj
+      field: The body, life and death
+      gloss: cold; having a low temperature
+      concept: cold
+      source: {kind: coined}
+    - form: talv kelmeza ol karveza
+      class: part
+      field: The body, life and death
+      gloss: feverish; with sickness marked by heat, the bodily condition of fever
+      concept: feverish
+      source: {kind: coined}
+      built: [talv, kelmeza, ol, karveza]
+    - form: ritena
+      class: n
+      field: The body, life and death
+      gloss: pain; bodily suffering
+      concept: pain
+      source: {kind: coined}
+    - form: ritenate
+      class: v
+      field: Doing, going and being
+      gloss: to hurt someone; to cause pain or injury
+      concept: hurt-verb
+      source: {kind: coined}
+    - form: zarvete ritena
+      class: v
+      field: Doing, going and being
+      gloss: to ache; to hurt; to experience bodily pain; the sufferer is subject of zarvete
+      concept: [ache, hurt-pain]
+      source: {kind: coined}
+      built: [zarvete, ritena]
+    - form: taurate ritena
+      class: v
+      field: Doing, going and being
+      gloss: to suffer; to be in bodily pain; jo taurate ritena names suffering, rather than inflicting pain
+      concept: suffer
+      source: {kind: coined}
+      built: [taurate, ritena]
+    - form: linkate brudamis
+      class: v
+      field: Doing, going and being
+      gloss: to bleed; to lose blood from the body
+      concept: bleed
+      source: {kind: coined}
+      built: [linkate, brudamis]
+    - form: anritezate
+      class: v
+      field: Doing, going and being
+      gloss: to heal a wound or injury
+      concept: heal
+      source: {kind: coined}
+    - form: ankelmete
+      class: v
+      field: Doing, going and being
+      gloss: to recover; to become well again after sickness
+      concept: recover
+      source: {kind: coined}
+    - form: okarun
+      class: adj
+      field: The body, life and death
+      gloss: blind; having a bodily impairment of sight, rather than a temporary obstacle to seeing
+      concept: blind
+      source: {kind: coined}
+    - form: tavarun
+      class: adj
+      field: The body, life and death
+      gloss: deaf; having a bodily impairment of hearing, rather than merely facing an inaudible sound
+      concept: deaf
+      source: {kind: coined}
+    - form: valmarun
+      class: adj
+      field: The body, life and death
+      gloss: lame; physically impaired in walking, including difficulty walking
+      concept: lame
+      source: {kind: coined}
+    - form: ternandar
+      class: adj
+      field: The body, life and death
+      gloss: alive; living
+      concept: alive
+      source: {kind: coined}
+    - form: ar zarvandar
+      class: adj
+      field: The body, life and death
+      gloss: unconscious; not sensing one's surroundings
+      concept: unconscious
+      source: {kind: coined}
+      built: [ar, zarvandar]
+    - form: nurizele
+      class: adj
+      field: The body, life and death
+      gloss: young; not yet mature
+      concept: young
+      source: {kind: coined}
+    - form: ankele
+      class: adj
+      field: The body, life and death
+      gloss: old; advanced in age of a living being, or long existing of an object
+      concept: [old, old-object]
+      source: {kind: coined}
+    - form: dunate
+      class: v
+      field: Doing, going and being
+      gloss: to be able; to have the ability to act
+      concept: can
+      source: {kind: coined}
+    - form: olimate
+      class: v
+      field: Doing, going and being
+      gloss: to begin
+      concept: begin
+      source: {kind: coined}
+    - form: lozandon
+      class: n
+      field: Qualities
+      gloss: carrying; the carrying of something
+      source: {kind: coined}
+    - form: linkate
+      class: v
+      field: Doing, going and being
+      gloss: to let go; to release
+      source: {kind: coined}
+    - form: elte
+      class: n
+      field: The house, kin and the name
+      gloss: a father
+      concept: father
+      source: {kind: coined}
+    - form: ilmare
+      class: n
+      field: The house, kin and the name
+      gloss: a parent
+      concept: parent
+      source: {kind: coined}
+    - form: nurizon
+      class: n
+      field: The house, kin and the name
+      gloss: a child; a person not yet of age
+      concept: child
+      source: {kind: inherited}
+    - form: nurete
+      class: n
+      field: The house, kin and the name
+      gloss: a son
+      concept: son
+      source: {kind: coined}
+    - form: nureta
+      class: n
+      field: The house, kin and the name
+      gloss: a daughter
+      concept: daughter
+      source: {kind: coined}
+    - form: olmezara
+      class: n
+      field: The house, kin and the name
+      gloss: a grandmother
+      concept: grandmother
+      source: {kind: coined}
+    - form: olelte
+      class: n
+      field: The house, kin and the name
+      gloss: a grandfather
+      concept: grandfather
+      source: {kind: coined}
+    - form: zelnurizon
+      class: n
+      field: The house, kin and the name
+      gloss: a grandchild
+      concept: grandchild
+      source: {kind: coined}
+    - form: kemare
+      class: n
+      field: The house, kin and the name
+      gloss: an uncle
+      concept: uncle
+      source: {kind: coined}
+    - form: sortene
+      class: n
+      field: The house, kin and the name
+      gloss: a cousin
+      concept: cousin
+      source: {kind: coined}
+    - form: kambeta
+      class: n
+      field: The house, kin and the name
+      gloss: a wife; a married woman
+      concept: wife
+      source: {kind: coined}
+    - form: kalmetar
+      class: n
+      field: The house, kin and the name
+      gloss: an ancestor; one of the dead a house still counts
+      concept: ancestor
+      source: {kind: coined}
+    - form: nurotar
+      class: n
+      field: The house, kin and the name
+      gloss: a descendant
+      concept: descendant
+      source: {kind: coined}
+    - form: falvizon
+      class: n
+      field: The house, kin and the name
+      gloss: an orphan
+      concept: orphan
+      source: {kind: coined}
+    - form: elzkambeta
+      class: n
+      field: The house, kin and the name
+      gloss: a widow
+      concept: widow
+      source: {kind: coined}
+    - form: olilmare
+      class: n
+      field: The house, kin and the name
+      gloss: a grandparent
+      concept: grandparent
+      source: {kind: coined}
+    - form: nurete ol semrote
+      class: n
+      field: The house, kin and the name
+      gloss: a nephew; a brother's son; semrota can replace semrote for a sister's son
+      concept: nephew
+      source: {kind: coined}
+      built: [nurete, ol, semrote]
+    - form: nureta ol semrote
+      class: n
+      field: The house, kin and the name
+      gloss: a niece; a brother's daughter; semrota can replace semrote for a sister's daughter
+      concept: niece
+      source: {kind: coined}
+      built: [nureta, ol, semrote]
+    - form: kambete ves kambeta
+      class: n
+      field: The house, kin and the name
+      gloss: a spouse; a husband or wife
+      concept: spouse
+      source: {kind: coined}
+      built: [kambete, ves, kambeta]
+    - form: kambezate
+      class: v
+      field: Doing, going and being
+      gloss: to marry; to enter into marriage
+      concept: marry
+      source: {kind: coined}
+    - form: soretis ol dumva
+      class: n m
+      field: The house, kin and the name
+      gloss: a family; the kin of a household, excluding unrelated servants
+      concept: family
+      source: {kind: coined}
+      built: [soretis, ol, dumva]
+    - form: dortene
+      class: n
+      field: The house, kin and the name
+      gloss: a lineage; a line of descent
+      concept: lineage
+      source: {kind: coined}
+    - form: elzkambete
+      class: n
+      field: The house, kin and the name
+      gloss: a widower
+      concept: widower
+      source: {kind: coined}
+    - form: zirne
+      class: n
+      field: The house, kin and the name
+      gloss: an enemy; a person hostile to oneself
+      concept: enemy
+      source: {kind: coined}
+    - form: anchesde
+      class: n
+      field: The house, kin and the name
+      gloss: a stranger; someone not known to oneself
+      concept: stranger
+      source: {kind: coined}
+    - form: dumvele
+      class: n
+      field: The house, kin and the name
+      gloss: a neighbor; someone who lives nearby
+      concept: neighbor
+      source: {kind: coined}
+    - form: konare
+      class: n
+      field: The house, kin and the name
+      gloss: a companion; someone sharing one's company, without requiring a patron or commander's service
+      concept: companion
+      source: {kind: coined}
+    - form: trumare
+      class: n
+      field: The house, kin and the name
+      gloss: a leader; someone who leads others in a common activity, whether in war or peace
+      concept: leader
+      source: {kind: coined}
+    - form: galete
+      class: n
+      field: The house, kin and the name
+      gloss: a student; someone learning from a teacher, without requiring an academy
+      concept: student
+      source: {kind: inherited, form: ghalethos}
+    - form: nalvemon
+      class: n
+      field: The house and the street
+      gloss: a bed
+      concept: bed
+      source: {kind: coined}
+    - form: karvon
+      class: n
+      field: The house and the street
+      gloss: fire; a fire
+      concept: fire
+      source: {kind: coined}
+    - form: sedon ol karalze
+      class: n
+      field: The house and the street
+      gloss: a hearth; the physical place of the house's kept fire
+      concept: hearth
+      source: {kind: coined}
+      built: [sedon, ol, karalze]
+    - form: irkon
+      class: n
+      field: The house and the street
+      gloss: a cup
+      concept: cup
+      source: {kind: coined}
+    - form: tolkemon
+      class: n
+      field: The house and the street
+      gloss: a pot
+      concept: pot
+      source: {kind: coined}
+    - form: tolbon
+      class: n
+      field: The house and the street
+      gloss: cloth; woven fabric in ordinary use
+      concept: cloth
+      source: {kind: coined}
+    - form: kovra ol dumela
+      class: n f
+      field: The house and the street
+      gloss: a ceiling; the overhead surface of a room, rather than the outer roof
+      concept: ceiling
+      source: {kind: coined}
+      built: [kovra, ol, dumela]
+    - form: ombela tereme
+      class: n f
+      field: The house and the street
+      gloss: a bench; a long seat on which several people can sit; distinguishes the seating bench from gardema, a master's workshop place
+      concept: bench
+      source: {kind: coined}
+      built: [ombela, tereme]
+    - form: tolkemon ol kerandon
+      class: n
+      field: The house and the street
+      gloss: a jar; a pot for holding or storing things, rather than cooking
+      concept: jar
+      source: {kind: coined}
+      built: [tolkemon, ol, kerandon]
+    - form: kolzolkemon
+      class: n
+      field: The house and the street
+      gloss: a bottle; a vessel with a neck
+      concept: bottle
+      source: {kind: coined}
+    - form: loztolbon
+      class: n
+      field: The house and the street
+      gloss: a bag; a carrying container made from cloth
+      concept: bag
+      source: {kind: coined}
+    - form: funela melvar
+      class: n f
+      field: The house and the street
+      gloss: a rope; a thick substantial cord
+      concept: rope
+      source: {kind: coined}
+      built: [funela, melvar]
+    - form: tolkis
+      class: n
+      field: The house and the street
+      gloss: a needle; a pointed tool for sewing
+      concept: needle
+      source: {kind: coined}
+    - form: karlon
+      class: n
+      field: The house and the street
+      gloss: coal; black mineral fuel or charcoal
+      concept: coal
+      source: {kind: coined}
+    - form: karvote
+      class: n
+      field: The house and the street
+      gloss: a torch; a burning stick carried for light
+      concept: torch
+      source: {kind: coined}
+    - form: karvizon
+      class: n
+      field: The house and the street
+      gloss: a candle; a wick set in wax or tallow
+      concept: candle
+      source: {kind: coined}
+    - form: tolvela
+      class: n
+      field: The house and the street
+      gloss: a shirt; a garment for the torso
+      concept: shirt
+      source: {kind: coined}
+    - form: valmkovra tereme
+      class: n f
+      field: The house and the street
+      gloss: a boot; a long shoe extending up the leg
+      concept: boot
+      source: {kind: coined}
+      built: [valmkovra, tereme]
+    - form: talon
+      class: n
+      field: The house and the street
+      gloss: stone; a rock; a piece of stone
+      concept: [stone, rock]
+      source: {kind: coined}
+    - form: palteza
+      class: n
+      field: The house and the street
+      gloss: clay; earth that can be shaped and fired
+      concept: clay
+      source: {kind: coined}
+    - form: letrete
+      class: n
+      field: The house and the street
+      gloss: leather; hide cured for use
+      concept: leather
+      source: {kind: coined}
+    - form: funela nizele
+      class: n f
+      field: The house and the street
+      gloss: thread; a fine cord for sewing
+      concept: thread
+      source: {kind: coined}
+      built: [funela, nizele]
+    - form: joreza
+      class: n
+      field: Vine, field and river
+      gloss: earth; soil; the ground's loose surface material
+      concept: [earth, soil]
+      source: {kind: coined}
+    - form: joreza ol salkon
+      class: n
+      field: Vine, field and river
+      gloss: sand; the loose grains of a shore, also said of sand away from a shore
+      concept: sand
+      source: {kind: coined}
+      built: [joreza, ol, salkon]
+    - form: joreza ul ulmera
+      class: n
+      field: Vine, field and river
+      gloss: mud; earth mixed with water; the joined nouns name this particular mixture
+      concept: mud
+      source: {kind: coined}
+      built: [joreza, ul, ulmera]
+    - form: jormela
+      class: n
+      field: Vine, field and river
+      gloss: dust; fine dry particles of earth or other material
+      concept: dust
+      source: {kind: coined}
+    - form: sedon ol joreza
+      class: n
+      field: Vine, field and river
+      gloss: land; physical ground or territory, whether owned or not; the place of earth, in this geographical expression, as distinct from water
+      concept: land
+      source: {kind: coined}
+      built: [sedon, ol, joreza]
+    - form: ronete
+      class: n
+      field: Vine, field and river
+      gloss: a mountain
+      concept: mountain
+      source: {kind: coined}
+    - form: jormalis levre
+      class: n f
+      field: Vine, field and river
+      gloss: a plain; flat open land; geographical use whether owned or not
+      concept: plain-landform
+      source: {kind: coined}
+      built: [jormalis, levre]
+    - form: sirete
+      class: n
+      field: Vine, field and river
+      gloss: a river; running water, without the great-river scope of vilare
+      concept: river
+      source: {kind: coined}
+    - form: sirete nizele
+      class: n
+      field: Vine, field and river
+      gloss: a stream; a small watercourse
+      concept: stream
+      source: {kind: coined}
+      built: [sirete, nizele]
+    - form: salkon
+      class: n
+      field: Vine, field and river
+      gloss: a shore
+      concept: shore
+      source: {kind: inherited}
+    - form: uradis
+      class: n
+      field: Vine, field and river
+      gloss: rain
+      concept: rain
+      source: {kind: coined}
+    - form: nelvon
+      class: n
+      field: Vine, field and river
+      gloss: ice; frozen water
+      concept: ice
+      source: {kind: coined}
+    - form: ilteralon
+      class: n
+      field: Vine, field and river
+      gloss: the sky; the expanse above the earth
+      concept: sky
+      source: {kind: coined}
+    - form: uradon
+      class: n
+      field: Vine, field and river
+      gloss: a cloud; a mass of water in the sky
+      concept: cloud
+      source: {kind: coined}
+    - form: brazkiramon
+      class: n
+      field: Vine, field and river
+      gloss: lightning; a flash in a storm
+      concept: lightning
+      source: {kind: coined}
+    - form: nurelon
+      class: n
+      field: Vine, field and river
+      gloss: a plant; a rooted growing thing
+      concept: plant
+      source: {kind: coined}
+    - form: kaldere
+      class: n
+      field: Vine, field and river
+      gloss: a tree; a woody plant
+      concept: tree
+      source: {kind: coined}
+    - form: lamote ol kaldere
+      class: n
+      field: Vine, field and river
+      gloss: a branch; a limb of a tree, the conventional tree use of arm
+      concept: branch
+      source: {kind: coined}
+      built: [lamote, ol, kaldere]
+    - form: kelborizon
+      class: n
+      field: Vine, field and river
+      gloss: a seed; the small body from which a plant grows
+      concept: seed
+      source: {kind: coined}
+    - form: polteza
+      class: n
+      field: Vine, field and river
+      gloss: grass; low plants with narrow blades
+      concept: grass
+      source: {kind: coined}
+    - form: ternon
+      class: n
+      field: Vine, field and river
+      gloss: an animal; a beast
+      concept: [animal, beast]
+      source: {kind: coined}
+    - form: jormis
+      class: n
+      field: Vine, field and river
+      gloss: a worm; a long soft animal without legs
+      concept: worm
+      source: {kind: coined}
+    - form: ulmerele
+      class: adj
+      field: Vine, field and river
+      gloss: wet; having water on or in it
+      concept: wet
+      source: {kind: coined}
+    - form: anulmerele
+      class: adj
+      field: Vine, field and river
+      gloss: dry; having no water or moisture
+      concept: dry
+      source: {kind: coined}
+    - form: kaure
+      class: adj
+      field: Vine, field and river
+      gloss: black; dark
+      concept: [dark, black]
+      source: {kind: coined}
+    - form: ar uradon
+      class: n
+      field: Vine, field and river
+      gloss: clear weather; no cloud; used as a cloudless-weather report, rather than material transparency
+      concept: clear-weather
+      source: {kind: coined}
+      built: [ar, uradon]
+    - form: talv uradon
+      class: part
+      field: Vine, field and river
+      gloss: cloudy; with clouds; the weather report ez talv uradon says the sky has clouds
+      concept: cloudy
+      source: {kind: coined}
+      built: [talv, uradon]
+    - form: aistron
+      class: n
+      field: Vine, field and river
+      gloss: the north; the northern direction
+      concept: north
+      source: {kind: coined}
+    - form: zeltron
+      class: n
+      field: Vine, field and river
+      gloss: the south; the direction opposite north
+      concept: south
+      source: {kind: coined}
+    - form: urzkorvatis
+      class: n
+      field: Vine, field and river
+      gloss: the east; the direction of the rising sun
+      concept: east
+      source: {kind: coined}
+    - form: nembkorvatis
+      class: n
+      field: Vine, field and river
+      gloss: the west; the direction of the setting sun
+      concept: west
+      source: {kind: coined}
+    - form: sedon
+      class: n
+      field: Qualities
+      gloss: a place; a site
+      source: {kind: coined}
+      concept: place-noun
+    - form: kerandon
+      class: n
+      field: Qualities
+      gloss: having; the holding or keeping of something
+      source: {kind: coined}
+    - form: tereme
+      class: adj
+      field: Qualities
+      gloss: long; extending far in length
+      concept: long
+      source: {kind: coined}
+    - form: seltur
+      class: num
+      field: Numbers and grammar words
+      gloss: six
+      concept: six
+      source: {kind: coined}
+    - form: olime
+      class: adj
+      field: Numbers and grammar words
+      gloss: first
+      concept: first
+      source: {kind: coined}
+    - form: etore
+      class: adj
+      field: Numbers and grammar words
+      gloss: second; next in rank
+      concept: second
+      source: {kind: coined}
+    - form: karzore
+      class: adj
+      field: Numbers and grammar words
+      gloss: third
+      concept: third
+      source: {kind: coined}
+    - form: solte
+      class: n
+      field: Numbers and grammar words
+      gloss: a half
+      concept: half
+      source: {kind: coined}
+    - form: zolme
+      class: adj
+      field: Numbers and grammar words
+      gloss: many; much in quantity, whether counting things or measuring a substance
+      concept: [many, much]
+      source: {kind: coined}
+    - form: itre
+      class: adj
+      field: Numbers and grammar words
+      gloss: few in number; little in quantity
+      concept: [few, little-quantity]
+      source: {kind: coined}
+    - form: arzun
+      class: num
+      field: Numbers and grammar words
+      gloss: zero; no units in a count
+      concept: zero
+      source: {kind: coined}
+    - form: ir sedon ol raetur
+      class: part
+      field: Numbers and grammar words
+      gloss: in position seven; seventh in an ordered sequence; replace raetur with the number of the position to state other ordinal positions
+      concept: ordinal-construction
+      source: {kind: coined}
+      built: [ir, sedon, ol, raetur]
+    - form: solte ol solte
+      class: n
+      field: Numbers and grammar words
+      gloss: a quarter; half of a half
+      concept: quarter
+      source: {kind: coined}
+      built: [solte, ol, solte]
+    - form: etris
+      class: adj
+      field: Numbers and grammar words
+      gloss: some; an unspecified nonzero quantity or number
+      concept: some
+      source: {kind: coined}
+    - form: sate
+      class: adj
+      field: Numbers and grammar words
+      gloss: enough; sufficient for the purpose
+      concept: enough
+      source: {kind: coined}
+    - form: zolmimme
+      class: adj
+      field: Numbers and grammar words
+      gloss: most; the greatest number or amount
+      concept: most
+      source: {kind: coined}
+    - form: itrimme
+      class: adj
+      field: Numbers and grammar words
+      gloss: least; the smallest number or amount
+      concept: least
+      source: {kind: coined}
+    - form: rozele
+      class: adj
+      field: Numbers and grammar words
+      gloss: equal; having the same amount, measure or standing
+      concept: equal
+      source: {kind: coined}
+    - form: urzele
+      class: adj
+      field: Numbers and grammar words
+      gloss: each; every one considered separately
+      concept: each
+      source: {kind: coined}
+    - form: tavemer zedime
+      class: adj
+      field: Numbers and grammar words
+      gloss: both; all two
+      concept: both
+      source: {kind: coined}
+      built: [tavemer, zedime]
+    - form: urkis ol tavemer
+      class: pron
+      field: Numbers and grammar words
+      gloss: either one; one of two, with the choice open between the pair
+      concept: either
+      source: {kind: coined}
+      built: [urkis, ol, tavemer]
+    - form: ar urkis ol tavemer
+      class: pron
+      field: Numbers and grammar words
+      gloss: neither one; not one of the two alternatives
+      concept: neither
+      source: {kind: coined}
+      built: [ar, urkis, ol, tavemer]
+    - form: rozeti
+      class: adv
+      field: Numbers and grammar words
+      gloss: about; approximately in number or measure
+      concept: about
+      source: {kind: coined}
+    - form: zetai
+      class: adv
+      field: Numbers and grammar words
+      gloss: exactly; with no difference or approximation
+      concept: exactly
+      source: {kind: coined}
+    - form: rozon
+      class: n
+      field: Numbers and grammar words
+      gloss: a number; a count of units
+      concept: number
+      source: {kind: coined}
+    - form: zolmon
+      class: n
+      field: Numbers and grammar words
+      gloss: an amount; a quantity
+      concept: amount
+      source: {kind: coined}
+    - form: tradinate
+      class: v
+      field: Doing, going and being
+      gloss: to measure; to determine an extent or quantity
+      concept: measure-verb
+      source: {kind: coined}
+    - form: rozimate
+      class: v
+      field: Doing, going and being
+      gloss: to count; to reckon; to date by a reckoning
+      concept: count-verb
+      source: {kind: coined}
+    - form: iltere
+      class: adj
+      field: Qualities
+      gloss: white
+      concept: white
+      source: {kind: coined}
+    - form: talure
+      class: adj
+      field: Qualities
+      gloss: red
+      concept: red
+      source: {kind: coined}
+    - form: velmire
+      class: adj
+      field: Qualities
+      gloss: green
+      concept: green
+      source: {kind: coined}
+    - form: amele
+      class: adj
+      field: Qualities
+      gloss: yellow
+      concept: yellow
+      source: {kind: coined}
+    - form: zaltene
+      class: adj
+      field: Qualities
+      gloss: blue
+      concept: blue
+      source: {kind: coined}
+    - form: tarvele
+      class: adj
+      field: Qualities
+      gloss: brown
+      concept: brown
+      source: {kind: coined}
+    - form: iltele
+      class: adj
+      field: Qualities
+      gloss: light in colour; pale
+      concept: [light-colour, pale]
+      source: {kind: coined}
+    - form: silkre
+      class: adj
+      field: Qualities
+      gloss: clear; transparent, allowing objects behind it to be seen; also visually distinct and easy to discern, said of an outline or mark
+      concept: [clear-appearance, transparent]
+      source: {kind: coined}
+    - form: ansilkre
+      class: adj
+      field: Qualities
+      gloss: opaque; not transparent
+      concept: opaque
+      source: {kind: coined}
+    - form: ankrele
+      class: adj
+      field: Qualities
+      gloss: shiny; reflecting light from its surface
+      concept: shiny
+      source: {kind: coined}
+    - form: anankrele
+      class: adj
+      field: Qualities
+      gloss: dull; not shiny
+      concept: dull-appearance
+      source: {kind: coined}
+    - form: ar talv tumisa
+      class: part
+      field: Qualities
+      gloss: plain; without pattern or decorative marks; ar negates the accompaniment talv tumisa in this fixed description
+      concept: plain-pattern
+      source: {kind: coined}
+      built: [ar, talv, tumisa]
+    - form: tumisele
+      class: adj
+      field: Qualities
+      gloss: spotted; patterned with spots
+      concept: spotted
+      source: {kind: coined}
+    - form: kerate
+      class: v
+      field: Doing, going and being
+      gloss: to hold; to have
+      concept: [have, hold]
+      source: {kind: coined}
+    - form: tigate
+      class: v
+      field: Doing, going and being
+      gloss: to go
+      concept: go
+      source: {kind: coined}
+    - form: lokate
+      class: v
+      field: Doing, going and being
+      gloss: to come
+      concept: come
+      source: {kind: coined}
+    - form: kurete
+      class: v
+      field: Doing, going and being
+      gloss: to take
+      concept: take
+      source: {kind: coined}
+    - form: tavate
+      class: v
+      field: Doing, going and being
+      gloss: to do; to perform an action
+      concept: do
+      source: {kind: coined}
+    - form: dokate
+      class: v
+      field: Doing, going and being
+      gloss: to speak; to say before others
+      concept: [say, speak]
+      source: {kind: coined}
+    - form: pelmate
+      class: v
+      field: Doing, going and being
+      gloss: to think
+      concept: think
+      source: {kind: coined}
+    - form: avete
+      class: v
+      field: Doing, going and being
+      gloss: to want; to desire
+      concept: [want, wish-verb]
+      source: {kind: coined}
+    - form: valmate
+      class: v
+      field: Doing, going and being
+      gloss: to walk; to pace out a line
+      concept: walk
+      source: {kind: coined}
+    - form: ralvate
+      class: v
+      field: Doing, going and being
+      gloss: to run
+      concept: run
+      source: {kind: coined}
+    - form: ombete
+      class: v
+      field: Doing, going and being
+      gloss: to sit; to take one's seat
+      concept: sit
+      source: {kind: coined}
+    - form: talete
+      class: v
+      field: Doing, going and being
+      gloss: to stand
+      concept: stand
+      source: {kind: coined}
+    - form: nalete
+      class: v
+      field: Doing, going and being
+      gloss: to lie down
+      concept: lie-down
+      source: {kind: coined}
+    - form: amrete
+      class: v
+      field: Doing, going and being
+      gloss: to bring
+      concept: bring
+      source: {kind: coined}
+    - form: lendate
+      class: v
+      field: Doing, going and being
+      gloss: to put; to set a thing in its place
+      concept: put
+      source: {kind: coined}
+    - form: alvete
+      class: v
+      field: Doing, going and being
+      gloss: to find
+      concept: find
+      source: {kind: coined}
+    - form: analvete
+      class: v
+      field: Doing, going and being
+      gloss: to lose
+      concept: lose
+      source: {kind: coined}
+    - form: olmate
+      class: v
+      field: Doing, going and being
+      gloss: to open
+      concept: open
+      source: {kind: coined}
+    - form: anolmate
+      class: v
+      field: Doing, going and being
+      gloss: to close
+      concept: close
+      source: {kind: coined}
+    - form: ortemate
+      class: v
+      field: Doing, going and being
+      gloss: to end
+      concept: end
+      source: {kind: coined}
+    - form: dumva ez
+      class: v
+      field: Doing, going and being
+      gloss: a house exists; there is a house; replace dumva with the thing whose existence is stated; ez is used without a quality or identity complement in this particular utterance
+      concept: exist
+      source: {kind: coined}
+      built: [dumva, ez]
+    - form: ez ol jo
+      class: v
+      field: Doing, going and being
+      gloss: to belong to me; to be mine; replace jo with the possessor in this ownership expression
+      concept: belong
+      source: {kind: coined}
+      built: [ez, ol, jo]
+    - form: pelzate
+      class: v
+      field: Doing, going and being
+      gloss: to become; to enter a state
+      concept: become
+      source: {kind: coined}
+    - form: dorate
+      class: v
+      field: Doing, going and being
+      gloss: to remain; to continue in a place or state
+      concept: [remain, continue]
+      source: {kind: coined}
+    - form: tigate fos sedon ol dumva
+      class: v
+      field: Doing, going and being
+      gloss: to leave the house; to depart from a place; replace dumva with the place or person left
+      concept: leave
+      source: {kind: coined}
+      built: [tigate, fos, sedon, ol, dumva]
+    - form: lokate fir dumva
+      class: v
+      field: Doing, going and being
+      gloss: to arrive at the house; to come to a destination; replace dumva with the destination after fir
+      concept: arrive
+      source: {kind: coined}
+      built: [lokate, fir, dumva]
+    - form: valmate zel
+      class: v
+      field: Doing, going and being
+      gloss: to crawl; to move low along the ground; zel gives low ground-level movement in this fixed use
+      concept: crawl
+      source: {kind: coined}
+      built: [valmate, zel]
+    - form: urzvalmate
+      class: v
+      field: Doing, going and being
+      gloss: to climb; to move upward on a surface
+      concept: climb
+      source: {kind: coined}
+    - form: urzralvate
+      class: v
+      field: Doing, going and being
+      gloss: to jump; to spring upward
+      concept: jump
+      source: {kind: coined}
+    - form: urzete
+      class: v
+      field: Doing, going and being
+      gloss: to rise
+      concept: rise
+      source: {kind: coined}
+    - form: tigate ir
+      class: v
+      field: Doing, going and being
+      gloss: to enter; to go in; ir gives inward direction after the action in this fixed use
+      concept: enter
+      source: {kind: coined}
+      built: [tigate, ir]
+    - form: tigate fos
+      class: v
+      field: Doing, going and being
+      gloss: to exit; to go out; fos gives outward direction after the action in this fixed use
+      concept: exit
+      source: {kind: coined}
+      built: [tigate, fos]
+    - form: antigate
+      class: v
+      field: Doing, going and being
+      gloss: to return; to go back
+      concept: return
+      source: {kind: coined}
+    - form: solkete
+      class: v
+      field: Doing, going and being
+      gloss: to follow; to go behind someone or something, without requiring attendance on a patron
+      concept: follow
+      source: {kind: coined}
+    - form: sedate
+      class: v
+      field: Doing, going and being
+      gloss: to move; to change place
+      concept: move
+      source: {kind: coined}
+    - form: prendate
+      class: v
+      field: Doing, going and being
+      gloss: to push; to exert force away from oneself
+      concept: push
+      source: {kind: coined}
+    - form: zundete
+      class: v
+      field: Doing, going and being
+      gloss: to pull; to draw toward oneself
+      concept: pull
+      source: {kind: coined}
+    - form: lozete us
+      class: v
+      field: Doing, going and being
+      gloss: to lift; to carry upward; us gives upward movement in this fixed use
+      concept: lift
+      source: {kind: coined}
+      built: [lozete, us]
+    - form: nembelate
+      class: v
+      field: Doing, going and being
+      gloss: to drop something; to release it so that it falls
+      concept: drop
+      source: {kind: coined}
+    - form: felzete
+      class: v
+      field: Doing, going and being
+      gloss: to throw; to send an object through the air
+      concept: throw
+      source: {kind: coined}
+    - form: kurate
+      class: v
+      field: Doing, going and being
+      gloss: to catch; to seize a moving thing
+      concept: catch
+      source: {kind: coined}
+    - form: kermate
+      class: v
+      field: Doing, going and being
+      gloss: to break; to separate or damage a thing by force
+      concept: break
+      source: {kind: coined}
+    - form: kermate zetimai
+      class: v
+      field: Doing, going and being
+      gloss: to destroy; to break completely; zetimai gives completeness to the breaking
+      concept: destroy
+      source: {kind: coined}
+      built: [kermate, zetimai]
+    - form: ankermate
+      class: v
+      field: Doing, going and being
+      gloss: to repair; to undo damage or breakage
+      concept: repair
+      source: {kind: coined}
+    - form: pelzete
+      class: v
+      field: Doing, going and being
+      gloss: to change; to alter something
+      concept: change-verb
+      source: {kind: coined}
+    - form: narthen
+      class: v
+      field: Doing, going and being
+      gloss: to tell; the verb cited in the old merchant invitation Narthe-me de vei thraves
+      concept: tell
+    - form: petate
+      class: v
+      field: Doing, going and being
+      gloss: to ask
+      concept: ask
+      source: {kind: coined}
+    - form: petrete
+      class: v
+      field: Doing, going and being
+      gloss: to answer; to respond to a question or request
+      concept: answer
+      source: {kind: coined}
+    - form: klamete
+      class: v
+      field: Doing, going and being
+      gloss: to call out; to shout
+      concept: [call, shout]
+      source: {kind: coined}
+    - form: anklamete
+      class: v
+      field: Doing, going and being
+      gloss: to whisper; to speak in a quiet breathy unvoiced manner
+      concept: whisper
+      source: {kind: coined}
+    - form: lambizate
+      class: v
+      field: Doing, going and being
+      gloss: to explain; to make a meaning clear in words
+      concept: explain
+      source: {kind: coined}
+    - form: demate arlen
+      class: v
+      field: Doing, going and being
+      gloss: to name; to give a name
+      concept: name-verb
+      source: {kind: coined}
+      built: [demate, arlen]
+    - form: varelate
+      class: v
+      field: Doing, going and being
+      gloss: to trust; to believe
+      concept: believe
+      source: {kind: coined}
+    - form: lambirete
+      class: v
+      field: Doing, going and being
+      gloss: to understand; to grasp a meaning or reason
+      concept: understand
+      source: {kind: coined}
+    - form: memrate
+      class: v
+      field: Doing, going and being
+      gloss: to remember
+      concept: remember
+      source: {kind: coined}
+    - form: anmemrate
+      class: v
+      field: Doing, going and being
+      gloss: to forget
+      concept: forget
+      source: {kind: coined}
+    - form: marendate
+      class: v
+      field: Doing, going and being
+      gloss: to learn; to acquire knowledge or skill
+      concept: learn
+      source: {kind: coined}
+    - form: marendete
+      class: v
+      field: Doing, going and being
+      gloss: to teach; to impart knowledge or skill
+      concept: teach
+      source: {kind: coined}
+    - form: nasdate
+      class: v
+      field: Doing, going and being
+      gloss: to decide; to settle what is to be done
+      concept: decide
+      source: {kind: coined}
+    - form: vedokete
+      class: v
+      field: Doing, going and being
+      gloss: to imagine; to form an image in one's mind
+      concept: imagine
+      source: {kind: coined}
+    - form: jervate
+      class: v
+      field: Doing, going and being
+      gloss: to need; to require something
+      concept: need-verb
+      source: {kind: coined}
+    - form: orvate
+      class: v
+      field: Doing, going and being
+      gloss: to hope
+      concept: hope-verb
+      source: {kind: coined}
+    - form: avrenate
+      class: v
+      field: Doing, going and being
+      gloss: to intend; to have an act or outcome deliberately in mind
+      concept: intend
+      source: {kind: coined}
+    - form: tavemkurete
+      class: v
+      field: Doing, going and being
+      gloss: to choose; to take one from alternatives
+      concept: choose
+      source: {kind: coined}
+    - form: mazeron avete
+      class: v
+      field: Doing, going and being
+      gloss: to prefer; to want one option more than another; the preferred object follows avete, and the compared option is named with ves
+      concept: prefer
+      source: {kind: coined}
+      built: [mazeron, avete]
+    - form: tarvenate
+      class: v
+      field: Doing, going and being
+      gloss: to try; to attempt an action
+      concept: try
+      source: {kind: coined}
+    - form: sekerate
+      class: v
+      field: Doing, going and being
+      gloss: to search; to look for something
+      concept: search
+      source: {kind: coined}
+    - form: konate
+      class: v
+      field: Doing, going and being
+      gloss: to meet; to come together; to associate
+      concept: meet
+      source: {kind: coined}
+    - form: zumbrate
+      class: v
+      field: Doing, going and being
+      gloss: to help; to assist
+      concept: help
+      source: {kind: coined}
+    - form: soltate
+      class: v
+      field: Doing, going and being
+      gloss: to share; to divide something among people
+      concept: share
+      source: {kind: coined}
+    - form: delate
+      class: v
+      field: Doing, going and being
+      gloss: to trade; to buy and sell
+      concept: trade
+      source: {kind: coined}
+    - form: kurelate
+      class: v
+      field: Doing, going and being
+      gloss: to buy; to acquire for a price
+      concept: buy
+      source: {kind: coined}
+    - form: daimelate
+      class: v
+      field: Doing, going and being
+      gloss: to sell; to give in exchange for a price
+      concept: sell
+      source: {kind: coined}
+    - form: zarlete
+      class: v
+      field: Doing, going and being
+      gloss: to promise; to undertake to do something
+      concept: promise-verb
+      source: {kind: coined}
+    - form: memrate orfenon
+      class: v
+      field: Doing, going and being
+      gloss: to thank; to express grateful acknowledgment of a kindness received; this whole phrase expresses thanks, rather than only remembering a favor privately
+      concept: thank-verb
+      source: {kind: coined}
+      built: [memrate, orfenon]
+    - form: anorfenate
+      class: v
+      field: Doing, going and being
+      gloss: to forgive; to release from what is owed
+      concept: forgive-verb
+      source: {kind: coined}
+    - form: ar avete
+      class: v
+      field: Doing, going and being
+      gloss: to refuse; not to consent to a proposal; used of rejecting an offered action or proposal, rather than merely lacking a desire
+      concept: refuse-verb
+      source: {kind: coined}
+      built: [ar, avete]
+    - form: varelate talv cho
+      class: v
+      field: Doing, going and being
+      gloss: to agree with you; to share your judgment; replace cho with the other party in this fixed expression
+      concept: agree-verb
+      source: {kind: coined}
+      built: [varelate, talv, cho]
+    - form: kordate
+      class: v
+      field: Doing, going and being
+      gloss: to fight
+      concept: fight
+      source: {kind: coined}
+    - form: malkete
+      class: v
+      field: Doing, going and being
+      gloss: to hit; to strike
+      concept: hit
+      source: {kind: coined}
+    - form: kolvate
+      class: v
+      field: Doing, going and being
+      gloss: to kill; to cause death
+      concept: kill
+      source: {kind: coined}
+    - form: lusate
+      class: v
+      field: Doing, going and being
+      gloss: to protect; to defend someone or something from harm
+      concept: defend
+      source: {kind: coined}
+    - form: olimate kordandon
+      class: v
+      field: Doing, going and being
+      gloss: to attack; to begin a fight against someone
+      concept: attack
+      source: {kind: coined}
+      built: [olimate, kordandon]
+    - form: ralvate fos sedon ol ritavon
+      class: v
+      field: Doing, going and being
+      gloss: to flee; to run out of the place of danger; replace ritavon with a named danger source as appropriate
+      concept: flee
+      source: {kind: coined}
+      built: [ralvate, fos, sedon, ol, ritavon]
+    - form: vakate ritavon
+      class: v
+      field: Doing, going and being
+      gloss: to threaten; to signal one's own intention to cause harm to another
+      concept: threaten
+      source: {kind: coined}
+      built: [vakate, ritavon]
+    - form: sistate
+      class: v
+      field: Doing, going and being
+      gloss: to stop; to cease
+      concept: stop
+      source: {kind: coined}
+    - form: tumisa
+      class: n
+      field: Qualities
+      gloss: a mark; a decorative mark or pattern
+      source: {kind: coined}
+    - {form: nembandon, class: n, field: Qualities, gloss: a fall; falling, source: {kind: coined}}
+    - form: kordandon
+      class: n
+      field: Qualities
+      gloss: fighting; an engagement in combat
+      source: {kind: coined}
+    - form: arlen
+      class: n
+      field: The city and its standing
+      gloss: a name
+      concept: name-noun
+      source: {kind: coined}
+    - form: vakate
+      class: v
+      field: Doing, going and being
+      gloss: to show; to make visible
+      concept: reveal
+      source: {kind: inherited, form: wakathen}
+    - form: sistete
+      class: v
+      field: Doing, going and being
+      gloss: to wait; to remain until an expected time or event
+      concept: wait
+      source: {kind: coined}
+    - form: tambirete
+      class: v
+      field: Doing, going and being
+      gloss: to happen; to occur
+      concept: happen
+      source: {kind: coined}
+    - form: klinete zel
+      class: v
+      field: Doing, going and being
+      gloss: to kneel; to bend down onto the knee; zel gives the downward posture in this fixed use
+      concept: kneel
+      source: {kind: coined}
+      built: [klinete, zel]
+    - form: klinete
+      class: v
+      field: Doing, going and being
+      gloss: to bend; to lean; to bow
+      concept: [bend, lean]
+      source: {kind: coined}
+    - form: kovrate
+      class: v
+      field: Doing, going and being
+      gloss: to cover; to put a covering over something
+      concept: cover-verb
+      source: {kind: coined}
+    - form: ankovrate
+      class: v
+      field: Doing, going and being
+      gloss: to uncover; to remove a covering
+      concept: uncover
+      source: {kind: coined}
+    - form: kelterate
+      class: v
+      field: Doing, going and being
+      gloss: to hide; to conceal an object or person from view
+      concept: hide
+      source: {kind: coined}
+    - form: zundelate
+      class: v
+      field: Doing, going and being
+      gloss: to lock; to fasten with a lock
+      concept: lock-verb
+      source: {kind: coined}
+    - form: anzundelate
+      class: v
+      field: Doing, going and being
+      gloss: to unlock; to release a lock
+      concept: unlock
+      source: {kind: coined}
+    - form: ir de sedon
+      class: part
+      field: The house and the street
+      gloss: here; in this place near the speaker
+      concept: here
+      source: {kind: coined}
+      built: [ir, de, sedon]
+    - form: ir at sedon
+      class: part
+      field: The house and the street
+      gloss: there; in that place away from the speaker
+      concept: there
+      source: {kind: coined}
+      built: [ir, at, sedon]
+    - form: ir etris sedon
+      class: part
+      field: The house and the street
+      gloss: somewhere; in some place
+      concept: somewhere
+      source: {kind: coined}
+      built: [ir, etris, sedon]
+    - form: ir arurkis sedon
+      class: part
+      field: The house and the street
+      gloss: nowhere; in no place
+      concept: nowhere
+      source: {kind: coined}
+      built: [ir, arurkis, sedon]
+    - form: ir zedime sedon
+      class: part
+      field: The house and the street
+      gloss: everywhere; in every place
+      concept: everywhere
+      source: {kind: coined}
+      built: [ir, zedime, sedon]
+    - form: alatar
+      class: adj
+      field: The house and the street
+      gloss: far; at a great distance
+      concept: far
+      source: {kind: coined}
+    - form: lair
+      class: part
+      field: Numbers and grammar words
+      gloss: beside; at the side of
+      concept: beside
+      source: {kind: coined}
+    - form: pral
+      class: part
+      field: Numbers and grammar words
+      gloss: before; in front of
+      concept: before-spatial
+      source: {kind: coined}
+    - form: zelvar
+      class: n
+      field: The house and the street
+      gloss: the left; the left-hand side or direction
+      concept: left-direction
+      source: {kind: coined}
+    - form: tarvar
+      class: n
+      field: The house and the street
+      gloss: the right; the right-hand side or direction
+      concept: right-direction
+      source: {kind: coined}
+    - form: ziron
+      class: n
+      field: The house and the street
+      gloss: the center; the middle
+      concept: center
+      source: {kind: coined}
+    - form: fir sedon telvare
+      class: part
+      field: The house and the street
+      gloss: up; toward a higher place
+      concept: up
+      source: {kind: coined}
+      built: [fir, sedon, telvare]
+    - form: fir sedon zele
+      class: part
+      field: The house and the street
+      gloss: down; toward a lower place
+      concept: down
+      source: {kind: coined}
+      built: [fir, sedon, zele]
+    - form: fir prasedon
+      class: part
+      field: The house and the street
+      gloss: forward; toward the front
+      concept: forward
+      source: {kind: coined}
+      built: [fir, prasedon]
+    - form: fir anprasedon
+      class: part
+      field: The house and the street
+      gloss: backward; toward the rear
+      concept: backward
+      source: {kind: coined}
+      built: [fir, anprasedon]
+    - form: fos de sedon
+      class: part
+      field: The house and the street
+      gloss: away; out from this place
+      concept: away
+      source: {kind: coined}
+      built: [fos, de, sedon]
+    - form: ir sedon ol dumva
+      class: part
+      field: The house and the street
+      gloss: at the house; at a named location; replace dumva with the actual location
+      concept: at
+      source: {kind: coined}
+      built: [ir, sedon, ol, dumva]
+    - form: fos sedon ol dumva
+      class: part
+      field: The house and the street
+      gloss: from the house; from a named source location; replace dumva with the actual source
+      concept: from
+      source: {kind: coined}
+      built: [fos, sedon, ol, dumva]
+    - form: sedon ol ombela
+      class: n
+      field: The house and the street
+      gloss: a position; the place occupied by the chair; replace ombela with the positioned thing
+      concept: position
+      source: {kind: coined}
+      built: [sedon, ol, ombela]
+    - form: tigen
+      class: n
+      field: The house and the street
+      gloss: a direction; a way in which something moves or faces
+      concept: direction
+      source: {kind: coined}
+    - form: teredon tavir dumva ul veramis
+      class: n
+      field: The house and the street
+      gloss: distance; the extent between house and city; replace dumva and veramis with the two places being measured
+      concept: distance
+      source: {kind: coined}
+      built: [teredon, tavir, dumva, ul, veramis]
+    - form: kanel
+      class: n
+      field: Time and the year
+      gloss: time; the course or duration of events; a time or occasion when counted in the expressions given here
+      concept: time
+      source: {kind: coined}
+    - form: kanizon
+      class: n
+      field: Time and the year
+      gloss: a moment; a very short span of time
+      concept: moment
+      source: {kind: coined}
+    - form: jhorne
+      class: n
+      field: Time and the year
+      gloss: a day; the day word given in the traditional formal greeting
+      concept: day
+    - form: nardziron
+      class: n
+      field: Time and the year
+      gloss: noon; the middle of the day
+      concept: noon
+      source: {kind: coined}
+    - form: iltela
+      class: n
+      field: Time and the year
+      gloss: the evening
+      concept: evening
+      source: {kind: coined}
+    - form: zunziron
+      class: n
+      field: Time and the year
+      gloss: midnight; the middle of the night
+      concept: midnight
+      source: {kind: coined}
+    - form: de jhorne
+      class: n
+      field: Time and the year
+      gloss: this day; today as a temporal adjunct
+      concept: today
+      source: {kind: coined}
+      built: [de, jhorne]
+    - form: pral de jhorne
+      class: part
+      field: Time and the year
+      gloss: yesterday; on the day immediately before this one
+      concept: yesterday
+      source: {kind: coined}
+      built: [pral, de, jhorne]
+    - form: etor jhorne
+      class: part
+      field: Time and the year
+      gloss: tomorrow; on the immediately following day
+      concept: tomorrow
+      source: {kind: coined}
+      built: [etor, jhorne]
+    - form: de kanel
+      class: n
+      field: Time and the year
+      gloss: the present; this time
+      concept: present
+      source: {kind: coined}
+      built: [de, kanel]
+    - form: lokanti
+      class: adv
+      field: Time and the year
+      gloss: in days to come; hereafter
+      concept: future
+      source: {kind: coined}
+    - form: pral kanel ol cholsama
+      class: part
+      field: Time and the year
+      gloss: before the harvest; before a named event or time; replace cholsama with the event
+      concept: before-time
+      source: {kind: coined}
+      built: [pral, kanel, ol, cholsama]
+    - form: etor
+      class: part
+      field: Numbers and grammar words
+      gloss: after; later than a time or event
+      concept: after
+      source: {kind: coined}
+    - form: ir kanel ol cholsama
+      class: part
+      field: Time and the year
+      gloss: during the harvest; within the time of a named event; replace cholsama with that event
+      concept: during
+      source: {kind: coined}
+      built: [ir, kanel, ol, cholsama]
+    - form: ker
+      class: part
+      field: Numbers and grammar words
+      gloss: when; at the same time as the clause or event that follows; also when in a question, as eza cho lokate ker, when do you come
+      concept: while
+      source: {kind: coined}
+    - form: fir kanel ol cholsama
+      class: part
+      field: Time and the year
+      gloss: until the harvest; up to the time of a named endpoint event; replace cholsama with that event
+      concept: until
+      source: {kind: coined}
+      built: [fir, kanel, ol, cholsama]
+    - form: fos kanel ol cholsama
+      class: part
+      field: Time and the year
+      gloss: since the harvest; from the time of a named starting event onward; replace cholsama with that event
+      concept: since-time
+      source: {kind: coined}
+      built: [fos, kanel, ol, cholsama]
+    - form: ir zedime kanel
+      class: part
+      field: Time and the year
+      gloss: always; at every time
+      concept: always
+      source: {kind: coined}
+      built: [ir, zedime, kanel]
+    - form: ir zolme kanel
+      class: part
+      field: Time and the year
+      gloss: often; on many occasions
+      concept: often
+      source: {kind: coined}
+      built: [ir, zolme, kanel]
+    - form: ir etris kanel
+      class: part
+      field: Time and the year
+      gloss: sometimes; at some times
+      concept: sometimes
+      source: {kind: coined}
+      built: [ir, etris, kanel]
+    - form: ir itre kanel
+      class: part
+      field: Time and the year
+      gloss: rarely; on few occasions
+      concept: rarely
+      source: {kind: coined}
+      built: [ir, itre, kanel]
+    - form: ir arurkis kanel
+      class: part
+      field: Time and the year
+      gloss: never; at no time
+      concept: never
+      source: {kind: coined}
+      built: [ir, arurkis, kanel]
+    - form: tereme ol kanel
+      class: adj
+      field: Time and the year
+      gloss: long in duration; tereme qualified by time, rather than spatial extent
+      concept: long-duration
+      source: {kind: coined}
+      built: [tereme, ol, kanel]
+    - form: nizele ol kanel
+      class: adj
+      field: Time and the year
+      gloss: short; brief in duration
+      concept: [short-duration, brief-duration]
+      source: {kind: coined}
+      built: [nizele, ol, kanel]
+    - form: urkis kanel
+      class: n
+      field: Time and the year
+      gloss: one occasion; once as a temporal adjunct
+      concept: once
+      source: {kind: coined}
+      built: [urkis, kanel]
+    - form: tavemer kanel
+      class: n
+      field: Time and the year
+      gloss: two occasions; twice as a temporal adjunct
+      concept: twice
+      source: {kind: coined}
+      built: [tavemer, kanel]
+    - form: zolme kanel
+      class: n
+      field: Time and the year
+      gloss: many occasions; repeatedly as a temporal adjunct
+      concept: repeatedly
+      source: {kind: coined}
+      built: [zolme, kanel]
+    - form: pral denkanai
+      class: adv
+      field: Time and the year
+      gloss: already; before now, of an event accomplished by now
+      concept: already
+      source: {kind: coined}
+      built: [pral, denkanai]
+    - form: doranti
+      class: adv
+      field: Time and the year
+      gloss: still; enduringly; continuing as before
+      concept: still
+      source: {kind: coined}
+    - form: fir denkanai
+      class: part
+      field: Time and the year
+      gloss: yet; up to now; with ar, not yet
+      concept: yet
+      source: {kind: coined}
+      built: [fir, denkanai]
+    - form: denar kanel
+      class: n
+      field: Time and the year
+      gloss: a near time; soon as a temporal adjunct
+      concept: soon
+      source: {kind: coined}
+      built: [denar, kanel]
+    - form: etorai
+      class: adv
+      field: Time and the year
+      gloss: later; next in sequence
+      concept: [later, next]
+      source: {kind: coined}
+    - form: pral kanel
+      class: part
+      field: Time and the year
+      gloss: early; before the expected time
+      concept: early
+      source: {kind: coined}
+      built: [pral, kanel]
+    - form: etor kanel
+      class: part
+      field: Time and the year
+      gloss: late; after the expected time
+      concept: late
+      source: {kind: coined}
+      built: [etor, kanel]
+    - form: olimai
+      class: adv
+      field: Time and the year
+      gloss: first; before other events; especially, first in importance
+      concept: [first-sequence, especially]
+      source: {kind: coined}
+    - form: ortemai
+      class: adv
+      field: Time and the year
+      gloss: finally; at the last step
+      concept: finally
+      source: {kind: coined}
+    - form: solten ol tarnela
+      class: n
+      field: Time and the year
+      gloss: a season; a natural division of the year, such as spring, summer, autumn or winter
+      concept: season
+      source: {kind: coined}
+      built: [solten, ol, tarnela]
+    - form: tarnela
+      class: n
+      field: Time and the year
+      gloss: a year
+      concept: year
+      source: {kind: coined}
+    - form: urzandon ol korvatis
+      class: n
+      field: Time and the year
+      gloss: dawn; the rising of the sun, as a time of day
+      concept: dawn
+      source: {kind: coined}
+      built: [urzandon, ol, korvatis]
+    - form: nembandon ol korvatis
+      class: n
+      field: Time and the year
+      gloss: dusk; the falling of the sun, as sunset twilight
+      concept: dusk
+      source: {kind: coined}
+      built: [nembandon, ol, korvatis]
+    - form: ol jo
+      class: part
+      field: Numbers and grammar words
+      gloss: my; mine; of me; follows the possessed noun or ez in the ownership examples
+      concept: my
+      source: {kind: coined}
+      built: [ol, jo]
+    - form: ol cho
+      class: part
+      field: Numbers and grammar words
+      gloss: your; yours; of you, one person
+      concept: your
+      source: {kind: coined}
+      built: [ol, cho]
+    - form: dene
+      class: pron
+      field: Numbers and grammar words
+      gloss: he; this man referred to
+      concept: he
+      source: {kind: coined}
+    - form: ol enoi
+      class: part
+      field: Numbers and grammar words
+      gloss: our; ours; of us
+      concept: our
+      source: {kind: coined}
+      built: [ol, enoi]
+    - form: alatoi
+      class: pron
+      field: Numbers and grammar words
+      gloss: those ones over there
+      concept: those
+      source: {kind: coined}
+    - form: etris vereze
+      class: pron
+      field: Numbers and grammar words
+      gloss: someone; some person
+      concept: someone
+      source: {kind: coined}
+      built: [etris, vereze]
+    - form: veretis
+      class: pron
+      field: Numbers and grammar words
+      gloss: anyone; a person, whichever one
+      concept: anyone
+      source: {kind: coined}
+    - form: zedime vereze
+      class: pron
+      field: Numbers and grammar words
+      gloss: everyone; all people
+      concept: everyone
+      source: {kind: coined}
+      built: [zedime, vereze]
+    - form: arurkis vereze
+      class: pron
+      field: Numbers and grammar words
+      gloss: no one; not one person
+      concept: no-one
+      source: {kind: coined}
+      built: [arurkis, vereze]
+    - form: etris laton
+      class: pron
+      field: Numbers and grammar words
+      gloss: something; an unspecified thing
+      concept: something
+      source: {kind: coined}
+      built: [etris, laton]
+    - form: latetis
+      class: pron
+      field: Numbers and grammar words
+      gloss: anything; a thing, whichever one
+      concept: anything
+      source: {kind: coined}
+    - form: zedime laton
+      class: pron
+      field: Numbers and grammar words
+      gloss: everything; all things
+      concept: everything
+      source: {kind: coined}
+      built: [zedime, laton]
+    - form: vetis
+      class: pron
+      field: Numbers and grammar words
+      gloss: oneself; the reflexive, referring back to the subject of the same utterance
+      concept: self
+      source: {kind: inherited, form: wethis}
+    - form: alete
+      class: adj
+      field: Numbers and grammar words
+      gloss: other; different from the one in question
+      concept: [other, different]
+      source: {kind: coined}
+    - form: alete urkis
+      class: pron
+      field: Numbers and grammar words
+      gloss: another; one other
+      concept: another
+      source: {kind: coined}
+      built: [alete, urkis]
+    - form: rozele urkis
+      class: adj
+      field: Numbers and grammar words
+      gloss: the same; one and identical, rather than merely equal in value
+      concept: same
+      source: {kind: coined}
+      built: [rozele, urkis]
+    - form: eza kedis
+      class: pron
+      field: Numbers and grammar words
+      gloss: who?; which person?; eza opens the question and kedis supplies the questioned person
+      concept: question-who
+      source: {kind: coined}
+      built: [eza, kedis]
+    - form: eza ketis
+      class: pron
+      field: Numbers and grammar words
+      gloss: what?; which thing or action?; eza opens the question and ketis supplies the questioned thing or action
+      concept: [question-what, expression-what]
+      source: {kind: coined}
+      built: [eza, ketis]
+    - form: eza kete
+      class: adj
+      field: Numbers and grammar words
+      gloss: which?; which one of a stated set?
+      concept: question-which
+      source: {kind: coined}
+      built: [eza, kete]
+    - form: eza ir kete sedon
+      class: part
+      field: Numbers and grammar words
+      gloss: where?; in which place?
+      concept: question-where
+      source: {kind: coined}
+      built: [eza, ir, kete, sedon]
+    - form: eza ker
+      class: part
+      field: Numbers and grammar words
+      gloss: when?; at what time?
+      concept: question-when
+      source: {kind: coined}
+      built: [eza, ker]
+    - form: eza oleti ketis
+      class: part
+      field: Numbers and grammar words
+      gloss: why?; because of what?
+      concept: question-why
+      source: {kind: coined}
+      built: [eza, oleti, ketis]
+    - form: eza sa ketis
+      class: part
+      field: Numbers and grammar words
+      gloss: how?; in what manner?
+      concept: question-how
+      source: {kind: coined}
+      built: [eza, sa, ketis]
+    - form: eza kete rozon
+      class: n
+      field: Numbers and grammar words
+      gloss: how many?; what number?; name the counted things with ol after rozon
+      concept: question-how-many
+      source: {kind: coined}
+      built: [eza, kete, rozon]
+    - form: eza kete zolmon
+      class: n
+      field: Numbers and grammar words
+      gloss: how much?; what amount?; name the measured substance with ol after zolmon
+      concept: question-how-much
+      source: {kind: coined}
+      built: [eza, kete, zolmon]
+    - form: eza ol kedis
+      class: part
+      field: Numbers and grammar words
+      gloss: whose?; of whom?
+      concept: question-whose
+      source: {kind: coined}
+      built: [eza, ol, kedis]
+    - form: eza fir kedis
+      class: part
+      field: Numbers and grammar words
+      gloss: to whom?; toward which person?
+      concept: question-to-whom
+      source: {kind: coined}
+      built: [eza, fir, kedis]
+    - form: eza fos kete sedon
+      class: part
+      field: Numbers and grammar words
+      gloss: from where?; out of which place?
+      concept: question-from-where
+      source: {kind: coined}
+      built: [eza, fos, kete, sedon]
+    - form: eza fa ketis
+      class: part
+      field: Numbers and grammar words
+      gloss: for what purpose?; for what end?
+      concept: question-for-what-purpose
+      source: {kind: coined}
+      built: [eza, fa, ketis]
+    - form: eza cho dokate ketis
+      class: call
+      field: Numbers and grammar words
+      gloss: what do you mean?; what are you saying?; an ordinary request to clarify the other speaker's words
+      concept: [question-clarification, expression-what-do-you-mean]
+      source: {kind: coined}
+      built: [eza, cho, dokate, ketis]
+    - form: telvare
+      class: adj
+      field: Qualities
+      gloss: high; elevated in physical position
+      concept: high
+      source: {kind: inherited, form: thelwaros}
+    - form: zele
+      class: adj
+      field: Qualities
+      gloss: low; near the ground or lower limit
+      concept: low
+      source: {kind: coined}
+    - form: prasedon
+      class: n
+      field: Qualities
+      gloss: the front; the place in front
+      source: {kind: coined}
+    - form: anprasedon
+      class: n
+      field: Qualities
+      gloss: the rear; the place behind
+      source: {kind: coined}
+    - form: teredon
+      class: n
+      field: Qualities
+      gloss: length; spatial extent
+      source: {kind: coined}
+    - form: solten
+      class: n
+      field: Qualities
+      gloss: a part; one portion of a larger whole
+      concept: part
+      source: {kind: coined}
+    - form: urzandon
+      class: n
+      field: Qualities
+      gloss: rising; the movement upward
+      source: {kind: coined}
+    - form: vereze
+      class: n
+      field: The city and its standing
+      gloss: a person; a human being
+      concept: [person, human]
+      source: {kind: coined}
+    - form: laton
+      class: n
+      field: Qualities
+      gloss: a thing; an object or matter referred to
+      concept: thing
+      source: {kind: coined}
+    - form: ketis
+      class: pron
+      field: Numbers and grammar words
+      gloss: what; an interrogative reference to a thing or action
+      source: {kind: coined}
+    - form: kete
+      class: adj
+      field: Qualities
+      gloss: which; an interrogative selection from a set
+      source: {kind: coined}
+    - form: oleti
+      class: part
+      field: Numbers and grammar words
+      gloss: because; introducing a reason
+      concept: because
+      source: {kind: coined}
+    - form: ez varelin
+      class: call
+      field: Learning and the academies
+      gloss: yes; it is true; an affirmative answer to the preceding question
+      concept: yes
+      source: {kind: coined}
+      built: [ez, varelin]
+    - form: ar ez
+      class: call
+      field: Learning and the academies
+      gloss: no; it is not so; a negative answer to the preceding question
+      concept: no
+      source: {kind: coined}
+      built: [ar, ez]
+    - form: setre
+      class: adj
+      field: Qualities
+      gloss: false; not true
+      concept: "false"
+      source: {kind: coined}
+    - form: setdokandon
+      class: n
+      field: Qualities
+      gloss: a lie; a statement made with intent to deceive
+      concept: lie-noun
+      source: {kind: coined}
+    - form: varlai ez
+      class: call
+      field: Learning and the academies
+      gloss: indeed; it truly is so; a complete emphatic assertion, not a question
+      concept: indeed
+      source: {kind: coined}
+      built: [varlai, ez]
+    - form: zikarati
+      class: adv
+      field: Qualities
+      gloss: probably; more likely than not
+      concept: probably
+      source: {kind: coined}
+    - form: ar zikarati
+      class: adv
+      field: Qualities
+      gloss: unlikely; probably not
+      concept: unlikely
+      source: {kind: coined}
+      built: [ar, zikarati]
+    - form: varelme
+      class: adj
+      field: Qualities
+      gloss: certain; convinced that something is so, whether or not the conviction is true
+      concept: certain
+      source: {kind: coined}
+    - form: anvarelme
+      class: adj
+      field: Qualities
+      gloss: uncertain; not convinced
+      concept: uncertain
+      source: {kind: coined}
+    - form: sa okandon
+      class: part
+      field: Qualities
+      gloss: apparently; as it appears, without asserting that the appearance is true
+      concept: apparently
+      source: {kind: coined}
+      built: [sa, okandon]
+    - form: sa cho dokate
+      class: part
+      field: Qualities
+      gloss: supposedly; according to what you say; introducing a reported claim the speaker does not verify; replace cho with the reporter
+      concept: supposedly
+      source: {kind: coined}
+      built: [sa, cho, dokate]
+    - form: ir varelza
+      class: part
+      field: Qualities
+      gloss: in fact; in truth; used for a factual corrective assertion
+      concept: in-fact
+      source: {kind: coined}
+      built: [ir, varelza]
+    - form: tavemvarelate
+      class: v
+      field: Doing, going and being
+      gloss: to doubt; to be divided in belief
+      concept: doubt-verb
+      source: {kind: coined}
+    - form: zikai varelate
+      class: v
+      field: Doing, going and being
+      gloss: to suspect; to believe that something may be so
+      concept: suspect
+      source: {kind: coined}
+      built: [zikai, varelate]
+    - form: dokate talv ar chesdande
+      class: v
+      field: Doing, going and being
+      gloss: to guess; to offer a tentative answer without knowing; with no knowledge in this particular answer-giving expression
+      concept: guess-verb
+      source: {kind: coined}
+      built: [dokate, talv, ar, chesdande]
+    - form: lendate varelon
+      class: v
+      field: Doing, going and being
+      gloss: to assume; to set something down as a belief or premise without claiming proof
+      concept: assume-verb
+      source: {kind: coined}
+      built: [lendate, varelon]
+    - form: nasdele
+      class: adj
+      field: Qualities
+      gloss: correct; conforming to the relevant truth or standard
+      concept: correct
+      source: {kind: coined}
+    - form: annasdele
+      class: adj
+      field: Qualities
+      gloss: incorrect; not conforming to the relevant truth or standard
+      concept: incorrect
+      source: {kind: coined}
+    - form: aletevarelate
+      class: v
+      field: Doing, going and being
+      gloss: to disagree; to hold a different judgment from someone
+      concept: disagree
+      source: {kind: coined}
+    - form: setdochemon
+      class: n
+      field: Qualities
+      gloss: a falsehood; an untrue assertion, whether mistaken or deceptive
+      concept: falsehood
+      source: {kind: coined}
+    - form: ul ar
+      class: conj
+      field: Numbers and grammar words
+      gloss: nor; and not; ar directly precedes the following negated predicate
+      concept: nor
+      source: {kind: coined}
+      built: [ul, ar]
+    - form: fa denon
+      class: part
+      field: Numbers and grammar words
+      gloss: therefore; for this reason; the previous proposition supplies the reason referred to by denon
+      concept: therefore
+      source: {kind: coined}
+      built: [fa, denon]
+    - form: ta
+      class: part
+      field: Numbers and grammar words
+      gloss: then, in a condition and consequence; so that, in a purpose clause; used in the concrete paired clauses given here
+      concept: [then-conditional, for-purpose]
+      source: {kind: coined}
+    - form: zai ar
+      class: conj
+      field: Numbers and grammar words
+      gloss: unless; if not; ar negates the condition, and the consequence holds when that condition is false
+      concept: unless
+      source: {kind: coined}
+      built: [zai, ar]
+    - form: zai denon ar ez ta jo tigate
+      class: call
+      field: Numbers and grammar words
+      gloss: otherwise I go; if this is not so, then I go; the preceding proposition supplies this, and jo tigate is the replaceable consequence
+      concept: otherwise
+      source: {kind: coined}
+      built: [zai, denon, ar, ez, ta, jo, tigate]
+    - form: narti
+      class: conj
+      field: Numbers and grammar words
+      gloss: although; even given that
+      concept: although
+      source: {kind: coined}
+    - form: nartai
+      class: adv
+      field: Numbers and grammar words
+      gloss: however; nevertheless; despite what was just said
+      concept: [however, nevertheless]
+      source: {kind: coined}
+    - form: nartir
+      class: part
+      field: Numbers and grammar words
+      gloss: despite; in spite of
+      concept: despite
+      source: {kind: coined}
+    - form: aletai
+      class: adv
+      field: Numbers and grammar words
+      gloss: instead; in place of the previously named alternative
+      concept: instead
+      source: {kind: coined}
+    - form: ar sa
+      class: part
+      field: Numbers and grammar words
+      gloss: unlike; not like; the comparison object follows sa
+      concept: unlike
+      source: {kind: coined}
+      built: [ar, sa]
+    - form: ves jo tigate ves jo sistete
+      class: conj
+      field: Numbers and grammar words
+      gloss: either I go or I wait; the paired ves clauses state open alternatives; replace the two complete clauses with the actual alternatives
+      concept: either-alternative
+      source: {kind: coined}
+      built: [ves, jo, tigate, sistete]
+    - form: jo ar tigate ul jo ar sistete
+      class: conj
+      field: Numbers and grammar words
+      gloss: neither do I go nor do I wait; both stated alternatives are negated; replace the complete clauses as needed
+      concept: neither-alternative
+      source: {kind: coined}
+      built: [jo, ar, tigate, ul, sistete]
+    - form: ul jo tigate ul cho lokate
+      class: conj
+      field: Numbers and grammar words
+      gloss: both I go and you come; both complete clauses are affirmed
+      concept: both-conjunction
+      source: {kind: coined}
+      built: [ul, jo, tigate, cho, lokate]
+    - form: zai dene lokate ves dene ar lokate
+      class: conj
+      field: Numbers and grammar words
+      gloss: whether he comes or does not come; states both open alternatives; replace the repeated predicate for another open question
+      concept: whether
+      source: {kind: coined}
+      built: [zai, dene, lokate, ves, ar]
+    - form: denon ez
+      class: part
+      field: Numbers and grammar words
+      gloss: that is; this means; introduces an explanatory restatement
+      concept: that-is
+      source: {kind: coined}
+      built: [denon, ez]
+    - form: dokate arlen
+      class: part
+      field: Numbers and grammar words
+      gloss: namely; to say its name; introduces an exact identification
+      concept: namely
+      source: {kind: coined}
+      built: [dokate, arlen]
+    - form: sa denon
+      class: part
+      field: Numbers and grammar words
+      gloss: for example; as this instance; introduces an example
+      concept: for-example
+      source: {kind: coined}
+      built: [sa, denon]
+    - form: fos denon
+      class: part
+      field: Numbers and grammar words
+      gloss: except this; with this left outside the set; replace denon with the excluded member
+      concept: except
+      source: {kind: coined}
+      built: [fos, denon]
+    - form: urtai
+      class: adv
+      field: Numbers and grammar words
+      gloss: only; solely; with all alternatives excluded
+      concept: only
+      source: {kind: coined}
+    - form: zetar
+      class: adv
+      field: Numbers and grammar words
+      gloss: even; includes an unexpected or extreme instance
+      concept: even
+      source: {kind: coined}
+    - form: talv denon
+      class: part
+      field: Numbers and grammar words
+      gloss: also; together with this; adds an item or proposition to the preceding one
+      concept: also
+      source: {kind: coined}
+      built: [talv, denon]
+    - form: soltere
+      class: adj
+      field: Qualities
+      gloss: large; big
+      concept: big
+      source: {kind: coined}
+    - form: melvarati nizele
+      class: adj
+      field: Qualities
+      gloss: tiny; very small in absolute size
+      concept: tiny
+      source: {kind: coined}
+      built: [melvarati, nizele]
+    - form: melvarati soltere
+      class: adj
+      field: Qualities
+      gloss: huge; very large in absolute size
+      concept: huge
+      source: {kind: coined}
+      built: [melvarati, soltere]
+    - form: nizare
+      class: adj
+      field: Qualities
+      gloss: short in length
+      concept: short
+      source: {kind: coined}
+    - form: taltere
+      class: adj
+      field: Qualities
+      gloss: tall; of great height
+      concept: tall
+      source: {kind: coined}
+    - form: dalme
+      class: adj
+      field: Qualities
+      gloss: wide; broad from side to side
+      concept: wide
+      source: {kind: coined}
+    - form: andalme
+      class: adj
+      field: Qualities
+      gloss: narrow; of small width
+      concept: narrow
+      source: {kind: coined}
+    - form: ansolvime
+      class: adj
+      field: Qualities
+      gloss: light in weight
+      concept: light-weight
+      source: {kind: coined}
+    - form: pelere
+      class: adj
+      field: Qualities
+      gloss: new
+      concept: new
+      source: {kind: coined}
+    - form: ralve
+      class: adj
+      field: Qualities
+      gloss: fast; moving or happening quickly
+      concept: fast
+      source: {kind: coined}
+    - form: anralve
+      class: adj
+      field: Qualities
+      gloss: slow; moving or happening at a low speed
+      concept: slow
+      source: {kind: coined}
+    - form: dunele
+      class: adj
+      field: Qualities
+      gloss: easy; requiring little effort
+      concept: easy
+      source: {kind: coined}
+    - form: andunele
+      class: adj
+      field: Qualities
+      gloss: difficult; requiring much effort
+      concept: difficult
+      source: {kind: coined}
+    - form: dajaze
+      class: adj
+      field: Qualities
+      gloss: better; more good
+      concept: better
+      source: {kind: coined}
+    - form: koretaze
+      class: adj
+      field: Qualities
+      gloss: worse; more bad
+      concept: worse
+      source: {kind: coined}
+    - form: dajimmon
+      class: adj
+      field: Qualities
+      gloss: the best; greatest in goodness in the comparison being made
+      concept: best
+      source: {kind: coined}
+    - form: koretimme
+      class: adj
+      field: Qualities
+      gloss: worst; most bad in the comparison being made
+      concept: worst
+      source: {kind: coined}
+    - form: solvime ol jerval
+      class: adj
+      field: Qualities
+      gloss: important; weighty in what is owed or at stake
+      concept: important
+      source: {kind: coined}
+      built: [solvime, ol, jerval]
+    - form: nizele ol jerval
+      class: adj
+      field: Qualities
+      gloss: trivial; small in consequence or importance
+      concept: trivial
+      source: {kind: coined}
+      built: [nizele, ol, jerval]
+    - form: jerpele
+      class: adj
+      field: Qualities
+      gloss: required; necessary; needed for an act or purpose
+      concept: [necessary, required]
+      source: {kind: coined}
+    - form: talv melvar verdavis
+      class: part
+      field: Qualities
+      gloss: valuable; with substantial price or worth
+      concept: valuable
+      source: {kind: coined}
+      built: [talv, melvar, verdavis]
+    - form: talv ar verdavis
+      class: part
+      field: Qualities
+      gloss: worthless; with no worth at all, rather than merely a low price; the conventional no-worth sense of this phrase
+      concept: worthless
+      source: {kind: coined}
+      built: [talv, ar, verdavis]
+    - form: ar zumbrandar
+      class: adj
+      field: Qualities
+      gloss: useless; not helping a purpose
+      concept: useless
+      source: {kind: coined}
+      built: [ar, zumbrandar]
+    - form: kermete
+      class: adj
+      field: Qualities
+      gloss: broken; damaged by breaking
+      concept: broken
+      source: {kind: coined}
+    - form: anzedime
+      class: adj
+      field: Qualities
+      gloss: incomplete; not whole
+      concept: incomplete
+      source: {kind: coined}
+    - form: varelte
+      class: adj
+      field: Qualities
+      gloss: honest; sincere and truthful in intention
+      concept: honest
+      source: {kind: coined}
+    - form: anvarelte
+      class: adj
+      field: Qualities
+      gloss: dishonest; intentionally untruthful
+      concept: dishonest
+      source: {kind: coined}
+    - form: melvarati
+      class: adv
+      field: Qualities
+      gloss: very; greatly
+      concept: very
+      source: {kind: coined}
+    - form: etris zolmon
+      class: n
+      field: Qualities
+      gloss: some amount or extent; somewhat in its degree use
+      concept: somewhat
+      source: {kind: coined}
+      built: [etris, zolmon]
+    - form: satai nizelai
+      class: adv
+      field: Qualities
+      gloss: barely; sufficiently by only a small margin
+      concept: barely
+      source: {kind: coined}
+      built: [satai, nizelai]
+    - form: mazeron mazer sate
+      class: adv
+      field: Qualities
+      gloss: too much; more than enough
+      concept: too-much
+      source: {kind: coined}
+      built: [mazeron, mazer, sate]
+    - form: nizeron mazer sate
+      class: adv
+      field: Qualities
+      gloss: too little; less than enough
+      concept: too-little
+      source: {kind: coined}
+      built: [nizeron, mazer, sate]
+    - form: rozele sa
+      class: adj
+      field: Qualities
+      gloss: similar; equal in some respect to; the compared thing follows sa, with the relevant respect given by context
+      concept: similar
+      source: {kind: coined}
+      built: [rozele, sa]
+    - form: anrozele
+      class: adj
+      field: Qualities
+      gloss: opposite; reversed in position, direction or character
+      concept: opposite
+      source: {kind: coined}
+    - form: ar dunate
+      class: v
+      field: Doing, going and being
+      gloss: to be unable; cannot perform an action; the action follows dunate in the concrete examples
+      concept: cannot
+      source: {kind: coined}
+      built: [ar, dunate]
+    - form: dunare
+      class: adj
+      field: Qualities
+      gloss: possible; able to occur
+      concept: possible
+      source: {kind: coined}
+    - form: andunare
+      class: adj
+      field: Qualities
+      gloss: impossible; unable to occur
+      concept: impossible
+      source: {kind: coined}
+    - form: jestare ul ar jerpele
+      class: adj
+      field: Qualities
+      gloss: optional; permitted and not required; an actual prohibition is not optional
+      concept: optional
+      source: {kind: coined}
+      built: [jestare, ul, ar, jerpele]
+    - form: jestare
+      class: adj
+      field: Qualities
+      gloss: within one's right; lawful; permitted, of an act or claim
+      concept: allowed
+      source: {kind: coined}
+    - form: ar jestare
+      class: adj
+      field: Qualities
+      gloss: forbidden; under an actual prohibition, not merely lacking an express grant of permission; the conventional prohibitive sense of this phrase
+      concept: forbidden
+      source: {kind: coined}
+      built: [ar, jestare]
+    - form: anrevote
+      class: adj
+      field: Qualities
+      gloss: constrained; not free to act
+      concept: constrained
+      source: {kind: coined}
+    - form: ar avandar
+      class: adj
+      field: Qualities
+      gloss: unwilling; not wanting to do the proposed act
+      concept: unwilling
+      source: {kind: coined}
+      built: [ar, avandar]
+    - form: avrene
+      class: adj
+      field: Qualities
+      gloss: intended; deliberately wanted as an outcome or act
+      concept: intended
+      source: {kind: coined}
+    - form: anavrene
+      class: adj
+      field: Qualities
+      gloss: accidental; unintentional; not deliberately brought about
+      concept: accidental
+      source: {kind: coined}
+    - form: satai
+      class: adv
+      field: Qualities
+      gloss: sufficiently; enough for the purpose
+      source: {kind: coined}
+    - form: jestate
+      class: v
+      field: Doing, going and being
+      gloss: to have permission; to be permitted to perform the action that follows; permission does not assert ability
+      concept: may-permission
+      source: {kind: coined}
+    - form: zikai dunate tambirete
+      class: v
+      field: Doing, going and being
+      gloss: might happen; may possibly occur; zikai marks uncertainty about an event's ability to occur, not permission to act
+      concept: might-possibility
+      source: {kind: coined}
+      built: [zikai, dunate, tambirete]
+    - form: jervete
+      class: v
+      field: Doing, going and being
+      gloss: to be obliged; to have an obligation to perform the action that follows
+      concept: must
+      source: {kind: coined}
+    - form: jervete ar tigate
+      class: v
+      field: Doing, going and being
+      gloss: must not go; be obliged not to go; ar negates the following action, not the obligation; replace tigate with the prohibited action
+      concept: must-not
+      source: {kind: coined}
+      built: [jervete, ar, tigate]
+    - form: dajvete
+      class: v
+      field: Doing, going and being
+      gloss: ought to act; to be well advised to perform the action that follows, without compulsion
+      concept: ought
+      source: {kind: coined}
+    - form: jesterate
+      class: v
+      field: Doing, going and being
+      gloss: to grant someone permission for the act under discussion; the permitted person is the direct object
+      concept: permit
+      source: {kind: coined}
+    - form: anjesterate
+      class: v
+      field: Doing, going and being
+      gloss: to forbid someone the act under discussion; the prohibited person is the direct object
+      concept: prohibit
+      source: {kind: coined}
+    - form: Brave jhorne, genthe korthe; que la preja soie talv vei
+      class: call
+      field: Learning and the academies
+      gloss: "hello; the traditional formal greeting: good day, noble companion; may peace be with you; used as a whole established formula"
+      concept: hello
+    - form: preja talv cho
+      class: call
+      field: Learning and the academies
+      gloss: goodbye; peace with you; an ordinary farewell wish
+      concept: goodbye
+      source: {kind: coined}
+      built: [preja, talv, cho]
+    - form: cho ez dumvar
+      class: call
+      field: Learning and the academies
+      gloss: welcome; you are a guest under this roof; a host's offer of guest-right at the door
+      concept: expression-welcome
+      source: {kind: coined}
+      built: [cho, ez, dumvar]
+    - form: jo avete orfenon
+      class: call
+      field: Learning and the academies
+      gloss: please; I ask a kindness; a courteous preface to the particular request
+      concept: expression-please
+      source: {kind: coined}
+      built: [jo, avete, orfenon]
+    - form: jo memrate orfenon ol cho
+      class: call
+      field: Learning and the academies
+      gloss: thank you; I gratefully acknowledge your kindness; ol cho names the person whose kindness is acknowledged
+      concept: expression-thank-you
+      source: {kind: coined}
+      built: [jo, memrate, orfenon, ol, cho]
+    - form: cho ar orfeate
+      class: call
+      field: Learning and the academies
+      gloss: you are welcome; you owe no favor; a response to thanks, without turning the favor into a debt in money
+      concept: expression-youre-welcome
+      source: {kind: coined}
+      built: [cho, ar, orfeate]
+    - form: cho linkate jo
+      class: call
+      field: Learning and the academies
+      gloss: excuse me; let me be or let me pass; a courteous interruption or request for room
+      concept: expression-excuse-me
+      source: {kind: coined}
+      built: [cho, linkate, jo]
+    - form: jo taurate antambeza
+      class: call
+      field: Learning and the academies
+      gloss: I am sorry; I hold regret for what happened; expresses emotional regret, not bodily pain
+      concept: expression-sorry
+      source: {kind: coined}
+      built: [jo, taurate, antambeza]
+    - form: cho anorfenate jo
+      class: call
+      field: Learning and the academies
+      gloss: forgive me; a plea addressed to the person asked to forgive the speaker
+      concept: expression-forgive-me
+      source: {kind: coined}
+      built: [cho, anorfenate, jo]
+    - form: ez varelin varlai
+      class: call
+      field: Learning and the academies
+      gloss: of course; it is indeed so; emphatic confirmation
+      concept: of-course
+      source: {kind: coined}
+      built: [ez, varelin, varlai]
+    - form: cho tavrelate
+      class: call
+      field: Learning and the academies
+      gloss: listen!; a fixed call for the addressee's attention to sound
+      concept: expression-listen
+      source: {kind: coined}
+      built: [cho, tavrelate]
+    - form: cho silvate
+      class: call
+      field: Learning and the academies
+      gloss: look!; a fixed call directing the addressee's gaze
+      concept: expression-look
+      source: {kind: coined}
+      built: [cho, silvate]
+    - form: cho sistete
+      class: call
+      field: Learning and the academies
+      gloss: wait!; a fixed request for the addressee to wait
+      concept: expression-wait
+      source: {kind: coined}
+      built: [cho, sistete]
+    - form: cho lokate fir de sedon
+      class: call
+      field: Learning and the academies
+      gloss: come here!; a fixed request to come to this place by the speaker
+      concept: expression-come-here
+      source: {kind: coined}
+      built: [cho, lokate, fir, de, sedon]
+    - form: cho tigate fos de sedon
+      class: call
+      field: Learning and the academies
+      gloss: go away!; a fixed request to go out from this place
+      concept: expression-go-away
+      source: {kind: coined}
+      built: [cho, tigate, fos, de, sedon]
+    - form: cho zumbrate jo
+      class: call
+      field: Learning and the academies
+      gloss: help!; a fixed plea for the addressee to help the speaker
+      concept: expression-help
+      source: {kind: coined}
+      built: [cho, zumbrate, jo]
+    - form: cho sistate
+      class: call
+      field: Learning and the academies
+      gloss: stop!; a fixed call for the addressee to stop the current action
+      concept: expression-stop
+      source: {kind: coined}
+      built: [cho, sistate]
+    - form: cho dokate antigai
+      class: call
+      field: Learning and the academies
+      gloss: pardon?; please say that again; a request to repeat the previous words
+      concept: expression-pardon
+      source: {kind: coined}
+      built: [cho, dokate, antigai]
+    - form: jo lambirete
+      class: call
+      field: Learning and the academies
+      gloss: I understand
+      concept: expression-i-understand
+      source: {kind: coined}
+      built: [jo, lambirete]
+    - form: jo ar lambirete
+      class: call
+      field: Learning and the academies
+      gloss: I do not understand
+      concept: expression-i-do-not-understand
+      source: {kind: coined}
+      built: [jo, ar, lambirete]
+    - form: eza cho dokate denon sa ketis
+      class: call
+      field: Learning and the academies
+      gloss: how do you say this?; in what manner do you say it?; denon refers to the expression being asked about
+      concept: expression-how-do-you-say
+      source: {kind: coined}
+      built: [eza, cho, dokate, denon, sa, ketis]
+    - form: eza arlen ol denon ez ketis
+      class: call
+      field: Learning and the academies
+      gloss: what is this called?; what is the name of this?; denon refers to the thing being named
+      concept: expression-what-is-this-called
+      source: {kind: coined}
+      built: [eza, arlen, ol, denon, ez, ketis]
+    - form: eza varlai
+      class: call
+      field: Learning and the academies
+      gloss: really?; requesting confirmation, expressing surprise, or ironic doubt about the preceding claim
+      concept: expression-really
+      source: {kind: coined}
+      built: [eza, varlai]
+    - form: ar urkis
+      class: call
+      field: Learning and the academies
+      gloss: not at all; not even one degree; an emphatic negative answer
+      concept: expression-not-at-all
+      source: {kind: coined}
+      built: [ar, urkis]
+    - form: orvene
+      class: n
+      field: The city and its standing
+      gloss: a man; an adult male person
+      concept: man
+      source: {kind: coined}
+    - form: nureton
+      class: n
+      field: The city and its standing
+      gloss: a boy; a male child
+      concept: boy
+      source: {kind: coined}
+    - form: nurezon
+      class: n
+      field: The city and its standing
+      gloss: a girl; a female child
+      concept: girl
+      source: {kind: coined}
+    - form: vereze ar nurizele
+      class: n
+      field: The city and its standing
+      gloss: an adult; a mature person; no longer in the immature stage described by nurizele
+      concept: adult
+      source: {kind: coined}
+      built: [vereze, ar, nurizele]
+    - form: vereze ankele
+      class: n
+      field: The city and its standing
+      gloss: an elder; an old person, without implying a council office
+      concept: elder
+      source: {kind: coined}
+      built: [vereze, ankele]
+    - form: urkis vereze
+      class: n
+      field: The city and its standing
+      gloss: an individual; one person considered separately
+      concept: individual
+      source: {kind: coined}
+      built: [urkis, vereze]
+    - form: konalon
+      class: n
+      field: The city and its standing
+      gloss: a group; an associated body of people or things
+      concept: group
+      source: {kind: coined}
+    - form: verezalon
+      class: n
+      field: The city and its standing
+      gloss: a crowd; a gathered mass of people
+      concept: crowd
+      source: {kind: coined}
+    - form: sortalon
+      class: n
+      field: The city and its standing
+      gloss: a clan; a kin group tracing common descent
+      concept: clan
+      source: {kind: coined}
+    - form: konalon ol zolme sortalon
+      class: n
+      field: The city and its standing
+      gloss: a tribe; an associated group of clans; zolme sortalon names the multiple clans in the association
+      concept: tribe
+      source: {kind: coined}
+      built: [konalon, ol, zolme, sortalon]
+    - form: sedkonalon
+      class: n
+      field: The city and its standing
+      gloss: a community; people sharing a place or way of life
+      concept: community
+      source: {kind: coined}
+    - form: palmeze
+      class: n
+      field: The city and its standing
+      gloss: an artisan; a person skilled in a craft
+      concept: artisan
+      source: {kind: coined}
+    - form: zirotarlen
+      class: n
+      field: The city and its standing
+      gloss: a title; a name of rank or office
+      concept: title
+      source: {kind: coined}
+    - form: zirote
+      class: n
+      field: The city and its standing
+      gloss: a step of rank; one rung of the order
+      concept: rank
+      source: {kind: coined}
+    - form: zesima ankele
+      class: n f
+      field: The city and its standing
+      gloss: a tradition; an old inherited custom
+      concept: tradition
+      source: {kind: coined}
+      built: [zesima, ankele]
+    - form: fente
+      class: n
+      field: The city and its standing
+      gloss: a rule; a stated standard governing conduct
+      concept: rule
+      source: {kind: coined}
+    - form: ziromon
+      class: n
+      field: The city and its standing
+      gloss: order; an arrangement of things or events
+      concept: order-noun
+      source: {kind: coined}
+    - form: orzandon
+      class: n
+      field: The city and its standing
+      gloss: a command; an act of directing someone
+      concept: command-noun
+      source: {kind: coined}
+    - form: solkandon ol orzandon
+      class: n
+      field: The city and its standing
+      gloss: obedience; following a command
+      concept: obedience
+      source: {kind: coined}
+      built: [solkandon, ol, orzandon]
+    - form: jestvelda
+      class: n
+      field: The city and its standing
+      gloss: justice; fair regard for each person's rights and due
+      concept: justice
+      source: {kind: coined}
+    - form: anjestvelda
+      class: n
+      field: The city and its standing
+      gloss: injustice; denial of a person's rights or due
+      concept: injustice
+      source: {kind: coined}
+    - form: daje ol jerval
+      class: adj
+      field: The city and its standing
+      gloss: right; morally good or acceptable; distinct from correct or right-hand direction
+      concept: right-ethical
+      source: {kind: coined}
+      built: [daje, ol, jerval]
+    - form: korete ol jerval
+      class: adj
+      field: The city and its standing
+      gloss: wrong; morally bad or unacceptable; not merely unlawful
+      concept: wrong-ethical
+      source: {kind: coined}
+      built: [korete, ol, jerval]
+    - form: revoton
+      class: n
+      field: The city and its standing
+      gloss: freedom; the condition of being free
+      concept: freedom
+      source: {kind: coined}
+    - form: anrevoton
+      class: n
+      field: The city and its standing
+      gloss: captivity; the condition of being held and not free to leave
+      concept: captivity
+      source: {kind: coined}
+    - form: daimandon
+      class: n
+      field: The city and its standing
+      gloss: a gift; something given
+      concept: gift
+      source: {kind: coined}
+    - form: delandon
+      class: n
+      field: The city and its standing
+      gloss: an exchange; a trading of one thing for another
+      concept: exchange-noun
+      source: {kind: coined}
+    - form: zolme frenche
+      class: n m
+      field: The city and its standing
+      gloss: wealth; a great amount of property or means
+      concept: wealth
+      source: {kind: coined}
+      built: [zolme, frenche]
+    - form: itre frenche
+      class: n m
+      field: The city and its standing
+      gloss: poverty; little property or means, in the conventional sense of lacking enough to live on
+      concept: poverty
+      source: {kind: coined}
+      built: [itre, frenche]
+    - form: kerandon ol frenche
+      class: n
+      field: The city and its standing
+      gloss: ownership; the holding of property as one's own, rather than temporary physical possession
+      concept: ownership
+      source: {kind: coined}
+      built: [kerandon, ol, frenche]
+    - form: laton kelterete
+      class: n
+      field: The city and its standing
+      gloss: a secret; a matter kept hidden; general concealed information, rather than only secrecy in love
+      concept: secret
+      source: {kind: coined}
+      built: [laton, kelterete]
+    - form: jarelon
+      class: n
+      field: Qualities
+      gloss: a being; an entity that exists
+      concept: being
+      source: {kind: coined}
+    - form: lintima ol laton
+      class: n
+      field: Qualities
+      gloss: an origin; the source from which a thing comes; replace laton with the thing whose origin is named
+      concept: origin
+      source: {kind: coined}
+      built: [lintima, ol, laton]
+    - form: olimandon
+      class: n
+      field: Qualities
+      gloss: a beginning; the start of an event or thing
+      concept: beginning
+      source: {kind: coined}
+    - form: ortemandon
+      class: n
+      field: Qualities
+      gloss: an end; the stopping point of an event or thing
+      concept: end-noun
+      source: {kind: coined}
+    - form: zedimandon
+      class: n
+      field: Qualities
+      gloss: completion; the state of an act being wholly done
+      concept: completion
+      source: {kind: coined}
+    - form: pelzandon
+      class: n
+      field: Qualities
+      gloss: a change; an alteration of state or form
+      concept: change-noun
+      source: {kind: coined}
+    - form: pelzandon ol jentamis
+      class: n
+      field: Qualities
+      gloss: a transformation; a change of form or appearance; the conventional whole-phrase sense of change of face
+      concept: transformation
+      source: {kind: coined}
+      built: [pelzandon, ol, jentamis]
+    - form: oleton
+      class: n
+      field: Qualities
+      gloss: a cause; what brings about an event or state
+      concept: cause
+      source: {kind: coined}
+    - form: tamba ol oleton
+      class: n m
+      field: Qualities
+      gloss: an effect; what is brought about by a cause, whether a physical result or a state; the conventional result sense of work of a cause
+      concept: effect
+      source: {kind: coined}
+      built: [tamba, ol, oleton]
+    - form: zenoton
+      class: n
+      field: Qualities
+      gloss: a reason; an explanation or ground for a judgment
+      concept: reason
+      source: {kind: coined}
+    - form: tambavon
+      class: n
+      field: Qualities
+      gloss: a purpose; the intended end of an action
+      concept: purpose
+      source: {kind: coined}
+    - form: laten
+      class: n
+      field: Qualities
+      gloss: a kind; a class of things sharing a nature
+      concept: kind
+      source: {kind: coined}
+    - form: jarele
+      class: adj
+      field: Qualities
+      gloss: real; existing in fact
+      concept: real
+      source: {kind: coined}
+    - form: anjarele
+      class: adj
+      field: Qualities
+      gloss: unreal; not existing in fact
+      concept: unreal
+      source: {kind: coined}
+    - form: nurele
+      class: adj
+      field: Qualities
+      gloss: natural; arising through the ordinary growth or workings of the world
+      concept: natural
+      source: {kind: coined}
+    - form: annurele
+      class: adj
+      field: Qualities
+      gloss: unnatural; contrary to the ordinary growth or workings of the world
+      concept: unnatural
+      source: {kind: coined}
+    - form: solkandon
+      class: n
+      field: Qualities
+      gloss: following; the act of following someone or something
+      source: {kind: coined}
+    - form: kelterete
+      class: adj
+      field: Qualities
+      gloss: hidden; kept from view or knowledge
+      source: {kind: coined}
+    - form: lintima
+      class: n
+      field: Qualities
+      gloss: a spring; a source
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -2126,11 +6482,83 @@ Provenzal is marked by a high proportion of sonorant consonants and open vowel p
 
 ## Grammar Notes
 
-**Word Order:** Provenzal employs a more flexible Subject-Verb-Object (SVO) word order than Vylari, allowing poetic inversion for effect. Object pronouns frequently precede verbs, creating a flowing, musical clause structure. This flexibility makes Provenzal ideal for poetry and song.
+**Word Order:** Provenzal employs a flexible Subject-Verb-Object (SVO) word order, allowing poetic inversion for effect. Object pronouns frequently precede verbs, creating a flowing, musical clause structure. This flexibility makes Provenzal ideal for poetry and song.
 
 **Gender:** Provenzal maintains two primary genders (masculine and feminine) marked through article and adjective agreement. Neuter nouns have been largely absorbed into one of the primary genders over centuries of change. The gender system is somewhat irregular, reflecting the language's mixed heritage.
 
 **Articles and Definiteness:** Provenzal employs a complex system of articles reflecting not just definiteness but also closeness to speaker (near/far/neutral distinctions). Some dialects employ four-way distinctions; others reduce this to two.
+
+## Everyday expressions
+
+_Jo okete korvatis_ means “I see the sun”; _jo tavete dokela_, “I hear a voice”; and _jo taurate ulmera_, “I keep water”. These concrete spoken utterances put the speaker first, then the action and its object. The copula in ordinary speech is _ez_: _jo ez revote_ means “I am free”. The poetic _en_ keeps its place in the songs below.
+
+_Jo neltate neltis_ means “I smell a scent”; _jo tirmate tirmis_, “I taste a flavour”; _jo tolvate dechaze_, “I touch a hand”; and _jo zarvete zarvandon_, “I feel a bodily sensation”. _Jo silvate korvatis_ directs my gaze toward the sun; _jo silvarete korvatis_ watches it attentively. _De lizela ez talv daje neltis_ describes this flower as fragrant, with a pleasant scent. With _korete_ in place of _daje_, the scent is unpleasant. _De lizela demate daje okandon_ means “This flower seems good”, giving a good appearance rather than guaranteeing its quality.
+
+In _jo taurate kremila_, “I feel anger”, the speaker keeps anger within; _jo taurate jaleza_ similarly expresses joy. These are particular ordinary feeling expressions. _Zarvete_ gives bodily sensation, while _taurate_ in these utterances names the feeling one harbors. _Vedamolis_ names felt guilt over one's own wrongdoing; the old _damolis_ keeps its place in the language of judgment.
+
+_Netoron_ is romantic love, _ansevela_ affectionate friendship, _soreton_ the love of family, and _ultenora_ selfless love offered to all without seeking a return. Sexual lust is _bruzeza_. The song word _ansevirsa_ retains its lyric use. _Jervela_ is loving devotion; _jerval_ remains the duty owed to house, patron, city and clients.
+
+_Avreton_ is contentment, peaceful ease with what one has. _Avandon tamber_ names the felt satisfaction of a desire fulfilled; _avandon ar tamber_ the frustration of a desire blocked or unfulfilled. _Dorandar avandon_ is ordinary longing for someone or something absent; _solmere_ retains the songs' ache for a person, place or time gone. _Jo taurate avandon tamber_ expresses the feeling of satisfaction, rather than merely reporting that a task has been completed.
+
+_Varelon ol dunandon_ is confidence in one's ability. _Zedime varelon_ is certainty that a claim is true; the conviction may be mistaken. Truth itself is _varelza_. _Varelon_ also names faith or trust, the holding of a thing true. _Memrande ol orfenon_ is gratitude, grateful remembrance of a kindness received. _Ternandon_ is fear; _melvar ternandon_ overwhelming terror. _Velira_ is appreciative admiration and _melvar velira_ profound reverence. _Ternandon ul velira_ joins fearful wonder and admiration as awe.
+
+In the feeling expressions _zelmira fa cho_ “pity for you”, _zelmira talv cho_ “sympathy with you”, and _zirnon talv cho_ “enmity with you”, the person concerned follows _fa_ or _talv_. A name can stand in place of _cho_. _Talv_ is the word for “with” preserved in the traditional formal greeting; _ol_ links a feeling to its object or source in the expressions given here.
+
+_Jo pazate paza_ means “I eat food”; _jo vimate ulmera_, “I drink water”; _jo lotate_, “I sleep”; and _jo ez anlotandar_, “I am awake”. _Lorve_ is sleep itself, while _lotokandon_ is a dream experienced in sleep. _Jo ez talv pazavandon_ reports bodily hunger, and _jo ez talv vimavandon_ thirst. After enough food or drink, _jo ez pazele_ means “I am sated”. _Jo ez talv avandon ol tumera_ says “I am tired”, in need of bodily rest. With _melvar avandon_ in that expression, the need is overwhelming: the speaker is exhausted. The courteous ruin-word _umeltandar_ keeps its building sense.
+
+_Jo zirvate ir_ means “I breathe in”; _jo zirvate fos_, “I breathe out”. In these breathing expressions _ir_ directs the breath inward and _fos_ outward. _Jo ar dunate zirvate_ reports suffocation when breath is cut off or the air is unbreathable: the speaker is physically unable to breathe. Here _ar_ negates the ability _dunate_, and _zirvate_ names the action that cannot be performed. It does not merely mean holding one's breath by choice. _Jo zarvete ritena_ means “I ache”, with the sufferer as subject; _jo ritenate cho_ means “I hurt you”, with the person hurt as object. _Jo taurate ritena_ expresses suffering bodily pain. _Jo linkate brudamis_ means “I bleed”, losing blood from the body. _Jo ez talv kelmeza ol karveza_ reports a fever, sickness accompanied by bodily heat.
+
+_Jo olimate nurizon ir nurkovra_ means “I conceive a child in the womb”; _jo lozete nurizon ir nurkovra_, “I carry a child in the womb”, reports pregnancy. _Lozandon ol nurizon ir nurkovra_ names that condition. The womb phrase distinguishes pregnancy from carrying a born child in the arms. _Jo nurezate_ means “I give birth”; _jo sulmenate nurizon_, “I nurse a child at the breast”. These are distinct actions.
+
+_Ankelmele_ is healthy, _kelmele_ sick, and _ritele_ wounded. _Okarun_, _tavarun_ and _valmarun_ name physical impairments of seeing, hearing and walking; a dark room, an inaudible sound or a temporary barrier does not establish those conditions. The fixed expression _nelve nizele_ describes mild cold, “cool”. _Ulmerele_ and _anulmerele_ distinguish wet and dry.
+
+_Nurete ol semrote_ is a brother's son, a nephew; _nureta ol semrote_ is a brother's daughter, a niece. Substituting _semrota_ gives the sister's child. _Kambete ves kambeta_ includes either husband or wife as a spouse. _Soretis ol dumva_ names a household's kin as a family, rather than including unrelated servants. _Konare_ is an ordinary companion; _olvete_ retains the role of riding beside a patron. _Trumare_ can lead a common activity in peace as well as war, while _trumar_ remains a hired captain general. _Galete_ is a student without requiring the academy named in _galedo_.
+
+_Sedon ol karalze_ is the physical hearth, the place of the house's kept fire. _Ombela tereme_ names a long seat for several people, a seating bench; _gardema_ retains the master's workshop place. _Tolbon_ is ordinary cloth and _lorrame_ the finest woven silk. A storage jar is _tolkemon ol kerandon_, a pot for holding things. _Kovra ol dumela_ names the room's overhead surface, its ceiling. _Funela melvar_ is a thick rope; _funela nizele_ a fine sewing thread.
+
+_Sedon ol joreza_ names physical land or territory, whether owned or not, as distinct from water. Bare _jormalis_ keeps its owned-land meaning. The whole expression _jormalis levre_ conventionally names a flat open plain, whether owned or not; that geographical use belongs to the phrase. _Joreza ol salkon_ names sand, including sand away from a shore; _joreza ul ulmera_ is the conventional name for mud, earth mixed with water. _Sirete_ is an ordinary river and _sirete nizele_ a small stream; _vilare_ remains the great river. _Lamote ol kaldere_ calls a tree's limb a branch. As weather reports, _ar uradon_ means “no cloud”, clear weather, and _ez talv uradon_ means “it is cloudy”, with clouds in the sky.
+
+_Urkis_, _tavemer_ and _karzis_ count one, two and three; _arzun_ counts zero. _Olime_, _etore_ and _karzore_ name the first three positions. For later positions, _de ombela ez ir sedon ol raetur_ means “This chair is in position seven”, seventh in the sequence being arranged. _De ombela ez ir sedon ol zorimas_ puts it in position eight. The number after _ol_ gives the numbered position; these expressions do not add an ordinal ending. _Solte ol solte_ is a quarter, half of a half. _Tavemer zedime_ means both, all two; _urkis ol tavemer_ either of the two, and _ar urkis ol tavemer_ neither.
+
+In comparing the two speakers' shares, _jo kerate tolkemon mazeron; cho kerate tolkemon nizeron_ means “I have more pots; you have fewer pots”. With _ulmera_ in place of _tolkemon_, the comparison concerns more or less water, an amount rather than a count. _Zolme tolkemon_ is many pots and _itre tolkemon_ few; _zolme ulmera_ is much water and _itre ulmera_ little. In that same comparison, _jo kerate zolmimme tolkemon_ assigns me the greatest count of pots, while _cho kerate itrimme tolkemon_ assigns you the smallest. _Zolmimme ulmera_ and _itrimme ulmera_ compare the greatest and smallest amounts of water. These quantities differ from _tereme_, long in extent. _Rozeti tavemer_ is about two and _zetai tavemer_ exactly two.
+
+_Jo kerate ombela_ means “I have a chair”; _jo kurete ombela_, “I take a chair”; and _jo lendate ombela_, “I put a chair in place”. _Jo tambate ombela_ makes or creates a chair. _Jo tavate_ means “I act; I do something”, without making a particular object. _Jo demate ulmera_ gives water in an ordinary exchange; _daimate_ retains the patron's giving. _Dumva ez_ means “A house exists; there is a house”: the named thing comes before _ez_, with no identity or quality complement in this particular existential utterance. _Ombela ez_ similarly states that a chair exists. _De ombela ez ol jo_ means “This chair belongs to me”; _cho_ can replace _jo_ for “belongs to you”.
+
+_Jo lokate fir dumva_ means “I arrive at the house”; the destination follows _fir_. _Jo tigate ir_ means “I go in”, entering; _jo tigate fos_, “I go out”, exiting. _Jo valmate zel_ means “I crawl”, moving low along the ground. _Jo lozete us_ lifts something upward. _Jo nembelate irkon_ means “I drop a cup”, releasing the cup so that it falls. _Jo kermate zetimai_ destroys something by breaking it completely. _Jo ralvate fos sedon ol ritavon_ means “I flee from the place of danger”. _Jo tigate fos sedon ol dumva_ means “I leave the house”, departing its place; _linkate_ retains letting go or releasing. These are the particular movement and action expressions given here.
+
+_Jo dokate_ means “I speak”; _jo klamete_, “I call out; I shout”; and _jo anklamete_, “I whisper”, using quiet breathy speech without voicing. _Narthen_ is “tell”, the verb named in the merchant's invitation below; that invitation keeps its attested imperative. _Jo demate arlen_ gives a name, naming someone or something. _Jo memrate orfenon_ expresses thanks, openly acknowledging a kindness rather than merely remembering it privately. _Jo varelate talv cho_ means “I agree with you”, sharing your judgment. _Jo ar avete_ refuses an offered proposal, withholding consent. _Jo mazeron avete ulmera ves jentize_ means “I prefer water to wine”, wanting the first option more than the second.
+
+_De ulmera ez silkre_ says this water is transparent; _de tumisa ez silkre_ says this mark is visually distinct and easy to discern. These are two uses of _silkre_: seeing through a material, and seeing a clear outline or mark. _Jo vakate ritavon_ is a threat when the speaker signals their own intention to cause harm to another. An innocent warning of an external danger does not use this conventional threatening sense.
+
+_Jo ez ir de sedon_ means “I am here”, in this place; _cho ez ir at sedon_ means “You are there”, in that place. _De ombela ez lair morvalis_ puts this chair beside the table; _de ombela ez pral morvalis_ puts it in front of the table. _Jo tigate fir sedon telvare_ goes up toward a higher place, and _jo tigate fir sedon zele_ down toward a lower place. _Jo tigate fos sedon ol dumva_ leaves from the house; _jo tigate fir veramis_ goes toward the city. _Fir_ names a destination and _fos sedon ol_ a source in these examples. _Teredon tavir dumva ul veramis_ is the distance between house and city, with the two measured places on either side of _ul_.
+
+_Jo marendate ir kanel ol cholsama_ means “I learn during the harvest”: the event follows _ol_, after “in the time of”. _Pral kanel ol cholsama, jo marendate_ puts that learning before the harvest. _Ker cho lotate, jo marendate_ means “While you sleep, I learn”, placing the two events at the same time. _Jo sistete fir kanel ol cholsama_ waits until the harvest as endpoint. _Jo ternate ir dumva fos kanel ol cholsama_ means “I live in the house since the harvest”, naming the starting event after _ol_. These concrete temporal utterances use the listed action forms.
+
+In counting occasions, _kanel_ is a time when an action occurs. _Jo vimate ulmera urkis kanel_ counts one occasion of drinking water, once; _jo vimate ulmera tavemer kanel_ counts two, twice. _Zolme kanel_ repeats it on many occasions; _antigai_ merely says “again”, without an exact count. _Ir zolme kanel_ is often, _ir itre kanel_ rarely, _ir etris kanel_ sometimes, _ir zedime kanel_ always, and _ir arurkis kanel_ never. _De jhorne_ is today; _pral de jhorne_ yesterday; _etor jhorne_ tomorrow. _Olimai jo tigate; etorai jo lokate; ortemai jo sistate_ means “First I go; next I come; finally I stop”. _Pral denkanai_ reports “already”, accomplished before now; _fir denkanai_ is “yet”, up to now, and _ar ... fir denkanai_ “not yet”.
+
+_Jo okete vetis_ means “I see myself”; _cho okete vetis_, “You see yourself”. In these reflexive examples _vetis_ refers back to the subject of that same utterance. _Dene lokate_ means “He comes”; _dena lokate_, “She comes”; _denoi lokate_, “They come”; _enoi lokate_, “We come”. The reference words here are used in their listed forms. _Ombela ol jo_ is my chair and _ombela ol cho_ your chair. _De ombela ez ol enoi_ means “This chair is ours”. The near article _de_ and distant article _at_ point out their following nouns: _de ombela_, this chair, and _at ombela_, that chair.
+
+_Eza cho vimate ulmera?_ asks “Do you drink water?” _Eza kedis lokate?_ asks “Who comes?” _Eza ketis ez de tamba?_ asks “What is this work?” _Eza kete ombela ez ol cho?_ asks “Which chair is yours?” _Eza de dumva ez ir kete sedon?_ asks “Where is this house?”, in which place. _Eza cho lokate ker?_ asks “When do you come?” _Eza cho tigate oleti ketis?_ asks “Why do you go?”, because of what. _Eza cho tavate sa ketis?_ asks “How do you act?”, in what manner.
+
+_Eza cho kerate kete rozon ol tolkemon?_ asks “How many pots do you have?”, what number of pots; _eza cho kerate kete zolmon ol ulmera?_ asks “How much water do you have?”, what amount of water. _Eza de ombela ez ol kedis?_ asks “Whose chair is this?” _Eza cho felzate lambize fir kedis?_ asks “To whom do you send a word?” _Eza cho lokate fos kete sedon?_ asks “From where do you come?” _Eza cho marendate fa ketis?_ asks “For what purpose do you learn?” _Eza cho dokate ketis?_ asks the other speaker to clarify: “What do you mean; what are you saying?” The questions retain ordinary subject, action and object placement.
+
+_Ez varelin_ answers yes, “It is true”; _ar ez_ answers no, “It is not so”. _Varlai ez_ emphatically confirms “Indeed”, while _eza varlai?_ asks “Really?” _Sa cho dokate, de dumva ez soltere_ means “According to what you say, this house is large”: it reports your claim without verifying it. _Sa okandon_ qualifies an apparent truth, as things look. _Jo dokate talv ar chesdande_ offers a guess, a tentative answer without knowing. _Jo lendate varelon: de dumva ez soltere_ sets that claim down as an assumption or premise. _Setdokandon_ is an intentional lie; _setdochemon_ is an untrue assertion that may instead be a mistake. Neither is mere lack of confidence.
+
+_Jo tigate ul cho lokate_ means “I go and you come”. _Jo ar tigate ul cho ar lokate_ negates both events: “I do not go, nor do you come”. _Jo sistete oleti cho lokate_ means “I wait because you come”. _Zai cho lokate, ta jo sistete_ means “If you come, then I wait”. In _zai cho ar lokate, ta jo tigate_, “Unless you come, I go”, the condition is your not coming and the consequence is my going. _Zai denon ar ez ta jo tigate_ gives the alternative consequence: “If this is not so, then I go; otherwise I go”.
+
+_Narti cho lokate, jo tigate_ means “Although you come, I go”; _nartir ritavon, jo tigate_, “Despite danger, I go”. _Cho lokate; nartai jo tigate_ says “You come; however, I go”. _Jo avete tigate; aletai jo sistete_ says “I want to go; instead, I wait”. _Jo marendate ta jo dunate tavate_ gives a purpose: “I learn so that I can act”. In these examples _ta_ introduces either a condition's consequence or a purpose, with each complete clause giving its own subject and action.
+
+_Ves jo tigate ves jo sistete_ means “Either I go or I wait”; _jo ar tigate ul jo ar sistete_, “Neither do I go nor do I wait”; _ul jo tigate ul cho lokate_, “Both I go and you come”. _Jo ar chesdate zai dene lokate ves dene ar lokate_ means “I do not know whether he comes or does not come”, leaving both alternatives open. The subjects and predicates in these complete examples can be replaced by the actual alternatives under discussion. _Denon ez_ introduces a restatement, “That is”; _dokate arlen_ an exact identification, “Namely”; and _sa denon_ an example.
+
+_Jo dunate tigate_ means “I can go”, while _jo ar dunate tigate_ denies ability. _Jo jestate tigate_ means “I have permission to go”. _Jo jestate tigate naren jo ar dunate tigate_ states permission alongside inability: “I may go, but I cannot go”. With a proposed departure, _cho tigate_, already under discussion, _jo jesterate cho_ grants you permission for it; _jo anjesterate cho_ forbids you to make it. The person receiving the permission or prohibition is the object of those two particular verbs. _Denon zikai dunate tambirete_ says “That might happen”, an uncertain possibility rather than permission.
+
+_Jo jervete tigate_ means “I must go”, an obligation. _Jo jervete ar tigate_ means “I must not go”: the obligation is to refrain from going. _Jo ar jervete tigate_ instead denies an obligation to go. The old _orfeate_ retains owing a favor. _Cho dajvete tigate_ advises “You ought to go”, without compulsion. _Denon ez jestare ul ar jerpele_ describes an option that is permitted and not required. _Ar jestare_ is used for an actual prohibition, not simply for the absence of an express permission. _Talv ar verdavis_ is the conventional stronger no-worth description, worthless; a thing of modest value still has worth.
+
+The traditional formal greeting _Brave jhorne, genthe korthe; que la preja soie talv vei_ is used as a whole: “Good day, noble companion; may peace be with you”. _Preja talv cho_ wishes peace as an ordinary goodbye. At the door, a host's _cho ez dumvar_ welcomes the other person as a guest under the roof. _Jo avete orfenon_ asks a kindness, “Please”, before a particular request. _Jo memrate orfenon ol cho_ thanks you for your kindness; _cho ar orfeate_ answers that no favor is owed in return. _Cho linkate jo_ politely asks to be left room or allowed to pass, “Excuse me”. _Jo taurate antambeza_ says “I am sorry”, holding regret for what happened. _Cho anorfenate jo_ asks “Forgive me”, with the speaker as the person to be forgiven.
+
+The fixed attention calls _cho tavrelate_, _cho silvate_, _cho sistete_ and _cho sistate_ ask “Listen!”, “Look!”, “Wait!” and “Stop!” _Cho lokate fir de sedon_ asks “Come here!”; _cho tigate fos de sedon_, “Go away!”; _cho zumbrate jo_, “Help me!” _Cho dokate antigai_ asks for the words again, “Pardon?” These are the listed spoken requests; the merchant invitation below retains its own _narthe_. _Jo lambirete_ says “I understand”, and _jo ar lambirete_ “I do not understand”. _Eza cho dokate denon sa ketis?_ asks how to say the expression being referred to; _eza arlen ol denon ez ketis?_ asks what the referred-to thing is called.
+
+_Ziromon_ is a general arrangement; _zirotal_ keeps its precedence and room-order sense. _Konalon ol zolme sortalon_ names a tribe as an association of clans. _Orfenon_ includes the social debt of a kindness, while _nezora_ is a debt in money. _Zolme frenche_ names wealth, much property or means; _itre frenche_ conventionally names poverty, lacking enough to live on. _Laton kelterete_ is a secret matter in general. _Pelzandon ol jentamis_ conventionally names a change of form, a transformation; _tamba ol oleton_ the effect brought about by a cause, including a resulting state as well as a physical product. Felt satisfaction remains _avandon tamber_, distinct from _zedimandon_, completion of an act.
 
 ## Script & Literacy
 
@@ -2404,7 +6832,7 @@ The qualities a Provenzian of standing claims are _solvime_, weighty, and _zeote
 
 ### Doing, going and being
 
-A verb is cited by its infinitive, which every native verb closes on _-athe_ or _-ethe_, the old infinitive with its ending worn away. The motion and state auxiliaries, the copula and the rest stand with the grammar words.
+A verb is cited by its infinitive, commonly ending in _-ate_ or _-ete_ in native words. _Zeotadora_ and _solchadora_ keep their listed forms. The motion and state auxiliaries, the copula and the rest stand with the grammar words.
 
 ### Numbers and grammar words
 

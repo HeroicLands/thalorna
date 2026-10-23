@@ -49,6 +49,7 @@ data:
       field: The house and the old blood
       gloss: "kin; those of one blood"
       source: {kind: borrowed, language: skill-aelendlng, form: sorethendi}
+      concept: [family, kin]
     - form: ondren
       class: n
       field: The house and the old blood
@@ -65,7 +66,6 @@ data:
       class: n
       field: The house and the old blood
       gloss: "a child; one not yet given a name"
-      concept: child
       source: {kind: borrowed, language: skill-aelendlng, form: lughon}
     - form: sorhand
       class: n
@@ -102,6 +102,7 @@ data:
       field: The house and the old blood
       gloss: "a possession; what a man owns outside the clan's common"
       source: {kind: borrowed, language: skill-aelendlng, form: telgon}
+      concept: property
     - form: mírdalon
       class: n
       field: The house and the old blood
@@ -158,6 +159,7 @@ data:
       field: The land in keeping
       gloss: "a field; the walled ground below a lodge"
       source: {kind: borrowed, language: skill-aelendlng, form: ilmis}
+      concept: field
     - form: sulmis
       class: n
       field: The land in keeping
@@ -233,7 +235,6 @@ data:
       class: n
       field: The bard and the word
       gloss: "a tongue; a language"
-      concept: tongue
       source: {kind: borrowed, language: skill-aelendlng, form: óstila}
     - form: leithon
       class: n
@@ -326,6 +327,7 @@ data:
       field: The bard and the word
       gloss: "truth"
       source: {kind: borrowed, language: skill-aelendlng, form: thénnairsa}
+      concept: truth
     - form: évesirne
       class: n
       field: The bard and the word
@@ -436,6 +438,7 @@ data:
       field: The art and the thin places
       gloss: "humans; the people beyond the wood"
       source: {kind: borrowed, language: skill-aelendlng, form: mupu}
+      concept: human
     - form: lonthand
       class: n
       field: The art and the thin places
@@ -476,6 +479,7 @@ data:
       field: "The Pact, the oath and the judgment"
       gloss: "to stand before; to put oneself between a thing and harm"
       source: {kind: borrowed, language: skill-aelendlng, form: théndathen}
+      concept: defend
     - form: dáerela
       class: n
       field: "The Pact, the oath and the judgment"
@@ -526,6 +530,7 @@ data:
       field: "The Pact, the oath and the judgment"
       gloss: "custom; the whole of what is done because it has always been done"
       source: {kind: borrowed, language: skill-aelendlng, form: úrdalon}
+      concept: [custom, tradition]
     - form: kernon
       class: n
       field: "The Pact, the oath and the judgment"
@@ -635,7 +640,6 @@ data:
       class: n
       field: The hall and the guest
       gloss: "the kept fire; the hearth of a hall"
-      concept: hearth
       source: {kind: borrowed, language: skill-aelendlng, form: kárathon}
     - form: máldathen
       class: v
@@ -729,6 +733,7 @@ data:
       field: The hall and the guest
       gloss: "a friend; one outside the kin who is owed as kin"
       source: {kind: borrowed, language: skill-aelendlng, form: ánsepi}
+      concept: friend
     - form: ánsevirsa
       class: n
       field: The hall and the guest
@@ -750,26 +755,31 @@ data:
       field: "Light, sky and the turning year"
       gloss: "the sun"
       source: {kind: borrowed, language: skill-aelendlng, form: khirkel}
+      concept: sun
     - form: sotel
       class: n
       field: "Light, sky and the turning year"
       gloss: "the moon"
       source: {kind: borrowed, language: skill-aelendlng, form: sotel}
+      concept: moon
     - form: núvane
       class: n
       field: "Light, sky and the turning year"
       gloss: "a star"
       source: {kind: borrowed, language: skill-aelendlng, form: núpanu}
+      concept: star
     - form: kieron
       class: n
       field: "Light, sky and the turning year"
       gloss: "a day"
       source: {kind: borrowed, language: skill-aelendlng, form: kiron}
+      concept: day
     - form: óskena
       class: n
       field: "Light, sky and the turning year"
       gloss: "a month"
       source: {kind: borrowed, language: skill-aelendlng, form: óskena}
+      concept: month
     - form: móugalon
       class: n
       field: "Light, sky and the turning year"
@@ -810,6 +820,7 @@ data:
       field: "Light, sky and the turning year"
       gloss: "bright"
       source: {kind: borrowed, language: skill-aelendlng, form: éllipe}
+      concept: bright
     - form: nyevaste
       class: n
       field: "Light, sky and the turning year"
@@ -825,16 +836,19 @@ data:
       field: "Light, sky and the turning year"
       gloss: "dawn"
       source: {kind: borrowed, language: skill-aelendlng, form: írpalo}
+      concept: dawn
     - form: shéiranda
       class: n
       field: "Light, sky and the turning year"
       gloss: "noon"
       source: {kind: borrowed, language: skill-aelendlng, form: séiranda}
+      concept: noon
     - form: ólvarne
       class: n
       field: "Light, sky and the turning year"
       gloss: "evening, as the wood reckons it"
       source: {kind: borrowed, language: skill-aelendlng, form: ólparne}
+      concept: evening
     - form: olthe
       class: n
       field: "Light, sky and the turning year"
@@ -845,11 +859,13 @@ data:
       field: "Light, sky and the turning year"
       gloss: "the east, where the dawn is"
       source: {kind: borrowed, language: skill-aelendlng, form: írpalosto}
+      concept: east
     - form: ólvessaste
       class: n
       field: "Light, sky and the turning year"
       gloss: "the west, where the dusk is"
       source: {kind: borrowed, language: skill-aelendlng, form: ólpessasto}
+      concept: west
     - form: áuremel
       class: n
       field: "Light, sky and the turning year"
@@ -875,6 +891,7 @@ data:
       field: The wood and its weather
       gloss: "a stream"
       source: {kind: borrowed, language: skill-aelendlng, form: lánthepilu}
+      concept: stream
     - form: kélvase
       class: n
       field: The wood and its weather
@@ -965,6 +982,7 @@ data:
       field: The wood and its weather
       gloss: "a single leaf"
       source: {kind: borrowed, language: skill-aelendlng, form: láupinu}
+      concept: leaf
     - form: láuvisa
       class: adj
       field: The wood and its weather
@@ -975,6 +993,7 @@ data:
       field: The wood and its weather
       gloss: "a single seed"
       source: {kind: borrowed, language: skill-aelendlng, form: áimelinu}
+      concept: seed
     - form: pálsairsa
       class: n
       field: The wood and its weather
@@ -1025,6 +1044,7 @@ data:
       field: "Mountain, water and stone"
       gloss: "snow"
       source: {kind: borrowed, language: skill-aelendlng, form: nelis}
+      concept: snow
     - form: neldra
       class: n
       field: "Mountain, water and stone"
@@ -1035,6 +1055,7 @@ data:
       field: "Mountain, water and stone"
       gloss: "a valley; a clan's ground between two ridges"
       source: {kind: borrowed, language: skill-aelendlng, form: dulgis}
+      concept: valley
     - form: dulna
       class: n
       field: "Mountain, water and stone"
@@ -1081,6 +1102,7 @@ data:
       field: "Mountain, water and stone"
       gloss: "the wood below the snow line"
       source: {kind: borrowed, language: skill-aelendlng, form: lonku}
+      concept: forest
     - form: gersa
       class: n
       field: "Mountain, water and stone"
@@ -1096,6 +1118,7 @@ data:
       field: "Mountain, water and stone"
       gloss: "a shore"
       source: {kind: borrowed, language: skill-aelendlng, form: lirpi}
+      concept: shore
     - form: lísere
       class: n
       field: "Mountain, water and stone"
@@ -1106,6 +1129,7 @@ data:
       field: "Mountain, water and stone"
       gloss: "a hill"
       source: {kind: borrowed, language: skill-aelendlng, form: auldi}
+      concept: hill
     - form: áuldalon
       class: n
       field: "Mountain, water and stone"
@@ -1116,6 +1140,7 @@ data:
       field: "Mountain, water and stone"
       gloss: "a mountain"
       source: {kind: borrowed, language: skill-aelendlng, form: sórpanda}
+      concept: mountain
     - form: ánkenathen
       class: v
       field: "Mountain, water and stone"
@@ -1148,6 +1173,7 @@ data:
       field: The body and the dead
       gloss: "to fall"
       source: {kind: borrowed, language: skill-aelendlng, form: lúrgathen}
+      concept: fall
     - form: groumon
       class: n
       field: The body and the dead
@@ -1163,11 +1189,13 @@ data:
       field: The body and the dead
       gloss: "death"
       source: {kind: borrowed, language: skill-aelendlng, form: sélporo}
+      concept: death
     - form: sélvorosa
       class: adj
       field: The body and the dead
       gloss: "dead"
       source: {kind: borrowed, language: skill-aelendlng, form: sélporosa}
+      concept: dead
     - form: nélthava
       class: n
       field: The body and the dead
@@ -1218,16 +1246,19 @@ data:
       field: Arms and the border
       gloss: "to fight"
       source: {kind: borrowed, language: skill-aelendlng, form: drúgathen}
+      concept: fight
     - form: greisa
       class: n
       field: Arms and the border
       gloss: "war"
       source: {kind: borrowed, language: skill-aelendlng, form: ghresa}
+      concept: war
     - form: úldathen
       class: v
       field: Arms and the border
       gloss: "to lead"
       source: {kind: borrowed, language: skill-aelendlng, form: úldathen}
+      concept: lead
     - form: uldar
       class: n
       field: Arms and the border
@@ -1278,6 +1309,7 @@ data:
       field: "Craft, coin and the market"
       gloss: "a hammer"
       source: {kind: borrowed, language: skill-aelendlng, form: thruk}
+      concept: hammer
     - form: rýedamon
       class: n
       field: "Craft, coin and the market"
@@ -1318,6 +1350,7 @@ data:
       field: "Craft, coin and the market"
       gloss: "a bench; a craftsman's place"
       source: {kind: borrowed, language: skill-aelendlng, form: thelgis}
+      concept: bench
     - form: thelgand
       class: n
       field: "Craft, coin and the market"
@@ -1373,6 +1406,7 @@ data:
       field: "Craft, coin and the market"
       gloss: "a thread"
       source: {kind: borrowed, language: skill-aelendlng, form: pirnis}
+      concept: thread
     - form: sárnole
       class: n
       field: "Craft, coin and the market"
@@ -1388,6 +1422,7 @@ data:
       field: "The crown, the law and the University"
       gloss: "a law; a statute"
       source: {kind: borrowed, language: skill-vylarilng, form: vornon}
+      concept: law
     - form: vórnalon
       class: n
       field: "The crown, the law and the University"
@@ -1463,6 +1498,7 @@ data:
       field: "The crown, the law and the University"
       gloss: "a debt"
       source: {kind: borrowed, language: skill-vylarilng, form: nezora}
+      concept: debt
     - form: fírsamis
       class: n
       field: "The crown, the law and the University"
@@ -1546,16 +1582,19 @@ data:
       field: "Doing, going and being"
       gloss: "to carry"
       source: {kind: borrowed, language: skill-aelendlng, form: thélkathen}
+      concept: carry
     - form: róunithen
       class: v
       field: "Doing, going and being"
       gloss: "to rise"
       source: {kind: borrowed, language: skill-aelendlng, form: rónithen}
+      concept: rise
     - form: háelathen
       class: v
       field: "Doing, going and being"
       gloss: "to build"
       source: {kind: borrowed, language: skill-aelendlng, form: khálathen}
+      concept: build
     - form: méisathen
       class: v
       field: "Doing, going and being"
@@ -1586,6 +1625,7 @@ data:
       field: "Doing, going and being"
       gloss: "less"
       source: {kind: borrowed, language: skill-aelendlng, form: thinen}
+      concept: less
     - form: ordur
       class: num
       field: Numbers and grammar words
@@ -1632,6 +1672,7 @@ data:
       field: Numbers and grammar words
       gloss: "I"
       source: {kind: borrowed, language: skill-aelendlng, form: mund}
+      concept: i
     - form: en
       class: v
       field: Numbers and grammar words
@@ -1642,36 +1683,43 @@ data:
       field: Numbers and grammar words
       gloss: "you, one person"
       source: {kind: borrowed, language: skill-aelendlng, form: tos}
+      concept: you-reference
     - form: nyes
       class: pron
       field: Numbers and grammar words
       gloss: "we"
       source: {kind: borrowed, language: skill-aelendlng, form: nus}
+      concept: we
     - form: reik
       class: part
       field: Numbers and grammar words
       gloss: "and"
       source: {kind: borrowed, language: skill-aelendlng, form: rek}
+      concept: and
     - form: nond
       class: part
       field: Numbers and grammar words
       gloss: "not"
       source: {kind: borrowed, language: skill-aelendlng, form: nond}
+      concept: not
     - form: seis
       class: part
       field: Numbers and grammar words
       gloss: "that, so that"
       source: {kind: borrowed, language: skill-aelendlng, form: ses}
+      concept: [then-conditional, for-purpose]
     - form: rith
       class: part
       field: Numbers and grammar words
       gloss: "in, into"
       source: {kind: borrowed, language: skill-aelendlng, form: ris}
+      concept: [inside, in]
     - form: geth
       class: part
       field: Numbers and grammar words
       gloss: "over"
       source: {kind: borrowed, language: skill-aelendlng, form: gheth}
+      concept: [above, over]
     - form: al
       class: part
       field: Numbers and grammar words
@@ -1739,7 +1787,7 @@ data:
       class: n
       field: "The body and the dead"
       gloss: "faith; trust; the holding of the Pact true"
-      concept: faith
+      concept: [faith, trust]
       source: {kind: borrowed, language: skill-aelendlng, form: dhárison}
     - form: kéinalis
       class: n
@@ -1799,7 +1847,7 @@ data:
       class: n
       field: "The body and the dead"
       gloss: "a fingernail; a toenail"
-      concept: nail
+      concept: [nail, toenail]
       source: {kind: borrowed, language: skill-aelendlng, form: drésala}
     - form: myenara
       class: n
@@ -1877,7 +1925,7 @@ data:
       class: n
       field: "The hall and the guest"
       gloss: "a chair"
-      concept: chair
+      concept: [chair, seat]
       source: {kind: borrowed, language: skill-vylarilng, form: ombela}
     - form: mórvalis
       class: n
@@ -2027,7 +2075,7 @@ data:
       class: adj
       field: "Colour and the look of things"
       gloss: "black; dark"
-      concept: black
+      concept: [black, dark]
       source: {kind: borrowed, language: skill-aelendlng, form: thanar}
     - form: halmar
       class: adj
@@ -2141,7 +2189,7 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to make; to do"
-      concept: [make, do]
+      concept: [make, do, create]
       source: {kind: borrowed, language: skill-aelendlng, form: ghársathen}
     - form: hórmathen
       class: v
@@ -2179,6 +2227,2882 @@ data:
       gloss: "to end"
       concept: end
       source: {kind: borrowed, language: skill-aelendlng, form: dhúlkathen}
+    - form: dieldathen
+      class: v
+      field: The body and the dead
+      gloss: to watch; to observe attentively
+      source: {kind: borrowed, language: skill-aelendlng, form: dheldathen}
+      concept: watch
+    - form: goursar
+      class: adj
+      field: The body and the dead
+      gloss: bitter to the taste
+      source: {kind: borrowed, language: skill-aelendlng, form: ghorsar}
+      concept: bitter
+    - form: herdar
+      class: adj
+      field: The body and the dead
+      gloss: rough; uneven to the touch
+      source: {kind: borrowed, language: skill-aelendlng, form: kherdar}
+      concept: rough
+    - form: laegnis
+      class: n
+      field: The body and the dead
+      gloss: gratitude; grateful feeling for something received
+      source: {kind: borrowed, language: skill-aelendlng, form: laghnis}
+      concept: gratitude
+    - form: geindaris
+      class: n
+      field: The body and the dead
+      gloss: courage; readiness to face fear
+      source: {kind: borrowed, language: skill-aelendlng, form: ghendaris}
+      concept: courage
+    - form: gaerasa
+      class: n
+      field: The body and the dead
+      gloss: anger; displeasure at a wrong or obstruction
+      source: {kind: borrowed, language: skill-aelendlng, form: ghárasa}
+      concept: anger
+    - form: hernis
+      class: n
+      field: The body and the dead
+      gloss: hatred; enduring hostile feeling
+      source: {kind: borrowed, language: skill-aelendlng, form: khernis}
+      concept: hatred
+    - form: douris
+      class: n
+      field: The body and the dead
+      gloss: fear; apprehension of danger
+      source: {kind: borrowed, language: skill-aelendlng, form: dhoris}
+      concept: fear
+    - form: gaeldis
+      class: n
+      field: The body and the dead
+      gloss: shame; the feeling of having fallen short of one's own or others' standards
+      source: {kind: borrowed, language: skill-aelendlng, form: ghaldis}
+      concept: shame
+    - form: daernis
+      class: n
+      field: The body and the dead
+      gloss: guilt; the troubled feeling that one has done wrong
+      source: {kind: borrowed, language: skill-aelendlng, form: dharnis}
+      concept: guilt
+    - form: gournis
+      class: n
+      field: The body and the dead
+      gloss: regret; sorrow over something done or missed
+      source: {kind: borrowed, language: skill-aelendlng, form: ghornis}
+      concept: regret
+    - form: tengis
+      class: n
+      field: The body and the dead
+      gloss: confidence; trust in one's own ability or success
+      source: {kind: borrowed, language: skill-aelendlng, form: tenghis}
+      concept: confidence
+    - form: geildis
+      class: n
+      field: The body and the dead
+      gloss: embarrassment; discomfort at unwanted attention or social awkwardness
+      source: {kind: borrowed, language: skill-aelendlng, form: gheldis}
+      concept: embarrassment
+    - form: gierdis
+      class: n
+      field: The body and the dead
+      gloss: contempt; the feeling that another is beneath regard
+      source: {kind: borrowed, language: skill-aelendlng, form: ghirdis}
+      concept: contempt
+    - form: dielmis
+      class: n
+      field: The body and the dead
+      gloss: forgiveness; letting go of blame for a wrong
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelmis}
+      concept: forgiveness
+    - form: geindris
+      class: n
+      field: The body and the dead
+      gloss: confusion; inability to make sense of something
+      source: {kind: borrowed, language: skill-aelendlng, form: ghendris}
+      concept: confusion
+    - form: gaer
+      class: adj
+      field: Colour and the look of things
+      gloss: overwhelming; immense in size or degree
+      source: {kind: borrowed, language: skill-aelendlng, form: ghur}
+      concept: huge
+    - form: grien
+      class: adj
+      field: Doing, going and being
+      gloss: sustained; kept over a long time
+      source: {kind: borrowed, language: skill-aelendlng, form: ghren}
+    - form: gaer douris
+      class: n
+      field: The body and the dead
+      gloss: terror; overwhelming fear
+      built: [gaer, douris]
+      concept: terror
+    - form: grien gaerasa
+      class: n
+      field: The body and the dead
+      gloss: resentment; anger kept over a perceived wrong
+      built: [grien, gaerasa]
+      concept: resentment
+    - form: grien ilnis
+      class: n
+      field: The body and the dead
+      gloss: longing; a sustained yearning for something absent
+      built: [grien, ilnis]
+      concept: longing
+    - form: gaer rondis
+      class: n
+      field: The body and the dead
+      gloss: awe; wonder and admiration so great that they humble the person feeling them
+      built: [gaer, rondis]
+      concept: awe
+    - form: geilnis
+      class: n
+      field: The body and the dead
+      gloss: devotion; sustained loving commitment
+      source: {kind: borrowed, language: skill-aelendlng, form: ghelnis}
+      concept: devotion
+    - form: daernon
+      class: n
+      field: The body and the dead
+      gloss: loyalty; steadfast allegiance to someone or a cause
+      source: {kind: borrowed, language: skill-aelendlng, form: dharnon}
+      concept: loyalty
+    - form: hernalon
+      class: n
+      field: The body and the dead
+      gloss: enmity; a state of mutual hostility
+      source: {kind: borrowed, language: skill-aelendlng, form: khernalon}
+      concept: enmity
+    - form: gierth
+      class: part
+      field: Numbers and grammar words
+      gloss: to; toward; precedes a destination or the person toward whom a feeling is held
+      source: {kind: borrowed, language: skill-aelendlng, form: ghirth}
+      concept: [toward, to]
+    - form: ilvare
+      class: n
+      field: The body and the dead
+      gloss: grief; sorrow over a death or great loss
+      source: {kind: borrowed, language: skill-aelendlng, form: ílparo}
+      concept: grief
+    - form: gaelis
+      class: n
+      field: The body and the dead
+      gloss: the tongue; the organ inside the mouth used in tasting and speaking
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalis}
+      concept: tongue
+    - form: geirnis
+      class: n
+      field: The body and the dead
+      gloss: a cheek
+      source: {kind: borrowed, language: skill-aelendlng, form: ghernis}
+      concept: cheek
+    - form: hournis
+      class: n
+      field: The body and the dead
+      gloss: the throat; the passage behind the mouth
+      source: {kind: borrowed, language: skill-aelendlng, form: khurnis}
+      concept: throat
+    - form: gyernis
+      class: n
+      field: The body and the dead
+      gloss: a thigh
+      source: {kind: borrowed, language: skill-aelendlng, form: ghurnis}
+      concept: thigh
+    - form: geilmon
+      class: n
+      field: The body and the dead
+      gloss: a muscle; bodily tissue that contracts to move a limb
+      source: {kind: borrowed, language: skill-aelendlng, form: ghelmon}
+      concept: muscle
+    - form: gaemris
+      class: n
+      field: The body and the dead
+      gloss: saliva; liquid in the mouth
+      source: {kind: borrowed, language: skill-aelendlng, form: ghamris}
+      concept: saliva
+    - form: gournon
+      class: n
+      field: The body and the dead
+      gloss: the brain
+      source: {kind: borrowed, language: skill-aelendlng, form: ghornon}
+      concept: brain
+    - form: deirmon
+      class: n
+      field: The body and the dead
+      gloss: the liver
+      source: {kind: borrowed, language: skill-aelendlng, form: dhermon}
+      concept: liver
+    - form: gaernon
+      class: n
+      field: The body and the dead
+      gloss: the penis
+      source: {kind: borrowed, language: skill-aelendlng, form: gharnon}
+      concept: penis
+    - form: dielon
+      class: n
+      field: The body and the dead
+      gloss: rest; a pause in exertion for recovery
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelon}
+      concept: rest
+    - form: dielar
+      class: adj
+      field: The body and the dead
+      gloss: tired; needing rest
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelar}
+      concept: tired
+    - form: gaelmis
+      class: n
+      field: The body and the dead
+      gloss: heat; high temperature
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalmis}
+      concept: heat
+    - form: gaelmar
+      class: adj
+      field: The body and the dead
+      gloss: hot; high in temperature
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalmar}
+      concept: hot
+    - form: daelmar
+      class: adj
+      field: The body and the dead
+      gloss: warm; comfortably above cool in temperature
+      source: {kind: borrowed, language: skill-aelendlng, form: dhalmar}
+      concept: warm
+    - form: hendathen
+      class: v
+      field: The body and the dead
+      gloss: to burn; to consume or be consumed by fire, or to injure with heat
+      source: {kind: borrowed, language: skill-aelendlng, form: khendathen}
+      concept: burn
+    - form: geilnon
+      class: n
+      field: The body and the dead
+      gloss: safety; freedom from danger
+      source: {kind: borrowed, language: skill-aelendlng, form: ghelnon}
+      concept: safety
+    - form: dournon
+      class: n
+      field: The body and the dead
+      gloss: danger; a condition in which harm threatens
+      source: {kind: borrowed, language: skill-aelendlng, form: dhornon}
+      concept: danger
+    - form: lyegis
+      class: n
+      field: The body and the dead
+      gloss: birth; the coming of a child from the womb
+      source: {kind: borrowed, language: skill-aelendlng, form: lughis}
+      concept: birth
+    - form: geindar
+      class: adj
+      field: The body and the dead
+      gloss: strong; able to exert great bodily force
+      source: {kind: borrowed, language: skill-aelendlng, form: ghendar}
+      concept: strong
+    - form: angeindar
+      class: adj
+      field: The body and the dead
+      gloss: weak; lacking strength
+      source: {kind: borrowed, language: skill-aelendlng, form: anghendar}
+      concept: weak
+    - form: gaeri
+      class: adv
+      field: Colour and the look of things
+      gloss: very; to a high degree
+      source: {kind: borrowed, language: skill-aelendlng, form: ghuri}
+      concept: very
+    - form: gaeri gaeri dielar
+      class: adj
+      field: The body and the dead
+      gloss: exhausted; extremely tired
+      built: [gaeri, gaeri, dielar]
+      concept: exhausted
+    - form: rusnar gaelmar
+      class: adj
+      field: The body and the dead
+      gloss: feverish; hot from illness
+      built: [rusnar, gaelmar]
+      concept: feverish
+    - form: ryedathen
+      class: v
+      field: The body and the dead
+      gloss: to bleed; to lose blood
+      source: {kind: borrowed, language: skill-aelendlng, form: rudhathen}
+      concept: bleed
+    - form: lyegar
+      class: adj
+      field: The body and the dead
+      gloss: young; early in life
+      source: {kind: borrowed, language: skill-aelendlng, form: lughar}
+      concept: young
+    - form: semhelon
+      class: n
+      field: The house and the old blood
+      gloss: a nephew; the son of one's sibling
+      source: {kind: borrowed, language: skill-aelendlng, form: semkhelon}
+      concept: nephew
+    - form: semhela
+      class: n
+      field: The house and the old blood
+      gloss: a niece; the daughter of one's sibling
+      source: {kind: borrowed, language: skill-aelendlng, form: semkhela}
+      concept: niece
+    - form: dielsan
+      class: n
+      field: The house and the old blood
+      gloss: a widower; a man whose spouse has died
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelsan}
+      concept: widower
+    - form: hernand
+      class: n
+      field: The house and the old blood
+      gloss: an enemy; a person opposed to or hostile to one
+      source: {kind: borrowed, language: skill-aelendlng, form: khernand}
+      concept: enemy
+    - form: halthand
+      class: n
+      field: The house and the old blood
+      gloss: a host; the person receiving a guest
+      source: {kind: borrowed, language: skill-aelendlng, form: khalthand}
+      concept: host
+    - form: geilrand
+      class: n
+      field: The house and the old blood
+      gloss: a servant; someone working in another's service
+      source: {kind: borrowed, language: skill-aelendlng, form: ghelrand}
+      concept: servant
+    - form: geithand
+      class: n
+      field: The house and the old blood
+      gloss: a master; a person having authority over another's service
+      source: {kind: borrowed, language: skill-aelendlng, form: ghethand}
+      concept: master
+    - form: hendron
+      class: n
+      field: The hall and the guest
+      gloss: a hearth; the physical place where a house fire is kept, including its floor or stone surround
+      source: {kind: borrowed, language: skill-aelendlng, form: khendron}
+      concept: hearth
+    - form: halnis
+      class: n
+      field: The hall and the guest
+      gloss: a room; an enclosed space within a building
+      source: {kind: borrowed, language: skill-aelendlng, form: khalnis}
+      concept: room
+    - form: heldis
+      class: n
+      field: The hall and the guest
+      gloss: a ceiling; the inner upper surface of a room
+      source: {kind: borrowed, language: skill-aelendlng, form: kheldis}
+      concept: ceiling
+    - form: dournis
+      class: n
+      field: The hall and the guest
+      gloss: a jar; a broad-mouthed storage vessel
+      source: {kind: borrowed, language: skill-aelendlng, form: dhornis}
+      concept: jar
+    - form: lourgis
+      class: n
+      field: The hall and the guest
+      gloss: a basket; an open container woven from flexible strips
+      source: {kind: borrowed, language: skill-aelendlng, form: lorghis}
+      concept: basket
+    - form: gielmon
+      class: n
+      field: The hall and the guest
+      gloss: a bag; a flexible container carried with its contents
+      source: {kind: borrowed, language: skill-aelendlng, form: ghilmon}
+      concept: bag
+    - form: gourdis
+      class: n
+      field: The hall and the guest
+      gloss: a rope; a thick twisted line for hauling or binding
+      source: {kind: borrowed, language: skill-aelendlng, form: ghordis}
+      concept: rope
+    - form: hendris
+      class: n
+      field: The hall and the guest
+      gloss: a flame; the visible burning part of a fire
+      source: {kind: borrowed, language: skill-aelendlng, form: khendris}
+      concept: flame
+    - form: hendon
+      class: n
+      field: The hall and the guest
+      gloss: smoke; the drifting product of a fire
+      source: {kind: borrowed, language: skill-aelendlng, form: khendon}
+      concept: smoke
+    - form: geisna
+      class: n
+      field: The hall and the guest
+      gloss: ash; the fine residue of a burned thing
+      source: {kind: borrowed, language: skill-aelendlng, form: ghesna}
+      concept: ash
+    - form: hendul
+      class: n
+      field: The hall and the guest
+      gloss: a coal; a piece of fuel glowing in a fire
+      source: {kind: borrowed, language: skill-aelendlng, form: khendul}
+      concept: coal
+    - form: gaelkis
+      class: n
+      field: The hall and the guest
+      gloss: a cloak; an outer cloth thrown over the shoulders
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalkis}
+      concept: cloak
+    - form: geiron
+      class: n
+      field: The hall and the guest
+      gloss: metal; the material worked at a forge
+      source: {kind: borrowed, language: skill-aelendlng, form: gheron}
+      concept: metal
+    - form: gorth
+      class: adj
+      field: Colour and the look of things
+      gloss: high; reaching well above its base; tall when said of a standing thing
+      source: {kind: borrowed, language: skill-aelendlng, form: ghorth}
+      concept: [high, tall]
+    - form: gorth thodkis
+      class: n
+      field: The hall and the guest
+      gloss: a boot; a shoe with a high covering for the ankle or lower leg
+      built: [gorth, thodkis]
+      concept: boot
+    - form: goure
+      class: adv
+      field: Numbers and grammar words
+      gloss: there; at a place away from the speaker
+      source: {kind: borrowed, language: skill-aelendlng, form: ghor}
+      concept: there
+    - form: gyethe
+      class: part
+      field: Numbers and grammar words
+      gloss: between named things; among a named group; precedes the reference noun or list
+      source: {kind: borrowed, language: skill-aelendlng, form: ghuth}
+      concept: [between, among]
+    - form: giethe
+      class: part
+      field: Numbers and grammar words
+      gloss: below; under; lower than the reference noun that follows
+      source: {kind: borrowed, language: skill-aelendlng, form: ghith}
+      concept: [below, under]
+    - form: gounel
+      class: part
+      field: Numbers and grammar words
+      gloss: out; outside; outward from an interior; a named place follows it
+      source: {kind: borrowed, language: skill-aelendlng, form: ghol}
+      concept: outside
+    - form: gouthe
+      class: part
+      field: Numbers and grammar words
+      gloss: beyond; on the farther side of the place named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: ghoth}
+      concept: beyond
+    - form: giele
+      class: n
+      field: Numbers and grammar words
+      gloss: the left; the direction to the left side
+      source: {kind: borrowed, language: skill-aelendlng, form: ghil}
+      concept: left-direction
+    - form: goulme
+      class: n
+      field: Numbers and grammar words
+      gloss: the right; the direction to the right side
+      source: {kind: borrowed, language: skill-aelendlng, form: gholm}
+      concept: right-direction
+    - form: griene
+      class: adv
+      field: Numbers and grammar words
+      gloss: up; toward a higher place
+      source: {kind: borrowed, language: skill-aelendlng, form: ghrin}
+      concept: up
+    - form: gourthe
+      class: adv
+      field: Numbers and grammar words
+      gloss: away; farther from the present place
+      source: {kind: borrowed, language: skill-aelendlng, form: ghurth}
+      concept: away
+    - form: greile
+      class: part
+      field: Numbers and grammar words
+      gloss: through; by way of an interior; precedes the thing passed through
+      source: {kind: borrowed, language: skill-aelendlng, form: ghrel}
+      concept: through
+    - form: gaende
+      class: part
+      field: Numbers and grammar words
+      gloss: across; from one side to the other of the thing named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: ghand}
+      concept: across
+    - form: gaele
+      class: part
+      field: Numbers and grammar words
+      gloss: on; supported by the surface of the noun that follows
+      source: {kind: borrowed, language: skill-aelendlng, form: ghal}
+      concept: on
+    - form: gine
+      class: adv
+      field: Light, sky and the turning year
+      gloss: now; at the present time
+      source: {kind: borrowed, language: skill-aelendlng, form: ghin}
+      concept: now
+    - form: gonde
+      class: adv
+      field: Light, sky and the turning year
+      gloss: then; at that time
+      source: {kind: borrowed, language: skill-aelendlng, form: ghond}
+      concept: then
+    - form: mougre
+      class: n
+      field: Light, sky and the turning year
+      gloss: the past; the time before the present
+      source: {kind: borrowed, language: skill-aelendlng, form: moghra}
+      concept: past
+    - form: giendon
+      class: n
+      field: Light, sky and the turning year
+      gloss: the present; the current time
+      source: {kind: borrowed, language: skill-aelendlng, form: ghindon}
+      concept: present
+    - form: geirnon
+      class: n
+      field: Light, sky and the turning year
+      gloss: the future; time after the present
+      source: {kind: borrowed, language: skill-aelendlng, form: ghernon}
+      concept: future
+    - form: greinde
+      class: part
+      field: Light, sky and the turning year
+      gloss: since; from the time or event named after it through the present
+      source: {kind: borrowed, language: skill-aelendlng, form: ghrend}
+      concept: since-time
+    - form: gournin
+      class: adv
+      field: Light, sky and the turning year
+      gloss: often; on many occasions
+      source: {kind: borrowed, language: skill-aelendlng, form: ghurnin}
+      concept: often
+    - form: grienar
+      class: adj
+      field: Light, sky and the turning year
+      gloss: lasting; continuing for a long or sustained time
+      source: {kind: borrowed, language: skill-aelendlng, form: ghrenar}
+      concept: [long-duration, lasting-duration]
+    - form: geinde
+      class: adv
+      field: Light, sky and the turning year
+      gloss: already; before the time expected or in question
+      source: {kind: borrowed, language: skill-aelendlng, form: ghend}
+      concept: already
+    - form: ha
+      class: num
+      field: Numbers and grammar words
+      gloss: three
+      source: {kind: borrowed, language: skill-aelendlng, form: kha}
+      concept: three
+    - form: ta taehes
+      class: num
+      field: Numbers and grammar words
+      gloss: twenty; two tens
+      built: [ta, taehes]
+      concept: twenty
+    - form: goul
+      class: adj
+      field: Numbers and grammar words
+      gloss: much; a large quantity of an uncounted thing
+      source: {kind: borrowed, language: skill-aelendlng, form: ghul}
+      concept: much
+    - form: geirin
+      class: adv
+      field: Numbers and grammar words
+      gloss: more; in greater quantity or degree
+      source: {kind: borrowed, language: skill-aelendlng, form: gherin}
+      concept: more
+    - form: geinin
+      class: adv
+      field: Numbers and grammar words
+      gloss: almost; near to the stated quantity or condition but short of it
+      source: {kind: borrowed, language: skill-aelendlng, form: ghenin}
+      concept: almost
+    - form: deilnon
+      class: n
+      field: Numbers and grammar words
+      gloss: a number; a value in counting
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelnon}
+      concept: number
+    - form: deilnathen
+      class: v
+      field: Numbers and grammar words
+      gloss: to count; to determine how many there are
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelnathen}
+      concept: count-verb
+    - form: halnar
+      class: adj
+      field: Colour and the look of things
+      gloss: light in colour; pale; having little depth of colour
+      source: {kind: borrowed, language: skill-aelendlng, form: khalnar}
+      concept: [light-colour, pale]
+    - form: noul
+      class: num
+      field: Numbers and grammar words
+      gloss: zero; the number for no quantity
+      source: {kind: borrowed, language: skill-aelendlng, form: nul}
+      concept: zero
+    - form: geindathen
+      class: v
+      field: Doing, going and being
+      gloss: can; to be able to perform the action named in the utterance
+      source: {kind: borrowed, language: skill-aelendlng, form: ghendathen}
+      concept: can
+    - form: hernar
+      class: adj
+      field: Doing, going and being
+      gloss: possible; able to occur under the conditions in question
+      source: {kind: borrowed, language: skill-aelendlng, form: khernar}
+      concept: possible
+    - form: anhernar
+      class: adj
+      field: Doing, going and being
+      gloss: impossible; unable to occur under the conditions in question
+      source: {kind: borrowed, language: skill-aelendlng, form: ankhernar}
+      concept: impossible
+    - form: gaelgathen
+      class: v
+      field: Doing, going and being
+      gloss: may; to have permission to perform the action named in the utterance
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalgathen}
+      concept: may-permission
+    - form: herin
+      class: adv
+      field: The bard and the word
+      gloss: perhaps; possibly, without asserting likelihood
+      source: {kind: borrowed, language: skill-aelendlng, form: kherin}
+      concept: perhaps
+    - form: gaelnathen
+      class: v
+      field: Doing, going and being
+      gloss: ought; to have good reason or duty to act, without absolute obligation
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalnathen}
+      concept: ought
+    - form: gaelgar
+      class: adj
+      field: Doing, going and being
+      gloss: allowed; permitted by a person, rule or custom
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalgar}
+      concept: allowed
+    - form: gaelgethen
+      class: v
+      field: Doing, going and being
+      gloss: to permit; to give someone permission to act
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalgethen}
+      concept: permit
+    - form: goulnar
+      class: adj
+      field: Doing, going and being
+      gloss: free to act; unconstrained in the action in question
+      source: {kind: borrowed, language: skill-aelendlng, form: gholnar}
+      concept: free
+    - form: angoulnar
+      class: adj
+      field: Doing, going and being
+      gloss: constrained in action; not free to act
+      source: {kind: borrowed, language: skill-aelendlng, form: angholnar}
+      concept: constrained
+    - form: deirnar
+      class: adj
+      field: Doing, going and being
+      gloss: intended; meant to happen through someone's purpose
+      source: {kind: borrowed, language: skill-aelendlng, form: dhernar}
+      concept: intended
+    - form: andeirnar
+      class: adj
+      field: Doing, going and being
+      gloss: accidental; happening without intention
+      source: {kind: borrowed, language: skill-aelendlng, form: andhernar}
+      concept: accidental
+    - form: geintathen
+      class: v
+      field: Doing, going and being
+      gloss: to throw; to cast something through the air
+      source: {kind: borrowed, language: skill-aelendlng, form: ghentathen}
+      concept: throw
+    - form: gourgethen
+      class: v
+      field: Doing, going and being
+      gloss: to destroy; to ruin something beyond use or restoration
+      source: {kind: borrowed, language: skill-aelendlng, form: ghurgethen}
+      concept: destroy
+    - form: mougathen
+      class: v
+      field: Doing, going and being
+      gloss: to remember; to bring or keep something in memory
+      source: {kind: borrowed, language: skill-aelendlng, form: moghathen}
+      concept: remember
+    - form: anmougathen
+      class: v
+      field: Doing, going and being
+      gloss: to forget; to fail to retain or recall something in memory
+      source: {kind: borrowed, language: skill-aelendlng, form: anmoghathen}
+      concept: forget
+    - form: deirnathen
+      class: v
+      field: Doing, going and being
+      gloss: to intend; to mean to do something
+      source: {kind: borrowed, language: skill-aelendlng, form: dhernathen}
+      concept: intend
+    - form: geirnathen
+      class: v
+      field: Doing, going and being
+      gloss: to try; to make an attempt
+      source: {kind: borrowed, language: skill-aelendlng, form: ghernathen}
+      concept: try
+    - form: geirdathen
+      class: v
+      field: Doing, going and being
+      gloss: to trade; to exchange goods or services
+      source: {kind: borrowed, language: skill-aelendlng, form: gherdathen}
+      concept: trade
+    - form: deisathen
+      class: v
+      field: Doing, going and being
+      gloss: to buy; to acquire something for a price
+      source: {kind: borrowed, language: skill-aelendlng, form: dhesathen}
+      concept: buy
+    - form: deisgethen
+      class: v
+      field: Doing, going and being
+      gloss: to sell; to give something in return for a price
+      source: {kind: borrowed, language: skill-aelendlng, form: dhesgethen}
+      concept: sell
+    - form: laegnathen
+      class: v
+      field: Doing, going and being
+      gloss: to thank; to express gratitude to someone
+      source: {kind: borrowed, language: skill-aelendlng, form: laghnathen}
+      concept: thank-verb
+    - form: dielmethen
+      class: v
+      field: Doing, going and being
+      gloss: to forgive; to let go of blame for a wrong
+      source: {kind: borrowed, language: skill-aelendlng, form: dhelmethen}
+      concept: forgive-verb
+    - form: doungethen
+      class: v
+      field: Doing, going and being
+      gloss: to kill; to cause death
+      source: {kind: borrowed, language: skill-aelendlng, form: dhongethen}
+      concept: kill
+    - form: giernathen
+      class: v
+      field: Doing, going and being
+      gloss: to flee; to run away from danger
+      source: {kind: borrowed, language: skill-aelendlng, form: ghirnathen}
+      concept: flee
+    - form: dournathen
+      class: v
+      field: Doing, going and being
+      gloss: to threaten; to indicate an intention to cause harm
+      source: {kind: borrowed, language: skill-aelendlng, form: dhornathen}
+      concept: threaten
+    - form: gaeldathen
+      class: v
+      field: Doing, going and being
+      gloss: to wait; to stay until something happens
+      source: {kind: borrowed, language: skill-aelendlng, form: ghaldathen}
+      concept: wait
+    - form: lourth
+      class: adv
+      field: Numbers and grammar words
+      gloss: down; toward a lower place
+      source: {kind: borrowed, language: skill-aelendlng, form: lur}
+      concept: down
+    - form: gene
+      class: pron
+      field: Numbers and grammar words
+      gloss: he; she; it; a single person or thing already mentioned
+      source: {kind: borrowed, language: skill-aelendlng, form: ghen}
+      concept: [he, she, it]
+    - form: geinra
+      class: pron
+      field: Numbers and grammar words
+      gloss: they; the people or things already mentioned
+      source: {kind: borrowed, language: skill-aelendlng, form: ghenra}
+      concept: they
+    - form: geinal
+      class: pron
+      field: Numbers and grammar words
+      gloss: everyone; all persons in the group meant
+      source: {kind: borrowed, language: skill-aelendlng, form: ghenal}
+      concept: everyone
+    - form: gire
+      class: pron
+      field: Numbers and grammar words
+      gloss: self; oneself; as object, refers back to the subject of the same clause
+      source: {kind: borrowed, language: skill-aelendlng, form: ghir}
+      concept: self
+    - form: gese
+      class: pron
+      field: Numbers and grammar words
+      gloss: who; asks for a person's identity
+      source: {kind: borrowed, language: skill-aelendlng, form: ghes}
+      concept: question-who
+    - form: gere
+      class: pron
+      field: Numbers and grammar words
+      gloss: what; asks for a thing, action or meaning; gere alone requests repetition or explanation
+      source: {kind: borrowed, language: skill-aelendlng, form: gher}
+      concept: [question-what, expression-what]
+    - form: gise
+      class: pron
+      field: Numbers and grammar words
+      gloss: which; asks for a selection from a known set
+      source: {kind: borrowed, language: skill-aelendlng, form: ghis}
+      concept: question-which
+    - form: geisin
+      class: adv
+      field: Numbers and grammar words
+      gloss: how; in what manner
+      source: {kind: borrowed, language: skill-aelendlng, form: ghesin}
+      concept: question-how
+    - form: geisri
+      class: pron
+      field: Numbers and grammar words
+      gloss: whose; asks who possesses the thing in question
+      source: {kind: borrowed, language: skill-aelendlng, form: ghesri}
+      concept: question-whose
+    - form: he
+      class: part
+      field: Numbers and grammar words
+      gloss: whether; opens a yes or no question
+      source: {kind: borrowed, language: skill-aelendlng, form: khe}
+      concept: [question-polar, whether]
+    - form: gose
+      class: conj
+      field: Numbers and grammar words
+      gloss: or; joins alternatives
+      source: {kind: borrowed, language: skill-aelendlng, form: ghos}
+      concept: or
+    - form: gase
+      class: conj
+      field: Numbers and grammar words
+      gloss: but; joins contrasting claims
+      source: {kind: borrowed, language: skill-aelendlng, form: ghas}
+      concept: but
+    - form: gaernen
+      class: conj
+      field: Numbers and grammar words
+      gloss: because; introduces the reason for the main claim
+      source: {kind: borrowed, language: skill-aelendlng, form: gharnen}
+      concept: because
+    - form: gaernin
+      class: adv
+      field: Numbers and grammar words
+      gloss: therefore; as a consequence of the stated reason
+      source: {kind: borrowed, language: skill-aelendlng, form: gharnin}
+      concept: therefore
+    - form: gyese
+      class: conj
+      field: Numbers and grammar words
+      gloss: if; introduces a condition
+      source: {kind: borrowed, language: skill-aelendlng, form: ghus}
+      concept: if
+    - form: helis
+      class: part
+      field: Numbers and grammar words
+      gloss: despite; in spite of the noun or event named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: khelis}
+      concept: despite
+    - form: gerth
+      class: part
+      field: Doing, going and being
+      gloss: in place of; substitutes the noun or action named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: gherth}
+    - form: gaethe
+      class: part
+      field: Numbers and grammar words
+      gloss: like; resembling the person or thing named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: ghath}
+      concept: like
+    - form: angaethe
+      class: part
+      field: Numbers and grammar words
+      gloss: unlike; not resembling the person or thing named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: anghath}
+      concept: unlike
+    - form: deiks
+      class: part
+      field: Numbers and grammar words
+      gloss: except; excludes the person or thing named after it
+      source: {kind: borrowed, language: skill-aelendlng, form: dheks}
+      concept: except
+    - form: geiri
+      class: adv
+      field: Numbers and grammar words
+      gloss: even; marks an included case that exceeds expectation
+      source: {kind: borrowed, language: skill-aelendlng, form: gheri}
+      concept: even
+    - form: gaelnin
+      class: adv
+      field: Numbers and grammar words
+      gloss: especially; with particular emphasis or degree
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalnin}
+      concept: especially
+    - form: gaernar
+      class: adj
+      field: Colour and the look of things
+      gloss: big; large in size
+      source: {kind: borrowed, language: skill-aelendlng, form: gharnar}
+      concept: big
+    - form: mouglar
+      class: adj
+      field: Colour and the look of things
+      gloss: old; having existed for a long time; said of a thing
+      source: {kind: borrowed, language: skill-aelendlng, form: moghlar}
+      concept: old-object
+    - form: geildar
+      class: adj
+      field: Colour and the look of things
+      gloss: good; sound or desirable in the respect meant
+      source: {kind: borrowed, language: skill-aelendlng, form: gheldar}
+      concept: good
+    - form: angeildar
+      class: adj
+      field: Colour and the look of things
+      gloss: bad; unsound or undesirable in the respect meant
+      source: {kind: borrowed, language: skill-aelendlng, form: angheldar}
+      concept: bad
+    - form: gaelnar
+      class: adj
+      field: Colour and the look of things
+      gloss: important; having great consequence or significance
+      source: {kind: borrowed, language: skill-aelendlng, form: ghalnar}
+      concept: important
+    - form: angaelnar
+      class: adj
+      field: Colour and the look of things
+      gloss: trivial; of little consequence or significance
+      source: {kind: borrowed, language: skill-aelendlng, form: anghalnar}
+      concept: trivial
+    - form: deisnar
+      class: adj
+      field: Colour and the look of things
+      gloss: valuable; having worth
+      source: {kind: borrowed, language: skill-aelendlng, form: dhesnar}
+      concept: valuable
+    - form: andeisnar
+      class: adj
+      field: Colour and the look of things
+      gloss: worthless; having no worth
+      source: {kind: borrowed, language: skill-aelendlng, form: andhesnar}
+      concept: worthless
+    - form: gaersar
+      class: adj
+      field: Colour and the look of things
+      gloss: useful; serving a purpose
+      source: {kind: borrowed, language: skill-aelendlng, form: gharsar}
+      concept: useful
+    - form: angaersar
+      class: adj
+      field: Colour and the look of things
+      gloss: useless; serving no purpose
+      source: {kind: borrowed, language: skill-aelendlng, form: angharsar}
+      concept: useless
+    - form: tengar
+      class: adj
+      field: Colour and the look of things
+      gloss: complete; containing all that it needs or is meant to contain
+      source: {kind: borrowed, language: skill-aelendlng, form: tenghar}
+      concept: complete
+    - form: antengar
+      class: adj
+      field: Colour and the look of things
+      gloss: incomplete; lacking some required part
+      source: {kind: borrowed, language: skill-aelendlng, form: antenghar}
+      concept: incomplete
+    - form: gournar
+      class: adj
+      field: Colour and the look of things
+      gloss: opposite; facing the contrary way or at the other extreme
+      source: {kind: borrowed, language: skill-aelendlng, form: ghornar}
+      concept: opposite
+    - form: goursthon
+      class: n
+      field: The wood and its weather
+      gloss: a storm; violent wind with rain, snow or thunder
+      source: {kind: borrowed, language: skill-aelendlng, form: ghursthon}
+      concept: storm
+    - form: gierna
+      class: n
+      field: The wood and its weather
+      gloss: grass; low narrow-leaved plants eaten by grazing herds
+      source: {kind: borrowed, language: skill-aelendlng, form: ghirna}
+      concept: grass
+    - form: gurnon
+      class: n
+      field: The wood and its weather
+      gloss: an animal; a beast; a living creature that moves and feeds
+      source: {kind: borrowed, language: skill-aelendlng, form: ghurnon}
+      concept: [animal, beast]
+    - form: daelnar
+      class: adj
+      field: The wood and its weather
+      gloss: dry; free of moisture
+      source: {kind: borrowed, language: skill-aelendlng, form: dhalnar}
+      concept: dry
+    - form: daelgon
+      class: n
+      field: The wood and its weather
+      gloss: south; the direction southward
+      source: {kind: borrowed, language: skill-aelendlng, form: dhalgon}
+      concept: south
+    - form: geindaron
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: an adult; a person who has reached maturity
+      source: {kind: borrowed, language: skill-aelendlng, form: ghendaron}
+      concept: adult
+    - form: halron
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a community; people joined by shared daily life or place
+      source: {kind: borrowed, language: skill-aelendlng, form: khalron}
+      concept: community
+    - form: gaersand
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a worker; someone who does work
+      source: {kind: borrowed, language: skill-aelendlng, form: gharsand}
+      concept: worker
+    - form: geirdand
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a merchant; someone who trades for a living
+      source: {kind: borrowed, language: skill-aelendlng, form: gherdand}
+      concept: merchant
+    - form: daeron
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a rule; a stated requirement governing conduct or practice
+      source: {kind: borrowed, language: skill-aelendlng, form: dharon}
+      concept: rule
+    - form: grouson
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a command; an instruction given with authority
+      source: {kind: borrowed, language: skill-aelendlng, form: ghroson}
+      concept: command-noun
+    - form: daernar
+      class: adj
+      field: The Pact, the oath and the judgment
+      gloss: right; morally acceptable
+      source: {kind: borrowed, language: skill-aelendlng, form: dharnar}
+      concept: right-ethical
+    - form: andaernar
+      class: adj
+      field: The Pact, the oath and the judgment
+      gloss: wrong; morally unacceptable
+      source: {kind: borrowed, language: skill-aelendlng, form: andharnar}
+      concept: wrong-ethical
+    - form: reida
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: peace; the quiet between neighbors
+      source: {kind: borrowed, language: skill-aelendlng, form: redha}
+      concept: peace
+    - form: goulnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: freedom; the condition of being free to act
+      source: {kind: borrowed, language: skill-aelendlng, form: gholnis}
+      concept: freedom
+    - form: laegon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a gift; something freely given
+      source: {kind: borrowed, language: skill-aelendlng, form: laghon}
+      concept: gift
+    - form: geirdnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: an exchange; giving and receiving things in return
+      source: {kind: borrowed, language: skill-aelendlng, form: gherdnis}
+      concept: exchange-noun
+    - form: gulnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: wealth; an abundance of valuable possessions or resources
+      source: {kind: borrowed, language: skill-aelendlng, form: ghulnis}
+      concept: wealth
+    - form: gaeron
+      class: n
+      field: Doing, going and being
+      gloss: a thing; any object, matter or item under discussion
+      source: {kind: borrowed, language: skill-aelendlng, form: gharon}
+      concept: thing
+    - form: dyelon
+      class: n
+      field: Doing, going and being
+      gloss: an ending; the last point of an event or sequence
+      source: {kind: borrowed, language: skill-aelendlng, form: dhulon}
+      concept: end-noun
+    - form: tengon
+      class: n
+      field: Doing, going and being
+      gloss: completion; the state or event of reaching all that is required
+      source: {kind: borrowed, language: skill-aelendlng, form: tenghon}
+      concept: completion
+    - form: gaerron
+      class: n
+      field: Doing, going and being
+      gloss: a cause; something that brings an event or condition about
+      source: {kind: borrowed, language: skill-aelendlng, form: gharron}
+      concept: cause
+    - form: gaernis
+      class: n
+      field: Doing, going and being
+      gloss: an effect; a result brought about by a cause
+      source: {kind: borrowed, language: skill-aelendlng, form: gharnis}
+      concept: effect
+    - form: gouris
+      class: n
+      field: Doing, going and being
+      gloss: a reason; a consideration that explains or supports a claim or action
+      source: {kind: borrowed, language: skill-aelendlng, form: ghoris}
+      concept: reason
+    - form: deirnis
+      class: n
+      field: Doing, going and being
+      gloss: a purpose; the aim for which an action is done or a thing used
+      source: {kind: borrowed, language: skill-aelendlng, form: dhernis}
+      concept: purpose
+    - form: pelvai
+      class: n
+      field: The wood and its weather
+      gloss: a cloud; any mass of visible moisture suspended in the sky; the Áelendi parent pelpai has this broad sense beside its Sinale source's low cloud
+      source: {kind: borrowed, language: skill-aelendlng, form: pelpai}
+      concept: cloud
+    - form: nielke
+      class: n
+      field: The wood and its weather
+      gloss: a plant root at any depth; the broad sense comes through Áelendi nilki, whose Sinale source names the deep root
+      source: {kind: borrowed, language: skill-aelendlng, form: nilki}
+      concept: root
+    - form: ravale
+      class: n
+      field: The wood and its weather
+      gloss: rain; water falling from clouds
+      source: {kind: borrowed, language: skill-aelendlng, form: rápalo}
+      concept: rain
+    - form: salve
+      class: n
+      field: The wood and its weather
+      gloss: a tree; a tall woody plant with a main trunk
+      source: {kind: borrowed, language: skill-aelendlng, form: salpu}
+      concept: tree
+    - form: telgonalon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: ownership; the recognized right to possess something
+      source: {kind: borrowed, language: skill-aelendlng, form: telgonalon}
+      concept: ownership
+    - form: níemathen rith
+      class: v
+      field: The body and the dead
+      gloss: to inhale; to draw breath in
+      built: [níemathen, rith]
+      concept: inhale
+    - form: níemathen gounel
+      class: v
+      field: The body and the dead
+      gloss: to exhale; to let breath out
+      built: [níemathen, gounel]
+      concept: exhale
+    - form: nond geindathen munde góldathen niemon
+      class: v
+      field: The body and the dead
+      gloss: I cannot take breath; reports suffocation where breathable air is absent or breathing is obstructed
+      built: [nond, geindathen, munde, góldathen, niemon]
+      concept: suffocate
+    - form: grunathen ruskis
+      class: v
+      field: The body and the dead
+      gloss: to hurt; to experience bodily pain, literally to feel pain
+      built: [grunathen, ruskis]
+      concept: hurt-pain
+    - form: róugathen rith
+      class: v
+      field: Doing, going and being
+      gloss: to enter; to go into a place
+      built: [róugathen, rith]
+      concept: enter
+    - form: róugathen gounel
+      class: v
+      field: Doing, going and being
+      gloss: to exit; to go out of a place
+      built: [róugathen, gounel]
+      concept: exit
+    - form: ryenathen rith soldar rundis
+      class: v
+      field: Doing, going and being
+      gloss: to shout; to speak in a loud voice
+      built: [ryenathen, rith, soldar, rundis]
+      concept: shout
+    - form: ryenathen rith niemon rundis
+      class: v
+      field: Doing, going and being
+      gloss: to whisper; to speak in the breath voice, an unvoiced voice
+      built: [ryenathen, rith, niemon, rundis]
+      concept: whisper
+    - form: dárkathen sarnis
+      class: v
+      field: Doing, going and being
+      gloss: to believe; to hold a belief that a claim is true
+      built: [dárkathen, sarnis]
+      concept: believe
+    - form: dárkathen sénthira
+      class: v
+      field: Doing, going and being
+      gloss: to hope; to hold hope for something
+      built: [dárkathen, sénthira]
+      concept: hope-verb
+    - form: dárkathen tharnis
+      class: v
+      field: The bard and the word
+      gloss: to doubt; to hold doubt about a claim
+      built: [dárkathen, tharnis]
+      concept: doubt-verb
+    - form: nond geindathen
+      class: v
+      field: Doing, going and being
+      gloss: cannot; to be unable to perform the action in question
+      built: [nond, geindathen]
+      concept: cannot
+    - form: eldathen herin
+      class: v
+      field: Doing, going and being
+      gloss: might happen; the event in question is possible, with its truth left open
+      built: [eldathen, herin]
+      concept: might-possibility
+    - form: sira mirlis
+      class: n
+      field: The wood and its weather
+      gloss: mud; earth saturated with water
+      built: [sira, mirlis]
+      concept: mud
+    - form: elnathen nonduk pelvai
+      class: v
+      field: The wood and its weather
+      gloss: clear weather; no cloud exists; a weather report on the present sky
+      built: [elnathen, nonduk, pelvai]
+      concept: clear-weather
+    - form: elnathen gurnar pelvai
+      class: v
+      field: The wood and its weather
+      gloss: cloudy; many clouds exist; a weather report on the present sky
+      built: [elnathen, gurnar, pelvai]
+      concept: cloudy
+    - form: rith ordur taldis
+      class: part
+      field: Numbers and grammar words
+      gloss: fourth; in position four; replace ordur with a numeral for its ordinal position, as rith reithik taldis, fifth
+      built: [rith, ordur, taldis]
+      concept: ordinal-construction
+    - form: diema diema
+      class: n
+      field: Numbers and grammar words
+      gloss: a quarter; half of a half
+      built: [diema, diema]
+      concept: quarter
+    - form: geirin thinar ukal derar gaeron
+      class: adv
+      field: Numbers and grammar words
+      gloss: most; more in quantity or degree than each other thing in the comparison
+      built: [geirin, thinar, ukal, derar, gaeron]
+      concept: most
+    - form: thienen thinar ukal derar gaeron
+      class: adv
+      field: Numbers and grammar words
+      gloss: least; less in quantity or degree than each other thing in the comparison
+      built: [thienen, thinar, ukal, derar, gaeron]
+      concept: least
+    - form: uk threl thend
+      class: pron
+      field: Numbers and grammar words
+      gloss: either; one chosen from the two of a pair
+      built: [uk, threl, thend]
+      concept: either
+    - form: nonduk threl thend
+      class: pron
+      field: Numbers and grammar words
+      gloss: neither; no member chosen from the two of a pair
+      built: [nonduk, threl, thend]
+      concept: neither
+    - form: rith kren miron
+      class: part
+      field: Numbers and grammar words
+      gloss: somewhere; in some unspecified place
+      built: [rith, kren, miron]
+      concept: somewhere
+    - form: rith nonduk miron
+      class: part
+      field: Numbers and grammar words
+      gloss: nowhere; in no place
+      built: [rith, nonduk, miron]
+      concept: nowhere
+    - form: rith alnar miron
+      class: part
+      field: Numbers and grammar words
+      gloss: everywhere; in all places in the scope meant
+      built: [rith, alnar, miron]
+      concept: everywhere
+    - form: murnel óssenda
+      class: n
+      field: Light, sky and the turning year
+      gloss: midnight; the middle of the night
+      built: [murnel, óssenda]
+      concept: midnight
+    - form: ti kieron
+      class: n
+      field: Light, sky and the turning year
+      gloss: today; this day
+      built: [ti, kieron]
+      concept: today
+    - form: rith kirdis
+      class: part
+      field: Light, sky and the turning year
+      gloss: during; within the time of the event named before kirdis
+      built: [rith, kirdis]
+      concept: during
+    - form: kren kirdis
+      class: n
+      field: Light, sky and the turning year
+      gloss: sometimes; at some times
+      built: [kren, kirdis]
+      concept: sometimes
+    - form: nal uk kirdin
+      class: part
+      field: Light, sky and the turning year
+      gloss: once; on one occasion
+      built: [nal, uk, kirdin]
+      concept: once
+    - form: nal ta kirdin
+      class: part
+      field: Light, sky and the turning year
+      gloss: twice; on two occasions
+      built: [nal, ta, kirdin]
+      concept: twice
+    - form: nal gurnar kirdin
+      class: part
+      field: Light, sky and the turning year
+      gloss: repeatedly; on many occasions
+      built: [nal, gurnar, kirdin]
+      concept: repeatedly
+    - form: nond geinde
+      class: adv
+      field: Light, sky and the turning year
+      gloss: yet; not already, in a negative statement about an expected event
+      built: [nond, geinde]
+      concept: yet
+    - form: nal treinen kirdin
+      class: part
+      field: Light, sky and the turning year
+      gloss: first; at the first occasion in the sequence
+      built: [nal, treinen, kirdin]
+      concept: first-sequence
+    - form: nal dáelamen kirdin
+      class: part
+      field: Light, sky and the turning year
+      gloss: next; at the following occasion in the sequence
+      built: [nal, dáelamen, kirdin]
+      concept: next
+    - form: nal dyelon
+      class: part
+      field: Light, sky and the turning year
+      gloss: finally; at the ending of a sequence
+      built: [nal, dyelon]
+      concept: finally
+    - form: kendar neli
+      class: pron
+      field: Numbers and grammar words
+      gloss: anyone; any person without restriction
+      built: [kendar, neli]
+      concept: anyone
+    - form: nond kendar
+      class: pron
+      field: Numbers and grammar words
+      gloss: no one; no person
+      built: [nond, kendar]
+      concept: no-one
+    - form: tendar neli
+      class: pron
+      field: Numbers and grammar words
+      gloss: anything; any thing without restriction
+      built: [tendar, neli]
+      concept: anything
+    - form: uk derar
+      class: pron
+      field: Numbers and grammar words
+      gloss: another; one other person or thing
+      built: [uk, derar]
+      concept: another
+    - form: gere miron
+      class: n
+      field: Numbers and grammar words
+      gloss: where; what place
+      built: [gere, miron]
+      concept: question-where
+    - form: gere kirdis
+      class: n
+      field: Numbers and grammar words
+      gloss: when; what time
+      built: [gere, kirdis]
+      concept: question-when
+    - form: gere gouris
+      class: n
+      field: Numbers and grammar words
+      gloss: why; what reason
+      built: [gere, gouris]
+      concept: question-why
+    - form: gere deilnon
+      class: n
+      field: Numbers and grammar words
+      gloss: how many; what number
+      built: [gere, deilnon]
+      concept: question-how-many
+    - form: gere menthis
+      class: n
+      field: Numbers and grammar words
+      gloss: how much; what amount
+      built: [gere, menthis]
+      concept: question-how-much
+    - form: gierth gese
+      class: part
+      field: Numbers and grammar words
+      gloss: to whom; asks the recipient or person toward whom an action is directed
+      built: [gierth, gese]
+      concept: question-to-whom
+    - form: threl gere miron
+      class: part
+      field: Numbers and grammar words
+      gloss: from where; from what place
+      built: [threl, gere, miron]
+      concept: question-from-where
+    - form: gere deirnis
+      class: n
+      field: Numbers and grammar words
+      gloss: for what purpose; asks the intended purpose
+      built: [gere, deirnis]
+      concept: question-for-what-purpose
+    - form: ryenathen tose gere
+      class: v
+      field: Numbers and grammar words
+      gloss: what do you say; a fixed request to repeat or clarify an utterance; pardon
+      built: [ryenathen, tose, gere]
+      concept: [question-clarification, expression-pardon]
+    - form: nond gose
+      class: conj
+      field: Numbers and grammar words
+      gloss: nor; joins a further negative alternative after a negative claim
+      built: [nond, gose]
+      concept: nor
+    - form: gyese nond
+      class: conj
+      field: Numbers and grammar words
+      gloss: unless; if not; gyese nond P, seis Q means if P is not true, Q follows
+      built: [gyese, nond]
+      concept: unless
+    - form: gase gyese
+      class: conj
+      field: Numbers and grammar words
+      gloss: although; the following fact holds despite its apparent conflict with the main claim
+      built: [gase, gyese]
+      concept: although
+    - form: gase tenri
+      class: adv
+      field: Numbers and grammar words
+      gloss: however; nevertheless; affirms the following claim despite the preceding contrast
+      built: [gase, tenri]
+      concept: [however, nevertheless]
+    - form: dergin gerth
+      class: adv
+      field: Numbers and grammar words
+      gloss: instead; in the place of the rejected alternative
+      built: [dergin, gerth]
+      concept: instead
+    - form: gaethe nal
+      class: part
+      field: Numbers and grammar words
+      gloss: as; in the capacity or manner of the role or action named after it
+      built: [gaethe, nal]
+      concept: as
+    - form: gose gose
+      class: conj
+      field: Numbers and grammar words
+      gloss: either ... or; place gose before each of the two alternatives
+      built: [gose, gose]
+      concept: either-alternative
+    - form: nond gose nond gose
+      class: conj
+      field: Numbers and grammar words
+      gloss: neither ... nor; place nond gose before each rejected alternative
+      built: [nond, gose, nond, gose]
+      concept: neither-alternative
+    - form: reik reik
+      class: conj
+      field: Numbers and grammar words
+      gloss: both ... and; place reik before each item to affirm both together
+      built: [reik, reik]
+      concept: both-conjunction
+    - form: gere temar
+      class: adv
+      field: Numbers and grammar words
+      gloss: that is; namely; introduces a precise restatement or identification
+      built: [gere, temar]
+      concept: [that-is, namely]
+    - form: uk dírmalis
+      class: n
+      field: Numbers and grammar words
+      gloss: for example; a single illustration of the claim
+      built: [uk, dírmalis]
+      concept: for-example
+    - form: gaeri gaeri lunnar
+      class: adj
+      field: Colour and the look of things
+      gloss: tiny; extremely small
+      built: [gaeri, gaeri, lunnar]
+      concept: tiny
+    - form: geirin geildar
+      class: adj
+      field: Colour and the look of things
+      gloss: better; good to a greater degree than the thing compared
+      built: [geirin, geildar]
+      concept: better
+    - form: geirin angeildar
+      class: adj
+      field: Colour and the look of things
+      gloss: worse; bad to a greater degree than the thing compared
+      built: [geirin, angeildar]
+      concept: worse
+    - form: geirin geildar thinar ukal derar gaeron
+      class: adj
+      field: Colour and the look of things
+      gloss: best; better than each other thing in the comparison
+      built: [geirin, geildar, thinar, ukal, derar, gaeron]
+      concept: best
+    - form: geirin angeildar thinar ukal derar gaeron
+      class: adj
+      field: Colour and the look of things
+      gloss: worst; worse than each other thing in the comparison
+      built: [geirin, angeildar, thinar, ukal, derar, gaeron]
+      concept: worst
+    - form: gaeri gaeri
+      class: adv
+      field: Colour and the look of things
+      gloss: extremely; to an exceptionally high degree
+      built: [gaeri, gaeri]
+      concept: extremely
+    - form: goul antemar
+      class: adj
+      field: Colour and the look of things
+      gloss: too much; more in quantity or degree than is suitable
+      built: [goul, antemar]
+      concept: too-much
+    - form: send antemar
+      class: adj
+      field: Colour and the look of things
+      gloss: too little; less in quantity or degree than is needed
+      built: [send, antemar]
+      concept: too-little
+    - form: kenlon tharan
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a boy; a male child
+      built: [kenlon, tharan]
+      concept: boy
+    - form: kenlon thara
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a girl; a female child
+      built: [kenlon, thara]
+      concept: girl
+    - form: uk kendon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: an individual; one person taken separately
+      built: [uk, kendon]
+      concept: individual
+    - form: gurnar kendon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a crowd; many people gathered in one place
+      built: [gurnar, kendon]
+      concept: crowd
+    - form: gaer tergon
+      class: n
+      field: Doing, going and being
+      gloss: a transformation; a change that gives a substantially different form or nature
+      built: [gaer, tergon]
+      concept: transformation
+    - form: reida rith tose
+      class: n
+      field: The hall and the guest
+      gloss: goodbye; peace in you; a fixed leave-taking wish
+      built: [reida, rith, tose]
+      concept: goodbye
+    - form: kernathen munde
+      class: v
+      field: The hall and the guest
+      gloss: please; I ask; a fixed courteous preface to a request
+      built: [kernathen, munde]
+      concept: expression-please
+    - form: laegnathen munde tose
+      class: v
+      field: The hall and the guest
+      gloss: thank you; I thank you
+      built: [laegnathen, munde, tose]
+      concept: expression-thank-you
+    - form: nond molthon
+      class: n
+      field: The hall and the guest
+      gloss: you're welcome; no debt of honor; a response releasing the recipient from repayment
+      built: [nond, molthon]
+      concept: expression-youre-welcome
+    - form: gaelgathen munde róugathen greile
+      class: v
+      field: The hall and the guest
+      gloss: excuse me; may I pass through; a fixed courteous request to pass, also used before an interruption
+      built: [gaelgathen, munde, róugathen, greile]
+      concept: expression-excuse-me
+    - form: dárkathen munde gournis
+      class: v
+      field: The hall and the guest
+      gloss: sorry; I hold regret
+      built: [dárkathen, munde, gournis]
+      concept: expression-sorry
+    - form: dielmethen tose munde
+      class: v
+      field: The hall and the guest
+      gloss: forgive me; a fixed request that you forgive me
+      built: [dielmethen, tose, munde]
+      concept: expression-forgive-me
+    - form: drin tenri
+      class: part
+      field: The hall and the guest
+      gloss: of course; yes indeed; affirms that the answer follows readily
+      built: [drin, tenri]
+      concept: of-course
+    - form: salkathen tose
+      class: v
+      field: The hall and the guest
+      gloss: listen; a direct request to the person addressed
+      built: [salkathen, tose]
+      concept: expression-listen
+    - form: durnathen tose
+      class: v
+      field: The hall and the guest
+      gloss: look; a direct request to the person addressed
+      built: [durnathen, tose]
+      concept: expression-look
+    - form: gaeldathen tose
+      class: v
+      field: The hall and the guest
+      gloss: wait; a direct request to the person addressed
+      built: [gaeldathen, tose]
+      concept: expression-wait
+    - form: árnathen tose tis
+      class: v
+      field: The hall and the guest
+      gloss: come here; a direct request to the person addressed
+      built: [árnathen, tose, tis]
+      concept: expression-come-here
+    - form: róugathen tose gourthe
+      class: v
+      field: The hall and the guest
+      gloss: go away; a direct request to the person addressed
+      built: [róugathen, tose, gourthe]
+      concept: expression-go-away
+    - form: kenthathen tose munde
+      class: v
+      field: The hall and the guest
+      gloss: help; help me; an urgent request for aid
+      built: [kenthathen, tose, munde]
+      concept: expression-help
+    - form: taldathen tose
+      class: v
+      field: The hall and the guest
+      gloss: stop; a direct request to the person addressed
+      built: [taldathen, tose]
+      concept: expression-stop
+    - form: sarnathen munde
+      class: v
+      field: The hall and the guest
+      gloss: I understand; I grasp the meaning
+      built: [sarnathen, munde]
+      concept: expression-i-understand
+    - form: nond sarnathen munde
+      class: v
+      field: The hall and the guest
+      gloss: I do not understand; I do not grasp the meaning
+      built: [nond, sarnathen, munde]
+      concept: expression-i-do-not-understand
+    - form: deirnathen tose gere
+      class: v
+      field: The hall and the guest
+      gloss: what do you mean; what do you intend by your words
+      built: [deirnathen, tose, gere]
+      concept: expression-what-do-you-mean
+    - form: ryenathen tose geisin
+      class: v
+      field: The hall and the guest
+      gloss: how do you say; asks for the words used to express a stated meaning
+      built: [ryenathen, tose, geisin]
+      concept: expression-how-do-you-say
+    - form: dárkathen ti gere lenthon
+      class: v
+      field: The hall and the guest
+      gloss: what is this called; what name does this have
+      built: [dárkathen, ti, gere, lenthon]
+      concept: expression-what-is-this-called
+    - form: he en to tenar
+      class: v
+      field: The hall and the guest
+      gloss: really; is that true; a fixed surprised request for confirmation
+      built: [he, en, to, tenar]
+      concept: expression-really
+    - form: noth gaeri
+      class: part
+      field: The hall and the guest
+      gloss: not at all; a fixed emphatic conversational denial
+      built: [noth, gaeri]
+      concept: expression-not-at-all
+    - form: targathen
+      class: v
+      field: Doing, going and being
+      gloss: must; to be obliged to perform the action in question
+      source: {kind: borrowed, language: skill-aelendlng, form: targathen}
+      concept: must
+    - form: norgathen
+      class: v
+      field: Doing, going and being
+      gloss: must not; to be prohibited from performing the action in question
+      source: {kind: borrowed, language: skill-aelendlng, form: norgathen}
+      concept: must-not
+    - form: Shalor en kir a thel
+      class: call
+      field: The hall and the guest
+      gloss: Welcome, friend of the light; a fixed formal greeting among Élavendri speakers
+      concept: [hello, expression-welcome]
+    - form: uron
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: an elder; one old enough to have heard the genealogies from the last Keeper
+      source: {kind: borrowed, language: skill-aelendlng, form: uron}
+      concept: elder
+    - form: éilapa
+      class: n
+      field: The wood and its weather
+      gloss: the wide sky
+      source: {kind: borrowed, language: skill-aelendlng, form: éilapa}
+      concept: sky
+    - form: ólpessa
+      class: n
+      field: Light, sky and the turning year
+      gloss: the long dusk
+      source: {kind: borrowed, language: skill-aelendlng, form: ólpessa}
+      concept: dusk
+    - form: rískalo
+      class: n
+      field: The wood and its weather
+      gloss: lightning
+      source: {kind: borrowed, language: skill-aelendlng, form: rískalo}
+      concept: lightning
+    - form: óssenda
+      class: n
+      field: Light, sky and the turning year
+      gloss: night
+      source: {kind: borrowed, language: skill-aelendlng, form: óssenda}
+      concept: night
+    - form: ólpeira
+      class: n
+      field: The body and the dead
+      gloss: a dream
+      source: {kind: borrowed, language: skill-aelendlng, form: ólpeira}
+      concept: dream
+    - form: dírmalis
+      class: n
+      field: The body and the dead
+      gloss: a sight; a thing seen; the look of a thing
+      source: {kind: borrowed, language: skill-aelendlng, form: dírmalis}
+      concept: [see-noun, appearance]
+    - form: sóldaris
+      class: n
+      field: The body and the dead
+      gloss: a sound; a thing heard
+      source: {kind: borrowed, language: skill-aelendlng, form: sóldaris}
+      concept: hear-noun
+    - form: múnsala
+      class: n
+      field: The body and the dead
+      gloss: a smell; a scent
+      source: {kind: borrowed, language: skill-aelendlng, form: múnsala}
+      concept: smell-noun
+    - form: lóskima
+      class: n
+      field: The body and the dead
+      gloss: a taste; a flavour
+      source: {kind: borrowed, language: skill-aelendlng, form: lóskima}
+      concept: taste-noun
+    - form: sénthira
+      class: n
+      field: The body and the dead
+      gloss: hope
+      source: {kind: borrowed, language: skill-aelendlng, form: sénthira}
+      concept: hope
+    - form: rónkalis
+      class: n
+      field: The body and the dead
+      gloss: pride; honour a man claims for himself
+      source: {kind: borrowed, language: skill-aelendlng, form: rónkalis}
+      concept: pride
+    - form: ánsenthira
+      class: n
+      field: The body and the dead
+      gloss: despair; hope given up
+      source: {kind: borrowed, language: skill-aelendlng, form: ánsenthira}
+      concept: despair
+    - form: lúrgsenthira
+      class: n
+      field: The body and the dead
+      gloss: disappointment; a hope that has fallen
+      source: {kind: borrowed, language: skill-aelendlng, form: lúrgsenthira}
+      concept: disappointment
+    - form: méldaris
+      class: n
+      field: The body and the dead
+      gloss: romantic love; the love between lovers
+      source: {kind: borrowed, language: skill-aelendlng, form: méldaris}
+      concept: love-eros
+    - form: ílthamon
+      class: n
+      field: The body and the dead
+      gloss: agape; hallowed love, given to all without asking
+      source: {kind: borrowed, language: skill-aelendlng, form: ílthamon}
+      concept: love-agape
+    - form: tharsa
+      class: n
+      field: The body and the dead
+      gloss: the hair of the head
+      source: {kind: borrowed, language: skill-aelendlng, form: tharsa}
+      concept: hair
+    - form: runkis
+      class: n
+      field: The body and the dead
+      gloss: the nose
+      source: {kind: borrowed, language: skill-aelendlng, form: runkis}
+      concept: nose
+    - form: mersa
+      class: n
+      field: The body and the dead
+      gloss: a lip
+      source: {kind: borrowed, language: skill-aelendlng, form: mersa}
+      concept: lip
+    - form: kelsis
+      class: n
+      field: The body and the dead
+      gloss: a tooth
+      source: {kind: borrowed, language: skill-aelendlng, form: kelsis}
+      concept: tooth
+    - form: gárthemon
+      class: n
+      field: The body and the dead
+      gloss: the shoulder
+      source: {kind: borrowed, language: skill-aelendlng, form: gárthemon}
+      concept: shoulder
+    - form: kúrdela
+      class: n
+      field: The body and the dead
+      gloss: the elbow
+      source: {kind: borrowed, language: skill-aelendlng, form: kúrdela}
+      concept: elbow
+    - form: lundis
+      class: n
+      field: The body and the dead
+      gloss: a finger
+      source: {kind: borrowed, language: skill-aelendlng, form: lundis}
+      concept: finger
+    - form: thórkalon
+      class: n
+      field: The body and the dead
+      gloss: the chest
+      source: {kind: borrowed, language: skill-aelendlng, form: thórkalon}
+      concept: chest
+    - form: múrkalon
+      class: n
+      field: The body and the dead
+      gloss: the belly
+      source: {kind: borrowed, language: skill-aelendlng, form: múrkalon}
+      concept: belly
+    - form: ránthemon
+      class: n
+      field: The body and the dead
+      gloss: the back
+      source: {kind: borrowed, language: skill-aelendlng, form: ránthemon}
+      concept: back
+    - form: mórgila
+      class: n
+      field: The body and the dead
+      gloss: the hip; the waist
+      source: {kind: borrowed, language: skill-aelendlng, form: mórgila}
+      concept: [hip, waist]
+    - form: gúrdamon
+      class: n
+      field: The body and the dead
+      gloss: the knee
+      source: {kind: borrowed, language: skill-aelendlng, form: gúrdamon}
+      concept: knee
+    - form: lúmrisa
+      class: n
+      field: The body and the dead
+      gloss: the skin; a hide
+      source: {kind: borrowed, language: skill-aelendlng, form: lúmrisa}
+      concept: skin
+    - form: kulthon
+      class: n
+      field: The body and the dead
+      gloss: a bone
+      source: {kind: borrowed, language: skill-aelendlng, form: kulthon}
+      concept: bone
+    - form: tamris
+      class: n
+      field: The body and the dead
+      gloss: food; a meal
+      source: {kind: borrowed, language: skill-aelendlng, form: tamris}
+      concept: food
+    - form: lúnthema
+      class: n
+      field: The body and the dead
+      gloss: a drink
+      source: {kind: borrowed, language: skill-aelendlng, form: lúnthema}
+      concept: drink-noun
+    - form: thérsala
+      class: n
+      field: The body and the dead
+      gloss: air
+      source: {kind: borrowed, language: skill-aelendlng, form: thérsala}
+      concept: air
+    - form: dursa
+      class: n
+      field: The body and the dead
+      gloss: sleep
+      source: {kind: borrowed, language: skill-aelendlng, form: dursa}
+      concept: sleep-noun
+    - form: múrkison
+      class: n
+      field: The body and the dead
+      gloss: dung
+      source: {kind: borrowed, language: skill-aelendlng, form: múrkison}
+      concept: dung
+    - form: ganda
+      class: n
+      field: The hall and the guest
+      gloss: a door
+      source: {kind: borrowed, language: skill-aelendlng, form: ganda}
+      concept: door
+    - form: thárkison
+      class: n
+      field: The hall and the guest
+      gloss: shutters; the boards of a window
+      source: {kind: borrowed, language: skill-aelendlng, form: thárkison}
+      concept: shutters
+    - form: ámmira
+      class: n
+      field: The house and the old blood
+      gloss: a mother
+      source: {kind: borrowed, language: skill-aelendlng, form: ámmira}
+      concept: mother
+    - form: úrammira
+      class: n
+      field: The house and the old blood
+      gloss: a grandmother
+      source: {kind: borrowed, language: skill-aelendlng, form: úrammira}
+      concept: grandmother
+    - form: úrdathar
+      class: n
+      field: The house and the old blood
+      gloss: a grandfather
+      source: {kind: borrowed, language: skill-aelendlng, form: úrdathar}
+      concept: grandfather
+    - form: kénthilar
+      class: n
+      field: The house and the old blood
+      gloss: a cousin
+      source: {kind: borrowed, language: skill-aelendlng, form: kénthilar}
+      concept: cousin
+    - form: thalmand
+      class: n
+      field: The house and the old blood
+      gloss: a husband
+      source: {kind: borrowed, language: skill-aelendlng, form: thalmand}
+      concept: husband
+    - form: thálmanda
+      class: n
+      field: The house and the old blood
+      gloss: a wife
+      source: {kind: borrowed, language: skill-aelendlng, form: thálmanda}
+      concept: wife
+    - form: úrkenand
+      class: n
+      field: The house and the old blood
+      gloss: an ancestor; one of the dead a clan still counts
+      source: {kind: borrowed, language: skill-aelendlng, form: úrkenand}
+      concept: ancestor
+    - form: ánkenon
+      class: n
+      field: The house and the old blood
+      gloss: an orphan; a child with no kin to keep it
+      source: {kind: borrowed, language: skill-aelendlng, form: ánkenon}
+      concept: orphan
+    - form: soldron
+      class: n
+      field: The body and the dead
+      gloss: noise; unwanted or confused sound
+      source: {kind: borrowed, language: skill-aelendlng, form: soldron}
+      concept: noise
+    - form: rundis
+      class: n
+      field: The body and the dead
+      gloss: a voice; the bodily sound of a speaker
+      source: {kind: borrowed, language: skill-aelendlng, form: rundis}
+      concept: voice
+    - form: saldren
+      class: n
+      field: The body and the dead
+      gloss: silence; absence of sound
+      source: {kind: borrowed, language: skill-aelendlng, form: saldren}
+      concept: silence
+    - form: grunis
+      class: n
+      field: The body and the dead
+      gloss: a bodily sensation; an experience of the senses
+      source: {kind: borrowed, language: skill-aelendlng, form: grunis}
+      concept: sensation
+    - form: merlis
+      class: n
+      field: The body and the dead
+      gloss: joy; a sudden strong gladness
+      source: {kind: borrowed, language: skill-aelendlng, form: merlis}
+      concept: joy
+    - form: merlon
+      class: n
+      field: The body and the dead
+      gloss: happiness; an enduring state of gladness
+      source: {kind: borrowed, language: skill-aelendlng, form: merlon}
+      concept: happiness
+    - form: losnis
+      class: n
+      field: The body and the dead
+      gloss: pleasure; a pleasant feeling
+      source: {kind: borrowed, language: skill-aelendlng, form: losnis}
+      concept: pleasure
+    - form: tendaris
+      class: n
+      field: The body and the dead
+      gloss: contentment; being at peace with what one has
+      source: {kind: borrowed, language: skill-aelendlng, form: tendaris}
+      concept: contentment
+    - form: rondis
+      class: n
+      field: The body and the dead
+      gloss: admiration; warm esteem for another's qualities
+      source: {kind: borrowed, language: skill-aelendlng, form: rondis}
+      concept: admiration
+    - form: kendaris
+      class: n
+      field: The body and the dead
+      gloss: jealousy; fear of losing another's affection or place to a rival
+      source: {kind: borrowed, language: skill-aelendlng, form: kendaris}
+      concept: jealousy
+    - form: melthis
+      class: n
+      field: The body and the dead
+      gloss: sadness; an unhappy feeling
+      source: {kind: borrowed, language: skill-aelendlng, form: melthis}
+      concept: sadness
+    - form: mirdis
+      class: n
+      field: The body and the dead
+      gloss: humility; a modest judgment of oneself
+      source: {kind: borrowed, language: skill-aelendlng, form: mirdis}
+      concept: humility
+    - form: kenris
+      class: n
+      field: The body and the dead
+      gloss: compassion; concern for suffering with a wish to relieve it
+      source: {kind: borrowed, language: skill-aelendlng, form: kenris}
+      concept: compassion
+    - form: murdis
+      class: n
+      field: The body and the dead
+      gloss: pity; sorrow for another's misfortune
+      source: {kind: borrowed, language: skill-aelendlng, form: murdis}
+      concept: pity
+    - form: semris
+      class: n
+      field: The body and the dead
+      gloss: sympathy; fellow feeling with another's emotion
+      source: {kind: borrowed, language: skill-aelendlng, form: semris}
+      concept: sympathy
+    - form: ilnis
+      class: n
+      field: The body and the dead
+      gloss: desire; a wish to have or do something
+      source: {kind: borrowed, language: skill-aelendlng, form: ilnis}
+      concept: desire
+    - form: ilndaris
+      class: n
+      field: The body and the dead
+      gloss: satisfaction; the feeling of a desire fulfilled
+      source: {kind: borrowed, language: skill-aelendlng, form: ilndaris}
+      concept: satisfaction
+    - form: angrilis
+      class: n
+      field: The body and the dead
+      gloss: frustration; distress at being prevented from fulfilling a wish
+      source: {kind: borrowed, language: skill-aelendlng, form: angrilis}
+      concept: frustration
+    - form: sarglis
+      class: n
+      field: The body and the dead
+      gloss: curiosity; a desire to find out
+      source: {kind: borrowed, language: skill-aelendlng, form: sarglis}
+      concept: curiosity
+    - form: tharnis
+      class: n
+      field: The body and the dead
+      gloss: doubt; uncertainty whether something is true
+      source: {kind: borrowed, language: skill-aelendlng, form: tharnis}
+      concept: doubt
+    - form: tendris
+      class: n
+      field: The body and the dead
+      gloss: certainty; being fully convinced that something is true
+      source: {kind: borrowed, language: skill-aelendlng, form: tendris}
+      concept: certainty
+    - form: nordis
+      class: n
+      field: The body and the dead
+      gloss: surprise; a feeling caused by something unexpected
+      source: {kind: borrowed, language: skill-aelendlng, form: nordis}
+      concept: surprise
+    - form: dursnis
+      class: n
+      field: The body and the dead
+      gloss: boredom; weary lack of interest
+      source: {kind: borrowed, language: skill-aelendlng, form: dursnis}
+      concept: boredom
+    - form: arnis
+      class: n
+      field: The body and the dead
+      gloss: anticipation; expectant feeling toward a coming event
+      source: {kind: borrowed, language: skill-aelendlng, form: arnis}
+      concept: anticipation
+    - form: sarnis
+      class: n
+      field: The body and the dead
+      gloss: belief; acceptance that a claim is true
+      source: {kind: borrowed, language: skill-aelendlng, form: sarnis}
+      concept: belief
+    - form: irthnis
+      class: n
+      field: The body and the dead
+      gloss: reverence; profound respect for what is held sacred
+      source: {kind: borrowed, language: skill-aelendlng, form: irthnis}
+      concept: reverence
+    - form: meldis
+      class: n
+      field: The body and the dead
+      gloss: affection; fond regard for someone
+      source: {kind: borrowed, language: skill-aelendlng, form: meldis}
+      concept: affection
+    - form: ilnris
+      class: n
+      field: The body and the dead
+      gloss: attraction; a feeling of being drawn to someone
+      source: {kind: borrowed, language: skill-aelendlng, form: ilnris}
+      concept: attraction
+    - form: kenlis
+      class: n
+      field: The body and the dead
+      gloss: intimacy; emotional closeness and shared private understanding
+      source: {kind: borrowed, language: skill-aelendlng, form: kenlis}
+      concept: intimacy
+    - form: semron
+      class: n
+      field: The body and the dead
+      gloss: companionship; the comfort of being with a companion
+      source: {kind: borrowed, language: skill-aelendlng, form: semron}
+      concept: companionship
+    - form: tharnon
+      class: n
+      field: The body and the dead
+      gloss: the forehead
+      source: {kind: borrowed, language: skill-aelendlng, form: tharnon}
+      concept: forehead
+    - form: karnis
+      class: n
+      field: The body and the dead
+      gloss: the jaw
+      source: {kind: borrowed, language: skill-aelendlng, form: karnis}
+      concept: jaw
+    - form: dranis
+      class: n
+      field: The body and the dead
+      gloss: the chin
+      source: {kind: borrowed, language: skill-aelendlng, form: dranis}
+      concept: chin
+    - form: tumron
+      class: n
+      field: The body and the dead
+      gloss: the stomach; the digestive organ
+      source: {kind: borrowed, language: skill-aelendlng, form: tumron}
+      concept: stomach
+    - form: rangelon
+      class: n
+      field: The body and the dead
+      gloss: the spine; the backbone
+      source: {kind: borrowed, language: skill-aelendlng, form: rangelon}
+      concept: spine
+    - form: durnis
+      class: n
+      field: The body and the dead
+      gloss: a buttock
+      source: {kind: borrowed, language: skill-aelendlng, form: durnis}
+      concept: buttock
+    - form: tharlon
+      class: n
+      field: The body and the dead
+      gloss: a wrist
+      source: {kind: borrowed, language: skill-aelendlng, form: tharlon}
+      concept: wrist
+    - form: thalnis
+      class: n
+      field: The body and the dead
+      gloss: the palm of the hand
+      source: {kind: borrowed, language: skill-aelendlng, form: thalnis}
+      concept: palm
+    - form: lurnon
+      class: n
+      field: The body and the dead
+      gloss: a thumb
+      source: {kind: borrowed, language: skill-aelendlng, form: lurnon}
+      concept: thumb
+    - form: thodnis
+      class: n
+      field: The body and the dead
+      gloss: an ankle
+      source: {kind: borrowed, language: skill-aelendlng, form: thodnis}
+      concept: ankle
+    - form: thodron
+      class: n
+      field: The body and the dead
+      gloss: a heel
+      source: {kind: borrowed, language: skill-aelendlng, form: thodron}
+      concept: heel
+    - form: thodlis
+      class: n
+      field: The body and the dead
+      gloss: the sole of the foot
+      source: {kind: borrowed, language: skill-aelendlng, form: thodlis}
+      concept: sole
+    - form: murnis
+      class: n
+      field: The body and the dead
+      gloss: fat; bodily fat
+      source: {kind: borrowed, language: skill-aelendlng, form: murnis}
+      concept: fat
+    - form: thurnis
+      class: n
+      field: The body and the dead
+      gloss: sweat; moisture shed by the skin
+      source: {kind: borrowed, language: skill-aelendlng, form: thurnis}
+      concept: sweat
+    - form: dunnis
+      class: n
+      field: The body and the dead
+      gloss: tears; liquid shed from the eyes
+      source: {kind: borrowed, language: skill-aelendlng, form: dunnis}
+      concept: tears
+    - form: nimron
+      class: n
+      field: The body and the dead
+      gloss: a lung
+      source: {kind: borrowed, language: skill-aelendlng, form: nimron}
+      concept: lung
+    - form: gurmon
+      class: n
+      field: The body and the dead
+      gloss: a kidney
+      source: {kind: borrowed, language: skill-aelendlng, form: gurmon}
+      concept: kidney
+    - form: tumnis
+      class: n
+      field: The body and the dead
+      gloss: the intestine; the gut
+      source: {kind: borrowed, language: skill-aelendlng, form: tumnis}
+      concept: intestine
+    - form: kurnon
+      class: n
+      field: The body and the dead
+      gloss: the genitals; the external sexual organs
+      source: {kind: borrowed, language: skill-aelendlng, form: kurnon}
+      concept: genitals
+    - form: kenmon
+      class: n
+      field: The body and the dead
+      gloss: the womb
+      source: {kind: borrowed, language: skill-aelendlng, form: kenmon}
+      concept: womb
+    - form: kurnelis
+      class: n
+      field: The body and the dead
+      gloss: the vagina; the internal passage from the external opening to the womb
+      source: {kind: borrowed, language: skill-aelendlng, form: kurnelis}
+      concept: vagina
+    - form: gurnis
+      class: n
+      field: The body and the dead
+      gloss: a testicle
+      source: {kind: borrowed, language: skill-aelendlng, form: gurnis}
+      concept: testicle
+    - form: tamnis
+      class: n
+      field: The body and the dead
+      gloss: hunger; the bodily need for food
+      source: {kind: borrowed, language: skill-aelendlng, form: tamnis}
+      concept: hunger
+    - form: lunthis
+      class: n
+      field: The body and the dead
+      gloss: thirst; the bodily need for a drink
+      source: {kind: borrowed, language: skill-aelendlng, form: lunthis}
+      concept: thirst
+    - form: nelmis
+      class: n
+      field: The body and the dead
+      gloss: cold; low temperature felt by the body
+      source: {kind: borrowed, language: skill-aelendlng, form: nelmis}
+      concept: cold-noun
+    - form: thendalon
+      class: n
+      field: The body and the dead
+      gloss: protection; the whole work of standing between someone and harm
+      source: {kind: borrowed, language: skill-aelendlng, form: thendalon}
+      concept: protection
+    - form: kurlis
+      class: n
+      field: The body and the dead
+      gloss: sex; sexual activity between people
+      source: {kind: borrowed, language: skill-aelendlng, form: kurlis}
+      concept: sex
+    - form: kenmis
+      class: n
+      field: The body and the dead
+      gloss: pregnancy; carrying a developing child in the womb
+      source: {kind: borrowed, language: skill-aelendlng, form: kenmis}
+      concept: pregnancy
+    - form: ruskis
+      class: n
+      field: The body and the dead
+      gloss: pain; bodily hurt
+      source: {kind: borrowed, language: skill-aelendlng, form: ruskis}
+      concept: pain
+    - form: ruslen
+      class: n
+      field: The body and the dead
+      gloss: an ache; a persistent dull bodily pain
+      source: {kind: borrowed, language: skill-aelendlng, form: ruslen}
+      concept: ache
+    - form: thalmon
+      class: n
+      field: The house and the old blood
+      gloss: marriage; the recognized union of spouses
+      source: {kind: borrowed, language: skill-aelendlng, form: thalmon}
+      concept: marriage
+    - form: kenrison
+      class: n
+      field: The house and the old blood
+      gloss: a lineage; a line of descent from ancestors, whether long or short
+      source: {kind: borrowed, language: skill-aelendlng, form: kenrison}
+      concept: lineage
+    - form: sirthon
+      class: n
+      field: The hall and the guest
+      gloss: a bottle; a narrow-necked vessel for liquids
+      source: {kind: borrowed, language: skill-aelendlng, form: sirthon}
+      concept: bottle
+    - form: lordis
+      class: n
+      field: The hall and the guest
+      gloss: a cord; a thin twisted line for tying
+      source: {kind: borrowed, language: skill-aelendlng, form: lordis}
+      concept: cord
+    - form: dirnis
+      class: n
+      field: The hall and the guest
+      gloss: a needle; a pointed tool for sewing
+      source: {kind: borrowed, language: skill-aelendlng, form: dirnis}
+      concept: needle
+    - form: kirthon
+      class: n
+      field: The hall and the guest
+      gloss: a torch; a carried stick bearing a flame
+      source: {kind: borrowed, language: skill-aelendlng, form: kirthon}
+      concept: torch
+    - form: murnon
+      class: n
+      field: The hall and the guest
+      gloss: a candle; a wick set in a solid body of wax or fat
+      source: {kind: borrowed, language: skill-aelendlng, form: murnon}
+      concept: candle
+    - form: sorkis
+      class: n
+      field: The hall and the guest
+      gloss: a garment; a single item of clothing
+      source: {kind: borrowed, language: skill-aelendlng, form: sorkis}
+      concept: garment
+    - form: thorkis
+      class: n
+      field: The hall and the guest
+      gloss: a shirt; a garment worn over the chest
+      source: {kind: borrowed, language: skill-aelendlng, form: thorkis}
+      concept: shirt
+    - form: mordis
+      class: n
+      field: The hall and the guest
+      gloss: a belt; a band worn around the waist
+      source: {kind: borrowed, language: skill-aelendlng, form: mordis}
+      concept: belt
+    - form: thodkis
+      class: n
+      field: The hall and the guest
+      gloss: a shoe; a covering for a foot
+      source: {kind: borrowed, language: skill-aelendlng, form: thodkis}
+      concept: shoe
+    - form: gandon
+      class: n
+      field: The hall and the guest
+      gloss: a gate; a barrier opened to let people or animals through
+      source: {kind: borrowed, language: skill-aelendlng, form: gandon}
+      concept: gate
+    - form: grundis
+      class: n
+      field: The hall and the guest
+      gloss: a barrier; something that blocks passage
+      source: {kind: borrowed, language: skill-aelendlng, form: grundis}
+      concept: barrier
+    - form: saldon
+      class: n
+      field: The hall and the guest
+      gloss: wood; timber as a material for craft or fuel
+      source: {kind: borrowed, language: skill-aelendlng, form: saldon}
+      concept: wood
+    - form: kergis
+      class: n
+      field: The hall and the guest
+      gloss: stone; rock as a material or a piece of it
+      source: {kind: borrowed, language: skill-aelendlng, form: kergis}
+      concept: [stone, rock]
+    - form: mundis
+      class: n
+      field: The hall and the guest
+      gloss: clay; fine earth that can be shaped when wet
+      source: {kind: borrowed, language: skill-aelendlng, form: mundis}
+      concept: clay
+    - form: lurmon
+      class: n
+      field: The hall and the guest
+      gloss: leather; animal hide prepared as a material
+      source: {kind: borrowed, language: skill-aelendlng, form: lurmon}
+      concept: leather
+    - form: omrila
+      class: n
+      field: The hall and the guest
+      gloss: wool; the soft fleece fiber of a sheep, used in spinning and weaving
+      source: {kind: borrowed, language: skill-aelendlng, form: omrila}
+      concept: wool
+    - form: mirlis
+      class: n
+      field: The wood and its weather
+      gloss: earth; soil; the loose ground in which plants grow
+      source: {kind: borrowed, language: skill-aelendlng, form: mirlis}
+      concept: [earth, soil]
+    - form: kerlis
+      class: n
+      field: The wood and its weather
+      gloss: sand; loose grains of worn rock
+      source: {kind: borrowed, language: skill-aelendlng, form: kerlis}
+      concept: sand
+    - form: kermis
+      class: n
+      field: The wood and its weather
+      gloss: dust; very fine dry particles of earth or other matter
+      source: {kind: borrowed, language: skill-aelendlng, form: kermis}
+      concept: dust
+    - form: mirlon
+      class: n
+      field: The wood and its weather
+      gloss: land; ground or country considered apart from water, whether used by a clan or not
+      source: {kind: borrowed, language: skill-aelendlng, form: mirlon}
+      concept: land
+    - form: tirgon
+      class: n
+      field: The wood and its weather
+      gloss: a plain; a broad expanse of flat open land
+      source: {kind: borrowed, language: skill-aelendlng, form: tirgon}
+      concept: plain-landform
+    - form: kerlon
+      class: n
+      field: The wood and its weather
+      gloss: a cave; a natural hollow extending into rock
+      source: {kind: borrowed, language: skill-aelendlng, form: kerlon}
+      concept: cave
+    - form: sirnon
+      class: n
+      field: The wood and its weather
+      gloss: a river; a substantial natural course of running water, above or below the tree line
+      source: {kind: borrowed, language: skill-aelendlng, form: sirnon}
+      concept: river
+    - form: dulnon
+      class: n
+      field: The wood and its weather
+      gloss: a lake; a body of standing inland water of any size or location
+      source: {kind: borrowed, language: skill-aelendlng, form: dulnon}
+      concept: lake
+    - form: siraalon
+      class: n
+      field: The wood and its weather
+      gloss: the sea; the ocean; the great body of salt water beyond the land
+      source: {kind: borrowed, language: skill-aelendlng, form: siraalon}
+      concept: [sea, ocean]
+    - form: nelthon
+      class: n
+      field: The wood and its weather
+      gloss: ice; frozen water
+      source: {kind: borrowed, language: skill-aelendlng, form: nelthon}
+      concept: ice
+    - form: sathron
+      class: n
+      field: The wood and its weather
+      gloss: wind; moving air
+      source: {kind: borrowed, language: skill-aelendlng, form: sathron}
+      concept: wind
+    - form: dranon
+      class: n
+      field: The wood and its weather
+      gloss: thunder; the rumbling sound following lightning
+      source: {kind: borrowed, language: skill-aelendlng, form: dranon}
+      concept: thunder
+    - form: mirnon
+      class: n
+      field: The wood and its weather
+      gloss: a plant; a growing thing rooted in the ground
+      source: {kind: borrowed, language: skill-aelendlng, form: mirnon}
+      concept: plant
+    - form: pattel
+      class: n
+      field: The wood and its weather
+      gloss: a branch; a woody limb of a tree
+      source: {kind: borrowed, language: skill-aelendlng, form: pattel}
+      concept: branch
+    - form: saiki
+      class: n
+      field: The wood and its weather
+      gloss: a flower; the blossom of a plant
+      source: {kind: borrowed, language: skill-aelendlng, form: saiki}
+      concept: flower
+    - form: marnis
+      class: n
+      field: The wood and its weather
+      gloss: fruit; the seed-bearing produce of a plant, especially when edible
+      source: {kind: borrowed, language: skill-aelendlng, form: marnis}
+      concept: fruit
+    - form: rinnis
+      class: n
+      field: The wood and its weather
+      gloss: a bird; a feathered animal with wings
+      source: {kind: borrowed, language: skill-aelendlng, form: rinnis}
+      concept: bird
+    - form: selkon
+      class: n
+      field: The wood and its weather
+      gloss: a fish; a finned animal living in water
+      source: {kind: borrowed, language: skill-aelendlng, form: selkon}
+      concept: fish
+    - form: kethnis
+      class: n
+      field: The wood and its weather
+      gloss: an insect; a small six-legged creature
+      source: {kind: borrowed, language: skill-aelendlng, form: kethnis}
+      concept: insect
+    - form: mulnis
+      class: n
+      field: The wood and its weather
+      gloss: a worm; a small soft-bodied creeping creature without legs
+      source: {kind: borrowed, language: skill-aelendlng, form: mulnis}
+      concept: worm
+    - form: nelgon
+      class: n
+      field: The wood and its weather
+      gloss: north; the direction northward
+      source: {kind: borrowed, language: skill-aelendlng, form: nelgon}
+      concept: north
+    - form: murnel
+      class: n
+      field: Numbers and grammar words
+      gloss: the center; the middle place
+      source: {kind: borrowed, language: skill-aelendlng, form: murnel}
+      concept: center
+    - form: miron
+      class: n
+      field: Numbers and grammar words
+      gloss: a place; a location
+      source: {kind: borrowed, language: skill-aelendlng, form: miron}
+      concept: place-noun
+    - form: taldis
+      class: n
+      field: Numbers and grammar words
+      gloss: a position; a place in a physical arrangement or ordered series
+      source: {kind: borrowed, language: skill-aelendlng, form: taldis}
+      concept: position
+    - form: terdis
+      class: n
+      field: Numbers and grammar words
+      gloss: a direction; the way toward which something faces or moves
+      source: {kind: borrowed, language: skill-aelendlng, form: terdis}
+      concept: direction
+    - form: dulnis
+      class: n
+      field: Numbers and grammar words
+      gloss: distance; the space separating things or places
+      source: {kind: borrowed, language: skill-aelendlng, form: dulnis}
+      concept: distance
+    - form: menthis
+      class: n
+      field: Numbers and grammar words
+      gloss: an amount; a quantity of something
+      source: {kind: borrowed, language: skill-aelendlng, form: menthis}
+      concept: amount
+    - form: kirdis
+      class: n
+      field: Light, sky and the turning year
+      gloss: time; the passage or duration in which events occur
+      source: {kind: borrowed, language: skill-aelendlng, form: kirdis}
+      concept: time
+    - form: kirlis
+      class: n
+      field: Light, sky and the turning year
+      gloss: a moment; a very short span of time
+      source: {kind: borrowed, language: skill-aelendlng, form: kirlis}
+      concept: moment
+    - form: kirnis
+      class: n
+      field: Light, sky and the turning year
+      gloss: morning; the early part of the day
+      source: {kind: borrowed, language: skill-aelendlng, form: kirnis}
+      concept: morning
+    - form: thernir
+      class: n
+      field: Light, sky and the turning year
+      gloss: yesterday; the day before today
+      source: {kind: borrowed, language: skill-aelendlng, form: thernir}
+      concept: yesterday
+    - form: dernir
+      class: n
+      field: Light, sky and the turning year
+      gloss: tomorrow; the day after today
+      source: {kind: borrowed, language: skill-aelendlng, form: dernir}
+      concept: tomorrow
+    - form: kirgon
+      class: n
+      field: Light, sky and the turning year
+      gloss: a season; a recurring division of the year
+      source: {kind: borrowed, language: skill-aelendlng, form: kirgon}
+      concept: season
+    - form: kirdon
+      class: n
+      field: Light, sky and the turning year
+      gloss: a year; a full turning of the seasons
+      source: {kind: borrowed, language: skill-aelendlng, form: kirdon}
+      concept: year
+    - form: rulthon
+      class: n
+      field: The bard and the word
+      gloss: a lie; a statement intended to deceive
+      source: {kind: borrowed, language: skill-aelendlng, form: rulthon}
+      concept: lie-noun
+    - form: rulnis
+      class: n
+      field: The bard and the word
+      gloss: a falsehood; an assertion that is false, whether intentionally deceptive or mistaken
+      source: {kind: borrowed, language: skill-aelendlng, form: rulnis}
+      concept: falsehood
+    - form: kendonalon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: people; a body of persons considered together
+      source: {kind: borrowed, language: skill-aelendlng, form: kendonalon}
+      concept: people
+    - form: tharan
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a man; an adult male human
+      source: {kind: borrowed, language: skill-aelendlng, form: tharan}
+      concept: man
+    - form: thara
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a woman; an adult female human
+      source: {kind: borrowed, language: skill-aelendlng, form: thara}
+      concept: woman
+    - form: kentalon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a group; people or things considered together
+      source: {kind: borrowed, language: skill-aelendlng, form: kentalon}
+      concept: group
+    - form: kenron
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a clan; a kin group reckoning descent from a common founder
+      source: {kind: borrowed, language: skill-aelendlng, form: kenron}
+      concept: clan
+    - form: kenralon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a tribe; a community of related clans
+      source: {kind: borrowed, language: skill-aelendlng, form: kenralon}
+      concept: tribe
+    - form: lenthon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a name; the word by which a person or thing is called
+      source: {kind: borrowed, language: skill-aelendlng, form: lenthon}
+      concept: name-noun
+    - form: lenthis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a title; a word marking someone's office, standing or role
+      source: {kind: borrowed, language: skill-aelendlng, form: lenthis}
+      concept: title
+    - form: uldnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: rank; a position in an order of authority or standing
+      source: {kind: borrowed, language: skill-aelendlng, form: uldnis}
+      concept: rank
+    - form: taldalon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: order; the arrangement of things in their proper or intended places
+      source: {kind: borrowed, language: skill-aelendlng, form: taldalon}
+      concept: order-noun
+    - form: sendalon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: obedience; doing what an authority commands
+      source: {kind: borrowed, language: skill-aelendlng, form: sendalon}
+      concept: obedience
+    - form: thargnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: justice; fair treatment according to what is owed
+      source: {kind: borrowed, language: skill-aelendlng, form: thargnis}
+      concept: justice
+    - form: anthargnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: injustice; unfair treatment that denies what is owed
+      source: {kind: borrowed, language: skill-aelendlng, form: anthargnis}
+      concept: injustice
+    - form: grundelon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: captivity; being held and prevented from leaving
+      source: {kind: borrowed, language: skill-aelendlng, form: grundelon}
+      concept: captivity
+    - form: sendnis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: poverty; lack of resources needed for daily life
+      source: {kind: borrowed, language: skill-aelendlng, form: sendnis}
+      concept: poverty
+    - form: ronkathon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: honor; standing earned or upheld through worthy conduct
+      source: {kind: borrowed, language: skill-aelendlng, form: ronkathon}
+      concept: honor
+    - form: thalkon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: a secret; something kept from others' knowledge
+      source: {kind: borrowed, language: skill-aelendlng, form: thalkon}
+      concept: secret
+    - form: sargon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: knowledge; what someone knows
+      source: {kind: borrowed, language: skill-aelendlng, form: sargon}
+      concept: knowledge
+    - form: elthon
+      class: n
+      field: Doing, going and being
+      gloss: a being; something that exists, especially a living creature
+      source: {kind: borrowed, language: skill-aelendlng, form: elthon}
+      concept: being
+    - form: elthis
+      class: n
+      field: Doing, going and being
+      gloss: life; the condition or course of being alive
+      source: {kind: borrowed, language: skill-aelendlng, form: elthis}
+      concept: life
+    - form: arnel
+      class: n
+      field: Doing, going and being
+      gloss: an origin; the source from which something begins
+      source: {kind: borrowed, language: skill-aelendlng, form: arnel}
+      concept: origin
+    - form: threnon
+      class: n
+      field: Doing, going and being
+      gloss: a beginning; the first point or part of something
+      source: {kind: borrowed, language: skill-aelendlng, form: threnon}
+      concept: beginning
+    - form: tergon
+      class: n
+      field: Doing, going and being
+      gloss: a change; a difference brought about in a thing or situation
+      source: {kind: borrowed, language: skill-aelendlng, form: tergon}
+      concept: change-noun
+    - form: mirdon
+      class: n
+      field: Doing, going and being
+      gloss: a part; a portion or component of a whole
+      source: {kind: borrowed, language: skill-aelendlng, form: mirdon}
+      concept: part
+    - form: ternis
+      class: n
+      field: Doing, going and being
+      gloss: a kind; a class of things sharing relevant qualities
+      source: {kind: borrowed, language: skill-aelendlng, form: ternis}
+      concept: kind
+    - form: kirdin
+      class: n
+      field: Doing, going and being
+      gloss: an occasion; one occurrence of an event
+      source: {kind: borrowed, language: skill-aelendlng, form: kirdin}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -2785,6 +5709,40 @@ The [[skill-elvndrlng#lexicon|Élavendri Lexicon]] gives the words with their so
 **Adjectives and Adverbs:** The language employs a complex system of derivational morphology to create adjectival and adverbial forms. Diminutive, augmentative, and affective suffixes are productive and frequently used. The language readily creates new descriptive forms on the fly.
 
 **Article System:** Élavendri employs a well-developed article system distinguishing definite, indefinite, partitive, and demonstrative forms. The choice of article can carry significant meaning in poetic contexts, indicating levels of reality or abstraction.
+
+### Ordinary expressions
+
+_Dárkathen munde merlis_ means "I hold joy", a sudden gladness; _dárkathen munde merlon_ means "I hold happiness", a continuing gladness. _Dárkathen munde losnis_ names pleasure and _dárkathen munde tendaris_ names contentment. These are concrete expressions of the speaker's emotional state. _Dárkathen munde dáerison gierth tose_, "I hold trust toward you", says that the speaker relies on the other's keeping of their word, with the Pact at the heart of _dáerison_. _Tengis_ is confidence in ability or success, _tendris_ is conviction that a claim is true, and _thénnairsa_ is truth itself.
+
+The loves remain distinct: _méldaris_ is romantic love, _ánsevirsa_ friendship, _kéinalis_ family love, and _ílthamon_ selfless love given to all. _Gérmisa_ is sexual lust. The other feeling expressions give their own pieces in their cited order: _gaer douris_, "overwhelming fear; terror", _grien gaerasa_, "sustained anger; resentment", _grien ilnis_, "sustained desire; longing", and _gaer rondis_, "overwhelming admiration; awe". They describe human feeling in ordinary life.
+
+The physical tongue is _gaelis_; _óstila_ is speech or language. _Kenlon_ names a child whether named or unnamed, while _lyegon_ is the child before naming. _Hendron_ is the physical hearth, and _káerathon_ its kept fire. _Gyernis_ is a thigh and _gurnis_ a testicle. _Niemon_ is breath. _Níemathen munde rith_, "I breathe in", and _níemathen munde gounel_, "I breathe out", give the directions in these two bodily utterances. _Nond geindathen munde góldathen niemon_, "I cannot take breath", reports suffocation when breath is blocked or breathable air is absent. _Grunathen munde ruskis_, "I feel pain", names bodily sensation. _Rusnar gaelmar_, "feverish", names the heat of illness; _gaeri gaeri dielar_, "exhausted", uses the degree adverb _gaeri_ twice with tiredness.
+
+The household words retain their different uses. _Ómbela_ is a chair, _mórvalis_ a table, _zúndela_ a lock and _kézra_ a key. _Gorth thodkis_ is a boot, the high foot covering. _Sira mirlis_ is water-soaked earth, mud. _En munde dielar_ means "I am tired", using the existing copula. _En munde gaeri gaeri dielar_ means "I am extremely tired". _Ryenathen munde rith soldar rundis_, "I speak in a loud voice", is a shout; _ryenathen munde rith niemon rundis_, "I speak in the breath voice", is a whisper, the unvoiced manner of speech.
+
+The physical wood and weather words come through Áelendi. _Pelvai_ names any cloud here, and _nielke_ any plant root; the Áelendi parent words have those broad uses, beside their Sinale sources' low cloud and deep root. _Ravale_ is rain and _salve_ a tree. A weather report can put the existence verb first: _elnathen nonduk pelvai_, "no cloud exists; the weather is clear", or _elnathen gurnar pelvai_, "many clouds exist; it is cloudy". The separate river and lake words keep their scopes: _sirnon_ is a river above or below the tree line, _lántheve_ the river below it; _dulnon_ is a lake in any setting and _dulna_ the tarn in its corrie.
+
+_Rith ordur taldis_ says "in position four; fourth". Another numeral names its own position in that expression: _rith reithik taldis_, "fifth", and _rith taehes taldis_, "tenth". _Ta taehes_, "two tens", is twenty; _diema diema_, "half of a half", is a quarter. _Uk threl thend_, "one from the two", selects either member of a pair, while _nonduk threl thend_, "none from the two", selects neither. _Rith kren miron_, _rith nonduk miron_ and _rith alnar miron_ say "in some place", "in no place" and "in all places".
+
+The comparison expressions name the measure and its set. _Geirin geildar_ is "better", good to a greater degree, and _geirin geildar thinar ukal derar gaeron_ is "best", better than each other thing in the comparison. _Geirin thinar ukal derar gaeron_ is "most" and _thienen thinar ukal derar gaeron_ "least", more or less than each other thing. _Gaeri gaeri_ gives extreme degree, as in _gaeri gaeri lunnar_, "tiny; extremely small". _Goul antemar_ and _send antemar_ give too much and too little: a great or small quantity that fails the fitting measure.
+
+These expressions name a time or an occasion. _Ti kieron_ is today, this day; _murnel óssenda_ is midnight, the middle of the night. _Rith kurnis kirdis_ means "during the feast", in the feast's time. _Kirdin_ is a countable occasion: _nal uk kirdin_, "once", _nal ta kirdin_, "twice", and _nal gurnar kirdin_, "repeatedly". _Nal treinen kirdin_ and _nal dáelamen kirdin_ put an event at the first and next occasion in sequence; _nal dyelon_ marks its final point. _Grend_ means again, a recurrence of the action in question. _Nond geinde_ says that an expected event has not happened yet.
+
+_Gire_ links the object of a clause to that clause's subject: _nóurethen munde gire_, "I see myself", and _nóurethen gene gire_, "the person or thing sees itself". The lexical possessives have concrete uses in _mundri halthon_, "my house", _tosri genta_, "your spear", and _nusri omris_, "our sheep". _Kendar neli_ and _tendar neli_ refer to anyone and anything without restriction. _Nond kendar_ excludes every person; _uk derar_ names another, one other person or thing.
+
+Questions use the words whose meanings they ask for: _gere miron_, "what place; where", _gere kirdis_, "what time; when", _gere deilnon_, "what number; how many", _gere menthis_, "what amount; how much", and _gere gouris_, "what reason; why". _Gese_ asks who and _geisri_ whose. _He en tose tis_, "are you here?", opens a yes or no question with _he_. _Ryenathen tose geisin_ asks how you say something, while _ryenathen tose gere_ asks what you say, a request to repeat or explain. _Dárkathen ti gere lenthon_, "what name does this have?", asks what it is called.
+
+The modal utterances keep ability, permission, obligation and prohibition distinct. _Geindathen munde sénkathen_ means "I can walk"; _nond geindathen munde sénkathen_ means "I cannot walk". _Gaelgathen munde sénkathen_ gives permission to walk. _Targathen munde sénkathen_ states an obligation, and _norgathen munde sénkathen_ states a prohibition. In these concrete utterances the modal verb comes first, the subject follows it, and the action is named afterward. _Gaelgathen munde róugathen greile_, "may I pass through", is the courteous request used to pass or interrupt. _Eldathen ti herin_, "this might happen", states possibility with the event's truth left open.
+
+For linked alternatives, _gose ... gose_ marks either ... or, _nond gose ... nond gose_ marks neither ... nor, and _reik ... reik_ affirms both items. Each marker stands before its item. _Gyese nond en tose tis, seis róugathen munde gourthe_ means "unless you are here, I go away": if your being here is false, my going away follows. The negation in _gyese nond_ applies to the whole following condition. _Gase gyese en munde dielar, róugathen munde_ means "although I am tired, I go"; tiredness is stated as a fact. _En munde dielar. Gase tenri róugathen munde_ affirms the same going across that contrast: "I am tired. Nevertheless, I go."
+
+The conversational entries give whole utterances. _Laegnathen munde tose_, "I thank you", _sarnathen munde_, "I understand", and _nond sarnathen munde_, "I do not understand", put the verb before the named subject. The listed examples retain the cited verb form. _Máldathen munde tose tis_, "I give you your place here", keeps the host as the person offering the seat. _Dárkathen munde gournis_, "I hold regret; sorry", names an emotional state. _Kernathen munde_, "I ask", is a courteous preface. _Nond molthon_, "no debt of honor", answers thanks by releasing the recipient from repayment. A direct request names its addressee after the verb: _árnathen tose tis_, "come here", and _kenthathen tose munde_, "help me". _Shalor en kir a thel_ is the fixed formal greeting, "Welcome, friend of the light". _Reida rith tose_, "peace in you", takes leave.
+
+Full questions keep their named roles clear. _En tose rith gere miron?_ asks "where are you?", literally whether you are in what place. _Eldathen to nal gere kirdis?_ asks "when does that happen?", at what time. _En al gouris gere?_ asks "what is the reason?", and _en al deirnis gere?_ "what is the purpose?". _En al deilnon gere?_ asks the number and _en al menthis gere?_ the amount. _En gene gese?_ asks who the person is; _en to geisri?_ asks whose the thing is. _Árnathen tose threl gere miron?_ asks from what place you come. _Méisathen tose ti leithon gierth gese?_ asks to whom you send this word.
+
+Complete alternatives keep each marker with its own item. _Dalgathen munde gose sira gose korthon_ means "I choose either water or mead". _Ílnathen munde nond gose sira nond gose korthon_ means "I want neither water nor mead". _Dárkathen munde reik sira reik korthon_ means "I have both water and mead". _Gyese en tose tis, seis dárkathen munde sénthira_ gives a positive condition and its consequence: "if you are here, then I hold hope". _Róugathen munde gierth halthon seis dúrsathen munde_ gives a purpose: "I go toward home so that I sleep".
+
+The explanatory markers also have concrete uses. _En ti tárneve; gere temar, uk tárnevine_ means "this is bread; namely, one loaf". _En salve mirnon; uk dírmalis, hersel_ gives an example: "a tree is a plant; for example, a pine". With water as the alternative in question, _dalgathen munde korthon dergin gerth_ chooses mead instead.
 
 ## Script & Literacy
 

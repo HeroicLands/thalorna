@@ -18,13 +18,16 @@ data:
     - name: Grammar words
       holds: "The article, the particles, the pronouns and the numbers that hold a sentence together."
     - {name: "The gods", holds: "The gods and the words for the divine."}
+    - name: Everyday expression
+      holds: "The native citations of inherited words and the ordinary expressions used with them."
   grammar: {plural: [{ending: a, becomes: ai}, {ending: os, becomes: ai}]}
   words:
     - form: dómissa
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "a House-Mother, the matriarch of a Bethuan house"
-      built: ["dóm-", "-issa"]
+      class: n
+      field: Kin, the person and the body
+      gloss: A House-Mother, the matriarch and household authority of a Bethuan house. Use this when master means the person who owns or commands a household. Kiris remains a courtesy for a valued man without property, rights or voice.
+      built: [dóm-, -issa]
+      concept: master
     - form: kiris
       class: "n"
       field: "Kin, the person and the body"
@@ -59,9 +62,11 @@ data:
       field: "Water, works and the island"
       gloss: "a bonded warehouse, a store"
     - form: selkur
-      class: "n"
-      field: "Water, works and the island"
-      gloss: "a year in the era-reckoning"
+      class: n
+      field: Water, works and the island
+      gloss: A year in the era-reckoning; the ordinary calendrical year in a dated account. The attested Khelathi source is selqur, a year of the count from Qet Telgu.
+      concept: year
+      source: {kind: borrowed, language: skill-khelathlng, form: selqur}
     - form: halzat
       class: "n"
       field: "Water, works and the island"
@@ -92,6 +97,239 @@ data:
       field: "Kin, the person and the body"
       gloss: "The Grace: the open-hand and kicking art of Bethuan women; a master is a Kharessa"
     - {form: "thius", class: "n", field: "The gods", gloss: "God"}
+    - form: hafos
+      class: n
+      field: Everyday expression
+      gloss: A touch or brief bodily contact.
+      concept: touch-noun
+    - form: khasel er osmin
+      class: adj
+      field: Everyday expression
+      gloss: Foul-smelling; bad in respect of scent.
+      concept: foul
+    - form: okesarin
+      class: adj
+      field: Everyday expression
+      gloss: Sour or acidic to the taste.
+      concept: sour
+    - form: eothimira
+      class: n
+      field: Everyday expression
+      gloss: Happiness; the continuing feeling of well-being.
+      concept: happiness
+    - form: apeselira
+      class: n
+      field: Everyday expression
+      gloss: Surprise; the feeling caused by an unexpected impression or event.
+      concept: surprise
+    - form: kamos
+      class: adj
+      field: Everyday expression
+      gloss: Tired; needing rest.
+      concept: tired
+    - form: aukesarin
+      class: v
+      field: Everyday expression
+      gloss: To grow; increase in bodily size or development.
+      concept: grow
+    - form: thar kamos
+      class: adj
+      field: Everyday expression
+      gloss: Exhausted; extremely tired.
+      concept: exhausted
+    - form: plios er edhin
+      class: adj
+      field: Everyday expression
+      gloss: Sated; full after eating or drinking. The island word plios gives the bodily fullness, rather than fulfilment of an unrelated desire.
+      concept: sated
+    - form: kesenethir
+      class: n
+      field: Everyday expression
+      gloss: A stranger; a person one does not know.
+      concept: stranger
+    - form: kesenir
+      class: n
+      field: Everyday expression
+      gloss: A guest; someone received into a house or gathering.
+      concept: guest
+    - form: kesenodhir
+      class: n
+      field: Everyday expression
+      gloss: A host; someone who receives and looks after a guest.
+      concept: host
+    - form: hupesel pedhilin
+      class: n
+      field: Everyday expression
+      gloss: A boot; a high shoe covering the ankle or lower leg.
+      concept: boot
+    - form: ghéranis pir aukesarin
+      class: n
+      field: Everyday expression
+      gloss: Soil; earth in which plants grow.
+      concept: soil
+    - form: keserir
+      class: adj
+      field: Everyday expression
+      gloss: Dry; lacking moisture.
+      concept: dry
+    - {form: meos, class: num, field: Everyday expression, gloss: one, concept: one}
+    - form: in arithmas meos
+      class: adj
+      field: Everyday expression
+      gloss: First in ordinal position; literally in number one. Replace the final numeral for another ordinal position.
+      concept: first
+    - form: meos er drin
+      class: pron
+      field: Everyday expression
+      gloss: Either one of two alternatives; the context supplies the pair.
+      concept: either
+    - form: leokhelir
+      class: adj
+      field: Everyday expression
+      gloss: White in colour.
+      concept: white
+    - form: kesanther
+      class: adj
+      field: Everyday expression
+      gloss: Yellow in colour.
+      concept: yellow
+    - form: féranin heom prou thu
+      class: v
+      field: Everyday expression
+      gloss: To bring this to you; literally carry this to you, with the addressee as the destination. Replace heom with the thing and thu with its recipient.
+      concept: bring
+    - form: heorarin
+      class: v
+      field: Everyday expression
+      gloss: To find or discover something.
+      concept: find
+    - form: ésarin er
+      class: v
+      field: Everyday expression
+      gloss: To belong to someone; use ésarin er before the owner, as in heom ésarin er egh, this belongs to me.
+      concept: belong
+    - form: sekearin
+      class: v
+      field: Everyday expression
+      gloss: To repair; restore a damaged or faulty made thing to working condition.
+      concept: repair
+    - form: feogarin
+      class: v
+      field: Everyday expression
+      gloss: To flee; escape from danger or pursuit.
+      concept: flee
+    - form: dekesir
+      class: n
+      field: Everyday expression
+      gloss: Right; the right-hand direction.
+      concept: right-direction
+    - form: heom hemerin
+      class: adv
+      field: Everyday expression
+      gloss: Today; this day, used as a time expression.
+      concept: today
+    - form: meos horath
+      class: adv
+      field: Everyday expression
+      gloss: Once; on one occasion.
+      concept: once
+    - form: takhor
+      class: adv
+      field: Everyday expression
+      gloss: Soon; after a short interval.
+      concept: soon
+    - form: opeseir
+      class: adv
+      field: Everyday expression
+      gloss: Late; after the usual or expected time.
+      concept: late
+    - {form: heom, class: pron, field: Everyday expression, gloss: this, concept: this}
+    - {form: heon, class: pron, field: Everyday expression, gloss: that, concept: that}
+    - form: heomir
+      class: dem
+      field: Everyday expression
+      gloss: These; things or people near the speaker, in a plural reference.
+      concept: these
+    - form: heonir
+      class: dem
+      field: Everyday expression
+      gloss: Those; things or people distant or already referred to, in a plural reference.
+      concept: those
+    - form: pesodhel
+      class: adj
+      field: Everyday expression
+      gloss: False; not corresponding to what is actually the case.
+      concept: "false"
+    - form: pesodhin er apathin
+      class: n
+      field: Everyday expression
+      gloss: A lie; a false statement made for deception. Er apathin supplies the intention to deceive.
+      concept: lie-noun
+    - form: pesodhin
+      class: n
+      field: Everyday expression
+      gloss: A falsehood or false claim; whether deliberately deceptive or merely mistaken.
+      concept: falsehood
+    - form: aneoth
+      class: part
+      field: Everyday expression
+      gloss: Despite; before a fact or circumstance that does not prevent the stated outcome.
+      concept: despite
+    - form: eil er
+      class: part
+      field: Everyday expression
+      gloss: Than; introduces the comparison after a comparative word, as in belther eil er heom, better than this.
+      concept: than
+    - form: eil meos
+      class: conj
+      field: Everyday expression
+      gloss: Either; introduces the first of two alternatives, followed by eil before the second.
+      concept: either-alternative
+    - form: uf meos
+      class: conj
+      field: Everyday expression
+      gloss: Neither; introduces the first rejected alternative, followed by koum uf before the second.
+      concept: neither-alternative
+    - form: heom ésarin
+      class: part
+      field: Everyday expression
+      gloss: That is or namely; introduces a restatement or the exact item meant, literally this is.
+      concept: [that-is, namely]
+    - form: hupesel
+      class: adj
+      field: Everyday expression
+      gloss: High; situated far above the ground or a reference level.
+      concept: high
+    - form: khasel
+      class: adj
+      field: Everyday expression
+      gloss: Bad; harmful, poor or undesirable.
+      concept: bad
+    - form: anakesir
+      class: adj
+      field: Everyday expression
+      gloss: Worthless; having no worth or value, rather than merely yielding no profit.
+      concept: worthless
+    - form: eleother
+      class: adj
+      field: Everyday expression
+      gloss: Free to act; not restrained by the relevant constraint.
+      concept: free
+    - form: thin ésarin ónomir er heom
+      class: call
+      field: Everyday expression
+      gloss: What is this called? Literally what is the name of this?
+      concept: expression-what-is-this-called
+    - form: meos ánthimor
+      class: n
+      field: Everyday expression
+      gloss: An individual; one person considered separately.
+      concept: individual
+    - form: eleotherira
+      class: n
+      field: Everyday expression
+      gloss: Freedom; the state of being free to act.
+      concept: freedom
   sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
@@ -544,6 +782,12 @@ Rural/Interior Dialects
 
 Border Dialects
 : In regions adjacent to Bizarian or Helonic speakers, some phonetic influence and vocabulary borrowing occurs. The feminine register remains standard for formal speech; the masculine register shows greater flexibility.
+
+## Ordinary inherited expressions
+
+Bethuan shares the Helonic stock and its SVO order. The Bethuan entries give island citations where its open vowels and simplified clusters make a different ordinary form: _heom_ this, _meos_ one, _kesenir_ guest and _okesarin_ sour. These are inherited core words. The administrative and technical loans keep their own domains; _selkur_ is a year of the calendar count from Khelathi _selqur_, while kin, numbers, body words and grammatical words belong to the Helonic inheritance.
+
+The full article distinguishes the formal register: _ashe dómissa_ names the House-Mother. A household's authority is its _dómissa_; _kiris_ is the courtesy for a valued man and grants no property, rights or voice. _Plios er edhin_ means sated, full after food or drink. The native word _heom_ also appears inside shared expressions: _féranin heom prou thu_, bring this to you; _in arithmas meos_, first. Each dictionary expression gives its own meaning and usage.
 
 ## Sample Phrases
 

@@ -90,7 +90,7 @@ The common rules of the guide:
   _ao_ belongs to Tantsou, and _ui_ to Tantsou and Jurthati. _bh_ is written only by a tongue whose own note says
   so. A letter pair outside the guide is used only by a language whose note
   allows it.
-- **Consonants have their usual English values**, with the guide's points: _g_
+- **Consonants have their usual values in the reader's language**, with the guide's points: _g_
   is always hard, _kh_ is the Scottish _loch_, _y_ is a consonant before a
   vowel and a vowel _i_ elsewhere, _ng_ may open a word. The letter _c_ appears
   only inside _ch_. The letter _x_ is never used.
@@ -118,8 +118,9 @@ apply where a tongue's section does not give its own readings.
 Aelwythi uses the existing Semaron letters through its own orthographic
 `aelwythi-semaron` map in
 `assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md`. The Aelwythi
-language note selects it with `data.writtenIn`, so `[Whither goest thou?]{lang=aelw}`
-converts automatically. All conversion rules are executable frontmatter rows;
+language note selects it with `data.writtenIn`, so `[Whither goest thou?]{.nativefont lang=aelw}`
+converts to Semaron. Without `.nativefont`, the same language tag keeps roman
+spelling. All conversion rules are executable frontmatter rows;
 they rewrite spelling, not pronunciation. A word whose script spelling needs
 an exception states `native: [{map: aelwythi-semaron, text: "…"}]` in the
 language's `data.words`; that native form takes precedence automatically.
@@ -185,8 +186,8 @@ grammar course. Real people read these at the table. Where a language rule
 makes a word harder to read or say, the word stays readable and the rule gives
 way.
 
-- **Words look like English syllables**, with letters at their usual English
-  values. Frequent words are short.
+- **Words look like familiar syllables**, with letters at their usual values in the reader's
+  language. Frequent words are short.
 - **Diacritics are rare and purposeful.** At most one mark in a word, and only
   where it marks stress or changes how a letter sounds.
 - **Mood, questions and quotation are carried by words and context** in every
@@ -198,7 +199,7 @@ way.
   mark. Vylari asks, commands and exclaims with an opening word, quotes with
   _vethor_ and emphasises with words; its only punctuation is the catch and the
   one pause point.
-- **The roman transcription keeps English punctuation.** A passage typed in
+- **The roman transcription keeps the reader's punctuation.** A passage typed in
   roman for mapping into a script uses only the marks that script's mapping has
   rows for.
 - **A tongue sounds like its model without copying it.** See [Coining a word](#5-coining-a-word).
@@ -313,8 +314,18 @@ Grammar is optional, and only a stated key's shape is checked. A language may
 state one plural rule, one regular verb pattern or that its verbs do not
 change, that its adjectives and pronouns agree with nouns by taking the noun
 endings for gender and number, and that its participles attach to the verb
-root. There are no cases, declensions, tenses, moods or irregular verbs, and
-no sound-change derivation.
+root. The schema has no cases, declensions, tenses, moods or irregular-verb
+tables, and no sound-change derivation.
+
+Aelwythi has an expressly defined prose register in
+`assets/content/Skills/Languages/Aelwythi.md`: strict singular _thou/thee_,
+plural _ye/you_, singular present endings and finite plural _-en_, with the
+listed exceptional and modal forms. Follow its tables when writing a passage;
+only the finite auxiliary inflects in _we haven come_. Its ordinary questions
+use inversion and its negatives put _not_ after the finite verb. This is
+author guidance with usable forms in `data.words` and `variants`; it adds no
+grammar keys or automatic conjugator. It changes neither the pronunciation
+guide nor the Semaron spelling map. Definitions and commentary remain modern.
 
 Vylari states all four:
 
@@ -416,15 +427,15 @@ tongues:
   - { tag: ancient, meaning: "a letter of ancient Vylari" }
 ```
 
-| Tag                | Meaning                                                                                                    | Checked against another register |
-| ------------------ | ---------------------------------------------------------------------------------------------------------- | -------------------------------- |
-| `<own>` (`vylari`) | A name in this language. Its `language` key links the tag to the language note.                            | No                               |
-| `translation`      | A name given in the language of the pages, the English rendering. It never counts as a word of the tongue. | No                               |
-| `other:<tongue>`   | A name in another tongue of the setting, as its speakers give it.                                          | Yes                              |
-| `exonym:<tongue>`  | A name another people gives, in the tongue named.                                                          | Yes                              |
-| `kept`             | A loanword kept in its source tongue's spelling, by ruling.                                                | No                               |
-| `other`            | A name in no tongue these pages name.                                                                      | No                               |
-| `ancient`          | A letter of the ancient stage of the language, where a note declares it.                                   | No                               |
+| Tag                | Meaning                                                                                               | Checked against another register |
+| ------------------ | ----------------------------------------------------------------------------------------------------- | -------------------------------- |
+| `<own>` (`vylari`) | A name in this language. Its `language` key links the tag to the language note.                       | No                               |
+| `translation`      | A name given in the language of the pages, as a translation. It never counts as a word of the tongue. | No                               |
+| `other:<tongue>`   | A name in another tongue of the setting, as its speakers give it.                                     | Yes                              |
+| `exonym:<tongue>`  | A name another people gives, in the tongue named.                                                     | Yes                              |
+| `kept`             | A loanword kept in its source tongue's spelling, by ruling.                                           | No                               |
+| `other`            | A name in no tongue these pages name.                                                                 | No                               |
+| `ancient`          | A letter of the ancient stage of the language, where a note declares it.                              | No                               |
 
 `translation` is accepted everywhere without being declared. Every other tag a
 row uses must be declared in `data.tongues`, and a declared family tag
@@ -555,7 +566,7 @@ every coinage**, so the workflow is propose, approve, apply.
    | `concept`                 | The core concept it serves, if any.                             |
    | Palette note              | Which sounds and endings of the tongue it uses.                 |
    | Earth check               | The result of `npm run lint:earth-words` where the lists exist. |
-   | Reading                   | How an English reader says it.                                  |
+   | Reading                   | How a reader says it.                                           |
 
 2. **The owner approves.** An agent stops here and writes no passage that uses
    the coinage. A proposal that the owner changes is changed, not defended.
@@ -573,7 +584,10 @@ A word that is only a new regular form of an existing word (a plural, a verb
 form, an affixed form whose affix states `replaces`, an agreeing form or a
 participle) is not a coinage and is not added: the word check recognises it.
 `package-build lexicon vyl --map semaron --derived` lists the forms the
-language's rules give.
+language's rules give. Aelwythi's prose paradigms are an explicit exception:
+declare a needed inflected form in its existing word's `variants` when the
+word check cannot derive it. Keep the same meaning and review it against the
+language note; do not add a second headword for a regular inflection.
 
 ## 6. The core vocabulary and the `core` report
 
@@ -665,7 +679,7 @@ register:
   Khelathi's register as `khelathi`. A name in a span of its own,
   `[Meqes]{lang=khel}`, is checked against Khelathi's register alone, and
   Vylari's needs no row for it.
-- **`translation`** rows are English renderings and never count as words of the
+- **`translation`** rows are renderings in the reader's language and never count as words of the
   tongue.
 - **Bare `other`, `kept`, `ancient` and `translation`** rows are not checked
   against another register.
@@ -706,13 +720,13 @@ data:
   writtenIn: { map: semaron, font: semaron-kuriale }
 ```
 
-A run marked with the language alone then takes both, so `{lang=vyl}` is
-`{lang=vyl font=semaron-kuriale map=semaron}`, in a span, a `:::` block, a
-`verse` fence or a `scroll` fence. A run that states one of the two keys keeps
-it, and takes the other from the language only where the two agree. A run
-states `font=` and `map=` only to write a language in a script other than its
-usual one. `map` must be a mapping note's `data.map.name`, and `font` a face
-that mapping is drawn in; either fault is an error at the key.
+A run opts into these defaults with `.nativefont` and an explicit `lang=` on
+that same construct. Thus `{lang=vyl}` stays roman, while
+`{.nativefont lang=vyl}` selects Semaron Kuriale and the Semaron mapping.
+This applies to spans, `:::` blocks, verse fences and scroll fences. Explicit
+`font=` and `map=` override the defaults independently; a missing default font
+requires an explicit `font=`. A native face or map without `.nativefont` is an
+error. The chosen face must support the chosen mapping.
 
 | Language          | `writtenIn`                           | Another script a run may name                         |
 | ----------------- | ------------------------------------- | ----------------------------------------------------- |
@@ -739,7 +753,8 @@ script, so those two tongues state no `writtenIn`, and a run marked with their
 Other tongues are written in these scripts by the same mappings: a tongue
 borrowing Semaron for the common transcription uses `map=semaron` with its
 own `lang=` and dictionary. Aelwythi uses `map=aelwythi-semaron`. A tongue
-whose note states no `writtenIn` is marked with both keys every time.
+whose note states no `writtenIn` needs explicit native keys, including
+`.nativefont` and `lang=`, whenever it is written in a script.
 
 ### 8.2 What a mapping row is
 
@@ -793,7 +808,7 @@ the note. Semaron has no _q_, so it carries `["q", …]` and `["Q", …]` with t
 code points of its _k_, and _Meqes_ is written ⟨Mekes⟩ in Semaron:
 
 ```markdown
-[Meqes]{lang=khel font=semaron-kuriale map=semaron}
+[Meqes]{.nativefont lang=khel font=semaron-kuriale map=semaron}
 ```
 
 Each such row is the owner's to approve. A letter with no row passes through
@@ -839,62 +854,60 @@ spell every word.
 
 ## 9. Marking text
 
-Three optional keys mark text, on a span, a `:::` block or a `verse` fence.
-They are independent.
+`lang=` identifies the language and retains roman spelling in the surrounding
+font. Add `.nativefont` with an explicit `lang=` on the same construct to
+request native script. `font=` and `map=` independently override its defaults.
 
-| Written                                                       | What it is                                                                                              |
-| ------------------------------------------------------------- | ------------------------------------------------------------------------------------------------------- |
-| `[Daimela, helthos.]{lang=en}`                                | English, tagged, in roman and in the page's font. Unchecked.                                            |
-| `[…]{font=semaron-kuriale}`                                   | The code points exactly as typed, in Semaron Kuriale. Checked for coverage only.                        |
-| `[Zaron tholmeza]{lang=vyl}`                                  | Vylari typed in roman, mapped through the dictionary and the rows of Vylari's `writtenIn`, and checked. |
-| `[Zaron tholmeza]{lang=vyl font=semaron-kuriale map=semaron}` | The same, with both keys written out.                                                                   |
-| `[…]{map=semaron}` with no `lang=`                            | The rows alone: no dictionary, no lexicon check.                                                        |
-| `[ad astra]{lang=la font=serif}`                              | A real language's tag, unchecked, in the reader's serif.                                                |
-| `::: {lang=… font=… map=…}` … `:::`                           | The same keys for a passage of paragraphs.                                                              |
-| A `verse` fence opened with `{lang=… font=… map=…}`           | The same keys for a poem.                                                                               |
+| Written                                                                   | What it is                                           |
+| ------------------------------------------------------------------------- | ---------------------------------------------------- |
+| `[Daimela, helthos.]{lang=en}`                                            | The reader's language in the page's font.            |
+| `[Zaron tholmeza]{lang=vyl}`                                              | Roman Vylari, checked against its dictionary.        |
+| `[Zaron tholmeza]{.nativefont lang=vyl}`                                  | Native Vylari using its configured mapping and face. |
+| `[Zaron tholmeza]{.nativefont lang=vyl font=semaron-kuriale map=semaron}` | The same, with both overrides stated.                |
+| `[ad astra]{lang=la font=serif}`                                          | A real language's tag in the reader's serif.         |
+| `::: {.nativefont lang=… font=… map=…}` … `:::`                           | Native presentation for a passage of paragraphs.     |
+| A `verse` fence with `{.nativefont lang=… font=… map=…}`                  | The same native presentation for a poem.             |
 
 ### 9.1 The three cases
 
-1. **Roman, tagged** (`{lang=en}`, or the `lang=` of a language whose note
-   states no `writtenIn`). The text is roman and unchecked. Use it for a word or
-   phrase quoted in the page's own font.
-2. **Native code points typed directly** (`{font=…}`). The characters reach the
-   page exactly as written. Nothing is checked against any language. The only
-   check is face coverage: every character must be one the face draws. The
-   characters are the face's own code points, typed with a keyboard layout or
-   an input method (see [Typing natively](#14-typing-natively)).
-3. **Roman mapped** (`{lang=vyl}`, or `{lang=vyl font=… map=…}` for a script
-   other than the language's own). The roman is converted by the dictionary and
-   the rows, then checked against the language's lexicon and register, then
-   checked for face coverage. This is the usual choice for a language with a
-   dictionary, because the note's source stays readable and diffable.
+1. **Roman, tagged** (`{lang=en}` or `{lang=vyl}`). The language tag alone
+   preserves spelling and the surrounding font. A declared language with a
+   dictionary is checked in roman as well as in native presentation.
+2. **Native code points typed directly** (`{.nativefont lang=… font=…}`).
+   A configured or explicit map still applies; characters with no matching row
+   pass through unchanged. Without a map, the typed code points reach the face
+   unchanged. The language and face checks still apply. Use a keyboard layout
+   or input method ([Typing natively](#14-typing-natively)).
+3. **Roman mapped** (`{.nativefont lang=vyl}`, or with explicit `font=` and
+   `map=` overrides). The dictionary and rows convert roman text, and the face
+   coverage check applies to the resulting characters. The source stays
+   readable and diffable.
 
-**Real runs in the tree.** From `Skills/Scripts/Semaron.md`, the opening of a
-sworn oath in High Vylari, as a block:
+**Native presentation examples.** An oath in High Vylari:
 
 ```markdown
-::: {lang=vyl}
+::: {.nativefont lang=vyl}
 Voza ulthoi okethen denon zaron, ul kalmetharoi.
 :::
 ```
 
-From `Skills/Scripts/Pirzath.md`, the same words in two faces. Khazari's own
-`writtenIn` face is Pirzath Hand, so only the carved form names its face:
+Khazari's default face is Pirzath Hand. Only the carved alternative needs a
+font override:
 
 ```markdown
-::: {lang=khaz font=pirzath-carved}
+::: {.nativefont lang=khaz font=pirzath-carved}
 Dalík bant, maríg bant.
 :::
 
-::: {lang=khaz}
+::: {.nativefont lang=khaz}
 Dalík bant, maríg bant.
 :::
 ```
 
-From `Skills/Scripts/Thuravark.md`, a span in running prose:
+A native Nordmal span:
 
 ```markdown
-[hrend]{lang=nord}
+[hrend]{.nativefont lang=nord}
 ```
 
 ### 9.2 The keys
@@ -903,38 +916,40 @@ From `Skills/Scripts/Thuravark.md`, a span in running prose:
   a BCP 47 tag for a real language (`la`, `grc`, `en-GB`), checked for its form
   alone. A declared name wins over a tag spelled the same way. A well-formed tag
   one edit from a declared name draws a warning that names the declared one.
+- **`.nativefont`** requires an explicit `lang=` on the same construct. It
+  selects native presentation using the language defaults and local overrides.
 - **`font=`** is a face of `@heroiclands/fonts` or a generic family. An unknown
   name is an error that suggests the nearest face. A package that has not
-  installed `@heroiclands/fonts` cannot name a face.
+  installed `@heroiclands/fonts` cannot name a face. Without `.nativefont`,
+  only `mono`, `serif` and `sans` are allowed.
 - **`map=`** is the `data.map.name` of a mapping note. A `font=` with `map=` is
-  one of the faces the mapping lists.
+  one of the faces the mapping lists. A `map=` requires `.nativefont`.
 
 ### 9.3 Inheritance
 
-A span inside a marked block or fence takes the passage's keys, and its own keys
-win. A Khelathi phrase inside a Vylari passage is checked against Khelathi's
-lexicon and register and tagged Khelathi, but still drawn through Semaron's
-rows. _Meqes_ is a name in Khelathi's register, so the span passes, and Semaron
-writes its _q_ as _k_ ([What a mapping row is](#82-what-a-mapping-row-is)):
+Unmarked text follows its passage. A marked child chooses its own
+presentation: a language-only child stays roman, even inside a native passage.
+A native child needs its own `.nativefont` and explicit `lang=`; it uses its
+own language defaults and overrides, not the parent's font or map overrides.
 
 ```markdown
-::: {lang=vyl}
+::: {.nativefont lang=vyl}
 Voza olmathen thilandon, [Meqes]{lang=khel}, ul voza lorezathen.
+[Meqes]{.nativefont lang=khel}
+[an oath]{lang=en font=serif}
 :::
 ```
 
-The span's language is Khelathi, whose `writtenIn` is Qalezu, but the span names
-no `font=` or `map=`, so it keeps the passage's Semaron: the passage's keys win
-over the span's language. To draw it in Qalezu instead, the span names the
-script itself: `[Meqes]{lang=khel font=qalezu-hand map=qalezu}`. Qalezu runs right to
-left inside the left-to-right line with no `dir=` written. To set a gloss in
-the page's own font, `[an oath]{lang=en font=serif}` inside the passage drops
-both the face and the map by naming new ones.
+The first _Meqes_ stays roman. The second uses Qalezu, which runs right to
+left inside the left-to-right line without an authored `dir=`. An unmarked
+span inherits the surrounding language for validation. The gloss retains its
+reader-language serif presentation.
 
 ### 9.4 What a run may hold
 
-- A marked span or verse line is **plain text**: no link, image, footnote,
-  wikilink, code or HTML. Text set in a face takes emphasis as stars.
+- A language-marked prose span is **plain text**: no link, image, footnote,
+  wikilink, code or HTML inside it. A verse reading may combine separate spans
+  and language-marked links. Bold and italic markup is allowed only in `lang=en`.
 - A marked div holds paragraphs and line breaks only: no heading, list, block
   quote, code fence, table or nested block.
 - The text is read as written, so `[`, `]`, `"`, `<<`, `>>`, `!` and
@@ -946,17 +961,12 @@ both the face and the map by naming new ones.
 
 ### 9.5 Emphasis in a script
 
-No script marks a stressed word by a bold or a slant. Inside a run set in a
-face, `*…*` and `**…**` are set by the scribal convention the language states
-in `data.emphasis`, else the script note states in `data.script.emphasis`
-(`rubric`, red ink; `overline`, a line above). The text stays an `<em>` or a
-`<strong>`, and the face keeps its Regular.
-
-A language whose `data.emphasis` is `words` marks stress with a word, and stars
-in its runs are an error: `` `vyl` marks emphasis with a word, not a mark; write the word ``.
-Vylari states `words`, so a Vylari run carries no stars. Underscores and
-strikethrough are errors in a face. A star inside a word splits it, so enclose
-a stressed word whole.
+Bold and italic markup is allowed only in `lang=en`. In every other language,
+remove the markup or escape it when a literal character is intended, and
+express emphasis through the language's word choice and order. This applies
+to roman and native text, including inherited language settings. A language
+or script's scribal conventions do not permit bold or italic source markup
+inside a non-reader-language span.
 
 ### 9.6 Where marked text is set
 
@@ -970,8 +980,9 @@ carry the faces a note uses.
 
 ## 10. What the build checks on a mapped run
 
-A run with `lang=`, `font=` and `map=`, whose language has a `note`, is checked
-word by word. Every finding is `file:line:column: severity: message`, the path
+A run whose declared language has a `note` is checked word by word in both
+roman and native presentation. Native presentation also checks mappings and
+face coverage. Every finding is `file:line:column: severity: message`, the path
 relative to the working directory, at the character it concerns.
 
 | Stage         | Reads                                | Reports                                    |
@@ -1038,9 +1049,9 @@ preserves. The keys go on the fence. Prettier leaves the contents of a fence
 byte for byte, so indentation, line breaks and spans survive formatting.
 
 ````markdown
-```verse {lang=vyl font=semaron-kuriale map=semaron}
+```verse {.nativefont lang=vyl font=semaron-kuriale map=semaron}
 Voza olmathen thilandon,
-  ul voza lorezathen.
+.ul voza lorezathen.
 ```
 ````
 
@@ -1055,42 +1066,52 @@ rewords, trims, reflows or re-punctuates a poem.
 
 ### Verse in columns
 
-A poem can be set beside its translation, or in both script and roman. `col1=`
-names what the left column shows and `col2=` the right, each column stacking
-one or more entries joined by `:`. An entry is `language[/mapping[/font]]`.
-`numstep=N` numbers the lines (`numstep=1` every line, `numstep=5` every fifth).
-`form=` records the poem's kind and is not read.
+A poem can be set beside its translation, or in both script and roman.
+`cols=N` gives a positive whole number of columns, defaulting to one. With
+more than one column, prefix each reading with its column number and spaces.
+`numstep=N` numbers logical rows (`numstep=1` every row, `numstep=5` every
+fifth). `form=` records the poem's kind and is not read.
 
-The body is one fence with interleaved `lang` spans. Each verse line is a group
-of lines separated by a blank line; each line of a group is a span giving the
-verse line in one language. A line of only `***` breaks a stanza. From
-`Lore/Cultures/Vylarian/The_Walking_of_the_Line.md`:
+A blank line ends a logical row. Within each row, column numbers must be in
+`1..cols` and nondecreasing. Omitted columns remain empty. A column's first
+reading is foreground and its later readings are grey; each column starts
+fresh in the next row. Author every reading explicitly, including a roman
+repeat of a native line. Language tags identify words; numbers place them.
+
+From `Lore/Cultures/Vylarian/The_Walking_of_the_Line.md`:
 
 ````markdown
-```verse {form=epic lang=en numstep=5 col1=vyl/semaron/semaron-kuriale col2=en:vyl}
-[The hallowed boundary I sing,]{lang=en}
-[Thiruthriman sorimamen,]{lang=vyl}
+```verse {form=epic numstep=5 cols=2}
+1 [Thiruthriman sorimamen,]{.nativefont lang=vyl}
+2 [The hallowed boundary I sing,]{lang=en}
+2 [Thiruthriman sorimamen,]{lang=vyl}
 
-[and the one who walked it, and the stones]{lang=en}
-[ul alathas kedis alatha valmazor, ul talothoi]{lang=vyl}
+1 [ul alathas kedis alatha valmazor, ul talothoi]{.nativefont lang=vyl}
+2 [and the one who walked it, and the stones]{lang=en}
+2 [ul alathas kedis alatha valmazor, ul talothoi]{lang=vyl}
 ```
 ````
 
-The Vylari is typed once in roman. The first entry of `col1=` maps it into
-Semaron; the second entry of `col2=` sets the same line in roman. The rules:
+The left cell uses Vylari's configured native script. The right cell holds
+the modern reading and a separately authored roman Vylari repeat. Put
+`.nativefont`, `lang=`, and any `font=` or `map=` overrides on the actual
+native runs. Keep language-marked links separate from adjacent prose spans,
+including their spaces and punctuation.
 
-- `font=` and `map=` belong to the entries, not to the poem.
-- Every verse line gives one span for each language its columns name, and none
-  for a language they do not.
-- A line is not indented, and its span takes only `lang=`.
+A standalone `***` separates stanzas and resets column order. Leading periods
+after the column prefix set indentation; leading spaces do not indent.
+Periods at the start of a reading's first span also count; later spans'
+periods remain text. For example:
 
-The findings, each an error at the text that is wrong:
-
-```text
-<note>:37:1: error: this verse line has no `en` line, which `col2=` sets
-<note>:18:1: error: this verse line gives `en` twice; give each language once
-<note>:22:1: error: no column sets `khel`; a verse line gives the languages `col1=` and `col2=` name
+```markdown
+1 [.Thiruthriman sorimamen,]{.nativefont lang=vyl}
+2 [.The hallowed boundary I sing,]{lang=en}
+2 [.Thiruthriman sorimamen,]{lang=vyl}
 ```
+
+All targets align a row's cells at the top, including empty cells. On narrow
+screens the cells stack in numbered order. Findings identify invalid `cols`
+values, missing or out-of-order column prefixes, or invalid inline runs.
 
 ### Metre
 
@@ -1133,7 +1154,7 @@ horizontally**: a short phrase in the same script sits in a line of prose and
 sets its characters left to right.
 
 ```text
-scroll {rows=25 cols=12 lang=<language> map=<mapping>}
+scroll {.nativefont rows=25 cols=12 lang=<language> map=<mapping> font=<face>}
 ```
 
 The fence opens a real code fence, so Markdown never reformats its body.
@@ -1145,9 +1166,10 @@ The fence opens a real code fence, so Markdown never reformats its body.
 - **`rows=`** is the number of characters in a column, and **`cols=`** the number
   of columns in a panel. Each is a whole number above zero, and either may be
   left out.
-- **`lang=`, `font=` and `map=`** work as on a verse fence. If the fence names no
-  `font=`, it takes the face of its map, provided the map is drawn in exactly
-  one face.
+- **`lang=`, `.nativefont`, `font=` and `map=`** work as on a verse fence.
+  A scroll requires its own `.nativefont` and explicit `lang=`. The language's
+  defaults supply its face and map; a missing default face requires `font=`.
+  A map's list of faces never supplies a font automatically.
 - **The direction comes from the script.** The script note states
   `direction: vertical-rl` in its `data.script`. A script that states no
   direction is written in lines, and a `scroll` fence set in it is an error.
@@ -1168,10 +1190,10 @@ data:
     direction: vertical-rl
 ```
 
-When the language's note states `writtenIn`, `lang=` alone is enough:
+When the language's note states `writtenIn`, opt into those defaults:
 
 ````markdown
-```scroll {rows=25 cols=12 lang=<language>}
+```scroll {.nativefont rows=25 cols=12 lang=<language>}
 <the passage, in roman, one paragraph per blank-line-separated block>
 ```
 ````
@@ -1220,8 +1242,9 @@ as typed.
 **Foreign names are spelled deliberately.** A registered name is written like
 any other word, so a name with no writing is an error. A foreign name is written
 in sound signs, or in Manuel de Codage (sign ids and joiners) through a mapping
-whose rows read that notation, used on a run with `map=` and no `lang=`. Nothing
-is spelled by sound unless the author does it deliberately.
+whose rows read that notation, used on a native run with explicit `lang=`,
+`map=` and `font=`. Nothing is spelled by sound unless the author does it
+deliberately.
 
 **Format controls.** Khelathi Zethu Glyphs lays out quadrats and cartouches
 itself, from controls typed between its signs: the vertical and horizontal
@@ -1236,23 +1259,24 @@ comes apart.
 
 **What this repository has.** The Khelathi-zethu script note lists the face
 `khelathi-zethu-glyphs`, and two mapping notes write it. `Zethu_Writing.md`
-declares the logographic map `zethu`: a run marked `lang=khel map=zethu` is
-written word by word from the `native` writings in the Khelathi lexicon, and a
+declares the logographic map `zethu`. A run marked
+`.nativefont lang=khel map=zethu font=khelathi-zethu-glyphs` is written word by word from the `native` writings in the Khelathi lexicon, and a
 word with no writing there is an error at the word. `Zethu_Codage.md` declares
 `zethu-mdc`, which writes signs by their ids in the manner of the Manuel de
 Codage, for a foreign name or anything the lexicon does not hold:
 
 ```markdown
-[zeghet ez igelu]{lang=khel font=khelathi-zethu-glyphs map=zethu}
+[zeghet ez igelu]{.nativefont lang=khel font=khelathi-zethu-glyphs map=zethu}
 
-::: {font=khelathi-zethu-glyphs map=zethu-mdc}
+::: {.nativefont lang=khel font=khelathi-zethu-glyphs map=zethu-mdc}
 11-001:11-002-<13-002*13-003-12-005:16-027>
 :::
 ```
 
-Zethu signs can also be typed as the face's own code points under
-`font=khelathi-zethu-glyphs` (case 2 of [the three cases](#91-the-three-cases)),
-or by sign id in Emacs (see [Typing natively](#14-typing-natively)).
+Zethu signs can be entered through the Emacs input method
+([Typing natively](#14-typing-natively)). Native presentation still needs
+`.nativefont`, explicit `lang=` and a compatible face and mapping; directly
+typed code points do not bypass the language or logographic writing checks.
 
 Teng Chou is also logographic: one character per morpheme, in Tantsou one
 syllable, shared by Tantsou and Jurthati. It has no mapping note in this
@@ -1283,8 +1307,10 @@ is the author's business, and the markdown and the build neither know nor care.
 - **Cheatsheets**: `keyboards/<script>.md` gives each key, its Emacs sequence,
   its code point, its glyph and its kind.
 
-A note typed natively needs `font=` and no `map=`. Typing roman and letting
-`map=` convert it keeps the source readable and diffable, so it is the usual
+A passage typed natively needs `.nativefont`, an explicit `lang=` and a
+configured or explicit face. Its configured or explicit map still applies,
+leaving code points without matching rows unchanged. Typing roman and letting
+the map convert it keeps the source readable and diffable, so it is the usual
 choice for a language with a dictionary.
 
 **Seeing the characters.** A script's code points draw only in a face that draws
@@ -1319,8 +1345,8 @@ Vylari; a prose passage skips the fence.
    `data.register`, and a foreign name also needs its row in its own language's
    register ([Registering a name](#7-registering-a-name)).
 4. **Mark the passage once.** For verse, open the fence as
-   `verse {lang=vyl font=semaron-kuriale map=semaron}`. For prose, use a `:::`
-   block or a span with the same keys. The source stays roman, readable
+   `verse {.nativefont lang=vyl font=semaron-kuriale map=semaron}`. For prose,
+   use a `:::` block or a span with the same keys. The source stays roman, readable
    and diffable, and is never rewritten into code points.
 5. **The build converts and checks it,** deterministically: dictionary, rows,
    lexicon check and face coverage.
@@ -1371,7 +1397,7 @@ continuous integration; it reads every note and takes minutes.
 | `npm run lint:format` and `npm run format`                    | Prettier formatting; `format` writes. Format only the files changed: `npm run format -- <paths>`                                                                 | A file would be rewritten                                                                                           |
 | `npm run lint:content-links`                                  | Every link in the content tree lands somewhere                                                                                                                   | A broken link or wikilink                                                                                           |
 | `npm run lint:earth-words`                                    | Every `data.words` form against the word lists of its model language (`SOURCES`)                                                                                 | `"<form>" is a word of the <model> list`: a whole-word Earth collision. Replace the word, with the owner's approval |
-| `npm run lint:earth-names`                                    | No Earth proper name in a note: a language, country, city, people, religion, person or work. "English", "French" and "Latin" are refused as whole words          | Recast the name as a gloss or a rendering                                                                           |
+| `npm run lint:earth-names`                                    | No Earth proper name in a note: a language, country, city, people, religion, person or work. The reader's language names are also refused as whole words         | Recast the name as a gloss or a rendering                                                                           |
 | `npm run lint:observer`                                       | The banned sentence shape: a fact followed by a hypothetical person who notices, judges or corrects it                                                           | End the sentence at the fact, or make the consequence the subject                                                   |
 | `npm run lint:verse-fences`                                   | No `poetry` fence                                                                                                                                                | Write the fence as `verse`                                                                                          |
 | `npm run lint:affix-replaces`                                 | An affix whose `attaches` prose says it replaces a closing sound but states no `replaces`                                                                        | Add `replaces: vowel` or the letters it takes the place of                                                          |
@@ -1436,8 +1462,9 @@ Each is a real finding or a real trap.
    than fails, and the passage is unchecked.
 9. **Opening a poem with `poetry`.** `package-build lint` reports nothing, the
    page shows a code listing, and only `npm run lint:verse-fences` catches it.
-10. **Giving a column line one language.** A verse in columns needs one span for
-    each language its columns name.
+10. **Omitting a column prefix or roman repeat.** With `cols` above one,
+    each reading needs its column number. A repeat must be written explicitly;
+    omitted cells stay empty.
 11. **Stating a `native` form the rows already give.** A native form is an
     exception; delete the redundant entry.
 12. **Changing an established word to fit an affix.** Words win: correct the

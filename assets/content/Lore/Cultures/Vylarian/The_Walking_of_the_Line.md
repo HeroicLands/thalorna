@@ -54,7 +54,7 @@ The poem opens on the two words every schoolboy can say: [Thiruthriman sorimamen
 2 [pra kembothos us urkis ol alathoi thalezor.]{lang=vyl}
 
 1 [Thauras ol thilandon olmthon, Marendas,]{.nativefont lang=vyl}
-2 [Keeper of the open book, [[lore-marendasdty|Marendas]],]{lang=en}
+2 [Keeper of the open book, ]{lang=en}[[lore-marendasdty|Marendas]]{lang=vyl}[,]{lang=en}
 2 [Thauras ol thilandon olmthon, Marendas,]{lang=vyl}
 
 1 [kedis thilthon ul ar thilthon kerazar,]{.nativefont lang=vyl}
@@ -112,7 +112,7 @@ The poem opens on the two words every schoolboy can say: [Thiruthriman sorimamen
 2 [pra korvathis, ir zela polthamis,]{lang=vyl}
 
 1 [ul Kurthas lokazor zel Antelen,]{.nativefont lang=vyl}
-2 [and the Senator came down from [[place-antel|the Old Hill]]]{lang=en}
+2 [and the Senator came down from ]{lang=en}[[place-antel|the Old Hill]]{lang=en}
 2 [ul Kurthas lokazor zel Antelen,]{lang=vyl}
 
 1 [ar kerandar talktholbema,]{.nativefont lang=vyl}
@@ -268,7 +268,7 @@ The poem opens on the two words every schoolboy can say: [Thiruthriman sorimamen
 ***
 
 1 [Sa kan polthos ir malkothoi ol Hilen,]{.nativefont lang=vyl}
-2 [As when a farmer in the hills of [[place-hylen|Hilen]],]{lang=en}
+2 [As when a farmer in the hills of ]{lang=en}[[place-hylen|Hilen]]{lang=vyl}[,]{lang=en}
 2 [Sa kan polthos ir malkothoi ol Hilen,]{lang=vyl}
 
 1 [ir pramiza kan ankelimmos ol vethis fa thramezan tigazor,]{.nativefont lang=vyl}
@@ -464,7 +464,7 @@ The poem opens on the two words every schoolboy can say: [Thiruthriman sorimamen
 2 [ul zela yormalis kurezoi,]{lang=vyl}
 
 1 [ul ir pramiza, ir konthalon ol thradinoi,]{.nativefont lang=vyl}
-2 [and east to the [[affiliation-byzarianlg|League]] of the weighers,]{lang=en}
+2 [and east to the ]{lang=en}[[affiliation-byzarianlg|League]]{lang=en}[ of the weighers,]{lang=en}
 2 [ul ir pramiza, ir konthalon ol thradinoi,]{lang=vyl}
 
 1 [ul thradinoi fa ko thradina kerazoi;]{.nativefont lang=vyl}
@@ -788,7 +788,7 @@ The poem opens on the two words every schoolboy can say: [Thiruthriman sorimamen
 2 [ves vakathen ir kedis veramis yarezor.]{lang=vyl}
 
 1 [Karzoros Selvin, thernandar ul peleros,]{.nativefont lang=vyl}
-2 [Third [[place-selvin|the Laurel]], green and new,]{lang=en}
+2 [Third ]{lang=en}[[place-selvin|the Laurel]]{lang=en}[, green and new,]{lang=en}
 2 [Karzoros Selvin, thernandar ul peleros,]{lang=vyl}
 
 1 [kona ventheloi us alathos ul ar thegaimoi,]{.nativefont lang=vyl}
@@ -832,7 +832,7 @@ The poem opens on the two words every schoolboy can say: [Thiruthriman sorimamen
 2 [ul ar klinezoi, ul ar dokazoi.]{lang=vyl}
 
 1 [Yolemoros Arvel, thelvarimmos, ar kerandar,]{.nativefont lang=vyl}
-2 [Fifth the [[place-arvel|Eagle Hill]], the highest, empty,]{lang=en}
+2 [Fifth the ]{lang=en}[[place-arvel|Eagle Hill]]{lang=en}[, the highest, empty,]{lang=en}
 2 [Yolemoros Arvel, thelvarimmos, ar kerandar,]{lang=vyl}
 
 1 [kona satheros urkis us tholkezos,]{.nativefont lang=vyl}

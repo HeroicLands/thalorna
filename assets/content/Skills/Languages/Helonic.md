@@ -28,6 +28,8 @@ data:
       holds: "Being, becoming, carrying, ruling, teaching, flowing and holding together."
     - name: Grammar words
       holds: "The article, the particles, the pronouns and the numbers that hold a sentence together."
+    - name: Everyday expression
+      holds: "The senses, feelings, body, household, numbers and ordinary expressions used in conversation."
   affixes:
     - form: "-ira"
       gloss: "the quality: an abstract noun, feminine"
@@ -197,6 +199,7 @@ data:
       class: "n"
       field: "Thought, measure and the schools"
       gloss: "beginning, origin, first principle"
+      concept: [origin, beginning]
     - form: kosamir
       class: "n"
       field: "Thought, measure and the schools"
@@ -241,7 +244,6 @@ data:
       class: stem
       field: "Thought, measure and the schools"
       gloss: "to think, to weigh in the mind"
-      concept: think
     - form: therin
       class: "n"
       field: "Thought, measure and the schools"
@@ -280,6 +282,7 @@ data:
       field: "Thought, measure and the schools"
       gloss: "knowledge that can be taught"
       built: ["epistém-", "-in"]
+      concept: knowledge
     - form: epistémion
       class: "n"
       field: "Thought, measure and the schools"
@@ -290,9 +293,10 @@ data:
       field: "Thought, measure and the schools"
       gloss: "a doubter; the school that holds nothing proven"
     - form: arithmas
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "number, the count of a thing"
+      class: n
+      field: Thought, measure and the schools
+      gloss: "A number; the count of a thing."
+      concept: number
     - {form: "rhéz-", class: stem, field: "Thought, measure and the schools", gloss: "to flow"}
     - form: rhezin
       class: "n"
@@ -344,6 +348,7 @@ data:
       class: "n"
       field: "The gods, the stage and the assembly"
       gloss: "glory, reputation, the honor a citizen owns"
+      concept: honor
     - form: átimor
       class: "n"
       field: "The gods, the stage and the assembly"
@@ -400,37 +405,58 @@ data:
       class: "n"
       field: "The gods, the stage and the assembly"
       gloss: "a rite, a thing done for a god"
-    - {form: fótamir, class: "n", field: "Sea, river, land and sky", gloss: "river"}
-    - {form: ghéranis, class: "n", field: "Sea, river, land and sky", gloss: "earth, land"}
+    - {form: fótamir, class: n, field: "Sea, river, land and sky", gloss: river, concept: river}
+    - form: ghéranis
+      class: n
+      field: Sea, river, land and sky
+      gloss: earth, land
+      concept: [earth, land]
     - {form: "ghéran-", class: stem, field: "Sea, river, land and sky", gloss: "of the land"}
-    - {form: thálimir, class: "n", field: "Sea, river, land and sky", gloss: "the sea"}
+    - form: thálimir
+      class: n
+      field: Sea, river, land and sky
+      gloss: the sea
+      concept: [sea, ocean]
     - {form: "thálim-", class: stem, field: "Sea, river, land and sky", gloss: "of the sea"}
     - form: frelin
       class: "n"
       field: "Sea, river, land and sky"
       gloss: "the shore, the sea's edge"
+      concept: shore
     - {form: nesthir, class: "n", field: "Sea, river, land and sky", gloss: "an island"}
     - {form: limenir, class: "n", field: "Sea, river, land and sky", gloss: "a harbor"}
-    - {form: lofir, class: "n", field: "Sea, river, land and sky", gloss: "a hill, a ridge"}
+    - form: lofir
+      class: n
+      field: Sea, river, land and sky
+      gloss: a hill, a ridge
+      concept: hill
     - {form: "lof-", class: stem, field: "Sea, river, land and sky", gloss: "of the hill"}
-    - {form: órasin, class: "n", field: "Sea, river, land and sky", gloss: "a mountain"}
+    - form: órasin
+      class: n
+      field: Sea, river, land and sky
+      gloss: a mountain
+      concept: mountain
     - {form: "óras-", class: stem, field: "Sea, river, land and sky", gloss: "of the mountain"}
-    - {form: pedhin, class: "n", field: "Sea, river, land and sky", gloss: "a plain, flat country"}
+    - form: pedhin
+      class: n
+      field: Sea, river, land and sky
+      gloss: a plain, flat country
+      concept: plain-landform
     - {form: "pédh-", class: stem, field: "Sea, river, land and sky", gloss: "of the plain"}
     - form: elaisir
       class: "n"
       field: "Sea, river, land and sky"
       gloss: "the olive, and its tree"
     - {form: ámpelir, class: "n", field: "Sea, river, land and sky", gloss: "the vine"}
-    - {form: faenir, class: "n", field: "Sea, river, land and sky", gloss: "the sun"}
-    - {form: selenir, class: "n", field: "Sea, river, land and sky", gloss: "the moon"}
-    - {form: ánevir, class: "n", field: "Sea, river, land and sky", gloss: "the wind"}
+    - {form: faenir, class: n, field: "Sea, river, land and sky", gloss: the sun, concept: sun}
+    - {form: selenir, class: n, field: "Sea, river, land and sky", gloss: the moon, concept: moon}
+    - {form: ánevir, class: n, field: "Sea, river, land and sky", gloss: the wind, concept: wind}
     - {form: "ánev-", class: stem, field: "Sea, river, land and sky", gloss: "of the wind"}
     - form: horin
       class: "n"
       field: "Sea, river, land and sky"
       gloss: "an hour, a measured part of the day"
-    - {form: nikhtir, class: "n", field: "Sea, river, land and sky", gloss: "night"}
+    - {form: nikhtir, class: n, field: "Sea, river, land and sky", gloss: night, concept: night}
     - {form: "nikht-", class: stem, field: "Sea, river, land and sky", gloss: "of the night"}
     - form: khemon
       class: "n"
@@ -528,7 +554,11 @@ data:
       gloss: "a citizen"
       built: ["pólith-", "-ir"]
     - {form: "pólith-", class: stem, field: "The city, law and office", gloss: "of the city"}
-    - {form: nomasir, class: "n", field: "The city, law and office", gloss: "law, custom"}
+    - form: nomasir
+      class: n
+      field: The city, law and office
+      gloss: law, custom
+      concept: [law, custom]
     - form: nomasfilir
       class: "n"
       field: "The city, law and office"
@@ -542,15 +572,12 @@ data:
       gloss: "a guard, a watchman"
       built: ["fil-", "-ir"]
     - form: arsir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a magistrate; the presiding one, who gives the year his name"
-      built: ["árs-", "-ir"]
-    - form: "árs-"
-      class: stem
-      field: "The city, law and office"
-      gloss: "to rule, to begin"
-      concept: begin
+      class: n
+      field: The city, law and office
+      gloss: "A presiding magistrate, who gives the year his name; in ordinary reference, the ruler or person exercising authority."
+      built: [árs-, -ir]
+      concept: ruler
+    - {form: "árs-", class: stem, field: "The city, law and office", gloss: "to rule, to begin"}
     - form: strátimor
       class: "n"
       field: "The city, law and office"
@@ -574,7 +601,7 @@ data:
       class: stem
       field: "The city, law and office"
       gloss: "walled, of the wall"
-    - {form: pilin, class: "n", field: "The city, law and office", gloss: "a gate"}
+    - {form: pilin, class: n, field: "The city, law and office", gloss: a gate, concept: gate}
     - form: kasthrin
       class: "n"
       field: "The city, law and office"
@@ -614,6 +641,7 @@ data:
       class: "n"
       field: "Trade, coin, goods and the road"
       gloss: "merchant, trader"
+      concept: merchant
     - form: émforia
       class: "n"
       field: "Trade, coin, goods and the road"
@@ -622,12 +650,17 @@ data:
       class: "n"
       field: "Trade, coin, goods and the road"
       gloss: "goods, wealth"
+      concept: wealth
     - {form: khrisarin, class: "n", field: "Trade, coin, goods and the road", gloss: "gold"}
     - form: "khris-"
       class: stem
       field: "Trade, coin, goods and the road"
       gloss: "gold, golden"
-    - {form: máthiron, class: "n", field: "Trade, coin, goods and the road", gloss: "metal"}
+    - form: máthiron
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: metal
+      concept: metal
     - form: kérdhanir
       class: "n"
       field: "Trade, coin, goods and the road"
@@ -661,23 +694,26 @@ data:
       class: adj
       field: "Trade, coin, goods and the road"
       gloss: "profitable, valuable"
+      concept: valuable
     - {form: "euthál-", class: stem, field: "Trade, coin, goods and the road", gloss: "to prosper"}
     - {form: hodhis, class: "n", field: "Trade, coin, goods and the road", gloss: "a way, a road"}
-    - {form: ánthimor, class: "n", field: "Kin, the person and the body", gloss: "person, human"}
-    - {form: dorasin, class: "n", field: "Kin, the person and the body", gloss: "gift"}
-    - form: "doras-"
-      class: stem
-      field: "Kin, the person and the body"
-      gloss: "to give"
-      concept: give
+    - form: ánthimor
+      class: n
+      field: Kin, the person and the body
+      gloss: person, human
+      concept: [person, human]
+    - {form: dorasin, class: n, field: "Kin, the person and the body", gloss: gift, concept: gift}
+    - {form: "doras-", class: stem, field: "Kin, the person and the body", gloss: "to give"}
     - form: andáhr
       class: "n"
       field: "Kin, the person and the body"
       gloss: "lord, the master of a house"
+      concept: master
     - form: domin
       class: "n"
       field: "Kin, the person and the body"
       gloss: "a house, a household"
+      concept: abode
     - {form: "dóm-", class: stem, field: "Kin, the person and the body", gloss: "of the house"}
     - form: parikhor
       class: "n"
@@ -705,8 +741,8 @@ data:
       class: "n"
       field: "Kin, the person and the body"
       gloss: "sister"
-      concept: sister
       built: ["adhél-", "-ira"]
+      concept: sister
     - form: "adhél-"
       class: stem
       field: "Kin, the person and the body"
@@ -715,11 +751,17 @@ data:
       class: "n"
       field: "Kin, the person and the body"
       gloss: "a clan, a line of descent"
-    - {form: ónomir, class: "n", field: "Kin, the person and the body", gloss: "a name"}
+      concept: [clan, lineage]
+    - form: ónomir
+      class: n
+      field: Kin, the person and the body
+      gloss: a name
+      concept: name-noun
     - form: hetairin
       class: "n"
       field: "Kin, the person and the body"
       gloss: "a companion; the educated companion trained in music, philosophy and the social arts"
+      concept: companion
     - form: kefalir
       class: "n"
       field: "Kin, the person and the body"
@@ -750,8 +792,8 @@ data:
       class: "n"
       field: "Water, works and the island"
       gloss: "fire; the hearth-fire a household keeps alive"
-      concept: fire
       built: ["ithr-", "-in"]
+      concept: fire
     - {form: "ithr-", class: stem, field: "Water, works and the island", gloss: "of the fire"}
     - {form: krenir, class: "n", field: "Water, works and the island", gloss: "a spring"}
     - {form: "kren-", class: stem, field: "Water, works and the island", gloss: "of a spring"}
@@ -759,28 +801,36 @@ data:
       class: v
       field: "Doing, going and being"
       gloss: "to be, to exist"
-      concept: be
+      concept: [be, exist]
     - {form: théradhin, class: v, field: "Doing, going and being", gloss: "to behold, contemplate"}
-    - {form: dhidakhin, class: v, field: "Doing, going and being", gloss: "to teach"}
+    - {form: dhidakhin, class: v, field: "Doing, going and being", gloss: to teach, concept: teach}
     - {form: rhézarin, class: v, field: "Doing, going and being", gloss: "to flow"}
     - form: rhéthasin
       class: v
       field: "Doing, going and being"
       gloss: "to speak, to say aloud"
-      concept: speak
+      concept: [say, speak]
     - form: dókhanir
       class: v
       field: "Doing, going and being"
       gloss: "to think, judge"
       concept: think
     - {form: dokhazin, class: v, field: "Doing, going and being", gloss: "to honor, glorify"}
-    - {form: ársidhin, class: v, field: "Doing, going and being", gloss: "to rule, begin"}
+    - form: ársidhin
+      class: v
+      field: Doing, going and being
+      gloss: to rule, begin
+      concept: begin
     - form: sotharin
       class: v
       field: "Doing, going and being"
       gloss: "to save, preserve, hold together"
       built: ["soth-", "-arin"]
-    - {form: féranin, class: v, field: "Doing, going and being", gloss: "to carry, bear"}
+    - form: féranin
+      class: v
+      field: Doing, going and being
+      gloss: to carry, bear
+      concept: carry
     - {form: parádharin, class: v, field: "Doing, going and being", gloss: "to deliver, hand over"}
     - {form: danizarin, class: v, field: "Doing, going and being", gloss: "to lend"}
     - form: métrarin
@@ -788,31 +838,37 @@ data:
       field: "Doing, going and being"
       gloss: "to measure"
       built: ["métr-", "-arin"]
+      concept: measure-verb
     - form: ghígnarin
       class: v
       field: "Doing, going and being"
       gloss: "to become, to come to be"
+      concept: become
     - {form: "ghígn-", class: stem, field: "Doing, going and being", gloss: "to become"}
     - form: érkharin
       class: v
       field: "Doing, going and being"
       gloss: "to go, to come"
       concept: [go, come]
-    - {form: "érkh-", class: stem, field: "Doing, going and being", gloss: "to go", concept: go}
+    - {form: érkh-, class: stem, field: "Doing, going and being", gloss: to go}
     - {form: pléarin, class: v, field: "Doing, going and being", gloss: "to sail"}
-    - {form: ághrarin, class: v, field: "Doing, going and being", gloss: "to lead, to drive"}
+    - form: ághrarin
+      class: v
+      field: Doing, going and being
+      gloss: to lead, to drive
+      concept: lead
     - {form: "ághr-", class: stem, field: "Doing, going and being", gloss: "to lead, to drive"}
     - form: lámbarin
       class: v
-      field: "Doing, going and being"
-      gloss: "to take, to receive"
-      concept: take
-    - form: "lámb-"
-      class: stem
-      field: "Doing, going and being"
-      gloss: "to take"
-      concept: take
-    - {form: olasin, class: adj, field: "Doing, going and being", gloss: "whole, entire"}
+      field: Doing, going and being
+      gloss: To take or receive; receiving an offered or tossed object uses the receiving sense, including catching it in the hands.
+      concept: [take, catch]
+    - {form: "lámb-", class: stem, field: "Doing, going and being", gloss: "to take"}
+    - form: olasin
+      class: adj
+      field: Doing, going and being
+      gloss: whole, entire
+      concept: [whole, complete]
     - {form: kelir, class: adj, field: "Doing, going and being", gloss: "beautiful, good, noble"}
     - form: kélira
       class: adj
@@ -820,7 +876,11 @@ data:
       gloss: "beautiful, of a woman or a feminine noun"
       built: [kelir, "-a"]
     - {form: lefir, class: adj, field: "Doing, going and being", gloss: "clear, evident"}
-    - {form: meghar, class: adj, field: "Doing, going and being", gloss: "great, large"}
+    - form: meghar
+      class: adj
+      field: Doing, going and being
+      gloss: great, large
+      concept: big
     - form: méghara
       class: adj
       field: "Doing, going and being"
@@ -830,35 +890,50 @@ data:
       class: adj
       field: "Doing, going and being"
       gloss: "good; and, as a noun, a good thing"
-    - {form: nevaros, class: adj, field: "Doing, going and being", gloss: "new, young"}
+      concept: good
+    - form: nevaros
+      class: adj
+      field: Doing, going and being
+      gloss: new, young
+      concept: [new, young]
     - {form: "nevar-", class: stem, field: "Doing, going and being", gloss: "new, young"}
     - form: palaisir
       class: adj
       field: "Doing, going and being"
       gloss: "old, of the former age"
+      concept: old-object
     - {form: as, class: art, field: Grammar words, gloss: "the; plural _asir_"}
     - {form: ath, class: art, field: Grammar words, gloss: "the, neuter; plural _athir_"}
-    - {form: fom, class: art, field: Grammar words, gloss: "a, some, a certain"}
+    - {form: fom, class: art, field: Grammar words, gloss: "a, some, a certain", concept: some}
     - form: plum
       class: num
       field: Grammar words
       gloss: "all, every; feminine _pluma_, neuter _pluman_; _pluma_ all things, _plumon_ of all things"
-    - {form: in, class: part, field: Grammar words, gloss: "in"}
-    - {form: dres, class: part, field: Grammar words, gloss: "through"}
-    - {form: pef, class: part, field: Grammar words, gloss: "by, beside"}
+      concept: [all, every, each]
+    - {form: in, class: part, field: Grammar words, gloss: in, concept: [in, inside]}
+    - {form: dres, class: part, field: Grammar words, gloss: through, concept: through}
+    - {form: pef, class: part, field: Grammar words, gloss: "by, beside", concept: beside}
     - {form: frun, class: part, field: Grammar words, gloss: "with"}
-    - {form: tror, class: part, field: Grammar words, gloss: "before, in front of"}
+    - form: tror
+      class: part
+      field: Grammar words
+      gloss: before, in front of
+      concept: before-spatial
     - form: thoir
       class: part
       field: Grammar words
       gloss: "the focus particle, setting a word forward"
     - {form: neur, class: part, field: Grammar words, gloss: "not, with a command or a wish"}
-    - {form: uf, class: part, field: Grammar words, gloss: "not, with a statement"}
-    - {form: koum, class: part, field: Grammar words, gloss: "and"}
-    - {form: egh, class: pron, field: Grammar words, gloss: "I"}
-    - {form: thu, class: pron, field: Grammar words, gloss: "you"}
-    - {form: heum, class: pron, field: Grammar words, gloss: "this"}
-    - {form: heun, class: pron, field: Grammar words, gloss: "that"}
+    - {form: uf, class: part, field: Grammar words, gloss: "not, with a statement", concept: not}
+    - form: koum
+      class: conj
+      field: Grammar words
+      gloss: "And; joins the words or clauses on either side."
+      concept: and
+    - {form: egh, class: pron, field: Grammar words, gloss: I, concept: i}
+    - {form: thu, class: pron, field: Grammar words, gloss: you, concept: you-reference}
+    - {form: heum, class: pron, field: Grammar words, gloss: this, concept: this}
+    - {form: heun, class: pron, field: Grammar words, gloss: that, concept: that}
     - {form: meun, class: num, field: Grammar words, gloss: "one", concept: one}
     - {form: drin, class: num, field: Grammar words, gloss: "two", concept: two}
     - {form: trel, class: num, field: Grammar words, gloss: "three", concept: three}
@@ -866,6 +941,3880 @@ data:
     - {form: plem, class: num, field: Grammar words, gloss: "five", concept: five}
     - {form: zemor, class: num, field: Grammar words, gloss: "six", concept: six}
     - {form: zekhor, class: num, field: Grammar words, gloss: "ten", concept: ten}
+    - form: meltharin
+      class: v
+      field: Everyday expression
+      gloss: To see or notice something; also to look at something deliberately.
+      concept: [see-verb, look, notice]
+    - form: melthin
+      class: n
+      field: Everyday expression
+      gloss: A sight or visible appearance; what a person sees.
+      concept: [see-noun, appearance]
+    - form: akherin
+      class: v
+      field: Everyday expression
+      gloss: To hear a sound.
+      concept: hear-verb
+    - form: akhein
+      class: n
+      field: Everyday expression
+      gloss: A sound, whether a voice, a footfall or another audible event.
+      concept: hear-noun
+    - form: osmerin
+      class: v
+      field: Everyday expression
+      gloss: "To smell: detect a scent, or give off a scent; context identifies the experiencer or source."
+      concept: smell-verb
+    - form: osmin
+      class: n
+      field: Everyday expression
+      gloss: A smell or scent, pleasant or unpleasant.
+      concept: smell-noun
+    - form: geitharin
+      class: v
+      field: Everyday expression
+      gloss: To taste something with the tongue.
+      concept: taste-verb
+    - form: geithin
+      class: n
+      field: Everyday expression
+      gloss: A taste or flavour.
+      concept: taste-noun
+    - form: hafarin
+      class: v
+      field: Everyday expression
+      gloss: To touch; to feel something with the hand.
+      concept: touch-verb
+    - form: hafin
+      class: n
+      field: Everyday expression
+      gloss: A touch or brief bodily contact.
+      concept: touch-noun
+    - form: filarin
+      class: v
+      field: Everyday expression
+      gloss:
+        - To watch attentively or guard; the ordinary verb on the attested fil- stem.
+        - To watch attentively or guard; to defend a person or thing against harm.
+      concept: [watch, defend]
+      built: ["fil-", "-arin"]
+    - form: melthir
+      class: adj
+      field: Everyday expression
+      gloss: Visible; within sight.
+      concept: visible
+    - form: uf melthir
+      class: adj
+      field: Everyday expression
+      gloss: Invisible; not visible.
+      concept: invisible
+    - form: akrotharin
+      class: v
+      field: Everyday expression
+      gloss: To listen deliberately; direct attention to sounds.
+      concept: listen
+    - form: tharakin
+      class: n
+      field: Everyday expression
+      gloss: Noise, especially a confused or unwanted sound.
+      concept: noise
+    - form: rhethin
+      class: n
+      field: Everyday expression
+      gloss: "A voice: the sound made in speaking or singing."
+      concept: voice
+    - form: sighelin
+      class: n
+      field: Everyday expression
+      gloss: Silence; the absence of sound.
+      concept: silence
+    - form: tharir
+      class: adj
+      field: Everyday expression
+      gloss: Loud; carrying strongly to the ear.
+      concept: loud
+    - form: uf tharir
+      class: adj
+      field: Everyday expression
+      gloss: Quiet; not loud.
+      concept: quiet
+    - form: kelir er osmin
+      class: adj
+      field: Everyday expression
+      gloss: Fragrant; beautiful in respect of scent.
+      concept: fragrant
+    - form: khasir er osmin
+      class: adj
+      field: Everyday expression
+      gloss: Foul-smelling; bad in respect of scent.
+      concept: foul
+    - form: melir
+      class: adj
+      field: Everyday expression
+      gloss: Sweet to the taste.
+      concept: sweet
+    - form: oksarin
+      class: adj
+      field: Everyday expression
+      gloss: Sour or acidic to the taste.
+      concept: sour
+    - form: pikir
+      class: adj
+      field: Everyday expression
+      gloss: Bitter to the taste.
+      concept: bitter
+    - form: halmir
+      class: adj
+      field: Everyday expression
+      gloss: Salty to the taste.
+      concept: salty
+    - form: sestharin
+      class: v
+      field: Everyday expression
+      gloss: To feel a bodily sensation; the subject experiences it rather than merely knowing about it.
+      concept: feel-verb
+    - form: sesthin
+      class: n
+      field: Everyday expression
+      gloss: "A bodily sensation: what is felt through the senses."
+      concept: sensation
+    - form: lisar
+      class: adj
+      field: Everyday expression
+      gloss: Smooth to the touch.
+      concept: smooth
+    - form: trakhir
+      class: adj
+      field: Everyday expression
+      gloss: Rough to the touch.
+      concept: rough
+    - form: malir
+      class: adj
+      field: Everyday expression
+      gloss: Soft; yielding when pressed.
+      concept: soft
+    - form: sterir
+      class: adj
+      field: Everyday expression
+      gloss: Hard or firm to the touch; resistant to pressure.
+      concept: hard-texture
+    - form: noetharin
+      class: v
+      field: Everyday expression
+      gloss: To perceive; become aware of something through the senses.
+      concept: perceive
+    - form: nemarin
+      class: v
+      field: Everyday expression
+      gloss: To recognize someone or something encountered before.
+      concept: recognize
+    - form: fainarin
+      class: v
+      field: Everyday expression
+      gloss: To seem or appear to be something; the following description gives an impression without asserting its truth.
+      concept: seem
+    - form: thumira
+      class: n
+      field: Everyday expression
+      gloss: Anger; a feeling of displeasure and hostility.
+      concept: anger
+    - form: zelmira
+      class: n
+      field: Everyday expression
+      gloss: "Envy: painful desire for what someone else has."
+      concept: envy
+    - form: elmirin
+      class: n
+      field: Everyday expression
+      gloss: "Hope: the feeling that a desired outcome may come."
+      concept: hope
+    - form: huth hikanir orathin er khrémasin
+      class: n
+      field: Everyday expression
+      gloss: Greed; excessive desire for wealth or possessions. Huth hikanir marks desire beyond a sufficient or fitting amount, rather than strong desire alone.
+      concept: greed
+    - form: rhethin er huferin
+      class: n
+      field: Everyday expression
+      gloss: Boasting; speech that displays pride in oneself.
+      concept: boasting
+    - form: huferin
+      class: n
+      field: Everyday expression
+      gloss: "Pride: high regard for oneself or one's achievements."
+      concept: pride
+    - form: laghirin
+      class: n
+      field: Everyday expression
+      gloss: Lust; sexual desire, whether or not love accompanies it.
+      concept: lust
+    - form: uf elmirin
+      class: n
+      field: Everyday expression
+      gloss: Despair; absence of hope.
+      concept: despair
+    - form: elmirin frun skalin
+      class: n
+      field: Everyday expression
+      gloss: Disappointment; hope met with failure, rather than grief at a death.
+      concept: disappointment
+    - form: pesthira
+      class: n
+      field: Everyday expression
+      gloss: Faith or committed belief, especially religious belief without demanded proof.
+      concept: faith
+    - form: kharil
+      class: n
+      field: Everyday expression
+      gloss: "Joy: a vivid feeling of gladness."
+      concept: joy
+    - form: euthimira
+      class: n
+      field: Everyday expression
+      gloss: Happiness; the continuing feeling of well-being.
+      concept: happiness
+    - form: hedhirin
+      class: n
+      field: Everyday expression
+      gloss: Pleasure; enjoyable bodily or mental feeling.
+      concept: pleasure
+    - form: heselira
+      class: n
+      field: Everyday expression
+      gloss: Contentment; being at ease with what one has.
+      concept: contentment
+    - form: dorasira
+      class: n
+      field: Everyday expression
+      gloss: "Gratitude: thankful feeling toward the giver of a benefit."
+      concept: gratitude
+      built: ["doras-", "-ira"]
+    - form: thelmira
+      class: n
+      field: Everyday expression
+      gloss: Admiration; appreciative regard for excellence or beauty.
+      concept: admiration
+    - form: pithira
+      class: n
+      field: Everyday expression
+      gloss: "Trust: reliance on someone or something."
+      concept: trust
+    - form: thalorin
+      class: n
+      field: Everyday expression
+      gloss: Courage; readiness to act despite fear.
+      concept: courage
+    - form: misthira
+      class: n
+      field: Everyday expression
+      gloss: Hatred; enduring hostility and aversion.
+      concept: hatred
+    - form: nerathin frun felin
+      class: n
+      field: Everyday expression
+      gloss: Jealousy; affection accompanied by fear of losing another's affection to a rival.
+      concept: jealousy
+    - form: felin
+      class: n
+      field: Everyday expression
+      gloss: Fear of harm or danger.
+      concept: fear
+    - form: thar felin
+      class: n
+      field: Everyday expression
+      gloss: Terror; extreme fear.
+      concept: terror
+    - form: lufin
+      class: n
+      field: Everyday expression
+      gloss: Sadness; a feeling of sorrow.
+      concept: sadness
+    - form: lufin er apolin
+      class: n
+      field: Everyday expression
+      gloss: Grief; sorrow over a loss, especially someone's death.
+      concept: grief
+    - form: aidhira
+      class: n
+      field: Everyday expression
+      gloss: Shame or embarrassment; painful awareness of one's exposure, disgrace or social awkwardness. Context distinguishes their intensity.
+      concept: [shame, embarrassment]
+    - form: adikhira
+      class: n
+      field: Everyday expression
+      gloss: Guilt; the feeling of having done wrong, distinct from merely being exposed before others.
+      concept: guilt
+    - form: lufin er prathin
+      class: n
+      field: Everyday expression
+      gloss: Regret; sorrow about an action or omission of one's own.
+      concept: regret
+    - form: uf huferin
+      class: n
+      field: Everyday expression
+      gloss: Humility; absence of self-exaltation or pride.
+      concept: humility
+    - form: tharsira
+      class: n
+      field: Everyday expression
+      gloss: Confidence; assurance in one's own capacity, without a claim that one's belief is true.
+      concept: confidence
+    - form: sunelira
+      class: n
+      field: Everyday expression
+      gloss: Compassion or sympathy; sharing concern for another who suffers, with the wish to relieve suffering in the compassionate sense.
+      concept: [compassion, sympathy]
+    - form: lufin pir alghir
+      class: n
+      field: Everyday expression
+      gloss: Pity; sorrow felt for a suffering person, without requiring shared experience.
+      concept: pity
+    - form: thumira er adikhin
+      class: n
+      field: Everyday expression
+      gloss: Resentment; anger about a perceived injustice.
+      concept: resentment
+    - form: katheir
+      class: n
+      field: Everyday expression
+      gloss: Contempt; regarding someone as beneath respect.
+      concept: contempt
+    - form: lusira
+      class: n
+      field: Everyday expression
+      gloss: Forgiveness; release of blame or resentment toward someone.
+      concept: forgiveness
+    - form: orathin
+      class: n
+      field: Everyday expression
+      gloss: Desire; wanting something, whether sexual or otherwise.
+      concept: desire
+    - form: orathin in apethin
+      class: n
+      field: Everyday expression
+      gloss: "Longing; desire felt in the absence of its object, whether a person, thing or place. Orathin pir apethir gives the person example: longing for someone who is away."
+      concept: longing
+    - form: telmin
+      class: n
+      field: Everyday expression
+      gloss: Satisfaction; fulfilment of a desire or aim, rather than the feeling of contentment alone.
+      concept: satisfaction
+    - form: orathin frun empolin
+      class: n
+      field: Everyday expression
+      gloss: Frustration; the distress felt when one's desire is blocked by a barrier or difficulty.
+      concept: frustration
+    - form: orathin er epistemin
+      class: n
+      field: Everyday expression
+      gloss: Curiosity; desire for knowledge.
+      concept: curiosity
+    - form: tarakhira
+      class: n
+      field: Everyday expression
+      gloss: Confusion; inability to distinguish or understand what is happening.
+      concept: confusion
+    - form: skefira
+      class: n
+      field: Everyday expression
+      gloss: Doubt; uncertainty or hesitation in belief.
+      concept: doubt
+    - form: befeira
+      class: n
+      field: Everyday expression
+      gloss: Certainty; freedom from doubt about a belief, whether true or false.
+      concept: certainty
+    - form: apselira
+      class: n
+      field: Everyday expression
+      gloss: Surprise; the feeling caused by an unexpected impression or event.
+      concept: surprise
+    - form: korathira
+      class: n
+      field: Everyday expression
+      gloss: Boredom; weary lack of interest.
+      concept: boredom
+    - form: prothelira
+      class: n
+      field: Everyday expression
+      gloss: Anticipation; a feeling directed toward an expected event.
+      concept: anticipation
+    - form: pesthin
+      class: n
+      field: Everyday expression
+      gloss: A belief; what someone accepts as true.
+      concept: belief
+    - form: dokharin pir thásirin
+      class: n
+      field: Everyday expression
+      gloss: Reverence; the worshipper's reverent attitude expressed as honor directed toward a god. This is a conventional honor-giving phrase; dokharin alone retains its sense of citizen-owned glory or reputation.
+      concept: reverence
+    - form: thaumira
+      class: n
+      field: Everyday expression
+      gloss: Awe; wonder and fear before something overwhelming.
+      concept: awe
+    - form: nerathin
+      class: n
+      field: Everyday expression
+      gloss: Affection or loving attachment; the general feeling, with its object supplied in context.
+      concept: affection
+    - form: nerathin pir erathir
+      class: n
+      field: Everyday expression
+      gloss: Romantic love; loving attachment to a beloved partner, distinct from sexual lust.
+      concept: love-eros
+    - form: nerathin pir helfir
+      class: n
+      field: Everyday expression
+      gloss: Friendship; affectionate love between friends.
+      concept: love-philia
+    - form: nerathin pir ghenthir
+      class: n
+      field: Everyday expression
+      gloss: Family love; the attachment between kin. The phrase uses the clan word ghenthir conventionally for attachment within the family, including close household kin.
+      concept: love-storge
+    - form: aneghir nerathin pir plum ánthimor
+      class: n
+      field: Everyday expression
+      gloss: Selfless universal love; care for every person without expectation of return. Aneghir qualifies the love as selfless; plum ánthimor gives its universal scope.
+      concept: love-agape
+    - form: helkin
+      class: n
+      field: Everyday expression
+      gloss: Attraction; the drawing of interest or affection toward someone.
+      concept: attraction
+    - form: anthelira
+      class: n
+      field: Everyday expression
+      gloss: Intimacy; private closeness in affection, conversation or bodily relations.
+      concept: intimacy
+    - form: nerathin frun pisthelin
+      class: n
+      field: Everyday expression
+      gloss: Devotion; loving attachment with sustained commitment.
+      concept: devotion
+    - form: pisthelin
+      class: n
+      field: Everyday expression
+      gloss: Loyalty; continued fidelity to a person, group or undertaking.
+      concept: loyalty
+    - form: hetairinira
+      class: n
+      field: Everyday expression
+      gloss: Companionship; the state of being together with a companion. The ordinary companion word hetairin takes the attested quality ending -ira.
+      concept: companionship
+      built: ["hetairin", "-ira"]
+    - form: misthin
+      class: n
+      field: Everyday expression
+      gloss: Enmity; the hostile relationship between enemies.
+      concept: enmity
+    - form: thar thumira
+      class: n
+      field: Everyday expression
+      gloss: Wrath; intense anger.
+      concept: wrath
+    - form: thrikhir
+      class: n
+      field: Everyday expression
+      gloss: Hair, on the head or body.
+      concept: hair
+    - form: prosarin
+      class: n
+      field: Everyday expression
+      gloss: The face; the front of the head.
+      concept: face
+    - {form: ofthelin, class: n, field: Everyday expression, gloss: An eye., concept: eye}
+    - form: otharin
+      class: n
+      field: Everyday expression
+      gloss: An ear, the organ of hearing.
+      concept: ear
+    - {form: rhinir, class: n, field: Everyday expression, gloss: The nose., concept: nose}
+    - {form: stomir, class: n, field: Everyday expression, gloss: The mouth., concept: mouth}
+    - form: kheilin
+      class: n
+      field: Everyday expression
+      gloss: A lip of the mouth.
+      concept: lip
+    - {form: dhontir, class: n, field: Everyday expression, gloss: A tooth., concept: tooth}
+    - form: grothin
+      class: n
+      field: Everyday expression
+      gloss: The tongue, the organ inside the mouth.
+      concept: tongue
+    - {form: trakhelin, class: n, field: Everyday expression, gloss: The neck., concept: neck}
+    - {form: omethir, class: n, field: Everyday expression, gloss: A shoulder., concept: shoulder}
+    - form: brakhin
+      class: n
+      field: Everyday expression
+      gloss: An arm, from shoulder to hand.
+      concept: arm
+    - {form: ankhelin, class: n, field: Everyday expression, gloss: An elbow., concept: elbow}
+    - {form: dakhelin, class: n, field: Everyday expression, gloss: A finger., concept: finger}
+    - form: onukhir
+      class: n
+      field: Everyday expression
+      gloss: A fingernail; a nail of the hand.
+      concept: nail
+    - form: stethir
+      class: n
+      field: Everyday expression
+      gloss: The chest; the front of the upper torso.
+      concept: chest
+    - form: masthelin
+      class: n
+      field: Everyday expression
+      gloss: A breast, including its milk-producing tissue.
+      concept: breast
+    - form: gasthir
+      class: n
+      field: Everyday expression
+      gloss: The belly or abdomen; the outward body region.
+      concept: belly
+    - form: nothelin
+      class: n
+      field: Everyday expression
+      gloss: The back of the torso.
+      concept: back
+    - {form: iskhelin, class: n, field: Everyday expression, gloss: A hip., concept: hip}
+    - form: skelir
+      class: n
+      field: Everyday expression
+      gloss: A leg, from hip to foot.
+      concept: leg
+    - {form: gonethir, class: n, field: Everyday expression, gloss: A knee., concept: knee}
+    - {form: podhelin, class: n, field: Everyday expression, gloss: A foot., concept: foot}
+    - form: dakhelin er podhelin
+      class: n
+      field: Everyday expression
+      gloss: A toe; a digit of the foot.
+      concept: toe
+    - form: dhermin
+      class: n
+      field: Everyday expression
+      gloss: Skin, the body's outer covering.
+      concept: skin
+    - {form: osthelin, class: n, field: Everyday expression, gloss: A bone., concept: bone}
+    - form: sarkhelin
+      class: n
+      field: Everyday expression
+      gloss: Flesh; the soft tissues of a body.
+      concept: flesh
+    - form: methelin
+      class: n
+      field: Everyday expression
+      gloss: The forehead, above the eyes.
+      concept: forehead
+    - form: nathir
+      class: n
+      field: Everyday expression
+      gloss: The jaw, especially the lower jaw.
+      concept: jaw
+    - form: geneithin
+      class: n
+      field: Everyday expression
+      gloss: The chin; the front point of the lower jaw.
+      concept: chin
+    - form: parelin
+      class: n
+      field: Everyday expression
+      gloss: A cheek of the face.
+      concept: cheek
+    - form: laurin
+      class: n
+      field: Everyday expression
+      gloss: The throat; the passage within the neck.
+      concept: throat
+    - form: gasthelin
+      class: n
+      field: Everyday expression
+      gloss: The stomach, the internal organ receiving food.
+      concept: stomach
+    - form: mesorin
+      class: n
+      field: Everyday expression
+      gloss: The waist, the narrow middle of the torso.
+      concept: waist
+    - form: osthelin er nothelin
+      class: n
+      field: Everyday expression
+      gloss: The spine; the bony column of the back.
+      concept: spine
+    - {form: grouthelin, class: n, field: Everyday expression, gloss: A buttock., concept: buttock}
+    - form: karpelin
+      class: n
+      field: Everyday expression
+      gloss: The wrist, joining hand and arm.
+      concept: wrist
+    - form: thelmin
+      class: n
+      field: Everyday expression
+      gloss: The palm; the inner surface of the hand.
+      concept: palm
+    - form: meghar dakhelin
+      class: n
+      field: Everyday expression
+      gloss: The thumb; the stout opposing digit of the hand.
+      concept: thumb
+    - form: merothin
+      class: n
+      field: Everyday expression
+      gloss: A thigh, the upper leg.
+      concept: thigh
+    - {form: sfurin, class: n, field: Everyday expression, gloss: The ankle., concept: ankle}
+    - form: ternir
+      class: n
+      field: Everyday expression
+      gloss: The heel of the foot.
+      concept: heel
+    - form: pelmathin
+      class: n
+      field: Everyday expression
+      gloss: The sole; the lower surface of the foot.
+      concept: sole
+    - form: onukhir er podhelin
+      class: n
+      field: Everyday expression
+      gloss: A toenail; a nail of the foot.
+      concept: toenail
+    - form: munethir
+      class: n
+      field: Everyday expression
+      gloss: A muscle; tissue that contracts to move the body.
+      concept: muscle
+    - form: lifarin
+      class: n
+      field: Everyday expression
+      gloss: Body fat; fatty tissue.
+      concept: fat
+    - form: hidrathin
+      class: n
+      field: Everyday expression
+      gloss: Sweat; moisture secreted by the skin.
+      concept: sweat
+    - form: dakhrin
+      class: n
+      field: Everyday expression
+      gloss: Tears; liquid shed by the eyes.
+      concept: tears
+    - form: sialin
+      class: n
+      field: Everyday expression
+      gloss: Saliva; the liquid in the mouth.
+      concept: saliva
+    - {form: enkhelin, class: n, field: Everyday expression, gloss: The brain., concept: brain}
+    - {form: neithir, class: n, field: Everyday expression, gloss: A lung., concept: lung}
+    - {form: heparin, class: n, field: Everyday expression, gloss: The liver., concept: liver}
+    - {form: nefrin, class: n, field: Everyday expression, gloss: A kidney., concept: kidney}
+    - form: enthelin
+      class: n
+      field: Everyday expression
+      gloss: An intestine; the gut.
+      concept: intestine
+    - form: genethin
+      class: n
+      field: Everyday expression
+      gloss: Genitals; the external reproductive organs collectively.
+      concept: genitals
+    - form: metherin
+      class: n
+      field: Everyday expression
+      gloss: The womb or uterus.
+      concept: womb
+    - form: fallorin
+      class: n
+      field: Everyday expression
+      gloss: A penis; the external male reproductive organ.
+      concept: penis
+    - form: kolfelin
+      class: n
+      field: Everyday expression
+      gloss: The vagina; the internal passage from the vulva to the cervix.
+      concept: vagina
+    - {form: orkhelin, class: n, field: Everyday expression, gloss: A testicle., concept: testicle}
+    - form: edhin
+      class: n
+      field: Everyday expression
+      gloss: Food; something eaten for nourishment.
+      concept: food
+    - {form: edharin, class: v, field: Everyday expression, gloss: To eat food., concept: eat}
+    - form: pothin
+      class: n
+      field: Everyday expression
+      gloss: A drink; a portion of liquid for drinking.
+      concept: drink-noun
+    - form: potharin
+      class: v
+      field: Everyday expression
+      gloss: To drink liquid.
+      concept: drink-verb
+    - form: aitherin
+      class: n
+      field: Everyday expression
+      gloss: Air; the physical air around a person, including the air one breathes.
+      concept: air
+    - form: neirin
+      class: n
+      field: Everyday expression
+      gloss: A breath; air drawn in or expelled in breathing.
+      concept: breath
+    - form: neirarin
+      class: v
+      field: Everyday expression
+      gloss: To breathe; take air into and out of the lungs.
+      concept: breathe
+    - form: hufin
+      class: n
+      field: Everyday expression
+      gloss: Sleep; the bodily state of sleeping.
+      concept: sleep-noun
+    - {form: hufarin, class: v, field: Everyday expression, gloss: To sleep., concept: sleep-verb}
+    - {form: ourin, class: n, field: Everyday expression, gloss: Urine., concept: urine}
+    - form: ourarin
+      class: v
+      field: Everyday expression
+      gloss: To urinate; pass urine.
+      concept: urinate
+    - form: kofelin
+      class: n
+      field: Everyday expression
+      gloss: Dung or excrement.
+      concept: dung
+    - form: kofelarin
+      class: v
+      field: Everyday expression
+      gloss: To defecate; pass excrement.
+      concept: defecate
+    - form: thermira
+      class: n
+      field: Everyday expression
+      gloss: Warmth or heat as a bodily or physical condition; context supplies its degree.
+      concept: [warmth, heat]
+    - form: skefelin
+      class: n
+      field: Everyday expression
+      gloss: Shelter; protection from weather or exposure, and a place giving that protection.
+      concept: shelter
+    - form: peinir
+      class: n
+      field: Everyday expression
+      gloss: Hunger; the bodily need for food.
+      concept: hunger
+    - form: peinelir
+      class: adj
+      field: Everyday expression
+      gloss: Hungry; feeling the need to eat.
+      concept: hungry
+    - form: difelin
+      class: n
+      field: Everyday expression
+      gloss: Thirst; the bodily need for water or drink.
+      concept: thirst
+    - form: difelir
+      class: adj
+      field: Everyday expression
+      gloss: Thirsty; feeling the need to drink.
+      concept: thirsty
+    - form: neirarin esor
+      class: v
+      field: Everyday expression
+      gloss: To inhale; breathe inward.
+      concept: inhale
+    - form: neirarin ekor
+      class: v
+      field: Everyday expression
+      gloss: To exhale; breathe outward.
+      concept: exhale
+    - form: nigarin
+      class: v
+      field: Everyday expression
+      gloss: To suffocate; be deprived of the air needed for breathing, or cause that deprivation.
+      concept: suffocate
+    - form: egeirarin
+      class: v
+      field: Everyday expression
+      gloss: To wake or awaken someone; context identifies the sleeper or the person rousing them.
+      concept: wake
+    - form: egeirir
+      class: adj
+      field: Everyday expression
+      gloss: Awake; out of sleep.
+      concept: awake
+    - form: oneirin
+      class: n
+      field: Everyday expression
+      gloss: A dream experienced in sleep.
+      concept: dream
+    - form: anafelin
+      class: n
+      field: Everyday expression
+      gloss: Rest; a pause for recovery from activity.
+      concept: rest
+    - form: kamir
+      class: adj
+      field: Everyday expression
+      gloss: Tired; needing rest.
+      concept: tired
+    - form: hidratharin
+      class: v
+      field: Everyday expression
+      gloss: To sweat; secrete perspiration.
+      concept: sweat-verb
+    - form: krumira
+      class: n
+      field: Everyday expression
+      gloss: Cold; low temperature as a bodily or physical condition.
+      concept: cold-noun
+    - form: thermir
+      class: adj
+      field: Everyday expression
+      gloss: Hot; having a high temperature.
+      concept: hot
+    - form: maleth thermir
+      class: adj
+      field: Everyday expression
+      gloss: Warm; mildly hot. Maleth marks a limited degree of heat.
+      concept: warm
+    - form: maleth krumir
+      class: adj
+      field: Everyday expression
+      gloss: Cool; mildly cold. Maleth marks a limited degree of cold.
+      concept: cool
+    - form: krumarin
+      class: v
+      field: Everyday expression
+      gloss: To freeze; become ice, or make something freeze.
+      concept: freeze
+    - form: ithrarin
+      class: v
+      field: Everyday expression
+      gloss: To burn; be consumed or damaged by fire, or cause such burning.
+      concept: burn
+    - form: sothin
+      class: n
+      field: Everyday expression
+      gloss: Safety; a state of preservation from harm.
+      concept: safety
+      built: ["soth-", "-in"]
+    - form: kindhelin
+      class: n
+      field: Everyday expression
+      gloss: Danger; a condition that may cause harm.
+      concept: danger
+    - form: filira
+      class: n
+      field: Everyday expression
+      gloss: Protection; the guarding of a person or thing against harm.
+      concept: protection
+      built: ["fil-", "-ira"]
+    - form: laghin
+      class: n
+      field: Everyday expression
+      gloss: Sex; sexual intercourse or other partnered sexual activity.
+      concept: sex
+    - form: genetharin
+      class: v
+      field: Everyday expression
+      gloss: To conceive a child; begin a pregnancy.
+      concept: conceive
+    - form: genethira
+      class: n
+      field: Everyday expression
+      gloss: Pregnancy; carrying a developing child in the womb.
+      concept: pregnancy
+    - form: genethir
+      class: adj
+      field: Everyday expression
+      gloss: Pregnant; carrying a child in the womb.
+      concept: pregnant
+    - form: tekin
+      class: n
+      field: Everyday expression
+      gloss: Birth; the event of being born.
+      concept: birth
+    - form: tekarin
+      class: v
+      field: Everyday expression
+      gloss: To give birth to a child.
+      concept: give-birth
+    - form: masthelarin
+      class: v
+      field: Everyday expression
+      gloss: To nurse a child; feed a child at the breast.
+      concept: nurse
+    - form: auksarin
+      class: v
+      field: Everyday expression
+      gloss: To grow; increase in bodily size or development.
+      concept: grow
+    - form: geratharin
+      class: v
+      field: Everyday expression
+      gloss: To age; grow older.
+      concept: age-verb
+    - form: thanerin
+      class: n
+      field: Everyday expression
+      gloss: Death; the end of a living being's life.
+      concept: death
+    - form: thaner
+      class: adj
+      field: Everyday expression
+      gloss: Dead; no longer alive.
+      concept: dead
+    - form: ughelir
+      class: adj
+      field: Everyday expression
+      gloss: Healthy; sound in bodily health.
+      concept: healthy
+    - {form: noselir, class: adj, field: Everyday expression, gloss: Sick or ill., concept: sick}
+    - form: traumir
+      class: adj
+      field: Everyday expression
+      gloss: Injured or wounded.
+      concept: injured
+    - form: stenir
+      class: adj
+      field: Everyday expression
+      gloss: Strong; having bodily strength.
+      concept: strong
+    - form: uf stenir
+      class: adj
+      field: Everyday expression
+      gloss: Weak; lacking strength.
+      concept: weak
+    - form: thar kamir
+      class: adj
+      field: Everyday expression
+      gloss: Exhausted; extremely tired.
+      concept: exhausted
+    - form: plir er edhin
+      class: adj
+      field: Everyday expression
+      gloss: Sated; full after eating or drinking, rather than merely happy with an outcome.
+      concept: sated
+    - form: krumir
+      class: adj
+      field: Everyday expression
+      gloss: Cold in temperature.
+      concept: cold
+    - form: thermir er noselin
+      class: adj
+      field: Everyday expression
+      gloss: Feverish; hot in respect of illness, rather than heat from exertion or weather.
+      concept: feverish
+    - {form: alghin, class: n, field: Everyday expression, gloss: Bodily pain., concept: pain}
+    - form: algharin
+      class: v
+      field: Everyday expression
+      gloss: To hurt someone; cause pain or injury to a person or body part given as the object.
+      concept: hurt-verb
+    - form: sestharin alghin
+      class: v
+      field: Everyday expression
+      gloss: To ache or hurt; experience bodily pain, with the experiencer as subject.
+      concept: [ache, hurt-pain]
+    - form: pastherin
+      class: v
+      field: Everyday expression
+      gloss: To suffer; undergo pain, distress or hardship.
+      concept: suffer
+    - form: haimarin
+      class: v
+      field: Everyday expression
+      gloss: To bleed; lose blood from the body.
+      concept: bleed
+    - form: iatharin
+      class: v
+      field: Everyday expression
+      gloss: To heal a wound or illness; also to mend in health.
+      concept: heal
+    - form: ghígnarin ughelir
+      class: v
+      field: Everyday expression
+      gloss: To recover from illness or injury; become healthy. The adjective gives the resulting condition after the verb become.
+      concept: recover
+    - form: amelthir
+      class: adj
+      field: Everyday expression
+      gloss: Blind; bodily unable to see, rather than simply choosing not to look.
+      concept: blind
+    - form: anakher
+      class: adj
+      field: Everyday expression
+      gloss: Deaf; bodily unable to hear.
+      concept: deaf
+    - form: kholir
+      class: adj
+      field: Everyday expression
+      gloss: Lame; impaired in walking through an injured or weakened leg.
+      concept: lame
+    - {form: zelir, class: adj, field: Everyday expression, gloss: Alive; living., concept: alive}
+    - form: sesthir
+      class: adj
+      field: Everyday expression
+      gloss: Conscious; awake and aware of one's surroundings.
+      concept: conscious
+    - form: uf sesthir
+      class: adj
+      field: Everyday expression
+      gloss: Unconscious; lacking conscious awareness.
+      concept: unconscious
+    - form: gerathir
+      class: adj
+      field: Everyday expression
+      gloss: Old in age, of a living being.
+      concept: old
+    - form: gerathin
+      class: adj
+      field: Everyday expression
+      gloss: Aging; growing older.
+      concept: aging
+    - form: tokhir
+      class: n
+      field: Everyday expression
+      gloss: A parent, of any gender.
+      concept: parent
+    - form: tekir
+      class: n
+      field: Everyday expression
+      gloss: A child; a young person or someone's offspring.
+      concept: child
+    - form: mathira er tokhir
+      class: n
+      field: Everyday expression
+      gloss: A grandmother; the mother of a parent.
+      concept: grandmother
+    - form: parikhor er tokhir
+      class: n
+      field: Everyday expression
+      gloss: A grandfather; the father of a parent.
+      concept: grandfather
+    - form: tekir er tekir
+      class: n
+      field: Everyday expression
+      gloss: A grandchild; the child of one's child.
+      concept: grandchild
+    - form: adhelir er tokhir
+      class: n
+      field: Everyday expression
+      gloss: An uncle; a parent's brother.
+      concept: uncle
+    - form: adhélira er tokhir
+      class: n
+      field: Everyday expression
+      gloss: An aunt; a parent's sister.
+      concept: aunt
+    - form: tekir er adhelin er tokhir
+      class: n
+      field: Everyday expression
+      gloss: A cousin; the child of a sibling of one's parent. Read the nested relationship from the right.
+      concept: cousin
+    - form: gemethir
+      class: n
+      field: Everyday expression
+      gloss: A husband; a married man in relation to his spouse.
+      concept: husband
+    - form: gemethira
+      class: n
+      field: Everyday expression
+      gloss: A wife; a married woman in relation to her spouse.
+      concept: wife
+    - form: palaisir tokhir
+      class: n
+      field: Everyday expression
+      gloss: An ancestor; a parent of an earlier generation, including remote generations in this conventional kin expression.
+      concept: ancestor
+    - form: tekir er ghenthir
+      class: n
+      field: Everyday expression
+      gloss: A descendant; an offspring in a line of descent.
+      concept: descendant
+    - form: anethir
+      class: n
+      field: Everyday expression
+      gloss: An orphan; a child whose parents have died.
+      concept: orphan
+    - form: kherethira
+      class: n
+      field: Everyday expression
+      gloss: A widow; a woman whose spouse has died.
+      concept: widow
+    - form: tokhir er tokhir
+      class: n
+      field: Everyday expression
+      gloss: A grandparent; a parent's parent.
+      concept: grandparent
+    - form: huyir er adhelin
+      class: n
+      field: Everyday expression
+      gloss: A nephew; the son of one's sibling.
+      concept: nephew
+    - form: thighir er adhelin
+      class: n
+      field: Everyday expression
+      gloss: A niece; the daughter of one's sibling.
+      concept: niece
+    - form: gemethin
+      class: n
+      field: Everyday expression
+      gloss: A spouse or married partner.
+      concept: spouse
+    - form: gemethrin
+      class: n
+      field: Everyday expression
+      gloss: Marriage; the recognized union between spouses.
+      concept: marriage
+    - form: gemetharin
+      class: v
+      field: Everyday expression
+      gloss: To marry; enter a marriage with someone.
+      concept: marry
+    - form: ghenir
+      class: n
+      field: Everyday expression
+      gloss: Family or kin; people joined by birth, descent or marriage.
+      concept: [family, kin]
+    - form: kherethir
+      class: n
+      field: Everyday expression
+      gloss: A widower; a man whose spouse has died.
+      concept: widower
+    - form: helfir
+      class: n
+      field: Everyday expression
+      gloss: A friend; someone joined by mutual affection and trust.
+      concept: friend
+    - form: misthir
+      class: n
+      field: Everyday expression
+      gloss: An enemy; a person or group opposed in hostility.
+      concept: enemy
+    - form: ksenethir
+      class: n
+      field: Everyday expression
+      gloss: A stranger; a person one does not know.
+      concept: stranger
+    - form: geitonir
+      class: n
+      field: Everyday expression
+      gloss: A neighbor; a person living nearby.
+      concept: neighbor
+    - form: ksenir
+      class: n
+      field: Everyday expression
+      gloss: A guest; someone received into a house or gathering.
+      concept: guest
+    - form: ksenodhir
+      class: n
+      field: Everyday expression
+      gloss: A host; someone who receives and looks after a guest.
+      concept: host
+    - form: ághrir
+      class: n
+      field: Everyday expression
+      gloss: A leader; one who leads others.
+      concept: leader
+      built: ["ághr-", "-ir"]
+    - form: akolir
+      class: n
+      field: Everyday expression
+      gloss: A follower; one who follows a person or course.
+      concept: follower
+    - form: doulethin
+      class: n
+      field: Everyday expression
+      gloss: A servant; someone employed or bound to serve another.
+      concept: servant
+    - form: dhidakhor
+      class: n
+      field: Everyday expression
+      gloss: A teacher; one who teaches.
+      concept: teacher
+    - form: mathelir
+      class: n
+      field: Everyday expression
+      gloss: A student; a person learning from a teacher or school.
+      concept: student
+    - form: kathelin
+      class: n
+      field: Everyday expression
+      gloss: A seat; especially a chair for one person.
+      concept: [chair, seat]
+    - form: trapehin
+      class: n
+      field: Everyday expression
+      gloss: A table; a raised surface for eating, work or display.
+      concept: table
+    - form: klinethin
+      class: n
+      field: Everyday expression
+      gloss: A bed; a place or furnishing for sleep.
+      concept: bed
+    - form: dafelin
+      class: n
+      field: Everyday expression
+      gloss: A floor; the surface walked on inside a room.
+      concept: floor
+    - form: steghelin
+      class: n
+      field: Everyday expression
+      gloss: A roof; the outer covering at the top of a building.
+      concept: roof
+    - form: eskharin
+      class: n
+      field: Everyday expression
+      gloss: A hearth; the place where a household fire burns.
+      concept: hearth
+    - form: thurin
+      class: n
+      field: Everyday expression
+      gloss: A door; the movable closure of an entrance, and the entrance itself.
+      concept: door
+    - form: kleithin
+      class: n
+      field: Everyday expression
+      gloss: A lock; a fastening opened with a key or another controlled release.
+      concept: lock
+    - form: kleithir
+      class: n
+      field: Everyday expression
+      gloss: A key used to open a lock.
+      concept: key
+    - form: thurin pir meltharin
+      class: n
+      field: Everyday expression
+      gloss: A window; an opening for seeing through, literally a door for looking.
+      concept: window
+    - form: thuraklin
+      class: n
+      field: Everyday expression
+      gloss: Shutters; the panels used to close a window.
+      concept: shutters
+    - form: kulithin
+      class: n
+      field: Everyday expression
+      gloss: A cup; a small drinking vessel.
+      concept: cup
+    - form: lekanir
+      class: n
+      field: Everyday expression
+      gloss: A bowl; an open, rounded vessel.
+      concept: bowl
+    - form: makheirin
+      class: n
+      field: Everyday expression
+      gloss: A knife; a short cutting blade.
+      concept: knife
+    - {form: koithin, class: n, field: Everyday expression, gloss: A spoon., concept: spoon}
+    - form: khitrin
+      class: n
+      field: Everyday expression
+      gloss: A pot; a vessel used for cooking or storage.
+      concept: pot
+    - form: lukhnir
+      class: n
+      field: Everyday expression
+      gloss: A lamp; a vessel or fitting that gives light.
+      concept: lamp
+    - form: hufasin
+      class: n
+      field: Everyday expression
+      gloss: Cloth; woven fabric.
+      concept: cloth
+    - form: endhin
+      class: n
+      field: Everyday expression
+      gloss: Clothing; a garment or garments worn on the body. Context gives the number.
+      concept: [clothes, garment]
+    - form: domethin
+      class: n
+      field: Everyday expression
+      gloss: A room within a building.
+      concept: room
+    - form: orofin
+      class: n
+      field: Everyday expression
+      gloss: A ceiling; the interior overhead covering of a room.
+      concept: ceiling
+    - form: makrir kathelin
+      class: n
+      field: Everyday expression
+      gloss: A bench; a long seat.
+      concept: bench
+    - form: stamnin
+      class: n
+      field: Everyday expression
+      gloss: A jar; a wide-mouthed storage vessel.
+      concept: jar
+    - form: laghelin
+      class: n
+      field: Everyday expression
+      gloss: A bottle; a narrow-necked vessel for liquids.
+      concept: bottle
+    - form: kalethin
+      class: n
+      field: Everyday expression
+      gloss: A basket woven from strips or rods.
+      concept: basket
+    - form: sakhelin
+      class: n
+      field: Everyday expression
+      gloss: A bag or sack for carrying things.
+      concept: bag
+    - form: sfurelin
+      class: n
+      field: Everyday expression
+      gloss: A hammer; a striking tool.
+      concept: hammer
+    - form: skoirin
+      class: n
+      field: Everyday expression
+      gloss: A rope; a thick line of twisted fibres.
+      concept: rope
+    - form: mikrir skoirin
+      class: n
+      field: Everyday expression
+      gloss: A cord; a small or thin rope.
+      concept: cord
+    - form: belonir
+      class: n
+      field: Everyday expression
+      gloss: A needle for sewing.
+      concept: needle
+    - form: floghir
+      class: n
+      field: Everyday expression
+      gloss: A flame; the luminous moving part of a fire.
+      concept: flame
+    - form: kafelin
+      class: n
+      field: Everyday expression
+      gloss: Smoke rising from something burning.
+      concept: smoke
+    - form: tefrin
+      class: n
+      field: Everyday expression
+      gloss: Ash; the powder left after burning.
+      concept: ash
+    - form: antherin
+      class: n
+      field: Everyday expression
+      gloss: Coal or a glowing coal; a lump of combustible black fuel or charred wood.
+      concept: coal
+    - form: dhelin
+      class: n
+      field: Everyday expression
+      gloss: A torch; a portable burning light on a handle.
+      concept: torch
+    - form: kerethin
+      class: n
+      field: Everyday expression
+      gloss: A candle; a wick in solid wax or fat.
+      concept: candle
+    - form: khitonir
+      class: n
+      field: Everyday expression
+      gloss: A shirt or tunic covering the upper body.
+      concept: shirt
+    - form: khalnir
+      class: n
+      field: Everyday expression
+      gloss: A cloak worn over other clothing.
+      concept: cloak
+    - form: zosthir
+      class: n
+      field: Everyday expression
+      gloss: A belt worn around the waist.
+      concept: belt
+    - {form: pedhilin, class: n, field: Everyday expression, gloss: A shoe., concept: shoe}
+    - form: hupsel pedhilin
+      class: n
+      field: Everyday expression
+      gloss: A boot; a high shoe covering the ankle or lower leg.
+      concept: boot
+    - form: empolin
+      class: n
+      field: Everyday expression
+      gloss: A barrier; something that blocks passage or progress.
+      concept: barrier
+    - form: hulithin
+      class: n
+      field: Everyday expression
+      gloss: Wood; the material of tree trunks and branches.
+      concept: wood
+    - form: lithorin
+      class: n
+      field: Everyday expression
+      gloss: A stone or rock; also stone as a material.
+      concept: [stone, rock]
+    - form: keramin
+      class: n
+      field: Everyday expression
+      gloss: Clay; fine earth that can be shaped and fired.
+      concept: clay
+    - form: skithin
+      class: n
+      field: Everyday expression
+      gloss: Leather; animal skin prepared as a durable material.
+      concept: leather
+    - form: erithin
+      class: n
+      field: Everyday expression
+      gloss: Wool; the fleece fibre of sheep and similar animals.
+      concept: wool
+    - form: nemathin
+      class: n
+      field: Everyday expression
+      gloss: Thread; a fine strand used in sewing or weaving.
+      concept: thread
+    - form: ghéranis pir auksarin
+      class: n
+      field: Everyday expression
+      gloss: Soil; earth in which plants grow.
+      concept: soil
+    - form: ammethin
+      class: n
+      field: Everyday expression
+      gloss: Sand; loose small grains of rock.
+      concept: sand
+    - form: ghéranis frun hidhir
+      class: n
+      field: Everyday expression
+      gloss: Mud; earth mixed with water.
+      concept: mud
+    - form: konethin
+      class: n
+      field: Everyday expression
+      gloss: Dust; fine dry particles.
+      concept: dust
+    - form: aulonin
+      class: n
+      field: Everyday expression
+      gloss: A valley; low land between hills or mountains.
+      concept: valley
+    - form: drumin
+      class: n
+      field: Everyday expression
+      gloss: A forest or wood; land densely covered by trees.
+      concept: forest
+    - form: aghelin
+      class: n
+      field: Everyday expression
+      gloss: A field; open land, especially land worked for crops.
+      concept: field
+    - form: spelin
+      class: n
+      field: Everyday expression
+      gloss: A cave; a natural chamber in earth or rock.
+      concept: cave
+    - form: mikrir fótamir
+      class: n
+      field: Everyday expression
+      gloss: A stream; a small river.
+      concept: stream
+    - form: limnethin
+      class: n
+      field: Everyday expression
+      gloss: A lake; inland standing water.
+      concept: lake
+    - form: ombrin
+      class: n
+      field: Everyday expression
+      gloss: Rain; water falling from clouds.
+      concept: rain
+    - form: khionir
+      class: n
+      field: Everyday expression
+      gloss: Snow; frozen flakes falling from the sky.
+      concept: snow
+    - form: paghelin
+      class: n
+      field: Everyday expression
+      gloss: Ice; frozen water.
+      concept: ice
+    - form: ouranir
+      class: n
+      field: Everyday expression
+      gloss: The sky above the earth.
+      concept: sky
+    - form: astrin
+      class: n
+      field: Everyday expression
+      gloss: A star in the night sky.
+      concept: star
+    - form: nefelin
+      class: n
+      field: Everyday expression
+      gloss: A cloud in the sky.
+      concept: cloud
+    - form: khemin
+      class: n
+      field: Everyday expression
+      gloss: A storm; violent weather with wind, rain or snow.
+      concept: storm
+      built: ["khem-", "-in"]
+    - form: bronthin
+      class: n
+      field: Everyday expression
+      gloss: Thunder; the rolling sound of a storm.
+      concept: thunder
+    - form: astrapin
+      class: n
+      field: Everyday expression
+      gloss: Lightning; a flash of electrical light in a storm.
+      concept: lightning
+    - form: futherin
+      class: n
+      field: Everyday expression
+      gloss: A plant; a living thing that grows rooted in one place.
+      concept: plant
+    - {form: dhendhir, class: n, field: Everyday expression, gloss: A tree., concept: tree}
+    - form: fullerin
+      class: n
+      field: Everyday expression
+      gloss: A leaf of a plant.
+      concept: leaf
+    - form: rhizin
+      class: n
+      field: Everyday expression
+      gloss: A root of a plant; also the source from which something grows.
+      concept: root
+    - form: kladherin
+      class: n
+      field: Everyday expression
+      gloss: A branch of a tree or plant.
+      concept: branch
+    - form: anthorin
+      class: n
+      field: Everyday expression
+      gloss: A flower or blossom.
+      concept: flower
+    - form: karfelin
+      class: n
+      field: Everyday expression
+      gloss: A fruit; the seed-bearing growth of a plant.
+      concept: fruit
+    - form: sperin
+      class: n
+      field: Everyday expression
+      gloss: A seed from which a plant can grow.
+      concept: seed
+    - form: klorin
+      class: n
+      field: Everyday expression
+      gloss: Grass; low narrow-leaved plants collectively.
+      concept: grass
+    - form: thernin
+      class: n
+      field: Everyday expression
+      gloss: An animal or beast; a living creature distinct from a plant or person in ordinary usage.
+      concept: [animal, beast]
+    - {form: ornethir, class: n, field: Everyday expression, gloss: A bird., concept: bird}
+    - {form: ikhthir, class: n, field: Everyday expression, gloss: A fish., concept: fish}
+    - form: entomir
+      class: n
+      field: Everyday expression
+      gloss: An insect; a small six-legged creature.
+      concept: insect
+    - form: skolethin
+      class: n
+      field: Everyday expression
+      gloss: A worm; a small soft elongated crawling animal.
+      concept: worm
+    - form: hughrir
+      class: adj
+      field: Everyday expression
+      gloss: Wet; carrying or soaked with liquid.
+      concept: wet
+    - form: kserir
+      class: adj
+      field: Everyday expression
+      gloss: Dry; lacking moisture.
+      concept: dry
+    - form: lamfelir
+      class: adj
+      field: Everyday expression
+      gloss: Bright; giving or reflecting much light.
+      concept: bright
+    - form: skothelir
+      class: adj
+      field: Everyday expression
+      gloss: Dark; lacking light.
+      concept: dark
+    - form: aithrelir
+      class: adj
+      field: Everyday expression
+      gloss: Clear, of weather; without clouds.
+      concept: clear-weather
+    - form: nefelir
+      class: adj
+      field: Everyday expression
+      gloss: Cloudy; covered or filled with clouds.
+      concept: cloudy
+    - form: borethin
+      class: n
+      field: Everyday expression
+      gloss: North; the northern direction.
+      concept: north
+    - form: nothein
+      class: n
+      field: Everyday expression
+      gloss: South; the southern direction.
+      concept: south
+    - form: eothin
+      class: n
+      field: Everyday expression
+      gloss: East; the direction of sunrise.
+      concept: east
+    - form: hesperin
+      class: n
+      field: Everyday expression
+      gloss: West; the direction of sunset.
+      concept: west
+    - {form: hepthor, class: num, field: Everyday expression, gloss: Seven., concept: seven}
+    - {form: okther, class: num, field: Everyday expression, gloss: Eight., concept: eight}
+    - {form: ennevir, class: num, field: Everyday expression, gloss: Nine., concept: nine}
+    - {form: dhakor, class: num, field: Everyday expression, gloss: Twenty., concept: twenty}
+    - {form: henthor, class: num, field: Everyday expression, gloss: A hundred., concept: hundred}
+    - form: khilmar
+      class: num
+      field: Everyday expression
+      gloss: A thousand.
+      concept: thousand
+    - form: in arithmas meun
+      class: adj
+      field: Everyday expression
+      gloss: First in ordinal position; literally in number one. Replace the final numeral for another ordinal position.
+      concept: first
+    - form: in arithmas drin
+      class: adj
+      field: Everyday expression
+      gloss: Second in ordinal position; in number two.
+      concept: second
+    - form: in arithmas trel
+      class: adj
+      field: Everyday expression
+      gloss: Third in ordinal position; in number three.
+      concept: third
+    - form: in arithmas vesmor
+      class: adj
+      field: Everyday expression
+      gloss: Fourth; the ordinal expression places in arithmas before any numeral. In arithmas plem is fifth; in arithmas zekhor is tenth.
+      concept: ordinal-construction
+    - form: hemethin
+      class: num
+      field: Everyday expression
+      gloss: A half; one of two equal parts.
+      concept: half
+    - form: vesmothin
+      class: num
+      field: Everyday expression
+      gloss: A quarter; one of four equal parts.
+      concept: quarter
+    - form: polir
+      class: num
+      field: Everyday expression
+      gloss: Many with countable things; much with a mass or quantity.
+      concept: [many, much]
+    - form: olighir
+      class: num
+      field: Everyday expression
+      gloss: Few with countable things; little with a mass or quantity.
+      concept: [few, little-quantity]
+    - form: medhin
+      class: num
+      field: Everyday expression
+      gloss: None; zero in counting. With a noun, no quantity of that thing.
+      concept: [none, zero]
+    - form: hikanir
+      class: num
+      field: Everyday expression
+      gloss: Enough; sufficient for the stated need.
+      concept: enough
+    - form: plethir
+      class: num
+      field: Everyday expression
+      gloss: More; a greater number or quantity.
+      concept: more
+    - form: meithir
+      class: num
+      field: Everyday expression
+      gloss: Less or fewer; a smaller quantity or number.
+      concept: less
+    - form: plethir eil er plum heter posethin
+      class: num
+      field: Everyday expression
+      gloss: Most; more than every other quantity in the comparison. Eil er supplies the explicit comparison, and plum heter posethin supplies all the other quantities.
+      concept: most
+    - form: meithir eil er plum heter posethin
+      class: num
+      field: Everyday expression
+      gloss: Least; less than every other quantity in the comparison. The comparison is to the other amounts under discussion.
+      concept: least
+    - form: isethir
+      class: adj
+      field: Everyday expression
+      gloss: Equal in amount, size or status.
+      concept: equal
+    - form: drin olasin
+      class: num
+      field: Everyday expression
+      gloss: Both; the entire two, considered together.
+      concept: both
+    - form: meun er drin
+      class: pron
+      field: Everyday expression
+      gloss: Either one of two alternatives; the context supplies the pair.
+      concept: either
+    - form: medhin er drin
+      class: pron
+      field: Everyday expression
+      gloss: Neither of two alternatives.
+      concept: neither
+    - form: perith zekhor
+      class: adv
+      field: Everyday expression
+      gloss: About ten; approximately ten. Replace zekhor with the quantity being approximated.
+      concept: about
+    - form: olighir tror zekhor
+      class: adv
+      field: Everyday expression
+      gloss: Almost ten; a little before ten on the stated quantity scale. Replace zekhor with another quantity. In this scalar expression tror keeps the image of standing before a point; it does not mark an earlier time.
+      concept: almost
+    - form: akreth
+      class: adv
+      field: Everyday expression
+      gloss: Exactly; with no difference from the stated measure or description.
+      concept: exactly
+    - form: posethin
+      class: n
+      field: Everyday expression
+      gloss: An amount or quantity.
+      concept: amount
+    - form: arithmarin
+      class: v
+      field: Everyday expression
+      gloss: To count; determine the number of things.
+      concept: count-verb
+    - form: melanir
+      class: adj
+      field: Everyday expression
+      gloss: Black in colour.
+      concept: black
+    - form: leukhelir
+      class: adj
+      field: Everyday expression
+      gloss: White in colour.
+      concept: white
+    - {form: eruthir, class: adj, field: Everyday expression, gloss: Red in colour., concept: red}
+    - form: klorir
+      class: adj
+      field: Everyday expression
+      gloss: Green in colour.
+      concept: green
+    - form: ksanther
+      class: adj
+      field: Everyday expression
+      gloss: Yellow in colour.
+      concept: yellow
+    - form: kuanir
+      class: adj
+      field: Everyday expression
+      gloss: Blue in colour, from pale to dark blue.
+      concept: blue
+    - form: polithir
+      class: adj
+      field: Everyday expression
+      gloss: Grey in colour.
+      concept: grey
+    - form: kasthelir
+      class: adj
+      field: Everyday expression
+      gloss: Brown in colour.
+      concept: brown
+    - form: okhrir
+      class: adj
+      field: Everyday expression
+      gloss: Pale or light in colour; having little saturation or dark pigment.
+      concept: [light-colour, pale]
+    - form: diaughir
+      class: adj
+      field: Everyday expression
+      gloss: Clear or transparent in appearance; allowing a view through it.
+      concept: [clear-appearance, transparent]
+    - form: uf diaughir
+      class: adj
+      field: Everyday expression
+      gloss: Opaque; not transparent to sight.
+      concept: opaque
+    - form: stilir
+      class: adj
+      field: Everyday expression
+      gloss: Shiny; reflecting light from the surface.
+      concept: shiny
+    - form: uf stilir
+      class: adj
+      field: Everyday expression
+      gloss: Dull in appearance; lacking surface shine.
+      concept: dull-appearance
+    - form: aplir
+      class: adj
+      field: Everyday expression
+      gloss: Plain; without a pattern or decoration.
+      concept: plain-pattern
+    - form: stighir
+      class: adj
+      field: Everyday expression
+      gloss: Spotted; marked with spots.
+      concept: spotted
+    - form: rhabhelir
+      class: adj
+      field: Everyday expression
+      gloss: Striped; marked with bands or stripes.
+      concept: striped
+    - form: mikrir
+      class: adj
+      field: Everyday expression
+      gloss: Small; of little size.
+      concept: small
+    - form: thar meghar
+      class: adj
+      field: Everyday expression
+      gloss: Huge; very large.
+      concept: huge
+    - form: makrir
+      class: adj
+      field: Everyday expression
+      gloss: Long in spatial extent; tall when measured upward, of a person or standing object.
+      concept: [long, tall]
+    - form: brakhelir
+      class: adj
+      field: Everyday expression
+      gloss: Short in spatial length or height.
+      concept: short
+    - form: hupsel
+      class: adj
+      field: Everyday expression
+      gloss: High; situated far above the ground or a reference level.
+      concept: high
+    - form: khamelir
+      class: adj
+      field: Everyday expression
+      gloss: Low; close to the ground or below a reference level.
+      concept: low
+    - form: plathelir
+      class: adj
+      field: Everyday expression
+      gloss: Wide; extended from side to side.
+      concept: wide
+    - form: stenelir
+      class: adj
+      field: Everyday expression
+      gloss: Narrow; having little width.
+      concept: narrow
+    - form: barethir
+      class: adj
+      field: Everyday expression
+      gloss: Heavy; having much weight.
+      concept: heavy
+    - form: elafer
+      class: adj
+      field: Everyday expression
+      gloss: Light in weight; easy to lift.
+      concept: light-weight
+    - form: takhir
+      class: adj
+      field: Everyday expression
+      gloss: Fast; moving or happening quickly.
+      concept: fast
+    - form: bradhelir
+      class: adj
+      field: Everyday expression
+      gloss: Slow; moving or happening with little speed.
+      concept: slow
+    - form: rhadhelir
+      class: adj
+      field: Everyday expression
+      gloss: Easy; requiring little effort.
+      concept: easy
+    - form: khalepir
+      class: adj
+      field: Everyday expression
+      gloss: Difficult; requiring much effort or skill.
+      concept: difficult
+    - form: khasir
+      class: adj
+      field: Everyday expression
+      gloss: Bad; harmful, poor or undesirable.
+      concept: bad
+    - form: belther
+      class: adj
+      field: Everyday expression
+      gloss: Better; of higher quality or more beneficial than the comparison.
+      concept: better
+    - form: kheirir
+      class: adj
+      field: Everyday expression
+      gloss: Worse; of lower quality or more harmful than the comparison.
+      concept: worse
+    - form: belther eil er plum heter praghin
+      class: adj
+      field: Everyday expression
+      gloss: Best; better than every other thing in the comparison. The things being compared supply the scope of plum.
+      concept: best
+    - form: kheirir eil er plum heter praghin
+      class: adj
+      field: Everyday expression
+      gloss: Worst; worse than every other thing in the comparison. The things being compared supply the scope of plum.
+      concept: worst
+    - form: semir
+      class: adj
+      field: Everyday expression
+      gloss: Important; carrying significance or consequences.
+      concept: important
+    - form: uf semir
+      class: adj
+      field: Everyday expression
+      gloss: Trivial; lacking importance.
+      concept: trivial
+    - form: anaghelir
+      class: adj
+      field: Everyday expression
+      gloss: Necessary or required; needed to achieve something or meet a binding demand. Context identifies practical need or obligation.
+      concept: [necessary, required]
+    - form: anaksir
+      class: adj
+      field: Everyday expression
+      gloss: Worthless; having no worth or value, rather than merely yielding no profit.
+      concept: worthless
+    - form: khresir
+      class: adj
+      field: Everyday expression
+      gloss: Useful; able to serve a purpose.
+      concept: useful
+    - form: uf khresir
+      class: adj
+      field: Everyday expression
+      gloss: Useless; unable to serve the relevant purpose.
+      concept: useless
+    - form: klasthir
+      class: adj
+      field: Everyday expression
+      gloss: Broken; damaged by breaking.
+      concept: broken
+    - form: uf olasin
+      class: adj
+      field: Everyday expression
+      gloss: Incomplete; not whole or finished.
+      concept: incomplete
+    - form: eithreir
+      class: adj
+      field: Everyday expression
+      gloss: Honest; sincere in speech and conduct.
+      concept: honest
+    - form: uf eithreir
+      class: adj
+      field: Everyday expression
+      gloss: Dishonest; lacking honesty in speech or conduct.
+      concept: dishonest
+    - form: thar
+      class: adv
+      field: Everyday expression
+      gloss: Very or intensely; before the quality or feeling being intensified.
+      concept: [very, extremely]
+    - form: maleth
+      class: adv
+      field: Everyday expression
+      gloss: Somewhat or slightly; to a limited degree.
+      concept: [somewhat, slightly]
+    - form: oligheth
+      class: adv
+      field: Everyday expression
+      gloss: Barely; only just reaching the stated degree or condition.
+      concept: barely
+    - form: huth hikanir
+      class: adv
+      field: Everyday expression
+      gloss: Too much; beyond the sufficient or fitting amount.
+      concept: too-much
+    - form: hupor hikanir
+      class: adv
+      field: Everyday expression
+      gloss: Too little; below the sufficient amount.
+      concept: too-little
+    - form: homelir
+      class: adj
+      field: Everyday expression
+      gloss: Similar; sharing relevant qualities.
+      concept: similar
+    - form: enanthelir
+      class: adj
+      field: Everyday expression
+      gloss: Opposite; contrary in direction, position or character.
+      concept: opposite
+    - form: thar mikrir
+      class: adj
+      field: Everyday expression
+      gloss: Tiny; very small.
+      concept: tiny
+    - form: ekhárin
+      class: v
+      field: Everyday expression
+      gloss: To have or hold; keep something in one's possession or grasp. The object and situation distinguish possession from bodily holding.
+      concept: [have, hold]
+    - form: dorasarin
+      class: v
+      field: Everyday expression
+      gloss: To give something to someone.
+      concept: give
+      built: ["doras-", "-arin"]
+    - form: pratharin
+      class: v
+      field: Everyday expression
+      gloss: To do or make; perform an action or create something, according to the object.
+      concept: [make, do, create]
+    - form: epistémarin
+      class: v
+      field: Everyday expression
+      gloss: To know something; have knowledge that can be communicated or taught.
+      concept: know
+      built: ["epistém-", "-arin"]
+    - form: oratharin
+      class: v
+      field: Everyday expression
+      gloss: To want or wish for something.
+      concept: [want, wish-verb]
+    - form: zelarin
+      class: v
+      field: Everyday expression
+      gloss: To live; be alive, or make one's home in a place.
+      concept: live
+    - form: thanearin
+      class: v
+      field: Everyday expression
+      gloss: To die; cease to be alive.
+      concept: die
+    - form: badhelin
+      class: v
+      field: Everyday expression
+      gloss: To walk on foot.
+      concept: walk
+    - form: drametharin
+      class: v
+      field: Everyday expression
+      gloss: To run; move quickly on foot.
+      concept: run
+    - form: kathelarin
+      class: v
+      field: Everyday expression
+      gloss: To sit or take a seat.
+      concept: sit
+    - form: statharin
+      class: v
+      field: Everyday expression
+      gloss: To stand upright.
+      concept: stand
+    - form: khelrin
+      class: v
+      field: Everyday expression
+      gloss: To lie down or be lying horizontally.
+      concept: lie-down
+    - form: thetharin
+      class: v
+      field: Everyday expression
+      gloss: To put or place something somewhere.
+      concept: put
+    - form: heurarin
+      class: v
+      field: Everyday expression
+      gloss: To find or discover something.
+      concept: find
+    - form: apolarin
+      class: v
+      field: Everyday expression
+      gloss: To lose someone or something; cease to have or find it.
+      concept: lose
+    - form: anoigharin
+      class: v
+      field: Everyday expression
+      gloss: To open something, or become open.
+      concept: open
+    - form: kleitharin
+      class: v
+      field: Everyday expression
+      gloss: To close or shut something.
+      concept: close
+    - form: pautharin
+      class: v
+      field: Everyday expression
+      gloss: To end, stop or cease an action or process, with or without an object.
+      concept: [end, stop]
+    - form: ésarin er
+      class: v
+      field: Everyday expression
+      gloss: To belong to someone; use ésarin er before the owner, as in heum ésarin er egh, this belongs to me.
+      concept: belong
+    - form: menetharin
+      class: v
+      field: Everyday expression
+      gloss: To remain or stay where or as one is.
+      concept: remain
+    - form: leiparin
+      class: v
+      field: Everyday expression
+      gloss: To leave a place, person or thing behind.
+      concept: leave
+    - form: hikarin
+      class: v
+      field: Everyday expression
+      gloss: To arrive at a destination.
+      concept: arrive
+    - form: herfelin
+      class: v
+      field: Everyday expression
+      gloss: To crawl close to the ground.
+      concept: crawl
+    - form: anabherin
+      class: v
+      field: Everyday expression
+      gloss: To climb upward or onto something.
+      concept: climb
+    - form: haletharin
+      class: v
+      field: Everyday expression
+      gloss: To jump or leap.
+      concept: jump
+    - form: piptharin
+      class: v
+      field: Everyday expression
+      gloss: To fall downward.
+      concept: fall
+    - form: eghelarin
+      class: v
+      field: Everyday expression
+      gloss: To rise or get up.
+      concept: rise
+    - form: érkharin esor
+      class: v
+      field: Everyday expression
+      gloss: To enter; go inward into a place. State the destination after esor when needed.
+      concept: enter
+    - form: érkharin ekor
+      class: v
+      field: Everyday expression
+      gloss: To exit; go outward from a place.
+      concept: exit
+    - form: nostharin
+      class: v
+      field: Everyday expression
+      gloss: To return; go or come back.
+      concept: return
+    - form: akolarin
+      class: v
+      field: Everyday expression
+      gloss: To follow behind someone or pursue a course.
+      concept: follow
+    - form: kinetharin
+      class: v
+      field: Everyday expression
+      gloss: To move, or cause something to change place.
+      concept: move
+    - form: othelarin
+      class: v
+      field: Everyday expression
+      gloss: To push away by pressure.
+      concept: push
+    - form: helkarin
+      class: v
+      field: Everyday expression
+      gloss: To pull toward oneself by force.
+      concept: pull
+    - form: airatharin
+      class: v
+      field: Everyday expression
+      gloss: To lift or raise something.
+      concept: lift
+    - form: afelarin
+      class: v
+      field: Everyday expression
+      gloss: To drop or let something fall.
+      concept: drop
+    - form: rhiptharin
+      class: v
+      field: Everyday expression
+      gloss: To throw or cast something through the air.
+      concept: throw
+    - form: domarin
+      class: v
+      field: Everyday expression
+      gloss: To build a structure.
+      concept: build
+    - form: klastharin
+      class: v
+      field: Everyday expression
+      gloss: To break something, or come apart through breaking.
+      concept: break
+    - form: lumararin
+      class: v
+      field: Everyday expression
+      gloss: To destroy; ruin something so it cannot serve its purpose.
+      concept: destroy
+    - form: skeuarin
+      class: v
+      field: Everyday expression
+      gloss: To repair; restore a damaged or faulty made thing to working condition.
+      concept: repair
+    - form: allatharin
+      class: v
+      field: Everyday expression
+      gloss: To change or alter; become or make different.
+      concept: change-verb
+    - form: rhéthasin pir
+      class: v
+      field: Everyday expression
+      gloss: To tell someone; place the recipient after pir, as in egh rhéthasin pir thu, I tell you.
+      concept: tell
+    - form: erotharin
+      class: v
+      field: Everyday expression
+      gloss: To ask a question or request something.
+      concept: ask
+    - form: ameitharin
+      class: v
+      field: Everyday expression
+      gloss: To answer a question, request or call.
+      concept: answer
+    - form: kaleitharin
+      class: v
+      field: Everyday expression
+      gloss: To call to someone or summon them.
+      concept: call
+    - form: thareth rhéthasin
+      class: v
+      field: Everyday expression
+      gloss: To shout; speak loudly.
+      concept: shout
+    - form: sigheth rhéthasin
+      class: v
+      field: Everyday expression
+      gloss: To whisper; speak in a hushed voice.
+      concept: whisper
+    - form: lefarin
+      class: v
+      field: Everyday expression
+      gloss: To explain; make an account or meaning clear.
+      concept: explain
+    - form: ónomarin
+      class: v
+      field: Everyday expression
+      gloss: To name; give someone or something a name, or identify them by name.
+      concept: name-verb
+    - form: pestharin
+      class: v
+      field: Everyday expression
+      gloss: To believe; accept a statement or idea as true.
+      concept: believe
+    - form: sunetharin
+      class: v
+      field: Everyday expression
+      gloss: To understand a meaning, reason or situation.
+      concept: understand
+    - form: nemorarin
+      class: v
+      field: Everyday expression
+      gloss: To remember; retain or bring something to mind.
+      concept: remember
+    - form: letharin
+      class: v
+      field: Everyday expression
+      gloss: To forget; lose something from memory.
+      concept: forget
+    - form: mathelarin
+      class: v
+      field: Everyday expression
+      gloss: To learn; acquire knowledge or skill.
+      concept: learn
+    - form: kritharin
+      class: v
+      field: Everyday expression
+      gloss: To decide; reach a choice or judgment.
+      concept: decide
+    - form: fanthelin
+      class: v
+      field: Everyday expression
+      gloss: To imagine; form a mental picture or possibility.
+      concept: imagine
+    - form: deetharin
+      class: v
+      field: Everyday expression
+      gloss: To need; require something for a purpose or well-being.
+      concept: need-verb
+    - form: elmirarin
+      class: v
+      field: Everyday expression
+      gloss: To hope for a desired outcome.
+      concept: hope-verb
+    - form: bouletharin
+      class: v
+      field: Everyday expression
+      gloss: To intend; have an action or outcome as one's aim.
+      concept: intend
+    - form: hairelarin
+      class: v
+      field: Everyday expression
+      gloss: To choose or select among alternatives.
+      concept: choose
+    - form: hairelarin malth
+      class: v
+      field: Everyday expression
+      gloss: To prefer; choose more readily than the alternative, which context supplies.
+      concept: prefer
+    - form: peirarin
+      class: v
+      field: Everyday expression
+      gloss: To try or attempt an action.
+      concept: try
+    - form: zethelarin
+      class: v
+      field: Everyday expression
+      gloss: To search; actively seek someone or something.
+      concept: search
+    - form: sumetharin
+      class: v
+      field: Everyday expression
+      gloss: To meet or encounter someone.
+      concept: meet
+    - form: ofelin
+      class: v
+      field: Everyday expression
+      gloss: To help or assist someone in a task or need.
+      concept: help
+    - form: nemetharin
+      class: v
+      field: Everyday expression
+      gloss: To share or distribute something among people.
+      concept: share
+    - form: emforarin
+      class: v
+      field: Everyday expression
+      gloss: To trade; exchange goods or services.
+      concept: trade
+    - form: agorarin
+      class: v
+      field: Everyday expression
+      gloss: To buy; acquire something in exchange for payment.
+      concept: buy
+    - form: polarin
+      class: v
+      field: Everyday expression
+      gloss: To sell; give something in exchange for payment.
+      concept: sell
+    - form: hupeskharin
+      class: v
+      field: Everyday expression
+      gloss: To promise; commit oneself in speech to a future act or outcome.
+      concept: promise-verb
+    - form: dorasirarin
+      class: v
+      field: Everyday expression
+      gloss: To thank; express gratitude for a benefit.
+      concept: thank-verb
+    - form: lusarin
+      class: v
+      field: Everyday expression
+      gloss: To forgive someone; release blame or resentment.
+      concept: forgive-verb
+    - form: arneitharin
+      class: v
+      field: Everyday expression
+      gloss: To refuse a request, offer or proposed act.
+      concept: refuse-verb
+    - form: harmodharin
+      class: v
+      field: Everyday expression
+      gloss: To agree with a person or proposition.
+      concept: agree-verb
+    - form: makhetharin
+      class: v
+      field: Everyday expression
+      gloss: To fight; engage in a violent struggle.
+      concept: fight
+    - form: tufarin
+      class: v
+      field: Everyday expression
+      gloss: To hit or strike something.
+      concept: hit
+    - form: kenarin
+      class: v
+      field: Everyday expression
+      gloss: To kill; cause the death of a living being.
+      concept: kill
+    - form: prosbalin
+      class: v
+      field: Everyday expression
+      gloss: To attack; initiate violence against someone or something.
+      concept: attack
+    - form: feugarin
+      class: v
+      field: Everyday expression
+      gloss: To flee; escape from danger or pursuit.
+      concept: flee
+    - form: apeilarin
+      class: v
+      field: Everyday expression
+      gloss: To threaten; indicate an intention to cause harm.
+      concept: threaten
+    - form: sunekharin
+      class: v
+      field: Everyday expression
+      gloss: To continue or carry on an action or process.
+      concept: continue
+    - form: menarin
+      class: v
+      field: Everyday expression
+      gloss: To wait; remain in expectation of something.
+      concept: wait
+    - form: tukharin
+      class: v
+      field: Everyday expression
+      gloss: To happen or occur.
+      concept: happen
+    - form: gonetharin
+      class: v
+      field: Everyday expression
+      gloss: To kneel; rest on one or both knees.
+      concept: kneel
+    - form: kamparin
+      class: v
+      field: Everyday expression
+      gloss: To bend or curve something, or bend one's body.
+      concept: bend
+    - form: klinorarin
+      class: v
+      field: Everyday expression
+      gloss: To lean; incline the body or an object toward a support.
+      concept: lean
+    - form: kalufarin
+      class: v
+      field: Everyday expression
+      gloss: To cover something with a layer or covering.
+      concept: cover-verb
+    - form: delarin
+      class: v
+      field: Everyday expression
+      gloss: To uncover or reveal; remove a covering or make something known.
+      concept: [uncover, reveal]
+    - form: krufarin
+      class: v
+      field: Everyday expression
+      gloss: To hide; put or remain out of sight or knowledge.
+      concept: hide
+    - form: kleitharin frun kleithin
+      class: v
+      field: Everyday expression
+      gloss: To lock; close with a lock.
+      concept: lock-verb
+    - form: anoigharin kleithin
+      class: v
+      field: Everyday expression
+      gloss: To unlock; open a lock.
+      concept: unlock
+    - form: féranin heum prou thu
+      class: v
+      field: Everyday expression
+      gloss: To bring this to you; literally carry this to you, with the addressee as the destination. Replace heum with the thing and thu with its recipient.
+      concept: bring
+    - form: enith
+      class: adv
+      field: Everyday expression
+      gloss: Here; at the speaker's location.
+      concept: here
+    - form: eketh
+      class: adv
+      field: Everyday expression
+      gloss: There; at a location away from the speaker.
+      concept: there
+    - form: fom tofelin
+      class: adv
+      field: Everyday expression
+      gloss: Somewhere; at an unspecified place. This fixed location expression uses fom with the place noun.
+      concept: somewhere
+    - form: medhin tofelin
+      class: adv
+      field: Everyday expression
+      gloss: Nowhere; at no place.
+      concept: nowhere
+    - form: plum tofelin
+      class: adv
+      field: Everyday expression
+      gloss: Everywhere; at every place.
+      concept: everywhere
+    - form: enghir
+      class: adj
+      field: Everyday expression
+      gloss: Near; at a short distance.
+      concept: near
+    - form: telir
+      class: adj
+      field: Everyday expression
+      gloss: Far; at a great distance.
+      concept: far
+    - form: metheir
+      class: part
+      field: Everyday expression
+      gloss: Between; before the two sides or limits being related.
+      concept: between
+    - form: enmes
+      class: part
+      field: Everyday expression
+      gloss: Among; within a group or collection.
+      concept: among
+    - form: huth
+      class: part
+      field: Everyday expression
+      gloss: Above or over; higher than the following reference point, also beyond a stated limit.
+      concept: [above, over]
+    - form: hupor
+      class: part
+      field: Everyday expression
+      gloss: Below or under; lower than the following reference point, also below a stated limit.
+      concept: [below, under]
+    - form: ekor
+      class: adv
+      field: Everyday expression
+      gloss: [Outside or outward; beyond the interior of a place., Outward; toward the outside.]
+      concept: outside
+    - form: perol
+      class: part
+      field: Everyday expression
+      gloss: Beyond; farther than the following boundary or reference point.
+      concept: beyond
+    - form: opith
+      class: part
+      field: Everyday expression
+      gloss: Behind; at the back of the following person or thing.
+      concept: behind
+    - form: arister
+      class: n
+      field: Everyday expression
+      gloss: Left; the left-hand direction.
+      concept: left-direction
+    - form: deksir
+      class: n
+      field: Everyday expression
+      gloss: Right; the right-hand direction.
+      concept: right-direction
+    - form: mesethin
+      class: n
+      field: Everyday expression
+      gloss: The center or middle of something.
+      concept: center
+    - form: aneth
+      class: adv
+      field: Everyday expression
+      gloss: Up; toward a higher position.
+      concept: up
+    - form: kateth
+      class: adv
+      field: Everyday expression
+      gloss: Down; toward a lower position.
+      concept: down
+    - form: prosthe
+      class: adv
+      field: Everyday expression
+      gloss: Forward; toward the front.
+      concept: forward
+    - form: opisthe
+      class: adv
+      field: Everyday expression
+      gloss: Backward; toward the back.
+      concept: backward
+    - form: prou
+      class: part
+      field: Everyday expression
+      gloss: Toward or to; before a destination or recipient, including a destination approached without being reached.
+      concept: [toward, to]
+    - form: apeth
+      class: adv
+      field: Everyday expression
+      gloss: Away; in a direction increasing distance from a reference point.
+      concept: away
+    - form: dian
+      class: part
+      field: Everyday expression
+      gloss: Across; from one side to the other of the following place or surface.
+      concept: across
+    - form: perith
+      class: part
+      field: Everyday expression
+      gloss: Around; surrounding or passing about the following reference point.
+      concept: around
+    - form: epir
+      class: part
+      field: Everyday expression
+      gloss: On; in contact with and supported by the following surface.
+      concept: on
+    - form: enth
+      class: part
+      field: Everyday expression
+      gloss: At; before a location or point of reference.
+      concept: at
+    - form: afor
+      class: part
+      field: Everyday expression
+      gloss: From; before a source, origin or starting point.
+      concept: from
+    - form: tofelin
+      class: n
+      field: Everyday expression
+      gloss: A place or location.
+      concept: place-noun
+    - form: theselin
+      class: n
+      field: Everyday expression
+      gloss: A position; the place or arrangement occupied by something.
+      concept: position
+    - form: trofelin
+      class: n
+      field: Everyday expression
+      gloss: A direction; the course toward a destination.
+      concept: direction
+    - form: diasthelin
+      class: n
+      field: Everyday expression
+      gloss: Distance; the extent between places or things.
+      concept: distance
+    - form: khronin
+      class: n
+      field: Everyday expression
+      gloss: Time; the course or duration of events.
+      concept: time
+    - form: stighmin
+      class: n
+      field: Everyday expression
+      gloss: A moment; a very short interval or a particular point in time.
+      concept: moment
+    - form: hemerin
+      class: n
+      field: Everyday expression
+      gloss: A day, from dawn to night or as a full day-and-night cycle according to context.
+      concept: day
+    - form: orthrin
+      class: n
+      field: Everyday expression
+      gloss: Morning; the early part of the day.
+      concept: morning
+    - form: mesin er hemerin
+      class: n
+      field: Everyday expression
+      gloss: Noon; the middle of the daylight period. Mesin is the temporal middle.
+      concept: noon
+    - form: hesperin er hemerin
+      class: n
+      field: Everyday expression
+      gloss: Evening; the day's western or sunset part, in this conventional time expression.
+      concept: evening
+    - form: mesin er nikhtir
+      class: n
+      field: Everyday expression
+      gloss: Midnight; the middle of the night.
+      concept: midnight
+    - form: nuneth
+      class: adv
+      field: Everyday expression
+      gloss: Now; at the present time. As a time reference it denotes the present, rather than past or future.
+      concept: [now, present]
+    - form: tothel
+      class: adv
+      field: Everyday expression
+      gloss: Then; at the time supplied by the story or conversation.
+      concept: then
+    - form: heum hemerin
+      class: adv
+      field: Everyday expression
+      gloss: Today; this day, used as a time expression.
+      concept: today
+    - form: then
+      class: adv
+      field: Everyday expression
+      gloss: Yesterday; on the day before today.
+      concept: yesterday
+    - form: aurith
+      class: adv
+      field: Everyday expression
+      gloss: Tomorrow; on the day after today.
+      concept: tomorrow
+    - form: parethin
+      class: n
+      field: Everyday expression
+      gloss: The past; time before the present.
+      concept: past
+    - form: mellin
+      class: n
+      field: Everyday expression
+      gloss: The future; time after the present.
+      concept: future
+    - form: prineth
+      class: part
+      field: Everyday expression
+      gloss: Before; earlier than the following time or event.
+      concept: before-time
+    - form: huster
+      class: part
+      field: Everyday expression
+      gloss: After; later than the following time or event.
+      concept: after
+    - form: in khronin er
+      class: part
+      field: Everyday expression
+      gloss: During; in the time of the following event, as in in khronin er ombrin, during the rain.
+      concept: during
+    - form: hoseth
+      class: conj
+      field: Everyday expression
+      gloss: While; joins events occurring during the same interval.
+      concept: while
+    - form: mekhir
+      class: part
+      field: Everyday expression
+      gloss: Until; up to the following time or event.
+      concept: until
+    - form: afor khronin er ombrin
+      class: part
+      field: Everyday expression
+      gloss: Since the rain; from the time of the rain onward. Replace ombrin with the event that gives the starting time.
+      concept: since-time
+    - form: aeith
+      class: adv
+      field: Everyday expression
+      gloss: Always; on every occasion or throughout the relevant time.
+      concept: always
+    - form: pollath
+      class: adv
+      field: Everyday expression
+      gloss: Often; on many occasions.
+      concept: often
+    - form: fom khronin
+      class: adv
+      field: Everyday expression
+      gloss: Sometimes; on some occasions, in this conventional time expression.
+      concept: sometimes
+    - form: olighath
+      class: adv
+      field: Everyday expression
+      gloss: Rarely; on few occasions.
+      concept: rarely
+    - form: medhin khronin
+      class: adv
+      field: Everyday expression
+      gloss: Never; at no time, in this conventional time expression.
+      concept: never
+    - form: makrir er khronin
+      class: adj
+      field: Everyday expression
+      gloss: Long-lasting; extending through much time, rather than having great spatial length.
+      concept: [long-duration, lasting-duration]
+    - form: brakhelir er khronin
+      class: adj
+      field: Everyday expression
+      gloss: Brief or short in duration.
+      concept: [short-duration, brief-duration]
+    - form: paleth
+      class: adv
+      field: Everyday expression
+      gloss: Again; another time.
+      concept: again
+    - form: meun horath
+      class: adv
+      field: Everyday expression
+      gloss: Once; on one occasion.
+      concept: once
+    - form: drin horath
+      class: adv
+      field: Everyday expression
+      gloss: Twice; on two occasions.
+      concept: twice
+    - form: polir horath
+      class: adv
+      field: Everyday expression
+      gloss: Repeatedly; on many occasions.
+      concept: repeatedly
+    - form: edheth
+      class: adv
+      field: Everyday expression
+      gloss: Already; by the relevant time, earlier than may be expected.
+      concept: already
+    - form: ethel
+      class: adv
+      field: Everyday expression
+      gloss: Still; continuing at the relevant time.
+      concept: still
+    - form: meil
+      class: adv
+      field: Everyday expression
+      gloss: Yet; by the relevant time, in a question or with a negative statement.
+      concept: yet
+    - form: takhin
+      class: adv
+      field: Everyday expression
+      gloss: Soon; after a short interval.
+      concept: soon
+    - form: hustereth
+      class: adv
+      field: Everyday expression
+      gloss: Later; at a time after the reference time.
+      concept: later
+    - form: proimeth
+      class: adv
+      field: Everyday expression
+      gloss: Early; before the usual or expected time.
+      concept: early
+    - form: opseir
+      class: adv
+      field: Everyday expression
+      gloss: Late; after the usual or expected time.
+      concept: late
+    - form: prineth plum
+      class: adv
+      field: Everyday expression
+      gloss: First in a sequence; before all the other relevant events.
+      concept: first-sequence
+    - form: efeth
+      class: adv
+      field: Everyday expression
+      gloss: Next; immediately after the current place in a sequence.
+      concept: next
+    - form: telesth
+      class: adv
+      field: Everyday expression
+      gloss: Last or finally; after all other relevant events, or at the final stage.
+      concept: [last, finally]
+    - form: horathin
+      class: n
+      field: Everyday expression
+      gloss: A season; a recurring part of the year marked by weather or activity.
+      concept: season
+    - {form: eniauthin, class: n, field: Everyday expression, gloss: A year., concept: year}
+    - {form: menethin, class: n, field: Everyday expression, gloss: A month., concept: month}
+    - form: eothira
+      class: n
+      field: Everyday expression
+      gloss: Dawn; the coming of daylight.
+      concept: dawn
+    - form: hespethin
+      class: n
+      field: Everyday expression
+      gloss: Dusk; the fading of daylight.
+      concept: dusk
+    - form: er egh
+      class: part
+      field: Everyday expression
+      gloss: My or mine; of me. Place after the possessed noun, as in domin er egh, my house.
+      concept: my
+    - form: er thu
+      class: part
+      field: Everyday expression
+      gloss: Your or yours; of you. Place after the possessed noun.
+      concept: your
+    - form: heir
+      class: pron
+      field: Everyday expression
+      gloss: He; a male person already identified in context.
+      concept: he
+    - form: heira
+      class: pron
+      field: Everyday expression
+      gloss: She; a female person already identified in context.
+      concept: she
+    - form: hein
+      class: pron
+      field: Everyday expression
+      gloss: It; a thing or being referred to without personal gender.
+      concept: it
+    - form: helin
+      class: pron
+      field: Everyday expression
+      gloss: They; people or things already identified in context.
+      concept: they
+    - form: herin
+      class: pron
+      field: Everyday expression
+      gloss: We or us; the speaker with others.
+      concept: we
+    - form: er herin
+      class: part
+      field: Everyday expression
+      gloss: Our or ours; of us. Place after the possessed noun.
+      concept: our
+    - form: heumir
+      class: dem
+      field: Everyday expression
+      gloss: These; things or people near the speaker, in a plural reference.
+      concept: these
+    - form: heunir
+      class: dem
+      field: Everyday expression
+      gloss: Those; things or people distant or already referred to, in a plural reference.
+      concept: those
+    - form: fom ánthimor
+      class: pron
+      field: Everyday expression
+      gloss: Someone; an unspecified person.
+      concept: someone
+    - form: hosthir
+      class: pron
+      field: Everyday expression
+      gloss: Anyone; any person, without a specific choice. In questions and negative clauses it keeps this unrestricted sense.
+      concept: anyone
+    - form: plum ánthimor
+      class: pron
+      field: Everyday expression
+      gloss: Everyone; every person in the relevant scope.
+      concept: everyone
+    - form: medhin ánthimor
+      class: pron
+      field: Everyday expression
+      gloss: No one; no person.
+      concept: no-one
+    - form: fom praghin
+      class: pron
+      field: Everyday expression
+      gloss: Something; an unspecified thing.
+      concept: something
+    - form: hosthin
+      class: pron
+      field: Everyday expression
+      gloss: Anything; any thing, without a specific choice.
+      concept: anything
+    - form: plum praghin
+      class: pron
+      field: Everyday expression
+      gloss: Everything; every thing in the relevant scope.
+      concept: everything
+    - form: authel
+      class: pron
+      field: Everyday expression
+      gloss: Self or oneself; refers back to the subject of the same clause.
+      concept: self
+    - form: heter
+      class: adj
+      field: Everyday expression
+      gloss: Other; distinct from the one already named.
+      concept: other
+    - form: fom heter
+      class: pron
+      field: Everyday expression
+      gloss: Another; one further or different person or thing, with its identity supplied by context.
+      concept: another
+    - form: hometh
+      class: adj
+      field: Everyday expression
+      gloss: The same; identical with the reference person or thing.
+      concept: same
+    - form: heterir
+      class: adj
+      field: Everyday expression
+      gloss: Different; distinct in identity or relevant character.
+      concept: different
+    - form: thir
+      class: pron
+      field: Everyday expression
+      gloss: Who? A question asking for a person's identity.
+      concept: question-who
+    - form: thin
+      class: pron
+      field: Everyday expression
+      gloss: What? A question asking for a thing, act or meaning.
+      concept: question-what
+    - form: pothel
+      class: pron
+      field: Everyday expression
+      gloss: Which? A question selecting from a known set.
+      concept: question-which
+    - form: poith
+      class: adv
+      field: Everyday expression
+      gloss: Where? A question asking for a location.
+      concept: question-where
+    - form: potheth
+      class: adv
+      field: Everyday expression
+      gloss: When? A question asking for a time.
+      concept: question-when
+    - form: diath
+      class: adv
+      field: Everyday expression
+      gloss: Why? A question asking for a cause or reason.
+      concept: question-why
+    - form: poseth
+      class: adv
+      field: Everyday expression
+      gloss: How? A question asking for manner or means.
+      concept: question-how
+    - form: thin posethin
+      class: num
+      field: Everyday expression
+      gloss: What quantity? How many with a counted thing, or how much with a measured amount. Thu meltharin thin posethin er anthmerin asks how many people you see; thu ekhárin thin posethin er hidhir asks how much water you have. Thin qualifies posethin, and er names what is counted or measured.
+      concept: [question-how-many, question-how-much]
+    - form: er thir
+      class: part
+      field: Everyday expression
+      gloss: Whose? Of whom; after the possessed noun, as in domin er thir, whose house?
+      concept: question-whose
+    - form: prou thir
+      class: part
+      field: Everyday expression
+      gloss: To whom? Before or after an act of transfer or address, asks its recipient.
+      concept: question-to-whom
+    - form: afor poith
+      class: adv
+      field: Everyday expression
+      gloss: From where? A question asking for a starting place or source.
+      concept: question-from-where
+    - form: pir thin
+      class: part
+      field: Everyday expression
+      gloss: For what purpose? Literally for what; asks the aim of the act in context.
+      concept: question-for-what-purpose
+    - form: rheth
+      class: part
+      field: Everyday expression
+      gloss: "A yes-or-no question marker placed before the ordinary statement: rheth thu ésarin enith, are you here?"
+      concept: question-polar
+    - form: thu rhéthasin thin
+      class: call
+      field: Everyday expression
+      gloss: What do you say? A request for clarification of what the addressee has said.
+      concept: question-clarification
+    - form: nair
+      class: part
+      field: Everyday expression
+      gloss: Yes; affirms an answer or statement.
+      concept: yes
+    - form: noir
+      class: part
+      field: Everyday expression
+      gloss: No; denies an answer or rejects a proposal.
+      concept: no
+    - form: alethir
+      class: adj
+      field: Everyday expression
+      gloss: True; corresponding to what is actually the case, whether or not anyone feels certain of it.
+      concept: "true"
+    - form: pseudhel
+      class: adj
+      field: Everyday expression
+      gloss: False; not corresponding to what is actually the case.
+      concept: "false"
+    - form: alethira
+      class: n
+      field: Everyday expression
+      gloss: Truth; what is actually the case, independent of confidence or belief.
+      concept: truth
+    - form: pseudhin er apathin
+      class: n
+      field: Everyday expression
+      gloss: A lie; a false statement made for deception. Er apathin supplies the intention to deceive.
+      concept: lie-noun
+    - form: pseudhin
+      class: n
+      field: Everyday expression
+      gloss: A falsehood or false claim; whether deliberately deceptive or merely mistaken.
+      concept: falsehood
+    - form: alethreth
+      class: adv
+      field: Everyday expression
+      gloss: Truly or sincerely; asserts that the speaker means what is said or that it is real.
+      concept: sincerity
+    - form: thoir nair
+      class: part
+      field: Everyday expression
+      gloss: Indeed; emphatic yes, with the inherited focus particle strengthening affirmation.
+      concept: indeed
+    - form: befeireth
+      class: adv
+      field: Everyday expression
+      gloss: Certainly; with no doubt in the speaker's judgment, without guaranteeing truth.
+      concept: certainly
+    - form: takhon
+      class: adv
+      field: Everyday expression
+      gloss: Perhaps; marks a possibility without commitment to its occurrence.
+      concept: perhaps
+    - form: eikhotheth
+      class: adv
+      field: Everyday expression
+      gloss: Probably; the speaker judges the event more likely than not.
+      concept: probably
+    - form: uf eikhotir
+      class: adj
+      field: Everyday expression
+      gloss: Unlikely; not reasonably expected to occur.
+      concept: unlikely
+    - form: befeir
+      class: adj
+      field: Everyday expression
+      gloss: Certain; free of doubt or hesitation in belief.
+      concept: certain
+    - form: uf befeir
+      class: adj
+      field: Everyday expression
+      gloss: Uncertain; not free of doubt.
+      concept: uncertain
+    - form: meltheth
+      class: adv
+      field: Everyday expression
+      gloss: Apparently; according to appearances, without asserting confirmation.
+      concept: apparently
+    - form: rhethatheth
+      class: adv
+      field: Everyday expression
+      gloss: Supposedly; according to what is said, without endorsing the report.
+      concept: supposedly
+    - form: in alethira
+      class: adv
+      field: Everyday expression
+      gloss: In fact or actually; in what is true, as against an appearance or supposition.
+      concept: in-fact
+    - form: skefarin
+      class: v
+      field: Everyday expression
+      gloss: To doubt a person, assertion or outcome.
+      concept: doubt-verb
+    - form: hupetharin
+      class: v
+      field: Everyday expression
+      gloss: To suspect; regard as possibly true without adequate confirmation.
+      concept: suspect
+    - form: eikharin
+      class: v
+      field: Everyday expression
+      gloss: To guess; propose an answer without sufficient knowledge.
+      concept: guess-verb
+    - form: hupotharin
+      class: v
+      field: Everyday expression
+      gloss: To assume; take something as a starting supposition without proving it.
+      concept: assume-verb
+    - form: orthelir
+      class: adj
+      field: Everyday expression
+      gloss: Correct; conforming to the relevant facts, rule or intended answer.
+      concept: correct
+    - form: uf orthelir
+      class: adj
+      field: Everyday expression
+      gloss: Incorrect; failing to conform to the relevant facts, rule or answer.
+      concept: incorrect
+    - form: uf harmodharin
+      class: v
+      field: Everyday expression
+      gloss: To disagree; not agree with the stated person or proposition.
+      concept: disagree
+    - form: eil
+      class: conj
+      field: Everyday expression
+      gloss: Or; introduces an alternative.
+      concept: or
+    - form: almon
+      class: conj
+      field: Everyday expression
+      gloss: But or however; introduces a contrasting clause or statement.
+      concept: [but, however]
+    - form: koum uf
+      class: conj
+      field: Everyday expression
+      gloss: Nor; and not, continuing a preceding negative clause.
+      concept: nor
+    - form: dheir
+      class: conj
+      field: Everyday expression
+      gloss: Because; introduces the reason or cause of the preceding statement.
+      concept: because
+    - form: der
+      class: conj
+      field: Everyday expression
+      gloss: Therefore; introduces a consequence or conclusion.
+      concept: therefore
+    - form: eith
+      class: conj
+      field: Everyday expression
+      gloss: If; introduces the condition under which the following consequence holds.
+      concept: if
+    - form: totheir
+      class: conj
+      field: Everyday expression
+      gloss: Then; introduces the consequence of a preceding if-clause.
+      concept: then-conditional
+    - form: eith uf
+      class: conj
+      field: Everyday expression
+      gloss: Unless; if not, before the condition that would prevent the stated outcome.
+      concept: unless
+    - form: hetereth
+      class: adv
+      field: Everyday expression
+      gloss: Otherwise; under the alternative condition, or in another manner as context requires.
+      concept: otherwise
+    - form: kaither
+      class: conj
+      field: Everyday expression
+      gloss: Although; introduces a fact despite which the main statement holds.
+      concept: although
+    - form: hometh nair
+      class: conj
+      field: Everyday expression
+      gloss: Nevertheless; even so, affirms the main statement despite the preceding objection. This is a fixed discourse expression.
+      concept: nevertheless
+    - form: aneuth
+      class: part
+      field: Everyday expression
+      gloss: Despite; before a fact or circumstance that does not prevent the stated outcome.
+      concept: despite
+    - form: antheth
+      class: adv
+      field: Everyday expression
+      gloss: Instead; in place of the alternative supplied by context.
+      concept: instead
+    - form: pir
+      class: part
+      field: Everyday expression
+      gloss: For; marks the recipient, beneficiary or purpose of an act or feeling.
+      concept: for-purpose
+    - form: hoth
+      class: part
+      field: Everyday expression
+      gloss: Like or as; before a comparison, manner or role.
+      concept: [like, as]
+    - form: uf hoth
+      class: part
+      field: Everyday expression
+      gloss: Unlike; not like the following comparison.
+      concept: unlike
+    - form: eil er
+      class: part
+      field: Everyday expression
+      gloss: Than; introduces the comparison after a comparative word, as in belther eil er heum, better than this.
+      concept: than
+    - form: eil meun
+      class: conj
+      field: Everyday expression
+      gloss: Either; introduces the first of two alternatives, followed by eil before the second.
+      concept: either-alternative
+    - form: uf meun
+      class: conj
+      field: Everyday expression
+      gloss: Neither; introduces the first rejected alternative, followed by koum uf before the second.
+      concept: neither-alternative
+    - form: koum drin
+      class: conj
+      field: Everyday expression
+      gloss: Both; introduces two jointly included alternatives, joined by koum.
+      concept: both-conjunction
+    - form: rheth eil
+      class: conj
+      field: Everyday expression
+      gloss: Whether; introduces an unresolved alternative or an indirect yes-or-no question.
+      concept: whether
+    - form: heum ésarin
+      class: part
+      field: Everyday expression
+      gloss: That is or namely; introduces a restatement or the exact item meant, literally this is.
+      concept: [that-is, namely]
+    - form: pir deighmin
+      class: part
+      field: Everyday expression
+      gloss: For example; introduces an illustrative instance.
+      concept: for-example
+    - form: plor
+      class: part
+      field: Everyday expression
+      gloss: Except; before the item excluded from a general statement.
+      concept: except
+    - form: moneth
+      class: adv
+      field: Everyday expression
+      gloss: Only; limits the scope to the stated item or condition.
+      concept: only
+    - form: kaieth
+      class: adv
+      field: Everyday expression
+      gloss: Even; includes a case that might be thought unexpected.
+      concept: even
+    - form: prostheth
+      class: adv
+      field: Everyday expression
+      gloss: Also or too; adds another item or statement.
+      concept: also
+    - form: malisth
+      class: adv
+      field: Everyday expression
+      gloss: Especially; singles out one case for stronger emphasis.
+      concept: especially
+    - form: dunatharin
+      class: v
+      field: Everyday expression
+      gloss: "To be able to perform an action; ability, with the action following this verb: egh dunatharin badhelin, I can walk."
+      concept: can
+    - form: uf dunatharin
+      class: v
+      field: Everyday expression
+      gloss: To be unable to perform the following action; lack of ability, not a refusal of permission.
+      concept: cannot
+    - form: dunelir
+      class: adj
+      field: Everyday expression
+      gloss: Possible; capable of occurring or being done.
+      concept: possible
+    - form: uf dunelir
+      class: adj
+      field: Everyday expression
+      gloss: Impossible; not capable of occurring or being done.
+      concept: impossible
+    - form: ésarin efir
+      class: v
+      field: Everyday expression
+      gloss: "To have permission; be allowed to act. The following action states what is permitted: thu ésarin efir érkharin, you may go."
+      concept: may-permission
+    - form: ésarin dunelir
+      class: v
+      field: Everyday expression
+      gloss: "To be possible; used with an event as subject to say it might occur: ombrin ésarin dunelir, rain might occur."
+      concept: might-possibility
+    - form: ésarin anaghelir
+      class: v
+      field: Everyday expression
+      gloss: To be necessary or obligatory; the action or event as subject is required, as in érkharin ésarin anaghelir, going is necessary; one must go.
+      concept: must
+    - form: ésarin apaghelir
+      class: v
+      field: Everyday expression
+      gloss: To be forbidden; the action as subject must not be done, as in érkharin ésarin apaghelir, going is forbidden.
+      concept: must-not
+    - form: preitharin
+      class: v
+      field: Everyday expression
+      gloss: To be fitting to act; the following action is advisable or morally appropriate, without asserting a binding requirement.
+      concept: ought
+    - form: hairelir
+      class: adj
+      field: Everyday expression
+      gloss: Optional; left to choice rather than required.
+      concept: optional
+    - form: efir
+      class: adj
+      field: Everyday expression
+      gloss: Allowed; permitted by the relevant person, rule or circumstance.
+      concept: allowed
+    - form: apaghelir
+      class: adj
+      field: Everyday expression
+      gloss: Forbidden; prohibited by the relevant authority or rule.
+      concept: forbidden
+    - form: efarin
+      class: v
+      field: Everyday expression
+      gloss: To permit someone to act; grant permission, rather than ability.
+      concept: permit
+    - form: apaghelarin
+      class: v
+      field: Everyday expression
+      gloss: To prohibit an action; forbid it.
+      concept: prohibit
+    - form: eleuther
+      class: adj
+      field: Everyday expression
+      gloss: Free to act; not restrained by the relevant constraint.
+      concept: free
+    - form: desmelir
+      class: adj
+      field: Everyday expression
+      gloss: Constrained in action; limited by a binding rule, force or circumstance.
+      concept: constrained
+    - form: hekonir
+      class: adj
+      field: Everyday expression
+      gloss: Willing; ready to act by choice.
+      concept: willing
+    - form: uf hekonir
+      class: adj
+      field: Everyday expression
+      gloss: Unwilling; not ready to act by choice.
+      concept: unwilling
+    - form: boulir
+      class: adj
+      field: Everyday expression
+      gloss: Intended; included in someone's aim or plan.
+      concept: intended
+    - form: tukhelir
+      class: adj
+      field: Everyday expression
+      gloss: Accidental; occurring without being intended.
+      concept: accidental
+    - form: khaireth
+      class: call
+      field: Everyday expression
+      gloss: Hello; an ordinary greeting on meeting.
+      concept: hello
+    - form: érkharin in sothin
+      class: call
+      field: Everyday expression
+      gloss: Goodbye; go in safety, a leave-taking wish using the ordinary go verb.
+      concept: goodbye
+    - form: Kelir hikathin
+      class: call
+      field: Everyday expression
+      gloss: Welcome; a conventional greeting at someone's arrival, literally a good arrival.
+      concept: expression-welcome
+    - form: pir kharil
+      class: call
+      field: Everyday expression
+      gloss: Please; a conventional courtesy before a request, literally for joy.
+      concept: expression-please
+    - form: dorasirarin thu
+      class: call
+      field: Everyday expression
+      gloss: Thank you; I thank you. The speaker is understood in this fixed courtesy.
+      concept: expression-thank-you
+    - form: aneghir dorasin
+      class: call
+      field: Everyday expression
+      gloss: You're welcome; a gift without expectation of return, said in response to thanks.
+      concept: expression-youre-welcome
+    - form: lusarin egh
+      class: call
+      field: Everyday expression
+      gloss: Excuse me; release me from blame for an interruption or small imposition.
+      concept: expression-excuse-me
+    - form: lufin er egh
+      class: call
+      field: Everyday expression
+      gloss: Sorry; my sorrow, offered as a conventional acknowledgment of fault or sympathy.
+      concept: expression-sorry
+    - form: lusarin egh thoir
+      class: call
+      field: Everyday expression
+      gloss: Forgive me; an emphatic appeal for release from blame.
+      concept: expression-forgive-me
+    - form: befeireth nair
+      class: call
+      field: Everyday expression
+      gloss: Of course; certainly yes, a ready affirmation.
+      concept: of-course
+    - form: Akrotharin
+      class: call
+      field: Everyday expression
+      gloss: Listen; the ordinary listen verb used as a direct call for attention.
+      concept: expression-listen
+    - form: Meltharin
+      class: call
+      field: Everyday expression
+      gloss: Look; the ordinary see or look verb used as a direct call for attention.
+      concept: expression-look
+    - form: Menarin
+      class: call
+      field: Everyday expression
+      gloss: Wait; the ordinary wait verb used as a direct request to pause.
+      concept: expression-wait
+    - form: érkharin enith
+      class: call
+      field: Everyday expression
+      gloss: Come here; come to the speaker's location.
+      concept: expression-come-here
+    - form: érkharin apeth
+      class: call
+      field: Everyday expression
+      gloss: Go away; move away from the speaker or reference place.
+      concept: expression-go-away
+    - form: ofelin egh
+      class: call
+      field: Everyday expression
+      gloss: Help me; an urgent appeal for assistance.
+      concept: expression-help
+    - form: Pautharin
+      class: call
+      field: Everyday expression
+      gloss: Stop; a direct call to end the current action.
+      concept: expression-stop
+    - form: Thin
+      class: call
+      field: Everyday expression
+      gloss: What? A brief question or startled request for clarification.
+      concept: expression-what
+    - form: paleth rhéthasin
+      class: call
+      field: Everyday expression
+      gloss: Pardon? Say it again; a request to repeat something not heard or understood.
+      concept: expression-pardon
+    - form: Paleth
+      class: call
+      field: Everyday expression
+      gloss: Again; a brief request for repetition.
+      concept: expression-again
+    - form: egh sunetharin
+      class: call
+      field: Everyday expression
+      gloss: I understand.
+      concept: expression-i-understand
+    - form: egh uf sunetharin
+      class: call
+      field: Everyday expression
+      gloss: I do not understand. Uf precedes the verb in this negative statement.
+      concept: expression-i-do-not-understand
+    - form: thu semanarin thin
+      class: call
+      field: Everyday expression
+      gloss: What do you mean? Literally you mean what; the ordinary SVO order places the queried meaning after the verb.
+      concept: expression-what-do-you-mean
+    - form: poseth thu rhéthasin
+      class: call
+      field: Everyday expression
+      gloss: How do you say it? Append the word or intended meaning to ask for an expression.
+      concept: expression-how-do-you-say
+    - form: thin ésarin ónomir er heum
+      class: call
+      field: Everyday expression
+      gloss: What is this called? Literally what is the name of this?
+      concept: expression-what-is-this-called
+    - form: rheth alethir
+      class: call
+      field: Everyday expression
+      gloss: Really? Is that true? A surprised request for confirmation, without asserting certainty.
+      concept: expression-really
+    - form: noir thoir
+      class: call
+      field: Everyday expression
+      gloss: Not at all; emphatic no, used to deny a concern or dismiss a need for thanks.
+      concept: expression-not-at-all
+    - form: anthmerin
+      class: n
+      field: Everyday expression
+      gloss: People; human persons considered collectively.
+      concept: people
+    - form: anerith
+      class: n
+      field: Everyday expression
+      gloss: A man; an adult male person.
+      concept: man
+    - form: ghuneth
+      class: n
+      field: Everyday expression
+      gloss: A woman; an adult female person.
+      concept: woman
+    - form: paidhelir
+      class: n
+      field: Everyday expression
+      gloss: A boy; a male child.
+      concept: boy
+    - form: paidhelira
+      class: n
+      field: Everyday expression
+      gloss: A girl; a female child.
+      concept: girl
+    - form: telethir
+      class: n
+      field: Everyday expression
+      gloss: An adult; a person fully grown.
+      concept: adult
+    - form: gerathir ánthimor
+      class: n
+      field: Everyday expression
+      gloss: An elder; an older person, especially one accorded respect by a community.
+      concept: elder
+    - form: meun ánthimor
+      class: n
+      field: Everyday expression
+      gloss: An individual; one person considered separately.
+      concept: individual
+    - form: homelin
+      class: n
+      field: Everyday expression
+      gloss: A group; people or things gathered or considered together.
+      concept: group
+    - form: okhlin
+      class: n
+      field: Everyday expression
+      gloss: A crowd; many people gathered closely together.
+      concept: crowd
+    - form: fulathin
+      class: n
+      field: Everyday expression
+      gloss: A tribe; a community joined by shared descent, customs and identity.
+      concept: tribe
+    - form: koinethin
+      class: n
+      field: Everyday expression
+      gloss: A community; people sharing a place or continuing common life.
+      concept: community
+    - form: erghelir
+      class: n
+      field: Everyday expression
+      gloss: A worker; someone who performs labour or a task.
+      concept: worker
+    - form: tekhnelir
+      class: n
+      field: Everyday expression
+      gloss: An artisan; a skilled maker of goods.
+      concept: artisan
+    - form: prosónomir
+      class: n
+      field: Everyday expression
+      gloss: A title; a name indicating an office, honor or status.
+      concept: title
+    - form: takhelin
+      class: n
+      field: Everyday expression
+      gloss: A rank; one's position in an ordered hierarchy.
+      concept: rank
+    - form: paradhelin
+      class: n
+      field: Everyday expression
+      gloss: A tradition; a practice or account handed down through generations.
+      concept: tradition
+    - form: kanethin
+      class: n
+      field: Everyday expression
+      gloss: A rule; a stated requirement or standard of conduct.
+      concept: rule
+    - form: takethin
+      class: n
+      field: Everyday expression
+      gloss: Order; an arrangement or orderly state, distinct from a command.
+      concept: order-noun
+    - form: kelethein
+      class: n
+      field: Everyday expression
+      gloss: A command; an instruction given with authority.
+      concept: command-noun
+    - form: peithira
+      class: n
+      field: Everyday expression
+      gloss: Obedience; acting according to an instruction or authority.
+      concept: obedience
+    - form: dikhelira
+      class: n
+      field: Everyday expression
+      gloss: Justice; fair treatment and the giving of what is rightly due.
+      concept: justice
+    - form: adikhin
+      class: n
+      field: Everyday expression
+      gloss: An injustice or wrongful act.
+      concept: injustice
+    - form: dikhelir
+      class: adj
+      field: Everyday expression
+      gloss: Right or morally acceptable; fair and in accord with what is owed.
+      concept: right-ethical
+    - form: adikhir
+      class: adj
+      field: Everyday expression
+      gloss:
+        - Wrong or morally unacceptable; unjust or harmful in conduct.
+        - Unjust; violating what is right.
+      concept: wrong-ethical
+    - form: eireneth
+      class: n
+      field: Everyday expression
+      gloss: Peace; absence of war or violent conflict, and the settled relations it allows.
+      concept: peace
+    - form: polethin
+      class: n
+      field: Everyday expression
+      gloss: War; sustained armed conflict between groups.
+      concept: war
+    - form: eleutherira
+      class: n
+      field: Everyday expression
+      gloss: Freedom; the state of being free to act.
+      concept: freedom
+    - form: desmethin
+      class: n
+      field: Everyday expression
+      gloss: Captivity; being held by another and unable to leave.
+      concept: captivity
+    - form: ameithin
+      class: n
+      field: Everyday expression
+      gloss: An exchange; giving one thing and receiving another.
+      concept: exchange-noun
+    - form: ofeilin
+      class: n
+      field: Everyday expression
+      gloss: A debt; something owed to another.
+      concept: debt
+    - form: penethira
+      class: n
+      field: Everyday expression
+      gloss: Poverty; having too few material resources to meet ordinary needs.
+      concept: poverty
+    - form: kemethin
+      class: n
+      field: Everyday expression
+      gloss: Property; something owned by a person or group.
+      concept: property
+    - form: kemethira
+      class: n
+      field: Everyday expression
+      gloss: Ownership; the recognized relation of an owner to property.
+      concept: ownership
+    - form: krufin
+      class: n
+      field: Everyday expression
+      gloss: A secret; something deliberately kept from general knowledge.
+      concept: secret
+    - form: praghin
+      class: n
+      field: Everyday expression
+      gloss: A thing; an object, matter or unspecified entity.
+      concept: thing
+    - form: onthin
+      class: n
+      field: Everyday expression
+      gloss: A being; something that exists, especially a living entity in personal reference.
+      concept: being
+    - form: zelira
+      class: n
+      field: Everyday expression
+      gloss: Life; the state or course of living.
+      concept: life
+    - form: telthin
+      class: n
+      field: Everyday expression
+      gloss: An end; the final boundary or point of something.
+      concept: end-noun
+    - form: telethin
+      class: n
+      field: Everyday expression
+      gloss: Completion; the bringing of something to its finished state.
+      concept: completion
+    - form: allathin
+      class: n
+      field: Everyday expression
+      gloss: A change or transformation; the event or result of becoming different, slight or thorough according to context.
+      concept: [change-noun, transformation]
+    - form: merethin
+      class: n
+      field: Everyday expression
+      gloss: A part; a portion or constituent of a whole.
+      concept: part
+    - form: aithelin
+      class: n
+      field: Everyday expression
+      gloss: A cause or reason; what brings about or explains an event. Context distinguishes physical cause from an explanatory reason.
+      concept: [cause, reason]
+    - form: apothelin
+      class: n
+      field: Everyday expression
+      gloss: An effect; a result brought about by a cause.
+      concept: effect
+    - form: skofelin
+      class: n
+      field: Everyday expression
+      gloss: A purpose or aim; the outcome an action is directed toward.
+      concept: purpose
+    - form: genelir
+      class: n
+      field: Everyday expression
+      gloss: A kind, type or category; a class sharing relevant qualities.
+      concept: kind
+    - form: onthir
+      class: adj
+      field: Everyday expression
+      gloss: Real; actually existing or occurring, rather than imagined.
+      concept: real
+    - form: uf onthir
+      class: adj
+      field: Everyday expression
+      gloss: Unreal; imagined or lacking actual existence.
+      concept: unreal
+    - form: futherir
+      class: adj
+      field: Everyday expression
+      gloss: Natural; arising through the ordinary life or processes of the world.
+      concept: natural
+    - form: uf futherir
+      class: adj
+      field: Everyday expression
+      gloss: Unnatural; contrary to ordinary natural processes or character.
+      concept: unnatural
+    - form: er
+      class: part
+      field: Everyday expression
+      gloss: Of; links a thing with its possessor, source or defining respect. Dakhelin er podhelin means a digit of the foot; kelir er osmin means beautiful in scent.
+    - form: skalin
+      class: n
+      field: Everyday expression
+      gloss: A failure; an unsuccessful outcome.
+    - form: dikhin
+      class: n
+      field: Everyday expression
+      gloss: A wrong done; an act deserving blame.
+    - form: prathin
+      class: n
+      field: Everyday expression
+      gloss: An action or deed, including what someone fails to do when action is expected.
+    - {form: alghir, class: n, field: Everyday expression, gloss: A person in pain or suffering.}
+    - {form: erathir, class: n, field: Everyday expression, gloss: A beloved romantic partner.}
+    - form: aneghir
+      class: adj
+      field: Everyday expression
+      gloss: Selfless; seeking another's good without expectation of return.
+    - {form: apsel, class: adj, field: Everyday expression, gloss: Unexpected; not anticipated.}
+    - {form: esor, class: adv, field: Everyday expression, gloss: Inward; toward the inside.}
+    - {form: plir, class: adj, field: Everyday expression, gloss: Full; filled to capacity.}
+    - form: apethir
+      class: n
+      field: Everyday expression
+      gloss: An absent person; someone not present.
+    - {form: adhelin, class: n, field: Everyday expression, gloss: A sibling; a brother or sister.}
+    - form: apolin
+      class: n
+      field: Everyday expression
+      gloss: A loss; the losing of someone or something.
+    - {form: noselin, class: n, field: Everyday expression, gloss: An illness or sickness.}
+    - {form: thareth, class: adv, field: Everyday expression, gloss: Loudly; at a high volume.}
+    - form: sigheth
+      class: adv
+      field: Everyday expression
+      gloss: In a hushed voice; quietly enough to whisper.
+    - form: hikathin
+      class: n
+      field: Everyday expression
+      gloss: An arrival; the coming of a person or thing to a destination.
+    - form: semanarin
+      class: v
+      field: Everyday expression
+      gloss: To mean or signify something; express an intended meaning.
+    - {form: mesin, class: n, field: Everyday expression, gloss: The middle of a span of time.}
+    - form: malth
+      class: adv
+      field: Everyday expression
+      gloss: More readily or to a greater degree.
+    - form: eikhotir
+      class: adj
+      field: Everyday expression
+      gloss: Likely; reasonably expected to occur.
+    - form: apathin
+      class: n
+      field: Everyday expression
+      gloss: Deception; an intention or act of misleading someone.
+    - form: deighmin
+      class: n
+      field: Everyday expression
+      gloss: An example; an instance illustrating a general claim.
+    - form: apethin
+      class: n
+      field: Everyday expression
+      gloss: Absence; the state of a person, thing or place being away or not available.
+    - form: horath
+      class: n
+      field: Everyday expression
+      gloss: An occasion; one instance of an action or event.
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -2203,6 +6152,16 @@ The following lexicon defines the root words of Helonic. These roots appear thro
 | _frun_  | with                           |
 | _thoir_ | (emphatic/focus particle)      |
 | _neur_  | not (with a command or a wish) |
+
+### Ordinary expressions
+
+The core expressions use the ordinary SVO order and the words of the dictionary. A spaced expression keeps its words separate; the language reserves joined compounds for poetry and names. The relation words carry their own meanings: _er_ links possession, source or a defining respect; _pir_ gives a beneficiary or purpose; _prou_ gives a direction or destination. _Domin er egh_ is my house, while _féranin heum prou thu_ means bring this to you. _Er_ follows the noun it qualifies, and a nested relation is read from the right: _tekir er adhelin er tokhir_, the child of a parent's sibling.
+
+The ordinary verb citation also serves in a direct call, as _Rhéthasin, dhidakhir!_ shows. The calls in the dictionary give their full wording. Words of quantity keep their stated scope: _plum ánthimor_ is every person; _anthmerin_ is people collectively. The ordinal expression _in arithmas_ before a numeral gives its position: _in arithmas vesmor_, fourth; _in arithmas zekhor_, tenth.
+
+Negation in a statement uses _uf_ before the predicate: _egh uf sunetharin_, I do not understand. Questions can keep the ordinary order: _thu rhéthasin thin?_, what do you say? The question marker _rheth_ before an ordinary statement asks for yes or no: _rheth thu ésarin enith?_, are you here?
+
+An adjective after _ésarin_ states a condition, and after _ghígnarin_ gives the condition reached: _ghígnarin ughelir_, become healthy or recover. This also distinguishes permission, ability and possibility. _Thu ésarin efir érkharin_ gives permission to go; _thu dunatharin badhelin_ says you can walk; _ombrin ésarin dunelir_ says rain might occur. With an action as the subject, _érkharin ésarin anaghelir_ means going is necessary, and _érkharin ésarin apaghelir_ means going is forbidden. The dictionary glosses retain the wording and scope of each expression.
 
 ### Derivation in Daughter Languages
 

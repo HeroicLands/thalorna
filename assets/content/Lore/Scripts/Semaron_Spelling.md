@@ -127,6 +127,10 @@ data:
       - ["y", "󰈷"] # U+F0237
       - {from: "Y", to: "󰈕", before: vowel} # U+F0215
       - ["Y", "󰈇"] # U+F0207
+      - {from: "ý", to: "󰉅", before: vowel} # U+F0245
+      - ["ý", "󰈷"] # U+F0237
+      - {from: "Ý", to: "󰈕", before: vowel} # U+F0215
+      - ["Ý", "󰈇"] # U+F0207
       - ["'", "󰉰"] # U+F0270
       - ["’", "󰉰"] # U+F0270
       - ["`", "󰉰"] # U+F0270
@@ -163,7 +167,7 @@ Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **_ch_ is three letters.** The script has no _c_, so _ch_ is written _t_, _s_, _h_.
 - **A doubled _a_, _i_ or _u_ is the long vowel**, a letter of its own with the curl drawn into it. The first letter's case picks the minuscule or the majuscule. _ee_ and _oo_ are two plain vowels.
 - **An acute vowel is the plain vowel.** The Semaron writes no stress.
-- **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_.
+- **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. Acute _ý_ follows the same rule, with no stress mark in the script.
 - **The catch** (`'`, `’`, a grave accent or a hyphen) is a mark set over the letter before it. With no letter before it, it prints the box.
 - **Every pause** (`.`, `,`, `;`, `:` and both dashes) is the one point.
 - **The numerals** 0 to 9 are the Semaron numerals.
