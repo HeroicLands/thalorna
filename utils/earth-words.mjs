@@ -77,6 +77,7 @@ export const SOURCES = {
     "Elavendri.md": ["old-french", "breton"],
     "Helonic.md": ["ancient-greek"],
     "Jurthat.md": ["japanese"],
+    "Khazari.md": ["khuzdul"],
     "Khazri.md": ["sogdian", "tajik", "hebrew"],
     "Khelathi.md": ["egyptian"],
     "Ki.ichek.md": ["yucatec-maya"],

@@ -142,8 +142,24 @@ test("Tantsou and Jurthat words collide only when the meaning agrees", () => {
     assert.match(err[0], /error: "aqua" copies its word for "water" in the japanese list/);
 });
 
+test("Khazari reports whole Khuzdul words regardless of gloss and ignores stems and other models", () => {
+    const root = lists();
+    write("lists/khuzdul.txt", "kibil\n");
+    const file = note("Khazari.md", [
+        ["kibíl", "an unrelated meaning"],
+        ["kibilron", "a compound"],
+        ["kibil-", "a stem"],
+        ["-kibil", "an affix"],
+        ["aqua", "water"],
+    ]);
+    const { status, err, out } = run(["--wordlists", root, file]);
+    assert.equal(status, 1);
+    assert.deepEqual(err, ['notes/Khazari.md:5:13: error: "kibíl" is a word of the khuzdul list']);
+    assert.deepEqual(out, ["5 words compared: 1 error(s)"]);
+});
+
 test("a language with no model has no check", () => {
-    const file = note("Khazari.md", [["aqua", "water"]]);
+    const file = note("Unmodelled.md", [["aqua", "water"]]);
     const { status, err } = run(["--wordlists", lists(), file]);
     assert.equal(status, 0);
     assert.deepEqual(err, []);

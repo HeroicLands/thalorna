@@ -1366,6 +1366,8 @@ Notes on the table:
   none, the check says so once and exits 0, so a pass on a machine without the
   lists proves nothing. Short Tantsou and Jurthati words collide constantly, so
   there a collision needs a shared meaning as well as a shared form.
+  Khazari is checked against the Khuzdul list in `earth-wordlists/base/khuzdul.txt`;
+  a matching whole form counts regardless of meaning.
 - **`lint:addresses` needs the dependency index.** Run `npm run build:deps`
   (`package-build deps fetch`) once; without it the lint stops with
   `sohl is a declared dependency but its content index has not been fetched`.
