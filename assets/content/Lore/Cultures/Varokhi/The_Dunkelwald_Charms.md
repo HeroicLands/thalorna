@@ -23,7 +23,7 @@ For a bone. You say it with the splint in your hand and the bast in your teeth, 
 
 : The first charm, for a bone {#bone}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor bren. Thri malwen hem mi brenwul inwe wethan virwe werdrith inwe tend. Eom renwen. Samri howra marwen virwe hundar.]{.nativefont lang=varo}
 2 [For bone. Speak with splint in hand and bast between teeth. Once. The same over man and dog.]{lang=en}
 2 [Feor bren. Thri malwen hem mi brenwul inwe wethan virwe werdrith inwe tend. Eom renwen. Samri howra marwen virwe hundar.]{lang=varo}
@@ -98,7 +98,7 @@ For a crossing. You say it on the bank with the pole in your hands, and whoever 
 
 : The second charm, for a crossing {#crossing}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor twerwe. Thri malwen hem orwe raldra mi skarwen inwe wethan. Mawen mi thri malwen hem owren. Nawen renwen inwe watra.]{.nativefont lang=varo}
 2 [For crossing. Speak on bank with staff in hands. Your companion speaks too. Never in water.]{lang=en}
 2 [Feor twerwe. Thri malwen hem orwe raldra mi skarwen inwe wethan. Mawen mi thri malwen hem owren. Nawen renwen inwe watra.]{lang=varo}
@@ -165,7 +165,7 @@ For a fever. The fever asks questions. You say this over the sick one and you an
 
 : The third charm, for a fever {#fever}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor suler er sulwarth. Suler frawna. Thri malwen eith howra sulra mawen. Thri na andwa welri frawren. Ivwe hem harve threm dagren. Warwa Weskwar.]{.nativefont lang=varo}
 2 [For fever. Sickness asks. Speak this above the sick person. Answer no question. If it lasts three days, call Shaman.]{lang=en}
 2 [Feor suler er sulwarth. Suler frawna. Thri malwen eith howra sulra mawen. Thri na andwa welri frawren. Ivwe hem harve threm dagren. Warwa Weskwar.]{lang=varo}
@@ -228,7 +228,7 @@ For the night. The one who has broken nothing today lays the ash. That is usuall
 
 : The fourth charm, for the night {#night}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor nathra. Mawen na brekwa denger et dagren eith ladra frenna. Merwen renwen hem thum thri. Thri malwen inwe ladra. Thri na malwen thei renwen.]{.nativefont lang=varo}
 2 [For night. Whoever breaks nothing today lays ash. Often you. Speak while laying. Do not speak twice.]{lang=en}
 2 [Feor nathra. Mawen na brekwa denger et dagren eith ladra frenna. Merwen renwen hem thum thri. Thri malwen inwe ladra. Thri na malwen thei renwen.]{lang=varo}
@@ -339,7 +339,7 @@ For a goat that holds her milk. Anybody with two hands says it, and the slave at
 
 : The fifth charm, for a goat {#goat}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor gedth. Hem halwen mewdrul. Welri mawen mi thei wethan malwen hem. Serwar et mewdrul malwen hem meora renwen dran thri. Thri na warwa andwen.]{.nativefont lang=varo}
 2 [For a goat holding milk. Anyone with two hands speaks it. The servant at milking speaks it more often than you. Do not call another.]{lang=en}
 2 [Feor gedth. Hem halwen mewdrul. Welri mawen mi thei wethan malwen hem. Serwar et mewdrul malwen hem meora renwen dran thri. Thri na warwa andwen.]{lang=varo}
@@ -414,7 +414,7 @@ These are not counted among the nine. No old days stand behind them; they are wh
 
 : The small charms, not counted {#small}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Eithra na harve tavren samwe niwen. Nawen forni dagren stanwe rewra hemwen. Hemwen thum witren er wethan. Thri lerwa hemwen samri. Malwen hemwen inwe jiwra.]{.nativefont lang=varo}
 2 [These have no count among nine. No old days stand behind them. They are hands’ knowledge. Learn them the same. Speak while working.]{lang=en}
 2 [Eithra na harve tavren samwe niwen. Nawen forni dagren stanwe rewra hemwen. Hemwen thum witren er wethan. Thri lerwa hemwen samri. Malwen hemwen inwe jiwra.]{lang=varo}
@@ -669,7 +669,7 @@ For a birth. You say it when the cord is cut and the child has cried, and you sa
 
 : The sixth charm, for a birth {#birth}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor elra. Thri malwen hem nather werka er dreth virwe warwa er othil. Thri malwen hem mi eith wegra. Nawen nefren inwe hem. Weskwar selra nefren et threm muneth. Ter eoth hem thum othil.]{.nativefont lang=varo}
 2 [For birth. Speak after cutting the cord and the child’s cry. Speak in this direction. No name inside. Shaman gives name at three months. Until then, the child.]{lang=en}
 2 [Feor elra. Thri malwen hem nather werka er dreth virwe warwa er othil. Thri malwen hem mi eith wegra. Nawen nefren inwe hem. Weskwar selra nefren et threm muneth. Ter eoth hem thum othil.]{lang=varo}
@@ -756,7 +756,7 @@ For a death. You say it over the body before the women raise the _meldra_, and y
 
 : The seventh charm, for a death {#death}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor wreda. Thri malwen hem howra mawen frar wemra riwra meldra. Thri malwen hem mi andri wegra. Elra vreld rewa. Mi durni durwen. Thri na malwen hem mi samri hruvar er elra. Wenga utwe. Komwe inwe twerna. Harven wenga inwe nather hem. Eoth thum er Weskwar. Na er thri.]{.nativefont lang=varo}
 2 [For death. Speak above the person before women raise lament. Speak in the other direction. Birth charm backward. Door open. Do not speak with birth’s same breath. Go out. Come in between. Goods enter afterward. That belongs to Shaman, not you.]{lang=en}
 2 [Feor wreda. Thri malwen hem howra mawen frar wemra riwra meldra. Thri malwen hem mi andri wegra. Elra vreld rewa. Mi durni durwen. Thri na malwen hem mi samri hruvar er elra. Wenga utwe. Komwe inwe twerna. Harven wenga inwe nather hem. Eoth thum er Weskwar. Na er thri.]{lang=varo}
@@ -843,7 +843,7 @@ For the taking. You say it at the edge of the wood before the trapping and the c
 
 : The eighth charm, for the taking {#taking}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Feor nemra. Thri malwen hem et zalra er woldra frar bandreth virwe werka. Wirdwen inwe hem thum wirdwen. Nawen mawen harve minri.]{.nativefont lang=varo}
 2 [For taking. Speak at forest’s edge before snares and cutting. Price inside is price. Nobody has less.]{lang=en}
 2 [Feor nemra. Thri malwen hem et zalra er woldra frar bandreth virwe werka. Wirdwen inwe hem thum wirdwen. Nawen mawen harve minri.]{lang=varo}
@@ -938,7 +938,7 @@ The ninth. For a Shaman gone under in _skomel_ and not back by morning. You lear
 
 : The ninth charm, in its opening {#ninth}
 
-```verse {form=vreld lang=en cols=2}
+```verse {form=vreld lang=en cols=2} numstep=5
 1 [Rend niwen. Feor Weskwar inwe skomel. Hem wenga nivre. Hem na komwe rewa et merga. Thri lerwa wethan virwe glarth. Hemwen thum er hemra. Awen andwe thum er lerwin. Thri na lerwa hem.]{.nativefont lang=varo}
 2 [Ninth. For Shaman in trance, going under, not returning by morning. Learn hands and fire. They belong to house. The rest belongs to pupil. You do not learn it.]{lang=en}
 2 [Rend niwen. Feor Weskwar inwe skomel. Hem wenga nivre. Hem na komwe rewa et merga. Thri lerwa wethan virwe glarth. Hemwen thum er hemra. Awen andwe thum er lerwin. Thri na lerwa hem.]{lang=varo}

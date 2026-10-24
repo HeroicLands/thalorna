@@ -28,7 +28,7 @@ The lay names no people but its own and the giants. [[lore-takingwood|The Taking
 
 : Dorgbán drunga {#dorgbandrunga}
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [_Drungwar er Dorgbán._]{lang=varo}
 2 [_The Dorgbán reciter._]{lang=en}
 2 [_Drungwar er Dorgbán._]{lang=varo}

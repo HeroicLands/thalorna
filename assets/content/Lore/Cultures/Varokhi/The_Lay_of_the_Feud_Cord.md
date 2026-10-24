@@ -26,7 +26,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The Vow at the Grove {#vow}
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Halwen durwen. Ladra drulma niwer. Eith thum drunga er dreth.]{.nativefont lang=varo}
 2 [Hold the door. Put the cup down. This is the cord’s lay.]{lang=en}
 2 [Halwen durwen. Ladra drulma niwer. Eith thum drunga er dreth.]{lang=varo}
@@ -163,13 +163,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Hem malwen vora. Niwen hru hem. Samen er werla hru hem. Minra halwen hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Armund malwen.]{lang=varo}
 2 [[Armund]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Armund malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Ivwe wethan wredra thri. Wi finwe wethan er wredren.]{.nativefont lang=varo}
 2 [If a hand kills you, I find the killing hand.]{lang=en}
 2 [Ivwe wethan wredra thri. Wi finwe wethan er wredren.]{lang=varo}
@@ -187,13 +187,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Wi malwen frar niwen. Hemwen hru hem. Hemwen halwen wi ter hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skathrik malwen.]{lang=varo}
 2 [[Skathrik]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Skathrik malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Ivwe wethan wredra thri. Wi finwe wethan er wredren.]{.nativefont lang=varo}
 2 [If a hand kills you, I find the killing hand.]{lang=en}
 2 [Ivwe wethan wredra thri. Wi finwe wethan er wredren.]{lang=varo}
@@ -262,7 +262,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Birwen stanwe buwra. Nawen mawen werka hem. Rawel thewen grula inwe. Werhul ludra howra thewen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [**The reckoning of the Skathár.** Edrarún. Skathár wur Othholt. Hem halwen eith. Mawen nather hem halwen hem. Vristulf yra Harvith wredra Armund yra Grimskorn. Armund thum Druthmund. Inwe samen er werla. Rend threm dagren nather wathra. Mi brold. Et larg er dagren. Slagren frar hem. Feor birwen. Thewen malwen harvren. Harvith harve skuldren. Erwen bludwirdra er marwen. Harvith pubra hem et rend eom munra nather eoth. Frar threm sethar. Inwe hemra er Grimskorn. Fedr tenra skurth er grema. Marth virwe fukth. Padhra mi fedr hralwen. Ukthe. Hraldi melgud. Thei Othmund. Marwen virwe wemri bemra er hem fran sudren. Helwen er Harvith er samen er werla. Ter Árhilda othwa er Armund. Hem harve fimra grema. Edrarún skatha hem lurni. Othrún er Grimskorn malwen rend eom. Mowen er Skathrik virwe Armund.]{.nativefont lang=varo}
 2 [**The reckoning of the Skathár.** [Edrarún]{.name data-type="being/npc" lang=varo}, Skathár of [Othholt]{.name data-type="place/settlement"}, keeps this; those after her keep it. [Vristulf]{.name data-type="being/npc" lang=varo} of [Harvith]{.name data-type="affiliation/lineage"} kills [Armund]{.name data-type="being/npc" lang=varo} of [Grimskorn]{.name data-type="affiliation/lineage"}, a [[lore-druthmundrnk|Druthmund]], in the grove on the third day after thaw, with an axe, in daylight, the blow in front, for a birch both claim. [Harvith]{.name data-type="affiliation/lineage"} owes a man’s full blood-price. [Harvith]{.name data-type="affiliation/lineage"} offers it at the first moon afterward, before three seats in the [Grimskorn]{.name data-type="affiliation/lineage"} hall: forty winter pelts, marten and fox; a boat with four oars; an ox; an iron pot; two [[lore-othmundrnk|Othmund]], a man and his wife from the south; the [Harvith]{.name data-type="affiliation/lineage"} half of the grove, to [Armund]{.name data-type="being/npc" lang=varo}’s daughter [Árhilda]{.name data-type="being/npc" lang=varo}, five winters old. [Edrarún]{.name data-type="being/npc" lang=varo} reckons it complete. The [Grimskorn]{.name data-type="affiliation/lineage"} household mistress speaks first, mother of [Skathrik]{.name data-type="being/npc" lang=varo} and [Armund]{.name data-type="being/npc" lang=varo}.]{lang=en}
 2 [**The reckoning of the Skathár.** Edrarún. Skathár wur Othholt. Hem halwen eith. Mawen nather hem halwen hem. Vristulf yra Harvith wredra Armund yra Grimskorn. Armund thum Druthmund. Inwe samen er werla. Rend threm dagren nather wathra. Mi brold. Et larg er dagren. Slagren frar hem. Feor birwen. Thewen malwen harvren. Harvith harve skuldren. Erwen bludwirdra er marwen. Harvith pubra hem et rend eom munra nather eoth. Frar threm sethar. Inwe hemra er Grimskorn. Fedr tenra skurth er grema. Marth virwe fukth. Padhra mi fedr hralwen. Ukthe. Hraldi melgud. Thei Othmund. Marwen virwe wemri bemra er hem fran sudren. Helwen er Harvith er samen er werla. Ter Árhilda othwa er Armund. Hem harve fimra grema. Edrarún skatha hem lurni. Othrún er Grimskorn malwen rend eom. Mowen er Skathrik virwe Armund.]{lang=varo}
@@ -270,13 +270,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : Before the Three Seats {#seats}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Other Chief malwen.]{lang=varo}
 2 [The Other Chief speaks.]{lang=en}
 2 [Other Chief malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skathár skatha. Wi hru hem. Wi malwen hem lurni.]{.nativefont lang=varo}
 2 [The Skathár reckons. I hear her. I call it full.]{lang=en}
 2 [Skathár skatha. Wi hru hem. Wi malwen hem lurni.]{lang=varo}
@@ -286,13 +286,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Othma malwen weoren hem nemra hem. Hewra. Frar eithra sethar. Nawen andwe sta.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Mowen er hem malwen.]{lang=varo}
 2 [His mother speaks.]{lang=en}
 2 [Mowen er hem malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi tavra makra fran frar thri kanda tavra.]{.nativefont lang=varo}
 2 [I count stores from before you can count.]{lang=en}
 2 [Wi tavra makra fran frar thri kanda tavra.]{lang=varo}
@@ -429,13 +429,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Malwa er thri stanwe. Derwen othma nemra bludwirdra. Thri na nemra hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Bemlos er Armund malwen.]{lang=varo}
 2 [[Armund]{.name data-type="being/npc" lang=varo}’s widow speaks.]{lang=en}
 2 [Bemlos er Armund malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi harve elra et Harvith. Wi bembra twerwe frelwen. Othma er wi wredra marwi bemra er wi.]{.nativefont lang=varo}
 2 [I am born [Harvith]{.name data-type="affiliation/lineage"}. I marry across the clearing. My family kills my husband.]{lang=en}
 2 [Wi harve elra et Harvith. Wi bembra twerwe frelwen. Othma er wi wredra marwi bemra er wi.]{lang=varo}
@@ -470,13 +470,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Wi witna hemra er druma er junri wemra er wi et luren er eith. Hem witna owren.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Mowen er Vristulf malwen.]{lang=varo}
 2 [[Vristulf]{.name data-type="being/npc" lang=varo}’s mother speaks.]{lang=en}
 2 [Mowen er Vristulf malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi pubra pubren er wi. Skathár malwen hem lurni. Wi malwen hem meora dran lurni.]{.nativefont lang=varo}
 2 [I offer my offer. The Skathár calls it full. I call it more than full.]{lang=en}
 2 [Wi pubra pubren er wi. Skathár malwen hem lurni. Wi malwen hem meora dran lurni.]{lang=varo}
@@ -511,13 +511,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Wi tholda sedra virwe hru hem. Likwe mowen er thri sedra virwe hru thri nuwa.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [War Chief malwen.]{lang=varo}
 2 [The War Chief speaks.]{lang=en}
 2 [War Chief malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi harve warld virwe frath feor halwen hem. Eoth thum erwen jiwra er wi.]{.nativefont lang=varo}
 2 [I have the wall and the band to hold it. That is my whole work.]{lang=en}
 2 [Wi harve warld virwe frath feor halwen hem. Eoth thum erwen jiwra er wi.]{lang=varo}
@@ -586,13 +586,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Hem harve warld feor jiwra. Hem witna hem. Wi minwa heir hem thum.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Edrarún malwen.]{lang=varo}
 2 [[Edrarún]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Edrarún malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi halwen dreth. Dreth er Grimskorn thum hewra. Wi berwe hem. Dreth er Harvith thum hewra.]{.nativefont lang=varo}
 2 [I hold the cords. [Grimskorn]{.name data-type="affiliation/lineage"}’s is here. I bring it. [Harvith]{.name data-type="affiliation/lineage"}’s is here.]{lang=en}
 2 [Wi halwen dreth. Dreth er Grimskorn thum hewra. Wi berwe hem. Dreth er Harvith thum hewra.]{lang=varo}
@@ -695,13 +695,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Awen hem thum hewra et dagren er Grimskorn wethan komwe ter hem. Ivwe Grimskorn wethan thum.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Weskwar malwen.]{lang=varo}
 2 [The Shaman speaks.]{lang=en}
 2 [Weskwar malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi malwen eom denger. Thri na frawna hem derwen thri witna galren.]{.nativefont lang=varo}
 2 [I say one thing. You do not ask it because you know better.]{lang=en}
 2 [Wi malwen eom denger. Thri na frawna hem derwen thri witna galren.]{lang=varo}
@@ -736,13 +736,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Thewen wegra. Thri framwe. Nawen malwa er hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skathrik malwen.]{lang=varo}
 2 [[Skathrik]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Skathrik malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi hru mowen er wi. Wi hru War Chief. Wi hru Skathár virwe Weskwar.]{.nativefont lang=varo}
 2 [I hear my mother. I hear the War Chief. I hear Skathár and Shaman.]{lang=en}
 2 [Wi hru mowen er wi. Wi hru War Chief. Wi hru Skathár virwe Weskwar.]{lang=varo}
@@ -879,13 +879,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Nather dretha. Ladra hem rewa orwe werpeg. Junri wemra kanda weir hem. Hem witna wirdra er farwen er hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Niwen malwen.]{lang=varo}
 2 [The nine speak.]{lang=en}
 2 [Niwen malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Oht malwen. Wemi hru hem. Wemi slagra gerth orwe werun. Wemi halwen hem ter hem. Wemi felwa hem.]{.nativefont lang=varo}
 2 [Eight say: We hear. We strike spears on roots. We hold him to it. We follow him.]{lang=en}
 2 [Oht malwen. Wemi hru hem. Wemi slagra gerth orwe werun. Wemi halwen hem ter hem. Wemi felwa hem.]{lang=varo}
@@ -903,13 +903,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Marwen kanda halwen thei malwa ivwe hemwen na metwen. Wi halwen eith ter hemwen metwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Other Chief malwen.]{lang=varo}
 2 [The Other Chief speaks.]{lang=en}
 2 [Other Chief malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Malwa thum. Hruwen thum. Dretha hem Skathár.]{.nativefont lang=varo}
 2 [Speech exists. Hearing exists. Tie it, Skathár.]{lang=en}
 2 [Malwa thum. Hruwen thum. Dretha hem Skathár.]{lang=varo}
@@ -925,7 +925,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The First Winter {#first}
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Grema komwe. Ruvith thum raghra. Moreth thum hrelmi.]{.nativefont lang=varo}
 2 [Deep winter comes. The river is road. The landing is quiet.]{lang=en}
 2 [Grema komwe. Ruvith thum raghra. Moreth thum hrelmi.]{lang=varo}
@@ -960,7 +960,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Thei fran sudren stanwe mi hralwen inwe arwen. Hemwen weir. Nawen mawen malwen harvren er hemwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rend eom grema. Skathrik wredra Vristulf et moreth. Dreth er Harvith. Eom. Fedr er niwen wredra thei er Harvith et rethwen. Dreth er Harvith. Threm. Harvith wredra marwi bemra er frithwina er Skathrik et hreth. Dreth er Grimskorn. Thei. Et wathra othrún er Harvith pubra rend thei renwen. Rend eom bludwirdra. Skathár halwen hem buwra. Hem na frawna denger feor threm orwe dreth er hem selwen. Skathrik nawra. Marwen er Harvith nawra. Nawen mawen frawna hemwen.]{.nativefont lang=varo}
 2 [First winter. [Skathrik]{.name data-type="being/npc" lang=varo} kills [Vristulf]{.name data-type="being/npc" lang=varo} at the landing. [Harvith]{.name data-type="affiliation/lineage"} cord: one. Four of nine kill two [Harvith]{.name data-type="affiliation/lineage"} at the trapline. [Harvith]{.name data-type="affiliation/lineage"} cord: three. [Harvith]{.name data-type="affiliation/lineage"} kills [Skathrik]{.name data-type="being/npc" lang=varo}’s sister’s husband at the ford. [Grimskorn]{.name data-type="affiliation/lineage"} cord: two. At thaw the [Harvith]{.name data-type="affiliation/lineage"} mistress offers a second time: the first price, still held. She asks nothing for her cord’s three. [Skathrik]{.name data-type="being/npc" lang=varo} refuses. The [Harvith]{.name data-type="affiliation/lineage"} men refuse. Nobody asks them.]{lang=en}
 2 [Rend eom grema. Skathrik wredra Vristulf et moreth. Dreth er Harvith. Eom. Fedr er niwen wredra thei er Harvith et rethwen. Dreth er Harvith. Threm. Harvith wredra marwi bemra er frithwina er Skathrik et hreth. Dreth er Grimskorn. Thei. Et wathra othrún er Harvith pubra rend thei renwen. Rend eom bludwirdra. Skathár halwen hem buwra. Hem na frawna denger feor threm orwe dreth er hem selwen. Skathrik nawra. Marwen er Harvith nawra. Nawen mawen frawna hemwen.]{lang=varo}
@@ -968,13 +968,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The Harvith Hall {#harvith}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Othrún er Harvith malwen ter othlin er hem.]{.nativefont lang=varo}
 2 [The [Harvith]{.name data-type="affiliation/lineage"} mistress speaks to her sons.]{lang=en}
 2 [Othrún er Harvith malwen ter othlin er hem.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wi tavra makra. Wemra twerwe frelwen tavra er hem. Wi malwen hemwen.]{.nativefont lang=varo}
 2 [I count stores. The woman across the clearing counts hers. I speak them.]{lang=en}
 2 [Wi tavra makra. Wemra twerwe frelwen tavra er hem. Wi malwen hemwen.]{lang=varo}
@@ -1009,13 +1009,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Malwen nawra ter wi. Wi witna hem thum malwa inwe eith hemra. Na einwe inwe hemra er hemwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Marwen er Harvith malwen.]{lang=varo}
 2 [The [Harvith]{.name data-type="affiliation/lineage"} men speak.]{lang=en}
 2 [Marwen er Harvith malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Wemi nawra hem. Vristulf legwe orwe isra. Brold er hem thum helwen utwe morweth.]{.nativefont lang=varo}
 2 [We refuse. [Vristulf]{.name data-type="being/npc" lang=varo} lies on ice, axe half out of belt.]{lang=en}
 2 [Wemi nawra hem. Vristulf legwe orwe isra. Brold er hem thum helwen utwe morweth.]{lang=varo}
@@ -1033,13 +1033,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Wemi na worna likwe junri marwen. Wemi worna nuwa. Mowen er Vristulf hruda. Hem tholda hru halwen er hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Othrún er Harvith malwen.]{lang=varo}
 2 [The [Harvith]{.name data-type="affiliation/lineage"} mistress speaks.]{lang=en}
 2 [Othrún er Harvith malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Derwe malwa thum inwe thewen hemra. Skathár harve hem. Wi harve hem.]{.nativefont lang=varo}
 2 [The speech lives in both halls. The Skathár has it. I have it.]{lang=en}
 2 [Derwe malwa thum inwe thewen hemra. Skathár harve hem. Wi harve hem.]{lang=varo}
@@ -1057,7 +1057,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Wi berwa dreth mi wi. Wi ladra hem inwe hemra. Hemra na hru er thri nawen renwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rend thei grema. Threm er niwen et werbaw er Harvith. Thei er Harvith mi hemwen. Dreth er Grimskorn. Fimra. Dreth er Harvith. Fimra. Skathrik virwe thei er niwen wredra thei er Harvith et moreth. Dreth er Harvith. Sewren. Thei er niwen et ruvith raghra. Dreth er Grimskorn. Sewren. Marwen wenga feor othma. Ivwe hem harve wreda. Skathár dretha orwe dreth er eoth othma. Eoth thum rethma. Hemwen halwen hem. Bemlos er Armund berwa Árhilda twerwe frelwen ter hemra er Harvith et rend fimra drethen. Othrún er Harvith pubra rend threm renwen. Rend eom bludwirdra. Skathár halwen hem buwra. Skathrik nawra.]{.nativefont lang=varo}
 2 [Second winter. Three of nine at [Harvith]{.name data-type="affiliation/lineage"}’s woodpile. Two [Harvith]{.name data-type="affiliation/lineage"} with them. [Grimskorn]{.name data-type="affiliation/lineage"} cord: five. [Harvith]{.name data-type="affiliation/lineage"} cord: five. [Skathrik]{.name data-type="being/npc" lang=varo} and two of nine kill two [Harvith]{.name data-type="affiliation/lineage"} at the landing. [Harvith]{.name data-type="affiliation/lineage"} cord: seven. Two of nine on the river road. [Grimskorn]{.name data-type="affiliation/lineage"} cord: seven. A man goes for a family; if he dies, the Skathár knots that family’s cord. That is the rule. They keep it. At the fifth knot [Armund]{.name data-type="being/npc" lang=varo}’s widow carries [Árhilda]{.name data-type="being/npc" lang=varo} across the clearing to [Harvith]{.name data-type="affiliation/lineage"}’s hall. [Harvith]{.name data-type="affiliation/lineage"}’s mistress offers a third time: the first price, still held. [Skathrik]{.name data-type="being/npc" lang=varo} refuses.]{lang=en}
 2 [Rend thei grema. Threm er niwen et werbaw er Harvith. Thei er Harvith mi hemwen. Dreth er Grimskorn. Fimra. Dreth er Harvith. Fimra. Skathrik virwe thei er niwen wredra thei er Harvith et moreth. Dreth er Harvith. Sewren. Thei er niwen et ruvith raghra. Dreth er Grimskorn. Sewren. Marwen wenga feor othma. Ivwe hem harve wreda. Skathár dretha orwe dreth er eoth othma. Eoth thum rethma. Hemwen halwen hem. Bemlos er Armund berwa Árhilda twerwe frelwen ter hemra er Harvith et rend fimra drethen. Othrún er Harvith pubra rend threm renwen. Rend eom bludwirdra. Skathár halwen hem buwra. Skathrik nawra.]{lang=varo}
@@ -1065,7 +1065,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The Wall {#wall}
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Rend niwen stanwe orwe warld. Hem harve hem feor jiwra. Hem weir oht wenga utwe.]{.nativefont lang=varo}
 2 [The ninth stands on the wall. His work. He sees eight leave.]{lang=en}
 2 [Rend niwen stanwe orwe warld. Hem harve hem feor jiwra. Hem weir oht wenga utwe.]{lang=varo}
@@ -1134,7 +1134,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Marwen mi brekri madrim thum eom er threm. Rend thei othlin er hraldar thum eom. Marwen mi tusk thum rend threm. Tusk wenga rewa mi fimra.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [War Chief malwen ter rend niwen.]{.nativefont lang=varo}
 2 [The War Chief speaks to the ninth.]{lang=en}
 2 [War Chief malwen ter rend niwen.]{lang=varo}
@@ -1148,13 +1148,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Tavra frath ter wi. Frath stewra. Na tavra mawen orwe dreth.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rend niwen malwen.]{lang=varo}
 2 [The ninth speaks.]{lang=en}
 2 [Rend niwen malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Fedr tenra thei. Threm er hemwen thum junri marwen. Hemwen nemra nefren et wathra eith. Eom thum thri. Eom thum wi.]{.nativefont lang=varo}
 2 [Forty-two. Three boys take their names this spring. One is you. One is me.]{lang=en}
 2 [Fedr tenra thei. Threm er hemwen thum junri marwen. Hemwen nemra nefren et wathra eith. Eom thum thri. Eom thum wi.]{lang=varo}
@@ -1172,7 +1172,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Wi na wenga ter samen er werla. Derwen wi malwen wi na wenga. Fimra marwen hru wi malwen hem. Meora dran hru andwe malwa.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Hem stanwe orwe warld thurwe rend thei grema. Warld thum hrelmi.]{.nativefont lang=varo}
 2 [He stands on the wall through the second winter. The wall is quiet.]{lang=en}
 2 [Hem stanwe orwe warld thurwe rend thei grema. Warld thum hrelmi.]{lang=varo}
@@ -1182,7 +1182,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Nawen denger komwe howen seorwen. Nawen denger komwe niwer ruvith. Nawen mawen frulva warld.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Edrarún halwen harven er hem. Ukthe meld grasdri er hem. Hem ruwra skurth inwe werlen feor mothra.]{.nativefont lang=varo}
 2 [[Edrarún]{.name data-type="being/npc" lang=varo} holds her charge. The ox eats her hay. She turns loft pelts against moths.]{lang=en}
 2 [Edrarún halwen harven er hem. Ukthe meld grasdri er hem. Hem ruwra skurth inwe werlen feor mothra.]{lang=varo}
@@ -1234,7 +1234,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Hemra er Grimskorn harve eom wemra virwe eom glarth. Nawen andwe mawen komwe rewa ter hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rend threm grema. Skathrik virwe lestra threm er niwen. Lestra threm er Harvith kanda halwen gerth. Inwe samen er werla. Seir wredri theora. Rend niwen finwe Skathrik et ewreth. Hem wredi frar merga. Dreth er Grimskorn. Tenra eom. Dreth er Harvith. Tenra. Harvith et Othholt. Nawen. Wemra wenga ter Domholt virwe Eichwald mi othil. Hemwen nemra hrawen fran hemra feor wulra. Dreth er Harvith wenga ter Domholt mi othrún. Likwe malwa er hem.]{.nativefont lang=varo}
 2 [Third winter. [Skathrik]{.name data-type="being/npc" lang=varo} and the last three of nine. The last three [Harvith]{.name data-type="affiliation/lineage"} able to hold spears. In the grove. Six dead there. The ninth finds [Skathrik]{.name data-type="being/npc" lang=varo} at dusk. He dies before morning. [Grimskorn]{.name data-type="affiliation/lineage"} cord: eleven. [Harvith]{.name data-type="affiliation/lineage"} cord: ten. [Harvith]{.name data-type="affiliation/lineage"} at [Othholt]{.name data-type="place/settlement"}: none. Women go to [Domholt]{.name data-type="place/settlement"} and [Eichwald]{.name data-type="place/settlement" lang=varo} with children. They remove the hall’s roof for timber. The [Harvith]{.name data-type="affiliation/lineage"} cord goes to [Domholt]{.name data-type="place/settlement"} with the mistress, as she says.]{lang=en}
 2 [Rend threm grema. Skathrik virwe lestra threm er niwen. Lestra threm er Harvith kanda halwen gerth. Inwe samen er werla. Seir wredri theora. Rend niwen finwe Skathrik et ewreth. Hem wredi frar merga. Dreth er Grimskorn. Tenra eom. Dreth er Harvith. Tenra. Harvith et Othholt. Nawen. Wemra wenga ter Domholt virwe Eichwald mi othil. Hemwen nemra hrawen fran hemra feor wulra. Dreth er Harvith wenga ter Domholt mi othrún. Likwe malwa er hem.]{lang=varo}
@@ -1242,7 +1242,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The Grove Again {#grove}
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Inwe rend threm grema ruvith thum raghra gendre. Einwe sewren marwen stewra feor wenga.]{.nativefont lang=varo}
 2 [In the third winter the river is road again. Only seven men remain to walk it.]{lang=en}
 2 [Inwe rend threm grema ruvith thum raghra gendre. Einwe sewren marwen stewra feor wenga.]{lang=varo}
@@ -1294,25 +1294,25 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Rend niwen renkwa. Hem halwen warld threm grema. Warld thum hrelmi. Eith thum wilwen er halwen er hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skathrik malwen.]{lang=varo}
 2 [[Skathrik]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Skathrik malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Tavra hemwen feor wi. Wi na kanda weir ferni mawen. Tavra hemwen. Wi malwen weoren hem thum rethwi.]{.nativefont lang=varo}
 2 [Count them for me. I cannot see distant ones. Count them. I say whether it is correct.]{lang=en}
 2 [Tavra hemwen feor wi. Wi na kanda weir ferni mawen. Tavra hemwen. Wi malwen weoren hem thum rethwi.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rend niwen malwen.]{lang=varo}
 2 [The ninth speaks.]{lang=en}
 2 [Rend niwen malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Vristulf orwe isra et moreth. Brold helwen utwe. Er hemwen. Rend eom.]{.nativefont lang=varo}
 2 [[Vristulf]{.name data-type="being/npc" lang=varo} on ice at landing. Axe half out. Theirs. First.]{lang=en}
 2 [Vristulf orwe isra et moreth. Brold helwen utwe. Er hemwen. Rend eom.]{lang=varo}
@@ -1330,13 +1330,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Thei et moreth. Er hemwen. Thei orwe ruvith raghra. Er wemi. Seir hewra. Threm virwe threm. Thri. Wi tavra thei tenra.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skathrik malwen.]{lang=varo}
 2 [[Skathrik]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Skathrik malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thei tenra eom mi Armund. Je. Eoth thum tavren.]{.nativefont lang=varo}
 2 [Twenty-one with [Armund]{.name data-type="being/npc" lang=varo}. Yes. That is the number.]{lang=en}
 2 [Thei tenra eom mi Armund. Je. Eoth thum tavren.]{lang=varo}
@@ -1350,13 +1350,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Harvith marwen stewra we.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rend niwen malwen.]{lang=varo}
 2 [The ninth speaks.]{lang=en}
 2 [Rend niwen malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nawen kanda stanwe. Wemra wenga ter Domholt et wathra mi othil.]{.nativefont lang=varo}
 2 [None able to stand. Women go to [Domholt]{.name data-type="place/settlement"} at thaw with children.]{lang=en}
 2 [Nawen kanda stanwe. Wemra wenga ter Domholt et wathra mi othil.]{lang=varo}
@@ -1366,13 +1366,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Junri wemra thum inwe hemra er mowen er thri. Er Armund. Hem thum er hemwen et eom zalra.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skathrik malwen.]{lang=varo}
 2 [[Skathrik]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Skathrik malwen.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Derwe hem thum lestra er hemwen hewra. Lestra er wemi. Hem harve thewen hemra.]{.nativefont lang=varo}
 2 [She is their last here. Our last. She has both halls.]{lang=en}
 2 [Derwe hem thum lestra er hemwen hewra. Lestra er wemi. Hem harve thewen hemra.]{lang=varo}
@@ -1407,7 +1407,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Othrún durna hem. Hem weir bereth. Hem malwen. Wi helwen hem eom renwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Hemwen glarna Skathrik et moreth mi gerth er hem virwe brold er hem. Weskwar ferwa hem. Othrún er Grimskorn sedra sider glarth nather brenth. Hem na meld. Hem wredi inwe eoth grema. Hemwen legwe hem inwe hrum mi othma er hem. Grimskorn et Othholt. Árhilda. Oht grema. Inwe hemra. Halwen glarth.]{.nativefont lang=varo}
 2 [They burn [Skathrik]{.name data-type="being/npc" lang=varo} at the landing with his spear and axe. The Shaman leads it. The [Grimskorn]{.name data-type="affiliation/lineage"} mistress sits beside fire after the pyre. She does not eat. She dies that winter. They lay her in the mound with her family. [Grimskorn]{.name data-type="affiliation/lineage"} at [Othholt]{.name data-type="place/settlement"}: [Árhilda]{.name data-type="being/npc" lang=varo}. Eight winters. Inside the hall. Keeping fire.]{lang=en}
 2 [Hemwen glarna Skathrik et moreth mi gerth er hem virwe brold er hem. Weskwar ferwa hem. Othrún er Grimskorn sedra sider glarth nather brenth. Hem na meld. Hem wredi inwe eoth grema. Hemwen legwe hem inwe hrum mi othma er hem. Grimskorn et Othholt. Árhilda. Oht grema. Inwe hemra. Halwen glarth.]{lang=varo}
@@ -1415,7 +1415,7 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 
 : The Knot {#knot}
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Hemwen smiwra brenth et moreth. Isra thum theora inwe rend eom grema. Grimskorn glarna theora.]{.nativefont lang=varo}
 2 [They make the pyre at the landing. The first winter’s ice lies there. [Grimskorn]{.name data-type="affiliation/lineage"} burns there.]{lang=en}
 2 [Hemwen smiwra brenth et moreth. Isra thum theora inwe rend eom grema. Grimskorn glarna theora.]{lang=varo}
@@ -1518,13 +1518,13 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Thei Othmund. Marwen virwe wemri bemra er hem fran sudren. Helwen er Harvith er samen er werla ter othwa er Armund.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Edrarún malwen.]{lang=varo}
 2 [[Edrarún]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Edrarún malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Tenra drethen ter tenra. Eowri. Likwe wanra welna. Eom drethen stewra. Rend eom.]{.nativefont lang=varo}
 2 [Ten knots against ten. Equal, as custom decides. One remains. The first.]{lang=en}
 2 [Tenra drethen ter tenra. Eowri. Likwe wanra welna. Eom drethen stewra. Rend eom.]{lang=varo}
@@ -1538,31 +1538,31 @@ The lay itself is held word for word, as a _drunga_ is, and it is a lay of speec
 2 [Heir nemra hem.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Árhilda malwen.]{lang=varo}
 2 [[Árhilda]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Árhilda malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nawen mawen utwer wi thum.]{.nativefont lang=varo}
 2 [Nobody exists but me.]{lang=en}
 2 [Nawen mawen utwer wi thum.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Edrarún malwen.]{lang=varo}
 2 [[Edrarún]{.name data-type="being/npc" lang=varo} speaks.]{lang=en}
 2 [Edrarún malwen.]{lang=varo}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Derwe thri. Halwen luren.]{.nativefont lang=varo}
 2 [Then you. Hold the end.]{lang=en}
 2 [Derwe thri. Halwen luren.]{lang=varo}
 ```
 
-```verse {form=drunga lang=en cols=2}
+```verse {form=drunga lang=en cols=2} numstep=5
 1 [Thei fran sudren stanwe inwe durwen. Likwe bodren ter hemwen. Snewra orwe hrold er hemwen.]{.nativefont lang=varo}
 2 [The southerners stand in the door as ordered, snow on shoulders.]{lang=en}
 2 [Thei fran sudren stanwe inwe durwen. Likwe bodren ter hemwen. Snewra orwe hrold er hemwen.]{lang=varo}

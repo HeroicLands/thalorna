@@ -23,7 +23,7 @@ The tally runs from the four who died since the thaw, through the dead with deed
 
 : Eichthúl eldskorn {#eichthuleldskorn}
 
-```verse {form=eldskorn lang=en cols=2}
+```verse {form=eldskorn lang=en cols=2} numstep=5
 1 [_Eldri mawen er neri sta er gloth harve skarwen._]{lang=varo}
 2 [_The eldest at the near hearth has the staff._]{lang=en}
 2 [_Eldri mawen er neri sta er gloth harve skarwen._]{lang=varo}
