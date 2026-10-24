@@ -5521,7 +5521,7 @@ data:
       field: Doing, going and being
       gloss: "break"
 
-    - form: finathen
+    - form: pínathen
       class: v
       field: Doing, going and being
       gloss: "find"
@@ -5784,7 +5784,7 @@ data:
       gloss: "nearness"
       source: {kind: coined}
 
-    - form: fralel
+    - form: thrálel
       class: n
       field: The land in keeping
       gloss: "apron"
@@ -5856,7 +5856,7 @@ data:
       gloss: "drover"
       source: {kind: coined}
 
-    - form: fundris
+    - form: thoudrin
       class: n
       field: The land in keeping
       gloss: "step"
@@ -6220,6 +6220,258 @@ data:
       class: adv
       field: Numbers and grammar words
       gloss: "early"
+      source: {kind: coined}
+
+    - form: thoudron
+      class: n
+      field: The land in keeping
+      gloss: "foot orbaseof a road"
+      source: {kind: coined}
+
+    - form: kárnis
+      class: n
+      field: Craft, coin and the market
+      gloss: "cheese"
+      source: {kind: coined}
+
+    - form: kérthon
+      class: n
+      field: The land in keeping
+      gloss: "ore"
+      source: {kind: coined}
+
+    - form: pirnon
+      class: n
+      field: The land in keeping
+      gloss: "barley"
+      source: {kind: coined}
+
+    - form: nolgrathen
+      class: v
+      field: Doing, going and being
+      gloss: "swear an oath"
+      source: {kind: coined}
+
+    - form: kérathen
+      class: v
+      field: Doing, going and being
+      gloss: "dig"
+      source: {kind: coined}
+
+    - form: kérand
+      class: n
+      field: Craft, coin and the market
+      gloss: "digger"
+      source: {kind: coined}
+
+    - form: dúrgand
+      class: n
+      field: Craft, coin and the market
+      gloss: "smith"
+      source: {kind: coined}
+
+    - form: gúrvel
+      class: n
+      field: Craft, coin and the market
+      gloss: "tongs"
+      source: {kind: coined}
+
+    - form: hendulon
+      class: n
+      field: The house and the street
+      gloss: "charcoal"
+      source: {kind: coined}
+
+    - form: lánthevron
+      class: n
+      field: The land in keeping
+      gloss: "river barge"
+      source: {kind: coined}
+
+    - form: méldathen
+      class: v
+      field: Doing, going and being
+      gloss: "kiss"
+      source: {kind: coined}
+
+    - form: tárnathen
+      class: v
+      field: Doing, going and being
+      gloss: "bake bread"
+      source: {kind: coined}
+
+    - form: méthron
+      class: n
+      field: Craft, coin and the market
+      gloss: "measuring rod"
+      source: {kind: coined}
+
+    - form: rapalon
+      class: n
+      field: The land in keeping
+      gloss: "spoil from digging"
+      source: {kind: coined}
+
+    - form: kéldron
+      class: n
+      field: Craft, coin and the market
+      gloss: "pickaxe"
+      source: {kind: coined}
+
+    - form: réinsalve
+      class: n
+      field: The land in keeping
+      gloss: "rowan"
+      source: {kind: coined}
+
+    - form: antherar
+      class: adj
+      field: Qualities
+      gloss: "bare, uncovered"
+      source: {kind: coined}
+
+    - form: úrkendra
+      class: n
+      field: The land in keeping
+      gloss: "generation"
+      source: {kind: coined}
+
+    - form: vreinar
+      class: adj
+      field: Qualities
+      gloss: "wide"
+      source: {kind: coined}
+
+    - form: mirlathron
+      class: n
+      field: The wood and its weather
+      gloss: "plough/furrow, a ploughedline in soil"
+      source: {kind: coined}
+
+    - form: sirláth
+      class: n
+      field: The wood and its weather
+      gloss: "quay"
+      source: {kind: coined}
+
+    - form: kérthron
+      class: n
+      field: The bard and the word
+      gloss: "click sound of the high tongue"
+      source: {kind: coined}
+
+    - form: méndathen
+      class: v
+      field: Doing, going and being
+      gloss: "assemble"
+      source: {kind: coined}
+
+    - form: telgis
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: "legal right or prerogative"
+      source: {kind: coined}
+
+    - form: sóthon
+      class: n
+      field: Craft, coin and the market
+      gloss: "tax"
+      source: {kind: coined}
+
+    - form: ráethathen
+      class: v
+      field: Doing, going and being
+      gloss: "answer"
+      source: {kind: coined}
+
+    - form: vredis
+      class: n
+      field: Craft, coin and the market
+      gloss: "breadth"
+      source: {kind: coined}
+
+    - form: kénathen
+      class: v
+      field: Doing, going and being
+      gloss: "call or summon"
+      source: {kind: coined}
+
+    - form: grienathen
+      class: v
+      field: Doing, going and being
+      gloss: "climb"
+      source: {kind: coined}
+
+    - form: dráemelon
+      class: n
+      field: The land in keeping
+      gloss: "arm of a wall"
+      source: {kind: coined}
+
+    - form: ílsevar
+      class: n
+      field: The wood and its weather
+      gloss: "hart, male deer"
+      source: {kind: coined}
+
+    - form: súldathen
+      class: v
+      field: Doing, going and being
+      gloss: "hunt; distinct from priornewtárnathen bake"
+      source: {kind: coined}
+
+    - form: pérnis
+      class: n
+      field: The wood and its weather
+      gloss: "bracken"
+      source: {kind: coined}
+
+    - form: íelne
+      class: n
+      field: The wood and its weather
+      gloss: "yew"
+      source: {kind: coined}
+
+    - form: váknar
+      class: adj
+      field: Qualities
+      gloss: "awake"
+      source: {kind: coined}
+
+    - form: dryénathen
+      class: v
+      field: Doing, going and being
+      gloss: "ride"
+      source: {kind: coined}
+
+    - form: séimarhalthon
+      class: n
+      field: The Pact, the oath and the judgment
+      gloss: "chancery"
+      source: {kind: coined}
+
+    - form: laethar
+      class: adj
+      field: Qualities
+      gloss: "invited"
+      source: {kind: coined}
+
+    - form: snerne
+      class: adj
+      field: Qualities
+      gloss: "few"
+      source: {kind: coined}
+
+    - form: greisand
+      class: n
+      field: Craft, coin and the market
+      gloss: "soldier"
+      source: {kind: coined}
+
+    - form: marlar
+      class: adj
+      field: Qualities
+      gloss: "spoken"
       source: {kind: coined}
 
   names:

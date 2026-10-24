@@ -115,9 +115,9 @@ The verses are in iambic tetrameter, rhymed in couplets.
 2 [The voice goes alone within the unknown house.]{lang=en}
 2 [Róugathen al rundis ukar rith al ansárgar halthon.]{lang=elav}
 
-1 [Gyese gélgathen gene gire goure, finathen gene al thraemis.]{.nativefont lang=elav}
+1 [Gyese gélgathen gene gire goure, pínathen gene al thraemis.]{.nativefont lang=elav}
 2 [If it loses itself there, it finds the hand.]{lang=en}
-2 [Gyese gélgathen gene gire goure, finathen gene al thraemis.]{lang=elav}
+2 [Gyese gélgathen gene gire goure, pínathen gene al thraemis.]{lang=elav}
 
 1 [Géilathen al thraemis al tenar; árnathen al rundis.]{.nativefont lang=elav}
 2 [The hand keeps truth; the voice returns.]{lang=en}
