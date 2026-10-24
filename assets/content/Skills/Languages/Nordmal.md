@@ -457,6 +457,78 @@ data:
     - { form: Vithgard }
     - { form: Nordlands }
   words:
+    - { "form": "dulvma", "class": "n", "field": "Everyday speech", "gloss": "darkness" }
+    - {
+        "form": "gnumrand",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "rim of a vessel or well",
+      }
+    - { "form": "hugvirdi", "class": "n", "field": "Everyday speech", "gloss": "wisdom" }
+    - { "form": "spurnma", "class": "n", "field": "Everyday speech", "gloss": "question" }
+    - {
+        "form": "vathgnum",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "well holding water",
+      }
+    - { "form": "bjartma", "class": "n", "field": "Everyday speech", "gloss": "brightness" }
+    - {
+        "form": "njorvi",
+        "class": "adj/adverb",
+        "field": "Everyday speech",
+        "gloss": "deep, deeply",
+      }
+    - { "form": "andrma", "class": "n", "field": "Everyday speech", "gloss": "answer" }
+    - { "form": "ulfva", "class": "n", "field": "Everyday speech", "gloss": "wolf" }
+    - { "form": "veturma", "class": "n", "field": "Everyday speech", "gloss": "winter" }
+    - { "form": "skeldma", "class": "n", "field": "Everyday speech", "gloss": "binding or bond" }
+    - { "form": "trunri", "class": "n", "field": "Everyday speech", "gloss": "believer" }
+    - { "form": "hugvorni", "class": "n", "field": "Everyday speech", "gloss": "counselor" }
+    - { "form": "hugvorn", "class": "n", "field": "Everyday speech", "gloss": "counsel" }
+    - { "form": "brustmelti", "class": "n", "field": "Everyday speech", "gloss": "breastplate" }
+    - { "form": "haraf", "class": "n", "field": "Everyday speech", "gloss": "haft" }
+    - { "form": "falgva", "class": "n", "field": "Everyday speech", "gloss": "the dead as a body" }
+    - { "form": "gandma", "class": "n", "field": "Everyday speech", "gloss": "word, an utterance" }
+    - { "form": "hildma", "class": "n", "field": "Everyday speech", "gloss": "goodness, virtue" }
+    - { "form": "lerma", "class": "n", "field": "Everyday speech", "gloss": "learning" }
+    - { "form": "skifna", "class": "adj", "field": "Everyday speech", "gloss": "open, accessible" }
+    - { "form": "ratma", "class": "n", "field": "Everyday speech", "gloss": "religious rite" }
+    - { "form": "runkefli", "class": "n", "field": "Everyday speech", "gloss": "rune stave" }
+    - { "form": "snuldri", "class": "n", "field": "Everyday speech", "gloss": "drinker" }
+    - {
+        "form": "skuld dingi",
+        "class": "phrase",
+        "field": "Everyday speech",
+        "gloss": "payment token, coin or other thing paid; ordinarycomposition of debt plus thing, no newformation rule",
+      }
+    - { "form": "farni", "class": "adj", "field": "Everyday speech", "gloss": "relinquished" }
+    - { "form": "nodri", "class": "adj", "field": "Everyday speech", "gloss": "given over" }
+    - { "form": "vaktmann", "class": "n", "field": "Everyday speech", "gloss": "watcher" }
+    - { "form": "hrafna", "class": "n", "field": "Everyday speech", "gloss": "raven" }
+    - { "form": "runva", "class": "n", "field": "Everyday speech", "gloss": "rune" }
+    - { "form": "skuldnod", "class": "n", "field": "Everyday speech", "gloss": "payment, paying" }
+    - { "form": "vathfarda", "class": "n", "field": "Everyday speech", "gloss": "current of water" }
+    - { "form": "motva", "class": "n", "field": "Everyday speech", "gloss": "shape" }
+    - { "form": "lesma", "class": "n", "field": "Everyday speech", "gloss": "reading" }
+    - { "form": "smivna", "class": "adj", "field": "Everyday speech", "gloss": "made" }
+    - { "form": "smivma", "class": "n", "field": "Everyday speech", "gloss": "deed, work done" }
+    - { "form": "eidva", "class": "n", "field": "Everyday speech", "gloss": "oath" }
+    - { "form": "skenri", "class": "n", "field": "Everyday speech", "gloss": "witness" }
+    - { "form": "nemma", "class": "n", "field": "Everyday speech", "gloss": "receiving, taking" }
+    - { "form": "felni", "class": "adj", "field": "Everyday speech", "gloss": "hidden" }
+    - {
+        "form": "forhugskensa",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "foresight, vision of a futureevent",
+      }
+    - {
+        "form": "vuldmel",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "bread made of grain",
+      }
     - { "form": "dirna", "class": "v", "field": "Everyday speech", "gloss": "sing a lay or song" }
     - {
         "form": "njorva",
@@ -1614,8 +1686,8 @@ data:
       field: Everyday speech
       concept: awe
     - form: lufna
-      class: n
-      gloss: affection; warm, caring regard for someone
+      class: n/v
+      gloss: affection; warm, caring regard for someone; also, to love or feel affection for someone
       field: Everyday speech
       concept: affection
     - form: lufna na parvi

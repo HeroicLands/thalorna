@@ -492,7 +492,7 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 2 [Ul vrondri samna theri.]{lang=nord}
 
 1 [Vigvoll vindri nifra fundi na thenva.]{.nativefont lang=nord}
-2 [Vigvoll waits beneath their feet.]{lang=en}
+2 [[[place-vigvoll|Vigvoll]] waits beneath their feet.]{lang=en}
 2 [Vigvoll vindri nifra fundi na thenva.]{lang=nord}
 
 1 [Eldva komri. It es storg.]{.nativefont lang=nord}
@@ -504,7 +504,7 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 2 [Askva vindri firn eldna.]{lang=nord}
 
 1 [Asguard stann nifra nelth than.]{.nativefont lang=nord}
-2 [Asguard stands beneath that doom.]{lang=en}
+2 [[[place-asguard|Asguard]] stands beneath that doom.]{lang=en}
 2 [Asguard stann nifra nelth than.]{lang=nord}
 
 1 [Thrunvald metva storg ormla.]{.nativefont lang=nord}
