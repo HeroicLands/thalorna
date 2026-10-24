@@ -10,3 +10,5 @@
 - Vuldgeldra sets the Grain-Praise and its teacher’s glosses in Nordmal beside a fresh English translation and Roman reading.
 - Skjalfgeir sets the Mark and the Knowing in Nordmal beside a fresh English translation and Roman reading.
 - Motmál sets the Maker’s speech-poem in Nordmal beside a fresh English translation and Roman reading.
+- The Saga of Skrilmil Stormborn sets the stormborn hero’s telling in Nordmal beside a fresh English translation and Roman reading.
+- Valdrengir sets the Muster of the Worthy in Nordmal beside a fresh English translation and Roman reading.

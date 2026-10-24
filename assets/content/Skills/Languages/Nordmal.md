@@ -4551,9 +4551,10 @@ data:
       field: Everyday speech
       concept: apparently
     - form: marlri
-      class: adv
+      class: adv/n
       gloss: "supposedly; according to what someone says, without the speaker's
-        endorsement. Hanv es folmi marlri: supposedly, he is ill."
+        endorsement. Hanv es folmi marlri: supposedly, he is ill.; also,
+        speaker"
       field: Everyday speech
       concept: supposedly
     - form: thrum
@@ -6277,6 +6278,142 @@ data:
       class: n
       field: Everyday speech
       gloss: door sill
+    - form: skalfna
+      class: v
+      field: Everyday speech
+      gloss: shake
+    - form: taspva
+      class: n
+      field: Everyday speech
+      gloss: spark
+    - form: skeldva
+      class: n
+      field: Everyday speech
+      gloss: shield
+    - form: snarva
+      class: n
+      field: Everyday speech
+      gloss: braid
+    - form: vigri
+      class: n
+      field: Everyday speech
+      gloss: fighter
+    - form: isregva
+      class: n
+      field: Everyday speech
+      gloss: sleet
+    - form: skromhofna
+      class: n
+      field: Everyday speech
+      gloss: summit, mountain peak
+    - form: hovmarl
+      class: n
+      field: Everyday speech
+      gloss: prayer
+    - form: rubna
+      class: v
+      field: Everyday speech
+      gloss: fail or give out physically
+    - form: knurthma
+      class: n
+      field: Everyday speech
+      gloss: exertion
+    - form: tamkva
+      class: n
+      field: Everyday speech
+      gloss: trust
+    - form: makri
+      class: adj
+      field: Everyday speech
+      gloss: stored
+    - form: largma
+      class: n
+      field: Everyday speech
+      gloss: daylight
+    - form: Seidri
+      class: n
+      field: Everyday speech
+      gloss: witch, practitioneroftrancecraft, notgenderinflection
+    - form: isstorma
+      class: n
+      field: Everyday speech
+      gloss: blizzard
+    - form: knelda
+      class: v
+      field: Everyday speech
+      gloss: bind
+    - form: tavrna
+      class: adj
+      field: Everyday speech
+      gloss: counted
+    - form: samnri
+      class: adj/n
+      field: Everyday speech
+      gloss: gathered
+    - form: linvef
+      class: n
+      field: Everyday speech
+      gloss: linen
+    - form: kinlisveld
+      class: n
+      field: Everyday speech
+      gloss: cradle
+    - form: skeldmann
+      class: n
+      field: Everyday speech
+      gloss: shield warrior
+    - form: melknel
+      class: n
+      field: Everyday speech
+      gloss: rivet
+    - form: eidmann
+      class: n
+      field: Everyday speech
+      gloss: oath keeper
+    - form: hestva
+      class: n
+      field: Everyday speech
+      gloss: horse
+    - form: bervna
+      class: adj
+      field: Everyday speech
+      gloss: carried
+    - form: brakma
+      class: n
+      field: Everyday speech
+      gloss: destruction
+    - form: hugmol
+      class: n
+      field: Everyday speech
+      gloss: fool
+    - form: gnumsmivri
+      class: n
+      field: Everyday speech
+      gloss: potter
+    - form: skeldstorm
+      class: n
+      field: Everyday speech
+      gloss: shield storm, battle (lexicalizedkenning)
+    - form: nazma
+      class: n
+      field: Everyday speech
+      gloss: arrival
+    - form: rundvid
+      class: n
+      field: Everyday speech
+      gloss: potter's wheel
+    - form: hlevma
+      class: n
+      field: Everyday speech
+      gloss: sheltering
+    - form: rustrna
+      class: adj
+      field: Everyday speech
+      gloss: rusted
+    - form: esgni
+      class: n
+      field: Everyday speech
+      gloss: soul
   naming:
     edges:
       - edge: openConsonant
