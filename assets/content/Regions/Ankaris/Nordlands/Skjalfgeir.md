@@ -18,7 +18,7 @@ A rune-hall recitation praises Skjalfgeir as the All-Father's sign of precision 
 
 : The Mark and the Knowing
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Komri tiv therma na lang sveld.]{.nativefont lang=nord}
 2 [Come to the benches' warmth.]{lang=en}
 2 [Komri tiv therma na lang sveld.]{lang=nord}

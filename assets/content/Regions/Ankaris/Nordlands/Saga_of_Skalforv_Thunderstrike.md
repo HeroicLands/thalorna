@@ -17,7 +17,7 @@ Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-sklfrvth
 
 : Saga of Skalforv Thunderstrike {#saga}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Slak vidma or lang sveld.]{.nativefont lang=nord}
 2 [Strike wood upon benches.]{lang=en}
 2 [Slak vidma or lang sveld.]{lang=nord}

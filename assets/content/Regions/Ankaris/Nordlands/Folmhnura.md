@@ -23,7 +23,7 @@ data:
 
 : Folmhnura {#hnura}
 
-```verse {form=hnura lang=en cols=2}
+```verse {form=hnura lang=en cols=2} numstep=5
 1 [Ir stann.]{.nativefont lang=nord}
 2 [I stand.]{lang=en}
 2 [Ir stann.]{lang=nord}

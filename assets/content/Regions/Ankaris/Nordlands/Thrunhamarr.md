@@ -18,7 +18,7 @@ A coastal telling joins the hammer's battle and blessing in one refrain, carryin
 
 : The Hammer Held
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Hlusta hofna na hamri.]{.nativefont lang=nord}
 2 [Listen to the hammer's head.]{lang=en}
 2 [Hlusta hofna na hamri.]{lang=nord}

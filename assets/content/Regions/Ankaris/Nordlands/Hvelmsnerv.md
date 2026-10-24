@@ -25,7 +25,7 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 : Hvelmsnerv {#snerv}
 
-```verse {form=snerv lang=en cols=2}
+```verse {form=snerv lang=en cols=2} numstep=5
 1 [Ir es skald na hollva. Ir hav lang sveld siv dverna.]{.nativefont lang=nord}
 2 [I am the hall's singer. I had the bench beside the door.]{lang=en}
 2 [Ir es skald na hollva. Ir hav lang sveld siv dverna.]{lang=nord}

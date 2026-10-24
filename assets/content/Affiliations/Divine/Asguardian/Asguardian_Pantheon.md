@@ -94,7 +94,7 @@ Beside the clergy gho the _velvur_, itinerant seeresses bound to no hov, who tra
 
 : The Ten and the Last Muster
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Samna hollva.]{.nativefont lang=nord}
 2 [Gather the hall.]{lang=en}
 2 [Samna hollva.]{lang=nord}

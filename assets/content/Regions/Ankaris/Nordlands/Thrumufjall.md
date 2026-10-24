@@ -28,7 +28,7 @@ A coastal telling follows Skrilmil's winter ascent and the clearing of the storm
 
 : The Climb Through White Weather
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Nafm skromi nifra snelma.]{.nativefont lang=nord}
 2 [Name the mountain under snow.]{lang=en}
 2 [Nafm skromi nifra snelma.]{lang=nord}

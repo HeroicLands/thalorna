@@ -16,7 +16,7 @@ The standard telling musters the honored dead on [[place-vigvoll|Vigvoll]] besid
 
 : The Muster of the Worthy
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Hverv komri tiv dverna.]{.nativefont lang=nord}
 2 [Who comes to doors?]{lang=en}
 2 [Hverv komri tiv dverna.]{lang=nord}

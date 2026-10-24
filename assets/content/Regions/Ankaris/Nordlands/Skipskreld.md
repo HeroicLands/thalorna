@@ -15,7 +15,7 @@ data:
 
 **Skipskreld**, the Ship-Flyting, is the party-piece of the fishing havens along the [[place-nordheim|Nordheim]] coast, and [[place-thraldfjord|Thraldfjord]] sings it on [[lore-midsumar|Midsomar]] bonfire night, after the low flames have been jumped and before anyone is too drunk to hold a line. Two singers each take a god, [[lore-thrunvalddty|Thrunvald]] and [[lore-velgrimurdty|Velgrímur]], and the haven takes the third part: the _hnerv_ (refrain) is "Row, then," shouted at whichever god has just lost an exchange, and shouted at both when nobody can tell. It is a _skreld_, a flyting, in the speech-meter the north keeps for the gods' own mouths—two short lines bound by one sound, then a long line that closes the thought—and the verse hangs on flat prose links that count the voyage in oar-strokes. The links are the haven's own and differ from one haven to the next; the opening link is given below in two versions, Thraldfjord's and [[place-raltholm|Raltholm]]'s, since the two are a half-day's row apart and will not agree on it. Where the song names the sea in other words it is the giant's blood, after the [[lore-thursblot|Thursblet]], and an oar is the pine that walks on it. [[place-thrumufjall|Thrumufjall]]'s Hofgudi does not allow the piece sung inside the hov, and says why: "The trickster wins too many of the exchanges, and a crew that has laughed at the right lines goes out remembering the wrong ones." [[place-malagna|Malagna]]'s ports sing their own version, in which Velgrímur wins more of them still. The one below is Thraldfjord's, as the haven's two best mouths have it.
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [At Thraldfjord thenva marl likva hern. Thrunvald ok Velgrímur gang tvar ber vatna inn skip miv tvei arvi. Thenva gang tiv Thrumufjall af strandva na dirma nel nafm. Snirna stap at solmid ok nel risna genda. Thrunvald kan hav snirna. Hanv eidna hlusi himra tiv Frodvin inn setma na barnva miv hondi or hamri. Barnva setna nura. Darni Thrunvald nem arvi. Velgrímur nel nem.]{.nativefont lang=nord}
 2 [At [[place-thraldfjord|Thraldfjord]] they tell it this way. [[lore-thrunvalddty|Thrunvald]] and [[lore-velgrimurdty|Velgrímur]] crossed open water in a two-oared ship toward [[place-thrumufjall|Thrumufjall]], from a shore the lay does not name. Wind stopped at noon and did not rise again. [[lore-thrunvalddty|Thrunvald]] could have wind. He promised [[[lore-frodvindty|Frodvin]] quiet sky while his barley set, hand upon hammer. The barley was setting. So [[lore-thrunvalddty|Thrunvald]] took an oar. [[lore-velgrimurdty|Velgrímur]] did not.]{lang=en}
 2 [At Thraldfjord thenva marl likva hern. Thrunvald ok Velgrímur gang tvar ber vatna inn skip miv tvei arvi. Thenva gang tiv Thrumufjall af strandva na dirma nel nafm. Snirna stap at solmid ok nel risna genda. Thrunvald kan hav snirna. Hanv eidna hlusi himra tiv Frodvin inn setma na barnva miv hondi or hamri. Barnva setna nura. Darni Thrunvald nem arvi. Velgrímur nel nem.]{lang=nord}
@@ -27,13 +27,13 @@ data:
 
 : Skipskreld {#skreld}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi Velgrímur.]{.nativefont lang=nord}
 2 [Take an oar, [[lore-velgrimurdty|Velgrímur]].]{lang=en}
 2 [Nem arvi Velgrímur.]{lang=nord}
@@ -47,13 +47,13 @@ data:
 2 [Tvei furva gang vatna hern. Eiv es na thuv.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Ir sken arvi.]{.nativefont lang=nord}
 2 [[I see the oar.]{lang=en}]{lang=en}
 2 [Ir sken arvi.]{lang=nord}
@@ -67,25 +67,25 @@ data:
 2 [Ir sken tveka af solmid. Tveka nel rurna.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Thuv es asva na hafra.]{.nativefont lang=nord}
 2 [[You are the sea's god.]{lang=en}]{lang=en}
 2 [Thuv es asva na hafra.]{lang=nord}
@@ -99,13 +99,13 @@ data:
 2 [Marl tiv vrell na thurs. Risna ok berva skip.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Himra es eidna.]{.nativefont lang=nord}
 2 [[The sky is promised.]{lang=en}]{lang=en}
 2 [Himra es eidna.]{lang=nord}
@@ -119,13 +119,13 @@ data:
 2 [tiv setma na barnva na hanv. Ir nel vakna snirna.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Brak it.]{.nativefont lang=nord}
 2 [[Break it.]{lang=en}]{lang=en}
 2 [Brak it.]{lang=nord}
@@ -139,25 +139,25 @@ data:
 2 [Frodvin es inn vangri miv tvei hondi or folmi mulkvil. Bakma na hanv es tiv hafra.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Barnva hugni.]{.nativefont lang=nord}
 2 [[Barley knows.]{lang=en}]{lang=en}
 2 [Barnva hugni.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [So vakna sjel.]{.nativefont lang=nord}
 2 [[Then wake yourself.]{lang=en}]{lang=en}
 2 [So vakna sjel.]{lang=nord}
@@ -171,13 +171,13 @@ data:
 2 [Legva it or furva ok drak. Eidva halv himra.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
 2 .[Arvna so.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald arvna. Hanv drak fjorv dek slak or rev. Skip vendri tiv skipfralm es fralm vegri na komri. Hanv gang tvar setvid ok drak fjorv dek or andra siv. Skip vendri genda. Skromrand na markva stann at samri sta na solmid miv solva or it. Velgrímur setva inn skipbast miv fundi hupra steadva. Hanv tavr slak skrang.]{.nativefont lang=nord}
 2 [[[lore-thrunvalddty|Thrunvald]] rowed forty strokes on the right. The ship turned until its prow faced the way it came. He crossed the thwart and pulled forty on the other side. It turned again. The headland they aimed for stood where it stood at noon, sunlight upon it. [[lore-velgrimurdty|Velgrímur]] sat aft with feet above ballast, counting strokes aloud.]{lang=en}
 2 [Thrunvald arvna. Hanv drak fjorv dek slak or rev. Skip vendri tiv skipfralm es fralm vegri na komri. Hanv gang tvar setvid ok drak fjorv dek or andra siv. Skip vendri genda. Skromrand na markva stann at samri sta na solmid miv solva or it. Velgrímur setva inn skipbast miv fundi hupra steadva. Hanv tavr slak skrang.]{lang=nord}
@@ -185,13 +185,13 @@ data:
 
 : Skipskreld, forty and forty {#skreld-2}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Fjorv dek ok fjorv dek.]{.nativefont lang=nord}
 2 [[Forty and forty.]{lang=en}]{lang=en}
 2 [Fjorv dek ok fjorv dek.]{lang=nord}
@@ -270,25 +270,25 @@ data:
 2 [Karn kinli or stevna hav plemir arva nura dan asva na eidva na hanv.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Hamri na thuv es than]{.nativefont lang=nord}
 2 [[Your hammer is that]{lang=en}]{lang=en}
 2 [Hamri na thuv es than]{lang=nord}
@@ -341,13 +341,13 @@ data:
 2 [Marl hnat hovnod kopra. Ir drak firn than.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Hovnod nel es skildva.]{.nativefont lang=nord}
 2 [[A blessing is no board.]{lang=en}]{lang=en}
 2 [Hovnod nel es skildva.]{lang=nord}
@@ -361,13 +361,13 @@ data:
 2 [Hov marl it. Gudi marl it. Spurni hnat thenva selva.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Trunri na thuv berva jarnva]{.nativefont lang=nord}
 2 [[Your believers carry iron]{lang=en}]{lang=en}
 2 [Trunri na thuv berva jarnva]{lang=nord}
@@ -407,25 +407,25 @@ data:
 2 [Eiv karnva or skromrand halv stevna af noll dingi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Asva na hafatvigri.]{.nativefont lang=nord}
 2 [[God of reavers.]{lang=en}]{lang=en}
 2 [Asva na hafatvigri.]{lang=nord}
@@ -465,25 +465,25 @@ data:
 2 [Darn vruna bandma spurni thuv. Hnir vangri thuv helma.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Vangri na gandma na ir.]{.nativefont lang=nord}
 2 [[The field of my word.]{lang=en}]{lang=en}
 2 [Vangri na gandma na ir.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Niv fundgang.]{.nativefont lang=nord}
 2 [[Nine steps.]{lang=en}]{lang=en}
 2 [Niv fundgang.]{lang=nord}
@@ -523,13 +523,13 @@ data:
 2 [inn mulva siv kvilheim. Ir tavr thenva firn thuv nura va.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
 2 .[Arvna so.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skald na Velgrímur nel nafm strandva na dvaunri karnva. Thraldfjord nod nafma na sjel. Thrunvald arvna framri. Skip nem vatna af solmid. At hurn ok tveidek slak it es hupra nif skildva. Darni hanv legva arvi inn ok nem skupva. Hanv skupna. Skupva es hvelm merv. It es einri dingi inn skip na Velgrímur berna inn. Hanv nel marl af hvarv. Dur slak nel es tavrna. At Thraldfjord kinli tavr skupma at sta na slak. Skald luvra thenva.]{.nativefont lang=nord}
 2 [The singer taking [[lore-velgrimurdty|Velgrímur]] names no harbor for the drowned men. [[place-thraldfjord|Thraldfjord]] supplies its own. [[lore-thrunvalddty|Thrunvald]] rowed onward. The ship took water since noon. At stroke one hundred twenty it rose above the bottom boards. He shipped his oar, took the scoop and bailed. The scoop was whale bone: the only thing aboard brought by [[lore-velgrimurdty|Velgrímur]]. He did not say from where. Strokes went uncounted for a while. At [[place-thraldfjord|Thraldfjord]] children count scoops instead, and the singer permits them.]{lang=en}
 2 [Skald na Velgrímur nel nafm strandva na dvaunri karnva. Thraldfjord nod nafma na sjel. Thrunvald arvna framri. Skip nem vatna af solmid. At hurn ok tveidek slak it es hupra nif skildva. Darni hanv legva arvi inn ok nem skupva. Hanv skupna. Skupva es hvelm merv. It es einri dingi inn skip na Velgrímur berna inn. Hanv nel marl af hvarv. Dur slak nel es tavrna. At Thraldfjord kinli tavr skupma at sta na slak. Skald luvra thenva.]{lang=nord}
@@ -537,13 +537,13 @@ data:
 
 : Skipskreld, the bailing {#skreld-3}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Skupna so. Skupna.]{.nativefont lang=nord}
 2 [[Bail then. Bail.]{lang=en}]{lang=en}
 2 [Skupna so. Skupna.]{lang=nord}
@@ -557,13 +557,13 @@ data:
 2 [It komri inn miv sjel. Thuv nel tharf spurni it.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Ir skupna. Thara ir arvna.]{.nativefont lang=nord}
 2 [[I bail. Then I row.]{lang=en}]{lang=en}
 2 [Ir skupna. Thara ir arvna.]{lang=nord}
@@ -616,19 +616,19 @@ data:
 2 [It stavi tiv islos. Thara helm skipsta hugni sta na it.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
 2 .[Arvna so.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Hov na ir es inn Malagna.]{.nativefont lang=nord}
 2 [My temples are in [[place-malagna|Malagna]].]{lang=en}
 2 [Hov na ir es inn Malagna.]{lang=nord}
@@ -642,13 +642,13 @@ data:
 2 [Mannva tharv luvra thuv inn. Noll dverna inn Malagna skif tiv hamri.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Trunri na thuv lork borgkring]{.nativefont lang=nord}
 2 [[Your believers end a siege]{lang=en}]{lang=en}
 2 [Trunri na thuv lork borgkring]{lang=nord}
@@ -662,13 +662,13 @@ data:
 2 [Thenva gang inn hupra varma inn nottva ok skif grend af inn.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Na thuv setva ut na it.]{.nativefont lang=nord}
 2 [[Yours sit outside it.]{lang=en}]{lang=en}
 2 [Na thuv setva ut na it.]{lang=nord}
@@ -682,13 +682,13 @@ data:
 2 [tiv grend skif miv sjel. Na ir es skifna at merga.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Eiv rettma na thuv.]{.nativefont lang=nord}
 2 [[Your one rule.]{lang=en}]{lang=en}
 2 [Eiv rettma na thuv.]{lang=nord}
@@ -702,13 +702,13 @@ data:
 2 [Tharv nel es darm na finvma na vri. Ul dingi nath it es firn selva.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [It es eiv rettma ok halvna.]{.nativefont lang=nord}
 2 [[It is one rule, kept.]{lang=en}]{lang=en}
 2 [It es eiv rettma ok halvna.]{lang=nord}
@@ -722,13 +722,13 @@ data:
 2 [na skipmann halv farn af murn na strandva.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Ir es inn Gnarthborg.]{.nativefont lang=nord}
 2 [I was in [[place-gnarthborg|Gnarthborg]].]{lang=en}
 2 [Ir es inn Gnarthborg.]{lang=nord}
@@ -768,25 +768,25 @@ data:
 2 [Nafma na ir es or stevna than. Marl tiv strandva hram it gang.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Tveka komri heim.]{.nativefont lang=nord}
 2 [[Both came home.]{lang=en}]{lang=en}
 2 [Tveka komri heim.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Tveka komri heim.]{.nativefont lang=nord}
 2 [[Both came home.]{lang=en}]{lang=en}
 2 [Tveka komri heim.]{lang=nord}
@@ -800,13 +800,13 @@ data:
 2 [Ul Gnarthborg hugda hovnod hav virdma na tvei hulva nura. Thenva hugda it komri af thuv.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
 2 .[Arvna so.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald arvna thrin dek slak at than. Skip vendri. At Thraldfjord skald na Velgrímur vindri firn strandva fror hanv kinda genda.]{.nativefont lang=nord}
 2 [[[lore-thrunvalddty|Thrunvald]] rowed thirty strokes at that. The ship turned. At [[place-thraldfjord|Thraldfjord]] [[lore-velgrimurdty|Velgrímur]]'s singer waits for the harbor before beginning again.]{lang=en}
 2 [Thrunvald arvna thrin dek slak at than. Skip vendri. At Thraldfjord skald na Velgrímur vindri firn strandva fror hanv kinda genda.]{lang=nord}
@@ -814,13 +814,13 @@ data:
 
 : Skipskreld, the twelve sagas {#skreld-4}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Dek ok tvei storald Thrunvald.]{.nativefont lang=nord}
 2 [Twelve sagas, [[lore-thrunvalddty|Thrunvald]].]{lang=en}
 2 [Dek ok tvei storald Thrunvald.]{lang=nord}
@@ -847,13 +847,13 @@ data:
 2 [Noll mannva dirna drakma ut. Noll hamri es inn it.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Seks ut. Seks inn.]{.nativefont lang=nord}
 2 [[Six out. Six in.]{lang=en}]{lang=en}
 2 [Seks ut. Seks inn.]{lang=nord}
@@ -906,13 +906,13 @@ data:
 2 [Nel tiv skald. Nel at blet. Nel miv hringva or arnva na hanv.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Hanv es nel rettva.]{.nativefont lang=nord}
 2 [[He was wrong.]{lang=en}]{lang=en}
 2 [Hanv es nel rettva.]{lang=nord}
@@ -926,13 +926,13 @@ data:
 2 [Tavra na hanv es skurt. Ir nel hlun marlma na snem skuldma na ir dan sannma.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Thuv farna hulva likva ormla.]{.nativefont lang=nord}
 2 [[You leave skin like a serpent.]{lang=en}]{lang=en}
 2 [Thuv farna hulva likva ormla.]{lang=nord}
@@ -972,13 +972,13 @@ data:
 2 [Hveri kinli or strandva hern ler lesna than fror luvma firn gang ut einri.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
 2 .[Arvna so.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [At Thraldfjord strandva kallar hnerv tvei renma theri. Skald na Thrunvald vindri. Raltholm skald nem ormla ok glasva ut. Thenva gang af skald tiv flatva vatna rettlang. Thenva marl Thraldfjord legva tvei inn firn smiv Thrunvald hravi plemir dan hanv es. Thara Thrunvald arvna genda. Hanv drak or rev tiv skip vendri genda ok es fralm skromrand. Hanv framna drak. Skip framna vendri. Hanv framna. Tvei hurn slak. Velgrímur stap tavr skrang.]{.nativefont lang=nord}
 2 [At [[place-thraldfjord|Thraldfjord]] the harbor calls the refrain twice there. [[lore-thrunvalddty|Thrunvald]]'s singer waits. [[place-raltholm|Raltholm]]'s singers omit serpent and glass, passing straight from singer to flat water. They say [[place-thraldfjord|Thraldfjord]] added both to make [[lore-thrunvalddty|Thrunvald]] quicker than he is. Then he rowed again, pulling on the right until the ship turned toward the headland. He kept pulling. The ship kept turning. He continued. Two hundred strokes. [[lore-velgrimurdty|Velgrímur]] stopped counting aloud.]{lang=en}
 2 [At Thraldfjord strandva kallar hnerv tvei renma theri. Skald na Thrunvald vindri. Raltholm skald nem ormla ok glasva ut. Thenva gang af skald tiv flatva vatna rettlang. Thenva marl Thraldfjord legva tvei inn firn smiv Thrunvald hravi plemir dan hanv es. Thara Thrunvald arvna genda. Hanv drak or rev tiv skip vendri genda ok es fralm skromrand. Hanv framna drak. Skip framna vendri. Hanv framna. Tvei hurn slak. Velgrímur stap tavr skrang.]{lang=nord}
@@ -986,85 +986,85 @@ data:
 
 : Skipskreld, two hundred strokes {#skreld-5}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Fanzva na thuv es inn skipnif.]{.nativefont lang=nord}
 2 [[Your beard is in the bilge.]{lang=en}]{lang=en}
 2 [Fanzva na thuv es inn skipnif.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Geitva na thuv nel nem thuv.]{.nativefont lang=nord}
 2 [[Your goats would not take you.]{lang=en}]{lang=en}
 2 [Geitva na thuv nel nem thuv.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Gudi na thuv snuld hovnod mildsnul sjel.]{.nativefont lang=nord}
 2 [[Your priest drinks the blessing mead himself.]{lang=en}]{lang=en}
 2 [Gudi na thuv snuld hovnod mildsnul sjel.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Skalfva. Merki na thuv es skalfva.]{.nativefont lang=nord}
 2 [[Shell. Your sign is a shell.]{lang=en}]{lang=en}
 2 [Skalfva. Merki na thuv es skalfva.]{lang=nord}
@@ -1091,25 +1091,25 @@ data:
 2 [Noll dingi Thrunvald. Skrang. Gudi nafm it hafra.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Nem arvi.]{.nativefont lang=nord}
 2 [[Take an oar.]{lang=en}]{lang=en}
 2 [Nem arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
 2 [Velgrímur marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Ir hav noll plemir firn thuv.]{.nativefont lang=nord}
 2 [[I have no more for you.]{lang=en}]{lang=en}
 2 [Ir hav noll plemir firn thuv.]{lang=nord}
@@ -1175,7 +1175,7 @@ data:
 2 [Hvorn ir es inn skip. Hvorn thuv halv ir inn it.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald nel andri firn hurn slak. Velgrímur tavr thenva. Hern renma hanv tavr nifra hluva. Strandva vendri hlusi firn hurn. Noll mannva tavr skrang. Kinli na kinda es stapna. At staf hurn Thrunvald legva arvi inn. Gandma na hanv es tvei lanma nel thrin. Noll strandva smiv staf thrin eiv renma.]{.nativefont lang=nord}
 2 [[[lore-thrunvalddty|Thrunvald]] did not answer for a hundred strokes. [[lore-velgrimurdty|Velgrímur]] counted, this time beneath breath. The harbor falls silent for the hundred. Nobody counts aloud. A child beginning is stopped. At the hundredth [[lore-thrunvalddty|Thrunvald]] shipped his oar. His words are two lines, not three. No harbor ever made the third.]{lang=en}
 2 [Thrunvald nel andri firn hurn slak. Velgrímur tavr thenva. Hern renma hanv tavr nifra hluva. Strandva vendri hlusi firn hurn. Noll mannva tavr skrang. Kinli na kinda es stapna. At staf hurn Thrunvald legva arvi inn. Gandma na hanv es tvei lanma nel thrin. Noll strandva smiv staf thrin eiv renma.]{lang=nord}
@@ -1183,13 +1183,13 @@ data:
 
 : Skipskreld, the two lines {#skreld-6}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
 2 [Thrunvald marl.]{lang=nord}
 ```
 
-```verse {form=skreld lang=en cols=2}
+```verse {form=skreld lang=en cols=2} numstep=5
 1 [Inn gludva hern thuv es inn skip.]{.nativefont lang=nord}
 2 [[Today you are in the ship.]{lang=en}]{lang=en}
 2 [Inn gludva hern thuv es inn skip.]{lang=nord}
@@ -1199,7 +1199,7 @@ data:
 2 [Nem andra arvi.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Velgrímur nem andra arvi. Thenva komri tiv strandva at dulvma. Slak af thara nel es tavrna eiv renma. Strandva hav lest lanma.]{.nativefont lang=nord}
 2 [[[lore-velgrimurdty|Velgrímur]] took the other oar. They reached shore at dark. Strokes after that have never been counted. The harbor has the final line.]{lang=en}
 2 [Velgrímur nem andra arvi. Thenva komri tiv strandva at dulvma. Slak af thara nel es tavrna eiv renma. Strandva hav lest lanma.]{lang=nord}
@@ -1207,7 +1207,7 @@ data:
 
 : Skipskreld, the last line {#skreld-7}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
 2 .[Arvna so.]{lang=nord}

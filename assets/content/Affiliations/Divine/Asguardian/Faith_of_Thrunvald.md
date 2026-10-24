@@ -71,7 +71,7 @@ Thrunvald is most famously shown wielding his hammer, [[lore-thrunhamarr|Thrúnh
 
 : The Hammer Raised
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Liftva hamri hurvi.]{.nativefont lang=nord}
 2 [Raise the hammer high.]{lang=en}
 2 [Liftva hamri hurvi.]{lang=nord}

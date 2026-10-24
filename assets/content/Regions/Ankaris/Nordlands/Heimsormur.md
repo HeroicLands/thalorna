@@ -20,7 +20,7 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 
 : The Wyrm in Two Tellings
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Njorva es dulvi. It kallar ner.]{.nativefont lang=nord}
 2 [The deep is dark. It calls us close.]{lang=en}
 2 [Njorva es dulvi. It kallar ner.]{lang=nord}

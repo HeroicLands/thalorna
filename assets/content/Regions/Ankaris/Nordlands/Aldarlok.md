@@ -22,7 +22,7 @@ The whole of it gives the faith its gravity and its particular cheerfulness. A p
 
 : While the Ash Stands
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Marl askva]{.nativefont lang=nord}
 2 [Tell the ash tree]{lang=en}
 2 [Marl askva]{lang=nord}

@@ -23,7 +23,7 @@ At [[place-vithgard|Vithgard]]'s great hov of [[affiliation-motefnir|Mótefnir]]
 
 : Motmál {#motmal}
 
-```verse {form=speech-poem lang=en cols=2}
+```verse {form=speech-poem lang=en cols=2} numstep=5
 1 [Gronma es theri.]{.nativefont lang=nord}
 2 [The ground was there.]{lang=en}
 2 [Gronma es theri.]{lang=nord}

@@ -17,7 +17,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Gnurthendik and the Dvirnendik
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Karnva hav nafma Gnurthorv. Hanv es na Gnurthendik. Thenva halv landri nifra rygva at sta na vathra komri af myrva. Thenva halv it af thima fror eldna na austva landri. Landheim na thima than gang eiv gludva nif vathra farn plemir dan nura. Thrin hrum stann or it. Eiv es na nafmri. Eiv es na karn kinli na hanv. Eiv es na fadra na Gnurthorv. Fadra komri heim af borgva or eldnri landri miv eiv arnva. Hanv smiv landji miv andra arnva thrin dek jerva. Gnurthendik kan nafm thrin at ting. Landri es odel na thenva. Gnurthorv es storg karnva miv fast havma. Hanv nod skyldva at spurnma. Hanv halv vakthim at borgva inn renma na sjel. Hanv nod noll lanva. Hanv setva helm gludva at ting firn hundva ok nem blimma. Mannvar minva hundva lang plemir dan smivma na hundva. Mannvar nel hugda hanv es hildi nerbua. Parma na hanv svelna af folmtherm inn dulvi munth sumri jerva fror hern. Hanv nel parmna genda. Hanv hav eiv karn kinli Gnarthann. Hanv es fulliv ak hav noll landri na sjel. Hanv smiv landji miv fadra. Mannvar hav lufna tiv hanv plemir dan tiv fadra.]{.nativefont lang=nord}
 2 [A man was named [Gnurthorv]{.name data-type="being/npc"}. He belonged to the [Gnurthendik]{.name data-type="affiliation/lineage"}, who hold the land beneath the ridge where the river leaves the marsh. They held it before the land eastward burned, when farms stretched another day's journey downriver. Three howes stand there: the name giver's, his son's, and [Gnurthorv]{.name data-type="being/npc"}'s father's. His father came home from a fort on burned land with one arm and farmed with the other for thirty years. The [Gnurthendik]{.name data-type="affiliation/lineage"} can name all three at the ting. They hold the land by inheritance. [Gnurthorv]{.name data-type="being/npc"} was a large man who held his property close. He paid dues when asked and served his weeks at forts in his turn. He lent nothing. Once he sat a whole day at the ting over a dog and won. People remembered the dog longer than its deed. They did not think him a good neighbor. His wife died of fever during the dark months some years before. He did not marry again. His one son, [Gnarthann]{.name data-type="being/npc"}, was grown but had no land. He worked the holding with his father. People liked him better.]{lang=en}
 2 [Karnva hav nafma Gnurthorv. Hanv es na Gnurthendik. Thenva halv landri nifra rygva at sta na vathra komri af myrva. Thenva halv it af thima fror eldna na austva landri. Landheim na thima than gang eiv gludva nif vathra farn plemir dan nura. Thrin hrum stann or it. Eiv es na nafmri. Eiv es na karn kinli na hanv. Eiv es na fadra na Gnurthorv. Fadra komri heim af borgva or eldnri landri miv eiv arnva. Hanv smiv landji miv andra arnva thrin dek jerva. Gnurthendik kan nafm thrin at ting. Landri es odel na thenva. Gnurthorv es storg karnva miv fast havma. Hanv nod skyldva at spurnma. Hanv halv vakthim at borgva inn renma na sjel. Hanv nod noll lanva. Hanv setva helm gludva at ting firn hundva ok nem blimma. Mannvar minva hundva lang plemir dan smivma na hundva. Mannvar nel hugda hanv es hildi nerbua. Parma na hanv svelna af folmtherm inn dulvi munth sumri jerva fror hern. Hanv nel parmna genda. Hanv hav eiv karn kinli Gnarthann. Hanv es fulliv ak hav noll landri na sjel. Hanv smiv landji miv fadra. Mannvar hav lufna tiv hanv plemir dan tiv fadra.]{lang=nord}
@@ -33,7 +33,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Walk
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [At Somarmál heimvaldri na vargrand gang merki na sjel miv samliv. Skenri firn landvordur gang miv thenva. Thenva lesna hveri merki skrang ok slak it. Tvei heimband kan marl sta na lanma nathri. Gnurthorv ok Dvurnthann gang merki inn merga nath skip gang inn vathra. Thenva smiv samri inn jerva fror hern. Dvurnthann firn heimla na sjel. Gnurthorv firn heimla na sjel. Staf eiv stevna es at samri sta. Staf tvei ok staf thrin aukri. At staf fjorv skenri stap. Hanv sken staf thrin ok staf femri. Thara staf fjorv genda. Hanv marl noll dingi. Dvurnthann marl stevna stann eiv fundgang inn grasnemma na hanv.]{.nativefont lang=nord}
 2 [At [[lore-sumarmal|Somarmál]] frontier householders walk their marks together. A witness for the landvordur accompanies them. They read every mark aloud and strike it, so both households can state its place afterward. [Gnurthorv]{.name data-type="being/npc"} and [Dvurnthann]{.name data-type="being/npc"} walked theirs the morning after ships entered the river, as they did the previous year. Each represented his house. The first stone stood in its old place. So did the second and third. At the fourth the witness stopped. He looked at the third and fifth, then the fourth again. He said nothing. [Dvurnthann]{.name data-type="being/npc"} said the stone stood a pace into his hay.]{lang=en}
 2 [At Somarmál heimvaldri na vargrand gang merki na sjel miv samliv. Skenri firn landvordur gang miv thenva. Thenva lesna hveri merki skrang ok slak it. Tvei heimband kan marl sta na lanma nathri. Gnurthorv ok Dvurnthann gang merki inn merga nath skip gang inn vathra. Thenva smiv samri inn jerva fror hern. Dvurnthann firn heimla na sjel. Gnurthorv firn heimla na sjel. Staf eiv stevna es at samri sta. Staf tvei ok staf thrin aukri. At staf fjorv skenri stap. Hanv sken staf thrin ok staf femri. Thara staf fjorv genda. Hanv marl noll dingi. Dvurnthann marl stevna stann eiv fundgang inn grasnemma na hanv.]{lang=nord}
@@ -57,7 +57,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : Gnurthorv's answer at the ting {#ting}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [Frostva smiv ji or vangri randva.]{.nativefont lang=nord}
 2 [Frost works the field's edge.]{lang=en}
 2 [Frostva smiv ji or vangri randva.]{lang=nord}
@@ -91,7 +91,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [Dingi na legva nif stavi nif.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Mannvar hugskel dirmlan hern inn plem vegri. Hrandmil es staf eiv karnva na Gnúmborinn. Noll mannva at ting spurni hnat Gnurthorv menra miv halvma na Hrandmil. Skenri marl nathri hanv hlun eiv karnva nefra dingi ok hav it inn samri hluva. Hanv nel hugni hnir helv hanv tharv eidna. Logmarlri marl ting nel kan sken stevna af sta na setva. Hanv legva malva tiv nasti Somarmál. Gangma es genda thara. Skenri kan marl vatha islos rurna merki bak. Tiv than staf fjorv stevna stavi at sta na it stann. Noll mannva legva hondi or it. Tvei karnva marl thenva samna. Dvirnselda komri tiv ting. Henva marl noll dingi theri. Henva marl plem or vegri heim.]{.nativefont lang=nord}
 2 [People understood the stanza in several ways. [Hrandmil]{.name data-type="being/npc" lang=nord} is the first man of the [[lore-gnumborinn|Gnúmborinn]]. Nobody asked what [Gnurthorv]{.name data-type="being/npc"} meant by keeping what [Hrandmil]{.name data-type="being/npc" lang=nord} kept. The witness said afterward he heard a man deny a thing and own it in one breath. He did not know which half he would be asked to swear. The Lawspeaker said the ting could not see the stone from its seat. He deferred the claim to next [[lore-sumarmal|Somarmál]]. They would walk again, and the witness could say whether thaw moved the mark back. Until then the fourth stone must stay where it stood. Nobody was to touch it. Both men agreed. [Dvirnselda]{.name data-type="being/npc"} attended the ting. She said nothing there and much on the road home.]{lang=en}
 2 [Mannvar hugskel dirmlan hern inn plem vegri. Hrandmil es staf eiv karnva na Gnúmborinn. Noll mannva at ting spurni hnat Gnurthorv menra miv halvma na Hrandmil. Skenri marl nathri hanv hlun eiv karnva nefra dingi ok hav it inn samri hluva. Hanv nel hugni hnir helv hanv tharv eidna. Logmarlri marl ting nel kan sken stevna af sta na setva. Hanv legva malva tiv nasti Somarmál. Gangma es genda thara. Skenri kan marl vatha islos rurna merki bak. Tiv than staf fjorv stevna stavi at sta na it stann. Noll mannva legva hondi or it. Tvei karnva marl thenva samna. Dvirnselda komri tiv ting. Henva marl noll dingi theri. Henva marl plem or vegri heim.]{lang=nord}
@@ -107,7 +107,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Rotation
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Hveri bundi inn Targud halv vakthim na sjel at borgva. Renma gang rund landband thru jerva. Eiv landband hav renma inn skipvakthim. Andir hav renma inn dulvi munth. Inn jerva than landband hern hav renma at midva na veturma. Hersvald tavr at Veturnetur. Nafma na Gnurthorv ok Dvurnthann es inn it. Tveka gang tiv Draskborg.]{.nativefont lang=nord}
 2 [Every [[lore-bondirnk|bundi]] in [[affiliation-kingdmtrgd|Targud]] serves weeks at forts in his turn. Rotations travel through districts across the year. One district serves in sailing weeks, another in dark months. This district's turn fell at midwinter. The [[lore-hersvaldrnk|hersvald]] counted at [[lore-veturnetur|Veturnetur]]. [Gnurthorv]{.name data-type="being/npc"} and [Dvurnthann]{.name data-type="being/npc"} were on the list. Both went to [[place-driskborg|Draskborg]].]{lang=en}
 2 [Hveri bundi inn Targud halv vakthim na sjel at borgva. Renma gang rund landband thru jerva. Eiv landband hav renma inn skipvakthim. Andir hav renma inn dulvi munth. Inn jerva than landband hern hav renma at midva na veturma. Hersvald tavr at Veturnetur. Nafma na Gnurthorv ok Dvurnthann es inn it. Tveka gang tiv Draskborg.]{lang=nord}
@@ -143,7 +143,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Lights on the Ice
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Fror lorka na Jel myrva isna krast. Vathra felga it. Iv vathra isna Grukar hav vegri. Vegri gang up siv Draskborg. Darni noll landband vril renma inn dulvi munth.]{.nativefont lang=nord}
 2 [Before [[lore-jol|Jel]] ended the marsh froze hard, then the river. A frozen river gives the [[lore-grukarfolk|Grukar]] a road past [[place-driskborg|Draskborg]]. That is why no district wants the dark months.]{lang=en}
 2 [Fror lorka na Jel myrva isna krast. Vathra felga it. Iv vathra isna Grukar hav vegri. Vegri gang up siv Draskborg. Darni noll landband vril renma inn dulvi munth.]{lang=nord}
@@ -163,7 +163,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : Dvurnthann on the walk {#lights}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [Krast or hrimva na thurs.]{.nativefont lang=nord}
 2 [Hard upon the giant's rime,]{lang=en}
 2 [Krast or hrimva na thurs.]{lang=nord}
@@ -197,7 +197,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [tiv hollva miv eldva na sjel.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nalthvir eldra dresk sjel. Dirmlan na borgva na eldra es hern. Borgva hav it fror ul andra storald. Einri helv na it stavi.]{.nativefont lang=nord}
 2 [[Nalthvir]{.name data-type="being/npc"} lit the beacon himself. The fort's lighting stanza follows. The fort had it before the rest of the saga. Only half remains.]{lang=en}
 2 [Nalthvir eldra dresk sjel. Dirmlan na borgva na eldra es hern. Borgva hav it fror ul andra storald. Einri helv na it stavi.]{lang=nord}
@@ -205,7 +205,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : The beacon {#beacon}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [Smul na Svartbrandur gang up]{.nativefont lang=nord}
 2 [Svartbrandur's tongue went up]{lang=en}
 2 [Smul na Svartbrandur gang up]{lang=nord}
@@ -223,7 +223,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [tuskma hersalm eldberi krul.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thara Nalthvir tavr karnva inn grendlanma. Hanv legva mannva na vigband forna fralm. Andra es bast thenva. Tavra gang nif lanma likva vakt na velnma. Darni Dvurnthann stann lev na Gnurthorv nifra randva na skeldva na hanv. Tavra legva hanv theri.]{.nativefont lang=nord}
 2 [[Nalthvir]{.name data-type="being/npc"} counted men into the gate row. Men with battle experience stood before those without. The count followed the watch assignments. [Dvurnthann]{.name data-type="being/npc"} stood on [Gnurthorv]{.name data-type="being/npc"}'s left, beneath his shield edge, because the count placed him there.]{lang=en}
 2 [Thara Nalthvir tavr karnva inn grendlanma. Hanv legva mannva na vigband forna fralm. Andra es bast thenva. Tavra gang nif lanma likva vakt na velnma. Darni Dvurnthann stann lev na Gnurthorv nifra randva na skeldva na hanv. Tavra legva hanv theri.]{lang=nord}
@@ -231,7 +231,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Gate
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Grukar komri up af galmva na vathra smil fror solrand. Thenva setva or isva nifra hlerth farn af bogma na skotma. Thenva vindri firn ljorma. Thenva es plemir dan karnva or hlerth. Thenva es snem dan ljorma forna. Plem ljorma es bervna tvei inn hondi firn svir plemir. Largma komri. Karnva or varma sken thenva. Smol inn thrung. Hurvi gang bast thenva. Sneri snervi stann farn or isva ok sken turnva. Thenva nel komri up. Noll mannva or varma pruva marl tiv thenva. Noll dingi es firn marl. Thenva andri noll dingi. Thenva mel velri mannva na berva af herni. Hveri karnva or hlerth hugni it.]{.nativefont lang=nord}
 2 [The [[lore-grukarfolk|Grukar]] came from the river bend shortly before dawn. They sat on ice below the rise, beyond bow range, waiting for light. More than the men on the rise, fewer than the lights: many lights were carried two to a hand to seem more numerous. Daylight showed the wall men what they were. Small ones massed together, tall ones behind. A few thin ones stayed out on ice watching the tower, without coming up. Nobody on the wall tried speaking to them. There was nothing to say and nothing they would answer. They eat anyone they carry away. Every man on the rise knew it.]{lang=en}
 2 [Grukar komri up af galmva na vathra smil fror solrand. Thenva setva or isva nifra hlerth farn af bogma na skotma. Thenva vindri firn ljorma. Thenva es plemir dan karnva or hlerth. Thenva es snem dan ljorma forna. Plem ljorma es bervna tvei inn hondi firn svir plemir. Largma komri. Karnva or varma sken thenva. Smol inn thrung. Hurvi gang bast thenva. Sneri snervi stann farn or isva ok sken turnva. Thenva nel komri up. Noll mannva or varma pruva marl tiv thenva. Noll dingi es firn marl. Thenva andri noll dingi. Thenva mel velri mannva na berva af herni. Hveri karnva or hlerth hugni it.]{lang=nord}
@@ -247,7 +247,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : Gnurthorv at the gatepost {#gatepost}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [Svul es ji na frostlan]{.nativefont lang=nord}
 2 [Cold is the frost line's work]{lang=en}
 2 [Svul es ji na frostlan]{lang=nord}
@@ -281,7 +281,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [Ir hallva or it. It tharf rurna.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Karnva nem menma ok gulna. Gnurthorv gulna miv thenva. Miv mervi na sjel.]{.nativefont lang=nord}
 2 [The men understood and laughed. [Gnurthorv]{.name data-type="being/npc"} laughed with them, carefully.]{lang=en}
 2 [Karnva nem menma ok gulna. Gnurthorv gulna miv thenva. Miv mervi na sjel.]{lang=nord}
@@ -293,7 +293,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : The gate {#gate}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [Thrin renma up hlerth]{.nativefont lang=nord}
 2 [Three times up the rise]{lang=en}
 2 [Thrin renma up hlerth]{lang=nord}
@@ -327,7 +327,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [Lev grendvid vendri raudva.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Staf thrin gludva helma komri tvar rygva af Tvalgard. Seks dek karnva or skila. Sleidva es bast. Hersvald es fralm. Snervi or isva sken thenva fror karnva or hlerth. Grukar gang bak nif vathra or samri vegri. Dirmlan na helma na borgva es hern.]{.nativefont lang=nord}
 2 [On the third day help crossed the ridge from [[place-tvalgard|Tvalgard]]: sixty men on skis, sledges behind, the [[lore-hersvaldrnk|hersvald]] ahead. Thin ones on the ice saw them before the men on the rise. The [[lore-grukarfolk|Grukar]] went back downriver by their old road. This is the fort's relief stanza.]{lang=en}
 2 [Staf thrin gludva helma komri tvar rygva af Tvalgard. Seks dek karnva or skila. Sleidva es bast. Hersvald es fralm. Snervi or isva sken thenva fror karnva or hlerth. Grukar gang bak nif vathra or samri vegri. Dirmlan na helma na borgva es hern.]{lang=nord}
@@ -335,7 +335,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : The relief {#relief}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [Tvar rygva snelma tiv solva]{.nativefont lang=nord}
 2 [Over ridge snow toward sun,]{lang=en}
 2 [Tvar rygva snelma tiv solva]{lang=nord}
@@ -371,7 +371,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Road Home
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thenva legva Gnurthorv or sleidva tiv Tvalgard miv andra sarmi mannva. Hanv marl inn plemir na staf eiv gludva. Plem na svulma. Hanv zumna na ferna na sleidva. Fernri marl nathri hanv marl vegri es skadri dan Grukar. Hanv es rettva na vegri. Inn nottva hanv stap marl. Hanv svelna fror skensa na Tvalgard varma inn staf tvei gludva. Dvurnthann gang siv sleidva helm vegri. Hanv hav skeldva na Gnurthorv or bakma. Thenva nod it tiv hanv at legva na barma or sleidva. Gnurthorv nel kan halv it. Fernri hav noll sta firn it. Noll mannva spurni firn it bak. At Tvalgard hersvald spurni vatha hanv stavi tiv lorka na vakthim ur gang heim miv knerv. Hanv marl hanv gang heim. Hersvald luvra it. Hersvald nod reidri fralm or landband vegri. Gnurthendik kinda smiv alva inn gludva na gandma komri.]{.nativefont lang=nord}
 2 [They put [Gnurthorv]{.name data-type="being/npc"} on a sledge for [[place-tvalgard|Tvalgard]] with other wounded men. He spoke most of the first day, largely about cold, and complained of the driving. Drivers said afterward he called the road worse than [[lore-grukarfolk|Grukar]], and was right about the road. At night he stopped speaking. He died on the second day before [[place-tvalgard|Tvalgard]]'s wall came into sight. [Dvurnthann]{.name data-type="being/npc"} walked beside the sledge throughout, [Gnurthorv]{.name data-type="being/npc"}'s shield on his back. They handed it to him while loading: [Gnurthorv]{.name data-type="being/npc"} could not hold it and drivers had no room. Nobody asked it back. At [[place-tvalgard|Tvalgard]] the [[lore-hersvaldrnk|hersvald]] asked whether he would finish his weeks or go home with the body. He chose home and received permission. The [[lore-hersvaldrnk|hersvald]] sent a rider ahead by the district road. [Gnurthendik]{.name data-type="affiliation/lineage"} began brewing the day the word arrived.]{lang=en}
 2 [Thenva legva Gnurthorv or sleidva tiv Tvalgard miv andra sarmi mannva. Hanv marl inn plemir na staf eiv gludva. Plem na svulma. Hanv zumna na ferna na sleidva. Fernri marl nathri hanv marl vegri es skadri dan Grukar. Hanv es rettva na vegri. Inn nottva hanv stap marl. Hanv svelna fror skensa na Tvalgard varma inn staf tvei gludva. Dvurnthann gang siv sleidva helm vegri. Hanv hav skeldva na Gnurthorv or bakma. Thenva nod it tiv hanv at legva na barma or sleidva. Gnurthorv nel kan halv it. Fernri hav noll sta firn it. Noll mannva spurni firn it bak. At Tvalgard hersvald spurni vatha hanv stavi tiv lorka na vakthim ur gang heim miv knerv. Hanv marl hanv gang heim. Hersvald luvra it. Hersvald nod reidri fralm or landband vegri. Gnurthendik kinda smiv alva inn gludva na gandma komri.]{lang=nord}
@@ -387,7 +387,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Grave-Ale
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Inn staf sevn nottva Gnurthendik halv hrúmsminni. Nerbua komri. Dvurnthann komri. Dvirnselda nel komri. Sumri relth marl henva komri tiv dverna ok stann theri thru hruna. Henva gang heim fror skulma. Tvalgard relth hav henva at heimla. Heimband hav noll skald. Thenva nel nod firn eiv af Tvalgard. Darni lest alva na kinma nod hruna. Henva es fem fratra na fadra na Gnurthorv. Henva sken liftva na tvei na thrin hrum ok vril sken staf fjorv. Noll hnura es smivna.]{.nativefont lang=nord}
 2 [On the seventh night [Gnurthendik]{.name data-type="affiliation/lineage"} held grave ale. Neighbors came. [Dvurnthann]{.name data-type="being/npc"} came. [Dvirnselda]{.name data-type="being/npc"} did not. Some tellings place her at the door throughout the praise, returning home before the cup. [[place-tvalgard|Tvalgard]] keeps her at home. The household had no skald and sent for none from [[place-tvalgard|Tvalgard]]. Their eldest kin gave praise: [Gnurthorv]{.name data-type="being/npc"}'s father's sister. She saw two of the three howes rise and expected the fourth. No lament was made.]{lang=en}
 2 [Inn staf sevn nottva Gnurthendik halv hrúmsminni. Nerbua komri. Dvurnthann komri. Dvirnselda nel komri. Sumri relth marl henva komri tiv dverna ok stann theri thru hruna. Henva gang heim fror skulma. Tvalgard relth hav henva at heimla. Heimband hav noll skald. Thenva nel nod firn eiv af Tvalgard. Darni lest alva na kinma nod hruna. Henva es fem fratra na fadra na Gnurthorv. Henva sken liftva na tvei na thrin hrum ok vril sken staf fjorv. Noll hnura es smivna.]{lang=nord}
@@ -427,7 +427,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 ## The Stone
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Dvurnthann gang heim than nottva. Relth marl Dvirnselda nel marl tiv karn kinli inn veturma than. Heimla es halvna hildi likva ul forna. Melva es or tavla. Makri melva es mert tiv islos. Inn gronarva hrum risna or Gnurthendik rygva. Dvirnendik nod karnva firn berva torva likva nerbua. Dvurnthann es karnva than. Hanv berva torva tvei gludva. Hanv mel at Gnurthendik tavla ok gang heim. Gnarthann gang miv hanv tiv staf fjorv stevna ok nel farn plemir.]{.nativefont lang=nord}
 2 [[Dvurnthann]{.name data-type="being/npc"} went home that night. They tell that [Dvirnselda]{.name data-type="being/npc"} did not speak to him that winter, while the house was kept as well as ever. Meals reached the table and stores lasted to thaw. In spring the howe rose on [Gnurthendik]{.name data-type="affiliation/lineage"}'s ridge. [Dvirnendik]{.name data-type="affiliation/lineage"} sent a turf carrier, as a neighbor does. It was [Dvurnthann]{.name data-type="being/npc"}. He carried turf two days, ate at their table and went home. [Gnarthann]{.name data-type="being/npc"} accompanied him to the fourth stone and no farther.]{lang=en}
 2 [Dvurnthann gang heim than nottva. Relth marl Dvirnselda nel marl tiv karn kinli inn veturma than. Heimla es halvna hildi likva ul forna. Melva es or tavla. Makri melva es mert tiv islos. Inn gronarva hrum risna or Gnurthendik rygva. Dvirnendik nod karnva firn berva torva likva nerbua. Dvurnthann es karnva than. Hanv berva torva tvei gludva. Hanv mel at Gnurthendik tavla ok gang heim. Gnarthann gang miv hanv tiv staf fjorv stevna ok nel farn plemir.]{lang=nord}
@@ -439,7 +439,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 
 : Dvurnthann at the fourth stone {#stone}
 
-```verse {form=skaldic lang=en cols=2}
+```verse {form=skaldic lang=en cols=2} numstep=5
 1 [At sta na islos legva it]{.nativefont lang=nord}
 2 [Where thaw has left it,]{lang=en}
 2 [At sta na islos legva it]{lang=nord}
@@ -473,7 +473,7 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [Dingi na legva nif stavi nif.]{lang=nord}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Skenri lesna merki ok slak stevna at sta na it stann. Gnarthann slak it. Dvurnthann slak it. It stann theri nura. Lanma tvern Gnurthendik ok Dvirnendik gang thru it. Inn hveri gangma af than thenva lesna it likva staf fjorv stevna ok slak it at sta na it stann. Noll malva komri tiv velri ting na it.]{.nativefont lang=nord}
 2 [The witness read the mark and struck the stone where it stood. [Gnarthann]{.name data-type="being/npc"} struck it. [Dvurnthann]{.name data-type="being/npc"} struck it. It stands there now. The line between their holdings passes through it. At every walk afterward they read it as the fourth stone and struck it in place. No claim was brought upon it at any ting.]{lang=en}
 2 [Skenri lesna merki ok slak stevna at sta na it stann. Gnarthann slak it. Dvurnthann slak it. It stann theri nura. Lanma tvern Gnurthendik ok Dvirnendik gang thru it. Inn hveri gangma af than thenva lesna it likva staf fjorv stevna ok slak it at sta na it stann. Noll malva komri tiv velri ting na it.]{lang=nord}

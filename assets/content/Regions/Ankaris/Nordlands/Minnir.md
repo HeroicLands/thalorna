@@ -18,7 +18,7 @@ The faith keeps the well in a rite. The [Rite of Minnir's Well]{.name data-type=
 
 : The Mouth Beside the Well
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Dulvma nifra gnumrand.]{.nativefont lang=nord}
 2 [Darkness beneath the rim.]{lang=en}
 2 [Dulvma nifra gnumrand.]{lang=nord}

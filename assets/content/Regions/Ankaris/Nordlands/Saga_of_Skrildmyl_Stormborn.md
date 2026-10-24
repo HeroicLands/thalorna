@@ -17,7 +17,7 @@ Among the [[lore-nordheimnclt|Nordmen]], this is one telling of [[being-skrldmyl
 
 : Saga of Skrilmil Stormborn {#saga}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Hlusta nura eldsveld vornri.]{.nativefont lang=nord}
 2 [Listen now, hearth keepers.]{lang=en}
 2 [Hlusta nura eldsveld vornri.]{lang=nord}
