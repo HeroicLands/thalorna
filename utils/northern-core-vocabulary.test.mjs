@@ -2,6 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import { execFileSync } from "node:child_process";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
@@ -300,9 +301,21 @@ test("Varokhi additions preserve every original word, name piece and ordinary bo
         hash(varokhiWords.slice(0, 90).map(({ concept, ...w }) => w)),
         "90b5aaaeaa2331b510bd81b602d470b3912d63b70cdc56bb5fdc2ddf14676c9e",
     );
-    const { words: _words, fields, ...data } = varokhi.fm.data;
+    const { words: _words, fields, register, ...data } = varokhi.fm.data;
+    // Preserve all pre-literature name declarations while the contract test below
+    // validates registrations added for the new readings.
+    const original = YAML.parse(
+        splitFrontmatter(
+            execFileSync("git", ["show", "cda3ead48:assets/content/Skills/Languages/Varokhi.md"], {
+                encoding: "utf8",
+            }),
+        ).yaml,
+    );
     assert.equal(
-        hash({ ...varokhi.fm, data }),
+        hash({
+            ...varokhi.fm,
+            data: { ...data, register: register.slice(0, original.data.register.length) },
+        }),
         "801ac1d67b9d2d1f3ab010077b2308d200571cd15caa678a6be32eb0be9f804b",
     );
     assert.equal(

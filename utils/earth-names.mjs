@@ -812,6 +812,14 @@ function matcher(names) {
     );
 }
 
+/** English homographs whose surrounding words identify a setting meaning. */
+const CONTEXTUAL_HOMOGRAPHS = [
+    // The English rendering describes polish worn off a coat of mail.
+    /\bPolish(?= leaves in hand\b)/gu,
+    // A soldier's translated sheep nickname, distinguished from the Earth tongue.
+    /\bEwe(?= as the company says\b)/gu,
+];
+
 // The reader's own languages: refused on every line, exempt or not.
 const READER_LANGUAGES = /\b(?:english|french|latin)\b/gi;
 // Capitalized only: "common speech" in lower case is an in-setting lingua franca.
@@ -838,6 +846,9 @@ export function findEarthNames(file, text, names = earthMatcher()) {
         // Blank a retired entry's form, keeping every column.
         if (inRetired)
             line = line.replace(RETIRED_FORM, (_all, key, value) => key + " ".repeat(value.length));
+        // Blank only the homograph; other Earth references retain their columns.
+        for (const pattern of CONTEXTUAL_HOMOGRAPHS)
+            line = line.replace(pattern, (word) => " ".repeat(word.length));
         const exempt = exemptFile || ANALOG_LINE.test(line);
         if (file === CONCORDANCE && RECORDED_KEY.test(line)) return [];
         const hits = [];

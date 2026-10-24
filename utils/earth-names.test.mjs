@@ -21,6 +21,19 @@ test("an Earth name is found, with its column", () => {
     assert.equal(findEarthNames("a.md", "speaking Norwegian").length, 1);
 });
 
+test("English material and a translated sheep nickname do not name Earth", () => {
+    assert.deepEqual(findEarthNames("a.md", "Polish leaves in hand. Rings remain rings."), []);
+    assert.deepEqual(findEarthNames("a.md", "Átseka, Ewe as the company says."), []);
+    for (const text of ["speaking Polish", "the Ewe language", "from Poland"])
+        assert.equal(findEarthNames("a.md", text).length, 1, text);
+    assert.deepEqual(findEarthNames("a.md", "Polish leaves in hand. Polish is a language."), [
+        'a.md:1:24: error: "Polish" is an Earth proper name',
+    ]);
+    assert.deepEqual(findEarthNames("a.md", "Ewe as the company says. The Ewe language."), [
+        'a.md:1:30: error: "Ewe" is an Earth proper name',
+    ]);
+});
+
 test("the founder of an Earth faith is found under each of his names", () => {
     assert.deepEqual(findEarthNames("a.md", "the month of Zarathustra"), [
         'a.md:1:14: error: "Zarathustra" is an Earth proper name',
