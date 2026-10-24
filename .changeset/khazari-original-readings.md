@@ -6,3 +6,6 @@
 
 - The Quarrel of the Clans sets the Khazari account and its Oath beside a fresh English translation and a Roman reading.
 - The Long Tunnel sets the water-line account and Dulkun’s Claim of Work beside a fresh English translation and Roman reading.
+- The Going of the Exile sets the sentence record, lament and two remembered endings beside a fresh English translation and Roman reading.
+- The Crossing of the Clans preserves the deep song’s counted courses beside a fresh English translation and Roman reading.
+- The Sealing of the City sets the counted lament beside a fresh English translation and Roman reading.

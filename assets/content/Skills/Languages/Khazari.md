@@ -6940,18 +6940,8 @@ data:
       gloss: "short in length or extent"
       root: "n-d-v"
       frame: adjective
-    - form: kasum
-      class: n
-      field: "Body and person"
-      gloss: "ear"
-      root: "k-s-m"
-      frame: bare
-    - form: sumál
-      class: v
-      field: "Body and person"
-      gloss: "sleep"
-      root: "s-m-l"
-      frame: deed
+    - {form: kasum, class: n, field: "Body and person", gloss: "ear", root: "k-s-m", frame: bare}
+    - {form: sumál, class: v, field: "Body and person", gloss: "sleep", root: "s-m-l", frame: deed}
     - form: barg
       class: n
       field: "Craft and the forge"
@@ -7156,6 +7146,471 @@ data:
       gloss: "leaf or sheet of a written record, without specifying its material"
       root: "l-n-b"
       frame: bare
+    - form: lamák
+      class: v
+      field: "Oath, law and measure"
+      gloss: "copy a written account"
+      root: "l-m-k"
+      frame: deed
+    - form: makasir
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "cache-keeper"
+      root: "m-k-s"
+      frame: worker
+    - form: navar
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "evening or dusk"
+      root: "n-v-r"
+      frame: bare
+    - form: lalap
+      class: n
+      field: "Caves and their finding"
+      gloss: "shelf"
+      root: "l-l-p"
+      frame: bare
+    - form: napad
+      class: n
+      field: "Caves and their finding"
+      gloss: "shutter, a sliding cover"
+      root: "n-p-d"
+      frame: bare
+    - form: kazaf
+      class: n
+      field: "The grain of the rock"
+      gloss: "narrow crack or fissure"
+      root: "k-z-f"
+      frame: bare
+    - form: nagal
+      class: n
+      field: "Caves and their finding"
+      gloss: "groove or guiding slot"
+      root: "n-g-l"
+      frame: bare
+    - form: gaval
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "left-hand side"
+      root: "g-v-l"
+      frame: bare
+    - form: narív
+      class: adj
+      field: "Motion and holding"
+      gloss: "long"
+      root: "n-r-v"
+      frame: adjective
+    - form: maraf
+      class: n
+      field: "Caves and their finding"
+      gloss: "peg"
+      root: "m-r-f"
+      frame: bare
+    - form: raban
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "body, whole physical person"
+      root: "r-b-n"
+      frame: bare
+    - form: gavam
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "herd or herd beast counted as a head"
+      root: "g-v-m"
+      frame: bare
+    - form: parath
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "autumn"
+      root: "p-r-th"
+      frame: bare
+    - form: taradh
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "barley"
+      root: "t-r-dh"
+      frame: bare
+    - form: garad
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "sack"
+      root: "g-r-d"
+      frame: bare
+    - form: malak
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "meat"
+      root: "m-l-k"
+      frame: bare
+    - form: maghíp
+      class: adj
+      field: "The deep"
+      gloss: "dried for keeping"
+      root: "m-gh-p"
+      frame: adjective
+    - form: karal
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "cheese"
+      root: "k-r-l"
+      frame: bare
+    - form: daran
+      class: n
+      field: "Oath, law and measure"
+      gloss: "week"
+      root: "d-r-n"
+      frame: bare
+    - form: guláth
+      class: v
+      field: "Song and telling"
+      gloss: "laugh"
+      root: "g-l-th"
+      frame: deed
+    - {form: lanat, class: n, field: "The deep", gloss: "lintel", root: "l-n-t", frame: bare}
+    - form: makan
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "sheep"
+      root: "m-k-n"
+      frame: bare
+    - form: baval-zubák
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "water-staining of the face"
+      root: "b-v-l + z-b-k"
+      frame: bare
+    - form: khard-kumáv
+      class: n
+      field: "Oath, law and measure"
+      gloss: "counting of the hold"
+      root: "k-m-v"
+      frame: bare
+    - form: parath-kumáv
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "autumn count"
+      root: "p-r-th + k-m-v"
+      frame: bare
+    - form: tanv-mutház
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "gate measure"
+      root: "t-n-v + m-th-z"
+      frame: bare
+    - form: tanv-fudhál
+      class: n
+      field: "Caves and their finding"
+      gloss: "passage through the gate"
+      root: "t-n-v + f-dh-l"
+      frame: bare
+    - form: tanv-kumáv
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "gate count"
+      root: "t-n-v + k-m-v"
+      frame: bare
+    - form: sanv
+      class: n
+      field: "Craft and the forge"
+      gloss: "wick"
+      root: "s-n-v"
+      frame: bare
+    - {form: ganp, class: n, field: "The deep", gloss: "mouth", root: "g-n-p", frame: bare}
+    - form: rathak
+      class: n
+      field: "Craft and the forge"
+      gloss: "knowledge of a matter"
+      root: "r-th-k"
+      frame: bare
+    - form: nugádh
+      class: v
+      field: "Listening and the cut"
+      gloss: "speak in another's name or on another's behalf"
+      root: "n-g-dh"
+      frame: deed
+    - form: napík
+      class: adj
+      field: "Body and person"
+      gloss: "small in physical size"
+      root: "n-p-k"
+      frame: adjective
+    - form: tapak
+      class: n
+      field: "Craft and the forge"
+      gloss: "light tapping used to sound a surface"
+      root: "t-p-k"
+      frame: bare
+    - form: tupák
+      class: v
+      field: "Craft and the forge"
+      gloss: "tap lightly for sounding"
+      root: "t-p-k"
+      frame: deed
+    - form: simgath
+      class: n
+      field: "Listening and the cut"
+      gloss: "a thing discerned by listening"
+      root: "s-m-g"
+      frame: done thing
+    - form: tagín
+      class: adj
+      field: "Listening and the cut"
+      gloss: "ordered, in sequence"
+      root: "t-g-n"
+      frame: adjective
+    - form: ramk-rumák
+      class: n
+      field: "The deep"
+      gloss: "laying courses"
+      root: "r-m-k + r-m-k"
+      frame: bare
+    - form: gatulám
+      class: v
+      field: "Craft and the forge"
+      gloss: "coil or curve back on oneself"
+      root: "g-l-m"
+      frame: reflexive
+    - form: balíg
+      class: adj
+      field: "Craft and the forge"
+      gloss: "of copper"
+      root: "b-l-g"
+      frame: adjective
+    - form: varnir
+      class: n
+      field: "The grain of the rock"
+      gloss: "one who sets a line to the rock's true line"
+      root: "v-r-n"
+      frame: worker
+    - form: virnath
+      class: n
+      field: "Listening and the cut"
+      gloss: "a work set to the true line"
+      root: "v-r-n"
+      frame: done thing
+    - form: girzath
+      class: n
+      field: "Listening and the cut"
+      gloss: "what guarding has kept safe"
+      root: "g-r-z"
+      frame: done thing
+    - form: tumás
+      class: v
+      field: "The deep"
+      gloss: "want or like the act under discussion"
+      root: "t-m-s"
+      frame: deed
+    - form: maval-kumáv
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "counting heads"
+      root: "m-v-l + k-m-v"
+      frame: bare
+    - form: parím
+      class: adj
+      field: "Other peoples and the larder"
+      gloss: "living, alive"
+      root: "p-r-m"
+      frame: adjective
+    - form: rugán
+      class: v
+      field: "Caves and their finding"
+      gloss: "guide or bring people through a passage"
+      root: "r-g-n"
+      frame: deed
+    - form: zugáb
+      class: v
+      field: "Other peoples and the larder"
+      gloss: "address another person in speech"
+      root: "z-g-b"
+      frame: deed
+    - form: khanfir
+      class: n
+      field: "The deep"
+      gloss: "one who gathers the people in"
+      root: "kh-n-f"
+      frame: worker
+    - {form: palív, class: adj, field: "The deep", gloss: "slow", root: "p-l-v", frame: adjective}
+    - {form: barn, class: n, field: "The deep", gloss: "signal horn", root: "b-r-n", frame: bare}
+    - form: burán
+      class: v
+      field: "Listening and the cut"
+      gloss: "sound a horn"
+      root: "b-r-n"
+      frame: deed
+    - form: kald
+      class: n
+      field: "The deep"
+      gloss: "now, the present moment"
+      root: "k-l-d"
+      frame: bare
+    - form: bintath
+      class: n
+      field: "Oath, law and measure"
+      gloss: "oath made or sworn"
+      root: "b-n-t"
+      frame: done thing
+    - form: navam
+      class: n
+      field: "The deep"
+      gloss: "the eldest by age among the group present"
+      root: "n-v-m"
+      frame: bare
+    - {form: zamar, class: n, field: "The deep", gloss: "moral good", root: "z-m-r", frame: bare}
+    - form: dunáv
+      class: v
+      field: "The deep"
+      gloss: "take what is offered"
+      root: "d-n-v"
+      frame: deed
+    - form: fazav
+      class: n
+      field: "The face and the light"
+      gloss: "flight under pressure"
+      root: "f-z-v"
+      frame: bare
+    - form: fuzáv
+      class: v
+      field: "The deep"
+      gloss: "flee or escape under pressure"
+      root: "f-z-v"
+      frame: deed
+    - form: palín
+      class: adj
+      field: "The deep"
+      gloss: "thin in material or substance"
+      root: "p-l-n"
+      frame: adjective
+    - form: fadhalir
+      class: n
+      field: "The deep"
+      gloss: "one who crosses"
+      root: "f-dh-l"
+      frame: worker
+    - form: hufadhal
+      class: n
+      field: "The deep"
+      gloss: "crossing-place"
+      root: "f-dh-l"
+      frame: place
+    - {form: zumán, class: v, field: "The deep", gloss: "complain", root: "z-m-n", frame: deed}
+    - form: pugár
+      class: v
+      field: "Motion and holding"
+      gloss: "drop or let fall"
+      root: "p-g-r"
+      frame: deed
+    - form: dumán
+      class: v
+      field: "The deep"
+      gloss: "stop or cease"
+      root: "d-m-n"
+      frame: deed
+    - form: vuzám
+      class: v
+      field: "The deep"
+      gloss: "see with the eyes"
+      root: "v-z-m"
+      frame: deed
+    - form: khamd
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "hearing"
+      root: "kh-m-d"
+      frame: bare
+    - form: hubagan
+      class: n
+      field: "The deep"
+      gloss: "sealed place"
+      root: "b-g-n"
+      frame: place
+    - form: rukáv
+      class: v
+      field: "The deep"
+      gloss: "find or discover a thing"
+      root: "r-k-v"
+      frame: deed
+    - form: bumáth
+      class: v
+      field: "The deep"
+      gloss: "make a work for a recipient's use, custom-build for someone"
+      root: "b-m-th"
+      frame: deed
+    - {form: tarm, class: n, field: "The deep", gloss: "tree", root: "t-r-m", frame: bare}
+    - form: dirpath
+      class: n
+      field: "The grain of the rock"
+      gloss: "dripstone, a formation made by dripping"
+      root: "d-r-p"
+      frame: done thing
+    - {form: zumáv, class: v, field: "The deep", gloss: "sweat", root: "z-m-v", frame: deed}
+    - {form: dhumád, class: v, field: "The deep", gloss: "weep", root: "dh-m-d", frame: deed}
+    - form: gazav
+      class: n
+      field: "The deep"
+      gloss: "cart or wagon"
+      root: "g-z-v"
+      frame: bare
+    - form: gathal
+      class: n
+      field: "Body and person"
+      gloss: "exhaustion"
+      root: "g-th-l"
+      frame: bare
+    - form: farzir
+      class: n
+      field: "Craft and the forge"
+      gloss: "forge smith"
+      root: "f-r-z"
+      frame: worker
+    - form: buláth
+      class: v
+      field: "Other peoples and the larder"
+      gloss: "wash with water"
+      root: "b-l-th"
+      frame: deed
+    - form: khuráp
+      class: v
+      field: "The deep"
+      gloss: "dry by removing moisture"
+      root: "kh-r-p"
+      frame: deed
+    - form: haraf
+      class: n
+      field: "Craft and the forge"
+      gloss: "haft or tool handle"
+      root: "h-r-f"
+      frame: bare
+    - form: kharav
+      class: n
+      field: "The grain of the rock"
+      gloss: "weathering of exposed stone"
+      root: "kh-r-v"
+      frame: bare
+    - form: rant
+      class: n
+      field: "Oath, law and measure"
+      gloss: "assessment"
+      root: "r-n-t"
+      frame: bare
+    - form: vand-bumár
+      class: n
+      field: "Craft and the forge"
+      gloss: "making of a window, window work"
+      root: "v-n-d + b-m-r"
+      frame: bare
+    - form: khanakir
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "one who leads water by a channel"
+      root: "kh-n-k"
+      frame: worker
+    - form: lafadir
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "spawner, bearer of young"
+      root: "l-f-d"
+      frame: worker
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -7694,6 +8149,63 @@ data:
     - {root: t-gh-v, sense: "whole, all of it", field: grammar}
     - {root: t-v-z, sense: "each, one by one", field: grammar}
     - {root: v-z-th, sense: "a sixteen of sixteens, a great count", field: grammar}
+    - {root: l-m-k, sense: "copy a written account", field: law}
+    - {root: n-v-r, sense: "evening or dusk", field: other}
+    - {root: l-l-p, sense: "shelf", field: cave}
+    - {root: n-p-d, sense: "shutter, a sliding cover", field: cave}
+    - {root: k-z-f, sense: "narrow crack or fissure", field: grain}
+    - {root: n-g-l, sense: "groove or guiding slot", field: cave}
+    - {root: g-v-l, sense: "left-hand side", field: other}
+    - {root: m-r-f, sense: "peg", field: cave}
+    - {root: r-b-n, sense: "body, whole physical person", field: other}
+    - {root: g-v-m, sense: "herd or herd beast counted as a head", field: other}
+    - {root: p-r-th, sense: "autumn", field: other}
+    - {root: t-r-dh, sense: "barley", field: other}
+    - {root: g-r-d, sense: "sack", field: other}
+    - {root: m-l-k, sense: "meat", field: other}
+    - {root: m-gh-p, sense: "dried for keeping", field: deep}
+    - {root: k-r-l, sense: "cheese", field: other}
+    - {root: d-r-n, sense: "week", field: law}
+    - {root: g-l-th, sense: "laugh", field: song}
+    - {root: l-n-t, sense: "lintel", field: deep}
+    - {root: m-k-n, sense: "sheep", field: other}
+    - {root: s-n-v, sense: "wick", field: craft}
+    - {root: g-n-p, sense: "mouth", field: deep}
+    - {root: r-th-k, sense: "knowledge of a matter", field: craft}
+    - {root: n-g-dh, sense: "speak in another's name or on another's behalf", field: hear}
+    - {root: n-p-k, sense: "small in physical size", field: body}
+    - {root: t-p-k, sense: "light tapping used to sound a surface", field: craft}
+    - {root: t-g-n, sense: "ordered, in sequence", field: hear}
+    - {root: t-m-s, sense: "want or like the act under discussion", field: deep}
+    - {root: p-r-m, sense: "living, alive", field: other}
+    - {root: r-g-n, sense: "guide or bring people through a passage", field: cave}
+    - {root: z-g-b, sense: "address another person in speech", field: other}
+    - {root: p-l-v, sense: "slow", field: deep}
+    - {root: b-r-n, sense: "signal horn", field: deep}
+    - {root: k-l-d, sense: "now, the present moment", field: deep}
+    - {root: n-v-m, sense: "the eldest by age among the group present", field: deep}
+    - {root: z-m-r, sense: "moral good", field: deep}
+    - {root: d-n-v, sense: "take what is offered", field: deep}
+    - {root: f-z-v, sense: "flight under pressure", field: face}
+    - {root: p-l-n, sense: "thin in material or substance", field: deep}
+    - {root: z-m-n, sense: "complain", field: deep}
+    - {root: p-g-r, sense: "drop or let fall", field: motion}
+    - {root: d-m-n, sense: "stop or cease", field: deep}
+    - {root: v-z-m, sense: "see with the eyes", field: deep}
+    - {root: kh-m-d, sense: "hearing", field: other}
+    - {root: r-k-v, sense: "find or discover a thing", field: deep}
+    - root: b-m-th
+      sense: "make a work for a recipient's use, custom-build for someone"
+      field: deep
+    - {root: t-r-m, sense: "tree", field: deep}
+    - {root: z-m-v, sense: "sweat", field: deep}
+    - {root: dh-m-d, sense: "weep", field: deep}
+    - {root: g-z-v, sense: "cart or wagon", field: deep}
+    - {root: g-th-l, sense: "exhaustion", field: body}
+    - {root: b-l-th, sense: "wash with water", field: other}
+    - {root: kh-r-p, sense: "dry by removing moisture", field: deep}
+    - {root: h-r-f, sense: "haft or tool handle", field: craft}
+    - {root: kh-r-v, sense: "weathering of exposed stone", field: grain}
   register:
     - {name: "Balgan", tongue: khazari}
     - {name: "Bamgan", tongue: khazari}
