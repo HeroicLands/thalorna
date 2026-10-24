@@ -19,6 +19,14 @@ on:
 permissions:
     contents: read
 
+concurrency:
+    group: ${{ github.repository }}-${{ github.workflow }}-${{ github.event_name }}-${{ github.event.pull_request.number || github.run_id }}
+    cancel-in-progress: ${{ github.event_name == 'pull_request' }}
+
+env:
+    # https://github.com/HeroicLands/fonts/commit/09105539276be8ce57b543718a906390df313685
+    FONTS_REVISION: 09105539276be8ce57b543718a906390df313685
+
 jobs:
     format:
         name: Formatting, markdown and localization
@@ -32,7 +40,6 @@ jobs:
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
                   node-version: 24
-                  cache: npm
 
             # Restored on an unchanged lockfile and Node version; the install
             # runs only on a miss. A restore leaves `node_modules/.bin` intact.
@@ -43,9 +50,16 @@ jobs:
                   path: node_modules
                   key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
 
+            - name: Cache npm downloads
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
+              uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+              with:
+                  path: ${{ runner.temp }}/npm-cache
+                  key: ${{ runner.os }}-npm-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
               if: ${{ steps.modules.outputs.cache-hit != 'true' }}
-              run: npm ci
+              run: npm ci --cache "$RUNNER_TEMP/npm-cache"
 
             # Prettier over the whole tree.
             - name: Check formatting
@@ -78,7 +92,6 @@ jobs:
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
                   node-version: 24
-                  cache: npm
 
             # Restored on an unchanged lockfile and Node version; the install
             # runs only on a miss. A restore leaves `node_modules/.bin` intact.
@@ -89,9 +102,16 @@ jobs:
                   path: node_modules
                   key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
 
+            - name: Cache npm downloads
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
+              uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+              with:
+                  path: ${{ runner.temp }}/npm-cache
+                  key: ${{ runner.os }}-npm-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
               if: ${{ steps.modules.outputs.cache-hit != 'true' }}
-              run: npm ci
+              run: npm ci --cache "$RUNNER_TEMP/npm-cache"
 
             # A named person the prose leans on resolves to a note.
             - name: Check reference people
@@ -106,7 +126,7 @@ jobs:
 
     # Every Khazari, Nordmal and Khelathi word in this pull request's language
     # notes is set through its font; a word the font cannot set fails by name.
-    # The fonts and guards come from the public fonts repository's `main`.
+    # Both font consumers use FONTS_REVISION.
     fonts:
         name: Font lexicon guards
         runs-on: lint
@@ -116,7 +136,11 @@ jobs:
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
             - name: Fetch the fonts
-              run: git clone --depth 1 https://github.com/HeroicLands/fonts.git "$RUNNER_TEMP/fonts"
+              run: |
+                  git init "$RUNNER_TEMP/fonts"
+                  git -C "$RUNNER_TEMP/fonts" remote add origin https://github.com/HeroicLands/fonts.git
+                  git -C "$RUNNER_TEMP/fonts" fetch --depth 1 origin "$FONTS_REVISION"
+                  git -C "$RUNNER_TEMP/fonts" checkout --detach FETCH_HEAD
 
             # The guards write each form through the fonts' mapping tool, which imports package-build.
             - name: Install the fonts' Node packages
@@ -183,24 +207,6 @@ jobs:
                   --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vedyari.md"
                   --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Vedyakshara_Spelling.md"
 
-            # Every Sinale and Áelendi form and name is set through the
-            # `veldikko` mapping note; Sinale must also equal the fonts'
-            # converter, code point for code point.
-            - name: Setup Node
-              if: ${{ !cancelled() }}
-              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
-              with:
-                  node-version: 24
-                  cache: npm
-
-            - name: Install dependencies
-              if: ${{ !cancelled() }}
-              run: npm ci
-
-            - name: Veldikko
-              if: ${{ !cancelled() }}
-              run: node utils/veldikko-guard.mjs --fonts "$RUNNER_TEMP/fonts"
-
     lint:
         name: Content, prose, and registry checks
         runs-on: lint
@@ -224,11 +230,14 @@ jobs:
             - name: Checkout code
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
 
+            - name: Clear content publication
+              id: publication_reset
+              run: rm -rf build/content-index
+
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
               with:
                   node-version: 24
-                  cache: npm
 
             # Restored on an unchanged lockfile and Node version; the install
             # runs only on a miss. A restore leaves `node_modules/.bin` intact.
@@ -239,11 +248,35 @@ jobs:
                   path: node_modules
                   key: ${{ runner.os }}-node-24-${{ hashFiles('package-lock.json') }}
 
+            - name: Cache npm downloads
+              if: ${{ steps.modules.outputs.cache-hit != 'true' }}
+              uses: actions/cache@55cc8345863c7cc4c66a329aec7e433d2d1c52a9 # v6.1.0
+              with:
+                  path: ${{ runner.temp }}/npm-cache
+                  key: ${{ runner.os }}-npm-node-24-${{ hashFiles('package-lock.json') }}
+
             - name: Install dependencies
               if: ${{ steps.modules.outputs.cache-hit != 'true' }}
-              run: npm ci
+              run: npm ci --cache "$RUNNER_TEMP/npm-cache"
 
             # Prepare dependencies and assets, then validate and compile the
             # content in one session.
             - name: Compile the content packs
               run: npm run build:db
+
+            # The marker survives failures after publication. Missing publication
+            # fails this guard without reading a partial or stale index.
+            - name: Veldikko
+              if: ${{ !cancelled() && steps.publication_reset.outcome == 'success' }}
+              run: |
+                  if [ ! -f build/content-index/.publication-ready ]; then
+                      echo "Veldikko: no fresh content index was published in this run." >&2
+                      exit 1
+                  fi
+                  reference=$(mktemp -d "$RUNNER_TEMP/veldikko-reference.XXXXXX")
+                  git init "$reference"
+                  git -C "$reference" remote add origin https://github.com/HeroicLands/fonts.git
+                  git -C "$reference" sparse-checkout set tools/veldikko
+                  git -C "$reference" fetch --depth 1 --filter=blob:none origin "$FONTS_REVISION"
+                  git -C "$reference" checkout --detach FETCH_HEAD
+                  node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl --fonts "$reference"

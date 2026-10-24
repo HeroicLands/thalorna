@@ -33,7 +33,7 @@
         "build:package": "run-p build:db build:module",
         "build:stage-reset": "package-build stage reset",
         "build:deps": "package-build deps fetch",
-        "build:db": "run-s build:deps build:content-index build:calendars build:assets build:content",
+        "build:db": "npm run build:deps && package-build content build --calendaria-version 1.4.2",
         "build:assets": "package-build assets",
         "build:content": "package-build content run lint links compile",
         "build:compiledb": "package-build package compile",
@@ -80,7 +80,7 @@
     "devDependencies": {
         "@changesets/cli": "^3.0.3",
         "@heroiclands/fonts": "^1.2.0",
-        "@heroiclands/package-build": "^24.1.0",
+        "@heroiclands/package-build": "^24.1.1",
         "countries-list": "^3.4.1",
         "npm-run-all": "^4.1.5",
         "prettier": "^3.9.9",

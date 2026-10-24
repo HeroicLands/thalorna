@@ -1420,6 +1420,24 @@ Notes on the table:
   (a built piece that prints with no gloss). Neither fails the build, and
   neither is a reason to change a passage.
 
+- **Veldikko reads a freshly generated metadata index.** After changing Sinale,
+  Áelendi or their mappings, run:
+
+  ```sh
+  npm run build:deps
+  npm run build:content-index
+  npm run lint:veldikko -- --index build/content-index/thalorna-metadata.jsonl
+  ```
+
+  Add `--fonts /path/to/fonts` to compare Sinale's scalars with the independent
+  reference converter. Use the `FONTS_REVISION` pinned in
+  `.gitea/workflows/lint.yml` for the same comparison as CI. An absent, malformed
+  or incompatible index is an error; the guard never rebuilds it. The guard
+  loads the index once for both languages and reads a language note only to
+  locate a finding. The two mapping notes also receive their exact generated-row
+  byte checks. CI runs Veldikko after fresh publication even if a later build
+  phase fails.
+
 - **`lint:earth-words` reads word lists the running machine keeps.** The
   repository holds no list and no word of any real language. The lists are the
   `<language>.txt` and `<language>.tsv` files of the directories named by

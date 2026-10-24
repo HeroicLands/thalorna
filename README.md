@@ -19,10 +19,28 @@ assembled package holds only what current sources produce; a renamed or deleted
 asset leaves nothing behind. The individual `build:*` commands write into the
 stage as it stands.
 
-`npm run build:db` fetches dependencies, builds the content index, calendars and
-assets, then runs frontmatter validation, link checks and pack compilation in
-one content session. `npm run build:content` runs that session with the prepared
-inputs; `lint:addresses` and `lint:content-links` run either check independently.
+`npm run build:db` fetches dependencies, then runs
+`package-build content build --calendaria-version 1.4.2`. One content session
+captures sources, publishes the metadata, dictionary and terms indexes, emits
+calendars, stages assets, validates frontmatter and links, and compiles packs.
+`npm run build:content` runs validation and compilation with prepared inputs;
+`build:content-index`, `build:calendars` and `build:assets` remain independent
+entry points, as do `lint:addresses` and `lint:content-links`.
+
+The Lint workflow runs Veldikko in the content build job against
+`build/content-index/thalorna-metadata.jsonl`. A successful publication writes
+`build/content-index/.publication-ready`; a later build failure leaves that
+index available for Veldikko. The job clears the index directory before setup,
+and the content command clears the marker at startup. Without the marker,
+Veldikko reports missing publication and fails without reading stale output.
+The content build and aggregate lint checks retain every failure.
+
+Both font jobs use the workflow's shared `FONTS_REVISION` commit. Advance that
+pin deliberately when adopting fonts changes, and verify both jobs together.
+The content job fetches the independent Veldikko converter with a sparse
+checkout; the parallel font job runs the Python guards and their dependencies.
+Superseded revisions of the same pull request are cancelled; main runs and
+separate pull requests retain their own runs.
 
 A plain checkout is all that is needed. There is no sibling repository to clone
 and no `HEROICLANDS_VAULT` to set — this repository owns its content outright,

@@ -25,15 +25,25 @@
  * the exit status is 1 when there is a finding. A form is located by searching
  * its language note for it, a name likewise.
  *
- *     node utils/veldikko-guard.mjs [--fonts ~/dev/HeroicLands/fonts]
+ *     npm run build:deps && npm run build:content-index
+ *     node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl [--fonts ~/dev/HeroicLands/fonts]
  */
 
-import { execFileSync } from "node:child_process";
 import fs from "node:fs";
 import path from "node:path";
 import { pathToFileURL } from "node:url";
 
-import yaml from "yaml";
+import { runContext } from "@heroiclands/package-build/engine/content-scripts";
+import { loadPackConfig } from "@heroiclands/package-build/engine/pack-config";
+import {
+    decodeIndexAddresses,
+    noteAddressContext,
+} from "@heroiclands/package-build/engine/note-addresses";
+import {
+    languageRecordsByName,
+    lexiconEntries,
+    transliterate,
+} from "@heroiclands/package-build/engine/map-lexicon";
 
 import { checkNotes } from "./veldikko-spelling.mjs";
 
@@ -56,8 +66,6 @@ export const LANGUAGES = [
     },
 ];
 
-const BIN = path.resolve("node_modules/.bin/package-build");
-
 /**
  * The characters of `text` that are neither a Veldikko character nor a space.
  *
@@ -74,25 +82,57 @@ export function unwritable(text) {
     return bad;
 }
 
-function packageBuild(args, input) {
-    return execFileSync(BIN, args, {
-        encoding: "utf8",
-        input,
-        maxBuffer: 64 * 1024 * 1024,
-        stdio: ["pipe", "pipe", "pipe"],
-    });
+/** Read the local published index once; never reconstruct it from source. */
+export function readIndex(file, config) {
+    let text;
+    try {
+        text = fs.readFileSync(file, "utf8");
+    } catch (error) {
+        throw new Error(
+            `${file}: error: cannot read index (${error.message}); run \`npm run build:deps && npm run build:content-index\``,
+        );
+    }
+    const records = [];
+    const context = noteAddressContext(config);
+    for (const [at, line] of text.split("\n").entries()) {
+        if (!line.trim()) continue;
+        let record;
+        try {
+            record = JSON.parse(line);
+        } catch (error) {
+            throw new Error(`${file}:${at + 1}: error: malformed metadata index: ${error.message}`);
+        }
+        try {
+            const sourcePath = record?.file?.path ?? record?.asset?.path;
+            if (
+                !record ||
+                typeof record !== "object" ||
+                Array.isArray(record) ||
+                record.package !== config.contentPackage ||
+                typeof sourcePath !== "string" ||
+                !sourcePath
+            ) {
+                throw new Error(
+                    `expected a ${config.contentPackage} metadata record with a source path`,
+                );
+            }
+            records.push(decodeIndexAddresses(record, context));
+        } catch (error) {
+            throw new Error(
+                `${file}:${at + 1}: error: incompatible metadata index: ${error.message}; run \`npm run build:content-index\``,
+            );
+        }
+    }
+    if (!records.length)
+        throw new Error(
+            `${file}: error: metadata index is empty; run \`npm run build:content-index\``,
+        );
+    return records;
 }
 
-/** The frontmatter of a note, parsed. */
-function frontmatter(file) {
-    const text = fs.readFileSync(file, "utf8");
-    const end = text.indexOf("\n---", 4);
-    return yaml.parse(text.slice(4, end));
-}
-
-/** Every string under `data.names` except the name pattern. */
-function nameStrings(file) {
-    const names = { ...(frontmatter(file).data?.names ?? {}) };
+/** Every string under indexed `data.names` except the name pattern. */
+function nameStrings(record) {
+    const names = { ...(record.data?.names ?? {}) };
     delete names.pattern;
     const out = [];
     const walk = (node) => {
@@ -204,39 +244,45 @@ export function referenceWithPerformance(source, convert) {
  * Check one language.
  *
  * @param {{name: string, map: string, note: string, reference: boolean}} language
+ * @param {object} ctx The canonical mapping context for the decoded index.
+ * @param {object} record The decoded language note.
  * @param {((text: string) => string) | undefined} convert Sinale's reference converter.
  * @returns {{checked: number, findings: string[]}}
  */
-function check(language, convert) {
+export function checkLanguage(language, ctx, record, convert) {
+    if (!record) throw new Error(`index has no language note for \`${language.name}\``);
     const findings = [];
     const entries = [];
+    const lexicon = lexiconEntries(ctx, { lang: language.name, map: language.map, derived: true });
+    if ("problem" in lexicon) throw new Error(lexicon.problem);
+    for (const row of lexicon.entries)
+        entries.push({ source: row.form, native: row.native, kind: "form" });
 
-    const lexicon = JSON.parse(
-        packageBuild(["lexicon", language.name, "--map", language.map, "--derived", "--json"]),
-    );
-    for (const row of lexicon) entries.push({ source: row.form, native: row.native, kind: "form" });
-
-    const names = nameStrings(language.note);
-    const mapped = packageBuild(
-        ["transliterate", language.map, "--lang", language.name, "-"],
-        names.join("\n"),
-    )
-        .replace(/\n$/, "")
-        .split("\n");
-    if (mapped.length !== names.length) {
-        findings.push(
-            `${language.note}: error: the names came back as ${mapped.length} lines, not ${names.length}`,
+    const names = nameStrings(record);
+    if (names.length) {
+        const result = transliterate(
+            ctx,
+            { map: language.map, lang: language.name },
+            names.join("\n"),
         );
-    } else {
-        names.forEach((name, i) => entries.push({ source: name, native: mapped[i], kind: "name" }));
+        if ("problem" in result) throw new Error(result.problem);
+        const mapped = result.text.split("\n");
+        if (mapped.length !== names.length) {
+            findings.push(
+                `${language.note}: error: the names came back as ${mapped.length} lines, not ${names.length}`,
+            );
+        } else {
+            names.forEach((name, i) =>
+                entries.push({ source: name, native: mapped[i], kind: "name" }),
+            );
+        }
     }
 
     for (const { source, native, kind } of entries) {
-        const where = locate(language.note, source);
         const bad = unwritable(native);
         if (bad.length) {
             findings.push(
-                `${where}: error: the ${kind} \`${source}\` has no ${language.map} sign for ${bad.map((c) => `\`${c}\``).join(", ")}`,
+                `${locate(language.note, source)}: error: the ${kind} \`${source}\` has no ${language.map} sign for ${bad.map((c) => `\`${c}\``).join(", ")}`,
             );
             continue;
         }
@@ -244,7 +290,7 @@ function check(language, convert) {
             const expected = referenceWithPerformance(source, convert);
             if (expected !== native) {
                 findings.push(
-                    `${where}: error: the ${kind} \`${source}\` is written ${hex(native)}, but the converter writes ${hex(expected)}`,
+                    `${locate(language.note, source)}: error: the ${kind} \`${source}\` is written ${hex(native)}, but the converter writes ${hex(expected)}`,
                 );
             }
         }
@@ -254,13 +300,42 @@ function check(language, convert) {
 
 async function main() {
     const args = process.argv.slice(2);
-    const at = args.indexOf("--fonts");
-    let convert;
-    if (at >= 0) {
-        const dir = path.resolve(args[at + 1]);
-        const mod = await import(pathToFileURL(path.join(dir, "tools/veldikko/convert.mjs")).href);
-        convert = mod.convertVeldikko;
+    const options = {};
+    for (let i = 0; i < args.length; i += 2) {
+        const flag = args[i];
+        if (
+            !["--index", "--fonts"].includes(flag) ||
+            !args[i + 1] ||
+            args[i + 1].startsWith("--") ||
+            options[flag]
+        ) {
+            throw new Error(
+                `invalid argument \`${flag}\`; use --index <metadata.jsonl> [--fonts <checkout>]`,
+            );
+        }
+        options[flag] = args[i + 1];
     }
+    if (!options["--index"])
+        throw new Error(
+            "--index <metadata.jsonl> is required; run `npm run build:deps && npm run build:content-index` first",
+        );
+    let convert;
+    if (options["--fonts"]) {
+        const file = path.resolve(options["--fonts"], "tools/veldikko/convert.mjs");
+        try {
+            const mod = await import(pathToFileURL(file).href);
+            if (typeof mod.convertVeldikko !== "function")
+                throw new Error("missing convertVeldikko export");
+            convert = mod.convertVeldikko;
+        } catch (error) {
+            throw new Error(`${file}: error: cannot load reference converter: ${error.message}`);
+        }
+    }
+    const started = performance.now();
+    const config = loadPackConfig();
+    const records = readIndex(options["--index"], config);
+    const ctx = runContext(config, records);
+    const languages = languageRecordsByName(records, config);
     let total = 0;
     let failed = 0;
     for (const finding of checkNotes()) {
@@ -270,7 +345,7 @@ async function main() {
     for (const language of LANGUAGES) {
         let result;
         try {
-            result = check(language, convert);
+            result = checkLanguage(language, ctx, languages.get(language.name), convert);
         } catch (error) {
             const detail = String(error.stderr || error.message).trim();
             process.stderr.write(`${language.note}: error: ${detail}\n`);
@@ -282,7 +357,17 @@ async function main() {
         failed += result.findings.length;
     }
     console.log(`Veldikko guard: ${total} forms and names checked, ${failed} findings.`);
+    console.error(
+        `Veldikko timing: ${(performance.now() - started).toFixed(0)}ms, ${records.length} index records.`,
+    );
     process.exitCode = failed ? 1 : 0;
 }
 
-if (import.meta.url === pathToFileURL(process.argv[1]).href) await main();
+if (process.argv[1] && import.meta.url === pathToFileURL(process.argv[1]).href) {
+    try {
+        await main();
+    } catch (error) {
+        console.error(`Veldikko guard: ${error.message}`);
+        process.exitCode = 1;
+    }
+}
