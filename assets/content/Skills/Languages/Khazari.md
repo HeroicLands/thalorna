@@ -6444,7 +6444,7 @@ data:
       gloss: "eat or consume food"
       root: "g-n-t"
       frame: deed
-    - form: thaláv
+    - form: thuláv
       class: v
       field: Motion and holding
       gloss: "remain as a remainder"
@@ -6808,6 +6808,354 @@ data:
       root: "k-m-v"
       frame: adjective
     - {form: surák, class: v, field: The hold, gloss: "sweep", root: "s-r-k", frame: deed}
+    - form: gadak
+      class: n
+      field: "Caves and their finding"
+      gloss: "collapse or fallen rock of a cave-in"
+      root: "g-d-k"
+      frame: bare
+    - form: gudák
+      class: v
+      field: "Caves and their finding"
+      gloss: "collapse rock or a rock structure, cave in"
+      root: "g-d-k"
+      frame: deed
+    - form: baval-guláp
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "drawing or hauling water"
+      root: "b-v-l bare + g-l-p deed"
+      frame: compound
+    - form: ruthák
+      class: v
+      field: "Listening and the cut"
+      gloss: "know a fact or thing"
+      root: "r-th-k"
+      frame: deed
+    - form: param
+      class: n
+      field: "Body and person"
+      gloss: "life, the lived duration of a person"
+      root: "p-r-m"
+      frame: bare
+    - form: purám
+      class: v
+      field: "Body and person"
+      gloss: "live or be alive"
+      root: "p-r-m"
+      frame: deed
+    - form: galv
+      class: n
+      field: "Motion and holding"
+      gloss: "west"
+      root: "g-l-v"
+      frame: bare
+    - form: galív
+      class: adj
+      field: "Motion and holding"
+      gloss: "western"
+      root: "g-l-v"
+      frame: adjective
+    - form: guláv
+      class: v
+      field: "Motion and holding"
+      gloss: "lie or tend west of the stated thing"
+      root: "g-l-v"
+      frame: deed
+    - form: ravath
+      class: n
+      field: "Motion and holding"
+      gloss: "east"
+      root: "r-v-th"
+      frame: bare
+    - form: ruváth
+      class: v
+      field: "Motion and holding"
+      gloss: "lie or tend east of the stated thing"
+      root: "r-v-th"
+      frame: deed
+    - form: maríd
+      class: adj
+      field: "The grain of the rock"
+      gloss: "soft, yielding under a cut"
+      root: "m-r-d"
+      frame: adjective
+    - form: gatal
+      class: n
+      field: "Craft and the forge"
+      gloss: "timber"
+      root: "g-t-l"
+      frame: bare
+    - form: gadíb
+      class: adj
+      field: "Listening and the cut"
+      gloss: "dull in sound or ring"
+      root: "g-d-b"
+      frame: adjective
+    - form: nalp-kurám
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "end of the cold season"
+      root: "n-l-p bare + k-r-m deed"
+      frame: compound
+    - form: basur-fuván
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "flow or welling of a spring"
+      root: "b-s-r bare + f-v-n deed"
+      frame: compound
+    - form: baval-lumáv
+      class: n
+      field: "Oath, law and measure"
+      gloss: "water-record"
+      root: "b-v-l bare + l-m-v deed"
+      frame: compound
+    - form: khabar-rukád
+      class: n
+      field: "Listening and the cut"
+      gloss: "reading of a face"
+      root: "kh-b-r bare + r-k-d deed"
+      frame: compound
+    - form: kalv
+      class: n
+      field: "Oath, law and measure"
+      gloss: "one third of the relevant stated unit"
+      root: "k-l-v"
+      frame: bare
+    - form: khubál
+      class: v
+      field: "Craft and the forge"
+      gloss: "extinguish a fire or hearth"
+      root: "kh-b-l"
+      frame: deed
+    - form: gasum
+      class: n
+      field: "Craft and the forge"
+      gloss: "trough"
+      root: "g-s-m"
+      frame: bare
+    - form: nadív
+      class: adj
+      field: "Motion and holding"
+      gloss: "short in length or extent"
+      root: "n-d-v"
+      frame: adjective
+    - form: kasum
+      class: n
+      field: "Body and person"
+      gloss: "ear"
+      root: "k-s-m"
+      frame: bare
+    - form: sumál
+      class: v
+      field: "Body and person"
+      gloss: "sleep"
+      root: "s-m-l"
+      frame: deed
+    - form: barg
+      class: n
+      field: "Craft and the forge"
+      gloss: "lever or pry-bar"
+      root: "b-r-g"
+      frame: bare
+    - form: bakath-puthák
+      class: n
+      field: "Caves and their finding"
+      gloss: "opening or parting of a natural joint"
+      root: "b-k-th bare + p-th-k deed"
+      frame: compound
+    - form: padar
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "waterskin"
+      root: "p-d-r"
+      frame: bare
+    - form: badav
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "rain"
+      root: "b-d-v"
+      frame: bare
+    - form: rubáth
+      class: v
+      field: "Body and person"
+      gloss: "fail in physical function, give out"
+      root: "r-b-th"
+      frame: deed
+    - form: mathaz-lumáv
+      class: n
+      field: "Oath, law and measure"
+      gloss: "measurement-record"
+      root: "m-th-z bare + l-m-v deed"
+      frame: compound
+    - form: magar-rukád
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "reading of the grain"
+      root: "m-g-r bare + r-k-d deed"
+      frame: compound
+    - form: magar-dulák
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "cutting along the grain"
+      root: "m-g-r bare + d-l-k deed"
+      frame: compound
+    - form: khatab-dulák
+      class: n
+      field: "Craft and the forge"
+      gloss: "cutting the ruled line"
+      root: "kh-t-b bare + d-l-k deed"
+      frame: compound
+    - form: makas-puthák
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "opening of a cache"
+      root: "m-k-s bare + p-th-k deed"
+      frame: compound
+    - form: bant-hurát
+      class: n
+      field: "Oath, law and measure"
+      gloss: "reading of an oath"
+      root: "b-n-t bare + h-r-t deed"
+      frame: compound
+    - form: badath
+      class: n
+      field: "Oath, law and measure"
+      gloss: "one quarter of the relevant whole"
+      root: "b-d-th"
+      frame: bare
+    - form: garb
+      class: n
+      field: "The grain of the rock"
+      gloss: "circle"
+      root: "g-r-b"
+      frame: bare
+    - form: furákh
+      class: v
+      field: "Craft and the forge"
+      gloss: "make flat or level"
+      root: "f-r-kh"
+      frame: deed
+    - form: pard
+      class: n
+      field: "The grain of the rock"
+      gloss: "spall, a flaked-off or spalled surface of stone"
+      root: "p-r-d"
+      frame: bare
+    - form: purád
+      class: v
+      field: "The grain of the rock"
+      gloss: "spall or flake off rock"
+      root: "p-r-d"
+      frame: deed
+    - form: hald
+      class: n
+      field: "The face and the light"
+      gloss: "heat or warmth"
+      root: "h-l-d"
+      frame: bare
+    - form: halíd
+      class: adj
+      field: "The face and the light"
+      gloss: "warm or hot"
+      root: "h-l-d"
+      frame: adjective
+    - form: hulád
+      class: v
+      field: "The face and the light"
+      gloss: "warm or heat"
+      root: "h-l-d"
+      frame: deed
+    - form: rabak
+      class: n
+      field: "The grain of the rock"
+      gloss: "width or breadth"
+      root: "r-b-k"
+      frame: bare
+    - form: basur-funád
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "a spring's course, its going"
+      root: "b-s-r bare + f-n-d deed"
+      frame: compound
+    - form: zaghar-khubár
+      class: n
+      field: "The face and the light"
+      gloss: "ore-face, the face fronting ore"
+      root: "z-gh-r bare + kh-b-r deed"
+      frame: compound
+    - form: hals
+      class: n
+      field: "Time and the mountain's seasons"
+      gloss: "frost or freezing"
+      root: "h-l-s"
+      frame: bare
+    - form: past
+      class: n
+      field: "The grain of the rock"
+      gloss: "give or slight yielding of a material under force"
+      root: "p-s-t"
+      frame: bare
+    - form: muráz
+      class: v
+      field: "Motion and holding"
+      gloss: "lie ahead of the stated person or thing"
+      root: "m-r-z"
+      frame: deed
+    - form: davan-hulád
+      class: n
+      field: "The face and the light"
+      gloss: "warming during the day"
+      root: "d-v-n bare + h-l-d deed"
+      frame: compound
+    - form: baval-khunák
+      class: n
+      field: "Craft and the forge"
+      gloss: "water-line, the work leading water"
+      root: "b-v-l bare + kh-n-k deed"
+      frame: compound
+    - form: zuráb
+      class: v
+      field: "Motion and holding"
+      gloss: "lose something"
+      root: "z-r-b"
+      frame: deed
+    - form: zunám
+      class: v
+      field: "Body and person"
+      gloss: "resemble or present the appearance of something"
+      root: "z-n-m"
+      frame: deed
+    - form: zavar
+      class: n
+      field: "The grain of the rock"
+      gloss: "change of state or course"
+      root: "z-v-r"
+      frame: bare
+    - form: zuvár
+      class: v
+      field: "The grain of the rock"
+      gloss: "change a state or course"
+      root: "z-v-r"
+      frame: deed
+    - form: lamíth
+      class: adj
+      field: "Oath, law and measure"
+      gloss: "permitted or admitted to the act under discussion"
+      root: "l-m-th"
+      frame: adjective
+    - form: ravíth
+      class: adj
+      field: "Motion and holding"
+      gloss: "eastern or eastward"
+      root: "r-v-th"
+      frame: adjective
+    - form: lanb
+      class: n
+      field: "Letters and writing"
+      gloss: "leaf or sheet of a written record, without specifying its material"
+      root: "l-n-b"
+      frame: bare
   icon: icon-speaking
   templatePriority: null
   packFolder: language
