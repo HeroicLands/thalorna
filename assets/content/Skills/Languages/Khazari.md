@@ -8206,6 +8206,36 @@ data:
     - {root: kh-r-p, sense: "dry by removing moisture", field: deep}
     - {root: h-r-f, sense: "haft or tool handle", field: craft}
     - {root: kh-r-v, sense: "weathering of exposed stone", field: grain}
+    - {root: g-d-k, sense: "collapse or fallen rock of a cave-in", field: grain}
+    - {root: g-l-v, sense: "west", field: motion}
+    - {root: r-v-th, sense: "east", field: motion}
+    - {root: m-r-d, sense: "soft, yielding under a cut", field: grain}
+    - {root: g-t-l, sense: "timber", field: deep}
+    - {root: g-d-b, sense: "dull in sound or ring", field: deep}
+    - {root: k-l-v, sense: "one third of the relevant stated unit", field: deep}
+    - {root: kh-b-l, sense: "extinguish a fire or hearth", field: craft}
+    - {root: n-d-v, sense: "short in length or extent", field: motion}
+    - {root: s-m-l, sense: "sleep", field: body}
+    - {root: b-r-g, sense: "lever or pry-bar", field: deep}
+    - {root: p-d-r, sense: "waterskin", field: other}
+    - {root: b-d-v, sense: "rain", field: other}
+    - {root: r-b-th, sense: "fail in physical function, give out", field: body}
+    - {root: b-d-th, sense: "one quarter of the relevant whole", field: deep}
+    - {root: g-r-b, sense: "circle", field: deep}
+    - {root: f-r-kh, sense: "make flat or level", field: deep}
+    - {root: p-r-d, sense: "spall, a flaked-off or spalled surface of stone", field: grain}
+    - {root: h-l-d, sense: "heat or warmth", field: time}
+    - {root: r-b-k, sense: "width or breadth", field: deep}
+    - {root: h-l-s, sense: "frost or freezing", field: time}
+    - {root: p-s-t, sense: "give or slight yielding of a material under force", field: grain}
+    - {root: m-r-z, sense: "lie ahead of the stated person or thing", field: motion}
+    - {root: z-r-b, sense: "lose something", field: deep}
+    - {root: z-n-m, sense: "resemble or present the appearance of something", field: body}
+    - {root: z-v-r, sense: "change of state or course", field: motion}
+    - {root: l-m-th, sense: "permitted or admitted to the act under discussion", field: deep}
+    - root: l-n-b
+      sense: "leaf or sheet of a written record, without specifying its material"
+      field: law
   register:
     - {name: "Balgan", tongue: khazari}
     - {name: "Bamgan", tongue: khazari}
