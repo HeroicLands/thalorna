@@ -3114,10 +3114,9 @@ data:
       field: Everyday speech
       concept: half
     - form: plem
-      class: num/adverb
+      class: num
       gloss: "many when counting things; much when measuring a substance. Plem gnum:
-        many pots; plem vatna: much water.; also, more in a comparative
-        poeticcitation"
+        many pots; plem vatna: much water."
       field: Everyday speech
       concept: [many, much]
     - form: sneri
