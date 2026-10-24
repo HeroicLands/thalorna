@@ -457,6 +457,63 @@ data:
     - { form: Vithgard }
     - { form: Nordlands }
   words:
+    - { "form": "alva", "class": "n", "field": "Everyday speech", "gloss": "ale" }
+    - {
+        "form": "malva",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "lawsuit or formal claim",
+      }
+    - { "form": "skipsta", "class": "n", "field": "Everyday speech", "gloss": "shipyard" }
+    - { "form": "skipsnir", "class": "n", "field": "Everyday speech", "gloss": "slipway" }
+    - { "form": "skardhul", "class": "n", "field": "Everyday speech", "gloss": "sawpit" }
+    - { "form": "tarka", "class": "n", "field": "Everyday speech", "gloss": "tar" }
+    - {
+        "form": "skipsteld",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "stocks or trestles supporting shipbuilding",
+      }
+    - { "form": "eikva", "class": "n", "field": "Everyday speech", "gloss": "oak" }
+    - {
+        "form": "skervma",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "scarf joint in timber",
+      }
+    - { "form": "skralvi", "class": "n", "field": "Everyday speech", "gloss": "adze" }
+    - { "form": "hafrurna", "class": "n", "field": "Everyday speech", "gloss": "tide" }
+    - { "form": "randva", "class": "n", "field": "Everyday speech", "gloss": "edge" }
+    - { "form": "skildva", "class": "n", "field": "Everyday speech", "gloss": "plank or board" }
+    - { "form": "lorkna", "class": "adj", "field": "Everyday speech", "gloss": "closed" }
+    - { "form": "vidvarma", "class": "n", "field": "Everyday speech", "gloss": "structural beam" }
+    - { "form": "foskva", "class": "n", "field": "Everyday speech", "gloss": "ash left by burning" }
+    - { "form": "snirvef", "class": "n", "field": "Everyday speech", "gloss": "sailcloth" }
+    - {
+        "form": "hvilma",
+        "class": "n",
+        "field": "Everyday speech",
+        "gloss": "ablaut grade of a Nordmalname",
+      }
+    - { "form": "skipsmivri", "class": "n", "field": "Everyday speech", "gloss": "shipwright" }
+    - { "form": "skelva", "class": "n", "field": "Everyday speech", "gloss": "strake of a hull" }
+    - { "form": "vidsteld", "class": "n", "field": "Everyday speech", "gloss": "mast step" }
+    - { "form": "brukma", "class": "n", "field": "Everyday speech", "gloss": "use of a tool" }
+    - { "form": "parathva", "class": "n", "field": "Everyday speech", "gloss": "autumn" }
+    - { "form": "lanma", "class": "n", "field": "Everyday speech", "gloss": "drawn or marked line" }
+    - { "form": "hvitstev", "class": "n", "field": "Everyday speech", "gloss": "chalk" }
+    - { "form": "islos", "class": "n", "field": "Everyday speech", "gloss": "thaw" }
+    - { "form": "motna", "class": "adj", "field": "Everyday speech", "gloss": "shaped" }
+    - { "form": "barnva", "class": "n", "field": "Everyday speech", "gloss": "barley" }
+    - { "form": "fralvef", "class": "n", "field": "Everyday speech", "gloss": "apron" }
+    - { "form": "gronarva", "class": "n", "field": "Everyday speech", "gloss": "spring season" }
+    - { "form": "skenma", "class": "n", "field": "Everyday speech", "gloss": "evidence" }
+    - { "form": "gullva", "class": "n", "field": "Everyday speech", "gloss": "gold metal" }
+    - { "form": "eidbrakri", "class": "n", "field": "Everyday speech", "gloss": "oath breaker" }
+    - { "form": "hafrand", "class": "n", "field": "Everyday speech", "gloss": "tideline" }
+    - { "form": "domma", "class": "n", "field": "Everyday speech", "gloss": "judgment" }
+    - { "form": "aukma", "class": "n", "field": "Everyday speech", "gloss": "addition" }
+    - { "form": "sulna", "class": "v", "field": "Everyday speech", "gloss": "pour" }
     - { "form": "dulvma", "class": "n", "field": "Everyday speech", "gloss": "darkness" }
     - {
         "form": "gnumrand",
@@ -3495,8 +3552,8 @@ data:
       field: Everyday speech
       concept: hope-verb
     - form: forhug
-      class: v
-      gloss: to intend; to have a purpose of acting in a stated way
+      class: v/n
+      gloss: to intend; to have a purpose of acting in a stated way; also, intention or purpose
       field: Everyday speech
       concept: intend
     - form: velna fror
