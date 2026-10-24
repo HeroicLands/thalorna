@@ -1,17 +1,20 @@
 ---
 shortcode: khazarlng
-name: {full: Khazari Language, aliases: [Elder Tongue]}
+name: { full: Khazari Language, aliases: [Elder Tongue] }
 type: skill
 subType: language
 description: "The second of the Elder Tongues—short, percussive, and consonant-heavy, kept alive in the holds of the Khazari."
 tags: []
 data:
   abbreviation: Khaz.
-  writtenIn: {map: pirzath, font: pirzath-hand}
+  writtenIn: { map: pirzath, font: pirzath-hand }
   fields:
-    - {name: Stone and metal, holds: "stone, ore, metal, gem"}
-    - {name: Craft and the forge, holds: "craft, tool, forge, fire"}
-    - {name: The deep, holds: "delving, the deep places and what is kept there"}
+    - { name: Stone and metal, holds: "stone, ore, metal, gem" }
+    - { name: Craft and the forge, holds: "craft, tool, forge, fire" }
+    - {
+        name: The deep,
+        holds: "delving, the deep places and what is kept there",
+      }
     - name: The grain of the rock
       holds: "grain, joint, bedding, fault, fissure, flaw, stress, the mountain whole, its shudder, the stone's temper and will"
     - name: Caves and their finding
@@ -20,7 +23,7 @@ data:
       holds: "cliff, face, opening, daylight, court, flue and smoke, wind, sky and star, the home on the face"
     - name: Listening and the cut
       holds: "listening, reading, sounding, restraint, apprenticeship, the clumsy and the straight cut"
-    - {name: The hold, holds: "hold, hall, tower, gate, pillar, stair, road"}
+    - { name: The hold, holds: "hold, hall, tower, gate, pillar, stair, road" }
     - name: Kin and the house
       holds: "clan, house, line, elder, child, the name, the shared meal, exile from the house"
     - name: "Oath, law and measure"
@@ -29,22 +32,41 @@ data:
       holds: "the carved and hand forms of Pirzath, ink, chalk, wax, stylus, the letter, the line of text"
     - name: Song and telling
       holds: "song, lament, the telling and the account, charm, foretelling, riddle, saying, praise, the word"
-    - {name: "Time and the mountain's seasons", holds: "generation, age, season, cold and thaw"}
-    - {name: Body and person, holds: "the body, its strength, its voice"}
-    - {name: War and the guarding, holds: "war, the Grukar, guarding, sealing, arms"}
-    - {name: Death and memory, holds: "death, the tomb, mourning, remembrance"}
-    - {name: The god and devotion, holds: "the god, devotion as craft, dream"}
+    - {
+        name: "Time and the mountain's seasons",
+        holds: "generation, age, season, cold and thaw",
+      }
+    - { name: Body and person, holds: "the body, its strength, its voice" }
+    - {
+        name: War and the guarding,
+        holds: "war, the Grukar, guarding, sealing, arms",
+      }
+    - {
+        name: Death and memory,
+        holds: "death, the tomb, mourning, remembrance",
+      }
+    - { name: The god and devotion, holds: "the god, devotion as craft, dream" }
     - name: The Shadow and what rises
       holds: "the void, corruption, the breach, what comes up from below"
     - name: Khazartúrn
       holds: "the city of the seven towers: its streets, fountains, markets and painted sky"
     - name: Other peoples and the larder
       holds: "humans, the elder folk of the forest, crowns, farming for the hold, hunger, ale, rivers, the sea"
-    - {name: Motion and holding, holds: "going, coming, climbing, carrying, holding fast"}
-    - {name: Grammar words, holds: "pronouns, particles, numerals, quantity"}
-  grammar: {plural: [{ending: "", becomes: ez}]}
+    - {
+        name: Motion and holding,
+        holds: "going, coming, climbing, carrying, holding fast",
+      }
+    - { name: Grammar words, holds: "pronouns, particles, numerals, quantity" }
+  grammar: { plural: [{ ending: "", becomes: ez }] }
   words:
-    - {form: dalk, class: "n", field: Stone and metal, gloss: "stone", root: "d-l-k", frame: bare}
+    - {
+        form: dalk,
+        class: "n",
+        field: Stone and metal,
+        gloss: "stone",
+        root: "d-l-k",
+        frame: bare,
+      }
     - form: dalík
       class: adj
       field: Stone and metal
@@ -87,7 +109,14 @@ data:
       gloss: "a dressed block"
       root: "d-l-k"
       frame: done thing
-    - {form: halb, class: "n", field: Stone and metal, gloss: "silver", root: "h-l-b", frame: bare}
+    - {
+        form: halb,
+        class: "n",
+        field: Stone and metal,
+        gloss: "silver",
+        root: "h-l-b",
+        frame: bare,
+      }
     - form: halíb
       class: adj
       field: Stone and metal
@@ -106,7 +135,14 @@ data:
       gloss: "a silver piece, a worked ingot"
       root: "h-l-b"
       frame: done thing
-    - {form: sakar, class: "n", field: Stone and metal, gloss: "iron", root: "s-k-r", frame: bare}
+    - {
+        form: sakar,
+        class: "n",
+        field: Stone and metal,
+        gloss: "iron",
+        root: "s-k-r",
+        frame: bare,
+      }
     - form: sakír
       class: adj
       field: Stone and metal
@@ -131,7 +167,14 @@ data:
       gloss: "an ironworks"
       root: "s-k-r"
       frame: place
-    - {form: balg, class: "n", field: Stone and metal, gloss: "copper", root: "b-l-g", frame: bare}
+    - {
+        form: balg,
+        class: "n",
+        field: Stone and metal,
+        gloss: "copper",
+        root: "b-l-g",
+        frame: bare,
+      }
     - form: balgir
       class: "n"
       field: Stone and metal
@@ -168,7 +211,14 @@ data:
       gloss: "a lode, where the veins meet"
       root: "r-b-d"
       frame: place
-    - {form: maltev, class: "n", field: Stone and metal, gloss: "salt", root: "m-l-t", frame: bare}
+    - {
+        form: maltev,
+        class: "n",
+        field: Stone and metal,
+        gloss: "salt",
+        root: "m-l-t",
+        frame: bare,
+      }
     - form: malít
       class: adj
       field: Stone and metal
@@ -206,7 +256,14 @@ data:
       gloss: "a granite face"
       root: "t-l-v"
       frame: place
-    - {form: tharz, class: "n", field: Stone and metal, gloss: "gold", root: "th-r-z", frame: bare}
+    - {
+        form: tharz,
+        class: "n",
+        field: Stone and metal,
+        gloss: "gold",
+        root: "th-r-z",
+        frame: bare,
+      }
     - form: tharíz
       class: adj
       field: Stone and metal
@@ -219,7 +276,14 @@ data:
       gloss: "a gold piece, worked gold"
       root: "th-r-z"
       frame: done thing
-    - {form: zalf, class: "n", field: Stone and metal, gloss: "tin", root: "z-l-f", frame: bare}
+    - {
+        form: zalf,
+        class: "n",
+        field: Stone and metal,
+        gloss: "tin",
+        root: "z-l-f",
+        frame: bare,
+      }
     - form: zalíf
       class: adj
       field: Stone and metal
@@ -232,7 +296,14 @@ data:
       gloss: "a tin-working"
       root: "z-l-f"
       frame: place
-    - {form: pabak, class: "n", field: Stone and metal, gloss: "lead", root: "p-b-k", frame: bare}
+    - {
+        form: pabak,
+        class: "n",
+        field: Stone and metal,
+        gloss: "lead",
+        root: "p-b-k",
+        frame: bare,
+      }
     - form: pabík
       class: adj
       field: Stone and metal
@@ -359,7 +430,14 @@ data:
       gloss: "a marble slab"
       root: "l-gh-b"
       frame: done thing
-    - {form: zatag, class: "n", field: Stone and metal, gloss: "steel", root: "z-t-g", frame: bare}
+    - {
+        form: zatag,
+        class: "n",
+        field: Stone and metal,
+        gloss: "steel",
+        root: "z-t-g",
+        frame: bare,
+      }
     - form: zatíg
       class: adj
       field: Stone and metal
@@ -390,7 +468,14 @@ data:
       gloss: "a steel blank"
       root: "z-t-g"
       frame: done thing
-    - {form: sarv, class: "n", field: Stone and metal, gloss: "slate", root: "s-r-v", frame: bare}
+    - {
+        form: sarv,
+        class: "n",
+        field: Stone and metal,
+        gloss: "slate",
+        root: "s-r-v",
+        frame: bare,
+      }
     - form: sarív
       class: adj
       field: Stone and metal
@@ -409,7 +494,14 @@ data:
       gloss: "a slate tablet"
       root: "s-r-v"
       frame: done thing
-    - {form: fazak, class: "n", field: Stone and metal, gloss: "flint", root: "f-z-k", frame: bare}
+    - {
+        form: fazak,
+        class: "n",
+        field: Stone and metal,
+        gloss: "flint",
+        root: "f-z-k",
+        frame: bare,
+      }
     - form: fazík
       class: adj
       field: Stone and metal
@@ -1290,7 +1382,14 @@ data:
       gloss: "a mender of old work"
       root: "m-n-d"
       frame: worker
-    - {form: khalv, class: "n", field: The deep, gloss: "the unlit", root: "kh-l-v", frame: bare}
+    - {
+        form: khalv,
+        class: "n",
+        field: The deep,
+        gloss: "the unlit",
+        root: "kh-l-v",
+        frame: bare,
+      }
     - form: khalív
       variants: [khalivev, khalivez]
       class: adj
@@ -1316,18 +1415,60 @@ data:
       gloss: "a delving, a working"
       root: "g-n-v"
       frame: bare
-    - {form: ganvir, class: "n", field: The deep, gloss: "a delver", root: "g-n-v", frame: worker}
-    - {form: gunáv, class: v, field: The deep, gloss: "to delve", root: "g-n-v", frame: deed}
+    - {
+        form: ganvir,
+        class: "n",
+        field: The deep,
+        gloss: "a delver",
+        root: "g-n-v",
+        frame: worker,
+      }
+    - {
+        form: gunáv,
+        class: v,
+        field: The deep,
+        gloss: "to delve",
+        root: "g-n-v",
+        frame: deed,
+      }
     - form: gunnáv
       class: v
       field: The deep
       gloss: "to delve as a master does"
       root: "g-n-v"
       frame: mastery
-    - {form: huganv, class: "n", field: The deep, gloss: "a mine", root: "g-n-v", frame: place}
-    - {form: bamg, class: "n", field: The deep, gloss: "the deep", root: "b-m-g", frame: bare}
-    - {form: bamíg, class: adj, field: The deep, gloss: "deep", root: "b-m-g", frame: adjective}
-    - {form: bumág, class: v, field: The deep, gloss: "to go deeper", root: "b-m-g", frame: deed}
+    - {
+        form: huganv,
+        class: "n",
+        field: The deep,
+        gloss: "a mine",
+        root: "g-n-v",
+        frame: place,
+      }
+    - {
+        form: bamg,
+        class: "n",
+        field: The deep,
+        gloss: "the deep",
+        root: "b-m-g",
+        frame: bare,
+      }
+    - {
+        form: bamíg,
+        class: adj,
+        field: The deep,
+        gloss: "deep",
+        root: "b-m-g",
+        frame: adjective,
+      }
+    - {
+        form: bumág,
+        class: v,
+        field: The deep,
+        gloss: "to go deeper",
+        root: "b-m-g",
+        frame: deed,
+      }
     - form: hubamg
       class: "n"
       field: The deep
@@ -1352,15 +1493,36 @@ data:
       gloss: "a root-working, the lowest level of a hold"
       root: "p-r-n"
       frame: place
-    - {form: tabarod, class: "n", field: The deep, gloss: "deep water", root: "t-b-r", frame: bare}
+    - {
+        form: tabarod,
+        class: "n",
+        field: The deep,
+        gloss: "deep water",
+        root: "t-b-r",
+        frame: bare,
+      }
     - form: tabír
       class: adj
       field: The deep
       gloss: "drowned, water-filled"
       root: "t-b-r"
       frame: adjective
-    - {form: hutabar, class: "n", field: The deep, gloss: "a cistern", root: "t-b-r", frame: place}
-    - {form: tubár, class: v, field: The deep, gloss: "to flood", root: "t-b-r", frame: deed}
+    - {
+        form: hutabar,
+        class: "n",
+        field: The deep,
+        gloss: "a cistern",
+        root: "t-b-r",
+        frame: place,
+      }
+    - {
+        form: tubár,
+        class: v,
+        field: The deep,
+        gloss: "to flood",
+        root: "t-b-r",
+        frame: deed,
+      }
     - form: lakamev
       class: "n"
       field: The deep
@@ -1386,7 +1548,14 @@ data:
       gloss: "a lamp-niche"
       root: "l-k-m"
       frame: place
-    - {form: thavan, class: "n", field: The deep, gloss: "a shaft", root: "th-v-n", frame: bare}
+    - {
+        form: thavan,
+        class: "n",
+        field: The deep,
+        gloss: "a shaft",
+        root: "th-v-n",
+        frame: bare,
+      }
     - form: thuván
       class: v
       field: The deep
@@ -1399,7 +1568,14 @@ data:
       gloss: "a shaft-head"
       root: "th-v-n"
       frame: place
-    - {form: narv, class: "n", field: The deep, gloss: "a tunnel", root: "n-r-v", frame: bare}
+    - {
+        form: narv,
+        class: "n",
+        field: The deep,
+        gloss: "a tunnel",
+        root: "n-r-v",
+        frame: bare,
+      }
     - form: narvir
       class: "n"
       field: The deep
@@ -1424,10 +1600,38 @@ data:
       gloss: "a tunnel-mouth"
       root: "n-r-v"
       frame: place
-    - {form: dhamv, class: "n", field: The deep, gloss: "darkness", root: "dh-m-v", frame: bare}
-    - {form: dhamív, class: adj, field: The deep, gloss: "dark", root: "dh-m-v", frame: adjective}
-    - {form: dhumáv, class: v, field: The deep, gloss: "to darken", root: "dh-m-v", frame: deed}
-    - {form: pasv, class: "n", field: The deep, gloss: "a cavern", root: "p-s-v", frame: bare}
+    - {
+        form: dhamv,
+        class: "n",
+        field: The deep,
+        gloss: "darkness",
+        root: "dh-m-v",
+        frame: bare,
+      }
+    - {
+        form: dhamív,
+        class: adj,
+        field: The deep,
+        gloss: "dark",
+        root: "dh-m-v",
+        frame: adjective,
+      }
+    - {
+        form: dhumáv,
+        class: v,
+        field: The deep,
+        gloss: "to darken",
+        root: "dh-m-v",
+        frame: deed,
+      }
+    - {
+        form: pasv,
+        class: "n",
+        field: The deep,
+        gloss: "a cavern",
+        root: "p-s-v",
+        frame: bare,
+      }
     - form: pasív
       variants: [pasivez]
       class: adj
@@ -1435,9 +1639,30 @@ data:
       gloss: "hollow"
       root: "p-s-v"
       frame: adjective
-    - {form: pusáv, class: v, field: The deep, gloss: "to hollow out", root: "p-s-v", frame: deed}
-    - {form: valgh, class: "n", field: The deep, gloss: "an echo", root: "v-l-gh", frame: bare}
-    - {form: vulágh, class: v, field: The deep, gloss: "to echo", root: "v-l-gh", frame: deed}
+    - {
+        form: pusáv,
+        class: v,
+        field: The deep,
+        gloss: "to hollow out",
+        root: "p-s-v",
+        frame: deed,
+      }
+    - {
+        form: valgh,
+        class: "n",
+        field: The deep,
+        gloss: "an echo",
+        root: "v-l-gh",
+        frame: bare,
+      }
+    - {
+        form: vulágh,
+        class: v,
+        field: The deep,
+        gloss: "to echo",
+        root: "v-l-gh",
+        frame: deed,
+      }
     - form: vatulágh
       class: v
       field: The deep
@@ -1450,31 +1675,80 @@ data:
       gloss: "a glow, the light kept below"
       root: "l-b-t"
       frame: bare
-    - {form: labít, class: adj, field: The deep, gloss: "glowing", root: "l-b-t", frame: adjective}
-    - {form: lubát, class: v, field: The deep, gloss: "to glow", root: "l-b-t", frame: deed}
+    - {
+        form: labít,
+        class: adj,
+        field: The deep,
+        gloss: "glowing",
+        root: "l-b-t",
+        frame: adjective,
+      }
+    - {
+        form: lubát,
+        class: v,
+        field: The deep,
+        gloss: "to glow",
+        root: "l-b-t",
+        frame: deed,
+      }
     - form: hulabat
       class: "n"
       field: The deep
       gloss: "a lit hall deep in the rock"
       root: "l-b-t"
       frame: place
-    - {form: rafas, class: "n", field: The deep, gloss: "a seep", root: "r-f-s", frame: bare}
+    - {
+        form: rafas,
+        class: "n",
+        field: The deep,
+        gloss: "a seep",
+        root: "r-f-s",
+        frame: bare,
+      }
     - form: rafís
       class: adj
       field: The deep
       gloss: "seeping, wet"
       root: "r-f-s"
       frame: adjective
-    - {form: rufás, class: v, field: The deep, gloss: "to seep", root: "r-f-s", frame: deed}
-    - {form: fasdh, class: "n", field: The deep, gloss: "a draught", root: "f-s-dh", frame: bare}
-    - {form: fusádh, class: v, field: The deep, gloss: "to draw air", root: "f-s-dh", frame: deed}
+    - {
+        form: rufás,
+        class: v,
+        field: The deep,
+        gloss: "to seep",
+        root: "r-f-s",
+        frame: deed,
+      }
+    - {
+        form: fasdh,
+        class: "n",
+        field: The deep,
+        gloss: "a draught",
+        root: "f-s-dh",
+        frame: bare,
+      }
+    - {
+        form: fusádh,
+        class: v,
+        field: The deep,
+        gloss: "to draw air",
+        root: "f-s-dh",
+        frame: deed,
+      }
     - form: hufasdh
       class: "n"
       field: The deep
       gloss: "an air-shaft"
       root: "f-s-dh"
       frame: place
-    - {form: vatagh, class: "n", field: The deep, gloss: "bad air", root: "v-t-gh", frame: bare}
+    - {
+        form: vatagh,
+        class: "n",
+        field: The deep,
+        gloss: "bad air",
+        root: "v-t-gh",
+        frame: bare,
+      }
     - form: vatígh
       class: adj
       field: The deep
@@ -1499,9 +1773,30 @@ data:
       gloss: "the enduring of the glow"
       root: "l-b-t + b-t-m"
       frame: compound
-    - {form: basur, class: "n", field: The deep, gloss: "a spring", root: "b-s-r", frame: bare}
-    - {form: basír, class: adj, field: The deep, gloss: "welling", root: "b-s-r", frame: adjective}
-    - {form: busár, class: v, field: The deep, gloss: "to well up", root: "b-s-r", frame: deed}
+    - {
+        form: basur,
+        class: "n",
+        field: The deep,
+        gloss: "a spring",
+        root: "b-s-r",
+        frame: bare,
+      }
+    - {
+        form: basír,
+        class: adj,
+        field: The deep,
+        gloss: "welling",
+        root: "b-s-r",
+        frame: adjective,
+      }
+    - {
+        form: busár,
+        class: v,
+        field: The deep,
+        gloss: "to well up",
+        root: "b-s-r",
+        frame: deed,
+      }
     - form: hubasur
       class: "n"
       field: The deep
@@ -1533,21 +1828,42 @@ data:
       gloss: "a channel-head, where channels meet"
       root: "kh-n-k"
       frame: place
-    - {form: darp, class: "n", field: The deep, gloss: "a drip", root: "d-r-p", frame: bare}
+    - {
+        form: darp,
+        class: "n",
+        field: The deep,
+        gloss: "a drip",
+        root: "d-r-p",
+        frame: bare,
+      }
     - form: daríp
       class: adj
       field: The deep
       gloss: "dripping"
       root: "d-r-p"
       frame: adjective
-    - {form: duráp, class: v, field: The deep, gloss: "to drip", root: "d-r-p", frame: deed}
+    - {
+        form: duráp,
+        class: v,
+        field: The deep,
+        gloss: "to drip",
+        root: "d-r-p",
+        frame: deed,
+      }
     - form: hudarp
       class: "n"
       field: The deep
       gloss: "a drip-hall, where water falls slowly"
       root: "d-r-p"
       frame: place
-    - {form: gadhath, class: "n", field: The deep, gloss: "a sump", root: "g-dh-th", frame: bare}
+    - {
+        form: gadhath,
+        class: "n",
+        field: The deep,
+        gloss: "a sump",
+        root: "g-dh-th",
+        frame: bare,
+      }
     - form: gadhíth
       class: adj
       field: The deep
@@ -3101,14 +3417,28 @@ data:
       gloss: "to lie course on course"
       root: "r-m-k"
       frame: reflexive
-    - {form: huramk, class: "n", field: The hold, gloss: "a workhall", root: "r-m-k", frame: place}
+    - {
+        form: huramk,
+        class: "n",
+        field: The hold,
+        gloss: "a workhall",
+        root: "r-m-k",
+        frame: place,
+      }
     - form: rimkath
       class: "n"
       field: The hold
       gloss: "a laid wall"
       root: "r-m-k"
       frame: done thing
-    - {form: tanv, class: "n", field: The hold, gloss: "a gate", root: "t-n-v", frame: bare}
+    - {
+        form: tanv,
+        class: "n",
+        field: The hold,
+        gloss: "a gate",
+        root: "t-n-v",
+        frame: bare,
+      }
     - form: tanvir
       class: "n"
       field: The hold
@@ -3127,7 +3457,14 @@ data:
       gloss: "a gatehouse"
       root: "t-n-v"
       frame: place
-    - {form: khardev, class: "n", field: The hold, gloss: "a hold", root: "kh-r-d", frame: bare}
+    - {
+        form: khardev,
+        class: "n",
+        field: The hold,
+        gloss: "a hold",
+        root: "kh-r-d",
+        frame: bare,
+      }
     - form: kharíd
       class: adj
       field: The hold
@@ -3152,14 +3489,28 @@ data:
       gloss: "a bridge-builder"
       root: "h-n-th"
       frame: worker
-    - {form: hunáth, class: v, field: The hold, gloss: "to span", root: "h-n-th", frame: deed}
+    - {
+        form: hunáth,
+        class: v,
+        field: The hold,
+        gloss: "to span",
+        root: "h-n-th",
+        frame: deed,
+      }
     - form: hunnáth
       class: v
       field: The hold
       gloss: "to span as a master does"
       root: "h-n-th"
       frame: mastery
-    - {form: samd, class: "n", field: The hold, gloss: "a height", root: "s-m-d", frame: bare}
+    - {
+        form: samd,
+        class: "n",
+        field: The hold,
+        gloss: "a height",
+        root: "s-m-d",
+        frame: bare,
+      }
     - form: samíd
       variants: [samidez]
       class: adj
@@ -3167,28 +3518,56 @@ data:
       gloss: "raised, lofty"
       root: "s-m-d"
       frame: adjective
-    - {form: sumád, class: v, field: The hold, gloss: "to raise", root: "s-m-d", frame: deed}
+    - {
+        form: sumád,
+        class: v,
+        field: The hold,
+        gloss: "to raise",
+        root: "s-m-d",
+        frame: deed,
+      }
     - form: summád
       class: v
       field: The hold
       gloss: "to raise as a master does"
       root: "s-m-d"
       frame: mastery
-    - {form: gakal, class: "n", field: The hold, gloss: "a plumb-line", root: "g-k-l", frame: bare}
+    - {
+        form: gakal,
+        class: "n",
+        field: The hold,
+        gloss: "a plumb-line",
+        root: "g-k-l",
+        frame: bare,
+      }
     - form: gakíl
       class: adj
       field: The hold
       gloss: "upright, plumb"
       root: "g-k-l"
       frame: adjective
-    - {form: gukál, class: v, field: The hold, gloss: "to set upright", root: "g-k-l", frame: deed}
+    - {
+        form: gukál,
+        class: v,
+        field: The hold,
+        gloss: "to set upright",
+        root: "g-k-l",
+        frame: deed,
+      }
     - form: gikalath
       class: "n"
       field: The hold
       gloss: "an upright, a set post"
       root: "g-k-l"
       frame: done thing
-    - {form: darb, class: "n", field: The hold, gloss: "a tower", root: "d-r-b", frame: bare}
+    - {
+        form: darb,
+        class: "n",
+        field: The hold,
+        gloss: "a tower",
+        root: "d-r-b",
+        frame: bare,
+      }
     - form: darbir
       class: "n"
       field: The hold
@@ -3201,7 +3580,14 @@ data:
       gloss: "a tower-court"
       root: "d-r-b"
       frame: place
-    - {form: fanth, class: "n", field: The hold, gloss: "a hall", root: "f-n-th", frame: bare}
+    - {
+        form: fanth,
+        class: "n",
+        field: The hold,
+        gloss: "a hall",
+        root: "f-n-th",
+        frame: bare,
+      }
     - form: faníth
       class: adj
       field: The hold
@@ -3214,7 +3600,14 @@ data:
       gloss: "to roof a hall"
       root: "f-n-th"
       frame: deed
-    - {form: tamb, class: "n", field: The hold, gloss: "a pillar", root: "t-m-b", frame: bare}
+    - {
+        form: tamb,
+        class: "n",
+        field: The hold,
+        gloss: "a pillar",
+        root: "t-m-b",
+        frame: bare,
+      }
     - form: tamíb
       class: adj
       field: The hold
@@ -3233,7 +3626,14 @@ data:
       gloss: "a carved pillar"
       root: "t-m-b"
       frame: done thing
-    - {form: satav, class: "n", field: The hold, gloss: "a stair", root: "s-t-v", frame: bare}
+    - {
+        form: satav,
+        class: "n",
+        field: The hold,
+        gloss: "a stair",
+        root: "s-t-v",
+        frame: bare,
+      }
     - form: sutáv
       class: v
       field: The hold
@@ -3265,7 +3665,14 @@ data:
       gloss: "to open a door"
       root: "d-gh-l"
       frame: deed
-    - {form: bathal, class: "n", field: The hold, gloss: "a vault", root: "b-th-l", frame: bare}
+    - {
+        form: bathal,
+        class: "n",
+        field: The hold,
+        gloss: "a vault",
+        root: "b-th-l",
+        frame: bare,
+      }
     - form: bathíl
       class: adj
       field: The hold
@@ -3291,9 +3698,30 @@ data:
       root: "z-l-d"
       frame: bare
       concept: wall
-    - {form: zalíd, class: adj, field: The hold, gloss: "walled", root: "z-l-d", frame: adjective}
-    - {form: zulád, class: v, field: The hold, gloss: "to wall in", root: "z-l-d", frame: deed}
-    - {form: padhar, class: "n", field: The hold, gloss: "a chamber", root: "p-dh-r", frame: bare}
+    - {
+        form: zalíd,
+        class: adj,
+        field: The hold,
+        gloss: "walled",
+        root: "z-l-d",
+        frame: adjective,
+      }
+    - {
+        form: zulád,
+        class: v,
+        field: The hold,
+        gloss: "to wall in",
+        root: "z-l-d",
+        frame: deed,
+      }
+    - {
+        form: padhar,
+        class: "n",
+        field: The hold,
+        gloss: "a chamber",
+        root: "p-dh-r",
+        frame: bare,
+      }
     - form: pudhár
       class: v
       field: The hold
@@ -3313,14 +3741,28 @@ data:
       root: "b-v-th"
       frame: bare
       concept: floor
-    - {form: buváth, class: v, field: The hold, gloss: "to pave", root: "b-v-th", frame: deed}
+    - {
+        form: buváth,
+        class: v,
+        field: The hold,
+        gloss: "to pave",
+        root: "b-v-th",
+        frame: deed,
+      }
     - form: bivathath
       class: "n"
       field: The hold
       gloss: "a paved way"
       root: "b-v-th"
       frame: done thing
-    - {form: raghav, class: "n", field: The hold, gloss: "a road", root: "r-gh-v", frame: bare}
+    - {
+        form: raghav,
+        class: "n",
+        field: The hold,
+        gloss: "a road",
+        root: "r-gh-v",
+        frame: bare,
+      }
     - form: raghavir
       class: "n"
       field: The hold
@@ -4876,7 +5318,14 @@ data:
       concept: foot
       root: "t-f-n"
       frame: bare
-    - {form: tufán, class: v, field: Body and person, gloss: "to step", root: "t-f-n", frame: deed}
+    - {
+        form: tufán,
+        class: v,
+        field: Body and person,
+        gloss: "to step",
+        root: "t-f-n",
+        frame: deed,
+      }
     - form: zagan
       class: "n"
       field: Body and person
@@ -4902,7 +5351,14 @@ data:
       concept: face
       root: "h-z-m"
       frame: bare
-    - {form: huzám, class: v, field: Body and person, gloss: "to face", root: "h-z-m", frame: deed}
+    - {
+        form: huzám,
+        class: v,
+        field: Body and person,
+        gloss: "to face",
+        root: "h-z-m",
+        frame: deed,
+      }
     - form: hatuzám
       class: v
       field: Body and person
@@ -5694,14 +6150,28 @@ data:
       gloss: "the ringing-round of forcing, the rings that warp mind and soul"
       root: "d-g-r + k-r-g"
       frame: compound
-    - {form: zagath, class: "n", field: Khazartúrn, gloss: "a city", root: "z-g-th", frame: bare}
+    - {
+        form: zagath,
+        class: "n",
+        field: Khazartúrn,
+        gloss: "a city",
+        root: "z-g-th",
+        frame: bare,
+      }
     - form: zagíth
       class: adj
       field: Khazartúrn
       gloss: "of the city"
       root: "z-g-th"
       frame: adjective
-    - {form: favan, class: "n", field: Khazartúrn, gloss: "a fountain", root: "f-v-n", frame: bare}
+    - {
+        form: favan,
+        class: "n",
+        field: Khazartúrn,
+        gloss: "a fountain",
+        root: "f-v-n",
+        frame: bare,
+      }
     - form: fuván
       class: v
       field: Khazartúrn
@@ -5720,7 +6190,14 @@ data:
       gloss: "to let in the light"
       root: "z-v-dh"
       frame: deed
-    - {form: tavadh, class: "n", field: Khazartúrn, gloss: "a market", root: "t-v-dh", frame: bare}
+    - {
+        form: tavadh,
+        class: "n",
+        field: Khazartúrn,
+        gloss: "a market",
+        root: "t-v-dh",
+        frame: bare,
+      }
     - form: hutavadh
       class: "n"
       field: Khazartúrn
@@ -5739,14 +6216,28 @@ data:
       gloss: "to sing as a bird"
       root: "f-l-th"
       frame: deed
-    - {form: khabaz, class: "n", field: Khazartúrn, gloss: "paint", root: "kh-b-z", frame: bare}
+    - {
+        form: khabaz,
+        class: "n",
+        field: Khazartúrn,
+        gloss: "paint",
+        root: "kh-b-z",
+        frame: bare,
+      }
     - form: khabazir
       class: "n"
       field: Khazartúrn
       gloss: "a painter"
       root: "kh-b-z"
       frame: worker
-    - {form: khubáz, class: v, field: Khazartúrn, gloss: "to paint", root: "kh-b-z", frame: deed}
+    - {
+        form: khubáz,
+        class: v,
+        field: Khazartúrn,
+        gloss: "to paint",
+        root: "kh-b-z",
+        frame: deed,
+      }
     - form: khibazath
       class: "n"
       field: Khazartúrn
@@ -6268,7 +6759,14 @@ data:
       concept: many
       root: "r-v-z"
       frame: adjective
-    - {form: dhapal, class: "n", field: Grammar words, gloss: "a few", root: "dh-p-l", frame: bare}
+    - {
+        form: dhapal,
+        class: "n",
+        field: Grammar words,
+        gloss: "a few",
+        root: "dh-p-l",
+        frame: bare,
+      }
     - form: dhapíl
       variants: [dhapilez]
       class: adj
@@ -6354,48 +6852,144 @@ data:
       gloss: "last"
       root: "f-v-z"
       frame: adjective
-    - {form: gaz, class: pron, field: Grammar words, gloss: "I"}
-    - {form: ves, class: pron, field: Grammar words, gloss: "you"}
-    - {form: vog, class: pron, field: Grammar words, gloss: "he, she, it"}
-    - {form: gazun, class: pron, field: Grammar words, gloss: "we"}
-    - {form: vesun, class: pron, field: Grammar words, gloss: "you (many)"}
-    - {form: vogun, class: pron, field: Grammar words, gloss: "they"}
-    - {form: kedz, class: dem, field: Grammar words, gloss: "this, these"}
-    - {form: kodz, class: dem, field: Grammar words, gloss: "that, those"}
-    - {form: kelg, class: dem, field: Grammar words, gloss: "here"}
-    - {form: kolg, class: dem, field: Grammar words, gloss: "there"}
-    - {form: thuf, class: part, field: Grammar words, gloss: "not; stands before the verb"}
-    - {form: zef, class: part, field: Grammar words, gloss: "closes a question"}
-    - {form: thiz, class: part, field: Grammar words, gloss: "who? opens a question"}
-    - {form: thaz, class: part, field: Grammar words, gloss: "what? opens a question"}
-    - {form: thuz, class: part, field: Grammar words, gloss: "where? opens a question"}
-    - {form: bep, class: conj, field: Grammar words, gloss: "and"}
-    - {form: duz, class: conj, field: Grammar words, gloss: "or"}
-    - {form: gev, class: conj, field: Grammar words, gloss: "but"}
-    - {form: hiz, class: conj, field: Grammar words, gloss: "if"}
+    - { form: gaz, class: pron, field: Grammar words, gloss: "I" }
+    - { form: ves, class: pron, field: Grammar words, gloss: "you" }
+    - { form: vog, class: pron, field: Grammar words, gloss: "he, she, it" }
+    - { form: gazun, class: pron, field: Grammar words, gloss: "we" }
+    - { form: vesun, class: pron, field: Grammar words, gloss: "you (many)" }
+    - { form: vogun, class: pron, field: Grammar words, gloss: "they" }
+    - { form: kedz, class: dem, field: Grammar words, gloss: "this, these" }
+    - { form: kodz, class: dem, field: Grammar words, gloss: "that, those" }
+    - { form: kelg, class: dem, field: Grammar words, gloss: "here" }
+    - { form: kolg, class: dem, field: Grammar words, gloss: "there" }
+    - {
+        form: thuf,
+        class: part,
+        field: Grammar words,
+        gloss: "not; stands before the verb",
+      }
+    - {
+        form: zef,
+        class: part,
+        field: Grammar words,
+        gloss: "closes a question",
+      }
+    - {
+        form: thiz,
+        class: part,
+        field: Grammar words,
+        gloss: "who? opens a question",
+      }
+    - {
+        form: thaz,
+        class: part,
+        field: Grammar words,
+        gloss: "what? opens a question",
+      }
+    - {
+        form: thuz,
+        class: part,
+        field: Grammar words,
+        gloss: "where? opens a question",
+      }
+    - { form: bep, class: conj, field: Grammar words, gloss: "and" }
+    - { form: duz, class: conj, field: Grammar words, gloss: "or" }
+    - { form: gev, class: conj, field: Grammar words, gloss: "but" }
+    - { form: hiz, class: conj, field: Grammar words, gloss: "if" }
     - form: zi
       class: rel
       field: Grammar words
       gloss: "who, which, that; opens a clause after its noun"
-    - {form: nuv, class: part, field: Grammar words, gloss: "with, together with"}
-    - {form: lez, class: part, field: Grammar words, gloss: "also"}
-    - {form: hez, class: part, field: Grammar words, gloss: "again"}
-    - {form: tob, class: num, field: Grammar words, gloss: "one", concept: one}
-    - {form: zik, class: num, field: Grammar words, gloss: "two", concept: two}
-    - {form: vem, class: num, field: Grammar words, gloss: "three", concept: three}
-    - {form: bozd, class: num, field: Grammar words, gloss: "four", concept: four}
-    - {form: zop, class: num, field: Grammar words, gloss: "five", concept: five}
-    - {form: nefk, class: num, field: Grammar words, gloss: "six", concept: six}
-    - {form: fozd, class: num, field: Grammar words, gloss: "seven", concept: seven}
-    - {form: kabur, class: num, field: Grammar words, gloss: "eight", concept: eight}
-    - {form: khozum, class: num, field: Grammar words, gloss: "nine", concept: nine}
-    - {form: zund, class: num, field: Grammar words, gloss: "ten", concept: ten}
-    - {form: dolb, class: num, field: Grammar words, gloss: "eleven"}
-    - {form: mazk, class: num, field: Grammar words, gloss: "twelve"}
-    - {form: fegd, class: num, field: Grammar words, gloss: "thirteen"}
-    - {form: vunth, class: num, field: Grammar words, gloss: "fourteen"}
-    - {form: thulk, class: num, field: Grammar words, gloss: "fifteen"}
-    - {form: girm, variants: [girmez], class: num, field: Grammar words, gloss: "sixteen"}
+    - {
+        form: nuv,
+        class: part,
+        field: Grammar words,
+        gloss: "with, together with",
+      }
+    - { form: lez, class: part, field: Grammar words, gloss: "also" }
+    - { form: hez, class: part, field: Grammar words, gloss: "again" }
+    - {
+        form: tob,
+        class: num,
+        field: Grammar words,
+        gloss: "one",
+        concept: one,
+      }
+    - {
+        form: zik,
+        class: num,
+        field: Grammar words,
+        gloss: "two",
+        concept: two,
+      }
+    - {
+        form: vem,
+        class: num,
+        field: Grammar words,
+        gloss: "three",
+        concept: three,
+      }
+    - {
+        form: bozd,
+        class: num,
+        field: Grammar words,
+        gloss: "four",
+        concept: four,
+      }
+    - {
+        form: zop,
+        class: num,
+        field: Grammar words,
+        gloss: "five",
+        concept: five,
+      }
+    - {
+        form: nefk,
+        class: num,
+        field: Grammar words,
+        gloss: "six",
+        concept: six,
+      }
+    - {
+        form: fozd,
+        class: num,
+        field: Grammar words,
+        gloss: "seven",
+        concept: seven,
+      }
+    - {
+        form: kabur,
+        class: num,
+        field: Grammar words,
+        gloss: "eight",
+        concept: eight,
+      }
+    - {
+        form: khozum,
+        class: num,
+        field: Grammar words,
+        gloss: "nine",
+        concept: nine,
+      }
+    - {
+        form: zund,
+        class: num,
+        field: Grammar words,
+        gloss: "ten",
+        concept: ten,
+      }
+    - { form: dolb, class: num, field: Grammar words, gloss: "eleven" }
+    - { form: mazk, class: num, field: Grammar words, gloss: "twelve" }
+    - { form: fegd, class: num, field: Grammar words, gloss: "thirteen" }
+    - { form: vunth, class: num, field: Grammar words, gloss: "fourteen" }
+    - { form: thulk, class: num, field: Grammar words, gloss: "fifteen" }
+    - {
+        form: girm,
+        variants: [girmez],
+        class: num,
+        field: Grammar words,
+        gloss: "sixteen",
+      }
     - form: puvár
       class: v
       field: Motion and holding
@@ -6444,7 +7038,14 @@ data:
       gloss: "difference in number or amount"
       root: "b-dh-l"
       frame: bare
-    - {form: lagan, class: n, field: The hold, gloss: "table", root: "l-g-n", frame: bare}
+    - {
+        form: lagan,
+        class: n,
+        field: The hold,
+        gloss: "table",
+        root: "l-g-n",
+        frame: bare,
+      }
     - form: nalív
       variants: [nalívez]
       class: adj
@@ -6567,7 +7168,14 @@ data:
       gloss: "thicken, increase in thickness"
       root: "b-m-k"
       frame: deed
-    - {form: darg, class: n, field: The deep, gloss: "depth", root: "d-r-g", frame: bare}
+    - {
+        form: darg,
+        class: n,
+        field: The deep,
+        gloss: "depth",
+        root: "d-r-g",
+        frame: bare,
+      }
     - form: thuvár
       class: v
       field: Oath, law and measure
@@ -6640,7 +7248,14 @@ data:
       gloss: "distance"
       root: "t-r-v"
       frame: bare
-    - {form: napal, class: n, field: Body and person, gloss: "finger", root: "n-p-l", frame: bare}
+    - {
+        form: napal,
+        class: n,
+        field: Body and person,
+        gloss: "finger",
+        root: "n-p-l",
+        frame: bare,
+      }
     - form: duráz
       class: v
       field: Oath, law and measure
@@ -6725,7 +7340,14 @@ data:
       gloss: "intended or designed for"
       root: "k-r-th"
       frame: adjective
-    - {form: ravam, class: n, field: The hold, gloss: "gallery", root: "r-v-m", frame: bare}
+    - {
+        form: ravam,
+        class: n,
+        field: The hold,
+        gloss: "gallery",
+        root: "r-v-m",
+        frame: bare,
+      }
     - form: galn
       class: n
       field: Time and the mountain's seasons
@@ -6849,7 +7471,14 @@ data:
       gloss: "included in the count, counted"
       root: "k-m-v"
       frame: adjective
-    - {form: surák, class: v, field: The hold, gloss: "sweep", root: "s-r-k", frame: deed}
+    - {
+        form: surák,
+        class: v,
+        field: The hold,
+        gloss: "sweep",
+        root: "s-r-k",
+        frame: deed,
+      }
     - form: gadak
       class: n
       field: "Caves and their finding"
@@ -6982,8 +7611,22 @@ data:
       gloss: "short in length or extent"
       root: "n-d-v"
       frame: adjective
-    - {form: kasum, class: n, field: "Body and person", gloss: "ear", root: "k-s-m", frame: bare}
-    - {form: sumál, class: v, field: "Body and person", gloss: "sleep", root: "s-m-l", frame: deed}
+    - {
+        form: kasum,
+        class: n,
+        field: "Body and person",
+        gloss: "ear",
+        root: "k-s-m",
+        frame: bare,
+      }
+    - {
+        form: sumál,
+        class: v,
+        field: "Body and person",
+        gloss: "sleep",
+        root: "s-m-l",
+        frame: deed,
+      }
     - form: barg
       class: n
       field: "Craft and the forge"
@@ -7309,7 +7952,14 @@ data:
       gloss: "laugh"
       root: "g-l-th"
       frame: deed
-    - {form: lanat, class: n, field: "The deep", gloss: "lintel", root: "l-n-t", frame: bare}
+    - {
+        form: lanat,
+        class: n,
+        field: "The deep",
+        gloss: "lintel",
+        root: "l-n-t",
+        frame: bare,
+      }
     - form: makan
       variants: [makanev]
       class: n
@@ -7359,7 +8009,14 @@ data:
       gloss: "wick"
       root: "s-n-v"
       frame: bare
-    - {form: ganp, class: n, field: "The deep", gloss: "mouth", root: "g-n-p", frame: bare}
+    - {
+        form: ganp,
+        class: n,
+        field: "The deep",
+        gloss: "mouth",
+        root: "g-n-p",
+        frame: bare,
+      }
     - form: rathak
       class: n
       field: "Craft and the forge"
@@ -7483,7 +8140,14 @@ data:
       gloss: "slow"
       root: "p-l-v"
       frame: adjective
-    - {form: barn, class: n, field: "The deep", gloss: "signal horn", root: "b-r-n", frame: bare}
+    - {
+        form: barn,
+        class: n,
+        field: "The deep",
+        gloss: "signal horn",
+        root: "b-r-n",
+        frame: bare,
+      }
     - form: burán
       class: v
       field: "Listening and the cut"
@@ -7508,7 +8172,14 @@ data:
       gloss: "the eldest by age among the group present"
       root: "n-v-m"
       frame: bare
-    - {form: zamar, class: n, field: "The deep", gloss: "moral good", root: "z-m-r", frame: bare}
+    - {
+        form: zamar,
+        class: n,
+        field: "The deep",
+        gloss: "moral good",
+        root: "z-m-r",
+        frame: bare,
+      }
     - form: dunáv
       class: v
       field: "The deep"
@@ -7545,7 +8216,14 @@ data:
       gloss: "crossing-place"
       root: "f-dh-l"
       frame: place
-    - {form: zumán, class: v, field: "The deep", gloss: "complain", root: "z-m-n", frame: deed}
+    - {
+        form: zumán,
+        class: v,
+        field: "The deep",
+        gloss: "complain",
+        root: "z-m-n",
+        frame: deed,
+      }
     - form: pugár
       class: v
       field: "Motion and holding"
@@ -7588,15 +8266,36 @@ data:
       gloss: "make a work for a recipient's use, custom-build for someone"
       root: "b-m-th"
       frame: deed
-    - {form: tarm, class: n, field: "The deep", gloss: "tree", root: "t-r-m", frame: bare}
+    - {
+        form: tarm,
+        class: n,
+        field: "The deep",
+        gloss: "tree",
+        root: "t-r-m",
+        frame: bare,
+      }
     - form: dirpath
       class: n
       field: "The grain of the rock"
       gloss: "dripstone, a formation made by dripping"
       root: "d-r-p"
       frame: done thing
-    - {form: zumáv, class: v, field: "The deep", gloss: "sweat", root: "z-m-v", frame: deed}
-    - {form: dhumád, class: v, field: "The deep", gloss: "weep", root: "dh-m-d", frame: deed}
+    - {
+        form: zumáv,
+        class: v,
+        field: "The deep",
+        gloss: "sweat",
+        root: "z-m-v",
+        frame: deed,
+      }
+    - {
+        form: dhumád,
+        class: v,
+        field: "The deep",
+        gloss: "weep",
+        root: "dh-m-d",
+        frame: deed,
+      }
     - form: gazav
       class: n
       field: "The deep"
@@ -7663,14 +8362,28 @@ data:
       gloss: "spawner, bearer of young"
       root: "l-f-d"
       frame: worker
-    - {form: sarl, class: n, field: "The hold", gloss: "lintel", root: "s-r-l", frame: bare}
+    - {
+        form: sarl,
+        class: n,
+        field: "The hold",
+        gloss: "lintel",
+        root: "s-r-l",
+        frame: bare,
+      }
     - form: baln
       class: n
       field: "Other peoples and the larder"
       gloss: "cart"
       root: "b-l-n"
       frame: bare
-    - {form: maník, class: adj, field: "The deep", gloss: "empty", root: "m-n-k", frame: adjective}
+    - {
+        form: maník,
+        class: adj,
+        field: "The deep",
+        gloss: "empty",
+        root: "m-n-k",
+        frame: adjective,
+      }
     - form: ganz
       class: n
       field: "Letters and writing"
@@ -7695,7 +8408,14 @@ data:
       gloss: "rock or wobble without overturning"
       root: "r-m-l"
       frame: deed
-    - {form: bark, class: n, field: "Body and person", gloss: "knee", root: "b-r-k", frame: bare}
+    - {
+        form: bark,
+        class: n,
+        field: "Body and person",
+        gloss: "knee",
+        root: "b-r-k",
+        frame: bare,
+      }
     - form: gamun
       class: n
       field: "Other peoples and the larder"
@@ -7762,7 +8482,14 @@ data:
       gloss: "sand"
       root: "n-v-s"
       frame: bare
-    - {form: tazab, class: n, field: "Body and person", gloss: "ankle", root: "t-z-b", frame: bare}
+    - {
+        form: tazab,
+        class: n,
+        field: "Body and person",
+        gloss: "ankle",
+        root: "t-z-b",
+        frame: bare,
+      }
     - form: vadhagh-fusák
       class: n
       field: "Other peoples and the larder"
@@ -7793,7 +8520,12 @@ data:
       gloss: "roof of a chamber or building"
       root: "d-k-m"
       frame: bare
-    - {"form": "Khazár", "class": "n", "field": "Kin and the house", "gloss": "one of the people"}
+    - {
+        "form": "Khazár",
+        "class": "n",
+        "field": "Kin and the house",
+        "gloss": "one of the people",
+      }
     - "form": "garzir"
       "class": "n"
       "field": "War and the guarding"
@@ -7818,6 +8550,24 @@ data:
       "gloss": "one who hears"
       "root": "kh-m-d"
       "frame": "worker"
+    - form: karf
+      class: n
+      field: Other peoples and the larder
+      gloss: a falcon
+      root: k-r-f
+      frame: bare
+    - form: hudabaz
+      class: n
+      field: Death and memory
+      gloss: a resting place
+      root: d-b-z
+      frame: place
+    - form: sadav
+      class: n
+      field: The face and the light
+      gloss: north, the northern direction
+      root: s-d-v
+      frame: bare
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -7972,633 +8722,803 @@ data:
       - "Vald-sukár"
       - "Kaval-zunáth"
   sounds:
-    stress: {two: first, longer: penultimate, mark: acute}
+    stress: { two: first, longer: penultimate, mark: acute }
     skeleton:
-      - {second: [m, n, s], third: [r, m, n], between: u}
-      - {second: [l, r, m, n, s]}
-      - {second: any, between: a}
+      - { second: [m, n, s], third: [r, m, n], between: u }
+      - { second: [l, r, m, n, s] }
+      - { second: any, between: a }
     frames:
       - frame: bare
         shape: K1aK2K3
         class: [n]
         makes: the thing itself
-        examples: {r-m-k: ramk, d-l-k: dalk, th-m-r: thamur}
+        examples: { r-m-k: ramk, d-l-k: dalk, th-m-r: thamur }
       - frame: adjective
         shape: K1aK2iK3
         class: [adj]
         makes: of the kind that it is
-        examples: {r-m-k: ramík, d-l-k: dalík, th-m-r: thamír}
+        examples: { r-m-k: ramík, d-l-k: dalík, th-m-r: thamír }
       - frame: worker
         shape: K1aK2K3ir
         class: [n]
         makes: one who does it
-        examples: {r-m-k: ramkir, d-l-k: dalkir, th-m-r: thamrir}
+        examples: { r-m-k: ramkir, d-l-k: dalkir, th-m-r: thamrir }
       - frame: deed
         shape: K1uK2aK3
         class: [v, n]
         makes: the doing of it
-        examples: {r-m-k: rumák, d-l-k: dulák, th-m-r: thumár}
+        examples: { r-m-k: rumák, d-l-k: dulák, th-m-r: thumár }
       - frame: mastery
         shape: K1uK2K2aK3
         class: [v, n]
         makes: the doing of it as a master
-        examples: {r-m-k: rummák, d-l-k: dullák, th-m-r: thummár}
+        examples: { r-m-k: rummák, d-l-k: dullák, th-m-r: thummár }
       - frame: reflexive
         shape: K1atuK2aK3
         class: [v]
         makes: doing it to oneself or each other
-        examples: {r-m-k: ratumák, d-l-k: datulák, th-m-r: thatumár}
+        examples: { r-m-k: ratumák, d-l-k: datulák, th-m-r: thatumár }
       - frame: place
         shape: huK1aK2K3
         class: [n]
         makes: where it is done
-        examples: {r-m-k: huramk, d-l-k: hudalk, th-m-r: huthamur}
+        examples: { r-m-k: huramk, d-l-k: hudalk, th-m-r: huthamur }
       - frame: done thing
         shape: K1iK2K3ath
         class: [n]
         makes: what has been made
-        examples: {r-m-k: rimkath, d-l-k: dilkath, th-m-r: thimrath}
+        examples: { r-m-k: rimkath, d-l-k: dilkath, th-m-r: thimrath }
       - frame: "given name, man"
         shape: K1VK2K3Vn
         class: [name]
         makes: a man's name (below)
-        examples: {r-m-k: Ramkan, d-l-k: Dalkan, th-m-r: Thamran}
+        examples: { r-m-k: Ramkan, d-l-k: Dalkan, th-m-r: Thamran }
       - frame: "given name, woman"
         shape: K1VK2VK3
         class: [name]
         makes: a woman's name (below)
-        examples: {r-m-k: Ramak, d-l-k: Dalak, th-m-r: Thimir}
-      - {frame: compound, shape: bare - deed, class: [n], makes: two skeletons in one word}
+        examples: { r-m-k: Ramak, d-l-k: Dalak, th-m-r: Thimir }
+      - {
+          frame: compound,
+          shape: bare - deed,
+          class: [n],
+          makes: two skeletons in one word,
+        }
     mutations:
-      - {mutation: doubling, sound: th, becomes: tth}
-      - {mutation: doubling, sound: dh, becomes: ddh}
-      - {mutation: doubling, sound: kh, becomes: kkh}
-      - {mutation: doubling, sound: gh, becomes: ggh}
+      - { mutation: doubling, sound: th, becomes: tth }
+      - { mutation: doubling, sound: dh, becomes: ddh }
+      - { mutation: doubling, sound: kh, becomes: kkh }
+      - { mutation: doubling, sound: gh, becomes: ggh }
   older:
-    - {form: Khazár, gloss: one of the people, layer: Primordial}
-    - {form: Khazari, gloss: "the people, and their tongue", layer: Primordial}
-    - {form: Khazartúrn, gloss: the city of the seven towers, layer: Primordial}
+    - { form: Khazár, gloss: one of the people, layer: Primordial }
+    - {
+        form: Khazari,
+        gloss: "the people, and their tongue",
+        layer: Primordial,
+      }
+    - {
+        form: Khazartúrn,
+        gloss: the city of the seven towers,
+        layer: Primordial,
+      }
   affixes:
-    - {zero: true, gloss: Masculine, examples: ["_dalk_, stone"]}
-    - {form: -ev, gloss: Feminine, examples: ["_lakamev_, a lamp"]}
-    - {form: -od, gloss: Neuter, examples: ["_galdod_, fire"]}
-    - {zero: true, gloss: Singular, examples: ["_dalk_, stone"]}
-    - {form: -ez, gloss: Plural, examples: ["_dalkez_, stones"]}
+    - { zero: true, gloss: Masculine, examples: ["_dalk_, stone"] }
+    - { form: -ev, gloss: Feminine, examples: ["_lakamev_, a lamp"] }
+    - { form: -od, gloss: Neuter, examples: ["_galdod_, fire"] }
+    - { zero: true, gloss: Singular, examples: ["_dalk_, stone"] }
+    - { form: -ez, gloss: Plural, examples: ["_dalkez_, stones"] }
   roots:
-    - {root: b-l-g, sense: copper, field: stone}
-    - {root: b-z-th, sense: bronze, field: stone}
-    - {root: d-l-k, sense: stone; to cut stone, field: stone}
-    - {root: dh-l-p, sense: quicksilver, field: stone}
-    - {root: dh-r-b, sense: "basalt, black stone", field: stone}
-    - {root: f-z-k, sense: flint, field: stone}
-    - {root: gh-v-th, sense: "a blue stone, sapphire", field: stone}
-    - {root: h-l-b, sense: silver, field: stone}
-    - {root: g-m-th, sense: a gem; to facet, field: stone}
-    - {root: l-gh-b, sense: "marble, white stone", field: stone}
-    - {root: l-b-z, sense: "a seam, a stratum", field: stone}
-    - {root: m-d-k, sense: "bedrock, living rock", field: stone}
-    - {root: m-l-t, sense: salt, field: stone}
-    - {root: p-b-k, sense: lead (the metal), field: stone}
-    - {root: r-b-d, sense: a vein of ore, field: stone}
-    - {root: s-k-r, sense: iron, field: stone}
-    - {root: s-r-v, sense: "slate, layered stone", field: stone}
-    - {root: t-l-v, sense: "granite, hard grey stone", field: stone}
-    - {root: th-r-z, sense: gold, field: stone}
-    - {root: v-s-p, sense: "crystal, clear stone", field: stone}
-    - {root: z-gh-r, sense: ore; to win ore, field: stone}
-    - {root: z-l-f, sense: tin, field: stone}
-    - {root: z-t-g, sense: steel; to make steel, field: stone}
-    - {root: z-b-r, sense: "a red stone, ruby", field: stone}
-    - {root: d-m-g, sense: a hammer, field: craft}
-    - {root: d-n-k, sense: the fall of a hammer, field: craft}
-    - {root: f-r-z, sense: "the forge, the smith's hearth", field: craft}
-    - {root: g-l-d, sense: fire, field: craft}
-    - {root: g-r-p, sense: "to whet, to grind an edge", field: craft}
-    - {root: g-s-v, sense: "to quench, to temper in water", field: craft}
-    - {root: g-l-b, sense: glass, field: craft}
-    - {root: h-m-k, sense: "a note, a ringing; to ring", field: craft}
-    - {root: k-v-l, sense: to shape, field: craft}
-    - {root: l-t-b, sense: "to join metal, to solder", field: craft}
-    - {root: m-r-p, sense: an anvil, field: craft}
-    - {root: n-f-r, sense: bellows; to blow the fire, field: craft}
-    - {root: n-gh-p, sense: charcoal, field: craft}
-    - {root: p-l-z, sense: to fold metal, field: craft}
-    - {root: p-r-z, sense: "to engrave, to cut letters", field: craft}
-    - {root: s-l-th, sense: to pour, field: craft}
-    - {root: t-s-p, sense: a spark, field: craft}
-    - {root: th-m-r, sense: to strike, field: craft}
-    - {root: b-d-k, sense: a tool, field: craft}
-    - {root: v-g-l, sense: tongs; to grip with tongs, field: craft}
-    - {root: b-m-r, sense: "craft, work well done", field: craft}
-    - {root: z-d-b, sense: a chisel; to chisel, field: craft}
-    - {root: z-m-d, sense: to assay, field: craft}
-    - {root: z-n-th, sense: bright; to burnish, field: craft}
-    - {root: z-b-l, sense: to smelt, field: craft}
-    - {root: m-n-d, sense: to mend; a mending, field: craft}
-    - {root: b-s-r, sense: "a spring, water rising", field: deep}
-    - {root: d-r-p, sense: a drip; to drip, field: deep}
-    - {root: dh-m-v, sense: darkness, field: deep}
-    - {root: b-m-g, sense: the deep beneath the mountain's roots, field: deep}
-    - {root: f-s-dh, sense: air moving underground; to draw air, field: deep}
-    - {root: g-dh-th, sense: "a sump, a pool where water gathers", field: deep}
-    - {root: g-n-v, sense: to delve, field: deep}
-    - {root: kh-l-v, sense: "unlit, without light", field: deep}
-    - {root: kh-n-k, sense: a channel that follows a watercourse; to lead water, field: deep}
-    - {root: l-k-m, sense: a lamp, field: deep}
-    - {root: l-b-t, sense: a glow; light kept below, field: deep}
-    - {root: n-r-v, sense: a tunnel; to tunnel, field: deep}
-    - {root: p-r-n, sense: deep ground; a root, field: deep}
-    - {root: p-s-v, sense: "a cavern, a hollow", field: deep}
-    - {root: r-f-s, sense: "seep, water through rock", field: deep}
-    - {root: r-t-l, sense: "a rite of the working, the ancient manner", field: deep}
-    - {root: t-b-r, sense: "deep water, water under the mountain", field: deep}
-    - {root: th-v-n, sense: a shaft, field: deep}
-    - {root: v-l-gh, sense: an echo, field: deep}
-    - {root: v-t-gh, sense: "bad air, firedamp", field: deep}
-    - {root: b-k-th, sense: "a joint, a natural parting of the rock", field: rock}
-    - {root: z-r-s, sense: "a spur, a rib of rock", field: rock}
-    - {root: d-g-b, sense: "an overhang, a roof-ledge", field: rock}
-    - {root: g-th-gh, sense: a natural arch, field: rock}
-    - {root: g-z-k, sense: a flaw in the stone, field: rock}
-    - {root: h-l-gh, sense: "a crack, a fissure", field: rock}
-    - {root: v-m-th, sense: "stress, the load the rock carries", field: rock}
-    - {root: kh-t-m, sense: "the temper of a stone, its mood", field: rock}
-    - {root: m-g-r, sense: "the grain, the way the rock runs", field: rock}
-    - {root: n-k-s, sense: "to settle, to creep, as a slope does", field: rock}
-    - {root: p-k-r, sense: "rotten, crumbling stone", field: rock}
-    - {root: p-l-k, sense: to cleave along the grain, field: rock}
-    - {root: p-d-l, sense: the rock's own buttress, field: rock}
-    - {root: t-s-m, sense: "sound, whole stone", field: rock}
-    - {root: th-b-gh, sense: "the will of the stone, what it asks", field: rock}
-    - {root: z-g-r, sense: "a fault, where the rock has slipped", field: rock}
-    - {root: z-th-k, sense: weathering; the patina of age, field: rock}
-    - {root: gh-r-m, sense: "a mountain, the whole of one, and its will", field: rock}
-    - {root: n-gh-l, sense: "a shudder of the mountain, a quake", field: rock}
-    - {root: b-g-r, sense: a cave, field: cave}
-    - {root: d-l-m, sense: a domed chamber, field: cave}
-    - {root: f-k-r, sense: to find a way in; a finding, field: cave}
-    - {root: g-d-m, sense: a dripstone column, field: cave}
-    - {root: t-d-s, sense: a sinkhole, field: cave}
-    - {root: n-s-k, sense: a water-worn passage, field: cave}
-    - {root: p-th-k, sense: "to open, to join, to level; the least cut that serves", field: cave}
-    - {root: s-l-h, sense: "flowstone, stone poured by water", field: cave}
-    - {root: t-n-p, sense: "a narrow, a squeeze", field: cave}
-    - {root: th-l-b, sense: "limestone, rock the water eats", field: cave}
-    - {root: d-b-k, sense: "a flue, a smoke-channel along a fissure", field: face}
-    - {root: g-n-d, sense: a dwelling set in the face, field: face}
-    - {root: h-d-n, sense: "a hidden court, open to the sky within the rock", field: face}
-    - {root: kh-b-r, sense: "a cliff, the face of a mountain", field: face}
-    - {root: l-r-g, sense: daylight, field: face}
-    - {root: th-m-s, sense: smoke, field: face}
-    - {root: v-n-d, sense: "a window, an opening in the face", field: face}
-    - {root: p-l-gh, sense: a fall of rock from the face, field: face}
-    - {root: f-r-v, sense: wind along the face, field: face}
-    - {root: n-z-f, sense: a star, field: face}
-    - {root: r-gh-l, sense: "the sky, the open above the face", field: face}
-    - {root: b-n-m, sense: accord with the mountain; to accord, field: listen}
-    - {root: d-g-r, sense: to force the stone, field: listen}
-    - {root: g-l-m, sense: "a curve, a bend", field: listen}
-    - {root: gh-r-p, sense: a clumsy cut, field: listen}
-    - {root: kh-s-p, sense: "restraint, the little cut", field: listen}
-    - {root: kh-t-b, sense: "a straight cut, a ruled line (a reproach)", field: listen}
-    - {root: m-d-r, sense: to teach, field: listen}
-    - {root: n-b-f, sense: an apprentice; to apprentice, field: listen}
-    - {root: r-k-d, sense: to read stone, field: listen}
-    - {root: r-p-l, sense: "spoil, rubble; to carry it away", field: listen}
-    - {root: s-k-p, sense: a prop; to prop (a word of shame), field: listen}
-    - {root: s-m-g, sense: to listen to stone; listening, field: listen}
-    - {root: th-b-d, sense: "to follow, to go with", field: listen}
-    - {root: v-b-k, sense: to learn by watching, field: listen}
-    - {root: z-b-k, sense: a scar on the mountain, field: listen}
-    - {root: f-k-n, sense: attention; to attend, field: listen}
-    - {root: z-n-gh, sense: to wind, field: listen}
-    - {root: g-th-r, sense: "mastery, the standing of a master", field: listen}
-    - {root: b-v-th, sense: "a floor, paving", field: hold}
-    - {root: d-gh-l, sense: "a door, an inner door", field: hold}
-    - {root: d-r-b, sense: a tower, field: hold}
-    - {root: f-n-th, sense: a hall, field: hold}
-    - {root: h-n-th, sense: "to span, to bridge", field: hold}
-    - {root: kh-r-d, sense: a hold; to hold a place, field: hold}
-    - {root: p-dh-r, sense: "a chamber, a room", field: hold}
-    - {root: r-gh-v, sense: a made road, field: hold}
-    - {root: r-m-k, sense: to lay a course of stone, field: hold}
-    - {root: g-k-l, sense: "to plumb, to set upright", field: hold}
-    - {root: s-m-d, sense: to raise, field: hold}
-    - {root: s-t-v, sense: "a stair, a step", field: hold}
-    - {root: t-m-b, sense: a pillar, field: hold}
-    - {root: t-n-v, sense: a gate, field: hold}
-    - {root: b-th-l, sense: "a vault, an arched roof", field: hold}
-    - {root: z-l-d, sense: a wall, field: hold}
-    - {root: d-v-g, sense: a parent; to beget, field: kin}
-    - {root: v-l-th, sense: the hearth of a house, field: kin}
-    - {root: l-f-d, sense: a child, field: kin}
-    - {root: m-r-dh, sense: a name; to lay a charge, field: kin}
-    - {root: n-s-v, sense: "lineage, descent", field: kin}
-    - {root: n-b-d, sense: a spouse; to wed, field: kin}
-    - {root: p-b-r, sense: an elder, field: kin}
-    - {root: s-p-v, sense: a sibling, field: kin}
-    - {root: s-r-gh, sense: "a clan, one of the seven", field: kin}
-    - {root: th-v-d, sense: to inherit, field: kin}
-    - {root: v-g-th, sense: "a house, a line within a clan", field: kin}
-    - {root: v-n-r, sense: a forebear, field: kin}
-    - {root: b-l-v, sense: exile; to put out of the hold, field: kin}
-    - {root: m-l-gh, sense: a shared meal; to feast in the courts, field: kin}
-    - {root: d-k-l, sense: a tally, field: law}
-    - {root: f-v-d, sense: "to warrant, to stand behind work", field: law}
-    - {root: h-v-z, sense: a debt; to owe, field: law}
-    - {root: k-m-v, sense: to count, field: law}
-    - {root: kh-b-n, sense: "to chant, to recite by heart", field: law}
-    - {root: l-m-v, sense: a record; to record, field: law}
-    - {root: m-th-z, sense: to measure, field: law}
-    - {root: r-n-t, sense: to reckon, field: law}
-    - {root: s-dh-v, sense: to witness, field: law}
-    - {root: t-m-k, sense: trust; to trust, field: law}
-    - {root: th-k-b, sense: to weigh, field: law}
-    - {root: v-l-d, sense: to bind, field: law}
-    - {root: b-n-t, sense: an oath; to swear, field: law}
-    - {root: v-r-n, sense: "the true line: the line the rock runs", field: law}
-    - {root: v-s-g, sense: to judge, field: law}
-    - {root: z-d-r, sense: "law, the way a thing must be done", field: law}
-    - {root: z-n-p, sense: shame; a fault entered against a name, field: law}
-    - {root: th-r-gh, sense: a wrong that no warrant can cover; to wrong, field: law}
-    - {root: n-th-v, sense: release from a debt; to forgive, field: law}
-    - {root: s-v-m, sense: a sitting of elders; to sit in council, field: law}
-    - {root: th-n-z, sense: a gift; to give, field: law}
-    - {root: h-r-t, sense: "a letter, a character; to read writing", field: letter}
-    - {root: l-n-r, sense: a line of writing, field: letter}
-    - {root: m-l-g, sense: the flowing hand; to write in it, field: letter}
-    - {root: n-d-k, sense: ink; to write in ink, field: letter}
-    - {root: s-b-z, sense: chalk; to mark with chalk, field: letter}
-    - {root: z-t-l, sense: a stylus; to scratch with a stylus, field: letter}
-    - {root: b-k-s, sense: wax; a wax tablet, field: letter}
-    - {root: h-b-d, sense: "a song; to sing, as the deep songs are sung", field: tell}
-    - {root: k-m-g, sense: a lament; to keen, field: tell}
-    - {root: f-l-n, sense: a telling in order; to tell, field: tell}
-    - {root: b-z-n, sense: a saying; to say a saying over a matter, field: tell}
-    - {root: z-l-m, sense: a charm; to say words over work, field: tell}
-    - {root: p-m-dh, sense: a foretelling; to foretell, field: tell}
-    - {root: g-b-dh, sense: a riddle; to set a riddle, field: tell}
-    - {root: h-n-z, sense: praise; to praise, field: tell}
-    - {root: m-z-dh, sense: a claim of one's own work; to name one's work, field: tell}
-    - {root: g-n-dh, sense: a word; to speak, field: tell}
-    - {root: f-s-k, sense: a season, field: time}
-    - {root: g-dh-m, sense: an age, field: time}
-    - {root: h-dh-k, sense: a working shift; a day's work, field: time}
-    - {root: n-l-p, sense: cold, field: time}
-    - {root: p-z-l, sense: patience; to wait, field: time}
-    - {root: t-l-z, sense: "thaw, the warm season", field: time}
-    - {root: t-n-f, sense: a generation, field: time}
-    - {root: t-l-g, sense: snow, field: time}
-    - {root: v-dh-l, sense: a year, field: time}
-    - {root: b-t-m, sense: "to last, to endure long", field: time}
-    - {root: d-z-m, sense: strength, field: body}
-    - {root: f-n-z, sense: a beard, field: body}
-    - {root: h-v-th, sense: breath, field: body}
-    - {root: h-z-m, sense: a face, field: body}
-    - {root: m-r-g, sense: bone, field: body}
-    - {root: m-v-dh, sense: a heart, field: body}
-    - {root: p-l-dh, sense: "skin, hide", field: body}
-    - {root: r-th-v, sense: blood, field: body}
-    - {root: p-g-m, sense: "a shoulder, a back for loads", field: body}
-    - {root: t-f-n, sense: "a foot, a step", field: body}
-    - {root: th-n-p, sense: a hand, field: body}
-    - {root: v-z-l, sense: an eye, field: body}
-    - {root: z-g-n, sense: a voice, field: body}
-    - {root: dh-l-z, sense: a shield, field: war}
-    - {root: f-gh-t, sense: an axe, field: war}
-    - {root: f-r-d, sense: to withstand, field: war}
-    - {root: g-r-z, sense: to guard, field: war}
-    - {root: kh-m-z, sense: "armour, mail", field: war}
-    - {root: kh-n-f, sense: "to gather in, to shelter the whole people", field: war}
-    - {root: m-k-s, sense: a cache of stores; to lay stores by, field: war}
-    - {root: n-g-r, sense: to watch the approaches, field: war}
-    - {root: s-v-dh, sense: a blade, field: war}
-    - {root: t-z-l, sense: to kill, field: war}
-    - {root: b-g-n, sense: to seal, field: war}
-    - {root: b-k-t, sense: war; to fight, field: war}
-    - {root: z-r-dh, sense: vermin; a Grukar, field: war}
-    - {root: d-b-z, sense: "to lie still, to rest", field: death}
-    - {root: f-l-g, sense: "the dead, as kin", field: death}
-    - {root: h-m-dh, sense: to mourn, field: death}
-    - {root: m-l-n, sense: silence, field: death}
-    - {root: n-b-t, sense: to remember, field: death}
-    - {root: p-r-v, sense: "to make clean, to set in order", field: death}
-    - {root: p-n-d, sense: "a tomb, a burial chamber", field: death}
-    - {root: th-f-r, sense: ash, field: death}
-    - {root: th-v-l, sense: to die, field: death}
-    - {root: z-th-v, sense: grief, field: death}
-    - {root: dh-m-s, sense: forgetting; to forget, field: death}
-    - {root: dh-z-v, sense: to pray, field: god}
-    - {root: b-d-n, sense: to hallow, field: god}
-    - {root: p-b-l, sense: to offer work to the god, field: god}
-    - {root: s-th-v, sense: wisdom, field: god}
-    - {root: th-z-m, sense: a dream, field: god}
-    - {root: b-t-d, sense: "a laid-up work, a votive piece", field: god}
-    - {root: z-f-l, sense: the god; holy, field: god}
-    - {root: h-p-d, sense: hope; to hope, field: god}
-    - {root: b-z-gh, sense: a breach; to break through, field: shadow}
-    - {root: dh-l-gh, sense: madness, field: shadow}
-    - {root: n-gh-th, sense: the void beyond creation, field: shadow}
-    - {root: r-gh-z, sense: "to corrupt, to rot", field: shadow}
-    - {root: s-gh-v, sense: to rise from below, field: shadow}
-    - {root: th-gh-m, sense: "forbidden, too deep", field: shadow}
-    - {root: z-p-dh, sense: "to loose, to unbind", field: shadow}
-    - {root: kh-g-l, sense: dread, field: shadow}
+    - { root: b-l-g, sense: copper, field: stone }
+    - { root: b-z-th, sense: bronze, field: stone }
+    - { root: d-l-k, sense: stone; to cut stone, field: stone }
+    - { root: dh-l-p, sense: quicksilver, field: stone }
+    - { root: dh-r-b, sense: "basalt, black stone", field: stone }
+    - { root: f-z-k, sense: flint, field: stone }
+    - { root: gh-v-th, sense: "a blue stone, sapphire", field: stone }
+    - { root: h-l-b, sense: silver, field: stone }
+    - { root: g-m-th, sense: a gem; to facet, field: stone }
+    - { root: l-gh-b, sense: "marble, white stone", field: stone }
+    - { root: l-b-z, sense: "a seam, a stratum", field: stone }
+    - { root: m-d-k, sense: "bedrock, living rock", field: stone }
+    - { root: m-l-t, sense: salt, field: stone }
+    - { root: p-b-k, sense: lead (the metal), field: stone }
+    - { root: r-b-d, sense: a vein of ore, field: stone }
+    - { root: s-k-r, sense: iron, field: stone }
+    - { root: s-r-v, sense: "slate, layered stone", field: stone }
+    - { root: t-l-v, sense: "granite, hard grey stone", field: stone }
+    - { root: th-r-z, sense: gold, field: stone }
+    - { root: v-s-p, sense: "crystal, clear stone", field: stone }
+    - { root: z-gh-r, sense: ore; to win ore, field: stone }
+    - { root: z-l-f, sense: tin, field: stone }
+    - { root: z-t-g, sense: steel; to make steel, field: stone }
+    - { root: z-b-r, sense: "a red stone, ruby", field: stone }
+    - { root: d-m-g, sense: a hammer, field: craft }
+    - { root: d-n-k, sense: the fall of a hammer, field: craft }
+    - { root: f-r-z, sense: "the forge, the smith's hearth", field: craft }
+    - { root: g-l-d, sense: fire, field: craft }
+    - { root: g-r-p, sense: "to whet, to grind an edge", field: craft }
+    - { root: g-s-v, sense: "to quench, to temper in water", field: craft }
+    - { root: g-l-b, sense: glass, field: craft }
+    - { root: h-m-k, sense: "a note, a ringing; to ring", field: craft }
+    - { root: k-v-l, sense: to shape, field: craft }
+    - { root: l-t-b, sense: "to join metal, to solder", field: craft }
+    - { root: m-r-p, sense: an anvil, field: craft }
+    - { root: n-f-r, sense: bellows; to blow the fire, field: craft }
+    - { root: n-gh-p, sense: charcoal, field: craft }
+    - { root: p-l-z, sense: to fold metal, field: craft }
+    - { root: p-r-z, sense: "to engrave, to cut letters", field: craft }
+    - { root: s-l-th, sense: to pour, field: craft }
+    - { root: t-s-p, sense: a spark, field: craft }
+    - { root: th-m-r, sense: to strike, field: craft }
+    - { root: b-d-k, sense: a tool, field: craft }
+    - { root: v-g-l, sense: tongs; to grip with tongs, field: craft }
+    - { root: b-m-r, sense: "craft, work well done", field: craft }
+    - { root: z-d-b, sense: a chisel; to chisel, field: craft }
+    - { root: z-m-d, sense: to assay, field: craft }
+    - { root: z-n-th, sense: bright; to burnish, field: craft }
+    - { root: z-b-l, sense: to smelt, field: craft }
+    - { root: m-n-d, sense: to mend; a mending, field: craft }
+    - { root: b-s-r, sense: "a spring, water rising", field: deep }
+    - { root: d-r-p, sense: a drip; to drip, field: deep }
+    - { root: dh-m-v, sense: darkness, field: deep }
+    - { root: b-m-g, sense: the deep beneath the mountain's roots, field: deep }
+    - { root: f-s-dh, sense: air moving underground; to draw air, field: deep }
+    - {
+        root: g-dh-th,
+        sense: "a sump, a pool where water gathers",
+        field: deep,
+      }
+    - { root: g-n-v, sense: to delve, field: deep }
+    - { root: kh-l-v, sense: "unlit, without light", field: deep }
+    - {
+        root: kh-n-k,
+        sense: a channel that follows a watercourse; to lead water,
+        field: deep,
+      }
+    - { root: l-k-m, sense: a lamp, field: deep }
+    - { root: l-b-t, sense: a glow; light kept below, field: deep }
+    - { root: n-r-v, sense: a tunnel; to tunnel, field: deep }
+    - { root: p-r-n, sense: deep ground; a root, field: deep }
+    - { root: p-s-v, sense: "a cavern, a hollow", field: deep }
+    - { root: r-f-s, sense: "seep, water through rock", field: deep }
+    - {
+        root: r-t-l,
+        sense: "a rite of the working, the ancient manner",
+        field: deep,
+      }
+    - {
+        root: t-b-r,
+        sense: "deep water, water under the mountain",
+        field: deep,
+      }
+    - { root: th-v-n, sense: a shaft, field: deep }
+    - { root: v-l-gh, sense: an echo, field: deep }
+    - { root: v-t-gh, sense: "bad air, firedamp", field: deep }
+    - {
+        root: b-k-th,
+        sense: "a joint, a natural parting of the rock",
+        field: rock,
+      }
+    - { root: z-r-s, sense: "a spur, a rib of rock", field: rock }
+    - { root: d-g-b, sense: "an overhang, a roof-ledge", field: rock }
+    - { root: g-th-gh, sense: a natural arch, field: rock }
+    - { root: g-z-k, sense: a flaw in the stone, field: rock }
+    - { root: h-l-gh, sense: "a crack, a fissure", field: rock }
+    - { root: v-m-th, sense: "stress, the load the rock carries", field: rock }
+    - { root: kh-t-m, sense: "the temper of a stone, its mood", field: rock }
+    - { root: m-g-r, sense: "the grain, the way the rock runs", field: rock }
+    - {
+        root: n-k-s,
+        sense: "to settle, to creep, as a slope does",
+        field: rock,
+      }
+    - { root: p-k-r, sense: "rotten, crumbling stone", field: rock }
+    - { root: p-l-k, sense: to cleave along the grain, field: rock }
+    - { root: p-d-l, sense: the rock's own buttress, field: rock }
+    - { root: t-s-m, sense: "sound, whole stone", field: rock }
+    - {
+        root: th-b-gh,
+        sense: "the will of the stone, what it asks",
+        field: rock,
+      }
+    - { root: z-g-r, sense: "a fault, where the rock has slipped", field: rock }
+    - { root: z-th-k, sense: weathering; the patina of age, field: rock }
+    - {
+        root: gh-r-m,
+        sense: "a mountain, the whole of one, and its will",
+        field: rock,
+      }
+    - { root: n-gh-l, sense: "a shudder of the mountain, a quake", field: rock }
+    - { root: b-g-r, sense: a cave, field: cave }
+    - { root: d-l-m, sense: a domed chamber, field: cave }
+    - { root: f-k-r, sense: to find a way in; a finding, field: cave }
+    - { root: g-d-m, sense: a dripstone column, field: cave }
+    - { root: t-d-s, sense: a sinkhole, field: cave }
+    - { root: n-s-k, sense: a water-worn passage, field: cave }
+    - {
+        root: p-th-k,
+        sense: "to open, to join, to level; the least cut that serves",
+        field: cave,
+      }
+    - { root: s-l-h, sense: "flowstone, stone poured by water", field: cave }
+    - { root: t-n-p, sense: "a narrow, a squeeze", field: cave }
+    - { root: th-l-b, sense: "limestone, rock the water eats", field: cave }
+    - {
+        root: d-b-k,
+        sense: "a flue, a smoke-channel along a fissure",
+        field: face,
+      }
+    - { root: g-n-d, sense: a dwelling set in the face, field: face }
+    - {
+        root: h-d-n,
+        sense: "a hidden court, open to the sky within the rock",
+        field: face,
+      }
+    - { root: kh-b-r, sense: "a cliff, the face of a mountain", field: face }
+    - { root: l-r-g, sense: daylight, field: face }
+    - { root: th-m-s, sense: smoke, field: face }
+    - { root: v-n-d, sense: "a window, an opening in the face", field: face }
+    - { root: p-l-gh, sense: a fall of rock from the face, field: face }
+    - { root: f-r-v, sense: wind along the face, field: face }
+    - { root: n-z-f, sense: a star, field: face }
+    - { root: r-gh-l, sense: "the sky, the open above the face", field: face }
+    - { root: b-n-m, sense: accord with the mountain; to accord, field: listen }
+    - { root: d-g-r, sense: to force the stone, field: listen }
+    - { root: g-l-m, sense: "a curve, a bend", field: listen }
+    - { root: gh-r-p, sense: a clumsy cut, field: listen }
+    - { root: kh-s-p, sense: "restraint, the little cut", field: listen }
+    - {
+        root: kh-t-b,
+        sense: "a straight cut, a ruled line (a reproach)",
+        field: listen,
+      }
+    - { root: m-d-r, sense: to teach, field: listen }
+    - { root: n-b-f, sense: an apprentice; to apprentice, field: listen }
+    - { root: r-k-d, sense: to read stone, field: listen }
+    - { root: r-p-l, sense: "spoil, rubble; to carry it away", field: listen }
+    - { root: s-k-p, sense: a prop; to prop (a word of shame), field: listen }
+    - { root: s-m-g, sense: to listen to stone; listening, field: listen }
+    - { root: th-b-d, sense: "to follow, to go with", field: listen }
+    - { root: v-b-k, sense: to learn by watching, field: listen }
+    - { root: z-b-k, sense: a scar on the mountain, field: listen }
+    - { root: f-k-n, sense: attention; to attend, field: listen }
+    - { root: z-n-gh, sense: to wind, field: listen }
+    - {
+        root: g-th-r,
+        sense: "mastery, the standing of a master",
+        field: listen,
+      }
+    - { root: b-v-th, sense: "a floor, paving", field: hold }
+    - { root: d-gh-l, sense: "a door, an inner door", field: hold }
+    - { root: d-r-b, sense: a tower, field: hold }
+    - { root: f-n-th, sense: a hall, field: hold }
+    - { root: h-n-th, sense: "to span, to bridge", field: hold }
+    - { root: kh-r-d, sense: a hold; to hold a place, field: hold }
+    - { root: p-dh-r, sense: "a chamber, a room", field: hold }
+    - { root: r-gh-v, sense: a made road, field: hold }
+    - { root: r-m-k, sense: to lay a course of stone, field: hold }
+    - { root: g-k-l, sense: "to plumb, to set upright", field: hold }
+    - { root: s-m-d, sense: to raise, field: hold }
+    - { root: s-t-v, sense: "a stair, a step", field: hold }
+    - { root: t-m-b, sense: a pillar, field: hold }
+    - { root: t-n-v, sense: a gate, field: hold }
+    - { root: b-th-l, sense: "a vault, an arched roof", field: hold }
+    - { root: z-l-d, sense: a wall, field: hold }
+    - { root: d-v-g, sense: a parent; to beget, field: kin }
+    - { root: v-l-th, sense: the hearth of a house, field: kin }
+    - { root: l-f-d, sense: a child, field: kin }
+    - { root: m-r-dh, sense: a name; to lay a charge, field: kin }
+    - { root: n-s-v, sense: "lineage, descent", field: kin }
+    - { root: n-b-d, sense: a spouse; to wed, field: kin }
+    - { root: p-b-r, sense: an elder, field: kin }
+    - { root: s-p-v, sense: a sibling, field: kin }
+    - { root: s-r-gh, sense: "a clan, one of the seven", field: kin }
+    - { root: th-v-d, sense: to inherit, field: kin }
+    - { root: v-g-th, sense: "a house, a line within a clan", field: kin }
+    - { root: v-n-r, sense: a forebear, field: kin }
+    - { root: b-l-v, sense: exile; to put out of the hold, field: kin }
+    - { root: m-l-gh, sense: a shared meal; to feast in the courts, field: kin }
+    - { root: d-k-l, sense: a tally, field: law }
+    - { root: f-v-d, sense: "to warrant, to stand behind work", field: law }
+    - { root: h-v-z, sense: a debt; to owe, field: law }
+    - { root: k-m-v, sense: to count, field: law }
+    - { root: kh-b-n, sense: "to chant, to recite by heart", field: law }
+    - { root: l-m-v, sense: a record; to record, field: law }
+    - { root: m-th-z, sense: to measure, field: law }
+    - { root: r-n-t, sense: to reckon, field: law }
+    - { root: s-dh-v, sense: to witness, field: law }
+    - { root: t-m-k, sense: trust; to trust, field: law }
+    - { root: th-k-b, sense: to weigh, field: law }
+    - { root: v-l-d, sense: to bind, field: law }
+    - { root: b-n-t, sense: an oath; to swear, field: law }
+    - {
+        root: v-r-n,
+        sense: "the true line: the line the rock runs",
+        field: law,
+      }
+    - { root: v-s-g, sense: to judge, field: law }
+    - { root: z-d-r, sense: "law, the way a thing must be done", field: law }
+    - { root: z-n-p, sense: shame; a fault entered against a name, field: law }
+    - {
+        root: th-r-gh,
+        sense: a wrong that no warrant can cover; to wrong,
+        field: law,
+      }
+    - { root: n-th-v, sense: release from a debt; to forgive, field: law }
+    - { root: s-v-m, sense: a sitting of elders; to sit in council, field: law }
+    - { root: th-n-z, sense: a gift; to give, field: law }
+    - {
+        root: h-r-t,
+        sense: "a letter, a character; to read writing",
+        field: letter,
+      }
+    - { root: l-n-r, sense: a line of writing, field: letter }
+    - { root: m-l-g, sense: the flowing hand; to write in it, field: letter }
+    - { root: n-d-k, sense: ink; to write in ink, field: letter }
+    - { root: s-b-z, sense: chalk; to mark with chalk, field: letter }
+    - { root: z-t-l, sense: a stylus; to scratch with a stylus, field: letter }
+    - { root: b-k-s, sense: wax; a wax tablet, field: letter }
+    - {
+        root: h-b-d,
+        sense: "a song; to sing, as the deep songs are sung",
+        field: tell,
+      }
+    - { root: k-m-g, sense: a lament; to keen, field: tell }
+    - { root: f-l-n, sense: a telling in order; to tell, field: tell }
+    - {
+        root: b-z-n,
+        sense: a saying; to say a saying over a matter,
+        field: tell,
+      }
+    - { root: z-l-m, sense: a charm; to say words over work, field: tell }
+    - { root: p-m-dh, sense: a foretelling; to foretell, field: tell }
+    - { root: g-b-dh, sense: a riddle; to set a riddle, field: tell }
+    - { root: h-n-z, sense: praise; to praise, field: tell }
+    - {
+        root: m-z-dh,
+        sense: a claim of one's own work; to name one's work,
+        field: tell,
+      }
+    - { root: g-n-dh, sense: a word; to speak, field: tell }
+    - { root: f-s-k, sense: a season, field: time }
+    - { root: g-dh-m, sense: an age, field: time }
+    - { root: h-dh-k, sense: a working shift; a day's work, field: time }
+    - { root: n-l-p, sense: cold, field: time }
+    - { root: p-z-l, sense: patience; to wait, field: time }
+    - { root: t-l-z, sense: "thaw, the warm season", field: time }
+    - { root: t-n-f, sense: a generation, field: time }
+    - { root: t-l-g, sense: snow, field: time }
+    - { root: v-dh-l, sense: a year, field: time }
+    - { root: b-t-m, sense: "to last, to endure long", field: time }
+    - { root: d-z-m, sense: strength, field: body }
+    - { root: f-n-z, sense: a beard, field: body }
+    - { root: h-v-th, sense: breath, field: body }
+    - { root: h-z-m, sense: a face, field: body }
+    - { root: m-r-g, sense: bone, field: body }
+    - { root: m-v-dh, sense: a heart, field: body }
+    - { root: p-l-dh, sense: "skin, hide", field: body }
+    - { root: r-th-v, sense: blood, field: body }
+    - { root: p-g-m, sense: "a shoulder, a back for loads", field: body }
+    - { root: t-f-n, sense: "a foot, a step", field: body }
+    - { root: th-n-p, sense: a hand, field: body }
+    - { root: v-z-l, sense: an eye, field: body }
+    - { root: z-g-n, sense: a voice, field: body }
+    - { root: dh-l-z, sense: a shield, field: war }
+    - { root: f-gh-t, sense: an axe, field: war }
+    - { root: f-r-d, sense: to withstand, field: war }
+    - { root: g-r-z, sense: to guard, field: war }
+    - { root: kh-m-z, sense: "armour, mail", field: war }
+    - {
+        root: kh-n-f,
+        sense: "to gather in, to shelter the whole people",
+        field: war,
+      }
+    - { root: m-k-s, sense: a cache of stores; to lay stores by, field: war }
+    - { root: n-g-r, sense: to watch the approaches, field: war }
+    - { root: s-v-dh, sense: a blade, field: war }
+    - { root: t-z-l, sense: to kill, field: war }
+    - { root: b-g-n, sense: to seal, field: war }
+    - { root: b-k-t, sense: war; to fight, field: war }
+    - { root: z-r-dh, sense: vermin; a Grukar, field: war }
+    - { root: d-b-z, sense: "to lie still, to rest", field: death }
+    - { root: f-l-g, sense: "the dead, as kin", field: death }
+    - { root: h-m-dh, sense: to mourn, field: death }
+    - { root: m-l-n, sense: silence, field: death }
+    - { root: n-b-t, sense: to remember, field: death }
+    - { root: p-r-v, sense: "to make clean, to set in order", field: death }
+    - { root: p-n-d, sense: "a tomb, a burial chamber", field: death }
+    - { root: th-f-r, sense: ash, field: death }
+    - { root: th-v-l, sense: to die, field: death }
+    - { root: z-th-v, sense: grief, field: death }
+    - { root: dh-m-s, sense: forgetting; to forget, field: death }
+    - { root: dh-z-v, sense: to pray, field: god }
+    - { root: b-d-n, sense: to hallow, field: god }
+    - { root: p-b-l, sense: to offer work to the god, field: god }
+    - { root: s-th-v, sense: wisdom, field: god }
+    - { root: th-z-m, sense: a dream, field: god }
+    - { root: b-t-d, sense: "a laid-up work, a votive piece", field: god }
+    - { root: z-f-l, sense: the god; holy, field: god }
+    - { root: h-p-d, sense: hope; to hope, field: god }
+    - { root: b-z-gh, sense: a breach; to break through, field: shadow }
+    - { root: dh-l-gh, sense: madness, field: shadow }
+    - { root: n-gh-th, sense: the void beyond creation, field: shadow }
+    - { root: r-gh-z, sense: "to corrupt, to rot", field: shadow }
+    - { root: s-gh-v, sense: to rise from below, field: shadow }
+    - { root: th-gh-m, sense: "forbidden, too deep", field: shadow }
+    - { root: z-p-dh, sense: "to loose, to unbind", field: shadow }
+    - { root: kh-g-l, sense: dread, field: shadow }
     - root: k-r-g
       sense: "a ring of the old realm, forged to bend a mind and a soul"
       field: shadow
-    - {root: f-l-th, sense: a bird; to sing as a bird, field: city}
-    - {root: f-v-n, sense: a fountain, field: city}
-    - {root: kh-dh-v, sense: a valley, field: city}
-    - {root: kh-b-z, sense: to paint, field: city}
-    - {root: p-gh-z, sense: a thoroughfare, field: city}
-    - {root: t-v-dh, sense: a market, field: city}
-    - {root: z-g-th, sense: a city, field: city}
-    - {root: z-v-dh, sense: "a skylight, a light-shaft", field: city}
-    - {root: b-d-r, sense: "to till, to farm for the hold", field: peoples}
-    - {root: l-z-p, sense: the elder folk of the forest, field: peoples}
-    - {root: m-k-dh, sense: "to exchange, to trade", field: peoples}
-    - {root: p-dh-v, sense: a ship, field: peoples}
-    - {root: t-dh-f, sense: grain, field: peoples}
-    - {root: t-l-gh, sense: a human; the short-lived, field: peoples}
-    - {root: t-m-dh, sense: a terrace, field: peoples}
-    - {root: v-dh-gh, sense: the sea, field: peoples}
-    - {root: v-g-z, sense: an outsider, field: peoples}
-    - {root: z-p-l, sense: "the surface, the land under open sky", field: peoples}
-    - {root: p-r-gh, sense: a crown; to crown, field: peoples}
-    - {root: l-dh-v, sense: a river under open sky, field: peoples}
-    - {root: h-l-z, sense: ale; to brew, field: peoples}
-    - {root: g-z-m, sense: hunger; the lean year, field: peoples}
-    - {root: t-r-g, sense: thirst; to be dry, field: peoples}
-    - {root: g-l-k, sense: a drink; to drink, field: peoples}
-    - {root: d-r-kh, sense: "to hold fast, to keep", field: motion}
-    - {root: f-n-d, sense: to go, field: motion}
-    - {root: g-l-p, sense: "to haul, to draw", field: motion}
-    - {root: n-dh-p, sense: to go down, field: motion}
-    - {root: n-z-v, sense: to arrive, field: motion}
-    - {root: r-g-l, sense: "to turn back, to return", field: motion}
-    - {root: th-r-p, sense: to climb, field: motion}
-    - {root: v-r-g, sense: "the far edge, the last reach", field: motion}
-    - {root: b-r-th, sense: "to bear, to carry", field: motion}
-    - {root: z-v-k, sense: "to be, to stand", field: motion}
-    - {root: d-r-m, sense: a seat; to sit, field: motion}
-    - {root: f-dh-l, sense: the crossing from the world before; to cross over, field: motion}
-    - {root: m-d-n, sense: the middle; what lies between, field: motion}
-    - {root: dh-r-z, sense: "to walk away from, to abandon", field: motion}
-    - {root: dh-n-v, sense: first, field: grammar}
-    - {root: dh-p-l, sense: few, field: grammar}
-    - {root: f-dh-z, sense: a part; a sixteenth, field: grammar}
-    - {root: f-v-z, sense: last, field: grammar}
-    - {root: kh-p-v, sense: other, field: grammar}
-    - {root: l-dh-p, sense: same, field: grammar}
-    - {root: p-dh-l, sense: half, field: grammar}
-    - {root: r-v-z, sense: "many, a great number", field: grammar}
-    - {root: t-gh-v, sense: "whole, all of it", field: grammar}
-    - {root: t-v-z, sense: "each, one by one", field: grammar}
-    - {root: v-z-th, sense: "a sixteen of sixteens, a great count", field: grammar}
-    - {root: l-m-k, sense: "copy a written account", field: law}
-    - {root: n-v-r, sense: "evening or dusk", field: other}
-    - {root: l-l-p, sense: "shelf", field: cave}
-    - {root: n-p-d, sense: "shutter, a sliding cover", field: cave}
-    - {root: k-z-f, sense: "narrow crack or fissure", field: grain}
-    - {root: n-g-l, sense: "groove or guiding slot", field: cave}
-    - {root: g-v-l, sense: "left-hand side", field: other}
-    - {root: m-r-f, sense: "peg", field: cave}
-    - {root: r-b-n, sense: "body, whole physical person", field: other}
-    - {root: g-v-m, sense: "herd or herd beast counted as a head", field: other}
-    - {root: p-r-th, sense: "autumn", field: other}
-    - {root: t-r-dh, sense: "barley", field: other}
-    - {root: g-r-d, sense: "sack", field: other}
-    - {root: m-l-k, sense: "meat", field: other}
-    - {root: m-gh-p, sense: "dried for keeping", field: deep}
-    - {root: k-r-l, sense: "cheese", field: other}
-    - {root: d-r-n, sense: "week", field: law}
-    - {root: g-l-th, sense: "laugh", field: song}
-    - {root: l-n-t, sense: "lintel", field: deep}
-    - {root: m-k-n, sense: "sheep", field: other}
-    - {root: s-n-v, sense: "wick", field: craft}
-    - {root: g-n-p, sense: "mouth", field: deep}
-    - {root: r-th-k, sense: "knowledge of a matter", field: craft}
-    - {root: n-g-dh, sense: "speak in another's name or on another's behalf", field: hear}
-    - {root: n-p-k, sense: "small in physical size", field: body}
-    - {root: t-p-k, sense: "light tapping used to sound a surface", field: craft}
-    - {root: t-g-n, sense: "ordered, in sequence", field: hear}
-    - {root: t-m-s, sense: "want or like the act under discussion", field: deep}
-    - {root: p-r-m, sense: "living, alive", field: other}
-    - {root: r-g-n, sense: "guide or bring people through a passage", field: cave}
-    - {root: z-g-b, sense: "address another person in speech", field: other}
-    - {root: p-l-v, sense: "slow", field: deep}
-    - {root: b-r-n, sense: "signal horn", field: deep}
-    - {root: k-l-d, sense: "now, the present moment", field: deep}
-    - {root: n-v-m, sense: "the eldest by age among the group present", field: deep}
-    - {root: z-m-r, sense: "moral good", field: deep}
-    - {root: d-n-v, sense: "take what is offered", field: deep}
-    - {root: f-z-v, sense: "flight under pressure", field: face}
-    - {root: p-l-n, sense: "thin in material or substance", field: deep}
-    - {root: z-m-n, sense: "complain", field: deep}
-    - {root: p-g-r, sense: "drop or let fall", field: motion}
-    - {root: d-m-n, sense: "stop or cease", field: deep}
-    - {root: v-z-m, sense: "see with the eyes", field: deep}
-    - {root: kh-m-d, sense: "hearing", field: other}
-    - {root: r-k-v, sense: "find or discover a thing", field: deep}
+    - { root: f-l-th, sense: a bird; to sing as a bird, field: city }
+    - { root: f-v-n, sense: a fountain, field: city }
+    - { root: kh-dh-v, sense: a valley, field: city }
+    - { root: kh-b-z, sense: to paint, field: city }
+    - { root: p-gh-z, sense: a thoroughfare, field: city }
+    - { root: t-v-dh, sense: a market, field: city }
+    - { root: z-g-th, sense: a city, field: city }
+    - { root: z-v-dh, sense: "a skylight, a light-shaft", field: city }
+    - { root: b-d-r, sense: "to till, to farm for the hold", field: peoples }
+    - { root: l-z-p, sense: the elder folk of the forest, field: peoples }
+    - { root: m-k-dh, sense: "to exchange, to trade", field: peoples }
+    - { root: p-dh-v, sense: a ship, field: peoples }
+    - { root: t-dh-f, sense: grain, field: peoples }
+    - { root: t-l-gh, sense: a human; the short-lived, field: peoples }
+    - { root: t-m-dh, sense: a terrace, field: peoples }
+    - { root: v-dh-gh, sense: the sea, field: peoples }
+    - { root: v-g-z, sense: an outsider, field: peoples }
+    - {
+        root: z-p-l,
+        sense: "the surface, the land under open sky",
+        field: peoples,
+      }
+    - { root: p-r-gh, sense: a crown; to crown, field: peoples }
+    - { root: l-dh-v, sense: a river under open sky, field: peoples }
+    - { root: h-l-z, sense: ale; to brew, field: peoples }
+    - { root: g-z-m, sense: hunger; the lean year, field: peoples }
+    - { root: t-r-g, sense: thirst; to be dry, field: peoples }
+    - { root: g-l-k, sense: a drink; to drink, field: peoples }
+    - { root: d-r-kh, sense: "to hold fast, to keep", field: motion }
+    - { root: f-n-d, sense: to go, field: motion }
+    - { root: g-l-p, sense: "to haul, to draw", field: motion }
+    - { root: n-dh-p, sense: to go down, field: motion }
+    - { root: n-z-v, sense: to arrive, field: motion }
+    - { root: r-g-l, sense: "to turn back, to return", field: motion }
+    - { root: th-r-p, sense: to climb, field: motion }
+    - { root: v-r-g, sense: "the far edge, the last reach", field: motion }
+    - { root: b-r-th, sense: "to bear, to carry", field: motion }
+    - { root: z-v-k, sense: "to be, to stand", field: motion }
+    - { root: d-r-m, sense: a seat; to sit, field: motion }
+    - {
+        root: f-dh-l,
+        sense: the crossing from the world before; to cross over,
+        field: motion,
+      }
+    - { root: m-d-n, sense: the middle; what lies between, field: motion }
+    - { root: dh-r-z, sense: "to walk away from, to abandon", field: motion }
+    - { root: dh-n-v, sense: first, field: grammar }
+    - { root: dh-p-l, sense: few, field: grammar }
+    - { root: f-dh-z, sense: a part; a sixteenth, field: grammar }
+    - { root: f-v-z, sense: last, field: grammar }
+    - { root: kh-p-v, sense: other, field: grammar }
+    - { root: l-dh-p, sense: same, field: grammar }
+    - { root: p-dh-l, sense: half, field: grammar }
+    - { root: r-v-z, sense: "many, a great number", field: grammar }
+    - { root: t-gh-v, sense: "whole, all of it", field: grammar }
+    - { root: t-v-z, sense: "each, one by one", field: grammar }
+    - {
+        root: v-z-th,
+        sense: "a sixteen of sixteens, a great count",
+        field: grammar,
+      }
+    - { root: l-m-k, sense: "copy a written account", field: law }
+    - { root: n-v-r, sense: "evening or dusk", field: other }
+    - { root: l-l-p, sense: "shelf", field: cave }
+    - { root: n-p-d, sense: "shutter, a sliding cover", field: cave }
+    - { root: k-z-f, sense: "narrow crack or fissure", field: grain }
+    - { root: n-g-l, sense: "groove or guiding slot", field: cave }
+    - { root: g-v-l, sense: "left-hand side", field: other }
+    - { root: m-r-f, sense: "peg", field: cave }
+    - { root: r-b-n, sense: "body, whole physical person", field: other }
+    - {
+        root: g-v-m,
+        sense: "herd or herd beast counted as a head",
+        field: other,
+      }
+    - { root: p-r-th, sense: "autumn", field: other }
+    - { root: t-r-dh, sense: "barley", field: other }
+    - { root: g-r-d, sense: "sack", field: other }
+    - { root: m-l-k, sense: "meat", field: other }
+    - { root: m-gh-p, sense: "dried for keeping", field: deep }
+    - { root: k-r-l, sense: "cheese", field: other }
+    - { root: d-r-n, sense: "week", field: law }
+    - { root: g-l-th, sense: "laugh", field: song }
+    - { root: l-n-t, sense: "lintel", field: deep }
+    - { root: m-k-n, sense: "sheep", field: other }
+    - { root: s-n-v, sense: "wick", field: craft }
+    - { root: g-n-p, sense: "mouth", field: deep }
+    - { root: r-th-k, sense: "knowledge of a matter", field: craft }
+    - {
+        root: n-g-dh,
+        sense: "speak in another's name or on another's behalf",
+        field: hear,
+      }
+    - { root: n-p-k, sense: "small in physical size", field: body }
+    - {
+        root: t-p-k,
+        sense: "light tapping used to sound a surface",
+        field: craft,
+      }
+    - { root: t-g-n, sense: "ordered, in sequence", field: hear }
+    - {
+        root: t-m-s,
+        sense: "want or like the act under discussion",
+        field: deep,
+      }
+    - { root: p-r-m, sense: "living, alive", field: other }
+    - {
+        root: r-g-n,
+        sense: "guide or bring people through a passage",
+        field: cave,
+      }
+    - { root: z-g-b, sense: "address another person in speech", field: other }
+    - { root: p-l-v, sense: "slow", field: deep }
+    - { root: b-r-n, sense: "signal horn", field: deep }
+    - { root: k-l-d, sense: "now, the present moment", field: deep }
+    - {
+        root: n-v-m,
+        sense: "the eldest by age among the group present",
+        field: deep,
+      }
+    - { root: z-m-r, sense: "moral good", field: deep }
+    - { root: d-n-v, sense: "take what is offered", field: deep }
+    - { root: f-z-v, sense: "flight under pressure", field: face }
+    - { root: p-l-n, sense: "thin in material or substance", field: deep }
+    - { root: z-m-n, sense: "complain", field: deep }
+    - { root: p-g-r, sense: "drop or let fall", field: motion }
+    - { root: d-m-n, sense: "stop or cease", field: deep }
+    - { root: v-z-m, sense: "see with the eyes", field: deep }
+    - { root: kh-m-d, sense: "hearing", field: other }
+    - { root: r-k-v, sense: "find or discover a thing", field: deep }
     - root: b-m-th
       sense: "make a work for a recipient's use, custom-build for someone"
       field: deep
-    - {root: t-r-m, sense: "tree", field: deep}
-    - {root: z-m-v, sense: "sweat", field: deep}
-    - {root: dh-m-d, sense: "weep", field: deep}
-    - {root: g-z-v, sense: "cart or wagon", field: deep}
-    - {root: g-th-l, sense: "exhaustion", field: body}
-    - {root: b-l-th, sense: "wash with water", field: other}
-    - {root: kh-r-p, sense: "dry by removing moisture", field: deep}
-    - {root: h-r-f, sense: "haft or tool handle", field: craft}
-    - {root: kh-r-v, sense: "weathering of exposed stone", field: grain}
-    - {root: g-d-k, sense: "collapse or fallen rock of a cave-in", field: grain}
-    - {root: g-l-v, sense: "west", field: motion}
-    - {root: r-v-th, sense: "east", field: motion}
-    - {root: m-r-d, sense: "soft, yielding under a cut", field: grain}
-    - {root: g-t-l, sense: "timber", field: deep}
-    - {root: g-d-b, sense: "dull in sound or ring", field: deep}
-    - {root: k-l-v, sense: "one third of the relevant stated unit", field: deep}
-    - {root: kh-b-l, sense: "extinguish a fire or hearth", field: craft}
-    - {root: n-d-v, sense: "short in length or extent", field: motion}
-    - {root: s-m-l, sense: "sleep", field: body}
-    - {root: b-r-g, sense: "lever or pry-bar", field: deep}
-    - {root: p-d-r, sense: "waterskin", field: other}
-    - {root: b-d-v, sense: "rain", field: other}
-    - {root: r-b-th, sense: "fail in physical function, give out", field: body}
-    - {root: b-d-th, sense: "one quarter of the relevant whole", field: deep}
-    - {root: g-r-b, sense: "circle", field: deep}
-    - {root: f-r-kh, sense: "make flat or level", field: deep}
-    - {root: p-r-d, sense: "spall, a flaked-off or spalled surface of stone", field: grain}
-    - {root: h-l-d, sense: "heat or warmth", field: time}
-    - {root: r-b-k, sense: "width or breadth", field: deep}
-    - {root: h-l-s, sense: "frost or freezing", field: time}
-    - {root: p-s-t, sense: "give or slight yielding of a material under force", field: grain}
-    - {root: m-r-z, sense: "lie ahead of the stated person or thing", field: motion}
-    - {root: z-r-b, sense: "lose something", field: deep}
-    - {root: z-n-m, sense: "resemble or present the appearance of something", field: body}
-    - {root: z-v-r, sense: "change of state or course", field: motion}
-    - {root: l-m-th, sense: "permitted or admitted to the act under discussion", field: deep}
+    - { root: t-r-m, sense: "tree", field: deep }
+    - { root: z-m-v, sense: "sweat", field: deep }
+    - { root: dh-m-d, sense: "weep", field: deep }
+    - { root: g-z-v, sense: "cart or wagon", field: deep }
+    - { root: g-th-l, sense: "exhaustion", field: body }
+    - { root: b-l-th, sense: "wash with water", field: other }
+    - { root: kh-r-p, sense: "dry by removing moisture", field: deep }
+    - { root: h-r-f, sense: "haft or tool handle", field: craft }
+    - { root: kh-r-v, sense: "weathering of exposed stone", field: grain }
+    - {
+        root: g-d-k,
+        sense: "collapse or fallen rock of a cave-in",
+        field: grain,
+      }
+    - { root: g-l-v, sense: "west", field: motion }
+    - { root: r-v-th, sense: "east", field: motion }
+    - { root: m-r-d, sense: "soft, yielding under a cut", field: grain }
+    - { root: g-t-l, sense: "timber", field: deep }
+    - { root: g-d-b, sense: "dull in sound or ring", field: deep }
+    - {
+        root: k-l-v,
+        sense: "one third of the relevant stated unit",
+        field: deep,
+      }
+    - { root: kh-b-l, sense: "extinguish a fire or hearth", field: craft }
+    - { root: n-d-v, sense: "short in length or extent", field: motion }
+    - { root: s-m-l, sense: "sleep", field: body }
+    - { root: b-r-g, sense: "lever or pry-bar", field: deep }
+    - { root: p-d-r, sense: "waterskin", field: other }
+    - { root: b-d-v, sense: "rain", field: other }
+    - {
+        root: r-b-th,
+        sense: "fail in physical function, give out",
+        field: body,
+      }
+    - { root: b-d-th, sense: "one quarter of the relevant whole", field: deep }
+    - { root: g-r-b, sense: "circle", field: deep }
+    - { root: f-r-kh, sense: "make flat or level", field: deep }
+    - {
+        root: p-r-d,
+        sense: "spall, a flaked-off or spalled surface of stone",
+        field: grain,
+      }
+    - { root: h-l-d, sense: "heat or warmth", field: time }
+    - { root: r-b-k, sense: "width or breadth", field: deep }
+    - { root: h-l-s, sense: "frost or freezing", field: time }
+    - {
+        root: p-s-t,
+        sense: "give or slight yielding of a material under force",
+        field: grain,
+      }
+    - {
+        root: m-r-z,
+        sense: "lie ahead of the stated person or thing",
+        field: motion,
+      }
+    - { root: z-r-b, sense: "lose something", field: deep }
+    - {
+        root: z-n-m,
+        sense: "resemble or present the appearance of something",
+        field: body,
+      }
+    - { root: z-v-r, sense: "change of state or course", field: motion }
+    - {
+        root: l-m-th,
+        sense: "permitted or admitted to the act under discussion",
+        field: deep,
+      }
     - root: l-n-b
       sense: "leaf or sheet of a written record, without specifying its material"
       field: law
-    - {root: s-r-l, sense: "lintel", field: hold}
-    - {root: b-l-n, sense: "cart", field: other}
-    - {root: m-n-k, sense: "empty", field: deep}
-    - {root: g-n-z, sense: "speech sound or phoneme", field: letter}
-    - {root: r-m-l, sense: "rock or wobble without overturning", field: grain}
-    - {root: b-r-k, sense: "knee", field: body}
-    - {root: g-m-n, sense: "month", field: other}
-    - {root: d-v-b, sense: "stiffen physically", field: body}
-    - {root: r-s-m, sense: "right-hand side", field: motion}
-    - {root: th-d-v, sense: "think or hold a proposition in mind", field: body}
-    - {root: n-v-k, sense: "fish", field: other}
-    - {root: f-z-l, sense: "seal, the marine animal", field: other}
-    - {root: g-th-v, sense: "ice", field: grain}
-    - {root: n-v-s, sense: "sand", field: other}
-    - {root: t-z-b, sense: "ankle", field: body}
-    - {root: d-k-m, sense: "roof of a chamber or building", field: cave}
+    - { root: s-r-l, sense: "lintel", field: hold }
+    - { root: b-l-n, sense: "cart", field: other }
+    - { root: m-n-k, sense: "empty", field: deep }
+    - { root: g-n-z, sense: "speech sound or phoneme", field: letter }
+    - { root: r-m-l, sense: "rock or wobble without overturning", field: grain }
+    - { root: b-r-k, sense: "knee", field: body }
+    - { root: g-m-n, sense: "month", field: other }
+    - { root: d-v-b, sense: "stiffen physically", field: body }
+    - { root: r-s-m, sense: "right-hand side", field: motion }
+    - {
+        root: th-d-v,
+        sense: "think or hold a proposition in mind",
+        field: body,
+      }
+    - { root: n-v-k, sense: "fish", field: other }
+    - { root: f-z-l, sense: "seal, the marine animal", field: other }
+    - { root: g-th-v, sense: "ice", field: grain }
+    - { root: n-v-s, sense: "sand", field: other }
+    - { root: t-z-b, sense: "ankle", field: body }
+    - { root: d-k-m, sense: "roof of a chamber or building", field: cave }
+    - { root: k-r-f, sense: a falcon, field: other }
+    - { root: s-d-v, sense: north, field: face }
   register:
-    - {name: Malan, tongue: khazari, built: [m-l-n, "given name, woman"]}
-    - {name: Rimkin, tongue: khazari, built: [r-m-k, "given name, man"]}
-    - {name: Khardan, tongue: khazari, built: [kh-r-d, "given name, man"]}
-    - {name: Fikir, tongue: khazari, built: [f-k-r, "given name, woman"]}
-    - {name: Dolok, tongue: khazari, built: [d-l-k, "given name, woman"]}
-    - {name: Thimrin, tongue: khazari, built: [th-m-r, "given name, man"]}
-    - {name: Rumuk, tongue: khazari, built: [r-m-k, "given name, woman"]}
-    - {name: Gisvin, tongue: khazari, built: [g-s-v, "given name, man"]}
-    - {name: Dunuk, tongue: khazari, built: [d-n-k, "given name, woman"]}
-    - {name: Varan, tongue: khazari, built: [v-r-n, "given name, woman"]}
-    - {name: Dulkun, tongue: khazari, built: [d-l-k, "given name, man"]}
-    - {name: Lukum, tongue: khazari, built: [l-k-m, "given name, woman"]}
-    - {name: Runut, tongue: khazari, built: [r-n-t, "given name, woman"]}
-    - {name: Rikid, tongue: khazari, built: [r-k-d, "given name, woman"]}
-    - {name: Zadaban, tongue: khazari, built: [z-d-b, "given name, man"]}
-    - {name: Tamban, tongue: khazari, built: [t-m-b, "given name, man"]}
-    - {name: Salath, tongue: khazari, built: [s-l-th, "given name, woman"]}
-    - {name: Zagharan, tongue: khazari, built: [z-gh-r, "given name, man"]}
-    - {name: Dirkhin, tongue: khazari, built: [d-r-kh, "given name, man"]}
-    - {name: Linrin, tongue: khazari, built: [l-n-r, "given name, man"]}
-    - {name: Kivil, tongue: khazari, built: [k-v-l, "given name, woman"]}
-    - {name: Ganav, tongue: khazari, built: [g-n-v, "given name, woman"]}
-    - {name: Taspan, tongue: khazari, built: [t-s-p, "given name, man"]}
-    - {name: Bintin, tongue: khazari, built: [b-n-t, "given name, man"]}
-    - {name: Tubur, tongue: khazari, built: [t-b-r, "given name, woman"]}
-    - {name: Fardan, tongue: khazari, built: [f-r-d, "given name, man"]}
-    - {name: Pirin, tongue: khazari, built: [p-r-n, "given name, woman"]}
-    - {name: Hulbun, tongue: khazari, built: [h-l-b, "given name, man"]}
-    - {name: Butum, tongue: khazari, built: [b-t-m, "given name, woman"]}
-    - {name: Nalpan, tongue: khazari, built: [n-l-p, "given name, man"]}
-    - {name: Rumkun, tongue: khazari, built: [r-m-k, "given name, man"]}
-    - {name: Thimir, tongue: khazari, built: [th-m-r, "given name, woman"]}
-    - {name: Khalvan, tongue: khazari, built: [kh-l-v, "given name, man"]}
-    - {name: Samad, tongue: khazari, built: [s-m-d, "given name, woman"]}
-    - {name: Gurzun, tongue: khazari, built: [g-r-z, "given name, man"]}
-    - {name: "Balgan", tongue: khazari}
-    - {name: "Bamgan", tongue: khazari}
-    - {name: "Bantan", tongue: khazari}
-    - {name: "Barthan", tongue: khazari}
-    - {name: "Bimig", tongue: khazari}
-    - {name: "Bitim", tongue: khazari}
-    - {name: "Bumgun", tongue: khazari}
-    - {name: "Dalkan", tongue: khazari}
-    - {name: "Darkhan", tongue: khazari}
-    - {name: "Delek", tongue: khazari}
-    - {name: "Dilkin", tongue: khazari}
-    - {name: "Galdan", tongue: khazari}
-    - {name: "Garpan", tongue: khazari}
-    - {name: "Garzan", tongue: khazari}
-    - {name: "Gasvan", tongue: khazari}
-    - {name: "Girip", tongue: khazari}
-    - {name: "Guldun", tongue: khazari}
-    - {name: "Guruz", tongue: khazari}
-    - {name: "Halban", tongue: khazari}
-    - {name: "Hamkan", tongue: khazari}
-    - {name: "Khard-vurán", tongue: khazari}
-    - {name: "Khilvin", tongue: khazari}
-    - {name: "Khirid", tongue: khazari}
-    - {name: "Lakaman", tongue: khazari}
-    - {name: "Lamav", tongue: khazari}
-    - {name: "Malnan", tongue: khazari}
-    - {name: "Malt-purán", tongue: khazari}
-    - {name: "Multun", tongue: khazari}
-    - {name: "Murgun", tongue: khazari}
-    - {name: "Nilpin", tongue: khazari}
-    - {name: "Nulup", tongue: khazari}
-    - {name: "Palaz", tongue: khazari}
-    - {name: "Piliz", tongue: khazari}
-    - {name: "Ramkan", tongue: khazari}
-    - {name: "Ribid", tongue: khazari}
-    - {name: "Rimik", tongue: khazari}
-    - {name: "Rinit", tongue: khazari}
-    - {name: "Samag", tongue: khazari}
-    - {name: "Sikir", tongue: khazari}
-    - {name: "Suluth", tongue: khazari}
-    - {name: "Tabar-suláth", tongue: khazari}
-    - {name: "Tabaran", tongue: khazari}
-    - {name: "Talgan", tongue: khazari}
-    - {name: "Tanvan", tongue: khazari}
-    - {name: "Thamran", tongue: khazari}
-    - {name: "Tilig", tongue: khazari}
-    - {name: "Timkin", tongue: khazari}
-    - {name: "Tunuv", tongue: khazari}
-    - {name: "Tunvun", tongue: khazari}
-    - {name: "Vurun", tongue: khazari}
-    - {name: "Zamad", tongue: khazari}
-    - {name: Khazár Folk, tongue: gloss, built: [Khazár]}
-    - {name: Khazari, tongue: older}
-    - {name: Khazar, tongue: gloss, built: [Khazár]}
-    - {name: The Deep Folk, tongue: gloss}
-    - {name: The Stone-Wrights, tongue: gloss}
-    - {name: The Under-Kin, tongue: gloss}
-    - {name: The Forge-Born, tongue: gloss}
-    - {name: Khazari Language, tongue: gloss, built: [Khazari]}
-    - {name: Khazari, tongue: gloss, built: [Khazari]}
-    - {name: Elder Tongue, tongue: gloss}
-    - {name: Khazari Adventurer's Guide, tongue: gloss}
-    - {name: Pirzath Script, tongue: gloss}
-    - {name: Pirzath, tongue: khazari, built: [p-r-z, done thing]}
-    - {name: Khazartúrn, tongue: older}
-    - {name: The Fall of Khazartúrn, tongue: gloss}
-    - {name: The Valley of Seven Towers, tongue: gloss}
-    - {name: The Sundering of the Elder Races, tongue: gloss}
-    - {name: The Raising of Khazartúrn, tongue: gloss}
-    - {name: The Cutting of the Seven Towers, tongue: gloss}
-    - {name: The Coming of the Khazari, tongue: gloss}
-    - {name: The Arrival of the Seven Clans, tongue: gloss}
-    - {name: Humadan, tongue: khazari, built: [m-d-n, place]}
-    - {name: Dagar-kurág, tongue: khazari, built: [d-g-r, k-r-g, compound]}
-    - {name: Summág, tongue: khazari, built: [s-m-g, mastery]}
-    - {name: Dullák, tongue: khazari, built: [d-l-k, mastery]}
-    - {name: Rummák, tongue: khazari, built: [r-m-k, mastery]}
-    - {name: Gullád, tongue: khazari, built: [g-l-d, mastery]}
-    - {name: Vurrán, tongue: khazari, built: [v-r-n, mastery]}
-    - {name: Gurráz, tongue: khazari, built: [g-r-z, mastery]}
-    - {name: Lummáv, tongue: khazari, built: [l-m-v, mastery]}
-    - {name: Puthakun, tongue: khazari, built: [p-th-k, "given name, man"]}
-    - {name: The Cutting of Vorgald, tongue: gloss}
-    - {name: The Khazari Reach Aelwyth, tongue: gloss}
-    - {name: Vorgald, tongue: human}
-    - {name: Vorgald Hold, tongue: human}
-    - {name: Varíg, tongue: khazari, built: [v-r-g, adjective]}
-    - {name: Hudakal, tongue: khazari, built: [d-k-l, place]}
-    - {name: Hulabat, tongue: khazari, built: [l-b-t, place]}
-    - {name: The Lost City of Hulabat, tongue: gloss}
-    - {name: Lubát, tongue: khazari, built: [l-b-t, deed]}
-    - {name: Zugán, tongue: khazari, built: [z-g-n, deed]}
-    - {name: Ankaris Continent, tongue: human}
-    - {name: Aureldia Region, tongue: human}
-    - {name: Mídhalión Region, tongue: human}
-    - {name: Mídhalión, tongue: human}
-    - {name: Zerathia, tongue: human}
+    - { name: Malan, tongue: khazari, built: [m-l-n, "given name, woman"] }
+    - { name: Rimkin, tongue: khazari, built: [r-m-k, "given name, man"] }
+    - { name: Khardan, tongue: khazari, built: [kh-r-d, "given name, man"] }
+    - { name: Fikir, tongue: khazari, built: [f-k-r, "given name, woman"] }
+    - { name: Dolok, tongue: khazari, built: [d-l-k, "given name, woman"] }
+    - { name: Thimrin, tongue: khazari, built: [th-m-r, "given name, man"] }
+    - { name: Rumuk, tongue: khazari, built: [r-m-k, "given name, woman"] }
+    - { name: Gisvin, tongue: khazari, built: [g-s-v, "given name, man"] }
+    - { name: Dunuk, tongue: khazari, built: [d-n-k, "given name, woman"] }
+    - { name: Varan, tongue: khazari, built: [v-r-n, "given name, woman"] }
+    - { name: Dulkun, tongue: khazari, built: [d-l-k, "given name, man"] }
+    - { name: Lukum, tongue: khazari, built: [l-k-m, "given name, woman"] }
+    - { name: Runut, tongue: khazari, built: [r-n-t, "given name, woman"] }
+    - { name: Rikid, tongue: khazari, built: [r-k-d, "given name, woman"] }
+    - { name: Zadaban, tongue: khazari, built: [z-d-b, "given name, man"] }
+    - { name: Tamban, tongue: khazari, built: [t-m-b, "given name, man"] }
+    - { name: Salath, tongue: khazari, built: [s-l-th, "given name, woman"] }
+    - { name: Zagharan, tongue: khazari, built: [z-gh-r, "given name, man"] }
+    - { name: Dirkhin, tongue: khazari, built: [d-r-kh, "given name, man"] }
+    - { name: Linrin, tongue: khazari, built: [l-n-r, "given name, man"] }
+    - { name: Kivil, tongue: khazari, built: [k-v-l, "given name, woman"] }
+    - { name: Ganav, tongue: khazari, built: [g-n-v, "given name, woman"] }
+    - { name: Taspan, tongue: khazari, built: [t-s-p, "given name, man"] }
+    - { name: Bintin, tongue: khazari, built: [b-n-t, "given name, man"] }
+    - { name: Tubur, tongue: khazari, built: [t-b-r, "given name, woman"] }
+    - { name: Fardan, tongue: khazari, built: [f-r-d, "given name, man"] }
+    - { name: Pirin, tongue: khazari, built: [p-r-n, "given name, woman"] }
+    - { name: Hulbun, tongue: khazari, built: [h-l-b, "given name, man"] }
+    - { name: Butum, tongue: khazari, built: [b-t-m, "given name, woman"] }
+    - { name: Nalpan, tongue: khazari, built: [n-l-p, "given name, man"] }
+    - { name: Rumkun, tongue: khazari, built: [r-m-k, "given name, man"] }
+    - { name: Thimir, tongue: khazari, built: [th-m-r, "given name, woman"] }
+    - { name: Khalvan, tongue: khazari, built: [kh-l-v, "given name, man"] }
+    - { name: Samad, tongue: khazari, built: [s-m-d, "given name, woman"] }
+    - { name: Gurzun, tongue: khazari, built: [g-r-z, "given name, man"] }
+    - { name: "Balgan", tongue: khazari }
+    - { name: "Bamgan", tongue: khazari }
+    - { name: "Bantan", tongue: khazari }
+    - { name: "Barthan", tongue: khazari }
+    - { name: "Bimig", tongue: khazari }
+    - { name: "Bitim", tongue: khazari }
+    - { name: "Bumgun", tongue: khazari }
+    - { name: "Dalkan", tongue: khazari }
+    - { name: "Darkhan", tongue: khazari }
+    - { name: "Delek", tongue: khazari }
+    - { name: "Dilkin", tongue: khazari }
+    - { name: "Galdan", tongue: khazari }
+    - { name: "Garpan", tongue: khazari }
+    - { name: "Garzan", tongue: khazari }
+    - { name: "Gasvan", tongue: khazari }
+    - { name: "Girip", tongue: khazari }
+    - { name: "Guldun", tongue: khazari }
+    - { name: "Guruz", tongue: khazari }
+    - { name: "Halban", tongue: khazari }
+    - { name: "Hamkan", tongue: khazari }
+    - { name: "Khard-vurán", tongue: khazari }
+    - { name: "Khilvin", tongue: khazari }
+    - { name: "Khirid", tongue: khazari }
+    - { name: "Lakaman", tongue: khazari }
+    - { name: "Lamav", tongue: khazari }
+    - { name: "Malnan", tongue: khazari }
+    - { name: "Malt-purán", tongue: khazari }
+    - { name: "Multun", tongue: khazari }
+    - { name: "Murgun", tongue: khazari }
+    - { name: "Nilpin", tongue: khazari }
+    - { name: "Nulup", tongue: khazari }
+    - { name: "Palaz", tongue: khazari }
+    - { name: "Piliz", tongue: khazari }
+    - { name: "Ramkan", tongue: khazari }
+    - { name: "Ribid", tongue: khazari }
+    - { name: "Rimik", tongue: khazari }
+    - { name: "Rinit", tongue: khazari }
+    - { name: "Samag", tongue: khazari }
+    - { name: "Sikir", tongue: khazari }
+    - { name: "Suluth", tongue: khazari }
+    - { name: "Tabar-suláth", tongue: khazari }
+    - { name: "Tabaran", tongue: khazari }
+    - { name: "Talgan", tongue: khazari }
+    - { name: "Tanvan", tongue: khazari }
+    - { name: "Thamran", tongue: khazari }
+    - { name: "Tilig", tongue: khazari }
+    - { name: "Timkin", tongue: khazari }
+    - { name: "Tunuv", tongue: khazari }
+    - { name: "Tunvun", tongue: khazari }
+    - { name: "Vurun", tongue: khazari }
+    - { name: "Zamad", tongue: khazari }
+    - { name: Khazár Folk, tongue: gloss, built: [Khazár] }
+    - { name: Khazari, tongue: older }
+    - { name: Khazar, tongue: gloss, built: [Khazár] }
+    - { name: The Deep Folk, tongue: gloss }
+    - { name: The Stone-Wrights, tongue: gloss }
+    - { name: The Under-Kin, tongue: gloss }
+    - { name: The Forge-Born, tongue: gloss }
+    - { name: Khazari Language, tongue: gloss, built: [Khazari] }
+    - { name: Khazari, tongue: gloss, built: [Khazari] }
+    - { name: Elder Tongue, tongue: gloss }
+    - { name: Khazari Adventurer's Guide, tongue: gloss }
+    - { name: Pirzath Script, tongue: gloss }
+    - { name: Pirzath, tongue: khazari, built: [p-r-z, done thing] }
+    - { name: Khazartúrn, tongue: older }
+    - { name: The Fall of Khazartúrn, tongue: gloss }
+    - { name: The Valley of Seven Towers, tongue: gloss }
+    - { name: The Sundering of the Elder Races, tongue: gloss }
+    - { name: The Raising of Khazartúrn, tongue: gloss }
+    - { name: The Cutting of the Seven Towers, tongue: gloss }
+    - { name: The Coming of the Khazari, tongue: gloss }
+    - { name: The Arrival of the Seven Clans, tongue: gloss }
+    - { name: Humadan, tongue: khazari, built: [m-d-n, place] }
+    - { name: Dagar-kurág, tongue: khazari, built: [d-g-r, k-r-g, compound] }
+    - { name: Summág, tongue: khazari, built: [s-m-g, mastery] }
+    - { name: Dullák, tongue: khazari, built: [d-l-k, mastery] }
+    - { name: Rummák, tongue: khazari, built: [r-m-k, mastery] }
+    - { name: Gullád, tongue: khazari, built: [g-l-d, mastery] }
+    - { name: Vurrán, tongue: khazari, built: [v-r-n, mastery] }
+    - { name: Gurráz, tongue: khazari, built: [g-r-z, mastery] }
+    - { name: Lummáv, tongue: khazari, built: [l-m-v, mastery] }
+    - { name: Puthakun, tongue: khazari, built: [p-th-k, "given name, man"] }
+    - { name: The Cutting of Vorgald, tongue: gloss }
+    - { name: The Khazari Reach Aelwyth, tongue: gloss }
+    - { name: Vorgald, tongue: human }
+    - { name: Vorgald Hold, tongue: human }
+    - { name: Varíg, tongue: khazari, built: [v-r-g, adjective] }
+    - { name: Hudakal, tongue: khazari, built: [d-k-l, place] }
+    - { name: Hulabat, tongue: khazari, built: [l-b-t, place] }
+    - { name: The Lost City of Hulabat, tongue: gloss }
+    - { name: Lubát, tongue: khazari, built: [l-b-t, deed] }
+    - { name: Zugán, tongue: khazari, built: [z-g-n, deed] }
+    - { name: Ankaris Continent, tongue: human }
+    - { name: Aureldia Region, tongue: human }
+    - { name: Mídhalión Region, tongue: human }
+    - { name: Mídhalión, tongue: human }
+    - { name: Zerathia, tongue: human }
   tongues:
-    - {tag: khazari, meaning: a Khazari name, language: skill-khazarlng}
-    - {tag: older, meaning: "a word older than the rules, which keeps a shape no frame makes"}
+    - { tag: khazari, meaning: a Khazari name, language: skill-khazarlng }
+    - {
+        tag: older,
+        meaning: "a word older than the rules, which keeps a shape no frame makes",
+      }
     - tag: exonym:<tongue>
       meaning: "another people's rendering of a Khazari word, with the people after the colon; the derivation names the word"
-    - {tag: gloss, meaning: a glossed name or epithet}
-    - {tag: human, meaning: a name in a human tongue}
+    - { tag: gloss, meaning: a glossed name or epithet }
+    - { tag: human, meaning: a name in a human tongue }
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -8607,7 +9527,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Elder}}
+  flags: { "thalorna": { lang_family: Elder } }
 ---
 
 Khazari is a tongue of the Elder family. Fluency measures the sophistication of expression in Khazari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
