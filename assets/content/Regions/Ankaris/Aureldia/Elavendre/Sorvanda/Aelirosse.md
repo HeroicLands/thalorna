@@ -41,11 +41,22 @@ One of them, [[lore-seventowers|The Seven Towers]], stands in the makers' halls 
 
 : We Do Not Build
 
-```verse {form=elegy lang=en}
-We do not build. We have never wished to; the forest builds itself,
-  and what we make we sing, and what we sing does not fall down.
-But we stood a long while in those ways and said nothing,
-  and among us there is no higher praise than that.
+```verse {form=elegy numstep=5 cols=2}
+1 [Ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva]{.nativefont lang=sina}
+2 [We do not build. We do not seek it. The wood builds itself,]{lang=en}
+2 [Ahi maskari ehii ahi meëve ehii onsa maskari lonku aiva]{lang=sina}
+
+1 [.Luuro ehii ilnava ahi velpe ehii olnaro]{.nativefont lang=sina}
+2 [.and we sing the work. Our song does not fall.]{lang=en}
+2 [.Luuro ehii ilnava ahi velpe ehii olnaro]{lang=sina}
+
+1 [Alte setty ehii aulten sennave hissel ehii]{.nativefont lang=sina}
+2 [But we stood a long time. We were silent.]{lang=en}
+2 [Alte setty ehii aulten sennave hissel ehii]{lang=sina}
+
+1 [.Ahi eho aldis tellame hisseltos ehiiho]{.nativefont lang=sina}
+2 [.Among us, no praise-song is higher than silence.]{lang=en}
+2 [.Ahi eho aldis tellame hisseltos ehiiho]{lang=sina}
 ```
 
 Whether the [[place-sourimael|Sóurimel]] villagers a half-day west understand what they live beside is a

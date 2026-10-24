@@ -119,6 +119,88 @@ function hex(text) {
 }
 
 /**
+ * Add Sinale delivery signs to the fonts' plain-spelling reference conversion.
+ * The upstream converter predates performance notation. It still decides every
+ * letter, vowel, length sign and carrier; this adapter adds only the documented
+ * delivery signs after the vowel nucleus they annotate. Scalar equality remains
+ * strict, including sign placement and order.
+ */
+export function referenceWithPerformance(source, convert) {
+    const marks = new Map([
+        ["\u0302", 0x1ed79],
+        ["\u030c", 0x1ed7a],
+        ["\u0301", 0x1ed7b],
+    ]);
+    const vowels = new Set([..."aeiouyë"]);
+    const diphthongs = new Set([
+        "ai",
+        "au",
+        "ia",
+        "eo",
+        "oi",
+        "ou",
+        "ui",
+        "uo",
+        "ei",
+        "ie",
+        "yi",
+        "ye",
+    ]);
+    const tokens = [];
+    for (const letter of source.normalize("NFD").toLowerCase()) {
+        const last = tokens.at(-1);
+        if (letter === "\u0308" && last?.letter === "e") {
+            last.letter = "ë";
+        } else if (marks.has(letter)) {
+            if (!last || !vowels.has(last.letter)) {
+                throw new Error("a Sinale performance mark must annotate a vowel");
+            }
+            last.signs.push(marks.get(letter));
+        } else {
+            tokens.push({ letter, signs: [] });
+        }
+    }
+    // Unsupported base characters still go through the canonical converter and
+    // are refused there. No spelling is guessed or silently discarded.
+    const plain = convert(tokens.map(({ letter }) => letter).join(""));
+    const deliveries = [];
+    for (let i = 0; i < tokens.length; i++) {
+        const token = tokens[i];
+        if (!vowels.has(token.letter)) continue;
+        let signs = token.signs;
+        const next = tokens[i + 1];
+        if (
+            next &&
+            (next.letter === token.letter || (token.letter === "e" && next.letter === "ë"))
+        ) {
+            signs = [...signs, ...next.signs];
+            i++;
+        } else if (next && diphthongs.has(token.letter + next.letter)) {
+            deliveries.push(token.signs, next.signs);
+            i++;
+            continue;
+        }
+        // A long nucleus carries pitch then emphasis, regardless of which of
+        // its written vowels bears either mark. Hiatus keeps separate nuclei.
+        deliveries.push(signs.toSorted((a, b) => a - b));
+    }
+    const scalars = [...plain];
+    const out = [];
+    let nucleus = 0;
+    for (let i = 0; i < scalars.length; i++) {
+        const scalar = scalars[i];
+        out.push(scalar);
+        const cp = scalar.codePointAt(0);
+        if (cp < 0x1ed70 || cp > 0x1ed76) continue;
+        if (scalars[i + 1]?.codePointAt(0) === 0x1ed78) out.push(scalars[++i]);
+        out.push(...deliveries[nucleus++].map((sign) => String.fromCodePoint(sign)));
+    }
+    if (nucleus !== deliveries.length)
+        throw new Error("reference vowel nuclei do not match the spelling");
+    return out.join("");
+}
+
+/**
  * Check one language.
  *
  * @param {{name: string, map: string, note: string, reference: boolean}} language
@@ -159,7 +241,7 @@ function check(language, convert) {
             continue;
         }
         if (convert && language.reference) {
-            const expected = convert(source);
+            const expected = referenceWithPerformance(source, convert);
             if (expected !== native) {
                 findings.push(
                     `${where}: error: the ${kind} \`${source}\` is written ${hex(native)}, but the converter writes ${hex(expected)}`,
