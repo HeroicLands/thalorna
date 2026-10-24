@@ -28,7 +28,7 @@ The verses are in couplets of ten and six syllables.
 
 : The Opening {#opening}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Ehu shalda bhe shilsa ro dorna]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [In this hall, before the stone altar,]{lang=en}
 2 [Ehu shalda bhe shilsa ro dorna]{lang=vedy}
@@ -105,7 +105,7 @@ The verses are in couplets of ten and six syllables.
 
 : The Six {#six}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Kenu shauka hauvu, bram branu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Now the six arrive, each worse than the last.]{lang=en}
 2 [Kenu shauka hauvu, bram branu,]{lang=vedy}
@@ -266,7 +266,7 @@ The verses are in couplets of ten and six syllables.
 
 : The Forty Days {#forty-days}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Janra navu rajva uvas kresak,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [The people sought no new king.]{lang=en}
 2 [Janra navu rajva uvas kresak,]{lang=vedy}
@@ -345,7 +345,7 @@ The verses are in couplets of ten and six syllables.
 
 : The Roll and the Acknowledgment {#acknowledgment}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Lipu nyuru, rajva shilsa uvas,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [The roll continues. No king approaches the stone.]{lang=en}
 2 [Lipu nyuru, rajva shilsa uvas,]{lang=vedy}

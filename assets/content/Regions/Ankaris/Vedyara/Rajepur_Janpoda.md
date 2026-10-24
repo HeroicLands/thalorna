@@ -99,14 +99,14 @@ The classical chronicles put this in the first year of [[lore-agecopyists|the Ag
 
 : They Asked for No King {#forty-days-excerpt}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Vena rajva uvas jahnuk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [They asked for no king.]{lang=en}
 2 [Vena rajva uvas jahnuk.]{lang=vedy}
 
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Shaltun. Kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. Lipu ro kartu vena vinsa uvas shem lipak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Gloss. Those final four words contain the entire matter. The chronicler entered them without comment.]{lang=en}
 2 [Shaltun. Kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. Lipu ro kartu vena vinsa uvas shem lipak.]{lang=vedy}
@@ -126,7 +126,7 @@ Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] closes 
 
 : The Acknowledgment {#recitation-excerpt}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Mahanodi rajbhumri uvas,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [The Mahanodi kingdom is gone.]{lang=en}
 2 [Mahanodi rajbhumri uvas,]{lang=vedy}

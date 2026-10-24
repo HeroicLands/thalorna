@@ -28,7 +28,7 @@ data:
 
 : The Ferryman at the Ford {#telling}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Ehu ghaul bhe mahvasultu mova ro tirsa pa orsa, le nau banduna bhe orsa. Nortu janru trel chambu. Kenu nu nyura bhinu, drunem ehu vi druk ghaul orsa, le orkhu anra vi uvas bhinu ro lam aisu orkhu bram puratra orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Tonight the rope lies on our bank and the boat is tied up. No one crosses. Listen now: this is its night, and the children who missed the story last year have grown a year older.]{lang=en}
 2 [Ehu ghaul bhe mahvasultu mova ro tirsa pa orsa, le nau banduna bhe orsa. Nortu janru trel chambu. Kenu nu nyura bhinu, drunem ehu vi druk ghaul orsa, le orkhu anra vi uvas bhinu ro lam aisu orkhu bram puratra orsa.]{lang=vedy}
@@ -45,7 +45,7 @@ data:
 
 ## The Year of the Early Water
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Ehu karmu ro orkhu bhe ludra pa antaritu taprin orsa. Janru brel ro shamona karmak anra tre saptu nodra utru. Nu ehu ro shaltun jnenuk, drunem nu ro sorhumatva ro kalda bhe vi narta le nu ro kalda bhe vi narta. Puratra ganona shem shamona karmak ro janru ro bijra bhumri rinru jalka bhe daushu. Uhu orkhu bram branu orsa. Jalka ghaul bhe hauvu, le aisul kalda bhe hauvu, himjalka dvarna muku ro samnu pantra shem. Navu tirsa ro grima sartu ehu nodra ro grima shem miratutru pa orsa. Vi nivra, le jalka purpantra bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [That year spring was warm upon the wall. The river rose three weeks before anyone had planted in preparation. You know what that means. It happened in your grandmothers' lives and will happen in yours. Seed planted by the old reckoning drowned underground. This year was worse: the water came by night, suddenly, as though the ice had opened a door. The village across the river stood on a mound, as every village here does. It woke to water in the lanes.]{lang=en}
 2 [Ehu karmu ro orkhu bhe ludra pa antaritu taprin orsa. Janru brel ro shamona karmak anra tre saptu nodra utru. Nu ehu ro shaltun jnenuk, drunem nu ro sorhumatva ro kalda bhe vi narta le nu ro kalda bhe vi narta. Puratra ganona shem shamona karmak ro janru ro bijra bhumri rinru jalka bhe daushu. Uhu orkhu bram branu orsa. Jalka ghaul bhe hauvu, le aisul kalda bhe hauvu, himjalka dvarna muku ro samnu pantra shem. Navu tirsa ro grima sartu ehu nodra ro grima shem miratutru pa orsa. Vi nivra, le jalka purpantra bhe orsa.]{lang=vedy}
@@ -66,7 +66,7 @@ data:
 
 ## Nine Crossings
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Uhu kalda bhe ve trel chambu. Mahvasultu pa nartalka nau 12 janru bhornu, vau 15 vren vena lam orsa. Ve ganstal aisu bhe lam adnu, drunem ehu rinda orsa. Lam, anva stovira, anva lamnyur ushta ro nirnak jannuk, anva sartu navu, le grimapavi kaldunganstal. Grimapavi ehu uvas kamva ushta le lampu. Taranpal ganstal aisu bhe chambu ro grimapavi pavi orsa druk grima uvas ushta lampu. Le grimapavi nyuru orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Then he began crossing. A flat boat on a rope takes twelve people, or fifteen children. He took children first. That is the order: children, old people, pregnant women, everyone remaining, the headman last. The headman objected. Taranpal told him a headman who left first would have no village left to head. He stayed.]{lang=en}
 2 [Uhu kalda bhe ve trel chambu. Mahvasultu pa nartalka nau 12 janru bhornu, vau 15 vren vena lam orsa. Ve ganstal aisu bhe lam adnu, drunem ehu rinda orsa. Lam, anva stovira, anva lamnyur ushta ro nirnak jannuk, anva sartu navu, le grimapavi kaldunganstal. Grimapavi ehu uvas kamva ushta le lampu. Taranpal ganstal aisu bhe chambu ro grimapavi pavi orsa druk grima uvas ushta lampu. Le grimapavi nyuru orsa.]{lang=vedy}
@@ -139,7 +139,7 @@ data:
 
 ## Three Requests
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Nodra brel ro kalda bhe nitar chambu, samnu pantra shem. Navu tirsa ro grima brel ro miratutru tral vramu, le nu kretu ro varsu kretu, le nu navrak ro varsu navrak, le sandul shamona karmak. Nel bhumitala pa aisu karmu narta. Grima vi pa shamona grenu uvas karmak. Birsa grima sartu ghaul bhe aisu janru le aisu mahvasultu darka, le torona vrel janru ro uvas orsa jnenru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [The river fell in its own time. The other village went home to its mound, found what you find, rebuilt what you rebuild, and planted late. Something had happened on the terraces which the villages could not plant over: for a whole night two villages had looked to one man and one rope. They understood that nobody owned the ford.]{lang=en}
 2 [Nodra brel ro kalda bhe nitar chambu, samnu pantra shem. Navu tirsa ro grima brel ro miratutru tral vramu, le nu kretu ro varsu kretu, le nu navrak ro varsu navrak, le sandul shamona karmak. Nel bhumitala pa aisu karmu narta. Grima vi pa shamona grenu uvas karmak. Birsa grima sartu ghaul bhe aisu janru le aisu mahvasultu darka, le torona vrel janru ro uvas orsa jnenru.]{lang=vedy}
@@ -188,7 +188,7 @@ data:
 
 : The Oath on the Terrace {#oath}
 
-```verse {form=oath lang=en cols=2}
+```verse {form=oath lang=en cols=2 numstep=5}
 1 [Mova sartu druk torona ushta ro janru ghomra pomu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [We feed the man keeping the ford for everyone.]{lang=en}
 2 [Mova sartu druk torona ushta ro janru ghomra pomu.]{lang=vedy}
@@ -289,7 +289,7 @@ data:
 
 ## What He Kept
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Taranpal 30 orkhu torona ushta. Ve nau le mahvasultu ushta, grima ve tral ghomra pomu. Uhu 30 orkhu bhe ve birsa demrak navu mahvasultu uvas shem trel chambu, aisu nirnak jannuk druk le aisu gaukra druk. Birsa tirsa kren druk ve bram praksun orsa nyuru preska karmak. Ve margin ro margha ushta. Vi ro shaltun, ve dandra shem vi padsun. Stolnu ro janru ve ro mirmu vidsun, le navu stalu bhe stolnu druk chambu. Ve brel ro pomba shem shetka utrak jalpantra mraknu. Birsa preska ro grima nyura darka. Uhu kalda bhe ve vena minra kren ve mraknu druk vranu uvas ushta lampu kamva ushta jahnuk. Lutra hauvu ro orkhu bhe ve dvarna ushta, sotra grima ro tarnak jannuk ve ro kirnu bhe. Vena anra aisu janru ro kirnu bhe nortu demrak bhe stambhu. Lutra daun utrak vramu, le ve ro ormona bhe vramul nitar uvas hauvu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Taranpal kept the ford thirty years. He maintained boat and rope; the villages fed him. Twice more in those years he crossed without the rope, once for a woman, once for a cow. The banks still dispute which crossing he made faster. Keeping the pilgrim road meant walking it with a staff until robbers recognized him and moved elsewhere. He cleared the disputed channel himself, with his own hands, while both villages watched. Then he asked which village wanted to deny his right. When raiders came, he held the gate with men of four villages behind him. They had never stood behind one man before. The raiders retreated up the valley. They never returned during his life.]{lang=en}
 2 [Taranpal 30 orkhu torona ushta. Ve nau le mahvasultu ushta, grima ve tral ghomra pomu. Uhu 30 orkhu bhe ve birsa demrak navu mahvasultu uvas shem trel chambu, aisu nirnak jannuk druk le aisu gaukra druk. Birsa tirsa kren druk ve bram praksun orsa nyuru preska karmak. Ve margin ro margha ushta. Vi ro shaltun, ve dandra shem vi padsun. Stolnu ro janru ve ro mirmu vidsun, le navu stalu bhe stolnu druk chambu. Ve brel ro pomba shem shetka utrak jalpantra mraknu. Birsa preska ro grima nyura darka. Uhu kalda bhe ve vena minra kren ve mraknu druk vranu uvas ushta lampu kamva ushta jahnuk. Lutra hauvu ro orkhu bhe ve dvarna ushta, sotra grima ro tarnak jannuk ve ro kirnu bhe. Vena anra aisu janru ro kirnu bhe nortu demrak bhe stambhu. Lutra daun utrak vramu, le ve ro ormona bhe vramul nitar uvas hauvu.]{lang=vedy}
@@ -326,7 +326,7 @@ data:
 
 ## Why We Stay Tonight
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2 numstep=5}
 1 [Anva rajva navru pur trum drau kalda bhe nodra ushta. Keru vardak ushta, le rumbha vena brel ro stanra bhe tirmun, le mova vena ro stanra drun krevna uvas ushta. Katha vena drun uvas orsa. Katha drau anva ro aisu ghaul drun orsa. Uttarka nodra ro grima brel bhornu ro varsu shem Taranpal ushta ro torona tral nitar chambu, vena bhinu ro karmu brondu ro rajva vena bhinu druk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [For a long time afterward, kings governed the river from the new town. Some governed well. The recitation gives those kings their places; we do not begrudge them. This story concerns a much later night. The upper-river villages went down with whatever they carried to Taranpal's ford, hoping to be heard by a king who had ceased to hear them.]{lang=en}
 2 [Anva rajva navru pur trum drau kalda bhe nodra ushta. Keru vardak ushta, le rumbha vena brel ro stanra bhe tirmun, le mova vena ro stanra drun krevna uvas ushta. Katha vena drun uvas orsa. Katha drau anva ro aisu ghaul drun orsa. Uttarka nodra ro grima brel bhornu ro varsu shem Taranpal ushta ro torona tral nitar chambu, vena bhinu ro karmu brondu ro rajva vena bhinu druk.]{lang=vedy}

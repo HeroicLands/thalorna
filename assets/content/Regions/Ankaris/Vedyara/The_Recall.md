@@ -28,7 +28,7 @@ The verses are set as a long line answered by a short one.
 
 : The Reading {#reading}
 
-```verse {form=dialogue lang=en cols=2}
+```verse {form=dialogue lang=en cols=2 numstep=5}
 1 [Ehu angala bhe, devri ro umbra pravun,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Here in the court before the goddess's scale,]{lang=en}
 2 [Ehu angala bhe, devri ro umbra pravun,]{lang=vedy}
@@ -105,7 +105,7 @@ The verses are set as a long line answered by a short one.
 
 : The Camp {#camp}
 
-```verse {form=dialogue lang=en cols=2}
+```verse {form=dialogue lang=en cols=2 numstep=5}
 1 [Hirenya ro margha nitar daun ro rajva ro agmi]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Below the gold road, the valley king's fires]{lang=en}
 2 [Hirenya ro margha nitar daun ro rajva ro agmi]{lang=vedy}
@@ -866,7 +866,7 @@ The verses are set as a long line answered by a short one.
 
 : The Gorge {#gorge}
 
-```verse {form=dialogue lang=en cols=2}
+```verse {form=dialogue lang=en cols=2 numstep=5}
 1 [Sharabira.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Sharabira.]{lang=en}
 2 [Sharabira.]{lang=vedy}
@@ -1215,7 +1215,7 @@ The verses are set as a long line answered by a short one.
 
 : The Cairn {#cairn}
 
-```verse {form=dialogue lang=en cols=2}
+```verse {form=dialogue lang=en cols=2 numstep=5}
 1 [Sartu hiranyaritu bhe danur shauka rajbhumri trum nitar hauvu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Each autumn bows return from six kingdoms,]{lang=en}
 2 [Sartu hiranyaritu bhe danur shauka rajbhumri trum nitar hauvu,]{lang=vedy}

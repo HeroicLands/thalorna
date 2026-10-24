@@ -27,7 +27,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The Opening {#opening}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2 numstep=5}
 1 [Ehu ghaul bhe mova barnu koda trum aisu agmi jvelak,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Tonight many vessels kindle a single fire.]{lang=en}
 2 [Ehu ghaul bhe mova barnu koda trum aisu agmi jvelak,]{lang=vedy}
@@ -80,7 +80,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The Lamp {#lamp}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2 numstep=5}
 1 [Ve domsa trum nodra ro margha nitar hauvu, grima ro samnu pantra shem,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [He followed the river road down from the hills, the villagers' route,]{lang=en}
 2 [Ve domsa trum nodra ro margha nitar hauvu, grima ro samnu pantra shem,]{lang=vedy}
@@ -237,7 +237,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The West Bank {#west-bank}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2 numstep=5}
 1 [Sandva bhe nortu janru pachru ro tirsa pa chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Nobody enters the west bank at dusk.]{lang=en}
 2 [Sandva bhe nortu janru pachru ro tirsa pa chambu.]{lang=vedy}
@@ -410,7 +410,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The Fires {#fires}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2 numstep=5}
 1 [Ganstal aisu ghaul bhe 12 avoli, le 12 brondu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Twelve lines the first night. Twelve extinguished.]{lang=en}
 2 [Ganstal aisu ghaul bhe 12 avoli, le 12 brondu.]{lang=vedy}
@@ -917,7 +917,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The One That Took {#one-that-took}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2 numstep=5}
 1 [Ritru ro kalduna bhe, sartu sandva bhe domsa pa meghra shem,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Late in the season, cloud on the hills each evening,]{lang=en}
 2 [Ritru ro kalduna bhe, sartu sandva bhe domsa pa meghra shem,]{lang=vedy}
@@ -1074,7 +1074,7 @@ What the song shares with the record is the season and its shape: the slaughter 
 
 : The Ember {#ember}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2 numstep=5}
 1 [Ve nodra ro margha utrak kaldunganstal grima tral padsun, koda pardun ro jortu bhe,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [He walked upriver to the last village, pot cradled in his arm,]{lang=en}
 2 [Ve nodra ro margha utrak kaldunganstal grima tral padsun, koda pardun ro jortu bhe,]{lang=vedy}

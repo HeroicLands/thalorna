@@ -34,7 +34,7 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The Spit {#spit}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2 numstep=5}
 1 [Sandyapur ro vausnakra aisu milka ro vaus orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [At Sandyapur the spit is a mile of sand.]{lang=en}
 2 [Sandyapur ro vausnakra aisu milka ro vaus orsa,]{lang=vedy}
@@ -217,7 +217,7 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The Fan of Stones {#stones}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2 numstep=5}
 1 [Domsa margha tral muku, uhu stalu shilsa ro orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Where the hills open onto the road, the ground is stone:]{lang=en}
 2 [Domsa margha tral muku, uhu stalu shilsa ro orsa,]{lang=vedy}
@@ -404,7 +404,7 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The Road {#road}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2 numstep=5}
 1 [Margha shokot ro mavru ro tarpuna ro stalu orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [The road is beaten ground, one wagon wide,]{lang=en}
 2 [Margha shokot ro mavru ro tarpuna ro stalu orsa,]{lang=vedy}
@@ -587,7 +587,7 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The Wall {#wall}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2 numstep=5}
 1 [Ludrapur ro ludra shilsa ro padu pa miratchela orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Ludrapur's wall is mud brick on stone foundations,]{lang=en}
 2 [Ludrapur ro ludra shilsa ro padu pa miratchela orsa,]{lang=vedy}
@@ -748,7 +748,7 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The House {#house}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2 numstep=5}
 1 [Ludrapur ro ombhala shilsa ro orsa, le vi stambhu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Ludrapur's temple is stone. It stands.]{lang=en}
 2 [Ludrapur ro ombhala shilsa ro orsa, le vi stambhu.]{lang=vedy}

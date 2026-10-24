@@ -26,7 +26,7 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reig
 
 : The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
-```verse {form=recitation lang=en cols=2}
+```verse {form=recitation lang=en cols=2 numstep=5}
 1 [Ve ro palda nidgroha trum chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [His guards left their barracks for the grain.]{lang=en}
 2 [Ve ro palda nidgroha trum chambu,]{lang=vedy}

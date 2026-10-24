@@ -37,7 +37,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : Before the Cord {#before}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, shetka anra kevu orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, what existed before the field?]{lang=en}
 2 [Gorva, shetka anra kevu orsa.]{lang=vedy}
@@ -124,7 +124,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : The Knots {#knots}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, sultu bhe kevu ganru genta orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, how many knots does the cord have?]{lang=en}
 2 [Gorva, sultu bhe kevu ganru genta orsa.]{lang=vedy}
@@ -235,7 +235,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : The Four Doors {#doors}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, jalka kevu stalu trum hauvu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, where did water come from?]{lang=en}
 2 [Gorva, jalka kevu stalu trum hauvu.]{lang=vedy}
@@ -354,7 +354,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : The Keeping {#keeping}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, umbrak ro karmu kaldun, jahu vi ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, who kept the finished measure?]{lang=en}
 2 [Gorva, umbrak ro karmu kaldun, jahu vi ushta.]{lang=vedy}
@@ -465,7 +465,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : The Breaking {#breaking}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, vren sartu varsu umbrak le ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, if all was measured and kept,]{lang=en}
 2 [Gorva, vren sartu varsu umbrak le ushta,]{lang=vedy}
@@ -642,7 +642,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : The Breath Not Measured {#breath}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, vren sartu varsu umbrak, kalda kevu orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, if all was measured, what is death?]{lang=en}
 2 [Gorva, vren sartu varsu umbrak, kalda kevu orsa.]{lang=vedy}
@@ -843,7 +843,7 @@ Where the work touches [[place-himashila|Himashila]], it keeps the silence [[pla
 
 : The Same Cord {#same}
 
-```verse {form=cosmogony lang=en cols=2}
+```verse {form=cosmogony lang=en cols=2 numstep=5}
 1 [Gorva, ehu brala kaldun su.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
 2 [Master, will this age end?]{lang=en}
 2 [Gorva, ehu brala kaldun su.]{lang=vedy}
