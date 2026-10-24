@@ -23,119 +23,348 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The First Year, at Twelve {#first}
 
-```verse {form=precepts lang=en}
-Remember what was said at dinner, and by whom.
-Remember what was not said, and by whom it was not said.
-A word is a guest. Know its name before it leaves the house.
-The cup goes round three times. Count the cups and not the words.
-Listen to the man who speaks last. He has been waiting.
-Listen to the man who does not speak. He is waiting still.
-Do not write it down. A thing written can be read.
-Say it over to yourself before you sleep, and it is yours.
-A girl who forgets is a girl who was not listening.
-A girl who remembers everything has nowhere to put it. Choose.
-The slave who pours the wine hears what you hear. Be kind to her.
-You are twelve. You know nothing. That is the first thing to remember.
+```verse {form=precepts lang=en cols=2}
+1 [Nemorarin lékhisir enth hespedhin koum ánthimor er lékhisir.]{.nativefont lang=helo}
+2 [Remember the words at dinner and their speaker.]{lang=en}
+2 [Nemorarin lékhisir enth hespedhin koum ánthimor er lékhisir.]{lang=helo}
+
+1 [Nemorarin uf rhéthasin koum ánthimor er sighelin.]{.nativefont lang=helo}
+2 [Remember the silence and whose it was.]{lang=en}
+2 [Nemorarin uf rhéthasin koum ánthimor er sighelin.]{lang=helo}
+
+1 [Lékhisir ésarin ksenir. Epistémarin ónomir er hein prineth leiparin domin.]{.nativefont lang=helo}
+2 [A word is a guest. Know its name before it leaves the house.]{lang=en}
+2 [Lékhisir ésarin ksenir. Epistémarin ónomir er hein prineth leiparin domin.]{lang=helo}
+
+1 [Kulithin érkharin perith trel horath. Arithmarin kulithin neur lékhisir.]{.nativefont lang=helo}
+2 [The cup circles three times. Count cups, not words.]{lang=en}
+2 [Kulithin érkharin perith trel horath. Arithmarin kulithin neur lékhisir.]{lang=helo}
+
+1 [Akrotharin anerith er telesth rhéthasin. Heir menarin edheth.]{.nativefont lang=helo}
+2 [Listen to the last speaker. He has already waited.]{lang=en}
+2 [Akrotharin anerith er telesth rhéthasin. Heir menarin edheth.]{lang=helo}
+
+1 [Akrotharin anerith er uf rhéthasin. Heir ethel menarin.]{.nativefont lang=helo}
+2 [Listen to the silent man. He still waits.]{lang=en}
+2 [Akrotharin anerith er uf rhéthasin. Heir ethel menarin.]{lang=helo}
+
+1 [Neur grafarin hein. Anagharin praghin er grafarin ésarin dunelir.]{.nativefont lang=helo}
+2 [Do not write it. Writing can be read.]{lang=en}
+2 [Neur grafarin hein. Anagharin praghin er grafarin ésarin dunelir.]{lang=helo}
+
+1 [Rhéthasin hein prou authel prineth hufarin. Hein ésarin er thu.]{.nativefont lang=helo}
+2 [Say it to yourself before sleep. It belongs to you.]{lang=en}
+2 [Rhéthasin hein prou authel prineth hufarin. Hein ésarin er thu.]{lang=helo}
+
+1 [Paidhelira letharin. Paidhelira uf akrotharin.]{.nativefont lang=helo}
+2 [A girl who forgets is a girl who does not listen.]{lang=en}
+2 [Paidhelira letharin. Paidhelira uf akrotharin.]{lang=helo}
+
+1 [Paidhelira nemorarin plum praghin. Heira ekhárin medhin tofelin pir thetharin. Hairelarin.]{.nativefont lang=helo}
+2 [A girl remembering everything has no place to put it. Choose.]{lang=en}
+2 [Paidhelira nemorarin plum praghin. Heira ekhárin medhin tofelin pir thetharin. Hairelarin.]{lang=helo}
+
+1 [Doulir sulathin amphelin. Heira akherin hometh lékhisir er thu. Sunelira pir heira.]{.nativefont lang=helo}
+2 [The slave pouring wine hears the same words you hear. Have compassion for her.]{lang=en}
+2 [Doulir sulathin amphelin. Heira akherin hometh lékhisir er thu. Sunelira pir heira.]{lang=helo}
+
+1 [Thu ekhárin 12 eniauthin. Thu epistémarin medhin praghin. Heum ésarin in arithmas meun pir nemorarin.]{.nativefont lang=helo}
+2 [You have twelve years. You know nothing. Remember that first.]{lang=en}
+2 [Thu ekhárin 12 eniauthin. Thu epistémarin medhin praghin. Heum ésarin in arithmas meun pir nemorarin.]{lang=helo}
+
 ```
 
 : The Second Year, at Thirteen {#second}
 
-```verse {form=precepts lang=en}
-The lyre is played with the left hand. The right only strikes.
-A song is in the stopping of the string, not the striking.
-Sing below the talk, not over it. A guest should not have to raise his voice.
-When the talk stops, stop. When it begins again, begin under it.
-Learn the songs men ask for. Then learn the songs they will ask for next year.
-A man who weeps at a song has told you what he will not say.
-Do not sing the song he weeps at twice. Once he forgives. Twice he remembers.
-Tune the lyre before the guests come. A girl who tunes at table is a carpenter.
-Your voice is your own. Your face is the Academy's. Keep both.
-The [[lore-zunelasdty|Veiled Dreamer]] gave the singer the night. Give the guests the evening.
+```verse {form=precepts lang=en cols=2}
+1 [Kheirin arister pratharin lirathin. Kheirin deksir moneth tufarin.]{.nativefont lang=helo}
+2 [The left hand works the lyre. The right only strikes.]{lang=en}
+2 [Kheirin arister pratharin lirathin. Kheirin deksir moneth tufarin.]{lang=helo}
+
+1 [Sorathin ésarin in pautharin nemir. Uf in tufarin.]{.nativefont lang=helo}
+2 [The song lives in stopping the string, not striking it.]{lang=en}
+2 [Sorathin ésarin in pautharin nemir. Uf in tufarin.]{lang=helo}
+
+1 [Sorarin hupor homethin neur huth. Ksenir uf deetharin airatharin rhethin.]{.nativefont lang=helo}
+2 [Sing below conversation, not above. A guest need not raise his voice.]{lang=en}
+2 [Sorarin hupor homethin neur huth. Ksenir uf deetharin airatharin rhethin.]{lang=helo}
+
+1 [Hoseth homethin pautharin. Pautharin. Hoseth homethin ársidhin paleth. Ársidhin hupor hein.]{.nativefont lang=helo}
+2 [Stop when conversation stops. When it begins again, begin below it.]{lang=en}
+2 [Hoseth homethin pautharin. Pautharin. Hoseth homethin ársidhin paleth. Ársidhin hupor hein.]{lang=helo}
+
+1 [Mathelarin sorathin er erotharin er anerith. Huster mathelarin sorathin pir efeth eniauthin.]{.nativefont lang=helo}
+2 [Learn the requested songs. Then learn the songs for next year.]{lang=en}
+2 [Mathelarin sorathin er erotharin er anerith. Huster mathelarin sorathin pir efeth eniauthin.]{lang=helo}
+
+1 [Anerith kratharin enth sorathin. Heir rhéthasin pir thu praghin er uf rhéthasin er heir.]{.nativefont lang=helo}
+2 [A man weeping at a song tells you what he does not say.]{lang=en}
+2 [Anerith kratharin enth sorathin. Heir rhéthasin pir thu praghin er uf rhéthasin er heir.]{lang=helo}
+
+1 [Neur sorarin sorathin er kratharin er heir drin horath. Meun horath heir lusarin. Drin horath heir nemorarin.]{.nativefont lang=helo}
+2 [Do not sing that song twice. Once he forgives. Twice he remembers.]{lang=en}
+2 [Neur sorarin sorathin er kratharin er heir drin horath. Meun horath heir lusarin. Drin horath heir nemorarin.]{lang=helo}
+
+1 [Harmin lirathin prineth hikarin er ksenir. Paidhelira harmin enth trapehin ésarin tekhthir.]{.nativefont lang=helo}
+2 [Tune before guests arrive. A girl tuning at table is a carpenter.]{lang=en}
+2 [Harmin lirathin prineth hikarin er ksenir. Paidhelira harmin enth trapehin ésarin tekhthir.]{lang=helo}
+
+1 [Rhethin er thu ésarin er thu. Prosarin er thu ésarin er epistémion. Sotharin drin olasin.]{.nativefont lang=helo}
+2 [Your voice belongs to you. Your face belongs to the Academy. Preserve both.]{lang=en}
+2 [Rhethin er thu ésarin er thu. Prosarin er thu ésarin er epistémion. Sotharin drin olasin.]{lang=helo}
+
+1 [Kelathir er Oneirin dorasarin nikhtir prou sorir. Dorasarin hesperin er hemerin prou ksenir.]{.nativefont lang=helo}
+2 [The [[lore-zunelasdty|Veiled Dreamer]] gives night to the singer. Give evening to guests.]{lang=en}
+2 [Kelathir er Oneirin dorasarin nikhtir prou sorir. Dorasarin hesperin er hemerin prou ksenir.]{lang=helo}
+
 ```
 
 : The Third Year, at Fourteen {#third}
 
-```verse {form=precepts lang=en}
-Learn the [Song of the Ships]{.name data-type="lore/literature" lang=en} as every city sings it.
-Learn which ship came first in Thirenae, and in [[affiliation-pelagora|Pelagora]], and say each in its house.
-Never say which ship came first. Ask. Let the guest tell you.
-Learn the founders of every city, the seven and the colonies after them,
-and the names of the old clans, and which clan sits beside which in the theater.
-A man is pleased to hear his grandfather's deed from a stranger's mouth.
-He is more pleased if the stranger has it slightly wrong, so that he may correct her.
-Have it slightly wrong.
-Learn the poets the schools despise. The guests do not despise them.
-Learn the plays that lost. The man who paid for one is at the table.
-A song is the oldest record a city keeps. Read it as a record.
+```verse {form=precepts lang=en cols=2}
+1 [Mathelarin Sorathin er Naukir hoth plum pólithar sorarin hein.]{.nativefont lang=helo}
+2 [Learn the [Song of the Ships]{.name data-type="lore/literature" lang=en} as each city sings it.]{lang=en}
+2 [Mathelarin Sorathin er Naukir hoth plum pólithar sorarin hein.]{lang=helo}
+
+1 [Mathelarin naukir er prineth plum hikathin in Thirenae koum in Pelagora. Rhéthasin heum in domin er hein.]{.nativefont lang=helo}
+2 [Learn the first arrival at Thirenae and [[affiliation-pelagora|Pelagora]]. Speak each in its own house.]{lang=en}
+2 [Mathelarin naukir er prineth plum hikathin in Thirenae koum in Pelagora. Rhéthasin heum in domin er hein.]{lang=helo}
+
+1 [Medhin khronin rhéthasin naukir er prineth plum hikathin. Erotharin. Efarin ksenir rhéthasin pir thu.]{.nativefont lang=helo}
+2 [Never announce the first arrival. Ask. Permit the guest to tell you.]{lang=en}
+2 [Medhin khronin rhéthasin naukir er prineth plum hikathin. Erotharin. Efarin ksenir rhéthasin pir thu.]{lang=helo}
+
+1 [Mathelarin zerthir er plum pólithar. Hepthor koum apoikin huster helin.]{.nativefont lang=helo}
+2 [Learn every city’s founders, the seven and their later colonies,]{lang=en}
+2 [Mathelarin zerthir er plum pólithar. Hepthor koum apoikin huster helin.]{lang=helo}
+
+1 [Koum ónomir er palaisir ghenthir. Koum ghenthir er kathelarin pef heter ghenthir in theathelin.]{.nativefont lang=helo}
+2 [and the old clans’ names, and which sits beside which in the theater.]{lang=en}
+2 [Koum ónomir er palaisir ghenthir. Koum ghenthir er kathelarin pef heter ghenthir in theathelin.]{lang=helo}
+
+1 [Anerith ekhárin hedhirin er akherin prathin er parikhor er tokhir afor stomir er ksenethir.]{.nativefont lang=helo}
+2 [A man delights in his grandfather’s deed from a stranger’s mouth.]{lang=en}
+2 [Anerith ekhárin hedhirin er akherin prathin er parikhor er tokhir afor stomir er ksenethir.]{lang=helo}
+
+1 [Heir ekhárin plethir hedhirin eith ksenethir ekhárin maleth uf orthelir lékhisir. Der heir dunatharin orthelinarin heira.]{.nativefont lang=helo}
+2 [More delight if the stranger is slightly wrong and he can correct her.]{lang=en}
+2 [Heir ekhárin plethir hedhirin eith ksenethir ekhárin maleth uf orthelir lékhisir. Der heir dunatharin orthelinarin heira.]{lang=helo}
+
+1 [Ekhárin maleth uf orthelir lékhisir.]{.nativefont lang=helo}
+2 [Be slightly wrong.]{lang=en}
+2 [Ekhárin maleth uf orthelir lékhisir.]{lang=helo}
+
+1 [Mathelarin poiethelir er katheir er mathelion. Ksenir uf katheir helin.]{.nativefont lang=helo}
+2 [Learn the poets schools despise. Guests do not despise them.]{lang=en}
+2 [Mathelarin poiethelir er katheir er mathelion. Ksenir uf katheir helin.]{lang=helo}
+
+1 [Mathelarin dramin er skalin. Anerith er mistharin pir dramin ésarin enth trapehin.]{.nativefont lang=helo}
+2 [Learn the failed plays. Their paying man sits at table.]{lang=en}
+2 [Mathelarin dramin er skalin. Anerith er mistharin pir dramin ésarin enth trapehin.]{lang=helo}
+
+1 [Sorathin ésarin palaisir kathalir eil er plum heter kathalir er pólithar. Anagharin hein hoth kathalir.]{.nativefont lang=helo}
+2 [A song is the city’s oldest record. Read it as a record.]{lang=en}
+2 [Sorathin ésarin palaisir kathalir eil er plum heter kathalir er pólithar. Anagharin hein hoth kathalir.]{lang=helo}
+
 ```
 
 : The Fourth Year, at Fifteen {#fourth}
 
-```verse {form=precepts lang=en}
-Argue either side. Then argue the third side, which no one has seen.
-Never win at dinner what you can win tomorrow at the door.
-A man defeated in front of his friends is an enemy. Alone, he is a pupil.
-Ask the question to which you know the answer. Ask it as though you did not.
-Agree with the first half of what he says. He will give you the second.
-A first principle is a floor. Know what yours is. Do not show it.
-Do not be a wanderer. A girl with no floor falls through the house.
-When you are wrong, say so at once and smile. It costs nothing and is remembered.
-When he is wrong, let him find it. Help him find it. Do not be there when he does.
-The assembly is not yours. The dinner before the assembly is.
+```verse {form=precepts lang=en cols=2}
+1 [Antilekharin meun er drin. Huster antilekharin in arithmas trel. Medhin ánthimor meltharin hein.]{.nativefont lang=helo}
+2 [Argue either side. Then argue the third nobody sees.]{lang=en}
+2 [Antilekharin meun er drin. Huster antilekharin in arithmas trel. Medhin ánthimor meltharin hein.]{lang=helo}
+
+1 [Medhin khronin nikharin enth hespedhin praghin er dunatharin nikharin aurith enth thurin.]{.nativefont lang=helo}
+2 [Never win at dinner what you can win tomorrow at the door.]{lang=en}
+2 [Medhin khronin nikharin enth hespedhin praghin er dunatharin nikharin aurith enth thurin.]{lang=helo}
+
+1 [Anerith hetthelir tror helfir ésarin misthir. Moneth authel heir ésarin mathelir.]{.nativefont lang=helo}
+2 [A man defeated before friends is an enemy. Alone, a student.]{lang=en}
+2 [Anerith hetthelir tror helfir ésarin misthir. Moneth authel heir ésarin mathelir.]{lang=helo}
+
+1 [Erotharin pethin er epistemin er thu. Erotharin hoth uf epistémarin.]{.nativefont lang=helo}
+2 [Ask the question whose answer you know. Ask as though unknowing.]{lang=en}
+2 [Erotharin pethin er epistemin er thu. Erotharin hoth uf epistémarin.]{lang=helo}
+
+1 [Harmodharin frun in arithmas meun hemethin er lékhisir er heir. Heir dorasarin heter hemethin pir thu.]{.nativefont lang=helo}
+2 [Agree with his first half. He gives you the other half.]{lang=en}
+2 [Harmodharin frun in arithmas meun hemethin er lékhisir er heir. Heir dorasarin heter hemethin pir thu.]{lang=helo}
+
+1 [Arkhidhin ésarin dafelin. Epistémarin dafelin er thu. Neur delarin hein.]{.nativefont lang=helo}
+2 [A first principle is a floor. Know your floor. Do not reveal it.]{lang=en}
+2 [Arkhidhin ésarin dafelin. Epistémarin dafelin er thu. Neur delarin hein.]{lang=helo}
+
+1 [Neur ésarin planthis. Paidhelira frun medhin dafelin piptharin dres domin.]{.nativefont lang=helo}
+2 [Do not wander. A floorless girl falls through the house.]{lang=en}
+2 [Neur ésarin planthis. Paidhelira frun medhin dafelin piptharin dres domin.]{lang=helo}
+
+1 [Hoseth thu ésarin uf orthelir. Rhéthasin hein nuneth koum meidarhin. Hein deetharin medhin mistharin koum anthmerin nemorarin hein.]{.nativefont lang=helo}
+2 [When wrong, say so immediately and smile. It costs nothing. People remember.]{lang=en}
+2 [Hoseth thu ésarin uf orthelir. Rhéthasin hein nuneth koum meidarhin. Hein deetharin medhin mistharin koum anthmerin nemorarin hein.]{lang=helo}
+
+1 [Hoseth heir ésarin uf orthelir. Efarin heir heurarin hein. Ofelin heir heurarin hein. Neur ésarin eketh hoseth heir heurarin.]{.nativefont lang=helo}
+2 [When he is wrong, permit discovery. Help him discover. Be absent at discovery.]{lang=en}
+2 [Hoseth heir ésarin uf orthelir. Efarin heir heurarin hein. Ofelin heir heurarin hein. Neur ésarin eketh hoseth heir heurarin.]{lang=helo}
+
+1 [Agelon uf ésarin er thu. Hespedhin prineth agelon ésarin er thu.]{.nativefont lang=helo}
+2 [The assembly is not yours. Dinner before assembly is yours.]{lang=en}
+2 [Agelon uf ésarin er thu. Hespedhin prineth agelon ésarin er thu.]{lang=helo}
+
 ```
 
 : The Fifth Year, at Sixteen {#fifth}
 
-```verse {form=precepts lang=en}
-Know the seat of every guest before he sits in it.
-The host puts the man he fears on his right. Watch the man on his right.
-A guest who comes early wants something. A guest who comes late has it already.
-Greet the wife before the husband. She will be asked about you that night.
-Rise for the old. Rise for the herald. Rise for no one else, however high.
-You are a companion. You are not a servant. Pour for no one but yourself.
-You are a companion. You are not for sale. Say it once, and then never again.
-A man who mistakes the house is shown the door, and the door is shown politely.
-Wear the veil when you go out. It is silver, and it is to be seen.
-In a strange city eat what is put before you, and remember who put it there.
+```verse {form=precepts lang=en cols=2}
+1 [Epistémarin kathelin er plum ksenir prineth kathelarin er heir.]{.nativefont lang=helo}
+2 [Know each guest’s seat before he sits.]{lang=en}
+2 [Epistémarin kathelin er plum ksenir prineth kathelarin er heir.]{lang=helo}
+
+1 [Ksenodhir thetharin anerith er felin er heir enth deksir. Filarin anerith enth deksir.]{.nativefont lang=helo}
+2 [The host places the man he fears at his right. Watch that man.]{lang=en}
+2 [Ksenodhir thetharin anerith er felin er heir enth deksir. Filarin anerith enth deksir.]{lang=helo}
+
+1 [Ksenir hikarin proimeth oratharin praghin. Ksenir hikarin opseir ekhárin hein edheth.]{.nativefont lang=helo}
+2 [An early guest wants something. A late guest already has it.]{lang=en}
+2 [Ksenir hikarin proimeth oratharin praghin. Ksenir hikarin opseir ekhárin hein edheth.]{lang=helo}
+
+1 [Khaireth prou gemethira prineth gemethir. Anthmerin erotharin pir thu prou heira in heun nikhtir.]{.nativefont lang=helo}
+2 [Greet wife before husband. She is asked about you that night.]{lang=en}
+2 [Khaireth prou gemethira prineth gemethir. Anthmerin erotharin pir thu prou heira in heun nikhtir.]{lang=helo}
+
+1 [Eghelarin pir gerathir. Eghelarin pir kerukhir. Medhin heter kaieth hupsel.]{.nativefont lang=helo}
+2 [Rise for elders. Rise for herald. No other, however high.]{lang=en}
+2 [Eghelarin pir gerathir. Eghelarin pir kerukhir. Medhin heter kaieth hupsel.]{lang=helo}
+
+1 [Thu ésarin hetairin. Thu uf ésarin doulethin. Sulathin moneth pir authel.]{.nativefont lang=helo}
+2 [You are a companion, no servant. Pour only for yourself.]{lang=en}
+2 [Thu ésarin hetairin. Thu uf ésarin doulethin. Sulathin moneth pir authel.]{lang=helo}
+
+1 [Thu ésarin hetairin. Thu uf ésarin pir polarin. Rhéthasin meun horath. Huster medhin khronin paleth.]{.nativefont lang=helo}
+2 [You are a companion, not for sale. Say it once. Never repeat.]{lang=en}
+2 [Thu ésarin hetairin. Thu uf ésarin pir polarin. Rhéthasin meun horath. Huster medhin khronin paleth.]{lang=helo}
+
+1 [Anerith uf nemarin domin. Ánthimor vagharin thurin prou heir. Ánthimor vagharin thurin eughelreth.]{.nativefont lang=helo}
+2 [A man mistaking the house is shown the door courteously.]{lang=en}
+2 [Anerith uf nemarin domin. Ánthimor vagharin thurin prou heir. Ánthimor vagharin thurin eughelreth.]{lang=helo}
+
+1 [Endharin kelathin hoseth érkharin ekor. Hein ésarin argirin. Hein ésarin pir meltharin.]{.nativefont lang=helo}
+2 [Wear the veil outside. Silver, meant to be seen.]{lang=en}
+2 [Endharin kelathin hoseth érkharin ekor. Hein ésarin argirin. Hein ésarin pir meltharin.]{lang=helo}
+
+1 [In heterir pólithar edharin edhin tror thu. Nemorarin ánthimor er thetharin hein eketh.]{.nativefont lang=helo}
+2 [In a foreign city eat the food before you. Remember who puts it there.]{lang=en}
+2 [In heterir pólithar edharin edhin tror thu. Nemorarin ánthimor er thetharin hein eketh.]{lang=helo}
+
 ```
 
 : The Sixth Year, at Seventeen {#sixth}
 
-```verse {form=precepts lang=en}
-Learn the garden. Learn it all, the root and the leaf and the seed.
-Learn what cools a fever, and what eases a birth, and what brings sleep.
-Learn what brings a sleep that does not end. Learn it so that you know it in a cup.
-A companion who cannot tell what is in a cup is a companion who drinks it.
-Grow nothing you would be ashamed to have found in your room.
-Your hands heal. Say so. Let them see you heal a slave's burn at table.
-The herb that cures and the herb that kills are often one herb. So are words.
-The [[lore-morvanadty|Mistress of the Waning Moon]] keeps the end of every growing thing. Respect her.
-Do not give a man a sleeping draught unless he asks for it. Then ask him again.
+```verse {form=precepts lang=en cols=2}
+1 [Mathelarin horghin. Olasin horghin. Rhizin koum fullerin koum sperin.]{.nativefont lang=helo}
+2 [Learn the whole garden: root, leaf, seed.]{lang=en}
+2 [Mathelarin horghin. Olasin horghin. Rhizin koum fullerin koum sperin.]{lang=helo}
+
+1 [Mathelarin praghin er krumarthin nosathin. Koum praghin er rhadhelarin tekin. Koum praghin er féranin hufin.]{.nativefont lang=helo}
+2 [Learn what cools fever, eases birth, brings sleep.]{lang=en}
+2 [Mathelarin praghin er krumarthin nosathin. Koum praghin er rhadhelarin tekin. Koum praghin er féranin hufin.]{lang=helo}
+
+1 [Mathelarin praghin er féranin hufin frun medhin telthin. Mathelarin pir nemarin hein in kulithin.]{.nativefont lang=helo}
+2 [Learn what brings endless sleep, so you recognize it in a cup.]{lang=en}
+2 [Mathelarin praghin er féranin hufin frun medhin telthin. Mathelarin pir nemarin hein in kulithin.]{lang=helo}
+
+1 [Hetairin uf dunatharin nemarin praghin in kulithin. Hetairin potharin hein.]{.nativefont lang=helo}
+2 [A companion unable to recognize a cup’s contents drinks them.]{lang=en}
+2 [Hetairin uf dunatharin nemarin praghin in kulithin. Hetairin potharin hein.]{lang=helo}
+
+1 [Neur auksarin futherin pir aidhira in heurarin er domethin er thu.]{.nativefont lang=helo}
+2 [Grow no plant you would be ashamed to have discovered in your room.]{lang=en}
+2 [Neur auksarin futherin pir aidhira in heurarin er domethin er thu.]{lang=helo}
+
+1 [Kheirin er thu iatharin. Rhéthasin heum. Efarin helin meltharin thu iatharin ithralghin er doulir enth trapehin.]{.nativefont lang=helo}
+2 [Your hands heal. Say it. Let them see you heal a slave’s burn at table.]{lang=en}
+2 [Kheirin er thu iatharin. Rhéthasin heum. Efarin helin meltharin thu iatharin ithralghin er doulir enth trapehin.]{lang=helo}
+
+1 [Futherin er iatharin koum futherin er kenarin ésarin pollath hometh futherin. Koum lékhisir.]{.nativefont lang=helo}
+2 [The healing plant and killing plant are often the same. So are words.]{lang=en}
+2 [Futherin er iatharin koum futherin er kenarin ésarin pollath hometh futherin. Koum lékhisir.]{lang=helo}
+
+1 [Andáhr er Selenir er Meitharin sotharin telthin er plum auksarin praghin. Dokhazin heira.]{.nativefont lang=helo}
+2 [The [[lore-morvanadty|Mistress of the Waning Moon]] preserves every growing thing’s ending. Honor her.]{lang=en}
+2 [Andáhr er Selenir er Meitharin sotharin telthin er plum auksarin praghin. Dokhazin heira.]{lang=helo}
+
+1 [Neur dorasarin hupothin prou anerith eith heir uf erotharin hein. Huster erotharin heir paleth.]{.nativefont lang=helo}
+2 [Give no sleeping draught without request. Then ask again.]{lang=en}
+2 [Neur dorasarin hupothin prou anerith eith heir uf erotharin hein. Huster erotharin heir paleth.]{lang=helo}
+
 ```
 
 : The Seventh Year, at Eighteen {#seventh}
 
-```verse {form=precepts lang=en}
-Learn the law of your own city, and of the seven, and of the sea.
-Learn the law of the house you go to, which is not written, and is older.
-Know what a metic may own, and what a freedman may say, and what a slave may not.
-Know the auditor's hold, and the honor-trial, and the stripping of honor.
-Know where the law ends. A companion stands where the law ends and is not afraid.
-The law says what you may not do. Your boundaries say what you will not.
-Keep your boundaries in public. Then no one asks about them in private.
-A man who asks you to cross one is telling you what he has crossed.
-Never say what you are for. Say what you are: a companion of the Silver Veil.
-If a man calls you an instrument, laugh, and ask him who plays it.
-He will not know. Nor will you. That is right.
+```verse {form=precepts lang=en cols=2}
+1 [Mathelarin nomasir er pólithar er thu. Koum er hepthor. Koum er thálimir.]{.nativefont lang=helo}
+2 [Learn your city’s law, the seven’s, the sea’s.]{lang=en}
+2 [Mathelarin nomasir er pólithar er thu. Koum er hepthor. Koum er thálimir.]{lang=helo}
+
+1 [Mathelarin nomasir er domin er hikathin er thu. Hein uf ésarin grafarin koum ésarin palaisir.]{.nativefont lang=helo}
+2 [Learn the arriving house’s law, unwritten and older.]{lang=en}
+2 [Mathelarin nomasir er domin er hikathin er thu. Hein uf ésarin grafarin koum ésarin palaisir.]{lang=helo}
+
+1 [Epistémarin kemethin er methekir. Koum lékhisir er efir er lutherin. Koum apaghelir er doulir.]{.nativefont lang=helo}
+2 [Know a metic’s property, a freedman’s permitted speech, a slave’s prohibition.]{lang=en}
+2 [Epistémarin kemethin er methekir. Koum lékhisir er efir er lutherin. Koum apaghelir er doulir.]{lang=helo}
+
+1 [Epistémarin euthenkarin. Koum timin. Koum dokhafin.]{.nativefont lang=helo}
+2 [Know the auditor’s hold, honor-trial, stripping of honor.]{lang=en}
+2 [Epistémarin euthenkarin. Koum timin. Koum dokhafin.]{lang=helo}
+
+1 [Epistémarin tofelin er telthin er nomasir. Hetairin statharin enth telthin er nomasir koum uf ekhárin felin.]{.nativefont lang=helo}
+2 [Know law’s ending-place. A companion stands there without fear.]{lang=en}
+2 [Epistémarin tofelin er telthin er nomasir. Hetairin statharin enth telthin er nomasir koum uf ekhárin felin.]{lang=helo}
+
+1 [Nomasir rhéthasin praghin er apaghelir. Nomethin er thu rhéthasin praghin er thu uf pratharin.]{.nativefont lang=helo}
+2 [Law speaks prohibition. Your boundaries speak what you do not do.]{lang=en}
+2 [Nomasir rhéthasin praghin er apaghelir. Nomethin er thu rhéthasin praghin er thu uf pratharin.]{lang=helo}
+
+1 [Sotharin nomethin er thu enmes anthmerin. Huster medhin ánthimor erotharin pir hein in krufin.]{.nativefont lang=helo}
+2 [Preserve boundaries among people. Nobody asks about them privately.]{lang=en}
+2 [Sotharin nomethin er thu enmes anthmerin. Huster medhin ánthimor erotharin pir hein in krufin.]{lang=helo}
+
+1 [Anerith erotharin thu badhelin dian nomethin. Heir rhéthasin pir thu prathin er dian er heir.]{.nativefont lang=helo}
+2 [A man asking you across a boundary tells you his own crossing.]{lang=en}
+2 [Anerith erotharin thu badhelin dian nomethin. Heir rhéthasin pir thu prathin er dian er heir.]{lang=helo}
+
+1 [Medhin khronin rhéthasin skofelin er thu. Rhéthasin onthin er thu. Hetairin er Argirin Kelathin.]{.nativefont lang=helo}
+2 [Never speak your purpose. Speak your being: companion of the Silver Veil.]{lang=en}
+2 [Medhin khronin rhéthasin skofelin er thu. Rhéthasin onthin er thu. Hetairin er Argirin Kelathin.]{lang=helo}
+
+1 [Eith anerith ónomarin thu organir. Gelarin koum erotharin thir lirarhin organir.]{.nativefont lang=helo}
+2 [If a man calls you an instrument, laugh. Ask who plays it.]{lang=en}
+2 [Eith anerith ónomarin thu organir. Gelarin koum erotharin thir lirarhin organir.]{lang=helo}
+
+1 [Heir uf epistémarin. Thu prostheth uf epistémarin. Heum ésarin orthelir.]{.nativefont lang=helo}
+2 [He does not know. You do not know either. That is correct.]{lang=en}
+2 [Heir uf epistémarin. Thu prostheth uf epistémarin. Heum ésarin orthelir.]{lang=helo}
+
 ```
 
 : The Eighth Year, at Nineteen {#eighth}
 
-```verse {form=precepts lang=en}
-[…]
+```verse {form=precepts lang=en cols=2}
+1 […]
+2 […]
+2 […]
 
-The city could not keep its freedom by arms,
-and would keep it by conversation.
+***
+
+1 [Pólithar uf dunatharin sotharin eleutherira frun hoplarin.]{.nativefont lang=helo}
+2 [The city could not preserve freedom with arms,]{lang=en}
+2 [Pólithar uf dunatharin sotharin eleutherira frun hoplarin.]{lang=helo}
+
+1 [Koum bouletharin sotharin hein frun homethin.]{.nativefont lang=helo}
+2 [and intended to preserve it with conversation.]{lang=en}
+2 [Koum bouletharin sotharin hein frun homethin.]{lang=helo}
+
 ```
 
 ## See Also

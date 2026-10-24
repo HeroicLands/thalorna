@@ -6020,7 +6020,778 @@ _Kalidrás_ (ka-lee-DRAS)
 : final stress, which the acute marks
 
 _Ghanides_ (gah-NEE-des)
-: paroxytone with clear secondary stress
+: paroxytone with clear secondary stress - form: "sorathin"
+class: n
+field: "Everyday expression"
+gloss: "song" - form: "hespedhin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "dinner" - form: "sulathin"
+class: v
+field: "Doing, going and being"
+gloss: "pour wine or water" - form: "amphelin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "wine" - form: "grafarin"
+class: v
+field: "Doing, going and being"
+gloss: "write" - form: "anagharin"
+class: v
+field: "Doing, going and being"
+gloss: "read writing" - form: "lirathin"
+class: n
+field: "Everyday expression"
+gloss: "lyre" - form: "nemir"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "string of an instrument" - form: "sorarin"
+class: v
+field: "Doing, going and being"
+gloss: "sing" - form: "kratharin"
+class: v
+field: "Doing, going and being"
+gloss: "weep" - form: "harmin"
+class: v
+field: "Doing, going and being"
+gloss: "tune an instrument" - form: "tekhthir"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "carpenter" - form: "kelathin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "veil" - form: "Kelathir er Oneirin"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Veiled Dreamer" - form: "naukir"
+class: n
+field: "Sea, river, land and sky"
+gloss: "ship" - form: "Zerthir"
+class: n
+field: "Everyday expression"
+gloss: "founder of a city" - form: "apoikin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "colony" - form: "theathelin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "theater" - form: "poiethelir"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "poet" - form: "kathalir"
+class: n
+field: "Thought, measure and the schools"
+gloss: "a record" - form: "mistharin"
+class: v
+field: "Doing, going and being"
+gloss: "pay a price" - form: "kathelarin"
+class: v
+field: "Doing, going and being"
+gloss: "establish a person's position in a seating arrangement" - form: "antilekharin"
+class: v
+field: "Doing, going and being"
+gloss: "argue a case or side" - form: "nikharin"
+class: v
+field: "Doing, going and being"
+gloss: "win a contest or argument" - form: "hetthelir"
+class: n
+field: "Thought, measure and the schools"
+gloss: "person defeated in an argument" - form: "meidarhin"
+class: v
+field: "Doing, going and being"
+gloss: "smile" - form: "nomethin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "boundary of personal conduct" - form: "methekir"
+class: n
+field: "Sea, river, land and sky"
+gloss: "metic or resident without citizenship" - form: "lutherin"
+class: n
+field: "The city, law and office"
+gloss: "freedman" - form: "doulir"
+class: n
+field: "The city, law and office"
+gloss: "slave" - form: "euthenir"
+class: n
+field: "The city, law and office"
+gloss: "auditor empowered to detain" - form: "euthenkarin"
+class: n
+field: "The city, law and office"
+gloss: "auditor's legal hold" - form: "dokhafin"
+class: n
+field: "The city, law and office"
+gloss: "stripping of civic honor" - form: "horghin"
+class: n
+field: "Everyday expression"
+gloss: "garden" - form: "nosathin"
+class: n
+field: "Everyday expression"
+gloss: "fever" - form: "hupothin"
+class: n
+field: "Everyday expression"
+gloss: "sleeping draught" - form: "homethin"
+class: n
+field: "Everyday expression"
+gloss: "conversation" - form: "hoplarin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "arms or weapons" - form: "sorir"
+class: n
+field: "Kin, the person and the body"
+gloss: "singer" - form: "orthelinarin"
+class: v
+field: "Doing, going and being"
+gloss: "correct another person's statement" - form: "mathelion"
+class: n
+field: "Thought, measure and the schools"
+gloss: "school as a teaching institution" - form: "pethin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "question" - form: "kerukhir"
+class: n
+field: "The city, law and office"
+gloss: "herald" - form: "vagharin"
+class: v
+field: "Doing, going and being"
+gloss: "show a person an object or way" - form: "eughelreth"
+class: adv
+field: "The city, law and office"
+gloss: "courteously" - form: "endharin"
+class: v
+field: "Doing, going and being"
+gloss: "wear a garment" - form: "krumarthin"
+class: v
+field: "Doing, going and being"
+gloss: "cool a fever or reduce heat" - form: "rhadhelarin"
+class: v
+field: "Doing, going and being"
+gloss: "ease a birth or other difficulty" - form: "ithralghin"
+class: n
+field: "Kin, the person and the body"
+gloss: "burn injury" - form: "Meitharin"
+class: n
+field: "Everyday expression"
+gloss: "waning of the moon" - form: "organir"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "musical instrument" - form: "gelarin"
+class: v
+field: "Doing, going and being"
+gloss: "laugh" - form: "lirarhin"
+class: v
+field: "Doing, going and being"
+gloss: "play a musical instrument" - form: "Nemathir"
+class: n
+field: "Everyday expression"
+gloss: "the Weaver" - form: "Filir er Thásira Sothira"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Keeper of Sacred Wisdom" - form: "Andáhr er Khamethin"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Forge-Lord" - form: "Hodhir"
+class: n
+field: "Everyday expression"
+gloss: "Wayfarer" - form: "Bronthir"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Thunderer" - form: "Dorasir"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Bountiful One" - form: "Auksathir"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Nurturer" - form: "Oneirir"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Dreamer" - form: "Sighelir Dikhar"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Silent Judge" - form: "Andáhr er Meitharin er Selenir"
+class: n
+field: "Everyday expression"
+gloss: "Mistress of the Waning Moon" - form: "Agrin Thernin"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "Wild Beast" - form: "Amethrin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "the Unmeasured, primordial condition before measure" - form: "biblathin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "book" - form: "khulithin"
+class: n
+field: "Everyday expression"
+gloss: "wheel, including spinning wheel" - form: "poltharin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "terrace supporting a field" - form: "khamethin"
+class: n
+field: "Everyday expression"
+gloss: "forge" - form: "dikhar"
+class: n
+field: "Everyday expression"
+gloss: "judge" - form: "agrin"
+class: adj
+field: "Everyday expression"
+gloss: "wild or undomesticated" - form: "nematharin"
+class: v
+field: "Doing, going and being"
+gloss: "spin thread" - form: "thametharin"
+class: v
+field: "Doing, going and being"
+gloss: "cut a thread, wood, or cloth" - form: "perathin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "length" - form: "barethin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "weight" - form: "foghelin"
+class: n
+field: "Everyday expression"
+gloss: "fog" - form: "pterin"
+class: n
+field: "Everyday expression"
+gloss: "feather" - form: "kramelin"
+class: n
+field: "Everyday expression"
+gloss: "sleeve" - form: "hupethin"
+class: n
+field: "Everyday expression"
+gloss: "proposal put to an assembly" - form: "hoplothin"
+class: n
+field: "Everyday expression"
+gloss: "military levy" - form: "krenethin"
+class: n
+field: "Everyday expression"
+gloss: "oil" - form: "sfratharin"
+class: v
+field: "Doing, going and being"
+gloss: "vote by casting a stone" - form: "khruthin"
+class: n
+field: "Everyday expression"
+gloss: "hail" - form: "leukhor"
+class: n
+field: "Thought, measure and the schools"
+gloss: "wolf" - form: "khrosin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "a boundary or margin of the world" - form: "kadzarin"
+class: n
+field: "Everyday expression"
+gloss: "sword" - form: "kadrin"
+class: n
+field: "Everyday expression"
+gloss: "fence" - form: "oukhthor"
+class: n
+field: "Thought, measure and the schools"
+gloss: "ox" - form: "mothin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "price" - form: "malthin"
+class: n
+field: "Everyday expression"
+gloss: "tame or gentle state" - form: "musterin"
+class: n
+field: "Everyday expression"
+gloss: "mustering call" - form: "sulkarin"
+class: v
+field: "Doing, going and being"
+gloss: "cough" - form: "lozoin"
+class: n
+field: "The city, law and office"
+gloss: "advocate at law" - form: "thornir"
+class: n
+field: "Everyday expression"
+gloss: "ridge" - form: "hestharin"
+class: v
+field: "Doing, going and being"
+gloss: "rub a surface raw" - form: "kranir"
+class: n
+field: "Everyday expression"
+gloss: "crane, migratory bird" - form: "thlifarin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "olive press" - form: "pethmarin"
+class: v
+field: "Doing, going and being"
+gloss: "comb an olive branch with fingers" - form: "tethrin"
+class: adj
+field: "Everyday expression"
+gloss: "ripe" - form: "satharin"
+class: v
+field: "Doing, going and being"
+gloss: "sign a legal document" - form: "dheren"
+class: n
+field: "Everyday expression"
+gloss: "week" - form: "khosir"
+class: n
+field: "Thought, measure and the schools"
+gloss: "kid, young goat" - form: "halthin"
+class: n
+field: "Everyday expression"
+gloss: "salt" - form: "preskon"
+class: n
+field: "Everyday expression"
+gloss: "quarrel" - form: "kerdhelir"
+class: n
+field: "Everyday expression"
+gloss: "coward" - form: "khalithin"
+class: n
+field: "The city, law and office"
+gloss: "shield" - form: "grerin"
+class: n
+field: "The city, law and office"
+gloss: "spear" - form: "sothkadrin"
+class: n
+field: "The city, law and office"
+gloss: "battle line of shields" - form: "gruzethin"
+class: n
+field: "Everyday expression"
+gloss: "brush or scrub" - form: "mathelin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "learning or schooling" - form: "kirathin"
+class: n
+field: "Everyday expression"
+gloss: "light" - form: "badhin"
+class: n
+field: "Everyday expression"
+gloss: "a step taken on foot" - form: "hesu"
+class: adj
+field: "Thought, measure and the schools"
+gloss: "serene in expression" - form: "telethanir"
+class: n
+field: "Kin, the person and the body"
+gloss: "mortal person" - form: "kolathin"
+class: n
+field: "Everyday expression"
+gloss: "punishment" - form: "steir"
+class: adj
+field: "Everyday expression"
+gloss: "steep" - form: "orthin"
+class: adv
+field: "Grammar words"
+gloss: "straight upward" - form: "stathir"
+class: adj
+field: "Everyday expression"
+gloss: "steady" - form: "barthin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "cargo or carried load" - form: "thlifin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "one pressing of olives" - form: "lampsarin"
+class: v
+field: "Doing, going and being"
+gloss: "pick or gather ripe fruit" - form: "guzethir"
+class: n
+field: "Thought, measure and the schools"
+gloss: "goat" - form: "herderin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "herdsman" - form: "desmarin"
+class: v
+field: "Doing, going and being"
+gloss: "bind a friendship or bond" - form: "tekhnin"
+class: n
+field: "Everyday expression"
+gloss: "art or practiced skill" - form: "huzarin"
+class: v
+field: "Doing, going and being"
+gloss: "face a direction" - form: "spórin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "sowing or planting" - form: "naukerin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "keel of a ship" - form: "naukhir"
+class: n
+field: "Sea, river, land and sky"
+gloss: "ship's captain" - form: "erethin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "oar" - form: "erethir"
+class: n
+field: "Sea, river, land and sky"
+gloss: "oarsman" - form: "pedharin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "steering-oar" - form: "nauthorin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "crew of a ship" - form: "pteralon"
+class: n
+field: "Sea, river, land and sky"
+gloss: "sail" - form: "speral"
+class: n
+field: "Sea, river, land and sky"
+gloss: "mast" - form: "skirathin"
+class: n
+field: "Everyday expression"
+gloss: "gravel or shingle" - form: "hadrin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "headland" - form: "kurathon"
+class: n
+field: "Sea, river, land and sky"
+gloss: "surf, breaking sea" - form: "nauthos"
+class: n
+field: "Sea, river, land and sky"
+gloss: "beak or prow of a ship" - form: "krithon"
+class: n
+field: "Thought, measure and the schools"
+gloss: "barley" - form: "lekanon"
+class: n
+field: "Everyday expression"
+gloss: "lid of a pot" - form: "elaistin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "olive pit used as fuel" - form: "desmin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "knot in a counting cord" - form: "desmatharin"
+class: v
+field: "Doing, going and being"
+gloss: "tie a knot" - form: "lusmetharin"
+class: v
+field: "Doing, going and being"
+gloss: "untie a knot" - form: "zeughin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "yoke for oxen" - form: "mukharin"
+class: v
+field: "Doing, going and being"
+gloss: "low, of cattle" - form: "sperakin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "notch cut in a mast" - form: "sternir"
+class: n
+field: "Sea, river, land and sky"
+gloss: "stern-post of a ship" - form: "stakhon"
+class: n
+field: "Sea, river, land and sky"
+gloss: "hull of a ship" - form: "ghlinir"
+class: n
+field: "Thought, measure and the schools"
+gloss: "crescent shape" - form: "pazalin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "a watch of the night" - form: "futherin er gruzethin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "brushwood" - form: "karpathin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "driftwood from the beach" - form: "nemeirin"
+class: v
+field: "Doing, going and being"
+gloss: "blow upon coals" - form: "dhroun"
+class: n
+field: "Everyday expression"
+gloss: "oak and its wood" - form: "pelakin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "axe" - form: "santhin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "plank of a ship" - form: "nekrathin"
+class: n
+field: "Kin, the person and the body"
+gloss: "bier carrying a dead person" - form: "murmithin"
+class: n
+field: "Everyday expression"
+gloss: "ant" - form: "edhrin"
+class: n
+field: "Everyday expression"
+gloss: "crumb of food" - form: "neosthin"
+class: n
+field: "Everyday expression"
+gloss: "nest of ants" - form: "humeirin"
+class: v
+field: "Doing, going and being"
+gloss: "bail water out of a boat" - form: "zelvethin"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "corner or lifted edge of a veil" - form: "hairelin"
+class: n
+field: "Everyday expression"
+gloss: "a choosing between alternatives" - form: "fedharin"
+class: v
+field: "Doing, going and being"
+gloss: "feed a fire" - form: "oneirarin"
+class: v
+field: "Doing, going and being"
+gloss: "dream during sleep" - form: "khromarin"
+class: v
+field: "Doing, going and being"
+gloss: "paint an image" - form: "ertharin"
+class: v
+field: "Doing, going and being"
+gloss: "dig in earth" - form: "stíthalon"
+class: n
+field: "Everyday expression"
+gloss: "colonnade" - form: "holkhon"
+class: n
+field: "Thought, measure and the schools"
+gloss: "furrow in a field" - form: "sarkhion"
+class: n
+field: "Everyday expression"
+gloss: "temple" - form: "khararin"
+class: v
+field: "Doing, going and being"
+gloss: "wear down a stone or word over time" - form: "ftonin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "syllable" - form: "mandhelir"
+class: adj
+field: "Everyday expression"
+gloss: "empty of people" - form: "khrothin"
+class: n
+field: "Everyday expression"
+gloss: "color" - form: "irthon"
+class: n
+field: "Kin, the person and the body"
+gloss: "bruise" - form: "klinathin"
+class: n
+field: "Everyday expression"
+gloss: "slope of a hill" - form: "sketharin"
+class: v
+field: "Doing, going and being"
+gloss: "scatter ships or animals" - form: "olthelin"
+class: n
+field: "Everyday expression"
+gloss: "darkness" - form: "kherarin"
+class: v
+field: "Doing, going and being"
+gloss: "grind or scrape over stones" - form: "retherin"
+class: n
+field: "Sea, river, land and sky"
+gloss: "fishing net" - form: "karvarin"
+class: v
+field: "Doing, going and being"
+gloss: "kindle a fire" - form: "hughrarin"
+class: v
+field: "Doing, going and being"
+gloss: "soak something with rain or water" - form: "eretharin"
+class: v
+field: "Doing, going and being"
+gloss: "row a ship" - form: "gauro"
+class: n
+field: "Everyday expression"
+gloss: "signal horn" - form: "kanthir"
+class: n
+field: "Everyday expression"
+gloss: "ram" - form: "apathir"
+class: n
+field: "Everyday expression"
+gloss: "liar" - form: "lothelin"
+class: n
+field: "Everyday expression"
+gloss: "long bar of embers" - form: "dorthin"
+class: n
+field: "Everyday expression"
+gloss: "line of descendants" - form: "thérisir"
+class: n
+field: "Everyday expression"
+gloss: "reaper" - form: "ambarin"
+class: v
+field: "Doing, going and being"
+gloss: "bring a person to a place" - form: "narharin"
+class: v
+field: "Doing, going and being"
+gloss: "tell an account of a ship or deed" - form: "sunatharin"
+class: v
+field: "Doing, going and being"
+gloss: "gather fuel or goods into one place" - form: "thelkon"
+class: n
+field: "Trade, coin, goods and the road"
+gloss: "library" - form: "spondhelin"
+class: n
+field: "The city, law and office"
+gloss: "truce, temporary suspension of fighting" - form: "skathir"
+class: n
+field: "The city, law and office"
+gloss: "herald's staff" - form: "makhethin"
+class: n
+field: "The city, law and office"
+gloss: "battle or fight" - form: "nikhathir"
+class: n
+field: "The city, law and office"
+gloss: "victor" - form: "hetthelin"
+class: n
+field: "The city, law and office"
+gloss: "losing side in battle" - form: "akmetharin"
+class: v
+field: "Doing, going and being"
+gloss: "sharpen a spear" - form: "kenthelin"
+class: n
+field: "The city, law and office"
+gloss: "point of a spear" - form: "pogonir"
+class: n
+field: "Kin, the person and the body"
+gloss: "beard" - form: "palaithir"
+class: n
+field: "Kin, the person and the body"
+gloss: "wrestler" - form: "palaitharin"
+class: v
+field: "Doing, going and being"
+gloss: "wrestle and throw an opponent" - form: "stephanin"
+class: n
+field: "The city, law and office"
+gloss: "victor's crown" - form: "stephanarin"
+class: v
+field: "Doing, going and being"
+gloss: "crown a victor" - form: "threnarin"
+class: v
+field: "Doing, going and being"
+gloss: "keen or lament aloud" - form: "estrathin"
+class: n
+field: "The city, law and office"
+gloss: "army in a battle formation" - form: "athikhelir"
+class: adj
+field: "The city, law and office"
+gloss: "inviolable under the heralds' truce" - form: "aphelin"
+class: v
+field: "Doing, going and being"
+gloss: "exclude a city from the Games" - form: "sothathin"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "sanctuary of the Games" - form: "sarkhir"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "priest" - form: "drametharir"
+class: n
+field: "The city, law and office"
+gloss: "runner competing at the Games" - form: "khedhin"
+class: n
+field: "Kin, the person and the body"
+gloss: "sheep" - form: "pubrin"
+class: n
+field: "Everyday expression"
+gloss: "offer of an exchange" - form: "antithmarin"
+class: v
+field: "Doing, going and being"
+gloss: "bargain over the price of bodies or goods" - form: "krounir"
+class: n
+field: "Kin, the person and the body"
+gloss: "crow" - form: "pethrin"
+class: n
+field: "The city, law and office"
+gloss: "answer in the herald's rite" - form: "histharin"
+class: n
+field: "The gods, the stage and the assembly"
+gloss: "legend recited at the sanctuary" - form: "botherin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "pasture" - form: "askethin"
+class: n
+field: "The city, law and office"
+gloss: "military exercise or drill" - form: "korufin"
+class: n
+field: "Everyday expression"
+gloss: "helmet" - form: "thresarin"
+class: v
+field: "Doing, going and being"
+gloss: "vote for or approve by vote" - form: "hodhin"
+class: n
+field: "The city, law and office"
+gloss: "road" - form: "hesperir"
+class: adj
+field: "Sea, river, land and sky"
+gloss: "western" - form: "leghethon"
+class: n
+field: "The city, law and office"
+gloss: "legion" - form: "bathin"
+class: n
+field: "The city, law and office"
+gloss: "depth of a formation" - form: "lithokir"
+class: n
+field: "Thought, measure and the schools"
+gloss: "ring of boundary stones" - form: "olighir"
+class: adj
+field: "Everyday expression"
+gloss: "few" - form: "sphurin"
+class: n
+field: "Everyday expression"
+gloss: "hammer" - form: "akmothin"
+class: n
+field: "Everyday expression"
+gloss: "anvil" - form: "onomin"
+class: n
+field: "Everyday expression"
+gloss: "name" - form: "biblomerin"
+class: n
+field: "Thought, measure and the schools"
+gloss: "page of a book" - form: "olasin"
+class: n
+field: "Everyday expression"
+gloss: "amount or quantity" - form: "thermin"
+class: n
+field: "Everyday expression"
+gloss: "heat" - form: "phonethin"
+class: n
+field: "Everyday expression"
+gloss: "noise" - form: "steneth"
+class: adv
+field: "Grammar words"
+gloss: "loudly" - form: "pterathin"
+class: n
+field: "Everyday expression"
+gloss: "wing" - form: "méros"
+class: n
+field: "Thought, measure and the schools"
+gloss: "scene of a play" - form: "hetoir"
+class: adj
+field: "Everyday expression"
+gloss: "ready" - form: "thamethin"
+class: n
+field: "Everyday expression"
+gloss: "cut or shaving nick" - form: "ghenethin"
+class: n
+field: "Kin, the person and the body"
+gloss: "chin" - form: "dhermakhir"
+class: n
+field: "Everyday expression"
+gloss: "razor" - form: "drakhelin"
+class: n
+field: "Everyday expression"
+gloss: "dragon" - form: "khalamin"
+class: n
+field: "Kin, the person and the body"
+gloss: "cloak" - form: "thulatharin"
+class: v
+field: "Doing, going and being"
+gloss: "remain at a place" - form: "dikathin"
+class: n
+field: "The city, law and office"
+gloss: "court sitting in judgment" - form: "ergathin"
+class: n
+field: "Everyday expression"
+gloss: "magical working" - form: "hamarir"
+class: n
+field: "The city, law and office"
+gloss: "carter" - form: "kampon"
+class: n
+field: "The city, law and office"
+gloss: "bend in a road" - form: "kenathir"
+class: n
+field: "Everyday expression"
+gloss: "predatory animal" - form: "orghelir"
+class: adj
+field: "Everyday expression"
+gloss: "angry" - form: "orghein"
+class: n
+field: "Everyday expression"
+gloss: "anger" - form: "perimenarin"
+class: v
+field: "Doing, going and being"
+gloss: "wait" - form: "estralin"
+class: n
+field: "The city, law and office"
+gloss: "rank of people standing abreast in formation" - form: "plerethir"
+class: adj
+field: "Everyday expression"
+gloss: "full or filled to capacity"
 
 ## Grammar Notes
 
