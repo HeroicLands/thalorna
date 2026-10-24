@@ -21,179 +21,673 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 
 : The Keeping of the Silk House {#lament}
 
-```verse {form=lament lang=en}
-Keeper, I have brought the coin. It is counted. Count it again.
-  Here is the receipt from last year, and the year before, and the first.
-Write what I say in the margin, as your clerks write at a renewal.
-  I will not say much that is not a number. Write the numbers plain.
-Open the door of the chamber. I have the key. You have the other.
-  Two keys, keeper, and the door opens. That is the oldest term we have.
-Who keeps the keeping, when the keeper is kept?
+```verse {form=lament lang=en cols=2}
+1 [Valzar, egh féranin nomisin. Aritmas ésharin ortelir. Toum aritmarin paler.]{.nativefont lang=biza}
+2 [Keeper, I have brought the money. The count is right. Count it again.]{lang=en}
+2 [Valzar, egh féranin nomisin. Aritmas ésharin ortelir. Toum aritmarin paler.]{lang=biza}
 
-The lintel first, as the lintel is read: the founder's name at the top,
-  cut deep, the cutter paid, the die of the house set into the stone.
-He finished the first silk in the city, the thread from the east,
-  the bales that came over the pass in felt and went down to the sea in linen.
-The assessors granted his house its name, and would not change the ending,
-  and he did not ask them to. Silk was what he answered for. Silk it was.
-His wife under him, who kept the books when his eyes went.
-  Their son, who brought the dyers up from the coast and paid them twice what they asked.
-That son's wife, who lent at a third and was never paid, and wrote it off before witnesses.
-  Their sons, the two of them, one of the fever, one of the road.
-I read the lintel. I have read it every year. I did not cut one name of it.
-  Who keeps the keeping, when the keeper is kept?
+1 [.Enit zharvel er paretin eniautin, er eniautin pro hein, er meun eniautin.]{.nativefont lang=biza}
+2 [.Here are last year's receipt, the one before it, and the first.]{lang=en}
+2 [.Enit zharvel er paretin eniautin, er eniautin pro hein, er meun eniautin.]{lang=biza}
 
-Now my own. Keeper, the stone of the second row is new, and the cutter was mine.
-  Zighahr. The balance. That is his name, and he was named well.
-He weighed the silk at the warehouse door with a balance he had from his father,
-  and he would not let a clerk do it, and he would not let me do it,
-  and he weighed it right every day of his life, and his hands smelled of the bales.
-He owed: the dyer of the fourth street, for the indigo, the spring consignment;
-  the house of the weavers, for the loom he broke, which he had already paid;
-  the temple of the [[affiliation-sacredforge|Forge]], a lamp, which he had promised and not brought.
-He was owed: by the factor in [[place-karvashion2|Karvashion]], the price of nine bales, at the second grade;
-  by his brother's widow, nothing, though he lent her much; he wrote it off on the bed.
-He settled it aloud. I held his hand while he settled it.
-  He called in the nine bales and owned the indigo and the lamp,
-and the priest of the Forge wrote it, and the witnesses sealed, and he said:
-  the account is closed. Then he asked for water, and I gave it, and he died.
-I paid the dyer. I brought the lamp. The factor paid the nine bales in the spring.
-  His account is closed, keeper. I closed it. I have the receipts.
-I have not closed anything else. The balance is on the shelf at the warehouse door.
-  Nobody has weighed on it. Write that in the margin. It is a number: none.
-Who keeps the keeping, when the keeper is kept?
+1 [Toum zervarin retin er egh en zelvar, houm seketar er toum en nevrash.]{.nativefont lang=biza}
+2 [Write my words in the margin, the way your clerks write at renewal.]{lang=en}
+2 [Toum zervarin retin er egh en zelvar, houm seketar er toum en nevrash.]{lang=biza}
 
-Kreniza. The spring. Our daughter. The little stone at the end of the second row.
-  She was five, and she counted the bales in the yard in a voice like a bell,
-and she counted wrong, and her father let her, who never let a clerk count wrong in his life.
-  She owed nothing. Write that. She owed nothing at all.
-She was owed everything, keeper, and she was paid four years and some months.
-  A fever, in the summer the river was low. The physicians came.
-They stated the defect plainly, as a physician should. I thanked them for it.
-  I did not thank them. Write that I thanked them. That is what was said.
-There is no account to close. A child has no account. She has a keeping.
-  I have paid it with her father's and her grandfather's, all in one sum.
-A child's keeping costs the same as a man's, keeper. You have never charged me less.
-  I did not ask you to. Who keeps the keeping, when the keeper is kept?
+1 [.Egh rétasin olighat pratin uf aritmas. Toum zervarin aritmas lefir.]{.nativefont lang=biza}
+2 [.Little of what I say will fall outside the numbers. Write those clearly.]{lang=en}
+2 [.Egh rétasin olighat pratin uf aritmas. Toum zervarin aritmas lefir.]{lang=biza}
 
-Ánevazur. The wind. My son. The niche at the end of the row, and nothing in it.
-  He went down to Nesthiros with the house's bales, the spring consignment,
-the silk for the west, in a ship of our hiring, out through the straits,
-  and the wind came off the land the second night, and the ship did not come in.
-They found the ship's boat on the rocks. They found a bale of ours on the shore,
-  the mark of the house burned in the linen, and the silk ruined with salt,
-and I paid the salvage on it, keeper, and I have the bale in the warehouse.
-  They did not find him. The sea keeps nobody's accounts. The sea does not close.
-I came here that summer and asked your council: what is kept, when there is nothing to keep?
-  The council said: a name can be kept. Bring the name.
-So I brought it, and paid the cutter, and paid the niche, and paid the rite,
-  and you said the rite over a name and an empty shelf, and I stood here and heard it,
-and I have paid for an empty shelf every year since, at the full rate,
-  because the dead who are not kept go on owing, and I will not have him owe.
-He owed: the hire of the ship, which I paid. The partners in the venture paid their third of the cargo.
-  He was owed: a wife, who was to be his in the autumn. Her family returned the dowry-paper.
-They were right to. I would have. I sent them a bale of the ruined silk,
-  because they asked for something of his, and I had nothing of his but that.
-Keeper, who keeps a keeping for a man the sea has?
-  Who keeps the keeping, when the keeper is kept?
+1 [Toum anoigharin turin er dometin er tanor. Egh ekhárin kleitir. Toum ekhárin heter.]{.nativefont lang=biza}
+2 [Open the chamber door. I hold one key. You hold the other.]{lang=en}
+2 [Toum anoigharin turin er dometin er tanor. Egh ekhárin kleitir. Toum ekhárin heter.]{lang=biza}
 
-Keeper, I was a bride at the [Thresholds]{.name data-type="lore/gathering" lang=en}. You know the custom. Write it anyway.
-  On the turning morning the spouses go down with the merchants and the masters,
-and the temple's witness reads the vow over, and the two seal it again,
-  and the clerk writes it in the record under the year, as the gods renew the world.
-Twenty-six times I went down with Zighahr on the turning morning,
-  in the cold, with the bells going, with the papers of the house under his arm,
-and he renewed the house's bonds at one table and our vow at the next,
-  and he read the vow as he read a bond, clause by clause, and did not hurry it,
-and the witness said once that he had never heard a vow read so exactly,
-  and Zighahr said: it is the only bond I hold that has never turned against me.
-This year I went down alone. The witness asked me what I had come to renew.
-  I said: the house's bonds. He asked me: and the other? I said there was no other.
-He wrote: the vow unrenewed, the husband being kept. That is the term for it.
-  He wrote it kindly. Write it here too, keeper, in the margin. It is a number: one.
+1 [.Drin kleitir, valzar. Turin anoigharin. Heum ésharin deshvel palaisir eil er plum heter.]{.nativefont lang=biza}
+2 [.Two keys, keeper, open the door. That is our oldest binding term.]{lang=en}
+2 [.Drin kleitir, valzar. Turin anoigharin. Heum ésharin deshvel palaisir eil er plum heter.]{lang=biza}
 
-And on the night of the black candles, at the end of the [Silent Passage]{.name data-type="lore/gathering" lang=en},
-  when your temples are shut to us and the priests are saying the rites inside,
-I set the candles in the windows of the house on the street of the weavers,
-  a candle for every name on the lintel, as the custom is, in the lintel's order,
-and the street could count them from below, and the street did count them.
-  Eleven windows the house has to the street, and nine names to set candles for,
-and I could not set the ninth, for an empty shelf, and then I did,
-  and I could not set one for myself, and then I thought: next year, who sets it?
-I spoke the names aloud, at each window, to the dark, as the custom is,
-  and nobody in the house answered, because there was nobody in the house,
-only the porter, who is old, and who stood on the stair and said the names after me,
-  because he has heard them every year since he came, and knows them, and is not of the house.
-I paid him for the night. He would not take it. Write that: he would not take it.
-  Who keeps the keeping, when the keeper is kept?
+1 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [Who tends the keeping when the keeper enters it?]{lang=en}
+2 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
 
-And now myself. I have come to the end of the row. There is a place cut for me.
-  It is next to Zighahr's, as was agreed, and the agreement is in your chest.
-When I am there, keeper, who comes up the road with the coin?
-  The house has no son. The house has no daughter. The house has no brother's son.
-The name of the house ends with me. The assessors will not give it to a stranger,
-  and I would not ask them, and they would refuse, and they would be right.
-A house with no heir is a page in the gods' book that no one reads.
-  I know the hymn. I have sung the refrain at the Thresholds since I was a bride.
-The endowment I am paying today runs for the years I have paid it for.
-  Then it runs out. Then your clerk writes: unrenewed. Then you close the door.
-Then the house of the silk is a chamber with a closed door and nobody's coin,
-  and the founder's die in the stone, and nobody reads the lintel in the autumn,
-and the empty niche at the end of the row is empty twice.
-  That is the dread, keeper. You know it. You sell against it every day.
-Who keeps the keeping, when the keeper is kept?
+***
 
-Hear what the house has, keeper, since the house is paying. Write it as a schedule.
-  The house on the street of the weavers, eleven windows, the porter's room, the yard.
-The warehouse at the bottom of the street, with its door and its balance.
-  In the warehouse: forty bales of the first grade, sixty of the second,
-and the third grade by the heap, as it is sold, and I have not counted the heap.
-  One bale of the first grade, ruined with salt, which is not for sale.
-The looms the house has a share in at the weavers', a third of nine.
-  The debts owed to the house: the factor at Karvashion, for this year's bales, at term;
-the dyer of the fourth street, who owes us now, as we once owed him, for a loan.
-  The debts the house owes: none. Write it: none. I have seen to it.
-The die of the house, in my hand. The die of the founder, in your stone.
-  All of it, keeper, sold at the grade it is, the defects declared,
-the salt-ruined bale excepted, and the balance excepted, and the porter's room,
-  and the sum laid in your chest as a keeping in perpetuity for the chamber,
-at the rate your council sets, which I have asked, and which is just,
-  so that the keeping runs as long as the coin runs, and the coin runs long.
-But coin is not a keeper. Coin runs, and does not speak the names.
-  Coin does not set the candles. Coin does not come up the road in the autumn.
-A keeping that is only paid is a keeping that nobody keeps.
-  Who keeps the keeping, when the keeper is kept?
+1 [Prinet lintar, houm herin darzarin lintar. Ónomir er arkhelar ésharin hut.]{.nativefont lang=biza}
+2 [Begin with the lintel, in its reading order. The founder's name stands highest.]{lang=en}
+2 [Prinet lintar, houm herin darzarin lintar. Ónomir er arkhelar ésharin hut.]{lang=biza}
 
-Now hear what I have come to say, and write it in the margin, every word.
-  My husband took an apprentice in the last year of his life,
-the son of a carter of the plateau, who had no trade, who counted bales in our yard,
-  a boy with a voice like a bell, and counted wrong, and my husband let him, as he let her.
-His name is Nevarash. The new one. He is a journeyman of the weavers now.
-  He weighs at the warehouse door. He weighs on the balance. I said nobody had. I lied.
-I told you the number was none. Write it again. The number is: him.
-  He weighs every bale that comes in and every bale that goes out, and he weighs them right.
-My husband wrote his indenture, and an indenture is an adoption, keeper.
-  You know it. The guild knows it. The register knows it. The boy knows it.
-He is not of the house. He has his own name, a carter's, a good one.
-  The assessors will not give him ours, and I do not ask them, and he does not.
-I do not give him the name. I give him the keeping.
+1 [.Zharvar ésharin bathir. Zharvarin ekhárin zharpin. Neshar er domin ésharin en litorin.]{.nativefont lang=biza}
+2 [.A deep inscription, the stone cutter paid, the house die set in stone.]{lang=en}
+2 [.Zharvar ésharin bathir. Zharvarin ekhárin zharpin. Neshar er domin ésharin en litorin.]{lang=biza}
 
-Keeper, write it: Ruzhveleze of the silk house, the last of it, before witness,
-  names Nevarash the journeyman, her husband's apprentice, heir to the keeping
-of the chamber of the house of the silk at the city of the dead, all of it:
-  the lintel and the founder, the second row, the little stone, the empty niche,
-and the place cut for her, when she is in it, with the coin each autumn,
-  at the full rate, for as long as he lives and his apprentices after him,
-and the names spoken aloud on the night of the black candles, all of them,
-  in the order of the lintel, the empty one last, the empty one too.
-Nevarash, come here. Put your seal by mine. Press it. Harder. It is wax, not silk.
-  There. Two seals, keeper. Count them. Write the number: two.
+1 [Arkhelar pratarin teletin er meun charzil en pólitar. Nematin érkharin afor eotin.]{.nativefont lang=biza}
+2 [He was the first to finish silk in the city. The thread came from the east.]{lang=en}
+2 [Arkhelar pratarin teletin er meun charzil en pólitar. Nematin érkharin afor eotin.]{lang=biza}
 
-And write this last, in the margin, small, where a scribe writes his mark:
-  I asked who keeps the keeping, when the keeper is kept.
-A carter's son keeps it. A boy who counted wrong in the yard.
-  That is the answer. It was not the answer I wanted. It is the answer.
-Close the door now, keeper. I have the key. He has the other.
+1 [.Zalvin érkharin dia vezhnur en selvazh, prou tálimir en linvar.]{.nativefont lang=biza}
+2 [.Bales crossed the heights wrapped in felt and went to the sea in linen.]{lang=en}
+2 [.Zalvin érkharin dia vezhnur en selvazh, prou tálimir en linvar.]{lang=biza}
+
+1 [Merzhar dorasarin ónomir prel domin er heir. Merzhar uf allatarin teltin er ónomir.]{.nativefont lang=biza}
+2 [The assessors gave his house its name and would not alter its ending.]{lang=en}
+2 [Merzhar dorasarin ónomir prel domin er heir. Merzhar uf allatarin teltin er ónomir.]{lang=biza}
+
+1 [.Heir uf erotarin allatin. Heir ameitarin prel charzil. Hein ésharin charzil.]{.nativefont lang=biza}
+2 [.He never asked them to. Silk was his responsibility. Silk it remained.]{lang=en}
+2 [.Heir uf erotarin allatin. Heir ameitarin prel charzil. Hein ésharin charzil.]{lang=biza}
+
+1 [Gemetira er heir ésharin katet. Heira valzarin kitvar potet oftelin er heir uf meltarin.]{.nativefont lang=biza}
+2 [His wife lies below him. She kept the books after his sight failed.]{lang=en}
+2 [Gemetira er heir ésharin katet. Heira valzarin kitvar potet oftelin er heir uf meltarin.]{lang=biza}
+
+1 [.Huyir er helin féranin zhamvar afor limenis. Heir zharparin drin horat er posetin er oratin er helin.]{.nativefont lang=biza}
+2 [.Their son brought dyers from the coast and paid twice their asking price.]{lang=en}
+2 [.Huyir er helin féranin zhamvar afor limenis. Heir zharparin drin horat er posetin er oratin er helin.]{lang=biza}
+
+1 [Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz pro mervar.]{.nativefont lang=biza}
+2 [That son's wife lent at a third, received nothing, and forgave it before witnesses.]{lang=en}
+2 [Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz pro mervar.]{lang=biza}
+
+1 [.Drin huyir er helin. Meun tanearin deir noselin. Heter tanearin en hodis.]{.nativefont lang=biza}
+2 [.Their two sons. Fever took one. The road took the other.]{lang=en}
+2 [.Drin huyir er helin. Meun tanearin deir noselin. Heter tanearin en hodis.]{lang=biza}
+
+1 [Egh darzarin lintar. Egh darzarin hein plum eniautin. Egh uf zharvarin meun ónomir.]{.nativefont lang=biza}
+2 [I read the lintel every year. I had none of those names cut.]{lang=en}
+2 [Egh darzarin lintar. Egh darzarin hein plum eniautin. Egh uf zharvarin meun ónomir.]{lang=biza}
+
+1 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [.Who tends the keeping when the keeper enters it?]{lang=en}
+2 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Nunet er egh. Valzar, litorin er drin zhalven ésharin nevar. Zharvarin ésharin er egh.]{.nativefont lang=biza}
+2 [Now my people. Keeper, the second row's stone is new. I hired its cutter.]{lang=en}
+2 [Nunet er egh. Valzar, litorin er drin zhalven ésharin nevar. Zharvarin ésharin er egh.]{lang=biza}
+
+1 [.Zighahr. Zighir. Heum ésharin ónomir er heir. Ónomir ésharin ortelir.]{.nativefont lang=biza}
+2 [.Zighahr. The balance. His name suited him.]{lang=en}
+2 [.Zighahr. Zighir. Heum ésharin ónomir er heir. Ónomir ésharin ortelir.]{lang=biza}
+
+1 [Heir zigharin charzil para turin er ambarim meta zighir er tokhir er heir.]{.nativefont lang=biza}
+2 [He weighed silk at the warehouse door on a balance inherited from his father.]{lang=en}
+2 [Heir zigharin charzil para turin er ambarim meta zighir er tokhir er heir.]{lang=biza}
+
+1 [.Heir uf dorasarin efir prel seketar. Heir uf dorasarin efir prel egh.]{.nativefont lang=biza}
+2 [.He would allow no clerk to do it. He would not allow me.]{lang=en}
+2 [.Heir uf dorasarin efir prel seketar. Heir uf dorasarin efir prel egh.]{lang=biza}
+
+1 [.Heir zigharin ortelir plum hemerin er zelarin er heir. Keirin er heir ekhárin osmin er zalvin.]{.nativefont lang=biza}
+2 [.All his days he weighed accurately. The bales left their smell on his hands.]{lang=en}
+2 [.Heir zigharin ortelir plum hemerin er zelarin er heir. Keirin er heir ekhárin osmin er zalvin.]{lang=biza}
+
+1 [Vardesh er heir. Zhamvar er hodis vesmor. Zhambel. Karvash er krenhar.]{.nativefont lang=biza}
+2 [His debts: the dyer on the fourth street, for the spring shipment of indigo;]{lang=en}
+2 [Vardesh er heir. Zhamvar er hodis vesmor. Zhambel. Karvash er krenhar.]{lang=biza}
+
+1 [.Domin er nemvar. Narzhel er heir klastarin. Heir edet zharparin hein.]{.nativefont lang=biza}
+2 [.the weavers' house, for a loom he had broken and already paid for;]{lang=en}
+2 [.Domin er nemvar. Narzhel er heir klastarin. Heir edet zharparin hein.]{lang=biza}
+
+1 [.Theshel er Forge. Lavzhel er heir hupeskharin. Heir uf féranin hein.]{.nativefont lang=biza}
+2 [.the temple of the [[affiliation-sacredforge|Forge]], for a lamp he had promised but never brought.]{lang=en}
+2 [.Theshel er Forge. Lavzhel er heir hupeskharin. Heir uf féranin hein.]{lang=biza}
+
+1 [Vardesh prel heir. Chelkar en Karvashion. Zharpin er 9 zalvin, morzan.]{.nativefont lang=biza}
+2 [Debts to him: the [[place-karvashion2|Karvashion]] factor, for nine bales of the second grade;]{lang=en}
+2 [Vardesh prel heir. Chelkar en Karvashion. Zharpin er 9 zalvin, morzan.]{lang=biza}
+
+1 [.Keretira er adelir er heir. Medin. Heir danizh huthikanir prel heira. Heir tetarin sepuz en klinetin.]{.nativefont lang=biza}
+2 [.his brother's widow, nothing. He had lent much and forgave it on his bed.]{lang=en}
+2 [.Keretira er adelir er heir. Medin. Heir danizh huthikanir prel heira. Heir tetarin sepuz en klinetin.]{lang=biza}
+
+1 [Heir rétasin telvar taret. Egh ekhárin keirin er heir hoset heir rétasin.]{.nativefont lang=biza}
+2 [He spoke the settlement aloud. I held his hand as he spoke.]{lang=en}
+2 [Heir rétasin telvar taret. Egh ekhárin keirin er heir hoset heir rétasin.]{lang=biza}
+
+1 [.Heir kaleitarin zharpin er 9 zalvin. Heir rétasin vardesh er zhambel er lavzhel.]{.nativefont lang=biza}
+2 [.He called for payment on the nine bales and acknowledged the indigo and the lamp.]{lang=en}
+2 [.Heir kaleitarin zharpin er 9 zalvin. Heir rétasin vardesh er zhambel er lavzhel.]{lang=biza}
+
+1 [Iereshar er Forge zervarin. Mervar sfradarin. Heir rétasin.]{.nativefont lang=biza}
+2 [The Forge priest wrote it down. The witnesses sealed it. He said,]{lang=en}
+2 [Iereshar er Forge zervarin. Mervar sfradarin. Heir rétasin.]{lang=biza}
+
+1 [.Kitvar kleitarin. Toteir heir erotarin hidir. Egh dorasarin hein. Heir tanearin.]{.nativefont lang=biza}
+2 [.The account is shut. Then he requested water. I gave it. He died.]{lang=en}
+2 [.Kitvar kleitarin. Toteir heir erotarin hidir. Egh dorasarin hein. Heir tanearin.]{lang=biza}
+
+1 [Egh zharparin zhamvar. Egh féranin lavzhel. Chelkar zharparin 9 zalvin en krenhar.]{.nativefont lang=biza}
+2 [I paid the dyer and delivered the lamp. The factor paid for the nine bales that spring.]{lang=en}
+2 [Egh zharparin zhamvar. Egh féranin lavzhel. Chelkar zharparin 9 zalvin en krenhar.]{lang=biza}
+
+1 [.Kitvar er heir kleitarin, valzar. Egh kleitarin hein. Egh ekhárin zharvel.]{.nativefont lang=biza}
+2 [.His account is shut, keeper. I shut it. I hold the receipts.]{lang=en}
+2 [.Kitvar er heir kleitarin, valzar. Egh kleitarin hein. Egh ekhárin zharvel.]{lang=biza}
+
+1 [Egh uf kleitarin hostin heter. Zighir ésharin en salzhel para turin er ambarim.]{.nativefont lang=biza}
+2 [I have shut nothing else. The balance stands on its shelf at the warehouse door.]{lang=en}
+2 [Egh uf kleitarin hostin heter. Zighir ésharin en salzhel para turin er ambarim.]{lang=biza}
+
+1 [.Medinántimor zigharin meta hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin.]{.nativefont lang=biza}
+2 [.No one has weighed with it. Put that in the margin. A number: none.]{lang=en}
+2 [.Medinántimor zigharin meta hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin.]{lang=biza}
+
+1 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [Who tends the keeping when the keeper enters it?]{lang=en}
+2 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Kreniza. Krenir. Tighir er herin. Mikrir litorin en teltin er drin zhalven.]{.nativefont lang=biza}
+2 [Kreniza. The spring. Our daughter. The small stone ending the second row.]{lang=en}
+2 [Kreniza. Krenir. Tighir er herin. Mikrir litorin en teltin er drin zhalven.]{lang=biza}
+
+1 [.Heira ekhárin 5 eniautin. Heira aritmarin zalvin en darvel. Retin houm chirnal.]{.nativefont lang=biza}
+2 [.Five years old, counting yard bales in a voice like a bell.]{lang=en}
+2 [.Heira ekhárin 5 eniautin. Heira aritmarin zalvin en darvel. Retin houm chirnal.]{lang=biza}
+
+1 [Heira aritmarin uf ortelir. Tokhir er heira dorasarin efir. Heir medinkronin dorasarin efir prel seketar er uf ortelir aritmas.]{.nativefont lang=biza}
+2 [Her count was wrong. Her father let it stand; no clerk ever got that permission.]{lang=en}
+2 [Heira aritmarin uf ortelir. Tokhir er heira dorasarin efir. Heir medinkronin dorasarin efir prel seketar er uf ortelir aritmas.]{lang=biza}
+
+1 [.Vardesh er heira ésharin medin. Toum zervarin heum. Vardesh er heira ésharin medin olashin.]{.nativefont lang=biza}
+2 [.She owed nothing. Write it. Nothing whatever.]{lang=en}
+2 [.Vardesh er heira ésharin medin. Toum zervarin heum. Vardesh er heira ésharin medin olashin.]{lang=biza}
+
+1 [Vardesh prel heira ésharin plum, valzar. Zharpin er heira ésharin 4 eniautin, fom menetin.]{.nativefont lang=biza}
+2 [Everything was owed to her, keeper. Her payment was four years and some months.]{lang=en}
+2 [Vardesh prel heira ésharin plum, valzar. Zharpin er heira ésharin 4 eniautin, fom menetin.]{lang=biza}
+
+1 [.Noselin. En therzin fótamir ésharin kamelir. Iatar ésharin enit.]{.nativefont lang=biza}
+2 [.Fever came in a summer of low river water. The physicians came.]{lang=en}
+2 [.Noselin. En therzin fótamir ésharin kamelir. Iatar ésharin enit.]{lang=biza}
+
+1 [Helin rétasin zerpel lefir, houm iatar preitarin. Egh dorasirarin helin.]{.nativefont lang=biza}
+2 [They named the defect clearly, as physicians ought. I thanked them.]{lang=en}
+2 [Helin rétasin zerpel lefir, houm iatar preitarin. Egh dorasirarin helin.]{lang=biza}
+
+1 [.Egh uf dorasirarin helin. Toum zervarin egh dorasirarin helin. Heum ésharin retin.]{.nativefont lang=biza}
+2 [.I did not thank them. Write that I did. Those were the words spoken.]{lang=en}
+2 [.Egh uf dorasirarin helin. Toum zervarin egh dorasirarin helin. Heum ésharin retin.]{lang=biza}
+
+1 [Vezh kitvar prel kleitarin. Tevir uf ekhárin kitvar. Tevir ekhárin valzin.]{.nativefont lang=biza}
+2 [There is no account to shut. A child has no account. She has a keeping.]{lang=en}
+2 [Vezh kitvar prel kleitarin. Tevir uf ekhárin kitvar. Tevir ekhárin valzin.]{lang=biza}
+
+1 [.Egh zharparin hein meta valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin.]{.nativefont lang=biza}
+2 [.I paid hers together with her father's and grandfather's, in one whole payment.]{lang=en}
+2 [.Egh zharparin hein meta valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin.]{lang=biza}
+
+1 [Zharpin er valzin er tevir ésharin isetir meta er anerit, valzar. Toum medinkronin rétasin meitir zharpin.]{.nativefont lang=biza}
+2 [A child's keeping costs as much as a man's. You have never asked me for less.]{lang=en}
+2 [Zharpin er valzin er tevir ésharin isetir meta er anerit, valzar. Toum medinkronin rétasin meitir zharpin.]{lang=biza}
+
+1 [.Egh uf erotarin heum. Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [.I never asked you to. Who tends the keeping when the keeper enters it?]{lang=en}
+2 [.Egh uf erotarin heum. Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Ánevazur. Ánevir. Huyir er egh. Nerzhel en teltin er zhalven. Vezh hostin en hein.]{.nativefont lang=biza}
+2 [Ánevazur. The wind. My son. The niche ending the row, with nothing inside.]{lang=en}
+2 [Ánevazur. Ánevir. Huyir er egh. Nerzhel en teltin er zhalven. Vezh hostin en hein.]{lang=biza}
+
+1 [.Heir érkharin prou Nesthiros meta zalvin er domin. Karvash er krenhar.]{.nativefont lang=biza}
+2 [.He took the spring bales down to Nesthiros,]{lang=en}
+2 [.Heir érkharin prou Nesthiros meta zalvin er domin. Karvash er krenhar.]{lang=biza}
+
+1 [Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dia stravel.]{.nativefont lang=biza}
+2 [silk for the west, on a hired ship, through the straits.]{lang=en}
+2 [Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dia stravel.]{lang=biza}
+
+1 [.Ánevir érkharin afor ghéranis en drin nikhtir. Navzhel uf nostarin.]{.nativefont lang=biza}
+2 [.A land wind rose on the second night. The ship did not return.]{lang=en}
+2 [.Ánevir érkharin afor ghéranis en drin nikhtir. Navzhel uf nostarin.]{lang=biza}
+
+1 [Helin heurarin mikrir navzhel er navzhel en litorin. Helin heurarin zalvin er herin en limenis.]{.nativefont lang=biza}
+2 [They found its boat on rocks and one of our bales on the shore.]{lang=en}
+2 [Helin heurarin mikrir navzhel er navzhel en litorin. Helin heurarin zalvin er herin en limenis.]{lang=biza}
+
+1 [.Neshar er domin itrarin en linvar. Zalvin er charzil ésharin klastir deir halzin.]{.nativefont lang=biza}
+2 [.The house mark was burned into the linen. Salt had spoiled the silk.]{lang=en}
+2 [.Neshar er domin itrarin en linvar. Zalvin er charzil ésharin klastir deir halzin.]{lang=biza}
+
+1 [Egh zharparin vazhrel prel hein, valzar. Egh ekhárin zalvin en ambarim.]{.nativefont lang=biza}
+2 [I paid the salvage charge, keeper. That bale is in my warehouse.]{lang=en}
+2 [Egh zharparin vazhrel prel hein, valzar. Egh ekhárin zalvin en ambarim.]{lang=biza}
+
+1 [.Helin uf heurarin heir. Tálimir uf valzarin kitvar er hostir. Tálimir uf kleitarin.]{.nativefont lang=biza}
+2 [.They never found him. The sea maintains nobody's accounts. The sea never closes them.]{lang=en}
+2 [.Helin uf heurarin heir. Tálimir uf valzarin kitvar er hostir. Tálimir uf kleitarin.]{lang=biza}
+
+1 [Egh érkharin enit en heun therzin. Egh erotarin bulorin er toum. Teir ésharin en valzin, potet vezh hostin prel valzarin.]{.nativefont lang=biza}
+2 [That summer I came here and asked your council what is kept when there is nothing.]{lang=en}
+2 [Egh érkharin enit en heun therzin. Egh erotarin bulorin er toum. Teir ésharin en valzin, potet vezh hostin prel valzarin.]{lang=biza}
+
+1 [.Bulorin rétasin. Ónomir ésharin dunelir prel valzarin. Toum féranin ónomir.]{.nativefont lang=biza}
+2 [.The council answered, A name can be kept. Bring his name.]{lang=en}
+2 [.Bulorin rétasin. Ónomir ésharin dunelir prel valzarin. Toum féranin ónomir.]{lang=biza}
+
+1 [Drel egh féranin hein. Egh zharparin zharvarin, nerzhel, ieresin.]{.nativefont lang=biza}
+2 [I brought it. I paid the cutter, the niche, and the rite.]{lang=en}
+2 [Drel egh féranin hein. Egh zharparin zharvarin, nerzhel, ieresin.]{lang=biza}
+
+1 [.Toum rétasin ieresin pro ónomir, pro maník salzhel. Egh statarin enit. Egh akherin hein.]{.nativefont lang=biza}
+2 [.You spoke the rite over a name and an empty shelf. I stood here listening.]{lang=en}
+2 [.Toum rétasin ieresin pro ónomir, pro maník salzhel. Egh statarin enit. Egh akherin hein.]{lang=biza}
+
+1 [Egh zharparin maník salzhel plum eniautin afor kronin er heun horat. Olashin telzhar.]{.nativefont lang=biza}
+2 [Every year since, I have paid the whole rate for that empty shelf.]{lang=en}
+2 [Egh zharparin maník salzhel plum eniautin afor kronin er heun horat. Olashin telzhar.]{lang=biza}
+
+1 [.Deir tanor uf en valzin ekhárin etir vardesh. Egh uf dorasarin efir prel vardesh er huyir er egh.]{.nativefont lang=biza}
+2 [.The untended dead remain in debt. I will not let my son owe.]{lang=en}
+2 [.Deir tanor uf en valzin ekhárin etir vardesh. Egh uf dorasarin efir prel vardesh er huyir er egh.]{lang=biza}
+
+1 [Vardesh er heir. Zharpin er navzhel. Egh zharparin hein. Merzvan zharparin meretin er trel er krémashin.]{.nativefont lang=biza}
+2 [His debts: the ship's hire, which I paid. The venture partners paid their third of the cargo.]{lang=en}
+2 [Vardesh er heir. Zharpin er navzhel. Egh zharparin hein. Merzvan zharparin meretin er trel er krémashin.]{lang=biza}
+
+1 [.Vardesh prel heir. Gemetira en autumnar. Ghentir er heira nostarin papirin er gemetvar.]{.nativefont lang=biza}
+2 [.What he was owed: an autumn wife. Her family returned the dowry document.]{lang=en}
+2 [.Vardesh prel heir. Gemetira en autumnar. Ghentir er heira nostarin papirin er gemetvar.]{lang=biza}
+
+1 [Helin ésharin ortelir. Egh pratarin homet. Egh féranin zalvin er klastir charzil prel helin.]{.nativefont lang=biza}
+2 [They were right. I would have done the same. I sent them a bale of spoiled silk.]{lang=en}
+2 [Helin ésharin ortelir. Egh pratarin homet. Egh féranin zalvin er klastir charzil prel helin.]{lang=biza}
+
+1 [.Deir helin erotarin hostin er heir. Egh ekhárin monet heum er heir.]{.nativefont lang=biza}
+2 [.They had asked for something belonging to him. That was all I had.]{lang=en}
+2 [.Deir helin erotarin hostin er heir. Egh ekhárin monet heum er heir.]{lang=biza}
+
+1 [Valzar, tirm valzarin valzin prel anerit en keirin er tálimir.]{.nativefont lang=biza}
+2 [Keeper, who tends the keeping of a man the sea holds?]{lang=en}
+2 [Valzar, tirm valzarin valzin prel anerit en keirin er tálimir.]{lang=biza}
+
+1 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [.Who tends the keeping when the keeper enters it?]{lang=en}
+2 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Valzar, egh ésharin gemetira en Thresholds. Toum epistémarin nomashir. Toum zervarin hein prostet.]{.nativefont lang=biza}
+2 [Keeper, I married at the [Thresholds]{.name data-type="lore/gathering" lang=en}. You know the custom. Write it down anyway.]{lang=en}
+2 [Valzar, egh ésharin gemetira en Thresholds. Toum epistémarin nomashir. Toum zervarin hein prostet.]{lang=biza}
+
+1 [.En ortrin er nevrash er eniautin gemetin érkharin katet meta émfarin meta bizvar.]{.nativefont lang=biza}
+2 [.At the year's turning, spouses go down with merchants and craft masters.]{lang=en}
+2 [.En ortrin er nevrash er eniautin gemetin érkharin katet meta émfarin meta bizvar.]{lang=biza}
+
+1 [Mervar er theshel darzarin zarvel paler. Drinolashin sfradarin hein paler.]{.nativefont lang=biza}
+2 [The temple witness reads their vow again. Both spouses seal it again.]{lang=en}
+2 [Mervar er theshel darzarin zarvel paler. Drinolashin sfradarin hein paler.]{lang=biza}
+
+1 [.Seketar zervarin hein en kitvar katet eniautin, houm tásirin nevarin kosamir.]{.nativefont lang=biza}
+2 [.The clerk enters it under the year, as the gods renew the world.]{lang=en}
+2 [.Seketar zervarin hein en kitvar katet eniautin, houm tásirin nevarin kosamir.]{lang=biza}
+
+1 [26 horat egh érkharin katet meta Zighahr en ortrin er nevrash.]{.nativefont lang=biza}
+2 [Twenty-six times I went down beside Zighahr on the turning morning,]{lang=en}
+2 [26 horat egh érkharin katet meta Zighahr en ortrin er nevrash.]{lang=biza}
+
+1 [.En krumira, meta chirnal. Papirin er domin ésharin katet brakin er heir.]{.nativefont lang=biza}
+2 [.in the cold and the ringing bells, the house papers beneath his arm.]{lang=en}
+2 [.En krumira, meta chirnal. Papirin er domin ésharin katet brakin er heir.]{lang=biza}
+
+1 [Heir nevarin deshvar er domin en meun telzhel. Heir nevarin zarvel er herin en efet.]{.nativefont lang=biza}
+2 [At one table he renewed the house bonds; at the next, our vow.]{lang=en}
+2 [Heir nevarin deshvar er domin en meun telzhel. Heir nevarin zarvel er herin en efet.]{lang=biza}
+
+1 [.Heir darzarin zarvel houm deshvar. Meun keletin, efet keletin. Heir uf takhor.]{.nativefont lang=biza}
+2 [.He read the vow like a bond, one clause followed by another, taking his time.]{lang=en}
+2 [.Heir darzarin zarvel houm deshvar. Meun keletin, efet keletin. Heir uf takhor.]{lang=biza}
+
+1 [Mervar rétasin meunhorat. Heir medinkronin akherin darzarin er zarvel homet akret.]{.nativefont lang=biza}
+2 [Once the witness said he had never heard a vow read with such precision.]{lang=en}
+2 [Mervar rétasin meunhorat. Heir medinkronin akherin darzarin er zarvel homet akret.]{lang=biza}
+
+1 [.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin meta egh.]{.nativefont lang=biza}
+2 [.Zighahr said, This is the only bond I have that has never turned against me.]{lang=en}
+2 [.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin meta egh.]{lang=biza}
+
+1 [Heum eniautin egh érkharin katet monet egh. Mervar erotarin. Toum érkharin prel nevarin teir.]{.nativefont lang=biza}
+2 [This year I went alone. The witness asked what I had come to renew.]{lang=en}
+2 [Heum eniautin egh érkharin katet monet egh. Mervar erotarin. Toum érkharin prel nevarin teir.]{lang=biza}
+
+1 [.Egh rétasin. Deshvar er domin. Heir erotarin. Heter. Egh rétasin. Vezh heter.]{.nativefont lang=biza}
+2 [.The house bonds, I said. And the other? he asked. I said there was no other.]{lang=en}
+2 [.Egh rétasin. Deshvar er domin. Heir erotarin. Heter. Egh rétasin. Vezh heter.]{lang=biza}
+
+1 [Heir zervarin. Zarvel uf nevar. Gemetir ésharin en valzin. Heum ésharin deshvel prel hein.]{.nativefont lang=biza}
+2 [He wrote, Vow unrenewed; husband in keeping. That is the binding wording.]{lang=en}
+2 [Heir zervarin. Zarvel uf nevar. Gemetir ésharin en valzin. Heum ésharin deshvel prel hein.]{lang=biza}
+
+1 [.Heir zervarin meta neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.]{.nativefont lang=biza}
+2 [.He wrote it with kindness. Put it here in the margin too. A number: one.]{lang=en}
+2 [.Heir zervarin meta neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.]{lang=biza}
+
+***
+
+1 [En nikhtir er melvar keretin, en teltin er Silent Passage,]{.nativefont lang=biza}
+2 [On the night of black candles, when the [Silent Passage]{.name data-type="lore/gathering" lang=en} ends,]{lang=en}
+2 [En nikhtir er melvar keretin, en teltin er Silent Passage,]{lang=biza}
+
+1 [.potet theshel er toum kleitarin prel herin. Iereshar rétasin ieresin en dometin.]{.nativefont lang=biza}
+2 [.your temples are closed to us; the priests recite the rites inside.]{lang=en}
+2 [.potet theshel er toum kleitarin prel herin. Iereshar rétasin ieresin en dometin.]{lang=biza}
+
+1 [Egh tetarin keretin en turin prel meltarin er domin en hodis er nemvar.]{.nativefont lang=biza}
+2 [I place candles in the house windows on the weavers' street.]{lang=en}
+2 [Egh tetarin keretin en turin prel meltarin er domin en hodis er nemvar.]{lang=biza}
+
+1 [.Meun keretin prel plum ónomir en lintar. Houm nomashir, en taketin er lintar.]{.nativefont lang=biza}
+2 [.Custom gives each lintel name a candle, in the lintel's order.]{lang=en}
+2 [.Meun keretin prel plum ónomir en lintar. Houm nomashir, en taketin er lintar.]{lang=biza}
+
+1 [Ántimor er hodis dunatarin aritmarin helin afor katet. Ántimor er hodis aritmarin helin.]{.nativefont lang=biza}
+2 [The street can count them from below. The street does count them.]{lang=en}
+2 [Ántimor er hodis dunatarin aritmarin helin afor katet. Ántimor er hodis aritmarin helin.]{lang=biza}
+
+1 [.Domin ekhárin 11 turin prel meltarin prou hodis. 9 ónomir deetarin keretin.]{.nativefont lang=biza}
+2 [.Eleven windows face it. Nine names need candles.]{lang=en}
+2 [.Domin ekhárin 11 turin prel meltarin prou hodis. 9 ónomir deetarin keretin.]{lang=biza}
+
+1 [Egh uf dunatarin tetarin keretin 9 prel maník salzhel. Toteir egh tetarin hein.]{.nativefont lang=biza}
+2 [I could not place the ninth for an empty shelf. Then I placed it.]{lang=en}
+2 [Egh uf dunatarin tetarin keretin 9 prel maník salzhel. Toteir egh tetarin hein.]{lang=biza}
+
+1 [.Egh uf dunatarin tetarin meun prel egh. Toteir egh fantelin. Efet eniautin, tirm tetarin hein.]{.nativefont lang=biza}
+2 [.I could not place one for myself. Then I wondered who would do it next year.]{lang=en}
+2 [.Egh uf dunatarin tetarin meun prel egh. Toteir egh fantelin. Efet eniautin, tirm tetarin hein.]{lang=biza}
+
+1 [Egh rétasin ónomir taret para plum turin prel meltarin, prou skotelir, houm nomashir.]{.nativefont lang=biza}
+2 [At each window I spoke the names aloud into darkness, as custom requires.]{lang=en}
+2 [Egh rétasin ónomir taret para plum turin prel meltarin, prou skotelir, houm nomashir.]{lang=biza}
+
+1 [.Medinántimor en domin ameitarin. Deir vezh ántimor en domin.]{.nativefont lang=biza}
+2 [.No one in the house answered. No one was there.]{lang=en}
+2 [.Medinántimor en domin ameitarin. Deir vezh ántimor en domin.]{lang=biza}
+
+1 [Monet turvar geratir. Heir statarin en zendel. Efet heir rétasin ónomir er egh.]{.nativefont lang=biza}
+2 [Only the old porter stood on the stair, repeating the names after me.]{lang=en}
+2 [Monet turvar geratir. Heir statarin en zendel. Efet heir rétasin ónomir er egh.]{lang=biza}
+
+1 [.Deir heir akherin helin plum eniautin afor kronin er hikatin er heir. Heir epistémarin helin. Heir uf ésharin er domin.]{.nativefont lang=biza}
+2 [.He has heard them every year since coming here. He knows them. He is outside the house.]{lang=en}
+2 [.Deir heir akherin helin plum eniautin afor kronin er hikatin er heir. Heir epistémarin helin. Heir uf ésharin er domin.]{lang=biza}
+
+1 [Egh zharparin heir prel nikhtir. Heir arneitarin zharpin. Toum zervarin heum. Heir arneitarin zharpin.]{.nativefont lang=biza}
+2 [I offered payment for that night. He refused it. Write that refusal.]{lang=en}
+2 [Egh zharparin heir prel nikhtir. Heir arneitarin zharpin. Toum zervarin heum. Heir arneitarin zharpin.]{lang=biza}
+
+1 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [.Who tends the keeping when the keeper enters it?]{lang=en}
+2 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Nunet egh. Egh érkharin prou teltin er zhalven. Zavan prel egh ésharin zharvar.]{.nativefont lang=biza}
+2 [Now myself. I have reached the row's end. My place is already cut.]{lang=en}
+2 [Nunet egh. Egh érkharin prou teltin er zhalven. Zavan prel egh ésharin zharvar.]{lang=biza}
+
+1 [.Hein ésharin para er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum.]{.nativefont lang=biza}
+2 [.Beside Zighahr, as agreed. Your chest holds that agreement.]{lang=en}
+2 [.Hein ésharin para er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum.]{lang=biza}
+
+1 [Potet egh ésharin ekesh, valzar, tirm badelin dia hodis meta nomisin.]{.nativefont lang=biza}
+2 [When I am there, keeper, who walks up the road carrying money?]{lang=en}
+2 [Potet egh ésharin ekesh, valzar, tirm badelin dia hodis meta nomisin.]{lang=biza}
+
+1 [.Domin uf ekhárin huyir. Domin uf ekhárin tighir. Domin uf ekhárin huyir er adelir.]{.nativefont lang=biza}
+2 [.The house has no son, no daughter, no brother's son.]{lang=en}
+2 [.Domin uf ekhárin huyir. Domin uf ekhárin tighir. Domin uf ekhárin huyir er adelir.]{lang=biza}
+
+1 [Ónomir er domin pautarin meta egh. Merzhar uf dorasarin hein prel ksenetir.]{.nativefont lang=biza}
+2 [Its name ends with me. The assessors will not give it to a stranger.]{lang=en}
+2 [Ónomir er domin pautarin meta egh. Merzhar uf dorasarin hein prel ksenetir.]{lang=biza}
+
+1 [.Egh uf erotarin helin. Helin arneitarin. Helin ésharin ortelir.]{.nativefont lang=biza}
+2 [.I would never ask them. They would refuse and be right to refuse.]{lang=en}
+2 [.Egh uf erotarin helin. Helin arneitarin. Helin ésharin ortelir.]{lang=biza}
+
+1 [Domin uf ekhárin zhelvar. Hein ésharin papirin en kitvar er tásirin. Medinántimor darzarin hein.]{.nativefont lang=biza}
+2 [A house without an heir is a page in the gods' ledger that no one reads.]{lang=en}
+2 [Domin uf ekhárin zhelvar. Hein ésharin papirin en kitvar er tásirin. Medinántimor darzarin hein.]{lang=biza}
+
+1 [.Egh epistémarin kumetin. Egh rétasin marzhel en Thresholds afor kronin er gemetrin er egh.]{.nativefont lang=biza}
+2 [.I know the hymn. Since my marriage I have sung its refrain at the Thresholds.]{lang=en}
+2 [.Egh epistémarin kumetin. Egh rétasin marzhel en Thresholds afor kronin er gemetrin er egh.]{lang=biza}
+
+1 [Velzhar er egh zharparin nunet menetarin prel eniautin er zharpin er egh.]{.nativefont lang=biza}
+2 [The endowment I pay today lasts for the years my payment covers.]{lang=en}
+2 [Velzhar er egh zharparin nunet menetarin prel eniautin er zharpin er egh.]{lang=biza}
+
+1 [.Toteir hein pautarin. Toteir seketar er toum zervarin uf nevar. Toteir toum kleitarin turin.]{.nativefont lang=biza}
+2 [.Then it ends. Your clerk writes, Unrenewed. You shut the door.]{lang=en}
+2 [.Toteir hein pautarin. Toteir seketar er toum zervarin uf nevar. Toteir toum kleitarin turin.]{lang=biza}
+
+1 [Toteir domin er charzil ésharin dometin meta turin er kleitarin, meta nomisin er medinántimor.]{.nativefont lang=biza}
+2 [The silk house becomes a chamber behind a shut door, with nobody's money.]{lang=en}
+2 [Toteir domin er charzil ésharin dometin meta turin er kleitarin, meta nomisin er medinántimor.]{lang=biza}
+
+1 [.Neshar er arkhelar ésharin en litorin. Medinántimor darzarin lintar en autumnar.]{.nativefont lang=biza}
+2 [.The founder's die stays in the stone. No one reads the lintel in autumn.]{lang=en}
+2 [.Neshar er arkhelar ésharin en litorin. Medinántimor darzarin lintar en autumnar.]{lang=biza}
+
+1 [Maník nerzhel en teltin er zhalven ésharin maník drinhorat.]{.nativefont lang=biza}
+2 [The empty niche ending the row becomes empty twice.]{lang=en}
+2 [Maník nerzhel en teltin er zhalven ésharin maník drinhorat.]{lang=biza}
+
+1 [.Heum ésharin trar felin, valzar. Toum epistémarin hein. Toum polarin sotin afor hein plum hemerin.]{.nativefont lang=biza}
+2 [.That is the terror, keeper. You know it. Every day you sell protection against it.]{lang=en}
+2 [.Heum ésharin trar felin, valzar. Toum epistémarin hein. Toum polarin sotin afor hein plum hemerin.]{lang=biza}
+
+1 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [Who tends the keeping when the keeper enters it?]{lang=en}
+2 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Akrotarin kemetin er domin, valzar, deir domin zharparin. Toum zervarin hein houm zerzhel.]{.nativefont lang=biza}
+2 [Hear the house's property, keeper, since the house is paying. Write an itemized schedule.]{lang=en}
+2 [Akrotarin kemetin er domin, valzar, deir domin zharparin. Toum zervarin hein houm zerzhel.]{lang=biza}
+
+1 [.Domin en hodis er nemvar. 11 turin prel meltarin. Dometin er turvar. Darvel.]{.nativefont lang=biza}
+2 [.The house on the weavers' street: eleven windows, the porter's room, the yard.]{lang=en}
+2 [.Domin en hodis er nemvar. 11 turin prel meltarin. Dometin er turvar. Darvel.]{lang=biza}
+
+1 [Ambarim en kamelir teltin er hodis, meta turin meta zighir.]{.nativefont lang=biza}
+2 [The warehouse at the lower end, including its door and its balance.]{lang=en}
+2 [Ambarim en kamelir teltin er hodis, meta turin meta zighir.]{lang=biza}
+
+1 [.En ambarim. 40 zalvin morzal. 60 morzan.]{.nativefont lang=biza}
+2 [.Within it, forty bales of the first grade and sixty of the second.]{lang=en}
+2 [.En ambarim. 40 zalvin morzal. 60 morzan.]{lang=biza}
+
+1 [Morzash en zhavel, houm helin polarin hein. Egh uf aritmarin zhavel.]{.nativefont lang=biza}
+2 [Third grade in a heap, as it is sold. I have not counted the heap.]{lang=en}
+2 [Morzash en zhavel, houm helin polarin hein. Egh uf aritmarin zhavel.]{lang=biza}
+
+1 [.Meun zalvin morzal klastir deir halzin. Hein uf ésharin prel polarin.]{.nativefont lang=biza}
+2 [.One first-grade bale spoiled by salt, excluded from sale.]{lang=en}
+2 [.Meun zalvin morzal klastir deir halzin. Hein uf ésharin prel polarin.]{lang=biza}
+
+1 [Narzhel er domin en bizur er nemvar. Meretin er trel er 9.]{.nativefont lang=biza}
+2 [The house's share in the weavers' looms: one third of nine.]{lang=en}
+2 [Narzhel er domin en bizur er nemvar. Meretin er trel er 9.]{lang=biza}
+
+1 [.Vardesh prel domin. Chelkar en Karvashion. Zalvin er heum eniautin. En teltin er deshvar.]{.nativefont lang=biza}
+2 [.Debts to the house: the Karvashion factor, this year's bales, payable at term;]{lang=en}
+2 [.Vardesh prel domin. Chelkar en Karvashion. Zalvin er heum eniautin. En teltin er deshvar.]{lang=biza}
+
+1 [Zhamvar er hodis vesmor ekhárin vardesh prel herin nunet, houm herin ekhárin vardesh prel heir prinet. Hein ésharin danizh.]{.nativefont lang=biza}
+2 [the fourth-street dyer, now owing us for a loan as we once owed him.]{lang=en}
+2 [Zhamvar er hodis vesmor ekhárin vardesh prel herin nunet, houm herin ekhárin vardesh prel heir prinet. Hein ésharin danizh.]{lang=biza}
+
+1 [.Vardesh er domin. Medin. Toum zervarin hein. Medin. Egh pratarin heum.]{.nativefont lang=biza}
+2 [.The house's debts: none. Write none. I have arranged it.]{lang=en}
+2 [.Vardesh er domin. Medin. Toum zervarin hein. Medin. Egh pratarin heum.]{lang=biza}
+
+1 [Neshar er domin en keirin er egh. Neshar er arkhelar en litorin er toum.]{.nativefont lang=biza}
+2 [The house die in my hand. The founder's die in your stone.]{lang=en}
+2 [Neshar er domin en keirin er egh. Neshar er arkhelar en litorin er toum.]{lang=biza}
+
+1 [.Plum, valzar, ésharin prel polarin en morz er autel. Plum zerpel ésharin rétasin.]{.nativefont lang=biza}
+2 [.All of it for sale at its actual grade, every defect declared,]{lang=en}
+2 [.Plum, valzar, ésharin prel polarin en morz er autel. Plum zerpel ésharin rétasin.]{lang=biza}
+
+1 [Antel zalvin klastir deir halzin, antel zighir, antel dometin er turvar.]{.nativefont lang=biza}
+2 [except the salt-spoiled bale, the balance, and the porter's room.]{lang=en}
+2 [Antel zalvin klastir deir halzin, antel zighir, antel dometin er turvar.]{lang=biza}
+
+1 [.Olashin zharpin ésharin en zhervel er toum, houm valzin aeit prel dometin.]{.nativefont lang=biza}
+2 [.The total goes into your chest for the chamber's perpetual keeping,]{lang=en}
+2 [.Olashin zharpin ésharin en zhervel er toum, houm valzin aeit prel dometin.]{lang=biza}
+
+1 [En telzhar er bulorin er toum. Egh erotarin hein. Hein ésharin dikhelir.]{.nativefont lang=biza}
+2 [at your council's rate. I have asked the rate. It is fair.]{lang=en}
+2 [En telzhar er bulorin er toum. Egh erotarin hein. Hein ésharin dikhelir.]{lang=biza}
+
+1 [.Valzin menetarin hoset nomisin menetarin. Nomisin menetarin makrir er kronin.]{.nativefont lang=biza}
+2 [.The keeping lasts as long as the money, and that money lasts a long time.]{lang=en}
+2 [.Valzin menetarin hoset nomisin menetarin. Nomisin menetarin makrir er kronin.]{lang=biza}
+
+1 [Almon nomisin uf ésharin valzar. Nomisin menetarin. Hein uf rétasin ónomir.]{.nativefont lang=biza}
+2 [But money is no keeper. It lasts without speaking names.]{lang=en}
+2 [Almon nomisin uf ésharin valzar. Nomisin menetarin. Hein uf rétasin ónomir.]{lang=biza}
+
+1 [.Nomisin uf tetarin keretin. Nomisin uf badelin dia hodis en autumnar.]{.nativefont lang=biza}
+2 [.Money sets no candles. Money never walks the autumn road.]{lang=en}
+2 [.Nomisin uf tetarin keretin. Nomisin uf badelin dia hodis en autumnar.]{lang=biza}
+
+1 [Valzin monet meta zharpin ésharin valzin er medinántimor valzarin.]{.nativefont lang=biza}
+2 [A keeping maintained only by payment has no one tending it.]{lang=en}
+2 [Valzin monet meta zharpin ésharin valzin er medinántimor valzarin.]{lang=biza}
+
+1 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [.Who tends the keeping when the keeper enters it?]{lang=en}
+2 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+***
+
+1 [Nunet akrotarin aitelin er hikatin er egh. Toum zervarin plum retin en zelvar.]{.nativefont lang=biza}
+2 [Now listen to why I came. Write every word in the margin.]{lang=en}
+2 [Nunet akrotarin aitelin er hikatin er egh. Toum zervarin plum retin en zelvar.]{lang=biza}
+
+1 [.Gemetir er egh lámbarin matelir en telest eniautin er zelarin er heir.]{.nativefont lang=biza}
+2 [.In his last year my husband took an apprentice,]{lang=en}
+2 [.Gemetir er egh lámbarin matelir en telest eniautin er zelarin er heir.]{lang=biza}
+
+1 [Huyir er balvar er vezhnur. Heir uf ekhárin tékhin. Heir aritmarin zalvin en darvel er herin.]{.nativefont lang=biza}
+2 [a plateau carter's son with no trade, who counted bales in our yard.]{lang=en}
+2 [Huyir er balvar er vezhnur. Heir uf ekhárin tékhin. Heir aritmarin zalvin en darvel er herin.]{lang=biza}
+
+1 [.Paidelir meta retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira.]{.nativefont lang=biza}
+2 [.A boy with a bell voice, making mistakes. My husband allowed him, as he allowed her.]{lang=en}
+2 [.Paidelir meta retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira.]{lang=biza}
+
+1 [Ónomir er heir ésharin Nevarash. Nevar. Nunet heir ésharin nemvar er mezhrel.]{.nativefont lang=biza}
+2 [His name is Nevarash. The new one. He is a journeyman weaver now.]{lang=en}
+2 [Ónomir er heir ésharin Nevarash. Nevar. Nunet heir ésharin nemvar er mezhrel.]{lang=biza}
+
+1 [.Heir zigharin para turin er ambarim. Heir zigharin meta zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin.]{.nativefont lang=biza}
+2 [.He weighs at the warehouse door, using that balance. I said nobody had. I lied.]{lang=en}
+2 [.Heir zigharin para turin er ambarim. Heir zigharin meta zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin.]{lang=biza}
+
+1 [Egh rétasin prel toum aritmas ésharin medin. Toum zervarin paler. Aritmas ésharin heir.]{.nativefont lang=biza}
+2 [I gave you none as the number. Rewrite it. The number is him.]{lang=en}
+2 [Egh rétasin prel toum aritmas ésharin medin. Toum zervarin paler. Aritmas ésharin heir.]{lang=biza}
+
+1 [.Heir zigharin plum zalvin er hikatin, plum zalvin er érkharin apet. Heir zigharin ortelir.]{.nativefont lang=biza}
+2 [.Every incoming bale and every outgoing bale passes his accurate weighing.]{lang=en}
+2 [.Heir zigharin plum zalvin er hikatin, plum zalvin er érkharin apet. Heir zigharin ortelir.]{lang=biza}
+
+1 [Gemetir er egh zervarin matelvar er heir. Matelvar ésharin tevirzhin, valzar.]{.nativefont lang=biza}
+2 [My husband wrote his indenture. An indenture is an adoption, keeper.]{lang=en}
+2 [Gemetir er egh zervarin matelvar er heir. Matelvar ésharin tevirzhin, valzar.]{lang=biza}
+
+1 [.Toum epistémarin. Nemzhin epistémarin. Kitvar epistémarin. Paidelir epistémarin.]{.nativefont lang=biza}
+2 [.You know it. The guild knows. The register knows. The boy knows.]{lang=en}
+2 [.Toum epistémarin. Nemzhin epistémarin. Kitvar epistémarin. Paidelir epistémarin.]{lang=biza}
+
+1 [Heir uf ésharin er domin. Heir ekhárin ónomir er autel. Ónomir er balvar. Kelir ónomir.]{.nativefont lang=biza}
+2 [He belongs to no part of our house. His own name is a carter's good name.]{lang=en}
+2 [Heir uf ésharin er domin. Heir ekhárin ónomir er autel. Ónomir er balvar. Kelir ónomir.]{lang=biza}
+
+1 [.Merzhar uf dorasarin er herin prel heir. Egh uf erotarin helin. Heir uf erotarin.]{.nativefont lang=biza}
+2 [.The assessors will not give him ours. Neither he nor I asks.]{lang=en}
+2 [.Merzhar uf dorasarin er herin prel heir. Egh uf erotarin helin. Heir uf erotarin.]{lang=biza}
+
+1 [Egh uf dorasarin ónomir prel heir. Egh dorasarin valzin prel heir.]{.nativefont lang=biza}
+2 [I give him no house name. I give him the keeping.]{lang=en}
+2 [Egh uf dorasarin ónomir prel heir. Egh dorasarin valzin prel heir.]{lang=biza}
+
+***
+
+1 [Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, pro mervar,]{.nativefont lang=biza}
+2 [Keeper, write: Ruzhveleze of the silk house, its last member, before witnesses,]{lang=en}
+2 [Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, pro mervar,]{lang=biza}
+
+1 [.kaleitarin Nevarash er mezhrel, matelir er gemetir er heira, zhelvar er valzin]{.nativefont lang=biza}
+2 [.names Nevarash, journeyman and her husband's apprentice, heir to the keeping]{lang=en}
+2 [.kaleitarin Nevarash er mezhrel, matelir er gemetir er heira, zhelvar er valzin]{lang=biza}
+
+1 [er dometin er domin er charzil en pólitar er tanor. Hein olashin.]{.nativefont lang=biza}
+2 [of the whole silk-house chamber in the city of the dead:]{lang=en}
+2 [er dometin er domin er charzil en pólitar er tanor. Hein olashin.]{lang=biza}
+
+1 [.Lintar meta arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel.]{.nativefont lang=biza}
+2 [.lintel and founder, second row, small stone, empty niche,]{lang=en}
+2 [.Lintar meta arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel.]{lang=biza}
+
+1 [Zavan zharvar prel heira, potet heira ésharin en hein. Nomisin plum autumnar.]{.nativefont lang=biza}
+2 [and her prepared place when she occupies it, with money brought every autumn]{lang=en}
+2 [Zavan zharvar prel heira, potet heira ésharin en hein. Nomisin plum autumnar.]{lang=biza}
+
+1 [.Olashin telzhar hoset heir zelarin, efet matelir er heir zelarin.]{.nativefont lang=biza}
+2 [.at the whole rate throughout his life, then by his apprentices after him;]{lang=en}
+2 [.Olashin telzhar hoset heir zelarin, efet matelir er heir zelarin.]{lang=biza}
+
+1 [Ónomir ésharin rétasin taret en nikhtir er melvar keretin. Plum ónomir.]{.nativefont lang=biza}
+2 [all names spoken aloud on the night of black candles,]{lang=en}
+2 [Ónomir ésharin rétasin taret en nikhtir er melvar keretin. Plum ónomir.]{lang=biza}
+
+1 [.En taketin er lintar. Maník telest. Maník prostet.]{.nativefont lang=biza}
+2 [.following the lintel's order, the empty one last, including the empty one.]{lang=en}
+2 [.En taketin er lintar. Maník telest. Maník prostet.]{lang=biza}
+
+1 [Nevarash, érkharin enit. Toum tetarin sfradin er toum para er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil.]{.nativefont lang=biza}
+2 [Nevarash, come here. Set your seal beside mine. Press firmly. Harder. It is wax, not silk.]{lang=en}
+2 [Nevarash, érkharin enit. Toum tetarin sfradin er toum para er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil.]{lang=biza}
+
+1 [.Ekesh. Drin sfradin, valzar. Toum aritmarin helin. Toum zervarin aritmas. Drin.]{.nativefont lang=biza}
+2 [.There. Two seals, keeper. Count them. Record the number: two.]{lang=en}
+2 [.Ekesh. Drin sfradin, valzar. Toum aritmarin helin. Toum zervarin aritmas. Drin.]{lang=biza}
+
+***
+
+1 [Toum zervarin heum telest, en zelvar, mikrir, en teselin er seketar zervarin neshar er autel.]{.nativefont lang=biza}
+2 [Write this last, small in the margin where a scribe leaves his mark:]{lang=en}
+2 [Toum zervarin heum telest, en zelvar, mikrir, en teselin er seketar zervarin neshar er autel.]{lang=biza}
+
+1 [.Egh erotarin tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
+2 [.I asked who tends the keeping when the keeper enters it.]{lang=en}
+2 [.Egh erotarin tirm valzarin valzin, potet valzar ésharin en valzin.]{lang=biza}
+
+1 [Huyir er balvar valzarin hein. Paidelir er aritmarin uf ortelir en darvel.]{.nativefont lang=biza}
+2 [A carter's son tends it. A boy who miscounted in the yard.]{lang=en}
+2 [Huyir er balvar valzarin hein. Paidelir er aritmarin uf ortelir en darvel.]{lang=biza}
+
+1 [.Heum ésharin zhetelin. Hein uf ésharin oratin er egh. Hein ésharin zhetelin.]{.nativefont lang=biza}
+2 [.That is the answer. I wanted another answer. This is the answer.]{lang=en}
+2 [.Heum ésharin zhetelin. Hein uf ésharin oratin er egh. Hein ésharin zhetelin.]{lang=biza}
+
+1 [Toum kleitarin turin nunet, valzar. Egh ekhárin kleitir. Heir ekhárin heter.]{.nativefont lang=biza}
+2 [Shut the door now, keeper. I hold one key. He holds the other.]{lang=en}
+2 [Toum kleitarin turin nunet, valzar. Egh ekhárin kleitir. Heir ekhárin heter.]{lang=biza}
+
 ```
 
 ## See Also
