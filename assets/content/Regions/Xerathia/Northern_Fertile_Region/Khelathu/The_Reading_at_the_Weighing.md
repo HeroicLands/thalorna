@@ -44,9 +44,9 @@ _\[The reader names the year of the reign, the season, the day, and the dead.\]_
 2 [Here the reader reads only the writing. He reads nothing unwritten.]{lang=en}
 2 [Zethul zethular laz zethu zun. Khez zethul saru temun khez zethu.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -74,9 +74,9 @@ _\[The reader names the year of the reign, the season, the day, and the dead.\]_
 2 [The gods place their account beside ours and read it.]{lang=en}
 2 [Qalath nelgiru halzi elu naru qarmel halzi elu nazun. Zethul naru qu.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -104,9 +104,9 @@ _\[The reader names the year of the reign, the season, the day, and the dead.\]_
 2 [Four doors close an entry. There is no fifth door.]{lang=en}
 2 [Galath galmun tuzar zethat. Khez alqar galmun elu chalen.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -130,9 +130,9 @@ _\[The reader names the year of the reign, the season, the day, and the dead.\]_
 2 [Such an undertaking closes only through performance or release. Through nothing else.]{lang=en}
 2 [Wanel halqel galet laz qer elu qelaznet lu wazlat. Khez qer elu temun leqar.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -157,17 +157,17 @@ _\[Here the reader takes up the tablets and reads the entries by their dates, th
 2 [If the outcome is in the writing, the reader says:]{lang=en}
 2 [Qamaru alqar qelqarnat ezu zethu, tharun razel zethular.]{lang=khel}
 
-1 [..Galet.]{.nativefont lang=khel}
+1 [..Galet·]{.nativefont lang=khel}
 2 [..Closed.]{lang=en}
-2 [..Galet.]{lang=khel}
+2 [..Galet.·]{lang=khel}
 
 1 [Qamaru khez alqar qelqarnat ezu zethu, tharun razel zethular.]{.nativefont lang=khel}
 2 [If the outcome is absent from the writing, the reader says:]{lang=en}
 2 [Qamaru khez alqar qelqarnat ezu zethu, tharun razel zethular.]{lang=khel}
 
-1 [..Galut.]{.nativefont lang=khel}
+1 [..Galut·]{.nativefont lang=khel}
 2 [..Open.]{lang=en}
-2 [..Galut.]{lang=khel}
+2 [..Galut.·]{lang=khel}
 
 ***
 
@@ -192,9 +192,9 @@ _\[At an open entry the reader stops, and the party is called.\]_
 2 [You give up the debt for your yes. We remember your name.]{lang=en}
 2 [Zerath telu zeqat qaral enu elu telu. Rethur nazun rethan elu telu.]{lang=khel}
 
-1 [..Galut lu galet, qel razel telu.]{.nativefont lang=khel}
+1 [..Galut lu galet, qel razel telu·]{.nativefont lang=khel}
 2 [..Open or closed, as you say.]{lang=en}
-2 [..Galut lu galet, qel razel telu.]{lang=khel}
+2 [..Galut lu galet, qel razel telu.·]{lang=khel}
 
 ***
 
@@ -222,9 +222,9 @@ _\[At an open entry the reader stops, and the party is called.\]_
 2 [A father’s fault is not a son’s fault. A debt goes to an heir only through the heir’s consent.]{lang=en}
 2 [Khez wanel qaznel elu qathun qaznel elu malen qarenar. Yarul zeqat ez qamretar laz qer elu qerethalnet elu saru.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -252,9 +252,9 @@ _\[At an open entry the reader stops, and the party is called.\]_
 2 [We wish someone to say of her, she closes well; of him, he goes down with a debt owed to him.]{lang=en}
 2 [Tamren nazun razel genar galath sari leqet. Tamren nazun razel genar yarul saru nizar ez ithnar, zeqat ez saru.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -278,9 +278,9 @@ _\[At an open entry the reader stops, and the party is called.\]_
 2 [A hand lifts the tablets. The hand destroys the dead person.]{lang=en}
 2 [Qalzel thalmu zethqen. Qezathun thalmu genar wathet.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -308,9 +308,9 @@ _\[At an open entry the reader stops, and the party is called.\]_
 2 [If both are closed, the dead person goes onward and enters the Zulaten.]{lang=en}
 2 [Qamaru wanel khul zamat galet, tharun yarul genar wathet zamar. Galun genar wathet ezu Zulaten.]{lang=khel}
 
-1 [..Ezu zethu.]{.nativefont lang=khel}
+1 [..Ezu zethu·]{.nativefont lang=khel}
 2 [..In the record.]{lang=en}
-2 [..Ezu zethu.]{lang=khel}
+2 [..Ezu zethu.·]{lang=khel}
 
 ***
 
@@ -334,9 +334,9 @@ _\[At an open entry the reader stops, and the party is called.\]_
 2 [Close a debt you owe. Do not close a debt another owes you.]{lang=en}
 2 [Galath telu zeqat, zeqel telu qu. Khez galath telu zeqat, zeqel genar leqar qu ez telu.]{lang=khel}
 
-1 [..Zethulnet ta ezu zethu.]{.nativefont lang=khel}
+1 [..Zethulnet ta ezu zethu·]{.nativefont lang=khel}
 2 [..Read and in the record.]{lang=en}
-2 [..Zethulnet ta ezu zethu.]{lang=khel}
+2 [..Zethulnet ta ezu zethu.·]{lang=khel}
 ```
 
 ## See Also
