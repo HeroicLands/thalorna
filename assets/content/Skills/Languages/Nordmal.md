@@ -3,7 +3,8 @@ shortcode: nordmalng
 name: { full: Nordmal Language, aliases: [] }
 type: skill
 subType: language
-description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms, bending its vowels with every fjord."
+description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms,
+  bending its vowels with every fjord."
 tags: []
 data:
   core: true
@@ -341,23 +342,30 @@ data:
   fields:
     - { name: "Verse and its kinds", holds: "The kinds of verse a skald makes and a hall judges." }
     - name: "The hearth and the hall"
-      holds: "Grain, pots, coals, boundary stones and seats: the words a hall cannot do without."
+      holds: "Grain, pots, coals, boundary stones and seats: the words a hall cannot
+        do without."
     - { name: "The boat and the beacon", holds: "The keel and the beacon." }
     - name: "Whale and seal"
-      holds: "The words of the winter hunt: whale, seal, harpoon, blubber, oil, ice-edge and rookery."
+      holds: "The words of the winter hunt: whale, seal, harpoon, blubber, oil,
+        ice-edge and rookery."
     - name: "The body and the grave"
       holds: "The body, birth, death, the grave and the field of blood."
     - { name: "The making of the world", holds: "World-ages, ash, remnants and fate." }
     - name: "Name-stems"
-      holds: "The bound stems that carry the sense of a name, each spoken in a hard, a middle and a deep grade."
+      holds: "The bound stems that carry the sense of a name, each spoken in a hard, a
+        middle and a deep grade."
     - name: "Name elements"
-      holds: "The pieces a compound opens with, each meaning something and none standing alone as a word."
+      holds: "The pieces a compound opens with, each meaning something and none
+        standing alone as a word."
     - name: "The orders and their marks"
-      holds: "The gatherings of the sworn orders, and the rings, cloaks and dyes their members wear."
+      holds: "The gatherings of the sworn orders, and the rings, cloaks and dyes their
+        members wear."
     - name: "Tellers' tales"
-      holds: "The beings and places of fishers' and tellers' tales: sea-things, wyrms and the mothers beneath the stones."
+      holds: "The beings and places of fishers' and tellers' tales: sea-things, wyrms
+        and the mothers beneath the stones."
     - name: Everyday speech
-      holds: "Ordinary words and expressions for perception, feeling, bodily life, relationships, things, actions and conversation."
+      holds: "Ordinary words and expressions for perception, feeling, bodily life,
+        relationships, things, actions and conversation."
   affixes:
     - { form: "-vir", gloss: "a man", kind: name, given: man }
     - { form: "-mil", gloss: "a man", kind: name, given: man }
@@ -368,11 +376,13 @@ data:
     - { form: "-thira", gloss: "a woman", kind: name, given: woman }
     - { form: "-inda", gloss: "a woman", kind: name, given: woman }
     - form: "-aruk"
-      gloss: "a charge kept: a pass, a strand, a beacon, a march held against something"
+      gloss: "a charge kept: a pass, a strand, a beacon, a march held against
+        something"
     - { form: "-endik", gloss: "a holding: land, hall, harbor, fishery, mine" }
     - { form: "-umak", gloss: "a craft: work the clan answers for and others come to it for" }
     - form: "-idrok"
-      gloss: "a forebear: a line reckoned from a name-giver the clan can still recite to"
+      gloss: "a forebear: a line reckoned from a name-giver the clan can still recite
+        to"
     - { form: "-aett", gloss: "a kin reckoned together" }
     - { form: "-aldur", gloss: "an age" }
     - { form: "-ask", gloss: "an ash-tree" }
@@ -557,7 +567,8 @@ data:
         "form": "skuld dingi",
         "class": "phrase",
         "field": "Everyday speech",
-        "gloss": "payment token, coin or other thing paid; ordinarycomposition of debt plus thing, no newformation rule",
+        "gloss": "payment token, coin or other thing paid; ordinarycomposition of debt
+          plus thing, no newformation rule",
       }
     - { "form": "farni", "class": "adj", "field": "Everyday speech", "gloss": "relinquished" }
     - { "form": "nodri", "class": "adj", "field": "Everyday speech", "gloss": "given over" }
@@ -753,16 +764,19 @@ data:
     - form: "ting"
       class: "n"
       field: "The hearth and the hall"
-      gloss: "the lawful assembly of free people, where disputes are judged and laws proclaimed"
+      gloss: "the lawful assembly of free people, where disputes are judged and laws
+        proclaimed"
     - form: "Hringsveld"
       class: "n"
       field: "The hearth and the hall"
-      gloss: "a king; the one who holds the arm-ring and the high seat on the ting's consent"
+      gloss: "a king; the one who holds the arm-ring and the high seat on the ting's
+        consent"
       built: [hring-, sveld]
     - form: "Hrug"
       class: "n"
       field: "The hearth and the hall"
-      gloss: "a thrall; one owned outright, who owes labor and has no voice at the ting"
+      gloss: "a thrall; one owned outright, who owes labor and has no voice at the
+        ting"
     - form: "odel"
       class: "n"
       field: "The hearth and the hall"
@@ -860,7 +874,8 @@ data:
     - form: "nottreid"
       class: "n"
       field: "The body and the grave"
-      gloss: "a night-riding dread, warded off by turning shoes outward and keeping steel by the bed"
+      gloss: "a night-riding dread, warded off by turning shoes outward and keeping
+        steel by the bed"
     - form: "heimsaldur"
       class: "n"
       field: "The making of the world"
@@ -1327,15 +1342,18 @@ data:
     - form: "bandlagshringur"
       class: "n"
       field: "The orders and their marks"
-      gloss: "The bronze ring a Signed Captain of the Málalidabandalag wears on the thumb"
+      gloss: "The bronze ring a Signed Captain of the Málalidabandalag wears on the
+        thumb"
     - form: "hafthur"
       class: "n"
       field: "Tellers' tales"
-      gloss: "A sea-thing in fishers' tales: an island that rises without birds and takes boats down"
+      gloss: "A sea-thing in fishers' tales: an island that rises without birds and
+        takes boats down"
     - form: "hrúmsmodir"
       class: "n"
       field: "Tellers' tales"
-      gloss: "The mothers of the oldest lines, said to lie beneath the stones of Horgsvangur"
+      gloss: "The mothers of the oldest lines, said to lie beneath the stones of
+        Horgsvangur"
     - form: "skaldhringur"
       class: "n"
       field: "The orders and their marks"
@@ -1343,22 +1361,27 @@ data:
     - form: "Geldrir"
       class: "n"
       field: "The orders and their marks"
-      gloss: "a skald's apprentice, a pupil who has yet to present a geldra the Circle accepts"
+      gloss: "a skald's apprentice, a pupil who has yet to present a geldra the Circle
+        accepts"
     - form: "Hluskmadur"
       class: "n"
       field: "The orders and their marks"
-      gloss: "one of the faith of Bjart whom the council will not accord, and meets with silence"
+      gloss: "one of the faith of Bjart whom the council will not accord, and meets
+        with silence"
     - form: "Draskmadur"
       class: "n"
       field: "The orders and their marks"
-      gloss: "one who holds Hrimthur's work in awe and has joined none of his factions"
+      gloss: "one who holds Hrimthur's work in awe and has joined none of his
+        factions"
     - form: "Bandlid"
       class: "n"
       field: "The orders and their marks"
       gloss: "one attached to one of Hrimthur's factions and doing its work"
     - form: sken
       class: v
-      gloss: "to see; to look; to watch by keeping one's attention on a person, thing or event. Ir sken gnum: I see the pot; ir sken gnum dur: I watch the pot for a while. Said as a call, sken means look!"
+      gloss: "to see; to look; to watch by keeping one's attention on a person, thing
+        or event. Ir sken gnum: I see the pot; ir sken gnum dur: I watch the pot
+        for a while. Said as a call, sken means look!"
       field: Everyday speech
       concept: [see-verb, look, watch, expression-look]
     - form: skensa
@@ -1406,17 +1429,20 @@ data:
       concept: touch-noun
     - form: skelm
       class: adj
-      gloss: "visible; able to be discerned by sight in the stated conditions. Gnum es skelm: the pot is visible."
+      gloss: "visible; able to be discerned by sight in the stated conditions. Gnum es
+        skelm: the pot is visible."
       field: Everyday speech
       concept: visible
     - form: nel skelm
       class: adj
-      gloss: "invisible; unable to be discerned by sight in the stated conditions. Gnum es nel skelm: the pot is invisible."
+      gloss: "invisible; unable to be discerned by sight in the stated conditions.
+        Gnum es nel skelm: the pot is invisible."
       field: Everyday speech
       concept: invisible
     - form: hlusta
       class: v
-      gloss: to listen; to attend to a sound rather than merely hear it Said as a call, hlusta means listen!
+      gloss: to listen; to attend to a sound rather than merely hear it Said as a
+        call, hlusta means listen!
       field: Everyday speech
       concept: [listen, expression-listen]
     - form: skrold
@@ -1473,7 +1499,8 @@ data:
       concept: feel-verb
     - form: hnema
       class: n
-      gloss: a bodily sensation; an experience of warmth, pressure, pain or another physical stimulus
+      gloss: a bodily sensation; an experience of warmth, pressure, pain or another
+        physical stimulus
       field: Everyday speech
       concept: sensation
     - form: hlif
@@ -1554,7 +1581,8 @@ data:
     - { form: hragna, class: n, gloss: lust; sexual desire, field: Everyday speech, concept: lust }
     - form: snali nel
       class: n
-      gloss: "despair; the felt loss of hope. In this fixed expression nel follows snali: hope gone."
+      gloss: "despair; the felt loss of hope. In this fixed expression nel follows
+        snali: hope gone."
       field: Everyday speech
       concept: despair
     - form: snalskard
@@ -1604,7 +1632,8 @@ data:
       concept: hatred
     - form: trunvakt
       class: n
-      gloss: jealousy; fear or resentment that a valued relationship or place will be taken by another
+      gloss: jealousy; fear or resentment that a valued relationship or place will be
+        taken by another
       field: Everyday speech
       concept: jealousy
     - form: hrosk
@@ -1619,7 +1648,8 @@ data:
       concept: terror
     - form: hnura na hugma
       class: n
-      gloss: sadness; an inward heaviness of feeling, called a lament of the mind, whether or not one laments aloud
+      gloss: sadness; an inward heaviness of feeling, called a lament of the mind,
+        whether or not one laments aloud
       field: Everyday speech
       concept: sadness
     - form: hnura na skard
@@ -1649,7 +1679,8 @@ data:
       concept: humility
     - form: steldi
       class: n
-      gloss: confidence in one's capacity or an outcome; subjective certainty that a belief is right. Steldi can be mistaken; it does not mean truth.
+      gloss: confidence in one's capacity or an outcome; subjective certainty that a
+        belief is right. Steldi can be mistaken; it does not mean truth.
       field: Everyday speech
       concept: [confidence, certainty]
     - form: hrimsa
@@ -1659,7 +1690,8 @@ data:
       concept: embarrassment
     - form: mervi
       class: n
-      gloss: compassion; pity; sympathetic concern for another's suffering, with a wish to relieve it
+      gloss: compassion; pity; sympathetic concern for another's suffering, with a
+        wish to relieve it
       field: Everyday speech
       concept: [compassion, pity, sympathy]
     - form: harnmin
@@ -1674,7 +1706,8 @@ data:
       concept: contempt
     - form: fraska
       class: n
-      gloss: forgiveness; release of resentment or a claim to punish someone for a wrong
+      gloss: forgiveness; release of resentment or a claim to punish someone for a
+        wrong
       field: Everyday speech
       concept: forgiveness
     - form: vrili
@@ -1714,7 +1747,8 @@ data:
       concept: doubt
     - form: snertskelm
       class: n
-      gloss: surprise; the startled response to something unexpected, pleasant or unpleasant
+      gloss: surprise; the startled response to something unexpected, pleasant or
+        unpleasant
       field: Everyday speech
       concept: surprise
     - form: hlaskma
@@ -1744,12 +1778,14 @@ data:
       concept: awe
     - form: lufna
       class: n/v
-      gloss: affection; warm, caring regard for someone; also, to love or feel affection for someone
+      gloss: affection; warm, caring regard for someone; also, to love or feel
+        affection for someone
       field: Everyday speech
       concept: affection
     - form: lufna na parvi
       class: n
-      gloss: romantic love; affection for a desired or beloved partner, distinguished from sexual desire alone
+      gloss: romantic love; affection for a desired or beloved partner, distinguished
+        from sexual desire alone
       field: Everyday speech
       concept: love-eros
     - form: lufna na frendi
@@ -1764,7 +1800,8 @@ data:
       concept: love-storge
     - form: lufna na ul mannva
       class: n
-      gloss: selfless, universal love; caring regard for every human being without seeking a return. The phrase names an inclusive ethical attitude.
+      gloss: selfless, universal love; caring regard for every human being without
+        seeking a return. The phrase names an inclusive ethical attitude.
       field: Everyday speech
       concept: love-agape
     - form: lufdrag
@@ -1774,7 +1811,8 @@ data:
       concept: attraction
     - form: hugneri
       class: n
-      gloss: intimacy; personal closeness in which people share private feelings or bodily affection
+      gloss: intimacy; personal closeness in which people share private feelings or
+        bodily affection
       field: Everyday speech
       concept: intimacy
     - form: fastluf
@@ -2024,7 +2062,8 @@ data:
       concept: sweat
     - form: skernvrell
       class: n
-      gloss: tears; the liquid shed by the eyes, called eye-blood even when it contains no blood
+      gloss: tears; the liquid shed by the eyes, called eye-blood even when it
+        contains no blood
       field: Everyday speech
       concept: tears
     - form: murnvil
@@ -2209,7 +2248,8 @@ data:
       concept: hot
     - form: morl thermi
       class: adj
-      gloss: "warm; pleasantly or moderately hot. Vatna es morl thermi: the water is warm."
+      gloss: "warm; pleasantly or moderately hot. Vatna es morl thermi: the water is
+        warm."
       field: Everyday speech
       concept: warm
     - form: morl svul
@@ -2255,7 +2295,8 @@ data:
       concept: pregnancy
     - form: hav frunli
       class: v
-      gloss: "to be pregnant; to carry a developing child. Ir hav frunli: I am pregnant."
+      gloss: "to be pregnant; to carry a developing child. Ir hav frunli: I am
+        pregnant."
       field: Everyday speech
       concept: pregnant
     - form: nod dvern
@@ -2265,7 +2306,8 @@ data:
       concept: give-birth
     - form: fed miv milva
       class: v
-      gloss: "to nurse a child at the breast. Kinra fed kinli miv milva: the parent feeds the child at the breast."
+      gloss: "to nurse a child at the breast. Kinra fed kinli miv milva: the parent
+        feeds the child at the breast."
       field: Everyday speech
       concept: nurse
     - form: gruma
@@ -2427,17 +2469,20 @@ data:
       concept: grandchild
     - form: karn fratra na kinra
       class: n
-      gloss: an uncle; a male sibling of one's mother or father. A spouse of that relative is called parma na fratra na kinra.
+      gloss: an uncle; a male sibling of one's mother or father. A spouse of that
+        relative is called parma na fratra na kinra.
       field: Everyday speech
       concept: uncle
     - form: fem fratra na kinra
       class: n
-      gloss: an aunt; a female sibling of one's mother or father. A spouse of that relative is called parma na fratra na kinra.
+      gloss: an aunt; a female sibling of one's mother or father. A spouse of that
+        relative is called parma na fratra na kinra.
       field: Everyday speech
       concept: aunt
     - form: kinli na fratra na kinra
       class: n
-      gloss: "a cousin; the child of a sibling of one's parent. Each na joins the following relation: child of [sibling of parent]."
+      gloss: "a cousin; the child of a sibling of one's parent. Each na joins the
+        following relation: child of [sibling of parent]."
       field: Everyday speech
       concept: cousin
     - form: karn parma
@@ -2497,7 +2542,8 @@ data:
       concept: marriage
     - form: parmna
       class: v
-      gloss: "to marry; to enter marriage with someone. Ir parmna parvi: I marry my beloved."
+      gloss: "to marry; to enter marriage with someone. Ir parmna parvi: I marry my
+        beloved."
       field: Everyday speech
       concept: marry
     - form: kinband
@@ -2562,7 +2608,8 @@ data:
       concept: servant
     - form: valdri
       class: n
-      gloss: a master; a person with authority over a household, servant or undertaking
+      gloss: a master; a person with authority over a household, servant or
+        undertaking
       field: Everyday speech
       concept: master
     - form: lerdi
@@ -2604,7 +2651,8 @@ data:
       concept: abode
     - form: eldva
       class: n
-      gloss: "fire; combustion giving heat and light. Eldva eldna melva: fire burns the food."
+      gloss: "fire; combustion giving heat and light. Eldva eldna melva: fire burns
+        the food."
       field: Everyday speech
       concept: fire
     - form: eldsveld
@@ -2667,7 +2715,8 @@ data:
       concept: room
     - form: inn hroldi
       class: n
-      gloss: a ceiling; the inward-facing overhead surface of a room. Inn hroldi is a fixed household noun phrase.
+      gloss: a ceiling; the inward-facing overhead surface of a room. Inn hroldi is a
+        fixed household noun phrase.
       field: Everyday speech
       concept: ceiling
     - form: lang sveld
@@ -2781,7 +2830,8 @@ data:
       concept: clay
     - form: skurva
       class: n
-      gloss: leather; animal skin prepared for use by tanning or another curing process
+      gloss: leather; animal skin prepared for use by tanning or another curing
+        process
       field: Everyday speech
       concept: leather
     - form: ulma
@@ -2926,7 +2976,8 @@ data:
       concept: lightning
     - form: vruna
       class: n
-      gloss: a plant; a growing living thing rooted in or drawing nourishment from soil or water
+      gloss: a plant; a growing living thing rooted in or drawing nourishment from
+        soil or water
       field: Everyday speech
       concept: plant
     - { form: vidra, class: n, gloss: a tree, field: Everyday speech, concept: tree }
@@ -2951,7 +3002,8 @@ data:
     - { form: grasva, class: n, gloss: grass, field: Everyday speech, concept: grass }
     - form: kvilna
       class: n
-      gloss: an animal; a beast; a living creature that feeds and moves rather than a plant
+      gloss: an animal; a beast; a living creature that feeds and moves rather than a
+        plant
       field: Everyday speech
       concept: [animal, beast]
     - { form: flurva, class: n, gloss: a bird, field: Everyday speech, concept: bird }
@@ -2984,7 +3036,8 @@ data:
     - { form: dulvi, class: adj, gloss: dark; lacking light, field: Everyday speech, concept: dark }
     - form: skifri
       class: adj
-      gloss: "clear of clouds; said of the sky or weather. Himra es skifri: the sky is clear."
+      gloss: "clear of clouds; said of the sky or weather. Himra es skifri: the sky is
+        clear."
       field: Everyday speech
       concept: clear-weather
     - form: skifull
@@ -3019,7 +3072,8 @@ data:
       concept: one
     - form: tvei
       class: num
-      gloss: "two; the ordinary count of two things. Tvei gnum: two pots; the diplomatic formula keeps its own tvau."
+      gloss: "two; the ordinary count of two things. Tvei gnum: two pots; the
+        diplomatic formula keeps its own tvau."
       field: Everyday speech
       concept: two
     - { form: thrin, class: num, gloss: three, field: Everyday speech, concept: three }
@@ -3040,8 +3094,8 @@ data:
     - { form: hurn, class: num, gloss: one hundred, field: Everyday speech, concept: hundred }
     - { form: thund, class: num, gloss: one thousand, field: Everyday speech, concept: thousand }
     - form: staf eiv
-      class: num
-      gloss: first in a numbered order; ordinal position one
+      class: num/adverb
+      gloss: first in a numbered order; ordinal position one; also, first existing
       field: Everyday speech
       concept: first
     - form: staf tvei
@@ -3060,23 +3114,28 @@ data:
       field: Everyday speech
       concept: half
     - form: plem
-      class: num
-      gloss: "many when counting things; much when measuring a substance. Plem gnum: many pots; plem vatna: much water."
+      class: num/adverb
+      gloss: "many when counting things; much when measuring a substance. Plem gnum:
+        many pots; plem vatna: much water.; also, more in a comparative
+        poeticcitation"
       field: Everyday speech
       concept: [many, much]
     - form: sneri
       class: num
-      gloss: "few when counting things; little when measuring a substance. Sneri gnum: few pots; sneri vatna: little water."
+      gloss: "few when counting things; little when measuring a substance. Sneri gnum:
+        few pots; sneri vatna: little water."
       field: Everyday speech
       concept: [few, little-quantity]
     - form: noll
       class: num
-      gloss: "none; zero; no members or quantity of the stated set. Noll gnum: no pots."
+      gloss: "none; zero; no members or quantity of the stated set. Noll gnum: no
+        pots."
       field: Everyday speech
       concept: [none, zero]
     - form: staf fjorv
       class: num
-      gloss: "fourth; staf before a cardinal gives its ordinal position. Gnum es staf fjorv: the pot is fourth in the row; staf hurn is hundredth."
+      gloss: "fourth; staf before a cardinal gives its ordinal position. Gnum es staf
+        fjorv: the pot is fourth in the row; staf hurn is hundredth."
       field: Everyday speech
       concept: ordinal-construction
     - form: fjorhelv
@@ -3096,37 +3155,46 @@ data:
       concept: some
     - form: mert
       class: num
-      gloss: "enough; as many or as much as is needed for the stated purpose. Mert vatna firn melva: enough water for the food."
+      gloss: "enough; as many or as much as is needed for the stated purpose. Mert
+        vatna firn melva: enough water for the food."
       field: Everyday speech
       concept: enough
     - form: plemir
       class: num
-      gloss: more; a greater number or amount. plemir vatna dan hern is more water than this.
+      gloss: more; a greater number or amount. plemir vatna dan hern is more water
+        than this.
       field: Everyday speech
       concept: more
     - form: snem
       class: num
-      gloss: "less; a smaller number or amount. Snem vatna dan hern: less water than this."
+      gloss: "less; a smaller number or amount. Snem vatna dan hern: less water than
+        this."
       field: Everyday speech
       concept: less
     - form: plemir dan ul andra
       class: num
-      gloss: "most; more than every other member of the comparison set. Gnum hern hav plemir vatna dan ul andra gnum: this pot has more water than all the other pots. The target pot is excluded from andra, the others."
+      gloss: "most; more than every other member of the comparison set. Gnum hern hav
+        plemir vatna dan ul andra gnum: this pot has more water than all the
+        other pots. The target pot is excluded from andra, the others."
       field: Everyday speech
       concept: most
     - form: snem dan ul andra
       class: num
-      gloss: "least; less than every other member of the comparison set. Gnum hern hav snem vatna dan ul andra gnum: this pot has less water than all the other pots. The target pot is excluded from andra."
+      gloss: "least; less than every other member of the comparison set. Gnum hern hav
+        snem vatna dan ul andra gnum: this pot has less water than all the other
+        pots. The target pot is excluded from andra."
       field: Everyday speech
       concept: least
     - form: jalm
       class: adj
-      gloss: "equal; the same in number, measure or standing. Tvei gnum es jalm na vatna: the two pots are equal in their water quantity."
+      gloss: "equal; the same in number, measure or standing. Tvei gnum es jalm na
+        vatna: the two pots are equal in their water quantity."
       field: Everyday speech
       concept: equal
     - form: hveri
       class: num
-      gloss: "each; every member considered separately. Hveri gnum hav vatna: each pot contains water."
+      gloss: "each; every member considered separately. Hveri gnum hav vatna: each pot
+        contains water."
       field: Everyday speech
       concept: each
     - form: tvem
@@ -3136,32 +3204,40 @@ data:
       concept: both
     - form: eiv na tvem
       class: num
-      gloss: "either one of the two; one selected from that pair. Nod eiv na tvem gnum: give either of the two pots."
+      gloss: "either one of the two; one selected from that pair. Nod eiv na tvem
+        gnum: give either of the two pots."
       field: Everyday speech
       concept: either
     - form: tvem nel
       class: num
-      gloss: "neither of the two; zero selected from that pair. Tvem nel gnum es vati: neither pot is wet. This fixed quantifier precedes the counted noun."
+      gloss: "neither of the two; zero selected from that pair. Tvem nel gnum es vati:
+        neither pot is wet. This fixed quantifier precedes the counted noun."
       field: Everyday speech
       concept: neither
     - form: nari
       class: adv
-      gloss: "about; approximately, before a quantity. Nari dek gnum es inn: about ten pots are inside."
+      gloss: "about; approximately, before a quantity. Nari dek gnum es inn: about ten
+        pots are inside."
       field: Everyday speech
       concept: about
     - form: ner nifra
       class: adv
-      gloss: "almost; just short of the stated quantity or completion, literally near below. Ner nifra dek gnum es inn: almost ten pots are inside, with the count still below ten."
+      gloss: "almost; just short of the stated quantity or completion, literally near
+        below. Ner nifra dek gnum es inn: almost ten pots are inside, with the
+        count still below ten."
       field: Everyday speech
       concept: almost
     - form: jalmri
       class: adv
-      gloss: "exactly; precisely at the stated number or measure. Jalmri dek gnum: exactly ten pots."
+      gloss: "exactly; precisely at the stated number or measure. Jalmri dek gnum:
+        exactly ten pots."
       field: Everyday speech
       concept: exactly
     - form: tavra
       class: n
-      gloss: "a number or amount; a counted or measured quantity. Tavra na gnum es dek: the number of pots is ten; tavra na vatna es tvei skulma: the amount of water is two cups."
+      gloss: "a number or amount; a counted or measured quantity. Tavra na gnum es
+        dek: the number of pots is ten; tavra na vatna es tvei skulma: the
+        amount of water is two cups."
       field: Everyday speech
       concept: [number, amount]
     - form: tavr
@@ -3171,7 +3247,8 @@ data:
       concept: count-verb
     - form: metra
       class: v
-      gloss: "to measure a quantity, length or other dimension. Ir metra vatna miv skulma: I measure the water with a cup."
+      gloss: "to measure a quantity, length or other dimension. Ir metra vatna miv
+        skulma: I measure the water with a cup."
       field: Everyday speech
       concept: measure-verb
     - form: svarti
@@ -3202,7 +3279,8 @@ data:
       concept: pale
     - form: skelmi
       class: adj
-      gloss: clear in appearance; distinct and easy to discern, as a clean outline or plainly visible mark
+      gloss: clear in appearance; distinct and easy to discern, as a clean outline or
+        plainly visible mark
       field: Everyday speech
       concept: clear-appearance
     - form: skelgrin
@@ -3242,22 +3320,27 @@ data:
       concept: striped
     - form: nem
       class: v
-      gloss: "to take; to receive, including catching an offered or thrown object before it falls. Ir nem skulma: I take the cup; ir nem skulma inn thilv: I catch the cup in the air."
+      gloss: "to take; to receive, including catching an offered or thrown object
+        before it falls. Ir nem skulma: I take the cup; ir nem skulma inn thilv:
+        I catch the cup in the air."
       field: Everyday speech
       concept: [take, catch]
     - form: smiv
       class: v
-      gloss: "to make; to do; to create something. Ir smiv tavla: I make a table; ir smiv ji: I do the work."
+      gloss: "to make; to do; to create something. Ir smiv tavla: I make a table; ir
+        smiv ji: I do the work."
       field: Everyday speech
       concept: [make, do, create]
     - form: marl
       class: v
-      gloss: "to say; to speak; to tell someone a matter. Ir marl tiv thuv: I speak to you; ir marl relth tiv thuv: I tell you a tale."
+      gloss: "to say; to speak; to tell someone a matter. Ir marl tiv thuv: I speak to
+        you; ir marl relth tiv thuv: I tell you a tale."
       field: Everyday speech
       concept: [say, speak, tell]
     - form: hugni
-      class: v
-      gloss: "to know a person, fact or practice. Ir hugni thuv: I know you."
+      class: v/adj
+      gloss: "to know a person, fact or practice. Ir hugni thuv: I know you.; also,
+        known"
       field: Everyday speech
       concept: know
     - form: hugda
@@ -3267,7 +3350,8 @@ data:
       concept: think
     - form: vril
       class: v
-      gloss: "to want; to wish for a person, thing or outcome. Ir vril vatna: I want water."
+      gloss: "to want; to wish for a person, thing or outcome. Ir vril vatna: I want
+        water."
       field: Everyday speech
       concept: [want, wish-verb]
     - { form: livna, class: v, gloss: to live; to be alive, field: Everyday speech, concept: live }
@@ -3303,17 +3387,21 @@ data:
       concept: hold
     - form: berna
       class: v
-      gloss: "to bring; to carry or lead something toward the speaker or a stated destination adopted as the viewpoint. Ir berna gnum tiv thuv: I bring the pot to you."
+      gloss: "to bring; to carry or lead something toward the speaker or a stated
+        destination adopted as the viewpoint. Ir berna gnum tiv thuv: I bring
+        the pot to you."
       field: Everyday speech
       concept: bring
     - form: legva
       class: v
-      gloss: "to put; to set someone or something in a place. Ir legva gnum at tavla: I put the pot at the table."
+      gloss: "to put; to set someone or something in a place. Ir legva gnum at tavla:
+        I put the pot at the table."
       field: Everyday speech
       concept: put
     - form: finva
       class: v
-      gloss: to find; to discover or come upon something sought or previously unnoticed
+      gloss: to find; to discover or come upon something sought or previously
+        unnoticed
       field: Everyday speech
       concept: find
     - form: glis
@@ -3328,7 +3416,8 @@ data:
       concept: open
     - form: lork
       class: v
-      gloss: "to close an opening or container; to end an activity. Ir lork dverna: I close the door; relth lork: the tale ends."
+      gloss: "to close an opening or container; to end an activity. Ir lork dverna: I
+        close the door; relth lork: the tale ends."
       field: Everyday speech
       concept: [close, end]
     - form: kinda
@@ -3338,12 +3427,14 @@ data:
       concept: begin
     - form: es na ir
       class: v
-      gloss: "to belong to me. Gnum es na ir: the pot belongs to me; replace ir with another possessor to name whose it is."
+      gloss: "to belong to me. Gnum es na ir: the pot belongs to me; replace ir with
+        another possessor to name whose it is."
       field: Everyday speech
       concept: belong
     - form: vendri
       class: v
-      gloss: "to become; to change into a new state. Vatna vendri isva: the water becomes ice."
+      gloss: "to become; to change into a new state. Vatna vendri isva: the water
+        becomes ice."
       field: Everyday speech
       concept: [become, change-verb]
     - form: stavi
@@ -3353,12 +3444,14 @@ data:
       concept: remain
     - form: farna
       class: v
-      gloss: "to leave; to depart from a place or person. Ir farna heimla: I leave the house."
+      gloss: "to leave; to depart from a place or person. Ir farna heimla: I leave the
+        house."
       field: Everyday speech
       concept: leave
     - form: komri
       class: v
-      gloss: "to come; to arrive at the speaker's place or a stated destination. Ir komri tiv heimla: I arrive at the house."
+      gloss: "to come; to arrive at the speaker's place or a stated destination. Ir
+        komri tiv heimla: I arrive at the house."
       field: Everyday speech
       concept: [come, arrive]
     - form: krul
@@ -3398,7 +3491,8 @@ data:
       concept: exit
     - form: komri bak
       class: v
-      gloss: "to return; to come back. Ir komri bak tiv heimla: I return to the house."
+      gloss: "to return; to come back. Ir komri bak tiv heimla: I return to the
+        house."
       field: Everyday speech
       concept: return
     - form: felga
@@ -3423,7 +3517,8 @@ data:
       concept: move
     - form: thriv
       class: v
-      gloss: to push; to apply force that moves something away from the point of pressure
+      gloss: to push; to apply force that moves something away from the point of
+        pressure
       field: Everyday speech
       concept: push
     - form: drak
@@ -3443,22 +3538,28 @@ data:
       concept: drop
     - form: skralt
       class: v
-      gloss: to throw; to send something through the air by a movement of the hand or body
+      gloss: to throw; to send something through the air by a movement of the hand or
+        body
       field: Everyday speech
       concept: throw
     - form: smiv heimla
       class: v
-      gloss: "to build a house; to make a structure by joining materials. Ir smiv heimla: I build a house; heimla may be replaced by the structure being built."
+      gloss: "to build a house; to make a structure by joining materials. Ir smiv
+        heimla: I build a house; heimla may be replaced by the structure being
+        built."
       field: Everyday speech
       concept: build
     - form: brak
       class: v
-      gloss: to break; to divide or damage something so that it no longer holds together or works
+      gloss: to break; to divide or damage something so that it no longer holds
+        together or works
       field: Everyday speech
       concept: break
     - form: brak helm
       class: v
-      gloss: "to destroy; to break something completely beyond its continued use. Ir brak gnum helm: I destroy the pot. Helm follows brak in this fixed complete-destruction predicate."
+      gloss: "to destroy; to break something completely beyond its continued use. Ir
+        brak gnum helm: I destroy the pot. Helm follows brak in this fixed
+        complete-destruction predicate."
       field: Everyday speech
       concept: destroy
     - form: smurna
@@ -3478,17 +3579,20 @@ data:
       concept: answer
     - form: kallar
       class: v
-      gloss: "to call; to summon someone or hail them by voice. Ir kallar thuv: I call you."
+      gloss: "to call; to summon someone or hail them by voice. Ir kallar thuv: I call
+        you."
       field: Everyday speech
       concept: call
     - form: marl skrang
       class: v
-      gloss: "to shout; to speak in a loud voice. Ir marl skrang: I shout. Skrang follows the speaking verb in this fixed manner citation."
+      gloss: "to shout; to speak in a loud voice. Ir marl skrang: I shout. Skrang
+        follows the speaking verb in this fixed manner citation."
       field: Everyday speech
       concept: shout
     - form: hlusmarl
       class: v
-      gloss: to whisper; to speak softly with unvoiced breath rather than an ordinary voiced murmur
+      gloss: to whisper; to speak softly with unvoiced breath rather than an ordinary
+        voiced murmur
       field: Everyday speech
       concept: whisper
     - form: skelma
@@ -3512,8 +3616,9 @@ data:
       field: Everyday speech
       concept: understand
     - form: minva
-      class: v
-      gloss: to remember; to bring or keep something in memory
+      class: v/n
+      gloss: to remember; to bring or keep something in memory; also, memory,
+        remembering
       field: Everyday speech
       concept: remember
     - form: minlos
@@ -3538,7 +3643,8 @@ data:
       concept: [decide, choose]
     - form: hugskensa
       class: v
-      gloss: to imagine; to form a mental picture or conception of something absent or not actual
+      gloss: to imagine; to form a mental picture or conception of something absent or
+        not actual
       field: Everyday speech
       concept: imagine
     - form: tharf
@@ -3553,12 +3659,15 @@ data:
       concept: hope-verb
     - form: forhug
       class: v/n
-      gloss: to intend; to have a purpose of acting in a stated way; also, intention or purpose
+      gloss: to intend; to have a purpose of acting in a stated way; also, intention
+        or purpose
       field: Everyday speech
       concept: intend
     - form: velna fror
       class: v
-      gloss: "to prefer; to choose one thing ahead of another. Ir velna vatna fror snul: I prefer water to another drink. Fror follows the chosen object and introduces what is passed over."
+      gloss: "to prefer; to choose one thing ahead of another. Ir velna vatna fror
+        snul: I prefer water to another drink. Fror follows the chosen object
+        and introduces what is passed over."
       field: Everyday speech
       concept: prefer
     - form: pruva
@@ -3578,7 +3687,8 @@ data:
       concept: meet
     - form: helma
       class: v
-      gloss: to help; to give support that assists someone in an act or difficulty Said as an urgent call, helma means help!
+      gloss: to help; to give support that assists someone in an act or difficulty
+        Said as an urgent call, helma means help!
       field: Everyday speech
       concept: [help, expression-help]
     - form: skelna
@@ -3613,7 +3723,8 @@ data:
       concept: thank-verb
     - form: frask
       class: v
-      gloss: to forgive; to release resentment or a claim to punish someone for a wrong
+      gloss: to forgive; to release resentment or a claim to punish someone for a
+        wrong
       field: Everyday speech
       concept: forgive-verb
     - form: nefra
@@ -3647,8 +3758,8 @@ data:
       field: Everyday speech
       concept: defend
     - form: atvig
-      class: v
-      gloss: to attack; to begin hostile force against a target
+      class: v/n
+      gloss: to attack; to begin hostile force against a target; also, sea raid
       field: Everyday speech
       concept: attack
     - form: hrosfar
@@ -3663,7 +3774,8 @@ data:
       concept: threaten
     - form: stap
       class: v
-      gloss: to stop; to cease an activity or bring it to a halt Said as a command, stap means stop!
+      gloss: to stop; to cease an activity or bring it to a halt Said as a command,
+        stap means stop!
       field: Everyday speech
       concept: [stop, expression-stop]
     - form: framna
@@ -3673,7 +3785,8 @@ data:
       concept: continue
     - form: vindri
       class: v
-      gloss: to wait; to remain until an expected person, event or time Said as a call, vindri means wait!
+      gloss: to wait; to remain until an expected person, event or time Said as a
+        call, vindri means wait!
       field: Everyday speech
       concept: [wait, expression-wait]
     - form: renva
@@ -3703,7 +3816,8 @@ data:
       concept: cover-verb
     - form: hulda ut
       class: v
-      gloss: "to uncover; to take a covering off. Ir hulda ut gnum: I uncover the pot. Hulda ut is the fixed removal-of-covering verb expression."
+      gloss: "to uncover; to take a covering off. Ir hulda ut gnum: I uncover the pot.
+        Hulda ut is the fixed removal-of-covering verb expression."
       field: Everyday speech
       concept: uncover
     - form: felna
@@ -3748,17 +3862,20 @@ data:
       concept: nowhere
     - form: ul sta
       class: n
-      gloss: "everywhere; all places in the stated area. Ul sta hav vatna: everywhere has water."
+      gloss: "everywhere; all places in the stated area. Ul sta hav vatna: everywhere
+        has water."
       field: Everyday speech
       concept: everywhere
     - form: ner
       class: part
-      gloss: "near; at a short distance from the following place or object. Gnum es ner tavla: the pot is near the table."
+      gloss: "near; at a short distance from the following place or object. Gnum es
+        ner tavla: the pot is near the table."
       field: Everyday speech
       concept: near
     - form: farn
       class: adv
-      gloss: "far; at a great distance. Heimla es farn: the house is far away; farn af heimla, far from the house."
+      gloss: "far; at a great distance. Heimla es farn: the house is far away; farn af
+        heimla, far from the house."
       field: Everyday speech
       concept: far
     - form: siv
@@ -3768,37 +3885,46 @@ data:
       concept: beside
     - form: tvern
       class: part
-      gloss: "between; in the interval separating two stated things. Gnum es tvern tavla ok sveld: the pot is between the table and the seat."
+      gloss: "between; in the interval separating two stated things. Gnum es tvern
+        tavla ok sveld: the pot is between the table and the seat."
       field: Everyday speech
       concept: between
     - form: salm
       class: part
-      gloss: "among; within a group or set. Gnum es salm andra gnum: the pot is among other pots."
+      gloss: "among; within a group or set. Gnum es salm andra gnum: the pot is among
+        other pots."
       field: Everyday speech
       concept: among
     - form: hupra
       class: part
-      gloss: "above; over; higher than the stated object, with or without contact. Skernhul es hupra tavla: the window is above the table; flurva gang hupra heimla: a bird goes over the house."
+      gloss: "above; over; higher than the stated object, with or without contact.
+        Skernhul es hupra tavla: the window is above the table; flurva gang
+        hupra heimla: a bird goes over the house."
       field: Everyday speech
       concept: [above, over]
     - form: nifra
       class: part
-      gloss: "below; under; lower than the stated object. Gnum es nifra tavla: the pot is under the table."
+      gloss: "below; under; lower than the stated object. Gnum es nifra tavla: the pot
+        is under the table."
       field: Everyday speech
       concept: [below, under]
     - form: farn af
       class: part
-      gloss: "beyond; farther along than the stated boundary or reference. Heimla es farn af hrend: the house is beyond the boundary marker. This fixed route relation uses the marker as the point passed."
+      gloss: "beyond; farther along than the stated boundary or reference. Heimla es
+        farn af hrend: the house is beyond the boundary marker. This fixed route
+        relation uses the marker as the point passed."
       field: Everyday speech
       concept: beyond
     - form: fralm
       class: part
-      gloss: "before; in front of a stated person or thing. Gnum es fralm tavla: the pot is in front of the table."
+      gloss: "before; in front of a stated person or thing. Gnum es fralm tavla: the
+        pot is in front of the table."
       field: Everyday speech
       concept: before-spatial
     - form: bast
       class: part
-      gloss: "behind; at the rear of a stated person or thing. Gnum es bast tavla: the pot is behind the table."
+      gloss: "behind; at the rear of a stated person or thing. Gnum es bast tavla: the
+        pot is behind the table."
       field: Everyday speech
       concept: behind
     - form: lev
@@ -3833,32 +3959,38 @@ data:
       concept: forward
     - form: af herni
       class: part
-      gloss: "away; from here or from the context's point of reference. Ir gang af herni: I go away."
+      gloss: "away; from here or from the context's point of reference. Ir gang af
+        herni: I go away."
       field: Everyday speech
       concept: away
     - form: thru
       class: part
-      gloss: "through; entering and passing inside a place or opening. Ir gang thru dverna: I go through the doorway."
+      gloss: "through; entering and passing inside a place or opening. Ir gang thru
+        dverna: I go through the doorway."
       field: Everyday speech
       concept: through
     - form: tvar
       class: part
-      gloss: "across; from one side to the other of a stated place. Ir gang tvar vangri: I go across the field."
+      gloss: "across; from one side to the other of a stated place. Ir gang tvar
+        vangri: I go across the field."
       field: Everyday speech
       concept: across
     - form: rund
       class: part
-      gloss: "around; along the outside of a stated object or place. Ir gang rund heimla: I go around the house."
+      gloss: "around; along the outside of a stated object or place. Ir gang rund
+        heimla: I go around the house."
       field: Everyday speech
       concept: around
     - form: or
       class: part
-      gloss: "on; upon a supporting surface. Gnum es or tavla: the pot is on the table."
+      gloss: "on; upon a supporting surface. Gnum es or tavla: the pot is on the
+        table."
       field: Everyday speech
       concept: on
     - form: af
       class: part
-      gloss: "from; away out of a stated source. Ir komri af heimla: I come from the house."
+      gloss: "from; away out of a stated source. Ir komri af heimla: I come from the
+        house."
       field: Everyday speech
       concept: from
     - form: sta
@@ -3963,32 +4095,40 @@ data:
       concept: future
     - form: fror dvern
       class: part
-      gloss: "before a birth; before a stated event. Ir komri fror dvern: I arrive before the birth. Replace dvern with another event or time to state the reference."
+      gloss: "before a birth; before a stated event. Ir komri fror dvern: I arrive
+        before the birth. Replace dvern with another event or time to state the
+        reference."
       field: Everyday speech
       concept: before-time
     - form: nath dvern
       class: part
-      gloss: "after a birth; after a stated event. Ir komri nath dvern: I arrive after the birth. Replace dvern with the event or time meant."
+      gloss: "after a birth; after a stated event. Ir komri nath dvern: I arrive after
+        the birth. Replace dvern with the event or time meant."
       field: Everyday speech
       concept: after
     - form: inn dvern
       class: part
-      gloss: "during a birth; within the duration of a stated event. Ir vindri inn dvern: I wait during the birth."
+      gloss: "during a birth; within the duration of a stated event. Ir vindri inn
+        dvern: I wait during the birth."
       field: Everyday speech
       concept: during
     - form: inn melma na ir
       class: part
-      gloss: "while I eat; during my eating. Ir hlusta inn melma na ir: I listen while I eat. Replace ir after na with the person whose eating overlaps the listening."
+      gloss: "while I eat; during my eating. Ir hlusta inn melma na ir: I listen while
+        I eat. Replace ir after na with the person whose eating overlaps the
+        listening."
       field: Everyday speech
       concept: while
     - form: tiv dvern
       class: part
-      gloss: "until the birth; up to a stated time or event. Ir vindri tiv dvern: I wait until the birth."
+      gloss: "until the birth; up to a stated time or event. Ir vindri tiv dvern: I
+        wait until the birth."
       field: Everyday speech
       concept: until
     - form: af dvern
       class: part
-      gloss: "since the birth; from a stated time or event onward. Ir es herni af dvern: I have been here since the birth."
+      gloss: "since the birth; from a stated time or event onward. Ir es herni af
+        dvern: I have been here since the birth."
       field: Everyday speech
       concept: since-time
     - form: ul thima
@@ -4028,7 +4168,8 @@ data:
       concept: [short-duration, brief-duration]
     - form: genda
       class: adv
-      gloss: again; one more time Said alone as a request, genda means again; please repeat it.
+      gloss: again; one more time Said alone as a request, genda means again; please
+        repeat it.
       field: Everyday speech
       concept: [again, expression-again]
     - form: eiv renma
@@ -4043,27 +4184,32 @@ data:
       concept: twice
     - form: plem genda
       class: adv
-      gloss: "repeatedly; again many times. Ir komri plem genda: I come repeatedly. This is the fixed many-times repetition phrase."
+      gloss: "repeatedly; again many times. Ir komri plem genda: I come repeatedly.
+        This is the fixed many-times repetition phrase."
       field: Everyday speech
       concept: repeatedly
     - form: neng
       class: adv
-      gloss: "already; before now or before the expected reference time. Ir es herni neng: I am already here."
+      gloss: "already; before now or before the expected reference time. Ir es herni
+        neng: I am already here."
       field: Everyday speech
       concept: already
     - form: buen
       class: adv
-      gloss: "still; continuing through the reference time. Ir vindri buen: I am still waiting."
+      gloss: "still; continuing through the reference time. Ir vindri buen: I am still
+        waiting."
       field: Everyday speech
       concept: still
     - form: nel neng
       class: adv
-      gloss: "not yet; the act has not occurred by the reference time. Ir nel komri neng: I have not come yet."
+      gloss: "not yet; the act has not occurred by the reference time. Ir nel komri
+        neng: I have not come yet."
       field: Everyday speech
       concept: yet
     - form: snatri
       class: adv
-      gloss: "soon; after only a short interval from the reference time. Ir komri snatri: I come soon."
+      gloss: "soon; after only a short interval from the reference time. Ir komri
+        snatri: I come soon."
       field: Everyday speech
       concept: soon
     - form: nathri
@@ -4083,7 +4229,8 @@ data:
       concept: late
     - form: fror ul andra renma
       class: part
-      gloss: "first; before every other event in the sequence. Ir mel fror ul andra renma: I eat first, before the other events."
+      gloss: "first; before every other event in the sequence. Ir mel fror ul andra
+        renma: I eat first, before the other events."
       field: Everyday speech
       concept: first-sequence
     - form: nasti
@@ -4092,13 +4239,14 @@ data:
       field: Everyday speech
       concept: next
     - form: lest
-      class: adj
-      gloss: last; coming after all the others in a sequence
+      class: adj/adverb
+      gloss: last; coming after all the others in a sequence; also, last
       field: Everyday speech
       concept: last
     - form: at lorka
       class: part
-      gloss: "finally; at the end of the sequence or after waiting. Ir komri at lorka: I finally arrive."
+      gloss: "finally; at the end of the sequence or after waiting. Ir komri at lorka:
+        I finally arrive."
       field: Everyday speech
       concept: finally
     - form: arva
@@ -4124,7 +4272,8 @@ data:
       concept: dusk
     - form: na ir
       class: part
-      gloss: "my; mine; belonging to the speaker. Gnum na ir: my pot; gnum es na ir: the pot is mine."
+      gloss: "my; mine; belonging to the speaker. Gnum na ir: my pot; gnum es na ir:
+        the pot is mine."
       field: Everyday speech
       concept: my
     - form: na thuv
@@ -4159,7 +4308,8 @@ data:
       concept: we
     - form: na vri
       class: part
-      gloss: "our; ours; belonging to the speaker and others. Heimla na vri: our house."
+      gloss: "our; ours; belonging to the speaker and others. Heimla na vri: our
+        house."
       field: Everyday speech
       concept: our
     - form: than
@@ -4174,7 +4324,8 @@ data:
       concept: these
     - form: thana
       class: dem
-      gloss: "those; the farther or previously indicated things. Gnum thana: those pots."
+      gloss: "those; the farther or previously indicated things. Gnum thana: those
+        pots."
       field: Everyday speech
       concept: those
     - form: sumri mannva
@@ -4184,12 +4335,14 @@ data:
       concept: someone
     - form: velri mannva
       class: n
-      gloss: "anyone; any person without restricting who. Velri mannva kan komri: anyone can come."
+      gloss: "anyone; any person without restricting who. Velri mannva kan komri:
+        anyone can come."
       field: Everyday speech
       concept: anyone
     - form: ul mannva
       class: n
-      gloss: "everyone; all the people in the stated context. Ul mannva komri: everyone comes."
+      gloss: "everyone; all the people in the stated context. Ul mannva komri:
+        everyone comes."
       field: Everyday speech
       concept: everyone
     - form: noll mannva
@@ -4204,17 +4357,20 @@ data:
       concept: something
     - form: velri dingi
       class: n
-      gloss: "anything; any thing without restricting which. Ir kan smiv velri dingi: I can make anything."
+      gloss: "anything; any thing without restricting which. Ir kan smiv velri dingi:
+        I can make anything."
       field: Everyday speech
       concept: anything
     - form: ul dingi
       class: n
-      gloss: "everything; all things in the stated context. Ul dingi es herni: everything is here."
+      gloss: "everything; all things in the stated context. Ul dingi es herni:
+        everything is here."
       field: Everyday speech
       concept: everything
     - form: sjel
       class: pron
-      gloss: "self; oneself; the object refers back to the clause's subject. Ir sken sjel: I see myself; henva sken sjel: she sees herself."
+      gloss: "self; oneself; the object refers back to the clause's subject. Ir sken
+        sjel: I see myself; henva sken sjel: she sees herself."
       field: Everyday speech
       concept: self
     - form: andir
@@ -4234,12 +4390,14 @@ data:
       concept: question-who
     - form: hnat
       class: pron
-      gloss: "what; the unknown thing in a question. Hnat falna: what falls? Said alone, hnat asks what was said or expresses surprise: what?"
+      gloss: "what; the unknown thing in a question. Hnat falna: what falls? Said
+        alone, hnat asks what was said or expresses surprise: what?"
       field: Everyday speech
       concept: [question-what, expression-what]
     - form: hnir
       class: dem
-      gloss: "which; selecting from a stated set. Hnir gnum hav vatna: which pot has water?"
+      gloss: "which; selecting from a stated set. Hnir gnum hav vatna: which pot has
+        water?"
       field: Everyday speech
       concept: question-which
     - form: hvarv
@@ -4264,12 +4422,14 @@ data:
       concept: question-how
     - form: tavra na gnum es hnat
       class: call
-      gloss: how many pots are there? Literally the number of pots is what; replace gnum with the things being counted.
+      gloss: how many pots are there? Literally the number of pots is what; replace
+        gnum with the things being counted.
       field: Everyday speech
       concept: question-how-many
     - form: tavra na vatna es hnat
       class: call
-      gloss: how much water is there? Literally the amount of water is what; replace vatna with the substance being measured.
+      gloss: how much water is there? Literally the amount of water is what; replace
+        vatna with the substance being measured.
       field: Everyday speech
       concept: question-how-much
     - form: na hverv
@@ -4289,17 +4449,20 @@ data:
       concept: question-from-where
     - form: firn hnat
       class: part
-      gloss: "for what purpose. Thuv smiv gnum firn hnat: for what purpose do you make the pot?"
+      gloss: "for what purpose. Thuv smiv gnum firn hnat: for what purpose do you make
+        the pot?"
       field: Everyday speech
       concept: question-for-what-purpose
     - form: va
       class: part
-      gloss: "question particle after a clause; asks for confirmation or denial. Thuv komri va: are you coming?"
+      gloss: "question particle after a clause; asks for confirmation or denial. Thuv
+        komri va: are you coming?"
       field: Everyday speech
       concept: question-polar
     - form: hnat thuv menra
       class: call
-      gloss: what do you mean; what meaning do you intend? Hnat thuv menra asks the speaker to clarify the meaning of their words.
+      gloss: what do you mean; what meaning do you intend? Hnat thuv menra asks the
+        speaker to clarify the meaning of their words.
       field: Everyday speech
       concept: [question-clarification, expression-what-do-you-mean]
     - form: ja
@@ -4314,7 +4477,8 @@ data:
       concept: no
     - form: sannri
       class: adj
-      gloss: true; real; corresponding to what actually is the case. A sannri claim can be doubted; certainty alone does not make it true.
+      gloss: true; real; corresponding to what actually is the case. A sannri claim
+        can be doubted; certainty alone does not make it true.
       field: Everyday speech
       concept: ["true", real]
     - form: nel sannri
@@ -4329,37 +4493,45 @@ data:
       concept: truth
     - form: svikmarl
       class: n
-      gloss: a lie; a statement made with the intention of deceiving someone about what is true
+      gloss: a lie; a statement made with the intention of deceiving someone about
+        what is true
       field: Everyday speech
       concept: lie-noun
     - form: sannri na hugma
       class: adv
-      gloss: "really; truly; genuinely; said to affirm the sincerity of one's words. Sannri na hugma, ir vril helma: truly, I want to help. This fixed assertion formula means true from the mind."
+      gloss: "really; truly; genuinely; said to affirm the sincerity of one's words.
+        Sannri na hugma, ir vril helma: truly, I want to help. This fixed
+        assertion formula means true from the mind."
       field: Everyday speech
       concept: sincerity
     - form: sanva
       class: part
-      gloss: "indeed; in fact; affirms the reality of what is asserted. Sanva, vatna es svul: indeed, the water is cold."
+      gloss: "indeed; in fact; affirms the reality of what is asserted. Sanva, vatna
+        es svul: indeed, the water is cold."
       field: Everyday speech
       concept: [indeed, in-fact]
     - form: steldri
       class: adv
-      gloss: "certainly; with the speaker's full conviction. Steldri, hanv komri: certainly, he is coming. The speaker's confidence may be mistaken."
+      gloss: "certainly; with the speaker's full conviction. Steldri, hanv komri:
+        certainly, he is coming. The speaker's confidence may be mistaken."
       field: Everyday speech
       concept: certainly
     - form: mavra
       class: adv
-      gloss: "perhaps; might; presents an event as possible rather than certain. Hanv komri mavra: he might come."
+      gloss: "perhaps; might; presents an event as possible rather than certain. Hanv
+        komri mavra: he might come."
       field: Everyday speech
       concept: [perhaps, might-possibility]
     - form: likri
       class: adv
-      gloss: "probably; the event is judged more likely than not. Hanv komri likri: he will probably come."
+      gloss: "probably; the event is judged more likely than not. Hanv komri likri: he
+        will probably come."
       field: Everyday speech
       concept: probably
     - form: nel likri
       class: adv
-      gloss: "unlikely; the event is judged less likely than not. Hanv komri nel likri: he is unlikely to come."
+      gloss: "unlikely; the event is judged less likely than not. Hanv komri nel
+        likri: he is unlikely to come."
       field: Everyday speech
       concept: unlikely
     - form: hav steldi
@@ -4374,12 +4546,14 @@ data:
       concept: uncertain
     - form: skensri
       class: adv
-      gloss: "apparently; on the evidence of appearances. Hanv es folmi skensri: apparently, he is ill."
+      gloss: "apparently; on the evidence of appearances. Hanv es folmi skensri:
+        apparently, he is ill."
       field: Everyday speech
       concept: apparently
     - form: marlri
       class: adv
-      gloss: "supposedly; according to what someone says, without the speaker's endorsement. Hanv es folmi marlri: supposedly, he is ill."
+      gloss: "supposedly; according to what someone says, without the speaker's
+        endorsement. Hanv es folmi marlri: supposedly, he is ill."
       field: Everyday speech
       concept: supposedly
     - form: thrum
@@ -4389,7 +4563,9 @@ data:
       concept: doubt-verb
     - form: skenhug
       class: v
-      gloss: "to suspect; to consider a claim possible on limited indications. Ir skenhug regva nathri: I suspect rain later; the suspected matter can be welcome, unwelcome or neutral."
+      gloss: "to suspect; to consider a claim possible on limited indications. Ir
+        skenhug regva nathri: I suspect rain later; the suspected matter can be
+        welcome, unwelcome or neutral."
       field: Everyday speech
       concept: suspect
     - form: ramna
@@ -4414,12 +4590,14 @@ data:
       concept: incorrect
     - form: nel samna
       class: v
-      gloss: "to disagree; not to accept another's claim or choice. Ir nel samna miv thuv: I disagree with you."
+      gloss: "to disagree; not to accept another's claim or choice. Ir nel samna miv
+        thuv: I disagree with you."
       field: Everyday speech
       concept: disagree
     - form: nel sannri marlma
       class: n
-      gloss: a falsehood; an untrue statement, whether deliberately deceptive or mistaken
+      gloss: a falsehood; an untrue statement, whether deliberately deceptive or
+        mistaken
       field: Everyday speech
       concept: falsehood
     - form: ur
@@ -4429,112 +4607,138 @@ data:
       concept: or
     - form: ak
       class: conj
-      gloss: "but; however; nevertheless; joins a contrasting continuation. Ir es hvelda ak ir gang: I am tired, but I go."
+      gloss: "but; however; nevertheless; joins a contrasting continuation. Ir es
+        hvelda ak ir gang: I am tired, but I go."
       field: Everyday speech
       concept: [but, however, nevertheless]
     - form: nel vatna ur melva
       class: conj
-      gloss: "neither water nor food; denies both alternatives. Ir vril nel vatna ur melva: I want neither water nor food. The two nouns may be replaced by the alternatives being denied."
+      gloss: "neither water nor food; denies both alternatives. Ir vril nel vatna ur
+        melva: I want neither water nor food. The two nouns may be replaced by
+        the alternatives being denied."
       field: Everyday speech
       concept: nor
     - form: darn
       class: conj
-      gloss: "because; introduces the reason for an assertion. Ir snuld darn ir hav snulgri: I drink because I am thirsty."
+      gloss: "because; introduces the reason for an assertion. Ir snuld darn ir hav
+        snulgri: I drink because I am thirsty."
       field: Everyday speech
       concept: because
     - form: darni
       class: conj
-      gloss: "therefore; the following clause is a consequence. Ir hav snulgri; darni ir snuld: I am thirsty; therefore I drink."
+      gloss: "therefore; the following clause is a consequence. Ir hav snulgri; darni
+        ir snuld: I am thirsty; therefore I drink."
       field: Everyday speech
       concept: therefore
     - form: iv
       class: conj
-      gloss: "if; introduces a condition. Iv regva renva, ir stavi inn: if rain comes, I stay inside."
+      gloss: "if; introduces a condition. Iv regva renva, ir stavi inn: if rain comes,
+        I stay inside."
       field: Everyday speech
       concept: if
     - form: so
       class: conj
-      gloss: "then; introduces the consequence of a condition. Iv regva renva, so ir stavi inn: if rain comes, then I stay inside."
+      gloss: "then; introduces the consequence of a condition. Iv regva renva, so ir
+        stavi inn: if rain comes, then I stay inside."
       field: Everyday speech
       concept: then-conditional
     - form: untri
       class: conj
-      gloss: "unless; the main clause applies if the stated exception does not occur. Untri thuv komri, ir gang: unless you come, I go."
+      gloss: "unless; the main clause applies if the stated exception does not occur.
+        Untri thuv komri, ir gang: unless you come, I go."
       field: Everyday speech
       concept: unless
     - form: ellis
       class: conj
-      gloss: "otherwise; if the preceding condition does not hold. Ir vindri iv thuv komri; ellis ir gang: I wait if you come; otherwise I go."
+      gloss: "otherwise; if the preceding condition does not hold. Ir vindri iv thuv
+        komri; ellis ir gang: I wait if you come; otherwise I go."
       field: Everyday speech
       concept: otherwise
     - form: altha
       class: conj
-      gloss: "although; introduces a conceded fact. Altha ir es hvelda, ir gang: although I am tired, I go."
+      gloss: "although; introduces a conceded fact. Altha ir es hvelda, ir gang:
+        although I am tired, I go."
       field: Everyday speech
       concept: although
     - form: miv altha
       class: part
-      gloss: "despite; even with the stated obstacle. Ir gang miv altha folm: I go despite sickness. Miv altha is the fixed relation introducing a conceded impediment."
+      gloss: "despite; even with the stated obstacle. Ir gang miv altha folm: I go
+        despite sickness. Miv altha is the fixed relation introducing a conceded
+        impediment."
       field: Everyday speech
       concept: despite
     - form: at sta na
       class: part
-      gloss: "instead of; in place of the following alternative. Ir nem vatna at sta na snul: I take water instead of the other drink."
+      gloss: "instead of; in place of the following alternative. Ir nem vatna at sta
+        na snul: I take water instead of the other drink."
       field: Everyday speech
       concept: instead
     - form: likva
       class: part
-      gloss: "like; as; in the manner or role of. Ir smiv likva lerdi: I work as a teacher; gnum es likva skulma: the pot is like a cup."
+      gloss: "like; as; in the manner or role of. Ir smiv likva lerdi: I work as a
+        teacher; gnum es likva skulma: the pot is like a cup."
       field: Everyday speech
       concept: [like, as]
     - form: nel likva
       class: part
-      gloss: "unlike; without the stated resemblance. Gnum es nel likva skulma: the pot is unlike a cup."
+      gloss: "unlike; without the stated resemblance. Gnum es nel likva skulma: the
+        pot is unlike a cup."
       field: Everyday speech
       concept: unlike
     - form: eika
       class: conj
-      gloss: "either; introduces the first of alternatives joined by ur. Eika vatna ur melva: either water or food."
+      gloss: "either; introduces the first of alternatives joined by ur. Eika vatna ur
+        melva: either water or food."
       field: Everyday speech
       concept: either-alternative
     - form: norka
       class: conj
-      gloss: "neither; introduces two alternatives both denied. Norka vatna ur melva es herni: neither water nor food is here."
+      gloss: "neither; introduces two alternatives both denied. Norka vatna ur melva
+        es herni: neither water nor food is here."
       field: Everyday speech
       concept: neither-alternative
     - form: tveka
       class: conj
-      gloss: "both; introduces two included alternatives joined by ok. Tveka vatna ok melva es herni: both water and food are here."
+      gloss: "both; introduces two included alternatives joined by ok. Tveka vatna ok
+        melva es herni: both water and food are here."
       field: Everyday speech
       concept: both-conjunction
     - form: vatha
       class: conj
-      gloss: "whether; introduces a polar matter being considered. Ir hugda vatha thuv komri: I consider whether you are coming. The considered subject is explicitly thuv, you."
+      gloss: "whether; introduces a polar matter being considered. Ir hugda vatha thuv
+        komri: I consider whether you are coming. The considered subject is
+        explicitly thuv, you."
       field: Everyday speech
       concept: whether
     - form: es marli
       class: part
-      gloss: "that is; namely; introduces a restatement or an explicit name. Ir vril eiv dingi, es marli vatna: I want one thing, namely water. Es marli is the fixed explanatory introduction, literally is said-out."
+      gloss: "that is; namely; introduces a restatement or an explicit name. Ir vril
+        eiv dingi, es marli vatna: I want one thing, namely water. Es marli is
+        the fixed explanatory introduction, literally is said-out."
       field: Everyday speech
       concept: [that-is, namely]
     - form: likva hern
       class: part
-      gloss: "for example; introduces a specimen. Plem dingi es vati, likva hern gnum: many things are wet, for example this pot."
+      gloss: "for example; introduces a specimen. Plem dingi es vati, likva hern gnum:
+        many things are wet, for example this pot."
       field: Everyday speech
       concept: for-example
     - form: utva
       class: part
-      gloss: "except; excluding the following member. Ul gnum es herni utva gnum than: all the pots are here except that pot."
+      gloss: "except; excluding the following member. Ul gnum es herni utva gnum than:
+        all the pots are here except that pot."
       field: Everyday speech
       concept: except
     - form: einri
       class: adv
-      gloss: "only; restricts the following constituent. Einri ir es herni: only I am here."
+      gloss: "only; restricts the following constituent. Einri ir es herni: only I am
+        here."
       field: Everyday speech
       concept: only
     - form: grent
       class: adv
-      gloss: "even; includes an unexpected case. Grent Hrug kan ler: even a thrall can learn."
+      gloss: "even; includes an unexpected case. Grent Hrug kan ler: even a thrall can
+        learn."
       field: Everyday speech
       concept: even
     - form: aukri
@@ -4544,7 +4748,8 @@ data:
       concept: also
     - form: serni
       class: adv
-      gloss: "especially; marks the case given particular weight. Ir vril melva, serni kernva: I want food, especially seeds."
+      gloss: "especially; marks the case given particular weight. Ir vril melva, serni
+        kernva: I want food, especially seeds."
       field: Everyday speech
       concept: especially
     - form: storg
@@ -4559,12 +4764,14 @@ data:
       concept: small
     - form: smol smol
       class: adj
-      gloss: tiny; very small. This repeated form is the fixed emphatic expression for a tiny size.
+      gloss: tiny; very small. This repeated form is the fixed emphatic expression for
+        a tiny size.
       field: Everyday speech
       concept: tiny
     - form: storg storg
       class: adj
-      gloss: huge; very large. This repeated form is the fixed emphatic expression for a huge size.
+      gloss: huge; very large. This repeated form is the fixed emphatic expression for
+        a huge size.
       field: Everyday speech
       concept: huge
     - form: skurt
@@ -4574,7 +4781,8 @@ data:
       concept: short
     - form: hurvi
       class: adj
-      gloss: high; tall; extending far upward or standing far above the reference level
+      gloss: high; tall; extending far upward or standing far above the reference
+        level
       field: Everyday speech
       concept: [high, tall]
     - form: lurvi
@@ -4634,32 +4842,39 @@ data:
       concept: difficult
     - form: hildi
       class: adj
-      gloss: good; desirable or beneficial in the relevant respect In an ethical judgment it means right; morally acceptable.
+      gloss: good; desirable or beneficial in the relevant respect In an ethical
+        judgment it means right; morally acceptable.
       field: Everyday speech
       concept: [good, right-ethical]
     - form: skadvi
       class: adj
-      gloss: bad; undesirable or harmful in the relevant respect In an ethical judgment it means wrong; morally unacceptable.
+      gloss: bad; undesirable or harmful in the relevant respect In an ethical
+        judgment it means wrong; morally unacceptable.
       field: Everyday speech
       concept: [bad, wrong-ethical]
     - form: hildri
       class: adj
-      gloss: "better; more good or beneficial than the comparison. Vatna es hildri dan snul: the water is better than the other drink."
+      gloss: "better; more good or beneficial than the comparison. Vatna es hildri dan
+        snul: the water is better than the other drink."
       field: Everyday speech
       concept: better
     - form: skadri
       class: adj
-      gloss: "worse; more bad or harmful than the comparison. Snul es skadri dan vatna: the drink is worse than the water."
+      gloss: "worse; more bad or harmful than the comparison. Snul es skadri dan
+        vatna: the drink is worse than the water."
       field: Everyday speech
       concept: worse
     - form: hildri dan ul andra
       class: adj
-      gloss: "best; better than every other member of the comparison set. Gnum hern es hildri dan ul andra gnum: this pot is better than all the other pots. Andra excludes this pot from the standards."
+      gloss: "best; better than every other member of the comparison set. Gnum hern es
+        hildri dan ul andra gnum: this pot is better than all the other pots.
+        Andra excludes this pot from the standards."
       field: Everyday speech
       concept: best
     - form: skadri dan ul andra
       class: adj
-      gloss: "worst; worse than every other member of the comparison set. Gnum hern es skadri dan ul andra gnum: this pot is worse than all the other pots."
+      gloss: "worst; worse than every other member of the comparison set. Gnum hern es
+        skadri dan ul andra gnum: this pot is worse than all the other pots."
       field: Everyday speech
       concept: worst
     - form: vekti
@@ -4669,7 +4884,8 @@ data:
       concept: important
     - form: smol vekti
       class: adj
-      gloss: trivial; of little significance. Smol vekti is a fixed low-importance description.
+      gloss: trivial; of little significance. Smol vekti is a fixed low-importance
+        description.
       field: Everyday speech
       concept: trivial
     - form: tharmi
@@ -4684,7 +4900,8 @@ data:
       concept: valuable
     - form: hav noll virdma
       class: v
-      gloss: "to be worthless; to have no worth in the stated respect. Gnum hav noll virdma: the pot has no worth."
+      gloss: "to be worthless; to have no worth in the stated respect. Gnum hav noll
+        virdma: the pot has no worth."
       field: Everyday speech
       concept: worthless
     - form: brukri
@@ -4724,37 +4941,44 @@ data:
       concept: dishonest
     - form: drav
       class: adv
-      gloss: "very; intensifies the following quality. Gnum es drav vati: the pot is very wet."
+      gloss: "very; intensifies the following quality. Gnum es drav vati: the pot is
+        very wet."
       field: Everyday speech
       concept: very
     - form: drumri
       class: adv
-      gloss: "extremely; to an exceptional degree. Vatna es drumri svul: the water is extremely cold."
+      gloss: "extremely; to an exceptional degree. Vatna es drumri svul: the water is
+        extremely cold."
       field: Everyday speech
       concept: extremely
     - form: sumva
       class: adv
-      gloss: "somewhat; to a moderate extent. Vatna es sumva svul: the water is somewhat cold."
+      gloss: "somewhat; to a moderate extent. Vatna es sumva svul: the water is
+        somewhat cold."
       field: Everyday speech
       concept: somewhat
     - form: smil
       class: adv
-      gloss: "slightly; to a small extent. Vatna es smil svul: the water is slightly cold."
+      gloss: "slightly; to a small extent. Vatna es smil svul: the water is slightly
+        cold."
       field: Everyday speech
       concept: slightly
     - form: mertni
       class: adv
-      gloss: "barely; only just reaching the required point or degree. Vatna es mertni thermi: the water is barely hot enough."
+      gloss: "barely; only just reaching the required point or degree. Vatna es mertni
+        thermi: the water is barely hot enough."
       field: Everyday speech
       concept: barely
     - form: plemir dan tharmet
       class: num
-      gloss: "too much; more than the needed quantity. Gnum hav plemir vatna dan tharmet: the pot has too much water for the stated purpose."
+      gloss: "too much; more than the needed quantity. Gnum hav plemir vatna dan
+        tharmet: the pot has too much water for the stated purpose."
       field: Everyday speech
       concept: too-much
     - form: snem dan tharmet
       class: num
-      gloss: "too little; less than the needed quantity. Gnum hav snem vatna dan tharmet: the pot has too little water for the stated purpose."
+      gloss: "too little; less than the needed quantity. Gnum hav snem vatna dan
+        tharmet: the pot has too little water for the stated purpose."
       field: Everyday speech
       concept: too-little
     - form: likni
@@ -4769,7 +4993,8 @@ data:
       concept: opposite
     - form: kan
       class: v
-      gloss: "can; be able to do something. Ir kan gang: I can walk. This verb names ability, not permission."
+      gloss: "can; be able to do something. Ir kan gang: I can walk. This verb names
+        ability, not permission."
       field: Everyday speech
       concept: can
     - form: nel kan
@@ -4789,22 +5014,26 @@ data:
       concept: impossible
     - form: hav luvma
       class: v
-      gloss: "to have permission to act. Ir hav luvma gang: I may go. Luvma gang is the cited permission-to-go expression, distinct from bodily ability."
+      gloss: "to have permission to act. Ir hav luvma gang: I may go. Luvma gang is
+        the cited permission-to-go expression, distinct from bodily ability."
       field: Everyday speech
       concept: may-permission
     - form: tharv
       class: v
-      gloss: "must; be obliged to perform the following act. Ir tharv gang: I must go."
+      gloss: "must; be obliged to perform the following act. Ir tharv gang: I must
+        go."
       field: Everyday speech
       concept: must
     - form: tharv nel
       class: v
-      gloss: "must not; be obliged to refrain from the following act. Ir tharv nel gang: I must not go."
+      gloss: "must not; be obliged to refrain from the following act. Ir tharv nel
+        gang: I must not go."
       field: Everyday speech
       concept: must-not
     - form: skurvi
       class: v
-      gloss: "ought; should; be advised by duty or good judgment to perform the act. Ir skurvi gang: I should go."
+      gloss: "ought; should; be advised by duty or good judgment to perform the act.
+        Ir skurvi gang: I should go."
       field: Everyday speech
       concept: ought
     - form: tharvi
@@ -4829,7 +5058,8 @@ data:
       concept: forbidden
     - form: luvra
       class: v
-      gloss: "to permit; to give someone permission to act. Ir luvra thuv gang: I permit you to go."
+      gloss: "to permit; to give someone permission to act. Ir luvra thuv gang: I
+        permit you to go."
       field: Everyday speech
       concept: permit
     - form: grinva
@@ -4884,7 +5114,8 @@ data:
       concept: expression-welcome
     - form: ir spurni
       class: call
-      gloss: "please; I ask; introduces a courteous request. Ir spurni, nod vatna: please give water."
+      gloss: "please; I ask; introduces a courteous request. Ir spurni, nod vatna:
+        please give water."
       field: Everyday speech
       concept: expression-please
     - form: ir threg thuv
@@ -4894,12 +5125,14 @@ data:
       concept: expression-thank-you
     - form: miv hleva
       class: call
-      gloss: you're welcome; gladly; a courteous response to thanks, literally with joy
+      gloss: you're welcome; gladly; a courteous response to thanks, literally with
+        joy
       field: Everyday speech
       concept: expression-youre-welcome
     - form: ir spurni luvma
       class: call
-      gloss: excuse me; I ask permission; said when requesting someone's attention or room to pass
+      gloss: excuse me; I ask permission; said when requesting someone's attention or
+        room to pass
       field: Everyday speech
       concept: expression-excuse-me
     - form: ir hav hnurva
@@ -4929,7 +5162,8 @@ data:
       concept: expression-go-away
     - form: marl genda
       class: call
-      gloss: pardon; say it again; a request to repeat speech that was not heard or understood
+      gloss: pardon; say it again; a request to repeat speech that was not heard or
+        understood
       field: Everyday speech
       concept: expression-pardon
     - form: ir hugskel
@@ -4944,22 +5178,26 @@ data:
       concept: expression-i-do-not-understand
     - form: hram thuv marl
       class: call
-      gloss: how do you say ...? A request for wording, followed by the meaning to express. Hram thuv marl melva asks how to say food.
+      gloss: how do you say ...? A request for wording, followed by the meaning to
+        express. Hram thuv marl melva asks how to say food.
       field: Everyday speech
       concept: expression-how-do-you-say
     - form: nafma na hern es hnat
       class: call
-      gloss: what is this called? Literally the name of this is what; said while indicating the thing to be named
+      gloss: what is this called? Literally the name of this is what; said while
+        indicating the thing to be named
       field: Everyday speech
       concept: expression-what-is-this-called
     - form: sanva va
       class: call
-      gloss: really? A surprised request to confirm that what was said is actually the case
+      gloss: really? A surprised request to confirm that what was said is actually the
+        case
       field: Everyday speech
       concept: expression-really
     - form: neiv noll
       class: call
-      gloss: not at all; an emphatic denial of the presence or degree just suggested, literally no, zero
+      gloss: not at all; an emphatic denial of the presence or degree just suggested,
+        literally no, zero
       field: Everyday speech
       concept: expression-not-at-all
     - form: mannvar
@@ -4979,12 +5217,14 @@ data:
       concept: woman
     - form: junva karnva
       class: n
-      gloss: a boy; a male human who has not reached adulthood. In this fixed age phrase karnva identifies sex rather than adult standing.
+      gloss: a boy; a male human who has not reached adulthood. In this fixed age
+        phrase karnva identifies sex rather than adult standing.
       field: Everyday speech
       concept: boy
     - form: junva femva
       class: n
-      gloss: a girl; a female human who has not reached adulthood. In this fixed age phrase femva identifies sex rather than adult standing.
+      gloss: a girl; a female human who has not reached adulthood. In this fixed age
+        phrase femva identifies sex rather than adult standing.
       field: Everyday speech
       concept: girl
     - form: fulliv
@@ -5029,7 +5269,8 @@ data:
       concept: community
     - form: valdra
       class: n
-      gloss: a ruler; someone exercising governing authority over a people or territory
+      gloss: a ruler; someone exercising governing authority over a people or
+        territory
       field: Everyday speech
       concept: ruler
     - form: jima
@@ -5109,12 +5350,14 @@ data:
       concept: injustice
     - form: fridma
       class: n
-      gloss: peace; absence of war or hostile disturbance; a relationship in which people refrain from harm
+      gloss: peace; absence of war or hostile disturbance; a relationship in which
+        people refrain from harm
       field: Everyday speech
       concept: peace
     - form: vigband
       class: n
-      gloss: war; sustained organized armed conflict between peoples or political bodies
+      gloss: war; sustained organized armed conflict between peoples or political
+        bodies
       field: Everyday speech
       concept: war
     - form: frildma
@@ -5239,36 +5482,44 @@ data:
       concept: kind
     - form: grumri
       class: adj
-      gloss: natural; arising through the ordinary workings of living things or the physical world
+      gloss: natural; arising through the ordinary workings of living things or the
+        physical world
       field: Everyday speech
       concept: natural
     - form: nel grumri
       class: adj
-      gloss: unnatural; contrary to the ordinary workings of living things or the physical world
+      gloss: unnatural; contrary to the ordinary workings of living things or the
+        physical world
       field: Everyday speech
       concept: unnatural
     - { form: ir, class: pron, gloss: I; me; the speaker, field: Everyday speech, concept: i }
     - form: es
       class: v
-      gloss: "to be; links a subject to its identity or quality. Gnum es krast: the pot is hard. In an absolute utterance, heimla es means a house exists; there is a house."
+      gloss: "to be; links a subject to its identity or quality. Gnum es krast: the
+        pot is hard. In an absolute utterance, heimla es means a house exists;
+        there is a house."
       field: Everyday speech
       concept: [be, exist]
     - form: nel
       class: part
-      gloss: "not; negates the following predicate or quality. Ir nel sken gnum: I do not see the pot; nel skelm: invisible."
+      gloss: "not; negates the following predicate or quality. Ir nel sken gnum: I do
+        not see the pot; nel skelm: invisible."
       field: Everyday speech
       concept: not
     - form: dur
       class: adv
-      gloss: "for a while; through a stretch of time. Ir sken gnum dur: I watch the pot for a while."
+      gloss: "for a while; through a stretch of time. Ir sken gnum dur: I watch the
+        pot for a while."
       field: Everyday speech
     - form: drum
       class: adj
-      gloss: intense; strong in degree; before an emotion noun, as in drum hrass, wrath
+      gloss: intense; strong in degree; before an emotion noun, as in drum hrass,
+        wrath
       field: Everyday speech
     - form: na
       class: part
-      gloss: "of; concerning or directed toward, according to the stated noun phrase: hnura na hugma, sadness; lufna na frendi, friendship"
+      gloss: "of; concerning or directed toward, according to the stated noun phrase:
+        hnura na hugma, sadness; lufna na frendi, friendship"
       field: Everyday speech
     - form: hugma
       class: n
@@ -5332,14 +5583,21 @@ data:
       concept: outside
     - form: morl
       class: adv
-      gloss: moderately; mildly; before a temperature adjective, as in morl thermi, warm
+      gloss: moderately; mildly; before a temperature adjective, as in morl thermi,
+        warm
       field: Everyday speech
     - form: nod
-      class: v
-      gloss: "to give something to someone. Ir nod gnum tiv thuv: I give the pot to you."
+      class: v/n
+      gloss: "to give something to someone. Ir nod gnum tiv thuv: I give the pot to
+        you.; also, giver"
       field: Everyday speech
       concept: give
-    - { form: fed, class: v, gloss: to feed someone with food or milk, field: Everyday speech }
+    - {
+        form: fed,
+        class: v/adj,
+        gloss: "to feed someone with food or milk; also, fed",
+        field: Everyday speech,
+      }
     - form: kinra
       class: n
       gloss: a parent; a mother or father
@@ -5371,17 +5629,20 @@ data:
       field: Everyday speech
     - form: firn
       class: part
-      gloss: "for; for the benefit or purpose of. Mert vatna firn melva: enough water for the food; ir gang firn snuld: I go in order to drink."
+      gloss: "for; for the benefit or purpose of. Mert vatna firn melva: enough water
+        for the food; ir gang firn snuld: I go in order to drink."
       field: Everyday speech
       concept: for-purpose
     - form: dan
       class: part
-      gloss: "than; introduces the standard after a comparison. Plemir vatna dan hern: more water than this."
+      gloss: "than; introduces the standard after a comparison. Plemir vatna dan hern:
+        more water than this."
       field: Everyday speech
       concept: than
     - form: andra
       class: adj
-      gloss: other; different from the person or thing already mentioned. Ul andra gnum excludes the pot currently being compared.
+      gloss: other; different from the person or thing already mentioned. Ul andra
+        gnum excludes the pot currently being compared.
       field: Everyday speech
       concept: [other, different]
     - form: hern
@@ -5407,12 +5668,14 @@ data:
     - { form: ji, class: n, gloss: a task; work to be done, field: Everyday speech }
     - form: at
       class: part
-      gloss: "at; in the stated location. Ir legva gnum at tavla: I put the pot at the table."
+      gloss: "at; in the stated location. Ir legva gnum at tavla: I put the pot at the
+        table."
       field: Everyday speech
       concept: at
     - form: fror
       class: part
-      gloss: before; ahead of an alternative in the fixed preference construction velna A fror B, choose A over B
+      gloss: before; ahead of an alternative in the fixed preference construction
+        velna A fror B, choose A over B
       field: Everyday speech
     - form: ok
       class: conj
@@ -5421,7 +5684,8 @@ data:
       concept: and
     - form: nath
       class: part
-      gloss: after; later than the following event or time, as in nath dvern, after the birth
+      gloss: after; later than the following event or time, as in nath dvern, after
+        the birth
       field: Everyday speech
     - form: renma
       class: n
@@ -5434,7 +5698,8 @@ data:
       concept: end-noun
     - form: velri
       class: num
-      gloss: "any; whichever member or amount is selected, without restriction. Velri gnum: any pot."
+      gloss: "any; whichever member or amount is selected, without restriction. Velri
+        gnum: any pot."
       field: Everyday speech
     - form: dingi
       class: n
@@ -5447,7 +5712,8 @@ data:
       field: Everyday speech
     - form: marli
       class: adj
-      gloss: said out; expressed explicitly in words; in the fixed discourse introduction es marli, namely
+      gloss: said out; expressed explicitly in words; in the fixed discourse
+        introduction es marli, namely
       field: Everyday speech
     - form: virdma
       class: n
@@ -5455,11 +5721,13 @@ data:
       field: Everyday speech
     - form: tharmet
       class: n
-      gloss: the quantity needed for the stated purpose; the required amount of something
+      gloss: the quantity needed for the stated purpose; the required amount of
+        something
       field: Everyday speech
     - form: luvma
       class: n
-      gloss: "permission; consent to an act. Luvma gang: permission to go, a fixed action-complement citation."
+      gloss: "permission; consent to an act. Luvma gang: permission to go, a fixed
+        action-complement citation."
       field: Everyday speech
     - form: menra
       class: v
@@ -5469,6 +5737,546 @@ data:
       class: n
       gloss: "eating; the act of taking food for nourishment. Melma na ir: my eating."
       field: Everyday speech
+    - form: atkvad
+      class: n
+      field: Everyday speech
+      gloss: syllable
+    - form: kindhlun
+      class: n
+      field: Everyday speech
+      gloss: initial sound, onset
+    - form: hringva
+      class: n
+      field: Everyday speech
+      gloss: ring
+    - form: brustmerki
+      class: n
+      field: Everyday speech
+      gloss: brooch
+    - form: hnarv
+      class: n
+      field: Everyday speech
+      gloss: notch cut as tally
+    - form: fal
+      class: v
+      field: Everyday speech
+      gloss: fall
+    - form: hnell
+      class: n
+      field: Everyday speech
+      gloss: steel
+    - form: ber
+      class: adj
+      field: Everyday speech
+      gloss: bare
+    - form: savadhmerv
+      class: n
+      field: Everyday speech
+      gloss: shoulderblade read for divination
+    - form: vid
+      class: n
+      field: Everyday speech
+      gloss: wooden stick
+    - form: jerv
+      class: n
+      field: Everyday speech
+      gloss: year, poeticwholecitation
+    - form: nodmann
+      class: n
+      field: Everyday speech
+      gloss: giver
+    - form: dversveld
+      class: n
+      field: Everyday speech
+      gloss: door seat
+    - form: dver
+      class: n
+      field: Everyday speech
+      gloss: door, poeticwholecitation
+    - form: full
+      class: adj
+      field: Everyday speech
+      gloss: full
+    - form: nott
+      class: n
+      field: Everyday speech
+      gloss: night, poeticcitation
+    - form: torvskarn
+      class: n
+      field: Everyday speech
+      gloss: turf knife
+    - form: maraf
+      class: n
+      field: Everyday speech
+      gloss: peg
+    - form: hul
+      class: n
+      field: Everyday speech
+      gloss: pit or gap, hollowopening
+    - form: snel
+      class: n
+      field: Everyday speech
+      gloss: snow, poeticcitation
+    - form: math
+      class: n
+      field: Everyday speech
+      gloss: measure, poeticcitation
+    - form: mathna
+      class: n
+      field: Everyday speech
+      gloss: measures heldonatally
+    - form: vikgnum
+      class: n
+      field: Everyday speech
+      gloss: weighing pan
+    - form: vikma
+      class: n
+      field: Everyday speech
+      gloss: scales, weighing
+    - form: vik
+      class: v
+      field: Everyday speech
+      gloss: weigh
+    - form: Sarnri
+      class: epithet
+      field: Everyday speech
+      gloss: Healer, Frodvin'stitle asordinaryonewhoheals
+    - form: tharfma
+      class: n
+      field: Everyday speech
+      gloss: need
+    - form: pan
+      class: n
+      field: Everyday speech
+      gloss: pan of a scale
+    - form: glirva
+      class: n
+      field: Everyday speech
+      gloss: flatlightonwater, kenningcitationalmeaning
+    - form: dulv
+      class: n
+      field: Everyday speech
+      gloss: darkness, poeticcitation
+    - form: fulm
+      class: adj
+      field: Everyday speech
+      gloss: fat or fatladen
+    - form: finri
+      class: n
+      field: Everyday speech
+      gloss: finder
+    - form: skarn
+      class: n
+      field: Everyday speech
+      gloss: knife, poeticcitation
+    - form: logmurn
+      class: n
+      field: Everyday speech
+      gloss: law mouth, Lawspeaker
+    - form: logmarlri
+      class: n
+      field: Everyday speech
+      gloss: Lawspeaker, one charged withrecitinglaw
+    - form: rett
+      class: n
+      field: Everyday speech
+      gloss: rule, poeticcitation
+    - form: glud
+      class: n
+      field: Everyday speech
+      gloss: day, poeticcitation
+    - form: hild
+      class: adj
+      field: Everyday speech
+      gloss: good, poeticcitation
+    - form: vikna
+      class: adj
+      field: Everyday speech
+      gloss: weighed
+    - form: kopri
+      class: adj
+      field: Everyday speech
+      gloss: bought
+    - form: kopma
+      class: n
+      field: Everyday speech
+      gloss: buying
+    - form: skelnma
+      class: n
+      field: Everyday speech
+      gloss: apportionment, sharing
+    - form: tavrma
+      class: n
+      field: Everyday speech
+      gloss: counting
+    - form: tavrvid
+      class: n
+      field: Everyday speech
+      gloss: tally stick
+    - form: mos
+      class: n
+      field: Everyday speech
+      gloss: moss
+    - form: eyva
+      class: n
+      field: Everyday speech
+      gloss: island
+    - form: strandhvelm
+      class: n
+      field: Everyday speech
+      gloss: stranded whale
+    - form: hroldvidma
+      class: n
+      field: Everyday speech
+      gloss: rafter, roof timber
+    - form: hrold
+      class: n
+      field: Everyday speech
+      gloss: roof, poeticcitation
+    - form: grendvid
+      class: n
+      field: Everyday speech
+      gloss: gatepost
+    - form: vakthim
+      class: n
+      field: Everyday speech
+      gloss: week, observedspanoftime
+    - form: skipvald
+      class: n
+      field: Everyday speech
+      gloss: ship master
+    - form: sarnstevna
+      class: n
+      field: Everyday speech
+      gloss: shingle
+    - form: snir
+      class: n
+      field: Everyday speech
+      gloss: wind, poeticcitation
+    - form: sveldmann
+      class: n
+      field: Everyday speech
+      gloss: manholdingatingseat
+    - form: konung
+      class: n
+      field: Everyday speech
+      gloss: king
+    - form: skipgnum
+      class: n
+      field: Everyday speech
+      gloss: ship's cargo hold
+    - form: dyrva
+      class: adj/adverb
+      field: Everyday speech
+      gloss: dear, costly
+    - form: strandvald
+      class: n
+      field: Everyday speech
+      gloss: shore holder
+    - form: skuldrelth
+      class: n
+      field: Everyday speech
+      gloss: hall's standingcreditaccount
+    - form: havmaglis
+      class: n
+      field: Everyday speech
+      gloss: theft
+    - form: skromrand
+      class: n
+      field: Everyday speech
+      gloss: cliff
+    - form: relthri
+      class: n
+      field: Everyday speech
+      gloss: teller
+    - form: eidma
+      class: n
+      field: Everyday speech
+      gloss: swearing, act of oath
+    - form: nafn
+      class: n
+      field: Everyday speech
+      gloss: name poeticcitation
+    - form: reidna
+      class: v
+      field: Everyday speech
+      gloss: ride as nightspirits
+    - form: jimel
+      class: n
+      field: Everyday speech
+      gloss: tool
+    - form: dvaunri
+      class: adj
+      field: Everyday speech
+      gloss: drowned
+    - form: snarv
+      class: v
+      field: Everyday speech
+      gloss: wind or turn a line or tally
+    - form: set
+      class: v
+      field: Everyday speech
+      gloss: sit
+    - form: buvord
+      class: n
+      field: Everyday speech
+      gloss: steward
+    - form: ald
+      class: n
+      field: Everyday speech
+      gloss: old person
+    - form: sam
+      class: adj
+      field: Everyday speech
+      gloss: same
+    - form: boll
+      class: n
+      field: Everyday speech
+      gloss: bowl
+    - form: kom
+      class: v
+      field: Everyday speech
+      gloss: come
+    - form: sav
+      class: n
+      field: Everyday speech
+      gloss: blade
+    - form: savmerv
+      class: n
+      field: Everyday speech
+      gloss: shoulderblade
+    - form: hlurna
+      class: n
+      field: Everyday speech
+      gloss: hearing, audible range
+    - form: garpi
+      class: adj
+      field: Everyday speech
+      gloss: sharp
+    - form: vengva
+      class: n
+      field: Everyday speech
+      gloss: wing
+    - form: rettlang
+      class: adj
+      field: Everyday speech
+      gloss: straight
+    - form: hutva
+      class: n
+      field: Everyday speech
+      gloss: hat
+    - form: fanzva
+      class: n
+      field: Everyday speech
+      gloss: beard
+    - form: broddva
+      class: n
+      field: Everyday speech
+      gloss: point of a weapon
+    - form: markva
+      class: n
+      field: Everyday speech
+      gloss: target or intended mark
+    - form: feilma
+      class: n
+      field: Everyday speech
+      gloss: error
+    - form: metrett
+      class: n
+      field: Everyday speech
+      gloss: precision
+    - form: valdma
+      class: n
+      field: Everyday speech
+      gloss: power, governing authority
+    - form: drótt
+      class: n
+      field: Everyday speech
+      gloss: war band, also attestednameelement nowexplicitordinarycitation
+    - form: skakva
+      class: adverb
+      field: Everyday speech
+      gloss: slantwise
+    - form: menma
+      class: n
+      field: Everyday speech
+      gloss: meaning
+    - form: fardri
+      class: n
+      field: Everyday speech
+      gloss: traveler
+    - form: mildsnul
+      class: n
+      field: Everyday speech
+      gloss: mead
+    - form: manik
+      class: adj
+      field: Everyday speech
+      gloss: empty
+    - form: soknma
+      class: n
+      field: Everyday speech
+      gloss: seeking
+    - form: flugma
+      class: n
+      field: Everyday speech
+      gloss: flight
+    - form: fjadra
+      class: n
+      field: Everyday speech
+      gloss: feather
+    - form: halvma
+      class: n
+      field: Everyday speech
+      gloss: keeping, holding
+    - form: halvna
+      class: adj
+      field: Everyday speech
+      gloss: kept
+    - form: pruvma
+      class: n
+      field: Everyday speech
+      gloss: testing
+    - form: sarnmerki
+      class: n
+      field: Everyday speech
+      gloss: scar
+    - form: liftna
+      class: adj
+      field: Everyday speech
+      gloss: raised
+    - form: Hlunbak
+      class: n/namepart
+      field: Everyday speech
+      gloss: echo, a sound returning
+    - form: bervri
+      class: n
+      field: Everyday speech
+      gloss: bearer
+    - form: ferrma
+      class: n
+      field: Everyday speech
+      gloss: leadership
+    - form: nemna
+      class: adj
+      field: Everyday speech
+      gloss: taken
+    - form: skalfma
+      class: n
+      field: Everyday speech
+      gloss: tremor
+    - form: krastma
+      class: n
+      field: Everyday speech
+      gloss: hardness
+    - form: pazlma
+      class: n
+      field: Everyday speech
+      gloss: patience
+    - form: arvi
+      class: n
+      field: Everyday speech
+      gloss: oar
+    - form: vornri
+      class: n
+      field: Everyday speech
+      gloss: guard
+    - form: himrand
+      class: n
+      field: Everyday speech
+      gloss: horizon
+    - form: hrimva
+      class: n
+      field: Everyday speech
+      gloss: rime
+    - form: throskna
+      class: v
+      field: Everyday speech
+      gloss: dry out
+    - form: dunni
+      class: adj
+      field: Everyday speech
+      gloss: dun in color
+    - form: vrakva
+      class: n
+      field: Everyday speech
+      gloss: wrack washed ashore
+    - form: hafgras
+      class: n
+      field: Everyday speech
+      gloss: seaweed
+    - form: lirva
+      class: n
+      field: Everyday speech
+      gloss: color
+    - form: merka
+      class: v
+      field: Everyday speech
+      gloss: mark or indicate a place
+    - form: motgnum
+      class: n
+      field: Everyday speech
+      gloss: mould used to cast or press a shape
+    - form: vadsta
+      class: n
+      field: Everyday speech
+      gloss: ford
+    - form: skromrap
+      class: n
+      field: Everyday speech
+      gloss: scree
+    - form: geitva
+      class: n
+      field: Everyday speech
+      gloss: goat
+    - form: flugna
+      class: v
+      field: Everyday speech
+      gloss: fly
+    - form: skromveg
+      class: n
+      field: Everyday speech
+      gloss: mountain pass
+    - form: jagna
+      class: v
+      field: Everyday speech
+      gloss: hunt
+    - form: tveinri
+      class: adj
+      field: Everyday speech
+      gloss: paired
+    - form: bjarnva
+      class: n
+      field: Everyday speech
+      gloss: bear
+    - form: halva
+      class: n
+      field: Everyday speech
+      gloss: tail
+    - form: feilna
+      class: v
+      field: Everyday speech
+      gloss: miss the intended target
+    - form: throskma
+      class: n
+      field: Everyday speech
+      gloss: drying
+    - form: skalfva
+      class: n
+      field: Everyday speech
+      gloss: shell
+    - form: viska
+      class: v
+      field: Everyday speech
+      gloss: wipe
+    - form: lalva
+      class: n
+      field: Everyday speech
+      gloss: shelf
+    - form: dverrand
+      class: n
+      field: Everyday speech
+      gloss: door sill
   naming:
     edges:
       - edge: openConsonant
