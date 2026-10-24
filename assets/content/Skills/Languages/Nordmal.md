@@ -6434,6 +6434,78 @@ data:
       class: n
       field: Everyday speech
       gloss: harvest
+    - form: hvelmveg
+      class: n
+      field: Everyday speech
+      gloss: whale road, sea
+    - form: leikma
+      class: n
+      field: Everyday speech
+      gloss: play
+    - form: gulna
+      class: v
+      field: Everyday speech
+      gloss: laugh
+    - form: gulma
+      class: n
+      field: Everyday speech
+      gloss: laughter
+    - form: rubma
+      class: n
+      field: Everyday speech
+      gloss: failure
+    - form: langma
+      class: n
+      field: Everyday speech
+      gloss: length
+    - form: huldi
+      class: adj
+      field: Everyday speech
+      gloss: covered
+    - form: thrivma
+      class: n
+      field: Everyday speech
+      gloss: thrashing, violent pushingmotion
+    - form: vendrma
+      class: n
+      field: Everyday speech
+      gloss: turning
+    - form: kallri
+      class: n
+      field: Everyday speech
+      gloss: caller
+    - form: skiphugnim
+      class: n
+      field: Everyday speech
+      gloss: seamanship, practicalknowledgeofships
+    - form: lesna
+      class: v
+      field: Everyday speech
+      gloss: read
+    - form: saltva
+      class: n
+      field: Everyday speech
+      gloss: salt
+    - form: hafskolva
+      class: n
+      field: Everyday speech
+      gloss: sea spray
+    - form: skarva
+      class: v
+      field: Everyday speech
+      gloss: scour
+    - form: nifma
+      class: n
+      field: Everyday speech
+      gloss: descent
+    - form: hlevna
+      class: adj
+      field: Everyday speech
+      gloss: hospitable
+    - form: stannri
+      class: adj
+      field: Everyday speech
+      gloss: standing
   naming:
     edges:
       - edge: openConsonant
