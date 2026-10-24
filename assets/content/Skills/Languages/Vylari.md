@@ -8003,6 +8003,520 @@ data:
   icon: icon-speaking
   templatePriority: null
   packFolder: language
+    - form: zekra
+      class: n f
+      field: Doing, going and being
+      gloss: "cock or rooster"
+      source: {kind: coined}
+
+    - form: pazartos
+      class: n m
+      field: Coin, trade and the counting-table
+      gloss: "baker"
+      source: {kind: coined}
+
+    - form: zirkon
+      class: n n
+      field: The city: stone, water and the street
+      gloss: "stair or physical step"
+      source: {kind: coined}
+
+    - form: harkelon
+      class: n n
+      field: Doing, going and being
+      gloss: "rumor"
+      source: {kind: coined}
+
+    - form: lamora
+      class: n f
+      field: The city: stone, water and the street
+      gloss: "shelf"
+      source: {kind: coined}
+
+    - form: tholvena
+      class: n f
+      field: Precedence, patronage and what is owed
+      gloss: "gown worn by a citizen or client"
+      source: {kind: coined}
+
+    - form: liskara
+      class: n f
+      field: Precedence, patronage and what is owed
+      gloss: "residence waiver signed by a patron"
+      source: {kind: coined}
+
+    - form: kornathen
+      class: v
+      field: Doing, going and being
+      gloss: "blow upon coals"
+      source: {kind: coined}
+
+    - form: kornethen
+      class: v
+      field: Doing, going and being
+      gloss: "curse someone in speech"
+      source: {kind: coined}
+
+    - form: firnadon
+      class: n n
+      field: Doing, going and being
+      gloss: "fountain"
+      source: {kind: coined}
+
+    - form: thilartos
+      class: n m
+      field: Doing, going and being
+      gloss: "clerk"
+      source: {kind: coined}
+
+    - form: thaltar
+      class: n n
+      field: Doing, going and being
+      gloss: "builder"
+      source: {kind: coined}
+
+    - form: palzathen
+      class: v
+      field: Doing, going and being
+      gloss: "pay for work or goods"
+      source: {kind: coined}
+
+    - form: morathen
+      class: v
+      field: Doing, going and being
+      gloss: "wait upon a patron's attendance"
+      source: {kind: coined}
+
+    - form: lamzathen
+      class: v
+      field: Doing, going and being
+      gloss: "smile"
+      source: {kind: coined}
+
+    - form: kunela
+      class: n f
+      field: Doing, going and being
+      gloss: "cupboard"
+      source: {kind: coined}
+
+    - form: talonartos
+      class: n m
+      field: Doing, going and being
+      gloss: "sculptor"
+      source: {kind: coined}
+
+    - form: lavurathen
+      class: v
+      field: Doing, going and being
+      gloss: "sculpt an ancestor mask"
+      source: {kind: coined}
+
+    - form: talondos
+      class: n m
+      field: Doing, going and being
+      gloss: "statue"
+      source: {kind: coined}
+
+    - form: tharnos
+      class: n m
+      field: Doing, going and being
+      gloss: "plinth"
+      source: {kind: coined}
+
+    - form: sethathen
+      class: v
+      field: Doing, going and being
+      gloss: "forge or counterfeit an identity or seal"
+      source: {kind: coined}
+
+    - form: nalor
+      class: n n
+      field: Doing, going and being
+      gloss: "quail"
+      source: {kind: coined}
+
+    - form: kalzandon
+      class: n n
+      field: Learning, speech and the letters
+      gloss: "formal declaration of a name"
+      source: {kind: coined}
+
+    - form: zelkorma
+      class: n f
+      field: Doing, going and being
+      gloss: "lean-to shelter"
+      source: {kind: coined}
+
+    - form: korbathen
+      class: v
+      field: Doing, going and being
+      gloss: "fold a garment"
+      source: {kind: coined}
+
+    - form: nalvathen
+      class: v
+      field: Doing, going and being
+      gloss: "dress a person in garments"
+      source: {kind: coined}
+
+    - form: pelthakonos
+      class: n m
+      field: Doing, going and being
+      gloss: "colonnade"
+      source: {kind: coined}
+
+    - form: thorkon
+      class: n n
+      field: Doing, going and being
+      gloss: "sack"
+      source: {kind: coined}
+
+    - form: zedkaros
+      class: n m
+      field: Doing, going and being
+      gloss: "shepherd"
+      source: {kind: coined}
+
+    - form: kedros
+      class: n m
+      field: Doing, going and being
+      gloss: "dog"
+      source: {kind: coined}
+
+    - form: kolsikon
+      class: n n
+      field: Doing, going and being
+      gloss: "flock"
+      source: {kind: coined}
+
+    - form: samdon
+      class: n n
+      field: The city: stone, water and the street
+      gloss: "height of a step or structure"
+      source: {kind: coined}
+
+    - form: thradinandon
+      class: n n
+      field: Doing, going and being
+      gloss: "measurement or measuring"
+      source: {kind: coined}
+
+    - form: skaros
+      class: n m
+      field: The state and its offices
+      gloss: "staff of office"
+      source: {kind: coined}
+
+    - form: letima
+      class: n f
+      field: Doing, going and being
+      gloss: "list"
+      source: {kind: coined}
+
+    - form: larmisartos
+      class: n m
+      field: Doing, going and being
+      gloss: "grammarian"
+      source: {kind: coined}
+
+    - form: medathen
+      class: v
+      field: Doing, going and being
+      gloss: "mean or intend a meaning"
+      source: {kind: coined}
+
+    - form: lomathen
+      class: v
+      field: Doing, going and being
+      gloss: "laugh"
+      source: {kind: coined}
+
+    - form: lanbeza
+      class: n f
+      field: Doing, going and being
+      gloss: "sheet of paper"
+      source: {kind: coined}
+
+    - form: thradima
+      class: n f
+      field: The body, life and death
+      gloss: "a measure of grain"
+      source: {kind: coined}
+
+    - form: luren
+      class: n n
+      field: The city: stone, water and the street
+      gloss: "end of a couch or room"
+      source: {kind: coined}
+
+    - form: brulandon
+      class: n n
+      field: The state and its offices
+      gloss: "ruin of a treasury"
+      source: {kind: coined}
+
+    - form: tevare
+      class: n n
+      field: Doing, going and being
+      gloss: "yard of a workshop"
+      source: {kind: coined}
+
+    - form: mandros
+      class: adj
+      field: Qualities
+      gloss: "empty or blank"
+      source: {kind: coined}
+
+    - form: hurpathen
+      class: v
+      field: Doing, going and being
+      gloss: "fill a cupboard or vessel"
+      source: {kind: coined}
+
+    - form: bakis
+      class: n m
+      field: Doing, going and being
+      gloss: "wax"
+      source: {kind: coined}
+
+    - form: karona
+      class: n f
+      field: Doing, going and being
+      gloss: "cart"
+      source: {kind: coined}
+
+    - form: strathos
+      class: n m
+      field: The legions and the frontier
+      gloss: "army"
+      source: {kind: coined}
+
+    - form: Kilron
+      class: n n
+      field: Doing, going and being
+      gloss: "circle, including the Orzas's Circle"
+      source: {kind: coined}
+
+    - form: orzlokandon
+      class: n n
+      field: The state and its offices
+      gloss: "accession to sovereign rule"
+      source: {kind: coined}
+
+    - form: anhalbathen
+      class: v
+      field: Doing, going and being
+      gloss: "miss an appointed attendance"
+      source: {kind: coined}
+
+    - form: nizelathen
+      class: v
+      field: Doing, going and being
+      gloss: "bite"
+      source: {kind: coined}
+
+    - form: ertathen
+      class: v
+      field: Doing, going and being
+      gloss: "perform a term of military service"
+      source: {kind: coined}
+
+    - form: Katsur
+      class: n n
+      field: The city: stone, water and the street
+      gloss: "the Warrens"
+      source: {kind: coined}
+
+    - form: Ormakir
+      class: n n
+      field: The state and its offices
+      gloss: "the Clearance"
+      source: {kind: coined}
+
+    - form: Sirethalmalthos
+      class: n n
+      field: Land, the vine and the river
+      gloss: "the River Hill"
+      source: {kind: coined}
+      built: [siretha, malthos]
+
+    - form: Kurthemalon
+      class: n n
+      field: The state and its offices
+      gloss: "the Republic"
+      source: {kind: coined}
+      built: [kurthema, malon]
+
+    - form: "Anklame Tigandon"
+      class: n n
+      field: The city: stone, water and the street
+      gloss: "the Silent Passage"
+      source: {kind: coined}
+      built: [anklamos, tigandon]
+
+    - form: karvumrozima
+      class: n f
+      field: Precedence, patronage and what is owed
+      gloss: "smoke tally kept by a frontier tower"
+      source: {kind: coined}
+      built: [karvuma, rozima]
+
+    - form: zulmara
+      class: n f
+      field: Land, the vine and the river
+      gloss: "marsh"
+      source: {kind: coined}
+
+    - form: sulkon
+      class: n n
+      field: Land, the vine and the river
+      gloss: "reed"
+      source: {kind: coined}
+
+    - form: samirthos
+      class: adj
+      field: Qualities
+      gloss: "careful in counting or observation"
+      source: {kind: coined}
+
+    - form: tharktholbon
+      class: n n
+      field: Craft, guild and the kept secret
+      gloss: "blanket"
+      source: {kind: coined}
+
+    - form: talezon
+      class: n n
+      field: Craft, guild and the kept secret
+      gloss: "letter sent to a person"
+      source: {kind: coined}
+
+    - form: thorgezos
+      class: n m
+      field: Precedence, patronage and what is owed
+      gloss: "officer of a frontier watchtower"
+      source: {kind: coined}
+
+    - form: nethkalos
+      class: n m
+      field: Doing, going and being
+      gloss: "war-band"
+      source: {kind: coined}
+
+    - form: salkar
+      class: n n
+      field: Doing, going and being
+      gloss: "village"
+      source: {kind: coined}
+
+    - form: zulkinon
+      class: n n
+      field: Doing, going and being
+      gloss: "waist"
+      source: {kind: coined}
+
+    - form: aralmathen
+      class: v
+      field: Doing, going and being
+      gloss: "smooth wax to erase writing"
+      source: {kind: coined}
+
+    - form: kiramon
+      class: n n
+      field: Doing, going and being
+      gloss: "light"
+      source: {kind: coined}
+
+    - form: karvathen
+      class: v
+      field: Doing, going and being
+      gloss: "light a lamp"
+      source: {kind: coined}
+
+    - form: narathen
+      class: v
+      field: Doing, going and being
+      gloss: "tell a person something"
+      source: {kind: coined}
+
+    - form: kolerathen
+      class: v
+      field: Doing, going and being
+      gloss: "draw a line"
+      source: {kind: coined}
+
+    - form: kadrathos
+      class: adj
+      field: Qualities
+      gloss: "square in shape, including handwriting"
+      source: {kind: coined}
+
+    - form: silethen
+      class: v
+      field: Doing, going and being
+      gloss: "weep"
+      source: {kind: coined}
+
+    - form: Zoralos
+      class: n m
+      field: The state and its offices
+      gloss: "watch officer of a century"
+      source: {kind: coined}
+
+    - form: Kamezos
+      class: n m
+      field: Precedence, patronage and what is owed
+      gloss: "tower officer who lights its evening lamp"
+      source: {kind: coined}
+
+    - form: zunon
+      class: n n
+      field: The legions and the frontier
+      gloss: "band or strip fixed to a legion's name"
+      source: {kind: coined}
+
+    - form: ronalos
+      class: n m
+      field: Land, the vine and the river
+      gloss: "ridge"
+      source: {kind: coined}
+
+    - form: zelboron
+      class: n n
+      field: Doing, going and being
+      gloss: "mail armor"
+      source: {kind: coined}
+
+    - form: ethluma
+      class: n f
+      field: Doing, going and being
+      gloss: "gilt on a pole or object"
+      source: {kind: coined}
+
+    - form: pazkarlon
+      class: n n
+      field: Coin, trade and the counting-table
+      gloss: "bread"
+      source: {kind: coined}
+
+    - form: "Zel orkaima thalentor uthrime"
+      class: part
+      field: Numbers and grammar words
+      gloss: "beneath the eagle stand the borders"
+      source: {kind: coined}
+
+    - form: pleros
+      class: adj
+      field: Qualities
+      gloss: "full, without specifying what fills a place"
+      source: {kind: coined}
+
+    - form: hurdis
+      class: n m
+      field: The body, life and death
+      gloss: "rain"
+      source: {kind: coined}
+
   names:
     pattern: "{given} {house}"
     given:
