@@ -3519,6 +3519,1092 @@ data:
       gloss: also; together with this. The whole additive expression adds an item or proposition to the preceding one.
       concept: also
       built: [dun, denon]
+    - form: korneth
+      class: n m
+      field: The company and the trade of arms
+      gloss: "horse"
+      source: {kind: coined}
+
+    - form: korna
+      class: n f
+      field: Speech, song and the learned
+      gloss: "mare"
+      source: {kind: coined}
+
+    - form: kornuro
+      class: n n
+      field: Speech, song and the learned
+      gloss: "foal"
+      source: {kind: coined}
+
+    - form: kornazdo
+      class: n m
+      field: The company and the trade of arms
+      gloss: "horse-judge"
+      source: {kind: coined}
+      built: [korneth, nazdo]
+
+    - form: soral
+      class: n n
+      field: The word given
+      gloss: "vowel sound"
+      source: {kind: coined}
+
+    - form: teth
+      class: n n
+      field: Speech, song and the learned
+      gloss: "tooth"
+      source: {kind: coined}
+
+    - form: tendra
+      class: n f
+      field: Time and the year
+      gloss: "age in years"
+      source: {kind: coined}
+
+    - form: karna
+      class: n f
+      field: Speech, song and the learned
+      gloss: "stanza of eight lines"
+      source: {kind: coined}
+
+    - form: sormo
+      class: n n
+      field: Speech, song and the learned
+      gloss: "song or sung verse"
+      source: {kind: coined}
+
+    - {form: nar, class: n n, field: Time and the year, gloss: "day", source: {kind: coined}}
+
+    - {form: tarnela, class: n f, field: Time and the year, gloss: "year", source: {kind: coined}}
+
+    - form: karza
+      class: num
+      field: Numbers and grammar words
+      gloss: "three"
+      source: {kind: coined}
+
+    - form: selta
+      class: num
+      field: Numbers and grammar words
+      gloss: "six"
+      source: {kind: coined}
+
+    - form: urkis
+      class: num
+      field: Numbers and grammar words
+      gloss: [one]
+      source: {kind: coined}
+      concept: one
+    - form: zelma
+      class: n f
+      field: Coin and trade
+      gloss: "coin or money paid"
+      source: {kind: coined}
+
+    - form: langa
+      class: n f
+      field: Speech, song and the learned
+      gloss: "long narrative poem"
+      source: {kind: coined}
+
+    - form: karna ol langa
+      class: n n
+      field: Speech, song and the learned
+      gloss: "line of a long poem"
+      built: [karna, ol, langa]
+
+    - form: nurma
+      class: n f
+      field: Speech, song and the learned
+      gloss: "mother"
+      source: {kind: coined}
+
+    - form: nurela
+      class: n f
+      field: Speech, song and the learned
+      gloss: "girl"
+      source: {kind: coined}
+
+    - form: nuron
+      class: n n
+      field: Speech, song and the learned
+      gloss: "boy"
+      source: {kind: coined}
+
+    - form: elte
+      class: n n
+      field: Speech, song and the learned
+      gloss: "father"
+      source: {kind: coined}
+
+    - form: moldre
+      class: n n
+      field: The company and the trade of arms
+      gloss: "mule"
+      source: {kind: coined}
+
+    - form: mulene
+      class: n n
+      field: Speech, song and the learned
+      gloss: "miller"
+      source: {kind: coined}
+
+    - form: olmela
+      class: n f
+      field: Speech, song and the learned
+      gloss: "lease"
+      source: {kind: coined}
+
+    - form: zembre
+      class: n n
+      field: Speech, song and the learned
+      gloss: "signature or signed name"
+      source: {kind: coined}
+
+    - form: zermad
+      class: v
+      field: Doing, going and being
+      gloss: "sign a document with one's name"
+      source: {kind: coined}
+
+    - form: kelza
+      class: n f
+      field: The company and the trade of arms
+      gloss: "crossbow"
+      source: {kind: coined}
+
+    - form: kelzaro
+      class: n m
+      field: The company and the trade of arms
+      gloss: "crossbowman"
+      source: {kind: coined}
+      built: [kelza]
+
+    - form: temel
+      class: n f
+      field: Speech, song and the learned
+      gloss: "theme for a verse bout"
+      source: {kind: coined}
+
+    - form: arnad
+      class: v
+      field: Doing, going and being
+      gloss: "stamp one's feet in judgment"
+      source: {kind: coined}
+
+    - form: navera
+      class: n f
+      field: Speech, song and the learned
+      gloss: "lantern"
+      source: {kind: coined}
+
+    - form: pelza
+      class: n f
+      field: Coin and trade
+      gloss: "wage or pay"
+      source: {kind: coined}
+
+    - form: tharo
+      class: n n
+      field: Speech, song and the learned
+      gloss: "roof"
+      source: {kind: coined}
+
+    - form: sormar
+      class: n n
+      field: Speech, song and the learned
+      gloss: "singer of a verse-duel"
+      source: {kind: coined}
+
+    - form: urzele
+      class: num
+      field: Numbers and grammar words
+      gloss: "each"
+      source: {kind: coined}
+
+    - form: venora
+      class: n f
+      field: Speech, song and the learned
+      gloss: "woman"
+      source: {kind: coined}
+
+    - form: orven
+      class: n m
+      field: Speech, song and the learned
+      gloss: [a bird; a feathered animal, man]
+      source: {kind: coined}
+      concept: bird
+    - form: nural
+      class: n n
+      field: The coast and the sea
+      gloss: "spring season"
+      source: {kind: coined}
+
+    - form: mustra
+      class: n f
+      field: Speech, song and the learned
+      gloss: "muster or assembly for enrollment"
+      source: {kind: coined}
+
+    - form: temadar
+      class: n n
+      field: Speech, song and the learned
+      gloss: "theme-giver of a verse-duel"
+      source: {kind: coined}
+
+    - form: threka
+      class: n f
+      field: Time and the year
+      gloss: "a spring muster"
+      source: {kind: coined}
+
+    - form: welri
+      class: num
+      field: Numbers and grammar words
+      gloss: "any"
+      source: {kind: coined}
+
+    - form: thur
+      class: part
+      field: Numbers and grammar words
+      gloss: "through"
+      source: {kind: coined}
+
+    - form: koretha
+      class: n f
+      field: Speech, song and the learned
+      gloss: "bad practice or fault in conduct"
+      source: {kind: coined}
+
+    - form: matha
+      class: n f
+      field: Speech, song and the learned
+      gloss: "a measure applied in judging"
+      source: {kind: coined}
+
+    - form: andunela
+      class: n f
+      field: Speech, song and the learned
+      gloss: "hard effort"
+      source: {kind: coined}
+
+    - form: solka
+      class: n f
+      field: Speech, song and the learned
+      gloss: "weight carried as an obligation"
+      source: {kind: coined}
+
+    - form: karzad
+      class: v
+      field: Doing, going and being
+      gloss: "manage a holding"
+      source: {kind: coined}
+
+    - form: threma
+      class: n f
+      field: Speech, song and the learned
+      gloss: "a matter understood through experience"
+      source: {kind: coined}
+
+    - form: thilra
+      class: n f
+      field: Speech, song and the learned
+      gloss: "boundary line"
+      source: {kind: coined}
+
+    - form: thidre
+      class: n n
+      field: Speech, song and the learned
+      gloss: "notary"
+      source: {kind: coined}
+
+    - form: pelmone
+      class: n n
+      field: The word given
+      gloss: "a person's thought or judgment"
+      source: {kind: coined}
+
+    - {form: nathre, class: n n, field: Time and the year, gloss: "night", source: {kind: coined}}
+
+    - form: okande
+      class: n n
+      field: Speech, song and the learned
+      gloss: "sight or view"
+      source: {kind: coined}
+
+    - form: korla
+      class: n f
+      field: Coin and trade
+      gloss: "yard of a house or fair"
+      source: {kind: coined}
+
+    - form: ankelmelo
+      class: adj
+      field: Qualities
+      gloss: "sound in bodily health"
+      source: {kind: coined}
+
+    - form: kurelor
+      class: n n
+      field: Speech, song and the learned
+      gloss: "buyer"
+      source: {kind: coined}
+
+    - form: zarlad
+      class: v
+      field: Doing, going and being
+      gloss: "swear an oath"
+      source: {kind: coined}
+
+    - form: setdokad
+      class: v
+      field: Doing, going and being
+      gloss: "tell a deliberate lie"
+      source: {kind: coined}
+
+    - {form: anralvo, class: adj, field: Qualities, gloss: "slow", source: {kind: coined}}
+
+    - form: orthemadon
+      class: n n
+      field: Speech, song and the learned
+      gloss: "completion or ending"
+      source: {kind: coined}
+
+    - form: seted
+      class: v
+      field: Doing, going and being
+      gloss: "cheat a person of agreed payment"
+      source: {kind: coined}
+
+    - form: sathad
+      class: v
+      field: Doing, going and being
+      gloss: "plant a crop"
+      source: {kind: coined}
+
+    - form: kolsamo
+      class: n n
+      field: Speech, song and the learned
+      gloss: "mowing or reaping"
+      source: {kind: coined}
+
+    - form: valero
+      class: n n
+      field: Land, the high country and the weather
+      gloss: road
+      source: {kind: coined}
+    - form: deno
+      class: n n
+      field: Speech, song and the learned
+      gloss: "the matter just stated"
+      source: {kind: coined}
+
+    - form: kraveldo
+      class: n n
+      field: Speech, song and the learned
+      gloss: "crow"
+      source: {kind: coined}
+
+    - form: tambande
+      class: n n
+      field: Speech, song and the learned
+      gloss: "finished work"
+      source: {kind: coined}
+
+    - {form: kalga, class: n f, field: The word given, gloss: "gate", source: {kind: coined}}
+
+    - form: arvo
+      class: n m
+      field: The village and its shrine
+      gloss: "god"
+      source: {kind: coined}
+
+    - {form: edran, class: n n, field: The word given, gloss: "ladder", source: {kind: coined}}
+
+    - form: siretha
+      class: n f
+      field: The coast and the sea
+      gloss: [a river; running water, river]
+      source: {kind: coined}
+      concept: river
+    - {form: sulkon, class: n n, field: The word given, gloss: "cough", source: {kind: coined}}
+
+    - form: sulkad
+      class: v
+      field: Doing, going and being
+      gloss: "cough"
+      source: {kind: coined}
+
+    - {form: nalvo, class: n n, field: The word given, gloss: "bed", source: {kind: coined}}
+
+    - form: gorad
+      class: v
+      field: Doing, going and being
+      gloss: "shoot a crossbow"
+      source: {kind: coined}
+
+    - form: anavren
+      class: adj
+      field: Qualities
+      gloss: "accidental, without intention"
+      source: {kind: coined}
+
+    - form: arvil
+      class: n n
+      field: The coast and the sea
+      gloss: "season"
+      source: {kind: coined}
+
+    - form: othra
+      class: n f
+      field: The word given
+      gloss: "rite, including funeral rites"
+      source: {kind: coined}
+
+    - form: lambis
+      class: n f
+      field: Speech, song and the learned
+      gloss: "a word spoken"
+      source: {kind: coined}
+
+    - form: Thizaro Lambis
+      class: n f
+      field: Speech, song and the learned
+      gloss: "the Sealed Word, the Order's institutional name"
+      built: [thizaro, lambis]
+
+    - form: pel
+      class: n n
+      field: The company and the trade of arms
+      gloss: "crossbow bolt"
+      source: {kind: coined}
+
+    - {form: geril, class: n n, field: The word given, gloss: "arrow", source: {kind: coined}}
+
+    - form: nizelad
+      class: v
+      field: Doing, going and being
+      gloss: "bite"
+      source: {kind: coined}
+
+    - {form: mandro, class: adj, field: Qualities, gloss: "empty", source: {kind: coined}}
+
+    - form: pral
+      class: part
+      field: Numbers and grammar words
+      gloss: "before in time or sequence"
+      source: {kind: coined}
+
+    - form: lither
+      class: part
+      field: Numbers and grammar words
+      gloss: "behind a person in a marching order"
+      source: {kind: coined}
+
+    - form: huzad
+      class: v
+      field: Doing, going and being
+      gloss: "face or turn one's face toward"
+      source: {kind: coined}
+
+    - form: zured
+      class: v
+      field: Doing, going and being
+      gloss: "strike or erase a name from a roll"
+      source: {kind: coined}
+
+    - form: nelvos
+      class: adj
+      field: Qualities
+      gloss: [cold; having a low temperature, cold]
+      source: {kind: coined}
+      concept: cold
+    - form: lomeros
+      class: adj
+      field: Qualities
+      gloss: [soft to the touch, gentle]
+      source: {kind: coined}
+      concept: soft
+    - form: ansolkimos
+      class: adj
+      field: Qualities
+      gloss: [light in weight, light in weight or lighter than an earlier state]
+      source: {kind: coined}
+      concept: light-weight
+    - form: dolkon
+      class: n n
+      field: The household
+      gloss: "back of a person"
+      source: {kind: coined}
+
+    - form: zelmad
+      class: v
+      field: Doing, going and being
+      gloss: "pay an agreed wage or penalty"
+      source: {kind: coined}
+
+    - {form: pelre, class: adj, field: Qualities, gloss: "new", source: {kind: coined}}
+
+    - form: hramad
+      class: v
+      field: Doing, going and being
+      gloss: "continue"
+      source: {kind: coined}
+
+    - form: hurpad
+      class: v
+      field: Doing, going and being
+      gloss: "fill a place or vessel"
+      source: {kind: coined}
+
+    - form: merad
+      class: v
+      field: Doing, going and being
+      gloss: "earn through a deed"
+      source: {kind: coined}
+
+    - form: aldor
+      class: n n
+      field: The coast and the sea
+      gloss: "river bank"
+      source: {kind: coined}
+
+    - form: pethrandon
+      class: n n
+      field: The word given
+      gloss: "an answer"
+      source: {kind: coined}
+
+    - form: thelor
+      class: n n
+      field: Land, the high country and the weather
+      gloss: plateau
+      source: {kind: coined}
+    - form: legreth
+      class: n f
+      field: The company and the trade of arms
+      gloss: "legion"
+      source: {kind: coined}
+
+    - form: legro
+      class: n m
+      field: The company and the trade of arms
+      gloss: "legate commanding a legion"
+      source: {kind: coined}
+
+    - form: bandro
+      class: n n
+      field: The old mountain speech
+      gloss: "military standard"
+      source: {kind: coined}
+
+    - form: gardro
+      class: n n
+      field: The old mountain speech
+      gloss: "military engineer"
+      source: {kind: coined}
+
+    - form: kordre
+      class: n f
+      field: The old mountain speech
+      gloss: "shield"
+      source: {kind: coined}
+
+    - form: tordar
+      class: n n
+      field: Kings, councils and the free city
+      gloss: "lord holding territory"
+      source: {kind: coined}
+
+    - form: orzel
+      class: n n
+      field: Kings, councils and the free city
+      gloss: "lordship's territory"
+      source: {kind: coined}
+
+    - {form: ethro, class: n n, field: The word given, gloss: "witness", source: {kind: coined}}
+
+    - form: samed
+      class: v
+      field: Doing, going and being
+      gloss: "answer a public accusation"
+      source: {kind: coined}
+
+    - form: thira
+      class: n f
+      field: The old mountain speech
+      gloss: "water trough"
+      source: {kind: coined}
+
+    - form: ker
+      class: n n
+      field: The old mountain speech
+      gloss: "knife"
+      source: {kind: coined}
+
+    - form: nenos
+      class: adj
+      field: Qualities
+      gloss: "plain and direct in speech"
+      source: {kind: coined}
+
+    - form: galthos
+      class: adj
+      field: Qualities
+      gloss: "hard or unyielding"
+      source: {kind: coined}
+
+    - form: gauro
+      class: n n
+      field: The old mountain speech
+      gloss: "horn used for military signals"
+      source: {kind: coined}
+
+    - form: goured
+      class: v
+      field: Doing, going and being
+      gloss: "blow a horn"
+      source: {kind: coined}
+
+    - form: pelad
+      class: v
+      field: Doing, going and being
+      gloss: "paint a shield or object"
+      source: {kind: coined}
+
+    - form: kornel
+      class: n n
+      field: The old mountain speech
+      gloss: "quilted coat"
+      source: {kind: coined}
+
+    - form: ardal
+      class: n n
+      field: The old mountain speech
+      gloss: "iron"
+      source: {kind: coined}
+
+    - form: lotaro
+      class: n n
+      field: The old mountain speech
+      gloss: "iron bar"
+      source: {kind: coined}
+
+    - form: tulven
+      class: n n
+      field: The old mountain speech
+      gloss: "cloak"
+      source: {kind: coined}
+
+    - form: thalve
+      class: n n
+      field: The household
+      gloss: "head of a person"
+      source: {kind: coined}
+
+    - form: dekazu
+      class: n n
+      field: The old mountain speech
+      gloss: [a hand; also the power a master holds over a person, hand]
+      source: {kind: coined}
+      concept: hand
+    - form: kordar
+      class: n m
+      field: The company and the trade of arms
+      gloss: "soldier hired for a campaign"
+      source: {kind: coined}
+
+    - form: granad
+      class: v
+      field: Doing, going and being
+      gloss: "balance a heavy stone"
+      source: {kind: coined}
+
+    - form: lebro
+      class: n n
+      field: The old mountain speech
+      gloss: "lever"
+      source: {kind: coined}
+
+    - form: selad
+      class: v
+      field: Doing, going and being
+      gloss: "whet a weapon edge"
+      source: {kind: coined}
+
+    - {form: galona, class: n f, field: Time and the year, gloss: "hour", source: {kind: coined}}
+
+    - form: zilko
+      class: n n
+      field: The old mountain speech
+      gloss: "echo"
+      source: {kind: coined}
+
+    - form: lomed
+      class: v
+      field: Doing, going and being
+      gloss: "laugh"
+      source: {kind: coined}
+
+    - form: kurnel
+      class: n n
+      field: The old mountain speech
+      gloss: "quiver"
+      source: {kind: coined}
+
+    - form: perad
+      class: v
+      field: Doing, going and being
+      gloss: "spare a person from killing"
+      source: {kind: coined}
+
+    - form: melkar
+      class: n n
+      field: The old mountain speech
+      gloss: "meat"
+      source: {kind: coined}
+
+    - form: luren
+      class: n n
+      field: The old mountain speech
+      gloss: "end of a passage or account"
+      source: {kind: coined}
+
+    - form: zelorma
+      class: n f
+      field: The old mountain speech
+      gloss: "low country"
+      source: {kind: coined}
+      built: [zel, orma]
+
+    - form: kernra
+      class: n f
+      field: Land, the high country and the weather
+      gloss: grain
+      source: {kind: coined}
+    - form: thar
+      class: n n
+      field: The old mountain speech
+      gloss: "staff or pole"
+      source: {kind: coined}
+
+    - form: barthar
+      class: n n
+      field: Land, the high country and the weather
+      gloss: baggage train or its loads
+      source: {kind: coined}
+    - form: zelvema
+      class: n f
+      field: The old mountain speech
+      gloss: "edge or lip of a height"
+      source: {kind: coined}
+
+    - form: lenthos
+      class: adj
+      field: Qualities
+      gloss: "easy to travel"
+      source: {kind: coined}
+
+    - form: tambavon
+      class: n n
+      field: The old mountain speech
+      gloss: [a purpose; the intended end of an action, intended design of a military action]
+      source: {kind: coined}
+      concept: purpose
+    - form: kalman
+      class: n n
+      field: The body, life and death
+      gloss: "dead body or dead person"
+      source: {kind: coined}
+
+    - form: kelmad
+      class: v
+      field: Doing, going and being
+      gloss: "curse a person"
+      source: {kind: coined}
+
+    - form: zenoton
+      class: n n
+      field: The household
+      gloss: "a reason for an act"
+      source: {kind: coined}
+
+    - form: pethandon
+      class: n n
+      field: Kings, councils and the free city
+      gloss: [a question; an asking, an asking or request]
+      source: {kind: coined}
+    - form: gathad
+      class: v
+      field: Doing, going and being
+      gloss: "expend people in a military action"
+      source: {kind: coined}
+
+    - form: korema
+      class: n f
+      field: The old mountain speech
+      gloss: "cliff face"
+      source: {kind: coined}
+
+    - form: madro
+      class: n n
+      field: Land, the high country and the weather
+      gloss: mouth of a person or gorge
+      source: {kind: coined}
+    - form: nasdelos
+      class: adj
+      field: Qualities
+      gloss: "correct in statement or conduct"
+      source: {kind: coined}
+
+    - form: dalmor
+      class: n n
+      field: The old mountain speech
+      gloss: "shoulder"
+      source: {kind: coined}
+
+    - form: loztalor
+      class: n n
+      field: Land, the high country and the weather
+      gloss: bag of stones
+      source: {kind: coined}
+    - form: makra
+      class: n f
+      field: The old mountain speech
+      gloss: "carried stores"
+      source: {kind: coined}
+
+    - form: alatar
+      class: adv
+      field: Numbers and grammar words
+      gloss: "far away"
+      source: {kind: coined}
+
+    - form: trumed
+      class: v
+      field: Doing, going and being
+      gloss: "drive an animal forward"
+      source: {kind: coined}
+
+    - form: tirkel
+      class: n n
+      field: The old mountain speech
+      gloss: "wheel"
+      source: {kind: coined}
+
+    - form: karvamon
+      class: n n
+      field: The old mountain speech
+      gloss: "smoke"
+      source: {kind: coined}
+
+    - form: ilteron
+      class: n n
+      field: The old mountain speech
+      gloss: "sky"
+      source: {kind: coined}
+
+    - {form: kaure, class: adj, field: Qualities, gloss: "black", source: {kind: coined}}
+
+    - form: semba
+      class: n f
+      field: The old mountain speech
+      gloss: "join between adjoining shields or boards"
+      source: {kind: coined}
+
+    - form: luthron
+      class: n n
+      field: Time and the year
+      gloss: "daylight"
+      source: {kind: coined}
+
+    - form: luthros
+      class: adj
+      field: Qualities
+      gloss: "bright with daylight"
+      source: {kind: coined}
+
+    - form: nardzirun
+      class: n n
+      field: The old mountain speech
+      gloss: "noon"
+      source: {kind: coined}
+
+    - form: antigkramon
+      class: n n
+      field: The old mountain speech
+      gloss: "military recall sounded on horns"
+      source: {kind: coined}
+
+    - form: anervon
+      class: n n
+      field: The old mountain speech
+      gloss: "being trapped or held without an exit"
+      source: {kind: coined}
+
+    - {form: thauron, class: n n, field: The household, gloss: "garrison", source: {kind: coined}}
+
+    - form: vevelda
+      class: n f
+      field: The old mountain speech
+      gloss: "pride"
+      source: {kind: coined}
+
+    - form: kovrathal
+      class: n n
+      field: The old mountain speech
+      gloss: "helmet"
+      source: {kind: coined}
+
+    - form: dak
+      class: n n
+      field: The old mountain speech
+      gloss: "depth"
+      source: {kind: coined}
+
+    - form: ithros
+      class: num
+      field: Numbers and grammar words
+      gloss: [few, little in quantity; few, few or diminished in quantity]
+      source: {kind: coined}
+      concept: [few, little-quantity]
+    - form: lamothos
+      class: n n
+      field: The household
+      gloss: [the arm, arm of a person]
+      source: {kind: coined}
+      concept: arm
+    - form: anthurkos
+      class: adj
+      field: Qualities
+      gloss: "weak through exertion"
+      source: {kind: coined}
+
+    - form: lomandon
+      class: n n
+      field: The old mountain speech
+      gloss: "laughter"
+      source: {kind: coined}
+
+    - form: urtis
+      class: adv
+      field: Numbers and grammar words
+      gloss: "only"
+      source: {kind: coined}
+
+    - form: letima
+      class: n f
+      field: The old mountain speech
+      gloss: "list"
+      source: {kind: coined}
+
+    - form: karzore
+      class: num
+      field: Numbers and grammar words
+      gloss: "third"
+      source: {kind: coined}
+
+    - form: samdon
+      class: n n
+      field: The old mountain speech
+      gloss: "height"
+      source: {kind: coined}
+
+    - form: enthe
+      class: adj
+      field: Qualities
+      gloss: "sheer or vertical like a wall"
+      source: {kind: coined}
+
+    - form: salkon
+      class: n n
+      field: The coast and the sea
+      gloss: [a shore, coast]
+      source: {kind: coined}
+      concept: shore
+    - form: lokanti
+      class: adv
+      field: Numbers and grammar words
+      gloss: "in future time"
+      source: {kind: coined}
+
+    - form: solkadon
+      class: adv
+      field: Numbers and grammar words
+      gloss: "slowly"
+      source: {kind: coined}
+
+    - form: helzed
+      class: v
+      field: "Doing, going and being"
+      gloss: "send someone or something toward a destination or away"
+      source: {kind: coined}
+    - form: talerad
+      class: v
+      field: "Doing, going and being"
+      gloss: "cut or carve material, including a road through rock"
+      source: {kind: coined}
+    - form: karuna
+      class: n f
+      field: "Towns, holdings and the road"
+      gloss: "a cart for carrying people or goods"
+      source: {kind: coined}
+    - form: solten
+      class: n n
+      field: "The body, life and death"
+      gloss: "a side or flank; one surface beside the front and back"
+      source: {kind: coined}
+    - form: lozandon
+      class: n n
+      field: "Doing, going and being"
+      gloss: "a burden or load to be carried"
+      source: {kind: coined}
+    - form: antigandon
+      class: n n
+      field: "Doing, going and being"
+      gloss: "a return; going back to an earlier place"
+      source: {kind: coined}
+    - form: helzandon
+      class: n n
+      field: "Doing, going and being"
+      gloss: "a throw or cast of an object"
+      source: {kind: coined}
+    - form: gorandon
+      class: n n
+      field: "The company and the trade of arms"
+      gloss: "a shot from a bow or crossbow"
+      source: {kind: coined}
+    - form: umeltad
+      class: v
+      field: "Doing, going and being"
+      gloss: "rest or pause for bodily recovery"
+      source: {kind: coined}
+    - form: hreth
+      class: n n
+      field: "Land, the high country and the weather"
+      gloss: "a ford; a shallow crossing in a river"
+      source: {kind: coined}
+    - form: lendandon
+      class: n n
+      field: "Doing, going and being"
+      gloss: "placement; setting a thing in its place"
+      source: {kind: coined}
+    - form: a
+      class: n n
+      field: "Speech, song and the learned"
+      gloss: "the name of the vowel a"
+      source: {kind: coined}
+    - form: e
+      class: n n
+      field: "Speech, song and the learned"
+      gloss: "the name of the vowel e"
+      source: {kind: coined}
+    - form: o
+      class: n n
+      field: "Speech, song and the learned"
+      gloss: "the name of the vowel o"
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
