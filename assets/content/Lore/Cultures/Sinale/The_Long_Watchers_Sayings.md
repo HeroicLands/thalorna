@@ -21,333 +21,1017 @@ data:
 # terran_analog: "The Welsh gnomic englynion, an image from the weather or the wood answered by a rule; Hávamál's stanzas of counsel to a guest; the question-and-answer instructions of the Irish wisdom texts; the Kanteletar's habit of restating a line by the line after it."
 ---
 
-**The Long-Watcher's Sayings**, _Ansorunnoren saunari_, are the sayings of one [[lore-calathirrnk|Ansorun]] of [[place-aelirosse|Aelirosse]], [Olmasitti Ropelinto]{.name data-type="being/npc"}, to the [[lore-tindesarrnk|Iltorin]] he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi ha-kelsa ovu oson ha-evatte Ansorun Iltorinnomen_, "Have you heard what the Long-Watcher said to the Seer?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinale]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan child]] fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams held to be sent by [[lore-goddreams|the God of Dreams]] (Aulveira) were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinale of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of a Seer's learning. One saying names a tree whose Sinale name she did not carry, and the Keepers leave the gap. The Long-Watcher is dead, and Aelirosse says his name now with an epithet after it, Torvelsa, of the oak.
+**The Long-Watcher's Sayings**, _Ansorunnoren saunari_, are the sayings of one [[lore-calathirrnk|Ansorun]] of [[place-aelirosse|Aelirosse]], [Olmasitti Ropelinto]{.name data-type="being/npc"}, to the [[lore-tindesarrnk|Iltorin]] he taught, said to her one at a time across the years of her learning: in the grove, at the water-court, over whoever was sick, and once at the ford. _Saunari_ are words kept whole and passed on, and a saying becomes one the first time somebody other than its speaker says it; the stanza it is passed on in opens every time on the same line, _Uvi kelsa ovu ansorun evakka oso kelsa iltorîn_, "Have you heard the Long-Watcher’s speech that the Seer heard?", then gives the thing he was looking at, then the rule. The [[lore-flksinale|Sinale]] of Aelirosse passed his sayings among themselves while he lived, and an [[lore-aelendnppl|Áelendan child]] fostered there heard them that way, in runs, as the grove was tended and the sick were sat with and the dreams held to be sent by [[lore-goddreams|the God of Dreams]] (Aulveira) were read; she carried them to the Tradition Keepers, who hold them with the tribal songs and say them, since nobody has set them to a harp. The near humans of the sayings are the Áelendan, under the name the Sinale of Aelirosse give them. The sayings stand here in the order the Keepers hold them, which is the order she learned them, which is roughly the order of a Seer's learning. One saying names a tree whose Sinale name she did not carry, and the Keepers leave the gap. The Long-Watcher is dead, and Aelirosse says his name now with an epithet after it, Torvelsa, of the oak.
 
 : The Oak by the Water-Court {#oak}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  I set the oak by the water-court when it was no taller than I am. I have seen it grown.
-  You will see it grown, and see it fall, and see what comes up in the gap. Set it anyway.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A watch is one tree seeded, fallen and come back. I have kept three.
-  Stand where you can see the tree.
+1 [.Vaissa ehi torvel melke raltiilevaho uvi vautti onsa ehitos ahi eho iha tunes yinse ehi onsa lervi onsa insu]{.nativefont lang=sina}
+2 [.I planted the oak at the water-court. Taller than me? Not then. I have seen it; it is grown now.]{lang=en}
+2 [.Vaissa ehi torvel melke raltiilevaho uvi vautti onsa ehitos ahi eho iha tunes yinse ehi onsa lervi onsa insu]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  What you watch over will not thank you.
-  So you know it is alive, and still not yours.
+1 [.Yinse ovu lervi torvel yinse ovu onsa oso pelpe yinse ovu oso lirta sorvel elnisho alte váissa ovu onsa]{.nativefont lang=sina}
+2 [.You will see the grown oak, see it fall, and see what grows in its place. But plant it.]{lang=en}
+2 [.Yinse ovu lervi torvel yinse ovu onsa oso pelpe yinse ovu oso lirta sorvel elnisho alte váissa ovu onsa]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The wood was here when we came. It had been getting on without us.
-  Tend it as a guest tends the fire in a house that is not his: well, and without moving the stones.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  I have stood in this grove long enough that the deer go around me.
-  When the deer go around you, you have begun.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  There is a human child at the edge of the grove, watching us.
-  Teach her nothing. She learns anyway. See that what she learns is true.
+1 [.Torvel ilte oso pehe aimetti oso pelpe oso patten ansoru ansoruta ehi ansoru kevu]{.nativefont lang=sina}
+2 [.A watch is one oak that seeds, falls and returns. I have kept three watches.]{lang=en}
+2 [.Torvel ilte oso pehe aimetti oso pelpe oso patten ansoru ansoruta ehi ansoru kevu]{lang=sina}
+
+1 [.Setty ovu elnisho oso yinse ovu torvel]{.nativefont lang=sina}
+2 [.Stand where you see the oak.]{lang=en}
+2 [.Setty ovu elnisho oso yinse ovu torvel]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi savessi oso ansoruta ovu ovu]{.nativefont lang=sina}
+2 [.What you watch over will not thank you.]{lang=en}
+2 [.Ahi savessi oso ansoruta ovu ovu]{lang=sina}
+
+1 [.Saumi iha ylpise onsa erni ovu iha ahi nelvata ovu onsǎ]{.nativefont lang=sina}
+2 [.This is the teaching: it is alive. You know this. You do not own it.]{lang=en}
+2 [.Saumi iha ylpise onsa erni ovu iha ahi nelvata ovu onsǎ]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Eho lonku ennos tenvas ehii lirta onsa ahi eho ehii ihaho tunes]{.nativefont lang=sina}
+2 [.The wood existed before we came. It grew. We were not here then.]{lang=en}
+2 [.Eho lonku ennos tenvas ehii lirta onsa ahi eho ehii ihaho tunes]{lang=sina}
+
+1 [.Leltai ovu lonku kerrai ovu avetti leltairsa tupe ellevi hyrre uttes lirne ninteho ahi nelvata onsa ninte ahi rauttu ovu ralti]{.nativefont lang=sina}
+2 [.Tend the wood. Choose care that fits. A guest keeps the fire in another’s house. He does not own the house. Do not move the stones.]{lang=en}
+2 [.Leltai ovu lonku kerrai ovu avetti leltairsa tupe ellevi hyrre uttes lirne ninteho ahi nelvata onsa ninte ahi rauttu ovu ralti]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Setty ehi iha salpukkoho aulten sennaveho korpe ilsetti vennas leësy ehiho]{.nativefont lang=sina}
+2 [.I have stood in this grove a long time. The deer turn aside where I stand.]{lang=en}
+2 [.Setty ehi iha salpukkoho aulten sennaveho korpe ilsetti vennas leësy ehiho]{lang=sina}
+
+1 [.Entel korpe ilsetti vennas leësy ovuho eirandita ovǔ]{.nativefont lang=sina}
+2 [.If the deer turn aside at you, you have begun.]{lang=en}
+2 [.Entel korpe ilsetti vennas leësy ovuho eirandita ovǔ]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Eho hepymuuvu nysse salpukko issalteho yinse onsa ehii]{.nativefont lang=sina}
+2 [.A child of the near humans is at the grove’s edge. She sees us.]{lang=en}
+2 [.Eho hepymuuvu nysse salpukko issalteho yinse onsa ehii]{lang=sina}
+
+1 [.Ahi saumel ovu onsa alte ruvas onsa renetti ovu oso ruvas onsa]{.nativefont lang=sina}
+2 [.Do not teach her. But she learns. Make sure what she learns is true.]{lang=en}
+2 [.Ahi saumel ovu onsa alte ruvas onsa renetti ovu oso ruvas onsa]{lang=sina}
 ```
 
 : Dreams {#dreams}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  A dream is the god's hand on your shoulder in the dark. It says: here.
-  It does not say what to do. Read it. Do not obey it.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Read a dream as you read a crossing: where the water is shallow, and not where you would like to cross.
-  Then wait a day.
+1 [.Aulveira alken olpeira ovu palmisho nalduho evatte onsa iha]{.nativefont lang=sina}
+2 [.A dream is Aulveira’s hand on your shoulder in the dark. It says: here.]{lang=en}
+2 [.Aulveira alken olpeira ovu palmisho nalduho evatte onsa iha]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A dream that tells you what you wanted to hear is still a dream, and you still heard it.
-  Read it twice. Read it a third time in the morning, after bread.
+1 [.Ahi navessi onsa ovu ennomi ovu onsa ahi verran ovu onsa]{.nativefont lang=sina}
+2 [.It does not order you. Read it. Do not obey it.]{lang=en}
+2 [.Ahi navessi onsa ovu ennomi ovu onsa ahi verran ovu onsa]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  I have read a dream wrong four times. I remember the four better than all the rest.
-  Keep the wrong readings where you can find them.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  The god sends the dream as the wind sends the seed.
-  The ground is not ordered to grow it, and the ground does not grow all of them.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Do not thank the god for a dream.
-  Read it. The reading is the thanks, and the god knows no other.
+1 [.Ennomi ovu olpeira ennomi ovu vaulti nelvi melke esoho ahi ennomi ovu ovu lannairsa]{.nativefont lang=sina}
+2 [.Read the dream. Read the ford: the water is shallow there. Do not read your own desire.]{lang=en}
+2 [.Ennomi ovu olpeira ennomi ovu vaulti nelvi melke esoho ahi ennomi ovu ovu lannairsa]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Some dreams are only sleep.
-  Say so when it is so. Do not say it often, and never because the dream was hard.
+1 [.Sennevi ovu seipannu iltě sennave]{.nativefont lang=sina}
+2 [.Wait one day’s time.]{lang=en}
+2 [.Sennevi ovu seipannu iltě sennave]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A human brings you a dream and wants to know what it means for the harvest.
-  Tell her what it means. If it means nothing for the harvest, that is also what it means.
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Entel evatte olpeira ovu lannairsa olpeira onsa erme kelsa ovu onsa]{.nativefont lang=sina}
+2 [.If a dream speaks your desire, it is a dream too, and you heard it.]{lang=en}
+2 [.Entel evatte olpeira ovu lannairsa olpeira onsa erme kelsa ovu onsa]{lang=sina}
+
+1 [.Irna ovu ennomirsa sipes irna ovu ennomirsa ilte ulsen roselho uulse mairel ovu tarnevi]{.nativefont lang=sina}
+2 [.Make two readings. Make one more in the morning, after bread.]{lang=en}
+2 [.Irna ovu ennomirsa sipes irna ovu ennomirsa ilte ulsen roselho uulse mairel ovu tarnevi]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Irna ehi senvai olpeira ennomirsa pemi serdattota ehi onsaa setty onsaa ehi serdattoho ennos uttes ennomirsa vennas ummes]{.nativefont lang=sina}
+2 [.I have made four mistaken dream-readings. I remember them. They stand in my memory before all the other readings.]{lang=en}
+2 [.Irna ehi senvai olpeira ennomirsa pemi serdattota ehi onsaa setty onsaa ehi serdattoho ennos uttes ennomirsa vennas ummes]{lang=sina}
+
+1 [.Tupe ovu senvai ennomirsa vennas elnisho oso lemmes ovu onsaa]{.nativefont lang=sina}
+2 [.Keep the mistaken readings where you find them.]{lang=en}
+2 [.Tupe ovu senvai ennomirsa vennas elnisho oso lemmes ovu onsaa]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Pettan Aulveira olpeira pettan vilkai aimetti]{.nativefont lang=sina}
+2 [.Aulveira brings the dream. The wind brings the seed.]{lang=en}
+2 [.Pettan Aulveira olpeira pettan vilkai aimetti]{lang=sina}
+
+1 [.Ahi navessi iha aimetti polpe lirta polpe aimetti eltes ahi lirta onsa aimetti ummes]{.nativefont lang=sina}
+2 [.This seed does not command the ground. The ground grows some seed, not all of it.]{lang=en}
+2 [.Ahi navessi iha aimetti polpe lirta polpe aimetti eltes ahi lirta onsa aimetti ummes]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi savessi ovu Aulveira olpeiratos]{.nativefont lang=sina}
+2 [.Do not thank Aulveira for a dream.]{lang=en}
+2 [.Ahi savessi ovu Aulveira olpeiratos]{lang=sina}
+
+1 [.Ennomi ovu onsa tavessirsa ennomirsa ahi erni Aulveira uttes tavessirsa]{.nativefont lang=sina}
+2 [.Read it. The reading is thanks. Aulveira knows no other thanks.]{lang=en}
+2 [.Ennomi ovu onsa tavessirsa ennomirsa ahi erni Aulveira uttes tavessirsa]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Naukkirsa iltettu olpeira vennas eltes]{.nativefont lang=sina}
+2 [.Some dreams are only sleep.]{lang=en}
+2 [.Naukkirsa iltettu olpeira vennas eltes]{lang=sina}
+
+1 [.Renetti ovu iha entel iha evatte ovu iha ahi evatte ovu iha selnavi alte áhi evatte ovu iha ravelli olpeiratos]{.nativefont lang=sina}
+2 [.Make sure it is true; if so, say so. Do not say it often, and never just because a dream is difficult.]{lang=en}
+2 [.Renetti ovu iha entel iha evatte ovu iha ahi evatte ovu iha selnavi alte áhi evatte ovu iha ravelli olpeiratos]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Pettan hepymuuvu lirne olpeira lannai onsa olpeira velsanolpis]{.nativefont lang=sina}
+2 [.A near human brings a dream. She wants its meaning for the harvest.]{lang=en}
+2 [.Pettan hepymuuvu lirne olpeira lannai onsa olpeira velsanolpis]{lang=sina}
+
+1 [.Evatte ovu olpeira olpis entel aume olpeira velsanolpis evatte ovu iha erme]{.nativefont lang=sina}
+2 [.Say the dream’s meaning. If its harvest-meaning is nothing, say that too.]{lang=en}
+2 [.Evatte ovu olpeira olpis entel aume olpeira velsanolpis evatte ovu iha erme]{lang=sina}
 ```
 
 : The Grove {#grove}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  Cut willow in the still hour and hazel when the sap is down.
-  Yew you do not cut. Ask me why in five twenties of years.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Walk the boundary of the grove on the first day of the thaw.
-  The winter has moved it.
+1 [.Terkata ovu vettise nuomiho terkata ovu hantel entel ulsa alpes]{.nativefont lang=sina}
+2 [.Cut willow in the still hour; cut hazel when the sap is low.]{lang=en}
+2 [.Terkata ovu vettise nuomiho terkata ovu hantel entel ulsa alpes]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A ward sung at dusk holds the night.
-  A ward sung at noon has to be sung again at dusk, by somebody tired, and the ward shows it.
+1 [.Ahi serkata ovu eikka sennevi ovu toimunu letta elki kessave ovu ehi uvi mavitôs]{.nativefont lang=sina}
+2 [.Do not cut yew. Wait five twenties of years, then ask me why.]{lang=en}
+2 [.Ahi serkata ovu eikka sennevi ovu toimunu letta elki kessave ovu ehi uvi mavitôs]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Moss on a stone is a year for every finger's breadth.
-  Do not scrape it off to see what is written underneath. It is written on top.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  The tall grass stands in the low fog. It is not waiting for you to do anything.
-  Most of tending is standing there.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  There is no fence around a grove, and nothing in the ground is sacred by itself.
-  What makes it a grove is that somebody has not left.
+1 [.Sattai ovu salpukko issalteho sulme eirandi teipannuho]{.nativefont lang=sina}
+2 [.Walk the grove’s edge on the thaw’s first day.]{lang=en}
+2 [.Sattai ovu salpukko issalteho sulme eirandi teipannuho]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Say the trees' names aloud once a year, oldest first.
-  You will skip one. That is the one to go and look at.
+1 [.Rauttu unturo onsa]{.nativefont lang=sina}
+2 [.Winter has moved it.]{lang=en}
+2 [.Rauttu unturo onsa]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The dwelling is worked into the birch, and the birch did not agree to it.
-  Ask it every spring. It answers in leaves, or it answers in none.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  Under the […] the ground is dry in the wettest year.
-  Sleep there when the dreams come heavy. It is kept for that.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The place where the veil is thin lies at the edge of what we keep, and we do not keep it.
-  Walk past it as you walk past a neighbor's door: knowing where it is, and not going in.
+1 [.Luuro luuronno orti oltessaho tupe onsa ossenda]{.nativefont lang=sina}
+2 [.A singer sings a ward at dusk. It holds the night.]{lang=en}
+2 [.Luuro luuronno orti oltessaho tupe onsa ossenda]{lang=sina}
+
+1 [.Luuro luuronno orti seikandaho luuro mellavi luuronno onsa ulsen oltessaho yinse ovu luuronno mellavirsa ortiho]{.nativefont lang=sina}
+2 [.A ward sung at noon is sung again at dusk by a tired singer. You see the singer’s weariness in the ward.]{lang=en}
+2 [.Luuro luuronno orti seikandaho luuro mellavi luuronno onsa ulsen oltessaho yinse ovu luuronno mellavirsa ortiho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Toimunu ilte sirelvellun ilte olmasiho raltiho]{.nativefont lang=sina}
+2 [.One finger-breadth of moss on rock is one year.]{lang=en}
+2 [.Toimunu ilte sirelvellun ilte olmasiho raltiho]{lang=sina}
+
+1 [.Ahi rauttu ovu olmasi uvi meëve ovu veldi olmasi ulnavaho ennomi ovu veldi olmasiho]{.nativefont lang=sina}
+2 [.Do not move the moss. Do you seek writing beneath it? Read the writing in the moss.]{lang=en}
+2 [.Ahi rauttu ovu olmasi uvi meëve ovu veldi olmasi ulnavaho ennomi ovu veldi olmasiho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Setty lenti ulsa talveho ahi sennevi onsa ovu]{.nativefont lang=sina}
+2 [.Tall grass stands in low fog. It does not wait for you.]{lang=en}
+2 [.Setty lenti ulsa talveho ahi sennevi onsa ovu]{lang=sina}
+
+1 [.Settyrse leltairsa vennai esoho]{.nativefont lang=sina}
+2 [.Most tending is standing there.]{lang=en}
+2 [.Settyrse leltairsa vennai esoho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi eho varkel salpukko issalteho seirata polpe iltettu aume]{.nativefont lang=sina}
+2 [.There is no fence at the grove’s edge. Ground alone makes nothing sacred.]{lang=en}
+2 [.Ahi eho varkel salpukko issalteho seirata polpe iltettu aume]{lang=sina}
+
+1 [.Salpukko iha osotos eho lirne oso ahi olkǎi]{.nativefont lang=sina}
+2 [.This is a grove because someone has not left.]{lang=en}
+2 [.Salpukko iha osotos eho lirne oso ahi olkǎi]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Evatte ovu salpu sirne vennas evakkaho ilte ummes toimunuho vennas vonu eirandi salpu uttes salputos vennas ummes]{.nativefont lang=sina}
+2 [.Say the trees’ names in one telling each year. The first tree you name is older than all the others.]{lang=en}
+2 [.Evatte ovu salpu sirne vennas evakkaho ilte ummes toimunuho vennas vonu eirandi salpu uttes salputos vennas ummes]{lang=sina}
+
+1 [.Ahi senvas sirne ilte ovu evakkaho vaukka ovu tyltete ovu eso salpu]{.nativefont lang=sina}
+2 [.One name does not come into your speech. Go and look at that tree.]{lang=en}
+2 [.Ahi senvas sirne ilte ovu evakkaho vaukka ovu tyltete ovu eso salpu]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Irna irnanno ninte kalpiho ahi seimakata kalpi iha]{.nativefont lang=sina}
+2 [.A maker works a dwelling into birch. The birch has not agreed to this.]{lang=en}
+2 [.Irna irnanno ninte kalpiho ahi seimakata kalpi iha]{lang=sina}
+
+1 [.Kessave ovu onsa ummes leikenho vennas vandel onsa lauppiho oha vandel onsa lauppi aamasho]{.nativefont lang=sina}
+2 [.Ask it every spring. It answers in leaves, or in their absence.]{lang=en}
+2 [.Kessave ovu onsa ummes leikenho vennas vandel onsa lauppiho oha vandel onsa lauppi aamasho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe]{.nativefont lang=sina} [\[…\]]{lang=sina} [ulnavaho]{.nativefont lang=sina}
+2 [.Even in a year wetter than all the others, the ground under the]{lang=en} [\[…\]]{lang=en} [is dry.]{lang=en}
+2 [.Entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe]{lang=sina} [\[…\]]{lang=sina} [ulnavaho]{lang=sina}
+
+1 [.Entel tenvas nervel olpeira vennas naukki ovu esoho tupe tupenno iha elnis nervel olpeiratos vennas]{.nativefont lang=sina}
+2 [.When heavy dreams come, sleep there. The place is kept for heavy dreams.]{lang=en}
+2 [.Entel tenvas nervel olpeira vennas naukki ovu esoho tupe tupenno iha elnis nervel olpeiratos vennas]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Eho sirnasto salpukko issalteho ahi leltai ehii onsa]{.nativefont lang=sina}
+2 [.The thin place is at the grove’s edge. We do not tend it.]{lang=en}
+2 [.Eho sirnasto salpukko issalteho ahi leltai ehii onsa]{lang=sina}
+
+1 [.Sannai ovu onsa sannai ovu hepy ninte ovaikke erni ovu onsa elnis ahi ulpes ovu onsa]{.nativefont lang=sina}
+2 [.Pass it as you pass the nearby house’s door: know where it is, and do not enter.]{lang=en}
+2 [.Sannai ovu onsa sannai ovu hepy ninte ovaikke erni ovu onsa elnis ahi ulpes ovu onsa]{lang=sina}
 ```
 
 : The Sickbed {#sickbed}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  Pour the salve warm. Cold, it sits on the skin and does nothing.
-  Most of healing is that kind of thing.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A fever has a turning hour, as the year does.
-  Be in the room for it. Nothing you do before it matters as much as being there then.
+1 [.Pelvanni ovu emmaka mettis entel hilsy onsa leëvi onsa vessitaho irna onsa aume]{.nativefont lang=sina}
+2 [.Pour warm salve. If it is cold, it sits on the skin and makes nothing.]{lang=en}
+2 [.Pelvanni ovu emmaka mettis entel hilsy onsa leëvi onsa vessitaho irna onsa aume]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  When you heal one of the near humans, work as if she had our years.
-  She has not. Work that way. She can see your face.
+1 [.Iha selpi maurekkirsa vennai]{.nativefont lang=sina}
+2 [.Most healing is this kind of thing.]{lang=en}
+2 [.Iha selpi maurekkirsa vennai]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The hand you are holding is warm. You know that much and no more.
-  Do not read the end in it. You are not the god, and the god has sent you no dream about it.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  A human asks "will I live?" the way a child asks "is it far?"
-  Answer as you would answer the child: truly, and in a way she can carry.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  There is a kind of sick that herbs do not reach and no dream is sent for.
-  Sit. Sitting is a rite. Nobody sings it, and it is one.
+1 [.Eho hennavi horpersa iltatti eho soimu horpersa iltatti]{.nativefont lang=sina}
+2 [.A fever has a turning hour. The year has a turning hour.]{lang=en}
+2 [.Eho hennavi horpersa iltatti eho soimu horpersa iltatti]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  I have closed the eyes of eleven of the near humans in this grove, and I have all eleven names.
-  Call her by the whole name while there is somebody to answer to it.
+1 [.Sendeppi ovu niltuho eso iltattiho ervu iha valmi ummes maurekkirsatos oso irna ovu ennos]{.nativefont lang=sina}
+2 [.Stay in the room at that hour. This is worth more than all the healing work you do before.]{lang=en}
+2 [.Sendeppi ovu niltuho eso iltattiho ervu iha valmi ummes maurekkirsatos oso irna ovu ennos]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The sick do not want to be watched over. They want to be looked at.
-  Learn the difference at the bedside. The grove will not teach it.
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Maurekki ovu hepymuuvu lirne entel ehii toimunu vennas onsa toimunu vennas uvi maurekki ovu onsa mavisâ]{.nativefont lang=sina}
+2 [.You heal a near human. If her years were ours, how would you heal her?]{lang=en}
+2 [.Maurekki ovu hepymuuvu lirne entel ehii toimunu vennas onsa toimunu vennas uvi maurekki ovu onsa mavisâ]{lang=sina}
+
+1 [.Ahi eho iha kerrai ovu eso maurekkirsa yinse onsa ovu nerve]{.nativefont lang=sina}
+2 [.They are not. Choose that healing. She sees your face.]{lang=en}
+2 [.Ahi eho iha kerrai ovu eso maurekkirsa yinse onsa ovu nerve]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Emmaka alken oso tupe ovu erni ovu iha iltettu]{.nativefont lang=sina}
+2 [.The hand you hold is warm. You know only this.]{lang=en}
+2 [.Emmaka alken oso tupe ovu erni ovu iha iltettu]{lang=sina}
+
+1 [.Ahi ennomi ovu oltandi iha alkenho uvi Aulveira ovu ahi eho iha ahi pettan Aulveira olpeira iha kessaritos]{.nativefont lang=sina}
+2 [.Do not read the end in this hand. Are you Aulveira? You are not. Aulveira has brought no dream for this question.]{lang=en}
+2 [.Ahi ennomi ovu oltandi iha alkenho uvi Aulveira ovu ahi eho iha ahi pettan Aulveira olpeira iha kessaritos]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Kessave hepymuuvu lirne uvi ylpi ehi uulse kessave nysse uvi eppanne onsa]{.nativefont lang=sina}
+2 [.A near human asks, “Will I live afterward?” A child asks, “Is it far?”]{lang=en}
+2 [.Kessave hepymuuvu lirne uvi ylpi ehi uulse kessave nysse uvi eppanne onsa]{lang=sina}
+
+1 [.Vandel ovu hepymuuvu lirne kuse sennai evakka oso erdavi nysse]{.nativefont lang=sina}
+2 [.Answer the near human with true speech a child can carry.]{lang=en}
+2 [.Vandel ovu hepymuuvu lirne kuse sennai evakka oso erdavi nysse]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Eho salmirarsa selpi ahi senval nelpe onsa ahi pettan Aulveira olpeira iha salmirarsatos]{.nativefont lang=sina}
+2 [.There is a kind of illness herbs do not reach. Aulveira brings no dream for this illness.]{lang=en}
+2 [.Eho salmirarsa selpi ahi senval nelpe onsa ahi pettan Aulveira olpeira iha salmirarsatos]{lang=sina}
+
+1 [.Leëvi ovu lonte leëvirse ahi luuro lirne onsa lonte onsa erme]{.nativefont lang=sina}
+2 [.Sit. Sitting is a rite. Nobody sings it. It is a rite too.]{lang=en}
+2 [.Leëvi ovu lonte leëvirse ahi luuro lirne onsa lonte onsa erme]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Kalpe ehi hepymuuvu lirne ilte tovaho tylte vennas iha salpukkoho tupe ehi onsaa sirne ilte tovaho ummes]{.nativefont lang=sina}
+2 [.I have closed the eyes of eleven near humans in this grove. I hold all eleven names.]{lang=en}
+2 [.Kalpe ehi hepymuuvu lirne ilte tovaho tylte vennas iha salpukkoho tupe ehi onsaa sirne ilte tovaho ummes]{lang=sina}
+
+1 [.Kilpete ovu onsa sirne ummes entel eho lirne oso vandel eso sirne]{.nativefont lang=sina}
+2 [.Call her whole name while there is someone who answers that name.]{lang=en}
+2 [.Kilpete ovu onsa sirne ummes entel eho lirne oso vandel eso sirne]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi lannai salmira lirne ovu ansorutarsa lannai onsa ovu tylteterse]{.nativefont lang=sina}
+2 [.The sick person does not want your watch. She wants your looking.]{lang=en}
+2 [.Ahi lannai salmira lirne ovu ansorutarsa lannai onsa ovu tylteterse]{lang=sina}
+
+1 [.Ruvas ovu iha naukkisto issalteho ahi saumel salpukko iha]{.nativefont lang=sina}
+2 [.Learn this at the bedside. The grove will not teach it.]{lang=en}
+2 [.Ruvas ovu iha naukkisto issalteho ahi saumel salpukko iha]{lang=sina}
+
 ```
 
 : Light and Dark {#light}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  We call them Light and we call them Dark.
-  The names are ours. They have not agreed to them. Use the names, and remember whose they are.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Light builds and Dark takes down, and the deep wood does both every year without asking us which it is.
-  Do not sort the wood. The sorting is for us, and we do it to ourselves.
+1 [.Sirneta ehii onsaa aulira sirneta ehii onsaa naldu]{.nativefont lang=sina}
+2 [.We name them Light. We name them Dark.]{lang=en}
+2 [.Sirneta ehii onsaa aulira sirneta ehii onsaa naldu]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Sing to Aulveira as you talk to a friend who has heard it all before.
-  The god has. Do not perform.
+1 [.Ehii sirne vennas onsaa ahi seimakata onsaa iha evatte ovu sirne vennas serdattota ovu iha]{.nativefont lang=sina}
+2 [.These are our names. They have not agreed to them. Use the names; remember that.]{lang=en}
+2 [.Ehii sirne vennas onsaa ahi seimakata onsaa iha evatte ovu sirne vennas serdattota ovu iha]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  When somebody tells you that the Dark is only our word for what we do not like, he is right.
-  Go on not liking it.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  The owl is Dark to the mouse and nothing at all to the oak.
-  Name a being by what it builds and what it takes down, never by whom it frightens.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The god's light holds the boundary between the waking world and the other.
-  It holds it the way a bank holds a river: by having been there a long time.
+1 [.Irna aulira tahke naldu irna lonku tahke onsa ummes toimunuho vennas ahi hessave onsa ehii uvi aulira onsa oha naldu onsa]{.nativefont lang=sina}
+2 [.Light makes; Dark breaks. The wood makes and breaks each year, without asking us whether it is Light or Dark.]{lang=en}
+2 [.Irna aulira tahke naldu irna lonku tahke onsa ummes toimunuho vennas ahi hessave onsa ehii uvi aulira onsa oha naldu onsa]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Nobody knows where a soul comes from, and we have been not knowing it longer than anyone.
-  Say so plainly when you are asked. Then go on with the rite.
+1 [.Ahi selpita ovu lonku selpita ehii ehii aiva iltettu]{.nativefont lang=sina}
+2 [.Do not sort the wood. We sort only ourselves.]{lang=en}
+2 [.Ahi selpita ovu lonku selpita ehii ehii aiva iltettu]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Luuro ovu kelsa Aulveira evatte ovu kelsa ansekki oso kelsa ummes ennos]{.nativefont lang=sina}
+2 [.Sing, and Aulveira hears; speak, and a friend who has heard it all before hears.]{lang=en}
+2 [.Luuro ovu kelsa Aulveira evatte ovu kelsa ansekki oso kelsa ummes ennos]{lang=sina}
+
+1 [.Kelsa Aulveira ummes ennos ahi vellati ovu]{.nativefont lang=sina}
+2 [.Aulveira has heard it all before. Do not put on a show.]{lang=en}
+2 [.Kelsa Aulveira ummes ennos ahi vellati ovu]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Entel evatte lirne ehii evesi naldu oso senvelli ehii tennai onsa evakka]{.nativefont lang=sina}
+2 [.If someone says Dark is our word for what we dislike, his speech is true.]{lang=en}
+2 [.Entel evatte lirne ehii evesi naldu oso senvelli ehii tennai onsa evakka]{lang=sina}
+
+1 [.Senvelli ovu onsa ulsen evi ulsen]{.nativefont lang=sina}
+2 [.Keep disliking it.]{lang=en}
+2 [.Senvelli ovu onsa ulsen evi ulsen]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Naldu huvetta nirritos aume onsa torveltos]{.nativefont lang=sina}
+2 [.The owl is Dark by the mouse’s measure, and nothing by the oak’s.]{lang=en}
+2 [.Naldu huvetta nirritos aume onsa torveltos]{lang=sina}
+
+1 [.Sirneta ovu raivas onsa ilnavatos evi onsa tahkersatos ahi sirneta ovu onsa elnerinutos oso harnavi onsa]{.nativefont lang=sina}
+2 [.Name a being for its made work and its breaking, not for the things it frightens.]{lang=en}
+2 [.Sirneta ovu raivas onsa ilnavatos evi onsa tahkersatos ahi sirneta ovu onsa elnerinutos oso harnavi onsa]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Tupe Aulveira aulira nalkel salnava evi uttes salnava issalte]{.nativefont lang=sina}
+2 [.Aulveira’s light holds the edge of the waking world and the other world.]{lang=en}
+2 [.Tupe Aulveira aulira nalkel salnava evi uttes salnava issalte]{lang=sina}
+
+1 [.Tupe lova lanteppi osotos eho onsa esoho aulten sennaveho]{.nativefont lang=sina}
+2 [.The far bank holds the river because it has been there a long time.]{lang=en}
+2 [.Tupe lova lanteppi osotos eho onsa esoho aulten sennaveho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi erni lirne ennave eirandisto ahi erni ehii ennos ummes uttes lirne vennas]{.nativefont lang=sina}
+2 [.Nobody knows the soul’s place of origin. We have not known since before all the others.]{lang=en}
+2 [.Ahi erni lirne ennave eirandisto ahi erni ehii ennos ummes uttes lirne vennas]{lang=sina}
+
+1 [.Entel kessave lirne ovu evatte ovu iha irna ovu lontě]{.nativefont lang=sina}
+2 [.When someone asks you, say that. Then carry on with the rite.]{lang=en}
+2 [.Entel kessave lirne ovu evatte ovu iha irna ovu lontě]{lang=sina}
+
 ```
 
 : Naming {#naming}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  Say the name to the birch for a year before you say it to the child.
-  If the birch has not objected, try it on the water.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A child with no name is not waiting. You are.
-  Take the years. The name is what the child becomes, and you are the one choosing.
+1 [.Evatte ovu sirne kelsa kalpi ummes toimunuho ilte ennos kelsa nysse onsa]{.nativefont lang=sina}
+2 [.Say the name where the birch hears it for a whole year, before the child hears it.]{lang=en}
+2 [.Evatte ovu sirne kelsa kalpi ummes toimunuho ilte ennos kelsa nysse onsa]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Do not name a child who might found a hearth from a stem whose last consonant is n.
-  If you do, and she does, her hearth has no name, and that is the one joke we have never tired of.
+1 [.Entel ahi nerkavi kalpi telnavi ovu sirne melkeho]{.nativefont lang=sina}
+2 [.If the birch has not objected, try the name on the water.]{lang=en}
+2 [.Entel ahi nerkavi kalpi telnavi ovu sirne melkeho]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A name grows by what is put after it, and nothing is ever taken off.
-  Choose the first part knowing it is the first part of something longer.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  Call the one you love by the whole name, and let it fall in your mouth as a call does.
-  She hears which it is before the word is finished; the fall is so that she can.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A human has sixty years, three twenties, which is about how long we take over the name of a child who is slow to show what it is.
-  Do not let her hear you reckon it.
+1 [.Ahi eho nysse sirne ahi sennevi onsa sennevi ovu]{.nativefont lang=sina}
+2 [.The child has no name. The child is not waiting. You are.]{lang=en}
+2 [.Ahi eho nysse sirne ahi sennevi onsa sennevi ovu]{lang=sina}
+
+1 [.Tupe ovu toimunu vennas sirne oso kauve nysse kerrai ovu sirne]{.nativefont lang=sina}
+2 [.Take the years. The name is what the child becomes. You choose it.]{lang=en}
+2 [.Tupe ovu toimunu vennas sirne oso kauve nysse kerrai ovu sirne]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Entel eirandita nysse aukkessa uulse ahi sirneta ovu onsa kuse velnir oso niretti onsa oltandi keltis]{.nativefont lang=sina}
+2 [.If a child later founds a hearth, do not name her from a stem whose last consonant is n.]{lang=en}
+2 [.Entel eirandita nysse aukkessa uulse ahi sirneta ovu onsa kuse velnir oso niretti onsa oltandi keltis]{lang=sina}
+
+1 [.Entel irna ovu iha evi eirandita onsa aukkessa ahi eho aukkessa sirne yemi kilni ilte ehiiho aurannos iltettu]{.nativefont lang=sina}
+2 [.If you do, and she founds a hearth, the hearth has no name. Only one joke stays forever young among us.]{lang=en}
+2 [.Entel irna ovu iha evi eirandita onsa aukkessa ahi eho aukkessa sirne yemi kilni ilte ehiiho aurannos iltettu]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Lirta sirne osotos pettan lirne sennal uulse onsa raakke aume sennal onsatos]{.nativefont lang=sina}
+2 [.The name grows as someone brings a part after it. Nothing is taken from it.]{lang=en}
+2 [.Lirta sirne osotos pettan lirne sennal uulse onsa raakke aume sennal onsatos]{lang=sina}
+
+1 [.Kerrai ovu eirandi sennal erni ovu iha eirandi sennal onsa aulten sirne sennaltos]{.nativefont lang=sina}
+2 [.Choose the first part knowing it is the first part, and that the name is longer than the part.]{lang=en}
+2 [.Kerrai ovu eirandi sennal erni ovu iha eirandi sennal onsa aulten sirne sennaltos]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Kilpete ovu lirne oso neëre ovu kuse onsa sirne ummes pelpe ovu evette]{.nativefont lang=sina}
+2 [.Call the one you love with her whole name. Let your voice fall.]{lang=en}
+2 [.Kilpete ovu lirne oso neëre ovu kuse onsa sirne ummes pelpe ovu evette]{lang=sina}
+
+1 [.Pelpe ovu evette kelsa onsa kilpetersa ennos seltai evesi]{.nativefont lang=sina}
+2 [.Your voice falls; she hears the call before the word ends.]{lang=en}
+2 [.Pelpe ovu evette kelsa onsa kilpetersa ennos seltai evesi]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Toimunu hevu elki hepymuuvu sylpe hepy ehii nysse sirnetarsa sennave iha sennaveho entel ukken onsa selpi paval onsa uulse]{.nativefont lang=sina}
+2 [.A near human’s life is sixty years, three twenties. Our time over a child’s naming is close to that, if the child’s kind is slow to open.]{lang=en}
+2 [.Toimunu hevu elki hepymuuvu sylpe hepy ehii nysse sirnetarsa sennave iha sennaveho entel ukken onsa selpi paval onsa uulse]{lang=sina}
+
+1 [.Ahi evatte ovu iha telvani hepymuuvu lirne nerveho]{.nativefont lang=sina}
+2 [.Do not speak this reckoning where the human hears.]{lang=en}
+2 [.Ahi evatte ovu iha telvani hepymuuvu lirne nerveho]{lang=sina}
+
 ```
 
 : The Young Peoples {#young}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  Do not mourn a human while she is pouring your cup.
-  You will have time for it after. You will have nothing else to do with the time.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  We knew the end of them first. That is no reason to begin at the end.
-  Begin where they are: at the ford with their snares, in the autumn, with the river low.
+1 [.Ahi ilkarota ovu hepymuuvu lirne entel pelvanni onsa melke ovu kaltenho]{.nativefont lang=sina}
+2 [.Do not mourn a near human while she pours water into your cup.]{lang=en}
+2 [.Ahi ilkarota ovu hepymuuvu lirne entel pelvanni onsa melke ovu kaltenho]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A man of the near humans sets his snares below the ford every autumn.
-  Leave him to his becoming. Our whole law about them is in those words, and it is older than this grove.
+1 [.Eho sennave uulse ihatos ahi eho uttes ovu irnarsa eso sennaveho]{.nativefont lang=sina}
+2 [.There is time afterward for that. You have nothing else to do with that time.]{lang=en}
+2 [.Eho sennave uulse ihatos ahi eho uttes ovu irnarsa eso sennaveho]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The near humans watch us. Let them.
-  A thing seen is not a thing given, and they make it their own either way.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  You will love one of them. That is not a warning.
-  Do it with the whole of your years. They do it with the whole of theirs.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Their songs about us are wrong in every particular and right about one thing, which is that we were there.
-  Do not correct the particulars. Keep being there.
+1 [.Erni ehii onsaa oltandi ennos erni ehii onsaa ahi eirandita ovu oltandiho ihatos]{.nativefont lang=sina}
+2 [.We knew their end before we knew them. Do not begin at the end because of that.]{lang=en}
+2 [.Erni ehii onsaa oltandi ennos erni ehii onsaa ahi eirandita ovu oltandiho ihatos]{lang=sina}
+
+1 [.Eirandita ovu elnisho oso eho onsaa vaultiho kuse nelkari vennas vekkanelho nelvi lanteppi]{.nativefont lang=sina}
+2 [.Begin where they are: at the ford with snares, in autumn, with the river shallow.]{lang=en}
+2 [.Eirandita ovu elnisho oso eho onsaa vaultiho kuse nelkari vennas vekkanelho nelvi lanteppi]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Vaissa hepymuuvu naltu onsa nelkari vennas vaulti ulnavaho ummes vekkanelho vennas]{.nativefont lang=sina}
+2 [.A near-human man sets his snares below the ford every autumn.]{lang=en}
+2 [.Vaissa hepymuuvu naltu onsa nelkari vennas vaulti ulnavaho ummes vekkanelho vennas]{lang=sina}
+
+1 [.Ahi halpe ovu onsa leësy kauve onsa iha evesi vennas ehii tannavi ummes vonu onsa salpukkotos]{.nativefont lang=sina}
+2 [.Do not close his path; he becomes. Those words are our whole law, older than this grove.]{lang=en}
+2 [.Ahi halpe ovu onsa leësy kauve onsa iha evesi vennas ehii tannavi ummes vonu onsa salpukkotos]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi pehe ehii oso yinse onsaa alte kauve onsa onsaa nauvessi]{.nativefont lang=sina}
+2 [.What they see is not our gift. But it becomes their own way.]{lang=en}
+2 [.Ahi pehe ehii oso yinse onsaa alte kauve onsa onsaa nauvessi]{lang=sina}
+
+1 [.Ahi pehe ehii oso yinse onsaa irna onsaa onsa onsaa aiva iltettu]{.nativefont lang=sina}
+2 [.What they see is not our gift. They make it their own anyway.]{lang=en}
+2 [.Ahi pehe ehii oso yinse onsaa irna onsaa onsa onsaa aiva iltettu]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Neëre ovu hepymuuvu ilte ahi eho varnissa iha evakkaho]{.nativefont lang=sina}
+2 [.You will love one near human. There is no warning in these words.]{lang=en}
+2 [.Neëre ovu hepymuuvu ilte ahi eho varnissa iha evakkaho]{lang=sina}
+
+1 [.Neëre ovu onsa kuse ummes ovu toimunu vennas neëre onsaa kuse ummes onsaa toimunu vennas]{.nativefont lang=sina}
+2 [.Love with all your years. They love with all theirs.]{lang=en}
+2 [.Neëre ovu onsa kuse ummes ovu toimunu vennas neëre onsaa kuse ummes onsaa toimunu vennas]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Luuro onsaa ehii senvai olnaro vennas sennalho vennas ummes tennai evesi ilte eho ehii esoho]{.nativefont lang=sina}
+2 [.Their songs about us are wrong in every part. One statement is true: we were there.]{lang=en}
+2 [.Luuro onsaa ehii senvai olnaro vennas sennalho vennas ummes tennai evesi ilte eho ehii esoho]{lang=sina}
+
+1 [.Ahi sennetti ovu sennal vennas sendeppi ovu esoho]{.nativefont lang=sina}
+2 [.Do not correct the parts. Keep being there.]{lang=en}
+2 [.Ahi sennetti ovu sennal vennas sendeppi ovu esoho]{lang=sina}
+
 ```
 
 : The Enclave {#enclave}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  A lord is raised for what was done, by those who saw it done.
-  Do not raise one for what he says he is going to do.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The queen's daughter carries her mother's hearth, as any daughter does.
-  The rest she carries herself, or it is not carried.
+1 [.Elvata yinsenne vennas lirne onsa ilnavatos]{.nativefont lang=sina}
+2 [.Those who saw raise a person by acclaim for the work done.]{lang=en}
+2 [.Elvata yinsenne vennas lirne onsa ilnavatos]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The Long-Watchers' gathering speaks until it agrees. Bring bread.
-  Every Long-Watcher stands level with every other, which is why there are so many of us talking, and some of us are slow.
+1 [.Ahi elvata ovu lirne onsa evakkatos oso evatte onsa irna ehi uulse]{.nativefont lang=sina}
+2 [.Do not raise someone for saying what he will do.]{lang=en}
+2 [.Ahi elvata ovu lirne onsa evakkatos oso evatte onsa irna ehi uulse]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Here we keep the day the thing from the thin place was beaten under the birches.
-  The next valley keeps the first snows. Neither needs the other's day.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  The one who keeps the grove across the water cut a hazel in this grove with the sap up, when the oak was a sapling.
-  The oak is grown. The hazel is not. I have not spoken to him since, and I am not going to.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Hold a grudge as you hold a seed: it keeps a long time, and it does not grow unless it is watered.
-  We are good at watering.
+1 [.Erdavi salliva nemmanysse onsa ennakke aukkessa erdavi ummes nemmanysse vennas onsaa ennakke aukkessa]{.nativefont lang=sina}
+2 [.The queen’s daughter carries her mother’s hearth, as all daughters do.]{lang=en}
+2 [.Erdavi salliva nemmanysse onsa ennakke aukkessa erdavi ummes nemmanysse vennas onsaa ennakke aukkessa]{lang=sina}
+
+1 [.Erdavi onsa uttes elnerinu vennas onsa aiva oha ahi erdavi lirne onsaa]{.nativefont lang=sina}
+2 [.The rest she carries herself, or nobody carries it.]{lang=en}
+2 [.Erdavi onsa uttes elnerinu vennas onsa aiva oha ahi erdavi lirne onsaa]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Evatte ansorun vennas ommenda ellun seimakata onsa pettan ovu tarnevi]{.nativefont lang=sina}
+2 [.The Long-Watchers’ council speaks until it agrees. Bring bread.]{lang=en}
+2 [.Evatte ansorun vennas ommenda ellun seimakata onsa pettan ovu tarnevi]{lang=sina}
+
+1 [.Setty ansorun vennas peravi polpeho evatte ehii vennas osotos iha ukken ehii eltes]{.nativefont lang=sina}
+2 [.The Long-Watchers stand on level ground. That is why so many of us speak. Some of us are slow.]{lang=en}
+2 [.Setty ansorun vennas peravi polpeho evatte ehii vennas osotos iha ukken ehii eltes]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Tupe ehii teipannu oso varkavi varkavinno elnerinu sirnastotos halpi polpeho tupe uttes aunekke eirandi nyke]{.nativefont lang=sina}
+2 [.We keep the day a thing from the thin place was defeated beneath the birches. The next valley keeps the first snow.]{lang=en}
+2 [.Tupe ehii teipannu oso varkavi varkavinno elnerinu sirnastotos halpi polpeho tupe uttes aunekke eirandi nyke]{lang=sina}
+
+1 [.Ahi ellavita ehii onsa teipannu ahi ellavita onsaa ehii teipannu]{.nativefont lang=sina}
+2 [.We do not need their day. They do not need ours.]{lang=en}
+2 [.Ahi ellavita ehii onsa teipannu ahi ellavita onsaa ehii teipannu]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Leltai lirne salpukko melke aldevanho terkata onsa hantel iha salpukkoho aldis alpes tunes salpukki torvel tunes]{.nativefont lang=sina}
+2 [.The keeper across the water cut hazel in this grove when the sap was high and the oak was a sapling.]{lang=en}
+2 [.Leltai lirne salpukko melke aldevanho terkata onsa hantel iha salpukkoho aldis alpes tunes salpukki torvel tunes]{lang=sina}
+
+1 [.Lervi torvel uvi lervi hantel ahi eho iha ahi evanni ehi onsa uulse eso ahi evanni ehi onsa uulse iha]{.nativefont lang=sina}
+2 [.The oak is grown. Is the hazel grown? No. I have not addressed him since then, and will not after this.]{lang=en}
+2 [.Lervi torvel uvi lervi hantel ahi eho iha ahi evanni ehi onsa uulse eso ahi evanni ehi onsa uulse iha]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Tupe ovu varneli tupe ovu aimetti kousto onsa aulten sennaveho entel ahi melketa lirne onsa ahi lirta onsa]{.nativefont lang=sina}
+2 [.Hold a grudge; hold a seed. It keeps a long time. If nobody waters it, it does not grow.]{lang=en}
+2 [.Tupe ovu varneli tupe ovu aimetti kousto onsa aulten sennaveho entel ahi melketa lirne onsa ahi lirta onsa]{lang=sina}
+
+1 [.Irnarsa ehii melketarsa]{.nativefont lang=sina}
+2 [.Watering is our craft.]{lang=en}
+2 [.Irnarsa ehii melketarsa]{lang=sina}
+
 ```
 
 : Silence {#silence}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  The best thing we say of a thing is nothing, for a long time, on our feet in front of it.
-  It is also the easiest thing to give. Know which one you are giving.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A silence is counted as a word by the one who was waiting for it.
-  Count it that way yourself.
+1 [.Setty ehii elnerinu nerveho aulten sennaveho evatte ehii aume ervu iha valmi uttes evakkatos ummes]{.nativefont lang=sina}
+2 [.We stand before a thing a long time and say nothing. This has more worth than all other speech.]{lang=en}
+2 [.Setty ehii elnerinu nerveho aulten sennaveho evatte ehii aume ervu iha valmi uttes evakkatos ummes]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  When you do not know, say that you do not know, in those words.
-  The silence that says it for you is a lie you did not have to tell.
+1 [.Hyppe iha pehersa ravellirsa uttes pehersatos ummes erni ovu oso pehe ovu]{.nativefont lang=sina}
+2 [.It is also the easiest giving. Know what you give.]{lang=en}
+2 [.Hyppe iha pehersa ravellirsa uttes pehersatos ummes erni ovu oso pehe ovu]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  A thing left unsaid for a good reason is still unsaid when the reason is gone.
-  Go back over the reasons once a year, when you walk the boundary.
+***
 
-Have you heard what the Long-Watcher said to the Seer?
-  I kept silent toward the one across the water ten twenties of years over the hazel, and it was right for most of them.
-  The rest I am telling you about now.
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Telvanita lirne oso sennevi evesi ilte hisseltos]{.nativefont lang=sina}
+2 [.The one who waited counts a word from silence.]{lang=en}
+2 [.Telvanita lirne oso sennevi evesi ilte hisseltos]{lang=sina}
+
+1 [.Telvanita ovu evesi ilte hisseltos erme]{.nativefont lang=sina}
+2 [.Count a word from it yourself.]{lang=en}
+2 [.Telvanita ovu evesi ilte hisseltos erme]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Entel ahi erni ovu evatte ovu ahi erni ehi]{.nativefont lang=sina}
+2 [.When you do not know, say, “I do not know.”]{lang=en}
+2 [.Entel ahi erni ovu evatte ovu ahi erni ehi]{lang=sina}
+
+1 [.Nervai hissel oso evatte iha ahi ellavita ovu onsa]{.nativefont lang=sina}
+2 [.The silence that says it is a lie you do not need.]{lang=en}
+2 [.Nervai hissel oso evatte iha ahi ellavita ovu onsa]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Eho hissel avetti ernavitos olkai ernavi kousto hissel]{.nativefont lang=sina}
+2 [.Silence has a fitting reason. The reason goes; silence endures.]{lang=en}
+2 [.Eho hissel avetti ernavitos olkai ernavi kousto hissel]{lang=sina}
+
+1 [.Irna ovu ernavi vennas ennomirsa ilte ummes toimunuho vennas entel sattai ovu salpukko issalteho]{.nativefont lang=sina}
+2 [.Read the reasons once each year, when you walk the grove’s edge.]{lang=en}
+2 [.Irna ovu ernavi vennas ennomirsa ilte ummes toimunuho vennas entel sattai ovu salpukko issalteho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Ahi evanni ehi lirne melke aldevanho toimunuho tova elki hanteltos avetti hissel iha sennaveho vennai]{.nativefont lang=sina}
+2 [.I did not address the one across the water for ten twenties of years, over the hazel. The silence was fitting for most of that time.]{lang=en}
+2 [.Ahi evanni ehi lirne melke aldevanho toimunuho tova elki hanteltos avetti hissel iha sennaveho vennai]{lang=sina}
+
+1 [.Evatte ehi uttes sennal insu kelsa ovu]{.nativefont lang=sina}
+2 [.The rest I tell now. You hear it.]{lang=en}
+2 [.Evatte ehi uttes sennal insu kelsa ovu]{lang=sina}
+
 ```
 
 : Going and Staying {#going}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  Aulveira takes the dead to the god's hall in [Ollevikko]{.name data-type="place" lang=sina}. Of this we are sure.
-  We are sure of little. Hold this one with both hands.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The living may go to Ollevikko too, and slip back, and many have.
-  They come back with the weather there and not much else. Do not ask them for more; they have not got it.
+1 [.Erdavi Aulveira ollevi eho onsaa Aulveira koldiho Ollevikkoho erni ehii iha]{.nativefont lang=sina}
+2 [.Aulveira carries the dead. They are in the god’s hall in [Ollevikko]{.name data-type="place" lang=sina}. We know this.]{lang=en}
+2 [.Erdavi Aulveira ollevi eho onsaa Aulveira koldiho Ollevikkoho erni ehii iha]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  Those who stay have their reasons, and nobody who stayed has had to give one.
-  Have one. Say it to the birch.
+1 [.Erni ehii elnerinu peve tupe ovu iha kuse ovu alken sipes]{.nativefont lang=sina}
+2 [.We know few things. Hold this with both your hands.]{lang=en}
+2 [.Erni ehii elnerinu peve tupe ovu iha kuse ovu alken sipes]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  I stay because a woman at the sickbed asked me whether it was far, and I have not finished answering.
-  It is a reason. It does not have to be a good one.
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Senval ylpise lirne vennas Ollevikko patten onsaa]{.nativefont lang=sina}
+2 [.Many living people have reached [Ollevikko]{.name data-type="place" lang=sina} and returned.]{lang=en}
+2 [.Senval ylpise lirne vennas Ollevikko patten onsaa]{lang=sina}
+
+1 [.Pettan onsaa eso eltane evakka evi uttes evesi peve ahi kessave ovu ervu evakka onsaatos ahi eho ervu onsaa evakkaho]{.nativefont lang=sina}
+2 [.They bring the weather there and few other words. Do not ask them for more; their account has no more.]{lang=en}
+2 [.Pettan onsaa eso eltane evakka evi uttes evesi peve ahi kessave ovu ervu evakka onsaatos ahi eho ervu onsaa evakkaho]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Sendeppi lirne vennas eho onsaa ernavi vennas ahi ellavita onsaa ernavi pehersa]{.nativefont lang=sina}
+2 [.People stay and have reasons. They do not need to give those reasons.]{lang=en}
+2 [.Sendeppi lirne vennas eho onsaa ernavi vennas ahi ellavita onsaa ernavi pehersa]{lang=sina}
+
+1 [.Tupe ovu ernavi evatte ovu onsa kelsa kalpi]{.nativefont lang=sina}
+2 [.Have a reason. Say it where the birch hears.]{lang=en}
+2 [.Tupe ovu ernavi evatte ovu onsa kelsa kalpi]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Sendeppi ehi osotos kessave nemma naukkisto issalteho ehi uvi eppanne onsa ahi seltai ehi vandelevesi]{.nativefont lang=sina}
+2 [.I stay because a woman at the bedside asked me, “Is it far?” My answer has not ended.]{lang=en}
+2 [.Sendeppi ehi osotos kessave nemma naukkisto issalteho ehi uvi eppanne onsa ahi seltai ehi vandelevesi]{lang=sina}
+
+1 [.Ernavi iha ahi ellavita ovu avetti ernavi]{.nativefont lang=sina}
+2 [.It is a reason. You do not need a good one.]{lang=en}
+2 [.Ernavi iha ahi ellavita ovu avetti ernavi]{lang=sina}
+
 ```
 
 : The Question {#question}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  She asked him when the watch ends. He was looking at the water-court, and he went on looking at it.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-Have you heard what the Long-Watcher said to the Seer?
-  The thaw took the ford, and took the man with his snares. He had asked me in the autumn
-    whether the river would rise, and I had looked at the water and said nothing.
-  That silence should have been a word. It is the worst thing I have done.
+1 [.Kessave iltorin ansorun uvi mavi ansoru oltandi sennave tyltete ansorun melke raltiileva kousto onsa tylteterse]{.nativefont lang=sina}
+2 [.The Seer asked the Long-Watcher when the watch ends. He looked at the water-court. His looking continued.]{lang=en}
+2 [.Kessave iltorin ansorun uvi mavi ansoru oltandi sennave tyltete ansorun melke raltiileva kousto onsa tylteterse]{lang=sina}
+
+***
+
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Raakke sulme vaulti raakke onsa naltu kuse nelkari vennas kessave onsa ehi vekkanelho]{.nativefont lang=sina}
+2 [.The thaw took the ford and the man with his snares. He had asked me in autumn,]{lang=en}
+2 [.Raakke sulme vaulti raakke onsa naltu kuse nelkari vennas kessave onsa ehi vekkanelho]{lang=sina}
+
+1 [.Uvi irtal lanteppi tyltete ehi melke ahi evatte ehi]{.nativefont lang=sina}
+2 [.“Will the river rise?” I looked at the water. I said nothing.]{lang=en}
+2 [.Uvi irtal lanteppi tyltete ehi melke ahi evatte ehi]{lang=sina}
+
+1 [.Ellavita eso hissel evesi senvai iha tevanni ummes uttes ehi tevannitos vennas]{.nativefont lang=sina}
+2 [.That silence needed a word. This is the worst deed I have done.]{lang=en}
+2 [.Ellavita eso hissel evesi senvai iha tevanni ummes uttes ehi tevannitos vennas]{lang=sina}
+
 ```
 
 : The Seer's Saying {#seer}
 
-```verse {form=saunari lang=en}
-Have you heard what the Long-Watcher said to the Seer?
-  Nothing this year. He died the autumn the oak dropped acorns, and Aulveira took him to Ollevikko.
-  Aelirosse says Olmasitti Ropelinto Torvelsa now, of the oak, and his name is one word longer.
-  [Ilevala Huomanto]{.name data-type="being/npc" lang=sina}, who was the Seer, says this one, and it is hers.
-  I have put four of the acorns in the ground by the water-court. They are grown when the child who watches us is a grandmother.
-  I will have a saying by then, or I will have four oaks.
+```verse {form=saunari numstep=5 cols=2}
+1 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{.nativefont lang=sina}
+2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
+2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
+
+1 [.Aume iha toimunuho selkorota ansorun vekkanelho pehe torvel aimetti tunes erdavi Aulveira onsa eho onsa Ollevikkoho]{.nativefont lang=sina}
+2 [.Nothing this year. The Long-Watcher died in autumn, when the oak gave seed. Aulveira carried him; he is in [Ollevikko]{.name data-type="place" lang=sina}.]{lang=en}
+2 [.Aume iha toimunuho selkorota ansorun vekkanelho pehe torvel aimetti tunes erdavi Aulveira onsa eho onsa Ollevikkoho]{lang=sina}
+
+1 [.Evatte Aelirosse Olmasitti Ropelinto Torvelsa insu penvai onsa evesi ilte uulse sirne]{.nativefont lang=sina}
+2 [.Aelirosse now says [Olmasitti Ropelinto Torvelsa]{.name data-type="being/npc" lang=sina}, of the oak. It places one word after his name.]{lang=en}
+2 [.Evatte Aelirosse Olmasitti Ropelinto Torvelsa insu penvai onsa evesi ilte uulse sirne]{lang=sina}
+
+1 [.Iltorin Ilevala Huomanto tunes evatte onsa iha onsa saunarinu iha]{.nativefont lang=sina}
+2 [.[Ilevala Huomanto]{.name data-type="being/npc" lang=sina} was the Seer then. She says this; this is her saying.]{lang=en}
+2 [.Iltorin Ilevala Huomanto tunes evatte onsa iha onsa saunarinu iha]{lang=sina}
+
+1 [.Vaissa ehi sorvel aimettinu pemi melke raltiilevaho lervi onsaa entel kauve nysse oso yinse onsa ehii tultasi]{.nativefont lang=sina}
+2 [.I planted four acorns at the water-court. They are grown when the child who watches us is a grandmother.]{lang=en}
+2 [.Vaissa ehi sorvel aimettinu pemi melke raltiilevaho lervi onsaa entel kauve nysse oso yinse onsa ehii tultasi]{lang=sina}
+
+1 [.Eho ehi saunarinu eso sennaveho oha eho ehi torvel pemi]{.nativefont lang=sina}
+2 [.By then I have a saying, or I have four oaks.]{lang=en}
+2 [.Eho ehi saunarinu eso sennaveho oha eho ehi torvel pemi]{lang=sina}
+
 ```
 
 ## See Also
