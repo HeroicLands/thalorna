@@ -7611,6 +7611,81 @@ data:
       gloss: "spawner, bearer of young"
       root: "l-f-d"
       frame: worker
+    - {form: sarl, class: n, field: "The hold", gloss: "lintel", root: "s-r-l", frame: bare}
+    - form: baln
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "cart"
+      root: "b-l-n"
+      frame: bare
+    - {form: maník, class: adj, field: "The deep", gloss: "empty", root: "m-n-k", frame: adjective}
+    - form: ganz
+      class: n
+      field: "Letters and writing"
+      gloss: "speech sound or phoneme"
+      root: "g-n-z"
+      frame: bare
+    - form: zanp-lumáv
+      class: n
+      field: "Oath, law and measure"
+      gloss: "confession, recording one's fault"
+      root: "z-n-p + l-m-v"
+      frame: bare
+    - form: daturákh
+      class: v
+      field: "Body and person"
+      gloss: "hold oneself or one another fast"
+      root: "d-r-kh"
+      frame: reflexive
+    - form: rumál
+      class: v
+      field: "The grain of the rock"
+      gloss: "rock or wobble without overturning"
+      root: "r-m-l"
+      frame: deed
+    - {form: bark, class: n, field: "Body and person", gloss: "knee", root: "b-r-k", frame: bare}
+    - form: gamun
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "month"
+      root: "g-m-n"
+      frame: bare
+    - form: duváb
+      class: v
+      field: "Body and person"
+      gloss: "stiffen physically"
+      root: "d-v-b"
+      frame: deed
+    - form: davíb
+      class: adj
+      field: "Body and person"
+      gloss: "stiff physically"
+      root: "d-v-b"
+      frame: adjective
+    - form: rasum
+      class: n
+      field: "Motion and holding"
+      gloss: "right-hand side"
+      root: "r-s-m"
+      frame: bare
+    - form: rasím
+      class: adj
+      field: "Motion and holding"
+      gloss: "on the right-hand side"
+      root: "r-s-m"
+      frame: adjective
+    - form: davagod
+      class: n
+      field: "The deep"
+      gloss: "a parent whose sex is unspecified"
+      root: ""
+      frame: bare
+    - form: thudáv
+      class: v
+      field: "Body and person"
+      gloss: "think or hold a proposition in mind"
+      root: "th-d-v"
+      frame: deed
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -8236,6 +8311,16 @@ data:
     - root: l-n-b
       sense: "leaf or sheet of a written record, without specifying its material"
       field: law
+    - {root: s-r-l, sense: "lintel", field: hold}
+    - {root: b-l-n, sense: "cart", field: other}
+    - {root: m-n-k, sense: "empty", field: deep}
+    - {root: g-n-z, sense: "speech sound or phoneme", field: letter}
+    - {root: r-m-l, sense: "rock or wobble without overturning", field: grain}
+    - {root: b-r-k, sense: "knee", field: body}
+    - {root: g-m-n, sense: "month", field: other}
+    - {root: d-v-b, sense: "stiffen physically", field: body}
+    - {root: r-s-m, sense: "right-hand side", field: motion}
+    - {root: th-d-v, sense: "think or hold a proposition in mind", field: body}
   register:
     - {name: "Balgan", tongue: khazari}
     - {name: "Bamgan", tongue: khazari}
