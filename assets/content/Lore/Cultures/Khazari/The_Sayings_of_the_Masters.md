@@ -17,7 +17,7 @@ data:
 
 ## The Chain
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Tubur, Kaval-zunáth, guván samg. Fardan, Hamk-dunák, thunáz vog. Fardan guván samg. Pirin, Zanth-guráp, thunáz vog. Pirin guván samg. Hulbun, Lakam-mulán, thunáz vog. Hulbun guván samg. Butum, Nalp-furád, thunáz vog. Butum guván samg. Dulkun, Khalv-gunáv, thunáz vog. Dulkun guván samg. Kivil, Halb-zumád, thunáz vog. Kivil guván samg. Nalpan, Talg-hunáth, thunáz vog. Nalpan guván samg. Rumkun, Bamg-durákh, thunáz vog. Rumkun guván samg. Thimir, Marg-buráth, thunáz vog. Thimir guván samg. Khalvan, Ramk-sumád, thunáz vog. Khalvan guván samg. Samad, Tabar-suláth, thunáz vog.]{.nativefont lang=khaz}
 2 [[Tubur of Kaval-zunáth]{.name data-type="being/npc"} receives listening from [Fardan of Hamk-dunák]{.name data-type="being/npc"}; Fardan from [Pirin of Zanth-guráp]{.name data-type="being/npc"}; Pirin from [Hulbun of Lakam-mulán]{.name data-type="being/npc"}; Hulbun from [Butum of Nalp-furád]{.name data-type="being/npc"}; Butum from [Dulkun of Khalv-gunáv]{.name data-type="being/npc"}; Dulkun from [Kivil of Halb-zumád]{.name data-type="being/npc"}; Kivil from [Nalpan of Talg-hunáth]{.name data-type="being/npc"}; Nalpan from [Rumkun of Bamg-durákh]{.name data-type="being/npc"}; Rumkun from [Thimir of Marg-buráth]{.name data-type="being/npc"}; Thimir from [Khalvan of Ramk-sumád]{.name data-type="being/npc"}; and Khalvan from [Samad of Tabar-suláth]{.name data-type="being/npc"}.]{lang=en}
 2 [Tubur, Kaval-zunáth, guván samg. Fardan, Hamk-dunák, thunáz vog. Fardan guván samg. Pirin, Zanth-guráp, thunáz vog. Pirin guván samg. Hulbun, Lakam-mulán, thunáz vog. Hulbun guván samg. Butum, Nalp-furád, thunáz vog. Butum guván samg. Dulkun, Khalv-gunáv, thunáz vog. Dulkun guván samg. Kivil, Halb-zumád, thunáz vog. Kivil guván samg. Nalpan, Talg-hunáth, thunáz vog. Nalpan guván samg. Rumkun, Bamg-durákh, thunáz vog. Rumkun guván samg. Thimir, Marg-buráth, thunáz vog. Thimir guván samg. Khalvan, Ramk-sumád, thunáz vog. Khalvan guván samg. Samad, Tabar-suláth, thunáz vog.]{lang=khaz}
@@ -29,7 +29,7 @@ data:
 
 ## Samad of Tabar-suláth
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Samad, Tabar-suláth, khunák baval. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Samad of Tabar-suláth]{.name data-type="being/npc"} leads water. She says:]{lang=en}
 2 [Samad, Tabar-suláth, khunák baval. Vog gunádh.]{lang=khaz}
@@ -79,7 +79,7 @@ data:
 
 : The Courses of Khalvan {#khalvan}
 
-```verse {form=bazan lang=en cols=2}
+```verse {form=bazan lang=en cols=2} numstep=5
 1 [Ramk, ramkir, rumák.]{.nativefont lang=khaz}
 2 [The course, its layer, its laying.]{lang=en}
 2 [Ramk, ramkir, rumák.]{lang=khaz}
@@ -179,7 +179,7 @@ data:
 
 : The Courses of Thimir {#thimri}
 
-```verse {form=bazan lang=en cols=2}
+```verse {form=bazan lang=en cols=2} numstep=5
 1 [Thanp zi dulák, gharm buvár vog.]{.nativefont lang=khaz}
 2 [The mountain contains the hand that cut.]{lang=en}
 2 [Thanp zi dulák, gharm buvár vog.]{lang=khaz}
@@ -251,7 +251,7 @@ data:
 
 ## Rumkun of Bamg-durákh
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rumkun, Bamg-durákh, nuzáv param, gazím vadhal. Mardh gunádh kodz. Vagath zi vog puvár durákh hukhanf. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Rumkun of Bamg-durákh]{.name data-type="being/npc"} enters life in a lean year. His name says so. His house keeps the refuge. He says:]{lang=en}
 2 [Rumkun, Bamg-durákh, nuzáv param, gazím vadhal. Mardh gunádh kodz. Vagath zi vog puvár durákh hukhanf. Vog gunádh.]{lang=khaz}
@@ -287,7 +287,7 @@ data:
 
 ## Nalpan of Talg-hunáth
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nalpan, Talg-hunáth, hunáth. Samíd hanthev zi kedz khardev puvár, zi fudhál halgh zi satav puvár, vog puvár. Zik dulákez, bep gathagh zi dalk kuvál. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Nalpan of Talg-hunáth]{.name data-type="being/npc"} spans gaps. The upper bridge of this hold, crossing the stair’s fissure, is his: two cuts and the arch the stone makes. He says:]{lang=en}
 2 [Nalpan, Talg-hunáth, hunáth. Samíd hanthev zi kedz khardev puvár, zi fudhál halgh zi satav puvár, vog puvár. Zik dulákez, bep gathagh zi dalk kuvál. Vog gunádh.]{lang=khaz}
@@ -311,7 +311,7 @@ data:
 
 ## Kivil of Halb-zumád
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Kivil, Halb-zumád, zumád halb. Thanpez duváb. Vog durákh limvathez zi vagath puvár, 28 vadhalez zi nuzám. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Kivil of Halb-zumád]{.name data-type="being/npc"} assays silver. Her hands stiffen; she keeps her house’s records for forty years after. She says:]{lang=en}
 2 [Kivil, Halb-zumád, zumád halb. Thanpez duváb. Vog durákh limvathez zi vagath puvár, 28 vadhalez zi nuzám. Vog gunádh.]{lang=khaz}
@@ -359,7 +359,7 @@ data:
 
 ## Dulkun of Khalv-gunáv
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Dulkun, Khalv-gunáv, nuzáv kedz khardev. Vog dhuráz Magar-thubád, bamur zi vog puvár parív. Vog nuráv narvez, thuvár khatab zi Khazár thubágh, bep gunádh dhapíl kalatez. Lamv durákh tob bazan, ladhíp gandhez zi vog gunádh.]{.nativefont lang=khaz}
 2 [[Dulkun of Khalv-gunáv]{.name data-type="being/npc"} arrives at this hold from [Magar-thubád]{.name data-type="place/settlement"} with his work in order. He drives tunnels, refuses the requested straight line, and speaks seldom. The record keeps one saying in his own words:]{lang=en}
 2 [Dulkun, Khalv-gunáv, nuzáv kedz khardev. Vog dhuráz Magar-thubád, bamur zi vog puvár parív. Vog nuráv narvez, thuvár khatab zi Khazár thubágh, bep gunádh dhapíl kalatez. Lamv durákh tob bazan, ladhíp gandhez zi vog gunádh.]{lang=khaz}
@@ -375,7 +375,7 @@ data:
 
 ## Butum of Nalp-furád
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Butum, Nalp-furád, khunák khankez zi khardev puvár, khadhav zi nuláv vog, ravíz vadhalez zi bamur. Barkez rubáth. Vog thuf thuráp rald. Vog sutáv bep mudár. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Butum of Nalp-furád]{.name data-type="being/npc"} leads the hold’s channels in the valley below for many working years. Her knees fail and she cannot climb the slope; she comes up to teach. She says:]{lang=en}
 2 [Butum, Nalp-furád, khunák khankez zi khardev puvár, khadhav zi nuláv vog, ravíz vadhalez zi bamur. Barkez rubáth. Vog thuf thuráp rald. Vog sutáv bep mudár. Vog gunádh.]{lang=khaz}
@@ -403,7 +403,7 @@ data:
 
 ## Hulbun of Lakam-mulán
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Hulbun, Lakam-mulán, Lummáv sargh, durákh hulamv bep guván samg. Butum thunáz vog. Vog zugáb Butum. Lamv durákh taghív gandhez. Makasir gunádh, pabak-mulág zi vog hurát.]{.nativefont lang=khaz}
 2 [[Hulbun of Lakam-mulán]{.name data-type="being/npc"}, of the [Lummáv]{.name data-type="affiliation/lineage"} clan, keeps the archive and receives listening from Butum. He answers her. The record keeps every word. The keeper reads the lead aloud.]{lang=en}
 2 [Hulbun, Lakam-mulán, Lummáv sargh, durákh hulamv bep guván samg. Butum thunáz vog. Vog zugáb Butum. Lamv durákh taghív gandhez. Makasir gunádh, pabak-mulág zi vog hurát.]{lang=khaz}
@@ -467,7 +467,7 @@ data:
 
 ## Pirin of Zanth-guráp
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Pirin, Zanth-guráp, guráp garpez bep mudár. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Pirin of Zanth-guráp]{.name data-type="being/npc"} whets edges and teaches. She says:]{lang=en}
 2 [Pirin, Zanth-guráp, guráp garpez bep mudár. Vog gunádh.]{lang=khaz}
@@ -511,7 +511,7 @@ data:
 
 ## Fardan of Hamk-dunák
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Fardan, Hamk-dunák, zuráb rasím thanp. Dilkath zugár, vadhal $ zi thumár puvár. Vog rukád khabarez, kasumez, 32 vadhalez zi nuzám. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Fardan of Hamk-dunák]{.name data-type="being/npc"} loses his right hand when a dressed block slips, in his twelfth year of striking. He reads faces by ear for fifty years after. He says:]{lang=en}
 2 [Fardan, Hamk-dunák, zuráb rasím thanp. Dilkath zugár, vadhal $ zi thumár puvár. Vog rukád khabarez, kasumez, 32 vadhalez zi nuzám. Vog gunádh.]{lang=khaz}

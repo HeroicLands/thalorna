@@ -19,7 +19,7 @@ The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]],
 
 : The Crossing of the Clans {#song}
 
-```verse {form=habad lang=en cols=2}
+```verse {form=habad lang=en cols=2} numstep=5
 1 [Thanp lukám lakamev.]{.nativefont lang=khaz}
 2 [A hand lights the lamp.]{lang=en}
 2 [Thanp lukám lakamev.]{lang=khaz}

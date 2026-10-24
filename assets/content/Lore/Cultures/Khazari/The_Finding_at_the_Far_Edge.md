@@ -15,7 +15,7 @@ data:
 
 **The Finding at the Far Edge**, _Varg-fukár_, is the founding account of [[place-vorgald|Vorgald]], the hold in the eastern part of [[place-ironfells|the Ironfells]] of [[place-aelwyth|Aelwyth]] that the [[lore-khazariclt|Khazari]] call _Varíg_, the far edge. It is a _filnath_, an account: exact prose in the order things happened, with every name, every measure and every cut, written by the keeper of the founding party's record while the founding went on and witnessed at the end of each year. On the day of the finding the hold goes down to the refuge, a keeper of the archive reads the account by lamplight, and when the reading reaches the founding inscription the eldest master reads that in its place, as it stands cut along a bedding seam above the inner door of the refuge, where no line of it runs straight. The account dates itself by the years of Khazartúrn (see [[lore-khazarturn|the Fall of Khazartúrn]]), the city the party was sent from; the record names the city, and the keeper reads "the city" in its place, because a hold says Khazartúrn's name only at the reading of its account. Outside the hold the date is about 3100 BF and no closer, as [[lore-vorgaldcut|the Cutting of Vorgald]] sets out. The account names every Khazár who crossed the water and none of the people of the shore, whose descendants are [[lore-vardain|the Vardain]]; the reading gives the crossers by house and count. Where the day-tally of the finder's season repeats, the keeper reads only the count of the repeated days. The text below is the account as it is read, with the inscription where the reading reaches it.
 
-```verse {form=filnath lang=en cols=2}
+```verse {form=filnath lang=en cols=2} numstep=5
 1 [Kedz filnath durákh fakar zi Varíg puvár, varíg zalv, bep dulák zi khardev zi kolg zuvák. Malan, Lakam-mulán, lamvir, lumáv bamurez, davanez zi vogun nuzáv. Favaz zi tavíz vadhal, hartir hurát vog, pabarez khumád bep sudháv. Vadhal-kurám puvár mardhez zi sadhavez.]{.nativefont lang=khaz}
 2 [This account keeps the finding of Varíg, the farthest edge, and the cutting of the hold that stands there. [Malan of Lakam-mulán]{.name data-type="being/npc"}, keeper, enters the works on the days they happen. At every year’s end a reader reads it before the elders, who witness it. The year’s end carries the witnesses’ names.]{lang=en}
 2 [Kedz filnath durákh fakar zi Varíg puvár, varíg zalv, bep dulák zi khardev zi kolg zuvák. Malan, Lakam-mulán, lamvir, lumáv bamurez, davanez zi vogun nuzáv. Favaz zi tavíz vadhal, hartir hurát vog, pabarez khumád bep sudháv. Vadhal-kurám puvár mardhez zi sadhavez.]{lang=khaz}
@@ -258,7 +258,7 @@ data:
 
 : The Founding Inscription of Varíg {#inscription}
 
-```verse {form=pirzath lang=en cols=2}
+```verse {form=pirzath lang=en cols=2} numstep=5
 1 [Bagar zi vem zars zi vadhagh-khabar puvár guzáp, Fikir, Rabad-runát, fukár.]{.nativefont lang=khaz font=pirzath-carved}
 2 [[Fikir of Rabad-runát]{.name data-type="being/npc"} finds the cave hidden by the third rib of the sea-face.]{lang=en}
 2 [Bagar zi vem zars zi vadhagh-khabar puvár guzáp, Fikir, Rabad-runát, fukár.]{lang=khaz}
@@ -360,7 +360,7 @@ data:
 2 [Ramk samíd, ramk thamír.]{lang=khaz}
 ```
 
-```verse {form=filnath lang=en cols=2}
+```verse {form=filnath lang=en cols=2} numstep=5
 1 [Filnath durákh vadhalez zi nuzám, dulákez, limvathez, bep falg, tagín tagan. Hartir hurát vogun, tagín tagan, davan zi fakar puvár. Kedz hirtath thuf durákh vogun. Fikir, Rabad-runát, rukád vadhagh-khabar, tavíz huvalth zi dhanívez 40 vadhalez puvár. Vog fukár zik bagar, zop zars guzáp vog, vadhal 9. Vog buvár bamíg fanth zi khardev puvár bep huzafal zi vog puvár. Vog fukár halgh zi farzez fusádh, vadhal #. Vog fukár raghav zi nudháp tabarod zi gharm buvár, vadhal 14. Hutabar zuvák kolg. Lamv durákh bozd dulákez zi vog puvár thanpez. Vog thuf zunáp khapav mardh, 40 vadhalez.]{.nativefont lang=khaz}
 2 [The account keeps the following years’ cuts, records, and dead in their succession. The reader reads them in succession on finding day. This text does not keep them. [Fikir of Rabad-runát]{.name data-type="being/npc"} reads the sea-face for every home of the first sixty-four years. In the ninth year she finds the second cave, hidden by the fifth rib. It contains the hold’s deep hall and shrine. In the eleventh year she finds the fissure the forges draw through. In the twentieth she finds the way down to the deep water inside the mountain. The cistern stands there. The record keeps four cuts by her own hands. In sixty-four years she enters no fault against any name.]{lang=en}
 2 [Filnath durákh vadhalez zi nuzám, dulákez, limvathez, bep falg, tagín tagan. Hartir hurát vogun, tagín tagan, davan zi fakar puvár. Kedz hirtath thuf durákh vogun. Fikir, Rabad-runát, rukád vadhagh-khabar, tavíz huvalth zi dhanívez 40 vadhalez puvár. Vog fukár zik bagar, zop zars guzáp vog, vadhal 9. Vog buvár bamíg fanth zi khardev puvár bep huzafal zi vog puvár. Vog fukár halgh zi farzez fusádh, vadhal #. Vog fukár raghav zi nudháp tabarod zi gharm buvár, vadhal 14. Hutabar zuvák kolg. Lamv durákh bozd dulákez zi vog puvár thanpez. Vog thuf zunáp khapav mardh, 40 vadhalez.]{lang=khaz}
