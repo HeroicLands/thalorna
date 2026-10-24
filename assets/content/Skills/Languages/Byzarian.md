@@ -23,22 +23,22 @@ data:
       holds: "The native citations of inherited words and the ordinary expressions used with them."
   words:
     - form: arkhidin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "beginning, origin; the Bizarian form of _arkhidhin_, in the titles of the eastern rite"
-    - form: "kumet-"
+      class: n
+      field: Thought, measure and the schools
+      gloss: beginning, origin; the Bizarian form of _arkhidhin_, in the titles of the eastern rite
+    - form: kumet-
       class: stem
-      field: "The gods, the stage and the assembly"
-      gloss: "of the chorus; the Bizarian form of _kumeth-_"
+      field: The gods, the stage and the assembly
+      gloss: of the chorus; the Bizarian form of _kumeth-_
     - form: kumetin
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a hymn of the eastern rite, its stanzas sung by a cantor and its refrain by the whole church"
-      built: ["kumet-", "-in"]
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a hymn of the eastern rite, its stanzas sung by a cantor and its refrain by the whole church
+      built: [kumet-, -in]
     - form: bizur
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a workshop, the place of making"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a workshop, the place of making
     - form: esh
       class: v
       field: Trade, coin, goods and the road
@@ -46,128 +46,122 @@ data:
       concept: be
     - form: danizh
       class: v
-      field: "Trade, coin, goods and the road"
-      gloss: "lend; the bazaar's clipping of _danizharin_"
+      field: Trade, coin, goods and the road
+      gloss: lend; the bazaar's clipping of _danizharin_
     - form: krishandáhr
       class: adj
-      field: "Trade, coin, goods and the road"
-      gloss: "gold-rich, prosperous"
-      built: ["khris-", andáhr]
+      field: Trade, coin, goods and the road
+      gloss: gold-rich, prosperous
+      built: [khris-, andáhr]
     - form: chelkar
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a factor, the agent who buys and sells for a house"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a factor, the agent who buys and sells for a house
     - form: vardesh
       class: n
       field: Trade, coin, goods and the road
       gloss: a debt owed
       concept: debt
     - form: vardeshin
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a debt sold on to a third party"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a debt sold on to a third party
     - form: sepuz
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a debt forgiven, written off before witnesses"
-    - {form: kitvar, class: "n", field: "Trade, coin, goods and the road", gloss: "the ledger"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a debt forgiven, written off before witnesses
+    - {form: kitvar, class: n, field: "Trade, coin, goods and the road", gloss: the ledger}
     - form: morzal
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "the first grade of a good; the best bale"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: the first grade of a good; the best bale
     - form: morzan
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "the second grade, sound and ordinary"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: the second grade, sound and ordinary
     - form: morzash
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "the third grade, sold by the heap"
-    - form: "morz-"
-      class: stem
-      field: "Trade, coin, goods and the road"
-      gloss: "to grade goods"
-    - {form: karvash, class: "n", field: "Trade, coin, goods and the road", gloss: "a caravan"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: the third grade, sold by the heap
+    - {form: morz-, class: stem, field: "Trade, coin, goods and the road", gloss: to grade goods}
+    - {form: karvash, class: n, field: "Trade, coin, goods and the road", gloss: a caravan}
     - form: karvashkar
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a caravan-master"
-      built: [karvash, "-kar"]
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a caravan-master
+      built: [karvash, -kar]
     - form: tolzát
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a toll, the gate's share"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a toll, the gate's share
     - form: neshar
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a trade-mark, a house's sign burned into a bale"
-    - {form: hodis, class: "n", field: "Trade, coin, goods and the road", gloss: "a road"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a trade-mark, a house's sign burned into a bale
+    - {form: hodis, class: n, field: "Trade, coin, goods and the road", gloss: a road}
     - form: limenis
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a quay, the harbor-front"
-    - {form: ambarim, class: "n", field: "Trade, coin, goods and the road", gloss: "a warehouse"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a quay, the harbor-front
+    - {form: ambarim, class: n, field: "Trade, coin, goods and the road", gloss: a warehouse}
     - form: zhevran
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a gem, a cut stone"
-    - {form: pazhur, class: "n", field: "Trade, coin, goods and the road", gloss: "a pearl"}
-    - {form: chelvaz, class: "n", field: "Trade, coin, goods and the road", gloss: "turquoise"}
-    - {form: mazhrel, class: "n", field: "Trade, coin, goods and the road", gloss: "amber"}
-    - {form: charzil, class: "n", field: "Trade, coin, goods and the road", gloss: "silk"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a gem, a cut stone
+    - {form: pazhur, class: n, field: "Trade, coin, goods and the road", gloss: a pearl}
+    - {form: chelvaz, class: n, field: "Trade, coin, goods and the road", gloss: turquoise}
+    - {form: mazhrel, class: n, field: "Trade, coin, goods and the road", gloss: amber}
+    - {form: charzil, class: n, field: "Trade, coin, goods and the road", gloss: silk}
     - form: zhambel
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "indigo, the blue dye"
-    - {form: dalvesh, class: "n", field: "Trade, coin, goods and the road", gloss: "saffron"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: indigo, the blue dye
+    - {form: dalvesh, class: n, field: "Trade, coin, goods and the road", gloss: saffron}
     - form: belzur
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "pepper, and any hot spice"
-    - {form: sevrun, class: "n", field: "Trade, coin, goods and the road", gloss: "musk"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: pepper, and any hot spice
+    - {form: sevrun, class: n, field: "Trade, coin, goods and the road", gloss: musk}
     - form: ruzhvel
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a rose, and the rosewater pressed from it"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a rose, and the rosewater pressed from it
     - form: selvazh
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "felt, and a tent made of it"
-    - {form: kezhval, class: "n", field: "Trade, coin, goods and the road", gloss: "a camel"}
-    - {form: tulvaz, class: "n", field: "Trade, coin, goods and the road", gloss: "a horse"}
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: felt, and a tent made of it
+    - {form: kezhval, class: n, field: "Trade, coin, goods and the road", gloss: a camel}
+    - {form: tulvaz, class: n, field: "Trade, coin, goods and the road", gloss: a horse}
     - form: kezvun
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a hawk, the hunting bird sold in the bazaar"
-    - form: chirnal
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a caravan's bell"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a hawk, the hunting bird sold in the bazaar
+    - {form: chirnal, class: n, field: "Trade, coin, goods and the road", gloss: a caravan's bell}
     - form: dezhbal
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a well on the road, a water-stop"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a well on the road, a water-stop
     - form: parzhel
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a road-fort, a walled stopping-place"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a road-fort, a walled stopping-place
     - form: parzhelir
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a borderer, a soldier of the road-forts and the marches"
-      built: [parzhel, "-ir"]
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a borderer, a soldier of the road-forts and the marches
+      built: [parzhel, -ir]
     - form: vezhnur
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "the heights; the high passes"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: the heights; the high passes
     - form: seketar
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a secretary, a hired scribe"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a secretary, a hired scribe
     - form: papirin
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "paper-script, the Vylarian writing-sheet"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: paper-script, the Vylarian writing-sheet
     - form: zhe
       class: part
       field: Grammar words
@@ -1706,6 +1700,7 @@ data:
       field: Everyday expression
       gloss: Next; immediately after the current place in a sequence.
       concept: next
+      variants: [efekt]
     - form: telest
       class: adv
       field: Everyday expression
@@ -2541,6 +2536,588 @@ data:
       class: part
       field: Everyday expression
       gloss: the focus particle, setting a word forward
+    - form: valzarin
+      class: v
+      field: Everyday expression
+      gloss: maintain a dead person's ritual keeping
+    - {form: valzin, class: n, field: Everyday expression, gloss: that keeping}
+    - {form: valzar, class: n, field: Everyday expression, gloss: chamber keeper}
+    - {form: zharvel, class: n, field: "Trade, coin, goods and the road", gloss: payment receipt}
+    - {form: zelvar, class: n, field: Everyday expression, gloss: written margin}
+    - {form: nevrash, class: n, field: Everyday expression, gloss: renewal}
+    - {form: nevarin, class: v, field: Everyday expression, gloss: renew}
+    - {form: lintar, class: n, field: Everyday expression, gloss: inscribed lintel}
+    - {form: arkhelar, class: n, field: Everyday expression, gloss: founder}
+    - {form: zharvar, class: n, field: Everyday expression, gloss: deep-cut inscription}
+    - form: zharvarin
+      class: n
+      field: Everyday expression
+      gloss: [stone cutter, "v: cut or incise stone (same citation, contextual class)"]
+    - {form: bathir, class: adj, field: Everyday expression, gloss: deep}
+    - {form: zervarin, class: v, field: "The gods, the stage and the assembly", gloss: write}
+    - {form: darzarin, class: v, field: Everyday expression, gloss: read written words}
+    - {form: zharparin, class: v, field: Everyday expression, gloss: pay}
+    - {form: zharpin, class: n, field: "Trade, coin, goods and the road", gloss: payment or price}
+    - {form: zalvin, class: n, field: "Trade, coin, goods and the road", gloss: bale}
+    - {form: linvar, class: n, field: "Trade, coin, goods and the road", gloss: linen}
+    - {form: merzhar, class: n, field: "Trade, coin, goods and the road", gloss: League assessor}
+    - {form: zhamvar, class: n, field: "Trade, coin, goods and the road", gloss: dyer}
+    - {form: nemvar, class: n, field: "The gods, the stage and the assembly", gloss: weaver}
+    - {form: zhalven, class: n, field: Everyday expression, gloss: row}
+    - form: zigharin
+      class: v
+      field: Thought, measure and the schools
+      gloss: weigh on a balance
+    - {form: narzhel, class: n, field: "Trade, coin, goods and the road", gloss: loom}
+    - {form: lavzhel, class: n, field: "Trade, coin, goods and the road", gloss: lamp}
+    - {form: theshel, class: n, field: "The gods, the stage and the assembly", gloss: temple}
+    - {form: iereshar, class: n, field: "The gods, the stage and the assembly", gloss: priest}
+    - form: telvar
+      class: n
+      field: Thought, measure and the schools
+      gloss: settlement of an account
+    - {form: salzhel, class: n, field: "Trade, coin, goods and the road", gloss: shelf}
+    - {form: zerpel, class: n, field: "Thought, measure and the schools", gloss: declared defect}
+    - {form: iatar, class: n, field: Everyday expression, gloss: physician}
+    - {form: nerzhel, class: n, field: Everyday expression, gloss: funerary niche}
+    - {form: vazhrel, class: n, field: Everyday expression, gloss: salvage charge}
+    - {form: krenhar, class: n, field: Everyday expression, gloss: spring season}
+    - {form: therzin, class: n, field: Everyday expression, gloss: summer}
+    - {form: autumnar, class: n, field: Everyday expression, gloss: autumn}
+    - {form: veshtin, class: n, field: Everyday expression, gloss: west}
+    - {form: navzhel, class: n, field: Everyday expression, gloss: ship or boat}
+    - {form: stravel, class: n, field: Everyday expression, gloss: strait}
+    - {form: halzin, class: n, field: "Trade, coin, goods and the road", gloss: salt}
+    - form: merzvan
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: partner in a venture
+    - {form: gemetvar, class: n, field: "Trade, coin, goods and the road", gloss: dowry}
+    - {form: zarvel, class: n, field: "Trade, coin, goods and the road", gloss: marriage vow}
+    - {form: deshvar, class: n, field: "Trade, coin, goods and the road", gloss: contractual bond}
+    - {form: telzhel, class: n, field: "Trade, coin, goods and the road", gloss: table}
+    - form: melvar
+      class: adj
+      field: Everyday expression
+      gloss: [black, "n: watch or sentry duty (distinct from melvar adj black by class)"]
+    - {form: turvar, class: n, field: "Trade, coin, goods and the road", gloss: porter}
+    - {form: zendel, class: n, field: Everyday expression, gloss: stair}
+    - {form: zhelvar, class: n, field: "Trade, coin, goods and the road", gloss: heir}
+    - {form: velzhar, class: n, field: "Trade, coin, goods and the road", gloss: endowment}
+    - {form: marzhel, class: n, field: "Trade, coin, goods and the road", gloss: sung refrain}
+    - {form: zerzhel, class: n, field: "Trade, coin, goods and the road", gloss: itemized schedule}
+    - {form: zhavel, class: n, field: "Trade, coin, goods and the road", gloss: heap}
+    - {form: zhervel, class: n, field: "Trade, coin, goods and the road", gloss: chest}
+    - {form: morz, class: n, field: "Trade, coin, goods and the road", gloss: grade}
+    - {form: maník, class: adj, field: Everyday expression, gloss: empty}
+    - form: mezhrel
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: journeyman standing
+    - {form: balvar, class: n, field: "Trade, coin, goods and the road", gloss: carter}
+    - form: matelvar
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: apprenticeship indenture
+    - {form: tevirzhin, class: n, field: "Trade, coin, goods and the road", gloss: adoption}
+    - {form: nemzhin, class: n, field: "Trade, coin, goods and the road", gloss: guild}
+    - {form: cherzin, class: n, field: "Trade, coin, goods and the road", gloss: wax}
+    - {form: mervar, class: n, field: "Trade, coin, goods and the road", gloss: witness}
+    - {form: bizvar, class: n, field: "Trade, coin, goods and the road", gloss: master of a craft}
+    - form: deshvel
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a binding contractual stipulation
+    - form: zhetelin
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: answer to a question
+    - form: zharzarin
+      class: v
+      field: Everyday expression
+      gloss: press firmly against a surface
+    - form: zighrel
+      class: n
+      field: Thought, measure and the schools
+      gloss: standard-sized weighing mass
+    - form: zarzhel
+      class: n
+      field: Thought, measure and the schools
+      gloss: official measurement standard
+    - {form: vazhel, class: n, field: Everyday expression, gloss: thief}
+    - {form: elvir, class: adj, field: "Thought, measure and the schools", gloss: light in weight}
+    - {form: marvun, class: n, field: Everyday expression, gloss: fool}
+    - form: zhalvarin
+      class: v
+      field: Thought, measure and the schools
+      gloss: [file material from an object, "n: person who files"]
+    - form: zhalvar
+      class: n
+      field: Thought, measure and the schools
+      gloss: filing or filed alteration
+    - {form: varden, class: n, field: "Thought, measure and the schools", gloss: warden of weights}
+    - {form: Harvel, class: n, field: Everyday expression, gloss: title Merchant Hall}
+    - {form: nerzvar, class: n, field: "Trade, coin, goods and the road", gloss: purse}
+    - {form: prakhel, class: n, field: "Trade, coin, goods and the road", gloss: dispute}
+    - {form: terzhel, class: n, field: "Trade, coin, goods and the road", gloss: unverified rumor}
+    - {form: zharbin, class: n, field: "Trade, coin, goods and the road", gloss: brass}
+    - {form: bruzin, class: n, field: "Trade, coin, goods and the road", gloss: bronze}
+    - {form: kalvar, class: n, field: "Trade, coin, goods and the road", gloss: physical wear}
+    - {form: zelvash, class: n, field: "Trade, coin, goods and the road", gloss: textual copy}
+    - {form: darzar, class: n, field: Everyday expression, gloss: person reading}
+    - form: mervash
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: documentary evidence
+    - {form: zharzhel, class: n, field: "Trade, coin, goods and the road", gloss: sack}
+    - {form: bazhar, class: n, field: "Trade, coin, goods and the road", gloss: bazaar}
+    - {form: zhulvin, class: n, field: "Trade, coin, goods and the road", gloss: rot}
+    - {form: arthel, class: n, field: "Trade, coin, goods and the road", gloss: bread}
+    - {form: vardeshar, class: n, field: "Trade, coin, goods and the road", gloss: creditor}
+    - {form: ksenvar, class: n, field: "Trade, coin, goods and the road", gloss: hospitality}
+    - {form: arsher, class: n, field: Everyday expression, gloss: military commander}
+    - {form: marzhar, class: n, field: Everyday expression, gloss: mutually named arbitrator}
+    - {form: kritin, class: n, field: "Thought, measure and the schools", gloss: ruling}
+    - {form: zharvash, class: n, field: Everyday expression, gloss: vengeance}
+    - {form: tanvel, class: n, field: Everyday expression, gloss: grave}
+    - {form: zelzhar, class: n, field: Everyday expression, gloss: testament}
+    - {form: nerthel, class: n, field: Everyday expression, gloss: hole}
+    - {form: drevzarin, class: v, field: Everyday expression, gloss: compel by force}
+    - {form: drevzash, class: n, field: "Thought, measure and the schools", gloss: compulsion}
+    - {form: talorir, class: adj, field: "Thought, measure and the schools", gloss: courageous}
+    - {form: merzarin, class: v, field: Everyday expression, gloss: test or examine}
+    - {form: nemzhel, class: n, field: "Trade, coin, goods and the road", gloss: guild charter}
+    - {form: velzarin, class: v, field: Everyday expression, gloss: retain in memory}
+    - {form: zhelvarin, class: v, field: Everyday expression, gloss: show}
+    - form: varzhel
+      class: adj
+      field: Everyday expression
+      gloss:
+        - wild or untamed
+        - "n: narrative song (distinct from varzhel adj wild by class/context)"
+    - form: Drinsfradel
+      class: n
+      field: Everyday expression
+      gloss: Two-Sealed, individual whole citation
+    - form: Varzhar
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the Collector
+    - {form: Nemvara, class: n, field: "The gods, the stage and the assembly", gloss: the Weaver}
+    - {form: arzhel, class: n, field: Everyday expression, gloss: grass}
+    - {form: orzhel, class: n, field: Everyday expression, gloss: seasonal camp}
+    - {form: krumvar, class: n, field: Everyday expression, gloss: winter}
+    - {form: vezhrel, class: n, field: "Trade, coin, goods and the road", gloss: pass}
+    - {form: barzhel, class: n, field: "Trade, coin, goods and the road", gloss: barley}
+    - {form: hurvel, class: n, field: "Trade, coin, goods and the road", gloss: loft}
+    - {form: alvel, class: n, field: "Trade, coin, goods and the road", gloss: threshing floor}
+    - {form: kalzhel, class: n, field: "Trade, coin, goods and the road", gloss: jar}
+    - {form: tulvazar, class: n, field: "Trade, coin, goods and the road", gloss: rider}
+    - {form: tulvazarin, class: v, field: Everyday expression, gloss: ride a horse}
+    - {form: narvel, class: n, field: "Trade, coin, goods and the road", gloss: rope}
+    - {form: vardin, class: n, field: "Trade, coin, goods and the road", gloss: compulsory service}
+    - {form: varzhelir, class: n, field: "Trade, coin, goods and the road", gloss: raider}
+    - {form: erin, class: n, field: "Trade, coin, goods and the road", gloss: ewe}
+    - {form: mulvar, class: n, field: "Trade, coin, goods and the road", gloss: mule}
+    - form: nuzvarin
+      class: v
+      field: Trade, coin, goods and the road
+      gloss: follow a person or trail
+    - {form: parzhen, class: n, field: "Trade, coin, goods and the road", gloss: garrison}
+    - {form: merzhel, class: n, field: Everyday expression, gloss: gap}
+    - {form: badelvar, class: n, field: "Trade, coin, goods and the road", gloss: ford}
+    - {form: munzhar, class: n, field: Everyday expression, gloss: monk}
+    - {form: karvashvel, class: n, field: "Trade, coin, goods and the road", gloss: caravanserai}
+    - form: tolzhar
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: toll collector
+    - {form: derzhel, class: n, field: "Trade, coin, goods and the road", gloss: medicinal bark}
+    - {form: korzhel, class: n, field: "Trade, coin, goods and the road", gloss: cough}
+    - {form: genvar, class: n, field: Everyday expression, gloss: beard}
+    - {form: dezhel, class: n, field: "Trade, coin, goods and the road", gloss: harness}
+    - {form: zervel, class: n, field: "Trade, coin, goods and the road", gloss: pen}
+    - {form: makhel, class: n, field: "Trade, coin, goods and the road", gloss: knife}
+    - {form: kervel, class: n, field: "Trade, coin, goods and the road", gloss: spinning wheel}
+    - {form: makrin, class: n, field: "Thought, measure and the schools", gloss: measured length}
+    - {form: ghélarin, class: v, field: Everyday expression, gloss: laugh}
+    - {form: erinvar, class: n, field: "Trade, coin, goods and the road", gloss: herder}
+    - {form: siderin, class: n, field: "Trade, coin, goods and the road", gloss: iron}
+    - {form: faelin, class: n, field: "Trade, coin, goods and the road", gloss: visible light}
+    - {form: klevel, class: n, field: "Trade, coin, goods and the road", gloss: shepherd's crook}
+    - {form: hidirvel, class: n, field: "Trade, coin, goods and the road", gloss: watering trough}
+    - {form: kérdarin, class: v, field: Everyday expression, gloss: win a contest}
+    - {form: zirvel, class: n, field: Everyday expression, gloss: sword}
+    - {form: zerhir, class: adj, field: Everyday expression, gloss: dry}
+    - {form: navrel, class: n, field: Everyday expression, gloss: hoof}
+    - {form: poletar, class: n, field: Everyday expression, gloss: army}
+    - {form: badelar, class: n, field: "Trade, coin, goods and the road", gloss: traveler}
+    - form: ekhárin
+      class: v
+      field: Everyday expression
+      gloss:
+        - have or hold
+        - To have or hold; keep something in one's possession or grasp. The object and situation distinguish possession from bodily holding.
+      concept: [have, hold]
+    - form: dorasarin
+      class: v
+      field: Everyday expression
+      gloss: [give, To give something to someone.]
+      variants: [dorasar]
+      concept: give
+    - form: epistémarin
+      class: v
+      field: Everyday expression
+      gloss: [know, To know something; have knowledge that can be communicated or taught.]
+      concept: know
+    - form: akherin
+      class: v
+      field: Everyday expression
+      gloss: [hear, To hear a sound.]
+      concept: hear-verb
+    - form: lámbarin
+      class: v
+      field: Everyday expression
+      gloss:
+        - take or receive
+        - To take or receive; receiving an offered or tossed object uses the receiving sense, including catching it in the hands.
+      concept: [take, catch]
+    - form: heurarin
+      class: v
+      field: Everyday expression
+      gloss: [find, To find or discover something.]
+      concept: find
+    - form: zelarin
+      class: v
+      field: Everyday expression
+      gloss: [live, "To live; be alive, or make one's home in a place."]
+      concept: live
+    - {form: zighir, class: n, field: "Thought, measure and the schools", gloss: balance}
+    - form: tokhir
+      class: n
+      field: Everyday expression
+      gloss: [father, "A parent, of any gender."]
+      concept: parent
+    - {form: huyir, class: n, field: Everyday expression, gloss: [son], concept: son}
+    - form: domin
+      class: n
+      field: Everyday expression
+      gloss: [house, "a house, a household"]
+      concept: abode
+    - {form: pólitar, class: n, field: Everyday expression, gloss: city}
+    - {form: nomisin, class: n, field: Everyday expression, gloss: coin}
+    - form: ónomir
+      class: n
+      field: Everyday expression
+      gloss: [name, a name]
+      concept: name-noun
+    - {form: ieresin, class: n, field: "The gods, the stage and the assembly", gloss: rite}
+    - {form: sfradin, class: n, field: Everyday expression, gloss: seal}
+    - {form: sfradarin, class: v, field: Everyday expression, gloss: seal a document}
+    - {form: harmodin, class: n, field: Everyday expression, gloss: agreement}
+    - form: dikhelir
+      class: adj
+      field: Everyday expression
+      gloss: [just, Right or morally acceptable; fair and in accord with what is owed.]
+      concept: right-ethical
+    - form: mikrir
+      class: adj
+      field: Everyday expression
+      gloss: [little, Small; of little size.]
+      concept: small
+    - form: palaisir
+      class: adj
+      field: Everyday expression
+      gloss: ["old, of a nonliving thing", "old, of the former age"]
+      concept: old-object
+    - {form: nevar, class: adj, field: Everyday expression, gloss: new}
+    - {form: kelir, class: adj, field: Everyday expression, gloss: good or noble}
+    - form: sterir
+      class: adj
+      field: Everyday expression
+      gloss: [hard or firm, Hard or firm to the touch; resistant to pressure.]
+      concept: hard-texture
+    - {form: brakin, class: n, field: Everyday expression, gloss: arm}
+    - {form: tékhin, class: n, field: "Trade, coin, goods and the road", gloss: trade or craft}
+    - {form: meun, class: num, field: Grammar words, gloss: [one], concept: one}
+    - {form: drin, class: num, field: Grammar words, gloss: [two], concept: two}
+    - {form: trel, class: num, field: Grammar words, gloss: [three], concept: three}
+    - {form: vesmor, class: num, field: Grammar words, gloss: [four], concept: four}
+    - {form: plem, class: num, field: Grammar words, gloss: [five], concept: five}
+    - {form: zemor, class: num, field: Grammar words, gloss: [six], concept: six}
+    - {form: zekhor, class: num, field: Grammar words, gloss: [ten], concept: ten}
+    - form: hemerin
+      class: n
+      field: Everyday expression
+      gloss:
+        - day
+        - A day, from dawn to night or as a full day-and-night cycle according to context.
+      concept: day
+    - {form: nikhtir, class: n, field: Everyday expression, gloss: [night], concept: night}
+    - {form: ánevir, class: n, field: Everyday expression, gloss: [wind, the wind], concept: wind}
+    - {form: krenir, class: n, field: Everyday expression, gloss: spring of water}
+    - {form: fótamir, class: n, field: Everyday expression, gloss: [river], concept: river}
+    - {form: kosamir, class: n, field: Everyday expression, gloss: world}
+    - form: ghéranis
+      class: n
+      field: Everyday expression
+      gloss: [land, "earth, land"]
+      concept: [earth, land]
+    - form: dokharin
+      class: n
+      field: Everyday expression
+      gloss: [honor or reputation, "glory, reputation, the honor a citizen owns"]
+      concept: honor
+    - form: agorarin
+      class: v
+      field: Everyday expression
+      gloss: [buy, To buy; acquire something in exchange for payment.]
+      concept: buy
+    - form: polarin
+      class: v
+      field: Everyday expression
+      gloss: [sell, To sell; give something in exchange for payment.]
+      variants: [polar]
+      concept: sell
+    - form: apolarin
+      class: v
+      field: Everyday expression
+      gloss: [lose, To lose someone or something; cease to have or find it.]
+      concept: lose
+    - form: hupeskharin
+      class: v
+      field: Everyday expression
+      gloss: [promise, To promise; commit oneself in speech to a future act or outcome.]
+      concept: promise-verb
+    - form: hafarin
+      class: v
+      field: Everyday expression
+      gloss: [touch, To touch; to feel something with the hand.]
+      concept: touch-verb
+    - {form: kaluptarin, class: v, field: Everyday expression, gloss: hide}
+    - {form: dikasar, class: n, field: Everyday expression, gloss: magistrate}
+    - {form: kérdanir, class: n, field: Everyday expression, gloss: profit}
+    - form: Sighelin Dikaser
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the Silent Judge, title
+    - form: Varzhel Ternin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the Wild Beast, title
+    - form: prosarin
+      class: n
+      field: Everyday expression
+      gloss: [face, The face; the front of the head.]
+      concept: face
+    - {form: pilin, class: n, field: Everyday expression, gloss: [gate, a gate], concept: gate}
+    - form: teikhir
+      class: n
+      field: Everyday expression
+      gloss: [wall, "a wall, the city's"]
+      concept: wall
+    - {form: iskhelin, class: n, field: Everyday expression, gloss: [hip, A hip.], concept: hip}
+    - {form: kefalir, class: n, field: Everyday expression, gloss: [head, the head], concept: head}
+    - {form: reshir, class: n, field: Everyday expression, gloss: flow}
+    - {form: tokhel, class: n, field: Everyday expression, gloss: bow}
+    - form: stomir
+      class: n
+      field: Everyday expression
+      gloss: [mouth, The mouth.]
+      concept: mouth
+    - form: difelin
+      class: n
+      field: Everyday expression
+      gloss: [thirst, Thirst; the bodily need for water or drink.]
+      concept: thirst
+    - form: lofir
+      class: n
+      field: Everyday expression
+      gloss: [hill, "a hill, a ridge"]
+      concept: hill
+    - {form: plir, class: adj, field: Everyday expression, gloss: full}
+    - {form: kléandir, class: n, field: Everyday expression, gloss: hero}
+    - form: Penthar
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: title the Compact of the Five
+    - form: zervash
+      class: n
+      field: Thought, measure and the schools
+      gloss: declaration of a defect
+    - form: dunelira
+      class: n
+      field: Thought, measure and the schools
+      gloss: strength or capability
+    - {form: litorvel, class: n, field: Everyday expression, gloss: escarpment}
+    - {form: balvel, class: n, field: "Trade, coin, goods and the road", gloss: cart}
+    - {form: zherzhel, class: n, field: "Trade, coin, goods and the road", gloss: map}
+    - {form: zhelzar, class: n, field: "Trade, coin, goods and the road", gloss: envoy}
+    - {form: oinel, class: n, field: "Trade, coin, goods and the road", gloss: wine}
+    - {form: gevar, class: n, field: "Trade, coin, goods and the road", gloss: goat}
+    - {form: zirzhel, class: n, field: "The gods, the stage and the assembly", gloss: forge}
+    - {form: melarin, class: v, field: Everyday expression, gloss: smile}
+    - {form: penetir, class: adj, field: "Thought, measure and the schools", gloss: poor}
+    - form: neirarin
+      class: v
+      field: Everyday expression
+      gloss: [wash, To breathe; take air into and out of the lungs.]
+      concept: breathe
+    - {form: zirzhar, class: n, field: "The gods, the stage and the assembly", gloss: smith}
+    - {form: zalzhel, class: n, field: "Trade, coin, goods and the road", gloss: mine}
+    - {form: sithel, class: n, field: "Trade, coin, goods and the road", gloss: grain}
+    - {form: zherpel, class: n, field: "Trade, coin, goods and the road", gloss: playing card}
+    - {form: zhevar, class: n, field: "Trade, coin, goods and the road", gloss: ornament}
+    - form: merzhen
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: joint military muster
+    - form: Kervash
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: political title the Republic
+    - {form: stevrel, class: n, field: "Trade, coin, goods and the road", gloss: roof}
+    - form: árshir
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: presiding chairperson
+    - {form: sumetin, class: n, field: Everyday expression, gloss: meeting}
+    - {form: agorin, class: n, field: "Trade, coin, goods and the road", gloss: market square}
+    - form: hufin
+      class: n
+      field: Everyday expression
+      gloss: [sleep, Sleep; the bodily state of sleeping.]
+      concept: sleep-noun
+    - form: órasin
+      class: n
+      field: Everyday expression
+      gloss: [mountain, a mountain]
+      concept: mountain
+    - {form: limenir, class: n, field: "Trade, coin, goods and the road", gloss: harbor}
+    - {form: parádarin, class: v, field: "Trade, coin, goods and the road", gloss: hand over}
+    - form: huferin
+      class: n
+      field: Thought, measure and the schools
+      gloss: [pride, "Pride: high regard for oneself or one's achievements."]
+      concept: pride
+    - form: zarvelin
+      class: adj
+      field: Thought, measure and the schools
+      gloss: least (individual lexical superlative
+    - {form: lamvar, class: n, field: Everyday expression, gloss: taker/receiver}
+    - {form: hikir, class: adj, field: "Thought, measure and the schools", gloss: serene}
+    - form: Uf-Harmodin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the Unagreed
+    - {form: zhelarin, class: v, field: Everyday expression, gloss: paint a representation}
+    - {form: bazvar, class: n, field: "Trade, coin, goods and the road", gloss: stall}
+    - {form: morfel, class: n, field: "Thought, measure and the schools", gloss: shape}
+    - {form: varvel, class: n, field: "Trade, coin, goods and the road", gloss: fence}
+    - {form: Zirzhelir, class: n, field: "The gods, the stage and the assembly", gloss: Forge-Lord}
+    - {form: Hodisvar, class: n, field: "The gods, the stage and the assembly", gloss: Wayfarer}
+    - {form: haghel, class: adj, field: "The gods, the stage and the assembly", gloss: sacred}
+    - form: sotira
+      class: n
+      field: Thought, measure and the schools
+      gloss: wisdom (native inherited citation)
+    - {form: nemzarin, class: v, field: "Trade, coin, goods and the road", gloss: spin thread}
+    - {form: selvirin, class: n, field: "Trade, coin, goods and the road", gloss: cedar}
+    - {form: merzvin, class: n, field: "Trade, coin, goods and the road", gloss: gnat}
+    - {form: verzhel, class: n, field: "Trade, coin, goods and the road", gloss: anvil}
+    - form: metrin
+      class: n
+      field: Thought, measure and the schools
+      gloss: unit or act of measurement
+    - {form: Brontar, class: n, field: "The gods, the stage and the assembly", gloss: Thunderer}
+    - {form: Auksar, class: n, field: "The gods, the stage and the assembly", gloss: Nurturer}
+    - form: Dorzhel
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Bountiful One
+    - form: Minzhela
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Lady of the Waning Moon
+    - form: Zhunel
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Veiled Dreamer
+    - {form: sporarin, class: v, field: Everyday expression, gloss: sow}
+    - {form: terishin, class: n, field: "Trade, coin, goods and the road", gloss: harvest}
+    - form: kresin
+      class: n
+      field: Thought, measure and the schools
+      gloss: use/usefulness (retains abstract usefulness sense where applicable)
+    - {form: kalvarin, class: v, field: "Trade, coin, goods and the road", gloss: wear through use}
+    - {form: vazhin, class: n, field: "Trade, coin, goods and the road", gloss: theft}
+    - {form: marvel, class: n, field: "Trade, coin, goods and the road", gloss: mask}
+    - {form: rodzhel, class: n, field: "Trade, coin, goods and the road", gloss: compass}
+    - {form: brontel, class: n, field: "Trade, coin, goods and the road", gloss: thunderbolt}
+    - {form: kelvar, class: n, field: "Trade, coin, goods and the road", gloss: fruit}
+    - {form: zerharin, class: v, field: Everyday expression, gloss: wither}
+    - form: astrin
+      class: n
+      field: Everyday expression
+      gloss: [star, A star in the night sky.]
+      concept: star
+    - {form: apatar, class: n, field: "Trade, coin, goods and the road", gloss: cheat/deceiver}
+    - {form: hidirvar, class: n, field: "Trade, coin, goods and the road", gloss: dyke}
+    - {form: sfradar, class: n, field: "Trade, coin, goods and the road", gloss: person sealing}
+    - {form: nerzvan, class: n, field: "Trade, coin, goods and the road", gloss: tenant}
+    - {form: kemetvar, class: n, field: "Trade, coin, goods and the road", gloss: owner}
+    - {form: kervelmakhel, class: n, field: "Trade, coin, goods and the road", gloss: shears}
+    - {form: zharvelin, class: n, field: "Trade, coin, goods and the road", gloss: gate bars}
+    - {form: ezhar, class: n, field: "Trade, coin, goods and the road", gloss: suspension}
+    - {form: tevrel, class: n, field: "Trade, coin, goods and the road", gloss: tent peg}
+    - {form: zarzvel, class: n, field: "Trade, coin, goods and the road", gloss: hinge}
+    - {form: ghignarin, class: v, field: Everyday expression, gloss: become}
+    - {form: ámpelir, class: n, field: Everyday expression, gloss: vine}
+    - {form: faenir, class: n, field: Everyday expression, gloss: [sun, the sun], concept: sun}
+    - form: egeirir
+      class: adj
+      field: Everyday expression
+      gloss: [awake, Awake; out of sleep.]
+      concept: awake
+    - form: arsir
+      class: n
+      field: Everyday expression
+      gloss:
+        - ruler
+        - A presiding magistrate, who gives the year his name; in ordinary reference, the ruler or person exercising authority.
+      concept: ruler
+    - {form: en, class: rel, field: Everyday expression, gloss: "in, inside"}
+    - {form: meta, class: rel, field: Everyday expression, gloss: "with, accompanying"}
+    - {form: para, class: rel, field: Everyday expression, gloss: beside or beyond}
+    - {form: pro, class: rel, field: Everyday expression, gloss: before}
+    - {form: dia, class: rel, field: Everyday expression, gloss: through}
+    - {form: keletin, class: n, field: Everyday expression, gloss: clause of an agreement}
+    - {form: darvel, class: n, field: Everyday expression, gloss: yard or enclosed working court}
+    - {form: telzhar, class: n, field: Everyday expression, gloss: assessed rate or levy}
+    - form: fomántimor
+      class: pron
+      field: Everyday expression
+      gloss: someone; an unspecified person
+    - {form: medinántimor, class: pron, field: Everyday expression, gloss: nobody; no person}
+    - {form: plumántimor, class: pron, field: Everyday expression, gloss: everyone; every person}
+    - {form: medinerdrin, class: pron, field: Everyday expression, gloss: neither of two}
+    - {form: medinkronin, class: adv, field: Everyday expression, gloss: "never, at no time"}
+    - {form: polirhorat, class: adv, field: Everyday expression, gloss: "often, on many occasions"}
+    - {form: meunhorat, class: adv, field: Everyday expression, gloss: "once, on one occasion"}
+    - {form: drinhorat, class: adv, field: Everyday expression, gloss: "twice, on two occasions"}
+    - {form: trelhorat, class: adv, field: Everyday expression, gloss: a third time}
+    - form: medintofelin
+      class: adv
+      field: Everyday expression
+      gloss: nowhere, to no destination
+    - {form: ghéranisfrunhidir, class: n, field: Everyday expression, gloss: mud brick}
+    - {form: huthikanir, class: num, field: Everyday expression, gloss: much; a large amount}
+    - {form: ufontir, class: adj, field: Everyday expression, gloss: "void, having no effect"}
+    - {form: drinolashin, class: pron, field: Everyday expression, gloss: both of two}
+    - {form: platelin, class: n, field: Everyday expression, gloss: width or breadth}
+    - {form: agorar, class: n, field: Everyday expression, gloss: buyer}
+    - {form: pluma, class: pron, field: Everyday expression, gloss: everything; all things}
+    - {form: peitir, class: adj, field: Everyday expression, gloss: "faithful, kept as promised"}
   sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking
   templatePriority: null
@@ -2731,6 +3308,29 @@ data:
       - "Rekhazur"
       - "Frizipáhr"
       - "Trosuskar"
+  tongues: [{tag: byzarian, meaning: a Bizarian name, language: skill-byzarnlng}]
+  register:
+    - {name: Agórankar, tongue: byzarian}
+    - {name: Argirteikhos, tongue: byzarian}
+    - {name: Dezhbalara, tongue: byzarian}
+    - {name: Ghéranides, tongue: byzarian}
+    - {name: Karvashion, tongue: byzarian}
+    - {name: Kezvunash, tongue: byzarian}
+    - {name: Kreniza, tongue: byzarian}
+    - {name: Krusteikhos, tongue: byzarian}
+    - {name: Marendas, tongue: byzarian}
+    - {name: Nesthiros, tongue: byzarian}
+    - {name: Nevarash, tongue: byzarian}
+    - {name: Ruzhveleze, tongue: byzarian}
+    - {name: Strátimos, tongue: byzarian}
+    - {name: Tchirnalash, tongue: byzarian}
+    - {name: Teíkhazur, tongue: byzarian}
+    - {name: Zavan, tongue: byzarian}
+    - {name: Zighahr, tongue: byzarian}
+    - {name: Ánevazur, tongue: byzarian}
+    - {name: Ánevkar, tongue: byzarian}
+    - {name: Órashazur, tongue: byzarian}
+    - {name: Órashion, tongue: byzarian}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
