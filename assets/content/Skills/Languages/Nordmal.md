@@ -6506,6 +6506,98 @@ data:
       class: adj
       field: Everyday speech
       gloss: standing
+    - form: morkhollva
+      class: n
+      field: Everyday speech
+      gloss: mother hall of an order
+    - form: grasna
+      class: n
+      field: Everyday speech
+      gloss: roof thatch
+    - form: lukva
+      class: n
+      field: Everyday speech
+      gloss: fastening
+    - form: arnvef
+      class: n
+      field: Everyday speech
+      gloss: sleeve
+    - form: fundmerki
+      class: n
+      field: Everyday speech
+      gloss: footprint
+    - form: gangma
+      class: n
+      field: Everyday speech
+      gloss: pace of walking
+    - form: nafna
+      class: adj
+      field: Everyday speech
+      gloss: nameless
+    - form: taktma
+      class: n
+      field: Everyday speech
+      gloss: rhythm
+    - form: skaltna
+      class: v
+      field: Everyday speech
+      gloss: crack against a surface
+    - form: melvef
+      class: n
+      field: Everyday speech
+      gloss: mail armor
+    - form: hlustari
+      class: n
+      field: Everyday speech
+      gloss: listener
+    - form: frostva
+      class: n
+      field: Everyday speech
+      gloss: frost
+    - form: klivri
+      class: n
+      field: Everyday speech
+      gloss: climber
+    - form: bratva
+      class: adj
+      field: Everyday speech
+      gloss: sheer
+    - form: Stormmarlri
+      class: n
+      field: Everyday speech
+      gloss: Storm-Speaker
+    - form: arvaji
+      class: n
+      field: Everyday speech
+      gloss: weather craft
+    - form: karlma
+      class: n
+      field: Everyday speech
+      gloss: calling or vocation
+    - form: skernhulva
+      class: n
+      field: Everyday speech
+      gloss: eyelid
+    - form: skunma
+      class: n
+      field: Everyday speech
+      gloss: perception
+    - form: samnma
+      class: n
+      field: Everyday speech
+      gloss: gathering
+    - form: skipmann
+      class: n
+      field: Everyday speech
+      gloss: sailor
+    - form: smivhugnim
+      class: n
+      field: Everyday speech
+      gloss: craft knowledge
+    - form: hovri
+      class: adj
+      field: Everyday speech
+      gloss: sacred
   naming:
     edges:
       - edge: openConsonant
