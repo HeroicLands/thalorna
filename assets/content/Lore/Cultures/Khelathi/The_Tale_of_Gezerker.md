@@ -38,208 +38,570 @@ The copy rendered here is the one the clubs use. Where the tale quotes a documen
 
 ## The Telling
 
-This is the telling of how it was with Gezerker, a scribe of the rolls, in the years of the struck one, and after.
+```verse {form=prose numstep=5 cols=2}
+1 [Wanel eqar qethunet elu Gezerker, zethuar elu zelqet, ezu qazlun elu genar elu rethan qelgaret ta mer naru.]{.nativefont lang=khel}
+2 [Here is Gezerker's story, a roll scribe during the struck man's reign and afterward.]{lang=en}
+2 [Wanel eqar qethunet elu Gezerker, zethuar elu zelqet, ezu qazlun elu genar elu rethan qelgaret ta mer naru.]{lang=khel}
 
-He was of a street in Gar-Qethar, on the low ground, two doors from the granary quays. His mother's house put him into the school of the bureaus at seven and went hungry to keep him there, which is what a scribe costs, and he came out of it with [[skill-qalzscrscrpt|Qalezu]] and a place at the fourth counter of the [House of Records]{.name data-type="place/structure" lang=en}, where the tax rolls of the [[affiliation-capitalselat|Capital Selat]] are kept. He could not read the sacred hand. He could read a weight, a boundary and a roll, his hand was neat, and that is everything the tale says of him before the struck one.
+1 [Wanel saru elu hodir az Gar-Qethar ezu gharen qezil. Wanel galmun khul qarmath galar elu mathun ta limqet elu habtun. Qalath garqen elu mathun saru ezu rethgal elu garzethu az kalzet salet. Khanar naru ez lagath saru zun. Wanel eqar qenmet elu zethuar. Yarath saru ta Qalezu ta garel az zethgal tuzar elu Galar elu Zethu. Lagath genar zethqen elu zeqar elu Selat elu Gal-Au zun. Khez dunel saru zethul Khelathi-zethu. Dunel saru mazel gezan ta qernet ta zelqet. Wanel thalmu elu saru qenlet. Wanel eqar raznet zamat elu qethunet qaral saru mar genar elu rethan qelgaret.]{.nativefont lang=khel}
+2 [He came from [[place-garqethar|[[place-garqethar|Gar-Qethar]]]]'s low ground, two doors from the granary quays. At seven his mother's household placed him in bureau school and went hungry to maintain him. Such is a scribe's price. He emerged knowing [[skill-qalzscrscrpt|Qalezu]] and took the fourth counter in the ]{lang=en}[House of Records]{lang=en. .name data-type="place/structure" lang=en}[, keeper of the [[affiliation-capitalselat|Capital Selat]]'s tax rolls. Sacred writing was beyond him. He could read weights, boundaries, and rolls with a neat hand. The tale gives nothing else before the struck man.]{lang=en}
+2 [Wanel saru elu hodir az Gar-Qethar ezu gharen qezil. Wanel galmun khul qarmath galar elu mathun ta limqet elu habtun. Qalath garqen elu mathun saru ezu rethgal elu garzethu az kalzet salet. Khanar naru ez lagath saru zun. Wanel eqar qenmet elu zethuar. Yarath saru ta Qalezu ta garel az zethgal tuzar elu Galar elu Zethu. Lagath genar zethqen elu zeqar elu Selat elu Gal-Au zun. Khez dunel saru zethul Khelathi-zethu. Dunel saru mazel gezan ta qernet ta zelqet. Wanel thalmu elu saru qenlet. Wanel eqar raznet zamat elu qethunet qaral saru mar genar elu rethan qelgaret.]{lang=khel}
 
-In the first year of the struck one the Gar-Au proclaimed himself [[lore-uqaadty|Uqa'a]] in the flesh. The tale does not enter the proclamation. It enters what came to the fourth counter. The island was shut. The guard of the Gar-Au held the Great Temple and the granaries that belonged to it, the priests who named the blasphemy were silenced, and among the silenced was the keeper of the Measure, [Imsithe Reth'el'Qetu]{.name data-type="being/npc" lang=khel}, who had read the stair for thirty-one years. The tale enters no more of him than the list enters of a king. The guard needed a hand that could count cubits and write a number, and the bureaus were told to send one. The bureaus sent Gezerker, because his hand was neat and because he was nobody, which is the reason a bureau sends anyone.
+1 [Ezu qazlun lazret elu genar eqar ghamuz Gar-Au wanel saru Uqa'a ezu malqat. Khez zethal qethunet ghamuznet. Zethal qu tamelnet az zethgal tuzar. Galath genar galuqet. Lagath Meglay elu Gar-Au Galar Thazet elu nelgir ta habtun elu qu. Thalet genar raznet elu Lem'Nelgir. Razel naru qaznel elu raznet eqar. Wanel Lagathar elu Mazelnet Imsithe Reth'el'Qetu qarmath naru. Zethul saru az zengel ezu kalzet 31. Khez nelaz qethunet tazir raznet elu saru qel zethqen elu Gar-Au. Tamral Meglay thalmu elu mazath mazgar elu thulun ta zethal mazret. Ghamuz genar garzethu nelaz lazen. Nelaz garzethu Gezerker qaral thalmu qenlet ta wanel saru khezan. Wanel eqar qarun elu nelaznet elu garzethu.]{.nativefont lang=khel}
+2 [In that ruler's first year, the Gar-Au declared himself [[lore-uqaadty|Uqa'a]] embodied. The tale omits that declaration and records what reached the fourth counter. The island closed; royal guards occupied the Great Temple and its granaries. Priests denouncing blasphemy lost their voices, including ]{lang=en}[Imsithe Reth'el'Qetu]{lang=en. .name data-type="being/npc" lang=khel}[, keeper and reader of the Measure for thirty-one years. The tale treats him as sparely as a king-list treats a king. Guards required a hand able to count cubits and write numbers. Ordered to supply one, the bureau supplied Gezerker: neat hand, nobody important, the bureau's usual reasons.]{lang=en}
+2 [Ezu qazlun lazret elu genar eqar ghamuz Gar-Au wanel saru Uqa'a ezu malqat. Khez zethal qethunet ghamuznet. Zethal qu tamelnet az zethgal tuzar. Galath genar galuqet. Lagath Meglay elu Gar-Au Galar Thazet elu nelgir ta habtun elu qu. Thalet genar raznet elu Lem'Nelgir. Razel naru qaznel elu raznet eqar. Wanel Lagathar elu Mazelnet Imsithe Reth'el'Qetu qarmath naru. Zethul saru az zengel ezu kalzet 31. Khez nelaz qethunet tazir raznet elu saru qel zethqen elu Gar-Au. Tamral Meglay thalmu elu mazath mazgar elu thulun ta zethal mazret. Ghamuz genar garzethu nelaz lazen. Nelaz garzethu Gezerker qaral thalmu qenlet ta wanel saru khezan. Wanel eqar qarun elu nelaznet elu garzethu.]{lang=khel}
 
-He was rowed to the upstream point of the island in the first month of [[lore-azletssn|Azlet]] with a palette, a reed and a day-tablet, and a sergeant of the guard showed him the Measure.
+1 [Tuqel qelzarar saru ez qarnet elu igelu zar elu galuqet ezu menqet lazret elu Azlet. Qamar saru zethqal, sheqet, zethqen elu tharen. Zhelath qeznarar elu Meglay Mazelnet ez saru.]{.nativefont lang=khel}
+2 [In [[lore-azletssn|Azlet]]'s first month rowers took him to the island's upstream tip with palette, reed, and daily tablet. A guard sergeant showed him the Measure.]{lang=en}
+2 [Tuqel qelzarar saru ez qarnet elu igelu zar elu galuqet ezu menqet lazret elu Azlet. Qamar saru zethqal, sheqet, zethqen elu tharen. Zhelath qeznarar elu Meglay Mazelnet ez saru.]{lang=khel}
 
-The stair goes down into the water, with a shaft beside it, and on the walls of both every cubit of the flood is cut deep, with the name of the cubit beside it in the sacred hand. The fourteenth cubit is cut deeper than the rest and painted, and a flood that stands at it is called full. Gezerker could not read the names of the cubits. He counted the marks with his hand, from the water up to the painted one, on every morning of the rising, and wrote the count on the day-tablet in Qalezu, because there was no priest left on the stair to write it in the other. That is how the column of the Measure for the struck years comes to be in the wrong hand, and how a reader of the temple's day-book knows those years at a glance without reading a number.
+1 [Yarul zengel nizar ezu qalu. Alqar qezgar qarmel qu. Qelzat genar mazgar elu thulun temun khumar az galzat elu khul. Wanel rethan elu mazgar qarmel lazet ezu Khelathi-zethu. Qelzat genar mazgar 14 khumar tazir shar leqar. Zheqath genar qu. Wanel Azlet az qu telnethet. Khez dunel Gezerker zethul rethan elu mazgar. Mazath saru zurmeth qer elu thalmu nyar qalu zar ez zheqet az zarun temun elu yaler qalu. Zethal saru mazret az zethqen elu tharen ezu Qalezu. Khez thalel Lem'Nelgir az zengel ez zethal ezu leqar. Wanel eqar qarun elu qernet elu Mazelnet ezu thalmu khez qenlet ezu qazlun qelgaret. Rethul zethular elu galnet elu nelgir qazlun eqar az zuran lazret, khez zethul mazret.]{.nativefont lang=khel}
+2 [Beside the water-descending stair runs a shaft. Both walls carry deeply cut cubits named in sacred writing. The fourteenth is deeper and painted: water reaching it is full flood. Unable to read their names, Gezerker counted the cuts by touch from water to painted mark every rising morning, entering his number in [[skill-qalzscrscrpt|Qalezu]]. No priest remained to use sacred writing. Thus those years' Measure column uses the wrong hand. Temple day-book readers recognize them before reading a numeral.]{lang=en}
+2 [Yarul zengel nizar ezu qalu. Alqar qezgar qarmel qu. Qelzat genar mazgar elu thulun temun khumar az galzat elu khul. Wanel rethan elu mazgar qarmel lazet ezu Khelathi-zethu. Qelzat genar mazgar 14 khumar tazir shar leqar. Zheqath genar qu. Wanel Azlet az qu telnethet. Khez dunel Gezerker zethul rethan elu mazgar. Mazath saru zurmeth qer elu thalmu nyar qalu zar ez zheqet az zarun temun elu yaler qalu. Zethal saru mazret az zethqen elu tharen ezu Qalezu. Khez thalel Lem'Nelgir az zengel ez zethal ezu leqar. Wanel eqar qarun elu qernet elu Mazelnet ezu thalmu khez qenlet ezu qazlun qelgaret. Rethul zethular elu galnet elu nelgir qazlun eqar az zuran lazret, khez zethul mazret.]{lang=khel}
 
-In the first year the water came to the painted cubit, and he wrote fourteen, and it was fourteen.
+1 [Ezu qazlun lazret yalath qalu ez mazgar zheqet. Zethal saru 14. Wanel qu 14.]{.nativefont lang=khel}
+2 [The first year reached the paint. He entered fourteen. It was fourteen.]{lang=en}
+2 [Ezu qazlun lazret yalath qalu ez mazgar zheqet. Zethal saru 14. Wanel qu 14.]{lang=khel}
 
-In the second year of the struck one the water rose to the twelfth cubit and one palm above it and stopped. He counted it on four mornings running with his hand on the stone, and on the fourth morning the sergeant came down the stair.
+1 [Ezu qazlun khulret elu genar eqar yaler qalu zar ez mazgar 12 ta qaleth lazen. Thalet qu. Mazath saru qu ezu zarun tuzar qemel. Walet saru thalmu az qedlar. Ezu zarun tuzar yaler qeznarar nizar ezu zengel.]{.nativefont lang=khel}
+2 [In the second year water stopped at twelve cubits and one palm. Four successive mornings his hand confirmed it. On the fourth the sergeant descended.]{lang=en}
+2 [Ezu qazlun khulret elu genar eqar yaler qalu zar ez mazgar 12 ta qaleth lazen. Thalet qu. Mazath saru qu ezu zarun tuzar qemel. Walet saru thalmu az qedlar. Ezu zarun tuzar yaler qeznarar nizar ezu zengel.]{lang=khel}
 
-"It stands at fourteen and two," the sergeant said. "The Gar-Au is Uqa'a in the flesh, and the river is his. Write fourteen and two."
+1 [Razel qeznarar. Tharel qu az 14 ta khul. Wanel Gar-Au Uqa'a ezu malqat. Wanel igelu elu saru. Zethal telu 14 ta khul.]{.nativefont lang=khel}
+2 [Fourteen and two, said the sergeant. The Gar-Au embodies [[lore-uqaadty|Uqa'a]]. The river belongs to him. Enter fourteen and two.]{lang=en}
+2 [Razel qeznarar. Tharel qu az 14 ta khul. Wanel Gar-Au Uqa'a ezu malqat. Wanel igelu elu saru. Zethal telu 14 ta khul.]{lang=khel}
 
-"I have my hand on the twelfth," Gezerker said.
+1 [Razel Gezerker. Walet nazu thalmu az 12.]{.nativefont lang=khel}
+2 [My hand rests on twelve, Gezerker said.]{lang=en}
+2 [Razel Gezerker. Walet nazu thalmu az 12.]{lang=khel}
 
-"Write fourteen and two."
+1 [Razel qeznarar. Zethal telu 14 ta khul.]{.nativefont lang=khel}
+2 [Enter fourteen and two.]{lang=en}
+2 [Razel qeznarar. Zethal telu 14 ta khul.]{lang=khel}
 
-Gezerker wrote fourteen and two. The reading went across the bridge to the temple and from the temple out to the city as a festival, and the tax rolls of the Capital Selat were struck for a harvest at fourteen and two, in his own bureau, at his own counter, by hands he knew.
+1 [Zethal Gezerker 14 ta khul. Yarath mazelnet qazir galthel ez galar elu nelgir. Yarath qu ez galnat qel qelmar. Zethal garzethu zeqar elu Selat elu Gal-Au qer elu Shelu elu 14 ta khul. Wanel qu garzethu elu saru ta zethgal elu saru ta thalmu elu rethulnet elu saru.]{.nativefont lang=khel}
+2 [He entered it. The reading crossed the bridge to the temple and spread as celebration through the city. His own bureau's familiar hands struck the [[affiliation-capitalselat|Capital Selat]]'s tax rolls for a fourteen-and-two harvest at his own counter.]{lang=en}
+2 [Zethal Gezerker 14 ta khul. Yarath mazelnet qazir galthel ez galar elu nelgir. Yarath qu ez galnat qel qelmar. Zethal garzethu zeqar elu Selat elu Gal-Au qer elu Shelu elu 14 ta khul. Wanel qu garzethu elu saru ta zethgal elu saru ta thalmu elu rethulnet elu saru.]{lang=khel}
 
-He kept the twelfth cubit and the palm in his head. He wrote it nowhere. A tablet can be found, and a number in a man's head cannot, and twelve numbers are not heavy; a scribe carries more than that for a Halzi'a's cattle. The tale gives the whole column later, where he gave it.
+1 [Walet saru 12 ta qaleth ezu qarnet. Khez zethal saru qu az garun. Dunel genar heurath zethqen. Khez heurath naru mazret ezu qarnet elu genar. Khez wanel mazret 12 qemur. Tuqath zethuar tazir qaral tharqat elu Halzi'a. Nelaz qethunet qernet zamat mer eqar az garun elu nelaznet elu saru.]{.nativefont lang=khel}
+2 [He retained twelve-and-one mentally, nowhere written. Tablets are discoverable; a mental number is not. Twelve numbers weigh little; scribes carry more for a governor's cattle. The complete column appears later, where he delivered it.]{lang=en}
+2 [Walet saru 12 ta qaleth ezu qarnet. Khez zethal saru qu az garun. Dunel genar heurath zethqen. Khez heurath naru mazret ezu qarnet elu genar. Khez wanel mazret 12 qemur. Tuqath zethuar tazir qaral tharqat elu Halzi'a. Nelaz qethunet qernet zamat mer eqar az garun elu nelaznet elu saru.]{lang=khel}
 
-In the third year the water rose to the ninth cubit and three palms and stopped, and the reading went out as fourteen and one. That is the year the tale is kept for in Gar-Qethar. The dole of [[lore-thubaidty|Thuba'i]]'s temple stopped in the first month of [[lore-geletssn|Gelet]], because the temple's granaries were the god-king's, and the people of the low ground ate what the low ground had. Two doors from his mother's house lived [Thakat ez Gar-Qethar]{.name data-type="being/npc" lang=khel}, a reed-cutter's widow with two children, and in the fourth month of Gelet the two children went into a pit on the flood-ground below the quays with eleven others from the street, and nobody entered them in any roll. A death of hunger could not be entered, because the entry would have carried the word, and the word was death to whoever said it. The telling writes the word, because the house that forbade it is closed. The word is _hunger_.
+1 [Ezu qazlun khemu yaler qalu zar ez 9 mazgar ta qaleth khemu. Thalet qu. Yarath ghamuznet 14 ta lazen. Lagath genar qethunet az Gar-Qethar qaral qazlun eqar. Thalet tamzel elu galar elu Thuba'i ezu menqet lazret elu Gelet. Qamarun habtun elu galar ez Gar-Au. Tamul genar elu gharen qezil temat elu gharen qezil. Algun Thakat ez Gar-Qethar az galmun khul nyar galar elu mathun. Wanel sari merlat mathenar elu shebar ta malen khul. Ezu menqet tuzar elu Gelet yarul malen khul nizar ezu qelgar elu gharen nizar limqet ta malen leqar 11 elu hodir. Khez zethal genar naru ezu zelqet temun. Khez lemet zethal wathun elu khanar. Qamar zethat raznet. Qezath raznet razelar. Zethal qethunet raznet qaral galet galar elu khelmathnet. Wanel raznet khanar.]{.nativefont lang=khel}
+2 [Year three stopped at nine cubits and three palms. Fourteen and one was proclaimed. [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] preserves the tale for that year. [[lore-thubaidty|Thuba'i]]'s temple dole ended in [[lore-geletssn|Gelet]]'s first month: its granaries belonged to the god-king. The low ground ate its own resources. Two doors from his mother lived Thakat ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]], reed-cutter's widow, with two children. In [[lore-geletssn|Gelet]]'s fourth month they joined eleven street children in a flood-ground pit below the quays. No roll entered them. Hunger deaths required an entry using the forbidden word, fatal to its speaker. The tale writes it because the forbidding house is closed. Hunger.]{lang=en}
+2 [Ezu qazlun khemu yaler qalu zar ez 9 mazgar ta qaleth khemu. Thalet qu. Yarath ghamuznet 14 ta lazen. Lagath genar qethunet az Gar-Qethar qaral qazlun eqar. Thalet tamzel elu galar elu Thuba'i ezu menqet lazret elu Gelet. Qamarun habtun elu galar ez Gar-Au. Tamul genar elu gharen qezil temat elu gharen qezil. Algun Thakat ez Gar-Qethar az galmun khul nyar galar elu mathun. Wanel sari merlat mathenar elu shebar ta malen khul. Ezu menqet tuzar elu Gelet yarul malen khul nizar ezu qelgar elu gharen nizar limqet ta malen leqar 11 elu hodir. Khez zethal genar naru ezu zelqet temun. Khez lemet zethal wathun elu khanar. Qamar zethat raznet. Qezath raznet razelar. Zethal qethunet raznet qaral galet galar elu khelmathnet. Wanel raznet khanar.]{lang=khel}
 
-The guard fed its hands on the island. Gezerker crossed back to the street at dusk with what he could carry in his sleeve, which in the third year was nothing, because the guard counted its bread, and in the years after was a loaf, because it stopped counting. His street knew where the loaf came from. It ate the loaf.
+1 [Nelaz Meglay temat ez tamelar elu qezunet az galuqet. Yalem Gezerker ez hodir az hesqar. Tuqath saru temat ezu shalmeth. Ezu qazlun khemu wanel qu khezan. Mazath Meglay tamzel. Mer qu wanel qu tamzel lazen. Thalet Meglay mazath. Rethal hodir nyar sher yaler tamzel. Tamul qu qu.]{.nativefont lang=khel}
+2 [Guards fed their island workers. At dusk Gezerker brought his street whatever his sleeve held: nothing in year three, when guards counted bread; a loaf in later years after counting ceased. The street knew its origin and ate.]{lang=en}
+2 [Nelaz Meglay temat ez tamelar elu qezunet az galuqet. Yalem Gezerker ez hodir az hesqar. Tuqath saru temat ezu shalmeth. Ezu qazlun khemu wanel qu khezan. Mazath Meglay tamzel. Mer qu wanel qu tamzel lazen. Thalet Meglay mazath. Rethal hodir nyar sher yaler tamzel. Tamul qu qu.]{lang=khel}
 
-He said the noon denials with the rest of the bureau on every day of those years.
+1 [Razel saru Halzunet ta garzethu ezu tharen temun elu qazlun eqar.]{.nativefont lang=khel}
+2 [Daily, throughout those years, he recited noon denials with the bureau.]{lang=en}
+2 [Razel saru Halzunet ta garzethu ezu tharen temun elu qazlun eqar.]{lang=khel}
 
-The tale gives the middle years the way the list gives a reign. In the sixth year his mother went to the West, and the telling does not enter how. In the eighth year a girl was named in his account, [Githira]{.name data-type="being/npc" lang=khel}, and her mother went to the West in the year of the naming, and the house that kept the girl by day while he was on the island was the house two doors down, Thakat's, which had room. In the ninth, tenth and eleventh years the water rose short and the readings went out full, and the festival was held each year, and each year he stood on the stair with his hand on the stone. Of the twelfth year and the thirteenth the tale says nothing but the numbers, and the numbers are in the column.
+1 [Nelaz qethunet qazlun qarmen qel zethqen elu Gar-Au. Ezu qazlun chun yarul mathun elu saru ez ithnar. Khez zethal qethunet qer elu sher. Ezu qazlun waqen raznan genar malen mathenar Githira ezu halzi elu saru. Yarul mathun elu malen ez ithnar ezu qazlun elu raznannet. Lagath garqen elu Thakat malen ezu tharen, ezu kalun elu saru az galuqet. Wanel galar elu Thakat az galmun khul nyar qu. Qamar galar garun. Ezu qazlun 9, 10, 11 yaler qalu khez qemet. Yarath ghamuznet telnethet. Tamel genar qelmar ezu kalzet temun. Tharel saru ezu zengel ta thalmu az qedlar ezu kalzet temun. Ezu qazlun 12 ta 13 khez razel qethunet temun nyar zamat khez mazret. Wanel mazret ezu qernet.]{.nativefont lang=khel}
+2 [The middle years receive king-list treatment. His mother went west in year six; no manner is given. Year eight named ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[ in his account. Her mother went west that naming year. Thakat's house, two doors away, kept the girl during his island days. It had space. In years nine, ten, eleven, deficient water yielded full proclamations and yearly festivals. Each year he stood touching the stone. Years twelve and thirteen receive only the column's numbers.]{lang=en}
+2 [Nelaz qethunet qazlun qarmen qel zethqen elu Gar-Au. Ezu qazlun chun yarul mathun elu saru ez ithnar. Khez zethal qethunet qer elu sher. Ezu qazlun waqen raznan genar malen mathenar Githira ezu halzi elu saru. Yarul mathun elu malen ez ithnar ezu qazlun elu raznannet. Lagath garqen elu Thakat malen ezu tharen, ezu kalun elu saru az galuqet. Wanel galar elu Thakat az galmun khul nyar qu. Qamar galar garun. Ezu qazlun 9, 10, 11 yaler qalu khez qemet. Yarath ghamuznet telnethet. Tamel genar qelmar ezu kalzet temun. Tharel saru ezu zengel ta thalmu az qedlar ezu kalzet temun. Ezu qazlun 12 ta 13 khez razel qethunet temun nyar zamat khez mazret. Wanel mazret ezu qernet.]{lang=khel}
 
-In the fourteenth year of the struck one the upper river rose. The Halzi'a of [[place-anlaghzetun|Anlagh-Zetun]] raised the basin and the temple levies against the guard that held the great granaries shut, and the gates fell. The god-king was taken within the month and judged in the Great Temple by the Thaz'Lekhau Zinlegir, and what was done to him is entered elsewhere. The tale enters that the men of the guard were taken with him, the sergeant of the stair among them, and that the other hands who had held the island for him, cooks, rowers, clerks and the men who had written out his proclamations, were sought through the city by name, and that Gezerker was on that list, because his name stood at the head of the false column in the temple's day-book, where he had written it himself.
+1 [Ezu qazlun 14 elu genar eqar yaler igelu zar. Qalthaz Halzi'a elu Anlagh-Zetun Meglay elu qelgar ta elu galar elu nelgir ez Meglay elu habtun thazet galet. Qalqath galmun. Lamath genar Gar-Au ezu menqet. Qerath Thaz'Lekhau Zinlegir saru ezu Galar Thazet. Wanel tamelnet elu saru ezu zethu az garun leqar. Zethal qethunet lamnet elu Meglay ta qeznarar elu zengel ta saru. Zethel genar tamelar leqar qazur galnat qer elu rethan. Tematar, qelzarar, zethuar, zethalar elu ghamuznet elu saru. Wanel Gezerker ezu zelqet. Wanel rethan elu saru az qarnet elu qernet khez qenlet ezu zethqen elu tharen elu galar elu nelgir. Zethal saru qu qezunet.]{.nativefont lang=khel}
+2 [Year fourteen brought an upper-river rising. [[place-anlaghzetun|Anlagh-Zetun]]'s governor raised basin and temple levies against the guards of the shut great granaries. Gates fell. Within a month the god-king was captured and judged in the Great Temple by Thaz'Lekhau Zinlegir. His treatment belongs elsewhere. The tale records arrests of his guards, including the stair sergeant, and the citywide hunt by name for other island servants: cooks, rowers, clerks, proclamation writers. Gezerker's own handwriting headed the temple's false column. His name entered the search list.]{lang=en}
+2 [Ezu qazlun 14 elu genar eqar yaler igelu zar. Qalthaz Halzi'a elu Anlagh-Zetun Meglay elu qelgar ta elu galar elu nelgir ez Meglay elu habtun thazet galet. Qalqath galmun. Lamath genar Gar-Au ezu menqet. Qerath Thaz'Lekhau Zinlegir saru ezu Galar Thazet. Wanel tamelnet elu saru ezu zethu az garun leqar. Zethal qethunet lamnet elu Meglay ta qeznarar elu zengel ta saru. Zethel genar tamelar leqar qazur galnat qer elu rethan. Tematar, qelzarar, zethuar, zethalar elu ghamuznet elu saru. Wanel Gezerker ezu zelqet. Wanel rethan elu saru az qarnet elu qernet khez qenlet ezu zethqen elu tharen elu galar elu nelgir. Zethal saru qu qezunet.]{lang=khel}
 
-He went west. He crossed on the dawn ferry with the keeper-priests to [[place-zugezer|Zu-Gezer]], where nobody looks at a man's face, walked out along the death-road between the Ways of the kings, which was the only road west he knew, and kept on past the last tomb and up onto the shelf. He carried nothing: no tablet, no reed, no copy of anything. He went without releasing anyone and without being released, which is how a man leaves who means to be back by the next flood. The water was rising on the stair when he went. It came full behind him, and the priests read it, in their own hand.
+1 [Yarul saru ez ithnar. Qazir saru igelu ezu shebigel elu zarun ta lagathar elu wathet ez Zu-Gezer. Khez zurat genar qenmar elu genar zun. Tarul saru hodir elu wathet qarmath Khalnet elu Gar-Auu. Wanel qu laz hodir elu ithnar elu rethnet elu saru. Yarath saru zagar qalwat telnethet ta zar ez gharen zar. Khez tuqath saru temun. Khez zethqen, khez sheqet, khez zelqet. Khez wazal saru genar. Khez wazal genar saru. Yarath genar qel eqar qamaru qaruth saru yalem mar Azlet khulret. Yaler qalu zar ezu zengel az yarathnet elu saru. Waleth qu telnethet mer saru. Mazel Lem'Nelgir qu ezu thalmu elu qezunet.]{.nativefont lang=khel}
+2 [He fled west on the dawn ferry with keeper-priests to [[place-zugezer|Zu-Gezer]], where faces attract no attention. His only known west road was the death-road between royal Ways. He followed it past the final tomb onto the shelf, empty-handed: no tablet, reed, or copy. Neither giving nor receiving release, he left as a man intending return by next flood. Water rose on the stair behind him to full measure. Priests read it in their own hand.]{lang=en}
+2 [Yarul saru ez ithnar. Qazir saru igelu ezu shebigel elu zarun ta lagathar elu wathet ez Zu-Gezer. Khez zurat genar qenmar elu genar zun. Tarul saru hodir elu wathet qarmath Khalnet elu Gar-Auu. Wanel qu laz hodir elu ithnar elu rethnet elu saru. Yarath saru zagar qalwat telnethet ta zar ez gharen zar. Khez tuqath saru temun. Khez zethqen, khez sheqet, khez zelqet. Khez wazal saru genar. Khez wazal genar saru. Yarath genar qel eqar qamaru qaruth saru yalem mar Azlet khulret. Yaler qalu zar ezu zengel az yarathnet elu saru. Waleth qu telnethet mer saru. Mazel Lem'Nelgir qu ezu thalmu elu qezunet.]{lang=khel}
 
-Past the last canal the fields stop and the grazing begins, and the clans beyond the grazing keep their flocks on terms that a scribe at [[place-zileti|Zileti]] enters for the Halzi'a of [[place-zuqeztunome|Zu-Qeztu]] and the herders do not read. Gezerker went past the terms. At the end of Azlet he came to a well with a stone lip and a clan of some forty tents about it, who kept sheep and a few cattle and fewer horses, and who had a use for a man who could count, because a clan that cannot count its sheep is robbed by its neighbors. He stayed. The tale gives the clan no name and its people no names. They had names, and he said them for forty years, and none of them can be written in either hand, so the telling calls them by what they did, as he came to: the old man of the well, who owned the lip of it; the woman who milked; the boy who counted after him.
+1 [Zagar qalthur telnethet thalet zegaru. Alqar tamgar mer qu. Lagath talgen zagar tamgar qarnel qer elu qelqet. Zethal zethuar az Zileti qelqet ez Halzi'a elu Zu-Qeztu. Khez zethul meglu naru. Yarul Gezerker zagar qelqet. Ezu telnet elu Azlet yalath saru ez qelwun elu lamur qedlar. Qamar talgen qaril shalgar 40 qazur qu. Lagath naru qarnel ta tharqat tazin ta tulqat tazin tazir. Tamral naru genar elu mazret. Qamaru khez mazath talgen qarnel, lamath garqelar qarnel nyar naru. Thalel saru. Khez nelaz qethunet rethan ez talgen lu antmeru elu qu. Qamar naru rethan. Razel saru naru ezu kalzet 40. Khez dunel genar zethal lazen ezu thalmu khul. Razer qethunet naru qer elu tamelnet qel saru. Genar qarnethet elu qelwun, qamretar elu lamur elu qu. Ghunet elu malzathnet. Malen qarenar elu mazret mer saru.]{.nativefont lang=khel}
+2 [Beyond the final canal cultivation gives way to grazing. Farther clans hold flocks under terms a [[place-zileti|Zileti]] scribe enters for [[place-zuqeztunome|Zu-Qeztu]]'s governor and herders never read. Gezerker traveled beyond those terms. At [[lore-azletssn|Azlet]]'s end he reached a stone-lipped well surrounded by about forty tents, sheep, a few cattle, fewer horses. They needed a counter: neighbors rob clans unable to count sheep. He stayed. The tale names neither clan nor people. They possessed names he spoke for forty years, unwritable in either hand. It identifies them by work, as he eventually did: the well's old man, owner of its lip; the milking woman; the boy counting after him.]{lang=en}
+2 [Zagar qalthur telnethet thalet zegaru. Alqar tamgar mer qu. Lagath talgen zagar tamgar qarnel qer elu qelqet. Zethal zethuar az Zileti qelqet ez Halzi'a elu Zu-Qeztu. Khez zethul meglu naru. Yarul Gezerker zagar qelqet. Ezu telnet elu Azlet yalath saru ez qelwun elu lamur qedlar. Qamar talgen qaril shalgar 40 qazur qu. Lagath naru qarnel ta tharqat tazin ta tulqat tazin tazir. Tamral naru genar elu mazret. Qamaru khez mazath talgen qarnel, lamath garqelar qarnel nyar naru. Thalel saru. Khez nelaz qethunet rethan ez talgen lu antmeru elu qu. Qamar naru rethan. Razel saru naru ezu kalzet 40. Khez dunel genar zethal lazen ezu thalmu khul. Razer qethunet naru qer elu tamelnet qel saru. Genar qarnethet elu qelwun, qamretar elu lamur elu qu. Ghunet elu malzathnet. Malen qarenar elu mazret mer saru.]{lang=khel}
 
-There was no temple at the well and no scribe within six days of it, and nothing was entered, because there was nothing to enter it on and nobody to witness it. A man of the clan who undertook a thing undertook it to another man's face, and when he died it died with him, or his sons kept it, or they did not, and nobody read anything over him. Gezerker kept the days on a stick, a notch a day and a deeper notch at the thirtieth, and five notches cut apart at the end of the year, and when a stick was full he began another, and by the stick he knew on what day the water would be standing on the stair. In the months of Azlet he sat at the well in the evening and said the twelve numbers aloud, the water and the proclamation, year by year, so as not to lose them. The children of the clan learned them as they learned the count of sheep.
+1 [Khez alqar galar elu nelgir az qelwun. Khez alqar zethuar ezu tharen chun elu tarulnet. Khez zethal genar temun. Khez alqar temun ez zethal az qu, ta khez zurenar. Qelath genar elu talgen temun ez qenmar elu genar leqar. Wathal saru. Wathal qelqet ta saru, lu qelaz malen qarenar qu, lu khez qelaz naru qu. Khez zethul genar temun zamar saru. Lagath Gezerker tharen qer elu lagun. Qelzat saru qezmin lazen ez tharen lazen. Qelzat saru qezmin khumar tazir az 30. Qelzat saru chalen khezan qemel az telnet elu kalzet. Qamar lagun mazret telnethet. Lamath saru leqar. Rethal saru tharen elu tharelnet elu qalu ezu zengel qer elu lagun. Ezu menqet elu Azlet galel saru az qelwun ezu hesqar. Razel saru mazret 12 khazul. Qalu ta ghamuznet, qazlun nyar qazlun, ez qarun elu khez rethuth. Rethun malen elu talgen naru qel mazret elu qarnel.]{.nativefont lang=khel}
+2 [No temple stood there, no scribe within six days. Nothing was entered: no writing surface, no witness. Promises passed face to face. At a man's death they died, or sons honored them, or did not. Nobody read over him. Gezerker notched days on sticks, a deeper thirtieth notch, five separated year-end notches. Full sticks gave way to new sticks, preserving his knowledge of the stair's day. In [[lore-azletssn|Azlet]] evenings beside the well he recited twelve years' water and proclamations aloud. Children learned these as sheep counts.]{lang=en}
+2 [Khez alqar galar elu nelgir az qelwun. Khez alqar zethuar ezu tharen chun elu tarulnet. Khez zethal genar temun. Khez alqar temun ez zethal az qu, ta khez zurenar. Qelath genar elu talgen temun ez qenmar elu genar leqar. Wathal saru. Wathal qelqet ta saru, lu qelaz malen qarenar qu, lu khez qelaz naru qu. Khez zethul genar temun zamar saru. Lagath Gezerker tharen qer elu lagun. Qelzat saru qezmin lazen ez tharen lazen. Qelzat saru qezmin khumar tazir az 30. Qelzat saru chalen khezan qemel az telnet elu kalzet. Qamar lagun mazret telnethet. Lamath saru leqar. Rethal saru tharen elu tharelnet elu qalu ezu zengel qer elu lagun. Ezu menqet elu Azlet galel saru az qelwun ezu hesqar. Razel saru mazret 12 khazul. Qalu ta ghamuznet, qazlun nyar qazlun, ez qarun elu khez rethuth. Rethun malen elu talgen naru qel mazret elu qarnel.]{lang=khel}
 
-And in the month of the crest, each year, he raised the lament. He had no house there to raise it and was not dead, and he raised it over himself. This is it, as the schools have it.
+1 [Ezu menqet elu qalgaz az kalzet temun tazul saru. Khez qamar saru garqen zun ez tazul. Khez wanel saru wathet. Tazul saru qezunet. Wanel eqar qu qel rethgal.]{.nativefont lang=khel}
+2 [Every crest month he raised a lament. Without household or death, he lamented himself. The schools preserve it.]{lang=en}
+2 [Ezu menqet elu qalgaz az kalzet temun tazul saru. Khez qamar saru garqen zun ez tazul. Khez wanel saru wathet. Tazul saru qezunet. Wanel eqar qu qel rethgal.]{lang=khel}
+
+```
 
 : The Lament at the Well {#lament}
 
-```verse {form=tazlet lang=en}
-Raise it. There is nobody here to raise it, so I raise it.
-I raise it over myself, as the poor do when the club has failed and the house is empty.
-At the island the water is standing on the stair. I know the day; the day is on the stick.
-A priest is on the stair with his hand on the stone, and the number is the number.
-Here is the well. The well does not go, and it does not come again.
-    Who will read me?
+```verse {form=tazlet numstep=5 cols=2}
+1 [Qalthaz telu qu. Khez alqar genar zun ez qalthaz. Qalthaz nazu.]{.nativefont lang=khel}
+2 [Raise it. Nobody here will raise it, so I shall.]{lang=en}
+2 [Qalthaz telu qu. Khez alqar genar zun ez qalthaz. Qalthaz nazu.]{lang=khel}
 
-There is no scribe west of the last canal.
-There is no reed here, and no palette, and no tablet.
-I write Qalezu with a finger in the dust for the boy who counts after me,
-and the wind takes the dust, and the wind enters nothing.
-    Who will read me?
+1 [Qalthaz nazu qu ez qezunet qel genar khez qamret. Khez lagel zelarun. Khez alqar genar ezu galar.]{.nativefont lang=khel}
+2 [I lament myself like poor people whose club failed and house stands empty.]{lang=en}
+2 [Qalthaz nazu qu ez qezunet qel genar khez qamret. Khez lagel zelarun. Khez alqar genar ezu galar.]{lang=khel}
 
-When I go down here they will put me in the ground before noon with my face toward nothing,
-and the old man of the well will say Gezerker over me in his way,
-with no year before it and no street after it, and nobody to write it,
-and that is the whole of my Reading, and then the sheep.
-He says the sun-lord's name flat, without its pause, as he names a dog.
-Nothing is closed here. Nothing is open here. There is no account.
-    Who will read me?
+1 [Az galuqet tharel qalu ezu zengel. Rethal nazu tharen. Wanel tharen az lagun.]{.nativefont lang=khel}
+2 [Island water stands on the stair. My stick preserves its day.]{lang=en}
+2 [Az galuqet tharel qalu ezu zengel. Rethal nazu tharen. Wanel tharen az lagun.]{lang=khel}
 
-I had a street on the low ground, two doors from the quays.
-I had a girl named in my account, and the entry of her naming is open,
-for I was not there at her year to be released,
-and it lies open in a cabinet of the temple with Gezerker ez Gar-Qethar on it,
-and nobody has read it, and nobody has asked for it, and it is open.
-    Who will read me?
+1 [Tharel Lem'Nelgir ezu zengel ta thalmu az qedlar. Wanel mazret mazret.]{.nativefont lang=khel}
+2 [A priest touches stone. His number is the number.]{lang=en}
+2 [Tharel Lem'Nelgir ezu zengel ta thalmu az qedlar. Wanel mazret mazret.]{lang=khel}
 
-In the West the dead work. In the West a man digs with his zaglu beside him, and is owed.
-Here the living watch sheep, and nobody owes me,
-and I owe twelve numbers to a city that struck the name of the one I wrote them for
-and has mine on a list.
-Twelve numbers are not heavy. I carried more for a man's cattle.
-I carry them. I say them at the well. The children say them after me and get the palms wrong.
-    Who will read me?
+1 [Wanel qelwun zun. Khez yarul qu. Khez yalem qu yalret.]{.nativefont lang=khel}
+2 [Here the well neither departs nor returns.]{lang=en}
+2 [Wanel qelwun zun. Khez yarul qu. Khez yalem qu yalret.]{lang=khel}
 
-The water is standing on the stair. Let it stand at the painted cubit.
-Let a priest read it who is let.
-Let him write it in the hand I cannot read, and let it be the number.
+***
+1 [..Zethul shel nazu·]{.nativefont lang=khel}
+2 [..Who will read my account?]{lang=en}
+2 [..Zethul shel nazu·]{lang=khel}
+
+1 [Khez alqar zethuar ithnar elu qalthur telnethet.]{.nativefont lang=khel}
+2 [Beyond the final canal no scribe exists.]{lang=en}
+2 [Khez alqar zethuar ithnar elu qalthur telnethet.]{lang=khel}
+
+1 [Khez alqar sheqet zun, khez zethqal, khez zethqen.]{.nativefont lang=khel}
+2 [No reed, palette, tablet exists here.]{lang=en}
+2 [Khez alqar sheqet zun, khez zethqal, khez zethqen.]{lang=khel}
+
+1 [Zethal nazu Qalezu qer elu thalmin ezu konet ez malen qarenar elu mazret mer nazu.]{.nativefont lang=khel}
+2 [My finger teaches [[skill-qalzscrscrpt|Qalezu]] in dust to the boy counting after me.]{lang=en}
+2 [Zethal nazu Qalezu qer elu thalmin ezu konet ez malen qarenar elu mazret mer nazu.]{lang=khel}
+
+1 [Lamath anqar konet. Khez zethal anqar temun.]{.nativefont lang=khel}
+2 [Wind takes the dust and enters nothing.]{lang=en}
+2 [Lamath anqar konet. Khez zethal anqar temun.]{lang=khel}
+
+***
+1 [..Zethul shel nazu·]{.nativefont lang=khel}
+2 [..Who will read my account?]{lang=en}
+2 [..Zethul shel nazu·]{lang=khel}
+
+1 [Qamaru yarul nazu nizar zun, qalath naru nazu ezu gharen mar qeznar lazret. Wanel qenmar ez khezan.]{.nativefont lang=khel}
+2 [My descent here brings burial before noon, face toward nothing.]{lang=en}
+2 [Qamaru yarul nazu nizar zun, qalath naru nazu ezu gharen mar qeznar lazret. Wanel qenmar ez khezan.]{lang=khel}
+
+1 [Razel genar qarnethet elu qelwun Gezerker zamar nazu qer elu saru,]{.nativefont lang=khel}
+2 [The well's old man will speak Gezerker his way,]{lang=en}
+2 [Razel genar qarnethet elu qelwun Gezerker zamar nazu qer elu saru,]{lang=khel}
+
+1 [khez qazlun mar qu, khez hodir mer qu, khez zethalar.]{.nativefont lang=khel}
+2 [without preceding year or following street, without a writer.]{lang=en}
+2 [khez qazlun mar qu, khez hodir mer qu, khez zethalar.]{lang=khel}
+
+1 [Wanel eqar Zethulnet zamat elu nazu. Tharun qarnel.]{.nativefont lang=khel}
+2 [My whole Reading, then back to sheep.]{lang=en}
+2 [Wanel eqar Zethulnet zamat elu nazu. Tharun qarnel.]{lang=khel}
+
+1 [Razel saru rethan elu Uqa'a qemlun khez qezat, qel rethan elu khanur.]{.nativefont lang=khel}
+2 [He flattens the sun-lord's name, omitting its catch as for a dog.]{lang=en}
+2 [Razel saru rethan elu Uqa'a qemlun khez qezat, qel rethan elu khanur.]{lang=khel}
+
+1 [Khez galet temun zun. Khez galut temun zun. Khez alqar halzi.]{.nativefont lang=khel}
+2 [Nothing closes or opens here. No account exists.]{lang=en}
+2 [Khez galet temun zun. Khez galut temun zun. Khez alqar halzi.]{lang=khel}
+
+***
+1 [..Zethul shel nazu·]{.nativefont lang=khel}
+2 [..Who will read my account?]{lang=en}
+2 [..Zethul shel nazu·]{lang=khel}
+
+1 [Qamar nazu hodir az gharen qezil. Galmun khul nyar limqet.]{.nativefont lang=khel}
+2 [I owned a low-ground street, two doors from quays.]{lang=en}
+2 [Qamar nazu hodir az gharen qezil. Galmun khul nyar limqet.]{lang=khel}
+
+1 [Qamar nazu malen mathenar ezu halzi. Galut zethat elu raznannet elu sari.]{.nativefont lang=khel}
+2 [My account named a daughter. Her naming remains open.]{lang=en}
+2 [Qamar nazu malen mathenar ezu halzi. Galut zethat elu raznannet elu sari.]{lang=khel}
+
+1 [Khez alqar nazu az qazlun elu sari ez wazlat.]{.nativefont lang=khel}
+2 [I missed her releasing year.]{lang=en}
+2 [Khez alqar nazu az qazlun elu sari ez wazlat.]{lang=khel}
+
+1 [Kelath qu galut ezu galqet elu galar elu nelgir. Gezerker ez Gar-Qethar az qu.]{.nativefont lang=khel}
+2 [A temple cabinet holds that open entry beneath Gezerker ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]].]{lang=en}
+2 [Kelath qu galut ezu galqet elu galar elu nelgir. Gezerker ez Gar-Qethar az qu.]{lang=khel}
+
+1 [Khez zethul genar qu. Khez razal genar qu. Galut.]{.nativefont lang=khel}
+2 [Unread, unrequested, open.]{lang=en}
+2 [Khez zethul genar qu. Khez razal genar qu. Galut.]{lang=khel}
+
+***
+1 [..Zethul shel nazu·]{.nativefont lang=khel}
+2 [..Who will read my account?]{lang=en}
+2 [..Zethul shel nazu·]{lang=khel}
+
+1 [Tamel wathet ezu ithnar. Qelgar genar gharen ta zaglu elu saru. Wanel saru zeqatar.]{.nativefont lang=khel}
+2 [Westward dead men labor beside zaglu and receive credit.]{lang=en}
+2 [Tamel wathet ezu ithnar. Qelgar genar gharen ta zaglu elu saru. Wanel saru zeqatar.]{lang=khel}
+
+1 [Lagath genar alget qarnel zun. Khez zeqel genar nazu.]{.nativefont lang=khel}
+2 [Here living men watch sheep, and nobody owes me.]{lang=en}
+2 [Lagath genar alget qarnel zun. Khez zeqel genar nazu.]{lang=khel}
+
+1 [Zeqel nazu mazret 12 ez galnat. Lamath galnat rethan elu genar nyar zethu. Zethal nazu mazret ez saru.]{.nativefont lang=khel}
+2 [I owe twelve numbers to a city that struck my employer's name]{lang=en}
+2 [Zeqel nazu mazret 12 ez galnat. Lamath galnat rethan elu genar nyar zethu. Zethal nazu mazret ez saru.]{lang=khel}
+
+1 [Wanel rethan elu nazu ezu zelqet elu galnat.]{.nativefont lang=khel}
+2 [and put mine on a list.]{lang=en}
+2 [Wanel rethan elu nazu ezu zelqet elu galnat.]{lang=khel}
+
+1 [Khez wanel mazret 12 qemur. Tuqath nazu tazir qaral tharqat elu genar.]{.nativefont lang=khel}
+2 [Twelve numbers weigh little. I carried more for cattle.]{lang=en}
+2 [Khez wanel mazret 12 qemur. Tuqath nazu tazir qaral tharqat elu genar.]{lang=khel}
+
+1 [Tuqath nazu naru. Razel nazu naru az qelwun. Razel malen naru mer nazu. Khez wanel qaleth elu naru qenlet.]{.nativefont lang=khel}
+2 [I carry and recite them. Children repeat them and mistake the palms.]{lang=en}
+2 [Tuqath nazu naru. Razel nazu naru az qelwun. Razel malen naru mer nazu. Khez wanel qaleth elu naru qenlet.]{lang=khel}
+
+***
+1 [..Zethul shel nazu·]{.nativefont lang=khel}
+2 [..Who will read my account?]{lang=en}
+2 [..Zethul shel nazu·]{lang=khel}
+
+1 [Tharel qalu ezu zengel. Wanel qu az mazgar zheqet.]{.nativefont lang=khel}
+2 [Water stands on the stair. Let it reach the painted cubit.]{lang=en}
+2 [Tharel qalu ezu zengel. Wanel qu az mazgar zheqet.]{lang=khel}
+
+1 [Zethul Lem'Nelgir qu. Lemath genar saru.]{.nativefont lang=khel}
+2 [Let an authorized priest read it.]{lang=en}
+2 [Zethul Lem'Nelgir qu. Lemath genar saru.]{lang=khel}
+
+***
+1 [Zethal saru qu ezu thalmu khez zethul nazu. Wanel qu mazret·]{.nativefont lang=khel}
+2 [Let his unreadable hand enter the actual number.]{lang=en}
+2 [Zethal saru qu ezu thalmu khez zethul nazu. Wanel qu mazret·]{lang=khel}
+
+***
+1 [Ezu kalzet 40 yarul genar qarnethet elu qelwun ezu gharen mar qeznar lazret. Wanel talgen qarmel qarnel ezu tarmil khulret elu tharen. Yarul Gezerker ez qetgar ezu tharen qemel. Qamar saru lagun, khezan leqar. Wanel kalzet elu saru 77. Tarul saru ez qalthur telnethet ta qarmel qu ez Zileti. Yarul saru nyar Zileti ta laqethar elu tulqat ez igelu. Yarul saru nizar ezu qaltaru elu mazgar ez Galezkara. Galun saru galnat ezu menqet khulret elu Gelet, qazlun 18 elu Gar-Au Gez'el'Qar ezu garel elu lazen. Tarul mazelar zegaru. Wanel qernet az zethgal elu Galar elu Zethu thalen tazir shar kalun leqar. Khez yarul saru ez hodir. Yarul saru ez Gar-Medjatozo, ez zethgal tuzar. Tharel saru ezu qernet.]{.nativefont lang=khel}
+2 [In year forty the well's old man was buried before noon. Afternoon returned his clan to sheep. That same day Gezerker, seventy-seven, went east with only his stick. He walked the final canal to [[place-zileti|Zileti]], joined horse drovers to the river, then took a grain barge downstream to [[place-galezkara|Galezkara]]. Arrival came in [[lore-geletssn|Gelet]]'s second month, year eighteen of Gez'el'Qar I, survey season and the Records House's busiest counters. Instead of his street, he entered [[place-garmedjatozo|Gar-Medjatozo]]'s fourth-counter queue.]{lang=en}
+2 [Ezu kalzet 40 yarul genar qarnethet elu qelwun ezu gharen mar qeznar lazret. Wanel talgen qarmel qarnel ezu tarmil khulret elu tharen. Yarul Gezerker ez qetgar ezu tharen qemel. Qamar saru lagun, khezan leqar. Wanel kalzet elu saru 77. Tarul saru ez qalthur telnethet ta qarmel qu ez Zileti. Yarul saru nyar Zileti ta laqethar elu tulqat ez igelu. Yarul saru nizar ezu qaltaru elu mazgar ez Galezkara. Galun saru galnat ezu menqet khulret elu Gelet, qazlun 18 elu Gar-Au Gez'el'Qar ezu garel elu lazen. Tarul mazelar zegaru. Wanel qernet az zethgal elu Galar elu Zethu thalen tazir shar kalun leqar. Khez yarul saru ez hodir. Yarul saru ez Gar-Medjatozo, ez zethgal tuzar. Tharel saru ezu qernet.]{lang=khel}
+
+1 [Wanel qernet elu zethgal tuzar ezu Gelet zarun lazen. Tharel saru ezu qu. Wanel zethuar az qu Gulur ez Galezkara. Qamar saru garel elu Gezerker. Khez rethul saru qu. Khez dunel genar zun rethul qu. Razal Gezerker qarnet elu zethqen elu zeqar elu Selat elu Gal-Au nyar qazlun khulret ez 13 elu genar elu rethan qelgaret.]{.nativefont lang=khel}
+2 [He stood its morning-long wait. Gulur ez [[place-galezkara|Galezkara]] occupied his old place and could not recognize him; nobody could. Gezerker requested heads of [[affiliation-capitalselat|Capital Selat]] tax rolls for the struck reign's years two through thirteen.]{lang=en}
+2 [Wanel qernet elu zethgal tuzar ezu Gelet zarun lazen. Tharel saru ezu qu. Wanel zethuar az qu Gulur ez Galezkara. Qamar saru garel elu Gezerker. Khez rethul saru qu. Khez dunel genar zun rethul qu. Razal Gezerker qarnet elu zethqen elu zeqar elu Selat elu Gal-Au nyar qazlun khulret ez 13 elu genar elu rethan qelgaret.]{lang=khel}
+
+1 [Razel Gulur. Tuqel telu zelqet ez nazu. Agu zuren nazu qe alqar lazret zun.]{.nativefont lang=khel}
+2 [Bring your requested copy, Gulur said, and I will seek the original.]{lang=en}
+2 [Razel Gulur. Tuqel telu zelqet ez nazu. Agu zuren nazu qe alqar lazret zun.]{lang=khel}
+
+***
+1 [Razel Gezerker. Khez qamar nazu zelqet. Zethal nazu naru.]{.nativefont lang=khel}
+2 [I have no copy. I wrote them.]{lang=en}
+2 [Razel Gezerker. Khez qamar nazu zelqet. Zethal nazu naru.]{lang=khel}
+
+***
+1 [Nelaz Gulur malen qarenar. Thalel malen qer elu kalun elu qernet nazar genar qarnethet. Yalem saru ta zelqet 12 az balqet. Qamar naru zelmin ezu Qalezu. Zethul Gulur qarnet elu lazret khazul qel zethgal ez qarun elu khashath elu razalar. Wanel eqar temun elu garzethu. Qazlun khulret elu ]{.nativefont lang=khel}[…. Mazelnet, ghamuznet az mazgar 14 ta qaleth khul. Razel zelmin elu zelqet, ezu thalmu mer qu, qelgaret.]
+2 [A boy departed for the length of the queue behind him and returned wheeling twelve [[skill-qalzscrscrpt|Qalezu]]-tagged rolls. Counter practice reads aloud for petitioners, so Gulur read the first head: Year two of […]. Measure proclaimed at fourteen cubits, two palms. Its later-hand tag reads Struck.]{lang=en}
+2 [Nelaz Gulur malen qarenar. Thalel malen qer elu kalun elu qernet nazar genar qarnethet. Yalem saru ta zelqet 12 az balqet. Qamar naru zelmin ezu Qalezu. Zethul Gulur qarnet elu lazret khazul qel zethgal ez qarun elu khashath elu razalar. Wanel eqar temun elu garzethu. Qazlun khulret elu ]{lang=khel}[…. Mazelnet, ghamuznet az mazgar 14 ta qaleth khul. Razel zelmin elu zelqet, ezu thalmu mer qu, qelgaret.]
+
+1 [Razel Gezerker. Tharel qalu az mazgar 12 ta qaleth lazen. Mazel nazu zengel. Zethal telu qu.]{.nativefont lang=khel}
+2 [Water stood at twelve and one, said Gezerker. I read the stair. Record it.]{lang=en}
+2 [Razel Gezerker. Tharel qalu az mazgar 12 ta qaleth lazen. Mazel nazu zengel. Zethal telu qu.]{lang=khel}
+
+1 [Razel Gulur. Khez zethal zethgal Mazelnet. Wanel Mazelnet elu galar elu nelgir.]{.nativefont lang=khel}
+2 [This counter cannot enter the Measure. It belongs to the temple.]{lang=en}
+2 [Razel Gulur. Khez zethal zethgal Mazelnet. Wanel Mazelnet elu galar elu nelgir.]{lang=khel}
+
+***
+1 [Razel Gezerker. Nelaz telu raznet ez galar elu nelgir tharun.]{.nativefont lang=khel}
+2 [Send there, then.]{lang=en}
+2 [Razel Gezerker. Nelaz telu raznet ez galar elu nelgir tharun.]{lang=khel}
+
+***
+1 [Wanel qernet nazar saru zarun lazen. Nelaz Gulur raznet ez galar elu nelgir. Tharel qernet. Tharel balqet. Tharel genar qarnethet ta thalmu az zelqet lazret. Qazir Wazu galthel. Yarul saru zar ezu galzamar elu Galar Thazet ez galnet elu Reth'Sa'ar. Lagath naru zethqen elu tharen elu Mazelnet zun. Yalem saru ta Lem'Nelgir elu Uqa'a, Maqi Reth'el'Qetu. Lagath galar elu saru zengel mar qazlun qelgaret ta kalzu. Tuqath Maqi zethqen elu tharen elu qazlun qelgaret nuqar thulun. Khez tamral saru rethathnet elu qazlun shal. Wanel qernet ezu thalmu khez qenlet.]{.nativefont lang=khel}
+2 [A morning-long queue waited behind him. Gulur sent. Queue, barrow, old man with hand on first roll all waited. A Wazu crossed the bridge through Great Temple courts to [[lore-rethsaardty|Reth'Sa'ar]]'s precinct and the Measure's day-book. He returned with ]{lang=en}[Maqi Reth'el'Qetu]{lang=en. .name data-type="being/npc" lang=khel}[, [[lore-uqaadty|Uqa'a]]'s priest and current keeper, whose house guarded the stair before the struck years and guards it now. The old day-book lay beneath his arm. He needed no years specified. Their column uses the wrong hand.]{lang=en}
+2 [Wanel qernet nazar saru zarun lazen. Nelaz Gulur raznet ez galar elu nelgir. Tharel qernet. Tharel balqet. Tharel genar qarnethet ta thalmu az zelqet lazret. Qazir Wazu galthel. Yarul saru zar ezu galzamar elu Galar Thazet ez galnet elu Reth'Sa'ar. Lagath naru zethqen elu tharen elu Mazelnet zun. Yalem saru ta Lem'Nelgir elu Uqa'a, Maqi Reth'el'Qetu. Lagath galar elu saru zengel mar qazlun qelgaret ta kalzu. Tuqath Maqi zethqen elu tharen elu qazlun qelgaret nuqar thulun. Khez tamral saru rethathnet elu qazlun shal. Wanel qernet ezu thalmu khez qenlet.]{lang=khel}
+
+***
+1 [Qalath saru zethqen elu tharen az zethgal qarmel balqet. Razal saru rethan elu genar qarnethet. Nelaz saru qu. Heurath Maqi qu az garel elu zethalnet elu saru, az qarnet elu qernet khez qenlet. Razel Maqi tharun. Zethul telu qu.]{.nativefont lang=khel}
+2 [Beside the barrow Maqi set the book, requested the name, and found Gezerker's self-entered signature above the false column. Read, he said.]{lang=en}
+2 [Qalath saru zethqen elu tharen az zethgal qarmel balqet. Razal saru rethan elu genar qarnethet. Nelaz saru qu. Heurath Maqi qu az garel elu zethalnet elu saru, az qarnet elu qernet khez qenlet. Razel Maqi tharun. Zethul telu qu.]{lang=khel}
+
+***
+1 [Zethul genar qarnethet qu nyar qarnet. Tharel saru. Khashath qernet. Zethal Gulur qu ezu Qalezu az zethqen nevar ezu kalun elu raznet. Zethal Maqi qu ezu Khelathi-zethu qarmel qernet thelin. Tharel mazelnet qenlet elu qazlun qelgaret ezu thalmu khul. Tharel khez qenlet ezu lazen. Thalet genar qarnethet az qazlun 14. Zethul Maqi mazret nyar zethqen elu tharen. Zethal saru qu nuqar raznet elu saru ezu thalmu elu zengel. Wanel eqar qernet elu zethqen elu tharen ta elu zelqet elu rethgal.]{.nativefont lang=khel}
+2 [Standing before the listening queue, Gezerker read from memory. Gulur entered [[skill-qalzscrscrpt|Qalezu]] on a new tablet. Maqi entered sacred writing beside the false column: true readings in both hands, false in one. At year fourteen Gezerker stopped. Maqi supplied the day-book number beneath his line in the stair's hand. Here is the column preserved by book and schools.]{lang=en}
+2 [Zethul genar qarnethet qu nyar qarnet. Tharel saru. Khashath qernet. Zethal Gulur qu ezu Qalezu az zethqen nevar ezu kalun elu raznet. Zethal Maqi qu ezu Khelathi-zethu qarmel qernet thelin. Tharel mazelnet qenlet elu qazlun qelgaret ezu thalmu khul. Tharel khez qenlet ezu lazen. Thalet genar qarnethet az qazlun 14. Zethul Maqi mazret nyar zethqen elu tharen. Zethal saru qu nuqar raznet elu saru ezu thalmu elu zengel. Wanel eqar qernet elu zethqen elu tharen ta elu zelqet elu rethgal.]{lang=khel}
+
 ```
-
-In the fortieth year the old man of the well went into the ground before noon, and the clan was at the sheep by the afternoon, and Gezerker went east the same day with the stick and nothing else. He was seventy-seven. He walked to the last canal and along it to Zileti, and from Zileti he came down with the horse-drovers to the river, and down the river on a grain barge to Galezkara, and he came into the city in the second month of Gelet, in the eighteenth year of Gar-Au Gez'el'Qar I, when the surveyors are out on the fields and the counters of the House of Records are at their fullest. He did not go to the street. He went to [[place-garmedjatozo|Gar-Medjatozo]], to the fourth counter, and stood in the queue.
-
-The queue at the fourth counter in Gelet is a morning long. He stood it. The clerk at the counter was [Gulur ez Galezkara]{.name data-type="being/npc" lang=khel}, who had the place Gezerker had held, and who did not know him, since nobody there could have. Gezerker asked him for the heads of the tax rolls of the Capital Selat for the second to the thirteenth years of the struck one.
-
-"Bring a copy of what you are asking for," Gulur said, "and I will see whether the original is here."
-
-"I have no copy. I wrote them."
-
-Gulur sent a boy. The boy was gone the length of the queue behind the old man and came back with the rolls on a barrow, twelve of them, tagged in Qalezu, and Gulur read the head of the first aloud, as the counter does, so that the petitioner hears what the bureau holds: "Year two of […]. The Measure, proclaimed at fourteen cubits and two palms." The tag on the roll, in a later hand, says _struck_.
-
-"The water stood at twelve cubits and one palm," Gezerker said. "I read the stair. Write it."
-
-"The counter does not write the Measure. The Measure is the temple's."
-
-"Then send to the temple."
-
-The queue behind him was a morning long. Gulur sent to the temple. The queue stood, the barrow stood, the old man stood with his hand on the first roll, and across the bridge a Wazu went up through the courts of the Great Temple to the precinct of [[lore-rethsaardty|Reth'Sa'ar]], where the day-book of the Measure is kept, and came back with the priest who kept it, [Maqi Reth'el'Qetu]{.name data-type="being/npc" lang=khel}, a Lem'Nelgir of Uqa'a, of the house that had kept the stair before the struck years and keeps it now. Maqi carried the day-book of the struck years under his arm. He had not needed to be told which years. The column is in the wrong hand.
-
-He set the day-book on the counter beside the barrow and asked the old man for his name, and the old man gave it, and Maqi found it where he had written it, at the head of the false column. Then he said, "Read it."
-
-The old man read it to him from his head, standing, with the queue listening. Gulur wrote it in Qalezu on a fresh tablet as he said it, and Maqi wrote it in the sacred hand beside the old column, so that the true readings of the Measure for the struck years stand in both hands and the false ones in one. At the fourteenth year the old man stopped, and Maqi read the number out of the day-book and wrote it under his line, in the hand of the stair. This is the column, as the day-book holds it and the schools copy it.
 
 : The Column of the Struck Years {#column}
 
-```verse {form=litany lang=en}
-I had my hand on the stone. This is where the water stood.
+```verse {form=litany numstep=5 cols=2}
+1 [Walet nazu thalmu az qedlar. Tharel qalu az garel eqar.]{.nativefont lang=khel}
+2 [My hand touched the stone. Here is the water's height.]{lang=en}
+2 [Walet nazu thalmu az qedlar. Tharel qalu az garel eqar.]{lang=khel}
 
-Year two of […]. The water stood at twelve cubits and one palm.
-    Proclaimed: fourteen cubits and two palms.
-Year three. The water stood at nine cubits and three palms.
-    Proclaimed: fourteen cubits and one palm.
-Year four. The water stood at eleven cubits and two palms.
-    Proclaimed: fourteen cubits and three palms.
-Year five. The water stood at twelve cubits.
-    Proclaimed: fourteen cubits and two palms.
-Year six. The water stood at ten cubits and one palm.
-    Proclaimed: fifteen cubits.
-Year seven. The water stood at eleven cubits and three palms.
-    Proclaimed: fourteen cubits.
-Year eight. The water stood at twelve cubits and two palms.
-    Proclaimed: fourteen cubits and two palms.
-Year nine. The water stood at eleven cubits.
-    Proclaimed: fourteen cubits and one palm.
-Year ten. The water stood at ten cubits and two palms.
-    Proclaimed: fifteen cubits and one palm.
-Year eleven. The water stood at eleven cubits and one palm.
-    Proclaimed: fourteen cubits and two palms.
-Year twelve. The water stood at twelve cubits and three palms.
-    Proclaimed: fourteen cubits.
-Year thirteen. The water stood at eleven cubits and two palms.
-    Proclaimed: fourteen cubits and three palms.
-Year fourteen. I did not read it.
-    In the hand of the stair: the water stood at fourteen cubits and three palms.
+1 [Qazlun 2 elu ]{.nativefont lang=khel}[…. Tharel qalu az mazgar elu thulun 12 ta qaleth 1.]
+2 [Year 2 of […]. Water reached 12 cubits and 1 palm.]{lang=en}
+2 [Qazlun 2 elu ]{lang=khel}[…. Tharel qalu az mazgar elu thulun 12 ta qaleth 1.]
 
-That is the column. Write Gezerker at the head of it.
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 2 palms.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{lang=khel}
+
+1 [Qazlun 3. Tharel qalu az mazgar elu thulun 9 ta qaleth 3.]{.nativefont lang=khel}
+2 [Year 3. Water reached 9 cubits and 3 palms.]{lang=en}
+2 [Qazlun 3. Tharel qalu az mazgar elu thulun 9 ta qaleth 3.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 1·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 1 palm.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 1·]{lang=khel}
+
+1 [Qazlun 4. Tharel qalu az mazgar elu thulun 11 ta qaleth 2.]{.nativefont lang=khel}
+2 [Year 4. Water reached 11 cubits and 2 palms.]{lang=en}
+2 [Qazlun 4. Tharel qalu az mazgar elu thulun 11 ta qaleth 2.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 3·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 3 palms.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 3·]{lang=khel}
+
+1 [Qazlun 5. Tharel qalu az mazgar elu thulun 12.]{.nativefont lang=khel}
+2 [Year 5. Water reached 12 cubits.]{lang=en}
+2 [Qazlun 5. Tharel qalu az mazgar elu thulun 12.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 2 palms.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{lang=khel}
+
+1 [Qazlun 6. Tharel qalu az mazgar elu thulun 10 ta qaleth 1.]{.nativefont lang=khel}
+2 [Year 6. Water reached 10 cubits and 1 palm.]{lang=en}
+2 [Qazlun 6. Tharel qalu az mazgar elu thulun 10 ta qaleth 1.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 15·]{.nativefont lang=khel}
+2 [..Proclaimed, 15 cubits.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 15·]{lang=khel}
+
+1 [Qazlun 7. Tharel qalu az mazgar elu thulun 11 ta qaleth 3.]{.nativefont lang=khel}
+2 [Year 7. Water reached 11 cubits and 3 palms.]{lang=en}
+2 [Qazlun 7. Tharel qalu az mazgar elu thulun 11 ta qaleth 3.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14·]{lang=khel}
+
+1 [Qazlun 8. Tharel qalu az mazgar elu thulun 12 ta qaleth 2.]{.nativefont lang=khel}
+2 [Year 8. Water reached 12 cubits and 2 palms.]{lang=en}
+2 [Qazlun 8. Tharel qalu az mazgar elu thulun 12 ta qaleth 2.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 2 palms.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{lang=khel}
+
+1 [Qazlun 9. Tharel qalu az mazgar elu thulun 11.]{.nativefont lang=khel}
+2 [Year 9. Water reached 11 cubits.]{lang=en}
+2 [Qazlun 9. Tharel qalu az mazgar elu thulun 11.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 1·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 1 palm.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 1·]{lang=khel}
+
+1 [Qazlun 10. Tharel qalu az mazgar elu thulun 10 ta qaleth 2.]{.nativefont lang=khel}
+2 [Year 10. Water reached 10 cubits and 2 palms.]{lang=en}
+2 [Qazlun 10. Tharel qalu az mazgar elu thulun 10 ta qaleth 2.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 15 ta qaleth 1·]{.nativefont lang=khel}
+2 [..Proclaimed, 15 cubits and 1 palm.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 15 ta qaleth 1·]{lang=khel}
+
+1 [Qazlun 11. Tharel qalu az mazgar elu thulun 11 ta qaleth 1.]{.nativefont lang=khel}
+2 [Year 11. Water reached 11 cubits and 1 palm.]{lang=en}
+2 [Qazlun 11. Tharel qalu az mazgar elu thulun 11 ta qaleth 1.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 2 palms.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 2·]{lang=khel}
+
+1 [Qazlun 12. Tharel qalu az mazgar elu thulun 12 ta qaleth 3.]{.nativefont lang=khel}
+2 [Year 12. Water reached 12 cubits and 3 palms.]{lang=en}
+2 [Qazlun 12. Tharel qalu az mazgar elu thulun 12 ta qaleth 3.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14·]{lang=khel}
+
+1 [Qazlun 13. Tharel qalu az mazgar elu thulun 11 ta qaleth 2.]{.nativefont lang=khel}
+2 [Year 13. Water reached 11 cubits and 2 palms.]{lang=en}
+2 [Qazlun 13. Tharel qalu az mazgar elu thulun 11 ta qaleth 2.]{lang=khel}
+
+***
+1 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 3·]{.nativefont lang=khel}
+2 [..Proclaimed, 14 cubits and 3 palms.]{lang=en}
+2 [..Ghamuznet. Mazgar elu thulun 14 ta qaleth 3·]{lang=khel}
+
+1 [Qazlun 14. Khez mazel nazu qu.]{.nativefont lang=khel}
+2 [Year 14. I never read it.]{lang=en}
+2 [Qazlun 14. Khez mazel nazu qu.]{lang=khel}
+
+***
+1 [..Ezu thalmu elu zengel. Tharel qalu az mazgar elu thulun 14 ta qaleth khemu·]{.nativefont lang=khel}
+2 [..The stair's hand: water reached fourteen cubits, three palms.]{lang=en}
+2 [..Ezu thalmu elu zengel. Tharel qalu az mazgar elu thulun 14 ta qaleth khemu·]{lang=khel}
+
+***
+1 [Wanel eqar qernet. Zethal telu Gezerker az qarnet elu qu·]{.nativefont lang=khel}
+2 [That completes the column. Put Gezerker at its head.]{lang=en}
+2 [Wanel eqar qernet. Zethal telu Gezerker az qarnet elu qu·]{lang=khel}
+
+***
+1 [Razal Maqi saru qe rethulun saru zethat elu qezunet. Razel saru wanel nazu zethuar. Mazath qathnetun theznet elu Mazelnet qarmath qaznel thazet tazir shar temun. Telath qu lamath laqethar elu theznet ta qeznarar. Nelaz genar raznet ez Thaz'Lekhau. Yalem eqar. Zethal telu qernet. Lemath telu genar yarul ez Zethulnet elu saru. Tamel galar elu nelgir temalnet elu qezunet az zethgal zamar Gulur ta Wazu ta qernet. Wanel naru zurenar. Zethal Maqi qu ezu zethqen elu tharen nuqar qernet. Zethal rethgal zelqet elu zethat qel qu.]{.nativefont lang=khel}
+2 [Maqi asked whether he understood his entry. Gezerker answered that he was a scribe. Altering the Measure ranks among the law's gravest failures. Law had already taken commander and sergeant. A message sought the high priest. His reply: Enter the column. Let the man reach his Reading. The temple acted publicly at the counter before Gulur, Wazu, and queue. Maqi entered its action beneath the column. Schools copy it unchanged.]{lang=en}
+2 [Razal Maqi saru qe rethulun saru zethat elu qezunet. Razel saru wanel nazu zethuar. Mazath qathnetun theznet elu Mazelnet qarmath qaznel thazet tazir shar temun. Telath qu lamath laqethar elu theznet ta qeznarar. Nelaz genar raznet ez Thaz'Lekhau. Yalem eqar. Zethal telu qernet. Lemath telu genar yarul ez Zethulnet elu saru. Tamel galar elu nelgir temalnet elu qezunet az zethgal zamar Gulur ta Wazu ta qernet. Wanel naru zurenar. Zethal Maqi qu ezu zethqen elu tharen nuqar qernet. Zethal rethgal zelqet elu zethat qel qu.]{lang=khel}
+
 ```
 
-Then Maqi asked him whether he understood what he had entered, and he said that he was a scribe. The law counts the bending of the Measure among the gravest things it names. It had already had the one who ordered it bent, and it had had the sergeant. The Thaz'Lekhau was sent to, and the word that came back was this: "Let the column be entered. Let the man go to his Reading." What the temple did, it did at the counter, before Gulur and the Wazu and the queue as witnesses, and Maqi wrote it in the day-book under the column. The schools copy the entry as it stands.
-
-:::
-A reading of the Measure proclaimed to the city is undertaken to the city. The city plans its year by it. Twelve readings went out in the hand of Gezerker ez Gar-Qethar, scribe of the rolls, and were not performed; the water was not there. They are open in his account from this day. The party to each is whoever stood under it. A reading is the man: his hand and his mouth. No one assumes it. It closes by performance, which the river has refused; or by release; or by nothing. Witnessed by Gulur ez Galezkara, clerk of the fourth counter, and by a Wazu of the Great Temple. Entered by Maqi Reth'el'Qetu, who keeps the stair.
 :::
 
-"A false entry is the graver failure," Maqi said. "You know that. Enter it."
+```verse {form=prose numstep=5 cols=2}
+1 [Wanel mazelnet elu ghamuznet ez galnat qelqet ez galnat. Rethas galnat kalzet qer elu qu. Yarath mazelnet 12 nyar thalmu elu Gezerker ez Gar-Qethar zethuar elu zelqet. Khez qelaz saru naru. Khez tharel qalu zun. Wanel naru galut ezu halzi elu saru narel tharen elu kalzu. Wanel zeqatar elu lazet genar temun nuqar qu. Wanel mazelnet genar qezunet, thalmu ta lamur elu saru. Khez zeqath genar qu. Galath qu qer elu qelaznet, khez lemath igelu eqar, lu qer elu wazlat, lu khez galath qu. Zuren Gulur ez Galezkara zethuar elu zethgal tuzar ta Wazu elu Galar Thazet qu. Zethal Maqi Reth'el'Qetu lagathar elu zengel qu.]{.nativefont lang=khel}
+2 [A Measure publicly proclaimed undertakes an obligation to the city, which plans its year accordingly. Twelve readings issued from Gezerker ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]], roll scribe, without performance: the water was absent. From today they stand open in his account. Each party is everyone affected beneath that reading. A reading embodies its speaker, hand and mouth; nobody can assume it. Performance closes it, but the river has refused performance. Release closes it. Otherwise it remains open. Witnesses: Gulur ez [[place-galezkara|Galezkara]], fourth-counter clerk, and a Great Temple Wazu. Entered by stair keeper ]{lang=en}[Maqi Reth'el'Qetu]{lang=en. .name data-type="being/npc" lang=khel}[.]{lang=en}
+2 [Wanel mazelnet elu ghamuznet ez galnat qelqet ez galnat. Rethas galnat kalzet qer elu qu. Yarath mazelnet 12 nyar thalmu elu Gezerker ez Gar-Qethar zethuar elu zelqet. Khez qelaz saru naru. Khez tharel qalu zun. Wanel naru galut ezu halzi elu saru narel tharen elu kalzu. Wanel zeqatar elu lazet genar temun nuqar qu. Wanel mazelnet genar qezunet, thalmu ta lamur elu saru. Khez zeqath genar qu. Galath qu qer elu qelaznet, khez lemath igelu eqar, lu qer elu wazlat, lu khez galath qu. Zuren Gulur ez Galezkara zethuar elu zethgal tuzar ta Wazu elu Galar Thazet qu. Zethal Maqi Reth'el'Qetu lagathar elu zengel qu.]{lang=khel}
 
-"Enter it," the old man said. It was entered, and the queue moved.
+```
 
-Then he went to the street. Gar-Qethar had been drowned and rebuilt forty times since he left it, as it is every year, and the warrens stood over the pits as they stand now, and the house two doors from the quays was there, because a mudbrick house on the low ground is always there, in the sense that there is always one. He asked at the hall of [the club of the granary quays]{.name data-type="affiliation" lang=en} for Githira, and the club knew her: Githira ez Gar-Qethar, a scribe of Qalezu at a counting-house on the quays, forty-six years old, married, with sons, who paid her dues on the day. The club sent for her. She came to the hall and looked at him, and said what one says to a stranger.
+:::
 
-"Which hand were you taught?"
+```verse {form=prose numstep=5 cols=2}
+1 [Razel Maqi. Wanel zethat khez qenlet qaznel qemur tazir. Rethal telu eqar. Zethal telu qu.]{.nativefont lang=khel}
+2 [False entry is the graver failure, Maqi said. You know it. Enter.]{lang=en}
+2 [Razel Maqi. Wanel zethat khez qenlet qaznel qemur tazir. Rethal telu eqar. Zethal telu qu.]{lang=khel}
 
-"The people's."
+1 [Razel genar qarnethet. Zethal telu qu.]{.nativefont lang=khel}
+2 [Enter, replied the old man.]{lang=en}
+2 [Razel genar qarnethet. Zethal telu qu.]{lang=khel}
 
-"So was I." And then: "You are open in my account. The entry of my naming. You were not there at my year. I did not release it."
+1 [Zethal zethu qu. Qalur qernet.]{.nativefont lang=khel}
+2 [It entered. The queue moved.]{lang=en}
+2 [Zethal zethu qu. Qalur qernet.]{lang=khel}
 
-"I know what is open," he said.
+1 [Yarul saru ez hodir tharun. Qalqath Gar-Qethar nuqar qalu ta muzan genar qu yalret az kalet 40 narel yarathnet elu saru. Tamel genar eqar ezu kalzet temun. Tharel galar zar qelgar qel kalzu. Tharel galar az galmun khul nyar limqet. Alqar galar elu qedmal az gharen qezil az kalun temun, renan alqar lazen az kalun temun. Razal saru Githira az harun elu zelarun elu limqet elu habtun. Rethal zelarun sari. Githira ez Gar-Qethar, zethuar elu Qalezu az galar elu mazret az limqet. Kalzet 46. Merun mathenar. Malen qarenar. Qazem sari qalzeqat az tharen. Razer zelarun sari. Yaler sari ez harun. Zurat sari saru. Razel sari raznet elu rethnar.]{.nativefont lang=khel}
+2 [He sought his street. Flood and rebuilding had remade [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] forty times, yearly as always. Houses stood over pits as now. The house two doors from the quays persisted as low-ground mudbrick houses persist: another always occupies the place. He asked the granary-quay club hall for ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[. They knew her: ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[ ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]], forty-six, [[skill-qalzscrscrpt|Qalezu]] counting-house scribe on the quays, married with sons, punctual in dues. Summoned, she inspected him and greeted him as a stranger.]{lang=en}
+2 [Yarul saru ez hodir tharun. Qalqath Gar-Qethar nuqar qalu ta muzan genar qu yalret az kalet 40 narel yarathnet elu saru. Tamel genar eqar ezu kalzet temun. Tharel galar zar qelgar qel kalzu. Tharel galar az galmun khul nyar limqet. Alqar galar elu qedmal az gharen qezil az kalun temun, renan alqar lazen az kalun temun. Razal saru Githira az harun elu zelarun elu limqet elu habtun. Rethal zelarun sari. Githira ez Gar-Qethar, zethuar elu Qalezu az galar elu mazret az limqet. Kalzet 46. Merun mathenar. Malen qarenar. Qazem sari qalzeqat az tharen. Razer zelarun sari. Yaler sari ez harun. Zurat sari saru. Razel sari raznet elu rethnar.]{lang=khel}
 
-She took him into her house, since the house comes first and the club when the house fails, and he was her house's.
+1 [Razel sari. Rethath genar telu thalmu shal.]{.nativefont lang=khel}
+2 [Which hand were you taught?]{lang=en}
+2 [Razel sari. Rethath genar telu thalmu shal.]{lang=khel}
 
-The physician came in the first month of [[lore-sheluessn|Shelu]] and said what the law requires him to say early: that the man was dying, that it would be slow, and that it would be done by the crest. Then the household gathered what was open, which is the work of a Closing. He had the entry of Githira's naming. He had a bed, a bowl and a stick with the days on it, and the club's dues since the second month of Gelet, which Githira had paid, and two loans of grain from a neighbor of hers, witnessed, small. And he had the twelve.
+1 [Razel saru. Qalezu.]{.nativefont lang=khel}
+2 [The people's.]{lang=en}
+2 [Razel saru. Qalezu.]{lang=khel}
 
-He went to the West in his bed in the second month of Azlet, in the nineteenth year of Gez'el'Qar I, four days before the crest, and the telling does not describe it.
+1 [Razel sari. Qalezu tan. Wanel telu galut ezu halzi elu nazu. Zethat elu raznannet. Khez alqar telu az kalzet elu nazu. Khez wazal nazu qu.]{.nativefont lang=khel}
+2 [Mine too. Then: Your entry remains open in my account. My naming. You missed my year. I gave no release.]{lang=en}
+2 [Razel sari. Qalezu tan. Wanel telu galut ezu halzi elu nazu. Zethat elu raznannet. Khez alqar telu az kalzet elu nazu. Khez wazal nazu qu.]{lang=khel}
 
-An undertaking to the whole city of Galezkara, forty years old, has no address to send to, so the club did what a club does for a member who cannot find his creditors. It sent its crier through Gar-Qethar for three evenings, saying that a Reading would be held at the hall on the day of the proclamation for Gezerker ez Gar-Qethar, of the fourth counter, who had read the stair in the struck years, and that any who had stood under those proclamations might come and be asked. Above the low ground nobody came. In Gar-Qethar the hall was full.
+1 [Razel saru. Rethal nazu galut.]{.nativefont lang=khel}
+2 [I know my open entries, he said.]{lang=en}
+2 [Razel saru. Rethal nazu galut.]{lang=khel}
 
-The reader of the club read it in the hall as the litany is read, and the tale gives only what was said at the entries, as a school copy should. The year of the reign, the season, the day, and Gezerker ez Gar-Qethar. _One of this house has gone down to the West._ The entries by their dates, the oldest first. The naming of Githira, in the eighth year of the struck one: _Open_, and the party called, and Githira stood and was asked, and said, "I require no more," and the scribe wrote it, and the reader said, _Closed_. The two loans of grain: Githira assumed them, and the reader said, _Closed_. The dues: paid; _Closed_. Then the twelve, by their years, read as they stood in the day-book, the false beside the true, and at each the reader said _Open_, and at each the party was called, and the party was whoever stood.
+1 [Galun sari saru ez galar elu sari. Galar lazret, zelarun mer qaznel elu galar. Qamarun saru ez galar elu sari.]{.nativefont lang=khel}
+2 [She brought him home. Houses come first, clubs after their failure; he belonged to her house.]{lang=en}
+2 [Galun sari saru ez galar elu sari. Galar lazret, zelarun mer qaznel elu galar. Qamarun saru ez galar elu sari.]{lang=khel}
 
-They stood, year by year, as the twelve were read. There were many, at every year of the twelve, and the club's roll names them. The payment was a jar of beer from Githira's house, or a measure of grain, or a seat at the funeral meal, which is the rate on the low ground. At the reading of the second year all who stood released it, and the reader said, _Closed_.
+1 [Yaler zalethar ezu menqet lazret elu Shelu. Razel saru temun qelamet mar qeznar elu qu. Agu wathal genar. Wanel qu tarlit. Telnethet qu mar qalgaz. Qelmar garqen zethat galut, tamelnet elu Galathal. Qamar saru zethat elu raznannet elu Githira. Qamar saru shamelqet, qelqal, lagun elu tharen ta qalzeqat elu zelarun narel menqet khulret elu Gelet. Qazem Githira naru. Ta danet khul elu mazgar nyar garqelar elu sari. Zuren zurenar naru. Thazit. Ta 12.]{.nativefont lang=khel}
+2 [In [[lore-sheluessn|Shelu]]'s first month the physician made the law's required early declaration: dying, slowly, completed by crest. The household assembled open entries, the work of Closing. ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}['s naming remained. His property was bed, bowl, day-stick; club dues since [[lore-geletssn|Gelet]]'s second month, paid by ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[; two small witnessed grain loans from her neighbor. And twelve readings.]{lang=en}
+2 [Yaler zalethar ezu menqet lazret elu Shelu. Razel saru temun qelamet mar qeznar elu qu. Agu wathal genar. Wanel qu tarlit. Telnethet qu mar qalgaz. Qelmar garqen zethat galut, tamelnet elu Galathal. Qamar saru zethat elu raznannet elu Githira. Qamar saru shamelqet, qelqal, lagun elu tharen ta qalzeqat elu zelarun narel menqet khulret elu Gelet. Qazem Githira naru. Ta danet khul elu mazgar nyar garqelar elu sari. Zuren zurenar naru. Thazit. Ta 12.]{lang=khel}
 
-Then the reading of the third year was read, nine cubits and three palms, proclaimed fourteen and one: _Open_, and the party called. Thakat ez Gar-Qethar stood. She was old. She had kept Githira in her house from the eighth year to the fall and after it, and she had put two into the pit in the third year, and none of that is in any account that can be read, and none of it was read. She stood for the reading of the third year, and the reader put the Asking to her as he puts it to anyone.
+1 [Yarul saru ez ithnar ezu shamelqet ezu menqet khulret elu Azlet, qazlun 19 elu Gez'el'Qar ezu garel elu lazen, mar tharen tuzar elu qalgaz. Khez razel qethunet tazir.]{.nativefont lang=khel}
+2 [He went west in bed during [[lore-azletssn|Azlet]]'s second month, Gez'el'Qar I's nineteenth year, four days before crest. The tale supplies no description.]{lang=en}
+2 [Yarul saru ez ithnar ezu shamelqet ezu menqet khulret elu Azlet, qazlun 19 elu Gez'el'Qar ezu garel elu lazen, mar tharen tuzar elu qalgaz. Khez razel qethunet tazir.]{lang=khel}
+
+1 [Wanel qelqet ez Galezkara zamat kalzet 40 thelin. Khez qamar qu garel ez nelaz raznet. Tamel zelarun qel tamel zelarun ez genar khez dunel heurath zeqatar. Nelaz qu leqgath qazur Gar-Qethar ezu hesqar khemu. Razel saru. Agu alqar Zethulnet az harun ezu tharen elu ghamuznet ez Gezerker ez Gar-Qethar elu zethgal tuzar. Mazel saru zengel ezu qazlun qelgaret. Dunel genar temun nyar nuqar ghamuznet yaler ez razalnet. Khez yaler genar nyar zar gharen qezil. Wanel harun elu Gar-Qethar tamen.]{.nativefont lang=khel}
+2 [A forty-year-old undertaking to all [[place-galezkara|Galezkara]] has no deliverable address. The club did its ordinary work for a member unable to locate creditors. Three evenings its crier crossed [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] announcing Gezerker ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]]'s Reading on proclamation day: fourth-counter scribe, struck-years stair reader. Everyone affected by those proclamations could attend and be asked. Nobody came from above the low ground. [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] filled the hall.]{lang=en}
+2 [Wanel qelqet ez Galezkara zamat kalzet 40 thelin. Khez qamar qu garel ez nelaz raznet. Tamel zelarun qel tamel zelarun ez genar khez dunel heurath zeqatar. Nelaz qu leqgath qazur Gar-Qethar ezu hesqar khemu. Razel saru. Agu alqar Zethulnet az harun ezu tharen elu ghamuznet ez Gezerker ez Gar-Qethar elu zethgal tuzar. Mazel saru zengel ezu qazlun qelgaret. Dunel genar temun nyar nuqar ghamuznet yaler ez razalnet. Khez yaler genar nyar zar gharen qezil. Wanel harun elu Gar-Qethar tamen.]{lang=khel}
+
+1 [Zethul zethular elu zelarun qu az harun qel zethulnet elu lekhunet. Nelaz qethunet laz raznet az zethat qel zelqet elu rethgal. Qazlun, kalqet, tharen, Gezerker ez Gar-Qethar. Yarul genar lazen elu garqen eqar nizar ez ithnar. Zethat ezu qernet elu tharen, thelin lazret. Raznannet elu Githira ezu qazlun waqen elu genar elu rethan qelgaret. Galut. Razer genar zeqatar. Tharel Githira. Razal genar sari. Razel sari. Khez tamral nazu tazir. Zethal zethu qu. Razel zethular. Galet. Danet khul elu mazgar. Zeqath Githira naru. Razel zethular. Galet. Qalzeqat. Qazem. Galet. Tharun 12 ezu qernet elu qazlun. Zethul saru naru qel ezu zethqen elu tharen. Khez qenlet qarmel qenlet. Razel saru galut az lazet. Razer genar zeqatar az lazet. Wanel zeqatar genar elu tharelnet.]{.nativefont lang=khel}
+2 [The club reader used the litany. A school copy supplies only entry words. Regnal year, season, day, name. One of this household has descended west. Entries oldest first. ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}['s naming in the struck reign's eighth year: Open. Summoned, she stood and answered, I need nothing further. Written. Closed. She assumed two grain loans: Closed. Paid dues: Closed. Then twelve yearly readings, false beside true as in the day-book. Each: Open. Each creditor summoned. Whoever stood became the party.]{lang=en}
+2 [Zethul zethular elu zelarun qu az harun qel zethulnet elu lekhunet. Nelaz qethunet laz raznet az zethat qel zelqet elu rethgal. Qazlun, kalqet, tharen, Gezerker ez Gar-Qethar. Yarul genar lazen elu garqen eqar nizar ez ithnar. Zethat ezu qernet elu tharen, thelin lazret. Raznannet elu Githira ezu qazlun waqen elu genar elu rethan qelgaret. Galut. Razer genar zeqatar. Tharel Githira. Razal genar sari. Razel sari. Khez tamral nazu tazir. Zethal zethu qu. Razel zethular. Galet. Danet khul elu mazgar. Zeqath Githira naru. Razel zethular. Galet. Qalzeqat. Qazem. Galet. Tharun 12 ezu qernet elu qazlun. Zethul saru naru qel ezu zethqen elu tharen. Khez qenlet qarmel qenlet. Razel saru galut az lazet. Razer genar zeqatar az lazet. Wanel zeqatar genar elu tharelnet.]{lang=khel}
+
+1 [Tharel naru ezu qernet elu qazlun ezu kalun elu zethulnet elu 12. Alqar tazun ezu qazlun lazet. Raznan zelqet elu zelarun naru. Wanel qazemnet qallun elu qalnaz nyar galar elu Githira, lu mazgar, lu galmel az tamnet elu wathet. Wanel eqar telzhet az gharen qezil. Ezu qazlun khulret wazal genar temun saru. Razel zethular. Galet.]{.nativefont lang=khel}
+2 [Year after year many stood. The club's roll names them. Low-ground compensation was a beer jar from ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[, a grain measure, or a funeral-meal seat. Everyone standing for year two released it. Closed.]{lang=en}
+2 [Tharel naru ezu qernet elu qazlun ezu kalun elu zethulnet elu 12. Alqar tazun ezu qazlun lazet. Raznan zelqet elu zelarun naru. Wanel qazemnet qallun elu qalnaz nyar galar elu Githira, lu mazgar, lu galmel az tamnet elu wathet. Wanel eqar telzhet az gharen qezil. Ezu qazlun khulret wazal genar temun saru. Razel zethular. Galet.]{lang=khel}
+
+1 [Zethul zethular qazlun khemu, mazgar 9 ta qaleth khemu, ghamuznet 14 ta lazen. Galut. Razer genar zeqatar. Tharel Thakat ez Gar-Qethar. Wanel sari qarnethet. Lagath sari Githira ezu galar elu sari narel qazlun waqen qethel qalqathnet elu galar ta mer qu. Qalath sari khul ezu qelgar ezu qazlun khemu. Khez alqar temun elu eqar ezu halzi elu zethulnet. Khez zethul genar qu. Tharel sari qaral mazelnet elu qazlun khemu. Razal zethular sari qel genar temun.]{.nativefont lang=khel}
+2 [Then year three: nine cubits, three palms; proclaimed fourteen and one. Open. Summons. Thakat ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] stood, old. From year eight through the overthrow and beyond, she had kept ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[. In year three she had buried two. No readable account held those things. None were read. She stood for that year's reading and received everyone's Asking.]{lang=en}
+2 [Zethul zethular qazlun khemu, mazgar 9 ta qaleth khemu, ghamuznet 14 ta lazen. Galut. Razer genar zeqatar. Tharel Thakat ez Gar-Qethar. Wanel sari qarnethet. Lagath sari Githira ezu galar elu sari narel qazlun waqen qethel qalqathnet elu galar ta mer qu. Qalath sari khul ezu qelgar ezu qazlun khemu. Khez alqar temun elu eqar ezu halzi elu zethulnet. Khez zethul genar qu. Tharel sari qaral mazelnet elu qazlun khemu. Razal zethular sari qel genar temun.]{lang=khel}
+
+```
 
 : The Asking {#asking}
 
-```verse {form=litany lang=en}
-You to whom the dead owes: stand, and be asked.
-Will you say _I require no more_? The scribe writes it.
-Will you say no? It is lawful, and the scribe writes it.
-Your no costs you nothing, and your no is entered.
-Your yes costs you what was owed, and your name is remembered.
-    Open, or closed, as you have said.
+```verse {form=litany numstep=5 cols=2}
+1 [Tharel telu zeqatar elu genar wathet ta razal nazun telu.]{.nativefont lang=khel}
+2 [Stand, creditor of the dead, and hear our question.]{lang=en}
+2 [Tharel telu zeqatar elu genar wathet ta razal nazun telu.]{lang=khel}
+
+1 [Qe razel telu khez tamral nazu tazir. Zethal zethu eqar.]{.nativefont lang=khel}
+2 [Will you say, I need nothing further? The scribe enters it.]{lang=en}
+2 [Qe razel telu khez tamral nazu tazir. Zethal zethu eqar.]{lang=khel}
+
+1 [Qe razel telu khe. Wanel eqar lemet ta zethal zethu eqar.]{.nativefont lang=khel}
+2 [Will you refuse? Refusal is lawful, and the scribe enters it.]{lang=en}
+2 [Qe razel telu khe. Wanel eqar lemet ta zethal zethu eqar.]{lang=khel}
+
+1 [Khez zerath telu temun qaral khe elu telu. Wanel khe elu telu ezu zethu.]{.nativefont lang=khel}
+2 [Your refusal takes nothing from you. It enters the record.]{lang=en}
+2 [Khez zerath telu temun qaral khe elu telu. Wanel khe elu telu ezu zethu.]{lang=khel}
+
+1 [Zerath telu zeqat qaral enu elu telu. Rethur nazun rethan elu telu.]{.nativefont lang=khel}
+2 [Your assent gives up the debt. We remember your name.]{lang=en}
+2 [Zerath telu zeqat qaral enu elu telu. Rethur nazun rethan elu telu.]{lang=khel}
+
+***
+1 [..Galut lu galet qel razel telu·]{.nativefont lang=khel}
+2 [..Open or shut, according to your words.]{lang=en}
+2 [..Galut lu galet qel razel telu·]{lang=khel}
+
+***
+1 [Razel Thakat. Khe.]{.nativefont lang=khel}
+2 [No, said Thakat.]{lang=en}
+2 [Razel Thakat. Khe.]{lang=khel}
+
+***
+1 [Zethal zethu qu. Razel zethular. Galut. Galel sari. Tharel leqar qaral qazlun khemu mer sari. Wazal naru saru. Razel zethular galut mer lazet. Thalal qazlun galut qamaru alqar khe lazen ezu qu. Khez qemet raznet elu leqar.]{.nativefont lang=khel}
+2 [The scribe entered it. Open. She sat. Later year-three claimants released; each received Open. One refusal keeps a year open regardless of all other voices.]{lang=en}
+2 [Zethal zethu qu. Razel zethular. Galut. Galel sari. Tharel leqar qaral qazlun khemu mer sari. Wazal naru saru. Razel zethular galut mer lazet. Thalal qazlun galut qamaru alqar khe lazen ezu qu. Khez qemet raznet elu leqar.]{lang=khel}
+
+***
+1 [Ezu qazlun tuzar tharel Zabita ez Gar-Qethar. Wanel sari tuqathar elu qalu az limqet. Wanel kalzet elu sari 11 ezu qazlun khemu. Tamul sari tamzel. Razel sari. Khez tamral nazu tazir. Galel sari. Razel harun rethan elu sari ezu qeznar elu ghamuznet ezu kalzet temun mer Gezerker. Zethul zethular 12 qethel telnet. Mazath zelqet elu zelarun qazlun galet ta galut.]{.nativefont lang=khel}
+2 [At year four, quay water-carrier Zabita ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] stood. Eleven in year three, she had eaten the loaf. I need nothing further, she said, then sat. Each proclamation night the hall speaks her name after Gezerker's. The reader finished twelve years. Which closed and which remained open belongs to the club's count.]{lang=en}
+2 [Ezu qazlun tuzar tharel Zabita ez Gar-Qethar. Wanel sari tuqathar elu qalu az limqet. Wanel kalzet elu sari 11 ezu qazlun khemu. Tamul sari tamzel. Razel sari. Khez tamral nazu tazir. Galel sari. Razel harun rethan elu sari ezu qeznar elu ghamuznet ezu kalzet temun mer Gezerker. Zethul zethular 12 qethel telnet. Mazath zelqet elu zelarun qazlun galet ta galut.]{lang=khel}
+
+***
+1 [Qamaru khez qemet qamret, razer genar qamretar. Tharel Githira. Tharel zeqatar qarmel sari. Zurat garqen. Razal genar sari qe zeqath sari qu. Zeqath sari qalzeqat ta danet, temun khez qemur. Razeth genar ez sari temun elu rethnet elu sari. Wanel 12 genar qezunet. Khez dunel genar zeqath naru. Razel sari rethal nazu. Razel zethular qel lekhunet elu malen qarenar. Khez wanel qaznel elu qathun qaznel elu malen. Razel saru qu ez malen mathenar ta thalal saru. Khez zeqmar Gezerker temun az Galathal. Thalal saru temun galut. Tamel genar eqar qamaru khez qamar saru zeqmar. Yarul zethqen nizar ta malqat. Qazem Githira zelarun qaral shalathnet, razalnet ez nelgir, gezan elu qerwun az halqar, ta leqar. Dunel galar khul. Ezu tharen chun yarul saru ezu amqar galut az Khelaut-Ithnet. Tamel ammet qu ez genar khez qamret qel nezqet ez Halzi'a.]{.nativefont lang=khel}
+2 [Where property failed, the heir was summoned. ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[ stood beside creditor before household, asked to assume. She assumed dues and loans, negligible burdens, and heard what she already knew: twelve readings embodied the man and could not transfer. She acknowledged it. The reader applied the son's litany to a daughter: a father's failure places no flaw in his child. He continued. At Closing Gezerker had called nothing in and left everything open, having no claim to call. His tablets descended with his body. ]{lang=en}[Githira]{lang=en. .name data-type="being/npc" lang=khel}[ paid for wrapping, prayer, a copper breast piece, and another because her house could afford two. On day six he entered [[place-khelautithnt|Khelaut-Ithnet]]'s open desert. Sand serves the poor there as natron serves governors.]{lang=en}
+2 [Qamaru khez qemet qamret, razer genar qamretar. Tharel Githira. Tharel zeqatar qarmel sari. Zurat garqen. Razal genar sari qe zeqath sari qu. Zeqath sari qalzeqat ta danet, temun khez qemur. Razeth genar ez sari temun elu rethnet elu sari. Wanel 12 genar qezunet. Khez dunel genar zeqath naru. Razel sari rethal nazu. Razel zethular qel lekhunet elu malen qarenar. Khez wanel qaznel elu qathun qaznel elu malen. Razel saru qu ez malen mathenar ta thalal saru. Khez zeqmar Gezerker temun az Galathal. Thalal saru temun galut. Tamel genar eqar qamaru khez qamar saru zeqmar. Yarul zethqen nizar ta malqat. Qazem Githira zelarun qaral shalathnet, razalnet ez nelgir, gezan elu qerwun az halqar, ta leqar. Dunel galar khul. Ezu tharen chun yarul saru ezu amqar galut az Khelaut-Ithnet. Tamel ammet qu ez genar khez qamret qel nezqet ez Halzi'a.]{lang=khel}
+
+***
+1 [Wanel eqar qethunet. Yarul saru ez ithnar, ezu zethu ta galut.]{.nativefont lang=khel}
+2 [Thus the tale. He went west, entered and open.]{lang=en}
+2 [Wanel eqar qethunet. Yarul saru ez ithnar, ezu zethu ta galut.]{lang=khel}
+
+***
+1 [Telnethet zelqet ta zethat elu zethalar.]{.nativefont lang=khel}
+2 [The copy concludes with its copyist's entry.]{lang=en}
+2 [Telnethet zelqet ta zethat elu zethalar.]{lang=khel}
+
 ```
 
-"No," Thakat said.
-
-The scribe wrote it. The reader said, _Open_. She sat down. Others stood for the third year after her and released it, and the reader said _Open_ after each of them, because a year with one no in it stays open whatever the rest say.
-
-At the reading of the fourth year [Zabita ez Gar-Qethar]{.name data-type="being/npc" lang=khel}, a water-carrier of the quays, who had been eleven in the third year and had eaten the loaf, stood and said, "I require no more," and sat down, and the hall says her name on the night of the proclamation every year, after Gezerker's. The reader went on through the twelve. Which years closed and which stayed open, the club's roll counts.
-
-Where the estate fell short the heir was called, and Githira stood with the creditor beside her and the household watching, and was asked whether she would assume. She assumed the dues and the loans, which were nothing, and was told what she knew, that the twelve were the man himself and could not be assumed, and she said that she knew it, and the reader said what the litany says of a son, that a father's failure is no flaw in him, and said it of a daughter, and went on. He had called in nothing at the Closing and left everything open, which is what a man does who has nothing to call in. The tablets went down with the body. Githira paid the club for the wrapping and the prayer and a copper piece on the breast, and a second piece, since the house could manage two, and on the sixth day he went into the open desert at [[place-khelautithnt|Khelaut-Ithnet]], where the sand does for a pauper what natron does for a Halzi'a.
-
-That is the telling. He went to the West, entered and open.
-
-The copy ends with the copyist's entry.
-
 :::
-Copied in the fourteenth year of Gar-Au [Legir'el'Retha]{.name data-type="being/npc" lang=khel} I, in the second month of Azlet, for the night of the proclamation, for the hall of the club of the granary quays, from the copy the school of the fourth counter keeps, by [Thethi ez Gar-Qethar]{.name data-type="being/npc" lang=khel}, scribe of Qalezu. Checked against the day-book: the Measure's column for the struck years stands as it was entered at the counter, in both hands, and the temple reads the proclamation from the stair with two priests on it since those years. What is scraped in this copy I scraped.
+
+```verse {form=prose numstep=5 cols=2}
+1 [Zethal Thethi ez Gar-Qethar zelqet, zethuar elu Qalezu, ezu qazlun 14 elu Gar-Au Legir'el'Retha ezu garel elu lazen, ezu menqet khulret elu Azlet, ez qeznar elu ghamuznet, ez harun elu zelarun elu limqet elu habtun. Nyar zelqet elu rethgal elu zethgal tuzar. Mazel genar qu qarmath qu ta zethqen elu tharen. Tharel qernet elu Mazelnet elu qazlun qelgaret qel zethat az zethgal ezu thalmu khul. Zethul galar elu nelgir ghamuznet nyar zengel ta Lem'Nelgir khul narel qazlun eqar. Temun qelgaret ezu zelqet eqar, qelgar nazu qu.]{.nativefont lang=khel}
+2 [Copied by [[skill-qalzscrscrpt|Qalezu]] scribe Thethi ez [[place-garqethar|[[place-garqethar|Gar-Qethar]]]] in year fourteen of ]{lang=en}[Legir'el'Retha]{lang=en. .name data-type="being/npc" lang=khel}[ I, [[lore-azletssn|Azlet]]'s second month, for proclamation night at the granary-quay club hall, from the fourth-counter school's copy. Compared with the day-book: struck-years Measure readings retain the counter's entry in both hands. Since those years two priests attend the temple's stair proclamation. I scraped every gap appearing in this copy.]{lang=en}
+2 [Zethal Thethi ez Gar-Qethar zelqet, zethuar elu Qalezu, ezu qazlun 14 elu Gar-Au Legir'el'Retha ezu garel elu lazen, ezu menqet khulret elu Azlet, ez qeznar elu ghamuznet, ez harun elu zelarun elu limqet elu habtun. Nyar zelqet elu rethgal elu zethgal tuzar. Mazel genar qu qarmath qu ta zethqen elu tharen. Tharel qernet elu Mazelnet elu qazlun qelgaret qel zethat az zethgal ezu thalmu khul. Zethul galar elu nelgir ghamuznet nyar zengel ta Lem'Nelgir khul narel qazlun eqar. Temun qelgaret ezu zelqet eqar, qelgar nazu qu.]{lang=khel}
+
+```
+
 :::
 
 ## See Also

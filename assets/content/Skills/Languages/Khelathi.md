@@ -7759,6 +7759,107 @@ source: {kind: coined} - form: "tharil"
 class: adv
 field: "Everyday speech"
 gloss: "slowly"
+source: {kind: coined} - form: "limqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "quay"
+source: {kind: coined} - form: "galuqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "island"
+source: {kind: coined} - form: "Mazelnet"
+class: n
+field: "Counting-house and water-works"
+gloss: "the Measure, official river gauge and its reading"
+source: {kind: coined} - form: "qeznarar"
+class: n
+field: "Ritual and accounts"
+gloss: "sergeant"
+source: {kind: coined} - form: "qelzarar"
+class: n
+field: "Ritual and accounts"
+gloss: "rower"
+source: {kind: coined} - form: "qezgar"
+class: n
+field: "Counting-house and water-works"
+gloss: "shaft"
+source: {kind: coined} - form: "qaleth"
+class: n
+field: "Ritual and accounts"
+gloss: "palm as linear measure"
+source: {kind: coined} - form: "galthel"
+class: n
+field: "Counting-house and water-works"
+gloss: "bridge"
+source: {kind: coined} - form: "qelgar"
+class: n
+field: "Counting-house and water-works"
+gloss: "burial pit (different contextual noun from scrape verb)"
+source: {kind: coined} - form: "tematar"
+class: n
+field: "Ritual and accounts"
+gloss: "cook"
+source: {kind: coined} - form: "qelwun"
+class: n
+field: "Counting-house and water-works"
+gloss: "well"
+source: {kind: coined} - form: "qalgaz"
+class: n
+field: "Counting-house and water-works"
+gloss: "river crest"
+source: {kind: coined} - form: "anqar"
+class: n
+field: "Counting-house and water-works"
+gloss: "wind"
+source: {kind: coined} - form: "qetgar"
+class: n
+field: "Counting-house and water-works"
+gloss: "east"
+source: {kind: coined} - form: "balqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "barrow"
+source: {kind: coined} - form: "zelmin"
+class: n
+field: "Ritual and accounts"
+gloss: "tag (separate noun from pale adjective)"
+source: {kind: coined} - form: "qelgaret"
+class: adj
+field: "Everyday speech"
+gloss: "struck from records (beside scraper noun)"
+source: {kind: coined} - form: "shenqel"
+class: n
+field: "Ritual and accounts"
+gloss: "sleeve"
+source: {kind: coined} - form: "malzathnet"
+class: n
+field: "Ritual and accounts"
+gloss: "milking"
+source: {kind: coined} - form: "leqgath"
+class: n
+field: "Ritual and accounts"
+gloss: "proclamation crier"
+source: {kind: coined} - form: "qelqal"
+class: n
+field: "Ritual and accounts"
+gloss: "bowl"
+source: {kind: coined} - form: "qalzeqat"
+class: n
+field: "Ritual and accounts"
+gloss: "maintenance dues"
+source: {kind: coined} - form: "zalethar"
+class: n
+field: "Ritual and accounts"
+gloss: "physician/healer, built zaleth heal + -ar"
+source: {kind: coined}
+built: [zaleth, "-ar"] - form: "shamelqet"
+class: n
+field: "Everyday speech"
+gloss: "bed"
+source: {kind: coined} - form: "telzhet"
+class: n
+field: "Ritual and accounts"
+gloss: "usual compensation rate"
 source: {kind: coined}
 
 ## Grammar Notes

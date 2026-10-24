@@ -10,3 +10,4 @@
 - _The Suit of the Scribe and the Builder_ presents the performed Khelathi play in numbered parallel Qalezu, English and Roman readings.
 - _The Stela of Kuz'Uqa at Zel-Halzi_ adds the unpointed Roman transcription, preserving blank rows and later hands.
 - _The Instruction of Khelayu_ pairs its maxims, pupil errors, teacher corrections and two-hand colophon with a parallel reading.
+- _The Tale of Gezerker_ pairs its full court tale, the twelve true and proclaimed readings, and the final Asking with Qalezu and Roman Khelathi readings.
