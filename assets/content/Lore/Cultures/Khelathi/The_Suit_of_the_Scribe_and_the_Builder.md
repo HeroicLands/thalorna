@@ -32,395 +32,946 @@ The suit is the gods' own. Saq'aru raised the first house on [[place-yathtelgu|Y
 
 The text below is the collective's working roll, cues and all, with the drum's rests marked at the stop in each name of the Twelve, a scene cut and marked as not to be played before the Thaz'Lekhau of [[affiliation-thubai|Thuba'i]], and a note in a player's hand. The suit dates nothing and belongs to no reign. The roll is of this age, [[lore-akhhsmeqes|the House of Meqes]], and the suit is played every Harvest in it.
 
-_\[The roll of the players of Lin'Shelun elu Thuba'i, for the Harvest feasts. The drum rests at the stop in every name of the Twelve, here and throughout, and the players do not hurry it. The beer goes to the front benches before the Speaker stands. The song is at the end, so nobody leaves.\]_
+_\[The working roll of Lin'Shelun elu Thuba'i for Harvest feasts. Throughout, the drum pauses at the catch in every name of the Twelve. Players must give it time. Serve beer to the front benches before the Speaker rises. Leave the song until last to keep people here.\]_
 
 ## The Speaker
 
-_\[The Speaker stands on a bench with a cup in his hand and reads from the roll. He does not sit until the Scale has been carried out.\]_
+_\[Standing on a bench, cup in hand, the Speaker reads the roll. He remains standing until the Scale leaves.\]_
 
-_Shelmu zetem._ Let those who have eaten hear, and let those still eating chew quietly. This is a _genzat_, a suit, and the parties are gods, so nobody here need stand for them; they can stand for themselves, and tonight they will stand a long time. Saq'aru, who shapes a thing. Reth'Sa'ar, who writes down that it was shaped. Between them Qe'aret, who does the scale. It is the first suit there ever was, and it was heard on the first ground, on the mound in the river at [[place-galezkara|Galezkara]] before there was a Galezkara to put round it, and before there was anybody in the valley to lose it. Every one of you has lost a suit. Tonight you will watch two gods lose the same one. _\[Wait for it.\]_
+```verse {form=genzat numstep=5 cols=2}
+1 [Shelmu zetem. Khashath genar elu tamnet telnethet. Tamul genar elu tamnet khazil. Wanel eqar genzat. Wanel qelathar nelgiru. Khez qelan genar zun tharel az garel elu naru. Dunel naru tharel qezunet. Agu tharel naru ezu kalun thalen ezu qeznar eqar. Saq'aru, temal saru temun. Reth'Sa'ar, zethal saru temalnet elu qu. Qarmath naru Qe'aret. Tamel sari halzat. Wanel eqar genzat lazret elu kalun temun. Khashel Genzet qu az gharen lazret az yathar ezu igelu az Galezkara. Khez alqar Galezkara az kalun eqar. Khez alqar genar ezu igelar ez zerath qu. Zerath telu temun genzat. Zuren telu nelgir khul zerath genzat qemel ezu qeznar eqar. [Yalmet telu.]]{.nativefont lang=khel}
+2 [Shelmu zetem. Hear, everyone who has eaten; everyone still eating, chew softly. Here is a genzat, a lawsuit. Its parties are gods, perfectly able to stand for themselves. They will stand for a considerable time tonight. Saq'aru makes things. Reth'Sa'ar records their making. Between them Qe'aret operates the scale. This earliest suit was heard on the earliest ground: the river mound at Galezkara before Galezkara surrounded it, before the valley had anyone capable of losing it. You have all lost lawsuits. Tonight two gods lose the same lawsuit. [Wait.]]{lang=en}
+2 [Shelmu zetem. Khashath genar elu tamnet telnethet. Tamul genar elu tamnet khazil. Wanel eqar genzat. Wanel qelathar nelgiru. Khez qelan genar zun tharel az garel elu naru. Dunel naru tharel qezunet. Agu tharel naru ezu kalun thalen ezu qeznar eqar. Saq'aru, temal saru temun. Reth'Sa'ar, zethal saru temalnet elu qu. Qarmath naru Qe'aret. Tamel sari halzat. Wanel eqar genzat lazret elu kalun temun. Khashel Genzet qu az gharen lazret az yathar ezu igelu az Galezkara. Khez alqar Galezkara az kalun eqar. Khez alqar genar ezu igelar ez zerath qu. Zerath telu temun genzat. Zuren telu nelgir khul zerath genzat qemel ezu qeznar eqar. [Yalmet telu.]]{lang=khel}
 
-The song is at the end. The beer is already here. Nobody gets the one without sitting through the other.
+***
+1 [Wanel shelun az telnet. Wanel qalnaz zun kalzu. Khez lamath genar lazen nyar khashat elu leqar.]{.nativefont lang=khel}
+2 [The song comes last. The beer is here already. To get one, you must sit through the other.]{lang=en}
+2 [Wanel shelun az telnet. Wanel qalnaz zun kalzu. Khez lamath genar lazen nyar khashat elu leqar.]{lang=khel}
+
+***
+```
 
 ## The House
 
-_\[The mound: three steps and a plank, with the water painted on cloth around it. The Builder enters up the steps with a brick under each arm and a third in his teeth. The drum, and the drum rests at his name.\]_
+_\[The mound consists of three steps and a plank, surrounded by cloth painted as water. The Builder climbs with one brick under each arm and a third between his teeth. Drum, with the pause at his name.\]_
 
-Saq'aru came up out of the water onto the new ground, and the ground was wet, and there was nothing on it, and he did not like that. He walked the mound end to end. He measured it with his arm from the elbow to the end of the middle finger, there being no other cubit, so that his arm is the cubit and every survey rod in the valley is a copy of his forearm. He took the mud of the bank and pressed it in a frame he made of his two hands, and set it in the sun, and the sun dried it, and that was a brick. He made another. He made thirty, and thirty, and thirty on those, and he counted them as he went, because a builder who does not count is a man with a heap.
+```verse {form=genzat numstep=5 cols=2}
+1 [Yaler Saq'aru zar nyar qalu ez gharen nevar. Wanel gharen qalet. Khez alqar temun az qu. Khez qamar saru zamet elu eqar. Tarul saru nyar telnet lazen elu yathar ez leqar. Mazel saru qu qer elu thulun elu saru nyar thulqet ez telnet elu thalmin qarmen. Khez alqar mazgar elu thulun leqar. Wanel thulun elu saru mazgar. Wanel mazelqet temun ezu igelar zelqet elu thulun elu saru. Lamath saru qedmal elu galthar. Qezmel saru qu ezu qezqar elu thalmu khul elu saru. Qalath saru qu az thelqen. Qezlar thelqen qu. Wanel qu galqat. Temal saru leqar. Temal saru 30 ta 30 ta 30 zar naru. Mazath saru naru ezu kalun elu temalnet. Qamaru khez mazath muzanar, wanel saru genar elu qalmar.]{.nativefont lang=khel}
+2 [Saq'aru rose from water onto new, wet, unoccupied ground. He disliked its emptiness. He walked its length and measured it with his forearm, elbow to middle fingertip. No other cubit existed: his arm became the cubit, and every valley survey rod copies it. He took bank mud, pressed it into the frame of his hands, and set it in sunlight. The sun dried the first brick. He made another, then thirty, another thirty, and thirty above them, counting throughout. A builder who omits counting merely owns a heap.]{lang=en}
+2 [Yaler Saq'aru zar nyar qalu ez gharen nevar. Wanel gharen qalet. Khez alqar temun az qu. Khez qamar saru zamet elu eqar. Tarul saru nyar telnet lazen elu yathar ez leqar. Mazel saru qu qer elu thulun elu saru nyar thulqet ez telnet elu thalmin qarmen. Khez alqar mazgar elu thulun leqar. Wanel thulun elu saru mazgar. Wanel mazelqet temun ezu igelar zelqet elu thulun elu saru. Lamath saru qedmal elu galthar. Qezmel saru qu ezu qezqar elu thalmu khul elu saru. Qalath saru qu az thelqen. Qezlar thelqen qu. Wanel qu galqat. Temal saru leqar. Temal saru 30 ta 30 ta 30 zar naru. Mazath saru naru ezu kalun elu temalnet. Qamaru khez mazath muzanar, wanel saru genar elu qalmar.]{lang=khel}
 
-_\[He lays the bricks as he speaks. The wall is a painted cloth on a frame, raised from behind by the boys as the count goes up. The door is a real door in a real frame, carried on by a man who stays inside it for the whole play.\]_
+***
+```
+
+_\[He lays bricks while speaking. Boys behind the painted-cloth wall raise its frame with the count. An actual door in an actual frame is carried in by a man who stays inside it throughout.\]_
 
 : The Builder's Boast {#boast}
 
-```verse {form=genzat lang=en}
-I measured the ground with my arm, from the elbow to the end of the finger.
-There was no other cubit. Mine is the cubit.
-I took the mud of the bank and I pressed it; I pressed it in a frame of my hands,
-and the sun dried it, and that is a brick, and nobody had seen one before.
-Thirty bricks and thirty, and thirty on those. I counted them. They are a wall.
-Four walls, and they stand. A roof of reed on the walls, and it keeps off the rain,
-there being as yet no rain. It keeps it off anyway. That is what a roof is for.
-A door at the front, for going in. There is no door at the back.
-Nobody has yet thought of leaving.
-[…]
-Behold the house. There was none, and there is one.
-Let anyone say it was there before. Nobody was there before.
-I was there before, and I say that it was not.
+```verse {form=genzat numstep=5 cols=2}
+1 [Mazel nazu gharen qer elu thulun, nyar thulqet ez telnet elu thalmin.]{.nativefont lang=khel}
+2 [My forearm measured the ground, elbow to fingertip.]{lang=en}
+2 [Mazel nazu gharen qer elu thulun, nyar thulqet ez telnet elu thalmin.]{lang=khel}
+
+1 [Khez alqar mazgar leqar. Wanel elu nazu mazgar.]{.nativefont lang=khel}
+2 [No other cubit existed. The cubit is mine.]{lang=en}
+2 [Khez alqar mazgar leqar. Wanel elu nazu mazgar.]{lang=khel}
+
+1 [Lamath nazu qedmal elu galthar. Qezmel nazu qu ezu qezqar elu thalmu.]{.nativefont lang=khel}
+2 [I took bank mud and pressed it between my framing hands.]{lang=en}
+2 [Lamath nazu qedmal elu galthar. Qezmel nazu qu ezu qezqar elu thalmu.]{lang=khel}
+
+1 [Qezlar thelqen qu. Wanel qu galqat. Khez zuren genar qu mar eqar.]{.nativefont lang=khel}
+2 [Sun dried it into a brick, the first anyone had seen.]{lang=en}
+2 [Qezlar thelqen qu. Wanel qu galqat. Khez zuren genar qu mar eqar.]{lang=khel}
+
+1 [30 galqat ta 30 ta 30 zar naru. Mazath nazu naru. Wanel naru galzat.]{.nativefont lang=khel}
+2 [Thirty, thirty, thirty above. I counted. They form a wall.]{lang=en}
+2 [30 galqat ta 30 ta 30 zar naru. Mazath nazu naru. Wanel naru galzat.]{lang=khel}
+
+1 [Tharel galzat tuzar. Wanel galzur elu sheqet zar naru. Lagath qu galar nyar shazal.]{.nativefont lang=khel}
+2 [Four standing walls, roofed with reeds to exclude rain.]{lang=en}
+2 [Tharel galzat tuzar. Wanel galzur elu sheqet zar naru. Lagath qu galar nyar shazal.]{lang=khel}
+
+1 [Khez alqar shazal ethel. Thal lagath qu galar. Wanel eqar qarun elu galzur.]{.nativefont lang=khel}
+2 [Rain has yet to exist. The roof excludes it anyway; that is its purpose.]{lang=en}
+2 [Khez alqar shazal ethel. Thal lagath qu galar. Wanel eqar qarun elu galzur.]{lang=khel}
+
+1 [Wanel galmun az zamar ez qarun elu galun. Khez alqar galmun az nazar.]{.nativefont lang=khel}
+2 [A front door admits you. The back has none.]{lang=en}
+2 [Wanel galmun az zamar ez qarun elu galun. Khez alqar galmun az nazar.]{lang=khel}
+
+1 [Khez rethas genar yarath ethel.]{.nativefont lang=khel}
+2 [Nobody has thought of departure.]{lang=en}
+2 [Khez rethas genar yarath ethel.]{lang=khel}
+
 ```
 
-_\[He tries the door. It sticks. He puts his shoulder to it. It opens. Laughter here; wait for it.\]_
+_\[…\]_
 
-The door stuck, because he hung it before the lintel had dried, and that was the first thing on this earth that was done in a hurry. He put his shoulder to it and it opened, and he went in, and he came out again, and he stood in front of his house with his arms folded and waited for somebody to see it. There was nobody. He waited some more.
+```verse {form=genzat numstep=5 cols=2}
+1 [Zurat telu galar. Khez alqar qu mar eqar. Alqar lazen kalzu.]{.nativefont lang=khel}
+2 [Look at this house. Where none existed, one exists.]{lang=en}
+2 [Zurat telu galar. Khez alqar qu mar eqar. Alqar lazen kalzu.]{lang=khel}
+
+1 [Razel shel wanel qu zun mar eqar. Khez alqar shel zun mar eqar.]{.nativefont lang=khel}
+2 [Let anyone claim it stood before. Nobody stood here before.]{lang=en}
+2 [Razel shel wanel qu zun mar eqar. Khez alqar shel zun mar eqar.]{lang=khel}
+
+1 [Alqar nazu zun mar eqar. Razel nazu khez alqar qu·]{.nativefont lang=khel}
+2 [I stood here before. I say it did not.]{lang=en}
+2 [Alqar nazu zun mar eqar. Razel nazu khez alqar qu·]{lang=khel}
+
+***
+```
+
+_\[He tries the sticking door, pushes his shoulder against it, and opens it. Wait for laughter.\]_
+
+```verse {form=genzat numstep=5 cols=2}
+1 [Qezmer galmun qaral qalath saru qu mar qezlar lintar. Wanel eqar tamelnet lazret elu qezlun ezu gharen. Qalath saru qalmer ez qu ta galuth qu. Galun saru ta yarath saru yalret. Tharel saru zamar galar elu saru ta qalath saru thulun qazir halqar. Yalmet saru ez qarun elu zuren elu genar. Khez alqar genar. Yalmet saru tazir.]{.nativefont lang=khel}
+2 [He had hung the door before its lintel dried: earth's first hurried job. A shoulder opened it. He entered, came out, folded his arms before his house, and waited for someone to admire it. Nobody existed. He waited longer.]{lang=en}
+2 [Qezmer galmun qaral qalath saru qu mar qezlar lintar. Wanel eqar tamelnet lazret elu qezlun ezu gharen. Qalath saru qalmer ez qu ta galuth qu. Galun saru ta yarath saru yalret. Tharel saru zamar galar elu saru ta qalath saru thulun qazir halqar. Yalmet saru ez qarun elu zuren elu genar. Khez alqar genar. Yalmet saru tazir.]{lang=khel}
+
+***
+```
 
 ## The Entry
 
-_\[The Scribe has been sitting on the edge of the mound the whole time, with his feet over the side in the painted water and a tablet on his knee, writing. He does not look up until the Builder shouts.\]_
+_\[Throughout, the Scribe has sat at the mound's edge, feet dangling into painted water, writing on a tablet on his knee. He looks up only at the Builder's shout.\]_
 
-Reth'Sa'ar was sitting on the edge of the mound with his feet in the water, writing. He had been there since the ground came up. He had a satchel of tablets, a palette, and a reed, and he had made one entry, and it said: _Ground. Empty._
+```verse {form=genzat numstep=5 cols=2}
+1 [Galel Reth'Sa'ar az telnet elu yathar ta wanel pedar ezu qalu. Zethal saru narel yaler gharen zar. Qamar saru shenar elu zethqen, zethqal ta sheqet. Zethal saru zethat lazen. Razel qu. Gharen. Khez temun.]{.nativefont lang=khel}
+2 [Reth'Sa'ar had sat there writing since the ground rose. With his tablet bag, palette, and reed he had produced one entry: Ground. Empty.]{lang=en}
+2 [Galel Reth'Sa'ar az telnet elu yathar ta wanel pedar ezu qalu. Zethal saru narel yaler gharen zar. Qamar saru shenar elu zethqen, zethqal ta sheqet. Zethal saru zethat lazen. Razel qu. Gharen. Khez temun.]{lang=khel}
 
-"Write it down," said the Builder.
+***
+1 [Razel Muzanar. Zethal telu qu.]{.nativefont lang=khel}
+2 [Builder. Record it.]{lang=en}
+2 [Razel Muzanar. Zethal telu qu.]{lang=khel}
 
-"I have written it down," said the Scribe. "I wrote the mound. _Ground. Empty._ That was yesterday. Today I was going to write _Ground. Still empty_, and I look up, and there is a house on it."
+1 [Razel Zethuar. Telath nazu zethal qu. Zethal nazu yathar. Gharen. Khez temun. Wanel eqar tharen mar tharen elu kalzu. Qaruth nazu zethal kalzu. Gharen. Thalal khez temun. Zuren nazu zar. Wanel galar az qu.]{.nativefont lang=khel}
+2 [Scribe. Already recorded. I entered the mound: Ground. Empty. Yesterday's entry. Today I intended Ground. Still empty. I look up and find a house.]{lang=en}
+2 [Razel Zethuar. Telath nazu zethal qu. Zethal nazu yathar. Gharen. Khez temun. Wanel eqar tharen mar tharen elu kalzu. Qaruth nazu zethal kalzu. Gharen. Thalal khez temun. Zuren nazu zar. Wanel galar az qu.]{lang=khel}
 
-"Then write the house."
+1 [Razel Muzanar. Zethal telu galar tharun.]{.nativefont lang=khel}
+2 [Builder. Enter the house, then.]{lang=en}
+2 [Razel Muzanar. Zethal telu galar tharun.]{lang=khel}
 
-"Who witnessed it?"
+1 [Razel Zethuar. Zuren shel qu.]{.nativefont lang=khel}
+2 [Scribe. Who witnessed it?]{lang=en}
+2 [Razel Zethuar. Zuren shel qu.]{lang=khel}
 
-"You did. You were sitting there."
+1 [Razel Muzanar. Telu. Galel telu zun.]{.nativefont lang=khel}
+2 [Builder. You, sitting there.]{lang=en}
+2 [Razel Muzanar. Telu. Galel telu zun.]{lang=khel}
 
-"I was writing. A man who is writing is a scribe. A man who is watching is a witness. I cannot be both at once, or every scribe in the valley would be the witness to his own entries, and you could not trust a tablet from one end of the river to the other. There is one of me, and I was the scribe. So there was no witness, and what has no witness is not entered, and what is not entered stands on ground that is entered as empty."
+1 [Razel Zethuar. Zethal nazu. Wanel zethuar zethuar. Wanel zurenar zurenar. Khez dunel nazu khul ezu kalun qemel. Qamaru dunel nazu, tharun wanel zethuar lazet ezu igelar zurenar elu zethat elu qezunet. Khez dunel telu qelmun zethqen nyar telnet elu igelu ez leqar. Alqar nazu lazen. Wanel nazu zethuar. Khez alqar zurenar. Khez zethal nazun temun khez zurenar. Wanel temun khez zethat az gharen. Wanel zethat elu gharen khez temun.]{.nativefont lang=khel}
+2 [Scribe. I was writing. Writing makes a scribe; watching makes a witness. One man cannot perform both simultaneously, or every valley scribe could witness his own entries and no tablet anywhere along the river would deserve trust. There is one of me. I was the scribe. No witness means no entry. Without an entry, your thing stands on ground entered as empty.]{lang=en}
+2 [Razel Zethuar. Zethal nazu. Wanel zethuar zethuar. Wanel zurenar zurenar. Khez dunel nazu khul ezu kalun qemel. Qamaru dunel nazu, tharun wanel zethuar lazet ezu igelar zurenar elu zethat elu qezunet. Khez dunel telu qelmun zethqen nyar telnet elu igelu ez leqar. Alqar nazu lazen. Wanel nazu zethuar. Khez alqar zurenar. Khez zethal nazun temun khez zurenar. Wanel temun khez zethat az gharen. Wanel zethat elu gharen khez temun.]{lang=khel}
 
-"And?"
+1 [Razel Muzanar. Ta sher.]{.nativefont lang=khel}
+2 [Builder. And?]{lang=en}
+2 [Razel Muzanar. Ta sher.]{lang=khel}
 
-"And my tablets are getting wet, and there is a roof on the empty ground, and a roof on empty ground is a roof."
+1 [Razel Zethuar. Waleth zethqen elu nazu qalet. Alqar galzur az gharen khez temun. Wanel galzur az gharen khez temun galzur.]{.nativefont lang=khel}
+2 [Scribe. And my tablets are wetting. A roof covers empty ground. A roof over empty ground is a roof.]{lang=en}
+2 [Razel Zethuar. Waleth zethqen elu nazu qalet. Alqar galzur az gharen khez temun. Wanel galzur az gharen khez temun galzur.]{lang=khel}
 
-_\[The Scribe gathers his satchel, goes to the door, and puts his shoulder to it, and goes in. The Builder stands outside his house. Laughter here; wait for it, and let the Builder look at the benches while it runs.\]_
+***
+```
 
-The Builder stood outside his house for the time it takes a brick to dry. Then he knocked, and nobody answered, and that was the first of those.
+_\[The Scribe collects his bag, shoulders the door open, and enters. The Builder remains outside his house. Wait for laughter; let him look at the benches throughout it.\]_
 
-"Come out," he said through the door. "Write that I built it, and that it is mine, and I will witness it."
+```verse {form=genzat numstep=5 cols=2}
+1 [Tharel Muzanar nazar galar elu saru qethel qezlar galqat. Qezir saru galmun. Khez razal genar qu. Wanel eqar lazret elu temnar eqar.]{.nativefont lang=khel}
+2 [He waited outside for a brick's drying time, knocked, and received no answer: another first.]{lang=en}
+2 [Tharel Muzanar nazar galar elu saru qethel qezlar galqat. Qezir saru galmun. Khez razal genar qu. Wanel eqar lazret elu temnar eqar.]{lang=khel}
 
-"A party cannot witness."
+1 [Razel saru qazir galmun. Yarath telu. Zethal telu muzan nazu qu ta qamarun qu ez nazu. Agu zuren nazu qu.]{.nativefont lang=khel}
+2 [Builder, through the door. Come out. Record my building and ownership. I will witness.]{lang=en}
+2 [Razel saru qazir galmun. Yarath telu. Zethal telu muzan nazu qu ta qamarun qu ez nazu. Agu zuren nazu qu.]{lang=khel}
 
-"Then write it without a witness. Between the two of us."
+1 [Razel Zethuar. Khez dunel qelathar zuren qelqet.]{.nativefont lang=khel}
+2 [Scribe. Parties cannot witness.]{lang=en}
+2 [Razel Zethuar. Khez dunel qelathar zuren qelqet.]{lang=khel}
 
-"Between the two of us? We are brothers."
+1 [Razel Muzanar. Zethal telu khez zurenar. Qarmath nazun khul.]{.nativefont lang=khel}
+2 [Builder. Record it without a witness. Between us.]{lang=en}
+2 [Razel Muzanar. Zethal telu khez zurenar. Qarmath nazun khul.]{lang=khel}
 
-"We are."
+1 [Razel Zethuar. Qarmath nazun khul. Wanel nazun linetun.]{.nativefont lang=khel}
+2 [Scribe. Between brothers?]{lang=en}
+2 [Razel Zethuar. Qarmath nazun khul. Wanel nazun linetun.]{lang=khel}
 
-"And between brothers nothing is written. The tie holds it. If I wrote you a tablet for your own house you would be right to throw it at my head."
+1 [Razel Muzanar. Enu.]{.nativefont lang=khel}
+2 [Builder. We are brothers.]{lang=en}
+2 [Razel Muzanar. Enu.]{lang=khel}
 
-"I am going to throw something at your head."
+1 [Razel Zethuar. Khez zethal nazun temun qarmath linetun. Lagath halzel qu. Qamaru zethal nazu zethqen ez telu qaral galar elu qezunet, tharun wanel qezqath elu telu ez qarnet elu nazu qenqethet.]{.nativefont lang=khel}
+2 [Scribe. Brothers write nothing between themselves. Their tie holds it. Give you a tablet for your own house, and you could rightly throw it at my head.]{lang=en}
+2 [Razel Zethuar. Khez zethal nazun temun qarmath linetun. Lagath halzel qu. Qamaru zethal nazu zethqen ez telu qaral galar elu qezunet, tharun wanel qezqath elu telu ez qarnet elu nazu qenqethet.]{lang=khel}
 
-"Then throw it. That is between brothers also, and nobody writes that down either."
+1 [Razel Muzanar. Qaruth nazu qezqath temun ez qarnet elu telu.]{.nativefont lang=khel}
+2 [Builder. Something is going toward your head.]{lang=en}
+2 [Razel Muzanar. Qaruth nazu qezqath temun ez qarnet elu telu.]{lang=khel}
 
-The Builder sat on his own step. He thought about it as a builder thinks, which is to say he looked at it from four sides.
+1 [Razel Zethuar. Qezqath telu qu. Wanel eqar tan qarmath linetun. Khez zethal genar qu tan.]{.nativefont lang=khel}
+2 [Scribe. Throw it. Brothers do that too, without recording it.]{lang=en}
+2 [Razel Zethuar. Qezqath telu qu. Wanel eqar tan qarmath linetun. Khez zethal genar qu tan.]{lang=khel}
 
-"Then I am a stranger," he said. "Enter me as a stranger. A stranger built a house and a stranger moved into it, and there is a suit."
+***
+1 [Galel Muzanar az zengel elu qezunet. Rethas saru qu qel muzanar, renan zurat saru qu nyar tarmil tuzar.]{.nativefont lang=khel}
+2 [The Builder sat on his step and thought like a builder: he inspected the problem from four sides.]{lang=en}
+2 [Galel Muzanar az zengel elu qezunet. Rethas saru qu qel muzanar, renan zurat saru qu nyar tarmil tuzar.]{lang=khel}
 
-"You cannot be a stranger. You are my brother."
+1 [Razel saru. Wanel nazu rethnar tharun. Zethal telu nazu rethnar. Muzan rethnar galar. Galun rethnar qu. Alqar genzat.]{.nativefont lang=khel}
+2 [Builder. Make me a stranger. Enter two strangers: one built a house, one occupied it. A lawsuit.]{lang=en}
+2 [Razel saru. Wanel nazu rethnar tharun. Zethal telu nazu rethnar. Muzan rethnar galar. Galun rethnar qu. Alqar genzat.]{lang=khel}
 
-"Since when?"
+1 [Razel Zethuar. Khez dunel telu wanel rethnar. Wanel telu linetun elu nazu.]{.nativefont lang=khel}
+2 [Scribe. You cannot be a stranger. You are my brother.]{lang=en}
+2 [Razel Zethuar. Khez dunel telu wanel rethnar. Wanel telu linetun elu nazu.]{lang=khel}
 
-"Since before there was a when. Look it up."
+1 [Razel Muzanar. Narel sher kalun.]{.nativefont lang=khel}
+2 [Builder. Since when?]{lang=en}
+2 [Razel Muzanar. Narel sher kalun.]{lang=khel}
 
-"In what?"
+1 [Razel Zethuar. Narel kalun mar alqar kalun. Zurat telu qu ezu zethu.]{.nativefont lang=khel}
+2 [Scribe. Before when existed. Look it up.]{lang=en}
+2 [Razel Zethuar. Narel kalun mar alqar kalun. Zurat telu qu ezu zethu.]{lang=khel}
 
-"In nothing. I have not written it. There are two entries in the world and one of them is wrong, and it is not the one about the mound."
+1 [Razel Muzanar. Ezu sher.]{.nativefont lang=khel}
+2 [Builder. Where?]{lang=en}
+2 [Razel Muzanar. Ezu sher.]{lang=khel}
 
-"Then we go to the scale."
+1 [Razel Zethuar. Ezu khezan. Khez zethal nazu qu. Alqar zethat khul ezu gharen temun. Khez wanel lazen qenlet. Khez wanel qu zethat elu yathar.]{.nativefont lang=khel}
+2 [Scribe. Nowhere. I never wrote it. The world's two entries include one wrong entry. The mound entry is correct.]{lang=en}
+2 [Razel Zethuar. Ezu khezan. Khez zethal nazu qu. Alqar zethat khul ezu gharen temun. Khez wanel lazen qenlet. Khez wanel qu zethat elu yathar.]{lang=khel}
 
-"There is no court."
+1 [Razel Muzanar. Yarul nazun ez halzat tharun.]{.nativefont lang=khel}
+2 [Builder. Then to the scale.]{lang=en}
+2 [Razel Muzanar. Yarul nazun ez halzat tharun.]{lang=khel}
 
-"Then she will sit on the ground. She sat on the water before there was ground. She will manage a mound."
+1 [Razel Zethuar. Khez alqar Genzet.]{.nativefont lang=khel}
+2 [Scribe. No court exists.]{lang=en}
+2 [Razel Zethuar. Khez alqar Genzet.]{lang=khel}
+
+1 [Razel Muzanar. Galel sari az gharen tharun. Galel sari az qalu mar alqar gharen. Dunel sari tamel yathar.]{.nativefont lang=khel}
+2 [Builder. She can sit on ground. Before ground she sat on water. A mound will do.]{lang=en}
+2 [Razel Muzanar. Galel sari az gharen tharun. Galel sari az qalu mar alqar gharen. Dunel sari tamel yathar.]{lang=khel}
+
+***
+```
 
 ## The Court
 
-_\[The Scale's chair is carried in: two boys with the beam on a pole between them, who set it down and then stand either side of the chair for the whole hearing and do not move. The Scale does not move either. Whoever plays the Scale does not drink until the song. The drum rests at her name, and rests longer than at the others.\]_
+_\[Two boys carry the Scale's chair with its beam on a pole between them. They set it down and remain motionless, one on either side, for the entire hearing. The Scale also stays motionless. Her player drinks nothing before the song. The drum pauses at her name longer than at others.\]_
 
-Qe'aret came and sat on the mound with the beam before her and the two tablets level on it. She had laid law on the dark before there was ground to lay it on, and a mound was ground, and ground would do. The two brothers came before her, and the door came too, because the man was still in it.
+```verse {form=genzat numstep=5 cols=2}
+1 [Yaler Qe'aret ta galel sari az yathar. Wanel halzathal zamar sari. Wanel zethqen khul qemlun az qu. Qalath sari qathnetun az zekhot mar alqar gharen ez qalath qu. Wanel yathar gharen. Wanel gharen qemet. Yaler linetun khul zamar sari. Yaler galmun tan qaral thalal genar ezu qu.]{.nativefont lang=khel}
+2 [Qe'aret sat on the mound, beam before her, two tablets level upon it. She had placed law upon darkness before ground existed. A mound was ground enough. Both brothers approached. So did the door, its man still inside.]{lang=en}
+2 [Yaler Qe'aret ta galel sari az yathar. Wanel halzathal zamar sari. Wanel zethqen khul qemlun az qu. Qalath sari qathnetun az zekhot mar alqar gharen ez qalath qu. Wanel yathar gharen. Wanel gharen qemet. Yaler linetun khul zamar sari. Yaler galmun tan qaral thalal genar ezu qu.]{lang=khel}
 
-"Who is the plaintiff?"
+***
+1 [Razel Halzat. Wanel genar elu qarazel shel.]{.nativefont lang=khel}
+2 [Scale. Who brings the claim?]{lang=en}
+2 [Razel Halzat. Wanel genar elu qarazel shel.]{lang=khel}
 
-"He is," said both of them.
+1 [Razel naru khul. Saru.]{.nativefont lang=khel}
+2 [Both. He does.]{lang=en}
+2 [Razel naru khul. Saru.]{lang=khel}
 
-"Which hand?"
+1 [Razel Halzat. Thalmu shal.]{.nativefont lang=khel}
+2 [Scale. Which hand?]{lang=en}
+2 [Razel Halzat. Thalmu shal.]{lang=khel}
 
-"The right," said the Builder.
+1 [Razel Muzanar. Tarmal.]{.nativefont lang=khel}
+2 [Builder. Right.]{lang=en}
+2 [Razel Muzanar. Tarmal.]{lang=khel}
 
-"She means the hand the entry is in," said the Scribe. "The sacred hand or the people's."
+1 [Razel Zethuar. Qaruth sari thalmu elu zethat. Khelathi-zethu lu Qalezu.]{.nativefont lang=khel}
+2 [Scribe. She asks the entry's hand: sacred or ordinary.]{lang=en}
+2 [Razel Zethuar. Qaruth sari thalmu elu zethat. Khelathi-zethu lu Qalezu.]{lang=khel}
 
-"There is one hand," said the Builder, "and it is yours, and you have not used it."
+1 [Razel Muzanar. Alqar thalmu lazen. Wanel qu elu telu. Khez tamel telu qu.]{.nativefont lang=khel}
+2 [Builder. There is one hand. Yours. Unused.]{lang=en}
+2 [Razel Muzanar. Alqar thalmu lazen. Wanel qu elu telu. Khez tamel telu qu.]{lang=khel}
 
-"There are two," said the Scribe, "and I keep them apart."
+1 [Razel Zethuar. Alqar khul. Lagath nazu naru khezan qemel.]{.nativefont lang=khel}
+2 [Scribe. There are two. I distinguish them.]{lang=en}
+2 [Razel Zethuar. Alqar khul. Lagath nazu naru khezan qemel.]{lang=khel}
 
-"The entry," said the Scale.
+1 [Razel Halzat. Zethat.]{.nativefont lang=khel}
+2 [Scale. The entry.]{lang=en}
+2 [Razel Halzat. Zethat.]{lang=khel}
 
-"There is no entry," said the Scribe.
+1 [Razel Zethuar. Khez alqar zethat.]{.nativefont lang=khel}
+2 [Scribe. None exists.]{lang=en}
+2 [Razel Zethuar. Khez alqar zethat.]{lang=khel}
 
-"Then what is before me?"
+1 [Razel Halzat. Alqar sher zamar nazu tharun.]{.nativefont lang=khel}
+2 [Scale. Then what stands before me?]{lang=en}
+2 [Razel Halzat. Alqar sher zamar nazu tharun.]{lang=khel}
 
-"A house," said the Builder.
+1 [Razel Muzanar. Galar.]{.nativefont lang=khel}
+2 [Builder. A house.]{lang=en}
+2 [Razel Muzanar. Galar.]{lang=khel}
 
-"A house is not before me. An entry is before me, or nothing is. Who wrote the entry?"
+1 [Razel Halzat. Khez alqar galar zamar nazu. Alqar zethat zamar nazu, lu khezan. Zethal shel zethat.]{.nativefont lang=khel}
+2 [Scale. An entry stands before me, or nothing. Who wrote it?]{lang=en}
+2 [Razel Halzat. Khez alqar galar zamar nazu. Alqar zethat zamar nazu, lu khezan. Zethal shel zethat.]{lang=khel}
 
-"Nobody. I am a party."
+1 [Razel Zethuar. Khezan. Wanel nazu qelathar.]{.nativefont lang=khel}
+2 [Scribe. Nobody. I am a party.]{lang=en}
+2 [Razel Zethuar. Khezan. Wanel nazu qelathar.]{lang=khel}
 
-"The scribe of the gods is a party."
+1 [Razel Halzat. Wanel zethuar elu nelgiru qelathar.]{.nativefont lang=khel}
+2 [Scale. The gods' scribe is a party?]{lang=en}
+2 [Razel Halzat. Wanel zethuar elu nelgiru qelathar.]{lang=khel}
 
-"Today."
+1 [Razel Zethuar. Kalzu.]{.nativefont lang=khel}
+2 [Scribe. Today.]{lang=en}
+2 [Razel Zethuar. Kalzu.]{lang=khel}
 
-"Then nobody can write today."
+1 [Razel Halzat. Khez dunel genar zethal kalzu tharun.]{.nativefont lang=khel}
+2 [Scale. Then nobody can write today.]{lang=en}
+2 [Razel Halzat. Khez dunel genar zethal kalzu tharun.]{lang=khel}
 
-"Then make him not a party," said the Builder.
+1 [Razel Muzanar. Temal telu saru khez qelathar tharun.]{.nativefont lang=khel}
+2 [Builder. Make him cease being a party.]{lang=en}
+2 [Razel Muzanar. Temal telu saru khez qelathar tharun.]{lang=khel}
 
-"I do not do making. I do the scale. Stand where you belong. The plaintiff on my right. The defendant on my left."
+1 [Razel Halzat. Khez temal nazu. Tamel nazu halzat. Tharel telu az garel elu telu. Genar elu qarazel az tarmal elu nazu. Genar elu qaraznet az tarmil elu nazu.]{.nativefont lang=khel}
+2 [Scale. I operate the scale; I make nothing. Stand in your places. Plaintiff on my right, defendant on my left.]{lang=en}
+2 [Razel Halzat. Khez temal nazu. Tamel nazu halzat. Tharel telu az garel elu telu. Genar elu qarazel az tarmal elu nazu. Genar elu qaraznet az tarmil elu nazu.]{lang=khel}
 
-_\[They go to her right. They go to her left. They go round the back of the chair and meet. The beam-boys do not move.\]_
+***
+```
 
-"Stand still," said the Scale. "You are on both sides of me, and I have two."
+_\[Both move right, then left, around the chair's back, and meet. The beam-boys remain still.\]_
 
-"Call the witness," said the Builder.
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Halzat. Tharel telu khez qalur. Wanel telu az tarmil ta tarmal elu nazu. Qamar nazu khul.]{.nativefont lang=khel}
+2 [Scale. Stay still. You occupy both my sides. I have two.]{lang=en}
+2 [Razel Halzat. Tharel telu khez qalur. Wanel telu az tarmil ta tarmal elu nazu. Qamar nazu khul.]{lang=khel}
 
-"There is nobody," said the Scribe. "There is nobody anywhere. You keep forgetting that."
+1 [Razel Muzanar. Razer telu zurenar.]{.nativefont lang=khel}
+2 [Builder. Summon the witness.]{lang=en}
+2 [Razel Muzanar. Razer telu zurenar.]{lang=khel}
 
-"I call the door."
+1 [Razel Zethuar. Khez alqar genar. Khez alqar genar az garun temun. Rethuth telu eqar yalret.]{.nativefont lang=khel}
+2 [Scribe. Nobody exists anywhere. You keep forgetting.]{lang=en}
+2 [Razel Zethuar. Khez alqar genar. Khez alqar genar az garun temun. Rethuth telu eqar yalret.]{lang=khel}
 
-_\[The man with the door-frame comes forward and sets it down before the chair. The Scale looks at it. When it is asked, the door is opened, and it sticks, and it is opened with a shoulder, and it creaks. That is its evidence. Hold it while the laughter runs.\]_
+1 [Razel Muzanar. Razer nazu galmun.]{.nativefont lang=khel}
+2 [Builder. I summon the door.]{lang=en}
+2 [Razel Muzanar. Razer nazu galmun.]{lang=khel}
 
-"The door is heard," said the Scale. "It says what a door says."
+***
+```
 
-"A door cannot attest," said the Scribe. "A door cannot stand at a Reading and say _I require no more_."
+_\[Its man advances and sets the frame before the chair. The Scale inspects it. When questioned, the door sticks, opens under a shoulder, and creaks its evidence. Hold through laughter.\]_
 
-"Nobody is asking it to release anybody. It is asked whether it was hung. It was hung. You heard it."
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Halzat. Khashath nazun galmun. Razel qu qel galmun.]{.nativefont lang=khel}
+2 [Scale. We have heard the door. It speaks as doors do.]{lang=en}
+2 [Razel Halzat. Khashath nazun galmun. Razel qu qel galmun.]{lang=khel}
 
-"Then I call the brick, which will say that it was made by hands, and will not say whose, because a brick cannot tell one god's hands from another's and neither can anybody else."
+1 [Razel Zethuar. Khez dunel galmun rethal. Khez dunel galmun tharel az Zethulnet ta razel khez tamral nazu tazir.]{.nativefont lang=khel}
+2 [Scribe. Doors cannot attest. None can stand at a Reading and say, I need nothing further.]{lang=en}
+2 [Razel Zethuar. Khez dunel galmun rethal. Khez dunel galmun tharel az Zethulnet ta razel khez tamral nazu tazir.]{lang=khel}
 
-"The brick is heard," said the Scale. "Lay your evidence on the scale, and I will weigh it, and we will see."
+1 [Razel Halzat. Khez razal genar qu wazal genar. Razal genar qe qalath genar qu az qezqar. Qalath genar qu. Khashath telu qu.]{.nativefont lang=khel}
+2 [Scale. Nobody seeks its release of a person. We asked whether it was hung. It was. You heard.]{lang=en}
+2 [Razel Halzat. Khez razal genar qu wazal genar. Razal genar qe qalath genar qu az qezqar. Qalath genar qu. Khashath telu qu.]{lang=khel}
 
-_\[The Builder lays a brick in the left pan. The Scribe lays a tablet in the right. The beam-boys tilt the pole to the brick's side, and keep it there.\]_
+1 [Razel Zethuar. Razer nazu galqat tharun. Agu razel qu temal thalmu qu. Khez razel qu elu shel. Khez dunel galqat rethal thalmu elu nelgir lazen nyar leqar. Khez dunel genar leqar tan.]{.nativefont lang=khel}
+2 [Scribe. Then I summon the brick. It will admit being handmade without identifying the hands. No brick distinguishes divine hands; neither does anyone else.]{lang=en}
+2 [Razel Zethuar. Razer nazu galqat tharun. Agu razel qu temal thalmu qu. Khez razel qu elu shel. Khez dunel galqat rethal thalmu elu nelgir lazen nyar leqar. Khez dunel genar leqar tan.]{lang=khel}
 
-The brick was heavier than the tablet. The Scribe looked at the pans, and then he took the tablet back, and wrote a great deal more on it, very small, and put it back. The beam stayed where it was.
+1 [Razel Halzat. Khashath nazun galqat. Qalath telu mervel az halzat. Agu halzath nazu qu. Agu zuren nazun.]{.nativefont lang=khel}
+2 [Scale. We have heard the brick. Set your evidence on the scale for weighing. We shall see.]{lang=en}
+2 [Razel Halzat. Khashath nazun galqat. Qalath telu mervel az halzat. Agu halzath nazu qu. Agu zuren nazun.]{lang=khel}
 
-"The scale weighs the clay," said the Scale. "It does not weigh the words."
+***
+```
 
-"Then the scale cannot read."
+_\[Builder places a brick in the left pan; Scribe places a tablet in the right. Beam-boys tip toward the brick and hold there.\]_
 
-"The scale does not read. The scale does the scale."
+```verse {form=genzat numstep=5 cols=2}
+1 [Wanel galqat qemur shar zethqen. Zurat Zethuar qalqat. Lamath saru zethqen yalret. Zethal saru temun tazun az qu qemath qelzuthil. Qalath saru qu yalret. Thalal halzathal az garel qemel.]{.nativefont lang=khel}
+2 [The brick outweighed the tablet. The Scribe inspected both pans, retrieved his tablet, added quantities of tiny writing, and replaced it. The beam stayed tilted.]{lang=en}
+2 [Wanel galqat qemur shar zethqen. Zurat Zethuar qalqat. Lamath saru zethqen yalret. Zethal saru temun tazun az qu qemath qelzuthil. Qalath saru qu yalret. Thalal halzathal az garel qemel.]{lang=khel}
 
-So the Builder laid a second brick on the first, and the Scribe laid a second tablet on the first, and the Builder laid on a third, and the Scribe laid on three more because they were lighter, and the pans came down to the floor of the mound and the stacks went up from them, and the beam would not settle, and the mound began to tilt toward the heavier side.
+1 [Razel Halzat. Halzath halzat qedmal. Khez halzath qu raznet.]{.nativefont lang=khel}
+2 [Scale. Clay is weighed. Words are not.]{lang=en}
+2 [Razel Halzat. Halzath halzat qedmal. Khez halzath qu raznet.]{lang=khel}
 
-_\[The boys behind the painted water lean the cloth. All the players lean. The front benches lean of themselves. If the beam-boys lean, they are not paid.\]_
+1 [Razel Zethuar. Khez dunel halzat zethul tharun.]{.nativefont lang=khel}
+2 [Scribe. Then your scale cannot read.]{lang=en}
+2 [Razel Zethuar. Khez dunel halzat zethul tharun.]{lang=khel}
 
-"Plead," said the Scale, "before the ground goes over. The Scribe first, because he was here first, and has the tablets to prove it."
+1 [Razel Halzat. Khez zethul halzat. Tamel halzat halzat.]{.nativefont lang=khel}
+2 [Scale. Reading is outside its business. Its business is weighing.]{lang=en}
+2 [Razel Halzat. Khez zethul halzat. Tamel halzat halzat.]{lang=khel}
+
+***
+1 [Qalath Muzanar galqat khulret zar lazret. Qalath Zethuar zethqen khulret zar lazret. Qalath Muzanar galqat ezu garel elu khemu. Qalath Zethuar zethqen khemu tan qaral qemir naru. Yaler qalqat nizar ez gharen elu yathar. Yaler qalmar zar nyar naru. Khez qemaz halzathal. Thaleth yathar ez tarmil qemur.]{.nativefont lang=khel}
+2 [The Builder added a second brick, the Scribe a second tablet; a third brick followed, answered by three lighter tablets. Pans descended to the mound floor while their stacks rose. The beam refused to settle. The mound started tipping toward the greater weight.]{lang=en}
+2 [Qalath Muzanar galqat khulret zar lazret. Qalath Zethuar zethqen khulret zar lazret. Qalath Muzanar galqat ezu garel elu khemu. Qalath Zethuar zethqen khemu tan qaral qemir naru. Yaler qalqat nizar ez gharen elu yathar. Yaler qalmar zar nyar naru. Khez qemaz halzathal. Thaleth yathar ez tarmil qemur.]{lang=khel}
+
+***
+```
+
+_\[Boys behind the painted water tilt its cloth. Every player leans. Front benches lean spontaneously. Leaning beam-boys receive no pay.\]_
+
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Halzat. Razel telu qarazel mar qarnel gharen. Zethuar lazret qaral alqar saru zun mar leqar. Qamar saru zethqen ez mervel.]{.nativefont lang=khel}
+2 [Scale. Plead before the ground overturns. Scribe first: earliest arrival, with documentary proof.]{lang=en}
+2 [Razel Halzat. Razel telu qarazel mar qarnel gharen. Zethuar lazret qaral alqar saru zun mar leqar. Qamar saru zethqen ez mervel.]{lang=khel}
+
+***
+```
 
 : The Scribe's Pleading {#pleading-scribe}
 
-```verse {form=genzat lang=en}
-Let the account be read as it stands, and let nothing unwritten be read.
-First entry. Ground. Empty.
-Witnessed by the water, which was there, and does not count.
-Second entry. Ground. Still empty. A roof on it. The scribe in residence.
-Of the house, no entry: no party, no witness, no promise, no outcome.
-What is not entered is not before the court.
-What is not before the court is not a house.
-What is not a house, and has a roof, is a roof,
-and a roof on empty ground is a roof on empty ground,
-and I am under it, and my tablets are dry.
-Show me the entry, and I will show you which door shuts it.
-He says he built it. He says it with his mouth. Where is the tablet?
-I would have written it. I was not asked. I was writing.
-If making a thing made it yours there would be no need of me,
-and every bricklayer in the valley would own the house he laid,
-and the lord of it would be sleeping in the road with his dogs.
-Let the court find that the ground is empty, and the roof is mine,
-and that my brother is a stranger for the length of this hearing and no longer,
-since I have to eat with him afterward.
+```verse {form=genzat numstep=5 cols=2}
+1 [Zethul telu halzi qel wanel qu. Khez zethul telu temun khez zethu.]{.nativefont lang=khel}
+2 [Read the account exactly. Read nothing unwritten.]{lang=en}
+2 [Zethul telu halzi qel wanel qu. Khez zethul telu temun khez zethu.]{lang=khel}
+
+1 [Zethat lazret. Gharen. Khez temun.]{.nativefont lang=khel}
+2 [Entry one. Ground. Empty.]{lang=en}
+2 [Zethat lazret. Gharen. Khez temun.]{lang=khel}
+
+1 [Zuren qalu qu. Alqar qalu zun. Khez qemet qu.]{.nativefont lang=khel}
+2 [Water witnessed it, being present, and does not qualify.]{lang=en}
+2 [Zuren qalu qu. Alqar qalu zun. Khez qemet qu.]{lang=khel}
+
+1 [Zethat khulret. Gharen. Thalal khez temun. Galzur az qu. Algun zethuar ezu qu.]{.nativefont lang=khel}
+2 [Entry two. Ground. Still empty. Roof above. Scribe resident.]{lang=en}
+2 [Zethat khulret. Gharen. Thalal khez temun. Galzur az qu. Algun zethuar ezu qu.]{lang=khel}
+
+1 [Khez alqar zethat elu galar. Khez qelathar, khez zurenar, khez qelqet, khez qelqarnat.]{.nativefont lang=khel}
+2 [No house entry: neither party, witness, promise, nor outcome.]{lang=en}
+2 [Khez alqar zethat elu galar. Khez qelathar, khez zurenar, khez qelqet, khez qelqarnat.]{lang=khel}
+
+1 [Khez wanel temun khez zethat zamar Genzet.]{.nativefont lang=khel}
+2 [An unentered thing stands outside this court.]{lang=en}
+2 [Khez wanel temun khez zethat zamar Genzet.]{lang=khel}
+
+1 [Khez wanel temun khez zamar Genzet galar.]{.nativefont lang=khel}
+2 [A thing outside this court is no house.]{lang=en}
+2 [Khez wanel temun khez zamar Genzet galar.]{lang=khel}
+
+1 [Wanel temun khez galar ta qamar galzur galzur.]{.nativefont lang=khel}
+2 [A roofed thing that is no house is a roof.]{lang=en}
+2 [Wanel temun khez galar ta qamar galzur galzur.]{lang=khel}
+
+1 [Wanel galzur az gharen khez temun galzur az gharen khez temun.]{.nativefont lang=khel}
+2 [A roof on vacant ground is a roof on vacant ground.]{lang=en}
+2 [Wanel galzur az gharen khez temun galzur az gharen khez temun.]{lang=khel}
+
+1 [Wanel nazu nuqar qu. Wanel zethqen elu nazu qezlet.]{.nativefont lang=khel}
+2 [I am beneath it. My tablets stay dry.]{lang=en}
+2 [Wanel nazu nuqar qu. Wanel zethqen elu nazu qezlet.]{lang=khel}
+
+1 [Zhelath telu zethat ez nazu. Agu zhelath nazu galmun. Galath qu zethat ez telu.]{.nativefont lang=khel}
+2 [Show the entry; I will identify its closing door.]{lang=en}
+2 [Zhelath telu zethat ez nazu. Agu zhelath nazu galmun. Galath qu zethat ez telu.]{lang=khel}
+
+1 [Razel saru muzan saru qu. Razel saru qer elu lamur. Wanel zethqen az sher garun.]{.nativefont lang=khel}
+2 [His mouth claims he built it. Where is the tablet?]{lang=en}
+2 [Razel saru muzan saru qu. Razel saru qer elu lamur. Wanel zethqen az sher garun.]{lang=khel}
+
+1 [Agu zethal nazu qu. Khez razal genar nazu. Zethal nazu.]{.nativefont lang=khel}
+2 [I could have written. Nobody asked. I was writing.]{lang=en}
+2 [Agu zethal nazu qu. Khez razal genar nazu. Zethal nazu.]{lang=khel}
+
+1 [Qamaru qamnet yarul ez temalar, tharun khez tamral genar nazu.]{.nativefont lang=khel}
+2 [If making established ownership, who would need me?]{lang=en}
+2 [Qamaru qamnet yarul ez temalar, tharun khez tamral genar nazu.]{lang=khel}
+
+1 [Qamarun galar temun ezu igelar ez galthar elu galqat.]{.nativefont lang=khel}
+2 [Every valley bricklayer would own his buildings.]{lang=en}
+2 [Qamarun galar temun ezu igelar ez galthar elu galqat.]{lang=khel}
+
+1 [Shamel lemunar elu qu ezu hodir ta khanur elu saru.]{.nativefont lang=khel}
+2 [Their lords would sleep on roads beside their dogs.]{lang=en}
+2 [Shamel lemunar elu qu ezu hodir ta khanur elu saru.]{lang=khel}
+
+1 [Wanel qarun elu nazu ez Genzet. Gharen khez temun. Galzur elu nazu.]{.nativefont lang=khel}
+2 [Find the ground vacant and the roof mine.]{lang=en}
+2 [Wanel qarun elu nazu ez Genzet. Gharen khez temun. Galzur elu nazu.]{lang=khel}
+
+1 [Wanel linetun elu nazu rethnar laz ezu kalun elu khashnet eqar.]{.nativefont lang=khel}
+2 [Find my brother a stranger for this hearing alone.]{lang=en}
+2 [Wanel linetun elu nazu rethnar laz ezu kalun elu khashnet eqar.]{lang=khel}
+
+1 [Qelan nazu tamul ta saru mer qu·]{.nativefont lang=khel}
+2 [We must eat together afterward.]{lang=en}
+2 [Qelan nazu tamul ta saru mer qu·]{lang=khel}
+
+***
 ```
 
 : The Builder's Pleading {#pleading-builder}
 
-```verse {form=genzat lang=en}
-I did not write it. I made it. Writing is his.
-I set a brick on a brick, and a brick on those.
-The wall is the witness. It stood there the whole time.
-Ask the wall who laid it. The wall says nothing. The wall is loyal.
-Ask the door. The door has spoken. It sticks for me and it sticks for him. It is an honest door.
-He says I should have had it entered. By whom? He is the entering.
-He sat with his feet in the water and wrote _empty_
-while I carried mud past the back of his head thirty times.
-Thirty times, and thirty, and thirty on those. He saw me each time.
-He says he did not see. He says he was writing.
-A god who writes _empty_ with a wall going up behind him has written a lie,
-and he is the god of the record, and the first lie in the record is his,
-and I want that entered, and I want it entered by him.
-Let the court find that the house is mine, since there was no house and then I had made one.
-Let it find that the ground is not empty, since I am standing on it, with bricks.
-And let the scale weigh one brick against whatever he has got,
-and see which way it goes.
+```verse {form=genzat numstep=5 cols=2}
+1 [Khez zethal nazu qu. Temal nazu qu. Wanel zethalnet elu saru.]{.nativefont lang=khel}
+2 [I made it. He handles writing.]{lang=en}
+2 [Khez zethal nazu qu. Temal nazu qu. Wanel zethalnet elu saru.]{lang=khel}
+
+1 [Qalath nazu galqat zar galqat ta galqat zar naru.]{.nativefont lang=khel}
+2 [Brick on brick, then another above them.]{lang=en}
+2 [Qalath nazu galqat zar galqat ta galqat zar naru.]{lang=khel}
+
+1 [Wanel galzat zurenar. Tharel qu zun ezu kalun temun.]{.nativefont lang=khel}
+2 [The wall witnessed everything, standing throughout.]{lang=en}
+2 [Wanel galzat zurenar. Tharel qu zun ezu kalun temun.]{lang=khel}
+
+1 [Razal telu galzat shel qalath qu. Khez razel galzat temun. Wanel qu qelmunet.]{.nativefont lang=khel}
+2 [Ask who built it. It stays silent, a loyal wall.]{lang=en}
+2 [Razal telu galzat shel qalath qu. Khez razel galzat temun. Wanel qu qelmunet.]{lang=khel}
+
+1 [Razal telu galmun. Razel qu. Qezmer qu ez nazu ta ez saru. Wanel qu galmun qenlet.]{.nativefont lang=khel}
+2 [The door has spoken. It sticks equally for both, honestly.]{lang=en}
+2 [Razal telu galmun. Razel qu. Qezmer qu ez nazu ta ez saru. Wanel qu galmun qenlet.]{lang=khel}
+
+1 [Razel saru qelan nazu zethal qu. Zethal shel. Wanel saru zethalnet.]{.nativefont lang=khel}
+2 [He demands an entry. Made by whom? He embodies entry-making.]{lang=en}
+2 [Razel saru qelan nazu zethal qu. Zethal shel. Wanel saru zethalnet.]{lang=khel}
+
+1 [Galel saru ta wanel pedar ezu qalu. Zethal saru khez temun.]{.nativefont lang=khel}
+2 [Feet in water, he wrote Empty]{lang=en}
+2 [Galel saru ta wanel pedar ezu qalu. Zethal saru khez temun.]{lang=khel}
+
+1 [Tuqath nazu qedmal nazar qarnet elu saru az kalet 30.]{.nativefont lang=khel}
+2 [while I carried mud behind his head thirty times.]{lang=en}
+2 [Tuqath nazu qedmal nazar qarnet elu saru az kalet 30.]{lang=khel}
+
+1 [30 az kalet ta 30 ta 30 zar naru. Zuren saru nazu az kalet temun.]{.nativefont lang=khel}
+2 [Thirty, thirty, thirty above: every time he saw me.]{lang=en}
+2 [30 az kalet ta 30 ta 30 zar naru. Zuren saru nazu az kalet temun.]{lang=khel}
+
+1 [Razel saru khez zuren saru. Razel saru zethal saru.]{.nativefont lang=khel}
+2 [He denies seeing because he was writing.]{lang=en}
+2 [Razel saru khez zuren saru. Razel saru zethal saru.]{lang=khel}
+
+1 [Zethal nelgir razqet, wanel galzat zar nazar saru ta zethal saru khez temun.]{.nativefont lang=khel}
+2 [A god entering Empty while a wall rises behind him enters a lie.]{lang=en}
+2 [Zethal nelgir razqet, wanel galzat zar nazar saru ta zethal saru khez temun.]{lang=khel}
+
+1 [Wanel saru nelgir elu zethu. Wanel razqet lazret ezu zethu elu saru.]{.nativefont lang=khel}
+2 [The record's god owns the record's first lie.]{lang=en}
+2 [Wanel saru nelgir elu zethu. Wanel razqet lazret ezu zethu elu saru.]{lang=khel}
+
+1 [Tamral nazu zethalnet elu eqar. Tamral nazu zethal saru qu.]{.nativefont lang=khel}
+2 [Enter that. Have him enter it.]{lang=en}
+2 [Tamral nazu zethalnet elu eqar. Tamral nazu zethal saru qu.]{lang=khel}
+
+1 [Wanel qarun elu nazu ez Genzet. Galar elu nazu, qaral khez alqar galar mar muzan nazu lazen.]{.nativefont lang=khel}
+2 [Find the house mine: none existed until I made one.]{lang=en}
+2 [Wanel qarun elu nazu ez Genzet. Galar elu nazu, qaral khez alqar galar mar muzan nazu lazen.]{lang=khel}
+
+1 [Wanel gharen khez khez temun, qaral tharel nazu az qu ta galqat.]{.nativefont lang=khel}
+2 [Find the ground occupied: I stand here carrying bricks.]{lang=en}
+2 [Wanel gharen khez khez temun, qaral tharel nazu az qu ta galqat.]{lang=khel}
+
+1 [Halzath halzat galqat lazen qarmath qu ta temun elu saru.]{.nativefont lang=khel}
+2 [Weigh one brick against all his possessions.]{lang=en}
+2 [Halzath halzat galqat lazen qarmath qu ta temun elu saru.]{lang=khel}
+
+1 [Zuren nazun yarul halzathal ez tarmil shal·]{.nativefont lang=khel}
+2 [Watch which way it moves.]{lang=en}
+2 [Zuren nazun yarul halzathal ez tarmil shal·]{lang=khel}
+
+***
 ```
 
 ## The Beer
 
-_\[Thuba'i enters from the kitchen side with a jar on each hip and a boy behind him with a third. He is the fattest player the collective has, and if he is not fat he is padded. He speaks to the benches as much as to the court. The drum rests at his name, and he waits for it, because he likes it.\]_
+_\[Thuba'i enters from the kitchen with jars against both hips. A boy follows with the third. Use the collective's fattest player, padding him if necessary. Address benches as readily as court. Pause the drum at his name. He waits because he enjoys it.\]_
 
-[[lore-thubaidty|Thuba'i]] had heard the pleading from the kitchen, where he was, and he came out to see what was being bought.
+```verse {form=genzat numstep=5 cols=2}
+1 [Khashath Thuba'i qarazelnet nyar temgal. Yarath saru ez zuren sher qamar qenmet.]{.nativefont lang=khel}
+2 [Thuba'i had heard the pleading from his kitchen and emerged to inspect the purchase.]{lang=en}
+2 [Khashath Thuba'i qarazelnet nyar temgal. Yarath saru ez zuren sher qamar qenmet.]{lang=khel}
 
-"Is this a hearing? I can hear it from the kitchen. Nobody pleads dry; the throat closes and the case goes with it. Builder, a jar. It is on account. Scribe, a jar. On account. You will know how to enter it."
+***
+1 [Razel saru. Qe wanel eqar khashnet. Dunel nazu khashath qu nyar temgal. Khez razel genar qarazel qezlet. Galath lazmar ta yarul genzat ta qu. Muzanar, qallun. Ezu halzi. Zethuar, qallun. Ezu halzi. Rethal telu zethal qu.]{.nativefont lang=khel}
+2 [Thuba'i. A hearing? I hear it from the kitchen. Dry pleading shuts the throat and loses the case. Builder, a jar, on account. Scribe, another, on account. You know how to enter it.]{lang=en}
+2 [Razel saru. Qe wanel eqar khashnet. Dunel nazu khashath qu nyar temgal. Khez razel genar qarazel qezlet. Galath lazmar ta yarul genzat ta qu. Muzanar, qallun. Ezu halzi. Zethuar, qallun. Ezu halzi. Rethal telu zethal qu.]{lang=khel}
 
-_\[He is paid by the Builder.\]_
+```
 
-"I am with the Builder. Look at those arms. A god who can carry mud past his brother's head thirty times is a god who can carry a feast."
+_\[The Builder pays.\]_
 
-_\[He is paid by the Scribe.\]_
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Thuba'i. Wanel nazu ta Muzanar. Zurat telu thulun eqar. Wanel nelgir. Tuqath saru qedmal nazar qarnet elu linetun az kalet 30 nelgir. Dunel saru tuqath qelmar.]{.nativefont lang=khel}
+2 [Thuba'i. I side with the Builder. Those arms! Carry mud behind a brother's head thirty times and you can carry a feast.]{lang=en}
+2 [Razel Thuba'i. Wanel nazu ta Muzanar. Zurat telu thulun eqar. Wanel nelgir. Tuqath saru qedmal nazar qarnet elu linetun az kalet 30 nelgir. Dunel saru tuqath qelmar.]{lang=khel}
 
-"I am with the Scribe. Look at that satchel. A god who writes everything down is a god who knows what you owe him, and that is the only kind worth sitting next to."
+```
 
-_\[He stands between the two pans with a jar in each hand.\]_
+_\[The Scribe pays.\]_
 
-"I am with both of them, and look: there is the beam level at last, which is more than the two of them managed with a wall of bricks and a library. Scale, nothing for you? No. She does not do beer. She does the scale. A god who sits all day with nothing going in and nothing coming out is a pot with the lid on. I say nothing against the pot. I say it against the lid."
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Thuba'i. Wanel nazu ta Zethuar. Zurat telu shenar eqar. Rethal nelgir. Zethal saru temun temun zeqat ez saru. Wanel saru laz genar elu qenmet elu galelnet qarmel.]{.nativefont lang=khel}
+2 [Thuba'i. I side with the Scribe. That bag! A god recording everything knows your debts. There is someone worth sitting beside.]{lang=en}
+2 [Razel Thuba'i. Wanel nazu ta Zethuar. Zurat telu shenar eqar. Rethal nelgir. Zethal saru temun temun zeqat ez saru. Wanel saru laz genar elu qenmet elu galelnet qarmel.]{lang=khel}
 
-_\[Laughter here. Let the Scale look at him until it stops. She does not do the lid-joke either.\]_
+```
 
-_\[In another hand, in the margin here: Whoever plays the Scale, she does not do mercy and she does not do laughing. They will try you at the brick, and here at the lid, and worst at the wall; look at the beam. Let the beam-boys laugh; nobody is watching them. [Lemjen ez Galezkara]{.name data-type="being/npc" lang=khel}, who played her nine Harvests.\]_
+_\[He stands between pans, a jar in either hand.\]_
 
-He turned to the Scribe, and he lowered his voice, which in Thuba'i is a thing everyone in the hall can hear.
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Thuba'i. Wanel nazu ta khul. Zurat telu. Wanel halzathal qemlun kalzu. Wanel eqar tazir shar temalnet elu naru khul qer elu galzat elu galqat ta galar elu zethu. Halzat, qe tamral telu qalnaz. Khe. Khez tamel sari qalnaz. Tamel sari halzat. Wanel nelgir. Galel saru tharen temun khez lamnet ta khez yarathnet qalmetun ta qelzar. Khez razel nazu qarazel ez qalmetun. Razel nazu ez qelzar.]{.nativefont lang=khel}
+2 [Thuba'i. I side with both. See the level beam at last! Better than their brick wall and library managed. Scale, none? No. She handles scales, never beer. A god sitting all day with nothing entering or leaving resembles a lidded pot. My complaint concerns the lid.]{lang=en}
+2 [Razel Thuba'i. Wanel nazu ta khul. Zurat telu. Wanel halzathal qemlun kalzu. Wanel eqar tazir shar temalnet elu naru khul qer elu galzat elu galqat ta galar elu zethu. Halzat, qe tamral telu qalnaz. Khe. Khez tamel sari qalnaz. Tamel sari halzat. Wanel nelgir. Galel saru tharen temun khez lamnet ta khez yarathnet qalmetun ta qelzar. Khez razel nazu qarazel ez qalmetun. Razel nazu ez qelzar.]{lang=khel}
 
-"Enter the beer however you like, brother of the man with the wall. It goes out the same way whatever the tablet says, and when it does you will not want a tablet; you will want a wall. His wall. Round the back, where there is no door. The first use anybody ever found for a wall, and he thinks it was for keeping the rain off."
+```
 
-_\[Laughter here. Hold the jar up until it stops, and then drink from it.\]_
+_\[Laughter. Let the Scale stare until silence. The lid joke also lies outside her business.\]_
+
+_\[A different hand's marginal note. Scale player: she offers neither mercy nor laughter. They test you at the brick and lid, hardest at the wall. Watch the beam. Let beam-boys laugh; nobody watches them. Lemjen ez Galezkara, her player for nine Harvests.\]_
+
+```verse {form=genzat numstep=5 cols=2}
+1 [Yaleth Thuba'i ez Zethuar. Razel saru qemir khazul, renan khashel genar temun ezu harun elu Thuba'i qu.]{.nativefont lang=khel}
+2 [Turning toward the Scribe, Thuba'i lowered his voice enough for everyone to hear.]{lang=en}
+2 [Yaleth Thuba'i ez Zethuar. Razel saru qemir khazul, renan khashel genar temun ezu harun elu Thuba'i qu.]{lang=khel}
+
+1 [Razel saru. Zethal telu qalnaz qel qaruth telu, linetun elu genar elu galzat. Yarath qu qer qemel sher razel zethqen. Ezu kalun elu yarathnet elu qu khez tamral telu zethqen. Tamral telu galzat. Galzat elu saru. Az nazar, khez galmun. Wanel eqar kresnet lazret elu galzat elu heurathnet elu genar. Rethas saru qarun elu qu wanel lagath nyar shazal.]{.nativefont lang=khel}
+2 [Thuba'i. Enter beer however you please, wall-man's brother. It exits identically whatever the tablet says. At that exit you need a wall. His wall, around the back without a door. Humanity's first discovered wall use; he imagines it keeps off rain.]{lang=en}
+2 [Razel saru. Zethal telu qalnaz qel qaruth telu, linetun elu genar elu galzat. Yarath qu qer qemel sher razel zethqen. Ezu kalun elu yarathnet elu qu khez tamral telu zethqen. Tamral telu galzat. Galzat elu saru. Az nazar, khez galmun. Wanel eqar kresnet lazret elu galzat elu heurathnet elu genar. Rethas saru qarun elu qu wanel lagath nyar shazal.]{lang=khel}
+
+```
+
+_\[Laughter. Keep the jar raised until silence. Drink.\]_
 
 ## The Water
 
-_\[Here the water: two boys at the back of the mound with jars, poured over the plank so that the parties stand in it to the ankle, and the pans with them. [[lore-uzneradty|Uznêra]] crosses behind the chair from the kitchen side to the far side and does not stop. She is not addressed and she says nothing. She is the only one of the gods in the play whom nobody asks for anything.\]_
+_\[Two boys behind the mound pour jars over its plank until parties and pans stand ankle-deep. Uzn'era crosses behind the chair from kitchen to far side without pausing. Nobody addresses her; she says nothing. Alone among this play's gods, she receives no request.\]_
 
-While the Builder was counting his bricks a second time out loud and the Scribe was asking whether the court had a copy of the water's testimony, the river came up over the floor of the court to the ankle, because Uznêra had crossed behind the chair on her way to somewhere else, and the river goes where she goes. The litigants stood in it and were cooler. The bricks in the left pan stood in it too, and a brick in water is a heavier brick for as long as it is a brick, and then it is mud. The tablets in the right pan were not fired, there being no kiln yet and nobody to work one, and a tablet in water is a blank tablet for as long as it is a tablet, and then it is mud. The two pans came up level with the same thing in each.
+```verse {form=genzat numstep=5 cols=2}
+1 [Mazath Muzanar galqat tazir az kalet khul. Razal Zethuar qe qamar Genzet zelqet elu mervel elu qalu. Yaler igelu zar gharen elu Genzet qethel qelqet elu pedar qaral yarul Uzn'era nazar galmen ez garun leqar. Yarul igelu az garun elu yarul sari. Tharel qelathar ezu qu. Waleth naru khamil. Tharel galqat elu qalqat tarmil ezu qu tan. Wanel galqat ezu qalu qemur tazir qethel waleth qu qedmal. Khez thumal genar zethqen elu qalqat tarmal. Khez alqar temthar ethel ta khez genar ez tamel qu. Wanel zethqen ezu qalu khez zethu qethel waleth qu qedmal. Wanel qalqat khul qemlun ta qedmal qemel ezu lazet.]{.nativefont lang=khel}
+2 [As the Builder recounted bricks aloud and the Scribe requested the court's copy of water's evidence, the river flooded the floor ankle-deep. Uzn'era had crossed behind the chair en route elsewhere; the river follows her. Litigants cooled in it. Left-pan bricks soaked, gaining weight while still bricks, then becoming mud. Right-pan tablets were unfired: neither kiln nor operator yet existed. Water erased them while they were tablets, then made them mud. Equal contents leveled both pans.]{lang=en}
+2 [Mazath Muzanar galqat tazir az kalet khul. Razal Zethuar qe qamar Genzet zelqet elu mervel elu qalu. Yaler igelu zar gharen elu Genzet qethel qelqet elu pedar qaral yarul Uzn'era nazar galmen ez garun leqar. Yarul igelu az garun elu yarul sari. Tharel qelathar ezu qu. Waleth naru khamil. Tharel galqat elu qalqat tarmil ezu qu tan. Wanel galqat ezu qalu qemur tazir qethel waleth qu qedmal. Khez thumal genar zethqen elu qalqat tarmal. Khez alqar temthar ethel ta khez genar ez tamel qu. Wanel zethqen ezu qalu khez zethu qethel waleth qu qedmal. Wanel qalqat khul qemlun ta qedmal qemel ezu lazet.]{lang=khel}
 
-"The scale is level," said the Scale. "Mud against mud. There is nothing to read on either side, and nothing to weigh, and so I will go through the doors, and I will go through them in order, because that is the order."
+***
+1 [Razel Halzat. Wanel halzat qemlun. Qedmal qarmath qu ta qedmal. Khez alqar temun ez zethul ta khez temun ez halzath az tarmil lu tarmal. Agu tamath nazu galmun, ezu qernet, qaral wanel eqar qernet.]{.nativefont lang=khel}
+2 [Scale. Level: mud beside mud. Nothing readable or weighable remains. I shall try the doors in their order, because order exists.]{lang=en}
+2 [Razel Halzat. Wanel halzat qemlun. Qedmal qarmath qu ta qedmal. Khez alqar temun ez zethul ta khez temun ez halzath az tarmil lu tarmal. Agu tamath nazu galmun, ezu qernet, qaral wanel eqar qernet.]{lang=khel}
+
+***
+```
 
 : The Scale Tries the Doors {#doors}
 
-```verse {form=genzat lang=en}
-There are four doors, and I will try each, and I will try them in order.
-Perform. What was promised? Nothing was promised. There is nothing to perform. The door is shut.
-Settle. What is owed, that something else might be given for it? Nothing is owed. The door is shut.
-Release. Who stands here to say _I require no more_? Nobody required anything. The door is shut.
-Assume. Who takes this onto his account? There is no account. There is no entry. The door is shut.
-Four doors shut an entry, and there is no fifth,
-and you have brought me a house whose one door sticks.
+```verse {form=genzat numstep=5 cols=2}
+1 [Alqar galmun tuzar. Agu tamath nazu lazet ezu qernet.]{.nativefont lang=khel}
+2 [Four doors. Each tried in sequence.]{lang=en}
+2 [Alqar galmun tuzar. Agu tamath nazu lazet ezu qernet.]{lang=khel}
+
+1 [Qelaz. Wanel qelqet sher. Khez qelath genar temun. Khez alqar temun ez qelaz. Galath galmun.]{.nativefont lang=khel}
+2 [Perform: what promise? None. Nothing performable. Door shut.]{lang=en}
+2 [Qelaz. Wanel qelqet sher. Khez qelath genar temun. Khez alqar temun ez qelaz. Galath galmun.]{lang=khel}
+
+1 [Qazem. Wanel zeqat sher ez nelaz temun leqar az garel elu qu. Khez alqar zeqat. Galath galmun.]{.nativefont lang=khel}
+2 [Settle: what debt could receive another payment? None. Door shut.]{lang=en}
+2 [Qazem. Wanel zeqat sher ez nelaz temun leqar az garel elu qu. Khez alqar zeqat. Galath galmun.]{lang=khel}
+
+1 [Wazal. Tharel shel zun ez razel khez tamral nazu tazir. Khez tamral genar temun. Galath galmun.]{.nativefont lang=khel}
+2 [Release: who can say, I need nothing further? Nobody requested anything. Door shut.]{lang=en}
+2 [Wazal. Tharel shel zun ez razel khez tamral nazu tazir. Khez tamral genar temun. Galath galmun.]{lang=khel}
+
+1 [Zeqath. Lamath shel eqar ezu halzi elu qezunet. Khez alqar halzi. Khez alqar zethat. Galath galmun.]{.nativefont lang=khel}
+2 [Assume: who takes it onto his account? No account, no entry. Door shut.]{lang=en}
+2 [Zeqath. Lamath shel eqar ezu halzi elu qezunet. Khez alqar halzi. Khez alqar zethat. Galath galmun.]{lang=khel}
+
+1 [Galath galmun tuzar zethat. Khez alqar galmun elu chalen.]{.nativefont lang=khel}
+2 [Four doors close an entry. No fifth exists.]{lang=en}
+2 [Galath galmun tuzar zethat. Khez alqar galmun elu chalen.]{lang=khel}
+
+1 [Tuqel telu galar ez nazu. Qezmer galmun lazen elu qu·]{.nativefont lang=khel}
+2 [Your house has brought me one sticking door.]{lang=en}
+2 [Tuqel telu galar ez nazu. Qezmer galmun lazen elu qu·]{lang=khel}
+
+***
+1 [Razel Halzat. Khez alqar temun zamar nazu. Khez dunel genar qerath khezan. Khez qerath nazu qu tharun. Temal nazu zethat. Agu qerath nazu zethat. Lamath telu temun elu lamnet elu telu.]{.nativefont lang=khel}
+2 [Scale. Nothing stands before me. Nothing admits no decision, so I refuse one. I shall create an entry and decide that. Accept what results.]{lang=en}
+2 [Razel Halzat. Khez alqar temun zamar nazu. Khez dunel genar qerath khezan. Khez qerath nazu qu tharun. Temal nazu zethat. Agu qerath nazu zethat. Lamath telu temun elu lamnet elu telu.]{lang=khel}
+
+1 [Razel Zethuar. Khez dunel telu zethal. Wanel telu Genzet.]{.nativefont lang=khel}
+2 [Scribe. Courts cannot write.]{lang=en}
+2 [Razel Zethuar. Khez dunel telu zethal. Wanel telu Genzet.]{lang=khel}
+
+1 [Razel Halzat. Razel nazu qu. Agu zethal telu qu. Wanel telu zethuar.]{.nativefont lang=khel}
+2 [Scale. I speak. You write. You are scribe.]{lang=en}
+2 [Razel Halzat. Razel nazu qu. Agu zethal telu qu. Wanel telu zethuar.]{lang=khel}
+
+1 [Razel Zethuar. Wanel nazu qelathar.]{.nativefont lang=khel}
+2 [Scribe. I am party.]{lang=en}
+2 [Razel Zethuar. Wanel nazu qelathar.]{lang=khel}
+
+1 [Razel Halzat. Wanel telu zethuar mar eqar. Wanel telu zethuar mar waleth telu qelathar. Qamar zethat tharen. Yarul garel qer elu tharen. Zuren shel.]{.nativefont lang=khel}
+2 [Scale. Scribe first. That office predates your partyhood. Entries bear dates; precedence follows dates. Witness?]{lang=en}
+2 [Razel Halzat. Wanel telu zethuar mar eqar. Wanel telu zethuar mar waleth telu qelathar. Qamar zethat tharen. Yarul garel qer elu tharen. Zuren shel.]{lang=khel}
+
+1 [Razel Thuba'i. Nazu. Zuren nazu temun temun nyar nizar elu qalret. Wanel eqar garun elu zuren elu genar az kalet tazun.]{.nativefont lang=khel}
+2 [Thuba'i. Me. I saw everything through a cup's bottom, the common viewing place.]{lang=en}
+2 [Razel Thuba'i. Nazu. Zuren nazu temun temun nyar nizar elu qalret. Wanel eqar garun elu zuren elu genar az kalet tazun.]{lang=khel}
+
+1 [Razel Halzat. Khez wanel saru qelathar. Qazem khul saru. Khez wanel saru az tarmil lazen elu naru. Wanel eqar qaril zurenar qel dunel Genzet eqar kalzu. Kalzu. Khez zethal genar qarmath linetun. Agu zethal nazu. Wanel telu rethnar ezu kalun elu zethat. Yaleth telu qazun ez qezunet. Razel telu rethan ez qezunet qel khez khashel telu naru.]{.nativefont lang=khel}
+2 [Scale. He is no party. Both paid him, placing him on neither side. Closest this court gets to a witness today. Brothers write nothing between themselves, and I intend writing. Become strangers for this entry's duration. Turn away from one another. Exchange names as if unheard before.]{lang=en}
+2 [Razel Halzat. Khez wanel saru qelathar. Qazem khul saru. Khez wanel saru az tarmil lazen elu naru. Wanel eqar qaril zurenar qel dunel Genzet eqar kalzu. Kalzu. Khez zethal genar qarmath linetun. Agu zethal nazu. Wanel telu rethnar ezu kalun elu zethat. Yaleth telu qazun ez qezunet. Razel telu rethan ez qezunet qel khez khashel telu naru.]{lang=khel}
+
+***
 ```
 
-"There is nothing before me," said the Scale, "and nothing cannot be decided. So I will not decide it. I will make an entry, and then I will decide the entry, and you will take what you get."
+_\[They turn backs and bow across shoulders. Each gives his name with its catch, drum pausing there. Builder rushes and joins his together. Scribe demands a repeat with the pause: entries preserve the spoken name. Laughter targets the hurried Builder, never the name.\]_
 
-"You cannot write," said the Scribe. "You are the court."
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Muzanar az kalet khulret ta qelzut. Saq'aru. Rethnar. Qamar nazu galar.]{.nativefont lang=khel}
+2 [Builder, second attempt, with pause. Saq'aru. Stranger. I own a house.]{lang=en}
+2 [Razel Muzanar az kalet khulret ta qelzut. Saq'aru. Rethnar. Qamar nazu galar.]{lang=khel}
 
-"I will say it. You will write it. You are the scribe."
+1 [Razel Zethuar. Reth'Sa'ar. Rethnar. Wanel nazu ezu qu.]{.nativefont lang=khel}
+2 [Scribe. Reth'Sa'ar. Stranger. I occupy it.]{lang=en}
+2 [Razel Zethuar. Reth'Sa'ar. Rethnar. Wanel nazu ezu qu.]{lang=khel}
 
-"I am a party."
-
-"You are the scribe first. You were the scribe before you were a party, and entries are dated, and seniority runs by date. Who witnesses?"
-
-"I do," said Thuba'i, "I have seen everything, from the bottom of a cup, which is where most things are seen from."
-
-"He is not a party," said the Scale. "He has been paid by both, so he stands on neither side, and that is as near as this court will get to a witness today. Now. Between brothers nothing is written, and I am going to write. So for the length of the entry you are strangers. Turn your backs on one another. Say your names to each other as if you had not heard them."
-
-_\[They turn their backs and bow to one another over their shoulders. Each says his own name with its stop in it, and the drum rests on it. The Builder hurries his and runs it together, and the Scribe makes him say it again, with the rest in it, because the entry carries the name as it is said. Laughter here, and it is at the Builder, who cannot say a thing slowly; it is never at the name.\]_
-
-"Saq'aru," said the Builder, the second time, with the rest in it. "A stranger. I have a house."
-
-"Reth'Sa'ar," said the Scribe. "A stranger. I am in it."
+***
+```
 
 ## The Lease
 
-_\[The Scale speaks. The Scribe writes on a brick, because the tablets are mud.\]_
+_\[Scale speaks. Scribe writes on a brick, the tablets having become mud.\]_
 
 : The First Lease {#lease}
 
-```verse {form=genzat lang=en}
-Entered on the first ground, on the day there was one house.
-Parties: the Builder, who is a stranger; the Scribe, who is a stranger;
-and I, who do the scale.
-Witness: Thuba'i, who was paid by both, and is therefore on neither side.
-Of the house on the mound, which no one witnessed and no one entered:
-it goes to the one who lives in it and keeps it up, for a term,
-and the term is from this water to the next water, and no longer,
-and at the next water the two parties come before me, and it is renewed, or it is not.
-The one who lives in it keeps the roof on, and keeps the door.
-The one who built it is owed for the building, and is paid in the keeping.
-The ground under it is entered as not empty, which is what a house is for.
-Scribe, write it. Builder, make your mark.
-Thuba'i, make yours, if you can hold the reed.
-The scale is level. Take your mud and go.
+```verse {form=genzat numstep=5 cols=2}
+1 [Zethal zethu eqar az gharen lazret, az tharen elu galar lazen.]{.nativefont lang=khel}
+2 [Entered on first ground, the day of one house.]{lang=en}
+2 [Zethal zethu eqar az gharen lazret, az tharen elu galar lazen.]{lang=khel}
+
+1 [Qelathar. Muzanar, rethnar. Zethuar, rethnar.]{.nativefont lang=khel}
+2 [Parties: Builder, stranger; Scribe, stranger;]{lang=en}
+2 [Qelathar. Muzanar, rethnar. Zethuar, rethnar.]{lang=khel}
+
+1 [Ta nazu elu tamel halzat.]{.nativefont lang=khel}
+2 [and myself, operating the scale.]{lang=en}
+2 [Ta nazu elu tamel halzat.]{lang=khel}
+
+1 [Zurenar. Thuba'i. Qazem khul saru. Khez wanel saru az tarmil lazen.]{.nativefont lang=khel}
+2 [Witness: Thuba'i, paid by both, aligned with neither.]{lang=en}
+2 [Zurenar. Thuba'i. Qazem khul saru. Khez wanel saru az tarmil lazen.]{lang=khel}
+
+1 [Galar az yathar. Khez zuren genar qu. Khez zethal genar qu.]{.nativefont lang=khel}
+2 [Concerning the mound house, unwitnessed and unentered:]{lang=en}
+2 [Galar az yathar. Khez zuren genar qu. Khez zethal genar qu.]{lang=khel}
+
+1 [Yarul qu ez genar. Algun saru ezu qu. Lagath saru qu, ezu kalun lazen.]{.nativefont lang=khel}
+2 [occupancy goes to its resident and maintainer for one term.]{lang=en}
+2 [Yarul qu ez genar. Algun saru ezu qu. Lagath saru qu, ezu kalun lazen.]{lang=khel}
+
+1 [Wanel kalun nyar qalu eqar ez qalu khulret, khez tazir.]{.nativefont lang=khel}
+2 [From this water to the next water, no longer.]{lang=en}
+2 [Wanel kalun nyar qalu eqar ez qalu khulret, khez tazir.]{lang=khel}
+
+1 [Yaler qelathar khul zamar nazu az qalu khulret. Waleth qelqet nevar lu khez waleth qu nevar.]{.nativefont lang=khel}
+2 [At next water both appear before me for renewal or its refusal.]{lang=en}
+2 [Yaler qelathar khul zamar nazu az qalu khulret. Waleth qelqet nevar lu khez waleth qu nevar.]{lang=khel}
+
+1 [Lagath genar. Algun saru ezu qu galzur ta galmun.]{.nativefont lang=khel}
+2 [The resident preserves its roof and door.]{lang=en}
+2 [Lagath genar. Algun saru ezu qu galzur ta galmun.]{lang=khel}
+
+1 [Zeqel genar zeqat ez muzanar qaral muzannet. Qazem saru qu qer elu lagathnet.]{.nativefont lang=khel}
+2 [The builder receives payment for building through that maintenance.]{lang=en}
+2 [Zeqel genar zeqat ez muzanar qaral muzannet. Qazem saru qu qer elu lagathnet.]{lang=khel}
+
+1 [Zethal zethu gharen nuqar qu khez khez temun. Wanel eqar qarun elu galar.]{.nativefont lang=khel}
+2 [Enter the underlying ground as occupied: a house's purpose.]{lang=en}
+2 [Zethal zethu gharen nuqar qu khez khez temun. Wanel eqar qarun elu galar.]{lang=khel}
+
+1 [Zethuar, zethal telu qu. Muzanar, temal telu zurmeth.]{.nativefont lang=khel}
+2 [Scribe, write. Builder, mark.]{lang=en}
+2 [Zethuar, zethal telu qu. Muzanar, temal telu zurmeth.]{lang=khel}
+
+1 [Thuba'i, temal telu elu telu qamaru dunel telu walet sheqet.]{.nativefont lang=khel}
+2 [Thuba'i, mark, if your hands can hold a reed.]{lang=en}
+2 [Thuba'i, temal telu elu telu qamaru dunel telu walet sheqet.]{lang=khel}
+
+1 [Wanel halzat qemlun. Lamath telu qedmal elu telu ta yarul telu·]{.nativefont lang=khel}
+2 [The beam is level. Take your mud away.]{lang=en}
+2 [Wanel halzat qemlun. Lamath telu qedmal elu telu ta yarul telu·]{lang=khel}
+
+***
+1 [Razel Zethuar. Az sher. Wanel zethqen qedmal.]{.nativefont lang=khel}
+2 [Scribe. Write on what? The tablets are mud.]{lang=en}
+2 [Razel Zethuar. Az sher. Wanel zethqen qedmal.]{lang=khel}
+
+1 [Razel Muzanar. Az galqat. Lamath saru lazen qezlet nyar nuqar thulun. Wanel qu zun ezu khashnet temun. Khez yarul qu qaril halzat. Khez razel genar temun qaral eqar.]{.nativefont lang=khel}
+2 [Builder. A brick. He produced a dry brick kept beneath his arm throughout the hearing, never near the scale. Nobody commented.]{lang=en}
+2 [Razel Muzanar. Az galqat. Lamath saru lazen qezlet nyar nuqar thulun. Wanel qu zun ezu khashnet temun. Khez yarul qu qaril halzat. Khez razel genar temun qaral eqar.]{lang=khel}
+
+1 [Razel Zethuar. Ezu thalmu shal.]{.nativefont lang=khel}
+2 [Scribe. Which hand?]{lang=en}
+2 [Razel Zethuar. Ezu thalmu shal.]{lang=khel}
+
+1 [Razel Muzanar. Tarmal.]{.nativefont lang=khel}
+2 [Builder. Right.]{lang=en}
+2 [Razel Muzanar. Tarmal.]{lang=khel}
+
+1 [Razel Halzat. Ezu thalmu elu rethathar elu saru.]{.nativefont lang=khel}
+2 [Scale. His taught hand.]{lang=en}
+2 [Razel Halzat. Ezu thalmu elu rethathar elu saru.]{lang=khel}
+
+1 [Razel Zethuar. Alqar lazen laz ethel.]{.nativefont lang=khel}
+2 [Scribe. Only one yet exists.]{lang=en}
+2 [Razel Zethuar. Alqar lazen laz ethel.]{lang=khel}
+
+1 [Razel Halzat. Ezu qu tharun. Dunel genar khez zethulnet razal. Nelaz eqar temun ez tamel ez naru.]{.nativefont lang=khel}
+2 [Scale. Use that one. Anyone unable to read can ask. It will occupy them.]{lang=en}
+2 [Razel Halzat. Ezu qu tharun. Dunel genar khez zethulnet razal. Nelaz eqar temun ez tamel ez naru.]{lang=khel}
+
+***
+1 [Zethal Zethuar qamzun az galqat ezu Khelathi-zethu, laz thalmu, qer elu sheqet ta qemath. Khez qamar galqat garun tazir az qalu khulret. Zethal saru telnet az tarmil elu galqat. Temal Muzanar zurmeth, tuzar tarmil, qaral telath saru temul qu. Temal Thuba'i elu saru galur ta qalet. Zurat Halzat galqat. Khez razel sari temun qaral zethu az tarmil lu zurmeth qalet.]{.nativefont lang=khel}
+2 [With reed and tiny sacred-hand writing, the Scribe entered the lease on the brick. Only that hand existed. He exhausted the surface at Next water and finished along its side. Builder marked a square, newly invented. Thuba'i marked a wet circle. The Scale inspected side-writing and wet mark without comment.]{lang=en}
+2 [Zethal Zethuar qamzun az galqat ezu Khelathi-zethu, laz thalmu, qer elu sheqet ta qemath. Khez qamar galqat garun tazir az qalu khulret. Zethal saru telnet az tarmil elu galqat. Temal Muzanar zurmeth, tuzar tarmil, qaral telath saru temul qu. Temal Thuba'i elu saru galur ta qalet. Zurat Halzat galqat. Khez razel sari temun qaral zethu az tarmil lu zurmeth qalet.]{lang=khel}
+
+***
 ```
 
-"On what?" said the Scribe. "The tablets are mud."
+_\[Speaker pauses for a drink. Let the hall assume the ending. It is premature.\]_
 
-"On a brick," said the Builder, and took a dry one from under his arm, where it had been the whole hearing and had never gone near the scale, and nobody said anything about that.
+```verse {form=genzat numstep=5 cols=2}
+1 [Wanel eqar qamzun lazret. Yarul qu nyar qalu lazen ez qalu khulret, khez tazir. Waleth qu nevar az qalu temun narel eqar. Khez lemath genar qu pautel ethel. Khez yarath genar ethel.]{.nativefont lang=khel}
+2 [Thus the first lease spans one water to the next, no longer. It has renewed at every water since. Nobody has let it lapse. Nobody has moved out.]{lang=en}
+2 [Wanel eqar qamzun lazret. Yarul qu nyar qalu lazen ez qalu khulret, khez tazir. Waleth qu nevar az qalu temun narel eqar. Khez lemath genar qu pautel ethel. Khez yarath genar ethel.]{lang=khel}
 
-"In which hand?"
-
-"The right," said the Builder.
-
-"In the hand he was taught," said the Scale.
-
-"There is only the one, as yet."
-
-"Then it is in that one, and whoever cannot read it can ask, and that will give them something to do."
-
-The Scribe wrote the lease on the brick in the sacred hand, which was the only hand, with the reed, small, and ran out of brick at _the next water_ and finished it on the side. The Builder made his mark, which was a square, because he had just invented it. Thuba'i made his, which was round, and wet. The Scale looked at the brick and said nothing about the writing on the side, and she said nothing about the mark being wet.
-
-_\[The Speaker stops here and drinks, and lets the hall take it for the end. It is not the end.\]_
-
-That was the first lease, and it runs from one water to the next and no longer. It has been renewed at every water since; nobody has yet let it lapse, and nobody has yet moved out.
+***
+```
 
 ## The Going Out
 
-_\[The Builder and the Scribe go off down the steps arm in arm, the Builder with the brick under his arm, already arguing. The door goes with them. The man in the door-frame walks it off at the back.\]_
+_\[Builder and Scribe descend arm in arm, arguing already. Builder carries the brick. The door accompanies them, its man walking the frame off behind.\]_
 
-"The door still sticks," said the Builder.
+```verse {form=genzat numstep=5 cols=2}
+1 [Razel Muzanar. Thalal galmun qezmer.]{.nativefont lang=khel}
+2 [Builder. Still sticking.]{lang=en}
+2 [Razel Muzanar. Thalal galmun qezmer.]{lang=khel}
 
-"It is entered as sticking."
+1 [Razel Zethuar. Zethal zethu qu qezmer.]{.nativefont lang=khel}
+2 [Scribe. Entered as sticking.]{lang=en}
+2 [Razel Zethuar. Zethal zethu qu qezmer.]{lang=khel}
 
-"That does not open it."
+1 [Razel Muzanar. Khez galuth eqar qu.]{.nativefont lang=khel}
+2 [Builder. That opens nothing.]{lang=en}
+2 [Razel Muzanar. Khez galuth eqar qu.]{lang=khel}
 
-"Nothing in the record opens anything. The record says whether it is open."
+1 [Razel Zethuar. Khez galuth zethu temun. Razel zethu qe galut qu.]{.nativefont lang=khel}
+2 [Scribe. No record opens anything. It states whether things are open.]{lang=en}
+2 [Razel Zethuar. Khez galuth zethu temun. Razel zethu qe galut qu.]{lang=khel}
 
-"Then say it is open, and come and put your shoulder to it."
+1 [Razel Muzanar. Razel telu galut qu tharun. Yaler telu ta qalath telu qalmer ez qu.]{.nativefont lang=khel}
+2 [Builder. State Open, then come shoulder it.]{lang=en}
+2 [Razel Muzanar. Razel telu galut qu tharun. Yaler telu ta qalath telu qalmer ez qu.]{lang=khel}
 
-They went off the mound and down into the water, arguing about the door, and the sun went off down the west road on foot to his night's work, which is not played at a feast.
+***
+1 [Yarul naru nyar yathar nizar ezu qalu. Qarazel naru qaral galmun. Yarul thelqen nizar ezu hodir elu ithnar ezu pedar ez tamelnet elu qeznar elu saru. Khez shelun nazun qu az qelmar.]{.nativefont lang=khel}
+2 [They descended from mound to water, disputing the door. The sun walked west to his night's labor, which feasts leave unplayed.]{lang=en}
+2 [Yarul naru nyar yathar nizar ezu qalu. Qarazel naru qaral galmun. Yarul thelqen nizar ezu hodir elu ithnar ezu pedar ez tamelnet elu qeznar elu saru. Khez shelun nazun qu az qelmar.]{lang=khel}
 
-_\[The Scale is carried out as she came, the beam-boys with the pole and the chair after. Whoever plays her does not laugh until the chair is through the kitchen door.\]_
+***
+```
 
-_\[Here stood the scene of the Library, which is the Scribe's. It is not to be played before the Thaz'Lekhau of Thuba'i, and it is not played at the Harvest. Cut. Go straight to the song.\]_
+_\[Carry the Scale out as she arrived: beam-boys and pole, chair following. Her player cannot laugh before the chair passes the kitchen door.\]_
+
+_\[The Library scene belonged here, and belongs to the Scribe. Exclude it before Thuba'i's Thaz'Lekhau and at Harvest. Cut. Proceed directly to song.\]_
 
 ## The Song
 
-_\[Thuba'i, to the benches, the jar up. The benches answer every line with the shoulder-line, which they have from the door, and the players sing the two answers that differ so that the hall has them by the second Harvest. The drum keeps the shoulder-line.\]_
+_\[Thuba'i raises his jar toward the benches. They answer each line with the door's shoulder response. Players lead the two altered answers so everyone knows them by the second Harvest. Drum maintains the shoulder rhythm.\]_
 
 : The Song of the First Rent {#song}
 
-```verse {form=genzat lang=en}
-The Builder built it, and the door stuck.
-    Put your shoulder to it. Put your shoulder to it.
-The Scribe moved in, and he wrote it after.
-    Put your shoulder to it. Put your shoulder to it.
-Who owns the house? The one who is in it.
-    Who pays the rent? The one who is in it.
-The Scale sat down and she did not drink.
-    She does the scale. She does not drink.
-From one water to the next, and then come back.
-    Put your shoulder to it. Put your shoulder to it.
-Bring your brick. Bring your mark. Bring your brother.
-    Put your shoulder to it. Put your shoulder to it.
-Who witnessed it? The one with the jar.
-    Put your shoulder to it. Put your shoulder to it.
-Who paid him? Both of them. Fill it.
-    Put your shoulder to it. Put your shoulder to it.
-The house is entered, and the door still sticks.
-    Put your shoulder to it. Put your shoulder to it.
+```verse {form=genzat numstep=5 cols=2}
+1 [Muzan Muzanar qu. Qezmer galmun.]{.nativefont lang=khel}
+2 [The Builder made it. The door jammed.]{lang=en}
+2 [Muzan Muzanar qu. Qezmer galmun.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+1 [Galun Zethuar. Zethal saru mer qu.]{.nativefont lang=khel}
+2 [The Scribe entered and recorded afterward.]{lang=en}
+2 [Galun Zethuar. Zethal saru mer qu.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+1 [Qamarun galar ez shel. Genar elu ezu qu.]{.nativefont lang=khel}
+2 [Who owns the house? Whoever occupies it.]{lang=en}
+2 [Qamarun galar ez shel. Genar elu ezu qu.]{lang=khel}
+
+1 [..Qazem shel qamzun. Genar elu ezu qu·]{.nativefont lang=khel}
+2 [..Who pays its rent? Whoever occupies it.]{lang=en}
+2 [..Qazem shel qamzun. Genar elu ezu qu·]{lang=khel}
+
+1 [Galel Halzat. Khez qaler sari.]{.nativefont lang=khel}
+2 [The Scale sat and refused her drink.]{lang=en}
+2 [Galel Halzat. Khez qaler sari.]{lang=khel}
+
+1 [..Tamel sari halzat. Khez qaler sari·]{.nativefont lang=khel}
+2 [..She handles the scale. She refuses her drink.]{lang=en}
+2 [..Tamel sari halzat. Khez qaler sari·]{lang=khel}
+
+1 [Nyar qalu lazen ez qalu khulret. Yaler telu yalret.]{.nativefont lang=khel}
+2 [One water until next water; then return.]{lang=en}
+2 [Nyar qalu lazen ez qalu khulret. Yaler telu yalret.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+1 [Tuqel telu galqat. Tuqel telu zurmeth. Tuqel telu linetun.]{.nativefont lang=khel}
+2 [Bring brick, bring mark, bring brother.]{lang=en}
+2 [Tuqel telu galqat. Tuqel telu zurmeth. Tuqel telu linetun.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+1 [Zuren shel qu. Genar elu qallun.]{.nativefont lang=khel}
+2 [Its witness? The jar-holder.]{lang=en}
+2 [Zuren shel qu. Genar elu qallun.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+1 [Qazem shel saru. Khul. Qeltham telu qu.]{.nativefont lang=khel}
+2 [His payers? Both. Fill the jar.]{lang=en}
+2 [Qazem shel saru. Khul. Qeltham telu qu.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+1 [Wanel galar ezu zethu. Thalal galmun qezmer.]{.nativefont lang=khel}
+2 [House recorded; door still jammed.]{lang=en}
+2 [Wanel galar ezu zethu. Thalal galmun qezmer.]{lang=khel}
+
+1 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{.nativefont lang=khel}
+2 [..Shoulder it open. Shoulder it open.]{lang=en}
+2 [..Qalath telu qalmer ez qu. Qalath telu qalmer ez qu·]{lang=khel}
+
+***
 ```
 
-_\[The jars go round. Nobody speaks after the song. The Scale's player may drink now.\]_
+_\[Jars circulate. No speech follows. The Scale's player may drink.\]_
 
 ## See Also
 

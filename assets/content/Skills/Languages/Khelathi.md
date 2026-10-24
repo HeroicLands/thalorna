@@ -7045,7 +7045,533 @@ Word Length
 : Often moderate (two to three morphemes); compound names are less frequent than in [[skill-vedyarlng|Vedyari]], though hieratic epithets create lengthy formal designations
 
 Stress Patterns
-: Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words
+: Usually fall on the first or second syllable; later syllables receive weaker stress in polysyllabic words - form: "yathar"
+class: n
+field: "Place elements"
+gloss: "mound (ordinary noun, distinct from bound place element Yath-)"
+source: {kind: coined} - form: "qezthar"
+class: n
+field: "Temple, arcane and cosmology"
+gloss: "crown"
+source: {kind: coined} - form: "laqethet"
+class: n
+field: "Everyday speech"
+gloss: "dominion"
+source: {kind: coined} - form: "qelzar"
+class: n
+field: "Everyday speech"
+gloss: "frontier margin"
+source: {kind: coined} - form: "qelzar"
+class: n
+field: "Everyday speech"
+gloss: "lid"
+source: {kind: coined} - form: "malqar"
+class: n
+field: "Counting-house and water-works"
+gloss: "herd"
+source: {kind: coined} - form: "qeltheth"
+class: adj
+field: "Everyday speech"
+gloss: "bound in restraints"
+source: {kind: coined} - form: "qezetar"
+class: n
+field: "The realm, its people and its hands"
+gloss: "raider"
+source: {kind: coined} - form: "qaltar"
+class: n
+field: "Everyday speech"
+gloss: "ship"
+source: {kind: coined} - form: "qaltaru"
+class: n
+field: "Everyday speech"
+gloss: "river barge (separate individual word, no productive collective interpretation for this sense)"
+source: {kind: coined} - form: "selqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "cedar"
+source: {kind: coined} - form: "tulqat"
+class: n
+field: "Counting-house and water-works"
+gloss: "horse"
+source: {kind: coined} - form: "qarnu"
+class: n
+field: "Counting-house and water-works"
+gloss: "lion"
+source: {kind: coined} - form: "ternu"
+class: n
+field: "Counting-house and water-works"
+gloss: "beast"
+source: {kind: coined} - form: "lamnet"
+class: n
+field: "Everyday speech"
+gloss: "capture"
+source: {kind: coined} - form: "lamnet"
+class: n
+field: "Temple, arcane and cosmology"
+gloss: "taking or receipt"
+source: {kind: coined} - form: "qeltham"
+class: v
+field: "Doing"
+gloss: "fill a container"
+source: {kind: coined} - form: "khanar"
+class: v
+field: "Doing"
+gloss: "hunger"
+source: {kind: coined} - form: "qelnet"
+class: n
+field: "Temple, arcane and cosmology"
+gloss: "altar"
+source: {kind: coined} - form: "Khalnet"
+class: n
+field: "Temple, arcane and cosmology"
+gloss: "royal mortuary Way"
+source: {kind: coined} - form: "hodir"
+class: n
+field: "Place elements"
+gloss: "road"
+source: {kind: coined} - form: "gharen"
+class: n
+field: "Place elements"
+gloss: "land"
+source: {kind: coined} - form: "zethqur"
+class: n
+field: "The written and the recited"
+gloss: "ink"
+source: {kind: coined} - form: "qelzun"
+class: v
+field: "Doing"
+gloss: "sail"
+source: {kind: coined} - form: "qamur"
+class: adj
+field: "Counting-house and water-works"
+gloss: "enslaved. Use existing temal make, igelzut river-horse and qezlet dry in the finalized native"
+source: {kind: coined} - form: "qazlun"
+class: n
+field: "Everyday speech"
+gloss: "regnal year"
+source: {kind: coined} - form: "kalzet"
+class: n
+field: "Everyday speech"
+gloss: "ordinary year, distinct from existing selqur counted from Qet Telgu"
+source: {kind: coined} - form: "qelmar"
+class: n
+field: "Ritual and accounts"
+gloss: "feast or festive occasion"
+source: {kind: coined} - form: "qelmar"
+class: n
+field: "Everyday speech"
+gloss: "laughter"
+source: {kind: coined} - form: "qelzat"
+class: n
+field: "Ritual and accounts"
+gloss: "drum"
+source: {kind: coined} - form: "qalnaz"
+class: n
+field: "Everyday speech"
+gloss: "beer"
+source: {kind: coined} - form: "zelqet"
+class: n
+field: "The written and the recited"
+gloss: "manuscript roll or textual copy"
+source: {kind: coined} - form: "zengel"
+class: n
+field: "Everyday speech"
+gloss: "step"
+source: {kind: coined} - form: "zheqet"
+class: adj
+field: "Everyday speech"
+gloss: "painted"
+source: {kind: coined} - form: "zheqath"
+class: v
+field: "Doing"
+gloss: "paint (use this individual verb when needed)"
+source: {kind: coined} - form: "galqat"
+class: n
+field: "Everyday speech"
+gloss: "brick"
+source: {kind: coined} - form: "qezqar"
+class: n
+field: "Everyday speech"
+gloss: "rectangular frame"
+source: {kind: coined} - form: "qezlar"
+class: v
+field: "Doing"
+gloss: "dry material by removing moisture"
+source: {kind: coined} - form: "mazelqet"
+class: n
+field: "Everyday speech"
+gloss: "survey rod"
+source: {kind: coined} - form: "qalthaz"
+class: v
+field: "Doing"
+gloss: "raise or hold up"
+source: {kind: coined} - form: "qezmer"
+class: v
+field: "Doing"
+gloss: "stick or jam, of a door"
+source: {kind: coined} - form: "lintar"
+class: n
+field: "Everyday speech"
+gloss: "lintel"
+source: {kind: coined} - form: "zethqal"
+class: n
+field: "The written and the recited"
+gloss: "writing palette"
+source: {kind: coined} - form: "temalnet"
+class: n
+field: "Temple, arcane and cosmology"
+gloss: "making"
+source: {kind: coined} - form: "zethalnet"
+class: n
+field: "The written and the recited"
+gloss: "writing activity"
+source: {kind: coined} - form: "khashnet"
+class: n
+field: "The written and the recited"
+gloss: "legal hearing"
+source: {kind: coined} - form: "qarazel"
+class: n
+field: "The written and the recited"
+gloss: "legal pleading"
+source: {kind: coined} - form: "qarazelnet"
+class: n
+field: "Everyday speech"
+gloss: "spoken plea"
+source: {kind: coined} - form: "qaraznet"
+class: n
+field: "The written and the recited"
+gloss: "a claim brought against a defendant"
+source: {kind: coined} - form: "mervel"
+class: n
+field: "The written and the recited"
+gloss: "evidence"
+source: {kind: coined} - form: "qezkhat"
+class: n
+field: "Everyday speech"
+gloss: "creak"
+source: {kind: coined} - form: "qalqat"
+class: n
+field: "Everyday speech"
+gloss: "scale pan"
+source: {kind: coined} - form: "qarnel"
+class: v
+field: "Doing"
+gloss: "lean or tilt a thing"
+source: {kind: coined} - form: "temgal"
+class: n
+field: "Everyday speech"
+gloss: "kitchen"
+source: {kind: coined} - form: "yarathnet"
+class: n
+field: "Everyday speech"
+gloss: "outgoing/departure"
+source: {kind: coined} - form: "harun"
+class: n
+field: "Ritual and accounts"
+gloss: "assembled audience/hall company"
+source: {kind: coined} - form: "kresnet"
+class: n
+field: "Everyday speech"
+gloss: "practical use"
+source: {kind: coined} - form: "heurath"
+class: v
+field: "Doing"
+gloss: "discover"
+source: {kind: coined} - form: "temthar"
+class: n
+field: "Everyday speech"
+gloss: "kiln"
+source: {kind: coined} - form: "muzannet"
+class: n
+field: "Everyday speech"
+gloss: "building activity"
+source: {kind: coined} - form: "galur"
+class: adj
+field: "Everyday speech"
+gloss: "round"
+source: {kind: coined} - form: "pautel"
+class: v
+field: "Doing"
+gloss: "lapse/expire"
+source: {kind: coined} - form: "sumel"
+class: v
+field: "Doing"
+gloss: "meet"
+source: {kind: coined} - form: "zhelath"
+class: v
+field: "Doing"
+gloss: "show"
+source: {kind: coined} - form: "qezgal"
+class: v
+field: "Doing"
+gloss: "bow"
+source: {kind: coined} - form: "zekhot"
+class: n
+field: "Everyday speech"
+gloss: "darkness"
+source: {kind: coined} - form: "qelzut"
+class: n
+field: "Everyday speech"
+gloss: "glottal catch or audible name pause"
+source: {kind: coined} - form: "ethel"
+class: adv
+field: "Doing"
+gloss: "yet/still (individual citation, no tense morphology)"
+source: {kind: coined} - form: "No"
+class: n
+field: "Everyday speech"
+gloss: ""
+source: {kind: coined} - form: "qezlun"
+class: v
+field: "Doing"
+gloss: "hurry"
+source: {kind: coined} - form: "tharil"
+class: adv
+field: "Doing"
+gloss: "slowly (individual citations)"
+source: {kind: coined} - form: "zethuar"
+class: n
+field: "The written and the recited"
+gloss: "scribe/handler of writing, built zethu + -ar"
+source: {kind: coined}
+built: [zethu, "-ar"] - form: "galelnet"
+class: n
+field: "Everyday speech"
+gloss: "sitting"
+source: {kind: coined} - form: "thalalnet"
+class: n
+field: "Everyday speech"
+gloss: "continued presence"
+source: {kind: coined} - form: "qezqathnet"
+class: n
+field: "Everyday speech"
+gloss: "throwing"
+source: {kind: coined} - form: "heurathnet"
+class: n
+field: "Everyday speech"
+gloss: "discovery"
+source: {kind: coined} - form: "galathnet"
+class: n
+field: "Everyday speech"
+gloss: "closure"
+source: {kind: coined} - form: "zelqath"
+class: v
+field: "Doing"
+gloss: "join things together. These are individually cited nouns, not a general nominalizing rule"
+source: {kind: coined} - form: "qelzat"
+class: v
+field: "Doing"
+gloss: "carve/incise (distinct from drum noun)"
+source: {kind: coined} - form: "qedlar"
+class: n
+field: "Everyday speech"
+gloss: "stone"
+source: {kind: coined} - form: "menqet"
+class: n
+field: "Everyday speech"
+gloss: "month"
+source: {kind: coined} - form: "amqar"
+class: n
+field: "Everyday speech"
+gloss: "desert"
+source: {kind: coined} - form: "qalwun"
+class: n
+field: "Counting-house and water-works"
+gloss: "cistern"
+source: {kind: coined} - form: "tamgar"
+class: n
+field: "Counting-house and water-works"
+gloss: "pasture"
+source: {kind: coined} - form: "qalthur"
+class: n
+field: "Counting-house and water-works"
+gloss: "canal"
+source: {kind: coined} - form: "lagqet"
+class: n
+field: "Everyday speech"
+gloss: "boundary stake"
+source: {kind: coined} - form: "qarnar"
+class: n
+field: "Everyday speech"
+gloss: "ram"
+source: {kind: coined} - form: "shanur"
+class: n
+field: "Everyday speech"
+gloss: "measuring cord"
+source: {kind: coined} - form: "antmeru"
+class: n
+field: "Everyday speech"
+gloss: "people collectively"
+source: {kind: coined} - form: "qalgar"
+class: v
+field: "Doing"
+gloss: "draw water"
+source: {kind: coined} - form: "galzar"
+class: n
+field: "Counting-house and water-works"
+gloss: "tower"
+source: {kind: coined} - form: "galnet"
+class: n
+field: "Place elements"
+gloss: "village"
+source: {kind: coined} - form: "lutu"
+class: n
+field: "Place elements"
+gloss: "estate"
+source: {kind: coined} - form: "lagar"
+class: v
+field: "Doing"
+gloss: "drive away"
+source: {kind: coined} - form: "qelthan"
+class: v
+field: "Doing"
+gloss: "stretch a cord"
+source: {kind: coined} - form: "zarnu"
+class: n
+field: "The realm, its people and its hands"
+gloss: "army"
+source: {kind: coined} - form: "qarneth"
+class: n
+field: "The realm, its people and its hands"
+gloss: "military standard"
+source: {kind: coined} - form: "qethmal"
+class: n
+field: "Counting-house and water-works"
+gloss: "silt"
+source: {kind: coined} - form: "barqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "barley"
+source: {kind: coined} - form: "qelqar"
+class: n
+field: "Everyday speech"
+gloss: "kite bird"
+source: {kind: coined} - form: "qelqar"
+class: n
+field: "Everyday speech"
+gloss: "linen bolt"
+source: {kind: coined} - form: "qelthez"
+class: v
+field: "Doing"
+gloss: "break a formation"
+source: {kind: coined} - form: "hesqar"
+class: n
+field: "Everyday speech"
+gloss: "dusk"
+source: {kind: coined} - form: "qalqathnet"
+class: n
+field: "Everyday speech"
+gloss: "falling"
+source: {kind: coined} - form: "shalath"
+class: v
+field: "Doing"
+gloss: "wrap"
+source: {kind: coined} - form: "gastel"
+class: n
+field: "Everyday speech"
+gloss: "belly"
+source: {kind: coined} - form: "zeqar"
+class: n
+field: "Everyday speech"
+gloss: "tax"
+source: {kind: coined} - form: "tharqat"
+class: n
+field: "Counting-house and water-works"
+gloss: "ox"
+source: {kind: coined} - form: "qaldun"
+class: n
+field: "Counting-house and water-works"
+gloss: "donkey"
+source: {kind: coined} - form: "qerwun"
+class: n
+field: "Everyday speech"
+gloss: "copper"
+source: {kind: coined} - form: "shenqet"
+class: n
+field: "Everyday speech"
+gloss: "linen"
+source: {kind: coined} - form: "lazqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "oil"
+source: {kind: coined} - form: "geqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "goat"
+source: {kind: coined} - form: "shalgar"
+class: n
+field: "Everyday speech"
+gloss: "tent"
+source: {kind: coined} - form: "nezqet"
+class: n
+field: "Everyday speech"
+gloss: "natron"
+source: {kind: coined} - form: "sharmet"
+class: n
+field: "Everyday speech"
+gloss: "sack"
+source: {kind: coined} - form: "wathetar"
+class: n
+field: "Occupations"
+gloss: "embalmer, individual citation"
+source: {kind: coined} - form: "garzethu"
+class: n
+field: "Everyday speech"
+gloss: "bureau"
+source: {kind: coined} - form: "rethgal"
+class: n
+field: "The written and the recited"
+gloss: "school"
+source: {kind: coined} - form: "theqet"
+class: n
+field: "Counting-house and water-works"
+gloss: "wheat"
+source: {kind: coined} - form: "qerzan"
+class: n
+field: "Everyday speech"
+gloss: "bronze"
+source: {kind: coined} - form: "qezgath"
+class: n
+field: "The realm, its people and its hands"
+gloss: "spear"
+source: {kind: coined} - form: "Gal-Au"
+class: n
+field: "Place elements"
+gloss: "capital city"
+source: {kind: coined} - form: "qalwat"
+class: n
+field: "Everyday speech"
+gloss: "tomb"
+source: {kind: coined} - form: "qarnel"
+class: n
+field: "Counting-house and water-works"
+gloss: "sheep"
+source: {kind: coined} - form: "qalqar"
+class: n
+field: "Everyday speech"
+gloss: "linen bolt (distinct from sky noun if already present"
+source: {kind: coined} - form: "zarun"
+class: n
+field: "Everyday speech"
+gloss: "morning"
+source: {kind: coined} - form: "khumar"
+class: adj
+field: "Everyday speech"
+gloss: "deep"
+source: {kind: coined} - form: "qezmin"
+class: n
+field: "Everyday speech"
+gloss: "sharp point"
+source: {kind: coined} - form: "qedlarar"
+class: n
+field: "Occupations"
+gloss: "stoneworker, built from qedlar + -ar"
+source: {kind: coined}
+built: [qedlar, "-ar"] - form: "galnat"
+class: n
+field: "Place elements"
+gloss: "town, individual ordinary noun"
+source: {kind: coined}
 
 ## Grammar Notes
 
