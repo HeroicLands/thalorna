@@ -188,6 +188,7 @@ data:
       root: "m-l-t"
       frame: place
     - form: talv
+      variants: [talav]
       class: "n"
       field: Stone and metal
       gloss: "granite"
@@ -951,6 +952,7 @@ data:
       root: "m-r-p"
       frame: place
     - form: damg
+      variants: [damag]
       class: "n"
       field: Craft and the forge
       gloss: "a hammer"
@@ -1047,6 +1049,7 @@ data:
       root: "b-m-r"
       frame: adjective
     - form: bamrir
+      variants: [bamurir]
       class: "n"
       field: Craft and the forge
       gloss: "a craftsman"
@@ -1288,7 +1291,13 @@ data:
       root: "m-n-d"
       frame: worker
     - {form: khalv, class: "n", field: The deep, gloss: "the unlit", root: "kh-l-v", frame: bare}
-    - {form: khalív, class: adj, field: The deep, gloss: "unlit", root: "kh-l-v", frame: adjective}
+    - form: khalív
+      variants: [khalivev, khalivez]
+      class: adj
+      field: The deep
+      gloss: "unlit"
+      root: "kh-l-v"
+      frame: adjective
     - form: khuláv
       class: v
       field: The deep
@@ -1419,7 +1428,13 @@ data:
     - {form: dhamív, class: adj, field: The deep, gloss: "dark", root: "dh-m-v", frame: adjective}
     - {form: dhumáv, class: v, field: The deep, gloss: "to darken", root: "dh-m-v", frame: deed}
     - {form: pasv, class: "n", field: The deep, gloss: "a cavern", root: "p-s-v", frame: bare}
-    - {form: pasív, class: adj, field: The deep, gloss: "hollow", root: "p-s-v", frame: adjective}
+    - form: pasív
+      variants: [pasivez]
+      class: adj
+      field: The deep
+      gloss: "hollow"
+      root: "p-s-v"
+      frame: adjective
     - {form: pusáv, class: v, field: The deep, gloss: "to hollow out", root: "p-s-v", frame: deed}
     - {form: valgh, class: "n", field: The deep, gloss: "an echo", root: "v-l-gh", frame: bare}
     - {form: vulágh, class: v, field: The deep, gloss: "to echo", root: "v-l-gh", frame: deed}
@@ -1494,6 +1509,7 @@ data:
       root: "b-s-r"
       frame: place
     - form: khank
+      variants: [khanak]
       class: "n"
       field: The deep
       gloss: "a channel that follows a watercourse"
@@ -1767,6 +1783,7 @@ data:
       root: "v-m-th"
       frame: place
     - form: zars
+      variants: [zaras]
       class: "n"
       field: The grain of the rock
       gloss: "a spur, a rib of rock"
@@ -2657,6 +2674,7 @@ data:
       root: "kh-s-p"
       frame: bare
     - form: khasíp
+      variants: [khasípev]
       class: adj
       field: Listening and the cut
       gloss: "restrained, sparing"
@@ -2909,6 +2927,7 @@ data:
       root: "kh-t-b"
       frame: bare
     - form: khatíb
+      variants: [khatíbez]
       class: adj
       field: Listening and the cut
       gloss: "ruled, straight, forced"
@@ -3142,6 +3161,7 @@ data:
       frame: mastery
     - {form: samd, class: "n", field: The hold, gloss: "a height", root: "s-m-d", frame: bare}
     - form: samíd
+      variants: [samidez]
       class: adj
       field: The hold
       gloss: "raised, lofty"
@@ -4122,6 +4142,7 @@ data:
       root: "s-b-z"
       frame: bare
     - form: sabíz
+      variants: [sabízez]
       class: adj
       field: Letters and writing
       gloss: "chalked, white-marked"
@@ -4488,6 +4509,7 @@ data:
       root: "g-n-dh"
       frame: bare
     - form: gunádh
+      variants: [gunádhez]
       class: v
       field: Song and telling
       gloss: "to speak"
@@ -4525,6 +4547,7 @@ data:
       root: "b-t-m"
       frame: bare
     - form: batím
+      variants: [batimez]
       class: adj
       field: "Time and the mountain's seasons"
       gloss: "lasting, old"
@@ -4543,6 +4566,7 @@ data:
       root: "n-l-p"
       frame: bare
     - form: nalíp
+      variants: [nalipez]
       class: adj
       field: "Time and the mountain's seasons"
       gloss: "cold"
@@ -4833,6 +4857,7 @@ data:
       root: "d-z-m"
       frame: bare
     - form: dazím
+      variants: [dazimez]
       class: adj
       field: Body and person
       gloss: "strong"
@@ -4975,6 +5000,7 @@ data:
       root: "b-g-n"
       frame: bare
     - form: bagín
+      variants: [bagínez]
       class: adj
       field: War and the guarding
       gloss: "sealed"
@@ -5318,6 +5344,7 @@ data:
       root: "d-b-z"
       frame: bare
     - form: dabíz
+      variants: [dabízez]
       class: adj
       field: Death and memory
       gloss: "still"
@@ -5637,6 +5664,7 @@ data:
       root: "kh-g-l"
       frame: bare
     - form: khagíl
+      variants: [khagílez]
       class: adj
       field: The Shadow and what rises
       gloss: "dreadful, to be dreaded"
@@ -6010,6 +6038,7 @@ data:
       root: "d-r-kh"
       frame: bare
     - form: daríkh
+      variants: [darikhez]
       class: adj
       field: Motion and holding
       gloss: "kept, held fast"
@@ -6121,6 +6150,7 @@ data:
       root: "v-r-g"
       frame: bare
     - form: varíg
+      variants: [varigez]
       class: adj
       field: Motion and holding
       gloss: "farthest"
@@ -6193,6 +6223,7 @@ data:
       root: "t-gh-v"
       frame: bare
     - form: taghív
+      variants: [taghivez]
       class: adj
       field: Grammar words
       gloss: "whole, entire"
@@ -6230,6 +6261,7 @@ data:
       root: "r-v-z"
       frame: bare
     - form: ravíz
+      variants: [ravizez, ravízez]
       class: adj
       field: Grammar words
       gloss: "many"
@@ -6238,6 +6270,7 @@ data:
       frame: adjective
     - {form: dhapal, class: "n", field: Grammar words, gloss: "a few", root: "dh-p-l", frame: bare}
     - form: dhapíl
+      variants: [dhapilez]
       class: adj
       field: Grammar words
       gloss: "few, scant"
@@ -6263,6 +6296,7 @@ data:
       root: "kh-p-v"
       frame: bare
     - form: khapív
+      variants: [khapivez, khapívez]
       class: adj
       field: Grammar words
       gloss: "other"
@@ -6275,6 +6309,7 @@ data:
       root: "l-dh-p"
       frame: bare
     - form: ladhíp
+      variants: [ladhipez, ladhípez]
       class: adj
       field: Grammar words
       gloss: "same, alike"
@@ -6299,6 +6334,7 @@ data:
       root: "dh-n-v"
       frame: bare
     - form: dhanív
+      variants: [dhanivez, dhanivev, dhanívez]
       class: adj
       field: Grammar words
       gloss: "first"
@@ -6312,6 +6348,7 @@ data:
       root: "f-v-z"
       frame: bare
     - form: favíz
+      variants: [favizez]
       class: adj
       field: Grammar words
       gloss: "last"
@@ -6358,7 +6395,7 @@ data:
     - {form: fegd, class: num, field: Grammar words, gloss: "thirteen"}
     - {form: vunth, class: num, field: Grammar words, gloss: "fourteen"}
     - {form: thulk, class: num, field: Grammar words, gloss: "fifteen"}
-    - {form: girm, class: num, field: Grammar words, gloss: "sixteen"}
+    - {form: girm, variants: [girmez], class: num, field: Grammar words, gloss: "sixteen"}
     - form: puvár
       class: v
       field: Motion and holding
@@ -6409,6 +6446,7 @@ data:
       frame: bare
     - {form: lagan, class: n, field: The hold, gloss: "table", root: "l-g-n", frame: bare}
     - form: nalív
+      variants: [nalívez]
       class: adj
       field: The grain of the rock
       gloss: "lower, underlying"
@@ -6499,6 +6537,7 @@ data:
       root: "f-r-kh"
       frame: adjective
     - form: dazík
+      variants: [dazíkez]
       class: adj
       field: The grain of the rock
       gloss: "wet"
@@ -6730,6 +6769,7 @@ data:
       root: "k-r-m"
       frame: bare
     - form: karím
+      variants: [karimez]
       class: adj
       field: Craft and the forge
       gloss: "finished or complete"
@@ -6766,6 +6806,7 @@ data:
       root: "p-l-t"
       frame: deed
     - form: palít
+      variants: [palitez, palítez]
       class: adj
       field: Craft and the forge
       gloss: "laid ready or laid away"
@@ -6802,6 +6843,7 @@ data:
       root: "g-d-n"
       frame: bare
     - form: kamív
+      variants: [kamivez]
       class: adj
       field: Oath, law and measure
       gloss: "included in the count, counted"
@@ -7195,6 +7237,7 @@ data:
       root: "g-v-l"
       frame: bare
     - form: narív
+      variants: [narívez]
       class: adj
       field: "Motion and holding"
       gloss: "long"
@@ -7268,6 +7311,7 @@ data:
       frame: deed
     - {form: lanat, class: n, field: "The deep", gloss: "lintel", root: "l-n-t", frame: bare}
     - form: makan
+      variants: [makanev]
       class: n
       field: "Other peoples and the larder"
       gloss: "sheep"
@@ -7329,6 +7373,7 @@ data:
       root: "n-g-dh"
       frame: deed
     - form: napík
+      variants: [napíkez]
       class: adj
       field: "Body and person"
       gloss: "small in physical size"
@@ -7407,6 +7452,7 @@ data:
       root: "m-v-l + k-m-v"
       frame: bare
     - form: parím
+      variants: [parimez, parímez]
       class: adj
       field: "Other peoples and the larder"
       gloss: "living, alive"
@@ -7430,7 +7476,13 @@ data:
       gloss: "one who gathers the people in"
       root: "kh-n-f"
       frame: worker
-    - {form: palív, class: adj, field: "The deep", gloss: "slow", root: "p-l-v", frame: adjective}
+    - form: palív
+      variants: [palivez]
+      class: adj
+      field: "The deep"
+      gloss: "slow"
+      root: "p-l-v"
+      frame: adjective
     - {form: barn, class: n, field: "The deep", gloss: "signal horn", root: "b-r-n", frame: bare}
     - form: burán
       class: v
@@ -7741,6 +7793,31 @@ data:
       gloss: "roof of a chamber or building"
       root: "d-k-m"
       frame: bare
+    - {"form": "Khazár", "class": "n", "field": "Kin and the house", "gloss": "one of the people"}
+    - "form": "garzir"
+      "class": "n"
+      "field": "War and the guarding"
+      "gloss": "one who guards"
+      "root": "g-r-z"
+      "frame": "worker"
+    - "form": "rabík"
+      "class": "adj"
+      "field": "The grain of the rock"
+      "gloss": "broad, wide"
+      "root": "r-b-k"
+      "frame": "adjective"
+    - "form": "darz"
+      "class": "n"
+      "field": "Oath, law and measure"
+      "gloss": "opposition to a proposal"
+      "root": "d-r-z"
+      "frame": "bare"
+    - "form": "khamdir"
+      "class": "n"
+      "field": "Listening and the cut"
+      "gloss": "one who hears"
+      "root": "kh-m-d"
+      "frame": "worker"
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -8383,6 +8460,41 @@ data:
     - {root: t-z-b, sense: "ankle", field: body}
     - {root: d-k-m, sense: "roof of a chamber or building", field: cave}
   register:
+    - {name: Malan, tongue: khazari, built: [m-l-n, "given name, woman"]}
+    - {name: Rimkin, tongue: khazari, built: [r-m-k, "given name, man"]}
+    - {name: Khardan, tongue: khazari, built: [kh-r-d, "given name, man"]}
+    - {name: Fikir, tongue: khazari, built: [f-k-r, "given name, woman"]}
+    - {name: Dolok, tongue: khazari, built: [d-l-k, "given name, woman"]}
+    - {name: Thimrin, tongue: khazari, built: [th-m-r, "given name, man"]}
+    - {name: Rumuk, tongue: khazari, built: [r-m-k, "given name, woman"]}
+    - {name: Gisvin, tongue: khazari, built: [g-s-v, "given name, man"]}
+    - {name: Dunuk, tongue: khazari, built: [d-n-k, "given name, woman"]}
+    - {name: Varan, tongue: khazari, built: [v-r-n, "given name, woman"]}
+    - {name: Dulkun, tongue: khazari, built: [d-l-k, "given name, man"]}
+    - {name: Lukum, tongue: khazari, built: [l-k-m, "given name, woman"]}
+    - {name: Runut, tongue: khazari, built: [r-n-t, "given name, woman"]}
+    - {name: Rikid, tongue: khazari, built: [r-k-d, "given name, woman"]}
+    - {name: Zadaban, tongue: khazari, built: [z-d-b, "given name, man"]}
+    - {name: Tamban, tongue: khazari, built: [t-m-b, "given name, man"]}
+    - {name: Salath, tongue: khazari, built: [s-l-th, "given name, woman"]}
+    - {name: Zagharan, tongue: khazari, built: [z-gh-r, "given name, man"]}
+    - {name: Dirkhin, tongue: khazari, built: [d-r-kh, "given name, man"]}
+    - {name: Linrin, tongue: khazari, built: [l-n-r, "given name, man"]}
+    - {name: Kivil, tongue: khazari, built: [k-v-l, "given name, woman"]}
+    - {name: Ganav, tongue: khazari, built: [g-n-v, "given name, woman"]}
+    - {name: Taspan, tongue: khazari, built: [t-s-p, "given name, man"]}
+    - {name: Bintin, tongue: khazari, built: [b-n-t, "given name, man"]}
+    - {name: Tubur, tongue: khazari, built: [t-b-r, "given name, woman"]}
+    - {name: Fardan, tongue: khazari, built: [f-r-d, "given name, man"]}
+    - {name: Pirin, tongue: khazari, built: [p-r-n, "given name, woman"]}
+    - {name: Hulbun, tongue: khazari, built: [h-l-b, "given name, man"]}
+    - {name: Butum, tongue: khazari, built: [b-t-m, "given name, woman"]}
+    - {name: Nalpan, tongue: khazari, built: [n-l-p, "given name, man"]}
+    - {name: Rumkun, tongue: khazari, built: [r-m-k, "given name, man"]}
+    - {name: Thimir, tongue: khazari, built: [th-m-r, "given name, woman"]}
+    - {name: Khalvan, tongue: khazari, built: [kh-l-v, "given name, man"]}
+    - {name: Samad, tongue: khazari, built: [s-m-d, "given name, woman"]}
+    - {name: Gurzun, tongue: khazari, built: [g-r-z, "given name, man"]}
     - {name: "Balgan", tongue: khazari}
     - {name: "Bamgan", tongue: khazari}
     - {name: "Bantan", tongue: khazari}
