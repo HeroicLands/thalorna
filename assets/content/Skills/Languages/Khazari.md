@@ -7686,6 +7686,61 @@ data:
       gloss: "think or hold a proposition in mind"
       root: "th-d-v"
       frame: deed
+    - form: navak
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "fish"
+      root: "n-v-k"
+      frame: bare
+    - form: fazal
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "seal, the marine animal"
+      root: "f-z-l"
+      frame: bare
+    - form: gathav
+      class: n
+      field: "The grain of the rock"
+      gloss: "ice"
+      root: "g-th-v"
+      frame: bare
+    - form: navas
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "sand"
+      root: "n-v-s"
+      frame: bare
+    - {form: tazab, class: n, field: "Body and person", gloss: "ankle", root: "t-z-b", frame: bare}
+    - form: vadhagh-fusák
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "turn of the tide"
+      root: "f-s-k"
+      frame: bare
+    - form: vadhagh-sumád
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "flood tide, rising sea"
+      root: "s-m-d"
+      frame: bare
+    - form: vadhagh-nudháp
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "ebb tide, falling sea"
+      root: "n-dh-p"
+      frame: bare
+    - form: navak-guráp
+      class: n
+      field: "Other peoples and the larder"
+      gloss: "knife, a fish-cutting blade"
+      root: "n-v-k"
+      frame: bare
+    - form: dakam
+      class: n
+      field: "Caves and their finding"
+      gloss: "roof of a chamber or building"
+      root: "d-k-m"
+      frame: bare
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -8321,6 +8376,12 @@ data:
     - {root: d-v-b, sense: "stiffen physically", field: body}
     - {root: r-s-m, sense: "right-hand side", field: motion}
     - {root: th-d-v, sense: "think or hold a proposition in mind", field: body}
+    - {root: n-v-k, sense: "fish", field: other}
+    - {root: f-z-l, sense: "seal, the marine animal", field: other}
+    - {root: g-th-v, sense: "ice", field: grain}
+    - {root: n-v-s, sense: "sand", field: other}
+    - {root: t-z-b, sense: "ankle", field: body}
+    - {root: d-k-m, sense: "roof of a chamber or building", field: cave}
   register:
     - {name: "Balgan", tongue: khazari}
     - {name: "Bamgan", tongue: khazari}

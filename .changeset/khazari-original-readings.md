@@ -10,3 +10,4 @@
 - The Crossing of the Clans preserves the deep song’s counted courses beside a fresh English translation and Roman reading.
 - The Sealing of the City sets the counted lament beside a fresh English translation and Roman reading.
 - The Sayings of the Masters keeps the chain, spoken courses and workshop glosses beside fresh English and Roman readings.
+- The Finding at the Far Edge keeps the founding account and inscription beside fresh English and Roman readings.
