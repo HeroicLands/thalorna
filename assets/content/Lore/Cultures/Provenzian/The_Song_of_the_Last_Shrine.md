@@ -30,7 +30,7 @@ The poem is rhymed ABABABCC.
 
 : The Song of the Last Shrine {#song}
 
-```verse {form=voyage-song lang=en cols=2}
+```verse {form=voyage-song lang=en cols=2} numstep=5
 1 [Valmare. Daimela ol urzele ultande valera. Jo petate.]{.nativefont lang=prov}
 2 [Wayfarer, patron of every consecrated road, I ask you,]{lang=en}
 2 [Valmare. Daimela ol urzele ultande valera. Jo petate.]{lang=prov}

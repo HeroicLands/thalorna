@@ -29,7 +29,7 @@ The poem is rhymed ABAB.
 
 : The Song of the Nameless Jar {#song}
 
-```verse {form=satire lang=en cols=2}
+```verse {form=satire lang=en cols=2} numstep=5
 1 [De ez tolkemon ol dajimmon lurima ir joreza.]{.nativefont lang=prov}
 2 [Here is a jar of the land’s finest fruit,]{lang=en}
 2 [De ez tolkemon ol dajimmon lurima ir joreza.]{lang=prov}

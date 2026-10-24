@@ -28,7 +28,7 @@ The court singers of [[place-jalnazdal|Jalnasdal]] have the cut songs too, and s
 
 : The Songs of the Salt Pans {#songs}
 
-```verse {form=waiting-song lang=en cols=2}
+```verse {form=waiting-song lang=en cols=2} numstep=5
 1 I. [Jormsater]{.nativefont lang=prov}
 2 [I. The Land Wind]{lang=en}
 2 [I. Jormsater]{lang=prov}

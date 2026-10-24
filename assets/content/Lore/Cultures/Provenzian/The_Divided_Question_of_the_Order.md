@@ -23,7 +23,7 @@ The poem is rhymed ABABCC.
 
 : The Question {#question}
 
-```verse {form=divided-question lang=en cols=2}
+```verse {form=divided-question lang=en cols=2} numstep=5
 1 [SERDALE]{.nativefont lang=prov}
 2 [*SERDALE*]{lang=en}
 2 [SERDALE]{lang=prov}
@@ -294,7 +294,7 @@ The poem is rhymed ABABCC.
 
 : The Judgment {#judgment}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Solvima ol Kalveza tavete de ir Kalveza. Dumva ol daimela demate satore. Etore navena ol Lordeme ol Elteze Cholsama. Pral trameze. Tavemer panize tavemkurete dena fa nasde. Dena ombete fa petandon ol tavemer.]{.nativefont lang=prov}
 2 [Solvima of Kalveza hears this at Kalveza, in the house of the patron giving the table, on the second night of the Festival of the Golden Harvest, before the company. Both parties choose her as judge; she sits at their shared request.]{lang=en}
 2 [Solvima ol Kalveza tavete de ir Kalveza. Dumva ol daimela demate satore. Etore navena ol Lordeme ol Elteze Cholsama. Pral trameze. Tavemer panize tavemkurete dena fa nasde. Dena ombete fa petandon ol tavemer.]{lang=prov}

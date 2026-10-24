@@ -21,7 +21,7 @@ The song is [Sirrelure]{.name data-type="being/npc"}'s, made in his youth in the
 
 : The Reason {#reason}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Zenoton ol de olnare ez denon. Sirrelure ez sourime ol Jalnasdal. De zestema ar demate arleis ol dene. Dene netorate dameza ol telvaral ir veramis. Dene ez galedo ir marendalo ul dene ar kerate daimela. Telvaral zarlete dameza fir dumva ol Kalveza. Semnalis ez pral semnale. Dena netorate Sirrelure sa netorfente jestate. Denon ez ir ziromon. Etor denon dena netorate frandra ziromon. Netorfente anjesterate denon. Dene lokate fir dena ir navena. Dumva ol dena ez zel valmara ol dumbeze. Dene tigate fos dumva pral olnandon ol delandon.]{.nativefont lang=prov}
 2 [The reason for this song is this. Sirrelure is a singer of Jalnasdal. This book does not give his house name. He loves a lady of a great house in the city. He is an academy student without a patron. Her house promises her to a house of [[place-kalveza|Kalveza]]. The contract stands before notaries. She loves Sirrelure as the love code permits: within its order. Then she loves beyond that order, which the code forbids. He comes to her at night. Her house stands below the cistern stair. He leaves before business opens.]{lang=en}
 2 [Zenoton ol de olnare ez denon. Sirrelure ez sourime ol Jalnasdal. De zestema ar demate arleis ol dene. Dene netorate dameza ol telvaral ir veramis. Dene ez galedo ir marendalo ul dene ar kerate daimela. Telvaral zarlete dameza fir dumva ol Kalveza. Semnalis ez pral semnale. Dena netorate Sirrelure sa netorfente jestate. Denon ez ir ziromon. Etor denon dena netorate frandra ziromon. Netorfente anjesterate denon. Dene lokate fir dena ir navena. Dumva ol dena ez zel valmara ol dumbeze. Dene tigate fos dumva pral olnandon ol delandon.]{lang=prov}
@@ -46,7 +46,7 @@ The song is [Sirrelure]{.name data-type="being/npc"}'s, made in his youth in the
 
 : The Song {#song}
 
-```verse {form=dawn-song lang=en cols=2}
+```verse {form=dawn-song lang=en cols=2} numstep=5
 1 [NETORE]{.nativefont lang=prov}
 2 [*THE LOVER*]{lang=en}
 2 [NETORE]{lang=prov}

@@ -31,7 +31,7 @@ The poem is rhymed AABCCB.
 
 : The Lament for Karalze {#lament}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2} numstep=5
 1 [Jo lokate ir pramolza sa jo lokate.]{.nativefont lang=prov}
 2 [I come at morning call, as I come]{lang=en}
 2 [Jo lokate ir pramolza sa jo lokate.]{lang=prov}
