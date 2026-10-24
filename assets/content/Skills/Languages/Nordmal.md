@@ -586,7 +586,7 @@ data:
     - { "form": "nemma", "class": "n", "field": "Everyday speech", "gloss": "receiving, taking" }
     - { "form": "felni", "class": "adj", "field": "Everyday speech", "gloss": "hidden" }
     - {
-        "form": "forhugskensa",
+        "form": "forhugnim",
         "class": "n",
         "field": "Everyday speech",
         "gloss": "foresight, vision of a futureevent",
@@ -5367,7 +5367,8 @@ data:
       concept: freedom
     - form: bandma
       class: n
-      gloss: captivity; the state of being held and prevented from leaving
+      gloss: captivity; the state of being held and prevented from leaving; also, a
+        bundle
       field: Everyday speech
       concept: captivity
     - form: nodma
@@ -6945,6 +6946,194 @@ data:
       class: v
       field: Everyday speech
       gloss: bless
+    - form: setma
+      class: n
+      field: Everyday speech
+      gloss: setting of grain
+    - form: setna
+      class: v
+      field: Everyday speech
+      gloss: set, developgrain
+    - form: leka
+      class: v
+      field: Everyday speech
+      gloss: leak
+    - form: furva
+      class: n
+      field: Everyday speech
+      gloss: pine tree
+    - form: mulkvil
+      class: n
+      field: Everyday speech
+      gloss: cow
+    - form: arvna
+      class: v
+      field: Everyday speech
+      gloss: row
+    - form: setvid
+      class: n
+      field: Everyday speech
+      gloss: thwart
+    - form: skipbast
+      class: n
+      field: Everyday speech
+      gloss: stern
+    - form: steadva
+      class: n
+      field: Everyday speech
+      gloss: ballast
+    - form: vagnva
+      class: n
+      field: Everyday speech
+      gloss: wagon
+    - form: ankrva
+      class: n
+      field: Everyday speech
+      gloss: anchor
+    - form: hafskromi
+      class: n
+      field: Everyday speech
+      gloss: seamount
+    - form: svinma
+      class: n
+      field: Everyday speech
+      gloss: swing
+    - form: kvilheim
+      class: n
+      field: Everyday speech
+      gloss: byre
+    - form: heimgard
+      class: n
+      field: Everyday speech
+      gloss: yard
+    - form: skupva
+      class: n
+      field: Everyday speech
+      gloss: scoop
+    - form: skupna
+      class: v
+      field: Everyday speech
+      gloss: bail water
+    - form: skupma
+      class: n
+      field: Everyday speech
+      gloss: bailing
+    - form: borgkring
+      class: n
+      field: Everyday speech
+      gloss: siege
+    - form: finvma
+      class: n
+      field: Everyday speech
+      gloss: discovery
+    - form: drakma
+      class: n
+      field: Everyday speech
+      gloss: pull, drawing
+    - form: strauva
+      class: n
+      field: Everyday speech
+      gloss: straw
+    - form: glasva
+      class: n
+      field: Everyday speech
+      gloss: glass
+    - form: skipnif
+      class: n
+      field: Everyday speech
+      gloss: bilge
+    - form: velhug
+      class: n
+      field: Everyday speech
+      gloss: cunning
+    - form: stapna
+      class: adj
+      field: Everyday speech
+      gloss: stopped
+    - form: skorna
+      class: v
+      field: Everyday speech
+      gloss: despise
+    - form: rugma
+      class: n
+      field: Everyday speech
+      gloss: corruption
+    - form: velnri
+      class: adj
+      field: Everyday speech
+      gloss: favored or chosen
+    - form: ljormna
+      class: adj
+      field: Everyday speech
+      gloss: lighted
+    - form: skelnri
+      class: adj
+      field: Everyday speech
+      gloss: shared
+    - form: sulma
+      class: n
+      field: Everyday speech
+      gloss: pouring
+    - form: hludna
+      class: adj/n
+      field: Everyday speech
+      gloss: breathing
+    - form: kallarni
+      class: adj
+      field: Everyday speech
+      gloss: invited
+    - form: skrifvef
+      class: n
+      field: Everyday speech
+      gloss: parchment
+    - form: glisna
+      class: adj
+      field: Everyday speech
+      gloss: lost
+    - form: nafmna
+      class: adj
+      field: Everyday speech
+      gloss: named
+    - form: vrondna
+      class: adj
+      field: Everyday speech
+      gloss: spared or protected
+    - form: andvirdma
+      class: n
+      field: Everyday speech
+      gloss: opposition
+    - form: kvilfund
+      class: n
+      field: Everyday speech
+      gloss: hoof
+    - form: farnva
+      class: adj
+      field: Everyday speech
+      gloss: furthest
+    - form: skipfarda
+      class: n
+      field: Everyday speech
+      gloss: voyage
+    - form: dulvna
+      class: n
+      field: Everyday speech
+      gloss: darkening
+    - form: vredma
+      class: n
+      field: Everyday speech
+      gloss: width
+    - form: njorvma
+      class: n
+      field: Everyday speech
+      gloss: depth
+    - form: slakna
+      class: adj
+      field: Everyday speech
+      gloss: struck
+    - form: dumna
+      class: n
+      field: Everyday speech
+      gloss: fading of light
   naming:
     edges:
       - edge: openConsonant

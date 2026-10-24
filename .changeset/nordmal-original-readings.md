@@ -18,3 +18,5 @@
 - Storald of Draskborg sets the full telling and its quoted stanzas in Nordmal beside a fresh English translation and Roman reading.
 - Hvelmsnerv sets the Whale-Prophecy and the skald’s recital in Nordmal beside a fresh English translation and Roman reading.
 - Thrunhamarr sets the Hammer Held recitation in Nordmal beside a fresh English translation and Roman reading.
+- Skipskreld sets the Ship-Scar telling, its two openings and its replies in Nordmal beside fresh English and Roman readings.
+- The Asguardian Pantheon and Faith of Thrunvald set their recitations in Nordmal beside fresh English and Roman readings.

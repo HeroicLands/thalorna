@@ -977,9 +977,9 @@ The faith keeps the well in a rite. The [Rite of Minnir's Well]{.name data-type=
 2 [Odvar goes forward]{lang=en}
 2 [Odvar gang framri]{lang=nord}
 
-1 [tiv vangri na forhugskensa.]{.nativefont lang=nord}
+1 [tiv vangri na forhugnim.]{.nativefont lang=nord}
 2 [to the field of his foresight.]{lang=en}
-2 [tiv vangri na forhugskensa.]{lang=nord}
+2 [tiv vangri na forhugnim.]{lang=nord}
 
 1 [Ulfva nem hanv.]{.nativefont lang=nord}
 2 [The wolf takes him.]{lang=en}
