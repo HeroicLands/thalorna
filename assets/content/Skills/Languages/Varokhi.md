@@ -4712,6 +4712,22 @@ data:
     - {form: tarwa, class: n, field: "Everyday speech", gloss: "tar"}
     - {form: slagren, class: n, field: "The reciters' stock", gloss: "a blow"}
     - {form: wredren, class: n, field: "The reciters' stock", gloss: "a killing"}
+    - {form: wersteld, class: n, field: "The reciters' stock", gloss: "wooden post"}
+    - {form: fisgrend, class: n, field: "The reciters' stock", gloss: "fishing weir"}
+    - {form: milwen, class: n, field: "Everyday speech", gloss: "mile"}
+    - {form: gerfil, class: n, field: "The reciters' stock", gloss: "arrow"}
+    - {form: suler, class: n, field: "Everyday speech", gloss: "illness or disease"}
+    - form: huldren
+      class: n
+      field: "Everyday speech"
+      gloss: "a hide, animal skin used as covering"
+    - {form: wergrend, class: n, field: "The reciters' stock", gloss: "fence or stockade"}
+    - {form: mandri, class: adj, field: "Everyday speech", gloss: "empty"}
+    - {form: selmal, class: n, field: "The reciters' stock", gloss: "a recited line"}
+    - {form: ludri, class: adj, field: "Everyday speech", gloss: "closed"}
+    - {form: hildhul, class: n, field: "The reciters' stock", gloss: "shield"}
+    - {form: tagren, class: n, field: "Everyday speech", gloss: "one's allotted turn in sequence"}
+    - {form: ruwen, class: n, field: "Everyday speech", gloss: "shape or bodily form"}
   elements:
     - {form: arn-, position: opening, sense: an eagle, examples: [Arnthúl, Arnmund, Arnwin]}
     - form: ar-
