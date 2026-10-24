@@ -17,3 +17,4 @@
 - Thrumufjall sets the mountain ascent and its two kinds of keeping in Nordmal beside a fresh English translation and Roman reading.
 - Storald of Draskborg sets the full telling and its quoted stanzas in Nordmal beside a fresh English translation and Roman reading.
 - Hvelmsnerv sets the Whale-Prophecy and the skald’s recital in Nordmal beside a fresh English translation and Roman reading.
+- Thrunhamarr sets the Hammer Held recitation in Nordmal beside a fresh English translation and Roman reading.

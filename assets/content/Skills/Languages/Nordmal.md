@@ -6889,6 +6889,62 @@ data:
       class: v
       field: Everyday speech
       gloss: melt
+    - form: haflurva
+      class: n
+      field: Everyday speech
+      gloss: gull
+    - form: motma
+      class: n
+      field: Everyday speech
+      gloss: shaping
+    - form: skrombrakri
+      class: n
+      field: Everyday speech
+      gloss: mountainbreaker
+    - form: skipfralm
+      class: n
+      field: Everyday speech
+      gloss: prow
+    - form: tvarma
+      class: n
+      field: Everyday speech
+      gloss: crossing
+    - form: skipveg
+      class: n
+      field: Everyday speech
+      gloss: wake of a ship
+    - form: moskva
+      class: n
+      field: Everyday speech
+      gloss: mist
+    - form: hafatvigri
+      class: n
+      field: Everyday speech
+      gloss: reaver
+    - form: jarnva
+      class: n
+      field: Everyday speech
+      gloss: iron
+    - form: klivma
+      class: n
+      field: Everyday speech
+      gloss: climb
+    - form: hurvma
+      class: n
+      field: Everyday speech
+      gloss: height
+    - form: sparma
+      class: n
+      field: Everyday speech
+      gloss: restraint, sparinguse
+    - form: skipvid
+      class: n
+      field: Everyday speech
+      gloss: mast
+    - form: hovnodna
+      class: v
+      field: Everyday speech
+      gloss: bless
   naming:
     edges:
       - edge: openConsonant
