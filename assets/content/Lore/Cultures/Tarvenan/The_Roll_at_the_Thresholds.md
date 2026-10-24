@@ -23,7 +23,7 @@ At the end the captain and the company say the contract over before the stone, a
 
 : The Roll at the Thresholds {#roll}
 
-```verse {form=litany lang=en cols=2}
+```verse {form=litany lang=en cols=2} numstep=5
 ***
 
 1 [THRUMAR]{lang=tarv}

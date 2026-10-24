@@ -29,7 +29,7 @@ The poem is in verse paragraphs of uneven length, each held on one vowel at the 
 
 : The Song of the Lower End {#oldemo}
 
-```verse {form=oldemo lang=en cols=2}
+```verse {form=oldemo lang=en cols=2} numstep=5
 ***
 
 1 [En ared ir alatho sedon. En lozed talor.]{.nativefont lang=tarv}

@@ -23,7 +23,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 ## The Greeting {#greeting}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Urzele sormar olimad dun karna hir arthauna. Sormar tavkured soral. Etore sormar gerpalad kured soral ol olime sormar. Lírkeza tavkured soral o.]{.nativefont lang=tarv}
 2 [Each singer begins with a stanza for the fair and chooses a vowel. The second singer must take the first singer’s vowel. The Sling chooses o.]{lang=en}
 2 [Urzele sormar olimad dun karna hir arthauna. Sormar tavkured soral. Etore sormar gerpalad kured soral ol olime sormar. Lírkeza tavkured soral o.]{lang=tarv}
@@ -31,7 +31,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 : The Greeting {#greeting-verses}
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 ***
 
 1 [LÍRKEZA]{lang=tarv}
@@ -117,7 +117,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 ## The Muster {#muster}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Kornazdo lendad olime tema. Lírkeza. Ko ared thrumar ir mustra ol nural. Therna ol ko ared zed. Ozkarre. Ko ared ular nuron. 15 tarnela. Ko aved tigad. Soral ared a. Kornazdo daimad nuron hir ankelos thramzo ek thrumar hir venera. Denon ared sa temadar ertad. Tha ar urkis ol tavre dunad sormad ol kezdandon ol vethis.]{.nativefont lang=tarv}
 2 [The horse-judge sets the first theme. Sling, you are captain at the spring muster. Your roll is full. Hail, you are a herd boy, fifteen, wanting to go. The vowel is a. He gives the boy to the old soldier and the captain to the woman, as theme-givers do, so neither sings only their own knowledge.]{lang=en}
 2 [Kornazdo lendad olime tema. Lírkeza. Ko ared thrumar ir mustra ol nural. Therna ol ko ared zed. Ozkarre. Ko ared ular nuron. 15 tarnela. Ko aved tigad. Soral ared a. Kornazdo daimad nuron hir ankelos thramzo ek thrumar hir venera. Denon ared sa temadar ertad. Tha ar urkis ol tavre dunad sormad ol kezdandon ol vethis.]{lang=tarv}
@@ -125,7 +125,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 : The Muster {#muster-verses}
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 ***
 
 1 [OZKARRE]{lang=tarv}
@@ -325,7 +325,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 ## The Mule in the Byre {#mule}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Etore tema ared sormo ol zolmos kanel ir kombrelalo ol maltho. Ozkarre. Ko antigad hos selta tarnela ol semna. Zelma ared ir dekazu. Lírkeza. Ko karzad kombrelalo selta tarnela. Harlen ol kombrelalo ared ol Ozkarre. Soral ared e.]{.nativefont lang=tarv}
 2 [The second theme is sung most often at the hill holdings. Hail, you return from six years of contract with money in hand. Sling, you manage the holding those six years. Its name belongs to Hail. The vowel is e.]{lang=en}
 2 [Etore tema ared sormo ol zolmos kanel ir kombrelalo ol maltho. Ozkarre. Ko antigad hos selta tarnela ol semna. Zelma ared ir dekazu. Lírkeza. Ko karzad kombrelalo selta tarnela. Harlen ol kombrelalo ared ol Ozkarre. Soral ared e.]{lang=tarv}
@@ -333,7 +333,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 : The Mule in the Byre {#mule-verses}
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 ***
 
 1 [OZKARRE]{lang=tarv}
@@ -525,19 +525,19 @@ The Sling was a woman of the third farm above the town who had run her holding t
 2 [De ared oleti en tigad. Dadro nathre.]{lang=tarv}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Arthauna daimad tema hir Lírkeza hir karna ol helza. Kornazdo dokad denon. Etor denon kornazdo dokad. Orthe karna ol Ozkarre thaurad soral thur lambize. Ar veretis vethoked ath lambize. Verezos dunad ertad denon. Verezos ared dadro kelzaro pral kanel.]{.nativefont lang=tarv}
 2 [The fair gives the theme to Sling for the fourth stanza. The horse-judge says so, then says Hail’s last stanza keeps the vowel through an unexpected word. Someone able to do this is a good crossbowman before.]{lang=en}
 2 [Arthauna daimad tema hir Lírkeza hir karna ol helza. Kornazdo dokad denon. Etor denon kornazdo dokad. Orthe karna ol Ozkarre thaurad soral thur lambize. Ar veretis vethoked ath lambize. Verezos dunad ertad denon. Verezos ared dadro kelzaro pral kanel.]{lang=tarv}
 ```
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 
 ```
 
 ## The Stone in the Yard {#stone}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Lírkeza. Ko ared goitsa ir korva ol de arthauna. Ozkarre. Ko zarlad us goitsa ir arthauna ol nural. Korno ared ankelmelo. Korno ar ared ankelmelo. Soral ared o. Goitsa ared ir korva ken sormar sormad. Lírkeza sormad dun dekazu us goitsa.]{.nativefont lang=tarv}
 2 [Sling, you are the oath stone in this fair’s yard. Hail, you swear upon it at the spring fair that a horse is healthy. It is not healthy. The vowel is o. The stone stands in the yard during the song. Sling sings with her hand upon it.]{lang=en}
 2 [Lírkeza. Ko ared goitsa ir korva ol de arthauna. Ozkarre. Ko zarlad us goitsa ir arthauna ol nural. Korno ared ankelmelo. Korno ar ared ankelmelo. Soral ared o. Goitsa ared ir korva ken sormar sormad. Lírkeza sormad dun dekazu us goitsa.]{lang=tarv}
@@ -545,7 +545,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 : The Stone in the Yard {#stone-verses}
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 ***
 
 1 [OZKARRE]{lang=tarv}
@@ -699,13 +699,13 @@ The Sling was a woman of the third farm above the town who had run her holding t
 2 [Varelin. Ar ar varelin.]{lang=tarv}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Arthauna daimad tema hir Ozkarre. Lírkeza arnad hir Ozkarre dun alete. Kornazdo dokad. Sormo ol talor ared dadro. Sormo ol verezos ared mazeron dadro. Oleti verezos kerad korethos solten.]{.nativefont lang=tarv}
 2 [The fair gives the theme to Hail. Sling stamps for him with the others. The horse-judge says the stone is sung well and the person better: the person has the worse part.]{lang=en}
 2 [Arthauna daimad tema hir Ozkarre. Lírkeza arnad hir Ozkarre dun alete. Kornazdo dokad. Sormo ol talor ared dadro. Sormo ol verezos ared mazeron dadro. Oleti verezos kerad korethos solten.]{lang=tarv}
 ```
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 ***
 
 1 [Variant ol arthauna ol maltho. Kurelar lokad hir ko.]{.nativefont lang=tarv}
@@ -719,7 +719,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 ## The Last Word {#last-word}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Ir orthemadon ol gortsada temadar dunad lendad urkis lambize. Urzele sormar sormad urkis karna ol denon. Ar urkis pethred. Kornazdo daimad lambize ervo. Soral ared o.]{.nativefont lang=tarv}
 2 [At a duel’s end the theme-giver may set one word. Each singer sings one stanza on it. Neither answers. The horse-judge gives ervo, free. The vowel is o.]{lang=en}
 2 [Ir orthemadon ol gortsada temadar dunad lendad urkis lambize. Urzele sormar sormad urkis karna ol denon. Ar urkis pethred. Kornazdo daimad lambize ervo. Soral ared o.]{lang=tarv}
@@ -727,7 +727,7 @@ The Sling was a woman of the third farm above the town who had run her holding t
 
 : The Last Word {#last-word-verses}
 
-```verse {form=gortsada lang=en cols=2}
+```verse {form=gortsada lang=en cols=2} numstep=5
 ***
 
 1 [OZKARRE]{lang=tarv}
