@@ -4702,7 +4702,7 @@ data:
     - form: bandwa
       class: v
       field: "The reciters' stock"
-      gloss: "bind someone to an obligation"
+      gloss: "bind someone to an obligation; bind physically with a cord or wrapping"
     - {form: sadhwen, class: n, field: "The reciters' stock", gloss: "witness"}
     - {form: sumra, class: n, field: "Everyday speech", gloss: "summer"}
     - {form: frawren, class: n, field: "Everyday speech", gloss: "a question"}
@@ -4728,6 +4728,315 @@ data:
     - {form: hildhul, class: n, field: "The reciters' stock", gloss: "shield"}
     - {form: tagren, class: n, field: "Everyday speech", gloss: "one's allotted turn in sequence"}
     - {form: ruwen, class: n, field: "Everyday speech", gloss: "shape or bodily form"}
+    - {form: "swethen", class: "n", field: "Kept words", gloss: "comb"}
+
+    - {form: "swethra", class: "v", field: "Kept words", gloss: "comb hair"}
+
+    - {form: "halweth", class: "n", field: "Kept words", gloss: "handle or haft"}
+
+    - {form: "bugren", class: "n", field: "Kept words", gloss: "bend"}
+
+    - {form: "watrag", class: "n", field: "Kept words", gloss: "pail"}
+
+    - {form: "bewtha", class: "v", field: "Kept words", gloss: "bite or gnaw through"}
+
+    - {form: "skern", class: "n", field: "Kept words", gloss: "notch in an edge"}
+
+    - {form: "skarwa", class: "v", field: "Kept words", gloss: "grind an edge"}
+
+    - {form: "ashwen", class: "n", field: "Kept words", gloss: "ash tree or its wood"}
+
+    - {form: "horneth", class: "n", field: "Kept words", gloss: "antler"}
+
+    - {form: "werflin", class: "n", field: "Kept words", gloss: "wood shaving"}
+
+    - form: "nethhem"
+      class: "n"
+      field: "Kept words"
+      gloss: "needle-case"
+      built: ["nethil", "hemra, lexical compound"]
+
+    - {form: "stoper", class: "n", field: "Kept words", gloss: "stopper"}
+
+    - {form: "nethra", class: "v", field: "Kept words", gloss: "sew"}
+
+    - {form: "grarwen", class: "n", field: "Kept words", gloss: "thicket"}
+
+    - form: "erthhul"
+      class: "n"
+      field: "Kept words"
+      gloss: "turf"
+      built: ["erthmel", "huleth, lexical compound"]
+
+    - {form: "erthwa", class: "v", field: "Kept words", gloss: "dig earth"}
+
+    - {form: "thuvren", class: "v", field: "Kept words", gloss: "inherit property"}
+
+    - {form: "wremna", class: "v", field: "Kept words", gloss: "sing a set song"}
+
+    - {form: "savwen", class: "n", field: "Kept words", gloss: "blade of a tool"}
+
+    - {form: "werknul", class: "n", fie    - form: "drungwar"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "reciter of a fixed lay"
+      built: ["drunga", "war"]
+
+    - form: "glenra"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "shade"
+
+    - form: "werstam"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "tree trunk"
+
+    - form: "weirwar"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "scout"
+      built: ["weir", "war"]
+
+    - form: "hralskel"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "nail of iron"
+      built: ["hraldi", "skelth"]
+
+    - form: "drungra"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "recite a fixed lay"
+
+    - form: "hringra"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "ring of a mail coat"
+
+    - form: "hringwef"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "mail coat"
+      built: ["hringra", "wefra"]
+
+    - form: "hildhruva"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "war-mask"
+      built: ["hildren", "hruva"]
+
+    - form: "howhul"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "helmet"
+
+    - form: "watrhul"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "waterskin"
+      built: ["watra", "huleth"]
+
+    - form: "misthel"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "mist"
+
+    - form: "girwen"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "spirit without specifying its kind"
+
+    - form: "faskel"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "board or plank"
+
+    - form: "hruhorn"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "signal horn"
+      built: ["hruwen", "horneth"]
+
+    - form: "vathren"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "flood"
+
+    - form: "punra"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "bury or lay in a grave"
+
+    - form: "hildwar"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "warrior"
+      built: ["hildren", "war"]
+
+    - form: "selth"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "salt"
+
+    - form: "huzra"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "face or be turned toward"
+
+    - form: "brenwul"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "splint for binding a bone"
+      built: ["bren", "wulra"]
+
+    - form: "werdrith"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "bast fiber"
+      built: ["werla", "drith"]
+
+    - form: "wrestha"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "wring moisture out"
+
+    - form: "swepra"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "sweep"
+
+    - form: "madrut"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "spit"
+
+    - form: "mewfen"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "teat"
+
+    - form: "fenslag"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "kick"
+      built: ["fendar", "slagra"]
+
+    - form: "wulflin"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "splinter"
+
+    - form: "hrewil"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "yarrow"
+
+    - form: "grashel"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "dock, broad-leaved herb"
+
+    - form: "hertha"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "chew"
+
+    - form: "hruweth"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "sting"
+
+    - form: "wrenhal"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "pinch"
+
+    - form: "blugras"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "plantain, broad-leaved herb"
+
+    - form: "mewsel"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "honey"
+
+    - form: "mewhem"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "honeycomb"
+
+    - form: "wurwen"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "willow"
+
+    - form: "fulglar"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "tallow"
+      built: ["fulwa", "glarth"]
+
+    - form: "wethhul"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "mitten"
+      built: ["wethan", "huleth"]
+
+    - form: "rewgras"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "nettle"
+
+    - form: "werjun"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "seedling"
+      built: ["werla", "junri"]
+
+    - form: "mewflur"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "bee"
+
+    - form: "mewrik"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "queen bee"
+      built: ["mewsel", "rikwen"]
+
+    - form: "bandreth"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "snare"
+      built: ["bandren", "dreth"]
+
+    - form: "wirdwen"
+      class: "n"
+      field: "The reciters' stock"
+      gloss: "price, including a cost other than blood-price"
+
+    - form: "wenfraw"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "haggle over a price"
+
+    - form: "wethrul"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "rub with a hand"
+
+    - form: "warthra"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "warm something"
+
+    - form: "gulra"
+      class: "v"
+      field: "The reciters' stock"
+      gloss: "light or kindle a fire"
+ld: "Kept words", gloss: "knob of wood"}
   elements:
     - {form: arn-, position: opening, sense: an eagle, examples: [Arnthúl, Arnmund, Arnwin]}
     - form: ar-
