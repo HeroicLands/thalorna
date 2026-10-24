@@ -717,9 +717,9 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 2 [Two burdens lie in listening.]{lang=en}
 2 [Tvei barma es inn hlusta.]{lang=nord}
 
-1 [Noll hanth band andra hugdar.]{.nativefont lang=nord}
+1 [Noll hanth knelda andra hugdar.]{.nativefont lang=nord}
 2 [No bridge binds their different reasons.]{lang=en}
-2 [Noll hanth band andra hugdar.]{lang=nord}
+2 [Noll hanth knelda andra hugdar.]{lang=nord}
 
 1 [Noll braska nod samna tiv thenva.]{.nativefont lang=nord}
 2 [No boast gives them agreement.]{lang=en}

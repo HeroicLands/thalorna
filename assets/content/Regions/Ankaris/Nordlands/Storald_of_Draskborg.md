@@ -58,9 +58,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 : Gnurthorv's answer at the ting {#ting}
 
 ```verse {form=skaldic lang=en cols=2}
-1 [Frostva smiv ji or vangri rand.]{.nativefont lang=nord}
+1 [Frostva smiv ji or vangri randva.]{.nativefont lang=nord}
 2 [Frost works the field's edge.]{lang=en}
-2 [Frostva smiv ji or vangri rand.]{lang=nord}
+2 [Frostva smiv ji or vangri randva.]{lang=nord}
 
 1 [Hondknel na thurs rurna.]{.nativefont lang=nord}
 2 [The giant's knuckle moves.]{lang=en}
@@ -198,9 +198,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [Nalthvir eldra dresk sjel. Verse na borgva na eldra es hern. Borgva hav it fror ul andra storald. Einri helv na it stavi.]{.nativefont lang=nord}
+1 [Nalthvir eldra dresk sjel. Dirmlan na borgva na eldra es hern. Borgva hav it fror ul andra storald. Einri helv na it stavi.]{.nativefont lang=nord}
 2 [[Nalthvir]{.name data-type="being/npc"} lit the beacon himself. The fort's lighting stanza follows. The fort had it before the rest of the saga. Only half remains.]{lang=en}
-2 [Nalthvir eldra dresk sjel. Verse na borgva na eldra es hern. Borgva hav it fror ul andra storald. Einri helv na it stavi.]{lang=nord}
+2 [Nalthvir eldra dresk sjel. Dirmlan na borgva na eldra es hern. Borgva hav it fror ul andra storald. Einri helv na it stavi.]{lang=nord}
 ```
 
 : The beacon {#beacon}
@@ -286,9 +286,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [The men understood and laughed. [Gnurthorv]{.name data-type="being/npc"} laughed with them, carefully.]{lang=en}
 2 [Karnva nem menma ok gulna. Gnurthorv gulna miv thenva. Miv mervi na sjel.]{lang=nord}
 
-1 [Staf tvei gludva es likva staf eiv. Verse na grend es hern. Lanma na Skaldating nel velna es ut.]{.nativefont lang=nord}
+1 [Staf tvei gludva es likva staf eiv. Dirmlan na grend es hern. Lanma na Skaldating nel velna es ut.]{.nativefont lang=nord}
 2 [The second day followed the first. This is the gate stanza, with the line the [[lore-skaldating|Skaldating]] could not settle omitted.]{lang=en}
-2 [Staf tvei gludva es likva staf eiv. Verse na grend es hern. Lanma na Skaldating nel velna es ut.]{lang=nord}
+2 [Staf tvei gludva es likva staf eiv. Dirmlan na grend es hern. Lanma na Skaldating nel velna es ut.]{lang=nord}
 ```
 
 : The gate {#gate}
@@ -310,7 +310,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 2 [gave a gate for their looking.]{lang=en}
 2 [nod grend firn skensa na thenva.]{lang=nord}
 
-[…]
+1 […]
+2 […]
+2 […]
 
 1 [Skeldrand hupra junva karnva.]{.nativefont lang=nord}
 2 [A shield edge above a young man.]{lang=en}
@@ -326,9 +328,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-targud|Targud]], this is the 
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [Staf thrin gludva helma komri tvar rygva af Tvalgard. Seks dek karnva or skila. Sleidva es bast. Hersvald es fralm. Snervi or isva sken thenva fror karnva or hlerth. Grukar gang bak nif vathra or samri vegri. Verse na helma na borgva es hern.]{.nativefont lang=nord}
+1 [Staf thrin gludva helma komri tvar rygva af Tvalgard. Seks dek karnva or skila. Sleidva es bast. Hersvald es fralm. Snervi or isva sken thenva fror karnva or hlerth. Grukar gang bak nif vathra or samri vegri. Dirmlan na helma na borgva es hern.]{.nativefont lang=nord}
 2 [On the third day help crossed the ridge from [[place-tvalgard|Tvalgard]]: sixty men on skis, sledges behind, the [[lore-hersvaldrnk|hersvald]] ahead. Thin ones on the ice saw them before the men on the rise. The [[lore-grukarfolk|Grukar]] went back downriver by their old road. This is the fort's relief stanza.]{lang=en}
-2 [Staf thrin gludva helma komri tvar rygva af Tvalgard. Seks dek karnva or skila. Sleidva es bast. Hersvald es fralm. Snervi or isva sken thenva fror karnva or hlerth. Grukar gang bak nif vathra or samri vegri. Verse na helma na borgva es hern.]{lang=nord}
+2 [Staf thrin gludva helma komri tvar rygva af Tvalgard. Seks dek karnva or skila. Sleidva es bast. Hersvald es fralm. Snervi or isva sken thenva fror karnva or hlerth. Grukar gang bak nif vathra or samri vegri. Dirmlan na helma na borgva es hern.]{lang=nord}
 ```
 
 : The relief {#relief}

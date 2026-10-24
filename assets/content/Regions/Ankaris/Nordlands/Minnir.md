@@ -145,9 +145,9 @@ The faith keeps the well in a rite. The [Rite of Minnir's Well]{.name data-type=
 2 [He rises different]{lang=en}
 2 [Hanv risna andra]{lang=nord}
 
-1 [af rand na vatna.]{.nativefont lang=nord}
+1 [af randva na vatna.]{.nativefont lang=nord}
 2 [from the water's edge.]{lang=en}
-2 [af rand na vatna.]{lang=nord}
+2 [af randva na vatna.]{lang=nord}
 
 1 [Eiv delva vendri dulvi]{.nativefont lang=nord}
 2 [One part grows dark]{lang=en}

@@ -28,9 +28,9 @@ data:
 : Skipskreld {#skreld}
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -48,9 +48,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -68,9 +68,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -80,9 +80,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -100,9 +100,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -120,9 +120,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -140,9 +140,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -152,9 +152,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -172,9 +172,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 .[_Arvna so._]{lang=nord}
+1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
-2 .[_Arvna so._]{lang=nord}
+2 .[Arvna so.]{lang=nord}
 ```
 
 ```verse {form=prose lang=en cols=2}
@@ -186,9 +186,9 @@ data:
 : Skipskreld, forty and forty {#skreld-2}
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -271,9 +271,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -283,9 +283,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -342,9 +342,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -362,9 +362,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -408,9 +408,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -420,9 +420,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -466,9 +466,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -478,9 +478,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -524,9 +524,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 .[_Arvna so._]{lang=nord}
+1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
-2 .[_Arvna so._]{lang=nord}
+2 .[Arvna so.]{lang=nord}
 ```
 
 ```verse {form=prose lang=en cols=2}
@@ -538,9 +538,9 @@ data:
 : Skipskreld, the bailing {#skreld-3}
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -558,9 +558,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -617,15 +617,15 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 .[_Arvna so._]{lang=nord}
+1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
-2 .[_Arvna so._]{lang=nord}
+2 .[Arvna so.]{lang=nord}
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -643,9 +643,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -663,9 +663,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -683,9 +683,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -703,9 +703,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -723,9 +723,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -769,9 +769,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -781,9 +781,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -801,9 +801,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 .[_Arvna so._]{lang=nord}
+1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
-2 .[_Arvna so._]{lang=nord}
+2 .[Arvna so.]{lang=nord}
 ```
 
 ```verse {form=prose lang=en cols=2}
@@ -815,9 +815,9 @@ data:
 : Skipskreld, the twelve sagas {#skreld-4}
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -848,9 +848,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -907,9 +907,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -927,9 +927,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -973,9 +973,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 .[_Arvna so._]{lang=nord}
+1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
-2 .[_Arvna so._]{lang=nord}
+2 .[Arvna so.]{lang=nord}
 ```
 
 ```verse {form=prose lang=en cols=2}
@@ -987,9 +987,9 @@ data:
 : Skipskreld, two hundred strokes {#skreld-5}
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -999,9 +999,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1011,9 +1011,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1023,9 +1023,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1035,9 +1035,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1047,9 +1047,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1059,9 +1059,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1092,9 +1092,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1104,9 +1104,9 @@ data:
 ```
 
 ```verse {form=prose lang=en cols=2}
-1 [_Velgrímur marl._]{lang=nord}
+1 [Velgrímur marl.]{lang=nord}
 2 [_[[lore-velgrimurdty|Velgrímur]] said:_]{lang=en}
-2 [_Velgrímur marl._]{lang=nord}
+2 [Velgrímur marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1184,9 +1184,9 @@ data:
 : Skipskreld, the two lines {#skreld-6}
 
 ```verse {form=prose lang=en cols=2}
-1 [_Thrunvald marl._]{lang=nord}
+1 [Thrunvald marl.]{lang=nord}
 2 [_[[lore-thrunvalddty|Thrunvald]] said:_]{lang=en}
-2 [_Thrunvald marl._]{lang=nord}
+2 [Thrunvald marl.]{lang=nord}
 ```
 
 ```verse {form=skreld lang=en cols=2}
@@ -1208,9 +1208,9 @@ data:
 : Skipskreld, the last line {#skreld-7}
 
 ```verse {form=prose lang=en cols=2}
-1 .[_Arvna so._]{lang=nord}
+1 .[Arvna so.]{lang=nord}
 2 .[_Row then._]{lang=en}
-2 .[_Arvna so._]{lang=nord}
+2 .[Arvna so.]{lang=nord}
 ```
 
 ## See Also

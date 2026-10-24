@@ -96,9 +96,9 @@ data:
 2 [Hrafanvar's yard, its slips, its sawpit, its tar pot.]{lang=en}
 2 [Skipsta na Hrafanvar miv skipsnir ok skardhul ok tarka gnum.]{lang=nord}
 
-1 [It hav henva inn ul thima na larg. Tvei veturma.]{.nativefont lang=nord}
+1 [It hav henva inn ul thima na largma. Tvei veturma.]{.nativefont lang=nord}
 2 [It had her through every lighted hour. Two winters.]{lang=en}
-2 [It hav henva inn ul thima na larg. Tvei veturma.]{lang=nord}
+2 [It hav henva inn ul thima na largma. Tvei veturma.]{lang=nord}
 
 1 [It hugni hondi na henva.]{.nativefont lang=nord}
 2 [It knows her hands.]{lang=en}

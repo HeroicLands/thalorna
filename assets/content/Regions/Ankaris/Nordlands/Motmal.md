@@ -180,9 +180,9 @@ At [[place-vithgard|Vithgard]]'s great hov of [[affiliation-motefnir|Mótefnir]]
 2 [The one it was cut from.]{lang=en}
 2 [Hanv na kildma na skirv.]{lang=nord}
 
-1 [Gnum minva hlerth na grafa na it va.]{.nativefont lang=nord}
+1 [Gnum minva hlerth na grufna na it va.]{.nativefont lang=nord}
 2 [Does a pot remember the hill it was dug from?]{lang=en}
-2 [Gnum minva hlerth na grafa na it va.]{lang=nord}
+2 [Gnum minva hlerth na grufna na it va.]{lang=nord}
 
 ***
 

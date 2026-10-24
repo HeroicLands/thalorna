@@ -246,9 +246,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Smol skurna es vangri. Hrimthur hav sneri skurna inn relth. It es smol hupra merv inn skirv na Dek asva. Merv na vangri es stevna nifra vangri. Skurna nod sneri menra skadvi nemma na vuld. Savmerv es hlomtamerv na lesma at Veturnetur blet. Vidma na buvordur es tavrvid na hulma. It marl skadri dan merv. Hliskvir marl merv hav mervi. Nodmann es Solrún. Henva nod gullva ut. Henva nem helm delva inn jerva na melgri. Hanv vril thuv hugni noll mannva skirv it.]{.nativefont lang=nord}
+1 [Smol skurna es vangri. Hrimthur hav sneri skurna inn relth. It es smol hupra merv inn skirv na Dek asva. Merv na vangri es stevna nifra vangri. Skurna nod sneri menra skadvi nemma na vuld. Savmerv es savmerv na lesma at Veturnetur blet. Vidma na buvordur es tavrvid na hulma. It marl skadri dan merv. Hliskvir marl merv hav mervi. Nodmann es Solrún. Henva nod gullva ut. Henva nem helm delva inn jerva na melgri. Hanv vril thuv hugni noll mannva skirv it.]{.nativefont lang=nord}
 2 [Thin flesh means the fields. [[lore-hrimthurspr|Hrimthur]] had little flesh in the telling. It stretched thin over bone when the Ten cut him. A field's bone is the stone beneath it. Flesh gave little means a failed harvest. Blade-bone is the shoulder bone read at the [[lore-veturnetur|Veturnetur]] feast. The steward's wood is the buvordur's tally of the pits. It spoke worse than the bones: [Hliskvir]{.name data-type="being/npc"} says the bones had mercy. The giver is [[lore-solrundty|Solrún]]. She gives gold away. She takes her whole portion in a hungry year. He wants you to know nobody cut it.]{lang=en}
-2 [Smol skurna es vangri. Hrimthur hav sneri skurna inn relth. It es smol hupra merv inn skirv na Dek asva. Merv na vangri es stevna nifra vangri. Skurna nod sneri menra skadvi nemma na vuld. Savmerv es hlomtamerv na lesma at Veturnetur blet. Vidma na buvordur es tavrvid na hulma. It marl skadri dan merv. Hliskvir marl merv hav mervi. Nodmann es Solrún. Henva nod gullva ut. Henva nem helm delva inn jerva na melgri. Hanv vril thuv hugni noll mannva skirv it.]{lang=nord}
+2 [Smol skurna es vangri. Hrimthur hav sneri skurna inn relth. It es smol hupra merv inn skirv na Dek asva. Merv na vangri es stevna nifra vangri. Skurna nod sneri menra skadvi nemma na vuld. Savmerv es savmerv na lesma at Veturnetur blet. Vidma na buvordur es tavrvid na hulma. It marl skadri dan merv. Hliskvir marl merv hav mervi. Nodmann es Solrún. Henva nod gullva ut. Henva nem helm delva inn jerva na melgri. Hanv vril thuv hugni noll mannva skirv it.]{lang=nord}
 
 
 
@@ -402,9 +402,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Tiv valdri na strand staf eiv.]{.nativefont lang=nord}
+1 [Tiv valdri na strandva staf eiv.]{.nativefont lang=nord}
 2 [First to the shore's ruler.]{lang=en}
-2 [Tiv valdri na strand staf eiv.]{lang=nord}
+2 [Tiv valdri na strandva staf eiv.]{lang=nord}
 
 
 
@@ -448,9 +448,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Strand mannva glis havma hern.]{.nativefont lang=nord}
+1 [Strandva mannva glis havma hern.]{.nativefont lang=nord}
 2 [The shore's man would lose property.]{lang=en}
-2 [Strand mannva glis havma hern.]{lang=nord}
+2 [Strandva mannva glis havma hern.]{lang=nord}
 
 
 
@@ -466,9 +466,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Staf eiv hild jerv nod it.]{.nativefont lang=nord}
+1 [Staf eiv hildi jerv nod it.]{.nativefont lang=nord}
 2 [The first good year gives it.]{lang=en}
-2 [Staf eiv hild jerv nod it.]{lang=nord}
+2 [Staf eiv hildi jerv nod it.]{lang=nord}
 
 
 
@@ -548,9 +548,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 ```verse {form=geldra lang=en numstep=5 cols=2}
 
-1 [Dvon vakthim. Svulma rand]{.nativefont lang=nord}
+1 [Dvon vakthim. Svulma randva]{.nativefont lang=nord}
 2 [Seal-watch weeks. Cold's edge]{lang=en}
-2 [Dvon vakthim. Svulma rand]{lang=nord}
+2 [Dvon vakthim. Svulma randva]{lang=nord}
 
 
 
@@ -642,9 +642,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Hringva af arnva auk.]{.nativefont lang=nord}
+1 [Hringva af arnva aukri.]{.nativefont lang=nord}
 2 [The ring from his arm too.]{lang=en}
-2 [Hringva af arnva auk.]{lang=nord}
+2 [Hringva af arnva aukri.]{lang=nord}
 
 
 
@@ -704,9 +704,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Tvei dek seks bakma stev.]{.nativefont lang=nord}
+1 [Tvei dek seks bakma stevna.]{.nativefont lang=nord}
 2 [Twenty-six backs to stone.]{lang=en}
-2 [Tvei dek seks bakma stev.]{lang=nord}
+2 [Tvei dek seks bakma stevna.]{lang=nord}
 
 
 
@@ -746,9 +746,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Noll gand na sveld than hern.]{.nativefont lang=nord}
+1 [Noll gandma na sveld than hern.]{.nativefont lang=nord}
 2 [No word about that seat.]{lang=en}
-2 [Noll gand na sveld than hern.]{lang=nord}
+2 [Noll gandma na sveld than hern.]{lang=nord}
 
 
 
@@ -806,9 +806,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 ```verse {form=prose lang=en numstep=5 cols=2}
 
-1 [Krast rand na svulma es skelfur. Dvon finri gang theri inn vakthim na melgri. Tvei renma isva hnurna es tvei svelthma. Gnaldurfjord hav nafma af hluna na isva. Hveri nordva strandva hlun svelna na sumri mannva inn hluna than. Inn landri it es einri lanma na isva. Hanv hav tvei nafma. Hanv marl it ak nel nod thenva. Geldra es kopri. Hnura nel es kopri. Niv es nafm inn hnura na heimla. Skaldahringur nel lerda it.]{.nativefont lang=nord}
+1 [Krast randva na svulma es skelfur. Dvon finri gang theri inn vakthim na melgri. Tvei renma isva hnurna es tvei svelthma. Gnaldurfjord hav nafma af hluna na isva. Hveri nordva strandva hlun svelna na sumri mannva inn hluna than. Inn landri it es einri lanma na isva. Hanv hav tvei nafma. Hanv marl it ak nel nod thenva. Geldra es kopri. Hnura nel es kopri. Niv es nafm inn hnura na heimla. Skaldahringur nel lerda it.]{.nativefont lang=nord}
 2 [Cold's hard edge is the ice-edge. Seal hunters go there in hungry weeks. Twice the ice groaned means two deaths. [[place-gnaldurfjord|Gnaldurfjord]] takes its name from the sound of ice. Every northern shore hears someone dying within that sound. Inland it is only a line about ice. He has two names. He says so but does not give them. Praise-poems are bought. Laments are not bought. The nine are named in the household lament. The Circle does not teach it.]{lang=en}
-2 [Krast rand na svulma es skelfur. Dvon finri gang theri inn vakthim na melgri. Tvei renma isva hnurna es tvei svelthma. Gnaldurfjord hav nafma af hluna na isva. Hveri nordva strandva hlun svelna na sumri mannva inn hluna than. Inn landri it es einri lanma na isva. Hanv hav tvei nafma. Hanv marl it ak nel nod thenva. Geldra es kopri. Hnura nel es kopri. Niv es nafm inn hnura na heimla. Skaldahringur nel lerda it.]{lang=nord}
+2 [Krast randva na svulma es skelfur. Dvon finri gang theri inn vakthim na melgri. Tvei renma isva hnurna es tvei svelthma. Gnaldurfjord hav nafma af hluna na isva. Hveri nordva strandva hlun svelna na sumri mannva inn hluna than. Inn landri it es einri lanma na isva. Hanv hav tvei nafma. Hanv marl it ak nel nod thenva. Geldra es kopri. Hnura nel es kopri. Niv es nafm inn hnura na heimla. Skaldahringur nel lerda it.]{lang=nord}
 
 
 
@@ -852,9 +852,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Alv setva siv dverna.]{.nativefont lang=nord}
+1 [Ald setva siv dverna.]{.nativefont lang=nord}
 2 [The old sit by the door.]{lang=en}
-2 [Alv setva siv dverna.]{lang=nord}
+2 [Ald setva siv dverna.]{lang=nord}
 
 
 
@@ -898,9 +898,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Af staf eiv hild jerv skuld.]{.nativefont lang=nord}
+1 [Af staf eiv hildi jerv skuld.]{.nativefont lang=nord}
 2 [owed from the first good year.]{lang=en}
-2 [Af staf eiv hild jerv skuld.]{lang=nord}
+2 [Af staf eiv hildi jerv skuld.]{lang=nord}
 
 
 
@@ -922,9 +922,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Noll mannva grafa inn.]{.nativefont lang=nord}
+1 [Noll mannva grufna inn.]{.nativefont lang=nord}
 2 [Nobody digs within.]{lang=en}
-2 [Noll mannva grafa inn.]{lang=nord}
+2 [Noll mannva grufna inn.]{lang=nord}
 
 
 
@@ -1040,9 +1040,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Staf seks dek dirmlan legva skuldma inn. Skuldma marli at blet na berva na skald es inn skuldrelth na hollva af than nottva. Darni marli skuldma es hrum. Noll mannva grafa inn it. Grafa inn hrum es havmaglis af falgva ok kinrod tveka. Hanv marl it at tvei Jel neng.]{.nativefont lang=nord}
+1 [Staf seks dek dirmlan legva skuldma inn. Skuldma marli at blet na berva na skald es inn skuldrelth na hollva af than nottva. Darni marli skuldma es hrum. Noll mannva grufna inn it. Grufna inn hrum es havmaglis af falgva ok kinrod tveka. Hanv marl it at tvei Jel neng.]{.nativefont lang=nord}
 2 [Stanza sixteen enters the debt. A debt spoken at a feast and carried by a skald enters the hall's [[lore-kinhalcrdt|standing credit]] that night. A spoken debt is therefore a howe. Nobody digs within it. Digging a howe steals property from both the dead and their line. He has spoken it at two [[lore-jol|Jel]]s already.]{lang=en}
-2 [Staf seks dek dirmlan legva skuldma inn. Skuldma marli at blet na berva na skald es inn skuldrelth na hollva af than nottva. Darni marli skuldma es hrum. Noll mannva grafa inn it. Grafa inn hrum es havmaglis af falgva ok kinrod tveka. Hanv marl it at tvei Jel neng.]{lang=nord}
+2 [Staf seks dek dirmlan legva skuldma inn. Skuldma marli at blet na berva na skald es inn skuldrelth na hollva af than nottva. Darni marli skuldma es hrum. Noll mannva grufna inn it. Grufna inn hrum es havmaglis af falgva ok kinrod tveka. Hanv marl it at tvei Jel neng.]{lang=nord}
 
 
 
@@ -1056,9 +1056,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 ```verse {form=geldra lang=en numstep=5 cols=2}
 
-1 [Nura lork. Skirv hern auk.]{.nativefont lang=nord}
+1 [Nura lork. Skirv hern aukri.]{.nativefont lang=nord}
 2 [Now end. Cut these too.]{lang=en}
-2 [Nura lork. Skirv hern auk.]{lang=nord}
+2 [Nura lork. Skirv hern aukri.]{lang=nord}
 
 
 
@@ -1316,9 +1316,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Hen gang ut thru varma.]{.nativefont lang=nord}
+1 [Henva gang ut thru varma.]{.nativefont lang=nord}
 2 [She passed out through the wall]{lang=en}
-2 [Hen gang ut thru varma.]{lang=nord}
+2 [Henva gang ut thru varma.]{lang=nord}
 
 
 

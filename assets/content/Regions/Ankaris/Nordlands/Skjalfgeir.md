@@ -585,9 +585,9 @@ A rune-hall recitation praises Skjalfgeir as the All-Father's sign of precision 
 2 [Quarrels burn hungry eyes.]{lang=en}
 2 [Skreld eldna skern na melgri.]{lang=nord}
 
-1 [Hravi hondi vril savadh.]{.nativefont lang=nord}
+1 [Hravi hondi vril sav.]{.nativefont lang=nord}
 2 [Quick hands want blades.]{lang=en}
-2 [Hravi hondi vril savadh.]{lang=nord}
+2 [Hravi hondi vril sav.]{lang=nord}
 
 1 [Eidva gruma farn af eidna na skulma.]{.nativefont lang=nord}
 2 [Oaths grow beyond a cup's promise.]{lang=en}

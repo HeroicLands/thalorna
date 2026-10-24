@@ -388,9 +388,9 @@ Thrunvald is most famously shown wielding his hammer, [[lore-thrunhamarr|Thrúnh
 2 [The hammer stone waits]{lang=en}
 2 [Hamri stevna vindri]{lang=nord}
 
-1 [at hnipma na hondi na hanv.]{.nativefont lang=nord}
+1 [at hnipa na hondi na hanv.]{.nativefont lang=nord}
 2 [where his hand can touch.]{lang=en}
-2 [at hnipma na hondi na hanv.]{lang=nord}
+2 [at hnipa na hondi na hanv.]{lang=nord}
 
 1 [Hanv minva asva.]{.nativefont lang=nord}
 2 [He remembers the god.]{lang=en}
