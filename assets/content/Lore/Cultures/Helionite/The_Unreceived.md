@@ -32,7 +32,7 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 : The Entry of the Levy {#entry}
 
-```verse {form=choral-ode lang=en cols=2}
+```verse {form=choral-ode lang=en cols=2} numstep=5
 1 [Aneth afor klorin polithir. Estralin er pólithar er Filir.]{.nativefont lang=helo}
 2 [Rise from the grey grass, ranks of the Keeper's city.]{lang=en}
 2 [Aneth afor klorin polithir. Estralin er pólithar er Filir.]{lang=helo}
@@ -119,7 +119,7 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 : The First Ode {#first}
 
-```verse {form=choral-ode lang=en cols=2}
+```verse {form=choral-ode lang=en cols=2} numstep=5
 1 [Allathin.]{.nativefont lang=helo}
 2 [Turn.]{lang=en}
 2 [Allathin.]{lang=helo}
@@ -236,7 +236,7 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 : The Lament at the Ring {#lament}
 
-```verse {form=choral-ode lang=en cols=2}
+```verse {form=choral-ode lang=en cols=2} numstep=5
 1 [Kerukhir.]{.nativefont lang=helo}
 2 [Herald.]{lang=en}
 2 [Kerukhir.]{lang=helo}
@@ -437,7 +437,7 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 : The Second Ode {#second}
 
-```verse {form=choral-ode lang=en cols=2}
+```verse {form=choral-ode lang=en cols=2} numstep=5
 1 [Allathin.]{.nativefont lang=helo}
 2 [Turn.]{lang=en}
 2 [Allathin.]{lang=helo}
@@ -554,7 +554,7 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 : The Exit {#exit}
 
-```verse {form=choral-ode lang=en cols=2}
+```verse {form=choral-ode lang=en cols=2} numstep=5
 1 [Hemerin érkharin huth herin. Kirathin érkharin kateth epir hodhin hesperir.]{.nativefont lang=helo}
 2 [The day passes over us. Light fades along the western road.]{lang=en}
 2 [Hemerin érkharin huth herin. Kirathin érkharin kateth epir hodhin hesperir.]{lang=helo}

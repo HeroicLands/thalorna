@@ -28,7 +28,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## Before the Asking
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thu hikarin prou kur. Kathelarin koum akrotharin trofelin er prineth plum nostharin er thaner prou domin.]{.nativefont lang=helo}
 2 [You who come to the altar, sit and listen to the first return of the dead.]{lang=en}
 2 [Thu hikarin prou kur. Kathelarin koum akrotharin trofelin er prineth plum nostharin er thaner prou domin.]{lang=helo}
@@ -57,7 +57,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Hillside
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [In arithmas trel eniauthin. Eil in arithmas plem. Sarkhir uf harmodharin. Drin pólithar makhetharin pir hupsel klorin. Sarkhir uf ónomarin pothel pólithar.]{.nativefont lang=helo}
 2 [In the third year, or the fifth—the priests disagree—two cities fought over high pasture. The priests do not name them.]{lang=en}
 2 [In arithmas trel eniauthin. Eil in arithmas plem. Sarkhir uf harmodharin. Drin pólithar makhetharin pir hupsel klorin. Sarkhir uf ónomarin pothel pólithar.]{lang=helo}
@@ -82,7 +82,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Staff
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Agelis uf akmetharin grerin. Heir érkharin prou domin. Lámbarin skathir afor teikhir. Skathir er féranin enth sothathin. Skathir er kerukhir. Frun leukhelir erithin er spondhelin perith. Heir érkharin prou bulorin. Rhéthasin. Egh anabherin lofir moneth egh in orthrin. Koum erotharin pir helin.]{.nativefont lang=helo}
 2 [Agelis sharpened no spear. At home he took his sanctuary staff from the wall, the herald’s staff wrapped in truce-white wool. He went before the council: I climb alone tomorrow morning to ask for them.]{lang=en}
 2 [Agelis uf akmetharin grerin. Heir érkharin prou domin. Lámbarin skathir afor teikhir. Skathir er féranin enth sothathin. Skathir er kerukhir. Frun leukhelir erithin er spondhelin perith. Heir érkharin prou bulorin. Rhéthasin. Egh anabherin lofir moneth egh in orthrin. Koum erotharin pir helin.]{lang=helo}
@@ -103,7 +103,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Asking
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Heir anabherin lofir in orthrin. Drin estrathin meltharin heir. Dheir hoplothin er Tálanos ethel khelrin epir hupsel klorin. Sotharin aghelin. Heir anabherin bradhelir. Dheir lofir ésarin steir. Heir ekhárin 40 eniauthin. Heir féranin skathir in deksir kheirin. Hupsel. Der leukhelir erithin ésarin melthir. Medhin praghin in arister. Heir anabherin enmes thaner. Uf meltharin helin. Heir hikarin prou sothkadrin er hoplothin er Tálanos. Enth grerin. Heir pautharin.]{.nativefont lang=helo}
 2 [He climbed in morning before both armies. Tálanos’s levy still camped on the high grass, holding the field. He climbed slowly: steep hill, forty years. In his right hand he raised the staff to show white wool. His left held nothing. He passed among the bodies without looking, reached Tálanos’s spear-line, and stopped.]{lang=en}
 2 [Heir anabherin lofir in orthrin. Drin estrathin meltharin heir. Dheir hoplothin er Tálanos ethel khelrin epir hupsel klorin. Sotharin aghelin. Heir anabherin bradhelir. Dheir lofir ésarin steir. Heir ekhárin 40 eniauthin. Heir féranin skathir in deksir kheirin. Hupsel. Der leukhelir erithin ésarin melthir. Medhin praghin in arister. Heir anabherin enmes thaner. Uf meltharin helin. Heir hikarin prou sothkadrin er hoplothin er Tálanos. Enth grerin. Heir pautharin.]{lang=helo}
@@ -116,7 +116,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 : The Asking {#asking}
 
-```verse {form=legend lang=en cols=2}
+```verse {form=legend lang=en cols=2} numstep=5
 1 [Egh ésarin kerukhir er pólithar er egh. Somir er egh ésarin er thásirin.]{.nativefont lang=helo}
 2 [I am my city’s herald. My person belongs to the gods.]{lang=en}
 2 [Egh ésarin kerukhir er pólithar er egh. Somir er egh ésarin er thásirin.]{lang=helo}
@@ -145,7 +145,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The First Refusal
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nevaros anerith er hoplothin er Tálanos uf menarin Tálanos. Meun érkharin ekor sothkadrin frun grerin. Heir thetharin kenthelin prou laurin er kerukhir. Hupor pogonir. Heir rhéthasin. Spondhelin er thu ésarin pir menethin er Theldir. Nuneth mesin er thérimos. Érkharin kateth lofir. Eil menetharin epir hein frun heter.]{.nativefont lang=helo}
 2 [Tálanos’s young men did not wait. One left the line, placed his spear-point under Agelis’s beard at his throat. Your truce belongs to the Games’ month, he said. This is midsummer. Descend, or remain with the others.]{lang=en}
 2 [Nevaros anerith er hoplothin er Tálanos uf menarin Tálanos. Meun érkharin ekor sothkadrin frun grerin. Heir thetharin kenthelin prou laurin er kerukhir. Hupor pogonir. Heir rhéthasin. Spondhelin er thu ésarin pir menethin er Theldir. Nuneth mesin er thérimos. Érkharin kateth lofir. Eil menetharin epir hein frun heter.]{lang=helo}
@@ -166,7 +166,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Second Refusal
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Tálanos ésarin bradhelir in lékhisir. Heir dókhanir makrir khronin prineth rhéthasin. Tothel heir rhéthasin. Hoplarin er thaner er thu ésarin er herin. Herin lámbarin helin. Helin ésarin deighmin er nikharin er herin. Almon somir uf ésarin khresir pir herin. Egh polarin somir prou thu. Féranin egh henthor khedhin afor hupsel klorin er thu. Koum klorin frun helin. Tothel thu lámbarin thaner er thu.]{.nativefont lang=helo}
 2 [Tálanos thought long before speaking slowly. Your dead’s arms are ours, he said. We take them as proof of victory. Their bodies are useless to us. I sell them. Bring a hundred sheep from your high grass and the grass itself. Then take your dead.]{lang=en}
 2 [Tálanos ésarin bradhelir in lékhisir. Heir dókhanir makrir khronin prineth rhéthasin. Tothel heir rhéthasin. Hoplarin er thaner er thu ésarin er herin. Herin lámbarin helin. Helin ésarin deighmin er nikharin er herin. Almon somir uf ésarin khresir pir herin. Egh polarin somir prou thu. Féranin egh henthor khedhin afor hupsel klorin er thu. Koum klorin frun helin. Tothel thu lámbarin thaner er thu.]{lang=helo}
@@ -187,7 +187,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Third Asking
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Tothel Tálanos sotharin sighelin makrir khronin. Makrir eil er prineth. Drin estrathin menarin. Tothel heir rhéthasin. Uf hoth strátimor prou kerukhir. Hoth meun anerith prou heter. Moneth enghir anerith akherin. Diath egh preitharin pratharin heum.]{.nativefont lang=helo}
 2 [Tálanos held silence longer than before. Both armies waited. Then he spoke as man to man, not commander to herald, heard only nearby: Why should I do this?]{lang=en}
 2 [Tothel Tálanos sotharin sighelin makrir khronin. Makrir eil er prineth. Drin estrathin menarin. Tothel heir rhéthasin. Uf hoth strátimor prou kerukhir. Hoth meun anerith prou heter. Moneth enghir anerith akherin. Diath egh preitharin pratharin heum.]{lang=helo}
@@ -216,7 +216,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Carrying
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Agelis anabherin moneth authel. Ésarin 31 thaner. Meun anerith uf dunatharin féranin 31 thaner kateth lofir. Heir statharin enmes helin. Uf epistémarin prathin. Sarkhir rhéthasin heum ésarin moneth horath in histharin er uf epistemin er heir pir prathin.]{.nativefont lang=helo}
 2 [Agelis climbed alone. Thirty-one dead lay there. One man cannot carry thirty-one downhill. Among them he stood without knowing his next deed. The priests call it his only uncertainty in the legend.]{lang=en}
 2 [Agelis anabherin moneth authel. Ésarin 31 thaner. Meun anerith uf dunatharin féranin 31 thaner kateth lofir. Heir statharin enmes helin. Uf epistémarin prathin. Sarkhir rhéthasin heum ésarin moneth horath in histharin er uf epistemin er heir pir prathin.]{lang=helo}
@@ -245,7 +245,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## What the Asking Left
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Thaner nostharin prou domin. Sarkhir er helin rhéthasin ieresin epir helin. Plum 31. Enth kur er helin. Pólithar er helin lámbarin helin. Huyir er Agelis khelrin in ghéranis er parikhor er tokhir.]{.nativefont lang=helo}
 2 [All thirty-one returned. Their priests spoke their rites at their own altars. Their city received them. Agelis’s son lay in his grandfather’s earth.]{lang=en}
 2 [Thaner nostharin prou domin. Sarkhir er helin rhéthasin ieresin epir helin. Plum 31. Enth kur er helin. Pólithar er helin lámbarin helin. Huyir er Agelis khelrin in ghéranis er parikhor er tokhir.]{lang=helo}
@@ -262,7 +262,7 @@ The legend is told in prose, as the priests tell it, with the words of the askin
 
 ## The Close
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nuneth thu epistémarin aithelin er somir er thu ésarin er thásirin in plum khronin kerukhir. Uf moneth in heum menethin. Nuneth thu epistémarin aithelin er hometh lékhisir. Anerith anabherin lofir frun grerin prou laurin. Heir rhéthasin trel horath. Hometh plum horath. Anerith er medhin palaitharin er heter efarin lékhisir. Eith thu allatharin meun lékhisir. Thu uf rhéthasin lékhisir er Agelis. Skathir in kheirin er thu ésarin hulithin.]{.nativefont lang=helo}
 2 [Now you know why your person belongs to gods at every time, heralds, beyond this month. Why the words stay the same. A man climbed a hill with a spear at his throat, spoke three times identically, and an undefeated man yielded. Change one word and you do not speak Agelis’s words. Your staff is wood.]{lang=en}
 2 [Nuneth thu epistémarin aithelin er somir er thu ésarin er thásirin in plum khronin kerukhir. Uf moneth in heum menethin. Nuneth thu epistémarin aithelin er hometh lékhisir. Anerith anabherin lofir frun grerin prou laurin. Heir rhéthasin trel horath. Hometh plum horath. Anerith er medhin palaitharin er heter efarin lékhisir. Eith thu allatharin meun lékhisir. Thu uf rhéthasin lékhisir er Agelis. Skathir in kheirin er thu ésarin hulithin.]{lang=helo}

@@ -31,7 +31,7 @@ The schools have argued with the first half since there have been schools. Its g
 
 : The Measures of the Terraces {#poem}
 
-```verse {form=didactic-verse lang=en cols=2}
+```verse {form=didactic-verse lang=en cols=2} numstep=5
 1 [Nemathir enth khulithin. Koum thu Filir er Biblathin frun astrin perith.]{.nativefont lang=helo}
 2 [[[lore-lusiniadty|Weaver]] at wheel. You, Keeper of Book with stars around.]{lang=en}
 2 [Nemathir enth khulithin. Koum thu Filir er Biblathin frun astrin perith.]{lang=helo}

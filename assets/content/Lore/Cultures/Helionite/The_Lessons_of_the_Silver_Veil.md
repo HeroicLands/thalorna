@@ -23,7 +23,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The First Year, at Twelve {#first}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Nemorarin lékhisir enth hespedhin koum ánthimor er lékhisir.]{.nativefont lang=helo}
 2 [Remember the words at dinner and their speaker.]{lang=en}
 2 [Nemorarin lékhisir enth hespedhin koum ánthimor er lékhisir.]{lang=helo}
@@ -76,7 +76,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Second Year, at Thirteen {#second}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Kheirin arister pratharin lirathin. Kheirin deksir moneth tufarin.]{.nativefont lang=helo}
 2 [The left hand works the lyre. The right only strikes.]{lang=en}
 2 [Kheirin arister pratharin lirathin. Kheirin deksir moneth tufarin.]{lang=helo}
@@ -121,7 +121,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Third Year, at Fourteen {#third}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Mathelarin Sorathin er Naukir hoth plum pólithar sorarin hein.]{.nativefont lang=helo}
 2 [Learn the [Song of the Ships]{.name data-type="lore/literature" lang=en} as each city sings it.]{lang=en}
 2 [Mathelarin Sorathin er Naukir hoth plum pólithar sorarin hein.]{lang=helo}
@@ -170,7 +170,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Fourth Year, at Fifteen {#fourth}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Antilekharin meun er drin. Huster antilekharin in arithmas trel. Medhin ánthimor meltharin hein.]{.nativefont lang=helo}
 2 [Argue either side. Then argue the third nobody sees.]{lang=en}
 2 [Antilekharin meun er drin. Huster antilekharin in arithmas trel. Medhin ánthimor meltharin hein.]{lang=helo}
@@ -215,7 +215,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Fifth Year, at Sixteen {#fifth}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Epistémarin kathelin er plum ksenir prineth kathelarin er heir.]{.nativefont lang=helo}
 2 [Know each guest’s seat before he sits.]{lang=en}
 2 [Epistémarin kathelin er plum ksenir prineth kathelarin er heir.]{lang=helo}
@@ -260,7 +260,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Sixth Year, at Seventeen {#sixth}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Mathelarin horghin. Olasin horghin. Rhizin koum fullerin koum sperin.]{.nativefont lang=helo}
 2 [Learn the whole garden: root, leaf, seed.]{lang=en}
 2 [Mathelarin horghin. Olasin horghin. Rhizin koum fullerin koum sperin.]{lang=helo}
@@ -301,7 +301,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Seventh Year, at Eighteen {#seventh}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 [Mathelarin nomasir er pólithar er thu. Koum er hepthor. Koum er thálimir.]{.nativefont lang=helo}
 2 [Learn your city’s law, the seven’s, the sea’s.]{lang=en}
 2 [Mathelarin nomasir er pólithar er thu. Koum er hepthor. Koum er thálimir.]{lang=helo}
@@ -350,7 +350,7 @@ The sayings name no opponent and no master. A graduate quoting them at a governo
 
 : The Eighth Year, at Nineteen {#eighth}
 
-```verse {form=precepts lang=en cols=2}
+```verse {form=precepts lang=en cols=2} numstep=5
 1 […]
 2 […]
 2 […]

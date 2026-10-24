@@ -29,7 +29,7 @@ The rhapsode invokes [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, as the sin
 
 : The Burning of the Keel {#song}
 
-```verse {form=epic lang=en cols=2}
+```verse {form=epic lang=en cols=2} numstep=5
 1 [Kelathir er Oneirin. Thighir er makrir horin er nikhtir. Thu statharin opith hufarin ánthimor.]{.nativefont lang=helo}
 2 [Veiled Dreamer, daughter of night’s long hours, standing behind the sleeper,]{lang=en}
 2 [Kelathir er Oneirin. Thighir er makrir horin er nikhtir. Thu statharin opith hufarin ánthimor.]{lang=helo}
