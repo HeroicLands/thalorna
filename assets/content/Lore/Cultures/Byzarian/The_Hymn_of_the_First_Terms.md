@@ -31,7 +31,7 @@ The prelude stands outside the count. The first letters of the stanzas after it 
 
 : The Hymn of the First Terms {#hymn}
 
-```verse {form=kumetin lang=en cols=2}
+```verse {form=kumetin lang=en cols=2} numstep=5
 1 [Eniautin statarin para Thresholds. Turin ekhárin drin meretin.]{.nativefont lang=biza}
 2 [The year waits at its threshold. The door has two leaves:]{lang=en}
 2 [Eniautin statarin para Thresholds. Turin ekhárin drin meretin.]{lang=biza}

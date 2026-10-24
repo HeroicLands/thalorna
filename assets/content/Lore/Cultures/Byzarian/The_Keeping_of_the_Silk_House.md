@@ -21,7 +21,7 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 
 : The Keeping of the Silk House {#lament}
 
-```verse {form=lament lang=en cols=2}
+```verse {form=lament lang=en cols=2} numstep=5
 1 [Valzar, egh féranin nomisin. Aritmas ésharin ortelir. Toum aritmarin paler.]{.nativefont lang=biza}
 2 [Keeper, I have brought the money. The count is right. Count it again.]{lang=en}
 2 [Valzar, egh féranin nomisin. Aritmas ésharin ortelir. Toum aritmarin paler.]{lang=biza}

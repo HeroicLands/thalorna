@@ -30,7 +30,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ## The Morning {#morning}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Huyir er egh, en heum ortrin bizvar zigharin toum. Toum uf epistémarin hein. Heir meltarin keirin er toum, oftelin er toum. Heir erotarin aritmas er zalvin en darvel. Toum aritmarin ortelir. Heir lámbarin toum. Heum ésharin zigharin. Heum ortrin pautarin. Efet plum pratin ésharin zigharin. Toum uf aeit epistémarin hein. Zighir uf deetarin epistemin er toum. Enit epistemin er egh para zighir. Egh dorasarin hein prel toum houm anerit dorasarin zerzhel meta deshvar. Toum zervarin zelvash. Efet toum matelarin hein. Efet toum itrarin zelvash. En 10 eniautin toum zervarin paler. Toum meltarin teir ésharin prostet. Eif toum uf tetarin hostin prostet, toum uf matelarin hostin. Eif toum otelarin hostin, toum pratarin apatin.]{.nativefont lang=biza}
 2 [Son, your master weighed you this morning without your knowing. He looked at your hands and eyes, asked for the number of bales in the yard, and took you after you counted correctly. That was weighing. From this morning onward, every action is weighed; you will not always know, and the balance has no need of your knowledge. Here is what I learned beside it. I give you these things as a man supplies an itemized schedule with his bond. Copy them, learn them, and burn the copy. Write them again ten years from now and look at your additions. Without additions you have learned nothing. If you have removed anything, you have cheated.]{lang=en}
 2 [Huyir er egh, en heum ortrin bizvar zigharin toum. Toum uf epistémarin hein. Heir meltarin keirin er toum, oftelin er toum. Heir erotarin aritmas er zalvin en darvel. Toum aritmarin ortelir. Heir lámbarin toum. Heum ésharin zigharin. Heum ortrin pautarin. Efet plum pratin ésharin zigharin. Toum uf aeit epistémarin hein. Zighir uf deetarin epistemin er toum. Enit epistemin er egh para zighir. Egh dorasarin hein prel toum houm anerit dorasarin zerzhel meta deshvar. Toum zervarin zelvash. Efet toum matelarin hein. Efet toum itrarin zelvash. En 10 eniautin toum zervarin paler. Toum meltarin teir ésharin prostet. Eif toum uf tetarin hostin prostet, toum uf matelarin hostin. Eif toum otelarin hostin, toum pratarin apatin.]{lang=biza}
@@ -39,7 +39,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On Weights {#weights}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Zighrel ésharin eitreir potet hein ésharin isetir meta zarzhel.]{.nativefont lang=biza}
 2 [An honest weight matches the standard.]{lang=en}
 2 [Zighrel ésharin eitreir potet hein ésharin isetir meta zarzhel.]{lang=biza}
@@ -112,7 +112,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On Terms {#terms}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Toum uf harmodarin hostin olashin uf meretin. Apatin árshidin en uf akret deshvel.]{.nativefont lang=biza}
 2 [Agree to nothing vaguely. Fraud starts in an imprecise term.]{lang=en}
 2 [Toum uf harmodarin hostin olashin uf meretin. Apatin árshidin en uf akret deshvel.]{lang=biza}
@@ -209,7 +209,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Defect {#defect}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Toum rétasin zerpel pro polarin.]{.nativefont lang=biza}
 2 [State a defect before selling.]{lang=en}
 2 [Toum rétasin zerpel pro polarin.]{lang=biza}
@@ -272,7 +272,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Guest and the Price {#guest}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Toum dorasarin edin prel ksenetir pro rétasin er zharpin.]{.nativefont lang=biza}
 2 [Give your guest food before you state a price.]{lang=en}
 2 [Toum dorasarin edin prel ksenetir pro rétasin er zharpin.]{lang=biza}
@@ -325,7 +325,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Master and the Guild {#master}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Vardesh er bizvar er toum prel toum ésharin didakhin, arthel, dokharin er pratin.]{.nativefont lang=biza}
 2 [Your master owes instruction, bread, and a good character.]{lang=en}
 2 [Vardesh er bizvar er toum prel toum ésharin didakhin, arthel, dokharin er pratin.]{lang=biza}
@@ -388,7 +388,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Road and the East {#road}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Hodis ésharin aitelin er League. Toum zharparin tolzát.]{.nativefont lang=biza}
 2 [The League exists because of the road. Pay its toll.]{lang=en}
 2 [Hodis ésharin aitelin er League. Toum zharparin tolzát.]{lang=biza}
@@ -461,7 +461,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Arbitrator {#arbitrator}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Toum uf féranin prakhel prou bulorin. Bulorin medinkronin akherin ónomir er toum.]{.nativefont lang=biza}
 2 [Keep your dispute away from the council, which has never heard your name.]{lang=en}
 2 [Toum uf féranin prakhel prou bulorin. Bulorin medinkronin akherin ónomir er toum.]{lang=biza}
@@ -524,7 +524,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Dead and the Keeping {#dead}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Toum merzarin valzin er tanor er toum houm toum merzarin deshvar er ambarim.]{.nativefont lang=biza}
 2 [Examine your dead's keeping as you examine a warehouse lease.]{lang=en}
 2 [Toum merzarin valzin er tanor er toum houm toum merzarin deshvar er ambarim.]{lang=biza}
@@ -587,7 +587,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : On the Gods {#gods}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Toum nevarin deshvel er toum en Thresholds. Plum deshvel. Kaiet kasir er allatin.]{.nativefont lang=biza}
 2 [Renew every term at the [Thresholds]{.name data-type="lore/gathering" lang=en}, including those becoming unfavorable.]{lang=en}
 2 [Toum nevarin deshvel er toum en Thresholds. Plum deshvel. Kaiet kasir er allatin.]{lang=biza}
@@ -640,7 +640,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : The Last Weight {#last}
 
-```verse {form=sayings lang=en cols=2}
+```verse {form=sayings lang=en cols=2} numstep=5
 1 [Zighrel en Harvel ésharin baretir. Egh tetarin hein en zighir pro plumántimor.]{.nativefont lang=biza}
 2 [The Hall's weight was heavy. I placed it on the balance before everyone.]{lang=en}
 2 [Zighrel en Harvel ésharin baretir. Egh tetarin hein en zighir pro plumántimor.]{lang=biza}
@@ -683,7 +683,7 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 : The Son's Answer {#answer}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Chazh, esh.]{.nativefont lang=biza}
 2 [Chazh, esh. Indeed, it is.]{lang=en}
 2 [Chazh, esh.]{lang=biza}

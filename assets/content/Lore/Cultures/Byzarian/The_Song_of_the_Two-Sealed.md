@@ -28,7 +28,7 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 
 : The Song of the Two-Sealed {#song}
 
-```verse {form=borderer-song lang=en cols=2}
+```verse {form=borderer-song lang=en cols=2} numstep=5
 1 [Parzhelir er krenir, katelarin para itrin er parzhel.]{.nativefont lang=biza}
 2 [Sit beside the fort fire, borderers guarding the springs,]{lang=en}
 2 [Parzhelir er krenir, katelarin para itrin er parzhel.]{lang=biza}

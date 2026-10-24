@@ -28,7 +28,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Clerk's Opening
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Matelir, toum katelarin en ghéranis er Harvel en teselin er autel. Toum statarin en hein polirhorat pro bizvar er toum. Monet heum hemerin toum katelarin en hein. Iereshar dorasarin aghatin prel toum. Bizvar sfradarin matelvar er toum. Pro nostarin prou domin meta helin toum akrotarin aitelin er Harvel en heum teselin. Seketar er Harvel ekhárin vardesh er rétasin heum. Matelir er Krusteikhos ekhárin vardesh er epistémarin. Seketar rétasin heum prel egh en heum ghéranis. Heter seketar rétasin heum prel heir. Egh rétasin houm egh akherin. Toum rétasin houm toum akherin, uf meta hostin prostet. En teltin toum rétasin zervash paler prel egh. Toum akrotarin prel hein.]{.nativefont lang=biza}
 2 [Apprentices, sit here on the Hall floor. Before becoming masters you will stand on it often; today alone you sit. The priests have blessed you, your masters have sealed your indentures, and before they take you home you must hear why the Hall occupies this place. Its clerk owes the telling; an apprentice of Krusteikhos owes the knowledge. A clerk told me here, having heard it from another clerk. I repeat what I heard. Repeat what you hear, adding nothing. At the end you will give me the Declaration back. Listen for it.]{lang=en}
 2 [Matelir, toum katelarin en ghéranis er Harvel en teselin er autel. Toum statarin en hein polirhorat pro bizvar er toum. Monet heum hemerin toum katelarin en hein. Iereshar dorasarin aghatin prel toum. Bizvar sfradarin matelvar er toum. Pro nostarin prou domin meta helin toum akrotarin aitelin er Harvel en heum teselin. Seketar er Harvel ekhárin vardesh er rétasin heum. Matelir er Krusteikhos ekhárin vardesh er epistémarin. Seketar rétasin heum prel egh en heum ghéranis. Heter seketar rétasin heum prel heir. Egh rétasin houm egh akherin. Toum rétasin houm toum akherin, uf meta hostin prostet. En teltin toum rétasin zervash paler prel egh. Toum akrotarin prel hein.]{lang=biza}
@@ -37,7 +37,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Springs
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Toum epistémarin eotin ésharin zerhir. Toum epistémarin vezhnur katet vezhrel ekhárin olighet krenir. Krenir ésharin kamelir eil er plum heter kronin en teltin er therzin. Nunet toum matelarin. Poletar epistémarin prostet.]{.nativefont lang=biza}
 2 [You know the dry east, the few springs beneath its passes, and their low water at summer's end. Learn that an army knows these things too.]{lang=en}
 2 [Toum epistémarin eotin ésharin zerhir. Toum epistémarin vezhnur katet vezhrel ekhárin olighet krenir. Krenir ésharin kamelir eil er plum heter kronin en teltin er therzin. Nunet toum matelarin. Poletar epistémarin prostet.]{lang=biza}
@@ -62,7 +62,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Winter of the Garrisons
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Poletar ésharin apet. Parzhel statarin hut krenir meta anerit er 5 pólitar. Krumvar érkharin. Parzhel deetarin edin.]{.nativefont lang=biza}
 2 [The army departed. Five cities' men remained in spring forts. Winter came, and they needed food.]{lang=en}
 2 [Poletar ésharin apet. Parzhel statarin hut krenir meta anerit er 5 pólitar. Krumvar érkharin. Parzhel deetarin edin.]{lang=biza}
@@ -87,7 +87,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Five at the Top of the Road
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Helin érkharin pro teletin er barzhel. 5 zhelzar. Plum meta seketar er autel, douletin er autel, neshar er pólitar er autel. Helin kelrin en domin er tolzát en pólitar er darvel er mulvar. Bulorin er pólitar dorasarin arthel, oinel, tevir er gevar er itrarin pro erotarin er hostin. Heum ésharin nomashir er bizvar er mulvar. Heir dorasarin edin prel karvashkar pro rétasin er zharpin. Nomashir er bizvar er mulvar ésharin nomashir er Harvel.]{.nativefont lang=biza}
 2 [Five envoys arrived before barley harvest, each bringing a scribe, servants, and his city's die. They lodged in the mule-yard town's toll houses. Before asking anything, its council served bread, wine, and roast kid. Mule masters feed a caravan master before stating a price. Their custom became the Hall's.]{lang=en}
 2 [Helin érkharin pro teletin er barzhel. 5 zhelzar. Plum meta seketar er autel, douletin er autel, neshar er pólitar er autel. Helin kelrin en domin er tolzát en pólitar er darvel er mulvar. Bulorin er pólitar dorasarin arthel, oinel, tevir er gevar er itrarin pro erotarin er hostin. Heum ésharin nomashir er bizvar er mulvar. Heir dorasarin edin prel karvashkar pro rétasin er zharpin. Nomashir er bizvar er mulvar ésharin nomashir er Harvel.]{lang=biza}
@@ -120,7 +120,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The First Day: Who Speaks First
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [En meun hemerin helin uf harmodarin tirm rétasin prinet plum.]{.nativefont lang=biza}
 2 [They spent the first day unable to choose the first speaker.]{lang=en}
 2 [En meun hemerin helin uf harmodarin tirm rétasin prinet plum.]{lang=biza}
@@ -137,7 +137,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Second Day: Who Writes
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [En drin hemerin helin harmodarin plum rétasin en homet kronin dia seketar er autel. Plum seketar zervarin harmodin er helin. En hespetin helin dunatarin merzarin 5 zelvash.]{.nativefont lang=biza}
 2 [On the second day they permitted everyone to speak simultaneously through his scribe. Each scribe would record the agreement; five copies could be compared that evening.]{lang=en}
 2 [En drin hemerin helin harmodarin plum rétasin en homet kronin dia seketar er autel. Plum seketar zervarin harmodin er helin. En hespetin helin dunatarin merzarin 5 zelvash.]{lang=biza}
@@ -154,7 +154,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Third Day: Who Seals First
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [En trel hemerin helin ésharin kamir deir prakhel. Helin harmodarin zelvash. Helin otelarin plum keletin er hostir arneitarin afor 5 zelvash. Meretin er menetarin ésharin trar brakhelir. Hein rétasin olighet. 5 pólitar ésharin helfir. Helin rétasin prel krenir.]{.nativefont lang=biza}
 2 [Weary of disputes, on the third day they agreed to a text by deleting from all five copies every clause any man rejected. Almost nothing survived: five cities were friends and would discuss the springs.]{lang=en}
 2 [En trel hemerin helin ésharin kamir deir prakhel. Helin harmodarin zelvash. Helin otelarin plum keletin er hostir arneitarin afor 5 zelvash. Meretin er menetarin ésharin trar brakhelir. Hein rétasin olighet. 5 pólitar ésharin helfir. Helin rétasin prel krenir.]{lang=biza}
@@ -175,7 +175,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## What Strátimos Said
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Heum ésharin retin er arsher er krenir, houm seketar valzarin. Toum akherin hein paler en teltin er matelvar, en merzarin prel bizvar, en katelarin en bulorin eif toum katelarin ekesh.]{.nativefont lang=biza}
 2 [The clerks preserve the spring commander's speech. You will hear it again on completing your indenture, at your master's examination, and, should you ever sit on a council, there too.]{lang=en}
 2 [Heum ésharin retin er arsher er krenir, houm seketar valzarin. Toum akherin hein paler en teltin er matelvar, en merzarin prel bizvar, en katelarin en bulorin eif toum katelarin ekesh.]{lang=biza}
@@ -196,7 +196,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Declarations
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Helin uf oratarin. Seketar rétasin. Sighelin kronin ésharin makrir. Ántimor pratarin kresir nematin er lavzhel en hein.]{.nativefont lang=biza}
 2 [They resisted. Clerks describe a long silence during which lamps were trimmed.]{lang=en}
 2 [Helin uf oratarin. Seketar rétasin. Sighelin kronin ésharin makrir. Ántimor pratarin kresir nematin er lavzhel en hein.]{lang=biza}
@@ -249,7 +249,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Four Bindings
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Potet 5 rétasin zervash, seketar rétasin dometin ésharin radelir. Vezh hostin prel heurarin. En meun hespetin helin zervarin deshvar paler afor arkhin, dia meun seketar. Helin darzarin taret meunhorat. Hein ésharin Penthar houm Harvel valzarin.]{.nativefont lang=biza}
 2 [After all five declarations, clerks say the room became easier: nothing remained to discover. In one evening, through one scribe, they redrafted from the beginning and read the result aloud once. It was the Compact preserved in the Hall.]{lang=en}
 2 [Potet 5 rétasin zervash, seketar rétasin dometin ésharin radelir. Vezh hostin prel heurarin. En meun hespetin helin zervarin deshvar paler afor arkhin, dia meun seketar. Helin darzarin taret meunhorat. Hein ésharin Penthar houm Harvel valzarin.]{lang=biza}
@@ -282,7 +282,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Order of the Seals
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Efet helin sfradarin en taketin er zervash. Strátimos erotarin heum. Medinántimor deetarin prakhel meta heir. Zervash edet ésharin rétasin. Órashion prinet plum deir Órashazur rétasin zervash prinet plum. Efet Argirteikhos. Efet Karvashion. Efet Nesthiros. Krusteikhos telest.]{.nativefont lang=biza}
 2 [They sealed in declaration order at Strátimos's request. After speaking, nobody could face another dispute with him. Órashion first, since Órashazur had declared first. Argirteikhos next, Karvashion next, Nesthiros next. Krusteikhos last.]{lang=en}
 2 [Efet helin sfradarin en taketin er zervash. Strátimos erotarin heum. Medinántimor deetarin prakhel meta heir. Zervash edet ésharin rétasin. Órashion prinet plum deir Órashazur rétasin zervash prinet plum. Efet Argirteikhos. Efet Karvashion. Efet Nesthiros. Krusteikhos telest.]{lang=biza}
@@ -299,7 +299,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Republic's Envoy
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Toum oratarin epistémarin pratin er Kervash. En heun eniautin ghéranis ésharin er Kervash. Eil Kervash pestarin heum.]{.nativefont lang=biza}
 2 [You will ask what the [Republic]{.name data-type="affiliation/polity" lang=en} did. In those years this was its country, or so it believed.]{lang=en}
 2 [Toum oratarin epistémarin pratin er Kervash. En heun eniautin ghéranis ésharin er Kervash. Eil Kervash pestarin heum.]{lang=biza}
@@ -320,7 +320,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## Where the Other Cities Part
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Toum akherin heum varzhel en heter pólitar. Heir ésharin heter. Toum uf rétasin. Ksenetir uf allatarin paradelin er ksenodir para telzhel er ksenodir. Almon toum preitarin epistémarin retin er toum akherin.]{.nativefont lang=biza}
 2 [Elsewhere you will hear this tale differently. Stay silent: guests do not correct a host's history at his table. Still, recognize what you hear.]{lang=en}
 2 [Toum akherin heum varzhel en heter pólitar. Heir ésharin heter. Toum uf rétasin. Ksenetir uf allatarin paradelin er ksenodir para telzhel er ksenodir. Almon toum preitarin epistémarin retin er toum akherin.]{lang=biza}
@@ -345,7 +345,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Reading
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Árshir er bulorin er League árshidin plum sumetin en heum Harvel meta darzarin er Penthar taret. Seketar epistémarin palaisir papirin. Helin akherin keletin er uf ésharin en hein. Zhe zelvash er darzarin ésharin er 5 sfradarin en hut teltin er hodis, eil zelvash er husteret kronin, Harvel medinkronin rétasin. Seketar rétasin hein ésharin homet zighrel. Heum ésharin retin er seketar.]{.nativefont lang=biza}
 2 [The League council's chair opens each Hall session by reading the Compact aloud. Clerks know its old wording well enough to detect an inserted clause. Whether that copy bears the five original seals or was made afterward, the Hall has never said. Clerks call it the same weight, as clerks do.]{lang=en}
 2 [Árshir er bulorin er League árshidin plum sumetin en heum Harvel meta darzarin er Penthar taret. Seketar epistémarin palaisir papirin. Helin akherin keletin er uf ésharin en hein. Zhe zelvash er darzarin ésharin er 5 sfradarin en hut teltin er hodis, eil zelvash er husteret kronin, Harvel medinkronin rétasin. Seketar rétasin hein ésharin homet zighrel. Heum ésharin retin er seketar.]{lang=biza}
@@ -358,7 +358,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 ## The Declaration
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Nunet toum statarin. Toum rétasin prel egh, meun retin, efekt meun. Toum epistémarin heum pro efet Marendas. Toum rétasin prel matelir er toum potet toum ésharin bizvar. Toum rétasin prel autel en ortrin er oratin er sfradarin er deshvar meta zhulvin en kamelir meretin.]{.nativefont lang=biza}
 2 [Stand and repeat each line after me. Know it by the next Dedication. Teach it to your own apprentices when masters. Say it to yourselves on any morning you feel tempted to seal over a bale's hidden bottom rot.]{lang=en}
 2 [Nunet toum statarin. Toum rétasin prel egh, meun retin, efekt meun. Toum epistémarin heum pro efet Marendas. Toum rétasin prel matelir er toum potet toum ésharin bizvar. Toum rétasin prel autel en ortrin er oratin er sfradarin er deshvar meta zhulvin en kamelir meretin.]{lang=biza}
@@ -367,7 +367,7 @@ It is the story of [[lore-heladcompact|the Compact of the Five]], sworn in 157 B
 
 : The Declaration {#declaration}
 
-```verse {form=legend lang=en cols=2}
+```verse {form=legend lang=en cols=2} numstep=5
 1 [Órashion ekhárin siderin. Hein uf ekhárin hodis.]{.nativefont lang=biza}
 2 [Órashion has iron without a road.]{lang=en}
 2 [Órashion ekhárin siderin. Hein uf ekhárin hodis.]{lang=biza}
