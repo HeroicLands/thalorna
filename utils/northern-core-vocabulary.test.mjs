@@ -29,6 +29,9 @@ const glossary = new Set(
     WORD_CLASS_BASES.filter(({ glossary }) => glossary).map(({ token }) => token),
 );
 const words = language.fm.data.words;
+const coreStart = words.findIndex((w) => w.field === "Everyday speech");
+assert(coreStart > 0);
+const nameWords = words.slice(0, coreStart);
 test("Nordmal expresses the inventory through ordinary dictionary citations", () => {
     const actual = new Set(
         words
@@ -58,7 +61,7 @@ const hash = (value) =>
 
 test("Nordmal preserves its names, elements, old meanings and existing prose", () => {
     // Only eight false bound-element tags moved; six ordinary nouns gained tags.
-    const old = words.slice(0, 277);
+    const old = nameWords;
     assert.equal(
         hash(old.map(({ concept, ...w }) => w)),
         "1f8d301b4b48cb2b5956e6f8b370f7ef94430075bb8ab463609302e589529423",
@@ -74,7 +77,11 @@ test("Nordmal preserves its names, elements, old meanings and existing prose", (
     );
     assert.equal(register[0].name, "Thalmdal");
     assert.deepEqual(register[1], addedName);
-    const oldRegister = register.filter(({ name }) => name !== addedName.name);
+    const nameBoundary = register.findIndex(({ name }) => name === "Aldvar");
+    assert(nameBoundary >= 0);
+    const oldRegister = register
+        .slice(0, nameBoundary + 1)
+        .filter(({ name }) => name !== addedName.name);
     assert.equal(
         hash({ ...language.fm, data: { ...data, register: oldRegister } }),
         "cda0750d48fd983dd4952d5669981f854083a9a5d3070077279b6a639e61cfb1",
@@ -105,6 +112,20 @@ test("Nordmal preserves its names, elements, old meanings and existing prose", (
             ordinary.some((w) => [w.concept ?? []].flat().includes(id)),
             id,
         );
+});
+
+test("Nordmal keeps secondary verse senses on their canonical citations", () => {
+    const expectedNotes = {
+        alva: "As a noun in verse, alva means ale.",
+        heim: "As an adverb in verse: homeward, to one's home.",
+        snarv: "As a verb in verse: wind or turn a line or tally.",
+        ald: "As a noun in verse: an old person.",
+    };
+    for (const [form, note] of Object.entries(expectedNotes)) {
+        const matches = words.filter((w) => w.form === form);
+        assert.equal(matches.length, 1, form);
+        assert.equal(matches[0].note, note, form);
+    }
 });
 
 test("Nordmal projects every actual ordinary class and meaning into its dictionary", () => {
@@ -141,10 +162,11 @@ test("Nordmal satisfies its frontmatter, word and name contracts", () => {
     assert.deepEqual(namesFindings(language, BEING_LOOK_VOCABULARY), []);
 });
 
-test("new Nordmal citations keep its spelling palette and real constituent classes", () => {
+test("Nordmal core expressions keep its spelling palette and real constituent classes", () => {
     assert.deepEqual(language.fm.data.sounds.stress, { two: "first", longer: "first" });
     const defined = new Set(words.map((w) => w.form.normalize("NFC")));
-    for (const w of words.slice(277)) {
+    for (const w of ordinary) assert.equal(w.form.trim(), w.form, w.form);
+    for (const w of words.filter((w) => w.concept !== undefined)) {
         assert.equal(w.form.trim(), w.form, w.form);
         assert(!/w|kh|gh|zh|dh/iu.test(w.form), w.form);
         for (const token of w.form.split(/\s+/u)) {
@@ -239,7 +261,7 @@ test("new Nordmal citations preserve interpreted old word and name pieces", asyn
     // a former loose match to a bound piece without changing that piece's YAML.
     const originalData = {
         ...language.fm.data,
-        words: words.slice(0, 277),
+        words: nameWords,
         fields: language.fm.data.fields.slice(0, -1),
     };
     const originalRecord = { ...record(language), data: originalData };
