@@ -9,3 +9,4 @@
 - The Khelathi culture page pairs the Meqes memorial with an unpointed Roman transcription and the six-line Qalezu Asking.
 - _The Suit of the Scribe and the Builder_ presents the performed Khelathi play in numbered parallel Qalezu, English and Roman readings.
 - _The Stela of Kuz'Uqa at Zel-Halzi_ adds the unpointed Roman transcription, preserving blank rows and later hands.
+- _The Instruction of Khelayu_ pairs its maxims, pupil errors, teacher corrections and two-hand colophon with a parallel reading.

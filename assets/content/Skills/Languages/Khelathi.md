@@ -7571,6 +7571,194 @@ built: [qedlar, "-ar"] - form: "galnat"
 class: n
 field: "Place elements"
 gloss: "town, individual ordinary noun"
+source: {kind: coined} - form: "qenlar"
+class: v
+field: "Doing"
+gloss: "correct a written mistake"
+source: {kind: coined} - form: "qaruthnet"
+class: n
+field: "Everyday speech"
+gloss: "intended meaning"
+source: {kind: coined} - form: "lekhathnet"
+class: n
+field: "Ritual and accounts"
+gloss: "ordination/blessing"
+source: {kind: coined} - form: "zhetqen"
+class: n
+field: "The written and the recited"
+gloss: "answer"
+source: {kind: coined} - form: "zegarar"
+class: n
+field: "Ritual and accounts"
+gloss: "farmer"
+source: {kind: coined} - form: "zethqalnet"
+class: n
+field: "The written and the recited"
+gloss: "cargo manifest"
+source: {kind: coined} - form: "khaznet"
+class: n
+field: "Ritual and accounts"
+gloss: "suspicion"
+source: {kind: coined} - form: "shalqet"
+class: n
+field: "Ritual and accounts"
+gloss: "knife"
+source: {kind: coined} - form: "qelmul"
+class: v
+field: "Doing"
+gloss: "round written forms or numbers"
+source: {kind: coined} - form: "qezmur"
+class: n
+field: "Ritual and accounts"
+gloss: "red pigment"
+source: {kind: coined} - form: "lagqem"
+class: n
+field: "Everyday speech"
+gloss: "gum resin"
+source: {kind: coined} - form: "qelmath"
+class: v
+field: "Doing"
+gloss: "mix"
+source: {kind: coined} - form: "qezminet"
+class: n
+field: "Ritual and accounts"
+gloss: "pink pigment"
+source: {kind: coined} - form: "shenqar"
+class: n
+field: "Ritual and accounts"
+gloss: "marsh paper"
+source: {kind: coined} - form: "qalshar"
+class: n
+field: "Ritual and accounts"
+gloss: "pottery sherd"
+source: {kind: coined} - form: "qelgar"
+class: v
+field: "Doing"
+gloss: "scrape"
+source: {kind: coined} - form: "fael"
+class: n
+field: "Ritual and accounts"
+gloss: "lamplight"
+source: {kind: coined} - form: "salqet"
+class: n
+field: "Ritual and accounts"
+gloss: "shelf"
+source: {kind: coined} - form: "konet"
+class: n
+field: "Ritual and accounts"
+gloss: "dust"
+source: {kind: coined} - form: "zethgal"
+class: n
+field: "The written and the recited"
+gloss: "archive counter or writing desk"
+source: {kind: coined} - form: "qazemnet"
+class: n
+field: "Everyday speech"
+gloss: "purchase/payment"
+source: {kind: coined} - form: "qelmer"
+class: adj
+field: "Everyday speech"
+gloss: "kind"
+source: {kind: coined} - form: "rethurun"
+class: n
+field: "Ritual and accounts"
+gloss: "memory"
+source: {kind: coined} - form: "qelgaret"
+class: n
+field: "The written and the recited"
+gloss: "scraper"
+source: {kind: coined} - form: "zelarun"
+class: n
+field: "Everyday speech"
+gloss: "burial club"
+source: {kind: coined} - form: "qenmar"
+class: n
+field: "Ritual and accounts"
+gloss: "face"
+source: {kind: coined} - form: "horqet"
+class: n
+field: "Ritual and accounts"
+gloss: "hour"
+source: {kind: coined} - form: "alqarnet"
+class: n
+field: "Everyday speech"
+gloss: "what exists (individual abstract noun)"
+source: {kind: coined} - form: "qatheznet"
+class: n
+field: "The written and the recited"
+gloss: "application of a seal"
+source: {kind: coined} - form: "qalbath"
+class: v
+field: "Doing"
+gloss: "bathe"
+source: {kind: coined} - form: "telzhar"
+class: n
+field: "Ritual and accounts"
+gloss: "table"
+source: {kind: coined} - form: "thaluznet"
+class: n
+field: "Everyday speech"
+gloss: "touch"
+source: {kind: coined} - form: "makhal"
+class: v
+field: "Doing"
+gloss: "fight"
+source: {kind: coined} - form: "kamel"
+class: adj
+field: "Everyday speech"
+gloss: "tired"
+source: {kind: coined} - form: "qelmulnet"
+class: n
+field: "The written and the recited"
+gloss: "rounding of signs"
+source: {kind: coined} - form: "garqelar"
+class: n
+field: "Ritual and accounts"
+gloss: "neighbor"
+source: {kind: coined} - form: "galzamar"
+class: n
+field: "Ritual and accounts"
+gloss: "forecourt"
+source: {kind: coined} - form: "tarulnet"
+class: n
+field: "Everyday speech"
+gloss: "walking or pacing"
+source: {kind: coined} - form: "dunelnet"
+class: n
+field: "Ritual and accounts"
+gloss: "capacity"
+source: {kind: coined} - form: "alqarun"
+class: n
+field: "Ritual and accounts"
+gloss: "religion, practice relating to the gods"
+source: {kind: coined} - form: "nelgalar"
+class: n
+field: "Ritual and accounts"
+gloss: "household shrine"
+source: {kind: coined} - form: "danet"
+class: n
+field: "Ritual and accounts"
+gloss: "loan"
+source: {kind: coined} - form: "rethan qaril"
+class: n
+field: "Ritual and accounts"
+gloss: "phrase near name"
+source: {kind: coined} - form: "ralzet"
+class: adj
+field: "Everyday speech"
+gloss: "easy"
+source: {kind: coined} - form: "alghen"
+class: adj
+field: "Everyday speech"
+gloss: "suffering"
+source: {kind: coined} - form: "qezlun"
+class: v
+field: "Doing"
+gloss: "hurry"
+source: {kind: coined} - form: "tharil"
+class: adv
+field: "Everyday speech"
+gloss: "slowly"
 source: {kind: coined}
 
 ## Grammar Notes
