@@ -45,9 +45,9 @@ data:
 2 [Timkin, Ramk-sumád, elder of the raising of the course, speaks first. He enters the ruled line: seventy measures between the cistern’s head and the spring-head, following a stretched, straight cord. The first thirty measures are sound stone; the last twenty are sound stone; soft ground lies between. The cutters prop it with gate timber as the cut advances. Two crews in shifts. Sixty-four days. Timkin enters that the ruled line is shameful, and enters it knowingly. “The cistern has sixty parts. No other route takes sixty-four days.”]{lang=en}
 2 [Timkin, Ramk-sumád, pabar, ramk-sumád, gunádh dhanív. Vog lumáv khatab. Maval zi hutabar puvár bep maval zi basur puvár, raghav, 46 mathazez. Khatab nuzám vald zi thanpez durákh, vald khatíb. Dhanivez mathazez, 1^, dalk tasím. Favizez mathazez, 14, dalk tasím. Madan buvár maríd parn. Khazárez sukáp nuv Gatal zi tanv thunáz. Dulák nuzám, sakap nuzám. Zik ragadez, hadhakez. Davanez, 40. Timkin lumáv, khatab zaníp. Vog lumáv kedz, bep vog ruthák kedz. <<Hutabar zuvák, 3$ fadhazez. Khapav raghav thuf puvár bozd girmez davanez.>>]{lang=khaz}
 
-1 [Dulkun, Khalv-gunáv, lumáv darz. Kedz davan, dhanív larg. Vog nuzám bavath zi nalív huthamur puvár. Khatab nuláv bavath, 28 mathazez zi dhanivez. Vog rukád bavath nuv hamk, tavíz mathaz. Mathaz 1^, hamk wal... khaz? Hamk khalíb, bep butám, nefk mathazez. Mathaz nefk, rafas ludháv, galv bep ravath. Khatab thuf nuzám kodz raghav. Vog lumáv, kedz zagar. Dalk Dalk nudháp bep nudháp hez. Khatab fudhál zagar. <<Gaz thuf dulák zi fudhál vog.>> Vog thubágh magar. Batím huganv zi Khalv-gunáv puvár nuzám labaz. Labaz guláv zagar bep thuráp. Labaz nuzáv maval zi basur puvár. Labaz nuláv zalv. Raghav zi labaz durákh, %$ mathazez. Dulák, vem kalatez zi khatab duháv. Sakap thuf zuvák. Dulkun thuf lumáv davan.]{.nativefont lang=khaz}
+1 [Dulkun, Khalv-gunáv, lumáv darz. Kedz davan, dhanív larg. Vog nuzám bavath zi nalív huthamur puvár. Khatab nuláv bavath, 28 mathazez zi dhanivez. Vog rukád bavath nuv hamk, tavíz mathaz. Mathaz 1^, hamk gadíb, bep butám, nefk mathazez. Mathaz nefk, rafas ludháv, galv bep ravath. Khatab thuf nuzám kodz raghav. Vog lumáv, kedz zagar. Dalk Dalk nudháp bep nudháp hez. Khatab fudhál zagar. <<Gaz thuf dulák zi fudhál vog.>> Vog thubágh magar. Batím huganv zi Khalv-gunáv puvár nuzám labaz. Labaz guláv zagar bep thuráp. Labaz nuzáv maval zi basur puvár. Labaz nuláv zalv. Raghav zi labaz durákh, %$ mathazez. Dulák, vem kalatez zi khatab duháv. Sakap thuf zuvák. Dulkun thuf lumáv davan.]{.nativefont lang=khaz}
 2 [Dulkun, Khalv-gunáv, enters opposition. That morning he follows the floor of the lower striking-floor above the ruled line’s first forty measures, sounding at every measure. At thirty the ring turns dull for six measures. In the sixth a seep flows west to east, across the ruled line’s direction. He enters a fault: the stone slips and slips again. The ruled line crosses it. “I do not cut across it.” He asks for the grain: the bedding seam followed by Khalv-gunáv’s old working. The seam turns west of the fault and climbs to the spring-head below its lip. Its route is 220 measures, three times the ruled line’s cutting, without a prop. Dulkun enters no completion day.]{lang=en}
-2 [Dulkun, Khalv-gunáv, lumáv darz. Kedz davan, dhanív larg. Vog nuzám bavath zi nalív huthamur puvár. Khatab nuláv bavath, 28 mathazez zi dhanivez. Vog rukád bavath nuv hamk, tavíz mathaz. Mathaz 1^, hamk wal... khaz? Hamk khalíb, bep butám, nefk mathazez. Mathaz nefk, rafas ludháv, galv bep ravath. Khatab thuf nuzám kodz raghav. Vog lumáv, kedz zagar. Dalk Dalk nudháp bep nudháp hez. Khatab fudhál zagar. <<Gaz thuf dulák zi fudhál vog.>> Vog thubágh magar. Batím huganv zi Khalv-gunáv puvár nuzám labaz. Labaz guláv zagar bep thuráp. Labaz nuzáv maval zi basur puvár. Labaz nuláv zalv. Raghav zi labaz durákh, %$ mathazez. Dulák, vem kalatez zi khatab duháv. Sakap thuf zuvák. Dulkun thuf lumáv davan.]{lang=khaz}
+2 [Dulkun, Khalv-gunáv, lumáv darz. Kedz davan, dhanív larg. Vog nuzám bavath zi nalív huthamur puvár. Khatab nuláv bavath, 28 mathazez zi dhanivez. Vog rukád bavath nuv hamk, tavíz mathaz. Mathaz 1^, hamk gadíb, bep butám, nefk mathazez. Mathaz nefk, rafas ludháv, galv bep ravath. Khatab thuf nuzám kodz raghav. Vog lumáv, kedz zagar. Dalk Dalk nudháp bep nudháp hez. Khatab fudhál zagar. <<Gaz thuf dulák zi fudhál vog.>> Vog thubágh magar. Batím huganv zi Khalv-gunáv puvár nuzám labaz. Labaz guláv zagar bep thuráp. Labaz nuzáv maval zi basur puvár. Labaz nuláv zalv. Raghav zi labaz durákh, %$ mathazez. Dulák, vem kalatez zi khatab duháv. Sakap thuf zuvák. Dulkun thuf lumáv davan.]{lang=khaz}
 
 1 [Timkin, Ramk-sumád, lumáv. Taghív param zi Timkin puvár. Bavath zi nalív huthamur puvár thunáz tasím hamk, damagez zi vagath puvár thumár vog. Rakadir zi vagath puvár thuf lumáv gadíb hamk. Lukum, Lakam-mulán, buráth limvath zi hulamv durákh bep hurát vog. Fakar, vadhal 97, dulák zi nalív huthamur. Girip, Tabar-suláth, rakadir. Vog lumáv, hamk gadíb, mathaz 1^ bep mathaz 24. Mathaz nefk zi madan puvár, rafas zuvák. Vog lumáv, Lamv durákh darz, dulák zi nuláv kodz bavath. Hartir hurát taghív limvath. Vog durákh. Limvath zi Timkin lumáv nuzám vog, tagan zi lumáv.]{.nativefont lang=khaz}
 2 [Timkin, Ramk-sumád, enters that throughout his life the floor rings sound beneath his house’s hammers and no reader of his house enters a dull ring. Lukum, Lakam-mulán, brings the old cutting record from the archive and reads it. Year of the Finding 151. Girip, Tabar-suláth, reader, enters dullness from measure thirty to thirty-six and a seep in the sixth measure of that interval. The record opposes cutting beneath that length of floor. The reader reads the whole record. It stands. Timkin’s entry follows it in the order of entry.]{lang=en}
@@ -81,7 +81,8 @@ data:
 2 [Day ten. Tunnel: six measures. Cistern: fifty-seven parts.]{lang=en}
 2 [Davan zund. Narv, nefk mathazez. Hutabar, 39 fadhazez.]{lang=khaz}
 
-[…]
+1 […]
+2 […]
 
 1 [Davan 14. Narv, 13 mathazez. Hutabar, 33 fadhazez. Davan 1^. Narv, 1& mathazez. Hutabar, 2^ fadhazez. Zund davanez, lamv thuf lumáv dulák. Mathaz 16, dhanv. Mathaz 1%, favaz. Barg zupádh labaz. Vurun, Khalv-gunáv, lumáv, dalk puzál thubágh, kodz tarv. Dulkun thuf lumáv gandh.]{.nativefont lang=khaz}
 2 [Day twenty. Tunnel: nineteen measures. Cistern: fifty-one parts. Day thirty. Tunnel: thirty-one measures. Cistern: forty-six parts. No cut is entered in those ten days. Between measures twenty-two and twenty-nine the bar opens the seam. Vurun, Khalv-gunáv, enters that along that length the stone waits to be asked. Dulkun enters no word.]{lang=en}
@@ -107,7 +108,8 @@ data:
 2 [Day sixty. Rinit, Tabar-suláth, asks for the hammer. The record enters that she receives another lamp.]{lang=en}
 2 [Davan 3$. Rinit, Tabar-suláth, thubágh damag. Lamv lumáv, vog guván khapav lakamev.]{lang=khaz}
 
-[…]
+1 […]
+2 […]
 
 1 [Davan 4$. Narv, mathaz 65. Hutabar, 31 fadhazez. Pabarez zi Ramk-sumád puvár thubágh khatab-dulák, nuv magar-dulák. Nalív hadan durákh gatal. Savam thuf suvám.]{.nativefont lang=khaz}
 2 [Day seventy-six. Tunnel: measure 101. Cistern: forty-nine parts. Ramk-sumád’s elders ask to cut the ruled line alongside the grain’s line, using the timber lying in the lower court. The council does not sit.]{lang=en}
@@ -125,7 +127,8 @@ data:
 2 [Day ninety. Tunnel: 117 measures. Cistern: forty-four parts. The year is hot; heat lies on the face. The elders grant extra water to old people whose hands have failed and to children whose lives are shorter than five years. Their draw receives half a part beyond its count over six days, by need. The record names the households receiving it: eleven.]{lang=en}
 2 [Davan 5@. Narv, 75 mathazez. Hutabar, 2$ fadhazez. Vadhal halíd, khabar puvár hald. Pabarez thunáz khapav baval. Batimez Khazárez zi thanpez zi vogun puvár rubáth. Lafadez, zop vadhalez burádh paramez zi vogun puvár. Kodz mavalez guván baval, kamv zi vogun puvár bep padhal. Batam, nefk davanez. Duháv vudár kedz. Lamv murádh huvalthez zi guván kodz baval. Dolb huvalthez.]{lang=khaz}
 
-[…]
+1 […]
+2 […]
 
 1 [Davan 67, dhanív larg. Suluth, Tabar-suláth, kumáv hutabar bep thuvál. Vagath zi vog puvár buvár padharez, khabar buvár vogun, vog dubáz kelg. Favíz limvath, thanp zi vog puvár mulág vog, baval-lumáv durákh vog. Hutabar, 28 fadhazez. Davan 66, khozum padarez. Davan 68, khardev nudháp bep mullán. Gandhez guzár maln. Ramk samíd, ramk thamír. Khazari punád Suluth, bamg buvár vog, bep puráz mardh zi vog puvár. Tabar-suláth guván dakal bep badakez zi Suluth puvár. Ragad zi hadhak 3 puvár thuráp bep mullán, bep nudháp hez. Narv, mathaz 81. Davan 68, Rinit, Tabar-suláth, dukál hutabar. Vog kuvál dakal, kodz davan. Palaz guván dakal zi mutház.]{.nativefont lang=khaz}
 2 [On the morning of day 103 Suluth, Tabar-suláth, counts the cistern and dies in her house’s rooms on the face. The water-record retains her last entry in her own hand: forty parts, and nine skins on day 102. On day 104 the hold goes down and keeps silence. Words break the silence: Ramk samíd, ramk thamír. The people lay Suluth in the deep and engrave her name. Tabar-suláth receives her tally-stick and tools. The third shift comes up for the silence and descends again, to measure 129. From day 104 Rinit, Tabar-suláth, keeps the cistern tally on a stick she shapes that day. Palaz receives the measuring tally.]{lang=en}
@@ -139,9 +142,9 @@ data:
 2 [On the night of day 119 Tanvan, Ramk-sumád, dies in his second year. On day 120 the hold goes down and keeps silence. The people speak the words, lay Tanvan in the deep and engrave his name. Cistern: thirty-five parts.]{lang=en}
 2 [Davan 77, navath. Tanvan, Ramk-sumád, thuvál. Param zi vog puvár, vadhal 2. Davan 78, khardev nudháp bep mullán. Khazari gunádh gandhez, bep punád Tanvan, bamg buvár vog, bep puráz mardh zi vog puvár. Hutabar, 23 fadhazez.]{lang=khaz}
 
-1 [Davan 7^. Ragad zi hadhak 1 puvár dulák, mathaz 97. Bavath zi labaz puvár puthák, nask nuzáv. Basur puthák kodz nask, kodz puthák duráv basur-funád zi kedz davan durákh. Nask taríg. Samd, tob Khazár. Rabak, zik Khazárez. Nask ruváth gadhath bep thuráp, 1^ mathazez. Gadhath taríg, pathak buvár vog. Murgun, Khalv-gunáv, funád dhanív, nuv lakamev. Gadhath buvár vog, labat nudháp, vog rugál. Vog lumáv vatgh. Gadhath buvár vatgh, bep gadhath nuláv vatgh, tarv, kabur mathazez. Davan 7&. Dulkun rukád dagab zi gadhath puvár nuv hamk bep fukár halgh. Samíd zaghar-khubár puvár bavath, bavath puvár ladhíp halgh. Rakadirez lumáv kodz halgh, kedz rakad duráv kodz vadhal, kabur girmez vadhalez. Ragad nuláv halgh, vogun puthák vog, zik dulákez. Fasdh nudháp, zaghar-khubár thunáz vog. Lakamev zuvák. Lamv kumáv zik dulákez. Dulkun rukád taghív nask nuv hamk, tob hadhak, bep lumáv nask tasím. Vog lumáv, Khazari thuf dulák 1^ mathazez. Khazari thuf dulák kodz mathazez. Narv nuzám nask, ladhíp nuv baval zi nuzám vog.]{.nativefont lang=khaz}
+1 [Davan 7^. Ragad zi hadhak 1 puvár dulák, mathaz 97. Bavath zi labaz puvár puthák, nask nuzáv. Basur puthák kodz nask, kodz puthák duráv basur-funád zi kedz davan durákh. Nask taríg. Samd, tob Khazár. Rabak, zik Khazárez. Nask ruváth gadhath bep thuráp, 1^ mathazez. Gadhath taríg, pathak buvár vog. Murgun, Khalv-gunáv, funád dhanív, nuv lakamev. Gadhath buvár vog, labat nudháp, vog rugál. Vog lumáv vatagh. Gadhath buvár vatagh, bep gadhath nuláv vatagh, tarv, kabur mathazez. Davan 7&. Dulkun rukád dagab zi gadhath puvár nuv hamk bep fukár halgh. Samíd zaghar-khubár puvár bavath, bavath puvár ladhíp halgh. Rakadirez lumáv kodz halgh, kedz rakad duráv kodz vadhal, kabur girmez vadhalez. Ragad nuláv halgh, vogun puthák vog, zik dulákez. Fasdh nudháp, zaghar-khubár thunáz vog. Lakamev zuvák. Lamv kumáv zik dulákez. Dulkun rukád taghív nask nuv hamk, tob hadhak, bep lumáv nask tasím. Vog lumáv, Khazari thuf dulák 1^ mathazez. Khazari thuf dulák kodz mathazez. Narv nuzám nask, ladhíp nuv baval zi nuzám vog.]{.nativefont lang=khaz}
 2 [On day 126 the first shift’s cut at measure 151 opens the seam’s floor into a water-worn passage. The spring opens that passage before taking its present course. It is dry, a person’s height and two people’s width, running thirty measures east and upward from a dry sump at the opening. Murgun, Khalv-gunáv, goes first with a lamp. In the sump the light drops and he returns. He enters bad air within the sump and eight measures above it. On day 127 Dulkun sounds the sump’s roof and finds a fissure. The upper ore-face’s floor contains the same fissure, entered by readers 128 years earlier. The crew opens it from below in two cuts. Air draws down from the ore-face and the lamp stands. The record counts the two cuts. Dulkun sounds the whole passage in one shift, enters it sound and enters that its thirty measures will not be cut. They are not cut. The tunnel follows it as the water does.]{lang=en}
-2 [Davan 7^. Ragad zi hadhak 1 puvár dulák, mathaz 97. Bavath zi labaz puvár puthák, nask nuzáv. Basur puthák kodz nask, kodz puthák duráv basur-funád zi kedz davan durákh. Nask taríg. Samd, tob Khazár. Rabak, zik Khazárez. Nask ruváth gadhath bep thuráp, 1^ mathazez. Gadhath taríg, pathak buvár vog. Murgun, Khalv-gunáv, funád dhanív, nuv lakamev. Gadhath buvár vog, labat nudháp, vog rugál. Vog lumáv vatgh. Gadhath buvár vatgh, bep gadhath nuláv vatgh, tarv, kabur mathazez. Davan 7&. Dulkun rukád dagab zi gadhath puvár nuv hamk bep fukár halgh. Samíd zaghar-khubár puvár bavath, bavath puvár ladhíp halgh. Rakadirez lumáv kodz halgh, kedz rakad duráv kodz vadhal, kabur girmez vadhalez. Ragad nuláv halgh, vogun puthák vog, zik dulákez. Fasdh nudháp, zaghar-khubár thunáz vog. Lakamev zuvák. Lamv kumáv zik dulákez. Dulkun rukád taghív nask nuv hamk, tob hadhak, bep lumáv nask tasím. Vog lumáv, Khazari thuf dulák 1^ mathazez. Khazari thuf dulák kodz mathazez. Narv nuzám nask, ladhíp nuv baval zi nuzám vog.]{lang=khaz}
+2 [Davan 7^. Ragad zi hadhak 1 puvár dulák, mathaz 97. Bavath zi labaz puvár puthák, nask nuzáv. Basur puthák kodz nask, kodz puthák duráv basur-funád zi kedz davan durákh. Nask taríg. Samd, tob Khazár. Rabak, zik Khazárez. Nask ruváth gadhath bep thuráp, 1^ mathazez. Gadhath taríg, pathak buvár vog. Murgun, Khalv-gunáv, funád dhanív, nuv lakamev. Gadhath buvár vog, labat nudháp, vog rugál. Vog lumáv vatagh. Gadhath buvár vatagh, bep gadhath nuláv vatagh, tarv, kabur mathazez. Davan 7&. Dulkun rukád dagab zi gadhath puvár nuv hamk bep fukár halgh. Samíd zaghar-khubár puvár bavath, bavath puvár ladhíp halgh. Rakadirez lumáv kodz halgh, kedz rakad duráv kodz vadhal, kabur girmez vadhalez. Ragad nuláv halgh, vogun puthák vog, zik dulákez. Fasdh nudháp, zaghar-khubár thunáz vog. Lakamev zuvák. Lamv kumáv zik dulákez. Dulkun rukád taghív nask nuv hamk, tob hadhak, bep lumáv nask tasím. Vog lumáv, Khazari thuf dulák 1^ mathazez. Khazari thuf dulák kodz mathazez. Narv nuzám nask, ladhíp nuv baval zi nuzám vog.]{lang=khaz}
 
 1 [Davan 83. Talg nuzáv khabar. Khazari buráth talg, valthez buvár vog, vog tuláz. Lamv kumáv baval zi talg thunáz, nuv padarez. Davan 86, hals bugán satav, tanv thuf suvár baval hez. Kodz davan, favíz padar. Taghav, 247 padarez thuráp, tanv suvár vogun.]{.nativefont lang=khaz}
 2 [On day 131 snow reaches the face. The people carry it to the hearths and melt it. The record counts snow-water with the skins. On day 134 frost seals the stair and the gate sends no more water. The last skin is entered that day. In all, the gate sends up 583 skins.]{lang=en}
@@ -159,7 +162,8 @@ data:
 2 [Day 150. Tunnel: 211 measures. Dulkun enters that from measure 209 the stone carries the sound of water below and ahead of him: water falling into other water. Cistern: twenty-five parts.]{lang=en}
 2 [Davan 96. Narv, %3 mathazez. Dulkun lumáv, mathaz %1, dalk buráth hamk zi baval puvár. Hamk nuláv Dulkun bep muráz vog. Baval nudháp, khapav baval guván vog. Hutabar, 19 fadhazez.]{lang=khaz}
 
-[…]
+1 […]
+2 […]
 
 1 [Davan 9^. Hadhak vem. Mathaz %$. Dulkun thumár, pathak nuzáv maval zi basur puvár. Pathak nuláv zalv zi basur puvár. Pathak nuláv baval, tarv, rabak zi thanp puvár. Baval fudhál pathak, narv guván vog. Vog nudháp, narv nuzám labaz zi nudháp. Gadhath zi mathaz 97 puvár guván baval, tob hadhak. Gadhath guván taghav, baval burádh zalv zi vog puvár bep funád. Bumgun, Khalv-gunáv, durákh lakamev bep lumáv galn. Dulkun lumáv mathaz.]{.nativefont lang=khaz}
 2 [On day 158, in the third shift at measure 220, Dulkun’s cut opens into the spring-head below its lip, a hand’s breadth beneath the water. Water crosses the opening into the tunnel and descends with the seam. Within one shift it reaches the dry sump at measure 151, fills it, crosses its lip and goes onward. Bumgun, Khalv-gunáv, holds the lamp and enters the hour. Dulkun enters the measure.]{lang=en}
@@ -192,15 +196,19 @@ data:
 1 [Khardev zuráb baval, barth.]{.nativefont lang=khaz}
 2 [The hold loses water: a burden.]{lang=en}
 2 [Khardev zuráb baval, barth.]{lang=khaz}
+
 1 [Khardev thubágh baval. Gaz guván fakar.]{.nativefont lang=khaz}
 2 [The hold asks for water. I receive the finding.]{lang=en}
 2 [Khardev thubágh baval. Gaz guván fakar.]{lang=khaz}
+
 1 [Gaz thuf fukár baval.]{.nativefont lang=khaz}
 2 [I do not find the water.]{lang=en}
 2 [Gaz thuf fukár baval.]{lang=khaz}
+
 1 [Baval fukár raghav. Kodz duráv gazun.]{.nativefont lang=khaz}
 2 [Water finds a road before us.]{lang=en}
 2 [Baval fukár raghav. Kodz duráv gazun.]{lang=khaz}
+
 1 [Gaz fukár raghav zi baval fukár.]{.nativefont lang=khaz}
 2 [I find the road water finds.]{lang=en}
 2 [Gaz fukár raghav zi baval fukár.]{lang=khaz}
@@ -208,15 +216,19 @@ data:
 1 [Vem davanez, gaz sumág gadak.]{.nativefont lang=khaz}
 2 [For three days I listen at the fall.]{lang=en}
 2 [Vem davanez, gaz sumág gadak.]{lang=khaz}
+
 1 [Davan bozd, gaz sumág khatab.]{.nativefont lang=khaz}
 2 [On the fourth I listen along the ruled line.]{lang=en}
 2 [Davan bozd, gaz sumág khatab.]{lang=khaz}
+
 1 [Mathaz 1^, hamk gadíb.]{.nativefont lang=khaz}
 2 [At measure thirty the ring is dull.]{lang=en}
 2 [Mathaz 1^, hamk gadíb.]{lang=khaz}
+
 1 [Gadíb dalk, dalk zi zugár.]{.nativefont lang=khaz}
 2 [Dull stone is stone that slips.]{lang=en}
 2 [Gadíb dalk, dalk zi zugár.]{lang=khaz}
+
 1 [Gaz thuf dulák dalk zi zugár.]{.nativefont lang=khaz}
 2 [I do not cut across slipping stone.]{lang=en}
 2 [Gaz thuf dulák dalk zi zugár.]{lang=khaz}
@@ -224,21 +236,27 @@ data:
 1 [Gaz sumág magar, gaz thubágh vog.]{.nativefont lang=khaz}
 2 [I listen to the grain. I ask for it.]{lang=en}
 2 [Gaz sumág magar, gaz thubágh vog.]{lang=khaz}
+
 1 [Magar guláv. Baval ruváth.]{.nativefont lang=khaz}
 2 [The grain goes west. The water goes east.]{lang=en}
 2 [Magar guláv. Baval ruváth.]{lang=khaz}
+
 1 [Vog thuráp. Vald faríkh kolg.]{.nativefont lang=khaz}
 2 [It climbs. The cord lies level there.]{lang=en}
 2 [Vog thuráp. Vald faríkh kolg.]{lang=khaz}
+
 1 [Vog thubágh %$ mathazez.]{.nativefont lang=khaz}
 2 [It asks 220 measures.]{lang=en}
 2 [Vog thubágh %$ mathazez.]{lang=khaz}
+
 1 [Gaz guván vogun, davan 28, favaz.]{.nativefont lang=khaz}
 2 [I receive them until day forty.]{lang=en}
 2 [Gaz guván vogun, davan 28, favaz.]{lang=khaz}
+
 1 [Davan 28, gaz thuf nuzáv galm.]{.nativefont lang=khaz}
 2 [On day forty I do not reach the bend.]{lang=en}
 2 [Davan 28, gaz thuf nuzáv galm.]{lang=khaz}
+
 1 [Lamv durákh kedz. Gaz thuf zurám vog.]{.nativefont lang=khaz}
 2 [The record keeps this. I do not strike it out.]{lang=en}
 2 [Lamv durákh kedz. Gaz thuf zurám vog.]{lang=khaz}
@@ -246,30 +264,39 @@ data:
 1 [! Vesun kumáv dulákez.]{.nativefont lang=khaz}
 2 [Count the cuts.]{lang=en}
 2 [! Vesun kumáv dulákez.]{lang=khaz}
+
 1 [Dulákez zi puthák pathakez, 13.]{.nativefont lang=khaz}
 2 [Cuts opening ways: nineteen.]{lang=en}
 2 [Dulákez zi puthák pathakez, 13.]{lang=khaz}
+
 1 [Dulákez zi furákh bavath, 28.]{.nativefont lang=khaz}
 2 [Cuts leveling the floor: forty.]{lang=en}
 2 [Dulákez zi furákh bavath, 28.]{lang=khaz}
+
 1 [Dulákez zi vulád naskez, fozd.]{.nativefont lang=khaz}
 2 [Cuts binding passages together: seven.]{lang=en}
 2 [Dulákez zi vulád naskez, fozd.]{lang=khaz}
+
 1 [42, lamv thuf kumáv bakath-puthák.]{.nativefont lang=khaz}
 2 [Sixty-six. The record does not count the joint-openings.]{lang=en}
 2 [42, lamv thuf kumáv bakath-puthák.]{lang=khaz}
+
 1 [Dalk dulák dalk. Gaz thuf dulák vog.]{.nativefont lang=khaz}
 2 [Stone cuts stone. I do not cut it.]{lang=en}
 2 [Dalk dulák dalk. Gaz thuf dulák vog.]{lang=khaz}
+
 1 [Gaz thuf dulák 1^ mathazez.]{.nativefont lang=khaz}
 2 [Thirty measures I do not cut.]{lang=en}
 2 [Gaz thuf dulák 1^ mathazez.]{lang=khaz}
+
 1 [Baval dulák vogun, batím raghav. Basur zuvár raghav, kedz nuzám kodz dulák.]{.nativefont lang=khaz}
 2 [Water cuts them on its old road, before the spring changes course.]{lang=en}
 2 [Baval dulák vogun, batím raghav. Basur zuvár raghav, kedz nuzám kodz dulák.]{lang=khaz}
+
 1 [Kodz 1^ mathazez, gathír bamur zi gaz puvár.]{.nativefont lang=khaz}
 2 [Those thirty measures are my masterwork.]{lang=en}
 2 [Kodz 1^ mathazez, gathír bamur zi gaz puvár.]{lang=khaz}
+
 1 [Gaz thuf thunáp vogun.]{.nativefont lang=khaz}
 2 [I put no hand to them.]{lang=en}
 2 [Gaz thuf thunáp vogun.]{lang=khaz}
@@ -277,15 +304,19 @@ data:
 1 [Gaz dulák, tob dulák fudhál magar.]{.nativefont lang=khaz}
 2 [I make one cut across the grain.]{lang=en}
 2 [Gaz dulák, tob dulák fudhál magar.]{lang=khaz}
+
 1 [Mathaz 66. Davan 4%.]{.nativefont lang=khaz}
 2 [Measure 102. Day seventy-seven.]{lang=en}
 2 [Mathaz 66. Davan 4%.]{lang=khaz}
+
 1 [Lamv zunáp mardh zi gaz puvár.]{.nativefont lang=khaz}
 2 [The record marks it against my name.]{lang=en}
 2 [Lamv zunáp mardh zi gaz puvár.]{lang=khaz}
+
 1 [Khapav davan, dhanív larg, Tilig fukár pathak zi nuláv gazak.]{.nativefont lang=khaz}
 2 [Tilig finds the way beneath the flaw the following morning.]{lang=en}
 2 [Khapav davan, dhanív larg, Tilig fukár pathak zi nuláv gazak.]{lang=khaz}
+
 1 [Dagab puvár pard. Gaz puvár vog. ! Vesun funád, vesun nuláv vog.]{.nativefont lang=khaz}
 2 [The roof keeps the spall. It is mine. Walk beneath it.]{lang=en}
 2 [Dagab puvár pard. Gaz puvár vog. ! Vesun funád, vesun nuláv vog.]{lang=khaz}
@@ -293,24 +324,31 @@ data:
 1 [Sakap thuf zuvák.]{.nativefont lang=khaz}
 2 [There is no prop.]{lang=en}
 2 [Sakap thuf zuvák.]{lang=khaz}
+
 1 [Gatal thuráp, tanv suvár vog, khatab duháv vog.]{.nativefont lang=khaz}
 2 [Timber comes up from the gate for the ruled line.]{lang=en}
 2 [Gatal thuráp, tanv suvár vog, khatab duháv vog.]{lang=khaz}
+
 1 [Tanv guván vog hez. Hiz tanv thufár vog, kedz zadír.]{.nativefont lang=khaz}
 2 [The gate receives it back. The gate may burn it.]{lang=en}
 2 [Tanv guván vog hez. Hiz tanv thufár vog, kedz zadír.]{lang=khaz}
+
 1 [Sakap thuf zuvák kelg.]{.nativefont lang=khaz}
 2 [There is no prop here.]{lang=en}
 2 [Sakap thuf zuvák kelg.]{lang=khaz}
+
 1 [%$ mathazez. Sakap thuf zuvák kelg.]{.nativefont lang=khaz}
 2 [Two hundred and twenty measures. No prop here.]{lang=en}
 2 [%$ mathazez. Sakap thuf zuvák kelg.]{lang=khaz}
+
 1 [! Vesun rukád baval-khunák nuv hamk. Hutabar, dhanv. Basur, favaz.]{.nativefont lang=khaz}
 2 [Sound the water-line from cistern to spring.]{lang=en}
 2 [! Vesun rukád baval-khunák nuv hamk. Hutabar, dhanv. Basur, favaz.]{lang=khaz}
+
 1 [Taghív narv thunáz tasím hamk, dhanv bep favaz.]{.nativefont lang=khaz}
 2 [The whole tunnel gives a sound ring, beginning to end.]{lang=en}
 2 [Taghív narv thunáz tasím hamk, dhanv bep favaz.]{lang=khaz}
+
 1 [Sakap thuf zuvák kelg.]{.nativefont lang=khaz}
 2 [There is no prop here.]{lang=en}
 2 [Sakap thuf zuvák kelg.]{lang=khaz}
@@ -318,6 +356,7 @@ data:
 1 [Tavíz fadhaz thuf zuvák khatíb.]{.nativefont lang=khaz}
 2 [No part of the line is ruled straight.]{lang=en}
 2 [Tavíz fadhaz thuf zuvák khatíb.]{lang=khaz}
+
 1 [! Vesun buráth lakamev. Narv zunám bagar.]{.nativefont lang=khaz}
 2 [Carry a lamp. The tunnel looks like a cave.]{lang=en}
 2 [! Vesun buráth lakamev. Narv zunám bagar.]{lang=khaz}
@@ -325,27 +364,35 @@ data:
 1 [Gaz thuf dulák kedz.]{.nativefont lang=khaz}
 2 [These I do not cut:]{lang=en}
 2 [Gaz thuf dulák kedz.]{lang=khaz}
+
 1 [Khatab.]{.nativefont lang=khaz}
 2 [the ruled line;]{lang=en}
 2 [Khatab.]{lang=khaz}
+
 1 [Dalk zi zugár.]{.nativefont lang=khaz}
 2 [the slipping stone;]{lang=en}
 2 [Dalk zi zugár.]{lang=khaz}
+
 1 [Sakap.]{.nativefont lang=khaz}
 2 [a prop.]{lang=en}
 2 [Sakap.]{lang=khaz}
+
 1 [Gaz dulák. Thaval thumár.]{.nativefont lang=khaz}
 2 [I cut. Death strikes:]{lang=en}
 2 [Gaz dulák. Thaval thumár.]{lang=khaz}
+
 1 [Suluth, Tabar-suláth, davan 67.]{.nativefont lang=khaz}
 2 [Suluth, Tabar-suláth, on day 103;]{lang=en}
 2 [Suluth, Tabar-suláth, davan 67.]{lang=khaz}
+
 1 [Tanvan, Ramk-sumád, davan 77.]{.nativefont lang=khaz}
 2 [Tanvan, Ramk-sumád, on day 119.]{lang=en}
 2 [Tanvan, Ramk-sumád, davan 77.]{lang=khaz}
+
 1 [Gaz thuf thumár vogun.]{.nativefont lang=khaz}
 2 [I do not strike them.]{lang=en}
 2 [Gaz thuf thumár vogun.]{lang=khaz}
+
 1 [Lamv kumáv vogun nuv bamur.]{.nativefont lang=khaz}
 2 [The record counts them with the work.]{lang=en}
 2 [Lamv kumáv vogun nuv bamur.]{lang=khaz}
@@ -353,6 +400,7 @@ data:
 1 [Hutabar puvár baval.]{.nativefont lang=khaz}
 2 [The cistern has water.]{lang=en}
 2 [Hutabar puvár baval.]{lang=khaz}
+
 1 [Khardev puvár baval.]{.nativefont lang=khaz}
 2 [The hold has water.]{lang=en}
 2 [Khardev puvár baval.]{lang=khaz}
@@ -396,8 +444,11 @@ data:
 ```
 
 : TAN-van RAMK-su-MÁD — Tanvan · Ramk-sumád — "Tanvan of Ramk-sumád."
+
 : vog NARV du-LÁK — he · tunnel · cut — "He cut the tunnel."
+
 : NARV zu-VÁK; vog du-BÁZ — tunnel · stands · he · lies-still — "The tunnel stands; he lies still."
+
 : MARDH na-BÍT — name · remembered — "The name is remembered."
 
 ## See Also

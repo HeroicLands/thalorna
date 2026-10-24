@@ -66,9 +66,9 @@ data:
 2 [Count a cave before cutting: chambers, drips, columns, moving air and still air. You cut through what you do not count.]{lang=en}
 2 [! Ves kumáv bagar. Dulák nuzám kamv. Padharez, darpez, gadamez, fasdh zi funád bep fasdh zi dubáz. Ves dulák kodz zi ves thuf kumáv.]{lang=khaz}
 
-1 [Samad gunádh lez. Sadív huzavan, khabar. Nabaf durákh labaz nuv thanp. <<Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.>>]{.nativefont lang=khaz}
+1 [Samad gunádh lez. Sadív badath, khabar. Nabaf durákh labaz nuv thanp. <<Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.>>]{.nativefont lang=khaz}
 2 [At the north quarter’s face, an apprentice’s hand on the seam, Samad also says: You ask where to cut. The stone tells you the joint already there.]{lang=en}
-2 [Samad gunádh lez. Sadív huzavan, khabar. Nabaf durákh labaz nuv thanp. <<Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.>>]{lang=khaz}
+2 [Samad gunádh lez. Sadív badath, khabar. Nabaf durákh labaz nuv thanp. <<Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.>>]{lang=khaz}
 
 1 [Bazan @ nuláv kedz bazanez, pabak-mulág durákh vog. Hirtath zathík. Dazimez zitalathez zi margez puvár thuláv. Margez thuláv, vald thuf zuvák. Marg zi thuf puvár vald, vem ganzez, thuf gandh. ]{.nativefont lang=khaz}[…][. Hartir gunádh, bazan zi Samad puvár thuf rakíd, bep hurát khapav.]{.nativefont lang=khaz}
 2 [A tenth saying lies below these on the lead, worn down to the heavier skeleton-strokes. The frame is absent; a skeleton without its frame is three sounds and no word: […]. The reader says a saying of Samad is worn unreadable, and continues.]{lang=en}
@@ -368,9 +368,9 @@ data:
 2 [A prop is a request you never make. Timber answers it.]{lang=en}
 2 [Sakap zuvák thubágh zi ves thuf thubágh. Gatal zugáb vog.]{lang=khaz}
 
-1 [Filnath zi baval-khunák puvár favíz gandhez zi vog gunádh. Hartir hurát kolg, [[lore-longtunnel|The Long Tunnel]].]{.nativefont lang=khaz}
-2 [The account of the water-line keeps his remaining words. They are read there: [[lore-longtunnel|[[lore-longtunnel|The Long Tunnel]]]].]{lang=en}
-2 [Filnath zi baval-khunák puvár favíz gandhez zi vog gunádh. Hartir hurát kolg, [[lore-longtunnel|The Long Tunnel]].]{lang=khaz}
+1 [Filnath zi baval-khunák puvár favíz gandhez zi vog gunádh. Hartir hurát kolg, ]{.nativefont lang=khaz}[[lore-longtunnel|The Long Tunnel]]{lang=en}[.]{.nativefont lang=khaz}
+2 [The account of the water-line keeps his remaining words. They are read there: [[lore-longtunnel|The Long Tunnel]].]{lang=en}
+2 [Filnath zi baval-khunák puvár favíz gandhez zi vog gunádh. Hartir hurát kolg, ]{lang=khaz}[[lore-longtunnel|The Long Tunnel]]{lang=en}[.]{lang=khaz}
 ```
 
 ## Butum of Nalp-furád
