@@ -6700,6 +6700,184 @@ data:
       field: Everyday speech
       gloss: worth; the value attributed to a thing or act
       source: {kind: coined}
+    - form: Shelmu zetem
+      class: part
+      field: Ritual and accounts
+      gloss: "Let the followers hear"
+    - form: garqen
+      class: n
+      field: Ritual and accounts
+      gloss: "household, the people of one domestic house"
+      source: {kind: coined}
+    - form: nelgiru
+      class: n
+      field: Ritual and accounts
+      gloss: "the gods collectively"
+      built: [nelgir, "-u"]
+    - form: zethal
+      class: v
+      field: Ritual and accounts
+      gloss: "write or enter words in a record"
+      source: {kind: coined}
+    - form: zethul
+      class: v
+      field: Ritual and accounts
+      gloss: "read writing aloud"
+      source: {kind: coined}
+    - form: zethular
+      class: n
+      field: Ritual and accounts
+      gloss: "reader of writing aloud"
+      built: [zethul, "-ar"]
+    - form: zethulnet
+      class: n
+      field: Ritual and accounts
+      gloss: "a reading of writing aloud"
+      source: {kind: coined}
+    - form: zethat
+      class: n
+      field: Ritual and accounts
+      gloss: "an individual account entry"
+      source: {kind: coined}
+    - form: zethqen
+      class: n
+      field: Ritual and accounts
+      gloss: "the tablets bearing an account"
+      source: {kind: coined}
+    - form: zurenar
+      class: n
+      field: Ritual and accounts
+      gloss: "eyewitness"
+      built: [zuren, "-ar"]
+    - form: qelqet
+      class: n
+      field: Ritual and accounts
+      gloss: "promise or undertaking entered in an account"
+      source: {kind: coined}
+    - form: qelathar
+      class: n
+      field: Ritual and accounts
+      gloss: "person making an undertaking, promiser"
+      built: [qelath, "-ar"]
+    - form: qelqarnat
+      class: n
+      field: Ritual and accounts
+      gloss: "outcome of an undertaking"
+      source: {kind: coined}
+    - form: qelaz
+      class: v
+      field: Ritual and accounts
+      gloss: "fulfil an undertaking by performing it"
+      source: {kind: coined}
+    - form: qelaznet
+      class: n
+      field: Ritual and accounts
+      gloss: "performance fulfilling an undertaking"
+      source: {kind: coined}
+    - form: qazem
+      class: v
+      field: Ritual and accounts
+      gloss: "settle a debt by payment or agreed compensation"
+      source: {kind: coined}
+    - form: zeqel
+      class: v
+      field: Ritual and accounts
+      gloss: "owe a debt to a creditor"
+      source: {kind: coined}
+    - form: zeqatar
+      class: n
+      field: Ritual and accounts
+      gloss: "creditor, holder of the claim owed"
+      built: [zeqat, "-ar"]
+    - form: zeqath
+      class: v
+      field: Ritual and accounts
+      gloss: "take over another person's obligation as one's own"
+      source: {kind: coined}
+    - form: qelmar
+      class: adj
+      field: Ritual and accounts
+      gloss: "pending, with an undertaking unresolved"
+      source: {kind: coined}
+    - {form: qalthar, class: n, field: Ritual and accounts, gloss: "dyke", source: {kind: coined}}
+    - form: malqel
+      class: n
+      field: Ritual and accounts
+      gloss: "fostering, an undertaking to raise a child"
+      source: {kind: coined}
+    - form: halqel
+      class: n
+      field: Ritual and accounts
+      gloss: "an undertaking about what a person is to be"
+      source: {kind: coined}
+    - form: zethqel
+      class: n
+      field: Ritual and accounts
+      gloss: "chit attesting a quantity of grain under a temple seal"
+      source: {kind: coined}
+    - form: qamretar
+      class: n
+      field: Ritual and accounts
+      gloss: "heir to a deceased person's estate"
+      built: [qamret, "-ar"]
+    - form: qerethalnet
+      class: n
+      field: Ritual and accounts
+      gloss: "consent, the act of agreeing"
+      source: {kind: coined}
+    - form: Galathal
+      class: n
+      field: Ritual and accounts
+      gloss: "the Closing, the person's reckoning of outstanding claims before death"
+      source: {kind: coined}
+    - form: halqat
+      class: n
+      field: Ritual and accounts
+      gloss: "credit in an account, an act standing in someone's favour"
+      source: {kind: coined}
+    - {form: nelazar, class: n, field: Ritual and accounts, gloss: "giver", built: [nelaz, "-ar"]}
+    - {form: tamzel, class: n, field: Ritual and accounts, gloss: "bread", source: {kind: coined}}
+    - form: halzathal
+      class: n
+      field: Ritual and accounts
+      gloss: "beam of the weighing scale"
+      source: {kind: coined}
+    - form: tamular
+      class: n
+      field: Ritual and accounts
+      gloss: "devourer or eater"
+      built: [tamul, "-ar"]
+    - form: galet
+      class: adj
+      field: Ritual and accounts
+      gloss: "closed, of an account or entry"
+      source: {kind: coined}
+    - form: galut
+      class: adj
+      field: Ritual and accounts
+      gloss: "open, of an account or entry"
+      source: {kind: coined}
+    - form: zeqmar
+      class: v
+      field: Ritual and accounts
+      gloss: "call in a debt owed to oneself, require its settlement"
+      source: {kind: coined}
+    - {form: qamzun, class: n, field: Ritual and accounts, gloss: "lease", source: {kind: coined}}
+    - form: qamzunar
+      class: n
+      field: Ritual and accounts
+      gloss: "tenant holding a lease"
+      source: {kind: coined}
+    - form: qaznel
+      class: n
+      field: Ritual and accounts
+      gloss: "fault or failure attributable to a person"
+      source: {kind: coined}
+    - form: qemlun
+      class: adj
+      field: Ritual and accounts
+      gloss: "level, horizontal"
+      source: {kind: coined}
   retired:
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
