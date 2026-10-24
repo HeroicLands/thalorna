@@ -29,7 +29,7 @@ The satire takes a client's day from the dark before the morning call to the eve
 
 : The Morning Call {#call}
 
-```verse {form=satire lang=en cols=2}
+```verse {form=satire lang=en cols=2} numstep=5
 1 [Kanai. Voza pra zekroi urzithen. Pra pazartoi. Pra nalvathen ol ulthoi.]{.nativefont lang=vyl}
 2 [Up before cocks, before bakers, before gods are dressed.]{lang=en}
 2 [Kanai. Voza pra zekroi urzithen. Pra pazartoi. Pra nalvathen ol ulthoi.]{lang=vyl}

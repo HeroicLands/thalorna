@@ -31,7 +31,7 @@ The recruits learn the song before they learn the oath. The text below is the so
 
 : The Song of the Gold Band {#song}
 
-```verse {form=road-song lang=en cols=2}
+```verse {form=road-song lang=en cols=2} numstep=5
 1 [Zelvara valma pozera. Tharvara valma pozera.]{.nativefont lang=vyl}
 2 [Left foot road. Right foot road.]{lang=en}
 2 [Zelvara valma pozera. Tharvara valma pozera.]{lang=vyl}
@@ -274,7 +274,7 @@ The recruits learn the song before they learn the oath. The text below is the so
 
 : The Road Verses {#road}
 
-```verse {form=road-song lang=en cols=2}
+```verse {form=road-song lang=en cols=2} numstep=5
 1 [Zel orkaima uthrimai thalezoi.]{.nativefont lang=vyl}
 2 [Beneath eagle borders stand.]{lang=en}
 2 [Zel orkaima uthrimai thalezoi.]{lang=vyl}

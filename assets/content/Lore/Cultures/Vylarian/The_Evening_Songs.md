@@ -29,7 +29,7 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 
 : The First Evening {#first}
 
-```verse {form=elegy lang=en cols=2}
+```verse {form=elegy lang=en cols=2} numstep=5
 1 [Nembandon ol korvathis un kormeros. Yalzizon. Karvuma ol kaldrema rozimamen.]{.nativefont lang=vyl}
 2 [Dusk on the wall, Yalzizon. I count the forest’s smoke,]{lang=en}
 2 [Nembandon ol korvathis un kormeros. Yalzizon. Karvuma ol kaldrema rozimamen.]{lang=vyl}
@@ -106,7 +106,7 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 
 : The Second Evening {#second}
 
-```verse {form=elegy lang=en cols=2}
+```verse {form=elegy lang=en cols=2} numstep=5
 1 [Zulmara ar silkamar. Holimon lathon kedis yunakos ir denon sedon marendezor yarezor.]{.nativefont lang=vyl}
 2 [We do not look at marsh. A recruit’s first lesson here,]{lang=en}
 2 [Zulmara ar silkamar. Holimon lathon kedis yunakos ir denon sedon marendezor yarezor.]{lang=vyl}
@@ -175,7 +175,7 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 
 : The Third Evening {#third}
 
-```verse {form=elegy lang=en cols=2}
+```verse {form=elegy lang=en cols=2} numstep=5
 1 [Takezos denon pramiza fir yunakoi antigai dokazor sa dokazor.]{.nativefont lang=vyl}
 2 [Centurion tells recruits again this morning, as he does,]{lang=en}
 2 [Takezos denon pramiza fir yunakoi antigai dokazor sa dokazor.]{lang=vyl}
@@ -252,7 +252,7 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 
 : The Fourth Evening {#fourth}
 
-```verse {form=elegy lang=en cols=2}
+```verse {form=elegy lang=en cols=2} numstep=5
 1 [Kanai helthos ol ko thilazor. Ir dekazu ol vethis. Dekazu ol thramezan yarezor.]{.nativefont lang=vyl}
 2 [Your father wrote in his own hand. A soldier’s hand,]{lang=en}
 2 [Kanai helthos ol ko thilazor. Ir dekazu ol vethis. Dekazu ol thramezan yarezor.]{lang=vyl}
@@ -321,7 +321,7 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 
 : The Fifth Evening {#fifth}
 
-```verse {form=elegy lang=en cols=2}
+```verse {form=elegy lang=en cols=2} numstep=5
 1 [Yalzeme. Harlen ol ko sa ankezdos thilamen. Zetimon harlen.]{.nativefont lang=vyl}
 2 [Yalzeme, I write your name like a stranger, the whole name,]{lang=en}
 2 [Yalzeme. Harlen ol ko sa ankezdos thilamen. Zetimon harlen.]{lang=vyl}
