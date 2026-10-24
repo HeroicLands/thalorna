@@ -7860,6 +7860,171 @@ source: {kind: coined} - form: "telzhet"
 class: n
 field: "Ritual and accounts"
 gloss: "usual compensation rate"
+source: {kind: coined} - form: "Nelgatnet"
+class: n
+field: "Ritual and accounts"
+gloss: "dedication"
+source: {kind: coined} - form: "thalalnet"
+class: n
+field: "Ritual and accounts"
+gloss: "held pause or maintained interval (beside continued presence)"
+source: {kind: coined} - form: "qamnetar"
+class: n
+field: "Ritual and accounts"
+gloss: "owner, qamnet + -ar"
+source: {kind: coined}
+built: [qamnet, "-ar"] - form: "Galnat Zar"
+class: n
+field: "Everyday speech"
+gloss: "High City"
+source: {kind: coined} - form: "shazqet"
+class: n
+field: "Ritual and accounts"
+gloss: "bloodstain or ritual stain from killing"
+source: {kind: coined} - form: "Meglayar"
+class: n
+field: "Ritual and accounts"
+gloss: "soldier, Meglay + -ar"
+source: {kind: coined}
+built: [Meglay, "-ar"] - form: "qelwaz"
+class: n
+field: "Ritual and accounts"
+gloss: "electrum"
+source: {kind: coined} - form: "qedzun"
+class: n
+field: "Ritual and accounts"
+gloss: "obelisk"
+source: {kind: coined} - form: "qezwan"
+class: adj
+field: "Everyday speech"
+gloss: "brown"
+source: {kind: coined} - form: "faelath"
+class: v
+field: "Doing"
+gloss: "illuminate with light"
+source: {kind: coined} - form: "qerzel"
+class: n
+field: "Everyday speech"
+gloss: "guesswork (individual noun beside qerzel guess verb)"
+source: {kind: coined} - form: "qezhel"
+class: n
+field: "Ritual and accounts"
+gloss: "hoe"
+source: {kind: coined} - form: "qelqen"
+class: n
+field: "Ritual and accounts"
+gloss: "knot"
+source: {kind: coined} - form: "tethet"
+class: n
+field: "Ritual and accounts"
+gloss: "deposited position"
+source: {kind: coined} - form: "zewaret"
+class: n
+field: "Ritual and accounts"
+gloss: "caravan"
+source: {kind: coined} - form: "razethar"
+class: n
+field: "Ritual and accounts"
+gloss: "envoy, razeth + -ar"
+source: {kind: coined}
+built: [razeth, "-ar"] - form: "wethet"
+class: n
+field: "Ritual and accounts"
+gloss: "wetting"
+source: {kind: coined} - form: "qelqez"
+class: n
+field: "Ritual and accounts"
+gloss: "cake of pigment"
+source: {kind: coined} - form: "khamet"
+class: adj
+field: "Everyday speech"
+gloss: "black"
+source: {kind: coined} - form: "qalnazgar"
+class: n
+field: "Ritual and accounts"
+gloss: "brewing vat"
+source: {kind: coined} - form: "khalzun"
+class: n
+field: "Ritual and accounts"
+gloss: "steam"
+source: {kind: coined} - form: "githarar"
+class: n
+field: "Everyday speech"
+gloss: "weaver, githar + -ar"
+source: {kind: coined}
+built: [githar, "-ar"] - form: "zelqenar"
+class: n
+field: "Ritual and accounts"
+gloss: "trading factor"
+source: {kind: coined} - form: "zewarar"
+class: n
+field: "Ritual and accounts"
+gloss: "money changer"
+source: {kind: coined} - form: "qelzuth"
+class: v
+field: "Doing"
+gloss: "pole a boat"
+source: {kind: coined} - form: "qelmaru"
+class: n
+field: "Ritual and accounts"
+gloss: "marsh"
+source: {kind: coined} - form: "khalqet"
+class: n
+field: "Ritual and accounts"
+gloss: "shadow"
+source: {kind: coined} - form: "plathet"
+class: n
+field: "Ritual and accounts"
+gloss: "breadth"
+source: {kind: coined} - form: "qerathar"
+class: n
+field: "Ritual and accounts"
+gloss: "judge, qerath + -ar"
+source: {kind: coined}
+built: [qerath, "-ar"] - form: "khashelnet"
+class: n
+field: "Ritual and accounts"
+gloss: "hearsay"
+source: {kind: coined} - form: "zhelmin"
+class: n
+field: "Ritual and accounts"
+gloss: "image"
+source: {kind: coined} - form: "domet"
+class: n
+field: "Ritual and accounts"
+gloss: "room"
+source: {kind: coined} - form: "razernet"
+class: n
+field: "Ritual and accounts"
+gloss: "summons"
+source: {kind: coined} - form: "shelunnet"
+class: n
+field: "Ritual and accounts"
+gloss: "singing"
+source: {kind: coined} - form: "lazqath"
+class: v
+field: "Doing"
+gloss: "anoint with oil"
+source: {kind: coined} - form: "makhalnet"
+class: n
+field: "Ritual and accounts"
+gloss: "combat"
+source: {kind: coined} - form: "qezathnet"
+class: n
+field: "Ritual and accounts"
+gloss: "killing"
+source: {kind: coined} - form: "qazirnet"
+class: n
+field: "Ritual and accounts"
+gloss: "passage/crossing"
+source: {kind: coined} - form: "sumetnet"
+class: n
+field: "Ritual and accounts"
+gloss: "assembly or gathering (individual noun)"
+source: {kind: coined} - form: "merqet"
+class: adv
+field: "Everyday speech"
+gloss: "late, at a late point in the course of the named activity or life"
 source: {kind: coined}
 
 ## Grammar Notes
