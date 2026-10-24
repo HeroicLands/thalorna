@@ -181,576 +181,555 @@ data:
       replaces: vowel
       examples: ["Hiér- > Hiere"]
   words:
-    - form: "soth-"
+    - form: soth-
       class: stem
-      field: "Thought, measure and the schools"
-      gloss: "wise, holding together"
+      field: Thought, measure and the schools
+      gloss: wise, holding together
     - form: sothira
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "wisdom"
-      built: ["soth-", "-ira"]
+      class: n
+      field: Thought, measure and the schools
+      gloss: wisdom
+      built: [soth-, -ira]
     - form: sothir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "a wise one, a philosopher"
-      built: ["soth-", "-ir"]
+      class: n
+      field: Thought, measure and the schools
+      gloss: a wise one, a philosopher
+      built: [soth-, -ir]
     - form: arkhidhin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "beginning, origin, first principle"
+      class: n
+      field: Thought, measure and the schools
+      gloss: beginning, origin, first principle
       concept: [origin, beginning]
     - form: kosamir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "world, order, the universe as an ordered whole"
+      class: n
+      field: Thought, measure and the schools
+      gloss: world, order, the universe as an ordered whole
     - form: métharin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "measure, and a fair proportion"
+      class: n
+      field: Thought, measure and the schools
+      gloss: measure, and a fair proportion
     - form: metrir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "a measurer; a surveyor, an assayer"
-      built: ["métr-", "-ir"]
-    - {form: "métr-", class: stem, field: "Thought, measure and the schools", gloss: "to measure"}
+      class: n
+      field: Thought, measure and the schools
+      gloss: a measurer; a surveyor, an assayer
+      built: [métr-, -ir]
+    - {form: métr-, class: stem, field: "Thought, measure and the schools", gloss: to measure}
     - form: harmodhin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "harmony, balance"
+      class: n
+      field: Thought, measure and the schools
+      gloss: harmony, balance
     - form: lékhisir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "word, speech, an argument stated"
+      class: n
+      field: Thought, measure and the schools
+      gloss: word, speech, an argument stated
     - form: lékhisira
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "rhetoric, the art of speech"
-      built: ["lékhis-", "-ira"]
-    - form: "lékhis-"
+      class: n
+      field: Thought, measure and the schools
+      gloss: rhetoric, the art of speech
+      built: [lékhis-, -ira]
+    - form: lékhis-
       class: stem
-      field: "Thought, measure and the schools"
-      gloss: "to speak in order"
+      field: Thought, measure and the schools
+      gloss: to speak in order
     - form: kéliran
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "beauty, the beautiful"
+      class: n
+      field: Thought, measure and the schools
+      gloss: beauty, the beautiful
     - form: dokhin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "a judgment, an opinion reached"
-      built: ["dókh-", "-in"]
-    - form: "dókh-"
+      class: n
+      field: Thought, measure and the schools
+      gloss: a judgment, an opinion reached
+      built: [dókh-, -in]
+    - form: dókh-
       class: stem
-      field: "Thought, measure and the schools"
-      gloss: "to think, to weigh in the mind"
+      field: Thought, measure and the schools
+      gloss: to think, to weigh in the mind
     - form: therin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "contemplation, the beholding of a truth"
-      built: ["thér-", "-in"]
-    - {form: "thér-", class: stem, field: "Thought, measure and the schools", gloss: "to behold"}
+      class: n
+      field: Thought, measure and the schools
+      gloss: contemplation, the beholding of a truth
+      built: [thér-, -in]
+    - {form: thér-, class: stem, field: "Thought, measure and the schools", gloss: to behold}
     - form: sinthasin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "the bringing together of all inquiry; the idea the Epistémion was founded on"
+      class: n
+      field: Thought, measure and the schools
+      gloss: the bringing together of all inquiry; the idea the Epistémion was founded on
     - form: planthir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "an error of reasoning, a false step"
+      class: n
+      field: Thought, measure and the schools
+      gloss: an error of reasoning, a false step
     - form: planthis
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "a wanderer; one who argues without a first principle"
-    - {form: "plánth-", class: stem, field: "Thought, measure and the schools", gloss: "to stray"}
+      class: n
+      field: Thought, measure and the schools
+      gloss: a wanderer; one who argues without a first principle
+    - {form: plánth-, class: stem, field: "Thought, measure and the schools", gloss: to stray}
     - form: ghimarin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "the exercise ground, where the body and the argument are trained"
+      class: n
+      field: Thought, measure and the schools
+      gloss: the exercise ground, where the body and the argument are trained
     - form: ghimarir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "the patron who keeps an exercise ground at his own cost"
-      built: ["ghimar-", "-ir"]
-    - {form: "ghimar-", class: stem, field: "Thought, measure and the schools", gloss: "to train"}
-    - form: "epistém-"
+      class: n
+      field: Thought, measure and the schools
+      gloss: the patron who keeps an exercise ground at his own cost
+      built: [ghimar-, -ir]
+    - {form: ghimar-, class: stem, field: "Thought, measure and the schools", gloss: to train}
+    - form: epistém-
       class: stem
-      field: "Thought, measure and the schools"
-      gloss: "to know in a way that can be taught"
+      field: Thought, measure and the schools
+      gloss: to know in a way that can be taught
     - form: epistemin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "knowledge that can be taught"
-      built: ["epistém-", "-in"]
+      class: n
+      field: Thought, measure and the schools
+      gloss: knowledge that can be taught
+      built: [epistém-, -in]
       concept: knowledge
     - form: epistémion
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "the place of knowledge"
-      built: ["epistém-", "-ion"]
+      class: n
+      field: Thought, measure and the schools
+      gloss: the place of knowledge
+      built: [epistém-, -ion]
     - form: skefir
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "a doubter; the school that holds nothing proven"
+      class: n
+      field: Thought, measure and the schools
+      gloss: a doubter; the school that holds nothing proven
     - form: arithmas
       class: n
       field: Thought, measure and the schools
-      gloss: "A number; the count of a thing."
+      gloss: A number; the count of a thing.
       concept: number
-    - {form: "rhéz-", class: stem, field: "Thought, measure and the schools", gloss: "to flow"}
+    - {form: rhéz-, class: stem, field: "Thought, measure and the schools", gloss: to flow}
     - form: rhezin
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "a current; one of the six currents of the arcane"
-      built: ["rhéz-", "-in"]
+      class: n
+      field: Thought, measure and the schools
+      gloss: a current; one of the six currents of the arcane
+      built: [rhéz-, -in]
     - form: rheza
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "the currents; the six currents of the arcane"
-      built: ["rhéz-", "-a"]
+      class: n
+      field: Thought, measure and the schools
+      gloss: the currents; the six currents of the arcane
+      built: [rhéz-, -a]
     - form: pirethos
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "fire as a principle; the current of heat, light and change"
+      class: n
+      field: Thought, measure and the schools
+      gloss: fire as a principle; the current of heat, light and change
     - form: zefaris
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "air as a principle; the current of wind, sound and the unseen"
+      class: n
+      field: Thought, measure and the schools
+      gloss: air as a principle; the current of wind, sound and the unseen
     - form: fisera
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "earth as a principle; the current of stone, growth and the body"
+      class: n
+      field: Thought, measure and the schools
+      gloss: earth as a principle; the current of stone, growth and the body
     - form: hidalis
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "water as a principle; the current of flow and healing"
+      class: n
+      field: Thought, measure and the schools
+      gloss: water as a principle; the current of flow and healing
     - form: sideris
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "metal as a principle; the current of craft and binding"
+      class: n
+      field: Thought, measure and the schools
+      gloss: metal as a principle; the current of craft and binding
     - form: neumenos
-      class: "n"
-      field: "Thought, measure and the schools"
-      gloss: "spirit as a principle; the current of mind and the immaterial"
-    - {form: "thás-", class: stem, field: "The gods, the stage and the assembly", gloss: "divine"}
-    - {form: thásirin, class: "n", field: "The gods, the stage and the assembly", gloss: "god"}
+      class: n
+      field: Thought, measure and the schools
+      gloss: spirit as a principle; the current of mind and the immaterial
+    - {form: thás-, class: stem, field: "The gods, the stage and the assembly", gloss: divine}
+    - {form: thásirin, class: n, field: "The gods, the stage and the assembly", gloss: god}
     - form: thásira
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "goddess"
-      built: ["thás-", "-ira"]
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: goddess
+      built: [thás-, -ira]
     - form: thasir
       class: adj
-      field: "The gods, the stage and the assembly"
-      gloss: "divine"
-      built: ["thás-", "-ir"]
+      field: The gods, the stage and the assembly
+      gloss: divine
+      built: [thás-, -ir]
     - form: dokharin
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "glory, reputation, the honor a citizen owns"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: glory, reputation, the honor a citizen owns
       concept: honor
     - form: átimor
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "one stripped of civic honor, barred from the assembly and the temples"
-    - form: "tim-"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: one stripped of civic honor, barred from the assembly and the temples
+    - form: tim-
       class: stem
-      field: "The gods, the stage and the assembly"
-      gloss: "honor held in the sight of others"
+      field: The gods, the stage and the assembly
+      gloss: honor held in the sight of others
     - form: timin
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a trial of honor, judged at a temple"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a trial of honor, judged at a temple
     - form: kumethos
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "the chorus; the company of a play, and the citizens as one voice"
-    - form: "kumeth-"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the chorus; the company of a play, and the citizens as one voice
+    - form: kumeth-
       class: stem
-      field: "The gods, the stage and the assembly"
-      gloss: "of the chorus; of many voices as one"
+      field: The gods, the stage and the assembly
+      gloss: of the chorus; of many voices as one
     - form: dramin
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a play, a thing done on the stage"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a play, a thing done on the stage
     - form: skenir
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "the stage, and the painted house behind it"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the stage, and the painted house behind it
     - form: thresos
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a vote, the stone cast into the urn"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a vote, the stone cast into the urn
     - form: agelon
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "the assembly of the citizens"
-    - form: "agél-"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: the assembly of the citizens
+    - form: agél-
       class: stem
-      field: "The gods, the stage and the assembly"
-      gloss: "of the assembly"
+      field: The gods, the stage and the assembly
+      gloss: of the assembly
     - form: kléandir
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a hero; one the stories keep"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a hero; one the stories keep
     - form: theldir
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a festival of the gods, with games"
-    - form: "théld-"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a festival of the gods, with games
+    - form: théld-
       class: stem
-      field: "The gods, the stage and the assembly"
-      gloss: "of the festival"
+      field: The gods, the stage and the assembly
+      gloss: of the festival
     - form: ieresin
-      class: "n"
-      field: "The gods, the stage and the assembly"
-      gloss: "a rite, a thing done for a god"
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: a rite, a thing done for a god
     - {form: fótamir, class: n, field: "Sea, river, land and sky", gloss: river, concept: river}
     - form: ghéranis
       class: n
       field: Sea, river, land and sky
       gloss: earth, land
       concept: [earth, land]
-    - {form: "ghéran-", class: stem, field: "Sea, river, land and sky", gloss: "of the land"}
+    - {form: ghéran-, class: stem, field: "Sea, river, land and sky", gloss: of the land}
     - form: thálimir
       class: n
       field: Sea, river, land and sky
       gloss: the sea
       concept: [sea, ocean]
-    - {form: "thálim-", class: stem, field: "Sea, river, land and sky", gloss: "of the sea"}
+    - {form: thálim-, class: stem, field: "Sea, river, land and sky", gloss: of the sea}
     - form: frelin
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "the shore, the sea's edge"
+      class: n
+      field: Sea, river, land and sky
+      gloss: the shore, the sea's edge
       concept: shore
-    - {form: nesthir, class: "n", field: "Sea, river, land and sky", gloss: "an island"}
-    - {form: limenir, class: "n", field: "Sea, river, land and sky", gloss: "a harbor"}
+    - {form: nesthir, class: n, field: "Sea, river, land and sky", gloss: an island}
+    - {form: limenir, class: n, field: "Sea, river, land and sky", gloss: a harbor}
     - form: lofir
       class: n
       field: Sea, river, land and sky
       gloss: a hill, a ridge
       concept: hill
-    - {form: "lof-", class: stem, field: "Sea, river, land and sky", gloss: "of the hill"}
+    - {form: lof-, class: stem, field: "Sea, river, land and sky", gloss: of the hill}
     - form: órasin
       class: n
       field: Sea, river, land and sky
       gloss: a mountain
       concept: mountain
-    - {form: "óras-", class: stem, field: "Sea, river, land and sky", gloss: "of the mountain"}
+    - {form: óras-, class: stem, field: "Sea, river, land and sky", gloss: of the mountain}
     - form: pedhin
       class: n
       field: Sea, river, land and sky
       gloss: a plain, flat country
       concept: plain-landform
-    - {form: "pédh-", class: stem, field: "Sea, river, land and sky", gloss: "of the plain"}
+    - {form: pédh-, class: stem, field: "Sea, river, land and sky", gloss: of the plain}
     - form: elaisir
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "the olive, and its tree"
-    - {form: ámpelir, class: "n", field: "Sea, river, land and sky", gloss: "the vine"}
+      class: n
+      field: Sea, river, land and sky
+      gloss: the olive, and its tree
+    - {form: ámpelir, class: n, field: "Sea, river, land and sky", gloss: the vine}
     - {form: faenir, class: n, field: "Sea, river, land and sky", gloss: the sun, concept: sun}
     - {form: selenir, class: n, field: "Sea, river, land and sky", gloss: the moon, concept: moon}
     - {form: ánevir, class: n, field: "Sea, river, land and sky", gloss: the wind, concept: wind}
-    - {form: "ánev-", class: stem, field: "Sea, river, land and sky", gloss: "of the wind"}
+    - {form: ánev-, class: stem, field: "Sea, river, land and sky", gloss: of the wind}
     - form: horin
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "an hour, a measured part of the day"
+      class: n
+      field: Sea, river, land and sky
+      gloss: an hour, a measured part of the day
     - {form: nikhtir, class: n, field: "Sea, river, land and sky", gloss: night, concept: night}
-    - {form: "nikht-", class: stem, field: "Sea, river, land and sky", gloss: "of the night"}
+    - {form: nikht-, class: stem, field: "Sea, river, land and sky", gloss: of the night}
     - form: khemon
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "winter, the storm season"
+      class: n
+      field: Sea, river, land and sky
+      gloss: winter, the storm season
     - form: thérimos
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "summer, the sailing season"
-    - {form: "ánth-", class: stem, field: "Sea, river, land and sky", gloss: "to bloom"}
-    - {form: "spór-", class: stem, field: "Sea, river, land and sky", gloss: "to sow"}
-    - {form: "théris-", class: stem, field: "Sea, river, land and sky", gloss: "to reap"}
-    - {form: "áloh-", class: stem, field: "Sea, river, land and sky", gloss: "to thresh"}
-    - form: "trúgh-"
-      class: stem
-      field: "Sea, river, land and sky"
-      gloss: "to gather the vintage"
-    - {form: "elaís-", class: stem, field: "Sea, river, land and sky", gloss: "of the olive"}
+      class: n
+      field: Sea, river, land and sky
+      gloss: summer, the sailing season
+    - {form: ánth-, class: stem, field: "Sea, river, land and sky", gloss: to bloom}
+    - {form: spór-, class: stem, field: "Sea, river, land and sky", gloss: to sow}
+    - {form: théris-, class: stem, field: "Sea, river, land and sky", gloss: to reap}
+    - {form: áloh-, class: stem, field: "Sea, river, land and sky", gloss: to thresh}
+    - {form: trúgh-, class: stem, field: "Sea, river, land and sky", gloss: to gather the vintage}
+    - {form: elaís-, class: stem, field: "Sea, river, land and sky", gloss: of the olive}
     - form: anthir
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the first month: the blooming"
-      built: ["ánth-", "-ir"]
+      built: [ánth-, -ir]
     - form: sporin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the second month: the sowing"
-      built: ["spór-", "-in"]
+      built: [spór-, -in]
     - form: thálimin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the third month: the sea lanes open"
-      built: ["thálim-", "-in"]
+      built: [thálim-, -in]
     - form: thérisin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the fourth month: the grain reaping"
-      built: ["théris-", "-in"]
+      built: [théris-, -in]
     - form: álohin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the fifth month: the threshing"
-      built: ["áloh-", "-in"]
+      built: [áloh-, -in]
     - form: theldin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the sixth month: the festival and the Games"
-      built: ["théld-", "-in"]
+      built: [théld-, -in]
     - form: trughir
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the seventh month: the vintage"
-      built: ["trúgh-", "-ir"]
+      built: [trúgh-, -ir]
     - form: elaisin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the eighth month: the olive pressing"
-      built: ["elaís-", "-in"]
+      built: [elaís-, -in]
     - form: nikhtin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the ninth month: the lengthening nights"
-      built: ["nikht-", "-in"]
+      built: [nikht-, -in]
     - form: khemion
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the tenth month: the storm season"
-      built: ["khem-", "-ion"]
+      built: [khem-, -ion]
     - form: ánevin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the eleventh month: the winds"
-      built: ["ánev-", "-in"]
+      built: [ánev-, -in]
     - form: filin
-      class: "n"
-      field: "Sea, river, land and sky"
+      class: n
+      field: Sea, river, land and sky
       gloss: "the twelfth month: the guarding of the stores"
-      built: ["fil-", "-in"]
+      built: [fil-, -in]
     - form: ánthira
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "the season of blooming, spring"
-      built: ["ánth-", "-ira"]
+      class: n
+      field: Sea, river, land and sky
+      gloss: the season of blooming, spring
+      built: [ánth-, -ira]
     - form: trúghira
-      class: "n"
-      field: "Sea, river, land and sky"
-      gloss: "the season of gathering, autumn"
-      built: ["trúgh-", "-ira"]
-    - {form: "khem-", class: stem, field: "Sea, river, land and sky", gloss: "of the storm season"}
-    - {form: "frél-", class: stem, field: "Sea, river, land and sky", gloss: "of the shore"}
-    - {form: pólithar, class: "n", field: "The city, law and office", gloss: "city"}
+      class: n
+      field: Sea, river, land and sky
+      gloss: the season of gathering, autumn
+      built: [trúgh-, -ira]
+    - {form: khem-, class: stem, field: "Sea, river, land and sky", gloss: of the storm season}
+    - {form: frél-, class: stem, field: "Sea, river, land and sky", gloss: of the shore}
+    - {form: pólithar, class: n, field: "The city, law and office", gloss: city}
     - form: pólithir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a citizen"
-      built: ["pólith-", "-ir"]
-    - {form: "pólith-", class: stem, field: "The city, law and office", gloss: "of the city"}
+      class: n
+      field: The city, law and office
+      gloss: a citizen
+      built: [pólith-, -ir]
+    - {form: pólith-, class: stem, field: "The city, law and office", gloss: of the city}
     - form: nomasir
       class: n
       field: The city, law and office
       gloss: law, custom
       concept: [law, custom]
     - form: nomasfilir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a guardian of the laws, who may halt a decree that breaks them"
-      built: ["nomas-", "fil-", "-ir"]
-    - {form: "nomas-", class: stem, field: "The city, law and office", gloss: "of the law"}
-    - {form: "fil-", class: stem, field: "The city, law and office", gloss: "to guard"}
+      class: n
+      field: The city, law and office
+      gloss: a guardian of the laws, who may halt a decree that breaks them
+      built: [nomas-, fil-, -ir]
+    - {form: nomas-, class: stem, field: "The city, law and office", gloss: of the law}
+    - {form: fil-, class: stem, field: "The city, law and office", gloss: to guard}
     - form: filir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a guard, a watchman"
-      built: ["fil-", "-ir"]
+      class: n
+      field: The city, law and office
+      gloss: a guard, a watchman
+      built: [fil-, -ir]
     - form: arsir
       class: n
       field: The city, law and office
-      gloss: "A presiding magistrate, who gives the year his name; in ordinary reference, the ruler or person exercising authority."
+      gloss: A presiding magistrate, who gives the year his name; in ordinary reference, the ruler or person exercising authority.
       built: [árs-, -ir]
       concept: ruler
-    - {form: "árs-", class: stem, field: "The city, law and office", gloss: "to rule, to begin"}
+    - {form: árs-, class: stem, field: "The city, law and office", gloss: "to rule, to begin"}
     - form: strátimor
-      class: "n"
-      field: "The city, law and office"
-      gloss: "the elected commander of a city's forces by land and sea"
+      class: n
+      field: The city, law and office
+      gloss: the elected commander of a city's forces by land and sea
     - form: agorin
-      class: "n"
-      field: "The city, law and office"
+      class: n
+      field: The city, law and office
       gloss: "the public square: market, meeting place and arena of argument"
     - form: agóranir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "the warden of the market, ruling on its weights, coin and disputes"
-      built: ["agóran-", "-ir"]
-    - {form: "agóran-", class: stem, field: "The city, law and office", gloss: "of the market"}
+      class: n
+      field: The city, law and office
+      gloss: the warden of the market, ruling on its weights, coin and disputes
+      built: [agóran-, -ir]
+    - {form: agóran-, class: stem, field: "The city, law and office", gloss: of the market}
     - form: teikhir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a wall, the city's"
+      class: n
+      field: The city, law and office
+      gloss: a wall, the city's
       concept: wall
-    - form: "teíkh-"
-      class: stem
-      field: "The city, law and office"
-      gloss: "walled, of the wall"
+    - {form: teíkh-, class: stem, field: "The city, law and office", gloss: "walled, of the wall"}
     - {form: pilin, class: n, field: "The city, law and office", gloss: a gate, concept: gate}
     - form: kasthrin
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a fort, a walled height"
+      class: n
+      field: The city, law and office
+      gloss: a fort, a walled height
     - form: sfradin
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a seal, and the sealed thing"
-    - {form: "sfrad-", class: stem, field: "The city, law and office", gloss: "to seal"}
-    - form: katalgar
-      class: "n"
-      field: "The city, law and office"
-      gloss: "the roll of citizens"
-    - form: bulorin
-      class: "n"
-      field: "The city, law and office"
-      gloss: "the council of a city"
+      class: n
+      field: The city, law and office
+      gloss: a seal, and the sealed thing
+    - {form: sfrad-, class: stem, field: "The city, law and office", gloss: to seal}
+    - {form: katalgar, class: n, field: "The city, law and office", gloss: the roll of citizens}
+    - {form: bulorin, class: n, field: "The city, law and office", gloss: the council of a city}
     - form: bulos
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a councillor"
-      built: ["bul-", "-os"]
-    - {form: "bul-", class: stem, field: "The city, law and office", gloss: "to take counsel"}
+      class: n
+      field: The city, law and office
+      gloss: a councillor
+      built: [bul-, -os]
+    - {form: bul-, class: stem, field: "The city, law and office", gloss: to take counsel}
     - form: thesmir
-      class: "n"
-      field: "The city, law and office"
-      gloss: "the treasury, and the treasurer who keeps it"
+      class: n
+      field: The city, law and office
+      gloss: the treasury, and the treasurer who keeps it
     - form: dikasin
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a lawsuit, a case brought"
+      class: n
+      field: The city, law and office
+      gloss: a lawsuit, a case brought
     - form: tririr
-      class: "n"
-      field: "The city, law and office"
-      gloss: "a war-galley of three banks, and its commander"
+      class: n
+      field: The city, law and office
+      gloss: a war-galley of three banks, and its commander
     - form: émfarin
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "merchant, trader"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: merchant, trader
       concept: merchant
     - form: émforia
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "trade goods, commerce"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: trade goods, commerce
     - form: khrémasin
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "goods, wealth"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: goods, wealth
       concept: wealth
-    - {form: khrisarin, class: "n", field: "Trade, coin, goods and the road", gloss: "gold"}
-    - form: "khris-"
-      class: stem
-      field: "Trade, coin, goods and the road"
-      gloss: "gold, golden"
+    - {form: khrisarin, class: n, field: "Trade, coin, goods and the road", gloss: gold}
+    - {form: khris-, class: stem, field: "Trade, coin, goods and the road", gloss: "gold, golden"}
     - form: máthiron
       class: n
       field: Trade, coin, goods and the road
       gloss: metal
       concept: metal
-    - form: kérdhanir
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "profit, gain"
-    - {form: argirin, class: "n", field: "Trade, coin, goods and the road", gloss: "silver"}
-    - form: "argir-"
+    - {form: kérdhanir, class: n, field: "Trade, coin, goods and the road", gloss: "profit, gain"}
+    - {form: argirin, class: n, field: "Trade, coin, goods and the road", gloss: silver}
+    - form: argir-
       class: stem
-      field: "Trade, coin, goods and the road"
-      gloss: "silver, of silver"
+      field: Trade, coin, goods and the road
+      gloss: silver, of silver
     - form: nomisin
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "coin, struck money"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: coin, struck money
     - form: zighir
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a balance, a pair of scales"
-    - form: "zigh-"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a balance, a pair of scales
+    - form: zigh-
       class: stem
-      field: "Trade, coin, goods and the road"
-      gloss: "to weigh in the balance"
+      field: Trade, coin, goods and the road
+      gloss: to weigh in the balance
     - form: tálanin
-      class: "n"
-      field: "Trade, coin, goods and the road"
-      gloss: "a talent, the great weight of silver"
-    - form: "tálan-"
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: a talent, the great weight of silver
+    - form: tálan-
       class: stem
-      field: "Trade, coin, goods and the road"
-      gloss: "weighty, of the great weight"
+      field: Trade, coin, goods and the road
+      gloss: weighty, of the great weight
     - form: euthalir
       class: adj
-      field: "Trade, coin, goods and the road"
-      gloss: "profitable, valuable"
+      field: Trade, coin, goods and the road
+      gloss: profitable, valuable
       concept: valuable
-    - {form: "euthál-", class: stem, field: "Trade, coin, goods and the road", gloss: "to prosper"}
-    - {form: hodhis, class: "n", field: "Trade, coin, goods and the road", gloss: "a way, a road"}
+    - {form: euthál-, class: stem, field: "Trade, coin, goods and the road", gloss: to prosper}
+    - {form: hodhis, class: n, field: "Trade, coin, goods and the road", gloss: "a way, a road"}
     - form: ánthimor
       class: n
       field: Kin, the person and the body
       gloss: person, human
       concept: [person, human]
     - {form: dorasin, class: n, field: "Kin, the person and the body", gloss: gift, concept: gift}
-    - {form: "doras-", class: stem, field: "Kin, the person and the body", gloss: "to give"}
+    - {form: doras-, class: stem, field: "Kin, the person and the body", gloss: to give}
     - form: andáhr
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "lord, the master of a house"
+      class: n
+      field: Kin, the person and the body
+      gloss: lord, the master of a house
       concept: master
     - form: domin
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "a house, a household"
+      class: n
+      field: Kin, the person and the body
+      gloss: a house, a household
       concept: abode
-    - {form: "dóm-", class: stem, field: "Kin, the person and the body", gloss: "of the house"}
+    - {form: dóm-, class: stem, field: "Kin, the person and the body", gloss: of the house}
     - form: parikhor
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "father"
+      class: n
+      field: Kin, the person and the body
+      gloss: father
       concept: father
     - form: mathira
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "mother"
+      class: n
+      field: Kin, the person and the body
+      gloss: mother
       concept: mother
-    - {form: "math-", class: stem, field: "Kin, the person and the body", gloss: "of the mother"}
-    - {form: huyir, class: "n", field: "Kin, the person and the body", gloss: "son", concept: son}
+    - {form: math-, class: stem, field: "Kin, the person and the body", gloss: of the mother}
+    - {form: huyir, class: n, field: "Kin, the person and the body", gloss: son, concept: son}
     - form: thighir
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "daughter"
+      class: n
+      field: Kin, the person and the body
+      gloss: daughter
       concept: daughter
     - form: adhelir
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "brother"
+      class: n
+      field: Kin, the person and the body
+      gloss: brother
       concept: brother
     - form: adhélira
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "sister"
-      built: ["adhél-", "-ira"]
+      class: n
+      field: Kin, the person and the body
+      gloss: sister
+      built: [adhél-, -ira]
       concept: sister
-    - form: "adhél-"
-      class: stem
-      field: "Kin, the person and the body"
-      gloss: "born of one womb"
+    - {form: adhél-, class: stem, field: "Kin, the person and the body", gloss: born of one womb}
     - form: ghenthir
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "a clan, a line of descent"
+      class: n
+      field: Kin, the person and the body
+      gloss: a clan, a line of descent
       concept: [clan, lineage]
     - form: ónomir
       class: n
@@ -758,62 +737,54 @@ data:
       gloss: a name
       concept: name-noun
     - form: hetairin
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "a companion; the educated companion trained in music, philosophy and the social arts"
+      class: n
+      field: Kin, the person and the body
+      gloss: a companion; the educated companion trained in music, philosophy and the social arts
       concept: companion
     - form: kefalir
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "the head"
+      class: n
+      field: Kin, the person and the body
+      gloss: the head
       concept: head
     - form: kheirin
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "the hand"
+      class: n
+      field: Kin, the person and the body
+      gloss: the hand
       concept: hand
     - form: kordhin
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "the heart"
+      class: n
+      field: Kin, the person and the body
+      gloss: the heart
       concept: heart
-    - form: haimin
-      class: "n"
-      field: "Kin, the person and the body"
-      gloss: "blood"
-      concept: blood
-    - {form: somir, class: "n", field: "Kin, the person and the body", gloss: "the body"}
-    - form: hidhir
-      class: "n"
-      field: "Water, works and the island"
-      gloss: "water"
-      concept: water
+    - {form: haimin, class: n, field: "Kin, the person and the body", gloss: blood, concept: blood}
+    - {form: somir, class: n, field: "Kin, the person and the body", gloss: the body}
+    - {form: hidhir, class: n, field: "Water, works and the island", gloss: water, concept: water}
     - form: ithrin
-      class: "n"
-      field: "Water, works and the island"
-      gloss: "fire; the hearth-fire a household keeps alive"
-      built: ["ithr-", "-in"]
+      class: n
+      field: Water, works and the island
+      gloss: fire; the hearth-fire a household keeps alive
+      built: [ithr-, -in]
       concept: fire
-    - {form: "ithr-", class: stem, field: "Water, works and the island", gloss: "of the fire"}
-    - {form: krenir, class: "n", field: "Water, works and the island", gloss: "a spring"}
-    - {form: "kren-", class: stem, field: "Water, works and the island", gloss: "of a spring"}
+    - {form: ithr-, class: stem, field: "Water, works and the island", gloss: of the fire}
+    - {form: krenir, class: n, field: "Water, works and the island", gloss: a spring}
+    - {form: kren-, class: stem, field: "Water, works and the island", gloss: of a spring}
     - form: ésarin
       class: v
-      field: "Doing, going and being"
-      gloss: "to be, to exist"
+      field: Doing, going and being
+      gloss: to be, to exist
       concept: [be, exist]
     - {form: théradhin, class: v, field: "Doing, going and being", gloss: "to behold, contemplate"}
     - {form: dhidakhin, class: v, field: "Doing, going and being", gloss: to teach, concept: teach}
-    - {form: rhézarin, class: v, field: "Doing, going and being", gloss: "to flow"}
+    - {form: rhézarin, class: v, field: "Doing, going and being", gloss: to flow}
     - form: rhéthasin
       class: v
-      field: "Doing, going and being"
-      gloss: "to speak, to say aloud"
+      field: Doing, going and being
+      gloss: to speak, to say aloud
       concept: [say, speak]
     - form: dókhanir
       class: v
-      field: "Doing, going and being"
-      gloss: "to think, judge"
+      field: Doing, going and being
+      gloss: to think, judge
       concept: think
     - {form: dokhazin, class: v, field: "Doing, going and being", gloss: "to honor, glorify"}
     - form: ársidhin
@@ -823,58 +794,59 @@ data:
       concept: begin
     - form: sotharin
       class: v
-      field: "Doing, going and being"
-      gloss: "to save, preserve, hold together"
-      built: ["soth-", "-arin"]
+      field: Doing, going and being
+      gloss: to save, preserve, hold together
+      built: [soth-, -arin]
     - form: féranin
       class: v
       field: Doing, going and being
       gloss: to carry, bear
       concept: carry
     - {form: parádharin, class: v, field: "Doing, going and being", gloss: "to deliver, hand over"}
-    - {form: danizarin, class: v, field: "Doing, going and being", gloss: "to lend"}
+    - {form: danizarin, class: v, field: "Doing, going and being", gloss: to lend}
     - form: métrarin
       class: v
-      field: "Doing, going and being"
-      gloss: "to measure"
-      built: ["métr-", "-arin"]
+      field: Doing, going and being
+      gloss: to measure
+      built: [métr-, -arin]
       concept: measure-verb
     - form: ghígnarin
       class: v
-      field: "Doing, going and being"
-      gloss: "to become, to come to be"
+      field: Doing, going and being
+      gloss: to become, to come to be
       concept: become
-    - {form: "ghígn-", class: stem, field: "Doing, going and being", gloss: "to become"}
+    - {form: ghígn-, class: stem, field: "Doing, going and being", gloss: to become}
     - form: érkharin
       class: v
-      field: "Doing, going and being"
-      gloss: "to go, to come"
+      field: Doing, going and being
+      gloss: to go, to come
       concept: [go, come]
+      variants: [erkharin]
     - {form: érkh-, class: stem, field: "Doing, going and being", gloss: to go}
-    - {form: pléarin, class: v, field: "Doing, going and being", gloss: "to sail"}
+    - {form: pléarin, class: v, field: "Doing, going and being", gloss: to sail}
     - form: ághrarin
       class: v
       field: Doing, going and being
       gloss: to lead, to drive
       concept: lead
-    - {form: "ághr-", class: stem, field: "Doing, going and being", gloss: "to lead, to drive"}
+    - {form: ághr-, class: stem, field: "Doing, going and being", gloss: "to lead, to drive"}
     - form: lámbarin
       class: v
       field: Doing, going and being
       gloss: To take or receive; receiving an offered or tossed object uses the receiving sense, including catching it in the hands.
       concept: [take, catch]
-    - {form: "lámb-", class: stem, field: "Doing, going and being", gloss: "to take"}
+    - {form: lámb-, class: stem, field: "Doing, going and being", gloss: to take}
     - form: olasin
       class: adj
       field: Doing, going and being
-      gloss: whole, entire
+      gloss: ["whole, entire", "n: amount or quantity"]
       concept: [whole, complete]
     - {form: kelir, class: adj, field: "Doing, going and being", gloss: "beautiful, good, noble"}
     - form: kélira
       class: adj
-      field: "Doing, going and being"
-      gloss: "beautiful, of a woman or a feminine noun"
-      built: [kelir, "-a"]
+      field: Doing, going and being
+      gloss: beautiful, of a woman or a feminine noun
+      built: [kelir, -a]
     - {form: lefir, class: adj, field: "Doing, going and being", gloss: "clear, evident"}
     - form: meghar
       class: adj
@@ -883,37 +855,37 @@ data:
       concept: big
     - form: méghara
       class: adj
-      field: "Doing, going and being"
-      gloss: "great, feminine"
-      built: [meghar, "-a"]
+      field: Doing, going and being
+      gloss: great, feminine
+      built: [meghar, -a]
     - form: aghathin
       class: adj
-      field: "Doing, going and being"
-      gloss: "good; and, as a noun, a good thing"
+      field: Doing, going and being
+      gloss: good; and, as a noun, a good thing
       concept: good
     - form: nevaros
       class: adj
       field: Doing, going and being
       gloss: new, young
       concept: [new, young]
-    - {form: "nevar-", class: stem, field: "Doing, going and being", gloss: "new, young"}
+    - {form: nevar-, class: stem, field: "Doing, going and being", gloss: "new, young"}
     - form: palaisir
       class: adj
-      field: "Doing, going and being"
-      gloss: "old, of the former age"
+      field: Doing, going and being
+      gloss: old, of the former age
       concept: old-object
-    - {form: as, class: art, field: Grammar words, gloss: "the; plural _asir_"}
+    - {form: as, class: art, field: Grammar words, gloss: the; plural _asir_}
     - {form: ath, class: art, field: Grammar words, gloss: "the, neuter; plural _athir_"}
     - {form: fom, class: art, field: Grammar words, gloss: "a, some, a certain", concept: some}
     - form: plum
       class: num
       field: Grammar words
-      gloss: "all, every; feminine _pluma_, neuter _pluman_; _pluma_ all things, _plumon_ of all things"
+      gloss: all, every; feminine _pluma_, neuter _pluman_; _pluma_ all things, _plumon_ of all things
       concept: [all, every, each]
     - {form: in, class: part, field: Grammar words, gloss: in, concept: [in, inside]}
     - {form: dres, class: part, field: Grammar words, gloss: through, concept: through}
     - {form: pef, class: part, field: Grammar words, gloss: "by, beside", concept: beside}
-    - {form: frun, class: part, field: Grammar words, gloss: "with"}
+    - {form: frun, class: part, field: Grammar words, gloss: with}
     - form: tror
       class: part
       field: Grammar words
@@ -922,25 +894,25 @@ data:
     - form: thoir
       class: part
       field: Grammar words
-      gloss: "the focus particle, setting a word forward"
+      gloss: the focus particle, setting a word forward
     - {form: neur, class: part, field: Grammar words, gloss: "not, with a command or a wish"}
     - {form: uf, class: part, field: Grammar words, gloss: "not, with a statement", concept: not}
     - form: koum
       class: conj
       field: Grammar words
-      gloss: "And; joins the words or clauses on either side."
+      gloss: And; joins the words or clauses on either side.
       concept: and
     - {form: egh, class: pron, field: Grammar words, gloss: I, concept: i}
     - {form: thu, class: pron, field: Grammar words, gloss: you, concept: you-reference}
     - {form: heum, class: pron, field: Grammar words, gloss: this, concept: this}
     - {form: heun, class: pron, field: Grammar words, gloss: that, concept: that}
-    - {form: meun, class: num, field: Grammar words, gloss: "one", concept: one}
-    - {form: drin, class: num, field: Grammar words, gloss: "two", concept: two}
-    - {form: trel, class: num, field: Grammar words, gloss: "three", concept: three}
-    - {form: vesmor, class: num, field: Grammar words, gloss: "four", concept: four}
-    - {form: plem, class: num, field: Grammar words, gloss: "five", concept: five}
-    - {form: zemor, class: num, field: Grammar words, gloss: "six", concept: six}
-    - {form: zekhor, class: num, field: Grammar words, gloss: "ten", concept: ten}
+    - {form: meun, class: num, field: Grammar words, gloss: one, concept: one}
+    - {form: drin, class: num, field: Grammar words, gloss: two, concept: two}
+    - {form: trel, class: num, field: Grammar words, gloss: three, concept: three}
+    - {form: vesmor, class: num, field: Grammar words, gloss: four, concept: four}
+    - {form: plem, class: num, field: Grammar words, gloss: five, concept: five}
+    - {form: zemor, class: num, field: Grammar words, gloss: six, concept: six}
+    - {form: zekhor, class: num, field: Grammar words, gloss: ten, concept: ten}
     - form: meltharin
       class: v
       field: Everyday expression
@@ -998,7 +970,7 @@ data:
         - To watch attentively or guard; the ordinary verb on the attested fil- stem.
         - To watch attentively or guard; to defend a person or thing against harm.
       concept: [watch, defend]
-      built: ["fil-", "-arin"]
+      built: [fil-, -arin]
     - form: melthir
       class: adj
       field: Everyday expression
@@ -1189,7 +1161,7 @@ data:
       field: Everyday expression
       gloss: "Gratitude: thankful feeling toward the giver of a benefit."
       concept: gratitude
-      built: ["doras-", "-ira"]
+      built: [doras-, -ira]
     - form: thelmira
       class: n
       field: Everyday expression
@@ -1405,7 +1377,7 @@ data:
       field: Everyday expression
       gloss: Companionship; the state of being together with a companion. The ordinary companion word hetairin takes the attested quality ending -ira.
       concept: companionship
-      built: ["hetairin", "-ira"]
+      built: [hetairin, -ira]
     - form: misthin
       class: n
       field: Everyday expression
@@ -1798,7 +1770,7 @@ data:
       field: Everyday expression
       gloss: Safety; a state of preservation from harm.
       concept: safety
-      built: ["soth-", "-in"]
+      built: [soth-, -in]
     - form: kindhelin
       class: n
       field: Everyday expression
@@ -1809,7 +1781,7 @@ data:
       field: Everyday expression
       gloss: Protection; the guarding of a person or thing against harm.
       concept: protection
-      built: ["fil-", "-ira"]
+      built: [fil-, -ira]
     - form: laghin
       class: n
       field: Everyday expression
@@ -2118,7 +2090,7 @@ data:
       field: Everyday expression
       gloss: A leader; one who leads others.
       concept: leader
-      built: ["ághr-", "-ir"]
+      built: [ághr-, -ir]
     - form: akolir
       class: n
       field: Everyday expression
@@ -2456,7 +2428,7 @@ data:
       field: Everyday expression
       gloss: A storm; violent weather with wind, rain or snow.
       concept: storm
-      built: ["khem-", "-in"]
+      built: [khem-, -in]
     - form: bronthin
       class: n
       field: Everyday expression
@@ -2623,7 +2595,7 @@ data:
     - form: olighir
       class: num
       field: Everyday expression
-      gloss: Few with countable things; little with a mass or quantity.
+      gloss: [Few with countable things; little with a mass or quantity., "adj: few"]
       concept: [few, little-quantity]
     - form: medhin
       class: num
@@ -2966,12 +2938,13 @@ data:
       field: Everyday expression
       gloss: To have or hold; keep something in one's possession or grasp. The object and situation distinguish possession from bodily holding.
       concept: [have, hold]
+      variants: [ekharin]
     - form: dorasarin
       class: v
       field: Everyday expression
       gloss: To give something to someone.
       concept: give
-      built: ["doras-", "-arin"]
+      built: [doras-, -arin]
     - form: pratharin
       class: v
       field: Everyday expression
@@ -2982,7 +2955,7 @@ data:
       field: Everyday expression
       gloss: To know something; have knowledge that can be communicated or taught.
       concept: know
-      built: ["epistém-", "-arin"]
+      built: [epistém-, -arin]
     - form: oratharin
       class: v
       field: Everyday expression
@@ -3011,7 +2984,7 @@ data:
     - form: kathelarin
       class: v
       field: Everyday expression
-      gloss: To sit or take a seat.
+      gloss: [To sit or take a seat., establish a person's position in a seating arrangement]
       concept: sit
     - form: statharin
       class: v
@@ -4815,6 +4788,456 @@ data:
       class: n
       field: Everyday expression
       gloss: An occasion; one instance of an action or event.
+    - {form: sorathin, class: n, field: Everyday expression, gloss: song}
+    - {form: hespedhin, class: n, field: "Trade, coin, goods and the road", gloss: dinner}
+    - {form: sulathin, class: v, field: "Doing, going and being", gloss: pour wine or water}
+    - {form: amphelin, class: n, field: "Trade, coin, goods and the road", gloss: wine}
+    - {form: grafarin, class: v, field: "Doing, going and being", gloss: write}
+    - {form: anagharin, class: v, field: "Doing, going and being", gloss: read writing}
+    - {form: lirathin, class: n, field: Everyday expression, gloss: lyre}
+    - form: nemir
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: string of an instrument
+    - {form: sorarin, class: v, field: "Doing, going and being", gloss: sing}
+    - {form: kratharin, class: v, field: "Doing, going and being", gloss: weep}
+    - {form: harmin, class: v, field: "Doing, going and being", gloss: tune an instrument}
+    - {form: tekhthir, class: n, field: "Trade, coin, goods and the road", gloss: carpenter}
+    - {form: kelathin, class: n, field: "Trade, coin, goods and the road", gloss: veil}
+    - form: Kelathir er Oneirin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Veiled Dreamer
+    - {form: naukir, class: n, field: "Sea, river, land and sky", gloss: ship}
+    - {form: Zerthir, class: n, field: Everyday expression, gloss: founder of a city}
+    - {form: apoikin, class: n, field: "Trade, coin, goods and the road", gloss: colony}
+    - {form: theathelin, class: n, field: "Trade, coin, goods and the road", gloss: theater}
+    - {form: poiethelir, class: n, field: "Trade, coin, goods and the road", gloss: poet}
+    - {form: kathalir, class: n, field: "Thought, measure and the schools", gloss: a record}
+    - {form: mistharin, class: v, field: "Doing, going and being", gloss: pay a price}
+    - {form: antilekharin, class: v, field: "Doing, going and being", gloss: argue a case or side}
+    - {form: nikharin, class: v, field: "Doing, going and being", gloss: win a contest or argument}
+    - form: hetthelir
+      class: n
+      field: Thought, measure and the schools
+      gloss: person defeated in an argument
+    - {form: meidarhin, class: v, field: "Doing, going and being", gloss: smile}
+    - form: nomethin
+      class: n
+      field: Thought, measure and the schools
+      gloss: boundary of personal conduct
+    - form: methekir
+      class: n
+      field: Sea, river, land and sky
+      gloss: metic or resident without citizenship
+    - {form: lutherin, class: n, field: "The city, law and office", gloss: freedman}
+    - {form: doulir, class: n, field: "The city, law and office", gloss: slave}
+    - form: euthenir
+      class: n
+      field: The city, law and office
+      gloss: auditor empowered to detain
+    - {form: euthenkarin, class: n, field: "The city, law and office", gloss: auditor's legal hold}
+    - form: dokhafin
+      class: n
+      field: The city, law and office
+      gloss: stripping of civic honor
+    - {form: horghin, class: n, field: Everyday expression, gloss: garden}
+    - {form: nosathin, class: n, field: Everyday expression, gloss: fever}
+    - {form: hupothin, class: n, field: Everyday expression, gloss: sleeping draught}
+    - {form: homethin, class: n, field: Everyday expression, gloss: conversation}
+    - {form: hoplarin, class: n, field: "Trade, coin, goods and the road", gloss: arms or weapons}
+    - {form: sorir, class: n, field: "Kin, the person and the body", gloss: singer}
+    - form: orthelinarin
+      class: v
+      field: Doing, going and being
+      gloss: correct another person's statement
+    - form: mathelion
+      class: n
+      field: Thought, measure and the schools
+      gloss: school as a teaching institution
+    - {form: pethin, class: n, field: "Thought, measure and the schools", gloss: question}
+    - {form: kerukhir, class: n, field: "The city, law and office", gloss: herald}
+    - form: vagharin
+      class: v
+      field: Doing, going and being
+      gloss: show a person an object or way
+    - {form: eughelreth, class: adv, field: "The city, law and office", gloss: courteously}
+    - {form: endharin, class: v, field: "Doing, going and being", gloss: wear a garment}
+    - form: krumarthin
+      class: v
+      field: Doing, going and being
+      gloss: cool a fever or reduce heat
+    - form: rhadhelarin
+      class: v
+      field: Doing, going and being
+      gloss: ease a birth or other difficulty
+    - {form: ithralghin, class: n, field: "Kin, the person and the body", gloss: burn injury}
+    - {form: Meitharin, class: n, field: Everyday expression, gloss: waning of the moon}
+    - form: organir
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: musical instrument
+    - {form: gelarin, class: v, field: "Doing, going and being", gloss: laugh}
+    - {form: lirarhin, class: v, field: "Doing, going and being", gloss: play a musical instrument}
+    - {form: Nemathir, class: n, field: Everyday expression, gloss: the Weaver}
+    - form: Filir er Thásira Sothira
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Keeper of Sacred Wisdom
+    - form: Andáhr er Khamethin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Forge-Lord
+    - {form: Hodhir, class: n, field: Everyday expression, gloss: Wayfarer}
+    - {form: Bronthir, class: n, field: "The gods, the stage and the assembly", gloss: Thunderer}
+    - form: Dorasir
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Bountiful One
+    - {form: Auksathir, class: n, field: "The gods, the stage and the assembly", gloss: Nurturer}
+    - {form: Oneirir, class: n, field: "The gods, the stage and the assembly", gloss: Dreamer}
+    - form: Sighelir Dikhar
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Silent Judge
+    - form: Andáhr er Meitharin er Selenir
+      class: n
+      field: Everyday expression
+      gloss: Mistress of the Waning Moon
+    - form: Agrin Thernin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: Wild Beast
+    - form: Amethrin
+      class: n
+      field: Thought, measure and the schools
+      gloss: the Unmeasured, primordial condition before measure
+    - {form: biblathin, class: n, field: "Thought, measure and the schools", gloss: book}
+    - form: khulithin
+      class: n
+      field: Everyday expression
+      gloss: wheel, including spinning wheel
+    - form: poltharin
+      class: n
+      field: Thought, measure and the schools
+      gloss: terrace supporting a field
+    - {form: khamethin, class: n, field: Everyday expression, gloss: forge}
+    - {form: dikhar, class: n, field: Everyday expression, gloss: judge}
+    - {form: agrin, class: adj, field: Everyday expression, gloss: wild or undomesticated}
+    - {form: nematharin, class: v, field: "Doing, going and being", gloss: spin thread}
+    - form: thametharin
+      class: v
+      field: Doing, going and being
+      gloss: cut a thread, wood, or cloth
+    - {form: perathin, class: n, field: "Thought, measure and the schools", gloss: length}
+    - {form: barethin, class: n, field: "Thought, measure and the schools", gloss: weight}
+    - {form: foghelin, class: n, field: Everyday expression, gloss: fog}
+    - {form: pterin, class: n, field: Everyday expression, gloss: feather}
+    - {form: kramelin, class: n, field: Everyday expression, gloss: sleeve}
+    - {form: hupethin, class: n, field: Everyday expression, gloss: proposal put to an assembly}
+    - {form: hoplothin, class: n, field: Everyday expression, gloss: military levy}
+    - {form: krenethin, class: n, field: Everyday expression, gloss: oil}
+    - {form: sfratharin, class: v, field: "Doing, going and being", gloss: vote by casting a stone}
+    - {form: khruthin, class: n, field: Everyday expression, gloss: hail}
+    - {form: leukhor, class: n, field: "Thought, measure and the schools", gloss: wolf}
+    - form: khrosin
+      class: n
+      field: Thought, measure and the schools
+      gloss: a boundary or margin of the world
+    - {form: kadzarin, class: n, field: Everyday expression, gloss: sword}
+    - {form: kadrin, class: n, field: Everyday expression, gloss: fence}
+    - {form: oukhthor, class: n, field: "Thought, measure and the schools", gloss: ox}
+    - {form: mothin, class: n, field: "Trade, coin, goods and the road", gloss: price}
+    - {form: malthin, class: n, field: Everyday expression, gloss: tame or gentle state}
+    - {form: musterin, class: n, field: Everyday expression, gloss: mustering call}
+    - {form: sulkarin, class: v, field: "Doing, going and being", gloss: cough}
+    - {form: lozoin, class: n, field: "The city, law and office", gloss: advocate at law}
+    - {form: thornir, class: n, field: Everyday expression, gloss: ridge}
+    - {form: hestharin, class: v, field: "Doing, going and being", gloss: rub a surface raw}
+    - {form: kranir, class: n, field: Everyday expression, gloss: "crane, migratory bird"}
+    - {form: thlifarin, class: n, field: "Thought, measure and the schools", gloss: olive press}
+    - form: pethmarin
+      class: v
+      field: Doing, going and being
+      gloss: comb an olive branch with fingers
+    - {form: tethrin, class: adj, field: Everyday expression, gloss: ripe}
+    - {form: satharin, class: v, field: "Doing, going and being", gloss: sign a legal document}
+    - {form: dheren, class: n, field: Everyday expression, gloss: week}
+    - {form: khosir, class: n, field: "Thought, measure and the schools", gloss: "kid, young goat"}
+    - {form: halthin, class: n, field: Everyday expression, gloss: salt}
+    - {form: preskon, class: n, field: Everyday expression, gloss: quarrel}
+    - {form: kerdhelir, class: n, field: Everyday expression, gloss: coward}
+    - {form: khalithin, class: n, field: "The city, law and office", gloss: shield}
+    - {form: grerin, class: n, field: "The city, law and office", gloss: spear}
+    - form: sothkadrin
+      class: n
+      field: The city, law and office
+      gloss: battle line of shields
+    - {form: gruzethin, class: n, field: Everyday expression, gloss: brush or scrub}
+    - form: mathelin
+      class: n
+      field: Thought, measure and the schools
+      gloss: learning or schooling
+    - {form: kirathin, class: n, field: Everyday expression, gloss: light}
+    - {form: badhin, class: n, field: Everyday expression, gloss: a step taken on foot}
+    - form: hesu
+      class: adj
+      field: Thought, measure and the schools
+      gloss: serene in expression
+    - {form: telethanir, class: n, field: "Kin, the person and the body", gloss: mortal person}
+    - {form: kolathin, class: n, field: Everyday expression, gloss: punishment}
+    - {form: steir, class: adj, field: Everyday expression, gloss: steep}
+    - {form: orthin, class: adv, field: Grammar words, gloss: straight upward}
+    - {form: stathir, class: adj, field: Everyday expression, gloss: steady}
+    - form: barthin
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: cargo or carried load
+    - form: thlifin
+      class: n
+      field: Thought, measure and the schools
+      gloss: one pressing of olives
+    - form: lampsarin
+      class: v
+      field: Doing, going and being
+      gloss: pick or gather ripe fruit
+    - {form: guzethir, class: n, field: "Thought, measure and the schools", gloss: goat}
+    - {form: herderin, class: n, field: "Thought, measure and the schools", gloss: herdsman}
+    - {form: desmarin, class: v, field: "Doing, going and being", gloss: bind a friendship or bond}
+    - {form: tekhnin, class: n, field: Everyday expression, gloss: art or practiced skill}
+    - {form: huzarin, class: v, field: "Doing, going and being", gloss: face a direction}
+    - form: spórin
+      class: n
+      field: Thought, measure and the schools
+      gloss: sowing or planting
+    - {form: naukerin, class: n, field: "Sea, river, land and sky", gloss: keel of a ship}
+    - {form: naukhir, class: n, field: "Sea, river, land and sky", gloss: ship's captain}
+    - {form: erethin, class: n, field: "Sea, river, land and sky", gloss: oar}
+    - {form: erethir, class: n, field: "Sea, river, land and sky", gloss: oarsman}
+    - {form: pedharin, class: n, field: "Sea, river, land and sky", gloss: steering-oar}
+    - {form: nauthorin, class: n, field: "Sea, river, land and sky", gloss: crew of a ship}
+    - {form: pteralon, class: n, field: "Sea, river, land and sky", gloss: sail}
+    - {form: speral, class: n, field: "Sea, river, land and sky", gloss: mast}
+    - {form: skirathin, class: n, field: Everyday expression, gloss: gravel or shingle}
+    - {form: hadrin, class: n, field: "Sea, river, land and sky", gloss: headland}
+    - {form: kurathon, class: n, field: "Sea, river, land and sky", gloss: "surf, breaking sea"}
+    - {form: nauthos, class: n, field: "Sea, river, land and sky", gloss: beak or prow of a ship}
+    - {form: krithon, class: n, field: "Thought, measure and the schools", gloss: barley}
+    - {form: lekanon, class: n, field: Everyday expression, gloss: lid of a pot}
+    - form: elaistin
+      class: n
+      field: Thought, measure and the schools
+      gloss: olive pit used as fuel
+    - form: desmin
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: knot in a counting cord
+    - {form: desmatharin, class: v, field: "Doing, going and being", gloss: tie a knot}
+    - {form: lusmetharin, class: v, field: "Doing, going and being", gloss: untie a knot}
+    - {form: zeughin, class: n, field: "Thought, measure and the schools", gloss: yoke for oxen}
+    - {form: mukharin, class: v, field: "Doing, going and being", gloss: "low, of cattle"}
+    - {form: sperakin, class: n, field: "Sea, river, land and sky", gloss: notch cut in a mast}
+    - {form: sternir, class: n, field: "Sea, river, land and sky", gloss: stern-post of a ship}
+    - {form: stakhon, class: n, field: "Sea, river, land and sky", gloss: hull of a ship}
+    - {form: ghlinir, class: n, field: "Thought, measure and the schools", gloss: crescent shape}
+    - {form: pazalin, class: n, field: "Sea, river, land and sky", gloss: a watch of the night}
+    - form: futherin er gruzethin
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: brushwood
+    - form: karpathin
+      class: n
+      field: Sea, river, land and sky
+      gloss: driftwood from the beach
+    - {form: nemeirin, class: v, field: "Doing, going and being", gloss: blow upon coals}
+    - {form: dhroun, class: n, field: Everyday expression, gloss: oak and its wood}
+    - {form: pelakin, class: n, field: "Trade, coin, goods and the road", gloss: axe}
+    - {form: santhin, class: n, field: "Sea, river, land and sky", gloss: plank of a ship}
+    - form: nekrathin
+      class: n
+      field: Kin, the person and the body
+      gloss: bier carrying a dead person
+    - {form: murmithin, class: n, field: Everyday expression, gloss: ant}
+    - {form: edhrin, class: n, field: Everyday expression, gloss: crumb of food}
+    - {form: neosthin, class: n, field: Everyday expression, gloss: nest of ants}
+    - {form: humeirin, class: v, field: "Doing, going and being", gloss: bail water out of a boat}
+    - form: zelvethin
+      class: n
+      field: Trade, coin, goods and the road
+      gloss: corner or lifted edge of a veil
+    - form: hairelin
+      class: n
+      field: Everyday expression
+      gloss: a choosing between alternatives
+    - {form: fedharin, class: v, field: "Doing, going and being", gloss: feed a fire}
+    - {form: oneirarin, class: v, field: "Doing, going and being", gloss: dream during sleep}
+    - {form: khromarin, class: v, field: "Doing, going and being", gloss: paint an image}
+    - {form: ertharin, class: v, field: "Doing, going and being", gloss: dig in earth}
+    - {form: stíthalon, class: n, field: Everyday expression, gloss: colonnade}
+    - form: holkhon
+      class: n
+      field: Thought, measure and the schools
+      gloss: furrow in a field
+    - {form: sarkhion, class: n, field: Everyday expression, gloss: temple}
+    - form: khararin
+      class: v
+      field: Doing, going and being
+      gloss: wear down a stone or word over time
+    - {form: ftonin, class: n, field: "Thought, measure and the schools", gloss: syllable}
+    - {form: mandhelir, class: adj, field: Everyday expression, gloss: empty of people}
+    - {form: khrothin, class: n, field: Everyday expression, gloss: color}
+    - {form: irthon, class: n, field: "Kin, the person and the body", gloss: bruise}
+    - {form: klinathin, class: n, field: Everyday expression, gloss: slope of a hill}
+    - {form: sketharin, class: v, field: "Doing, going and being", gloss: scatter ships or animals}
+    - {form: olthelin, class: n, field: Everyday expression, gloss: darkness}
+    - form: kherarin
+      class: v
+      field: Doing, going and being
+      gloss: grind or scrape over stones
+    - {form: retherin, class: n, field: "Sea, river, land and sky", gloss: fishing net}
+    - {form: karvarin, class: v, field: "Doing, going and being", gloss: kindle a fire}
+    - form: hughrarin
+      class: v
+      field: Doing, going and being
+      gloss: soak something with rain or water
+    - {form: eretharin, class: v, field: "Doing, going and being", gloss: row a ship}
+    - {form: gauro, class: n, field: Everyday expression, gloss: signal horn}
+    - {form: kanthir, class: n, field: Everyday expression, gloss: ram}
+    - {form: apathir, class: n, field: Everyday expression, gloss: liar}
+    - {form: lothelin, class: n, field: Everyday expression, gloss: long bar of embers}
+    - {form: dorthin, class: n, field: Everyday expression, gloss: line of descendants}
+    - {form: thérisir, class: n, field: Everyday expression, gloss: reaper}
+    - {form: ambarin, class: v, field: "Doing, going and being", gloss: bring a person to a place}
+    - form: narharin
+      class: v
+      field: Doing, going and being
+      gloss: tell an account of a ship or deed
+    - form: sunatharin
+      class: v
+      field: Doing, going and being
+      gloss: gather fuel or goods into one place
+    - {form: thelkon, class: n, field: "Trade, coin, goods and the road", gloss: library}
+    - form: spondhelin
+      class: n
+      field: The city, law and office
+      gloss: truce, temporary suspension of fighting
+    - {form: skathir, class: n, field: "The city, law and office", gloss: herald's staff}
+    - {form: makhethin, class: n, field: "The city, law and office", gloss: battle or fight}
+    - {form: nikhathir, class: n, field: "The city, law and office", gloss: victor}
+    - {form: hetthelin, class: n, field: "The city, law and office", gloss: losing side in battle}
+    - {form: akmetharin, class: v, field: "Doing, going and being", gloss: sharpen a spear}
+    - {form: kenthelin, class: n, field: "The city, law and office", gloss: point of a spear}
+    - {form: pogonir, class: n, field: "Kin, the person and the body", gloss: beard}
+    - {form: palaithir, class: n, field: "Kin, the person and the body", gloss: wrestler}
+    - form: palaitharin
+      class: v
+      field: Doing, going and being
+      gloss: wrestle and throw an opponent
+    - {form: stephanin, class: n, field: "The city, law and office", gloss: victor's crown}
+    - {form: stephanarin, class: v, field: "Doing, going and being", gloss: crown a victor}
+    - {form: threnarin, class: v, field: "Doing, going and being", gloss: keen or lament aloud}
+    - form: estrathin
+      class: n
+      field: The city, law and office
+      gloss: army in a battle formation
+    - form: athikhelir
+      class: adj
+      field: The city, law and office
+      gloss: inviolable under the heralds' truce
+    - form: aphelin
+      class: v
+      field: Doing, going and being
+      gloss: exclude a city from the Games
+    - form: sothathin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: sanctuary of the Games
+    - {form: sarkhir, class: n, field: "The gods, the stage and the assembly", gloss: priest}
+    - form: drametharir
+      class: n
+      field: The city, law and office
+      gloss: runner competing at the Games
+    - {form: khedhin, class: n, field: "Kin, the person and the body", gloss: sheep}
+    - {form: pubrin, class: n, field: Everyday expression, gloss: offer of an exchange}
+    - form: antithmarin
+      class: v
+      field: Doing, going and being
+      gloss: bargain over the price of bodies or goods
+    - {form: krounir, class: n, field: "Kin, the person and the body", gloss: crow}
+    - form: pethrin
+      class: n
+      field: The city, law and office
+      gloss: answer in the herald's rite
+    - form: histharin
+      class: n
+      field: The gods, the stage and the assembly
+      gloss: legend recited at the sanctuary
+    - {form: botherin, class: n, field: "Thought, measure and the schools", gloss: pasture}
+    - form: askethin
+      class: n
+      field: The city, law and office
+      gloss: military exercise or drill
+    - {form: korufin, class: n, field: Everyday expression, gloss: helmet}
+    - form: thresarin
+      class: v
+      field: Doing, going and being
+      gloss: vote for or approve by vote
+    - {form: hodhin, class: n, field: "The city, law and office", gloss: road}
+    - {form: hesperir, class: adj, field: "Sea, river, land and sky", gloss: western}
+    - {form: leghethon, class: n, field: "The city, law and office", gloss: legion}
+    - {form: bathin, class: n, field: "The city, law and office", gloss: depth of a formation}
+    - form: lithokir
+      class: n
+      field: Thought, measure and the schools
+      gloss: ring of boundary stones
+    - {form: sphurin, class: n, field: Everyday expression, gloss: hammer}
+    - {form: akmothin, class: n, field: Everyday expression, gloss: anvil}
+    - {form: onomin, class: n, field: Everyday expression, gloss: name}
+    - form: biblomerin
+      class: n
+      field: Thought, measure and the schools
+      gloss: page of a book
+    - {form: thermin, class: n, field: Everyday expression, gloss: heat}
+    - {form: phonethin, class: n, field: Everyday expression, gloss: noise}
+    - {form: steneth, class: adv, field: Grammar words, gloss: loudly}
+    - {form: pterathin, class: n, field: Everyday expression, gloss: wing}
+    - {form: méros, class: n, field: "Thought, measure and the schools", gloss: scene of a play}
+    - {form: hetoir, class: adj, field: Everyday expression, gloss: ready}
+    - {form: thamethin, class: n, field: Everyday expression, gloss: cut or shaving nick}
+    - {form: ghenethin, class: n, field: "Kin, the person and the body", gloss: chin}
+    - {form: dhermakhir, class: n, field: Everyday expression, gloss: razor}
+    - {form: drakhelin, class: n, field: Everyday expression, gloss: dragon}
+    - {form: khalamin, class: n, field: "Kin, the person and the body", gloss: cloak}
+    - {form: thulatharin, class: v, field: "Doing, going and being", gloss: remain at a place}
+    - form: dikathin
+      class: n
+      field: The city, law and office
+      gloss: court sitting in judgment
+    - {form: ergathin, class: n, field: Everyday expression, gloss: magical working}
+    - {form: hamarir, class: n, field: "The city, law and office", gloss: carter}
+    - {form: kampon, class: n, field: "The city, law and office", gloss: bend in a road}
+    - {form: kenathir, class: n, field: Everyday expression, gloss: predatory animal}
+    - {form: orghelir, class: adj, field: Everyday expression, gloss: angry}
+    - {form: orghein, class: n, field: Everyday expression, gloss: anger}
+    - {form: perimenarin, class: v, field: "Doing, going and being", gloss: wait}
+    - form: estralin
+      class: n
+      field: The city, law and office
+      gloss: rank of people standing abreast in formation
+    - {form: plerethir, class: adj, field: Everyday expression, gloss: full or filled to capacity}
+    - {form: kur, class: n, field: Everyday expression, gloss: altar}
+    - form: aghrarin
+      class: v
+      field: Everyday expression
+      gloss: drive or guide a moving thing; drive livestock away or steer a ship
+    - {form: ethor, class: rel, field: Everyday expression, gloss: "after, in succession"}
+    - {form: solten, class: n, field: Everyday expression, gloss: side or bank}
+    - {form: mazeron, class: adv, field: Everyday expression, gloss: "longer, for a greater time"}
+    - {form: cholsama, class: n, field: Everyday expression, gloss: harvest}
+    - form: zikai
+      class: num
+      field: Everyday expression
+      gloss: second, the second count or occurrence
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -5171,9 +5594,9 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - {tag: kept, meaning: a name that stands outside the three tongues by the owner's ruling}
   register:
-    - {name: "Aghris", tongue: helonic}
-    - {name: "Arsos", tongue: helonic}
-    - {name: "Frelos", tongue: helonic}
+    - {name: Aghris, tongue: helonic}
+    - {name: Arsos, tongue: helonic}
+    - {name: Frelos, tongue: helonic}
     - {name: Academy of Knowledge, tongue: translation}
     - {name: Adhélimis Ghotones, tongue: helonic}
     - {name: Admiral Dómirtha Habines, tongue: translation}
@@ -5662,6 +6085,9 @@ data:
     - {name: Arsir Lofiria, tongue: translation}
     - {name: Tabira Thamidon, tongue: bethuan}
     - {name: Tabira the Wise, tongue: translation}
+    - {name: Agelis, tongue: helonic}
+    - {name: Euthalos, tongue: helonic}
+    - {name: Ythros, tongue: helonic}
   retired:
     - {form: Altinkale, instead: Krusteikhos, why: a town named with an Earth phrase}
     - {form: Altinkalan, instead: Krusteíkhian, why: the demonym of a retired name}
