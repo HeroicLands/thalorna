@@ -5106,6 +5106,1122 @@ data:
   icon: icon-speaking
   templatePriority: null
   packFolder: language
+    - form: légathen
+      class: v
+      field: Doing, going and being
+      gloss: "set down"
+
+    - form: zúndathen
+      class: v
+      field: Doing, going and being
+      gloss: "close or bar an opening"
+
+    - form: kérnathen
+      class: v
+      field: Doing, going and being
+      gloss: "trim a lamp"
+
+    - form: haltha
+      class: n
+      field: The hall and the guest
+      gloss: "household as the assembledhearers"
+
+    - form: saenar
+      class: adj
+      field: Doing, going and being
+      gloss: "proved"
+
+    - form: málmathen
+      class: v
+      field: Doing, going and being
+      gloss: "to eat; contextually, to feed those gathered"
+
+    - form: náemathen
+      class: v
+      field: Doing, going and being
+      gloss: "name"
+
+    - form: sérne
+      class: adv
+      field: The bard and the word
+      gloss: "plainly"
+
+    - form: lántheris
+      class: n
+      field: The land in keeping
+      gloss: "river meadow"
+
+    - form: gélnathen
+      class: v
+      field: Doing, going and being
+      gloss: "study or learn an art"
+
+    - form: árethathen
+      class: v
+      field: Doing, going and being
+      gloss: "return"
+
+    - form: pirnaland
+      class: n
+      field: The bard and the word
+      gloss: "harper"
+
+    - form: déisnathen
+      class: v
+      field: Doing, going and being
+      gloss: "pay"
+
+    - form: élthar
+      class: adj
+      field: Doing, going and being
+      gloss: "living"
+
+    - form: ganthrel
+      class: n
+      field: The land in keeping
+      gloss: "bridge"
+
+    - form: órnathen
+      class: v
+      field: Doing, going and being
+      gloss: "open"
+
+    - form: kernsalve
+      class: n
+      field: The wood and its weather
+      gloss: "oak"
+
+    - form: thalgan
+      class: n
+      field: The land in keeping
+      gloss: "ford gate"
+
+    - form: sirthalon
+      class: n
+      field: Arms and the border
+      gloss: "fleet"
+
+    - form: gurmougon
+      class: n
+      field: The bard and the word
+      gloss: "satire"
+
+    - form: arlathon
+      class: n
+      field: The crown, the law and the University
+      gloss: "court of a ruler"
+
+    - form: sálnathen
+      class: v
+      field: Doing, going and being
+      gloss: "plant"
+
+    - form: kálve
+      class: n
+      field: The wood and its weather
+      gloss: "birch"
+
+    - form: giethar
+      class: adj
+      field: The land in keeping
+      gloss: "low"
+
+    - form: kurnard
+      class: n
+      field: Craft, coin and the market
+      gloss: "fair or marketgathering"
+
+    - form: gélgathen
+      class: v
+      field: Doing, going and being
+      gloss: "lose a thing"
+
+    - form: pirnalhalthon
+      class: n
+      field: The bard and the word
+      gloss: "harp hall"
+
+    - form: Rontha
+      class: n
+      field: The bard and the word
+      gloss: "Circle, bardicbody"
+
+    - form: Sáumirand
+      class: n
+      field: The bard and the word
+      gloss: "College, bardicbody"
+
+    - form: saenathen
+      class: v
+      field: Doing, going and being
+      gloss: "prove a descent"
+
+    - form: íthathen
+      class: v
+      field: Doing, going and being
+      gloss: "foster a child"
+
+    - form: íthakenlon
+      class: n
+      field: The house and the old blood
+      gloss: "foster child"
+
+    - form: thálmathen
+      class: v
+      field: Doing, going and being
+      gloss: "marry"
+
+    - form: théinathen
+      class: v
+      field: Doing, going and being
+      gloss: "kindle"
+
+    - form: omrikenlon
+      class: n
+      field: The wood and its weather
+      gloss: "lamb"
+
+    - form: hréinathen
+      class: v
+      field: Doing, going and being
+      gloss: "fill a cup"
+
+    - form: gírathen
+      class: v
+      field: Doing, going and being
+      gloss: "feed or nourish"
+
+    - form: kendonend
+      class: n
+      field: The hall and the guest
+      gloss: "people beingfed, communalhearers"
+
+    - form: malmar
+      class: adj
+      field: The hall and the guest
+      gloss: "fed"
+
+    - form: rounel
+      class: n
+      field: Craft, coin and the market
+      gloss: "spinning wheel"
+
+    - form: dréithathen
+      class: v
+      field: Doing, going and being
+      gloss: "draw out wool into fine fibers"
+
+    - form: pirninne
+      class: n
+      field: Craft, coin and the market
+      gloss: "spinner"
+
+    - form: pírnathen
+      class: v
+      field: Doing, going and being
+      gloss: "spin thread"
+
+    - form: menris
+      class: n
+      field: The bard and the word
+      gloss: "meaning"
+
+    - form: dyelar
+      class: adj
+      field: Doing, going and being
+      gloss: "last"
+
+    - form: salrisa
+      class: n
+      field: Craft, coin and the market
+      gloss: "bark of a tree"
+
+    - form: áurkieron
+      class: n
+      field: Craft, coin and the market
+      gloss: "hinge day, the seasonal turning day"
+
+    - form: áuróssen
+      class: n
+      field: Craft, coin and the market
+      gloss: "hinge night"
+
+    - form: Sálmendis
+      class: n
+      field: Craft, coin and the market
+      gloss: "Grove Council, individualinstitutionword"
+
+    - form: méilthande
+      class: n
+      field: Craft, coin and the market
+      gloss: "hedge wife"
+
+    - form: lórramis
+      class: n
+      field: Craft, coin and the market
+      gloss: "weaving"
+
+    - form: sárnathen
+      class: v
+      field: Doing, going and being
+      gloss: "tie a knot"
+
+    - form: térgathen
+      class: v
+      field: Doing, going and being
+      gloss: "turn or rotate"
+
+    - form: néivar
+      class: adj
+      field: Craft, coin and the market
+      gloss: "new"
+
+    - form: pirnarnis
+      class: n
+      field: Craft, coin and the market
+      gloss: "hank of thread"
+
+    - form: riethar
+      class: adj
+      field: Doing, going and being
+      gloss: "even or uniform"
+
+    - form: tórnathen
+      class: v
+      field: Doing, going and being
+      gloss: "knock at a door"
+
+    - form: rounthil
+      class: n
+      field: Craft, coin and the market
+      gloss: "treadle"
+
+    - form: sulner
+      class: adv
+      field: Doing, going and being
+      gloss: "slowly"
+
+    - form: laegnar
+      class: adj
+      field: Doing, going and being
+      gloss: "courteous"
+
+    - form: laegkon
+      class: n
+      field: Craft, coin and the market
+      gloss: "guest"
+
+    - form: mannar
+      class: adj
+      field: Doing, going and being
+      gloss: "hollow"
+
+    - form: mielve
+      class: n
+      field: Craft, coin and the market
+      gloss: "moss"
+
+    - form: rynel
+      class: n
+      field: Craft, coin and the market
+      gloss: "edge or end"
+
+    - form: geirdnol
+      class: n
+      field: Craft, coin and the market
+      gloss: "bargain"
+
+    - form: ukal
+      class: adj
+      field: Doing, going and being
+      gloss: "every existingexpressioncomponent"
+
+    - form: ansóldaris
+      class: adj
+      field: Doing, going and being
+      gloss: "unheard"
+
+    - form: míelathen
+      class: v
+      field: Doing, going and being
+      gloss: "smile"
+
+    - form: zúndar
+      class: adj
+      field: Doing, going and being
+      gloss: "closed"
+
+    - form: pirnel
+      class: n
+      field: Craft, coin and the market
+      gloss: "spindle"
+
+    - form: lárgar
+      class: adj
+      field: Numbers and grammar words
+      gloss: "long; extended in length or duration"
+
+    - form: thélkand
+      class: n
+      field: The hall and the guest
+      gloss: "haulier"
+
+    - form: kelgon
+      class: n
+      field: The wood and its weather
+      gloss: "ox"
+
+    - form: vakron
+      class: n
+      field: Craft, coin and the market
+      gloss: "week"
+
+    - form: tannis
+      class: n
+      field: Craft, coin and the market
+      gloss: "hen"
+
+    - form: sáuminathen
+      class: v
+      field: Doing, going and being
+      gloss: "teach"
+
+    - form: kerenis
+      class: n
+      field: Craft, coin and the market
+      gloss: "carding comb"
+
+    - form: gaethar
+      class: adj
+      field: The hall and the guest
+      gloss: "beautiful"
+
+    - form: hraviar
+      class: adj
+      field: Doing, going and being
+      gloss: "quick"
+
+    - form: geirar
+      class: adj
+      field: Doing, going and being
+      gloss: "sharp"
+
+    - form: kurnar
+      class: adj
+      field: Doing, going and being
+      gloss: "short"
+
+    - form: órnar
+      class: adj
+      field: Doing, going and being
+      gloss: "open"
+
+    - form: rákathen
+      class: v
+      field: Doing, going and being
+      gloss: "break"
+
+    - form: finathen
+      class: v
+      field: Doing, going and being
+      gloss: "find"
+
+    - form: láernathen
+      class: v
+      field: Doing, going and being
+      gloss: "weep"
+
+    - form: léine
+      class: n
+      field: Craft, coin and the market
+      gloss: "flax"
+
+    - form: shéirthathen
+      class: v
+      field: Doing, going and being
+      gloss: "join broken thread"
+
+    - form: shéirthon
+      class: n
+      field: Craft, coin and the market
+      gloss: "join in thread"
+
+    - form: drékathen
+      class: v
+      field: Doing, going and being
+      gloss: "pull"
+
+    - form: mougand
+      class: n
+      field: Craft, coin and the market
+      gloss: "teller"
+
+    - form: sóknathen
+      class: v
+      field: Doing, going and being
+      gloss: "search"
+
+    - form: váknathen
+      class: v
+      field: Doing, going and being
+      gloss: "wake"
+
+    - form: sielar
+      class: adj
+      field: The body and the dead
+      gloss: "wet"
+
+    - form: niersa
+      class: n
+      field: The wood and its weather
+      gloss: "dew"
+
+    - form: thárnathen
+      class: v
+      field: Doing, going and being
+      gloss: "cut (distinctfromexistingtargathen must)"
+
+    - form: sélgathen
+      class: v
+      field: Doing, going and being
+      gloss: "follow"
+
+    - form: trámon
+      class: n m
+      field: The land in keeping
+      gloss: "the region in front of something"
+      source: {kind: coined}
+
+    - form: mílkergis
+      class: n
+      field: The land in keeping
+      gloss: "milestone"
+      source: {kind: coined}
+
+    - form: míldeilnon
+      class: n
+      field: The land in keeping
+      gloss: "mile count"
+      source: {kind: coined}
+
+    - form: mílon
+      class: n
+      field: The land in keeping
+      gloss: "mile"
+      source: {kind: coined}
+
+    - form: auranra
+      class: n
+      field: The house and the street
+      gloss: "queen"
+      source: {kind: coined}
+
+    - form: thargalon
+      class: n
+      field: The land in keeping
+      gloss: "kingdom"
+      source: {kind: coined}
+
+    - form: legyon
+      class: n
+      field: Arms and the field
+      gloss: "legion"
+      source: {kind: coined}
+
+    - form: auldar
+      class: adj
+      field: Qualities
+      gloss: "of the hills, hilly"
+      source: {kind: coined}
+
+    - form: mirlerth
+      class: n
+      field: The land in keeping
+      gloss: "frontier or territorial border"
+      source: {kind: coined}
+
+    - form: nolgrar
+      class: adj
+      field: Qualities
+      gloss: "sworn"
+      source: {kind: coined}
+
+    - form: talgon
+      class: n
+      field: The land in keeping
+      gloss: "pole"
+      source: {kind: coined}
+
+    - form: árnon
+      class: n
+      field: The land in keeping
+      gloss: "coming, arrival"
+      source: {kind: coined}
+
+    - form: tírvaland
+      class: n
+      field: The land in keeping
+      gloss: "road engineer"
+      source: {kind: coined}
+
+    - form: gurnalon
+      class: n
+      field: Craft and the workshop
+      gloss: "herd of animals"
+      source: {kind: coined}
+
+    - form: greiklon
+      class: n
+      field: The land in keeping
+      gloss: "levy"
+      source: {kind: coined}
+
+    - form: andárgand
+      class: n
+      field: The land in keeping
+      gloss: "fool"
+      source: {kind: coined}
+
+    - form: thélkeron
+      class: n
+      field: Craft and the workshop
+      gloss: "wagon"
+      source: {kind: coined}
+
+    - form: dieldalon
+      class: n
+      field: Craft and the workshop
+      gloss: "picket group"
+      source: {kind: coined}
+
+    - form: mirlathon
+      class: n
+      field: The land in keeping
+      gloss: "steading"
+      source: {kind: coined}
+
+    - form: hálmathen
+      class: v
+      field: Doing, going and being
+      gloss: "fill"
+      source: {kind: coined}
+
+    - form: ánkenar
+      class: adj
+      field: Qualities
+      gloss: "empty"
+      source: {kind: coined}
+
+    - form: hérnon
+      class: n
+      field: The body and the dead
+      gloss: "dog"
+      source: {kind: coined}
+
+    - form: górkon
+      class: n
+      field: The body and the dead
+      gloss: "hat or cap"
+      source: {kind: coined}
+
+    - form: kórthelon
+      class: n
+      field: Arms and the field
+      gloss: "cohort"
+      source: {kind: coined}
+
+    - form: legandon
+      class: n
+      field: Arms and the field
+      gloss: "legate"
+      source: {kind: coined}
+
+    - form: nógand
+      class: n
+      field: Arms and the field
+      gloss: "scout"
+      source: {kind: coined}
+
+    - form: drungailand
+      class: n
+      field: Craft and the workshop
+      gloss: "pony herdkeeper"
+      source: {kind: coined}
+
+    - form: ránathen
+      class: v
+      field: Doing, going and being
+      gloss: "abandon"
+      source: {kind: coined}
+
+    - form: desnon
+      class: n
+      field: Craft and the workshop
+      gloss: "purse"
+      source: {kind: coined}
+
+    - form: lirken
+      class: n
+      field: The wood and its weather
+      gloss: "rabbit"
+      source: {kind: coined}
+
+    - form: henduland
+      class: n
+      field: The land in keeping
+      gloss: "charcoal burner"
+      source: {kind: coined}
+
+    - form: sénthron
+      class: n
+      field: The land in keeping
+      gloss: "path"
+      source: {kind: coined}
+
+    - form: ryndulnis
+      class: n
+      field: The land in keeping
+      gloss: "nearness"
+      source: {kind: coined}
+
+    - form: fralel
+      class: n
+      field: The land in keeping
+      gloss: "apron"
+      source: {kind: coined}
+
+    - form: muland
+      class: n
+      field: The wood and its weather
+      gloss: "mule"
+      source: {kind: coined}
+
+    - form: préipar
+      class: n
+      field: Arms and the field
+      gloss: "praepar, imperialcohortcommander"
+      source: {kind: coined}
+
+    - form: menthar
+      class: adj
+      field: Qualities
+      gloss: "heavy"
+      source: {kind: coined}
+
+    - form: lanris
+      class: n
+      field: The land in keeping
+      gloss: "row"
+      source: {kind: coined}
+
+    - form: thar
+      class: adj
+      field: Qualities
+      gloss: "clear of obstruction underfoot"
+      source: {kind: coined}
+
+    - form: óssengal
+      class: n
+      field: The land in keeping
+      gloss: "camp"
+      source: {kind: coined}
+
+    - form: véhalthon
+      class: n
+      field: The wood and its weather
+      gloss: "tent"
+      source: {kind: coined}
+
+    - form: nathar
+      class: adv
+      field: Numbers and grammar words
+      gloss: "late"
+      source: {kind: coined}
+
+    - form: hórmon
+      class: n
+      field: The land in keeping
+      gloss: "opinion"
+      source: {kind: coined}
+
+    - form: kérnon
+      class: n
+      field: The house and the street
+      gloss: "crown"
+      source: {kind: coined}
+
+    - form: gurnand
+      class: n
+      field: The land in keeping
+      gloss: "drover"
+      source: {kind: coined}
+
+    - form: fundris
+      class: n
+      field: The land in keeping
+      gloss: "step"
+      source: {kind: coined}
+
+    - form: sémand
+      class: n
+      field: Craft and the workshop
+      gloss: "scribe"
+      source: {kind: coined}
+
+    - form: séimathen
+      class: v
+      field: Doing, going and being
+      gloss: "write"
+      source: {kind: coined}
+
+    - form: séimon
+      class: n
+      field: Craft and the workshop
+      gloss: "writing"
+      source: {kind: coined}
+
+    - form: tárnon
+      class: n
+      field: Craft and the workshop
+      gloss: "grain (actualgurnis=testiclekeptunchanged)"
+      source: {kind: coined}
+
+    - form: nézorthis
+      class: n
+      field: Craft and the workshop
+      gloss: "tribute"
+      source: {kind: coined}
+
+    - form: mirlard
+      class: n
+      field: The land in keeping
+      gloss: "town"
+      source: {kind: coined}
+
+    - form: thérhand
+      class: n
+      field: The land in keeping
+      gloss: "governor"
+      source: {kind: coined}
+
+    - form: thélkela
+      class: n
+      field: The house and the street
+      gloss: "bier"
+      source: {kind: coined}
+
+    - form: dárnathen
+      class: v
+      field: Doing, going and being
+      gloss: "trample"
+      source: {kind: coined}
+
+    - form: Rúndomris
+      class: epithet
+      field: Numbers and grammar words
+      gloss: "Bell-Wether"
+      source: {kind: coined}
+
+    - form: míelnis
+      class: n
+      field: The house and the street
+      gloss: "joke"
+      source: {kind: coined}
+
+    - form: lórthen
+      class: n
+      field: The house and the street
+      gloss: "walking stick"
+      source: {kind: coined}
+
+    - form: hórmel
+      class: n
+      field: The body and the dead
+      gloss: "helmet"
+      source: {kind: coined}
+
+    - form: rusthar
+      class: adj
+      field: Qualities
+      gloss: "rusted"
+      source: {kind: coined}
+
+    - form: pálthar
+      class: adj
+      field: Qualities
+      gloss: "folded"
+      source: {kind: coined}
+
+    - form: rugar
+      class: adj
+      field: Qualities
+      gloss: "rotted"
+      source: {kind: coined}
+
+    - form: ránelon
+      class: n
+      field: The land in keeping
+      gloss: "rear region; front/backusages useexistingrith+locationnoun, notnewcases/prepositions"
+      source: {kind: coined}
+
+    - form: ríenar
+      class: adj
+      field: Qualities
+      gloss: "same, identical"
+      source: {kind: coined}
+
+    - form: ruskathen
+      class: v
+      field: Doing, going and being
+      gloss: "injure or harm"
+      source: {kind: coined}
+
+    - form: Gélnand
+      class: n
+      field: The bard and the word
+      gloss: "student or candidate"
+      source: {kind: coined}
+
+    - form: Kérnalon
+      class: n
+      field: The bard and the word
+      gloss: "the Asking, ritualactofasking"
+      source: {kind: coined}
+
+    - form: láethathen
+      class: v
+      field: Doing, going and being
+      gloss: "invite"
+      source: {kind: coined}
+
+    - form: kérnis
+      class: n
+      field: The bard and the word
+      gloss: "question"
+      source: {kind: coined}
+
+    - form: shéirthar
+      class: adj
+      field: Qualities
+      gloss: "repaired"
+      source: {kind: coined}
+
+    - form: ólken
+      class: n
+      field: The hall and the guest
+      gloss: "fox"
+      source: {kind: coined}
+
+    - form: pirnal
+      class: n
+      field: The bard and the word
+      gloss: "harp"
+      source: {kind: coined}
+
+    - form: sárgar
+      class: adj
+      field: Qualities
+      gloss: "known"
+      source: {kind: coined}
+
+    - form: ansárgar
+      class: adj
+      field: Qualities
+      gloss: "unknown"
+      source: {kind: coined}
+
+    - form: ríelathen
+      class: v
+      field: Doing, going and being
+      gloss: "tune a harp"
+      source: {kind: coined}
+
+    - form: anríelar
+      class: adj
+      field: Qualities
+      gloss: "untuned"
+      source: {kind: coined}
+
+    - form: talar
+      class: adj
+      field: Qualities
+      gloss: "plain"
+      source: {kind: coined}
+
+    - form: gársar
+      class: adj
+      field: Qualities
+      gloss: "made"
+      source: {kind: coined}
+
+    - form: saenon
+      class: n
+      field: The hall and the guest
+      gloss: "proof ofdescent"
+      source: {kind: coined}
+
+    - form: Thílandand
+      class: n
+      field: The hall and the guest
+      gloss: "Archivist"
+      source: {kind: coined}
+
+    - form: déisnon
+      class: n
+      field: The hall and the guest
+      gloss: "payment"
+      source: {kind: coined}
+
+    - form: sáernathen
+      class: v
+      field: Doing, going and being
+      gloss: "heal"
+      source: {kind: coined}
+
+    - form: thílathen
+      class: v
+      field: Doing, going and being
+      gloss: "draw a blade"
+      source: {kind: coined}
+
+    - form: soldand
+      class: n
+      field: The hall and the guest
+      gloss: "scold"
+      source: {kind: coined}
+
+    - form: greilmon
+      class: n
+      field: The hall and the guest
+      gloss: "weapon"
+      source: {kind: coined}
+
+    - form: thénnar
+      class: adj
+      field: Qualities
+      gloss: "exact"
+      source: {kind: coined}
+
+    - form: nóurar
+      class: adj
+      field: Qualities
+      gloss: "displayed"
+      source: {kind: coined}
+
+    - form: geindalon
+      class: n
+      field: The hall and the guest
+      gloss: "power"
+      source: {kind: coined}
+
+    - form: kérnar
+      class: adj
+      field: Qualities
+      gloss: "requested"
+      source: {kind: coined}
+
+    - form: hanar
+      class: adj
+      field: Qualities
+      gloss: "praised"
+      source: {kind: coined}
+
+    - form: leithonis
+      class: n
+      field: The house and the old blood
+      gloss: "speaking"
+      source: {kind: coined}
+
+    - form: gélnon
+      class: n
+      field: The hall and the guest
+      gloss: "study"
+      source: {kind: coined}
+
+    - form: ilnar
+      class: adj
+      field: Qualities
+      gloss: "desired"
+      source: {kind: coined}
+
+    - form: gélgan
+      class: n
+      field: The hall and the guest
+      gloss: "loss"
+      source: {kind: coined}
+
+    - form: úldand
+      class: n
+      field: The hall and the guest
+      gloss: "guide"
+      source: {kind: coined}
+
+    - form: geindathar
+      class: adj
+      field: Qualities
+      gloss: "able tobear orperform"
+      source: {kind: coined}
+
+    - form: targonar
+      class: adj
+      field: Qualities
+      gloss: "due"
+      source: {kind: coined}
+
+    - form: leveson
+      class: n
+      field: The hall and the guest
+      gloss: "utterance"
+      source: {kind: coined}
+
+    - form: zúndel
+      class: n
+      field: The hall and the guest
+      gloss: "latch"
+      source: {kind: coined}
+
+    - form: delnon
+      class: n
+      field: The hall and the guest
+      gloss: "doorcatch"
+      source: {kind: coined}
+
+    - form: salverth
+      class: n
+      field: The wood and its weather
+      gloss: "tree line"
+      source: {kind: coined}
+
+    - form: auran
+      class: n
+      field: The house and the old blood
+      gloss: "king"
+      source: {kind: coined}
+
+    - form: táldon
+      class: n
+      field: The land in keeping
+      gloss: "stopping place"
+      source: {kind: coined}
+
+    - form: thílsel
+      class: n
+      field: The bard and the word
+      gloss: "page"
+      source: {kind: coined}
+
+    - form: giethon
+      class: n
+      field: The bard and the word
+      gloss: "foot orlowerpart ofapage"
+      source: {kind: coined}
+
+    - form: móuren
+      class: adv
+      field: Numbers and grammar words
+      gloss: "early"
+      source: {kind: coined}
+
   names:
     pattern: "{given} {clan}"
     given:
