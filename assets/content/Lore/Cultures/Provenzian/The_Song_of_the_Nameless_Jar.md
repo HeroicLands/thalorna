@@ -29,76 +29,265 @@ The poem is rhymed ABAB.
 
 : The Song of the Nameless Jar {#song}
 
-```verse {form=satire lang=en}
-Here is a jar of the finest fruit in the land,
-the gold of it, the weight, the honeyed skin;
-a house of standing keeps one near at hand
-to show the guest what kind of house he's in.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+```verse {form=satire lang=en cols=2}
+1 [De ez tolkemon ol dajimmon lurima ir joreza.]{.nativefont lang=prov}
+2 [Here is a jar of the land’s finest fruit,]{lang=en}
+2 [De ez tolkemon ol dajimmon lurima ir joreza.]{lang=prov}
 
-Look at the seal: the yard that put it by,
-the factor's mark, the year, the weight, the price.
-It does not name the field. And why ask why?
-A courteous man does not ask questions twice.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [Elteze ol dena. Solkimo. Letrima talv melvora. Dumvar okete.]{.nativefont lang=prov}
+2 [its gold, its weight, its honeyed skin. The guest sees it.]{lang=en}
+2 [Elteze ol dena. Solkimo. Letrima talv melvora. Dumvar okete.]{lang=prov}
 
-Ask any factor of the yields. He'll say
-the weight per tree, how early the fruit will set,
-how the blossom held the spring the frost took away
-the next field's blossom. Which field? He'll forget.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [Dumva ol zirotal taurate urkis. Pral dechaze. Lurimeza.]{.nativefont lang=prov}
+2 [A house of standing keeps one near the hand, this conserve,]{lang=en}
+2 [Dumva ol zirotal taurate urkis. Pral dechaze. Lurimeza.]{lang=prov}
 
-The tenants farm it well. They did not choose it.
-Their fathers left it to them with the plough.
-And who that held a field like that would lose it,
-the best ground in the barony? Would you? Not now.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [Ta dumvar chesdate laten ol dumva. Dene okete.]{.nativefont lang=prov}
+2 [so a guest knows the kind of house. He sees it.]{lang=en}
+2 [Ta dumvar chesdate laten ol dumva. Dene okete.]{lang=prov}
 
-Twice the [[affiliation-selmoros|Silent Judge]]'s priest came up the vale
-to offer them the rite, and place the dead,
-and twice they thanked him, and they poured him pale
-wine of the west, and twice they shook their head.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
 
-For who can tell, if the dead were placed and gone,
-whether the trees would bear the way they bore?
-It may be the dead are what the fruit grows on.
-The district cannot pay to find out more.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
 
-The hardest workers in the barony
-lie under the trees and draw no wage, no bread;
-no patron fetched them home; no priest's decree
-has placed them; and they pay the rent instead.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+***
 
-I ate it in a great house at the feast
-and asked my host, the way a stranger might,
-what ground could grow it. He was not the least
-put out. He said: The west has a kind light.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [Cho silvate tizaro. Tevare ol kerandon. Tizaro ol joreza.]{.nativefont lang=prov}
+2 [Look at the seal, the yard that stores it.]{lang=en}
+2 [Cho silvate tizaro. Tevare ol kerandon. Tizaro ol joreza.]{lang=prov}
 
-That was the spring. It is the Harvest now.
-I sing in the square and not at a great man's board.
-I was indulged one evening, and somehow
-was not asked back. Nobody said a word.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [Tumisa ol cholsare. Tarnela. Solkimo. Verdavis. Cho okete.]{.nativefont lang=prov}
+2 [The factor’s mark, year, weight, price. Look.]{lang=en}
+2 [Tumisa ol cholsare. Tarnela. Solkimo. Verdavis. Cho okete.]{lang=prov}
 
-They bring the best jar to the Bountiful One
-at the Harvest, gold on gold, and she is pleased.
-The Silent Judge gets the fruit gone soft and done,
-which is his due. The rest of his due is leased.
-    Where did it grow? That isn't asked at table.
-    Pass the jar, and praise it while you're able.
+1 [Dena ar demate arlen ol poltamis. Eza oleti ketis. Lurimeza.]{.nativefont lang=prov}
+2 [It gives no field’s name. Why ask why? Fruit conserve.]{lang=en}
+2 [Dena ar demate arlen ol poltamis. Eza oleti ketis. Lurimeza.]{lang=prov}
+
+1 [Vereze ol tennairsa ar petate tavemer kanel. Dene memrate.]{.nativefont lang=prov}
+2 [A courteous person asks nothing twice. He remembers.]{lang=en}
+2 [Vereze ol tennairsa ar petate tavemer kanel. Dene memrate.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Cho petate veretis cholsare fa cholzamon. De ez saunarine ol lurimeza.]{.nativefont lang=prov}
+2 [Ask any factor the yield. He knows this conserve’s saying:]{lang=en}
+2 [Cho petate veretis cholsare fa cholzamon. De ez saunarine ol lurimeza.]{lang=prov}
+
+1 [Solkimo ol urzele kaldere. Pral kanel ol olimandon ol lurima. Dene narthen.]{.nativefont lang=prov}
+2 [weight of each tree, the early coming of fruit. He tells it.]{lang=en}
+2 [Solkimo ol urzele kaldere. Pral kanel ol olimandon ol lurima. Dene narthen.]{lang=prov}
+
+1 [Lizela dorate ir kanel ol nuralon. Keldore kurete lizela ol alete poltamis. Lurimeza.]{.nativefont lang=prov}
+2 [Flowers keep through spring when frost takes the next field’s blossom.]{lang=en}
+2 [Lizela dorate ir kanel ol nuralon. Keldore kurete lizela ol alete poltamis. Lurimeza.]{lang=prov}
+
+1 [Eza kete poltamis. Dene anmemrate. Dene ar narthen.]{.nativefont lang=prov}
+2 [Which field? He forgets. He does not tell.]{lang=en}
+2 [Eza kete poltamis. Dene anmemrate. Dene ar narthen.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Polte tavate daje palmeza ol poltamis. Denoi ar tavemkurete.]{.nativefont lang=prov}
+2 [Tenants work the field well. They never choose it.]{lang=en}
+2 [Polte tavate daje palmeza ol poltamis. Denoi ar tavemkurete.]{lang=prov}
+
+1 [Elte ol denoi linkate dena fir denoi talv jormel. Denoi taurate.]{.nativefont lang=prov}
+2 [Their fathers leave it with a plough. They keep it.]{lang=en}
+2 [Elte ol denoi linkate dena fir denoi talv jormel. Denoi taurate.]{lang=prov}
+
+1 [Eza vereze kerate rozele poltamis ul avrenate analvete. Denoi ar linkate.]{.nativefont lang=prov}
+2 [Who holds such a field and intends to lose it? They never leave,]{lang=en}
+2 [Eza vereze kerate rozele poltamis ul avrenate analvete. Denoi ar linkate.]{lang=prov}
+
+1 [Dajimmon joreza ir baranela. Eza cho linkate. Ar denkanai. Cho taurate.]{.nativefont lang=prov}
+2 [the barony’s best earth. Do you leave it? Not now. You keep it.]{lang=en}
+2 [Dajimmon joreza ir baranela. Eza cho linkate. Ar denkanai. Cho taurate.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Tavemer kanel sarcheande ol Anklame Nasde lokate ir nebralis. Dene lokate.]{.nativefont lang=prov}
+2 [Twice the [[affiliation-selmoros|Silent Judge]]’s priest comes up the valley.]{lang=en}
+2 [Tavemer kanel sarcheande ol Anklame Nasde lokate ir nebralis. Dene lokate.]{lang=prov}
+
+1 [Dene pubrate ulteza. Dene zirotate cholvaze. Denoi memrate orfenon.]{.nativefont lang=prov}
+2 [He offers the rite, places the dead. They give thanks.]{lang=en}
+2 [Dene pubrate ulteza. Dene zirotate cholvaze. Denoi memrate orfenon.]{lang=prov}
+
+1 [Tavemer kanel denoi memrate orfenon. Iltele jentize ol nembkorvatis denoi sulmate.]{.nativefont lang=prov}
+2 [Twice they thank him, pour pale western wine,]{lang=en}
+2 [Tavemer kanel denoi memrate orfenon. Iltele jentize ol nembkorvatis denoi sulmate.]{lang=prov}
+
+1 [Tavemer kanel denoi sedate tolveze. Ar ez. Ar frenzandon.]{.nativefont lang=prov}
+2 [twice move their heads. No. No payment.]{lang=en}
+2 [Tavemer kanel denoi sedate tolveze. Ar ez. Ar frenzandon.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Eza kedis chesdate. Zai cholvaze ez zirote ul tigate.]{.nativefont lang=prov}
+2 [Who knows? If the dead are placed and leave,]{lang=en}
+2 [Eza kedis chesdate. Zai cholvaze ez zirote ul tigate.]{lang=prov}
+
+1 [Zai kaldere kerate rozele cholzamon ves dena ar kerate. De ez solten ol petandon.]{.nativefont lang=prov}
+2 [do trees give the same yield, or not? That is the question.]{lang=en}
+2 [Zai kaldere kerate rozele cholzamon ves dena ar kerate. De ez solten ol petandon.]{lang=prov}
+
+1 [Denon zikai dunate tambirete. Cholvaze ez joreza ol nurate.]{.nativefont lang=prov}
+2 [It might happen: dead people are the earth for growing.]{lang=en}
+2 [Denon zikai dunate tambirete. Cholvaze ez joreza ol nurate.]{lang=prov}
+
+1 [Sorela ar dunate frenzate chesdande mazeron.]{.nativefont lang=prov}
+2 [The district cannot pay for further knowledge.]{lang=en}
+2 [Sorela ar dunate frenzate chesdande mazeron.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Smirote ol dajimmon palmeza ir baranela nalete.]{.nativefont lang=prov}
+2 [The barony’s hardest workers lie]{lang=en}
+2 [Smirote ol dajimmon palmeza ir baranela nalete.]{lang=prov}
+
+1 [Zel kaldere. Ar valemza. Ar karvela. Ar daimela amrete.]{.nativefont lang=prov}
+2 [beneath trees. No wage. No bread. No patron brings]{lang=en}
+2 [Zel kaldere. Ar valemza. Ar karvela. Ar daimela amrete.]{lang=prov}
+
+1 [Denoi ar antigate fir dumva. Ar ulteza ol sarcheande zirotate.]{.nativefont lang=prov}
+2 [them home. No priest’s rite places them.]{lang=en}
+2 [Denoi ar antigate fir dumva. Ar ulteza ol sarcheande zirotate.]{lang=prov}
+
+1 [Denoi frenzate poltusal aletai. Denoi frenzate.]{.nativefont lang=prov}
+2 [They pay the rent instead. They pay.]{lang=en}
+2 [Denoi frenzate poltusal aletai. Denoi frenzate.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Jo pazate dena ir telvaral ir lordeme. Jo petate.]{.nativefont lang=prov}
+2 [I eat it at a great house’s festival and ask]{lang=en}
+2 [Jo pazate dena ir telvaral ir lordeme. Jo petate.]{lang=prov}
+
+1 [Aldete ol jo. Sa anchesde dunate. Jo petate petandon.]{.nativefont lang=prov}
+2 [my host, as a stranger can. I ask the question:]{lang=en}
+2 [Aldete ol jo. Sa anchesde dunate. Jo petate petandon.]{lang=prov}
+
+1 [Eza kete joreza dunate nurate dena. Dene ar zarvete antambeza. Dene dokate.]{.nativefont lang=prov}
+2 [What earth grows it? He feels no regret. He says:]{lang=en}
+2 [Eza kete joreza dunate nurate dena. Dene ar zarvete antambeza. Dene dokate.]{lang=prov}
+
+1 [Nembkorvatis kerate daje aulira. De ez petremon.]{.nativefont lang=prov}
+2 [The west has kindly light. That is the answer.]{lang=en}
+2 [Nembkorvatis kerate daje aulira. De ez petremon.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [At ez nuralon. De ez cholsama. Jo sorimate.]{.nativefont lang=prov}
+2 [That is spring. This is harvest. I sing]{lang=en}
+2 [At ez nuralon. De ez cholsama. Jo sorimate.]{lang=prov}
+
+1 [Ir rembalis. Ar ir morvalis ol daimela. Jo kerate ellevirsa urkis iltela.]{.nativefont lang=prov}
+2 [in the square, not at a patron’s table. I have welcome one evening.]{lang=en}
+2 [Ir rembalis. Ar ir morvalis ol daimela. Jo kerate ellevirsa urkis iltela.]{lang=prov}
+
+1 [Sa etris laton tambirete. Denoi ar klamete jo antigai. Arurkis dokate.]{.nativefont lang=prov}
+2 [Somehow something happens. Nobody calls me back. Nobody speaks.]{lang=en}
+2 [Sa etris laton tambirete. Denoi ar klamete jo antigai. Arurkis dokate.]{lang=prov}
+
+1 [Arurkis demate zenoton. Ar petremon ol iltela.]{.nativefont lang=prov}
+2 [Nobody gives the reason. No answer about the evening.]{lang=en}
+2 [Arurkis demate zenoton. Ar petremon ol iltela.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
+***
+
+1 [Denoi amrete dajimmon tolkemon fir Zolmedare. Dena okete.]{.nativefont lang=prov}
+2 [They bring the finest jar to the Bountiful One. She sees]{lang=en}
+2 [Denoi amrete dajimmon tolkemon fir Zolmedare. Dena okete.]{lang=prov}
+
+1 [Ir cholsama. Elteze us elteze. Dena taurate jaleza.]{.nativefont lang=prov}
+2 [at harvest, gold over gold. She feels joy.]{lang=en}
+2 [Ir cholsama. Elteze us elteze. Dena taurate jaleza.]{lang=prov}
+
+1 [Denoi demate lomere zermete lurima fir Anklame Nasde. Dene kurete.]{.nativefont lang=prov}
+2 [They give soft overripe fruit to the Silent Judge. He takes it.]{lang=en}
+2 [Denoi demate lomere zermete lurima fir Anklame Nasde. Dene kurete.]{lang=prov}
+
+1 [De ez orfenon fir dene. Denoi laskate alete orfenon ol dene. Lurimeza.]{.nativefont lang=prov}
+2 [This is his due. They lease his other due: fruit conserve.]{lang=en}
+2 [De ez orfenon fir dene. Denoi laskate alete orfenon ol dene. Lurimeza.]{lang=prov}
+
+1 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{.nativefont lang=prov}
+2 [..Where does it grow? No question for the table.]{lang=en}
+2 [..Eza dena nurate ir kete sedon. Denon ar petandon ir morvalis.]{lang=prov}
+
+1 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{.nativefont lang=prov}
+2 [..Pass the jar. Praise it while you can, at table.]{lang=en}
+2 [..Cho demate tolkemon. Cho velirate dena ker cho dunate. Ir morvalis.]{lang=prov}
+
 ```
 
 ## See Also
