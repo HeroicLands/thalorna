@@ -1,6 +1,6 @@
 ---
 shortcode: vedyarlng
-name: {full: Vedyari Language, aliases: []}
+name: { full: Vedyari Language, aliases: [] }
 type: skill
 subType: language
 description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
@@ -93,26 +93,26 @@ data:
       gloss: "one who works it, or a thing of it"
       attaches: "added"
       examples: ["lipu > lepika"]
-    - {form: "-ni", gloss: "the leader of it", attaches: "added", examples: ["senta > senoni"]}
-    - {form: "-da", gloss: "that gives it", attaches: "added", examples: ["sartu > sarveda"]}
+    - { form: "-ni", gloss: "the leader of it", attaches: "added", examples: ["senta > senoni"] }
+    - { form: "-da", gloss: "that gives it", attaches: "added", examples: ["sartu > sarveda"] }
     - form: "-s"
       gloss: "more than one, as these pages write the plural"
       attaches: "added"
       examples: ["svapnadeva > svapnadevas"]
-    - {form: -i, gloss: a woman's name only, kind: name, given: woman}
-    - {form: -ika, gloss: a woman's name only, kind: name, given: woman}
-    - {form: -ika, gloss: a woman's name only, kind: name, given: woman}
-    - {form: -a, gloss: a woman's name only, kind: name, given: woman}
-    - {form: -a, gloss: the names of both men and women, kind: name, given: either}
-    - {form: -i, gloss: the names of both men and women, kind: name, given: either}
-    - {form: -n, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -r, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -t, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -k, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -s, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -l, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -m, gloss: "the names of both, a man's more often", kind: name, given: either}
-    - {form: -d, gloss: "the names of both, a man's more often", kind: name, given: either}
+    - { form: -i, gloss: a woman's name only, kind: name, given: woman }
+    - { form: -ika, gloss: a woman's name only, kind: name, given: woman }
+    - { form: -ika, gloss: a woman's name only, kind: name, given: woman }
+    - { form: -a, gloss: a woman's name only, kind: name, given: woman }
+    - { form: -a, gloss: the names of both men and women, kind: name, given: either }
+    - { form: -i, gloss: the names of both men and women, kind: name, given: either }
+    - { form: -n, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -r, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -t, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -k, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -s, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -l, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -m, gloss: "the names of both, a man's more often", kind: name, given: either }
+    - { form: -d, gloss: "the names of both, a man's more often", kind: name, given: either }
   words:
     - form: surta
       class: n
@@ -166,7 +166,7 @@ data:
       field: Sun, moon, sky and the reckoning of time
       gloss: a flower; the flowering
       concept: flower
-    - {form: purku, class: adj, field: "Sun, moon, sky and the reckoning of time", gloss: "full"}
+    - { form: purku, class: adj, field: "Sun, moon, sky and the reckoning of time", gloss: "full" }
     - form: dipra
       class: adj
       field: "Sun, moon, sky and the reckoning of time"
@@ -329,14 +329,20 @@ data:
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "the deep water; an ocean of anything"
-    - {form: nadri, class: n, field: "Water, rain and the monsoon", gloss: a river, concept: river}
+    - {
+        form: nadri,
+        class: n,
+        field: "Water, rain and the monsoon",
+        gloss: a river,
+        concept: river,
+      }
     - form: derka
       class: n
       field: Water, rain and the monsoon
       gloss: a stream, a flow
       concept: stream
-    - {form: jalka, class: n, field: "Water, rain and the monsoon", gloss: water, concept: water}
-    - {form: kupra, class: "n", field: "Water, rain and the monsoon", gloss: "a well"}
+    - { form: jalka, class: n, field: "Water, rain and the monsoon", gloss: water, concept: water }
+    - { form: kupra, class: "n", field: "Water, rain and the monsoon", gloss: "a well" }
     - form: tirsa
       class: n
       field: Water, rain and the monsoon
@@ -369,8 +375,8 @@ data:
       field: Water, rain and the monsoon
       gloss: rain; the rains
       concept: rain
-    - {form: pavanda, class: n, field: "Water, rain and the monsoon", gloss: wind, concept: wind}
-    - {form: nau, class: "n", field: "Water, rain and the monsoon", gloss: "a boat"}
+    - { form: pavanda, class: n, field: "Water, rain and the monsoon", gloss: wind, concept: wind }
+    - { form: nau, class: "n", field: "Water, rain and the monsoon", gloss: "a boat" }
     - form: mahanau
       class: "n"
       field: "Water, rain and the monsoon"
@@ -384,7 +390,7 @@ data:
       class: "n"
       field: "Water, rain and the monsoon"
       gloss: "the broad one, said of a great river"
-    - {form: turta, class: "n", field: "Water, rain and the monsoon", gloss: "a flood"}
+    - { form: turta, class: "n", field: "Water, rain and the monsoon", gloss: "a flood" }
     - form: vandyakala
       class: "n"
       field: "Water, rain and the monsoon"
@@ -400,9 +406,9 @@ data:
       field: Water, rain and the monsoon
       gloss: thunder
       concept: thunder
-    - {form: oska, class: "n", field: "Water, rain and the monsoon", gloss: "the tide"}
-    - {form: kudra, class: "n", field: "Water, rain and the monsoon", gloss: "an island"}
-    - {form: faunsa, class: "n", field: "Water, rain and the monsoon", gloss: "a wave"}
+    - { form: oska, class: "n", field: "Water, rain and the monsoon", gloss: "the tide" }
+    - { form: kudra, class: "n", field: "Water, rain and the monsoon", gloss: "an island" }
+    - { form: faunsa, class: "n", field: "Water, rain and the monsoon", gloss: "a wave" }
     - form: himadara
       class: "n"
       field: "Water, rain and the monsoon"
@@ -572,45 +578,60 @@ data:
       field: Mountain, forest, field and the shapes of the land
       gloss: a wall
       concept: wall
-    - {form: suvorna, class: "n", field: "Stone, metal and treasure", gloss: "gold; a gold coin"}
-    - {form: kaneka, class: "n", field: "Stone, metal and treasure", gloss: "worked gold"}
+    - { form: suvorna, class: "n", field: "Stone, metal and treasure", gloss: "gold; a gold coin" }
+    - { form: kaneka, class: "n", field: "Stone, metal and treasure", gloss: "worked gold" }
     - form: hirenya
       class: "n"
       field: "Stone, metal and treasure"
       gloss: "gold, the bright metal"
-    - {form: tomra, class: "n", field: "Stone, metal and treasure", gloss: "copper; a copper coin"}
-    - {form: ratka, class: "n", field: "Stone, metal and treasure", gloss: "a jewel, a gem"}
-    - {form: shonkha, class: "n", field: "Stone, metal and treasure", gloss: "a conch, a shell"}
-    - {form: dorsa, class: "n", field: "Stone, metal and treasure", gloss: "iron"}
-    - {form: elsu, class: "n", field: "Stone, metal and treasure", gloss: "silver"}
-    - {form: ghonsa, class: "n", field: "Stone, metal and treasure", gloss: "bronze"}
-    - {form: shimra, class: "n", field: "Stone, metal and treasure", gloss: "salt"}
-    - {form: sikra, class: "n", field: "Stone, metal and treasure", gloss: "a pearl"}
-    - {form: oshka, class: "n", field: "Crops, beasts and growing things", gloss: "a horse"}
-    - {form: gho, class: "n", field: "Crops, beasts and growing things", gloss: "cattle, a cow"}
-    - {form: bresha, class: "n", field: "Crops, beasts and growing things", gloss: "a bull"}
-    - {form: vishona, class: "n", field: "Crops, beasts and growing things", gloss: "a horn"}
+    - {
+        form: tomra,
+        class: "n",
+        field: "Stone, metal and treasure",
+        gloss: "copper; a copper coin",
+      }
+    - { form: ratka, class: "n", field: "Stone, metal and treasure", gloss: "a jewel, a gem" }
+    - { form: shonkha, class: "n", field: "Stone, metal and treasure", gloss: "a conch, a shell" }
+    - { form: dorsa, class: "n", field: "Stone, metal and treasure", gloss: "iron" }
+    - { form: elsu, class: "n", field: "Stone, metal and treasure", gloss: "silver" }
+    - { form: ghonsa, class: "n", field: "Stone, metal and treasure", gloss: "bronze" }
+    - { form: shimra, class: "n", field: "Stone, metal and treasure", gloss: "salt" }
+    - { form: sikra, class: "n", field: "Stone, metal and treasure", gloss: "a pearl" }
+    - { form: oshka, class: "n", field: "Crops, beasts and growing things", gloss: "a horse" }
+    - { form: gho, class: "n", field: "Crops, beasts and growing things", gloss: "cattle, a cow" }
+    - { form: bresha, class: "n", field: "Crops, beasts and growing things", gloss: "a bull" }
+    - { form: vishona, class: "n", field: "Crops, beasts and growing things", gloss: "a horn" }
     - form: vyela
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "a serpent; any beast of prey"
-    - {form: gajta, class: "n", field: "Crops, beasts and growing things", gloss: "an elephant"}
+    - { form: gajta, class: "n", field: "Crops, beasts and growing things", gloss: "an elephant" }
     - form: madru
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "honey; sweetness"
-    - {form: gudra, class: "n", field: "Crops, beasts and growing things", gloss: "raw cane sugar"}
-    - {form: ikshva, class: "n", field: "Crops, beasts and growing things", gloss: "sugarcane"}
-    - {form: tilsa, class: "n", field: "Crops, beasts and growing things", gloss: "sesame"}
-    - {form: mashra, class: "n", field: "Crops, beasts and growing things", gloss: "a bean, pulse"}
+    - {
+        form: gudra,
+        class: "n",
+        field: "Crops, beasts and growing things",
+        gloss: "raw cane sugar",
+      }
+    - { form: ikshva, class: "n", field: "Crops, beasts and growing things", gloss: "sugarcane" }
+    - { form: tilsa, class: "n", field: "Crops, beasts and growing things", gloss: "sesame" }
+    - {
+        form: mashra,
+        class: "n",
+        field: "Crops, beasts and growing things",
+        gloss: "a bean, pulse",
+      }
     - form: brehi
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "rice in the ear"
-    - {form: shol, class: "n", field: "Crops, beasts and growing things", gloss: "paddy rice"}
-    - {form: danva, class: "n", field: "Crops, beasts and growing things", gloss: "grain"}
-    - {form: karpesa, class: "n", field: "Crops, beasts and growing things", gloss: "cotton"}
-    - {form: bonu, class: "n", field: "Crops, beasts and growing things", gloss: "bamboo"}
+    - { form: shol, class: "n", field: "Crops, beasts and growing things", gloss: "paddy rice" }
+    - { form: danva, class: "n", field: "Crops, beasts and growing things", gloss: "grain" }
+    - { form: karpesa, class: "n", field: "Crops, beasts and growing things", gloss: "cotton" }
+    - { form: bonu, class: "n", field: "Crops, beasts and growing things", gloss: "bamboo" }
     - form: shirka
       class: "n"
       field: "Crops, beasts and growing things"
@@ -624,7 +645,7 @@ data:
       field: Crops, beasts and growing things
       gloss: green
       concept: green
-    - {form: podma, class: "n", field: "Crops, beasts and growing things", gloss: "a lotus"}
+    - { form: podma, class: "n", field: "Crops, beasts and growing things", gloss: "a lotus" }
     - form: ambeja
       class: "n"
       field: "Crops, beasts and growing things"
@@ -633,10 +654,10 @@ data:
       class: "n"
       field: "Crops, beasts and growing things"
       gloss: "a vine, a creeper"
-    - {form: ghaba, class: "n", field: "Crops, beasts and growing things", gloss: "a camel"}
-    - {form: fandra, class: "n", field: "Crops, beasts and growing things", gloss: "a rhinoceros"}
-    - {form: chorbha, class: "n", field: "Crops, beasts and growing things", gloss: "a tiger"}
-    - {form: bhurka, class: "n", field: "Crops, beasts and growing things", gloss: "a buffalo"}
+    - { form: ghaba, class: "n", field: "Crops, beasts and growing things", gloss: "a camel" }
+    - { form: fandra, class: "n", field: "Crops, beasts and growing things", gloss: "a rhinoceros" }
+    - { form: chorbha, class: "n", field: "Crops, beasts and growing things", gloss: "a tiger" }
+    - { form: bhurka, class: "n", field: "Crops, beasts and growing things", gloss: "a buffalo" }
     - form: tubi
       class: n
       field: Crops, beasts and growing things
@@ -666,12 +687,12 @@ data:
       class: "n"
       field: "Kin, household and the person"
       gloss: "a servant; one devoted to a god"
-    - {form: birda, class: "n", field: "Kin, household and the person", gloss: "a hero"}
+    - { form: birda, class: "n", field: "Kin, household and the person", gloss: "a hero" }
     - form: angha
       class: "n"
       field: "Kin, household and the person"
       gloss: "a limb; the body; a body a god takes"
-    - {form: sundora, class: adj, field: "Kin, household and the person", gloss: "beautiful"}
+    - { form: sundora, class: adj, field: "Kin, household and the person", gloss: "beautiful" }
     - form: sundeli
       class: adj
       field: "Kin, household and the person"
@@ -682,15 +703,15 @@ data:
       field: Kin, household and the person
       gloss: young
       concept: young
-    - {form: anonda, class: n, field: "Kin, household and the person", gloss: joy, concept: joy}
+    - { form: anonda, class: n, field: "Kin, household and the person", gloss: joy, concept: joy }
     - form: horsha
       class: n
       field: Kin, household and the person
       gloss: delight
       concept: pleasure
-    - {form: kirta, class: "n", field: "Kin, household and the person", gloss: "fame, renown"}
-    - {form: porha, class: adj, field: "Kin, household and the person", gloss: "beyond; highest"}
-    - {form: mokhya, class: adj, field: "Kin, household and the person", gloss: "chief, foremost"}
+    - { form: kirta, class: "n", field: "Kin, household and the person", gloss: "fame, renown" }
+    - { form: porha, class: adj, field: "Kin, household and the person", gloss: "beyond; highest" }
+    - { form: mokhya, class: adj, field: "Kin, household and the person", gloss: "chief, foremost" }
     - form: bardena
       class: "n"
       field: "Kin, household and the person"
@@ -737,14 +758,14 @@ data:
       field: Kin, household and the person
       gloss: a household, the hearth and those who eat at it
       concept: family
-    - {form: nipra, class: "n", field: "Kin, household and the person", gloss: "a bride"}
-    - {form: vandra, class: "n", field: "Kin, household and the person", gloss: "a bridegroom"}
+    - { form: nipra, class: "n", field: "Kin, household and the person", gloss: "a bride" }
+    - { form: vandra, class: "n", field: "Kin, household and the person", gloss: "a bridegroom" }
     - form: lam
       class: n
       field: Kin, household and the person
       gloss: a child, an infant
       concept: child
-    - {form: hetka, class: "n", field: "Kin, household and the person", gloss: "an heir"}
+    - { form: hetka, class: "n", field: "Kin, household and the person", gloss: "an heir" }
     - form: nusha
       class: n
       field: Kin, household and the person
@@ -760,15 +781,27 @@ data:
       field: Kin, household and the person
       gloss: a guest
       concept: guest
-    - {form: kholu, class: "n", field: "Kin, household and the person", gloss: "the body"}
+    - { form: kholu, class: "n", field: "Kin, household and the person", gloss: "the body" }
     - form: daim
       class: n
       field: Kin, household and the person
       gloss: the heart
       concept: heart
-    - {form: pomba, class: n, field: "Kin, household and the person", gloss: a hand, concept: hand}
-    - {form: diku, class: n, field: "Kin, household and the person", gloss: an eye, concept: eye}
-    - {form: shoru, class: n, field: "Kin, household and the person", gloss: blood, concept: blood}
+    - {
+        form: pomba,
+        class: n,
+        field: "Kin, household and the person",
+        gloss: a hand,
+        concept: hand,
+      }
+    - { form: diku, class: n, field: "Kin, household and the person", gloss: an eye, concept: eye }
+    - {
+        form: shoru,
+        class: n,
+        field: "Kin, household and the person",
+        gloss: blood,
+        concept: blood,
+      }
     - form: tirma
       class: n
       field: Kin, household and the person
@@ -778,9 +811,9 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a station, the order a person is born to"
-    - {form: karmu, class: "n", field: "Station, rank and office", gloss: "work, labor"}
-    - {form: danha, class: n, field: "Station, rank and office", gloss: wealth, concept: wealth}
-    - {form: senta, class: "n", field: "Station, rank and office", gloss: "the host, an army"}
+    - { form: karmu, class: "n", field: "Station, rank and office", gloss: "work, labor" }
+    - { form: danha, class: n, field: "Station, rank and office", gloss: wealth, concept: wealth }
+    - { form: senta, class: "n", field: "Station, rank and office", gloss: "the host, an army" }
     - form: karmija
       class: "n"
       field: "Station, rank and office"
@@ -801,9 +834,9 @@ data:
       field: "Station, rank and office"
       gloss: "a Ritrija, one born to the rites"
       built: [ritru, "-ija"]
-    - {form: rajva, class: "n", field: "Station, rank and office", gloss: "a king"}
-    - {form: rojni, class: "n", field: "Station, rank and office", gloss: "a queen"}
-    - {form: mahva, class: adj, field: "Station, rank and office", gloss: great, concept: big}
+    - { form: rajva, class: "n", field: "Station, rank and office", gloss: "a king" }
+    - { form: rojni, class: "n", field: "Station, rank and office", gloss: "a queen" }
+    - { form: mahva, class: adj, field: "Station, rank and office", gloss: great, concept: big }
     - form: maharava
       class: "n"
       field: "Station, rank and office"
@@ -814,13 +847,13 @@ data:
       field: "Station, rank and office"
       gloss: "a crown prince"
       built: [yuvra, rajva]
-    - {form: palda, class: "n", field: "Station, rank and office", gloss: "a keeper, a protector"}
+    - { form: palda, class: "n", field: "Station, rank and office", gloss: "a keeper, a protector" }
     - form: pavi
       class: n
       field: Station, rank and office
       gloss: a lord, a master
       concept: master
-    - {form: natka, class: "n", field: "Station, rank and office", gloss: "a lord"}
+    - { form: natka, class: "n", field: "Station, rank and office", gloss: "a lord" }
     - form: ishvora
       class: n
       field: Station, rank and office
@@ -830,7 +863,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a chief; the foremost of a kind"
-    - {form: adyoksha, class: "n", field: "Station, rank and office", gloss: "an overseer"}
+    - { form: adyoksha, class: "n", field: "Station, rank and office", gloss: "an overseer" }
     - form: samonta
       class: "n"
       field: "Station, rank and office"
@@ -848,7 +881,7 @@ data:
       field: "Station, rank and office"
       gloss: "the presiding officer of a sabhra"
       built: [sabhra, pavi]
-    - {form: "sad-", class: v, field: "Station, rank and office", gloss: "sit"}
+    - { form: "sad-", class: v, field: "Station, rank and office", gloss: "sit" }
     - form: sangra
       class: "n"
       field: "Station, rank and office"
@@ -882,7 +915,7 @@ data:
       field: "Station, rank and office"
       gloss: "a forester"
       built: [vanta, palda]
-    - {form: koshra, class: "n", field: "Station, rank and office", gloss: "a treasury"}
+    - { form: koshra, class: "n", field: "Station, rank and office", gloss: "a treasury" }
     - form: koshadyoksha
       class: "n"
       field: "Station, rank and office"
@@ -892,7 +925,7 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a rod; the punishing power of a court"
-    - {form: "nay-", class: v, field: "Station, rank and office", gloss: "lead"}
+    - { form: "nay-", class: v, field: "Station, rank and office", gloss: "lead" }
     - form: nayeka
       class: n
       field: Station, rank and office
@@ -914,8 +947,8 @@ data:
       field: "Station, rank and office"
       gloss: "a captain"
       built: [senta, "-ni"]
-    - {form: dutsa, class: "n", field: "Station, rank and office", gloss: "an envoy"}
-    - {form: montra, class: "n", field: "Station, rank and office", gloss: "counsel"}
+    - { form: dutsa, class: "n", field: "Station, rank and office", gloss: "an envoy" }
+    - { form: montra, class: "n", field: "Station, rank and office", gloss: "counsel" }
     - form: montrin
       class: "n"
       field: "Station, rank and office"
@@ -945,7 +978,7 @@ data:
       field: "Station, rank and office"
       gloss: "a guild-chief; a great banker"
       built: [shroshta, "-in"]
-    - {form: kuva, class: "n", field: "Station, rank and office", gloss: "a doer, a maker"}
+    - { form: kuva, class: "n", field: "Station, rank and office", gloss: "a doer, a maker" }
     - form: karmakuva
       class: "n"
       field: "Station, rank and office"
@@ -972,22 +1005,22 @@ data:
       class: "n"
       field: "Station, rank and office"
       gloss: "a mark cut in the skin; the wrist-line"
-    - {form: kalsu, class: n, field: "Station, rank and office", gloss: the wrist, concept: wrist}
-    - {form: ghemba, class: "n", field: "Station, rank and office", gloss: "a brand"}
-    - {form: ombu, class: "n", field: "Station, rank and office", gloss: "a steward"}
-    - {form: devra, class: "n", field: "Gods, rites and the temple", gloss: "a god"}
+    - { form: kalsu, class: n, field: "Station, rank and office", gloss: the wrist, concept: wrist }
+    - { form: ghemba, class: "n", field: "Station, rank and office", gloss: "a brand" }
+    - { form: ombu, class: "n", field: "Station, rank and office", gloss: "a steward" }
+    - { form: devra, class: "n", field: "Gods, rites and the temple", gloss: "a god" }
     - form: devri
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a goddess"
       built: [devra, "-i"]
-    - {form: borna, class: "n", field: "Gods, rites and the temple", gloss: "hue, color"}
+    - { form: borna, class: "n", field: "Gods, rites and the temple", gloss: "hue, color" }
     - form: varnuka
       class: name
       field: "Gods, rites and the temple"
       gloss: "the Varnuka, the gods of Vedyara"
       built: [borna, "-ka"]
-    - {form: vreta, class: "n", field: "Gods, rites and the temple", gloss: "a vow"}
+    - { form: vreta, class: "n", field: "Gods, rites and the temple", gloss: "a vow" }
     - form: vretin
       class: "n"
       field: "Gods, rites and the temple"
@@ -998,7 +1031,7 @@ data:
       field: Gods, rites and the temple
       gloss: love, desire
       concept: desire
-    - {form: jayra, class: "n", field: "Gods, rites and the temple", gloss: "victory"}
+    - { form: jayra, class: "n", field: "Gods, rites and the temple", gloss: "victory" }
     - form: jnena
       class: n
       field: Gods, rites and the temple
@@ -1009,15 +1042,15 @@ data:
       field: Gods, rites and the temple
       gloss: fire, the flame
       concept: fire
-    - {form: bhosma, class: n, field: "Gods, rites and the temple", gloss: ash, concept: ash}
-    - {form: "dah-", class: v, field: "Gods, rites and the temple", gloss: "burn"}
+    - { form: bhosma, class: n, field: "Gods, rites and the temple", gloss: ash, concept: ash }
+    - { form: "dah-", class: v, field: "Gods, rites and the temple", gloss: "burn" }
     - form: dahona
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "the burning"
       built: ["dah-", "-ona"]
-    - {form: mulka, class: n, field: "Gods, rites and the temple", gloss: a root, concept: root}
-    - {form: "jval-", class: v, field: "Gods, rites and the temple", gloss: "blaze, kindle"}
+    - { form: mulka, class: n, field: "Gods, rites and the temple", gloss: a root, concept: root }
+    - { form: "jval-", class: v, field: "Gods, rites and the temple", gloss: "blaze, kindle" }
     - form: jvelita
       class: "n"
       field: "Gods, rites and the temple"
@@ -1029,7 +1062,13 @@ data:
       gloss: a lamp
       built: [jvel, -ka]
       concept: lamp
-    - {form: svopna, class: n, field: "Gods, rites and the temple", gloss: a dream, concept: dream}
+    - {
+        form: svopna,
+        class: n,
+        field: "Gods, rites and the temple",
+        gloss: a dream,
+        concept: dream,
+      }
     - form: nidva
       class: n
       field: Gods, rites and the temple
@@ -1045,30 +1084,30 @@ data:
       field: Gods, rites and the temple
       gloss: a follower
       concept: follower
-    - {form: tre, class: num, field: "Gods, rites and the temple", gloss: three, concept: three}
+    - { form: tre, class: num, field: "Gods, rites and the temple", gloss: three, concept: three }
     - form: sampradeya
       class: n
       field: Gods, rites and the temple
       gloss: a tradition, a school of the faith
       concept: tradition
-    - {form: vadsa, class: "n", field: "Gods, rites and the temple", gloss: "a doctrine"}
+    - { form: vadsa, class: "n", field: "Gods, rites and the temple", gloss: "a doctrine" }
     - form: achorya
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a master, a teacher of a school"
-    - {form: parema, class: adj, field: "Gods, rites and the temple", gloss: "supreme"}
+    - { form: parema, class: adj, field: "Gods, rites and the temple", gloss: "supreme" }
     - form: triyacharya
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a master of the three"
       built: [tre, achorya]
-    - {form: "darsh-", class: v, field: "Gods, rites and the temple", gloss: "see"}
+    - { form: "darsh-", class: v, field: "Gods, rites and the temple", gloss: "see" }
     - form: dorshaka
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a seer"
       built: ["darsh-", "-oka"]
-    - {form: "sev-", class: v, field: "Gods, rites and the temple", gloss: "serve"}
+    - { form: "sev-", class: v, field: "Gods, rites and the temple", gloss: "serve" }
     - form: seboka
       class: n
       field: Gods, rites and the temple
@@ -1080,19 +1119,19 @@ data:
       field: Gods, rites and the temple
       gloss: near, beside
       concept: [near, beside]
-    - {form: "vas-", class: v, field: "Gods, rites and the temple", gloss: "dwell"}
+    - { form: "vas-", class: v, field: "Gods, rites and the temple", gloss: "dwell" }
     - form: antevosin
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "one who dwells near, an acolyte"
       built: [anshe, "vas-", "-in"]
-    - {form: "upas-", class: v, field: "Gods, rites and the temple", gloss: "sit by, attend on"}
+    - { form: "upas-", class: v, field: "Gods, rites and the temple", gloss: "sit by, attend on" }
     - form: upasoka
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a lay devotee"
       built: ["upas-", "-oka"]
-    - {form: "usht-", class: v, field: "Gods, rites and the temple", gloss: "hold, keep"}
+    - { form: "usht-", class: v, field: "Gods, rites and the temple", gloss: "hold, keep" }
     - form: ushtaka
       class: "n"
       field: "Gods, rites and the temple"
@@ -1112,7 +1151,12 @@ data:
       field: "Gods, rites and the temple"
       gloss: "a king's teacher"
       built: [rajva, gorva]
-    - {form: prasoda, class: "n", field: "Gods, rites and the temple", gloss: "grace; an offering"}
+    - {
+        form: prasoda,
+        class: "n",
+        field: "Gods, rites and the temple",
+        gloss: "grace; an offering",
+      }
     - form: mahaprasoda
       class: "n"
       field: "Gods, rites and the temple"
@@ -1131,30 +1175,30 @@ data:
       field: "Gods, rites and the temple"
       gloss: "released, freed"
       built: ["muk-", "-ru"]
-    - {form: "muk-", class: v, field: "Gods, rites and the temple", gloss: "release, free"}
-    - {form: shonya, class: adj, field: "Gods, rites and the temple", gloss: "empty"}
+    - { form: "muk-", class: v, field: "Gods, rites and the temple", gloss: "release, free" }
+    - { form: shonya, class: adj, field: "Gods, rites and the temple", gloss: "empty" }
     - form: vahrati
       class: name
       field: "Gods, rites and the temple"
       gloss: "Vahrati, the Keeper of Decay"
-    - {form: deksha, class: "n", field: "Gods, rites and the temple", gloss: "an initiation"}
-    - {form: dorna, class: "n", field: "Gods, rites and the temple", gloss: "an altar"}
-    - {form: untara, class: "n", field: "Gods, rites and the temple", gloss: "a hymn"}
-    - {form: ombhala, class: "n", field: "Gods, rites and the temple", gloss: "a temple"}
-    - {form: foshu, class: "n", field: "Gods, rites and the temple", gloss: "incense"}
-    - {form: tirnu, class: "n", field: "Gods, rites and the temple", gloss: "a bell"}
-    - {form: avashi, class: "n", field: "Gods, rites and the temple", gloss: "a blessing"}
-    - {form: ghura, class: "n", field: "Gods, rites and the temple", gloss: "a curse"}
+    - { form: deksha, class: "n", field: "Gods, rites and the temple", gloss: "an initiation" }
+    - { form: dorna, class: "n", field: "Gods, rites and the temple", gloss: "an altar" }
+    - { form: untara, class: "n", field: "Gods, rites and the temple", gloss: "a hymn" }
+    - { form: ombhala, class: "n", field: "Gods, rites and the temple", gloss: "a temple" }
+    - { form: foshu, class: "n", field: "Gods, rites and the temple", gloss: "incense" }
+    - { form: tirnu, class: "n", field: "Gods, rites and the temple", gloss: "a bell" }
+    - { form: avashi, class: "n", field: "Gods, rites and the temple", gloss: "a blessing" }
+    - { form: ghura, class: "n", field: "Gods, rites and the temple", gloss: "a curse" }
     - form: margin
       class: "n"
       field: "Gods, rites and the temple"
       gloss: "a pilgrim"
       built: [margha, "-in"]
-    - {form: ghurda, class: "n", field: "Gods, rites and the temple", gloss: "a shrine"}
-    - {form: yashu, class: "n", field: "Gods, rites and the temple", gloss: "a rite"}
-    - {form: votra, class: adj, field: "Gods, rites and the temple", gloss: "sacred"}
-    - {form: jitra, class: "n", field: "Gods, rites and the temple", gloss: "a soul"}
-    - {form: lumbha, class: "n", field: "Death, the dead and the ancestors", gloss: "a corpse"}
+    - { form: ghurda, class: "n", field: "Gods, rites and the temple", gloss: "a shrine" }
+    - { form: yashu, class: "n", field: "Gods, rites and the temple", gloss: "a rite" }
+    - { form: votra, class: adj, field: "Gods, rites and the temple", gloss: "sacred" }
+    - { form: jitra, class: "n", field: "Gods, rites and the temple", gloss: "a soul" }
+    - { form: lumbha, class: "n", field: "Death, the dead and the ancestors", gloss: "a corpse" }
     - form: dahanashila
       class: "n"
       field: "Death, the dead and the ancestors"
@@ -1183,7 +1227,7 @@ data:
       field: Death, the dead and the ancestors
       gloss: a bone
       concept: bone
-    - {form: "daush-", class: v, field: "Death, the dead and the ancestors", gloss: "die"}
+    - { form: "daush-", class: v, field: "Death, the dead and the ancestors", gloss: "die" }
     - form: shorukshetra
       class: "n"
       field: "Death, the dead and the ancestors"
@@ -1194,35 +1238,35 @@ data:
       field: "Death, the dead and the ancestors"
       gloss: "a cursed field, a blood-field thin enough to kill"
       built: [ghura, shetka]
-    - {form: danur, class: "n", field: "War, arms and the host", gloss: "a bow"}
+    - { form: danur, class: "n", field: "War, arms and the host", gloss: "a bow" }
     - form: danurin
       class: "n"
       field: "War, arms and the host"
       gloss: "a bowman"
       built: [danur, "-in"]
-    - {form: ratsa, class: "n", field: "War, arms and the host", gloss: "a chariot"}
-    - {form: arhi, class: n, field: "War, arms and the host", gloss: a foe, concept: enemy}
+    - { form: ratsa, class: "n", field: "War, arms and the host", gloss: "a chariot" }
+    - { form: arhi, class: n, field: "War, arms and the host", gloss: a foe, concept: enemy }
     - form: vikroma
       class: n
       field: War, arms and the host
       gloss: valor, a stride
       concept: courage
-    - {form: ghal, class: "n", field: "War, arms and the host", gloss: "a sword"}
-    - {form: potka, class: "n", field: "War, arms and the host", gloss: "a spear"}
-    - {form: kavra, class: "n", field: "War, arms and the host", gloss: "a shield"}
-    - {form: toksha, class: "n", field: "War, arms and the host", gloss: "armor"}
-    - {form: "bhaund-", class: v, field: "War, arms and the host", gloss: "fight"}
+    - { form: ghal, class: "n", field: "War, arms and the host", gloss: "a sword" }
+    - { form: potka, class: "n", field: "War, arms and the host", gloss: "a spear" }
+    - { form: kavra, class: "n", field: "War, arms and the host", gloss: "a shield" }
+    - { form: toksha, class: "n", field: "War, arms and the host", gloss: "armor" }
+    - { form: "bhaund-", class: v, field: "War, arms and the host", gloss: "fight" }
     - form: bhaundana
       class: "n"
       field: "War, arms and the host"
       gloss: "a battle, the fighting"
       built: ["bhaund-", "-ona"]
-    - {form: petsa, class: "n", field: "War, arms and the host", gloss: "a wound"}
-    - {form: lantu, class: "n", field: "War, arms and the host", gloss: "a banner"}
-    - {form: ghom, class: "n", field: "War, arms and the host", gloss: "a drum"}
-    - {form: shilpra, class: "n", field: "Craft, trade and the counting-house", gloss: "a craft"}
-    - {form: shrena, class: "n", field: "Craft, trade and the counting-house", gloss: "a guild"}
-    - {form: adun, class: "n", field: "Craft, trade and the counting-house", gloss: "a taking"}
+    - { form: petsa, class: "n", field: "War, arms and the host", gloss: "a wound" }
+    - { form: lantu, class: "n", field: "War, arms and the host", gloss: "a banner" }
+    - { form: ghom, class: "n", field: "War, arms and the host", gloss: "a drum" }
+    - { form: shilpra, class: "n", field: "Craft, trade and the counting-house", gloss: "a craft" }
+    - { form: shrena, class: "n", field: "Craft, trade and the counting-house", gloss: "a guild" }
+    - { form: adun, class: "n", field: "Craft, trade and the counting-house", gloss: "a taking" }
     - form: vyapora
       class: n
       field: Craft, trade and the counting-house
@@ -1247,7 +1291,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "a reckoner"
       built: ["gan-", "-oka"]
-    - {form: okhra, class: "n", field: "Craft, trade and the counting-house", gloss: "a loom"}
+    - { form: okhra, class: "n", field: "Craft, trade and the counting-house", gloss: "a loom" }
     - form: okhraka
       class: "n"
       field: "Craft, trade and the counting-house"
@@ -1258,8 +1302,8 @@ data:
       field: Craft, trade and the counting-house
       gloss: cloth
       concept: cloth
-    - {form: lusha, class: "n", field: "Craft, trade and the counting-house", gloss: "silk"}
-    - {form: chorta, class: "n", field: "Craft, trade and the counting-house", gloss: "a dye"}
+    - { form: lusha, class: "n", field: "Craft, trade and the counting-house", gloss: "silk" }
+    - { form: chorta, class: "n", field: "Craft, trade and the counting-house", gloss: "a dye" }
     - form: sutka
       class: n
       field: Craft, trade and the counting-house
@@ -1284,8 +1328,8 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "a smith"
       built: [dorsa, "-ka"]
-    - {form: ghotra, class: "n", field: "Craft, trade and the counting-house", gloss: "a market"}
-    - {form: gennu, class: "n", field: "Craft, trade and the counting-house", gloss: "a ledger"}
+    - { form: ghotra, class: "n", field: "Craft, trade and the counting-house", gloss: "a market" }
+    - { form: gennu, class: "n", field: "Craft, trade and the counting-house", gloss: "a ledger" }
     - form: olgu
       class: n
       field: Craft, trade and the counting-house
@@ -1308,35 +1352,35 @@ data:
       class: "n"
       field: "Craft, trade and the counting-house"
       gloss: "a weight; the scale"
-    - {form: dumala, class: "n", field: "Craft, trade and the counting-house", gloss: "a caravan"}
-    - {form: dorma, class: n, field: "Duty, law and judgment", gloss: duty; the law, concept: law}
-    - {form: sotya, class: n, field: "Duty, law and judgment", gloss: truth, concept: truth}
-    - {form: orta, class: n, field: "Duty, law and judgment", gloss: honor, concept: honor}
-    - {form: mubha, class: n, field: "Duty, law and judgment", gloss: shame, concept: shame}
+    - { form: dumala, class: "n", field: "Craft, trade and the counting-house", gloss: "a caravan" }
+    - { form: dorma, class: n, field: "Duty, law and judgment", gloss: duty; the law, concept: law }
+    - { form: sotya, class: n, field: "Duty, law and judgment", gloss: truth, concept: truth }
+    - { form: orta, class: n, field: "Duty, law and judgment", gloss: honor, concept: honor }
+    - { form: mubha, class: n, field: "Duty, law and judgment", gloss: shame, concept: shame }
     - form: anvaru
       class: "n"
       field: "Duty, law and judgment"
       gloss: "an obligation, what is owed"
-    - {form: davra, class: "n", field: "Duty, law and judgment", gloss: "a court of judgment"}
+    - { form: davra, class: "n", field: "Duty, law and judgment", gloss: "a court of judgment" }
     - form: davraka
       class: "n"
       field: "Duty, law and judgment"
       gloss: "a judge"
       built: [davra, "-ka"]
-    - {form: vinsa, class: "n", field: "Duty, law and judgment", gloss: "a judgment"}
+    - { form: vinsa, class: "n", field: "Duty, law and judgment", gloss: "a judgment" }
     - form: darshin
       class: "n"
       field: "Duty, law and judgment"
       gloss: "a witness, one who saw"
       built: ["darsh-", "-in"]
-    - {form: kortu, class: "n", field: "Duty, law and judgment", gloss: "an oath"}
+    - { form: kortu, class: "n", field: "Duty, law and judgment", gloss: "an oath" }
     - form: vimbha
       class: n
       field: Duty, law and judgment
       gloss: forgiveness
       concept: forgiveness
-    - {form: saku, class: "n", field: "Duty, law and judgment", gloss: "a proof, a token carried"}
-    - {form: bosha, class: n, field: "Duty, law and judgment", gloss: a lie, concept: lie-noun}
+    - { form: saku, class: "n", field: "Duty, law and judgment", gloss: "a proof, a token carried" }
+    - { form: bosha, class: n, field: "Duty, law and judgment", gloss: a lie, concept: lie-noun }
     - form: lipu
       class: "n"
       field: "Speech, learning and the written word"
@@ -1350,12 +1394,12 @@ data:
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "a letter, a syllable"
-    - {form: vidsa, class: "n", field: "Speech, learning and the written word", gloss: "learning"}
+    - { form: vidsa, class: "n", field: "Speech, learning and the written word", gloss: "learning" }
     - form: bedra
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "lore, a body of knowledge"
-    - {form: smiriti, class: "n", field: "Speech, learning and the written word", gloss: "memory"}
+    - { form: smiriti, class: "n", field: "Speech, learning and the written word", gloss: "memory" }
     - form: bhora
       class: "n"
       field: "Speech, learning and the written word"
@@ -1368,9 +1412,14 @@ data:
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "a circle, a ring"
-    - {form: shaltu, class: "n", field: "Speech, learning and the written word", gloss: "a word"}
-    - {form: solma, class: "n", field: "Speech, learning and the written word", gloss: "a song"}
-    - {form: poksa, class: "n", field: "Speech, learning and the written word", gloss: "a couplet"}
+    - { form: shaltu, class: "n", field: "Speech, learning and the written word", gloss: "a word" }
+    - { form: solma, class: "n", field: "Speech, learning and the written word", gloss: "a song" }
+    - {
+        form: poksa,
+        class: "n",
+        field: "Speech, learning and the written word",
+        gloss: "a couplet",
+      }
     - form: rumbha
       class: "n"
       field: "Speech, learning and the written word"
@@ -1379,34 +1428,34 @@ data:
       class: "n"
       field: "Speech, learning and the written word"
       gloss: "a palm-leaf book"
-    - {form: "lamp-", class: v, field: "Speech, learning and the written word", gloss: "speak"}
-    - {form: "bhin-", class: v, field: "Speech, learning and the written word", gloss: "hear"}
+    - { form: "lamp-", class: v, field: "Speech, learning and the written word", gloss: "speak" }
+    - { form: "bhin-", class: v, field: "Speech, learning and the written word", gloss: "hear" }
     - form: niru
       class: n
       field: Speech, learning and the written word
       gloss: a student
       concept: student
-    - {form: "tar-", class: v, field: "Doing, going and being", gloss: "cross"}
+    - { form: "tar-", class: v, field: "Doing, going and being", gloss: "cross" }
     - form: torona
       class: "n"
       field: "Doing, going and being"
       gloss: "a crossing, a ford"
       built: ["tar-", "-ona"]
-    - {form: "pat-", class: v, field: "Doing, going and being", gloss: "fall"}
-    - {form: "chamb-", class: v, field: "Doing, going and being", gloss: "go"}
-    - {form: "hauv-", class: v, field: "Doing, going and being", gloss: "come"}
-    - {form: "pom-", class: v, field: "Doing, going and being", gloss: "give"}
-    - {form: "ghum-", class: v, field: "Doing, going and being", gloss: "eat"}
-    - {form: "orm-", class: v, field: "Doing, going and being", gloss: "live"}
-    - {form: aisu, class: num, field: Numbers and grammar words, gloss: one, concept: one}
-    - {form: birsa, class: num, field: Numbers and grammar words, gloss: two, concept: two}
-    - {form: sotra, class: num, field: Numbers and grammar words, gloss: four, concept: four}
-    - {form: kunsha, class: num, field: Numbers and grammar words, gloss: five, concept: five}
-    - {form: shauka, class: num, field: Numbers and grammar words, gloss: six, concept: six}
-    - {form: netu, class: num, field: Numbers and grammar words, gloss: seven, concept: seven}
-    - {form: daum, class: num, field: Numbers and grammar words, gloss: eight, concept: eight}
-    - {form: jaum, class: num, field: Numbers and grammar words, gloss: nine, concept: nine}
-    - {form: teska, class: num, field: Numbers and grammar words, gloss: ten, concept: ten}
+    - { form: "pat-", class: v, field: "Doing, going and being", gloss: "fall" }
+    - { form: "chamb-", class: v, field: "Doing, going and being", gloss: "go" }
+    - { form: "hauv-", class: v, field: "Doing, going and being", gloss: "come" }
+    - { form: "pom-", class: v, field: "Doing, going and being", gloss: "give" }
+    - { form: "ghum-", class: v, field: "Doing, going and being", gloss: "eat" }
+    - { form: "orm-", class: v, field: "Doing, going and being", gloss: "live" }
+    - { form: aisu, class: num, field: Numbers and grammar words, gloss: one, concept: one }
+    - { form: birsa, class: num, field: Numbers and grammar words, gloss: two, concept: two }
+    - { form: sotra, class: num, field: Numbers and grammar words, gloss: four, concept: four }
+    - { form: kunsha, class: num, field: Numbers and grammar words, gloss: five, concept: five }
+    - { form: shauka, class: num, field: Numbers and grammar words, gloss: six, concept: six }
+    - { form: netu, class: num, field: Numbers and grammar words, gloss: seven, concept: seven }
+    - { form: daum, class: num, field: Numbers and grammar words, gloss: eight, concept: eight }
+    - { form: jaum, class: num, field: Numbers and grammar words, gloss: nine, concept: nine }
+    - { form: teska, class: num, field: Numbers and grammar words, gloss: ten, concept: ten }
     - form: golsa
       class: num
       field: Numbers and grammar words
@@ -1427,16 +1476,22 @@ data:
       field: Numbers and grammar words
       gloss: all, every
       concept: [all, every]
-    - {form: mo, class: pron, field: Numbers and grammar words, gloss: I, concept: i}
-    - {form: nu, class: pron, field: Numbers and grammar words, gloss: you, concept: you-reference}
+    - { form: mo, class: pron, field: Numbers and grammar words, gloss: I, concept: i }
+    - {
+        form: nu,
+        class: pron,
+        field: Numbers and grammar words,
+        gloss: you,
+        concept: you-reference,
+      }
     - form: ve
       class: pron
       field: Numbers and grammar words
       gloss: he, she
       concept: [he, she]
-    - {form: mova, class: pron, field: Numbers and grammar words, gloss: we, concept: we}
-    - {form: ehu, class: pron, field: Numbers and grammar words, gloss: this, concept: this}
-    - {form: uhu, class: pron, field: Numbers and grammar words, gloss: that, concept: that}
+    - { form: mova, class: pron, field: Numbers and grammar words, gloss: we, concept: we }
+    - { form: ehu, class: pron, field: Numbers and grammar words, gloss: this, concept: this }
+    - { form: uhu, class: pron, field: Numbers and grammar words, gloss: that, concept: that }
     - form: jahu
       class: pron
       field: Numbers and grammar words
@@ -1452,4372 +1507,4372 @@ data:
       field: Numbers and grammar words
       gloss: after, following
       concept: [behind, after]
-    - {form: le, class: part, field: Numbers and grammar words, gloss: and, concept: and}
-    - {form: uvas, class: part, field: Numbers and grammar words, gloss: not, concept: not}
+    - { form: le, class: part, field: Numbers and grammar words, gloss: and, concept: and }
+    - { form: uvas, class: part, field: Numbers and grammar words, gloss: not, concept: not }
     - form: bhe
       class: part
       field: Numbers and grammar words
       gloss: in, at
       concept: [in, at]
-    - {form: ro, class: part, field: Numbers and grammar words, gloss: "of"}
-    - {form: shem, class: part, field: Numbers and grammar words, gloss: "with"}
+    - { form: ro, class: part, field: Numbers and grammar words, gloss: "of" }
+    - { form: shem, class: part, field: Numbers and grammar words, gloss: "with" }
     - form: darsika
       class: n
       field: Kin, household and the person
       gloss: a sight; a thing or scene seen
       concept: see-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bremu
       class: n
       field: Kin, household and the person
       gloss: a sound; noise, especially a disturbing sound
       concept: [hear-noun, noise]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: virmu
       class: n
       field: Kin, household and the person
       gloss: a smell; a scent
       concept: smell-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: talma
       class: n
       field: Kin, household and the person
       gloss: a taste; a flavour
       concept: taste-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: parku
       class: n
       field: Kin, household and the person
       gloss: a touch; an instance of bodily contact
       concept: touch-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dirmu
       class: n
       field: Kin, household and the person
       gloss: appearance; how someone or something looks
       concept: appearance
-      source: {kind: coined}
+      source: { kind: coined }
     - form: darsin
       class: adj
       field: Kin, household and the person
       gloss: visible; able to be seen
       concept: visible
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas darsin
       class: adj
       field: Kin, household and the person
       gloss: invisible; not visible
       concept: invisible
       built: [uvas, darsin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimrona
       class: n
       field: Kin, household and the person
       gloss: silence; absence of sound
       concept: silence
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bravu
       class: adj
       field: Kin, household and the person
       gloss: loud; producing a strong sound
       concept: loud
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimra
       class: adj
       field: Kin, household and the person
       gloss: quiet; making little sound
       concept: quiet
-      source: {kind: coined}
+      source: { kind: coined }
     - form: virma
       class: adj
       field: Kin, household and the person
       gloss: fragrant; having a pleasant scent
       concept: fragrant
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brota
       class: adj
       field: Kin, household and the person
       gloss: foul-smelling; having an unpleasant scent
       concept: foul
-      source: {kind: coined}
+      source: { kind: coined }
     - form: madrak
       class: adj
       field: Kin, household and the person
       gloss: sweet to the taste
       concept: sweet
-      source: {kind: coined}
+      source: { kind: coined }
     - form: telpa
       class: adj
       field: Kin, household and the person
       gloss: sour to the taste
       concept: sour
-      source: {kind: coined}
+      source: { kind: coined }
     - form: briska
       class: adj
       field: Kin, household and the person
       gloss: bitter to the taste
       concept: bitter
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shimrak
       class: adj
       field: Kin, household and the person
       gloss: salty to the taste
       concept: salty
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sarnu
       class: n
       field: Kin, household and the person
       gloss: a bodily sensation
       concept: sensation
-      source: {kind: coined}
+      source: { kind: coined }
     - form: trena
       class: adj
       field: Kin, household and the person
       gloss: smooth to the touch
       concept: smooth
-      source: {kind: coined}
+      source: { kind: coined }
     - form: krendu
       class: adj
       field: Kin, household and the person
       gloss: rough to the touch
       concept: rough
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nelka
       class: adj
       field: Kin, household and the person
       gloss: soft; yielding to touch
       concept: soft
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drenka
       class: adj
       field: Kin, household and the person
       gloss: hard to the touch; firm rather than soft
       concept: hard-texture
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahvatranka
       class: n
       field: Kin, household and the person
       gloss: wrath; intense anger
       concept: wrath
       built: [mahva, tranka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: krevna
       class: n
       field: Kin, household and the person
       gloss: envy; wanting another person's advantage or possessions
       concept: envy
-      source: {kind: coined}
+      source: { kind: coined }
     - form: prandu
       class: n
       field: Kin, household and the person
       gloss: hope; desire accompanied by expectation of a good outcome
       concept: hope
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drabha
       class: n
       field: Kin, household and the person
       gloss: greed; an excessive desire to acquire or possess
       concept: greed
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bardaravha
       class: n
       field: Kin, household and the person
       gloss: boasting; speech proclaiming one's own greatness
       concept: boasting
       built: [barda, ravha]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: barda
       class: n
       field: Kin, household and the person
       gloss: pride; a sense of one's own worth or achievement
       concept: pride
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kramu
       class: n
       field: Kin, household and the person
       gloss: lust; strong sexual desire
       concept: lust
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas prandu
       class: n
       field: Kin, household and the person
       gloss: despair; the loss of hope
       concept: despair
       built: [uvas, prandu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: prandubrak
       class: n
       field: Kin, household and the person
       gloss: disappointment; the letdown when hope is not met
       concept: disappointment
       built: [prandu, brak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrenu
       class: n
       field: Kin, household and the person
       gloss: faith; belief held without complete proof
       concept: faith
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sarnika
       class: n
       field: Kin, household and the person
       gloss: happiness; a broadly happy state of life or mind
       concept: happiness
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nishta
       class: n
       field: Kin, household and the person
       gloss: contentment; being at ease with what one has
       concept: contentment
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pratnu
       class: n
       field: Kin, household and the person
       gloss: gratitude; thankful regard for a benefit received
       concept: gratitude
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ortajnena
       class: n
       field: Kin, household and the person
       gloss: admiration; appreciative recognition of another's worth
       concept: admiration
       built: [orta, jnena]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vremu
       class: n
       field: Kin, household and the person
       gloss: trust; reliance on another's care, honesty or competence
       concept: trust
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tranka
       class: n
       field: Kin, household and the person
       gloss: anger
       concept: anger
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dranka
       class: n
       field: Kin, household and the person
       gloss: hatred; enduring intense dislike
       concept: hatred
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvabhaur
       class: n
       field: Kin, household and the person
       gloss: jealousy; fear or resentment of a rival in a valued relationship
       concept: jealousy
       built: [kamva, bhaur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaur
       class: n
       field: Kin, household and the person
       gloss: fear
       concept: fear
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahvabhaur
       class: n
       field: Kin, household and the person
       gloss: terror; overwhelming fear
       concept: terror
       built: [mahva, bhaur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sharva
       class: n
       field: Kin, household and the person
       gloss: sadness
       concept: sadness
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dormabrak
       class: n
       field: Kin, household and the person
       gloss: guilt; distress at one's own wrongdoing
       concept: guilt
       built: [dorma, brak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shardun
       class: n
       field: Kin, household and the person
       gloss: regret; sorrow over an action or missed opportunity
       concept: regret
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimbra
       class: n
       field: Kin, household and the person
       gloss: humility; modest regard for oneself
       concept: humility
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drinnu
       class: n
       field: Kin, household and the person
       gloss: confidence; assurance in one's ability or prospects
       concept: confidence
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mubhalet
       class: n
       field: Kin, household and the person
       gloss: embarrassment; awkward self-conscious discomfort
       concept: embarrassment
       built: [mubha, let]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shemsharva
       class: n
       field: Kin, household and the person
       gloss: compassion; concern for suffering with a wish to relieve it
       concept: compassion
       built: [shem, sharva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sharvajnena
       class: n
       field: Kin, household and the person
       gloss: pity; sorrow at another's suffering
       concept: pity
       built: [sharva, jnena]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shemashar
       class: n
       field: Kin, household and the person
       gloss: sympathy; sharing or understanding another's feeling
       concept: sympathy
-      source: {kind: coined}
+      source: { kind: coined }
     - form: trankanyur
       class: n
       field: Kin, household and the person
       gloss: resentment; anger that persists over an injury or slight
       concept: resentment
       built: [tranka, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ortabrak
       class: n
       field: Kin, household and the person
       gloss: contempt; regarding another as unworthy of respect
       concept: contempt
       built: [orta, brak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvanyur
       class: n
       field: Kin, household and the person
       gloss: longing; a sustained yearning for someone or something absent
       concept: longing
       built: [kamva, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: purkukamva
       class: n
       field: Kin, household and the person
       gloss: satisfaction; the feeling of having a desire fulfilled
       concept: satisfaction
       built: [purku, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvabrond
       class: n
       field: Kin, household and the person
       gloss: frustration; distress when a desire or purpose is blocked
       concept: frustration
       built: [kamva, brond]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jnenakamva
       class: n
       field: Kin, household and the person
       gloss: curiosity; desire to know or discover
       concept: curiosity
       built: [jnena, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jnenabrak
       class: n
       field: Kin, household and the person
       gloss: confusion; inability to make sense of something
       concept: confusion
       built: [jnena, brak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dvirnu
       class: n
       field: Kin, household and the person
       gloss: doubt; uncertainty about a claim or outcome
       concept: doubt
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyanyur
       class: n
       field: Kin, household and the person
       gloss: certainty; being convinced that something is true
       concept: certainty
       built: [sotya, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: chirtajnena
       class: n
       field: Kin, household and the person
       gloss: surprise; sudden unexpected awareness
       concept: surprise
       built: [chirta, jnena]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldabrond
       class: n
       field: Kin, household and the person
       gloss: boredom; restless lack of interest or engagement
       concept: boredom
       built: [kalda, brond]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anvajnena
       class: n
       field: Kin, household and the person
       gloss: anticipation; looking forward mentally to what follows
       concept: anticipation
       built: [anva, jnena]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyavrenu
       class: n
       field: Kin, household and the person
       gloss: belief; accepting a particular claim as true
       concept: belief
       built: [sotya, vrenu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahva orta
       class: n
       field: Kin, household and the person
       gloss: reverence; profound respect felt or shown toward someone or something
       concept: reverence
       built: [mahva, orta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahvadirmu
       class: n
       field: Kin, household and the person
       gloss: awe; wonder before something vast or impressive
       concept: awe
       built: [mahva, dirmu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nertakamva
       class: n
       field: Kin, household and the person
       gloss: romantic love; love between lovers
       concept: love-eros
       built: [nerta, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: narmakamva
       class: n
       field: Kin, household and the person
       gloss: friendship; affectionate regard between friends
       concept: love-philia
       built: [narma, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: etkakamva
       class: n
       field: Kin, household and the person
       gloss: the love of family and kin
       concept: love-storge
       built: [etka, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartukamva
       class: n
       field: Kin, household and the person
       gloss: selfless, universal love; love extended to all without seeking a return
       concept: love-agape
       built: [sartu, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nelkamva
       class: n
       field: Kin, household and the person
       gloss: affection; tender fondness
       concept: affection
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvapruk
       class: n
       field: Kin, household and the person
       gloss: attraction; a felt pull toward another person
       concept: attraction
       built: [kamva, pruk]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anshekamva
       class: n
       field: Kin, household and the person
       gloss: intimacy; close personal familiarity and emotional closeness
       concept: intimacy
       built: [anshe, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vretakamva
       class: n
       field: Kin, household and the person
       gloss: devotion; committed loving dedication to someone or something
       concept: devotion
       built: [vreta, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vremunyur
       class: n
       field: Kin, household and the person
       gloss: loyalty; steadfast allegiance to a person or group
       concept: loyalty
       built: [vremu, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: narmashem
       class: n
       field: Kin, household and the person
       gloss: companionship; being together with a companion
       concept: companionship
-      source: {kind: coined}
+      source: { kind: coined }
     - form: arhibrond
       class: n
       field: Kin, household and the person
       gloss: enmity; mutual hostility between enemies
       concept: enmity
       built: [arhi, brond]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brak
       class: n
       field: Kin, household and the person
       gloss: a break; a rupture or failure
-      source: {kind: coined}
+      source: { kind: coined }
     - form: let
       class: n
       field: Kin, household and the person
       gloss: a small amount; a little portion
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyur
       class: n
       field: Kin, household and the person
       gloss: continuance; persistence over time
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brond
       class: n
       field: Craft, trade and the counting-house
       gloss: a barrier; something that blocks passage or progress
       concept: barrier
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nerta
       class: n
       field: Kin, household and the person
       gloss: a lover; a partner in a romantic relationship
-      source: {kind: coined}
+      source: { kind: coined }
     - form: narma
       class: n
       field: Kin, household and the person
       gloss: a friend; a companion
       concept: [companion, friend]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pruk
       class: n
       field: Kin, household and the person
       gloss: a pull; an attraction toward something
-      source: {kind: coined}
+      source: { kind: coined }
     - form: darka
       class: v
       field: Kin, household and the person
       gloss: to see; an ordinary spoken action word related to the bound citation darsh-
       concept: see-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhinu
       class: v
       field: Kin, household and the person
       gloss: to hear; an ordinary spoken action word related to the bound citation bhin-
       concept: hear-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: virna
       class: v
       field: Kin, household and the person
       gloss: to smell; to detect a scent with the nose
       concept: smell-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: talnu
       class: v
       field: Kin, household and the person
       gloss: to taste; to detect a flavour in the mouth
       concept: taste-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: partu
       class: v
       field: Kin, household and the person
       gloss: to touch; to feel with the hand
       concept: touch-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: darmu
       class: v
       field: Kin, household and the person
       gloss: to look; to direct one's gaze
       concept: look
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyura darmu
       class: v
       field: Kin, household and the person
       gloss: to watch; to look attentively over time
       concept: watch
       built: [nyura, darmu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyura bhinu
       class: v
       field: Kin, household and the person
       gloss: to listen; to attend to what one hears
       concept: listen
       built: [nyura, bhinu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sarpu
       class: v
       field: Kin, household and the person
       gloss: to feel a bodily sensation
       concept: feel-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drenu
       class: v
       field: Kin, household and the person
       gloss: to notice; to become aware of something
       concept: notice
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jarmu
       class: v
       field: Kin, household and the person
       gloss: to perceive; to apprehend through the senses
       concept: perceive
-      source: {kind: coined}
+      source: { kind: coined }
     - form: smirdak
       class: v
       field: Kin, household and the person
       gloss: to recognize; to identify something already known
       concept: recognize
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dirma
       class: v
       field: Kin, household and the person
       gloss: to seem; to appear to an observer
       concept: seem
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ushta
       class: v
       field: Doing, going and being
       gloss: to have in one's possession; to hold; to keep; an ordinary spoken action word related to the bound citation usht-
       concept: [have, hold]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyura
       class: adv
       field: Numbers and grammar words
       gloss: attentively and continuously; with sustained attention
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shirnu
       class: n
       field: Kin, household and the person
       gloss: the head
       concept: head
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ralmu
       class: n
       field: Kin, household and the person
       gloss: hair; an animal's hair or fur
       concept: hair
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mirmu
       class: n
       field: Kin, household and the person
       gloss: the face
       concept: face
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhinra
       class: n
       field: Kin, household and the person
       gloss: the ear
       concept: ear
-      source: {kind: coined}
+      source: { kind: coined }
     - form: virtu
       class: n
       field: Kin, household and the person
       gloss: the nose
       concept: nose
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mukhvalet
       class: n
       field: Kin, household and the person
       gloss: a lip; either fleshy edge of the mouth
       concept: lip
       built: [mukhva, let]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dretu
       class: n
       field: Kin, household and the person
       gloss: a tooth
       concept: tooth
-      source: {kind: coined}
+      source: { kind: coined }
     - form: talru
       class: n
       field: Kin, household and the person
       gloss: the anatomical tongue; the organ in the mouth
       concept: tongue
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kandru
       class: n
       field: Kin, household and the person
       gloss: the neck
       concept: neck
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kandrupadsa
       class: n
       field: Kin, household and the person
       gloss: a shoulder; the neck's supporting upper-body region
       concept: shoulder
       built: [kandru, padsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pardun
       class: n
       field: Kin, household and the person
       gloss: an arm
       concept: arm
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pardunjortu
       class: n
       field: Kin, household and the person
       gloss: an elbow; the arm joint
       concept: elbow
       built: [pardun, jortu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pombasutka
       class: n
       field: Kin, household and the person
       gloss: a finger
       concept: finger
       built: [pomba, sutka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pombakervu
       class: n
       field: Kin, household and the person
       gloss: a fingernail
       concept: nail
       built: [pomba, kervu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: torva
       class: n
       field: Kin, household and the person
       gloss: the chest
       concept: chest
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarma
       class: n
       field: Kin, household and the person
       gloss: a breast; the breast as an anatomical part, including the nursing breast
       concept: breast
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhonru
       class: n
       field: Kin, household and the person
       gloss: the belly; the outside of the abdomen
       concept: belly
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kirnu
       class: n
       field: Kin, household and the person
       gloss: the back of the body
       concept: back
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pelsa
       class: n
       field: Kin, household and the person
       gloss: the hip
       concept: hip
-      source: {kind: coined}
+      source: { kind: coined }
     - form: perta
       class: n
       field: Kin, household and the person
       gloss: a leg
       concept: leg
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pertajortu
       class: n
       field: Kin, household and the person
       gloss: a knee; the joint between thigh and lower leg
       concept: knee
       built: [perta, jortu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsasutka
       class: n
       field: Kin, household and the person
       gloss: a toe
       concept: toe
       built: [padsa, sutka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shelmu
       class: n
       field: Kin, household and the person
       gloss: skin
       concept: skin
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mardu
       class: n
       field: Kin, household and the person
       gloss: flesh
       concept: flesh
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mirtan
       class: n
       field: Kin, household and the person
       gloss: the forehead
       concept: forehead
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mukhvadakta
       class: n
       field: Kin, household and the person
       gloss: the jaw; the bone supporting the teeth
       concept: jaw
       built: [mukhva, dakta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: daktin
       class: n
       field: Kin, household and the person
       gloss: the chin; the forward part below the lower lip
       concept: chin
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mirmumardu
       class: n
       field: Kin, household and the person
       gloss: a cheek; the fleshy side of the face
       concept: cheek
       built: [mirmu, mardu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kandrupantra
       class: n
       field: Kin, household and the person
       gloss: the throat; the passage through the neck
       concept: throat
       built: [kandru, pantra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomrakoshta
       class: n
       field: Kin, household and the person
       gloss: the stomach; the digestive organ within the belly
       concept: stomach
       built: [ghomra, koshta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kertu
       class: n
       field: Kin, household and the person
       gloss: the waist
       concept: waist
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kirnudakta
       class: n
       field: Kin, household and the person
       gloss: the spine; the backbone
       concept: spine
       built: [kirnu, dakta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tolnu
       class: n
       field: Kin, household and the person
       gloss: a buttock
       concept: buttock
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pombatalka
       class: n
       field: Kin, household and the person
       gloss: the palm of the hand
       concept: palm
       built: [pomba, talka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahva pombasutka
       class: n
       field: Kin, household and the person
       gloss: a thumb; the thick opposable digit of the hand
       concept: thumb
       built: [mahva, pombasutka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uttarka perta
       class: n
       field: Kin, household and the person
       gloss: a thigh; the upper part of the leg
       concept: thigh
       built: [uttarka, perta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsajortu
       class: n
       field: Kin, household and the person
       gloss: an ankle; the joint above the foot
       concept: ankle
       built: [padsa, jortu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsakirnu
       class: n
       field: Kin, household and the person
       gloss: a heel; the back of the foot
       concept: heel
       built: [padsa, kirnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsatalka
       class: n
       field: Kin, household and the person
       gloss: the sole; the underside of the foot
       concept: sole
       built: [padsa, talka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsakervu
       class: n
       field: Kin, household and the person
       gloss: a toenail
       concept: toenail
       built: [padsa, kervu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mardusultu
       class: n
       field: Kin, household and the person
       gloss: a muscle; a contracting band of flesh
       concept: muscle
       built: [mardu, sultu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: polnu
       class: n
       field: Kin, household and the person
       gloss: bodily fat; fat as a substance
       concept: fat
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kholujalka
       class: n
       field: Kin, household and the person
       gloss: sweat; water exuded through the skin
       concept: sweat
       built: [kholu, jalka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dikujalka
       class: n
       field: Kin, household and the person
       gloss: tears; fluid shed from the eyes
       concept: tears
       built: [diku, jalka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mukhvajalka
       class: n
       field: Kin, household and the person
       gloss: saliva; fluid in the mouth
       concept: saliva
       built: [mukhva, jalka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shirnumardu
       class: n
       field: Kin, household and the person
       gloss: the brain; the soft organ within the head
       concept: brain
       built: [shirnu, mardu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimrukoshta
       class: n
       field: Kin, household and the person
       gloss: a lung; a breathing organ in the chest
       concept: lung
       built: [nimru, koshta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shombu
       class: n
       field: Kin, household and the person
       gloss: the liver
       concept: liver
-      source: {kind: coined}
+      source: { kind: coined }
     - form: surnu
       class: n
       field: Kin, household and the person
       gloss: a kidney
       concept: kidney
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomrapantra
       class: n
       field: Kin, household and the person
       gloss: the intestine; the gut through which digested food passes
       concept: intestine
       built: [ghomra, pantra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvangha
       class: n
       field: Kin, household and the person
       gloss: the genitals; the reproductive organs as a group
       concept: genitals
       built: [kamva, angha]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamkoshta
       class: n
       field: Kin, household and the person
       gloss: the womb; the uterus
       concept: womb
       built: [lam, koshta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vornu
       class: n
       field: Kin, household and the person
       gloss: the penis
       concept: penis
-      source: {kind: coined}
+      source: { kind: coined }
     - form: velnu
       class: n
       field: Kin, household and the person
       gloss: the vagina; the internal canal opening at the vulva
       concept: vagina
-      source: {kind: coined}
+      source: { kind: coined }
     - form: visherta
       class: n
       field: Kin, household and the person
       gloss: a testicle
       concept: testicle
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomra
       class: n
       field: Kin, household and the person
       gloss: food
       concept: food
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghuma
       class: v
       field: Kin, household and the person
       gloss: to eat; an ordinary spoken action word related to the bound citation ghum-
       concept: eat
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jalpun
       class: n
       field: Kin, household and the person
       gloss: a drink; a portion of liquid for drinking
       concept: drink-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jalnu
       class: v
       field: Kin, household and the person
       gloss: to drink
       concept: drink-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimru
       class: n
       field: Kin, household and the person
       gloss: air; the air available for breathing
       concept: air
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimran
       class: n
       field: Kin, household and the person
       gloss: a breath; air drawn in or let out in breathing
       concept: breath
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimar
       class: v
       field: Kin, household and the person
       gloss: to breathe
       concept: breathe
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nidu
       class: v
       field: Kin, household and the person
       gloss: to sleep
       concept: sleep-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nurpa
       class: n
       field: Kin, household and the person
       gloss: urine
       concept: urine
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nurpu
       class: v
       field: Kin, household and the person
       gloss: to urinate; to pass urine
       concept: urinate
-      source: {kind: coined}
+      source: { kind: coined }
     - form: gremu
       class: n
       field: Kin, household and the person
       gloss: dung; feces
       concept: dung
-      source: {kind: coined}
+      source: { kind: coined }
     - form: gremuk
       class: v
       field: Kin, household and the person
       gloss: to defecate; to pass feces
       concept: defecate
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tapru
       class: n
       field: Kin, household and the person
       gloss: warmth; heat as a temperature condition
       concept: [warmth, heat]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomrakamva
       class: n
       field: Kin, household and the person
       gloss: hunger; the bodily desire for food
       concept: hunger
       built: [ghomra, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomrin
       class: adj
       field: Kin, household and the person
       gloss: hungry; needing food
       concept: hungry
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jalkakamva
       class: n
       field: Kin, household and the person
       gloss: thirst; the bodily need for a drink
       concept: thirst
       built: [jalka, kamva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jaltruk
       class: adj
       field: Kin, household and the person
       gloss: thirsty; needing a drink
       concept: thirsty
-      source: {kind: coined}
+      source: { kind: coined }
     - form: rinu nimar
       class: v
       field: Kin, household and the person
       gloss: to inhale; to draw air inward in breathing
       concept: inhale
       built: [rinu, nimar]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: turu nimar
       class: v
       field: Kin, household and the person
       gloss: to exhale; to let air outward in breathing
       concept: exhale
       built: [turu, nimar]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimbrak
       class: v
       field: Kin, household and the person
       gloss: to suffocate; to be deprived of breathable air or unable to breathe because breathing is blocked
       concept: suffocate
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nivra
       class: v
       field: Kin, household and the person
       gloss: to wake; to become awake after sleep
       concept: wake
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nivre
       class: adj
       field: Kin, household and the person
       gloss: awake; no longer asleep
       concept: awake
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nermu
       class: n
       field: Kin, household and the person
       gloss: rest; a pause for repose or recovery
       concept: rest
-      source: {kind: coined}
+      source: { kind: coined }
     - form: neldu
       class: adj
       field: Kin, household and the person
       gloss: tired; in need of rest
       concept: tired
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shelpa
       class: v
       field: Kin, household and the person
       gloss: to sweat; to exude sweat through the skin
       concept: sweat-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tapra
       class: adj
       field: Kin, household and the person
       gloss: hot in temperature
       concept: hot
-      source: {kind: coined}
+      source: { kind: coined }
     - form: taprin
       class: adj
       field: Kin, household and the person
       gloss: warm; pleasantly or moderately hot
       concept: warm
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shelna
       class: adj
       field: Kin, household and the person
       gloss: cool; moderately cold
       concept: cool
-      source: {kind: coined}
+      source: { kind: coined }
     - form: himru
       class: v
       field: Kin, household and the person
       gloss: to freeze; to become frozen
       concept: freeze
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dahu
       class: v
       field: Kin, household and the person
       gloss: to burn; an ordinary spoken action word related to the bound citation dah-
       concept: burn
-      source: {kind: coined}
+      source: { kind: coined }
     - form: paldanyur
       class: n
       field: Kin, household and the person
       gloss: safety; the state of being secure from harm
       concept: safety
       built: [palda, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhartun
       class: n
       field: Kin, household and the person
       gloss: danger; the possibility of harm
       concept: danger
-      source: {kind: coined}
+      source: { kind: coined }
     - form: paldu
       class: n
       field: Kin, household and the person
       gloss: protection; keeping someone or something from harm
       concept: protection
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvakarmu
       class: n
       field: Kin, household and the person
       gloss: sex; sexual intercourse
       concept: sex
       built: [kamva, karmu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamprabhu
       class: v
       field: Kin, household and the person
       gloss: to conceive a child; to begin a pregnancy
       concept: conceive
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamnyur
       class: n
       field: Kin, household and the person
       gloss: pregnancy; carrying a developing child in the womb
       concept: pregnancy
       built: [lam, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamnyur ushta
       class: v
       field: Kin, household and the person
       gloss: to be pregnant; to carry a developing child in the womb
       concept: pregnant
       built: [lamnyur, ushta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamprabhana
       class: n
       field: Kin, household and the person
       gloss: birth; a child's coming into the world
       concept: birth
       built: [lam, prabhana]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lam pomu
       class: v
       field: Kin, household and the person
       gloss: to give birth; the mother's bringing a child into the world
       concept: give-birth
       built: [lam, pomu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarmu
       class: v
       field: Kin, household and the person
       gloss: to nurse a child; to feed a child at the breast
       concept: nurse
-      source: {kind: coined}
+      source: { kind: coined }
     - form: barden
       class: v
       field: Kin, household and the person
       gloss: to grow; to increase in size or development
       concept: grow
-      source: {kind: coined}
+      source: { kind: coined }
     - form: puratra barden
       class: v
       field: Kin, household and the person
       gloss: to age; to grow older
       concept: [age-verb, aging]
       built: [puratra, barden]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dauru
       class: adj
       field: Kin, household and the person
       gloss: dead; no longer alive
       concept: dead
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kalnu
       class: adj
       field: Kin, household and the person
       gloss: healthy; hale
       concept: healthy
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brandu
       class: adj
       field: Kin, household and the person
       gloss: sick; ill
       concept: sick
-      source: {kind: coined}
+      source: { kind: coined }
     - form: petrak
       class: adj
       field: Kin, household and the person
       gloss: injured; wounded
       concept: injured
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dranku
       class: adj
       field: Kin, household and the person
       gloss: strong; having physical strength
       concept: strong
-      source: {kind: coined}
+      source: { kind: coined }
     - form: neldak
       class: adj
       field: Kin, household and the person
       gloss: weak; lacking strength
       concept: weak
-      source: {kind: coined}
+      source: { kind: coined }
     - form: neldru
       class: adj
       field: Kin, household and the person
       gloss: exhausted; wholly worn out
       concept: exhausted
-      source: {kind: coined}
+      source: { kind: coined }
     - form: purku orsa
       class: v
       field: Kin, household and the person
       gloss: to be sated; to be full after eating or drinking
       concept: sated
       built: [purku, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tabrundu
       class: adj
       field: Kin, household and the person
       gloss: feverish; ill with an abnormally high bodily temperature
       concept: feverish
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shermu
       class: n
       field: Kin, household and the person
       gloss: pain; bodily suffering
       concept: pain
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shermak
       class: v
       field: Kin, household and the person
       gloss: to hurt; to cause pain or injury to someone
       concept: hurt-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyurshermu
       class: n
       field: Kin, household and the person
       gloss: an ache; a dull persistent bodily pain
       concept: ache
       built: [nyur, shermu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shermu ushta
       class: v
       field: Kin, household and the person
       gloss: to suffer; to endure bodily pain
       concept: suffer
       built: [shermu, ushta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shorun
       class: v
       field: Kin, household and the person
       gloss: to bleed; to lose blood
       concept: bleed
-      source: {kind: coined}
+      source: { kind: coined }
     - form: petsak
       class: v
       field: Kin, household and the person
       gloss: to heal; to mend a wound or injury
       concept: heal
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kalnun
       class: v
       field: Kin, household and the person
       gloss: to recover; to regain health
       concept: recover
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dikru
       class: adj
       field: Kin, household and the person
       gloss: blind; unable to see
       concept: blind
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhinkru
       class: adj
       field: Kin, household and the person
       gloss: deaf; unable to hear
       concept: deaf
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pertan
       class: adj
       field: Kin, household and the person
       gloss: lame; having impaired use of a leg or legs
       concept: lame
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ormu
       class: v
       field: Kin, household and the person
       gloss: to live; to be alive; an ordinary spoken action word related to the bound citation orm-
       concept: [alive, live]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sarnin
       class: adj
       field: Kin, household and the person
       gloss: conscious; aware of oneself and one's surroundings
       concept: conscious
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas sarnin
       class: adj
       field: Kin, household and the person
       gloss: unconscious; not conscious or aware
       concept: unconscious
       built: [uvas, sarnin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shermu sarpu
       class: v
       field: Kin, household and the person
       gloss: to hurt; to experience bodily pain
       concept: hurt-pain
       built: [shermu, sarpu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tobri
       class: n
       field: Kin, household and the person
       gloss: a parent; a mother or father
       concept: parent
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sorhumatva
       class: n
       field: Kin, household and the person
       gloss: a grandmother; a parent's mother
       concept: grandmother
       built: [sorhu, matva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sorhutobu
       class: n
       field: Kin, household and the person
       gloss: a grandfather; a parent's father
       concept: grandfather
       built: [sorhu, tobu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamlam
       class: n
       field: Kin, household and the person
       gloss: a grandchild; a child's child
       concept: grandchild
       built: [lam, lam]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tobribhaul
       class: n
       field: Kin, household and the person
       gloss: an uncle; a parent's brother
       concept: uncle
       built: [tobri, bhaul]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tobribhauli
       class: n
       field: Kin, household and the person
       gloss: an aunt; a parent's sister
       concept: aunt
       built: [tobri, bhauli]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaunri
       class: n
       field: Kin, household and the person
       gloss: a cousin; an aunt's or uncle's child
       concept: cousin
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vandran
       class: n
       field: Kin, household and the person
       gloss: a husband; a married man in relation to his spouse
       concept: husband
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nipran
       class: n
       field: Kin, household and the person
       gloss: a wife; a married woman in relation to her spouse
       concept: wife
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anvalam
       class: n
       field: Kin, household and the person
       gloss: a descendant; one descended from an earlier person
       concept: descendant
       built: [anva, lam]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tolam
       class: n
       field: Kin, household and the person
       gloss: an orphan; a child whose parents are dead
       concept: orphan
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sorhutobri
       class: n
       field: Kin, household and the person
       gloss: a grandparent; a parent's parent
       concept: grandparent
       built: [sorhu, tobri]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaulkukema
       class: n
       field: Kin, household and the person
       gloss: a nephew; a sibling's son
       concept: nephew
       built: [bhaulku, kema]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaulkukemri
       class: n
       field: Kin, household and the person
       gloss: a niece; a sibling's daughter
       concept: niece
       built: [bhaulku, kemri]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nertin
       class: n
       field: Kin, household and the person
       gloss: a spouse; either partner in a marriage
       concept: spouse
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nertasangra
       class: n
       field: Kin, household and the person
       gloss: marriage; a marital union
       concept: marriage
       built: [nerta, sangra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nertasa
       class: v
       field: Kin, household and the person
       gloss: to marry; to enter a marriage
       concept: marry
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nushan
       class: n
       field: Kin, household and the person
       gloss: a widower; a man whose spouse has died
       concept: widower
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nuvar
       class: n
       field: Kin, household and the person
       gloss: a stranger; someone not known to the speaker
       concept: stranger
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anshegrohin
       class: n
       field: Kin, household and the person
       gloss: a neighbor; someone living nearby
       concept: neighbor
-      source: {kind: coined}
+      source: { kind: coined }
     - form: atkipalda
       class: n
       field: Kin, household and the person
       gloss: a host; one who receives or accommodates a guest
       concept: host
       built: [atki, palda]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sadru
       class: n
       field: Craft, trade and the counting-house
       gloss: a chair; a seat for one person with a back
       concept: chair
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarsa
       class: n
       field: Craft, trade and the counting-house
       gloss: a table; a raised surface for eating or work
       concept: table
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nidvastonu
       class: n
       field: Craft, trade and the counting-house
       gloss: a bed; a place prepared for sleeping
       concept: bed
       built: [nidva, stonu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grohapadu
       class: n
       field: Craft, trade and the counting-house
       gloss: a floor; the surface underfoot within a building
       concept: floor
       built: [groha, padu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grohashirnu
       class: n
       field: Craft, trade and the counting-house
       gloss: a roof; the outer covering over a building
       concept: roof
       built: [groha, shirnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: agmistalu
       class: n
       field: Craft, trade and the counting-house
       gloss: a hearth; the physical place where a household fire is kept
       concept: hearth
       built: [agmi, stalu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dvarnabrond
       class: n
       field: Craft, trade and the counting-house
       gloss: a lock; a fastening that secures a door or container
       concept: lock
       built: [dvarna, brond]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: krinra
       class: n
       field: Craft, trade and the counting-house
       gloss: a key; a tool that opens a lock
       concept: key
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dikudvarna
       class: n
       field: Craft, trade and the counting-house
       gloss: a window; an opening for light and sight through a wall
       concept: window
       built: [diku, dvarna]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dikudvarna brond
       class: n
       field: Craft, trade and the counting-house
       gloss: shutters; movable barriers that close a window
       concept: shutters
       built: [dikudvarna, brond]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jalpu
       class: n
       field: Craft, trade and the counting-house
       gloss: a cup; a small open drinking vessel
       concept: cup
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomrakoda
       class: n
       field: Craft, trade and the counting-house
       gloss: a bowl; an open vessel for food or liquid
       concept: bowl
       built: [ghomra, koda]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: chinrak
       class: n
       field: Craft, trade and the counting-house
       gloss: a knife; a short cutting blade
       concept: knife
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghomrapomba
       class: n
       field: Craft, trade and the counting-house
       gloss: a spoon; a small scooping implement for eating
       concept: spoon
       built: [ghomra, pomba]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: chelta
       class: n
       field: Craft, trade and the counting-house
       gloss: clothing; a garment
       concept: [clothes, garment]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: koshtashirnu
       class: n
       field: Craft, trade and the counting-house
       gloss: a ceiling; the inner overhead surface of a room
       concept: ceiling
       built: [koshta, shirnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drausadru
       class: n
       field: Craft, trade and the counting-house
       gloss: a bench; a long seat for several people
       concept: bench
       built: [drau, sadru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kodra
       class: n
       field: Craft, trade and the counting-house
       gloss: a jar; a storage vessel with a wide mouth
       concept: jar
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kandrukoda
       class: n
       field: Craft, trade and the counting-house
       gloss: a bottle; a vessel with a narrow neck
       concept: bottle
       built: [kandru, koda]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sutkakoda
       class: n
       field: Craft, trade and the counting-house
       gloss: a basket; a vessel woven from flexible strips or fibres
       concept: basket
       built: [sutka, koda]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: chelkoda
       class: n
       field: Craft, trade and the counting-house
       gloss: a bag; a flexible container
       concept: bag
       built: [chel, koda]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dorsapomba
       class: n
       field: Craft, trade and the counting-house
       gloss: a hammer; a tool with a weighted striking head, of iron or another material
       concept: hammer
       built: [dorsa, pomba]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahvasultu
       class: n
       field: Craft, trade and the counting-house
       gloss: rope; a thick strong cord
       concept: rope
       built: [mahva, sultu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sultu
       class: n
       field: Craft, trade and the counting-house
       gloss: a cord; a length of twisted or braided fibre
       concept: cord
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sutkashirka
       class: n
       field: Craft, trade and the counting-house
       gloss: a needle; a slender pointed tool carrying thread
       concept: needle
       built: [sutka, shirka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: agmirusha
       class: n
       field: Craft, trade and the counting-house
       gloss: smoke; the airborne product of burning
       concept: smoke
       built: [agmi, rusha]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: targu
       class: n
       field: Craft, trade and the counting-house
       gloss: coal; dark combustible mineral fuel
       concept: coal
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jvelpomba
       class: n
       field: Craft, trade and the counting-house
       gloss: a torch; a portable burning light
       concept: torch
       built: [jvel, pomba]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: polnujvel
       class: n
       field: Craft, trade and the counting-house
       gloss: a candle; a burning wick in solid fat or wax
       concept: candle
       built: [polnu, jvel]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: torvachelta
       class: n
       field: Craft, trade and the counting-house
       gloss: a shirt; a garment for the upper body
       concept: shirt
       built: [torva, chelta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kavrachelta
       class: n
       field: Craft, trade and the counting-house
       gloss: a cloak; a loose outer garment worn over the shoulders
       concept: cloak
       built: [kavra, chelta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kertan
       class: n
       field: Craft, trade and the counting-house
       gloss: a belt; a band worn around the waist
       concept: belt
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsakavra
       class: n
       field: Craft, trade and the counting-house
       gloss: a shoe; footwear covering the foot
       concept: shoe
       built: [padsa, kavra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pertakavra
       class: n
       field: Craft, trade and the counting-house
       gloss: a boot; footwear covering the foot and part of the leg
       concept: boot
       built: [perta, kavra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ferku
       class: n
       field: Craft, trade and the counting-house
       gloss: wood; the material of trees
       concept: wood
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dorsan
       class: n
       field: Craft, trade and the counting-house
       gloss: metal; any metal as material
       concept: metal
-      source: {kind: coined}
+      source: { kind: coined }
     - form: palku
       class: n
       field: Craft, trade and the counting-house
       gloss: clay; fine earth that can be shaped when wet
       concept: clay
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shelmuru
       class: n
       field: Craft, trade and the counting-house
       gloss: leather; prepared animal hide
       concept: leather
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lerkaralmu
       class: n
       field: Craft, trade and the counting-house
       gloss: wool; fibre from a sheep's fleece
       concept: wool
       built: [lerka, ralmu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhumra
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: soil; the earth in which plants grow
       concept: soil
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jalkabhumra
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: mud; soil made soft and wet by water
       concept: mud
       built: [jalka, bhumra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: girkakoshta
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: a cave; a natural chamber in rock or ground
       concept: cave
       built: [girka, koshta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: himrak
       class: n
       field: Water, rain and the monsoon
       gloss: ice; frozen water
       concept: ice
-      source: {kind: coined}
+      source: { kind: coined }
     - form: stiru
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: a star in the sky
       concept: star
-      source: {kind: coined}
+      source: { kind: coined }
     - form: borshak
       class: n
       field: Water, rain and the monsoon
       gloss: a storm; violent disturbed weather
       concept: storm
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhurpa
       class: n
       field: Crops, beasts and growing things
       gloss: a plant; a growing vegetable organism
       concept: plant
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ferkachel
       class: n
       field: Crops, beasts and growing things
       gloss: a leaf of a plant
       concept: leaf
       built: [ferka, chel]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ferkaperta
       class: n
       field: Crops, beasts and growing things
       gloss: a branch of a tree or woody plant
       concept: branch
       built: [ferka, perta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ferkaghomra
       class: n
       field: Crops, beasts and growing things
       gloss: a fruit; the seed-bearing fruit of a plant, including plants other than trees
       concept: fruit
       built: [ferka, ghomra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kresu
       class: n
       field: Crops, beasts and growing things
       gloss: a seed of a plant
       concept: seed
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhurpachel
       class: n
       field: Crops, beasts and growing things
       gloss: grass; low green blades covering ground
       concept: grass
       built: [bhurpa, chel]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jartun
       class: n
       field: Crops, beasts and growing things
       gloss: an animal; a beast
       concept: [animal, beast]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mirsu
       class: n
       field: Crops, beasts and growing things
       gloss: a fish
       concept: fish
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tirmak
       class: n
       field: Crops, beasts and growing things
       gloss: an insect; a small six-legged creature
       concept: insect
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sulpa
       class: n
       field: Crops, beasts and growing things
       gloss: a worm; a soft elongated creeping animal
       concept: worm
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jalkru
       class: adj
       field: Water, rain and the monsoon
       gloss: wet; covered or soaked with liquid
       concept: wet
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bherka
       class: adj
       field: Water, rain and the monsoon
       gloss: dry; without moisture
       concept: dry
-      source: {kind: coined}
+      source: { kind: coined }
     - form: surkin
       class: adj
       field: Sun, moon, sky and the reckoning of time
       gloss: bright; giving or reflecting much light
       concept: bright
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghauru
       class: adj
       field: Sun, moon, sky and the reckoning of time
       gloss: dark; with little or no light
       concept: dark
-      source: {kind: coined}
+      source: { kind: coined }
     - form: meghruvas
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: clear weather; weather without clouds
       concept: clear-weather
-      source: {kind: coined}
+      source: { kind: coined }
     - form: meghranda
       class: adj
       field: Sun, moon, sky and the reckoning of time
       gloss: cloudy; covered with clouds
       concept: cloudy
-      source: {kind: coined}
+      source: { kind: coined }
     - form: utran
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the north; the northern direction or region
       concept: north
-      source: {kind: coined}
+      source: { kind: coined }
     - form: daksun
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the south; the southern direction or region
       concept: south
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pratir
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the east; the direction of sunrise
       concept: east
-      source: {kind: coined}
+      source: { kind: coined }
     - form: gaurtir
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the west; the direction of sunset
       concept: west
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jortu
       class: n
       field: Kin, household and the person
       gloss: a joint; a place where body parts or objects articulate
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kervu
       class: n
       field: Kin, household and the person
       gloss: a nail; a hard protective covering at the end of a digit
-      source: {kind: coined}
+      source: { kind: coined }
     - form: rinu
       class: part
       field: Numbers and grammar words
       gloss: inward; into
-      source: {kind: coined}
+      source: { kind: coined }
     - form: turu
       class: part
       field: Numbers and grammar words
       gloss: outward; out of
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pomu
       class: v
       field: Doing, going and being
       gloss: to give; an ordinary spoken action word related to the bound citation pom-
       concept: give
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaulku
       class: n
       field: Kin, household and the person
       gloss: a sibling; a brother or sister
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drau
       class: adj
       field: Kin, household and the person
       gloss: long
       concept: long
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lerka
       class: n
       field: Craft, trade and the counting-house
       gloss: a sheep
-      source: {kind: coined}
+      source: { kind: coined }
     - form: orsa
       class: v
       field: Doing, going and being
       gloss: to be; to exist or have the stated quality
       concept: [be, exist]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: birsateska
       class: num
       field: Numbers and grammar words
       gloss: twenty
       concept: twenty
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganstal aisu
       class: n
       field: Numbers and grammar words
       gloss: the first position; the first in an ordered series
       concept: first
       built: [ganstal, aisu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganstal birsa
       class: n
       field: Numbers and grammar words
       gloss: the second position; the second in an ordered series
       concept: second
       built: [ganstal, birsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganstal tre
       class: n
       field: Numbers and grammar words
       gloss: the third position; the third in an ordered series
       concept: third
       built: [ganstal, tre]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: khondra ro birsa
       class: n
       field: Numbers and grammar words
       gloss: a half; one of two equal shares of a whole
       concept: half
       built: [khondra, ro, birsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: barnu
       class: adj
       field: Numbers and grammar words
       gloss: many; much; a large number or quantity
       concept: [many, much]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: letru
       class: adj
       field: Numbers and grammar words
       gloss: few; little; a small number or quantity
       concept: [few, little-quantity]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nortu
       class: pron
       field: Numbers and grammar words
       gloss: none; nothing
       concept: none
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shon
       class: num
       field: Numbers and grammar words
       gloss: zero
       concept: zero
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganstal sotra
       class: n
       field: Numbers and grammar words
       gloss: the fourth position; the position numbered four in an ordered series
       concept: ordinal-construction
       built: [ganstal, sotra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: khondra ro sotra
       class: n
       field: Numbers and grammar words
       gloss: a quarter; one of four equal shares of a whole
       concept: quarter
       built: [khondra, ro, sotra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kartum
       class: adj
       field: Kin, household and the person
       gloss: whole; complete
       concept: [complete, whole]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: keru
       class: adj
       field: Numbers and grammar words
       gloss: some; an unspecified number or quantity
       concept: some
-      source: {kind: coined}
+      source: { kind: coined }
     - form: narduk
       class: adj
       field: Numbers and grammar words
       gloss: enough; sufficient
       concept: enough
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bram
       class: adv
       field: Numbers and grammar words
       gloss: more; to a greater degree
       concept: more
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyem
       class: adv
       field: Numbers and grammar words
       gloss: less; to a smaller degree
       concept: less
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu navu vrun bram
       class: adv
       field: Numbers and grammar words
       gloss: most; to a greater degree than all the others in the comparison
       concept: most
       built: [sartu, navu, vrun, bram]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu navu vrun nyem
       class: adv
       field: Numbers and grammar words
       gloss: least; to a smaller degree than all the others in the comparison
       concept: least
       built: [sartu, navu, vrun, nyem]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samru
       class: adj
       field: Numbers and grammar words
       gloss: equal; alike in the relevant amount, size or value
       concept: equal
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu aisu
       class: num
       field: Numbers and grammar words
       gloss: each one; every one considered separately
       concept: each
       built: [sartu, aisu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu birsa
       class: num
       field: Numbers and grammar words
       gloss: both; the two together
       concept: both
       built: [sartu, birsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: aisu ro birsa
       class: num
       field: Numbers and grammar words
       gloss: either; one or the other of two alternatives
       concept: either
       built: [aisu, ro, birsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas aisu ro birsa
       class: num
       field: Numbers and grammar words
       gloss: neither; not either member of a pair of alternatives
       concept: neither
       built: [uvas, aisu, ro, birsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shemru
       class: adv
       field: Numbers and grammar words
       gloss: about; approximately
       concept: about
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nardun
       class: adv
       field: Numbers and grammar words
       gloss: almost; nearly but not quite
       concept: almost
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samrul
       class: adv
       field: Numbers and grammar words
       gloss: exactly; with no difference from the stated amount or condition; of course, expressing unreserved assent in conversation
       concept: [exactly, of-course]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganru
       class: n
       field: Numbers and grammar words
       gloss: a number; a numerical value
       concept: number
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganmul
       class: n
       field: Numbers and grammar words
       gloss: an amount; a quantity
       concept: amount
-      source: {kind: coined}
+      source: { kind: coined }
     - form: umbrak
       class: v
       field: Numbers and grammar words
       gloss: to measure; to determine an extent or quantity
       concept: measure-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganu
       class: v
       field: Numbers and grammar words
       gloss: to count; an ordinary spoken action word related to the bound citation gan-
       concept: count-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karnu
       class: adj
       field: Kin, household and the person
       gloss: black
       concept: black
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shetal
       class: adj
       field: Kin, household and the person
       gloss: white
       concept: white
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shoran
       class: adj
       field: Kin, household and the person
       gloss: red
       concept: red
-      source: {kind: coined}
+      source: { kind: coined }
     - form: suvrin
       class: adj
       field: Kin, household and the person
       gloss: yellow
       concept: yellow
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nilku
       class: adj
       field: Kin, household and the person
       gloss: blue
       concept: blue
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhosmak
       class: adj
       field: Kin, household and the person
       gloss: grey
       concept: grey
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhumrak
       class: adj
       field: Kin, household and the person
       gloss: brown
       concept: brown
-      source: {kind: coined}
+      source: { kind: coined }
     - form: surbor
       class: adj
       field: Kin, household and the person
       gloss: light in colour; having a high brightness value
       concept: light-colour
-      source: {kind: coined}
+      source: { kind: coined }
     - form: borlin
       class: adj
       field: Kin, household and the person
       gloss: pale; weak or washed out in colour
       concept: pale
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dirmun
       class: adj
       field: Kin, household and the person
       gloss: clear in appearance; easy to discern distinctly
       concept: clear-appearance
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drabrond
       class: adj
       field: Kin, household and the person
       gloss: opaque; not allowing sight through it
       concept: opaque
-      source: {kind: coined}
+      source: { kind: coined }
     - form: darsuk
       class: adj
       field: Kin, household and the person
       gloss: transparent; allowing sight through it
       concept: transparent
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sujrin
       class: adj
       field: Kin, household and the person
       gloss: shiny; reflecting light with a gleam
       concept: shiny
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas sujrin
       class: adj
       field: Kin, household and the person
       gloss: dull; lacking a shine
       concept: dull-appearance
       built: [uvas, sujrin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lipruk
       class: adj
       field: Kin, household and the person
       gloss: plain; without a pattern
       concept: plain-pattern
-      source: {kind: coined}
+      source: { kind: coined }
     - form: birtun
       class: adj
       field: Kin, household and the person
       gloss: spotted; marked with spots
       concept: spotted
-      source: {kind: coined}
+      source: { kind: coined }
     - form: avolin
       class: adj
       field: Kin, household and the person
       gloss: striped; marked with parallel lines
       concept: striped
-      source: {kind: coined}
+      source: { kind: coined }
     - form: chambu
       class: v
       field: Doing, going and being
       gloss: to go; an ordinary spoken action word related to the bound citation chamb-
       concept: go
-      source: {kind: coined}
+      source: { kind: coined }
     - form: hauvu
       class: v
       field: Doing, going and being
       gloss: to come; an ordinary spoken action word related to the bound citation hauv-
       concept: come
-      source: {kind: coined}
+      source: { kind: coined }
     - form: adnu
       class: v
       field: Doing, going and being
       gloss: to take
       concept: take
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karmak
       class: v
       field: Doing, going and being
       gloss: to do; to make or create by working
       concept: [make, do, create]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lampu
       class: v
       field: Doing, going and being
       gloss: to say; to speak; to tell someone something
       concept: [say, speak, tell]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jnenuk
       class: v
       field: Doing, going and being
       gloss: to know
       concept: know
-      source: {kind: coined}
+      source: { kind: coined }
     - form: montru
       class: v
       field: Doing, going and being
       gloss: to think; to consider mentally
       concept: think
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamva ushta
       class: v
       field: Doing, going and being
       gloss: to want; to wish for something; to feel desire
       concept: [want, wish-verb]
       built: [kamva, ushta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: daushu
       class: v
       field: Doing, going and being
       gloss: to die; an ordinary spoken action word related to the bound citation daush-
       concept: die
-      source: {kind: coined}
+      source: { kind: coined }
     - form: padsun
       class: v
       field: Doing, going and being
       gloss: to walk
       concept: walk
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dramu
       class: v
       field: Doing, going and being
       gloss: to run
       concept: run
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sadnu
       class: v
       field: Doing, going and being
       gloss: to sit; an ordinary spoken action word related to the bound citation sad-
       concept: sit
-      source: {kind: coined}
+      source: { kind: coined }
     - form: stambhu
       class: v
       field: Doing, going and being
       gloss: to stand upright
       concept: stand
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nidru
       class: v
       field: Doing, going and being
       gloss: to lie down; to take a reclining position
       concept: lie-down
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shem hauvu
       class: v
       field: Doing, going and being
       gloss: to bring; to come with the object being brought
       concept: bring
       built: [shem, hauvu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: stanru
       class: v
       field: Doing, going and being
       gloss: to put; to set something in a place
       concept: put
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kretu
       class: v
       field: Doing, going and being
       gloss: to find
       concept: find
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nelnu
       class: v
       field: Doing, going and being
       gloss: to lose; to cease to have or find something
       concept: lose
-      source: {kind: coined}
+      source: { kind: coined }
     - form: muku
       class: v
       field: Doing, going and being
       gloss: to open; to release; an ordinary spoken action word related to the bound citation muk-
       concept: open
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brondu
       class: v
       field: Doing, going and being
       gloss: to close; to block; to stop an action or movement
       concept: [close, stop]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: prabnu
       class: v
       field: Doing, going and being
       gloss: to begin; to start
       concept: begin
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldun
       class: v
       field: Doing, going and being
       gloss: to end; to finish
       concept: end
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo ro orsa
       class: v
       field: Doing, going and being
       gloss: to belong to me; the possessor stands before ro, as mo does here
       concept: belong
       built: [mo, ro, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navra
       class: v
       field: Doing, going and being
       gloss: to become; to come to be
       concept: become
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyuru orsa
       class: v
       field: Doing, going and being
       gloss: to last; to remain or continue to be or stay in progress for a sustained time
       concept: [continue, lasting-duration, remain]
       built: [nyuru, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: turu chambu
       class: v
       field: Doing, going and being
       gloss: to leave; to exit; to go outward from a place
       concept: [leave, exit]
       built: [turu, chambu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: rinu hauvu
       class: v
       field: Doing, going and being
       gloss: to arrive; to come into the destination
       concept: arrive
       built: [rinu, hauvu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: parnu
       class: v
       field: Doing, going and being
       gloss: to crawl; to move close to the ground on hands or limbs
       concept: crawl
-      source: {kind: coined}
+      source: { kind: coined }
     - form: utrak chambu
       class: v
       field: Doing, going and being
       gloss: to climb; to go upward using the limbs or supports
       concept: climb
       built: [utrak, chambu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: parduk
       class: v
       field: Doing, going and being
       gloss: to jump
       concept: jump
-      source: {kind: coined}
+      source: { kind: coined }
     - form: patru
       class: v
       field: Doing, going and being
       gloss: to fall; an ordinary spoken action word related to the bound citation pat-
       concept: fall
-      source: {kind: coined}
+      source: { kind: coined }
     - form: utru
       class: v
       field: Doing, going and being
       gloss: to rise; to move or get upward
       concept: rise
-      source: {kind: coined}
+      source: { kind: coined }
     - form: rinu chambu
       class: v
       field: Doing, going and being
       gloss: to enter; to go inward into a place
       concept: enter
       built: [rinu, chambu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vramu
       class: v
       field: Doing, going and being
       gloss: to return; to go back
       concept: return
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anva chambu
       class: v
       field: Doing, going and being
       gloss: to follow; to go after someone or something
       concept: follow
       built: [anva, chambu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nayu
       class: v
       field: Doing, going and being
       gloss: to lead; an ordinary spoken action word related to the bound citation nay-
       concept: lead
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhornu
       class: v
       field: Doing, going and being
       gloss: to carry; to bear a load
       concept: carry
-      source: {kind: coined}
+      source: { kind: coined }
     - form: chamru
       class: v
       field: Doing, going and being
       gloss: to move; to change position or cause something to change position
       concept: move
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarpu
       class: v
       field: Doing, going and being
       gloss: to push
       concept: push
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pruku
       class: v
       field: Doing, going and being
       gloss: to pull; to draw something toward oneself
       concept: pull
-      source: {kind: coined}
+      source: { kind: coined }
     - form: utrak tarpu
       class: v
       field: Doing, going and being
       gloss: to lift; to push or raise something upward
       concept: lift
       built: [utrak, tarpu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: paltuk
       class: v
       field: Doing, going and being
       gloss: to drop; to let something fall
       concept: drop
-      source: {kind: coined}
+      source: { kind: coined }
     - form: praksu
       class: v
       field: Doing, going and being
       gloss: to throw
       concept: throw
-      source: {kind: coined}
+      source: { kind: coined }
     - form: japru
       class: v
       field: Doing, going and being
       gloss: to catch; to seize something coming toward one
       concept: catch
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kotrak
       class: v
       field: Doing, going and being
       gloss: to build; to construct a structure
       concept: build
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kartul braku
       class: v
       field: Doing, going and being
       gloss: to destroy; to break completely
       concept: destroy
       built: [kartul, braku]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navrak
       class: v
       field: Doing, going and being
       gloss: to repair; to restore something damaged to usable condition
       concept: repair
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navrun
       class: v
       field: Doing, going and being
       gloss: to change; to alter or become different
       concept: change-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: braku
       class: v
       field: Doing, going and being
       gloss: to break; to cause or undergo a rupture
       concept: break
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jahnuk
       class: v
       field: Doing, going and being
       gloss: to ask a question
       concept: ask
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lampur
       class: v
       field: Doing, going and being
       gloss: to answer; to reply
       concept: answer
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ravhu
       class: v
       field: Doing, going and being
       gloss: to call; to summon by voice
       concept: call
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bravul lampu
       class: v
       field: Doing, going and being
       gloss: to shout; to speak loudly
       concept: shout
       built: [bravul, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimral lampu
       class: v
       field: Doing, going and being
       gloss: to whisper; to speak softly with breath rather than a voiced murmur
       concept: whisper
       built: [nimral, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jnenar
       class: v
       field: Doing, going and being
       gloss: to explain; to make a meaning or reason clear
       concept: explain
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tirmun
       class: v
       field: Doing, going and being
       gloss: to name; to give a name to someone or something
       concept: name-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrenuk
       class: v
       field: Doing, going and being
       gloss: to believe; to accept a claim as true
       concept: believe
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jnenru
       class: v
       field: Doing, going and being
       gloss: to understand; to grasp the meaning of something
       concept: understand
-      source: {kind: coined}
+      source: { kind: coined }
     - form: smirtu
       class: v
       field: Doing, going and being
       gloss: to remember
       concept: remember
-      source: {kind: coined}
+      source: { kind: coined }
     - form: smirbrak
       class: v
       field: Doing, going and being
       gloss: to forget
       concept: forget
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vidsun
       class: v
       field: Doing, going and being
       gloss: to learn
       concept: learn
-      source: {kind: coined}
+      source: { kind: coined }
     - form: gorvun
       class: v
       field: Doing, going and being
       gloss: to teach
       concept: teach
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vinsak
       class: v
       field: Doing, going and being
       gloss: to decide; to reach a judgment or choice
       concept: decide
-      source: {kind: coined}
+      source: { kind: coined }
     - form: svopnu
       class: v
       field: Doing, going and being
       gloss: to imagine; to form a mental picture
       concept: imagine
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyaku
       class: v
       field: Doing, going and being
       gloss: to need; to require something
       concept: need-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: prandu ushta
       class: v
       field: Doing, going and being
       gloss: to hope; to hold hope for a good outcome
       concept: hope-verb
       built: [prandu, ushta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karmun
       class: v
       field: Doing, going and being
       gloss: to intend; to mean to perform an action
       concept: intend
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kertuk
       class: v
       field: Doing, going and being
       gloss: to choose; to select an alternative
       concept: choose
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bram kamva ushta
       class: v
       field: Doing, going and being
       gloss: to prefer; to desire one alternative more than another
       concept: prefer
       built: [bram, kamva, ushta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pravru
       class: v
       field: Doing, going and being
       gloss: to try; to make an attempt
       concept: try
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kresak
       class: v
       field: Doing, going and being
       gloss: to search; to look for something
       concept: search
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sanguk
       class: v
       field: Doing, going and being
       gloss: to meet; to encounter or come together with someone
       concept: meet
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shempal
       class: v
       field: Doing, going and being
       gloss: to help; to aid someone
       concept: help
-      source: {kind: coined}
+      source: { kind: coined }
     - form: khondra pomu
       class: v
       field: Doing, going and being
       gloss: to share; to give another a portion
       concept: share
       built: [khondra, pomu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vyapor
       class: v
       field: Doing, going and being
       gloss: to trade; to exchange goods
       concept: trade
-      source: {kind: coined}
+      source: { kind: coined }
     - form: orgha pomu
       class: v
       field: Doing, going and being
       gloss: to buy; to acquire goods by paying their price
       concept: buy
       built: [orgha, pomu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: orgha adnu
       class: v
       field: Doing, going and being
       gloss: to sell; to receive a price in exchange for goods
       concept: sell
       built: [orgha, adnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vreta pomu
       class: v
       field: Doing, going and being
       gloss: to promise; to give one's pledged word
       concept: promise-verb
       built: [vreta, pomu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pratnu lampu
       class: v
       field: Doing, going and being
       gloss: to thank; to express gratitude
       concept: thank-verb
       built: [pratnu, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vimbhu
       class: v
       field: Doing, going and being
       gloss: to forgive
       concept: forgive-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nuvrak
       class: v
       field: Doing, going and being
       gloss: to refuse; to decline or reject a request
       concept: refuse-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samrak
       class: v
       field: Doing, going and being
       gloss: to agree; to assent or share an opinion
       concept: agree-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaundu
       class: v
       field: Doing, going and being
       gloss: to fight; an ordinary spoken action word related to the bound citation bhaund-
       concept: fight
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarpak
       class: v
       field: Doing, going and being
       gloss: to hit; to strike someone or something
       concept: hit
-      source: {kind: coined}
+      source: { kind: coined }
     - form: daushak
       class: v
       field: Doing, going and being
       gloss: to kill; to cause a living being to die
       concept: kill
-      source: {kind: coined}
+      source: { kind: coined }
     - form: palduk
       class: v
       field: Doing, going and being
       gloss: to defend; to protect against attack or harm
       concept: defend
-      source: {kind: coined}
+      source: { kind: coined }
     - form: arhun
       class: v
       field: Doing, going and being
       gloss: to attack; to begin an assault against someone or something
       concept: attack
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhaucham
       class: v
       field: Doing, going and being
       gloss: to flee; to escape from danger
       concept: flee
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bharnuk
       class: v
       field: Doing, going and being
       gloss: to threaten; to communicate an intention to cause harm
       concept: threaten
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nirpak
       class: v
       field: Doing, going and being
       gloss: to wait; to stay until an expected time or event
       concept: wait
-      source: {kind: coined}
+      source: { kind: coined }
     - form: narta
       class: v
       field: Doing, going and being
       gloss: to happen; to occur
       concept: happen
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pertajortu pa sadnu
       class: v
       field: Doing, going and being
       gloss: to kneel; to rest on one's knees
       concept: kneel
       built: [pertajortu, pa, sadnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jortuk
       class: v
       field: Doing, going and being
       gloss: to bend; to curve or flex
       concept: bend
-      source: {kind: coined}
+      source: { kind: coined }
     - form: paldak
       class: v
       field: Doing, going and being
       gloss: to lean; to incline while resting against a support
       concept: lean
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kavru
       class: v
       field: Doing, going and being
       gloss: to cover
       concept: cover-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kavrak
       class: v
       field: Doing, going and being
       gloss: to uncover; to remove a covering
       concept: uncover
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dikbrond
       class: v
       field: Doing, going and being
       gloss: to hide; to conceal from sight
       concept: hide
-      source: {kind: coined}
+      source: { kind: coined }
     - form: darsin karmak
       class: v
       field: Doing, going and being
       gloss: to reveal; to make visible what was hidden
       concept: reveal
       built: [darsin, karmak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bronduk
       class: v
       field: Doing, going and being
       gloss: to lock; to fasten with a lock
       concept: lock-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: krinru
       class: v
       field: Doing, going and being
       gloss: to unlock; to open a lock with a key
       concept: unlock
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ehu stalu bhe
       class: part
       field: Numbers and grammar words
       gloss: here; at this place
       concept: here
       built: [ehu, stalu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uhu stalu bhe
       class: part
       field: Numbers and grammar words
       gloss: there; at that place
       concept: there
       built: [uhu, stalu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: keru stalu bhe
       class: part
       field: Numbers and grammar words
       gloss: somewhere; at an unspecified place
       concept: somewhere
       built: [keru, stalu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nortu stalu bhe
       class: part
       field: Numbers and grammar words
       gloss: nowhere; at no place
       concept: nowhere
       built: [nortu, stalu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu stalu bhe
       class: part
       field: Numbers and grammar words
       gloss: everywhere; at every place
       concept: everywhere
       built: [sartu, stalu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: duruk
       class: part
       field: Numbers and grammar words
       gloss: far; at a distance
       concept: far
-      source: {kind: coined}
+      source: { kind: coined }
     - form: minra
       class: part
       field: Numbers and grammar words
       gloss: between; among; within the interval or group named
       concept: [between, among]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: utrak
       class: part
       field: Numbers and grammar words
       gloss: up; above; over in an upper position
       concept: [above, over, up]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nitar
       class: part
       field: Numbers and grammar words
       gloss: down; below; under in a lower position
       concept: [below, under, down]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: rinru
       class: part
       field: Numbers and grammar words
       gloss: inside; within an enclosure
       concept: inside
-      source: {kind: coined}
+      source: { kind: coined }
     - form: turam
       class: part
       field: Numbers and grammar words
       gloss: outside; at an outer position
       concept: outside
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pordun
       class: part
       field: Numbers and grammar words
       gloss: beyond; on the farther side of a boundary
       concept: beyond
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pravun
       class: part
       field: Numbers and grammar words
       gloss: before; in front of in space
       concept: before-spatial
-      source: {kind: coined}
+      source: { kind: coined }
     - form: leru
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the left; the left-hand direction or side
       concept: left-direction
-      source: {kind: coined}
+      source: { kind: coined }
     - form: deru
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the right; the right-hand direction or side
       concept: right-direction
-      source: {kind: coined}
+      source: { kind: coined }
     - form: minru
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: the center; the middle point or region
       concept: center
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pravul
       class: adv
       field: Numbers and grammar words
       gloss: forward; toward the front
       concept: forward
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anval
       class: adv
       field: Numbers and grammar words
       gloss: backward; toward the rear
       concept: backward
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tral
       class: part
       field: Numbers and grammar words
       gloss: to; toward a destination
       concept: [toward, to]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: durul
       class: adv
       field: Numbers and grammar words
       gloss: away; toward a more distant position
       concept: away
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pral
       class: part
       field: Numbers and grammar words
       gloss: through; passing within and out of
       concept: through
-      source: {kind: coined}
+      source: { kind: coined }
     - form: trel
       class: part
       field: Numbers and grammar words
       gloss: across; from one side to the other
       concept: across
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mon
       class: part
       field: Numbers and grammar words
       gloss: around; along or on the surrounding edge
       concept: around
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pa
       class: part
       field: Numbers and grammar words
       gloss: on; upon a supporting surface
       concept: on
-      source: {kind: coined}
+      source: { kind: coined }
     - form: trum
       class: part
       field: Numbers and grammar words
       gloss: from; marking a source or starting point
       concept: from
-      source: {kind: coined}
+      source: { kind: coined }
     - form: stanra
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: a position; where something is placed
       concept: position
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pantru
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: a direction; a course toward a place
       concept: direction
-      source: {kind: coined}
+      source: { kind: coined }
     - form: durun
       class: n
       field: Mountain, forest, field and the shapes of the land
       gloss: distance; separation between places
       concept: distance
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldalet
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: a moment; a short portion of time
       concept: moment
       built: [kalda, let]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dopranu
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: morning; the early part of the day
       concept: morning
-      source: {kind: coined}
+      source: { kind: coined }
     - form: surtaminru
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: noon; the middle of the day
       concept: noon
       built: [surta, minru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ghaulminru
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: midnight; the middle of the night
       concept: midnight
       built: [ghaul, minru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kenu
       class: adv
       field: Numbers and grammar words
       gloss: now; at the present time
       concept: now
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uhu kalda bhe
       class: part
       field: Numbers and grammar words
       gloss: then; at that time
       concept: then
       built: [uhu, kalda, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ehu demu bhe
       class: part
       field: Numbers and grammar words
       gloss: today; on this day
       concept: today
       built: [ehu, demu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: demunra
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: yesterday; the day before today
       concept: yesterday
-      source: {kind: coined}
+      source: { kind: coined }
     - form: demunva
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: tomorrow; the day after today
       concept: tomorrow
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anrakalda
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: the past; time before the present
       concept: past
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kenukalda
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: the present; the current time
       concept: present
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anvakalda
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: the future; time after the present
       concept: future
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anra
       class: part
       field: Numbers and grammar words
       gloss: before; earlier than a stated time
       concept: before-time
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamprabhana ro kalda bhe
       class: part
       field: Numbers and grammar words
       gloss: during the birth; a named event stands before ro kalda bhe
       concept: during
       built: [lamprabhana, ro, kalda, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldem
       class: conj
       field: Numbers and grammar words
       gloss: while; during the time that the accompanying clause holds
       concept: while
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grun
       class: part
       field: Numbers and grammar words
       gloss: until; up to a stated time or event
       concept: until
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamprabhana ro kalda trum
       class: part
       field: Numbers and grammar words
       gloss: since the birth; a named event stands before ro kalda trum
       concept: since-time
       built: [lamprabhana, ro, kalda, trum]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu kalda bhe
       class: part
       field: Numbers and grammar words
       gloss: always; at every time
       concept: always
       built: [sartu, kalda, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: barnu demrak bhe
       class: part
       field: Numbers and grammar words
       gloss: often; on many occasions
       concept: often
       built: [barnu, demrak, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: keru demrak bhe
       class: part
       field: Numbers and grammar words
       gloss: sometimes; on some occasions
       concept: sometimes
       built: [keru, demrak, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: letru demrak bhe
       class: part
       field: Numbers and grammar words
       gloss: rarely; on few occasions
       concept: rarely
       built: [letru, demrak, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nortu demrak bhe
       class: part
       field: Numbers and grammar words
       gloss: never; on no occasion
       concept: never
       built: [nortu, demrak, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drau kalda ro
       class: part
       field: Numbers and grammar words
       gloss: lasting a long time; of long duration
       concept: long-duration
       built: [drau, kalda, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: let kalda ro
       class: part
       field: Numbers and grammar words
       gloss: short in duration; brief
       concept: [short-duration, brief-duration]
       built: [let, kalda, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vramul
       class: adv
       field: Numbers and grammar words
       gloss: again; another time
       concept: again
-      source: {kind: coined}
+      source: { kind: coined }
     - form: aisu demrak bhe
       class: part
       field: Numbers and grammar words
       gloss: once; on one occasion
       concept: once
       built: [aisu, demrak, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: birsa demrak bhe
       class: part
       field: Numbers and grammar words
       gloss: twice; on two occasions
       concept: twice
       built: [birsa, demrak, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vramul vramul
       class: adv
       field: Numbers and grammar words
       gloss: repeatedly; again and again
       concept: repeatedly
       built: [vramul, vramul]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: prenu
       class: adv
       field: Numbers and grammar words
       gloss: already; before the time in question
       concept: already
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyuru
       class: adv
       field: Numbers and grammar words
       gloss: continuously; still; remaining in progress
       concept: still
-      source: {kind: coined}
+      source: { kind: coined }
     - form: renuk
       class: adv
       field: Numbers and grammar words
       gloss: yet; up to the present or stated time, especially in questions and negatives
       concept: yet
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldalet anva
       class: part
       field: Numbers and grammar words
       gloss: soon; after a short interval
       concept: soon
       built: [kaldalet, anva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kenu anva
       class: part
       field: Numbers and grammar words
       gloss: later; after now
       concept: later
       built: [kenu, anva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: doprul
       class: adv
       field: Numbers and grammar words
       gloss: early; before the usual or expected time
       concept: early
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sandul
       class: adv
       field: Numbers and grammar words
       gloss: late; after the usual or expected time
       concept: late
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganstal aisu bhe
       class: part
       field: Numbers and grammar words
       gloss: first; at the initial event in a sequence
       concept: first-sequence
       built: [ganstal, aisu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anvaganstal
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: the next position or event in a sequence
       concept: next
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldunganstal
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: the last position or event in a sequence
       concept: last
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kaldunganstal bhe
       class: part
       field: Numbers and grammar words
       gloss: finally; at the last event in a sequence
       concept: finally
       built: [kaldunganstal, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo ro
       class: part
       field: Numbers and grammar words
       gloss: my; mine; of the speaker
       concept: my
       built: [mo, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu ro
       class: part
       field: Numbers and grammar words
       gloss: your; yours; of the person addressed
       concept: your
       built: [nu, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vi
       class: pron
       field: Numbers and grammar words
       gloss: it; the thing referred to
       concept: it
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vena
       class: pron
       field: Numbers and grammar words
       gloss: they; the people or things referred to
       concept: they
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mova ro
       class: part
       field: Numbers and grammar words
       gloss: our; ours; of the speaker and others
       concept: our
       built: [mova, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ehun
       class: pron
       field: Numbers and grammar words
       gloss: these; the nearby people or things indicated
       concept: these
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uhun
       class: pron
       field: Numbers and grammar words
       gloss: those; the more distant people or things indicated
       concept: those
-      source: {kind: coined}
+      source: { kind: coined }
     - form: keru janru
       class: n
       field: Numbers and grammar words
       gloss: someone; an unspecified person
       concept: someone
       built: [keru, janru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrel janru
       class: n
       field: Numbers and grammar words
       gloss: anyone; any person without restriction
       concept: anyone
       built: [vrel, janru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu janru
       class: n
       field: Numbers and grammar words
       gloss: everyone; every person
       concept: everyone
       built: [sartu, janru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nortu janru
       class: n
       field: Numbers and grammar words
       gloss: no one; no person
       concept: no-one
       built: [nortu, janru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: keru varsu
       class: n
       field: Numbers and grammar words
       gloss: something; an unspecified thing
       concept: something
       built: [keru, varsu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrel varsu
       class: n
       field: Numbers and grammar words
       gloss: anything; any thing without restriction
       concept: anything
       built: [vrel, varsu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu varsu
       class: n
       field: Numbers and grammar words
       gloss: everything; every thing
       concept: everything
       built: [sartu, varsu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brel
       class: pron
       field: Numbers and grammar words
       gloss: oneself; the same person or thing as the subject of the clause
       concept: self
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navu
       class: pron
       field: Numbers and grammar words
       gloss: the other; another person or thing distinct from the one in view
       concept: other
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navu aisu
       class: pron
       field: Numbers and grammar words
       gloss: another one; one more distinct person or thing
       concept: another
       built: [navu, aisu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samnu
       class: adj
       field: Numbers and grammar words
       gloss: the same; identical in identity
       concept: same
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas samnu
       class: adj
       field: Numbers and grammar words
       gloss: different; not the same
       concept: different
       built: [uvas, samnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kren
       class: pron
       field: Numbers and grammar words
       gloss: which one; asking for a selection from a known set
       concept: question-which
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu stalu bhe
       class: part
       field: Numbers and grammar words
       gloss: where; at what place
       concept: question-where
       built: [kevu, stalu, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu kalda bhe
       class: part
       field: Numbers and grammar words
       gloss: when; at what time
       concept: question-when
       built: [kevu, kalda, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu karun drun
       class: part
       field: Numbers and grammar words
       gloss: why; because of what cause or reason
       concept: question-why
       built: [kevu, karun, drun]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu pantra shem
       class: part
       field: Numbers and grammar words
       gloss: how; by what way or means
       concept: question-how
       built: [kevu, pantra, shem]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu ganru
       class: n
       field: Speech, learning and the written word
       gloss: how many; what number
       concept: question-how-many
       built: [kevu, ganru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu ganmul
       class: n
       field: Speech, learning and the written word
       gloss: how much; what amount
       concept: question-how-much
       built: [kevu, ganmul]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jahu ro
       class: part
       field: Numbers and grammar words
       gloss: whose; of which person
       concept: question-whose
       built: [jahu, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jahu tral
       class: part
       field: Numbers and grammar words
       gloss: to whom; toward which person
       concept: question-to-whom
       built: [jahu, tral]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu stalu trum
       class: part
       field: Numbers and grammar words
       gloss: from where; from what place
       concept: question-from-where
       built: [kevu, stalu, trum]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu prabru druk
       class: part
       field: Numbers and grammar words
       gloss: for what purpose; toward what intended aim
       concept: question-for-what-purpose
       built: [kevu, prabru, druk]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: su
       class: part
       field: Numbers and grammar words
       gloss: marks a yes-or-no question at the end of an utterance
       concept: question-polar
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kevu?
       class: call
       field: Speech, learning and the written word
       gloss: What?; Pardon?; a request to repeat or clarify what was just said
       concept: [expression-pardon, expression-what, question-clarification]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ganstal
       class: n
       field: Numbers and grammar words
       gloss: a numbered position in an ordered series
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrun
       class: part
       field: Numbers and grammar words
       gloss: than; marking the comparison standard
       concept: than
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kartul
       class: adv
       field: Numbers and grammar words
       gloss: completely; wholly
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bravul
       class: adv
       field: Numbers and grammar words
       gloss: loudly; with a strong voice
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimral
       class: adv
       field: Numbers and grammar words
       gloss: quietly; in a very low voice
-      source: {kind: coined}
+      source: { kind: coined }
     - form: janru
       class: n
       field: Station, rank and office
       gloss: a person; an individual human being
       concept: person
-      source: {kind: coined}
+      source: { kind: coined }
     - form: varsu
       class: n
       field: Doing, going and being
       gloss: a thing; an entity or object
       concept: thing
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrel
       class: adj
       field: Numbers and grammar words
       gloss: any; whichever one, without restriction
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karun
       class: n
       field: Doing, going and being
       gloss: a cause; a reason why something happens
       concept: [cause, reason]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: prabru
       class: n
       field: Doing, going and being
       gloss: a purpose; an intended aim
       concept: purpose
-      source: {kind: coined}
+      source: { kind: coined }
     - form: druk
       class: part
       field: Numbers and grammar words
       gloss: for; in pursuit of a purpose
       concept: for-purpose
-      source: {kind: coined}
+      source: { kind: coined }
     - form: demrak
       class: n
       field: Sun, moon, sky and the reckoning of time
       gloss: an occasion; an occurrence or instance
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drun
       class: part
       field: Numbers and grammar words
       gloss: because of; on account of a cause or reason
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bram barnu
       class: adj
       field: Numbers and grammar words
       gloss: more numerous; greater in amount
       concept: more
       built: [bram, barnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyem barnu
       class: adj
       field: Numbers and grammar words
       gloss: less numerous; smaller in amount
       concept: less
       built: [nyem, barnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu navu vrun bram barnu
       class: adj
       field: Numbers and grammar words
       gloss: most numerous; greatest in amount among all those compared
       concept: most
       built: [sartu, navu, vrun, bram, barnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu navu vrun nyem barnu
       class: adj
       field: Numbers and grammar words
       gloss: least numerous; smallest in amount among all those compared
       concept: least
       built: [sartu, navu, vrun, nyem, barnu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vre
       class: part
       field: Numbers and grammar words
       gloss: yes; indeed; affirms the preceding claim or question
       concept: [yes, indeed]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nuk
       class: part
       field: Numbers and grammar words
       gloss: no; rejects the preceding claim or question
       concept: no
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyak
       class: adj
       field: Duty, law and judgment
       gloss: true; in accord with reality or fact
       concept: "true"
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas sotyak
       class: adj
       field: Duty, law and judgment
       gloss: false; not in accord with fact
       concept: "false"
       built: [uvas, sotyak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyal
       class: adv
       field: Numbers and grammar words
       gloss: really; truly; sincerely; asserting that the claim is genuine
       concept: sincerity
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyanyur shem
       class: part
       field: Numbers and grammar words
       gloss: certainly; with certainty in the claim being made
       concept: certainly
       built: [sotyanyur, shem]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dvirnul
       class: adv
       field: Numbers and grammar words
       gloss: perhaps; possibly, without a firm commitment to the claim
       concept: perhaps
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grendu
       class: adv
       field: Numbers and grammar words
       gloss: probably; more likely than not
       concept: probably
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas grendu
       class: adv
       field: Numbers and grammar words
       gloss: unlikely; not probable
       concept: unlikely
       built: [uvas, grendu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyanir
       class: adj
       field: Duty, law and judgment
       gloss: certain; convinced that a claim is true
       concept: certain
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas sotyanir
       class: adj
       field: Duty, law and judgment
       gloss: uncertain; not convinced of the claim
       concept: uncertain
       built: [uvas, sotyanir]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dirmul
       class: adv
       field: Numbers and grammar words
       gloss: apparently; on the evidence of appearances
       concept: apparently
-      source: {kind: coined}
+      source: { kind: coined }
     - form: lamprul
       class: adv
       field: Numbers and grammar words
       gloss: supposedly; according to a report not confirmed by the speaker
       concept: supposedly
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotya bhe
       class: part
       field: Numbers and grammar words
       gloss: in fact; in truth; asserting the actual state of affairs
       concept: in-fact
       built: [sotya, bhe]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dvirnuk
       class: v
       field: Duty, law and judgment
       gloss: to doubt; to question whether a claim is true
       concept: doubt-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vredun
       class: v
       field: Duty, law and judgment
       gloss: to suspect; to think a claim may be true without firm proof
       concept: suspect
-      source: {kind: coined}
+      source: { kind: coined }
     - form: gansuk
       class: v
       field: Duty, law and judgment
       gloss: to guess; to offer an answer without knowing it
       concept: guess-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotruk
       class: v
       field: Duty, law and judgment
       gloss: to assume; to take a claim as true without establishing it
       concept: assume-verb
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samrin
       class: adj
       field: Duty, law and judgment
       gloss: correct; conforming to the relevant fact or rule
       concept: correct
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas samrin
       class: adj
       field: Duty, law and judgment
       gloss: incorrect; not correct
       concept: incorrect
       built: [uvas, samrin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas samrak
       class: v
       field: Duty, law and judgment
       gloss: to disagree; to withhold assent to a claim
       concept: disagree
       built: [uvas, samrak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyabrak
       class: n
       field: Duty, law and judgment
       gloss: a falsehood; a false claim, whether intentional or mistaken
       concept: falsehood
       built: [sotya, brak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vau
       class: conj
       field: Numbers and grammar words
       gloss: or; introduces an alternative
       concept: or
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nel
       class: conj
       field: Numbers and grammar words
       gloss: but; introduces a contrast
       concept: but
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nukva
       class: conj
       field: Numbers and grammar words
       gloss: nor; and not, continuing a negative alternative
       concept: nor
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drunem
       class: conj
       field: Numbers and grammar words
       gloss: because; introduces the cause or reason for the main claim
       concept: because
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drunva
       class: adv
       field: Numbers and grammar words
       gloss: therefore; as a consequence of the stated reason
       concept: therefore
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vren
       class: conj
       field: Numbers and grammar words
       gloss: if; introduces a condition
       concept: if
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anven
       class: part
       field: Numbers and grammar words
       gloss: then; marks the consequence of a stated condition
       concept: then-conditional
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vren uvas
       class: conj
       field: Numbers and grammar words
       gloss: unless; if not; vren introduces the condition and uvas negates its predicate
       concept: unless
       built: [vren, uvas]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navren
       class: adv
       field: Numbers and grammar words
       gloss: otherwise; in the opposite condition or alternative
       concept: otherwise
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nervren
       class: conj
       field: Numbers and grammar words
       gloss: although; introduces a concession that does not prevent the main claim
       concept: although
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nerul
       class: adv
       field: Numbers and grammar words
       gloss: however; introduces a contrasting claim
       concept: however
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyurul
       class: adv
       field: Numbers and grammar words
       gloss: nevertheless; despite the preceding circumstance
       concept: nevertheless
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nervru
       class: part
       field: Numbers and grammar words
       gloss: despite; notwithstanding a named circumstance
       concept: despite
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navul
       class: adv
       field: Numbers and grammar words
       gloss: instead; in place of the previous alternative
       concept: instead
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uhu shem samrek
       class: adj
       field: Numbers and grammar words
       gloss: like that; similar to the stated comparison, which replaces uhu
       concept: like
       built: [uhu, shem, samrek]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uhu shem uvas samrek
       class: adj
       field: Numbers and grammar words
       gloss: unlike that; not resembling the comparison, which replaces uhu
       concept: unlike
       built: [uhu, shem, uvas, samrek]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uhu ro samnu pantra shem
       class: part
       field: Numbers and grammar words
       gloss: as that one does; in the same way as the comparison, which replaces uhu
       concept: as
       built: [uhu, ro, samnu, pantra, shem]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vau vau
       class: conj
       field: Numbers and grammar words
       gloss: either ... or; one vau introduces each alternative
       concept: either-alternative
       built: [vau, vau]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nukva nukva
       class: conj
       field: Numbers and grammar words
       gloss: neither ... nor; one nukva excludes each alternative
       concept: neither-alternative
       built: [nukva, nukva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: le le
       class: part
       field: Numbers and grammar words
       gloss: both ... and; one le accompanies each of the two included alternatives
       concept: both-conjunction
       built: [le, le]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vren vau
       class: conj
       field: Numbers and grammar words
       gloss: whether; introduces an unresolved choice between alternatives
       concept: whether
       built: [vren, vau]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shaltun lampu
       class: v
       field: Numbers and grammar words
       gloss: that is; to state the meaning of the preceding expression
       concept: that-is
       built: [shaltun, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tirma lampu
       class: v
       field: Numbers and grammar words
       gloss: namely; to state the particular name or names intended
       concept: namely
       built: [tirma, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: darsika shem
       class: part
       field: Numbers and grammar words
       gloss: for example; with an illustrative instance
       concept: for-example
       built: [darsika, shem]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nuvrek
       class: part
       field: Numbers and grammar words
       gloss: except; leaving the named member outside the claim
       concept: except
-      source: {kind: coined}
+      source: { kind: coined }
     - form: aisul
       class: adv
       field: Numbers and grammar words
       gloss: only; excluding other alternatives
       concept: only
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahvel
       class: adv
       field: Numbers and grammar words
       gloss: even; including an unexpected or extreme case
       concept: even
-      source: {kind: coined}
+      source: { kind: coined }
     - form: levu
       class: adv
       field: Numbers and grammar words
       gloss: also; in addition
       concept: also
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mokhyal
       class: adv
       field: Numbers and grammar words
       gloss: especially; with particular emphasis
       concept: especially
-      source: {kind: coined}
+      source: { kind: coined }
     - form: letrak
       class: adj
       field: Kin, household and the person
       gloss: small in size
       concept: small
-      source: {kind: coined}
+      source: { kind: coined }
     - form: litru
       class: adj
       field: Kin, household and the person
       gloss: tiny; very small in size
       concept: tiny
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahrak
       class: adj
       field: Kin, household and the person
       gloss: huge; very large in size
       concept: huge
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dralet
       class: adj
       field: Kin, household and the person
       gloss: short in spatial length
       concept: short
-      source: {kind: coined}
+      source: { kind: coined }
     - form: utranak
       class: adj
       field: Kin, household and the person
       gloss: high; at a great height
       concept: high
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nitrak
       class: adj
       field: Kin, household and the person
       gloss: low; at little height
       concept: low
-      source: {kind: coined}
+      source: { kind: coined }
     - form: drautrak
       class: adj
       field: Kin, household and the person
       gloss: tall; of great vertical extent
       concept: tall
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mavru
       class: adj
       field: Kin, household and the person
       gloss: wide; broad in extent
       concept: wide
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mavlet
       class: adj
       field: Kin, household and the person
       gloss: narrow; of small width
       concept: narrow
-      source: {kind: coined}
+      source: { kind: coined }
     - form: umbran
       class: adj
       field: Kin, household and the person
       gloss: heavy; of great weight
       concept: heavy
-      source: {kind: coined}
+      source: { kind: coined }
     - form: umbralet
       class: adj
       field: Kin, household and the person
       gloss: light in weight
       concept: light-weight
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navru
       class: adj
       field: Kin, household and the person
       gloss: new; newly made or encountered
       concept: new
-      source: {kind: coined}
+      source: { kind: coined }
     - form: praksun
       class: adj
       field: Kin, household and the person
       gloss: fast; moving or occurring at great speed
       concept: fast
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nirmak
       class: adj
       field: Kin, household and the person
       gloss: slow; moving or occurring at little speed
       concept: slow
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nardru
       class: adj
       field: Kin, household and the person
       gloss: easy; requiring little effort
       concept: easy
-      source: {kind: coined}
+      source: { kind: coined }
     - form: krandru
       class: adj
       field: Kin, household and the person
       gloss: difficult; requiring great effort
       concept: difficult
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vardak
       class: adj
       field: Kin, household and the person
       gloss: good
       concept: good
-      source: {kind: coined}
+      source: { kind: coined }
     - form: branu
       class: adj
       field: Kin, household and the person
       gloss: bad
       concept: bad
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bram vardak
       class: adj
       field: Kin, household and the person
       gloss: better; more good than the comparison
       concept: better
       built: [bram, vardak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bram branu
       class: adj
       field: Kin, household and the person
       gloss: worse; more bad than the comparison
       concept: worse
       built: [bram, branu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sartu navu vrun bram branu
       class: adj
       field: Kin, household and the person
       gloss: worst; worse than every other member of the compared set
       concept: worst
       built: [sartu, navu, vrun, bram, branu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahvorta
       class: adj
       field: Kin, household and the person
       gloss: important; having great significance
       concept: important
-      source: {kind: coined}
+      source: { kind: coined }
     - form: letrorta
       class: adj
       field: Kin, household and the person
       gloss: trivial; of little significance
       concept: trivial
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyakun
       class: adj
       field: Kin, household and the person
       gloss: necessary; required, rather than optional
       concept: [necessary, required]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: orghin
       class: adj
       field: Kin, household and the person
       gloss: valuable; having substantial worth
       concept: valuable
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shon orgha ro
       class: part
       field: Numbers and grammar words
       gloss: worthless; of zero worth in the valuation being made
       concept: worthless
       built: [shon, orgha, ro]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karmul
       class: adj
       field: Kin, household and the person
       gloss: useful; serving a practical purpose
       concept: useful
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas karmul
       class: adj
       field: Kin, household and the person
       gloss: useless; serving no practical purpose
       concept: useless
       built: [uvas, karmul]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brakru
       class: adj
       field: Kin, household and the person
       gloss: broken; damaged by a break
       concept: broken
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas kartum
       class: adj
       field: Kin, household and the person
       gloss: incomplete; not complete
       concept: incomplete
       built: [uvas, kartum]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sotyin
       class: adj
       field: Kin, household and the person
       gloss: honest; truthful and not intentionally deceptive
       concept: honest
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas sotyin
       class: adj
       field: Kin, household and the person
       gloss: dishonest; intentionally deceptive
       concept: dishonest
       built: [uvas, sotyin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahrul
       class: adv
       field: Numbers and grammar words
       gloss: very; to a high degree
       concept: very
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mahrul mahrul
       class: adv
       field: Numbers and grammar words
       gloss: extremely; to a very high degree
       concept: extremely
       built: [mahrul, mahrul]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kerul
       class: adv
       field: Numbers and grammar words
       gloss: somewhat; to a moderate degree
       concept: somewhat
-      source: {kind: coined}
+      source: { kind: coined }
     - form: letrul
       class: adv
       field: Numbers and grammar words
       gloss: slightly; to a small degree
       concept: slightly
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nardul
       class: adv
       field: Numbers and grammar words
       gloss: barely; only just reaching the relevant threshold
       concept: barely
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nardubram
       class: adv
       field: Numbers and grammar words
       gloss: too much; beyond the sufficient or acceptable degree
       concept: too-much
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nardunyem
       class: adv
       field: Numbers and grammar words
       gloss: too little; below the sufficient or acceptable degree
       concept: too-little
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samrek
       class: adj
       field: Kin, household and the person
       gloss: similar; resembling without requiring identity
       concept: similar
-      source: {kind: coined}
+      source: { kind: coined }
     - form: anvrak
       class: adj
       field: Kin, household and the person
       gloss: opposite; facing or occupying the contrasting direction or side
       concept: opposite
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grenu
       class: part
       field: Numbers and grammar words
       gloss: can; has the ability to perform the stated action
       concept: can
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas grenu
       class: part
       field: Numbers and grammar words
       gloss: cannot; lacks the ability to perform the stated action
       concept: cannot
       built: [uvas, grenu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grenak
       class: adj
       field: Numbers and grammar words
       gloss: possible; capable of happening
       concept: possible
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas grenak
       class: adj
       field: Numbers and grammar words
       gloss: impossible; incapable of happening
       concept: impossible
       built: [uvas, grenak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vranu
       class: part
       field: Numbers and grammar words
       gloss: may; has permission to perform the stated action
       concept: may-permission
-      source: {kind: coined}
+      source: { kind: coined }
     - form: grenem
       class: part
       field: Numbers and grammar words
       gloss: might; the stated event is possible
       concept: might-possibility
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyak
       class: part
       field: Numbers and grammar words
       gloss: must; the stated action is necessary or required
       concept: must
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nyak uvas
       class: part
       field: Numbers and grammar words
       gloss: must not; the stated action is prohibited
       concept: must-not
       built: [nyak, uvas]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vardun
       class: part
       field: Numbers and grammar words
       gloss: ought; the stated action is advised or appropriate
       concept: ought
-      source: {kind: coined}
+      source: { kind: coined }
     - form: keruk
       class: adj
       field: Numbers and grammar words
       gloss: optional; available to choose without being required
       concept: optional
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vranuk
       class: adj
       field: Numbers and grammar words
       gloss: allowed; permitted
       concept: allowed
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vranru
       class: adj
       field: Numbers and grammar words
       gloss: forbidden; prohibited
       concept: forbidden
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vrannuk
       class: v
       field: Numbers and grammar words
       gloss: to permit; to grant permission for an action
       concept: permit
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vranbrak
       class: v
       field: Numbers and grammar words
       gloss: to prohibit; to forbid an action
       concept: prohibit
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mukru orsa
       class: v
       field: Numbers and grammar words
       gloss: to be free to act; to be unconstrained in action
       concept: free
       built: [mukru, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brondun
       class: adj
       field: Numbers and grammar words
       gloss: constrained; restricted in action
       concept: constrained
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kamvin
       class: adj
       field: Numbers and grammar words
       gloss: willing; prepared to do the action voluntarily
       concept: willing
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas kamvin
       class: adj
       field: Numbers and grammar words
       gloss: unwilling; not prepared to do the action voluntarily
       concept: unwilling
       built: [uvas, kamvin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karmunin
       class: adj
       field: Numbers and grammar words
       gloss: intended; done or planned on purpose
       concept: intended
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karmuvra
       class: adj
       field: Numbers and grammar words
       gloss: accidental; happening without intention
       concept: accidental
-      source: {kind: coined}
+      source: { kind: coined }
     - form: Agarana dulipati, vandikana
       class: call
       field: Speech, learning and the written word
@@ -5829,460 +5884,1509 @@ data:
       gloss: be well; a fixed friendly greeting or parting wish for the addressed person's health
       concept: [goodbye, hello]
       built: [nu, kalnu, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu atki orsa
       class: call
       field: Speech, learning and the written word
       gloss: welcome; you are a guest, said when receiving someone
       concept: expression-welcome
       built: [nu, atki, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimbra shem
       class: part
       field: Numbers and grammar words
       gloss: please; with humility, marking a polite request
       concept: expression-please
       built: [nimbra, shem]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo pratnu lampu
       class: call
       field: Speech, learning and the written word
       gloss: thank you; the fixed expression of gratitude to the person addressed
       concept: expression-thank-you
       built: [mo, pratnu, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pratnu uvas nyakun orsa
       class: call
       field: Speech, learning and the written word
       gloss: you are welcome; thanks are not required, a courteous response to thanks
       concept: expression-youre-welcome
       built: [pratnu, uvas, nyakun, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nimbra shem, mo jahnuk
       class: call
       field: Speech, learning and the written word
       gloss: excuse me; a polite request for attention or leave to ask
       concept: expression-excuse-me
       built: [nimbra, shem, mo, jahnuk]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo shardun ushta
       class: call
       field: Speech, learning and the written word
       gloss: I am sorry; I feel regret over my action or its consequences
       concept: expression-sorry
       built: [mo, shardun, ushta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu mo vimbhu
       class: call
       field: Speech, learning and the written word
       gloss: forgive me; a fixed request for forgiveness addressed to the hearer
       concept: expression-forgive-me
       built: [nu, mo, vimbhu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu nyura bhinu
       class: call
       field: Speech, learning and the written word
       gloss: listen; an addressed request for sustained hearing and attention
       concept: expression-listen
       built: [nu, nyura, bhinu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu darmu
       class: call
       field: Speech, learning and the written word
       gloss: look; an addressed request to direct one's gaze
       concept: expression-look
       built: [nu, darmu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu nirpak
       class: call
       field: Speech, learning and the written word
       gloss: wait; an addressed request to stay for the expected event
       concept: expression-wait
       built: [nu, nirpak]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu ehu stalu tral hauvu
       class: call
       field: Speech, learning and the written word
       gloss: come here; an addressed request to come to this place
       concept: expression-come-here
       built: [nu, ehu, stalu, tral, hauvu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu durul chambu
       class: call
       field: Speech, learning and the written word
       gloss: go away; an addressed request to move away
       concept: expression-go-away
       built: [nu, durul, chambu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu mo shempal
       class: call
       field: Speech, learning and the written word
       gloss: help me; a request for aid addressed to the hearer
       concept: expression-help
       built: [nu, mo, shempal]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu brondu
       class: call
       field: Speech, learning and the written word
       gloss: stop; an addressed request to cease the action
       concept: expression-stop
       built: [nu, brondu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vramul!
       class: call
       field: Speech, learning and the written word
       gloss: again; a request to repeat the action or words
       concept: expression-again
       built: [vramul]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo jnenru
       class: call
       field: Speech, learning and the written word
       gloss: I understand; an acknowledgement that the meaning is grasped
       concept: expression-i-understand
       built: [mo, jnenru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo uvas jnenru
       class: call
       field: Speech, learning and the written word
       gloss: I do not understand; an acknowledgement that the meaning is not grasped
       concept: expression-i-do-not-understand
       built: [mo, uvas, jnenru]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu ro shaltun kevu orsa?
       class: call
       field: Speech, learning and the written word
       gloss: what do you mean; what is your intended meaning
       concept: expression-what-do-you-mean
       built: [nu, ro, shaltun, kevu, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nu ehu vedyari bhe kevu pantra shem lampu?
       class: call
       field: Speech, learning and the written word
       gloss: how do you say this in Vedyari; asking for the expression in the tongue
       concept: expression-how-do-you-say
       built: [nu, ehu, vedyari, bhe, kevu, pantra, shem, lampu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ehu ro tirma kevu orsa?
       class: call
       field: Speech, learning and the written word
       gloss: what is this called; what is the name of this
       concept: expression-what-is-this-called
       built: [ehu, ro, tirma, kevu, orsa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ehu sotyak orsa su?
       class: call
       field: Speech, learning and the written word
       gloss: really; is this true, asking for confirmation or expressing surprise
       concept: expression-really
       built: [ehu, sotyak, orsa, su]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kartul uvas
       class: call
       field: Speech, learning and the written word
       gloss: not at all; a complete negative response in conversation
       concept: expression-not-at-all
       built: [kartul, uvas]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: janrun
       class: adj
       field: Station, rank and office
       gloss: human; belonging to humankind
       concept: human
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarnak jannuk
       class: n
       field: Station, rank and office
       gloss: a man; an adult male human
       concept: man
       built: [tarnak, jannuk]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nirnak jannuk
       class: n
       field: Station, rank and office
       gloss: a woman; an adult female human
       concept: woman
       built: [nirnak, jannuk]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarnak lam
       class: n
       field: Station, rank and office
       gloss: a boy; a male child
       concept: boy
       built: [tarnak, lam]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nirnak lam
       class: n
       field: Station, rank and office
       gloss: a girl; a female child
       concept: girl
       built: [nirnak, lam]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jannuk
       class: n
       field: Station, rank and office
       gloss: an adult; a grown person
       concept: adult
-      source: {kind: coined}
+      source: { kind: coined }
     - form: janru aisu
       class: n
       field: Station, rank and office
       gloss: an individual; one person considered separately
       concept: individual
       built: [janru, aisu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sangru
       class: n
       field: Station, rank and office
       gloss: a group; several people or things considered together
       concept: group
-      source: {kind: coined}
+      source: { kind: coined }
     - form: barnu janra
       class: n
       field: Station, rank and office
       gloss: a crowd; many people gathered together
       concept: crowd
       built: [barnu, janra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: janrakulpa
       class: n
       field: Station, rank and office
       gloss: a tribe; a people organized by kinship
       concept: tribe
       built: [janra, kulpa]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: janrasangra
       class: n
       field: Station, rank and office
       gloss: a community; people joined by locality or a shared way of life
       concept: community
       built: [janra, sangra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karmu ro kuva
       class: n
       field: Station, rank and office
       gloss: a worker; a doer of work
       concept: worker
       built: [karmu, ro, kuva]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: unara ro tirma
       class: n
       field: Station, rank and office
       gloss: a title; a name of rank or office
       concept: title
       built: [unara, ro, tirma]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: janranyur
       class: n
       field: Station, rank and office
       gloss: a custom; a habitual practice of a people
       concept: custom
       built: [janra, nyur]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dormashaltu
       class: n
       field: Station, rank and office
       gloss: a rule; a prescribed principle of conduct
       concept: rule
       built: [dorma, shaltu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: rinda
       class: n
       field: Station, rank and office
       gloss: order; the arrangement of things or conduct in a coherent pattern
       concept: order-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: najru
       class: n
       field: Station, rank and office
       gloss: a command; an instruction issued with authority
       concept: command-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: najruka
       class: n
       field: Station, rank and office
       gloss: obedience; carrying out a command or instruction
       concept: obedience
-      source: {kind: coined}
+      source: { kind: coined }
     - form: samrudorma
       class: n
       field: Station, rank and office
       gloss: justice; fair treatment and fair application of law
       concept: justice
       built: [samru, dorma]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas samrudorma
       class: n
       field: Station, rank and office
       gloss: injustice; unfair treatment or unfair application of law
       concept: injustice
       built: [uvas, samrudorma]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: dormin
       class: adj
       field: Station, rank and office
       gloss: right; morally acceptable, in accordance with duty
       concept: right-ethical
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas dormin
       class: adj
       field: Station, rank and office
       gloss: wrong; morally unacceptable
       concept: wrong-ethical
       built: [uvas, dormin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nermusangra
       class: n
       field: Station, rank and office
       gloss: peace; a state without war or hostilities
       concept: peace
       built: [nermu, sangra]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: sentakarmu
       class: n
       field: Station, rank and office
       gloss: war; organized armed conflict
       concept: war
       built: [senta, karmu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mukranu
       class: n
       field: Station, rank and office
       gloss: freedom; the state of being unconstrained
       concept: freedom
-      source: {kind: coined}
+      source: { kind: coined }
     - form: brondkoshta
       class: n
       field: Station, rank and office
       gloss: captivity; being confined or held captive
       concept: captivity
       built: [brond, koshta]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: pomon
       class: n
       field: Station, rank and office
       gloss: a gift; something given without requiring payment
       concept: gift
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas danha
       class: n
       field: Station, rank and office
       gloss: poverty; the condition of lacking wealth and material means
       concept: poverty
       built: [uvas, danha]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: mo ro varsu
       class: n
       field: Station, rank and office
       gloss: property; a thing owned by me; the possessor stands before ro, as mo does here
       concept: property
       built: [mo, ro, varsu]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ronyur
       class: n
       field: Station, rank and office
       gloss: ownership; the recognized state of possessing something as one's own
       concept: ownership
-      source: {kind: coined}
+      source: { kind: coined }
     - form: jnenabrond
       class: n
       field: Station, rank and office
       gloss: a secret; information deliberately kept from others
       concept: secret
       built: [jnena, brond]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ormoka
       class: n
       field: Doing, going and being
       gloss: a being; a living entity
       concept: being
       built: [orm-, -oka]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: ormona
       class: n
       field: Doing, going and being
       gloss: life; living, the activity of being alive
       concept: life
       built: [orm-, -ona]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kalduna
       class: n
       field: Doing, going and being
       gloss: an end; the point at which something finishes
       concept: end-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: kartuma
       class: n
       field: Doing, going and being
       gloss: completion; the state of being complete
       concept: completion
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navruna
       class: n
       field: Doing, going and being
       gloss: a change; an alteration in state or condition
       concept: change-noun
-      source: {kind: coined}
+      source: { kind: coined }
     - form: navronda
       class: n
       field: Doing, going and being
       gloss: a transformation; a profound change in form or nature
       concept: transformation
-      source: {kind: coined}
+      source: { kind: coined }
     - form: karunlam
       class: n
       field: Doing, going and being
       gloss: an effect; a result produced by a cause
       concept: effect
       built: [karun, lam]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: vartun
       class: n
       field: Doing, going and being
       gloss: a kind; a category or type
       concept: kind
-      source: {kind: coined}
+      source: { kind: coined }
     - form: orsin
       class: adj
       field: Doing, going and being
       gloss: real; actually existing
       concept: real
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas orsin
       class: adj
       field: Doing, going and being
       gloss: unreal; not actually existing
       concept: unreal
       built: [uvas, orsin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: bhumrin
       class: adj
       field: Doing, going and being
       gloss: natural; arising from or in accord with physical nature
       concept: natural
-      source: {kind: coined}
+      source: { kind: coined }
     - form: uvas bhumrin
       class: adj
       field: Doing, going and being
       gloss: unnatural; contrary to physical nature
       concept: unnatural
       built: [uvas, bhumrin]
-      source: {kind: coined}
+      source: { kind: coined }
     - form: shaltun
       class: n
       field: Numbers and grammar words
       gloss: a meaning; what is intended by an expression
-      source: {kind: coined}
+      source: { kind: coined }
     - form: tarnak
       class: adj
       field: Station, rank and office
       gloss: male; of a male human
-      source: {kind: coined}
+      source: { kind: coined }
     - form: nirnak
       class: adj
       field: Station, rank and office
       gloss: female; of a female human
-      source: {kind: coined}
+      source: { kind: coined }
+    - form: "vausnakra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "coastal spit of sand"
+      source: { kind: coined }
+    - form: "milka"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "mile as a measure of distance"
+      source: { kind: coined }
+    - form: "shimrashetka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "salt pan"
+      built: ["shimra", "shetka"]
+      source: { kind: coined }
+    - form: "oshkapalda"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "groom or keeper of horses"
+      built: ["oshka", "palda"]
+      source: { kind: coined }
+    - form: "navavoli"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "transverse thwart of a boat"
+      built: ["nau", "avoli"]
+      source: { kind: coined }
+    - form: "nauchela"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "planking of a boat"
+      source: { kind: coined }
+    - form: "oshkapadsa"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "horse's hoof"
+      built: ["oshka", "padsa"]
+      source: { kind: coined }
+    - form: "chinu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "cut or sever"
+      source: { kind: coined }
+    - form: "kirtu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "light or illumination"
+      source: { kind: coined }
+    - form: "letgroha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "shed"
+      built: ["let", "groha"]
+      source: { kind: coined }
+    - form: "banduk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "bind or tie physically or by oath"
+      source: { kind: coined }
+    - form: "simra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "the march as frontier territory"
+      source: { kind: coined }
+    - form: "pachru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "west or western direction"
+      source: { kind: coined }
+    - form: "ushtona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "keeping or act of holding"
+      built: ["usht-", "-ona"]
+      source: { kind: coined }
+    - form: "mavkhondra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "fan-shaped spread of ground or stones"
+      source: { kind: coined }
+    - form: "prastuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "spread out across a surface"
+      source: { kind: coined }
+    - form: "nodra"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "river"
+      source: { kind: coined }
+    - form: "gana"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "sing"
+      source: { kind: coined }
+    - form: "rajbhumri"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "kingdom"
+      source: { kind: coined }
+    - form: "dakru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "south or southern direction"
+      source: { kind: coined }
+    - form: "shokot"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "wagon or cart"
+      source: { kind: coined }
+    - form: "tarpuna"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "ground compacted by beating or traffic"
+      source: { kind: coined }
+    - form: "margastonu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "roadside guard post"
+      built: ["margha", "stonu"]
+      source: { kind: coined }
+    - form: "dorsasuta"
+      class: "n"
+      field: "Stone, metal and treasure"
+      gloss: "iron chain"
+      source: { kind: coined }
+    - form: "surtapatona"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "sunset"
+      source: { kind: coined }
+    - form: "chortuna"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "applied coating of color or whitewash"
+      source: { kind: coined }
+    - form: "chortak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "paint or whitewash"
+      source: { kind: coined }
+    - form: "pashupalda"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "herder of livestock"
+      source: { kind: coined }
+    - form: "kretuna"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "being found or discovery"
+      source: { kind: coined }
+    - form: "satrenu"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "strayed or wandering away from its keeper"
+      source: { kind: coined }
+    - form: "dorpa"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "rope"
+      source: { kind: coined }
+    - form: "miratchela"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "mud brick"
+      source: { kind: coined }
+    - form: "miratutru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "low mound of collapsed earth or masonry"
+      source: { kind: coined }
+    - form: "grathuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "read written signs or traces"
+      source: { kind: coined }
+    - form: "trina"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "grass"
+      source: { kind: coined }
+    - form: "angala"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "courtyard"
+      source: { kind: coined }
+    - form: "angaludra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "courtyard wall"
+      built: ["angala", "ludra"]
+      source: { kind: coined }
+    - form: "utrana"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "vertical height"
+      source: { kind: coined }
+    - form: "alavoli"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "raised gallery along a wall"
+      source: { kind: coined }
+    - form: "brakkosha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "ruin of a building or settlement"
+      source: { kind: coined }
+    - form: "purvu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "east or eastern direction"
+      source: { kind: coined }
+    - form: "jalkakoshta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cistern"
+      source: { kind: coined }
+    - form: "utrastonu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "raised platform"
+      source: { kind: coined }
+    - form: "kholma"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "hollow or depression"
+      source: { kind: coined }
+    - form: "sutkalda"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "generation as a span of time"
+      source: { kind: coined }
+    - form: "jvelak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "kindle or light a lamp"
+      source: { kind: coined }
+    - form: "preska"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "quarrel or dispute"
+      source: { kind: coined }
+    - form: "jahnu"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "question"
+      source: { kind: coined }
+    - form: "bhada"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "armed escort and its service"
+      source: { kind: coined }
+    - form: "karmuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "hire someone for paid work"
+      source: { kind: coined }
+    - form: "karmuna"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "being hired or paid employment"
+      source: { kind: coined }
+    - form: "tulu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "weigh or deliberate on a statement"
+      source: { kind: coined }
+    - form: "katru"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "account or tale handed down"
+      source: { kind: coined }
+    - form: "chintuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "cut or hewn for a particular purpose"
+      source: { kind: coined }
+    - form: "smiritipalda"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "Memory-Keeper, keeper of genealogical recitation"
+      built: ["smiriti", "palda"]
+      source: { kind: coined }
+    - form: "sahu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "bear or endure a burden or distress"
+      source: { kind: coined }
+    - form: "taryu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "leave behind or abandon"
+      source: { kind: coined }
+    - form: "chinta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "chisel"
+      source: { kind: coined }
+    - form: "niksun"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "mastered or proficient"
+      source: { kind: coined }
+    - form: "jahnona"
+      class: "n"
+      field: "Duty, law and judgment"
+      gloss: "petition or request for judgment"
+      source: { kind: coined }
+    - form: "krurak"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "cruel"
+      source: { kind: coined }
+    - form: "jalpantra"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "water channel"
+      source: { kind: coined }
+    - form: "karva"
+      class: "n"
+      field: "Duty, law and judgment"
+      gloss: "tax"
+      source: { kind: coined }
+    - form: "ganona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "counting or reckoning"
+      built: ["gan-", "-ona"]
+      source: { kind: coined }
+    - form: "tirbrond"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "dyke"
+      source: { kind: coined }
+    - form: "kulka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "drinking cup"
+      source: { kind: coined }
+    - form: "vishra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "poison"
+      source: { kind: coined }
+    - form: "matru"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "drunk or intoxicated"
+      source: { kind: coined }
+    - form: "dukghomra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "famine"
+      source: { kind: coined }
+    - form: "ghomrakhondra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "crop as a harvest"
+      source: { kind: coined }
+    - form: "ghomrastonu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "granary or grain store"
+      built: ["ghomra", "stonu"]
+      source: { kind: coined }
+    - form: "nidgroha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "barracks"
+      source: { kind: coined }
+    - form: "pachoka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cook"
+      source: { kind: coined }
+    - form: "bhukhpantra"
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "lane inhabited by hungry people"
+      source: { kind: coined }
+    - form: "kaldungalnu"
+      class: "n"
+      field: "Death, the dead and the ancestors"
+      gloss: "last cup drunk before death"
+      source: { kind: coined }
+    - form: "bhranu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "dare to perform a stated action"
+      source: { kind: coined }
+    - form: "genta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "knot tied in cord"
+      source: { kind: coined }
+    - form: "mandrayu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "drawing compass"
+      source: { kind: coined }
+    - form: "varta"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "turn or revolution"
+      source: { kind: coined }
+    - form: "nartuk"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "straight in course"
+      source: { kind: coined }
+    - form: "danna"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "grain as a crop or food"
+      source: { kind: coined }
+    - form: "ukra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "ox"
+      source: { kind: coined }
+    - form: "kapasra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cotton"
+      source: { kind: coined }
+    - form: "ikra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cultivated cane"
+      source: { kind: coined }
+    - form: "lipshilsa"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "writing slate"
+      source: { kind: coined }
+    - form: "vidsagroha"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "school as a place of learning"
+      source: { kind: coined }
+    - form: "himjalka"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "ice"
+      source: { kind: coined }
+    - form: "karshak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "plow a field"
+      source: { kind: coined }
+    - form: "mraknu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "wash with water"
+      source: { kind: coined }
+    - form: "padsastonu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "footstool"
+      built: ["padsa", "stonu"]
+      source: { kind: coined }
+    - form: "gorvona"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "teaching or instruction received"
+      source: { kind: coined }
+    - form: "dannabanda"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "sheaf of grain"
+      source: { kind: coined }
+    - form: "umbrona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "measuring or ceremonial Weighing"
+      source: { kind: coined }
+    - form: "stolnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "steal"
+      source: { kind: coined }
+    - form: "stirbrond"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "seized, locked rigid by being held without yielding"
+      source: { kind: coined }
+    - form: "jalmavru"
+      class: "v"
+      field: "Water, rain and the monsoon"
+      gloss: "flood over the banks"
+      source: { kind: coined }
+    - form: "pushvaband"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "garland"
+      source: { kind: coined }
+    - form: "dvarnapalda"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "Gatekeeper as a divine title"
+      built: ["dvarna", "palda"]
+      source: { kind: coined }
+    - form: "jitru"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "soul"
+      source: { kind: coined }
+    - form: "minrakhondra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "gap or intervening opening"
+      source: { kind: coined }
+    - form: "chintak"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "torn open"
+      source: { kind: coined }
+    - form: "naupalda"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "ferryman or keeper of a ferry boat"
+      built: ["nau", "palda"]
+      source: { kind: coined }
+    - form: "banduna"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "being tied or secured"
+      source: { kind: coined }
+    - form: "letshilsa"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "gravel or a small stone"
+      built: ["let", "shilsa"]
+      source: { kind: coined }
+    - form: "pasru"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cattle collectively"
+      source: { kind: coined }
+    - form: "menka"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "month"
+      source: { kind: coined }
+    - form: "nartalka"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "flat-bottomed"
+      source: { kind: coined }
+    - form: "pakghomra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cooked dish"
+      source: { kind: coined }
+    - form: "antaritu"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "spring season"
+      source: { kind: coined }
+    - form: "saptu"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "week"
+      source: { kind: coined }
+    - form: "shamona"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "planting"
+      source: { kind: coined }
+    - form: "bijra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "seed"
+      source: { kind: coined }
+    - form: "bhumitala"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "terrace cut into a hill"
+      source: { kind: coined }
+    - form: "utrakitala"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "topmost terrace"
+      source: { kind: coined }
+    - form: "jalchamru"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "river current"
+      source: { kind: coined }
+    - form: "grimapavi"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "village headman"
+      built: ["grima", "pavi"]
+      source: { kind: coined }
+    - form: "pralnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "swim"
+      source: { kind: coined }
+    - form: "gelnu"
+      class: "v"
+      field: "Kin, household and the person"
+      gloss: "laugh"
+      source: { kind: coined }
+    - form: "vartuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "turn in direction"
+      source: { kind: coined }
+    - form: "saprul"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "sufficient for the task"
+      source: { kind: coined }
+    - form: "lutra"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "raider or robber using armed force"
+      source: { kind: coined }
+    - form: "jalprukoda"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "bailing bowl"
+      source: { kind: coined }
+    - form: "sulnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "pour liquid over something"
+      source: { kind: coined }
+    - form: "shilsakartu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "mason"
+      built: ["shilsa", "kartu"]
+      source: { kind: coined }
+    - form: "alekhra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "decorative carving"
+      source: { kind: coined }
+    - form: "gaukra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cow"
+      source: { kind: coined }
+    - form: "votra karmuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "consecrated or hallowed by a performed rite"
+      source: { kind: coined }
+    - form: "tailka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "oil used in consecration"
+      source: { kind: coined }
+    - form: "vausshilsa"
+      class: "n"
+      field: "Stone, metal and treasure"
+      gloss: "sandstone"
+      built: ["vaus", "shilsa"]
+      source: { kind: coined }
+    - form: "gautra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "goat"
+      source: { kind: coined }
+    - form: "bedrajnenin"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "scholar"
+      source: { kind: coined }
+    - form: "lipak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "write or enter a written record"
+      source: { kind: coined }
+    - form: "sadona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "session or sitting of an assembly"
+      source: { kind: coined }
+    - form: "agmisangra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "pile of fuel gathered for one fire"
+      source: { kind: coined }
+    - form: "kannu"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "millet"
+      source: { kind: coined }
+    - form: "darva"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "beam of a building"
+      source: { kind: coined }
+    - form: "miratka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "clay used for a lamp or pot"
+      source: { kind: coined }
+    - form: "lunka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "sickle"
+      source: { kind: coined }
+    - form: "stamnka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "jar"
+      source: { kind: coined }
+    - form: "kavrabhat"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "pot lid"
+      source: { kind: coined }
+    - form: "angra"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "glowing coal or ember"
+      source: { kind: coined }
+    - form: "duravha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "moaning sound"
+      source: { kind: coined }
+    - form: "arhun ro janra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "rebels collectively"
+      source: { kind: coined }
+    - form: "bhikra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "beggar or wandering ascetic living by alms"
+      source: { kind: coined }
+    - form: "kharnu"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "sharp in cutting force or argument"
+      source: { kind: coined }
+    - form: "ghomrabrond"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "ritual fast or refusal of food"
+      source: { kind: coined }
+    - form: "jnenin"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "wise person"
+      source: { kind: coined }
+    - form: "dumra"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "smoke"
+      source: { kind: coined }
+    - form: "karnatubi"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "crow"
+      source: { kind: coined }
+    - form: "anglet"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "spark"
+      source: { kind: coined }
+    - form: "charkuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "twisted together"
+      source: { kind: coined }
+    - form: "talchel"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "mat spread beneath something"
+      source: { kind: coined }
+    - form: "hora"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "hour"
+      source: { kind: coined }
+    - form: "trinalet"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "stubble after grass has burned"
+      source: { kind: coined }
+    - form: "jaltubi"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "heron"
+      source: { kind: coined }
+    - form: "kharaknu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "scrape loose material into a container"
+      source: { kind: coined }
+    - form: "parnuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "pass something from one hand to another"
+      source: { kind: coined }
+    - form: "grathona"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "public reading of a written work"
+      source: { kind: coined }
+    - form: "danushta"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "grip of a bow"
+      source: { kind: coined }
+    - form: "danoshru"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "horn tip of a bow"
+      source: { kind: coined }
+    - form: "karmuklipu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "contract of hire"
+      source: { kind: coined }
+    - form: "nidstalu"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "camp"
+      source: { kind: coined }
+    - form: "shilpatra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "shale"
+      source: { kind: coined }
+    - form: "danudarva"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "bow stave"
+      source: { kind: coined }
+    - form: "misra"
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "pay or wages"
+      source: { kind: coined }
+    - form: "danpruku"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "draw a bow"
+      source: { kind: coined }
+    - form: "danpruk"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "drawing motion of a bowman"
+      source: { kind: coined }
+    - form: "ghaulrakha"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "watch of the night"
+      source: { kind: coined }
+    - form: "dramoka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "runner bearing a message"
+      source: { kind: coined }
+    - form: "kambra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "blanket"
+      source: { kind: coined }
+    - form: "Utradanpruk"
+      class: "name"
+      field: "War, arms and the host"
+      gloss: "High Draw academy"
+      source: { kind: coined }
+    - form: "ferkakhondra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "stick of wood for a fire"
+      built: ["ferka", "khondra"]
+      source: { kind: coined }
+    - form: "apra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "bread"
+      source: { kind: coined }
+    - form: "navchendra"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "new moon"
+      source: { kind: coined }
+    - form: "rajta"
+      class: "n"
+      field: "Stone, metal and treasure"
+      gloss: "silver paid as money"
+      source: { kind: coined }
+    - form: "kertuna"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "choice or person chosen"
+      source: { kind: coined }
+    - form: "danhakoshta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "money chest"
+      source: { kind: coined }
+    - form: "karmunolgu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "retainer paid to secure future service"
+      source: { kind: coined }
+    - form: "sipitnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "spit something from the mouth"
+      source: { kind: coined }
+    - form: "senanayeka"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "military officer"
+      source: { kind: coined }
+    - form: "gorvakodri"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "instructional manual"
+      source: { kind: coined }
+    - form: "jalkshetka"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "marsh"
+      source: { kind: coined }
+    - form: "rakhapal"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "sentry or picket"
+      source: { kind: coined }
+    - form: "danustonu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "bow rack"
+      source: { kind: coined }
+    - form: "shirkakoshta"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "quiver"
+      source: { kind: coined }
+    - form: "ruknu"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "grey"
+      source: { kind: coined }
+    - form: "angchel"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "shirt worn on the torso"
+      source: { kind: coined }
+    - form: "girgharsa"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "gorge"
+      source: { kind: coined }
+    - form: "sadelkavru"
+      class: "adj"
+      field: "Craft, trade and the counting-house"
+      gloss: "saddled for riding"
+      source: { kind: coined }
+    - form: "yavu"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "barley"
+      source: { kind: coined }
+    - form: "samkortu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "treaty"
+      source: { kind: coined }
+    - form: "girkandru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "slope forming one side of a gorge"
+      source: { kind: coined }
+    - form: "shilstonu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "rock shelf"
+      source: { kind: coined }
+    - form: "Nirpadiku"
+      class: "name"
+      field: "War, arms and the host"
+      gloss: "Patient Eye academy"
+      source: { kind: coined }
+    - form: "Dikbrondsultu"
+      class: "name"
+      field: "War, arms and the host"
+      gloss: "Hidden String academy"
+      source: { kind: coined }
+    - form: "surtamondala"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "sun-disc medallion"
+      source: { kind: coined }
+    - form: "bandakhondra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "bundle of cut reeds"
+      source: { kind: coined }
+    - form: "perka"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "feather used to fletch an arrow"
+      source: { kind: coined }
+    - form: "taryuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "left behind or abandoned"
+      source: { kind: coined }
+    - form: "lefru"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "clear of sediment"
+      source: { kind: coined }
+    - form: "shirkasangra"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "cairn or heap of broken arrows"
+      source: { kind: coined }
+    - form: "shiltrina"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "lichen"
+      source: { kind: coined }
+    - form: "shilkhondra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "niche cut in stone"
+      source: { kind: coined }
+    - form: "agru"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "point of an arrow"
+      source: { kind: coined }
+    - form: "Vramukalda"
+      class: "name"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "month of the Returning"
+      source: { kind: coined }
+    - form: "pachgroha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "kitchen"
+      source: { kind: coined }
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6476,17 +7580,17 @@ data:
     edges:
       - edge: openCluster
         sounds: [pr, tr, dr, kr, gr, br, bhr, vr, shr, sm, st, sv, dv, vy, ny, jv, jn]
-      - {edge: closeConsonant, sounds: [n, r, t, k, s, l, m, d]}
-    clusters: {max: 3}
+      - { edge: closeConsonant, sounds: [n, r, t, k, s, l, m, d] }
+    clusters: { max: 3 }
     joining:
-      - {first: [a], second: [a], written: a, example: _podma_ + _avoli_ = _padmavali_}
-      - {first: [a], second: [i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_}
-      - {first: [a], second: [u], written: o}
+      - { first: [a], second: [a], written: a, example: _podma_ + _avoli_ = _padmavali_ }
+      - { first: [a], second: [i], written: e, example: _vyela_ + _ishvora_ = _vyaleshvora_ }
+      - { first: [a], second: [u], written: o }
       - first: [i]
         second: [a, u, e, o]
         written: y+
         example: "_nadri_ + _avoli_ = _nadryavoli_, a _y_ between"
-      - {first: [u], second: [a, i, e, o], written: v+}
+      - { first: [u], second: [a, i, e, o], written: v+ }
   elements:
     - form: pur
       position: closing
@@ -6576,699 +7680,699 @@ data:
   callingNames:
     minSyllables: 4
     closings:
-      - {form: -u, usual: man}
-      - {form: -i, usual: woman}
-      - {form: -a, usual: either}
-      - {doubled: true, usual: either}
+      - { form: -u, usual: man }
+      - { form: -i, usual: woman }
+      - { form: -a, usual: either }
+      - { doubled: true, usual: either }
   tongues:
-    - {tag: vedyari, meaning: a Vedyari name}
-    - {tag: translation, meaning: a name given in the language of these pages}
-    - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
+    - { tag: vedyari, meaning: a Vedyari name }
+    - { tag: translation, meaning: a name given in the language of these pages }
+    - { tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named" }
     - tag: other:<tongue>
       meaning: "a name in another tongue of the setting, as its speakers give it"
     - tag: calling
       meaning: "a calling name, cut from the given name its **Built from** cell gives"
   register:
-    - {name: Vedyara Adventurer's Guide, tongue: translation}
-    - {name: Ganoka-shalda, tongue: vedyari, built: [ganoka, shalda]}
-    - {name: The Reckoners' College, tongue: translation}
-    - {name: Struck from the Roll, tongue: translation}
-    - {name: Hearer, tongue: translation}
-    - {name: Slate-holder, tongue: translation}
-    - {name: Ganoka, tongue: vedyari, built: [ganoka]}
-    - {name: Reckoner of the Hall, tongue: translation}
-    - {name: Keeper of the Tables, tongue: translation}
-    - {name: Court Ganoka, tongue: translation}
-    - {name: Reckoner of the Weighing, tongue: translation}
-    - {name: Tide-reader, tongue: translation}
-    - {name: The Threshold-keepers, tongue: translation}
-    - {name: The Keepers of the Threshold, tongue: translation}
-    - {name: License Withdrawn, tongue: translation}
-    - {name: Lamp-tender, tongue: translation}
-    - {name: Witness, tongue: translation}
-    - {name: Threshold-keeper, tongue: translation}
-    - {name: Warrant-holder, tongue: translation}
-    - {name: Framer of the Question, tongue: translation}
-    - {name: Witness of Record, tongue: translation}
-    - {name: Keeper of the Register, tongue: translation}
-    - {name: Adanshreni, tongue: vedyari, built: [adun, shrena]}
-    - {name: Adun, tongue: vedyari, built: [adun]}
-    - {name: The Receivers, tongue: translation}
-    - {name: The Shrena of Taking, tongue: translation}
-    - {name: Chinnasutra, tongue: vedyari, built: [chinnasutra]}
-    - {name: Ashreta, tongue: vedyari, built: [ashreta]}
-    - {name: Antevosin, tongue: vedyari, built: [antevosin]}
-    - {name: Adanika, tongue: vedyari, built: [adun, -ika]}
-    - {name: Achorya, tongue: vedyari, built: [achorya]}
-    - {name: Stovira, tongue: vedyari, built: [stovira]}
-    - {name: Shroshtin, tongue: vedyari, built: [shroshtin]}
-    - {name: Nyasapala, tongue: vedyari, built: [nyos, palda]}
-    - {name: Arghakara, tongue: vedyari, built: [orgha, kartu]}
-    - {name: Mudrakara, tongue: vedyari, built: [mudva, kartu]}
-    - {name: Margapala, tongue: vedyari, built: [margapala]}
-    - {name: Dutsa, tongue: vedyari, built: [dutsa]}
-    - {name: Agmi-pantra, tongue: vedyari, built: [agmi, pantra]}
-    - {name: The Path of the Flame, tongue: translation}
-    - {name: Flame Path, tongue: translation}
-    - {name: Patuta, tongue: vedyari, built: [patuta]}
-    - {name: Upasoka, tongue: vedyari, built: [upasoka]}
-    - {name: Bhosma, tongue: vedyari, built: [bhosma]}
-    - {name: Jvelita, tongue: vedyari, built: [jvelita]}
-    - {name: Dahona-Mulka, tongue: vedyari, built: [dahona, mulka]}
-    - {name: Ember-Bearer, tongue: translation}
-    - {name: Chapter Root, tongue: translation}
-    - {name: Jnanasura, tongue: vedyari, built: [jnena, sujra]}
-    - {name: The Radiant Sage, tongue: translation}
-    - {name: Vretin, tongue: vedyari, built: [vretin]}
-    - {name: The Examination Beyond the Veil, tongue: translation}
-    - {name: The Silent Year of Reading, tongue: translation}
-    - {name: The Contest of Open Questions, tongue: translation}
-    - {name: Kalavrata, tongue: vedyari, built: [kalda, vreta]}
-    - {name: The Gatekeeper of Death, tongue: translation}
-    - {name: The Vigil of Final Breath, tongue: translation}
-    - {name: The Walk Between Fires, tongue: translation}
-    - {name: The Silent Year, tongue: translation}
-    - {name: Kamavrata, tongue: vedyari, built: [kamva, vreta]}
-    - {name: The Celestial Lover, tongue: translation}
-    - {name: The Garden Year, tongue: translation}
-    - {name: The Silent Flute, tongue: translation}
-    - {name: Mahajaya, tongue: vedyari, built: [mahva, jayra]}
-    - {name: The Eternal Preserver, tongue: translation}
-    - {name: The Granary Vigil, tongue: translation}
-    - {name: The Fair Measure, tongue: translation}
-    - {name: Meghonata, tongue: vedyari, built: [meghra, natka]}
-    - {name: Lord of Thunder, tongue: translation}
-    - {name: The Storm Watch, tongue: translation}
-    - {name: The Fisher's Voyage, tongue: translation}
-    - {name: The Silent Year of Thunder, tongue: translation}
-    - {name: The Pass-Shrine Ushtakas, tongue: translation}
-    - {name: The Altitude Ushtakas, tongue: translation}
-    - {name: Sent Down, tongue: translation}
-    - {name: Shrine-born, tongue: translation}
-    - {name: Fire-watcher, tongue: translation}
-    - {name: Shrine-priest, tongue: translation}
-    - {name: Keeper of the Col, tongue: translation}
-    - {name: Register-writer, tongue: translation}
-    - {name: Reader of the Cistern Wall, tongue: translation}
-    - {name: Pavanajitras, tongue: vedyari}
-    - {name: The Wandering Wind, tongue: translation}
-    - {name: The Wind Spirits of the Road, tongue: translation}
-    - {name: The Pilgrim's Year, tongue: translation}
-    - {name: The Silent Caravan, tongue: translation}
-    - {name: Rasikara, tongue: vedyari}
-    - {name: The Flame of Renewal, tongue: translation}
-    - {name: The Walk of Coals, tongue: translation}
-    - {name: The Vigil in Ashes, tongue: translation}
-    - {name: The Firebrand's Year, tongue: translation}
-    - {name: Svapnadevas, tongue: vedyari, built: [svopna, devra, -s]}
-    - {name: The Dreaming Host, tongue: translation}
-    - {name: The Celestial Host of Dreams, tongue: translation}
-    - {name: The Seven-Night Vigil, tongue: translation}
-    - {name: The Mirror Year, tongue: translation}
-    - {name: Svapnasari-sameja, tongue: vedyari, built: [svopna, sarhi, sameja]}
-    - {name: Assembly of the Dream-Followers, tongue: translation}
-    - {name: Dream Assembly, tongue: translation}
-    - {name: Nidrapala, tongue: vedyari, built: [nidrapala]}
-    - {name: Dorshaka, tongue: vedyari, built: [dorshaka]}
-    - {name: Svopna-Achorya, tongue: vedyari, built: [svopna, achorya]}
-    - {name: Keeper of the Dream-Record, tongue: translation}
-    - {name: Chamber-Warden, tongue: translation}
-    - {name: Triyanga-sampradeya, tongue: vedyari, built: [tre, angha, sampradeya]}
-    - {name: Tradition of the Three Forms, tongue: translation}
-    - {name: Triyanga Tradition, tongue: translation}
-    - {name: Seboka, tongue: vedyari, built: [seboka]}
-    - {name: Triyacharya, tongue: vedyari, built: [triyacharya]}
-    - {name: Achorya of a Form, tongue: translation}
-    - {name: Keeper of the Three Rites, tongue: translation}
-    - {name: Varnuka Pantheon, tongue: translation}
-    - {name: Varnuka, tongue: vedyari, built: [varnuka]}
-    - {name: Ordained of a Sampradeya, tongue: translation}
-    - {name: Householder, tongue: translation}
-    - {name: Vreta-Holder, tongue: translation}
-    - {name: Vahrati, tongue: vedyari, built: [vahrati]}
-    - {name: The Keeper of Decay, tongue: translation}
-    - {name: The Year of Gentle Release, tongue: translation}
-    - {name: The Walk of the Empty House, tongue: translation}
-    - {name: Vyalendra, tongue: vedyari, built: [vyela, ishna]}
-    - {name: The Shaper of Worlds, tongue: translation}
-    - {name: The Year of the Apprentice, tongue: translation}
-    - {name: The Perfect Stone, tongue: translation}
-    - {name: Vyalendravada, tongue: vedyari, built: [vyela, ishna, vadsa]}
-    - {name: The Doctrine of Vyalendra, tongue: translation}
-    - {name: Vyalendran School, tongue: translation}
-    - {name: Parema-Achorya, tongue: vedyari, built: [parema, achorya]}
-    - {name: Examiner, tongue: translation}
-    - {name: Temple Architect, tongue: translation}
-    - {name: The Merchant Collective of Vedyara, tongue: translation}
-    - {name: Vyapori Sangra, tongue: vedyari, built: [vyapori, sangra]}
-    - {name: The Collective, tongue: translation}
-    - {name: The Long Caravan, tongue: translation}
-    - {name: Merchant Collective, tongue: translation}
-    - {name: Expelled, tongue: translation}
-    - {name: Karmakuva, tongue: vedyari, built: [karmakuva]}
-    - {name: Pratoshta, tongue: vedyari, built: [pratoshta]}
-    - {name: Kulena House, tongue: translation}
-    - {name: High Speaker of the Collective, tongue: translation}
-    - {name: Assembly of the Compact, tongue: translation}
-    - {name: Sangra-Sabhra, tongue: vedyari, built: [sangra, sabhra]}
-    - {name: The Compact, tongue: translation}
-    - {name: Unseated, tongue: translation}
-    - {name: Delegate, tongue: translation}
-    - {name: High Speaker, tongue: translation}
-    - {name: Roads Committee, tongue: translation}
-    - {name: Standards Committee, tongue: translation}
-    - {name: Foreign Trade Committee, tongue: translation}
-    - {name: Disputes Committee, tongue: translation}
-    - {name: The Twilight House, tongue: translation}
-    - {name: The House of the Long Evening, tongue: translation}
-    - {name: Sandyagriha, tongue: vedyari, built: [sandva, groha]}
-    - {name: Cast Out, tongue: translation}
-    - {name: Apprentice, tongue: translation}
-    - {name: Companion, tongue: translation}
-    - {name: Senior Companion, tongue: translation}
-    - {name: Elder of the House, tongue: translation}
-    - {name: Mistress of the Long Evening, tongue: translation}
-    - {name: Mistress of a Satellite House, tongue: translation}
-    - {name: Handler, tongue: translation}
-    - {name: Mistress of Instruction, tongue: translation}
-    - {name: Keeper of the Ledger, tongue: translation}
-    - {name: Factor to the Shrena, tongue: translation}
-    - {name: Doorkeeper, tongue: translation}
-    - {name: House Physician, tongue: translation}
-    - {name: Vedyaran Elephant, tongue: translation}
-    - {name: Vedyaran Rhinoceros, tongue: translation}
-    - {name: Akendra, tongue: vedyari}
-    - {name: Anuraja, tongue: vedyari, built: [anva, rajva]}
-    - {name: Anva, tongue: calling, built: [Anuraja]}
-    - {name: Harshakar, tongue: vedyari}
-    - {name: Chandratar, tongue: vedyari}
-    - {name: Mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
-    - {name: Chandreli, tongue: vedyari, built: [chendra, kirta, sundeli]}
-    - {name: Chandri, tongue: calling, built: [Chandreli]}
-    - {name: Jayavalli, tongue: vedyari, built: [jayra, valsi]}
-    - {name: Darmapalda, tongue: vedyari, built: [dorma, palda]}
-    - {name: Darmu, tongue: calling, built: [Darmapalda]}
-    - {name: Vimuktan, tongue: vedyari}
-    - {name: Driksharana, tongue: vedyari}
-    - {name: Driksha, tongue: calling, built: [Driksharana]}
-    - {name: Manrishti, tongue: vedyari}
-    - {name: Madurava, tongue: vedyari, built: [madru, ravha]}
-    - {name: Madru, tongue: calling, built: [Madurava]}
-    - {name: Sutrapal, tongue: vedyari, built: [sutka, palda]}
-    - {name: Minaka, tongue: vedyari}
-    - {name: Parikshuna, tongue: vedyari}
-    - {name: Narava, tongue: vedyari}
-    - {name: Tejanand, tongue: vedyari, built: [surta, tejva, mahva, anonda]}
-    - {name: Padmavali, tongue: vedyari, built: [podma, avoli]}
-    - {name: Padmi, tongue: calling, built: [Padmavali]}
-    - {name: Danurkirti, tongue: vedyari, built: [danur, bedra, kirta, rajva]}
-    - {name: Pallovi, tongue: vedyari}
-    - {name: Draviksha, tongue: vedyari}
-    - {name: Pritarika, tongue: vedyari}
-    - {name: Pripri, tongue: calling, built: [Pritarika]}
-    - {name: Padmadiksha, tongue: vedyari, built: [podma, deksha]}
-    - {name: Pritimaja, tongue: vedyari}
-    - {name: Pritu, tongue: calling, built: [Pritimaja]}
-    - {name: Kayadara, tongue: vedyari}
-    - {name: Kritiraya, tongue: vedyari}
-    - {name: Senapavi, tongue: vedyari, built: [senapavi]}
-    - {name: Senu, tongue: calling, built: [Senapavi]}
-    - {name: Vikramada, tongue: vedyari, built: [vikroma, -da]}
-    - {name: Sunati, tongue: vedyari}
-    - {name: Jayavarda, tongue: vedyari, built: [jayra, rajva, bardena]}
-    - {name: Suvarti, tongue: vedyari}
-    - {name: Suvi, tongue: calling, built: [Suvarti]}
-    - {name: Ratnisen, tongue: vedyari}
-    - {name: Tamura, tongue: vedyari}
-    - {name: Vanika, tongue: vedyari, built: [vanta, -ika]}
-    - {name: Viranga, tongue: vedyari}
-    - {name: Viru, tongue: calling, built: [Viranga]}
-    - {name: Dukshana, tongue: vedyari}
-    - {name: Vishali, tongue: vedyari}
-    - {name: Balarnaya, tongue: vedyari}
-    - {name: Shilabir, tongue: vedyari, built: [shilsa, birda]}
-    - {name: Shilu, tongue: calling, built: [Shilabir]}
-    - {name: Vidsamondal, tongue: vedyari, built: [vidsa, saghara, mondala]}
-    - {name: Vishvakhila, tongue: vedyari}
-    - {name: Vishvu, tongue: calling, built: [Vishvakhila]}
-    - {name: Ratnadasa, tongue: vedyari, built: [ratka, angha, devra, dasu]}
-    - {name: Vishvara, tongue: vedyari}
-    - {name: Mahapar, tongue: vedyari, built: [mahva, porha]}
-    - {name: Vedyari, tongue: vedyari, built: [vedyari]}
-    - {name: Vedyaran Banking, tongue: translation}
-    - {name: Vedyaran Currency, tongue: translation}
-    - {name: Vedyaran Monetary System, tongue: translation}
-    - {name: Vedyaran Chendra, tongue: vedyari, built: [vedyara, -an, chendra]}
-    - {name: Chendra, tongue: vedyari, built: [chendra]}
-    - {name: Vedyaran Suvorna, tongue: vedyari, built: [vedyara, -an, suvorna]}
-    - {name: Suvorna, tongue: vedyari, built: [suvorna]}
-    - {name: Vedyaran Tomra, tongue: vedyari, built: [vedyara, -an, tomra]}
-    - {name: Tomra, tongue: vedyari, built: [tomra]}
-    - {name: The Academy of the Hidden String, tongue: translation}
-    - {name: The Academy of the High Draw, tongue: translation}
-    - {name: The Academy of the Patient Eye, tongue: translation}
-    - {name: The Academy of the Swift Hand, tongue: translation}
-    - {name: Aruti's Hermitage, tongue: translation}
-    - {name: Ashvapada, tongue: vedyari, built: [oshka, padu]}
-    - {name: Ashvatir, tongue: vedyari, built: [oshka, tirsa]}
-    - {name: Bharanya, tongue: vedyari}
-    - {name: Lower Mahanodi Janpoda, tongue: translation}
-    - {name: Bharava, tongue: vedyari, built: [bharava]}
-    - {name: Bharava-Devabhona, tongue: vedyari, built: [bharava, devra, bhogra]}
-    - {name: Devabhona, tongue: vedyari, built: [devra, bhogra]}
-    - {name: The Forest Estates, tongue: translation}
-    - {name: Bihra, tongue: vedyari, built: [bihra]}
-    - {name: Bonded Servant, tongue: translation}
-    - {name: Karmija, tongue: vedyari, built: [karmija]}
-    - {name: Danhija, tongue: vedyari, built: [danhija]}
-    - {name: Sentija, tongue: vedyari, built: [sentija]}
-    - {name: Ritrija, tongue: vedyari, built: [ritrija]}
-    - {name: Shetrapalda, tongue: vedyari, built: [shetrapalda]}
-    - {name: Devapavi, tongue: vedyari, built: [devapavi]}
-    - {name: Vanapalda, tongue: vedyari, built: [vanapalda]}
-    - {name: Koshapala, tongue: vedyari, built: [koshra, palda]}
-    - {name: The Bharava-Devastena Hostels, tongue: translation}
-    - {name: Bharava-Devastena, tongue: vedyari, built: [bharava, devra, stonu]}
-    - {name: Bharavamukha, tongue: vedyari, built: [bharava, mukhva]}
-    - {name: Bharavaprabhava, tongue: vedyari, built: [bharava, prabhana]}
-    - {name: Bharavaban, tongue: vedyari, built: [bharava, vanta]}
-    - {name: The Bharava Forest, tongue: translation}
-    - {name: The Forest Country, tongue: translation}
-    - {name: The Kingdom of Bharyastan, tongue: translation}
-    - {name: Samonta, tongue: vedyari, built: [samonta]}
-    - {name: Maharava, tongue: vedyari, built: [maharava]}
-    - {name: Rojni, tongue: vedyari, built: [rojni]}
-    - {name: Yuvarava, tongue: vedyari, built: [yuvarava]}
-    - {name: Montrin, tongue: vedyari, built: [montrin]}
-    - {name: Purohata, tongue: vedyari, built: [purohata]}
-    - {name: Rajagorva, tongue: vedyari, built: [rajagorva]}
-    - {name: Dandanayeka, tongue: vedyari, built: [dandanayeka]}
-    - {name: Koshadyoksha, tongue: vedyari, built: [koshadyoksha]}
-    - {name: Bharyastan, tongue: vedyari}
-    - {name: Bhumipal, tongue: vedyari, built: [bhumri, palda]}
-    - {name: Bhumipal Land, tongue: translation}
-    - {name: The March, tongue: translation}
-    - {name: The Bow-Fort, tongue: translation}
-    - {name: Chandramahi, tongue: vedyari, built: [chendra, mahvi]}
-    - {name: Chandramukha, tongue: vedyari, built: [chendra, mukhva]}
-    - {name: The Moon-Mouth, tongue: translation}
-    - {name: Chandraprabhava, tongue: vedyari, built: [chendra, prabhana]}
-    - {name: Chendrapur, tongue: vedyari, built: [chendra, pur]}
-    - {name: Kulena, tongue: vedyari, built: [kulena]}
-    - {name: Nau-senapavi, tongue: vedyari, built: [nau, senapavi]}
-    - {name: Chendrapur Land, tongue: translation}
-    - {name: Danurkot, tongue: vedyari, built: [danur, kotra]}
-    - {name: Danurkot Janpoda, tongue: vedyari, built: [danur, kotra, janra, padu]}
-    - {name: The Janpoda of the Bow-Fort, tongue: translation}
-    - {name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka]}
-    - {name: Sabhapavi, tongue: vedyari, built: [sabhapavi]}
-    - {name: Smiritibhara, tongue: vedyari, built: [smiriti, bhora]}
-    - {name: Senoni, tongue: vedyari, built: [senoni]}
-    - {name: Danurachorya, tongue: vedyari, built: [danur, achorya]}
-    - {name: Danyagram, tongue: vedyari, built: [danva, grima]}
-    - {name: Dirmapur, tongue: vedyari, built: [dorma, pur]}
-    - {name: Middle Sarveda Janpoda, tongue: translation}
-    - {name: The Drowned Capital, tongue: translation}
-    - {name: The Eastern Reach, tongue: translation}
-    - {name: The Forest of No Road, tongue: translation}
-    - {name: Girimarga, tongue: vedyari, built: [girka, margha]}
-    - {name: Gokshetra, tongue: vedyari, built: [gho, shetka]}
-    - {name: The Gold Mountain, tongue: translation}
-    - {name: Suvargeri, tongue: vedyari, built: [suvorna, girka]}
-    - {name: Gomarga, tongue: vedyari, built: [gho, margha]}
-    - {name: The Kingdom of the Cattle-Road, tongue: translation}
-    - {name: Kupapala, tongue: vedyari, built: [kupapala]}
-    - {name: The Grazian Mountains, tongue: translation}
-    - {name: The Grazian Range, tongue: translation}
-    - {name: The Grazian Wall, tongue: translation}
-    - {name: The Great Bazaar, tongue: translation}
-    - {name: Gudagram, tongue: vedyari, built: [gudra, grima]}
-    - {name: The Guides' Road, tongue: translation}
-    - {name: Haritagram, tongue: vedyari, built: [harota, grima]}
-    - {name: Himashila, tongue: vedyari, built: [himra, shilsa]}
-    - {name: Hiranyadara, tongue: vedyari, built: [hirenya, derka]}
-    - {name: Hvarn, tongue: other:hvarn}
-    - {name: Unhoused, tongue: translation}
-    - {name: Taken-in, tongue: translation}
-    - {name: Hearth-kin, tongue: translation}
-    - {name: Drover, tongue: translation}
-    - {name: Roadwalker, tongue: translation}
-    - {name: Reach-guide, tongue: translation}
-    - {name: Hearth-head, tongue: translation}
-    - {name: Winter-speaker, tongue: translation}
-    - {name: Turn-keeper, tongue: translation}
-    - {name: Storm-Reader, tongue: translation}
-    - {name: Fort-carrier, tongue: translation}
-    - {name: Bone-bringer, tongue: translation}
-    - {name: Ikshukshetra, tongue: vedyari, built: [ikshva, shetka]}
-    - {name: Jalaghat, tongue: vedyari, built: [jalka, ghatka]}
-    - {name: Janpodas of Vedyara, tongue: translation}
-    - {name: Mahva-Sangra of Vedyara, tongue: translation}
-    - {name: The Temple-Republics of Vedyara, tongue: translation}
-    - {name: Vedyari Janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s]}
-    - {name: Sabhapavi of the Melka, tongue: translation}
-    - {name: The Council of Three, tongue: translation}
-    - {name: Circuit-Speaker, tongue: translation}
-    - {name: Jnanadvar, tongue: vedyari, built: [jnena, dvarna]}
-    - {name: The Scholars' Door, tongue: translation}
-    - {name: Kalashikhar, tongue: vedyari, built: [kalda, shikhena]}
-    - {name: Kanakasetu, tongue: vedyari, built: [kaneka, setka]}
-    - {name: Karpasagram, tongue: vedyari, built: [karpesa, grima]}
-    - {name: Khandapur, tongue: vedyari, built: [khondra, pur]}
-    - {name: Lipigram, tongue: vedyari, built: [lipu, grima]}
-    - {name: Madustan, tongue: vedyari, built: [madru, stonu]}
-    - {name: The Capital of the Philosopher-Kings, tongue: translation}
-    - {name: Madustan Count, tongue: translation}
-    - {name: Prabhavakala, tongue: vedyari, built: [prabhavakala]}
-    - {name: Pushpakala, tongue: vedyari, built: [pushpakala]}
-    - {name: Jvalakala, tongue: vedyari, built: [jvalakala]}
-    - {name: Meghamukhakala, tongue: vedyari, built: [meghamukhakala]}
-    - {name: Purnakala, tongue: vedyari, built: [purnakala]}
-    - {name: Lipikala, tongue: vedyari, built: [lipikala]}
-    - {name: Naukala, tongue: vedyari, built: [naukala]}
-    - {name: Danyakala, tongue: vedyari, built: [danva, kalda]}
-    - {name: Himrakala, tongue: vedyari, built: [himrakala]}
-    - {name: Koshtakala, tongue: vedyari, built: [koshtakala]}
-    - {name: Karpasakala, tongue: vedyari, built: [karpesa, kalda]}
-    - {name: Sandyakala, tongue: vedyari, built: [sandva, kalda]}
-    - {name: Surtar, tongue: vedyari, built: [surtar]}
-    - {name: Chendravar, tongue: vedyari, built: [chendravar]}
-    - {name: Kalavar, tongue: vedyari, built: [kalavar]}
-    - {name: Meghavar, tongue: vedyari, built: [meghavar]}
-    - {name: Jnanavar, tongue: vedyari, built: [jnanavar]}
-    - {name: Kamavar, tongue: vedyari, built: [kamavar]}
-    - {name: Vahrativar, tongue: vedyari, built: [vahrativar]}
-    - {name: Haritaritu, tongue: vedyari, built: [haritaritu]}
-    - {name: Diptaritu, tongue: vedyari, built: [diptaritu]}
-    - {name: Varsharetu, tongue: vedyari, built: [varsharetu]}
-    - {name: Hiranyaritu, tongue: vedyari, built: [hiranyaritu]}
-    - {name: Shitaritu, tongue: vedyari, built: [shitaritu]}
-    - {name: Tamraritu, tongue: vedyari, built: [tomra, ritru]}
-    - {name: Before the Madustan Count, tongue: translation}
-    - {name: Madupada, tongue: vedyari, built: [madru, padsa]}
-    - {name: Madabana, tongue: vedyari, built: [madru, vanta]}
-    - {name: The Mahajaya Temple at Bharanya, tongue: translation}
-    - {name: The Mahajaya Temple at Danurkot, tongue: translation}
-    - {name: Mahanodi, tongue: vedyari, built: [mahva, nadri]}
-    - {name: Mahaprabhava, tongue: vedyari, built: [mahva, prabhana]}
-    - {name: The March Road, tongue: translation}
-    - {name: Marukupa, tongue: vedyari, built: [marku, kupra]}
-    - {name: Mashakshetra, tongue: vedyari, built: [mashra, shetka]}
-    - {name: Meghra-samedra, tongue: vedyari, built: [meghra, samedra]}
-    - {name: The Southern Sea, tongue: translation}
-    - {name: Meghadvar, tongue: vedyari, built: [meghra, dvarna]}
-    - {name: The Storm-Door, tongue: translation}
-    - {name: Meghashikhar, tongue: vedyari, built: [meghra, shikhena]}
-    - {name: The Melka Ground, tongue: translation}
-    - {name: The Moon House, tongue: translation}
-    - {name: Muktoshvara, tongue: vedyari, built: [mukru, ishvora]}
-    - {name: Nadipada, tongue: vedyari, built: [nadri, padsa]}
-    - {name: Naughat, tongue: vedyari, built: [nau, ghatka]}
-    - {name: Sarveda Mouth Janpoda, tongue: translation}
-    - {name: Villager, tongue: translation}
-    - {name: Nilakshetra, tongue: vedyari, built: [nilka, shetka]}
-    - {name: Nilatir, tongue: vedyari, built: [nilka, tirsa]}
-    - {name: Nilaban, tongue: vedyari, built: [nilka, vanta]}
-    - {name: Nurvharn, tongue: exonym:hvarn}
-    - {name: Osket, tongue: other:osket}
-    - {name: Roadless, tongue: translation}
-    - {name: Fosterling, tongue: translation}
-    - {name: Herdholder, tongue: translation}
-    - {name: Carrier, tongue: translation}
-    - {name: Road-holder, tongue: translation}
-    - {name: Guide-mother, tongue: translation}
-    - {name: Speaker of the Cols, tongue: translation}
-    - {name: Cord-keeper, tongue: translation}
-    - {name: Snow-watcher, tongue: translation}
-    - {name: Hearth-warden, tongue: translation}
-    - {name: Fee-reckoner, tongue: translation}
-    - {name: Oskhelt, tongue: exonym:osket}
-    - {name: The Palace Cellars, tongue: translation}
-    - {name: The Pass-Shrines, tongue: translation}
-    - {name: Puranagram, tongue: vedyari, built: [puratra, grima]}
-    - {name: Pushpaban, tongue: vedyari, built: [pushva, vanta]}
-    - {name: Rajepur, tongue: vedyari, built: [rajva, pur]}
-    - {name: Rajepur Janpoda, tongue: vedyari, built: [rajva, pur, janra, padu]}
-    - {name: The Janpoda of the King's-Town, tongue: translation}
-    - {name: The Rajavali Library, tongue: translation}
-    - {name: The Rasikara Stream, tongue: translation}
-    - {name: Ratnakupa, tongue: vedyari, built: [ratka, kupra]}
-    - {name: Recitation of the Kings of Mahanodi, tongue: translation}
-    - {name: The Recitation of the Kings, tongue: translation}
-    - {name: Sandva-samedra, tongue: vedyari, built: [sandva, samedra]}
-    - {name: The Western Sea, tongue: translation}
-    - {name: Sandyapur, tongue: vedyari, built: [sandva, pur]}
-    - {name: The Sandstone Altar, tongue: translation}
-    - {name: Sangema, tongue: vedyari, built: [sangema]}
-    - {name: The Sangra-fort, tongue: translation}
-    - {name: Shankhadvar, tongue: vedyari, built: [shonkha, dvarna]}
-    - {name: Sarasapada, tongue: vedyari, built: [saresha, padsa]}
-    - {name: Sarveda, tongue: vedyari, built: [sartu, -da]}
-    - {name: Sarvaprabhava, tongue: vedyari, built: [sartu, prabhana]}
-    - {name: Setugram, tongue: vedyari, built: [setka, grima]}
-    - {name: Shaligroma, tongue: vedyari, built: [shol, grima]}
-    - {name: Shiraban, tongue: vedyari, built: [shirka, vanta]}
-    - {name: Shilamukha, tongue: vedyari, built: [shilsa, mukhva]}
-    - {name: Shitakoshta, tongue: vedyari, built: [shet, koshta]}
-    - {name: The Cold Chamber, tongue: translation}
-    - {name: Shunyadvar, tongue: vedyari, built: [shonya, dvarna]}
-    - {name: The Empty Door, tongue: translation}
-    - {name: The Silver Gorges, tongue: translation}
-    - {name: The Gorges, tongue: translation}
-    - {name: The Southern Wall, tongue: translation}
-    - {name: The Wall, tongue: translation}
-    - {name: Surta-samedra, tongue: vedyari, built: [surta, samedra]}
-    - {name: The Eastern Sea, tongue: translation}
-    - {name: The Surta-samedra Islands, tongue: translation}
-    - {name: The Eastern Islands, tongue: translation}
-    - {name: The Surta temple, tongue: translation}
-    - {name: Suryadvar, tongue: vedyari, built: [surta, dvarna]}
-    - {name: The Sun-Door, tongue: translation}
-    - {name: Suryashikhar, tongue: vedyari, built: [surta, shikhena]}
-    - {name: Suvargeri Janpoda, tongue: vedyari, built: [suvorna, girka, janra, padu]}
-    - {name: The Janpoda of the Gold Mountain, tongue: translation}
-    - {name: The Twenty-Eight, tongue: translation}
-    - {name: Svapnastambha, tongue: vedyari, built: [svopna, stumbha]}
-    - {name: Tamradvar, tongue: vedyari, built: [tomra, dvarna]}
-    - {name: The Copper-Door, tongue: translation}
-    - {name: Tamraban, tongue: vedyari, built: [tomra, vanta]}
-    - {name: Taranaghat, tongue: vedyari, built: [torona, ghatka]}
-    - {name: The Temple of Lower Suvargeri, tongue: translation}
-    - {name: The Temple of Middle Suvargeri, tongue: translation}
-    - {name: The Temple of Upper Suvargeri, tongue: translation}
-    - {name: The Forty Days, tongue: translation}
-    - {name: The Borrowed Lamp, tongue: translation}
-    - {name: The Five Grounds, tongue: translation}
-    - {name: The Ferryman at the Ford, tongue: translation}
-    - {name: The Measuring Cord, tongue: translation}
-    - {name: The Recall, tongue: translation}
-    - {name: Tilaban, tongue: vedyari, built: [tilsa, vanta]}
-    - {name: Tsokhar, tongue: exonym:osket}
-    - {name: Uttaratir, tongue: vedyari, built: [uttarka, tirsa]}
-    - {name: Vanapada, tongue: vedyari, built: [vanta, padsa]}
-    - {name: Vanastoli, tongue: vedyari, built: [vanta, stalu]}
-    - {name: Vandyabhumi, tongue: vedyari, built: [bendya, bhumri]}
-    - {name: The Barren Country, tongue: translation}
-    - {name: The Central Plateau, tongue: translation}
-    - {name: Vandyadara, tongue: vedyari, built: [bendya, derka]}
-    - {name: Vedyara Region, tongue: translation}
-    - {name: Vedyara, tongue: vedyari, built: [vedyara]}
-    - {name: Veniban, tongue: vedyari, built: [bonu, vanta]}
-    - {name: Shikhalaya, tongue: vedyari, built: [shikhena, alaja]}
-    - {name: Virastal, tongue: vedyari, built: [birda, stalu]}
-    - {name: Vishanagram, tongue: vedyari, built: [vishona, grima]}
-    - {name: Vrihistal, tongue: vedyari, built: [brehi, stalu]}
-    - {name: Vrishatir, tongue: vedyari, built: [bresha, tirsa]}
-    - {name: Vyalendra City-State, tongue: translation}
-    - {name: Loom-Master, tongue: translation}
-    - {name: Speaker of the Loom-Council, tongue: translation}
-    - {name: Commander of the Watch, tongue: translation}
-    - {name: Vyalendra Land, tongue: translation}
-    - {name: The Vyalendra Source-Temple, tongue: translation}
-    - {name: The Sarvaprabhava Source-Temple, tongue: translation}
-    - {name: The Waiting House, tongue: translation}
-    - {name: The Weighing-Station, tongue: translation}
-    - {name: The Western Descent, tongue: translation}
-    - {name: Dranavár, tongue: exonym:khazryn}
-    - {name: The Moon City, tongue: translation}
-    - {name: Suryagarha, tongue: vedyari, built: [surta, gorha]}
-    - {name: The City of Ten Thousand Looms, tongue: translation}
-    - {name: Vedyari Language, tongue: translation}
-    - {name: "Ritual: Agmi-pantra", tongue: translation}
-    - {name: "Ritual: Jnanasura", tongue: translation}
-    - {name: "Ritual: Kalavrata", tongue: translation}
-    - {name: "Ritual: Kamavrata", tongue: translation}
-    - {name: "Ritual: Mahajaya", tongue: translation}
-    - {name: "Ritual: Meghonata", tongue: translation}
-    - {name: "Ritual: Pavanajitras", tongue: translation}
-    - {name: "Ritual: Rasikara", tongue: translation}
-    - {name: "Ritual: Svapnasari-sameja", tongue: translation}
-    - {name: "Ritual: Triyanga-sampradeya", tongue: translation}
-    - {name: "Ritual: Vahrati", tongue: translation}
-    - {name: "Ritual: Vyalendra", tongue: translation}
-    - {name: "Ritual: Vyalendravada", tongue: translation}
-    - {name: The Conch-Door Incursion, tongue: translation}
-    - {name: The Drowning of the Royal Seat, tongue: translation}
-    - {name: The End of the Vyalendri Kingship, tongue: translation}
-    - {name: The Highland Foundations, tongue: translation}
-    - {name: The Janpoda Form, tongue: translation}
-    - {name: The Kingdom of Mahanodi, tongue: translation}
-    - {name: The Dissolution of Mahanodi, tongue: translation}
-    - {name: The Day of the Dissolution, tongue: translation}
-    - {name: The Third Compact, tongue: translation}
-    - {name: The Third Janpoda Compact, tongue: translation}
-    - {name: The Unnumbered Age, tongue: translation}
-    - {name: The Founding Age, tongue: translation}
-    - {name: The Age of Kingdoms, tongue: translation}
-    - {name: The Age of Copyists, tongue: translation}
-    - {name: The Hundred Crowns, tongue: translation}
-    - {name: The Hard Generation, tongue: translation}
-    - {name: The Compact Peace, tongue: translation}
-    - {name: The Age of Patrons, tongue: translation}
-    - {name: The Unburned Ford, tongue: translation}
-    - {name: The Kindling at the Ford, tongue: translation}
-    - {name: The Last Gold Raid, tongue: translation}
-    - {name: The Raising of the Vyalendri Crown, tongue: translation}
-    - {name: The Charter of the Pass-Road, tongue: translation}
-    - {name: The First Breaking of the Well Bargain, tongue: translation}
-    - {name: The Field of Elephants, tongue: translation}
-    - {name: The Moon House Settlement, tongue: translation}
-    - {name: The Fall of Marupal, tongue: translation}
-    - {name: The Raising of Bhumipal, tongue: translation}
-    - {name: The Highland War, tongue: translation}
-    - {name: The Second Breaking and the Empty Circuit, tongue: translation}
-    - {name: The Empty Circuit, tongue: translation}
-    - {name: The Condemnation of the Chaya-vreta, tongue: translation}
-    - {name: The Three Partings of the Agmi-pantra, tongue: translation}
-    - {name: Rajepur Under Protection, tongue: translation}
-    - {name: The Widow's Acclamation, tongue: translation}
-    - {name: The Cut Thread, tongue: translation}
-    - {name: The Nine Days of Ice, tongue: translation}
-    - {name: The Silenced Hall, tongue: translation}
-    - {name: The Silenced Hall of Tirnugram, tongue: translation}
-    - {name: Olurtaran, tongue: vedyari, built: [bhuraka, torona]}
-    - {name: Gajastal, tongue: vedyari, built: [gajta, stalu]}
-    - {name: Lantustal, tongue: vedyari, built: [lantu, stalu]}
-    - {name: Ludrapur, tongue: vedyari, built: [ludra, pur]}
-    - {name: Sharamukha, tongue: vedyari, built: [shirka, mukhva]}
-    - {name: Shunyakupa, tongue: vedyari, built: [shonya, kupra]}
-    - {name: Puranastan, tongue: vedyari, built: [puratra, stonu]}
-    - {name: The Ford of the Restless Dead, tongue: translation}
-    - {name: The Elephant Ground, tongue: translation}
-    - {name: The Banner Ground, tongue: translation}
-    - {name: The Empty Well, tongue: translation}
-    - {name: The Old Seat, tongue: translation}
-    - {name: The Raiders' Cairn, tongue: translation}
-    - {name: The Crownless Forts, tongue: translation}
-    - {name: The Lower Courses of Chendrapur, tongue: translation}
-    - {name: Rushaghat, tongue: vedyari, built: [rusha, ghatka]}
-    - {name: The Dust Landing, tongue: translation}
-    - {name: Broker, tongue: translation}
-    - {name: Holder of the Vow, tongue: translation}
-    - {name: Keeper of a Line, tongue: translation}
-    - {name: Preparer, tongue: translation}
-    - {name: Remembered, tongue: translation}
-    - {name: Chaya-vreta, tongue: vedyari}
-    - {name: The Shadow-Vow, tongue: translation}
-    - {name: Under the Vow, tongue: translation}
-    - {name: Sorhupur, tongue: vedyari, built: [sorhu, pur]}
-    - {name: The City That Kept Its Dead, tongue: translation}
-    - {name: Madukupa, tongue: vedyari, built: [madru, kupra]}
-    - {name: The Sweet Well, tongue: translation}
-    - {name: Dahanaghat, tongue: vedyari, built: [dahona, ghatka]}
-    - {name: The Burning Landing, tongue: translation}
-    - {name: Devanur Vasavesha, tongue: vedyari}
-    - {name: Maharava Devanur, tongue: translation}
-    - {name: Satyadarsha Valaka, tongue: vedyari}
-    - {name: Kulena Satyadarsha, tongue: translation}
-    - {name: Jayarsha Padmadiksha, tongue: vedyari}
-    - {name: Kulena Jayarsha, tongue: translation}
-    - {name: Kalyanika Kalira, tongue: vedyari}
-    - {name: Herald Kalyanika the Modernizer, tongue: translation}
-    - {name: Herald Kalyanika, tongue: translation}
-    - {name: Manduli Kulanaya, tongue: vedyari}
-    - {name: Priestess Manduli, tongue: translation}
-    - {name: Nagarit Gajabir, tongue: vedyari}
-    - {name: Captain Nagarit, tongue: translation}
-    - {name: Tarvika Tamraksha, tongue: vedyari}
-    - {name: Overseer Tarvika, tongue: translation}
-    - {name: Tanavarna Shuravan, tongue: vedyari}
-    - {name: Maharava Tanavarna Shuravan, tongue: translation}
-    - {name: Maharava Tanavarna, tongue: translation}
-    - {name: Viduliya Danasur, tongue: vedyari}
-    - {name: High Priestess Viduliya, tongue: translation}
-    - {name: Vamiksha Ajaran, tongue: vedyari}
-    - {name: Captain Vamiksha, tongue: translation}
-    - {name: Vatesa Bhasura, tongue: vedyari}
-    - {name: Priest Vatesa, tongue: translation}
-    - {name: Garunya Tarayara, tongue: vedyari}
-    - {name: Captain Garunya the Reckless, tongue: translation}
-    - {name: Captain Garunya, tongue: translation}
-    - {name: Samurat Ratamar, tongue: vedyari}
-    - {name: Captain Samurat, tongue: translation}
-    - {name: Prituraja Samudraya, tongue: vedyari}
-    - {name: Captain-Merchant Prituraja, tongue: translation}
-    - {name: Darmeja Daranir, tongue: vedyari}
-    - {name: Captain Darmeja, tongue: translation}
-    - {name: Ashvapala, tongue: vedyari}
-    - {name: Jalavira, tongue: vedyari}
-    - {name: Meghavira, tongue: vedyari}
-    - {name: Kavrabira, tongue: vedyari}
-    - {name: Dhanurpala, tongue: vedyari}
+    - { name: Vedyara Adventurer's Guide, tongue: translation }
+    - { name: Ganoka-shalda, tongue: vedyari, built: [ganoka, shalda] }
+    - { name: The Reckoners' College, tongue: translation }
+    - { name: Struck from the Roll, tongue: translation }
+    - { name: Hearer, tongue: translation }
+    - { name: Slate-holder, tongue: translation }
+    - { name: Ganoka, tongue: vedyari, built: [ganoka] }
+    - { name: Reckoner of the Hall, tongue: translation }
+    - { name: Keeper of the Tables, tongue: translation }
+    - { name: Court Ganoka, tongue: translation }
+    - { name: Reckoner of the Weighing, tongue: translation }
+    - { name: Tide-reader, tongue: translation }
+    - { name: The Threshold-keepers, tongue: translation }
+    - { name: The Keepers of the Threshold, tongue: translation }
+    - { name: License Withdrawn, tongue: translation }
+    - { name: Lamp-tender, tongue: translation }
+    - { name: Witness, tongue: translation }
+    - { name: Threshold-keeper, tongue: translation }
+    - { name: Warrant-holder, tongue: translation }
+    - { name: Framer of the Question, tongue: translation }
+    - { name: Witness of Record, tongue: translation }
+    - { name: Keeper of the Register, tongue: translation }
+    - { name: Adanshreni, tongue: vedyari, built: [adun, shrena] }
+    - { name: Adun, tongue: vedyari, built: [adun] }
+    - { name: The Receivers, tongue: translation }
+    - { name: The Shrena of Taking, tongue: translation }
+    - { name: Chinnasutra, tongue: vedyari, built: [chinnasutra] }
+    - { name: Ashreta, tongue: vedyari, built: [ashreta] }
+    - { name: Antevosin, tongue: vedyari, built: [antevosin] }
+    - { name: Adanika, tongue: vedyari, built: [adun, -ika] }
+    - { name: Achorya, tongue: vedyari, built: [achorya] }
+    - { name: Stovira, tongue: vedyari, built: [stovira] }
+    - { name: Shroshtin, tongue: vedyari, built: [shroshtin] }
+    - { name: Nyasapala, tongue: vedyari, built: [nyos, palda] }
+    - { name: Arghakara, tongue: vedyari, built: [orgha, kartu] }
+    - { name: Mudrakara, tongue: vedyari, built: [mudva, kartu] }
+    - { name: Margapala, tongue: vedyari, built: [margapala] }
+    - { name: Dutsa, tongue: vedyari, built: [dutsa] }
+    - { name: Agmi-pantra, tongue: vedyari, built: [agmi, pantra] }
+    - { name: The Path of the Flame, tongue: translation }
+    - { name: Flame Path, tongue: translation }
+    - { name: Patuta, tongue: vedyari, built: [patuta] }
+    - { name: Upasoka, tongue: vedyari, built: [upasoka] }
+    - { name: Bhosma, tongue: vedyari, built: [bhosma] }
+    - { name: Jvelita, tongue: vedyari, built: [jvelita] }
+    - { name: Dahona-Mulka, tongue: vedyari, built: [dahona, mulka] }
+    - { name: Ember-Bearer, tongue: translation }
+    - { name: Chapter Root, tongue: translation }
+    - { name: Jnanasura, tongue: vedyari, built: [jnena, sujra] }
+    - { name: The Radiant Sage, tongue: translation }
+    - { name: Vretin, tongue: vedyari, built: [vretin] }
+    - { name: The Examination Beyond the Veil, tongue: translation }
+    - { name: The Silent Year of Reading, tongue: translation }
+    - { name: The Contest of Open Questions, tongue: translation }
+    - { name: Kalavrata, tongue: vedyari, built: [kalda, vreta] }
+    - { name: The Gatekeeper of Death, tongue: translation }
+    - { name: The Vigil of Final Breath, tongue: translation }
+    - { name: The Walk Between Fires, tongue: translation }
+    - { name: The Silent Year, tongue: translation }
+    - { name: Kamavrata, tongue: vedyari, built: [kamva, vreta] }
+    - { name: The Celestial Lover, tongue: translation }
+    - { name: The Garden Year, tongue: translation }
+    - { name: The Silent Flute, tongue: translation }
+    - { name: Mahajaya, tongue: vedyari, built: [mahva, jayra] }
+    - { name: The Eternal Preserver, tongue: translation }
+    - { name: The Granary Vigil, tongue: translation }
+    - { name: The Fair Measure, tongue: translation }
+    - { name: Meghonata, tongue: vedyari, built: [meghra, natka] }
+    - { name: Lord of Thunder, tongue: translation }
+    - { name: The Storm Watch, tongue: translation }
+    - { name: The Fisher's Voyage, tongue: translation }
+    - { name: The Silent Year of Thunder, tongue: translation }
+    - { name: The Pass-Shrine Ushtakas, tongue: translation }
+    - { name: The Altitude Ushtakas, tongue: translation }
+    - { name: Sent Down, tongue: translation }
+    - { name: Shrine-born, tongue: translation }
+    - { name: Fire-watcher, tongue: translation }
+    - { name: Shrine-priest, tongue: translation }
+    - { name: Keeper of the Col, tongue: translation }
+    - { name: Register-writer, tongue: translation }
+    - { name: Reader of the Cistern Wall, tongue: translation }
+    - { name: Pavanajitras, tongue: vedyari }
+    - { name: The Wandering Wind, tongue: translation }
+    - { name: The Wind Spirits of the Road, tongue: translation }
+    - { name: The Pilgrim's Year, tongue: translation }
+    - { name: The Silent Caravan, tongue: translation }
+    - { name: Rasikara, tongue: vedyari }
+    - { name: The Flame of Renewal, tongue: translation }
+    - { name: The Walk of Coals, tongue: translation }
+    - { name: The Vigil in Ashes, tongue: translation }
+    - { name: The Firebrand's Year, tongue: translation }
+    - { name: Svapnadevas, tongue: vedyari, built: [svopna, devra, -s] }
+    - { name: The Dreaming Host, tongue: translation }
+    - { name: The Celestial Host of Dreams, tongue: translation }
+    - { name: The Seven-Night Vigil, tongue: translation }
+    - { name: The Mirror Year, tongue: translation }
+    - { name: Svapnasari-sameja, tongue: vedyari, built: [svopna, sarhi, sameja] }
+    - { name: Assembly of the Dream-Followers, tongue: translation }
+    - { name: Dream Assembly, tongue: translation }
+    - { name: Nidrapala, tongue: vedyari, built: [nidrapala] }
+    - { name: Dorshaka, tongue: vedyari, built: [dorshaka] }
+    - { name: Svopna-Achorya, tongue: vedyari, built: [svopna, achorya] }
+    - { name: Keeper of the Dream-Record, tongue: translation }
+    - { name: Chamber-Warden, tongue: translation }
+    - { name: Triyanga-sampradeya, tongue: vedyari, built: [tre, angha, sampradeya] }
+    - { name: Tradition of the Three Forms, tongue: translation }
+    - { name: Triyanga Tradition, tongue: translation }
+    - { name: Seboka, tongue: vedyari, built: [seboka] }
+    - { name: Triyacharya, tongue: vedyari, built: [triyacharya] }
+    - { name: Achorya of a Form, tongue: translation }
+    - { name: Keeper of the Three Rites, tongue: translation }
+    - { name: Varnuka Pantheon, tongue: translation }
+    - { name: Varnuka, tongue: vedyari, built: [varnuka] }
+    - { name: Ordained of a Sampradeya, tongue: translation }
+    - { name: Householder, tongue: translation }
+    - { name: Vreta-Holder, tongue: translation }
+    - { name: Vahrati, tongue: vedyari, built: [vahrati] }
+    - { name: The Keeper of Decay, tongue: translation }
+    - { name: The Year of Gentle Release, tongue: translation }
+    - { name: The Walk of the Empty House, tongue: translation }
+    - { name: Vyalendra, tongue: vedyari, built: [vyela, ishna] }
+    - { name: The Shaper of Worlds, tongue: translation }
+    - { name: The Year of the Apprentice, tongue: translation }
+    - { name: The Perfect Stone, tongue: translation }
+    - { name: Vyalendravada, tongue: vedyari, built: [vyela, ishna, vadsa] }
+    - { name: The Doctrine of Vyalendra, tongue: translation }
+    - { name: Vyalendran School, tongue: translation }
+    - { name: Parema-Achorya, tongue: vedyari, built: [parema, achorya] }
+    - { name: Examiner, tongue: translation }
+    - { name: Temple Architect, tongue: translation }
+    - { name: The Merchant Collective of Vedyara, tongue: translation }
+    - { name: Vyapori Sangra, tongue: vedyari, built: [vyapori, sangra] }
+    - { name: The Collective, tongue: translation }
+    - { name: The Long Caravan, tongue: translation }
+    - { name: Merchant Collective, tongue: translation }
+    - { name: Expelled, tongue: translation }
+    - { name: Karmakuva, tongue: vedyari, built: [karmakuva] }
+    - { name: Pratoshta, tongue: vedyari, built: [pratoshta] }
+    - { name: Kulena House, tongue: translation }
+    - { name: High Speaker of the Collective, tongue: translation }
+    - { name: Assembly of the Compact, tongue: translation }
+    - { name: Sangra-Sabhra, tongue: vedyari, built: [sangra, sabhra] }
+    - { name: The Compact, tongue: translation }
+    - { name: Unseated, tongue: translation }
+    - { name: Delegate, tongue: translation }
+    - { name: High Speaker, tongue: translation }
+    - { name: Roads Committee, tongue: translation }
+    - { name: Standards Committee, tongue: translation }
+    - { name: Foreign Trade Committee, tongue: translation }
+    - { name: Disputes Committee, tongue: translation }
+    - { name: The Twilight House, tongue: translation }
+    - { name: The House of the Long Evening, tongue: translation }
+    - { name: Sandyagriha, tongue: vedyari, built: [sandva, groha] }
+    - { name: Cast Out, tongue: translation }
+    - { name: Apprentice, tongue: translation }
+    - { name: Companion, tongue: translation }
+    - { name: Senior Companion, tongue: translation }
+    - { name: Elder of the House, tongue: translation }
+    - { name: Mistress of the Long Evening, tongue: translation }
+    - { name: Mistress of a Satellite House, tongue: translation }
+    - { name: Handler, tongue: translation }
+    - { name: Mistress of Instruction, tongue: translation }
+    - { name: Keeper of the Ledger, tongue: translation }
+    - { name: Factor to the Shrena, tongue: translation }
+    - { name: Doorkeeper, tongue: translation }
+    - { name: House Physician, tongue: translation }
+    - { name: Vedyaran Elephant, tongue: translation }
+    - { name: Vedyaran Rhinoceros, tongue: translation }
+    - { name: Akendra, tongue: vedyari }
+    - { name: Anuraja, tongue: vedyari, built: [anva, rajva] }
+    - { name: Anva, tongue: calling, built: [Anuraja] }
+    - { name: Harshakar, tongue: vedyari }
+    - { name: Chandratar, tongue: vedyari }
+    - { name: Mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora] }
+    - { name: Chandreli, tongue: vedyari, built: [chendra, kirta, sundeli] }
+    - { name: Chandri, tongue: calling, built: [Chandreli] }
+    - { name: Jayavalli, tongue: vedyari, built: [jayra, valsi] }
+    - { name: Darmapalda, tongue: vedyari, built: [dorma, palda] }
+    - { name: Darmu, tongue: calling, built: [Darmapalda] }
+    - { name: Vimuktan, tongue: vedyari }
+    - { name: Driksharana, tongue: vedyari }
+    - { name: Driksha, tongue: calling, built: [Driksharana] }
+    - { name: Manrishti, tongue: vedyari }
+    - { name: Madurava, tongue: vedyari, built: [madru, ravha] }
+    - { name: Madru, tongue: calling, built: [Madurava] }
+    - { name: Sutrapal, tongue: vedyari, built: [sutka, palda] }
+    - { name: Minaka, tongue: vedyari }
+    - { name: Parikshuna, tongue: vedyari }
+    - { name: Narava, tongue: vedyari }
+    - { name: Tejanand, tongue: vedyari, built: [surta, tejva, mahva, anonda] }
+    - { name: Padmavali, tongue: vedyari, built: [podma, avoli] }
+    - { name: Padmi, tongue: calling, built: [Padmavali] }
+    - { name: Danurkirti, tongue: vedyari, built: [danur, bedra, kirta, rajva] }
+    - { name: Pallovi, tongue: vedyari }
+    - { name: Draviksha, tongue: vedyari }
+    - { name: Pritarika, tongue: vedyari }
+    - { name: Pripri, tongue: calling, built: [Pritarika] }
+    - { name: Padmadiksha, tongue: vedyari, built: [podma, deksha] }
+    - { name: Pritimaja, tongue: vedyari }
+    - { name: Pritu, tongue: calling, built: [Pritimaja] }
+    - { name: Kayadara, tongue: vedyari }
+    - { name: Kritiraya, tongue: vedyari }
+    - { name: Senapavi, tongue: vedyari, built: [senapavi] }
+    - { name: Senu, tongue: calling, built: [Senapavi] }
+    - { name: Vikramada, tongue: vedyari, built: [vikroma, -da] }
+    - { name: Sunati, tongue: vedyari }
+    - { name: Jayavarda, tongue: vedyari, built: [jayra, rajva, bardena] }
+    - { name: Suvarti, tongue: vedyari }
+    - { name: Suvi, tongue: calling, built: [Suvarti] }
+    - { name: Ratnisen, tongue: vedyari }
+    - { name: Tamura, tongue: vedyari }
+    - { name: Vanika, tongue: vedyari, built: [vanta, -ika] }
+    - { name: Viranga, tongue: vedyari }
+    - { name: Viru, tongue: calling, built: [Viranga] }
+    - { name: Dukshana, tongue: vedyari }
+    - { name: Vishali, tongue: vedyari }
+    - { name: Balarnaya, tongue: vedyari }
+    - { name: Shilabir, tongue: vedyari, built: [shilsa, birda] }
+    - { name: Shilu, tongue: calling, built: [Shilabir] }
+    - { name: Vidsamondal, tongue: vedyari, built: [vidsa, saghara, mondala] }
+    - { name: Vishvakhila, tongue: vedyari }
+    - { name: Vishvu, tongue: calling, built: [Vishvakhila] }
+    - { name: Ratnadasa, tongue: vedyari, built: [ratka, angha, devra, dasu] }
+    - { name: Vishvara, tongue: vedyari }
+    - { name: Mahapar, tongue: vedyari, built: [mahva, porha] }
+    - { name: Vedyari, tongue: vedyari, built: [vedyari] }
+    - { name: Vedyaran Banking, tongue: translation }
+    - { name: Vedyaran Currency, tongue: translation }
+    - { name: Vedyaran Monetary System, tongue: translation }
+    - { name: Vedyaran Chendra, tongue: vedyari, built: [vedyara, -an, chendra] }
+    - { name: Chendra, tongue: vedyari, built: [chendra] }
+    - { name: Vedyaran Suvorna, tongue: vedyari, built: [vedyara, -an, suvorna] }
+    - { name: Suvorna, tongue: vedyari, built: [suvorna] }
+    - { name: Vedyaran Tomra, tongue: vedyari, built: [vedyara, -an, tomra] }
+    - { name: Tomra, tongue: vedyari, built: [tomra] }
+    - { name: The Academy of the Hidden String, tongue: translation }
+    - { name: The Academy of the High Draw, tongue: translation }
+    - { name: The Academy of the Patient Eye, tongue: translation }
+    - { name: The Academy of the Swift Hand, tongue: translation }
+    - { name: Aruti's Hermitage, tongue: translation }
+    - { name: Ashvapada, tongue: vedyari, built: [oshka, padu] }
+    - { name: Ashvatir, tongue: vedyari, built: [oshka, tirsa] }
+    - { name: Bharanya, tongue: vedyari }
+    - { name: Lower Mahanodi Janpoda, tongue: translation }
+    - { name: Bharava, tongue: vedyari, built: [bharava] }
+    - { name: Bharava-Devabhona, tongue: vedyari, built: [bharava, devra, bhogra] }
+    - { name: Devabhona, tongue: vedyari, built: [devra, bhogra] }
+    - { name: The Forest Estates, tongue: translation }
+    - { name: Bihra, tongue: vedyari, built: [bihra] }
+    - { name: Bonded Servant, tongue: translation }
+    - { name: Karmija, tongue: vedyari, built: [karmija] }
+    - { name: Danhija, tongue: vedyari, built: [danhija] }
+    - { name: Sentija, tongue: vedyari, built: [sentija] }
+    - { name: Ritrija, tongue: vedyari, built: [ritrija] }
+    - { name: Shetrapalda, tongue: vedyari, built: [shetrapalda] }
+    - { name: Devapavi, tongue: vedyari, built: [devapavi] }
+    - { name: Vanapalda, tongue: vedyari, built: [vanapalda] }
+    - { name: Koshapala, tongue: vedyari, built: [koshra, palda] }
+    - { name: The Bharava-Devastena Hostels, tongue: translation }
+    - { name: Bharava-Devastena, tongue: vedyari, built: [bharava, devra, stonu] }
+    - { name: Bharavamukha, tongue: vedyari, built: [bharava, mukhva] }
+    - { name: Bharavaprabhava, tongue: vedyari, built: [bharava, prabhana] }
+    - { name: Bharavaban, tongue: vedyari, built: [bharava, vanta] }
+    - { name: The Bharava Forest, tongue: translation }
+    - { name: The Forest Country, tongue: translation }
+    - { name: The Kingdom of Bharyastan, tongue: translation }
+    - { name: Samonta, tongue: vedyari, built: [samonta] }
+    - { name: Maharava, tongue: vedyari, built: [maharava] }
+    - { name: Rojni, tongue: vedyari, built: [rojni] }
+    - { name: Yuvarava, tongue: vedyari, built: [yuvarava] }
+    - { name: Montrin, tongue: vedyari, built: [montrin] }
+    - { name: Purohata, tongue: vedyari, built: [purohata] }
+    - { name: Rajagorva, tongue: vedyari, built: [rajagorva] }
+    - { name: Dandanayeka, tongue: vedyari, built: [dandanayeka] }
+    - { name: Koshadyoksha, tongue: vedyari, built: [koshadyoksha] }
+    - { name: Bharyastan, tongue: vedyari }
+    - { name: Bhumipal, tongue: vedyari, built: [bhumri, palda] }
+    - { name: Bhumipal Land, tongue: translation }
+    - { name: The March, tongue: translation }
+    - { name: The Bow-Fort, tongue: translation }
+    - { name: Chandramahi, tongue: vedyari, built: [chendra, mahvi] }
+    - { name: Chandramukha, tongue: vedyari, built: [chendra, mukhva] }
+    - { name: The Moon-Mouth, tongue: translation }
+    - { name: Chandraprabhava, tongue: vedyari, built: [chendra, prabhana] }
+    - { name: Chendrapur, tongue: vedyari, built: [chendra, pur] }
+    - { name: Kulena, tongue: vedyari, built: [kulena] }
+    - { name: Nau-senapavi, tongue: vedyari, built: [nau, senapavi] }
+    - { name: Chendrapur Land, tongue: translation }
+    - { name: Danurkot, tongue: vedyari, built: [danur, kotra] }
+    - { name: Danurkot Janpoda, tongue: vedyari, built: [danur, kotra, janra, padu] }
+    - { name: The Janpoda of the Bow-Fort, tongue: translation }
+    - { name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka] }
+    - { name: Sabhapavi, tongue: vedyari, built: [sabhapavi] }
+    - { name: Smiritibhara, tongue: vedyari, built: [smiriti, bhora] }
+    - { name: Senoni, tongue: vedyari, built: [senoni] }
+    - { name: Danurachorya, tongue: vedyari, built: [danur, achorya] }
+    - { name: Danyagram, tongue: vedyari, built: [danva, grima] }
+    - { name: Dirmapur, tongue: vedyari, built: [dorma, pur] }
+    - { name: Middle Sarveda Janpoda, tongue: translation }
+    - { name: The Drowned Capital, tongue: translation }
+    - { name: The Eastern Reach, tongue: translation }
+    - { name: The Forest of No Road, tongue: translation }
+    - { name: Girimarga, tongue: vedyari, built: [girka, margha] }
+    - { name: Gokshetra, tongue: vedyari, built: [gho, shetka] }
+    - { name: The Gold Mountain, tongue: translation }
+    - { name: Suvargeri, tongue: vedyari, built: [suvorna, girka] }
+    - { name: Gomarga, tongue: vedyari, built: [gho, margha] }
+    - { name: The Kingdom of the Cattle-Road, tongue: translation }
+    - { name: Kupapala, tongue: vedyari, built: [kupapala] }
+    - { name: The Grazian Mountains, tongue: translation }
+    - { name: The Grazian Range, tongue: translation }
+    - { name: The Grazian Wall, tongue: translation }
+    - { name: The Great Bazaar, tongue: translation }
+    - { name: Gudagram, tongue: vedyari, built: [gudra, grima] }
+    - { name: The Guides' Road, tongue: translation }
+    - { name: Haritagram, tongue: vedyari, built: [harota, grima] }
+    - { name: Himashila, tongue: vedyari, built: [himra, shilsa] }
+    - { name: Hiranyadara, tongue: vedyari, built: [hirenya, derka] }
+    - { name: Hvarn, tongue: other:hvarn }
+    - { name: Unhoused, tongue: translation }
+    - { name: Taken-in, tongue: translation }
+    - { name: Hearth-kin, tongue: translation }
+    - { name: Drover, tongue: translation }
+    - { name: Roadwalker, tongue: translation }
+    - { name: Reach-guide, tongue: translation }
+    - { name: Hearth-head, tongue: translation }
+    - { name: Winter-speaker, tongue: translation }
+    - { name: Turn-keeper, tongue: translation }
+    - { name: Storm-Reader, tongue: translation }
+    - { name: Fort-carrier, tongue: translation }
+    - { name: Bone-bringer, tongue: translation }
+    - { name: Ikshukshetra, tongue: vedyari, built: [ikshva, shetka] }
+    - { name: Jalaghat, tongue: vedyari, built: [jalka, ghatka] }
+    - { name: Janpodas of Vedyara, tongue: translation }
+    - { name: Mahva-Sangra of Vedyara, tongue: translation }
+    - { name: The Temple-Republics of Vedyara, tongue: translation }
+    - { name: Vedyari Janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s] }
+    - { name: Sabhapavi of the Melka, tongue: translation }
+    - { name: The Council of Three, tongue: translation }
+    - { name: Circuit-Speaker, tongue: translation }
+    - { name: Jnanadvar, tongue: vedyari, built: [jnena, dvarna] }
+    - { name: The Scholars' Door, tongue: translation }
+    - { name: Kalashikhar, tongue: vedyari, built: [kalda, shikhena] }
+    - { name: Kanakasetu, tongue: vedyari, built: [kaneka, setka] }
+    - { name: Karpasagram, tongue: vedyari, built: [karpesa, grima] }
+    - { name: Khandapur, tongue: vedyari, built: [khondra, pur] }
+    - { name: Lipigram, tongue: vedyari, built: [lipu, grima] }
+    - { name: Madustan, tongue: vedyari, built: [madru, stonu] }
+    - { name: The Capital of the Philosopher-Kings, tongue: translation }
+    - { name: Madustan Count, tongue: translation }
+    - { name: Prabhavakala, tongue: vedyari, built: [prabhavakala] }
+    - { name: Pushpakala, tongue: vedyari, built: [pushpakala] }
+    - { name: Jvalakala, tongue: vedyari, built: [jvalakala] }
+    - { name: Meghamukhakala, tongue: vedyari, built: [meghamukhakala] }
+    - { name: Purnakala, tongue: vedyari, built: [purnakala] }
+    - { name: Lipikala, tongue: vedyari, built: [lipikala] }
+    - { name: Naukala, tongue: vedyari, built: [naukala] }
+    - { name: Danyakala, tongue: vedyari, built: [danva, kalda] }
+    - { name: Himrakala, tongue: vedyari, built: [himrakala] }
+    - { name: Koshtakala, tongue: vedyari, built: [koshtakala] }
+    - { name: Karpasakala, tongue: vedyari, built: [karpesa, kalda] }
+    - { name: Sandyakala, tongue: vedyari, built: [sandva, kalda] }
+    - { name: Surtar, tongue: vedyari, built: [surtar] }
+    - { name: Chendravar, tongue: vedyari, built: [chendravar] }
+    - { name: Kalavar, tongue: vedyari, built: [kalavar] }
+    - { name: Meghavar, tongue: vedyari, built: [meghavar] }
+    - { name: Jnanavar, tongue: vedyari, built: [jnanavar] }
+    - { name: Kamavar, tongue: vedyari, built: [kamavar] }
+    - { name: Vahrativar, tongue: vedyari, built: [vahrativar] }
+    - { name: Haritaritu, tongue: vedyari, built: [haritaritu] }
+    - { name: Diptaritu, tongue: vedyari, built: [diptaritu] }
+    - { name: Varsharetu, tongue: vedyari, built: [varsharetu] }
+    - { name: Hiranyaritu, tongue: vedyari, built: [hiranyaritu] }
+    - { name: Shitaritu, tongue: vedyari, built: [shitaritu] }
+    - { name: Tamraritu, tongue: vedyari, built: [tomra, ritru] }
+    - { name: Before the Madustan Count, tongue: translation }
+    - { name: Madupada, tongue: vedyari, built: [madru, padsa] }
+    - { name: Madabana, tongue: vedyari, built: [madru, vanta] }
+    - { name: The Mahajaya Temple at Bharanya, tongue: translation }
+    - { name: The Mahajaya Temple at Danurkot, tongue: translation }
+    - { name: Mahanodi, tongue: vedyari, built: [mahva, nadri] }
+    - { name: Mahaprabhava, tongue: vedyari, built: [mahva, prabhana] }
+    - { name: The March Road, tongue: translation }
+    - { name: Marukupa, tongue: vedyari, built: [marku, kupra] }
+    - { name: Mashakshetra, tongue: vedyari, built: [mashra, shetka] }
+    - { name: Meghra-samedra, tongue: vedyari, built: [meghra, samedra] }
+    - { name: The Southern Sea, tongue: translation }
+    - { name: Meghadvar, tongue: vedyari, built: [meghra, dvarna] }
+    - { name: The Storm-Door, tongue: translation }
+    - { name: Meghashikhar, tongue: vedyari, built: [meghra, shikhena] }
+    - { name: The Melka Ground, tongue: translation }
+    - { name: The Moon House, tongue: translation }
+    - { name: Muktoshvara, tongue: vedyari, built: [mukru, ishvora] }
+    - { name: Nadipada, tongue: vedyari, built: [nadri, padsa] }
+    - { name: Naughat, tongue: vedyari, built: [nau, ghatka] }
+    - { name: Sarveda Mouth Janpoda, tongue: translation }
+    - { name: Villager, tongue: translation }
+    - { name: Nilakshetra, tongue: vedyari, built: [nilka, shetka] }
+    - { name: Nilatir, tongue: vedyari, built: [nilka, tirsa] }
+    - { name: Nilaban, tongue: vedyari, built: [nilka, vanta] }
+    - { name: Nurvharn, tongue: exonym:hvarn }
+    - { name: Osket, tongue: other:osket }
+    - { name: Roadless, tongue: translation }
+    - { name: Fosterling, tongue: translation }
+    - { name: Herdholder, tongue: translation }
+    - { name: Carrier, tongue: translation }
+    - { name: Road-holder, tongue: translation }
+    - { name: Guide-mother, tongue: translation }
+    - { name: Speaker of the Cols, tongue: translation }
+    - { name: Cord-keeper, tongue: translation }
+    - { name: Snow-watcher, tongue: translation }
+    - { name: Hearth-warden, tongue: translation }
+    - { name: Fee-reckoner, tongue: translation }
+    - { name: Oskhelt, tongue: exonym:osket }
+    - { name: The Palace Cellars, tongue: translation }
+    - { name: The Pass-Shrines, tongue: translation }
+    - { name: Puranagram, tongue: vedyari, built: [puratra, grima] }
+    - { name: Pushpaban, tongue: vedyari, built: [pushva, vanta] }
+    - { name: Rajepur, tongue: vedyari, built: [rajva, pur] }
+    - { name: Rajepur Janpoda, tongue: vedyari, built: [rajva, pur, janra, padu] }
+    - { name: The Janpoda of the King's-Town, tongue: translation }
+    - { name: The Rajavali Library, tongue: translation }
+    - { name: The Rasikara Stream, tongue: translation }
+    - { name: Ratnakupa, tongue: vedyari, built: [ratka, kupra] }
+    - { name: Recitation of the Kings of Mahanodi, tongue: translation }
+    - { name: The Recitation of the Kings, tongue: translation }
+    - { name: Sandva-samedra, tongue: vedyari, built: [sandva, samedra] }
+    - { name: The Western Sea, tongue: translation }
+    - { name: Sandyapur, tongue: vedyari, built: [sandva, pur] }
+    - { name: The Sandstone Altar, tongue: translation }
+    - { name: Sangema, tongue: vedyari, built: [sangema] }
+    - { name: The Sangra-fort, tongue: translation }
+    - { name: Shankhadvar, tongue: vedyari, built: [shonkha, dvarna] }
+    - { name: Sarasapada, tongue: vedyari, built: [saresha, padsa] }
+    - { name: Sarveda, tongue: vedyari, built: [sartu, -da] }
+    - { name: Sarvaprabhava, tongue: vedyari, built: [sartu, prabhana] }
+    - { name: Setugram, tongue: vedyari, built: [setka, grima] }
+    - { name: Shaligroma, tongue: vedyari, built: [shol, grima] }
+    - { name: Shiraban, tongue: vedyari, built: [shirka, vanta] }
+    - { name: Shilamukha, tongue: vedyari, built: [shilsa, mukhva] }
+    - { name: Shitakoshta, tongue: vedyari, built: [shet, koshta] }
+    - { name: The Cold Chamber, tongue: translation }
+    - { name: Shunyadvar, tongue: vedyari, built: [shonya, dvarna] }
+    - { name: The Empty Door, tongue: translation }
+    - { name: The Silver Gorges, tongue: translation }
+    - { name: The Gorges, tongue: translation }
+    - { name: The Southern Wall, tongue: translation }
+    - { name: The Wall, tongue: translation }
+    - { name: Surta-samedra, tongue: vedyari, built: [surta, samedra] }
+    - { name: The Eastern Sea, tongue: translation }
+    - { name: The Surta-samedra Islands, tongue: translation }
+    - { name: The Eastern Islands, tongue: translation }
+    - { name: The Surta temple, tongue: translation }
+    - { name: Suryadvar, tongue: vedyari, built: [surta, dvarna] }
+    - { name: The Sun-Door, tongue: translation }
+    - { name: Suryashikhar, tongue: vedyari, built: [surta, shikhena] }
+    - { name: Suvargeri Janpoda, tongue: vedyari, built: [suvorna, girka, janra, padu] }
+    - { name: The Janpoda of the Gold Mountain, tongue: translation }
+    - { name: The Twenty-Eight, tongue: translation }
+    - { name: Svapnastambha, tongue: vedyari, built: [svopna, stumbha] }
+    - { name: Tamradvar, tongue: vedyari, built: [tomra, dvarna] }
+    - { name: The Copper-Door, tongue: translation }
+    - { name: Tamraban, tongue: vedyari, built: [tomra, vanta] }
+    - { name: Taranaghat, tongue: vedyari, built: [torona, ghatka] }
+    - { name: The Temple of Lower Suvargeri, tongue: translation }
+    - { name: The Temple of Middle Suvargeri, tongue: translation }
+    - { name: The Temple of Upper Suvargeri, tongue: translation }
+    - { name: The Forty Days, tongue: translation }
+    - { name: The Borrowed Lamp, tongue: translation }
+    - { name: The Five Grounds, tongue: translation }
+    - { name: The Ferryman at the Ford, tongue: translation }
+    - { name: The Measuring Cord, tongue: translation }
+    - { name: The Recall, tongue: translation }
+    - { name: Tilaban, tongue: vedyari, built: [tilsa, vanta] }
+    - { name: Tsokhar, tongue: exonym:osket }
+    - { name: Uttaratir, tongue: vedyari, built: [uttarka, tirsa] }
+    - { name: Vanapada, tongue: vedyari, built: [vanta, padsa] }
+    - { name: Vanastoli, tongue: vedyari, built: [vanta, stalu] }
+    - { name: Vandyabhumi, tongue: vedyari, built: [bendya, bhumri] }
+    - { name: The Barren Country, tongue: translation }
+    - { name: The Central Plateau, tongue: translation }
+    - { name: Vandyadara, tongue: vedyari, built: [bendya, derka] }
+    - { name: Vedyara Region, tongue: translation }
+    - { name: Vedyara, tongue: vedyari, built: [vedyara] }
+    - { name: Veniban, tongue: vedyari, built: [bonu, vanta] }
+    - { name: Shikhalaya, tongue: vedyari, built: [shikhena, alaja] }
+    - { name: Virastal, tongue: vedyari, built: [birda, stalu] }
+    - { name: Vishanagram, tongue: vedyari, built: [vishona, grima] }
+    - { name: Vrihistal, tongue: vedyari, built: [brehi, stalu] }
+    - { name: Vrishatir, tongue: vedyari, built: [bresha, tirsa] }
+    - { name: Vyalendra City-State, tongue: translation }
+    - { name: Loom-Master, tongue: translation }
+    - { name: Speaker of the Loom-Council, tongue: translation }
+    - { name: Commander of the Watch, tongue: translation }
+    - { name: Vyalendra Land, tongue: translation }
+    - { name: The Vyalendra Source-Temple, tongue: translation }
+    - { name: The Sarvaprabhava Source-Temple, tongue: translation }
+    - { name: The Waiting House, tongue: translation }
+    - { name: The Weighing-Station, tongue: translation }
+    - { name: The Western Descent, tongue: translation }
+    - { name: Dranavár, tongue: exonym:khazryn }
+    - { name: The Moon City, tongue: translation }
+    - { name: Suryagarha, tongue: vedyari, built: [surta, gorha] }
+    - { name: The City of Ten Thousand Looms, tongue: translation }
+    - { name: Vedyari Language, tongue: translation }
+    - { name: "Ritual: Agmi-pantra", tongue: translation }
+    - { name: "Ritual: Jnanasura", tongue: translation }
+    - { name: "Ritual: Kalavrata", tongue: translation }
+    - { name: "Ritual: Kamavrata", tongue: translation }
+    - { name: "Ritual: Mahajaya", tongue: translation }
+    - { name: "Ritual: Meghonata", tongue: translation }
+    - { name: "Ritual: Pavanajitras", tongue: translation }
+    - { name: "Ritual: Rasikara", tongue: translation }
+    - { name: "Ritual: Svapnasari-sameja", tongue: translation }
+    - { name: "Ritual: Triyanga-sampradeya", tongue: translation }
+    - { name: "Ritual: Vahrati", tongue: translation }
+    - { name: "Ritual: Vyalendra", tongue: translation }
+    - { name: "Ritual: Vyalendravada", tongue: translation }
+    - { name: The Conch-Door Incursion, tongue: translation }
+    - { name: The Drowning of the Royal Seat, tongue: translation }
+    - { name: The End of the Vyalendri Kingship, tongue: translation }
+    - { name: The Highland Foundations, tongue: translation }
+    - { name: The Janpoda Form, tongue: translation }
+    - { name: The Kingdom of Mahanodi, tongue: translation }
+    - { name: The Dissolution of Mahanodi, tongue: translation }
+    - { name: The Day of the Dissolution, tongue: translation }
+    - { name: The Third Compact, tongue: translation }
+    - { name: The Third Janpoda Compact, tongue: translation }
+    - { name: The Unnumbered Age, tongue: translation }
+    - { name: The Founding Age, tongue: translation }
+    - { name: The Age of Kingdoms, tongue: translation }
+    - { name: The Age of Copyists, tongue: translation }
+    - { name: The Hundred Crowns, tongue: translation }
+    - { name: The Hard Generation, tongue: translation }
+    - { name: The Compact Peace, tongue: translation }
+    - { name: The Age of Patrons, tongue: translation }
+    - { name: The Unburned Ford, tongue: translation }
+    - { name: The Kindling at the Ford, tongue: translation }
+    - { name: The Last Gold Raid, tongue: translation }
+    - { name: The Raising of the Vyalendri Crown, tongue: translation }
+    - { name: The Charter of the Pass-Road, tongue: translation }
+    - { name: The First Breaking of the Well Bargain, tongue: translation }
+    - { name: The Field of Elephants, tongue: translation }
+    - { name: The Moon House Settlement, tongue: translation }
+    - { name: The Fall of Marupal, tongue: translation }
+    - { name: The Raising of Bhumipal, tongue: translation }
+    - { name: The Highland War, tongue: translation }
+    - { name: The Second Breaking and the Empty Circuit, tongue: translation }
+    - { name: The Empty Circuit, tongue: translation }
+    - { name: The Condemnation of the Chaya-vreta, tongue: translation }
+    - { name: The Three Partings of the Agmi-pantra, tongue: translation }
+    - { name: Rajepur Under Protection, tongue: translation }
+    - { name: The Widow's Acclamation, tongue: translation }
+    - { name: The Cut Thread, tongue: translation }
+    - { name: The Nine Days of Ice, tongue: translation }
+    - { name: The Silenced Hall, tongue: translation }
+    - { name: The Silenced Hall of Tirnugram, tongue: translation }
+    - { name: Olurtaran, tongue: vedyari, built: [bhuraka, torona] }
+    - { name: Gajastal, tongue: vedyari, built: [gajta, stalu] }
+    - { name: Lantustal, tongue: vedyari, built: [lantu, stalu] }
+    - { name: Ludrapur, tongue: vedyari, built: [ludra, pur] }
+    - { name: Sharamukha, tongue: vedyari, built: [shirka, mukhva] }
+    - { name: Shunyakupa, tongue: vedyari, built: [shonya, kupra] }
+    - { name: Puranastan, tongue: vedyari, built: [puratra, stonu] }
+    - { name: The Ford of the Restless Dead, tongue: translation }
+    - { name: The Elephant Ground, tongue: translation }
+    - { name: The Banner Ground, tongue: translation }
+    - { name: The Empty Well, tongue: translation }
+    - { name: The Old Seat, tongue: translation }
+    - { name: The Raiders' Cairn, tongue: translation }
+    - { name: The Crownless Forts, tongue: translation }
+    - { name: The Lower Courses of Chendrapur, tongue: translation }
+    - { name: Rushaghat, tongue: vedyari, built: [rusha, ghatka] }
+    - { name: The Dust Landing, tongue: translation }
+    - { name: Broker, tongue: translation }
+    - { name: Holder of the Vow, tongue: translation }
+    - { name: Keeper of a Line, tongue: translation }
+    - { name: Preparer, tongue: translation }
+    - { name: Remembered, tongue: translation }
+    - { name: Chaya-vreta, tongue: vedyari }
+    - { name: The Shadow-Vow, tongue: translation }
+    - { name: Under the Vow, tongue: translation }
+    - { name: Sorhupur, tongue: vedyari, built: [sorhu, pur] }
+    - { name: The City That Kept Its Dead, tongue: translation }
+    - { name: Madukupa, tongue: vedyari, built: [madru, kupra] }
+    - { name: The Sweet Well, tongue: translation }
+    - { name: Dahanaghat, tongue: vedyari, built: [dahona, ghatka] }
+    - { name: The Burning Landing, tongue: translation }
+    - { name: Devanur Vasavesha, tongue: vedyari }
+    - { name: Maharava Devanur, tongue: translation }
+    - { name: Satyadarsha Valaka, tongue: vedyari }
+    - { name: Kulena Satyadarsha, tongue: translation }
+    - { name: Jayarsha Padmadiksha, tongue: vedyari }
+    - { name: Kulena Jayarsha, tongue: translation }
+    - { name: Kalyanika Kalira, tongue: vedyari }
+    - { name: Herald Kalyanika the Modernizer, tongue: translation }
+    - { name: Herald Kalyanika, tongue: translation }
+    - { name: Manduli Kulanaya, tongue: vedyari }
+    - { name: Priestess Manduli, tongue: translation }
+    - { name: Nagarit Gajabir, tongue: vedyari }
+    - { name: Captain Nagarit, tongue: translation }
+    - { name: Tarvika Tamraksha, tongue: vedyari }
+    - { name: Overseer Tarvika, tongue: translation }
+    - { name: Tanavarna Shuravan, tongue: vedyari }
+    - { name: Maharava Tanavarna Shuravan, tongue: translation }
+    - { name: Maharava Tanavarna, tongue: translation }
+    - { name: Viduliya Danasur, tongue: vedyari }
+    - { name: High Priestess Viduliya, tongue: translation }
+    - { name: Vamiksha Ajaran, tongue: vedyari }
+    - { name: Captain Vamiksha, tongue: translation }
+    - { name: Vatesa Bhasura, tongue: vedyari }
+    - { name: Priest Vatesa, tongue: translation }
+    - { name: Garunya Tarayara, tongue: vedyari }
+    - { name: Captain Garunya the Reckless, tongue: translation }
+    - { name: Captain Garunya, tongue: translation }
+    - { name: Samurat Ratamar, tongue: vedyari }
+    - { name: Captain Samurat, tongue: translation }
+    - { name: Prituraja Samudraya, tongue: vedyari }
+    - { name: Captain-Merchant Prituraja, tongue: translation }
+    - { name: Darmeja Daranir, tongue: vedyari }
+    - { name: Captain Darmeja, tongue: translation }
+    - { name: Ashvapala, tongue: vedyari }
+    - { name: Jalavira, tongue: vedyari }
+    - { name: Meghavira, tongue: vedyari }
+    - { name: Kavrabira, tongue: vedyari }
+    - { name: Dhanurpala, tongue: vedyari }
   retired:
-    - {form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija}
-    - {form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija}
-    - {form: Retuja, instead: Ritrija, why: the station name is the stem ritru with -ija}
-    - {form: Danhija, instead: Danhija, why: the station name is the stem danha with -ija}
-    - {form: Sentija, instead: Sentija, why: the station name is the stem senta with -ija}
-    - {form: Ritrija, instead: Ritrija, why: the station name is the stem ritru with -ija}
-    - {form: Vindhyālaya, instead: Shikhalaya, why: "the Vindhya, a mountain range of Earth"}
-    - {form: Vindhyan, instead: Shikhalayan, why: "the Vindhya, a mountain range of Earth"}
-    - {form: Vindhya, why: a mountain range of Earth}
-    - {form: Mādhavendra, instead: Madustan, why: "Mādhava, an Earth god's epithet"}
-    - {form: Madhuvindra, instead: Madustan, why: "carries ishna, an Earth god's name"}
-    - {form: Mādhava, why: an Earth god's epithet}
-    - {form: Trimūrti, instead: Triyanga, why: the triad of three Earth gods}
-    - {form: Āyodhyārājavardhan, instead: Jayavarda, why: a city of Earth}
-    - {form: Vishnusha, instead: Shilabir, why: an Earth god's name}
-    - {form: Rudrata, instead: Sutrapal, why: an Earth god's name}
-    - {form: Mahādeva, instead: Mahakirti, why: a name of an Earth god}
-    - {form: Mahādheva, instead: Mahakirti, why: a name of an Earth god}
-    - {form: Mahādhevavikramapāl, why: a name of an Earth god}
-    - {form: brahmadeya, why: an Earth term for a grant of land to priests}
-    - {form: Rāmachandra, why: an Earth god}
-    - {form: Rāvana, why: a figure of Earth epic}
-    - {form: Rāmānujaśekhara, why: an Earth saint}
-    - {form: Harivikrāmajīva, why: "Hari, an Earth god"}
-    - {form: Indrāshena, why: an Earth god's name}
-    - {form: Indrāṭa, why: an Earth god's name}
-    - {form: Indrakaṇtha, why: an Earth god's name}
-    - {form: Mādhavīndhra, why: "Mādhava, an Earth god's epithet"}
-    - {form: Mādhavendrānanda, why: "Mādhava, an Earth god's epithet"}
-    - {form: Āshalakshmī, why: "Lakshmī, an Earth goddess"}
-    - {form: Lakṣmī-dhevendra, why: "Lakshmī, an Earth goddess"}
-    - {form: Vidurālakṣmīnith, why: "Lakshmī, an Earth goddess"}
-    - {form: Jvalārādhikāmbik, why: "Radha and Ambika, Earth goddesses"}
-    - {form: Ānitīkālindī, why: "Kalindi, a river of Earth"}
-    - {form: Devakī, why: a figure of Earth epic}
-    - {form: Mandākinirājīva, why: "Mandakini, a river of Earth"}
-    - {form: Satyāvati, why: a figure of Earth epic}
-    - {form: Vārunika, why: "Varuna, an Earth god"}
-    - {form: Īravati, why: "Iravati, a river of Earth"}
-    - {form: Bhāratiyaśomat, why: "Bhārata, a land of Earth"}
-    - {form: Bhadrakāliyāgadhipa, why: "Kālī, an Earth goddess"}
-    - {form: Vishnutara, why: an Earth god's name}
-    - {form: Vṛtraṭa, why: "Vrtra, a figure of Earth myth"}
-    - {form: Kashīpari, why: "Kasi, a city of Earth"}
-    - {form: Vāsukina, why: "Vasuki, a figure of Earth myth"}
-    - {form: Ramājita, why: "Rāma, an Earth god"}
-    - {form: Anantāśrīvallabhā, why: "Śrī, an Earth goddess"}
-    - {form: Padmāvatichandrikā, why: "Padmavati, an Earth goddess"}
-    - {form: Nandivarmāndhānīka, why: "Nandi, an Earth god's mount"}
-    - {form: Aqendra, instead: Akendra, why: "`q` is not a letter of Vedyari"}
-    - {form: Sabhāsad, instead: Sabhasadaka, why: "closes on `d`, which no word closes on"}
-    - {form: Vyāndran, instead: Vyalendran, why: not the adjective the suffixes make of the name}
-    - {form: Candra, instead: Chendra, why: "`c` is the scholars' letter for `ch`"}
+    - { form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija }
+    - { form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija }
+    - { form: Retuja, instead: Ritrija, why: the station name is the stem ritru with -ija }
+    - { form: Danhija, instead: Danhija, why: the station name is the stem danha with -ija }
+    - { form: Sentija, instead: Sentija, why: the station name is the stem senta with -ija }
+    - { form: Ritrija, instead: Ritrija, why: the station name is the stem ritru with -ija }
+    - { form: Vindhyālaya, instead: Shikhalaya, why: "the Vindhya, a mountain range of Earth" }
+    - { form: Vindhyan, instead: Shikhalayan, why: "the Vindhya, a mountain range of Earth" }
+    - { form: Vindhya, why: a mountain range of Earth }
+    - { form: Mādhavendra, instead: Madustan, why: "Mādhava, an Earth god's epithet" }
+    - { form: Madhuvindra, instead: Madustan, why: "carries ishna, an Earth god's name" }
+    - { form: Mādhava, why: an Earth god's epithet }
+    - { form: Trimūrti, instead: Triyanga, why: the triad of three Earth gods }
+    - { form: Āyodhyārājavardhan, instead: Jayavarda, why: a city of Earth }
+    - { form: Vishnusha, instead: Shilabir, why: an Earth god's name }
+    - { form: Rudrata, instead: Sutrapal, why: an Earth god's name }
+    - { form: Mahādeva, instead: Mahakirti, why: a name of an Earth god }
+    - { form: Mahādheva, instead: Mahakirti, why: a name of an Earth god }
+    - { form: Mahādhevavikramapāl, why: a name of an Earth god }
+    - { form: brahmadeya, why: an Earth term for a grant of land to priests }
+    - { form: Rāmachandra, why: an Earth god }
+    - { form: Rāvana, why: a figure of Earth epic }
+    - { form: Rāmānujaśekhara, why: an Earth saint }
+    - { form: Harivikrāmajīva, why: "Hari, an Earth god" }
+    - { form: Indrāshena, why: an Earth god's name }
+    - { form: Indrāṭa, why: an Earth god's name }
+    - { form: Indrakaṇtha, why: an Earth god's name }
+    - { form: Mādhavīndhra, why: "Mādhava, an Earth god's epithet" }
+    - { form: Mādhavendrānanda, why: "Mādhava, an Earth god's epithet" }
+    - { form: Āshalakshmī, why: "Lakshmī, an Earth goddess" }
+    - { form: Lakṣmī-dhevendra, why: "Lakshmī, an Earth goddess" }
+    - { form: Vidurālakṣmīnith, why: "Lakshmī, an Earth goddess" }
+    - { form: Jvalārādhikāmbik, why: "Radha and Ambika, Earth goddesses" }
+    - { form: Ānitīkālindī, why: "Kalindi, a river of Earth" }
+    - { form: Devakī, why: a figure of Earth epic }
+    - { form: Mandākinirājīva, why: "Mandakini, a river of Earth" }
+    - { form: Satyāvati, why: a figure of Earth epic }
+    - { form: Vārunika, why: "Varuna, an Earth god" }
+    - { form: Īravati, why: "Iravati, a river of Earth" }
+    - { form: Bhāratiyaśomat, why: "Bhārata, a land of Earth" }
+    - { form: Bhadrakāliyāgadhipa, why: "Kālī, an Earth goddess" }
+    - { form: Vishnutara, why: an Earth god's name }
+    - { form: Vṛtraṭa, why: "Vrtra, a figure of Earth myth" }
+    - { form: Kashīpari, why: "Kasi, a city of Earth" }
+    - { form: Vāsukina, why: "Vasuki, a figure of Earth myth" }
+    - { form: Ramājita, why: "Rāma, an Earth god" }
+    - { form: Anantāśrīvallabhā, why: "Śrī, an Earth goddess" }
+    - { form: Padmāvatichandrikā, why: "Padmavati, an Earth goddess" }
+    - { form: Nandivarmāndhānīka, why: "Nandi, an Earth god's mount" }
+    - { form: Aqendra, instead: Akendra, why: "`q` is not a letter of Vedyari" }
+    - { form: Sabhāsad, instead: Sabhasadaka, why: "closes on `d`, which no word closes on" }
+    - { form: Vyāndran, instead: Vyalendran, why: not the adjective the suffixes make of the name }
+    - { form: Candra, instead: Chendra, why: "`c` is the scholars' letter for `ch`" }
     - form: Vaidyavallabha
       instead: Ghotranyasa
       why: "an Earth phrase, the title of a book of Earth"
@@ -7280,7 +8384,7 @@ sohl:
     combatCategory: none
     parentSkillCode: lang
     initSkillMult: 0
-  flags: {"thalorna": {lang_family: Vedyari (isolate)}}
+  flags: { "thalorna": { lang_family: Vedyari (isolate) } }
 
 # terran_analog: Vedyari reads Indian. Its words and names take the sound of Sanskrit and Hindi and keep clear of the whole words, and the joining rules are Sanskrit vowel sandhi; the corpus relies on that resemblance for common nouns, titles and offices. It keeps clear of the Sanskrit names for the four stations (Karmija, Danhija, Sentija, Ritrija), for the word for station (tarona), and for the gods, whose names are coined. The coined roots in this lexicon (every row attested `—`) are made to the rules and are not the Sanskrit, Hindi or Tamil word for their meaning.
 ---
