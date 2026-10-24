@@ -529,9 +529,17 @@ The native values are assignments in the project's Veldikko font, not Unicode-st
 
 _Pelvailǎ_ marks a falling call, _Pelvailâ_ a rise, and _Pélvaila_ emphasis on the first syllable. A called name keeps its full spelling and never wears. Acute emphasis may accompany one pitch mark; caron and circumflex are mutually exclusive. An unmarked line still has spoken pitch. Written questions retain _uvi_; a rise does not replace the question particle.
 
+## Sovidur
+
+[[skill-sowideslng|Sovidur]] writes long vowels by doubling them. Stress a doubled vowel when present; otherwise stress the last syllable, as in _kodu_ (_ko-DU_) and _qiimod_ (_QII-mod_). Vowel harmony does not add pitch marks. _ö_ is _e_ said with rounded lips, and _ü_ is _i_ said with rounded lips; plain _e_ and _i_ are also fine for English-speaking players.
+
 ## Tantsou
 
 In [[skill-tantsoulng|Tantsou]], _ao_ is _ah-oh_ run into one syllable, near the _ow_ of _cow_, and _ui_ is _oo-ee_ run into one syllable, as in _gooey_ said quickly. An _i_ or a _u_ before another vowel glides into it, so _chuen_ and _chiao_ are each one syllable.[^tantsou-glide]
+
+## Tellumi
+
+[[skill-khazrilng|Tellumi]] stresses the syllable opened by a doubled consonant, as in _Tellumi_ (_te-LLU-mi_); otherwise stress the first syllable, as in _nelim_ (_NE-lim_). Hold a doubled consonant briefly; an ordinary single consonant is fine for play. No pitch or secondary-stress marks are required.
 
 ## Vedyari
 
