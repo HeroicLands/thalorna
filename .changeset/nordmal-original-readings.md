@@ -12,3 +12,4 @@
 - Motmál sets the Maker’s speech-poem in Nordmal beside a fresh English translation and Roman reading.
 - The Saga of Skrilmil Stormborn sets the stormborn hero’s telling in Nordmal beside a fresh English translation and Roman reading.
 - Valdrengir sets the Muster of the Worthy in Nordmal beside a fresh English translation and Roman reading.
+- Aldarlok sets the While the Ash Stands recitation in Nordmal beside a fresh English translation and Roman reading.

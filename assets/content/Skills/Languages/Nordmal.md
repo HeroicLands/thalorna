@@ -6414,6 +6414,26 @@ data:
       class: n
       field: Everyday speech
       gloss: soul
+    - form: rugna
+      class: v
+      field: Everyday speech
+      gloss: rot
+    - form: krulva
+      class: adj
+      field: Everyday speech
+      gloss: cruel
+    - form: bodna
+      class: v
+      field: Everyday speech
+      gloss: levy, demand as an obligation
+    - form: skrifna
+      class: v
+      field: Everyday speech
+      gloss: write
+    - form: vuldnemma
+      class: n
+      field: Everyday speech
+      gloss: harvest
   naming:
     edges:
       - edge: openConsonant
