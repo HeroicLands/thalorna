@@ -5961,6 +5961,1095 @@ data:
       field: Qualities
       gloss: a spring; a source
       source: {kind: coined}
+    - form: karene
+      class: n f
+      field: Vine, field and river
+      gloss: cart
+      source: {kind: coined}
+    - form: lonare
+      class: n m
+      field: The house and the street
+      gloss: "lane"
+      source: {kind: coined}
+
+    - form: valera
+      class: n f
+      field: Vine, field and river
+      gloss: "road"
+      source: {kind: coined}
+
+    - form: pelize
+      class: n m
+      field: The harbor and the sea
+      gloss: "fish"
+      source: {kind: coined}
+
+    - form: navena
+      class: n f
+      field: Light, dream and the fey north
+      gloss: "night"
+      source: {kind: coined}
+
+    - {form: galona, class: n f, field: Time and the year, gloss: "hour", source: {kind: coined}}
+
+    - {form: grilena, class: adj, field: Qualities, gloss: "grey", source: {kind: coined}}
+
+    - form: ravele
+      class: n m
+      field: The market and the counting-house
+      gloss: "market stall"
+      source: {kind: coined}
+
+    - form: zestema
+      class: n f
+      field: Law and the written act
+      gloss: "book"
+      source: {kind: coined}
+
+    - form: netorarlen
+      class: n m
+      field: Love and its conduct
+      gloss: "private love name"
+      source: {kind: coined}
+      built: [netoron, arlen]
+
+    - form: netorfente
+      class: n m
+      field: Love and its conduct
+      gloss: "code governing courtly love"
+      source: {kind: coined}
+      built: [netoron, fente]
+
+    - form: semnale
+      class: n m
+      field: Law and the written act
+      gloss: "notary"
+      source: {kind: coined}
+
+    - form: valmara
+      class: n f
+      field: The city and its standing
+      gloss: "stair"
+      source: {kind: coined}
+
+    - form: dameza
+      class: n f
+      field: The city and its standing
+      gloss: "lady"
+      source: {kind: coined}
+
+    - form: lenteme
+      class: n m
+      field: The market and the counting-house
+      gloss: "a thing lent or loaned"
+      source: {kind: coined}
+
+    - {form: publere, class: adj, field: Qualities, gloss: "public", source: {kind: coined}}
+
+    - form: tizarate
+      class: v
+      field: Doing, going and being
+      gloss: "seal a document or vessel"
+      source: {kind: coined}
+
+    - form: tavelare
+      class: n m
+      field: The city and its standing
+      gloss: "tavern"
+      source: {kind: coined}
+
+    - form: marzena
+      class: n f
+      field: Arms and the field
+      gloss: "border march"
+      source: {kind: coined}
+
+    - form: nalenate
+      class: v
+      field: Doing, going and being
+      gloss: "make a sound or cry"
+      source: {kind: coined}
+
+    - form: netore
+      class: n m
+      field: Love and its conduct
+      gloss: "lover"
+      source: {kind: coined}
+
+    - form: netorate
+      class: v
+      field: Doing, going and being
+      gloss: "love romantically"
+      source: {kind: coined}
+
+    - form: zel
+      class: part
+      field: Numbers and grammar words
+      gloss: ["under, beneath", below or downward from]
+      source: {kind: coined}
+      concept: [below, under]
+    - form: frandra
+      class: part
+      field: Numbers and grammar words
+      gloss: "beyond"
+      source: {kind: coined}
+
+    - form: olnandon
+      class: n m
+      field: The city and its standing
+      gloss: "opening for business"
+      source: {kind: coined}
+
+    - form: zirvandon
+      class: n m
+      field: The body, life and death
+      gloss: "breathing, a breath's duration"
+      source: {kind: coined}
+
+    - form: zirvara
+      class: n f
+      field: The body, life and death
+      gloss: "one breath available to a speaker"
+      source: {kind: coined}
+
+    - form: lorezare
+      class: n m
+      field: Law and the written act
+      gloss: "reader"
+      source: {kind: coined}
+
+    - form: morvalis
+      class: n f
+      field: The city and its standing
+      gloss: [a table, table]
+      source: {kind: coined}
+      concept: table
+    - form: anitrate
+      class: v
+      field: Doing, going and being
+      gloss: "extinguish a lamp"
+      source: {kind: coined}
+
+    - form: ornela
+      class: n f
+      field: The city and its standing
+      gloss: "bay"
+      source: {kind: coined}
+
+    - form: petandon
+      class: n m
+      field: Song and the síladors
+      gloss: "a question or inquiry"
+      source: {kind: coined}
+
+    - form: petremon
+      class: n m
+      field: Song and the síladors
+      gloss: "answer to a question"
+      source: {kind: coined}
+
+    - form: liskate
+      class: v
+      field: Doing, going and being
+      gloss: "release a person from a social or legal obligation"
+      source: {kind: coined}
+
+    - form: frenzate
+      class: v
+      field: Doing, going and being
+      gloss: "pay a debt or cost"
+      source: {kind: coined}
+
+    - form: frenzandon
+      class: n m
+      field: The market and the counting-house
+      gloss: "payment"
+      source: {kind: coined}
+
+    - form: krezandon
+      class: n m
+      field: The house and the street
+      gloss: "a reasoned case in debate"
+      source: {kind: coined}
+
+    - form: nasdandon
+      class: n m
+      field: Law and the written act
+      gloss: "a judgment in a particular matter"
+      source: {kind: coined}
+
+    - form: lekaze
+      class: n m
+      field: Law and the written act
+      gloss: "clerk"
+      source: {kind: coined}
+
+    - form: letima
+      class: n f
+      field: Law and the written act
+      gloss: "list or roll"
+      source: {kind: coined}
+
+    - form: vazile
+      class: n m
+      field: Law and the written act
+      gloss: "barren waste ground"
+      source: {kind: coined}
+
+    - form: panize
+      class: n m
+      field: Law and the written act
+      gloss: "a party to a suit or debate"
+      source: {kind: coined}
+
+    - form: satore
+      class: n m
+      field: Law and the written act
+      gloss: "an invited table or feast"
+      source: {kind: coined}
+
+    - form: verdane
+      class: n m
+      field: The house and the street
+      gloss: "an argument, a reasoned contention"
+      source: {kind: coined}
+
+    - form: dajande
+      class: adj
+      field: Qualities
+      gloss: "gracious or handsome in conduct"
+      source: {kind: coined}
+
+    - form: frenza
+      class: n f
+      field: The market and the counting-house
+      gloss: "costs incurred in a proceeding"
+      source: {kind: coined}
+
+    - form: liskonar
+      class: n m
+      field: Patron and client
+      gloss: "client attached to a patron"
+      source: {kind: coined}
+
+    - form: dumela
+      class: n f
+      field: The house and the street
+      gloss: [a room; an enclosed part of a house, room]
+      source: {kind: coined}
+      concept: room
+    - form: ulteza
+      class: n f
+      field: The gods and the hearth
+      gloss: "rite"
+      source: {kind: coined}
+
+    - form: pubrate
+      class: v
+      field: Doing, going and being
+      gloss: "offer"
+      source: {kind: coined}
+
+    - form: pubrandon
+      class: n m
+      field: Law and the written act
+      gloss: "offer of an act or thing"
+      source: {kind: coined}
+
+    - form: zurate
+      class: v
+      field: Doing, going and being
+      gloss: "strike a name from a roll or standing"
+      source: {kind: coined}
+
+    - form: nasdare
+      class: n m
+      field: Law and the written act
+      gloss: "error in judgment"
+      source: {kind: coined}
+
+    - form: madare
+      class: adj
+      field: Qualities
+      gloss: "sound or well-founded as an argument"
+      source: {kind: coined}
+
+    - form: nurezandon
+      class: n m
+      field: Law and the written act
+      gloss: "birth"
+      source: {kind: coined}
+
+    - form: ilma
+      class: n f
+      field: The house and the street
+      gloss: "mother"
+      source: {kind: coined}
+
+    - form: tevare
+      class: n m
+      field: The house and the street
+      gloss: "walled yard or courtyard"
+      source: {kind: coined}
+
+    - form: karone
+      class: n m
+      field: Vine, field and river
+      gloss: "carter"
+      source: {kind: coined}
+
+    - form: letreze
+      class: n m
+      field: The body, life and death
+      gloss: "tanner"
+      source: {kind: coined}
+
+    - form: valmetumbe
+      class: n m
+      field: The body, life and death
+      gloss: "farrier"
+      source: {kind: coined}
+      built: [valma, tumbe]
+
+    - form: ralumete
+      class: n m
+      field: Patron and client
+      gloss: "horse-master"
+      source: {kind: coined}
+
+    - form: ralume
+      class: n m
+      field: The body, life and death
+      gloss: "horse"
+      source: {kind: coined}
+
+    - form: molera
+      class: n f
+      field: The body, life and death
+      gloss: "mule"
+      source: {kind: coined}
+
+    - form: tumbon
+      class: n m
+      field: Craft and the workshop
+      gloss: "tool"
+      source: {kind: coined}
+
+    - form: almaton
+      class: n m
+      field: The body, life and death
+      gloss: "levy called to arms"
+      source: {kind: coined}
+
+    - form: kordena
+      class: n f
+      field: The body, life and death
+      gloss: "raid"
+      source: {kind: coined}
+
+    - form: ronal
+      class: n m
+      field: The body, life and death
+      gloss: "ridge"
+      source: {kind: coined}
+
+    - form: ralzena
+      class: n f
+      field: The body, life and death
+      gloss: "mountain pass"
+      source: {kind: coined}
+
+    - form: savela
+      class: n f
+      field: Arms and the field
+      gloss: "blade edge"
+      source: {kind: coined}
+
+    - form: koreza
+      class: n f
+      field: Arms and the field
+      gloss: "shield"
+      source: {kind: coined}
+
+    - form: sadene
+      class: n f
+      field: The body, life and death
+      gloss: testimony of wrongs and goods
+      source: {kind: coined}
+    - form: karvela
+      class: n f
+      field: The body, life and death
+      gloss: "bread"
+      source: {kind: coined}
+
+    - form: gurimela
+      class: n f
+      field: Vine, field and river
+      gloss: "orchard"
+      source: {kind: coined}
+
+    - form: trevole
+      class: n m
+      field: The body, life and death
+      gloss: "chest or coffer"
+      source: {kind: coined}
+
+    - form: kleris
+      class: n m
+      field: The body, life and death
+      gloss: key
+      source: {kind: coined}
+    - form: deteme
+      class: n m
+      field: The house and the street
+      gloss: "step at a door"
+      source: {kind: coined}
+
+    - form: valma
+      class: n f
+      field: The body, life and death
+      gloss: [the foot, foot]
+      source: {kind: coined}
+      concept: foot
+    - form: valmkovra
+      class: n f
+      field: The body, life and death
+      gloss: [a shoe; a covering for the foot, shoe]
+      source: {kind: coined}
+      concept: shoe
+    - form: silete
+      class: v
+      field: Doing, going and being
+      gloss: "weep"
+      source: {kind: coined}
+
+    - form: rizelete
+      class: v
+      field: Doing, going and being
+      gloss: "write an account"
+      source: {kind: coined}
+
+    - form: pazena
+      class: n f
+      field: The harbor and the sea
+      gloss: "lean year or season of hunger"
+      source: {kind: coined}
+
+    - form: rintona
+      class: n f
+      field: The body, life and death
+      gloss: "reckoned sum"
+      source: {kind: coined}
+
+    - form: huzate
+      class: v
+      field: Doing, going and being
+      gloss: "face or turn toward"
+      source: {kind: coined}
+
+    - form: radnare
+      class: n m
+      field: The body, life and death
+      gloss: "fool"
+      source: {kind: coined}
+
+    - form: chertate
+      class: v
+      field: Doing, going and being
+      gloss: "cut or reap grass"
+      source: {kind: coined}
+
+    - form: raldima
+      class: n f
+      field: Vine, field and river
+      gloss: "bank of a river"
+      source: {kind: coined}
+
+    - form: vondar
+      class: n m
+      field: The body, life and death
+      gloss: burden or carried weight
+      source: {kind: coined}
+    - form: kalmetandar
+      class: n m
+      field: The house and the street
+      gloss: "dying person"
+      source: {kind: coined}
+
+    - {form: mandare, class: adj, field: Qualities, gloss: "empty", source: {kind: coined}}
+
+    - form: jaltezate
+      class: v
+      field: Doing, going and being
+      gloss: "pray for something"
+      source: {kind: coined}
+
+    - form: lurima
+      class: n f
+      field: Vine, field and river
+      gloss: "fruit"
+      source: {kind: coined}
+
+    - form: melvora
+      class: n f
+      field: The market and the counting-house
+      gloss: "honey"
+      source: {kind: coined}
+
+    - form: lurimeza
+      class: n f
+      field: Vine, field and river
+      gloss: "fruit conserve"
+      source: {kind: coined}
+
+    - form: cholsare
+      class: n m
+      field: The market and the counting-house
+      gloss: "estate factor"
+      source: {kind: coined}
+
+    - form: cholzamon
+      class: n m
+      field: Vine, field and river
+      gloss: "yield of a tree or field"
+      source: {kind: coined}
+
+    - form: baranela
+      class: n f
+      field: The market and the counting-house
+      gloss: "barony"
+      source: {kind: coined}
+
+    - form: jormel
+      class: n m
+      field: The market and the counting-house
+      gloss: "plough"
+      source: {kind: coined}
+
+    - form: tuvate
+      class: v
+      field: Doing, going and being
+      gloss: "inherit land or goods"
+      source: {kind: coined}
+
+    - form: sorela
+      class: n f
+      field: The market and the counting-house
+      gloss: "district"
+      source: {kind: coined}
+
+    - form: valemza
+      class: n f
+      field: The market and the counting-house
+      gloss: "wage"
+      source: {kind: coined}
+
+    - form: poltusal
+      class: n m
+      field: The market and the counting-house
+      gloss: "rent paid for land"
+      source: {kind: coined}
+      built: [poltamis, usal]
+
+    - form: laskate
+      class: v
+      field: Doing, going and being
+      gloss: "lease property for payment"
+      source: {kind: coined}
+
+    - form: zolmedare
+      class: n m
+      field: The gods and the hearth
+      gloss: "the Bountiful One, divine epithet"
+      source: {kind: coined}
+
+    - form: keldore
+      class: n m
+      field: The market and the counting-house
+      gloss: "frost"
+      source: {kind: coined}
+
+    - form: velirate
+      class: v
+      field: Doing, going and being
+      gloss: "praise a thing's qualities"
+      source: {kind: coined}
+
+    - form: sulmate
+      class: v
+      field: Doing, going and being
+      gloss: "pour liquid"
+      source: {kind: coined}
+
+    - form: nuralon
+      class: n m
+      field: The harbor and the sea
+      gloss: "spring season"
+      source: {kind: coined}
+
+    - form: zermete
+      class: adj
+      field: Qualities
+      gloss: "overripe, past ripeness"
+      source: {kind: coined}
+
+    - form: vormena
+      class: n f
+      field: The house and the street
+      gloss: woman
+      source: {kind: coined}
+    - form: valcherta
+      class: n f
+      field: The harbor and the sea
+      gloss: "the cut, coastal path cut through rock"
+      source: {kind: coined}
+
+    - form: tremurena
+      class: n f
+      field: The harbor and the sea
+      gloss: "salt pan"
+      source: {kind: coined}
+
+    - form: tremuzel
+      class: n m
+      field: The harbor and the sea
+      gloss: "salt rake"
+      source: {kind: coined}
+
+    - form: tremuzate
+      class: v
+      field: Doing, going and being
+      gloss: "rake salt"
+      source: {kind: coined}
+
+    - form: poltara
+      class: n f
+      field: The harbor and the sea
+      gloss: "terrace"
+      source: {kind: coined}
+
+    - form: jormsater
+      class: n m
+      field: The harbor and the sea
+      gloss: "land wind blowing offshore"
+      source: {kind: coined}
+      built: [joreza, sater]
+
+    - form: solroze
+      class: n m
+      field: The harbor and the sea
+      gloss: "equinox"
+      source: {kind: coined}
+
+    - form: zarmena
+      class: n f
+      field: The gods and the hearth
+      gloss: "spoken oath"
+      source: {kind: coined}
+
+    - form: dajalteza
+      class: n f
+      field: The gods and the hearth
+      gloss: "blessing rite"
+      source: {kind: coined}
+
+    - form: olvena
+      class: n f
+      field: The harbor and the sea
+      gloss: "oil"
+      source: {kind: coined}
+
+    - form: sarona
+      class: n f
+      field: Craft and the workshop
+      gloss: staff
+      source: {kind: coined}
+    - form: valzema
+      class: n f
+      field: The harbor and the sea
+      gloss: "a notch through which boats pass"
+      source: {kind: coined}
+
+    - form: kovrile
+      class: n m
+      field: Craft and the workshop
+      gloss: "hand fan"
+      source: {kind: coined}
+
+    - form: lambate
+      class: v
+      field: Doing, going and being
+      gloss: "wave one's hand"
+      source: {kind: coined}
+
+    - form: relven
+      class: n m
+      field: The harbor and the sea
+      gloss: fishing net
+      source: {kind: coined}
+    - form: ralnela
+      class: n f
+      field: The harbor and the sea
+      gloss: "nail or peg"
+      source: {kind: coined}
+
+    - form: ronela
+      class: n f
+      field: Vine, field and river
+      gloss: "headland"
+      source: {kind: coined}
+
+    - form: tolkeze
+      class: n m
+      field: The harbor and the sea
+      gloss: "cooper"
+      source: {kind: coined}
+
+    - form: lanira
+      class: n f
+      field: Law and the written act
+      gloss: "line of writing"
+      source: {kind: coined}
+
+    - form: ralena
+      class: n f
+      field: The harbor and the sea
+      gloss: boat
+      source: {kind: coined}
+    - form: ornsater
+      class: n m
+      field: The harbor and the sea
+      gloss: "sea wind blowing toward land"
+      source: {kind: coined}
+      built: [ornete, sater]
+
+    - form: lenate
+      class: v
+      field: Doing, going and being
+      gloss: "lend without specifying interest"
+      source: {kind: coined}
+
+    - form: velirandon
+      class: n m
+      field: The harbor and the sea
+      gloss: "compliments or spoken praise"
+      source: {kind: coined}
+
+    - form: lambandon
+      class: n m
+      field: The harbor and the sea
+      gloss: "a wave of one's hand"
+      source: {kind: coined}
+
+    - form: karvate
+      class: v
+      field: Doing, going and being
+      gloss: "light or relight a lamp"
+      source: {kind: coined}
+
+    - form: valdete
+      class: adj
+      field: Qualities
+      gloss: "tied up or secured by a cord"
+      source: {kind: coined}
+
+    - form: Valmare
+      class: n m
+      field: Patron and client
+      gloss: "Wayfarer, divine epithet"
+      source: {kind: coined}
+
+    - form: serpale
+      class: n m
+      field: The gods and the hearth
+      gloss: "serpent"
+      source: {kind: coined}
+
+    - form: ulmetradon
+      class: n m
+      field: The harbor and the sea
+      gloss: "sounding or measured sea-depth"
+      source: {kind: coined}
+      built: [ulmera, tradinate]
+
+    - form: pazelis
+      class: n f
+      field: The harbor and the sea
+      gloss: "ship's biscuit"
+      source: {kind: coined}
+
+    - form: koremena
+      class: n f
+      field: Vine, field and river
+      gloss: "cliff face"
+      source: {kind: coined}
+
+    - form: karsena
+      class: n f
+      field: The harbor and the sea
+      gloss: "keel"
+      source: {kind: coined}
+
+    - form: narveza
+      class: n f
+      field: Patron and client
+      gloss: "honor held in public regard"
+      source: {kind: coined}
+
+    - form: lentarela
+      class: n f
+      field: The harbor and the sea
+      gloss: "sailmaker"
+      source: {kind: coined}
+
+    - form: kalemare
+      class: n m
+      field: Craft and the workshop
+      gloss: "caulker"
+      source: {kind: coined}
+
+    - form: kaldeme
+      class: n m
+      field: Craft and the workshop
+      gloss: "carpenter"
+      source: {kind: coined}
+
+    - form: pazare
+      class: n m
+      field: Craft and the workshop
+      gloss: "cook"
+      source: {kind: coined}
+
+    - form: perzima
+      class: n f
+      field: Craft and the workshop
+      gloss: "peach"
+      source: {kind: coined}
+
+    - form: navere
+      class: n m
+      field: The harbor and the sea
+      gloss: "pilot"
+      source: {kind: coined}
+
+    - form: kaldar
+      class: n m
+      field: The harbor and the sea
+      gloss: "spar"
+      source: {kind: coined}
+
+    - form: ormele
+      class: n m
+      field: The harbor and the sea
+      gloss: "swell or wave of the sea"
+      source: {kind: coined}
+
+    - form: surena
+      class: n f
+      field: The harbor and the sea
+      gloss: "cove"
+      source: {kind: coined}
+
+    - form: sarchel
+      class: n m
+      field: The gods and the hearth
+      gloss: "acolyte"
+      source: {kind: coined}
+
+    - form: kalendima
+      class: n f
+      field: Time and the year
+      gloss: "date of an event"
+      source: {kind: coined}
+
+    - form: korzela
+      class: n f
+      field: The harbor and the sea
+      gloss: "ship's rail"
+      source: {kind: coined}
+
+    - form: revalon
+      class: n m
+      field: Craft and the workshop
+      gloss: "canvas"
+      source: {kind: coined}
+
+    - form: navrel
+      class: n m
+      field: The harbor and the sea
+      gloss: deck of a ship
+      source: {kind: coined}
+    - form: navre
+      class: n m
+      field: The harbor and the sea
+      gloss: "ship's master"
+      source: {kind: coined}
+
+    - form: mapele
+      class: n m
+      field: Law and the written act
+      gloss: "map"
+      source: {kind: coined}
+
+    - form: lanbeze
+      class: n m
+      field: Law and the written act
+      gloss: "page"
+      source: {kind: coined}
+
+    - form: salkar
+      class: n m
+      field: The harbor and the sea
+      gloss: "quay"
+      source: {kind: coined}
+
+    - form: naul
+      class: n m
+      field: The harbor and the sea
+      gloss: "foam"
+      source: {kind: coined}
+
+    - form: pilona
+      class: n f
+      field: Vine, field and river
+      gloss: "ledge"
+      source: {kind: coined}
+
+    - form: pirzate
+      class: v
+      field: Doing, going and being
+      gloss: "carve a figure in wood"
+      source: {kind: coined}
+
+    - form: kolerate
+      class: v
+      field: Doing, going and being
+      gloss: "draw a map or line"
+      source: {kind: coined}
+
+    - form: hirtare
+      class: n m
+      field: Law and the written act
+      gloss: "written text or written account"
+      source: {kind: coined}
+
+    - form: sarchemal
+      class: n m
+      field: The gods and the hearth
+      gloss: "temple"
+      source: {kind: coined}
+
+    - form: pelizare
+      class: n m
+      field: The harbor and the sea
+      gloss: "fisher"
+      source: {kind: coined}
+
+    - form: chesdal
+      class: n m
+      field: Patron and client
+      gloss: "counsel or advice"
+      source: {kind: coined}
+
+    - form: dajalte
+      class: v
+      field: Doing, going and being
+      gloss: "bless a ship or person in a rite"
+      source: {kind: coined}
+
+    - form: zelvema
+      class: n f
+      field: Vine, field and river
+      gloss: "edge or boundary"
+      source: {kind: coined}
+
+    - form: zumbrandon
+      class: n m
+      field: Patron and client
+      gloss: "giving help"
+      source: {kind: coined}
+
+    - form: antigandon
+      class: n m
+      field: Patron and client
+      gloss: "returning home"
+      source: {kind: coined}
+
+    - form: framate
+      class: v
+      field: Doing, going and being
+      gloss: "continue an action or recitation"
+      source: {kind: coined}
+
+    - form: sulate
+      class: v
+      field: Doing, going and being
+      gloss: "paint or inscribe a painted name"
+      source: {kind: coined}
+
+    - form: netate
+      class: v
+      field: Doing, going and being
+      gloss: sew cloth
+      source: {kind: coined}
+    - form: galveza
+      class: n f
+      field: Craft and the workshop
+      gloss: "glass"
+      source: {kind: coined}
+
+    - form: paza
+      class: n f
+      field: Craft and the workshop
+      gloss: [food; a meal, food]
+      source: {kind: coined}
+      concept: food
+    - form: klamandon
+      class: n m
+      field: Craft and the workshop
+      gloss: [a call; a shout, a shouted hail]
+      source: {kind: coined}
+    - form: talerate
+      class: v
+      field: Doing, going and being
+      gloss: "cut stone or a rock face"
+      source: {kind: coined}
+
+    - form: anpaze
+      class: adj
+      field: Qualities
+      gloss: hungry; short of food
+      source: {kind: coined}
+    - form: avrenandon
+      class: n m
+      field: Doing, going and being
+      gloss: an intention; an intended action
+      source: {kind: coined}
+    - form: kolvandon
+      class: n m
+      field: Doing, going and being
+      gloss: a killing; the act of killing
+      source: {kind: coined}
+    - form: semra
+      class: n f
+      field: Craft and the workshop
+      gloss: a seam; a join made by a craftworker
+      source: {kind: coined}
+    - form: tigandon
+      class: n m
+      field: The harbor and the sea
+      gloss: a voyage; a journey
+      source: {kind: coined}
+    - form: velzate
+      class: v
+      field: Doing, going and being
+      gloss: to win; to prevail in a contest
+      source: {kind: coined}
+    - form: frel
+      class: n m
+      field: Vine, field and river
+      gloss: a ford; a shallow place where a river can be crossed on foot
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6083,6 +7172,13 @@ data:
       meaning: "a name in another tongue of the setting, as its speakers give it"
     - {tag: other, meaning: a name in no tongue these pages name}
   register:
+    - {name: Sélmoros, tongue: provenzal}
+    - {name: Brazemas, tongue: provenzal}
+    - {name: Válaren, tongue: provenzal}
+    - {name: Hárivren, tongue: provenzal}
+    - {name: Bataren, tongue: provenzal}
+    - {name: Élavendri, tongue: provenzal}
+    - {name: Zafal, tongue: provenzal}
     - {name: Branval, tongue: provenzal}
     - {name: Dorgal, tongue: provenzal}
     - {name: Chelebe, tongue: provenzal}
