@@ -34,265 +34,905 @@ The singers are hired men, Vedyari, Dunhari and both, who never saw the kingdom 
 
 : The Spit {#spit}
 
-```verse {form=lament lang=en}
-The spit at Sandyapur is a mile of sand
-and nothing on it that a wind cannot move.
-Behind it, that night, the boats.
+```verse {form=lament lang=en cols=2 numstep=5}
+1 [Sandyapur ro vausnakra aisu milka ro vaus orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [At Sandyapur the spit is a mile of sand.]{lang=en}
+2 [Sandyapur ro vausnakra aisu milka ro vaus orsa,]{lang=vedy}
 
-In the boats, a family: the old master of the salt,
-his sons, his daughters, the pan-hands, the grooms,
-and a hundred horses with their heads tied down to the thwarts.
-A horse does not stand well in a boat.
-All night the hooves cut at the planking,
-and nobody struck a horse that night.
+1 [le pavanda pa sartu varsu grenu chamru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Everything on it can be moved by wind.]{lang=en}
+2 [le pavanda pa sartu varsu grenu chamru.]{lang=vedy}
 
-North, over the flats, a light
-that was not the evening and not the morning.
-Three nights it had come down the road, a well a night.
-This night it was the sheds on the pans.
+1 [Vi ro kirnu bhe, uhu ghaul bhe, nau.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [That night the boats lay behind it.]{lang=en}
+2 [Vi ro kirnu bhe, uhu ghaul bhe, nau.]{lang=vedy}
 
-The son spoke, with his hand on a horse's neck,
-in the shape a son speaks before the household:
-"We are Sentija. We have a hundred horse.
-The king took his banners up the road,
-and we are in a boat."
+***
 
-The father answered in the shape a father answers:
-"The king sent to the wells. The wells sent to the road.
-The road is five days.
-When his word came to the pans he was on the stones,
-and the word did not know it.
-A Samonta owes the king his hundred when the king calls.
-The call came after the king.
-We owe the dead on the stones a hundred horse.
-We will pay it on the road, in daylight, with a fort at our backs,
-and not tonight, in the water."
+1 [Nau rinru kobala, shimra ro puratra pavi,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A household in the boats: the old salt master,]{lang=en}
+2 [Nau rinru kobala, shimra ro puratra pavi,]{lang=vedy}
 
-Then he bound the family, and the sons said it after him,
-and the grooms, and the pan-hands, and the horses stood for it:
-"If this family takes the march,
-a fort at every water, and this light in mind when the footing is laid.
-If it keeps its court behind the spit,
-let it keep it as a man keeps a debt,
-and pay the road first."
+1 [ve ro kema, kemri, shimrashetka ro karmakuva, oshkapalda,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [his sons and daughters, the pan workers, the grooms,]{lang=en}
+2 [ve ro kema, kemri, shimrashetka ro karmakuva, oshkapalda,]{lang=vedy}
 
-On the fourth day the light went west.
-They brought the horses in over the beach,
-and the horses would not stand on the sand,
-and then they stood.
+1 [le golsa oshka, vena ro shirnu navavoli tral nitar banduk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [a hundred horses with their heads lashed low to the thwarts.]{lang=en}
+2 [le golsa oshka, vena ro shirnu navavoli tral nitar banduk.]{lang=vedy}
 
-The road is kept.
-The spit keeps it.
+1 [Oshka nau bhe vardak uvas stambhu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A horse finds poor footing in a boat.]{lang=en}
+2 [Oshka nau bhe vardak uvas stambhu.]{lang=vedy}
+
+1 [Sartu ghaul bhe, oshkapadsa nauchela chinu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Hooves cut the planks all night.]{lang=en}
+2 [Sartu ghaul bhe, oshkapadsa nauchela chinu,]{lang=vedy}
+
+1 [le uhu ghaul bhe nortu janru oshka tarpak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody hit a horse that night.]{lang=en}
+2 [le uhu ghaul bhe nortu janru oshka tarpak.]{lang=vedy}
+
+***
+
+1 [Uttarka bhe, talka pordun, kirtu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [North across the flats was a light,]{lang=en}
+2 [Uttarka bhe, talka pordun, kirtu,]{lang=vedy}
+
+1 [vi sandva uvas orsa le dopra uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [neither dusk nor dawn.]{lang=en}
+2 [vi sandva uvas orsa le dopra uvas orsa.]{lang=vedy}
+
+1 [Tre ghaul bhe vi margha nitar hauvu, aisu ghaul bhe aisu kupra.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It had followed the road for three nights, one well each night.]{lang=en}
+2 [Tre ghaul bhe vi margha nitar hauvu, aisu ghaul bhe aisu kupra.]{lang=vedy}
+
+1 [Ehu ghaul bhe vi shimrashetka ro letgroha orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Tonight it was the sheds among the pans.]{lang=en}
+2 [Ehu ghaul bhe vi shimrashetka ro letgroha orsa.]{lang=vedy}
+
+***
+
+1 [Kema, oshka ro kandru pa pomba ushta, lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The son spoke, a hand on a horse's neck,]{lang=en}
+2 [Kema, oshka ro kandru pa pomba ushta, lampu,]{lang=vedy}
+
+1 [kema kobala pravun ro samnu pantra shem.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [as a son speaks before the household.]{lang=en}
+2 [kema kobala pravun ro samnu pantra shem.]{lang=vedy}
+
+1 [Mova Sentija orsa, mova golsa oshka ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We are Sentija. We have a hundred horses.]{lang=en}
+2 [Mova Sentija orsa, mova golsa oshka ushta.]{lang=vedy}
+
+1 [Rajva ve ro lantu margha utrak bhornu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The king carried his banners up the road.]{lang=en}
+2 [Rajva ve ro lantu margha utrak bhornu,]{lang=vedy}
+
+1 [le mova nau bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We are in a boat.]{lang=en}
+2 [le mova nau bhe orsa.]{lang=vedy}
+
+***
+
+1 [Tobu tobu ro samnu pantra shem lampur.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [His father answered as a father answers.]{lang=en}
+2 [Tobu tobu ro samnu pantra shem lampur.]{lang=vedy}
+
+1 [Rajva shaltu kupra tral pomu, kupra shaltu margha tral pomu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The king sent word to the wells. The wells sent word to the road.]{lang=en}
+2 [Rajva shaltu kupra tral pomu, kupra shaltu margha tral pomu.]{lang=vedy}
+
+1 [Margha kunsha demu ro orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road takes five days.]{lang=en}
+2 [Margha kunsha demu ro orsa.]{lang=vedy}
+
+1 [Ve ro shaltu shimrashetka bhe hauvu, ve shilsa bhe orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He was on the stones when his word reached the pans.]{lang=en}
+2 [Ve ro shaltu shimrashetka bhe hauvu, ve shilsa bhe orsa,]{lang=vedy}
+
+1 [le shaltu ehu uvas jnenuk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The word did not know.]{lang=en}
+2 [le shaltu ehu uvas jnenuk.]{lang=vedy}
+
+1 [Rajva ravhu, samonta rajva tral golsa oshka ro anvaru ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [When the king calls, a Samonta owes him his hundred.]{lang=en}
+2 [Rajva ravhu, samonta rajva tral golsa oshka ro anvaru ushta.]{lang=vedy}
+
+1 [Ravha rajva anva hauvu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The call arrived after the king.]{lang=en}
+2 [Ravha rajva anva hauvu.]{lang=vedy}
+
+1 [Mova shilsa pa dauru janra tral golsa oshka ro anvaru ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We owe a hundred horses to the dead on the stones.]{lang=en}
+2 [Mova shilsa pa dauru janra tral golsa oshka ro anvaru ushta.]{lang=vedy}
+
+1 [Mova demu bhe, margha pa, kirnu bhe kotra shem, olgu pomu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We will pay along the road, by daylight, with a fort behind us.]{lang=en}
+2 [Mova demu bhe, margha pa, kirnu bhe kotra shem, olgu pomu,]{lang=vedy}
+
+1 [le ehu ghaul bhe jalka bhe uvas pomu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We will not pay tonight in the water.]{lang=en}
+2 [le ehu ghaul bhe jalka bhe uvas pomu.]{lang=vedy}
+
+***
+
+1 [Uhu kalda bhe ve kobala kortu bhe banduk, le kema ve ro shaltu vramul lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He put the household under oath. His sons repeated it,]{lang=en}
+2 [Uhu kalda bhe ve kobala kortu bhe banduk, le kema ve ro shaltu vramul lampu,]{lang=vedy}
+
+1 [le oshkapalda, le shimrashetka ro karmakuva, le oshka ehu druk stambhu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [then the grooms and pan workers. The horses stood through it.]{lang=en}
+2 [le oshkapalda, le shimrashetka ro karmakuva, le oshka ehu druk stambhu.]{lang=vedy}
+
+1 [Vren ehu kobala simra adnu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [If this household takes the march,]{lang=en}
+2 [Vren ehu kobala simra adnu,]{lang=vedy}
+
+1 [sartu jalka bhe kotra, le padu ro prabnu bhe ehu kirtu ro smiriti.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [a fort at every water. Remember this light when laying the footing.]{lang=en}
+2 [sartu jalka bhe kotra, le padu ro prabnu bhe ehu kirtu ro smiriti.]{lang=vedy}
+
+1 [Vren ve vausnakra ro kirnu bhe davra ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [If it holds its court behind the spit,]{lang=en}
+2 [Vren ve vausnakra ro kirnu bhe davra ushta,]{lang=vedy}
+
+1 [anven ve janru olgu ushta ro samnu pantra shem vi ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [let it hold it as a man holds a debt.]{lang=en}
+2 [anven ve janru olgu ushta ro samnu pantra shem vi ushta,]{lang=vedy}
+
+1 [le ve ganstal aisu bhe margha tral pomu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Pay the road first.]{lang=en}
+2 [le ve ganstal aisu bhe margha tral pomu.]{lang=vedy}
+
+***
+
+1 [Ganstal sotra ro demu bhe kirtu pachru tral chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [On the fourth day the light moved west.]{lang=en}
+2 [Ganstal sotra ro demu bhe kirtu pachru tral chambu.]{lang=vedy}
+
+1 [Vena oshka tirsa trel rinru shem hauvu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [They brought the horses ashore across the beach.]{lang=en}
+2 [Vena oshka tirsa trel rinru shem hauvu,]{lang=vedy}
+
+1 [le oshka vaus pa stambhu uvas kamva ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The horses would not stand on sand.]{lang=en}
+2 [le oshka vaus pa stambhu uvas kamva ushta,]{lang=vedy}
+
+1 [le uhu kalda bhe vena stambhu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Then they stood.]{lang=en}
+2 [le uhu kalda bhe vena stambhu.]{lang=vedy}
+
+***
+
+1 [Margha ushtona bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road is kept.]{lang=en}
+2 [Margha ushtona bhe orsa.]{lang=vedy}
+
+1 [Vausnakra vi ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The spit keeps it.]{lang=en}
+2 [Vausnakra vi ushta.]{lang=vedy}
+
 ```
 
 : The Fan of Stones {#stones}
 
-```verse {form=lament lang=en}
-Where the hills open onto the road the ground is stones,
-a fan of them, spread the way a river spreads them,
-and the river gone. Nothing grows on it.
-The companies have a name for it, for daylight.
-This is sung at night.
+```verse {form=lament lang=en cols=2 numstep=5}
+1 [Domsa margha tral muku, uhu stalu shilsa ro orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Where the hills open onto the road, the ground is stone:]{lang=en}
+2 [Domsa margha tral muku, uhu stalu shilsa ro orsa,]{lang=vedy}
 
-Ashvakirti brought the host up from the walled town,
-every horse and every man and every banner the march had,
-and set them in the stones.
+1 [vi mavkhondra orsa, nodra shilsa prastuk ro samnu pantra shem,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [a fan spread as a river spreads its stones.]{lang=en}
+2 [vi mavkhondra orsa, nodra shilsa prastuk ro samnu pantra shem,]{lang=vedy}
 
-The hundred banners came down out of the hills.
-Nobody counted them. Who counts the rain?
+1 [le nodra durul orsa, nortu varsu ehu bhe barden.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The river is gone. Nothing grows there.]{lang=en}
+2 [le nodra durul orsa, nortu varsu ehu bhe barden.]{lang=vedy}
 
-He gave one order. Nobody came back to carry it.
-The stones carry it, and this is how the stones give it:
-"Hold on the stones.
-Behind you is the plain, and the plain is the kingdom:
-the wells, the pans, the walled town, the road to the salt.
-There is no ground after this one."
+1 [Senta ehu ro demu druk tirma ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The companies have a name for it in daylight.]{lang=en}
+2 [Senta ehu ro demu druk tirma ushta.]{lang=vedy}
 
-The line went.
-It went the way a river-bank goes in the rains,
-all at once, and from behind.
-The banners went down into the stones,
-the horses went over the banners,
-the king went down under his horse,
-and none of the host came home.
+1 [Ehu ghaul bhe gana.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [This song is sung at night.]{lang=en}
+2 [Ehu ghaul bhe gana.]{lang=vedy}
 
-No conch of [[affiliation-kalavrata|Kalavrata]]: the households were five days south.
-No lamp: the houses were burning.
-No fire of [[affiliation-rasikara|Rasikara]]: there was nobody left to lay it,
-and the hundred banners lay their dead out and say the names to the wind,
-and nobody laid them out, and nobody said the names.
-Two hosts went through one door at once, and nobody shut it.
-They are in it still.
+***
 
-The cloth went to threads in ten winters.
-The name stayed.
-Cross it at noon, if you must cross it,
-and when the fear comes up out of the stones,
-the hills behind you full of horsemen,
-the line gone, nowhere to run,
-know whose it is. It is not yours.
-It is the host's. You carry it the width of the field,
-as the stones have carried it four hundred years.
-Set it down at the edge, and gho on.
+1 [Ashvakirti ludra ro pur trum senta utrak shem hauvu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Ashvakirti brought his host up from the walled town,]{lang=en}
+2 [Ashvakirti ludra ro pur trum senta utrak shem hauvu,]{lang=vedy}
 
-The road is kept.
-The stones keep it.
+1 [simra ro sartu oshka le sartu janru le sartu lantu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [every horse, every man, every banner the march possessed.]{lang=en}
+2 [simra ro sartu oshka le sartu janru le sartu lantu,]{lang=vedy}
+
+1 [le ve vena shilsa minra stanru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He stationed them among the stones.]{lang=en}
+2 [le ve vena shilsa minra stanru.]{lang=vedy}
+
+***
+
+1 [Golsa lantu domsa trum nitar hauvu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The hundred banners came down from the hills.]{lang=en}
+2 [Golsa lantu domsa trum nitar hauvu.]{lang=vedy}
+
+1 [Nortu janru vena ganu, jahu borsha ganu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody counted. Who counts rain?]{lang=en}
+2 [Nortu janru vena ganu, jahu borsha ganu.]{lang=vedy}
+
+***
+
+1 [Ve aisu najru pomu, nortu janru vi bhornu druk vramu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He issued one order. Nobody returned to carry it.]{lang=en}
+2 [Ve aisu najru pomu, nortu janru vi bhornu druk vramu.]{lang=vedy}
+
+1 [Shilsa vi bhornu, le shilsa ehu pantra shem vi pomu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The stones carry it. This is how they give it.]{lang=en}
+2 [Shilsa vi bhornu, le shilsa ehu pantra shem vi pomu.]{lang=vedy}
+
+1 [Nu shilsa pa stambhu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Stand on the stones.]{lang=en}
+2 [Nu shilsa pa stambhu.]{lang=vedy}
+
+1 [Nu ro kirnu bhe talka orsa, le talka rajbhumri orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Behind you lies the plain. The plain is the kingdom:]{lang=en}
+2 [Nu ro kirnu bhe talka orsa, le talka rajbhumri orsa.]{lang=vedy}
+
+1 [Kupra, shimrashetka, ludra ro pur, shimra tral margha.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [the wells, the pans, the walled town, the salt road.]{lang=en}
+2 [Kupra, shimrashetka, ludra ro pur, shimra tral margha.]{lang=vedy}
+
+1 [Ehu stalu anva navu stalu uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Beyond this ground there is no ground.]{lang=en}
+2 [Ehu stalu anva navu stalu uvas orsa.]{lang=vedy}
+
+***
+
+1 [Avoli chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The line gave way.]{lang=en}
+2 [Avoli chambu.]{lang=vedy}
+
+1 [Vi borsha ro kalda bhe nodra ro tirsa ro samnu pantra shem chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It went as a riverbank goes in the rains:]{lang=en}
+2 [Vi borsha ro kalda bhe nodra ro tirsa ro samnu pantra shem chambu,]{lang=vedy}
+
+1 [aisul kalda bhe, le kirnu trum.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [in one movement, from behind.]{lang=en}
+2 [aisul kalda bhe, le kirnu trum.]{lang=vedy}
+
+1 [Lantu shilsa minra nitar chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Banners fell among the stones.]{lang=en}
+2 [Lantu shilsa minra nitar chambu,]{lang=vedy}
+
+1 [oshka lantu utrak chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Horses passed over banners.]{lang=en}
+2 [oshka lantu utrak chambu,]{lang=vedy}
+
+1 [rajva ve ro oshka nitar patru,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The king fell beneath his horse.]{lang=en}
+2 [rajva ve ro oshka nitar patru,]{lang=vedy}
+
+1 [le senta ro nortu janru groha tral vramu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody in the host went home.]{lang=en}
+2 [le senta ro nortu janru groha tral vramu.]{lang=vedy}
+
+***
+
+1 [Kalavrata ro shonkha uvas, kobala kunsha demu dakru bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [No conch for [[affiliation-kalavrata|Kalavrata]]. The households were five days south.]{lang=en}
+2 [Kalavrata ro shonkha uvas, kobala kunsha demu dakru bhe orsa.]{lang=vedy}
+
+1 [Jvelaka uvas, groha dahu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [No lamp. Their houses were burning.]{lang=en}
+2 [Jvelaka uvas, groha dahu.]{lang=vedy}
+
+1 [Rasikara ro agmi uvas, vi stanru druk nortu janru nyuru orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [No fire for [[affiliation-rasikara|Rasikara]]. Nobody remained to build it.]{lang=en}
+2 [Rasikara ro agmi uvas, vi stanru druk nortu janru nyuru orsa,]{lang=vedy}
+
+1 [le golsa lantu brel ro lumbha stanru le pavanda tral tirma lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The hundred banners lay out their dead and speak their names to the wind.]{lang=en}
+2 [le golsa lantu brel ro lumbha stanru le pavanda tral tirma lampu,]{lang=vedy}
+
+1 [le nortu janru vena stanru le nortu janru tirma lampu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody laid these out. Nobody spoke their names.]{lang=en}
+2 [le nortu janru vena stanru le nortu janru tirma lampu.]{lang=vedy}
+
+1 [Birsa senta aisu dvarna pral aisu kalda bhe chambu, le nortu janru vi brondu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Two hosts passed through one door together. Nobody closed it.]{lang=en}
+2 [Birsa senta aisu dvarna pral aisu kalda bhe chambu, le nortu janru vi brondu.]{lang=vedy}
+
+1 [Vena nyuru vi rinru orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [They are still inside.]{lang=en}
+2 [Vena nyuru vi rinru orsa.]{lang=vedy}
+
+***
+
+1 [Teska shitaritu bhe chel sutka navra.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [In ten winters the cloth became threads.]{lang=en}
+2 [Teska shitaritu bhe chel sutka navra.]{lang=vedy}
+
+1 [Tirma nyuru orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The name remained.]{lang=en}
+2 [Tirma nyuru orsa.]{lang=vedy}
+
+1 [Vren nu vi trel nyak chambu, nu surtaminru bhe trel chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [If you must cross, cross at noon.]{lang=en}
+2 [Vren nu vi trel nyak chambu, nu surtaminru bhe trel chambu,]{lang=vedy}
+
+1 [le shilsa trum bhaur utru ro kalda bhe,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [When fear rises from the stones,]{lang=en}
+2 [le shilsa trum bhaur utru ro kalda bhe,]{lang=vedy}
+
+1 [nu ro kirnu bhe domsa oshka ro janru shem purku,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [the hills at your back crowded with horsemen,]{lang=en}
+2 [nu ro kirnu bhe domsa oshka ro janru shem purku,]{lang=vedy}
+
+1 [avoli chambu, dramu druk nortu stalu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [the line gone and nowhere to run,]{lang=en}
+2 [avoli chambu, dramu druk nortu stalu,]{lang=vedy}
+
+1 [nu jahu ro orsa jnenuk, vi nu ro uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [know whose fear it is. It is not yours.]{lang=en}
+2 [nu jahu ro orsa jnenuk, vi nu ro uvas orsa.]{lang=vedy}
+
+1 [Vi senta ro orsa, nu shetka ro mavru ro durun bhe vi bhornu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It belongs to the host. Carry it across the field,]{lang=en}
+2 [Vi senta ro orsa, nu shetka ro mavru ro durun bhe vi bhornu,]{lang=vedy}
+
+1 [shilsa 400 orkhu bhe vi bhornu ro samnu pantra shem.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [as the stones have carried it for four hundred years.]{lang=en}
+2 [shilsa 400 orkhu bhe vi bhornu ro samnu pantra shem.]{lang=vedy}
+
+1 [Nu vi khondra ro minra bhe nitar stanru, le chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Put it down at the boundary. Keep going.]{lang=en}
+2 [Nu vi khondra ro minra bhe nitar stanru, le chambu.]{lang=vedy}
+
+***
+
+1 [Margha ushtona bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road is kept.]{lang=en}
+2 [Margha ushtona bhe orsa.]{lang=vedy}
+
+1 [Shilsa vi ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The stones keep it.]{lang=en}
+2 [Shilsa vi ushta.]{lang=vedy}
+
 ```
 
 : The Road {#road}
 
-```verse {form=lament lang=en}
-The road is a wagon's width of beaten ground
-from the salt to the sand,
-and for half a day it does not gho where it went.
-It bends south, round the stones, and costs half a day,
-and nobody has asked for the half day back.
+```verse {form=lament lang=en cols=2 numstep=5}
+1 [Margha shokot ro mavru ro tarpuna ro stalu orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road is beaten ground, one wagon wide,]{lang=en}
+2 [Margha shokot ro mavru ro tarpuna ro stalu orsa,]{lang=vedy}
 
-At each end of the bend, a post:
-a well, a fire, four men, and a chain.
-At sunset the chain goes across the road.
-It is a chain a horse could step over. It is not for the horse.
-It is so that a man who would gho on after dark
-must put his hand to cold iron and lift it himself.
+1 [shimra trum vaus tral,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [from salt to sand.]{lang=en}
+2 [shimra trum vaus tral,]{lang=vedy}
 
-Round the field, a line of whitewashed stones.
-The companies whitewash them after the rains.
-A beast that crosses them is the field's beast.
-A herder who sees it cross lets it gho.
+1 [le khondra ro birsa demu bhe vi brel ro puratra pantra uvas anva chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [For half a day it leaves its old course.]{lang=en}
+2 [le khondra ro birsa demu bhe vi brel ro puratra pantra uvas anva chambu.]{lang=vedy}
 
-The captain tells the new men the names,
-in the shape the names are told, where each was found.
+1 [Vi dakru tral, shilsa mon, jortuk, le khondra ro birsa demu nyaku,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It turns south around the stones, costing half a day.]{lang=en}
+2 [Vi dakru tral, shilsa mon, jortuk, le khondra ro birsa demu nyaku,]{lang=vedy}
 
-[Ashvapala]{.name data-type="being/npc" lang=vedy}, who went in after a strayed horse
-at first dark, with the rope in his hand.
-Found at the stones in the morning
-with the rope in his hand and no horse on it.
+1 [le nortu janru uhu khondra ro birsa demu vramu jahnuk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody has asked to have that half day back.]{lang=en}
+2 [le nortu janru uhu khondra ro birsa demu vramu jahnuk.]{lang=vedy}
 
-[Jalavira]{.name data-type="being/npc" lang=vedy}, who said the wind off the hills was wind,
-in the dry season, and lifted the chain.
-Found a hundred paces in,
-face to the hills, no mark on him.
+***
 
-[Meghavira]{.name data-type="being/npc" lang=vedy}, who did not lift the chain.
-He camped at the post, as the rule says,
-and in the night he got up and walked,
-and the men at the fire thought he had got up to piss.
-Found at the stones at sunrise, barefoot,
-on the far side of them.
+1 [Jortona ro birsa kalduna bhe margastonu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A post at either end of the bend:]{lang=en}
+2 [Jortona ro birsa kalduna bhe margastonu,]{lang=vedy}
 
-Those are three. Every captain has three.
+1 [aisu kupra, aisu agmi, sotra janru, aisu dorsasuta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [a well, a fire, four men, a chain.]{lang=en}
+2 [aisu kupra, aisu agmi, sotra janru, aisu dorsasuta.]{lang=vedy}
 
-Some years riders come down out of the hills, the hundred banners' people,
-and set a lamp at the edge on the far side of the stones,
-and say something to the four winds in their own tongue,
-and mount, and gho.
-The companies let them. The chain is not for them.
-Their dead are in the same door.
+1 [Surtapona bhe dorsasuta margha trel chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [At sunset they stretch the chain across the road.]{lang=en}
+2 [Surtapona bhe dorsasuta margha trel chambu.]{lang=vedy}
 
-The road is kept.
-The chain keeps it.
+1 [Oshka vi utrak grenu padsun, vi oshka druk uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A horse could step over it. The chain is not for horses.]{lang=en}
+2 [Oshka vi utrak grenu padsun, vi oshka druk uvas orsa.]{lang=vedy}
+
+1 [Janru ghauru anva chambu kamva ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It makes a man who means to travel after dark]{lang=en}
+2 [Janru ghauru anva chambu kamva ushta,]{lang=vedy}
+
+1 [ve shet dorsa pomba shem nyak partu le brel vi utrak nyak tarpu, ehu druk vi orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [touch the cold iron and raise it himself.]{lang=en}
+2 [ve shet dorsa pomba shem nyak partu le brel vi utrak nyak tarpu, ehu druk vi orsa.]{lang=vedy}
+
+***
+
+1 [Shetka mon, shetal chortuna shilsa ro avoli.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Whitewashed stones mark the field's boundary.]{lang=en}
+2 [Shetka mon, shetal chortuna shilsa ro avoli.]{lang=vedy}
+
+1 [Borsha anva senta vena shetal chortak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The companies whiten them after the rains.]{lang=en}
+2 [Borsha anva senta vena shetal chortak.]{lang=vedy}
+
+1 [Vrel vyela vena trel chambu, uhu vyela shetka ro orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [An animal that crosses belongs to the field.]{lang=en}
+2 [Vrel vyela vena trel chambu, uhu vyela shetka ro orsa.]{lang=vedy}
+
+1 [Pashupalda vi trel chambu darka, ve vi chambu vrannuk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A herder who watches it cross lets it go.]{lang=en}
+2 [Pashupalda vi trel chambu darka, ve vi chambu vrannuk.]{lang=vedy}
+
+***
+
+1 [Senoni navru janru tral tirma lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The captain tells the names to the new men,]{lang=en}
+2 [Senoni navru janru tral tirma lampu,]{lang=vedy}
+
+1 [tirma lampu ro samnu pantra shem, sartu janru ro kretuna ro stalu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [in the proper telling: where each man was found.]{lang=en}
+2 [tirma lampu ro samnu pantra shem, sartu janru ro kretuna ro stalu.]{lang=vedy}
+
+***
+
+1 [Ashvapala, ve satrenu oshka anva rinu chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [[Ashvapala]{.name data-type="being/npc" lang=vedy} followed a wandering horse inside]{lang=en}
+2 [Ashvapala, ve satrenu oshka anva rinu chambu,]{lang=vedy}
+
+1 [ghauru ro prabhana bhe, pomba bhe dorpa shem.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [at first dark, rope in hand.]{lang=en}
+2 [ghauru ro prabhana bhe, pomba bhe dorpa shem.]{lang=vedy}
+
+1 [Dopranu bhe ve shilsa anshe kretuna,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [They found him by the stones in the morning,]{lang=en}
+2 [Dopranu bhe ve shilsa anshe kretuna,]{lang=vedy}
+
+1 [pomba bhe dorpa, le vi pa oshka uvas.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [rope in hand, with no horse tied to it.]{lang=en}
+2 [pomba bhe dorpa, le vi pa oshka uvas.]{lang=vedy}
+
+***
+
+1 [Jalavira, ve domsa trum pavanda pavanda orsa lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [[Jalavira]{.name data-type="being/npc" lang=vedy} said the wind from the hills was wind.]{lang=en}
+2 [Jalavira, ve domsa trum pavanda pavanda orsa lampu,]{lang=vedy}
+
+1 [bherka ritru bhe, le dorsasuta utrak tarpu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It was the dry season. He lifted the chain.]{lang=en}
+2 [bherka ritru bhe, le dorsasuta utrak tarpu.]{lang=vedy}
+
+1 [Golsa vikroma rinu ve kretuna,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [They found him a hundred paces in,]{lang=en}
+2 [Golsa vikroma rinu ve kretuna,]{lang=vedy}
+
+1 [mirmu domsa tral, ve pa darsu uvas.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [facing the hills, without a mark.]{lang=en}
+2 [mirmu domsa tral, ve pa darsu uvas.]{lang=vedy}
+
+***
+
+1 [Meghavira, ve dorsasuta uvas utrak tarpu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [[Meghavira]{.name data-type="being/npc" lang=vedy} left the chain down.]{lang=en}
+2 [Meghavira, ve dorsasuta uvas utrak tarpu.]{lang=vedy}
+
+1 [Ve margastonu bhe nidvastonu stanru, dormashaltu ro samnu pantra shem,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He camped at the post as the rule requires.]{lang=en}
+2 [Ve margastonu bhe nidvastonu stanru, dormashaltu ro samnu pantra shem,]{lang=vedy}
+
+1 [le ghaul bhe ve utru le padsun,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [In the night he rose and walked.]{lang=en}
+2 [le ghaul bhe ve utru le padsun,]{lang=vedy}
+
+1 [le agmi anshe janru ve nurpu druk utru montru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The men by the fire thought he had got up to piss.]{lang=en}
+2 [le agmi anshe janru ve nurpu druk utru montru.]{lang=vedy}
+
+1 [Dopra bhe, ve shilsa anshe kretuna, padsa uvas kavru,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [At dawn they found him barefoot by the stones,]{lang=en}
+2 [Dopra bhe, ve shilsa anshe kretuna, padsa uvas kavru,]{lang=vedy}
+
+1 [shilsa ro navu anshe bhe.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [on the farther side.]{lang=en}
+2 [shilsa ro navu anshe bhe.]{lang=vedy}
+
+***
+
+1 [Uhun tre orsa, sartu senoni tre ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Those are three. Every captain has three.]{lang=en}
+2 [Uhun tre orsa, sartu senoni tre ushta.]{lang=vedy}
+
+***
+
+1 [Keru orkhu bhe oshka ro janru domsa trum nitar hauvu, golsa lantu ro janra,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Some years riders come down from the hills, people of the hundred banners.]{lang=en}
+2 [Keru orkhu bhe oshka ro janru domsa trum nitar hauvu, golsa lantu ro janra,]{lang=vedy}
+
+1 [le shilsa ro navu anshe bhe khondra anshe jvelaka stanru,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [They place a lamp at the boundary beyond the stones,]{lang=en}
+2 [le shilsa ro navu anshe bhe khondra anshe jvelaka stanru,]{lang=vedy}
+
+1 [le vena brel ro vedyari bhe sotra pavanda tral keru shaltu lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [speak to the four winds in their own language,]{lang=en}
+2 [le vena brel ro vedyari bhe sotra pavanda tral keru shaltu lampu,]{lang=vedy}
+
+1 [le oshka pa sadnu, le chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [mount and leave.]{lang=en}
+2 [le oshka pa sadnu, le chambu.]{lang=vedy}
+
+1 [Senta vena vrannuk, dorsasuta vena druk uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The companies permit it. The chain is not for them.]{lang=en}
+2 [Senta vena vrannuk, dorsasuta vena druk uvas orsa.]{lang=vedy}
+
+1 [Vena ro dauru janra samnu dvarna rinru orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Their dead are inside the same door.]{lang=en}
+2 [Vena ro dauru janra samnu dvarna rinru orsa.]{lang=vedy}
+
+***
+
+1 [Margha ushtona bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road is kept.]{lang=en}
+2 [Margha ushtona bhe orsa.]{lang=vedy}
+
+1 [Dorsasuta vi ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The chain keeps it.]{lang=en}
+2 [Dorsasuta vi ushta.]{lang=vedy}
+
 ```
 
 : The Wall {#wall}
 
-```verse {form=lament lang=en}
-The wall at Ludrapur is mud brick on a stone footing,
-a mile round, four gates,
-and it turns the wind, which is what a wall is for,
-and it does it with nobody inside it.
+```verse {form=lament lang=en cols=2 numstep=5}
+1 [Ludrapur ro ludra shilsa ro padu pa miratchela orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Ludrapur's wall is mud brick on stone foundations,]{lang=en}
+2 [Ludrapur ro ludra shilsa ro padu pa miratchela orsa,]{lang=vedy}
 
-Inside, the streets are long low mounds,
-and the houses can be read in the grass:
-here a door, here a hearth, here a yard wall,
-and the brick came down on all of them together.
-On the inside of the circuit the burn is black
-to the height of a man on a horse,
-where the galleries went up.
+1 [aisu milka mon, sotra dvarna,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [one mile around, with four gates.]{lang=en}
+2 [aisu milka mon, sotra dvarna,]{lang=vedy}
 
-The townspeople died in their streets
-and the town burned over them.
-A town that burns over its dead has burned them.
-The door shut at their backs, and they went on,
-and this is a ruin, and no more than a ruin,
-and the companies winter in it.
+1 [le vi pavanda navrun, ehu ludra ro prabru orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It turns the wind, the work a wall is built for.]{lang=en}
+2 [le vi pavanda navrun, ehu ludra ro prabru orsa,]{lang=vedy}
 
-Each gate wears a company's colors on its posts:
-red at the north gate, black and yellow at the east,
-blue at the south gate, where the water is,
-the west gate painted by whoever reaches it first,
-and the fifth company inside the circuit with no gate,
-and it has not forgotten.
+1 [le vi brel rinru nortu janru shem ehu karmak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It does that with nobody inside.]{lang=en}
+2 [le vi brel rinru nortu janru shem ehu karmak.]{lang=vedy}
 
-The cisterns under the king's platform hold the rains.
-A hundred horses drink inside the gates.
+***
 
-Nobody sleeps on the platform.
-The king's rooms are a hollow on top of it,
-and the hearthstones are in their places,
-and a company that will sleep in a dead man's door-line in the grass
-will not sleep in that hollow.
-The captains say the wind is wrong up there.
-The wind is not wrong.
-A hearth is for the man who comes home,
-and the king is on the stones.
+1 [Rinru, purpantra drau nitrak miratutru orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Inside, streets have become long, low ridges.]{lang=en}
+2 [Rinru, purpantra drau nitrak miratutru orsa,]{lang=vedy}
 
-The road is kept.
-The wall keeps it.
+1 [le groha trina bhe gratuk grenu orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The grass lets you read the houses:]{lang=en}
+2 [le groha trina bhe gratuk grenu orsa.]{lang=vedy}
+
+1 [Ehu bhe dvarna, ehu bhe agmistalu, ehu bhe angaludra,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [a door here, a hearth here, a courtyard wall.]{lang=en}
+2 [Ehu bhe dvarna, ehu bhe agmistalu, ehu bhe angaludra,]{lang=vedy}
+
+1 [le miratchela aisul kalda bhe sartu vena pa patru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The brick fell on them together.]{lang=en}
+2 [le miratchela aisul kalda bhe sartu vena pa patru.]{lang=vedy}
+
+1 [Ludra ro rinru anshe bhe dahona karnu orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The inner face of the circuit is burned black]{lang=en}
+2 [Ludra ro rinru anshe bhe dahona karnu orsa,]{lang=vedy}
+
+1 [oshka pa janru ro utrana grun,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [as high as a man on horseback,]{lang=en}
+2 [oshka pa janru ro utrana grun,]{lang=vedy}
+
+1 [uhu stalu bhe alavoli agmi bhe utru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [where the galleries caught fire.]{lang=en}
+2 [uhu stalu bhe alavoli agmi bhe utru.]{lang=vedy}
+
+***
+
+1 [Pur ro janra brel ro pantra bhe daushu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The townspeople died in their streets.]{lang=en}
+2 [Pur ro janra brel ro pantra bhe daushu,]{lang=vedy}
+
+1 [le pur vena utrak dahu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The town burned above them.]{lang=en}
+2 [le pur vena utrak dahu.]{lang=vedy}
+
+1 [Pur brel ro dauru janra utrak dahu, vi vena dahu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A town burning above its dead has burned its dead.]{lang=en}
+2 [Pur brel ro dauru janra utrak dahu, vi vena dahu.]{lang=vedy}
+
+1 [Dvarna vena ro kirnu bhe brondu, le vena pravul chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The door closed behind them. They went on.]{lang=en}
+2 [Dvarna vena ro kirnu bhe brondu, le vena pravul chambu,]{lang=vedy}
+
+1 [le ehu brakkosha orsa, le aisul brakkosha,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [This is a ruin, simply a ruin.]{lang=en}
+2 [le ehu brakkosha orsa, le aisul brakkosha,]{lang=vedy}
+
+1 [le senta ehu bhe shitaritu bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The companies spend winter here.]{lang=en}
+2 [le senta ehu bhe shitaritu bhe orsa.]{lang=vedy}
+
+***
+
+1 [Sartu dvarna brel ro stumbha pa aisu senta ro borna ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Each gatepost bears a company's colors:]{lang=en}
+2 [Sartu dvarna brel ro stumbha pa aisu senta ro borna ushta.]{lang=vedy}
+
+1 [Uttarka ro dvarna bhe shoran, purvu bhe karnu le suvrin,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [red in the north, black and yellow in the east,]{lang=en}
+2 [Uttarka ro dvarna bhe shoran, purvu bhe karnu le suvrin,]{lang=vedy}
+
+1 [dakru bhe nilku, uhu stalu bhe jalka orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [blue in the south beside the water.]{lang=en}
+2 [dakru bhe nilku, uhu stalu bhe jalka orsa,]{lang=vedy}
+
+1 [pachru ro dvarna bhe ganstal aisu bhe hauvu ro senta chortak,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The west gate takes the paint of whoever gets there first.]{lang=en}
+2 [pachru ro dvarna bhe ganstal aisu bhe hauvu ro senta chortak,]{lang=vedy}
+
+1 [le ganstal kunsha ro senta ludra rinru dvarna uvas ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The fifth company has no gate, inside the circuit.]{lang=en}
+2 [le ganstal kunsha ro senta ludra rinru dvarna uvas ushta,]{lang=vedy}
+
+1 [le vi uvas smirbrak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [It has not forgotten.]{lang=en}
+2 [le vi uvas smirbrak.]{lang=vedy}
+
+***
+
+1 [Rajva ro utrastonu nitar jalkakoshta borsha ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Cisterns beneath the king's platform collect the rains.]{lang=en}
+2 [Rajva ro utrastonu nitar jalkakoshta borsha ushta.]{lang=vedy}
+
+1 [Golsa oshka dvarna rinru jalka jalnu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A hundred horses drink within the gates.]{lang=en}
+2 [Golsa oshka dvarna rinru jalka jalnu.]{lang=vedy}
+
+***
+
+1 [Nortu janru utrastonu pa nidu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody sleeps on the platform.]{lang=en}
+2 [Nortu janru utrastonu pa nidu.]{lang=vedy}
+
+1 [Rajva ro groha vi utrak kholma orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The royal rooms are a hollow at its top.]{lang=en}
+2 [Rajva ro groha vi utrak kholma orsa,]{lang=vedy}
+
+1 [le agmistalu ro shilsa brel ro stanra bhe orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The hearthstones remain where they belong.]{lang=en}
+2 [le agmistalu ro shilsa brel ro stanra bhe orsa,]{lang=vedy}
+
+1 [le aisu senta trina bhe dauru janru ro dvarnavoli pa nidu kamvin orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A company willing to sleep on a dead man's doorway in the grass]{lang=en}
+2 [le aisu senta trina bhe dauru janru ro dvarnavoli pa nidu kamvin orsa,]{lang=vedy}
+
+1 [nel vi uhu kholma bhe nidu uvas kamva ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [will not sleep in that hollow.]{lang=en}
+2 [nel vi uhu kholma bhe nidu uvas kamva ushta.]{lang=vedy}
+
+1 [Senoni pavanda uhu utrak branu orsa lampu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The captains say the wind is wrong up there.]{lang=en}
+2 [Senoni pavanda uhu utrak branu orsa lampu.]{lang=vedy}
+
+1 [Pavanda branu uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [There is nothing wrong with the wind.]{lang=en}
+2 [Pavanda branu uvas orsa.]{lang=vedy}
+
+1 [Agmistalu groha tral vramu ro janru druk orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A hearth waits for the man coming home.]{lang=en}
+2 [Agmistalu groha tral vramu ro janru druk orsa,]{lang=vedy}
+
+1 [le rajva shilsa pa orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The king is on the stones.]{lang=en}
+2 [le rajva shilsa pa orsa.]{lang=vedy}
+
+***
+
+1 [Margha ushtona bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road is kept.]{lang=en}
+2 [Margha ushtona bhe orsa.]{lang=vedy}
+
+1 [Ludra vi ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The wall keeps it.]{lang=en}
+2 [Ludra vi ushta.]{lang=vedy}
+
 ```
 
 : The House {#house}
 
-```verse {form=lament lang=en}
-The temple at Ludrapur is stone, and it stands.
-It is the one roof left in the town, and the emptiest.
+```verse {form=lament lang=en cols=2 numstep=5}
+1 [Ludrapur ro ombhala shilsa ro orsa, le vi stambhu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Ludrapur's temple is stone. It stands.]{lang=en}
+2 [Ludrapur ro ombhala shilsa ro orsa, le vi stambhu.]{lang=vedy}
 
-A generation after the burning
-a priest came up the road from the coast with a cart,
-Devopala, and four men to lift,
-and went into the house in daylight, as the rite is, and came out with the god,
-and took him down the road to Sandyapur, to a new house behind the spit,
-where the lamps are lit before him now,
-and left the door of this one open behind him,
-which is the rule when a house is emptied,
-and nobody has shut it.
+1 [Vi pur bhe aisul nyuru grohashirnu orsa, le sartu navu vrun bram shonya orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The town has one roof left, the emptiest of all.]{lang=en}
+2 [Vi pur bhe aisul nyuru grohashirnu orsa, le sartu navu vrun bram shonya orsa.]{lang=vedy}
 
-The companies settle their quarrels in the court.
-This is the question they settle them under, one man one way and one the other:
+***
 
-"The god went down in the cart.
-The priest did it right, in daylight, by the rite.
-What is here is a house, and a house is not offended,
-and two men can settle a knife between them under its roof
-and nobody is the worse for it but one of them."
+1 [Dahona anva aisu sutkalda bhe,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A generation after the fire,]{lang=en}
+2 [Dahona anva aisu sutkalda bhe,]{lang=vedy}
 
-"The god stayed.
-A god is not a thing of stone that fits a cart.
-He has sat in this house four hundred winters
-and watched us water horses in his court and settle knives in it,
-and a god who has seen what the march is now and lets it be
-is the god for us."
+1 [aisu jvelita tirsa trum margha utrak shokot shem hauvu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [a priest came up the coastal road with a cart:]{lang=en}
+2 [aisu jvelita tirsa trum margha utrak shokot shem hauvu,]{lang=vedy}
 
-Nobody has settled it. They settle the knife and leave it.
+1 [Devopala, le utrak tarpu druk sotra janru,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Devopala, with four men to lift.]{lang=en}
+2 [Devopala, le utrak tarpu druk sotra janru,]{lang=vedy}
 
-Hear who sings this.
-We are hired men, Vedyari and Dunhari and both.
-We never saw the kingdom; none of us did.
-[Kavrabira]{.name data-type="being/npc" lang=vedy} hired the first of us ten years after, out of the escort money,
-by the season, and we are hired by the season still,
-and the money comes from the road, and the road is what the king went up with his banners,
-and when the money stops we keep the road anyway
-and take what we are owed from the wagons until it comes,
-and that is the march, and that is what he died on the stones for,
-and we sing it on the last night in the house of a god who left,
-or did not.
+1 [le ve demu bhe groha rinu chambu, yashu ro samnu pantra shem, le devra shem turu hauvu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He entered by daylight as the rite requires and emerged with the god.]{lang=en}
+2 [le ve demu bhe groha rinu chambu, yashu ro samnu pantra shem, le devra shem turu hauvu,]{lang=vedy}
 
-In the morning we ride out by the four gates,
-and the fifth company by whichever gate is nearest,
-and the house is empty again,
-or it is not.
+1 [le ve devra margha nitar Sandyapur tral bhornu, vausnakra ro kirnu bhe navru groha tral,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He took him down to Sandyapur, to a new house behind the spit.]{lang=en}
+2 [le ve devra margha nitar Sandyapur tral bhornu, vausnakra ro kirnu bhe navru groha tral,]{lang=vedy}
 
-The road is kept.
-We keep it.
+1 [kenu uhu stalu bhe janru devra pravun jvelaka jvelak,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Lamps burn before him there today.]{lang=en}
+2 [kenu uhu stalu bhe janru devra pravun jvelaka jvelak,]{lang=vedy}
+
+1 [le ve ehu groha ro dvarna kirnu bhe mukru stanru,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He left this house's door open behind him,]{lang=en}
+2 [le ve ehu groha ro dvarna kirnu bhe mukru stanru,]{lang=vedy}
+
+1 [groha shonya navra ro kalda bhe ehu dormashaltu orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [the rule for emptying a house.]{lang=en}
+2 [groha shonya navra ro kalda bhe ehu dormashaltu orsa,]{lang=vedy}
+
+1 [le nortu janru vi brondu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody has closed it.]{lang=en}
+2 [le nortu janru vi brondu.]{lang=vedy}
+
+***
+
+1 [Senta angala bhe preska vinsak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The companies settle quarrels in the courtyard.]{lang=en}
+2 [Senta angala bhe preska vinsak.]{lang=vedy}
+
+1 [Vena ehu jahnu nitar preska vinsak, aisu janru aisu pantra, navu janru navu pantra.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [They settle them beneath this question, one man arguing each side.]{lang=en}
+2 [Vena ehu jahnu nitar preska vinsak, aisu janru aisu pantra, navu janru navu pantra.]{lang=vedy}
+
+***
+
+1 [Devra shokot bhe nitar chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The god went down in the cart.]{lang=en}
+2 [Devra shokot bhe nitar chambu.]{lang=vedy}
+
+1 [Jvelita samrin karmak, demu bhe, yashu shem.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The priest acted correctly, by daylight and according to the rite.]{lang=en}
+2 [Jvelita samrin karmak, demu bhe, yashu shem.]{lang=vedy}
+
+1 [Ehu bhe groha orsa, le groha tranka uvas ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [What remains is a house. Houses take no offense.]{lang=en}
+2 [Ehu bhe groha orsa, le groha tranka uvas ushta,]{lang=vedy}
+
+1 [le birsa janru vi ro grohashirnu nitar chinrak vinsak grenu orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Two men can settle a knife beneath its roof.]{lang=en}
+2 [le birsa janru vi ro grohashirnu nitar chinrak vinsak grenu orsa,]{lang=vedy}
+
+1 [le aisul aisu vena minra bram branu navra.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Only one of them will be worse off.]{lang=en}
+2 [le aisul aisu vena minra bram branu navra.]{lang=vedy}
+
+***
+
+1 [Devra nyuru orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The god remained.]{lang=en}
+2 [Devra nyuru orsa.]{lang=vedy}
+
+1 [Devra shokot bhe orsa grenu shilsa ro varsu uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A god is not a stone object that fits a cart.]{lang=en}
+2 [Devra shokot bhe orsa grenu shilsa ro varsu uvas orsa.]{lang=vedy}
+
+1 [Ve ehu groha bhe 400 shitaritu sadnu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He has sat here four hundred winters,]{lang=en}
+2 [Ve ehu groha bhe 400 shitaritu sadnu,]{lang=vedy}
+
+1 [le ve mova ve ro angala bhe oshka jalka pomu le chinrak vinsak nyura darka,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [watching us water horses in his court and settle knives there.]{lang=en}
+2 [le ve mova ve ro angala bhe oshka jalka pomu le chinrak vinsak nyura darka,]{lang=vedy}
+
+1 [le devra simra kenu kevu orsa darka, le vi nyuru orsa vrannuk,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [A god who sees what the march has become and allows it]{lang=en}
+2 [le devra simra kenu kevu orsa darka, le vi nyuru orsa vrannuk,]{lang=vedy}
+
+1 [ve mova druk devra orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [is a god for us.]{lang=en}
+2 [ve mova druk devra orsa.]{lang=vedy}
+
+***
+
+1 [Nortu janru ehu vinsak, vena chinrak vinsak le ehu nyuru stanru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Nobody has settled that. They settle the knife and leave the question.]{lang=en}
+2 [Nortu janru ehu vinsak, vena chinrak vinsak le ehu nyuru stanru.]{lang=vedy}
+
+***
+
+1 [Jahu ehu gana, nu bhinu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Listen to the people singing.]{lang=en}
+2 [Jahu ehu gana, nu bhinu.]{lang=vedy}
+
+1 [Mova karmakuva orsa, Vedyari le Dunhari le sartu birsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We are hired men, Vedyari, Dunhari, both.]{lang=en}
+2 [Mova karmakuva orsa, Vedyari le Dunhari le sartu birsa.]{lang=vedy}
+
+1 [Mova rajbhumri nortu demrak bhe darka, mova ro nortu janru.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [None of us ever saw the kingdom.]{lang=en}
+2 [Mova rajbhumri nortu demrak bhe darka, mova ro nortu janru.]{lang=vedy}
+
+1 [Teska orkhu anva Kavrabira mova ro ganstal aisu janru bhada ro danha shem karmuk,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [Ten years afterward [Kavrabira]{.name data-type="being/npc" lang=vedy} hired the first of us with escort money.]{lang=en}
+2 [Teska orkhu anva Kavrabira mova ro ganstal aisu janru bhada ro danha shem karmuk,]{lang=vedy}
+
+1 [ritru drun, le kenu levu mova ritru drun karmuna bhe orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [He hired by the season. We still hire by the season.]{lang=en}
+2 [ritru drun, le kenu levu mova ritru drun karmuna bhe orsa,]{lang=vedy}
+
+1 [le danha margha trum hauvu, le rajva lantu shem uhu margha utrak chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road provides the money. The king carried his banners up that road.]{lang=en}
+2 [le danha margha trum hauvu, le rajva lantu shem uhu margha utrak chambu,]{lang=vedy}
+
+1 [le danha brondu, mova nyurul margha ushta,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [When the money stops, we keep the road anyway.]{lang=en}
+2 [le danha brondu, mova nyurul margha ushta,]{lang=vedy}
+
+1 [le danha hauvu grun mova shokot trum mova ro anvaru adnu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We collect what we are owed from wagons until the money comes.]{lang=en}
+2 [le danha hauvu grun mova shokot trum mova ro anvaru adnu,]{lang=vedy}
+
+1 [le ehu simra orsa, le ehu druk ve shilsa pa daushu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [That is the march. That is what he died on the stones for.]{lang=en}
+2 [le ehu simra orsa, le ehu druk ve shilsa pa daushu,]{lang=vedy}
+
+1 [le mova kaldunganstal ro ghaul bhe devra ro groha bhe vi gana, devra turu chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [On the last night we sing it in the house of a god who left,]{lang=en}
+2 [le mova kaldunganstal ro ghaul bhe devra ro groha bhe vi gana, devra turu chambu,]{lang=vedy}
+
+1 [vau uvas chambu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [or stayed.]{lang=en}
+2 [vau uvas chambu.]{lang=vedy}
+
+***
+
+1 [Dopranu bhe mova sotra dvarna pral oshka pa chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [In the morning we ride through the four gates.]{lang=en}
+2 [Dopranu bhe mova sotra dvarna pral oshka pa chambu,]{lang=vedy}
+
+1 [le ganstal kunsha ro senta anshe ro dvarna pral,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The fifth company uses whichever gate is closest.]{lang=en}
+2 [le ganstal kunsha ro senta anshe ro dvarna pral,]{lang=vedy}
+
+1 [le groha vramul shonya orsa,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The house is empty again,]{lang=en}
+2 [le groha vramul shonya orsa,]{lang=vedy}
+
+1 [vau uvas orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [or it is not.]{lang=en}
+2 [vau uvas orsa.]{lang=vedy}
+
+***
+
+1 [Margha ushtona bhe orsa.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The road is kept.]{lang=en}
+2 [Margha ushtona bhe orsa.]{lang=vedy}
+
+1 [Mova vi ushta.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [We keep it.]{lang=en}
+2 [Mova vi ushta.]{lang=vedy}
+
 ```
 
 ## See Also

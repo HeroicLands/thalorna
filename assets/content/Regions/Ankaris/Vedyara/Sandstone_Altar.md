@@ -20,9 +20,15 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] names the altar at
 
 : Each King Hallowed There {#recitation-excerpt}
 
-```verse {form=recitation lang=en}
-The altar of this hall was cut for them;
-  each king was hallowed there.
+```verse {form=recitation lang=en cols=2 numstep=5}
+1 [Ehu dorna vena druk chintuna,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The altar here was cut for that lineage.]{lang=en}
+2 [Ehu dorna vena druk chintuna,]{lang=vedy}
+
+1 [.sartu rajva votra.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [.Every king was consecrated there.]{lang=en}
+2 [.sartu rajva votra.]{lang=vedy}
+
 ```
 
 Nobody has ever proposed replacing it, and the classical commentators make a point of that. The dissolution ended a dynasty and kept its stone.

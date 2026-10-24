@@ -6283,6 +6283,1085 @@ data:
       field: Station, rank and office
       gloss: female; of a female human
       source: {kind: coined}
+    - form: "vausnakra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "coastal spit of sand"
+      source: {kind: coined}
+    - form: "milka"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "mile as a measure of distance"
+      source: {kind: coined}
+    - form: "shimrashetka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "salt pan"
+      built: ["shimra", "shetka"]
+      source: {kind: coined}
+    - form: "oshkapalda"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "groom or keeper of horses"
+      built: ["oshka", "palda"]
+      source: {kind: coined}
+    - form: "navavoli"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "transverse thwart of a boat"
+      built: ["nau", "avoli"]
+      source: {kind: coined}
+    - form: "nauchela"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "planking of a boat"
+      source: {kind: coined}
+    - form: "oshkapadsa"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "horse's hoof"
+      built: ["oshka", "padsa"]
+      source: {kind: coined}
+    - form: "chinu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "cut or sever"
+      source: {kind: coined}
+    - form: "kirtu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "light or illumination"
+      source: {kind: coined}
+    - form: "letgroha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "shed"
+      built: ["let", "groha"]
+      source: {kind: coined}
+    - form: "banduk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "bind or tie physically or by oath"
+      source: {kind: coined}
+    - form: "simra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "the march as frontier territory"
+      source: {kind: coined}
+    - form: "pachru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "west or western direction"
+      source: {kind: coined}
+    - form: "ushtona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "keeping or act of holding"
+      built: ["usht-", "-ona"]
+      source: {kind: coined}
+    - form: "mavkhondra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "fan-shaped spread of ground or stones"
+      source: {kind: coined}
+    - form: "prastuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "spread out across a surface"
+      source: {kind: coined}
+    - form: "nodra"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "river"
+      source: {kind: coined}
+    - form: "gana"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "sing"
+      source: {kind: coined}
+    - form: "rajbhumri"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "kingdom"
+      source: {kind: coined}
+    - form: "dakru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "south or southern direction"
+      source: {kind: coined}
+    - form: "shokot"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "wagon or cart"
+      source: {kind: coined}
+    - form: "tarpuna"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "ground compacted by beating or traffic"
+      source: {kind: coined}
+    - form: "margastonu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "roadside guard post"
+      built: ["margha", "stonu"]
+      source: {kind: coined}
+    - form: "dorsasuta"
+      class: "n"
+      field: "Stone, metal and treasure"
+      gloss: "iron chain"
+      source: {kind: coined}
+    - form: "surtapona"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "sunset"
+      source: {kind: coined}
+    - form: "chortuna"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "applied coating of color or whitewash"
+      source: {kind: coined}
+    - form: "chortak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "paint or whitewash"
+      source: {kind: coined}
+    - form: "pashupalda"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "herder of livestock"
+      source: {kind: coined}
+    - form: "kretuna"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "being found or discovery"
+      source: {kind: coined}
+    - form: "satrenu"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "strayed or wandering away from its keeper"
+      source: {kind: coined}
+    - form: "dorpa"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "rope"
+      source: {kind: coined}
+    - form: "miratchela"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "mud brick"
+      source: {kind: coined}
+    - form: "miratutru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "low mound of collapsed earth or masonry"
+      source: {kind: coined}
+    - form: "gratuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "read written signs or traces"
+      source: {kind: coined}
+    - form: "trina"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "grass"
+      source: {kind: coined}
+    - form: "angala"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "courtyard"
+      source: {kind: coined}
+    - form: "angaludra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "courtyard wall"
+      built: ["angala", "ludra"]
+      source: {kind: coined}
+    - form: "utrana"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "vertical height"
+      source: {kind: coined}
+    - form: "alavoli"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "raised gallery along a wall"
+      source: {kind: coined}
+    - form: "brakkosha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "ruin of a building or settlement"
+      source: {kind: coined}
+    - form: "purvu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "east or eastern direction"
+      source: {kind: coined}
+    - form: "jalkakoshta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cistern"
+      source: {kind: coined}
+    - form: "utrastonu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "raised platform"
+      source: {kind: coined}
+    - form: "kholma"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "hollow or depression"
+      source: {kind: coined}
+    - form: "sutkalda"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "generation as a span of time"
+      source: {kind: coined}
+    - form: "jvelak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "kindle or light a lamp"
+      source: {kind: coined}
+    - form: "preska"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "quarrel or dispute"
+      source: {kind: coined}
+    - form: "jahnu"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "question"
+      source: {kind: coined}
+    - form: "bhada"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "armed escort and its service"
+      source: {kind: coined}
+    - form: "karmuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "hire someone for paid work"
+      source: {kind: coined}
+    - form: "karmuna"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "being hired or paid employment"
+      source: {kind: coined}
+    - form: "tulu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "weigh or deliberate on a statement"
+      source: {kind: coined}
+    - form: "katru"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "account or tale handed down"
+      source: {kind: coined}
+    - form: "chintuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "cut or hewn for a particular purpose"
+      source: {kind: coined}
+    - form: "smirtipalda"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "Memory-Keeper, keeper of genealogical recitation"
+      built: ["smiriti", "palda"]
+      source: {kind: coined}
+    - form: "sahu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "bear or endure a burden or distress"
+      source: {kind: coined}
+    - form: "taryu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "leave behind or abandon"
+      source: {kind: coined}
+    - form: "chinta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "chisel"
+      source: {kind: coined}
+    - form: "niksun"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "mastered or proficient"
+      source: {kind: coined}
+    - form: "jahnona"
+      class: "n"
+      field: "Duty, law and judgment"
+      gloss: "petition or request for judgment"
+      source: {kind: coined}
+    - form: "krurak"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "cruel"
+      source: {kind: coined}
+    - form: "jalpantra"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "water channel"
+      source: {kind: coined}
+    - form: "karva"
+      class: "n"
+      field: "Duty, law and judgment"
+      gloss: "tax"
+      source: {kind: coined}
+    - form: "ganona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "counting or reckoning"
+      built: ["gan-", "-ona"]
+      source: {kind: coined}
+    - form: "tirbrond"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "dyke"
+      source: {kind: coined}
+    - form: "kulka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "drinking cup"
+      source: {kind: coined}
+    - form: "vishra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "poison"
+      source: {kind: coined}
+    - form: "matru"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "drunk or intoxicated"
+      source: {kind: coined}
+    - form: "dukghomra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "famine"
+      source: {kind: coined}
+    - form: "ghomrakhondra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "crop as a harvest"
+      source: {kind: coined}
+    - form: "ghomrastonu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "granary or grain store"
+      built: ["ghomra", "stonu"]
+      source: {kind: coined}
+    - form: "nidgroha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "barracks"
+      source: {kind: coined}
+    - form: "pachoka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cook"
+      source: {kind: coined}
+    - form: "bhukhpantra"
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "lane inhabited by hungry people"
+      source: {kind: coined}
+    - form: "kaldungalnu"
+      class: "n"
+      field: "Death, the dead and the ancestors"
+      gloss: "last cup drunk before death"
+      source: {kind: coined}
+    - form: "bhranu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "dare to perform a stated action"
+      source: {kind: coined}
+    - form: "genta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "knot tied in cord"
+      source: {kind: coined}
+    - form: "mandrayu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "drawing compass"
+      source: {kind: coined}
+    - form: "varta"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "turn or revolution"
+      source: {kind: coined}
+    - form: "nartuk"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "straight in course"
+      source: {kind: coined}
+    - form: "danna"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "grain as a crop or food"
+      source: {kind: coined}
+    - form: "ukra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "ox"
+      source: {kind: coined}
+    - form: "kapasra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cotton"
+      source: {kind: coined}
+    - form: "ikra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cultivated cane"
+      source: {kind: coined}
+    - form: "lipshilsa"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "writing slate"
+      source: {kind: coined}
+    - form: "vidsagroha"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "school as a place of learning"
+      source: {kind: coined}
+    - form: "himjalka"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "ice"
+      source: {kind: coined}
+    - form: "karshak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "plow a field"
+      source: {kind: coined}
+    - form: "marknu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "wash with water"
+      source: {kind: coined}
+    - form: "padsastonu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "footstool"
+      built: ["padsa", "stonu"]
+      source: {kind: coined}
+    - form: "gorvona"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "teaching or instruction received"
+      source: {kind: coined}
+    - form: "dannabanda"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "sheaf of grain"
+      source: {kind: coined}
+    - form: "umbrona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "measuring or ceremonial Weighing"
+      source: {kind: coined}
+    - form: "stolnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "steal"
+      source: {kind: coined}
+    - form: "stirbrond"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "seized, locked rigid by being held without yielding"
+      source: {kind: coined}
+    - form: "jalmavru"
+      class: "v"
+      field: "Water, rain and the monsoon"
+      gloss: "flood over the banks"
+      source: {kind: coined}
+    - form: "pushvaband"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "garland"
+      source: {kind: coined}
+    - form: "dvarnapalda"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "Gatekeeper as a divine title"
+      built: ["dvarna", "palda"]
+      source: {kind: coined}
+    - form: "jitru"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "soul"
+      source: {kind: coined}
+    - form: "minrakhondra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "gap or intervening opening"
+      source: {kind: coined}
+    - form: "chintak"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "torn open"
+      source: {kind: coined}
+    - form: "naupalda"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "ferryman or keeper of a ferry boat"
+      built: ["nau", "palda"]
+      source: {kind: coined}
+    - form: "banduna"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "being tied or secured"
+      source: {kind: coined}
+    - form: "letshilsa"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "gravel or a small stone"
+      built: ["let", "shilsa"]
+      source: {kind: coined}
+    - form: "pasru"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cattle collectively"
+      source: {kind: coined}
+    - form: "menka"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "month"
+      source: {kind: coined}
+    - form: "nartalka"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "flat-bottomed"
+      source: {kind: coined}
+    - form: "pakghomra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "cooked dish"
+      source: {kind: coined}
+    - form: "antaritu"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "spring season"
+      source: {kind: coined}
+    - form: "saptu"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "week"
+      source: {kind: coined}
+    - form: "shamona"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "planting"
+      source: {kind: coined}
+    - form: "bijra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "seed"
+      source: {kind: coined}
+    - form: "bhumitala"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "terrace cut into a hill"
+      source: {kind: coined}
+    - form: "utrakilta"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "topmost terrace"
+      source: {kind: coined}
+    - form: "jalchamru"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "river current"
+      source: {kind: coined}
+    - form: "grimapavi"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "village headman"
+      built: ["grima", "pavi"]
+      source: {kind: coined}
+    - form: "pralnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "swim"
+      source: {kind: coined}
+    - form: "gelnu"
+      class: "v"
+      field: "Kin, household and the person"
+      gloss: "laugh"
+      source: {kind: coined}
+    - form: "vartuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "turn in direction"
+      source: {kind: coined}
+    - form: "saprul"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "sufficient for the task"
+      source: {kind: coined}
+    - form: "lutra"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "raider or robber using armed force"
+      source: {kind: coined}
+    - form: "jalprukoda"
+      class: "n"
+      field: "Water, rain and the monsoon"
+      gloss: "bailing bowl"
+      source: {kind: coined}
+    - form: "sulnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "pour liquid over something"
+      source: {kind: coined}
+    - form: "shilsakartu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "mason"
+      built: ["shilsa", "kartu"]
+      source: {kind: coined}
+    - form: "alekhra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "decorative carving"
+      source: {kind: coined}
+    - form: "gaukra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "cow"
+      source: {kind: coined}
+    - form: "votra karmuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "consecrated or hallowed by a performed rite"
+      source: {kind: coined}
+    - form: "tailka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "oil used in consecration"
+      source: {kind: coined}
+    - form: "vausshilsa"
+      class: "n"
+      field: "Stone, metal and treasure"
+      gloss: "sandstone"
+      built: ["vaus", "shilsa"]
+      source: {kind: coined}
+    - form: "gautra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "goat"
+      source: {kind: coined}
+    - form: "bedrajnenin"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "scholar"
+      source: {kind: coined}
+    - form: "lipak"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "write or enter a written record"
+      source: {kind: coined}
+    - form: "sadona"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "session or sitting of an assembly"
+      source: {kind: coined}
+    - form: "agmisangra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "pile of fuel gathered for one fire"
+      source: {kind: coined}
+    - form: "kannu"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "millet"
+      source: {kind: coined}
+    - form: "darva"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "beam of a building"
+      source: {kind: coined}
+    - form: "miratka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "clay used for a lamp or pot"
+      source: {kind: coined}
+    - form: "lunka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "sickle"
+      source: {kind: coined}
+    - form: "stamnka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "jar"
+      source: {kind: coined}
+    - form: "kavrabhat"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "pot lid"
+      source: {kind: coined}
+    - form: "angra"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "glowing coal or ember"
+      source: {kind: coined}
+    - form: "duravha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "moaning sound"
+      source: {kind: coined}
+    - form: "arhun ro janra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "rebels collectively"
+      source: {kind: coined}
+    - form: "bhikra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "beggar or wandering ascetic living by alms"
+      source: {kind: coined}
+    - form: "kharnu"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "sharp in cutting force or argument"
+      source: {kind: coined}
+    - form: "ghomrabrond"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "ritual fast or refusal of food"
+      source: {kind: coined}
+    - form: "jnenin"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "wise person"
+      source: {kind: coined}
+    - form: "dumra"
+      class: "n"
+      field: "Gods, rites and the temple"
+      gloss: "smoke"
+      source: {kind: coined}
+    - form: "karnatubi"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "crow"
+      source: {kind: coined}
+    - form: "anglet"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "spark"
+      source: {kind: coined}
+    - form: "charkuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "twisted together"
+      source: {kind: coined}
+    - form: "talchel"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "mat spread beneath something"
+      source: {kind: coined}
+    - form: "hora"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "hour"
+      source: {kind: coined}
+    - form: "trinalet"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "stubble after grass has burned"
+      source: {kind: coined}
+    - form: "jaltubi"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "heron"
+      source: {kind: coined}
+    - form: "kharaknu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "scrape loose material into a container"
+      source: {kind: coined}
+    - form: "parnuk"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "pass something from one hand to another"
+      source: {kind: coined}
+    - form: "gratona"
+      class: "n"
+      field: "Speech, learning and the written word"
+      gloss: "public reading of a written work"
+      source: {kind: coined}
+    - form: "danushta"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "grip of a bow"
+      source: {kind: coined}
+    - form: "danoshru"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "horn tip of a bow"
+      source: {kind: coined}
+    - form: "karmuklipu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "contract of hire"
+      source: {kind: coined}
+    - form: "nidstalu"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "camp"
+      source: {kind: coined}
+    - form: "shilpatra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "shale"
+      source: {kind: coined}
+    - form: "danudarva"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "bow stave"
+      source: {kind: coined}
+    - form: "misra"
+      class: "n"
+      field: "Kin, household and the person"
+      gloss: "pay or wages"
+      source: {kind: coined}
+    - form: "danpruku"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "draw a bow"
+      source: {kind: coined}
+    - form: "danpruk"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "drawing motion of a bowman"
+      source: {kind: coined}
+    - form: "ghaulrakha"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "watch of the night"
+      source: {kind: coined}
+    - form: "dramoka"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "runner bearing a message"
+      source: {kind: coined}
+    - form: "kambra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "blanket"
+      source: {kind: coined}
+    - form: "Utradanpruk"
+      class: "name"
+      field: "War, arms and the host"
+      gloss: "High Draw academy"
+      source: {kind: coined}
+    - form: "ferkakhondra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "stick of wood for a fire"
+      built: ["ferka", "khondra"]
+      source: {kind: coined}
+    - form: "apra"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "bread"
+      source: {kind: coined}
+    - form: "navchendra"
+      class: "n"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "new moon"
+      source: {kind: coined}
+    - form: "rajta"
+      class: "n"
+      field: "Stone, metal and treasure"
+      gloss: "silver paid as money"
+      source: {kind: coined}
+    - form: "kertuna"
+      class: "n"
+      field: "Doing, going and being"
+      gloss: "choice or person chosen"
+      source: {kind: coined}
+    - form: "danhakoshta"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "money chest"
+      source: {kind: coined}
+    - form: "karmunolgu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "retainer paid to secure future service"
+      source: {kind: coined}
+    - form: "sipitnu"
+      class: "v"
+      field: "Doing, going and being"
+      gloss: "spit something from the mouth"
+      source: {kind: coined}
+    - form: "senaneka"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "military officer"
+      source: {kind: coined}
+    - form: "gorvakodri"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "instructional manual"
+      source: {kind: coined}
+    - form: "jalkshetka"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "marsh"
+      source: {kind: coined}
+    - form: "rakhapal"
+      class: "n"
+      field: "Station, rank and office"
+      gloss: "sentry or picket"
+      source: {kind: coined}
+    - form: "danustonu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "bow rack"
+      source: {kind: coined}
+    - form: "shirkakoshta"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "quiver"
+      source: {kind: coined}
+    - form: "ruknu"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "grey"
+      source: {kind: coined}
+    - form: "angchel"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "shirt worn on the torso"
+      source: {kind: coined}
+    - form: "girgharsa"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "gorge"
+      source: {kind: coined}
+    - form: "sadelkavru"
+      class: "adj"
+      field: "Craft, trade and the counting-house"
+      gloss: "saddled for riding"
+      source: {kind: coined}
+    - form: "yavu"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "barley"
+      source: {kind: coined}
+    - form: "samkortu"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "treaty"
+      source: {kind: coined}
+    - form: "girkandru"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "slope forming one side of a gorge"
+      source: {kind: coined}
+    - form: "shilstonu"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "rock shelf"
+      source: {kind: coined}
+    - form: "Nirpadiku"
+      class: "name"
+      field: "War, arms and the host"
+      gloss: "Patient Eye academy"
+      source: {kind: coined}
+    - form: "Dikbrondsultu"
+      class: "name"
+      field: "War, arms and the host"
+      gloss: "Hidden String academy"
+      source: {kind: coined}
+    - form: "surtamonda"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "sun-disc medallion"
+      source: {kind: coined}
+    - form: "bandakhondra"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "bundle of cut reeds"
+      source: {kind: coined}
+    - form: "perka"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "feather used to fletch an arrow"
+      source: {kind: coined}
+    - form: "taryuna"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "left behind or abandoned"
+      source: {kind: coined}
+    - form: "lefru"
+      class: "adj"
+      field: "Doing, going and being"
+      gloss: "clear of sediment"
+      source: {kind: coined}
+    - form: "shirkasangra"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "cairn or heap of broken arrows"
+      source: {kind: coined}
+    - form: "shiltrina"
+      class: "n"
+      field: "Crops, beasts and growing things"
+      gloss: "lichen"
+      source: {kind: coined}
+    - form: "shilkhondra"
+      class: "n"
+      field: "Mountain, forest, field and the shapes of the land"
+      gloss: "niche cut in stone"
+      source: {kind: coined}
+    - form: "agru"
+      class: "n"
+      field: "War, arms and the host"
+      gloss: "point of an arrow"
+      source: {kind: coined}
+    - form: "Vramukalda"
+      class: "name"
+      field: "Sun, moon, sky and the reckoning of time"
+      gloss: "month of the Returning"
+      source: {kind: coined}
+    - form: "pachgroha"
+      class: "n"
+      field: "Craft, trade and the counting-house"
+      gloss: "kitchen"
+      source: {kind: coined}
+    - form: rajgroha
+      class: n
+      field: Kin, household and the person
+      gloss: royal household or palace
+      source: {kind: coined}
+    - form: purpantra
+      class: n
+      field: Kin, household and the person
+      gloss: street or way through a city
+      source: {kind: coined}
+    - form: dvarnavoli
+      class: n
+      field: Kin, household and the person
+      gloss: doorway or space at a house door
+      source: {kind: coined}
+    - form: mavmondala
+      class: n
+      field: Kin, household and the person
+      gloss: vault of the sky
+      source: {kind: coined}
+    - form: hirengirka
+      class: n
+      field: Kin, household and the person
+      gloss: gold mountain
+      source: {kind: coined}
+    - form: rakha
+      class: n
+      field: Kin, household and the person
+      gloss: watch or guarding
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -7215,6 +8294,18 @@ data:
     - {name: Meghavira, tongue: vedyari}
     - {name: Kavrabira, tongue: vedyari}
     - {name: Dhanurpala, tongue: vedyari}
+    - {name: Ashvakirti, tongue: vedyari}
+    - {name: Bhasmadasa, tongue: vedyari}
+    - {name: Devopala, tongue: vedyari}
+    - {name: Dormanata, tongue: vedyari}
+    - {name: Dunhari, tongue: other:dunhari}
+    - {name: Jortona, tongue: vedyari}
+    - {name: Katha, tongue: vedyari}
+    - {name: Padmika, tongue: vedyari}
+    - {name: Sharabira, tongue: vedyari}
+    - {name: Sharakirti, tongue: vedyari}
+    - {name: Sharu, tongue: vedyari}
+    - {name: Taranpal, tongue: vedyari}
   retired:
     - {form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija}
     - {form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija}

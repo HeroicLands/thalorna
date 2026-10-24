@@ -26,13 +26,31 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reig
 
 : The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
-```verse {form=recitation lang=en}
-His guard went from the barrack to the grain
-  while he sat in the hall.
-His cook had neighbors in the hungry lanes
-  and could not bear their cry.
-So the tradition runs: the kitchen's cup
-  was the last the king drank.
+```verse {form=recitation lang=en cols=2 numstep=5}
+1 [Ve ro palda nidgroha trum chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [His guards left their barracks for the grain.]{lang=en}
+2 [Ve ro palda nidgroha trum chambu,]{lang=vedy}
+
+1 [.ghomra tral, ve sadnu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [.He stayed seated in the hall.]{lang=en}
+2 [.ghomra tral, ve sadnu.]{lang=vedy}
+
+1 [Ve ro pachoka bhukhpantra ro narma,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [His cook knew neighbors in the hungry lanes,]{lang=en}
+2 [Ve ro pachoka bhukhpantra ro narma,]{lang=vedy}
+
+1 [.ravha sahu uvas.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [.unable to bear their cries.]{lang=en}
+2 [.ravha sahu uvas.]{lang=vedy}
+
+1 [Sampradeya ehu pantra lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [The tradition tells it this way:]{lang=en}
+2 [Sampradeya ehu pantra lampu,]{lang=vedy}
+
+1 [.kulka kaldungalnu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+2 [.the kitchen's cup was his last.]{lang=en}
+2 [.kulka kaldungalnu.]{lang=vedy}
+
 ```
 
 Once a year, at the [Day of the Dissolution]{.name data-type="lore/gathering"}, the recitation is given in the temple precinct and not here. The Rajapuri position is that the cellars are not a monument and are not to be treated as one.
