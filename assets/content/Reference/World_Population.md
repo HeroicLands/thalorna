@@ -74,14 +74,14 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | [[place-sthmrchsrgn\|the South Marches]]        | not stated      |
 | **Zerathia subtotal**                           | **~29,000,000** |
 
-#### K'ich'chik
+#### Ki'ich'chik
 
-| Region                                      | Population      |
-| ------------------------------------------- | --------------- |
-| [[place-cntrlkchchk\|Central K'ich'chik]]   | ~28,000,000     |
-| [[place-sthrnkchchk\|Southern K'ich'chik]]  | ~3,500,000      |
-| [[place-nrthrnkchchk\|Northern K'ich'chik]] | ~2,000,000      |
-| **K'ich'chik subtotal**                     | **~34,000,000** |
+| Region                                          | Population      |
+| ----------------------------------------------- | --------------- |
+| [[place-centralkiichchik\|Central Ki'ich'chik]] | ~28,000,000     |
+| [[place-southkiichchik\|Southern Ki'ich'chik]]  | ~3,500,000      |
+| [[place-northkiichchik\|Northern Ki'ich'chik]]  | ~2,000,000      |
+| **Ki'ich'chik subtotal**                        | **~34,000,000** |
 
 #### Other
 
@@ -99,7 +99,7 @@ Every figure here is **derived from the region and polity notes themselves**, ro
 | Ankaris (west)       | ~72M       |
 | Ankaris (east)       | ~230M      |
 | Zerathia             | ~29M       |
-| K'ich'chik           | ~34M       |
+| Ki'ich'chik          | ~34M       |
 | Kalihara & scattered | ~6M        |
 | **World**            | **~370M**  |
 

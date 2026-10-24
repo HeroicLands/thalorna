@@ -1,0 +1,113 @@
+---
+shortcode: kankul
+name: {full: K'ankul, aliases: []}
+type: affiliation
+subType: polity
+description: Limestone lowlands of sacred-pool sanctuaries, astronomer-priests, and competing city-states—the intellectual heart of Ki'ich'chik civilization.
+tags: [polity]
+data:
+  icon: null
+  templatePriority: null
+  demonym: null
+  epithet: null
+  symbol: null
+  governance:
+    model: monarchy
+    summary: ""
+    ranks:
+      - level: 0
+        title: Exile
+        description: >-
+          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+      - level: 1
+        title: Captive
+        description: >-
+          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+      - level: 2
+        title: Commoner
+        description: >-
+          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+      - level: 3
+        title: Craftsman
+        description: >-
+          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
+      - level: 4
+        title: Warrior
+        description: Taker of captives, whose standing rises with each one and whose dress records them.
+      - level: 5
+        title: Scribe or Priest
+        description: >-
+          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+      - level: 6
+        title: K'anulmah
+        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
+      - level: 7
+        title: Kulmah
+        description: >-
+          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
+      - level: 8
+        title: Ts'enmah
+        description: >-
+          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+    offices:
+      Ts'enmah: >-
+        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
+      Ish'kanmah: >-
+        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
+      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
+      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
+      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
+      P'ilambal: >-
+        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
+      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
+      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
+      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
+      P'ik'ulmah: >-
+        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
+      Ballcourt Keeper: >-
+        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+  seat: kankul2
+  population: null
+  economy: []
+  lore: [humanflk]
+  parents: []
+  relations: {itzanpnthn: aligned}
+  packFolder: kankul
+sohl: {system: {commonSkills: []}}
+
+# terran_analog: Yucatan Mexico and southern mexico through Honduras
+# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+---
+
+## Overview
+
+K'ankul holds the land of the [[place-kankulrgn|K'ankul Region]]. Where [[affiliation-ixilankul|Ish'ilankul]] is the militant heart and the seat of spiritual authority, K'ankul is the realm of knowledge and precision. Here, the Tq'an'ik (priestly initiates) labor for decades to perfect the astronomical tables carved into stone, calculating with near-perfect accuracy the cycles of [K'inish'ilan]{.name data-type="place/celestial"}, the star of dawn and dusk, the precession of the equinoxes, and the great wheel of days that turns once in 5,125 years of cosmic time.
+
+K'ankul's political independence from Ish'ilankul is carefully balanced. While the Ch'alish Tq'an and the [[affiliation-itzanpnthn|Itsani priesthood]] maintain ultimate religious authority, K'ankul's greatest city-states have cultivated sufficient wealth and cultural prestige that they are treated as partners in the management of the faith rather than as mere tributaries. K'ankul's merchants control crucial sea routes along both coasts, and their mathematical and astronomical expertise is essential to the priestly calendar-keepers.
+
+The [Ch'um Ish'lan]{.name data-type="affiliation"} relay network connects K'ankul's major city-states to Ish'ilankul within two days, and the priesthood-controlled coastal white road allows messages to circulate between K'ankul's own cities in a day or two. The Ch'umbal way-stations here are well-maintained and generously staffed—K'ankul's scribal tradition means that the priestly decoding of k'otsel is exceptionally swift, and K'ankul's astronomers frequently use the Speaking Road to transmit time-sensitive observational data to the central dispatch at [Kul'taq'an]{.name data-type="place/settlement"}.
+
+## City-States and Realms
+
+K'ankul's political landscape is dominated by several great city-states, each controlling a network of smaller settlements and agricultural zones.
+
+The K'ankul city-states are intensely competitive in intellectual and cultural achievement. Rather than fielding massive armies, they compete through astronomical discoveries, architectural innovation, and the training of scribes and astronomers. A city-state that announces a new calculation or a new architectural technique becomes the center of pilgrimage and study for scholars from across [[place-kiichchik|Ki'ich'chik]].
+
+The pool-centered spirituality of K'ankul has produced a distinct tradition within the Itsani faith. The Ch'alishbal (ordained priests) of K'ankul place special emphasis on watery sacrifice and on divination through the reading of reflections in the water of a sacred pool. Some of the most powerful priestly families maintain personal relationships with specific sacred pools, regarding them as sacred entities with individual personalities and preferences. The boundary between the practical (managing water resources, maintaining agricultural canals) and the sacred (interpreting pool omens, timing rituals) is intentionally blurred in K'ankul thought.
+
+## See Also
+
+[[affiliation-ixilankul|Ish'ilankul]]
+: The highland plateau realm, supreme in religious authority and military might
+
+[[affiliation-neokbaate|Ne'ok Ba'ate]]
+: The isthmus gateway to the south, connected by K'ankul maritime routes
+
+[[affiliation-xelem|Shelem]]
+: The eastern frontier accessible via K'ankul's coastal trading networks
+
+[[affiliation-itzanpnthn|Itsani Pantheon]]
+: The sacred framework that K'ankul scholars continue to refine and systematize
+
+[[place-kankulrgn|K'ankul Region]]
+: The land K'ankul holds

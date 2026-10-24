@@ -92,7 +92,7 @@ The [[place-nrthrnfrtlrgn|Northern Fertile Region]]
 ### Untouched
 
 The regions south of [[place-nrthrnfrtlrgn|the Fertile crescent]], and the far north and west
-: the Nordlands, Vristwald, Vedyara, Khazryn, Dunhara, K'ich'chik, Iseron, Aurionis, Kalihara and the Zerathian regions. The Tevran has no formal presence in any of them, and the occasional Vylarian merchant is the nearest thing to an institutional footprint. [[affiliation-mrchntclctvvdyr|Vedyara's Merchant Collective]] runs a parallel federation, and for two generations the Tevran has tried without success to negotiate trade-recognition agreements with it.
+: the Nordlands, Vristwald, Vedyara, Khazryn, Dunhara, Ki'ich'chik, Iseron, Aurionis, Kalihara and the Zerathian regions. The Tevran has no formal presence in any of them, and the occasional Vylarian merchant is the nearest thing to an institutional footprint. [[affiliation-mrchntclctvvdyr|Vedyara's Merchant Collective]] runs a parallel federation, and for two generations the Tevran has tried without success to negotiate trade-recognition agreements with it.
 
 ## Structure
 

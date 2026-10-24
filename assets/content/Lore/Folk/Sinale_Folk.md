@@ -131,9 +131,9 @@ Why the Sinale have opened themselves to the Élavendren and no other human peop
 
 The [[affiliation-tantsouempr|Empire of Tantsou]] represents a different kind of relationship—one that the Sinale appear to have entered not out of affinity but under some form of coercion or obligation. The details are obscure even by Sinalean standards, and western scholars know almost nothing about it. What is clear is that the Sinalean enclaves within Tantsou's borders maintain a degree of formal contact with the imperial court that exists nowhere else in the world—not even in Élavendre. Whether this was negotiated, compelled, or arose from circumstances that predate human memory is a question the Sinale will not answer and the [Celestial Bureaucracy]{.name data-type="affiliation/governmental"} considers settled. The arrangement is ancient, and it endures. The Sinale of Tantsou are a case of their own: the empire files them in its caste order, and nothing said of the Sinale elsewhere settles how they stand there.
 
-### K'ich'chik
+### Ki'ich'chik
 
-The Sinale also maintain some form of connection with the peoples of [[place-kchchkcntnnt|K'ich'chik]]—a relationship that is poorly understood by western scholars, who know little of either the Sinale or the K'ich'chik societies in any detail. The nature of this contact—whether it resembles the warmth of the Élavendren relationship, the formality of the Tantsou arrangement, or something else entirely—remains to be explored.
+The Sinale also maintain some form of connection with the peoples of [[place-kiichchik|Ki'ich'chik]]—a relationship that is poorly understood by western scholars, who know little of either the Sinale or the Ki'ich'chik societies in any detail. The nature of this contact—whether it resembles the warmth of the Élavendren relationship, the formality of the Tantsou arrangement, or something else entirely—remains to be explored.
 
 ## See Also
 
@@ -146,8 +146,8 @@ The Sinale also maintain some form of connection with the peoples of [[place-kch
 [[affiliation-tantsouempr|Empire of Tantsou]]
 : Formal contact, possibly coerced; see [[lore-elderraces|Elder Races]]
 
-[[place-kchchkcntnnt|K'ich'chik]]
-: Some form of connection with K'ich'chik society
+[[place-kiichchik|Ki'ich'chik]]
+: Some form of connection with Ki'ich'chik society
 
 [[place-vrystwald|Vristwald Region]]
 : Known to contain Sinalean enclaves

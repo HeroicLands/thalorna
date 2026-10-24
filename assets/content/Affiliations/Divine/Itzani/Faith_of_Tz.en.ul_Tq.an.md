@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -93,9 +93,9 @@ The solstices are the most sacred astronomical events of the solar year. At the 
 
 Between the solstices the god is served by an unbroken rhythm of small observances that the priesthood insists matter as much as the great rites, because the debt accrues daily. Every dawn a Ch'alishbal stands at the pyramid's eastern stair and speaks the sun's name as the first light reaches the summit; if the words are late, the omission is recorded and expiated. Households mark the same hour more modestly, the head of the family pressing an obsidian flake to the earlobe and letting a few drops fall on the threshold. Merchants opening a stall, masons setting a first stone and farmers breaking new ground each give a token of blood, and the day's work is held to be unsanctioned without it.
 
-The **Warden of the Debt** keeps the ledger against which all of this is measured. Blood given is entered in bark-paper registers alongside the celestial events it was meant to answer, and the surplus or shortfall is announced publicly at the close of each twenty-day month. A city in surplus enjoys a season of confidence; a city in deficit sees its festivals lengthened, its captives' sacrifices brought forward, and its lay faithful pressed toward the Debt-Bearer's vow. Foreign observers have noted that the ledger is never audited by anyone outside the priesthood, and Ki'ichek skeptics have occasionally said as much aloud—though rarely twice.
+The **Warden of the Debt** keeps the ledger against which all of this is measured. Blood given is entered in bark-paper registers alongside the celestial events it was meant to answer, and the surplus or shortfall is announced publicly at the close of each twenty-day month. A city in surplus enjoys a season of confidence; a city in deficit sees its festivals lengthened, its captives' sacrifices brought forward, and its lay faithful pressed toward the Debt-Bearer's vow. Foreign observers have noted that the ledger is never audited by anyone outside the priesthood, and Ki'i'chek skeptics have occasionally said as much aloud—though rarely twice.
 
-Vows made to Ts'en'ul Tq'an are the heaviest a Ki'ichek can undertake, because the god is understood to keep his own accounts with perfect precision and infinite patience. A warrior who dedicates a captive and then ransoms him instead has not merely broken faith with a temple but has left a hole in the cosmic reckoning, and the priesthood teaches that such holes are filled from the debtor's own household, in the god's own time and by the god's own choosing.
+Vows made to Ts'en'ul Tq'an are the heaviest a Ki'i'chek can undertake, because the god is understood to keep his own accounts with perfect precision and infinite patience. A warrior who dedicates a captive and then ransoms him instead has not merely broken faith with a temple but has left a hole in the cosmic reckoning, and the priesthood teaches that such holes are filled from the debtor's own household, in the god's own time and by the god's own choosing.
 
 ## Organization
 

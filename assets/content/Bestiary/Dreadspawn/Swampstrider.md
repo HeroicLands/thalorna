@@ -271,7 +271,7 @@ The portage trail comes down through maples to a reedy bay of the lake, where th
 
 # Dossier {#dossier}
 
-The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of [[place-xikulchaklrgn|Shik'ul Ch'akal]] in [[place-nrthrnkchchk|Northern K'ich'chik]], the country of lakes, rivers and portage-routes that the Ha'ik of [[affiliation-xikulchakl|Shik'ul Ch'akal]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of [[place-xikulchaklrgn|Shik'ul Ch'akal]] in [[place-northkiichchik|Northern Ki'ich'chik]], the country of lakes, rivers and portage-routes that the Ha'ik of [[affiliation-xikulchakl|Shik'ul Ch'akal]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -287,7 +287,7 @@ The swampstrider is patient and cunning. It learns its prey's habits, where the 
 
 ## What the Ha'ik Do
 
-The Ha'ik control their waterways with quiet, absolute authority, and K'ich'chik traders who try to use them without permission vanish; what the traders know about the swampstrider comes from the border trading sites, where Ha'ik canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Ha'ik do not kill it. K'ich'chik observers believe it keeps a portage closed to anyone who does not know the way through, and that the Ha'ik prefer it so. Ha'ik healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
+The Ha'ik control their waterways with quiet, absolute authority, and Ki'ich'chik traders who try to use them without permission vanish; what the traders know about the swampstrider comes from the border trading sites, where Ha'ik canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Ha'ik do not kill it. Ki'ich'chik observers believe it keeps a portage closed to anyone who does not know the way through, and that the Ha'ik prefer it so. Ha'ik healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
 
 ## Signs
 

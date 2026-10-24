@@ -238,7 +238,7 @@ The river bank is soft with rain, and a single line of prints runs along it, rou
 
 # Dossier {#dossier}
 
-The Jaguar is the strongest-biting cat, two and a half feet at the shoulder and one hundred fifty to two hundred fifty pounds, killing by crushing the skull, even through a turtle shell. It lives on the river banks and lake shores of the jungle of [[place-xelemrgn|Shelem]], the limestone country of [[place-kankulrgn|K'ankul]], the valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. It is the most important animal of [[place-kchchkcntnnt|K'ich'chik]]: its name is in personal names, warrior titles and places, the jaguar warrior orders are the priest-kings' elite forces, and a jaguar throne marks supreme authority.
+The Jaguar is the strongest-biting cat, two and a half feet at the shoulder and one hundred fifty to two hundred fifty pounds, killing by crushing the skull, even through a turtle shell. It lives on the river banks and lake shores of the jungle of [[place-xelemrgn|Shelem]], the limestone country of [[place-kankulrgn|K'ankul]], the valleys of [[place-ixbaltzakurgn|Ish'bal Tsa'ku]] and the isthmus coasts of [[place-neokbaatergn|Ne'ok Ba'ate]]. It is the most important animal of [[place-kiichchik|Ki'ich'chik]]: its name is in personal names, warrior titles and places, the jaguar warrior orders are the priest-kings' elite forces, and a jaguar throne marks supreme authority.
 
 ## Presentation
 

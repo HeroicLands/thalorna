@@ -3,7 +3,7 @@ shortcode: ankrscntnnt
 name: {full: Ankaris Continent, aliases: []}
 type: place
 subType: region
-description: The largest continent of Thalorna—home to Vylaria, Taruzel, the Nordlands, the K'ich'chik-facing west, and the far-eastern empires of Tantsou and Jenchai.
+description: The largest continent of Thalorna—home to Vylaria, Taruzel, the Nordlands, the Ki'ich'chik-facing west, and the far-eastern empires of Tantsou and Jenchai.
 tags: [continent, ankaris]
 data:
   demonym: Ankarian
@@ -70,7 +70,7 @@ The eastern empires—Tantsou and Vedyara—kept their own reckonings and their 
 
 Ankaris is the commercial heart of Thalorna. Its three great trade systems—the maritime routes of the Vylarian Sea, the overland caravans of the Khazryn and Dunhara, and [[lore-celestialroad|the Celestial Road]] network of the eastern empires—reach every inhabited continent except [[place-isrncntnnt|Iseron]].
 
-Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: the Mídhalión region is genuinely shared between the two, and the Zerathian empires are in continuous diplomatic and commercial contact with the northern shore. To the west, Ankaris's western ports have irregular contact with [[place-klhrcntnnt|Kalihara]], an island some four hundred and fifty to seven hundred miles out and about a week's sail in fair weather, through its tightly regulated coastal trading settlements. Further west still, [[place-kchchkcntnnt|K'ich'chik]] is known to Ankarian scholars largely through secondhand account; direct contact is rare and commercially negligible. The southern continents of [[place-arnscntnnt|Aurionis]] and Iseron are more legend than destination for all but a handful of Ankarian expeditions.
+Across the Vylarian Sea, Ankaris is connected to [[place-xerathia|Zerathia]]: the Mídhalión region is genuinely shared between the two, and the Zerathian empires are in continuous diplomatic and commercial contact with the northern shore. To the west, Ankaris's western ports have irregular contact with [[place-klhrcntnnt|Kalihara]], an island some four hundred and fifty to seven hundred miles out and about a week's sail in fair weather, through its tightly regulated coastal trading settlements. Further west still, [[place-kiichchik|Ki'ich'chik]] is known to Ankarian scholars largely through secondhand account; direct contact is rare and commercially negligible. The southern continents of [[place-arnscntnnt|Aurionis]] and Iseron are more legend than destination for all but a handful of Ankarian expeditions.
 
 ## See Also
 

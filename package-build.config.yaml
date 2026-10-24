@@ -25,7 +25,7 @@ languages:
     kali: { tag: art-x-kali, note: skill-kalihrlng }
     khaz: { tag: art-x-khaz, note: skill-khazarlng }
     khel: { tag: art-x-khel, note: skill-khelathlng }
-    kich: { tag: art-x-kich, note: skill-kicheklng }
+    kiichek: { tag: art-x-kiichek, note: skill-kiichek }
     nord: { tag: art-x-nord, note: skill-nordmalng }
     nyal: { tag: art-x-nyal, note: skill-nyalbnlng }
     okha: { tag: art-x-okha, note: skill-okharclng }

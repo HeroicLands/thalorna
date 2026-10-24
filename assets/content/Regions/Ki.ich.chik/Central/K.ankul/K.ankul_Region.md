@@ -1,0 +1,59 @@
+---
+shortcode: kankulrgn
+name: {full: K'ankul Region, aliases: []}
+type: place
+subType: region
+description: "The limestone lowlands of sacred pools, jungle and coral coast that are the land of K'ankul, in Central Ki'ich'chik."
+tags: [region]
+data:
+  demonym: null
+  lore: [humanflk]
+  parents: [centralkiichchik]
+  population: null
+  packFolder: kankul
+  government: kankul
+
+# terran_analog: Ne' Ch'akalkul is Chactún; [[place-tzokilkul|Ts'okilkul]], the Walled City, is Tulum; Lishep'ikum is Uxmal; Ts'ilil Ne'ts'ik, the Island of Swallows, is Cozumel; the Ha'nal Ch'upul is the Usumacinta, in Ch'ol country; K'inish'ilan is Venus and its cycle the Venus cycle; Ch'al Ts'umaq is Xibalba; Yucatan Mexico and southern mexico through Honduras; the limestone platform is the Yucatan Peninsula
+# terran_analog: the sacred pools (ch'uqil) are cenotes; the slash-and-burn maize plots are the milpa
+---
+
+## Overview
+
+K'ankul Region is the land of [[affiliation-kankul|K'ankul]], and lies within [[place-centralkiichchik|Central Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
+
+K'ankul is the jewel of the eastern lowlands—a realm of limestone plains, sinkhole-studded jungles, and crystalline coastal waters where Ki'ich'chik civilization achieved its most refined expressions of mathematics, astronomy, and architectural grace. The cities of K'ankul seem to have been designed as monuments to the order of the heavens—every pyramid, every plaza, every canal aligned to cardinal directions or to the rising and setting points of celestial bodies.
+
+The sacred pools (_ch'uqil_)—the sinkholes where the limestone bedrock collapses to reveal underground rivers and pools—hold a spiritual significance that exceeds even the temples of Ish'ilankul. The K'ankul priesthood teaches that the sacred pools are the mouths of [[place-chaltzumaq|Ch'al Ts'umaq]], the underworld through which the sun travels each night on its journey to rebirth at dawn. To descend into a sacred pool is to touch the boundary between the living world and the realm of [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]], god of death; thus, the sacred pools are sites of the most profound ritual magic, where water is poured as offering and where the blood of sacrifices flows downward to feed the god of death and sustain his covenant with [[lore-tzenultqandty|Ts'en'ul Tq'an]], god of order and the sun's daily return.
+
+## Geography
+
+K'ankul comprises the great limestone platform that forms the eastern lowlands and extends southward into the river valleys of the interior. The topography is deceptive—from the surface, the land appears to be low and flat, rarely rising more than 200 meters above sea level. But beneath the surface lies a hidden world: vast networks of underground rivers, chambers, and sacred pools carved by millennia of water percolating through soluble limestone. These underground waterways, and the sacred pools that provide access to them, are the lifeblood of K'ankul, sustaining agriculture and settlement patterns in ways that outsiders from Ish'ilankul's well-watered highlands often struggle to understand.
+
+The visible landscape is dominated by dense tropical jungle, thorny scrubland in the drier regions, and coastal mangrove swamps. The major rivers—the [Ha'nal Ch'upul]{.name data-type="place/feature"}, the White River, milky with the limestone it carries, and numerous smaller tributaries—flow either northward to the great bays or southward into the interior basins. The climate is hot and humid year-round, with a pronounced dry season (the second through fifth months) when the sacred pools become crucial and even more sacred. Coastal K'ankul boasts hundreds of protected harbors and anchorages suitable for the great canoes and coastal trading vessels that K'ankul merchants have mastered; the coast is a highway connecting K'ankul to [[place-neokbaatergn|Ne'ok Ba'ate]] in the south and to the distant western coasts where other great civilizations have begun to rise.
+
+The jungle that blankets K'ankul was not always primary forest; centuries of deliberate landscape management have transformed it into a mosaic of productive and sacred zones. The greatest cities are surrounded by carefully maintained agricultural zones where slash-and-burn maize plots rotate in a 7-year cycle with regenerating forest. Beyond these zones lie wilderness areas reserved for hunting and the gathering of specialty woods, rubber, and medicinal plants. The K'ankul people have learned to read the jungle as the priests read the stars—as a complex, ordered system governed by sacred principles and celestial cycles.
+
+## City-States and Realms
+
+The greatest include [Ne' Ch'akalkul]{.name data-type="place/settlement"} (the "Great Water Seat"), whose pyramids overlook a vast field of sacred pools and whose astronomers are reputed to have refined the calculation of the [K'inish'ilan]{.name data-type="place/celestial"} cycle—the round of the bright star that shows only at the edges of the day, rising before the sun or setting after it—to an accuracy of within two days per hundred years; [[place-tzokilkul|Ts'okilkul]], the Walled City, a coastal fortress on the sea-cliffs whose ramparts command both the sea trade and the overland routes to the interior; and [Lishep'ikum]{.name data-type="place/settlement"} (the "Thrice-Built"), a sprawling complex of inter-connected pyramid groups built atop an artificial platform to maximize astronomical sightlines.
+
+The great market plazas of K'ankul, while less frenetic than those of Ish'ilankul, are renowned for the quality of their merchant stalls and the rarity of goods available—feathered headdresses, precious woods, medicinal herbs, and above all, books. K'ankul is the center of the scribal arts; texts written and illuminated in K'ankul are prized throughout the known world.
+
+## Trade
+
+K'ankul's control of sea routes and its monopoly on certain luxuries—particularly rare books, astronomical instruments, and the finest carved jade—makes it a trading power second only to Ish'ilankul. K'ankul merchants have established trading posts and alliances along the coasts as far south as [[affiliation-xelem|Shelem]] and northward to the trading networks of the great northern gulf. The harbor of Ts'okilkul and [[place-tzililnetzik|Ts'ilil Ne'ts'ik]], the Island of Swallows—a [[affiliation-neokbaate|Ne'ok Ba'ate]] port that K'ankul's ships trade through rather than one K'ankul holds—handle an enormous volume of K'ankul cargo, with merchant vessels arriving bearing salt fish, bird feathers, exotic woods, and luxury resins from throughout the Ki'ich'chik world.
+
+Salt is a crucial K'ankul export—produced by evaporation in coastal salt pans, it is exchanged for the grain surpluses of Ish'ilankul and the highland luxury goods. Honey, harvested from stingless bees, flows northward and southward to distant markets. Most valuable of all are the astronomical texts and the services of trained astronomers and mathematicians, who travel to the great temples of Ish'ilankul and beyond to conduct observations and maintain the sacred calendar. A K'ankul scribe or mathematician can command extraordinary compensation, for their knowledge is literally worth its weight in jade.
+
+The system of sacred pools itself generates trade: the rare minerals and salts that precipitate in the water of a sacred pools, the cave pearls and stone formations that are believed to hold mystical power, and the underground waters themselves (which are traded in sealed containers as sacred offerings) flow into the hands of K'ankul merchant families who have inherited the right to harvest specific sacred pools. Pilgrims journey to K'ankul specifically to obtain these pool-touched materials, viewing them as objects of profound spiritual power.
+
+## See Also
+
+[[affiliation-kankul|K'ankul]]
+: The realm that holds this land
+
+[[place-centralkiichchik|Central Ki'ich'chik]]
+: The enclosing region
+
+[[place-kankul2|K'ankul]]
+: Seat of K'ankul

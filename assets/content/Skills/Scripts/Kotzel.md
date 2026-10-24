@@ -3,7 +3,7 @@ shortcode: ktzlcrdscrpt
 name: {full: K'otsel Cord Script, aliases: []}
 type: skill
 subType: script
-description: "The knotted cord-records of the K'ich'chik—tribute, tallies and day-counts carried by runners and read by priests."
+description: "The knotted cord-records of the Ki'ich'chik—tribute, tallies and day-counts carried by runners and read by priests."
 tags: []
 data: {icon: icon-speaking, templatePriority: null, packFolder: script}
 sohl:
@@ -19,7 +19,7 @@ sohl:
 
 The K'otsel Cord Script—called K'otsel, "the knotted thing," from _k'ots-_, to knot—is writing that is tied rather than drawn: a hanging cord from which subsidiary cords depend, the record carried in the **color of the thread, the kind of knot, and the position of the knot along the cord**. It encodes numbers natively and everything else by convention—tribute owed and delivered, storehouse tallies, census, the day-counts, and the standing formulae that let a runner carry a message he does not himself understand.
 
-It is a genuine script and is learned as one, but it is not read aloud in [[skill-kicheklng|Ki'ichek]] the way glyphs are; a bundle is _worked through_, and the reader needs the conventions of the office that tied it as much as the language.
+It is a genuine script and is learned as one, but it is not read aloud in [[skill-kiichek|Ki'i'chek]] the way glyphs are; a bundle is _worked through_, and the reader needs the conventions of the office that tied it as much as the language.
 
 ## How a cord records
 

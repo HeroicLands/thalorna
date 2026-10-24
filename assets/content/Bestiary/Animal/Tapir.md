@@ -246,7 +246,7 @@ The jungle trail is worn smooth and narrow, a trough in the leaf litter that run
 
 # Dossier {#dossier}
 
-The Tapir is the largest land animal of the lowland forests, four to seven hundred pounds, barrel-bodied and trunk-nosed, living on the forest floor, river margins and wetlands of [[place-xelemrgn|Shelem]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. It is shy, comes out at night and avoids a fight, and swims well. In [[place-kchchkcntnnt|K'ich'chik]] it is the oldest animal, the forest's first inhabitant, tied to water and the lower world, and harming one needlessly is bad manners and not a crime. It is prey for the jaguar, and it raids crops at the edge of the clearings.
+The Tapir is the largest land animal of the lowland forests, four to seven hundred pounds, barrel-bodied and trunk-nosed, living on the forest floor, river margins and wetlands of [[place-xelemrgn|Shelem]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. It is shy, comes out at night and avoids a fight, and swims well. In [[place-kiichchik|Ki'ich'chik]] it is the oldest animal, the forest's first inhabitant, tied to water and the lower world, and harming one needlessly is bad manners and not a crime. It is prey for the jaguar, and it raids crops at the edge of the clearings.
 
 ## Presentation
 

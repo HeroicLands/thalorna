@@ -277,7 +277,7 @@ From the rim of the caldera the lake of lava below is crusted black and cracking
 
 # Dossier {#dossier}
 
-The Embermaw is a great fire elemental: a spirit of the fire-aspect that manifests as a twelve-foot reptile of living lava and burning rock, drawn to volcanoes and places where the earth's own fire comes close to the surface. It feeds on that fire, it attacks almost anything that comes into its ground, and it ruins the land round it simply by being there. It is the larger and more dangerous cousin of the [[being-embrhnd|Emberhound]]. One holds a caldera among the volcanic peaks along the eastern edge of [[place-ixilankulrgn|Ish'ilankul]], the highland heart of the K'ich'chik faith, whose eruptions the priests remember as moments when the gods grew angry. Like every elemental, it can be destroyed in the material world, and it comes back.
+The Embermaw is a great fire elemental: a spirit of the fire-aspect that manifests as a twelve-foot reptile of living lava and burning rock, drawn to volcanoes and places where the earth's own fire comes close to the surface. It feeds on that fire, it attacks almost anything that comes into its ground, and it ruins the land round it simply by being there. It is the larger and more dangerous cousin of the [[being-embrhnd|Emberhound]]. One holds a caldera among the volcanic peaks along the eastern edge of [[place-ixilankulrgn|Ish'ilankul]], the highland heart of the Ki'ich'chik faith, whose eruptions the priests remember as moments when the gods grew angry. Like every elemental, it can be destroyed in the material world, and it comes back.
 
 ## Presentation
 

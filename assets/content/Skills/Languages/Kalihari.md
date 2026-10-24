@@ -6188,7 +6188,7 @@ Five distinct vowels, each pronounced with clarity and sometimes elongated for e
 
 ### Stress and Prosody
 
-Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kicheklng|Ki'ichek]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
+Stress typically falls on the **penultimate (second-to-last) syllable**, creating a regular rhythmic pattern. The language employs **tonal variation** more subtly than [[skill-kiichek|Ki'i'chek]]: rising tones at phrase endings signal questions or openness; falling tones close statements. Poetic and ceremonial speech employ exaggerated tonal variation that approaches singing.
 
 Kalihari is often described as "musical" because pitch and rhythm are fundamental to comprehension, not mere inflection.
 

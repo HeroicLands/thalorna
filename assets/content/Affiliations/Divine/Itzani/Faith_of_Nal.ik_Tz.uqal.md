@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [naliktzuqal]}}
 
 **Domain:** Dreams, Visions, Prophecy, and the Moon
 
-The Faith of Nal'ik Ts'uqal venerates [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], who is unique among the Itsani gods: she is one of the few who does not demand blood, accepting instead offerings of cacao, flowers, incense, and the spoken word. In its theology, she is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she is powerful, for she governs the visions that shape the decisions of kings, the prophecies that alter wars, and the dreams that provide glimpses of possible futures. In Ki'ichek understanding, dreams are not mere illusions but real perceptions of reality—alternate timelines, possible futures, the movements of the gods through the celestial spheres. Her celestial influence is most powerful during the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
+The Faith of Nal'ik Ts'uqal venerates [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], who is unique among the Itsani gods: she is one of the few who does not demand blood, accepting instead offerings of cacao, flowers, incense, and the spoken word. In its theology, she is gentle where other deities are fearsome, and she teaches and illuminates where others demand sacrifice. Yet she is powerful, for she governs the visions that shape the decisions of kings, the prophecies that alter wars, and the dreams that provide glimpses of possible futures. In Ki'i'chek understanding, dreams are not mere illusions but real perceptions of reality—alternate timelines, possible futures, the movements of the gods through the celestial spheres. Her celestial influence is most powerful during the dark of the moon, when the boundary between waking and dream grows thin and visions are most reliable.
 
 ## Worship
 
@@ -101,7 +101,7 @@ The Ts'uqal'ob (dream-keepers) operate vast dream-temples—places of comfort an
 
 The priesthood maintains the [Codex Ts'uqal]{.name data-type="lore/literature"}, a vast library of recorded dreams organized by symbol, outcome, and reliability. Over centuries, patterns emerge—dreams of jaguars precede moments requiring courage, dreams of water concern fertility or danger, dreams of fire involve passion or divine intervention. A **Reader of Symbols** interprets against those patterns and is required to state the reliability with the reading, which is the branch's central discipline and the source of its credibility: it will say when it does not know, and it says so often.
 
-The Ts'uqal'ob are selected for artistic sensitivity and psychological insight rather than military capability. Their training emphasizes pattern recognition, lucid dreaming, and compassion. The branch takes women and men in roughly equal number, takes them from any rank, and is the usual refuge of the Ki'ichek who cannot stomach the blood the other branches require—a fact the other branches note without warmth.
+The Ts'uqal'ob are selected for artistic sensitivity and psychological insight rather than military capability. Their training emphasizes pattern recognition, lucid dreaming, and compassion. The branch takes women and men in roughly equal number, takes them from any rank, and is the usual refuge of the Ki'i'chek who cannot stomach the blood the other branches require—a fact the other branches note without warmth.
 
 Its political weight is real but indirect. A **Ch'alish Ts'uqal** who carries a vision to the Ts'enmah can move a decision no other priest could touch, and every branch knows it; consequently the dream-temples are watched, and a reading that happens to favor a faction is examined with great care by everyone else. The branch's defense is the archive itself, which records the reading and the outcome alike and is open to the priesthood.
 

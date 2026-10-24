@@ -495,6 +495,23 @@ In [[skill-jurthatlng|Jurthat]], _ui_ is _oo-ee_ run into one syllable, as in _g
 
 In [[skill-kalihrlng|Kalihari]], _ao_ is _ah-oh_ run into one syllable, near the _ow_ of _cow_, as in _luvao_.[^kalihari-ao]
 
+## Ki'i'chek and Ki'ich'chik {#kiichek}
+
+The language name [[skill-kiichek|Ki'i'chek]] and the continent name [[place-kiichchik|Ki'ich'chik]] have the following pronunciations.
+
+| Name                    | Exact pronunciation | Reading          |
+| ----------------------- | ------------------- | ---------------- |
+| Ki'i'chek — language    | /kɪʔˈɪʔtʃɛk/        | kih–**IH**–chek  |
+| Ki'ich'chik — continent | /kɪʔˈɪtʃʔtʃɪk/      | kih–**ICH**–chik |
+
+Both names have three syllables and stress the second. In these two names, _i_ is the short vowel of _bit_, and _e_ is the vowel of _bet_. The _k_ and _ch_ have their ordinary sounds. Each apostrophe marks a separate catch in the throat: after each of the first two vowels in the language name, and after the first vowel and the first _ch_ in the continent name. Say the consonant and then the catch separately.
+
+The ordinary penultimate-stress rule supplies the stress in these three-syllable readings, so no acute is needed. An apostrophe marks the catch; it does not supply an additional vowel.
+
+Ordinary Ki'i'chek words follow the common vowel and stress rules above; the short _i_ in these two names is a specific exception. Glottal stops are frequent: _ne'_, _ish'bal_ and _k'ayik_. Read each apostrophe as a catch, including after a consonant; an ejective pronunciation is not required. The apostrophe adds no syllable. Use the ordinary _ch_, _sh_ and _ts_ sounds, and a plain _k_ is fine for _q_.
+
+Ritual speech may rise at the end of a phrase, but pitch does not change the word's identity. Ordinary transcription requires no rising or falling tone marks; questions are expressed through the language's words. An acute retains its usual role of marking exceptional stress.
+
 ## Nordmal
 
 [[skill-nordmalng|Nordmal]] stresses the first syllable of every word. An acute marks any other stressed syllable. _hl_ is a breathy _l_, as in _hlask_.[^nordmal-hl]

@@ -97,11 +97,11 @@ Standing is conferred directly and without ceremony. A **Petitioner** who is ans
 
 The one thing the veneration does keep in writing is the **roll of the lost**: the names of ts'uqilob the owl claims were failed by the orthodox funerary rites and left to degrade in the labyrinth. The **Namer of the Lost** maintains it, and it is read aloud to the grieving. It is the veneration's whole argument in a single document, and the orthodox priesthood has never produced a satisfactory answer to it—because the roll is not, so far as anyone has been able to demonstrate, false.
 
-The owl asks no blood. This is remarked on constantly by those who join, and it is the point: a Ki'ichek who has spent a lifetime paying a debt that never closes is being offered a god who says the debt was fraudulent.
+The owl asks no blood. This is remarked on constantly by those who join, and it is the point: a Ki'i'chek who has spent a lifetime paying a debt that never closes is being offered a god who says the debt was fraudulent.
 
 ## The Threshold-Held
 
-Its rarest gift is also its most dangerous. The owl can intercept a soul at the boundary and hold it there rather than releasing it back into a ruined body—the soul returned whole, intact, and no longer counted among the living. These are the **Threshold-Held**, and on [[place-kchchkcntnnt|K'ich'chik]] they walk as [[being-tereb|terebu]]: intelligent, purposeful, retaining identity and gaining real power through undeath.
+Its rarest gift is also its most dangerous. The owl can intercept a soul at the boundary and hold it there rather than releasing it back into a ruined body—the soul returned whole, intact, and no longer counted among the living. These are the **Threshold-Held**, and on [[place-kiichchik|Ki'ich'chik]] they walk as [[being-tereb|terebu]]: intelligent, purposeful, retaining identity and gaining real power through undeath.
 
 Nothing about the process is generous. The owl holds the soul; the soul does not hold itself, and what it is held by is a being that has already decided the cosmic order is a lie worth breaking. A Threshold-Held who ceases to be useful is not destroyed. It is simply released, at a time the owl chooses, into the labyrinth it was promised it would never have to enter.
 

@@ -45,7 +45,7 @@ data:
             how: >-
               an enclave stood hidden in the deep interior until a necromancer destroyed it and imprisoned the spirits of everyone in it, which is an open wound among the Firstborn
             knowledge: named
-          - place: place-kchchkcntnnt
+          - place: place-kiichchik
             how: >-
               some form of connection is maintained with the peoples here, and western scholarship knows neither side well enough to say what it is
             knowledge: unlinked

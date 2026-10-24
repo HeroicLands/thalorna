@@ -49,11 +49,11 @@ This note maps the languages spoken across [[place-worldthlrn|Thalorna]], the po
 | **Nyáluban**                   | [[affiliation-nylbtrblntn\|Nyáluba Tribal Nation]]  | [[skill-nyalbnlng\|Nyaluban Language]]  | The language of the southern tribal nation. Oral tradition with drum-and-tone communication over distances.                                                                                                                                             |
 | **Ekpelu**                     | [[place-cntrlrnfrsts\|Central Rainforests]]         | [[skill-ekpelulng\|Ekpelu Language]]    | The common tongue of the forest peoples: small, open and unwritten, spoken with a different accent and different words for the sacred by each tradition.                                                                                                |
 
-## K'ich'chik
+## Ki'ich'chik
 
-| Language     | Spoken In                                          | Reference                              | Notes                                        |
-| ------------ | -------------------------------------------------- | -------------------------------------- | -------------------------------------------- |
-| **Ki'ichek** | All [[place-kchchkcntnnt\|K'ich'chik]] city-states | [[skill-kicheklng\|Ki.ichek Language]] | A complex language with hieroglyphic script. |
+| Language      | Spoken In                                        | Reference                             | Notes                                        |
+| ------------- | ------------------------------------------------ | ------------------------------------- | -------------------------------------------- |
+| **Ki'i'chek** | All [[place-kiichchik\|Ki'ich'chik]] city-states | [[skill-kiichek\|Ki'i'chek Language]] | A complex language with hieroglyphic script. |
 
 ## Other
 
@@ -83,7 +83,7 @@ Eastern Isolates
 Elder Tongues
 : [[skill-sinalelng|Sinale Language]] and [[skill-khazarlng|Khazari Language]] share a common ancestor that predates all human language on Thalorna. The two branches diverged long before human settlement.
 
-Ki'ichek
+Ki'i'chek
 : An independent language family with no known relatives on other continents.
 
 Isolates
@@ -103,8 +103,8 @@ A script is not a language. Most of Thalorna's tongues are written in a script t
 | [[skill-qalzscrscrpt\|Qalezu Script]]         | Abjad                                  | Au'Khelathu and the settled desert courts                                     | Khelathi, everything administrative and commercial; Dunhari and Atarzadi where they are written |
 | [[skill-vdykshrscrpt\|Vedyakshara]]           | Syllabary                              | Vedyara                                                                       | Classical Vedyari and the vernaculars                                                           |
 | [[skill-tengchouscript\|Teng Chou]]           | Logographic                            | Tantsou and Jenchai                                                           | Tantsou **and** Jurthati—one script, two languages                                              |
-| [[skill-chlxplmscrpt\|Ch'alish P'ilam]]       | Logographic                            | K'ich'chik                                                                    | Ki'ichek                                                                                        |
-| [[skill-ktzlcrdscrpt\|K'otsel]]               | Knotted cord                           | K'ich'chik                                                                    | Tribute, tallies and day-counts; priest-held                                                    |
+| [[skill-chlxplmscrpt\|Ch'alish P'ilam]]       | Logographic                            | Ki'ich'chik                                                                   | Ki'i'chek                                                                                       |
+| [[skill-ktzlcrdscrpt\|K'otsel]]               | Knotted cord                           | Ki'ich'chik                                                                   | Tribute, tallies and day-counts; priest-held                                                    |
 | [[skill-clthndscrpt\|Veldikko]]               | Featural                               | Sinale enclaves, and the Áelendan highlands                                   | Sinale, and Áelendi in a borrowed hand                                                          |
 | [[skill-drthrkscrpt\|Pirzath]]                | Angular carved form; flowing hand form | Khazari holds                                                                 | Khazari                                                                                         |
 | [[skill-thuravarkscript\|Thuravark]]          | Runic                                  | The Nordlands                                                                 | Nordmal, for every kind of writing                                                              |

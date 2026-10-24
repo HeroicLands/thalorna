@@ -2,7 +2,7 @@
 shortcode: kankul
 name: {full: "K'ankul"}
 type: folder
-data: {parent: {default: polities, journals: kichchik}, color: "#4CAF50"}
+data: {parent: {default: polities, journals: kiichchik}, color: "#4CAF50"}
 ---
 
-This folder gathers the notes of K'ankul, a polity of [[place-cntrlkchchk|central K'ich'chik]]. Its members are the [[affiliation-kankul|K'ankul]] affiliation and the [[place-kankulrgn|K'ankul Region]]. It is filed with the polities among the affiliations, and its journals appear under K'ich'chik.
+This folder gathers the notes of K'ankul, a polity of [[place-centralkiichchik|central Ki'ich'chik]]. Its members are the [[affiliation-kankul|K'ankul]] affiliation and the [[place-kankulrgn|K'ankul Region]]. It is filed with the polities among the affiliations, and its journals appear under Ki'ich'chik.

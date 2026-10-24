@@ -25,7 +25,7 @@ The slope is held by the lineage [Theinuvael]{.name data-type="affiliation/linea
 
 ## What Is Seen from It
 
-Thal'ari looks west over the open ocean. Below it the slopes fall steeply to the western coast, and offshore the reefs show as lines of broken water where the currents set across the swell. There is no land in sight, and none in that direction short of [[place-kchchkcntnnt|K'ich'chik]]. The saddle above is in mist most mornings, and the sanctuary often stands in it.
+Thal'ari looks west over the open ocean. Below it the slopes fall steeply to the western coast, and offshore the reefs show as lines of broken water where the currents set across the swell. There is no land in sight, and none in that direction short of [[place-kiichchik|Ki'ich'chik]]. The saddle above is in mist most mornings, and the sanctuary often stands in it.
 
 ## The Cost of Reaching It
 

@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -83,7 +83,7 @@ sohl: {system: {commonSkills: [ixilanchalix]}}
 
 **Domain:** Knowledge, Wisdom, Writing, The Calendar, Astronomy
 
-The Faith of Ish'ilan Ch'alish venerates [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess of knowledge, wisdom, and the sacred sciences—particularly the astronomical knowledge through which the Ki'ichek understand the cosmos and maintain the celestial calendar. She is also the goddess of writing and the sacred codices of bark-paper. In cosmological myth, Ish'ilan Ch'alish was present at the creation of the world itself, composing the very first codex—a perfect record of creation written in the language of the stars, in planetary conjunction and stellar alignment that would repeat eternally. In this theology, all subsequent human calendars are imperfect copies of her original. The calendar itself is held to be her sacred language—the means through which the goddess speaks to mortals through celestial signs. Every celestial event is read as a word or phrase in her infinite discourse.
+The Faith of Ish'ilan Ch'alish venerates [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess of knowledge, wisdom, and the sacred sciences—particularly the astronomical knowledge through which the Ki'i'chek understand the cosmos and maintain the celestial calendar. She is also the goddess of writing and the sacred codices of bark-paper. In cosmological myth, Ish'ilan Ch'alish was present at the creation of the world itself, composing the very first codex—a perfect record of creation written in the language of the stars, in planetary conjunction and stellar alignment that would repeat eternally. In this theology, all subsequent human calendars are imperfect copies of her original. The calendar itself is held to be her sacred language—the means through which the goddess speaks to mortals through celestial signs. Every celestial event is read as a word or phrase in her infinite discourse.
 
 ## Worship
 
@@ -93,13 +93,13 @@ Observation is worship of the same kind. A night spent at the sighting stones re
 
 Blood is given, since no Itsani god is served without it, but in small and precise quantities and at astronomically fixed moments—a few drops at the instant of a conjunction, offered on the page rather than at an altar. The branch's lay devotees are scribes, surveyors, merchants who keep accounts, and the parents of children showing an early head for figures, who bring them to the observatory steps at the new year in hope of a place.
 
-The **Reckoner of Conjunctions** issues the auspicious and forbidden days to every other branch and, through them, to the city. This is the point at which the goddess's quiet worship becomes the most consequential act in Ki'ichek public life: no seed is planted, no war declared, no marriage consummated and no building begun on a day the Reckoner has not opened. The calculations are published as conclusions, never as workings.
+The **Reckoner of Conjunctions** issues the auspicious and forbidden days to every other branch and, through them, to the city. This is the point at which the goddess's quiet worship becomes the most consequential act in Ki'i'chek public life: no seed is planted, no war declared, no marriage consummated and no building begun on a day the Reckoner has not opened. The calculations are published as conclusions, never as workings.
 
 ## Organization
 
 Her priesthood maintains sophisticated astronomical observatories at pyramid peaks, containing aligned stone monoliths marking solstice positions, ch'umbal ts'uqal (moon-houses) tracking the lunar cycle, and sighting devices for planetary observation. The senior priest, the Ish'tq'an (Star-Voice), must possess expertise in mathematics and astronomy—it is not enough to be well-born. This meritocratic requirement makes Ish'ilan Ch'alish's temples somewhat more open than other branches, and it is not unusual for a Ch'alishbal astronomer to rise to high rank despite relatively humble birth.
 
-Advancement is by examination, conducted in the open before the assembled priests of the observatory: a candidate is given a set of recorded observations and asked to derive from them a prediction that will be checked against the sky. A failed prediction is recorded alongside the candidate's name and is not expunged. The branch is thoroughly aware that this makes it unlike every other institution in Ki'ichek society, and it guards the practice fiercely, on the grounds that a hierarchy of birth would within two generations be unable to compute an eclipse.
+Advancement is by examination, conducted in the open before the assembled priests of the observatory: a candidate is given a set of recorded observations and asked to derive from them a prediction that will be checked against the sky. A failed prediction is recorded alongside the candidate's name and is not expunged. The branch is thoroughly aware that this makes it unlike every other institution in Ki'i'chek society, and it guards the practice fiercely, on the grounds that a hierarchy of birth would within two generations be unable to compute an eclipse.
 
 The most sacred codices are kept in ish'ilan ch'umbal (star-houses), consulted only by authorized priests. The **Keeper of the Star-Houses** holds the authorization list and is, in consequence, one of the most petitioned officials in the city; access to the archive is the branch's chief currency in its dealings with the others, and it is spent deliberately.
 

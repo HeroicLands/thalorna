@@ -196,7 +196,7 @@ test("Kalihari keeps the complete original stock, body and reserved interpretati
         /## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u,
         "",
     );
-    assert.equal(hash(body), "a9fe33b94ed05f3329b1ffae160a770b7358762ab0a6679dab3356888b3df986");
+    assert.equal(hash(body), "08e6d34597f552fe19f3d0526bb713ae21b527f22c194515b2495762ae828b2c");
     const oldData = {
         ...language.fm.data,
         words: originalWords,

@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -89,7 +89,7 @@ The Faith of K'anish Ha'kan teaches that in the beginning, before even the Four 
 
 The planting season is marked by the [Chuqtik]{.name data-type="lore/custom"} ceremony, in which farmers gather at temples carrying seeds of maize, cacao, and beans for priestly blessing. The seed is not merely blessed but inspected: the Ul'omal turns it in his hands, rejects what is poor, and issues sound seed from the temple's own stores in its place. The rite is therefore also the branch's chief instrument of agricultural policy, and a farmer who arrives with bad seed leaves with good seed and a debt.
 
-The harvest festivals are the most lavish celebrations in the Ki'ichek calendar—temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The Ts'enmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'ichek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
+The harvest festivals are the most lavish celebrations in the Ki'i'chek calendar—temples distribute food freely, markets overflow, and even slaves eat from the communal stores. The Ts'enmah themselves process to the temples not as sovereigns but as supplicants, carrying sheaves of maize. It is the one day of the Ki'i'chek year on which the ordinary hierarchy is publicly inverted, and the priesthood is careful to stage the inversion in full view: the king walks, the Speaker of the Sheaves receives him standing, and the food is given out before any of it is offered.
 
 Everyday devotion to K'anish Ha'kan is domestic and constant. The first tortilla of a meal is broken and a fragment set aside; a kernel dropped on the floor is picked up and touched to the forehead rather than swept away, since to tread on maize is to tread on the substance of one's own body. Bloodletting in his honor is light—a few drops on the seed at planting, on the first ear at harvest—and the god is understood to prefer the labor to the blood.
 

@@ -59,7 +59,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-_Not to be confused with [[affiliation-kayikchalix|K'ayik Ch'alish]], the Sacred Flame of the [[affiliation-itzanpnthn|Itsani pantheon]] on K'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._
+_Not to be confused with [[affiliation-kayikchalix|K'ayik Ch'alish]], the Sacred Flame of the [[affiliation-itzanpnthn|Itsani pantheon]] on Ki'ich'chik. The two gods share an epithet and a domain and are otherwise unrelated._
 
 The Faith of Ataros teaches that [[lore-atarosdty|Ataros]] is unique among the deities of the [[affiliation-ashanpnthn|Ashaian pantheon]]—not merely a god among gods, but the visible, tangible presence through which all the other gods make themselves known to the world. Fire is transformation incarnate: it consumes the raw and makes it useful, destroys the corrupt and renders the world clean, illuminates darkness, provides warmth that sustains life in the killing deserts and steppes. Every sacred fire that burns in every temple from the marble palaces of [[affiliation-kngdmmrdd|Amradad]] to the humblest nomadic camp is understood as a physical manifestation of Ataros himself, a god made present in tangible, knowable form. When the Ashaian faithful gather around the sacred fire to pray, they are not merely using fire as a symbol—they are communing directly with divinity. The smoke that rises from the altar carries prayers to the heavens. The flames that dance respond to the fervor of the faithful. The ashes that remain are the god's blessing, to be collected and preserved as relics of divine presence.
 

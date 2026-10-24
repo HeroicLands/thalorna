@@ -3,7 +3,7 @@ shortcode: xaqikhanal
 name: {full: "Faith of Shaq'ik Ha'nal", aliases: [The Blossom of Living Waters, "Shaq'ik Ha'nal"]}
 type: affiliation
 subType: faithtradition
-description: "Fertility, water and healing—the newest of the Ten, guardian of the sacred pools, whose almost entirely female priesthood are the finest physicians in Ki'ichek civilization."
+description: "Fertility, water and healing—the newest of the Ten, guardian of the sacred pools, whose almost entirely female priesthood are the finest physicians in Ki'i'chek civilization."
 tags: [itzani, religion]
 data:
   banner: faithbnr
@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -89,9 +89,9 @@ The Faith of Shaq'ik Ha'nal venerates [[lore-xaqikhanaldty|Shaq'ik Ha'nal]], the
 
 ## Worship
 
-Her worship permeates Ki'ichek daily life. Every morning, mothers bring children to springs or sacred pools for anointing and prayers for health. Young women desiring to conceive make pilgrimages to sacred pools for ritual bathing. Healers perform cleansing rituals with blessed water before treating the sick.
+Her worship permeates Ki'i'chek daily life. Every morning, mothers bring children to springs or sacred pools for anointing and prayers for health. Young women desiring to conceive make pilgrimages to sacred pools for ritual bathing. Healers perform cleansing rituals with blessed water before treating the sick.
 
-The most sacred moment of a child's life comes at birth, when a midwife—understood as an earthly representative of Shaq'ik Ha'nal—guides the new person into existence. The first thing a newborn receives is not food but water on the lips, consecrating the child to the goddess. This is the rite that makes a Ki'ichek Water-Marked and so a member of the faith, and it is the only Itsani sacrament that cannot be delayed for an inauspicious day: the water is given when the child is born, whatever the calendar says, and the solar priesthood has never successfully argued otherwise.
+The most sacred moment of a child's life comes at birth, when a midwife—understood as an earthly representative of Shaq'ik Ha'nal—guides the new person into existence. The first thing a newborn receives is not food but water on the lips, consecrating the child to the goddess. This is the rite that makes a Ki'i'chek Water-Marked and so a member of the faith, and it is the only Itsani sacrament that cannot be delayed for an inauspicious day: the water is given when the child is born, whatever the calendar says, and the solar priesthood has never successfully argued otherwise.
 
 The major ceremony is the [Ts'uqal Ne']{.name data-type="lore/custom"} ("Moon Water"), during the first full moon of the rainy season, when all water sources are formally blessed by processions of women carrying flowers, incense, and jade. Every well, spring, reservoir and sacred pool in the city is visited in a single night, and the procession's route is itself a public statement of which waters the branch claims.
 
@@ -99,11 +99,11 @@ The goddess is given little blood and a great deal of water. Offerings are flowe
 
 ## Organization
 
-The priesthood is unique in being almost entirely female—the Ch'alish Ha'nal (Keeper of Waters) is chief healer of the city-state, the Ch'alishbal Tz'ab (birth priestesses) attend all significant births, and the Ch'alishbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'ichek civilization.
+The priesthood is unique in being almost entirely female—the Ch'alish Ha'nal (Keeper of Waters) is chief healer of the city-state, the Ch'alishbal Tz'ab (birth priestesses) attend all significant births, and the Ch'alishbal Pul'ik (healing priestesses) maintain gardens of medicinal plants near water sources. Their accumulated archives of healing knowledge make them the most advanced practitioners of medicine in Ki'i'chek civilization.
 
 Those archives are the branch's answer to the observatories, and they are kept in the same spirit: treatments are recorded with their outcomes, including the failures, and a remedy that does not perform is struck. The **Keeper of the Healing Archives** is second in the branch only to the Ch'alish Ha'nal, and the two offices are frequently held in succession by the same woman.
 
-Being new—elevated only within the last three centuries—the branch is still consolidating its claims, and its rise is the great institutional story of recent Itsani history. It has taken the sacred pools, the birthing chamber and the sickbed into its keeping, and each of those was previously somebody else's. It is also the branch most present in ordinary Ki'ichek life, since every household has water, children and illness, and that reach has translated steadily into standing within the priesthood.
+Being new—elevated only within the last three centuries—the branch is still consolidating its claims, and its rise is the great institutional story of recent Itsani history. It has taken the sacred pools, the birthing chamber and the sickbed into its keeping, and each of those was previously somebody else's. It is also the branch most present in ordinary Ki'i'chek life, since every household has water, children and illness, and that reach has translated steadily into standing within the priesthood.
 
 Men serve, rarely, and chiefly in the physic gardens and the archives. The branch does not exclude them by doctrine and shows no sign of admitting them at the bedside.
 
@@ -115,4 +115,4 @@ With [[affiliation-tzuqilixbal|Ts'uqil Ish'bal]] the branch shares its holiest g
 
 The branch buys graded ash from [[affiliation-kayikchalix|K'ayik Ch'alish]] for its healing paints and pays well for it, which funds a fire branch that owns no land. In return the healing priestesses attend the fire-keepers' burn scars, an arrangement both sides find slightly comic and neither will give up.
 
-[[affiliation-naliktzuqal|Nal'ik Ts'uqal]] is the branch's natural ally, the two being those that ask least and give most; in many cities their temples adjoin and petitioners pass between them without ceremony. With [[affiliation-tzenultqan|Ts'en'ul Tq'an]] relations are correct and cool: the solar branch teaches that nothing is given freely, and here is a goddess whose first act toward every Ki'ichek is a gift of water to a child too young to owe anything.
+[[affiliation-naliktzuqal|Nal'ik Ts'uqal]] is the branch's natural ally, the two being those that ask least and give most; in many cities their temples adjoin and petitioners pass between them without ceremony. With [[affiliation-tzenultqan|Ts'en'ul Tq'an]] relations are correct and cool: the solar branch teaches that nothing is given freely, and here is a goddess whose first act toward every Ki'i'chek is a gift of water to a child too young to owe anything.

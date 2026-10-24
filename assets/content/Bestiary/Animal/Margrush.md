@@ -250,7 +250,7 @@ The black water is still, and the cypress knees stand out of it like the teeth o
 
 # Dossier {#dossier}
 
-The Margrush is the great ambush predator of the swamp forests of [[place-tzumanotunrgn|Ts'uma No'tun]]: a low, heavy, short-legged hunter seven to eight feet long and about three hundred pounds, with a leathery, wrinkled hide patched with coarse dark fur, a broad flat head and jaws that crush bone. It lies up in the cypress swamps and the black-water marshes and waits by the water for deer, pigs, waterfowl, alligators and men. Nearly all that the K'ich'chik know of it comes from the scouts and border garrisons who face the Ch'akun of [[affiliation-tzumanotun|Ts'uma No'tun]] across the swamps, and it is one of the reasons those garrisons count the swamps as impassable.
+The Margrush is the great ambush predator of the swamp forests of [[place-tzumanotunrgn|Ts'uma No'tun]]: a low, heavy, short-legged hunter seven to eight feet long and about three hundred pounds, with a leathery, wrinkled hide patched with coarse dark fur, a broad flat head and jaws that crush bone. It lies up in the cypress swamps and the black-water marshes and waits by the water for deer, pigs, waterfowl, alligators and men. Nearly all that the Ki'ich'chik know of it comes from the scouts and border garrisons who face the Ch'akun of [[affiliation-tzumanotun|Ts'uma No'tun]] across the swamps, and it is one of the reasons those garrisons count the swamps as impassable.
 
 ## Presentation
 
@@ -266,7 +266,7 @@ A margrush hunts at night and at dusk and lies up by day in a thicket or a hollo
 
 ## What the Border Garrisons Do
 
-The K'ich'chik scouts who watch the swamp edge read margrush sign before anything else, because a channel with a margrush in it is a channel the scouts do not wade, and the path a margrush patrols is a path the scouts leave to it. They cross water only by daylight, in canoes, never by wading, and they do not camp within sight of a mudbank. A margrush killed on the border is a prize: its hide makes shields and sandals that do not rot in the wet, and the garrisons hold that eating its liver gives a man the animal's strength and patience, though no physician has ever found that it does anything. The few survivors of failed expeditions into Ch'akun country speak of finding margrush skulls set up on posts at the mouths of channels. Whether these mark Ch'akun ground, warn off strangers or honor the animal nobody outside the swamps knows.
+The Ki'ich'chik scouts who watch the swamp edge read margrush sign before anything else, because a channel with a margrush in it is a channel the scouts do not wade, and the path a margrush patrols is a path the scouts leave to it. They cross water only by daylight, in canoes, never by wading, and they do not camp within sight of a mudbank. A margrush killed on the border is a prize: its hide makes shields and sandals that do not rot in the wet, and the garrisons hold that eating its liver gives a man the animal's strength and patience, though no physician has ever found that it does anything. The few survivors of failed expeditions into Ch'akun country speak of finding margrush skulls set up on posts at the mouths of channels. Whether these mark Ch'akun ground, warn off strangers or honor the animal nobody outside the swamps knows.
 
 ## Signs
 

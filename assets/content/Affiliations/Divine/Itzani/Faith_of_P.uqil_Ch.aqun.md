@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -87,7 +87,7 @@ The Faith of P'uqil Ch'akun venerates [[lore-puqilchaqundty|P'uqil Ch'akun]] as 
 
 ## Worship
 
-Worship operates on two levels reflecting his dual nature. In his nourishing aspect, worship is most intense during the dry season, when cities conduct the [k'ishkan ch'alish]{.name data-type="lore/custom"} (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in ritual procession, chanting in archaic [[skill-kicheklng|Ki'ichek]] while pouring sacred water and making rhythmic motions to mimic rainfall. Some ceremonies involve fasting and sustained incense exposure, inducing altered states in which priests understand themselves to commune with the serpent's sleeping form. When the first rains come, the celebration is immediate and ecstatic—water drums beat to harmonize with the god's own thunder-voice, and bathing ceremonies fill the newly replenished sacred pools.
+Worship operates on two levels reflecting his dual nature. In his nourishing aspect, worship is most intense during the dry season, when cities conduct the [k'ishkan ch'alish]{.name data-type="lore/custom"} (rain-calling ceremonies) on the highest pyramid peaks. Priests ascend in ritual procession, chanting in archaic [[skill-kiichek|Ki'i'chek]] while pouring sacred water and making rhythmic motions to mimic rainfall. Some ceremonies involve fasting and sustained incense exposure, inducing altered states in which priests understand themselves to commune with the serpent's sleeping form. When the first rains come, the celebration is immediate and ecstatic—water drums beat to harmonize with the god's own thunder-voice, and bathing ceremonies fill the newly replenished sacred pools.
 
 The rain-calling escalates by fixed stages as the dry season lengthens, and the people in the streets below the pyramid read each stage as it comes. A short procession and poured water is routine. A procession that returns without descending—the priests remaining on the peak through a second night—tells the city the rains are late. When the **Ch'alish Ne'tq'an** himself ascends, fasting, the city understands that the ordinary measures have failed, and the granaries begin to be rationed before any official word is given. Beyond that stage lie the captive sacrifices, and beyond those, in living memory only twice, the abandonment of the city.
 
@@ -105,7 +105,7 @@ The Tz'umaq'ob (serpent-keepers) manage what might be called "controlled terror"
 
 The temples of P'uqil Ch'akun's binding aspect are built to withstand destruction—walls unnaturally thick, sanctums anchored into bedrock, interiors packed with offerings to keep the god sated. These are repositories of sacred knowledge designed not to prevent the apocalypse but to survive it. Duplicates of the most important codices from every branch are lodged in them, and the builder-priests who raise them work to specifications the serpent-keepers supply and will not explain.
 
-The two branches recruit from opposite ends of Ki'ichek society and do not mix easily. The ne'tq'an take farmers' and fishermen's children, people who have grown up reading weather because their families ate by it. The Tz'umaq'ob take from the scribal and noble houses, because their work is calculation, secrecy and the handling of powerful men. Both answer to the same Ch'alish Tq'an, and both consider the other to be serving half a god.
+The two branches recruit from opposite ends of Ki'i'chek society and do not mix easily. The ne'tq'an take farmers' and fishermen's children, people who have grown up reading weather because their families ate by it. The Tz'umaq'ob take from the scribal and noble houses, because their work is calculation, secrecy and the handling of powerful men. Both answer to the same Ch'alish Tq'an, and both consider the other to be serving half a god.
 
 ## Relations
 

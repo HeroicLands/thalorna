@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -85,9 +85,9 @@ sohl: {system: {commonSkills: [kayikchalix]}}
 
 **Domain:** Fire, Transformation, Purification, Sacrifice
 
-_Not to be confused with [[affiliation-ataros|Ataros]], the Sacred Flame of the [[affiliation-ashanpnthn|Ashaian pantheon]]. The two gods share an epithet and a domain and are otherwise unrelated: Ataros is the medium through which every Ashaian prayer reaches its god, while K'ayik Ch'alish is the transformer who converts the Ki'ichek blood-offering into divine substance._
+_Not to be confused with [[affiliation-ataros|Ataros]], the Sacred Flame of the [[affiliation-ashanpnthn|Ashaian pantheon]]. The two gods share an epithet and a domain and are otherwise unrelated: Ataros is the medium through which every Ashaian prayer reaches its god, while K'ayik Ch'alish is the transformer who converts the Ki'i'chek blood-offering into divine substance._
 
-The Faith of K'ayik Ch'alish venerates [[lore-kayikchalixdty|K'ayik Ch'alish]], the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. In its theology, without his willing acceptance of the blood-offering, the entire theological structure of Ki'ichek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe K'ayik Ch'alish as the fire-keeper of creation—the god who tended the cosmic hearth from which the world was shaped. When the first humans were created from maize dough, it was K'ayik Ch'alish who brought the sacred fire to complete the mixture, transforming raw materials into conscious being. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all—concentrated spiritual residue rubbed on the foreheads of the sick and mixed into healing paints.
+The Faith of K'ayik Ch'alish venerates [[lore-kayikchalixdty|K'ayik Ch'alish]], the god of transformation through burning and the sacred conduit through which mortal sacrifice reaches the celestial realm. In its theology, without his willing acceptance of the blood-offering, the entire theological structure of Ki'i'chek civilization collapses, for he alone can transform the mortal into the divine. The earliest myths describe K'ayik Ch'alish as the fire-keeper of creation—the god who tended the cosmic hearth from which the world was shaped. When the first humans were created from maize dough, it was K'ayik Ch'alish who brought the sacred fire to complete the mixture, transforming raw materials into conscious being. Fire is never merely destructive; it is purification through transformation. The ash that remains is the most sacred substance of all—concentrated spiritual residue rubbed on the foreheads of the sick and mixed into healing paints.
 
 ## Worship
 

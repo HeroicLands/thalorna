@@ -4523,7 +4523,7 @@ Every Sinale word on these pages is a romanization, written in the romanization 
 
 ## Historical Development
 
-Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kicheklng|Ki'ichek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
+Sinale is the **eldest language on Thalorna**, older than even [[skill-kalihrlng|Kalihari Language]] or [[skill-kiichek|Ki'i'chek Language]]. It has changed remarkably little in structure over millennia, though vocabulary has evolved with Sinale experience and philosophy.
 
 Scholars identify layers in Sinale historical development:
 

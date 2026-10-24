@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -91,7 +91,7 @@ The Faith of Ts'uqil Ish'bal venerates [[lore-tzuqilixbaldty|Ts'uqil Ish'bal]] a
 
 In this theology, the domain of Ts'uqil Ish'bal is [[place-chaltzumaq|Ch'al Ts'umaq]] ("beneath the night sky"), the vast subterranean realm that exists beneath every sinkhole, cave, and sacred spring. The underworld is not a place of punishment but of passage—a labyrinth of chambers, trials, and deceptions through which the soul must navigate to reach the celestial realm beyond. The soul that reaches the other side emerges reborn; the soul that is lost becomes one of the ts'uqilob, trapped in shadow. The Ish'bal'ob priesthood memorizes the funerary codices in extraordinary detail, for a soul whose family has engaged the priests to perform the correct rites has a far better chance of navigating the underworld. A misspoken prayer or a ritual performed at the wrong phase of the moon can delay a soul's passage or trap it permanently.
 
-This is the plainest transaction in Ki'ichek religion, and the priesthood does not pretend otherwise. A family that can afford a full recitation buys its dead a guided passage; a family that cannot buys a shortened one, and knows what it has bought. The fee is not framed as payment for divine favor but as payment for accuracy—the priests sell memory, not mercy—and it is the one temple charge that even the poorest households will beggar themselves to meet. Burial societies are common in the larger city-states, with neighbors paying into a common store against the day one of them dies, and the Ish'bal'ob keep the rolls.
+This is the plainest transaction in Ki'i'chek religion, and the priesthood does not pretend otherwise. A family that can afford a full recitation buys its dead a guided passage; a family that cannot buys a shortened one, and knows what it has bought. The fee is not framed as payment for divine favor but as payment for accuracy—the priests sell memory, not mercy—and it is the one temple charge that even the poorest households will beggar themselves to meet. Burial societies are common in the larger city-states, with neighbors paying into a common store against the day one of them dies, and the Ish'bal'ob keep the rolls.
 
 The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Ch'al Ts'umaq in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the pool chamber, and only the priests and the nearest kin gho past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
 

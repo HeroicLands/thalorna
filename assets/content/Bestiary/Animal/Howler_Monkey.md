@@ -408,7 +408,7 @@ Before dawn the forest begins to roar. It starts as a low, rolling sound far off
 
 # Dossier {#dossier}
 
-The Howler Monkey is the big canopy monkey of the lowland and cloud forests, fifteen to twenty-two pounds and two feet long with a prehensile tail as long again, living in troops of ten to twenty in [[place-xelemrgn|Shelem Region]], [[place-kankulrgn|K'ankul Region]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. Its howl is the loudest sound of any land animal and carries three miles through jungle, to claim ground and space the troops. In [[place-kchchkcntnnt|K'ich'chik]] the howler is associated with scribes, artists and the arts of writing, and its image decorates libraries, scriptoria and the workshops of the artisan castes.
+The Howler Monkey is the big canopy monkey of the lowland and cloud forests, fifteen to twenty-two pounds and two feet long with a prehensile tail as long again, living in troops of ten to twenty in [[place-xelemrgn|Shelem Region]], [[place-kankulrgn|K'ankul Region]] and [[place-neokbaatergn|Ne'ok Ba'ate]]. Its howl is the loudest sound of any land animal and carries three miles through jungle, to claim ground and space the troops. In [[place-kiichchik|Ki'ich'chik]] the howler is associated with scribes, artists and the arts of writing, and its image decorates libraries, scriptoria and the workshops of the artisan castes.
 
 ## Presentation
 

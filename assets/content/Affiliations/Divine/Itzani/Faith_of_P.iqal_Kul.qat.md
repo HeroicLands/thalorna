@@ -20,7 +20,7 @@ data:
       - level: 0
         title: Blood-Denied
         description: >-
-          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'ichek reckon the one sentence that outlives the body.
+          Barred from offering blood, from the priest-read calendar and from the funerary rites—a soul left to face Ch'al Ts'umaq's trials unguided, which the Ki'i'chek reckon the one sentence that outlives the body.
       - level: 1
         title: Water-Marked
         lore: childfaithrnk
@@ -115,4 +115,4 @@ With [[affiliation-kayikchalix|K'ayik Ch'alish]] there is a long, good-humored a
 
 The branch also owns the tradition's most distinctive quarrel with Ts'uqil Ish'bal. Some [[affiliation-pikob|Pik'ob]] philosophers hold that a sacred building should at some point be deliberately surrendered to the forest, and point to the great abandoned cities as proof. The builder-priests regard this as a doctrine of failing to maintain what one has raised, and the argument has real consequences: it is fought out every year in the allocation of labor between new work and repair.
 
-Finally, the branch owns the continent's [[lore-dreadspawncrtr|Dreadspawn]]. On [[place-kchchkcntnnt|K'ich'chik]] these are held to be P'iqal Kul'qat's work—**Kul'ik P'iqal**, "Living Works of the Builder"—and the builder-priests classify them as they would any construction: evaluate the design, determine the purpose, record it for the archives. The name carries neither fear nor reverence, only professional acknowledgement.
+Finally, the branch owns the continent's [[lore-dreadspawncrtr|Dreadspawn]]. On [[place-kiichchik|Ki'ich'chik]] these are held to be P'iqal Kul'qat's work—**Kul'ik P'iqal**, "Living Works of the Builder"—and the builder-priests classify them as they would any construction: evaluate the design, determine the purpose, record it for the archives. The name carries neither fear nor reverence, only professional acknowledgement.

@@ -96,7 +96,7 @@ On Aelwyth the Sinale of the [[place-hallowwood|Hallowwood]] tolerate embassies 
 
 In the [[affiliation-tantsouempr|Empire of Tantsou]] the Sinale keep a formal contact with the imperial court that exists nowhere else, and it appears to rest on coercion or obligation rather than affinity. The Sinale of Tantsou are a case of their own. The empire files them in its caste order by function: scholars among them are Tanchei advisers, and a very few are nobility. The Sinale accept the arrangement pragmatically, keep their own self-understanding inside their enclaves, and go on with their work. Nobody outside knows how it began, and the Sinale will not say.
 
-The Sinale also maintain some form of connection with the peoples of [[place-kchchkcntnnt|K'ich'chik]], which western scholarship knows too little of, on either side, to describe.
+The Sinale also maintain some form of connection with the peoples of [[place-kiichchik|Ki'ich'chik]], which western scholarship knows too little of, on either side, to describe.
 
 ## Two Meetings
 

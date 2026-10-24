@@ -24,7 +24,7 @@ The western coast is the harder coast of the island, steep and reef-bound, with 
 
 ## What Is Seen from It
 
-Westward the outer slopes drop to the coast and the open ocean beyond it, with the reefs showing as lines of broken water where the currents run against the swell; there is no land in that direction until [[place-kchchkcntnnt|K'ich'chik]]. Eastward the canopy of the Deep Forest covers the Bowl's floor, and on a clear afternoon [[place-klhrmassif|the Massif]] shows over it in the middle of the lake. From the sea the saddle is the one low notch in the western crest.
+Westward the outer slopes drop to the coast and the open ocean beyond it, with the reefs showing as lines of broken water where the currents run against the swell; there is no land in that direction until [[place-kiichchik|Ki'ich'chik]]. Eastward the canopy of the Deep Forest covers the Bowl's floor, and on a clear afternoon [[place-klhrmassif|the Massif]] shows over it in the middle of the lake. From the sea the saddle is the one low notch in the western crest.
 
 ## The Cost of Crossing
 

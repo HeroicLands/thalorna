@@ -111,12 +111,12 @@ The [[affiliation-khelathpnthn|Khelathi Pantheon]] is the ancient faith of the g
 
 ## [[affiliation-itzanpnthn|Itsani]]
 
-The [[affiliation-itzanpnthn|Itsani Pantheon]] is the unified faith of [[place-kchchkcntnnt|K'ich'chik Continent]]—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
+The [[affiliation-itzanpnthn|Itsani Pantheon]] is the unified faith of [[place-kiichchik|Ki'ich'chik Continent]]—a single priesthood serving ten gods, centered on celestial cycles, blood sacrifice, and priestly kings.
 
 **Primary region:**
 
-[[place-kchchkcntnnt|K'ich'chik Continent]]
-: the unified Ki'ichek faith
+[[place-kiichchik|Ki'ich'chik Continent]]
+: the unified Ki'i'chek faith
 
 ## [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 
