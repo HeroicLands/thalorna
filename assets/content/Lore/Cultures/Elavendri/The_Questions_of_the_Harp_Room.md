@@ -30,7 +30,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Door {#door}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. Kérnathen gese, salkathen nyes gene.]{.nativefont lang=elav}
 2 [The Master. Who asks us to listen?]{lang=en}
 2 [Al Geithand. Kérnathen gese, salkathen nyes gene.]{lang=elav}
@@ -50,7 +50,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Oldest Song {#oldest}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. En al geirin mouglar ólnare gere.]{.nativefont lang=elav}
 2 [The Master. What is the oldest song?]{lang=en}
 2 [Al Geithand. En al geirin mouglar ólnare gere.]{lang=elav}
@@ -102,7 +102,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Harp {#harp}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. En al pirnal deirnis gere.]{.nativefont lang=elav}
 2 [The Master. What is the harp's purpose?]{lang=en}
 2 [Al Geithand. En al pirnal deirnis gere.]{lang=elav}
@@ -146,7 +146,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Word {#word}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. Gere gouris targathen ryenathen al gaeron geildar.]{.nativefont lang=elav}
 2 [The Master. Why must a thing be spoken well?]{lang=en}
 2 [Al Geithand. Gere gouris targathen ryenathen al gaeron geildar.]{lang=elav}
@@ -210,7 +210,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Line {#line}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. En al kenrison saenon gere.]{.nativefont lang=elav}
 2 [The Master. What proves descent?]{lang=en}
 2 [Al Geithand. En al kenrison saenon gere.]{lang=elav}
@@ -294,7 +294,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Blade {#blade}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. En al gurmougon gere.]{.nativefont lang=elav}
 2 [The Master. What is satire?]{lang=en}
 2 [Al Geithand. En al gurmougon gere.]{lang=elav}
@@ -354,7 +354,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Art {#art}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. En al simme gere.]{.nativefont lang=elav}
 2 [The Master. What is the art?]{lang=en}
 2 [Al Geithand. En al simme gere.]{lang=elav}
@@ -414,7 +414,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Guest {#guest}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. En al laegkon, góldathen gene, gese.]{.nativefont lang=elav}
 2 [The Master. Who is the guest who takes?]{lang=en}
 2 [Al Geithand. En al laegkon, góldathen gene, gese.]{lang=elav}
@@ -470,7 +470,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Open Question {#open}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. Nal gere kirdis en uk kérnis zúndar.]{.nativefont lang=elav}
 2 [The Master. When is a question closed?]{lang=en}
 2 [Al Geithand. Nal gere kirdis en uk kérnis zúndar.]{lang=elav}
@@ -530,7 +530,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Tree Line {#treeline}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. Rith gere miron táldathen al kérnon.]{.nativefont lang=elav}
 2 [The Master. Where does the crown stop?]{lang=en}
 2 [Al Geithand. Rith gere miron táldathen al kérnon.]{lang=elav}
@@ -582,7 +582,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Room of the Dead {#dead}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. Rith gere miron géilathen kendar al óllevine.]{.nativefont lang=elav}
 2 [The Master. Where are the dead kept?]{lang=en}
 2 [Al Geithand. Rith gere miron géilathen kendar al óllevine.]{lang=elav}
@@ -642,7 +642,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Last Question {#last}
 
-```verse {form=saunarine lang=en cols=2}
+```verse {form=saunarine lang=en cols=2} numstep=5
 1 [Al Geithand. Nal gere kirdis dúlkathen al thargalon.]{.nativefont lang=elav}
 2 [The Master. When does the kingdom end?]{lang=en}
 2 [Al Geithand. Nal gere kirdis dúlkathen al thargalon.]{lang=elav}

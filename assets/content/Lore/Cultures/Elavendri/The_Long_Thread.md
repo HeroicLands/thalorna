@@ -28,7 +28,7 @@ The verse is in iambic tetrameter, rhymed in couplets.
 
 : The Long Thread {#tale}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Lusinia, gérkathen tose al rounel. En ti al lárgar pirnis, gorth; dréithathen tose al omrila lunnar.]{.nativefont lang=elav}
 2 [[[lore-lusiniadty|Lusinia]], watch the wheel. Here is the long thread, long indeed; draw your wool fine.]{lang=en}
 2 [Lusinia, gérkathen tose al rounel. En ti al lárgar pirnis, gorth; dréithathen tose al omrila lunnar.]{lang=elav}
@@ -250,7 +250,7 @@ The verse is in iambic tetrameter, rhymed in couplets.
 2 [Gaernin nond thárnathen kendar rith ti lirve al pirnis nal áurkieron. Gyese rákathen uk, rákathen tose al antengar mirdon rith al ta thraemis. Ryenathen tose, geisri en gene. Lusinia, gérkathen tose al rounel. Dréithathen tose al omrila lunnar.]{lang=elav}
 ```
 
-```verse {form=bargain lang=en cols=2}
+```verse {form=bargain lang=en cols=2} numstep=5
 1 [Pírnathen tose al pirnis, threl ganda gierth ganda.]{.nativefont lang=elav}
 2 [Spin a thread from door to door.]{lang=en}
 2 [Pírnathen tose al pirnis, threl ganda gierth ganda.]{lang=elav}

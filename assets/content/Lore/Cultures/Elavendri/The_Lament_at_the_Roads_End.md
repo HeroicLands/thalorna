@@ -30,7 +30,7 @@ The poem is in common metre, rhymed ABCB.
 
 : The Lament at the Road's End {#lament}
 
-```verse {form=nelthava lang=en cols=2}
+```verse {form=nelthava lang=en cols=2} numstep=5
 1 [Árnathen lourth, árnathen gierth al tírvale thoudron.]{.nativefont lang=elav}
 2 [Come down, come to the road's foot.]{lang=en}
 2 [Árnathen lourth, árnathen gierth al tírvale thoudron.]{lang=elav}

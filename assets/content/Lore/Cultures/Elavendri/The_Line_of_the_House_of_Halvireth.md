@@ -32,7 +32,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 The bard:
 
-```verse {form=sirnerne lang=en cols=2}
+```verse {form=sirnerne lang=en cols=2} numstep=5
 1 [Lyeronno.]{lang=elav}
 2 [The bard.]{lang=en}
 2 [Lyeronno.]{lang=elav}
@@ -89,7 +89,7 @@ The bard:
 
 The line:
 
-```verse {form=sirnerne lang=en cols=2}
+```verse {form=sirnerne lang=en cols=2} numstep=5
 1 [Sírnerne.]{lang=elav}
 2 [The line.]{lang=en}
 2 [Sírnerne.]{lang=elav}
@@ -190,7 +190,7 @@ The line:
 
 The bard:
 
-```verse {form=sirnerne lang=en cols=2}
+```verse {form=sirnerne lang=en cols=2} numstep=5
 1 [Lyeronno.]{lang=elav}
 2 [The bard.]{lang=en}
 2 [Lyeronno.]{lang=elav}

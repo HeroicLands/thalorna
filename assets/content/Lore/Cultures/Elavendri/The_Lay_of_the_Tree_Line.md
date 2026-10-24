@@ -31,7 +31,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 
 : The Lay of the Tree Line {#lay}
 
-```verse {form=lay lang=en cols=2}
+```verse {form=lay lang=en cols=2} numstep=5
 1 [Lusinia, pírnathen tose al sírnerne]{.nativefont lang=elav}
 2 [[[lore-lusiniadty|Lusinia]], you spin descent]{lang=en}
 2 [Lusinia, pírnathen tose al sírnerne]{lang=elav}
@@ -937,7 +937,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 2 [The monarch, bareheaded, both hands open.]{lang=en}
 2 [Al auran, antherar gouran, al ta thraemis órnar.]{lang=elav}
 
-```verse {form=oath lang=en cols=2}
+```verse {form=oath lang=en cols=2} numstep=5
 1 [En munde érnavisa threl al mouglar ryedamis; góldathen munde al kérnon, táldathen gene rith al salverth.]{.nativefont lang=elav}
 2 [I am kin from the old blood; I take the crown, which stops at the tree line.]{lang=en}
 2 [En munde érnavisa threl al mouglar ryedamis; góldathen munde al kérnon, táldathen gene rith al salverth.]{lang=elav}
@@ -963,7 +963,7 @@ The verses are in iambic tetrameter, rhymed in couplets.
 2 [The Bard of the Circle.]{lang=en}
 2 [Al Rontha Lyeronno.]{lang=elav}
 
-```verse {form=lay lang=en cols=2}
+```verse {form=lay lang=en cols=2} numstep=5
 1 [En gene marlar. En al thílsel halmar. Sálkathen al halthon.]{.nativefont lang=elav}
 2 [It is spoken. The page is white. The house has heard.]{lang=en}
 2 [En gene marlar. En al thílsel halmar. Sálkathen al halthon.]{lang=elav}

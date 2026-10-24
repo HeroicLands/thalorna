@@ -23,7 +23,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 : The Path the Cohort Took {#tale}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Hóuthathen tose rith al kergis, táldathen gene. Nóurethen tose gene rith al gandon. En gene al dyelar mílkergis threl al Órzalon. En al raumel gaele gene, térgathen al míldeilnon mouglar. En al tírvale írvaloste gene geinra telgon, gose en mougre. En al tírvale ólvessaste gene nusri. Nond légathen kendar uk kergis rith ti mirdon al gandon. En ti al gouris.]{.nativefont lang=elav}
 2 [Sit beside the stopping stone. You saw it at the gate: [[affiliation-vylarinmpr|the Empire]]'s last milestone, its eagle remaining and mile count worn away. Eastward the road is theirs, or was. Westward it is ours. Nobody laid stone on this side of the gate. This is why.]{lang=en}
 2 [Hóuthathen tose rith al kergis, táldathen gene. Nóurethen tose gene rith al gandon. En gene al dyelar mílkergis threl al Órzalon. En al raumel gaele gene, térgathen al míldeilnon mouglar. En al tírvale írvaloste gene geinra telgon, gose en mougre. En al tírvale ólvessaste gene nusri. Nond légathen kendar uk kergis rith ti mirdon al gandon. En ti al gouris.]{lang=elav}
@@ -31,7 +31,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Al raumel rith al áuldalon]{.nativefont lang=elav} / [Eagles in the Hills]{lang=en} / [Al raumel rith al áuldalon]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rith al kirdis, dárkathen al auranra al thargalon, dárkathen al legyon al giethe mirlon gouthe al írvaloste mirlerth. Árnathen geinra gierth nelgon reik ólvessaste rith ti áuldalon, seis róugathen geinra lourth gierth al dyemeson gouthe nyes. En uk legyon 5000 nolgrar tharan; al raumel gaele uk talgon rith trámon, al tírvaland, háelathen geinra al tírvale giethe al thoudra rith al árnon. Nóurethen tose uk gurnalon rith al auldar tírvale. Hórmathen tose to, reik en ukal gurnon uk tharan rith thorgon, reik en al gurnalon10 mílon lárgar.]{.nativefont lang=elav}
 2 [In the queen's time legions held the lowlands beyond the eastern border. They came north and west through these hills to descend into the basin beyond us. A legion is five thousand sworn men, eagle upon a pole ahead, engineers building road beneath their feet. You saw herds on the ridge road. Imagine each animal a shielded man, and the herd ten miles long.]{lang=en}
 2 [Rith al kirdis, dárkathen al auranra al thargalon, dárkathen al legyon al giethe mirlon gouthe al írvaloste mirlerth. Árnathen geinra gierth nelgon reik ólvessaste rith ti áuldalon, seis róugathen geinra lourth gierth al dyemeson gouthe nyes. En uk legyon 5000 nolgrar tharan; al raumel gaele uk talgon rith trámon, al tírvaland, háelathen geinra al tírvale giethe al thoudra rith al árnon. Nóurethen tose uk gurnalon rith al auldar tírvale. Hórmathen tose to, reik en ukal gurnon uk tharan rith thorgon, reik en al gurnalon10 mílon lárgar.]{lang=elav}
@@ -51,7 +51,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Al ánhrason gaele al mórvalis]{.nativefont lang=elav} / [Silver on the Table]{lang=en} / [Al ánhrason gaele al mórvalis]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Elnathen uk mirlathon rith al rynel giethe al lonke. Géilathen gene al auldar drun. Sárgathen tose al drun, kurnar, geildar, reik al gaerasa, sárgathen tose. Dónkathen al drungailand rith al neldra mougre. Géilathen al délsara al mirlathon reik al hélnora Derva,19 kirdon, reik al helnor Sevrel,7 kirdon. Nond giernathen geinra rith al derar giernathen, gaernen en al drun rith al gorth laegis. Nond ránathen tose al drun. Gaernin pínathen al legyon geinra.]{.nativefont lang=elav}
 2 [A steading under the wood at the margin kept hill ponies. You know them: short, sound and of a temper you know. Their keeper died the winter before. His widow kept the steading with daughter [Derva]{.name data-type="being/npc"}, nineteen, and son [Sevrel]{.name data-type="being/npc"}, seven. They did not flee with others because ponies remained on high grazing. You do not leave ponies. So the legion found them.]{lang=en}
 2 [Elnathen uk mirlathon rith al rynel giethe al lonke. Géilathen gene al auldar drun. Sárgathen tose al drun, kurnar, geildar, reik al gaerasa, sárgathen tose. Dónkathen al drungailand rith al neldra mougre. Géilathen al délsara al mirlathon reik al hélnora Derva,19 kirdon, reik al helnor Sevrel,7 kirdon. Nond giernathen geinra rith al derar giernathen, gaernen en al drun rith al gorth laegis. Nond ránathen tose al drun. Gaernin pínathen al legyon geinra.]{lang=elav}
@@ -79,7 +79,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Rith al rynel]{.nativefont lang=elav} / [At the Edge]{lang=en} / [Rith al rynel]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Elnathen uk sénthron greile to lonke. Sárgathen al áuldalon gene alnar kirdis. En to al dournon. Nond en gene al sénthron ríenar. Róugathen uk tharan rith greile gene, róugathen gene gounel rith al deirnar miron. Róugathen gene rith grend nal al dáelamen kieron; róugathen gene gounel rith uk derar miron, gose nond róugathen gene gounel. Sárgathen al henduland al threnon miron. Nond sárgathen kendar al tírvale, gaernen nond en gene rith miron. En gene al gaeron, láegathen al lonke gierth tose.]{.nativefont lang=elav}
 2 [A path crosses that wood. The hills always knew it. That is the danger. It is never the same path twice. A man enters and leaves where intended, then enters next day and emerges elsewhere, or never emerges. Charcoal burners know its beginning. Nobody knows where it goes because it is nowhere. It is what the wood gives you.]{lang=en}
 2 [Elnathen uk sénthron greile to lonke. Sárgathen al áuldalon gene alnar kirdis. En to al dournon. Nond en gene al sénthron ríenar. Róugathen uk tharan rith greile gene, róugathen gene gounel rith al deirnar miron. Róugathen gene rith grend nal al dáelamen kieron; róugathen gene gounel rith uk derar miron, gose nond róugathen gene gounel. Sárgathen al henduland al threnon miron. Nond sárgathen kendar al tírvale, gaernen nond en gene rith miron. En gene al gaeron, láegathen al lonke gierth tose.]{lang=elav}
@@ -117,7 +117,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 2 [Ryenathen gene al daeron. En ti al leithon. Ryenathen munde, ryenathen tose reik munde.]{lang=elav}
 ```
 
-```verse {form=bargain lang=en cols=2}
+```verse {form=bargain lang=en cols=2} numstep=5
 1 [Géilathen tose al ánhrason. Skélathen tose al sénthron.]{.nativefont lang=elav}
 2 [Keep silver. Show the path.]{lang=en}
 2 [Géilathen tose al ánhrason. Skélathen tose al sénthron.]{lang=elav}
@@ -163,7 +163,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 2 [Gierth al thraemis threl al árnon, gyese en gene rith al ryndulnis.]{lang=elav}
 ```
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Hóuthathen Derva gaele al dúrmera. Ryenathen gene al daeron gierth gire ha kirdin, ryenathen al mougand, gaethe deilnathen tose al gurnon, deirnathen tose deisgethen. Gyese sénkathen kendar rith ránelon threl tose, en gene tis alnar kirdis. Sélgathen al kórthelon gene. Gyese sénkathen kendar rith trámon threl tose, róugathen gene gounel greile al ganda. Sénkathen gene rith trámon, róugathen gene gounel. Reik al kenlon.]{.nativefont lang=elav}
 2 [[Derva]{.name data-type="being/npc"} repeated the terms three times upon the wall, tellers say, as you count animals intended for sale. Who walks behind you stays. The cohort would follow her. Who walks ahead goes out. She would lead and leave. And the child?]{lang=en}
 2 [Hóuthathen Derva gaele al dúrmera. Ryenathen gene al daeron gierth gire ha kirdin, ryenathen al mougand, gaethe deilnathen tose al gurnon, deirnathen tose deisgethen. Gyese sénkathen kendar rith ránelon threl tose, en gene tis alnar kirdis. Sélgathen al kórthelon gene. Gyese sénkathen kendar rith trámon threl tose, róugathen gene gounel greile al ganda. Sénkathen gene rith trámon, róugathen gene gounel. Reik al kenlon.]{lang=elav}
@@ -203,7 +203,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Al sénthron]{.nativefont lang=elav} / [The Path]{lang=en} / [Al sénthron]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Róugathen gene lourth al lárgar ilmis gierth al legyon dorla. En al ánhrason rith al thrálel. Ryenathen gene al nógand, skélathen gene al sénthron, árnathen al ondren reik gene, gose nond sénkathen gene uk thoudra. Thélkathen al nógand gene gierth al legandon. Nóurethen al legandon gene lárgar kirdis. Dróusathen gene. Árnathen Sevrel gounel. Nond ruskathen kendar gene; málmathen geinra gene angeildar. Gírdathen gene gierth Derva. Góldathen gene gene griene.]{.nativefont lang=elav}
 2 [She descended the long field to the legion's ditch, silver in her apron. She told the scout she would show the path, but her brother came or she took no step. The scout brought her to the legate. He looked at her long, then ordered. [Sevrel]{.name data-type="being/npc"} came out. Nobody hurt him; they only fed him badly. He ran to her. She lifted him.]{lang=en}
 2 [Róugathen gene lourth al lárgar ilmis gierth al legyon dorla. En al ánhrason rith al thrálel. Ryenathen gene al nógand, skélathen gene al sénthron, árnathen al ondren reik gene, gose nond sénkathen gene uk thoudra. Thélkathen al nógand gene gierth al legandon. Nóurethen al legandon gene lárgar kirdis. Dróusathen gene. Árnathen Sevrel gounel. Nond ruskathen kendar gene; málmathen geinra gene angeildar. Gírdathen gene gierth Derva. Góldathen gene gene griene.]{lang=elav}
@@ -239,7 +239,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Valdun]{.nativefont lang=elav} / [[[place-valdun|Valdun]]]{lang=en} / [Valdun]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Gaeldathen al legyon gierth al kórthelon. Gaeldathen, méisathen nógand greile al sénthron. Pínathen al nógand al sénthron. Róugathen geinra gounel al lonke rith uk derar miron, gose nond róugathen gounel. Gonde uk óskena sárgathen al legandon, gélgathen gene uk kórthelon, nond góldathen gene gene rith ránelon. Géilathen al greiklon al dyemeson gandurth. En al kenralon rith al salve reik, lunnar dulnis ólvessaste. Méisathen gene gierth al auranra.]{.nativefont lang=elav}
 2 [The legion waited and waited for its cohort, sending scouts upon the path. Scouts found it and emerged elsewhere, or did not. After a month the legate knew the cohort was lost beyond recovery. The levy kept basin passes. Tribes still waited in trees a little west. He sent to the queen.]{lang=en}
 2 [Gaeldathen al legyon gierth al kórthelon. Gaeldathen, méisathen nógand greile al sénthron. Pínathen al nógand al sénthron. Róugathen geinra gounel al lonke rith uk derar miron, gose nond róugathen gounel. Gonde uk óskena sárgathen al legandon, gélgathen gene uk kórthelon, nond góldathen gene gene rith ránelon. Géilathen al greiklon al dyemeson gandurth. En al kenralon rith al salve reik, lunnar dulnis ólvessaste. Méisathen gene gierth al auranra.]{lang=elav}
@@ -307,7 +307,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Trámon]{.nativefont lang=elav} / [In Front]{lang=en} / [Trámon]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Élthethen Derva lárgar kirdis. Sénkathen gene rith trámon alnar al kendonalon, róugathen geinra reik gene, rith alnar elthis. Nond en to uk lunnar gaeron. Hórmathen tose gene.]{.nativefont lang=elav}
 2 [[Derva]{.name data-type="being/npc"} lived long, first before every person she accompanied throughout life. It is no little thing. Think of it.]{lang=en}
 2 [Élthethen Derva lárgar kirdis. Sénkathen gene rith trámon alnar al kendonalon, róugathen geinra reik gene, rith alnar elthis. Nond en to uk lunnar gaeron. Hórmathen tose gene.]{lang=elav}
@@ -327,7 +327,7 @@ The verse is in iambic tetrameter, rhymed ABAB.
 
 ## [Ránelon]{.nativefont lang=elav} / [Behind]{lang=en} / [Ránelon]{lang=elav}
 
-```verse {form=prose lang=en cols=2}
+```verse {form=prose lang=en cols=2} numstep=5
 1 [Rith al kélvase kirgon gonde al ondren sélvore, róugathen Derva griene al lárgar ilmis, ukar, gierth al dúrmera rith al gorth rynel. Hóuthathen gene goure reik al gielmon mougre. En gene gaeri mouglar. Hóuthathen gene gaele al dúrmera. Nond shéimara al mougand rith al gaeron gonde. Ryenathen geinra alnar, gaernen nond thárnathen nyes al antengar gaeron.]{.nativefont lang=elav}
 2 [Spring after his death, [Derva]{.name data-type="being/npc"} climbed the long field alone to its upper wall, where she sat with silver. She was very old. She sat on the wall. Tellers do not agree about what happened. They tell everything, because an unsettled thing is not cut short.]{lang=en}
 2 [Rith al kélvase kirgon gonde al ondren sélvore, róugathen Derva griene al lárgar ilmis, ukar, gierth al dúrmera rith al gorth rynel. Hóuthathen gene goure reik al gielmon mougre. En gene gaeri mouglar. Hóuthathen gene gaele al dúrmera. Nond shéimara al mougand rith al gaeron gonde. Ryenathen geinra alnar, gaernen nond thárnathen nyes al antengar gaeron.]{lang=elav}
