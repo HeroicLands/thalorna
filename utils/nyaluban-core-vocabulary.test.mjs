@@ -2,6 +2,7 @@
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
 import fs from "node:fs";
+import { execFileSync } from "node:child_process";
 import crypto from "node:crypto";
 import test from "node:test";
 import YAML from "yaml";
@@ -13,6 +14,13 @@ const read = (file) => {
     return { file, raw, fm: YAML.parse(splitFrontmatter(raw).yaml) };
 };
 const language = read("assets/content/Skills/Languages/Nyaluban.md");
+const originalRaw = execFileSync(
+    "git",
+    ["show", "cda3ead48:assets/content/Skills/Languages/Nyaluban.md"],
+    { encoding: "utf8" },
+);
+const original = YAML.parse(splitFrontmatter(originalRaw).yaml);
+
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
@@ -50,15 +58,52 @@ test("Nyáluban preserves all original meanings, optional writings and name inte
         hash(words.slice(0, 25).map(omitConcept)),
         "ea0ea12475ed7bd20166c1d38aa72553b28aa477943473b04f3f0ed9a70ddb00",
     );
+    const baseline = structuredClone(original);
+    delete baseline.data.words;
+    assert.equal(baseline.data.fields.pop().name, "Everyday speech");
+    assert.equal(
+        hash(baseline),
+        "8385741e140d3c8b09b74c0c656085fbd596ace223d83d862cf505f53e5cd591",
+    );
     const fm = structuredClone(language.fm);
     delete fm.data.words;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    assert.equal(hash(fm), "8385741e140d3c8b09b74c0c656085fbd596ace223d83d862cf505f53e5cd591");
-    const body = splitFrontmatter(language.raw).body.replace(
-        /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
-        "",
+    // Oral readings deliberately remove a default script and distinguish stress
+    // from unwritten tone; every older name declaration and other setting stays.
+    delete baseline.data.writtenIn;
+    baseline.data.sounds.stress.mark = "acute";
+    fm.data.register = fm.data.register.slice(0, original.data.register.length);
+    assert.deepEqual(fm, baseline);
+    const withoutCore = (raw) =>
+        splitFrontmatter(raw).body.replace(
+            /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
+            "",
+        );
+    const body = withoutCore(language.raw);
+    const originalBody = withoutCore(originalRaw);
+    assert.equal(
+        hash(originalBody),
+        "a70222056437b461e14f78113afc2da63d9f152471c5af24e0e20961e1fa5cd8",
     );
-    assert.equal(hash(body), "a70222056437b461e14f78113afc2da63d9f152471c5af24e0e20961e1fa5cd8");
+    const sections = (text) =>
+        new Map(text.split(/(?=^## )/mu).map((section) => [section.split("\n", 1)[0], section]));
+    const currentSections = sections(body);
+    const revised = new Set([
+        "## Overview",
+        "## How Nyáluban sounds",
+        "## Phonology",
+        "## Script & Literacy",
+        "## Sample Phrases",
+        "## Nyáluban Lexicon {#lexicon}",
+    ]);
+    for (const [heading, text] of sections(originalBody))
+        if (!revised.has(heading)) assert.equal(currentSections.get(heading), text, heading);
+    const oldSamples = sections(originalBody).get("## Sample Phrases");
+    assert(
+        currentSections
+            .get("## Sample Phrases")
+            .endsWith(oldSamples.slice(oldSamples.indexOf("\n\n") + 2)),
+    );
     assert(ids(words.find((w) => w.form === "nyoli")).includes("daughter"));
     const originalData = {
         ...language.fm.data,
@@ -183,7 +228,7 @@ test("new Nyáluban citations keep open syllables and licensed onsets", () => {
                 );
         }
 });
-test("the actual published list and configured Qalezu renderer cover every ordinary citation", async () => {
+test("Nyáluban publishes every citation and uses borrowed Qalezu only when explicitly selected", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =
         await import("@heroiclands/package-build/engine/lexical-sections");
     const { renderRuns, runContext, scanRuns } =
@@ -216,8 +261,9 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     assert(context.wordBooks.has(lang));
     assert(context.lexicons.has(lang));
     const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
-    assert.equal(map.name, language.fm.data.writtenIn.map);
+    const face = resolveScriptFonts(process.cwd()).faces.get("qalezu-hand");
+    assert.equal(language.fm.data.writtenIn, undefined);
+    assert.equal(map.name, "qalezu");
     const native = nativeLookup(context.lexicons.get(lang), map.name, face.slug);
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
@@ -238,6 +284,10 @@ test("the actual published list and configured Qalezu renderer cover every ordin
         }
     };
     for (const word of ordinary) {
+        const oral = renderRuns(`[${word.form}]{lang=${lang}}`, context);
+        assert.deepEqual(oral.errors, [], word.form);
+        assert(oral.markdown.includes(word.form), word.form);
+        assert(!oral.markdown.includes("hl-qalezu-hand"), word.form);
         const mapped = applyMap(map, word.form, { font: face.slug, native }).text;
         draw(mapped, word.form);
         const rendered = renderRuns(`[${word.form}]{${attributes}}`, context);

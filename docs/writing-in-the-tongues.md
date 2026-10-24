@@ -728,27 +728,33 @@ This applies to spans, `:::` blocks, verse fences and scroll fences. Explicit
 requires an explicit `font=`. A native face or map without `.nativefont` is an
 error. The chosen face must support the chosen mapping.
 
-| Language          | `writtenIn`                           | Another script a run may name                         |
-| ----------------- | ------------------------------------- | ----------------------------------------------------- |
-| Aelwythi (`aelw`) | `aelwythi-semaron`, `semaron-kuriale` |                                                       |
-| Vylari (`vyl`)    | `semaron`, `semaron-kuriale`          |                                                       |
-| Provenzal         | `semaron`, `semaron-kuriale`          |                                                       |
-| Tarveni           | `semaron`, `semaron-kuriale`          |                                                       |
-| Élavendri         | `semaron`, `semaron-kuriale`          |                                                       |
-| Valtari           | `semaron`, `semaron-kuriale`          |                                                       |
-| Varokhi           | `semaron`, `semaron-kuriale`          |                                                       |
-| Nordmal (`nord`)  | `thuravark`, `thuravark-carved`       |                                                       |
-| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`             | `pirzath-carved`                                      |
-| Khelathi (`khel`) | `qalezu`, `qalezu-hand`               | `khelathi-zethu-glyphs` with `zethu`, the sacred hand |
-| Atárzadi          | `qalezu`, `qalezu-hand`               |                                                       |
-| Dunhari           | `qalezu`, `qalezu-hand`               |                                                       |
-| Nyáluban          | `qalezu`, `qalezu-hand`               |                                                       |
-| Sinale (`sina`)   | `veldikko`, `veldikko`                |                                                       |
-| Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`        |                                                       |
+| Language          | `writtenIn`                           | Another script a run may name                              |
+| ----------------- | ------------------------------------- | ---------------------------------------------------------- |
+| Aelwythi (`aelw`) | `aelwythi-semaron`, `semaron-kuriale` |                                                            |
+| Vylari (`vyl`)    | `semaron`, `semaron-kuriale`          |                                                            |
+| Provenzal         | `semaron`, `semaron-kuriale`          |                                                            |
+| Tarveni           | `semaron`, `semaron-kuriale`          |                                                            |
+| Élavendri         | `semaron`, `semaron-kuriale`          |                                                            |
+| Valtari           | `semaron`, `semaron-kuriale`          |                                                            |
+| Varokhi           | `semaron`, `semaron-kuriale`          |                                                            |
+| Nordmal (`nord`)  | `thuravark`, `thuravark-carved`       |                                                            |
+| Khazari (`khaz`)  | `pirzath`, `pirzath-hand`             | `pirzath-carved`                                           |
+| Khelathi (`khel`) | `qalezu`, `qalezu-hand`               | `khelathi-zethu-glyphs` with `zethu`, the sacred hand      |
+| Atárzadi          | `qalezu`, `qalezu-hand`               |                                                            |
+| Dunhari           | `qalezu`, `qalezu-hand`               |                                                            |
+| Nyáluban (`nyal`) | none; oral language                   | A foreign transcription may explicitly name its own script |
+| Sinale (`sina`)   | `veldikko`, `veldikko`                |                                                            |
+| Áelendi (`aele`)  | `veldikko-aelendi`, `veldikko`        |                                                            |
 
 Tantsou and Jurthati are written in Teng Chou. No mapping note exists for that
 script, so those two tongues state no `writtenIn`, and a run marked with their
 `lang=` alone is tagged, in roman, in the page's font. A language that states none behaves so.
+
+Nyáluban has no writing tradition of its own and no default `writtenIn`. Present
+an oral work as a transcription tagged `lang=nyal`, without `.nativefont`,
+beside its English translation. Do not add a duplicate Roman reading or imply a
+written original. A foreigner's transcription in another script must be
+identified as such and name its map and font explicitly.
 
 Other tongues are written in these scripts by the same mappings: a tongue
 borrowing Semaron for the common transcription uses `map=semaron` with its

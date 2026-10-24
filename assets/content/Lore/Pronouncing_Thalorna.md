@@ -503,6 +503,12 @@ In [[skill-kalihrlng|Kalihari]], _ao_ is _ah-oh_ run into one syllable, near the
 
 [[skill-nyalbnlng|Nyáluban]] stresses the first syllable of every word, and an acute marks any other stressed syllable. At the start of a word, _mb_, _nd_, _ng_, _nk_, _nt_, _mp_ and _nj_ are each one sound, the nasal running straight into the next letter, as in _Mbuka_, _ndafo_ and _nkulu_.[^nyaluban-nasal]
 
+The acute marks stress, not a high tone. Nyáluban has meaningful pitch in the world, but the common spelling leaves tone unwritten. Read its words with the vowels above and the stress shown; matching a rising or falling contour is not required for play. No additional pitch marks need to be learned.
+
+Nyáluban has no writing tradition of its own. Its speakers keep their words through speech, memory and performance. The Roman spellings on these pages transcribe that speech for readers; foreigners may also transcribe it in their own scripts. Neither presentation implies a Nyáluban written original.
+
+In a memory-song, keep the rhythm, repetitions and the distinction between the call and the gathered answer. Optional performance directions may describe a held syllable or a rising or falling phrase outside the words. These directions do not change a word's spelling or meaning; a question still uses the language's question words or marker.
+
 ## Okharik
 
 At the start of a word in [[skill-okharclng|Okharik]], _mb_, _nd_, _ng_, _nk_ and _nt_ are each one sound, the nasal running straight into the next letter, as in _Mbaka_, _Ndori_ and _ngor_; _ngw_ is that _ng_ with a _w_ after it, as in _ngwelo_.[^okharic-nasal]

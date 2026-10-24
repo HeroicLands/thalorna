@@ -8,7 +8,6 @@ tags: []
 data:
   core: true
   abbreviation: Nyal.
-  writtenIn: {map: qalezu, font: qalezu-hand}
   fields:
     - name: Clan and totem
       holds: "The five clans, the totems they are named for, and the ending that makes a clan."
@@ -5940,6 +5939,227 @@ data:
       gloss: I am; milome mbelele, I am healthy
       source: {kind: coined}
       built: [mi-, lome]
+    - form: "nyemoya"
+      class: n
+      field: "Everyday speech"
+      gloss: "griot or keeper who carries an oral record"
+      source: {kind: coined}
+    - form: "ruwolabemi"
+      class: n
+      field: "Clan and totem"
+      gloss: "lion tooth worn as an emblem"
+      built: ["ruwo", "labemi"]
+      source: {kind: coined}
+    - form: "mbelaya"
+      class: n
+      field: "Everyday speech"
+      gloss: "braid of hair carrying a lineage reckoning"
+      source: {kind: coined}
+    - form: "milabweyela"
+      class: v
+      field: "Everyday speech"
+      gloss: "I carry the named thing, an individually cited first-person utterance"
+      built: ["mi-", "labweyela"]
+      source: {kind: coined}
+    - form: "ndahola"
+      class: n
+      field: "Everyday speech"
+      gloss: "length or full extent"
+      source: {kind: coined}
+    - form: "nyandale"
+      class: adj
+      field: "Everyday speech"
+      gloss: "given or received for keeping"
+      source: {kind: coined}
+    - form: "nyolawa"
+      class: n
+      field: "Everyday speech"
+      gloss: "generation in a line of descent"
+      source: {kind: coined}
+    - form: "mbowa"
+      class: n
+      field: "Everyday speech"
+      gloss: "cattle or a cattle herd"
+      source: {kind: coined}
+    - form: "mboyela"
+      class: n
+      field: "Everyday speech"
+      gloss: "feud over cattle"
+      source: {kind: coined}
+    - form: "nyamboloshe"
+      class: adj
+      field: "Everyday speech"
+      gloss: "broken apart by hostile force"
+      source: {kind: coined}
+    - form: "nzemowa"
+      class: n
+      field: "Everyday speech"
+      gloss: "armed host or war force"
+      source: {kind: coined}
+    - form: "labwesha"
+      class: adj
+      field: "Everyday speech"
+      gloss: "worn smooth through repeated handling or telling"
+      source: {kind: coined}
+    - form: "mbesha"
+      class: n
+      field: "Everyday speech"
+      gloss: "reed used for a canoe"
+      source: {kind: coined}
+    - {form: "koleya", class: n, field: "Everyday speech", gloss: "canoe", source: {kind: coined}}
+    - form: "ngone"
+      class: n
+      field: "Clan and totem"
+      gloss: "eagle, as an ordinary animal word"
+      source: {kind: coined}
+    - form: "ngayela"
+      class: n
+      field: "Everyday speech"
+      gloss: "high country with an escarpment"
+      source: {kind: coined}
+    - {form: "ngobela", class: n, field: "Everyday speech", gloss: "gold", source: {kind: coined}}
+    - form: "selenga"
+      class: n
+      field: "Clan and totem"
+      gloss: "leopard, as an ordinary animal word"
+      source: {kind: coined}
+    - form: "ngende"
+      class: n
+      field: "Everyday speech"
+      gloss: "language or manner of speech"
+      source: {kind: coined}
+    - form: "ndeyala"
+      class: n
+      field: "Everyday speech"
+      gloss: "road or traveled route"
+      source: {kind: coined}
+    - form: "ndeyola"
+      class: n
+      field: "Everyday speech"
+      gloss: "edge of a stand of trees"
+      source: {kind: coined}
+    - form: "kembowa"
+      class: n
+      field: "Everyday speech"
+      gloss: "grain kept for food"
+      source: {kind: coined}
+    - form: "mashebo"
+      class: n
+      field: "Everyday speech"
+      gloss: "well providing water"
+      source: {kind: coined}
+    - form: "ndebeyele"
+      class: n
+      field: "Everyday speech"
+      gloss: "middle or central part of an area"
+      source: {kind: coined}
+    - form: "nyoliruwo"
+      class: n
+      field: "The Pact and the council"
+      gloss: "Daughter of the Lion, the meaning spoken for the hereditary name"
+      built: ["nyoli", "ruwo"]
+      source: {kind: coined}
+    - form: "selemba"
+      class: n
+      field: "The Pact and the council"
+      gloss: "witness, without a claim to have founded or ruled the Pact"
+      source: {kind: coined}
+    - form: "nyemawa"
+      class: n
+      field: "The Pact and the council"
+      gloss: "term of an agreement"
+      source: {kind: coined}
+    - form: "mbeyosha"
+      class: n
+      field: "Everyday speech"
+      gloss: "weapon raised against an opponent"
+      source: {kind: coined}
+    - form: "nduloba"
+      class: adj
+      field: "Everyday speech"
+      gloss: "old or long established, of a thing or practice"
+      source: {kind: coined}
+    - {form: "pabweya", class: n, field: "Everyday speech", gloss: "spear", source: {kind: coined}}
+    - form: "nyemanda"
+      class: n
+      field: "The Pact and the council"
+      gloss: "pact or sworn agreement"
+      source: {kind: coined}
+    - form: "ndalewa"
+      class: n
+      field: "The Pact and the council"
+      gloss: "paramount of a clan, without authority over the other clans"
+      source: {kind: coined}
+    - form: "mbaloya"
+      class: n
+      field: "The Pact and the council"
+      gloss: "kingdom or centralized royal state"
+      source: {kind: coined}
+    - form: "mbalowa"
+      class: n
+      field: "The Pact and the council"
+      gloss: "king"
+      source: {kind: coined}
+    - form: "nyoliwemwo"
+      class: n
+      field: "Everyday speech"
+      gloss: "our daughters, a whole kin reference cited in Nyoli's promise without a wider possession paradigm"
+      source: {kind: coined}
+    - form: "nyemeleyo"
+      class: n
+      field: "Everyday speech"
+      gloss: "the rest or matters remaining to be settled"
+      source: {kind: coined}
+    - form: "ndalebwo"
+      class: n
+      field: "Everyday speech"
+      gloss: "owner of the property under discussion"
+      source: {kind: coined}
+    - form: "mbeyami"
+      class: adj
+      field: "Everyday speech"
+      gloss: "precious or worth carrying and preserving"
+      source: {kind: coined}
+    - form: "nyesheya"
+      class: v
+      field: "Everyday speech"
+      gloss: "confirm an oral recital against the version known to its hearers"
+      source: {kind: coined}
+    - form: "nyabelomi"
+      class: n
+      field: "The Brightness and the guides"
+      gloss: "initiation into a tradition"
+      source: {kind: coined}
+    - form: "ndeyamo"
+      class: n
+      field: "Everyday speech"
+      gloss: "purpose or intended use"
+      source: {kind: coined}
+    - form: "nyendemoshi"
+      class: n
+      field: "Everyday speech"
+      gloss: "oral record kept by trained memory keepers"
+      source: {kind: coined}
+    - form: nyembe
+      class: n
+      field: Everyday speech
+      gloss: "a song or performed memory-song"
+      source: {kind: coined}
+    - form: nzambowa
+      class: n
+      field: Everyday speech
+      gloss: "a challenge or contest"
+      source: {kind: coined}
+    - form: ndahala
+      class: adj
+      field: Everyday speech
+      gloss: "longer than the stated length"
+      source: {kind: coined}
+    - form: ndahele
+      class: adj
+      field: Everyday speech
+      gloss: "shorter than the stated length"
+      source: {kind: coined}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -6100,7 +6320,7 @@ data:
       - "Zákedala"
       - "Zímbala"
   sounds:
-    stress: {two: first, longer: first}
+    stress: {two: first, longer: first, mark: acute}
     edges:
       - {edge: openCluster, sounds: [mb, mp, nd, nt, nk, nj, nz]}
       - {edge: closeConsonant, sounds: []}
@@ -6240,6 +6460,9 @@ data:
     - {name: Truce-Warden, tongue: translation}
     - {name: Uninitiated, tongue: translation}
     - {name: Water-Warden, tongue: translation}
+    - name: Ngende Ngabeli
+      tongue: nyaluban
+      gloss: "the Stone Tongue, the speech in Lusheya's recital"
   retired:
     - {form: Mvuzi, instead: Ruwozi, why: "built on an Earth word, the lion-clan"}
     - {form: Kambezi, instead: Kolembozi, why: "built on an Earth place name, the crocodile-clan"}
@@ -6369,7 +6592,7 @@ Nyáluban is a tongue of the Nyáluban (isolate) family. Fluency measures the so
 
 ## Overview
 
-Nyáluban is the principal language of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], a confederation of communities occupying the southern reaches of the [[place-xerathia|Zerathia]] continent. Spoken by an estimated 2-3 million people across dispersed communities, Nyáluban remains primarily an oral language, transmitted through memory, song, and ceremonial recitation rather than through written texts. This linguistic orientation reflects a cultural emphasis on the spoken word, memory, and communal participation in the creation and preservation of knowledge.
+Nyáluban is the principal language of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]], a confederation of communities occupying the southern reaches of the [[place-xerathia|Zerathia]] continent. Spoken by an estimated 2-3 million people across dispersed communities, Nyáluban is an oral language with no writing tradition of its own, transmitted through memory, song, and ceremonial recitation rather than through written texts. This linguistic orientation reflects a cultural emphasis on the spoken word, memory, and communal participation in the creation and preservation of knowledge.
 
 The language is remarkable for its sophisticated system of drum and tone communication, which permits long-distance transmission of complex messages across the savanna and through forested regions. This feature, combined with its tonal phonology and rich metaphorical vocabulary, gives Nyáluban a distinctive character among the world's languages.
 
@@ -6377,15 +6600,15 @@ The language is remarkable for its sophisticated system of drum and tone communi
 
 Nyáluban is pitched and even, spoken as readily as it is drummed.
 
-**The vowels.** _a_, _o_, _e_, _i_ and _u_, all open. One acute marks a high stressed syllable.
+**The vowels.** _a_, _o_, _e_, _i_ and _u_, all open. Stress the first syllable unless an acute marks another. The acute marks stress, not high pitch.
 
 **The consonants.** _ny_, _ng_, _mb_, _nd_, _nk_, _sh_, _l_, _b_, _d_ and _w_.
 
-**Clusters.** _ng_, _mb_, _nd_ and _nk_ open syllables.
+**Clusters.** _ng_, _mb_, _nd_ and _nk_ open syllables. A short hum before the consonant, as in _um-BU-ka_, or the consonant alone, is always fine.
 
-**Endings.** Nyáluban words end in _-a_, _-o_, _-i_, _-we_, _-la_ or _-zi_.
+**Endings.** Nyáluban words end in a vowel, as in _ruwo_, _nyoli_ and _Lusheya_.
 
-**What Nyáluban leaves out.** It has no second mark in a word and no closed syllable.
+**What Nyáluban leaves out.** Common spelling leaves tone unwritten, uses at most one mark in a word and has no closed syllable. A reader need not learn rising or falling tones to say a name or read a passage aloud.
 
 ## Phonology
 
@@ -6440,7 +6663,7 @@ Nyáluban distinguishes five cardinal vowels with length distinctions:
 
 ### Tonal System
 
-Nyáluban is a sophisticated **multi-level tone language** with four to seven contrastive tones depending on analysis:
+Nyáluban speakers distinguish pitch levels and rising and falling contours in speech. This is part of the language within the world, including its drum register. The common spelling gives an accessible spoken approximation for readers; the descriptions below do not add pronunciation marks to words.
 
 Pitch is numbered on a five-step scale, 1 the lowest register and 5 the highest—the notation Thaloran scribes use when transcribing drum-speech.
 
@@ -6471,6 +6694,14 @@ Falling Tone (5–1 or 4–2)
 - Indicates subject and object relationships in some contexts
 - Carries emotional or pragmatic content (assertion vs. question, politeness, urgency)
 
+### Reading and performance
+
+Use the letters and first-syllable stress of [[doc-prnncthlrn|Pronouncing Thalorna]] when reading Nyáluban aloud. An acute indicates a different stressed syllable; it does not identify a high tone. Common spelling uses no grave, caron or circumflex to mark pitch. Readers are not expected to reproduce tonal distinctions for their words to be understood at the table.
+
+Linguistic tone and performance melody are separate. A call does not automatically give its words rising tones, nor does an answer give them falling tones. A griot's rhythm, repeated phrases and the hearers' responses carry the shape of a memory-song. Where useful, an optional direction outside the words can ask for a held syllable or a rising or falling phrase. It does not change the spelling or establish a new word meaning.
+
+The dictionary and cited constructions supply the words and grammar of a passage. Do not assign unwritten tones to new words or invent tonal changes to supply missing grammar. Specialist pitch numbers belong to an explicitly described drum score, not to ordinary names or verse readings.
+
 ### Drum Communication
 
 Nyáluban possesses a sophisticated system of long-distance communication through drum patterns that encode tonal and phonological information. The drum patterns follow the tonal melody of the language, permitting skilled drummers to transmit complex messages over distances of up to 10-20 kilometers. This system encodes:
@@ -6500,7 +6731,7 @@ Word Length
 : Moderate; compounds and affixed words create polysyllabic formations, but roots tend toward bisyllabic or monosyllabic forms
 
 Stress Patterns
-: Primary stress typically falls on the initial syllable; secondary stress may occur on alternate syllables in longer words. Stress interacts complexly with tonal patterns.
+: Stress falls on the first syllable unless an acute marks another stressed syllable. Stress and pitch are separate: no secondary-stress pattern or tonal contour needs to be learned for the common reading.
 
 ## Grammar Notes
 
@@ -6670,17 +6901,13 @@ words, tones and scope.
 
 ## Script & Literacy
 
-**Oral Tradition:** Nyáluban is primarily an oral language. Knowledge, history, genealogy, and wisdom are preserved through mnemonic poetic formulae, rhythmic recitation, and drum communication rather than written text. Trained speakers (griots, drummers, storytellers) serve as living repositories of cultural knowledge.
+Nyáluban has no indigenous script or writing tradition. Its speakers keep songs, genealogies, law and history through oral performance, memory and drum communication. Griots and the other trained keepers carry the authority of those traditions.
 
-**Recent Written Systems:** In the last 300-400 years, contact with neighboring writing systems has led to sporadic attempts to write Nyáluban. Two systems have emerged:
+Foreign scholars and traders may transcribe Nyáluban in their own writing systems. Such copies do not establish a Nyáluban writing practice, and Nyálubans themselves do not write or transcribe their language. A foreign copy does not replace a keeper's knowledge or authority.
 
-Syllabic Adaptation
-: Some scholars have adapted the scripts of neighboring peoples to represent Nyáluban: the [[skill-qalzscrscrpt|Qalezu]] alphabet, and the voweled [[skill-okhthztscrpt|Okhatha-zethu Script]] on syllabic principles. This has met with limited adoption.
+The parallel readings on these pages are transcriptions of oral performances accompanied by translations. The vowels and stress marks help readers pronounce the words. No written original is implied.
 
-Phonetic Innovations
-: Merchants and some educated individuals have experimented with phonetic systems (approaching alphabetic principles) to record contracts, names, and trade information. These remain marginal.
-
-**Literacy:** Formal literacy in Nyáluban is extremely low, estimated at 1-3% of the population. The cultural emphasis on oral transmission has historically rendered writing unnecessary for the preservation of knowledge. However, as contact intensifies and trade demands increase, interest in written Nyáluban has grown.
+These transcriptions use full stops for sentence endings and commas for pauses. Questions use the documented question words or the clause-final _nyewala_; a rising delivery does not replace them. Make spoken attribution clear in the wording instead of depending on quotation marks. Separate and indent the gathered answer in a call-and-response. These readings need no additional pitch or verse-end signs.
 
 ## Historical Development
 
@@ -6733,6 +6960,8 @@ Merchant Dialects
 - More rapid phonological change
 
 ## Sample Phrases
+
+The pitch descriptions below record customary delivery. They are not extra pronunciation requirements, and the acute in a written word continues to mark stress.
 
 Nyalu mi-bóo
 : _Greeting; literally "Nyáluba I-greet" (high tone on mi marks greeting register)_
@@ -6975,7 +7204,7 @@ The five clans of the [[affiliation-nylbtrblntn|Nyáluba Tribal Nation]] keep no
 
 A Nyáluban noun stands in a class its prefix marks, and an ending says what a word has become: _ruwo_ is the lion, and _[Ruwozi]{.name data-type="affiliation/lineage"}_ is the clan of the lion, the people who are _of_ it. A name of rank is two words, the head first and the thing it stands for after: _Nyoli Ruwozi_ is the Daughter of the Lion, and _[[lore-shorinyadty|Shorinya Ndafo]]_ is the Great Brightness.
 
-The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning, which is what lets a drum speak it; the pages mark a high tone with the acute and a low one with the grave, and neither changes the letter beneath it.
+The sound of Nyáluban is open and sung. Every syllable is a consonant and a vowel or a vowel alone, every word closes on a vowel, and a nasal before a stop opens many words and stands inside many more: _mb_, _nd_, _nk_, _nj_. No word has a fricative and a stop together, so none opens on _sp_, _st_ or _sk_. Pitch carries meaning within the spoken language, which is what lets a drum speak it. The common spelling leaves that pitch unwritten and uses an acute only to mark stress away from the first syllable. The transcription remains usable without a tonal performance.
 
 ## How to read the dictionary {#how-to-read-the-dictionary}
 

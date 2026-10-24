@@ -6,6 +6,7 @@ subType: spirittradition
 description: "The lion-spirit of the Ruwozi—courage, sovereignty and open challenge; senior among the Nyáluba guides because the Long Pact was sworn in its country."
 tags: [nyaluba, religion, totemic]
 data:
+  language: nyalbnlng
   icon: null
   templatePriority: null
   demonym: null
@@ -67,11 +68,20 @@ The cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]], hold
 
 : The Witness {#swearing-witness}
 
-```verse {form=praise lang=en}
-And who watched?
-  _The lion watched._
-The song says witness. It says no more than witness.
-  _No more than witness._
+Transcription of an oral recitation.
+
+```verse {form=praise numstep=5 cols=2}
+1 [Ngwi nyewaba lashemi.]{lang=nyal}
+2 [Who watched?]{lang=en}
+
+1 [.Ruwo lashemi.]{lang=nyal}
+2 [._The lion watched._]{lang=en}
+
+1 [Nyembe nyenda selemba. Nyembe shewe nyenda nyendele ndeyemo.]{lang=nyal}
+2 [The song says witness. It makes no other claim.]{lang=en}
+
+1 [.Selemba, nyeme nyendele ndeyemo.]{lang=nyal}
+2 [._Witness. No other claim._]{lang=en}
 ```
 
 ## Veneration
