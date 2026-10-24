@@ -31,18 +31,18 @@ My son, you were weighed this morning, and you did not know it. Your master look
 ## The Morning {#morning}
 
 ```verse {form=prose lang=en cols=2 numstep=5}
-1 [Huyir er egh, en heum ortrin bizvar zigharin toum. Toum uf epistémarin hein. Heir meltarin keirin er toum, oftelin er toum. Heir erotarin aritmas er zalvin en darvel. Toum aritmarin ortelir. Heir lámbarin toum. Heum ésharin zigharin. Heum ortrin pautarin. Efet plum pratin ésharin zigharin. Toum uf aeit epistémarin hein. Zighir uf deetarin epistemin er toum. Enit epistemin er egh para zighir. Egh dorasarin hein prel toum houm anerit dorasarin zerzhel meta deshvar. Toum zervarin zelvash. Efet toum matelarin hein. Efet toum itrarin zelvash. En 10 eniautin toum zervarin paler. Toum meltarin teir ésharin prostet. Eif toum uf tetarin hostin prostet, toum uf matelarin hostin. Eif toum otelarin hostin, toum pratarin apatin.]{.nativefont lang=biza}
+1 [Huyir er egh, en heum ortrin bizvar zigharin toum. Toum uf epistémarin hein. Heir meltarin keirin er toum, oftelin er toum. Heir erotarin aritmas er zalvin en darvel. Toum aritmarin ortelir. Heir lámbarin toum. Heum ésharin zigharin. Heum ortrin pautarin. Efet plum pratin ésharin zigharin. Toum uf aeit epistémarin hein. Zighir uf deetarin epistemin er toum. Enit epistemin er egh parza zighir. Egh dorasarin hein prel toum houm anerit dorasarin zerzhel frun deshvar. Toum zervarin zelvash. Efet toum matelarin hein. Efet toum itrarin zelvash. En 10 eniautin toum zervarin paler. Toum meltarin teir ésharin prostet. Eif toum uf tetarin hostin prostet, toum uf matelarin hostin. Eif toum otelarin hostin, toum pratarin apatin.]{.nativefont lang=biza}
 2 [Son, your master weighed you this morning without your knowing. He looked at your hands and eyes, asked for the number of bales in the yard, and took you after you counted correctly. That was weighing. From this morning onward, every action is weighed; you will not always know, and the balance has no need of your knowledge. Here is what I learned beside it. I give you these things as a man supplies an itemized schedule with his bond. Copy them, learn them, and burn the copy. Write them again ten years from now and look at your additions. Without additions you have learned nothing. If you have removed anything, you have cheated.]{lang=en}
-2 [Huyir er egh, en heum ortrin bizvar zigharin toum. Toum uf epistémarin hein. Heir meltarin keirin er toum, oftelin er toum. Heir erotarin aritmas er zalvin en darvel. Toum aritmarin ortelir. Heir lámbarin toum. Heum ésharin zigharin. Heum ortrin pautarin. Efet plum pratin ésharin zigharin. Toum uf aeit epistémarin hein. Zighir uf deetarin epistemin er toum. Enit epistemin er egh para zighir. Egh dorasarin hein prel toum houm anerit dorasarin zerzhel meta deshvar. Toum zervarin zelvash. Efet toum matelarin hein. Efet toum itrarin zelvash. En 10 eniautin toum zervarin paler. Toum meltarin teir ésharin prostet. Eif toum uf tetarin hostin prostet, toum uf matelarin hostin. Eif toum otelarin hostin, toum pratarin apatin.]{lang=biza}
+2 [Huyir er egh, en heum ortrin bizvar zigharin toum. Toum uf epistémarin hein. Heir meltarin keirin er toum, oftelin er toum. Heir erotarin aritmas er zalvin en darvel. Toum aritmarin ortelir. Heir lámbarin toum. Heum ésharin zigharin. Heum ortrin pautarin. Efet plum pratin ésharin zigharin. Toum uf aeit epistémarin hein. Zighir uf deetarin epistemin er toum. Enit epistemin er egh parza zighir. Egh dorasarin hein prel toum houm anerit dorasarin zerzhel frun deshvar. Toum zervarin zelvash. Efet toum matelarin hein. Efet toum itrarin zelvash. En 10 eniautin toum zervarin paler. Toum meltarin teir ésharin prostet. Eif toum uf tetarin hostin prostet, toum uf matelarin hostin. Eif toum otelarin hostin, toum pratarin apatin.]{lang=biza}
 
 ```
 
 : On Weights {#weights}
 
 ```verse {form=sayings lang=en cols=2 numstep=5}
-1 [Zighrel ésharin eitreir potet hein ésharin isetir meta zarzhel.]{.nativefont lang=biza}
+1 [Zighrel ésharin eitreir potet hein ésharin isetir frun zarzhel.]{.nativefont lang=biza}
 2 [An honest weight matches the standard.]{lang=en}
-2 [Zighrel ésharin eitreir potet hein ésharin isetir meta zarzhel.]{lang=biza}
+2 [Zighrel ésharin eitreir potet hein ésharin isetir frun zarzhel.]{lang=biza}
 
 1 [.Vezh trel meretin prel zighrel.]{.nativefont lang=biza}
 2 [.There is no third possibility.]{lang=en}
@@ -54,9 +54,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [The heavy weight steals from the buyer; the light one steals from the seller.]{lang=en}
 2 [Baretir zighrel ésharin vazhel er agorar. Elvir zighrel ésharin vazhel er polar.]{lang=biza}
 
-1 [.Anerit meta drin ésharin vazhel drinhorat, marvun meunhorat.]{.nativefont lang=biza}
+1 [.Anerit frun drin ésharin vazhel drinhorat, marvun meunhorat.]{.nativefont lang=biza}
 2 [.A man holding both is twice a thief and once a fool.]{lang=en}
-2 [.Anerit meta drin ésharin vazhel drinhorat, marvun meunhorat.]{lang=biza}
+2 [.Anerit frun drin ésharin vazhel drinhorat, marvun meunhorat.]{lang=biza}
 
 ***
 
@@ -80,9 +80,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Toum zigharin zalvin pro agorar er hein.]{.nativefont lang=biza}
+1 [Toum zigharin zalvin prez agorar er hein.]{.nativefont lang=biza}
 2 [Weigh a bale before its buyer.]{lang=en}
-2 [Toum zigharin zalvin pro agorar er hein.]{lang=biza}
+2 [Toum zigharin zalvin prez agorar er hein.]{lang=biza}
 
 1 [.Zighrel opit turin ésharin terzhel.]{.nativefont lang=biza}
 2 [.A weighing hidden behind a door amounts to rumor.]{lang=en}
@@ -143,9 +143,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Toum valzarin zelvash er autel. Toum tetarin hein en teselin uf meta itrin.]{.nativefont lang=biza}
+1 [Toum valzarin zelvash er autel. Toum tetarin hein en teselin uf frun itrin.]{.nativefont lang=biza}
 2 [Preserve your copy somewhere free of fire.]{lang=en}
-2 [Toum valzarin zelvash er autel. Toum tetarin hein en teselin uf meta itrin.]{lang=biza}
+2 [Toum valzarin zelvash er autel. Toum tetarin hein en teselin uf frun itrin.]{lang=biza}
 
 1 [.Zelvash er heter ésharin mervash prel retin er heir, prel harmodin er toum en retin er heir.]{.nativefont lang=biza}
 2 [.The other man's copy establishes what he says you agreed to.]{lang=en}
@@ -153,13 +153,13 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Kasir ameitin meta eitreir peitir ésharin kasir hikatin.]{.nativefont lang=biza}
+1 [Kasir ameitin frun eitreir peitir ésharin kasir hikatin.]{.nativefont lang=biza}
 2 [An unfavorable bargain faithfully honored is bad fortune.]{lang=en}
-2 [Kasir ameitin meta eitreir peitir ésharin kasir hikatin.]{lang=biza}
+2 [Kasir ameitin frun eitreir peitir ésharin kasir hikatin.]{lang=biza}
 
-1 [.Kelir ameitin meta uf eitreir peitir ésharin adikhin.]{.nativefont lang=biza}
+1 [.Kelir ameitin frun uf eitreir peitir ésharin adikhin.]{.nativefont lang=biza}
 2 [.A favorable bargain dishonestly honored is wrongdoing.]{lang=en}
-2 [.Kelir ameitin meta uf eitreir peitir ésharin adikhin.]{lang=biza}
+2 [.Kelir ameitin frun uf eitreir peitir ésharin adikhin.]{lang=biza}
 
 ***
 
@@ -197,22 +197,22 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [The bazaar says, Zhe danizh, kérdanir vezh: lend nothing; there is no profit.]{lang=en}
 2 [Ántimor er bazhar rétasin. Zhe danizh, kérdanir vezh.]{lang=biza}
 
-1 [.Bazhar uf ésharin ortelir. Toum danizh en papirin, meta telzhar, pro mervar. Kérdanir ésharin.]{.nativefont lang=biza}
+1 [.Bazhar uf ésharin ortelir. Toum danizh en papirin, frun telzhar, prez mervar. Kérdanir ésharin.]{.nativefont lang=biza}
 2 [.It is wrong. Lend in writing, at a stated rate, before witnesses; profit exists.]{lang=en}
-2 [.Bazhar uf ésharin ortelir. Toum danizh en papirin, meta telzhar, pro mervar. Kérdanir ésharin.]{lang=biza}
+2 [.Bazhar uf ésharin ortelir. Toum danizh en papirin, frun telzhar, prez mervar. Kérdanir ésharin.]{lang=biza}
 
-1 [.Toum danizh meta meun hafarin er keirin. Toteir bazhar ésharin ortelir.]{.nativefont lang=biza}
+1 [.Toum danizh frun meun hafarin er keirin. Toteir bazhar ésharin ortelir.]{.nativefont lang=biza}
 2 [.Lend on a touch of hands, and the bazaar is right.]{lang=en}
-2 [.Toum danizh meta meun hafarin er keirin. Toteir bazhar ésharin ortelir.]{lang=biza}
+2 [.Toum danizh frun meun hafarin er keirin. Toteir bazhar ésharin ortelir.]{lang=biza}
 
 ```
 
 : On the Defect {#defect}
 
 ```verse {form=sayings lang=en cols=2 numstep=5}
-1 [Toum rétasin zerpel pro polarin.]{.nativefont lang=biza}
+1 [Toum rétasin zerpel prez polarin.]{.nativefont lang=biza}
 2 [State a defect before selling.]{lang=en}
-2 [Toum rétasin zerpel pro polarin.]{lang=biza}
+2 [Toum rétasin zerpel prez polarin.]{lang=biza}
 
 1 [.Zerpel er rétasin uf ésharin zerpel en ameitin. Zerpel er kaluptarin ésharin ameitin olashin.]{.nativefont lang=biza}
 2 [.Once stated, it does no harm to the bargain. Concealed, it becomes the whole bargain.]{lang=en}
@@ -224,9 +224,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [Rot beneath the bale will be discovered. Always.]{lang=en}
 2 [Zhulvin en kamelir meretin er zalvin ésharin heurarin. Aeit.]{lang=biza}
 
-1 [.Monet erotarin ésharin tirm heurarin hein. Toum pro heir, eil heir opit toum.]{.nativefont lang=biza}
+1 [.Monet erotarin ésharin tirm heurarin hein. Toum prez heir, eil heir opit toum.]{.nativefont lang=biza}
 2 [.The question is who discovers it: you before him, or he behind you.]{lang=en}
-2 [.Monet erotarin ésharin tirm heurarin hein. Toum pro heir, eil heir opit toum.]{lang=biza}
+2 [.Monet erotarin ésharin tirm heurarin hein. Toum prez heir, eil heir opit toum.]{lang=biza}
 
 ***
 
@@ -273,9 +273,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 : On the Guest and the Price {#guest}
 
 ```verse {form=sayings lang=en cols=2 numstep=5}
-1 [Toum dorasarin edin prel ksenetir pro rétasin er zharpin.]{.nativefont lang=biza}
+1 [Toum dorasarin edin prel ksenetir prez rétasin er zharpin.]{.nativefont lang=biza}
 2 [Give your guest food before you state a price.]{lang=en}
-2 [Toum dorasarin edin prel ksenetir pro rétasin er zharpin.]{lang=biza}
+2 [Toum dorasarin edin prel ksenetir prez rétasin er zharpin.]{lang=biza}
 
 1 [.Anerit er kelir edin edet akherin meun aletir retin er toum prel autel.]{.nativefont lang=biza}
 2 [.A well-fed man has already heard your first truthful statement about yourself.]{lang=en}
@@ -313,9 +313,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Ksenvar ésharin ameitin. Ameitin meta aletir termira ésharin ksenvar.]{.nativefont lang=biza}
+1 [Ksenvar ésharin ameitin. Ameitin frun aletir termira ésharin ksenvar.]{.nativefont lang=biza}
 2 [Hospitality is negotiation. Negotiation with real warmth is hospitality.]{lang=en}
-2 [Ksenvar ésharin ameitin. Ameitin meta aletir termira ésharin ksenvar.]{lang=biza}
+2 [Ksenvar ésharin ameitin. Ameitin frun aletir termira ésharin ksenvar.]{lang=biza}
 
 1 [.Ksenetir pestarin meun ésharin pseudin. Heir uf lámbarin edin afor herin.]{.nativefont lang=biza}
 2 [.A foreigner calling either false has never eaten at our table.]{lang=en}
@@ -346,13 +346,13 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Toum rétasin bizvar er toum en retin er ónomir er autel. Toum rétasin nemzhin pro domin.]{.nativefont lang=biza}
+1 [Toum rétasin bizvar er toum en retin er ónomir er autel. Toum rétasin nemzhin prez domin.]{.nativefont lang=biza}
 2 [In introducing yourself, name your master. Name your guild before your house.]{lang=en}
-2 [Toum rétasin bizvar er toum en retin er ónomir er autel. Toum rétasin nemzhin pro domin.]{lang=biza}
+2 [Toum rétasin bizvar er toum en retin er ónomir er autel. Toum rétasin nemzhin prez domin.]{lang=biza}
 
-1 [.Anerit uf dunatarin kaleitarin nemzhin. Medinántimor epistémarin ameitin meta heir.]{.nativefont lang=biza}
+1 [.Anerit uf dunatarin kaleitarin nemzhin. Medinántimor epistémarin ameitin frun heir.]{.nativefont lang=biza}
 2 [.No one knows how to deal with a man unable to name a guild.]{lang=en}
-2 [.Anerit uf dunatarin kaleitarin nemzhin. Medinántimor epistémarin ameitin meta heir.]{lang=biza}
+2 [.Anerit uf dunatarin kaleitarin nemzhin. Medinántimor epistémarin ameitin frun heir.]{lang=biza}
 
 ***
 
@@ -393,15 +393,15 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [The League exists because of the road. Pay its toll.]{lang=en}
 2 [Hodis ésharin aitelin er ]{lang=biza}[League]{lang=en}[. Toum zharparin tolzát.]{lang=biza}
 
-1 [.Tolzát ésharin zharpin er hodis. Hodis uf meta zharpin kleitarin en krenhar.]{.nativefont lang=biza}
+1 [.Tolzát ésharin zharpin er hodis. Hodis uf frun zharpin kleitarin en krenhar.]{.nativefont lang=biza}
 2 [.A toll pays for the road. Without payment, the road shuts by spring.]{lang=en}
-2 [.Tolzát ésharin zharpin er hodis. Hodis uf meta zharpin kleitarin en krenhar.]{lang=biza}
+2 [.Tolzát ésharin zharpin er hodis. Hodis uf frun zharpin kleitarin en krenhar.]{lang=biza}
 
 ***
 
-1 [Toum aritmarin trel nomisin er heter pólitar pro edin er ortrin. Efet toum aritmarin paler.]{.nativefont lang=biza}
+1 [Toum aritmarin trel nomisin er heter pólitar prez edin er ortrin. Efet toum aritmarin paler.]{.nativefont lang=biza}
 2 [Count three currencies before your morning meal. Count again afterward.]{lang=en}
-2 [Toum aritmarin trel nomisin er heter pólitar pro edin er ortrin. Efet toum aritmarin paler.]{lang=biza}
+2 [Toum aritmarin trel nomisin er heter pólitar prez edin er ortrin. Efet toum aritmarin paler.]{lang=biza}
 
 1 [.Telzhar meteir helin allatarin hoset toum edarin.]{.nativefont lang=biza}
 2 [.Their exchange rate moved while you ate.]{lang=en}
@@ -409,13 +409,13 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Bazhar rétasin. Pef fótamir, pluma reshir.]{.nativefont lang=biza}
-2 [The bazaar says, Pef fótamir, pluma reshir: beside the rivers, everything flows.]{lang=en}
-2 [Bazhar rétasin. Pef fótamir, pluma reshir.]{lang=biza}
+1 [Bazhar rétasin. Pef fótamir, plunar reshir.]{.nativefont lang=biza}
+2 [The bazaar says, Pef fótamir, plunar reshir: beside the rivers, everything flows.]{lang=en}
+2 [Bazhar rétasin. Pef fótamir, plunar reshir.]{lang=biza}
 
-1 [.Hein ésharin aletir. Toum statarin para fótamir. Toum aritmarin krémashin er kinetarin para toum.]{.nativefont lang=biza}
+1 [.Hein ésharin aletir. Toum statarin parza fótamir. Toum aritmarin krémashin er kinetarin parza toum.]{.nativefont lang=biza}
 2 [.True. Stand at the bank and count what passes.]{lang=en}
-2 [.Hein ésharin aletir. Toum statarin para fótamir. Toum aritmarin krémashin er kinetarin para toum.]{lang=biza}
+2 [.Hein ésharin aletir. Toum statarin parza fótamir. Toum aritmarin krémashin er kinetarin parza toum.]{lang=biza}
 
 ***
 
@@ -443,9 +443,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [Outlawing a faith costs trade more than correct belief can ever recover.]{lang=en}
 2 [Pestira er apaghelir ésharin baretir zharpin en emforarin. Ortelir pestira uf dunatarin nostarin hein.]{lang=biza}
 
-1 [.Toum gonetarin para theshel en hodis er toum. Tásirin er hodis ekhárin vardesh prel autel.]{.nativefont lang=biza}
+1 [.Toum gonetarin parza theshel en hodis er toum. Tásirin er hodis ekhárin vardesh prel autel.]{.nativefont lang=biza}
 2 [.Bow beside the shrine you pass. The road's gods deserve their due.]{lang=en}
-2 [.Toum gonetarin para theshel en hodis er toum. Tásirin er hodis ekhárin vardesh prel autel.]{lang=biza}
+2 [.Toum gonetarin parza theshel en hodis er toum. Tásirin er hodis ekhárin vardesh prel autel.]{lang=biza}
 
 ***
 
@@ -466,15 +466,15 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [Keep your dispute away from the council, which has never heard your name.]{lang=en}
 2 [Toum uf féranin prakhel prou bulorin. Bulorin medinkronin akherin ónomir er toum.]{lang=biza}
 
-1 [.Toum féranin hein prou marzhar er toum meta heter er ameitin kaleitarin.]{.nativefont lang=biza}
+1 [.Toum féranin hein prou marzhar er toum frun heter er ameitin kaleitarin.]{.nativefont lang=biza}
 2 [.Bring it to an arbitrator named by both parties.]{lang=en}
-2 [.Toum féranin hein prou marzhar er toum meta heter er ameitin kaleitarin.]{lang=biza}
+2 [.Toum féranin hein prou marzhar er toum frun heter er ameitin kaleitarin.]{lang=biza}
 
 ***
 
-1 [Toum féranin zelvash er deshvel er toum. Heir erotarin hein pro ónomir er toum.]{.nativefont lang=biza}
+1 [Toum féranin zelvash er deshvel er toum. Heir erotarin hein prez ónomir er toum.]{.nativefont lang=biza}
 2 [Bring your terms' copy. He requests it before your name.]{lang=en}
-2 [Toum féranin zelvash er deshvel er toum. Heir erotarin hein pro ónomir er toum.]{lang=biza}
+2 [Toum féranin zelvash er deshvel er toum. Heir erotarin hein prez ónomir er toum.]{lang=biza}
 
 1 [.Heir kritarin prel keletin. Heir uf kritarin prel anerit.]{.nativefont lang=biza}
 2 [.His ruling concerns the clause.]{lang=en}
@@ -545,9 +545,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Toum rétasin telvar er kitvar taret pro tanearin, pro mervar.]{.nativefont lang=biza}
+1 [Toum rétasin telvar er kitvar taret prez tanearin, prez mervar.]{.nativefont lang=biza}
 2 [Before death, settle your accounts aloud before witnesses.]{lang=en}
-2 [Toum rétasin telvar er kitvar taret pro tanearin, pro mervar.]{lang=biza}
+2 [Toum rétasin telvar er kitvar taret prez tanearin, prez mervar.]{lang=biza}
 
 1 [.Toum kaleitarin vardesh prel autel. Toum rétasin vardesh er autel. Toum dorasarin deshvel er kleitarin prel huyir er toum.]{.nativefont lang=biza}
 2 [.Demand your debts, acknowledge what you owe, and leave your son settled terms.]{lang=en}
@@ -608,9 +608,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 
 ***
 
-1 [Toum uf pratarin ameitin meta Sighelin Dikaser. Heir arneitarin plum dorashin.]{.nativefont lang=biza}
+1 [Toum uf pratarin ameitin frun Sighelin Dikaser. Heir arneitarin plum dorashin.]{.nativefont lang=biza}
 2 [The [[lore-selmorosdty|Silent Judge]] accepts no bargain or offering.]{lang=en}
-2 [Toum uf pratarin ameitin meta Sighelin Dikaser. Heir arneitarin plum dorashin.]{lang=biza}
+2 [Toum uf pratarin ameitin frun Sighelin Dikaser. Heir arneitarin plum dorashin.]{lang=biza}
 
 1 [.Toum zharparin valzar. Heum ésharin heter pratin.]{.nativefont lang=biza}
 2 [.Paying chamber keepers is another matter.]{lang=en}
@@ -622,9 +622,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [The [[lore-karnavosdty|Wild Beast]] refused to seal. The Keeper used no force.]{lang=en}
 2 [Varzhel Ternin arneitarin sfradarin. Valzar uf drevzarin heir prou sfradarin.]{lang=biza}
 
-1 [.Toum uf drevzarin anerit prou sfradarin. Deshvar meta drevzash ésharin klastir en meun hemerin.]{.nativefont lang=biza}
+1 [.Toum uf drevzarin anerit prou sfradarin. Deshvar frun drevzash ésharin klastir en meun hemerin.]{.nativefont lang=biza}
 2 [.Force no man's seal. A forced bond breaks on its first day.]{lang=en}
-2 [.Toum uf drevzarin anerit prou sfradarin. Deshvar meta drevzash ésharin klastir en meun hemerin.]{lang=biza}
+2 [.Toum uf drevzarin anerit prou sfradarin. Deshvar frun drevzash ésharin klastir en meun hemerin.]{lang=biza}
 
 ***
 
@@ -641,9 +641,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 : The Last Weight {#last}
 
 ```verse {form=sayings lang=en cols=2 numstep=5}
-1 [Zighrel en Harvel ésharin baretir. Egh tetarin hein en zighir pro plumántimor.]{.nativefont lang=biza}
+1 [Zighrel en Harvel ésharin baretir. Egh tetarin hein en zighir prez plumántimor.]{.nativefont lang=biza}
 2 [The Hall's weight was heavy. I placed it on the balance before everyone.]{lang=en}
-2 [Zighrel en Harvel ésharin baretir. Egh tetarin hein en zighir pro plumántimor.]{lang=biza}
+2 [Zighrel en Harvel ésharin baretir. Egh tetarin hein en zighir prez plumántimor.]{lang=biza}
 
 1 [.Egh sestarin felin. Egh tetarin hein en zighir. Felin uf allatarin zighrel.]{.nativefont lang=biza}
 2 [.I was frightened and placed it there. Fear changes no weight.]{lang=en}
@@ -655,9 +655,9 @@ My son, you were weighed this morning, and you did not know it. Your master look
 2 [Truth requires no courageous speaker.]{lang=en}
 2 [Aletir pratin uf deetarin talorir anerit prel rétasin.]{lang=biza}
 
-1 [.Hein deetarin anerit prel rétasin pro ántimor er apatin eif heir uf rétasin.]{.nativefont lang=biza}
+1 [.Hein deetarin anerit prel rétasin prez ántimor er apatin eif heir uf rétasin.]{.nativefont lang=biza}
 2 [.It requires someone to speak before those who will otherwise be cheated.]{lang=en}
-2 [.Hein deetarin anerit prel rétasin pro ántimor er apatin eif heir uf rétasin.]{lang=biza}
+2 [.Hein deetarin anerit prel rétasin prez ántimor er apatin eif heir uf rétasin.]{lang=biza}
 
 ***
 

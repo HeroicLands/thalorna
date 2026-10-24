@@ -568,9 +568,9 @@ The schools have argued with the first half since there have been schools. Its g
 2 [Speak as a man, Euthalos, never slave to master.]{lang=en}
 2 [Almon rhéthasin pir helin hoth anerith Euthalos. Uf hoth doulir prou andáhr.]{lang=helo}
 
-1 [Hoseth Dorasir dorasarin khasir eniauthin pir thu. Rhéthasin heum enth kur er heira.]{.nativefont lang=helo}
+1 [Hoseth Dorasir dorasarin khasir eniauthin pir thu. Rhéthasin heum enth kor er heira.]{.nativefont lang=helo}
 2 [When Bountiful One gives bad year, speak at her altar.]{lang=en}
-2 [Hoseth Dorasir dorasarin khasir eniauthin pir thu. Rhéthasin heum enth kur er heira.]{lang=helo}
+2 [Hoseth Dorasir dorasarin khasir eniauthin pir thu. Rhéthasin heum enth kor er heira.]{lang=helo}
 
 1 [Rhéthasin. Egh dorasarin thu prineth plum thlifin. Thu dorasarin egh khruthin. Thu semanarin thin.]{.nativefont lang=helo}
 2 [Say: I give first pressing. You give hail. What do you mean?]{lang=en}
@@ -738,9 +738,9 @@ The schools have argued with the first half since there have been schools. Its g
 2 [Twelfth for gods, all twelve. Man does no work then,]{lang=en}
 2 [In arithmas 12 hemerin ésarin pir thásirin. Plum 12. In heun hemerin anerith pratharin medhin prathin.]{lang=helo}
 
-1 [Moneth érkharin prou kur. Prou agelon eith agelon ésarin. Antilekharin eketh.]{.nativefont lang=helo}
+1 [Moneth érkharin prou kor. Prou agelon eith agelon ésarin. Antilekharin eketh.]{.nativefont lang=helo}
 2 [only altar, assembly if one exists, arguing there.]{lang=en}
-2 [Moneth érkharin prou kur. Prou agelon eith agelon ésarin. Antilekharin eketh.]{lang=helo}
+2 [Moneth érkharin prou kor. Prou agelon eith agelon ésarin. Antilekharin eketh.]{lang=helo}
 
 1 [Telesth hemerin er selenir ésarin er Andáhr. Neur lampsarin hosthin. Neur rhiptharin hosthin ekor.]{.nativefont lang=helo}
 2 [Moon’s last day is Mistress’s. Pick nothing. Throw nothing out.]{lang=en}

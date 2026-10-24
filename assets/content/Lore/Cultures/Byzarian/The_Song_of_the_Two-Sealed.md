@@ -29,17 +29,17 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 : The Song of the Two-Sealed {#song}
 
 ```verse {form=borderer-song lang=en cols=2 numstep=5}
-1 [Parzhelir er krenir, katelarin para itrin er parzhel.]{.nativefont lang=biza}
+1 [Parzhelir er krenir, katelarin parza itrin er parzhel.]{.nativefont lang=biza}
 2 [Sit beside the fort fire, borderers guarding the springs,]{lang=en}
-2 [Parzhelir er krenir, katelarin para itrin er parzhel.]{lang=biza}
+2 [Parzhelir er krenir, katelarin parza itrin er parzhel.]{lang=biza}
 
 1 [Toum er arzhel, er érkharin prel krumvar katet eirenet, katelarin.]{.nativefont lang=biza}
 2 [and you grassland people wintering here under truce.]{lang=en}
 2 [Toum er arzhel, er érkharin prel krumvar katet eirenet, katelarin.]{lang=biza}
 
-1 [Kionir kleitarin vezhrel. Medinántimor érkharin dia pilin en heum nikhtir.]{.nativefont lang=biza}
+1 [Kionir kleitarin vezhrel. Medinántimor érkharin dres pilin en heum nikhtir.]{.nativefont lang=biza}
 2 [Snow closes the pass. Nobody crosses the gate tonight.]{lang=en}
-2 [Kionir kleitarin vezhrel. Medinántimor érkharin dia pilin en heum nikhtir.]{lang=biza}
+2 [Kionir kleitarin vezhrel. Medinántimor érkharin dres pilin en heum nikhtir.]{lang=biza}
 
 1 [Melvar ésharin hut teikhir. Barzhel ésharin en hurvel.]{.nativefont lang=biza}
 2 [Sentries hold the wall. Barley fills the loft.]{lang=en}
@@ -53,13 +53,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [hawk of the third spring, son of two peoples' seals:]{lang=en}
 2 [kezvun er trel krenir, huyir er sfradin er drin antmerin.]{lang=biza}
 
-1 [Varzhel er alvel. Varzhel er hikatin er anerit dia hodis.]{.nativefont lang=biza}
+1 [Varzhel er alvel. Varzhel er hikatin er anerit dres hodis.]{.nativefont lang=biza}
 2 [the threshing-floor song, and the rider who climbed the road]{lang=en}
-2 [Varzhel er alvel. Varzhel er hikatin er anerit dia hodis.]{lang=biza}
+2 [Varzhel er alvel. Varzhel er hikatin er anerit dres hodis.]{lang=biza}
 
-1 [En hespetin heir féranin kitvar en brakin. Varzhar meta melvar tulvaz.]{.nativefont lang=biza}
+1 [En hespetin heir féranin kitvar en brakin. Varzhar frun melvar tulvaz.]{.nativefont lang=biza}
 2 [at dusk with a book beneath his arm: the Collector on a black horse.]{lang=en}
-2 [En hespetin heir féranin kitvar en brakin. Varzhar meta melvar tulvaz.]{lang=biza}
+2 [En hespetin heir féranin kitvar en brakin. Varzhar frun melvar tulvaz.]{lang=biza}
 
 ***
 
@@ -87,17 +87,17 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [The camps keep that name. A name belongs where it is tended.]{lang=en}
 2 [Deir orzhel valzarin ónomir. Ónomir ésharin er teselin er valzin er autel.]{lang=biza}
 
-1 [Helin sumetarin para krenir. Ghunet féranin hidir. Tulvaz potarin.]{.nativefont lang=biza}
+1 [Helin sumetarin parza krenir. Ghunet féranin hidir. Tulvaz potarin.]{.nativefont lang=biza}
 2 [They met beside the spring when women drew water and horses drank.]{lang=en}
-2 [Helin sumetarin para krenir. Ghunet féranin hidir. Tulvaz potarin.]{lang=biza}
+2 [Helin sumetarin parza krenir. Ghunet féranin hidir. Tulvaz potarin.]{lang=biza}
 
 1 [Parzhel rétasin noir. Orzhel rétasin noir. Krenir rétasin medin.]{.nativefont lang=biza}
 2 [The fort refused. The camp refused. The spring kept silent.]{lang=en}
 2 [Parzhel rétasin noir. Orzhel rétasin noir. Krenir rétasin medin.]{lang=biza}
 
-1 [Heira érkharin meta orzhel en autumnar. Heira nostarin meta huyir en krenhar.]{.nativefont lang=biza}
+1 [Heira érkharin frun orzhel en autumnar. Heira nostarin frun huyir en krenhar.]{.nativefont lang=biza}
 2 [She left with the autumn camps and returned in spring with a son.]{lang=en}
-2 [Heira érkharin meta orzhel en autumnar. Heira nostarin meta huyir en krenhar.]{lang=biza}
+2 [Heira érkharin frun orzhel en autumnar. Heira nostarin frun huyir en krenhar.]{lang=biza}
 
 1 [Arsher statarin en pilin. Heir arneitarin anoigharin. Efet heir anoigharin.]{.nativefont lang=biza}
 2 [The captain stood at his gate, refused to open, then opened it.]{lang=en}
@@ -133,21 +133,21 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [He put her rope in the boy's little hand and spoke in the grass language:]{lang=en}
 2 [Heir tetarin narvel er tighir tulvaz en mikrir keirin er paidelir. Heir rétasin en retin er arzhel.]{lang=biza}
 
-1 [Heum ésharin er herin. Drel paidelir ekhárin drin sfradin. Cherzin meta otarin.]{.nativefont lang=biza}
+1 [Heum ésharin er herin. Drel paidelir ekhárin drin sfradin. Cherzin frun otarin.]{.nativefont lang=biza}
 2 [He belongs to us. Wax and ear sealed the boy twice,]{lang=en}
-2 [Heum ésharin er herin. Drel paidelir ekhárin drin sfradin. Cherzin meta otarin.]{lang=biza}
+2 [Heum ésharin er herin. Drel paidelir ekhárin drin sfradin. Cherzin frun otarin.]{lang=biza}
 
-1 [Teikhir meta arzhel. Antmerin er matira meta er tokhir.]{.nativefont lang=biza}
+1 [Teikhir frun arzhel. Antmerin er matira frun er tokhir.]{.nativefont lang=biza}
 2 [wall and grass, his mother's people and his father's.]{lang=en}
-2 [Teikhir meta arzhel. Antmerin er matira meta er tokhir.]{lang=biza}
+2 [Teikhir frun arzhel. Antmerin er matira frun er tokhir.]{lang=biza}
 
 1 [Parzhel kaleitarin heir Kezvunash, kezvun, deir kezvun érkharin hut telzhel er ghéranis.]{.nativefont lang=biza}
 2 [The fort called him Kezvunash, hawk, because hawks cross boundaries.]{lang=en}
 2 [Parzhel kaleitarin heir Kezvunash, kezvun, deir kezvun érkharin hut telzhel er ghéranis.]{lang=biza}
 
-1 [Orzhel kaleitarin heir meta ónomir er autel. Parzhel uf erotarin hein.]{.nativefont lang=biza}
+1 [Orzhel kaleitarin heir frun ónomir er autel. Parzhel uf erotarin hein.]{.nativefont lang=biza}
 2 [The camp gave its own name. The fort never asked for it.]{lang=en}
-2 [Orzhel kaleitarin heir meta ónomir er autel. Parzhel uf erotarin hein.]{lang=biza}
+2 [Orzhel kaleitarin heir frun ónomir er autel. Parzhel uf erotarin hein.]{lang=biza}
 
 1 [Drin sfradin en meun deshvar, parzhelir. Drin sfradin kleitarin deshvar er drin sfradin.]{.nativefont lang=biza}
 2 [Two seals upon one bond, borderers. Two seals must close a twice-sealed bond.]{lang=en}
@@ -157,9 +157,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [The Hall's law says so. The grassland law agrees.]{lang=en}
 2 [Heum ésharin nomashir en Harvel. Nomashir er arzhel uf ésharin heter.]{lang=biza}
 
-1 [Toum velzarin nunet. Varzhel erotarin heum afor toum pro teltin.]{.nativefont lang=biza}
+1 [Toum velzarin nunet. Varzhel erotarin heum afor toum prez teltin.]{.nativefont lang=biza}
 2 [Remember. Before the song ends, you will need that rule.]{lang=en}
-2 [Toum velzarin nunet. Varzhel erotarin heum afor toum pro teltin.]{lang=biza}
+2 [Toum velzarin nunet. Varzhel erotarin heum afor toum prez teltin.]{lang=biza}
 
 ***
 
@@ -171,9 +171,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [nine of one tribe, while its garrison was on the road?]{lang=en}
 2 [9 tulvazar er meun fulatin. Parzhen ésharin en hodis.]{lang=biza}
 
-1 [Kezvunash sotharin hein, Drinsfradel. Heir érkharin prou helin para teikhir.]{.nativefont lang=biza}
+1 [Kezvunash sotharin hein, Drinsfradel. Heir érkharin prou helin parza teikhir.]{.nativefont lang=biza}
 2 [Kezvunash, the Two-Sealed, went out beside the wall.]{lang=en}
-2 [Kezvunash sotharin hein, Drinsfradel. Heir érkharin prou helin para teikhir.]{lang=biza}
+2 [Kezvunash sotharin hein, Drinsfradel. Heir érkharin prou helin parza teikhir.]{lang=biza}
 
 1 [Heir rétasin retin er arzhel. Heir erotarin. Er tirm eritin ésharin aitelin er tulvazar er toum.]{.nativefont lang=biza}
 2 [He spoke the grass language and asked whose herds had brought them riding.]{lang=en}
@@ -191,21 +191,21 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Who recovered the upland ewes driven off by mule-path thieves,]{lang=en}
 2 [Tirm féranin erin er vezhnur katet paler, er vazhel er mulvar hodis féranin apet.]{lang=biza}
 
-1 [300 erin meta neshar er domin er vezhnur en eritin er helin.]{.nativefont lang=biza}
+1 [300 erin frun neshar er domin er vezhnur en eritin er helin.]{.nativefont lang=biza}
 2 [three hundred, with a plateau house mark burned into their wool?]{lang=en}
-2 [300 erin meta neshar er domin er vezhnur en eritin er helin.]{lang=biza}
+2 [300 erin frun neshar er domin er vezhnur en eritin er helin.]{lang=biza}
 
 1 [Kezvunash féranin paler, Drinsfradel. Heir nuzvarin vazhel prel 6 hemerin.]{.nativefont lang=biza}
 2 [Kezvunash, the Two-Sealed, followed the thieves for six days.]{lang=en}
 2 [Kezvunash féranin paler, Drinsfradel. Heir nuzvarin vazhel prel 6 hemerin.]{lang=biza}
 
-1 [Heir aritmarin erin para pilin er parzhel er vezhrel. 300 érkharin dia pilin.]{.nativefont lang=biza}
+1 [Heir aritmarin erin parza pilin er parzhel er vezhrel. 300 érkharin dres pilin.]{.nativefont lang=biza}
 2 [At the pass-fort gate he counted them. Three hundred entered.]{lang=en}
-2 [Heir aritmarin erin para pilin er parzhel er vezhrel. 300 érkharin dia pilin.]{lang=biza}
+2 [Heir aritmarin erin parza pilin er parzhel er vezhrel. 300 érkharin dres pilin.]{lang=biza}
 
-1 [Tirm statarin en merzhel para badelvar er fótamir, potet arsher érkharin prel itrarin]{.nativefont lang=biza}
+1 [Tirm statarin en merzhel parza badelvar er fótamir, potet arsher érkharin prel itrarin]{.nativefont lang=biza}
 2 [Who stood in the opening beside the river ford when the captain rode to burn]{lang=en}
-2 [Tirm statarin en merzhel para badelvar er fótamir, potet arsher érkharin prel itrarin]{lang=biza}
+2 [Tirm statarin en merzhel parza badelvar er fótamir, potet arsher érkharin prel itrarin]{lang=biza}
 
 1 [orzhel er krumvar deir apetin er tulvaz. Medinántimor en orzhel lámbarin tulvaz.]{.nativefont lang=biza}
 2 [winter camps for a horse none of their people had stolen?]{lang=en}
@@ -223,9 +223,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [The captain named a pass monk. The monk found the horse inside the fort.]{lang=en}
 2 [Arsher kaleitarin munzhar er vezhrel. Munzhar heurarin tulvaz en parzhel.]{lang=biza}
 
-1 [Tirm zharparin prel mikrir tulvaz er tevir er orzhel para apet karvashvel.]{.nativefont lang=biza}
+1 [Tirm zharparin prel mikrir tulvaz er tevir er orzhel parza apet karvashvel.]{.nativefont lang=biza}
 2 [Who paid for a camp child's pony at the outer caravanserai]{lang=en}
-2 [Tirm zharparin prel mikrir tulvaz er tevir er orzhel para apet karvashvel.]{lang=biza}
+2 [Tirm zharparin prel mikrir tulvaz er tevir er orzhel parza apet karvashvel.]{lang=biza}
 
 1 [Potet tolzhar aritmarin hein drinhorat. Tokhir er tevir uf ekhárin argirin.]{.nativefont lang=biza}
 2 [when the collector counted twice and the father had no silver?]{lang=en}
@@ -235,13 +235,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Kezvunash, the Two-Sealed, paid and requested the count read again.]{lang=en}
 2 [Kezvunash zharparin, Drinsfradel. Efet heir erotarin darzarin er aritmas paler.]{lang=biza}
 
-1 [Tolzhar nostarin nomisin prel heir. Tevir tulvazarin dia pilin meta karil.]{.nativefont lang=biza}
+1 [Tolzhar nostarin nomisin prel heir. Tevir tulvazarin dres pilin frun karil.]{.nativefont lang=biza}
 2 [The collector refunded him. The child rode inside, happy.]{lang=en}
-2 [Tolzhar nostarin nomisin prel heir. Tevir tulvazarin dia pilin meta karil.]{lang=biza}
+2 [Tolzhar nostarin nomisin prel heir. Tevir tulvazarin dres pilin frun karil.]{lang=biza}
 
-1 [Tirm féranin derzhel er noselin er adelir dia vezhrel en kionir.]{.nativefont lang=biza}
+1 [Tirm féranin derzhel er noselin er adelir dres vezhrel en kionir.]{.nativefont lang=biza}
 2 [Who carried the brothers' fever bark across the snowy pass]{lang=en}
-2 [Tirm féranin derzhel er noselin er adelir dia vezhrel en kionir.]{lang=biza}
+2 [Tirm féranin derzhel er noselin er adelir dres vezhrel en kionir.]{lang=biza}
 
 1 [Potet korzhel érkharin prou orzhel er krumvar. Orzhel uf ekhárin iatar.]{.nativefont lang=biza}
 2 [when coughing struck the winter camps and they lacked a healer,]{lang=en}
@@ -251,21 +251,21 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [with the winter gate shut and the captain refusing to open it?]{lang=en}
 2 [Pilin kleitarin prel krumvar. Arsher arneitarin anoigharin.]{lang=biza}
 
-1 [Kezvunash féranin, Drinsfradel. Heir érkharin apet dia mulvar hodis.]{.nativefont lang=biza}
+1 [Kezvunash féranin, Drinsfradel. Heir érkharin apet dres mulvar hodis.]{.nativefont lang=biza}
 2 [Kezvunash, the Two-Sealed, left by the mule path.]{lang=en}
-2 [Kezvunash féranin, Drinsfradel. Heir érkharin apet dia mulvar hodis.]{lang=biza}
+2 [Kezvunash féranin, Drinsfradel. Heir érkharin apet dres mulvar hodis.]{lang=biza}
 
 1 [Adelir zervarin edin er iatar er heir féranin. Geratir er orzhel aritmarin hein.]{.nativefont lang=biza}
 2 [The brothers recorded his load. The camp elder counted it.]{lang=en}
 2 [Adelir zervarin edin er iatar er heir féranin. Geratir er orzhel aritmarin hein.]{lang=biza}
 
-1 [Heir nostarin dia mulvar hodis meta neshar er geratir en zharvel er aritmas.]{.nativefont lang=biza}
+1 [Heir nostarin dres mulvar hodis frun neshar er geratir en zharvel er aritmas.]{.nativefont lang=biza}
 2 [He returned along the path with the elder's mark on the tally.]{lang=en}
-2 [Heir nostarin dia mulvar hodis meta neshar er geratir en zharvel er aritmas.]{lang=biza}
+2 [Heir nostarin dres mulvar hodis frun neshar er geratir en zharvel er aritmas.]{lang=biza}
 
-1 [Tirm lámbarin gemetira afor vezhnur meta gemetvar er zervarin, er sfradarin.]{.nativefont lang=biza}
+1 [Tirm lámbarin gemetira afor vezhnur frun gemetvar er zervarin, er sfradarin.]{.nativefont lang=biza}
 2 [Who married from the plateau with a written, sealed dowry,]{lang=en}
-2 [Tirm lámbarin gemetira afor vezhnur meta gemetvar er zervarin, er sfradarin.]{lang=biza}
+2 [Tirm lámbarin gemetira afor vezhnur frun gemetvar er zervarin, er sfradarin.]{lang=biza}
 
 1 [Heir zharparin zharpin er gemetira er orzhel erotarin en tulvaz. Drin en meun menetin.]{.nativefont lang=biza}
 2 [and paid the camps' horse bride-price too, both within one month,]{lang=en}
@@ -279,17 +279,17 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Kezvunash, the Two-Sealed, married her twice:]{lang=en}
 2 [Kezvunash lámbarin heira, Drinsfradel. Helin pratarin gemetrin drinhorat.]{lang=biza}
 
-1 [Meunhorat en mikrir theshel er parzhel. Meunhorat en selvazh para fótamir.]{.nativefont lang=biza}
+1 [Meunhorat en mikrir theshel er parzhel. Meunhorat en selvazh parza fótamir.]{.nativefont lang=biza}
 2 [once in the fort chapel, once in felt beside the river.]{lang=en}
-2 [Meunhorat en mikrir theshel er parzhel. Meunhorat en selvazh para fótamir.]{lang=biza}
+2 [Meunhorat en mikrir theshel er parzhel. Meunhorat en selvazh parza fótamir.]{lang=biza}
 
-1 [Heira tanearin en klinetin er heira makrir kronin pro heir. Valzin er heira ekhárin zharpin.]{.nativefont lang=biza}
+1 [Heira tanearin en klinetin er heira makrir kronin prez heir. Valzin er heira ekhárin zharpin.]{.nativefont lang=biza}
 2 [She died in her bed long before him. Her keeping is paid.]{lang=en}
-2 [Heira tanearin en klinetin er heira makrir kronin pro heir. Valzin er heira ekhárin zharpin.]{lang=biza}
+2 [Heira tanearin en klinetin er heira makrir kronin prez heir. Valzin er heira ekhárin zharpin.]{lang=biza}
 
-1 [Heum ésharin varzhel pro heum varzhel. Toum epistémarin. Toum rétasin en heter nikhtir.]{.nativefont lang=biza}
+1 [Heum ésharin varzhel prez heum varzhel. Toum epistémarin. Toum rétasin en heter nikhtir.]{.nativefont lang=biza}
 2 [Those are the earlier songs. You know them. Sing them another night.]{lang=en}
-2 [Heum ésharin varzhel pro heum varzhel. Toum epistémarin. Toum rétasin en heter nikhtir.]{lang=biza}
+2 [Heum ésharin varzhel prez heum varzhel. Toum epistémarin. Toum rétasin en heter nikhtir.]{lang=biza}
 
 ***
 
@@ -309,29 +309,29 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [springs flow a finger wide, and forts count water.]{lang=en}
 2 [Krenir reshir en platelin er meun dakhelin. Parzhel aritmarin hidir.]{lang=biza}
 
-1 [En hespetin tulvazar érkharin anet dia hodis. Tulvaz ésharin melvar houm neshar.]{.nativefont lang=biza}
+1 [En hespetin tulvazar érkharin anet dres hodis. Tulvaz ésharin melvar houm neshar.]{.nativefont lang=biza}
 2 [At dusk a rider climbed the road on a horse black as a die.]{lang=en}
-2 [En hespetin tulvazar érkharin anet dia hodis. Tulvaz ésharin melvar houm neshar.]{lang=biza}
+2 [En hespetin tulvazar érkharin anet dres hodis. Tulvaz ésharin melvar houm neshar.]{lang=biza}
 
 1 [Medin konetin airatarin afor navrel er tulvaz. Chirnal en dezhel ésharin uf tarir.]{.nativefont lang=biza}
 2 [Its hooves raised no dust. Its harness bells made no sound.]{lang=en}
 2 [Medin konetin airatarin afor navrel er tulvaz. Chirnal en dezhel ésharin uf tarir.]{lang=biza}
 
-1 [Kitvar ésharin en brakin er heir. Zervel meta makhel ésharin en zostir.]{.nativefont lang=biza}
+1 [Kitvar ésharin en brakin er heir. Zervel frun makhel ésharin en zostir.]{.nativefont lang=biza}
 2 [He carried a book under one arm, pen and knife at his belt.]{lang=en}
-2 [Kitvar ésharin en brakin er heir. Zervel meta makhel ésharin en zostir.]{lang=biza}
+2 [Kitvar ésharin en brakin er heir. Zervel frun makhel ésharin en zostir.]{lang=biza}
 
-1 [Melvar hut teikhir kaleitarin. Pilin kleitarin. Heir érkharin dia hein.]{.nativefont lang=biza}
+1 [Melvar hut teikhir kaleitarin. Pilin kleitarin. Heir érkharin dres hein.]{.nativefont lang=biza}
 2 [A sentry called. The gate shut. The rider passed through it.]{lang=en}
-2 [Melvar hut teikhir kaleitarin. Pilin kleitarin. Heir érkharin dia hein.]{lang=biza}
+2 [Melvar hut teikhir kaleitarin. Pilin kleitarin. Heir érkharin dres hein.]{lang=biza}
 
-1 [Heir érkharin dia pilin er parzhel houm vardesh érkharin dia turin.]{.nativefont lang=biza}
+1 [Heir érkharin dres pilin er parzhel houm vardesh érkharin dres turin.]{.nativefont lang=biza}
 2 [He passed the fort gate as debt passes a door.]{lang=en}
-2 [Heir érkharin dia pilin er parzhel houm vardesh érkharin dia turin.]{lang=biza}
+2 [Heir érkharin dres pilin er parzhel houm vardesh érkharin dres turin.]{lang=biza}
 
-1 [Heir érkharin katet para alvel. Parzhen pratarin teletin er barzhel ekesh.]{.nativefont lang=biza}
+1 [Heir érkharin katet parza alvel. Parzhen pratarin teletin er barzhel ekesh.]{.nativefont lang=biza}
 2 [He dismounted beside the barley threshing floor]{lang=en}
-2 [Heir érkharin katet para alvel. Parzhen pratarin teletin er barzhel ekesh.]{lang=biza}
+2 [Heir érkharin katet parza alvel. Parzhen pratarin teletin er barzhel ekesh.]{lang=biza}
 
 1 [Heir erotarin Kezvunash Drinsfradel, kezvun er trel krenir.]{.nativefont lang=biza}
 2 [and requested Kezvunash, the Two-Sealed, hawk of the third spring.]{lang=en}
@@ -351,9 +351,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [He brought neither sword nor bow. Who takes a sword to a creditor?]{lang=en}
 2 [Heir uf féranin zirvel eil tokhel. Toum uf féranin zirvel prou vardeshar.]{lang=biza}
 
-1 [Heir rétasin. Tirm ésharin toum. Toum érkharin dia kleitarin pilin uf meta tolzát.]{.nativefont lang=biza}
+1 [Heir rétasin. Tirm ésharin toum. Toum érkharin dres kleitarin pilin uf frun tolzát.]{.nativefont lang=biza}
 2 [He said, Who passes a shut gate and pays no toll?]{lang=en}
-2 [Heir rétasin. Tirm ésharin toum. Toum érkharin dia kleitarin pilin uf meta tolzát.]{lang=biza}
+2 [Heir rétasin. Tirm ésharin toum. Toum érkharin dres kleitarin pilin uf frun tolzát.]{lang=biza}
 
 1 [Tulvazar rétasin. Egh ésharin Varzhar. Egh érkharin afor melvar pilin.]{.nativefont lang=biza}
 2 [The rider answered, I am the Collector, from the black gate,]{lang=en}
@@ -367,17 +367,17 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Your thread has reached its measured length on the [[lore-lusiniadty|Weaver]]'s wheel, Two-Sealed.]{lang=en}
 2 [Nematin er toum ésharin teletin en kervel er Nemvara, Drinsfradel.]{lang=biza}
 
-1 [Egh érkharin prel kleitarin kitvar er toum. Toum érkharin meta egh. Hodis ésharin makrir.]{.nativefont lang=biza}
+1 [Egh érkharin prel kleitarin kitvar er toum. Toum érkharin frun egh. Hodis ésharin makrir.]{.nativefont lang=biza}
 2 [I have come to close your account. Come. Our road is long.]{lang=en}
-2 [Egh érkharin prel kleitarin kitvar er toum. Toum érkharin meta egh. Hodis ésharin makrir.]{lang=biza}
+2 [Egh érkharin prel kleitarin kitvar er toum. Toum érkharin frun egh. Hodis ésharin makrir.]{lang=biza}
 
 1 [Kezvunash rétasin. Toum zhelvarin papirin prel egh. Medin anerit er 5 pólitar]{.nativefont lang=biza}
 2 [Kezvunash answered, Show the document. No man of the five cities]{lang=en}
 2 [Kezvunash rétasin. Toum zhelvarin papirin prel egh. Medin anerit er 5 pólitar]{lang=biza}
 
-1 [érkharin dia hodis meta ksenetir deir monet retin er ksenetir er papirin.]{.nativefont lang=biza}
+1 [érkharin dres hodis frun ksenetir deir monet retin er ksenetir er papirin.]{.nativefont lang=biza}
 2 [travels with a stranger merely on a stranger's claim of written terms.]{lang=en}
-2 [érkharin dia hodis meta ksenetir deir monet retin er ksenetir er papirin.]{lang=biza}
+2 [érkharin dres hodis frun ksenetir deir monet retin er ksenetir er papirin.]{lang=biza}
 
 ***
 
@@ -385,13 +385,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [The Collector opened his book. The fort's brother descended from the wall,]{lang=en}
 2 [Varzhar anoigharin kitvar. Adelir er parzhel érkharin katet afor teikhir.]{lang=biza}
 
-1 [Munzhar er vezhrel. Heir darzarin. Kezvunash tetarin heir para itrin.]{.nativefont lang=biza}
+1 [Munzhar er vezhrel. Heir darzarin. Kezvunash tetarin heir parza itrin.]{.nativefont lang=biza}
 2 [a literate monk of the pass. Kezvunash placed him beside the fire.]{lang=en}
-2 [Munzhar er vezhrel. Heir darzarin. Kezvunash tetarin heir para itrin.]{lang=biza}
+2 [Munzhar er vezhrel. Heir darzarin. Kezvunash tetarin heir parza itrin.]{lang=biza}
 
-1 [Heir rétasin. Adelir, toum darzarin hein taret prel egh, houm papirin pro sfradarin.]{.nativefont lang=biza}
+1 [Heir rétasin. Adelir, toum darzarin hein taret prel egh, houm papirin prez sfradarin.]{.nativefont lang=biza}
 2 [Brother, read it aloud, as a document is read before sealing.]{lang=en}
-2 [Heir rétasin. Adelir, toum darzarin hein taret prel egh, houm papirin pro sfradarin.]{lang=biza}
+2 [Heir rétasin. Adelir, toum darzarin hein taret prel egh, houm papirin prez sfradarin.]{lang=biza}
 
 1 [Adelir darzarin taret. Nematin ésharin teletin en makrin er autel.]{.nativefont lang=biza}
 2 [The brother read: the thread had reached its length,]{lang=en}
@@ -415,25 +415,25 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Kezvunash said, One seal. I was sealed twice, Collector.]{lang=en}
 2 [Kezvunash rétasin. Heum ésharin meun sfradin. Egh ekhárin drin, Varzhar.]{lang=biza}
 
-1 [Arsher sfradarin egh meta cherzin. Tulvazar sfradarin egh en otarin.]{.nativefont lang=biza}
+1 [Arsher sfradarin egh frun cherzin. Tulvazar sfradarin egh en otarin.]{.nativefont lang=biza}
 2 [The captain used wax; the rider used the ear.]{lang=en}
-2 [Arsher sfradarin egh meta cherzin. Tulvazar sfradarin egh en otarin.]{lang=biza}
+2 [Arsher sfradarin egh frun cherzin. Tulvazar sfradarin egh en otarin.]{lang=biza}
 
 1 [Egh ésharin er parzhel, er orzhel. Drin sfradin kleitarin deshvar er drin sfradin.]{.nativefont lang=biza}
 2 [I belong to fort and camp. Two seals close a twice-sealed bond.]{lang=en}
 2 [Egh ésharin er parzhel, er orzhel. Drin sfradin kleitarin deshvar er drin sfradin.]{lang=biza}
 
-1 [Toum féranin heter sfradin prel egh. Toteir egh érkharin meta toum katet dia hodis.]{.nativefont lang=biza}
+1 [Toum féranin heter sfradin prel egh. Toteir egh érkharin frun toum katet dres hodis.]{.nativefont lang=biza}
 2 [Bring the other seal and I will follow you down the road.]{lang=en}
-2 [Toum féranin heter sfradin prel egh. Toteir egh érkharin meta toum katet dia hodis.]{lang=biza}
+2 [Toum féranin heter sfradin prel egh. Toteir egh érkharin frun toum katet dres hodis.]{lang=biza}
 
 1 [Varzhar rétasin. Tanor er orzhel uf ésharin er egh prel tetarin.]{.nativefont lang=biza}
 2 [The Collector said, The camps' dead are beyond my power to place.]{lang=en}
 2 [Varzhar rétasin. Tanor er orzhel uf ésharin er egh prel tetarin.]{lang=biza}
 
-1 [Ieresin er arzhel uf ésharin rétasin para melvar pilin. Egh uf dunatarin féranin hein.]{.nativefont lang=biza}
+1 [Ieresin er arzhel uf ésharin rétasin parza melvar pilin. Egh uf dunatarin féranin hein.]{.nativefont lang=biza}
 2 [The grass rite is never spoken at the black gate. I cannot bring it.]{lang=en}
-2 [Ieresin er arzhel uf ésharin rétasin para melvar pilin. Egh uf dunatarin féranin hein.]{lang=biza}
+2 [Ieresin er arzhel uf ésharin rétasin parza melvar pilin. Egh uf dunatarin féranin hein.]{lang=biza}
 
 1 [Kezvunash rétasin. Drel toum dunatarin kleitarin hemetin er egh. Monet hemetin.]{.nativefont lang=biza}
 2 [Kezvunash answered, Then you can close only half of me.]{lang=en}
@@ -447,9 +447,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [dry-mouthed as the army that died between the field's springs,]{lang=en}
 2 [Stomir ésharin zerhir. Houm poletar er tanearin meteir krenir en pedin.]{lang=biza}
 
-1 [Heir potarin afor skitin er badelar. Heir pautarin hidir er kalzhel pro ortrin.]{.nativefont lang=biza}
+1 [Heir potarin afor skitin er badelar. Heir pautarin hidir er kalzhel prez ortrin.]{.nativefont lang=biza}
 2 [drinking travelers' skins empty, draining jars before morning.]{lang=en}
-2 [Heir potarin afor skitin er badelar. Heir pautarin hidir er kalzhel pro ortrin.]{lang=biza}
+2 [Heir potarin afor skitin er badelar. Heir pautarin hidir er kalzhel prez ortrin.]{lang=biza}
 
 1 [Egh uf érkharin houm heum. Egh sotharin deshvel er drin antmerin plum zelarin er egh.]{.nativefont lang=biza}
 2 [I refuse that journey. All my life I honored two peoples' terms.]{lang=en}
@@ -489,9 +489,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [takes his thread from the Weaver's wheel. I hold the knife at its end.]{lang=en}
 2 [ekhárin nematin afor kervel er Nemvara. Egh ekhárin makhel en teltin er hein.]{lang=biza}
 
-1 [Vezh anerit prel akrotarin er heum prakhel uf meta vardesh prel egh.]{.nativefont lang=biza}
+1 [Vezh anerit prel akrotarin er heum prakhel uf frun vardesh prel egh.]{.nativefont lang=biza}
 2 [Everyone who could hear this dispute owes me.]{lang=en}
-2 [Vezh anerit prel akrotarin er heum prakhel uf meta vardesh prel egh.]{lang=biza}
+2 [Vezh anerit prel akrotarin er heum prakhel uf frun vardesh prel egh.]{lang=biza}
 
 1 [Kezvunash rétasin. Drel vezh marzhar. Drel heum meun prakhel]{.nativefont lang=biza}
 2 [Kezvunash said, Then we have no arbitrator. This one dispute]{lang=en}
@@ -515,13 +515,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [The garrison left the wall and gathered around it in darkness.]{lang=en}
 2 [Parzhen érkharin katet afor teikhir. Helin statarin perel hein en skotelir.]{lang=biza}
 
-1 [Erinvar érkharin anet afor krenir. Orzhel para fótamir féranin tulvazar.]{.nativefont lang=biza}
+1 [Erinvar érkharin anet afor krenir. Orzhel parza fótamir féranin tulvazar.]{.nativefont lang=biza}
 2 [Herders came from the spring. The riverside camp sent riders.]{lang=en}
-2 [Erinvar érkharin anet afor krenir. Orzhel para fótamir féranin tulvazar.]{lang=biza}
+2 [Erinvar érkharin anet afor krenir. Orzhel parza fótamir féranin tulvazar.]{lang=biza}
 
-1 [Tulvazar katelarin en tulvaz para teltin er faelin. Helin meltarin.]{.nativefont lang=biza}
+1 [Tulvazar katelarin en tulvaz parza teltin er faelin. Helin meltarin.]{.nativefont lang=biza}
 2 [At the light's edge the riders watched from their horses.]{lang=en}
-2 [Tulvazar katelarin en tulvaz para teltin er faelin. Helin meltarin.]{lang=biza}
+2 [Tulvazar katelarin en tulvaz parza teltin er faelin. Helin meltarin.]{lang=biza}
 
 1 [Helin ekhárin heter en keirin. Varzhar ésharin krumir houm siderin en krumvar.]{.nativefont lang=biza}
 2 [They gripped. The Collector felt cold as winter iron.]{lang=en}
@@ -547,9 +547,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [He stood, took his book, and wrote, Thrown, first day.]{lang=en}
 2 [Heir statarin. Heir lámbarin kitvar. Heir zervarin. Egh piptarin. Meun hemerin.]{lang=biza}
 
-1 [Heir rétasin. Aurit. Heir katelarin para krenir. Heir uf potarin.]{.nativefont lang=biza}
+1 [Heir rétasin. Aurit. Heir katelarin parza krenir. Heir uf potarin.]{.nativefont lang=biza}
 2 [Tomorrow, he said, and sat beside the spring without drinking.]{lang=en}
-2 [Heir rétasin. Aurit. Heir katelarin para krenir. Heir uf potarin.]{lang=biza}
+2 [Heir rétasin. Aurit. Heir katelarin parza krenir. Heir uf potarin.]{lang=biza}
 
 ***
 
@@ -557,9 +557,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [On the second night they descended onto that stone.]{lang=en}
 2 [En drin nikhtir helin érkharin katet prou alvel, prou litorin.]{lang=biza}
 
-1 [Parzhen statarin perel, meta erinvar, meta tulvazar er orzhel.]{.nativefont lang=biza}
+1 [Parzhen statarin perel, frun erinvar, frun tulvazar er orzhel.]{.nativefont lang=biza}
 2 [Garrison, herders, and camp riders stood around them.]{lang=en}
-2 [Parzhen statarin perel, meta erinvar, meta tulvazar er orzhel.]{lang=biza}
+2 [Parzhen statarin perel, frun erinvar, frun tulvazar er orzhel.]{lang=biza}
 
 1 [Helin ekhárin heter en keirin. Varzhar ésharin pletir krumir houm siderin en meshir er krumvar.]{.nativefont lang=biza}
 2 [They gripped. The Collector felt colder, like midwinter iron.]{lang=en}
@@ -585,9 +585,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [He stood, took his book, and wrote, Thrown, second day.]{lang=en}
 2 [Heir statarin. Heir lámbarin kitvar. Heir zervarin. Egh piptarin. Drin hemerin.]{lang=biza}
 
-1 [Heir rétasin. Aurit. Heir katelarin para krenir. Heir uf potarin.]{.nativefont lang=biza}
+1 [Heir rétasin. Aurit. Heir katelarin parza krenir. Heir uf potarin.]{.nativefont lang=biza}
 2 [Tomorrow, he said, and sat beside the spring without drinking.]{lang=en}
-2 [Heir rétasin. Aurit. Heir katelarin para krenir. Heir uf potarin.]{lang=biza}
+2 [Heir rétasin. Aurit. Heir katelarin parza krenir. Heir uf potarin.]{lang=biza}
 
 ***
 
@@ -595,37 +595,37 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [On the third night they descended onto that stone.]{lang=en}
 2 [En trel nikhtir helin érkharin katet prou alvel, prou litorin.]{lang=biza}
 
-1 [Parzhen statarin perel, meta erinvar, meta tulvazar er orzhel.]{.nativefont lang=biza}
+1 [Parzhen statarin perel, frun erinvar, frun tulvazar er orzhel.]{.nativefont lang=biza}
 2 [Garrison, herders, and camp riders stood around them.]{lang=en}
-2 [Parzhen statarin perel, meta erinvar, meta tulvazar er orzhel.]{lang=biza}
+2 [Parzhen statarin perel, frun erinvar, frun tulvazar er orzhel.]{lang=biza}
 
-1 [Pro keirin er helin Varzhar rétasin. Adelir er parzhel akherin.]{.nativefont lang=biza}
+1 [Prez keirin er helin Varzhar rétasin. Adelir er parzhel akherin.]{.nativefont lang=biza}
 2 [Before the grip the Collector spoke. The brother heard.]{lang=en}
-2 [Pro keirin er helin Varzhar rétasin. Adelir er parzhel akherin.]{lang=biza}
+2 [Prez keirin er helin Varzhar rétasin. Adelir er parzhel akherin.]{lang=biza}
 
 1 [Efet adelir rétasin. Retin ésharin houm darzarin er keletin.]{.nativefont lang=biza}
 2 [Later he said the words were delivered like a clause being read.]{lang=en}
 2 [Efet adelir rétasin. Retin ésharin houm darzarin er keletin.]{lang=biza}
 
-1 [Toum riptarin egh trelhorat, Drinsfradel. Toteir nematin menetarin uf meta makrin.]{.nativefont lang=biza}
+1 [Toum riptarin egh trelhorat, Drinsfradel. Toteir nematin menetarin uf frun makrin.]{.nativefont lang=biza}
 2 [Throw me a third time, Two-Sealed, and your thread continues without a length.]{lang=en}
-2 [Toum riptarin egh trelhorat, Drinsfradel. Toteir nematin menetarin uf meta makrin.]{lang=biza}
+2 [Toum riptarin egh trelhorat, Drinsfradel. Toteir nematin menetarin uf frun makrin.]{lang=biza}
 
-1 [Nematin uf meta makrin uf ésharin deshvel. Pratin uf meta deshvel uf ekhárin harmodin.]{.nativefont lang=biza}
+1 [Nematin uf frun makrin uf ésharin deshvel. Pratin uf frun deshvel uf ekhárin harmodin.]{.nativefont lang=biza}
 2 [An unmeasured thread has no term. A thing without terms has no agreement.]{lang=en}
-2 [Nematin uf meta makrin uf ésharin deshvel. Pratin uf meta deshvel uf ekhárin harmodin.]{lang=biza}
+2 [Nematin uf frun makrin uf ésharin deshvel. Pratin uf frun deshvel uf ekhárin harmodin.]{lang=biza}
 
-1 [Toum tulvazarin en zelvar meta Varzhel Ternin. Heir arneitarin sfradarin.]{.nativefont lang=biza}
+1 [Toum tulvazarin en zelvar frun Varzhel Ternin. Heir arneitarin sfradarin.]{.nativefont lang=biza}
 2 [You will ride the margin with the [[lore-karnavosdty|Wild Beast]], who refused his seal,]{lang=en}
-2 [Toum tulvazarin en zelvar meta Varzhel Ternin. Heir arneitarin sfradarin.]{lang=biza}
+2 [Toum tulvazarin en zelvar frun Varzhel Ternin. Heir arneitarin sfradarin.]{lang=biza}
 
 1 [Toum uf ésharin er parzhel, er orzhel. Medinerdrin sfradarin toum. Medinántimor valzarin.]{.nativefont lang=biza}
 2 [belonging to neither fort nor camp, sealed by neither, kept by nobody.]{lang=en}
 2 [Toum uf ésharin er parzhel, er orzhel. Medinerdrin sfradarin toum. Medinántimor valzarin.]{lang=biza}
 
-1 [Heum ésharin ameitin er trel riptarin. Egh rétasin zerpel pro agorarin er toum.]{.nativefont lang=biza}
+1 [Heum ésharin ameitin er trel riptarin. Egh rétasin zerpel prez agorarin er toum.]{.nativefont lang=biza}
 2 [That is the exchange a third throw brings. I declare it before your purchase.]{lang=en}
-2 [Heum ésharin ameitin er trel riptarin. Egh rétasin zerpel pro agorarin er toum.]{lang=biza}
+2 [Heum ésharin ameitin er trel riptarin. Egh rétasin zerpel prez agorarin er toum.]{lang=biza}
 
 ***
 
@@ -633,13 +633,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Kezvunash stood on the floor and looked around:]{lang=en}
 2 [Kezvunash statarin en alvel. Heir meltarin antmerin perel.]{lang=biza}
 
-1 [Parzhen meta delin. Erinvar meta klevel.]{.nativefont lang=biza}
+1 [Parzhen frun delin. Erinvar frun klevel.]{.nativefont lang=biza}
 2 [garrison carrying torches, herders carrying crooks,]{lang=en}
-2 [Parzhen meta delin. Erinvar meta klevel.]{lang=biza}
+2 [Parzhen frun delin. Erinvar frun klevel.]{lang=biza}
 
-1 [Tulvazar er orzhel er krumvar katelarin en tulvaz para teltin.]{.nativefont lang=biza}
+1 [Tulvazar er orzhel er krumvar katelarin en tulvaz parza teltin.]{.nativefont lang=biza}
 2 [winter-camp riders mounted at the edge,]{lang=en}
-2 [Tulvazar er orzhel er krumvar katelarin en tulvaz para teltin.]{lang=biza}
+2 [Tulvazar er orzhel er krumvar katelarin en tulvaz parza teltin.]{lang=biza}
 
 1 [Parzhel hut lofir. Arzhel érkharin prou skotelir.]{.nativefont lang=biza}
 2 [the hilltop fort, the grass extending into darkness.]{lang=en}
@@ -655,25 +655,25 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 
 ***
 
-1 [Toum zervarin en kitvar er toum, Varzhar. Adelir er parzhel rétasin pro egh]{.nativefont lang=biza}
+1 [Toum zervarin en kitvar er toum, Varzhar. Adelir er parzhel rétasin prez egh]{.nativefont lang=biza}
 2 [Write that the fort's brother shall speak over me]{lang=en}
-2 [Toum zervarin en kitvar er toum, Varzhar. Adelir er parzhel rétasin pro egh]{lang=biza}
+2 [Toum zervarin en kitvar er toum, Varzhar. Adelir er parzhel rétasin prez egh]{lang=biza}
 
 1 [ieresin er pilin houm parzhel rétasin. Melvar pilin anoigharin prel hein.]{.nativefont lang=biza}
 2 [its gate rite in its own fashion, and the black gate shall open to it.]{lang=en}
 2 [ieresin er pilin houm parzhel rétasin. Melvar pilin anoigharin prel hein.]{lang=biza}
 
-1 [Toum zervarin. Geratir er orzhel rétasin pro egh ieresin er arzhel.]{.nativefont lang=biza}
+1 [Toum zervarin. Geratir er orzhel rétasin prez egh ieresin er arzhel.]{.nativefont lang=biza}
 2 [Write that the camp elder shall speak its grass rite over me]{lang=en}
-2 [Toum zervarin. Geratir er orzhel rétasin pro egh ieresin er arzhel.]{lang=biza}
+2 [Toum zervarin. Geratir er orzhel rétasin prez egh ieresin er arzhel.]{lang=biza}
 
 1 [Houm arzhel rétasin. Parzhel uf rétasin hein. Hein uf ésharin er herin prel rétasin.]{.nativefont lang=biza}
 2 [in its own fashion. Our fort never sings it; it belongs beyond our singing.]{lang=en}
 2 [Houm arzhel rétasin. Parzhel uf rétasin hein. Hein uf ésharin er herin prel rétasin.]{lang=biza}
 
-1 [Toum zervarin. Egh kelrin para trel krenir, meteir teikhir meta arzhel er krumvar.]{.nativefont lang=biza}
+1 [Toum zervarin. Egh kelrin parza trel krenir, meteir teikhir frun arzhel er krumvar.]{.nativefont lang=biza}
 2 [Write that I shall lie beside the third spring between wall and winter grass,]{lang=en}
-2 [Toum zervarin. Egh kelrin para trel krenir, meteir teikhir meta arzhel er krumvar.]{lang=biza}
+2 [Toum zervarin. Egh kelrin parza trel krenir, meteir teikhir frun arzhel er krumvar.]{lang=biza}
 
 1 [Kefalir er egh prou parzhel. Podelin prou orzhel. Krenir meteir.]{.nativefont lang=biza}
 2 [head toward the fort, feet toward camp, spring between,]{lang=en}
@@ -683,9 +683,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [and both shall draw that spring's water at one place:]{lang=en}
 2 [Drinolashin féranin hidir er krenir afor meun teselin.]{lang=biza}
 
-1 [Kalzhel er parzhel, skitin er orzhel, para meun hidirvel, en meun horat.]{.nativefont lang=biza}
+1 [Kalzhel er parzhel, skitin er orzhel, parza meun hidirvel, en meun horat.]{.nativefont lang=biza}
 2 [fort jars and camp skins, one trough, one hour.]{lang=en}
-2 [Kalzhel er parzhel, skitin er orzhel, para meun hidirvel, en meun horat.]{lang=biza}
+2 [Kalzhel er parzhel, skitin er orzhel, parza meun hidirvel, en meun horat.]{lang=biza}
 
 1 [Toum zervarin, Varzhar. Toum sfradarin. Egh piptarin en trel riptarin.]{.nativefont lang=biza}
 2 [Write and seal it, Collector. On the third throw I will fall.]{lang=en}
@@ -713,9 +713,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [Then the third-spring captain stepped out from the torches]{lang=en}
 2 [Efet arsher er trel krenir érkharin prostel afor delin.]{lang=biza}
 
-1 [Heir zharzarin neshar er parzhel en cherzin para hein. Geratir er orzhel]{.nativefont lang=biza}
+1 [Heir zharzarin neshar er parzhel en cherzin parza hein. Geratir er orzhel]{.nativefont lang=biza}
 2 [and pressed the fort die beside it. The camp elder]{lang=en}
-2 [Heir zharzarin neshar er parzhel en cherzin para hein. Geratir er orzhel]{lang=biza}
+2 [Heir zharzarin neshar er parzhel en cherzin parza hein. Geratir er orzhel]{lang=biza}
 
 1 [érkharin prostel afor skotelir, en podelin. Heir zharvarin neshar er orzhel en zelvar.]{.nativefont lang=biza}
 2 [walked from the darkness and incised the camp mark in the margin.]{lang=en}
@@ -747,13 +747,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [as a five-cities man dies, with accounts settled aloud.]{lang=en}
 2 [Houm anerit er 5 pólitar. Kitvar er heir ekhárin telvar en taret retin.]{lang=biza}
 
-1 [Parzhen meta tulvazar féranin heir en dometin meta brakin meta podelin.]{.nativefont lang=biza}
+1 [Parzhen frun tulvazar féranin heir en dometin frun brakin frun podelin.]{.nativefont lang=biza}
 2 [Garrison and riders carried him inside by arms and legs.]{lang=en}
-2 [Parzhen meta tulvazar féranin heir en dometin meta brakin meta podelin.]{lang=biza}
+2 [Parzhen frun tulvazar féranin heir en dometin frun brakin frun podelin.]{lang=biza}
 
-1 [Arsher statarin para kefalir er heir. Geratir er orzhel para podelin.]{.nativefont lang=biza}
+1 [Arsher statarin parza kefalir er heir. Geratir er orzhel parza podelin.]{.nativefont lang=biza}
 2 [The captain stood at his head; the elder stood at his feet.]{lang=en}
-2 [Arsher statarin para kefalir er heir. Geratir er orzhel para podelin.]{lang=biza}
+2 [Arsher statarin parza kefalir er heir. Geratir er orzhel parza podelin.]{lang=biza}
 
 1 [Adelir katelarin. Kitvar en gonetir er heir prel zervarin er retin.]{.nativefont lang=biza}
 2 [The brother sat with the book on his knee, writing the words.]{lang=en}
@@ -771,9 +771,9 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [to the camp, the gray mare, the gray filly's daughter, to return home;]{lang=en}
 2 [Prel orzhel, politir matira er tulvaz, tighir er politir tevir er tulvaz, prel nostarin.]{lang=biza}
 
-1 [Prel tanvel er matira er heir, valzin. Heir kaleitarin nomisin meta valzar.]{.nativefont lang=biza}
+1 [Prel tanvel er matira er heir, valzin. Heir kaleitarin nomisin frun valzar.]{.nativefont lang=biza}
 2 [to his mother's grave, keeping, with named money and named keeper;]{lang=en}
-2 [Prel tanvel er matira er heir, valzin. Heir kaleitarin nomisin meta valzar.]{lang=biza}
+2 [Prel tanvel er matira er heir, valzin. Heir kaleitarin nomisin frun valzar.]{lang=biza}
 
 1 [Prel Varzhar, nematin er heir. Efet heir rétasin. Kitvar kleitarin.]{.nativefont lang=biza}
 2 [to the Collector, his thread. Then he said, The account is shut.]{lang=en}
@@ -789,33 +789,33 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 
 ***
 
-1 [Adelir rétasin ieresin er pilin pro heir, houm parzhel rétasin.]{.nativefont lang=biza}
+1 [Adelir rétasin ieresin er pilin prez heir, houm parzhel rétasin.]{.nativefont lang=biza}
 2 [The brother spoke the fort's gate rite in its fashion.]{lang=en}
-2 [Adelir rétasin ieresin er pilin pro heir, houm parzhel rétasin.]{lang=biza}
+2 [Adelir rétasin ieresin er pilin prez heir, houm parzhel rétasin.]{lang=biza}
 
 1 [Geratir rétasin ieresin er arzhel, houm arzhel rétasin.]{.nativefont lang=biza}
 2 [The elder spoke the grass rite in its fashion.]{lang=en}
 2 [Geratir rétasin ieresin er arzhel, houm arzhel rétasin.]{lang=biza}
 
-1 [Parzhel uf rétasin hein. Parzhel statarin uf meta retin hoset ieresin.]{.nativefont lang=biza}
+1 [Parzhel uf rétasin hein. Parzhel statarin uf frun retin hoset ieresin.]{.nativefont lang=biza}
 2 [The fort never sings that rite. It stood silent while he spoke.]{lang=en}
-2 [Parzhel uf rétasin hein. Parzhel statarin uf meta retin hoset ieresin.]{lang=biza}
+2 [Parzhel uf rétasin hein. Parzhel statarin uf frun retin hoset ieresin.]{lang=biza}
 
-1 [Helin tetarin somir para trel krenir, meteir teikhir meta arzhel er krumvar.]{.nativefont lang=biza}
+1 [Helin tetarin somir parza trel krenir, meteir teikhir frun arzhel er krumvar.]{.nativefont lang=biza}
 2 [They buried Kezvunash beside the third spring between wall and winter grass,]{lang=en}
-2 [Helin tetarin somir para trel krenir, meteir teikhir meta arzhel er krumvar.]{lang=biza}
+2 [Helin tetarin somir parza trel krenir, meteir teikhir frun arzhel er krumvar.]{lang=biza}
 
 1 [Kefalir prou parzhel. Podelin prou orzhel. Krenir meteir.]{.nativefont lang=biza}
 2 [head toward the fort, feet toward camp, spring between.]{lang=en}
 2 [Kefalir prou parzhel. Podelin prou orzhel. Krenir meteir.]{lang=biza}
 
-1 [Varzhar statarin para tanvel hoset drin ieresin.]{.nativefont lang=biza}
+1 [Varzhar statarin parza tanvel hoset drin ieresin.]{.nativefont lang=biza}
 2 [The Collector stood at the grave until both rites ended.]{lang=en}
-2 [Varzhar statarin para tanvel hoset drin ieresin.]{lang=biza}
+2 [Varzhar statarin parza tanvel hoset drin ieresin.]{lang=biza}
 
-1 [Efet heir érkharin anet en melvar tulvaz, katet dia hodis er vezhrel.]{.nativefont lang=biza}
+1 [Efet heir érkharin anet en melvar tulvaz, katet dres hodis er vezhrel.]{.nativefont lang=biza}
 2 [He mounted his black horse and rode down the pass road.]{lang=en}
-2 [Efet heir érkharin anet en melvar tulvaz, katet dia hodis er vezhrel.]{lang=biza}
+2 [Efet heir érkharin anet en melvar tulvaz, katet dres hodis er vezhrel.]{lang=biza}
 
 1 [Medin konetin airatarin afor navrel er tulvaz. Chirnal en dezhel ésharin uf tarir.]{.nativefont lang=biza}
 2 [Its hooves raised no dust. Its harness bells made no sound.]{lang=en}
@@ -847,13 +847,13 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [The brother standing between them says they never disputed.]{lang=en}
 2 [Adelir statarin meteir. Heir rétasin. Helin uf pratarin prakhel.]{lang=biza}
 
-1 [Gemetira er arsher tetarin kalzhel er hidir er krenir para kefalir.]{.nativefont lang=biza}
+1 [Gemetira er arsher tetarin kalzhel er hidir er krenir parza kefalir.]{.nativefont lang=biza}
 2 [The captain's wife set a spring-water jar at his head.]{lang=en}
-2 [Gemetira er arsher tetarin kalzhel er hidir er krenir para kefalir.]{lang=biza}
+2 [Gemetira er arsher tetarin kalzhel er hidir er krenir parza kefalir.]{lang=biza}
 
-1 [Gemetira er geratir tetarin skitin er hidir er krenir para podelin.]{.nativefont lang=biza}
+1 [Gemetira er geratir tetarin skitin er hidir er krenir parza podelin.]{.nativefont lang=biza}
 2 [The elder's wife set a spring-water skin at his feet.]{lang=en}
-2 [Gemetira er geratir tetarin skitin er hidir er krenir para podelin.]{lang=biza}
+2 [Gemetira er geratir tetarin skitin er hidir er krenir parza podelin.]{lang=biza}
 
 1 [En ortrin kalzhel ésharin plir. Skitin ésharin plir.]{.nativefont lang=biza}
 2 [At morning both remained full,]{lang=en}
@@ -865,17 +865,17 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 
 ***
 
-1 [Heum ésharin aitelin para trel krenir. Uf para hostin heter krenir er ]{.nativefont lang=biza}[March]{lang=en}[.]{.nativefont lang=biza}
+1 [Heum ésharin aitelin parza trel krenir. Uf parza hostin heter krenir er ]{.nativefont lang=biza}[March]{lang=en}[.]{.nativefont lang=biza}
 2 [That is why the third spring alone among the March's springs]{lang=en}
-2 [Heum ésharin aitelin para trel krenir. Uf para hostin heter krenir er ]{lang=biza}[March]{lang=en}[.]{lang=biza}
+2 [Heum ésharin aitelin parza trel krenir. Uf parza hostin heter krenir er ]{lang=biza}[March]{lang=en}[.]{lang=biza}
 
-1 [Kalzhel er parzhel, skitin er orzhel lámbarin hidir para meun hidirvel, en meun horat.]{.nativefont lang=biza}
+1 [Kalzhel er parzhel, skitin er orzhel lámbarin hidir parza meun hidirvel, en meun horat.]{.nativefont lang=biza}
 2 [fills fort jars and camp skins at one trough, one hour.]{lang=en}
-2 [Kalzhel er parzhel, skitin er orzhel lámbarin hidir para meun hidirvel, en meun horat.]{lang=biza}
+2 [Kalzhel er parzhel, skitin er orzhel lámbarin hidir parza meun hidirvel, en meun horat.]{lang=biza}
 
-1 [Tulvazar er orzhel er krumvar dorasarin hidir prel tulvaz meta mulvar er parzhen.]{.nativefont lang=biza}
+1 [Tulvazar er orzhel er krumvar dorasarin hidir prel tulvaz frun mulvar er parzhen.]{.nativefont lang=biza}
 2 [Winter-camp riders water their horses beside the garrison's mules.]{lang=en}
-2 [Tulvazar er orzhel er krumvar dorasarin hidir prel tulvaz meta mulvar er parzhen.]{lang=biza}
+2 [Tulvazar er orzhel er krumvar dorasarin hidir prel tulvaz frun mulvar er parzhen.]{lang=biza}
 
 1 [Medinántimor aritmarin hidir ekesh. Parzhel aritmarin hein en plum heter teselin.]{.nativefont lang=biza}
 2 [Nobody counts water there. Elsewhere the forts count it all.]{lang=en}
@@ -889,17 +889,17 @@ The monks of the eastern rite hold that the Collector is no god and no servant o
 2 [His mother is a soldier's daughter. Their fort carries another name.]{lang=en}
 2 [Matira er heir ésharin tighir er parzhelir. Ónomir er parzhel ésharin heter.]{lang=biza}
 
-1 [Helin rétasin. Hein ésharin homet tanvel. Drin varzhel pautarin para meun krenir.]{.nativefont lang=biza}
+1 [Helin rétasin. Hein ésharin homet tanvel. Drin varzhel pautarin parza meun krenir.]{.nativefont lang=biza}
 2 [Let them sing. The grave is the same. Both songs end at one spring.]{lang=en}
-2 [Helin rétasin. Hein ésharin homet tanvel. Drin varzhel pautarin para meun krenir.]{lang=biza}
+2 [Helin rétasin. Hein ésharin homet tanvel. Drin varzhel pautarin parza meun krenir.]{lang=biza}
 
 1 [Heum ésharin varzhel er Kezvunash Drinsfradel, kezvun er trel krenir.]{.nativefont lang=biza}
 2 [That is Kezvunash the Two-Sealed's song, hawk of the third spring.]{lang=en}
 2 [Heum ésharin varzhel er Kezvunash Drinsfradel, kezvun er trel krenir.]{lang=biza}
 
-1 [Toum tetarin hulitin en itrin. Melvar allatarin. Medinántimor érkharin dia pilin en heum nikhtir.]{.nativefont lang=biza}
+1 [Toum tetarin hulitin en itrin. Melvar allatarin. Medinántimor érkharin dres pilin en heum nikhtir.]{.nativefont lang=biza}
 2 [Add wood to the fire. The watch changes. Nobody crosses tonight.]{lang=en}
-2 [Toum tetarin hulitin en itrin. Melvar allatarin. Medinántimor érkharin dia pilin en heum nikhtir.]{lang=biza}
+2 [Toum tetarin hulitin en itrin. Melvar allatarin. Medinántimor érkharin dres pilin en heum nikhtir.]{lang=biza}
 
 ```
 

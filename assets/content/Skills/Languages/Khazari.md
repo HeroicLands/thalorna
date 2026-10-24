@@ -7695,7 +7695,7 @@ data:
       gloss: "rock or wobble without overturning"
       root: "r-m-l"
       frame: deed
-    - {form: bark, class: n, field: "Body and person", gloss: "knee", root: "b-r-k", frame: bare}
+    - {form: bart, class: n, field: "Body and person", gloss: "knee", root: b-r-t, frame: bare}
     - form: gamun
       class: n
       field: "Other peoples and the larder"
@@ -8466,7 +8466,7 @@ data:
     - {root: m-n-k, sense: "empty", field: deep}
     - {root: g-n-z, sense: "speech sound or phoneme", field: letter}
     - {root: r-m-l, sense: "rock or wobble without overturning", field: grain}
-    - {root: b-r-k, sense: "knee", field: body}
+    - {root: b-r-t, sense: "knee", field: body}
     - {root: g-m-n, sense: "month", field: other}
     - {root: d-v-b, sense: "stiffen physically", field: body}
     - {root: r-s-m, sense: "right-hand side", field: motion}

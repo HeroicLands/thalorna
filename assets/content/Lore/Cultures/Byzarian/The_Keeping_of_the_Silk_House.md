@@ -26,9 +26,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [Keeper, I have brought the money. The count is right. Count it again.]{lang=en}
 2 [Valzar, egh féranin nomisin. Aritmas ésharin ortelir. Toum aritmarin paler.]{lang=biza}
 
-1 [.Enit zharvel er paretin eniautin, er eniautin pro hein, er meun eniautin.]{.nativefont lang=biza}
+1 [.Enit zharvel er paretin eniautin, er eniautin prez hein, er meun eniautin.]{.nativefont lang=biza}
 2 [.Here are last year's receipt, the one before it, and the first.]{lang=en}
-2 [.Enit zharvel er paretin eniautin, er eniautin pro hein, er meun eniautin.]{lang=biza}
+2 [.Enit zharvel er paretin eniautin, er eniautin prez hein, er meun eniautin.]{lang=biza}
 
 1 [Toum zervarin retin er egh en zelvar, houm seketar er toum en nevrash.]{.nativefont lang=biza}
 2 [Write my words in the margin, the way your clerks write at renewal.]{lang=en}
@@ -64,9 +64,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [He was the first to finish silk in the city. The thread came from the east.]{lang=en}
 2 [Arkhelar pratarin teletin er meun charzil en pólitar. Nematin érkharin afor eotin.]{lang=biza}
 
-1 [.Zalvin érkharin dia vezhnur en selvazh, prou tálimir en linvar.]{.nativefont lang=biza}
+1 [.Zalvin érkharin dres vezhnur en selvazh, prou tálimir en linvar.]{.nativefont lang=biza}
 2 [.Bales crossed the heights wrapped in felt and went to the sea in linen.]{lang=en}
-2 [.Zalvin érkharin dia vezhnur en selvazh, prou tálimir en linvar.]{lang=biza}
+2 [.Zalvin érkharin dres vezhnur en selvazh, prou tálimir en linvar.]{lang=biza}
 
 1 [Merzhar dorasarin ónomir prel domin er heir. Merzhar uf allatarin teltin er ónomir.]{.nativefont lang=biza}
 2 [The assessors gave his house its name and would not alter its ending.]{lang=en}
@@ -84,9 +84,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.Their son brought dyers from the coast and paid twice their asking price.]{lang=en}
 2 [.Huyir er helin féranin zhamvar afor limenis. Heir zharparin drin horat er posetin er oratin er helin.]{lang=biza}
 
-1 [Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz pro mervar.]{.nativefont lang=biza}
+1 [Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz prez mervar.]{.nativefont lang=biza}
 2 [That son's wife lent at a third, received nothing, and forgave it before witnesses.]{lang=en}
-2 [Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz pro mervar.]{lang=biza}
+2 [Gemetira er huyir danizh en meretin er trel. Heira uf lámbarin zharpin. Heira tetarin sepuz prez mervar.]{lang=biza}
 
 1 [.Drin huyir er helin. Meun tanearin deir noselin. Heter tanearin en hodis.]{.nativefont lang=biza}
 2 [.Their two sons. Fever took one. The road took the other.]{lang=en}
@@ -110,9 +110,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.Zighahr. The balance. His name suited him.]{lang=en}
 2 [.Zighahr. Zighir. Heum ésharin ónomir er heir. Ónomir ésharin ortelir.]{lang=biza}
 
-1 [Heir zigharin charzil para turin er ambarim meta zighir er tokhir er heir.]{.nativefont lang=biza}
+1 [Heir zigharin charzil parza turin er ambarim frun zighir er tokhir er heir.]{.nativefont lang=biza}
 2 [He weighed silk at the warehouse door on a balance inherited from his father.]{lang=en}
-2 [Heir zigharin charzil para turin er ambarim meta zighir er tokhir er heir.]{lang=biza}
+2 [Heir zigharin charzil parza turin er ambarim frun zighir er tokhir er heir.]{lang=biza}
 
 1 [.Heir uf dorasarin efir prel seketar. Heir uf dorasarin efir prel egh.]{.nativefont lang=biza}
 2 [.He would allow no clerk to do it. He would not allow me.]{lang=en}
@@ -166,13 +166,13 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.His account is shut, keeper. I shut it. I hold the receipts.]{lang=en}
 2 [.Kitvar er heir kleitarin, valzar. Egh kleitarin hein. Egh ekhárin zharvel.]{lang=biza}
 
-1 [Egh uf kleitarin hostin heter. Zighir ésharin en salzhel para turin er ambarim.]{.nativefont lang=biza}
+1 [Egh uf kleitarin hostin heter. Zighir ésharin en salzhel parza turin er ambarim.]{.nativefont lang=biza}
 2 [I have shut nothing else. The balance stands on its shelf at the warehouse door.]{lang=en}
-2 [Egh uf kleitarin hostin heter. Zighir ésharin en salzhel para turin er ambarim.]{lang=biza}
+2 [Egh uf kleitarin hostin heter. Zighir ésharin en salzhel parza turin er ambarim.]{lang=biza}
 
-1 [.Medinántimor zigharin meta hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin.]{.nativefont lang=biza}
+1 [.Medinántimor zigharin frun hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin.]{.nativefont lang=biza}
 2 [.No one has weighed with it. Put that in the margin. A number: none.]{lang=en}
-2 [.Medinántimor zigharin meta hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin.]{lang=biza}
+2 [.Medinántimor zigharin frun hein. Toum zervarin heum en zelvar. Heum ésharin aritmas. Medin.]{lang=biza}
 
 1 [Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
 2 [Who tends the keeping when the keeper enters it?]{lang=en}
@@ -216,13 +216,13 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [There is no account to shut. A child has no account. She has a keeping.]{lang=en}
 2 [Vezh kitvar prel kleitarin. Tevir uf ekhárin kitvar. Tevir ekhárin valzin.]{lang=biza}
 
-1 [.Egh zharparin hein meta valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin.]{.nativefont lang=biza}
+1 [.Egh zharparin hein frun valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin.]{.nativefont lang=biza}
 2 [.I paid hers together with her father's and grandfather's, in one whole payment.]{lang=en}
-2 [.Egh zharparin hein meta valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin.]{lang=biza}
+2 [.Egh zharparin hein frun valzin er tokhir er heira, er tokhir er heir. Meun olashin zharpin.]{lang=biza}
 
-1 [Zharpin er valzin er tevir ésharin isetir meta er anerit, valzar. Toum medinkronin rétasin meitir zharpin.]{.nativefont lang=biza}
+1 [Zharpin er valzin er tevir ésharin isetir frun er anerit, valzar. Toum medinkronin rétasin meitir zharpin.]{.nativefont lang=biza}
 2 [A child's keeping costs as much as a man's. You have never asked me for less.]{lang=en}
-2 [Zharpin er valzin er tevir ésharin isetir meta er anerit, valzar. Toum medinkronin rétasin meitir zharpin.]{lang=biza}
+2 [Zharpin er valzin er tevir ésharin isetir frun er anerit, valzar. Toum medinkronin rétasin meitir zharpin.]{lang=biza}
 
 1 [.Egh uf erotarin heum. Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
 2 [.I never asked you to. Who tends the keeping when the keeper enters it?]{lang=en}
@@ -234,13 +234,13 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [Ánevazur. The wind. My son. The niche ending the row, with nothing inside.]{lang=en}
 2 [Ánevazur. Ánevir. Huyir er egh. Nerzhel en teltin er zhalven. Vezh hostin en hein.]{lang=biza}
 
-1 [.Heir érkharin prou Nesthiros meta zalvin er domin. Karvash er krenhar.]{.nativefont lang=biza}
+1 [.Heir érkharin prou Nesthiros frun zalvin er domin. Karvash er krenhar.]{.nativefont lang=biza}
 2 [.He took the spring bales down to Nesthiros,]{lang=en}
-2 [.Heir érkharin prou Nesthiros meta zalvin er domin. Karvash er krenhar.]{lang=biza}
+2 [.Heir érkharin prou Nesthiros frun zalvin er domin. Karvash er krenhar.]{lang=biza}
 
-1 [Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dia stravel.]{.nativefont lang=biza}
+1 [Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dres stravel.]{.nativefont lang=biza}
 2 [silk for the west, on a hired ship, through the straits.]{lang=en}
-2 [Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dia stravel.]{lang=biza}
+2 [Charzil prel veshtin. Navzhel er herin ekhárin zharpin prel meun horat. Heir érkharin dres stravel.]{lang=biza}
 
 1 [.Ánevir érkharin afor ghéranis en drin nikhtir. Navzhel uf nostarin.]{.nativefont lang=biza}
 2 [.A land wind rose on the second night. The ship did not return.]{lang=en}
@@ -274,9 +274,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [I brought it. I paid the cutter, the niche, and the rite.]{lang=en}
 2 [Drel egh féranin hein. Egh zharparin zharvarin, nerzhel, ieresin.]{lang=biza}
 
-1 [.Toum rétasin ieresin pro ónomir, pro maník salzhel. Egh statarin enit. Egh akherin hein.]{.nativefont lang=biza}
+1 [.Toum rétasin ieresin prez ónomir, prez maník salzhel. Egh statarin enit. Egh akherin hein.]{.nativefont lang=biza}
 2 [.You spoke the rite over a name and an empty shelf. I stood here listening.]{lang=en}
-2 [.Toum rétasin ieresin pro ónomir, pro maník salzhel. Egh statarin enit. Egh akherin hein.]{lang=biza}
+2 [.Toum rétasin ieresin prez ónomir, prez maník salzhel. Egh statarin enit. Egh akherin hein.]{lang=biza}
 
 1 [Egh zharparin maník salzhel plum eniautin afor kronin er heun horat. Olashin telzhar.]{.nativefont lang=biza}
 2 [Every year since, I have paid the whole rate for that empty shelf.]{lang=en}
@@ -316,9 +316,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [Keeper, I married at the [Thresholds]{.name data-type="lore/gathering" lang=en}. You know the custom. Write it down anyway.]{lang=en}
 2 [Valzar, egh ésharin gemetira en ]{lang=biza}[Thresholds]{lang=en}[. Toum epistémarin nomashir. Toum zervarin hein prostet.]{lang=biza}
 
-1 [.En ortrin er nevrash er eniautin gemetin érkharin katet meta émfarin meta bizvar.]{.nativefont lang=biza}
+1 [.En ortrin er nevrash er eniautin gemetin érkharin katet frun émfarin frun bizvar.]{.nativefont lang=biza}
 2 [.At the year's turning, spouses go down with merchants and craft masters.]{lang=en}
-2 [.En ortrin er nevrash er eniautin gemetin érkharin katet meta émfarin meta bizvar.]{lang=biza}
+2 [.En ortrin er nevrash er eniautin gemetin érkharin katet frun émfarin frun bizvar.]{lang=biza}
 
 1 [Mervar er theshel darzarin zarvel paler. Drinolashin sfradarin hein paler.]{.nativefont lang=biza}
 2 [The temple witness reads their vow again. Both spouses seal it again.]{lang=en}
@@ -328,13 +328,13 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.The clerk enters it under the year, as the gods renew the world.]{lang=en}
 2 [.Seketar zervarin hein en kitvar katet eniautin, houm tásirin nevarin kosamir.]{lang=biza}
 
-1 [26 horat egh érkharin katet meta Zighahr en ortrin er nevrash.]{.nativefont lang=biza}
+1 [26 horat egh érkharin katet frun Zighahr en ortrin er nevrash.]{.nativefont lang=biza}
 2 [Twenty-six times I went down beside Zighahr on the turning morning,]{lang=en}
-2 [26 horat egh érkharin katet meta Zighahr en ortrin er nevrash.]{lang=biza}
+2 [26 horat egh érkharin katet frun Zighahr en ortrin er nevrash.]{lang=biza}
 
-1 [.En krumira, meta chirnal. Papirin er domin ésharin katet brakin er heir.]{.nativefont lang=biza}
+1 [.En krumira, frun chirnal. Papirin er domin ésharin katet brakin er heir.]{.nativefont lang=biza}
 2 [.in the cold and the ringing bells, the house papers beneath his arm.]{lang=en}
-2 [.En krumira, meta chirnal. Papirin er domin ésharin katet brakin er heir.]{lang=biza}
+2 [.En krumira, frun chirnal. Papirin er domin ésharin katet brakin er heir.]{lang=biza}
 
 1 [Heir nevarin deshvar er domin en meun telzhel. Heir nevarin zarvel er herin en efet.]{.nativefont lang=biza}
 2 [At one table he renewed the house bonds; at the next, our vow.]{lang=en}
@@ -348,9 +348,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [Once the witness said he had never heard a vow read with such precision.]{lang=en}
 2 [Mervar rétasin meunhorat. Heir medinkronin akherin darzarin er zarvel homet akret.]{lang=biza}
 
-1 [.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin meta egh.]{.nativefont lang=biza}
+1 [.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin frun egh.]{.nativefont lang=biza}
 2 [.Zighahr said, This is the only bond I have that has never turned against me.]{lang=en}
-2 [.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin meta egh.]{lang=biza}
+2 [.Zighahr rétasin. Heum ésharin monet deshvar er egh. Hein medinkronin allatarin prou mistin frun egh.]{lang=biza}
 
 1 [Heum eniautin egh érkharin katet monet egh. Mervar erotarin. Toum érkharin prel nevarin teir.]{.nativefont lang=biza}
 2 [This year I went alone. The witness asked what I had come to renew.]{lang=en}
@@ -364,9 +364,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [He wrote, Vow unrenewed; husband in keeping. That is the binding wording.]{lang=en}
 2 [Heir zervarin. Zarvel uf nevar. Gemetir ésharin en valzin. Heum ésharin deshvel prel hein.]{lang=biza}
 
-1 [.Heir zervarin meta neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.]{.nativefont lang=biza}
+1 [.Heir zervarin frun neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.]{.nativefont lang=biza}
 2 [.He wrote it with kindness. Put it here in the margin too. A number: one.]{lang=en}
-2 [.Heir zervarin meta neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.]{lang=biza}
+2 [.Heir zervarin frun neratin. Toum zervarin hein enit prostet, valzar, en zelvar. Heum ésharin aritmas. Meun.]{lang=biza}
 
 ***
 
@@ -402,9 +402,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.I could not place one for myself. Then I wondered who would do it next year.]{lang=en}
 2 [.Egh uf dunatarin tetarin meun prel egh. Toteir egh fantelin. Efet eniautin, tirm tetarin hein.]{lang=biza}
 
-1 [Egh rétasin ónomir taret para plum turin prel meltarin, prou skotelir, houm nomashir.]{.nativefont lang=biza}
+1 [Egh rétasin ónomir taret parza plum turin prel meltarin, prou skotelir, houm nomashir.]{.nativefont lang=biza}
 2 [At each window I spoke the names aloud into darkness, as custom requires.]{lang=en}
-2 [Egh rétasin ónomir taret para plum turin prel meltarin, prou skotelir, houm nomashir.]{lang=biza}
+2 [Egh rétasin ónomir taret parza plum turin prel meltarin, prou skotelir, houm nomashir.]{lang=biza}
 
 1 [.Medinántimor en domin ameitarin. Deir vezh ántimor en domin.]{.nativefont lang=biza}
 2 [.No one in the house answered. No one was there.]{lang=en}
@@ -432,21 +432,21 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [Now myself. I have reached the row's end. My place is already cut.]{lang=en}
 2 [Nunet egh. Egh érkharin prou teltin er zhalven. Zavan prel egh ésharin zharvar.]{lang=biza}
 
-1 [.Hein ésharin para er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum.]{.nativefont lang=biza}
+1 [.Hein ésharin parza er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum.]{.nativefont lang=biza}
 2 [.Beside Zighahr, as agreed. Your chest holds that agreement.]{lang=en}
-2 [.Hein ésharin para er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum.]{lang=biza}
+2 [.Hein ésharin parza er Zighahr, houm harmodin. Harmodin ésharin en zhervel er toum.]{lang=biza}
 
-1 [Potet egh ésharin ekesh, valzar, tirm badelin dia hodis meta nomisin.]{.nativefont lang=biza}
+1 [Potet egh ésharin ekesh, valzar, tirm badelin dres hodis frun nomisin.]{.nativefont lang=biza}
 2 [When I am there, keeper, who walks up the road carrying money?]{lang=en}
-2 [Potet egh ésharin ekesh, valzar, tirm badelin dia hodis meta nomisin.]{lang=biza}
+2 [Potet egh ésharin ekesh, valzar, tirm badelin dres hodis frun nomisin.]{lang=biza}
 
 1 [.Domin uf ekhárin huyir. Domin uf ekhárin tighir. Domin uf ekhárin huyir er adelir.]{.nativefont lang=biza}
 2 [.The house has no son, no daughter, no brother's son.]{lang=en}
 2 [.Domin uf ekhárin huyir. Domin uf ekhárin tighir. Domin uf ekhárin huyir er adelir.]{lang=biza}
 
-1 [Ónomir er domin pautarin meta egh. Merzhar uf dorasarin hein prel ksenetir.]{.nativefont lang=biza}
+1 [Ónomir er domin pautarin frun egh. Merzhar uf dorasarin hein prel ksenetir.]{.nativefont lang=biza}
 2 [Its name ends with me. The assessors will not give it to a stranger.]{lang=en}
-2 [Ónomir er domin pautarin meta egh. Merzhar uf dorasarin hein prel ksenetir.]{lang=biza}
+2 [Ónomir er domin pautarin frun egh. Merzhar uf dorasarin hein prel ksenetir.]{lang=biza}
 
 1 [.Egh uf erotarin helin. Helin arneitarin. Helin ésharin ortelir.]{.nativefont lang=biza}
 2 [.I would never ask them. They would refuse and be right to refuse.]{lang=en}
@@ -468,9 +468,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.Then it ends. Your clerk writes, Unrenewed. You shut the door.]{lang=en}
 2 [.Toteir hein pautarin. Toteir seketar er toum zervarin uf nevar. Toteir toum kleitarin turin.]{lang=biza}
 
-1 [Toteir domin er charzil ésharin dometin meta turin er kleitarin, meta nomisin er medinántimor.]{.nativefont lang=biza}
+1 [Toteir domin er charzil ésharin dometin frun turin er kleitarin, frun nomisin er medinántimor.]{.nativefont lang=biza}
 2 [The silk house becomes a chamber behind a shut door, with nobody's money.]{lang=en}
-2 [Toteir domin er charzil ésharin dometin meta turin er kleitarin, meta nomisin er medinántimor.]{lang=biza}
+2 [Toteir domin er charzil ésharin dometin frun turin er kleitarin, frun nomisin er medinántimor.]{lang=biza}
 
 1 [.Neshar er arkhelar ésharin en litorin. Medinántimor darzarin lintar en autumnar.]{.nativefont lang=biza}
 2 [.The founder's die stays in the stone. No one reads the lintel in autumn.]{lang=en}
@@ -498,9 +498,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.The house on the weavers' street: eleven windows, the porter's room, the yard.]{lang=en}
 2 [.Domin en hodis er nemvar. 11 turin prel meltarin. Dometin er turvar. Darvel.]{lang=biza}
 
-1 [Ambarim en kamelir teltin er hodis, meta turin meta zighir.]{.nativefont lang=biza}
+1 [Ambarim en kamelir teltin er hodis, frun turin frun zighir.]{.nativefont lang=biza}
 2 [The warehouse at the lower end, including its door and its balance.]{lang=en}
-2 [Ambarim en kamelir teltin er hodis, meta turin meta zighir.]{lang=biza}
+2 [Ambarim en kamelir teltin er hodis, frun turin frun zighir.]{lang=biza}
 
 1 [.En ambarim. 40 zalvin morzal. 60 morzan.]{.nativefont lang=biza}
 2 [.Within it, forty bales of the first grade and sixty of the second.]{lang=en}
@@ -558,13 +558,13 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [But money is no keeper. It lasts without speaking names.]{lang=en}
 2 [Almon nomisin uf ésharin valzar. Nomisin menetarin. Hein uf rétasin ónomir.]{lang=biza}
 
-1 [.Nomisin uf tetarin keretin. Nomisin uf badelin dia hodis en autumnar.]{.nativefont lang=biza}
+1 [.Nomisin uf tetarin keretin. Nomisin uf badelin dres hodis en autumnar.]{.nativefont lang=biza}
 2 [.Money sets no candles. Money never walks the autumn road.]{lang=en}
-2 [.Nomisin uf tetarin keretin. Nomisin uf badelin dia hodis en autumnar.]{lang=biza}
+2 [.Nomisin uf tetarin keretin. Nomisin uf badelin dres hodis en autumnar.]{lang=biza}
 
-1 [Valzin monet meta zharpin ésharin valzin er medinántimor valzarin.]{.nativefont lang=biza}
+1 [Valzin monet frun zharpin ésharin valzin er medinántimor valzarin.]{.nativefont lang=biza}
 2 [A keeping maintained only by payment has no one tending it.]{lang=en}
-2 [Valzin monet meta zharpin ésharin valzin er medinántimor valzarin.]{lang=biza}
+2 [Valzin monet frun zharpin ésharin valzin er medinántimor valzarin.]{lang=biza}
 
 1 [.Tirm valzarin valzin, potet valzar ésharin en valzin.]{.nativefont lang=biza}
 2 [.Who tends the keeping when the keeper enters it?]{lang=en}
@@ -580,21 +580,21 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.In his last year my husband took an apprentice,]{lang=en}
 2 [.Gemetir er egh lámbarin matelir en telest eniautin er zelarin er heir.]{lang=biza}
 
-1 [Huyir er balvar er vezhnur. Heir uf ekhárin tékhin. Heir aritmarin zalvin en darvel er herin.]{.nativefont lang=biza}
+1 [Huyir er balvar er vezhnur. Heir uf ekhárin tékhar. Heir aritmarin zalvin en darvel er herin.]{.nativefont lang=biza}
 2 [a plateau carter's son with no trade, who counted bales in our yard.]{lang=en}
-2 [Huyir er balvar er vezhnur. Heir uf ekhárin tékhin. Heir aritmarin zalvin en darvel er herin.]{lang=biza}
+2 [Huyir er balvar er vezhnur. Heir uf ekhárin tékhar. Heir aritmarin zalvin en darvel er herin.]{lang=biza}
 
-1 [.Paidelir meta retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira.]{.nativefont lang=biza}
+1 [.Paidelir frun retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira.]{.nativefont lang=biza}
 2 [.A boy with a bell voice, making mistakes. My husband allowed him, as he allowed her.]{lang=en}
-2 [.Paidelir meta retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira.]{lang=biza}
+2 [.Paidelir frun retin houm chirnal. Heir aritmarin uf ortelir. Gemetir er egh dorasarin efir, houm prel heira.]{lang=biza}
 
 1 [Ónomir er heir ésharin Nevarash. Nevar. Nunet heir ésharin nemvar er mezhrel.]{.nativefont lang=biza}
 2 [His name is Nevarash. The new one. He is a journeyman weaver now.]{lang=en}
 2 [Ónomir er heir ésharin Nevarash. Nevar. Nunet heir ésharin nemvar er mezhrel.]{lang=biza}
 
-1 [.Heir zigharin para turin er ambarim. Heir zigharin meta zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin.]{.nativefont lang=biza}
+1 [.Heir zigharin parza turin er ambarim. Heir zigharin frun zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin.]{.nativefont lang=biza}
 2 [.He weighs at the warehouse door, using that balance. I said nobody had. I lied.]{lang=en}
-2 [.Heir zigharin para turin er ambarim. Heir zigharin meta zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin.]{lang=biza}
+2 [.Heir zigharin parza turin er ambarim. Heir zigharin frun zighir. Egh rétasin medinántimor pratarin heum. Egh rétasin pseudin er apatin.]{lang=biza}
 
 1 [Egh rétasin prel toum aritmas ésharin medin. Toum zervarin paler. Aritmas ésharin heir.]{.nativefont lang=biza}
 2 [I gave you none as the number. Rewrite it. The number is him.]{lang=en}
@@ -626,9 +626,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 
 ***
 
-1 [Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, pro mervar,]{.nativefont lang=biza}
+1 [Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, prez mervar,]{.nativefont lang=biza}
 2 [Keeper, write: Ruzhveleze of the silk house, its last member, before witnesses,]{lang=en}
-2 [Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, pro mervar,]{lang=biza}
+2 [Valzar, toum zervarin. Ruzhveleze er domin er charzil, telest er hein, prez mervar,]{lang=biza}
 
 1 [.kaleitarin Nevarash er mezhrel, matelir er gemetir er heira, zhelvar er valzin]{.nativefont lang=biza}
 2 [.names Nevarash, journeyman and her husband's apprentice, heir to the keeping]{lang=en}
@@ -638,9 +638,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [of the whole silk-house chamber in the city of the dead:]{lang=en}
 2 [er dometin er domin er charzil en pólitar er tanor. Hein olashin.]{lang=biza}
 
-1 [.Lintar meta arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel.]{.nativefont lang=biza}
+1 [.Lintar frun arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel.]{.nativefont lang=biza}
 2 [.lintel and founder, second row, small stone, empty niche,]{lang=en}
-2 [.Lintar meta arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel.]{lang=biza}
+2 [.Lintar frun arkhelar. Drin zhalven. Mikrir litorin. Maník nerzhel.]{lang=biza}
 
 1 [Zavan zharvar prel heira, potet heira ésharin en hein. Nomisin plum autumnar.]{.nativefont lang=biza}
 2 [and her prepared place when she occupies it, with money brought every autumn]{lang=en}
@@ -658,9 +658,9 @@ The silk house of [[place-khryshteikhos2|Krusteikhos]] took its name from the tr
 2 [.following the lintel's order, the empty one last, including the empty one.]{lang=en}
 2 [.En taketin er lintar. Maník telest. Maník prostet.]{lang=biza}
 
-1 [Nevarash, érkharin enit. Toum tetarin sfradin er toum para er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil.]{.nativefont lang=biza}
+1 [Nevarash, érkharin enit. Toum tetarin sfradin er toum parza er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil.]{.nativefont lang=biza}
 2 [Nevarash, come here. Set your seal beside mine. Press firmly. Harder. It is wax, not silk.]{lang=en}
-2 [Nevarash, érkharin enit. Toum tetarin sfradin er toum para er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil.]{lang=biza}
+2 [Nevarash, érkharin enit. Toum tetarin sfradin er toum parza er egh. Toum zharzarin. Pletir sterir. Hein ésharin cherzin, uf charzil.]{lang=biza}
 
 1 [.Ekesh. Drin sfradin, valzar. Toum aritmarin helin. Toum zervarin aritmas. Drin.]{.nativefont lang=biza}
 2 [.There. Two seals, keeper. Count them. Record the number: two.]{lang=en}

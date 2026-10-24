@@ -2838,7 +2838,7 @@ data:
       gloss: [hard or firm, Hard or firm to the touch; resistant to pressure.]
       concept: hard-texture
     - {form: brakin, class: n, field: Everyday expression, gloss: arm}
-    - {form: tékhin, class: n, field: "Trade, coin, goods and the road", gloss: trade or craft}
+    - {form: tékhar, class: n, field: "Trade, coin, goods and the road", gloss: trade or craft}
     - {form: meun, class: num, field: Grammar words, gloss: [one], concept: one}
     - {form: drin, class: num, field: Grammar words, gloss: [two], concept: two}
     - {form: trel, class: num, field: Grammar words, gloss: [three], concept: three}
@@ -3068,7 +3068,7 @@ data:
     - {form: kemetvar, class: n, field: "Trade, coin, goods and the road", gloss: owner}
     - {form: kervelmakhel, class: n, field: "Trade, coin, goods and the road", gloss: shears}
     - {form: zharvelin, class: n, field: "Trade, coin, goods and the road", gloss: gate bars}
-    - {form: ezhar, class: n, field: "Trade, coin, goods and the road", gloss: suspension}
+    - {form: ezvar, class: n, field: "Trade, coin, goods and the road", gloss: suspension}
     - {form: tevrel, class: n, field: "Trade, coin, goods and the road", gloss: tent peg}
     - {form: zarzvel, class: n, field: "Trade, coin, goods and the road", gloss: hinge}
     - {form: ghignarin, class: v, field: Everyday expression, gloss: become}
@@ -3087,10 +3087,8 @@ data:
         - A presiding magistrate, who gives the year his name; in ordinary reference, the ruler or person exercising authority.
       concept: ruler
     - {form: en, class: rel, field: Everyday expression, gloss: "in, inside"}
-    - {form: meta, class: rel, field: Everyday expression, gloss: "with, accompanying"}
-    - {form: para, class: rel, field: Everyday expression, gloss: beside or beyond}
-    - {form: pro, class: rel, field: Everyday expression, gloss: before}
-    - {form: dia, class: rel, field: Everyday expression, gloss: through}
+    - {form: parza, class: rel, field: Everyday expression, gloss: beside or beyond}
+    - {form: prez, class: rel, field: Everyday expression, gloss: before}
     - {form: keletin, class: n, field: Everyday expression, gloss: clause of an agreement}
     - {form: darvel, class: n, field: Everyday expression, gloss: yard or enclosed working court}
     - {form: telzhar, class: n, field: Everyday expression, gloss: assessed rate or levy}
@@ -3116,7 +3114,7 @@ data:
     - {form: drinolashin, class: pron, field: Everyday expression, gloss: both of two}
     - {form: platelin, class: n, field: Everyday expression, gloss: width or breadth}
     - {form: agorar, class: n, field: Everyday expression, gloss: buyer}
-    - {form: pluma, class: pron, field: Everyday expression, gloss: everything; all things}
+    - {form: plunar, class: pron, field: Everyday expression, gloss: everything; all things}
     - {form: peitir, class: adj, field: Everyday expression, gloss: "faithful, kept as promised"}
   sounds: {stress: {two: first, longer: penultimate, mark: acute}}
   icon: icon-speaking

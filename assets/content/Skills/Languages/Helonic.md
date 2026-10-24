@@ -5201,7 +5201,7 @@ data:
     - {form: phonethin, class: n, field: Everyday expression, gloss: noise}
     - {form: steneth, class: adv, field: Grammar words, gloss: loudly}
     - {form: pterathin, class: n, field: Everyday expression, gloss: wing}
-    - {form: méros, class: n, field: "Thought, measure and the schools", gloss: scene of a play}
+    - {form: mérin, class: n, field: "Thought, measure and the schools", gloss: scene of a play}
     - {form: hetoir, class: adj, field: Everyday expression, gloss: ready}
     - {form: thamethin, class: n, field: Everyday expression, gloss: cut or shaving nick}
     - {form: ghenethin, class: n, field: "Kin, the person and the body", gloss: chin}
@@ -5225,7 +5225,7 @@ data:
       field: The city, law and office
       gloss: rank of people standing abreast in formation
     - {form: plerethir, class: adj, field: Everyday expression, gloss: full or filled to capacity}
-    - {form: kur, class: n, field: Everyday expression, gloss: altar}
+    - {form: kor, class: n, field: Everyday expression, gloss: altar}
     - form: aghrarin
       class: v
       field: Everyday expression

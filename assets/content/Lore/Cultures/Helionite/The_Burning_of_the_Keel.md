@@ -38,9 +38,9 @@ The rhapsode invokes [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, as the sin
 2 [lifting veil’s corner, letting him see what he cannot carry,]{lang=en}
 2 [Thu airatharin zelvethin er kelathin. Efarin heir meltharin praghin er uf dunatharin féranin.]{lang=helo}
 
-1 [Airatharin hein pir egh nuneth. Enth kur. Tror kerukhir er hepthor.]{.nativefont lang=helo}
+1 [Airatharin hein pir egh nuneth. Enth kor. Tror kerukhir er hepthor.]{.nativefont lang=helo}
 2 [lift it for me at altar before seven cities’ heralds.]{lang=en}
-2 [Airatharin hein pir egh nuneth. Enth kur. Tror kerukhir er hepthor.]{lang=helo}
+2 [Airatharin hein pir egh nuneth. Enth kor. Tror kerukhir er hepthor.]{lang=helo}
 
 1 [Dorasarin egh nikhtir epir hadrin. Koum ithrin. Koum naukerin. Koum hairelin.]{.nativefont lang=helo}
 2 [Give me headland’s night, fire, keel, choosing,]{lang=en}
@@ -520,9 +520,9 @@ The rhapsode invokes [[lore-zunelasdty|Zunelas]], the Veiled Dreamer, as the sin
 2 [carrying bones up unseen valley, setting stone above.]{lang=en}
 2 [Pólithar féranin osthelin er heir aneth aulonin er uf meltharin er heir. Thetharin lithorin epir helin.]{lang=helo}
 
-1 [Kerukhir er hepthor pólithar rhéthasin ónomir er heir enth kur. Plum er helin.]{.nativefont lang=helo}
+1 [Kerukhir er hepthor pólithar rhéthasin ónomir er heir enth kor. Plum er helin.]{.nativefont lang=helo}
 2 [Seven cities’ heralds speak his name at altar. Every one.]{lang=en}
-2 [Kerukhir er hepthor pólithar rhéthasin ónomir er heir enth kur. Plum er helin.]{lang=helo}
+2 [Kerukhir er hepthor pólithar rhéthasin ónomir er heir enth kor. Plum er helin.]{lang=helo}
 
 1 [Kaieth ánthimor er rhéthasin heir ésarin apathir. Kaieth helin rhéthasin ónomir er heir.]{.nativefont lang=helo}
 2 [Even those calling him liar speak his name.]{lang=en}

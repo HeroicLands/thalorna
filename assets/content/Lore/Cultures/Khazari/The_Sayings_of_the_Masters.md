@@ -376,9 +376,9 @@ data:
 ## Butum of Nalp-furád
 
 ```verse {form=prose lang=en cols=2 numstep=5}
-1 [Butum, Nalp-furád, khunák khankez zi khardev puvár, khadhav zi nuláv vog, ravíz vadhalez zi bamur. Barkez rubáth. Vog thuf thuráp rald. Vog sutáv bep mudár. Vog gunádh.]{.nativefont lang=khaz}
+1 [Butum, Nalp-furád, khunák khankez zi khardev puvár, khadhav zi nuláv vog, ravíz vadhalez zi bamur. Bartez rubáth. Vog thuf thuráp rald. Vog sutáv bep mudár. Vog gunádh.]{.nativefont lang=khaz}
 2 [[Butum of Nalp-furád]{.name data-type="being/npc"} leads the hold’s channels in the valley below for many working years. Her knees fail and she cannot climb the slope; she comes up to teach. She says:]{lang=en}
-2 [Butum, Nalp-furád, khunák khankez zi khardev puvár, khadhav zi nuláv vog, ravíz vadhalez zi bamur. Barkez rubáth. Vog thuf thuráp rald. Vog sutáv bep mudár. Vog gunádh.]{lang=khaz}
+2 [Butum, Nalp-furád, khunák khankez zi khardev puvár, khadhav zi nuláv vog, ravíz vadhalez zi bamur. Bartez rubáth. Vog thuf thuráp rald. Vog sutáv bep mudár. Vog gunádh.]{lang=khaz}
 
 1 [Taghív bazanez zi lamv zugáb ves, dalk, zuvák. Gaz thuf thunáz khapav. Gaz gunádh tob bazan, khadhav. Gaz zuvák kolg. Lamv thuf.]{.nativefont lang=khaz}
 2 [All the chain’s sayings to you about stone stand. I give no more. I say one thing about the valley. I stand there. The chain does not.]{lang=en}

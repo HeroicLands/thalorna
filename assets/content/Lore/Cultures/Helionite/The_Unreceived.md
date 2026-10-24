@@ -228,9 +228,9 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 ***
 
-1 [Kerukhir er Korinthea érkharin prou lithokir frun skathir. Heir kaleitharin dian lithorin pir thaner. Heir rhéthasin lékhisir er kerukhir huster plum makhethin metheir pólithar. Kumethos akherin heir. Mathira érkharin frun heir. Heira erotharin heir badhelin dian lithokir. Heir badhelin dian koum érkharin ekor prou klorin polithir. Heum méros pautharin. Heir ethel badhelin. Méros efeth anoigharin. Heir statharin paleth enth lithokir enth hespethin. Enth ghéranis er arkhidhin er badhelin er heir.]{.nativefont lang=helo}
+1 [Kerukhir er Korinthea érkharin prou lithokir frun skathir. Heir kaleitharin dian lithorin pir thaner. Heir rhéthasin lékhisir er kerukhir huster plum makhethin metheir pólithar. Kumethos akherin heir. Mathira érkharin frun heir. Heira erotharin heir badhelin dian lithokir. Heir badhelin dian koum érkharin ekor prou klorin polithir. Heum mérin pautharin. Heir ethel badhelin. Mérin efeth anoigharin. Heir statharin paleth enth lithokir enth hespethin. Enth ghéranis er arkhidhin er badhelin er heir.]{.nativefont lang=helo}
 2 [Korinthea's herald comes to the ring carrying his staff. He calls across the stones for the dead, using the words heralds speak after every battle between cities. The chorus hears him. The mother has accompanied him. She asks him to cross. He steps over the ring and walks into the grey grass. The scene closes while he is still walking. The next opens at evening: he is standing at the ring again, where he started.]{lang=en}
-2 [Kerukhir er Korinthea érkharin prou lithokir frun skathir. Heir kaleitharin dian lithorin pir thaner. Heir rhéthasin lékhisir er kerukhir huster plum makhethin metheir pólithar. Kumethos akherin heir. Mathira érkharin frun heir. Heira erotharin heir badhelin dian lithokir. Heir badhelin dian koum érkharin ekor prou klorin polithir. Heum méros pautharin. Heir ethel badhelin. Méros efeth anoigharin. Heir statharin paleth enth lithokir enth hespethin. Enth ghéranis er arkhidhin er badhelin er heir.]{lang=helo}
+2 [Kerukhir er Korinthea érkharin prou lithokir frun skathir. Heir kaleitharin dian lithorin pir thaner. Heir rhéthasin lékhisir er kerukhir huster plum makhethin metheir pólithar. Kumethos akherin heir. Mathira érkharin frun heir. Heira erotharin heir badhelin dian lithokir. Heir badhelin dian koum érkharin ekor prou klorin polithir. Heum mérin pautharin. Heir ethel badhelin. Mérin efeth anoigharin. Heir statharin paleth enth lithokir enth hespethin. Enth ghéranis er arkhidhin er badhelin er heir.]{lang=helo}
 
 ```
 
@@ -339,9 +339,9 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 ***
 
-1 [Rhéthasin onomin er heir prou egh. Egh rhéthasin hein enth kur.]{.nativefont lang=helo}
+1 [Rhéthasin onomin er heir prou egh. Egh rhéthasin hein enth kor.]{.nativefont lang=helo}
 2 [Tell me his name. I will speak it at the altar.]{lang=en}
-2 [Rhéthasin onomin er heir prou egh. Egh rhéthasin hein enth kur.]{lang=helo}
+2 [Rhéthasin onomin er heir prou egh. Egh rhéthasin hein enth kor.]{lang=helo}
 
 1 [Egh féranin hein prou sarkhion. Egh mistharin olasin er helin erotharin.]{.nativefont lang=helo}
 2 [I will carry it to the Temple and pay whatever they ask.]{lang=en}
@@ -429,9 +429,9 @@ Between the odes, the scenes are given here as the schools summarize them.
 
 ***
 
-1 [Mathira leiparin. Kerukhir thulatharin enth lithokir plum nikhtir. Heir uf badhelin dian paleth. In méros telesth prineth sorathin in arithmas drin heir rhéthasin prou dikhar er sarkhion. Heir érkharin prou agelon koum erotharin agelon mistharin ieresin er Sighelir Dikhar. Dikhar rhéthasin. Erotharin er thu ésarin efir. Medhin ánthimor thetharin heum prou agelon prineth. Ghenthir pratharin. Medhin ánthimor thetharin heum.]{.nativefont lang=helo}
+1 [Mathira leiparin. Kerukhir thulatharin enth lithokir plum nikhtir. Heir uf badhelin dian paleth. In mérin telesth prineth sorathin in arithmas drin heir rhéthasin prou dikhar er sarkhion. Heir érkharin prou agelon koum erotharin agelon mistharin ieresin er Sighelir Dikhar. Dikhar rhéthasin. Erotharin er thu ésarin efir. Medhin ánthimor thetharin heum prou agelon prineth. Ghenthir pratharin. Medhin ánthimor thetharin heum.]{.nativefont lang=helo}
 2 [The mother leaves. The herald remains at the ring all night and does not cross again. In the last scene before the second ode, he tells the Temple judge he will go to the assembly and ask it to fund the [[affiliation-selmoros|Silent Judge]]'s rite. The judge says he is free to ask. No one has ever brought it before the assembly, and the families will ensure no one does.]{lang=en}
-2 [Mathira leiparin. Kerukhir thulatharin enth lithokir plum nikhtir. Heir uf badhelin dian paleth. In méros telesth prineth sorathin in arithmas drin heir rhéthasin prou dikhar er sarkhion. Heir érkharin prou agelon koum erotharin agelon mistharin ieresin er Sighelir Dikhar. Dikhar rhéthasin. Erotharin er thu ésarin efir. Medhin ánthimor thetharin heum prou agelon prineth. Ghenthir pratharin. Medhin ánthimor thetharin heum.]{lang=helo}
+2 [Mathira leiparin. Kerukhir thulatharin enth lithokir plum nikhtir. Heir uf badhelin dian paleth. In mérin telesth prineth sorathin in arithmas drin heir rhéthasin prou dikhar er sarkhion. Heir érkharin prou agelon koum erotharin agelon mistharin ieresin er Sighelir Dikhar. Dikhar rhéthasin. Erotharin er thu ésarin efir. Medhin ánthimor thetharin heum prou agelon prineth. Ghenthir pratharin. Medhin ánthimor thetharin heum.]{lang=helo}
 
 ```
 
