@@ -506,6 +506,7 @@ data:
       - ["9", "𞨶"] # U+1EA36
       - [".", "𞨷"] # U+1EA37
       - [",", "𞨸"] # U+1EA38
+      - ["·", "𞨹"] # U+1EA39
     fonts: [{font: qalezu-hand}]
 ---
 
@@ -527,7 +528,7 @@ Qalezu writes consonants. A reader supplies the vowels from the word.
 - **The catch** is `'` or `’`.
 - **A catch before a sign** is that sign's catch-before form, three reed dabs in a triangle over the sign. This holds with one unwritten vowel between them as well, before a single sign or a digraph, as in _Qe'aret_. Any other catch stands alone.
 - **A hyphen is a word space**, and at the end of a word it writes nothing, as in the prefix _Gar-_.
-- **The numerals** 0 to 9, the full stop and the comma are signs of their own.
+- **The numerals** 0 to 9, the full stop, comma and middle dot are signs of their own. The middle dot marks the end of a verse unit, distinct from the ordinary full stop and comma.
 
 Qalezu Hand draws each doubled form as a character of its own, so the rows write it. The rows write a catch as the catch and a sign as itself, and the face draws a catch and the sign after it as the catch-before form.
 

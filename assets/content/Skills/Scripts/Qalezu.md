@@ -32,6 +32,7 @@ Zamlet elu Uqa'a
 A character needs **both** Qalezu and [[skill-khelathlng|Khelathi Language]]; Qalezu admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.
 
 A scribe marks a stressed word in Qalezu with a line above the word.
+The middle dot marks the end of a verse unit, distinct from the ordinary full stop and comma.
 
 ## What it is for
 

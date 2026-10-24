@@ -37,266 +37,931 @@ The copy given here is cut in the sacred hand on the wall of the tomb of [Khelan
 
 : The Dedication {#dedication}
 
-> Cut for the Zemelu Khelansi Zu'Amqeletu, Overseer of the Granaries of the God, Keeper of the Seal on the Doors of the God, Counter of the Measure at the Height, Reader of the Tally at the Coming-Forth, kinsman of the Gar-Au Anlagh'el'Qar: the hymn of the eastern face, whole, as the temple sings it, so that it is sung over him at every dawn while the wall stands and the name on it is said.
+Unpointed phonetic transcription (plain-letter Khelathi; sacred-hand original).
+
+```verse {form=prose numstep=5 cols=2}
+1 [Qelzat qedlar eqar ez Zemelu Khelansi Zu'Amqeletu Lagathar elu Habtun elu Nelgir Lagathar elu Qathur az Galmun elu Nelgir Mazathar elu Mazelnet az Zarat Zethular elu Mazret az Yarathnet Talqar elu Gar-Au Anlagh'el'Qar Zamlet elu qenmar elu qetgar telnethet qel shelun galar elu nelgir qu Agu shelun naru qu zamar saru ezu zarun temun qethel tharel galzat ta thalal raznet elu rethan az qu]{lang=khel}
+2 [Cut for Zemelu Khelansi Zu'Amqeletu, Overseer of the God's Granaries, Keeper of the Door Seals, Counter of the Measure at Noon, Reader of the Coming-Forth Tally, kinsman to Gar-Au Anlagh'el'Qar. The whole eastern-face hymn, as sung by the temple, for singing over him every dawn while this wall endures and its name is spoken.]{lang=en}
+2 [Qelzat qedlar eqar ez Zemelu Khelansi Zu'Amqeletu Lagathar elu Habtun elu Nelgir Lagathar elu Qathur az Galmun elu Nelgir Mazathar elu Mazelnet az Zarat Zethular elu Mazret az Yarathnet Talqar elu Gar-Au Anlagh'el'Qar Zamlet elu qenmar elu qetgar telnethet qel shelun galar elu nelgir qu Agu shelun naru qu zamar saru ezu zarun temun qethel tharel galzat ta thalal raznet elu rethan az qu]{lang=khel}
+```
 
 : Zamlet elu Uqa'a {#hymn}
 
-```verse {form=zamlet lang=en}
-_\[Sung at the eastern face of the Great Temple before the sun is up the road. The fire-tender keeps the count with a rod on the altar step. The name of the god is sung in two breaths, and between the breaths the singers stop. The rest is held for three strokes of the rod, and nothing is sung in it. This is the god's rest, and it is kept at every naming, at the first and at the last, and at the names of the others of the Twelve where the hymn sings them. It is not the other silence. The other silence comes on the road at night, and it is a name not given.\]_
+Unpointed phonetic transcription (plain-letter Khelathi; sacred-hand original).
 
-Uqa'a.
-Fire on the first ground.
-Fire over the mound when the mound was the whole of the world,
-and the water had no bank, and nothing stood in it to be counted.
-Lord of the dry brick, lord of the dry ink,
-lord of what can be seen, and of what can be read because it is seen,
-who comes up the road.
+```verse {form=zamlet numstep=5 cols=2}
+1 \[[Shelun naru qu az qenmar elu qetgar elu Galar Thazet mar yaler thelqen zar ezu hodir Lagath lagathar elu thalu mazret qer elu lagun az zengel elu qelnet Shelun naru rethan elu nelgir ezu khalat khul Thalet naru qarmath khalat Walet naru thalalnet khemu qezirnet elu lagun Khez shelun naru temun ezu qu Wanel eqar thalalnet elu nelgir Lagath naru qu az raznannet temun az lazret ta az telnethet Lagath naru qu az rethan elu leqar elu 12 ezu zamlet Khez wanel qu khashat elqar leqar Yaler leqar ezu hodir az qeznar Wanel qu rethan khez nelaznet]{lang=khel}\]
+2 [Sing at the Great Temple's east face before sunrise along the road. The fire-tender taps the altar step with a rod to keep count. Sing each divine name in two breaths, stopping between. Hold that rest for three rod strokes, singing nothing. Keep this divine rest at every naming, first through last, and for other Twelve names appearing here. It differs from the other silence, which arrives on the night road as a withheld name.]{lang=en}
+2 \[[Shelun naru qu az qenmar elu qetgar elu Galar Thazet mar yaler thelqen zar ezu hodir Lagath lagathar elu thalu mazret qer elu lagun az zengel elu qelnet Shelun naru rethan elu nelgir ezu khalat khul Thalet naru qarmath khalat Walet naru thalalnet khemu qezirnet elu lagun Khez shelun naru temun ezu qu Wanel eqar thalalnet elu nelgir Lagath naru qu az raznannet temun az lazret ta az telnethet Lagath naru qu az rethan elu leqar elu 12 ezu zamlet Khez wanel qu khashat elqar leqar Yaler leqar ezu hodir az qeznar Wanel qu rethan khez nelaznet]{lang=khel}\]
 
-We are on the eastern face. The fire is behind us in the court.
-The road runs away from us into the living city, straight,
-and at the end of it the sky is the color of a potter's clay before the kiln.
-Nothing stands in the line.
-Come up the road.
+1 [Uqa'a]{lang=khel}
+2 [Uqa'a.]{lang=en}
+2 [Uqa'a]{lang=khel}
 
-Uqa'a,
-who was in the first Gar-Au when he stood upon the mound,
-who was in Anlagh'el'Qar when he walked the road out,
-who was in the cord he stretched from the dawn edge to the dusk edge,
-who was in the two stakes, the one for the longest day and the one for the shortest,
-who said through him, "Nothing stands in the line.
-What stands in it comes down, whoever owns it, and the owner carries the stone."
-He drew the road in one breath, as a scribe draws a sign, without lifting the reed.
-The road is yours. He walked it out and cleared the way.
-Come up it.
+1 [Thalu az gharen lazret]{lang=khel}
+2 [Fire upon earliest ground.]{lang=en}
+2 [Thalu az gharen lazret]{lang=khel}
 
-The first thing that stood in the line was a wall of the High City, a lord's wall, old, with a gate in it.
-What stands in it comes down, whoever owns it, and the owner carries the stone.
-The lord carried his, and the gate is in the river wall now.
-The second thing that stood in the line was a shrine, and the god of the shrine was asked, and moved.
-The third thing was a granary of the god's own, and it came down like the wall.
-Since the granary nothing has stood in the line, because the city saw the granary come down.
+1 [Thalu zar yathar ezu kalun elu yathar gharen zamat]{lang=khel}
+2 [Fire above the mound when it comprised the world,]{lang=en}
+2 [Thalu zar yathar ezu kalun elu yathar gharen zamat]{lang=khel}
 
-Your names, as the eastern face sings them, in the order it sings them:
-Fire on the first ground.
-Who rose over the mound.
-Who burns the stain off the soldier who stands in you at the eastern face.
-Who burns the lie out of the mouth before the mouth has finished it.
-Who dries the brick, who dries the ink,
-who dries the dead of the poor in the pit-graves for nothing, better than natron.
-Who makes the entry readable.
-Who is in the Gar-Au.
-Who is on the altar at the height.
-Who goes out of the western face.
-Who goes down on foot.
-Who goes under the floor.
-Who is struck at and not swallowed.
-Who comes up the road.
-Who is called by all of these, and is none of them, and is the fire, and is
-Uqa'a.
+1 [Khez qamar qalu galthar Khez tharel temun ezu qu ez mazath]{lang=khel}
+2 [before water had banks or anything stood to count.]{lang=en}
+2 [Khez qamar qalu galthar Khez tharel temun ezu qu ez mazath]{lang=khel}
 
-You come up.
-The first of you is on the electrum of the obelisk tips,
-and the court is still dark, and the fire-tender puts out his rod to see it.
-Then the wall of the island, white, so that the boatmen look away from it.
-Then the roofs of the High City, where the houses are oldest and stand highest.
-Then the arm of the river that runs through the High City, brown, with one boat on it.
-Then the roofs of the low quarters, where the water comes every year and the people go up to their kin.
-Then the fields.
+1 [Lemunar elu galqat qezlet lemunar elu zethqur qezlet]{lang=khel}
+2 [Master of dried brick and dried ink,]{lang=en}
+2 [Lemunar elu galqat qezlet lemunar elu zethqur qezlet]{lang=khel}
 
-In the flood you light the water in the outer court, lapping the second step,
-and the mound alone above the water, as it was before anything else was.
-You light the Wazu on the stair of the Measure, who reads the cubit by you and carries it up.
-A cubit read in the dark is a cubit guessed.
-You light the barges with the stone on them, floated to the desert edge while the water reaches it.
-You light the work gangs on the dike, and the dole they are fed from, and the counter it is counted at.
-In the emergence you light the tiller going out with the hoe on his shoulder and the dog ahead of him.
-You light the surveyor's cord between two stakes, and the knots on it,
-and the stone the flood moved, standing where the flood left it,
-which stands there until the cord and last year's entry say otherwise, and then it is carried.
-You light the entry, which wins.
-In the harvest you light the roads when they open, and the caravans on them,
-and the embassies, and the levy going out with its spears in a bundle on a cart.
-You light all three, and you light the five days at the end that belong to no month.
+1 [Lemunar elu zuran ta zethulnet qer elu zuran]{lang=khel}
+2 [master of the visible and the writing visibility lets us read,]{lang=en}
+2 [Lemunar elu zuran ta zethulnet qer elu zuran]{lang=khel}
 
-You light the doors of the god's granaries and the seal on the doors,
-and the overseer's hand on the seal, and the tally sticks in their jar.
-You light the queue at the counter before the counter is open:
-the woman with the jar, the boy sent for his grandfather's measure,
-the old man who stands in it every morning and is owed nothing and comes to be counted.
-You light the measure, and the grain heaped in it, and the rod drawn across the heap.
-You light the price, a qelu the measure in a full year and three in a short one, and you light both prices.
-You light the ledger opened on the counter, and the scribe who wets his palette
-and finds the cake of black cracked across, and swears, and uses it.
-You light the brewer's vats and the steam off them, and the potter's kiln,
-and the weaver who has carried her loom to the door for you.
-You light the boys in the school of the precinct copying the tablets,
-and the Keeper reading over their shoulders what they have got wrong.
-You light the physician at the door of a house, saying early what must be said early.
-You light the embalmers' quarter by the ferry, the natron in its sacks and the linen on its lines,
-and the dead going over the water on the first boat, with their tablets.
-You light the factors at the quay, who keep their own word for a thing and put ours after it,
-and the changer at the quay who asks no questions of old gold. You light the gold.
-You light the boatman poling up against the water with his sail hanging.
-You light the reed-cutter in the marsh to the knee, and the quarryman on the face,
-and the bondsman at the estate gate who is counted in with the oxen.
-You light the donkey at the foot of the High City that sat down in the dark under its load
-and will not get up for the stick, and will not get up for the boy's crying,
-and the boy, and the stick.
-You light the herders of the west with their beasts, who do not say the denials,
-and the hill people of the east, and the sea people of the north who do not know the count,
-in their own countries, in the same hour, with the same fire, as if they were ours.
-You light the bread set out on the tables in the kin-tombs among the streets,
-set there before you came, so that it is there when you come.
-You light the Gar-Au at the head of the road with the first grain in his two hands,
-in whom your fire is, who waits for you as the rest of us wait.
-You light all of it in one breath, as the road was drawn.
+1 [Yaler saru zar ezu hodir]{lang=khel}
+2 [ascending the road.]{lang=en}
+2 [Yaler saru zar ezu hodir]{lang=khel}
 
-    The road turns here, and a name would stand here.
-    It is not written at the head of the chronicle. It is not sung at the turn of the road.
-    We sing yours, with the rest in it.
-    Uqa'a.
+1 [Wanel nazun az qenmar elu qetgar Wanel thalu nazar nazun ezu galzamar]{lang=khel}
+2 [We stand eastward; courtyard fire burns behind us.]{lang=en}
+2 [Wanel nazun az qenmar elu qetgar Wanel thalu nazar nazun ezu galzamar]{lang=khel}
 
-You are at the height.
-You stand over the court and there is nothing in it with a shadow:
-not the pylon, not the obelisk, not the priest, not the rod in the fire-tender's hand.
-The beam climbs the altar as it climbed the first altar.
-Every door in the city says the denials now, with you overhead.
-"I have left open no entry I could close."
-"I have taken no stranger's word without a witness."
-"I have not let the dead go hungry at the shrine."
-[[lore-qearetdty|Qe'aret]] keeps the scale. You keep the light the scale is read by.
-What the scribe wrote, you light.
-What the scribe did not write, the gods keep, and we do not ask you for it on the eastern face.
+1 [Yarul hodir nyar nazun ez galnat alget qenlet]{lang=khel}
+2 [The straight road reaches away into the living city.]{lang=en}
+2 [Yarul hodir nyar nazun ez galnat alget qenlet]{lang=khel}
 
-The judge sits in the forecourt with the two parties before him and the witness between them,
-and the witness says what he saw, in front of you, and does not say what he was told.
-The overseer counts the god's grain at the height and at no other hour.
-At the height you stand straight down into the measure,
-and no shadow lies along the inside of it to hide a short heap.
-A measure counted in the morning has a shadow in it the width of a hand.
-A measure counted at the height has none.
-Whoever counts at the height counts in front of you.
+1 [Wanel khalqar az telnet elu qu qel qedmal elu gethar mar temthar]{lang=khel}
+2 [At its end the sky resembles unfired potter's clay.]{lang=en}
+2 [Wanel khalqar az telnet elu qu qel qedmal elu gethar mar temthar]{lang=khel}
 
-Your names at the height, as the court sings them with no shadow in it:
-Who stands over the measure.
-Who stands over the witness.
-Who stands over the scale, and does not touch it.
-Who stands over the Gar-Au, who is yours.
-Who stands over the herders and the hill people and the sea people, and over us, the same.
-Who stands over the river, and the river goes brown under you and does not stop.
-Who stands over the one not written, who is in the deep at this hour and cannot look up.
-Who is at the height, and does not stay there, and is
-Uqa'a.
+1 [Khez tharel temun ezu qernet]{lang=khel}
+2 [Its line stands clear.]{lang=en}
+2 [Khez tharel temun ezu qernet]{lang=khel}
 
-[…]
+1 [Yaler telu zar ezu hodir]{lang=khel}
+2 [Ascend the road.]{lang=en}
+2 [Yaler telu zar ezu hodir]{lang=khel}
 
-    The road turns here, and a name would stand here.
-    It is not written at the head of the chronicle. It is not sung at the turn of the road.
-    We sing yours, with the rest in it.
-    Uqa'a.
+1 [Uqa'a]{lang=khel}
+2 [Uqa'a,]{lang=en}
+2 [Uqa'a]{lang=khel}
 
-You go down.
-The shadows come back into the court from the west side first.
-The Thaz'Lekhau goes in to the small dark room and shuts the door on your image.
-Sun-lord, hidden in the sanctuary.
-Hidden there, you are on the road.
-You go out of the western face, over the water, up onto the shelf,
-down the road on the shelf, which is new, and nobody lies beside it yet.
-The first Way is cut across it near the water, and off the Way the masons are cutting the Gar-Au's house,
-and he is alive, and his house waits for him beside the road and not across it.
-You go to the end of the road, and into the ground at the end of it.
-On the shortest day you go down the middle of it.
-On every other day you go down to one side, and the road holds the line for the day it was drawn for.
-On the shortest day we sing you down from the western face, and that is the other hymn, and it is not this one.
-The light goes off the obelisk tips last, as it came onto them first.
-The masons cross back on the last ferry as you go down, and the guard has the shelf,
-and nobody sleeps on it without cause.
-The fire-tender puts away his rod. The fire in the court is the only fire.
+1 [Wanel saru ezu Gar-Au lazret ezu tharelnet az yathar]{lang=khel}
+2 [present in the first king standing on the mound,]{lang=en}
+2 [Wanel saru ezu Gar-Au lazret ezu tharelnet az yathar]{lang=khel}
 
-Under the city you go.
-The dead in the kin-tombs among the streets hear you under the floor
-and stand up on their walls, where they are painted standing,
-and the men painted beside them stand up, who answer for them when they are called.
-The Overseer of the Granaries of the God, Khelansi, stands up with the seal in his hand.
-They hear you pass under, and they say your name,
-which is what you fight with.
-They stand while you pass and they sit when you have passed,
-and the bread on their tables is counted to them in the dark.
+1 [Wanel saru ezu Anlagh'el'Qar ezu tarulnet elu hodir]{lang=khel}
+2 [present in Anlagh'el'Qar measuring the road by walking,]{lang=en}
+2 [Wanel saru ezu Anlagh'el'Qar ezu tarulnet elu hodir]{lang=khel}
 
-[[lore-rethsaardty|Reth'Sa'ar]] walks with you to the first gate and no farther.
-He has the names of the gates on his tablet, and he gives them to you one by one,
-and you say them, and the gates stand open, and he goes back to his library.
-The dead who went down this year are on the road ahead of you with their tablets under their arms.
-They walk your road without you. They do not see you.
-They hear you behind them and stand to the side, as a queue stands aside for the overseer,
-and you go by them, and they go on to the hall where the accounts are opened,
-and what is said in the hall is not sung here.
+1 [Wanel saru ezu shanur nyar telnet elu zarun ez telnet elu hesqar]{lang=khel}
+2 [present in the dawn-to-dusk cord,]{lang=en}
+2 [Wanel saru ezu shanur nyar telnet elu zarun ez telnet elu hesqar]{lang=khel}
 
-We do not see you from the eastern face. We have the count.
-The night is long and the hymn is short, and the rod counts the night into the hymn.
-The fire-tender takes up his rod again at the first gate, and we sing you where the rod says:
-at the first hundred strokes you are at the first gate, and we sing the gate open;
-at the fourth hundred you are among the dead on the road, and we sing them to the side;
-at the seventh hundred you are at the deepest, and we sing the turn,
-and at the turn we sing no name, and after the turn we sing yours.
-Whoever sleeps, the rod does not. Whoever sings wrong, the rod puts right.
-A night sung short is a night not finished, and the rod does not allow it.
+1 [Wanel saru ezu lagqet khul lazen ez tharen thalen tazir shar tharen temun ta lazen ez tharen qezil tazir]{lang=khel}
+2 [present in the two stakes for longest and shortest days,]{lang=en}
+2 [Wanel saru ezu lagqet khul lazen ez tharen thalen tazir shar tharen temun ta lazen ez tharen qezil tazir]{lang=khel}
 
-The road goes down, and the dark on it has no bank.
-It is the water from before the mound. It was never counted. It is still there.
-Across the road, in the deepest of it, the other lies.
+1 [Razel saru qazir saru Khez tharel temun ezu qernet]{lang=khel}
+2 [speaking through him: The line remains clear.]{lang=en}
+2 [Razel saru qazir saru Khez tharel temun ezu qernet]{lang=khel}
 
-    The road turns here, and a name would stand here.
-    It is not written at the head of the chronicle. It is not sung at the turn of the road.
-    We sing yours, with the rest in it.
-    Uqa'a.
+1 [Yarul temun nyar qu nizar khez qemet qamnet Tuqath qamnetar qedlar]{lang=khel}
+2 [Whatever occupies it must descend; its owner carries the stone.]{lang=en}
+2 [Yarul temun nyar qu nizar khez qemet qamnet Tuqath qamnetar qedlar]{lang=khel}
 
-You do not go round. There is no round.
-You go at it on your feet, with the fire in your two hands as the Gar-Au carries the grain.
-It opens. It is longer than the road. It is darker than the road.
-It has you in its mouth to the shoulders,
-and the fire is in its mouth with you, and it cannot close on the fire.
-It lets go. It is thrown down. It is driven back into what it came out of.
-It is not destroyed. It will be across the road tomorrow night, in the same place.
-It was there last night. It was there the night the road was drawn, and the night before the mound.
-Every night it is thrown down, and every morning is the morning after that.
-You come on.
-You come on with the fight on you, and nobody anoints you at the eastern face.
-The soldier who has killed stands in you until the stain is gone. You stand in nothing.
-What is on you from the road burns off on the road.
-The road comes up. The dark on it gets a bank again, the near one first,
-and then the far one, and then it is a road with two banks and a sky at the end of it.
-The dead behind you on it do not see the sky. They have their own door.
-You have yours.
+1 [Zethal saru hodir ezu khalat lazen qel zethmin elu zethuar khez qalthaz sheqet]{lang=khel}
+2 [He drew the road like one continuous reed-stroke.]{lang=en}
+2 [Zethal saru hodir ezu khalat lazen qel zethmin elu zethuar khez qalthaz sheqet]{lang=khel}
 
-Galezkara, city on the line.
-Your streets go where they please. They are mud; they go down in the water and come up somewhere else.
-Your road does not go where it pleases. It goes where he goes.
-Nothing stands in his line between the temple and the dawn edge, between the temple and the dusk edge.
-What stands in it comes down, whoever owns it, and the owner carries the stone.
-The kings will lie to either side of it and leave it open.
-Your road will be full while the god crosses:
-full of the image carried on the longest day, full of the people at the sides of it,
-full of the first grain, full of the queue, full of the tiller with the hoe and the boy with the stick.
-Nothing stands in the line.
+1 [Wanel hodir elu telu Tarul saru qu ta lagar saru temun nyar qu]{lang=khel}
+2 [He walked and cleared your road.]{lang=en}
+2 [Wanel hodir elu telu Tarul saru qu ta lagar saru temun nyar qu]{lang=khel}
 
-He is at the dawn edge.
-The sky at the end of the road is the color of a potter's clay before the kiln.
-The fire-tender puts out his rod. The first of him is on the electrum.
-He was in the ground, and he is on the road. Nothing stands in the line.
-Uqa'a.
-Fire on the first ground.
-Fire over the mound when the mound was the whole of the world.
-Lord of the dry brick, lord of the dry ink.
-Who went down the road and came up it.
-It is counted. It is one more day, and one more, and this one.
+1 [Yaler telu zar ezu qu]{lang=khel}
+2 [Ascend it.]{lang=en}
+2 [Yaler telu zar ezu qu]{lang=khel}
 
-_\[At the last naming the rest is held as at the first. The singers go in to the fire. The hymn is ended, and the day is in the count.\]_
+1 [Wanel temun lazret ezu qernet galzat elu Galnat Zar galzat thelin elu lemunar ta galmun]{lang=khel}
+2 [A lord's ancient gated High City wall first obstructed the line.]{lang=en}
+2 [Wanel temun lazret ezu qernet galzat elu Galnat Zar galzat thelin elu lemunar ta galmun]{lang=khel}
+
+1 [Yarul temun nyar qu nizar khez qemet qamnet Tuqath qamnetar qedlar]{lang=khel}
+2 [Whatever occupies it must descend; its owner carries the stone.]{lang=en}
+2 [Yarul temun nyar qu nizar khez qemet qamnet Tuqath qamnetar qedlar]{lang=khel}
+
+1 [Tuqath lemunar elu saru Wanel galmun ezu galzat elu igelu kalzu]{lang=khel}
+2 [The lord carried his stones. His gate now serves the river wall.]{lang=en}
+2 [Tuqath lemunar elu saru Wanel galmun ezu galzat elu igelu kalzu]{lang=khel}
+
+1 [Wanel temun khulret nelgalar Razal genar nelgir elu qu Qalur qu]{lang=khel}
+2 [A shrine came second. Its god was consulted and moved.]{lang=en}
+2 [Wanel temun khulret nelgalar Razal genar nelgir elu qu Qalur qu]{lang=khel}
+
+1 [Wanel khemu habtun elu nelgir qezunet Yarul qu nizar qel galzat]{lang=khel}
+2 [Third came your own granary, demolished like the wall.]{lang=en}
+2 [Wanel khemu habtun elu nelgir qezunet Yarul qu nizar qel galzat]{lang=khel}
+
+1 [Khez tharel temun ezu qernet narel habtun Zuren galnat yarulnet elu habtun nizar]{lang=khel}
+2 [The city watched it fall. Since then the line has stayed clear.]{lang=en}
+2 [Khez tharel temun ezu qernet narel habtun Zuren galnat yarulnet elu habtun nizar]{lang=khel}
+
+1 [Rethan elu telu qel qenmar elu qetgar ezu qernet elu shelun]{lang=khel}
+2 [Your names in the eastern face's singing order:]{lang=en}
+2 [Rethan elu telu qel qenmar elu qetgar ezu qernet elu shelun]{lang=khel}
+
+1 [Thalu az gharen lazret]{lang=khel}
+2 [Fire upon earliest ground.]{lang=en}
+2 [Thalu az gharen lazret]{lang=khel}
+
+1 [Yaler saru zar yathar]{lang=khel}
+2 [Riser above the mound.]{lang=en}
+2 [Yaler saru zar yathar]{lang=khel}
+
+1 [Thumath saru shazqet nyar Meglarar Tharel saru ezu telu az qenmar elu qetgar]{lang=khel}
+2 [Burner of the soldier's stain as he stands in your eastern light.]{lang=en}
+2 [Thumath saru shazqet nyar Meglarar Tharel saru ezu telu az qenmar elu qetgar]{lang=khel}
+
+1 [Thumath saru razqet nyar lamur mar telath lamur qu]{lang=khel}
+2 [Burner of lies before a mouth completes them.]{lang=en}
+2 [Thumath saru razqet nyar lamur mar telath lamur qu]{lang=khel}
+
+1 [Qezlar saru galqat Qezlar saru zethqur]{lang=khel}
+2 [Drier of brick and ink.]{lang=en}
+2 [Qezlar saru galqat Qezlar saru zethqur]{lang=khel}
+
+1 [Qezlar saru wathet khez qamret ezu qelgar khez qazemnet Leqet tazir shar nezqet]{lang=khel}
+2 [Drier of poor pit-grave dead, free and better than natron.]{lang=en}
+2 [Qezlar saru wathet khez qamret ezu qelgar khez qazemnet Leqet tazir shar nezqet]{lang=khel}
+
+1 [Temal saru zethat zuret]{lang=khel}
+2 [Maker of readable entries.]{lang=en}
+2 [Temal saru zethat zuret]{lang=khel}
+
+1 [Wanel saru ezu Gar-Au]{lang=khel}
+2 [Present within the Gar-Au.]{lang=en}
+2 [Wanel saru ezu Gar-Au]{lang=khel}
+
+1 [Wanel saru az qelnet az zarat]{lang=khel}
+2 [Present at the noon altar.]{lang=en}
+2 [Wanel saru az qelnet az zarat]{lang=khel}
+
+1 [Yarath saru nyar qenmar elu ithnar]{lang=khel}
+2 [Departing the western face.]{lang=en}
+2 [Yarath saru nyar qenmar elu ithnar]{lang=khel}
+
+1 [Yarul saru nizar ezu pedar]{lang=khel}
+2 [Descending on feet.]{lang=en}
+2 [Yarul saru nizar ezu pedar]{lang=khel}
+
+1 [Yarul saru nuqar gharen]{lang=khel}
+2 [Passing beneath floors.]{lang=en}
+2 [Yarul saru nuqar gharen]{lang=khel}
+
+1 [Qezir leqar saru Khez tamul qu saru]{lang=khel}
+2 [Struck at, never swallowed.]{lang=en}
+2 [Qezir leqar saru Khez tamul qu saru]{lang=khel}
+
+1 [Yaler saru zar ezu hodir]{lang=khel}
+2 [Ascending the road.]{lang=en}
+2 [Yaler saru zar ezu hodir]{lang=khel}
+
+1 [Razer genar saru qer elu rethan temun eqar Khez wanel saru lazen elu naru Wanel saru thalu Wanel saru]{lang=khel}
+2 [Named by all these names, beyond each, the fire,]{lang=en}
+2 [Razer genar saru qer elu rethan temun eqar Khez wanel saru lazen elu naru Wanel saru thalu Wanel saru]{lang=khel}
+
+1 [Uqa'a]{lang=khel}
+2 [Uqa'a.]{lang=en}
+2 [Uqa'a]{lang=khel}
+
+1 [Yaler telu zar]{lang=khel}
+2 [You rise.]{lang=en}
+2 [Yaler telu zar]{lang=khel}
+
+1 [Wanel lazret elu telu az qelwaz elu qarnet elu qedzun]{lang=khel}
+2 [Your first light touches electrum obelisk tips.]{lang=en}
+2 [Wanel lazret elu telu az qelwaz elu qarnet elu qedzun]{lang=khel}
+
+1 [Thalal galzamar zekhot Qalthaz lagathar elu thalu lagun ez zurat qu]{lang=khel}
+2 [The court stays dark. The tender extends his rod to see it.]{lang=en}
+2 [Thalal galzamar zekhot Qalthaz lagathar elu thalu lagun ez zurat qu]{lang=khel}
+
+1 [Tharun galzat elu galuqet wazet Yaleth shebigelar qenmar nyar qu]{lang=khel}
+2 [Island walls whiten until boatmen turn their eyes.]{lang=en}
+2 [Tharun galzat elu galuqet wazet Yaleth shebigelar qenmar nyar qu]{lang=khel}
+
+1 [Tharun galzur elu Galnat Zar Wanel galar thelin tazir ta zarat tazir]{lang=khel}
+2 [Then High City roofs, oldest and highest houses.]{lang=en}
+2 [Tharun galzur elu Galnat Zar Wanel galar thelin tazir ta zarat tazir]{lang=khel}
+
+1 [Tharun thulun elu igelu qazir Galnat Zar qezwan ta shebigel lazen az qu]{lang=khel}
+2 [Then its brown river arm carrying one boat.]{lang=en}
+2 [Tharun thulun elu igelu qazir Galnat Zar qezwan ta shebigel lazen az qu]{lang=khel}
+
+1 [Tharun galzur elu galnet qezil Yaler qalu ez naru ezu kalzet temun Yarul atmeru zar ez talen]{lang=khel}
+2 [Then low-quarter roofs: yearly water sends their people up to kin.]{lang=en}
+2 [Tharun galzur elu galnet qezil Yaler qalu ez naru ezu kalzet temun Yarul atmeru zar ez talen]{lang=khel}
+
+1 [Tharun zegaru]{lang=khel}
+2 [Then fields.]{lang=en}
+2 [Tharun zegaru]{lang=khel}
+
+1 [Ezu Azlet faelath telu qalu ezu galzamar nazar Thaluz qu zengel khulret]{lang=khel}
+2 [In Flood you light courtyard water touching the second step,]{lang=en}
+2 [Ezu Azlet faelath telu qalu ezu galzamar nazar Thaluz qu zengel khulret]{lang=khel}
+
+1 [Ta yathar laz az zar elu qalu qel mar temun temun]{lang=khel}
+2 [the lone mound above it as before all other things.]{lang=en}
+2 [Ta yathar laz az zar elu qalu qel mar temun temun]{lang=khel}
+
+1 [Faelath telu Wazu az zengel elu Mazelnet Mazel saru mazgar qer elu telu Tuqel saru qu zar]{lang=khel}
+2 [You light the Measure's Wazu reading your cubit and carrying it upward.]{lang=en}
+2 [Faelath telu Wazu az zengel elu Mazelnet Mazel saru mazgar qer elu telu Tuqel saru qu zar]{lang=khel}
+
+1 [Wanel mazgar elu zethulnet ezu zekhot mazgar elu qerzel]{lang=khel}
+2 [A dark-read cubit is guessed.]{lang=en}
+2 [Wanel mazgar elu zethulnet ezu zekhot mazgar elu qerzel]{lang=khel}
+
+1 [Faelath telu qaltaru ta qedlar Tuqath qalu naru ez qelzar elu amqar ezu kalun elu yalathnet elu qalu]{lang=khel}
+2 [You light stone barges floating to desert margins while water reaches them.]{lang=en}
+2 [Faelath telu qaltaru ta qedlar Tuqath qalu naru ez qelzar elu amqar ezu kalun elu yalathnet elu qalu]{lang=khel}
+
+1 [Faelath telu tamelar az qalthar ta tamzel elu naru ta zethgal elu mazret elu qu]{lang=khel}
+2 [You light dyke workers, their dole, its counting counter.]{lang=en}
+2 [Faelath telu tamelar az qalthar ta tamzel elu naru ta zethgal elu mazret elu qu]{lang=khel}
+
+1 [Ezu Gelet faelath telu zegarar ta qezzal az qalmer ta khanur zamar saru]{lang=khel}
+2 [In Emergence you light the hoe-bearing farmer and preceding dog.]{lang=en}
+2 [Ezu Gelet faelath telu zegarar ta qezzal az qalmer ta khanur zamar saru]{lang=khel}
+
+1 [Faelath telu shanur elu mazelar qarmath lagqet khul ta qelqen az qu]{lang=khel}
+2 [You light the knotted survey cord between two stakes,]{lang=en}
+2 [Faelath telu shanur elu mazelar qarmath lagqet khul ta qelqen az qu]{lang=khel}
+
+1 [Ta qedlar elu qalurnet elu Azlet az garel elu tethet elu Azlet]{lang=khel}
+2 [the flood-moved stone resting in its deposited place,]{lang=en}
+2 [Ta qedlar elu qalurnet elu Azlet az garel elu tethet elu Azlet]{lang=khel}
+
+1 [Thalel qu zun qethel rethet elu shanur ta zethat elu kalzet mar qu Tharun tuqath genar qu]{lang=khel}
+2 [until cord and last year's entry order another place and someone carries it.]{lang=en}
+2 [Thalel qu zun qethel rethet elu shanur ta zethat elu kalzet mar qu Tharun tuqath genar qu]{lang=khel}
+
+1 [Faelath telu zethat Qerath qu]{lang=khel}
+2 [You light the prevailing entry.]{lang=en}
+2 [Faelath telu zethat Qerath qu]{lang=khel}
+
+1 [Ezu Shelu faelath telu hodir galut ta zewaret az naru]{lang=khel}
+2 [In Harvest you light opening roads and caravans,]{lang=en}
+2 [Ezu Shelu faelath telu hodir galut ta zewaret az naru]{lang=khel}
+
+1 [Ta razethar elu galnat ta Meglar ta qezgath ezu qelqath az balvel]{lang=khel}
+2 [envoys and levies hauling bundled spears on carts.]{lang=en}
+2 [Ta razethar elu galnat ta Meglar ta qezgath ezu qelqath az balvel]{lang=khel}
+
+1 [Faelath telu khemu temun ta tharen chalen az telnet khez menqet]{lang=khel}
+2 [You light all three seasons and five monthless ending days.]{lang=en}
+2 [Faelath telu khemu temun ta tharen chalen az telnet khez menqet]{lang=khel}
+
+1 [Faelath telu galmun elu habtun elu nelgir ta qathur az naru]{lang=khel}
+2 [You light granary doors and seals,]{lang=en}
+2 [Faelath telu galmun elu habtun elu nelgir ta qathur az naru]{lang=khel}
+
+1 [Ta thalmu elu lagathar az qathur ta lagun elu mazret ezu qallun]{lang=khel}
+2 [overseer's hand and jarred tally sticks.]{lang=en}
+2 [Ta thalmu elu lagathar az qathur ta lagun elu mazret ezu qallun]{lang=khel}
+
+1 [Faelath telu qernet az zethgal mar galuthnet elu qu]{lang=khel}
+2 [You light the queue before its counter opens:]{lang=en}
+2 [Faelath telu qernet az zethgal mar galuthnet elu qu]{lang=khel}
+
+1 [Ghunet ta qallun malen qarenar ez mazgar elu qathun elu talqar]{lang=khel}
+2 [jar-bearing woman, boy fetching grandfather's grain,]{lang=en}
+2 [Ghunet ta qallun malen qarenar ez mazgar elu qathun elu talqar]{lang=khel}
+
+1 [Genar qarnethet ezu qernet ezu zarun temun Khez qamar saru zeqat ez saru Yaler saru ez mazathnet]{lang=khel}
+2 [old man arriving daily without a claim, wanting to be counted.]{lang=en}
+2 [Genar qarnethet ezu qernet ezu zarun temun Khez qamar saru zeqat ez saru Yaler saru ez mazathnet]{lang=khel}
+
+1 [Faelath telu mazgar ta mazgar qalthaz ezu qu ta lagun zar qalmar]{lang=khel}
+2 [You light measure, piled grain, leveling rod.]{lang=en}
+2 [Faelath telu mazgar ta mazgar qalthaz ezu qu ta lagun zar qalmar]{lang=khel}
+
+1 [Faelath telu qenmet qelu lazen ez mazgar ezu kalzet telnethet ta khemu ezu kalzet khez qemet Faelath telu khul]{lang=khel}
+2 [You light both prices: one qelu per measure in full years, three in short years.]{lang=en}
+2 [Faelath telu qenmet qelu lazen ez mazgar ezu kalzet telnethet ta khemu ezu kalzet khez qemet Faelath telu khul]{lang=khel}
+
+1 [Faelath telu halzi galut az zethgal ta zethuar elu wethet elu zethqal]{lang=khel}
+2 [You light the open counter ledger and scribe wetting his palette,]{lang=en}
+2 [Faelath telu halzi galut az zethgal ta zethuar elu wethet elu zethqal]{lang=khel}
+
+1 [Heurath saru qelqez qelthez elu zethqur khamet Qarazel saru Tamel saru qu]{lang=khel}
+2 [finding cracked black pigment, cursing, using it.]{lang=en}
+2 [Heurath saru qelqez qelthez elu zethqur khamet Qarazel saru Tamel saru qu]{lang=khel}
+
+1 [Faelath telu qalnazgar ta khalzun zar naru ta temthar elu gethar]{lang=khel}
+2 [You light steaming brewing vats and pottery kiln,]{lang=en}
+2 [Faelath telu qalnazgar ta khalzun zar naru ta temthar elu gethar]{lang=khel}
+
+1 [Ta githarar Tuqath sari githar ez galmun ez telu]{lang=khel}
+2 [the woman bringing her loom to her door for you.]{lang=en}
+2 [Ta githarar Tuqath sari githar ez galmun ez telu]{lang=khel}
+
+1 [Faelath telu malen qarenar ezu rethgal elu galnet Zethal naru zelqet elu zethqen]{lang=khel}
+2 [You light precinct schoolboys copying tablets,]{lang=en}
+2 [Faelath telu malen qarenar ezu rethgal elu galnet Zethal naru zelqet elu zethqen]{lang=khel}
+
+1 [Ta Lagathar Zethul saru qaznel elu naru zar qalmer]{lang=khel}
+2 [their Keeper reading mistakes across their shoulders.]{lang=en}
+2 [Ta Lagathar Zethul saru qaznel elu naru zar qalmer]{lang=khel}
+
+1 [Faelath telu zalethar az galmun elu galar Razel saru temun mar qeznar elu qelamet]{lang=khel}
+2 [You light the house-door physician making the required early declaration.]{lang=en}
+2 [Faelath telu zalethar az galmun elu galar Razel saru temun mar qeznar elu qelamet]{lang=khel}
+
+1 [Faelath telu garun elu wathetar qarmel shebigel ta nezqet ezu sharmet ta shenqet az shanur]{lang=khel}
+2 [You light ferryside embalmers, natron sacks, hanging linen,]{lang=en}
+2 [Faelath telu garun elu wathetar qarmel shebigel ta nezqet ezu sharmet ta shenqet az shanur]{lang=khel}
+
+1 [Ta wathet qazir qalu ezu shebigel lazret ta zethqen]{lang=khel}
+2 [dead crossing on the first boat beside their tablets.]{lang=en}
+2 [Ta wathet qazir qalu ezu shebigel lazret ta zethqen]{lang=khel}
+
+1 [Faelath telu zelqenar az limqet Walet naru raznet elu qezunet ez temun Qalath naru elu nazun mer qu]{lang=khel}
+2 [You light quay factors using their own term, then ours,]{lang=en}
+2 [Faelath telu zelqenar az limqet Walet naru raznet elu qezunet ez temun Qalath naru elu nazun mer qu]{lang=khel}
+
+1 [Ta zewarar az limqet Khez razal saru temun qaral qenuwa thelin Faelath telu qenuwa]{lang=khel}
+2 [the changer questioning no old gold. You light the gold.]{lang=en}
+2 [Ta zewarar az limqet Khez razal saru temun qaral qenuwa thelin Faelath telu qenuwa]{lang=khel}
+
+1 [Faelath telu shebigelar Qelzuth saru zar ez qalu ta shalar elu anqar thalun]{lang=khel}
+2 [You light the upstream boatman poling beneath a hanging sail.]{lang=en}
+2 [Faelath telu shebigelar Qelzuth saru zar ez qalu ta shalar elu anqar thalun]{lang=khel}
+
+1 [Faelath telu shebar ezu qelmaru qethel qelun ta qedlarar az qenmar]{lang=khel}
+2 [You light knee-deep marsh reed cutters and quarry-face stoneworkers,]{lang=en}
+2 [Faelath telu shebar ezu qelmaru qethel qelun ta qedlarar az qenmar]{lang=khel}
+
+1 [Ta genar qamur az galmun elu lutu Mazath genar saru ta tharqat]{lang=khel}
+2 [estate bondsmen counted beside oxen.]{lang=en}
+2 [Ta genar qamur az galmun elu lutu Mazath genar saru ta tharqat]{lang=khel}
+
+1 [Faelath telu qaldun az pedar elu Galnat Zar Galel qu ezu zekhot nuqar tuqathnet]{lang=khel}
+2 [You light the donkey beneath the High City, seated in darkness under its load,]{lang=en}
+2 [Faelath telu qaldun az pedar elu Galnat Zar Galel qu ezu zekhot nuqar tuqathnet]{lang=khel}
+
+1 [Khez tharel qu qaral lagun Khez tharel qu qaral qelmar elu malen]{lang=khel}
+2 [refusing stick and crying boy alike,]{lang=en}
+2 [Khez tharel qu qaral lagun Khez tharel qu qaral qelmar elu malen]{lang=khel}
+
+1 [Ta malen ta lagun]{lang=khel}
+2 [and boy and stick.]{lang=en}
+2 [Ta malen ta lagun]{lang=khel}
+
+1 [Faelath telu meglu elu ithnar ta ternu Khez razel naru Halzunet]{lang=khel}
+2 [You light western herders omitting denials,]{lang=en}
+2 [Faelath telu meglu elu ithnar ta ternu Khez razel naru Halzunet]{lang=khel}
+
+1 [Ta atmeru elu qedgel elu qetgar ta atmeru elu qalzar elu miglar Khez rethal naru mazret]{lang=khel}
+2 [eastern hill people, northern sea people unfamiliar with our count,]{lang=en}
+2 [Ta atmeru elu qedgel elu qetgar ta atmeru elu qalzar elu miglar Khez rethal naru mazret]{lang=khel}
+
+1 [Ezu gharen elu qezunet ezu horqet qemel qer elu thalu qemel qel wanel naru elu nazun]{lang=khel}
+2 [in their countries at our hour, with our fire, as though ours.]{lang=en}
+2 [Ezu gharen elu qezunet ezu horqet qemel qer elu thalu qemel qel wanel naru elu nazun]{lang=khel}
+
+1 [Faelath telu tamzel az telzar ezu qalwat elu talen qarmath hodir]{lang=khel}
+2 [You light bread on kin-tomb tables among streets,]{lang=en}
+2 [Faelath telu tamzel az telzar ezu qalwat elu talen qarmath hodir]{lang=khel}
+
+1 [Qalath genar qu zun mar yalnet elu telu Alqar qu az yalnet elu telu]{lang=khel}
+2 [laid before your arrival for your arrival.]{lang=en}
+2 [Qalath genar qu zun mar yalnet elu telu Alqar qu az yalnet elu telu]{lang=khel}
+
+1 [Faelath telu Gar-Au az qarnet elu hodir ta mazgar lazret ezu thalmu khul]{lang=khel}
+2 [You light the road-head king bearing first grain in both hands,]{lang=en}
+2 [Faelath telu Gar-Au az qarnet elu hodir ta mazgar lazret ezu thalmu khul]{lang=khel}
+
+1 [Wanel thalu elu telu ezu saru Yalmet saru telu qel nazun]{lang=khel}
+2 [your fire within him, waiting like us.]{lang=en}
+2 [Wanel thalu elu telu ezu saru Yalmet saru telu qel nazun]{lang=khel}
+
+1 [Faelath telu zamat ezu khalat lazen qel zethalnet elu hodir]{lang=khel}
+2 [One breath lights everything, as one breath drew the road.]{lang=en}
+2 [Faelath telu zamat ezu khalat lazen qel zethalnet elu hodir]{lang=khel}
+
+1 [    Yaleth hodir zun Agu tharel rethan zun]{lang=khel}
+2 [    Here the road turns. Here a name might stand.]{lang=en}
+2 [    Yaleth hodir zun Agu tharel rethan zun]{lang=khel}
+
+1 [    Khez zethal genar qu az qarnet elu zelqet elu kalzet Khez shelun naru qu az yalethnet elu hodir]{lang=khel}
+2 [    Chronicles omit it; the turn's singing omits it.]{lang=en}
+2 [    Khez zethal genar qu az qarnet elu zelqet elu kalzet Khez shelun naru qu az yalethnet elu hodir]{lang=khel}
+
+1 [    Shelun nazun elu telu ta thalalnet elu qu]{lang=khel}
+2 [    We sing your name, holding its rest.]{lang=en}
+2 [    Shelun nazun elu telu ta thalalnet elu qu]{lang=khel}
+
+1 [    Uqa'a]{lang=khel}
+2 [    Uqa'a.]{lang=en}
+2 [    Uqa'a]{lang=khel}
+
+1 [Wanel telu az zarat]{lang=khel}
+2 [You reach noon.]{lang=en}
+2 [Wanel telu az zarat]{lang=khel}
+
+1 [Tharel telu zar galzamar Khez qamar temun ezu qu khalqet]{lang=khel}
+2 [Above the court you leave nothing shadowed:]{lang=en}
+2 [Tharel telu zar galzamar Khez qamar temun ezu qu khalqet]{lang=khel}
+
+1 [Khez galmun thazet khez qedzun khez Lem'Nelgir khez lagun ezu thalmu elu lagathar elu thalu]{lang=khel}
+2 [neither pylon, obelisk, priest, nor tender's rod.]{lang=en}
+2 [Khez galmun thazet khez qedzun khez Lem'Nelgir khez lagun ezu thalmu elu lagathar elu thalu]{lang=khel}
+
+1 [Yaler fael zar qelnet qel yaler qu zar qelnet lazret]{lang=khel}
+2 [Light climbs this altar as the earliest altar.]{lang=en}
+2 [Yaler fael zar qelnet qel yaler qu zar qelnet lazret]{lang=khel}
+
+1 [Razel galmun temun ezu galnat Halzunet kalzu Wanel telu zar nazun]{lang=khel}
+2 [Every city door speaks denials beneath you:]{lang=en}
+2 [Razel galmun temun ezu galnat Halzunet kalzu Wanel telu zar nazun]{lang=khel}
+
+1 [Khez thalal nazu zethat galut qamaru dunel nazu galath qu]{lang=khel}
+2 [I left no closable entry open.]{lang=en}
+2 [Khez thalal nazu zethat galut qamaru dunel nazu galath qu]{lang=khel}
+
+1 [Khez lamath nazu raznet elu rethnar khez zurenar]{lang=khel}
+2 [I took no unwitnessed stranger's word.]{lang=en}
+2 [Khez lamath nazu raznet elu rethnar khez zurenar]{lang=khel}
+
+1 [Khez lemath nazu wathet khanar az nelgalar]{lang=khel}
+2 [I let no dead person hunger at the shrine.]{lang=en}
+2 [Khez lemath nazu wathet khanar az nelgalar]{lang=khel}
+
+1 [Lagath Qe'aret halzat Lagath telu fael elu zethulnet elu halzat]{lang=khel}
+2 [Qe'aret guards the scale. You guard its reading light.]{lang=en}
+2 [Lagath Qe'aret halzat Lagath telu fael elu zethulnet elu halzat]{lang=khel}
+
+1 [Faelath telu zethalnet elu zethuar]{lang=khel}
+2 [You illuminate the scribe's writing.]{lang=en}
+2 [Faelath telu zethalnet elu zethuar]{lang=khel}
+
+1 [Lagath nelgiru temun khez zethal zethuar Khez razal nazun telu qu az qenmar elu qetgar]{lang=khel}
+2 [The gods keep his omissions. The eastern face requests none of them.]{lang=en}
+2 [Lagath nelgiru temun khez zethal zethuar Khez razal nazun telu qu az qenmar elu qetgar]{lang=khel}
+
+1 [Galel qerathar ezu galzamar Qelathar khul zamar saru Zurenar qarmath naru]{lang=khel}
+2 [Judge sits before two parties with witness between.]{lang=en}
+2 [Galel qerathar ezu galzamar Qelathar khul zamar saru Zurenar qarmath naru]{lang=khel}
+
+1 [Razel zurenar zurnet elu saru zamar telu Khez razel saru khashelnet]{lang=khel}
+2 [Before you the witness reports sight, excluding hearsay.]{lang=en}
+2 [Razel zurenar zurnet elu saru zamar telu Khez razel saru khashelnet]{lang=khel}
+
+1 [Mazath lagathar mazgar elu nelgir az zarat Khez az horqet leqar]{lang=khel}
+2 [The overseer counts divine grain at noon alone.]{lang=en}
+2 [Mazath lagathar mazgar elu nelgir az zarat Khez az horqet leqar]{lang=khel}
+
+1 [Yaler telu qenlet nizar ezu mazgar az zarat]{lang=khel}
+2 [You shine vertically into its measure,]{lang=en}
+2 [Yaler telu qenlet nizar ezu mazgar az zarat]{lang=khel}
+
+1 [Khez kelath khalqet ezu qu ez qamzel qalmar khez qemet]{lang=khel}
+2 [leaving no internal shadow concealing a short heap.]{lang=en}
+2 [Khez kelath khalqet ezu qu ez qamzel qalmar khez qemet]{lang=khel}
+
+1 [Qamar mazgar elu zarun khalqet ezu qu elu pathet elu thalmu]{lang=khel}
+2 [Morning counting leaves a hand-wide shadow.]{lang=en}
+2 [Qamar mazgar elu zarun khalqet ezu qu elu pathet elu thalmu]{lang=khel}
+
+1 [Khez qamar mazgar elu zarat qu]{lang=khel}
+2 [Noon counting leaves none.]{lang=en}
+2 [Khez qamar mazgar elu zarat qu]{lang=khel}
+
+1 [Mazath mazathar az zarat zamar telu]{lang=khel}
+2 [The noon counter counts before you.]{lang=en}
+2 [Mazath mazathar az zarat zamar telu]{lang=khel}
+
+1 [Rethan elu telu az zarat qel shelun galzamar khez khalqet]{lang=khel}
+2 [Your noon names, sung by the shadowless court:]{lang=en}
+2 [Rethan elu telu az zarat qel shelun galzamar khez khalqet]{lang=khel}
+
+1 [Tharel saru zar mazgar]{lang=khel}
+2 [Standing above measure.]{lang=en}
+2 [Tharel saru zar mazgar]{lang=khel}
+
+1 [Tharel saru zar zurenar]{lang=khel}
+2 [Standing above witness.]{lang=en}
+2 [Tharel saru zar zurenar]{lang=khel}
+
+1 [Tharel saru zar halzat Khez thaluz saru qu]{lang=khel}
+2 [Standing above scales without touching them.]{lang=en}
+2 [Tharel saru zar halzat Khez thaluz saru qu]{lang=khel}
+
+1 [Tharel saru zar Gar-Au Wanel saru elu telu]{lang=khel}
+2 [Standing above your king.]{lang=en}
+2 [Tharel saru zar Gar-Au Wanel saru elu telu]{lang=khel}
+
+1 [Tharel saru zar meglu ta atmeru elu qedgel ta atmeru elu qalzar ta nazun qemel]{lang=khel}
+2 [Standing equally above herders, hill people, sea people, us.]{lang=en}
+2 [Tharel saru zar meglu ta atmeru elu qedgel ta atmeru elu qalzar ta nazun qemel]{lang=khel}
+
+1 [Tharel saru zar igelu Yarul igelu qezwan nuqar telu Khez thalet qu]{lang=khel}
+2 [Standing above the moving brown river.]{lang=en}
+2 [Tharel saru zar igelu Yarul igelu qezwan nuqar telu Khez thalet qu]{lang=khel}
+
+1 [Tharel saru zar genar khez ezu zethu Wanel leqar ezu qezgar ezu horqet eqar Khez dunel qu zurat zar]{lang=khel}
+2 [Standing above the unwritten one, deep now, unable to look up.]{lang=en}
+2 [Tharel saru zar genar khez ezu zethu Wanel leqar ezu qezgar ezu horqet eqar Khez dunel qu zurat zar]{lang=khel}
+
+1 [Wanel saru az zarat Khez thalel saru zun Wanel saru]{lang=khel}
+2 [Present at noon without remaining there,]{lang=en}
+2 [Wanel saru az zarat Khez thalel saru zun Wanel saru]{lang=khel}
+
+1 [Uqa'a]{lang=khel}
+2 [Uqa'a.]{lang=en}
+2 [Uqa'a]{lang=khel}
+
+1 […]
+2 […]
+2 […]
+
+1 [    Yaleth hodir zun Agu tharel rethan zun]{lang=khel}
+2 [    Here the road turns. Here a name might stand.]{lang=en}
+2 [    Yaleth hodir zun Agu tharel rethan zun]{lang=khel}
+
+1 [    Khez zethal genar qu az qarnet elu zelqet elu kalzet Khez shelun naru qu az yalethnet elu hodir]{lang=khel}
+2 [    Chronicles omit it; the turn's singing omits it.]{lang=en}
+2 [    Khez zethal genar qu az qarnet elu zelqet elu kalzet Khez shelun naru qu az yalethnet elu hodir]{lang=khel}
+
+1 [    Shelun nazun elu telu ta thalalnet elu qu]{lang=khel}
+2 [    We sing your name, holding its rest.]{lang=en}
+2 [    Shelun nazun elu telu ta thalalnet elu qu]{lang=khel}
+
+1 [    Uqa'a]{lang=khel}
+2 [    Uqa'a.]{lang=en}
+2 [    Uqa'a]{lang=khel}
+
+1 [Yarul telu nizar]{lang=khel}
+2 [You descend.]{lang=en}
+2 [Yarul telu nizar]{lang=khel}
+
+1 [Yaler khalqet yalret ezu galzamar nyar tarmil elu ithnar lazret]{lang=khel}
+2 [Western shadows return to the court first.]{lang=en}
+2 [Yaler khalqet yalret ezu galzamar nyar tarmil elu ithnar lazret]{lang=khel}
+
+1 [Galun Thaz'Lekhau domet thazit zekhot Galath saru galmun az zelmit elu telu]{lang=khel}
+2 [The high priest enters a little dark chamber and shuts your image inside.]{lang=en}
+2 [Galun Thaz'Lekhau domet thazit zekhot Galath saru galmun az zelmit elu telu]{lang=khel}
+
+1 [Uqa'a khez zuret ezu galar elu nelgir]{lang=khel}
+2 [Sun-lord concealed in sanctuary.]{lang=en}
+2 [Uqa'a khez zuret ezu galar elu nelgir]{lang=khel}
+
+1 [Khez zuret telu zun Wanel telu ezu hodir]{lang=khel}
+2 [Concealed there, traveling here.]{lang=en}
+2 [Khez zuret telu zun Wanel telu ezu hodir]{lang=khel}
+
+1 [Yarath telu nyar qenmar elu ithnar zar qalu zar ez gharen zar]{lang=khel}
+2 [You leave the western face, cross water, climb the shelf,]{lang=en}
+2 [Yarath telu nyar qenmar elu ithnar zar qalu zar ez gharen zar]{lang=khel}
+
+1 [Nizar ezu hodir elu gharen zar Wanel qu nevar Khez kelath genar qarmel qu ethel]{lang=khel}
+2 [follow its new road beside which nobody yet lies.]{lang=en}
+2 [Nizar ezu hodir elu gharen zar Wanel qu nevar Khez kelath genar qarmel qu ethel]{lang=khel}
+
+1 [Qelzat genar Khalnet lazret qazir qu qaril qalu Qelzat qedlarar galar elu Gar-Au nyar qu]{lang=khel}
+2 [Near water its first Way crosses it; masons carve the king's house from that Way.]{lang=en}
+2 [Qelzat genar Khalnet lazret qazir qu qaril qalu Qelzat qedlarar galar elu Gar-Au nyar qu]{lang=khel}
+
+1 [Wanel saru alget Yalmet galar saru qarmel hodir Khez qazir qu]{lang=khel}
+2 [He lives. His house waits beside the road, leaving the road open.]{lang=en}
+2 [Wanel saru alget Yalmet galar saru qarmel hodir Khez qazir qu]{lang=khel}
+
+1 [Yarul telu ez telnet elu hodir ta ezu gharen az telnet]{lang=khel}
+2 [You reach its end and enter ground.]{lang=en}
+2 [Yarul telu ez telnet elu hodir ta ezu gharen az telnet]{lang=khel}
+
+1 [Ezu tharen qezil tazir yarul telu nizar ezu qarmen elu qu]{lang=khel}
+2 [On the shortest day your descent follows its center.]{lang=en}
+2 [Ezu tharen qezil tazir yarul telu nizar ezu qarmen elu qu]{lang=khel}
+
+1 [Ezu tharen leqar temun yarul telu nizar az tarmil lazen Lagath hodir qernet elu tharen elu temalnet elu qu]{lang=khel}
+2 [Other days use a side; the road preserves its appointed day's line.]{lang=en}
+2 [Ezu tharen leqar temun yarul telu nizar az tarmil lazen Lagath hodir qernet elu tharen elu temalnet elu qu]{lang=khel}
+
+1 [Ezu tharen qezil tazir shelun nazun yarulnet elu telu nyar qenmar elu ithnar Wanel eqar zamlet leqar Khez wanel qu eqar]{lang=khel}
+2 [The shortest-day western descent has another hymn.]{lang=en}
+2 [Ezu tharen qezil tazir shelun nazun yarulnet elu telu nyar qenmar elu ithnar Wanel eqar zamlet leqar Khez wanel qu eqar]{lang=khel}
+
+1 [Yarath fael nyar qarnet elu qedzun telnethet qel yalath qu lazret]{lang=khel}
+2 [Electrum tips lose light last, having gained it first.]{lang=en}
+2 [Yarath fael nyar qarnet elu qedzun telnethet qel yalath qu lazret]{lang=khel}
+
+1 [Qazir qedlarar igelu ezu shebigel telnethet ezu yarulnet elu telu nizar Lagath Meglar gharen zar]{lang=khel}
+2 [Masons take the final ferry home at your descent. Guards hold the shelf.]{lang=en}
+2 [Qazir qedlarar igelu ezu shebigel telnethet ezu yarulnet elu telu nizar Lagath Meglar gharen zar]{lang=khel}
+
+1 [Khez shamel genar az qu khez qaran]{lang=khel}
+2 [Nobody sleeps there without cause.]{lang=en}
+2 [Khez shamel genar az qu khez qaran]{lang=khel}
+
+1 [Qalath lagathar elu thalu lagun ezu garel elu qu Wanel thalu ezu galzamar laz thalu]{lang=khel}
+2 [The tender stores his rod. Courtyard fire becomes the only fire.]{lang=en}
+2 [Qalath lagathar elu thalu lagun ezu garel elu qu Wanel thalu ezu galzamar laz thalu]{lang=khel}
+
+1 [Yarul telu nuqar galnat]{lang=khel}
+2 [You pass beneath the city.]{lang=en}
+2 [Yarul telu nuqar galnat]{lang=khel}
+
+1 [Khashath wathet elu qalwat elu talen qarmath hodir telu nuqar gharen]{lang=khel}
+2 [Street kin-tomb dead hear beneath their floors]{lang=en}
+2 [Khashath wathet elu qalwat elu talen qarmath hodir telu nuqar gharen]{lang=khel}
+
+1 [Tharel naru az galzat elu qezunet Zagath genar naru tharel]{lang=khel}
+2 [and rise upon their painted-standing walls.]{lang=en}
+2 [Tharel naru az galzat elu qezunet Zagath genar naru tharel]{lang=khel}
+
+1 [Tharel genar zaget qarmel naru tan Qamar naru qelqet az garel elu naru ezu razernet]{lang=khel}
+2 [Their painted answering men rise beside them.]{lang=en}
+2 [Tharel genar zaget qarmel naru tan Qamar naru qelqet az garel elu naru ezu razernet]{lang=khel}
+
+1 [Tharel Lagathar elu Habtun elu Nelgir Khelansi ta qathur ezu thalmu]{lang=khel}
+2 [Khelansi, Granary Overseer of the God, rises holding his seal.]{lang=en}
+2 [Tharel Lagathar elu Habtun elu Nelgir Khelansi ta qathur ezu thalmu]{lang=khel}
+
+1 [Khashath naru tarulnet elu telu nuqar naru Razel naru rethan elu telu]{lang=khel}
+2 [They hear your passage and speak your name,]{lang=en}
+2 [Khashath naru tarulnet elu telu nuqar naru Razel naru rethan elu telu]{lang=khel}
+
+1 [Makhal telu qer elu qu]{lang=khel}
+2 [your fighting weapon.]{lang=en}
+2 [Makhal telu qer elu qu]{lang=khel}
+
+1 [Tharel naru ezu tarulnet elu telu Galel naru mer qu]{lang=khel}
+2 [They stand through your passage, sit afterward.]{lang=en}
+2 [Tharel naru ezu tarulnet elu telu Galel naru mer qu]{lang=khel}
+
+1 [Mazath genar tamzel az telzar elu naru ez naru ezu zekhot]{lang=khel}
+2 [Their table bread is counted to them in darkness.]{lang=en}
+2 [Mazath genar tamzel az telzar elu naru ez naru ezu zekhot]{lang=khel}
+
+1 [Tarul Reth'Sa'ar ta telu ez galmun lazret Khez tazir]{lang=khel}
+2 [Reth'Sa'ar accompanies you only to the first gate.]{lang=en}
+2 [Tarul Reth'Sa'ar ta telu ez galmun lazret Khez tazir]{lang=khel}
+
+1 [Qamar saru rethan elu galmun az zethqen Nelaz saru naru ez telu lazen mer lazen]{lang=khel}
+2 [His tablet supplies gate names in sequence.]{lang=en}
+2 [Qamar saru rethan elu galmun az zethqen Nelaz saru naru ez telu lazen mer lazen]{lang=khel}
+
+1 [Razel telu naru Galuth galmun Yalen saru ez galar elu zethu]{lang=khel}
+2 [You speak them; gates open; he returns to his library.]{lang=en}
+2 [Razel telu naru Galuth galmun Yalen saru ez galar elu zethu]{lang=khel}
+
+1 [Wanel wathet elu kalzet eqar zamar telu ezu hodir ta zethqen nuqar thulun]{lang=khel}
+2 [This year's dead walk ahead carrying tablets beneath arms.]{lang=en}
+2 [Wanel wathet elu kalzet eqar zamar telu ezu hodir ta zethqen nuqar thulun]{lang=khel}
+
+1 [Tarul naru hodir elu telu khez telu Khez zuren naru telu]{lang=khel}
+2 [They follow your road without seeing you.]{lang=en}
+2 [Tarul naru hodir elu telu khez telu Khez zuren naru telu]{lang=khel}
+
+1 [Khashath naru telu nazar naru Tharel naru qarmel qel qernet qarmel ez lagathar]{lang=khel}
+2 [Hearing you behind, they move aside like a queue for an overseer.]{lang=en}
+2 [Khashath naru telu nazar naru Tharel naru qarmel qel qernet qarmel ez lagathar]{lang=khel}
+
+1 [Yarul telu qarmel naru Yarul naru ez harun elu galuthnet elu halzi]{lang=khel}
+2 [You pass. They continue to the account-opening hall.]{lang=en}
+2 [Yarul telu qarmel naru Yarul naru ez harun elu galuthnet elu halzi]{lang=khel}
+
+1 [Khez shelun genar raznet elu harun zun]{lang=khel}
+2 [This hymn omits its proceedings.]{lang=en}
+2 [Khez shelun genar raznet elu harun zun]{lang=khel}
+
+1 [Khez zuren nazun telu nyar qenmar elu qetgar Qamar nazun mazret]{lang=khel}
+2 [The eastern face cannot see you. We have the count.]{lang=en}
+2 [Khez zuren nazun telu nyar qenmar elu qetgar Qamar nazun mazret]{lang=khel}
+
+1 [Wanel qeznar thalen Wanel zamlet qezil Tegul lagun qeznar ezu zamlet qer elu mazret]{lang=khel}
+2 [A short hymn contains a long night through the rod's counting.]{lang=en}
+2 [Wanel qeznar thalen Wanel zamlet qezil Tegul lagun qeznar ezu zamlet qer elu mazret]{lang=khel}
+
+1 [Lamath lagathar elu thalu lagun yalret az galmun lazret Shelun nazun telu az garel elu rethet elu lagun]{lang=khel}
+2 [The tender resumes his rod at the first gate. Its count places our song:]{lang=en}
+2 [Lamath lagathar elu thalu lagun yalret az galmun lazret Shelun nazun telu az garel elu rethet elu lagun]{lang=khel}
+
+1 [Az qezirnet 100 wanel telu az galmun lazret Shelun nazun galuthnet]{lang=khel}
+2 [hundredth stroke, first gate; we sing its opening;]{lang=en}
+2 [Az qezirnet 100 wanel telu az galmun lazret Shelun nazun galuthnet]{lang=khel}
+
+1 [Az qezirnet 400 wanel telu qarmath wathet ezu hodir Shelun nazun naru qarmel]{lang=khel}
+2 [four-hundredth, road's dead; we sing them aside;]{lang=en}
+2 [Az qezirnet 400 wanel telu qarmath wathet ezu hodir Shelun nazun naru qarmel]{lang=khel}
+
+1 [Az qezirnet 700 wanel telu nizar tazir shar garel leqar Shelun nazun yalethnet]{lang=khel}
+2 [seven-hundredth, deepest point; we sing the turn.]{lang=en}
+2 [Az qezirnet 700 wanel telu nizar tazir shar garel leqar Shelun nazun yalethnet]{lang=khel}
+
+1 [Khez shelun nazun rethan az yalethnet Shelun nazun elu telu mer qu]{lang=khel}
+2 [There we withhold a name, then sing yours.]{lang=en}
+2 [Khez shelun nazun rethan az yalethnet Shelun nazun elu telu mer qu]{lang=khel}
+
+1 [Shamel genar Khez shamel lagun Shelun genar khez qenlet Qenlar lagun]{lang=khel}
+2 [Sleepers leave the rod awake; wrong singers receive its correction.]{lang=en}
+2 [Shamel genar Khez shamel lagun Shelun genar khez qenlet Qenlar lagun]{lang=khel}
+
+1 [Wanel qeznar elu shelunnet qezil qeznar khez telnethet Khez lemath lagun qu]{lang=khel}
+2 [A shortened night remains unfinished. The rod forbids it.]{lang=en}
+2 [Wanel qeznar elu shelunnet qezil qeznar khez telnethet Khez lemath lagun qu]{lang=khel}
+
+1 [Yarul hodir nizar Khez qamar zekhot az qu galthar]{lang=khel}
+2 [The road descends into bankless darkness,]{lang=en}
+2 [Yarul hodir nizar Khez qamar zekhot az qu galthar]{lang=khel}
+
+1 [Wanel qu qalu mar yathar Khez mazath genar qu Thalal qu zun]{lang=khel}
+2 [water predating the mound, uncounted and remaining.]{lang=en}
+2 [Wanel qu qalu mar yathar Khez mazath genar qu Thalal qu zun]{lang=khel}
+
+1 [Kelath leqar qazir hodir az qezgar]{lang=khel}
+2 [At the deepest place the other lies across the road.]{lang=en}
+2 [Kelath leqar qazir hodir az qezgar]{lang=khel}
+
+1 [    Yaleth hodir zun Agu tharel rethan zun]{lang=khel}
+2 [    Here the road turns. Here a name might stand.]{lang=en}
+2 [    Yaleth hodir zun Agu tharel rethan zun]{lang=khel}
+
+1 [    Khez zethal genar qu az qarnet elu zelqet elu kalzet Khez shelun naru qu az yalethnet elu hodir]{lang=khel}
+2 [    Chronicles omit it; the turn's singing omits it.]{lang=en}
+2 [    Khez zethal genar qu az qarnet elu zelqet elu kalzet Khez shelun naru qu az yalethnet elu hodir]{lang=khel}
+
+1 [    Shelun nazun elu telu ta thalalnet elu qu]{lang=khel}
+2 [    We sing your name, holding its rest.]{lang=en}
+2 [    Shelun nazun elu telu ta thalalnet elu qu]{lang=khel}
+
+1 [    Uqa'a]{lang=khel}
+2 [    Uqa'a.]{lang=en}
+2 [    Uqa'a]{lang=khel}
+
+1 [Khez yarul telu qazur Khez alqar garun qazur]{lang=khel}
+2 [You approach directly. No way around exists.]{lang=en}
+2 [Khez yarul telu qazur Khez alqar garun qazur]{lang=khel}
+
+1 [Yarul telu ez qu ezu pedar ta thalu ezu thalmu khul qel mazgar elu Gar-Au]{lang=khel}
+2 [On foot you carry fire in both hands like royal grain.]{lang=en}
+2 [Yarul telu ez qu ezu pedar ta thalu ezu thalmu khul qel mazgar elu Gar-Au]{lang=khel}
+
+1 [Galuth qu Wanel qu thalen shar hodir Wanel qu zekhot tazir shar hodir]{lang=khel}
+2 [It opens, longer and darker than the road.]{lang=en}
+2 [Galuth qu Wanel qu thalen shar hodir Wanel qu zekhot tazir shar hodir]{lang=khel}
+
+1 [Qamar qu telu ezu lamur qethel qalmer]{lang=khel}
+2 [Its mouth holds you shoulder-deep,]{lang=en}
+2 [Qamar qu telu ezu lamur qethel qalmer]{lang=khel}
+
+1 [Wanel thalu ezu lamur ta telu Khez dunel qu galath ez thalu]{lang=khel}
+2 [holding your fire too, unable to close upon it.]{lang=en}
+2 [Wanel thalu ezu lamur ta telu Khez dunel qu galath ez thalu]{lang=khel}
+
+1 [Wazal qu telu Qezir telu qu nizar Lagar telu qu yalret ezu garun elu qu]{lang=khel}
+2 [It releases you, falls, retreats into its origin.]{lang=en}
+2 [Wazal qu telu Qezir telu qu nizar Lagar telu qu yalret ezu garun elu qu]{lang=khel}
+
+1 [Khez qezath genar qu Agu kelath qu qazir hodir ezu qeznar mer kalzu az garel qemel]{lang=khel}
+2 [It survives to block tomorrow's road at the same place.]{lang=en}
+2 [Khez qezath genar qu Agu kelath qu qazir hodir ezu qeznar mer kalzu az garel qemel]{lang=khel}
+
+1 [Alqar qu zun ezu qeznar mar kalzu ezu qeznar elu temalnet elu hodir ezu qeznar mar yathar]{lang=khel}
+2 [It lay there last night, the road's first night, the night before the mound.]{lang=en}
+2 [Alqar qu zun ezu qeznar mar kalzu ezu qeznar elu temalnet elu hodir ezu qeznar mar yathar]{lang=khel}
+
+1 [Qezir telu qu nizar ezu qeznar temun Wanel zarun temun zarun mer qu]{lang=khel}
+2 [Nightly it falls. Every morning follows that fall.]{lang=en}
+2 [Qezir telu qu nizar ezu qeznar temun Wanel zarun temun zarun mer qu]{lang=khel}
+
+1 [Yaler telu zamar]{lang=khel}
+2 [You advance.]{lang=en}
+2 [Yaler telu zamar]{lang=khel}
+
+1 [Yaler telu zamar ta makhalnet Khez lazqath genar telu az qenmar elu qetgar]{lang=khel}
+2 [You advance bearing combat, receiving no eastern anointing.]{lang=en}
+2 [Yaler telu zamar ta makhalnet Khez lazqath genar telu az qenmar elu qetgar]{lang=khel}
+
+1 [Tharel Meglarar elu qezathnet ezu telu qethel yarul shazqet Tharel telu ezu khezan]{lang=khel}
+2 [A killer stands in you until stain departs. You stand in nothing.]{lang=en}
+2 [Tharel Meglarar elu qezathnet ezu telu qethel yarul shazqet Tharel telu ezu khezan]{lang=khel}
+
+1 [Thumath tamelnet elu hodir nyar telu az hodir]{lang=khel}
+2 [The road burns its own residue from you.]{lang=en}
+2 [Thumath tamelnet elu hodir nyar telu az hodir]{lang=khel}
+
+1 [Yaler hodir zar Qamar zekhot galthar yalret qaril lazret]{lang=khel}
+2 [The road rises. Darkness gains banks again, near first,]{lang=en}
+2 [Yaler hodir zar Qamar zekhot galthar yalret qaril lazret]{lang=khel}
+
+1 [Tharun qeril Tharun hodir ta galthar khul ta khalqar az telnet]{lang=khel}
+2 [far second, then two banks and a sky beyond.]{lang=en}
+2 [Tharun qeril Tharun hodir ta galthar khul ta khalqar az telnet]{lang=khel}
+
+1 [Khez zuren wathet nazar telu khalqar Qamar naru galmun elu qezunet]{lang=khel}
+2 [The following dead cannot see that sky. Their door belongs to them.]{lang=en}
+2 [Khez zuren wathet nazar telu khalqar Qamar naru galmun elu qezunet]{lang=khel}
+
+1 [Qamar telu elu telu]{lang=khel}
+2 [Yours belongs to you.]{lang=en}
+2 [Qamar telu elu telu]{lang=khel}
+
+1 [Galezkara galnat az qernet]{lang=khel}
+2 [Galezkara, city upon the line.]{lang=en}
+2 [Galezkara galnat az qernet]{lang=khel}
+
+1 [Yarul hodir elu telu qel qaruth naru Wanel naru qedmal Yarul naru nizar ezu qalu Yaler naru zar az garel leqar]{lang=khel}
+2 [Mud streets choose their courses, drown, return elsewhere.]{lang=en}
+2 [Yarul hodir elu telu qel qaruth naru Wanel naru qedmal Yarul naru nizar ezu qalu Yaler naru zar az garel leqar]{lang=khel}
+
+1 [Khez yarul hodir elu telu qel qaruth qu Yarul qu az garel elu saru]{lang=khel}
+2 [Your road follows his course.]{lang=en}
+2 [Khez yarul hodir elu telu qel qaruth qu Yarul qu az garel elu saru]{lang=khel}
+
+1 [Khez tharel temun ezu qernet elu saru qarmath galar elu nelgir ta telnet elu zarun qarmath qu ta telnet elu hesqar]{lang=khel}
+2 [Nothing obstructs his temple-to-dawn or temple-to-dusk line.]{lang=en}
+2 [Khez tharel temun ezu qernet elu saru qarmath galar elu nelgir ta telnet elu zarun qarmath qu ta telnet elu hesqar]{lang=khel}
+
+1 [Yarul temun nyar qu nizar khez qemet qamnet Tuqath qamnetar qedlar]{lang=khel}
+2 [Whatever occupies it must descend; its owner carries the stone.]{lang=en}
+2 [Yarul temun nyar qu nizar khez qemet qamnet Tuqath qamnetar qedlar]{lang=khel}
+
+1 [Agu kelath Gar-Auu az tarmil khul elu qu Thalal naru qu galut]{lang=khel}
+2 [Kings shall rest on either side, keeping it clear.]{lang=en}
+2 [Agu kelath Gar-Auu az tarmil khul elu qu Thalal naru qu galut]{lang=khel}
+
+1 [Wanel hodir elu telu tamen ezu qazirnet elu nelgir]{lang=khel}
+2 [It fills while the god crosses:]{lang=en}
+2 [Wanel hodir elu telu tamen ezu qazirnet elu nelgir]{lang=khel}
+
+1 [Tamen elu zelmit elu tharen thalen tazir Tamen elu atmeru qarmel]{lang=khel}
+2 [longest-day carried image, people alongside,]{lang=en}
+2 [Tamen elu zelmit elu tharen thalen tazir Tamen elu atmeru qarmel]{lang=khel}
+
+1 [Tamen elu mazgar lazret Tamen elu qernet Tamen elu zegarar ta qezzal ta malen ta lagun]{lang=khel}
+2 [first grain, queue, hoe-bearing farmer, stick-bearing boy.]{lang=en}
+2 [Tamen elu mazgar lazret Tamen elu qernet Tamen elu zegarar ta qezzal ta malen ta lagun]{lang=khel}
+
+1 [Khez tharel temun ezu qernet]{lang=khel}
+2 [Its line stays clear.]{lang=en}
+2 [Khez tharel temun ezu qernet]{lang=khel}
+
+1 [Wanel saru az telnet elu zarun]{lang=khel}
+2 [He reaches dawn's edge.]{lang=en}
+2 [Wanel saru az telnet elu zarun]{lang=khel}
+
+1 [Wanel khalqar az telnet elu hodir qel qedmal elu gethar mar temthar]{lang=khel}
+2 [Road-end sky resembles unfired potter's clay.]{lang=en}
+2 [Wanel khalqar az telnet elu hodir qel qedmal elu gethar mar temthar]{lang=khel}
+
+1 [Qalthaz lagathar elu thalu lagun Wanel lazret elu saru az qelwaz]{lang=khel}
+2 [The tender extends his rod. First light touches electrum.]{lang=en}
+2 [Qalthaz lagathar elu thalu lagun Wanel lazret elu saru az qelwaz]{lang=khel}
+
+1 [Wanel saru ezu gharen Wanel saru ezu hodir Khez tharel temun ezu qernet]{lang=khel}
+2 [Ground has yielded him to road. Its line stays clear.]{lang=en}
+2 [Wanel saru ezu gharen Wanel saru ezu hodir Khez tharel temun ezu qernet]{lang=khel}
+
+1 [Uqa'a]{lang=khel}
+2 [Uqa'a.]{lang=en}
+2 [Uqa'a]{lang=khel}
+
+1 [Thalu az gharen lazret]{lang=khel}
+2 [Fire upon earliest ground.]{lang=en}
+2 [Thalu az gharen lazret]{lang=khel}
+
+1 [Thalu zar yathar ezu kalun elu yathar gharen zamat]{lang=khel}
+2 [Fire above the mound when it comprised the world.]{lang=en}
+2 [Thalu zar yathar ezu kalun elu yathar gharen zamat]{lang=khel}
+
+1 [Lemunar elu galqat qezlet lemunar elu zethqur qezlet]{lang=khel}
+2 [Master of dried brick and ink.]{lang=en}
+2 [Lemunar elu galqat qezlet lemunar elu zethqur qezlet]{lang=khel}
+
+1 [Yarul saru nizar ezu hodir Yaler saru zar ezu qu]{lang=khel}
+2 [Down the road and up again.]{lang=en}
+2 [Yarul saru nizar ezu hodir Yaler saru zar ezu qu]{lang=khel}
+
+1 [Wanel qu ezu mazret Tharen lazen tan ta lazen tan ta eqar]{lang=khel}
+2 [Counted: another day, another, this one.]{lang=en}
+2 [Wanel qu ezu mazret Tharen lazen tan ta lazen tan ta eqar]{lang=khel}
+
+1 \[[Az raznannet telnethet walet shelunar thalalnet qel lazret Galun shelunar ez thalu Telnethet zamlet Wanel tharen ezu mazret]{lang=khel}\]
+2 \[[At the final naming hold the first naming's rest. Singers enter toward fire. Hymn ended; day counted.]{lang=en}\]
+2 \[[Az raznannet telnethet walet shelunar thalalnet qel lazret Galun shelunar ez thalu Telnethet zamlet Wanel tharen ezu mazret]{lang=khel}\]
 ```
 
 : The Graffito {#graffito}
 
-> Year 9 of Gar-Au Meqes II, the second month of [[lore-sheluessn|Shelu]]. [Qedut ez Gar-Legulu]{.name data-type="being/npc" lang=khel}, scribe of the tally for the granary of the god, came into this storeroom to take the brewer's tally and found this wall. It is in the sacred hand, which I have, and I read what is on it aloud from the beginning to the end. Where the door is cut through it I read on the far side of the door. The brewer's father cut the door; the brewer says so. I said the name of Khelansi, Overseer of the Granaries of the God, so that it is said. Nobody in this house knew it. I asked them. The brewer took two qelu for the lamp. I have written my name under Khelansi's, and my town. Qedut ez Gar-Legulu. Gar-Legulu.
+```verse {form=prose numstep=5 cols=2}
+1 [Qazlun qanu elu Gar-Au Meqes khulret, menqet khulret elu Shelu. Yalen Qedut ez Gar-Legulu, zethuar elu mazret elu habtun elu nelgir, ezu habtun eqar ez lamath mazret elu temalar elu qalnaz. Heurath nazu galzat eqar. Wanel qu ezu Khelathi-zethu. Qamar nazu thalmu eqar. Zethul nazu qu khazul nyar lazret ez telnethet. Az garun elu galmun zethul nazu ezu tarmil leqar elu qu. Qelzat qathun elu temalar elu qalnaz galmun. Razel temalar eqar. Razel nazu rethan elu Khelansi Lagathar elu Habtun elu Nelgir ez qarun elu thalalnet elu rethan. Khez rethal genar ezu garqen eqar qu. Razal nazu naru. Lamath temalar qelu khul qaral qelnet. Zethal nazu rethan elu nazu ta galnat nuqar elu Khelansi. Qedut ez Gar-Legulu. Gar-Legulu.]{.nativefont lang=khel}
+2 [Year nine of Gar-Au Meqes II, Harvest's second month. Qedut ez Gar-Legulu, granary tally scribe, entered this store to collect the brewer's tally and discovered this wall. Its sacred hand is one I know. I read it aloud completely, continuing across the cut doorway. The brewer identifies his father as its cutter. I spoke Khelansi's name, Overseer of the God's Granaries, so the name remains spoken. Nobody here knew it; I asked. The brewer charged two qelu for lamplight. Beneath Khelansi I enter my name and town. Qedut ez Gar-Legulu. Gar-Legulu.]{lang=en}
+2 [Qazlun qanu elu Gar-Au Meqes khulret, menqet khulret elu Shelu. Yalen Qedut ez Gar-Legulu, zethuar elu mazret elu habtun elu nelgir, ezu habtun eqar ez lamath mazret elu temalar elu qalnaz. Heurath nazu galzat eqar. Wanel qu ezu Khelathi-zethu. Qamar nazu thalmu eqar. Zethul nazu qu khazul nyar lazret ez telnethet. Az garun elu galmun zethul nazu ezu tarmil leqar elu qu. Qelzat qathun elu temalar elu qalnaz galmun. Razel temalar eqar. Razel nazu rethan elu Khelansi Lagathar elu Habtun elu Nelgir ez qarun elu thalalnet elu rethan. Khez rethal genar ezu garqen eqar qu. Razal nazu naru. Lamath temalar qelu khul qaral qelnet. Zethal nazu rethan elu nazu ta galnat nuqar elu Khelansi. Qedut ez Gar-Legulu. Gar-Legulu.]{lang=khel}
+```
 
 ## See Also
 

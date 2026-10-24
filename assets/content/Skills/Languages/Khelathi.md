@@ -237,10 +237,14 @@ data:
     - name: "Everyday speech"
       holds: "Words and whole expressions for ordinary life, with their spoken uses."
   affixes:
-    - {form: "-Zalu", gloss: "south", native: [{map: zethu, text: "𞭝"}]}
-    - {form: "-Miglet", gloss: "north", native: [{map: zethu, text: "𞰭"}]}
-    - {form: "-Ithnet", gloss: "west", native: [{map: zethu, text: "𞭕"}]}
-    - {form: "-Iaqtet", gloss: "east", native: [{map: zethu, text: "𞬳"}]}
+    - {form: -Zalu, gloss: south, native: [{map: zethu, text: 𞭝}]}
+    - {form: -Miglet, gloss: north, native: [{map: zethu, text: 𞰭}]}
+    - {form: -Ithnet, gloss: west, native: [{map: zethu, text: 𞭕}]}
+    - {form: -Iaqtet, gloss: east, native: [{map: zethu, text: 𞬳}]}
+    - form: -ar
+      gloss: one who does or handles the named thing
+      attaches: added to a word to name its agent
+    - {form: -u, gloss: "plural in nelgiru, gods", attaches: the cited plural of nelgir}
   grammar: {native: [{ending: plural, map: zethu, text: "𞯡"}]}
   elements:
     - {form: anlagh, variants: [anlaghu], sense: life}
@@ -262,803 +266,775 @@ data:
     - {form: qelt, sense: foremost}
     - {form: zu, sense: land}
   words:
-    - form: "ez"
-      class: "part"
-      field: "Particles"
-      gloss: "of, toward—the linking particle, and the one a commoner's byname hangs on"
-      native: [{map: zethu, text: "𞭗"}]
-      concept: ["toward", "to"]
-    - form: "elu"
-      class: "part"
-      field: "Particles"
-      gloss: "of, upon"
-      native: [{map: zethu, text: "𞭗"}]
-      concept: "on"
-    - form: "ezu"
-      class: "part"
-      field: "Particles"
-      gloss: "in"
-      native: [{map: zethu, text: "𞭗"}]
-      concept: "in"
-    - form: "agu"
-      class: "part"
-      field: "Particles"
-      gloss: "shall—marking what is undertaken rather than what is done"
-      native: [{map: zethu, text: "𞯜𞮒"}]
-    - form: "Gar-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "house of, temple of"
-      native: [{map: zethu, text: "𞭤"}]
-    - form: "Zu-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "land of"
-      native: [{map: zethu, text: "𞭗"}]
-    - form: "Lut-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "estate of"
-      native: [{map: zethu, text: "𞭘"}]
-    - form: "Yath-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "mound of"
-      native: [{map: zethu, text: "𞭒"}]
-    - form: "Zel-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "place of"
-      native: [{map: zethu, text: "𞭙"}]
-    - form: "Magu-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "garden of"
-      native: [{map: zethu, text: "𞭐"}]
-    - form: "Khuqet-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "desert land of"
-      native: [{map: zethu, text: "𞭔"}]
-    - form: "Selat-"
-      class: "stem"
-      field: "Place elements"
-      gloss: "the province"
-      native: [{map: zethu, text: "𞭚"}]
-    - form: "Au"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "of the throne and the realm, and reserved to it"
-      native: [{map: zethu, text: "𞭥"}]
-    - form: "Thaz"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "of rank and extent—the ordinary word for great, and so the unpaused one"
-      native: [{map: zethu, text: "𞰇"}]
-    - form: "Lem'"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "servant of"
-      native: [{map: zethu, text: "𞩁"}]
-    - form: "Nelgir"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "god"
-      native: [{map: zethu, text: "𞪑"}]
-    - form: "Lekhau"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "sacred power"
-      native: [{map: zethu, text: "𞪓"}]
-    - form: "Halzi"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "heart, and the account a heart answers for"
-      native: [{map: zethu, text: "𞪻"}]
-    - form: "Wazu"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "pure"
-      native: [{map: zethu, text: "𞩅"}]
-    - form: "Genzet"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "council"
-      native: [{map: zethu, text: "𞭬"}]
-    - form: "Selat"
-      class: "stem"
-      field: "Rank morphemes"
-      gloss: "province"
-      native: [{map: zethu, text: "𞭚"}]
-    - {form: "Iru'palu", class: "stem", field: "Rank morphemes", gloss: "the hereditary standing"}
-    - form: "Zelar"
-      class: "n"
-      field: "Rank morphemes"
-      gloss: "a commoner, the free rank of no house"
-      native: [{map: zethu, text: "𞰈"}]
-    - form: "Zabu"
-      class: "n"
-      field: "Rank morphemes"
-      gloss: "a noble, the rank of one born or married into a titled house"
-      native: [{map: zethu, text: "𞩌"}]
-    - form: "zuqat"
-      class: "n"
-      field: "Occupations"
-      gloss: "tiller"
-      native: [{map: zethu, text: "𞩓"}]
-    - form: "meglu"
-      class: "n"
-      field: "Occupations"
-      gloss: "herder"
-      native: [{map: zethu, text: "𞩘"}]
-    - form: "igelar"
-      class: "n"
-      field: "Occupations"
-      gloss: "boatman"
-      native: [{map: zethu, text: "𞩛"}]
-    - form: "shebar"
-      class: "n"
-      field: "Occupations"
-      gloss: "reed-cutter"
-      native: [{map: zethu, text: "𞩠"}]
-    - form: "qedlu"
-      class: "n"
-      field: "Occupations"
-      gloss: "quarryman"
-      native: [{map: zethu, text: "𞩡"}]
-    - form: "gethar"
-      class: "n"
-      field: "Occupations"
-      gloss: "potter"
-      native: [{map: zethu, text: "𞩙"}]
-    - {form: "legzar", class: "n", field: "Occupations", gloss: "brewer"}
-    - form: "walir"
-      class: "n"
-      field: "Occupations"
-      gloss: "weaver"
-      native: [{map: zethu, text: "𞪃"}]
-    - form: "lemzu"
-      class: "n"
-      field: "Occupations"
-      gloss: "bondsman"
-      native: [{map: zethu, text: "𞰉"}]
-    - form: "githar"
-      class: "n"
-      field: "Occupations"
-      gloss: "the loom, and the weavers' work-word"
-      native: [{map: zethu, text: "𞯚"}]
-    - form: "legharu"
-      class: "n"
-      field: "Occupations"
-      gloss: "the herb, and the apothecaries' work-word"
-      native: [{map: zethu, text: "𞬬"}]
-    - form: "lemu"
-      class: "n"
-      field: "Occupations"
-      gloss: "service, and the servants' work-word"
-      native: [{map: zethu, text: "𞩁"}]
-    - form: "melnu"
-      class: "n"
-      field: "Occupations"
-      gloss: "the forge, and the metalworkers' work-word"
-      native: [{map: zethu, text: "𞮮"}]
-    - form: "qelzu"
-      class: "n"
-      field: "Occupations"
-      gloss: "the lock, and the locksmiths' work-word"
+    - form: ez
+      class: part
+      field: Particles
+      gloss: of, toward—the linking particle, and the one a commoner's byname hangs on
+      native: [{map: zethu, text: 𞭗}]
+      concept: [toward, to]
+    - form: elu
+      class: part
+      field: Particles
+      gloss: of, upon
+      native: [{map: zethu, text: 𞭗}]
+      concept: on
+    - form: ezu
+      class: part
+      field: Particles
+      gloss: in
+      native: [{map: zethu, text: 𞭗}]
+      concept: in
+    - form: agu
+      class: part
+      field: Particles
+      gloss: shall—marking what is undertaken rather than what is done
+      native: [{map: zethu, text: 𞯜𞮒}]
+    - form: Gar-
+      class: stem
+      field: Place elements
+      gloss: house of, temple of
+      native: [{map: zethu, text: 𞭤}]
+    - form: Zu-
+      class: stem
+      field: Place elements
+      gloss: land of
+      native: [{map: zethu, text: 𞭗}]
+    - form: Lut-
+      class: stem
+      field: Place elements
+      gloss: estate of
+      native: [{map: zethu, text: 𞭘}]
+    - form: Yath-
+      class: stem
+      field: Place elements
+      gloss: mound of
+      native: [{map: zethu, text: 𞭒}]
+    - form: Zel-
+      class: stem
+      field: Place elements
+      gloss: place of
+      native: [{map: zethu, text: 𞭙}]
+    - form: Magu-
+      class: stem
+      field: Place elements
+      gloss: garden of
+      native: [{map: zethu, text: 𞭐}]
+    - form: Khuqet-
+      class: stem
+      field: Place elements
+      gloss: desert land of
+      native: [{map: zethu, text: 𞭔}]
+    - form: Selat-
+      class: stem
+      field: Place elements
+      gloss: the province
+      native: [{map: zethu, text: 𞭚}]
+    - form: Au
+      class: stem
+      field: Rank morphemes
+      gloss: of the throne and the realm, and reserved to it
+      native: [{map: zethu, text: 𞭥}]
+    - form: Thaz
+      class: stem
+      field: Rank morphemes
+      gloss: of rank and extent—the ordinary word for great, and so the unpaused one
+      native: [{map: zethu, text: 𞰇}]
+    - form: Lem'
+      class: stem
+      field: Rank morphemes
+      gloss: servant of
+      native: [{map: zethu, text: 𞩁}]
+    - form: Nelgir
+      class: stem
+      field: Rank morphemes
+      gloss: god
+      native: [{map: zethu, text: 𞪑}]
+    - form: Lekhau
+      class: stem
+      field: Rank morphemes
+      gloss: sacred power
+      native: [{map: zethu, text: 𞪓}]
+    - form: Halzi
+      class: stem
+      field: Rank morphemes
+      gloss: heart, and the account a heart answers for
+      native: [{map: zethu, text: 𞪻}]
+    - form: Wazu
+      class: stem
+      field: Rank morphemes
+      gloss: pure
+      native: [{map: zethu, text: 𞩅}]
+    - form: Genzet
+      class: stem
+      field: Rank morphemes
+      gloss: council
+      native: [{map: zethu, text: 𞭬}]
+    - form: Selat
+      class: stem
+      field: Rank morphemes
+      gloss: province
+      native: [{map: zethu, text: 𞭚}]
+    - {form: Iru'palu, class: stem, field: Rank morphemes, gloss: the hereditary standing}
+    - form: Zelar
+      class: n
+      field: Rank morphemes
+      gloss: a commoner, the free rank of no house
+      native: [{map: zethu, text: 𞰈}]
+    - form: Zabu
+      class: n
+      field: Rank morphemes
+      gloss: a noble, the rank of one born or married into a titled house
+      native: [{map: zethu, text: 𞩌}]
+    - {form: zuqat, class: n, field: Occupations, gloss: tiller, native: [{map: zethu, text: 𞩓}]}
+    - {form: meglu, class: n, field: Occupations, gloss: herder, native: [{map: zethu, text: 𞩘}]}
+    - {form: igelar, class: n, field: Occupations, gloss: boatman, native: [{map: zethu, text: 𞩛}]}
+    - form: shebar
+      class: n
+      field: Occupations
+      gloss: reed-cutter
+      native: [{map: zethu, text: 𞩠}]
+    - form: qedlu
+      class: n
+      field: Occupations
+      gloss: quarryman
+      native: [{map: zethu, text: 𞩡}]
+    - {form: gethar, class: n, field: Occupations, gloss: potter, native: [{map: zethu, text: 𞩙}]}
+    - {form: legzar, class: n, field: Occupations, gloss: brewer}
+    - {form: walir, class: n, field: Occupations, gloss: weaver, native: [{map: zethu, text: 𞪃}]}
+    - {form: lemzu, class: n, field: Occupations, gloss: bondsman, native: [{map: zethu, text: 𞰉}]}
+    - form: githar
+      class: n
+      field: Occupations
+      gloss: the loom, and the weavers' work-word
+      native: [{map: zethu, text: 𞯚}]
+    - form: legharu
+      class: n
+      field: Occupations
+      gloss: the herb, and the apothecaries' work-word
+      native: [{map: zethu, text: 𞬬}]
+    - form: lemu
+      class: n
+      field: Occupations
+      gloss: service, and the servants' work-word
+      native: [{map: zethu, text: 𞩁}]
+    - form: melnu
+      class: n
+      field: Occupations
+      gloss: the forge, and the metalworkers' work-word
+      native: [{map: zethu, text: 𞮮}]
+    - form: qelzu
+      class: n
+      field: Occupations
+      gloss: the lock, and the locksmiths' work-word
       concept: lock
-      native: [{map: zethu, text: "𞭪"}]
-    - form: "qethar"
-      class: "n"
-      field: "Occupations"
-      gloss: "the old way, and the traditionalists' work-word"
-      native: [{map: zethu, text: "𞰊"}]
-      concept: "tradition"
-    - form: "rethu"
-      class: "n"
-      field: "Occupations"
-      gloss: "lore, and the scholars' work-word"
-      native: [{map: zethu, text: "𞰅𞯆"}]
-    - form: "shelun"
-      class: "n"
-      field: "Occupations"
-      gloss: "performance, and the players' work-word"
-      native: [{map: zethu, text: "𞰋"}]
-    - form: "zamlu"
-      class: "n"
-      field: "Occupations"
-      gloss: "music, and the minstrels' work-word"
-      native: [{map: zethu, text: "𞩩"}]
-    - form: "zegaru"
-      class: "n"
-      field: "Occupations"
-      gloss: "the field, and the farmers' work-word"
-      native: [{map: zethu, text: "𞭏"}]
-      concept: "field"
-    - form: "zeghet"
-      class: "n"
-      field: "Occupations"
-      gloss: "the hunt; Zeghet' opens the name of a company that goes out"
-      native: [{map: zethu, text: "𞩗"}]
-    - form: "zemnu"
-      class: "n"
-      field: "Occupations"
-      gloss: "craft, and the artisans' work-word"
-      native: [{map: zethu, text: "𞰌"}]
-    - form: "zuwaret"
-      class: "n"
-      field: "Occupations"
-      gloss: "trade, and the merchants' work-word"
-      native: [{map: zethu, text: "𞮊"}]
-    - form: "qatlun"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a hidden channel, the tunnel-well"
-    - form: "degan"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a tax, the impost on goods crossing a line"
-      native: [{map: zethu, text: "𞮭"}]
-    - form: "qathur"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a seal, and the warrant it closes"
-      native: [{map: zethu, text: "𞮪"}]
-    - form: "telqas"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a quay"
-      native: [{map: zethu, text: "𞭹"}]
-    - form: "habtun"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a storehouse"
-      native: [{map: zethu, text: "𞭧"}]
-    - form: "halzat"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "the weighing, built on halzi"
-      native: [{map: zethu, text: "𞮫"}]
-    - form: "qinlat"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "sweet oil, unguent"
-      native: [{map: zethu, text: "𞮿"}]
-    - form: "duras"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "washing-salt"
-      native: [{map: zethu, text: "𞮱"}]
-    - form: "gezan"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "the temple-attested weight-piece of copper, silver or gold; ten qelu"
-      native: [{map: zethu, text: "𞯞"}]
-    - form: "qelu"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a tenth of a gezan, the smaller weight-piece"
-      native: [{map: zethu, text: "𞮙"}]
-    - form: "mazgar"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "a measure of grain"
-      native: [{map: zethu, text: "𞮜"}]
-    - form: "mazgaru"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "bulk, volume; the work-word of merchants who deal by volume"
-      native: [{map: zethu, text: "𞮜𞯃"}]
-    - form: "lagun"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "timber"
-      native: [{map: zethu, text: "𞮯"}]
-    - form: "qenuwa"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "gold"
-      native: [{map: zethu, text: "𞮰"}]
-    - form: "qezelet"
-      class: "n"
-      field: "Counting-house and water-works"
-      gloss: "the formal, temple form of qelu, written on attestations"
-      native: [{map: zethu, text: "𞮙𞭻"}]
-    - form: "zamlet"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "a hymn, a song sung before a god"
+      native: [{map: zethu, text: 𞭪}]
+    - form: qethar
+      class: n
+      field: Occupations
+      gloss: the old way, and the traditionalists' work-word
+      native: [{map: zethu, text: 𞰊}]
+      concept: tradition
+    - form: rethu
+      class: n
+      field: Occupations
+      gloss: lore, and the scholars' work-word
+      native: [{map: zethu, text: 𞰅𞯆}]
+    - form: shelun
+      class: n
+      field: Occupations
+      gloss: performance, and the players' work-word
+      native: [{map: zethu, text: 𞰋}]
+    - form: zamlu
+      class: n
+      field: Occupations
+      gloss: music, and the minstrels' work-word
+      native: [{map: zethu, text: 𞩩}]
+    - form: zegaru
+      class: n
+      field: Occupations
+      gloss: the field, and the farmers' work-word
+      native: [{map: zethu, text: 𞭏}]
+      concept: field
+    - form: zeghet
+      class: n
+      field: Occupations
+      gloss: the hunt; Zeghet' opens the name of a company that goes out
+      native: [{map: zethu, text: 𞩗}]
+    - form: zemnu
+      class: n
+      field: Occupations
+      gloss: craft, and the artisans' work-word
+      native: [{map: zethu, text: 𞰌}]
+    - form: zuwaret
+      class: n
+      field: Occupations
+      gloss: trade, and the merchants' work-word
+      native: [{map: zethu, text: 𞮊}]
+    - form: qatlun
+      class: n
+      field: Counting-house and water-works
+      gloss: a hidden channel, the tunnel-well
+    - form: degan
+      class: n
+      field: Counting-house and water-works
+      gloss: a tax, the impost on goods crossing a line
+      native: [{map: zethu, text: 𞮭}]
+    - form: qathur
+      class: n
+      field: Counting-house and water-works
+      gloss: a seal, and the warrant it closes
+      native: [{map: zethu, text: 𞮪}]
+    - form: telqas
+      class: n
+      field: Counting-house and water-works
+      gloss: a quay
+      native: [{map: zethu, text: 𞭹}]
+    - form: habtun
+      class: n
+      field: Counting-house and water-works
+      gloss: a storehouse
+      native: [{map: zethu, text: 𞭧}]
+    - form: halzat
+      class: n
+      field: Counting-house and water-works
+      gloss: the weighing, built on halzi
+      native: [{map: zethu, text: 𞮫}]
+    - form: qinlat
+      class: n
+      field: Counting-house and water-works
+      gloss: sweet oil, unguent
+      native: [{map: zethu, text: 𞮿}]
+    - form: duras
+      class: n
+      field: Counting-house and water-works
+      gloss: washing-salt
+      native: [{map: zethu, text: 𞮱}]
+    - form: gezan
+      class: n
+      field: Counting-house and water-works
+      gloss: the temple-attested weight-piece of copper, silver or gold; ten qelu
+      native: [{map: zethu, text: 𞯞}]
+    - form: qelu
+      class: n
+      field: Counting-house and water-works
+      gloss: a tenth of a gezan, the smaller weight-piece
+      native: [{map: zethu, text: 𞮙}]
+    - form: mazgar
+      class: n
+      field: Counting-house and water-works
+      gloss: a measure of grain
+      native: [{map: zethu, text: 𞮜}]
+    - form: mazgaru
+      class: n
+      field: Counting-house and water-works
+      gloss: bulk, volume; the work-word of merchants who deal by volume
+      native: [{map: zethu, text: 𞮜𞯃}]
+    - form: lagun
+      class: n
+      field: Counting-house and water-works
+      gloss: timber
+      native: [{map: zethu, text: 𞮯}]
+    - form: qenuwa
+      class: n
+      field: Counting-house and water-works
+      gloss: gold
+      native: [{map: zethu, text: 𞮰}]
+    - form: qezelet
+      class: n
+      field: Counting-house and water-works
+      gloss: the formal, temple form of qelu, written on attestations
+      native: [{map: zethu, text: 𞮙𞭻}]
+    - form: zamlet
+      class: n
+      field: The written and the recited
+      gloss: a hymn, a song sung before a god
       note: built on zamlu, music
-      native: [{map: zethu, text: "𞯸"}]
-    - form: "lekhunet"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "a spell, a working spoken aloud over the dead or the living"
+      native: [{map: zethu, text: 𞯸}]
+    - form: lekhunet
+      class: n
+      field: The written and the recited
+      gloss: a spell, a working spoken aloud over the dead or the living
       note: built on lekhau, as Halzunet is built on halzi
-      native: [{map: zethu, text: "𞯹"}]
-    - form: "rethet"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "an instruction, the teaching a father or a master hands down"
+      native: [{map: zethu, text: 𞯹}]
+    - form: rethet
+      class: n
+      field: The written and the recited
+      gloss: an instruction, the teaching a father or a master hands down
       note: built on reth, the name, and rethu, lore
-      native: [{map: zethu, text: "𞯆"}]
-    - form: "qethunet"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "a tale, a telling in prose of how a thing was"
+      native: [{map: zethu, text: 𞯆}]
+    - form: qethunet
+      class: n
+      field: The written and the recited
+      gloss: a tale, a telling in prose of how a thing was
       note: built on qethar, the old way, as Halzunet on halzi
-      native: [{map: zethu, text: "𞰊𞪯"}]
-    - form: "tazlet"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "a lament, the keening raised over the dead before the burial"
+      native: [{map: zethu, text: 𞰊𞪯}]
+    - form: tazlet
+      class: n
+      field: The written and the recited
+      gloss: a lament, the keening raised over the dead before the burial
       note: built on a root of its own, t-z-l, to bow down and keen
-      native: [{map: zethu, text: "𞯻"}]
-    - form: "genzat"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "a suit at law, and a tale of one, gods' or men's"
+      native: [{map: zethu, text: 𞯻}]
+    - form: genzat
+      class: n
+      field: The written and the recited
+      gloss: a suit at law, and a tale of one, gods' or men's
       note: built on genzet, the court, as halzat on halzi
-      native: [{map: zethu, text: "𞯼"}]
-    - form: "qedlet"
-      class: "n"
-      field: "The written and the recited"
-      gloss: "an inscription, a text cut in stone"
+      native: [{map: zethu, text: 𞯼}]
+    - form: qedlet
+      class: n
+      field: The written and the recited
+      gloss: an inscription, a text cut in stone
       note: built on the root of qedlu, the quarryman
-      native: [{map: zethu, text: "𞯽"}]
+      native: [{map: zethu, text: 𞯽}]
     - form: Uqa'a
       class: name
       field: The Twelve
       gloss: fire
       variants: [Uqa]
-      native: [{map: zethu, text: "𞬲"}]
+      native: [{map: zethu, text: 𞬲}]
     - form: Qe'aret
       class: name
       field: The Twelve
       gloss: order
       variants: [Qar]
-      native: [{map: zethu, text: "𞪖"}]
+      native: [{map: zethu, text: 𞪖}]
     - form: Reth'Sa'ar
       class: name
       field: The Twelve
       gloss: knowledge
       variants: [Retha]
-      native: [{map: zethu, text: "𞪗"}]
+      native: [{map: zethu, text: 𞪗}]
     - form: Saq'aru
       class: name
       field: The Twelve
       gloss: creation
       variants: [Psaqa]
-      native: [{map: zethu, text: "𞪘"}]
+      native: [{map: zethu, text: 𞪘}]
     - form: Uzn'era
       class: name
       field: The Twelve
       gloss: fertility and healing
       variants: [Uzner]
-      native: [{map: zethu, text: "𞪙"}]
+      native: [{map: zethu, text: 𞪙}]
     - form: Weth'ur
       class: name
       field: The Twelve
       gloss: death
-      native: [{map: zethu, text: "𞰛"}]
+      native: [{map: zethu, text: 𞰛}]
     - form: Thuba'i
       class: name
       field: The Twelve
       gloss: prosperity
-      native: [{map: zethu, text: "𞪚"}]
+      native: [{map: zethu, text: 𞪚}]
     - form: Chaq'ur
       class: name
       field: The Twelve
       gloss: storms
-      native: [{map: zethu, text: "𞪛"}]
+      native: [{map: zethu, text: 𞪛}]
     - form: Nehle'at
       class: name
       field: The Twelve
       gloss: dreams
-      native: [{map: zethu, text: "𞪜"}]
+      native: [{map: zethu, text: 𞪜}]
     - form: Hezmu'iri
       class: name
       field: The Twelve
       gloss: decay
-      native: [{map: zethu, text: "𞪝"}]
+      native: [{map: zethu, text: 𞪝}]
     - form: Gewa'atis
       class: name
       field: The Twelve
       gloss: voyages
-      native: [{map: zethu, text: "𞪞"}]
+      native: [{map: zethu, text: 𞪞}]
     - form: Azu'athis
       class: name
       field: The Twelve
       gloss: chaos
-      native: [{map: zethu, text: "𞪟"}]
-    - {form: Qeztu, class: name, field: Local gods, gloss: war, native: [{map: zethu, text: "𞪠"}]}
+      native: [{map: zethu, text: 𞪟}]
+    - {form: Qeztu, class: name, field: Local gods, gloss: war, native: [{map: zethu, text: 𞪠}]}
     - form: Chelsur
       class: name
       field: Local gods
       gloss: river-beasts
-      native: [{map: zethu, text: "𞬉"}]
+      native: [{map: zethu, text: 𞬉}]
     - form: Shebazet
       class: name
       field: Local gods
       gloss: the marsh
-      native: [{map: zethu, text: "𞬑"}]
+      native: [{map: zethu, text: 𞬑}]
     - form: Pelgun
       class: name
       field: Local gods
       gloss: desert roads
-      native: [{map: zethu, text: "𞪡"}]
+      native: [{map: zethu, text: 𞪡}]
     - form: Linhur
       class: name
       field: Local gods
-      gloss: "the hunt, the hunter"
-      native: [{map: zethu, text: "𞪢"}]
+      gloss: the hunt, the hunter
+      native: [{map: zethu, text: 𞪢}]
     - form: Linkur
       class: name
       field: Local gods
-      gloss: "the hunt, the killing"
-      native: [{map: zethu, text: "𞪣"}]
+      gloss: the hunt, the killing
+      native: [{map: zethu, text: 𞪣}]
     - form: Igelnaru
       class: name
       field: Local gods
       built: [igelu]
       gloss: the river
-      native: [{map: zethu, text: "𞪤"}]
+      native: [{map: zethu, text: 𞪤}]
     - form: lekhau
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: sacred power
-      native: [{map: zethu, text: "𞪓"}]
+      native: [{map: zethu, text: 𞪓}]
     - form: zethu
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: [writing, a scribe]
-      native: [{map: zethu, text: "𞩨"}]
+      native: [{map: zethu, text: 𞩨}]
     - form: nelgir
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: god
-      native: [{map: zethu, text: "𞪑"}]
+      native: [{map: zethu, text: 𞪑}]
     - form: halzi
       class: n
-      field: "Temple, arcane and cosmology"
-      gloss: "heart, account"
+      field: Temple, arcane and cosmology
+      gloss: heart, account
       concept: heart
-      native: [{map: zethu, text: "𞪻"}]
+      native: [{map: zethu, text: 𞪻}]
     - form: igelu
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the river
-      native: [{map: zethu, text: "𞭈"}]
-      concept: "river"
+      native: [{map: zethu, text: 𞭈}]
+      concept: river
     - form: Zulaten
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the realm of the dead
-      native: [{map: zethu, text: "𞭕"}]
+      native: [{map: zethu, text: 𞭕}]
     - form: Gethunu
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the arcane order
-      native: [{map: zethu, text: "𞰍"}]
+      native: [{map: zethu, text: 𞰍}]
     - form: Algit
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the Devourer of the Dead
-      native: [{map: zethu, text: "𞪥"}]
+      native: [{map: zethu, text: 𞪥}]
     - form: Qet Telgu
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the first occasion
-      native: [{map: zethu, text: "𞭆"}]
+      native: [{map: zethu, text: 𞭆}]
     - form: selqur
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: a year of the count from the Qet Telgu
-      native: [{map: zethu, text: "𞭃"}]
-      concept: "year"
+      native: [{map: zethu, text: 𞭃}]
+      concept: year
     - form: Halzunet
       class: name
-      field: "Temple, arcane and cosmology"
-      gloss: "the noon denials, the heart's account declared aloud"
-      native: [{map: zethu, text: "𞬵"}]
+      field: Temple, arcane and cosmology
+      gloss: the noon denials, the heart's account declared aloud
+      native: [{map: zethu, text: 𞬵}]
     - form: zaglu
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: a figure that answers for its owner
-      native: [{map: zethu, text: "𞯉"}]
+      native: [{map: zethu, text: 𞯉}]
     - form: Azlet
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the season of flood
-      native: [{map: zethu, text: "𞭀"}]
+      native: [{map: zethu, text: 𞭀}]
     - form: Gelet
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the season of growing
-      native: [{map: zethu, text: "𞭁"}]
+      native: [{map: zethu, text: 𞭁}]
     - form: Shelu
       class: name
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       gloss: the harvest, the season of low water
-      native: [{map: zethu, text: "𞭂"}]
+      native: [{map: zethu, text: 𞭂}]
     - form: qezat
       class: n
-      field: "Temple, arcane and cosmology"
-      gloss: "a battle, built on `Qeztu` as `halzat` on `halzi`"
-      native: [{map: zethu, text: "𞯿"}]
+      field: Temple, arcane and cosmology
+      gloss: a battle, built on `Qeztu` as `halzat` on `halzi`
+      native: [{map: zethu, text: 𞯿}]
     - form: zelqezat
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       built: [Zel-, qezat]
-      gloss: "a blood-field, the place of a battle left unread"
-      native: [{map: zethu, text: "𞰀"}]
+      gloss: a blood-field, the place of a battle left unread
+      native: [{map: zethu, text: 𞰀}]
     - form: zelalgit
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       built: [Zel-, Algit]
-      gloss: "a thin blood-field, the Devourer's place, on `Algit`"
+      gloss: a thin blood-field, the Devourer's place, on `Algit`
     - form: thelqen
       class: n
-      field: "Temple, arcane and cosmology"
-      gloss: "the disk, the sun's visible body"
-      native: [{map: zethu, text: "𞬲"}]
-      concept: "sun"
+      field: Temple, arcane and cosmology
+      gloss: the disk, the sun's visible body
+      native: [{map: zethu, text: 𞬲}]
+      concept: sun
     - form: qamzet
       class: adj
-      field: "Temple, arcane and cosmology"
-      gloss: "hidden, withdrawn from sight"
+      field: Temple, arcane and cosmology
+      gloss: hidden, withdrawn from sight
     - form: gazlet
       class: n
-      field: "Temple, arcane and cosmology"
-      gloss: "a sanctuary, the inner room of a temple"
-      native: [{map: zethu, text: "𞭭"}]
-    - form: "dumatu"
-      class: "n"
-      field: "Temple, arcane and cosmology"
-      gloss: "the driven one, the mindless undead; abroad, damut"
-      native: [{map: zethu, text: "𞯛"}]
-    - form: "qelt"
-      class: "n"
-      field: "Temple, arcane and cosmology"
-      gloss: "the soul-component that is embalmed"
-      native: [{map: zethu, text: "𞪾"}]
-    - form: "terebu"
-      class: "n"
-      field: "Temple, arcane and cosmology"
-      gloss: "the cloaked one, the sentient undead; abroad, tereb"
-      native: [{map: zethu, text: "𞯎"}]
+      field: Temple, arcane and cosmology
+      gloss: a sanctuary, the inner room of a temple
+      native: [{map: zethu, text: 𞭭}]
+    - form: dumatu
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: the driven one, the mindless undead; abroad, damut
+      native: [{map: zethu, text: 𞯛}]
+    - form: qelt
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: the soul-component that is embalmed
+      native: [{map: zethu, text: 𞪾}]
+    - form: terebu
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: the cloaked one, the sentient undead; abroad, tereb
+      native: [{map: zethu, text: 𞯎}]
     - form: Au'Khelathu
       class: name
-      field: "The realm, its people and its hands"
+      field: The realm, its people and its hands
       built: [Au, Khelathu]
-      gloss: "the empire, formally"
+      gloss: the empire, formally
     - form: Khelathu
       class: name
-      field: "The realm, its people and its hands"
+      field: The realm, its people and its hands
       gloss: the land
-      native: [{map: zethu, text: "𞭣"}]
+      native: [{map: zethu, text: 𞭣}]
     - form: Khelathi
       class: name
-      field: "The realm, its people and its hands"
-      gloss: "its people, and its tongue"
-      native: [{map: zethu, text: "𞰑"}]
+      field: The realm, its people and its hands
+      gloss: its people, and its tongue
+      native: [{map: zethu, text: 𞰑}]
     - form: Khelathi-zethu
       class: name
-      field: "The realm, its people and its hands"
+      field: The realm, its people and its hands
       built: [Khelathi, zethu]
       gloss: the sacred hand
     - form: Qalezu
       class: name
-      field: "The realm, its people and its hands"
+      field: The realm, its people and its hands
       gloss: the everyday alphabet
-      native: [{map: zethu, text: "𞰏"}]
-    - form: "Lin'"
-      class: "stem"
-      field: "Head-words"
-      gloss: "The opening of a guild's name"
-      native: [{map: zethu, text: "𞩭"}]
+      native: [{map: zethu, text: 𞰏}]
+    - form: Lin'
+      class: stem
+      field: Head-words
+      gloss: The opening of a guild's name
+      native: [{map: zethu, text: 𞩭}]
     - form: lazen
       class: num
-      field: "Numbers"
-      gloss: "one"
+      field: Numbers
+      gloss: one
       concept: one
-      native: [{map: zethu, text: "𞯟"}]
+      native: [{map: zethu, text: 𞯟}]
     - form: khul
       class: num
-      field: "Numbers"
-      gloss: "two"
+      field: Numbers
+      gloss: two
       concept: two
-      native: [{map: zethu, text: "𞯠"}]
+      native: [{map: zethu, text: 𞯠}]
     - form: khemu
       class: num
-      field: "Numbers"
-      gloss: "three"
+      field: Numbers
+      gloss: three
       concept: three
-      native: [{map: zethu, text: "𞯠𞯟"}]
+      native: [{map: zethu, text: 𞯠𞯟}]
     - form: tuzar
       class: num
-      field: "Numbers"
-      gloss: "four"
+      field: Numbers
+      gloss: four
       concept: four
-      native: [{map: zethu, text: "𞰕"}]
+      native: [{map: zethu, text: 𞰕}]
     - form: chalen
       class: num
-      field: "Numbers"
-      gloss: "five"
+      field: Numbers
+      gloss: five
       concept: five
-      native: [{map: zethu, text: "𞰖"}]
+      native: [{map: zethu, text: 𞰖}]
     - form: chun
       class: num
-      field: "Numbers"
-      gloss: "six"
+      field: Numbers
+      gloss: six
       concept: six
-      native: [{map: zethu, text: "𞰗"}]
+      native: [{map: zethu, text: 𞰗}]
     - form: salet
       class: num
-      field: "Numbers"
-      gloss: "seven"
+      field: Numbers
+      gloss: seven
       concept: seven
-      native: [{map: zethu, text: "𞰃"}]
+      native: [{map: zethu, text: 𞰃}]
     - form: waqen
       class: num
-      field: "Numbers"
-      gloss: "eight"
+      field: Numbers
+      gloss: eight
       concept: eight
-      native: [{map: zethu, text: "𞰘"}]
+      native: [{map: zethu, text: 𞰘}]
     - form: qanu
       class: num
-      field: "Numbers"
-      gloss: "nine"
+      field: Numbers
+      gloss: nine
       concept: nine
-      native: [{map: zethu, text: "𞰙"}]
+      native: [{map: zethu, text: 𞰙}]
     - form: gerun
       class: num
-      field: "Numbers"
-      gloss: "ten"
+      field: Numbers
+      gloss: ten
       concept: ten
-      native: [{map: zethu, text: "𞯞"}]
+      native: [{map: zethu, text: 𞯞}]
     - form: khen
       class: num
-      field: "Numbers"
-      gloss: "a hundred"
+      field: Numbers
+      gloss: a hundred
       concept: hundred
-      native: [{map: zethu, text: "𞯢"}]
+      native: [{map: zethu, text: 𞯢}]
     - form: qalzun
       class: num
-      field: "Numbers"
-      gloss: "a thousand"
+      field: Numbers
+      gloss: a thousand
       concept: thousand
-      native: [{map: zethu, text: "𞯣"}]
+      native: [{map: zethu, text: 𞯣}]
     - form: mazel
       class: v
-      field: "Doing"
-      gloss: "measure; read off a gauge, a field or a river"
-      native: [{map: zethu, text: "𞩱"}]
-      concept: "measure-verb"
+      field: Doing
+      gloss: measure; read off a gauge, a field or a river
+      native: [{map: zethu, text: 𞩱}]
+      concept: measure-verb
     - form: ghamuz
       class: v
-      field: "Doing"
-      gloss: "proclaim, announce aloud"
-      native: [{map: zethu, text: "𞮔𞪯"}]
+      field: Doing
+      gloss: proclaim, announce aloud
+      native: [{map: zethu, text: 𞮔𞪯}]
     - form: lekhath
       class: v
-      field: "Doing"
-      gloss: "bless, confer sacred power"
-      native: [{map: zethu, text: "𞪧"}]
+      field: Doing
+      gloss: bless, confer sacred power
+      native: [{map: zethu, text: 𞪧}]
     - form: qezir
       class: v
-      field: "Doing"
-      gloss: "strike, spear"
-      native: [{map: zethu, text: "𞮤"}]
-      concept: "hit"
+      field: Doing
+      gloss: strike, spear
+      native: [{map: zethu, text: 𞮤}]
+      concept: hit
     - form: tegul
       class: v
-      field: "Doing"
-      gloss: "divide, share out"
-      native: [{map: zethu, text: "𞯵"}]
-      concept: "share"
+      field: Doing
+      gloss: divide, share out
+      native: [{map: zethu, text: 𞯵}]
+      concept: share
     - form: nelgen
       class: v
-      field: "Doing"
-      gloss: "offer, give to a god"
-      native: [{map: zethu, text: "𞮴"}]
-    - {form: qathez, class: v, field: "Doing", gloss: "seal", native: [{map: zethu, text: "𞮪"}]}
-    - "form": "muzan"
-      "class": "v"
-      "field": "Doing"
-      "gloss": "build"
-      "native": [{"map": "zethu", "text": "𞭼"}]
-      "concept": "build"
+      field: Doing
+      gloss: offer, give to a god
+      native: [{map: zethu, text: 𞮴}]
+    - {form: qathez, class: v, field: Doing, gloss: seal, native: [{map: zethu, text: 𞮪}]}
+    - form: muzan
+      class: v
+      field: Doing
+      gloss: build
+      native: [{map: zethu, text: 𞭼}]
+      concept: build
     - form: lagath
       class: v
-      field: "Doing"
-      gloss: "guard, keep"
-      native: [{map: zethu, text: "𞩸"}]
-      concept: "defend"
-    - {form: tazul, class: v, field: "Doing", gloss: "mourn", native: [{map: zethu, text: "𞪆"}]}
+      field: Doing
+      gloss: guard, keep
+      native: [{map: zethu, text: 𞩸}]
+      concept: defend
+    - {form: tazul, class: v, field: Doing, gloss: mourn, native: [{map: zethu, text: 𞪆}]}
     - form: nelgat
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       built: [nelgen]
-      gloss: "an offering"
+      gloss: an offering
     - form: nelgu
       class: n
-      field: "The realm, its people and its hands"
-      gloss: "a mighty one"
-      native: [{map: zethu, text: "𞮓𞮋𞮒𞩍"}]
+      field: The realm, its people and its hands
+      gloss: a mighty one
+      native: [{map: zethu, text: 𞮓𞮋𞮒𞩍}]
     - form: zagul
       class: n
-      field: "Counting-house and water-works"
-      gloss: "the crocodile, the beast as distinct from the god Chelsur"
-      native: [{map: zethu, text: "𞬊"}]
+      field: Counting-house and water-works
+      gloss: the crocodile, the beast as distinct from the god Chelsur
+      native: [{map: zethu, text: 𞬊}]
     - form: igelzut
       class: n
-      field: "Counting-house and water-works"
+      field: Counting-house and water-works
       built: [igelu]
-      gloss: "the hippopotamus"
-      native: [{map: zethu, text: "𞫑"}]
+      gloss: the hippopotamus
+      native: [{map: zethu, text: 𞫑}]
     - form: igelqat
       class: n
-      field: "Counting-house and water-works"
+      field: Counting-house and water-works
       built: [igelu]
-      gloss: "the river cat"
-      native: [{map: zethu, text: "𞯳"}]
+      gloss: the river cat
+      native: [{map: zethu, text: 𞯳}]
     - form: zugel
       class: n
-      field: "Counting-house and water-works"
-      gloss: "a harpoon"
-      native: [{map: zethu, text: "𞮨"}]
+      field: Counting-house and water-works
+      gloss: a harpoon
+      native: [{map: zethu, text: 𞮨}]
     - form: shenulet
       class: n
-      field: "Counting-house and water-works"
-      gloss: "a net"
-      native: [{map: zethu, text: "𞮧"}]
+      field: Counting-house and water-works
+      gloss: a net
+      native: [{map: zethu, text: 𞮧}]
     - form: tulaz
       class: n
-      field: "Counting-house and water-works"
-      gloss: "a bow"
-      native: [{map: zethu, text: "𞮣"}]
+      field: Counting-house and water-works
+      gloss: a bow
+      native: [{map: zethu, text: 𞮣}]
     - form: shebigel
       class: n
-      field: "Counting-house and water-works"
+      field: Counting-house and water-works
       built: [shebar, igelu]
-      gloss: "a reed boat"
-      native: [{map: zethu, text: "𞭾"}]
+      gloss: a reed boat
+      native: [{map: zethu, text: 𞭾}]
     - form: qemul
       class: n
-      field: "Counting-house and water-works"
-      gloss: "a cubit"
-      native: [{map: zethu, text: "𞮛"}]
+      field: Counting-house and water-works
+      gloss: a cubit
+      native: [{map: zethu, text: 𞮛}]
     - form: zelzin
       class: n
-      field: "Temple, arcane and cosmology"
+      field: Temple, arcane and cosmology
       built: [zin]
-      gloss: "a coffin, the place of the soul"
-      native: [{map: zethu, text: "𞯄"}]
-    - {form: zeghetar, class: n, field: "Occupations", built: [zeghet], gloss: "hunter"}
+      gloss: a coffin, the place of the soul
+      native: [{map: zethu, text: 𞯄}]
+    - {form: zeghetar, class: n, field: Occupations, built: [zeghet], gloss: hunter}
     - form: zugelar
       class: n
-      field: "Occupations"
+      field: Occupations
       built: [zugel]
-      gloss: "harpooner"
-      native: [{map: zethu, text: "𞩖"}]
+      gloss: harpooner
+      native: [{map: zethu, text: 𞩖}]
     - form: tegular
       class: n
-      field: "Occupations"
+      field: Occupations
       built: [tegul]
-      gloss: "butcher, divider of what is taken"
-      native: [{map: zethu, text: "𞯰"}]
-    - {form: lagathar, class: n, field: "Occupations", built: [lagath], gloss: "keeper, warden"}
+      gloss: butcher, divider of what is taken
+      native: [{map: zethu, text: 𞯰}]
+    - {form: lagathar, class: n, field: Occupations, built: [lagath], gloss: "keeper, warden"}
     - form: mazelar
       class: n
-      field: "Occupations"
+      field: Occupations
       built: [mazel]
-      gloss: "surveyor; scout, reader of the ground"
-    - form: tuqal
-      class: n
-      field: "Occupations"
-      gloss: "bearer"
-      native: [{map: zethu, text: "𞩵"}]
+      gloss: surveyor; scout, reader of the ground
+    - {form: tuqal, class: n, field: Occupations, gloss: bearer, native: [{map: zethu, text: 𞩵}]}
     - form: nazu
       class: pron
       field: Everyday speech
@@ -1466,7 +1442,9 @@ data:
     - form: zarun
       class: v
       field: Everyday speech
-      gloss: "to seem; to present an appearance: zarun temun malun, the thing seems soft"
+      gloss:
+        - "to seem; to present an appearance: zarun temun malun, the thing seems soft"
+        - "n: morning"
       source: {kind: coined}
       concept: seem
     - form: khazmar
@@ -2174,7 +2152,7 @@ data:
     - form: lamnet
       class: n
       field: Everyday speech
-      gloss: saliva
+      gloss: [saliva, capture, taking or receipt]
       source: {kind: coined}
       concept: saliva
     - form: qarnet
@@ -3053,7 +3031,7 @@ data:
     - form: qezlun
       class: n
       field: Everyday speech
-      gloss: a knife
+      gloss: [a knife, "v: hurry"]
       source: {kind: coined}
       concept: knife
     - form: qalmin
@@ -3376,7 +3354,7 @@ data:
     - form: qalgar
       class: n
       field: Everyday speech
-      gloss: lake
+      gloss: [lake, "v: draw water"]
       source: {kind: coined}
       concept: lake
     - form: qalzar
@@ -3911,7 +3889,9 @@ data:
     - form: zelmin
       class: adj
       field: Everyday speech
-      gloss: pale; faint or washed out in colour, and of a face lacking its usual colour
+      gloss:
+        - pale; faint or washed out in colour, and of a face lacking its usual colour
+        - "n: tag (separate noun from pale adjective)"
       source: {kind: coined}
       concept: pale
     - form: zurmeth
@@ -3923,7 +3903,9 @@ data:
     - form: qezmur
       class: adj
       field: Everyday speech
-      gloss: opaque; not allowing a sight through the material, even if its surface is bright
+      gloss:
+        - opaque; not allowing a sight through the material, even if its surface is bright
+        - "n: red pigment"
       source: {kind: coined}
       concept: opaque
     - form: zurmur
@@ -4073,7 +4055,7 @@ data:
     - form: qaleth
       class: v
       field: Everyday speech
-      gloss: to lie down
+      gloss: [to lie down, "n: palm as linear measure"]
       source: {kind: coined}
       concept: lie-down
     - form: tuqel
@@ -5504,7 +5486,9 @@ data:
     - form: qerzel
       class: v
       field: Everyday speech
-      gloss: to guess; to offer a conclusion without enough information to know
+      gloss:
+        - to guess; to offer a conclusion without enough information to know
+        - "n: guesswork (individual noun beside qerzel guess verb)"
       source: {kind: coined}
       concept: guess-verb
     - form: qerathal
@@ -5912,7 +5896,7 @@ data:
     - form: qenmar
       class: adj
       field: Everyday speech
-      gloss: valuable
+      gloss: [valuable, "n: face"]
       source: {kind: coined}
       concept: valuable
     - form: elu qenmet qezan
@@ -6700,6 +6684,1277 @@ data:
       field: Everyday speech
       gloss: worth; the value attributed to a thing or act
       source: {kind: coined}
+    - form: Shelmu zeten
+      class: part
+      field: Counting-house and water-works
+      gloss: Let the followers hear
+    - form: garqen
+      class: n
+      field: Counting-house and water-works
+      gloss: household, the people of one domestic house
+      source: {kind: coined}
+    - form: nelgiru
+      class: n
+      field: Counting-house and water-works
+      gloss: the gods collectively
+      built: [nelgir, -u]
+    - form: zethal
+      class: v
+      field: Counting-house and water-works
+      gloss: write or enter words in a record
+      source: {kind: coined}
+    - form: zethul
+      class: v
+      field: Counting-house and water-works
+      gloss: read writing aloud
+      source: {kind: coined}
+    - form: zethular
+      class: n
+      field: Counting-house and water-works
+      gloss: reader of writing aloud
+      built: [zethul, -ar]
+    - form: zethulnet
+      class: n
+      field: Counting-house and water-works
+      gloss: a reading of writing aloud
+      source: {kind: coined}
+    - form: zethat
+      class: n
+      field: Counting-house and water-works
+      gloss: an individual account entry
+      source: {kind: coined}
+    - form: zethqen
+      class: n
+      field: Counting-house and water-works
+      gloss: the tablets bearing an account
+      source: {kind: coined}
+    - form: zurenar
+      class: n
+      field: Counting-house and water-works
+      gloss: eyewitness
+      built: [zuren, -ar]
+    - form: qelqet
+      class: n
+      field: Counting-house and water-works
+      gloss: promise or undertaking entered in an account
+      source: {kind: coined}
+    - form: qelathar
+      class: n
+      field: Counting-house and water-works
+      gloss: person making an undertaking, promiser
+      built: [qelath, -ar]
+    - form: qelqarnat
+      class: n
+      field: Counting-house and water-works
+      gloss: outcome of an undertaking
+      source: {kind: coined}
+    - form: qelaz
+      class: v
+      field: Counting-house and water-works
+      gloss: fulfil an undertaking by performing it
+      source: {kind: coined}
+    - form: qelaznet
+      class: n
+      field: Counting-house and water-works
+      gloss: performance fulfilling an undertaking
+      source: {kind: coined}
+    - form: qazet
+      class: v
+      field: Counting-house and water-works
+      gloss: settle a debt by payment or agreed compensation
+      source: {kind: coined}
+    - form: zeqel
+      class: v
+      field: Counting-house and water-works
+      gloss: owe a debt to a creditor
+      source: {kind: coined}
+    - form: zeqatar
+      class: n
+      field: Counting-house and water-works
+      gloss: creditor, holder of the claim owed
+      built: [zeqat, -ar]
+    - form: zeqath
+      class: v
+      field: Counting-house and water-works
+      gloss: take over another person's obligation as one's own
+      source: {kind: coined}
+    - form: qelmar
+      class: adj
+      field: Counting-house and water-works
+      gloss:
+        - pending, with an undertaking unresolved
+        - "n: feast or festive occasion"
+        - "n: laughter"
+      source: {kind: coined}
+    - form: qalthar
+      class: n
+      field: Counting-house and water-works
+      gloss: dyke
+      source: {kind: coined}
+    - form: malqel
+      class: n
+      field: Counting-house and water-works
+      gloss: fostering, an undertaking to raise a child
+      source: {kind: coined}
+    - form: halqel
+      class: n
+      field: Counting-house and water-works
+      gloss: an undertaking about what a person is to be
+      source: {kind: coined}
+    - form: zethqel
+      class: n
+      field: Counting-house and water-works
+      gloss: chit attesting a quantity of grain under a temple seal
+      source: {kind: coined}
+    - form: qamretar
+      class: n
+      field: Counting-house and water-works
+      gloss: heir to a deceased person's estate
+      built: [qamret, -ar]
+    - form: qerethalnet
+      class: n
+      field: Counting-house and water-works
+      gloss: consent, the act of agreeing
+      source: {kind: coined}
+    - form: Galathal
+      class: n
+      field: Counting-house and water-works
+      gloss: the Closing, the person's reckoning of outstanding claims before death
+      source: {kind: coined}
+    - form: halqat
+      class: n
+      field: Counting-house and water-works
+      gloss: credit in an account, an act standing in someone's favour
+      source: {kind: coined}
+    - form: nelazar
+      class: n
+      field: Counting-house and water-works
+      gloss: giver
+      built: [nelaz, -ar]
+    - form: tamzel
+      class: n
+      field: Counting-house and water-works
+      gloss: bread
+      source: {kind: coined}
+    - form: halzathal
+      class: n
+      field: Counting-house and water-works
+      gloss: beam of the weighing scale
+      source: {kind: coined}
+    - form: tamular
+      class: n
+      field: Counting-house and water-works
+      gloss: devourer or eater
+      built: [tamul, -ar]
+    - form: galet
+      class: adj
+      field: Counting-house and water-works
+      gloss: closed, of an account or entry
+      source: {kind: coined}
+    - form: galut
+      class: adj
+      field: Counting-house and water-works
+      gloss: open, of an account or entry
+      source: {kind: coined}
+    - form: zeqmar
+      class: v
+      field: Counting-house and water-works
+      gloss: call in a debt owed to oneself, require its settlement
+      source: {kind: coined}
+    - form: qamzun
+      class: n
+      field: Counting-house and water-works
+      gloss: lease
+      source: {kind: coined}
+    - form: qamzunar
+      class: n
+      field: Counting-house and water-works
+      gloss: tenant holding a lease
+      source: {kind: coined}
+    - form: qaznel
+      class: n
+      field: Counting-house and water-works
+      gloss: fault or failure attributable to a person
+      source: {kind: coined}
+    - form: qemlun
+      class: adj
+      field: Counting-house and water-works
+      gloss: level, horizontal
+      source: {kind: coined}
+    - form: yathar
+      class: n
+      field: Place elements
+      gloss: mound (ordinary noun, distinct from bound place element Yath-)
+      source: {kind: coined}
+    - form: qezthar
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: crown
+      source: {kind: coined}
+    - {form: laqethet, class: n, field: Everyday speech, gloss: dominion, source: {kind: coined}}
+    - form: qelzar
+      class: n
+      field: Everyday speech
+      gloss: [frontier margin, lid]
+      source: {kind: coined}
+    - form: malqar
+      class: n
+      field: Counting-house and water-works
+      gloss: herd
+      source: {kind: coined}
+    - form: qeltheth
+      class: adj
+      field: Everyday speech
+      gloss: bound in restraints
+      source: {kind: coined}
+    - form: qezetar
+      class: n
+      field: The realm, its people and its hands
+      gloss: raider
+      source: {kind: coined}
+    - {form: qaltar, class: n, field: Everyday speech, gloss: ship, source: {kind: coined}}
+    - form: qaltaru
+      class: n
+      field: Everyday speech
+      gloss: river barge (separate individual word, no productive collective interpretation for this sense)
+      source: {kind: coined}
+    - form: selqet
+      class: n
+      field: Counting-house and water-works
+      gloss: cedar
+      source: {kind: coined}
+    - form: tulqat
+      class: n
+      field: Counting-house and water-works
+      gloss: horse
+      source: {kind: coined}
+    - form: qarnu
+      class: n
+      field: Counting-house and water-works
+      gloss: lion
+      source: {kind: coined}
+    - form: ternu
+      class: n
+      field: Counting-house and water-works
+      gloss: beast
+      source: {kind: coined}
+    - {form: qelthat, class: v, field: Doing, gloss: fill a container, source: {kind: coined}}
+    - {form: khanar, class: v, field: Doing, gloss: hunger, source: {kind: coined}}
+    - form: qelnet
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: altar
+      source: {kind: coined}
+    - form: Khalnet
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: royal mortuary Way
+      source: {kind: coined}
+    - {form: hodir, class: n, field: Place elements, gloss: road, source: {kind: coined}}
+    - {form: gharen, class: n, field: Place elements, gloss: land, source: {kind: coined}}
+    - form: zethqur
+      class: n
+      field: The written and the recited
+      gloss: ink
+      source: {kind: coined}
+    - {form: qelzun, class: v, field: Doing, gloss: sail, source: {kind: coined}}
+    - form: qamur
+      class: adj
+      field: Counting-house and water-works
+      gloss: enslaved. Use existing temal make, igelzut river-horse and qezlet dry in the finalized native
+      source: {kind: coined}
+    - {form: qazlun, class: n, field: Everyday speech, gloss: regnal year, source: {kind: coined}}
+    - form: kalzet
+      class: n
+      field: Everyday speech
+      gloss: ordinary year, distinct from existing selqur counted from Qet Telgu
+      source: {kind: coined}
+    - form: qelzat
+      class: n
+      field: Counting-house and water-works
+      gloss: [drum, "v: carve/incise (distinct from drum noun)"]
+      source: {kind: coined}
+    - {form: qalnaz, class: n, field: Everyday speech, gloss: beer, source: {kind: coined}}
+    - form: zelqet
+      class: n
+      field: The written and the recited
+      gloss: manuscript roll or textual copy
+      source: {kind: coined}
+    - {form: zengel, class: n, field: Everyday speech, gloss: step, source: {kind: coined}}
+    - {form: zaget, class: adj, field: Everyday speech, gloss: painted, source: {kind: coined}}
+    - form: zagath
+      class: v
+      field: Doing
+      gloss: paint (use this individual verb when needed)
+      source: {kind: coined}
+    - {form: galqat, class: n, field: Everyday speech, gloss: brick, source: {kind: coined}}
+    - form: qezqar
+      class: n
+      field: Everyday speech
+      gloss: rectangular frame
+      source: {kind: coined}
+    - form: qezlar
+      class: v
+      field: Doing
+      gloss: dry material by removing moisture
+      source: {kind: coined}
+    - {form: mazelqet, class: n, field: Everyday speech, gloss: survey rod, source: {kind: coined}}
+    - {form: qalthaz, class: v, field: Doing, gloss: raise or hold up, source: {kind: coined}}
+    - form: qezmer
+      class: v
+      field: Doing
+      gloss: stick or jam, of a door
+      source: {kind: coined}
+    - {form: lintar, class: n, field: Everyday speech, gloss: lintel, source: {kind: coined}}
+    - form: zethqal
+      class: n
+      field: The written and the recited
+      gloss: writing palette
+      source: {kind: coined}
+    - form: temalnet
+      class: n
+      field: Temple, arcane and cosmology
+      gloss: making
+      source: {kind: coined}
+    - form: zethalnet
+      class: n
+      field: The written and the recited
+      gloss: writing activity
+      source: {kind: coined}
+    - form: khashnet
+      class: n
+      field: The written and the recited
+      gloss: legal hearing
+      source: {kind: coined}
+    - form: qarazel
+      class: n
+      field: The written and the recited
+      gloss: legal pleading
+      source: {kind: coined}
+    - form: qarazelnet
+      class: n
+      field: Everyday speech
+      gloss: spoken plea
+      source: {kind: coined}
+    - form: qaraznet
+      class: n
+      field: The written and the recited
+      gloss: a claim brought against a defendant
+      source: {kind: coined}
+    - form: mervel
+      class: n
+      field: The written and the recited
+      gloss: evidence
+      source: {kind: coined}
+    - {form: qezkhat, class: n, field: Everyday speech, gloss: creak, source: {kind: coined}}
+    - {form: qalqat, class: n, field: Everyday speech, gloss: scale pan, source: {kind: coined}}
+    - form: qarnel
+      class: v
+      field: Doing
+      gloss: [lean or tilt a thing, "n: sheep"]
+      source: {kind: coined}
+    - {form: temgal, class: n, field: Everyday speech, gloss: kitchen, source: {kind: coined}}
+    - form: yarathnet
+      class: n
+      field: Everyday speech
+      gloss: outgoing/departure
+      source: {kind: coined}
+    - form: harun
+      class: n
+      field: Counting-house and water-works
+      gloss: assembled audience/hall company
+      source: {kind: coined}
+    - form: kesnet
+      class: n
+      field: Everyday speech
+      gloss: practical use
+      source: {kind: coined}
+    - {form: heurath, class: v, field: Doing, gloss: discover, source: {kind: coined}}
+    - {form: temthar, class: n, field: Everyday speech, gloss: kiln, source: {kind: coined}}
+    - form: muzannet
+      class: n
+      field: Everyday speech
+      gloss: building activity
+      source: {kind: coined}
+    - {form: galur, class: adj, field: Everyday speech, gloss: round, source: {kind: coined}}
+    - {form: pautel, class: v, field: Doing, gloss: lapse/expire, source: {kind: coined}}
+    - {form: sumel, class: v, field: Doing, gloss: meet, source: {kind: coined}}
+    - {form: zelath, class: v, field: Doing, gloss: show, source: {kind: coined}}
+    - {form: qezgal, class: v, field: Doing, gloss: bow, source: {kind: coined}}
+    - {form: zekhot, class: n, field: Everyday speech, gloss: darkness, source: {kind: coined}}
+    - form: qelzut
+      class: n
+      field: Everyday speech
+      gloss: glottal catch or audible name pause
+      source: {kind: coined}
+    - form: ethel
+      class: adv
+      field: Doing
+      gloss: yet/still (individual citation, no tense morphology)
+      source: {kind: coined}
+    - form: tharil
+      class: adv
+      field: Doing
+      gloss: [slowly (individual citations), slowly]
+      source: {kind: coined}
+    - form: zethuar
+      class: n
+      field: The written and the recited
+      gloss: scribe/handler of writing, built zethu + -ar
+      source: {kind: coined}
+      built: [zethu, -ar]
+    - {form: galelnet, class: n, field: Everyday speech, gloss: sitting, source: {kind: coined}}
+    - form: thalalnet
+      class: n
+      field: Everyday speech
+      gloss: [continued presence, held pause or maintained interval (beside continued presence)]
+      source: {kind: coined}
+    - {form: qezqathnet, class: n, field: Everyday speech, gloss: throwing, source: {kind: coined}}
+    - form: heurathnet
+      class: n
+      field: Everyday speech
+      gloss: discovery
+      source: {kind: coined}
+    - {form: galathnet, class: n, field: Everyday speech, gloss: closure, source: {kind: coined}}
+    - form: zelqath
+      class: v
+      field: Doing
+      gloss: join things together. These are individually cited nouns, not a general nominalizing rule
+      source: {kind: coined}
+    - {form: qedlar, class: n, field: Everyday speech, gloss: stone, source: {kind: coined}}
+    - {form: menqet, class: n, field: Everyday speech, gloss: month, source: {kind: coined}}
+    - {form: amqar, class: n, field: Everyday speech, gloss: desert, source: {kind: coined}}
+    - form: qalwun
+      class: n
+      field: Counting-house and water-works
+      gloss: cistern
+      source: {kind: coined}
+    - form: tamgar
+      class: n
+      field: Counting-house and water-works
+      gloss: pasture
+      source: {kind: coined}
+    - form: qalthur
+      class: n
+      field: Counting-house and water-works
+      gloss: canal
+      source: {kind: coined}
+    - form: lagqet
+      class: n
+      field: Everyday speech
+      gloss: boundary stake
+      source: {kind: coined}
+    - {form: qarnar, class: n, field: Everyday speech, gloss: ram, source: {kind: coined}}
+    - form: shanur
+      class: n
+      field: Everyday speech
+      gloss: measuring cord
+      source: {kind: coined}
+    - form: atmeru
+      class: n
+      field: Everyday speech
+      gloss: people collectively
+      source: {kind: coined}
+    - form: galzar
+      class: n
+      field: Counting-house and water-works
+      gloss: tower
+      source: {kind: coined}
+    - {form: galnet, class: n, field: Place elements, gloss: village, source: {kind: coined}}
+    - {form: lutu, class: n, field: Place elements, gloss: estate, source: {kind: coined}}
+    - {form: lagar, class: v, field: Doing, gloss: drive away, source: {kind: coined}}
+    - {form: qelthan, class: v, field: Doing, gloss: stretch a cord, source: {kind: coined}}
+    - form: zarnu
+      class: n
+      field: The realm, its people and its hands
+      gloss: army
+      source: {kind: coined}
+    - form: qarneth
+      class: n
+      field: The realm, its people and its hands
+      gloss: military standard
+      source: {kind: coined}
+    - form: qethmal
+      class: n
+      field: Counting-house and water-works
+      gloss: silt
+      source: {kind: coined}
+    - form: barqet
+      class: n
+      field: Counting-house and water-works
+      gloss: barley
+      source: {kind: coined}
+    - form: qelqar
+      class: n
+      field: Everyday speech
+      gloss: [kite bird, linen bolt]
+      source: {kind: coined}
+    - {form: qelthez, class: v, field: Doing, gloss: break a formation, source: {kind: coined}}
+    - {form: hesqar, class: n, field: Everyday speech, gloss: dusk, source: {kind: coined}}
+    - {form: qalqathnet, class: n, field: Everyday speech, gloss: falling, source: {kind: coined}}
+    - {form: shalath, class: v, field: Doing, gloss: wrap, source: {kind: coined}}
+    - {form: gastel, class: n, field: Everyday speech, gloss: belly, source: {kind: coined}}
+    - {form: zeqar, class: n, field: Everyday speech, gloss: tax, source: {kind: coined}}
+    - form: tharqat
+      class: n
+      field: Counting-house and water-works
+      gloss: ox
+      source: {kind: coined}
+    - form: qaldun
+      class: n
+      field: Counting-house and water-works
+      gloss: donkey
+      source: {kind: coined}
+    - {form: qerwun, class: n, field: Everyday speech, gloss: copper, source: {kind: coined}}
+    - {form: shenqet, class: n, field: Everyday speech, gloss: linen, source: {kind: coined}}
+    - form: lazqet
+      class: n
+      field: Counting-house and water-works
+      gloss: oil
+      source: {kind: coined}
+    - form: geqet
+      class: n
+      field: Counting-house and water-works
+      gloss: goat
+      source: {kind: coined}
+    - {form: shalgar, class: n, field: Everyday speech, gloss: tent, source: {kind: coined}}
+    - {form: nezqet, class: n, field: Everyday speech, gloss: natron, source: {kind: coined}}
+    - {form: sharmet, class: n, field: Everyday speech, gloss: sack, source: {kind: coined}}
+    - form: wathetar
+      class: n
+      field: Occupations
+      gloss: embalmer, individual citation
+      source: {kind: coined}
+    - {form: garzethu, class: n, field: Everyday speech, gloss: bureau, source: {kind: coined}}
+    - form: rethgal
+      class: n
+      field: The written and the recited
+      gloss: school
+      source: {kind: coined}
+    - form: theqet
+      class: n
+      field: Counting-house and water-works
+      gloss: wheat
+      source: {kind: coined}
+    - {form: qerzan, class: n, field: Everyday speech, gloss: bronze, source: {kind: coined}}
+    - form: qezgath
+      class: n
+      field: The realm, its people and its hands
+      gloss: spear
+      source: {kind: coined}
+    - {form: Gal Au, class: n, field: Place elements, gloss: capital city, source: {kind: coined}}
+    - {form: qalwat, class: n, field: Everyday speech, gloss: tomb, source: {kind: coined}}
+    - form: qalqar
+      class: n
+      field: Everyday speech
+      gloss: linen bolt (distinct from sky noun if already present
+      source: {kind: coined}
+    - {form: khumar, class: adj, field: Everyday speech, gloss: deep, source: {kind: coined}}
+    - {form: qezmin, class: n, field: Everyday speech, gloss: sharp point, source: {kind: coined}}
+    - form: qedlarar
+      class: n
+      field: Occupations
+      gloss: stoneworker, built from qedlar + -ar
+      source: {kind: coined}
+      built: [qedlar, -ar]
+    - form: galnat
+      class: n
+      field: Place elements
+      gloss: town, individual ordinary noun
+      source: {kind: coined}
+    - form: qenlar
+      class: v
+      field: Doing
+      gloss: correct a written mistake
+      source: {kind: coined}
+    - form: qaruthnet
+      class: n
+      field: Everyday speech
+      gloss: intended meaning
+      source: {kind: coined}
+    - form: lekhathnet
+      class: n
+      field: Counting-house and water-works
+      gloss: ordination/blessing
+      source: {kind: coined}
+    - form: zetqen
+      class: n
+      field: The written and the recited
+      gloss: answer
+      source: {kind: coined}
+    - form: zegarar
+      class: n
+      field: Counting-house and water-works
+      gloss: farmer
+      source: {kind: coined}
+    - form: zethqalnet
+      class: n
+      field: The written and the recited
+      gloss: cargo manifest
+      source: {kind: coined}
+    - form: khaznet
+      class: n
+      field: Counting-house and water-works
+      gloss: suspicion
+      source: {kind: coined}
+    - form: shalqet
+      class: n
+      field: Counting-house and water-works
+      gloss: knife
+      source: {kind: coined}
+    - form: qelmul
+      class: v
+      field: Doing
+      gloss: round written forms or numbers
+      source: {kind: coined}
+    - {form: lagqen, class: n, field: Everyday speech, gloss: gum resin, source: {kind: coined}}
+    - {form: qelmath, class: v, field: Doing, gloss: mix, source: {kind: coined}}
+    - form: qezminet
+      class: n
+      field: Counting-house and water-works
+      gloss: pink pigment
+      source: {kind: coined}
+    - form: shenqar
+      class: n
+      field: Counting-house and water-works
+      gloss: marsh paper
+      source: {kind: coined}
+    - form: qalshar
+      class: n
+      field: Counting-house and water-works
+      gloss: pottery sherd
+      source: {kind: coined}
+    - form: qelgar
+      class: v
+      field: Doing
+      gloss: [scrape, "n: burial pit (different contextual noun from scrape verb)"]
+      source: {kind: coined}
+    - form: fael
+      class: n
+      field: Counting-house and water-works
+      gloss: lamplight
+      source: {kind: coined}
+    - form: salqet
+      class: n
+      field: Counting-house and water-works
+      gloss: shelf
+      source: {kind: coined}
+    - form: konet
+      class: n
+      field: Counting-house and water-works
+      gloss: dust
+      source: {kind: coined}
+    - form: zethgal
+      class: n
+      field: The written and the recited
+      gloss: archive counter or writing desk
+      source: {kind: coined}
+    - form: qazemnet
+      class: n
+      field: Everyday speech
+      gloss: purchase/payment
+      source: {kind: coined}
+    - {form: qelmer, class: adj, field: Everyday speech, gloss: kind, source: {kind: coined}}
+    - form: rethurun
+      class: n
+      field: Counting-house and water-works
+      gloss: memory
+      source: {kind: coined}
+    - form: qelgaret
+      class: n
+      field: The written and the recited
+      gloss: [scraper, "adj: struck from records (beside scraper noun)"]
+      source: {kind: coined}
+    - {form: zelarun, class: n, field: Everyday speech, gloss: burial club, source: {kind: coined}}
+    - form: horqet
+      class: n
+      field: Counting-house and water-works
+      gloss: hour
+      source: {kind: coined}
+    - form: alqarnet
+      class: n
+      field: Everyday speech
+      gloss: what exists (individual abstract noun)
+      source: {kind: coined}
+    - form: qatheznet
+      class: n
+      field: The written and the recited
+      gloss: application of a seal
+      source: {kind: coined}
+    - {form: qalbath, class: v, field: Doing, gloss: bathe, source: {kind: coined}}
+    - form: telzar
+      class: n
+      field: Counting-house and water-works
+      gloss: table
+      source: {kind: coined}
+    - {form: thaluznet, class: n, field: Everyday speech, gloss: touch, source: {kind: coined}}
+    - {form: makhal, class: v, field: Doing, gloss: fight, source: {kind: coined}}
+    - {form: kamel, class: adj, field: Everyday speech, gloss: tired, source: {kind: coined}}
+    - form: qelmulnet
+      class: n
+      field: The written and the recited
+      gloss: rounding of signs
+      source: {kind: coined}
+    - form: garqelar
+      class: n
+      field: Counting-house and water-works
+      gloss: neighbor
+      source: {kind: coined}
+    - form: galzamar
+      class: n
+      field: Counting-house and water-works
+      gloss: forecourt
+      source: {kind: coined}
+    - form: tarulnet
+      class: n
+      field: Everyday speech
+      gloss: walking or pacing
+      source: {kind: coined}
+    - form: dunelnet
+      class: n
+      field: Counting-house and water-works
+      gloss: capacity
+      source: {kind: coined}
+    - form: alqarun
+      class: n
+      field: Counting-house and water-works
+      gloss: religion, practice relating to the gods
+      source: {kind: coined}
+    - form: nelgalar
+      class: n
+      field: Counting-house and water-works
+      gloss: household shrine
+      source: {kind: coined}
+    - form: danet
+      class: n
+      field: Counting-house and water-works
+      gloss: loan
+      source: {kind: coined}
+    - form: rethan qaril
+      class: n
+      field: Counting-house and water-works
+      gloss: phrase near name
+      source: {kind: coined}
+    - {form: ralzet, class: adj, field: Everyday speech, gloss: easy, source: {kind: coined}}
+    - {form: alghen, class: adj, field: Everyday speech, gloss: suffering, source: {kind: coined}}
+    - form: limqet
+      class: n
+      field: Counting-house and water-works
+      gloss: quay
+      source: {kind: coined}
+    - form: galuqet
+      class: n
+      field: Counting-house and water-works
+      gloss: island
+      source: {kind: coined}
+    - form: Mazelnet
+      class: n
+      field: Counting-house and water-works
+      gloss: the Measure, official river gauge and its reading
+      source: {kind: coined}
+    - form: qeznarar
+      class: n
+      field: Counting-house and water-works
+      gloss: sergeant
+      source: {kind: coined}
+    - form: qelzarar
+      class: n
+      field: Counting-house and water-works
+      gloss: rower
+      source: {kind: coined}
+    - form: qezgar
+      class: n
+      field: Counting-house and water-works
+      gloss: shaft
+      source: {kind: coined}
+    - form: galthel
+      class: n
+      field: Counting-house and water-works
+      gloss: bridge
+      source: {kind: coined}
+    - form: tematar
+      class: n
+      field: Counting-house and water-works
+      gloss: cook
+      source: {kind: coined}
+    - form: qelwun
+      class: n
+      field: Counting-house and water-works
+      gloss: well
+      source: {kind: coined}
+    - form: qalgaz
+      class: n
+      field: Counting-house and water-works
+      gloss: river crest
+      source: {kind: coined}
+    - form: anqar
+      class: n
+      field: Counting-house and water-works
+      gloss: wind
+      source: {kind: coined}
+    - form: qetgar
+      class: n
+      field: Counting-house and water-works
+      gloss: east
+      source: {kind: coined}
+    - form: balqet
+      class: n
+      field: Counting-house and water-works
+      gloss: barrow
+      source: {kind: coined}
+    - form: shenqel
+      class: n
+      field: Counting-house and water-works
+      gloss: sleeve
+      source: {kind: coined}
+    - form: malzathnet
+      class: n
+      field: Counting-house and water-works
+      gloss: milking
+      source: {kind: coined}
+    - form: leqgath
+      class: n
+      field: Counting-house and water-works
+      gloss: proclamation crier
+      source: {kind: coined}
+    - form: qelqal
+      class: n
+      field: Counting-house and water-works
+      gloss: bowl
+      source: {kind: coined}
+    - form: qalzeqat
+      class: n
+      field: Counting-house and water-works
+      gloss: maintenance dues
+      source: {kind: coined}
+    - form: zalethar
+      class: n
+      field: Counting-house and water-works
+      gloss: physician/healer, built zaleth heal + -ar
+      source: {kind: coined}
+      built: [zaleth, -ar]
+    - {form: shamelqet, class: n, field: Everyday speech, gloss: bed, source: {kind: coined}}
+    - form: telzet
+      class: n
+      field: Counting-house and water-works
+      gloss: usual compensation rate
+      source: {kind: coined}
+    - form: Nelgatnet
+      class: n
+      field: Counting-house and water-works
+      gloss: dedication
+      source: {kind: coined}
+    - form: qamnetar
+      class: n
+      field: Counting-house and water-works
+      gloss: owner, qamnet + -ar
+      source: {kind: coined}
+      built: [qamnet, -ar]
+    - form: Galnat Zar
+      class: n
+      field: Everyday speech
+      gloss: High City
+      source: {kind: coined}
+    - form: shazqet
+      class: n
+      field: Counting-house and water-works
+      gloss: bloodstain or ritual stain from killing
+      source: {kind: coined}
+    - form: Meglarar
+      class: n
+      field: Counting-house and water-works
+      gloss: soldier, Meglar + -ar
+      source: {kind: coined}
+      built: [Meglar, -ar]
+    - form: qelwaz
+      class: n
+      field: Counting-house and water-works
+      gloss: electrum
+      source: {kind: coined}
+    - form: qedzun
+      class: n
+      field: Counting-house and water-works
+      gloss: obelisk
+      source: {kind: coined}
+    - {form: qezwan, class: adj, field: Everyday speech, gloss: brown, source: {kind: coined}}
+    - {form: faelath, class: v, field: Doing, gloss: illuminate with light, source: {kind: coined}}
+    - form: qezzal
+      class: n
+      field: Counting-house and water-works
+      gloss: hoe
+      source: {kind: coined}
+    - form: qelqen
+      class: n
+      field: Counting-house and water-works
+      gloss: knot
+      source: {kind: coined}
+    - form: tethet
+      class: n
+      field: Counting-house and water-works
+      gloss: deposited position
+      source: {kind: coined}
+    - form: zewaret
+      class: n
+      field: Counting-house and water-works
+      gloss: caravan
+      source: {kind: coined}
+    - form: razethar
+      class: n
+      field: Counting-house and water-works
+      gloss: envoy, razeth + -ar
+      source: {kind: coined}
+      built: [razeth, -ar]
+    - form: wethet
+      class: n
+      field: Counting-house and water-works
+      gloss: wetting
+      source: {kind: coined}
+    - form: qelqez
+      class: n
+      field: Counting-house and water-works
+      gloss: cake of pigment
+      source: {kind: coined}
+    - {form: khamet, class: adj, field: Everyday speech, gloss: black, source: {kind: coined}}
+    - form: qalnazgar
+      class: n
+      field: Counting-house and water-works
+      gloss: brewing vat
+      source: {kind: coined}
+    - form: khalzun
+      class: n
+      field: Counting-house and water-works
+      gloss: steam
+      source: {kind: coined}
+    - form: githarar
+      class: n
+      field: Everyday speech
+      gloss: weaver, githar + -ar
+      source: {kind: coined}
+      built: [githar, -ar]
+    - form: zelqenar
+      class: n
+      field: Counting-house and water-works
+      gloss: trading factor
+      source: {kind: coined}
+    - form: zewarar
+      class: n
+      field: Counting-house and water-works
+      gloss: money changer
+      source: {kind: coined}
+    - {form: qelzuth, class: v, field: Doing, gloss: pole a boat, source: {kind: coined}}
+    - form: qelmaru
+      class: n
+      field: Counting-house and water-works
+      gloss: marsh
+      source: {kind: coined}
+    - form: khalqet
+      class: n
+      field: Counting-house and water-works
+      gloss: shadow
+      source: {kind: coined}
+    - form: pathet
+      class: n
+      field: Counting-house and water-works
+      gloss: breadth
+      source: {kind: coined}
+    - form: qerathar
+      class: n
+      field: Counting-house and water-works
+      gloss: judge, qerath + -ar
+      source: {kind: coined}
+      built: [qerath, -ar]
+    - form: khashelnet
+      class: n
+      field: Counting-house and water-works
+      gloss: hearsay
+      source: {kind: coined}
+    - form: zelmit
+      class: n
+      field: Counting-house and water-works
+      gloss: image
+      source: {kind: coined}
+    - form: domet
+      class: n
+      field: Counting-house and water-works
+      gloss: room
+      source: {kind: coined}
+    - form: razernet
+      class: n
+      field: Counting-house and water-works
+      gloss: summons
+      source: {kind: coined}
+    - form: shelunnet
+      class: n
+      field: Counting-house and water-works
+      gloss: singing
+      source: {kind: coined}
+    - {form: lazqath, class: v, field: Doing, gloss: anoint with oil, source: {kind: coined}}
+    - form: makhalnet
+      class: n
+      field: Counting-house and water-works
+      gloss: combat
+      source: {kind: coined}
+    - form: qezathnet
+      class: n
+      field: Counting-house and water-works
+      gloss: killing
+      source: {kind: coined}
+    - form: qazirnet
+      class: n
+      field: Counting-house and water-works
+      gloss: passage/crossing
+      source: {kind: coined}
+    - form: sumetnet
+      class: n
+      field: Counting-house and water-works
+      gloss: assembly or gathering (individual noun)
+      source: {kind: coined}
+    - form: merqet
+      class: adv
+      field: Everyday speech
+      gloss: late, at a late point in the course of the named activity or life
+      source: {kind: coined}
+    - form: ammet
+      class: n
+      field: Everyday speech
+      gloss: custom or usual practice
+      source: {kind: coined}
+    - {form: balvel, class: n, field: Everyday speech, gloss: cart, source: {kind: coined}}
+    - form: galthar
+      class: n
+      field: Everyday speech
+      gloss: bank of a river
+      source: {kind: coined}
+    - form: galuthnet
+      class: n
+      field: Everyday speech
+      gloss: opening, the act or occasion of opening
+      source: {kind: coined}
+    - form: ghamuznet
+      class: n
+      field: Everyday speech
+      gloss: proclamation or declared public reading
+      source: {kind: coined}
+    - form: ghunet
+      class: n
+      field: Everyday speech
+      gloss: woman, in the phrase naming another woman
+      source: {kind: coined}
+    - form: halzath
+      class: v
+      field: Everyday speech
+      gloss: weigh on a scale
+      source: {kind: coined}
+    - form: kelath
+      class: v
+      field: Everyday speech
+      gloss: lie or rest in a place
+      source: {kind: coined}
+    - form: kelathnet
+      class: n
+      field: Everyday speech
+      gloss: resting or lying; the place where the dead rest
+      source: {kind: coined}
+    - {form: khanur, class: n, field: Everyday speech, gloss: dog, source: {kind: coined}}
+    - form: khelmathnet
+      class: n
+      field: Everyday speech
+      gloss: meeting or assembly
+      source: {kind: coined}
+    - {form: lamatar, class: n, field: Everyday speech, gloss: fisher, source: {kind: coined}}
+    - form: lamath
+      class: v
+      field: Everyday speech
+      gloss: take, receive or obtain
+      source: {kind: coined}
+    - form: lemzabu
+      class: n
+      field: Everyday speech
+      gloss: steward of a household
+      source: {kind: coined}
+    - form: mazathar
+      class: n
+      field: Everyday speech
+      gloss: counter or person who counts
+      source: {kind: coined}
+    - form: mazathnet
+      class: n
+      field: Everyday speech
+      gloss: counting or being counted
+      source: {kind: coined}
+    - {form: muzanar, class: n, field: Everyday speech, gloss: builder, source: {kind: coined}}
+    - form: nelaznet
+      class: n
+      field: Everyday speech
+      gloss: gift or giving
+      source: {kind: coined}
+    - form: nevar
+      class: adj
+      field: Everyday speech
+      gloss: new, newly made
+      source: {kind: coined}
+    - form: pedar
+      class: n
+      field: Everyday speech
+      gloss: foot, the body part
+      source: {kind: coined}
+    - {form: pedil, class: n, field: Everyday speech, gloss: sandal, source: {kind: coined}}
+    - form: qalurnet
+      class: n
+      field: Everyday speech
+      gloss: deposition or settling in a place
+      source: {kind: coined}
+    - {form: qelmarar, class: n, field: Everyday speech, gloss: fool, source: {kind: coined}}
+    - form: qelmunet
+      class: n
+      field: Everyday speech
+      gloss: loyalty or faithfulness
+      source: {kind: coined}
+    - form: qelqath
+      class: n
+      field: Everyday speech
+      gloss: bundle of things bound together
+      source: {kind: coined}
+    - form: qeltheznet
+      class: n
+      field: Everyday speech
+      gloss: break or fracture
+      source: {kind: coined}
+    - {form: qelun, class: n, field: Everyday speech, gloss: knee, source: {kind: coined}}
+    - form: qelzuthil
+      class: adj
+      field: Everyday speech
+      gloss: tiny, very small
+      source: {kind: coined}
+    - form: qeren
+      class: adj
+      field: Everyday speech
+      gloss: diligent or careful in an assigned task
+      source: {kind: coined}
+    - form: qezirnet
+      class: n
+      field: Everyday speech
+      gloss: stroke or striking
+      source: {kind: coined}
+    - form: qezqath
+      class: v
+      field: Everyday speech
+      gloss: throw at someone or something
+      source: {kind: coined}
+    - form: razalar
+      class: n
+      field: Everyday speech
+      gloss: petitioner, one who asks
+      source: {kind: coined}
+    - form: razalnet
+      class: n
+      field: Everyday speech
+      gloss: asking, a question or request
+      source: {kind: coined}
+    - {form: razelar, class: n, field: Everyday speech, gloss: speaker, source: {kind: coined}}
+    - form: raznannet
+      class: n
+      field: Everyday speech
+      gloss: naming, the act or occasion of naming
+      source: {kind: coined}
+    - form: raznet
+      class: n
+      field: Everyday speech
+      gloss: word or spoken utterance
+      source: {kind: coined}
+    - form: rethathar
+      class: n
+      field: Everyday speech
+      gloss: teacher, one who teaches an assigned hand
+      source: {kind: coined}
+    - form: rethathnet
+      class: n
+      field: Everyday speech
+      gloss: teaching, instruction in an assigned practice
+      source: {kind: coined}
+    - form: rethulnet
+      class: n
+      field: Everyday speech
+      gloss: reading or act of reading
+      source: {kind: coined}
+    - form: selatu
+      class: n
+      field: Everyday speech
+      gloss: province, in the army provincial titles
+      source: {kind: coined}
+    - form: shalathnet
+      class: n
+      field: Everyday speech
+      gloss: wrapping, especially of a burial
+      source: {kind: coined}
+    - {form: shebigelar, class: n, field: Everyday speech, gloss: boatman, source: {kind: coined}}
+    - form: tamelnet
+      class: n
+      field: Everyday speech
+      gloss: deed, job or doing
+      source: {kind: coined}
+    - {form: temalar, class: n, field: Everyday speech, gloss: maker, source: {kind: coined}}
+    - form: tharelnet
+      class: n
+      field: Everyday speech
+      gloss: standing in company, a companion or companionship
+      source: {kind: coined}
+    - {form: tuqathar, class: n, field: Everyday speech, gloss: carrier, source: {kind: coined}}
+    - form: tuqathnet
+      class: n
+      field: Everyday speech
+      gloss: carrying, transport or baggage
+      source: {kind: coined}
+    - form: waletar
+      class: n
+      field: Everyday speech
+      gloss: holder or owner
+      source: {kind: coined}
+    - form: wazel
+      class: adj
+      field: Everyday speech
+      gloss: green, of a living stem
+      source: {kind: coined}
+    - form: wazet
+      class: adj
+      field: Everyday speech
+      gloss: white or whitened
+      source: {kind: coined}
+    - form: yalathnet
+      class: n
+      field: Everyday speech
+      gloss: arrival or coming to a place
+      source: {kind: coined}
+    - form: yalen
+      class: v
+      field: Everyday speech
+      gloss: return or come back
+      source: {kind: coined}
+    - {form: yalethar, class: n, field: Everyday speech, gloss: messenger, source: {kind: coined}}
+    - form: yalethnet
+      class: n
+      field: Everyday speech
+      gloss: turning, a turn on a road
+      source: {kind: coined}
+    - {form: yalnet, class: n, field: Everyday speech, gloss: arrival, source: {kind: coined}}
+    - form: yarulnet
+      class: n
+      field: Everyday speech
+      gloss: descent, going down or departure
+      source: {kind: coined}
+    - {form: zamel, class: adj, field: Everyday speech, gloss: sweet, source: {kind: coined}}
+    - {form: zethalar, class: n, field: Everyday speech, gloss: copyist, source: {kind: coined}}
+    - form: zethmin
+      class: n
+      field: Everyday speech
+      gloss: written sign
+      source: {kind: coined}
+    - {form: qelmu, class: n, field: Everyday speech, gloss: sea, source: {kind: coined}}
+    - form: Meglar
+      class: n
+      field: Everyday speech
+      gloss: royal guard, a soldier in the ruler's levy
+      source: {kind: coined}
   retired:
     - {form: Chelsuk, instead: Chelsur, why: "ends in none of a vowel, n, t, s, r, l, z or th"}
     - {form: Wal'Enrauqo, instead: Wal'Enraku, why: a house name that does not end in `-u`}
@@ -6725,27 +7980,67 @@ data:
   tongues: [{tag: khelathi, meaning: a Khelathi name, language: skill-khelathlng}]
   register:
     - {name: Meqes, tongue: khelathi}
-    - {name: "Uqa'a", tongue: khelathi}
-    - {name: "Amqel'Uzner", tongue: khelathi}
-    - {name: "Amruzi ez Zel-Qar", tongue: khelathi}
-    - {name: "Azlet'Kutu", tongue: khelathi}
-    - {name: "Gahser ez Iku", tongue: khelathi}
-    - {name: "Githira", tongue: khelathi}
-    - {name: "Gulur ez Galezkara", tongue: khelathi}
-    - {name: "Imsithe Reth'el'Qetu", tongue: khelathi}
-    - {name: "Inhagi ez Gau", tongue: khelathi}
-    - {name: "Kuz'Uqa", tongue: khelathi}
-    - {name: "Lefta ez Iqeru", tongue: khelathi}
-    - {name: "Legir'el'Retha", tongue: khelathi}
-    - {name: "Legir'Uzner", tongue: khelathi}
-    - {name: "Lemjen ez Galezkara", tongue: khelathi}
-    - {name: "Maqi Reth'el'Qetu", tongue: khelathi}
-    - {name: "Qedut ez Gar-Legulu", tongue: khelathi}
-    - {name: "Thakat ez Gar-Qethar", tongue: khelathi}
-    - {name: "Thethi ez Gar-Qethar", tongue: khelathi}
-    - {name: "Zabita ez Gar-Qethar", tongue: khelathi}
-    - {name: "Zapse ez Chegu", tongue: khelathi}
-    - {name: "Zu'Magetu", tongue: khelathi}
+    - {name: Uqa'a, tongue: khelathi}
+    - {name: Amqel'Uzner, tongue: khelathi}
+    - {name: Amruzi ez Zel-Qar, tongue: khelathi}
+    - {name: Azlet'Kutu, tongue: khelathi}
+    - {name: Gahser ez Iku, tongue: khelathi}
+    - {name: Githira, tongue: khelathi}
+    - {name: Gulur ez Galezkara, tongue: khelathi}
+    - {name: Imsithe Reth'el'Qetu, tongue: khelathi}
+    - {name: Inhagi ez Gau, tongue: khelathi}
+    - {name: Kuz'Uqa, tongue: khelathi}
+    - {name: Lefta ez Iqeru, tongue: khelathi}
+    - {name: Legir'el'Retha, tongue: khelathi}
+    - {name: Legir'Uzner, tongue: khelathi}
+    - {name: Lemjen ez Galezkara, tongue: khelathi}
+    - {name: Maqi Reth'el'Qetu, tongue: khelathi}
+    - {name: Qedut ez Gar-Legulu, tongue: khelathi}
+    - {name: Thakat ez Gar-Qethar, tongue: khelathi}
+    - {name: Thethi ez Gar-Qethar, tongue: khelathi}
+    - {name: Zabita ez Gar-Qethar, tongue: khelathi}
+    - {name: Zapse ez Chegu, tongue: khelathi}
+    - {name: Zu'Magetu, tongue: khelathi}
+    - {name: Anlagh'el'Qar, tongue: khelathi}
+    - {name: Gar-Auu, tongue: khelathi}
+    - {name: Gari, tongue: khelathi}
+    - {name: Gez'el'Qar, tongue: khelathi}
+    - {name: Gez'el'Retha, tongue: khelathi}
+    - {name: Gezazabu, tongue: khelathi}
+    - {name: Gezer, tongue: khelathi}
+    - {name: Gezerker, tongue: khelathi}
+    - {name: Hálzi, tongue: khelathi}
+    - {name: Halzi'a, tongue: khelathi}
+    - {name: Izet-Ge, tongue: khelathi}
+    - {name: Khelaga, tongue: khelathi}
+    - {name: Khelansi, tongue: khelathi}
+    - {name: Khelaut-Ithnet, tongue: khelathi}
+    - {name: Khelaut-Iuthnet, tongue: khelathi}
+    - {name: Khelayu, tongue: khelathi}
+    - {name: Khelunu, tongue: khelathi}
+    - {name: Khelzuret, tongue: khelathi}
+    - {name: Legha'lutu, tongue: khelathi}
+    - {name: Legiru, tongue: khelathi}
+    - {name: Legirusi, tongue: khelathi}
+    - {name: Lem'Nelgir, tongue: khelathi}
+    - {name: Lenen-Nezut, tongue: khelathi}
+    - {name: Linmut, tongue: khelathi}
+    - {name: Medjatozo, tongue: khelathi}
+    - {name: Meglar, tongue: khelathi}
+    - {name: Qezmel, tongue: khelathi}
+    - {name: Tha'Ulgau, tongue: khelathi}
+    - {name: Thaz'Lekhau, tongue: khelathi}
+    - {name: Wagaru, tongue: khelathi}
+    - {name: Yaleth, tongue: khelathi}
+    - {name: Zemelu, tongue: khelathi}
+    - {name: Zethel, tongue: khelathi}
+    - {name: Zetun, tongue: khelathi}
+    - {name: Zileti, tongue: khelathi}
+    - {name: Zinlegir, tongue: khelathi}
+    - {name: Zinuri, tongue: khelathi}
+    - {name: Zu'Amqeletu, tongue: khelathi}
+    - {name: Zu'Meku, tongue: khelathi}
+    - {name: Zu-Ger, tongue: khelathi}
   naming:
     nearName:
       minSyllables: 4

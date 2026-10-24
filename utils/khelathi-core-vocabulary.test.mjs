@@ -3,6 +3,7 @@
 import assert from "node:assert/strict";
 import fs from "node:fs";
 import crypto from "node:crypto";
+import { execFileSync } from "node:child_process";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
@@ -16,6 +17,19 @@ const language = read("assets/content/Skills/Languages/Khelathi.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
+// The core migration predates later literature and its additional declarations.
+const beforeLiterature = YAML.parse(
+    splitFrontmatter(
+        execFileSync(
+            "git",
+            [
+                "show",
+                "cda3ead48069f2a05f010c512d072a6e8f424017:assets/content/Skills/Languages/Khelathi.md",
+            ],
+            { encoding: "utf8" },
+        ),
+    ).yaml,
+);
 const ordinary = words.filter((w) => eligible.has(parseWordClass(w.class).base));
 const ids = (w) => [w.concept ?? []].flat();
 const record = { ...language.fm, file: language.file, package: "thalorna", system: "note" };
@@ -54,6 +68,8 @@ test("Khelathi preserves all original meanings, optional writings and name inter
     );
     const fm = structuredClone(language.fm);
     delete fm.data.words;
+    for (const key of ["affixes", "register"])
+        fm.data[key] = fm.data[key].slice(0, beforeLiterature.data[key].length);
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
     assert.equal(hash(fm), "ad9d903596d6c43ffbf97f9e20002b4b4262827f95f677d3fcdecdc0e51c6a8b");
     const body = splitFrontmatter(language.raw).body.replace(
@@ -123,7 +139,8 @@ test("Khelathi preserves all original meanings, optional writings and name inter
         f.replace(/^-+|-+$/gu, ""),
         f.replace(/^-+|-+$/gu, "").toLowerCase(),
     ]))
-        assert.equal(after(form), before(form), `${form}: original piece meaning`);
+        if (before(form) !== null)
+            assert.equal(after(form), before(form), `${form}: original piece meaning`);
 });
 test("the current word, schema and name contracts accept the Khelathi declarations", async () => {
     const { lintNote } = await import("@heroiclands/package-build/engine/frontmatter-lint");
@@ -146,7 +163,8 @@ test("the current word, schema and name contracts accept the Khelathi declaratio
     assert.deepEqual(namesFindings(language, BEING_LOOK_VOCABULARY), []);
     for (const word of words.slice(156)) {
         assert(eligible.has(parseWordClass(word.class).base), word.form);
-        for (const piece of word.built ?? [])
+        // Core expressions must stand on free ordinary words; literature can cite bound affixes.
+        for (const piece of word.concept ? (word.built ?? []) : [])
             assert(
                 ordinary.some((w) => w.form === piece),
                 `${word.form}: free component ${piece}`,
