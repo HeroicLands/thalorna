@@ -174,9 +174,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Varma es helm than nott.]{.nativefont lang=nord}
+1 [Varma es helm than narl.]{.nativefont lang=nord}
 2 [The wall was whole that night.]{lang=en}
-2 [Varma es helm than nott.]{lang=nord}
+2 [Varma es helm than narl.]{lang=nord}
 
 
 
@@ -990,9 +990,9 @@ Among the [[lore-nordheimnclt|Nordmen]] of [[place-norgaad|Norgaad]], the **Vuld
 
 
 
-1 [Hveri nott nem bulla.]{.nativefont lang=nord}
+1 [Hveri narl nem bulla.]{.nativefont lang=nord}
 2 [Each night he took a bowl.]{lang=en}
-2 [Hveri nott nem bulla.]{lang=nord}
+2 [Hveri narl nem bulla.]{lang=nord}
 
 
 

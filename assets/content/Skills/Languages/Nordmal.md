@@ -5797,10 +5797,10 @@ data:
       class: adj
       field: Everyday speech
       gloss: full
-    - form: nott
+    - form: narl
       class: n
       field: Everyday speech
-      gloss: night, poeticcitation
+      gloss: night; a poetic word
     - form: torvskarn
       class: n
       field: Everyday speech
@@ -6597,6 +6597,298 @@ data:
       class: adj
       field: Everyday speech
       gloss: sacred
+    - form: rygva
+      class: n
+      field: Everyday speech
+      gloss: ridge
+    - form: myrva
+      class: n
+      field: Everyday speech
+      gloss: marsh
+    - form: landheim
+      class: n
+      field: Everyday speech
+      gloss: farm
+    - form: nafmri
+      class: n
+      field: Everyday speech
+      gloss: name giver
+    - form: borgva
+      class: n
+      field: Everyday speech
+      gloss: fort
+    - form: eldnri
+      class: adj
+      field: Everyday speech
+      gloss: burned
+    - form: landji
+      class: n
+      field: Everyday speech
+      gloss: farming
+    - form: skyldva
+      class: n
+      field: Everyday speech
+      gloss: dues
+    - form: lanva
+      class: n
+      field: Everyday speech
+      gloss: loan
+    - form: hundva
+      class: n
+      field: Everyday speech
+      gloss: dog
+    - form: grasnemma
+      class: n
+      field: Everyday speech
+      gloss: hay
+    - form: landband
+      class: n
+      field: Everyday speech
+      gloss: district
+    - form: ulmkvil
+      class: n
+      field: Everyday speech
+      gloss: sheep
+    - form: martva
+      class: n
+      field: Everyday speech
+      gloss: marten
+    - form: kopma virdma
+      class: phrase
+      field: Everyday speech
+      gloss: profit, worthfrombuying, no newgrammar
+    - form: alrva
+      class: n
+      field: Everyday speech
+      gloss: alder
+    - form: stevrisna
+      class: n
+      field: Everyday speech
+      gloss: outcrop
+    - form: heimvaldri
+      class: n
+      field: Everyday speech
+      gloss: householder
+    - form: vargrand
+      class: n
+      field: Everyday speech
+      gloss: frontier
+    - form: rundfarda
+      class: n
+      field: Everyday speech
+      gloss: circuit
+    - form: legvri
+      class: n
+      field: Everyday speech
+      gloss: setter of a stone
+    - form: somarva
+      class: n
+      field: Everyday speech
+      gloss: summer
+    - form: rundma
+      class: n
+      field: Everyday speech
+      gloss: rotation
+    - form: skipvakthim
+      class: n
+      field: Everyday speech
+      gloss: sailing weeks
+    - form: turnva
+      class: n
+      field: Everyday speech
+      gloss: tower
+    - form: sleidveg
+      class: n
+      field: Everyday speech
+      gloss: sledge road
+    - form: sleidva
+      class: n
+      field: Everyday speech
+      gloss: sledge
+    - form: lagri
+      class: adj
+      field: Everyday speech
+      gloss: laid ready
+    - form: jiskift
+      class: n
+      field: Everyday speech
+      gloss: work shift
+    - form: eldra
+      class: v
+      field: Everyday speech
+      gloss: light a fire or beacon
+    - form: vuldskarn
+      class: n
+      field: Everyday speech
+      gloss: meal, groundgrain
+    - form: talgva
+      class: n
+      field: Everyday speech
+      gloss: tallow
+    - form: vetma
+      class: n
+      field: Everyday speech
+      gloss: wager
+    - form: gangveg
+      class: n
+      field: Everyday speech
+      gloss: wall walk
+    - form: fatva
+      class: n
+      field: Everyday speech
+      gloss: dish
+    - form: vuldband
+      class: n
+      field: Everyday speech
+      gloss: sheaf of grain
+    - form: galmva
+      class: n
+      field: Everyday speech
+      gloss: bend
+    - form: ljarmri
+      class: n
+      field: Everyday speech
+      gloss: lamp bearer
+    - form: tuskma
+      class: n
+      field: Everyday speech
+      gloss: tusk
+    - form: grendlanma
+      class: n
+      field: Everyday speech
+      gloss: gate rank
+    - form: bogma
+      class: n
+      field: Everyday speech
+      gloss: bow
+    - form: skotma
+      class: n
+      field: Everyday speech
+      gloss: shooting range
+    - form: frostlan
+      class: n
+      field: Everyday speech
+      gloss: frost line
+    - form: randlanma
+      class: n
+      field: Everyday speech
+      gloss: rim row, shieldrank
+    - form: skeldrand
+      class: n
+      field: Everyday speech
+      gloss: shield edge
+    - form: myrask
+      class: n
+      field: Everyday speech
+      gloss: marsh ash tree
+    - form: skila
+      class: n
+      field: Everyday speech
+      gloss: ski
+    - form: geirvard
+      class: n
+      field: Everyday speech
+      gloss: spear hedge
+    - form: hugri
+      class: n
+      field: Everyday speech
+      gloss: thinker
+    - form: zumna
+      class: v
+      field: Everyday speech
+      gloss: complain
+    - form: fernri
+      class: n
+      field: Everyday speech
+      gloss: driver
+    - form: reidri
+      class: n
+      field: Everyday speech
+      gloss: rider
+    - form: torva
+      class: n
+      field: Everyday speech
+      gloss: turf
+    - form: listva
+      class: n
+      field: Everyday speech
+      gloss: list
+    - form: arviri
+      class: n
+      field: Everyday speech
+      gloss: rower
+    - form: malvri
+      class: n
+      field: Everyday speech
+      gloss: claimant
+    - form: snirpinni
+      class: n
+      field: Everyday speech
+      gloss: spindle
+    - form: skarey
+      class: n
+      field: Everyday speech
+      gloss: skerry
+    - form: vrellna
+      class: adj
+      field: Everyday speech
+      gloss: bled
+    - form: hvelmfarda
+      class: n
+      field: Everyday speech
+      gloss: seasonalwhalepassage
+    - form: lest vuldmel
+      class: phrase
+      field: Everyday speech
+      gloss: endofloaf, literaladj+nounusesexistinglest
+    - form: Drivvid
+      class: n
+      field: Everyday speech
+      gloss: driftwood
+    - form: dirnri
+      class: adj
+      field: Everyday speech
+      gloss: sung
+    - form: hremvna
+      class: adj
+      field: Everyday speech
+      gloss: filled
+    - form: flatva
+      class: adj
+      field: Everyday speech
+      gloss: flat
+    - form: flomeldva
+      class: n
+      field: Everyday speech
+      gloss: rendering fire
+    - form: rakva
+      class: v
+      field: Everyday speech
+      gloss: rake
+    - form: lokva
+      class: n
+      field: Everyday speech
+      gloss: lid
+    - form: skurvband
+      class: n
+      field: Everyday speech
+      gloss: leather thong
+    - form: hornva
+      class: n
+      field: Everyday speech
+      gloss: corner
+    - form: regnva
+      class: v
+      field: Everyday speech
+      gloss: rain
+    - form: gronvid
+      class: n
+      field: Everyday speech
+      gloss: shoot of a plant
+    - form: meltna
+      class: v
+      field: Everyday speech
+      gloss: melt
   naming:
     edges:
       - edge: openConsonant
