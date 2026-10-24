@@ -58,6 +58,9 @@ const L = {
     ë: 0x1ed76,
     long: 0x1ed78,
     bar: 0x1ed7c,
+    rise: 0x1ed79,
+    fall: 0x1ed7a,
+    emphasis: 0x1ed7b,
 };
 const ch = (...ks) => ks.map((k) => String.fromCodePoint(L[k])).join("");
 const cm = (...ks) => ks.map((k) => "U+" + L[k].toString(16).toUpperCase()).join(" ");
@@ -118,7 +121,8 @@ export function generateRows(tongue) {
     for (const [s, k] of digraphs) for (const v of cases(s)) add(v, ch(k), cm(k));
     for (const v of cases("nk")) add(v, ch("ng", "k"), cm("ng", "k"));
     for (const v of cases("ch")) add(v, ch("k"), cm("k"));
-    for (const v of cases("sh")) add(v, ch("s"), cm("s"));
+    // Sinale s + h are separate consonants, including across a suffix boundary.
+    if (AE) for (const v of cases("sh")) add(v, ch("s"), cm("s"));
     for (const v of cases("x")) add(v, ch("k", "s"), cm("k", "s"));
     for (const c of singles) for (const v of cases(c)) add(v, ch(c), cm(c));
     for (const [s, k] of near) for (const v of cases(s)) add(v, ch(k), cm(k));
@@ -131,6 +135,13 @@ export function generateRows(tongue) {
     add("-", "", "writes nothing", "at: start");
     add("-", "", "writes nothing", "at: end");
     add("-", " ", "a word space");
+
+    // Sinale's performance marks belong to the selected vowel nucleus. The
+    // shared Áelendi spelling keeps its existing stress-only vowel rows.
+    if (!AE) {
+        addSinaleVowels(add);
+        return rows;
+    }
 
     // vowels
     const V = {
@@ -164,6 +175,100 @@ export function generateRows(tongue) {
                 }
         }
     return rows;
+}
+
+/**
+ * Sinale vowel spellings, including NFC and decomposed performance notation.
+ * A pair is consumed together so a mark cannot split a long vowel or remove
+ * the carrier from two vowels sounded apart. Diaeresis remains the vowel ë.
+ */
+function addSinaleVowels(add) {
+    const marks = { "\u0302": "rise", "\u030c": "fall", "\u0301": "emphasis" };
+    const deliveries = [
+        "",
+        "\u0302",
+        "\u030c",
+        "\u0301",
+        "\u0302\u0301",
+        "\u030c\u0301",
+        "\u0301\u0302",
+        "\u0301\u030c",
+    ];
+    const vowels = Object.fromEntries(
+        [..."aeiouyë"].map((base) => {
+            const forms = new Map();
+            for (const letter of [base, base.toUpperCase()])
+                for (const delivery of deliveries)
+                    for (const form of [
+                        letter + delivery,
+                        (letter + delivery).normalize("NFC"),
+                        (letter + delivery).normalize("NFD"),
+                    ])
+                        forms.set(
+                            form,
+                            ["rise", "fall", "emphasis"].filter((sign) =>
+                                [...delivery].some((mark) => marks[mark] === sign),
+                            ),
+                        );
+            return [base, [...forms].map(([form, signs]) => ({ form, signs }))];
+        }),
+    );
+    // A trailing standalone mark needs no vowel-specific row. Preserve a
+    // combined pitch-and-emphasis spelling as one row to canonicalize order.
+    const trailingSingle = (form, signs) =>
+        signs.length === 1 && /[\u0301\u0302\u030c]$/u.test(form);
+    for (const [mark, sign] of Object.entries(marks)) add(mark, ch(sign), cm(sign));
+    const write = (from, letters) => {
+        add(from, ch("carrier", ...letters), cm("carrier", ...letters), "at: start");
+        add(from, ch(...letters), cm(...letters));
+    };
+    for (const [base, forms] of Object.entries(vowels))
+        for (const { form, signs } of forms)
+            if (!trailingSingle(form, signs)) write(form, [base, ...signs]);
+    for (const from of ["j", "J"]) write(from, ["y"]);
+    const diphthongs = new Set([
+        "ai",
+        "au",
+        "ia",
+        "eo",
+        "oi",
+        "ou",
+        "ui",
+        "uo",
+        "ei",
+        "ie",
+        "yi",
+        "ye",
+    ]);
+    for (const [first, starts] of Object.entries(vowels))
+        for (const [last, ends] of Object.entries(vowels)) {
+            const long = first === last || (first === "e" && last === "ë");
+            if (!long && diphthongs.has(first + last)) continue;
+            for (const left of starts)
+                for (const right of ends) {
+                    // The shorter pair writes its vowel, then the standalone
+                    // trailing sign. Retain an explicit row when the two
+                    // spellings carry separate signs whose order may change.
+                    if (trailingSingle(right.form, right.signs) && !left.signs.length) continue;
+                    const signs = [...left.signs, ...right.signs];
+                    // A word permits one pitch mark and one emphasis mark;
+                    // a pair must not consume repeated or conflicting signs.
+                    if (
+                        new Set(signs).size !== signs.length ||
+                        (signs.includes("rise") && signs.includes("fall"))
+                    )
+                        continue;
+                    const performance = ["rise", "fall", "emphasis"].filter((sign) =>
+                        signs.includes(sign),
+                    );
+                    write(
+                        left.form + right.form,
+                        long ?
+                            [last, "long", ...performance]
+                        :   [first, ...left.signs, "carrier", last, ...right.signs],
+                    );
+                }
+        }
 }
 
 const ROWS_START = "    rows:\n";
