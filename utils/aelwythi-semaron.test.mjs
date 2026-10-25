@@ -72,7 +72,8 @@ const authoredSamples = samples
 const sampleWorks = authoredSamples
     .map(({ prose, text }) => `> ${prose ? `"${text}"` : text}`)
     .join("\n");
-const passage = authoredSamples.map(({ text }) => text).join("\n");
+// The pause is written `\*` in Markdown source and typed `*`.
+const passage = authoredSamples.map(({ text }) => text.replaceAll("\\*", "*")).join("\n");
 
 test("ordinary Aelwythi source exposes the shared mapping's unsupported characters", () => {
     const old = applyMap(compileMap(shared.fm.data.map), "conquer?").text;
@@ -80,7 +81,7 @@ test("ordinary Aelwythi source exposes the shared mapping's unsupported characte
     assert(missing(old).includes("?"));
     const oldSample = applyMap(
         compileMap(shared.fm.data.map),
-        "Thol aa ii uu ee oo ya thy ch q kàralzon.",
+        "Thol aa ii uu ee oo ya thy ch q kàralzon*",
     ).text;
     assert.deepEqual(
         [...oldSample].map((char) => char.codePointAt(0)),
@@ -93,16 +94,17 @@ test("ordinary Aelwythi source exposes the shared mapping's unsupported characte
     );
 });
 
-test("both Semaron maps reserve the pause point for period", () => {
+test("both Semaron maps reserve the pause point for *", () => {
     for (const value of [shared, own]) {
         const compiled = compileMap(value.fm.data.map);
         const pause = String.fromCodePoint(0xf0268);
         assert.deepEqual(
             compiled.rows.filter((row) => row.to.includes(pause)).map((row) => row.from),
-            ["."],
+            ["*"],
             compiled.name,
         );
-        assert.equal(applyMap(compiled, ".").text, pause);
+        assert.equal(applyMap(compiled, "*").text, pause);
+        assert.equal(applyMap(compiled, ".").text, ".", `${compiled.name}: period`);
         for (const mark of ",;:—–?!¡¿…()[]")
             assert.equal(applyMap(compiled, mark).text, mark, `${compiled.name}: ${mark}`);
     }
@@ -245,7 +247,7 @@ test("Readable graphemes, case, elision and punctuation have usable glyph sequen
         ["aa", [0xf0230, 0xf0230]],
         ["'tis", [0xf0241, 0xf0237, 0xf0240]],
         ["’tis", [0xf0241, 0xf0237, 0xf0240]],
-        ['"I."', [0xf0207, 0xf0268]],
+        ['"I*"', [0xf0207, 0xf0268]],
     ];
     for (const [text, codepoints] of expectations) {
         assert.deepEqual(
@@ -259,7 +261,7 @@ test("Readable graphemes, case, elision and punctuation have usable glyph sequen
 
 test("reviewed sample words stay protected while automatic conversion draws every character", () => {
     assert.equal(
-        hash(sampleWorks.replace(/[.,;:!?]/gu, "")),
+        hash(sampleWorks.replace(/\\\*|[.,;:!?]/gu, "")),
         "11bbf66f5c410e410fb3f7553c1ff1f03151a9530992c28ad5446c4ff9435669",
     );
     const converted = transliterate(ctx, { lang: "aelw", map: map.name }, passage);

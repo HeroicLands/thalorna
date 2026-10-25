@@ -66,6 +66,8 @@ const visible = (html) =>
         .replaceAll("&gt;", ">")
         .replaceAll("&amp;", "&");
 const plain = (text) => text.replace(/\[([^\]]*)\]\{[^}]*\}/g, "$1");
+// The Semaron pause is typed `*` and written `\*` in Markdown source.
+const unpause = (text) => text.replaceAll("\\*", "*");
 const modernWords = (line) =>
     plain(line.replace(/\[\[[^\]\n|]+\|([^\]]*)\]\](?:\{[^}]*\})?/g, "$1"));
 const verseCells = (row) => {
@@ -141,7 +143,7 @@ for (const note of [...works, language]) {
                 assert.equal([...row[1].matchAll(/class="verse-part/g)].length, 3);
                 const [, modernPart, romanPart] = groups[i].parts;
                 const modern = modernWords(modernPart.text);
-                const roman = plain(romanPart.text);
+                const roman = unpause(plain(romanPart.text));
                 const mapped = applyMap(map, roman, { font: "semaron-kuriale", native }).text;
                 const cells = verseCells(row[1]);
                 assert.deepEqual(
@@ -178,7 +180,7 @@ for (const note of [...works, language]) {
             const text = run.kind === "span" ? source.match(/^\[([\s\S]*)\]\{[^}]*\}$/)[1] : source;
             const written = plain(text);
             assert(
-                !/[*_]|<\/?(?:em|strong|b|i|u)\b/i.test(written),
+                !/[*_]|<\/?(?:em|strong|b|i|u)\b/i.test(written.replaceAll("\\*", "")),
                 `${note.file}: non-English passages use words for emphasis`,
             );
             if (run.lang === "aelw") {

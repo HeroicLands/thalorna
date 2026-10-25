@@ -27,11 +27,11 @@ test("each configured language and the drum register own an explicit canonical r
     assert.equal(byAddress.get("skill-nyalbdrm").data.roman, "");
 });
 
-test("Vylari admits only period punctuation and its actual grave-vowel catch", () => {
+test("Vylari admits only the * pause punctuation and its actual grave-vowel catch", () => {
     const roman = byAddress.get(config.languages.vyl.note).data.roman;
     assert.deepEqual(
         Array.from(roman).filter((char) => !/[\p{L}\p{M}\p{N}]/u.test(char)),
-        ["."],
+        ["*"],
     );
     assert(roman.includes("à") && roman.includes("À"));
     for (const mark of "'’‘\"“”«»`,;:—–?!") assert(!roman.includes(mark), mark);
@@ -42,10 +42,10 @@ test("Vylari admits only period punctuation and its actual grave-vowel catch", (
         ...runContext({ ...config, rootDir: process.cwd() }, records),
         wordBooks: new Map(),
     };
-    assert.deepEqual(scanRuns("[Kàralzon à.]{lang=vyl}", ctx).errors, []);
+    assert.deepEqual(scanRuns("[Kàralzon à\\*]{lang=vyl}", ctx).errors, []);
     for (const mark of [",", ";", ":", "'", "’", "“", "”"]) {
         for (const attributes of ["lang=vyl", ".nativefont lang=vyl"]) {
-            const errors = scanRuns(`[Kàralzon${mark} à.]{${attributes}}`, ctx).errors;
+            const errors = scanRuns(`[Kàralzon${mark} à\\*]{${attributes}}`, ctx).errors;
             assert(
                 errors.some((finding) => finding.message.includes("data.roman")),
                 `${attributes}: ${mark}`,

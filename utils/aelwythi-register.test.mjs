@@ -97,11 +97,11 @@ test("the illustrative sample words retain their reviewed form", () => {
         [false, "The wool is shorn the barley bound", "The wool is shorn, the barley bound,"],
         [false, "The last of summer's gold is ground", "The last of summer's gold is ground;"],
         [false, "Fill high the cup and drink it deep", "Fill high the cup, and drink it deep,"],
-        [false, "And name the dead now fast asleep.", "And name the dead, now fast asleep."],
+        [false, "And name the dead now fast asleep\\*", "And name the dead, now fast asleep."],
         [false, "Go softly thou that walkest late", "Go softly, thou that walkest late,"],
         [false, "And leave thine offering at the gate", "And leave thine offering at the gate;"],
         [false, "Who watcheth by the crossing wide", "Who watcheth by the crossing wide"],
-        [false, "Will let the courteous pass beside.", "Will let the courteous pass beside."],
+        [false, "Will let the courteous pass beside\\*", "Will let the courteous pass beside."],
     ];
     const actual = samples
         .split("\n")
@@ -212,7 +212,7 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
         ].reduce((sum, [word]) => sum + (longer.get(word) ?? 1), 0);
         assert.equal(syllables, 8, line);
     }
-    const endWords = lines.map((line) => line.slice(3, -12).match(/([a-z]+)[.;,]?$/i)[1]);
+    const endWords = lines.map((line) => line.slice(3, -12).match(/([a-z]+)(?:\\\*|[.;,])?$/i)[1]);
     for (const [pair, rhyme] of ["ound", "eep", "ate", "ide"].entries()) {
         assert(endWords[pair * 2].endsWith(rhyme));
         assert(endWords[pair * 2 + 1].endsWith(rhyme));
@@ -226,20 +226,20 @@ test("the register leaves pronunciation, the executable map and existing lexical
         "066df2e16173ca2b809ec0744603d0f224dc2ea164785e57009f205d62b6e46c",
     );
     // The preservation hash includes only these enumerated punctuation rows.
-    // The actual map separately admits period as the sole pause input.
+    // The actual map separately admits `*` as the sole pause input.
     const map = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md").map;
     const pause = String.fromCodePoint(0xf0268);
     assert.deepEqual(
         map.rows
             .filter((row) => (Array.isArray(row) ? row[1] : row.to).includes(pause))
             .map((row) => (Array.isArray(row) ? row[0] : row.from)),
-        ["."],
+        ["*"],
     );
     const priorMap = {
         ...map,
         rows: map.rows.flatMap((row) =>
-            row[0] === "." ?
-                [row, ...Array.from(",;:—–?!¡¿…()[]", (mark) => [mark, pause])]
+            row[0] === "*" ?
+                [[".", row[1]], ...Array.from(",;:—–?!¡¿…()[]", (mark) => [mark, pause])]
             :   [row],
         ),
     };
