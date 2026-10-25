@@ -52,12 +52,16 @@ test("Dunhari preserves all original meanings, optional writings and name interp
     );
     const fm = structuredClone(language.fm);
     delete fm.data.words;
+    // The new repertoire is checked independently by roman-inventories.test.mjs.
+    delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
     assert.equal(hash(fm), "4878ec12c1f156520f5ddfc8cd58f5d18ebf7f8553f5652890087973e4bbaabe");
-    const body = splitFrontmatter(language.raw).body.replace(
-        /## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u,
-        "",
-    );
+    const romanNote =
+        "The roman repertoire keeps the straight catch apostrophe in the registered name Tigh'Baharan.";
+    assert.equal(splitFrontmatter(language.raw).body.split(romanNote).length, 2);
+    const body = splitFrontmatter(language.raw)
+        .body.replace(romanNote + "\n\n", "")
+        .replace(/## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u, "");
     assert.equal(hash(body), "c0f66ec2d26a541b519bb80c20f8655b4ad7ac9da9a139c4499d44dcca58adeb");
     const originalData = {
         ...language.fm.data,

@@ -209,9 +209,9 @@ The [[lore-aelendnppl|Áelendan People]] hold the lament as a gift to an embassy
 2 [A path over the pass; a path from the lake.]{lang=en}
 2 [Leësy aldesseho leësy vainessatos]{lang=sina}
 
-1 [.\[…\]]{lang=sina}
-2 [.\[…\]]{lang=en}
-2 [.\[…\]]{lang=sina}
+1 [.\[…\]]{lang=zxx}
+2 [.\[…\]]{lang=zxx}
+2 [.\[…\]]{lang=zxx}
 
 1 [Korpe leësy sipes molluho]{.nativefont lang=sina}
 2 [Two paths turned at the pool.]{lang=en}

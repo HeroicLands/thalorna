@@ -24,8 +24,8 @@ concurrency:
     cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 env:
-    # https://github.com/HeroicLands/fonts/commit/09105539276be8ce57b543718a906390df313685
-    FONTS_REVISION: 09105539276be8ce57b543718a906390df313685
+    # https://github.com/HeroicLands/fonts/commit/3ec43cd207ba13072a0806421a2a62efb7aabca6
+    FONTS_REVISION: 3ec43cd207ba13072a0806421a2a62efb7aabca6
 
 jobs:
     format:

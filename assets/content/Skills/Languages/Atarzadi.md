@@ -6,6 +6,7 @@ subType: language
 description: "The harsh, long-voweled tongue of the Atarzád, a Desert-family cousin of Dunhari."
 tags: []
 data:
+  roman: "abdeghiklmnoqrstuyzABDEGHIKLMNOQRSTUYZáéíóúëÁÉÍÓÚË0123456789.,·-"
   core: true
   abbreviation: Atz.
   writtenIn: {map: qalezu, font: qalezu-hand}

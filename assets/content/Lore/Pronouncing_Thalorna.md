@@ -395,11 +395,11 @@ In common spelling a word carries at most one mark, and a mark appears for one o
 - An **acute** (_á_) marks a stressed syllable that the rule above would not choose. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
 - A **diaeresis** (_ë_) marks a vowel sounded apart from the vowel before it, as in _Zoë_.
 
-No other mark is used in common spelling; Sinale may also annotate pitch and emphasis.
+No other mark is used in common spelling; Sinale may also annotate pitch and emphasis. Vylari has the lexical grave-vowel exception below.
 
 ### The apostrophe
 
-An apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mark and does not count against the limit of one. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch.[^catch] A word carries at most two.
+Outside Vylari, an apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mark and does not count against the limit of one. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch.[^catch] A word carries at most two.
 
 ### What is not written
 
@@ -477,7 +477,13 @@ rewrites spelling, while this section and the word's lexical reading determine
 pronunciation. In particular, its treatment of _c_, _x_ and _qu_ is not an
 algorithm for recovering every word's sounds. A dictionary native form records
 an exceptional script spelling and takes precedence automatically. The roman
-source keeps its ordinary words and punctuation.
+source keeps its ordinary words. Its language inventory permits period as the
+sole pause, while possessive apostrophes and word-joining hyphens keep their
+own roles. Direct speech uses no quotation marks.
+
+## Vylari
+
+[[skill-vylarilng|Vylari]] writes the catch with a precomposed grave vowel: _à_. In ancient _kàralzon_ and _kàrthorgila_ it marks the catch after the preceding _k_; in the Alessa article _à_ it marks the catch after _a_. It adds no vowel or syllable and has no quotation role. An ordinary apostrophe is not a Vylari spelling. The period is Vylari's only punctuation.
 
 ## Ekpelu
 

@@ -6,6 +6,7 @@ subType: language
 description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms, bending its vowels with every fjord."
 tags: []
 data:
+  roman: "abdefghijklmnoprstuvyzABDEFGHIJKLMNOPRSTUVYZáéíóúÁÉÍÓÚ0123456789.-"
   core: true
   abbreviation: Nord.
   writtenIn: {map: thuravark, font: thuravark-carved}

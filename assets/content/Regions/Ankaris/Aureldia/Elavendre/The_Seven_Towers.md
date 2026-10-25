@@ -277,9 +277,9 @@ The bards mark the break as a silence, and keep the last line where it stops.
 
 ***
 
-1 [....·   ·   ·]{lang=sina}
-2 [....·   ·   ·]{lang=en}
-2 [....·   ·   ·]{lang=sina}
+1 [....·   ·   ·]{lang=zxx}
+2 [....·   ·   ·]{lang=zxx}
+2 [....·   ·   ·]{lang=zxx}
 
 ***
 
@@ -321,9 +321,9 @@ The bards mark the break as a silence, and keep the last line where it stops.
 2 [It was finer than every made thing,]{lang=en}
 2 [Launel onsa ummes ilnavatos]{lang=sina}
 
-1 [.Onsa ellevi vennas ehii evi ehii]{.nativefont lang=sina}[—]{lang=en}
+1 [.Onsa ellevi vennas ehii evi ehii]{.nativefont lang=sina}[—]{lang=zxx}
 2 [.and we were its guests, and we—]{lang=en}
-2 [.Onsa ellevi vennas ehii evi ehii]{lang=sina}[—]{lang=en}
+2 [.Onsa ellevi vennas ehii evi ehii]{lang=sina}[—]{lang=zxx}
 ```
 
 ## See Also

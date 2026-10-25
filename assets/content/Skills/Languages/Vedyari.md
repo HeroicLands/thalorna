@@ -6,6 +6,7 @@ subType: language
 description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
 tags: []
 data:
+  roman: "abcdefghijklmnoprstuvyABCDEFGHIJKLMNOPRSTUVYáéíóúëÁÉÍÓÚË0123456789.,-'"
   core: true
   abbreviation: Ved.
   fields:
@@ -5009,7 +5010,7 @@ data:
       gloss: marks a yes-or-no question at the end of an utterance
       concept: question-polar
       source: {kind: coined}
-    - form: kevu?
+    - form: "kevu."
       class: call
       field: Speech, learning and the written word
       gloss: What?; Pardon?; a request to repeat or clarify what was just said
@@ -5818,7 +5819,7 @@ data:
       gloss: accidental; happening without intention
       concept: accidental
       source: {kind: coined}
-    - form: Agarana dulipati, vandikana
+    - form: "Agarana dulipati, vandikana"
       class: call
       field: Speech, learning and the written word
       gloss: a formal greeting of respect to an elder; honored elder, I show respect
@@ -5858,7 +5859,7 @@ data:
       concept: expression-youre-welcome
       built: [pratnu, uvas, nyakun, orsa]
       source: {kind: coined}
-    - form: nimbra shem, mo jahnuk
+    - form: "nimbra shem, mo jahnuk"
       class: call
       field: Speech, learning and the written word
       gloss: excuse me; a polite request for attention or leave to ask
@@ -5928,7 +5929,7 @@ data:
       concept: expression-stop
       built: [nu, brondu]
       source: {kind: coined}
-    - form: vramul!
+    - form: "vramul."
       class: call
       field: Speech, learning and the written word
       gloss: again; a request to repeat the action or words
@@ -5949,28 +5950,28 @@ data:
       concept: expression-i-do-not-understand
       built: [mo, uvas, jnenru]
       source: {kind: coined}
-    - form: nu ro shaltun kevu orsa?
+    - form: "nu ro shaltun kevu orsa."
       class: call
       field: Speech, learning and the written word
       gloss: what do you mean; what is your intended meaning
       concept: expression-what-do-you-mean
       built: [nu, ro, shaltun, kevu, orsa]
       source: {kind: coined}
-    - form: nu ehu vedyari bhe kevu pantra shem lampu?
+    - form: "nu ehu vedyari bhe kevu pantra shem lampu."
       class: call
       field: Speech, learning and the written word
       gloss: how do you say this in Vedyari; asking for the expression in the tongue
       concept: expression-how-do-you-say
       built: [nu, ehu, vedyari, bhe, kevu, pantra, shem, lampu]
       source: {kind: coined}
-    - form: ehu ro tirma kevu orsa?
+    - form: "ehu ro tirma kevu orsa."
       class: call
       field: Speech, learning and the written word
       gloss: what is this called; what is the name of this
       concept: expression-what-is-this-called
       built: [ehu, ro, tirma, kevu, orsa]
       source: {kind: coined}
-    - form: ehu sotyak orsa su?
+    - form: "ehu sotyak orsa su."
       class: call
       field: Speech, learning and the written word
       gloss: really; is this true, asking for confirmation or expressing surprise

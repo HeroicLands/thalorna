@@ -68,14 +68,18 @@ test("Khelathi preserves all original meanings, optional writings and name inter
     );
     const fm = structuredClone(language.fm);
     delete fm.data.words;
+    // The new repertoire is checked independently by roman-inventories.test.mjs.
+    delete fm.data.roman;
     for (const key of ["affixes", "register"])
         fm.data[key] = fm.data[key].slice(0, beforeLiterature.data[key].length);
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
     assert.equal(hash(fm), "ad9d903596d6c43ffbf97f9e20002b4b4262827f95f677d3fcdecdc0e51c6a8b");
-    const body = splitFrontmatter(language.raw).body.replace(
-        /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
-        "",
-    );
+    const romanNote =
+        "The roman inventory includes `j` and `J` for established place names such as Gar-Medjatozo, alongside the ordinary word sounds.";
+    assert.equal(splitFrontmatter(language.raw).body.split(romanNote).length, 2);
+    const body = splitFrontmatter(language.raw)
+        .body.replace(romanNote + "\n\n", "")
+        .replace(/## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u, "");
     assert.equal(hash(body), "d65548d88e0876d03ec3e184bf1761eadf2c6332679ff7ed7e57cef89cb8ff54");
     const originalTagBindings = [
         ["Halzi", "heart"],

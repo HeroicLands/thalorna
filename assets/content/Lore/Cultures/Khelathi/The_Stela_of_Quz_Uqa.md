@@ -496,345 +496,345 @@ _Phonetic transcription (unpointed plain-letter Khelathi; no sacred-hand glyphs 
 2 [Wanel mazret elu naru mazret elu qernet]{lang=khel}
 
 ***
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Ezu qernet tuzar Qelzat qedlar elu galar elu nelgir qu khumar ezu Khelathi-zethu Wanel eqar thalmu lazret elu thalmu mer qu\]]{lang=khel}_
+1 _\[[Ezu qernet tuzar Qelzat qedlar elu galar elu nelgir qu khumar ezu Khelathi-zethu Wanel eqar thalmu lazret elu thalmu mer qu]{lang=khel}\]_
 2 [_\[In the fourth row, cut deep in the sacred hand by a temple cutter, the oldest of the later hands:\]_]{lang=en}
-2 _[\[Ezu qernet tuzar Qelzat qedlar elu galar elu nelgir qu khumar ezu Khelathi-zethu Wanel eqar thalmu lazret elu thalmu mer qu\]]{lang=khel}_
+2 _\[[Ezu qernet tuzar Qelzat qedlar elu galar elu nelgir qu khumar ezu Khelathi-zethu Wanel eqar thalmu lazret elu thalmu mer qu]{lang=khel}\]_
 
 1 [Gahser ez Iku]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [Gahser ez Iku]{.name data-type="being/npc" lang=khel}[. Descended westward on this ground.]{lang=en}
 2 [Gahser ez Iku]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Ezu qernet 17 Qelzat genar qu khez khumar ezu thalmu elu lagun\]]{lang=khel}_
+1 _\[[Ezu qernet 17 Qelzat genar qu khez khumar ezu thalmu elu lagun]{lang=khel}\]_
 2 [_\[In the seventeenth row, cut shallow, in a hand used to wood:\]_]{lang=en}
-2 _[\[Ezu qernet 17 Qelzat genar qu khez khumar ezu thalmu elu lagun\]]{lang=khel}_
+2 _\[[Ezu qernet 17 Qelzat genar qu khez khumar ezu thalmu elu lagun]{lang=khel}\]_
 
 1 [Inhagi ez Gau]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [Inhagi ez Gau]{.name data-type="being/npc" lang=khel}[. Descended westward on this ground.]{lang=en}
 2 [Inhagi ez Gau]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Yarath qernet khul nyar qedlar\]]{lang=khel}_
+1 _\[[Yarath qernet khul nyar qedlar]{lang=khel}\]_
 2 [_\[Two rows flaked away.\]_]{lang=en}
-2 _[\[Yarath qernet khul nyar qedlar\]]{lang=khel}_
+2 _\[[Yarath qernet khul nyar qedlar]{lang=khel}\]_
 
 2 _\[…\]_
 
 2 _\[…\]_
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Ezu qernet 37 Ezu Khelathi-zethu qemath qezathil Khez yalath qu ez telnet elu garel\]]{lang=khel}_
+1 _\[[Ezu qernet 37 Ezu Khelathi-zethu qemath qezathil Khez yalath qu ez telnet elu garel]{lang=khel}\]_
 2 [_\[In the thirty-seventh row, in a fine small sacred hand that does not reach the edge of the space:\]_]{lang=en}
-2 _[\[Ezu qernet 37 Ezu Khelathi-zethu qemath qezathil Khez yalath qu ez telnet elu garel\]]{lang=khel}_
+2 _\[[Ezu qernet 37 Ezu Khelathi-zethu qemath qezathil Khez yalath qu ez telnet elu garel]{lang=khel}\]_
 
 1 [Zapse ez Chegu]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [Zapse ez Chegu]{.name data-type="being/npc" lang=khel}[. Descended westward on this ground.]{lang=en}
 2 [Zapse ez Chegu]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Ezu qernet 51 Qelzat qedlarar qu thazet ta khumar zar telnet elu garel ta ezu qernet nizar\]]{lang=khel}_
+1 _\[[Ezu qernet 51 Qelzat qedlarar qu thazet ta khumar zar telnet elu garel ta ezu qernet nizar]{lang=khel}\]_
 2 [_\[In the fifty-first row, cut large and deep by a quarryman's hand, over the edge of the space and into the row beneath:\]_]{lang=en}
-2 _[\[Ezu qernet 51 Qelzat qedlarar qu thazet ta khumar zar telnet elu garel ta ezu qernet nizar\]]{lang=khel}_
+2 _\[[Ezu qernet 51 Qelzat qedlarar qu thazet ta khumar zar telnet elu garel ta ezu qernet nizar]{lang=khel}\]_
 
 1 [Amruzi ez Zel-Qar]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [Amruzi ez Zel-Qar]{.name data-type="being/npc" lang=khel}[. Descended westward on this ground.]{lang=en}
 2 [Amruzi ez Zel-Qar]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Qelthat telnet elu rethan zar garel eqar\]_ ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 _\[[Qelthat telnet elu rethan zar garel eqar]{lang=khel}\]_ [ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [_\[The end of the name above fills this space.\]_ ez ———. Descended westward on this ground.]{lang=en}
-2 _[\[Qelthat telnet elu rethan zar garel eqar\]_ ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 _\[[Qelthat telnet elu rethan zar garel eqar]{lang=khel}\]_ [ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 _[\[Ezu qernet 63 Qelzat genar qu ezu Qalezu qer elu qezmin Wanel eqar nevar tazir shar thalmu temun\]]{lang=khel}_
+1 _\[[Ezu qernet 63 Qelzat genar qu ezu Qalezu qer elu qezmin Wanel eqar nevar tazir shar thalmu temun]{lang=khel}\]_
 2 [_\[In the sixty-third row, scratched in [[skill-qalzscrscrpt|Qalezu]] with a point, the newest:\]_]{lang=en}
-2 _[\[Ezu qernet 63 Qelzat genar qu ezu Qalezu qer elu qezmin Wanel eqar nevar tazir shar thalmu temun\]]{lang=khel}_
+2 _\[[Ezu qernet 63 Qelzat genar qu ezu Qalezu qer elu qezmin Wanel eqar nevar tazir shar thalmu temun]{lang=khel}\]_
 
 1 [Lefta ez Iqeru]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [Lefta ez Iqeru]{.name data-type="being/npc" lang=khel}[. Descended westward on this ground.]{lang=en}
 2 [Lefta ez Iqeru]{.name data-type="being/npc" lang=khel}[ Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 2 [——— ez ———. Descended westward on this ground.]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar az gharen eqar]{lang=khel}
 
-1 [——— ez ——— Yarul saru nizar ez ithnar […]]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar [\[…\]]{lang=zxx}]{lang=khel}
 2 [——— ez ———. Descended westward […]]{lang=en}
-2 [——— ez ——— Yarul saru nizar ez ithnar […]]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} Yarul saru nizar ez ithnar [\[…\]]{lang=zxx}]{lang=khel}
 
-1 [——— ez […]]{lang=khel}
+1 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [\[…\]]{lang=zxx}]{lang=khel}
 2 [——— ez […]]{lang=en}
-2 [——— ez […]]{lang=khel}
+2 [[—]{lang=zxx}[—]{lang=zxx}[—]{lang=zxx} ez [\[…\]]{lang=zxx}]{lang=khel}
 
-1 _[\[Yarul qernet ezu qethmal zun Thalal naru nizar gharen\]]{lang=khel}_
+1 _\[[Yarul qernet ezu qethmal zun Thalal naru nizar gharen]{lang=khel}\]_
 2 [_\[The rows go into the silt here. They go on below the ground.\]_]{lang=en}
-2 _[\[Yarul qernet ezu qethmal zun Thalal naru nizar gharen\]]{lang=khel}_
+2 _\[[Yarul qernet ezu qethmal zun Thalal naru nizar gharen]{lang=khel}\]_
 
 ***
 1 [_\[On the right edge of the stone, where it is a cubit thick, in the hand that cut the rows:\]_]{lang=en}

@@ -32,9 +32,9 @@ The poem is in common metre, rhymed ABCB.
 : The Ballad {#ballad}
 
 ```verse {form=ballad numstep=5 cols=2}
-1 [Young Edwald was a drover's lad,]{.nativefont lang=aelw}
+1 [Young Edwald was a drover's lad]{.nativefont lang=aelw}
 2 [Young Edwald was a drover's lad,]{lang=en}
-2 [Young Edwald was a drover's lad,]{lang=aelw}
+2 [Young Edwald was a drover's lad]{lang=aelw}
 
 1 [His master's kine he drove]{.nativefont lang=aelw}
 2 [He drove his master's cattle]{lang=en}
@@ -50,17 +50,17 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [The fog came up out of the low ground,]{.nativefont lang=aelw}
+1 [The fog came up out of the low ground]{.nativefont lang=aelw}
 2 [The fog came up out of the low ground,]{lang=en}
-2 [The fog came up out of the low ground,]{lang=aelw}
+2 [The fog came up out of the low ground]{lang=aelw}
 
-1 [As ever from the west;]{.nativefont lang=aelw}
+1 [As ever from the west.]{.nativefont lang=aelw}
 2 [As always from the west;]{lang=en}
-2 [As ever from the west;]{lang=aelw}
+2 [As ever from the west.]{lang=aelw}
 
-1 [He could not see the foremost beast,]{.nativefont lang=aelw}
+1 [He could not see the foremost beast]{.nativefont lang=aelw}
 2 [He could not see the foremost beast,]{lang=en}
-2 [He could not see the foremost beast,]{lang=aelw}
+2 [He could not see the foremost beast]{lang=aelw}
 
 1 [Nor his hand upon his breast.]{.nativefont lang=aelw}
 2 [Or his hand against his chest.]{lang=en}
@@ -68,13 +68,13 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [And then his foot was on a stone,]{.nativefont lang=aelw}
+1 [And then his foot was on a stone]{.nativefont lang=aelw}
 2 [And then his foot was on a stone,]{lang=en}
-2 [And then his foot was on a stone,]{lang=aelw}
+2 [And then his foot was on a stone]{lang=aelw}
 
-1 [And on a stone again,]{.nativefont lang=aelw}
+1 [And on a stone again]{.nativefont lang=aelw}
 2 [And on a stone again,]{lang=en}
-2 [And on a stone again,]{lang=aelw}
+2 [And on a stone again]{lang=aelw}
 
 1 [Fitted so close a knife's thin blade]{.nativefont lang=aelw}
 2 [Fitted so closely that a knife's thin blade]{lang=en}
@@ -86,35 +86,35 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [It was the old road, the crown road,]{.nativefont lang=aelw}
+1 [It was the old road the crown road]{.nativefont lang=aelw}
 2 [It was the old road, the crown road,]{lang=en}
-2 [It was the old road, the crown road,]{lang=aelw}
+2 [It was the old road the crown road]{lang=aelw}
 
-1 [That runneth where none should,]{.nativefont lang=aelw}
+1 [That runneth where none should]{.nativefont lang=aelw}
 2 [That runs where no road should,]{lang=en}
-2 [That runneth where none should,]{lang=aelw}
+2 [That runneth where none should]{lang=aelw}
 
-1 [And on each hand an oak-tree stood,]{.nativefont lang=aelw}
+1 [And on each hand an oak-tree stood]{.nativefont lang=aelw}
 2 [And an oak-tree stood on each side,]{lang=en}
-2 [And on each hand an oak-tree stood,]{lang=aelw}
+2 [And on each hand an oak-tree stood]{lang=aelw}
 
-1 [And oak, and oak, and wood.]{.nativefont lang=aelw}
+1 [And oak and oak and wood.]{.nativefont lang=aelw}
 2 [And oak, and oak, and wood.]{lang=en}
-2 [And oak, and oak, and wood.]{lang=aelw}
+2 [And oak and oak and wood.]{lang=aelw}
 
 ***
 
-1 [His grandsire told the little lad,]{.nativefont lang=aelw}
+1 [His grandsire told the little lad]{.nativefont lang=aelw}
 2 [When he was little, his grandfather told him,]{lang=en}
-2 [His grandsire told the little lad,]{lang=aelw}
+2 [His grandsire told the little lad]{lang=aelw}
 
-1 [Take not the crown road south,]{.nativefont lang=aelw}
+1 [Take not the crown road south]{.nativefont lang=aelw}
 2 [Do not take the crown road south,]{lang=en}
-2 [Take not the crown road south,]{lang=aelw}
+2 [Take not the crown road south]{lang=aelw}
 
-1 [For where it goeth none can say,]{.nativefont lang=aelw}
+1 [For where it goeth none can say]{.nativefont lang=aelw}
 2 [For no one can say where it goes,]{lang=en}
-2 [For where it goeth none can say,]{lang=aelw}
+2 [For where it goeth none can say]{lang=aelw}
 
 1 [And it hath a stopped mouth.]{.nativefont lang=aelw}
 2 [And its mouth is blocked.]{lang=en}
@@ -122,13 +122,13 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [But the fog was thick, and the stone was sure,]{.nativefont lang=aelw}
+1 [But the fog was thick and the stone was sure]{.nativefont lang=aelw}
 2 [But the fog was thick, and the stone underfoot was firm,]{lang=en}
-2 [But the fog was thick, and the stone was sure,]{lang=aelw}
+2 [But the fog was thick and the stone was sure]{lang=aelw}
 
-1 [And the kine went quiet and slow,]{.nativefont lang=aelw}
+1 [And the kine went quiet and slow]{.nativefont lang=aelw}
 2 [And the cattle moved quietly and slowly,]{lang=en}
-2 [And the kine went quiet and slow,]{lang=aelw}
+2 [And the kine went quiet and slow]{lang=aelw}
 
 1 [As quiet as kine at milking]{.nativefont lang=aelw}
 2 [As quiet as cattle being milked]{lang=en}
@@ -140,13 +140,13 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [He drove them all the long day on,]{.nativefont lang=aelw}
+1 [He drove them all the long day on]{.nativefont lang=aelw}
 2 [He drove them on through the whole long day,]{lang=en}
-2 [He drove them all the long day on,]{lang=aelw}
+2 [He drove them all the long day on]{lang=aelw}
 
-1 [The oaks on either hand,]{.nativefont lang=aelw}
+1 [The oaks on either hand]{.nativefont lang=aelw}
 2 [With oaks on both sides,]{lang=en}
-2 [The oaks on either hand,]{lang=aelw}
+2 [The oaks on either hand]{lang=aelw}
 
 1 [And every one was older than]{.nativefont lang=aelw}
 2 [And every one was older than]{lang=en}
@@ -162,9 +162,9 @@ The poem is in common metre, rhymed ABCB.
 2 [And when the fog began to lift]{lang=en}
 2 [And when the fog began to lift]{lang=aelw}
 
-1 [The light was going grey,]{.nativefont lang=aelw}
+1 [The light was going grey]{.nativefont lang=aelw}
 2 [The light was going grey,]{lang=en}
-2 [The light was going grey,]{lang=aelw}
+2 [The light was going grey]{lang=aelw}
 
 1 [And there before him was a bank]{.nativefont lang=aelw}
 2 [And there before him was a bank]{lang=en}
@@ -176,21 +176,21 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [There was no gate, there was no stile,]{.nativefont lang=aelw}
+1 [There was no gate there was no stile]{.nativefont lang=aelw}
 2 [There was no gate, there was no stile,]{lang=en}
-2 [There was no gate, there was no stile,]{lang=aelw}
+2 [There was no gate there was no stile]{lang=aelw}
 
-1 [There was no stone set by;]{.nativefont lang=aelw}
+1 [There was no stone set by.]{.nativefont lang=aelw}
 2 [There was no stone set beside it;]{lang=en}
-2 [There was no stone set by;]{lang=aelw}
+2 [There was no stone set by.]{lang=aelw}
 
 1 [The road ran up unto the oaks]{.nativefont lang=aelw}
 2 [The road ran up to the oaks]{lang=en}
 2 [The road ran up unto the oaks]{lang=aelw}
 
-1 [And stopped, as a man might die.]{.nativefont lang=aelw}
+1 [And stopped as a man might die.]{.nativefont lang=aelw}
 2 [And stopped, as a man might die.]{lang=en}
-2 [And stopped, as a man might die.]{lang=aelw}
+2 [And stopped as a man might die.]{lang=aelw}
 
 ***
 
@@ -198,13 +198,13 @@ The poem is in common metre, rhymed ABCB.
 2 [And in among the oak-trees stood]{lang=en}
 2 [And in among the oak-trees stood]{lang=aelw}
 
-1 [A tall one, still and grey;]{.nativefont lang=aelw}
+1 [A tall one still and grey.]{.nativefont lang=aelw}
 2 [A tall one, still and grey;]{lang=en}
-2 [A tall one, still and grey;]{lang=aelw}
+2 [A tall one still and grey.]{lang=aelw}
 
-1 [He looked on Edwald and his kine,]{.nativefont lang=aelw}
+1 [He looked on Edwald and his kine]{.nativefont lang=aelw}
 2 [He looked at Edwald and his cattle,]{lang=en}
-2 [He looked on Edwald and his kine,]{lang=aelw}
+2 [He looked on Edwald and his kine]{lang=aelw}
 
 1 [And naught would he then say.]{.nativefont lang=aelw}
 2 [And he would say nothing.]{lang=en}
@@ -212,17 +212,17 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [Then Edwald took his cap in hand,]{.nativefont lang=aelw}
+1 [Then Edwald took his cap in hand]{.nativefont lang=aelw}
 2 [Then Edwald took his cap in hand,]{lang=en}
-2 [Then Edwald took his cap in hand,]{lang=aelw}
+2 [Then Edwald took his cap in hand]{lang=aelw}
 
-1 [For he was taught it so:]{.nativefont lang=aelw}
+1 [For he was taught it so.]{.nativefont lang=aelw}
 2 [Because that was what he had been taught:]{lang=en}
-2 [For he was taught it so:]{lang=aelw}
+2 [For he was taught it so.]{lang=aelw}
 
-1 [Good even, sir, who laid this road?]{.nativefont lang=aelw}
+1 [Good even sir who laid this road.]{.nativefont lang=aelw}
 2 [Good evening, sir, who laid this road?]{lang=en}
-2 [Good even, sir, who laid this road?]{lang=aelw}
+2 [Good even sir who laid this road.]{lang=aelw}
 
 1 [For I would gladly know.]{.nativefont lang=aelw}
 2 [I would be glad to know.]{lang=en}
@@ -230,17 +230,17 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [The tall one looked upon the road,]{.nativefont lang=aelw}
+1 [The tall one looked upon the road]{.nativefont lang=aelw}
 2 [The tall one looked upon the road,]{lang=en}
-2 [The tall one looked upon the road,]{lang=aelw}
+2 [The tall one looked upon the road]{lang=aelw}
 
-1 [And looked upon the kine,]{.nativefont lang=aelw}
+1 [And looked upon the kine]{.nativefont lang=aelw}
 2 [And looked upon the cattle,]{lang=en}
-2 [And looked upon the kine,]{lang=aelw}
+2 [And looked upon the kine]{lang=aelw}
 
-1 [And answered not a word to him,]{.nativefont lang=aelw}
+1 [And answered not a word to him]{.nativefont lang=aelw}
 2 [And said nothing in reply,]{lang=en}
-2 [And answered not a word to him,]{lang=aelw}
+2 [And answered not a word to him]{lang=aelw}
 
 1 [Nor gave him any sign.]{.nativefont lang=aelw}
 2 [And gave him no sign.]{lang=en}
@@ -248,35 +248,35 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [Then Edwald said, Good sir, good sir,]{.nativefont lang=aelw}
+1 [Then Edwald said Good sir good sir]{.nativefont lang=aelw}
 2 [Then Edwald said, Good sir, good sir,]{lang=en}
-2 [Then Edwald said, Good sir, good sir,]{lang=aelw}
+2 [Then Edwald said Good sir good sir]{lang=aelw}
 
 1 [I ask of thee no more]{.nativefont lang=aelw}
 2 [I ask only this:]{lang=en}
 2 [I ask of thee no more]{lang=aelw}
 
-1 [But whither goeth this old road,]{.nativefont lang=aelw}
+1 [But whither goeth this old road]{.nativefont lang=aelw}
 2 [Where does this old road go,]{lang=en}
-2 [But whither goeth this old road,]{lang=aelw}
+2 [But whither goeth this old road]{lang=aelw}
 
-1 [That stoppeth at thy door?]{.nativefont lang=aelw}
+1 [That stoppeth at thy door.]{.nativefont lang=aelw}
 2 [The one that stops at your door?]{lang=en}
-2 [That stoppeth at thy door?]{lang=aelw}
+2 [That stoppeth at thy door.]{lang=aelw}
 
 ***
 
-1 [The tall one looked back up the road,]{.nativefont lang=aelw}
+1 [The tall one looked back up the road]{.nativefont lang=aelw}
 2 [The tall one looked back up the road,]{lang=en}
-2 [The tall one looked back up the road,]{lang=aelw}
+2 [The tall one looked back up the road]{lang=aelw}
 
-1 [Back to the north and west,]{.nativefont lang=aelw}
+1 [Back to the north and west]{.nativefont lang=aelw}
 2 [Back to the north and west,]{lang=en}
-2 [Back to the north and west,]{lang=aelw}
+2 [Back to the north and west]{lang=aelw}
 
-1 [Where three hills standen in the grass,]{.nativefont lang=aelw}
+1 [Where three hills standen in the grass]{.nativefont lang=aelw}
 2 [Where three hills stand in the grass,]{lang=en}
-2 [Where three hills standen in the grass,]{lang=aelw}
+2 [Where three hills standen in the grass]{lang=aelw}
 
 1 [And the sun goeth down to rest.]{.nativefont lang=aelw}
 2 [And the sun goes down to rest.]{lang=en}
@@ -288,13 +288,13 @@ The poem is in common metre, rhymed ABCB.
 2 [Then Edwald was a bolder lad]{lang=en}
 2 [Then Edwald was a bolder lad]{lang=aelw}
 
-1 [Than wise men haven been:]{.nativefont lang=aelw}
+1 [Than wise men haven been.]{.nativefont lang=aelw}
 2 [Than wise men have been:]{lang=en}
-2 [Than wise men haven been:]{lang=aelw}
+2 [Than wise men haven been.]{lang=aelw}
 
-1 [Then tell me why the road is stopped,]{.nativefont lang=aelw}
+1 [Then tell me why the road is stopped]{.nativefont lang=aelw}
 2 [Then tell me why the road is blocked,]{lang=en}
-2 [Then tell me why the road is stopped,]{lang=aelw}
+2 [Then tell me why the road is stopped]{lang=aelw}
 
 1 [And what the oaks may mean.]{.nativefont lang=aelw}
 2 [And what the oaks may mean.]{lang=en}
@@ -306,13 +306,13 @@ The poem is in common metre, rhymed ABCB.
 2 [And at that word the oaks closed]{lang=en}
 2 [And at the word the oaks were shut]{lang=aelw}
 
-1 [As a door is shut at night,]{.nativefont lang=aelw}
+1 [As a door is shut at night]{.nativefont lang=aelw}
 2 [As a door is shut at night,]{lang=en}
-2 [As a door is shut at night,]{lang=aelw}
+2 [As a door is shut at night]{lang=aelw}
 
-1 [And the fog came down upon the road,]{.nativefont lang=aelw}
+1 [And the fog came down upon the road]{.nativefont lang=aelw}
 2 [And the fog came down upon the road,]{lang=en}
-2 [And the fog came down upon the road,]{lang=aelw}
+2 [And the fog came down upon the road]{lang=aelw}
 
 1 [And Edwald lost his sight.]{.nativefont lang=aelw}
 2 [And Edwald lost his sight.]{lang=en}
@@ -324,13 +324,13 @@ The poem is in common metre, rhymed ABCB.
 2 [He woke upon the highland grass]{lang=en}
 2 [He woke upon the highland grass]{lang=aelw}
 
-1 [Beneath three hills of stone,]{.nativefont lang=aelw}
+1 [Beneath three hills of stone]{.nativefont lang=aelw}
 2 [Beneath three hills of stone,]{lang=en}
-2 [Beneath three hills of stone,]{lang=aelw}
+2 [Beneath three hills of stone]{lang=aelw}
 
-1 [And all his master's kine were there,]{.nativefont lang=aelw}
+1 [And all his master's kine were there]{.nativefont lang=aelw}
 2 [And all his master's cattle were there,]{lang=en}
-2 [And all his master's kine were there,]{lang=aelw}
+2 [And all his master's kine were there]{lang=aelw}
 
 1 [And grazing every one.]{.nativefont lang=aelw}
 2 [And every one of them was grazing.]{lang=en}
@@ -338,17 +338,17 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [There was no oak, there was no road,]{.nativefont lang=aelw}
+1 [There was no oak there was no road]{.nativefont lang=aelw}
 2 [There was no oak, there was no road,]{lang=en}
-2 [There was no oak, there was no road,]{lang=aelw}
+2 [There was no oak there was no road]{lang=aelw}
 
-1 [There was no bank of trees,]{.nativefont lang=aelw}
+1 [There was no bank of trees]{.nativefont lang=aelw}
 2 [There was no bank of trees,]{lang=en}
-2 [There was no bank of trees,]{lang=aelw}
+2 [There was no bank of trees]{lang=aelw}
 
-1 [But a ring of grass more green than grass,]{.nativefont lang=aelw}
+1 [But a ring of grass more green than grass]{.nativefont lang=aelw}
 2 [But a ring of grass more green than grass,]{lang=en}
-2 [But a ring of grass more green than grass,]{lang=aelw}
+2 [But a ring of grass more green than grass]{lang=aelw}
 
 1 [That came up to his knees.]{.nativefont lang=aelw}
 2 [That came up to his knees.]{lang=en}
@@ -360,17 +360,17 @@ The poem is in common metre, rhymed ABCB.
 2 [And not a beast of all his cattle]{lang=en}
 2 [And not a beast of all his kine]{lang=aelw}
 
-1 [Would set her foot thereon;]{.nativefont lang=aelw}
+1 [Would set her foot thereon.]{.nativefont lang=aelw}
 2 [Would set her foot on it;]{lang=en}
-2 [Would set her foot thereon;]{lang=aelw}
+2 [Would set her foot thereon.]{lang=aelw}
 
-1 [They grazed around it as they went,]{.nativefont lang=aelw}
+1 [They grazed around it as they went]{.nativefont lang=aelw}
 2 [They grazed around it as they went,]{lang=en}
-2 [They grazed around it as they went,]{lang=aelw}
+2 [They grazed around it as they went]{lang=aelw}
 
-1 [And left it, and were gone.]{.nativefont lang=aelw}
+1 [And left it and were gone.]{.nativefont lang=aelw}
 2 [And left it, and were gone.]{lang=en}
-2 [And left it, and were gone.]{lang=aelw}
+2 [And left it and were gone.]{lang=aelw}
 
 ***
 
@@ -378,31 +378,31 @@ The poem is in common metre, rhymed ABCB.
 2 [He came home by the common road]{lang=en}
 2 [He came home by the common road]{lang=aelw}
 
-1 [A sennight past his day;]{.nativefont lang=aelw}
+1 [A sennight past his day.]{.nativefont lang=aelw}
 2 [A week after he was due;]{lang=en}
-2 [A sennight past his day;]{lang=aelw}
+2 [A sennight past his day.]{lang=aelw}
 
-1 [His grandsire met him at the gate:]{.nativefont lang=aelw}
+1 [His grandsire met him at the gate.]{.nativefont lang=aelw}
 2 [His grandfather met him at the gate:]{lang=en}
-2 [His grandsire met him at the gate:]{lang=aelw}
+2 [His grandsire met him at the gate.]{lang=aelw}
 
-1 [Where hast thou been? Now say.]{.nativefont lang=aelw}
+1 [Where hast thou been. Now say.]{.nativefont lang=aelw}
 2 [Where have you been? Tell me now.]{lang=en}
-2 [Where hast thou been? Now say.]{lang=aelw}
+2 [Where hast thou been. Now say.]{lang=aelw}
 
 ***
 
-1 [I took the crown road south, grandsire,]{.nativefont lang=aelw}
+1 [I took the crown road south grandsire]{.nativefont lang=aelw}
 2 [I took the crown road south, grandfather,]{lang=en}
-2 [I took the crown road south, grandsire,]{lang=aelw}
+2 [I took the crown road south grandsire]{lang=aelw}
 
-1 [The road that hath the oaks,]{.nativefont lang=aelw}
+1 [The road that hath the oaks]{.nativefont lang=aelw}
 2 [The road that has the oaks,]{lang=en}
-2 [The road that hath the oaks,]{lang=aelw}
+2 [The road that hath the oaks]{lang=aelw}
 
-1 [And I have seen who keepeth it,]{.nativefont lang=aelw}
+1 [And I have seen who keepeth it]{.nativefont lang=aelw}
 2 [And I have seen who keeps it,]{lang=en}
-2 [And I have seen who keepeth it,]{lang=aelw}
+2 [And I have seen who keepeth it]{lang=aelw}
 
 1 [And never a word he spoke.]{.nativefont lang=aelw}
 2 [And he did not say a word.]{lang=en}
@@ -410,17 +410,17 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [And who laid all the old road, lad,]{.nativefont lang=aelw}
+1 [And who laid all the old road lad]{.nativefont lang=aelw}
 2 [And who laid all the old road, lad,]{lang=en}
-2 [And who laid all the old road, lad,]{lang=aelw}
+2 [And who laid all the old road lad]{lang=aelw}
 
-1 [And why is it stopped? said he.]{.nativefont lang=aelw}
+1 [And why is it stopped. said he.]{.nativefont lang=aelw}
 2 [And why is it blocked? he said.]{lang=en}
-2 [And why is it stopped? said he.]{lang=aelw}
+2 [And why is it stopped. said he.]{lang=aelw}
 
-1 [They laid it, grandsire, and they stopped:]{.nativefont lang=aelw}
+1 [They laid it grandsire and they stopped.]{.nativefont lang=aelw}
 2 [They laid it, grandfather, and they stopped:]{lang=en}
-2 [They laid it, grandsire, and they stopped:]{lang=aelw}
+2 [They laid it grandsire and they stopped.]{lang=aelw}
 
 1 [No more was told to me.]{.nativefont lang=aelw}
 2 [I was told nothing more.]{lang=en}
@@ -428,31 +428,31 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [And when the great snow came that year,]{.nativefont lang=aelw}
+1 [And when the great snow came that year]{.nativefont lang=aelw}
 2 [And when the great snow came that year,]{lang=en}
-2 [And when the great snow came that year,]{lang=aelw}
+2 [And when the great snow came that year]{lang=aelw}
 
-1 [And the drove-roads all were lost,]{.nativefont lang=aelw}
+1 [And the drove-roads all were lost]{.nativefont lang=aelw}
 2 [And all the drove-roads were lost,]{lang=en}
-2 [And the drove-roads all were lost,]{lang=aelw}
+2 [And the drove-roads all were lost]{lang=aelw}
 
 1 [And the beasts must come from the high grass down]{.nativefont lang=aelw}
 2 [And the beasts had to come down from the high grass]{lang=en}
 2 [And the beasts must come from the high grass down]{lang=aelw}
 
-1 [Or die there in the frost,]{.nativefont lang=aelw}
+1 [Or die there in the frost]{.nativefont lang=aelw}
 2 [Or die there in the frost,]{lang=en}
-2 [Or die there in the frost,]{lang=aelw}
+2 [Or die there in the frost]{lang=aelw}
 
 ***
 
-1 [Then Edwald drove them by the stone,]{.nativefont lang=aelw}
+1 [Then Edwald drove them by the stone]{.nativefont lang=aelw}
 2 [Then Edwald drove them by the stone,]{lang=en}
-2 [Then Edwald drove them by the stone,]{lang=aelw}
+2 [Then Edwald drove them by the stone]{lang=aelw}
 
-1 [Where none would go but he,]{.nativefont lang=aelw}
+1 [Where none would go but he]{.nativefont lang=aelw}
 2 [Where no one but him would go,]{lang=en}
-2 [Where none would go but he,]{lang=aelw}
+2 [Where none would go but he]{lang=aelw}
 
 1 [And the oaks along it showed the way]{.nativefont lang=aelw}
 2 [And the oaks along it showed the way]{lang=en}
@@ -464,17 +464,17 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [He brought them down, both cow and calf,]{.nativefont lang=aelw}
+1 [He brought them down both cow and calf]{.nativefont lang=aelw}
 2 [He brought them down, both cow and calf,]{lang=en}
-2 [He brought them down, both cow and calf,]{lang=aelw}
+2 [He brought them down both cow and calf]{lang=aelw}
 
-1 [And never a beast he lost;]{.nativefont lang=aelw}
+1 [And never a beast he lost.]{.nativefont lang=aelw}
 2 [And he did not lose a single animal;]{lang=en}
-2 [And never a beast he lost;]{lang=aelw}
+2 [And never a beast he lost.]{lang=aelw}
 
-1 [And none knoweth who laid the road,]{.nativefont lang=aelw}
+1 [And none knoweth who laid the road]{.nativefont lang=aelw}
 2 [And no one knows who laid the road,]{lang=en}
-2 [And none knoweth who laid the road,]{lang=aelw}
+2 [And none knoweth who laid the road]{lang=aelw}
 
 1 [Nor what the laying cost.]{.nativefont lang=aelw}
 2 [Nor what the laying cost.]{lang=en}

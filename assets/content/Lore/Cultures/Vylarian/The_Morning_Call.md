@@ -88,9 +88,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 
 ***
 
-1 [A' thelmos lokazor. A' daimela falvazor.]{.nativefont lang=vyl}
+1 [À thelmos lokazor. À daimela falvazor.]{.nativefont lang=vyl}
 2 The client comes. The patron is out.
-2 [A' thelmos lokazor. A' daimela falvazor.]{lang=vyl}
+2 [À thelmos lokazor. À daimela falvazor.]{lang=vyl}
 
 ***
 
@@ -282,9 +282,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 
 ***
 
-1 [A' thelmos lokazor. A' daimela falvazor.]{.nativefont lang=vyl}
+1 [À thelmos lokazor. À daimela falvazor.]{.nativefont lang=vyl}
 2 The client comes. The patron is out.
-2 [A' thelmos lokazor. A' daimela falvazor.]{lang=vyl}
+2 [À thelmos lokazor. À daimela falvazor.]{lang=vyl}
 
 ***
 
@@ -434,9 +434,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 
 ***
 
-1 [A' thelmos lokazor. A' daimela falvazor.]{.nativefont lang=vyl}
+1 [À thelmos lokazor. À daimela falvazor.]{.nativefont lang=vyl}
 2 The client comes. The patron is out.
-2 [A' thelmos lokazor. A' daimela falvazor.]{lang=vyl}
+2 [À thelmos lokazor. À daimela falvazor.]{lang=vyl}
 
 ***
 
@@ -518,9 +518,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 
 ***
 
-1 [A' thelmos lokazor. A' daimela falvazor. Thelmos ir pramiza lokazor.]{.nativefont lang=vyl}
+1 [À thelmos lokazor. À daimela falvazor. Thelmos ir pramiza lokazor.]{.nativefont lang=vyl}
 2 The client comes. The patron is out. The client comes in morning.
-2 [A' thelmos lokazor. A' daimela falvazor. Thelmos ir pramiza lokazor.]{lang=vyl}
+2 [À thelmos lokazor. À daimela falvazor. Thelmos ir pramiza lokazor.]{lang=vyl}
 
 ```
 

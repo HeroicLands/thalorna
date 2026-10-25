@@ -133,10 +133,6 @@ data:
       - ["8", "󰑈"] # U+F0448
       - ["9", "󰑉"] # U+F0449
       - [",", "󰑐"] # U+F0450
-      - [";", "󰑐"] # U+F0450
-      - [":", "󰑐"] # U+F0450
-      - ["—", "󰑐"] # U+F0450
-      - ["–", "󰑐"] # U+F0450
       - [".", "󰑑"] # U+F0451
       - ["?", ""]
       - ["!", ""]
@@ -164,7 +160,7 @@ The Vedyakshara writes syllables. Each consonant sign carries the vowel _a_, and
 - **An apostrophe (`'` or `’`) is the cut** wherever it stands, so the cut can be written by hand.
 - **_f_ is _pa_ with the soft dot.**
 - **A hyphen writes nothing**, so a compound is written solid, and **_?_ and _!_ write nothing**: the words carry the question and the command.
-- **Every pause** (`,`, `;`, `:` and both dashes) is the bar with one knot, and **the full stop** is the bar with two knots.
+- **The comma** is the short pause, the bar with one knot, and **the period** is the full stop, the bar with two knots. Each sign has that one roman source; colons, semicolons and dashes are not alternate spellings.
 - **The numerals** 0 to 9 are the Vedyakshara digits.
 
 _z_, _w_, _q_, _x_, _c_ outside _ch_ and any other character the script lacks pass through unchanged, and the face prints the box for them.

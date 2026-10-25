@@ -2436,9 +2436,9 @@ The Sinale original uses first-syllable stresses, alliteration and answering lin
 2 [One spring, fires on the pass at night.]{lang=en}
 2 [Leiken ilte hyrre vennas aldesseho ossendaho]{ lang=sina}
 
-1 [.Nelgan evatte ovuu insu Nyke Ovaikke]{.nativefont lang=sina}
+1 [.[Nelgan]{.nativefont lang=aele} evatte ovuu insu Nyke Ovaikke]{.nativefont lang=sina}
 2 [.You call it Nelgan now: Snow-Gate.]{lang=en}
-2 [.Nelgan evatte ovuu insu Nyke Ovaikke]{ lang=sina}
+2 [.[Nelgan]{lang=aele} evatte ovuu insu Nyke Ovaikke]{ lang=sina}
 
 1 [.Muuvu oso taltai onsaa ovuu hauttel vennas ulveli onsaa]{.nativefont lang=sina}
 2 [.The people who had driven your fathers. Late,]{lang=en}

@@ -39,20 +39,20 @@ decides, where each decision lives, and what to run.
 Each rule has one home. A fact that a check or a generator reads is a declared
 key in frontmatter, and prose is never parsed for it.
 
-| Rule                                                                                                                          | Where it lives                                                    | What enforces it                                                    |
-| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | ------------------------------------------------------------------- |
-| One sound, one spelling, no silent letters in the common transcription; Aelwythi has its own readings                         | `assets/content/Lore/Pronouncing_Thalorna.md`                     | The author, and `data.sounds` in each language note                 |
-| Each tongue has its own flavour: favoured sounds, endings and shapes, and what it leaves out                                  | The language note: `data.sounds` for data, its prose for the rest | The author; the owner's approval of every coinage                   |
-| A word that a tongue's model language writes whole is replaced                                                                | `SOURCES` in `utils/earth-words.mjs`                              | `npm run lint:earth-words`                                          |
-| A word a passage uses is in the language's lexicon first                                                                      | `data.words` in the language note                                 | `package-build lint`, on every mapped run                           |
-| A name a passage uses is in the language's register first                                                                     | `data.register` in the language note                              | `package-build lint`, on every mapped run                           |
-| A text is marked by what it is: `lang=` its language, `font=` its face, `map=` the rewrite into a script                      | The attribute block of a span, a `:::` block or a fence           | `package-build lint`, the site, the Foundry compile and the book    |
-| A script has a common mapping note; Aelwythi also has its own orthographic mapping                                            | `assets/content/Lore/Scripts/`                                    | `package-build lint`                                                |
-| A mark that changes nothing is left out                                                                                       | Every script and mapping                                          | The author                                                          |
-| Mood, questions and quotation are carried by words, not marks, unless a tongue's own note says its scribes use a mark         | The tongue's note                                                 | `package-build lint`: a mark with no row in the mapping is an error |
-| Nothing is required to be complete: gender, plurals and verb patterns exist only where a note states them                     | The language note                                                 | No check demands a form                                             |
-| The language system does not grow: before adding a rule, a key or a check about an invented language, ask if a player notices | This guide                                                        | The owner                                                           |
-| The owner approves every coinage                                                                                              | [Coining a word](#5-coining-a-word)                               | Review                                                              |
+| Rule                                                                                                                          | Where it lives                                                    | What enforces it                                                                                                      |
+| ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------- |
+| One sound, one spelling, no silent letters in the common transcription; Aelwythi has its own readings                         | `assets/content/Lore/Pronouncing_Thalorna.md`                     | The author, and `data.sounds` in each language note                                                                   |
+| Each tongue has its own flavour: favoured sounds, endings and shapes, and what it leaves out                                  | The language note: `data.sounds` for data, its prose for the rest | The author; the owner's approval of every coinage                                                                     |
+| A word that a tongue's model language writes whole is replaced                                                                | `SOURCES` in `utils/earth-words.mjs`                              | `npm run lint:earth-words`                                                                                            |
+| A word a passage uses is in the language's lexicon first                                                                      | `data.words` in the language note                                 | `package-build lint`, on every mapped run                                                                             |
+| A name a passage uses is in the language's register first                                                                     | `data.register` in the language note                              | `package-build lint`, on every mapped run                                                                             |
+| A text is marked by what it is: `lang=` its language, `font=` its face, `map=` the rewrite into a script                      | The attribute block of a span, a `:::` block or a fence           | `package-build lint`, the site, the Foundry compile and the book                                                      |
+| A script has a common mapping note; Aelwythi also has its own orthographic mapping                                            | `assets/content/Lore/Scripts/`                                    | `package-build lint`                                                                                                  |
+| A mark that changes nothing is left out                                                                                       | Every script and mapping                                          | The author                                                                                                            |
+| Mood, questions and quotation are carried by words, not marks, unless a tongue's own note says its scribes use a mark         | The tongue's note                                                 | `package-build lint`: a source character outside the language inventory is an error, even if a mapping row accepts it |
+| Nothing is required to be complete: gender, plurals and verb patterns exist only where a note states them                     | The language note                                                 | No check demands a form                                                                                               |
+| The language system does not grow: before adding a rule, a key or a check about an invented language, ask if a player notices | This guide                                                        | The owner                                                                                                             |
+| The owner approves every coinage                                                                                              | [Coining a word](#5-coining-a-word)                               | Review                                                                                                                |
 
 **A script is not a language.** Several tongues share one script, as many
 Earth languages share the Latin alphabet. A script's common mapping serves
@@ -118,7 +118,7 @@ apply where a tongue's section does not give its own readings.
 Aelwythi uses the existing Semaron letters through its own orthographic
 `aelwythi-semaron` map in
 `assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md`. The Aelwythi
-language note selects it with `data.writtenIn`, so `[Whither goest thou?]{.nativefont lang=aelw}`
+language note selects it with `data.writtenIn`, so `[Whither goest thou.]{.nativefont lang=aelw}`
 converts to Semaron. Without `.nativefont`, the same language tag keeps roman
 spelling. All conversion rules are executable frontmatter rows;
 they rewrite spelling, not pronunciation. A word whose script spelling needs
@@ -128,7 +128,7 @@ Keep the roman word unchanged. For example, _exact_ uses its declared native
 form rather than the rows' _ks_ spelling for _x_.
 
 ```console
-$ npx package-build transliterate aelwythi-semaron --lang aelw --hex "Whither goest thou?"
+$ npx package-build transliterate aelwythi-semaron --lang aelw --hex "Whither goest thou."
 ```
 
 This language-specific mapping does not alter the shared `semaron` rows. It
@@ -176,8 +176,8 @@ letter's sound changes both.
 
 **Worked example.** The guide's own words: _Kelara_ is said ke-LA-ra, and
 _Kelarán_ carries an acute because the rule would stress the middle syllable
-and the word stresses the last. The Vylari word _k'aralzon_ (the kept fire)
-carries a catch, and the catch is a letter-sized part of the word, not a mark.
+and the word stresses the last. The Vylari word _kàralzon_ (the kept fire)
+carries a catch, and the catch is a letter-sized part of the word, not punctuation.
 
 ### Readable beats correct
 
@@ -197,11 +197,11 @@ way.
   ruled exception: Pirzath has quotation marks, and the tongues written in it
   use them, and the Pirzath script note describes its sentence end and imperative
   mark. Vylari asks, commands and exclaims with an opening word, quotes with
-  _vethor_ and emphasises with words; its only punctuation is the catch and the
-  one pause point.
-- **The roman transcription keeps the reader's punctuation.** A passage typed in
-  roman for mapping into a script uses only the marks that script's mapping has
-  rows for.
+  _vethor_ and emphasises with words; its only punctuation is the
+  period. Its lexical catch is written with a grave vowel.
+- **Every language declares its roman characters.** Native and roman readings
+  use the same explicit `data.roman` repertoire. Mapping rows never grant
+  permission to use a character the language does not admit.
 - **A tongue sounds like its model without copying it.** See [Coining a word](#5-coining-a-word).
 
 ## 3. How a language note defines its language
@@ -231,6 +231,63 @@ shape, is the language table in
 under "A language's words" and "A language's register, sounds and history". An
 unknown key, a missing required key or a wrongly shaped key is an error at its
 own line and column.
+
+### Roman characters
+
+Each configured language note declares `data.roman`: one literal string of the
+exact Unicode characters its tagged roman text permits. The declaration lists
+both cases, accented letters, numerals and punctuation explicitly. Spaces and
+line breaks belong to layout. A language tag alone checks the source, as does a
+native presentation: a mapping or a dictionary spelling cannot hide an invalid
+source character. Use NFC spelling. Sinale's optional performance notation also
+lists the combining accents needed on vowels without a precomposed spelling.
+
+This is a character repertoire, not a phonotactic rule. For example, a language
+that writes `ch` needs both `c` and `h`; the repertoire does not license a bare
+`c` as a new sound. The pronunciation guide and language palette still govern
+word formation. Established registered names and documented older forms remain
+readable: Élavendri's Jeldor keeps `J`, Khelathi's Gar-Medjatozo keeps `j`, and
+older Tellumi names such as Mernagord keep `o`. Dunhari and Okharik keep the
+catch in their registered names; older Tellumi names also keep their recorded
+`z`, catch and acute spellings. Bethuan keeps the `v` of Kervanion, Helonic
+keeps the `j` of Jamiros, and Okharik keeps the `j` of Jákora. Provenzal retains
+the formal greeting's `que`, while Taruzeli retains `f` and `o` in its
+established vocabulary. These spellings do not change a palette for new words.
+
+Every actual punctuation sign has a canonical roman source. Conversion rows
+are not an alphabet, and several English marks are not interchangeable inputs
+for one native pause. The declarations follow these author conventions:
+
+| Languages                                                                                                   | Spelling authority                                                    | Roman punctuation and numeral convention                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| ----------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Áelendi                                                                                                     | Its highland palette and phonology; the shared guide                  | No sentence punctuation in Veldikko. A hyphen joins word parts; the map does not turn it into a pause.                                                                                                                                                                                                                                                                                                                                                                                                     |
+| Aelwythi                                                                                                    | Familiar readable word spellings and its own pronunciation section    | Period is the sole pause. Possessive apostrophes and hyphens retain their own roles; they are not pause aliases. Direct speech takes no quotation marks.                                                                                                                                                                                                                                                                                                                                                   |
+| Atárzadi, Dunhari, Khelathi                                                                                 | Each note's sounds and registered names; Qalezu Spelling              | Period, comma and middle dot are three distinct signs. The middle dot closes a verse unit. Hyphens join parts; Khelathi also writes its lexical catch with a straight apostrophe.                                                                                                                                                                                                                                                                                                                          |
+| Bethuan                                                                                                     | Its Helonic stock and desert loans; Bethuan Spelling                  | Period is the sentence dot. Commas and joining hyphens are unmarked in the script. `§` retains the language note's rare register-shift role.                                                                                                                                                                                                                                                                                                                                                               |
+| Bizarian, Helonic, Valtari                                                                                  | Each note's phonology and Helónika spelling                           | Period is the sentence dot. Commas and joining hyphens are unmarked; colon and semicolon are not alternative sentence dots.                                                                                                                                                                                                                                                                                                                                                                                |
+| Élavendri, Provenzal, Tarveni                                                                               | Their own palettes, the shared guide and registered names             | Period is the sole sentence pause in Semaron.                                                                                                                                                                                                                                                                                                                                                                                                                                                              |
+| Varokhi                                                                                                     | Its forest palette, phonology and the shared guide                    | Period is the sentence pause; a joining hyphen retains its lexical role.                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Khazari                                                                                                     | Its consonant skeletons, stress rule and Pirzath Spelling             | Period, comma, imperative `!` and hyphen are distinct signs. Only `“` and `”` write the quote pair. `@ # $ % ^ &` are the established sources of the six higher numeral signs, not punctuation.                                                                                                                                                                                                                                                                                                            |
+| Sinale                                                                                                      | Its clean-consonant palette and optional performance notation         | No sentence punctuation. A hyphen joins parts. Editorial gaps and omissions are outside the Sinale text.                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Vedyari                                                                                                     | Its two spoken registers and Vedyakshara Spelling                     | Comma is the short one-knot pause; period is the full two-knot stop. A straight apostrophe writes a lexical cut, and a hyphen joins parts. Questions and commands are carried by words.                                                                                                                                                                                                                                                                                                                    |
+| Ekpelu, Hvarn, Jurthati, Kalihari, Ki'i'chek, Nyáluban, Okharik, Osket, Sovidur, Tantsou, Taruzeli, Tellumi | Each note's palette and phonology, and the shared pronunciation guide | Common transcription uses editorial period, comma, colon, semicolon, question and exclamation marks, curly double quotation marks, parentheses, dashes, ellipsis and joining hyphen. These are reader guidance and claim no native signs. A straight apostrophe is also admitted where the language documents a catch. Ki'i'chek additionally keeps its documented curly lexical catch `’` in established names, without giving it a quotation or pause role. Tone is not added to ordinary transcription. |
+| Grukar, Nyáluban Drum-Speech                                                                                | Their notes explicitly describe no independent written words          | An empty inventory declares that lack of writing. Transcribe the drum register's spoken words under Nyáluban.                                                                                                                                                                                                                                                                                                                                                                                              |
+| Vylari                                                                                                      | Its language note and grave-vowel spelling exception                  | Period alone is punctuation. `à` is a lexical catch, not quotation.                                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+Digits `0` through `9` are explicit where a native numeral row or the common
+transcription convention supplies them. The Veldikko inventories do not add a
+numeral system. Acute stress and the separating `ë` follow the shared guide;
+where a note forbids marks or leaves tones unwritten, its repertoire does not
+fill them in. Osket and Sovidur retain their documented rounded `ö` and `ü`.
+
+`npm run lint:roman` checks that every language selected by
+`package-build.config.yaml` names a language note with an explicit inventory.
+The configured content linter (`package-build lint`, also `npm run
+lint:addresses`) checks tagged text against those inventories, including child
+spans in English verse fences, inherited languages and reference labels.
+Standalone Markdown formatting is not the language-character check. Keep
+editorial gaps in a `lang=zxx` child span; do not add their symbols to a native
+alphabet just to make a passage pass.
 
 ### 3.1 `data.sounds` and the flavour palette
 
@@ -1476,8 +1533,8 @@ Each is a real finding or a real trap.
    `other:<tongue>`, and the same row must exist in that tongue's register.
 3. **Typing roman under `font=` with no `map=`.** Every roman letter is "not drawn
    by the font". Add `map=`.
-4. **Typing a question mark in a mapped run.** The mark has no row in the
-   mapping, and the language asks in words.
+4. **Typing a question mark the language does not permit.** Source character
+   validation checks the language inventory before mapping, and the language asks in words.
 5. **Putting stars in a Vylari run.** Vylari marks emphasis with a word.
 6. **Naming a face the mapping does not list.** One mismatch reports once for the
    face and again for every character that face cannot draw.

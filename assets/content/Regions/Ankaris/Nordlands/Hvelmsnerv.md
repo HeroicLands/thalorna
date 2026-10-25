@@ -808,7 +808,7 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 1 [Nafma na thuv es ]{.nativefont lang=nord}[…][. Morka na thuv nod it.]{.nativefont lang=nord}
 2 [Your name is […]. Your mother gave it.]{lang=en}
-2 [Nafma na thuv es […]. Morka na thuv nod it.]{lang=nord}
+2 [Nafma na thuv es [\[…\]]{lang=zxx}. Morka na thuv nod it.]{lang=nord}
 
 1 [Noll mannva inn merga than marl it. Nel eiv renma.]{.nativefont lang=nord}
 2 [Nobody in that morning says it. Not once.]{lang=en}
@@ -816,7 +816,7 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 1 […][ skip na thuv nem tiv Knarvík firn merv na it.]{.nativefont lang=nord}
 2 […] the ship you took to [[place-knarvik|Knarvík]] for its ribs.
-2 [[…] skip na thuv nem tiv Knarvík firn merv na it.]{lang=nord}
+2 [\[…\]]{lang=zxx}[ skip na thuv nem tiv Knarvík firn merv na it.]{lang=nord}
 
 1 [Hvelm na thuv nel nem.]{.nativefont lang=nord}
 2 [The whale you did not take.]{lang=en}
@@ -832,7 +832,7 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 1 [at ]{.nativefont lang=nord}[…][. Noll dingi na it. Noll gandma. Gronvid]{.nativefont lang=nord}
 2 [at […]. Nothing of it. No word. The shoot]{lang=en}
-2 [at […]. Noll dingi na it. Noll gandma. Gronvid]{lang=nord}
+2 [at [\[…\]]{lang=zxx}. Noll dingi na it. Noll gandma. Gronvid]{lang=nord}
 
 1 [nel hugni it. Hamri nel hugni it.]{.nativefont lang=nord}
 2 [does not know it. The hammer does not know it.]{lang=en}
@@ -848,11 +848,11 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 1 […][ sklir na fem kinli na thuv ]{.nativefont lang=nord}[…][ skuldan na glerv]{.nativefont lang=nord}
 2 [[…] your daughter's keys […] the oil cask]{lang=en}
-2 [[…] sklir na fem kinli na thuv […] skuldan na glerv]{lang=nord}
+2 [\[…\]]{lang=zxx}[ sklir na fem kinli na thuv [\[…\]]{lang=zxx} skuldan na glerv]{lang=nord}
 
 1 [na thuv hav skuldma buen at ]{.nativefont lang=nord}[…][.]{.nativefont lang=nord}
 2 [you still owe at […].]{lang=en}
-2 [na thuv hav skuldma buen at […].]{lang=nord}
+2 [na thuv hav skuldma buen at [\[…\]]{lang=zxx}.]{lang=nord}
 
 1 [Nafma na ir aukri. Thenva nod Aldurhildur at staf eiv hofudsveld na ir.]{.nativefont lang=nord}
 2 [My name too. They gave Aldurhildur at my first high seat.]{lang=en}
@@ -900,7 +900,7 @@ The text is the recital the hall's skald gives after the ting, as he gave it the
 
 1 […][ berva it. Ir sken hondi. ]{.nativefont lang=nord}[…][.]{.nativefont lang=nord}
 2 [[…] carries it. I saw the hands. […].]{lang=en}
-2 [[…] berva it. Ir sken hondi. […].]{lang=nord}
+2 [\[…\]]{lang=zxx}[ berva it. Ir sken hondi. [\[…\]]{lang=zxx}.]{lang=nord}
 
 1 [Nura lesna merv. Ir marl hnat ir komri firn marl.]{.nativefont lang=nord}
 2 [Now read bones. I said what I came to say.]{lang=en}

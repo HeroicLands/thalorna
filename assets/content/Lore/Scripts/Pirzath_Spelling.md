@@ -373,13 +373,7 @@ data:
       - ["y", "󰀂"] # U+F0002
       - {from: "Y", to: "󰀗", before: vowel} # U+F0017
       - ["Y", "󰀂"] # U+F0002
-      - {from: '"', to: "󰁔", at: start} # U+F0054
-      - ['"', "󰁕"] # U+F0055
-      - ["<<", "󰁔"] # U+F0054
-      - ["[", "󰁔"] # U+F0054
       - ["“", "󰁔"] # U+F0054
-      - [">>", "󰁕"] # U+F0055
-      - ["]", "󰁕"] # U+F0055
       - ["”", "󰁕"] # U+F0055
       - ["0", "󰁀"] # U+F0040
       - ["1", "󰁁"] # U+F0041
@@ -423,6 +417,6 @@ Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **The catch** is `'` or `’`.
 - **The numerals count in sixteens:** 0 to 9, then `@`, `#`, `$`, `%`, `^` and `&` for ten to fifteen.
 - **The points** are `.`, `,`, `!` and the hyphen.
-- **Quotation marks:** `<<`, `[` and `“` open a quotation, and `>>`, `]` and `”` close one. A straight `"` opens at the start of a passage or after a space or a mark, and closes elsewhere.
+- **Quotation marks:** `“` opens a quotation and `”` closes it. These are the canonical roman sources of the two distinct signs; straight quotes, brackets and doubled angle brackets are not substitutes.
 
 _c_ outside _ch_, _x_ and any other character the script lacks pass through unchanged, and the faces print the box for them.

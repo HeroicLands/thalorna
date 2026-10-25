@@ -6,6 +6,7 @@ subType: language
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
 tags: []
 data:
+  roman: "abdefghijklmnoprstuwyzABDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-'"
   core: true
   abbreviation: Nyal.
   fields:

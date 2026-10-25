@@ -6,6 +6,7 @@ subType: language
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
 tags: []
 data:
+  roman: "abcdeghiklmnoprstuvwyzABCDEGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789."
   core: true
   family: skill-vylarilng
   abbreviation: Tarv.
@@ -522,7 +523,7 @@ data:
       class: n n
       field: The village and its shrine
       gloss: "the hearth fire"
-      source: {kind: inherited, form: "k'aralzon"}
+      source: {kind: inherited, form: "kàralzon"}
     - form: karalzis
       class: n m
       field: The village and its shrine

@@ -6,6 +6,7 @@ subType: language
 description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 tags: []
 data:
+  roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëÁÉÍÓÚË0123456789.qQ"
   core: true
   family: skill-vylarilng
   abbreviation: Prv.
@@ -573,7 +574,7 @@ data:
       field: The gods and the hearth
       gloss: "the hearth; the fire of a house"
       concept: hearth
-      source: {kind: inherited, form: "k'aralzon"}
+      source: {kind: inherited, form: "kàralzon"}
     - form: karalzis
       class: n m
       field: The gods and the hearth
@@ -1186,7 +1187,7 @@ data:
       class: n f
       field: The harbor and the sea
       gloss: "a lighthouse"
-      source: {kind: inherited, form: "k'arthorgila"}
+      source: {kind: inherited, form: "kàrthorgila"}
     - form: rezote
       class: n m
       field: The harbor and the sea
@@ -5483,7 +5484,7 @@ data:
       gloss: to forbid someone the act under discussion; the prohibited person is the direct object
       concept: prohibit
       source: {kind: coined}
-    - form: Brave jhorne, genthe korthe; que la preja soie talv vei
+    - form: "Brave jhorne genthe korthe. que la preja soie talv vei"
       class: call
       field: Learning and the academies
       gloss: "hello; the traditional formal greeting: good day, noble companion; may peace be with you; used as a whole established formula"
@@ -7542,6 +7543,8 @@ Provenzal is a tongue of the [Pelwar Family]{.name data-type="lore"}. Fluency me
 
 Provenzal is the melodic tongue of [[place-provenzrgn|Provenzia Region]], a realm where commerce meets artistry and the traditions of courtly culture flourish. Spoken in the prosperous merchant cities and cultivated courts of the southern coast, Provenzal is the language of síladors, merchants, and nobles who trade in beauty as readily as silk and spices.
 
+The roman repertoire retains `q` and `Q` for the formal greeting's fixed que. This formula does not add a new sound to the ordinary palette.
+
 ## Overview
 
 Provenzal speakers pride themselves on the liquid grace of their language. Where [[skill-vylarilng|Vylari]] is formal and structured, Provenzal is flowing and emotional. The language carries the influence of both its Vylari administrative heritage and the fey-touched [[skill-elvndrlng|Élavendri]] to the north, having absorbed melodic patterns and poetic vocabulary from both neighbors while maintaining its own distinctive character.
@@ -7650,7 +7653,7 @@ _Jo dunate tigate_ means “I can go”, while _jo ar dunate tigate_ denies abil
 
 _Jo jervete tigate_ means “I must go”, an obligation. _Jo jervete ar tigate_ means “I must not go”: the obligation is to refrain from going. _Jo ar jervete tigate_ instead denies an obligation to go. The old _orfeate_ retains owing a favor. _Cho dajvete tigate_ advises “You ought to go”, without compulsion. _Denon ez jestare ul ar jerpele_ describes an option that is permitted and not required. _Ar jestare_ is used for an actual prohibition, not simply for the absence of an express permission. _Talv ar verdavis_ is the conventional stronger no-worth description, worthless; a thing of modest value still has worth.
 
-The traditional formal greeting _Brave jhorne, genthe korthe; que la preja soie talv vei_ is used as a whole: “Good day, noble companion; may peace be with you”. _Preja talv cho_ wishes peace as an ordinary goodbye. At the door, a host's _cho ez dumvar_ welcomes the other person as a guest under the roof. _Jo avete orfenon_ asks a kindness, “Please”, before a particular request. _Jo memrate orfenon ol cho_ thanks you for your kindness; _cho ar orfeate_ answers that no favor is owed in return. _Cho linkate jo_ politely asks to be left room or allowed to pass, “Excuse me”. _Jo taurate antambeza_ says “I am sorry”, holding regret for what happened. _Cho anorfenate jo_ asks “Forgive me”, with the speaker as the person to be forgiven.
+The traditional formal greeting _Brave jhorne genthe korthe. que la preja soie talv vei_ is used as a whole: “Good day, noble companion; may peace be with you”. _Preja talv cho_ wishes peace as an ordinary goodbye. At the door, a host's _cho ez dumvar_ welcomes the other person as a guest under the roof. _Jo avete orfenon_ asks a kindness, “Please”, before a particular request. _Jo memrate orfenon ol cho_ thanks you for your kindness; _cho ar orfeate_ answers that no favor is owed in return. _Cho linkate jo_ politely asks to be left room or allowed to pass, “Excuse me”. _Jo taurate antambeza_ says “I am sorry”, holding regret for what happened. _Cho anorfenate jo_ asks “Forgive me”, with the speaker as the person to be forgiven.
 
 The fixed attention calls _cho tavrelate_, _cho silvate_, _cho sistete_ and _cho sistate_ ask “Listen!”, “Look!”, “Wait!” and “Stop!” _Cho lokate fir de sedon_ asks “Come here!”; _cho tigate fos de sedon_, “Go away!”; _cho zumbrate jo_, “Help me!” _Cho dokate antigai_ asks for the words again, “Pardon?” These are the listed spoken requests; the merchant invitation below retains its own _narthe_. _Jo lambirete_ says “I understand”, and _jo ar lambirete_ “I do not understand”. _Eza cho dokate denon sa ketis?_ asks how to say the expression being referred to; _eza arlen ol denon ez ketis?_ asks what the referred-to thing is called.
 
@@ -7711,7 +7714,7 @@ Unlike Vylari's imperial standardization, Provenzal evolved through artistic and
 "L'athor en le tel de l'anvre."
 : "Love is the light of the soul." (From a famous sílador poem; note the Élavendri borrowing _tel_ "light/beauty" preferred over native _luerne_, and the poetic copula _en_ from Élavendri rather than native _ez_.)
 
-"Brave jhorne, genthe korthe; que la preja soie talv vei."
+"Brave jhorne genthe korthe. que la preja soie talv vei."
 : "Good day, noble companion; may peace be with you." (Formal greeting; _jhorne_ "day," _preja_ "peace," _soie_ "be" (from _evren_ "to be"), _talv_ "with." Pure Provenzal—no Élavendri borrowings in everyday speech.)
 
 "Me vei athore d'un aelcore verdhen."

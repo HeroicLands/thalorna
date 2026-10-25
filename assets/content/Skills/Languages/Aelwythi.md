@@ -7,6 +7,7 @@ description: "The speech of the island of Aelwyth, given in these pages in the o
 tags: []
 
 data:
+  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúëÁÉÍÓÚË0123456789.'-"
   core: true
   abbreviation: Aelw.
   writtenIn: {map: aelwythi-semaron, font: semaron-kuriale}
@@ -1973,77 +1974,77 @@ data:
       field: Reference and questions
       gloss: different
       concept: different
-    - form: Who art thou?
+    - form: "Who art thou."
       class: call
       field: Reference and questions
       gloss: Who are you? A question asking for a person's identity; who introduces questions about a person
       concept: question-who
-    - form: What is this?
+    - form: "What is this."
       class: call
       field: Reference and questions
       gloss: What is this? A question asking what a thing is; what asks about a thing or action
       concept: question-what
-    - form: Which wilt thou have?
+    - form: "Which wilt thou have."
       class: call
       field: Reference and questions
       gloss: Which will you have? A question choosing among alternatives; which asks for a selection
       concept: question-which
-    - form: Where art thou?
+    - form: "Where art thou."
       class: call
       field: Reference and questions
       gloss: Where are you? A question asking for a location; where asks about place
       concept: question-where
-    - form: When wilt thou come?
+    - form: "When wilt thou come."
       class: call
       field: Reference and questions
       gloss: When will you come? A question asking for a time; when asks about time
       concept: question-when
-    - form: Wherefore weepest thou?
+    - form: "Wherefore weepest thou."
       class: call
       field: Reference and questions
       gloss: Why are you crying? A question asking for a reason; why asks about cause or motive
       concept: question-why
-    - form: How farest thou?
+    - form: "How farest thou."
       class: call
       field: Reference and questions
       gloss: How are you? A question asking about condition; how also asks about manner or means
       concept: question-how
-    - form: How many ben there?
+    - form: "How many ben there."
       class: call
       field: Reference and questions
       gloss: How many are there? A question asking the number of countable things
       concept: question-how-many
-    - form: How much wilt thou give?
+    - form: "How much wilt thou give."
       class: call
       field: Reference and questions
       gloss: How much will you give? A question asking an amount or quantity
       concept: question-how-much
-    - form: Whose house is this?
+    - form: "Whose house is this."
       class: call
       field: Reference and questions
       gloss: Whose house is this? A question asking who owns something
       concept: question-whose
-    - form: To whom speakest thou?
+    - form: "To whom speakest thou."
       class: call
       field: Reference and questions
       gloss: To whom are you speaking? A question asking the recipient or addressee
       concept: question-to-whom
-    - form: Whence comest thou?
+    - form: "Whence comest thou."
       class: call
       field: Reference and questions
       gloss: Where do you come from? A question asking the place of origin
       concept: question-from-where
-    - form: To what end labourest thou?
+    - form: "To what end labourest thou."
       class: call
       field: Reference and questions
       gloss: For what purpose are you working? To what end asks about purpose
       concept: question-for-what-purpose
-    - form: Knowest thou him?
+    - form: "Knowest thou him."
       class: call
       field: Reference and questions
       gloss: Do you know him? A yes-or-no question addressed to one person; invert the finite verb and subject
       concept: question-polar
-    - form: What meanest thou?
+    - form: "What meanest thou."
       class: call
       field: Reference and questions
       gloss: What do you mean? A request to clarify what has just been said
@@ -2561,7 +2562,7 @@ data:
       field: Ability and conversation
       gloss: forgive me; a request for forgiveness
       concept: expression-forgive-me
-    - form: Why, yea
+    - form: "Why yea"
       class: call
       field: Ability and conversation
       gloss: of course; emphatic or reassuring agreement
@@ -2591,17 +2592,17 @@ data:
       field: Ability and conversation
       gloss: go away; an order to leave
       concept: expression-go-away
-    - form: Help!
+    - form: "Help."
       class: call
       field: Ability and conversation
       gloss: help; an urgent appeal for assistance
       concept: expression-help
-    - form: Hold!
+    - form: "Hold."
       class: call
       field: Ability and conversation
       gloss: stop; an urgent command to cease
       concept: expression-stop
-    - form: What?
+    - form: "What."
       class: call
       field: Ability and conversation
       gloss: what; an expression of surprise or a request to hear something again
@@ -2626,17 +2627,17 @@ data:
       field: Ability and conversation
       gloss: I do not understand; stating a failure to comprehend
       concept: expression-i-do-not-understand
-    - form: How sayst thou this in Aelwythi?
+    - form: "How sayst thou this in Aelwythi."
       class: call
       field: Ability and conversation
       gloss: How do you say this in Aelwythi? A request for a translation or the words that express a thing or thought
       concept: expression-how-do-you-say
-    - form: What callest thou this?
+    - form: "What callest thou this."
       class: call
       field: Ability and conversation
       gloss: What is this called? A request for the name of something
       concept: expression-what-is-this-called
-    - form: Is it so?
+    - form: "Is it so."
       class: call
       field: Ability and conversation
       gloss: Really? A request for confirmation or an expression of surprise
@@ -4446,7 +4447,9 @@ give them the reconstructed sounds of the older stage.
 
 ### Rules for writers
 
-Use familiar spelling and punctuation. The older character comes from sentence
+Use familiar word spelling. The period is the sole pause mark in both roman and
+native readings; questions and exclamations keep their wording and end with a
+period. Word-joining hyphens keep their familiar role; direct speech uses no quotation marks. The older character comes from sentence
 structure and familiar words, without phonetic respelling, contracted negatives
 or apostrophized elisions. Possessives such as summer's keep their apostrophe.
 The pronunciation guide, lexical readings and Semaron conversion still apply.
@@ -4575,11 +4578,11 @@ Verse keeps its metre and rhyme.
 
 #### Speech and emphasis
 
-Give direct speech without quotation marks. An attribution introduces it with
-a comma, as in the plain example below. Keep possessive apostrophes.
+Give direct speech without quotation marks. Set an attribution before it
+without a separating pause mark, as in the plain example below. Keep possessive apostrophes.
 
 ::: {lang=aelw font=serif}
-The knight said, I shall return ere night.
+The knight said I shall return ere night.
 :::
 
 Convey emphasis through word choice, order and inversion, repetition,
@@ -4595,11 +4598,11 @@ Yield I shall not.
 Repetition and balanced clauses can strengthen a prohibition or a contrast:
 
 ::: {lang=aelw font=serif}
-Thou shalt not enter. Not now, nor ever.
+Thou shalt not enter. Not now nor ever.
 
-I seek not thy gold, but thy oath.
+I seek not thy gold but thy oath.
 
-Not for fear do I kneel, but for honour.
+Not for fear do I kneel but for honour.
 :::
 
 Affirmative emphatic do is permitted when the speaker stresses an assertion
@@ -4648,42 +4651,42 @@ prose, as do descriptive notes throughout the setting.
 
 A harbor-gate greeting:
 
-> Whither goest thou, stranger, and what carriest thou in thy pack? The fog lieth heavy on the water, and the gate is shut ere dark. Tarry with us this night, and we will ask thee naught more.
+> Whither goest thou stranger and what carriest thou in thy pack. The fog lieth heavy on the water and the gate is shut ere dark. Tarry with us this night and we will ask thee naught more.
 
 A saying of the manors:
 
-> A word once given is a stone laid in the wall: pluck it out, and the whole house falleth.
+> A word once given is a stone laid in the wall. pluck it out and the whole house falleth.
 
 : A harvest song {#harvestsong}
 
 ```verse {form=song numstep=5 cols=2}
-1 [The wool is shorn, the barley bound,]{.nativefont lang=aelw}
+1 [The wool is shorn the barley bound]{.nativefont lang=aelw}
 2 [The wool is shorn, the barley bound,]{lang=en}
-2 [The wool is shorn, the barley bound,]{lang=aelw}
+2 [The wool is shorn the barley bound]{lang=aelw}
 
-1 [The last of summer's gold is ground;]{.nativefont lang=aelw}
+1 [The last of summer's gold is ground]{.nativefont lang=aelw}
 2 [The last of summer's gold is ground;]{lang=en}
-2 [The last of summer's gold is ground;]{lang=aelw}
+2 [The last of summer's gold is ground]{lang=aelw}
 
-1 [Fill high the cup, and drink it deep,]{.nativefont lang=aelw}
+1 [Fill high the cup and drink it deep]{.nativefont lang=aelw}
 2 [Fill the cup to the brim, and drink deeply,]{lang=en}
-2 [Fill high the cup, and drink it deep,]{lang=aelw}
+2 [Fill high the cup and drink it deep]{lang=aelw}
 
-1 [And name the dead, now fast asleep.]{.nativefont lang=aelw}
+1 [And name the dead now fast asleep.]{.nativefont lang=aelw}
 2 [And name the dead, now fast asleep.]{lang=en}
-2 [And name the dead, now fast asleep.]{lang=aelw}
+2 [And name the dead now fast asleep.]{lang=aelw}
 ```
 
 : A charm said at the crossroads {#crossroadscharm}
 
 ```verse {form=charm numstep=5 cols=2}
-1 [Go softly, thou that walkest late,]{.nativefont lang=aelw}
+1 [Go softly thou that walkest late]{.nativefont lang=aelw}
 2 [Go softly, you who walk late,]{lang=en}
-2 [Go softly, thou that walkest late,]{lang=aelw}
+2 [Go softly thou that walkest late]{lang=aelw}
 
-1 [And leave thine offering at the gate;]{.nativefont lang=aelw}
+1 [And leave thine offering at the gate]{.nativefont lang=aelw}
 2 [And leave your offering at the gate;]{lang=en}
-2 [And leave thine offering at the gate;]{lang=aelw}
+2 [And leave thine offering at the gate]{lang=aelw}
 
 1 [Who watcheth by the crossing wide]{.nativefont lang=aelw}
 2 [Whoever watches by the wide crossing]{lang=en}

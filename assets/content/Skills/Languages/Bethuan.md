@@ -6,6 +6,7 @@ subType: language
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
 tags: []
 data:
+  roman: "abcdefghijklmnoprstuwyzABCDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789.,-§vV"
   core: true
   family: skill-helonclng
   abbreviation: Beth.
@@ -539,6 +540,8 @@ Bethuan is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency mea
 The tongue of the [[affiliation-mtrrchybth|Matriarchy of Bethua]], spoken by a people who preserved—and transformed—the ancient [[skill-helonclng|Helonic heritage]] in isolation. Bethuan represents a distinct evolutionary path from the common Helonic ancestor, retaining older phonetic features lost elsewhere while developing a unique grammatical feature unknown among the Helonic sisters: a sophisticated system of **gender registers** that reflects and reinforces the matriarchal social order. Formal educated speech in Bethuan employs a distinctly elevated, feminized register; masculine speech carries a markedly different grammatical flavor.
 
 Two forces shaped the language, and the relationship between them mirrors Bethua's own history. Its bones are **Helonic**—Bethuan stands to mainland Helonic roughly as one sister tongue stands to another, the inheritance of the Helonic colonists who first planted the realm. But laid over that inheritance is a thick stratum of **loanwords from [[skill-khelathlng|Khelathi Language]]**, the prestige tongue of the [[affiliation-empireakhlth|Empire of Au'Khelathu]] that midwifed Bethuan independence—a borrowed vocabulary concentrated in administration, water-engineering, commerce, the calendar, and luxury. The deep grammar, the register system, and the core vocabulary remain Helonic to the root; the machinery of the modern state speaks in Khelathi loanwords. (See [[skill-bethunlng#the-khelathi-superstrate|the Khelathi Superstrate]].)
+
+The roman repertoire retains `v` and `V` in established names such as Kervanion and Khalivras. Inherited Helonic words such as _cholsama_ (harvest) retain `ch` in roman spelling, so the repertoire includes `c` and `C` as part of that pair. This assigns no independent sound to `c`.
 
 ## Overview
 

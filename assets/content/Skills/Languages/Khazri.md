@@ -6,6 +6,7 @@ subType: language
 description: "The measured, liquid tongue of the Tellumi, the old oasis people at the foot of the Grazian Mountains."
 tags: []
 data:
+  roman: "abdefghiklmnoprstuvyABDEFGHIKLMNOPRSTUVY0123456789.,;:?!“”()—–…-zZáÁíÍ'"
   core: true
   abbreviation: Tell.
   icon: icon-speaking
@@ -6606,6 +6607,10 @@ sohl:
 ---
 
 Tellumi is the tongue of the [[lore-khazrynclt|Tellumi]], the old oasis people whose walled cities stand in a narrow belt along the north foot of [[place-graznmntns|the Grazian Mountains]], and it is the tongue of their clay archive. Their own name says where they came from: _Tellumi_ is "the people of the high springs", built from _te_ "high" and _lu_ "spring". Fluency measures the sophistication of expression in the language, from the halting phrases of a traveler to the nuanced discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+
+The roman inventory includes `o` and `O` for surviving older names such as Mernagord, recorded in the older-name lists below. This does not add an `o` to ordinary Tellumi word formation.
+
+The surviving older-name repertoire also keeps `z` and `Z`, acute `á` and `í` with their capitals, and the straight catch apostrophe, as in Zargandur, Beit-Shofár, Kethramír and Hek'ar. These are recorded older spellings, not additions to ordinary Tellumi word formation.
 
 ## How Tellumi sounds
 

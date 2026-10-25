@@ -5,7 +5,7 @@ type: skill
 subType: language
 description: "The drum register of Nyáluban—tonal melody struck rather than spoken, carrying names, summons and genealogies twenty kilometers."
 tags: [nyaluba]
-data: {icon: icon-speaking, templatePriority: null, packFolder: language}
+data: {roman: "", icon: icon-speaking, templatePriority: null, packFolder: language}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -34,3 +34,5 @@ toward the rainforest, is held by the [Sengala]{.name data-type="affiliation/lin
 ## How Nyáluban Drum-Speech sounds
 
 The drum register has no written words of its own. It carries Nyáluban words as struck pitch, so it takes Nyáluban's palette.
+
+Its empty `data.roman` inventory declares no independent written repertoire. A transcription of the spoken words is tagged as Nyáluban, not as a newly written drum language.

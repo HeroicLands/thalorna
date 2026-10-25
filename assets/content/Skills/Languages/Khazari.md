@@ -6,6 +6,7 @@ subType: language
 description: "The second of the Elder Tongues—short, percussive, and consonant-heavy, kept alive in the holds of the Khazari."
 tags: []
 data:
+  roman: "abdefghiklmnoprstuvzABDEFGHIKLMNOPRSTUVZáéíóúëÁÉÍÓÚË0123456789.,!-“”@#$%^&"
   abbreviation: Khaz.
   writtenIn: {map: pirzath, font: pirzath-hand}
   fields:

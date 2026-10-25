@@ -75,7 +75,7 @@ The first to rise kept the long song of the stars, which is sung from the first 
 2 [Oltandi iha irna ehi onsa ummes unturoho vennas erni ehi onsa velti olnaroho ehi]{lang=sina}
 
 1 [.Ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennâs ahi seltai onsǎ]{.nativefont lang=sina}
-2 [.No one has asked me this: I stop]{lang=en}[—]{lang=en}[do the stars stop? They do not.]{lang=en}
+2 [.No one has asked me this: I stop]{lang=en}[—]{lang=zxx}[do the stars stop? They do not.]{lang=en}
 2 [.Ahi hessave lirne ehi iha seltai ehi uvi seltai nuuvanu vennâs ahi seltai onsǎ]{lang=sina}
 
 1 [Seltai olnaro sendeppi nerrava nerrava velti ilte olnaro]{.nativefont lang=sina}
@@ -86,13 +86,13 @@ The first to rise kept the long song of the stars, which is sung from the first 
 2 [.Sing these stars in another order: it is another song, and it is true.]{lang=en}
 2 [.Luuro ovuu iha nuuvanu vennas uttes orvessaho uttes olnaro onsa tennai onsa]{lang=sina}
 
-1 [Leëvi ehii ummes ihaho erni ehii iha osotos setty ehii]{.nativefont lang=sina} [—]{lang=sina}
-2 [We all sit here. We know this because we have stood]{lang=en}[—]{lang=en}
-2 [Leëvi ehii ummes ihaho erni ehii iha osotos setty ehii]{lang=sina} [—]{lang=sina}
+1 [Leëvi ehii ummes ihaho erni ehii iha osotos setty ehii]{.nativefont lang=sina} [[—]{lang=zxx}]{lang=sina}
+2 [We all sit here. We know this because we have stood]{lang=en}[—]{lang=zxx}
+2 [Leëvi ehii ummes ihaho erni ehii iha osotos setty ehii]{lang=sina} [[—]{lang=zxx}]{lang=sina}
 
-1 [.\[…\]]{lang=sina}
-2 [.\[…\]]{lang=en}
-2 [.\[…\]]{lang=sina}
+1 [.\[…\]]{lang=zxx}
+2 [.\[…\]]{lang=zxx}
+2 [.\[…\]]{lang=zxx}
 
 1 [Evatte ehi elneri velti ilte talnava nerrava velti ilte olnaro]{.nativefont lang=sina}
 2 [I say: the world is one shape of what exists. A song is one shape of sound.]{lang=en}
@@ -333,7 +333,7 @@ The account names the hearths that came by what each keeps, as before: from the 
 2 [.Ahi vandel ehi onsa setty ehi aunekke issaltehǒ]{lang=sina}
 
 1 [Evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte]{.nativefont lang=sina}
-2 [I say: a world ends]{lang=en}[—]{lang=en}[a hearth, a valley, everyone there]{lang=en}[—]{lang=en}[in one night,]{lang=en}
+2 [I say: a world ends]{lang=en}[—]{lang=zxx}[a hearth, a valley, everyone there]{lang=en}[—]{lang=zxx}[in one night,]{lang=en}
 2 [Evatte ehi seltai talnava aukkessa aunekke lirne vennas ummes esoho ossendaho ilte]{lang=sina}
 
 1 [.Ahi erni talnava iha aunekke aldevanho setty lenti sauttenho aldesse polpeho eso leikenho aurannos]{.nativefont lang=sina}

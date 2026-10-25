@@ -59,7 +59,7 @@ test("Atárzadi preserves the original names, stems, endings, metadata and prose
         hash(words.slice(0, 40)),
         "18086d735f63cdf0df9c9c68ba168b1b577df8a3d91792ddb2b768461fdbc330",
     );
-    const { words: _words, fields, ...data } = note.fm.data;
+    const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
     assert.equal(
         hash({ ...note.fm, data }),
         "c173ebf6f82d0c711391ee010af4170348cbaedf3c84f2c85a9ff19c549613c1",

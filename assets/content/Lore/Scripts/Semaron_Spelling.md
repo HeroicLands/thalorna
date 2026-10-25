@@ -7,8 +7,26 @@ data:
   packFolder: languages
   map:
     name: semaron
-    vowels: "aeiouëAEIOUËáéíóúÁÉÍÓÚ"
+    vowels: "aeiouëàAEIOUËÀáéíóúÁÉÍÓÚ"
     rows:
+      - ["tà", "󰉁󰉰󰈰"] # U+F0241 U+F0270 U+F0230
+      - ["tÀ", "󰉁󰉰󰈀"] # U+F0241 U+F0270 U+F0200
+      - ["Tà", "󰈑󰉰󰈰"] # U+F0211 U+F0270 U+F0230
+      - ["TÀ", "󰈑󰉰󰈀"] # U+F0211 U+F0270 U+F0200
+      - ["kà", "󰈹󰉰󰈰"] # U+F0239 U+F0270 U+F0230
+      - ["kÀ", "󰈹󰉰󰈀"] # U+F0239 U+F0270 U+F0200
+      - ["Kà", "󰈉󰉰󰈰"] # U+F0209 U+F0270 U+F0230
+      - ["KÀ", "󰈉󰉰󰈀"] # U+F0209 U+F0270 U+F0200
+      - ["dà", "󰈲󰉰󰈰"] # U+F0232 U+F0270 U+F0230
+      - ["dÀ", "󰈲󰉰󰈀"] # U+F0232 U+F0270 U+F0200
+      - ["Dà", "󰈂󰉰󰈰"] # U+F0202 U+F0270 U+F0230
+      - ["DÀ", "󰈂󰉰󰈀"] # U+F0202 U+F0270 U+F0200
+      - ["gà", "󰈵󰉰󰈰"] # U+F0235 U+F0270 U+F0230
+      - ["gÀ", "󰈵󰉰󰈀"] # U+F0235 U+F0270 U+F0200
+      - ["Gà", "󰈅󰉰󰈰"] # U+F0205 U+F0270 U+F0230
+      - ["GÀ", "󰈅󰉰󰈀"] # U+F0205 U+F0270 U+F0200
+      - ["à", "󰈰󰉰"] # U+F0230 U+F0270
+      - ["À", "󰈀󰉰"] # U+F0200 U+F0270
       - ["a", "󰈰"] # U+F0230
       - ["A", "󰈀"] # U+F0200
       - ["b", "󰈱"] # U+F0231
@@ -136,11 +154,6 @@ data:
       - ["`", "󰉰"] # U+F0270
       - ["-", "󰉰"] # U+F0270
       - [".", "󰉨"] # U+F0268
-      - [",", "󰉨"] # U+F0268
-      - [";", "󰉨"] # U+F0268
-      - [":", "󰉨"] # U+F0268
-      - ["—", "󰉨"] # U+F0268
-      - ["–", "󰉨"] # U+F0268
       - ["0", "󰉘"] # U+F0258
       - ["1", "󰉙"] # U+F0259
       - ["2", "󰉚"] # U+F025A
@@ -154,10 +167,10 @@ data:
     fonts: [{font: semaron-kuriale}]
 ---
 
-Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-semrnscrpt|Semaron]]. A passage marked with `map=semaron` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. Every language written in the Semaron shares these rows. A language's lexicon states a native form only for a word that these rows would spell differently.
+Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-semrnscrpt|Semaron]]. A native passage marked with `.nativefont`, its language and `map=semaron` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. Every language written in the Semaron shares these rows. A language's lexicon states a native form only for a word that these rows would spell differently.
 
 ```text
-[Zaron tholmeza]{lang=vyl font=semaron-kuriale map=semaron}
+[Zaron tholmeza]{.nativefont lang=vyl font=semaron-kuriale map=semaron}
 ```
 
 ## From the Spelling Guide to Semaron
@@ -168,8 +181,9 @@ Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **A doubled _a_, _i_ or _u_ is the long vowel**, a letter of its own with the curl drawn into it. The first letter's case picks the minuscule or the majuscule. _ee_ and _oo_ are two plain vowels.
 - **An acute vowel is the plain vowel.** The Semaron writes no stress.
 - **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. Acute _ý_ follows the same rule, with no stress mark in the script.
-- **The catch** (`'`, `’`, a grave accent or a hyphen) is a mark set over the letter before it. With no letter before it, it prints the box.
-- **Every pause** (`.`, `,`, `;`, `:` and both dashes) is the one point.
+- **The Vylari grave vowel _à_ carries a catch.** In ancient _tà_, _kà_, _dà_ and _gà_ the stop takes the catch stroke before the plain _a_ is written; the first letter and the vowel each keep their own case. Thus _kàralzon_ keeps its stroke over _k_. Elsewhere _à_ writes _a_ with the stroke over it, as in the Alessa article. These rows write the native letters and catch directly.
+- **Other tongues' catch spellings** (`'`, `’`, a standalone grave accent or a hyphen) set a mark over the preceding letter. With no letter before it, it prints the box. These aliases do not authorize those characters in Vylari.
+- **Period alone writes the pause point.** Commas, colons, semicolons and dashes do not map to a point. A language's roman character inventory decides which source characters it permits; the shared map does not supply punctuation permissions.
 - **The numerals** 0 to 9 are the Semaron numerals.
 - **_ë_ is the letter _e_.**
 - **_q_ is the letter _k_.** The script has no _q_, so a foreign name keeps its roman spelling and is written with _k_: _Meqes_ is written as _Mekes_.

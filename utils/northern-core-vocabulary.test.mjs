@@ -67,7 +67,7 @@ test("Nordmal preserves its names, elements, old meanings and existing prose", (
         hash(old.map(({ concept, ...w }) => w)),
         "1f8d301b4b48cb2b5956e6f8b370f7ef94430075bb8ab463609302e589529423",
     );
-    const { words: _words, fields, ...data } = language.fm.data;
+    const { words: _words, fields, roman: _roman, ...data } = language.fm.data;
     const { register } = data;
     // The Haulonna work on main added this Nordmal name after Thalmdal.
     // Verify that exact addition, then retain the original metadata fingerprint.
@@ -323,7 +323,7 @@ test("Varokhi additions preserve every original word, name piece and ordinary bo
         hash(varokhiWords.slice(0, 90).map(({ concept, ...w }) => w)),
         "90b5aaaeaa2331b510bd81b602d470b3912d63b70cdc56bb5fdc2ddf14676c9e",
     );
-    const { words: _words, fields, register, ...data } = varokhi.fm.data;
+    const { words: _words, fields, register, roman: _roman, ...data } = varokhi.fm.data;
     // Preserve all pre-literature name declarations while the contract test below
     // validates registrations added for the new readings.
     const original = YAML.parse(

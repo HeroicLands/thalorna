@@ -6,6 +6,7 @@ subType: language
 description: "One of Thalorna's oldest living tongues, threaded at the ports with Valtari loanwords and barely known in its interior form."
 tags: []
 data:
+  roman: "aeghiklmnoprstuvwyAEGHIKLMNOPRSTUVWYáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-'"
   core: true
   abbreviation: Kal.
   fields:

@@ -377,7 +377,7 @@ test("Jurthati name-preservation repair retains old rows and native provenance",
         digest(daughter.fm.data.words.slice(0, 339)),
         "1160fc7f26359f2d1b0fe122ec2680cda10f403b80afd4c03bded19718a073d3",
     );
-    const { words: _words, ...data } = daughter.fm.data;
+    const { words: _words, roman: _roman, ...data } = daughter.fm.data;
     assert.equal(
         digest({ ...daughter.fm, data }),
         "04e27d00b94df1c27005def18221b0fe03875350c63cf00fa1f6706d590de678",

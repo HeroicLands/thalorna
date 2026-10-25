@@ -150,7 +150,7 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
     for (let i = 0; i < 85; i++)
         for (const id of originalIds[i])
             assert([words[i].concept ?? []].flat().includes(id), words[i].form);
-    const { words: _words, fields, ...data } = note.fm.data;
+    const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
     assert.equal(
         hash({ ...note.fm, data }),
         "76d4a5e832d562eb24c0f2fdc3e37052b2598548d6cc488d7a6cf13b0465f56e",
@@ -163,8 +163,15 @@ test("Okharik preserves original words, meanings, names, metadata and prose", ()
         name: "Everyday speech",
         holds: "Ordinary words and expressions for perception, bodily life, relationships, things, actions and conversation.",
     });
+    const romanNote =
+        "The roman repertoire includes the established name spellings `j` and `J` (Jákora, Nánjeri) and the straight catch apostrophe (Nkaru'thar, N'aleya).";
+    assert.equal(splitFrontmatter(note.raw).body.split(romanNote).length, 2);
     assert.equal(
-        hash(splitFrontmatter(note.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, "")),
+        hash(
+            splitFrontmatter(note.raw)
+                .body.replace(romanNote + "\n\n", "")
+                .replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
+        ),
         "321bca994318f80824b6550b6fd03f501cab882398d69feb506da3895a7fcea0",
     );
     const beforeData = { ...note.fm.data, words: words.slice(0, 85), fields: fields.slice(0, -1) },

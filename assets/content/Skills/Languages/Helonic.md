@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of culture and the arts—drama, rhetoric, poetry and the epics—spoken in Helionis and the parent of Bizarian and Bethuan."
 tags: []
 data:
+  roman: "abcdefghiklmnoprstuvwyzABCDEFGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.,-jJ"
   core: true
   abbreviation: Hel.
   writtenIn: {map: helonika, font: helonika-book}
@@ -6368,6 +6369,8 @@ sohl:
 Helonic is a tongue of the [Helonic Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Helonic, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
 
 The tongue of [[place-helionis|Helionis]] and the parent of [[skill-byzarnlng|Bizarian Language]] and [[skill-bethunlng|Bethuan Language]]. Helonic is the language of culture and the arts: drama, rhetoric, poetry and the epics, spoken in theaters and assemblies and written in the great epics that define western letters. Though primary speakers are concentrated in Helionis, Helonic carries prestige throughout [[place-midhalnrgn|Mídhalión]], learned by merchants and courtiers who wish to take part in the culture of the age. The schools of [[affiliation-panepistmm|Epistémion]] and [[affiliation-zemorhodhis|Zemor Hodhis]] were first written in Helonic, which is why those institutions keep Helonic names inside the [[affiliation-vylarinmpr|Vylarian system]].
+
+The roman repertoire includes `j` and `J` in its own given and clan names, including Jumina and Jamiros.
 
 ## Overview
 

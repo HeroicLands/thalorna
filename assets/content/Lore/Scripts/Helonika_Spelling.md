@@ -122,11 +122,7 @@ data:
       - ["ÓU", "󰌏"] # U+F030F
       - ["ÓÚ", "󰌏"] # U+F030F
       - [". ", "󰍰"] # U+F0370
-      - ["; ", "󰍰"] # U+F0370
-      - [": ", "󰍰"] # U+F0370
       - [".", "󰍰"] # U+F0370
-      - [";", "󰍰"] # U+F0370
-      - [":", "󰍰"] # U+F0370
       - [",", ""]
       - ["—", ""]
       - ["–", ""]
@@ -163,7 +159,7 @@ Helónika Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Tha
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ē_ or _ō_.
 - **A doubled vowel is two letters.** Helonic writes no length.
 - **_q_ is the letter _k_.** The script has no _q_.
-- **The raised dot takes the place of the space after a sentence.** It acts like a space that ends the sentence as well as the word, so `.`, `;` and `:` followed by a space are written as the dot alone and the next word follows with no space between. A `.`, `;` or `:` with no space after it, at the end of a line or a passage, is the dot as well. **The comma, both dashes and the hyphen write nothing**: the word space carries the light pause, and a compound is written solid.
+- **The raised dot takes the place of the space after a sentence.** It acts like a space that ends the sentence as well as the word, so a period followed by a space is written as the dot alone and the next word follows with no space between. A period with no space after it, at the end of a line or a passage, is the dot as well. The period is its sole roman source; a colon or semicolon is not an alternative spelling. **The comma, both dashes and the hyphen write nothing**: the word space carries the light pause, and a compound is written solid.
 - **The numerals** 0 to 9 are the Helónika digits.
 - **Capitals are the author's.** A capital is written as the majuscule. Write a Helónika passage with a capital only on a name and on the paragraph's first word; the roman transcription beside it keeps the capitals of ordinary writing.
 

@@ -74,6 +74,8 @@ test("Osket preserves all original meanings, optional writings and name interpre
     );
     const fm = structuredClone(language.fm);
     delete fm.data.words;
+    // The new repertoire is checked independently by roman-inventories.test.mjs.
+    delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
     assert.equal(hash(fm), "48a4e105c1d0bb0600b54b77a51f95366cb02c6301d15c0f12aa0ce478d351a7");
     const body = splitFrontmatter(language.raw).body.replace(

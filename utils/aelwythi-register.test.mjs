@@ -14,17 +14,17 @@ const hash = (text) => createHash("sha256").update(text).digest("hex");
 
 test("ordinary Aelwythi questions and courtesies state the addressee's number", () => {
     for (const [concept, form] of [
-        ["question-polar", "Knowest thou him?"],
-        ["question-why", "Wherefore weepest thou?"],
-        ["question-how", "How farest thou?"],
-        ["question-how-many", "How many ben there?"],
-        ["question-to-whom", "To whom speakest thou?"],
-        ["question-for-what-purpose", "To what end labourest thou?"],
-        ["question-clarification", "What meanest thou?"],
+        ["question-polar", "Knowest thou him."],
+        ["question-why", "Wherefore weepest thou."],
+        ["question-how", "How farest thou."],
+        ["question-how-many", "How many ben there."],
+        ["question-to-whom", "To whom speakest thou."],
+        ["question-for-what-purpose", "To what end labourest thou."],
+        ["question-clarification", "What meanest thou."],
         ["expression-please", "I pray thee"],
         ["expression-thank-you", "I thank thee"],
-        ["expression-how-do-you-say", "How sayst thou this in Aelwythi?"],
-        ["expression-what-is-this-called", "What callest thou this?"],
+        ["expression-how-do-you-say", "How sayst thou this in Aelwythi."],
+        ["expression-what-is-this-called", "What callest thou this."],
         ["expression-excuse-me", "By thy leave"],
     ])
         assert(forms(concept).includes(form), `${concept} needs the standard expression ${form}`);
@@ -81,10 +81,41 @@ test("the illustrative sample words retain their reviewed form", () => {
     const proseSamples = samples.split("\n").filter((line) => line.startsWith("> "));
     assert.equal(proseSamples.length, 2);
     assert(proseSamples.every((line) => !/["“”]/.test(line)));
-    let quoted = samples
+    // Exact sample spellings preserve words while applying the declared pause characters.
+    // The enumerated punctuation bytes keep the reviewed words hash unchanged.
+    const reviewed = [
+        [
+            true,
+            "Whither goest thou stranger and what carriest thou in thy pack. The fog lieth heavy on the water and the gate is shut ere dark. Tarry with us this night and we will ask thee naught more.",
+            "Whither goest thou, stranger, and what carriest thou in thy pack? The fog lieth heavy on the water, and the gate is shut ere dark. Tarry with us this night, and we will ask thee naught more.",
+        ],
+        [
+            true,
+            "A word once given is a stone laid in the wall. pluck it out and the whole house falleth.",
+            "A word once given is a stone laid in the wall: pluck it out, and the whole house falleth.",
+        ],
+        [false, "The wool is shorn the barley bound", "The wool is shorn, the barley bound,"],
+        [false, "The last of summer's gold is ground", "The last of summer's gold is ground;"],
+        [false, "Fill high the cup and drink it deep", "Fill high the cup, and drink it deep,"],
+        [false, "And name the dead now fast asleep.", "And name the dead, now fast asleep."],
+        [false, "Go softly thou that walkest late", "Go softly, thou that walkest late,"],
+        [false, "And leave thine offering at the gate", "And leave thine offering at the gate;"],
+        [false, "Who watcheth by the crossing wide", "Who watcheth by the crossing wide"],
+        [false, "Will let the courteous pass beside.", "Will let the courteous pass beside."],
+    ];
+    const actual = samples
         .split("\n")
         .filter((line) => line.startsWith("> ") || /^2 \[.*\]\{lang=aelw\}$/.test(line))
-        .map((line) => (line.startsWith("> ") ? `> "${line.slice(2)}"` : `> ${line.slice(3, -12)}`))
+        .map((line) => [
+            line.startsWith("> "),
+            line.startsWith("> ") ? line.slice(2) : line.slice(3, -12),
+        ]);
+    assert.deepEqual(
+        actual,
+        reviewed.map(([prose, current]) => [prose, current]),
+    );
+    let quoted = reviewed
+        .map(([prose, _current, previous]) => (prose ? `> "${previous}"` : `> ${previous}`))
         .join("\n");
     for (const [current, previous] of [
         ["what carriest thou", "what dost thou carry"],
@@ -194,8 +225,26 @@ test("the register leaves pronunciation, the executable map and existing lexical
         hash(JSON.stringify(data("assets/content/Lore/Pronouncing_Thalorna.md").sounds)),
         "066df2e16173ca2b809ec0744603d0f224dc2ea164785e57009f205d62b6e46c",
     );
+    // The preservation hash includes only these enumerated punctuation rows.
+    // The actual map separately admits period as the sole pause input.
+    const map = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md").map;
+    const pause = String.fromCodePoint(0xf0268);
+    assert.deepEqual(
+        map.rows
+            .filter((row) => (Array.isArray(row) ? row[1] : row.to).includes(pause))
+            .map((row) => (Array.isArray(row) ? row[0] : row.from)),
+        ["."],
+    );
+    const priorMap = {
+        ...map,
+        rows: map.rows.flatMap((row) =>
+            row[0] === "." ?
+                [row, ...Array.from(",;:—–?!¡¿…()[]", (mark) => [mark, pause])]
+            :   [row],
+        ),
+    };
     assert.equal(
-        hash(JSON.stringify(data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md").map)),
+        hash(JSON.stringify(priorMap)),
         "e230cd3f13f39ae325c43e64e21d13591e0ed4363672cfa9fe5a3fe69d033084",
     );
     assert.equal(

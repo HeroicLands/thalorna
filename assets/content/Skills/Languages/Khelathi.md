@@ -6,6 +6,7 @@ subType: language
 description: "The ancient speech of Au'Khelathu, bound to ritual and sorcery, written in the hieroglyphs of the sacred hand for priests and the Qalezu alphabet for everyone else."
 tags: []
 data:
+  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.,·-'"
   core: true
   abbreviation: Khel.
   writtenIn: {map: qalezu, font: qalezu-hand}
@@ -8067,6 +8068,8 @@ sohl:
 ---
 
 Khelathi is a tongue of the Khelathi (isolate) family. Fluency measures the sophistication of expression in Khelathi, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+
+The roman inventory includes `j` and `J` for established place names such as Gar-Medjatozo, alongside the ordinary word sounds.
 
 ## Overview
 

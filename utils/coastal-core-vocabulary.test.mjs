@@ -237,7 +237,8 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
 test("ordinary Provenzal respects its documented sound edges and attested exceptions", () => {
     const body = splitFrontmatter(language.raw).body;
     const samples = body.split("## Sample Phrases")[1].split("\n## ")[0];
-    const formula = "Brave jhorne, genthe korthe; que la preja soie talv vei";
+    const formula = "Brave jhorne genthe korthe. que la preja soie talv vei";
+    assert(language.fm.data.roman.includes("q") && language.fm.data.roman.includes("Q"));
     assert(samples.includes(formula));
     const attested = new Set(["talv", "narthen", "jhorne"]);
     for (const token of attested) assert(samples.includes(`_${token}_`), token);

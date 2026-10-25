@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of the guide-people of the Eastern Reach—unrelated to any lowland family, unwritten, and the one trans-Grazian language a lowlander occasionally learns."
 tags: []
 data:
+  roman: "abdefghiklmnoprstuvwzABDEFGHIKLMNOPRSTUVWZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-"
   core: true
   abbreviation: Hv.
   fields:

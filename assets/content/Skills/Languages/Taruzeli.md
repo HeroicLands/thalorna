@@ -6,6 +6,7 @@ subType: language
 description: "The tongue of Taruzel's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
 tags: []
 data:
+  roman: "abdeghijklmnpqrstuvyzABDEGHIJKLMNPQRSTUVYZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-fFoO"
   core: true
   abbreviation: Taruz.
   fields:
@@ -6904,6 +6905,8 @@ sohl:
 ---
 
 Taruzeli is a tongue of the [Taruzelik Family]{.name data-type="lore"}. Fluency measures the sophistication of expression in Taruzeli, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+
+The roman repertoire retains `f` and `o`, with their capitals, in the existing inherited vocabulary, including fusanush and so. The flavour palette governs new coinages and does not respell this established stock.
 
 ## Overview
 

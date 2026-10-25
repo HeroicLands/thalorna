@@ -6,6 +6,7 @@ subType: language
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."
 tags: []
 data:
+  roman: "abdefghijklmnopqrstuvwyzABDEFGHIJKLMNOPQRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.,·-'"
   core: true
   abbreviation: Dun.
   writtenIn: {map: qalezu, font: qalezu-hand}
@@ -6401,6 +6402,8 @@ sohl:
 ---
 
 Dunhari is a tongue of the Desert family. Fluency measures the sophistication of expression in Dunhari, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+
+The roman repertoire keeps the straight catch apostrophe in the registered name Tigh'Baharan.
 
 ## Overview
 

@@ -69,7 +69,7 @@ test("Hvarn preserves original words, meanings, names, metadata and prose", () =
     ]);
     for (let i = 0; i < 21; i++)
         assert.deepEqual([words[i].concept ?? []].flat(), expectedIds.get(i) ?? [], words[i].form);
-    const { words: _words, fields, ...data } = note.fm.data;
+    const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
     assert.equal(
         hash({ ...note.fm, data }),
         "8b57b3715fd4acd680dff80a718b341cb1755059f5e3f6f85cf82d7a6c74cf18",

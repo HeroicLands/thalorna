@@ -144,7 +144,7 @@ The common transcription and translation below give the text as the [House of Za
 1 [Huri veme lemhur nemi diven. Heri veme nemi mener: nul vurnel danem het nemi pel dimen]{lang=telu}
 2 [That is their claim. Ours: no deity gives one people's place]{lang=en}
 
-1 [dener nedim dimen. ]{lang=telu}[[lore-atarosdty|Ataros]]{lang=telu}[ veme vurnel; hunen hager perim; mener danem vursel dener hunen tarem surun nemi hunen.]{lang=telu}
+1 [dener nedim dimen. ]{lang=telu}[[lore-atarosdty|Ataros]]{lang=dunh}[ veme vurnel; hunen hager perim; mener danem vursel dener hunen tarem surun nemi hunen.]{lang=telu}
 2 [to another. ]{lang=en}[[lore-atarosdty|Ataros]]{lang=en}[ is a god, keeper of the hearth, honored in his seat.]{lang=en}
 
 1 [Hunen nesh veme gerun shenir hunen danem gerhen virem. Tenyut nemi Shirvan veme temvish]{lang=telu}
@@ -348,7 +348,7 @@ The common transcription and translation below give the text as the [House of Za
 1 [Diven turmesh her nemi Ahurdaen. Yune karvem nemi hudem veme benu her nemi perhil.]{lang=telu}
 2 [They tore down the Keeper's temple. Its stones stand in the fire-temple.]{lang=en}
 
-1 [Diven turmesh garmesh vimher nemi ]{lang=telu}[[affiliation-zurathra|Zúrathra]]{lang=telu}[ tarem lu. Perim shenir diven bernir nesh telnir hudem virem]{lang=telu}
+1 [Diven turmesh garmesh vimher nemi ]{lang=telu}[[affiliation-zurathra|Zúrathra]]{lang=dunh}[ tarem lu. Perim shenir diven bernir nesh telnir hudem virem]{lang=telu}
 2 [They tore down the ]{lang=en}[[affiliation-zurathra|Mother's]]{lang=en}[ great spring shrine. Fires they vow to keep burning]{lang=en}
 
 1 [veme hemun vurin nelim shernil. Diven perven hune. Tellumi nesh nilsher]{lang=telu}

@@ -367,10 +367,10 @@ data:
     fonts: [{font: khelathi-zethu-glyphs}]
 ---
 
-Zethu Codage writes the signs of [[skill-khelthzscrpt|Khelathi-zethu Script]] by their ids, in the manner of the Manuel de Codage. A passage marked with `map=zethu-mdc` and no `lang=` is converted sign by sign, so a foreign name, a formula or anything else the [[skill-khelathlng|Khelathi Language]] lexicon does not hold is written exactly as the scribe chooses. The signs are grouped into quadrats and cartouches by the face itself, from the format controls the notation types.
+Zethu Codage writes the signs of [[skill-khelthzscrpt|Khelathi-zethu Script]] by their ids, in the manner of the Manuel de Codage. A passage marked with `.nativefont lang=zxx map=zethu-mdc font=khelathi-zethu-glyphs` is converted sign by sign, so a foreign name, a formula or anything else the [[skill-khelathlng|Khelathi Language]] lexicon does not hold is written exactly as the scribe chooses. The signs are grouped into quadrats and cartouches by the face itself, from the format controls the notation types.
 
 ```text
-::: {font=khelathi-zethu-glyphs map=zethu-mdc}
+::: {.nativefont lang=zxx font=khelathi-zethu-glyphs map=zethu-mdc}
 11-001:11-002-<13-002\*13-003-12-005:16-027>
 :::
 ```

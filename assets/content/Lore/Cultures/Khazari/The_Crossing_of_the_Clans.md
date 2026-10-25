@@ -496,9 +496,9 @@ The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]],
 2 [They keep the oath. The count is its keeping.]{lang=en}
 2 [Vogun durákh bant. Kamv darkh.]{lang=khaz}
 
-1 [Kamv fozd. Khazár thuf thubágh dalk, <<Thaz vudár fozd.>>]{.nativefont lang=khaz}
+1 [Kamv fozd. Khazár thuf thubágh dalk, “Thaz vudár fozd.”]{.nativefont lang=khaz}
 2 [Seven is the count. No one asks the rock what makes it seven.]{lang=en}
-2 [Kamv fozd. Khazár thuf thubágh dalk, <<Thaz vudár fozd.>>]{lang=khaz}
+2 [Kamv fozd. Khazár thuf thubágh dalk, “Thaz vudár fozd.”]{lang=khaz}
 
 1 [Dalk thuf kumáv gazun. Gazun kumáv.]{.nativefont lang=khaz}
 2 [The rock does not count us. We count.]{lang=en}
@@ -796,9 +796,9 @@ The text is from a lead sheet in the hand form of [[skill-drthrkscrpt|Pirzath]],
 2 [Nobody builds it for our use. We do not shape it. It is found.]{lang=en}
 2 [Khapav thuf bumáth gazun. Gazun thuf kuvál zavan. Vog fakír.]{lang=khaz}
 
-1 [<<Fakír>>, gandh zi fakarir gunádh, bagar.]{.nativefont lang=khaz}
+1 [“Fakír”, gandh zi fakarir gunádh, bagar.]{.nativefont lang=khaz}
 2 [Found: the finder’s word for a cave.]{lang=en}
-2 [<<Fakír>>, gandh zi fakarir gunádh, bagar.]{lang=khaz}
+2 [“Fakír”, gandh zi fakarir gunádh, bagar.]{lang=khaz}
 
 1 [Bagar duráv fakar. Vog zuvák kolg.]{.nativefont lang=khaz}
 2 [The cave precedes the finding. It is there.]{lang=en}

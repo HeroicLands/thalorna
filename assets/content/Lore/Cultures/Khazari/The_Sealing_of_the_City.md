@@ -144,7 +144,7 @@ data:
 
 1 [Vogun dunáv vog, kedz nuzám, vogun duháv batam,]{.nativefont lang=khaz}
 2 [They took him afterward; they needed time,]{lang=en}
-2 [Vogun dunáv vog, kedz nuzám; vogun duháv batam,]{lang=khaz}
+2 [Vogun dunáv vog, kedz nuzám, vogun duháv batam,]{lang=khaz}
 
 1 .[vogun thuf thunáz khapav. Gazun thuf guván.]{.nativefont lang=khaz}
 2 .[and gave us nothing.]{lang=en}
@@ -288,7 +288,7 @@ data:
 
 1 .[Tavaz, buráth,]{.nativefont lang=khaz}
 2 .[They carried each one:]{lang=en}
-2 .[Tavaz, buráth:]{lang=khaz}
+2 .[Tavaz, buráth,]{lang=khaz}
 
 1 [satav zi hukhanf puvár, 40 tafanez,]{.nativefont lang=khaz}
 2 [up the refuge stair, sixty-four steps,]{lang=en}
@@ -736,7 +736,7 @@ data:
 
 1 [Nulup, zi nuzáv gazím vadhal, lumáv,]{.nativefont lang=khaz}
 2 [[Nulup]{.name data-type="being/npc" lang=khaz}, born in the hungry year, wrote:]{lang=en}
-2 [Nulup, zi nuzáv gazím vadhal, lumáv:]{lang=khaz}
+2 [Nulup, zi nuzáv gazím vadhal, lumáv,]{lang=khaz}
 
 1 .[vog humák, tasím.]{.nativefont lang=khaz}
 2 .[it rings sound.]{lang=en}
@@ -848,11 +848,11 @@ data:
 
 1 [Kodz davan, bakas, malg, gandhez,]{.nativefont lang=khaz}
 2 [That day's wax, in the flowing hand, says:]{lang=en}
-2 [Kodz davan, bakas, malg, gandhez:]{lang=khaz}
+2 [Kodz davan, bakas, malg, gandhez,]{lang=khaz}
 
-1 .[<< Kedz davan tanv suvár, nudháp >>.]{.nativefont lang=khaz}
+1 .[“ Kedz davan tanv suvár, nudháp ”.]{.nativefont lang=khaz}
 2 .[“This day the gate sends down—”]{lang=en}
-2 .[<< Kedz davan tanv suvár, nudháp >>.]{lang=khaz}
+2 .[“ Kedz davan tanv suvár, nudháp ”.]{lang=khaz}
 
 1 [Bakas dumán kolg. Khapav thuf puráv vog, kedz nuzám.]{.nativefont lang=khaz}
 2 [The wax stops there. Nobody cleans it afterward.]{lang=en}
@@ -880,31 +880,31 @@ data:
 
 1 [vog gunádh,]{.nativefont lang=khaz}
 2 [and it says:]{lang=en}
-2 [vog gunádh:]{lang=khaz}
+2 [vog gunádh,]{lang=khaz}
 
-1 .[<< Zardhez zi bamíg zapal puvár >>.]{.nativefont lang=khaz}
+1 .[“ Zardhez zi bamíg zapal puvár ”.]{.nativefont lang=khaz}
 2 .[“Vermin belonging to the deep country”.]{lang=en}
-2 .[<< Zardhez zi bamíg zapal puvár >>.]{lang=khaz}
+2 .[“ Zardhez zi bamíg zapal puvár ”.]{lang=khaz}
 
-1 .[<< Khagílez, varg >>.]{.nativefont lang=khaz}
+1 .[“ Khagílez, varg ”.]{.nativefont lang=khaz}
 2 .[“Dangerous at the far edge”.]{lang=en}
-2 .[<< Khagílez, varg >>.]{lang=khaz}
+2 .[“ Khagílez, varg ”.]{lang=khaz}
 
-1 .[<< Vogun thuf saturágh >>.]{.nativefont lang=khaz}
+1 .[“ Vogun thuf saturágh ”.]{.nativefont lang=khaz}
 2 .[“They cannot concentrate”.]{lang=en}
-2 .[<< Vogun thuf saturágh >>.]{lang=khaz}
+2 .[“ Vogun thuf saturágh ”.]{lang=khaz}
 
-1 .[<< Lafadirez thuf batunám >>.]{.nativefont lang=khaz}
+1 .[“ Lafadirez thuf batunám ”.]{.nativefont lang=khaz}
 2 .[“The spawners do not cooperate”.]{lang=en}
-2 .[<< Lafadirez thuf batunám >>.]{lang=khaz}
+2 .[“ Lafadirez thuf batunám ”.]{lang=khaz}
 
-1 .[<< Vogun thuf bumár bakatirez >>.]{.nativefont lang=khaz}
+1 .[“ Vogun thuf bumár bakatirez ”.]{.nativefont lang=khaz}
 2 .[“They will not form an army”.]{lang=en}
-2 .[<< Vogun thuf bumár bakatirez >>.]{lang=khaz}
+2 .[“ Vogun thuf bumár bakatirez ”.]{lang=khaz}
 
-1 .[<< Vogun thuf >>.]{.nativefont lang=khaz}
+1 .[“ Vogun thuf ”.]{.nativefont lang=khaz}
 2 .[“They cannot”.]{lang=en}
-2 .[<< Vogun thuf >>.]{lang=khaz}
+2 .[“ Vogun thuf ”.]{lang=khaz}
 
 1 [Tavíz lanur varn.]{.nativefont lang=khaz}
 2 [Every line is true.]{lang=en}
@@ -1056,7 +1056,7 @@ data:
 
 1 .[Filnath puvár zavadhez, kamv,]{.nativefont lang=khaz}
 2 .[The account numbers the skylights:]{lang=en}
-2 .[Filnath puvár zavadhez, kamv:]{lang=khaz}
+2 .[Filnath puvár zavadhez, kamv,]{lang=khaz}
 
 1 [43 zavadhez,]{.nativefont lang=khaz}
 2 [sixty-seven skylights,]{lang=en}
@@ -1108,7 +1108,7 @@ data:
 
 1 [Vogun dulák tavaz, vog zunám dalk zi lurám vog,]{.nativefont lang=khaz}
 2 [They dressed each to resemble the surrounding stone:]{lang=en}
-2 [Vogun dulák tavaz, vog zunám dalk zi lurám vog:]{lang=khaz}
+2 [Vogun dulák tavaz, vog zunám dalk zi lurám vog,]{lang=khaz}
 
 1 .[labaz bep baval-zubák,]{.nativefont lang=khaz}
 2 .[its bedding and its water stain,]{lang=en}
@@ -1292,7 +1292,7 @@ data:
 
 1 .[bep falg,]{.nativefont lang=khaz}
 2 .[and over the dead:]{lang=en}
-2 .[bep falg:]{lang=khaz}
+2 .[bep falg,]{lang=khaz}
 
 1 [Ramk samíd.]{.nativefont lang=khaz}
 2 [the course is raised.]{lang=en}

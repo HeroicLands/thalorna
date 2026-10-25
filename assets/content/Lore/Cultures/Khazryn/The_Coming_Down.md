@@ -230,7 +230,7 @@ Stand now: the roll is spoken standing. This is how a house's eldest recites at 
 2 [  _Mernagord._]{lang=en}
 
 
-1 [Yermimtenhur. Yermim tenhur. Nire nivun, tarem vengun telvem, hamil ]{lang=telu}[[place-estrnreach|Eastern Reach]]{lang=telu}[, tarem silnel vemun dunir benu yermim damlir.]{lang=telu}
+1 [Yermimtenhur. Yermim tenhur. Nire nivun, tarem vengun telvem, hamil ]{lang=telu}[[place-estrnreach|Eastern Reach]]{lang=en}[, tarem silnel vemun dunir benu yermim damlir.]{lang=telu}
 2 [Yermimtenhur. Green peak. Seventh, at the east end under the ]{lang=en}[[place-estrnreach|Eastern Reach]]{lang=en}[, a glacier in a green valley.]{lang=en}
 
 1 [Nire nivun narvim genbun vanel hudem, genur, lemir hever semel ferul lu hamil silnel. Hudem hager nartim; hudem nesh felmer]{lang=telu}

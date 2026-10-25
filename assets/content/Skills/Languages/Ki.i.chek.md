@@ -6,6 +6,7 @@ subType: language
 description: "The glottal, glyph-written tongue of the Ki'ich'chik city-states, with short everyday words and richly compounded titles."
 tags: []
 data:
+  roman: "abcehiklmnopqstuyzABCEHIKLMNOPQSTUYZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-'’"
   core: true
   abbreviation: Kiichk.
   icon: icon-speaking
@@ -3109,7 +3110,7 @@ data:
     - {name: Ish'ilan Ch'alish, tongue: kiichek}
     - {name: Ish'ilankul, tongue: kiichek}
     - {name: Ish'ilankul Region, tongue: translation}
-    - {name: Ishkul Ch’alish, tongue: kiichek}
+    - {name: "Ishkul Ch’alish", tongue: kiichek}
     - {name: Ishtem Tsul, tongue: kiichek}
     - {name: Ishtem Tsul Region, tongue: translation}
     - {name: K'anish Ha'kan, tongue: kiichek}
@@ -3130,8 +3131,8 @@ data:
     - {name: Nal'ik Ts'uqal, tongue: kiichek}
     - {name: Ne'ok Ba'ate, tongue: kiichek}
     - {name: Ne'ok Ba'ate Region, tongue: translation}
-    - {name: Ne’ Ki’ahkul, tongue: kiichek}
-    - {name: Ne’ P’ashel, tongue: kiichek}
+    - {name: "Ne’ Ki’ahkul", tongue: kiichek}
+    - {name: "Ne’ P’ashel", tongue: kiichek}
     - {name: Northern Ki'ich'chik, tongue: translation}
     - {name: Owl Keepers, tongue: translation}
     - {name: P'enqal Ch'akal, tongue: kiichek}
@@ -3142,7 +3143,7 @@ data:
     - {name: Pik'ul Ts'umaq, tongue: kiichek}
     - {name: Q'aptel Tsa'kul, tongue: kiichek}
     - {name: Q'aptel Tsa'kul Region, tongue: translation}
-    - {name: Q’aptel’ul Ne’ok, tongue: kiichek}
+    - {name: "Q’aptel’ul Ne’ok", tongue: kiichek}
     - {name: "Ritual: Ish'ilan Ch'alish", tongue: translation}
     - {name: "Ritual: K'anish Ha'kan", tongue: translation}
     - {name: "Ritual: K'ayik Ch'alish", tongue: translation}
@@ -3184,11 +3185,11 @@ data:
     - {name: Ts'uma No'tun Region, tongue: translation}
     - {name: Ts'umaq K'alanil, tongue: kiichek}
     - {name: Ts'uqil Ish'bal, tongue: kiichek}
-    - {name: Ts’alam Ne’, tongue: kiichek}
-    - {name: Ts’alam Ts'ultel, tongue: kiichek}
+    - {name: "Ts’alam Ne’", tongue: kiichek}
+    - {name: "Ts’alam Ts'ultel", tongue: kiichek}
     - {name: Shaq'ik Ha'nal, tongue: kiichek}
     - {name: Shelem, tongue: kiichek}
-    - {name: Shelem Ch’alish, tongue: kiichek}
+    - {name: "Shelem Ch’alish", tongue: kiichek}
     - {name: Shelem Ish'bal, tongue: kiichek}
     - {name: Shelem Ish'bal Region, tongue: translation}
     - {name: Shelem Region, tongue: translation}
@@ -3276,6 +3277,8 @@ sohl:
 ---
 
 Ki'i'chek is a tongue of the Ki'i'chek (independent isolate) family. Fluency measures the sophistication of expression in Ki'i'chek, from the halting phrases of a traveler to the nuanced and learned discourse of a native speaker. As with all specific languages, this skill inherits its mechanics from the general [[sohl-none-docskill-lang|Language]] skill.
+
+The roman inventory also keeps the curly catch apostrophe `’` in established names such as Ishkul Ch’alish and Ne’ Ki’ahkul, as the phonetic rules below record. It has the same lexical catch role as the straight apostrophe, not a quotation or pause role. New ordinary words use the straight apostrophe.
 
 ## Overview
 

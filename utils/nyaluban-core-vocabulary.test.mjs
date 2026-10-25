@@ -67,6 +67,8 @@ test("Nyáluban preserves all original meanings, optional writings and name inte
     );
     const fm = structuredClone(language.fm);
     delete fm.data.words;
+    // The new repertoire is checked independently by roman-inventories.test.mjs.
+    delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
     // Oral readings deliberately remove a default script and distinguish stress
     // from unwritten tone; every older name declaration and other setting stays.

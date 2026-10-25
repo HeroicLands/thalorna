@@ -342,9 +342,9 @@ data:
 2 [Have you heard the Long-Watcher’s speech that the Seer heard?]{lang=en}
 2 [Uvi kelsa ovu ansorun evakka oso kelsa iltorîn]{lang=sina}
 
-1 [.Entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe]{.nativefont lang=sina} [\[…\]]{lang=sina} [ulnavaho]{.nativefont lang=sina}
-2 [.Even in a year wetter than all the others, the ground under the]{lang=en} [\[…\]]{lang=en} [is dry.]{lang=en}
-2 [.Entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe]{lang=sina} [\[…\]]{lang=sina} [ulnavaho]{lang=sina}
+1 [.Entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe]{.nativefont lang=sina} [\[…\]]{lang=zxx} [ulnavaho]{.nativefont lang=sina}
+2 [.Even in a year wetter than all the others, the ground under the]{lang=en} [\[…\]]{lang=zxx} [is dry.]{lang=en}
+2 [.Entel mekkis toimunu ummes uttes toimunutos vennas harsel polpe]{lang=sina} [\[…\]]{lang=zxx} [ulnavaho]{lang=sina}
 
 1 [.Entel tenvas nervel olpeira vennas naukki ovu esoho tupe tupenno iha elnis nervel olpeiratos vennas]{.nativefont lang=sina}
 2 [.When heavy dreams come, sleep there. The place is kept for heavy dreams.]{lang=en}

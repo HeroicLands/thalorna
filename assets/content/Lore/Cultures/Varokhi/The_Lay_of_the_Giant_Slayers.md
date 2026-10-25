@@ -444,7 +444,7 @@ The lay names no people but its own and the giants. [[lore-takingwood|The Taking
 ***
 1 […][ wenga. Nefren er hem forwe.]{.nativefont lang=varo}    [Jiwra er hem stewra.]{.nativefont lang=varo}
 2 [[…] goes. His name lost.    His deed remains.]{lang=en}
-2 [[…] wenga. Nefren er hem forwe.    Jiwra er hem stewra.]{lang=varo}
+2 [\[…\]]{lang=zxx}[ wenga. Nefren er hem forwe.    Jiwra er hem stewra.]{lang=varo}
 
 1 [Hem harve melwa er hundar inwe bawen.]{.nativefont lang=varo}    [Hem delra hem orwe isra.]{.nativefont lang=varo}
 2 [Dog-meat in his bag.    He shares it on ice.]{lang=en}

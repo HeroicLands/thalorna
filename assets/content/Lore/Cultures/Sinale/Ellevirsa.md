@@ -137,17 +137,17 @@ The stone and the living song differ by one pair. The stone closes on the name o
 2 [Oak on the slope; oak at the slope’s foot; seed in the earth.]{lang=en}
 2 [Torvel lentasho torvel lentas polpeho aimetti maldesho]{lang=sina}
 
-1 [.Rysse melkeho elkes oso]{.nativefont lang=sina} [\[…\]]{lang=sina}
-2 [.Rowan at the water. An ash which]{lang=en} [\[…\]]{lang=en}
-2 [.Rysse melkeho elkes oso]{lang=sina} [\[…\]]{lang=sina}
+1 [.Rysse melkeho elkes oso]{.nativefont lang=sina} [\[…\]]{lang=zxx}
+2 [.Rowan at the water. An ash which]{lang=en} [\[…\]]{lang=zxx}
+2 [.Rysse melkeho elkes oso]{lang=sina} [\[…\]]{lang=zxx}
 
-1 [\[…\]]{lang=sina}
-2 [\[…\]]{lang=en}
-2 [\[…\]]{lang=sina}
+1 [\[…\]]{lang=zxx}
+2 [\[…\]]{lang=zxx}
+2 [\[…\]]{lang=zxx}
 
-1 [.\[…\]]{lang=sina} [hantel lirta aume hantel olteho]{.nativefont lang=sina}
-2 [.\[…\]]{lang=en} [hazel. Nothing grows in the hazel’s shadow.]{lang=en}
-2 [.\[…\]]{lang=sina} [hantel lirta aume hantel olteho]{lang=sina}
+1 [.\[…\]]{lang=zxx} [hantel lirta aume hantel olteho]{.nativefont lang=sina}
+2 [.\[…\]]{lang=zxx} [hazel. Nothing grows in the hazel’s shadow.]{lang=en}
+2 [.\[…\]]{lang=zxx} [hantel lirta aume hantel olteho]{lang=sina}
 
 1 [Hersel ardasho rauttu vilkai vattel]{.nativefont lang=sina}
 2 [Pine on the ridge. The wind moves its branches.]{lang=en}
@@ -509,13 +509,13 @@ The stone and the living song differ by one pair. The stone closes on the name o
 2 [.I do not close the world. Close this valley.]{lang=en}
 2 [.Ahi halpe ehi talnava kalpe ovuu iha aunekke]{lang=sina}
 
-1 [\[…\]]{lang=sina}
-2 [\[…\]]{lang=en}
-2 [\[…\]]{lang=sina}
+1 [\[…\]]{lang=zxx}
+2 [\[…\]]{lang=zxx}
+2 [\[…\]]{lang=zxx}
 
-1 [.\[…\]]{lang=sina} [entel tupe ehii aunekke ehii ninte onsa]{.nativefont lang=sina}
-2 [.\[…\]]{lang=en} [if we hold the valley, it is our house.]{lang=en}
-2 [.\[…\]]{lang=sina} [entel tupe ehii aunekke ehii ninte onsa]{lang=sina}
+1 [.\[…\]]{lang=zxx} [entel tupe ehii aunekke ehii ninte onsa]{.nativefont lang=sina}
+2 [.\[…\]]{lang=zxx} [if we hold the valley, it is our house.]{lang=en}
+2 [.\[…\]]{lang=zxx} [entel tupe ehii aunekke ehii ninte onsa]{lang=sina}
 
 ***
 

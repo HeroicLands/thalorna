@@ -58,17 +58,17 @@ data:
 2 [Read a face well and you read the hold’s next sixty-four years. The hold lives within your reading. Read it clumsily and the hold lives within that instead. It does not know the reader’s name until a tread falls.]{lang=en}
 2 [Hiz ves rukád khabar, bamír rakad, ves rukád 40 vadhalez zi nuzám. Khardev purám, zavan zi ves rukád buvár vog. Hiz rakad gharíp, khardev purám, kodz rakad buvár vog. Khardev thuf ruthák mardh zi rakadir puvár. Tafan pugár, mardh nuzáv.]{lang=khaz}
 
-1 [Khabar, margez thuf zuvák. Lamv durákh bazan, bozd gandhez. Khamdir zi dhanív khumád buráth sathav. Vog dhuráz kelg, sathav dhuráz lez. Khalvan gunádh, <<Khardev puvár huvalthez, gev thuf puvár hukhanf.>> Kivil gunádh, <<Lamv durákh ravizez favadez, gev thuf zunáp mardh.>> Hartir hurát zik gunádhez. Bozd gandhez duráv vogun.]{.nativefont lang=khaz}
+1 [Khabar, margez thuf zuvák. Lamv durákh bazan, bozd gandhez. Khamdir zi dhanív khumád buráth sathav. Vog dhuráz kelg, sathav dhuráz lez. Khalvan gunádh, “Khardev puvár huvalthez, gev thuf puvár hukhanf.” Kivil gunádh, “Lamv durákh ravizez favadez, gev thuf zunáp mardh.” Hartir hurát zik gunádhez. Bozd gandhez duráv vogun.]{.nativefont lang=khaz}
 2 [A face; no bones. The record keeps the saying in four words. Its meaning leaves with the first hearer. Khalvan says: a hold with homes and no refuge. Kivil says: a record with many warrants and no fault entered against a name. Both readings are read. The four words come first.]{lang=en}
-2 [Khabar, margez thuf zuvák. Lamv durákh bazan, bozd gandhez. Khamdir zi dhanív khumád buráth sathav. Vog dhuráz kelg, sathav dhuráz lez. Khalvan gunádh, <<Khardev puvár huvalthez, gev thuf puvár hukhanf.>> Kivil gunádh, <<Lamv durákh ravizez favadez, gev thuf zunáp mardh.>> Hartir hurát zik gunádhez. Bozd gandhez duráv vogun.]{lang=khaz}
+2 [Khabar, margez thuf zuvák. Lamv durákh bazan, bozd gandhez. Khamdir zi dhanív khumád buráth sathav. Vog dhuráz kelg, sathav dhuráz lez. Khalvan gunádh, “Khardev puvár huvalthez, gev thuf puvár hukhanf.” Kivil gunádh, “Lamv durákh ravizez favadez, gev thuf zunáp mardh.” Hartir hurát zik gunádhez. Bozd gandhez duráv vogun.]{lang=khaz}
 
 1 [! Ves kumáv bagar. Dulák nuzám kamv. Padharez, darpez, gadamez, fasdh zi funád bep fasdh zi dubáz. Ves dulák kodz zi ves thuf kumáv.]{.nativefont lang=khaz}
 2 [Count a cave before cutting: chambers, drips, columns, moving air and still air. You cut through what you do not count.]{lang=en}
 2 [! Ves kumáv bagar. Dulák nuzám kamv. Padharez, darpez, gadamez, fasdh zi funád bep fasdh zi dubáz. Ves dulák kodz zi ves thuf kumáv.]{lang=khaz}
 
-1 [Samad gunádh lez. Sadív badath, khabar. Nabaf durákh labaz nuv thanp. <<Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.>>]{.nativefont lang=khaz}
+1 [Samad gunádh lez. Sadív badath, khabar. Nabaf durákh labaz nuv thanp. “Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.”]{.nativefont lang=khaz}
 2 [At the north quarter’s face, an apprentice’s hand on the seam, Samad also says: You ask where to cut. The stone tells you the joint already there.]{lang=en}
-2 [Samad gunádh lez. Sadív badath, khabar. Nabaf durákh labaz nuv thanp. <<Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.>>]{lang=khaz}
+2 [Samad gunádh lez. Sadív badath, khabar. Nabaf durákh labaz nuv thanp. “Ves thubágh, Thuz dulák. Dalk gunádh bakath zi zuvák.”]{lang=khaz}
 
 1 [Bazan @ nuláv kedz bazanez, pabak-mulág durákh vog. Hirtath zathík. Dazimez zitalathez zi margez puvár thuláv. Margez thuláv, vald thuf zuvák. Marg zi thuf puvár vald, vem ganzez, thuf gandh. ]{.nativefont lang=khaz}[…][. Hartir gunádh, bazan zi Samad puvár thuf rakíd, bep hurát khapav.]{.nativefont lang=khaz}
 2 [A tenth saying lies below these on the lead, worn down to the heavier skeleton-strokes. The frame is absent; a skeleton without its frame is three sounds and no word: […]. The reader says a saying of Samad is worn unreadable, and continues.]{lang=en}
@@ -164,15 +164,15 @@ data:
 
 ***
 
-1 [Fanth karím, hiz favíz Khazár zi vuzám maník fanth thuvál, bep Khazár thuf thubágh, <<Thaz vudár zavak zi tamb puvár.>>]{.nativefont lang=khaz}
+1 [Fanth karím, hiz favíz Khazár zi vuzám maník fanth thuvál, bep Khazár thuf thubágh, “Thaz vudár zavak zi tamb puvár.”]{.nativefont lang=khaz}
 2 [The hall is finished when the last person who sees it empty is dead, and no one asks why the pillar stands there.]{lang=en}
-2 [Fanth karím, hiz favíz Khazár zi vuzám maník fanth thuvál, bep Khazár thuf thubágh, <<Thaz vudár zavak zi tamb puvár.>>]{lang=khaz}
+2 [Fanth karím, hiz favíz Khazár zi vuzám maník fanth thuvál, bep Khazár thuf thubágh, “Thaz vudár zavak zi tamb puvár.”]{lang=khaz}
 
 ***
 
-1 [Khalvan gunádh zalm zi vagath puvár, tavíz ramk. <<Ramk dubáz.>> Nabaf thubágh, <<Thaz zalm kuvál, ramk.>> Khalvan gunádh, <<Thuf. Ramk ramík, vog dubáz. ! Ves gunádh zalm lez. Zalm zugáb thanp, ramk karím. Hiz thanp thuf khumád kedz, vog rugál bep thumár hez.>>]{.nativefont lang=khaz}
+1 [Khalvan gunádh zalm zi vagath puvár, tavíz ramk. “Ramk dubáz.” Nabaf thubágh, “Thaz zalm kuvál, ramk.” Khalvan gunádh, “Thuf. Ramk ramík, vog dubáz. ! Ves gunádh zalm lez. Zalm zugáb thanp, ramk karím. Hiz thanp thuf khumád kedz, vog rugál bep thumár hez.”]{.nativefont lang=khaz}
 2 [Over every course Khalvan says his house’s charm: The course lies still. An apprentice asks what the charm makes in the course. Khalvan says: Nothing. The course is laid true and lies still. Say the charm anyway. It tells the hand the course is finished. A hand that does not hear this returns for another blow.]{lang=en}
-2 [Khalvan gunádh zalm zi vagath puvár, tavíz ramk. <<Ramk dubáz.>> Nabaf thubágh, <<Thaz zalm kuvál, ramk.>> Khalvan gunádh, <<Thuf. Ramk ramík, vog dubáz. ! Ves gunádh zalm lez. Zalm zugáb thanp, ramk karím. Hiz thanp thuf khumád kedz, vog rugál bep thumár hez.>>]{lang=khaz}
+2 [Khalvan gunádh zalm zi vagath puvár, tavíz ramk. “Ramk dubáz.” Nabaf thubágh, “Thaz zalm kuvál, ramk.” Khalvan gunádh, “Thuf. Ramk ramík, vog dubáz. ! Ves gunádh zalm lez. Zalm zugáb thanp, ramk karím. Hiz thanp thuf khumád kedz, vog rugál bep thumár hez.”]{lang=khaz}
 ```
 
 ## Thimir of Marg-buráth
@@ -268,9 +268,9 @@ data:
 2 [When you complain about the burden going down to the caches, go down and see it waiting.]{lang=en}
 2 [Hiz ves zumán barth zi nudháp makasez, ves nudháp bep vuzám vog zi puzál.]{lang=khaz}
 
-1 [Hiz gandhir zugán ves, <<! Ves nudháp,>> ves buráth badakez. Vasg nuzáv. Ves buráth vog bep rugál.]{.nativefont lang=khaz}
+1 [Hiz gandhir zugán ves, “! Ves nudháp,” ves buráth badakez. Vasg nuzáv. Ves buráth vog bep rugál.]{.nativefont lang=khaz}
 2 [When someone calls you down, bring tools. A judgment approaches. You will carry it back up.]{lang=en}
-2 [Hiz gandhir zugán ves, <<! Ves nudháp,>> ves buráth badakez. Vasg nuzáv. Ves buráth vog bep rugál.]{lang=khaz}
+2 [Hiz gandhir zugán ves, “! Ves nudháp,” ves buráth badakez. Vasg nuzáv. Ves buráth vog bep rugál.]{lang=khaz}
 
 1 [Hukhanf bugán daghal, khardev buvár thanp zi bugán vog. ! Ves nubát zavan zi ves puvár, hiz ves kurán Khazár zi nuzáv.]{.nativefont lang=khaz}
 2 [The refuge seals its door with a hand inside. Remember your place when you choose who enters.]{lang=en}
@@ -352,9 +352,9 @@ data:
 2 [You praise [Puthakun]{.name data-type="being/npc"} this morning by tapping the face and waiting. You speak his name afterward. You say the same words again.]{lang=en}
 2 [Ves hunáz Puthakun, kedz larg, ves tupák khabar bep puzál. Ves gunádh vog puvár mardh, kodz nuzám. Ves gunádh ladhíp gandhez hez.]{lang=khaz}
 
-1 [Nabaf lamák taghív lamv, tob sirvath, bep buráth vog Kivil. Vog tumás khumád, <<Ves puvár vog.>> Kivil thukáb sirvath nuv maník sirvath zi lalap buráth. Vog gunádh thakab. <<Kedz thakíb, burádh dhanív sirvath. Ves thuf.>>]{.nativefont lang=khaz}
+1 [Nabaf lamák taghív lamv, tob sirvath, bep buráth vog Kivil. Vog tumás khumád, “Ves puvár vog.” Kivil thukáb sirvath nuv maník sirvath zi lalap buráth. Vog gunádh thakab. “Kedz thakíb, burádh dhanív sirvath. Ves thuf.”]{.nativefont lang=khaz}
 2 [An apprentice copies the whole chain on one slate and brings it to Kivil. He wants to hear: You have it. Kivil weighs it against a blank slate from the shelf and speaks the weight. This is heavier than the first slate. You are not.]{lang=en}
-2 [Nabaf lamák taghív lamv, tob sirvath, bep buráth vog Kivil. Vog tumás khumád, <<Ves puvár vog.>> Kivil thukáb sirvath nuv maník sirvath zi lalap buráth. Vog gunádh thakab. <<Kedz thakíb, burádh dhanív sirvath. Ves thuf.>>]{lang=khaz}
+2 [Nabaf lamák taghív lamv, tob sirvath, bep buráth vog Kivil. Vog tumás khumád, “Ves puvár vog.” Kivil thukáb sirvath nuv maník sirvath zi lalap buráth. Vog gunádh thakab. “Kedz thakíb, burádh dhanív sirvath. Ves thuf.”]{lang=khaz}
 ```
 
 ## Dulkun of Khalv-gunáv
@@ -388,17 +388,17 @@ data:
 2 [We tap a face for a season, then open its window. We never tap the valley. We open a granary and establish a people beside it like a prop. The hold stands without listening to its hunger.]{lang=en}
 2 [Gazun tupák khabar, fask, bep vunád vand. Gazun thuf tupák khadhav. Gazun puthák hutadhaf, bep vudár tamur zi nuzám vog, ladhíp sakap. Khardev zuvák bep thuf sumág gazam zi vog puvár.]{lang=khaz}
 
-1 [Gaz zuvák kodz khadhav, vadhal-fusák zi vogun puvár. Khank zi gaz khunák nuzám tafanez zi gaz puvár, buvár baval zi khardev puvár. Gaz vuzám vogun zi buráth tamkh zi khardev puvár, nalív satav zi dalk buvár. Vogun thuf sutáv, tanv. Vogun thuf thubágh. Khapav thuf nudháp bep thubágh vogun, <<Vesun tumás zef.>>]{.nativefont lang=khaz}
+1 [Gaz zuvák kodz khadhav, vadhal-fusák zi vogun puvár. Khank zi gaz khunák nuzám tafanez zi gaz puvár, buvár baval zi khardev puvár. Gaz vuzám vogun zi buráth tamkh zi khardev puvár, nalív satav zi dalk buvár. Vogun thuf sutáv, tanv. Vogun thuf thubágh. Khapav thuf nudháp bep thubágh vogun, “Vesun tumás zef.”]{.nativefont lang=khaz}
 2 [I stand in that valley at the turning of their year. My channel passes my feet, full of the hold’s water. I see them carrying the hold’s food to the lower stair inside the rock. They do not climb past the gate. They do not ask. Nobody goes down to ask them: Do you want to?]{lang=en}
-2 [Gaz zuvák kodz khadhav, vadhal-fusák zi vogun puvár. Khank zi gaz khunák nuzám tafanez zi gaz puvár, buvár baval zi khardev puvár. Gaz vuzám vogun zi buráth tamkh zi khardev puvár, nalív satav zi dalk buvár. Vogun thuf sutáv, tanv. Vogun thuf thubágh. Khapav thuf nudháp bep thubágh vogun, <<Vesun tumás zef.>>]{lang=khaz}
+2 [Gaz zuvák kodz khadhav, vadhal-fusák zi vogun puvár. Khank zi gaz khunák nuzám tafanez zi gaz puvár, buvár baval zi khardev puvár. Gaz vuzám vogun zi buráth tamkh zi khardev puvár, nalív satav zi dalk buvár. Vogun thuf sutáv, tanv. Vogun thuf thubágh. Khapav thuf nudháp bep thubágh vogun, “Vesun tumás zef.”]{lang=khaz}
 
 1 [Gaz thuf gunádh, khadhav gazím. Vog gunát. Gaz gunádh, Khazár zi kedz khardev puvár thuf durám kodz khadhav, fask, bep sumág vog. Hiz nabaf dugár khabar ladhíp, gazun tuvár badakez zi vog puvár.]{.nativefont lang=khaz}
 2 [I do not call the valley hungry. It eats. I say nobody from this hold sits in that valley for a season to listen. If an apprentice forces a face that way, we take away their tools.]{lang=en}
 2 [Gaz thuf gunádh, khadhav gazím. Vog gunát. Gaz gunádh, Khazár zi kedz khardev puvár thuf durám kodz khadhav, fask, bep sumág vog. Hiz nabaf dugár khabar ladhíp, gazun tuvár badakez zi vog puvár.]{lang=khaz}
 
-1 [Hiz khardev gunádh, <<Kedz zanp,>> ves zunáp mardh zi gaz puvár. Gaz tumás kedz zanp zi nuzám gaz puvár mardh. Gaz thuf tumás zanp zi thuf nuzám mardh.]{.nativefont lang=khaz}
+1 [Hiz khardev gunádh, “Kedz zanp,” ves zunáp mardh zi gaz puvár. Gaz tumás kedz zanp zi nuzám gaz puvár mardh. Gaz thuf tumás zanp zi thuf nuzám mardh.]{.nativefont lang=khaz}
 2 [If the hold calls this shame, enter it against my name. I want this shame beside my name. I do not want shame beside no name.]{lang=en}
-2 [Hiz khardev gunádh, <<Kedz zanp,>> ves zunáp mardh zi gaz puvár. Gaz tumás kedz zanp zi nuzám gaz puvár mardh. Gaz thuf tumás zanp zi thuf nuzám mardh.]{lang=khaz}
+2 [Hiz khardev gunádh, “Kedz zanp,” ves zunáp mardh zi gaz puvár. Gaz tumás kedz zanp zi nuzám gaz puvár mardh. Gaz thuf tumás zanp zi thuf nuzám mardh.]{lang=khaz}
 ```
 
 ## Hulbun of Lakam-mulán
@@ -452,13 +452,13 @@ data:
 2 [The valley never asks for that work. It asks for repair each thaw; that stands. The valley never refuses that work either. If this is force, name the joint.]{lang=en}
 2 [Khadhav thuf thubágh kodz bamur. Vog thubágh mand, tavíz talz, kodz zuvák. Khadhav thuf thuvár kodz bamur lez. Hiz kedz dagar, ves gunádh bakath.]{lang=khaz}
 
-1 [Butum khumád rantod zi hartir hurát. Vog gunádh, <<Pabak gunádh mand zi vogun thubágh. Vog thuf gunádh bamur zi vogun thubágh, hiz khapav nudháp bep thubágh vogun.>>]{.nativefont lang=khaz}
+1 [Butum khumád rantod zi hartir hurát. Vog gunádh, “Pabak gunádh mand zi vogun thubágh. Vog thuf gunádh bamur zi vogun thubágh, hiz khapav nudháp bep thubágh vogun.”]{.nativefont lang=khaz}
 2 [Butum hears the reckoning read. She says: The lead says what they ask repaired. It never says what they would ask if someone went down to ask them.]{lang=en}
-2 [Butum khumád rantod zi hartir hurát. Vog gunádh, <<Pabak gunádh mand zi vogun thubágh. Vog thuf gunádh bamur zi vogun thubágh, hiz khapav nudháp bep thubágh vogun.>>]{lang=khaz}
+2 [Butum khumád rantod zi hartir hurát. Vog gunádh, “Pabak gunádh mand zi vogun thubágh. Vog thuf gunádh bamur zi vogun thubágh, hiz khapav nudháp bep thubágh vogun.”]{lang=khaz}
 
-1 [Hulbun gunádh, <<Kodz thuf zuvák, lamv.>>]{.nativefont lang=khaz}
+1 [Hulbun gunádh, “Kodz thuf zuvák, lamv.”]{.nativefont lang=khaz}
 2 [Hulbun says: That does not stand in the record.]{lang=en}
-2 [Hulbun gunádh, <<Kodz thuf zuvák, lamv.>>]{lang=khaz}
+2 [Hulbun gunádh, “Kodz thuf zuvák, lamv.”]{lang=khaz}
 
 1 [Lamv durákh zik, tob lanb. Khardev thuf zunáp mardh, zik bazanez. Khapav thuf thubágh pabarez.]{.nativefont lang=khaz}
 2 [The record keeps both on one sheet. The hold enters neither saying against a name. Nobody asks the elders.]{lang=en}
@@ -500,9 +500,9 @@ data:
 2 [Count before cutting. Count again when the cut is finished. If the second count exceeds the first, enter the difference.]{lang=en}
 2 [! Ves kumáv dulákez bep dulák, bep kumáv hez, dulák zi kurám. Hiz zik kamv burádh dhanív kamv, ves lumáv badhal.]{lang=khaz}
 
-1 [Khatab zuvák zanp-lumáv. Vog gunádh, <<Gaz tumás kedz bep dunáv vog.>>]{.nativefont lang=khaz}
+1 [Khatab zuvák zanp-lumáv. Vog gunádh, “Gaz tumás kedz bep dunáv vog.”]{.nativefont lang=khaz}
 2 [A straight line confesses shame. It says: I want this and take it.]{lang=en}
-2 [Khatab zuvák zanp-lumáv. Vog gunádh, <<Gaz tumás kedz bep dunáv vog.>>]{lang=khaz}
+2 [Khatab zuvák zanp-lumáv. Vog gunádh, “Gaz tumás kedz bep dunáv vog.”]{lang=khaz}
 
 1 [Gharp zi ves bugán zuvák zik dulákez. Dulák, bep bagan. Lamv durákh zik, davan zi Khazár rukáv vog. Khazár rukáv vog.]{.nativefont lang=khaz}
 2 [The clumsy cut you seal away is two cuts: the cut and its hiding. The record keeps both on the day someone finds it. Someone finds it.]{lang=en}
@@ -520,9 +520,9 @@ data:
 2 [Ears last longer than hands. Nobody says this before you need it.]{lang=en}
 2 [Kasumez butám bep burádh thanpez. Khapav thuf gunádh kedz bep ves duháv vog.]{lang=khaz}
 
-1 [Fakarirez rukád khabar. Gatharirez rukád vog, hamk. Vog pulágh lez. Vog pulágh gaz. Khapav thuf ghuráp. Dalk puvár gazak zi khapav thuf kumáv. Lamv durákh kedz lez, mardh thuf. Hartir hurát kedz, tavíz nabaf zi thudáv, <<Gaz kurám samg.>>]{.nativefont lang=khaz}
+1 [Fakarirez rukád khabar. Gatharirez rukád vog, hamk. Vog pulágh lez. Vog pulágh gaz. Khapav thuf ghuráp. Dalk puvár gazak zi khapav thuf kumáv. Lamv durákh kedz lez, mardh thuf. Hartir hurát kedz, tavíz nabaf zi thudáv, “Gaz kurám samg.”]{.nativefont lang=khaz}
 2 [The finders read a face. The masters sound it. It can still fall. It falls on me. Nobody cuts clumsily. The stone has a flaw nobody counts. The record keeps this too, against no name. The reader reads it to each apprentice who thinks: I finish listening.]{lang=en}
-2 [Fakarirez rukád khabar. Gatharirez rukád vog, hamk. Vog pulágh lez. Vog pulágh gaz. Khapav thuf ghuráp. Dalk puvár gazak zi khapav thuf kumáv. Lamv durákh kedz lez, mardh thuf. Hartir hurát kedz, tavíz nabaf zi thudáv, <<Gaz kurám samg.>>]{lang=khaz}
+2 [Fakarirez rukád khabar. Gatharirez rukád vog, hamk. Vog pulágh lez. Vog pulágh gaz. Khapav thuf ghuráp. Dalk puvár gazak zi khapav thuf kumáv. Lamv durákh kedz lez, mardh thuf. Hartir hurát kedz, tavíz nabaf zi thudáv, “Gaz kurám samg.”]{lang=khaz}
 
 1 [Hiz ves thuf thumár hez, ves durám khabar, nuv nabafez. Ves khumád thagham zi vogun thuf khumád. Ves thuf puvár damag zi rugán ves, bep ves thuf puzál.]{.nativefont lang=khaz}
 2 [When you no longer strike, sit at the face with apprentices. You hear what they miss. You have no hammer leading you to impatience.]{lang=en}

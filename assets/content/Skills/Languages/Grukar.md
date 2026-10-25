@@ -6,6 +6,7 @@ subType: language
 description: "How the Grukar converse: by body language and scent, with grunts, growls, bellows and screams for emphasis, and no words and no script."
 tags: []
 data:
+  roman: ""
   abbreviation: Gruk.
   icon: icon-speaking
   templatePriority: null
@@ -226,6 +227,8 @@ Two Grukar converse with the whole body and with the air around it. Posture, the
 To a human the exchange looks like restlessness and smells like a strong stink. A band of Grukar standing together never stands still: they shift their weight, roll their shoulders, turn their heads and edge closer and away, and the air round them grows rank and changes as it grows. A human sees fidgeting and smells a reek. What passes between the Grukar in that time is a conversation.
 
 The [[being-grkrahk|Grukar-ahk]]'s suppressing scent, which keeps its reserves barren within a chamber or two of it, is the strongest and steadiest of these signals, and the one every Grukar of a tribe lives inside.
+
+Its empty `data.roman` inventory states that this language has no written words; a tagged roman passage cannot supply vocabulary for its displays.
 
 ## The sounds {#sounds}
 

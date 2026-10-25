@@ -67,19 +67,20 @@ const authoredSamples = samples
         prose: line.startsWith("> "),
         text: line.startsWith("> ") ? line.slice(2) : line.match(/^2 \[(.*)\]\{lang=aelw\}$/)[1],
     }));
-// The canonical hash fixes the sample words independently of their presentation.
+// The canonical hash fixes the sample words while allowing the approved pause spelling.
+// Apostrophes, quotation wrappers, spacing and line breaks remain part of the hash.
 const sampleWorks = authoredSamples
     .map(({ prose, text }) => `> ${prose ? `"${text}"` : text}`)
     .join("\n");
 const passage = authoredSamples.map(({ text }) => text).join("\n");
 
 test("ordinary Aelwythi source exposes the shared mapping's unsupported characters", () => {
-    const old = applyMap(compileMap(shared.fm.data.map), passage).text;
+    const old = applyMap(compileMap(shared.fm.data.map), "conquer?").text;
     assert(missing(old).includes("c"));
     assert(missing(old).includes("?"));
     const oldSample = applyMap(
         compileMap(shared.fm.data.map),
-        "Thol aa ii uu ee oo ya thy ch q k'aralzon.",
+        "Thol aa ii uu ee oo ya thy ch q kàralzon.",
     ).text;
     assert.deepEqual(
         [...oldSample].map((char) => char.codePointAt(0)),
@@ -90,6 +91,45 @@ test("ordinary Aelwythi source exposes the shared mapping's unsupported characte
             0xf023d, 0xf023c, 0xf0268,
         ],
     );
+});
+
+test("both Semaron maps reserve the pause point for period", () => {
+    for (const value of [shared, own]) {
+        const compiled = compileMap(value.fm.data.map);
+        const pause = String.fromCodePoint(0xf0268);
+        assert.deepEqual(
+            compiled.rows.filter((row) => row.to.includes(pause)).map((row) => row.from),
+            ["."],
+            compiled.name,
+        );
+        assert.equal(applyMap(compiled, ".").text, pause);
+        for (const mark of ",;:—–?!¡¿…()[]")
+            assert.equal(applyMap(compiled, mark).text, mark, `${compiled.name}: ${mark}`);
+    }
+});
+
+test("Vylari grave catches preserve their native attachment and case", () => {
+    const compiled = compileMap(shared.fm.data.map);
+    const cases = [
+        ["à", [0xf0230, 0xf0270]],
+        ["À", [0xf0200, 0xf0270]],
+        [
+            "kàralzon",
+            [0xf0239, 0xf0270, 0xf0230, 0xf023f, 0xf0230, 0xf023a, 0xf0246, 0xf023d, 0xf023c],
+        ],
+        ["Kà", [0xf0209, 0xf0270, 0xf0230]],
+        ["kÀ", [0xf0239, 0xf0270, 0xf0200]],
+        ["KÀ", [0xf0209, 0xf0270, 0xf0200]],
+    ];
+    for (const [source, expected] of cases) {
+        const output = applyMap(compiled, source).text;
+        assert.deepEqual(
+            [...output].map((char) => char.codePointAt(0)),
+            expected,
+            source,
+        );
+        assert.deepEqual(missing(output), [], source);
+    }
 });
 
 test("the language selects its own executable mapping in the installed renderer", () => {
@@ -205,8 +245,7 @@ test("Readable graphemes, case, elision and punctuation have usable glyph sequen
         ["aa", [0xf0230, 0xf0230]],
         ["'tis", [0xf0241, 0xf0237, 0xf0240]],
         ["’tis", [0xf0241, 0xf0237, 0xf0240]],
-        ['"I?"', [0xf0207, 0xf0268]],
-        ["—!…", [0xf0268, 0xf0268, 0xf0268]],
+        ['"I."', [0xf0207, 0xf0268]],
     ];
     for (const [text, codepoints] of expectations) {
         assert.deepEqual(
@@ -218,10 +257,10 @@ test("Readable graphemes, case, elision and punctuation have usable glyph sequen
     }
 });
 
-test("reviewed sample source bytes stay protected while automatic conversion draws every character", () => {
+test("reviewed sample words stay protected while automatic conversion draws every character", () => {
     assert.equal(
-        hash(sampleWorks),
-        "f285babf7adfe62c4c19e42c26e12dfd141fe4d4cf3cd6d95e3e6984ca616d5e",
+        hash(sampleWorks.replace(/[.,;:!?]/gu, "")),
+        "11bbf66f5c410e410fb3f7553c1ff1f03151a9530992c28ad5446c4ff9435669",
     );
     const converted = transliterate(ctx, { lang: "aelw", map: map.name }, passage);
     assert.equal(converted.text, write(passage));

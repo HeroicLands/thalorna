@@ -30,15 +30,15 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Khardev, vadhal 1^4. Talg durákh raghav zi nuzáv tanv. Dhanív davan, nalp, favíz davan, talz 29. Tanv puvár gavam, 80 maval zi nuzáv parath. Talz, 9 zuvák. Tamur zi zuvák tanv, parath, $^, talz, $2. Khardev puvár fadhaz zi tanv suvár, kamv dhapíl, kalv thuf zuvák, parath. Pabarez puthák makasez. Vagathez guván tamkh zi vogun duháv. Tanv thuf guván.]{.nativefont lang=khaz}
 2 [Year 484 of the hold. Snow covered the road to the gate, from the first day of winter to the forty-first day of the thaw. The gate had a herd: 128 head brought up in autumn. At the thaw nine remained. The tribe at the gate: 206 in autumn, 178 at the thaw. The deliveries owed to the hold were a third short in autumn. The elders opened the caches. The houses received what they needed. The gate received nothing.]{lang=en}
-2 [Khardev, vadhal 1^4. Talg durákh raghav zi nuzáv tanv. Dhanív davan, nalp; favíz davan, talz 29. Tanv puvár gavam, 80 maval zi nuzáv parath. Talz, 9 zuvák. Tamur zi zuvák tanv, parath: $^; talz: $2. Khardev puvár fadhaz zi tanv suvár; kamv dhapíl, kalv thuf zuvák, parath. Pabarez puthák makasez. Vagathez guván tamkh zi vogun duháv. Tanv thuf guván.]{lang=khaz}
+2 [Khardev, vadhal 1^4. Talg durákh raghav zi nuzáv tanv. Dhanív davan, nalp, favíz davan, talz 29. Tanv puvár gavam, 80 maval zi nuzáv parath. Talz, 9 zuvák. Tamur zi zuvák tanv, parath, $^, talz, $2. Khardev puvár fadhaz zi tanv suvár, kamv dhapíl, kalv thuf zuvák, parath. Pabarez puthák makasez. Vagathez guván tamkh zi vogun duháv. Tanv thuf guván.]{lang=khaz}
 
-1 [Gisvin, Tanv-guráz, tanvir. Khardev, vadhal 1@7, vog bunát, bamg. << Khardev puvár tamkh. Tamkh thuf fudhál tanv hiz pabarez thuf gunádh. >> Nalp, navath 20, 28, 33, vog nudháp makasez bep buráth tamkh, tanv-fudhál. Taradh, $ garadez, tanv-mutház, malak zi maghíp, 4, maltev, 1, lazam, 2 havamez. Dunuk, Bamg-durákh, makasir, vuzám vog, vem navathez, vog lumáv kedz. Vogun zugán vog, vog nudháp. Vogun thubágh. Vog gunádh, << Gaz puthák vog. >> Vog thuf gunádh khapav gandh.]{.nativefont lang=khaz}
+1 [Gisvin, Tanv-guráz, tanvir. Khardev, vadhal 1@7, vog bunát, bamg. “ Khardev puvár tamkh. Tamkh thuf fudhál tanv hiz pabarez thuf gunádh. ” Nalp, navath 20, 28, 33, vog nudháp makasez bep buráth tamkh, tanv-fudhál. Taradh, $ garadez, tanv-mutház, malak zi maghíp, 4, maltev, 1, lazam, 2 havamez. Dunuk, Bamg-durákh, makasir, vuzám vog, vem navathez, vog lumáv kedz. Vogun zugán vog, vog nudháp. Vogun thubágh. Vog gunádh, “ Gaz puthák vog. ” Vog thuf gunádh khapav gandh.]{.nativefont lang=khaz}
 2 [[Gisvin of [Tanv-guráz]{.name data-type="affiliation/lineage"}]{.name data-type="being/npc"}, gatekeeper. Year 423 of the hold: he swore below, “The hold has its stores. Nothing passes the gate without the elders' word.” On winter nights thirty-two, forty and fifty-one he went down to the caches and carried supplies through the gate. Barley: twelve sacks by the gate measure. Dried meat: four. Salt: one. Oil: two jars. [Dunuk of Bamg-durákh]{.name data-type="being/npc"}, keeper of the caches, saw him on the third night and recorded it. They called him down. They questioned him. He said, “I opened it.” He said nothing further.]{lang=en}
-2 [Gisvin, Tanv-guráz, tanvir. Khardev, vadhal 1@7: vog bunát, bamg. << Khardev puvár tamkh. Tamkh thuf fudhál tanv hiz pabarez thuf gunádh. >> Nalp, navath 20, 28, 33: vog nudháp makasez bep buráth tamkh, tanv-fudhál. Taradh: $ garadez, tanv-mutház; malak zi maghíp: 4; maltev: 1; lazam: 2 havamez. Dunuk, Bamg-durákh, makasir, vuzám vog, vem navathez; vog lumáv kedz. Vogun zugán vog, vog nudháp. Vogun thubágh. Vog gunádh, << Gaz puthák vog. >> Vog thuf gunádh khapav gandh.]{lang=khaz}
+2 [Gisvin, Tanv-guráz, tanvir. Khardev, vadhal 1@7, vog bunát, bamg. “ Khardev puvár tamkh. Tamkh thuf fudhál tanv hiz pabarez thuf gunádh. ” Nalp, navath 20, 28, 33, vog nudháp makasez bep buráth tamkh, tanv-fudhál. Taradh, $ garadez, tanv-mutház, malak zi maghíp, 4, maltev, 1, lazam, 2 havamez. Dunuk, Bamg-durákh, makasir, vuzám vog, vem navathez, vog lumáv kedz. Vogun zugán vog, vog nudháp. Vogun thubágh. Vog gunádh, “ Gaz puthák vog. ” Vog thuf gunádh khapav gandh.]{lang=khaz}
 
 1 [Savam durám bamíg fanth, davan 36. Vogun hurát bant zi dalk puvár. Vogun hurát lamv. Lamv zuvák. Bant zi gaz bunát bamg, guzár, vog thuf nudháp hez. Khardev puvár makasez, vog buráth tamkh bep fudhál khardev, khardev buláv vog. Vagath thuf puvár vog. Hukhanf thuf puvár zavan zi vog dunáv. Tanv-guráz guván badakez. Vogun puráz zik vasgez, bant nuláv vogun thuf, vogun nuláv bant. Vog fudhál tanv, davan 37, talg. Vagathez huráp makasez. Kedz duráv talz.]{.nativefont lang=khaz}
 2 [The council sat in the deep hall on day fifty-four. They read the oath from the stone. They read the record. The record stood. An oath sworn below has been broken: he shall not descend again. Stores belonging to the hold were carried beyond it: the hold expels him. No house holds him. He has no place in the refuge. His tools pass to [Tanv-guráz]{.name data-type="affiliation/lineage"}. Both judgments were cut beneath the oath. He passed the gate on day fifty-five, in snow. The houses replenished the caches before the thaw.]{lang=en}
-2 [Savam durám bamíg fanth, davan 36. Vogun hurát bant zi dalk puvár. Vogun hurát lamv. Lamv zuvák. Bant zi gaz bunát bamg, guzár: vog thuf nudháp hez. Khardev puvár makasez; vog buráth tamkh bep fudhál khardev: khardev buláv vog. Vagath thuf puvár vog. Hukhanf thuf puvár zavan zi vog dunáv. Tanv-guráz guván badakez. Vogun puráz zik vasgez; bant nuláv vogun thuf, vogun nuláv bant. Vog fudhál tanv, davan 37, talg. Vagathez huráp makasez. Kedz duráv talz.]{lang=khaz}
+2 [Savam durám bamíg fanth, davan 36. Vogun hurát bant zi dalk puvár. Vogun hurát lamv. Lamv zuvák. Bant zi gaz bunát bamg, guzár, vog thuf nudháp hez. Khardev puvár makasez, vog buráth tamkh bep fudhál khardev, khardev buláv vog. Vagath thuf puvár vog. Hukhanf thuf puvár zavan zi vog dunáv. Tanv-guráz guván badakez. Vogun puráz zik vasgez, bant nuláv vogun thuf, vogun nuláv bant. Vog fudhál tanv, davan 37, talg. Vagathez huráp makasez. Kedz duráv talz.]{lang=khaz}
 
 1 [Lamv dumán tanv.]{.nativefont lang=khaz}
 2 [The record stops at the gate.]{lang=en}
@@ -81,7 +81,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 .[lazam, havam zi zuvák zik lalap,]{.nativefont lang=khaz}
 2 .[oil from the jar on the second shelf,]{lang=en}
-2 .[lazam, havam zi zuvák zik lalap;]{lang=khaz}
+2 .[lazam, havam zi zuvák zik lalap,]{lang=khaz}
 
 1 [sanv khasíp, napad padhal bagín,]{.nativefont lang=khaz}
 2 [the wick cut short, the shutter half shut,]{lang=en}
@@ -173,7 +173,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vem dulákez, favíz dulák bumár satav.]{.nativefont lang=khaz}
 2 [Of the three cuts, the last made the stair.]{lang=en}
-2 [Vem dulákez: favíz dulák bumár satav.]{lang=khaz}
+2 [Vem dulákez, favíz dulák bumár satav.]{lang=khaz}
 
 1 .[Tafanez nuzám vog.]{.nativefont lang=khaz}
 2 .[Feet use it.]{lang=en}
@@ -237,7 +237,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Khabar, hupadal navíd bep baval-zubák,]{.nativefont lang=khaz}
 2 [The cliff, from the southern buttress to the water stain:]{lang=en}
-2 [Khabar, hupadal navíd bep baval-zubák:]{lang=khaz}
+2 [Khabar, hupadal navíd bep baval-zubák,]{lang=khaz}
 
 1 .[9 vandez.]{.nativefont lang=khaz}
 2 .[nine windows.]{lang=en}
@@ -245,11 +245,11 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vem, Tanv-guráz. Bozd, Tanv-guráz.]{.nativefont lang=khaz}
 2 [Three: [Tanv-guráz]{.name data-type="affiliation/lineage"}. Four: [Tanv-guráz]{.name data-type="affiliation/lineage"}.]{lang=en}
-2 [Vem: Tanv-guráz. Bozd: Tanv-guráz.]{lang=khaz}
+2 [Vem, Tanv-guráz. Bozd, Tanv-guráz.]{lang=khaz}
 
 1 .[Zop, gaz puvár vog.]{.nativefont lang=khaz}
 2 .[Five: I had it.]{lang=en}
-2 .[Zop: gaz puvár vog.]{lang=khaz}
+2 .[Zop, gaz puvár vog.]{lang=khaz}
 
 1 [Gaz ruthák vand, zalv zi nuláv vog, napík pard, zalv zi gaval,]{.nativefont lang=khaz}
 2 [I know the sill by its small chip on the left edge,]{lang=en}
@@ -297,7 +297,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 .[bep kumáv garadez,]{.nativefont lang=khaz}
 2 .[and count the sacks;]{lang=en}
-2 .[bep kumáv garadez;]{lang=khaz}
+2 .[bep kumáv garadez,]{lang=khaz}
 
 1 [kolg vogun hubád, narív satav karím,]{.nativefont lang=khaz}
 2 [where they sang when the long stair was complete,]{lang=en}
@@ -305,7 +305,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 .[vadhal zi gaz bunát,]{.nativefont lang=khaz}
 2 .[the year I swore;]{lang=en}
-2 .[vadhal zi gaz bunát;]{lang=khaz}
+2 .[vadhal zi gaz bunát,]{lang=khaz}
 
 1 [kolg sapavev zi gaz puvár nubád, sapav puvár lafadez, vogun murádh vogun,]{.nativefont lang=khaz}
 2 [where my sister married and they named my brother's children,]{lang=en}
@@ -313,7 +313,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 .[gaz zuvák bozd lanur,]{.nativefont lang=khaz}
 2 .[and I stood in the fourth row;]{lang=en}
-2 .[gaz zuvák bozd lanur;]{lang=khaz}
+2 .[gaz zuvák bozd lanur,]{lang=khaz}
 
 1 [kolg thams nuzám khabar, navar,]{.nativefont lang=khaz}
 2 [where smoke follows the face at evening]{lang=en}
@@ -389,11 +389,11 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Tunvun mudár gaz, lazam bep sanv bep sikarath,]{.nativefont lang=khaz}
 2 [[Tunvun]{.name data-type="being/npc" lang=khaz} taught me oil and wick and bar,]{lang=en}
-2 [Tunvun mudár gaz: lazam bep sanv bep sikarath,]{lang=khaz}
+2 [Tunvun mudár gaz, lazam bep sanv bep sikarath,]{lang=khaz}
 
 1 .[bep hamk zi sikarathez puvár, hals,]{.nativefont lang=khaz}
 2 .[and the sound the bars make in frost;]{lang=en}
-2 .[bep hamk zi sikarathez puvár, hals;]{lang=khaz}
+2 .[bep hamk zi sikarathez puvár, hals,]{lang=khaz}
 
 1 [tanv-kumáv, tamkh zi sugháv bep nudháp,]{.nativefont lang=khaz}
 2 [the gate count, what comes up and goes down,]{lang=en}
@@ -401,7 +401,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 .[dakal zi puráz bep lamv zi durákh,]{.nativefont lang=khaz}
 2 .[the carved tally and the kept record;]{lang=en}
-2 .[dakal zi puráz bep lamv zi durákh;]{lang=khaz}
+2 .[dakal zi puráz bep lamv zi durákh,]{lang=khaz}
 
 1 [bep bant. Vog zuvák nuv gaz, bamg,]{.nativefont lang=khaz}
 2 [and the oath. He stood with me below]{lang=en}
@@ -429,11 +429,11 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vogun thunáz vog, khapav, vog zop, sikarathez samíd.]{.nativefont lang=khaz}
 2 [They will give it to someone, fifth since the bars were raised.]{lang=en}
-2 [Vogun thunáz vog, khapav; vog zop, sikarathez samíd.]{lang=khaz}
+2 [Vogun thunáz vog, khapav, vog zop, sikarathez samíd.]{lang=khaz}
 
 1 .[Lamv gunádh kedz,]{.nativefont lang=khaz}
 2 .[The record will say:]{lang=en}
-2 .[Lamv gunádh kedz:]{lang=khaz}
+2 .[Lamv gunádh kedz,]{lang=khaz}
 
 1 [Gasvan, Tunuv, Tunvun, Gisvin, bep zop.]{.nativefont lang=khaz}
 2 [[Gasvan]{.name data-type="being/npc" lang=khaz}, [Tunuv]{.name data-type="being/npc" lang=khaz}, [Tunvun]{.name data-type="being/npc" lang=khaz}, Gisvin, and the fifth.]{lang=en}
@@ -497,7 +497,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 .[Gandhez gunádh,]{.nativefont lang=khaz}
 2 .[The words were spoken:]{lang=en}
-2 .[Gandhez gunádh:]{lang=khaz}
+2 .[Gandhez gunádh,]{lang=khaz}
 
 1 [Ramk samíd, ramk thamír.]{.nativefont lang=khaz}
 2 [the course is raised, the course is struck.]{lang=en}
@@ -761,7 +761,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Pabarez gunádh, hukhanf puvár makasez,]{.nativefont lang=khaz}
 2 [The elders said: the refuge has the caches,]{lang=en}
-2 [Pabarez gunádh: hukhanf puvár makasez,]{lang=khaz}
+2 [Pabarez gunádh, hukhanf puvár makasez,]{lang=khaz}
 
 1 .[khardev puvár hukhanf.]{.nativefont lang=khaz}
 2 .[the hold has the refuge.]{lang=en}
@@ -769,7 +769,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vogun gunádh, khardev gunát tamkh zi sugháv tanv,]{.nativefont lang=khaz}
 2 [They said: the hold eats what comes up through the gate,]{lang=en}
-2 [Vogun gunádh: khardev gunát tamkh zi sugháv tanv,]{lang=khaz}
+2 [Vogun gunádh, khardev gunát tamkh zi sugháv tanv,]{lang=khaz}
 
 1 .[kamv zi sugháv dhapíl.]{.nativefont lang=khaz}
 2 .[and that was short.]{lang=en}
@@ -793,7 +793,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vogun gunádh, hiz khardev puthák makasez, tanv guván,]{.nativefont lang=khaz}
 2 [They said: if the hold opens the caches for the gate,]{lang=en}
-2 [Vogun gunádh: hiz khardev puthák makasez, tanv guván,]{lang=khaz}
+2 [Vogun gunádh, hiz khardev puthák makasez, tanv guván,]{lang=khaz}
 
 1 .[khardev thuf puvár makasez.]{.nativefont lang=khaz}
 2 .[it has no caches left for itself.]{lang=en}
@@ -881,7 +881,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vogun thubágh gaz. Gaz gunádh, gaz puthák vog.]{.nativefont lang=khaz}
 2 [They asked me. I said: I opened it.]{lang=en}
-2 [Vogun thubágh gaz. Gaz gunádh: gaz puthák vog.]{lang=khaz}
+2 [Vogun thubágh gaz. Gaz gunádh, gaz puthák vog.]{lang=khaz}
 
 1 .[Gaz thuf gunádh khapav.]{.nativefont lang=khaz}
 2 .[I said no more.]{lang=en}
@@ -905,7 +905,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Bant zi bunát bamg, guzár, nadhap thuf.]{.nativefont lang=khaz}
 2 [An oath sworn below, broken: no descent.]{lang=en}
-2 [Bant zi bunát bamg, guzár: nadhap thuf.]{lang=khaz}
+2 [Bant zi bunát bamg, guzár, nadhap thuf.]{lang=khaz}
 
 1 .[Kedz zadar. Gaz khumád hurát zi gunádh vog.]{.nativefont lang=khaz}
 2 .[That is law. I had heard it read.]{lang=en}
@@ -913,7 +913,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Khardev puvár makasez, vog buráth vogun, vog fudhál khardev,]{.nativefont lang=khaz}
 2 [Stores belonging to the hold, carried beyond the hold:]{lang=en}
-2 [Khardev puvár makasez, vog buráth vogun, vog fudhál khardev:]{lang=khaz}
+2 [Khardev puvár makasez, vog buráth vogun, vog fudhál khardev,]{lang=khaz}
 
 1 .[vog fudhál khardev.]{.nativefont lang=khaz}
 2 .[beyond the hold.]{lang=en}
@@ -921,7 +921,7 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Vogun puráz zik, bant nuláv vogun thuf, vogun nuláv bant. Gaz zuvák kolg.]{.nativefont lang=khaz}
 2 [They cut both beneath the oath. I stood there.]{lang=en}
-2 [Vogun puráz zik, bant nuláv vogun thuf; vogun nuláv bant. Gaz zuvák kolg.]{lang=khaz}
+2 [Vogun puráz zik, bant nuláv vogun thuf, vogun nuláv bant. Gaz zuvák kolg.]{lang=khaz}
 
 1 .[Gaz thuf vuzám thiz puvár thanp.]{.nativefont lang=khaz}
 2 .[I did not see whose hand it was.]{lang=en}
@@ -1163,11 +1163,11 @@ _From the record of Basur-khunák, as the holds copy it._
 
 1 [Dhanv. Vem vazathez, khard-kumáv. Varan, Talg-hunáth, nabaf zi nuzám fakarirez. Vog rukád ravíth khabar, khadhav, hubadarez zi tanv puvár nuláv vog, hunagar. Vog fukár bagar, taríg, zi huzám ravath. Mardh puráz, lanur zi tanv mudár, marg ]{.nativefont lang=khaz}[g-s-v]{.nativefont lang=zxx font=pirzath-hand map=pirzath}[, khatíb lanur fudhál bakath. Vem hart guzár, zavan zi lanur fudhál bakath. Vald thuf zuvák. Vog puráz vem hart hez, zalv zi bakath puvár, bep puráz vald, ]{.nativefont lang=khaz}[i]{.nativefont lang=zxx font=pirzath-hand map=pirzath}[. Lamv lumáv munád bep mardh zi vog puvár. Lamv thuf murádh thanp zi bumár dulák zi vog munád.]{.nativefont lang=khaz}
 2 [First. The hold's third great count. [Varan of Talg-hunáth]{.name data-type="being/npc"}, apprentice to the finders, read the valley's east face above the gate farms for a watch-post. She found a dry cave facing east. A name was cut in the row taught at the gate: the bone g-s-v, in a straight line across a joint. The third letter split where the row crossed the joint. There was no binding. She cut the third letter again beside the joint and scored the binding i. The record gives the repair and her name. It gives no name for the hand that made the cut she repaired.]{lang=en}
-2 [Dhanv. Vem vazathez, khard-kumáv. Varan, Talg-hunáth, nabaf zi nuzám fakarirez. Vog rukád ravíth khabar, khadhav, hubadarez zi tanv puvár nuláv vog, hunagar. Vog fukár bagar, taríg, zi huzám ravath. Mardh puráz, lanur zi tanv mudár: marg ]{lang=khaz}[g-s-v]{lang=zxx}[, khatíb lanur fudhál bakath. Vem hart guzár, zavan zi lanur fudhál bakath. Vald thuf zuvák. Vog puráz vem hart hez, zalv zi bakath puvár, bep puráz vald, ]{lang=khaz}[i]{lang=zxx}[. Lamv lumáv munád bep mardh zi vog puvár. Lamv thuf murádh thanp zi bumár dulák zi vog munád.]{lang=khaz}
+2 [Dhanv. Vem vazathez, khard-kumáv. Varan, Talg-hunáth, nabaf zi nuzám fakarirez. Vog rukád ravíth khabar, khadhav, hubadarez zi tanv puvár nuláv vog, hunagar. Vog fukár bagar, taríg, zi huzám ravath. Mardh puráz, lanur zi tanv mudár, marg ]{lang=khaz}[g-s-v]{lang=zxx}[, khatíb lanur fudhál bakath. Vem hart guzár, zavan zi lanur fudhál bakath. Vald thuf zuvák. Vog puráz vem hart hez, zalv zi bakath puvár, bep puráz vald, ]{lang=khaz}[i]{lang=zxx}[. Lamv lumáv munád bep mardh zi vog puvár. Lamv thuf murádh thanp zi bumár dulák zi vog munád.]{lang=khaz}
 
 1 [Zik. Vem vazathez, khard-kumáv. Varan, Talg-hunáth, nabaf zi nuzám fakarirez. Vog rukád ravíth khabar, khadhav, hubadarez zi tanv puvár nuláv vog, hunagar. Vog fukár bagar, taríg, zi huzám ravath. Mardh puráz, lanur zi tanv mudár, marg ]{.nativefont lang=khaz}[g-s-v]{.nativefont lang=zxx font=pirzath-hand map=pirzath}[, khatíb lanur fudhál bakath. Vem hart guzár, zavan zi lanur fudhál bakath. Vald thuf zuvák. Vog dhuráz vog, ladhap zi vog fukár. Lamv, fakar. Vogun thuf dunáv bagar.]{.nativefont lang=khaz}
 2 [Second. The hold's third great count. [Varan of Talg-hunáth]{.name data-type="being/npc"}, apprentice to the finders, read the valley's east face above the gate farms for a watch-post. She found a dry cave facing east. A name was cut in the row taught at the gate: the bone g-s-v, in a straight line across a joint. The third letter split where the row crossed the joint. There was no binding. She left it as she found it. Entry: found. They did not take the cave.]{lang=en}
-2 [Zik. Vem vazathez, khard-kumáv. Varan, Talg-hunáth, nabaf zi nuzám fakarirez. Vog rukád ravíth khabar, khadhav, hubadarez zi tanv puvár nuláv vog, hunagar. Vog fukár bagar, taríg, zi huzám ravath. Mardh puráz, lanur zi tanv mudár: marg ]{lang=khaz}[g-s-v]{lang=zxx}[, khatíb lanur fudhál bakath. Vem hart guzár, zavan zi lanur fudhál bakath. Vald thuf zuvák. Vog dhuráz vog, ladhap zi vog fukár. Lamv: fakar. Vogun thuf dunáv bagar.]{lang=khaz}
+2 [Zik. Vem vazathez, khard-kumáv. Varan, Talg-hunáth, nabaf zi nuzám fakarirez. Vog rukád ravíth khabar, khadhav, hubadarez zi tanv puvár nuláv vog, hunagar. Vog fukár bagar, taríg, zi huzám ravath. Mardh puráz, lanur zi tanv mudár, marg ]{lang=khaz}[g-s-v]{lang=zxx}[, khatíb lanur fudhál bakath. Vem hart guzár, zavan zi lanur fudhál bakath. Vald thuf zuvák. Vog dhuráz vog, ladhap zi vog fukár. Lamv, fakar. Vogun thuf dunáv bagar.]{lang=khaz}
 
 ```
 
