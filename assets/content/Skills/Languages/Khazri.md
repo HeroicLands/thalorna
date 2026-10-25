@@ -289,6 +289,11 @@ data:
     - name: Core existence
       holds: Ordinary expressions for the existence category of Core Vocabulary.
   words:
+    - form: Delkoshekh
+      class: n
+      field: Law, oath and debt
+      gloss: "The Ashaian teacher-priest who keeps a community's law and custom"
+      source: {kind: borrowed, language: skill-atarzadilng}
     - form: Tellumi
       class: name
       field: Derived words
@@ -6275,7 +6280,184 @@ data:
       source: {kind: coined}
       built: [nesh, bermi]
       concept: unnatural
+    - form: nerbem
+      class: n
+      field: Ordinary usage
+      gloss: "a legal case kept for hearing"
+      source: {kind: coined}
+    - form: lemhur
+      class: n
+      field: Ordinary usage
+      gloss: "a claim of right or title"
+      source: {kind: coined}
+    - form: nerber
+      class: v
+      field: Ordinary usage
+      gloss: "prove a stated claim by evidence"
+      source: {kind: coined}
+    - form: tenem
+      class: v
+      field: Ordinary usage
+      gloss: "read written signs or a recorded text"
+      source: {kind: coined}
+    - form: buder
+      class: v
+      field: Ordinary usage
+      gloss: "press a sign into a surface"
+      source: {kind: coined}
+    - {form: relmer, class: v, field: Ordinary usage, gloss: "sing a song", source: {kind: coined}}
+    - form: perner
+      class: v
+      field: Ordinary usage
+      gloss: "kindle a lamp or fire"
+      source: {kind: coined}
+    - form: karnel
+      class: n
+      field: Ordinary usage
+      gloss: "a doorway's lintel"
+      source: {kind: coined}
+    - form: nelhur
+      class: n
+      field: Ordinary usage
+      gloss: "a water basin or collecting pool"
+      source: {kind: coined}
+    - {form: larnem, class: n, field: Ordinary usage, gloss: "a chisel", source: {kind: coined}}
+    - form: pirvem
+      class: n
+      field: Ordinary usage
+      gloss: "a reed used for writing or pointing"
+      source: {kind: coined}
+    - form: telnem
+      class: n
+      field: Ordinary usage
+      gloss: "a terrace or level ledge"
+      source: {kind: coined}
+    - form: nelgur
+      class: n
+      field: Ordinary usage
+      gloss: "a weir controlling a watercourse"
+      source: {kind: coined}
+    - form: varshim
+      class: n
+      field: Ordinary usage
+      gloss: "cedar wood or a cedar tree"
+      source: {kind: coined}
+    - {form: tamnel, class: n, field: Ordinary usage, gloss: "bronze", source: {kind: coined}}
+    - {form: berbun, class: n, field: Ordinary usage, gloss: "an adze", source: {kind: coined}}
+    - form: pirshel
+      class: n
+      field: Ordinary usage
+      gloss: "linen cloth"
+      source: {kind: coined}
+    - {form: pirnur, class: n, field: Ordinary usage, gloss: "a face veil", source: {kind: coined}}
+    - form: karvash
+      class: n
+      field: Ordinary usage
+      gloss: "a crag lurker, the ceiling-hunting creature"
+      source: {kind: coined}
+    - {form: sirhel, class: n, field: Ordinary usage, gloss: "a spider", source: {kind: coined}}
+    - {form: nersum, class: n, field: Ordinary usage, gloss: "lamp oil", source: {kind: coined}}
+    - form: vurnem
+      class: v
+      field: Ordinary usage
+      gloss: "worship a deity"
+      source: {kind: coined}
+    - form: nemtar
+      class: n
+      field: Ordinary usage
+      gloss: "a tax assessed by a ruler"
+      source: {kind: coined}
+    - form: pelten
+      class: n
+      field: Ordinary usage
+      gloss: "a receipt recording payment"
+      source: {kind: coined}
+    - {form: vimher, class: n, field: Ordinary usage, gloss: "a shrine", source: {kind: coined}}
+    - form: narhet
+      class: n
+      field: Ordinary usage
+      gloss: "a court, its assembly or place of hearing"
+      source: {kind: coined}
+    - form: dimhet
+      class: n
+      field: Ordinary usage
+      gloss: "a city's residential quarter"
+      source: {kind: coined}
+    - {form: tenvar, class: n, field: Ordinary usage, gloss: "a shelf", source: {kind: coined}}
+    - form: tenesh
+      class: n
+      field: Ordinary usage
+      gloss: "a written sign or emblem"
+      source: {kind: coined}
+    - form: varhil
+      class: n
+      field: Ordinary usage
+      gloss: "the bark of a tree"
+      source: {kind: coined}
+    - form: varhur
+      class: n
+      field: Ordinary usage
+      gloss: "a carrying pole or staff"
+      source: {kind: coined}
+    - form: narshel
+      class: n
+      field: Ordinary usage
+      gloss: "a finding in a legal case"
+      source: {kind: coined}
+    - {form: nemhelun, class: n, field: Ordinary usage, gloss: "a tithe", source: {kind: coined}}
+    - form: kargen
+      class: v
+      field: Ordinary usage
+      gloss: "dig or excavate earth"
+      source: {kind: coined}
+    - form: nilbar
+      class: n
+      field: Ordinary usage
+      gloss: "a grave pit or trench"
+      source: {kind: coined}
+    - form: hurshel
+      class: n
+      field: Ordinary usage
+      gloss: "a payment or price"
+      source: {kind: coined}
+    - form: karsen
+      class: n
+      field: Ordinary usage
+      gloss: "a seal authenticating a command or record"
+      source: {kind: coined}
+    - {form: neltar, class: n, field: Ordinary usage, gloss: "a waterskin", source: {kind: coined}}
+    - form: ternesh
+      class: n
+      field: Ordinary usage
+      gloss: "a step in a stair"
+      source: {kind: coined}
+    - form: henbar
+      class: n
+      field: Ordinary usage
+      gloss: "mortar binding masonry"
+      source: {kind: coined}
+    - {form: hernur, class: n, field: Ordinary usage, gloss: "a cellar", source: {kind: coined}}
+    - {form: nilhem, class: n, field: Ordinary usage, gloss: "a funeral", source: {kind: coined}}
+    - form: virdun
+      class: n
+      field: Ordinary usage
+      gloss: "a mile of distance"
+      source: {kind: coined}
+    - {form: vurnel, class: n, field: Ordinary usage, gloss: "a deity", source: {kind: coined}}
+    - {form: bernel, class: n, field: Ordinary usage, gloss: "a promise", source: {kind: coined}}
+    - form: nemun
+      class: n
+      field: Ordinary usage
+      gloss: "an hour of time"
+      source: {kind: coined}
+    - form: helun
+      class: n
+      field: Ordinary usage
+      gloss: "light or illumination"
+      source: {kind: coined}
   register:
+    - {name: Atarzád, tongue: faith}
+    - {name: Ahurdaen, tongue: faith}
     - {name: Tellumi Language, tongue: gloss, built: [Tellumi]}
     - {name: Tellumi, tongue: tellumi, built: [te, lu, -mi]}
     - {name: Khazryn Lexicon, tongue: gloss, built: [Khazryn]}
