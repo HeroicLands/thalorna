@@ -109,6 +109,7 @@ data:
     - {form: -ud, front: -ud, gloss: one who does}
     - {form: -lun, front: -lun, gloss: a woman's given name, kind: name, given: woman}
   tongues:
+    - {tag: kept, meaning: an older name retained by the Sovidur}
     - tag: sowides
       meaning: "a Sovidur name, built from Sovidur stems"
       language: skill-sowideslng
@@ -6567,7 +6568,224 @@ data:
       "gloss": "unnatural"
       "concept": "unnatural"
       "source": {"kind": "coined"}
+    - "form": "joghur"
+      "class": "n"
+      "field": "Everyday nature"
+      "gloss": "a dune"
+      "source": {"kind": "coined"}
+    - "form": "qozol"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a canal; a channel cut to conduct water"
+      "source": {"kind": "coined"}
+    - "form": "jözel"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a stair; a stairway or flight of steps"
+      "source": {"kind": "coined"}
+    - "form": "zövek"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a brick; a shaped masonry block"
+      "source": {"kind": "coined"}
+    - "form": "qotash"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "oil"
+      "source": {"kind": "coined"}
+    - "form": "zünen"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to write"
+      "source": {"kind": "coined"}
+    - "form": "qovor"
+      "class": "n"
+      "field": "Everyday society"
+      "gloss": "a king"
+      "source": {"kind": "coined"}
+    - "form": "jönek"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a litter for carrying a person"
+      "source": {"kind": "coined"}
+    - "form": "zöret"
+      "class": "n"
+      "field": "Everyday nature"
+      "gloss": "a palm tree"
+      "source": {"kind": "coined"}
+    - "form": "ghosun"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a horn; a horn sounded as a signal"
+      "source": {"kind": "coined"}
+    - "form": "khözen"
+      "class": "n"
+      "field": "Everyday nature"
+      "gloss": "a reed"
+      "source": {"kind": "coined"}
+    - "form": "qonar"
+      "class": "n"
+      "field": "Everyday nature"
+      "gloss": "a mare; a female horse"
+      "source": {"kind": "coined"}
+    - "form": "zökhem"
+      "class": "n"
+      "field": "Everyday society"
+      "gloss": "a shaman of the steppe rites"
+      "source": {"kind": "coined"}
+    - "form": "qozat"
+      "class": "n"
+      "field": "Everyday society"
+      "gloss": "a war captain"
+      "source": {"kind": "coined"}
+    - "form": "chezek"
+      "class": "n"
+      "field": "Everyday body"
+      "gloss": "a scar"
+      "source": {"kind": "coined"}
+    - "form": "jozul"
+      "class": "n"
+      "field": "Everyday nature"
+      "gloss": "a pool"
+      "source": {"kind": "coined"}
+    - "form": "chövem"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to strain liquid through a cloth or sieve"
+      "source": {"kind": "coined"}
+    - "form": "jotok"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to tie; to fasten with a knot"
+      "source": {"kind": "coined"}
+    - "form": "jozon"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to untie; to release a knot"
+      "source": {"kind": "coined"}
+    - "form": "jözir"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to dig"
+      "source": {"kind": "coined"}
+    - "form": "chöze"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to cut"
+      "source": {"kind": "coined"}
+    - "form": "qojom"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to pay; to discharge a stated debt or price"
+      "source": {"kind": "coined"}
+    - "form": "zövet"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a line; a row"
+      "source": {"kind": "coined"}
+    - "form": "qozit"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a foot as a unit of length"
+      "source": {"kind": "coined"}
+    - "form": "zodol"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a mile as a unit of distance"
+      "source": {"kind": "coined"}
+    - "form": "jozim"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a drain; an outlet for water"
+      "source": {"kind": "coined"}
+    - "form": "ghuzum"
+      "class": "n"
+      "field": "Everyday nature"
+      "gloss": "a drought"
+      "source": {"kind": "coined"}
+    - "form": "qozach"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a hole; an opening through a surface"
+      "source": {"kind": "coined"}
+    - "form": "jöchen"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to paint"
+      "source": {"kind": "coined"}
+    - "form": "jozad"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "bread"
+      "source": {"kind": "coined"}
+    - "form": "jozulud"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a bucket"
+      "source": {"kind": "coined"}
+    - "form": "qozuk"
+      "class": "n"
+      "field": "Everyday body"
+      "gloss": "a claw"
+      "source": {"kind": "coined"}
+    - "form": "zovot"
+      "class": "adj"
+      "field": "Everyday qualities"
+      "gloss": "full of contents; filled to capacity"
+      "source": {"kind": "coined"}
+    - "form": "zömol"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a boat"
+      "source": {"kind": "coined"}
+    - "form": "qozud"
+      "class": "n"
+      "field": "Everyday society"
+      "gloss": "a trading caravan"
+      "source": {"kind": "coined"}
+    - "form": "zudol"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a saddle"
+      "source": {"kind": "coined"}
+    - "form": "chödel"
+      "class": "n"
+      "field": "Everyday things"
+      "gloss": "a waterskin; a skin container for carrying water"
+      "source": {"kind": "coined"}
+    - "form": "zöder"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to spare a person from death or punishment"
+      "source": {"kind": "coined"}
+    - "form": "qoshur"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to pour out a liquid"
+      "source": {"kind": "coined"}
+    - "form": "qozon"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to foretell; to predict"
+      "source": {"kind": "coined"}
+    - "form": "zökhil"
+      "class": "v"
+      "field": "Everyday verbs"
+      "gloss": "to tremble; to shiver"
+      "source": {"kind": "coined"}
+    - {form: qodiror, class: n, field: Derived words, gloss: a mountain range, built: [qodir, -or]}
+    - form: jelüdchaqur
+      class: n
+      field: Everyday body
+      gloss: eyebrow; the hair of the eye
+      built: [jelüd, chaqur]
+    - form: josaqchaqur
+      class: n
+      field: Everyday body
+      gloss: beard; the hair of the chin
+      built: [josaq, chaqur]
   register:
+    - {name: Sahri, tongue: kept}
     - {name: Sovidur Language, tongue: gloss, built: [Sovidur]}
     - {name: Sovidur, tongue: sowides, built: [sovid, -ur]}
     - {name: Ghotaqor, tongue: sowides, built: [ghotaq, -or]}
