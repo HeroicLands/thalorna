@@ -477,13 +477,13 @@ rewrites spelling, while this section and the word's lexical reading determine
 pronunciation. In particular, its treatment of _c_, _x_ and _qu_ is not an
 algorithm for recovering every word's sounds. A dictionary native form records
 an exceptional script spelling and takes precedence automatically. The roman
-source keeps its ordinary words. Its language inventory permits period as the
+source keeps its ordinary words. Its language inventory permits the pause, typed `\*`, as the
 sole pause, while possessive apostrophes and word-joining hyphens keep their
 own roles. Direct speech uses no quotation marks.
 
 ## Vylari
 
-[[skill-vylarilng|Vylari]] writes the catch with a precomposed grave vowel: _à_. In ancient _kàralzon_ and _kàrthorgila_ it marks the catch after the preceding _k_; in the Alessa article _à_ it marks the catch after _a_. It adds no vowel or syllable and has no quotation role. An ordinary apostrophe is not a Vylari spelling. The period is Vylari's only punctuation.
+[[skill-vylarilng|Vylari]] writes the catch with a precomposed grave vowel: _à_. In ancient _kàralzon_ and _kàrthorgila_ it marks the catch after the preceding _k_; in the Alessa article _à_ it marks the catch after _a_. It adds no vowel or syllable and has no quotation role. An ordinary apostrophe is not a Vylari spelling. The pause, typed `\*`, is Vylari's only punctuation.
 
 ## Ekpelu
 

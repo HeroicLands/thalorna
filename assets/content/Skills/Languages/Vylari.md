@@ -8,7 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Vyl.
-  roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËëÀà0123456789."
+  roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËëÀà0123456789*"
   writtenIn: {map: semaron, font: semaron-kuriale}
   classModifiers: [m, f, "n"]
   emphasis: words
@@ -10835,7 +10835,7 @@ A word at the head of the sentence says what kind of sentence it is, and the res
 | _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen._ "Do not come."                           |
 | _aia_     | an exclamation                     | _Aia theson._ "That thing of yours!"                         |
 
-_areza_ is _ar_, "not", joined to _eza_. Because the opening word carries the question, the command or the exclamation, written Vylari uses period as its only punctuation. The period writes a pause, within a sentence as well as at its end. Where a translation gives that pause a comma, colon, semicolon or dash, the Vylari writes a period. A question still needs its opening word, an exclamation its _aia_, and emphasis its own words; removing a mark from the translation does not supply them. Quotation marks have no written role. A grave vowel marks a lexical catch, not punctuation.
+_areza_ is _ar_, "not", joined to _eza_. Because the opening word carries the question, the command or the exclamation, written Vylari uses the pause, typed `\*`, as its only punctuation. The pause mark writes a pause, within a sentence as well as at its end. Where a translation gives that pause a comma, colon, semicolon or dash, the Vylari writes the pause mark. A question still needs its opening word, an exclamation its _aia_, and emphasis its own words; removing a mark from the translation does not supply them. Quotation marks have no written role. A grave vowel marks a lexical catch, not punctuation.
 
 ### Reported speech
 
@@ -10931,7 +10931,7 @@ ORDER BY position
 
 ## Sounds and spelling {#sounds-and-spelling}
 
-Its words follow [[doc-prnncthlrn|Pronouncing Thalorna]], with the Vylari grave-vowel catch described above. The roman alphabet has _a b d e f g h i k l m n o p r s t u v y z_, and ancient forms also use _w_. Acute vowels mark exceptional stress, _ë_ separates vowels, and _à_ carries a catch; each marked letter retains its capital form. Digits 0 to 9 are written as numerals. Period is the only punctuation.
+Its words follow [[doc-prnncthlrn|Pronouncing Thalorna]], with the Vylari grave-vowel catch described above. The roman alphabet has _a b d e f g h i k l m n o p r s t u v y z_, and ancient forms also use _w_. Acute vowels mark exceptional stress, _ë_ separates vowels, and _à_ carries a catch; each marked letter retains its capital form. Digits 0 to 9 are written as numerals. The pause, typed `\*`, is the only punctuation.
 
 ### Word edges
 

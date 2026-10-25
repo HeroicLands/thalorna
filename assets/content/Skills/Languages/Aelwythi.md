@@ -7,7 +7,7 @@ description: "The speech of the island of Aelwyth, given in these pages in the o
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúëÁÉÍÓÚË0123456789.'-"
+  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúëÁÉÍÓÚË0123456789*'-"
   core: true
   abbreviation: Aelw.
   writtenIn: {map: aelwythi-semaron, font: semaron-kuriale}
@@ -4447,11 +4447,11 @@ give them the reconstructed sounds of the older stage.
 
 ### Rules for writers
 
-Use familiar word spelling. The period is the sole pause mark in both roman and
+Use familiar word spelling. The pause, typed `\*`, is the sole pause mark in both roman and
 native readings. A comma, semicolon, colon or dash that marks a pause in a
-translation is written as a period in Aelwythi. The point marks the pause,
+translation is written as the pause in Aelwythi. The point marks the pause,
 including a pause within a continuing sentence. Questions use interrogative
-wording and end with a period; exclamations carry their force in the words.
+wording and end with the pause; exclamations carry their force in the words.
 Word-joining hyphens keep their familiar role; direct speech uses no quotation
 marks. The older character comes from sentence
 structure and familiar words, without phonetic respelling, contracted negatives
@@ -4583,12 +4583,12 @@ Verse keeps its metre and rhyme.
 #### Speech and emphasis
 
 Give direct speech without quotation marks. An attribution or a named speaker
-identifies whose words follow. Keep a spoken pause as a period, including between
+identifies whose words follow. Keep a spoken pause as the pause mark, including between
 an attribution and the speech; the point does not itself introduce dialogue.
 Keep possessive apostrophes.
 
 ::: {lang=aelw font=serif}
-The knight said I shall return ere night.
+The knight said I shall return ere night\*
 :::
 
 Convey emphasis through word choice, order and inversion, repetition,
@@ -4596,19 +4596,19 @@ parallelism and antithesis. Aelwythi passages use no bold, italics or underline.
 Fronting can give prominence to an object or refusal:
 
 ::: {lang=aelw font=serif}
-Such wickedness have I never seen.
+Such wickedness have I never seen\*
 
-Yield I shall not.
+Yield I shall not\*
 :::
 
 Repetition and balanced clauses can strengthen a prohibition or a contrast:
 
 ::: {lang=aelw font=serif}
-Thou shalt not enter. Not now nor ever.
+Thou shalt not enter\* Not now nor ever\*
 
-I seek not thy gold but thy oath.
+I seek not thy gold but thy oath\*
 
-Not for fear do I kneel but for honour.
+Not for fear do I kneel but for honour\*
 :::
 
 Affirmative emphatic do is permitted when the speaker stresses an assertion
@@ -4617,9 +4617,9 @@ Ordinary questions and negatives still prefer inversion and lexical negation,
 with do-support reserved for avoiding ambiguity.
 
 ::: {lang=aelw font=serif}
-I do know thy purpose.
+I do know thy purpose\*
 
-I did warn thee.
+I did warn thee\*
 :::
 
 **Worked phrases.** These examples preserve number, tense and the intended
@@ -4678,9 +4678,9 @@ A saying of the manors:
 2 [Fill the cup to the brim, and drink deeply,]{lang=en}
 2 [Fill high the cup and drink it deep]{lang=aelw}
 
-1 [And name the dead now fast asleep.]{.nativefont lang=aelw}
+1 [And name the dead now fast asleep\*]{.nativefont lang=aelw}
 2 [And name the dead, now fast asleep.]{lang=en}
-2 [And name the dead now fast asleep.]{lang=aelw}
+2 [And name the dead now fast asleep\*]{lang=aelw}
 ```
 
 : A charm said at the crossroads {#crossroadscharm}
@@ -4698,9 +4698,9 @@ A saying of the manors:
 2 [Whoever watches by the wide crossing]{lang=en}
 2 [Who watcheth by the crossing wide]{lang=aelw}
 
-1 [Will let the courteous pass beside.]{.nativefont lang=aelw}
+1 [Will let the courteous pass beside\*]{.nativefont lang=aelw}
 2 [Will let the courteous pass by.]{lang=en}
-2 [Will let the courteous pass beside.]{lang=aelw}
+2 [Will let the courteous pass beside\*]{lang=aelw}
 ```
 
 In the charm, _offering_ and _courteous_ each take two syllables: _off-ring_,

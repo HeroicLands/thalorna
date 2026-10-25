@@ -6,7 +6,7 @@ subType: language
 description: "The blunt, expressive tongue of Tarvénia, native to a dozen dialects across its kingdoms and city-states."
 tags: []
 data:
-  roman: "abcdeghiklmnoprstuvwyzABCDEGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789."
+  roman: "abcdeghiklmnoprstuvwyzABCDEGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789*"
   core: true
   family: skill-vylarilng
   abbreviation: Tarv.

@@ -115,7 +115,7 @@ data:
       - ["7", "󰉟"]
       - ["8", "󰉠"]
       - ["9", "󰉡"]
-      - [".", "󰉨"]
+      - ["*", "󰉨"]
       - ['"', ""]
       - ["“", ""]
       - ["”", ""]
@@ -137,8 +137,8 @@ ordinary readable spelling of the language's older register. The language note
 selects this mapping and the font for a native passage marked `.nativefont lang=aelw`.
 
 ```text
-[Whither goest thou.]{lang=aelw}
-[Whither goest thou.]{.nativefont lang=aelw map=aelwythi-semaron font=semaron-kuriale}
+[Whither goest thou\*]{lang=aelw}
+[Whither goest thou\*]{.nativefont lang=aelw map=aelwythi-semaron font=semaron-kuriale}
 ```
 
 These are spelling rules. They convert text into the script automatically;
@@ -166,7 +166,7 @@ word, rather than assigning a separate sign to every sound.
   as native forms in the language's dictionary. _Exact_, _conquer_ and
   _sceptic_ have such forms. An unlisted word receives the rows' spelling;
   its output is not a guarantee of a sound-by-sound transcription.
-- **Period alone takes the pause point.** Commas, colons, semicolons, dashes,
+- **`*` alone takes the pause point.** Commas, colons, semicolons, dashes,
   question marks, exclamation marks, ellipses and parentheses do not map to
   a pause sign. Digits take the Semaron numerals. The language note declares
   which punctuation the roman source permits.

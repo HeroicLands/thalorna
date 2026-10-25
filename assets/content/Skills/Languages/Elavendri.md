@@ -6,7 +6,7 @@ subType: language
 description: "The settled speech of Élavendre, rich in words for magic, wilderness, and the fae—a daughter-tongue of old Áelendi."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuvwyzABCDEFGHIJKLMNOPRSTUVWYZáéíóúëýÁÉÍÓÚËÝ0123456789."
+  roman: "abcdefghijklmnoprstuvwyzABCDEFGHIJKLMNOPRSTUVWYZáéíóúëýÁÉÍÓÚËÝ0123456789*"
   core: true
   family: skill-aelendlng
   abbreviation: Elav.
@@ -6815,10 +6815,10 @@ Complete alternatives keep each marker with its own item. _Dalgathen munde gose 
 
 The explanatory markers also have concrete uses. _En ti tárneve; gere temar, uk tárnevine_ means "this is bread; namely, one loaf". _En salve mirnon; uk dírmalis, hersel_ gives an example: "a tree is a plant; for example, a pine". With water as the alternative in question, _dalgathen munde korthon dergin gerth_ chooses mead instead.
 
-The period records a pause in both roman and Semaron readings, including a
+The pause, typed `\*`, records a pause in both roman and Semaron readings, including a
 pause within a continuing sentence. Where a translation has a comma,
-semicolon, colon or dash for that pause, write a period in Élavendri. Questions
-need their question word or the opening _he_; a period alone cannot make a
+semicolon, colon or dash for that pause, write the pause in Élavendri. Questions
+need their question word or the opening _he_; the pause alone cannot make a
 statement a question. A fragment that relies on intonation in translation can use the
 existing clarification _ryenathen tose gere_, “what do you say”, to make the
 asking explicit. Reporting words such as _ryenathen gene_, “the person says”,
