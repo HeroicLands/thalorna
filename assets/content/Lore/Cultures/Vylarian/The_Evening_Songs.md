@@ -46,9 +46,9 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 2 .Four tonight. I write four on wax.
 2 [.Denon zunela felzur yarezoi. Felzur ir barkis thilamen.]{lang=vyl}
 
-1 [Felzur salkar ves felzur sethdokemon yarezor. Takezos fir en dokazor. Felzur vethor antigai voza rozimathen.]{.nativefont lang=vyl}
+1 [Felzur salkar. ves felzur sethdokemon yarezor. Takezos fir en dokazor. Felzur vethor antigai voza rozimathen.]{.nativefont lang=vyl}
 2 Four is village, or four is falsehood. The sergeant says: Count four again.
-2 [Felzur salkar ves felzur sethdokemon yarezor. Takezos fir en dokazor. Felzur vethor antigai voza rozimathen.]{lang=vyl}
+2 [Felzur salkar. ves felzur sethdokemon yarezor. Takezos fir en dokazor. Felzur vethor antigai voza rozimathen.]{lang=vyl}
 
 1 [.Antigai rozimamen. Felzur yarezoi. Kauron us nebralis lokazor.]{.nativefont lang=vyl}
 2 .I count again. Four. Darkness climbs the valley.
@@ -78,9 +78,9 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 2 .Ten is war-band. Ten is years I count already.
 2 [.Umbaris nethkalos yarezor. Umbaris tharnelai ol rozimandon ol en pra denkanai yarezoi.]{lang=vyl}
 
-1 [Felzur salkar ves felzur sethdokemon ves felzur tharnelai ol dorandar ol en yarezoi.]{.nativefont lang=vyl}
+1 [Felzur salkar. ves felzur sethdokemon. ves felzur tharnelai ol dorandar ol en yarezoi.]{.nativefont lang=vyl}
 2 Four is village, falsehood, or the four remaining years.
-2 [Felzur salkar ves felzur sethdokemon ves felzur tharnelai ol dorandar ol en yarezoi.]{lang=vyl}
+2 [Felzur salkar. ves felzur sethdokemon. ves felzur tharnelai ol dorandar ol en yarezoi.]{lang=vyl}
 
 1 [.Felzur ir barkis thilamen. Kamezos zandira karvazor.]{.nativefont lang=vyl}
 2 .I write four on wax. The Kamezos lights the lamp.
@@ -176,17 +176,17 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 : The Third Evening {#third}
 
 ```verse {form=elegy lang=en cols=2 numstep=5}
-1 [Takezos denon pramiza fir yunakoi antigai dokazor sa dokazor.]{.nativefont lang=vyl}
+1 [Takezos denon pramiza fir yunakoi antigai dokazor. sa dokazor.]{.nativefont lang=vyl}
 2 Centurion tells recruits again this morning, as he does,
-2 [Takezos denon pramiza fir yunakoi antigai dokazor sa dokazor.]{lang=vyl}
+2 [Takezos denon pramiza fir yunakoi antigai dokazor. sa dokazor.]{lang=vyl}
 
-1 [.Dokandon vethor fos ankelon vornon lokazor. Takezos denon ar kezdazor.]{.nativefont lang=vyl}
+1 [.Dokandon. vethor. fos ankelon vornon lokazor. Takezos denon ar kezdazor.]{.nativefont lang=vyl}
 2 .speech coming, they say, from old law. He does not know the law.
-2 [.Dokandon vethor fos ankelon vornon lokazor. Takezos denon ar kezdazor.]{lang=vyl}
+2 [.Dokandon. vethor. fos ankelon vornon lokazor. Takezos denon ar kezdazor.]{lang=vyl}
 
-1 [Tavendur vethor tharnelai zel orkaima. Kanai urkis fenza yarezor. Ko verosa yarezen.]{.nativefont lang=vyl}
+1 [Tavendur. vethor. tharnelai zel orkaima. Kanai urkis fenza yarezor. Ko verosa yarezen.]{.nativefont lang=vyl}
 2 Twenty years, he says, beneath eagle. Then one door. You are citizen.
-2 [Tavendur vethor tharnelai zel orkaima. Kanai urkis fenza yarezor. Ko verosa yarezen.]{lang=vyl}
+2 [Tavendur. vethor. tharnelai zel orkaima. Kanai urkis fenza yarezor. Ko verosa yarezen.]{lang=vyl}
 
 1 [.Urkis vethor fenza. Strathos fenza olmathen thaurazor. Ir anprasedon thalemen. Kona denos dokamen.]{.nativefont lang=vyl}
 2 .One door, he says. Army keeps it open. I stand behind and speak with him.
@@ -261,9 +261,9 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 2 .square, wax pressed hard as by someone unaccustomed.
 2 [.Kadrathos. Barkis kornelai prendazor. Sa ar zesima thilandon kerandar.]{lang=vyl}
 
-1 [Orvenos vethor kona uzmela ul dumela ir luvetha us zirkoi lokazor. Helthos thilazor.]{.nativefont lang=vyl}
+1 [Orvenos. vethor. kona uzmela ul dumela ir luvetha us zirkoi lokazor. Helthos thilazor.]{.nativefont lang=vyl}
 2 A man, he writes, with dole and room comes up the stairs in spring,
-2 [Orvenos vethor kona uzmela ul dumela ir luvetha us zirkoi lokazor. Helthos thilazor.]{lang=vyl}
+2 [Orvenos. vethor. kona uzmela ul dumela ir luvetha us zirkoi lokazor. Helthos thilazor.]{lang=vyl}
 
 1 [.Verosa. Ankaros. Zorala orvenos. Dayos orvenos. Pethazor.]{.nativefont lang=vyl}
 2 .citizen, veteran, Watch man, good man, asking.
@@ -273,9 +273,9 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 2 I do not ask you, he writes. That is law. You are in my hand.
 2 [Ko vethor ar pethamen. Denon vornon yarezor. Ko ir dekazu ol en yarezen. Thilazor.]{lang=vyl}
 
-1 [.Ir herthema vethor ko ir fenza ol dumela daimamen. Thilazor.]{.nativefont lang=vyl}
+1 [.Ir herthema. vethor. ko ir fenza ol dumela daimamen. Thilazor.]{.nativefont lang=vyl}
 2 .In summer, he writes, I give you at the room’s door,
-2 [.Ir herthema vethor ko ir fenza ol dumela daimamen. Thilazor.]{lang=vyl}
+2 [.Ir herthema. vethor. ko ir fenza ol dumela daimamen. Thilazor.]{lang=vyl}
 
 1 [Kona gebrina. Tolkemon. Tharktholbon. Zandira. Ko tigazen.]{.nativefont lang=vyl}
 2 with dowry: pot, blanket, lamp. You go.
@@ -313,9 +313,9 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 2 Nine smoke columns, Yalzizon, rising in darkness. None yours.
 2 [Lukemar dorkimai ol karvuma. Yalzizon. Ir kauron urzizoi. Ar urkis ol ko.]{lang=vyl}
 
-1 [.Ir pramiza ar yarezoi. Lukemar ir barkis thilamen.]{.nativefont lang=vyl}
+1 [.Ir pramiza. ar yarezoi. Lukemar ir barkis thilamen.]{.nativefont lang=vyl}
 2 .Morning: absent. I write nine on wax.
-2 [.Ir pramiza ar yarezoi. Lukemar ir barkis thilamen.]{lang=vyl}
+2 [.Ir pramiza. ar yarezoi. Lukemar ir barkis thilamen.]{lang=vyl}
 
 ```
 
@@ -354,9 +354,9 @@ Thulemar was in his sixteenth year of the twenty when he wrote the first song. H
 2 .One is hearth. Three camp. Ten war-band. I count.
 2 [.Urkis karalzon. Karzis zurgalis. Umbaris nethkalos. Rozimamen.]{lang=vyl}
 
-1 [Ir orthemandon ol karzis fenza yarezor. Tir dena tigamen.]{.nativefont lang=vyl}
+1 [Ir orthemandon ol karzis. fenza yarezor. Tir dena tigamen.]{.nativefont lang=vyl}
 2 At three years’ end, door. I go through,
-2 [Ir orthemandon ol karzis fenza yarezor. Tir dena tigamen.]{lang=vyl}
+2 [Ir orthemandon ol karzis. fenza yarezor. Tir dena tigamen.]{lang=vyl}
 
 1 [.Verosa yaremen. Dumela ul uzmela kuremen. Ethris zirkoi urzvalmamen.]{.nativefont lang=vyl}
 2 .become citizen, take room and dole, climb some stairs.

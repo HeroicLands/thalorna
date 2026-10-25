@@ -10835,11 +10835,11 @@ A word at the head of the sentence says what kind of sentence it is, and the res
 | _ar voza_ | a prohibition, with the infinitive | _Ar voza lokathen._ "Do not come."                           |
 | _aia_     | an exclamation                     | _Aia theson._ "That thing of yours!"                         |
 
-_areza_ is _ar_, "not", joined to _eza_. Because the opening word carries the question, the command or the exclamation, written Vylari uses period as its only punctuation: a sentence of any kind ends with the plain sentence stop. Commas, colons, semicolons, dashes and quotation marks have no written role. A grave vowel marks a lexical catch, not punctuation.
+_areza_ is _ar_, "not", joined to _eza_. Because the opening word carries the question, the command or the exclamation, written Vylari uses period as its only punctuation. The period writes a pause, within a sentence as well as at its end. Where a translation gives that pause a comma, colon, semicolon or dash, the Vylari writes a period. A question still needs its opening word, an exclamation its _aia_, and emphasis its own words; removing a mark from the translation does not supply them. Quotation marks have no written role. A grave vowel marks a lexical catch, not punctuation.
 
 ### Reported speech
 
-Words spoken by someone are marked by _vethor_, "says", set after the first word or phrase of what they said: _Daimela vethor orfenamen._ "'Patron,' he says, 'I am in your debt.'" _vethor_ has no other form and serves for every person and time, so the speaker is named nearby or understood. Written Vylari has no quotation marks; _vethor_ shows where reported words begin, and the sentence stop where they end.
+Words spoken by someone are marked by _vethor_, "says", set after the first word or phrase of what they said: _Daimela vethor orfenamen._ "'Patron,' he says, 'I am in your debt.'" _vethor_ has no other form and serves for every person and time, so the speaker is named nearby or understood. Written Vylari has no quotation marks; _vethor_ identifies reported words, with the speaker named nearby or understood from the passage. An utterance can contain several pauses and continue across several lines. Its syntax and the surrounding account show where the speaker finishes; a period alone does not close it.
 
 ## Script & Literacy
 
@@ -10880,11 +10880,8 @@ _Humelthandar yarezor._
 _Varelin yarezor._
 : "It is true."
 
-_Varlai._
-: "Really?"
-
 _Eza varlai._
-: "Really?" (The formal question.)
+: "Really?" (The question opener makes this a request for confirmation.)
 
 _Aia theson._
 : "That thing of yours!" (A free person named in the neuter: the gravest insult the grammar allows.)

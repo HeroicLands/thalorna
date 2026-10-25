@@ -199,6 +199,14 @@ way.
   mark. Vylari asks, commands and exclaims with an opening word, quotes with
   _vethor_ and emphasises with words; its only punctuation is the
   period. Its lexical catch is written with a grave vowel.
+- **Preserve the meaning of punctuation when adapting a passage.** Read each
+  pause, question, exclamation and stretch of dialogue against the English and
+  the tongue's own usage. In Vylari, a comma, semicolon, colon, em dash or full
+  stop indicating a pause is written as a period, including pauses within a
+  sentence. Use its opening words for questions and exclamations and _vethor_
+  for reported speech. Check that the construction is present before removing
+  an English mark. Other tongues use their own documented signs and idioms.
+  A valid character inventory alone does not establish a faithful translation.
 - **Every language declares its roman characters.** Native and roman readings
   use the same explicit `data.roman` repertoire. Mapping rows never grant
   permission to use a character the language does not admit.

@@ -279,17 +279,17 @@ The recruits learn the song before they learn the oath. The text below is the so
 2 Beneath eagle borders stand.
 2 [Zel orkaima uthrimai thalezoi.]{lang=vyl}
 
-1 [.Zel uthrimai enoi.]{.nativefont lang=vyl}
+1 [.Zel uthrimai. enoi.]{.nativefont lang=vyl}
 2 .Beneath borders, us.
-2 [.Zel uthrimai enoi.]{lang=vyl}
+2 [.Zel uthrimai. enoi.]{lang=vyl}
 
 1 [Zel uthrimai Urzelthos.]{.nativefont lang=vyl}
 2 Beneath borders Urzelthos.
 2 [Zel uthrimai Urzelthos.]{lang=vyl}
 
-1 [.Zel Urzelthos yoreza ul ulmera.]{.nativefont lang=vyl}
+1 [.Zel Urzelthos. yoreza ul ulmera.]{.nativefont lang=vyl}
 2 .Beneath Urzelthos, mud.
-2 [.Zel Urzelthos yoreza ul ulmera.]{lang=vyl}
+2 [.Zel Urzelthos. yoreza ul ulmera.]{lang=vyl}
 
 ***
 
@@ -309,9 +309,9 @@ The recruits learn the song before they learn the oath. The text below is the so
 2 .Who pays his horse? His father pays.
 2 [.Eza kedis fa gulmos ol denos palzazor. Helthos ol denos palzazor.]{lang=vyl}
 
-1 [Helthos fa gulmos ul tholbema ul sedon palzazor.]{.nativefont lang=vyl}
+1 [Helthos fa gulmos. ul tholbema. ul sedon palzazor.]{.nativefont lang=vyl}
 2 Father pays horse, cloak, post.
-2 [Helthos fa gulmos ul tholbema ul sedon palzazor.]{lang=vyl}
+2 [Helthos fa gulmos. ul tholbema. ul sedon palzazor.]{lang=vyl}
 
 1 [.Holtakezos fir denos dokazor. Eza ir kethon tigen aistron yarezor.]{.nativefont lang=vyl}
 2 .Holtakezos tells him which direction north.
@@ -323,9 +323,9 @@ The recruits learn the song before they learn the oath. The text below is the so
 2 Ethorlusos asks Holtakezos road to marsh.
 2 [Ethorlusos Holtakezos fa pozera fir zulmara pethazor.]{lang=vyl}
 
-1 [.Holtakezos dokazor. Zulmara vethor ar silkamar.]{.nativefont lang=vyl}
+1 [.Holtakezos dokazor. Zulmara. vethor. ar silkamar.]{.nativefont lang=vyl}
 2 .Holtakezos says: Marsh, he says, we never look at.
-2 [.Holtakezos dokazor. Zulmara vethor ar silkamar.]{lang=vyl}
+2 [.Holtakezos dokazor. Zulmara. vethor. ar silkamar.]{lang=vyl}
 
 1 [Ethorlusos antigai pethazor. 17 tharnelai kerazor.]{.nativefont lang=vyl}
 2 Ethorlusos asks again. Seventeen years.
@@ -379,9 +379,9 @@ The recruits learn the song before they learn the oath. The text below is the so
 
 ***
 
-1 [Ankelos Gretalis fir veramis kona zunon un dalmeros tigazor.]{.nativefont lang=vyl}
+1 [Ankelos Gretalis fir veramis. kona zunon un dalmeros tigazor.]{.nativefont lang=vyl}
 2 Old Gretalis enters city, band on shoulder.
-2 [Ankelos Gretalis fir veramis kona zunon un dalmeros tigazor.]{lang=vyl}
+2 [Ankelos Gretalis fir veramis. kona zunon un dalmeros tigazor.]{lang=vyl}
 
 1 [.Ankelos Gretalis ir urkis fenza tigazor.]{.nativefont lang=vyl}
 2 .Old Gretalis enters one door.
