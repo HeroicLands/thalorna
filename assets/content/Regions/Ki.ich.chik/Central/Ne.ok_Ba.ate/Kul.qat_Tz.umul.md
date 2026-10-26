@@ -56,7 +56,7 @@ The register is wrong. The guardian never failed. With the Storm's Eye lying in 
 
 ## Who Knows of It
 
-- **The serpent-keepers of Ne' Ts'umul** know the temple holds duplicate codices and a seal-stone of their branch, the Storm's Eye, and that the seal-stone has not been presented for inspection at the turning of the [Ts'uqal Cycle]{.name data-type="lore/calendar"} since the temple was shut.
+- **The serpent-keepers of Ne' Ts'umul** know the temple holds duplicate codices and a seal-stone of their branch, the Storm's Eye, and that the seal-stone has not been presented for inspection at the turning of the [[lore-itsaniclndr#tsuqal|Ts'uqal Cycle]] since the temple was shut.
 - **The Warden of the Ruins** keeps the register that calls the guardian dead.
 - **The hunters of the valley** do not walk on old paving anywhere on the slope, and they say so as a rule of the forest rather than as a story.
 

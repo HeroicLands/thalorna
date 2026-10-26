@@ -100,6 +100,226 @@ data:
       field: Sky, sun and the count of days
       gloss: zero; a shell, an empty thing
       concept: zero
+    - form: ne'ik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the first day-sign of the 260-day count: water"
+      note: "From ne', water."
+    - form: ch'umik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the second day-sign of the 260-day count: wind"
+      note: "From ch'umal, a wind spirit."
+    - form: umaq
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the third day-sign of the 260-day count: night"
+      note: "From ts'umaq, the night sky."
+    - form: shikel
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fourth day-sign of the 260-day count: seed"
+      note: "From shikik, seed."
+    - form: akun
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fifth day-sign of the 260-day count: serpent"
+      note: "From ch'akun, a serpent."
+    - form: ts'uqik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the sixth day-sign of the 260-day count: death"
+      note: "From ts'uqil, dead."
+    - form: amuk
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the seventh day-sign of the 260-day count: crocodile"
+      note: "From ts'amuk, a crocodile."
+    - form: k'ush
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the eighth day-sign of the 260-day count: maize"
+      note: "From k'ushi, a maize ear."
+    - form: tsulik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the ninth day-sign of the 260-day count: reed"
+      note: "From tsul, a reed."
+    - form: balik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the tenth day-sign of the 260-day count: jaguar"
+      note: "From ish'bal, a jaguar."
+    - form: shak'il
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the eleventh day-sign of the 260-day count: eagle"
+      note: "From shak'nal, an eagle."
+    - form: pik'il
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the twelfth day-sign of the 260-day count: owl"
+      note: "From pik'ik, an owl."
+    - form: kulim
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the thirteenth day-sign of the 260-day count: stone"
+      note: "From kulum, stone."
+    - form: qatik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fourteenth day-sign of the 260-day count: blade"
+      note: "From k'ulqat, a knife."
+    - form: p'uq
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fifteenth day-sign of the 260-day count: storm"
+      note: "From p'uqil, a thundercloud."
+    - form: k'otsal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the sixteenth day-sign of the 260-day count: cord"
+      note: "From k'ots-, to knot."
+    - form: lanik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the seventeenth day-sign of the 260-day count: road"
+      note: "From ish'lan, a road."
+    - form: ish'il
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the eighteenth day-sign of the 260-day count: star"
+      note: "From ish, a star."
+    - form: mel
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the nineteenth day-sign of the 260-day count: moon"
+      note: "From ish'mel, a moon bloom."
+    - form: k'ayil
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the twentieth day-sign of the 260-day count: flame"
+      note: "From k'ayik, a flame."
+    - form: ch'ulikal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the first month of the solar year: the new"
+      built: [ch'ulik, -al]
+    - form: ts'umaqal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the second month of the solar year: the cool nights"
+      built: [ts'umaq, -al]
+    - form: ne'shukal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the third month of the solar year: the dry"
+      built: [ne'shuk, -al]
+    - form: k'ayikal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fourth month of the solar year: the flames"
+      built: [k'ayik, -al]
+    - form: shikal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fifth month of the solar year: the seed"
+      note: "From shikik, seed."
+    - form: ne'al
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the sixth month of the solar year: the water"
+      built: [ne', -al]
+    - form: ha'nakal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the seventh month of the solar year: the green"
+      built: [ha'nak, -al]
+    - form: p'uqilal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the eighth month of the solar year: the thunderclouds"
+      built: [p'uqil, -al]
+    - form: ch'akunal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the ninth month of the solar year: the serpent"
+      built: [ch'akun, -al]
+    - form: pakumal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the tenth month of the solar year: the sun blossom"
+      built: [pakum, -al]
+    - form: k'inishal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the eleventh month of the solar year: the sunlight"
+      built: [k'inish, -al]
+    - form: k'ushal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the twelfth month of the solar year: the maize ear"
+      note: "From k'ushi, a maize ear."
+    - form: k'anishal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the thirteenth month of the solar year: the golden flower"
+      built: [k'anish, -al]
+    - form: ts'opilal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fourteenth month of the solar year: the baskets"
+      built: [ts'opil, -al]
+    - form: shok'alal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fifteenth month of the solar year: the war"
+      built: [shok'al, -al]
+    - form: ish'balal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the sixteenth month of the solar year: the jaguar"
+      built: [ish'bal, -al]
+    - form: ts'uqilal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the seventeenth month of the solar year: the dead"
+      built: [ts'uqil, -al]
+    - form: ishanal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the eighteenth month of the solar year: the sleep"
+      built: [ishan, -al]
+    - form: shots'emal
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the doors: the five days at the end of the solar year, outside its months"
+      built: [shots'em, -al]
+    - form: ts'amul
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the first of the five days at the end of the solar year: the empty"
+      note: "From ts'amal, zero."
+    - form: ha'kik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the second of the five days at the end of the solar year: the cold"
+      note: "From ha'kan, cold."
+    - form: sh'an
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the third of the five days at the end of the solar year: the hush"
+      note: "From sh'anal, silence."
+    - form: tq'al
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fourth of the five days at the end of the solar year: the edge"
+      note: "From tq'an, an edge."
+    - form: shots'ik
+      class: name
+      field: Sky, sun and the count of days
+      gloss: "the fifth of the five days at the end of the solar year: the door"
+      note: "From shots'em, a door."
     - {form: ne', class: n, field: Water and land, gloss: water, concept: water}
     - form: ne'ok
       class: adj
@@ -479,7 +699,7 @@ data:
       class: part
       field: Everyday speech
       gloss: in the numbered position; follows a complete cardinal number to make an ordinal
-    - form: p'ek
+    - form: p'eshal
       class: n
       field: Everyday speech
       gloss: an equal division; after a number, one of that many equal parts
@@ -1664,7 +1884,7 @@ data:
       gloss: third
       note: Three in-position; an ordinal.
       concept: third
-    - form: q'o p'ek
+    - form: q'o p'eshal
       class: num
       field: Everyday speech
       gloss: half
@@ -1688,7 +1908,7 @@ data:
       gloss: productive expression of ordinal positions beyond third
       note: Eleventh, literally ten one in-position. Place ts'ek after any complete cardinal, so ts'ob q'o ts'ek is twenty-second.
       concept: ordinal-construction
-    - form: mushe p'ek
+    - form: mushe p'eshal
       class: num
       field: Everyday speech
       gloss: quarter
@@ -3183,6 +3403,7 @@ data:
     - {name: The Feathered Storm-Serpent, tongue: translation}
     - {name: The Golden Giver, tongue: translation}
     - {name: The Island of Swallows, tongue: translation}
+    - {name: The Itsani Calendar, tongue: translation}
     - {name: The Misty River, tongue: translation}
     - {name: The Owl at the Threshold, tongue: translation}
     - {name: The Owl Keepers, tongue: translation}
@@ -3280,6 +3501,7 @@ data:
     - {form: Wuqulahun, instead: Olek' Nuq'el, why: an Earth number}
     - {form: Waxaklahun, instead: Olek' Q'ishe, why: an Earth number}
     - {form: Bolonlahun, instead: Olek' Pek'ash, why: an Earth number}
+    - {form: P'ek, instead: P'eshal, why: an Earth word}
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"

@@ -28,7 +28,7 @@ The backbone of Ish'bal Tsa'ku is a mighty mountain range running north-to-south
 
 Westward and eastward from the mountains lie vast river valleys, where the climate grows warm and humid. Here, the jungle thrives—dense, verdant, and teeming with life. The rivers themselves are arteries of trade and travel; great canoes laden with goods and tributary goods flow between highland and lowland, linked by well-maintained _ish'lan ch'upul_ (white roads) that cut straight through the jungle canopy. These lowland zones produce cacao, exotic fruits, medicinal herbs, and the rare feathers of precious birds used in priestly regalia. The rivers themselves are sacred highways, and those who travel them must make offerings to [[lore-xilanixlandty|Shilan Ish'lan]], god of voyages.
 
-The climate shifts from alpine cold in the high peaks to tropical warmth in the valleys. The region experiences two seasons clearly marked: the season of rains (aligned with the [Water]{.name data-type="lore/calendar"} month of the celestial calendar) and the season of growth. Sudden cloudbursts are common in the lowlands, and the rivers swell with fury during the rainy months.
+The climate shifts from alpine cold in the high peaks to tropical warmth in the valleys. The region experiences two seasons clearly marked: the season of rains (aligned with _Ne'al_, the [[lore-itsaniclndr#tsen|Water]] month of the celestial calendar) and the season of growth. Sudden cloudbursts are common in the lowlands, and the rivers swell with fury during the rainy months.
 
 ## Maritime Powers
 

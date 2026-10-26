@@ -74,7 +74,7 @@ data:
   seat: null
   population: null
   economy: []
-  lore: [ixilanchalixdty]
+  lore: [ixilanchalixdty, itsaniclndr]
   parents: [itzanpnthn]
   relations: {itzanpnthn: aligned}
   packFolder: pantheonitzani
