@@ -79,20 +79,20 @@ data:
 
     # Standard Punctuation
     SPACE: "\U00000020"
-    TERM_DECL: "\U000E010E"
-    TERM_INTR: "\U000E011F"
-    TERM_IMPR: "\U000E0101"
-    TERM_EXCL: "\U000E0102"
-    NTERM_PAUSE: "\U000E010C"
-    QUOTE_OPEN: "\U000E015B\U000E0140"
-    QUOTE_CLOSE: "\U000E015B\U000E0141"
-    NTERM_INTR: "\U000E015B\U000E0144"
-    NTERM_ABDN: ""
-    VERSE_LN_END: ""
-    VERSE_STZ_END: ""
-    VERSE_CTO_END: ""
-    NAME_OPEN: ""
-    NAME_CLOSE: ""
+    TERM_DECL: "\U000E0100"
+    TERM_INTR: "\U000E0101"
+    TERM_IMPR: "\U000E0102"
+    TERM_EXCL: "\U000E0103"
+    NTERM_PAUSE: "\U000E0105"
+    QUOTE_OPEN: "\U000E0106"
+    QUOTE_CLOSE: "\U000E0107"
+    NTERM_INTR: "\U000E010A"
+    NTERM_ABDN: "\U000E010B"
+    VERSE_LN_END: "\U000E010C"
+    VERSE_STZ_END: "\U000E010D"
+    VERSE_CTO_END: "\U000E010E"
+    NAME_OPEN: "\U000E0110"
+    NAME_CLOSE: "\U000E0111"
     NO_PRINT_WORD_SEP: ""
     QORETHA_MAJ: "\U000F0217"
     QORETHA_MIN: "\U000F0247"
@@ -120,9 +120,7 @@ data:
     vowels: "aeiouAEIOUáéíóúÁÉÍÓÚ"
     rows:
       - {from: "ny", to: "\U000F0290", before: vowel}
-      - {from: "nY", to: "\U000F0290", before: vowel}
       - {from: "Ny", to: "\U000F0291", before: vowel}
-      - {from: "NY", to: "\U000F0291", before: vowel}
       - ["0", "\U000F0258"]
       - ["1", "\U000F0259"]
       - ["2", "\U000F025A"]
@@ -206,40 +204,22 @@ data:
       - ["‑", "\U00000020"]
       - ["ch", "\U000F028C"]
       - ["Ch", "\U000F028D"]
-      - ["CH", "\U000F028D"]
-      - ["cH", "\U000F028C"]
       - ["sh", "\U000F0286"]
       - ["Sh", "\U000F0287"]
-      - ["SH", "\U000F0287"]
-      - ["sH", "\U000F0286"]
       - ["th", "\U000F0250"]
       - ["Th", "\U000F0251"]
-      - ["TH", "\U000F0251"]
-      - ["tH", "\U000F0250"]
       - ["dh", "\U000F0280"]
       - ["Dh", "\U000F0281"]
-      - ["DH", "\U000F0281"]
-      - ["dH", "\U000F0280"]
       - ["kh", "\U000F0282"]
       - ["Kh", "\U000F0283"]
-      - ["KH", "\U000F0283"]
-      - ["kH", "\U000F0282"]
       - ["gh", "\U000F0284"]
       - ["Gh", "\U000F0285"]
-      - ["GH", "\U000F0285"]
-      - ["gH", "\U000F0284"]
       - ["zh", "\U000F0288"]
       - ["Zh", "\U000F0289"]
-      - ["ZH", "\U000F0289"]
-      - ["zH", "\U000F0288"]
       - ["ts", "\U000F028A"]
       - ["Ts", "\U000F028B"]
-      - ["TS", "\U000F028B"]
-      - ["tS", "\U000F028A"]
       - ["ng", "\U000F028E"]
       - ["Ng", "\U000F028F"]
-      - ["NG", "\U000F028F"]
-      - ["nG", "\U000F028E"]
     fonts: [{font: semaron-kuriale}]
 ---
 
@@ -260,7 +240,8 @@ pronunciation. Recorded vocabulary and native spellings remain authoritative.
 ## The spelling rules
 
 - **Case follows the source.** Each letter has a majuscule and a minuscule
-  form. The first letter determines the case of a consonant group. ILTHERA
+  form. A consonant group is lowercase, as in ch, or initial-uppercase,
+  as in Ch. All-uppercase and mixed forms such as CH and cH are illegal. ILTHERA
   names the vowel i in both cases. A doubled vowel remains two letters.
 - **Consonant groups take their own signs.** ch takes CHEROLA, sh SHELMORA,
   th THOLERA, dh DHANETHE, kh KHORVENA, gh GHORMAS, zh ZHAREVA, ts TSALEMA
