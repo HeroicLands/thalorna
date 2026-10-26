@@ -3085,8 +3085,8 @@ data:
       concept: freedom
   sounds:
     edges:
-      - {edge: openCluster, sounds: [tq']}
-      - {edge: closeConsonant, sounds: ["'", k, k', q, l, m, n, t, x, ch, tz, b, h]}
+      - {edge: openCluster, sounds: [tq', sh', h']}
+      - {edge: closeConsonant, sounds: ["'", k, k', q, l, m, n, t, ch, sh, ts, b, h, y]}
     clusters: {max: 3}
     stress: {two: first, longer: penultimate, mark: acute}
   scope:
