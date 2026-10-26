@@ -7,7 +7,7 @@ description: "The speech of the island of Aelwyth, given in these pages in the o
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúëÁÉÍÓÚË0123456789.'-"
+  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúýÁÉÍÓÚÝ0123456789.'-"
   core: true
   abbreviation: Aelw.
   writtenIn: {map: aelwythi-semaron, font: semaron-kuriale}
@@ -4414,17 +4414,271 @@ Nearly every human on the island descends from the [[lore-pelwarpepl|Pelwar refu
 
 Other speech on the island stands apart from it. The [[lore-nordheimnclt|Nordmen]] of [[place-stormveld|Stormveld]] speak [[skill-nordmalng|Nordmal]], and the [[place-pshtrwldrns|Peshtar clans]] keep a language family of their own with no written form. Aelwythi is not the speech of either.
 
-## How Aelwythi sounds
+## How Aelwythi sounds {#pronunciation}
 
-Aelwythi names have two parts, each an old word: a first part such as _Ald-_, _Ed-_, _God-_, _Hild-_ or _Leof-_, and a second such as _-wald_, _-rik_, _-mund_, _-rith_, _-win_ or _-run_.
+The vocabulary entries and name register are authoritative. Their recorded
+forms, meanings, pronunciation and context notes, together with expressly
+authored exceptions, take precedence over the general rules on this page.
+An explicit present-tense table form takes precedence over its regular pattern.
+A flat list of variants attests those forms without assigning each a tense,
+person or other grammatical role.
+
+Where no entry or Aelwythi rule specifies otherwise, ordinary English supplies
+the vocabulary, meaning, grammar and dictionary pronunciation. An English word
+need not appear in the lexicon to be usable. The historical sound conventions
+below are a finite practical reading standard; they do not require recovering
+a historical pronunciation for every word. An unlisted or uncertain reading
+uses an ordinary English dictionary unless a local rule overrides it.
+
+Ordinary English words keep their recognizable spellings. Coined words and
+names use the fixed transcription on this page unless an authoritative entry
+states an exception. A coined spelling has one canonical pronunciation,
+including stress; different spellings may give the same sound. The easy
+pronunciations for play below do not change a word's lexical identity.
+[[doc-prnncthlrn|Pronouncing Thalorna]] supplies background on the shared
+transcription; this note states the Aelwythi rules in full.
+
+A new, unrecorded coinage must not duplicate a whole English word, including
+its admitted inflections and documented historical spellings. Capitalization,
+pronunciation marks or a hyphen used only to separate groups do not avoid a
+collision; an English root inside a longer coined word is not a whole-word
+collision. The spelling reference is the local English word list at
+`assets/data/english-words.json`. Authored vocabulary and registered names,
+including new forms and explicitly recorded exceptions, stand as given. An English homograph does not invalidate an authoritative entry:
+Harden is the registered byname. The collision rule governs a proposed
+coinage without such an entry or exception.
+
+### Ordinary English words {#english-pronunciation}
+
+Familiar words retain their conventional spelling, word-specific stress,
+silent letters and vowel groups except where an entry or one of the following
+conventions specifies a reading. Stress is the ordinary dictionary stress
+unless expressly stated otherwise. There is no automatic first-syllable or
+penultimate stress rule for English words, and an unstressed vowel may reduce
+to uh as the word's reading requires.
+
+The examples in this table identify lexical sound classes. They are not
+unconditional substitutions for every occurrence of the listed letters.
+Apply a class where its familiar example or an explicit entry identifies
+the word's reading; other spellings and unresolved cases retain their dictionary reading.
+
+| Spellings in this lexical class                                             | Reading                                                 |
+| --------------------------------------------------------------------------- | ------------------------------------------------------- |
+| i, y in sit and myth                                                        | A short i, slightly open toward eh                      |
+| e in met                                                                    | A short eh                                              |
+| a in cap and bath                                                           | A short open ah; the two examples share it              |
+| u, o in cup and love                                                        | Higher and farther back than modern cup                 |
+| u, oo in put and look                                                       | A short put-like vowel                                  |
+| o in hot                                                                    | A short rounded o                                       |
+| a in watch                                                                  | A short open ah after w                                 |
+| Unstressed a, e, o, u                                                       | A neutral uh where the word's reading reduces the vowel |
+| ee, ea, e, ie in the see class                                              | A held ee                                               |
+| a, ai, ay in make and day                                                   | A held broad eh, without a closing ee glide             |
+| ir, er, ur in bird                                                          | A held central vowel followed by a sounded r            |
+| a, al, ar in wall and war                                                   | A held open ah; the r in war is sounded                 |
+| aw, au, or in fawn and cord                                                 | A held open aw; the r in cord is sounded                |
+| o, oa, ou in the go class                                                   | A steady held oh, without a closing oo glide            |
+| o, oo, ew, u in the do and spoon class                                      | A held oo                                               |
+| i, y, igh in time and thy; oi, oy in an explicitly specified merged reading | Begin centrally, approximately uh-ee                    |
+| ou, ow in thou and now                                                      | Begin centrally, approximately uh-oo                    |
+
+The merged boy/thy reading, a final y with that diphthong, a rounded alternative
+in the cup class, and a different vowel length in look or fool apply only where
+an entry or passage explicitly states that choice. A spelling such as oo does
+not select one of those alternatives on its own. These vowels and their length
+belong to the English word's reading; the coined-word doubling rule does not
+respell English words.
+
+Consonants follow their ordinary word readings with these explicit conventions:
+
+| Spelling                              | Reading                                                                          |
+| ------------------------------------- | -------------------------------------------------------------------------------- |
+| p, b, t, d, k, f, v, h, l, m, n, w, z | Their ordinary consonant sounds where sounded                                    |
+| g                                     | Hard in go, soft in gem; use the word's dictionary reading                       |
+| s                                     | Unvoiced in sip, voiced in is; use the word's dictionary reading                 |
+| c                                     | k or s according to the word's dictionary reading                                |
+| x                                     | Usually ks, but gz in exact; use the word's dictionary reading                   |
+| q, qu                                 | k and kw where the word has them; qu in conquer takes k                          |
+| th                                    | Unvoiced in thin and voiced in thy, according to the word                        |
+| sh                                    | The sound in ship                                                                |
+| ch, tch                               | The sound in church and watch                                                    |
+| j, dge                                | The sound in judge                                                               |
+| ng                                    | The sound in sing; an n ending in -ing requires an explicit word or passage note |
+| wh                                    | A voiceless w, distinct from ordinary w                                          |
+| r                                     | Sounded after a vowel as well as before one                                      |
+| y                                     | A glide in yes; its vowel readings follow the word and the lexical classes above |
+| gh, initial k, w, final e             | Silent where the word requires it, as in light, know, write and make             |
+| Doubled consonants                    | The word's consonant sound without an obligatory hold                            |
+| Apostrophe                            | Possession or omission, without an obligatory glottal stop                       |
+
+Word-final mb sounds as m, with the b silent, wherever the English word occurs
+in a sentence. A normally silent final e stays silent; an ordinarily pronounced
+one, as in be, he, me or she, stays audible. No blanket silence rule applies to
+other words merely because they contain one of the letters in the table.
+Ordinary English spellings are not given accents to request a different
+reading. Aelwythi uses no grave accent.
+
+A written -ed takes the syllable count of the word's dictionary reading unless
+an explicit entry or passage specifies another. Verse does not by itself
+license arbitrary elision, an added syllable or a stress shift. The recorded
+readings of offering and courteous in the crossroads charm are two syllables:
+off-ring and cour-teous, with the latter's second part compressed. Those
+context notes apply to the charm, not every occurrence of the words.
+
+### Coined words and names {#coined-pronunciation}
+
+The fixed transcription below determines every sound of a coined word, name
+or naming element unless its authoritative entry specifies an exception. Capitals have the same sounds as
+lowercase letters. Read the longest recognized letter group first, from left
+to right; each character belongs to only one group. All other adjacent vowels
+are sounded separately.
+
+#### Vowels {#vowels}
+
+| Spelling | Fixed reading                                   |
+| -------- | ----------------------------------------------- |
+| a        | a in father                                     |
+| e        | e in bet                                        |
+| i        | i in machine                                    |
+| o        | A steady oh, without a closing oo glide         |
+| u        | u in rule                                       |
+| ai       | eye                                             |
+| au       | ow in cow                                       |
+| ei       | ay in day                                       |
+| oi       | oy in boy                                       |
+| ou       | ou in soul                                      |
+| ae       | ay in day, one syllable; the same reading as ei |
+| ie       | ee-eh joined into one syllable                  |
+| uo       | oo-oh joined into one syllable                  |
+| aa       | A held a, one syllable                          |
+| ii       | A held i, one syllable                          |
+| uu       | A held u, one syllable                          |
+
+A vowel keeps its identity in stressed and unstressed syllables. There is no
+unwritten reduction to uh. A final e is sounded, and never changes the vowel
+before it. A coined word needs no mark to make a vowel audible. A final e
+forms a syllable unless a listed vowel group consumes it. Conventional English
+make keeps its dictionary one-syllable reading; a different coined reading
+requires an explicit authored exception. A long vowel or joined vowel group counts as one syllable.
+
+#### Consonants {#consonants}
+
+| Spelling                              | Fixed reading                                                                     |
+| ------------------------------------- | --------------------------------------------------------------------------------- |
+| b, d, f, h, k, l, m, n, p, t, v, w, z | Their ordinary consonant sounds                                                   |
+| s                                     | Always unvoiced, as in sip                                                        |
+| g                                     | Always hard, as in go                                                             |
+| j                                     | j in judge                                                                        |
+| r                                     | Sounded in every position, including after a vowel; rolled as in the common guide |
+| ch                                    | ch in church                                                                      |
+| sh                                    | sh in ship                                                                        |
+| th                                    | th in thin                                                                        |
+| dh                                    | th in this                                                                        |
+| kh                                    | ch in Scottish loch                                                               |
+| gh                                    | The voiced counterpart of kh                                                      |
+| zh                                    | s in measure                                                                      |
+| q                                     | A k articulated farther back in the throat                                        |
+| ts                                    | ts in cats, including at the start of a word                                      |
+| ng                                    | ng in sing                                                                        |
+| ny before a vowel                     | The consonant sound in canyon                                                     |
+| y before a vowel                      | y in yes                                                                          |
+
+The letter c occurs only in ch; write k or s for their respective sounds.
+The letter x is not used; write ks or gz. A doubled consonant is held a
+little longer. An h before a consonant or at the end of a word is a breath,
+unless a recognized group such as th or sh consumes it. The common guide's
+plain alternatives for difficult sounds are acceptable pronunciations for play.
+
+No consonant is silent. In particular, coined word-final mb sounds both m and b.
+There is no soft g, silent gh or alternative sound inferred from an English-looking
+ending. The letter y is always a consonant; write i for the vowel in machine.
+In new coined spellings, y and ny must be followed by a vowel.
+
+A hyphen separates groups without adding a sound: as-ha has separate s and h,
+whereas asha contains sh. It does not reset stress. A compound's spelling is
+read as a whole, including where its naming elements meet. Insert a hyphen
+where a boundary must keep two letters out of a recognized group.
+
+An apostrophe marks the catch in the throat heard in uh-oh. After a consonant
+it adds the same catch to that consonant. It adds no syllable. The common
+guide's limits and plain pronunciation alternatives apply.
+
+#### Syllables, stress and marks {#stress}
+
+Every syllable has a written vowel. The letter y does not count as a vowel.
+Identify recognized letter groups before counting syllables.
+
+- A one-syllable word carries its stress on that syllable.
+- A two-syllable word is stressed on the first syllable.
+- A word of three or more syllables is stressed on the second-to-last syllable.
+- An acute marks a different stressed syllable. It changes stress, not vowel
+  identity or length. In a multi-letter vowel group, put the acute on its first
+  vowel letter; identify the group by its unaccented spelling.
+- Recognized vowel groups always keep their listed readings. Coined words
+  never split such a group into separate syllables. Other adjacent vowels
+  are sounded separately, as specified above. No diaeresis is used.
+
+For example, kelara is ke-LA-ra, kélara is KE-la-ra and kelará is ke-la-RA.
+Case does not change these readings. A common spelling carries at most one
+acute; use it only where it specifies exceptional stress.
+No grave accent or accented consonant belongs to this spelling convention.
+
+#### Easy readings for play
+
+Each coined form retains its canonical pronunciation, syllable count and stress.
+The following easing choices are permitted in performance without changing its
+spelling or identity. They are not alternative lexical forms or rules for
+coining another word.
+
+- ie and uo may be sounded as two vowels, ee-eh and oo-oh; each still counts
+  as one canonical syllable when placing the word's stress.
+- A doubled long vowel may be said short.
+- kh may be a plain k; gh a plain g; q a plain k.
+- Inside a word before a vowel, ng may use the ng-g of finger.
+- r may be unrolled, and a doubled consonant may be said once.
+- A slight vowel may ease an unfamiliar opening consonant cluster. A k or g
+  before n may be silent, as in the familiar reading of knee.
+- A breathing h may be silent.
+- An apostrophe's consonant may be said plainly, with a short break after it
+  or none; a catch between vowels may be eased to the same short break or none.
+
+### Foreign words and names {#foreign-names}
+
+A foreign word used as Aelwythi is adapted into Aelwythi speech and respelled
+by its fixed transcription. Its Aelwythi form is pronounced entirely by the
+coined-word rules, not by the source language. A borrowed word that is already
+an ordinary English word uses the conventional-English exception.
+
+A foreign name likewise has a pronounceable Aelwythi form, rather than requiring
+a reader to know another tongue's spelling. Where a source name contains a
+sound or consonant cluster Aelwythi speakers cannot pronounce, its adapted form
+uses pronounceable Aelwythi sounds and syllables. The register states that form
+and may identify the person or place it names. An acute marks exceptional
+stress; a mark is not retained merely as part of a foreign spelling. Adapted
+forms use the listed vowel groups without diaeresis or exceptional splitting.
+
+### The naming palette {#naming-palette}
+
+Aelwythi names have two parts, each an old word: a first part such as _Ald-_,
+_Ed-_, _God-_, _Hild-_ or _Leof-_, and a second such as _-wald_, _-rik_,
+_-mund_, _-rith_, _-win_ or _-run_. The elements and the complete name obey the
+coined-word rules, including stress across the complete name, except where
+the register or an authored entry specifies otherwise.
 
 **The vowels.** _a_, _e_ and _i_ carry most names, with _o_ in _God-_ and _Os-_.
 
-**The consonants.** _w_, _th_, _d_, _l_, _r_, _f_ and _g_ are common. The hard sound is always written _k_, as in _Kuth-_ and _-rik_.
+**The consonants.** _w_, _th_, _d_, _l_, _r_, _f_ and _g_ are common. The hard
+sound is always written _k_, as in _Kuth-_ and _-rik_.
 
-**Endings.** Men's names end in _-wald_, _-rik_, _-mund_, _-win_ or _-red_. Women's names end in _-rith_, _-run_, _-ith_ or _-wyn_.
+**Endings.** Common men's endings are _-wald_, _-rik_, _-mund_, _-win_ or _-red_.
+Common women's endings are _-rith_, _-run_, _-ith_ or _-wyn_.
 
-**The naming elements.** Their hard consonant is written _k_. The prose and verse keep their ordinary readable word spellings, including _c_ and _x_. Its names are new pairings of the old parts, not the attested names of history.
+**The naming elements.** Their hard consonant is written _k_. The prose and
+verse keep their ordinary readable English word spellings, including _c_ and
+_x_. Coined names are new pairings of the old parts, not the attested names of
+history. These are defaults for an unrecorded name, not grounds for changing an
+authoritative registered form. Favor this palette for new coinages unless an
+explicit exception is recorded.
 
 ## Beside Élavendri and Vylari
 
@@ -4438,23 +4692,26 @@ Ordinary folk who stay at home speak Aelwythi alone. The travelled and educated 
 
 Aelwythi is given in these pages in the reader's own language, in a register that stays older than the ordinary prose of the notes. Anything said, sung or recorded in Aelwythi is set in this register throughout: quoted speech, songs, proverbs, oaths, charms and folklore. The notes that describe the language, the people and the land stay in the setting's ordinary present-tense prose; only the text in Aelwythi follows the rules below.
 
-Aelwythi is written in the [[skill-semrnscrpt|Semaron Script]]. The
-[[doc-mapaelwsemaron|Aelwythi Semaron Spelling]] converts a passage marked
-with both `.nativefont` and `lang=aelw` into the Kuriale hand. A passage marked
-only `lang=aelw` keeps its roman spelling and surrounding font. The source keeps
-ordinary readable word spellings; the [[doc-prnncthlrn#aelwythi|Aelwythi pronunciation rules]]
-give them the reconstructed sounds of the older stage.
+Aelwythi is written in the [[skill-semrnscrpt|Semaron Script]], in the Kuriale
+hand. Roman spellings and spoken readings follow this note. The separate
+Aelwythi Semaron encoding document, `aelwythi-semaron` in
+`@heroiclands/fonts` at `encodings/aelwythi-semaron.md`, describes its script
+encoding; [[doc-mapaelwsemaron|Aelwythi Semaron Spelling]] records the setting's
+script spellings. The pronunciation rules here do not define that encoding.
 
-### Rules for writers
+### Rules for writers {#writing-rules}
 
-Use familiar word spelling. The period is the sole pause mark in both roman and
+Use familiar spelling for ordinary English words and the fixed transcription
+above for coined words and names. The period is the sole pause mark in both roman and
 native readings; questions and exclamations keep their wording and end with a
 period. Word-joining hyphens keep their familiar role; direct speech uses no quotation marks. The older character comes from sentence
-structure and familiar words, without phonetic respelling, contracted negatives
-or apostrophized elisions. Possessives such as summer's keep their apostrophe.
-The pronunciation guide, lexical readings and Semaron conversion still apply.
+structure and familiar words, without respelling ordinary English words,
+contracted negatives or apostrophized elisions. Possessives such as summer's keep their apostrophe.
+Recorded vocabulary and explicit context notes take precedence. Other choices
+follow the Aelwythi rules here, with ordinary English vocabulary, grammar and
+dictionary pronunciation wherever neither supplies an exception.
 
-#### Address and present verbs
+#### Address and present verbs {#present-agreement}
 
 Number is mandatory, even in polite or formal address. One person is always
 thou or thee; several are ye or you. Courtesy does not change number.
@@ -4486,6 +4743,11 @@ applies to we, ye and they, as well as plural nouns.
 | know  | know  | knowest  | knoweth       | knowen         |
 | say   | say   | sayst    | saith         | sayen          |
 
+An explicit form in the table takes precedence over the regular ending
+pattern. A variant listed in the lexicon is an attested form; the grammar
+and its context determine its use, rather than the list alone assigning
+a tense or person.
+
 Keep the word recognizable: a final silent e gives way before these endings,
 as in love, lovest, loveth, loven. With consonant plus y, use -iest
 and -ieth in the singular, but keep y before plural -en: carriest,
@@ -4499,7 +4761,7 @@ past forms such as came, went, spoke, knew and gave, with familiar
 thou knewest and thou gavest where needed. Past plurals do not acquire
 present -en.
 
-#### Modals, questions and negation
+#### Modals, questions and negation {#modals-and-questions}
 
 Modals take no plural -en. Their second singular forms include wilt,
 shalt, canst, mayst, mightst, wouldst, shouldst and oughtest;
@@ -4524,9 +4786,9 @@ action, Thou must obey states necessity, and Thou oughtest to obey states
 moral duty. Thou mayst depart grants permission. We cannot abide here
 longer states inability; may not would change that meaning.
 
-Prefer inversion to ask a question: Knowest thou him?, How farest thou?,
-Wherefore weepest thou?, Understanden they? An existing auxiliary inverts
-normally: Wilt thou come?, Hast thou seen him?, Haven ye seen him?
+Prefer inversion to ask a question: `Knowest thou him.`, `How farest thou.`,
+`Wherefore weepest thou.` and `Understanden they.` An existing auxiliary inverts
+normally: `Wilt thou come.`, `Hast thou seen him.` and `Haven ye seen him.`
 Use auxiliary do in questions or negatives only when needed to prevent
 ambiguity. Put not after the finite verb: I know not, he understandeth
 not, we believen not, they comen not. Fear not and Enter not are
@@ -4534,7 +4796,7 @@ negative commands. Use naught for nothing; none, no man, neither and
 nor retain their ordinary distinct uses. Ordinary speech uses not, without
 older alternative negative particles or contracted negatives.
 
-#### Word order and familiar vocabulary
+#### Word order and familiar vocabulary {#vocabulary-and-meaning}
 
 Subject, verb, object is the default. Front a phrase for emphasis where it
 reads naturally: Such a thing have I never seen; Long haven we awaited thy
@@ -4564,19 +4826,28 @@ nay for ordinary answers; yes and no remain available to distinguish
 responses to positive and negative questions. Use certes, verily and
 forsooth sparingly.
 
-#### Everyday, formal and ceremonial speech
+#### Everyday, formal and ceremonial speech {#register}
 
-Ordinary conversation stays brief: Whither goest thou? — I go unto the
-market. — Hast thou coin enough? — Nay, but I have wares to sell.
+Ordinary conversation stays brief:
 
-Formal speech can carry more emphasis: My lord, long haven we awaited thy
-counsel. The folk growen weary, and the winter draweth nigh. Ceremonial speech
+::: {lang=aelw font=serif}
+Whither goest thou.
+
+I go unto the market.
+
+Hast thou coin enough.
+
+Nay but I have wares to sell.
+:::
+
+Formal speech can carry more emphasis: My lord long haven we awaited thy
+counsel. The folk growen weary and the winter draweth nigh. Ceremonial speech
 can add parallelism and repetition: By the troth of our fathers and the blood
-of our forebears, we binden ourselves unto this oath. Neither sword nor flame
+of our forebears we binden ourselves unto this oath. Neither sword nor flame
 shall turn us from our purpose. All three keep the same agreement rules.
 Verse keeps its metre and rhyme.
 
-#### Speech and emphasis
+#### Speech and emphasis {#speech-and-emphasis}
 
 Give direct speech without quotation marks. Set an attribution before it
 without a separating pause mark, as in the plain example below. Keep possessive apostrophes.
@@ -4621,7 +4892,7 @@ meaning while applying the same grammar:
 
 | Meaning                                                                            | Aelwythi                                                                   |
 | ---------------------------------------------------------------------------------- | -------------------------------------------------------------------------- |
-| Where are you going? We have been waiting for you since morning. (One addressee.)  | Whither goest thou? We haven been waiting for thee since morn.             |
+| Where are you going? We have been waiting for you since morning. (One addressee.)  | Whither goest thou. We haven been waiting for thee since morn.             |
 | Do not enter the forest after dark. Dangerous things live there.                   | Enter not the forest after nightfall. Perilous things dwellen therein.     |
 | I do not believe what you are saying. You have lied to us before. (One addressee.) | I believe not thy words. Thou hast lied unto us ere now.                   |
 | You all know what happened. We cannot stay here any longer.                        | Ye knowen what hath befallen. We cannot abide here longer.                 |
@@ -4629,15 +4900,15 @@ meaning while applying the same grammar:
 
 A gate conversation, addressed to several merchants:
 
-Who ben ye, and whither goen ye?
+Who ben ye and whither goen ye.
 
-We ben merchants of the north, and haven come hither to sell our wares.
+We ben merchants of the north and haven come hither to sell our wares.
 
 The gates standen shut. Ye cannot enter till morn.
 
-Then we will bide here. Yet far haven we journeyed, and weary ben we.
+Then we will bide here. Yet far haven we journeyed and weary ben we.
 
-Ye may bide, but stir no strife. The captain will come at dawn.
+Ye may bide but stir no strife. The captain will come at dawn.
 
 **Review a passage by meaning first.** Establish person, number and tense;
 choose the pronouns and finite verb; then check questions, negation and word
@@ -4647,7 +4918,7 @@ and tone. The lexicon's cited forms and utterances follow this register;
 definitions and surrounding commentary stay in the reader's ordinary modern
 prose, as do descriptive notes throughout the setting.
 
-### Sample passages
+### Sample passages {#sample-passages}
 
 A harbor-gate greeting:
 
@@ -4699,13 +4970,14 @@ A saying of the manors:
 
 In the charm, _offering_ and _courteous_ each take two syllables: _off-ring_,
 and _cour-teous_ with the second part compressed. These divisions mark the
-metre; the vowel readings still follow the pronunciation guide and the word.
+metre; the vowel readings follow the English-word rules above and the stated
+lexical reading.
 _Who_ here means _whoever_. Both the charm and the harvest song have eight
 syllables to a line.
 
-## Naming Traditions
+## Naming Traditions {#names}
 
-Names on Aelwyth are in the reader's own language, and they are kept in the forms already in use. The island's people name by compounding, and the same small stock of elements serves places, people and families.
+Names on Aelwyth use the authoritative spellings given in the register. Their explicit notes take precedence; otherwise ordinary English words keep their familiar readings and coined names obey the fixed pronunciation and stress rules above. The island's people name by compounding, and the same small stock of elements serves places, people and families.
 
 **A place name is a compound of quality and ground.** The first part says what the place is like or whose it is; the last says what kind of ground it is. _[[place-ashford|Ashford]]_ is a crossing by the ash trees, _[[place-brynwold|Brynwold]]_ the upland of the hills, _[[place-wyndmarch|The Wyndmarch]]_ the border country of the narrow ways, _[[place-stonyhaugh|Stonyhaugh]]_ the stony river meadow, _[[place-coldbeck|Koldbek]]_ the cold stream, _[[place-threndale|Threndale]]_ the valley of lament, and _[[place-greywater|Greywater]]_ the grey river. A joining _s_ marks ownership, as in _[[place-kingsholow|Kingshollow]]_.
 
@@ -4713,11 +4985,11 @@ Names on Aelwyth are in the reader's own language, and they are kept in the form
 
 **A byname is usually a place.** The family of a farm, a spring or a clearing takes its name: _Chilton_, _Barnwell_, _Helmsley_, _Ashby_, _Winwik_. A byname closing on _-ing_ marks kin, as _Harding_ and _Browning_ do, and one closing on _-ling_ marks the small or the young, as _Grayling_ does.
 
-**Some names stand outside the pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Aelwyth_ itself, a few place names of [[lore-vardain|the Vardain]] and the [[lore-flkkhazar|Khazár Folk]], the Élavendri-form names of the Dúnavarre embassy, and the Nordmal names of Aelwythans of Nordmen descent are all attested and are kept as written. The lexicon lists each with its reason. A new name for the island is built from the listed elements, or it is entered there as an exception.
+**Some names stand outside the element pattern.** The realm names in _-ath_ and _-eth_ (_Aldorath_, _Ondareth_, _[[place-veldareth|Veldareth]]_), _Aelwyth_ itself, and names associated with [[lore-vardain|the Vardain]], the [[lore-flkkhazar|Khazár Folk]], Élavendri or Nordmal need not be built from the island's naming elements. The register gives each Aelwythi form and its origin or reason. An exception to the element pattern does not itself specify an exceptional pronunciation. The fixed sound and stress rules apply unless the register or an authored entry explicitly states another reading; foreign origin alone does not supply one. A new name for the island is built from the listed elements, or it is entered there with its reason and a pronounceable Aelwythi spelling.
 
 ## Aelwythi Lexicon
 
-Aelwythi is the speech of Aelwyth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Aelwythans hold that its plainness is honesty. The pronunciation guide states their historical readings; the dictionary's native forms state exceptional Semaron spellings. The vocabulary below covers ordinary actions, feelings, relationships, questions and reasoning. The naming tables record the elements of place names, given names and bynames, and the names already in use.
+Aelwythi is the speech of Aelwyth, plain, direct and quick to take in foreign words, and the setting gives it in the reader's own language, in the older register set out above. Mainlanders call it coarse; Aelwythans hold that its plainness is honesty. This note states the English-word sound conventions and fixed coined transcription; explicit lexical and name-register notes take precedence. Ordinary English supplies meanings, grammar and dictionary readings where neither an entry nor a local rule specifies otherwise. The dictionary's native forms state exceptional Semaron spellings. The vocabulary below covers ordinary actions, feelings, relationships, questions and reasoning. The naming tables record the elements of place names, given names and bynames, and the names already in use.
 
 The elements are the island's own, and the pattern they make is what keeps a new name from sounding as if it came from another coast. A new place, person or family on Aelwyth is built from the elements below, or it is a plain exception and is entered in the last table with the reason.
 
@@ -4744,9 +5016,9 @@ names sexual desire. _Truth_ concerns what is so; _assurance_ concerns how
 certain someone feels. _Hurt_ causes pain or injury; _feel pain_ describes the
 sufferer's experience.
 
-Questions are given as usable utterances. _Who art thou?_ asks for identity;
-_Whence comest thou?_ asks for origin. _Knowest thou him?_ asks for a yes or
-no answer. _What meanest thou?_ asks for clarification, while _Speak once again_
+Questions are given as usable utterances. _Who art thou._ asks for identity;
+_Whence comest thou._ asks for origin. _Knowest thou him._ asks for a yes or
+no answer. _What meanest thou._ asks for clarification, while _Speak once again_
 asks for repetition. _I pray thee_ introduces a courteous request;
 _It is not worth thanks_ answers gratitude.
 
@@ -4837,7 +5109,7 @@ FROM register WHERE language = 'thalorna-note-skill-aelwthlng' AND why IS NULL O
 
 ## Names outside the pattern
 
-Each name here is attested and stands as written. None is renamed; each is listed with the reason no element builds it.
+Each name here is listed with the reason no element builds it. Its recorded form and explicit notes are authoritative. An exception concerning its elements alone does not alter its sounds; the general pronunciation and stress rules apply wherever no explicit reading overrides them.
 
 ```sql
 SELECT '**' || name || '**' AS "Name",

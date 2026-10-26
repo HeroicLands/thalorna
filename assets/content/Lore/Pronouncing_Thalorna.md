@@ -10,7 +10,7 @@ data:
       - {letters: [a], kind: vowel, like: father, ipa: ɑ}
       - {letters: [e], kind: vowel, like: bet, ipa: ɛ}
       - {letters: [i], kind: vowel, like: machine, ipa: i}
-      - {letters: [o], kind: vowel, like: go, ipa: o}
+      - {letters: [o], kind: vowel, like: "a steady oh, without a closing oo glide", ipa: o}
       - {letters: [u], kind: vowel, like: rule, ipa: u}
       - {letters: [ai], kind: vowel pair, like: eye, ipa: aɪ}
       - {letters: [au], kind: vowel pair, like: cow, ipa: aʊ}
@@ -75,9 +75,9 @@ data:
       - {letters: [zh], kind: consonant, like: the s in measure, ipa: ʒ}
       - {letters: [j], kind: consonant, like: judge, ipa: dʒ}
       - letters: [y]
-        kind: consonant or vowel
-        like: "a consonant as in yes before a vowel; a vowel said as i, as in Bryn and Ashby, between consonants or at the end of a word"
-        ipa: "j, i"
+        kind: consonant
+        like: "a consonant as in yes; write i for the vowel in machine"
+        ipa: j
       - letters: [q]
         kind: consonant
         like: a k said further back in the throat; a plain k is fine
@@ -86,7 +86,7 @@ data:
       - {letters: [ny], kind: consonant, like: canyon, ipa: ɲ}
       - letters: [ng]
         kind: consonant
-        like: "sing, inside a word or at its end; the ng-g of finger is fine inside a word"
+        like: "sing, including at the start of a word; the ng-g of finger is fine inside a word"
         ipa: ŋ
       - letters: [mb]
         kind: consonant
@@ -323,77 +323,87 @@ data:
       - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: apart, limit: one}
 ---
 
-Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives names and coined words one set of readings. Aelwythi keeps readable word spellings and has its own pronunciation section.
+Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives names and coined words one set of readings. Aelwythi uses it for coined words and names; ordinary English words keep readable spellings and the historical readings in its own section.
 
 Ease of speaking comes first. Where a sound is hard for a reader, a footnote gives a plain sound to use instead, and the plain sound is always correct.
 
 ## Common pronunciation
 
-A tongue follows this section except where its own section gives a different reading. Aelwythi follows the word spellings and historical readings in its own section throughout.
+A tongue follows this section except where its own section gives a different reading. Aelwythi's coined words and names follow this common transcription, including its stress and apostrophe rules. Its conventional English vocabulary follows the historical readings in the Aelwythi section.
+
+A coined spelling has one reading under the applicable rules, including its stress. Capitals have the same sounds as lowercase letters. Read the longest recognized letter group first, from left to right, using only the groups this guide declares for the tongue. Each character belongs to one group. An acute leaves group recognition unchanged; where a tongue permits a diaeresis, it separates the marked vowel from the preceding one. Aelwythi coined words use no diaeresis and never split a recognized vowel group. The plain alternatives for difficult sounds are aids for play, not additional dictionary readings.
+
+### English words and coined spellings
+
+A new, unrecorded coined word or name must not duplicate a complete English word, whatever its intended meaning or pronunciation, unless an explicit authored exception states otherwise. Aelwythi's authored vocabulary and registered names are authoritative; an English homograph does not invalidate an existing entry. Explicit meanings, pronunciations and context notes take precedence over general rules, which apply wherever the entry supplies no exception. Compare whole spellings without regard to case or acute and diaeresis marks: capitalization or a pronunciation mark does not make an English word available for coining. A hyphen used only to separate pronunciation groups does not disguise a conflicting whole word. A root or naming element occurring inside a longer word is not a whole-word collision.
+
+The maintained spelling reference is `assets/data/english-words.json`, one merged list of shared English and American, British, Canadian and Australian spellings from [wordlist-english](https://www.npmjs.com/package/wordlist-english), historical dictionary spellings, and documented English inflections from the Aelwythi writing rules. Its source manifest records the input versions and hashes; `utils/generate-english-words.mjs` regenerates the list from local source snapshots and the cited editorial additions. Historical membership reserves a spelling against coining; it does not authorize that word in a particular period or in Aelwythi prose. A missing entry does not by itself establish that an otherwise identifiable English spelling is available for coining: document the English source and add it to the maintained list. An entry appearing only as part of a definition, a bound root or an abbreviation is not on that ground an English word.
+
+An English word used in Aelwythi retains its ordinary meaning and dictionary reading except where an authored entry or an Aelwythi rule supplies an explicit exception. The Aelwythi language note states its complete local standard; ordinary English vocabulary, grammar and pronunciation fill what neither an entry nor those rules modify. A proposed unrecorded form is not relabelled as coined merely to obtain another English reading. A foreign word or name adapted into Aelwythi receives a pronounceable Aelwythi form, spelled and stressed by the common transcription. Foreign spelling does not supply an exception to these rules.
 
 ### Vowels
 
 Each vowel letter has one sound. Vowels are sounded one at a time unless they form a pair in this table, and a final _e_ is never silent.
 
-| Letter | Sounds like                                | Example |
-| ------ | ------------------------------------------ | ------- |
-| a      | _father_                                   | _ana_   |
-| e      | _bet_                                      | _eda_   |
-| i      | _machine_                                  | _siri_  |
-| o      | _go_                                       | _oro_   |
-| u      | _rule_                                     | _lunu_  |
-| ai     | _eye_                                      | _kaira_ |
-| au     | _cow_                                      | _taum_  |
-| ei     | _day_                                      | _meiro_ |
-| oi     | _boy_                                      | _soin_  |
-| ou     | _soul_                                     | _koulo_ |
-| ae     | _day_, one syllable                        | _Gael_  |
-| ie     | _ee-eh_ run into one syllable[^ie]         | _fiel_  |
-| uo     | _oo-oh_ run into one syllable[^uo]         | _duon_  |
-| aa     | a long _a_, one vowel held a little[^long] | _baar_  |
-| ii     | a long _i_, one vowel held a little[^long] | _niir_  |
-| uu     | a long _u_, one vowel held a little[^long] | _suul_  |
+| Letter | Sounds like                                 | Example      |
+| ------ | ------------------------------------------- | ------------ |
+| a      | _father_                                    | _a_ (letter) |
+| e      | _bet_                                       | _eda_        |
+| i      | _machine_                                   | _siri_       |
+| o      | A steady _oh_, without a closing _oo_ glide | _oro_        |
+| u      | _rule_                                      | _lunu_       |
+| ai     | _eye_                                       | _kaira_      |
+| au     | _cow_                                       | _taum_       |
+| ei     | _day_                                       | _meiro_      |
+| oi     | _boy_                                       | _soin_       |
+| ou     | _soul_                                      | _koulo_      |
+| ae     | _day_, one syllable                         | _ae_         |
+| ie     | _ee-eh_ run into one syllable[^ie]          | _ie_ (group) |
+| uo     | _oo-oh_ run into one syllable[^uo]          | _duon_       |
+| aa     | a long _a_, one vowel held a little[^long]  | _aa_ (group) |
+| ii     | a long _i_, one vowel held a little[^long]  | _niir_       |
+| uu     | a long _u_, one vowel held a little[^long]  | _suul_       |
 
-A pair of vowels not in this table is sounded apart, each vowel on its own, as in _Zoë_. _y_ before a vowel is the consonant of _yes_; between consonants or at the end of a word it is the vowel _i_, as in _Bryn_ and _Ashby_.
+A pair of vowels not in this table is sounded apart, each vowel on its own. A vowel keeps its identity under stress and without stress; there is no unwritten reduction to _uh_. A final _e_ is sounded and does not alter the preceding vowel. _y_ is always the consonant of _yes_; write _i_ for the vowel in _machine_. In new coined spellings, _y_ and _ny_ must be followed by a vowel. A listed vowel pair or doubled long vowel counts as one syllable for stress.
 
 ### Consonants
 
-Consonants have their usual values in the reader's language, with these points.
+Consonants have their usual values in the reader's language, with these points. Every consonant is sounded unless it belongs to a listed group; English silent-letter patterns do not apply to coined words. The letter _s_ is always unvoiced, as in _sip_.
 
-| Spelling          | Sounds like                                                                       |
-| ----------------- | --------------------------------------------------------------------------------- |
-| g                 | Always hard, as in _go_. Never as in _gem_.                                       |
-| ch                | _church_                                                                          |
-| sh                | _ship_                                                                            |
-| th                | _thin_                                                                            |
-| dh                | _this_                                                                            |
-| kh                | The Scottish _loch_.[^kh]                                                         |
-| gh                | The same sound as _kh_, voiced.[^gh]                                              |
-| zh                | The _s_ in _measure_.                                                             |
-| j                 | _judge_                                                                           |
-| q                 | A _k_ said further back in the throat.[^q]                                        |
-| ts                | _cats_, at the start of a word too, as in _tsar_.                                 |
-| ny                | _canyon_, before a vowel. Before a consonant or at the end, _y_ is the vowel _i_. |
-| ng                | _sing_, inside a word or at its end.[^ng]                                         |
-| r                 | Rolled.[^r]                                                                       |
-| Doubled consonant | Held a little, as in _sharru_ and _Brett_.[^double]                               |
+| Spelling          | Sounds like                                       |
+| ----------------- | ------------------------------------------------- |
+| g                 | Always hard, as in _go_. Never as in _gem_.       |
+| ch                | _church_                                          |
+| sh                | _ship_                                            |
+| th                | _thin_                                            |
+| dh                | _this_                                            |
+| kh                | The Scottish _loch_.[^kh]                         |
+| gh                | The same sound as _kh_, voiced.[^gh]              |
+| zh                | The _s_ in _measure_.                             |
+| j                 | _judge_                                           |
+| q                 | A _k_ said further back in the throat.[^q]        |
+| ts                | _cats_, at the start of a word too, as in _tsar_. |
+| ny                | _canyon_, before a vowel.                         |
+| ng                | _sing_, including at the start of a word.[^ng]    |
+| r                 | Rolled.[^r]                                       |
+| Doubled consonant | Held a little, as in _sharru_.[^double]           |
 
 The letter _c_ appears only inside _ch_; a hard _c_ sound is written _k_. The letter _x_ is never used.
 
 ### Syllables
 
-Every syllable has a written vowel. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. Where two consonants open a word in a pair unfamiliar in the reader's language, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath.[^h]
+Every syllable has a written vowel. The letter _y_ does not count as a vowel. Identify letter groups and vowel separation before counting syllables. A stem written with a hyphen, such as _zevr-_, is never said alone: it is always joined to an ending that opens on a vowel. A hyphen inside a complete coined word separates groups without adding a sound or resetting stress: _as-ha_ has separate _s_ and _h_, whereas _asha_ contains _sh_. Read a compound as one word, including where its elements meet. Where two consonants open a word in a pair unfamiliar in the reader's language, as in _dvon_ or _jvel_, they are said together.[^pair] An _h_ before a consonant or at the end of a word is a breath unless a recognized group consumes it.[^h]
 
 ### Stress
 
-A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. So _Kelara_ is said ke-LA-ra, and _Torin_ is said TO-rin.
+A one-syllable word carries its stress on that syllable. A word of two syllables is stressed on the first. A longer word is stressed on the second-to-last syllable. Count a listed vowel pair or doubled long vowel as one syllable. Thus _Kelara_ is ke-LA-ra, _Kélara_ is KE-la-ra and _Kelará_ is ke-la-RA. A hyphen inside a compound does not create a separate stress domain.
 
 ### Marks
 
 In common spelling a word carries at most one mark, and a mark appears for one of two reasons. Sinale performance notation is an exception, described below.
 
-- An **acute** (_á_) marks a stressed syllable that the rule above would not choose. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
-- A **diaeresis** (_ë_) marks a vowel sounded apart from the vowel before it, as in _Zoë_.
+- An **acute** (_á_) marks a stressed syllable that the rule above would not choose. It changes stress, not the vowel's identity or length. Put it on the first vowel letter of a multi-letter vowel group and recognize the group by its unaccented spelling. In _Kelarán_ the rule would stress the middle syllable, ke-LA-ran, and the mark moves the stress to the last, ke-la-RAN.
+- A **diaeresis** (_ë_) separates the marked vowel from the preceding vowel, preventing them from forming a listed group. It changes the syllable count, not the vowel's identity, and does not itself place stress. Thus _ae_ is one syllable and _aë_ is two.
 
 No other mark is used in common spelling; Sinale may also annotate pitch and emphasis. Vylari has the lexical grave-vowel exception below.
 
@@ -411,13 +421,19 @@ Common spelling leaves tone and nasal vowels unwritten. Sinale may annotate pitc
 
 ## Aelwythi {#aelwythi}
 
-[[skill-aelwthlng|Aelwythi]] uses the reconstructed pronunciation of the older
-stage. Read its familiar word spellings with the sound values below. Silent
-letters, variable vowels and lexical stress belong to this spelling; the
-common transcription's fixed vowel, stress and apostrophe rules do not apply.
-The prose explaining the language uses ordinary modern wording.
+[[skill-aelwthlng|Aelwythi]] gives ordinary English words their reconstructed
+late Middle to Early Modern English readings. Only those conventional English
+words use the historical sound values below, including silent letters,
+context-dependent vowels and word-specific stress. Coined words and names,
+including adapted foreign forms, follow the common transcription and stress
+rules except where an authoritative Aelwythi entry specifies otherwise. The
+Aelwythi language note states the complete local pronunciation standard and
+takes precedence where an explicit entry or local rule differs from this
+summary. Unspecified vocabulary, grammar and readings use ordinary English. The [[skill-aelwthlng|language note]] gives the
+writing register and naming palette. The prose explaining the language uses
+ordinary modern wording.
 
-The inventory follows the
+The historical-English inventory follows the
 [introductory pronunciation tables, pp. xli–xlvii](https://api.pageplace.de/preview/DT0400.9780191645433_A30390764/preview-9780191645433_A30390764.pdf#page=42).
 It is a usable reconstruction with lexical and regional alternatives. For a
 particular word's reading, consult the linked reference.
@@ -426,10 +442,11 @@ provide an introduction to the accent.
 
 ### Vowels and vowel groups
 
-The example words identify historical readings, not their present-day sound
-models. The table gives contextual spellings, not a rule that each listed
-letter has only one sound. The whole word determines the reading. The signs distinguish
-_sit_, _see_ and _day_ through their spellings; a new vowel sign is unnecessary.
+The English example words identify historical readings, not their present-day
+sound models. This table describes conventional English words only: the whole
+word determines which historical reading applies. It does not supply alternative
+readings for a coined spelling. Coined vowels and vowel groups have the fixed
+values in the common transcription.
 
 ```sql
 SELECT array_to_string(letters, ', ') AS "Spelling", ipa AS "Sound", "like" AS "Reading"
@@ -457,28 +474,44 @@ WHERE language = 'thalorna-note-doc-prnncthlrn'
 ORDER BY position
 ```
 
-Sound _r_ in _far_ and _word_, and distinguish _wh_ in _where_ from _w_ in
-_wear_. Word endings and metre can allow alternatives, including _-ing_ said
-with _n_. Stress and elision follow the word and the verse, not the common
-transcription's syllable count. A written _-ed_ need not add a syllable.
+In conventional English words, sound _r_ in _far_ and _word_, and distinguish
+_wh_ in _where_ from _w_ in _wear_. Word endings and metre can allow historical
+alternatives, including _-ing_ said with _n_. Stress and elision follow the
+English word and the verse, not the common transcription's syllable count. A
+written _-ed_ need not add a syllable. Word-final _mb_ sounds as _m_, with silent
+_b_, wherever the word occurs in a sentence. A normally silent final _e_ stays
+silent; a pronounced one, as in _be_, _he_, _me_ or _she_, stays audible.
+Apostrophes mark possession or omission rather than a catch in the throat.
+English spellings are not accented to override their established readings, and
+Aelwythi uses no grave accent.
+
+Every coined consonant follows the common table instead: _g_ is hard, _s_ is
+unvoiced, _th_ and _dh_ have distinct sounds, and _mb_ sounds both letters.
+Coined vowels are sounded even at the end of a word. Acute marks specify
+exceptional stress without importing a foreign reading. Coined Aelwythi
+uses no diaeresis: recognized vowel groups always keep their listed readings
+and are never split into separate syllables. Other adjacent vowels are
+sounded separately. A foreign name that Aelwythi speakers cannot pronounce is adapted
+into pronounceable Aelwythi sounds and written by these same rules.
 
 ### Writing these sounds in Semaron
 
 The [[doc-mapaelwsemaron|Aelwythi Semaron Spelling]] uses the existing letters
-and their groups for this orthography. _th_ covers both sounds; _sh_ writes the
-sound of _ship_; _ch_ and _tch_ take _t_ and _sh_; _j_ writes the sound of
+and their groups for this orthography. In conventional English words, _th_
+covers both sounds; _sh_ writes the sound of _ship_; _ch_ and _tch_ take _t_ and _sh_; _j_ writes the sound of
 _judge_; _ng_ and _wh_ keep their groups. Vowel spellings and context carry the
 vowel distinctions. The existing group _zh_ can also spell a voiced _sh_ sound
 in a borrowed word; it does not assign that modern reading to every familiar
 word such as _pleasure_. No extra letter is required for this inventory.
 
-A passage marked `lang=aelw` receives that mapping automatically. The map
-rewrites spelling, while this section and the word's lexical reading determine
-pronunciation. In particular, its treatment of _c_, _x_ and _qu_ is not an
-algorithm for recovering every word's sounds. A dictionary native form records
+A passage marked `.nativefont lang=aelw` uses that script spelling. Script
+conversion writes characters; it does not choose their sounds. This section
+determines historical readings of English words, and the common transcription
+determines coined readings. In particular, the script conversion of _c_, _x_
+and _qu_ does not recover every English word's sounds. A dictionary native form records
 an exceptional script spelling and takes precedence automatically. The roman
-source keeps its ordinary words. Its language inventory permits period as the
-sole pause, while possessive apostrophes and word-joining hyphens keep their
+source keeps conventional English words alongside fixed coined spellings.
+Its language inventory permits period as the sole pause, while possessive apostrophes and word-joining hyphens keep their
 own roles. Direct speech uses no quotation marks.
 
 ## Vylari
