@@ -31,17 +31,17 @@ The poem is in common metre, rhymed ABCB.
 : The Lament at the Road's End {#lament}
 
 ```verse {form=nelthava lang=en cols=2 numstep=5}
-1 [Árnathen lourth árnathen gierth al tírvale thoudron.]{.nativefont lang=elav}
+1 [Árnathen lourth. árnathen gierth al tírvale thoudron.]{.nativefont lang=elav}
 2 Come down, come to the road's foot.
-2 [Árnathen lourth árnathen gierth al tírvale thoudron.]{lang=elav}
+2 [Árnathen lourth. árnathen gierth al tírvale thoudron.]{lang=elav}
 
-1 [Tose árnathen griene gierth al kurnand rith al kirdis.]{.nativefont lang=elav}
+1 [Tose. árnathen griene gierth al kurnand rith al kirdis.]{.nativefont lang=elav}
 2 You who climbed for the fair.
-2 [Tose árnathen griene gierth al kurnand rith al kirdis.]{lang=elav}
+2 [Tose. árnathen griene gierth al kurnand rith al kirdis.]{lang=elav}
 
-1 [Deisgethen al kárnis deisgethen al lúmrisa.]{.nativefont lang=elav}
+1 [Deisgethen al kárnis. deisgethen al lúmrisa.]{.nativefont lang=elav}
 2 Cheese is sold and hides are sold.
-2 [Deisgethen al kárnis deisgethen al lúmrisa.]{lang=elav}
+2 [Deisgethen al kárnis. deisgethen al lúmrisa.]{lang=elav}
 
 1 [Théinathen al henthra lourth. árnathen al kurnis.]{.nativefont lang=elav}
 2 Lamps are burning down there.
@@ -52,30 +52,30 @@ The poem is in common metre, rhymed ABCB.
 2 This is the ore road's ending.
 2 [En ti al kérthon tírvale dyelon.]{lang=elav}
 
-1 [Rákathen gene nond háelathen tengar al úrkenon.]{.nativefont lang=elav}
+1 [Rákathen gene. nond háelathen tengar al úrkenon.]{.nativefont lang=elav}
 2 It broke before completion.
-2 [Rákathen gene nond háelathen tengar al úrkenon.]{lang=elav}
+2 [Rákathen gene. nond háelathen tengar al úrkenon.]{lang=elav}
 
-1 [Durnathen griene térgathen gene gierna]{.nativefont lang=elav}
+1 [Durnathen griene. térgathen gene gierna.]{.nativefont lang=elav}
 2 Look up where it turns to grass,
-2 [Durnathen griene térgathen gene gierna]{lang=elav}
+2 [Durnathen griene. térgathen gene gierna.]{lang=elav}
 
-1 [Reik al kergis légathen al auran kendonalon.]{.nativefont lang=elav}
+1 [Reik al kergis. légathen al auran kendonalon.]{.nativefont lang=elav}
 2 and the stones the king's people set.
-2 [Reik al kergis légathen al auran kendonalon.]{lang=elav}
+2 [Reik al kergis. légathen al auran kendonalon.]{lang=elav}
 
 ***
-1 [Nond elnathen groumon gierth al óllevine lyero munde.]{.nativefont lang=elav}
+1 [Nond elnathen groumon gierth al óllevine. lyero munde.]{.nativefont lang=elav}
 2 No cairn stands for the dead I sing.
-2 [Nond elnathen groumon gierth al óllevine lyero munde.]{lang=elav}
+2 [Nond elnathen groumon gierth al óllevine. lyero munde.]{lang=elav}
 
 1 [Nond lyero uk halthon al geinra sírnerne rith al kirdis.]{.nativefont lang=elav}
 2 No house sings their roll.
 2 [Nond lyero uk halthon al geinra sírnerne rith al kirdis.]{lang=elav}
 
-1 [Gaernin lyero munde tis árnathen al tírvale lourth.]{.nativefont lang=elav}
+1 [Gaernin lyero munde tis. árnathen al tírvale lourth.]{.nativefont lang=elav}
 2 I sing here, where the road comes down.
-2 [Gaernin lyero munde tis árnathen al tírvale lourth.]{lang=elav}
+2 [Gaernin lyero munde tis. árnathen al tírvale lourth.]{lang=elav}
 
 1 [En al tírvale alnar al kernon. salkathen al kurnis.]{.nativefont lang=elav}
 2 The road is all their mark.
@@ -107,9 +107,9 @@ The poem is in common metre, rhymed ABCB.
 2 with the legion in the hills.
 2 [En al legyon rith al aulde rith al kirdis.]{lang=elav}
 
-1 [Nusri vornon nusri sírnerne ánhrason rith déisnon.]{.nativefont lang=elav}
+1 [Nusri vornon. nusri sírnerne. ánhrason rith déisnon.]{.nativefont lang=elav}
 2 Our law, our roll, and silver paid.
-2 [Nusri vornon nusri sírnerne ánhrason rith déisnon.]{lang=elav}
+2 [Nusri vornon. nusri sírnerne. ánhrason rith déisnon.]{lang=elav}
 
 1 [Mólthathen nyes al ánhrason tis.]{.nativefont lang=elav}
 2 We owed that silver still.
@@ -137,39 +137,39 @@ The poem is in common metre, rhymed ABCB.
 2 He looked toward mountains,
 2 [Nóurethen gene griene gierth al sórvanda.]{lang=elav}
 
-1 [Gierth al ánhrason rith al kergis al gársalon.]{.nativefont lang=elav}
+1 [Gierth al ánhrason rith al kergis. al gársalon.]{.nativefont lang=elav}
 2 toward silver within stone.
-2 [Gierth al ánhrason rith al kergis al gársalon.]{lang=elav}
+2 [Gierth al ánhrason rith al kergis. al gársalon.]{lang=elav}
 
-1 [Al éltheson al éllive kergis.]{.nativefont lang=elav}
+1 [Al éltheson. al éllive kergis.]{.nativefont lang=elav}
 2 Gold and shining stones
-2 [Al éltheson al éllive kergis.]{lang=elav}
+2 [Al éltheson. al éllive kergis.]{lang=elav}
 
-1 [Géilathen al kenralon geinra nond gríethathen al kenron.]{.nativefont lang=elav}
+1 [Géilathen al kenralon geinra. nond gríethathen al kenron.]{.nativefont lang=elav}
 2 that tribes had left untouched.
-2 [Géilathen al kenralon geinra nond gríethathen al kenron.]{lang=elav}
+2 [Géilathen al kenralon geinra. nond gríethathen al kenron.]{lang=elav}
 
 ***
 1 [Ryenathen al soldand rith Péravel.]{.nativefont lang=elav}
 2 The crier spoke at [[place-beravel|Péravel]],
 2 [Ryenathen al soldand rith Péravel.]{lang=elav}
 
-1 [Rith Valdun rith al thalgan ryenathen soldar al kurnis.]{.nativefont lang=elav}
+1 [Rith Valdun. rith al thalgan. ryenathen soldar al kurnis.]{.nativefont lang=elav}
 2 at [[place-valdun|Valdun]] and the fords.
-2 [Rith Valdun rith al thalgan ryenathen soldar al kurnis.]{lang=elav}
+2 [Rith Valdun. rith al thalgan. ryenathen soldar al kurnis.]{lang=elav}
 
 1 [Ánhrason rith thraemis gierth uk geindar ránthemon.]{.nativefont lang=elav}
 2 Silver in hand for a strong back.
 2 [Ánhrason rith thraemis gierth uk geindar ránthemon.]{lang=elav}
 
-1 [Reik tárneve reik al auran leithon en to al laegnis.]{.nativefont lang=elav}
+1 [Reik tárneve reik al auran leithon. en to al laegnis.]{.nativefont lang=elav}
 2 Bread and the king's own word.
-2 [Reik tárneve reik al auran leithon en to al laegnis.]{lang=elav}
+2 [Reik tárneve reik al auran leithon. en to al laegnis.]{lang=elav}
 
 ***
-1 [Árnathen Dalren al gurnand helnor.]{.nativefont lang=elav}
+1 [Árnathen Dalren. al gurnand helnor.]{.nativefont lang=elav}
 2 [Dalren]{.name data-type="being/npc"} came, the drover's son.
-2 [Árnathen Dalren al gurnand helnor.]{lang=elav}
+2 [Árnathen Dalren. al gurnand helnor.]{lang=elav}
 
 1 [En al daethar gurnon sélvorosa. mólthathen al kirdis.]{.nativefont lang=elav}
 2 His father's animals were dead.
@@ -184,9 +184,9 @@ The poem is in common metre, rhymed ABCB.
 2 [Deisgethen gene al gúrvel gierth tárneve rith al kurnis.]{lang=elav}
 
 ***
-1 [Árnathen Naldor reik Tenral al ondren.]{.nativefont lang=elav}
+1 [Árnathen Naldor reik Tenral. al ondren.]{.nativefont lang=elav}
 2 [Naldor]{.name data-type="being/npc"} and [Tenral]{.name data-type="being/npc"} came, brothers,
-2 [Árnathen Naldor reik Tenral al ondren.]{lang=elav}
+2 [Árnathen Naldor reik Tenral. al ondren.]{lang=elav}
 
 1 [Lourth threl al hendulon hendron.]{.nativefont lang=elav}
 2 down from charcoal hearths.
@@ -201,9 +201,9 @@ The poem is in common metre, rhymed ABCB.
 2 [Al dyelar telgon. nond dárkathen gene derar gaeron.]{lang=elav}
 
 ***
-1 [Árnathen Denrik dárkathen gene al nézora geirin]{.nativefont lang=elav}
+1 [Árnathen Denrik. dárkathen gene al nézora geirin]{.nativefont lang=elav}
 2 [Denrik]{.name data-type="being/npc"} came, owing more
-2 [Árnathen Denrik dárkathen gene al nézora geirin]{lang=elav}
+2 [Árnathen Denrik. dárkathen gene al nézora geirin]{lang=elav}
 
 1 [Thinar uk gurnand kirdon déisnon.]{.nativefont lang=elav}
 2 than a drover's yearly pay.
@@ -218,9 +218,9 @@ The poem is in common metre, rhymed ABCB.
 2 [Théndathen al lánthevron alnar al kieron.]{lang=elav}
 
 ***
-1 [Méldathen Halden al thálmanda róugathen gene.]{.nativefont lang=elav}
+1 [Méldathen Halden al thálmanda. róugathen gene.]{.nativefont lang=elav}
 2 [Halden]{.name data-type="being/npc"} kissed his wife and left,
-2 [Méldathen Halden al thálmanda róugathen gene.]{lang=elav}
+2 [Méldathen Halden al thálmanda. róugathen gene.]{lang=elav}
 
 1 [Láegathen gene alnar telgon gierth gene rith al kirdis.]{.nativefont lang=elav}
 2 giving her all he held.
@@ -230,9 +230,9 @@ The poem is in common metre, rhymed ABCB.
 2 [Kelda]{.name data-type="being/npc"} went to bake their bread.
 2 [Róugathen Kelda gierth tárnathen al tárneve.]{lang=elav}
 
-1 [Thélkathen gene Arvend al helnor rith al írvaloste.]{.nativefont lang=elav}
+1 [Thélkathen gene Arvend. al helnor. rith al írvaloste.]{.nativefont lang=elav}
 2 She carried [Arvend]{.name data-type="being/npc"}, her son.
-2 [Thélkathen gene Arvend al helnor rith al írvaloste.]{lang=elav}
+2 [Thélkathen gene Arvend. al helnor. rith al írvaloste.]{lang=elav}
 
 ***
 1 [En Arvend 14 kirdon rith to kélvase kirgon.]{.nativefont lang=elav}
@@ -256,9 +256,9 @@ The poem is in common metre, rhymed ABCB.
 2 They went up beyond [[place-elanmere|Elanmere]],
 2 [Róugathen geinra griene gouthe Elanmere.]{lang=elav}
 
-1 [Gouthe al mirlathon dyelon gouthe al kenron.]{.nativefont lang=elav}
+1 [Gouthe al mirlathon dyelon. gouthe al kenron.]{.nativefont lang=elav}
 2 beyond the ending farms.
-2 [Gouthe al mirlathon dyelon gouthe al kenron.]{lang=elav}
+2 [Gouthe al mirlathon dyelon. gouthe al kenron.]{lang=elav}
 
 1 [Griene greile al kálve reik gouthe al salverth.]{.nativefont lang=elav}
 2 Through birch and past the tree line.
@@ -273,26 +273,26 @@ The poem is in common metre, rhymed ABCB.
 2 They burned no birch. [Jeldor]{.name data-type="being/npc"} knew that.
 2 [Nond hendathen geinra al kálve. Sárgathen Jeldor to.]{lang=elav}
 
-1 [Al ondren dárkathen al gársalon]{.nativefont lang=elav}
+1 [Al ondren. dárkathen al gársalon.]{.nativefont lang=elav}
 2 The brothers with the craft
-2 [Al ondren dárkathen al gársalon]{lang=elav}
+2 [Al ondren. dárkathen al gársalon.]{lang=elav}
 
 1 [Thélkathen geinra al hendulon griene gaele al ránthemon.]{.nativefont lang=elav}
 2 bore charcoal upon their backs
 2 [Thélkathen geinra al hendulon griene gaele al ránthemon.]{lang=elav}
 
-1 [Threl al hendron gársathen geinra gene rith al halthon.]{.nativefont lang=elav}
+1 [Threl al hendron. gársathen geinra gene. rith al halthon.]{.nativefont lang=elav}
 2 from hearths where they made it.
-2 [Threl al hendron gársathen geinra gene rith al halthon.]{lang=elav}
+2 [Threl al hendron. gársathen geinra gene. rith al halthon.]{lang=elav}
 
 ***
 1 [Gouthe al salve théndathen al sórvanda.]{.nativefont lang=elav}
 2 Above trees stood the mountain,
 2 [Gouthe al salve théndathen al sórvanda.]{lang=elav}
 
-1 [Géstaren gierth al pelvai mouglar rith al kirdon.]{.nativefont lang=elav}
+1 [Géstaren gierth al pelvai. mouglar rith al kirdon.]{.nativefont lang=elav}
 2 gray to clouds and old.
-2 [Géstaren gierth al pelvai mouglar rith al kirdon.]{lang=elav}
+2 [Géstaren gierth al pelvai. mouglar rith al kirdon.]{lang=elav}
 
 1 [Thárnathen geinra al treinen graethon rith halmon.]{.nativefont lang=elav}
 2 They cut first into white stone.
@@ -303,13 +303,13 @@ The poem is in common metre, rhymed ABCB.
 2 [Pínathen geinra ánhrason reik éltheson.]{lang=elav}
 
 ***
-1 [Árnathen uk darthand théndathen gene gaele al rapalon.]{.nativefont lang=elav}
+1 [Árnathen uk darthand. théndathen gene gaele al rapalon.]{.nativefont lang=elav}
 2 A Warden came upon the spoil.
-2 [Árnathen uk darthand théndathen gene gaele al rapalon.]{lang=elav}
+2 [Árnathen uk darthand. théndathen gene gaele al rapalon.]{lang=elav}
 
-1 [Nóurethen gene geinra ryenathen gene al mougon.]{.nativefont lang=elav}
+1 [Nóurethen gene geinra. ryenathen gene al mougon.]{.nativefont lang=elav}
 2 He looked and spoke.
-2 [Nóurethen gene geinra ryenathen gene al mougon.]{lang=elav}
+2 [Nóurethen gene geinra. ryenathen gene al mougon.]{lang=elav}
 
 1 [Nond en ti tosri. Ryenathen munde nal uk kirdin.]{.nativefont lang=elav}
 2 This is not yours. I say it once.
@@ -320,13 +320,13 @@ The poem is in common metre, rhymed ABCB.
 2 [Róugathen tose lourth. Térgathen gene al gouran.]{lang=elav}
 
 ***
-1 [Ryenathen Jeldor dróusathen al auran al kérathen.]{.nativefont lang=elav}
+1 [Ryenathen Jeldor. dróusathen al auran al kérathen.]{.nativefont lang=elav}
 2 [Jeldor]{.name data-type="being/npc"} said the king ordered digging.
-2 [Ryenathen Jeldor dróusathen al auran al kérathen.]{lang=elav}
+2 [Ryenathen Jeldor. dróusathen al auran al kérathen.]{lang=elav}
 
-1 [Ryenathen Halden déisnathen geinra nyes rith al kirdis.]{.nativefont lang=elav}
+1 [Ryenathen Halden. déisnathen geinra nyes rith al kirdis.]{.nativefont lang=elav}
 2 [Halden]{.name data-type="being/npc"} said they were paid.
-2 [Ryenathen Halden déisnathen geinra nyes rith al kirdis.]{lang=elav}
+2 [Ryenathen Halden. déisnathen geinra nyes rith al kirdis.]{lang=elav}
 
 1 [Nóurethen Kelda al darthand róugathen miron.]{.nativefont lang=elav}
 2 [Kelda]{.name data-type="being/npc"} watched the Warden's leaving.
@@ -349,26 +349,26 @@ The poem is in common metre, rhymed ABCB.
 2 Picks entered stone next day,
 2 [Róugathen al kéldron rith al kergis nal al dáelamen kieron.]{lang=elav}
 
-1 [Reik al dáelamen rith al ravale rith al kirdon.]{.nativefont lang=elav}
+1 [Reik al dáelamen. rith al ravale rith al kirdon.]{.nativefont lang=elav}
 2 then the next, within rain.
-2 [Reik al dáelamen rith al ravale rith al kirdon.]{lang=elav}
+2 [Reik al dáelamen. rith al ravale rith al kirdon.]{lang=elav}
 
 ***
 1 [Uk kirgon. En to alnar al kirdis.]{.nativefont lang=elav}
 2 One season. That was all the time.
 2 [Uk kirgon. En to alnar al kirdis.]{lang=elav}
 
-1 [Uk kirgon graethon gonde graethon rith al gársalon.]{.nativefont lang=elav}
+1 [Uk kirgon. graethon gonde graethon rith al gársalon.]{.nativefont lang=elav}
 2 One season, cut after cut.
-2 [Uk kirgon graethon gonde graethon rith al gársalon.]{lang=elav}
+2 [Uk kirgon. graethon gonde graethon rith al gársalon.]{lang=elav}
 
 1 [Súndathen al sórvanda gaethe uk thraemis.]{.nativefont lang=elav}
 2 The mountain closed like a hand.
 2 [Súndathen al sórvanda gaethe uk thraemis.]{lang=elav}
 
-1 [Súndathen gene en gene súndar. dúlkathen al mougon.]{.nativefont lang=elav}
+1 [Súndathen gene. en gene súndar. dúlkathen al mougon.]{.nativefont lang=elav}
 2 It closed. It was shut.
-2 [Súndathen gene en gene súndar. dúlkathen al mougon.]{lang=elav}
+2 [Súndathen gene. en gene súndar. dúlkathen al mougon.]{lang=elav}
 
 ***
 1 [Nond árnathen kendar ryenathen gere súndathen gene.]{.nativefont lang=elav}
@@ -379,9 +379,9 @@ The poem is in common metre, rhymed ABCB.
 2 A few came down, long dead now.
 2 [Árnathen kren lourth. en geinra sélvorosa greinde al mouglar kirdis.]{lang=elav}
 
-1 [Nond ryenathen geinra hóuthathen geinra rith al dulnon.]{.nativefont lang=elav}
+1 [Nond ryenathen geinra. hóuthathen geinra rith al dulnon.]{.nativefont lang=elav}
 2 They never told, sat by the lake
-2 [Nond ryenathen geinra hóuthathen geinra rith al dulnon.]{lang=elav}
+2 [Nond ryenathen geinra. hóuthathen geinra rith al dulnon.]{lang=elav}
 
 1 [Térgathen geinra al gouran. nond láegathen al menris.]{.nativefont lang=elav}
 2 and turned their heads.
@@ -396,26 +396,26 @@ The poem is in common metre, rhymed ABCB.
 2 with more than stone. That is known.
 2 [Rith geirin thinar kergis. En to al sargon.]{lang=elav}
 
-1 [Rith gere nond ryenathen geinra. árethathen geinra lourth.]{.nativefont lang=elav}
+1 [Rith gere. nond ryenathen geinra. árethathen geinra lourth.]{.nativefont lang=elav}
 2 With what, those returning do not say.
-2 [Rith gere nond ryenathen geinra. árethathen geinra lourth.]{lang=elav}
+2 [Rith gere. nond ryenathen geinra. árethathen geinra lourth.]{lang=elav}
 
 1 [Géilathen al [Lodge]{lang=en} al telgon.]{.nativefont lang=elav}
 2 The Lodge keeps its own.
 2 [Géilathen al [Lodge]{lang=en} al telgon.]{lang=elav}
 
 ***
-1 [Dalren Moren Naldor Tenral.]{.nativefont lang=elav}
+1 [Dalren. Moren. Naldor. Tenral.]{.nativefont lang=elav}
 2 [Dalren]{.name data-type="being/npc"}, [Moren]{.name data-type="being/npc"}, [Naldor]{.name data-type="being/npc"}, [Tenral]{.name data-type="being/npc"}.
-2 [Dalren Moren Naldor Tenral.]{lang=elav}
+2 [Dalren. Moren. Naldor. Tenral.]{lang=elav}
 
-1 [Orlen Denrik Salten.]{.nativefont lang=elav}
+1 [Orlen. Denrik. Salten.]{.nativefont lang=elav}
 2 [Orlen]{.name data-type="being/npc"}, [Denrik]{.name data-type="being/npc"}, [Salten]{.name data-type="being/npc"}.
-2 [Orlen Denrik Salten.]{lang=elav}
+2 [Orlen. Denrik. Salten.]{lang=elav}
 
-1 [Halden Kelda Arvend Jeldor.]{.nativefont lang=elav}
+1 [Halden. Kelda. Arvend. Jeldor.]{.nativefont lang=elav}
 2 [Halden]{.name data-type="being/npc"}, [Kelda]{.name data-type="being/npc"}, [Arvend]{.name data-type="being/npc"}, [Jeldor]{.name data-type="being/npc"}.
-2 [Halden Kelda Arvend Jeldor.]{lang=elav}
+2 [Halden. Kelda. Arvend. Jeldor.]{lang=elav}
 
 1 [Nond árnathen uk threl geinra lourth grend.]{.nativefont lang=elav}
 2 Not one came down again.
@@ -426,9 +426,9 @@ The poem is in common metre, rhymed ABCB.
 2 Then the guides returned home. No ford,
 2 [Gonde árethathen al úldand gierth halthon. Nonduk thalgan.]{lang=elav}
 
-1 [Nonduk gandurth nonduk sénthron rith al kirdis.]{.nativefont lang=elav}
+1 [Nonduk gandurth. nonduk sénthron rith al kirdis.]{.nativefont lang=elav}
 2 no pass, no path
-2 [Nonduk gandurth nonduk sénthron rith al kirdis.]{lang=elav}
+2 [Nonduk gandurth. nonduk sénthron rith al kirdis.]{lang=elav}
 
 1 [Nond pínathen al auran kendonalon rith méthron reik lordis.]{.nativefont lang=elav}
 2 could the king's people find with rods and cords.
@@ -439,9 +439,9 @@ The poem is in common metre, rhymed ABCB.
 2 [Térgathen al sórvanda geinra gournar. en to al menris.]{lang=elav}
 
 ***
-1 [Róugathen al auran griene nond kérnathen kendar gene.]{.nativefont lang=elav}
+1 [Róugathen al auran griene. nond kérnathen kendar gene.]{.nativefont lang=elav}
 2 The king climbed unasked.
-2 [Róugathen al auran griene nond kérnathen kendar gene.]{lang=elav}
+2 [Róugathen al auran griene. nond kérnathen kendar gene.]{lang=elav}
 
 1 [Árnathen gene lourth. Reik al derar kendonalon.]{.nativefont lang=elav}
 2 He came down. The others,
@@ -460,9 +460,9 @@ The poem is in common metre, rhymed ABCB.
 2 He closed the cuts and swore the oath
 2 [Súndathen gene al graethon. Nolgrathen gene al nolgra]{lang=elav}
 
-1 [Grend rith al [Lodge]{lang=en} leithon.]{.nativefont lang=elav}
+1 [Grend. rith al [Lodge]{lang=en} leithon.]{.nativefont lang=elav}
 2 again, upon [[place-eshalshldg|the Lodge]]'s word.
-2 [Grend rith al [Lodge]{lang=en} leithon.]{lang=elav}
+2 [Grend. rith al [Lodge]{lang=en} leithon.]{lang=elav}
 
 1 [Gélnathen al kérnon al tírvale dyelon miron.]{.nativefont lang=elav}
 2 The crown learned where its road ends.
@@ -494,68 +494,68 @@ The poem is in common metre, rhymed ABCB.
 2 Then the houses paid bards.
 2 [Gonde déisnathen al halthon al lyeronno.]{lang=elav}
 
-1 [Al gaernar halthon ukal rith al kirdon.]{.nativefont lang=elav}
+1 [Al gaernar halthon. ukal rith al kirdon.]{.nativefont lang=elav}
 2 Every great house.
-2 [Al gaernar halthon ukal rith al kirdon.]{lang=elav}
+2 [Al gaernar halthon. ukal rith al kirdon.]{lang=elav}
 
 1 [Saenathen geinra al kenrison griene gierth al aulde.]{.nativefont lang=elav}
 2 Prove descent ran up the hill
 2 [Saenathen geinra al kenrison griene gierth al aulde.]{lang=elav}
 
-1 [Gierth al mouglar ryedamis daethar reik helnor threl al kenron.]{.nativefont lang=elav}
+1 [Gierth al mouglar ryedamis. daethar reik helnor threl al kenron.]{.nativefont lang=elav}
 2 to old blood, father and son.
-2 [Gierth al mouglar ryedamis daethar reik helnor threl al kenron.]{lang=elav}
+2 [Gierth al mouglar ryedamis. daethar reik helnor threl al kenron.]{lang=elav}
 
 ***
 1 [Róugathen al lyeronno griene reik lourth al sírnerne.]{.nativefont lang=elav}
 2 Bards traveled up and down the rolls.
 2 [Róugathen al lyeronno griene reik lourth al sírnerne.]{lang=elav}
 
-1 [Saenathen geinra geinra alnar rith al kirdon.]{.nativefont lang=elav}
+1 [Saenathen geinra geinra. alnar. rith al kirdon.]{.nativefont lang=elav}
 2 They proved them all.
-2 [Saenathen geinra geinra alnar rith al kirdon.]{lang=elav}
+2 [Saenathen geinra geinra. alnar. rith al kirdon.]{lang=elav}
 
-1 [Róugathen al sírnerne griene al sórvanda thar.]{.nativefont lang=elav}
+1 [Róugathen al sírnerne griene al sórvanda. thar.]{.nativefont lang=elav}
 2 The rolls ran cleanly up the mountain,
-2 [Róugathen al sírnerne griene al sórvanda thar.]{lang=elav}
+2 [Róugathen al sírnerne griene al sórvanda. thar.]{lang=elav}
 
-1 [Gyethe al graethon reik gouthe rith al mougon.]{.nativefont lang=elav}
+1 [Gyethe al graethon. reik gouthe. rith al mougon.]{.nativefont lang=elav}
 2 around the cut, and onward.
-2 [Gyethe al graethon reik gouthe rith al mougon.]{lang=elav}
+2 [Gyethe al graethon. reik gouthe. rith al mougon.]{lang=elav}
 
 ***
 1 [Nond dárkathen Dalren uk sírnerne gierth saenathen.]{.nativefont lang=elav}
 2 [Dalren]{.name data-type="being/npc"} had no roll for proving.
 2 [Nond dárkathen Dalren uk sírnerne gierth saenathen.]{lang=elav}
 
-1 [Nond Kelda nond al helnor rith al kirdis.]{.nativefont lang=elav}
+1 [Nond Kelda. nond al helnor. rith al kirdis.]{.nativefont lang=elav}
 2 Nor [Kelda]{.name data-type="being/npc"}, nor her son.
-2 [Nond Kelda nond al helnor rith al kirdis.]{lang=elav}
+2 [Nond Kelda. nond al helnor. rith al kirdis.]{lang=elav}
 
 1 [En al tírvale al geinra sírnerne. Árnathen gene lourth tis.]{.nativefont lang=elav}
 2 The road is their roll. It comes down here.
 2 [En al tírvale al geinra sírnerne. Árnathen gene lourth tis.]{lang=elav}
 
-1 [En gene kurnar en gene tengar. en to al menris.]{.nativefont lang=elav}
+1 [En gene kurnar. en gene tengar. en to al menris.]{.nativefont lang=elav}
 2 It is short. It is complete.
-2 [En gene kurnar en gene tengar. en to al menris.]{lang=elav}
+2 [En gene kurnar. en gene tengar. en to al menris.]{lang=elav}
 
 ***
 1 [Théndathen 11 réinsalve rith al kérthon tírvale thoudron.]{.nativefont lang=elav}
 2 Eleven rowans stand at the road's foot,
 2 [Théndathen 11 réinsalve rith al kérthon tírvale thoudron.]{lang=elav}
 
-1 [Rith uk lanris greile al lirve rith al kirdis.]{.nativefont lang=elav}
+1 [Rith uk lanris greile al lirve. rith al kirdis.]{.nativefont lang=elav}
 2 a row along the shore.
-2 [Rith uk lanris greile al lirve rith al kirdis.]{lang=elav}
+2 [Rith uk lanris greile al lirve. rith al kirdis.]{lang=elav}
 
-1 [Sálnathen al ámmira geinra reik al thálmanda.]{.nativefont lang=elav}
+1 [Sálnathen al ámmira geinra. reik al thálmanda.]{.nativefont lang=elav}
 2 Mothers planted them, and wives,
-2 [Sálnathen al ámmira geinra reik al thálmanda.]{lang=elav}
+2 [Sálnathen al ámmira geinra. reik al thálmanda.]{lang=elav}
 
-1 [Gierth al kendonalon róugathen griene mougre rith al írvaloste.]{.nativefont lang=elav}
+1 [Gierth al kendonalon. róugathen griene mougre. rith al írvaloste.]{.nativefont lang=elav}
 2 for people who climbed before.
-2 [Gierth al kendonalon róugathen griene mougre rith al írvaloste.]{lang=elav}
+2 [Gierth al kendonalon. róugathen griene mougre. rith al írvaloste.]{lang=elav}
 
 ***
 1 [Árnathen al Halden thálmanda griene ukal kirdon.]{.nativefont lang=elav}
@@ -570,18 +570,18 @@ The poem is in common metre, rhymed ABCB.
 2 She did not wait to see it taken.
 2 [Nond gaeldathen gene nóurethen góldathen kendar gene.]{lang=elav}
 
-1 [Róugathen gene lourth ukar gierth al halthon.]{.nativefont lang=elav}
+1 [Róugathen gene lourth ukar. gierth al halthon.]{.nativefont lang=elav}
 2 She went home alone.
-2 [Róugathen gene lourth ukar gierth al halthon.]{lang=elav}
+2 [Róugathen gene lourth ukar. gierth al halthon.]{lang=elav}
 
 ***
 1 [Légathen kendar uk tárnevine goure geinde.]{.nativefont lang=elav}
 2 Someone leaves bread there still,
 2 [Légathen kendar uk tárnevine goure geinde.]{lang=elav}
 
-1 [Rith al kurnand treinen óssenda rith al kirdis.]{.nativefont lang=elav}
+1 [Rith al kurnand treinen óssenda. rith al kirdis.]{.nativefont lang=elav}
 2 the fair's first night.
-2 [Rith al kurnand treinen óssenda rith al kirdis.]{lang=elav}
+2 [Rith al kurnand treinen óssenda. rith al kirdis.]{lang=elav}
 
 1 [Nond nóurethen kendar al laegand. Nond kérnathen kendar.]{.nativefont lang=elav}
 2 Nobody sees the giver. Nobody asks.
@@ -596,30 +596,30 @@ The poem is in common metre, rhymed ABCB.
 2 The coast sings thirteen. We sing here
 2 [Lyero al lirve 13. Lyero nyes tis]{lang=elav}
 
-1 [11 gaethe sáuminathen nyes al mougon.]{.nativefont lang=elav}
+1 [11. gaethe sáuminathen nyes al mougon.]{.nativefont lang=elav}
 2 eleven as we were taught.
-2 [11 gaethe sáuminathen nyes al mougon.]{lang=elav}
+2 [11. gaethe sáuminathen nyes al mougon.]{lang=elav}
 
-1 [Gyese sárgathen tose geirin lyero geinra tis.]{.nativefont lang=elav}
+1 [Gyese sárgathen tose geirin. lyero geinra tis.]{.nativefont lang=elav}
 2 If you know more, sing them here.
-2 [Gyese sárgathen tose geirin lyero geinra tis.]{lang=elav}
+2 [Gyese sárgathen tose geirin. lyero geinra tis.]{lang=elav}
 
-1 [Géilathen kendar al lenthon gose nond rith al kirdon.]{.nativefont lang=elav}
+1 [Géilathen kendar al lenthon. gose nond. rith al kirdon.]{.nativefont lang=elav}
 2 Someone keeps a name, or does not.
-2 [Géilathen kendar al lenthon gose nond rith al kirdon.]{lang=elav}
+2 [Géilathen kendar al lenthon. gose nond. rith al kirdon.]{lang=elav}
 
 ***
-1 [Dalren Moren Naldor Tenral.]{.nativefont lang=elav}
+1 [Dalren. Moren. Naldor. Tenral.]{.nativefont lang=elav}
 2 [Dalren]{.name data-type="being/npc"}, [Moren]{.name data-type="being/npc"}, [Naldor]{.name data-type="being/npc"}, [Tenral]{.name data-type="being/npc"}.
-2 [Dalren Moren Naldor Tenral.]{lang=elav}
+2 [Dalren. Moren. Naldor. Tenral.]{lang=elav}
 
-1 [Orlen Denrik Salten.]{.nativefont lang=elav}
+1 [Orlen. Denrik. Salten.]{.nativefont lang=elav}
 2 [Orlen]{.name data-type="being/npc"}, [Denrik]{.name data-type="being/npc"}, [Salten]{.name data-type="being/npc"}.
-2 [Orlen Denrik Salten.]{lang=elav}
+2 [Orlen. Denrik. Salten.]{lang=elav}
 
-1 [Halden Kelda Arvend Jeldor.]{.nativefont lang=elav}
+1 [Halden. Kelda. Arvend. Jeldor.]{.nativefont lang=elav}
 2 [Halden]{.name data-type="being/npc"}, [Kelda]{.name data-type="being/npc"}, [Arvend]{.name data-type="being/npc"}, [Jeldor]{.name data-type="being/npc"}.
-2 [Halden Kelda Arvend Jeldor.]{lang=elav}
+2 [Halden. Kelda. Arvend. Jeldor.]{lang=elav}
 
 1 [Árnathen lourth al tírvale grend.]{.nativefont lang=elav}
 2 Come down the road again.

@@ -34,9 +34,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Up before cocks, before bakers, before gods are dressed.
 2 [Kanai. Voza pra zekrai urzithen. Pra pazartoi. Pra nalvathen ol ulthoi.]{lang=vyl}
 
-1 [Voza Nizelar ir kauron urzithen. Ir dumela us Katsur.]{.nativefont lang=vyl}
+1 [Voza Nizelar. ir kauron. urzithen. Ir dumela us Katsur.]{.nativefont lang=vyl}
 2 Up, Nizelar, in darkness, in the Warrens’ highest room.
-2 [Voza Nizelar ir kauron urzithen. Ir dumela us Katsur.]{lang=vyl}
+2 [Voza Nizelar. ir kauron. urzithen. Ir dumela us Katsur.]{lang=vyl}
 
 1 [90 zirkoi us kazthos. Urkis alethon samdon kerazor.]{.nativefont lang=vyl}
 2 Ninety stairs above street. Each has a different height.
@@ -82,9 +82,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Down ninety stairs. Watch ninth, absent. Watch fortieth.
 2 [Voza 90 zirkoi zel tigathen. Lukemoron ar yarezor. Voza silkathen. 40 zirkon.]{lang=vyl}
 
-1 [Yarezor naren harkelon yarezor. Fos. Kazthos. Orzara. Pramiza.]{.nativefont lang=vyl}
+1 [Yarezor. naren harkelon yarezor. Fos. Kazthos. Orzara. Pramiza.]{.nativefont lang=vyl}
 2 It exists, but as rumor. Outside. Street. Orzara. Morning.
-2 [Yarezor naren harkelon yarezor. Fos. Kazthos. Orzara. Pramiza.]{lang=vyl}
+2 [Yarezor. naren harkelon yarezor. Fos. Kazthos. Orzara. Pramiza.]{lang=vyl}
 
 ***
 
@@ -140,9 +140,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 The steward places us. The steward is one real magistrate.
 2 [Holethi karezos enoi zirothazor. Karezos urkis yarelos talkos yarezor.]{lang=vyl}
 
-1 [Pra fenza kona skaros ul letima ul memrandon thalezor.]{.nativefont lang=vyl}
+1 [Pra fenza kona skaros. ul letima. ul memrandon thalezor.]{.nativefont lang=vyl}
 2 He stands before door with staff, list, memory.
-2 [Pra fenza kona skaros ul letima ul memrandon thalezor.]{lang=vyl}
+2 [Pra fenza kona skaros. ul letima. ul memrandon thalezor.]{lang=vyl}
 
 1 [Kedis ol kedis yarezor. Ol kedis alathos yarezor. Ir kethon sedon orthemazor. Kezdazor.]{.nativefont lang=vyl}
 2 Knows who is whose, whose that person is, where it ends.
@@ -172,9 +172,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Then household freedman. His master dies, leaves vineyard,
 2 [Kanai liskothos ol zorka. Zorkos ol denos kalmethazor. Gurimalon linkazor.]{lang=vyl}
 
-1 [Ul thizaron ul vethvelda. Ir selthoron thalemen.]{.nativefont lang=vyl}
+1 [Ul thizaron. ul vethvelda. Ir selthoron thalemen.]{.nativefont lang=vyl}
 2 seal, pride. I stand on sixth.
-2 [Ul thizaron ul vethvelda. Ir selthoron thalemen.]{lang=vyl}
+2 [Ul thizaron. ul vethvelda. Ir selthoron thalemen.]{lang=vyl}
 
 1 [Kanai delamos ol Taruzelia fainela. Daimela ol daimela ol denos ir Seldan ombizor.]{.nativefont lang=vyl}
 2 Then [[lore-taruzelianclt|Taruzelian]] silk merchant. Patron’s patron sits in Senate.
@@ -184,23 +184,23 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 I stand on seventh. He sees me. I see silk.
 2 [Ir ranethoron thalemen. Denos en okezor. En fainela okemen.]{lang=vyl}
 
-1 [Denon tharnela nurethon ol 14 tharnelai sorimai thilazor. Korethai sorimai yarezoi.]{.nativefont lang=vyl}
+1 [Denon tharnela. nurethon ol 14 tharnelai sorimai thilazor. Korethai sorimai yarezoi.]{.nativefont lang=vyl}
 2 This year, a fourteen-year boy writes songs. Bad songs.
-2 [Denon tharnela nurethon ol 14 tharnelai sorimai thilazor. Korethai sorimai yarezoi.]{lang=vyl}
+2 [Denon tharnela. nurethon ol 14 tharnelai sorimai thilazor. Korethai sorimai yarezoi.]{lang=vyl}
 
 1 [Kemaros ol nurethon rithezos ol daimela yarezor. Ir zorimoron thalemen.]{.nativefont lang=vyl}
 2 His uncle is patron’s physician. I stand on eighth.
 2 [Kemaros ol nurethon rithezos ol daimela yarezor. Ir zorimoron thalemen.]{lang=vyl}
 
-1 [Lokanthi lukemoron. Ethor tharnela kazthos. Kanai Ormakir.]{.nativefont lang=vyl}
+1 [Lokanthi. lukemoron. Ethor tharnela. kazthos. Kanai Ormakir.]{.nativefont lang=vyl}
 2 In coming days, ninth. Following year, street. Then [Clearance]{.name data-type="place/site" lang=en}.
-2 [Lokanthi lukemoron. Ethor tharnela kazthos. Kanai Ormakir.]{lang=vyl}
+2 [Lokanthi. lukemoron. Ethor tharnela. kazthos. Kanai Ormakir.]{lang=vyl}
 
 ***
 
-1 [Ir soltha zel dorthene ankezdos. Ol therkalon. Arurkis verezos ol kedis denos yarezor kezdazor.]{.nativefont lang=vyl}
+1 [Ir soltha zel dorthene. ankezdos. Ol therkalon. Arurkis verezos ol kedis denos yarezor kezdazor.]{.nativefont lang=vyl}
 2 Halfway down, stranger, provincial. Nobody knows whose he is.
-2 [Ir soltha zel dorthene ankezdos. Ol therkalon. Arurkis verezos ol kedis denos yarezor kezdazor.]{lang=vyl}
+2 [Ir soltha zel dorthene. ankezdos. Ol therkalon. Arurkis verezos ol kedis denos yarezor kezdazor.]{lang=vyl}
 
 1 [Ar dokazor. Holethi ir therkalon ol denos arurkis pethazor. Karezos pethazor.]{.nativefont lang=vyl}
 2 He does not say: in his province nobody asks. Steward asks.
@@ -248,9 +248,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 court language, temple language, all its endings:
 2 [Tharlema ol nazdalar. Tharlema ol sarkenai. Kona urzelai orthemai.]{lang=vyl}
 
-1 [Daimela vethor zikai falvazor. Holethi vethor zikai falvazor.]{.nativefont lang=vyl}
+1 [Daimela. vethor. zikai falvazor. Holethi. vethor. zikai falvazor.]{.nativefont lang=vyl}
 2 The patron, he says, is perhaps away. Because, he says, perhaps away.
-2 [Daimela vethor zikai falvazor. Holethi vethor zikai falvazor.]{lang=vyl}
+2 [Daimela. vethor. zikai falvazor. Holethi. vethor. zikai falvazor.]{lang=vyl}
 
 1 [Urkis lambizon. Nizelon lambizon ir sedon ol varelza lendazor.]{.nativefont lang=vyl}
 2 One word. Small word put in truth’s place.
@@ -296,21 +296,21 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Steward’s nod, a coin worth about a wedge of a wedge.
 2 [Klinandon ol tholkezos ol karezos kuremen. Denon kezilon rozethi kezilon ol kezilon verdakis kerazor.]{lang=vyl}
 
-1 [Yestharon ir thuvalis dokathen kuremen. Pra denon pramiza vethor ir fenza yaremen.]{.nativefont lang=vyl}
+1 [Yestharon ir thuvalis dokathen kuremen. Pra denon pramiza. vethor. ir fenza yaremen.]{.nativefont lang=vyl}
 2 The right to say at baths: This morning, I say, I am at door.
-2 [Yestharon ir thuvalis dokathen kuremen. Pra denon pramiza vethor ir fenza yaremen.]{lang=vyl}
+2 [Yestharon ir thuvalis dokathen kuremen. Pra denon pramiza. vethor. ir fenza yaremen.]{lang=vyl}
 
-1 [Ul thavithen yestharon. En vethor kona denon. Ir dayaza fenza. Ir thelvarazon zirkon.]{.nativefont lang=vyl}
+1 [Ul thavithen yestharon. En. vethor. kona denon. Ir dayaza fenza. Ir thelvarazon zirkon.]{.nativefont lang=vyl}
 2 The right to hear: I too, he says, at better door, higher step.
-2 [Ul thavithen yestharon. En vethor kona denon. Ir dayaza fenza. Ir thelvarazon zirkon.]{lang=vyl}
+2 [Ul thavithen yestharon. En. vethor. kona denon. Ir dayaza fenza. Ir thelvarazon zirkon.]{lang=vyl}
 
 1 [Liskara kuremen. Denon yarelon kezilon yarezor. Karezos urkis kanel ir tharnela denon palzazor.]{.nativefont lang=vyl}
 2 I take waiver. The real coin. Steward pays once yearly:
 2 [Liskara kuremen. Denon yarelon kezilon yarezor. Karezos urkis kanel ir tharnela denon palzazor.]{lang=vyl}
 
-1 [Lanbeza kona thizaron ol daimela. Orvenos vethor ir zorimoron zirkon.]{.nativefont lang=vyl}
+1 [Lanbeza kona thizaron ol daimela. Orvenos. vethor. ir zorimoron zirkon.]{.nativefont lang=vyl}
 2 paper with patron’s seal. The man, it says, on eighth step
-2 [Lanbeza kona thizaron ol daimela. Orvenos vethor ir zorimoron zirkon.]{lang=vyl}
+2 [Lanbeza kona thizaron ol daimela. Orvenos. vethor. ir zorimoron zirkon.]{lang=vyl}
 
 1 [Ir thrima lothathen yestharon kerazor kan ol daimela yarezor. Ar thapelon ethor.]{.nativefont lang=vyl}
 2 has right to sleep within line while patron’s, no hour afterward.
@@ -320,9 +320,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Dole belongs to citizen. Father has it at month’s first,
 2 [Uzmela ol verosa yarezor. Helthos kerazor. Ir holima oltrema.]{lang=vyl}
 
-1 [Nizela ul ethor kanel. Thilartos ir selkora fir denos dokazor. Thradima vethor thradima yarezor.]{.nativefont lang=vyl}
+1 [Nizela ul ethor kanel. Thilartos ir selkora fir denos dokazor. Thradima. vethor. thradima yarezor.]{.nativefont lang=vyl}
 2 small and late. Granary clerk tells him: Measure, he says, is measure.
-2 [Nizela ul ethor kanel. Thilartos ir selkora fir denos dokazor. Thradima vethor thradima yarezor.]{lang=vyl}
+2 [Nizela ul ethor kanel. Thilartos ir selkora fir denos dokazor. Thradima. vethor. thradima yarezor.]{lang=vyl}
 
 1 [Thradima tavemer dekazoi ol orvenos konthoi yarezor. Dekis solterai fos.]{.nativefont lang=vyl}
 2 Measure is a man’s two hands together, thumbs outside.
@@ -350,13 +350,13 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Comes to me. When reaching me, slightly red.
 2 [Fir en lokazor. Kan fir en lokazor. Nizelai thaluros yarezor.]{lang=vyl}
 
-1 [Daimela orzalon ul uthrimai dokazor. Daimela uzmela dokazor.]{.nativefont lang=vyl}
+1 [Daimela orzalon. ul uthrimai dokazor. Daimela uzmela dokazor.]{.nativefont lang=vyl}
 2 Patron speaks empire, boundaries. Speaks dole.
-2 [Daimela orzalon ul uthrimai dokazor. Daimela uzmela dokazor.]{lang=vyl}
+2 [Daimela orzalon. ul uthrimai dokazor. Daimela uzmela dokazor.]{lang=vyl}
 
-1 [Dena vethor brulandon ol tarkelon yarezor. Orvenos lan en varelazor.]{.nativefont lang=vyl}
+1 [Dena. vethor. brulandon ol tarkelon yarezor. Orvenos lan en varelazor.]{.nativefont lang=vyl}
 2 It, he says, ruins treasury. Man beside me agrees.
-2 [Dena vethor brulandon ol tarkelon yarezor. Orvenos lan en varelazor.]{lang=vyl}
+2 [Dena. vethor. brulandon ol tarkelon yarezor. Orvenos lan en varelazor.]{lang=vyl}
 
 1 [Orvenos lan en nalor pazazor. Verdakis ol nalor oltrema ol en yarezor.]{.nativefont lang=vyl}
 2 Man beside me eats quail worth my month.
@@ -392,9 +392,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Faces are very good. Wax faces. Good wax.
 2 [Yenthamoi melvarathi dayoi yarezoi. Yenthamoi barkis yarezoi. Barkis dayos yarezor.]{lang=vyl}
 
-1 [Yenthamoi tavoi ul thrumaroi ul sarkenanda ul nazdos yarezoi.]{.nativefont lang=vyl}
+1 [Yenthamoi tavoi. ul thrumaroi. ul sarkenanda. ul nazdos yarezoi.]{.nativefont lang=vyl}
 2 Faces are consuls, generals, priestess, judge
-2 [Yenthamoi tavoi ul thrumaroi ul sarkenanda ul nazdos yarezoi.]{lang=vyl}
+2 [Yenthamoi tavoi. ul thrumaroi. ul sarkenanda. ul nazdos yarezoi.]{lang=vyl}
 
 1 [Ol nazdalar ol Kurthemalon. Kona thizaron ir dekazu. Ul zerthas.]{.nativefont lang=vyl}
 2 of [Republic]{.name data-type="affiliation/polity" lang=en}’s courts, seal in hand, and founder
@@ -408,13 +408,13 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 All very grave. None ever sees the house owning them.
 2 [Zetimoi melvarathi solkimoi yarezoi. Ar urkis dumva ol denoi oktha kerazor.]{lang=vyl}
 
-1 [Ir zunela ol Anklame Tigandon karezos ol pelera dumva.]{.nativefont lang=vyl}
+1 [Ir zunela ol Anklame Tigandon. karezos ol pelera dumva.]{.nativefont lang=vyl}
 2 On [Silent Passage]{.name data-type="lore/gathering" lang=en} night, new house’s steward
-2 [Ir zunela ol Anklame Tigandon karezos ol pelera dumva.]{lang=vyl}
+2 [Ir zunela ol Anklame Tigandon. karezos ol pelera dumva.]{lang=vyl}
 
-1 [Harlenoi ol yenthamoi ir okvela ir zirothalon lorezazor. Ar thavandon kermthon.]{.nativefont lang=vyl}
+1 [Harlenoi ol yenthamoi ir okvela. ir zirothalon. lorezazor. Ar thavandon kermthon.]{.nativefont lang=vyl}
 2 reads faces’ names in window, in order, no broken sound.
-2 [Harlenoi ol yenthamoi ir okvela ir zirothalon lorezazor. Ar thavandon kermthon.]{lang=vyl}
+2 [Harlenoi ol yenthamoi ir okvela. ir zirothalon. lorezazor. Ar thavandon kermthon.]{lang=vyl}
 
 1 [En ir kazthos thalemen. Harlenoi thavimen. Karzis ol denoi kezdamen.]{.nativefont lang=vyl}
 2 I stand in street. Hear names. Know three
@@ -424,9 +424,9 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 from sculptor’s yard, somebody else’s the year before.
 2 [Fos tevare ol talonartos. Pra tharnela ol alethos verezos yarezoi.]{lang=vyl}
 
-1 [Thizaron sethathen kolvazis yarezor. Harlen sethathen neharlon yarezor. Yenthamis sethathen.]{.nativefont lang=vyl}
+1 [Thizaron sethathen. kolvazis yarezor. Harlen sethathen. neharlon yarezor. Yenthamis sethathen.]{.nativefont lang=vyl}
 2 Forge seal: death. Forge name: unnaming. Forge face:
-2 [Thizaron sethathen kolvazis yarezor. Harlen sethathen neharlon yarezor. Yenthamis sethathen.]{lang=vyl}
+2 [Thizaron sethathen. kolvazis yarezor. Harlen sethathen. neharlon yarezor. Yenthamis sethathen.]{lang=vyl}
 
 1 [Daimandon ol threnemai yarezor. Pelera dumva ir felzoron zirothos ol Seldan ombizor.]{.nativefont lang=vyl}
 2 gift of ships. New house sits on Senate’s fourth step.
@@ -456,25 +456,25 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Crowned mark cut on plinth. Old letters’ rule
 2 [Orlemthumisa ir tharnos dremtha yarezor. Fenthos ol ankeloi semarzoi.]{lang=vyl}
 
-1 [Ir denon sedon harlen ol ulthas ves zerthas yarezor. Ir thumisa talon mandron levron yarezor.]{.nativefont lang=vyl}
+1 [Ir denon sedon harlen ol ulthas ves zerthas yarezor. Ir thumisa. talon mandron levron yarezor.]{.nativefont lang=vyl}
 2 puts god’s name or founder’s there. Within mark, stone smooth and empty.
-2 [Ir denon sedon harlen ol ulthas ves zerthas yarezor. Ir thumisa talon mandron levron yarezor.]{lang=vyl}
+2 [Ir denon sedon harlen ol ulthas ves zerthas yarezor. Ir thumisa. talon mandron levron yarezor.]{lang=vyl}
 
 1 [Sistamen. Thelmos yaremen. Thelmos pra lathethis kedis denos ar okezor sistazor.]{.nativefont lang=vyl}
 2 I stop. I am client. Client stops before anything unable to see him.
 2 [Sistamen. Thelmos yaremen. Thelmos pra lathethis kedis denos ar okezor sistazor.]{lang=vyl}
 
-1 [Ir denon sedon vethor orvenos zelos mazer zorimoron zirkon yarezor. Fir talondos dokamen.]{.nativefont lang=vyl}
+1 [Ir denon sedon. vethor. orvenos zelos mazer zorimoron zirkon yarezor. Fir talondos dokamen.]{.nativefont lang=vyl}
 2 Here, I say to statue, a man below eighth step.
-2 [Ir denon sedon vethor orvenos zelos mazer zorimoron zirkon yarezor. Fir talondos dokamen.]{lang=vyl}
+2 [Ir denon sedon. vethor. orvenos zelos mazer zorimoron zirkon yarezor. Fir talondos dokamen.]{lang=vyl}
 
-1 [Ir denon sedon vethor orvenos kedis karezos ir verethis letima halvethen ar dunazor. Anzirothos.]{.nativefont lang=vyl}
+1 [Ir denon sedon. vethor. orvenos kedis karezos ir verethis letima halvethen ar dunazor. Anzirothos.]{.nativefont lang=vyl}
 2 Here, I say, a man steward cannot find on any list. Unplaced.
-2 [Ir denon sedon vethor orvenos kedis karezos ir verethis letima halvethen ar dunazor. Anzirothos.]{lang=vyl}
+2 [Ir denon sedon. vethor. orvenos kedis karezos ir verethis letima halvethen ar dunazor. Anzirothos.]{lang=vyl}
 
-1 [Koroi vethor ir thelvarimmon sedon ol veramis lendazoi. Velzorai koroi kir tigazoi.]{.nativefont lang=vyl}
+1 [Koroi. vethor. ir thelvarimmon sedon ol veramis lendazoi. Velzorai koroi kir tigazoi.]{.nativefont lang=vyl}
 2 They, I say, set you at city’s highest. Triumphs circle you.
-2 [Koroi vethor ir thelvarimmon sedon ol veramis lendazoi. Velzorai koroi kir tigazoi.]{lang=vyl}
+2 [Koroi. vethor. ir thelvarimmon sedon ol veramis lendazoi. Velzorai koroi kir tigazoi.]{lang=vyl}
 
 1 [Nurethoi ir marendalar sorima ol koroi pra aletha sorima marendazoi.]{.nativefont lang=vyl}
 2 Schoolboys learn your song before another.
@@ -500,17 +500,17 @@ The satire takes a client's day from the dark before the morning call to the eve
 2 Fold white gown, white as sky over Moktur.
 2 [Ilthera tholvena korbamen. Dena ilthera sa iltheralon us Moktur yarezor.]{lang=vyl}
 
-1 [Nalimen. Pra zekrai ul pra pazartoi anlothathen avrenamen.]{.nativefont lang=vyl}
+1 [Nalimen. Pra zekrai. ul pra pazartoi anlothathen avrenamen.]{.nativefont lang=vyl}
 2 Lie down. Intend waking before cocks, before bakers.
-2 [Nalimen. Pra zekrai ul pra pazartoi anlothathen avrenamen.]{lang=vyl}
+2 [Nalimen. Pra zekrai. ul pra pazartoi anlothathen avrenamen.]{lang=vyl}
 
 1 [Holethi zirkon zorimoron yarezor. Zorimoron ol en yarezor.]{.nativefont lang=vyl}
 2 The step is eighth. Eighth belongs to me.
 2 [Holethi zirkon zorimoron yarezor. Zorimoron ol en yarezor.]{lang=vyl}
 
-1 [Thelmos kedis urkis pramiza anhalbazor fos thrima ir Ormakir zirothazor.]{.nativefont lang=vyl}
+1 [Thelmos kedis urkis pramiza anhalbazor fos thrima. ir Ormakir zirothazor.]{.nativefont lang=vyl}
 2 Client missing one morning is placed outside line, on Clearance,
-2 [Thelmos kedis urkis pramiza anhalbazor fos thrima ir Ormakir zirothazor.]{lang=vyl}
+2 [Thelmos kedis urkis pramiza anhalbazor fos thrima. ir Ormakir zirothazor.]{lang=vyl}
 
 1 [Kona zelkormai ul kedroi. Ir zirkon thalemen.]{.nativefont lang=vyl}
 2 with lean-tos and dogs. I stand upon step.

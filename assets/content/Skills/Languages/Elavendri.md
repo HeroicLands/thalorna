@@ -6815,6 +6815,15 @@ Complete alternatives keep each marker with its own item. _Dalgathen munde gose 
 
 The explanatory markers also have concrete uses. _En ti tárneve; gere temar, uk tárnevine_ means "this is bread; namely, one loaf". _En salve mirnon; uk dírmalis, hersel_ gives an example: "a tree is a plant; for example, a pine". With water as the alternative in question, _dalgathen munde korthon dergin gerth_ chooses mead instead.
 
+The period records a pause in both roman and Semaron readings, including a
+pause within a continuing sentence. Where a translation has a comma,
+semicolon, colon or dash for that pause, write a period in Élavendri. Questions
+need their question word or the opening _he_; a period alone cannot make a
+statement a question. A fragment that relies on intonation in translation can use the
+existing clarification _ryenathen tose gere_, “what do you say”, to make the
+asking explicit. Reporting words such as _ryenathen gene_, “the person says”,
+and named speakers identify dialogue without quotation marks.
+
 ## Script & Literacy
 
 Élavendri is written in the [[skill-semrnscrpt|Semaron]], the same alphabet used in Vylari and neighboring regions, with diacritics added for pitch. The lowlands took it up readily, as they take up anything that serves. The Áelendan rune-row [[skill-thrvrdhscrpt|Thurarth]] and the [[skill-clthndscrpt|Veldikko]] of the [[lore-flksinale|Sinale]] belong to the highlanders, who carve in the one and write [[skill-aelendlng|Áelendi]] in the other, so two peoples who can hold a conversation cannot read a word of each other. Ancient texts in the region are Áelendi, and an Élavendri who reads one has learned a second tongue and a second script to do it.

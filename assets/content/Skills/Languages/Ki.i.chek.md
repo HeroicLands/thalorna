@@ -69,6 +69,7 @@ data:
       field: Sky, sun and the count of days
       gloss: a star; the stellar count
       concept: star
+    - {form: ish, class: n, field: "Sky, sun and the count of days", gloss: a star}
     - form: tq'an
       class: n
       field: Sky, sun and the count of days
@@ -117,6 +118,7 @@ data:
       concept: river
     - {form: shik'ul, class: n, field: Water and land, gloss: a lake, concept: lake}
     - {form: ts'alu, class: n, field: Water and land, gloss: a stream, concept: stream}
+    - {form: ts'alam, class: n, field: Water and land, gloss: a spring, built: [ts'al-]}
     - {form: k'ukut, class: n, field: Water and land, gloss: a delta}
     - {form: ish'ik, class: n, field: Water and land, gloss: a lagoon}
     - {form: ch'uqil, class: n, field: Water and land, gloss: a sacred pool}
@@ -154,6 +156,8 @@ data:
     - {form: ts'okum, class: n, field: Living things, gloss: a coyote}
     - {form: ts'amuk, class: n, field: Living things, gloss: a crocodile}
     - {form: ch'akun, class: n, field: Living things, gloss: a serpent}
+    - {form: k'ushi, class: n, field: Living things, gloss: a maize ear}
+    - {form: tsul, class: n, field: Living things, gloss: a reed}
     - {form: pik'ik, class: n, field: Living things, gloss: an owl}
     - {form: ha'ik, class: n, field: Living things, gloss: a river otter}
     - {form: shi'tal, class: n, field: Living things, gloss: a frog}
@@ -234,6 +238,21 @@ data:
       field: Rank, temple and court
       gloss: a subordinate lord, who holds a lesser seat
       built: [kul, -mah]
+    - form: k'ankul
+      class: n
+      field: "Rank, temple and court"
+      gloss: the golden seat
+      built: [k'an-, kul]
+    - form: ishkul
+      class: n
+      field: "Rank, temple and court"
+      gloss: the silver seat
+      built: [ish-, kul]
+    - form: ch'akul
+      class: n
+      field: "Rank, temple and court"
+      gloss: the serpent seat
+      built: [ch'ak-, kul]
     - form: ts'enbal
       class: n
       field: Rank, temple and court

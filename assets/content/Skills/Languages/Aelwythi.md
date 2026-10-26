@@ -4702,14 +4702,18 @@ script spellings. The pronunciation rules here do not define that encoding.
 ### Rules for writers {#writing-rules}
 
 Use familiar spelling for ordinary English words and the fixed transcription
-above for coined words and names. The period is the sole pause mark in both roman and
-native readings; questions and exclamations keep their wording and end with a
-period. Word-joining hyphens keep their familiar role; direct speech uses no quotation marks. The older character comes from sentence
-structure and familiar words, without respelling ordinary English words,
-contracted negatives or apostrophized elisions. Possessives such as summer's keep their apostrophe.
-Recorded vocabulary and explicit context notes take precedence. Other choices
-follow the Aelwythi rules here, with ordinary English vocabulary, grammar and
-dictionary pronunciation wherever neither supplies an exception.
+above for coined words and names. The period is the sole pause mark in both
+roman and native readings. A comma, semicolon, colon or dash that marks a
+pause in a translation is written as a period in Aelwythi. The point marks
+the pause, including a pause within a continuing sentence. Questions use
+interrogative wording and end with a period; exclamations carry their force
+in the words. Word-joining hyphens keep their familiar role; direct speech
+uses no quotation marks. The older character comes from sentence structure
+and familiar words, without respelling ordinary English words, contracted
+negatives or apostrophized elisions. Possessives such as summer's keep their
+apostrophe. Recorded vocabulary and explicit context notes take precedence.
+Other choices follow the Aelwythi rules here, with ordinary English vocabulary,
+grammar and dictionary pronunciation wherever neither supplies an exception.
 
 #### Address and present verbs {#present-agreement}
 
@@ -4849,8 +4853,10 @@ Verse keeps its metre and rhyme.
 
 #### Speech and emphasis {#speech-and-emphasis}
 
-Give direct speech without quotation marks. Set an attribution before it
-without a separating pause mark, as in the plain example below. Keep possessive apostrophes.
+Give direct speech without quotation marks. An attribution or a named speaker
+identifies whose words follow. Keep a spoken pause as a period, including between
+an attribution and the speech; the point does not itself introduce dialogue.
+Keep possessive apostrophes.
 
 ::: {lang=aelw font=serif}
 The knight said I shall return ere night.
