@@ -23,7 +23,7 @@ Ish'bal Tsa'ku is the uppermost reach of the south, fully integrated into the un
 
 ## What It Sells
 
-The highlands export worked gold and silver, in ceremonial vessels, jewelry and temple adornments, along with copper implements and finished textiles. The valleys send cacao, fruit, jaguar pelts, medicinal herbs and the feathers of the quetzal and macaw, and rubber tapped from jungle trees. The most valuable cacao and the rarest feathers go north to the great pyramid cities. Rivers are sacred highways, and those who travel them make offerings to [[lore-xilanixlandty|Shilan Ish'lan]], god of voyages.
+The highlands export worked gold and silver, in ceremonial vessels, jewelry and temple adornments, along with steel blades and breastplates, iron and copper implements, and finished textiles. The valleys send cacao, fruit, jaguar pelts, medicinal herbs and the feathers of the quetzal and macaw, and rubber tapped from jungle trees. The most valuable cacao and the rarest feathers go north to the great pyramid cities. Rivers are sacred highways, and those who travel them make offerings to [[lore-xilanixlandty|Shilan Ish'lan]], god of voyages.
 
 ## See Also
 

@@ -1519,6 +1519,35 @@ data:
     - {form: shikum, class: n, field: Everyday speech, gloss: wood, concept: wood}
     - {form: kulum, class: n, field: Everyday speech, gloss: stone; rock, concept: [stone, rock]}
     - {form: kulishal, class: n, field: Everyday speech, gloss: metal, concept: metal}
+    - form: p'uqulal
+      class: n
+      field: Everyday speech
+      gloss: iron
+      note: The dark metal, of blades, tools and nails.
+      built: [p'uqan, kulishal]
+    - form: kul'iqal
+      class: n
+      field: Everyday speech
+      gloss: steel
+      note: The strong metal, iron hardened at the forge.
+      built: [kul'iq, kulishal]
+    - form: kulishbal
+      class: n
+      field: Everyday speech
+      gloss: a smith, a worker of metal
+      built: [kulishal, -bal]
+    - form: k'ayalkul
+      class: n
+      field: Everyday speech
+      gloss: a forge
+      note: The hearth of the hard metal.
+      built: [k'ayalum, kulish]
+    - form: ch'ulkulik
+      class: n
+      field: Everyday speech
+      gloss: a breastplate
+      note: The hard plate of the chest.
+      built: [ch'ulak, kulik]
     - {form: p'ikul, class: n, field: Everyday speech, gloss: clay, concept: clay}
     - form: p'ishkal p'ikik
       class: n
