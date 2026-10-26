@@ -4534,21 +4534,9 @@ data:
       gloss: Capitalized spelling of contempt
       native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉁󰈳󰈻󰈾󰉁}]
       field: Feelings and affections
-    - form: Chest
-      class: n
-      gloss: Capitalized spelling of chest
-      native: [{map: aelwythi-semaron, text: 󰊍󰈳󰉀󰉁}]
-      field: Senses and the body
-    - form: Chin
-      class: n
-      gloss: Capitalized spelling of chin
-      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈼}]
-      field: Senses and the body
-    - form: Cheek
-      class: n
-      gloss: Capitalized spelling of cheek
-      native: [{map: aelwythi-semaron, text: 󰊍󰈳󰈳󰈹}]
-      field: Senses and the body
+    - {form: Chest, class: n, gloss: Capitalized spelling of chest, field: Senses and the body}
+    - {form: Chin, class: n, gloss: Capitalized spelling of chin, field: Senses and the body}
+    - {form: Cheek, class: n, gloss: Capitalized spelling of cheek, field: Senses and the body}
     - form: Cool
       class: adj
       gloss: Capitalized spelling of cool
@@ -4564,11 +4552,7 @@ data:
       gloss: Capitalized spelling of cold
       native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈺󰈲}]
       field: Senses and the body
-    - form: Child
-      class: n
-      gloss: Capitalized spelling of child
-      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈺󰈲}]
-      field: Kindred and society
+    - {form: Child, class: n, gloss: Capitalized spelling of child, field: Kindred and society}
     - form: Cousin
       class: n
       gloss: Capitalized spelling of cousin
@@ -4579,11 +4563,7 @@ data:
       gloss: Capitalized spelling of companion
       native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈾󰈰󰈼󰈷󰈽󰈼}]
       field: Kindred and society
-    - form: Chair
-      class: n
-      gloss: Capitalized spelling of chair
-      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈷󰈿}]
-      field: Needs and the household
+    - {form: Chair, class: n, gloss: Capitalized spelling of chair, field: Needs and the household}
     - form: Cup
       class: n
       gloss: Capitalized spelling of cup
@@ -4694,11 +4674,7 @@ data:
       gloss: Capitalized spelling of call
       native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈺󰈺}]
       field: Doing and being
-    - form: Choose
-      class: v
-      gloss: Capitalized spelling of choose
-      native: [{map: aelwythi-semaron, text: 󰊍󰈽󰈽󰉀󰈳}]
-      field: Doing and being
+    - {form: Choose, class: v, gloss: Capitalized spelling of choose, field: Doing and being}
     - form: Cease
       class: v
       gloss: Capitalized spelling of cease
@@ -4769,11 +4745,7 @@ data:
       gloss: Capitalized spelling of captivity
       native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈾󰉁󰈷󰉃󰈷󰉁󰉅}]
       field: Kindred and society
-    - form: Change
-      class: n
-      gloss: Capitalized spelling of change
-      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰊎󰈳}]
-      field: Doing and being
+    - {form: Change, class: n, gloss: Capitalized spelling of change, field: Doing and being}
     - form: Cause
       class: n
       gloss: Capitalized spelling of cause
@@ -4804,41 +4776,13 @@ data:
       gloss: Capitalized spelling of cast
       native: [{map: aelwythi-semaron, text: 󰈉󰈰󰉀󰉁}]
       field: Ordinary speech
-    - form: Champion
-      class: n
-      gloss: Capitalized spelling of champion
-      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈻󰈾󰈷󰈽󰈼}]
-      field: Ordinary speech
-    - form: Chapel
-      class: n
-      gloss: Capitalized spelling of chapel
-      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈾󰈳󰈺}]
-      field: Ordinary speech
-    - form: Charm
-      class: n
-      gloss: Capitalized spelling of charm
-      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈿󰈻}]
-      field: Ordinary speech
-    - form: Cheer
-      class: v
-      gloss: Capitalized spelling of cheer
-      native: [{map: aelwythi-semaron, text: 󰊍󰈳󰈳󰈿}]
-      field: Ordinary speech
-    - form: Chill
-      class: adj
-      gloss: Capitalized spelling of chill
-      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈺󰈺}]
-      field: Ordinary speech
-    - form: Chine
-      class: n
-      gloss: Capitalized spelling of chine
-      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈼󰈳}]
-      field: Ordinary speech
-    - form: Choke
-      class: v
-      gloss: Capitalized spelling of choke
-      native: [{map: aelwythi-semaron, text: 󰊍󰈽󰈹󰈳}]
-      field: Ordinary speech
+    - {form: Champion, class: n, gloss: Capitalized spelling of champion, field: Ordinary speech}
+    - {form: Chapel, class: n, gloss: Capitalized spelling of chapel, field: Ordinary speech}
+    - {form: Charm, class: n, gloss: Capitalized spelling of charm, field: Ordinary speech}
+    - {form: Cheer, class: v, gloss: Capitalized spelling of cheer, field: Ordinary speech}
+    - {form: Chill, class: adj, gloss: Capitalized spelling of chill, field: Ordinary speech}
+    - {form: Chine, class: n, gloss: Capitalized spelling of chine, field: Ordinary speech}
+    - {form: Choke, class: v, gloss: Capitalized spelling of choke, field: Ordinary speech}
     - form: Clean
       class: adj
       gloss: Capitalized spelling of clean
@@ -5059,11 +5003,7 @@ data:
       field: Ordinary speech
       gloss: satisfied
       native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈳󰈼󰉁}]
-    - form: fulfilled
-      class: v
-      field: Ordinary speech
-      gloss: accomplished or satisfied
-      native: [{map: aelwythi-semaron, text: 󰈴󰉂󰈺󰈴󰈷󰈺󰈺󰈳󰈲}]
+    - {form: fulfilled, class: v, field: Ordinary speech, gloss: accomplished or satisfied}
     - form: vexation
       class: n
       field: Ordinary speech
@@ -5134,6 +5074,61 @@ data:
       field: Ordinary speech
       gloss: second-person singular present of call
       native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈺󰈺󰈳󰉀󰉁}]
+    - form: Content
+      class: adj
+      gloss: Capitalized spelling of content
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉁󰈳󰈼󰉁}]
+      field: Ordinary speech
+    - form: Close
+      class: adj
+      gloss: Capitalized spelling of close
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈽󰉀󰈳}]
+      field: Ordinary speech
+    - form: Carnal
+      class: adj
+      gloss: Capitalized spelling of carnal
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈼󰈰󰈺}]
+      field: Ordinary speech
+    - form: Creature
+      class: n
+      gloss: Capitalized spelling of creature
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈳󰈰󰉁󰉂󰈿󰈳}]
+      field: Ordinary speech
+    - form: Colour
+      class: n
+      gloss: Capitalized spelling of colour
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈺󰈽󰉂󰈿}]
+      field: Ordinary speech
+    - form: Cry
+      class: v
+      gloss: Capitalized spelling of cry
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰉅}]
+      field: Ordinary speech
+    - form: Choice
+      class: n
+      gloss: Capitalized spelling of choice
+      native: [{map: aelwythi-semaron, text: 󰊍󰈽󰈷󰉀󰈳}]
+      field: Ordinary speech
+    - form: Chance
+      class: n
+      gloss: Capitalized spelling of chance
+      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈼󰉀󰈳}]
+      field: Ordinary speech
+    - form: Callest
+      class: v
+      gloss: Capitalized spelling of callest
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈺󰈺󰈳󰉀󰉁}]
+      field: Ordinary speech
+    - form: candle-light
+      class: n
+      field: Ordinary speech
+      gloss: light given by a candle
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼󰈲󰈺󰈳 󰈺󰈷󰊄󰉁}]
+    - form: Candle-light
+      class: n
+      field: Ordinary speech
+      gloss: light given by a candle
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈼󰈲󰈺󰈳 󰈺󰈷󰊄󰉁}]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
