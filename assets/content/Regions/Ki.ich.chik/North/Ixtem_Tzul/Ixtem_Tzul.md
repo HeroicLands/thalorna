@@ -35,9 +35,9 @@ data:
         title: Warrior
         description: Taker of captives, whose standing rises with each one and whose dress records them.
       - level: 5
-        title: Scribe or Priest
+        title: Priest
         description: >-
-          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
         description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
@@ -58,7 +58,7 @@ data:
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
       Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
-        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
+        Painter and carver, keeper of the genealogies and the monuments that assert them.
       Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
       Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.

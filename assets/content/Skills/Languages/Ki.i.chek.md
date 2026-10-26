@@ -3463,27 +3463,27 @@ ORDER BY position
 
 ## Script and Literacy
 
-Ki'i'chek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—combines **logographic and phonetic elements**. A word can be written with a logograph, phonetic syllable signs, or a logograph accompanied by phonetic complements. Long texts use paired columns, reading across each paired row and then down: A1, B1, A2, B2. Short common labels and accounts can use a line or ledger rows. The common and ceremonial forms share their readings: common writing is compact and reliable, while ceremonial writing uses elaborate pictographic forms on temple walls, monuments, pyramids and posts around a village common. These are registers of one script.
+Ki'i'chek writing—[[skill-chlxplmscrpt|Ch'alish P'ilam]], "the glyphs of Ch'alish", after [[lore-ixilanchalixdty|Ish'ilan Ch'alish]], the goddess whom tradition credits with composing the first codex—records **meaning, not speech**. Each glyph is a concept, and two or three glyphs together make a further concept, the first usually the head and those after it modifying it, as Ki'i'chek puts adjectives after the noun. A text says what happened or what was meant. Nobody in it is quoted exactly and grammar is never written out; an ending such as _-ok_ or _-bal_ is a sound that a glyph may write but that context usually supplies. The script has no spelling. Every spoken sound is written in the roman transcription on this page, which is what lets a reader say a word.
+
+Where the script does write sounds, as in a name, it uses syllable signs. A closing consonant takes a syllable whose vowel is silent, usually an echo of the vowel before it: _Ch'akul_ is _cha-ku-lu_. A catch is left to the reader.
 
 Key script features:
 
-Logographs
-: Iconic or abstract symbols representing concepts (water, jaguar, maize, sky)
+Glyphs
+: Signs for concepts (water, jaguar, maize, sky), combined two or three at a time into further concepts
 
-Phonetic complements
-: Small glyphs indicating pronunciation to disambiguate homonyms
+Syllable signs
+: Signs that write a sound, used for names and for the endings a scribe wants fixed
 
-Diacritical marks
-: Dots, lines, and flourishes modify meaning
+Common hand
+: Simple signs built from a few strokes, each filling an undrawn square cell and set in columns two signs wide. A row of two reads left to right, then the next row down, then the next column. A miner writes in chalk on a shaft wall, a carpenter in chalk on a slate or wooden palette, a mercantyler with a stylus on bark paper, and a scribe with brush or pen on vellum, where the hand becomes calligraphy
 
-Ceremonial variants
-: Elaborate pictographic forms of the same signs, used in religious and public monumental contexts without changing the words they write
+Ceremonial hand
+: Every sign drawn as its own picture inside a drawn box, on temple walls, monuments, pyramids and posts around a village common. It shares its readings with the common hand and is not an elaboration of it
 
 Alongside the glyphs runs a second system entirely: the [[skill-ktzlcrdscrpt|K'otsel]], knotted cord records in colored thread, carrying tribute tallies, census and the day-counts, tied and read only by the priestly scribes.
 
-Practical literacy varies with occupation and training. A miner may read familiar shaft warnings, work marks and quantities chalked in a passage; a craftsperson may label goods or follow familiar instructions; a clerk may keep ordinary accounts on clay or wax tablets. Such competence does not imply fluent reading of continuous prose or learned codices. Priests and scribes retain broader literacy, advanced calculation and ceremonial expertise. The script can express the full language even when an individual reader knows only a limited working repertoire.
-
-The common form must preserve the words actually spoken, including vowels, closing consonants and each meaningful catch. Vowel and consonant–vowel signs work with reduced consonant complements and an explicit catch complement where needed; the complements add no silent support vowel or extra spoken syllable. A transcribed apostrophe transcribes a catch; its position cannot be silently dropped or shifted when writing a word phonetically. The [[skill-chlxplmscrpt|script note]] gives these adapted spelling conventions and their common and ceremonial uses. Elaborate ceremonial forms keep the same readings. K'otsel instead records numbers, positions and conventional messages; it is not a phonetic spelling of arbitrary spoken sentences.
+Literacy is a sliding scale. Almost everyone knows the 24 core glyphs and a few more specific to their trade. Many people know a good number of two-glyph compounds and a couple of three-glyph ones. Scribes know the most: four- and five-glyph compounds, the lesser-known glyphs and the sound of every glyph, so reading by sound is a scribal skill. Priests know fewer glyphs than scribes but all the sacred glyphs, which even scribes may not. The northern nations do not use the script or the language, and Ki'ich'chik scribes write about them as foreigners. K'otsel records numbers, positions and conventional messages; it is not a writing of arbitrary spoken sentences. The [[skill-chlxplmscrpt|script note]] gives the core glyphs, the hands and their surfaces.
 
 ## Historical Development
 

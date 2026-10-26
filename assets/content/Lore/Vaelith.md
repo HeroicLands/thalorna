@@ -35,7 +35,7 @@ The same five-day remainder, carried across years instead of months, gives Thalo
 
 Vaelith is the Vylarian name for the moon, met first in this corpus because it is the name these pages use—not because it is more correct than any other name. Every people that watches the sky has its own word for the same body.
 
-**Ts'uqal** is Itsani for moonlight, glossed beside _K'inish_ (Sunlight) and _Ish'ilan_ (Star) in the [[skill-kiichek|Ki'i'chek]] celestial lexicon. It also names a goddess, [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], the Dreamer in Moonlight, whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by [[skill-chlxplmscrpt|the Chalix Tsib script]].
+**Ts'uqal** is Itsani for moonlight, glossed beside _K'inish_ (Sunlight) and _Ish'ilan_ (Star) in the [[skill-kiichek|Ki'i'chek]] celestial lexicon. It also names a goddess, [[lore-naliktzuqaldty|Nal'ik Ts'uqal]], the Dreamer in Moonlight, whose faith holds dreams, visions and prophecy as well as the moon itself; and it names a count, one of four kept running at once by [[skill-chlxplmscrpt|Ch'alish P'ilam]].
 
 [[lore-youweidty|Youbui]] is a [[lore-tantsouclt|Tantsou]] deity, Youbui Tengyou, Moon-Silver of the [Heavenly Court]{.name data-type="affiliation"}, held to be the Minister of the Moon in the celestial bureaucracy the [[lore-clndrstrlgy|Calendar and Astrology]] describes. It is also an ordinary given name for a Tantsou woman, meaning Moon Jade.
 
