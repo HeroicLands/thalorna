@@ -23,7 +23,7 @@ The Ts'okum are mounted warriors, and their tactical speed, signaled across mile
 
 ## What Comes Back
 
-The wealth that comes in lets the Ts'okum buy obsidian weapons, feathered cloaks and dyed textiles, which mark the status of wealthy clans, and what they sell is hides, rendered fat, spectacular beadwork and decorated armor.
+The wealth that comes in lets the Ts'okum buy steel blades, obsidian ornaments, feathered cloaks and dyed textiles, which mark the status of wealthy clans, and what they sell is hides, rendered fat, spectacular beadwork and decorated armor.
 
 ## See Also
 

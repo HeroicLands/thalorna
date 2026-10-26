@@ -21,7 +21,7 @@ Central Ki'ich'chik is the heartland of Ki'ich'chik civilization, home to some 2
 
 No one sovereign rules the four. Each is a group of competing city-states under its own Ts'enmah, the Sun Lord, and the priesthood binds them together: one hierarchy, one calendar, one relay of runners, the [Speaking Road]{.name data-type="affiliation"}, that carries messages along the _ish'lan ch'upul_ (white roads) and across the whole region in days. Ish'ilankul sits at the center of that network, and a message from its dispatch reaches K'ankul in two days, Ne'ok Ba'ate in two to three, and Shelem in three to four.
 
-The land changes with the realm. Ish'ilankul is volcanic highland with terraced valleys; K'ankul is limestone lowland of sacred pools, jungle and coral coast; Ne'ok Ba'ate is a narrow volcanic isthmus with two very different coasts; Shelem is river-bound jungle, cloud forest and flat-topped mountains that rise above the canopy. What moves between them is trade: obsidian, cacao, jade, cotton, tropical hardwoods and exotic feathers, carried on the sacbe roads and by coastal canoe.
+The land changes with the realm. Ish'ilankul is volcanic highland with terraced valleys; K'ankul is limestone lowland of sacred pools, jungle and coral coast; Ne'ok Ba'ate is a narrow volcanic isthmus with two very different coasts; Shelem is river-bound jungle, cloud forest and flat-topped mountains that rise above the canopy. What moves between them is trade: cacao, jade, cotton, tropical hardwoods and exotic feathers, obsidian for the temples' blades and mirrors, and iron and steel from the southern forges, carried on the white roads and by coastal canoe.
 
 ## See Also
 

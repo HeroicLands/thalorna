@@ -97,7 +97,7 @@ The priesthood in Shelem is notably less hierarchical and less centralized than 
 
 ## Trade
 
-Most crucially, Shelem is the source of stability and prestige goods through which northern Ts'enmah establish and maintain their authority. A Ts'enmah who commands a steady supply of jaguar hides and quetzal feathers can outfit his warriors, honor his priests, and demonstrate his power to rival city-states. Thus, maintaining good trading relationships with Shelem's merchant families and river settlements is essential to political survival in Ish'ilankul and K'ankul. The merchant families of Shelem have leveraged this dependence skillfully, maintaining their autonomy and prosperity through careful diplomacy and the judicious cultivation of competing interests among the northern powers.
+Most crucially, Shelem is the source of stability and prestige goods through which northern Ts'enmah establish and maintain their authority. A Ts'enmah who commands a steady supply of jaguar hides and quetzal feathers can dress his warriors for the rites, honor his priests, and demonstrate his power to rival city-states. Thus, maintaining good trading relationships with Shelem's merchant families and river settlements is essential to political survival in Ish'ilankul and K'ankul. The merchant families of Shelem have leveraged this dependence skillfully, maintaining their autonomy and prosperity through careful diplomacy and the judicious cultivation of competing interests among the northern powers.
 
 ## See Also
 
