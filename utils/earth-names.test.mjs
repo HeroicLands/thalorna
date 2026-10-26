@@ -145,3 +145,12 @@ test("a mapping note's rows are read past", () => {
     assert.equal(found.length, 1);
     assert.match(found[0], /:8:1: error: "Babylon"/);
 });
+
+test("Aelwythi technical pronunciation and encoding references may name reference languages", () => {
+    for (const file of [
+        "assets/content/Skills/Languages/Aelwythi.md",
+        "assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md",
+    ])
+        assert.deepEqual(findEarthNames(file, "English, Roman and Scottish"), []);
+    assert.ok(findEarthNames("assets/content/Lore/Cultures/Aelwythan/Story.md", "English").length);
+});

@@ -15,3 +15,7 @@ CHANGELOG.md
 # would make the copy differ from its source and re-diff on every re-vendor.
 # `sohl.json` alone is 38,000 lines, so that churn is not small.
 assets/manifests/*.json
+
+# This encoding reference deliberately shows YAML \UXXXXXXXX escapes.
+# Frontmatter reserialization replaces those escapes with literal glyphs.
+assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md

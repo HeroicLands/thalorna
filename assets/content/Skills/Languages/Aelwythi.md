@@ -7,7 +7,7 @@ description: "The speech of the island of Aelwyth, given in these pages in the o
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúýÁÉÍÓÚÝ0123456789.'-"
+  roman: "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZáéíóúÁÉÍÓÚ0123456789.'-"
   core: true
   abbreviation: Aelw.
   writtenIn: {map: aelwythi-semaron, font: semaron-kuriale}
@@ -56,6 +56,7 @@ data:
       gloss: showing courtesy or respect
       pronunciation: COUR-teous
       note: "Two syllables in the crossroads charm: teous is compressed into one syllable. The division does not prescribe a new vowel reading."
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈿󰉁󰈳󰈽󰉂󰉀}]
     - form: see
       class: v
       field: Senses and the body
@@ -80,6 +81,7 @@ data:
       field: Senses and the body
       gloss: a smell; a scent
       concept: smell-noun
+      native: [{map: aelwythi-semaron, text: 󰉀󰉀󰈳󰈼󰉁}]
     - {form: taste, class: v, field: Senses and the body, gloss: to taste, concept: taste-verb}
     - form: savour
       class: n
@@ -122,8 +124,18 @@ data:
       gloss: to listen attentively
       concept: listen
     - {form: noise, class: n, field: Senses and the body, gloss: noise, concept: noise}
-    - {form: voice, class: n, field: Senses and the body, gloss: voice, concept: voice}
-    - {form: silence, class: n, field: Senses and the body, gloss: silence, concept: silence}
+    - form: voice
+      class: n
+      field: Senses and the body
+      gloss: voice
+      concept: voice
+      native: [{map: aelwythi-semaron, text: 󰉃󰈽󰈷󰉀󰈳}]
+    - form: silence
+      class: n
+      field: Senses and the body
+      gloss: silence
+      concept: silence
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈺󰈳󰈼󰉀󰈳}]
     - form: loud
       class: adj
       field: Senses and the body
@@ -174,6 +186,7 @@ data:
       field: Senses and the body
       gloss: to perceive through the senses or understanding
       concept: perceive
+      native: [{map: aelwythi-semaron, text: 󰈾󰈳󰈿󰉀󰈳󰈷󰉃󰈳}]
     - form: know again
       class: v
       field: Senses and the body
@@ -192,6 +205,7 @@ data:
       field: Feelings and affections
       gloss: greed; an excessive desire to possess
       concept: greed
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉃󰈳󰉁󰈽󰉂󰉀󰈼󰈳󰉀󰉀}]
     - form: boasting
       class: n
       field: Feelings and affections
@@ -209,6 +223,7 @@ data:
       field: Feelings and affections
       gloss: disappointment; the feeling when a hope is not fulfilled
       concept: disappointment
+      native: [{map: aelwythi-semaron, text: 󰉀󰈽󰈿󰈿󰈽󰉄 󰈴󰈽󰈿 󰈰 󰈶󰈽󰈾󰈳 󰈲󰈳󰉀󰈳󰈷󰉃󰈳󰈲}]
     - {form: faith, class: n, field: Feelings and affections, gloss: faith, concept: faith}
     - {form: joy, class: n, field: Feelings and affections, gloss: joy, concept: joy}
     - form: happiness
@@ -226,6 +241,7 @@ data:
       field: Feelings and affections
       gloss: contentment
       concept: contentment
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈳󰈼󰉁󰈻󰈳󰈼󰉁}]
     - form: thankfulness
       class: n
       field: Feelings and affections
@@ -237,7 +253,12 @@ data:
       gloss: admiration; appreciative esteem for someone or something
       concept: admiration
     - {form: trust, class: n, field: Feelings and affections, gloss: trust, concept: trust}
-    - {form: courage, class: n, field: Feelings and affections, gloss: courage, concept: courage}
+    - form: courage
+      class: n
+      field: Feelings and affections
+      gloss: courage
+      concept: courage
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈿󰈰󰈵󰈳}]
     - {form: anger, class: n, field: Feelings and affections, gloss: anger, concept: anger}
     - {form: hatred, class: n, field: Feelings and affections, gloss: hatred, concept: hatred}
     - form: jealousy
@@ -260,6 +281,7 @@ data:
       field: Feelings and affections
       gloss: regret for something done or left undone
       concept: regret
+      native: [{map: aelwythi-semaron, text: 󰈿󰈳󰈾󰈳󰈼󰉁󰈰󰈼󰉀󰈳}]
     - form: humility
       class: n
       field: Feelings and affections
@@ -270,6 +292,7 @@ data:
       field: Feelings and affections
       gloss: confidence
       concept: confidence
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰈴󰈷󰈲󰈳󰈼󰉀󰈳}]
     - form: shame before others
       class: n
       field: Feelings and affections
@@ -280,6 +303,7 @@ data:
       field: Feelings and affections
       gloss: compassion
       concept: compassion
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈾󰈰󰉀󰉀󰈷󰈽󰈼}]
     - {form: pity, class: n, field: Feelings and affections, gloss: pity, concept: pity}
     - form: sharing another's joy or grief
       class: n
@@ -296,6 +320,7 @@ data:
       field: Feelings and affections
       gloss: contempt
       concept: contempt
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈳󰈻󰈾󰉁}]
     - form: forgiveness
       class: n
       field: Feelings and affections
@@ -308,11 +333,13 @@ data:
       field: Feelings and affections
       gloss: satisfaction; the contentment of having a desire fulfilled
       concept: satisfaction
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈳󰈼󰉁 󰈷󰈼 󰈰 󰈲󰈳󰉀󰈷󰈿󰈳 󰈴󰉂󰈺󰈴󰈷󰈺󰈺󰈳󰈲}]
     - form: vexation at being hindered
       class: n
       field: Feelings and affections
       gloss: frustration; distress at an obstacle to one's purpose
       concept: frustration
+      native: [{map: aelwythi-semaron, text: 󰉃󰈳󰈹󰉀󰈰󰉁󰈷󰈽󰈼 󰈰󰉁 󰈱󰈳󰈷󰊎 󰈶󰈷󰈼󰈲󰈳󰈿󰈳󰈲}]
     - form: desire to know
       class: n
       field: Feelings and affections
@@ -323,17 +350,20 @@ data:
       field: Feelings and affections
       gloss: confusion; inability to make sense of something
       concept: confusion
+      native: [{map: aelwythi-semaron, text: 󰈾󰈳󰈿󰈾󰈺󰈳󰈹󰉀󰈷󰉁󰉅}]
     - {form: doubt, class: n, field: Feelings and affections, gloss: doubt, concept: doubt}
     - form: assurance
       class: n
       field: Feelings and affections
       gloss: certainty; confidence that something is so, whether or not it is true
       concept: certainty
+      native: [{map: aelwythi-semaron, text: 󰈰󰉀󰉀󰉂󰈿󰈰󰈼󰉀󰈳}]
     - form: wonder at the unexpected
       class: n
       field: Feelings and affections
       gloss: surprise; the feeling caused by something unforeseen
       concept: surprise
+      native: [{map: aelwythi-semaron, text: 󰉄󰈽󰈼󰈲󰈳󰈿 󰈰󰉁 󰉐󰈳 󰉂󰈼󰈳󰈹󰉀󰈾󰈳󰈹󰉁󰈳󰈲}]
     - form: weariness of tedious business
       class: n
       field: Feelings and affections
@@ -344,12 +374,14 @@ data:
       field: Feelings and affections
       gloss: anticipation; looking ahead to something expected
       concept: anticipation
+      native: [{map: aelwythi-semaron, text: 󰈳󰈹󰉀󰈾󰈳󰈹󰉁󰈰󰉁󰈷󰈽󰈼}]
     - {form: belief, class: n, field: Feelings and affections, gloss: belief, concept: belief}
     - form: reverence
       class: n
       field: Feelings and affections
       gloss: reverence
       concept: reverence
+      native: [{map: aelwythi-semaron, text: 󰈿󰈳󰉃󰈳󰈿󰈳󰈼󰉀󰈳}]
     - {form: awe, class: n, field: Feelings and affections, gloss: awe, concept: awe}
     - form: lovers' love
       class: n
@@ -376,6 +408,7 @@ data:
       field: Feelings and affections
       gloss: affection
       concept: affection
+      native: [{map: aelwythi-semaron, text: 󰈰󰈴󰈴󰈳󰈹󰉁󰈷󰈽󰈼}]
     - form: the heart's drawing toward another
       class: n
       field: Feelings and affections
@@ -386,6 +419,7 @@ data:
       field: Feelings and affections
       gloss: intimacy; a close personal relationship with shared private knowledge
       concept: intimacy
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰉀󰈳 󰈴󰈰󰈻󰈷󰈺󰈷󰈰󰈿󰈷󰉁󰉅}]
     - form: devotion
       class: n
       field: Feelings and affections
@@ -404,7 +438,12 @@ data:
     - {form: enmity, class: n, field: Feelings and affections, gloss: enmity, concept: enmity}
     - {form: head, class: n, field: Senses and the body, gloss: the head, concept: head}
     - {form: hair, class: n, field: Senses and the body, gloss: the hair, concept: hair}
-    - {form: face, class: n, field: Senses and the body, gloss: the face, concept: face}
+    - form: face
+      class: n
+      field: Senses and the body
+      gloss: the face
+      concept: face
+      native: [{map: aelwythi-semaron, text: 󰈴󰈰󰉀󰈳}]
     - form: eye
       class: n
       field: Senses and the body
@@ -422,7 +461,12 @@ data:
     - {form: lip, class: n, field: Senses and the body, gloss: the lip, concept: lip}
     - {form: tooth, class: n, field: Senses and the body, gloss: the tooth, concept: tooth}
     - {form: tongue, class: n, field: Senses and the body, gloss: the tongue, concept: tongue}
-    - {form: neck, class: n, field: Senses and the body, gloss: the neck, concept: neck}
+    - form: neck
+      class: n
+      field: Senses and the body
+      gloss: the neck
+      concept: neck
+      native: [{map: aelwythi-semaron, text: 󰈼󰈳󰈹󰈹}]
     - form: shoulder
       class: n
       field: Senses and the body
@@ -451,7 +495,12 @@ data:
     - {form: breast, class: n, field: Senses and the body, gloss: the breast, concept: breast}
     - {form: heart, class: n, field: Senses and the body, gloss: the heart, concept: heart}
     - {form: belly, class: n, field: Senses and the body, gloss: the belly, concept: belly}
-    - {form: back, class: n, field: Senses and the body, gloss: the back, concept: back}
+    - form: back
+      class: n
+      field: Senses and the body
+      gloss: the back
+      concept: back
+      native: [{map: aelwythi-semaron, text: 󰈱󰈰󰈹󰈹}]
     - {form: hip, class: n, field: Senses and the body, gloss: the hip, concept: hip}
     - {form: leg, class: n, field: Senses and the body, gloss: the leg, concept: leg}
     - form: knee
@@ -478,8 +527,18 @@ data:
     - {form: throat, class: n, field: Senses and the body, gloss: throat, concept: throat}
     - {form: stomach, class: n, field: Senses and the body, gloss: stomach, concept: stomach}
     - {form: waist, class: n, field: Senses and the body, gloss: waist, concept: waist}
-    - {form: backbone, class: n, field: Senses and the body, gloss: the spine, concept: spine}
-    - {form: buttock, class: n, field: Senses and the body, gloss: buttock, concept: buttock}
+    - form: backbone
+      class: n
+      field: Senses and the body
+      gloss: the spine
+      concept: spine
+      native: [{map: aelwythi-semaron, text: 󰈱󰈰󰈹󰈹󰈱󰈽󰈼󰈳}]
+    - form: buttock
+      class: n
+      field: Senses and the body
+      gloss: buttock
+      concept: buttock
+      native: [{map: aelwythi-semaron, text: 󰈱󰉂󰉁󰉁󰈽󰈹󰈹}]
     - {form: wrist, class: n, field: Senses and the body, gloss: wrist, concept: wrist}
     - {form: palm, class: n, field: Senses and the body, gloss: palm, concept: palm}
     - {form: thumb, class: n, field: Senses and the body, gloss: thumb, concept: thumb}
@@ -492,7 +551,12 @@ data:
       field: Senses and the body
       gloss: a toenail
       concept: toenail
-    - {form: muscle, class: n, field: Senses and the body, gloss: muscle, concept: muscle}
+    - form: muscle
+      class: n
+      field: Senses and the body
+      gloss: muscle
+      concept: muscle
+      native: [{map: aelwythi-semaron, text: 󰈻󰉂󰉀󰈹󰈺󰈳}]
     - {form: fat, class: n, field: Senses and the body, gloss: fat, concept: fat}
     - {form: sweat, class: n, field: Senses and the body, gloss: sweat (noun), concept: sweat}
     - {form: tears, class: n, field: Senses and the body, gloss: tears, concept: tears}
@@ -627,9 +691,15 @@ data:
       field: Needs and the household
       gloss: cold as a bodily temperature condition
       concept: cold-noun
+      native: [{map: aelwythi-semaron, text: 󰉐󰈳 󰈹󰈽󰈺󰈲}]
     - {form: hot, class: adj, field: Needs and the household, gloss: hot, concept: hot}
     - {form: warm, class: adj, field: Needs and the household, gloss: warm, concept: warm}
-    - {form: cool, class: adj, field: Needs and the household, gloss: cool, concept: cool}
+    - form: cool
+      class: adj
+      field: Needs and the household
+      gloss: cool
+      concept: cool
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈽󰈺}]
     - {form: freeze, class: v, field: Needs and the household, gloss: freeze, concept: freeze}
     - form: burn
       class: v
@@ -644,16 +714,19 @@ data:
       field: Needs and the household
       gloss: protection
       concept: protection
+      native: [{map: aelwythi-semaron, text: 󰈾󰈿󰈽󰉁󰈳󰈹󰉁󰈷󰈽󰈼}]
     - form: carnal knowledge
       class: n
       field: Needs and the household
       gloss: sexual intercourse
       concept: sex
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈼󰈰󰈺 󰈹󰈼󰈽󰉄󰈺󰈳󰈲󰈵󰈳}]
     - form: conceive
       class: v
       field: Needs and the household
       gloss: to become pregnant
       concept: conceive
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉀󰈳󰈷󰉃󰈳}]
     - form: being with child
       class: n
       field: Needs and the household
@@ -675,6 +748,7 @@ data:
       field: Needs and the household
       gloss: to nurse a child; to feed a child at the breast
       concept: nurse
+      native: [{map: aelwythi-semaron, text: 󰈵󰈷󰉃󰈳 󰉀󰉂󰈹󰈹}]
     - form: grow
       class: v
       field: Needs and the household
@@ -694,7 +768,12 @@ data:
       variants: [deaths]
     - {form: dead, class: adj, field: Needs and the household, gloss: dead, concept: dead}
     - {form: hale, class: adj, field: Senses and the body, gloss: healthy; hale, concept: healthy}
-    - {form: sick, class: adj, field: Senses and the body, gloss: sick; ill, concept: sick}
+    - form: sick
+      class: adj
+      field: Senses and the body
+      gloss: sick; ill
+      concept: sick
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈹󰈹}]
     - form: wounded
       class: adj
       field: Senses and the body
@@ -722,6 +801,7 @@ data:
       field: Senses and the body
       gloss: cold in temperature
       concept: cold
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈺󰈲}]
     - {form: feverish, class: adj, field: Senses and the body, gloss: feverish, concept: feverish}
     - form: pain
       class: n
@@ -750,6 +830,7 @@ data:
       field: Senses and the body
       gloss: to regain health or strength
       concept: recover
+      native: [{map: aelwythi-semaron, text: 󰈿󰈳󰈹󰈽󰉃󰈳󰈿}]
     - {form: blind, class: adj, field: Senses and the body, gloss: blind, concept: blind}
     - {form: deaf, class: adj, field: Senses and the body, gloss: deaf, concept: deaf}
     - {form: lame, class: adj, field: Senses and the body, gloss: lame, concept: lame}
@@ -831,11 +912,22 @@ data:
       gloss: uncle
       concept: uncle
       variants: [uncle's]
+      native: [{map: aelwythi-semaron, text: 󰉂󰈼󰈹󰈺󰈳}]
     - {form: aunt, class: n, field: Kindred and society, gloss: aunt, concept: aunt}
-    - {form: cousin, class: n, field: Kindred and society, gloss: cousin, concept: cousin}
+    - form: cousin
+      class: n
+      field: Kindred and society
+      gloss: cousin
+      concept: cousin
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰉀󰈷󰈼}]
     - {form: husband, class: n, field: Kindred and society, gloss: husband, concept: husband}
     - {form: wife, class: n, field: Kindred and society, gloss: wife, concept: wife}
-    - {form: ancestor, class: n, field: Kindred and society, gloss: ancestor, concept: ancestor}
+    - form: ancestor
+      class: n
+      field: Kindred and society
+      gloss: ancestor
+      concept: ancestor
+      native: [{map: aelwythi-semaron, text: 󰈰󰈼󰉀󰈳󰉀󰉁󰈽󰈿}]
     - form: offspring
       class: n
       field: Kindred and society
@@ -849,7 +941,12 @@ data:
       gloss: a grandparent
       concept: grandparent
     - {form: nephew, class: n, field: Kindred and society, gloss: nephew, concept: nephew}
-    - {form: niece, class: n, field: Kindred and society, gloss: niece, concept: niece}
+    - form: niece
+      class: n
+      field: Kindred and society
+      gloss: niece
+      concept: niece
+      native: [{map: aelwythi-semaron, text: 󰈼󰈷󰈳󰉀󰈳}]
     - form: wedded mate
       class: n
       field: Kindred and society
@@ -875,7 +972,12 @@ data:
       gloss: neighbor
       concept: neighbor
       variants: [neighbours]
-    - {form: companion, class: n, field: Kindred and society, gloss: companion, concept: companion}
+    - form: companion
+      class: n
+      field: Kindred and society
+      gloss: companion
+      concept: companion
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈾󰈰󰈼󰈷󰈽󰈼}]
     - {form: guest, class: n, field: Kindred and society, gloss: guest, concept: guest}
     - {form: host, class: n, field: Kindred and society, gloss: host, concept: host}
     - {form: leader, class: n, field: Kindred and society, gloss: leader, concept: leader}
@@ -917,7 +1019,12 @@ data:
       gloss: a door
       concept: door
       variants: [doors]
-    - {form: lock, class: n, field: Needs and the household, gloss: a lock, concept: lock}
+    - form: lock
+      class: n
+      field: Needs and the household
+      gloss: a lock
+      concept: lock
+      native: [{map: aelwythi-semaron, text: 󰈺󰈽󰈹󰈹}]
     - {form: key, class: n, field: Needs and the household, gloss: a key, concept: key}
     - form: window
       class: n
@@ -930,7 +1037,12 @@ data:
       field: Needs and the household
       gloss: shutters
       concept: shutters
-    - {form: cup, class: n, field: Needs and the household, gloss: a cup, concept: cup}
+    - form: cup
+      class: n
+      field: Needs and the household
+      gloss: a cup
+      concept: cup
+      native: [{map: aelwythi-semaron, text: 󰈹󰉂󰈾}]
     - {form: bowl, class: n, field: Needs and the household, gloss: a bowl, concept: bowl}
     - form: knife
       class: n
@@ -941,10 +1053,25 @@ data:
     - {form: spoon, class: n, field: Needs and the household, gloss: a spoon, concept: spoon}
     - {form: pot, class: n, field: Needs and the household, gloss: a pot, concept: pot}
     - {form: lamp, class: n, field: Needs and the household, gloss: a lamp, concept: lamp}
-    - {form: cloth, class: n, field: Needs and the household, gloss: cloth, concept: cloth}
-    - {form: clothes, class: n, field: Needs and the household, gloss: clothes, concept: clothes}
+    - form: cloth
+      class: n
+      field: Needs and the household
+      gloss: cloth
+      concept: cloth
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰉐}]
+    - form: clothes
+      class: n
+      field: Needs and the household
+      gloss: clothes
+      concept: clothes
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰉐󰈳󰉀}]
     - {form: room, class: n, field: Needs and the household, gloss: room, concept: room}
-    - {form: ceiling, class: n, field: Needs and the household, gloss: ceiling, concept: ceiling}
+    - form: ceiling
+      class: n
+      field: Needs and the household
+      gloss: ceiling
+      concept: ceiling
+      native: [{map: aelwythi-semaron, text: 󰉀󰈳󰈷󰈺󰈷󰊎}]
     - {form: seat, class: n, field: Needs and the household, gloss: seat, concept: seat}
     - {form: bench, class: n, field: Needs and the household, gloss: bench, concept: bench}
     - {form: jar, class: n, field: Needs and the household, gloss: jar, concept: jar}
@@ -953,7 +1080,12 @@ data:
     - {form: bag, class: n, field: Needs and the household, gloss: bag, concept: bag}
     - {form: hammer, class: n, field: Needs and the household, gloss: hammer, concept: hammer}
     - {form: rope, class: n, field: Needs and the household, gloss: rope, concept: rope}
-    - {form: cord, class: n, field: Needs and the household, gloss: cord, concept: cord}
+    - form: cord
+      class: n
+      field: Needs and the household
+      gloss: cord
+      concept: cord
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈿󰈲}]
     - {form: needle, class: n, field: Needs and the household, gloss: needle, concept: needle}
     - {form: flame, class: n, field: Needs and the household, gloss: flame, concept: flame}
     - {form: smoke, class: n, field: Needs and the household, gloss: smoke, concept: smoke}
@@ -962,7 +1094,12 @@ data:
       field: Needs and the household
       gloss: the powder left after burning; ash
       concept: ash
-    - {form: coal, class: n, field: Needs and the household, gloss: coal, concept: coal}
+    - form: coal
+      class: n
+      field: Needs and the household
+      gloss: coal
+      concept: coal
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈰󰈺}]
     - {form: torch, class: n, field: Needs and the household, gloss: torch, concept: torch}
     - form: candle
       class: n
@@ -970,9 +1107,15 @@ data:
       gloss: candle
       concept: candle
       variants: [candles]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼󰈲󰈺󰈳}]
     - {form: garment, class: n, field: Needs and the household, gloss: garment, concept: garment}
     - {form: shirt, class: n, field: Needs and the household, gloss: shirt, concept: shirt}
-    - {form: cloak, class: n, field: Needs and the household, gloss: cloak, concept: cloak}
+    - form: cloak
+      class: n
+      field: Needs and the household
+      gloss: cloak
+      concept: cloak
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰈰󰈹}]
     - {form: belt, class: n, field: Needs and the household, gloss: belt, concept: belt}
     - {form: shoe, class: n, field: Needs and the household, gloss: shoe, concept: shoe}
     - {form: boot, class: n, field: Needs and the household, gloss: boot, concept: boot}
@@ -994,13 +1137,23 @@ data:
       concept: wood
       variants: [wood's]
     - {form: metal, class: n, field: Needs and the household, gloss: metal, concept: metal}
-    - {form: clay, class: n, field: Needs and the household, gloss: clay, concept: clay}
+    - form: clay
+      class: n
+      field: Needs and the household
+      gloss: clay
+      concept: clay
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈰󰉅}]
     - {form: leather, class: n, field: Needs and the household, gloss: leather, concept: leather}
     - {form: wool, class: n, field: Needs and the household, gloss: wool, concept: wool}
     - {form: thread, class: n, field: Needs and the household, gloss: thread, concept: thread}
     - {form: earth, class: n, field: Land and living things, gloss: earth, concept: earth}
     - {form: soil, class: n, field: Land and living things, gloss: soil, concept: soil}
-    - {form: rock, class: n, field: Land and living things, gloss: rock, concept: rock}
+    - form: rock
+      class: n
+      field: Land and living things
+      gloss: rock
+      concept: rock
+      native: [{map: aelwythi-semaron, text: 󰈿󰈽󰈹󰈹}]
     - {form: sand, class: n, field: Land and living things, gloss: sand, concept: sand}
     - {form: mud, class: n, field: Land and living things, gloss: mud, concept: mud}
     - {form: dust, class: n, field: Land and living things, gloss: dust, concept: dust}
@@ -1030,16 +1183,31 @@ data:
       concept: forest
       variants: [forest's]
     - {form: field, class: n, field: Land and living things, gloss: field, concept: field}
-    - {form: cave, class: n, field: Land and living things, gloss: cave, concept: cave}
+    - form: cave
+      class: n
+      field: Land and living things
+      gloss: cave
+      concept: cave
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰉃󰈳}]
     - {form: river, class: n, field: Land and living things, gloss: river, concept: river}
     - {form: stream, class: n, field: Land and living things, gloss: stream, concept: stream}
     - {form: lake, class: n, field: Land and living things, gloss: lake, concept: lake}
     - {form: sea, class: n, field: Land and living things, gloss: sea, concept: sea}
-    - {form: ocean, class: n, field: Land and living things, gloss: ocean, concept: ocean}
+    - form: ocean
+      class: n
+      field: Land and living things
+      gloss: ocean
+      concept: ocean
+      native: [{map: aelwythi-semaron, text: 󰈽󰉀󰈳󰈰󰈼}]
     - {form: shore, class: n, field: Land and living things, gloss: shore, concept: shore}
     - {form: rain, class: n, field: Land and living things, gloss: rain, concept: rain}
     - {form: snow, class: n, field: Land and living things, gloss: snow, concept: snow}
-    - {form: ice, class: n, field: Land and living things, gloss: ice, concept: ice}
+    - form: ice
+      class: n
+      field: Land and living things
+      gloss: ice
+      concept: ice
+      native: [{map: aelwythi-semaron, text: 󰈷󰉀󰈳}]
     - {form: sky, class: n, field: Land and living things, gloss: sky, concept: sky}
     - form: sun
       class: n
@@ -1049,7 +1217,12 @@ data:
       variants: [sun's]
     - {form: moon, class: n, field: Land and living things, gloss: moon, concept: moon}
     - {form: star, class: n, field: Land and living things, gloss: star, concept: star}
-    - {form: cloud, class: n, field: Land and living things, gloss: cloud, concept: cloud}
+    - form: cloud
+      class: n
+      field: Land and living things
+      gloss: cloud
+      concept: cloud
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰉂󰈲}]
     - {form: wind, class: n, field: Land and living things, gloss: wind, concept: wind}
     - {form: storm, class: n, field: Land and living things, gloss: storm, concept: storm}
     - {form: thunder, class: n, field: Land and living things, gloss: thunder, concept: thunder}
@@ -1082,6 +1255,7 @@ data:
       field: Land and living things
       gloss: an animal
       concept: animal
+      native: [{map: aelwythi-semaron, text: 󰈺󰈷󰉃󰈷󰊎 󰈹󰈿󰈳󰈰󰉁󰉂󰈿󰈳}]
     - form: beast
       class: n
       field: Land and living things
@@ -1100,6 +1274,7 @@ data:
       field: Land and living things
       gloss: an insect, such as a bee or fly
       concept: insect
+      native: [{map: aelwythi-semaron, text: 󰈷󰈼󰉀󰈳󰈹󰉁}]
     - {form: worm, class: n, field: Land and living things, gloss: worm, concept: worm}
     - {form: wet, class: adj, field: Land and living things, gloss: wet, concept: wet}
     - {form: dry, class: adj, field: Land and living things, gloss: dry, concept: dry}
@@ -1110,7 +1285,13 @@ data:
       field: Land and living things
       gloss: ["without clouds, of the weather", clear in appearance; unclouded]
       concept: [clear-weather, clear-appearance]
-    - {form: cloudy, class: adj, field: Land and living things, gloss: cloudy, concept: cloudy}
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈳󰈰󰈿}]
+    - form: cloudy
+      class: adj
+      field: Land and living things
+      gloss: cloudy
+      concept: cloudy
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰉂󰈲󰉅}]
     - {form: north, class: n, field: Land and living things, gloss: north, concept: north}
     - {form: south, class: n, field: Land and living things, gloss: south, concept: south}
     - {form: east, class: n, field: Land and living things, gloss: east, concept: east}
@@ -1120,7 +1301,12 @@ data:
     - {form: three, class: num, field: Number and appearance, gloss: three, concept: three}
     - {form: four, class: num, field: Number and appearance, gloss: four, concept: four}
     - {form: five, class: num, field: Number and appearance, gloss: five, concept: five}
-    - {form: six, class: num, field: Number and appearance, gloss: six, concept: six}
+    - form: six
+      class: num
+      field: Number and appearance
+      gloss: six
+      concept: six
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈹󰉀}]
     - {form: seven, class: num, field: Number and appearance, gloss: seven, concept: seven}
     - {form: eight, class: num, field: Number and appearance, gloss: eight, concept: eight}
     - {form: nine, class: num, field: Number and appearance, gloss: nine, concept: nine}
@@ -1137,7 +1323,12 @@ data:
       field: Number and appearance
       gloss: first in ordinal position
       concept: first
-    - {form: second, class: num, field: Number and appearance, gloss: second, concept: second}
+    - form: second
+      class: num
+      field: Number and appearance
+      gloss: second
+      concept: second
+      native: [{map: aelwythi-semaron, text: 󰉀󰈳󰈹󰈽󰈼󰈲}]
     - {form: third, class: num, field: Number and appearance, gloss: third, concept: third}
     - {form: half, class: num, field: Number and appearance, gloss: half, concept: half}
     - {form: many, class: num, field: Number and appearance, gloss: many, concept: many}
@@ -1157,6 +1348,7 @@ data:
       field: Number and appearance
       gloss: zero; the numeral denoting no quantity
       concept: zero
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈾󰈶󰈳󰈿}]
     - form: fourth
       class: num
       field: Number and appearance
@@ -1194,6 +1386,7 @@ data:
       field: Number and appearance
       gloss: exactly; with no difference from the stated measure or manner
       concept: exactly
+      native: [{map: aelwythi-semaron, text: 󰈾󰈿󰈳󰉀󰈷󰉀󰈳󰈺󰉅}]
     - {form: number, class: n, field: Number and appearance, gloss: number, concept: number}
     - form: quantity
       class: n
@@ -1211,7 +1404,13 @@ data:
       gloss: count
       concept: count-verb
       variants: [counted]
-    - {form: black, class: adj, field: Number and appearance, gloss: black, concept: black}
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈼󰉁}]
+    - form: black
+      class: adj
+      field: Number and appearance
+      gloss: black
+      concept: black
+      native: [{map: aelwythi-semaron, text: 󰈱󰈺󰈰󰈹󰈹}]
     - {form: white, class: adj, field: Number and appearance, gloss: white, concept: white}
     - {form: red, class: adj, field: Number and appearance, gloss: red, concept: red}
     - {form: green, class: adj, field: Number and appearance, gloss: green, concept: green}
@@ -1224,6 +1423,7 @@ data:
       field: Number and appearance
       gloss: light in colour
       concept: light-colour
+      native: [{map: aelwythi-semaron, text: 󰈺󰈷󰊄󰉁 󰈽󰈴 󰈹󰈽󰈺󰈽󰉂󰈿}]
     - {form: pale, class: adj, field: Number and appearance, gloss: pale, concept: pale}
     - form: letting no light through
       class: adj
@@ -1280,6 +1480,7 @@ data:
       gloss: to come
       concept: come
       variants: [comest, cometh, comen, came]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈳}]
     - form: give
       class: v
       field: Doing and being
@@ -1411,7 +1612,12 @@ data:
     - {form: to end, class: v, field: Doing and being, gloss: to end, concept: end}
     - {form: have being, class: v, field: Doing and being, gloss: to exist, concept: exist}
     - {form: belong, class: v, field: Doing and being, gloss: to belong, concept: belong}
-    - {form: become, class: v, field: Doing and being, gloss: to become, concept: become}
+    - form: become
+      class: v
+      field: Doing and being
+      gloss: to become
+      concept: become
+      native: [{map: aelwythi-semaron, text: 󰈱󰈳󰈹󰈽󰈻󰈳}]
     - {form: remain, class: v, field: Doing and being, gloss: to remain, concept: remain}
     - form: leave
       class: v
@@ -1420,8 +1626,18 @@ data:
       concept: leave
       variants: [leaven]
     - {form: arrive, class: v, field: Doing and being, gloss: to arrive, concept: arrive}
-    - {form: crawl, class: v, field: Doing and being, gloss: to crawl, concept: crawl}
-    - {form: climb, class: v, field: Doing and being, gloss: to climb, concept: climb}
+    - form: crawl
+      class: v
+      field: Doing and being
+      gloss: to crawl
+      concept: crawl
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈰󰉄󰈺}]
+    - form: climb
+      class: v
+      field: Doing and being
+      gloss: to climb
+      concept: climb
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈷󰈻󰈱}]
     - {form: leap, class: v, field: Doing and being, gloss: to jump, concept: jump}
     - {form: fall, class: v, field: Doing and being, gloss: to fall, concept: fall}
     - form: rise
@@ -1450,6 +1666,7 @@ data:
       gloss: to carry
       concept: carry
       variants: [carriest, carrieth, carryen, carried, carrying]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈿󰉅}]
     - form: move
       class: v
       field: Doing and being
@@ -1476,9 +1693,19 @@ data:
       gloss: to throw
       concept: throw
       variants: [threw]
-    - {form: catch, class: v, field: Doing and being, gloss: to catch, concept: catch}
+    - form: catch
+      class: v
+      field: Doing and being
+      gloss: to catch
+      concept: catch
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰉁󰊌}]
     - {form: build, class: v, field: Doing and being, gloss: to build, concept: build}
-    - {form: create, class: v, field: Doing and being, gloss: to create, concept: create}
+    - form: create
+      class: v
+      field: Doing and being
+      gloss: to create
+      concept: create
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈳󰈰󰉁󰈳}]
     - form: break
       class: v
       field: Doing and being
@@ -1512,12 +1739,14 @@ data:
       gloss: to call
       concept: call
       variants: [called, calleth]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈺󰈺}]
     - form: cry aloud
       class: v
       field: Doing and being
       gloss: to shout
       concept: shout
       variants: [crying]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰉅 󰈰󰈺󰈽󰉂󰈲}]
     - {form: whisper, class: v, field: Doing and being, gloss: to whisper, concept: whisper}
     - form: make plain
       class: v
@@ -1624,13 +1853,24 @@ data:
       field: Doing and being
       gloss: to stop; to come to an end or stop doing something
       concept: stop
-    - {form: continue, class: v, field: Doing and being, gloss: to continue, concept: continue}
+      native: [{map: aelwythi-semaron, text: 󰉀󰈳󰈰󰉀󰈳}]
+    - form: continue
+      class: v
+      field: Doing and being
+      gloss: to continue
+      concept: continue
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈷󰈼󰉂󰈳}]
     - form: tarry
       class: v
       field: Doing and being
       gloss: to wait; to remain for a time
       concept: wait
-    - {form: come to pass, class: v, field: Doing and being, gloss: to happen, concept: happen}
+    - form: come to pass
+      class: v
+      field: Doing and being
+      gloss: to happen
+      concept: happen
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈳 󰉁󰈽 󰈾󰈰󰉀󰉀}]
     - form: kneel
       class: v
       field: Doing and being
@@ -1639,12 +1879,32 @@ data:
       variants: [kneeleth]
     - {form: bend, class: v, field: Doing and being, gloss: to bend, concept: bend}
     - {form: lean, class: v, field: Doing and being, gloss: to lean, concept: lean}
-    - {form: cover, class: v, field: Doing and being, gloss: to cover, concept: cover-verb}
-    - {form: uncover, class: v, field: Doing and being, gloss: to uncover, concept: uncover}
+    - form: cover
+      class: v
+      field: Doing and being
+      gloss: to cover
+      concept: cover-verb
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉃󰈳󰈿}]
+    - form: uncover
+      class: v
+      field: Doing and being
+      gloss: to uncover
+      concept: uncover
+      native: [{map: aelwythi-semaron, text: 󰉂󰈼󰈹󰈽󰉃󰈳󰈿}]
     - {form: hide, class: v, field: Doing and being, gloss: to hide, concept: hide}
     - {form: reveal, class: v, field: Doing and being, gloss: to reveal, concept: reveal}
-    - {form: to lock, class: v, field: Doing and being, gloss: to lock, concept: lock-verb}
-    - {form: unlock, class: v, field: Doing and being, gloss: to unlock, concept: unlock}
+    - form: to lock
+      class: v
+      field: Doing and being
+      gloss: to lock
+      concept: lock-verb
+      native: [{map: aelwythi-semaron, text: 󰉁󰈽 󰈺󰈽󰈹󰈹}]
+    - form: unlock
+      class: v
+      field: Doing and being
+      gloss: to unlock
+      concept: unlock
+      native: [{map: aelwythi-semaron, text: 󰉂󰈼󰈺󰈽󰈹󰈹}]
     - {form: here, class: adv, field: Place and time, gloss: here, concept: here}
     - {form: there, class: adv, field: Place and time, gloss: there, concept: there}
     - {form: somewhere, class: adv, field: Place and time, gloss: somewhere, concept: somewhere}
@@ -1690,11 +1950,21 @@ data:
     - {form: up, class: adv, field: Place and time, gloss: up, concept: up}
     - {form: down, class: adv, field: Place and time, gloss: down, concept: down}
     - {form: forward, class: adv, field: Place and time, gloss: forward, concept: forward}
-    - {form: backward, class: adv, field: Place and time, gloss: backward, concept: backward}
+    - form: backward
+      class: adv
+      field: Place and time
+      gloss: backward
+      concept: backward
+      native: [{map: aelwythi-semaron, text: 󰈱󰈰󰈹󰈹󰉄󰈰󰈿󰈲}]
     - {form: toward, class: part, field: Place and time, gloss: toward, concept: toward}
     - {form: away, class: adv, field: Place and time, gloss: away, concept: away}
     - {form: through, class: part, field: Place and time, gloss: through, concept: through}
-    - {form: across, class: part, field: Place and time, gloss: across, concept: across}
+    - form: across
+      class: part
+      field: Place and time
+      gloss: across
+      concept: across
+      native: [{map: aelwythi-semaron, text: 󰈰󰈹󰈿󰈽󰉀󰉀}]
     - form: round about
       class: part
       field: Place and time
@@ -1710,6 +1980,7 @@ data:
       field: Place and time
       gloss: a place; a location
       concept: place-noun
+      native: [{map: aelwythi-semaron, text: 󰈾󰈺󰈰󰉀󰈳}]
     - form: where a thing standeth
       class: n
       field: Place and time
@@ -1720,7 +1991,12 @@ data:
       field: Place and time
       gloss: direction; the way something faces or goes
       concept: direction
-    - {form: distance, class: n, field: Place and time, gloss: distance, concept: distance}
+    - form: distance
+      class: n
+      field: Place and time
+      gloss: distance
+      concept: distance
+      native: [{map: aelwythi-semaron, text: 󰈲󰈷󰉀󰉁󰈰󰈼󰉀󰈳}]
     - {form: time, class: n, field: Place and time, gloss: time, concept: time, variants: [times]}
     - {form: moment, class: n, field: Place and time, gloss: moment, concept: moment}
     - form: day
@@ -1768,6 +2044,7 @@ data:
       field: Place and time
       gloss: the future; time that has not yet arrived
       concept: future
+      native: [{map: aelwythi-semaron, text: 󰉁󰈷󰈻󰈳 󰉁󰈽 󰈹󰈽󰈻󰈳}]
     - {form: after, class: part, field: Place and time, gloss: after, concept: after}
     - {form: during, class: part, field: Place and time, gloss: during, concept: during}
     - {form: while, class: conj, field: Place and time, gloss: while, concept: while}
@@ -1777,6 +2054,7 @@ data:
       field: Place and time
       gloss: from a stated past time until now
       concept: since-time
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈼󰉀󰈳}]
     - {form: always, class: adv, field: Place and time, gloss: always, concept: always}
     - {form: often, class: adv, field: Place and time, gloss: often, concept: often}
     - {form: sometimes, class: adv, field: Place and time, gloss: sometimes, concept: sometimes}
@@ -1803,8 +2081,18 @@ data:
       gloss: lasting; continuing for a sustained time
       concept: lasting-duration
     - {form: again, class: adv, field: Place and time, gloss: again, concept: again}
-    - {form: once, class: adv, field: Place and time, gloss: once, concept: once}
-    - {form: twice, class: adv, field: Place and time, gloss: twice, concept: twice}
+    - form: once
+      class: adv
+      field: Place and time
+      gloss: once
+      concept: once
+      native: [{map: aelwythi-semaron, text: 󰈽󰈼󰉀󰈳}]
+    - form: twice
+      class: adv
+      field: Place and time
+      gloss: twice
+      concept: twice
+      native: [{map: aelwythi-semaron, text: 󰉁󰉄󰈷󰉀󰈳}]
     - form: again and again
       class: adv
       field: Place and time
@@ -1830,7 +2118,12 @@ data:
       field: Place and time
       gloss: first; before the other events in a sequence
       concept: first-sequence
-    - {form: next, class: adj, field: Place and time, gloss: next, concept: next}
+    - form: next
+      class: adj
+      field: Place and time
+      gloss: next
+      concept: next
+      native: [{map: aelwythi-semaron, text: 󰈼󰈳󰈹󰉀󰉁}]
     - {form: last, class: adj, field: Place and time, gloss: last, concept: last}
     - form: at last
       class: adv
@@ -1999,6 +2292,7 @@ data:
       field: Reference and questions
       gloss: When will you come? A question asking for a time; when asks about time
       concept: question-when
+      native: [{map: aelwythi-semaron, text: 󰈔󰈶󰈳󰈼 󰉄󰈷󰈺󰉁 󰉐󰈽󰉂 󰈹󰈽󰈻󰈳󰉨}]
     - form: "Wherefore weepest thou."
       class: call
       field: Reference and questions
@@ -2034,6 +2328,7 @@ data:
       field: Reference and questions
       gloss: Where do you come from? A question asking the place of origin
       concept: question-from-where
+      native: [{map: aelwythi-semaron, text: 󰈔󰈶󰈳󰈼󰉀󰈳 󰈹󰈽󰈻󰈳󰉀󰉁 󰉐󰈽󰉂󰉨}]
     - form: "To what end labourest thou."
       class: call
       field: Reference and questions
@@ -2098,6 +2393,7 @@ data:
       field: Truth and reasoning
       gloss: perhaps; possibly
       concept: perhaps
+      native: [{map: aelwythi-semaron, text: 󰈾󰈳󰈿󰊌󰈰󰈼󰉀󰈳}]
     - form: belike
       class: adv
       field: Truth and reasoning
@@ -2150,7 +2446,12 @@ data:
       gloss: in fact; actually
       concept: in-fact
     - {form: to doubt, class: v, field: Truth and reasoning, gloss: doubt, concept: doubt-verb}
-    - {form: suspect, class: v, field: Truth and reasoning, gloss: suspect, concept: suspect}
+    - form: suspect
+      class: v
+      field: Truth and reasoning
+      gloss: suspect
+      concept: suspect
+      native: [{map: aelwythi-semaron, text: 󰉀󰉂󰉀󰈾󰈳󰈹󰉁}]
     - {form: guess, class: v, field: Truth and reasoning, gloss: guess, concept: guess-verb}
     - form: suppose
       class: v
@@ -2177,7 +2478,12 @@ data:
     - {form: or, class: conj, field: Truth and reasoning, gloss: or, concept: or}
     - {form: but, class: conj, field: Truth and reasoning, gloss: but, concept: but}
     - {form: nor, class: conj, field: Truth and reasoning, gloss: nor, concept: nor}
-    - {form: because, class: conj, field: Truth and reasoning, gloss: because, concept: because}
+    - form: because
+      class: conj
+      field: Truth and reasoning
+      gloss: because
+      concept: because
+      native: [{map: aelwythi-semaron, text: 󰈱󰈳󰈹󰈰󰉂󰉀󰈳}]
     - form: therefore
       class: adv
       field: Truth and reasoning
@@ -2242,7 +2548,13 @@ data:
       field: Truth and reasoning
       gloss: for example
       concept: for-example
-    - {form: except, class: part, field: Truth and reasoning, gloss: except, concept: except}
+      native: [{map: aelwythi-semaron, text: 󰈴󰈽󰈿 󰈳󰈹󰉀󰈰󰈻󰈾󰈺󰈳}]
+    - form: except
+      class: part
+      field: Truth and reasoning
+      gloss: except
+      concept: except
+      native: [{map: aelwythi-semaron, text: 󰈳󰈹󰉀󰉀󰈳󰈾󰉁}]
     - {form: only, class: adv, field: Truth and reasoning, gloss: only, concept: only}
     - form: even
       class: adv
@@ -2255,6 +2567,7 @@ data:
       field: Truth and reasoning
       gloss: especially
       concept: especially
+      native: [{map: aelwythi-semaron, text: 󰈳󰉀󰈾󰈳󰉀󰈷󰈰󰈺󰈺󰉅}]
     - form: great
       class: adj
       field: Number and appearance
@@ -2296,6 +2609,7 @@ data:
       field: Number and appearance
       gloss: difficult
       concept: difficult
+      native: [{map: aelwythi-semaron, text: 󰈲󰈷󰈴󰈴󰈷󰈹󰉂󰈺󰉁}]
     - {form: good, class: adj, field: Number and appearance, gloss: good, concept: good}
     - {form: bad, class: adj, field: Number and appearance, gloss: bad, concept: bad}
     - {form: better, class: adj, field: Number and appearance, gloss: better, concept: better}
@@ -2317,11 +2631,13 @@ data:
       field: Number and appearance
       gloss: necessary
       concept: necessary
+      native: [{map: aelwythi-semaron, text: 󰈼󰈳󰉀󰈳󰉀󰉀󰈰󰈿󰉅}]
     - form: precious
       class: adj
       field: Number and appearance
       gloss: valuable; of great worth
       concept: valuable
+      native: [{map: aelwythi-semaron, text: 󰈾󰈿󰈳󰉀󰈷󰈽󰉂󰉀}]
     - form: worthless
       class: adj
       field: Number and appearance
@@ -2339,11 +2655,13 @@ data:
       field: Number and appearance
       gloss: complete
       concept: complete
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈾󰈺󰈳󰉁󰈳}]
     - form: not complete
       class: adj
       field: Number and appearance
       gloss: incomplete; unfinished or missing a part
       concept: incomplete
+      native: [{map: aelwythi-semaron, text: 󰈼󰈽󰉁 󰈹󰈽󰈻󰈾󰈺󰈳󰉁󰈳}]
     - {form: honest, class: adj, field: Number and appearance, gloss: honest, concept: honest}
     - form: dishonest
       class: adj
@@ -2356,6 +2674,7 @@ data:
       field: Number and appearance
       gloss: extremely; to a very great degree
       concept: extremely
+      native: [{map: aelwythi-semaron, text: 󰈳󰈹󰉀󰉀󰈳󰈳󰈲󰈷󰊎󰈺󰉅}]
     - form: somewhat
       class: adv
       field: Number and appearance
@@ -2371,6 +2690,7 @@ data:
       field: Number and appearance
       gloss: barely; only just, as in scarce enough to live
       concept: barely
+      native: [{map: aelwythi-semaron, text: 󰉀󰈹󰈰󰈿󰉀󰈳}]
     - form: too much
       class: part
       field: Number and appearance
@@ -2391,6 +2711,7 @@ data:
       field: Number and appearance
       gloss: opposite; opposed in position, direction or quality
       concept: opposite
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈿󰈰󰈿󰉅}]
     - form: shall
       class: v
       field: Ability and conversation
@@ -2417,12 +2738,14 @@ data:
       gloss: to be able to do something; an auxiliary followed by a bare verb
       concept: can
       variants: [canst, could]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼}]
     - form: cannot
       class: v
       field: Ability and conversation
       gloss: to be unable to do something; an auxiliary followed by a bare verb
       concept: cannot
       variants: [canst not]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼󰈼󰈽󰉁}]
     - form: possible
       class: adj
       field: Ability and conversation
@@ -2471,6 +2794,7 @@ data:
       field: Ability and conversation
       gloss: optional; left to your choice
       concept: optional
+      native: [{map: aelwythi-semaron, text: 󰈰󰉁 󰉐󰉅 󰊌󰈽󰈷󰉀󰈳}]
     - form: allowed
       class: adj
       field: Ability and conversation
@@ -2517,6 +2841,7 @@ data:
       field: Ability and conversation
       gloss: accidental; happening without intention
       concept: accidental
+      native: [{map: aelwythi-semaron, text: 󰈱󰉅 󰊌󰈰󰈼󰉀󰈳}]
     - form: Good day
       class: call
       field: Ability and conversation
@@ -2532,6 +2857,7 @@ data:
       field: Ability and conversation
       gloss: welcome; a greeting of hospitality
       concept: expression-welcome
+      native: [{map: aelwythi-semaron, text: 󰈔󰈳󰈺󰈹󰈽󰈻󰈳}]
     - form: I pray thee
       class: call
       field: Ability and conversation
@@ -2587,11 +2913,13 @@ data:
       field: Ability and conversation
       gloss: come here; a request to approach
       concept: expression-come-here
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈳 󰈶󰈷󰉐󰈳󰈿}]
     - form: Go hence
       class: call
       field: Ability and conversation
       gloss: go away; an order to leave
       concept: expression-go-away
+      native: [{map: aelwythi-semaron, text: 󰈅󰈽 󰈶󰈳󰈼󰉀󰈳}]
     - form: "Help."
       class: call
       field: Ability and conversation
@@ -2612,11 +2940,13 @@ data:
       field: Ability and conversation
       gloss: pardon; a request to repeat something unheard or unclear
       concept: expression-pardon
+      native: [{map: aelwythi-semaron, text: 󰈐󰈾󰈳󰈰󰈹 󰈽󰈼󰉀󰈳 󰈰󰈵󰈰󰈷󰈼}]
     - form: Once more
       class: call
       field: Ability and conversation
       gloss: again; a request to repeat what was said or done
       concept: expression-again
+      native: [{map: aelwythi-semaron, text: 󰈍󰈼󰉀󰈳 󰈻󰈽󰈿󰈳}]
     - form: I understand
       class: call
       field: Ability and conversation
@@ -2637,6 +2967,7 @@ data:
       field: Ability and conversation
       gloss: What is this called? A request for the name of something
       concept: expression-what-is-this-called
+      native: [{map: aelwythi-semaron, text: 󰈔󰈶󰈰󰉁 󰈹󰈰󰈺󰈺󰈳󰉀󰉁 󰉐󰈽󰉂 󰉐󰈷󰉀󰉨}]
     - form: "Is it so."
       class: call
       field: Ability and conversation
@@ -2682,14 +3013,26 @@ data:
       field: Kindred and society
       gloss: a group of people
       concept: group
-    - {form: crowd, class: n, field: Kindred and society, gloss: crowd, concept: crowd}
-    - {form: clan, class: n, field: Kindred and society, gloss: clan, concept: clan}
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈾󰈰󰈼󰉅}]
+    - form: crowd
+      class: n
+      field: Kindred and society
+      gloss: crowd
+      concept: crowd
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉄󰈲}]
+    - form: clan
+      class: n
+      field: Kindred and society
+      gloss: clan
+      concept: clan
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈰󰈼}]
     - {form: tribe, class: n, field: Kindred and society, gloss: tribe, concept: tribe}
     - form: the people of a place
       class: n
       field: Kindred and society
       gloss: a community; the people who share a place and its common life
       concept: community
+      native: [{map: aelwythi-semaron, text: 󰉐󰈳 󰈾󰈳󰈽󰈾󰈺󰈳 󰈽󰈴 󰈰 󰈾󰈺󰈰󰉀󰈳}]
     - {form: ruler, class: n, field: Kindred and society, gloss: ruler, concept: ruler}
     - form: one that worketh
       class: n
@@ -2701,6 +3044,7 @@ data:
       field: Kindred and society
       gloss: an artisan; a skilled maker
       concept: artisan
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈰󰈴󰊊󰈻󰈰󰈼}]
     - {form: merchant, class: n, field: Kindred and society, gloss: merchant, concept: merchant}
     - form: name
       class: n
@@ -2714,7 +3058,12 @@ data:
       field: Kindred and society
       gloss: rank; a person's place in a hierarchy
       concept: rank
-    - {form: custom, class: n, field: Kindred and society, gloss: custom, concept: custom}
+    - form: custom
+      class: n
+      field: Kindred and society
+      gloss: custom
+      concept: custom
+      native: [{map: aelwythi-semaron, text: 󰈹󰉂󰉀󰉁󰈽󰈻}]
     - {form: tradition, class: n, field: Kindred and society, gloss: tradition, concept: tradition}
     - {form: law, class: n, field: Kindred and society, gloss: law, concept: law}
     - {form: rule, class: n, field: Kindred and society, gloss: rule, concept: rule}
@@ -2723,24 +3072,55 @@ data:
       field: Kindred and society
       gloss: an instruction directing someone to act
       concept: order-noun
-    - {form: command, class: n, field: Kindred and society, gloss: command, concept: command-noun}
-    - {form: obedience, class: n, field: Kindred and society, gloss: obedience, concept: obedience}
-    - {form: justice, class: n, field: Kindred and society, gloss: justice, concept: justice}
-    - {form: injustice, class: n, field: Kindred and society, gloss: injustice, concept: injustice}
-    - {form: peace, class: n, field: Kindred and society, gloss: peace, concept: peace}
+    - form: command
+      class: n
+      field: Kindred and society
+      gloss: command
+      concept: command-noun
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈻󰈰󰈼󰈲}]
+    - form: obedience
+      class: n
+      field: Kindred and society
+      gloss: obedience
+      concept: obedience
+      native: [{map: aelwythi-semaron, text: 󰈽󰈱󰈳󰈲󰈷󰈳󰈼󰉀󰈳}]
+    - form: justice
+      class: n
+      field: Kindred and society
+      gloss: justice
+      concept: justice
+      native: [{map: aelwythi-semaron, text: 󰈸󰉂󰉀󰉁󰈷󰉀󰈳}]
+    - form: injustice
+      class: n
+      field: Kindred and society
+      gloss: injustice
+      concept: injustice
+      native: [{map: aelwythi-semaron, text: 󰈷󰈼󰈸󰉂󰉀󰉁󰈷󰉀󰈳}]
+    - form: peace
+      class: n
+      field: Kindred and society
+      gloss: peace
+      concept: peace
+      native: [{map: aelwythi-semaron, text: 󰈾󰈳󰈰󰉀󰈳}]
     - {form: war, class: n, field: Kindred and society, gloss: war, concept: war, variants: [wars]}
     - form: liberty
       class: n
       field: Kindred and society
       gloss: freedom; the state of being free
       concept: freedom
-    - {form: captivity, class: n, field: Kindred and society, gloss: captivity, concept: captivity}
+    - form: captivity
+      class: n
+      field: Kindred and society
+      gloss: captivity
+      concept: captivity
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈾󰉁󰈷󰉃󰈷󰉁󰉅}]
     - {form: gift, class: n, field: Kindred and society, gloss: gift, concept: gift}
     - form: exchange
       class: n
       field: Kindred and society
       gloss: exchange
       concept: exchange-noun
+      native: [{map: aelwythi-semaron, text: 󰈳󰈹󰉀󰊌󰈰󰊎󰈳}]
     - {form: debt, class: n, field: Kindred and society, gloss: debt, concept: debt}
     - {form: wealth, class: n, field: Kindred and society, gloss: wealth, concept: wealth}
     - {form: poverty, class: n, field: Kindred and society, gloss: poverty, concept: poverty}
@@ -2755,7 +3135,12 @@ data:
       gloss: ownership; the right to hold something as one's own
       concept: ownership
     - {form: honour, class: n, field: Kindred and society, gloss: honor, concept: honor}
-    - {form: secret, class: n, field: Kindred and society, gloss: secret, concept: secret}
+    - form: secret
+      class: n
+      field: Kindred and society
+      gloss: secret
+      concept: secret
+      native: [{map: aelwythi-semaron, text: 󰉀󰈳󰈹󰈿󰈳󰉁}]
     - {form: knowledge, class: n, field: Kindred and society, gloss: knowledge, concept: knowledge}
     - {form: thing, class: n, field: Doing and being, gloss: thing, concept: thing}
     - form: a thing that hath being
@@ -2769,6 +3154,7 @@ data:
       field: Doing and being
       gloss: origin; where something comes from
       concept: origin
+      native: [{map: aelwythi-semaron, text: 󰉀󰈽󰉂󰈿󰉀󰈳}]
     - {form: beginning, class: n, field: Doing and being, gloss: beginning, concept: beginning}
     - {form: end, class: n, field: Doing and being, gloss: end, concept: end-noun}
     - form: finishing
@@ -2783,8 +3169,18 @@ data:
       gloss: transformation
       concept: transformation
     - {form: part, class: n, field: Doing and being, gloss: part, concept: part}
-    - {form: cause, class: n, field: Doing and being, gloss: cause, concept: cause}
-    - {form: effect, class: n, field: Doing and being, gloss: effect, concept: effect}
+    - form: cause
+      class: n
+      field: Doing and being
+      gloss: cause
+      concept: cause
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰉂󰉀󰈳}]
+    - form: effect
+      class: n
+      field: Doing and being
+      gloss: effect
+      concept: effect
+      native: [{map: aelwythi-semaron, text: 󰈳󰈴󰈴󰈳󰈹󰉁}]
     - {form: reason, class: n, field: Doing and being, gloss: reason, concept: reason}
     - {form: purpose, class: n, field: Doing and being, gloss: purpose, concept: purpose}
     - form: kind
@@ -2801,7 +3197,11 @@ data:
     - {form: natural, class: adj, field: Doing and being, gloss: natural, concept: natural}
     - {form: unnatural, class: adj, field: Doing and being, gloss: unnatural, concept: unnatural}
     - {form: fifth, class: num, field: Number and appearance, gloss: ordinal position 5}
-    - {form: sixth, class: num, field: Number and appearance, gloss: ordinal position 6}
+    - form: sixth
+      class: num
+      field: Number and appearance
+      gloss: ordinal position 6
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈹󰉀󰉐}]
     - {form: seventh, class: num, field: Number and appearance, gloss: ordinal position 7}
     - {form: eighth, class: num, field: Number and appearance, gloss: ordinal position 8}
     - {form: ninth, class: num, field: Number and appearance, gloss: ordinal position 9}
@@ -2811,7 +3211,11 @@ data:
     - {form: thirteenth, class: num, field: Number and appearance, gloss: ordinal position 13}
     - {form: fourteenth, class: num, field: Number and appearance, gloss: ordinal position 14}
     - {form: fifteenth, class: num, field: Number and appearance, gloss: ordinal position 15}
-    - {form: sixteenth, class: num, field: Number and appearance, gloss: ordinal position 16}
+    - form: sixteenth
+      class: num
+      field: Number and appearance
+      gloss: ordinal position 16
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈹󰉀󰉁󰈳󰈳󰈼󰉐}]
     - {form: seventeenth, class: num, field: Number and appearance, gloss: ordinal position 17}
     - {form: eighteenth, class: num, field: Number and appearance, gloss: ordinal position 18}
     - {form: nineteenth, class: num, field: Number and appearance, gloss: ordinal position 19}
@@ -2819,14 +3223,23 @@ data:
     - {form: thirtieth, class: num, field: Number and appearance, gloss: ordinal position 30}
     - {form: fortieth, class: num, field: Number and appearance, gloss: ordinal position 40}
     - {form: fiftieth, class: num, field: Number and appearance, gloss: ordinal position 50}
-    - {form: sixtieth, class: num, field: Number and appearance, gloss: ordinal position 60}
+    - form: sixtieth
+      class: num
+      field: Number and appearance
+      gloss: ordinal position 60
+      native: [{map: aelwythi-semaron, text: 󰉀󰈷󰈹󰉀󰉁󰈷󰈳󰉐}]
     - {form: seventieth, class: num, field: Number and appearance, gloss: ordinal position 70}
     - {form: eightieth, class: num, field: Number and appearance, gloss: ordinal position 80}
     - {form: ninetieth, class: num, field: Number and appearance, gloss: ordinal position 90}
     - {form: hundredth, class: num, field: Number and appearance, gloss: ordinal position 100}
     - {form: thousandth, class: num, field: Number and appearance, gloss: ordinal position 1000}
     - {form: abide, class: v, field: Ordinary speech, gloss: remain or endure}
-    - {form: acorn, class: n, field: Ordinary speech, gloss: the nut of an oak, variants: [acorns]}
+    - form: acorn
+      class: n
+      field: Ordinary speech
+      gloss: the nut of an oak
+      variants: [acorns]
+      native: [{map: aelwythi-semaron, text: 󰈰󰈹󰈽󰈿󰈼}]
     - {form: afraid, class: adj, field: Ordinary speech, gloss: feeling fear}
     - {form: against, class: part, field: Ordinary speech, gloss: in opposition to; resting on}
     - {form: ague, class: n, field: Ordinary speech, gloss: a fever with chills and shivering}
@@ -2834,7 +3247,11 @@ data:
       class: n
       field: Ordinary speech
       gloss: a Grukar spawner; in the drovers' play, a chief
-    - {form: alack, class: call, field: Ordinary speech, gloss: an exclamation of dismay}
+    - form: alack
+      class: call
+      field: Ordinary speech
+      gloss: an exclamation of dismay
+      native: [{map: aelwythi-semaron, text: 󰈰󰈺󰈰󰈹󰈹}]
     - {form: ale, class: n, field: Ordinary speech, gloss: beer brewed from grain}
     - {form: alone, class: adj, field: Ordinary speech, gloss: without company}
     - {form: along, class: part, field: Ordinary speech, gloss: following the length of}
@@ -2879,7 +3296,11 @@ data:
     - {form: beer, class: n, field: Ordinary speech, gloss: an alcoholic drink brewed from grain}
     - {form: beneath, class: part, field: Ordinary speech, gloss: under or below}
     - {form: besom, class: n, field: Ordinary speech, gloss: a broom made of bundled twigs}
-    - {form: betwixt, class: part, field: Ordinary speech, gloss: between}
+    - form: betwixt
+      class: part
+      field: Ordinary speech
+      gloss: between
+      native: [{map: aelwythi-semaron, text: 󰈱󰈳󰉁󰉄󰈷󰈹󰉀󰉁}]
     - {form: bid, class: v, field: Ordinary speech, gloss: offer a greeting; command or invite}
     - {form: big, class: adj, field: Ordinary speech, gloss: large}
     - form: bill
@@ -2933,19 +3354,33 @@ data:
       field: Ordinary speech
       gloss: put beneath the earth; inter a dead person
       variants: [buried]
-    - {form: calf, class: n, field: Ordinary speech, gloss: a young cow or bull}
-    - {form: cap, class: n, field: Ordinary speech, gloss: a close-fitting head covering}
-    - {form: care, class: n, field: Ordinary speech, gloss: careful attention or concern}
+    - form: calf
+      class: n
+      field: Ordinary speech
+      gloss: a young cow or bull
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈺󰈴}]
+    - form: cap
+      class: n
+      field: Ordinary speech
+      gloss: a close-fitting head covering
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈾}]
+    - form: care
+      class: n
+      field: Ordinary speech
+      gloss: careful attention or concern
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈳}]
     - form: carve
       class: v
       field: Ordinary speech
       gloss: [cut a shape or mark into a material, cut portions from cooked meat]
       variants: [carved]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰉃󰈳}]
     - form: cast
       class: v
       field: Ordinary speech
       gloss: throw; shed or lose, as an ewe losing her unborn lamb
       variants: [casteth]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰉀󰉁}]
     - form: champion
       class: n
       field: Ordinary speech
@@ -2971,51 +3406,99 @@ data:
       field: Ordinary speech
       gloss: block or fill a passage so that it cannot run freely
       variants: [choked]
-    - {form: clean, class: adj, field: Ordinary speech, gloss: free from dirt or stain}
-    - {form: coat, class: n, field: Ordinary speech, gloss: an outer garment}
+    - form: clean
+      class: adj
+      field: Ordinary speech
+      gloss: free from dirt or stain
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈳󰈰󰈼}]
+    - form: coat
+      class: n
+      field: Ordinary speech
+      gloss: an outer garment
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈰󰉁}]
     - form: coin
       class: n
       field: Ordinary speech
       gloss: a piece of metal stamped for use as money
-    - {form: common, class: adj, field: Ordinary speech, gloss: shared or ordinary}
-    - {form: con, class: v, field: Ordinary speech, gloss: learn or understand by studying}
-    - {form: corse, class: n, field: Ordinary speech, gloss: a corpse}
-    - {form: cost, class: v, field: Ordinary speech, gloss: require a price or sacrifice}
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈷󰈼}]
+    - form: common
+      class: adj
+      field: Ordinary speech
+      gloss: shared or ordinary
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈻󰈽󰈼}]
+    - form: con
+      class: v
+      field: Ordinary speech
+      gloss: learn or understand by studying
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼}]
+    - form: corse
+      class: n
+      field: Ordinary speech
+      gloss: a corpse
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈿󰉀󰈳}]
+    - form: cost
+      class: v
+      field: Ordinary speech
+      gloss: require a price or sacrifice
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉀󰉁}]
     - form: country
       class: n
       field: Ordinary speech
       gloss: a region or land; the rural land outside towns
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈼󰉁󰈿󰉅}]
     - form: court
       class: n
       field: Ordinary speech
       gloss: an enclosed yard; a ruler's household or an assembly administering justice
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈿󰉁}]
     - form: cow
       class: n
       field: Ordinary speech
       gloss: an adult female of cattle
       variants: [kine]
-    - {form: cradle, class: n, field: Ordinary speech, gloss: a small bed for an infant}
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉄}]
+    - form: cradle
+      class: n
+      field: Ordinary speech
+      gloss: a small bed for an infant
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈰󰈲󰈺󰈳}]
     - form: credit
       class: n
       field: Ordinary speech
       gloss: [trust in someone's word or ability to pay, praise or deserved approval]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈳󰈲󰈷󰉁}]
     - form: cross
       class: v
       field: Ordinary speech
       gloss: pass from one side to the other
       variants: [crossed]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉀󰉀}]
     - form: crossroad
       class: n
       field: Ordinary speech
       gloss: a place where roads meet
       variants: [crossroads]
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉀󰉀󰈿󰈽󰈰󰈲}]
     - form: crown
       class: n
       field: Ordinary speech
       gloss: a ruler's ceremonial headpiece; kingship
-    - {form: cunning, class: n, field: Ordinary speech, gloss: skill or knowledge used cleverly}
-    - {form: cure, class: n, field: Ordinary speech, gloss: a remedy for illness}
-    - {form: cut, class: v, field: Ordinary speech, gloss: divide or wound with an edge}
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉄󰈼}]
+    - form: cunning
+      class: n
+      field: Ordinary speech
+      gloss: skill or knowledge used cleverly
+      native: [{map: aelwythi-semaron, text: 󰈹󰉂󰈼󰈼󰈷󰊎}]
+    - form: cure
+      class: n
+      field: Ordinary speech
+      gloss: a remedy for illness
+      native: [{map: aelwythi-semaron, text: 󰈹󰉂󰈿󰈳}]
+    - form: cut
+      class: v
+      field: Ordinary speech
+      gloss: divide or wound with an edge
+      native: [{map: aelwythi-semaron, text: 󰈹󰉂󰉁}]
     - form: dare
       class: v
       field: Ordinary speech
@@ -3027,6 +3510,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a descent or lowering, as of the setting sun
+      native: [{map: aelwythi-semaron, text: 󰈲󰈳󰈹󰈺󰈷󰈼󰈳}]
     - {form: deep, class: adj, field: Ordinary speech, gloss: extending far down or inward}
     - form: deer
       class: n
@@ -3035,7 +3519,11 @@ data:
       variants: [deer's]
     - {form: den, class: n, field: Ordinary speech, gloss: an animal's lair}
     - {form: disease, class: n, field: Ordinary speech, gloss: an illness}
-    - {form: doctor, class: n, field: Ordinary speech, gloss: a practitioner of medicine}
+    - form: doctor
+      class: n
+      field: Ordinary speech
+      gloss: a practitioner of medicine
+      native: [{map: aelwythi-semaron, text: 󰈲󰈽󰈹󰉁󰈽󰈿}]
     - {form: dog, class: n, field: Ordinary speech, gloss: a domesticated hound}
     - form: draw
       class: v
@@ -3096,7 +3584,11 @@ data:
       field: Ordinary speech
       gloss: place or make so that parts join closely
       variants: [fitted]
-    - {form: fleece, class: n, field: Ordinary speech, gloss: a sheep's woolly coat}
+    - form: fleece
+      class: n
+      field: Ordinary speech
+      gloss: a sheep's woolly coat
+      native: [{map: aelwythi-semaron, text: 󰈴󰈺󰈳󰈳󰉀󰈳}]
     - {form: foal, class: n, field: Ordinary speech, gloss: a young horse}
     - {form: fog, class: n, field: Ordinary speech, gloss: a thick cloud close to the ground}
     - {form: fold, class: n, field: Ordinary speech, gloss: an enclosure for livestock}
@@ -3233,6 +3725,7 @@ data:
       field: Ordinary speech
       gloss: have too little or none of
       variants: [lacketh]
+      native: [{map: aelwythi-semaron, text: 󰈺󰈰󰈹󰈹}]
     - {form: lad, class: n, field: Ordinary speech, gloss: a boy or young man}
     - {form: lamb, class: n, field: Ordinary speech, gloss: a young sheep}
     - form: lap
@@ -3251,7 +3744,11 @@ data:
       gloss: put or set something down
       variants: [laid, laying]
     - {form: let, class: v, field: Ordinary speech, gloss: allow or permit}
-    - {form: licence, class: n, field: Ordinary speech, gloss: permission or freedom to act}
+    - form: licence
+      class: n
+      field: Ordinary speech
+      gloss: permission or freedom to act
+      native: [{map: aelwythi-semaron, text: 󰈺󰈷󰉀󰈳󰈼󰉀󰈳}]
     - form: line
       class: n
       field: Ordinary speech
@@ -3270,7 +3767,11 @@ data:
       gloss: low-lying country
       variants: [lowlands]
     - {form: lubber, class: n, field: Ordinary speech, gloss: a clumsy or idle fellow}
-    - {form: luck, class: n, field: Ordinary speech, gloss: good or bad fortune}
+    - form: luck
+      class: n
+      field: Ordinary speech
+      gloss: good or bad fortune
+      native: [{map: aelwythi-semaron, text: 󰈺󰉂󰈹󰈹}]
     - {form: mail, class: n, field: Ordinary speech, gloss: armour made of linked metal rings}
     - form: manor
       class: n
@@ -3331,7 +3832,11 @@ data:
       field: Ordinary speech
       gloss: be required to pay or return something
       variants: [owed]
-    - {form: ox, class: n, field: Ordinary speech, gloss: a bovine animal kept for work or meat}
+    - form: ox
+      class: n
+      field: Ordinary speech
+      gloss: a bovine animal kept for work or meat
+      native: [{map: aelwythi-semaron, text: 󰈽󰈹󰉀}]
     - form: palsy
       class: n
       field: Ordinary speech
@@ -3355,8 +3860,16 @@ data:
       class: n
       field: Ordinary speech
       gloss: money or goods given to discharge a debt
-    - {form: physic, class: n, field: Ordinary speech, gloss: medicine or a remedy}
-    - {form: piece, class: n, field: Ordinary speech, gloss: a part separated from a whole}
+    - form: physic
+      class: n
+      field: Ordinary speech
+      gloss: medicine or a remedy
+      native: [{map: aelwythi-semaron, text: 󰈾󰈶󰉅󰉀󰈷󰈹}]
+    - form: piece
+      class: n
+      field: Ordinary speech
+      gloss: a part separated from a whole
+      native: [{map: aelwythi-semaron, text: 󰈾󰈷󰈳󰉀󰈳}]
     - form: pip
       class: n
       field: Ordinary speech
@@ -3398,7 +3911,11 @@ data:
       class: v
       field: Ordinary speech
       gloss: understand written words; speak them aloud
-    - {form: record, class: n, field: Ordinary speech, gloss: an account kept in writing}
+    - form: record
+      class: n
+      field: Ordinary speech
+      gloss: an account kept in writing
+      native: [{map: aelwythi-semaron, text: 󰈿󰈳󰈹󰈽󰈿󰈲}]
     - {form: rich, class: adj, field: Ordinary speech, gloss: possessing much wealth}
     - {form: ride, class: v, field: Ordinary speech, gloss: travel on an animal, variants: [rode]}
     - {form: ring, class: n, field: Ordinary speech, gloss: a circle or circular band}
@@ -3420,8 +3937,16 @@ data:
     - {form: safe, class: adj, field: Ordinary speech, gloss: free from danger or harm}
     - {form: sake, class: n, field: Ordinary speech, gloss: "a purpose, interest or benefit"}
     - {form: save, class: v, field: Ordinary speech, gloss: rescue or preserve from harm}
-    - {form: score, class: n, field: Ordinary speech, gloss: twenty; a counted total}
-    - {form: scratch, class: v, field: Ordinary speech, gloss: mark or scrape with a sharp point}
+    - form: score
+      class: n
+      field: Ordinary speech
+      gloss: twenty; a counted total
+      native: [{map: aelwythi-semaron, text: 󰉀󰈹󰈽󰈿󰈳}]
+    - form: scratch
+      class: v
+      field: Ordinary speech
+      gloss: mark or scrape with a sharp point
+      native: [{map: aelwythi-semaron, text: 󰉀󰈹󰈿󰈰󰉁󰊌}]
     - form: seize
       class: v
       field: Ordinary speech
@@ -3507,7 +4032,11 @@ data:
       field: Ordinary speech
       gloss: a person who manages an estate or household
       variants: [steward's]
-    - {form: stick, class: n, field: Ordinary speech, gloss: a slender piece of wood}
+    - form: stick
+      class: n
+      field: Ordinary speech
+      gloss: a slender piece of wood
+      native: [{map: aelwythi-semaron, text: 󰉀󰉁󰈷󰈹󰈹}]
     - form: stile
       class: n
       field: Ordinary speech
@@ -3559,6 +4088,7 @@ data:
       class: adj
       field: Ordinary speech
       gloss: dense; broad from one surface to another
+      native: [{map: aelwythi-semaron, text: 󰉐󰈷󰈹󰈹}]
     - {form: thin, class: adj, field: Ordinary speech, gloss: narrow from one surface to another}
     - form: thorn
       class: n
@@ -3583,6 +4113,7 @@ data:
       field: Ordinary speech
       gloss: a mark left by passage; a trail
       variants: [tracks]
+      native: [{map: aelwythi-semaron, text: 󰉁󰈿󰈰󰈹󰈹}]
     - {form: trim, class: adj, field: Ordinary speech, gloss: neat and well arranged}
     - {form: try, class: v, field: Ordinary speech, gloss: attempt; test}
     - form: turn
@@ -3739,17 +4270,24 @@ data:
       class: v
       field: Ordinary speech
       gloss: perform a task neatly or thoroughly
+      native: [{map: aelwythi-semaron, text: 󰈲󰈽 󰈷󰉁 󰈹󰈺󰈳󰈰󰈼}]
     - form: to dream
       class: v
       field: Ordinary speech
       gloss: experience images or events in sleep
       variants: [dreamt]
-    - {form: to face, class: v, field: Ordinary speech, gloss: turn toward, variants: [facing]}
+    - form: to face
+      class: v
+      field: Ordinary speech
+      gloss: turn toward
+      variants: [facing]
+      native: [{map: aelwythi-semaron, text: 󰉁󰈽 󰈴󰈰󰉀󰈳}]
     - form: to clear
       class: v
       field: Ordinary speech
       gloss: remove trees or obstacles from
       variants: [cleared]
+      native: [{map: aelwythi-semaron, text: 󰉁󰈽 󰈹󰈺󰈳󰈰󰈿}]
     - {form: to light, class: v, field: Ordinary speech, gloss: set alight, variants: [lit]}
     - {form: to like, class: v, field: Ordinary speech, gloss: take pleasure in, variants: [liken]}
     - form: to lie
@@ -3767,7 +4305,12 @@ data:
       field: Ordinary speech
       gloss: place a crown on someone as ruler
       variants: [crowned]
-    - {form: to cure, class: v, field: Ordinary speech, gloss: heal a disease or a sick person}
+      native: [{map: aelwythi-semaron, text: 󰉁󰈽 󰈹󰈿󰈽󰉄󰈼}]
+    - form: to cure
+      class: v
+      field: Ordinary speech
+      gloss: heal a disease or a sick person
+      native: [{map: aelwythi-semaron, text: 󰉁󰈽 󰈹󰉂󰈿󰈳}]
     - {form: to fell, class: v, field: Ordinary speech, gloss: cut down a tree}
     - {form: to fill, class: v, field: Ordinary speech, gloss: make full}
     - {form: to mind, class: v, field: Ordinary speech, gloss: pay attention to; take care of}
@@ -3786,7 +4329,11 @@ data:
       class: v
       field: Ordinary speech
       gloss: prepare a candle by cutting its wick
-    - {form: wickedness, class: n, field: Ordinary speech, gloss: evil or wrongdoing}
+    - form: wickedness
+      class: n
+      field: Ordinary speech
+      gloss: evil or wrongdoing
+      native: [{map: aelwythi-semaron, text: 󰉄󰈷󰈹󰈹󰈳󰈲󰈼󰈳󰉀󰉀}]
     - {form: yield, class: v, field: Ordinary speech, gloss: give way or surrender}
     - {form: oath, class: n, field: Ordinary speech, gloss: a solemn binding promise}
     - {form: warn, class: v, field: Ordinary speech, gloss: give notice of danger or consequences}
@@ -3798,9 +4345,795 @@ data:
       class: n
       field: Ordinary speech
       gloss: a place where a road or waterway can be crossed
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉀󰉀󰈷󰊎}]
     - {form: saw, class: n, field: Ordinary speech, gloss: a proverb or customary saying}
     - {form: burden, class: n, field: Ordinary speech, gloss: the repeated refrain of a song}
     - {form: saving, class: part, field: Ordinary speech, gloss: except; with the exception of}
+    - form: uncle's
+      class: n
+      gloss: Recorded variant of uncle
+      field: Kindred and society
+      native: [{map: aelwythi-semaron, text: 󰉂󰈼󰈹󰈺󰈳󰉀}]
+    - form: candles
+      class: n
+      gloss: Recorded variant of candle
+      field: Needs and the household
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼󰈲󰈺󰈳󰉀}]
+    - form: counted
+      class: v
+      gloss: Recorded variant of count
+      field: Number and appearance
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈼󰉁󰈳󰈲}]
+    - form: comest
+      class: v
+      gloss: Recorded variant of come
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈳󰉀󰉁}]
+    - form: cometh
+      class: v
+      gloss: Recorded variant of come
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈳󰉐}]
+    - form: comen
+      class: v
+      gloss: Recorded variant of come
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈻󰈳󰈼}]
+    - form: came
+      class: v
+      gloss: Recorded variant of come
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈻󰈳}]
+    - form: carriest
+      class: v
+      gloss: Recorded variant of carry
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈿󰈷󰈳󰉀󰉁}]
+    - form: carrieth
+      class: v
+      gloss: Recorded variant of carry
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈿󰈷󰈳󰉐}]
+    - form: carryen
+      class: v
+      gloss: Recorded variant of carry
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈿󰉅󰈳󰈼}]
+    - form: carried
+      class: v
+      gloss: Recorded variant of carry
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈿󰈷󰈳󰈲}]
+    - form: carrying
+      class: v
+      gloss: Recorded variant of carry
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈿󰉅󰈷󰊎}]
+    - form: called
+      class: v
+      gloss: Recorded variant of call
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈺󰈺󰈳󰈲}]
+    - form: calleth
+      class: v
+      gloss: Recorded variant of call
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈺󰈺󰈳󰉐}]
+    - form: crying
+      class: v
+      gloss: Recorded variant of cry aloud
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰉅󰈷󰊎}]
+    - form: struck
+      class: v
+      gloss: Recorded variant of strike
+      field: Doing and being
+      native: [{map: aelwythi-semaron, text: 󰉀󰉁󰈿󰉂󰈹󰈹}]
+    - form: canst
+      class: v
+      gloss: Recorded variant of can
+      field: Ability and conversation
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼󰉀󰉁}]
+    - form: could
+      class: v
+      gloss: Recorded variant of can
+      field: Ability and conversation
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰉂󰈺󰈲}]
+    - form: canst not
+      class: v
+      gloss: Recorded variant of cannot
+      field: Ability and conversation
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈼󰉀󰉁 󰈼󰈽󰉁}]
+    - form: acorns
+      class: n
+      gloss: Recorded variant of acorn
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈰󰈹󰈽󰈿󰈼󰉀}]
+    - form: carved
+      class: v
+      gloss: Recorded variant of carve
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰉃󰈳󰈲}]
+    - form: casteth
+      class: v
+      gloss: Recorded variant of cast
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰉀󰉁󰈳󰉐}]
+    - form: crossed
+      class: v
+      gloss: Recorded variant of cross
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉀󰉀󰈳󰈲}]
+    - form: crossroads
+      class: n
+      gloss: Recorded variant of crossroad
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉀󰉀󰈿󰈽󰈰󰈲󰉀}]
+    - form: lacketh
+      class: v
+      gloss: Recorded variant of lack
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈺󰈰󰈹󰈹󰈳󰉐}]
+    - form: tracks
+      class: n
+      gloss: Recorded variant of track
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰉁󰈿󰈰󰈹󰈹󰉀}]
+    - form: facing
+      class: v
+      gloss: Recorded variant of to face
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈴󰈰󰉀󰈷󰊎}]
+    - form: cleared
+      class: v
+      gloss: Recorded variant of to clear
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈳󰈰󰈿󰈳󰈲}]
+    - form: crowned
+      class: v
+      gloss: Recorded variant of to crown
+      field: Ordinary speech
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈽󰉄󰈼󰈳󰈲}]
+    - form: Conquer
+      class: v
+      gloss: Capitalized spelling of conquer
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉇󰉂󰈳󰈿}]
+      field: Ordinary speech
+    - form: Courteous
+      class: adj
+      gloss: Capitalized spelling of courteous
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈿󰉁󰈳󰈽󰉂󰉀}]
+      field: Ordinary speech
+    - form: Covetousness
+      class: n
+      gloss: Capitalized spelling of covetousness
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉃󰈳󰉁󰈽󰉂󰉀󰈼󰈳󰉀󰉀}]
+      field: Feelings and affections
+    - form: Contentment
+      class: n
+      gloss: Capitalized spelling of contentment
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉁󰈳󰈼󰉁󰈻󰈳󰈼󰉁}]
+      field: Feelings and affections
+    - form: Courage
+      class: n
+      gloss: Capitalized spelling of courage
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈿󰈰󰈵󰈳}]
+      field: Feelings and affections
+    - form: Confidence
+      class: n
+      gloss: Capitalized spelling of confidence
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰈴󰈷󰈲󰈳󰈼󰉀󰈳}]
+      field: Feelings and affections
+    - form: Compassion
+      class: n
+      gloss: Capitalized spelling of compassion
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈾󰈰󰉀󰉀󰈷󰈽󰈼}]
+      field: Feelings and affections
+    - form: Contempt
+      class: n
+      gloss: Capitalized spelling of contempt
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉁󰈳󰈻󰈾󰉁}]
+      field: Feelings and affections
+    - form: Chest
+      class: n
+      gloss: Capitalized spelling of chest
+      native: [{map: aelwythi-semaron, text: 󰊍󰈳󰉀󰉁}]
+      field: Senses and the body
+    - form: Chin
+      class: n
+      gloss: Capitalized spelling of chin
+      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈼}]
+      field: Senses and the body
+    - form: Cheek
+      class: n
+      gloss: Capitalized spelling of cheek
+      native: [{map: aelwythi-semaron, text: 󰊍󰈳󰈳󰈹}]
+      field: Senses and the body
+    - form: Cool
+      class: adj
+      gloss: Capitalized spelling of cool
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈽󰈺}]
+      field: Needs and the household
+    - form: Conceive
+      class: v
+      gloss: Capitalized spelling of conceive
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉀󰈳󰈷󰉃󰈳}]
+      field: Needs and the household
+    - form: Cold
+      class: adj
+      gloss: Capitalized spelling of cold
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈺󰈲}]
+      field: Senses and the body
+    - form: Child
+      class: n
+      gloss: Capitalized spelling of child
+      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈺󰈲}]
+      field: Kindred and society
+    - form: Cousin
+      class: n
+      gloss: Capitalized spelling of cousin
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰉀󰈷󰈼}]
+      field: Kindred and society
+    - form: Companion
+      class: n
+      gloss: Capitalized spelling of companion
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈾󰈰󰈼󰈷󰈽󰈼}]
+      field: Kindred and society
+    - form: Chair
+      class: n
+      gloss: Capitalized spelling of chair
+      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈷󰈿}]
+      field: Needs and the household
+    - form: Cup
+      class: n
+      gloss: Capitalized spelling of cup
+      native: [{map: aelwythi-semaron, text: 󰈉󰉂󰈾}]
+      field: Needs and the household
+    - form: Cloth
+      class: n
+      gloss: Capitalized spelling of cloth
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈽󰉐}]
+      field: Needs and the household
+    - form: Clothes
+      class: n
+      gloss: Capitalized spelling of clothes
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈽󰉐󰈳󰉀}]
+      field: Needs and the household
+    - form: Ceiling
+      class: n
+      gloss: Capitalized spelling of ceiling
+      native: [{map: aelwythi-semaron, text: 󰈐󰈳󰈷󰈺󰈷󰊎}]
+      field: Needs and the household
+    - form: Cord
+      class: n
+      gloss: Capitalized spelling of cord
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈿󰈲}]
+      field: Needs and the household
+    - form: Coal
+      class: n
+      gloss: Capitalized spelling of coal
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈰󰈺}]
+      field: Needs and the household
+    - form: Candle
+      class: n
+      gloss: Capitalized spelling of candle
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈼󰈲󰈺󰈳}]
+      field: Needs and the household
+    - form: Cloak
+      class: n
+      gloss: Capitalized spelling of cloak
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈽󰈰󰈹}]
+      field: Needs and the household
+    - form: Clay
+      class: n
+      gloss: Capitalized spelling of clay
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈰󰉅}]
+      field: Needs and the household
+    - form: Cave
+      class: n
+      gloss: Capitalized spelling of cave
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰉃󰈳}]
+      field: Land and living things
+    - form: Cloud
+      class: n
+      gloss: Capitalized spelling of cloud
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈽󰉂󰈲}]
+      field: Land and living things
+    - form: Clear
+      class: adj
+      gloss: Capitalized spelling of clear
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈳󰈰󰈿}]
+      field: Land and living things
+    - form: Cloudy
+      class: adj
+      gloss: Capitalized spelling of cloudy
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈽󰉂󰈲󰉅}]
+      field: Land and living things
+    - form: Cipher
+      class: num
+      gloss: Capitalized spelling of cipher
+      native: [{map: aelwythi-semaron, text: 󰈐󰈷󰈾󰈶󰈳󰈿}]
+      field: Number and appearance
+    - form: Count
+      class: v
+      gloss: Capitalized spelling of count
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈼󰉁}]
+      field: Number and appearance
+    - form: Come
+      class: v
+      gloss: Capitalized spelling of come
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈳}]
+      field: Doing and being
+    - form: Crawl
+      class: v
+      gloss: Capitalized spelling of crawl
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈰󰉄󰈺}]
+      field: Doing and being
+    - form: Climb
+      class: v
+      gloss: Capitalized spelling of climb
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈷󰈻󰈱}]
+      field: Doing and being
+    - form: Carry
+      class: v
+      gloss: Capitalized spelling of carry
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈿󰉅}]
+      field: Doing and being
+    - form: Catch
+      class: v
+      gloss: Capitalized spelling of catch
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰉁󰊌}]
+      field: Doing and being
+    - form: Create
+      class: v
+      gloss: Capitalized spelling of create
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈳󰈰󰉁󰈳}]
+      field: Doing and being
+    - form: Call
+      class: v
+      gloss: Capitalized spelling of call
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈺󰈺}]
+      field: Doing and being
+    - form: Choose
+      class: v
+      gloss: Capitalized spelling of choose
+      native: [{map: aelwythi-semaron, text: 󰊍󰈽󰈽󰉀󰈳}]
+      field: Doing and being
+    - form: Cease
+      class: v
+      gloss: Capitalized spelling of cease
+      native: [{map: aelwythi-semaron, text: 󰈐󰈳󰈰󰉀󰈳}]
+      field: Doing and being
+    - form: Continue
+      class: v
+      gloss: Capitalized spelling of continue
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉁󰈷󰈼󰉂󰈳}]
+      field: Doing and being
+    - form: Cover
+      class: v
+      gloss: Capitalized spelling of cover
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉃󰈳󰈿}]
+      field: Doing and being
+    - form: Complete
+      class: adj
+      gloss: Capitalized spelling of complete
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈾󰈺󰈳󰉁󰈳}]
+      field: Number and appearance
+    - form: Contrary
+      class: adj
+      gloss: Capitalized spelling of contrary
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼󰉁󰈿󰈰󰈿󰉅}]
+      field: Number and appearance
+    - form: Can
+      class: v
+      gloss: Capitalized spelling of can
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈼}]
+      field: Ability and conversation
+    - form: Cannot
+      class: v
+      gloss: Capitalized spelling of cannot
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈼󰈼󰈽󰉁}]
+      field: Ability and conversation
+    - form: Company
+      class: n
+      gloss: Capitalized spelling of company
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈾󰈰󰈼󰉅}]
+      field: Kindred and society
+    - form: Crowd
+      class: n
+      gloss: Capitalized spelling of crowd
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉄󰈲}]
+      field: Kindred and society
+    - form: Clan
+      class: n
+      gloss: Capitalized spelling of clan
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈰󰈼}]
+      field: Kindred and society
+    - form: Craftsman
+      class: n
+      gloss: Capitalized spelling of craftsman
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈰󰈴󰊊󰈻󰈰󰈼}]
+      field: Kindred and society
+    - form: Custom
+      class: n
+      gloss: Capitalized spelling of custom
+      native: [{map: aelwythi-semaron, text: 󰈉󰉂󰉀󰉁󰈽󰈻}]
+      field: Kindred and society
+    - form: Command
+      class: n
+      gloss: Capitalized spelling of command
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈻󰈰󰈼󰈲}]
+      field: Kindred and society
+    - form: Captivity
+      class: n
+      gloss: Capitalized spelling of captivity
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈾󰉁󰈷󰉃󰈷󰉁󰉅}]
+      field: Kindred and society
+    - form: Change
+      class: n
+      gloss: Capitalized spelling of change
+      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰊎󰈳}]
+      field: Doing and being
+    - form: Cause
+      class: n
+      gloss: Capitalized spelling of cause
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰉂󰉀󰈳}]
+      field: Doing and being
+    - form: Calf
+      class: n
+      gloss: Capitalized spelling of calf
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈺󰈴}]
+      field: Ordinary speech
+    - form: Cap
+      class: n
+      gloss: Capitalized spelling of cap
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈾}]
+      field: Ordinary speech
+    - form: Care
+      class: n
+      gloss: Capitalized spelling of care
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈳}]
+      field: Ordinary speech
+    - form: Carve
+      class: v
+      gloss: Capitalized spelling of carve
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰉃󰈳}]
+      field: Ordinary speech
+    - form: Cast
+      class: v
+      gloss: Capitalized spelling of cast
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰉀󰉁}]
+      field: Ordinary speech
+    - form: Champion
+      class: n
+      gloss: Capitalized spelling of champion
+      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈻󰈾󰈷󰈽󰈼}]
+      field: Ordinary speech
+    - form: Chapel
+      class: n
+      gloss: Capitalized spelling of chapel
+      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈾󰈳󰈺}]
+      field: Ordinary speech
+    - form: Charm
+      class: n
+      gloss: Capitalized spelling of charm
+      native: [{map: aelwythi-semaron, text: 󰊍󰈰󰈿󰈻}]
+      field: Ordinary speech
+    - form: Cheer
+      class: v
+      gloss: Capitalized spelling of cheer
+      native: [{map: aelwythi-semaron, text: 󰊍󰈳󰈳󰈿}]
+      field: Ordinary speech
+    - form: Chill
+      class: adj
+      gloss: Capitalized spelling of chill
+      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈺󰈺}]
+      field: Ordinary speech
+    - form: Chine
+      class: n
+      gloss: Capitalized spelling of chine
+      native: [{map: aelwythi-semaron, text: 󰊍󰈷󰈼󰈳}]
+      field: Ordinary speech
+    - form: Choke
+      class: v
+      gloss: Capitalized spelling of choke
+      native: [{map: aelwythi-semaron, text: 󰊍󰈽󰈹󰈳}]
+      field: Ordinary speech
+    - form: Clean
+      class: adj
+      gloss: Capitalized spelling of clean
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈳󰈰󰈼}]
+      field: Ordinary speech
+    - form: Coat
+      class: n
+      gloss: Capitalized spelling of coat
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈰󰉁}]
+      field: Ordinary speech
+    - form: Coin
+      class: n
+      gloss: Capitalized spelling of coin
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈷󰈼}]
+      field: Ordinary speech
+    - form: Common
+      class: adj
+      gloss: Capitalized spelling of common
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈻󰈽󰈼}]
+      field: Ordinary speech
+    - form: Con
+      class: v
+      gloss: Capitalized spelling of con
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈼}]
+      field: Ordinary speech
+    - form: Corse
+      class: n
+      gloss: Capitalized spelling of corse
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈿󰉀󰈳}]
+      field: Ordinary speech
+    - form: Cost
+      class: v
+      gloss: Capitalized spelling of cost
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉀󰉁}]
+      field: Ordinary speech
+    - form: Country
+      class: n
+      gloss: Capitalized spelling of country
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈼󰉁󰈿󰉅}]
+      field: Ordinary speech
+    - form: Court
+      class: n
+      gloss: Capitalized spelling of court
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈿󰉁}]
+      field: Ordinary speech
+    - form: Cow
+      class: n
+      gloss: Capitalized spelling of cow
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉄}]
+      field: Ordinary speech
+    - form: Cradle
+      class: n
+      gloss: Capitalized spelling of cradle
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈰󰈲󰈺󰈳}]
+      field: Ordinary speech
+    - form: Credit
+      class: n
+      gloss: Capitalized spelling of credit
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈳󰈲󰈷󰉁}]
+      field: Ordinary speech
+    - form: Cross
+      class: v
+      gloss: Capitalized spelling of cross
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉀󰉀}]
+      field: Ordinary speech
+    - form: Crossroad
+      class: n
+      gloss: Capitalized spelling of crossroad
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉀󰉀󰈿󰈽󰈰󰈲}]
+      field: Ordinary speech
+    - form: Crown
+      class: n
+      gloss: Capitalized spelling of crown
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉄󰈼}]
+      field: Ordinary speech
+    - form: Cunning
+      class: n
+      gloss: Capitalized spelling of cunning
+      native: [{map: aelwythi-semaron, text: 󰈉󰉂󰈼󰈼󰈷󰊎}]
+      field: Ordinary speech
+    - form: Cure
+      class: n
+      gloss: Capitalized spelling of cure
+      native: [{map: aelwythi-semaron, text: 󰈉󰉂󰈿󰈳}]
+      field: Ordinary speech
+    - form: Cut
+      class: v
+      gloss: Capitalized spelling of cut
+      native: [{map: aelwythi-semaron, text: 󰈉󰉂󰉁}]
+      field: Ordinary speech
+    - form: Crossing
+      class: n
+      gloss: Capitalized spelling of crossing
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉀󰉀󰈷󰊎}]
+      field: Ordinary speech
+    - form: Candles
+      class: n
+      gloss: Capitalized spelling of candles
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈼󰈲󰈺󰈳󰉀}]
+      field: Needs and the household
+    - form: Counted
+      class: v
+      gloss: Capitalized spelling of counted
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈼󰉁󰈳󰈲}]
+      field: Number and appearance
+    - form: Comest
+      class: v
+      gloss: Capitalized spelling of comest
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈳󰉀󰉁}]
+      field: Doing and being
+    - form: Cometh
+      class: v
+      gloss: Capitalized spelling of cometh
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈳󰉐}]
+      field: Doing and being
+    - form: Comen
+      class: v
+      gloss: Capitalized spelling of comen
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰈻󰈳󰈼}]
+      field: Doing and being
+    - form: Came
+      class: v
+      gloss: Capitalized spelling of came
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈻󰈳}]
+      field: Doing and being
+    - form: Carriest
+      class: v
+      gloss: Capitalized spelling of carriest
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈿󰈷󰈳󰉀󰉁}]
+      field: Doing and being
+    - form: Carrieth
+      class: v
+      gloss: Capitalized spelling of carrieth
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈿󰈷󰈳󰉐}]
+      field: Doing and being
+    - form: Carryen
+      class: v
+      gloss: Capitalized spelling of carryen
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈿󰉅󰈳󰈼}]
+      field: Doing and being
+    - form: Carried
+      class: v
+      gloss: Capitalized spelling of carried
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈿󰈷󰈳󰈲}]
+      field: Doing and being
+    - form: Carrying
+      class: v
+      gloss: Capitalized spelling of carrying
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰈿󰉅󰈷󰊎}]
+      field: Doing and being
+    - form: Called
+      class: v
+      gloss: Capitalized spelling of called
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈺󰈺󰈳󰈲}]
+      field: Doing and being
+    - form: Calleth
+      class: v
+      gloss: Capitalized spelling of calleth
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈺󰈺󰈳󰉐}]
+      field: Doing and being
+    - form: Crying
+      class: v
+      gloss: Capitalized spelling of crying
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰉅󰈷󰊎}]
+      field: Doing and being
+    - form: Canst
+      class: v
+      gloss: Capitalized spelling of canst
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈼󰉀󰉁}]
+      field: Ability and conversation
+    - form: Could
+      class: v
+      gloss: Capitalized spelling of could
+      native: [{map: aelwythi-semaron, text: 󰈉󰈽󰉂󰈺󰈲}]
+      field: Ability and conversation
+    - form: Carved
+      class: v
+      gloss: Capitalized spelling of carved
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰈿󰉃󰈳󰈲}]
+      field: Ordinary speech
+    - form: Casteth
+      class: v
+      gloss: Capitalized spelling of casteth
+      native: [{map: aelwythi-semaron, text: 󰈉󰈰󰉀󰉁󰈳󰉐}]
+      field: Ordinary speech
+    - form: Crossed
+      class: v
+      gloss: Capitalized spelling of crossed
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉀󰉀󰈳󰈲}]
+      field: Ordinary speech
+    - form: Crossroads
+      class: n
+      gloss: Capitalized spelling of crossroads
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉀󰉀󰈿󰈽󰈰󰈲󰉀}]
+      field: Ordinary speech
+    - form: Cleared
+      class: v
+      gloss: Capitalized spelling of cleared
+      native: [{map: aelwythi-semaron, text: 󰈉󰈺󰈳󰈰󰈿󰈳󰈲}]
+      field: Ordinary speech
+    - form: Crowned
+      class: v
+      gloss: Capitalized spelling of crowned
+      native: [{map: aelwythi-semaron, text: 󰈉󰈿󰈽󰉄󰈼󰈳󰈲}]
+      field: Ordinary speech
+    - form: market
+      class: n
+      field: Ordinary speech
+      gloss: a place where goods are bought and sold
+    - {form: wares, class: n, field: Ordinary speech, gloss: goods offered for sale}
+    - form: deceived
+      class: v
+      field: Ordinary speech
+      gloss: misled or disappointed
+      native: [{map: aelwythi-semaron, text: 󰈲󰈳󰉀󰈳󰈷󰉃󰈳󰈲}]
+    - form: content
+      class: adj
+      field: Ordinary speech
+      gloss: satisfied
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈼󰉁󰈳󰈼󰉁}]
+    - form: fulfilled
+      class: v
+      field: Ordinary speech
+      gloss: accomplished or satisfied
+      native: [{map: aelwythi-semaron, text: 󰈴󰉂󰈺󰈴󰈷󰈺󰈺󰈳󰈲}]
+    - form: vexation
+      class: n
+      field: Ordinary speech
+      gloss: annoyance or frustration
+      native: [{map: aelwythi-semaron, text: 󰉃󰈳󰈹󰉀󰈰󰉁󰈷󰈽󰈼}]
+    - form: unexpected
+      class: adj
+      field: Ordinary speech
+      gloss: not anticipated
+      native: [{map: aelwythi-semaron, text: 󰉂󰈼󰈳󰈹󰉀󰈾󰈳󰈹󰉁󰈳󰈲}]
+    - form: close
+      class: adj
+      field: Ordinary speech
+      gloss: intimate or familiar
+      native: [{map: aelwythi-semaron, text: 󰈹󰈺󰈽󰉀󰈳}]
+    - form: carnal
+      class: adj
+      field: Ordinary speech
+      gloss: relating to the body or flesh
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈿󰈼󰈰󰈺}]
+    - form: suck
+      class: v
+      field: Ordinary speech
+      gloss: draw liquid into the mouth
+      native: [{map: aelwythi-semaron, text: 󰉀󰉂󰈹󰈹}]
+    - form: creature
+      class: n
+      field: Ordinary speech
+      gloss: a living being
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰈳󰈰󰉁󰉂󰈿󰈳}]
+    - form: colour
+      class: n
+      field: Ordinary speech
+      gloss: the hue or appearance of something
+      native: [{map: aelwythi-semaron, text: 󰈹󰈽󰈺󰈽󰉂󰈿}]
+    - form: cry
+      class: v
+      field: Ordinary speech
+      gloss: call aloud
+      native: [{map: aelwythi-semaron, text: 󰈹󰈿󰉅}]
+    - form: whence
+      class: adv
+      field: Ordinary speech
+      gloss: from where
+      native: [{map: aelwythi-semaron, text: 󰉄󰈶󰈳󰈼󰉀󰈳}]
+    - form: example
+      class: n
+      field: Ordinary speech
+      gloss: an instance used to illustrate something
+      native: [{map: aelwythi-semaron, text: 󰈳󰈹󰉀󰈰󰈻󰈾󰈺󰈳}]
+    - form: choice
+      class: n
+      field: Ordinary speech
+      gloss: an act or opportunity of choosing
+      native: [{map: aelwythi-semaron, text: 󰊌󰈽󰈷󰉀󰈳}]
+    - form: chance
+      class: n
+      field: Ordinary speech
+      gloss: an unplanned occurrence or opportunity
+      native: [{map: aelwythi-semaron, text: 󰊌󰈰󰈼󰉀󰈳}]
+    - form: hence
+      class: adv
+      field: Ordinary speech
+      gloss: from here
+      native: [{map: aelwythi-semaron, text: 󰈶󰈳󰈼󰉀󰈳}]
+    - form: callest
+      class: v
+      field: Ordinary speech
+      gloss: second-person singular present of call
+      native: [{map: aelwythi-semaron, text: 󰈹󰈰󰈺󰈺󰈳󰉀󰉁}]
   icon: icon-speaking
   templatePriority: null
   packFolder: language
