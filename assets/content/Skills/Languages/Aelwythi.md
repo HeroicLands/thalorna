@@ -44,6 +44,21 @@ data:
       gloss: one who doubts
       native: [{map: aelwythi-semaron, text: 󰉀󰈹󰈳󰈾󰉁󰈷󰈹}]
       field: Ordinary speech
+    - form: pack
+      class: n
+      field: Needs and the household
+      gloss: a bundle carried for a journey
+      native: [{map: aelwythi-semaron, text: 󰈾󰈰󰈹󰈹}]
+    - form: pluck
+      class: v
+      field: Doing and being
+      gloss: pull or pick out
+      native: [{map: aelwythi-semaron, text: 󰈾󰈺󰉂󰈹󰈹}]
+    - form: Blackkiln
+      class: n
+      field: Place and time
+      gloss: The place-name element in Blackkiln Priory
+      native: [{map: aelwythi-semaron, text: 󰈁󰈺󰈰󰈹󰈹󰈹󰈷󰈺󰈼}]
     - form: offering
       class: n
       field: Ordinary speech
