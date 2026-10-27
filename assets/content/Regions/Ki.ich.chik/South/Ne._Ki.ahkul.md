@@ -18,7 +18,7 @@ The city clings to the steep volcanic slopes, its architecture ingeniously adapt
 
 ## Craftsmanship and Economy
 
-Ne’ Ki’ahkul is a city of artisans and craftspeople. Master smiths work copper, gold, and silver into ceremonial objects, weapons, and jewelry of breathtaking quality. Master stoneworkers and craftspeople carve obsidian into blades sharp enough to cut bone, mirrors that show a warrior’s true face, and decorative masks for priestly regalia. The guild system is strong here; master craftspeople train apprentices over many years, passing down closely guarded secrets. The priesthood maintains tight control, demanding that a portion of the finest work be surrendered as tribute.
+Ne’ Ki’ahkul is a city of artisans and craftspeople. The city's _kulishbal_, its smiths, forge iron and steel into the blades, spearheads and breastplates that Ki'ich'chik warriors take to war, and work copper, gold and silver into ceremonial objects and jewelry of breathtaking quality. Master stoneworkers and craftspeople carve obsidian into the priests' ritual blades, sharp enough to cut bone, mirrors that show a warrior’s true face, and decorative masks for priestly regalia. The guild system is strong here; master craftspeople train apprentices over many years, passing down closely guarded secrets. The priesthood maintains tight control, demanding that a portion of the finest work be surrendered as tribute.
 
 ## People and Culture
 

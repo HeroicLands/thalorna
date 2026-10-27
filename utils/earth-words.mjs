@@ -84,7 +84,7 @@ export const SOURCES = {
     "Khazari.md": ["khuzdul"],
     "Khazri.md": ["sogdian", "tajik", "hebrew"],
     "Khelathi.md": ["egyptian"],
-    "Ki.ichek.md": ["yucatec-maya"],
+    "Ki.i.chek.md": ["yucatec-maya"],
     "Nordmal.md": ["old-norse"],
     "Nyaluban.md": ["sotho-tswana", "shona"],
     "Okharic.md": ["tamazight", "hausa"],

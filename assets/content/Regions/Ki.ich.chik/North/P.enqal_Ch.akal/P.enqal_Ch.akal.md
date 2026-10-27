@@ -35,9 +35,9 @@ data:
         title: Warrior
         description: Taker of captives, whose standing rises with each one and whose dress records them.
       - level: 5
-        title: Scribe or Priest
+        title: Priest
         description: >-
-          Keeper of the count of days, the glyphs and the rites, without whom no lord may act at an auspicious hour.
+          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
       - level: 6
         title: K'anulmah
         description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
@@ -58,7 +58,7 @@ data:
       K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
       Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
       P'ilambal: >-
-        Scribe and painter, keeper of the glyphs, the genealogies and the monuments that assert them.
+        Painter and carver, keeper of the genealogies and the monuments that assert them.
       Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
       Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
       Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
@@ -97,7 +97,7 @@ The Ts'okum material culture, as seen in traded and captured goods, tends toward
 
 The Ts'okum maintain steady contact with all neighboring peoples, though these interactions are often tense. Trade negotiations between Ts'okum clans and their neighbors sometimes dissolve into minor raids; the distinction between "tribute," "trade," and "plunder" is often unclear. This unpredictability makes merchant caravans traveling through P'enqal Ch'akal nervous, yet the potential profits from herd-products and the geographic necessity of passing through Ts'okum lands drives steady commerce. Some traders maintain formal relationships with specific Ts'okum clans, paying tribute to those clans in exchange for safe passage; this system works adequately, though it requires constant renegotiation.
 
-The wealth flowing into P'enqal Ch'akal from trade allows the Ts'okum to acquire southern luxury goods—obsidian weapons and ornaments, feathered cloaks, and dyed textiles—that mark the status of wealthy individuals and clans. These acquisitions, combined with the prestige of successful hunts and raids, create a competitive dynamic that sometimes manifests as inter-clan conflicts. The Ts'okum have not yet experienced a major civil war, but the tensions are present; only the threat of external invasion and the seasonal imperatives of the herds keep the Ts'okum sufficiently unified to maintain themselves as a coherent nation.
+The wealth flowing into P'enqal Ch'akal from trade allows the Ts'okum to acquire southern luxury goods—steel blades, obsidian ornaments, feathered cloaks, and dyed textiles—that mark the status of wealthy individuals and clans. These acquisitions, combined with the prestige of successful hunts and raids, create a competitive dynamic that sometimes manifests as inter-clan conflicts. The Ts'okum have not yet experienced a major civil war, but the tensions are present; only the threat of external invasion and the seasonal imperatives of the herds keep the Ts'okum sufficiently unified to maintain themselves as a coherent nation.
 
 ## See Also
 

@@ -40,11 +40,11 @@ The model is Maya logosyllabic writing. Word signs combine with vowel and conson
 
 The following are deliberate Thalorna adaptations. They are not claims about historical Maya practice:
 
-- The common form has compact, standardized working signs suitable for chalk, clay and wax. Its required distinctions survive without pictorial detail. Short labels and account rows are permitted alongside the paired-column monumental layout.
-- Ceremonial forms are elaborate pictorial compositions on temple walls, monuments, pyramids and village-common posts. They retain the working signs' readings, with no separate ceremonial language or second script.
-- Reduced consonant complements and an explicit catch complement make all Ki'i'chek sounds writable without guessing a glottal stop or adding an unspoken vowel. This is the setting's practical solution for its established pronunciation and common spelling. It does not purport to reproduce a deciphered Maya catch glyph.
+- The common hand is built from a small fixed set of strokes and components, each sign filling an undrawn square cell, and is set in columns two signs wide. It suits chalk, stylus and vellum, and is not a reduction of the ceremonial pictures.
+- Ceremonial forms are elaborate pictorial compositions on temple walls, monuments, pyramids and village-common posts. They draw each sign as a picture inside a drawn box and share the common signs' readings, with no separate ceremonial language or second script.
+- The script records concepts, not spellings. Where it writes sounds, as in a name, a closing consonant takes a syllable sign whose vowel is silent, usually an echo of the vowel before it, and a catch is left to the reader. The roman transcription carries every spoken sound.
 - Historical Maya analyses of final syllabic vowels and glottalization differ. [Josserand and Hopkins's workbook](https://www.famsi.org/mayawriting/hopkins/MayaGlyphWritingWrkBk.pdf), printed page 73, explicitly discusses those disagreements. Ki'i'chek does not import a disputed reconstruction as a rule players must learn.
-- Workers have some task-specific literacy. Priests and scribes retain broad literacy, learned calendrical knowledge and specialist command of ceremonial forms. K'otsel remains the distinct knot-record system.
+- Literacy is a sliding scale from 24 core glyphs known almost everywhere to the scribes' full command of the sounds and the priests' sacred glyphs. K'otsel remains the distinct knot-record system.
 
 The owner specifies wild fig inner-bark paper for the folded codices, following the Maya material model.
 
