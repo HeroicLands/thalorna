@@ -9,6 +9,10 @@ import { fileURLToPath } from "node:url";
 import { createHash } from "node:crypto";
 import { scanRuns } from "@heroiclands/package-build/engine/content-scripts";
 import { scanSpans } from "@heroiclands/package-build/engine/content-spans";
+import { scanVerse } from "@heroiclands/package-build/engine/content-verse";
+import { scanScrolls } from "@heroiclands/package-build/engine/content-scroll";
+import { scanBlocks } from "@heroiclands/package-build/engine/content-blocks";
+import { parseExtensionAttributes } from "@heroiclands/package-build/engine/extension-attributes";
 import { readDocument, readLanguageNote } from "./aelwythi-note.mjs";
 
 const LETTERS = /[\p{L}\p{M}]+(?:['’][\p{L}\p{M}]+)*/gu;
@@ -18,6 +22,12 @@ const likeCase = (source, lower) =>
 
 /** One word; ch and qu remain unchanged. No collision is resolved implicitly. */
 export function respellWord(word) {
+    if (fold(word) === "sceptic")
+        return [..."skeptik"]
+            .map((letter, index) =>
+                word[index] === word[index].toUpperCase() ? letter.toUpperCase() : letter,
+            )
+            .join("");
     return word.replace(/sc(?=[eiy])|ck|ch|c|x/gi, (group, offset, whole) => {
         if (/^ch$/i.test(group)) return group;
         const lower = group.toLowerCase();
@@ -80,6 +90,25 @@ export function languageForms(file) {
     return forms;
 }
 
+const AELWYTHI_ENCODINGS = new Set([
+    "aelwsemaronenc",
+    "doc-aelwsemaronenc",
+    "thalorna-note-doc-aelwsemaronenc",
+]);
+const isAelwythiEncoding = (value) =>
+    typeof value === "string" && AELWYTHI_ENCODINGS.has(fold(value));
+const selectedLanguage = (attributes, fallback) =>
+    attributes.lang ??
+    (isAelwythiEncoding(attributes.enc) ? "aelw"
+    : attributes.enc && attributes.enc !== "default" ? "und"
+    : fallback);
+const hasAelwythiSelector = (source) =>
+    [...source.matchAll(/\b(lang|enc)\s*=\s*(?:"([^"]*)"|'([^']*)'|([^\s}]+))/g)].some((match) =>
+        match[1] === "lang" ?
+            /^(?:aelw|art-x-aelw)$/i.test(match[2] ?? match[3] ?? match[4])
+        :   isAelwythiEncoding(match[2] ?? match[3] ?? match[4]),
+    );
+
 /** Exact token edits inside authored Aelwythi runs, excluding targets and attributes. */
 export function scopedEdits(source) {
     const starts = [0];
@@ -90,16 +119,57 @@ export function scopedEdits(source) {
     const ranges = runs.map((run) => {
         const span = byStart.get(run.start);
         return run.kind === "span" ?
-                { from: run.start + 1, to: span.contentEnd, lang: run.lang }
+                {
+                    from: run.start + 1,
+                    to: span.contentEnd,
+                    lang: selectedLanguage(Object.fromEntries(span.attrs), run.lang),
+                }
             :   { from: starts[run.start + 1], to: starts[run.end], lang: run.lang };
     });
+    const replaceRange = (range) => {
+        const index = ranges.findIndex(
+            (other) => other.from === range.from && other.to === range.to,
+        );
+        if (index < 0) ranges.push(range);
+        else ranges[index] = range;
+    };
+    // Read selectors from the authored constructs too: a published scanner may
+    // expose their attributes before it uses enc to infer a run's language.
+    for (const span of spans) {
+        const attributes = Object.fromEntries(span.attrs);
+        if (attributes.lang || (attributes.enc && attributes.enc !== "default"))
+            replaceRange({
+                from: span.start + 1,
+                to: span.contentEnd,
+                lang: selectedLanguage(attributes),
+            });
+    }
+    const divs = [];
+    const collectDivs = (text, offset = 0) => {
+        for (const block of scanBlocks(text).blocks) {
+            if (block.name !== "div") continue;
+            divs.push({ ...block, start: offset + block.start, end: offset + block.end });
+            collectDivs(block.body, offset + block.start + 1);
+        }
+    };
+    collectDivs(source);
+    for (const block of [...divs, ...scanVerse(source).blocks, ...scanScrolls(source).blocks]) {
+        const attributes = block.attributes;
+        if (attributes.lang || (attributes.enc && attributes.enc !== "default"))
+            replaceRange({
+                from: starts[block.start + 1],
+                to: starts[block.end],
+                lang: selectedLanguage(attributes),
+            });
+    }
     const masked = [];
     for (const span of spans) masked.push([span.contentEnd, span.end]);
     for (const match of source.matchAll(/\{[^{}\n]*\}/g))
         masked.push([match.index, match.index + match[0].length]);
     for (const match of source.matchAll(/\[\[([^\]\n]+)\]\](?:\{([^}\n]*)\})?/g)) {
         const bar = match[1].indexOf("|");
-        const ownLang = /\blang\s*=\s*["']?([\w-]+)/.exec(match[2] ?? "")?.[1];
+        const attributes = parseExtensionAttributes(match[2] ?? "").values;
+        const ownLang = selectedLanguage(attributes);
         if (bar < 0) masked.push([match.index, match.index + match[0].length]);
         else {
             masked.push([match.index, match.index + 2 + bar + 1]);
@@ -141,7 +211,7 @@ export function migrationReport(root = process.cwd()) {
         .sort()) {
         const file = path.join(content, relativeFile);
         const source = fs.readFileSync(file, "utf8");
-        if (!/(?:lang\s*=\s*["']?aelw)/.test(source)) continue;
+        if (!hasAelwythiSelector(source)) continue;
         for (const edit of scopedEdits(source))
             forms.push({
                 form: edit.form,

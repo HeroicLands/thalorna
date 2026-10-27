@@ -498,23 +498,25 @@ into pronounceable Aelwythi sounds and written by these same rules.
 
 ### Writing these sounds in Semaron
 
-The [[doc-aelwsemaronenc|Aelwythi Semaron Spelling]] uses the existing letters
-and their groups for this orthography. In conventional English words, _th_
-covers both sounds; _sh_ writes the sound of _ship_; _ch_ and _tch_ take _t_ and _sh_; _j_ writes the sound of
-_judge_; _ng_ and _wh_ keep their groups. Vowel spellings and context carry the
-vowel distinctions. The existing group _zh_ can also spell a voiced _sh_ sound
-in a borrowed word; it does not assign that modern reading to every familiar
-word such as _pleasure_. No extra letter is required for this inventory.
+The [[doc-aelwsemaronenc|Aelwythi Semaron Encoding]] writes passages marked
+`enc=aelwsemaronenc`, which supplies the Aelwythi language and Semaron Kuriale
+font defaults. It applies the same character mappings to every word and name;
+there are no word-specific native spellings. The language note defines the
+historical readings of English-derived words and the fixed readings of coined
+words. Encoding writes their Roman spelling without choosing their sounds.
 
-A passage marked `.nativefont lang=aelw` uses that script spelling. Script
-conversion writes characters; it does not choose their sounds. This section
-determines historical readings of English words, and the common transcription
-determines coined readings. In particular, the script conversion of _c_, _x_
-and _qu_ does not recover every English word's sounds. A dictionary native form records
-an exceptional script spelling and takes precedence automatically. The roman
-source keeps conventional English words alongside fixed coined spellings.
-Its language inventory permits period as the sole pause, while possessive apostrophes and word-joining hyphens keep their
-own roles. Direct speech uses no quotation marks.
+Aelwythi has no x, and c occurs only in ch. English-derived words follow the
+language note's respelling rules before they are encoded. The group ch takes
+its own CHEROLA sign; tch is t followed by CHEROLA. The groups sh, th, dh, kh,
+gh, zh, ts and ng take their respective signs, while qu remains q followed by
+u. Single letters retain their case, and a consonant group is lowercase or
+initial-uppercase. Vowels retain their letters; an acute adds only the
+non-printing stress modifier after the vowel.
+
+The shared Roman punctuation standard applies. Period takes POINT, the
+imperative is ‼ and the exclamative is !. Quotation marks and verse line,
+stanza and canto boundaries follow that standard. The encoding note states
+the mappings and executable rules.
 
 ## Vylari
 

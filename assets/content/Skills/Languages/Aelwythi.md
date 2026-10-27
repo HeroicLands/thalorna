@@ -30,7 +30,7 @@ data:
   words:
     - {form: eksakt, class: v, gloss: require or demand, field: Ordinary speech}
     - {form: konquer, class: v, gloss: overcome or subdue, field: Ordinary speech}
-    - {form: septik, class: n, gloss: one who doubts, field: Ordinary speech}
+    - {form: skeptik, class: n, gloss: one who doubts, field: Ordinary speech}
     - {form: pak, class: n, field: Needs and the household, gloss: a bundle carried for a journey}
     - {form: pluk, class: v, field: Doing and being, gloss: pull or pick out}
     - form: offering
@@ -4482,6 +4482,7 @@ Aelwythi respells its English-derived vocabulary consistently:
 - qu and ch remain unchanged.
 
 Thus English silence is Aelwythi silense, pack is pak and exact is eksakt.
+English sceptic is Aelwythi skeptik, an explicit exception to the sc rule.
 The vocabulary records the exceptions needed to distinguish colliding forms:
 English scent is sente, distinct from sent, and thick is thikke. These added
 final e spellings retain their English-derived readings; a single preceding
