@@ -17,11 +17,8 @@ import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
 import { ENGINE_NOTE_SCHEMAS } from "@heroiclands/package-build/engine/note-schemas";
 import { NOTE_SCHEMAS } from "@heroiclands/package-build/sohl/note-schemas";
 import { NOTE_VOCABULARY } from "@heroiclands/package-build/engine/note-vocabulary";
-import { applyMap, compileMap } from "@heroiclands/package-build/engine/text-maps";
-import { renderRuns, runContext } from "@heroiclands/package-build/engine/content-scripts";
-import { nativeLookup } from "@heroiclands/package-build/engine/map-lexicon";
-import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
-import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
+import { renderRuns } from "@heroiclands/package-build/engine/content-scripts";
+import { aelwythiEncoding } from "./aelwythi-encoding.mjs";
 
 function note(file) {
     const raw = fs.readFileSync(file, "utf8");
@@ -97,33 +94,28 @@ test("the expanded Aelwythi entries satisfy the installed frontmatter and lexico
 });
 
 test("every Aelwythi expression and declared variant renders through its actual dictionary and font", () => {
-    const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const ctx = runContext({ ...config, rootDir: process.cwd() }, records);
-    const map = compileMap(spelling.fm.data.map);
-    const native = nativeLookup(ctx.lexicons.get("aelw"), map.name, "semaron-kuriale");
-    const face = resolveScriptFonts(process.cwd()).faces.get("semaron-kuriale");
-    const outlines = fontOutlines(face.file);
-    const box = outlines.glyph("c".codePointAt(0)).index;
+    const { ctx, encode, glyphProblems } = aelwythiEncoding();
+    const findings = [];
     for (const word of language.fm.data.words) {
         for (const form of [word.form, ...(word.variants ?? [])]) {
-            const rendered = renderRuns(`[${form}]{.nativefont lang=aelw}`, ctx);
-            assert.deepEqual(rendered.errors, [], form);
-            const mapped = applyMap(map, form, { font: "semaron-kuriale", native }).text;
-            assert(rendered.markdown.includes(mapped), `actual mapped output for ${form}`);
-            for (const char of mapped) {
-                if (/\s/u.test(char)) continue;
-                if (/\p{Default_Ignorable_Code_Point}/u.test(char)) {
-                    const control = outlines.glyph(char.codePointAt(0));
-                    assert.equal(control?.advance, 0, "a stress control has no advance");
-                    assert.ok(!control?.d, "a stress control has no ink");
-                    continue;
-                }
-                const glyph = outlines.glyph(char.codePointAt(0));
-                assert(face.draws.has(char.codePointAt(0)), `${form}: undeclared glyph ${char}`);
-                assert(glyph?.d && glyph.index !== box, `${form}: missing or boxed glyph ${char}`);
+            const rendered = renderRuns(`[${form}]{enc=aelwsemaronenc}`, ctx);
+            const encoded = encode(form);
+            if (rendered.errors.length || encoded.findings.length)
+                findings.push({ form, rendered: rendered.errors, encoded: encoded.findings });
+            else {
+                assert(
+                    rendered.markdown.includes(encoded.text),
+                    `actual native output for ${form}`,
+                );
+                assert.deepEqual(glyphProblems(encoded.text), [], form);
             }
         }
     }
+    assert.deepEqual(
+        findings,
+        [],
+        "every form must satisfy the encoding; unresolved spellings remain findings",
+    );
 });
 
 test("the published word list appears after its reading guidance and before the naming tables", () => {

@@ -9,11 +9,9 @@ import { scanVerse, verseGroups } from "@heroiclands/package-build/engine/conten
 import { scanFigures } from "@heroiclands/package-build/engine/content-figures";
 import { createRenderer } from "@heroiclands/package-build/engine/content-render";
 import { runContext, scanRuns } from "@heroiclands/package-build/engine/content-scripts";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
-import { nativeLookup } from "@heroiclands/package-build/engine/map-lexicon";
+import { encodeText } from "@heroiclands/package-build/engine/encoding";
+import { aelwythiEncoding } from "./aelwythi-encoding.mjs";
 import { unknownWords } from "@heroiclands/package-build/engine/run-words";
-import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
-import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveWebWikilinks } from "@heroiclands/package-build/engine/wikilinks";
 
 const notes = [...fs.globSync("assets/content/**/*.md")].map((file) => {
@@ -28,20 +26,7 @@ const works = notes.filter(
         scanVerse(body).blocks.length,
 );
 const language = notes.find(({ fm }) => fm?.shortcode === "aelwthlng");
-const spelling = notes.find(({ fm }) => fm?.shortcode === "mapaelwsemaron");
-const records = [language, spelling].map(({ fm, file }) => ({
-    ...fm,
-    file,
-    package: "thalorna",
-    system: "note",
-}));
-const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-const ctx = runContext({ ...config, rootDir: process.cwd() }, records);
-const map = compileMap(spelling.fm.data.map);
-const native = nativeLookup(ctx.lexicons.get("aelw"), map.name, "semaron-kuriale");
-const face = resolveScriptFonts(process.cwd()).faces.get("semaron-kuriale");
-const outlines = fontOutlines(face.file);
-const box = outlines.glyph("c".codePointAt(0)).index;
+const { ctx, encoding, encode, glyphProblems } = aelwythiEncoding();
 const renderer = createRenderer("foundry");
 const localLinks = {
     contentPackage: "thalorna",
@@ -118,7 +103,11 @@ for (const note of [...works, language]) {
                     note.file,
                 );
                 const [nativePart, modernPart, romanPart] = parts;
-                assert.match(nativePart.text, /^\[.*\]\{\.nativefont lang=aelw\}$/, note.file);
+                assert.match(
+                    nativePart.text,
+                    /^\[.*\]\{enc=aelwsemaronenc(?: lang=aelw)?\}$/,
+                    note.file,
+                );
                 assert(modernPart.text.endsWith("{lang=en}"), note.file);
                 assert.match(romanPart.text, /^\[.*\]\{lang=aelw\}$/, note.file);
                 assert.equal(plain(nativePart.text), plain(romanPart.text), note.file);
@@ -142,7 +131,9 @@ for (const note of [...works, language]) {
                 const [, modernPart, romanPart] = groups[i].parts;
                 const modern = modernWords(modernPart.text);
                 const roman = plain(romanPart.text);
-                const mapped = applyMap(map, roman, { font: "semaron-kuriale", native }).text;
+                const encoded = encode(roman);
+                assert.deepEqual(encoded.findings, [], note.file);
+                const mapped = encoded.text + encodeText(encoding, "/");
                 const cells = verseCells(row[1]);
                 assert.deepEqual(
                     cells,
@@ -153,20 +144,7 @@ for (const note of [...works, language]) {
                     row[1].match(/class="verse-number">([^<]*)/)[1],
                     (i + 1) % 5 === 0 ? String(i + 1) : "",
                 );
-                for (const char of mapped) {
-                    if (/\s/u.test(char)) continue;
-                    if (/\p{Default_Ignorable_Code_Point}/u.test(char)) {
-                        const control = outlines.glyph(char.codePointAt(0));
-                        assert.equal(control?.advance, 0, "a stress control has no advance");
-                        assert.ok(!control?.d, "a stress control has no ink");
-                        continue;
-                    }
-                    const glyph = outlines.glyph(char.codePointAt(0));
-                    assert(
-                        face.draws.has(char.codePointAt(0)) && glyph?.d && glyph.index !== box,
-                        `${note.file}: usable glyph for ${char}`,
-                    );
-                }
+                assert.deepEqual(glyphProblems(mapped), [], note.file);
             }
         }
     });
@@ -205,7 +183,7 @@ for (const note of [...works, language]) {
                     "serif",
                     `${note.file}: performed prose keeps its readable Roman text`,
                 );
-                assert.equal(run.map, undefined, note.file);
+                assert.equal(run.enc, "default", note.file);
                 const html = renderer.render(lines.slice(run.start, run.end + 1).join("\n"), {
                     runs: ctx,
                 });

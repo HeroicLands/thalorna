@@ -31,7 +31,7 @@ is ambiguous between one person and several, establish the addressee number.
 Keep prose as prose and preserve the requested verse constraints. The authored
 Aelwythi rules take precedence over generic Shakespearean style.
 
-Ordinary English words use the historical readings specified by the note;
+English-derived words use the note's Aelwythi respellings and historical readings;
 coined forms use its fixed pronunciation rules and foreign names receive
 pronounceable Aelwythi adaptations. The frozen English spelling database serves
 collision checks. It does not supply Aelwythi meanings, grammar or permissible
@@ -55,7 +55,9 @@ reference asset.
 Queries are case-insensitive and normalized to NFC. Exact cited forms, exact
 variants and exact present-table forms are combined, with cited forms ranked
 first, then variants and explicit paradigms. An entry is returned once by its
-positional id. Separate records with the same spelling remain separate senses.
+positional id. Separate records with the same spelling remain separate senses. A registered
+name is also returned by an exact case-insensitive query; will and Will can
+therefore return both the word and the name, preserving each authored case.
 An exact noun does not hide another verb's attested inflection of the same
 spelling. If no exact match exists, lookup searches whole terms in modern
 glosses, ranking exact complete glosses first. It does not stem words, guess
@@ -139,3 +141,12 @@ The focused checks derive the expected lexical inventory and explicit paradigms
 from fixture notes. They also cover same-spelling senses and inflections,
 whole-term meaning search, source immutability, malformed data and anchors,
 linguistic guide extraction, and another language without English paradigms.
+
+## Review respelling candidates
+
+`node utils/aelwythi-respell.mjs` prints a deterministic inventory with source
+locations and newly converging spellings. It does not write files. Mechanical
+candidates do not supersede reviewed forms in the language note: scent is
+sente, thick is thikke and sceptic is skeptik. The word kold and the naming
+element kold are the same lexeme. English glosses and the historical English
+dictionary retain their English spellings.
