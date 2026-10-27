@@ -19,7 +19,7 @@ Southern Ki'ich'chik includes the fertile forests and river basin through which 
 
 ## Character
 
-The south descends in four steps. Ish'bal Tsa'ku is mountains, river valleys and jungle, rich in metal, cacao and feathers. K'ushi Ish'bal is a thin-aired plateau of cold grasslands and a sacred lake, its cities garrison-like and its economy built around provisioning travelers. Q'aptel Tsa'kul is a poisoned threshold of fortress-temples where those bound south buy guides, provisions and blessings. Past it lie blasted rock, ash and ice, where no one rules and the priesthood only watches.
+The south descends in four steps. Ish'bal Tsa'ku is mountains, river valleys and jungle, rich in iron and precious metals, cacao and feathers, and its forges make much of the steel that Ki'ich'chik warriors carry. K'ushi Ish'bal is a thin-aired plateau of cold grasslands and a sacred lake, its cities garrison-like and its economy built around provisioning travelers. Q'aptel Tsa'kul is a poisoned threshold of fortress-temples where those bound south buy guides, provisions and blessings. Past it lie blasted rock, ash and ice, where no one rules and the priesthood only watches.
 
 The [Speaking Road]{.name data-type="affiliation"} thins as the land climbs and falls, and it falls silent beyond K'ushi Ish'bal: the last runner's cord is decoded at the frontier garrison city of [[place-qptlulneok|Q’aptel’ul Ne’ok]], and what lies further south depends on the courage of individual messengers. For warriors and priests the wastes are a proving ground, and surviving them is a mark of worth before the gods.
 

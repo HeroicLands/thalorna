@@ -77,7 +77,7 @@ data:
   seat: null
   population: null
   economy: []
-  lore: []
+  lore: [itsaniclndr]
   parents: []
   relations: {}
   packFolder: pantheonitzani
@@ -134,7 +134,7 @@ The tension within Ki'i'chek politics is not between rival priesthoods of differ
 
 The Itsani faith is organized around the movements of the celestial bodies, which the Ki'i'chek observe with extraordinary precision. The theological framework is built on the interaction of multiple interlocking cycles:
 
-The [Ts'en Cycle]{.name data-type="lore/calendar"} (the 365-day solar year) governs agriculture, seasonal festivals, and the rhythm of daily life. It is divided into eighteen months of twenty days each, plus five liminal days of terrible power at the year's end, when the boundary between worlds grows thin. The [Ts'uqal Cycle]{.name data-type="lore/calendar"} (the lunar month) governs ritual timing, divination, and the worship of the dream and fertility deities. The [Ish'ilan Cycle]{.name data-type="lore/calendar"} (the stellar year) tracks the movements of the fixed stars and governs the great festivals that mark the cosmic ages. And the [Tq'an Cycle]{.name data-type="lore/calendar"} (the 260-day planetary cycle) tracks the movements of the visible planets, each associated with a specific deity, whose conjunctions determine the most auspicious and most dangerous moments in the cosmic calendar.
+The [[lore-itsaniclndr#tsen|Ts'en Cycle]] (the 365-day solar year) governs agriculture, seasonal festivals, and the rhythm of daily life. It is divided into eighteen months of twenty days each, plus five liminal days of terrible power at the year's end, when the boundary between worlds grows thin. The [[lore-itsaniclndr#tsuqal|Ts'uqal Cycle]] (the lunar month) governs ritual timing, divination, and the worship of the dream and fertility deities. The [[lore-itsaniclndr#ishilan|Ish'ilan Cycle]] (the stellar year) tracks the movements of the fixed stars and governs the great festivals that mark the cosmic ages. And the [[lore-itsaniclndr#tqan|Tq'an Cycle]] (the 260-day planetary cycle) tracks the movements of the visible planets, each associated with a specific deity, whose conjunctions determine the most auspicious and most dangerous moments in the cosmic calendar.
 
 Every fifty-two years, when the Ts'en Cycle and the Tq'an Cycle realign, the great [K'ayik Kul'al]{.name data-type="lore/custom"} ("the Living Flame") is conducted. Every fire in the city is ritually extinguished. The temples grow dark. For a day and a night, the city observes silence, believing that if the fire cannot be rekindled, Ts'en'ul Tq'an has withdrawn his sanction and the age is ending. Then, at the appointed hour, the Ch'alish Tq'an and the highest fire-priests ascend the great pyramid. Using obsidian mirrors and polished jade, they focus the rising sun's rays onto dry tinder, seeking to draw fire directly from the celestial sphere. When the first spark catches and a flame springs to life, a roar erupts from the city below. Runners carry the sacred fire to every corner of the city, rekindling every hearth. It is at once a moment of terror and relief, an affirmation of the belief that the gods have granted the city another cycle of life.
 

@@ -97,7 +97,7 @@ Every rite performed by every other branch passes through this one at some point
 
 Domestic worship mirrors the temple's. A household hearth is kindled from the temple flame at the new year and is not permitted to gho out during the five liminal days at the year's end, when the boundary between worlds grows thin; a family whose fire dies in that period is held to have opened a door, and a fire-priest must be fetched to close it. Ash from the year's hearth is kept, and a pinch of it is worked into the plaster when a house is repaired.
 
-Every fifty-two years, when the [Ts'en Cycle]{.name data-type="lore/calendar"} and the [Tq'an Cycle]{.name data-type="lore/calendar"} realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples gho dark; for a day and a night the city keeps silence; then the **Master of the Living Flame** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
+Every fifty-two years, when the [[lore-itsaniclndr#tsen|Ts'en Cycle]] and the [[lore-itsaniclndr#tqan|Tq'an Cycle]] realign, the branch performs the act on which the whole tradition's nerve depends. Every fire in the city is extinguished and the temples gho dark; for a day and a night the city keeps silence; then the **Master of the Living Flame** ascends with the highest hierarch and works the obsidian mirrors against the rising sun until the tinder catches. The **Kindlers** run the new flame to every quarter, and every hearth in the city is lit from one spark.
 
 ## Organization
 

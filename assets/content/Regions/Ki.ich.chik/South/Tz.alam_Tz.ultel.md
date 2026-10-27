@@ -18,7 +18,7 @@ Ts’alam Ts'ultel perches at the highest navigable pass, positioned to command 
 
 ## Military Role
 
-The city hosts the largest garrison of warriors in [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]. Professional soldiers trained in mountain warfare and pass defense garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itsani priesthood]].
+The city hosts the largest garrison of warriors in [[affiliation-ixbaltzaku|Ish'bal Tsa'ku]]. Professional soldiers in steel breastplates, trained in mountain warfare and pass defense, garrison the city year-round, and the priesthood maintains strict military discipline. The city controls all significant movement of goods through the high passes; merchants must declare their cargo and negotiate passage rights with the military commander. This control generates considerable revenue for the [[affiliation-itzanpnthn|Itsani priesthood]].
 
 ## Society
 
