@@ -4468,9 +4468,8 @@ pronunciations for play below do not change a word's lexical identity.
 transcription; this note states the Aelwythi rules in full.
 
 A new, unrecorded coinage must not duplicate a whole English word, including
-its admitted inflections and documented historical spellings. Capitalization,
-pronunciation marks or a hyphen used only to separate groups do not avoid a
-collision; an English root inside a longer coined word is not a whole-word
+its admitted inflections and documented historical spellings. Capitalization
+or pronunciation marks do not avoid a collision; an English root inside a longer coined word is not a whole-word
 collision. The spelling reference is the local English word list at
 `assets/data/english-words.json`. Authored vocabulary and registered names,
 including new forms and explicitly recorded exceptions, stand as given. An English homograph does not invalidate an authoritative entry:
@@ -4690,8 +4689,6 @@ coining another word.
 - A slight vowel may ease an unfamiliar opening consonant cluster. A k or g
   before n may be silent, as in the familiar reading of knee.
 - A breathing h may be silent.
-- An apostrophe's consonant may be said plainly, with a short break after it
-  or none; a catch between vowels may be eased to the same short break or none.
 
 ### Foreign words and names {#foreign-names}
 

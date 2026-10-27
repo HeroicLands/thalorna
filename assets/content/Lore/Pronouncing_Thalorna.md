@@ -314,8 +314,8 @@ data:
         "ipa": ""
         "tongue": ["skill-aelwthlng"]
       - "letters": ["'", "’"]
-        "kind": "omission or possession"
-        "like": "an apostrophe marks omitted sounds or possession; it does not require a glottal stop"
+        "kind": "English source punctuation"
+        "like": "English source apostrophes mark omission or possession; Aelwythi writes possessives with -es and elisions without apostrophes"
         "ipa": ""
         "tongue": ["skill-aelwthlng"]
     marks:
@@ -323,13 +323,13 @@ data:
       - {mark: diaeresis, letters: [ä, ë, ï, ö, ü], kind: apart, limit: one}
 ---
 
-Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives names and coined words one set of readings. Aelwythi uses it for coined words and names; ordinary English words keep readable spellings and the historical readings in its own section.
+Pronouncing Thalorna sets out one transcription system. None of the peoples of [[place-worldthlrn|the World of Thalorna]] write in Roman letters. The common transcription below gives names and coined words one set of readings. Aelwythi uses it for coined words and names; its English-derived vocabulary uses Aelwythi respellings and the historical readings in its own section.
 
 Ease of speaking comes first. Where a sound is hard for a reader, a footnote gives a plain sound to use instead, and the plain sound is always correct.
 
 ## Common pronunciation
 
-A tongue follows this section except where its own section gives a different reading. Aelwythi's coined words and names follow this common transcription, including its stress and apostrophe rules. Its conventional English vocabulary follows the historical readings in the Aelwythi section.
+A tongue follows this section except where its own section gives a different reading. Aelwythi's coined words and names follow the permitted sounds and stress rules of this common transcription; Aelwythi uses neither apostrophes nor hyphens in its Roman spellings. Its English-derived vocabulary follows the historical readings in the Aelwythi section.
 
 A coined spelling has one reading under the applicable rules, including its stress. Capitals have the same sounds as lowercase letters. Read the longest recognized letter group first, from left to right, using only the groups this guide declares for the tongue. Each character belongs to one group. An acute leaves group recognition unchanged; where a tongue permits a diaeresis, it separates the marked vowel from the preceding one. Aelwythi coined words use no diaeresis and never split a recognized vowel group. The plain alternatives for difficult sounds are aids for play, not additional dictionary readings.
 
@@ -409,7 +409,7 @@ No other mark is used in common spelling; Sinale may also annotate pitch and emp
 
 ### The apostrophe
 
-Outside Vylari, an apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mark and does not count against the limit of one. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch.[^catch] A word carries at most two.
+In tongues that write it, an apostrophe marks a catch in the throat, the pause in _uh-oh_. It is not a mark and does not count against the limit of one. After a consonant, as in _k'_ or _ts'_, it means that consonant is said with the same catch.[^catch] A word carries at most two.
 
 ### What is not written
 

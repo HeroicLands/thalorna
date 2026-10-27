@@ -136,6 +136,19 @@ test("literal codage uses the selected font's code names", () => {
     assert.deepEqual(glyphProblems(named.text), []);
 });
 
+test("the pronunciation references keep the Aelwythi orthographic exceptions explicit", () => {
+    const commonOpening = guide.body
+        .split("## Common pronunciation")[1]
+        .split("### English words and coined spellings")[0];
+    assert(commonOpening.includes("neither apostrophes nor hyphens"));
+    assert(!commonOpening.includes("including its stress and apostrophe rules"));
+    const coined = language.body
+        .split("### Coined words and names")[1]
+        .split("### Foreign words and names")[0];
+    assert(!coined.includes("An apostrophe marks"));
+    assert(!coined.includes("An apostrophe's consonant"));
+});
+
 test("sound and encoding frontmatter satisfy the current schema", () => {
     for (const value of [language, guide, own])
         assert.deepEqual(
