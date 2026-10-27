@@ -88,7 +88,7 @@ The Cedar Kingdom trades south along the coast with the [Shell-Bead Towns]{.name
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People, a trading partner beyond the mountains
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
+[[affiliation-tenlaya|Tenlaya]]
 : the Grass People, across the mountains to the east
 
 [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]

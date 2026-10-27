@@ -97,6 +97,8 @@ export const SOURCES = {
     "Taruzeli.md": ["akkadian", "phoenician"],
     // The word lists hold no hopi list, so a Teyumi coinage is checked by reading.
     "Teyumi.md": ["hopi"],
+    // The word lists hold no lakota list, so a Tenlaya coinage is checked by reading.
+    "Tenlaya.md": ["lakota"],
     "Tarveni.md": ["spanish", "basque"],
     "Valtari.md": ["lingua-franca"],
     "Varokhi.md": ["old-high-german", "old-saxon"],

@@ -3403,7 +3403,6 @@ data:
     - {name: Northern Ki'ich'chik, tongue: translation}
     - {name: Owl Keepers, tongue: translation}
     - {name: P'enqal Ch'akal, tongue: kiichek}
-    - {name: P'enqal Ch'akal Region, tongue: translation}
     - {name: P'iqal Kul'qat, tongue: kiichek}
     - {name: P'uqil Ch'akun, tongue: kiichek}
     - {name: Pik'ob, tongue: kiichek}

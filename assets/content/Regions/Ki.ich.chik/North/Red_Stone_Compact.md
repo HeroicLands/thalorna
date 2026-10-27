@@ -44,7 +44,7 @@ data:
   relations:
     osetakona: aligned
     tokchiaska: aligned
-    penqalchakal: aligned
+    tenlaya: aligned
     teyumi: aligned
     ixbalkiahk: aligned
   packFolder: organizations
@@ -53,7 +53,7 @@ sohl: {system: {commonSkills: []}}
 # terran_analog: "the calumet ceremony of the Plains and the Mississippi valley, which made strangers temporary kin, and the Pipestone quarry in Minnesota, a neutral ground where peoples who were otherwise at war quarried catlinite in peace. Precedents for rivals uniting: the Haudenosaunee Confederacy, the Powhatan paramount chiefdom and the Pueblo Revolt of 1680."
 ---
 
-A stranger who comes among the northern nations without kin is anyone's to kill, rob or take captive. A stranger who has smoked the red pipe is a kinsman, owed a seat at the fire and a guide to the next town, by every one of five nations that agree on almost nothing else. The Red Stone Compact is the agreement that makes the second case possible. It binds the [[affiliation-osetakona|Maple People]], the [[affiliation-tokchiaska|One Fire]], the [[affiliation-penqalchakal|Grass People]], the [[affiliation-teyumi|Turquoise People]] and the [[affiliation-ixbalkiahk|Cedar Kingdom]], rivals with standing grievances, into a peace that holds when an outsider comes.
+A stranger who comes among the northern nations without kin is anyone's to kill, rob or take captive. A stranger who has smoked the red pipe is a kinsman, owed a seat at the fire and a guide to the next town, by every one of five nations that agree on almost nothing else. The Red Stone Compact is the agreement that makes the second case possible. It binds the [[affiliation-osetakona|Maple People]], the [[affiliation-tokchiaska|One Fire]], the [[affiliation-tenlaya|Grass People]], the [[affiliation-teyumi|Turquoise People]] and the [[affiliation-ixbalkiahk|Cedar Kingdom]], rivals with standing grievances, into a peace that holds when an outsider comes.
 
 Kind
 : standing peace among five nations, with a council and no government
@@ -125,7 +125,7 @@ Two peoples of the north stand outside the compact. The [Shell-Bead Towns]{.name
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
+[[affiliation-tenlaya|P'enqal Ch'akal]]
 : the Grass People
 
 [[affiliation-teyumi|Teyumi]]

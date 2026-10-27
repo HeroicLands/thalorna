@@ -118,5 +118,5 @@ The Grove's lake country is where the north's copper comes from. It lies in the 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, their rival to the southwest
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
+[[affiliation-tenlaya|P'enqal Ch'akal]]
 : the Grass People, on the plains to the west

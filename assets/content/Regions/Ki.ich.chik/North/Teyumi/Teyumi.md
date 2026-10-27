@@ -109,7 +109,7 @@ Drought is the Turquoise People's great fear. A town's fields, its canals and th
 [[place-chakultzklrgn|Ch'akul Tsa'kul]]
 : the desert whose northern gate they hold
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
+[[affiliation-tenlaya|Tenlaya]]
 : the Grass People, on the plains to the east
 
 [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]

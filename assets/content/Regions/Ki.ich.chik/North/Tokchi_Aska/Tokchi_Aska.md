@@ -57,7 +57,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {redstncmpct: aligned, osetakona: rival, penqalchakal: rival}
+  relations: {redstncmpct: aligned, osetakona: rival, tenlaya: rival}
   packFolder: tokchiaska
 sohl: {system: {commonSkills: []}}
 
@@ -101,7 +101,7 @@ Before a war the Falcon Chief, the Kiyo Imala, leads the falcon dancers through 
 
 ## Neighbors
 
-The other nations see the One Fire as rich, arrogant and expansionist, and the One Fire sees them as poor. It contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier to the northeast, with the [[affiliation-osetakona|Maple People]], who tell the Suns at every council that hereditary rule is what their own councils exist to prevent. Its western towns suffer the raids of the [[affiliation-penqalchakal|Grass People]] and trade with them in the same season.
+The other nations see the One Fire as rich, arrogant and expansionist, and the One Fire sees them as poor. It contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier to the northeast, with the [[affiliation-osetakona|Maple People]], who tell the Suns at every council that hereditary rule is what their own councils exist to prevent. Its western towns suffer the raids of the [[affiliation-tenlaya|Grass People]] and trade with them in the same season.
 
 In the [[affiliation-redstncmpct|Red Stone Compact]] the One Fire sends Nobles of the Sun's house as its delegates. It brings the compact what no other nation can: population, a granary that can feed an army, and the coast towns' canoes, which are the north's only navy on the gulf. Of all the compact's nations it is the one most tempted to make a private bargain with the south, and the others watch it for that.
 
@@ -134,5 +134,5 @@ The heartland's craftsmen work copper brought from the Maple People's lake count
 [[affiliation-osetakona|Osetakona]]
 : the Maple People, its rival to the northeast
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
+[[affiliation-tenlaya|P'enqal Ch'akal]]
 : the Grass People, on the plains to the west

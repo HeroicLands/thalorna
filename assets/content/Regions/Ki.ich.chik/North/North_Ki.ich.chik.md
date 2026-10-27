@@ -31,8 +31,8 @@ Each nation is a confederacy of many towns or bands that share a family of langu
 [[affiliation-tokchiaska|One Fire]]
 : Tokchi Aska in its own tongue, Ts'uma No'tun in the south's, the Serpent People. Mound cities in the valley of the great river, ruled by paramount chiefs who claim descent from the Sun, with seafaring provinces on the southern shell coasts and the old eastern ranges at its back. It is the richest and most populous nation, the most centralized, and the one the others trust least.
 
-[[affiliation-penqalchakal|Grass People]]
-: P'enqal Ch'akal, the Coyote People. Hunting bands that follow the herds on foot with dogs and travois, and farming villages of earth lodges along the rivers. Their hunt chiefs and war leaders hold power for a season, and warrior societies police the communal hunts.
+[[affiliation-tenlaya|Grass People]]
+: Tenlaya in their own tongue, the people of the grass, and P'enqal Ch'akal in the south's, the Coyote People. Hunting bands that follow the herds on foot with dogs and travois, and farming villages of earth lodges along the rivers. Their hunt chiefs and war leaders hold power for a season, and warrior societies police the communal hunts.
 
 [[affiliation-teyumi|Turquoise People]]
 : Teyumi in their own tongue, the people of the turquoise, and Ishtem Tsul in the south's, the Bear People. Towns of multistory stone great houses on the desert's northern rim, linked by straight roads and fed by dry farming and canals. They hold the northern end of every route across the desert, and know the south better than anyone else in the north.

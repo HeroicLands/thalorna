@@ -57,8 +57,8 @@ The south knows them by Ki'ich'chik names, and the nation-names are exonyms its 
 [[affiliation-tokchiaska|One Fire]]
 : Tokchi Aska in its own tongue; Ts'uma No'tun, the Ch'akun Ts'omalil ("Serpent People"), in Ki'ich'chik: mound cities in the great river valley under Sun-born paramount chiefs, with seafaring provinces on the southern coasts
 
-[[affiliation-penqalchakal|Grass People]]
-: P'enqal Ch'akal, the Ts'okum Ts'omalil ("Coyote People"): bison hunters on foot and earth-lodge farmers of the central grasslands
+[[affiliation-tenlaya|Grass People]]
+: Tenlaya in their own tongue; P'enqal Ch'akal, the Ts'okum Ts'omalil ("Coyote People"), in Ki'ich'chik: bison hunters on foot and earth-lodge farmers of the central grasslands
 
 [[affiliation-teyumi|Turquoise People]]
 : the Teyumi in their own tongue and Ishtem Tsul, the Bear People, in the south's: builders of stone great houses on the desert's northern rim, who keep the northern end of the desert routes

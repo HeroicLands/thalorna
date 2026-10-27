@@ -37,7 +37,7 @@ Between the Pine People and the Falls People lies the [Lake of Islands]{.name da
 
 ## Borders and Trade
 
-To the west the forest gives way to the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the Birch People trade and fight with the Grass People. To the southwest lies [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the Grove contests with the One Fire, and beyond it the old ranges of the [[place-tokchiaskargn|Tokchi Aska Region]].
+To the west the forest gives way to the grassland of [[place-tenlayargn|P'enqal Ch'akal]], where the Birch People trade and fight with the Grass People. To the southwest lies [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the Grove contests with the One Fire, and beyond it the old ranges of the [[place-tokchiaskargn|Tokchi Aska Region]].
 
 The Maple People's canoes carry copper, furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and on to the other nations. Their copper reaches every corner of the north, and the One Fire's engravers depend on it.
 
