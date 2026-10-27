@@ -6,7 +6,7 @@ subType: language
 description: "The common tongue of the forest peoples of central Zerathia: small, open and unwritten, spoken with a different accent and a different word for the sacred by each of the four traditions."
 tags: []
 data:
-  roman: "abdeghiklmnoprstuwyABDEGHIKLMNOPRSTUWY0123456789.,;:?!“”()—–…-"
+  roman: "abdeghiklmnoprstuwyABDEGHIKLMNOPRSTUWY0123456789()–-"
   core: true
   abbreviation: Ekp.
   fields:

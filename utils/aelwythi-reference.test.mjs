@@ -162,7 +162,7 @@ Review a passage by meaning first.
 ### Sample passages
 
 \`\`\`verse
-[NATIVE-VERSE]{.nativefont}
+[NATIVE-VERSE]{enc=aelwsemaronenc}
 \`\`\`
 
 ## Naming Traditions
@@ -351,4 +351,26 @@ describe("direct Aelwythi language-note lookup", () => {
         assert.equal(lookup(f, ["--reference", f.out, "saith"]).status, 2);
         assert.equal(lookup(f, ["saith", "--limit", "0"]).status, 2);
     });
+});
+
+it("returns a word and a registered name together without changing their case", () => {
+    const f = fixture();
+    const source = fs.readFileSync(f.source, "utf8");
+    const front = /^---\n([^]*?)\n---\n/.exec(source);
+    const fm = YAML.parse(front[1]);
+    fm.data.words.push({ form: "will", class: "v", gloss: "intend or wish" });
+    fm.data.register.push({ name: "Will", kind: "given" });
+    fs.writeFileSync(
+        f.source,
+        "---\n" + YAML.stringify(fm) + "---\n" + source.slice(front[0].length),
+    );
+    const result = lookup(f, ["WILL"]);
+    assert.equal(result.status, 0, result.stderr);
+    assert.deepEqual(
+        JSON.parse(result.stdout).entries.map(({ form, class: kind }) => [form, kind]),
+        [
+            ["will", "v"],
+            ["Will", "name"],
+        ],
+    );
 });

@@ -6,7 +6,7 @@ subType: language
 description: "The unwritten tongue of the Cedar People of the western coast: long, clustered words full of k, kw and ts, built up from short roots, spoken in the plank houses from the fjords to the outer beaches."
 tags: []
 data:
-  roman: "abdeghiklmnopstuwyáéíóú0123456789.,?!“”—…-'"
+  roman: "abdeghiklmnopstuwyáéíóú0123456789-'"
   core: true
   abbreviation: Kel.
   fields:

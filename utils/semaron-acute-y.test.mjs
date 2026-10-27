@@ -5,8 +5,10 @@ import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
-import { applyMap, compileMap, checkMapField } from "@heroiclands/package-build/engine/text-maps";
-import { renderRuns, runContext } from "@heroiclands/package-build/engine/content-scripts";
+import { compileEncoding } from "@heroiclands/package-build/engine/encoding";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { renderRuns } from "@heroiclands/package-build/engine/content-scripts";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 import { lintNote } from "@heroiclands/package-build/engine/frontmatter-lint";
@@ -20,8 +22,13 @@ const read = (file) => {
 };
 const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
 const language = read("assets/content/Skills/Languages/Elavendri.md");
-const map = compileMap(spelling.fm.data.map);
-const write = (text) => applyMap(map, text, { font: "semaron-kuriale" }).text;
+const reference = encodingReference("elav");
+const map = reference.encoding;
+const write = (text) => {
+    const result = encodeWithLanguage(map, text, { font: "semaron-kuriale" });
+    assert.deepEqual(result.findings, [], text);
+    return result.text;
+};
 const points = (text) => [...text].map((char) => char.codePointAt(0));
 const glyphs = (...codes) => String.fromCodePoint(...codes);
 
@@ -44,24 +51,34 @@ test("acute y has the same literal contextual signs as plain y in both cases", (
 });
 
 test("existing Semaron inputs keep their mapping and normalization behavior", () => {
-    const oldMap = compileMap({
-        ...spelling.fm.data.map,
-        rows: spelling.fm.data.map.rows.filter(
-            (row) => !["ý", "Ý"].includes(Array.isArray(row) ? row[0] : row.from),
-        ),
-    });
-    for (const row of oldMap.rows) {
+    const { packFolder: _packFolder, ...data } = reference.spelling.fm.data;
+    const oldMap = compileEncoding(
+        {
+            ...data,
+            mappings: Object.fromEntries(
+                Object.entries(data.mappings).filter(([from]) => !["ý", "Ý"].includes(from)),
+            ),
+            rules: {
+                ...data.rules,
+                "contextual-mappings": (data.rules["contextual-mappings"] ?? []).filter(
+                    (row) => !["ý", "Ý"].includes(row.match),
+                ),
+            },
+        },
+        { codes: reference.codes, name: "existing-elavendri-spellings" },
+    );
+    for (const from of Object.keys(data.mappings).filter((from) => !/[ýÝ]/u.test(from))) {
         for (const next of ["", ...oldMap.vowels, "n", " ", "."]) {
-            const input = row.from + next;
+            const input = from + next;
             assert.equal(
                 write(input),
-                applyMap(oldMap, input, { font: "semaron-kuriale" }).text,
+                encodeWithLanguage(oldMap, input, { font: oldMap.font }).text,
                 input,
             );
         }
     }
-    assert.equal(write("y\u0301a"), glyphs(0xf0237) + "\u0301" + glyphs(0xf0230));
-    assert.equal(write("Y\u0301a"), glyphs(0xf0207) + "\u0301" + glyphs(0xf0230));
+    assert.equal(write("y\u0301a"), write("ýa"));
+    assert.equal(write("Y\u0301a"), write("Ýa"));
 });
 
 test("the original Élavendri acute-y words render through their real map and outlined font", () => {
@@ -79,7 +96,7 @@ test("the original Élavendri acute-y words render through their real map and ou
         system: "note",
     }));
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, records);
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, records);
     const face = resolveScriptFonts(process.cwd()).faces.get("semaron-kuriale");
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
@@ -90,7 +107,7 @@ test("the original Élavendri acute-y words render through their real map and ou
         );
         const written = write(form);
         const output = renderRuns(
-            `[${form}]{.nativefont lang=elav map=semaron font=semaron-kuriale}`,
+            `[${form}]{lang=elav enc=elavsemaronenc font=semaron-kuriale}`,
             context,
         );
         assert.deepEqual(output.errors, [], form);
@@ -113,5 +130,6 @@ test("the authored Semaron map satisfies its schema and executable map contract"
         }),
         [],
     );
-    assert.deepEqual(checkMapField(spelling), []);
+    assert.equal(reference.encoding.language, "elav");
+    assert.equal(reference.encoding.font, "semaron-kuriale");
 });

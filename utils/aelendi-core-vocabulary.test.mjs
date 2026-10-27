@@ -1,21 +1,18 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { coreReport } from "@heroiclands/package-build/engine/core-report";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
-import { nativeLookup } from "@heroiclands/package-build/engine/map-lexicon";
-import {
-    renderRuns,
-    runContext,
-    scanRuns,
-} from "@heroiclands/package-build/engine/content-scripts";
+import { renderRuns, scanRuns } from "@heroiclands/package-build/engine/content-scripts";
 import { wordRows } from "@heroiclands/package-build/engine/word-rows";
 import { WORD_CLASS_BASES, parseWordClass } from "@heroiclands/package-build/engine/word-classes";
 import { checkLanguageWords } from "@heroiclands/package-build/engine/language-words";
@@ -167,12 +164,12 @@ test("every borrowed word names a real Sinale source", () => {
 
 test("Veldikko mapping and its actual face draw every core expression", () => {
     const spelling = note("assets/content/Lore/Scripts/Veldikko_Aelendi_Spelling.md");
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
+    const map = encodingReference("aele").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
-    assert.equal(map.name, language.fm.data.writtenIn.map);
+    assert.equal(map.language, "aele");
     for (const word of language.fm.data.words) {
-        const written = applyMap(map, word.form, { font: face.slug }).text;
+        const written = encodeWithLanguage(map, word.form, { font: face.slug }).text;
         assert(written.trim(), word.form);
         for (const char of written) {
             if (/\s/u.test(char)) continue;
@@ -217,11 +214,11 @@ test("the coined affirmative keeps its native shape and actual configured render
     const phrase = bindings("of-course")[0];
     assert.deepEqual(phrase.built, [word.form, "tenri"]);
     const spelling = note("assets/content/Lore/Scripts/Veldikko_Aelendi_Spelling.md");
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
+    const map = encodingReference("aele").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -232,15 +229,15 @@ test("the coined affirmative keeps its native shape and actual configured render
     const [[key, definition]] = configured;
     assert(context.wordBooks.has(key));
     assert(context.lexicons.has(key));
-    const native = nativeLookup(context.lexicons.get(key), map.name, face.slug);
-    const attributes = `.nativefont lang=${key} map=${map.name} font=${face.slug}`;
+    const native = serializeLexicon(context.lexicons.get(key));
+    const attributes = `lang=${key} enc=${map.name} font=${face.slug}`;
     const scanned = scanRuns(`[${word.form}]{${attributes}}`, context);
     assert.deepEqual(scanned.errors, []);
     assert.deepEqual(scanned.warnings, []);
     assert.equal(scanned.runs[0].lang, key);
     assert.equal(scanned.runs[0].tag, definition.tag);
     const drawn = (form) => {
-        const written = applyMap(map, form, { font: face.slug, native }).text;
+        const written = encodeWithLanguage(map, form, { font: face.slug, lexicon: native }).text;
         for (const char of written) {
             if (/\s/u.test(char)) continue;
             const code = char.codePointAt(0);

@@ -29,7 +29,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [Uruvaq volket ghozun. Uruvaq yitboq. Qadiz ghaniyush jodur.]{lang=sovi}
 2 [Wind from the grass. First wind. The one arriving green.]{lang=en}
 
-1 [Zilich Kesukur jochun; khizich vomek zilich jiven zevik jochun,]{lang=sovi}
+1 [Zilich Kesukur jochun. khizich vomek zilich jiven zevik jochun,]{lang=sovi}
 2 [We are the Kesukur. These dead belong to others,]{lang=en}
 
 1 [jiviz zilich qaduch ghutar, qavar orolqi zokhun vomek khizich qaduch jiven jochun zökhen]{lang=sovi}
@@ -54,7 +54,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [jiviz ghosun zöret zughish jodur ghanim qadul qadiz chövem.]{lang=sovi}
 2 [and was straining it when the horns came through the palms.]{lang=en}
 
-1 [Orolqi vilaq qadul jiven khözen khödir jeyes; voyer jonkhiq qotur qavun.]{lang=sovi}
+1 [Orolqi vilaq qadul jiven khözen khödir jeyes. voyer jonkhiq qotur qavun.]{lang=sovi}
 2 [They found her cloth upon the reeds; the milk had gone into the ground.]{lang=en}
 
 1 [Qovikh Khuvanur jiven, kodu jetökör ghuzoch jiven jiven mirjol jalud qovikh,]{lang=sovi}
@@ -63,7 +63,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [zokhun qadir qonar qozur shokhun jozul zökir qonir, boyad qonoq jiven qaduch khovuq zökhen,]{lang=sovi}
 2 [with forty mares by the pool and his sons among them:]{lang=en}
 
-1 [qaduch qadir zevik zöder, boyad qadir jiven zevik zöder; qaduch qonar qotim.]{lang=sovi}
+1 [qaduch qadir zevik zöder, boyad qadir jiven zevik zöder. qaduch qonar qotim.]{lang=sovi}
 2 [him they did not spare, nor his sons. The mares they took.]{lang=en}
 
 1 [[Bovilun]{.name data-type="being/npc"}, zonazin zaqin ghodil jiven, zokhun qadul khamaqjivoq jalud zökhen,]{lang=sovi}
@@ -106,7 +106,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [Uruvaq orqaz ghozun. Uruvaq jilar chovur. Qadiz kelod jaziy khonid.]{lang=sovi}
 2 [Wind from heat. Second wind. The one that lowers wells.]{lang=en}
 
-1 [Khilin khizich zubosh qotim, evur qaduch chömel qomul chadash qotur; khilin evur jaziy chödir zughuqat,]{lang=sovi}
+1 [Khilin khizich zubosh qotim, evur qaduch chömel qomul chadash qotur, khilin evur jaziy chödir zughuqat,]{lang=sovi}
 2 [Take these up where the sky can hear; let the sky look down]{lang=en}
 
 1 [jiviz jozul khamaqjivoq khenech kelod diqraq khenech zöret chöze khenech chovin zöken,]{lang=sovi}
@@ -152,7 +152,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [zokhun orolqi qadul volket jömik jeyes, züzin qadul jiven ghachaa khatokh qadul jiven qozabum khödir zökhen,]{lang=sovi}
 2 [found in the grass with her hands over the child beneath her heart,]{lang=en}
 
-1 [jiviz qadul jilin zidun jochun, ghachaa jilin khenech jochun; zilich zidun ghutar.]{lang=sovi}
+1 [jiviz qadul jilin zidun jochun, ghachaa jilin khenech jochun. zilich zidun ghutar.]{lang=sovi}
 2 [who is one name; the child is no name. We call the one.]{lang=en}
 
 1 [Chutakh Khuvanur jiven, zaqin qozur jiviz jumaq, zokhun zaqin qazun qadir toliz yitboq qonir zökhen,]{lang=sovi}
@@ -173,7 +173,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [zayoch numaq ghuyuz Khuvanur qaduch khübir kholiqin zevik qomul,]{lang=sovi}
 2 [so that in darkness the Khuvanur could not tell them apart]{lang=en}
 
-1 [jiviz zevik khuqay; qaduch qazin jilin zidun chovin ghutar, zilich qaduch qadiz chovin ghutar: zetöküs.]{lang=sovi}
+1 [jiviz zevik khuqay. qaduch qazin jilin zidun chovin ghutar, zilich qaduch qadiz chovin ghutar, zetöküs.]{lang=sovi}
 2 [and did not try. They called all three one name. We use it: the sisters.]{lang=en}
 
 1 [Qovikh zokhun qadir qibud Khuvanur jiven jalud zökhen, qoqit jiviz zabakh khuvan chöze chovin,]{lang=sovi}
@@ -204,7 +204,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [zokhun qadiz yadqit jiviz qozud jiviz qovikh cholis jiviz zubiz jeböd zökhen.]{lang=sovi}
 2 [bringing markets, caravans, men who buy and sell.]{lang=en}
 
-1 [Khilin khizich zubosh qotim; jedor khödir Qiiso zughish qavun, jiviz junosh khanalod qavun,]{lang=sovi}
+1 [Khilin khizich zubosh qotim. jedor khödir Qiiso zughish qavun, jiviz junosh khanalod qavun,]{lang=sovi}
 2 [Take these upward. Go through Qiiso on your way; pass above the heads]{lang=en}
 
 1 [zokhir dovaq juchon zökir, zokhir sovid kelod zökir,]{lang=sovi}
@@ -238,16 +238,16 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [jiviz qadir ghakhiq züyid qazodir, koyoz javal, qavar qadiz jölön züyid jochun,]{lang=sovi}
 2 [who finished the bow, says the song: it was almost finished.]{lang=en}
 
-1 [jiviz qadiz qoqit chovin jotok, kuuyo qadiz chovin juyatud zozum; qadiz ghakhiq jilod jochun. Orolqi qadiz volket jömik jeyes.]{lang=sovi}
+1 [jiviz qadiz qoqit chovin jotok, kuuyo qadiz chovin juyatud zozum. qadiz ghakhiq jilod jochun. Orolqi qadiz volket jömik jeyes.]{lang=sovi}
 2 [He strung it, shot it twice. It was a good bow. They found it in the grass.]{lang=en}
 
 1 [Khügibil zokhun volket zazim qazun qadul semok Khuvanur jiven jochun zökhen, soqir zulod jiven,]{lang=sovi}
 2 [A woman of another tribe, guest of the Khuvanur that spring,]{lang=en}
 
-1 [zokhun qadul yolaq qaduch jiven qazim zökhen; zayoch ghunoq qazun qadul Khuvanur jiven jochun,]{lang=sovi}
+1 [zokhun qadul yolaq qaduch jiven qazim zökhen. zayoch ghunoq qazun qadul Khuvanur jiven jochun,]{lang=sovi}
 2 [whose salt she had eaten. That morning, therefore, she was Khuvanur]{lang=en}
 
-1 [zachoq qozabum, jiviz zachoq qozabum zödösh; soqir qonoq jiven]{lang=sovi}
+1 [zachoq qozabum, jiviz zachoq qozabum zödösh, soqir qonoq jiven]{lang=sovi}
 2 [by custom, and died by custom, while her own tribe]{lang=en}
 
 1 [biiloq qozabum kodu chovin qavun, jiviz jakhakh qonoq jiven sovid khovuq jochun.]{lang=sovi}
@@ -268,10 +268,10 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [jiviz qaduch jalud, koyoz javal, qovikh kodu chovin qavun zodin khenech ghachomum ghunolil,]{lang=sovi}
 2 [and held them, the song says, until no men remained to ride them.]{lang=en}
 
-1 [jalivas qadir qaduch khoqoz, zodin biiloq qaduch zevik qonir; qonar khötünür,]{lang=sovi}
+1 [jalivas qadir qaduch khoqoz, zodin biiloq qaduch zevik qonir. qonar khötünür,]{lang=sovi}
 2 [Then he released them so the banner would not have them. The mares ran,]{lang=en}
 
-1 [jiviz orolqi qaduch jüvekh; kodu jetökör ghuzoch orkunoq jilar chovur jiven qoduyuz ghozun jodur.]{lang=sovi}
+1 [jiviz orolqi qaduch jüvekh. kodu jetökör ghuzoch orkunoq jilar chovur jiven qoduyuz ghozun jodur.]{lang=sovi}
 2 [and were caught. From there came the long-legged horses of the second union.]{lang=en}
 
 1 [Chotar qaduch jiven. Qonar Vomek zökir. Khilin khizin javal.]{lang=sovi}
@@ -296,7 +296,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [Khilin khizich zubosh qotim, qolun zevik qavun, qavar khenech qaduch khuzir,]{lang=sovi}
 2 [Take these upward. Go slowly: nothing awaits them]{lang=en}
 
-1 [uruvol zökir volket jüzövey; volket qolun zevik qavun.]{lang=sovi}
+1 [uruvol zökir volket jüzövey, volket qolun zevik qavun.]{lang=sovi}
 2 [at the water except grass, and grass does not hurry.]{lang=en}
 
 1 [Volket zazim qazun züyedüy qadiz zokhaz ghozir chonotoz qazod züyüy jochun. Zöret qokhot juyatud qonir.]{lang=sovi}
@@ -312,7 +312,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 2 [._This is what they are doing._]{lang=en}
 
 ***
-1 [Qazuch zokhun todva jilin qaduch jiven jalud, oqod khizin qaduch zevik züyön zökhen:]{lang=sovi}
+1 [Qazuch zokhun todva jilin qaduch jiven jalud, oqod khizin qaduch zevik züyön zökhen,]{lang=sovi}
 2 [Those whose names the elders hold, beyond the reach of this calling:]{lang=en}
 
 1 [mirjol jalud orolqi, ghachaa voyer zökir, qovikh jögish ghotaz khilod chovom zökir,]{lang=sovi}
@@ -364,13 +364,13 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [qadir zokhun zilich qadir zevik khazil zökhen qadir evur chokham qozabum yemok zodum chezir.]{lang=sovi}
 2 [the one we leave unnamed asked him to swear under open sky.]{lang=en}
 
-1 [Jiviz qadir khizin javal; zilich qadir javal züser khizin javal; khilin zömem khizin javal:]{lang=sovi}
+1 [Jiviz qadir khizin javal. zilich qadir javal züser khizin javal. khilin zömem khizin javal,]{lang=sovi}
 2 [He spoke this. We speak it as he spoke it. You will speak it after:]{lang=en}
 
 1 [Zilir kelod qazin jiviz volket qaduch choyad jiven dovaq jochun.]{lang=sovi}
 2 [_I am dovaq of three wells and the grass between them._]{lang=en}
 
-1 [Zilir Khuvanur zodin qojir; soqir zulod zodin zevik qojir; zudom zulod zilir zodin qojir.]{lang=sovi}
+1 [Zilir Khuvanur zodin qojir, soqir zulod zodin zevik qojir, zudom zulod zilir zodin qojir.]{lang=sovi}
 2 [_I speak for the Khuvanur and for no other tribe, and no other speaks for me._]{lang=en}
 
 1 [Yemok soqir jiven soqir jotok. Zilir volketor zodin khilin qotur zovad yemok khenech qonir.]{lang=sovi}
@@ -382,7 +382,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [.Zilir kelod qazin jiviz volket qaduch choyad jiven dovaq jochun.]{lang=sovi}
 2 [._I am dovaq of three wells and the grass between them._]{lang=en}
 
-1 [.Zilir Khuvanur zodin qojir; soqir zulod zodin zevik qojir; zudom zulod zilir zodin qojir.]{lang=sovi}
+1 [.Zilir Khuvanur zodin qojir, soqir zulod zodin zevik qojir, zudom zulod zilir zodin qojir.]{lang=sovi}
 2 [._I speak for the Khuvanur and for no other tribe, and no other speaks for me._]{lang=en}
 
 1 [.Yemok soqir jiven soqir jotok. Zilir volketor zodin khilin qotur zovad yemok khenech qonir.]{lang=sovi}
@@ -400,13 +400,13 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [jiviz qaduch Gorentoliz jozul khübüsh zökir jalud, khozul qadir jiven jozul qotur,]{lang=sovi}
 2 [had Gorentoliz held beside the pool, his face toward it,]{lang=en}
 
-1 [jiviz qadir zenökh zunadim qazodir; qaduch züyid chomur ghanim qaduch qadir khoqoz,]{lang=sovi}
+1 [jiviz qadir zenökh zunadim qazodir. qaduch züyid chomur ghanim qaduch qadir khoqoz,]{lang=sovi}
 2 [and forced him to watch. When they had finished, they released him]{lang=en}
 
 1 [chöyikh khödir, kodu khenech, uruvol khenech, qibud khenech, soqir khenech chovin,]{lang=sovi}
 2 [on foot, without a horse, water, token or tribe.]{lang=en}
 
-1 [jiviz qadir yodvir zidun kelod zilich jiven qotur zösit; qaduch yodvir zidun khemish jochun; zilich qadir züdes qotim.]{lang=sovi}
+1 [jiviz qadir yodvir zidun kelod zilich jiven qotur zösit, qaduch yodvir zidun khemish jochun. zilich qadir züdes qotim.]{lang=sovi}
 2 [He walked a day to our wells, a day away. We took him in.]{lang=en}
 
 1 [Qadir yolaq zilich jiven jorukhoz qazim. Qadir qadiz zömin qazim. Qadir semok zilich jiven jochun.]{lang=sovi}
@@ -421,7 +421,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [Qadir qaduch javal ghanim zilich qaduch jalud. Jalivas qadir yeloz zilich jiven qotur zomim qavun,]{lang=sovi}
 2 [We held them as he spoke. Then he went out to our laying-out ground]{lang=en}
 
-1 [jiviz khozul qonoq jiven evur qotur khekhül; qadir qoduyuz jochun,]{lang=sovi}
+1 [jiviz khozul qonoq jiven evur qotur khekhül. qadir qoduyuz jochun,]{lang=sovi}
 2 [and lay down, face toward the sky. There he remains.]{lang=en}
 
 1 [jiviz zilich jilin qadir jiven uruvaq shokhun qotur javal, qavar qadir jilin ghuchon ghozun zödösh,]{lang=sovi}
@@ -443,7 +443,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [kelod zotidikh zökir juchon khuqikhash qojir, zaqin yitboq]{lang=sovi} [[lore-hndrdbnnrs|Biiloq Jodun]]{lang=sovi} [jiven ghuyuz,]{lang=sovi}
 2 [spoken at the central well before the moot, in the first year of the [[lore-hndrdbnnrs|Hundred Banners]],]{lang=en}
 
-1 [jiviz jalivas züyedüy todva jögish qazom zanim yemok khizich zömin qojir, evur chokham qozabum:]{lang=sovi}
+1 [jiviz jalivas züyedüy todva jögish qazom zanim yemok khizich zömin qojir, evur chokham qozabum,]{lang=sovi}
 2 [spoken since by each eldest, in these words, beneath open sky:]{lang=en}
 
 1 [Zilich jilin Khuvanur jiven jalud. Zilich qaduch oroqid zilich jiven jömik javal.]{lang=sovi}
@@ -455,7 +455,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [jiviz jilin zokhun orolqi qadiz uruvol zökir javal zökhen biiloq soqir jedor khödir jiven zokhir khuqikhash khazil,]{lang=sovi}
 2 [_and a name said at the water names the banner before every tribe on the road,_]{lang=en}
 
-1 [jiviz zilich koser soqir jedor khödir jiven zokhir qotur zubiz; zilich vomek zodin ghoyurit ghozun zevik zödösh.]{lang=sovi}
+1 [jiviz zilich koser soqir jedor khödir jiven zokhir qotur zubiz, zilich vomek zodin ghoyurit ghozun zevik zödösh.]{lang=sovi}
 2 [_and we sell passage to every tribe on the road, and we will not starve for the dead._]{lang=en}
 
 1 [Jivun soqir zilich chovin jozul zökir zovuz jiviz qaduch javal, qazul zilich qaduch javal.]{lang=sovi}
@@ -477,7 +477,7 @@ The steppe holds that a soul nobody names is not found by the sky-father and is 
 1 [Khilin khonoz khüner chadash jömik zevik khogham zödir. Yodvir ghuyuz chödel khilin jiven zovot qazodir, qavun.]{lang=sovi}
 2 [Do not sleep where the trees are visible. Fill your skins by day and go.]{lang=en}
 
-1 [Zukhizosh zokhun khilin qadiz qoduyuz qonir zökhen khizin zokhun zilich qadiz zusar khilin qotur jeleböl zökhen jochun; khilin qadiz ghozun zevik ghabus.]{lang=sovi}
+1 [Zukhizosh zokhun khilin qadiz qoduyuz qonir zökhen khizin zokhun zilich qadiz zusar khilin qotur jeleböl zökhen jochun, khilin qadiz ghozun zevik ghabus.]{lang=sovi}
 2 [Your dream there is what we have just told you, and you will not wake from it.]{lang=en}
 
 1 [Zilich khilin qotur khizin jeleböl, zodin khilin zukhizosh chivil jochun kholiqin.]{lang=sovi}

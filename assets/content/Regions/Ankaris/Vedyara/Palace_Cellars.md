@@ -27,27 +27,27 @@ The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reig
 : The Barrack, the Hall and the Kitchen {#recitation-excerpt}
 
 ```verse {form=recitation lang=en cols=2 numstep=5}
-1 [Ve ro palda nidgroha trum chambu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [ve ro palda nidgroha trum chambu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [His guards left their barracks for the grain.]{lang=en}
-2 [Ve ro palda nidgroha trum chambu,]{lang=vedy}
+2 [ve ro palda nidgroha trum chambu,]{lang=vedy}
 
-1 [.ghomra tral, ve sadnu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [.ghomra tral, ve sadnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [.He stayed seated in the hall.]{lang=en}
 2 [.ghomra tral, ve sadnu.]{lang=vedy}
 
-1 [Ve ro pachoka bhukhpantra ro narma,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [ve ro pachoka bhukhpantra ro narma,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [His cook knew neighbors in the hungry lanes,]{lang=en}
-2 [Ve ro pachoka bhukhpantra ro narma,]{lang=vedy}
+2 [ve ro pachoka bhukhpantra ro narma,]{lang=vedy}
 
-1 [.ravha sahu uvas.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [.ravha sahu uvas.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [.unable to bear their cries.]{lang=en}
 2 [.ravha sahu uvas.]{lang=vedy}
 
-1 [Sampradeya ehu pantra lampu,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [sampradeya ehu pantra lampu,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [The tradition tells it this way:]{lang=en}
-2 [Sampradeya ehu pantra lampu,]{lang=vedy}
+2 [sampradeya ehu pantra lampu,]{lang=vedy}
 
-1 [.kulka kaldungalnu.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [.kulka kaldungalnu.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [.the kitchen's cup was his last.]{lang=en}
 2 [.kulka kaldungalnu.]{lang=vedy}
 

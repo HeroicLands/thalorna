@@ -1,13 +1,15 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
 import { splitFrontmatter } from "@heroiclands/package-build/engine/diagnostics";
 import { coreReport } from "@heroiclands/package-build/engine/core-report";
 import { dictionaryAndTermRows } from "@heroiclands/package-build/engine/dictionary-rows";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 import { wordRows } from "@heroiclands/package-build/engine/word-rows";
@@ -147,13 +149,13 @@ test("four loves, bodily sensation, emotion and epistemic claims stay distinct",
 
 test("Semaron mapping and its actual face draw every core expression", () => {
     const spelling = note("assets/content/Lore/Scripts/Semaron_Spelling.md");
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
+    const map = encodingReference("vyl").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    assert.equal(map.name, language.fm.data.writtenIn.map);
+    assert.equal(map.language, "vyl");
     for (const word of language.fm.data.words) {
-        const written = applyMap(map, word.form, { font: face.name }).text;
+        const written = encodeWithLanguage(map, word.form, { font: face.name }).text;
         assert(written.trim(), word.form);
         for (const char of written) {
             if (/\s/u.test(char)) continue;

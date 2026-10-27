@@ -100,16 +100,16 @@ The classical chronicles put this in the first year of [[lore-agecopyists|the Ag
 : They Asked for No King {#forty-days-excerpt}
 
 ```verse {form=recitation lang=en cols=2 numstep=5}
-1 [Vena rajva uvas jahnuk.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [vena rajva uvas jahnuk.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [They asked for no king.]{lang=en}
-2 [Vena rajva uvas jahnuk.]{lang=vedy}
+2 [vena rajva uvas jahnuk.]{lang=vedy}
 
 ```
 
 ```verse {form=prose lang=en cols=2 numstep=5}
-1 [Shaltun. Kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. Lipu ro kartu vena vinsa uvas shem lipak.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [shaltun. kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. lipu ro kartu vena vinsa uvas shem lipak.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [Gloss. Those final four words contain the entire matter. The chronicler entered them without comment.]{lang=en}
-2 [Shaltun. Kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. Lipu ro kartu vena vinsa uvas shem lipak.]{lang=vedy}
+2 [shaltun. kaldunganstal sotra shaltu sartu karmu ro shaltun orsa. lipu ro kartu vena vinsa uvas shem lipak.]{lang=vedy}
 
 ```
 
@@ -127,19 +127,19 @@ Each session's [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] closes 
 : The Acknowledgment {#recitation-excerpt}
 
 ```verse {form=recitation lang=en cols=2 numstep=5}
-1 [Mahanodi rajbhumri uvas,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [mahanodi rajbhumri uvas,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [The Mahanodi kingdom is gone.]{lang=en}
-2 [Mahanodi rajbhumri uvas,]{lang=vedy}
+2 [mahanodi rajbhumri uvas,]{lang=vedy}
 
-1 [.anvaru shem kaldun.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [.anvaru shem kaldun.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [.It ended with its due.]{lang=en}
 2 [.anvaru shem kaldun.]{lang=vedy}
 
-1 [Janpoda vi navul rajva ro karmu karmak,]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [janpoda vi navul rajva ro karmu karmak,]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [The janpoda governs in its place,]{lang=en}
-2 [Janpoda vi navul rajva ro karmu karmak,]{lang=vedy}
+2 [janpoda vi navul rajva ro karmu karmak,]{lang=vedy}
 
-1 [.nu ro vranu shem vi.]{.nativefont lang=vedy map=vedyakshara font=vedyakshara-classical}
+1 [.nu ro vranu shem vi.]{lang=vedy enc=vedyvedyaksharaenc font=vedyakshara-classical}
 2 [.with your permission.]{lang=en}
 2 [.nu ro vranu shem vi.]{lang=vedy}
 

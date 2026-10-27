@@ -1,6 +1,9 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
@@ -17,7 +20,6 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 
@@ -163,12 +165,12 @@ test("Élavendri declarations use the installed word and frontmatter contracts",
 
 test("ordinary core expressions have actual Semaron outlines", () => {
     const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
+    const map = encodingReference("elav").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
     for (const { word } of ordinary.filter(({ word }) => ids(word).length)) {
-        const written = applyMap(map, word.form, { font: face.slug }).text;
+        const written = encodeWithLanguage(map, word.form, { font: face.slug }).text;
         assert(written.trim(), word.form);
         for (const char of written) {
             if (/\s/u.test(char)) continue;
@@ -184,9 +186,8 @@ test("ordinary core expressions have actual Semaron outlines", () => {
 test("Élavendri publishes nearest meanings and recognizes inherited words in mapped language runs", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =
         await import("@heroiclands/package-build/engine/lexical-sections");
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
     const sections = lexicalSectionsFor(records).get("thalorna-note-skill-elvndrlng");
     const rendered = insertLexicalSections(splitFrontmatter(language.raw).body, sections).markdown;
     const printable = [...nearest.values()].filter(({ word }) =>
@@ -203,11 +204,11 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
     }
     const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
-    const map = compileMap(spelling.fm.data.map);
+    const map = encodingReference("elav").encoding;
     const configured = Object.entries(config.languages).filter(
         ([, value]) => value.note === `${language.fm.type}-${language.fm.shortcode}`,
     );
@@ -215,9 +216,9 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
     const [[key, definition]] = configured;
     assert(context.wordBooks.has(key));
     assert(context.lexicons.has(key));
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
-    const native = nativeLookup(context.lexicons.get(key), map.name, face.slug);
-    const attributes = `.nativefont lang=${key} map=${map.name} font=${face.slug}`;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+    const native = serializeLexicon(context.lexicons.get(key));
+    const attributes = `lang=${key} enc=${map.name} font=${face.slug}`;
     const scanned = scanRuns(`[${bindings("yes")[0].word.form}]{${attributes}}`, context);
     assert.deepEqual(scanned.errors, []);
     assert.deepEqual(scanned.warnings, []);
@@ -232,9 +233,9 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
     for (const { word } of ordinary.filter(({ word }) => needed.has(word.form))) {
         const output = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(output.errors, [], word.form);
-        const mapped = applyMap(map, word.form, {
+        const mapped = encodeWithLanguage(map, word.form, {
             font: face.slug,
-            native,
+            lexicon: native,
         }).text;
         assert(output.markdown.includes(mapped), `actual mapped word: ${word.form}`);
     }
@@ -249,7 +250,8 @@ test("Élavendri publishes nearest meanings and recognizes inherited words in ma
     assert.equal(context.wordBooks.get(key).accepts(unknown), false);
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    for (const char of applyMap(map, unknown, { font: face.slug, native }).text) {
+    for (const char of encodeWithLanguage(map, unknown, { font: face.slug, lexicon: native })
+        .text) {
         if (/\s/u.test(char)) continue;
         const point = char.codePointAt(0);
         const glyph = outlines.glyph(point);

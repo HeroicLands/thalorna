@@ -1,6 +1,16 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import {
+    beforeEncodingMigration,
+    assertEncodingMigrationPreserved,
+    assertPublicLanguageProjections,
+    contentHash,
+    caselessCitationKey,
+} from "./encoding-preservation.mjs";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import crypto from "node:crypto";
 import { execFileSync } from "node:child_process";
@@ -17,6 +27,9 @@ const language = read("assets/content/Skills/Languages/Khelathi.md");
 const inventory = read("assets/content/Reference/Core_Vocabulary.md");
 const eligible = new Set(WORD_CLASS_BASES.filter((x) => x.glossary).map((x) => x.token));
 const words = language.fm.data.words;
+const historicalCitations = new Set(
+    beforeEncodingMigration(language.file).fm.data.words.slice(0, 156).map(caselessCitationKey),
+);
 // The core migration predates later literature and its additional declarations.
 const beforeLiterature = YAML.parse(
     splitFrontmatter(
@@ -40,7 +53,9 @@ test("Khelathi expresses every current core concept with an ordinary word or exp
     const missing = [...known].filter((id) => !covered.has(id));
     assert.deepEqual(missing, [], `${missing.length} concepts lack ordinary expressions`);
     for (const w of words) for (const id of ids(w)) assert(known.has(id), `${w.form}: ${id}`);
-    assert(!ids(words.find((w) => w.form === "Halzi")).includes("heart"));
+    const rank = language.fm.data.elements.find((element) => element.form === "halzi");
+    assert.equal(rank.word, "halzi");
+    assert(!Object.hasOwn(rank, "concept"));
     assert(ids(words.find((w) => w.form === "halzi")).includes("heart"));
 });
 test("every ordinary Khelathi entry retains its real class and all published senses", () => {
@@ -55,97 +70,35 @@ test("every ordinary Khelathi entry retains its real class and all published sen
         );
     }
 });
-test("Khelathi preserves all original meanings, optional writings and name interpretations", async () => {
-    const hash = (value) =>
-        crypto
-            .createHash("sha256")
-            .update(typeof value === "string" ? value : JSON.stringify(value))
-            .digest("hex");
-    const omitConcept = ({ concept, ...rest }) => rest;
+test("Khelathi preserves all original meanings, optional writings and name interpretations", () => {
+    const before = beforeEncodingMigration(language.file);
+    assertEncodingMigrationPreserved(language, before);
+    assertPublicLanguageProjections(language, before, 156);
     assert.equal(
-        hash(words.slice(0, 156).map(omitConcept)),
+        contentHash(before.fm.data.words.slice(0, 156).map(({ concept, ...rest }) => rest)),
         "69c7a3087d6d15e73722d4c3238d4a7f94a23fb09ec4f0156a842e7e524e0fcb",
     );
-    const fm = structuredClone(language.fm);
+    const fm = structuredClone(before.fm);
     delete fm.data.words;
-    // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete fm.data.roman;
     for (const key of ["affixes", "register"])
         fm.data[key] = fm.data[key].slice(0, beforeLiterature.data[key].length);
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    assert.equal(hash(fm), "ad9d903596d6c43ffbf97f9e20002b4b4262827f95f677d3fcdecdc0e51c6a8b");
+    assert.equal(
+        contentHash(fm),
+        "ad9d903596d6c43ffbf97f9e20002b4b4262827f95f677d3fcdecdc0e51c6a8b",
+    );
     const romanNote =
         "The roman inventory includes `j` and `J` for established place names such as Gar-Medjatozo, alongside the ordinary word sounds.";
-    assert.equal(splitFrontmatter(language.raw).body.split(romanNote).length, 2);
-    const body = splitFrontmatter(language.raw)
+    const body = splitFrontmatter(before.raw)
         .body.replace(romanNote + "\n\n", "")
         .replace(/## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u, "");
-    assert.equal(hash(body), "d65548d88e0876d03ec3e184bf1761eadf2c6332679ff7ed7e57cef89cb8ff54");
-    const originalTagBindings = [
-        ["Halzi", "heart"],
-        ["qelzu", "lock"],
-        ["halzi", "heart"],
-        ["lazen", "one"],
-        ["khul", "two"],
-        ["khemu", "three"],
-        ["tuzar", "four"],
-        ["chalen", "five"],
-        ["chun", "six"],
-        ["salet", "seven"],
-        ["waqen", "eight"],
-        ["qanu", "nine"],
-        ["gerun", "ten"],
-        ["khen", "hundred"],
-        ["qalzun", "thousand"],
-    ];
-    for (const [form, id] of originalTagBindings)
-        if (form !== "Halzi")
-            assert(ids(words.find((w) => w.form === form)).includes(id), `${form}: ${id}`);
-    const originalData = {
-        ...language.fm.data,
-        words: words.slice(0, 156),
-        fields: language.fm.data.fields.slice(0, -1),
-    };
-    const originalRows = dictionaryAndTermRows([{ ...record, data: originalData }]).dictionary;
-    for (const row of originalRows)
-        assert.deepEqual(
-            dictionary.find((r) => r.name === row.name),
-            row,
-            row.name,
-        );
-    const { pieceGlosses } = await import("@heroiclands/package-build/engine/word-rows");
-    const probes = new Set();
-    function collect(value) {
-        if (Array.isArray(value)) {
-            value.forEach(collect);
-            return;
-        }
-        if (!value || typeof value !== "object") return;
-        for (const [key, item] of Object.entries(value)) {
-            if (
-                ["form", "front", "joining", "instead", "near"].includes(key) &&
-                typeof item === "string"
-            )
-                probes.add(item);
-            if (["built", "variants", "elements"].includes(key) && Array.isArray(item))
-                for (const s of item) if (typeof s === "string") probes.add(s);
-            collect(item);
-        }
-    }
-    collect(originalData);
-    for (const form of Object.values(originalData.names.given).flat()) probes.add(form);
-    for (const form of originalData.names.house) probes.add(form);
-    const before = pieceGlosses(originalData),
-        after = pieceGlosses(language.fm.data);
-    for (const form of [...probes].flatMap((f) => [
-        f,
-        f.toLowerCase(),
-        f.replace(/^-+|-+$/gu, ""),
-        f.replace(/^-+|-+$/gu, "").toLowerCase(),
-    ]))
-        if (before(form) !== null)
-            assert.equal(after(form), before(form), `${form}: original piece meaning`);
+    assert.equal(
+        contentHash(body),
+        "d65548d88e0876d03ec3e184bf1761eadf2c6332679ff7ed7e57cef89cb8ff54",
+    );
 });
+
 test("the current word, schema and name contracts accept the Khelathi declarations", async () => {
     const { lintNote } = await import("@heroiclands/package-build/engine/frontmatter-lint");
     const { checkLanguageWords } = await import("@heroiclands/package-build/engine/language-words");
@@ -165,7 +118,9 @@ test("the current word, schema and name contracts accept the Khelathi declaratio
     );
     assert.deepEqual(checkLanguageWords(language), []);
     assert.deepEqual(namesFindings(language, BEING_LOOK_VOCABULARY), []);
-    for (const word of words.slice(156)) {
+    for (const word of words.filter(
+        (word) => !historicalCitations.has(caselessCitationKey(word)),
+    )) {
         assert(eligible.has(parseWordClass(word.class).base), word.form);
         // Core expressions must stand on free ordinary words; literature can cite bound affixes.
         for (const piece of word.concept ? (word.built ?? []) : [])
@@ -176,8 +131,10 @@ test("the current word, schema and name contracts accept the Khelathi declaratio
     }
 });
 test("new Khelathi citations follow the actual syllable and sound edges", () => {
-    for (const word of words.slice(156)) {
-        if (word.form === "Khelathu elu anlagh") continue;
+    for (const word of words.filter(
+        (word) => !historicalCitations.has(caselessCitationKey(word)),
+    )) {
+        if (word.form === "khelathu elu anlagh") continue;
         for (const token of word.form.split(" ")) {
             assert(/^[a-z]+$/iu.test(token), token);
             const sounds = token.toLowerCase().match(/th|sh|kh|gh|ch|./gu);
@@ -212,10 +169,8 @@ test("new Khelathi citations follow the actual syllable and sound edges", () => 
 test("the actual published list and configured Qalezu renderer cover every ordinary citation", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =
         await import("@heroiclands/package-build/engine/lexical-sections");
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const { compileMap, applyMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const key = "thalorna-note-skill-" + language.fm.shortcode;
@@ -232,7 +187,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     }
     const spelling = read("assets/content/Lore/Scripts/Qalezu_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -241,13 +196,13 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     );
     assert(context.wordBooks.has(lang));
     assert(context.lexicons.has(lang));
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
-    assert.equal(map.name, language.fm.data.writtenIn.map);
-    const native = nativeLookup(context.lexicons.get(lang), map.name, face.slug);
+    const map = encodingReference("khel", { font: "qalezu-hand" }).encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+    assert.equal(map.language, "khel");
+    const native = serializeLexicon(context.lexicons.get(lang));
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    const attributes = `.nativefont lang=${lang} map=${map.name} font=${face.slug}`;
+    const attributes = `lang=${lang} enc=${map.name} font=${face.slug}`;
     const scan = scanRuns(`[${ordinary[0].form}]{${attributes}}`, context);
     assert.deepEqual(scan.errors, []);
     assert.equal(scan.runs[0].tag, definition.tag);
@@ -264,7 +219,10 @@ test("the actual published list and configured Qalezu renderer cover every ordin
         }
     };
     for (const word of ordinary) {
-        const mapped = applyMap(map, word.form, { font: face.slug, native }).text;
+        const mapped = encodeWithLanguage(map, word.form, {
+            font: face.slug,
+            lexicon: native,
+        }).text;
         draw(mapped, word.form);
         const rendered = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(rendered.errors, [], word.form);
@@ -272,7 +230,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     }
     const unknown = "qazalazal";
     assert.equal(context.wordBooks.get(lang).accepts(unknown), false);
-    draw(applyMap(map, unknown, { font: face.slug, native }).text, unknown);
+    draw(encodeWithLanguage(map, unknown, { font: face.slug, lexicon: native }).text, unknown);
     const negative = renderRuns(`[${unknown}]{${attributes}}`, context);
     assert.equal(negative.errors.length, 1);
     assert(negative.errors[0].message.includes(`\`${unknown}\` is not a word`));

@@ -30,10 +30,10 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Surer nurel gudesh, surer benu bermil, surer tarem yelhut venem.]{lang=telu}
 2 [Sit on the wall, in the dust, where the shade comes.]{lang=en}
 
-1 [Pel tamker peril vartun; pel gerni, lemir miver lasmer dimal dener tiver.]{lang=telu}
+1 [Pel tamker peril vartun, pel gerni, lemir miver lasmer dimal dener tiver.]{lang=telu}
 2 [One copper buys the gate; another, and I show you everything.]{lang=en}
 
-1 [Hene veme pirsesh. Hene veme nelran. Hene bermal tenesh telver;]{lang=telu}
+1 [Hene veme pirsesh. Hene veme nelran. Hene bermal tenesh telver,]{lang=telu}
 2 [Here is the cloth, here the rim. Where this brown line ends,]{lang=en}
 
 1 [nelim telnir, mavesh telver, tarlim kurnem dener nul het.]{lang=telu}
@@ -45,13 +45,13 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Tavim nelvur mibil miver. Bur lu. Bur yelun. Bur, vanel nelran dener nelran.]{lang=telu}
 2 [Count the blue with me: nine springs, nine channels. Nine across the banks.]{lang=en}
 
-1 [Huri veme nire lem nemi nivun gerhen; dalyim berem hudem]{lang=telu}
+1 [Huri veme nire lem nemi nivun gerhen, dalyim berem hudem]{lang=telu}
 2 [This was the fifth of the seven cities, placed by the mountains]{lang=en}
 
-1 [palen ferul vanel gilsum nali dimal nedim; hiresh danem nelim dener hudem genur.]{lang=telu}
+1 [palen ferul vanel gilsum nali dimal nedim, hiresh danem nelim dener hudem genur.]{lang=telu}
 2 [farthest from their snow, last to receive the melt.]{lang=en}
 
-1 [Miver relmer leshim darvem nemi miver relmer; hunen yirhem vanel budem.]{lang=telu}
+1 [Miver relmer leshim darvem nemi miver relmer. hunen yirhem vanel budem.]{lang=telu}
 2 [I sing as my master sang; his teaching came from clay.]{lang=en}
 
 1 [Tarem budem veme turemi, miver narem hudem dener tiver laskel.]{lang=telu}
@@ -74,13 +74,13 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Sunhemay hurem lumer dener nire nin ser. Hunen hesver kenbesh ser perven.]{lang=telu}
 2 [Sunhemay loved the second half. He let the first burn.]{lang=en}
 
-1 [Hunen hager tenyut nemi dushmen dener shernil benu herun mibil nul vartem;]{lang=telu}
+1 [Hunen hager tenyut nemi dushmen dener shernil benu herun mibil nul vartem,]{lang=telu}
 2 [He kept his debt tablets in a doorless room,]{lang=en}
 
 1 [lemir hunen tenem diven tarem garhel leshim Delkoshekh tenem nartem.]{lang=telu}
 2 [and read them at evening as a priest reads law.]{lang=en}
 
-1 [Hunen nemur velnur, peshden, bihen, tarem gerhen nesh gaven danem hurshel;]{lang=telu}
+1 [Hunen nemur velnur, peshden, bihen, tarem gerhen nesh gaven danem hurshel,]{lang=telu}
 2 [Where the town could not pay, he took land, wells and sons,]{lang=en}
 
 1 [lemir hunen buder verli tenyut peril dimel, lemir hager tenesh lemir tavem.]{lang=telu}
@@ -97,13 +97,13 @@ The common transcription and translation below give one teller's cloth as a cler
 2 [  _Here. The man in brown, the spear across his knee._]{lang=en}
 
 
-1 [Heri veme vermur nemi narvim. Berniray: yumesh nemi hunen veme Bernir.]{lang=telu}
+1 [Heri veme vermur nemi narvim. Berniray, yumesh nemi hunen veme Bernir.]{lang=telu}
 2 [This is the house champion. Berniray, whose name is Oath.]{lang=en}
 
 1 [Hunen danem bernir dener bamden. Bihen nemur dimal nin]{lang=telu}
 2 [He swore to the father. The son inherited both,]{lang=en}
 
-1 [vermur lemir bernir. Heri veme narvun nemi hudem:]{lang=telu}
+1 [vermur lemir bernir. Heri veme narvun nemi hudem,]{lang=telu}
 2 [champion and oath. These were its words:]{lang=en}
 
 1 [Miver veme vartun nemi narvim nemi nelran. Miver tursem yernem nelim hertar.]{lang=telu}
@@ -112,7 +112,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Miver geshem dener het shenir narvim nardem miver geshem dener hudem virem. Miver venem yernem narvim narkem miver.]{lang=telu}
 2 [_I go where the house sends me. I come when the house calls._]{lang=en}
 
-1 [Henhut nemi miver veme henbar nemi narvim; vesut nemi miver veme benu gudesh nemi hudem.]{lang=telu}
+1 [Henhut nemi miver veme henbar nemi narvim. vesut nemi miver veme benu gudesh nemi hudem.]{lang=telu}
 2 [_My blood is the house's mortar; my bones are in its walls._]{lang=en}
 
 1 [Hunen narem hudem dener bamden tarem gaben shenir hunen nemur kiresh virem.]{lang=telu}
@@ -132,7 +132,7 @@ The common transcription and translation below give one teller's cloth as a cler
 2 [  _This woman at the hearth, the red shawl: her name is Star._]{lang=en}
 
 
-1 [Minesha hager budem nemi ninesh. Huri nesh veme nimya beremri:]{lang=telu}
+1 [Minesha hager budem nemi ninesh. Huri nesh veme nimya beremri,]{lang=telu}
 2 [Minesha kept the household clay. No small work:]{lang=en}
 
 1 [yumesh, yermun nemi nelim, dushmen, timlan shenir diven timber dimel yarnim nemi hiresh virem,]{lang=telu}
@@ -162,7 +162,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [lemir berven nimesh dener nineshher. Nivun yarnim. Huri veme nardem nemi relvan.]{lang=telu}
 2 [and bring home silver. Seven years: the prince's command.]{lang=en}
 
-1 [Berniray genbun dener Minesha; hiner veme timni, timlan nesh timber nemgi.]{lang=telu}
+1 [Berniray genbun dener Minesha, hiner veme timni, timlan nesh timber nemgi.]{lang=telu}
 2 [Berniray came down to Minesha before the child was born,]{lang=en}
 
 1 [Hunen narem. Miver hager bernir. Miver geshem. Miver revin. Nesh hurem nirhel.]{lang=telu}
@@ -185,7 +185,7 @@ The common transcription and translation below give one teller's cloth as a cler
 2 [  _A copper. Thank you. Thank you. Here now: the dry year._]{lang=en}
 
 
-1 [Nivun yarnim. Timlan vulmer terli benu yelhut nemi vartun nemi relvan;]{lang=telu}
+1 [Nivun yarnim. Timlan vulmer terli benu yelhut nemi vartun nemi relvan,]{lang=telu}
 2 [Seven years. The child grew tall in the prince's gate-shadow,]{lang=en}
 
 1 [lemir hunen nemur kiresh tarem nidem lem yarnim, leshim bamden, lemir barmil dushmen.]{lang=telu}
@@ -197,7 +197,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Relvan lashem bihen nemi vermur lemir hurem hemli. Lashem gudesh.]{lang=telu}
 2 [The prince looked on the champion's son with pleasure. Mark the wall.]{lang=en}
 
-1 [Heri silvar veme derat yarnim. Lashem: nelvur genbun tarem nelran.]{lang=telu}
+1 [Heri silvar veme derat yarnim. Lashem, nelvur genbun tarem nelran.]{lang=telu}
 2 [This gray is the dry year. See the blue drawing back at the rim.]{lang=en}
 
 1 [Hiresh veme nevel. Te lu tarsher tarni. Yashgem veme nurmi.]{lang=telu}
@@ -218,7 +218,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [nesh hurem nelim, mibil karhum nemi gaben, mibil nul gurnal lemir nul varli kenen.]{lang=telu}
 2 [empty, bearing the day's heat, with neither beast nor man.]{lang=en}
 
-1 [Hiner narsher tarem vartun nemi Vahurdash danet nemi neyem:]{lang=telu}
+1 [Hiner narsher tarem vartun nemi Vahurdash danet nemi neyem,]{lang=telu}
 2 [At Vahurdash's gate she asked the stranger's due:]{lang=en}
 
 1 [bulam, yelhut, nelim, nul narsher. Nartem nemi neyin.]{lang=telu}
@@ -241,7 +241,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Hunen narkem relvan, leshim nartem nemi neyem yeril derat.]{lang=telu}
 2 [As drought custom required, he sent for the prince.]{lang=en}
 
-1 [Sunhemay genbun shernil peril lasem danhel nemi hurnesh;]{lang=telu}
+1 [Sunhemay genbun shernil peril lasem danhel nemi hurnesh,]{lang=telu}
 2 [Sunhemay came down himself to see the reason for the noise.]{lang=en}
 
 1 [hunen lashem nirli kenen tarem vartun, bermil nurel hiner, neltar,]{lang=telu}
@@ -253,7 +253,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Mener tavim nelim. Yarnim veme derat. Gerhen hurem dushmen dener shernil.]{lang=telu}
 2 [_The water is counted. The year is dry. The town is owed its own.]{lang=en}
 
-1 [Geshem dener tsenmat. Peshden veme tarem tsenmat. Hiner narem. Miver venem vanel karvem;]{lang=telu}
+1 [Geshem dener tsenmat. Peshden veme tarem tsenmat. Hiner narem. Miver venem vanel karvem.]{lang=telu}
 2 [_Go north. There are wells there._ She said: _I came from stone.]{lang=en}
 
 1 [Nul denem veme tarem tsenmat ternul denem shenir tiver veshner hudem hunnir virem.]{lang=telu}
@@ -268,7 +268,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Budem narem navel Revunay lasun hiner tarmer lemir hunen nesh hursel menir nemi hudem virem.]{lang=telu}
 2 [The clay says Revunay watched her go without understanding.]{lang=en}
 
-1 [Hunen danem neltar nemi shernil hemun gudesh dener hiner, ninser nelim; relvan nesh lasem hudem.]{lang=telu}
+1 [Hunen danem neltar nemi shernil hemun gudesh dener hiner, ninser nelim, relvan nesh lasem hudem.]{lang=telu}
 2 [Over the wall he gave her his own half-full skin, unseen by the prince.]{lang=en}
 
 1 [Huri veme nurel tenyut nemi hunen heri gaben. Dinel miver veme huri timlan, dinir miver berem samnil.]{lang=telu}
@@ -277,7 +277,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Hudem nesh veme marnil. Mener relmer hudem. Sali miran nemi lavun narem navel hiner veme Nerir virem.]{lang=telu}
 2 [It was not enough. We sing it. The tellers say she was the Mother.]{lang=en}
 
-1 [Miver narem navel narshil nemi miran nemi lavun narem palem denem virem;]{lang=telu}
+1 [Miver narem navel narshil nemi miran nemi lavun narem palem denem virem,]{lang=telu}
 2 [I say the tellers' tongues say many things,]{lang=en}
 
 1 [lemir diven danem hurshel dener miver peril relmer diven. Hiner hurem pirnur.]{lang=telu}
@@ -300,16 +300,16 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Hunen veme tes gaben vanel nelran. [Budaq]{lang=sovi} venem hemun salmir lemir hagen,]{lang=telu}
 2 [Three days from the rim a [budaq]{lang=sovi} came over the string and hung there,]{lang=en}
 
-1 [lemir surer nurel gurnal shenir hudem veme palen birmesh nali dimal nedim virem: kenbesh bashgur, yurmi,]{lang=telu}
+1 [lemir surer nurel gurnal shenir hudem veme palen birmesh nali dimal nedim virem, kenbesh bashgur, yurmi,]{lang=telu}
 2 [then settled on the strongest beast, the lead camel, the young one,]{lang=en}
 
 1 [shenir hudem tarem nul darem telnir danel birni virem. Hudem surer nurel tirmesh lemir lashem]{lang=telu}
 2 [the one that had never faltered. It sat on the neck and stared]{lang=en}
 
-1 [ dener tsenmat, dener nelran. Nul miran gaven nardem hudem tarmer. Sali fernem hurem hervesh:]{lang=telu}
+1 [ dener tsenmat, dener nelran. Nul miran gaven nardem hudem tarmer. Sali fernem hurem hervesh.]{lang=telu}
 2 [north toward the rim, resisting every attempt to drive it off. The drivers feared it:]{lang=en}
 
-1 [firvem surer nurel gurnal shenir hudem nilver virem; heri gurnal nesh veme varhesh.]{lang=telu}
+1 [firvem surer nurel gurnal shenir hudem nilver virem. heri gurnal nesh veme varhesh.]{lang=telu}
 2 [the bird sits on the beast that dies, and this beast was healthy.]{lang=en}
 
 1 [Berniray tenem firvem leshim tiver tenem tenyut. Hunen hagen hushli]{lang=telu}
@@ -350,7 +350,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Nire har veme lu nemi nilshem nemi garvan. Garvan tarmer. Huri veme karmil.]{lang=telu}
 2 [Fourth went the horse-trough spring. The horses left. That was hard.]{lang=en}
 
-1 [Nire lem veme lu nemi dimhet nemi pirem; nire yas, nemi vartun.]{lang=telu}
+1 [Nire lem veme lu nemi dimhet nemi pirem, nire yas, nemi vartun.]{lang=telu}
 2 [Fifth went the weaving-quarter's spring; sixth, the gate's.]{lang=en}
 
 1 [Vermur nemur nelim vanel nire nivun. Relvan narem navel hiresh venem hamuli virem.]{lang=telu}
@@ -362,7 +362,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [lemir lashem mishen yarnim nemi budem. Diven narem. Mener berven denem shenir mener damer berven hudem virem.]{lang=telu}
 2 [looking at a thousand years of clay: We carry what we must, they said.]{lang=en}
 
-1 [Diven venhir navel diven gaven berven nul virem: tenyut veme barmil leshim karvem.]{lang=telu}
+1 [Diven venhir navel diven gaven berven nul virem. tenyut veme barmil leshim karvem.]{lang=telu}
 2 [They found they could carry nothing. A tablet weighs like stone.]{lang=en}
 
 1 [Nire bur veme nemi relvan shernil. Tarem hudem tarmer, relvan veme pel]{lang=telu}
@@ -371,7 +371,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [benu herun mibil tenyut nemi dushmen dener hunen, lemir pernil lemir sunhem.]{lang=telu}
 2 [in his room with the tablets of what he was owed, the lamp and gold.]{lang=en}
 
-1 [Hunen tenem diven; diven narem navel hunen hurem sunmer virem. Budem narem navel hunen venmi tenlir]{lang=telu}
+1 [Hunen tenem diven. diven narem navel hunen hurem sunmer virem. Budem narem navel hunen venmi tenlir]{lang=telu}
 2 [He read them. They said he was rich. The clay says he grew old]{lang=en}
 
 1 [benu huri pel nurmesh virem. Hudem narem hudem mibil nin narvun. Miver nesh narem diven. Diven veme nemi hunen.]{lang=telu}
@@ -415,7 +415,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Narlem narem. Miver lerni hager bernir. Tursem ferul. Dimal nin tursem hame,]{lang=telu}
 2 [The voice said: _I too keep an oath. Stand back._ So both stood,]{lang=en}
 
-1 [pel tarem dimel ser nemi varshim vartem, bernir tarem dimel limur;]{lang=telu}
+1 [pel tarem dimel ser nemi varshim vartem, bernir tarem dimel limur,]{lang=telu}
 2 [one on each side of a cedar door, an oath on either hand.]{lang=en}
 
 1 [Nul vanel nin nershem lemhur nemi shernil. Nul vanel nin hursel]{lang=telu}
@@ -430,19 +430,19 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [veme sumet danhel nemi relmer nemi mener. Yune. Vermur geshem rumer]{lang=telu}
 2 [is the whole reason for our song. Now: the champion went around,]{lang=en}
 
-1 [ tseril turemi ser nemi tsenmat gudesh, tarem tsemkin hageni veme te nurel bermun;]{lang=telu}
+1 [ tseril turemi ser nemi tsenmat gudesh, tarem tsemkin hageni veme te nurel bermun,]{lang=telu}
 2 [through the north wall's breach, where sand already rose high,]{lang=en}
 
 1 [lemir venmer benu narhet nemi vartun benu nurmi. Vermur nemi vartun genbun.]{lang=telu}
 2 [and came into the gate-court in darkness. The watch came down.]{lang=en}
 
-1 [Diven gurmer benu narhet mibil nesh perner pernil, vermur nemi narvim lemir gerhen:]{lang=telu}
+1 [Diven gurmer benu narhet mibil nesh perner pernil, vermur nemi narvim lemir gerhen,]{lang=telu}
 2 [They fought in the unlit court, the champion against the town.]{lang=en}
 
-1 [Lernem nemi guresh nemi vermur lerhem timlan; hunen hurnir]{lang=telu}
+1 [Lernem nemi guresh nemi vermur lerhem timlan. hunen hurnir]{lang=telu}
 2 [The champion's own drill-master had trained the boy. He knew]{lang=en}
 
-1 [tarsem nemi vermur; hunen berem diven. Tenlir miran lerni hurnir diven.]{lang=telu}
+1 [tarsem nemi vermur. hunen berem diven. Tenlir miran lerni hurnir diven.]{lang=telu}
 2 [the champion's strokes and used them. The old man knew them too.]{lang=en}
 
 1 [Relum narem navel diven gurmer durmel peril nin miran benu nurmi virem,]{lang=telu}
@@ -454,7 +454,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [ nurel limun nemi tenlir miran. Tenlir miran narem. Marnil. Marnil. Verin lerhem heri dener tiver?]{lang=telu}
 2 [on the old man's arm. The old man said: _Enough. Enough. Who taught you that?_]{lang=en}
 
-1 [Timlan nesh narem; hunen venem fermin. Tenlir miran nilmer hunen]{lang=telu}
+1 [Timlan nesh narem. hunen venem fermin. Tenlir miran nilmer hunen]{lang=telu}
 2 [The boy came on without a word. The old man killed him]{lang=en}
 
 1 [mibil tarsem shenir miran berem hudem hamun nedim miran berem tarsem nemi shernil tarem nin darem virem.]{lang=telu}
@@ -515,7 +515,7 @@ The common transcription and translation below give one teller's cloth as a cler
 2 [  _This long gray line: the departure. Count the people. You cannot. Good._]{lang=en}
 
 
-1 [Minesha hunver mibil budem nemi ninesh benu nin vimel nurel varhur:]{lang=telu}
+1 [Minesha hunver mibil budem nemi ninesh benu nin vimel nurel varhur,]{lang=telu}
 2 [Minesha came out with household clay in two baskets on a pole:]{lang=en}
 
 1 [yumesh, yermun nemi nelim, dushmen, timlan, sumet]{lang=telu}
@@ -524,7 +524,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [denmil nemi ninesh yernem gudesh nemi hudem tarmer. Hiner lashem narhet]{lang=telu}
 2 [that makes a household when its walls are gone. She looked into the court,]{lang=en}
 
-1 [lemir lasem shelun hune, lemir budish, lemir ladem varhur genil. Budem narem: durmil.]{lang=telu}
+1 [lemir lasem shelun hune, lemir budish, lemir ladem varhur genil. Budem narem, durmil.]{lang=telu}
 2 [saw what lay there, and the shield, and set the pole down. The clay says: _brief._]{lang=en}
 
 1 [Huri veme narvun nemi budem nurel narvun nemi hiner. Sali miran nemi lavun narem palen.]{lang=telu}
@@ -560,7 +560,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [veme benu her nemi tenyut mibil tenyut. Huri veme denem peril narem]{lang=telu}
 2 [lie in the record-house with the record. This is spoken]{lang=en}
 
-1 [ tarem nilhem. Tellumi narem hudem. Mener narem: leshim sali miran nemi hager nemi nelran.]{lang=telu}
+1 [ tarem nilhem. Tellumi narem hudem. Mener narem, leshim sali miran nemi hager nemi nelran.]{lang=telu}
 2 [at funerals. The Tellumi say it. We say: _as the keepers of the rim._]{lang=en}
 
 
@@ -586,13 +586,13 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [narvun nemi hudem, danil nul miran venhir hudem. Tsemkin hager het nemi hudem.]{lang=telu}
 2 [its words: nobody has found it. Sand holds its place.]{lang=en}
 
-1 [Miver relmer nire nin. Hudem veme palen leril lavun. Pirsesh hager hudem. Lashem:]{lang=telu}
+1 [Miver relmer nire nin. Hudem veme palen leril lavun. Pirsesh hager hudem. Lashem,]{lang=telu}
 2 [I sing the second ending. It makes the better scene. The cloth holds it. Look:]{lang=en}
 
 1 [pernil, herun, sunhem, miran, herun mibil nul vartem, tenyut]{lang=telu}
 2 [lamp, hall, gold, man, doorless room, the book]{lang=en}
 
-1 [nemi budem; varil, nul; lisen nurel tarli silvar gudesh.]{lang=telu}
+1 [nemi budem. varil, nul. lisen nurel tarli silvar gudesh.]{lang=telu}
 2 [of clay. Outside, nothing. Moonlight on the long gray wall.]{lang=en}
 
 1 [Huri veme laram nemi relvan shenir hunen tavim lemvesh denem virem. Huri veme dimal.]{lang=telu}
@@ -627,7 +627,7 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Heri veme ferhum nemi relum. Gerhen veme nerdim benu tsemkin.]{lang=telu}
 2 [This is the song's purpose. The town is a plan filled with sand.]{lang=en}
 
-1 [Tarlim veme har nidem tarmesh virel; sali nineshher hurem nul hurlam. Miran]{lang=telu}
+1 [Tarlim veme har nidem tarmesh virel. sali nineshher hurem nul hurlam. Miran]{lang=telu}
 2 [Its streets are forty feet wide; its houses have no roofs. A man]{lang=en}
 
 1 [ gaven tarim vanel verli peshden dener tarli gudesh benu pel nemun, hemun gerhen,]{lang=telu}
@@ -645,13 +645,13 @@ The common transcription and translation below give one teller's cloth as a cler
 1 [Damir budem veme hamil narvim. Relum narem, miver narem, narhet]{lang=telu}
 2 [But clay lies beneath the house. The song says, I say, the yard]{lang=en}
 
-1 [hunem miver narem: narvim shenir hudem revin virem tenem yumesh kenbesh. Heri veme karmil.]{lang=telu}
+1 [hunem miver narem, narvim shenir hudem revin virem tenem yumesh kenbesh. Heri veme karmil.]{lang=telu}
 2 [has heard me say: the returning house reads the names first. That is hard.]{lang=en}
 
 1 [Narvim nesh berem hudem nemgi. Sirhel timber benu hernur.]{lang=telu}
 2 [The house has not done it. Spiders breed in the cellars.]{lang=en}
 
-1 [Danuli nul miran tenem yumesh; danuli mener hagenir relmer relum; sali narhet hagenir marnem]{lang=telu}
+1 [Danuli nul miran tenem yumesh, danuli mener hagenir relmer relum, sali narhet hagenir marnem]{lang=telu}
 2 [So the names go unread, the song is sung, and courtyards still need]{lang=en}
 
 1 [miran nemi lavun. Miver veme hunen. Miver kurnem pirsesh rumer shernil. Heri veme telvem.]{lang=telu}

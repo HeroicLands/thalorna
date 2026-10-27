@@ -32,19 +32,19 @@ The verses are rhymed in couplets.
 : The Coming {#coming}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Here ben we come to the door of the hall.]{.nativefont lang=aelw}
+1 [Here ben we kome to the door of the hall.]{enc=aelwsemaronenc lang=aelw}
 2 [We have come here to the door of the hall,]{lang=en}
-2 [Here ben we come to the door of the hall.]{lang=aelw}
+2 [Here ben we kome to the door of the hall.]{lang=aelw}
 
-1 [The hind and the herdsman. the widow and all.]{.nativefont lang=aelw}
+1 [The hind and the herdsman. the widow and all.]{enc=aelwsemaronenc lang=aelw}
 2 [The labourer and the herdsman, the widow and all;]{lang=en}
 2 [The hind and the herdsman. the widow and all.]{lang=aelw}
 
-1 [We haven waded snow from the foot of the hill.]{.nativefont lang=aelw}
+1 [We haven waded snow from the foot of the hill.]{enc=aelwsemaronenc lang=aelw}
 2 [We have waded through snow from the foot of the hill,]{lang=en}
 2 [We haven waded snow from the foot of the hill.]{lang=aelw}
 
-1 [And the night it is long. and the night it is chill.]{.nativefont lang=aelw}
+1 [And the night it is long. and the night it is chill.]{enc=aelwsemaronenc lang=aelw}
 2 [And the night is long, and the night is cold.]{lang=en}
 2 [And the night it is long. and the night it is chill.]{lang=aelw}
 ```
@@ -52,19 +52,19 @@ The verses are rhymed in couplets.
 : The Burden {#burden}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Wassail. wassail. and open the door.]{.nativefont lang=aelw}
+1 [Wassail. wassail. and open the door.]{enc=aelwsemaronenc lang=aelw}
 2 [Wassail, wassail, and open the door!]{lang=en}
 2 [Wassail. wassail. and open the door.]{lang=aelw}
 
-1 [The king hath the forest. the hollow is poor.]{.nativefont lang=aelw}
+1 [The king hath the forest. the hollow is poor.]{enc=aelwsemaronenc lang=aelw}
 2 [The king has the forest, the hollow is poor;]{lang=en}
 2 [The king hath the forest. the hollow is poor.]{lang=aelw}
 
-1 [Then wassail the king. and wassail the tree.]{.nativefont lang=aelw}
+1 [Then wassail the king. and wassail the tree.]{enc=aelwsemaronenc lang=aelw}
 2 [Then drink to the health of the king and the tree,]{lang=en}
 2 [Then wassail the king. and wassail the tree.]{lang=aelw}
 
-1 [And a fire in the hollow for thee and for me.]{.nativefont lang=aelw}
+1 [And a fire in the hollow for thee and for me.]{enc=aelwsemaronenc lang=aelw}
 2 [And a fire in the hollow for you and for me.]{lang=en}
 2 [And a fire in the hollow for thee and for me.]{lang=aelw}
 ```
@@ -72,19 +72,19 @@ The verses are rhymed in couplets.
 : The Bowl {#bowl}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Our bowl it is turned of an ash the wind threw.]{.nativefont lang=aelw}
+1 [Our bowl it is turned of an ash the wind threw.]{enc=aelwsemaronenc lang=aelw}
 2 [Our bowl is turned from an ash tree the wind blew down,]{lang=en}
 2 [Our bowl it is turned of an ash the wind threw.]{lang=aelw}
 
-1 [For the wind hath a licence we never once knew.]{.nativefont lang=aelw}
+1 [For the wind hath a lisense we never onse knew.]{enc=aelwsemaronenc lang=aelw}
 2 [For the wind has a licence we have never had;]{lang=en}
-2 [For the wind hath a licence we never once knew.]{lang=aelw}
+2 [For the wind hath a lisense we never onse knew.]{lang=aelw}
 
-1 [Our ale it is brewed of the barley we grew.]{.nativefont lang=aelw}
+1 [Our ale it is brewed of the barley we grew.]{enc=aelwsemaronenc lang=aelw}
 2 [Our ale is brewed from the barley we grew,]{lang=en}
 2 [Our ale it is brewed of the barley we grew.]{lang=aelw}
 
-1 [And we bringen it now. as our grandsires did too.]{.nativefont lang=aelw}
+1 [And we bringen it now. as our grandsires did too.]{enc=aelwsemaronenc lang=aelw}
 2 [And we bring it now, as our grandfathers did too.]{lang=en}
 2 [And we bringen it now. as our grandsires did too.]{lang=aelw}
 ```
@@ -96,21 +96,21 @@ The burden.
 : The Greeting {#greeting}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Good king. we haven known thee and thy hall of old.]{.nativefont lang=aelw}
+1 [Good king. we haven known thee and thy hall of old.]{enc=aelwsemaronenc lang=aelw}
 2 [Good king, we have long known you and your hall,]{lang=en}
 2 [Good king. we haven known thee and thy hall of old.]{lang=aelw}
 
-1 [Thy hall and thy chapel. thy kin in the mould.]{.nativefont lang=aelw}
+1 [Thy hall and thy chapel. thy kin in the mould.]{enc=aelwsemaronenc lang=aelw}
 2 [Your hall and your chapel, your kin in the earth;]{lang=en}
 2 [Thy hall and thy chapel. thy kin in the mould.]{lang=aelw}
 
-1 [Thy grandsire's grandsire was crowned in this place.]{.nativefont lang=aelw}
+1 [Thy grandsirees grandsire was krowned in this plase.]{enc=aelwsemaronenc lang=aelw}
 2 [Your grandfather's grandfather was crowned in this place,]{lang=en}
-2 [Thy grandsire's grandsire was crowned in this place.]{lang=aelw}
+2 [Thy grandsirees grandsire was krowned in this plase.]{lang=aelw}
 
-1 [And we sang at his door. and he looked in our face.]{.nativefont lang=aelw}
+1 [And we sang at his door. and he looked in our fase.]{enc=aelwsemaronenc lang=aelw}
 2 [And we sang at his door, and he looked us in the face.]{lang=en}
-2 [And we sang at his door. and he looked in our face.]{lang=aelw}
+2 [And we sang at his door. and he looked in our fase.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
@@ -120,19 +120,19 @@ The burden.
 : The Return from Dunmere {#return}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Thou art come from Dunmere with a lord at each hand.]{.nativefont lang=aelw}
+1 [Thou art kome from Dunmere with a lord at each hand.]{enc=aelwsemaronenc lang=aelw}
 2 [You have come from Dunmere with a lord on each side,]{lang=en}
-2 [Thou art come from Dunmere with a lord at each hand.]{lang=aelw}
+2 [Thou art kome from Dunmere with a lord at each hand.]{lang=aelw}
 
-1 [And the lake-town is rich. and the lake-town is grand.]{.nativefont lang=aelw}
+1 [And the lake town is rich. and the lake town is grand.]{enc=aelwsemaronenc lang=aelw}
 2 [And the lake-town is rich, and the lake-town is grand;]{lang=en}
-2 [And the lake-town is rich. and the lake-town is grand.]{lang=aelw}
+2 [And the lake town is rich. and the lake town is grand.]{lang=aelw}
 
-1 [But the hollow is older than any town's wall.]{.nativefont lang=aelw}
+1 [But the hollow is older than any townes wall.]{enc=aelwsemaronenc lang=aelw}
 2 [But the hollow is older than any town's wall,]{lang=en}
-2 [But the hollow is older than any town's wall.]{lang=aelw}
+2 [But the hollow is older than any townes wall.]{lang=aelw}
 
-1 [And the hollow was here ere the king had a hall.]{.nativefont lang=aelw}
+1 [And the hollow was here ere the king had a hall.]{enc=aelwsemaronenc lang=aelw}
 2 [And the hollow was here before the king had a hall.]{lang=en}
 2 [And the hollow was here ere the king had a hall.]{lang=aelw}
 ```
@@ -144,21 +144,21 @@ The burden.
 : The Gift {#gift}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [There was never a crown but was given by hands.]{.nativefont lang=aelw}
+1 [There was never a krown but was given by hands.]{enc=aelwsemaronenc lang=aelw}
 2 [Every crown was given by someone's hands,]{lang=en}
-2 [There was never a crown but was given by hands.]{lang=aelw}
+2 [There was never a krown but was given by hands.]{lang=aelw}
 
-1 [And thine by the barons that holden their lands.]{.nativefont lang=aelw}
+1 [And thine by the barons that holden their lands.]{enc=aelwsemaronenc lang=aelw}
 2 [And yours was given by the barons that hold their lands;]{lang=en}
 2 [And thine by the barons that holden their lands.]{lang=aelw}
 
-1 [They set it on Drethar. a lord like the rest.]{.nativefont lang=aelw}
+1 [They set it on Drethar. a lord like the rest.]{enc=aelwsemaronenc lang=aelw}
 2 [They set it on Drethar, a lord like the rest,]{lang=en}
 2 [They set it on Drethar. a lord like the rest.]{lang=aelw}
 
-1 [That could ride all his land ere the sun went to rest.]{.nativefont lang=aelw}
+1 [That kould ride all his land ere the sun went to rest.]{enc=aelwsemaronenc lang=aelw}
 2 [Who could ride across all his land before the sun went to rest.]{lang=en}
-2 [That could ride all his land ere the sun went to rest.]{lang=aelw}
+2 [That kould ride all his land ere the sun went to rest.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
@@ -168,19 +168,19 @@ The burden.
 : The Tree for the Gift {#treegift}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [A gift asketh gift. saith the old saw to thee.]{.nativefont lang=aelw}
+1 [A gift asketh gift. saith the old saw to thee.]{enc=aelwsemaronenc lang=aelw}
 2 [A gift calls for a gift, as the old saying goes:]{lang=en}
 2 [A gift asketh gift. saith the old saw to thee.]{lang=aelw}
 
-1 [We haven given ale. wilt thou give us a tree.]{.nativefont lang=aelw}
+1 [We haven given ale. wilt thou give us a tree.]{enc=aelwsemaronenc lang=aelw}
 2 [We have given ale; will you give us a tree?]{lang=en}
 2 [We haven given ale. wilt thou give us a tree.]{lang=aelw}
 
-1 [The barons gave Drethar a crown for his head.]{.nativefont lang=aelw}
+1 [The barons gave Drethar a krown for his head.]{enc=aelwsemaronenc lang=aelw}
 2 [The barons gave Drethar a crown for his head,]{lang=en}
-2 [The barons gave Drethar a crown for his head.]{lang=aelw}
+2 [The barons gave Drethar a krown for his head.]{lang=aelw}
 
-1 [And Drethar gave fire to the hollow. men said.]{.nativefont lang=aelw}
+1 [And Drethar gave fire to the hollow. men said.]{enc=aelwsemaronenc lang=aelw}
 2 [And Drethar gave fire to the hollow, men said.]{lang=en}
 2 [And Drethar gave fire to the hollow. men said.]{lang=aelw}
 ```
@@ -192,21 +192,21 @@ The burden.
 : The Asking {#asking}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [The wood on the hill is the king's and the deer's.]{.nativefont lang=aelw}
+1 [The wood on the hill is the kinges and the deeres.]{enc=aelwsemaronenc lang=aelw}
 2 [The wood on the hill belongs to the king and the deer,]{lang=en}
-2 [The wood on the hill is the king's and the deer's.]{lang=aelw}
+2 [The wood on the hill is the kinges and the deeres.]{lang=aelw}
 
-1 [The deer haven had acorns these many long years.]{.nativefont lang=aelw}
+1 [The deer haven had akorns these many long years.]{enc=aelwsemaronenc lang=aelw}
 2 [The deer have had acorns all these years;]{lang=en}
-2 [The deer haven had acorns these many long years.]{lang=aelw}
+2 [The deer haven had akorns these many long years.]{lang=aelw}
 
-1 [But the hind going up for a bundle of thorn]{.nativefont lang=aelw}
+1 [But the hind going up for a bundle of thorn]{enc=aelwsemaronenc lang=aelw}
 2 [But the labourer going up for a bundle of thorn]{lang=en}
 2 [But the hind going up for a bundle of thorn]{lang=aelw}
 
-1 [Shall answer the swainmote upon the next morn.]{.nativefont lang=aelw}
+1 [Shall answer the swainmote upon the nekst morn.]{enc=aelwsemaronenc lang=aelw}
 2 [Must answer to the forest court the next morning.]{lang=en}
-2 [Shall answer the swainmote upon the next morn.]{lang=aelw}
+2 [Shall answer the swainmote upon the nekst morn.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
@@ -216,21 +216,21 @@ The burden.
 : The Royal Oaks {#royaloaks}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [We may look on the timber. and look till we freeze.]{.nativefont lang=aelw}
+1 [We may look on the timber. and look till we freeze.]{enc=aelwsemaronenc lang=aelw}
 2 [We may look on the timber, and look till we freeze,]{lang=en}
 2 [We may look on the timber. and look till we freeze.]{lang=aelw}
 
-1 [For the law is a pale about all of the trees.]{.nativefont lang=aelw}
+1 [For the law is a pale about all of the trees.]{enc=aelwsemaronenc lang=aelw}
 2 [For the law is a fence around all the trees;]{lang=en}
 2 [For the law is a pale about all of the trees.]{lang=aelw}
 
-1 [And the oaks that stood over our grandsires' first cry]{.nativefont lang=aelw}
+1 [And the oaks that stood over our grandsireses first kry]{enc=aelwsemaronenc lang=aelw}
 2 [And the oaks that stood over our grandfathers' first cry]{lang=en}
-2 [And the oaks that stood over our grandsires' first cry]{lang=aelw}
+2 [And the oaks that stood over our grandsireses first kry]{lang=aelw}
 
-1 [Ben the king's to the acorn. the king's to the sky.]{.nativefont lang=aelw}
+1 [Ben the kinges to the akorn. the kinges to the sky.]{enc=aelwsemaronenc lang=aelw}
 2 [Are the king's to the acorn, the king's to the sky.]{lang=en}
-2 [Ben the king's to the acorn. the king's to the sky.]{lang=aelw}
+2 [Ben the kinges to the akorn. the kinges to the sky.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
@@ -240,21 +240,21 @@ The burden.
 : The Land {#land}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [When the king is whole. then the furrow is whole.]{.nativefont lang=aelw}
+1 [When the king is whole. then the furrow is whole.]{enc=aelwsemaronenc lang=aelw}
 2 [When the king is healthy, the field is healthy,]{lang=en}
 2 [When the king is whole. then the furrow is whole.]{lang=aelw}
 
-1 [And the ewe bringeth twins. and the mare bringeth foal.]{.nativefont lang=aelw}
+1 [And the ewe bringeth twins. and the mare bringeth foal.]{enc=aelwsemaronenc lang=aelw}
 2 [And the ewe has twins, and the mare bears a foal;]{lang=en}
 2 [And the ewe bringeth twins. and the mare bringeth foal.]{lang=aelw}
 
-1 [When the king taketh hurt. barley lieth down.]{.nativefont lang=aelw}
+1 [When the king taketh hurt. barley lieth down.]{enc=aelwsemaronenc lang=aelw}
 2 [When the king is hurt, the barley falls flat,]{lang=en}
 2 [When the king taketh hurt. barley lieth down.]{lang=aelw}
 
-1 [And the ewe casteth lamb. and the well runneth brown.]{.nativefont lang=aelw}
+1 [And the ewe kasteth lamb. and the well runneth brown.]{enc=aelwsemaronenc lang=aelw}
 2 [And the ewe miscarries, and the well runs brown.]{lang=en}
-2 [And the ewe casteth lamb. and the well runneth brown.]{lang=aelw}
+2 [And the ewe kasteth lamb. and the well runneth brown.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
@@ -264,19 +264,19 @@ The burden.
 : The Health of the King {#health}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [So we drinken thy health. and we drinken with care.]{.nativefont lang=aelw}
+1 [So we drinken thy health. and we drinken with kare.]{enc=aelwsemaronenc lang=aelw}
 2 [So we drink to your health, and we drink with care,]{lang=en}
-2 [So we drinken thy health. and we drinken with care.]{lang=aelw}
+2 [So we drinken thy health. and we drinken with kare.]{lang=aelw}
 
-1 [For thy health is our harvest. our bread and our share.]{.nativefont lang=aelw}
+1 [For thy health is our harvest. our bread and our share.]{enc=aelwsemaronenc lang=aelw}
 2 [For your health is our harvest, our bread and our share;]{lang=en}
 2 [For thy health is our harvest. our bread and our share.]{lang=aelw}
 
-1 [But a man that is cold hath no breath for to sing.]{.nativefont lang=aelw}
+1 [But a man that is kold hath no breath for to sing.]{enc=aelwsemaronenc lang=aelw}
 2 [But a man that is cold has no breath to sing,]{lang=en}
-2 [But a man that is cold hath no breath for to sing.]{lang=aelw}
+2 [But a man that is kold hath no breath for to sing.]{lang=aelw}
 
-1 [And a fire in the hollow is health to the king.]{.nativefont lang=aelw}
+1 [And a fire in the hollow is health to the king.]{enc=aelwsemaronenc lang=aelw}
 2 [And a fire in the hollow means health for the king.]{lang=en}
 2 [And a fire in the hollow is health to the king.]{lang=aelw}
 ```
@@ -292,19 +292,19 @@ The singers turnen from the door to the wall of the burial ground behind the hal
 : Over the Wall {#wall}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Now over the wall. to the yard at the back.]{.nativefont lang=aelw}
+1 [Now over the wall. to the yard at the bak.]{enc=aelwsemaronenc lang=aelw}
 2 [Now over the wall, to the yard at the back,]{lang=en}
-2 [Now over the wall. to the yard at the back.]{lang=aelw}
+2 [Now over the wall. to the yard at the bak.]{lang=aelw}
 
-1 [Where kings lien a-row and the yew-trees ben black.]{.nativefont lang=aelw}
+1 [Where kings lien a row and the yew trees ben blak.]{enc=aelwsemaronenc lang=aelw}
 2 [Where kings lie in a row and the yew-trees are black:]{lang=en}
-2 [Where kings lien a-row and the yew-trees ben black.]{lang=aelw}
+2 [Where kings lien a row and the yew trees ben blak.]{lang=aelw}
 
-1 [I bid you good night. ye haven eaten your fill.]{.nativefont lang=aelw}
+1 [I bid you good night. ye haven eaten your fill.]{enc=aelwsemaronenc lang=aelw}
 2 [I wish you good night; you have eaten your fill;]{lang=en}
 2 [I bid you good night. ye haven eaten your fill.]{lang=aelw}
 
-1 [Ye shall none of you shiver. ye lien so still.]{.nativefont lang=aelw}
+1 [Ye shall none of you shiver. ye lien so still.]{enc=aelwsemaronenc lang=aelw}
 2 [None of you will shiver; you lie so still.]{lang=en}
 2 [Ye shall none of you shiver. ye lien so still.]{lang=aelw}
 ```
@@ -316,19 +316,19 @@ The burden is not sung over the wall.
 : The Missing Stone {#missingstone}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [But count ye the stones. and the stones ben one short.]{.nativefont lang=aelw}
+1 [But kount ye the stones. and the stones ben one short.]{enc=aelwsemaronenc lang=aelw}
 2 [But count the stones, and the stones are one short,]{lang=en}
-2 [But count ye the stones. and the stones ben one short.]{lang=aelw}
+2 [But kount ye the stones. and the stones ben one short.]{lang=aelw}
 
-1 [For the first of the kings was not laid in this court.]{.nativefont lang=aelw}
+1 [For the first of the kings was not laid in this kourt.]{enc=aelwsemaronenc lang=aelw}
 2 [For the first king was not buried in this yard;]{lang=en}
-2 [For the first of the kings was not laid in this court.]{lang=aelw}
+2 [For the first of the kings was not laid in this kourt.]{lang=aelw}
 
-1 [He lieth asleep in the heart of the hill.]{.nativefont lang=aelw}
+1 [He lieth asleep in the heart of the hill.]{enc=aelwsemaronenc lang=aelw}
 2 [He lies asleep in the heart of the hill,]{lang=en}
 2 [He lieth asleep in the heart of the hill.]{lang=aelw}
 
-1 [With his hounds at his feet. and his horn. and his bill.]{.nativefont lang=aelw}
+1 [With his hounds at his feet. and his horn. and his bill.]{enc=aelwsemaronenc lang=aelw}
 2 [With his hounds at his feet, his horn, and his hook-bladed weapon.]{lang=en}
 2 [With his hounds at his feet. and his horn. and his bill.]{lang=aelw}
 ```
@@ -336,21 +336,21 @@ The burden is not sung over the wall.
 : The Crown Asked Again {#crownagain}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [When the crown is asked for again at this door.]{.nativefont lang=aelw}
+1 [When the krown is asked for again at this door.]{enc=aelwsemaronenc lang=aelw}
 2 [When the crown is asked for again at this door,]{lang=en}
-2 [When the crown is asked for again at this door.]{lang=aelw}
+2 [When the krown is asked for again at this door.]{lang=aelw}
 
-1 [As the barons asked Drethar to wear it before.]{.nativefont lang=aelw}
+1 [As the barons asked Drethar to wear it before.]{enc=aelwsemaronenc lang=aelw}
 2 [As the barons asked Drethar to wear it before,]{lang=en}
 2 [As the barons asked Drethar to wear it before.]{lang=aelw}
 
-1 [He shall rise. and come down through the wood on the hill.]{.nativefont lang=aelw}
+1 [He shall rise. and kome down through the wood on the hill.]{enc=aelwsemaronenc lang=aelw}
 2 [He will rise and come down through the wood on the hill,]{lang=en}
-2 [He shall rise. and come down through the wood on the hill.]{lang=aelw}
+2 [He shall rise. and kome down through the wood on the hill.]{lang=aelw}
 
-1 [And the hollow shall cut what it will. when it will.]{.nativefont lang=aelw}
+1 [And the hollow shall kut what it will. when it will.]{enc=aelwsemaronenc lang=aelw}
 2 [And the hollow will cut whatever it wants, whenever it wants.]{lang=en}
-2 [And the hollow shall cut what it will. when it will.]{lang=aelw}
+2 [And the hollow shall kut what it will. when it will.]{lang=aelw}
 ```
 
 : The Answer {#answer}
@@ -368,25 +368,25 @@ Ye haven asked it well. and ye shall have it. Go up at first light. and fell the
 : The Going Home {#home}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [Now thanks to the king. and good night to the hall.]{.nativefont lang=aelw}
+1 [Now thanks to the king. and good night to the hall.]{enc=aelwsemaronenc lang=aelw}
 2 [Now thanks to the king, and good night to the hall,]{lang=en}
 2 [Now thanks to the king. and good night to the hall.]{lang=aelw}
 
-1 [And the Twelve keepen the chair. and crown. and us all.]{.nativefont lang=aelw}
+1 [And the Twelve keepen the chair. and krown. and us all.]{enc=aelwsemaronenc lang=aelw}
 2 [And the Twelve protect the chair, the crown, and us all;]{lang=en}
-2 [And the Twelve keepen the chair. and crown. and us all.]{lang=aelw}
+2 [And the Twelve keepen the chair. and krown. and us all.]{lang=aelw}
 
-1 [We will fell it at morning. and burn it by night.]{.nativefont lang=aelw}
+1 [We will fell it at morning. and burn it by night.]{enc=aelwsemaronenc lang=aelw}
 2 [We will fell it in the morning and burn it by night,]{lang=en}
 2 [We will fell it at morning. and burn it by night.]{lang=aelw}
 
-1 [And sing thee again when the snow lieth white.]{.nativefont lang=aelw}
+1 [And sing thee again when the snow lieth white.]{enc=aelwsemaronenc lang=aelw}
 2 [And sing to you again when the snow lies white.]{lang=en}
 2 [And sing thee again when the snow lieth white.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
-The burden. twice. going down the hill.
+The burden. twise. going down the hill.
 :::
 
 ::: {lang=aelw font=serif}
@@ -396,19 +396,19 @@ In a year the king keepeth the feast at Dunmere. the village singeth this verse 
 : The Steward's Verse {#steward}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [The chair is empty. the steward sitteth by.]{.nativefont lang=aelw}
+1 [The chair is empty. the steward sitteth by.]{enc=aelwsemaronenc lang=aelw}
 2 [The chair is empty; the steward sits beside it,]{lang=en}
 2 [The chair is empty. the steward sitteth by.]{lang=aelw}
 
-1 [And he keepeth the king's wood as dear as his eye.]{.nativefont lang=aelw}
+1 [And he keepeth the kinges wood as dear as his eye.]{enc=aelwsemaronenc lang=aelw}
 2 [And the king's wood is as precious to him as his own eye;]{lang=en}
-2 [And he keepeth the king's wood as dear as his eye.]{lang=aelw}
+2 [And he keepeth the kinges wood as dear as his eye.]{lang=aelw}
 
-1 [But a crown given once may be asked for again.]{.nativefont lang=aelw}
+1 [But a krown given onse may be asked for again.]{enc=aelwsemaronenc lang=aelw}
 2 [But a crown given once may be asked for again,]{lang=en}
-2 [But a crown given once may be asked for again.]{lang=aelw}
+2 [But a krown given onse may be asked for again.]{lang=aelw}
 
-1 [The barons rememberen. so doen the men.]{.nativefont lang=aelw}
+1 [The barons rememberen. so doen the men.]{enc=aelwsemaronenc lang=aelw}
 2 [The barons remember; so do the men.]{lang=en}
 2 [The barons rememberen. so doen the men.]{lang=aelw}
 ```

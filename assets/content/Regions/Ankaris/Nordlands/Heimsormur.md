@@ -21,841 +21,841 @@ A paired coastal recitation sets Skalforv's sea battle beside the standard accou
 : The Wyrm in Two Tellings
 
 ```verse {form=epic lang=en cols=2 numstep=5}
-1 [Njorva es dulvi. It kallar ner.]{.nativefont lang=nord}
+1 [njorva es dulvi. it kallar ner.]{lang=nord enc=nordthuravarkenc}
 2 [The deep is dark. It calls us close.]{lang=en}
-2 [Njorva es dulvi. It kallar ner.]{lang=nord}
+2 [njorva es dulvi. it kallar ner.]{lang=nord}
 
-1 [Dulvi njorva gang inn dirma na vri.]{.nativefont lang=nord}
+1 [dulvi njorva gang inn dirma na vri.]{lang=nord enc=nordthuravarkenc}
 2 [The dark deep enters our lay.]{lang=en}
-2 [Dulvi njorva gang inn dirma na vri.]{lang=nord}
+2 [dulvi njorva gang inn dirma na vri.]{lang=nord}
 
-1 [Heimsormur. Hlusta storg nafma.]{.nativefont lang=nord}
+1 [heimsormur. hlusta storg nafma.]{lang=nord enc=nordthuravarkenc}
 2 [Heimsormur. Hear the great name.]{lang=en}
-2 [Heimsormur. Hlusta storg nafma.]{lang=nord}
+2 [heimsormur. hlusta storg nafma.]{lang=nord}
 
-1 [Hollva hav snervi varma rund it.]{.nativefont lang=nord}
+1 [hollva hav snervi varma rund it.]{lang=nord enc=nordthuravarkenc}
 2 [The hall holds narrow walls around it.]{lang=en}
-2 [Hollva hav snervi varma rund it.]{lang=nord}
+2 [hollva hav snervi varma rund it.]{lang=nord}
 
-1 [Hralda hulda gronma. It nel hav lorka.]{.nativefont lang=nord}
+1 [hralda hulda gronma. it nel hav lorka.]{lang=nord enc=nordthuravarkenc}
 2 [A coil covers earth. It has no end.]{lang=en}
-2 [Hralda hulda gronma. It nel hav lorka.]{lang=nord}
+2 [hralda hulda gronma. it nel hav lorka.]{lang=nord}
 
-1 [Hafra hav hrem nifra rurna na it.]{.nativefont lang=nord}
+1 [hafra hav hrem nifra rurna na it.]{lang=nord enc=nordthuravarkenc}
 2 [The sea aches under its movement.]{lang=en}
-2 [Hafra hav hrem nifra rurna na it.]{lang=nord}
+2 [hafra hav hrem nifra rurna na it.]{lang=nord}
 
-1 [Heimsormur hav vredi hulmva.]{.nativefont lang=nord}
+1 [heimsormur hav vredi hulmva.]{lang=nord enc=nordthuravarkenc}
 2 [Heimsormur casts a wide shadow.]{lang=en}
-2 [Heimsormur hav vredi hulmva.]{lang=nord}
+2 [heimsormur hav vredi hulmva.]{lang=nord}
 
-1 [Heimband vindri inn hulmva.]{.nativefont lang=nord}
+1 [heimband vindri inn hulmva.]{lang=nord enc=nordthuravarkenc}
 2 [The villages wait within that shadow.]{lang=en}
-2 [Heimband vindri inn hulmva.]{lang=nord}
+2 [heimband vindri inn hulmva.]{lang=nord}
 
-1 [Dirna smol skip or vatna.]{.nativefont lang=nord}
+1 [dirna smol skip or vatna.]{lang=nord enc=nordthuravarkenc}
 2 [Sing a small ship on water.]{lang=en}
-2 [Dirna smol skip or vatna.]{lang=nord}
+2 [dirna smol skip or vatna.]{lang=nord}
 
-1 [Dirna strandva. It tharf hlev.]{.nativefont lang=nord}
+1 [dirna strandva. it tharf hlev.]{lang=nord enc=nordthuravarkenc}
 2 [Sing the shore. It needs shelter.]{lang=en}
-2 [Dirna strandva. It tharf hlev.]{lang=nord}
+2 [dirna strandva. it tharf hlev.]{lang=nord}
 
 ***
 
-1 [Svelti hafra hav ormla na rurna.]{.nativefont lang=nord}
+1 [svelti hafra hav ormla na rurna.]{lang=nord enc=nordthuravarkenc}
 2 [The salt sea holds a stirring serpent.]{lang=en}
-2 [Svelti hafra hav ormla na rurna.]{lang=nord}
+2 [svelti hafra hav ormla na rurna.]{lang=nord}
 
-1 [Svelti vatna klivra strandva miv hrosk.]{.nativefont lang=nord}
+1 [svelti vatna klivra strandva miv hrosk.]{lang=nord enc=nordthuravarkenc}
 2 [Salt water climbs the fearful shore.]{lang=en}
-2 [Svelti vatna klivra strandva miv hrosk.]{lang=nord}
+2 [svelti vatna klivra strandva miv hrosk.]{lang=nord}
 
-1 [Vatna risna likva varma inn landri.]{.nativefont lang=nord}
+1 [vatna risna likva varma inn landri.]{lang=nord enc=nordthuravarkenc}
 2 [Water rises like walls inland.]{lang=en}
-2 [Vatna risna likva varma inn landri.]{lang=nord}
+2 [vatna risna likva varma inn landri.]{lang=nord}
 
-1 [Vatna gang salm heimla.]{.nativefont lang=nord}
+1 [vatna gang salm heimla.]{lang=nord enc=nordthuravarkenc}
 2 [Water walks among the houses.]{lang=en}
-2 [Vatna gang salm heimla.]{lang=nord}
+2 [vatna gang salm heimla.]{lang=nord}
 
-1 [Rukma skurvi risna hupra hroldi.]{.nativefont lang=nord}
+1 [rukma skurvi risna hupra hroldi.]{lang=nord enc=nordthuravarkenc}
 2 [Smoke ought to rise above roofs.]{lang=en}
-2 [Rukma skurvi risna hupra hroldi.]{lang=nord}
+2 [rukma skurvi risna hupra hroldi.]{lang=nord}
 
-1 [Rukma nel risna herni. Skolma sisna thru dverna.]{.nativefont lang=nord}
+1 [rukma nel risna herni. skolma sisna thru dverna.]{lang=nord enc=nordthuravarkenc}
 2 [No smoke rises here. Foam hisses through doors.]{lang=en}
-2 [Rukma nel risna herni. Skolma sisna thru dverna.]{lang=nord}
+2 [rukma nel risna herni. skolma sisna thru dverna.]{lang=nord}
 
-1 [Noll fiskband halv dvask than.]{.nativefont lang=nord}
+1 [noll fiskband halv dvask than.]{lang=nord enc=nordthuravarkenc}
 2 [No fishing net holds that neck.]{lang=en}
-2 [Noll fiskband halv dvask than.]{lang=nord}
+2 [noll fiskband halv dvask than.]{lang=nord}
 
-1 [Noll gerth kan hnip it.]{.nativefont lang=nord}
+1 [noll gerth kan hnip it.]{lang=nord enc=nordthuravarkenc}
 2 [No spear can touch it.]{lang=en}
-2 [Noll gerth kan hnip it.]{lang=nord}
+2 [noll gerth kan hnip it.]{lang=nord}
 
-1 [Hondi halv smol kinli.]{.nativefont lang=nord}
+1 [hondi halv smol kinli.]{lang=nord enc=nordthuravarkenc}
 2 [Hands hold small children.]{lang=en}
-2 [Hondi halv smol kinli.]{lang=nord}
+2 [hondi halv smol kinli.]{lang=nord}
 
-1 [Hafra hav melgri farn af hondi.]{.nativefont lang=nord}
+1 [hafra hav melgri farn af hondi.]{lang=nord enc=nordthuravarkenc}
 2 [The sea hungers beyond those hands.]{lang=en}
-2 [Hafra hav melgri farn af hondi.]{lang=nord}
+2 [hafra hav melgri farn af hondi.]{lang=nord}
 
 ***
 
-1 [Skalforv berva storg hamri or hlomta.]{.nativefont lang=nord}
+1 [skalforv berva storg hamri or hlomta.]{lang=nord enc=nordthuravarkenc}
 2 [Skalforv bears a great hammer on his shoulder.]{lang=en}
-2 [Skalforv berva storg hamri or hlomta.]{lang=nord}
+2 [skalforv berva storg hamri or hlomta.]{lang=nord}
 
-1 [Skip es smol. It vindri nifra hanv.]{.nativefont lang=nord}
+1 [skip es smol. it vindri nifra hanv.]{lang=nord enc=nordthuravarkenc}
 2 [The ship is small. It waits below him.]{lang=en}
-2 [Skip es smol. It vindri nifra hanv.]{lang=nord}
+2 [skip es smol. it vindri nifra hanv.]{lang=nord}
 
-1 [Hovnod na Thrunvald berva spurni na hanv.]{.nativefont lang=nord}
+1 [hovnod na thrunvald berva spurni na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Thrunvald's blessing carries his request.]{lang=en}
-2 [Hovnod na Thrunvald berva spurni na hanv.]{lang=nord}
+2 [hovnod na thrunvald berva spurni na hanv.]{lang=nord}
 
-1 [Skathma na strandva stavi bast hanv.]{.nativefont lang=nord}
+1 [skathma na strandva stavi bast hanv.]{lang=nord enc=nordthuravarkenc}
 2 [The threatened shore stays behind him.]{lang=en}
-2 [Skathma na strandva stavi bast hanv.]{lang=nord}
+2 [skathma na strandva stavi bast hanv.]{lang=nord}
 
-1 [Thresk gang inn dulvi vatna.]{.nativefont lang=nord}
+1 [thresk gang inn dulvi vatna.]{lang=nord enc=nordthuravarkenc}
 2 [The keel goes into dark water.]{lang=en}
-2 [Thresk gang inn dulvi vatna.]{lang=nord}
+2 [thresk gang inn dulvi vatna.]{lang=nord}
 
-1 [Heimla es smol ok nel skelm.]{.nativefont lang=nord}
+1 [heimla es smol ok nel skelm.]{lang=nord enc=nordthuravarkenc}
 2 [The houses are small and vanish from sight.]{lang=en}
-2 [Heimla es smol ok nel skelm.]{lang=nord}
+2 [heimla es smol ok nel skelm.]{lang=nord}
 
-1 [Eiv knerv berva vrastma na mannva.]{.nativefont lang=nord}
+1 [eiv knerv berva vrastma na mannva.]{lang=nord enc=nordthuravarkenc}
 2 [One body carries human strength.]{lang=en}
-2 [Eiv knerv berva vrastma na mannva.]{lang=nord}
+2 [eiv knerv berva vrastma na mannva.]{lang=nord}
 
-1 [Eiv knerv nel halv hralda. It rurna ut.]{.nativefont lang=nord}
+1 [eiv knerv nel halv hralda. it rurna ut.]{lang=nord enc=nordthuravarkenc}
 2 [One body cannot hold the coil. It turns outside.]{lang=en}
-2 [Eiv knerv nel halv hralda. It rurna ut.]{lang=nord}
+2 [eiv knerv nel halv hralda. it rurna ut.]{lang=nord}
 
-1 [Dirna smol skip or vatna.]{.nativefont lang=nord}
+1 [dirna smol skip or vatna.]{lang=nord enc=nordthuravarkenc}
 2 [Sing a small ship on water.]{lang=en}
-2 [Dirna smol skip or vatna.]{lang=nord}
+2 [dirna smol skip or vatna.]{lang=nord}
 
-1 [Dirna strandva. It tharf hlev.]{.nativefont lang=nord}
+1 [dirna strandva. it tharf hlev.]{lang=nord enc=nordthuravarkenc}
 2 [Sing the shore. It needs shelter.]{lang=en}
-2 [Dirna strandva. It tharf hlev.]{lang=nord}
+2 [dirna strandva. it tharf hlev.]{lang=nord}
 
 ***
 
-1 [Vidma halv slak af hafra.]{.nativefont lang=nord}
+1 [vidma halv slak af hafra.]{lang=nord enc=nordthuravarkenc}
 2 [Wood bears blows from the sea.]{lang=en}
-2 [Vidma halv slak af hafra.]{lang=nord}
+2 [vidma halv slak af hafra.]{lang=nord}
 
-1 [Vatna na hafra klivra merv na skip.]{.nativefont lang=nord}
+1 [vatna na hafra klivra merv na skip.]{lang=nord enc=nordthuravarkenc}
 2 [Sea water climbs the ship's bones.]{lang=en}
-2 [Vatna na hafra klivra merv na skip.]{lang=nord}
+2 [vatna na hafra klivra merv na skip.]{lang=nord}
 
-1 [Hamri miv hondi es halvi.]{.nativefont lang=nord}
+1 [hamri miv hondi es halvi.]{lang=nord enc=nordthuravarkenc}
 2 [Hammer and hand hold fast.]{lang=en}
-2 [Hamri miv hondi es halvi.]{lang=nord}
+2 [hamri miv hondi es halvi.]{lang=nord}
 
-1 [Hofna na ormla risna hurvi.]{.nativefont lang=nord}
+1 [hofna na ormla risna hurvi.]{lang=nord enc=nordthuravarkenc}
 2 [The serpent's head rises high.]{lang=en}
-2 [Hofna na ormla risna hurvi.]{lang=nord}
+2 [hofna na ormla risna hurvi.]{lang=nord}
 
-1 [Hralda hulda vatna likva skiva.]{.nativefont lang=nord}
+1 [hralda hulda vatna likva skiva.]{lang=nord enc=nordthuravarkenc}
 2 [The coil covers water like a cloud.]{lang=en}
-2 [Hralda hulda vatna likva skiva.]{lang=nord}
+2 [hralda hulda vatna likva skiva.]{lang=nord}
 
-1 [Skurna na hralda risna likva skromi at hafra.]{.nativefont lang=nord}
+1 [skurna na hralda risna likva skromi at hafra.]{lang=nord enc=nordthuravarkenc}
 2 [The coil's flesh rises like mountains at sea.]{lang=en}
-2 [Skurna na hralda risna likva skromi at hafra.]{lang=nord}
+2 [skurna na hralda risna likva skromi at hafra.]{lang=nord}
 
-1 [Skalforv sken vrastma fralm hanv.]{.nativefont lang=nord}
+1 [skalforv sken vrastma fralm hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Skalforv sees the strength before him.]{lang=en}
-2 [Skalforv sken vrastma fralm hanv.]{lang=nord}
+2 [skalforv sken vrastma fralm hanv.]{lang=nord}
 
-1 [Skalforv liftva arnva buen.]{.nativefont lang=nord}
+1 [skalforv liftva arnva buen.]{lang=nord enc=nordthuravarkenc}
 2 [Skalforv lifts his arm still.]{lang=en}
-2 [Skalforv liftva arnva buen.]{lang=nord}
+2 [skalforv liftva arnva buen.]{lang=nord}
 
-1 [Eiv slak kinda vigband.]{.nativefont lang=nord}
+1 [eiv slak kinda vigband.]{lang=nord enc=nordthuravarkenc}
 2 [One blow begins the battle.]{lang=en}
-2 [Eiv slak kinda vigband.]{lang=nord}
+2 [eiv slak kinda vigband.]{lang=nord}
 
-1 [Eiv hluva kopra andir slak.]{.nativefont lang=nord}
+1 [eiv hluva kopra andir slak.]{lang=nord enc=nordthuravarkenc}
 2 [One breath buys another blow.]{lang=en}
-2 [Eiv hluva kopra andir slak.]{lang=nord}
+2 [eiv hluva kopra andir slak.]{lang=nord}
 
 ***
 
-1 [Staf eiv gludva. Regva falna.]{.nativefont lang=nord}
+1 [staf eiv gludva. regva falna.]{lang=nord enc=nordthuravarkenc}
 2 [First day. Rain falls.]{lang=en}
-2 [Staf eiv gludva. Regva falna.]{lang=nord}
+2 [staf eiv gludva. regva falna.]{lang=nord}
 
-1 [Staf eiv nottva. Himra ljormi.]{.nativefont lang=nord}
+1 [staf eiv nottva. himra ljormi.]{lang=nord enc=nordthuravarkenc}
 2 [First night. The sky flashes.]{lang=en}
-2 [Staf eiv nottva. Himra ljormi.]{lang=nord}
+2 [staf eiv nottva. himra ljormi.]{lang=nord}
 
-1 [Eldstrik hulda ut ormla.]{.nativefont lang=nord}
+1 [eldstrik hulda ut ormla.]{lang=nord enc=nordthuravarkenc}
 2 [Lightning uncovers the serpent.]{lang=en}
-2 [Eldstrik hulda ut ormla.]{lang=nord}
+2 [eldstrik hulda ut ormla.]{lang=nord}
 
-1 [Lang hulmva lork bast it.]{.nativefont lang=nord}
+1 [lang hulmva lork bast it.]{lang=nord enc=nordthuravarkenc}
 2 [Long shadows close behind it.]{lang=en}
-2 [Lang hulmva lork bast it.]{lang=nord}
+2 [lang hulmva lork bast it.]{lang=nord}
 
-1 [Hamri andri melgri na ormla.]{.nativefont lang=nord}
+1 [hamri andri melgri na ormla.]{lang=nord enc=nordthuravarkenc}
 2 [The hammer answers the serpent's hunger.]{lang=en}
-2 [Hamri andri melgri na ormla.]{lang=nord}
+2 [hamri andri melgri na ormla.]{lang=nord}
 
-1 [Krast slak brak dulvi vatna.]{.nativefont lang=nord}
+1 [krast slak brak dulvi vatna.]{lang=nord enc=nordthuravarkenc}
 2 [Hard blows break the darkness.]{lang=en}
-2 [Krast slak brak dulvi vatna.]{lang=nord}
+2 [krast slak brak dulvi vatna.]{lang=nord}
 
-1 [Skip hup nifra hanv.]{.nativefont lang=nord}
+1 [skip hup nifra hanv.]{lang=nord enc=nordthuravarkenc}
 2 [The ship leaps beneath him.]{lang=en}
-2 [Skip hup nifra hanv.]{lang=nord}
+2 [skip hup nifra hanv.]{lang=nord}
 
-1 [Lang funhul tharv halv vidma.]{.nativefont lang=nord}
+1 [lang funhul tharv halv vidma.]{lang=nord enc=nordthuravarkenc}
 2 [His boots must hold the timber.]{lang=en}
-2 [Lang funhul tharv halv vidma.]{lang=nord}
+2 [lang funhul tharv halv vidma.]{lang=nord}
 
-1 [Strandva miv plem vatna vindri farn.]{.nativefont lang=nord}
+1 [strandva miv plem vatna vindri farn.]{lang=nord enc=nordthuravarkenc}
 2 [The flooded shore waits far away.]{lang=en}
-2 [Strandva miv plem vatna vindri farn.]{lang=nord}
+2 [strandva miv plem vatna vindri farn.]{lang=nord}
 
-1 [Hrosk tharv nel ferna hanv bak.]{.nativefont lang=nord}
+1 [hrosk tharv nel ferna hanv bak.]{lang=nord enc=nordthuravarkenc}
 2 [Fear must not lead him back.]{lang=en}
-2 [Hrosk tharv nel ferna hanv bak.]{lang=nord}
+2 [hrosk tharv nel ferna hanv bak.]{lang=nord}
 
 ***
 
-1 [Staf tvei gludva. Skand na hafra.]{.nativefont lang=nord}
+1 [staf tvei gludva. skand na hafra.]{lang=nord enc=nordthuravarkenc}
 2 [Second day. The sea's teeth.]{lang=en}
-2 [Staf tvei gludva. Skand na hafra.]{lang=nord}
+2 [staf tvei gludva. skand na hafra.]{lang=nord}
 
-1 [Staf tvei nottva. Merv es svul likva stevna.]{.nativefont lang=nord}
+1 [staf tvei nottva. merv es svul likva stevna.]{lang=nord enc=nordthuravarkenc}
 2 [Second night. Bones cold as stone.]{lang=en}
-2 [Staf tvei nottva. Merv es svul likva stevna.]{lang=nord}
+2 [staf tvei nottva. merv es svul likva stevna.]{lang=nord}
 
-1 [Skiprand hnurna nifra vatna.]{.nativefont lang=nord}
+1 [skiprand hnurna nifra vatna.]{lang=nord enc=nordthuravarkenc}
 2 [The gunwale groans under water.]{lang=en}
-2 [Skiprand hnurna nifra vatna.]{lang=nord}
+2 [skiprand hnurna nifra vatna.]{lang=nord}
 
-1 [Hondi hav vrastma or vati vidma.]{.nativefont lang=nord}
+1 [hondi hav vrastma or vati vidma.]{lang=nord enc=nordthuravarkenc}
 2 [His grip holds strength against wet wood.]{lang=en}
-2 [Hondi hav vrastma or vati vidma.]{lang=nord}
+2 [hondi hav vrastma or vati vidma.]{lang=nord}
 
-1 [Hanv tharv nem hluva fror slak.]{.nativefont lang=nord}
+1 [hanv tharv nem hluva fror slak.]{lang=nord enc=nordthuravarkenc}
 2 [He must take a breath before striking.]{lang=en}
-2 [Hanv tharv nem hluva fror slak.]{lang=nord}
+2 [hanv tharv nem hluva fror slak.]{lang=nord}
 
-1 [Fundi tharv stann. Slak felga.]{.nativefont lang=nord}
+1 [fundi tharv stann. slak felga.]{lang=nord enc=nordthuravarkenc}
 2 [Feet must stand. Blows follow.]{lang=en}
-2 [Fundi tharv stann. Slak felga.]{lang=nord}
+2 [fundi tharv stann. slak felga.]{lang=nord}
 
-1 [Knerv rurna. It es storg.]{.nativefont lang=nord}
+1 [knerv rurna. it es storg.]{lang=nord enc=nordthuravarkenc}
 2 [The body twists. It is huge.]{lang=en}
-2 [Knerv rurna. It es storg.]{lang=nord}
+2 [knerv rurna. it es storg.]{lang=nord}
 
-1 [Hnura na skard vindri nifra hulmva na it.]{.nativefont lang=nord}
+1 [hnura na skard vindri nifra hulmva na it.]{lang=nord enc=nordthuravarkenc}
 2 [Grief waits beneath its shadow.]{lang=en}
-2 [Hnura na skard vindri nifra hulmva na it.]{lang=nord}
+2 [hnura na skard vindri nifra hulmva na it.]{lang=nord}
 
-1 [Skip es smol. It berva.]{.nativefont lang=nord}
+1 [skip es smol. it berva.]{lang=nord enc=nordthuravarkenc}
 2 [The ship is small. It bears him.]{lang=en}
-2 [Skip es smol. It berva.]{lang=nord}
+2 [skip es smol. it berva.]{lang=nord}
 
-1 [Karnva es vrast. Hanv stann.]{.nativefont lang=nord}
+1 [karnva es vrast. hanv stann.]{lang=nord enc=nordthuravarkenc}
 2 [The man is strong. He stands.]{lang=en}
-2 [Karnva es vrast. Hanv stann.]{lang=nord}
+2 [karnva es vrast. hanv stann.]{lang=nord}
 
 ***
 
-1 [Staf thrin gludva. Hamri na thrumva.]{.nativefont lang=nord}
+1 [staf thrin gludva. hamri na thrumva.]{lang=nord enc=nordthuravarkenc}
 2 [Third day. Thunder's hammer.]{lang=en}
-2 [Staf thrin gludva. Hamri na thrumva.]{lang=nord}
+2 [staf thrin gludva. hamri na thrumva.]{lang=nord}
 
-1 [Staf thrin nottva. Drum dulvi.]{.nativefont lang=nord}
+1 [staf thrin nottva. drum dulvi.]{lang=nord enc=nordthuravarkenc}
 2 [Third night. Deep darkness.]{lang=en}
-2 [Staf thrin nottva. Drum dulvi.]{lang=nord}
+2 [staf thrin nottva. drum dulvi.]{lang=nord}
 
-1 [Eldstrik felga krast slak na hanv.]{.nativefont lang=nord}
+1 [eldstrik felga krast slak na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Lightning follows his hard blows.]{lang=en}
-2 [Eldstrik felga krast slak na hanv.]{lang=nord}
+2 [eldstrik felga krast slak na hanv.]{lang=nord}
 
-1 [Skolma gang af skip.]{.nativefont lang=nord}
+1 [skolma gang af skip.]{lang=nord enc=nordthuravarkenc}
 2 [Foam flies from the ship.]{lang=en}
-2 [Skolma gang af skip.]{lang=nord}
+2 [skolma gang af skip.]{lang=nord}
 
-1 [Nafma na asva gang ut.]{.nativefont lang=nord}
+1 [nafma na asva gang ut.]{lang=nord enc=nordthuravarkenc}
 2 [The god's name goes out.]{lang=en}
-2 [Nafma na asva gang ut.]{lang=nord}
+2 [nafma na asva gang ut.]{lang=nord}
 
-1 [Snirna sleppi it af hlurn.]{.nativefont lang=nord}
+1 [snirna sleppi it af hlurn.]{lang=nord enc=nordthuravarkenc}
 2 [Wind tears it from hearing.]{lang=en}
-2 [Snirna sleppi it af hlurn.]{lang=nord}
+2 [snirna sleppi it af hlurn.]{lang=nord}
 
-1 [Andir hluva berva it genda.]{.nativefont lang=nord}
+1 [andir hluva berva it genda.]{lang=nord enc=nordthuravarkenc}
 2 [Another breath bears it again.]{lang=en}
-2 [Andir hluva berva it genda.]{lang=nord}
+2 [andir hluva berva it genda.]{lang=nord}
 
-1 [Arnva risna ok andri buen.]{.nativefont lang=nord}
+1 [arnva risna ok andri buen.]{lang=nord enc=nordthuravarkenc}
 2 [His arm rises and answers still.]{lang=en}
-2 [Arnva risna ok andri buen.]{lang=nord}
+2 [arnva risna ok andri buen.]{lang=nord}
 
-1 [Dirna smol skip or vatna.]{.nativefont lang=nord}
+1 [dirna smol skip or vatna.]{lang=nord enc=nordthuravarkenc}
 2 [Sing a small ship on water.]{lang=en}
-2 [Dirna smol skip or vatna.]{lang=nord}
+2 [dirna smol skip or vatna.]{lang=nord}
 
-1 [Dirna strandva. It tharf hlev.]{.nativefont lang=nord}
+1 [dirna strandva. it tharf hlev.]{lang=nord enc=nordthuravarkenc}
 2 [Sing the shore. It needs shelter.]{lang=en}
-2 [Dirna strandva. It tharf hlev.]{lang=nord}
+2 [dirna strandva. it tharf hlev.]{lang=nord}
 
 ***
 
-1 [Staf fjorv gludva. Lest salmva na vrastma.]{.nativefont lang=nord}
+1 [staf fjorv gludva. lest salmva na vrastma.]{lang=nord enc=nordthuravarkenc}
 2 [Fourth day. The final gathering of strength.]{lang=en}
-2 [Staf fjorv gludva. Lest salmva na vrastma.]{lang=nord}
+2 [staf fjorv gludva. lest salmva na vrastma.]{lang=nord}
 
-1 [Vrastma gruma inn hlomta na hanv.]{.nativefont lang=nord}
+1 [vrastma gruma inn hlomta na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Strength grows in his shoulders.]{lang=en}
-2 [Vrastma gruma inn hlomta na hanv.]{lang=nord}
+2 [vrastma gruma inn hlomta na hanv.]{lang=nord}
 
-1 [Skalforv slak miv hamri firn vrond.]{.nativefont lang=nord}
+1 [skalforv slak miv hamri firn vrond.]{lang=nord enc=nordthuravarkenc}
 2 [Skalforv strikes with the hammer to save them.]{lang=en}
-2 [Skalforv slak miv hamri firn vrond.]{lang=nord}
+2 [skalforv slak miv hamri firn vrond.]{lang=nord}
 
-1 [Skirv hofna na ormla falna.]{.nativefont lang=nord}
+1 [skirv hofna na ormla falna.]{lang=nord enc=nordthuravarkenc}
 2 [The serpent's split head falls.]{lang=en}
-2 [Skirv hofna na ormla falna.]{lang=nord}
+2 [skirv hofna na ormla falna.]{lang=nord}
 
-1 [Njorva drak storg knerv.]{.nativefont lang=nord}
+1 [njorva drak storg knerv.]{lang=nord enc=nordthuravarkenc}
 2 [The deep pulls the great body.]{lang=en}
-2 [Njorva drak storg knerv.]{lang=nord}
+2 [njorva drak storg knerv.]{lang=nord}
 
-1 [Dulvi vatna hulda sarnma.]{.nativefont lang=nord}
+1 [dulvi vatna hulda sarnma.]{lang=nord enc=nordthuravarkenc}
 2 [Dark water covers its wound.]{lang=en}
-2 [Dulvi vatna hulda sarnma.]{lang=nord}
+2 [dulvi vatna hulda sarnma.]{lang=nord}
 
-1 [Hafskel gang hupra it. It gang nif.]{.nativefont lang=nord}
+1 [hafskel gang hupra it. it gang nif.]{lang=nord enc=nordthuravarkenc}
 2 [Waves pass over it as it goes down.]{lang=en}
-2 [Hafskel gang hupra it. It gang nif.]{lang=nord}
+2 [hafskel gang hupra it. it gang nif.]{lang=nord}
 
-1 [Vatna lork hupra farda na it.]{.nativefont lang=nord}
+1 [vatna lork hupra farda na it.]{lang=nord enc=nordthuravarkenc}
 2 [Water closes over its passage.]{lang=en}
-2 [Vatna lork hupra farda na it.]{lang=nord}
+2 [vatna lork hupra farda na it.]{lang=nord}
 
-1 [Skip berva drum hvelda skurna.]{.nativefont lang=nord}
+1 [skip berva drum hvelda skurna.]{lang=nord enc=nordthuravarkenc}
 2 [The ship bears exhausted flesh.]{lang=en}
-2 [Skip berva drum hvelda skurna.]{lang=nord}
+2 [skip berva drum hvelda skurna.]{lang=nord}
 
-1 [Hluva komri bak tvern slak.]{.nativefont lang=nord}
+1 [hluva komri bak tvern slak.]{lang=nord enc=nordthuravarkenc}
 2 [Breath returns between the blows.]{lang=en}
-2 [Hluva komri bak tvern slak.]{lang=nord}
+2 [hluva komri bak tvern slak.]{lang=nord}
 
 ***
 
-1 [Brakri vrastma komri tiv strandva.]{.nativefont lang=nord}
+1 [brakri vrastma komri tiv strandva.]{lang=nord enc=nordthuravarkenc}
 2 [Broken strength comes to shore.]{lang=en}
-2 [Brakri vrastma komri tiv strandva.]{lang=nord}
+2 [brakri vrastma komri tiv strandva.]{lang=nord}
 
-1 [Vul risna af heimla miv thrung.]{.nativefont lang=nord}
+1 [vul risna af heimla miv thrung.]{lang=nord enc=nordthuravarkenc}
 2 [Voices rise from crowded houses.]{lang=en}
-2 [Vul risna af heimla miv thrung.]{lang=nord}
+2 [vul risna af heimla miv thrung.]{lang=nord}
 
-1 [Strandva kallar dreng na velnma.]{.nativefont lang=nord}
+1 [strandva kallar dreng na velnma.]{lang=nord enc=nordthuravarkenc}
 2 [The shore calls to its chosen warrior.]{lang=en}
-2 [Strandva kallar dreng na velnma.]{lang=nord}
+2 [strandva kallar dreng na velnma.]{lang=nord}
 
-1 [Kinli stann ner alva mannva.]{.nativefont lang=nord}
+1 [kinli stann ner alva mannva.]{lang=nord enc=nordthuravarkenc}
 2 [Children stand beside their elders.]{lang=en}
-2 [Kinli stann ner alva mannva.]{lang=nord}
+2 [kinli stann ner alva mannva.]{lang=nord}
 
-1 [Nafma na Thrunvald es thrumva inn komri inn.]{.nativefont lang=nord}
+1 [nafma na thrunvald es thrumva inn komri inn.]{lang=nord enc=nordthuravarkenc}
 2 [Thrunvald's name is thunder in their welcome.]{lang=en}
-2 [Nafma na Thrunvald es thrumva inn komri inn.]{lang=nord}
+2 [nafma na thrunvald es thrumva inn komri inn.]{lang=nord}
 
-1 [Hvelda hondi legva melti nif.]{.nativefont lang=nord}
+1 [hvelda hondi legva melti nif.]{lang=nord enc=nordthuravarkenc}
 2 [The weary hand lowers metal.]{lang=en}
-2 [Hvelda hondi legva melti nif.]{lang=nord}
+2 [hvelda hondi legva melti nif.]{lang=nord}
 
-1 [Hveldi nem vrul hamri.]{.nativefont lang=nord}
+1 [hveldi nem vrul hamri.]{lang=nord enc=nordthuravarkenc}
 2 [Rest receives the heavy hammer.]{lang=en}
-2 [Hveldi nem vrul hamri.]{lang=nord}
+2 [hveldi nem vrul hamri.]{lang=nord}
 
-1 [Hroldi hulda heimband.]{.nativefont lang=nord}
+1 [hroldi hulda heimband.]{lang=nord enc=nordthuravarkenc}
 2 [Roofs shelter their people.]{lang=en}
-2 [Hroldi hulda heimband.]{lang=nord}
+2 [hroldi hulda heimband.]{lang=nord}
 
-1 [Vul samna miv hleva.]{.nativefont lang=nord}
+1 [vul samna miv hleva.]{lang=nord enc=nordthuravarkenc}
 2 [Voices meet in joy.]{lang=en}
-2 [Vul samna miv hleva.]{lang=nord}
+2 [vul samna miv hleva.]{lang=nord}
 
-1 [Nura livma na thenva framna.]{.nativefont lang=nord}
+1 [nura livma na thenva framna.]{lang=nord enc=nordthuravarkenc}
 2 [For now their lives continue.]{lang=en}
-2 [Nura livma na thenva framna.]{lang=nord}
+2 [nura livma na thenva framna.]{lang=nord}
 
 ***
 
-1 [Liftva skulma firn komri bak.]{.nativefont lang=nord}
+1 [liftva skulma firn komri bak.]{lang=nord enc=nordthuravarkenc}
 2 [Raise a cup for the return.]{lang=en}
-2 [Liftva skulma firn komri bak.]{lang=nord}
+2 [liftva skulma firn komri bak.]{lang=nord}
 
-1 [Lurvi eldva andri.]{.nativefont lang=nord}
+1 [lurvi eldva andri.]{lang=nord enc=nordthuravarkenc}
 2 [Let the low fire answer.]{lang=en}
-2 [Lurvi eldva andri.]{lang=nord}
+2 [lurvi eldva andri.]{lang=nord}
 
-1 [Dulvi vatna hulda ormla.]{.nativefont lang=nord}
+1 [dulvi vatna hulda ormla.]{lang=nord enc=nordthuravarkenc}
 2 [Dark water covers the serpent.]{lang=en}
-2 [Dulvi vatna hulda ormla.]{lang=nord}
+2 [dulvi vatna hulda ormla.]{lang=nord}
 
-1 [Dverna skif firn livri mannvar.]{.nativefont lang=nord}
+1 [dverna skif firn livri mannvar.]{lang=nord enc=nordthuravarkenc}
 2 [Doors open for the living.]{lang=en}
-2 [Dverna skif firn livri mannvar.]{lang=nord}
+2 [dverna skif firn livri mannvar.]{lang=nord}
 
-1 [Bulla hulda hondir miv therma.]{.nativefont lang=nord}
+1 [bulla hulda hondir miv therma.]{lang=nord enc=nordthuravarkenc}
 2 [A bowl gives warmth to fingers.]{lang=en}
-2 [Bulla hulda hondir miv therma.]{lang=nord}
+2 [bulla hulda hondir miv therma.]{lang=nord}
 
-1 [Hondi brak melva na vuld inn ljorma na eldsveld.]{.nativefont lang=nord}
+1 [hondi brak melva na vuld inn ljorma na eldsveld.]{lang=nord enc=nordthuravarkenc}
 2 [Hands break grain bread in hearthlight.]{lang=en}
-2 [Hondi brak melva na vuld inn ljorma na eldsveld.]{lang=nord}
+2 [hondi brak melva na vuld inn ljorma na eldsveld.]{lang=nord}
 
-1 [Ut hafra rurna buen.]{.nativefont lang=nord}
+1 [ut hafra rurna buen.]{lang=nord enc=nordthuravarkenc}
 2 [Outside the sea keeps moving.]{lang=en}
-2 [Ut hafra rurna buen.]{lang=nord}
+2 [ut hafra rurna buen.]{lang=nord}
 
-1 [Inn lang sveld halv nerbua.]{.nativefont lang=nord}
+1 [inn lang sveld halv nerbua.]{lang=nord enc=nordthuravarkenc}
 2 [Inside benches hold neighbors.]{lang=en}
-2 [Inn lang sveld halv nerbua.]{lang=nord}
+2 [inn lang sveld halv nerbua.]{lang=nord}
 
-1 [Dirna smol skip or vatna.]{.nativefont lang=nord}
+1 [dirna smol skip or vatna.]{lang=nord enc=nordthuravarkenc}
 2 [Sing a small ship on water.]{lang=en}
-2 [Dirna smol skip or vatna.]{lang=nord}
+2 [dirna smol skip or vatna.]{lang=nord}
 
-1 [Dirna strandva. It hav hlev.]{.nativefont lang=nord}
+1 [dirna strandva. it hav hlev.]{lang=nord enc=nordthuravarkenc}
 2 [Sing the shore. It has shelter.]{lang=en}
-2 [Dirna strandva. It hav hlev.]{lang=nord}
+2 [dirna strandva. it hav hlev.]{lang=nord}
 
 ***
 
-1 [Nura nafm hlus na vindrma.]{.nativefont lang=nord}
+1 [nura nafm hlus na vindrma.]{lang=nord enc=nordthuravarkenc}
 2 [Now name the waiting silence.]{lang=en}
-2 [Nura nafm hlus na vindrma.]{lang=nord}
+2 [nura nafm hlus na vindrma.]{lang=nord}
 
-1 [Nura skulma stap genda.]{.nativefont lang=nord}
+1 [nura skulma stap genda.]{lang=nord enc=nordthuravarkenc}
 2 [Now the cup stops again.]{lang=en}
-2 [Nura skulma stap genda.]{lang=nord}
+2 [nura skulma stap genda.]{lang=nord}
 
-1 [Eldva marl miv smol vul.]{.nativefont lang=nord}
+1 [eldva marl miv smol vul.]{lang=nord enc=nordthuravarkenc}
 2 [The fire speaks in a small voice.]{lang=en}
-2 [Eldva marl miv smol vul.]{lang=nord}
+2 [eldva marl miv smol vul.]{lang=nord}
 
-1 [Andva gang tiv skald.]{.nativefont lang=nord}
+1 [andva gang tiv skald.]{lang=nord enc=nordthuravarkenc}
 2 [Faces turn toward the singer.]{lang=en}
-2 [Andva gang tiv skald.]{lang=nord}
+2 [andva gang tiv skald.]{lang=nord}
 
-1 [Heimsormur halv storg nafma.]{.nativefont lang=nord}
+1 [heimsormur halv storg nafma.]{lang=nord enc=nordthuravarkenc}
 2 [Heimsormur holds the great name.]{lang=en}
-2 [Heimsormur halv storg nafma.]{lang=nord}
+2 [heimsormur halv storg nafma.]{lang=nord}
 
-1 [Herni andir relth skif.]{.nativefont lang=nord}
+1 [herni andir relth skif.]{lang=nord enc=nordthuravarkenc}
 2 [Here another telling opens.]{lang=en}
-2 [Herni andir relth skif.]{lang=nord}
+2 [herni andir relth skif.]{lang=nord}
 
-1 [Hafra farna. Nelth komri.]{.nativefont lang=nord}
+1 [hafra farna. nelth komri.]{lang=nord enc=nordthuravarkenc}
 2 [The sea departs. Doom comes.]{lang=en}
-2 [Hafra farna. Nelth komri.]{lang=nord}
+2 [hafra farna. nelth komri.]{lang=nord}
 
-1 [Dirma gang tiv hersalm.]{.nativefont lang=nord}
+1 [dirma gang tiv hersalm.]{lang=nord enc=nordthuravarkenc}
 2 [The lay turns to the muster.]{lang=en}
-2 [Dirma gang tiv hersalm.]{lang=nord}
+2 [dirma gang tiv hersalm.]{lang=nord}
 
-1 [Hleva na dreng nel kan berna]{.nativefont lang=nord}
+1 [hleva na dreng nel kan berna]{lang=nord enc=nordthuravarkenc}
 2 [The warrior's joy cannot carry]{lang=en}
-2 [Hleva na dreng nel kan berna]{lang=nord}
+2 [hleva na dreng nel kan berna]{lang=nord}
 
-1 [asva heik af svelna.]{.nativefont lang=nord}
+1 [asva heik af svelna.]{lang=nord enc=nordthuravarkenc}
 2 [the god home from dying.]{lang=en}
 2 [asva heik af svelna.]{lang=nord}
 
 ***
 
-1 [Aldarlok skif lest vangri.]{.nativefont lang=nord}
+1 [aldarlok skif lest vangri.]{lang=nord enc=nordthuravarkenc}
 2 [Aldarlok opens the final field.]{lang=en}
-2 [Aldarlok skif lest vangri.]{lang=nord}
+2 [aldarlok skif lest vangri.]{lang=nord}
 
-1 [Ul vrondri samna theri.]{.nativefont lang=nord}
+1 [ul vrondri samna theri.]{lang=nord enc=nordthuravarkenc}
 2 [All the defenders gather there.]{lang=en}
-2 [Ul vrondri samna theri.]{lang=nord}
+2 [ul vrondri samna theri.]{lang=nord}
 
-1 [Vigvoll vindri nifra fundi na thenva.]{.nativefont lang=nord}
+1 [vigvoll vindri nifra fundi na thenva.]{lang=nord enc=nordthuravarkenc}
 2 [[place-vigvoll|Vigvoll]] waits beneath their feet.
-2 [Vigvoll vindri nifra fundi na thenva.]{lang=nord}
+2 [vigvoll vindri nifra fundi na thenva.]{lang=nord}
 
-1 [Eldva komri. It es storg.]{.nativefont lang=nord}
+1 [eldva komri. it es storg.]{lang=nord enc=nordthuravarkenc}
 2 [The fire comes. It is vast.]{lang=en}
-2 [Eldva komri. It es storg.]{lang=nord}
+2 [eldva komri. it es storg.]{lang=nord}
 
-1 [Askva vindri firn eldna.]{.nativefont lang=nord}
+1 [askva vindri firn eldna.]{lang=nord enc=nordthuravarkenc}
 2 [The ash tree waits to burn.]{lang=en}
-2 [Askva vindri firn eldna.]{lang=nord}
+2 [askva vindri firn eldna.]{lang=nord}
 
-1 [Asguard stann nifra nelth than.]{.nativefont lang=nord}
+1 [asguard stann nifra nelth than.]{lang=nord enc=nordthuravarkenc}
 2 [[place-asguard|Asguard]] stands beneath that doom.
-2 [Asguard stann nifra nelth than.]{lang=nord}
+2 [asguard stann nifra nelth than.]{lang=nord}
 
-1 [Thrunvald metva storg ormla.]{.nativefont lang=nord}
+1 [thrunvald metva storg ormla.]{lang=nord enc=nordthuravarkenc}
 2 [Thrunvald meets the great serpent.]{lang=en}
-2 [Thrunvald metva storg ormla.]{lang=nord}
+2 [thrunvald metva storg ormla.]{lang=nord}
 
-1 [Hamri risna hupra hanv.]{.nativefont lang=nord}
+1 [hamri risna hupra hanv.]{lang=nord enc=nordthuravarkenc}
 2 [The hammer rises over him.]{lang=en}
-2 [Hamri risna hupra hanv.]{lang=nord}
+2 [hamri risna hupra hanv.]{lang=nord}
 
-1 [Hondi na hovnod tiv skip.]{.nativefont lang=nord}
+1 [hondi na hovnod tiv skip.]{lang=nord enc=nordthuravarkenc}
 2 [The hand of blessing for ships]{lang=en}
-2 [Hondi na hovnod tiv skip.]{lang=nord}
+2 [hondi na hovnod tiv skip.]{lang=nord}
 
-1 [Hondi halv lest harnva fralm it.]{.nativefont lang=nord}
+1 [hondi halv lest harnva fralm it.]{lang=nord enc=nordthuravarkenc}
 2 [holds its last enemy before it.]{lang=en}
-2 [Hondi halv lest harnva fralm it.]{lang=nord}
+2 [hondi halv lest harnva fralm it.]{lang=nord}
 
 ***
 
-1 [Nura noll strandva kallar komri inn.]{.nativefont lang=nord}
+1 [nura noll strandva kallar komri inn.]{lang=nord enc=nordthuravarkenc}
 2 [Now no harbor calls a welcome.]{lang=en}
-2 [Nura noll strandva kallar komri inn.]{lang=nord}
+2 [nura noll strandva kallar komri inn.]{lang=nord}
 
-1 [Nura dulvi svarka vindri.]{.nativefont lang=nord}
+1 [nura dulvi svarka vindri.]{lang=nord enc=nordthuravarkenc}
 2 [Now dark venom waits.]{lang=en}
-2 [Nura dulvi svarka vindri.]{lang=nord}
+2 [nura dulvi svarka vindri.]{lang=nord}
 
-1 [Heimsormur thriv tiv asva.]{.nativefont lang=nord}
+1 [heimsormur thriv tiv asva.]{lang=nord enc=nordthuravarkenc}
 2 [Heimsormur drives against the god.]{lang=en}
-2 [Heimsormur thriv tiv asva.]{lang=nord}
+2 [heimsormur thriv tiv asva.]{lang=nord}
 
-1 [Hurvi hamri vindri firn andri.]{.nativefont lang=nord}
+1 [hurvi hamri vindri firn andri.]{lang=nord enc=nordthuravarkenc}
 2 [The high hammer waits to answer.]{lang=en}
-2 [Hurvi hamri vindri firn andri.]{lang=nord}
+2 [hurvi hamri vindri firn andri.]{lang=nord}
 
-1 [Svelda slak falna nif.]{.nativefont lang=nord}
+1 [svelda slak falna nif.]{lang=nord enc=nordthuravarkenc}
 2 [A killing blow falls down.]{lang=en}
-2 [Svelda slak falna nif.]{lang=nord}
+2 [svelda slak falna nif.]{lang=nord}
 
-1 [Knerv na Heimsormur falna nif.]{.nativefont lang=nord}
+1 [knerv na heimsormur falna nif.]{lang=nord enc=nordthuravarkenc}
 2 [Heimsormur's body falls down.]{lang=en}
-2 [Knerv na Heimsormur falna nif.]{lang=nord}
+2 [knerv na heimsormur falna nif.]{lang=nord}
 
-1 [Svarka komri tiv vrastma na blimma.]{.nativefont lang=nord}
+1 [svarka komri tiv vrastma na blimma.]{lang=nord enc=nordthuravarkenc}
 2 [Venom comes to victorious strength.]{lang=en}
-2 [Svarka komri tiv vrastma na blimma.]{lang=nord}
+2 [svarka komri tiv vrastma na blimma.]{lang=nord}
 
-1 [Blimma berva hrambi barma.]{.nativefont lang=nord}
+1 [blimma berva hrambi barma.]{lang=nord enc=nordthuravarkenc}
 2 [Victory bears a bitter burden.]{lang=en}
-2 [Blimma berva hrambi barma.]{lang=nord}
+2 [blimma berva hrambi barma.]{lang=nord}
 
-1 [Storg slak nod svelthma.]{.nativefont lang=nord}
+1 [storg slak nod svelthma.]{lang=nord enc=nordthuravarkenc}
 2 [The great blow gives death.]{lang=en}
-2 [Storg slak nod svelthma.]{lang=nord}
+2 [storg slak nod svelthma.]{lang=nord}
 
-1 [Asva berva svelthma inn sjel.]{.nativefont lang=nord}
+1 [asva berva svelthma inn sjel.]{lang=nord enc=nordthuravarkenc}
 2 [The god bears death within himself.]{lang=en}
-2 [Asva berva svelthma inn sjel.]{lang=nord}
+2 [asva berva svelthma inn sjel.]{lang=nord}
 
 ***
 
-1 [Eiv. Alva gronma hlun.]{.nativefont lang=nord}
+1 [eiv. alva gronma hlun.]{lang=nord enc=nordthuravarkenc}
 2 [One. The old earth hears.]{lang=en}
-2 [Eiv. Alva gronma hlun.]{lang=nord}
+2 [eiv. alva gronma hlun.]{lang=nord}
 
-1 [Eiv fundi falna or Vigvoll.]{.nativefont lang=nord}
+1 [eiv fundi falna or vigvoll.]{lang=nord enc=nordthuravarkenc}
 2 [One foot falls on Vigvoll.]{lang=en}
-2 [Eiv fundi falna or Vigvoll.]{lang=nord}
+2 [eiv fundi falna or vigvoll.]{lang=nord}
 
-1 [Tvei. Thrunvald gang framri.]{.nativefont lang=nord}
+1 [tvei. thrunvald gang framri.]{lang=nord enc=nordthuravarkenc}
 2 [Two. Thrunvald walks forward.]{lang=en}
-2 [Tvei. Thrunvald gang framri.]{lang=nord}
+2 [tvei. thrunvald gang framri.]{lang=nord}
 
-1 [Tvei fundi berva hluva na hanv.]{.nativefont lang=nord}
+1 [tvei fundi berva hluva na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Two feet bear his breathing.]{lang=en}
-2 [Tvei fundi berva hluva na hanv.]{lang=nord}
+2 [tvei fundi berva hluva na hanv.]{lang=nord}
 
-1 [Thrin. Staf thrin fundgang felga.]{.nativefont lang=nord}
+1 [thrin. staf thrin fundgang felga.]{lang=nord enc=nordthuravarkenc}
 2 [Three. The third step follows.]{lang=en}
-2 [Thrin. Staf thrin fundgang felga.]{lang=nord}
+2 [thrin. staf thrin fundgang felga.]{lang=nord}
 
-1 [Vrastma miv skathma berva hanv buen.]{.nativefont lang=nord}
+1 [vrastma miv skathma berva hanv buen.]{lang=nord enc=nordthuravarkenc}
 2 [Endangered strength bears him still.]{lang=en}
-2 [Vrastma miv skathma berva hanv buen.]{lang=nord}
+2 [vrastma miv skathma berva hanv buen.]{lang=nord}
 
-1 [Fjorv. Vrul fundgang humna.]{.nativefont lang=nord}
+1 [fjorv. vrul fundgang humna.]{lang=nord enc=nordthuravarkenc}
 2 [Four. A heavy footstep sounds.]{lang=en}
-2 [Fjorv. Vrul fundgang humna.]{lang=nord}
+2 [fjorv. vrul fundgang humna.]{lang=nord}
 
-1 [Nelth felga siv farda na hanv.]{.nativefont lang=nord}
+1 [nelth felga siv farda na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Fate follows beside his journey.]{lang=en}
-2 [Nelth felga siv farda na hanv.]{lang=nord}
+2 [nelth felga siv farda na hanv.]{lang=nord}
 
-1 [Femri. Vrilk knerv gang.]{.nativefont lang=nord}
+1 [femri. vrilk knerv gang.]{lang=nord enc=nordthuravarkenc}
 2 [Five. The weak body walks.]{lang=en}
-2 [Femri. Vrilk knerv gang.]{lang=nord}
+2 [femri. vrilk knerv gang.]{lang=nord}
 
-1 [Femri fundgang es lurmi.]{.nativefont lang=nord}
+1 [femri fundgang es lurmi.]{lang=nord enc=nordthuravarkenc}
 2 [Five steps are complete.]{lang=en}
-2 [Femri fundgang es lurmi.]{lang=nord}
+2 [femri fundgang es lurmi.]{lang=nord}
 
 ***
 
-1 [Seks. Vri minva hovnod firn hafra.]{.nativefont lang=nord}
+1 [seks. vri minva hovnod firn hafra.]{lang=nord enc=nordthuravarkenc}
 2 [Six. We remember the sea blessing.]{lang=en}
-2 [Seks. Vri minva hovnod firn hafra.]{lang=nord}
+2 [seks. vri minva hovnod firn hafra.]{lang=nord}
 
-1 [Skip vindri nifra himra na vendrama.]{.nativefont lang=nord}
+1 [skip vindri nifra himra na vendrama.]{lang=nord enc=nordthuravarkenc}
 2 [Ships wait beneath a changing sky.]{lang=en}
-2 [Skip vindri nifra himra na vendrama.]{lang=nord}
+2 [skip vindri nifra himra na vendrama.]{lang=nord}
 
-1 [Sevn. Vri minva hroldi miv hlev.]{.nativefont lang=nord}
+1 [sevn. vri minva hroldi miv hlev.]{lang=nord enc=nordthuravarkenc}
 2 [Seven. We remember sheltered roofs.]{lang=en}
-2 [Sevn. Vri minva hroldi miv hlev.]{lang=nord}
+2 [sevn. vri minva hroldi miv hlev.]{lang=nord}
 
-1 [Storma komri bak tiv thenva.]{.nativefont lang=nord}
+1 [storma komri bak tiv thenva.]{lang=nord enc=nordthuravarkenc}
 2 [Storms return to them.]{lang=en}
-2 [Storma komri bak tiv thenva.]{lang=nord}
+2 [storma komri bak tiv thenva.]{lang=nord}
 
-1 [Okti. Vri minva arnva firn vrond.]{.nativefont lang=nord}
+1 [okti. vri minva arnva firn vrond.]{lang=nord enc=nordthuravarkenc}
 2 [Eight. We remember the defending arm.]{lang=en}
-2 [Okti. Vri minva arnva firn vrond.]{lang=nord}
+2 [okti. vri minva arnva firn vrond.]{lang=nord}
 
-1 [Gronma es halvi af melgri na dulvma.]{.nativefont lang=nord}
+1 [gronma es halvi af melgri na dulvma.]{lang=nord enc=nordthuravarkenc}
 2 [Earth held against the hunger of darkness.]{lang=en}
-2 [Gronma es halvi af melgri na dulvma.]{lang=nord}
+2 [gronma es halvi af melgri na dulvma.]{lang=nord}
 
-1 [Niv. Lest fundgang es lurmi.]{.nativefont lang=nord}
+1 [niv. lest fundgang es lurmi.]{lang=nord enc=nordthuravarkenc}
 2 [Nine. The final step is complete.]{lang=en}
-2 [Niv. Lest fundgang es lurmi.]{lang=nord}
+2 [niv. lest fundgang es lurmi.]{lang=nord}
 
-1 [Nottva samna or Thrunvald.]{.nativefont lang=nord}
+1 [nottva samna or thrunvald.]{lang=nord enc=nordthuravarkenc}
 2 [Night gathers upon Thrunvald.]{lang=en}
-2 [Nottva samna or Thrunvald.]{lang=nord}
+2 [nottva samna or thrunvald.]{lang=nord}
 
-1 [Svarka lork hluva na hanv.]{.nativefont lang=nord}
+1 [svarka lork hluva na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [The venom ends his breath.]{lang=en}
-2 [Svarka lork hluva na hanv.]{lang=nord}
+2 [svarka lork hluva na hanv.]{lang=nord}
 
-1 [Blimma stann siv svelna na hanv.]{.nativefont lang=nord}
+1 [blimma stann siv svelna na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [Victory stands beside his death.]{lang=en}
-2 [Blimma stann siv svelna na hanv.]{lang=nord}
+2 [blimma stann siv svelna na hanv.]{lang=nord}
 
 ***
 
-1 [Staf dek es farn af relth.]{.nativefont lang=nord}
+1 [staf dek es farn af relth.]{lang=nord enc=nordthuravarkenc}
 2 [The tenth lies beyond the telling.]{lang=en}
-2 [Staf dek es farn af relth.]{lang=nord}
+2 [staf dek es farn af relth.]{lang=nord}
 
-1 [Fundi na Thrunvald stap.]{.nativefont lang=nord}
+1 [fundi na thrunvald stap.]{lang=nord enc=nordthuravarkenc}
 2 [Thrunvald's feet stop.]{lang=en}
-2 [Fundi na Thrunvald stap.]{lang=nord}
+2 [fundi na thrunvald stap.]{lang=nord}
 
-1 [Gudi nod hruna tiv blimma hern.]{.nativefont lang=nord}
+1 [gudi nod hruna tiv blimma hern.]{lang=nord enc=nordthuravarkenc}
 2 [The priests give praise to this victory.]{lang=en}
-2 [Gudi nod hruna tiv blimma hern.]{lang=nord}
+2 [gudi nod hruna tiv blimma hern.]{lang=nord}
 
-1 [Skuldma hremva hluva na hruna.]{.nativefont lang=nord}
+1 [skuldma hremva hluva na hruna.]{lang=nord enc=nordthuravarkenc}
 2 [The cost fills the breath of praise.]{lang=en}
-2 [Skuldma hremva hluva na hruna.]{lang=nord}
+2 [skuldma hremva hluva na hruna.]{lang=nord}
 
-1 [Ormla lagna nath slak.]{.nativefont lang=nord}
+1 [ormla lagna nath slak.]{lang=nord enc=nordthuravarkenc}
 2 [The serpent lies after the blow.]{lang=en}
-2 [Ormla lagna nath slak.]{lang=nord}
+2 [ormla lagna nath slak.]{lang=nord}
 
-1 [Hanv na hamri hav melri vrastma.]{.nativefont lang=nord}
+1 [hanv na hamri hav melri vrastma.]{lang=nord enc=nordthuravarkenc}
 2 [The hammer bearer has spent his strength.]{lang=en}
-2 [Hanv na hamri hav melri vrastma.]{lang=nord}
+2 [hanv na hamri hav melri vrastma.]{lang=nord}
 
-1 [Noll komri inn kallar hanv heik.]{.nativefont lang=nord}
+1 [noll komri inn kallar hanv heik.]{lang=nord enc=nordthuravarkenc}
 2 [No welcome calls him home.]{lang=en}
-2 [Noll komri inn kallar hanv heik.]{lang=nord}
+2 [noll komri inn kallar hanv heik.]{lang=nord}
 
-1 [Noll thermi skulma finva hondi na hanv.]{.nativefont lang=nord}
+1 [noll thermi skulma finva hondi na hanv.]{lang=nord enc=nordthuravarkenc}
 2 [No warm cup finds his hand.]{lang=en}
-2 [Noll thermi skulma finva hondi na hanv.]{lang=nord}
+2 [noll thermi skulma finva hondi na hanv.]{lang=nord}
 
-1 [Dirna niv fundgang or Vigvoll.]{.nativefont lang=nord}
+1 [dirna niv fundgang or vigvoll.]{lang=nord enc=nordthuravarkenc}
 2 [Sing nine steps on Vigvoll.]{lang=en}
-2 [Dirna niv fundgang or Vigvoll.]{lang=nord}
+2 [dirna niv fundgang or vigvoll.]{lang=nord}
 
-1 [Dirna vrastma na vrond. It es melri.]{.nativefont lang=nord}
+1 [dirna vrastma na vrond. it es melri.]{lang=nord enc=nordthuravarkenc}
 2 [Sing defending strength. It is spent.]{lang=en}
-2 [Dirna vrastma na vrond. It es melri.]{lang=nord}
+2 [dirna vrastma na vrond. it es melri.]{lang=nord}
 
 ***
 
-1 [Hlun hofna na skirv at hafra.]{.nativefont lang=nord}
+1 [hlun hofna na skirv at hafra.]{lang=nord enc=nordthuravarkenc}
 2 [Hear the head split at sea.]{lang=en}
-2 [Hlun hofna na skirv at hafra.]{lang=nord}
+2 [hlun hofna na skirv at hafra.]{lang=nord}
 
-1 [Hlun dreng komri bak drum hvelda.]{.nativefont lang=nord}
+1 [hlun dreng komri bak drum hvelda.]{lang=nord enc=nordthuravarkenc}
 2 [Hear the warrior come back exhausted.]{lang=en}
-2 [Hlun dreng komri bak drum hvelda.]{lang=nord}
+2 [hlun dreng komri bak drum hvelda.]{lang=nord}
 
-1 [Hlun hamri na halv hurvi.]{.nativefont lang=nord}
+1 [hlun hamri na halv hurvi.]{lang=nord enc=nordthuravarkenc}
 2 [Hear the hammer held high.]{lang=en}
-2 [Hlun hamri na halv hurvi.]{lang=nord}
+2 [hlun hamri na halv hurvi.]{lang=nord}
 
-1 [Hlun niv fundgang nath slak.]{.nativefont lang=nord}
+1 [hlun niv fundgang nath slak.]{lang=nord enc=nordthuravarkenc}
 2 [Hear nine steps after the blow.]{lang=en}
-2 [Hlun niv fundgang nath slak.]{lang=nord}
+2 [hlun niv fundgang nath slak.]{lang=nord}
 
-1 [Tvei relth berva nafma.]{.nativefont lang=nord}
+1 [tvei relth berva nafma.]{lang=nord enc=nordthuravarkenc}
 2 [Two tellings bear the name.]{lang=en}
-2 [Tvei relth berva nafma.]{lang=nord}
+2 [tvei relth berva nafma.]{lang=nord}
 
-1 [Tvei barma es inn hlusta.]{.nativefont lang=nord}
+1 [tvei barma es inn hlusta.]{lang=nord enc=nordthuravarkenc}
 2 [Two burdens lie in listening.]{lang=en}
-2 [Tvei barma es inn hlusta.]{lang=nord}
+2 [tvei barma es inn hlusta.]{lang=nord}
 
-1 [Noll hanth knelda andra hugdar.]{.nativefont lang=nord}
+1 [noll hanth knelda andra hugdar.]{lang=nord enc=nordthuravarkenc}
 2 [No bridge binds their different reasons.]{lang=en}
-2 [Noll hanth knelda andra hugdar.]{lang=nord}
+2 [noll hanth knelda andra hugdar.]{lang=nord}
 
-1 [Noll braska nod samna tiv thenva.]{.nativefont lang=nord}
+1 [noll braska nod samna tiv thenva.]{lang=nord enc=nordthuravarkenc}
 2 [No boast gives them agreement.]{lang=en}
-2 [Noll braska nod samna tiv thenva.]{lang=nord}
+2 [noll braska nod samna tiv thenva.]{lang=nord}
 
-1 [Halv tvei relth helm.]{.nativefont lang=nord}
+1 [halv tvei relth helm.]{lang=nord enc=nordthuravarkenc}
 2 [Hold both tellings whole.]{lang=en}
-2 [Halv tvei relth helm.]{lang=nord}
+2 [halv tvei relth helm.]{lang=nord}
 
-1 [Halv hlus tvern thenva.]{.nativefont lang=nord}
+1 [halv hlus tvern thenva.]{lang=nord enc=nordthuravarkenc}
 2 [Hold the silence between them.]{lang=en}
-2 [Halv hlus tvern thenva.]{lang=nord}
+2 [halv hlus tvern thenva.]{lang=nord}
 
 ***
 
-1 [Njorva hav vatna nel miv ljorma.]{.nativefont lang=nord}
+1 [njorva hav vatna nel miv ljorma.]{lang=nord enc=nordthuravarkenc}
 2 [The deep holds water without light.]{lang=en}
-2 [Njorva hav vatna nel miv ljorma.]{lang=nord}
+2 [njorva hav vatna nel miv ljorma.]{lang=nord}
 
-1 [Dulvma rurna farn af eldva na vri.]{.nativefont lang=nord}
+1 [dulvma rurna farn af eldva na vri.]{lang=nord enc=nordthuravarkenc}
 2 [Darkness moves beyond our fire.]{lang=en}
-2 [Dulvma rurna farn af eldva na vri.]{lang=nord}
+2 [dulvma rurna farn af eldva na vri.]{lang=nord}
 
-1 [Fiskri halv hondi salm sjel.]{.nativefont lang=nord}
+1 [fiskri halv hondi salm sjel.]{lang=nord enc=nordthuravarkenc}
 2 [A fisherman folds his hands together.]{lang=en}
-2 [Fiskri halv hondi salm sjel.]{lang=nord}
+2 [fiskri halv hondi salm sjel.]{lang=nord}
 
-1 [Smol solvma rurna inn dvulskensa.]{.nativefont lang=nord}
+1 [smol solvma rurna inn dvulskensa.]{lang=nord enc=nordthuravarkenc}
 2 [A little silver moves within a dream.]{lang=en}
-2 [Smol solvma rurna inn dvulskensa.]{lang=nord}
+2 [smol solvma rurna inn dvulskensa.]{lang=nord}
 
-1 [Kinli bugna nifra ulma.]{.nativefont lang=nord}
+1 [kinli bugna nifra ulma.]{lang=nord enc=nordthuravarkenc}
 2 [A child curls beneath wool.]{lang=en}
-2 [Kinli bugna nifra ulma.]{lang=nord}
+2 [kinli bugna nifra ulma.]{lang=nord}
 
-1 [Ner hluva nod therma tiv hofnsveld.]{.nativefont lang=nord}
+1 [ner hluva nod therma tiv hofnsveld.]{lang=nord enc=nordthuravarkenc}
 2 [Close breath gives warmth to the pillow.]{lang=en}
-2 [Ner hluva nod therma tiv hofnsveld.]{lang=nord}
+2 [ner hluva nod therma tiv hofnsveld.]{lang=nord}
 
-1 [Snirna gang siv dverna.]{.nativefont lang=nord}
+1 [snirna gang siv dverna.]{lang=nord enc=nordthuravarkenc}
 2 [Wind walks beside the door.]{lang=en}
-2 [Snirna gang siv dverna.]{lang=nord}
+2 [snirna gang siv dverna.]{lang=nord}
 
-1 [Hvelda hrud nel tharf ormla.]{.nativefont lang=nord}
+1 [hvelda hrud nel tharf ormla.]{lang=nord enc=nordthuravarkenc}
 2 [Weary hearts need no serpents.]{lang=en}
-2 [Hvelda hrud nel tharf ormla.]{lang=nord}
+2 [hvelda hrud nel tharf ormla.]{lang=nord}
 
-1 [Strandva halv kinli na sjel.]{.nativefont lang=nord}
+1 [strandva halv kinli na sjel.]{lang=nord enc=nordthuravarkenc}
 2 [The shore keeps its children.]{lang=en}
-2 [Strandva halv kinli na sjel.]{lang=nord}
+2 [strandva halv kinli na sjel.]{lang=nord}
 
-1 [Dravi gang tiv sta na melgri.]{.nativefont lang=nord}
+1 [dravi gang tiv sta na melgri.]{lang=nord enc=nordthuravarkenc}
 2 [Courage goes where hunger lies.]{lang=en}
-2 [Dravi gang tiv sta na melgri.]{lang=nord}
+2 [dravi gang tiv sta na melgri.]{lang=nord}
 
 ***
 
-1 [Berva relth na dreng helm.]{.nativefont lang=nord}
+1 [berva relth na dreng helm.]{lang=nord enc=nordthuravarkenc}
 2 [Carry the warrior's telling whole.]{lang=en}
-2 [Berva relth na dreng helm.]{lang=nord}
+2 [berva relth na dreng helm.]{lang=nord}
 
-1 [Berva hleva na komri bak inn it.]{.nativefont lang=nord}
+1 [berva hleva na komri bak inn it.]{lang=nord enc=nordthuravarkenc}
 2 [Carry its joy at coming back.]{lang=en}
-2 [Berva hleva na komri bak inn it.]{lang=nord}
+2 [berva hleva na komri bak inn it.]{lang=nord}
 
-1 [Berva fundgang na asva helm.]{.nativefont lang=nord}
+1 [berva fundgang na asva helm.]{lang=nord enc=nordthuravarkenc}
 2 [Carry the god's steps whole.]{lang=en}
-2 [Berva fundgang na asva helm.]{lang=nord}
+2 [berva fundgang na asva helm.]{lang=nord}
 
-1 [Berva hnura na skard na svelna inn it.]{.nativefont lang=nord}
+1 [berva hnura na skard na svelna inn it.]{lang=nord enc=nordthuravarkenc}
 2 [Carry the grief of dying within them.]{lang=en}
-2 [Berva hnura na skard na svelna inn it.]{lang=nord}
+2 [berva hnura na skard na svelna inn it.]{lang=nord}
 
-1 [Tveka berva helm vrulma.]{.nativefont lang=nord}
+1 [tveka berva helm vrulma.]{lang=nord enc=nordthuravarkenc}
 2 [Both carry their whole weight.]{lang=en}
-2 [Tveka berva helm vrulma.]{lang=nord}
+2 [tveka berva helm vrulma.]{lang=nord}
 
-1 [Tveka spurni hlusta na salmva.]{.nativefont lang=nord}
+1 [tveka spurni hlusta na salmva.]{lang=nord enc=nordthuravarkenc}
 2 [Both ask the gathered people to listen.]{lang=en}
-2 [Tveka spurni hlusta na salmva.]{lang=nord}
+2 [tveka spurni hlusta na salmva.]{lang=nord}
 
-1 [Heimsormur halv storg nafma.]{.nativefont lang=nord}
+1 [heimsormur halv storg nafma.]{lang=nord enc=nordthuravarkenc}
 2 [Heimsormur holds the great name.]{lang=en}
-2 [Heimsormur halv storg nafma.]{lang=nord}
+2 [heimsormur halv storg nafma.]{lang=nord}
 
-1 [Hollva hav snervi varma rund it.]{.nativefont lang=nord}
+1 [hollva hav snervi varma rund it.]{lang=nord enc=nordthuravarkenc}
 2 [The hall holds narrow walls around it.]{lang=en}
-2 [Hollva hav snervi varma rund it.]{lang=nord}
+2 [hollva hav snervi varma rund it.]{lang=nord}
 
-1 [Dirna smol skip or vatna.]{.nativefont lang=nord}
+1 [dirna smol skip or vatna.]{lang=nord enc=nordthuravarkenc}
 2 [Sing a small ship on water.]{lang=en}
-2 [Dirna smol skip or vatna.]{lang=nord}
+2 [dirna smol skip or vatna.]{lang=nord}
 
-1 [Dirna niv fundgang or Vigvoll.]{.nativefont lang=nord}
+1 [dirna niv fundgang or vigvoll.]{lang=nord enc=nordthuravarkenc}
 2 [Sing nine steps on Vigvoll.]{lang=en}
-2 [Dirna niv fundgang or Vigvoll.]{lang=nord}
+2 [dirna niv fundgang or vigvoll.]{lang=nord}
 
 ***
 
-1 [Ljorma na eldsveld es lurvi.]{.nativefont lang=nord}
+1 [ljorma na eldsveld es lurvi.]{lang=nord enc=nordthuravarkenc}
 2 [The hearthlight is low.]{lang=en}
-2 [Ljorma na eldsveld es lurvi.]{lang=nord}
+2 [ljorma na eldsveld es lurvi.]{lang=nord}
 
-1 [Vidma lagna nifra raudva breldva.]{.nativefont lang=nord}
+1 [vidma lagna nifra raudva breldva.]{lang=nord enc=nordthuravarkenc}
 2 [Wood settles beneath red embers.]{lang=en}
-2 [Vidma lagna nifra raudva breldva.]{lang=nord}
+2 [vidma lagna nifra raudva breldva.]{lang=nord}
 
-1 [Nerbua knelva miv smol vidma.]{.nativefont lang=nord}
+1 [nerbua knelva miv smol vidma.]{lang=nord enc=nordthuravarkenc}
 2 [A neighbor kneels with small wood.]{lang=en}
-2 [Nerbua knelva miv smol vidma.]{lang=nord}
+2 [nerbua knelva miv smol vidma.]{lang=nord}
 
-1 [Nivi eldtunga klivra rund vidma.]{.nativefont lang=nord}
+1 [nivi eldtunga klivra rund vidma.]{lang=nord enc=nordthuravarkenc}
 2 [New flames climb around wood.]{lang=en}
-2 [Nivi eldtunga klivra rund vidma.]{lang=nord}
+2 [nivi eldtunga klivra rund vidma.]{lang=nord}
 
-1 [Dverna humna nifra snirna.]{.nativefont lang=nord}
+1 [dverna humna nifra snirna.]{lang=nord enc=nordthuravarkenc}
 2 [The door drums beneath the wind.]{lang=en}
-2 [Dverna humna nifra snirna.]{lang=nord}
+2 [dverna humna nifra snirna.]{lang=nord}
 
-1 [Hondi smiv it fast.]{.nativefont lang=nord}
+1 [hondi smiv it fast.]{lang=nord enc=nordthuravarkenc}
 2 [Hands make it fast.]{lang=en}
-2 [Hondi smiv it fast.]{lang=nord}
+2 [hondi smiv it fast.]{lang=nord}
 
-1 [Vri halv hnat stavi.]{.nativefont lang=nord}
+1 [vri halv hnat stavi.]{lang=nord enc=nordthuravarkenc}
 2 [We hold what remains.]{lang=en}
-2 [Vri halv hnat stavi.]{lang=nord}
+2 [vri halv hnat stavi.]{lang=nord}
 
-1 [Vri metva hnat hremna.]{.nativefont lang=nord}
+1 [vri metva hnat hremna.]{lang=nord enc=nordthuravarkenc}
 2 [We meet what harms.]{lang=en}
-2 [Vri metva hnat hremna.]{lang=nord}
+2 [vri metva hnat hremna.]{lang=nord}
 
-1 [Strandva halv vakt.]{.nativefont lang=nord}
+1 [strandva halv vakt.]{lang=nord enc=nordthuravarkenc}
 2 [The shore keeps watch.]{lang=en}
-2 [Strandva halv vakt.]{lang=nord}
+2 [strandva halv vakt.]{lang=nord}
 
-1 [Ner eldva samna andva na vri.]{.nativefont lang=nord}
+1 [ner eldva samna andva na vri.]{lang=nord enc=nordthuravarkenc}
 2 [The close fire gathers our faces.]{lang=en}
-2 [Ner eldva samna andva na vri.]{lang=nord}
+2 [ner eldva samna andva na vri.]{lang=nord}
 ```

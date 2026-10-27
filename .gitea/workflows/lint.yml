@@ -25,8 +25,8 @@ concurrency:
     cancel-in-progress: ${{ github.event_name == 'pull_request' }}
 
 env:
-    # https://github.com/HeroicLands/fonts/commit/3ec43cd207ba13072a0806421a2a62efb7aabca6
-    FONTS_REVISION: 3ec43cd207ba13072a0806421a2a62efb7aabca6
+    # https://github.com/HeroicLands/fonts/commit/e6bdd6b7a406e3f8bd0547b3fbf9f4fdb014303e
+    FONTS_REVISION: e6bdd6b7a406e3f8bd0547b3fbf9f4fdb014303e
 
 jobs:
     format:
@@ -147,7 +147,7 @@ jobs:
 
     # Every Khazari, Nordmal and Khelathi word in this pull request's language
     # notes is set through its font; a word the font cannot set fails by name.
-    # Both font consumers use FONTS_REVISION.
+    # Native geometry uses FONTS_REVISION; language spellings use installed public encoders.
     fonts:
         name: Font lexicon guards
         runs-on: lint
@@ -163,70 +163,78 @@ jobs:
                   git -C "$RUNNER_TEMP/fonts" fetch --depth 1 origin "$FONTS_REVISION"
                   git -C "$RUNNER_TEMP/fonts" checkout --detach FETCH_HEAD
 
-            # The guards write each form through the fonts' mapping tool, which imports package-build.
-            - name: Install the fonts' Node packages
-              run: npm ci --prefix "$RUNNER_TEMP/fonts" --ignore-scripts
+            - name: Setup Node
+              uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
+              with:
+                  node-version: 24
 
-            # Only what the guards import, at the versions the fonts pin.
+            - name: Install Thalorna dependencies
+              run: npm ci --cache "$RUNNER_TEMP/npm-cache"
+
+            # Only the shaping/outline libraries used by the pinned native guards.
             - name: Install the guards' packages
               run: |
-                  grep -iE '^(fonttools|uharfbuzz|pillow|pyyaml)==' "$RUNNER_TEMP/fonts/requirements.txt" > "$RUNNER_TEMP/guard-requirements.txt"
+                  grep -iE '^(fonttools|uharfbuzz|pillow|pyyaml|ufoLib2)==' "$RUNNER_TEMP/fonts/requirements.txt" > "$RUNNER_TEMP/guard-requirements.txt"
                   python3 -m venv "$RUNNER_TEMP/venv"
                   "$RUNNER_TEMP/venv/bin/pip" install --quiet -r "$RUNNER_TEMP/guard-requirements.txt"
 
-            - name: Pirzath Carved
+            - name: Pirzath Carved native fixtures and geometry
+              if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/pirzath/guard.py"
-                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khazari.md"
-                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Pirzath_Spelling.md"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/PirzathCarved-Regular.ttf"
 
-            - name: Pirzath Hand
+            - name: Pirzath Hand native fixtures and geometry
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/pirzath-hand/guard.py"
-                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khazari.md"
-                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Pirzath_Spelling.md"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/PirzathHand-Regular.ttf"
 
-            - name: Thuravark Carved
+            - name: Thuravark Carved native fixtures and geometry
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/thuravark-carved/guard.py"
-                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Nordmal.md"
-                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Thuravark_Spelling.md"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/ThuravarkCarved-Regular.ttf"
 
-            - name: Qalezu Hand
+            - name: Qalezu Hand native fixtures and geometry
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/qalezu-hand/guard.py"
-                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Khelathi.md"
-                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Qalezu_Spelling.md"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/QalezuHand-Regular.ttf"
 
-            - name: Semaron Kuriale
+            - name: Semaron Kuriale native fixtures and geometry
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/semaron-kuriale/guard.py"
-                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vylari.md"
-                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Semaron_Spelling.md"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/SemaronKuriale-Regular.ttf"
 
-            - name: Helónika
+            - name: Helónika native fixtures and geometry
               if: ${{ !cancelled() }}
-              run: |
-                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/helonika/guard.py" \
-                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Helonic.md" \
-                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Valtari.md" \
-                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Byzarian.md" \
-                      --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Bethuan.md" \
-                      --map-note helonika="$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Helonika_Spelling.md" \
-                      --map-note bizarian="$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Bizarian_Spelling.md" \
-                      --map-note bethuan="$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Bethuan_Spelling.md"
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/helonika/guard.py"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/HelonikaBook-Regular.ttf"
 
-            - name: Vedyakshara Classical
+            - name: Vedyakshara Classical native fixtures and geometry
               if: ${{ !cancelled() }}
               run: >-
                   "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/vedyakshara/guard.py"
-                  --thalorna "$GITHUB_WORKSPACE"
-                  --note "$GITHUB_WORKSPACE/assets/content/Skills/Languages/Vedyari.md"
-                  --map-note "$GITHUB_WORKSPACE/assets/content/Lore/Scripts/Vedyakshara_Spelling.md"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/VedyaksharaClassical-Regular.ttf"
+
+            - name: Veldikko native fixtures and geometry
+              if: ${{ !cancelled() }}
+              run: >-
+                  "$RUNNER_TEMP/venv/bin/python" "$RUNNER_TEMP/fonts/tools/veldikko/guard.py"
+                  --font "$GITHUB_WORKSPACE/node_modules/@heroiclands/fonts/fonts/Veldikko-Regular.ttf"
+
+            - name: Independent spelling model expectations
+              if: ${{ !cancelled() }}
+              run: '"$RUNNER_TEMP/venv/bin/python" utils/font-expectations.test.py'
+
+            - name: Shape every lexicon form through its encoding document
+              if: ${{ !cancelled() }}
+              run: |
+                  node utils/font-lexicon-inputs.mjs "$RUNNER_TEMP/font-lexicon-inputs.json"
+                  "$RUNNER_TEMP/venv/bin/python" utils/font-lexicon-guard.py --fonts "$RUNNER_TEMP/fonts" --input "$RUNNER_TEMP/font-lexicon-inputs.json"
 
     lint:
         name: Content, prose, and registry checks
@@ -294,10 +302,4 @@ jobs:
                       echo "Veldikko: no fresh content index was published in this run." >&2
                       exit 1
                   fi
-                  reference=$(mktemp -d "$RUNNER_TEMP/veldikko-reference.XXXXXX")
-                  git init "$reference"
-                  git -C "$reference" remote add origin https://github.com/HeroicLands/fonts.git
-                  git -C "$reference" sparse-checkout set tools/veldikko
-                  git -C "$reference" fetch --depth 1 --filter=blob:none origin "$FONTS_REVISION"
-                  git -C "$reference" checkout --detach FETCH_HEAD
-                  node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl --fonts "$reference"
+                  node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl

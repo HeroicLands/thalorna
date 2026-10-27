@@ -8,8 +8,7 @@ tags: []
 data:
   core: true
   abbreviation: Vyl.
-  roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËëÀà0123456789."
-  writtenIn: {map: semaron, font: semaron-kuriale}
+  roman: "ABDEFGHIKLMNOPRSTUVWYZabdefghiklmnoprstuvwyzÁÉÍÓÚÝáéíóúýËëÀà0123456789"
   classModifiers: [m, f, "n"]
   emphasis: words
   fields:

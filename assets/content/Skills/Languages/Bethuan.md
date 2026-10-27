@@ -6,11 +6,10 @@ subType: language
 description: "The Bethuan mother tongue, whose grammar itself carries distinct feminine and masculine registers."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuwyzABCDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789.,-§vV"
+  roman: "abcdefghijklmnoprstuwyzABCDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789-§vV"
   core: true
   family: skill-helonclng
   abbreviation: Beth.
-  writtenIn: {map: helonika-bethuan, font: helonika-book}
   fields:
     - name: "Kin, the person and the body"
       holds: "The household, the mother and the house she rules, the person, the body and the names people are given."

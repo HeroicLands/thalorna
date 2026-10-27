@@ -6,10 +6,9 @@ subType: language
 description: "The harbor pidgin of Mídhalión and beyond—no one's mother tongue, but the first language of every dock, merchant, and sailor who must be understood on short acquaintance."
 tags: []
 data:
-  roman: "abdefghiklmnoprstuvwyzABDEFGHIKLMNOPRSTUVWYZ0123456789.,-"
+  roman: "abdefghiklmnoprstuvwyzABDEFGHIKLMNOPRSTUVWYZ0123456789-"
   core: true
   abbreviation: Valt.
-  writtenIn: {map: helonika, font: helonika-book}
   fields:
     - name: People of the quay
       holds: "The captain, the merchant, the factor, the sailor and the friend."

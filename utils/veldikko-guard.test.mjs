@@ -10,9 +10,11 @@ import { spawnSync } from "node:child_process";
 import { test } from "node:test";
 import yaml from "yaml";
 import { runContext } from "@heroiclands/package-build/engine/content-scripts";
+import { compileEncoding } from "@heroiclands/package-build/engine/encoding";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
 import { emitContentIndex } from "@heroiclands/package-build/engine/content-index";
 import { encodeAddresses } from "@heroiclands/package-build/engine/address-values";
-import { checkNotes, generateRows, NOTES } from "./veldikko-spelling.mjs";
+import { checkNotes, generateEncoding, GLYPH_CODES, NOTES } from "./veldikko-spelling.mjs";
 import { checkLanguage, readIndex, referenceWithPerformance } from "./veldikko-guard.mjs";
 
 const config = {
@@ -31,26 +33,56 @@ function records() {
             address: { canonical: "thalorna-note-skill-sinalelng" },
             data: {
                 words: [{ form: "pa", gloss: "test" }],
-                names: { personal: ["Pa"], pattern: "ignored" },
-                writtenIn: {
-                    script: {
-                        address: "thalorna-note-lore-veldikko",
-                        anchor: null,
-                        anchorKind: null,
-                    },
-                },
+                names: { personal: ["pa"], pattern: "ignored" },
+                family: { address: "thalorna-note-skill-parent", anchor: null, anchorKind: null },
             },
         },
         {
             package: "thalorna",
-            type: "lore",
-            shortcode: "veldikko",
+            type: "doc",
+            shortcode: "sinaveldikkoenc",
             file: { path: "Lore/Scripts/Veldikko_Spelling.md" },
-            data: {
-                map: { name: "veldikko", rows: yaml.parse(generateRows("sinale").join("\n")) },
-            },
+            data: { language: "sina", font: "veldikko", ...generateEncoding("sinale") },
         },
     ];
+}
+function indexedContext(config, values) {
+    const ctx = {
+        ...runContext(
+            config,
+            values.filter((record) => record.type !== "doc"),
+        ),
+    };
+    ctx.encodings = new Map();
+    for (const record of values.filter(
+        (record) => record.type === "doc" && record.data?.mappings,
+    )) {
+        const encoding = compileEncoding(record.data, {
+            codes: GLYPH_CODES,
+            name: `thalorna-note-doc-${record.shortcode}`,
+        });
+        ctx.encodings.set(record.shortcode, encoding);
+        ctx.encodings.set(encoding.name, encoding);
+    }
+    ctx.faces = new Map([
+        [
+            "veldikko",
+            {
+                slug: "veldikko",
+                family: "Veldikko",
+                class: "hl-veldikko",
+                direction: "ltr",
+                features: [],
+                draws: new Set(
+                    Object.values(GLYPH_CODES).flatMap((text) =>
+                        [...text].map((char) => char.codePointAt(0)),
+                    ),
+                ),
+            },
+        ],
+    ]);
+    ctx.encodingFindings = [];
+    return ctx;
 }
 function fixture(t, values = records()) {
     const dir = fs.mkdtempSync(path.join(os.tmpdir(), "veldikko-index-"));
@@ -62,7 +94,7 @@ function fixture(t, values = records()) {
         index,
         language: {
             name: "sina",
-            map: "veldikko",
+            enc: "sinaveldikkoenc",
             note: path.join(dir, "missing.md"),
             reference: true,
         },
@@ -80,11 +112,11 @@ test("index is read once and decoded; successful forms and names need no source 
     });
     t.mock.method(fs, "readdirSync", () => assert.fail("must not scan sources"));
     const decoded = readIndex(index, config);
-    assert.equal(encodeAddresses(decoded[0].data.writtenIn.script), "thalorna-note-lore-veldikko");
-    assert.notDeepEqual(decoded[0].data.writtenIn.script, {
-        address: "thalorna-note-lore-veldikko",
+    assert.equal(encodeAddresses(decoded[0].data.family), "thalorna-note-skill-parent");
+    assert.notDeepEqual(decoded[0].data.family, {
+        address: "thalorna-note-skill-parent",
     });
-    const ctx = runContext(config, decoded);
+    const ctx = indexedContext(config, decoded);
     const result = checkLanguage(language, ctx, decoded[0], () => sign(0x1ed50, 0x1ed70));
     assert.deepEqual(result, { checked: 2, findings: [] });
     assert.deepEqual(reads, [index]);
@@ -92,23 +124,31 @@ test("index is read once and decoded; successful forms and names need no source 
 
 test("unwritable forms and names retain exact source positions", (t) => {
     const values = records();
-    values[0].data.words = [{ form: "p?", gloss: "test" }];
-    values[0].data.names.personal = ["P?"];
+    values[0].data.words = [{ form: "p$", gloss: "test" }];
+    values[0].data.names.personal = ["p$"];
     const { index, language } = fixture(t, values);
-    fs.writeFileSync(language.note, "---\ndata:\n  words:\n    - form: p?\n  names: [P?]\n---\n");
+    fs.writeFileSync(language.note, "---\ndata:\n  words:\n    - form: p$\n  names: [p$]\n---\n");
     const decoded = readIndex(index, config);
-    const result = checkLanguage(language, runContext(config, decoded), decoded[0]);
-    assert.deepEqual(result.findings, [
-        `${language.note}:4:13: error: the form \`p?\` has no veldikko sign for \`?\``,
-        `${language.note}:5:11: error: the name \`P?\` has no veldikko sign for \`?\``,
-    ]);
+    const result = checkLanguage(language, indexedContext(config, decoded), decoded[0]);
+    assert.equal(result.findings.length, 2);
+    assert(
+        result.findings[0].startsWith(
+            `${language.note}:4:13: error: the form \`p$\` cannot be encoded:`,
+        ),
+    );
+    assert(
+        result.findings[1].startsWith(
+            `${language.note}:5:11: error: the name \`p$\` cannot be encoded:`,
+        ),
+    );
+    for (const finding of result.findings) assert(finding.includes("$"));
 });
 
 test("independent converter mismatch preserves scalar diagnostic", (t) => {
     const { index, language } = fixture(t);
-    fs.writeFileSync(language.note, "pa\nPa\n");
+    fs.writeFileSync(language.note, "pa\npa\n");
     const decoded = readIndex(index, config);
-    const result = checkLanguage(language, runContext(config, decoded), decoded[0], () =>
+    const result = checkLanguage(language, indexedContext(config, decoded), decoded[0], () =>
         sign(0x1ed51, 0x1ed70),
     );
     assert.equal(result.findings.length, 2);
@@ -118,15 +158,15 @@ test("independent converter mismatch preserves scalar diagnostic", (t) => {
     );
 });
 
-test("missing map and language cannot pass with zero checked forms", (t) => {
+test("missing encoding and language cannot pass with zero checked forms", (t) => {
     const { index, language } = fixture(t);
     const decoded = readIndex(index, config);
     assert.throws(
-        () => checkLanguage(language, runContext(config, decoded.slice(0, 1)), decoded[0]),
-        /veldikko/,
+        () => checkLanguage(language, indexedContext(config, decoded.slice(0, 1)), decoded[0]),
+        /encoding/,
     );
     assert.throws(
-        () => checkLanguage(language, runContext(config, decoded), undefined),
+        () => checkLanguage(language, indexedContext(config, decoded), undefined),
         /language note/,
     );
 });
@@ -154,7 +194,7 @@ test("missing, corrupt, empty and incompatible indexes fail without rebuilding",
     assert.throws(() => readIndex(index, config), /:1:.*incompatible.*complete Address/i);
 });
 
-test("CLI requires an explicit index and fails clearly on missing fonts", (t) => {
+test("CLI requires an explicit index and rejects the retired external-converter option", (t) => {
     const script = path.resolve("utils/veldikko-guard.mjs");
     const missing = spawnSync(process.execPath, [script], { encoding: "utf8" });
     assert.equal(missing.status, 1);
@@ -166,7 +206,7 @@ test("CLI requires an explicit index and fails clearly on missing fonts", (t) =>
         { encoding: "utf8" },
     );
     assert.equal(fonts.status, 1);
-    assert.match(fonts.stderr, /reference converter/i);
+    assert.match(fonts.stderr, /invalid argument.*--fonts/i);
 });
 
 test("performance adapter keeps the independent converter's scalars and sign order", () => {
@@ -184,7 +224,7 @@ test("derived and variant forms use the canonical lexicon with no names", (t) =>
     values[0].data.names = { pattern: "ignored" };
     const { index, language } = fixture(t, values);
     const decoded = readIndex(index, config);
-    const ctx = runContext(config, decoded);
+    const ctx = indexedContext(config, decoded);
     const observed = [];
     const expected = new Map([
         ["pa", sign(0x1ed50, 0x1ed70)],
@@ -200,22 +240,46 @@ test("derived and variant forms use the canonical lexicon with no names", (t) =>
     assert.deepEqual(new Set(observed), new Set(expected.keys()));
 });
 
-test("malformed map rows produce unmapped form findings", (t) => {
+test("malformed encoding mappings are refused before a form can pass", (t) => {
     const values = records();
-    values[1].data.map.rows = [{ from: "pa" }];
-    const { index, language } = fixture(t, values);
-    fs.writeFileSync(language.note, "pa\nPa\n");
+    values[1].data.mappings.pa = "UNKNOWN_GLYPH";
+    const { index } = fixture(t, values);
     const decoded = readIndex(index, config);
-    const result = checkLanguage(language, runContext(config, decoded), decoded[0]);
-    assert.equal(result.findings.length, 2);
-    assert.match(result.findings[0], /:1:1:.*has no veldikko sign for `p`, `a`/);
+    assert.throws(() => indexedContext(config, decoded), /Unknown glyph code UNKNOWN_GLYPH/);
 });
 
-test("mapping-note byte checks retain their source reads and exact rows diagnostic", (t) => {
+test("encoding-note checks retain source reads and exact code-program diagnostics", (t) => {
+    for (const { tongue } of NOTES) {
+        const program = generateEncoding(tongue);
+        assert(Object.keys(program.mappings).every((source) => source === source.toLowerCase()));
+        const compiled = compileEncoding(
+            { language: tongue === "sinale" ? "sina" : "aele", font: "veldikko", ...program },
+            { codes: GLYPH_CODES, name: "lowercase-veldikko" },
+        );
+        const uppercase = encodeWithLanguage(compiled, "Pa");
+        assert(uppercase.findings.length > 0);
+        assert.equal(uppercase.findings[0].offset, 0);
+        assert(
+            program.rules["contextual-mappings"].every(
+                (row) => row.match === row.match.toLowerCase(),
+            ),
+        );
+        assert.deepEqual(program.rules["word-separators"], ["-"]);
+        assert(!Object.hasOwn(program.mappings, "-"));
+        assert.deepEqual(
+            program.rules["contextual-mappings"]
+                .filter((row) => row.match === "-")
+                .map((row) => [row.at, row.emit]),
+            [
+                ["start", []],
+                ["end", []],
+            ],
+        );
+    }
     const texts = new Map(
         NOTES.map(({ tongue, file }) => [
             file,
-            `---\ndata:\n  map:\n    rows:\n${generateRows(tongue).join("\n")}\n    fonts: []\n---\n`,
+            "---\n" + yaml.stringify({ data: generateEncoding(tongue) }) + "---\n",
         ]),
     );
     const reads = [];
@@ -229,8 +293,8 @@ test("mapping-note byte checks retain their source reads and exact rows diagnost
         NOTES.map(({ file }) => file),
     );
     const file = NOTES[0].file;
-    texts.set(file, texts.get(file).replace("# U+", "# altered U+"));
-    assert.match(checkNotes()[0], /:4:1: error: `data.map.rows` differs/);
+    texts.set(file, texts.get(file).replace("PELANNE", "VELUNNA"));
+    assert.match(checkNotes()[0], /:3:1: error: `data.mappings` or `data.rules` differs/);
 });
 
 test("CLI checks both indexed languages and keeps the summary and exit status", (t) => {
@@ -239,12 +303,10 @@ test("CLI checks both indexed languages and keeps the summary and exit status", 
     aele.shortcode = "aelendlng";
     aele.address.canonical = "thalorna-note-skill-aelendlng";
     aele.file.path = "Skills/Languages/Aelendi.md";
-    aele.data.writtenIn.script.address = "thalorna-note-lore-veldikkoaelendi";
     const map = structuredClone(values[1]);
-    map.shortcode = "veldikkoaelendi";
+    map.shortcode = "aeleveldikkoenc";
     map.file.path = "Lore/Scripts/Veldikko_Aelendi_Spelling.md";
-    map.data.map.name = "veldikko-aelendi";
-    map.data.map.rows = yaml.parse(generateRows("aelendi").join("\n"));
+    map.data = { language: "aele", font: "veldikko", ...generateEncoding("aelendi") };
     const { index } = fixture(t, [...values, aele, map]);
     const result = spawnSync(process.execPath, ["utils/veldikko-guard.mjs", "--index", index], {
         encoding: "utf8",

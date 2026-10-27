@@ -1,292 +1,238 @@
 ---
-shortcode: mapaelwsemaron
-name: {full: Aelwythi Semaron Spelling, aliases: []}
+shortcode: aelwsemaronenc
+name:
+  full: Aelwythi Semaron Encoding
+  aliases: []
 type: doc
 subType: reference
 data:
   packFolder: languages
-  map:
-    name: aelwythi-semaron
-    vowels: "aeiouAEIOUáéíóúÁÉÍÓÚ"
-    rows:
-      - {from: "ny", to: "\U000F0290", before: vowel}
-      - {from: "Ny", to: "\U000F0291", before: vowel}
-      - ["0", "\U000F0258"]
-      - ["1", "\U000F0259"]
-      - ["2", "\U000F025A"]
-      - ["3", "\U000F025B"]
-      - ["4", "\U000F025C"]
-      - ["5", "\U000F025D"]
-      - ["6", "\U000F025E"]
-      - ["7", "\U000F025F"]
-      - ["8", "\U000F0260"]
-      - ["9", "\U000F0261"]
-      - ["a", "\U000F0230"]
-      - ["A", "\U000F0200"]
-      - ["b", "\U000F0231"]
-      - ["B", "\U000F0201"]
-      - ["d", "\U000F0232"]
-      - ["D", "\U000F0202"]
-      - ["e", "\U000F0233"]
-      - ["E", "\U000F0203"]
-      - ["f", "\U000F0234"]
-      - ["F", "\U000F0204"]
-      - ["g", "\U000F0235"]
-      - ["G", "\U000F0205"]
-      - ["h", "\U000F0236"]
-      - ["H", "\U000F0206"]
-      - ["i", "\U000F0237"]
-      - ["I", "\U000F0207"]
-      - ["j", "\U000F0238"]
-      - ["J", "\U000F0208"]
-      - ["k", "\U000F0239"]
-      - ["K", "\U000F0209"]
-      - ["l", "\U000F023A"]
-      - ["L", "\U000F020A"]
-      - ["m", "\U000F023B"]
-      - ["M", "\U000F020B"]
-      - ["n", "\U000F023C"]
-      - ["N", "\U000F020C"]
-      - ["o", "\U000F023D"]
-      - ["O", "\U000F020D"]
-      - ["p", "\U000F023E"]
-      - ["P", "\U000F020E"]
-      - ["q", "\U000F0247"]
-      - ["Q", "\U000F0217"]
-      - ["r", "\U000F023F"]
-      - ["R", "\U000F020F"]
-      - ["s", "\U000F0240"]
-      - ["S", "\U000F0210"]
-      - ["t", "\U000F0241"]
-      - ["T", "\U000F0211"]
-      - ["u", "\U000F0242"]
-      - ["U", "\U000F0212"]
-      - ["v", "\U000F0243"]
-      - ["V", "\U000F0213"]
-      - ["w", "\U000F0244"]
-      - ["W", "\U000F0214"]
-      - ["y", "\U000F0245"]
-      - ["Y", "\U000F0215"]
-      - ["z", "\U000F0246"]
-      - ["Z", "\U000F0216"]
-      - ["á", "\U000F0230\U000E0114"]
-      - ["Á", "\U000F0200\U000E0114"]
-      - ["é", "\U000F0233\U000E0114"]
-      - ["É", "\U000F0203\U000E0114"]
-      - ["í", "\U000F0237\U000E0114"]
-      - ["Í", "\U000F0207\U000E0114"]
-      - ["ó", "\U000F023D\U000E0114"]
-      - ["Ó", "\U000F020D\U000E0114"]
-      - ["ú", "\U000F0242\U000E0114"]
-      - ["Ú", "\U000F0212\U000E0114"]
-      - [".", "\U000F0268"]
-      - ['"', ""]
-      - ["“", ""]
-      - ["”", ""]
-      - ["«", ""]
-      - ["»", ""]
-      - ["'", ""]
-      - ["’", ""]
-      - ["‘", ""]
-      - ["`", ""]
-      - ["-", "\U00000020"]
-      - ["‐", "\U00000020"]
-      - ["‑", "\U00000020"]
-      - ["ch", "\U000F028C"]
-      - ["Ch", "\U000F028D"]
-      - ["sh", "\U000F0286"]
-      - ["Sh", "\U000F0287"]
-      - ["th", "\U000F0250"]
-      - ["Th", "\U000F0251"]
-      - ["dh", "\U000F0280"]
-      - ["Dh", "\U000F0281"]
-      - ["kh", "\U000F0282"]
-      - ["Kh", "\U000F0283"]
-      - ["gh", "\U000F0284"]
-      - ["Gh", "\U000F0285"]
-      - ["zh", "\U000F0288"]
-      - ["Zh", "\U000F0289"]
-      - ["ts", "\U000F028A"]
-      - ["Ts", "\U000F028B"]
-      - ["ng", "\U000F028E"]
-      - ["Ng", "\U000F028F"]
-    fonts: [{font: semaron-kuriale}]
+  language: aelw
+  font: semaron-kuriale
+  accepts:
+    - a-w
+    - y-z
+    - A-W
+    - Y-Z
+    - 0-9
+    - á
+    - é
+    - í
+    - ó
+    - ú
+    - Á
+    - É
+    - Í
+    - Ó
+    - Ú
+  vowels: aeiouAEIOUáéíóúÁÉÍÓÚ
+  mappings:
+    "0": DIGIT_ZERO
+    "1": DIGIT_ONE
+    "2": DIGIT_TWO
+    "3": DIGIT_THREE
+    "4": DIGIT_FOUR
+    "5": DIGIT_FIVE
+    "6": DIGIT_SIX
+    "7": DIGIT_SEVEN
+    "8": DIGIT_EIGHT
+    "9": DIGIT_NINE
+    a: ANKRON_MIN
+    A: ANKRON_MAJ
+    e: ELZA_MIN
+    E: ELZA_MAJ
+    i: ILTHERA_MIN
+    I: ILTHERA_MAJ
+    o: ORNETHE_MIN
+    O: ORNETHE_MAJ
+    u: ULMERA_MIN
+    U: ULMERA_MAJ
+    b: BRUTHEKA_MIN
+    B: BRUTHEKA_MAJ
+    d: DEKAZU_MIN
+    D: DEKAZU_MAJ
+    f: FUNELA_MIN
+    F: FUNELA_MAJ
+    g: GULMOS_MIN
+    G: GULMOS_MAJ
+    h: HARLEN_MIN
+    H: HARLEN_MAJ
+    j: JA_MIN
+    J: JA_MAJ
+    k: KALPEZA_MIN
+    K: KALPEZA_MAJ
+    l: LIZELA_MIN
+    L: LIZELA_MAJ
+    m: MEZARA_MIN
+    M: MEZARA_MAJ
+    n: NELAMIS_MIN
+    N: NELAMIS_MAJ
+    p: POZERA_MIN
+    P: POZERA_MAJ
+    q: QORETHA_MIN
+    Q: QORETHA_MAJ
+    r: RONETHOS_MIN
+    R: RONETHOS_MAJ
+    s: SIRETHA_MIN
+    S: SIRETHA_MAJ
+    t: TALOTHOS_MIN
+    T: TALOTHOS_MAJ
+    v: VARTHOS_MIN
+    V: VARTHOS_MAJ
+    w: WA_MIN
+    W: WA_MAJ
+    y: YALZEMIS_MIN
+    Y: YALZEMIS_MAJ
+    z: ZARGON_MIN
+    Z: ZARGON_MAJ
+    ch: CHEROLA_MIN
+    Ch: CHEROLA_MAJ
+    sh: SHELMORA_MIN
+    Sh: SHELMORA_MAJ
+    th: THOLERA_MIN
+    Th: THOLERA_MAJ
+    dh: DHANETHE_MIN
+    Dh: DHANETHE_MAJ
+    kh: KHORVENA_MIN
+    Kh: KHORVENA_MAJ
+    gh: GHORMAS_MIN
+    Gh: GHORMAS_MAJ
+    zh: ZHAREVA_MIN
+    Zh: ZHAREVA_MAJ
+    ts: TSALEMA_MIN
+    Ts: TSALEMA_MAJ
+    ng: ENGARIS_MIN
+    Ng: ENGARIS_MAJ
+    .: POINT
+    á:
+      - ANKRON_MIN
+      - STRESS
+    é:
+      - ELZA_MIN
+      - STRESS
+    í:
+      - ILTHERA_MIN
+      - STRESS
+    ó:
+      - ORNETHE_MIN
+      - STRESS
+    ú:
+      - ULMERA_MIN
+      - STRESS
+    Á:
+      - ANKRON_MAJ
+      - STRESS
+    É:
+      - ELZA_MAJ
+      - STRESS
+    Í:
+      - ILTHERA_MAJ
+      - STRESS
+    Ó:
+      - ORNETHE_MAJ
+      - STRESS
+    Ú:
+      - ULMERA_MAJ
+      - STRESS
+  rules:
+    normalization: NFC
+    matching: longest-first
+    case:
+      single-letter: preserve
+      consonant-group: lowercase-or-initial-uppercase
+      other-group-cases: forbidden
+    stress:
+      modifier: STRESS
+      position: after-stressed-vowel
+      printing: false
+      effect: stress-only
+      changes-sound: false
+      changes-length: false
+      vowel-group-position: first-vowel
+    vowel-groups:
+      reading: established
+      allow-splitting: false
+      unrecognized-adjacent-vowels: separate
+      groups:
+        - ai
+        - au
+        - ei
+        - oi
+        - ou
+        - ae
+        - ie
+        - uo
+        - aa
+        - ii
+        - uu
+    diaeresis:
+      allowed: false
+    contextual-mappings:
+      - match: ny
+        before: vowel
+        emit: NYELIS_MIN
+      - match: Ny
+        before: vowel
+        emit: NYELIS_MAJ
+    y:
+      kind: consonant
+      sound: y in yes
+      vowel-reading: false
+    grave-accent:
+      allowed: false
 ---
 
-Aelwythi Semaron Spelling writes [[skill-aelwthlng|Aelwythi]] in the
-[[skill-semrnscrpt|Semaron Script]], in the Kuriale hand. Its input is the
-ordinary readable spelling of the language's older register. The language note
-selects this mapping and the font for a native passage marked `.nativefont lang=aelw`.
+Aelwythi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
+This encoding writes [[skill-aelwthlng|Aelwythi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
+grammar and words.
 
-```text
-[Whither goest thou.]{lang=aelw}
-[Whither goest thou.]{.nativefont lang=aelw map=aelwythi-semaron font=semaron-kuriale}
-```
+## Letters and groups
 
-These spelling rules convert readable Aelwythi into the Semaron Script.
-The [[skill-aelwthlng#pronunciation|Aelwythi language note]] specifies
-pronunciation. Recorded vocabulary and native spellings remain authoritative.
+Single letters retain their case. A consonant group is lowercase, as in ch,
+or initial-uppercase, as in Ch. CH and cH are illegal. Consonant groups take
+their own signs: ch CHEROLA, sh SHELMORA, th THOLERA, dh DHANETHE,
+kh KHORVENA, gh GHORMAS, zh ZHAREVA, ts TSALEMA and ng ENGARIS.
+The letter q takes QORETHA; qu remains q followed by u. The vowel i takes
+ILTHERA and k takes KALPEZA, in both their majuscule and minuscule forms.
+A doubled vowel remains two letters.
 
-## The spelling rules
+The letter y is always a consonant, YALZEMIS, with the sound in yes.
+Before a vowel, ny takes NYELIS, the sound in canyon. Elsewhere n and y
+retain their individual signs. Write i for the vowel in machine.
 
-- **Case follows the source.** Each letter has a majuscule and a minuscule
-  form. A consonant group is lowercase, as in ch, or initial-uppercase,
-  as in Ch. All-uppercase and mixed forms such as CH and cH are illegal. ILTHERA
-  names the vowel i in both cases. A doubled vowel remains two letters.
-- **Consonant groups take their own signs.** ch takes CHEROLA, sh SHELMORA,
-  th THOLERA, dh DHANETHE, kh KHORVENA, gh GHORMAS, zh ZHAREVA, ts TSALEMA
-  and ng ENGARIS. These signs have the sounds specified in the language note.
-  The letter q takes QORETHA; qu is q followed by u.
-- **y is a consonant.** It takes YALZEMIS and has the sound in yes. Write i,
-  encoded as ILTHERA, for the vowel in machine. Before a vowel, ny takes
-  NYELIS, the consonant sound in canyon. Elsewhere n and y retain their
-  individual consonant signs; y never becomes a vowel. New coined spellings
-  place y and ny before a vowel.
-- **An acute marks stress only.** Write the base Semaron vowel followed
-  immediately by `\U000E0114`, the non-printing stress modifier. This does not
-  change vowel sound or length. The same rule applies to uppercase vowels.
-  In a recognized vowel group, the acute is placed on its first vowel.
-- **Coined words use no diaeresis.** Recognized vowel groups always have
-  their established readings and are never split into separate syllables.
-  Other adjacent vowels are sounded separately. No diaeresis mapping or
-  preprocessing is needed. No grave accent is used.
-- **Recorded native forms remain authoritative.** Conventional English
-  words keep their word readings. The rows contain only the agreed letter
-  and consonant-group mappings; they do not infer English spelling
-  substitutions. A recorded native form supplies a different spelling
-  where required.
-  Conventional spellings containing c or x are recorded as explicit native
-  vocabulary forms, including their attested variants and capitalized forms.
-- **Period alone takes the pause point.** Commas, colons, semicolons, dashes,
-  question marks, exclamation marks, ellipses and parentheses do not map to
-  a pause sign. Digits take the Semaron numerals. The language note declares
-  which punctuation the roman source permits.
-- **Quotation and apostrophes are unmarked in the script.** Quotes, possessive
-  apostrophes and marks of omitted sounds disappear. Thus _'tis_ has no
-  opening catch, and _summer's_ has no glottal stop. A hyphen gives a word
-  space. Their roman source keeps its punctuation.
+Aelwythi has no x, and c occurs only in ch. Its English-derived words use
+the respellings specified in the language note. Word lookup ignores case;
+encoding preserves the spelling's case. No word-specific native writing is
+stored or inferred by this encoding.
 
-The frontmatter rows apply the longest matching sequence first. The ny rows
-apply only before a vowel; the vowel list includes acute vowels but excludes y. Each acute row emits its vowel and the stress modifier.
-There are no diaeresis rows or vowel-separation overrides.
+## Stress and vowels
 
-A registered native form takes precedence for its whole word through the usual
-language lookup; it is written in the script, not supplied as another roman
-respelling. Authors add a native form only where the rows give a different
-spelling. The shared semaron mapping serves the common transcription of the
-other tongues.
+An acute marks stress only. Each acute vowel writes its base vowel followed
+by the font's non-printing STRESS modifier. It changes neither sound nor
+length. In a recognized vowel group, the acute belongs on its first vowel.
+The listed groups retain their established readings; other adjacent vowels
+are sounded separately. Neither diaeresis nor grave accents are used.
 
-## Character codes
+## Word spelling
 
-```yaml
-codage:
-  ANKRON_MAJ: "\U000F0200"
-  BRUTHEKA_MAJ: "\U000F0201"
-  DEKAZU_MAJ: "\U000F0202"
-  ELZA_MAJ: "\U000F0203"
-  FUNELA_MAJ: "\U000F0204"
-  GULMOS_MAJ: "\U000F0205"
-  HARLEN_MAJ: "\U000F0206"
-  ILTHERA_MAJ: "\U000F0207"
-  JA_MAJ: "\U000F0208"
-  KALPEZ_MAJ: "\U000F0209"
-  LIZELA_MAJ: "\U000F020A"
-  MEZARA_MAJ: "\U000F020B"
-  NELAMIS_MAJ: "\U000F020C"
-  ORNETHE_MAJ: "\U000F020D"
-  POZERA_MAJ: "\U000F020E"
-  RONETHOS_MAJ: "\U000F020F"
-  SIRETHA_MAJ: "\U000F0210"
-  TALOTHOS_MAJ: "\U000F0211"
-  ULMERA_MAJ: "\U000F0212"
-  VARTHOS_MAJ: "\U000F0213"
-  WA_MAJ: "\U000F0214"
-  YALZEMIS_MAJ: "\U000F0215"
-  ZARGON_MAJ: "\U000F0216"
-  LONG_ANKRON_MAJ: "\U000F0220"
-  LONG_ELZA_MAJ: "\U000F0221"
-  LONG_ILTHERA_MAJ: "\U000F0222"
-  LONG_ORNETE_MAJ: "\U000F0223"
-  LONG_ULMERA_MAJ: "\U000F0224"
-  ANKRON_MIN: "\U000F0230"
-  BRUTHEKA_MIN: "\U000F0231"
-  DEKAZU_MIN: "\U000F0232"
-  ELZA_MIN: "\U000F0233"
-  FUNELA_MIN: "\U000F0234"
-  GULMOS_MIN: "\U000F0235"
-  HARLEN_MIN: "\U000F0236"
-  ILTHERA_MIN: "\U000F0237"
-  JA_MIN: "\U000F0238"
-  KALPEZ_MIN: "\U000F0239"
-  LIZELA_MIN: "\U000F023A"
-  MEZARA_MIN: "\U000F023B"
-  NELAMIS_MIN: "\U000F023C"
-  ORNETHE_MIN: "\U000F023D"
-  POZERA_MIN: "\U000F023E"
-  RONETHOS_MIN: "\U000F023F"
-  SIRETHA_MIN: "\U000F0240"
-  TALOTHOS_MIN: "\U000F0241"
-  ULMERA_MIN: "\U000F0242"
-  VARTHOS_MIN: "\U000F0243"
-  WA_MIN: "\U000F0244"
-  YALZEMIS_MIN: "\U000F0245"
-  ZARGON_MIN: "\U000F0246"
-  LONG_ANKRON_MIN: "\U000F0248"
-  LONG_ELZA_MIN: "\U000F0249"
-  LONG_ILTHERA_MIN: "\U000F024A"
-  LONG_ORNETE_MIN: "\U000F024B"
-  LONG_ULMERA_MIN: "\U000F024C"
-  THOLERA_MIN: "\U000F0250"
-  THOLERA_MAJ: "\U000F0251"
-  DIGIT_ZERO: "\U000F0258"
-  DIGIT_ONE: "\U000F0259"
-  DIGIT_TWO: "\U000F025A"
-  DIGIT_THREE: "\U000F025B"
-  DIGIT_FOUR: "\U000F025C"
-  DIGIT_FIVE: "\U000F025D"
-  DIGIT_SIX: "\U000F025E"
-  DIGIT_SEVEN: "\U000F025F"
-  DIGIT_EIGHT: "\U000F0260"
-  DIGIT_NINE: "\U000F0261"
-  POINT: "\U000F0268"
-  CATCH: "\U000F0269"
+Possessives are written with -es and no apostrophe, as kinges. Other elisions
+omit the apostrophe, as oer. Compounds are either joined, as kandlelight, or
+separate words, as sweet smelling. There are no apostrophe or hyphen mappings.
 
-  # Standard Punctuation
-  SPACE: "\U00000020"
-  TERM_DECL: "\U000E0100"
-  TERM_INTR: "\U000E0101"
-  TERM_IMPR: "\U000E0102"
-  TERM_EXCL: "\U000E0103"
-  NTERM_PAUSE: "\U000E0105"
-  QUOTE_OPEN: "\U000E0106"
-  QUOTE_CLOSE: "\U000E0107"
-  NTERM_INTR: "\U000E010A"
-  NTERM_ABDN: "\U000E010B"
-  VERSE_LN_END: "\U000E010C"
-  VERSE_STZ_END: "\U000E010D"
-  VERSE_CTO_END: "\U000E010E"
-  NAME_OPEN: "\U000E0110"
-  NAME_CLOSE: "\U000E0111"
-  NO_PRINT_WORD_SEP: ""
-  QORETHA_MAJ: "\U000F0217"
-  QORETHA_MIN: "\U000F0247"
-  DHANETHE_MIN: "\U000F0280"
-  DHANETHE_MAJ: "\U000F0281"
-  KHORVENA_MIN: "\U000F0282"
-  KHORVENA_MAJ: "\U000F0283"
-  GHORMAS_MIN: "\U000F0284"
-  GHORMAS_MAJ: "\U000F0285"
-  SHELMORA_MIN: "\U000F0286"
-  SHELMORA_MAJ: "\U000F0287"
-  ZHAREVA_MIN: "\U000F0288"
-  ZHAREVA_MAJ: "\U000F0289"
-  TSALEMA_MIN: "\U000F028A"
-  TSALEMA_MAJ: "\U000F028B"
-  CHEROLA_MIN: "\U000F028C"
-  CHEROLA_MAJ: "\U000F028D"
-  ENGARIS_MIN: "\U000F028E"
-  ENGARIS_MAJ: "\U000F028F"
-  NYELIS_MIN: "\U000F0290"
-  NYELIS_MAJ: "\U000F0291"
-  STRESS: "\U000E0114"
-```
+## Punctuation and literal characters
+
+The shared Roman punctuation standard applies. Period writes POINT; the
+imperative is ‼ and the exclamative is !. Verse line, stanza and canto
+boundaries are structural controls. Their written forms and effects follow
+the shared standard.
+
+A literal native character uses a glyph code between `⟦` and `⟧`, such as
+`⟦CHEROLA_MIN⟧`, or a Unicode code point such as `⟦U+F028C⟧`. Codes belong to
+the selected font. Their authoritative table is the Semaron Kuriale entry in
+the fonts package's fonts.json; this note refers to that table through its
+font field and does not copy it. CATCH is the font's catch at
+`\U000F0270`; it is separate from ordinary Roman punctuation.
+
+The frontmatter mappings name font glyph codes. A sequence, as for an acute
+vowel, emits its codes in order. The rules apply NFC, longest matching,
+consonant-group case, contextual ny, stress and the listed vowel groups.

@@ -6,10 +6,9 @@ subType: language
 description: "The old Pelwar tongue of the Áelendan highlanders, unchanged in its mountain valleys for hundreds of years and heavily marked by Sinale."
 tags: []
 data:
-  roman: "adeghiklmnoprstuADEGHIKLMNOPRSTUáéíóúëÁÉÍÓÚË-"
+  roman: "adeghiklmnoprstuáéíóúë-"
   core: true
   abbreviation: Ael.
-  writtenIn: {map: veldikko-aelendi, font: veldikko}
   classModifiers: [m, f, "n"]
   fields:
     - name: "The Pact, the oath and the keeping"
@@ -58,19 +57,19 @@ data:
     - form: "-andi"
       gloss: "those of: a clan name, after a stem whose last vowel is _a_"
       attaches: "added"
-      examples: ["Dhargan > Dhárgandi"]
+      examples: ["dhargan > dhárgandi"]
     - form: "-endi"
       gloss: "those of, after _e_"
       attaches: "added"
-      examples: ["Khalden > Kháldendi"]
-    - {form: "-indi", gloss: "those of, after _i_", attaches: "added", examples: ["Kir > Kírindi"]}
+      examples: ["khalden > kháldendi"]
+    - {form: "-indi", gloss: "those of, after _i_", attaches: "added", examples: ["kir > kírindi"]}
     - form: "-ondi"
       gloss: "those of, after _o_"
       attaches: "added"
-      examples: ["Ghor > Ghorondi"]
-    - {form: "-undi", gloss: "those of, after _u_", attaches: "added", examples: ["Dul > Dulundi"]}
+      examples: ["ghor > ghorondi"]
+    - {form: "-undi", gloss: "those of, after _u_", attaches: "added", examples: ["dul > dulundi"]}
     - {form: "-ndi", gloss: "those of, after a vowel", attaches: "added"}
-    - {form: "-di", gloss: "those of, after _n_", attaches: "added", examples: ["Dhan > Dhandi"]}
+    - {form: "-di", gloss: "those of, after _n_", attaches: "added", examples: ["dhan > dhandi"]}
     - {form: "an-", gloss: "not; un-", attaches: "added", examples: ["írthathen > ánirthathen"]}
   words:
     - form: ghélathen
@@ -6619,128 +6618,128 @@ data:
     pattern: ["{given}", "{given} {clan}"]
     given:
       female:
-        - "Álsira"
-        - "Ánthela"
-        - "Ástrela"
-        - "Dalmira"
-        - "Dárnoka"
-        - "Dhálisa"
-        - "Dhenusa"
-        - "Doleta"
-        - "Dránela"
-        - "Dúmrana"
-        - "Gánthira"
-        - "Ghálosa"
-        - "Ghórmela"
-        - "Gódrusa"
-        - "Gólmena"
-        - "Kánthora"
-        - "Khálisa"
-        - "Khorsena"
-        - "Kársela"
-        - "Kéldira"
-        - "Kírnala"
-        - "Komsatha"
-        - "Kélmisa"
-        - "Lórantha"
-        - "Lúmreda"
-        - "Máldura"
-        - "Mérkasa"
-        - "Móghora"
-        - "Nálketa"
-        - "Néldrama"
-        - "Norgatha"
-        - "Rándira"
-        - "Rendusa"
-        - "Rónkala"
-        - "Sákhora"
-        - "Sánduthra"
-        - "Silmara"
-        - "Sóratha"
-        - "Tálgura"
-        - "Tálmena"
-        - "Ténkala"
-        - "Térgada"
-        - "Thálmora"
-        - "Thánduka"
-        - "Thergala"
-        - "Thórnasa"
-        - "Tirlaga"
-        - "Túrnada"
-        - "Ulmaka"
-        - "Urgadha"
+        - "álsira"
+        - "ánthela"
+        - "ástrela"
+        - "dalmira"
+        - "dárnoka"
+        - "dhálisa"
+        - "dhenusa"
+        - "doleta"
+        - "dránela"
+        - "dúmrana"
+        - "gánthira"
+        - "ghálosa"
+        - "ghórmela"
+        - "gódrusa"
+        - "gólmena"
+        - "kánthora"
+        - "khálisa"
+        - "khorsena"
+        - "kársela"
+        - "kéldira"
+        - "kírnala"
+        - "komsatha"
+        - "kélmisa"
+        - "lórantha"
+        - "lúmreda"
+        - "máldura"
+        - "mérkasa"
+        - "móghora"
+        - "nálketa"
+        - "néldrama"
+        - "norgatha"
+        - "rándira"
+        - "rendusa"
+        - "rónkala"
+        - "sákhora"
+        - "sánduthra"
+        - "silmara"
+        - "sóratha"
+        - "tálgura"
+        - "tálmena"
+        - "ténkala"
+        - "térgada"
+        - "thálmora"
+        - "thánduka"
+        - "thergala"
+        - "thórnasa"
+        - "tirlaga"
+        - "túrnada"
+        - "ulmaka"
+        - "urgadha"
       male:
-        - "Álkir"
-        - "Ándathal"
-        - "Ansel"
-        - "Ástheren"
-        - "Dalmoren"
-        - "Dárnokel"
-        - "Dhargan"
-        - "Dhenkalur"
-        - "Dolmir"
-        - "Dranketh"
-        - "Dúlmaren"
-        - "Gánthelar"
-        - "Ghalmir"
-        - "Ghórendal"
-        - "Gódranath"
-        - "Gólmaren"
-        - "Kándeleth"
-        - "Khalden"
-        - "Khoradel"
-        - "Karnoth"
-        - "Kéldarin"
-        - "Kírnasal"
-        - "Korsathan"
-        - "Lóranthek"
-        - "Lúmradan"
-        - "Máldureth"
-        - "Mérkantal"
-        - "Móghoren"
-        - "Nálketur"
-        - "Néldramar"
-        - "Norgathel"
-        - "Rándokir"
-        - "Rendulas"
-        - "Rónkaleth"
-        - "Sákhoran"
-        - "Sánduthar"
-        - "Silmaren"
-        - "Sórathek"
-        - "Tálgureth"
-        - "Taldor"
-        - "Ténkalor"
-        - "Térgadan"
-        - "Thálmoren"
-        - "Thándukar"
-        - "Thergalan"
-        - "Thórnasil"
-        - "Tirlagan"
-        - "Túrnadeth"
-        - "Ulmakar"
-        - "Urgadhen"
+        - "álkir"
+        - "ándathal"
+        - "ansel"
+        - "ástheren"
+        - "dalmoren"
+        - "dárnokel"
+        - "dhargan"
+        - "dhenkalur"
+        - "dolmir"
+        - "dranketh"
+        - "dúlmaren"
+        - "gánthelar"
+        - "ghalmir"
+        - "ghórendal"
+        - "gódranath"
+        - "gólmaren"
+        - "kándeleth"
+        - "khalden"
+        - "khoradel"
+        - "karnoth"
+        - "kéldarin"
+        - "kírnasal"
+        - "korsathan"
+        - "lóranthek"
+        - "lúmradan"
+        - "máldureth"
+        - "mérkantal"
+        - "móghoren"
+        - "nálketur"
+        - "néldramar"
+        - "norgathel"
+        - "rándokir"
+        - "rendulas"
+        - "rónkaleth"
+        - "sákhoran"
+        - "sánduthar"
+        - "silmaren"
+        - "sórathek"
+        - "tálgureth"
+        - "taldor"
+        - "ténkalor"
+        - "térgadan"
+        - "thálmoren"
+        - "thándukar"
+        - "thergalan"
+        - "thórnasil"
+        - "tirlagan"
+        - "túrnadeth"
+        - "ulmakar"
+        - "urgadhen"
     clan:
-      - "Álkirindi"
-      - "Dhárgandi"
-      - "Dulundi"
-      - "Dránandi"
-      - "Ghórondi"
-      - "Gólondi"
-      - "Kháldendi"
-      - "Khorondi"
-      - "Kírindi"
-      - "Kárandi"
-      - "Mirindi"
-      - "Móghorendi"
-      - "Ronondi"
-      - "Sáthandi"
-      - "Silmarendi"
-      - "Thanandi"
-      - "Táldorondi"
-      - "Ténendi"
-      - "Térgadandi"
-      - "Tírindi"
+      - "álkirindi"
+      - "dhárgandi"
+      - "dulundi"
+      - "dránandi"
+      - "ghórondi"
+      - "gólondi"
+      - "kháldendi"
+      - "khorondi"
+      - "kírindi"
+      - "kárandi"
+      - "mirindi"
+      - "móghorendi"
+      - "ronondi"
+      - "sáthandi"
+      - "silmarendi"
+      - "thanandi"
+      - "táldorondi"
+      - "ténendi"
+      - "térgadandi"
+      - "tírindi"
   sounds:
     stress: {two: first, longer: first}
     edges:
@@ -6762,23 +6761,23 @@ data:
     - {name: Elder Warden, tongue: translation}
     - {name: Runner, tongue: translation}
     - {name: Sálenda of the Long Stair, tongue: translation}
-    - {name: Sálenda, tongue: aelendi}
+    - {name: sálenda, tongue: aelendi}
     - {name: "Urnel, the Bear of the High Corries", tongue: translation}
-    - {name: Urnel, tongue: aelendi}
+    - {name: urnel, tongue: aelendi}
     - {name: "Gildand, the West Wind", tongue: translation}
-    - {name: Gildand, tongue: aelendi}
+    - {name: gildand, tongue: aelendi}
     - {name: "Korsand, the Grey Wolf of the Ridge", tongue: translation}
-    - {name: Korsand, tongue: aelendi}
+    - {name: korsand, tongue: aelendi}
     - {name: "Timel, the Hawk of the Spine", tongue: translation}
-    - {name: Timel, tongue: aelendi}
+    - {name: timel, tongue: aelendi}
     - {name: "Óssenda, the White Owl of the Hollow", tongue: translation}
-    - {name: Óssenda, tongue: aelendi}
+    - {name: óssenda, tongue: aelendi}
     - {name: "Kiltas, the Red Fox of the Lower Wood", tongue: translation}
-    - {name: Kiltas, tongue: aelendi}
+    - {name: kiltas, tongue: aelendi}
     - {name: "Tena, the Hearth of Ésalosa", tongue: translation}
     - {name: The Hearth, tongue: translation}
-    - {name: Tena, tongue: aelendi}
-    - {name: The Uron Tekhi, tongue: aelendi}
+    - {name: tena, tongue: aelendi}
+    - {name: the uron tekhi, tongue: aelendi}
     - {name: Áelendan People, tongue: translation}
     - {name: People of the Pact, tongue: translation}
     - {name: Áelendan Tribal Lands, tongue: translation}
@@ -6788,33 +6787,33 @@ data:
     - {name: The Drenavar, tongue: translation}
     - {name: Drenavar Mountains, tongue: translation}
     - {name: Ésalosa Lodge, tongue: translation}
-    - {name: Ésalosa, tongue: aelendi}
+    - {name: ésalosa, tongue: aelendi}
     - {name: The Long Stair, tongue: translation}
     - {name: Sálenda's Stair, tongue: translation}
     - {name: The Owl Hollow, tongue: translation}
     - {name: Óssenda's Hollow, tongue: translation}
     - {name: Áelendi Language, tongue: translation}
-    - {name: Áelendi, tongue: aelendi}
+    - {name: áelendi, tongue: aelendi}
     - {name: Thurarth Script, tongue: translation}
-    - {name: Thurarth, tongue: aelendi}
-    - {name: Dhargan, tongue: aelendi}
-    - {name: Nela, tongue: aelendi}
-    - {name: Silor, tongue: aelendi}
-    - {name: Ansel, tongue: aelendi}
-    - {name: Dranketh, tongue: aelendi}
-    - {name: Tala, tongue: aelendi}
-    - {name: Ghalmir, tongue: aelendi}
-    - {name: Mogha, tongue: aelendi}
-    - {name: Dulthan, tongue: aelendi}
-    - {name: Nelgan, tongue: aelendi}
-    - {name: Kírtala, tongue: aelendi}
-    - {name: Sírtala, tongue: aelendi}
-    - {name: Ronken, tongue: aelendi}
-    - {name: Tháurmira, tongue: aelendi}
-    - {name: Kélpasi, tongue: aelendi}
-    - {name: Khálpilonpu, tongue: aelendi}
-    - {name: Pálmirno, tongue: aelendi}
-    - {name: Dáimela, tongue: aelendi}
+    - {name: thurarth, tongue: aelendi}
+    - {name: dhargan, tongue: aelendi}
+    - {name: nela, tongue: aelendi}
+    - {name: silor, tongue: aelendi}
+    - {name: ansel, tongue: aelendi}
+    - {name: dranketh, tongue: aelendi}
+    - {name: tala, tongue: aelendi}
+    - {name: ghalmir, tongue: aelendi}
+    - {name: mogha, tongue: aelendi}
+    - {name: dulthan, tongue: aelendi}
+    - {name: nelgan, tongue: aelendi}
+    - {name: kírtala, tongue: aelendi}
+    - {name: sírtala, tongue: aelendi}
+    - {name: ronken, tongue: aelendi}
+    - {name: tháurmira, tongue: aelendi}
+    - {name: kélpasi, tongue: aelendi}
+    - {name: khálpilonpu, tongue: aelendi}
+    - {name: pálmirno, tongue: aelendi}
+    - {name: dáimela, tongue: aelendi}
   retired:
     - {form: Aranwy, instead: Sálenda, why: a name borrowed from an Earth tongue}
     - {form: Arthgen, instead: Urnel, why: a name borrowed from an Earth tongue}

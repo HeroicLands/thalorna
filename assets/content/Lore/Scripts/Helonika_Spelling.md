@@ -1,150 +1,142 @@
 ---
-shortcode: maphelonik
-name: {full: Helónika Spelling, aliases: []}
+shortcode: helohelonikaenc
+name: {full: Helonic Helonika Encoding, aliases: []}
 type: doc
 subType: reference
 data:
   packFolder: languages
-  map:
-    name: helonika
-    vowels: "aeiouäëïöüáéíóúAEIOUÄËÏÖÜÁÉÍÓÚ"
-    rows:
-      - ["a", "󰌰"] # U+F0330
-      - ["A", "󰌀"] # U+F0300
-      - ["á", "󰌰"] # U+F0330
-      - ["Á", "󰌀"] # U+F0300
-      - ["ä", "󰌰"] # U+F0330
-      - ["Ä", "󰌀"] # U+F0300
-      - ["b", "󰌱"] # U+F0331
-      - ["B", "󰌁"] # U+F0301
-      - ["d", "󰌲"] # U+F0332
-      - ["D", "󰌂"] # U+F0302
-      - ["e", "󰌳"] # U+F0333
-      - ["E", "󰌃"] # U+F0303
-      - ["é", "󰌳"] # U+F0333
-      - ["É", "󰌃"] # U+F0303
-      - ["ë", "󰌳"] # U+F0333
-      - ["Ë", "󰌃"] # U+F0303
-      - ["f", "󰌵"] # U+F0335
-      - ["F", "󰌅"] # U+F0305
-      - ["g", "󰌶"] # U+F0336
-      - ["G", "󰌆"] # U+F0306
-      - ["h", "󰌷"] # U+F0337
-      - ["H", "󰌇"] # U+F0307
-      - ["i", "󰌸"] # U+F0338
-      - ["I", "󰌈"] # U+F0308
-      - ["í", "󰌸"] # U+F0338
-      - ["Í", "󰌈"] # U+F0308
-      - ["ï", "󰌸"] # U+F0338
-      - ["Ï", "󰌈"] # U+F0308
-      - ["j", "󰌹"] # U+F0339
-      - ["J", "󰌉"] # U+F0309
-      - ["k", "󰌺"] # U+F033A
-      - ["K", "󰌊"] # U+F030A
-      - ["l", "󰌻"] # U+F033B
-      - ["L", "󰌋"] # U+F030B
-      - ["m", "󰌼"] # U+F033C
-      - ["M", "󰌌"] # U+F030C
-      - ["n", "󰌽"] # U+F033D
-      - ["N", "󰌍"] # U+F030D
-      - ["o", "󰌾"] # U+F033E
-      - ["O", "󰌎"] # U+F030E
-      - ["ó", "󰌾"] # U+F033E
-      - ["Ó", "󰌎"] # U+F030E
-      - ["ö", "󰌾"] # U+F033E
-      - ["Ö", "󰌎"] # U+F030E
-      - ["p", "󰍀"] # U+F0340
-      - ["P", "󰌐"] # U+F0310
-      - ["r", "󰍁"] # U+F0341
-      - ["R", "󰌑"] # U+F0311
-      - ["s", "󰍂"] # U+F0342
-      - ["S", "󰌒"] # U+F0312
-      - ["t", "󰍃"] # U+F0343
-      - ["T", "󰌓"] # U+F0313
-      - ["u", "󰍅"] # U+F0345
-      - ["U", "󰌕"] # U+F0315
-      - ["ú", "󰍅"] # U+F0345
-      - ["Ú", "󰌕"] # U+F0315
-      - ["ü", "󰍅"] # U+F0345
-      - ["Ü", "󰌕"] # U+F0315
-      - ["v", "󰍆"] # U+F0346
-      - ["V", "󰌖"] # U+F0316
-      - ["z", "󰍇"] # U+F0347
-      - ["Z", "󰌗"] # U+F0317
-      - ["q", "󰌺"] # U+F033A
-      - ["Q", "󰌊"] # U+F030A
-      - ["y", "󰌸"] # U+F0338
-      - ["Y", "󰌈"] # U+F0308
-      - ["w", "󰍅"] # U+F0345
-      - ["W", "󰌕"] # U+F0315
-      - ["th", "󰍄"] # U+F0344
-      - ["tH", "󰍄"] # U+F0344
-      - ["Th", "󰌔"] # U+F0314
-      - ["TH", "󰌔"] # U+F0314
-      - ["ph", "󰌵"] # U+F0335
-      - ["pH", "󰌵"] # U+F0335
-      - ["Ph", "󰌅"] # U+F0305
-      - ["PH", "󰌅"] # U+F0305
-      - ["ch", "󰍃󰍂󰌷"] # U+F0343 U+F0342 U+F0337
-      - ["cH", "󰍃󰍂󰌷"] # U+F0343 U+F0342 U+F0337
-      - ["Ch", "󰌓󰍂󰌷"] # U+F0313 U+F0342 U+F0337
-      - ["CH", "󰌓󰍂󰌷"] # U+F0313 U+F0342 U+F0337
-      - ["ei", "󰌴"] # U+F0334
-      - ["eí", "󰌴"] # U+F0334
-      - ["eI", "󰌴"] # U+F0334
-      - ["eÍ", "󰌴"] # U+F0334
-      - ["éi", "󰌴"] # U+F0334
-      - ["éí", "󰌴"] # U+F0334
-      - ["éI", "󰌴"] # U+F0334
-      - ["éÍ", "󰌴"] # U+F0334
-      - ["Ei", "󰌄"] # U+F0304
-      - ["Eí", "󰌄"] # U+F0304
-      - ["EI", "󰌄"] # U+F0304
-      - ["EÍ", "󰌄"] # U+F0304
-      - ["Éi", "󰌄"] # U+F0304
-      - ["Éí", "󰌄"] # U+F0304
-      - ["ÉI", "󰌄"] # U+F0304
-      - ["ÉÍ", "󰌄"] # U+F0304
-      - ["ou", "󰌿"] # U+F033F
-      - ["oú", "󰌿"] # U+F033F
-      - ["oU", "󰌿"] # U+F033F
-      - ["oÚ", "󰌿"] # U+F033F
-      - ["óu", "󰌿"] # U+F033F
-      - ["óú", "󰌿"] # U+F033F
-      - ["óU", "󰌿"] # U+F033F
-      - ["óÚ", "󰌿"] # U+F033F
-      - ["Ou", "󰌏"] # U+F030F
-      - ["Oú", "󰌏"] # U+F030F
-      - ["OU", "󰌏"] # U+F030F
-      - ["OÚ", "󰌏"] # U+F030F
-      - ["Óu", "󰌏"] # U+F030F
-      - ["Óú", "󰌏"] # U+F030F
-      - ["ÓU", "󰌏"] # U+F030F
-      - ["ÓÚ", "󰌏"] # U+F030F
-      - [". ", "󰍰"] # U+F0370
-      - [".", "󰍰"] # U+F0370
-      - [",", ""]
-      - ["—", ""]
-      - ["–", ""]
-      - ["-", ""]
-      - ["0", "󰍠"] # U+F0360
-      - ["1", "󰍡"] # U+F0361
-      - ["2", "󰍢"] # U+F0362
-      - ["3", "󰍣"] # U+F0363
-      - ["4", "󰍤"] # U+F0364
-      - ["5", "󰍥"] # U+F0365
-      - ["6", "󰍦"] # U+F0366
-      - ["7", "󰍧"] # U+F0367
-      - ["8", "󰍨"] # U+F0368
-      - ["9", "󰍩"] # U+F0369
-    fonts: [{font: helonika-book}]
+  language: helo
+  font: helonika-book
+  vowels: aeiouäëïöüáéíóúAEIOUÄËÏÖÜÁÉÍÓÚ
+  mappings:
+    "0": DIGIT_ZERO
+    "1": DIGIT_ONE
+    "2": DIGIT_TWO
+    "3": DIGIT_THREE
+    "4": DIGIT_FOUR
+    "5": DIGIT_FIVE
+    "6": DIGIT_SIX
+    "7": DIGIT_SEVEN
+    "8": DIGIT_EIGHT
+    "9": DIGIT_NINE
+    a: A_MIN
+    A: A_MAJ
+    á: A_MIN
+    Á: A_MAJ
+    ä: A_MIN
+    Ä: A_MAJ
+    b: B_MIN
+    B: B_MAJ
+    d: D_MIN
+    D: D_MAJ
+    e: E_MIN
+    E: E_MAJ
+    é: E_MIN
+    É: E_MAJ
+    ë: E_MIN
+    Ë: E_MAJ
+    f: F_MIN
+    F: F_MAJ
+    g: G_MIN
+    G: G_MAJ
+    h: H_MIN
+    H: H_MAJ
+    i: I_MIN
+    I: I_MAJ
+    í: I_MIN
+    Í: I_MAJ
+    ï: I_MIN
+    Ï: I_MAJ
+    j: J_MIN
+    J: J_MAJ
+    k: K_MIN
+    K: K_MAJ
+    l: L_MIN
+    L: L_MAJ
+    m: M_MIN
+    M: M_MAJ
+    n: N_MIN
+    N: N_MAJ
+    o: O_MIN
+    O: O_MAJ
+    ó: O_MIN
+    Ó: O_MAJ
+    ö: O_MIN
+    Ö: O_MAJ
+    p: P_MIN
+    P: P_MAJ
+    r: R_MIN
+    R: R_MAJ
+    s: S_MIN
+    S: S_MAJ
+    t: T_MIN
+    T: T_MAJ
+    u: U_MIN
+    U: U_MAJ
+    ú: U_MIN
+    Ú: U_MAJ
+    ü: U_MIN
+    Ü: U_MAJ
+    v: V_MIN
+    V: V_MAJ
+    z: Z_MIN
+    Z: Z_MAJ
+    q: K_MIN
+    Q: K_MAJ
+    y: I_MIN
+    Y: I_MAJ
+    w: U_MIN
+    W: U_MAJ
+    th: TH_MIN
+    tH: TH_MIN
+    Th: TH_MAJ
+    TH: TH_MAJ
+    ph: F_MIN
+    pH: F_MIN
+    Ph: F_MAJ
+    PH: F_MAJ
+    ch: [T_MIN, S_MIN, H_MIN]
+    cH: [T_MIN, S_MIN, H_MIN]
+    Ch: [T_MAJ, S_MIN, H_MIN]
+    CH: [T_MAJ, S_MIN, H_MIN]
+    ei: LONG_E_MIN
+    eí: LONG_E_MIN
+    eI: LONG_E_MIN
+    eÍ: LONG_E_MIN
+    éi: LONG_E_MIN
+    éí: LONG_E_MIN
+    éI: LONG_E_MIN
+    éÍ: LONG_E_MIN
+    Ei: LONG_E_MAJ
+    Eí: LONG_E_MAJ
+    EI: LONG_E_MAJ
+    EÍ: LONG_E_MAJ
+    Éi: LONG_E_MAJ
+    Éí: LONG_E_MAJ
+    ÉI: LONG_E_MAJ
+    ÉÍ: LONG_E_MAJ
+    ou: LONG_O_MIN
+    oú: LONG_O_MIN
+    oU: LONG_O_MIN
+    oÚ: LONG_O_MIN
+    óu: LONG_O_MIN
+    óú: LONG_O_MIN
+    óU: LONG_O_MIN
+    óÚ: LONG_O_MIN
+    Ou: LONG_O_MAJ
+    Oú: LONG_O_MAJ
+    OU: LONG_O_MAJ
+    OÚ: LONG_O_MAJ
+    Óu: LONG_O_MAJ
+    Óú: LONG_O_MAJ
+    ÓU: LONG_O_MAJ
+    ÓÚ: LONG_O_MAJ
+    –: []
+    "-": []
+  rules: {normalization: NFC, matching: longest-first, roundTrip: canonical}
 ---
 
-Helónika Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-helnkscrpt|Helónika]], in Helonika Book. A passage marked with `map=helonika` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script, running left to right. [[skill-helonclng|Helonic]] is written by these rows, and so is [[skill-valtarlng|Valtari]] where it is written in the Helónika. [[doc-mapbizarian|Bizarian Spelling]] and [[doc-mapbethuan|Bethuan Spelling]] add the letters and marks those two tongues write. A language's lexicon states a native form only for a word that these rows would spell differently.
-
-```text
-[Sothira]{lang=helo font=helonika-book map=helonika}
-```
+This encoding writes [[skill-helonclng|Helonic]] in helonika-book. A passage selects it with `enc=helohelonikaenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
 
 ## From the Spelling Guide to the Helónika
 
@@ -159,8 +151,10 @@ Helónika Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Tha
 - **A diaeresis vowel is the plain vowel**, so it never joins the vowel before it into _ē_ or _ō_.
 - **A doubled vowel is two letters.** Helonic writes no length.
 - **_q_ is the letter _k_.** The script has no _q_.
-- **The raised dot takes the place of the space after a sentence.** It acts like a space that ends the sentence as well as the word, so a period followed by a space is written as the dot alone and the next word follows with no space between. A period with no space after it, at the end of a line or a passage, is the dot as well. The period is its sole roman source; a colon or semicolon is not an alternative spelling. **The comma, both dashes and the hyphen write nothing**: the word space carries the light pause, and a compound is written solid.
+
 - **The numerals** 0 to 9 are the Helónika digits.
 - **Capitals are the author's.** A capital is written as the majuscule. Write a Helónika passage with a capital only on a name and on the paragraph's first word; the roman transcription beside it keeps the capitals of ordinary writing.
 
-_c_ outside _ch_, _x_, the question and exclamation marks, quotation marks, the apostrophe, `§` and any other character the script lacks pass through unchanged, and the face prints the box for them.
+Characters outside the declared Roman inventory are refused.
+
+Punctuation, quotation marks, verse boundaries and name marks follow the shared Roman standard. Literal glyph codes between `⟦` and `⟧` select the font’s signs directly.

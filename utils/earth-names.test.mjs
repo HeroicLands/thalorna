@@ -130,14 +130,14 @@ test("a retired entry's form is read past and its replacement is checked", () =>
     );
 });
 
-test("a mapping note's rows are read past", () => {
+test("an encoding note's glyph mappings and rules are read past", () => {
     const text = [
         "---",
         "data:",
-        "  map:",
-        "    name: qalezu",
-        "    rows:",
-        '      - {from: "Babylon", to: "x", at: start}',
+        "  mappings:",
+        "    Babylon: PELANNE",
+        "  rules:",
+        "    normalization: NFC",
         "---",
         "Babylon is named in prose.",
     ].join("\n");
@@ -153,4 +153,29 @@ test("Aelwythi technical pronunciation and encoding references may name referenc
     ])
         assert.deepEqual(findEarthNames(file, "English, Roman and Scottish"), []);
     assert.ok(findEarthNames("assets/content/Lore/Cultures/Aelwythan/Story.md", "English").length);
+});
+
+test("encoding prose admits the Roman writing label without exempting Earth references", () => {
+    const source = [
+        "---",
+        "type: doc",
+        "data:",
+        "  language: vyl",
+        "  font: semaron-kuriale",
+        "  mappings: {a: ANKRON_MIN}",
+        "  rules: {normalization: NFC, matching: longest-first}",
+        "---",
+        "Roman word spaces are retained. Roman punctuation follows shared controls. The Roman emperor visited Babylon.",
+    ].join("\n");
+    const findings = findEarthNames("assets/content/Lore/Scripts/Example.md", source);
+    assert.equal(findings.length, 2);
+    assert(findings.some((finding) => finding.includes('"Roman"')));
+    assert(findings.some((finding) => finding.includes('"Babylon"')));
+});
+
+test("malformed encoding frontmatter does not exempt ordinary Earth references", () => {
+    const source = "---\ntype: doc\ndata:\n  mappings: [\n---\nThe Roman emperor visited Babylon.";
+    const findings = findEarthNames("assets/content/Lore/Scripts/Broken.md", source);
+    assert(findings.some((finding) => finding.includes('"Roman"')));
+    assert(findings.some((finding) => finding.includes('"Babylon"')));
 });

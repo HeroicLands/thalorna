@@ -6,10 +6,9 @@ subType: language
 description: "The unwritten tongue of the Vristwald tribes, long drifted from its Pelwar roots and carried wholly on breath and memory."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuvwyzABCDEFGHIJKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.-"
+  roman: "abcdefghijklmnoprstuvwyzABCDEFGHIJKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789-"
   core: true
   abbreviation: Var.
-  writtenIn: {map: semaron, font: semaron-kuriale}
   icon: icon-speaking
   templatePriority: null
   packFolder: language

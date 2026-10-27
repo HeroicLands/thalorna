@@ -26,7 +26,7 @@ Qalezu is what happened when the empire's paperwork outgrew its priesthood. Roug
 The title of [[lore-zamletuqaa|the Hymn of the Sun-Lord]], _Zamlet elu Uqa'a_, in Qalezu, read from the right:
 
 ::: {lang=khel}
-Zamlet elu Uqa'a
+zamlet elu uqa'a
 :::
 
 A character needs **both** Qalezu and [[skill-khelathlng|Khelathi Language]]; Qalezu admits far more of the spoken vernacular than the sacred script does, which is one reason the priesthood regards it as a corruption.

@@ -6,7 +6,7 @@ subType: language
 description: "The imperial speech of Tantsou—tonal and sung, logographic in script, built of single-syllable roots set side by side, with vernaculars that drift the farther one travels from the capital."
 tags: []
 data:
-  roman: "abcdefghijklmnorstuwyzABCDEFGHIJKLMNORSTUWYZ0123456789.,;:?!“”()—–…-"
+  roman: "abcdefghijklmnorstuwyzABCDEFGHIJKLMNORSTUWYZ0123456789()–-"
   core: true
   abbreviation: Tant.
   fields:

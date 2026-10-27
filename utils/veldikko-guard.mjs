@@ -6,31 +6,26 @@
 /**
  * The Veldikko spelling guard (`npm run lint:veldikko`).
  *
- * Sinale is set in the Veldikko by the `veldikko` mapping note and Áelendi by
- * `veldikko-aelendi`. Every lexicon form of each language, derived forms
- * included, and every personal and clan name of its note is run through its
- * map, and the result must hold only characters of the Veldikko block
- * (U+1ED50 to U+1EDFF) and word spaces, so no roman letter is left. A letter the map cannot write passes through unchanged and
- * is reported with the form that holds it.
+ * Sinale and Áelendi use their own encoding documents. Every lexicon form,
+ * derived form and personal or clan name must encode into the Veldikko block
+ * (U+1ED50 to U+1EDFF) and word spaces. Unsupported source characters are
+ * reported with the form that holds them.
  *
- * The rows of both notes must also be the ones `utils/veldikko-spelling.mjs`
- * writes.
- *
- * With `--fonts <dir>`, a checkout of the fonts repository, each Sinale form and
- * name must also equal what `tools/veldikko/convert.mjs` there writes for it,
- * code point for code point.
+ * The spelling documents must agree with `utils/veldikko-spelling.mjs`.
+ * Sinale's forms also match the independent `utils/veldikko-reference.mjs`
+ * spelling model, using code points from the installed font's glyph metadata.
  *
  * Findings are written `file:line:column: error: message`, the path first and
  * relative to the working directory, to stderr; the summary goes to stdout and
  * the exit status is 1 when there is a finding. A form is located by searching
- * its language note for it, a name likewise.
+ * its language note for it, a name likewise, and a repeated form or name lands on
+ * its own occurrence.
  *
  *     npm run build:deps && npm run build:content-index
- *     node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl [--fonts ~/dev/HeroicLands/fonts]
+ *     node utils/veldikko-guard.mjs --index build/content-index/thalorna-metadata.jsonl
  */
 
 import fs from "node:fs";
-import path from "node:path";
 import { pathToFileURL } from "node:url";
 
 import { runContext } from "@heroiclands/package-build/engine/content-scripts";
@@ -42,10 +37,12 @@ import {
 import {
     languageRecordsByName,
     lexiconEntries,
-    transliterate,
-} from "@heroiclands/package-build/engine/map-lexicon";
+    encodingFor,
+} from "@heroiclands/package-build/engine/encoding-lexicon";
 
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
 import { checkNotes } from "./veldikko-spelling.mjs";
+import { convertVeldikko, veldikkoTable } from "./veldikko-reference.mjs";
 
 const BLOCK_START = 0x1ed50;
 const BLOCK_END = 0x1edff;
@@ -54,13 +51,13 @@ const BLOCK_END = 0x1edff;
 export const LANGUAGES = [
     {
         name: "sina",
-        map: "veldikko",
+        enc: "sinaveldikkoenc",
         note: "assets/content/Skills/Languages/Sinale.md",
         reference: true,
     },
     {
         name: "aele",
-        map: "veldikko-aelendi",
+        enc: "aeleveldikkoenc",
         note: "assets/content/Skills/Languages/Aelendi.md",
         reference: false,
     },
@@ -144,14 +141,33 @@ function nameStrings(record) {
     return out;
 }
 
-/** `file:line:column` of the first occurrence of `needle`, else `file`. */
-function locate(file, needle) {
-    const lines = fs.readFileSync(file, "utf8").split("\n");
-    for (let i = 0; i < lines.length; i++) {
-        const col = lines[i].indexOf(needle);
-        if (col >= 0) return `${file}:${i + 1}:${col + 1}`;
-    }
-    return file;
+/**
+ * A locator for one file. `claim(needle)` counts the needle's uses without reading anything, and `at(needle, n)`
+ * reads the file on first need and returns the `n`th occurrence as `file:line:column`, so a repeated literal lands
+ * on its own position; with no such occurrence it returns `file`.
+ */
+function locator(file) {
+    let lines;
+    const seen = new Map();
+    return {
+        claim(needle) {
+            const n = seen.get(needle) ?? 0;
+            seen.set(needle, n + 1);
+            return n;
+        },
+        at(needle, n) {
+            lines ??= fs.readFileSync(file, "utf8").split("\n");
+            for (let i = 0; i < lines.length; i++) {
+                for (
+                    let col = lines[i].indexOf(needle);
+                    col >= 0;
+                    col = lines[i].indexOf(needle, col + 1)
+                )
+                    if (n-- === 0) return `${file}:${i + 1}:${col + 1}`;
+            }
+            return file;
+        },
+    };
 }
 
 function hex(text) {
@@ -243,7 +259,7 @@ export function referenceWithPerformance(source, convert) {
 /**
  * Check one language.
  *
- * @param {{name: string, map: string, note: string, reference: boolean}} language
+ * @param {{name: string, enc: string, note: string, reference: boolean}} language
  * @param {object} ctx The canonical mapping context for the decoded index.
  * @param {object} record The decoded language note.
  * @param {((text: string) => string) | undefined} convert Sinale's reference converter.
@@ -253,36 +269,45 @@ export function checkLanguage(language, ctx, record, convert) {
     if (!record) throw new Error(`index has no language note for \`${language.name}\``);
     const findings = [];
     const entries = [];
-    const lexicon = lexiconEntries(ctx, { lang: language.name, map: language.map, derived: true });
+    const locate = locator(language.note);
+    const lexicon = lexiconEntries(ctx, { lang: language.name, enc: language.enc, derived: true });
     if ("problem" in lexicon) throw new Error(lexicon.problem);
-    for (const row of lexicon.entries)
-        entries.push({ source: row.form, native: row.native, kind: "form" });
-
-    const names = nameStrings(record);
-    if (names.length) {
-        const result = transliterate(
-            ctx,
-            { map: language.map, lang: language.name },
-            names.join("\n"),
-        );
-        if ("problem" in result) throw new Error(result.problem);
-        const mapped = result.text.split("\n");
-        if (mapped.length !== names.length) {
-            findings.push(
-                `${language.note}: error: the names came back as ${mapped.length} lines, not ${names.length}`,
-            );
-        } else {
-            names.forEach((name, i) =>
-                entries.push({ source: name, native: mapped[i], kind: "name" }),
-            );
+    const selected = encodingFor(ctx, { enc: language.enc, lang: language.name });
+    const append = (source, native, kind, errors = []) => {
+        const n = locate.claim(source);
+        const at = () => locate.at(source, n);
+        if (errors.length) {
+            for (const error of errors)
+                findings.push(
+                    `${at()}: error: the ${kind} \`${source}\` cannot be encoded: ${error.message}`,
+                );
         }
+        entries.push({ source, native, kind, at, failed: errors.length > 0 });
+    };
+    for (const row of lexicon.entries) {
+        const result =
+            row.source === "none" ?
+                encodeWithLanguage(selected.encoding, row.form, {
+                    font: selected.font,
+                    lexicon: selected.lexicon,
+                })
+            :   undefined;
+        append(row.form, row.native, "form", result?.findings);
+    }
+    for (const name of nameStrings(record)) {
+        const result = encodeWithLanguage(selected.encoding, name, {
+            font: selected.font,
+            lexicon: selected.lexicon,
+        });
+        append(name, result.text, "name", result.findings);
     }
 
-    for (const { source, native, kind } of entries) {
+    for (const { source, native, kind, at, failed } of entries) {
+        if (failed) continue;
         const bad = unwritable(native);
         if (bad.length) {
             findings.push(
-                `${locate(language.note, source)}: error: the ${kind} \`${source}\` has no ${language.map} sign for ${bad.map((c) => `\`${c}\``).join(", ")}`,
+                `${at()}: error: the ${kind} \`${source}\` has no ${language.enc} sign for ${bad.map((c) => `\`${c}\``).join(", ")}`,
             );
             continue;
         }
@@ -290,7 +315,7 @@ export function checkLanguage(language, ctx, record, convert) {
             const expected = referenceWithPerformance(source, convert);
             if (expected !== native) {
                 findings.push(
-                    `${locate(language.note, source)}: error: the ${kind} \`${source}\` is written ${hex(native)}, but the converter writes ${hex(expected)}`,
+                    `${at()}: error: the ${kind} \`${source}\` is written ${hex(native)}, but the converter writes ${hex(expected)}`,
                 );
             }
         }
@@ -304,14 +329,12 @@ async function main() {
     for (let i = 0; i < args.length; i += 2) {
         const flag = args[i];
         if (
-            !["--index", "--fonts"].includes(flag) ||
+            !["--index"].includes(flag) ||
             !args[i + 1] ||
             args[i + 1].startsWith("--") ||
             options[flag]
         ) {
-            throw new Error(
-                `invalid argument \`${flag}\`; use --index <metadata.jsonl> [--fonts <checkout>]`,
-            );
+            throw new Error(`invalid argument \`${flag}\`; use --index <metadata.jsonl>`);
         }
         options[flag] = args[i + 1];
     }
@@ -319,18 +342,8 @@ async function main() {
         throw new Error(
             "--index <metadata.jsonl> is required; run `npm run build:deps && npm run build:content-index` first",
         );
-    let convert;
-    if (options["--fonts"]) {
-        const file = path.resolve(options["--fonts"], "tools/veldikko/convert.mjs");
-        try {
-            const mod = await import(pathToFileURL(file).href);
-            if (typeof mod.convertVeldikko !== "function")
-                throw new Error("missing convertVeldikko export");
-            convert = mod.convertVeldikko;
-        } catch (error) {
-            throw new Error(`${file}: error: cannot load reference converter: ${error.message}`);
-        }
-    }
+    const table = veldikkoTable();
+    const convert = (text) => convertVeldikko(text, table);
     const started = performance.now();
     const config = loadPackConfig();
     const records = readIndex(options["--index"], config);

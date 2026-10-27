@@ -6,7 +6,7 @@ subType: language
 description: "The glottal, glyph-written tongue of the Ki'ich'chik city-states, with short everyday words and richly compounded titles."
 tags: []
 data:
-  roman: "abcehiklmnopqstuyzABCEHIKLMNOPQSTUYZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-'’"
+  roman: "abcehiklmnopqstuyzABCEHIKLMNOPQSTUYZáéíóúëÁÉÍÓÚË0123456789()–-'’"
   core: true
   abbreviation: Kiichk.
   icon: icon-speaking

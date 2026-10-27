@@ -7,7 +7,7 @@ description: "How to put meaning into the common hand of Ch'alish P'ilam: choosi
 data: {packFolder: languages}
 ---
 
-This is a guide for anyone writing a passage in the common hand of [[skill-chlxplmscrpt|Ch'alish P'ilam]], the writing of the Ki'ich'chik city-states: a scribe of the setting, an author, or a language model asked to translate. A passage is written in [[doc-mapchalishcmn|Chalish Common Codage]], which turns each code into one glyph.
+This is a guide for anyone writing a passage in the common hand of [[skill-chlxplmscrpt|Ch'alish P'ilam]], the writing of the Ki'ich'chik city-states: a scribe of the setting, an author, or a language model asked to translate. A passage is written in [[doc-zxxchalishcommonenc|Chalish Common Codage]], which turns each code into one glyph.
 
 ## What the script records
 

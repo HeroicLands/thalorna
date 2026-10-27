@@ -1,6 +1,15 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import {
+    beforeEncodingMigration,
+    assertEncodingMigrationPreserved,
+    assertPublicLanguageProjections,
+    contentHash,
+} from "./encoding-preservation.mjs";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import crypto from "node:crypto";
 import test from "node:test";
@@ -39,82 +48,33 @@ test("every ordinary Dunhari entry retains its real class and all published sens
         );
     }
 });
-test("Dunhari preserves all original meanings, optional writings and name interpretations", async () => {
-    const hash = (value) =>
-        crypto
-            .createHash("sha256")
-            .update(typeof value === "string" ? value : JSON.stringify(value))
-            .digest("hex");
-    const omitConcept = ({ concept, ...rest }) => rest;
+test("Dunhari preserves all original meanings, optional writings and name interpretations", () => {
+    const before = beforeEncodingMigration(language.file);
+    assertEncodingMigrationPreserved(language, before);
+    assertPublicLanguageProjections(language, before, 58);
     assert.equal(
-        hash(words.slice(0, 58).map(omitConcept)),
+        contentHash(before.fm.data.words.slice(0, 58).map(({ concept, ...rest }) => rest)),
         "44d6b80deccbbdf3a1e3e223a7372bd3c59e289341e4a30c2779b5266c2ae048",
     );
-    const fm = structuredClone(language.fm);
+    const fm = structuredClone(before.fm);
     delete fm.data.words;
-    // The new repertoire is checked independently by roman-inventories.test.mjs.
     delete fm.data.roman;
     assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    assert.equal(hash(fm), "4878ec12c1f156520f5ddfc8cd58f5d18ebf7f8553f5652890087973e4bbaabe");
+    assert.equal(
+        contentHash(fm),
+        "4878ec12c1f156520f5ddfc8cd58f5d18ebf7f8553f5652890087973e4bbaabe",
+    );
     const romanNote =
         "The roman repertoire keeps the straight catch apostrophe in the registered name Tigh'Baharan.";
-    assert.equal(splitFrontmatter(language.raw).body.split(romanNote).length, 2);
-    const body = splitFrontmatter(language.raw)
+    const body = splitFrontmatter(before.raw)
         .body.replace(romanNote + "\n\n", "")
         .replace(/## Everyday speech\n[\s\S]*?(?=## Script and Literacy\n)/u, "");
-    assert.equal(hash(body), "c0f66ec2d26a541b519bb80c20f8655b4ad7ac9da9a139c4499d44dcca58adeb");
-    const originalData = {
-        ...language.fm.data,
-        words: words.slice(0, 58),
-        fields: language.fm.data.fields.slice(0, -1),
-    };
-    const originalRows = dictionaryAndTermRows([{ ...record, data: originalData }]).dictionary;
-    for (const row of originalRows)
-        assert.deepEqual(
-            dictionary.find((r) => r.name === row.name),
-            row,
-            row.name,
-        );
-    const { pieceGlosses } = await import("@heroiclands/package-build/engine/word-rows");
-    const probes = new Set();
-    function collect(value) {
-        if (Array.isArray(value)) {
-            value.forEach(collect);
-            return;
-        }
-        if (!value || typeof value !== "object") return;
-        for (const [key, item] of Object.entries(value)) {
-            if (
-                ["form", "name", "front", "joining", "instead", "near"].includes(key) &&
-                typeof item === "string"
-            )
-                probes.add(item);
-            if (["built", "variants", "elements"].includes(key) && Array.isArray(item))
-                for (const s of item) if (typeof s === "string") probes.add(s);
-            collect(item);
-        }
-    }
-    collect(originalData);
-    for (const form of Object.values(originalData.names.given).flat()) probes.add(form);
-    for (const form of originalData.names.clan) probes.add(form);
-    const listedNames = body.match(/## Name Lists\n([\s\S]*?)## Dunhari Lexicon/u)[1];
-    for (const line of listedNames.split("\n"))
-        if (line && !line.startsWith("#"))
-            for (const form of line.split(",")) probes.add(form.trim());
-    const sayings = body.match(/## Sample Phrases\n([\s\S]*?)## Lexicon/u)[1];
-    for (const line of sayings.split("\n"))
-        if (line && !line.startsWith(":"))
-            for (const form of line.split(" ")) probes.add(form.trim());
-    const before = pieceGlosses(originalData),
-        after = pieceGlosses(language.fm.data);
-    for (const form of [...probes].flatMap((f) => [
-        f,
-        f.toLowerCase(),
-        f.replace(/^-+|-+$/gu, ""),
-        f.replace(/^-+|-+$/gu, "").toLowerCase(),
-    ]))
-        assert.equal(after(form), before(form), `${form}: original piece meaning`);
+    assert.equal(
+        contentHash(body),
+        "c0f66ec2d26a541b519bb80c20f8655b4ad7ac9da9a139c4499d44dcca58adeb",
+    );
 });
+
 test("the current word, schema and name contracts accept the Dunhari declarations", async () => {
     const { lintNote } = await import("@heroiclands/package-build/engine/frontmatter-lint");
     const { checkLanguageWords } = await import("@heroiclands/package-build/engine/language-words");
@@ -178,10 +138,8 @@ test("new Dunhari citations follow the actual sound edges", () => {
 test("the actual published list and configured Qalezu renderer cover every ordinary citation", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =
         await import("@heroiclands/package-build/engine/lexical-sections");
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const { compileMap, applyMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const key = "thalorna-note-skill-" + language.fm.shortcode;
@@ -198,7 +156,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     }
     const spelling = read("assets/content/Lore/Scripts/Qalezu_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -207,13 +165,13 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     );
     assert(context.wordBooks.has(lang));
     assert(context.lexicons.has(lang));
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
-    assert.equal(map.name, language.fm.data.writtenIn.map);
-    const native = nativeLookup(context.lexicons.get(lang), map.name, face.slug);
+    const map = encodingReference("dunh").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+    assert.equal(map.language, "dunh");
+    const native = serializeLexicon(context.lexicons.get(lang));
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    const attributes = `.nativefont lang=${lang} map=${map.name} font=${face.slug}`;
+    const attributes = `lang=${lang} enc=${map.name} font=${face.slug}`;
     const scan = scanRuns(`[${ordinary[0].form}]{${attributes}}`, context);
     assert.deepEqual(scan.errors, []);
     assert.equal(scan.runs[0].tag, definition.tag);
@@ -230,7 +188,10 @@ test("the actual published list and configured Qalezu renderer cover every ordin
         }
     };
     for (const word of ordinary) {
-        const mapped = applyMap(map, word.form, { font: face.slug, native }).text;
+        const mapped = encodeWithLanguage(map, word.form, {
+            font: face.slug,
+            lexicon: native,
+        }).text;
         draw(mapped, word.form);
         const rendered = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(rendered.errors, [], word.form);
@@ -238,7 +199,7 @@ test("the actual published list and configured Qalezu renderer cover every ordin
     }
     const unknown = "vevazem";
     assert.equal(context.wordBooks.get(lang).accepts(unknown), false);
-    draw(applyMap(map, unknown, { font: face.slug, native }).text, unknown);
+    draw(encodeWithLanguage(map, unknown, { font: face.slug, lexicon: native }).text, unknown);
     const negative = renderRuns(`[${unknown}]{${attributes}}`, context);
     assert.equal(negative.errors.length, 1);
     assert(negative.errors[0].message.includes(`\`${unknown}\` is not a word`));

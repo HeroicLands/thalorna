@@ -6,7 +6,7 @@ subType: language
 description: "The tongue of the guide-people of the western and central Grazian crossings—related to nothing spoken in any lowland, and learned by outsiders almost never."
 tags: []
 data:
-  roman: "abcdeghiklmnopqrstuwyABCDEGHIKLMNOPQRSTUWYáéíóúëöüÁÉÍÓÚËÖÜ0123456789.,;:?!“”()—–…-"
+  roman: "abcdeghiklmnopqrstuwyABCDEGHIKLMNOPQRSTUWYáéíóúëöüÁÉÍÓÚËÖÜ0123456789()–-"
   core: true
   abbreviation: Osk.
   fields:

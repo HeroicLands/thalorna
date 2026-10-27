@@ -1,177 +1,176 @@
 ---
-shortcode: mapsemaron
-name: {full: Semaron Spelling, aliases: []}
+shortcode: elavsemaronenc
+name: {full: Élavendri Semaron Encoding, aliases: []}
 type: doc
 subType: reference
 data:
   packFolder: languages
-  map:
-    name: semaron
-    vowels: "aeiouëàAEIOUËÀáéíóúÁÉÍÓÚ"
-    rows:
-      - ["tà", "󰉁󰉰󰈰"] # U+F0241 U+F0270 U+F0230
-      - ["tÀ", "󰉁󰉰󰈀"] # U+F0241 U+F0270 U+F0200
-      - ["Tà", "󰈑󰉰󰈰"] # U+F0211 U+F0270 U+F0230
-      - ["TÀ", "󰈑󰉰󰈀"] # U+F0211 U+F0270 U+F0200
-      - ["kà", "󰈹󰉰󰈰"] # U+F0239 U+F0270 U+F0230
-      - ["kÀ", "󰈹󰉰󰈀"] # U+F0239 U+F0270 U+F0200
-      - ["Kà", "󰈉󰉰󰈰"] # U+F0209 U+F0270 U+F0230
-      - ["KÀ", "󰈉󰉰󰈀"] # U+F0209 U+F0270 U+F0200
-      - ["dà", "󰈲󰉰󰈰"] # U+F0232 U+F0270 U+F0230
-      - ["dÀ", "󰈲󰉰󰈀"] # U+F0232 U+F0270 U+F0200
-      - ["Dà", "󰈂󰉰󰈰"] # U+F0202 U+F0270 U+F0230
-      - ["DÀ", "󰈂󰉰󰈀"] # U+F0202 U+F0270 U+F0200
-      - ["gà", "󰈵󰉰󰈰"] # U+F0235 U+F0270 U+F0230
-      - ["gÀ", "󰈵󰉰󰈀"] # U+F0235 U+F0270 U+F0200
-      - ["Gà", "󰈅󰉰󰈰"] # U+F0205 U+F0270 U+F0230
-      - ["GÀ", "󰈅󰉰󰈀"] # U+F0205 U+F0270 U+F0200
-      - ["à", "󰈰󰉰"] # U+F0230 U+F0270
-      - ["À", "󰈀󰉰"] # U+F0200 U+F0270
-      - ["a", "󰈰"] # U+F0230
-      - ["A", "󰈀"] # U+F0200
-      - ["b", "󰈱"] # U+F0231
-      - ["B", "󰈁"] # U+F0201
-      - ["d", "󰈲"] # U+F0232
-      - ["D", "󰈂"] # U+F0202
-      - ["e", "󰈳"] # U+F0233
-      - ["ë", "󰈳"] # U+F0233
-      - ["E", "󰈃"] # U+F0203
-      - ["Ë", "󰈃"] # U+F0203
-      - ["f", "󰈴"] # U+F0234
-      - ["F", "󰈄"] # U+F0204
-      - ["g", "󰈵"] # U+F0235
-      - ["G", "󰈅"] # U+F0205
-      - ["h", "󰈶"] # U+F0236
-      - ["H", "󰈆"] # U+F0206
-      - ["i", "󰈷"] # U+F0237
-      - ["I", "󰈇"] # U+F0207
-      - ["j", "󰈸"] # U+F0238
-      - ["J", "󰈈"] # U+F0208
-      - ["k", "󰈹"] # U+F0239
-      - ["K", "󰈉"] # U+F0209
-      - ["l", "󰈺"] # U+F023A
-      - ["L", "󰈊"] # U+F020A
-      - ["m", "󰈻"] # U+F023B
-      - ["M", "󰈋"] # U+F020B
-      - ["n", "󰈼"] # U+F023C
-      - ["N", "󰈌"] # U+F020C
-      - ["o", "󰈽"] # U+F023D
-      - ["O", "󰈍"] # U+F020D
-      - ["p", "󰈾"] # U+F023E
-      - ["P", "󰈎"] # U+F020E
-      - ["q", "󰈹"] # U+F0239
-      - ["Q", "󰈉"] # U+F0209
-      - ["r", "󰈿"] # U+F023F
-      - ["R", "󰈏"] # U+F020F
-      - ["s", "󰉀"] # U+F0240
-      - ["S", "󰈐"] # U+F0210
-      - ["t", "󰉁"] # U+F0241
-      - ["T", "󰈑"] # U+F0211
-      - ["u", "󰉂"] # U+F0242
-      - ["U", "󰈒"] # U+F0212
-      - ["v", "󰉃"] # U+F0243
-      - ["V", "󰈓"] # U+F0213
-      - ["w", "󰉄"] # U+F0244
-      - ["W", "󰈔"] # U+F0214
-      - ["z", "󰉆"] # U+F0246
-      - ["Z", "󰈖"] # U+F0216
-      - ["á", "󰈰"] # U+F0230
-      - ["Á", "󰈀"] # U+F0200
-      - ["é", "󰈳"] # U+F0233
-      - ["É", "󰈃"] # U+F0203
-      - ["í", "󰈷"] # U+F0237
-      - ["Í", "󰈇"] # U+F0207
-      - ["ó", "󰈽"] # U+F023D
-      - ["Ó", "󰈍"] # U+F020D
-      - ["ú", "󰉂"] # U+F0242
-      - ["Ú", "󰈒"] # U+F0212
-      - ["th", "󰉐"] # U+F0250
-      - ["tH", "󰉐"] # U+F0250
-      - ["Th", "󰉑"] # U+F0251
-      - ["TH", "󰉑"] # U+F0251
-      - ["ch", "󰉁󰉀󰈶"] # U+F0241 U+F0240 U+F0236
-      - ["cH", "󰉁󰉀󰈶"] # U+F0241 U+F0240 U+F0236
-      - ["Ch", "󰈑󰉀󰈶"] # U+F0211 U+F0240 U+F0236
-      - ["CH", "󰈑󰉀󰈶"] # U+F0211 U+F0240 U+F0236
-      - ["aa", "󰉈"] # U+F0248
-      - ["aA", "󰉈"] # U+F0248
-      - ["aá", "󰉈"] # U+F0248
-      - ["aÁ", "󰉈"] # U+F0248
-      - ["áa", "󰉈"] # U+F0248
-      - ["áA", "󰉈"] # U+F0248
-      - ["áá", "󰉈"] # U+F0248
-      - ["áÁ", "󰉈"] # U+F0248
-      - ["Aa", "󰈠"] # U+F0220
-      - ["AA", "󰈠"] # U+F0220
-      - ["Aá", "󰈠"] # U+F0220
-      - ["AÁ", "󰈠"] # U+F0220
-      - ["Áa", "󰈠"] # U+F0220
-      - ["ÁA", "󰈠"] # U+F0220
-      - ["Áá", "󰈠"] # U+F0220
-      - ["ÁÁ", "󰈠"] # U+F0220
-      - ["ii", "󰉊"] # U+F024A
-      - ["iI", "󰉊"] # U+F024A
-      - ["ií", "󰉊"] # U+F024A
-      - ["iÍ", "󰉊"] # U+F024A
-      - ["íi", "󰉊"] # U+F024A
-      - ["íI", "󰉊"] # U+F024A
-      - ["íí", "󰉊"] # U+F024A
-      - ["íÍ", "󰉊"] # U+F024A
-      - ["Ii", "󰈢"] # U+F0222
-      - ["II", "󰈢"] # U+F0222
-      - ["Ií", "󰈢"] # U+F0222
-      - ["IÍ", "󰈢"] # U+F0222
-      - ["Íi", "󰈢"] # U+F0222
-      - ["ÍI", "󰈢"] # U+F0222
-      - ["Íí", "󰈢"] # U+F0222
-      - ["ÍÍ", "󰈢"] # U+F0222
-      - ["uu", "󰉌"] # U+F024C
-      - ["uU", "󰉌"] # U+F024C
-      - ["uú", "󰉌"] # U+F024C
-      - ["uÚ", "󰉌"] # U+F024C
-      - ["úu", "󰉌"] # U+F024C
-      - ["úU", "󰉌"] # U+F024C
-      - ["úú", "󰉌"] # U+F024C
-      - ["úÚ", "󰉌"] # U+F024C
-      - ["Uu", "󰈤"] # U+F0224
-      - ["UU", "󰈤"] # U+F0224
-      - ["Uú", "󰈤"] # U+F0224
-      - ["UÚ", "󰈤"] # U+F0224
-      - ["Úu", "󰈤"] # U+F0224
-      - ["ÚU", "󰈤"] # U+F0224
-      - ["Úú", "󰈤"] # U+F0224
-      - ["ÚÚ", "󰈤"] # U+F0224
-      - {from: "y", to: "󰉅", before: vowel} # U+F0245
-      - ["y", "󰈷"] # U+F0237
-      - {from: "Y", to: "󰈕", before: vowel} # U+F0215
-      - ["Y", "󰈇"] # U+F0207
-      - {from: "ý", to: "󰉅", before: vowel} # U+F0245
-      - ["ý", "󰈷"] # U+F0237
-      - {from: "Ý", to: "󰈕", before: vowel} # U+F0215
-      - ["Ý", "󰈇"] # U+F0207
-      - ["'", "󰉰"] # U+F0270
-      - ["’", "󰉰"] # U+F0270
-      - ["`", "󰉰"] # U+F0270
-      - ["-", "󰉰"] # U+F0270
-      - [".", "󰉨"] # U+F0268
-      - ["0", "󰉘"] # U+F0258
-      - ["1", "󰉙"] # U+F0259
-      - ["2", "󰉚"] # U+F025A
-      - ["3", "󰉛"] # U+F025B
-      - ["4", "󰉜"] # U+F025C
-      - ["5", "󰉝"] # U+F025D
-      - ["6", "󰉞"] # U+F025E
-      - ["7", "󰉟"] # U+F025F
-      - ["8", "󰉠"] # U+F0260
-      - ["9", "󰉡"] # U+F0261
-    fonts: [{font: semaron-kuriale}]
+  language: elav
+  font: semaron-kuriale
+  vowels: aeiouëàAEIOUËÀáéíóúÁÉÍÓÚ
+  mappings:
+    "0": DIGIT_ZERO
+    "1": DIGIT_ONE
+    "2": DIGIT_TWO
+    "3": DIGIT_THREE
+    "4": DIGIT_FOUR
+    "5": DIGIT_FIVE
+    "6": DIGIT_SIX
+    "7": DIGIT_SEVEN
+    "8": DIGIT_EIGHT
+    "9": DIGIT_NINE
+    tà: [TALOTHOS_MIN, CATCH, ANKRON_MIN]
+    tÀ: [TALOTHOS_MIN, CATCH, ANKRON_MAJ]
+    Tà: [TALOTHOS_MAJ, CATCH, ANKRON_MIN]
+    TÀ: [TALOTHOS_MAJ, CATCH, ANKRON_MAJ]
+    kà: [KALPEZA_MIN, CATCH, ANKRON_MIN]
+    kÀ: [KALPEZA_MIN, CATCH, ANKRON_MAJ]
+    Kà: [KALPEZA_MAJ, CATCH, ANKRON_MIN]
+    KÀ: [KALPEZA_MAJ, CATCH, ANKRON_MAJ]
+    dà: [DEKAZU_MIN, CATCH, ANKRON_MIN]
+    dÀ: [DEKAZU_MIN, CATCH, ANKRON_MAJ]
+    Dà: [DEKAZU_MAJ, CATCH, ANKRON_MIN]
+    DÀ: [DEKAZU_MAJ, CATCH, ANKRON_MAJ]
+    gà: [GULMOS_MIN, CATCH, ANKRON_MIN]
+    gÀ: [GULMOS_MIN, CATCH, ANKRON_MAJ]
+    Gà: [GULMOS_MAJ, CATCH, ANKRON_MIN]
+    GÀ: [GULMOS_MAJ, CATCH, ANKRON_MAJ]
+    à: [ANKRON_MIN, CATCH]
+    À: [ANKRON_MAJ, CATCH]
+    a: ANKRON_MIN
+    A: ANKRON_MAJ
+    b: BRUTHEKA_MIN
+    B: BRUTHEKA_MAJ
+    d: DEKAZU_MIN
+    D: DEKAZU_MAJ
+    e: ELZA_MIN
+    ë: ELZA_MIN
+    E: ELZA_MAJ
+    Ë: ELZA_MAJ
+    f: FUNELA_MIN
+    F: FUNELA_MAJ
+    g: GULMOS_MIN
+    G: GULMOS_MAJ
+    h: HARLEN_MIN
+    H: HARLEN_MAJ
+    i: ILTHERA_MIN
+    I: ILTHERA_MAJ
+    j: JA_MIN
+    J: JA_MAJ
+    k: KALPEZA_MIN
+    K: KALPEZA_MAJ
+    l: LIZELA_MIN
+    L: LIZELA_MAJ
+    m: MEZARA_MIN
+    M: MEZARA_MAJ
+    n: NELAMIS_MIN
+    N: NELAMIS_MAJ
+    o: ORNETHE_MIN
+    O: ORNETHE_MAJ
+    p: POZERA_MIN
+    P: POZERA_MAJ
+    q: KALPEZA_MIN
+    Q: KALPEZA_MAJ
+    r: RONETHOS_MIN
+    R: RONETHOS_MAJ
+    s: SIRETHA_MIN
+    S: SIRETHA_MAJ
+    t: TALOTHOS_MIN
+    T: TALOTHOS_MAJ
+    u: ULMERA_MIN
+    U: ULMERA_MAJ
+    v: VARTHOS_MIN
+    V: VARTHOS_MAJ
+    w: WA_MIN
+    W: WA_MAJ
+    z: ZARGON_MIN
+    Z: ZARGON_MAJ
+    á: ANKRON_MIN
+    Á: ANKRON_MAJ
+    é: ELZA_MIN
+    É: ELZA_MAJ
+    í: ILTHERA_MIN
+    Í: ILTHERA_MAJ
+    ó: ORNETHE_MIN
+    Ó: ORNETHE_MAJ
+    ú: ULMERA_MIN
+    Ú: ULMERA_MAJ
+    th: THOLERA_MIN
+    tH: THOLERA_MIN
+    Th: THOLERA_MAJ
+    TH: THOLERA_MAJ
+    ch: [TALOTHOS_MIN, SIRETHA_MIN, HARLEN_MIN]
+    cH: [TALOTHOS_MIN, SIRETHA_MIN, HARLEN_MIN]
+    Ch: [TALOTHOS_MAJ, SIRETHA_MIN, HARLEN_MIN]
+    CH: [TALOTHOS_MAJ, SIRETHA_MIN, HARLEN_MIN]
+    aa: LONG_ANKRON_MIN
+    aA: LONG_ANKRON_MIN
+    aá: LONG_ANKRON_MIN
+    aÁ: LONG_ANKRON_MIN
+    áa: LONG_ANKRON_MIN
+    áA: LONG_ANKRON_MIN
+    áá: LONG_ANKRON_MIN
+    áÁ: LONG_ANKRON_MIN
+    Aa: LONG_ANKRON_MAJ
+    AA: LONG_ANKRON_MAJ
+    Aá: LONG_ANKRON_MAJ
+    AÁ: LONG_ANKRON_MAJ
+    Áa: LONG_ANKRON_MAJ
+    ÁA: LONG_ANKRON_MAJ
+    Áá: LONG_ANKRON_MAJ
+    ÁÁ: LONG_ANKRON_MAJ
+    ii: LONG_ILTHERA_MIN
+    iI: LONG_ILTHERA_MIN
+    ií: LONG_ILTHERA_MIN
+    iÍ: LONG_ILTHERA_MIN
+    íi: LONG_ILTHERA_MIN
+    íI: LONG_ILTHERA_MIN
+    íí: LONG_ILTHERA_MIN
+    íÍ: LONG_ILTHERA_MIN
+    Ii: LONG_ILTHERA_MAJ
+    II: LONG_ILTHERA_MAJ
+    Ií: LONG_ILTHERA_MAJ
+    IÍ: LONG_ILTHERA_MAJ
+    Íi: LONG_ILTHERA_MAJ
+    ÍI: LONG_ILTHERA_MAJ
+    Íí: LONG_ILTHERA_MAJ
+    ÍÍ: LONG_ILTHERA_MAJ
+    uu: LONG_ULMERA_MIN
+    uU: LONG_ULMERA_MIN
+    uú: LONG_ULMERA_MIN
+    uÚ: LONG_ULMERA_MIN
+    úu: LONG_ULMERA_MIN
+    úU: LONG_ULMERA_MIN
+    úú: LONG_ULMERA_MIN
+    úÚ: LONG_ULMERA_MIN
+    Uu: LONG_ULMERA_MAJ
+    UU: LONG_ULMERA_MAJ
+    Uú: LONG_ULMERA_MAJ
+    UÚ: LONG_ULMERA_MAJ
+    Úu: LONG_ULMERA_MAJ
+    ÚU: LONG_ULMERA_MAJ
+    Úú: LONG_ULMERA_MAJ
+    ÚÚ: LONG_ULMERA_MAJ
+    y: ILTHERA_MIN
+    Y: ILTHERA_MAJ
+    ý: ILTHERA_MIN
+    Ý: ILTHERA_MAJ
+    "'": CATCH
+    ’: CATCH
+    "`": CATCH
+    "-": CATCH
+  rules:
+    normalization: NFC
+    matching: longest-first
+    roundTrip: canonical
+    contextual-mappings:
+      - {match: y, before: vowel, emit: YALZEMIS_MIN}
+      - {match: Y, before: vowel, emit: YALZEMIS_MAJ}
+      - {match: ý, before: vowel, emit: YALZEMIS_MIN}
+      - {match: Ý, before: vowel, emit: YALZEMIS_MAJ}
 ---
 
-Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-semrnscrpt|Semaron]]. A native passage marked with `.nativefont`, its language and `map=semaron` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. Every language written in the Semaron shares these rows. A language's lexicon states a native form only for a word that these rows would spell differently.
-
-```text
-[Zaron tholmeza]{.nativefont lang=vyl font=semaron-kuriale map=semaron}
-```
+This encoding writes [[skill-elvndrlng|Élavendri]] in semaron-kuriale. A passage selects it with `enc=elavsemaronenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
 
 ## From the Spelling Guide to Semaron
 
@@ -183,9 +182,11 @@ Semaron Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **_y_ before a vowel is the glide _y_**, and anywhere else the vowel _i_. Acute _ý_ follows the same rule, with no stress mark in the script.
 - **The Vylari grave vowel _à_ carries a catch.** In ancient _tà_, _kà_, _dà_ and _gà_ the stop takes the catch stroke before the plain _a_ is written; the first letter and the vowel each keep their own case. Thus _kàralzon_ keeps its stroke over _k_. Elsewhere _à_ writes _a_ with the stroke over it, as in the Alessa article. These rows write the native letters and catch directly.
 - **Other tongues' catch spellings** (`'`, `’`, a standalone grave accent or a hyphen) set a mark over the preceding letter. With no letter before it, it prints the box. These aliases do not authorize those characters in Vylari.
-- **Period alone writes the pause point.** A pause within a sentence uses the same period as a pause at its end. When a translation marks a pause with a comma, colon, semicolon or dash, write the corresponding pause as a period in the Vylari original; do not delete the pause. The map accepts only that canonical source, so commas, colons, semicolons and dashes do not map to a point. A language's roman character inventory decides which source characters it permits; the shared map does not supply punctuation permissions.
+
 - **The numerals** 0 to 9 are the Semaron numerals.
 - **_ë_ is the letter _e_.**
 - **_q_ is the letter _k_.** The script has no _q_, so a foreign name keeps its roman spelling and is written with _k_: _Meqes_ is written as _Mekes_.
 
-_c_, _x_ and any other character the script lacks pass through unchanged, and the face prints the box for them.
+Characters outside the declared Roman inventory are refused.
+
+Punctuation, quotation marks, verse boundaries and name marks follow the shared Roman standard. Literal glyph codes between `⟦` and `⟧` select the font’s signs directly.

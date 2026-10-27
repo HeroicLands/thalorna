@@ -6,7 +6,7 @@ subType: language
 description: "The language of the Vedyara city-states—a family in its own right, whose Classical register stands apart from every spoken vernacular."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuvyABCDEFGHIJKLMNOPRSTUVYáéíóúëÁÉÍÓÚË0123456789.,-'"
+  roman: "abcdefghijklmnoprstuvyáéíóúë0123456789-'"
   core: true
   abbreviation: Ved.
   fields:
@@ -5819,7 +5819,7 @@ data:
       gloss: accidental; happening without intention
       concept: accidental
       source: {kind: coined}
-    - form: "Agarana dulipati, vandikana"
+    - form: "agarana dulipati, vandikana"
       class: call
       field: Speech, learning and the written word
       gloss: a formal greeting of respect to an elder; honored elder, I show respect
@@ -7152,7 +7152,7 @@ data:
       field: "Craft, trade and the counting-house"
       gloss: "blanket"
       source: {kind: coined}
-    - form: "Utradanpruk"
+    - form: "utradanpruk"
       class: "name"
       field: "War, arms and the host"
       gloss: "High Draw academy"
@@ -7268,12 +7268,12 @@ data:
       field: "Mountain, forest, field and the shapes of the land"
       gloss: "rock shelf"
       source: {kind: coined}
-    - form: "Nirpadiku"
+    - form: "nirpadiku"
       class: "name"
       field: "War, arms and the host"
       gloss: "Patient Eye academy"
       source: {kind: coined}
-    - form: "Dikbrondsultu"
+    - form: "dikbrondsultu"
       class: "name"
       field: "War, arms and the host"
       gloss: "Hidden String academy"
@@ -7323,7 +7323,7 @@ data:
       field: "War, arms and the host"
       gloss: "point of an arrow"
       source: {kind: coined}
-    - form: "Vramukalda"
+    - form: "vramukalda"
       class: "name"
       field: "Sun, moon, sky and the reckoning of time"
       gloss: "month of the Returning"
@@ -7370,188 +7370,188 @@ data:
     pattern: "{given} {clan}"
     given:
       female:
-        - "Adaki"
-        - "Adarti"
-        - "Amretesa"
-        - "Amrapadma"
-        - "Aruti"
-        - "Asvari"
-        - "Bhagoni"
-        - "Bhanuti"
-        - "Bhulata"
-        - "Chenduka"
-        - "Chandita"
-        - "Chandreli"
-        - "Devatika"
-        - "Devisha"
-        - "Dipala"
-        - "Gamuti"
-        - "Ishobi"
-        - "Jasili"
-        - "Jayeti"
-        - "Kalyanika"
-        - "Karunati"
-        - "Kirtideva"
-        - "Kumudi"
-        - "Lokosha"
-        - "Lokavati"
-        - "Mandaksha"
-        - "Manduli"
-        - "Manudi"
-        - "Minaka"
-        - "Nandaki"
-        - "Padmali"
-        - "Pallovi"
-        - "Piyadi"
-        - "Pritarika"
-        - "Puruni"
-        - "Purnika"
-        - "Puspala"
-        - "Rajonya"
-        - "Rohinika"
-        - "Sagati"
-        - "Varina"
-        - "Satuni"
-        - "Sotika"
-        - "Shashmita"
-        - "Shirti"
-        - "Shrimeti"
-        - "Shritika"
-        - "Sunati"
-        - "Sukani"
-        - "Surika"
-        - "Tamita"
-        - "Tanudi"
-        - "Tarvika"
-        - "Umarti"
-        - "Vamiksha"
-        - "Vanika"
-        - "Vashani"
-        - "Viduliya"
-        - "Vikuti"
-        - "Vrinnati"
+        - "adaki"
+        - "adarti"
+        - "amretesa"
+        - "amrapadma"
+        - "aruti"
+        - "asvari"
+        - "bhagoni"
+        - "bhanuti"
+        - "bhulata"
+        - "chenduka"
+        - "chandita"
+        - "chandreli"
+        - "devatika"
+        - "devisha"
+        - "dipala"
+        - "gamuti"
+        - "ishobi"
+        - "jasili"
+        - "jayeti"
+        - "kalyanika"
+        - "karunati"
+        - "kirtideva"
+        - "kumudi"
+        - "lokosha"
+        - "lokavati"
+        - "mandaksha"
+        - "manduli"
+        - "manudi"
+        - "minaka"
+        - "nandaki"
+        - "padmali"
+        - "pallovi"
+        - "piyadi"
+        - "pritarika"
+        - "puruni"
+        - "purnika"
+        - "puspala"
+        - "rajonya"
+        - "rohinika"
+        - "sagati"
+        - "varina"
+        - "satuni"
+        - "sotika"
+        - "shashmita"
+        - "shirti"
+        - "shrimeti"
+        - "shritika"
+        - "sunati"
+        - "sukani"
+        - "surika"
+        - "tamita"
+        - "tanudi"
+        - "tarvika"
+        - "umarti"
+        - "vamiksha"
+        - "vanika"
+        - "vashani"
+        - "viduliya"
+        - "vikuti"
+        - "vrinnati"
       male:
-        - "Agarana"
-        - "Amatin"
-        - "Anuraja"
-        - "Arinda"
-        - "Balakin"
-        - "Balabata"
-        - "Bhalanand"
-        - "Bhanusha"
-        - "Bhrijivara"
-        - "Chandarsha"
-        - "Chendruka"
-        - "Devanur"
-        - "Darmeja"
-        - "Disamaya"
-        - "Dulaka"
-        - "Dipanaka"
-        - "Dritapaja"
-        - "Garunya"
-        - "Harshabaran"
-        - "Jagasvar"
-        - "Jayarsha"
-        - "Jayanit"
-        - "Kanduta"
-        - "Kankamar"
-        - "Kritakana"
-        - "Krivalaya"
-        - "Shemanaya"
-        - "Shemapal"
-        - "Madurava"
-        - "Mahataya"
-        - "Nagarit"
-        - "Narayaka"
-        - "Pritanaka"
-        - "Pritivita"
-        - "Prituraja"
-        - "Pritubal"
-        - "Rajabar"
-        - "Rajayetra"
-        - "Ranishva"
-        - "Saharta"
-        - "Sakshra"
-        - "Samuta"
-        - "Samurat"
-        - "Satyadarsha"
-        - "Senata"
-        - "Siddarvan"
-        - "Somabir"
-        - "Sunarsha"
-        - "Surakirti"
-        - "Sukanand"
-        - "Tanavarna"
-        - "Vajratan"
-        - "Varmadya"
-        - "Vatesa"
-        - "Vidjendra"
-        - "Vijitak"
-        - "Vikrabir"
-        - "Shilabir"
-        - "Vishvara"
-        - "Viranga"
+        - "agarana"
+        - "amatin"
+        - "anuraja"
+        - "arinda"
+        - "balakin"
+        - "balabata"
+        - "bhalanand"
+        - "bhanusha"
+        - "bhrijivara"
+        - "chandarsha"
+        - "chendruka"
+        - "devanur"
+        - "darmeja"
+        - "disamaya"
+        - "dulaka"
+        - "dipanaka"
+        - "dritapaja"
+        - "garunya"
+        - "harshabaran"
+        - "jagasvar"
+        - "jayarsha"
+        - "jayanit"
+        - "kanduta"
+        - "kankamar"
+        - "kritakana"
+        - "krivalaya"
+        - "shemanaya"
+        - "shemapal"
+        - "madurava"
+        - "mahataya"
+        - "nagarit"
+        - "narayaka"
+        - "pritanaka"
+        - "pritivita"
+        - "prituraja"
+        - "pritubal"
+        - "rajabar"
+        - "rajayetra"
+        - "ranishva"
+        - "saharta"
+        - "sakshra"
+        - "samuta"
+        - "samurat"
+        - "satyadarsha"
+        - "senata"
+        - "siddarvan"
+        - "somabir"
+        - "sunarsha"
+        - "surakirti"
+        - "sukanand"
+        - "tanavarna"
+        - "vajratan"
+        - "varmadya"
+        - "vatesa"
+        - "vidjendra"
+        - "vijitak"
+        - "vikrabir"
+        - "shilabir"
+        - "vishvara"
+        - "viranga"
     clan:
-      - "Adibar"
-      - "Adishta"
-      - "Ajaran"
-      - "Antarsena"
-      - "Balarnaya"
-      - "Bhasura"
-      - "Bhimarna"
-      - "Bhusharani"
-      - "Chandipal"
-      - "Chandratra"
-      - "Daritan"
-      - "Devatuni"
-      - "Danasur"
-      - "Daranir"
-      - "Darmapita"
-      - "Diptakshana"
-      - "Dukshana"
-      - "Gajabir"
-      - "Harshakar"
-      - "Jabaloka"
-      - "Jayakshatra"
-      - "Jvalayana"
-      - "Kalanat"
-      - "Kalira"
-      - "Karyona"
-      - "Kayadara"
-      - "Kulanaya"
-      - "Madibada"
-      - "Mahadika"
-      - "Manadas"
-      - "Manrishti"
-      - "Nandibar"
-      - "Padmadiksha"
-      - "Padmavriksha"
-      - "Parikshuna"
-      - "Priturshta"
-      - "Pritasya"
-      - "Purnaka"
-      - "Rajapali"
-      - "Rajasen"
-      - "Ratamar"
-      - "Ratnisen"
-      - "Samudraya"
-      - "Saratin"
-      - "Shambatan"
-      - "Shraddana"
-      - "Shuravan"
-      - "Sukhishta"
-      - "Sirnataka"
-      - "Tamraksha"
-      - "Tarayara"
-      - "Valaka"
-      - "Varidaba"
-      - "Vasavesha"
-      - "Vidsamondal"
-      - "Vikramada"
-      - "Virajyara"
-      - "Viranat"
-      - "Yajoman"
-      - "Anitendra"
+      - "adibar"
+      - "adishta"
+      - "ajaran"
+      - "antarsena"
+      - "balarnaya"
+      - "bhasura"
+      - "bhimarna"
+      - "bhusharani"
+      - "chandipal"
+      - "chandratra"
+      - "daritan"
+      - "devatuni"
+      - "danasur"
+      - "daranir"
+      - "darmapita"
+      - "diptakshana"
+      - "dukshana"
+      - "gajabir"
+      - "harshakar"
+      - "jabaloka"
+      - "jayakshatra"
+      - "jvalayana"
+      - "kalanat"
+      - "kalira"
+      - "karyona"
+      - "kayadara"
+      - "kulanaya"
+      - "madibada"
+      - "mahadika"
+      - "manadas"
+      - "manrishti"
+      - "nandibar"
+      - "padmadiksha"
+      - "padmavriksha"
+      - "parikshuna"
+      - "priturshta"
+      - "pritasya"
+      - "purnaka"
+      - "rajapali"
+      - "rajasen"
+      - "ratamar"
+      - "ratnisen"
+      - "samudraya"
+      - "saratin"
+      - "shambatan"
+      - "shraddana"
+      - "shuravan"
+      - "sukhishta"
+      - "sirnataka"
+      - "tamraksha"
+      - "tarayara"
+      - "valaka"
+      - "varidaba"
+      - "vasavesha"
+      - "vidsamondal"
+      - "vikramada"
+      - "virajyara"
+      - "viranat"
+      - "yajoman"
+      - "anitendra"
   sounds:
     edges:
       - edge: openCluster
@@ -7568,91 +7568,51 @@ data:
         example: "_nadri_ + _avoli_ = _nadryavoli_, a _y_ between"
       - {first: [u], second: [a, i, e, o], written: v+}
   elements:
-    - form: pur
-      position: closing
-      kind: place
-      sense: a town
-      examples: ["Rajepur, the king's town"]
-    - form: grima
-      position: closing
-      kind: place
-      sense: a village
-      examples: ["Lipigram, the writing village"]
-    - form: kotra
-      position: closing
-      kind: place
-      sense: a fort
-      examples: ["Danurkot, the bow-fort"]
-    - form: girka
-      position: closing
-      kind: place
-      sense: a mountain
-      examples: ["Suvargeri, the gold mountain"]
-    - form: shikhena
-      position: closing
-      kind: place
-      sense: a peak
-      examples: ["Suryashikhar, the sun's summit"]
+    - {form: pur, position: closing, kind: place, sense: a town, examples: [rajepur]}
+    - {form: grima, position: closing, kind: place, sense: a village, examples: [lipigram]}
+    - {form: kotra, position: closing, kind: place, sense: a fort, examples: [danurkot]}
+    - {form: girka, position: closing, kind: place, sense: a mountain, examples: [suvargeri]}
+    - {form: shikhena, position: closing, kind: place, sense: a peak, examples: [suryashikhar]}
     - form: dvarna
       position: closing
       kind: place
       sense: a pass through the wall
-      examples: ["Shunyadvar, the empty door"]
+      examples: [shunyadvar]
     - form: vanta
       position: closing
       kind: place
       sense: a forest or a grove
-      examples: ["Veniban, the bamboo grove"]
+      examples: [veniban]
     - form: shetka
       position: closing
       kind: place
       sense: a field country
-      examples: ["Ikshukshetra, the cane fields"]
+      examples: [ikshukshetra]
     - form: stalu
       position: closing
       kind: place
       sense: a stretch of ground
-      examples: ["Vrihistal, the rice ground"]
+      examples: [vrihistal]
     - form: padsa
       position: closing
       kind: place
       sense: land at the foot of something
-      examples: ["Nadipada, the river-foot"]
-    - form: tirsa
-      position: closing
-      kind: place
-      sense: a bank or a shore
-      examples: ["Nilatir, the indigo bank"]
-    - form: ghatka
-      position: closing
-      kind: place
-      sense: a landing
-      examples: ["Naughat, the boat landing"]
-    - form: kupra
-      position: closing
-      kind: place
-      sense: a well
-      examples: ["Marukupa, the desert well"]
+      examples: [nadipada]
+    - {form: tirsa, position: closing, kind: place, sense: a bank or a shore, examples: [nilatir]}
+    - {form: ghatka, position: closing, kind: place, sense: a landing, examples: [naughat]}
+    - {form: kupra, position: closing, kind: place, sense: a well, examples: [marukupa]}
     - form: mukhva
       position: closing
       kind: place
       sense: "a mouth, of a river or a pass"
-      examples: ["Chandramukha, the moon's mouth"]
+      examples: [chandramukha]
     - form: prabhana
       position: closing
       kind: place
       sense: "a source, a glacier-spring"
-      examples: ["Mahaprabhava, the great source"]
-    - form: derka
-      position: closing
-      kind: place
-      sense: a stream
-      examples: ["Hiranyadara, the gold stream"]
-    - form: samedra
-      position: closing
-      kind: place
-      sense: a sea
-      examples: ["Meghra-samedra, the cloud sea"]
+      examples: [mahaprabhava]
+    - {form: derka, position: closing, kind: place, sense: a stream, examples: [hiranyadara]}
+    - {form: samedra, position: closing, kind: place, sense: a sea, examples: [meghra-samedra]}
   callingNames:
     minSyllables: 4
     closings:
@@ -7670,12 +7630,12 @@ data:
       meaning: "a calling name, cut from the given name its **Built from** cell gives"
   register:
     - {name: Vedyara Adventurer's Guide, tongue: translation}
-    - {name: Ganoka-shalda, tongue: vedyari, built: [ganoka, shalda]}
+    - {name: ganoka-shalda, tongue: vedyari, built: [ganoka, shalda]}
     - {name: The Reckoners' College, tongue: translation}
     - {name: Struck from the Roll, tongue: translation}
     - {name: Hearer, tongue: translation}
     - {name: Slate-holder, tongue: translation}
-    - {name: Ganoka, tongue: vedyari, built: [ganoka]}
+    - {name: ganoka, tongue: vedyari, built: [ganoka]}
     - {name: Reckoner of the Hall, tongue: translation}
     - {name: Keeper of the Tables, tongue: translation}
     - {name: Court Ganoka, tongue: translation}
@@ -7691,52 +7651,52 @@ data:
     - {name: Framer of the Question, tongue: translation}
     - {name: Witness of Record, tongue: translation}
     - {name: Keeper of the Register, tongue: translation}
-    - {name: Adanshreni, tongue: vedyari, built: [adun, shrena]}
-    - {name: Adun, tongue: vedyari, built: [adun]}
+    - {name: adanshreni, tongue: vedyari, built: [adun, shrena]}
+    - {name: adun, tongue: vedyari, built: [adun]}
     - {name: The Receivers, tongue: translation}
     - {name: The Shrena of Taking, tongue: translation}
-    - {name: Chinnasutra, tongue: vedyari, built: [chinnasutra]}
-    - {name: Ashreta, tongue: vedyari, built: [ashreta]}
-    - {name: Antevosin, tongue: vedyari, built: [antevosin]}
-    - {name: Adanika, tongue: vedyari, built: [adun, -ika]}
-    - {name: Achorya, tongue: vedyari, built: [achorya]}
-    - {name: Stovira, tongue: vedyari, built: [stovira]}
-    - {name: Shroshtin, tongue: vedyari, built: [shroshtin]}
-    - {name: Nyasapala, tongue: vedyari, built: [nyos, palda]}
-    - {name: Arghakara, tongue: vedyari, built: [orgha, kartu]}
-    - {name: Mudrakara, tongue: vedyari, built: [mudva, kartu]}
-    - {name: Margapala, tongue: vedyari, built: [margapala]}
-    - {name: Dutsa, tongue: vedyari, built: [dutsa]}
-    - {name: Agmi-pantra, tongue: vedyari, built: [agmi, pantra]}
+    - {name: chinnasutra, tongue: vedyari, built: [chinnasutra]}
+    - {name: ashreta, tongue: vedyari, built: [ashreta]}
+    - {name: antevosin, tongue: vedyari, built: [antevosin]}
+    - {name: adanika, tongue: vedyari, built: [adun, -ika]}
+    - {name: achorya, tongue: vedyari, built: [achorya]}
+    - {name: stovira, tongue: vedyari, built: [stovira]}
+    - {name: shroshtin, tongue: vedyari, built: [shroshtin]}
+    - {name: nyasapala, tongue: vedyari, built: [nyos, palda]}
+    - {name: arghakara, tongue: vedyari, built: [orgha, kartu]}
+    - {name: mudrakara, tongue: vedyari, built: [mudva, kartu]}
+    - {name: margapala, tongue: vedyari, built: [margapala]}
+    - {name: dutsa, tongue: vedyari, built: [dutsa]}
+    - {name: agmi-pantra, tongue: vedyari, built: [agmi, pantra]}
     - {name: The Path of the Flame, tongue: translation}
     - {name: Flame Path, tongue: translation}
-    - {name: Patuta, tongue: vedyari, built: [patuta]}
-    - {name: Upasoka, tongue: vedyari, built: [upasoka]}
-    - {name: Bhosma, tongue: vedyari, built: [bhosma]}
-    - {name: Jvelita, tongue: vedyari, built: [jvelita]}
-    - {name: Dahona-Mulka, tongue: vedyari, built: [dahona, mulka]}
+    - {name: patuta, tongue: vedyari, built: [patuta]}
+    - {name: upasoka, tongue: vedyari, built: [upasoka]}
+    - {name: bhosma, tongue: vedyari, built: [bhosma]}
+    - {name: jvelita, tongue: vedyari, built: [jvelita]}
+    - {name: dahona-mulka, tongue: vedyari, built: [dahona, mulka]}
     - {name: Ember-Bearer, tongue: translation}
     - {name: Chapter Root, tongue: translation}
-    - {name: Jnanasura, tongue: vedyari, built: [jnena, sujra]}
+    - {name: jnanasura, tongue: vedyari, built: [jnena, sujra]}
     - {name: The Radiant Sage, tongue: translation}
-    - {name: Vretin, tongue: vedyari, built: [vretin]}
+    - {name: vretin, tongue: vedyari, built: [vretin]}
     - {name: The Examination Beyond the Veil, tongue: translation}
     - {name: The Silent Year of Reading, tongue: translation}
     - {name: The Contest of Open Questions, tongue: translation}
-    - {name: Kalavrata, tongue: vedyari, built: [kalda, vreta]}
+    - {name: kalavrata, tongue: vedyari, built: [kalda, vreta]}
     - {name: The Gatekeeper of Death, tongue: translation}
     - {name: The Vigil of Final Breath, tongue: translation}
     - {name: The Walk Between Fires, tongue: translation}
     - {name: The Silent Year, tongue: translation}
-    - {name: Kamavrata, tongue: vedyari, built: [kamva, vreta]}
+    - {name: kamavrata, tongue: vedyari, built: [kamva, vreta]}
     - {name: The Celestial Lover, tongue: translation}
     - {name: The Garden Year, tongue: translation}
     - {name: The Silent Flute, tongue: translation}
-    - {name: Mahajaya, tongue: vedyari, built: [mahva, jayra]}
+    - {name: mahajaya, tongue: vedyari, built: [mahva, jayra]}
     - {name: The Eternal Preserver, tongue: translation}
     - {name: The Granary Vigil, tongue: translation}
     - {name: The Fair Measure, tongue: translation}
-    - {name: Meghonata, tongue: vedyari, built: [meghra, natka]}
+    - {name: meghonata, tongue: vedyari, built: [meghra, natka]}
     - {name: Lord of Thunder, tongue: translation}
     - {name: The Storm Watch, tongue: translation}
     - {name: The Fisher's Voyage, tongue: translation}
@@ -7750,67 +7710,67 @@ data:
     - {name: Keeper of the Col, tongue: translation}
     - {name: Register-writer, tongue: translation}
     - {name: Reader of the Cistern Wall, tongue: translation}
-    - {name: Pavanajitras, tongue: vedyari}
+    - {name: pavanajitras, tongue: vedyari}
     - {name: The Wandering Wind, tongue: translation}
     - {name: The Wind Spirits of the Road, tongue: translation}
     - {name: The Pilgrim's Year, tongue: translation}
     - {name: The Silent Caravan, tongue: translation}
-    - {name: Rasikara, tongue: vedyari}
+    - {name: rasikara, tongue: vedyari}
     - {name: The Flame of Renewal, tongue: translation}
     - {name: The Walk of Coals, tongue: translation}
     - {name: The Vigil in Ashes, tongue: translation}
     - {name: The Firebrand's Year, tongue: translation}
-    - {name: Svapnadevas, tongue: vedyari, built: [svopna, devra, -s]}
+    - {name: svapnadevas, tongue: vedyari, built: [svopna, devra, -s]}
     - {name: The Dreaming Host, tongue: translation}
     - {name: The Celestial Host of Dreams, tongue: translation}
     - {name: The Seven-Night Vigil, tongue: translation}
     - {name: The Mirror Year, tongue: translation}
-    - {name: Svapnasari-sameja, tongue: vedyari, built: [svopna, sarhi, sameja]}
+    - {name: svapnasari-sameja, tongue: vedyari, built: [svopna, sarhi, sameja]}
     - {name: Assembly of the Dream-Followers, tongue: translation}
     - {name: Dream Assembly, tongue: translation}
-    - {name: Nidrapala, tongue: vedyari, built: [nidrapala]}
-    - {name: Dorshaka, tongue: vedyari, built: [dorshaka]}
-    - {name: Svopna-Achorya, tongue: vedyari, built: [svopna, achorya]}
+    - {name: nidrapala, tongue: vedyari, built: [nidrapala]}
+    - {name: dorshaka, tongue: vedyari, built: [dorshaka]}
+    - {name: svopna-achorya, tongue: vedyari, built: [svopna, achorya]}
     - {name: Keeper of the Dream-Record, tongue: translation}
     - {name: Chamber-Warden, tongue: translation}
-    - {name: Triyanga-sampradeya, tongue: vedyari, built: [tre, angha, sampradeya]}
+    - {name: triyanga-sampradeya, tongue: vedyari, built: [tre, angha, sampradeya]}
     - {name: Tradition of the Three Forms, tongue: translation}
     - {name: Triyanga Tradition, tongue: translation}
-    - {name: Seboka, tongue: vedyari, built: [seboka]}
-    - {name: Triyacharya, tongue: vedyari, built: [triyacharya]}
+    - {name: seboka, tongue: vedyari, built: [seboka]}
+    - {name: triyacharya, tongue: vedyari, built: [triyacharya]}
     - {name: Achorya of a Form, tongue: translation}
     - {name: Keeper of the Three Rites, tongue: translation}
     - {name: Varnuka Pantheon, tongue: translation}
-    - {name: Varnuka, tongue: vedyari, built: [varnuka]}
+    - {name: varnuka, tongue: vedyari, built: [varnuka]}
     - {name: Ordained of a Sampradeya, tongue: translation}
     - {name: Householder, tongue: translation}
     - {name: Vreta-Holder, tongue: translation}
-    - {name: Vahrati, tongue: vedyari, built: [vahrati]}
+    - {name: vahrati, tongue: vedyari, built: [vahrati]}
     - {name: The Keeper of Decay, tongue: translation}
     - {name: The Year of Gentle Release, tongue: translation}
     - {name: The Walk of the Empty House, tongue: translation}
-    - {name: Vyalendra, tongue: vedyari, built: [vyela, ishna]}
+    - {name: vyalendra, tongue: vedyari, built: [vyela, ishna]}
     - {name: The Shaper of Worlds, tongue: translation}
     - {name: The Year of the Apprentice, tongue: translation}
     - {name: The Perfect Stone, tongue: translation}
-    - {name: Vyalendravada, tongue: vedyari, built: [vyela, ishna, vadsa]}
+    - {name: vyalendravada, tongue: vedyari, built: [vyela, ishna, vadsa]}
     - {name: The Doctrine of Vyalendra, tongue: translation}
     - {name: Vyalendran School, tongue: translation}
-    - {name: Parema-Achorya, tongue: vedyari, built: [parema, achorya]}
+    - {name: parema-achorya, tongue: vedyari, built: [parema, achorya]}
     - {name: Examiner, tongue: translation}
     - {name: Temple Architect, tongue: translation}
     - {name: The Merchant Collective of Vedyara, tongue: translation}
-    - {name: Vyapori Sangra, tongue: vedyari, built: [vyapori, sangra]}
+    - {name: vyapori sangra, tongue: vedyari, built: [vyapori, sangra]}
     - {name: The Collective, tongue: translation}
     - {name: The Long Caravan, tongue: translation}
     - {name: Merchant Collective, tongue: translation}
     - {name: Expelled, tongue: translation}
-    - {name: Karmakuva, tongue: vedyari, built: [karmakuva]}
-    - {name: Pratoshta, tongue: vedyari, built: [pratoshta]}
+    - {name: karmakuva, tongue: vedyari, built: [karmakuva]}
+    - {name: pratoshta, tongue: vedyari, built: [pratoshta]}
     - {name: Kulena House, tongue: translation}
     - {name: High Speaker of the Collective, tongue: translation}
     - {name: Assembly of the Compact, tongue: translation}
-    - {name: Sangra-Sabhra, tongue: vedyari, built: [sangra, sabhra]}
+    - {name: sangra-sabhra, tongue: vedyari, built: [sangra, sabhra]}
     - {name: The Compact, tongue: translation}
     - {name: Unseated, tongue: translation}
     - {name: Delegate, tongue: translation}
@@ -7821,7 +7781,7 @@ data:
     - {name: Disputes Committee, tongue: translation}
     - {name: The Twilight House, tongue: translation}
     - {name: The House of the Long Evening, tongue: translation}
-    - {name: Sandyagriha, tongue: vedyari, built: [sandva, groha]}
+    - {name: sandyagriha, tongue: vedyari, built: [sandva, groha]}
     - {name: Cast Out, tongue: translation}
     - {name: Apprentice, tongue: translation}
     - {name: Companion, tongue: translation}
@@ -7837,157 +7797,157 @@ data:
     - {name: House Physician, tongue: translation}
     - {name: Vedyaran Elephant, tongue: translation}
     - {name: Vedyaran Rhinoceros, tongue: translation}
-    - {name: Akendra, tongue: vedyari}
-    - {name: Anuraja, tongue: vedyari, built: [anva, rajva]}
-    - {name: Anva, tongue: calling, built: [Anuraja]}
-    - {name: Harshakar, tongue: vedyari}
-    - {name: Chandratar, tongue: vedyari}
-    - {name: Mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
-    - {name: Chandreli, tongue: vedyari, built: [chendra, kirta, sundeli]}
-    - {name: Chandri, tongue: calling, built: [Chandreli]}
-    - {name: Jayavalli, tongue: vedyari, built: [jayra, valsi]}
-    - {name: Darmapalda, tongue: vedyari, built: [dorma, palda]}
-    - {name: Darmu, tongue: calling, built: [Darmapalda]}
-    - {name: Vimuktan, tongue: vedyari}
-    - {name: Driksharana, tongue: vedyari}
-    - {name: Driksha, tongue: calling, built: [Driksharana]}
-    - {name: Manrishti, tongue: vedyari}
-    - {name: Madurava, tongue: vedyari, built: [madru, ravha]}
-    - {name: Madru, tongue: calling, built: [Madurava]}
-    - {name: Sutrapal, tongue: vedyari, built: [sutka, palda]}
-    - {name: Minaka, tongue: vedyari}
-    - {name: Parikshuna, tongue: vedyari}
-    - {name: Narava, tongue: vedyari}
-    - {name: Tejanand, tongue: vedyari, built: [surta, tejva, mahva, anonda]}
-    - {name: Padmavali, tongue: vedyari, built: [podma, avoli]}
-    - {name: Padmi, tongue: calling, built: [Padmavali]}
-    - {name: Danurkirti, tongue: vedyari, built: [danur, bedra, kirta, rajva]}
-    - {name: Pallovi, tongue: vedyari}
-    - {name: Draviksha, tongue: vedyari}
-    - {name: Pritarika, tongue: vedyari}
-    - {name: Pripri, tongue: calling, built: [Pritarika]}
-    - {name: Padmadiksha, tongue: vedyari, built: [podma, deksha]}
-    - {name: Pritimaja, tongue: vedyari}
-    - {name: Pritu, tongue: calling, built: [Pritimaja]}
-    - {name: Kayadara, tongue: vedyari}
-    - {name: Kritiraya, tongue: vedyari}
-    - {name: Senapavi, tongue: vedyari, built: [senapavi]}
-    - {name: Senu, tongue: calling, built: [Senapavi]}
-    - {name: Vikramada, tongue: vedyari, built: [vikroma, -da]}
-    - {name: Sunati, tongue: vedyari}
-    - {name: Jayavarda, tongue: vedyari, built: [jayra, rajva, bardena]}
-    - {name: Suvarti, tongue: vedyari}
-    - {name: Suvi, tongue: calling, built: [Suvarti]}
-    - {name: Ratnisen, tongue: vedyari}
-    - {name: Tamura, tongue: vedyari}
-    - {name: Vanika, tongue: vedyari, built: [vanta, -ika]}
-    - {name: Viranga, tongue: vedyari}
-    - {name: Viru, tongue: calling, built: [Viranga]}
-    - {name: Dukshana, tongue: vedyari}
-    - {name: Vishali, tongue: vedyari}
-    - {name: Balarnaya, tongue: vedyari}
-    - {name: Shilabir, tongue: vedyari, built: [shilsa, birda]}
-    - {name: Shilu, tongue: calling, built: [Shilabir]}
-    - {name: Vidsamondal, tongue: vedyari, built: [vidsa, saghara, mondala]}
-    - {name: Vishvakhila, tongue: vedyari}
-    - {name: Vishvu, tongue: calling, built: [Vishvakhila]}
-    - {name: Ratnadasa, tongue: vedyari, built: [ratka, angha, devra, dasu]}
-    - {name: Vishvara, tongue: vedyari}
-    - {name: Mahapar, tongue: vedyari, built: [mahva, porha]}
-    - {name: Vedyari, tongue: vedyari, built: [vedyari]}
+    - {name: akendra, tongue: vedyari}
+    - {name: anuraja, tongue: vedyari, built: [anva, rajva]}
+    - {name: anva, tongue: calling, built: [anuraja]}
+    - {name: harshakar, tongue: vedyari}
+    - {name: chandratar, tongue: vedyari}
+    - {name: mukhyeshvara, tongue: vedyari, built: [achorya, mokhya, ishvora]}
+    - {name: chandreli, tongue: vedyari, built: [chendra, kirta, sundeli]}
+    - {name: chandri, tongue: calling, built: [chandreli]}
+    - {name: jayavalli, tongue: vedyari, built: [jayra, valsi]}
+    - {name: darmapalda, tongue: vedyari, built: [dorma, palda]}
+    - {name: darmu, tongue: calling, built: [darmapalda]}
+    - {name: vimuktan, tongue: vedyari}
+    - {name: driksharana, tongue: vedyari}
+    - {name: driksha, tongue: calling, built: [driksharana]}
+    - {name: manrishti, tongue: vedyari}
+    - {name: madurava, tongue: vedyari, built: [madru, ravha]}
+    - {name: madru, tongue: calling, built: [madurava]}
+    - {name: sutrapal, tongue: vedyari, built: [sutka, palda]}
+    - {name: minaka, tongue: vedyari}
+    - {name: parikshuna, tongue: vedyari}
+    - {name: narava, tongue: vedyari}
+    - {name: tejanand, tongue: vedyari, built: [surta, tejva, mahva, anonda]}
+    - {name: padmavali, tongue: vedyari, built: [podma, avoli]}
+    - {name: padmi, tongue: calling, built: [padmavali]}
+    - {name: danurkirti, tongue: vedyari, built: [danur, bedra, kirta, rajva]}
+    - {name: pallovi, tongue: vedyari}
+    - {name: draviksha, tongue: vedyari}
+    - {name: pritarika, tongue: vedyari}
+    - {name: pripri, tongue: calling, built: [pritarika]}
+    - {name: padmadiksha, tongue: vedyari, built: [podma, deksha]}
+    - {name: pritimaja, tongue: vedyari}
+    - {name: pritu, tongue: calling, built: [pritimaja]}
+    - {name: kayadara, tongue: vedyari}
+    - {name: kritiraya, tongue: vedyari}
+    - {name: senapavi, tongue: vedyari, built: [senapavi]}
+    - {name: senu, tongue: calling, built: [senapavi]}
+    - {name: vikramada, tongue: vedyari, built: [vikroma, -da]}
+    - {name: sunati, tongue: vedyari}
+    - {name: jayavarda, tongue: vedyari, built: [jayra, rajva, bardena]}
+    - {name: suvarti, tongue: vedyari}
+    - {name: suvi, tongue: calling, built: [suvarti]}
+    - {name: ratnisen, tongue: vedyari}
+    - {name: tamura, tongue: vedyari}
+    - {name: vanika, tongue: vedyari, built: [vanta, -ika]}
+    - {name: viranga, tongue: vedyari}
+    - {name: viru, tongue: calling, built: [viranga]}
+    - {name: dukshana, tongue: vedyari}
+    - {name: vishali, tongue: vedyari}
+    - {name: balarnaya, tongue: vedyari}
+    - {name: shilabir, tongue: vedyari, built: [shilsa, birda]}
+    - {name: shilu, tongue: calling, built: [shilabir]}
+    - {name: vidsamondal, tongue: vedyari, built: [vidsa, saghara, mondala]}
+    - {name: vishvakhila, tongue: vedyari}
+    - {name: vishvu, tongue: calling, built: [vishvakhila]}
+    - {name: ratnadasa, tongue: vedyari, built: [ratka, angha, devra, dasu]}
+    - {name: vishvara, tongue: vedyari}
+    - {name: mahapar, tongue: vedyari, built: [mahva, porha]}
+    - {name: vedyari, tongue: vedyari, built: [vedyari]}
     - {name: Vedyaran Banking, tongue: translation}
     - {name: Vedyaran Currency, tongue: translation}
     - {name: Vedyaran Monetary System, tongue: translation}
-    - {name: Vedyaran Chendra, tongue: vedyari, built: [vedyara, -an, chendra]}
-    - {name: Chendra, tongue: vedyari, built: [chendra]}
-    - {name: Vedyaran Suvorna, tongue: vedyari, built: [vedyara, -an, suvorna]}
-    - {name: Suvorna, tongue: vedyari, built: [suvorna]}
-    - {name: Vedyaran Tomra, tongue: vedyari, built: [vedyara, -an, tomra]}
-    - {name: Tomra, tongue: vedyari, built: [tomra]}
+    - {name: vedyaran chendra, tongue: vedyari, built: [vedyara, -an, chendra]}
+    - {name: chendra, tongue: vedyari, built: [chendra]}
+    - {name: vedyaran suvorna, tongue: vedyari, built: [vedyara, -an, suvorna]}
+    - {name: suvorna, tongue: vedyari, built: [suvorna]}
+    - {name: vedyaran tomra, tongue: vedyari, built: [vedyara, -an, tomra]}
+    - {name: tomra, tongue: vedyari, built: [tomra]}
     - {name: The Academy of the Hidden String, tongue: translation}
     - {name: The Academy of the High Draw, tongue: translation}
     - {name: The Academy of the Patient Eye, tongue: translation}
     - {name: The Academy of the Swift Hand, tongue: translation}
     - {name: Aruti's Hermitage, tongue: translation}
-    - {name: Ashvapada, tongue: vedyari, built: [oshka, padu]}
-    - {name: Ashvatir, tongue: vedyari, built: [oshka, tirsa]}
-    - {name: Bharanya, tongue: vedyari}
+    - {name: ashvapada, tongue: vedyari, built: [oshka, padu]}
+    - {name: ashvatir, tongue: vedyari, built: [oshka, tirsa]}
+    - {name: bharanya, tongue: vedyari}
     - {name: Lower Mahanodi Janpoda, tongue: translation}
-    - {name: Bharava, tongue: vedyari, built: [bharava]}
-    - {name: Bharava-Devabhona, tongue: vedyari, built: [bharava, devra, bhogra]}
-    - {name: Devabhona, tongue: vedyari, built: [devra, bhogra]}
+    - {name: bharava, tongue: vedyari, built: [bharava]}
+    - {name: bharava-devabhona, tongue: vedyari, built: [bharava, devra, bhogra]}
+    - {name: devabhona, tongue: vedyari, built: [devra, bhogra]}
     - {name: The Forest Estates, tongue: translation}
-    - {name: Bihra, tongue: vedyari, built: [bihra]}
+    - {name: bihra, tongue: vedyari, built: [bihra]}
     - {name: Bonded Servant, tongue: translation}
-    - {name: Karmija, tongue: vedyari, built: [karmija]}
-    - {name: Danhija, tongue: vedyari, built: [danhija]}
-    - {name: Sentija, tongue: vedyari, built: [sentija]}
-    - {name: Ritrija, tongue: vedyari, built: [ritrija]}
-    - {name: Shetrapalda, tongue: vedyari, built: [shetrapalda]}
-    - {name: Devapavi, tongue: vedyari, built: [devapavi]}
-    - {name: Vanapalda, tongue: vedyari, built: [vanapalda]}
-    - {name: Koshapala, tongue: vedyari, built: [koshra, palda]}
+    - {name: karmija, tongue: vedyari, built: [karmija]}
+    - {name: danhija, tongue: vedyari, built: [danhija]}
+    - {name: sentija, tongue: vedyari, built: [sentija]}
+    - {name: ritrija, tongue: vedyari, built: [ritrija]}
+    - {name: shetrapalda, tongue: vedyari, built: [shetrapalda]}
+    - {name: devapavi, tongue: vedyari, built: [devapavi]}
+    - {name: vanapalda, tongue: vedyari, built: [vanapalda]}
+    - {name: koshapala, tongue: vedyari, built: [koshra, palda]}
     - {name: The Bharava-Devastena Hostels, tongue: translation}
-    - {name: Bharava-Devastena, tongue: vedyari, built: [bharava, devra, stonu]}
-    - {name: Bharavamukha, tongue: vedyari, built: [bharava, mukhva]}
-    - {name: Bharavaprabhava, tongue: vedyari, built: [bharava, prabhana]}
-    - {name: Bharavaban, tongue: vedyari, built: [bharava, vanta]}
+    - {name: bharava-devastena, tongue: vedyari, built: [bharava, devra, stonu]}
+    - {name: bharavamukha, tongue: vedyari, built: [bharava, mukhva]}
+    - {name: bharavaprabhava, tongue: vedyari, built: [bharava, prabhana]}
+    - {name: bharavaban, tongue: vedyari, built: [bharava, vanta]}
     - {name: The Bharava Forest, tongue: translation}
     - {name: The Forest Country, tongue: translation}
     - {name: The Kingdom of Bharyastan, tongue: translation}
-    - {name: Samonta, tongue: vedyari, built: [samonta]}
-    - {name: Maharava, tongue: vedyari, built: [maharava]}
-    - {name: Rojni, tongue: vedyari, built: [rojni]}
-    - {name: Yuvarava, tongue: vedyari, built: [yuvarava]}
-    - {name: Montrin, tongue: vedyari, built: [montrin]}
-    - {name: Purohata, tongue: vedyari, built: [purohata]}
-    - {name: Rajagorva, tongue: vedyari, built: [rajagorva]}
-    - {name: Dandanayeka, tongue: vedyari, built: [dandanayeka]}
-    - {name: Koshadyoksha, tongue: vedyari, built: [koshadyoksha]}
-    - {name: Bharyastan, tongue: vedyari}
-    - {name: Bhumipal, tongue: vedyari, built: [bhumri, palda]}
+    - {name: samonta, tongue: vedyari, built: [samonta]}
+    - {name: maharava, tongue: vedyari, built: [maharava]}
+    - {name: rojni, tongue: vedyari, built: [rojni]}
+    - {name: yuvarava, tongue: vedyari, built: [yuvarava]}
+    - {name: montrin, tongue: vedyari, built: [montrin]}
+    - {name: purohata, tongue: vedyari, built: [purohata]}
+    - {name: rajagorva, tongue: vedyari, built: [rajagorva]}
+    - {name: dandanayeka, tongue: vedyari, built: [dandanayeka]}
+    - {name: koshadyoksha, tongue: vedyari, built: [koshadyoksha]}
+    - {name: bharyastan, tongue: vedyari}
+    - {name: bhumipal, tongue: vedyari, built: [bhumri, palda]}
     - {name: Bhumipal Land, tongue: translation}
     - {name: The March, tongue: translation}
     - {name: The Bow-Fort, tongue: translation}
-    - {name: Chandramahi, tongue: vedyari, built: [chendra, mahvi]}
-    - {name: Chandramukha, tongue: vedyari, built: [chendra, mukhva]}
+    - {name: chandramahi, tongue: vedyari, built: [chendra, mahvi]}
+    - {name: chandramukha, tongue: vedyari, built: [chendra, mukhva]}
     - {name: The Moon-Mouth, tongue: translation}
-    - {name: Chandraprabhava, tongue: vedyari, built: [chendra, prabhana]}
-    - {name: Chendrapur, tongue: vedyari, built: [chendra, pur]}
-    - {name: Kulena, tongue: vedyari, built: [kulena]}
-    - {name: Nau-senapavi, tongue: vedyari, built: [nau, senapavi]}
+    - {name: chandraprabhava, tongue: vedyari, built: [chendra, prabhana]}
+    - {name: chendrapur, tongue: vedyari, built: [chendra, pur]}
+    - {name: kulena, tongue: vedyari, built: [kulena]}
+    - {name: nau-senapavi, tongue: vedyari, built: [nau, senapavi]}
     - {name: Chendrapur Land, tongue: translation}
-    - {name: Danurkot, tongue: vedyari, built: [danur, kotra]}
-    - {name: Danurkot Janpoda, tongue: vedyari, built: [danur, kotra, janra, padu]}
+    - {name: danurkot, tongue: vedyari, built: [danur, kotra]}
+    - {name: danurkot janpoda, tongue: vedyari, built: [danur, kotra, janra, padu]}
     - {name: The Janpoda of the Bow-Fort, tongue: translation}
-    - {name: Sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka]}
-    - {name: Sabhapavi, tongue: vedyari, built: [sabhapavi]}
-    - {name: Smiritibhara, tongue: vedyari, built: [smiriti, bhora]}
-    - {name: Senoni, tongue: vedyari, built: [senoni]}
-    - {name: Danurachorya, tongue: vedyari, built: [danur, achorya]}
-    - {name: Danyagram, tongue: vedyari, built: [danva, grima]}
-    - {name: Dirmapur, tongue: vedyari, built: [dorma, pur]}
+    - {name: sabhasadaka, tongue: vedyari, built: [sabhra, sad-, -oka]}
+    - {name: sabhapavi, tongue: vedyari, built: [sabhapavi]}
+    - {name: smiritibhara, tongue: vedyari, built: [smiriti, bhora]}
+    - {name: senoni, tongue: vedyari, built: [senoni]}
+    - {name: danurachorya, tongue: vedyari, built: [danur, achorya]}
+    - {name: danyagram, tongue: vedyari, built: [danva, grima]}
+    - {name: dirmapur, tongue: vedyari, built: [dorma, pur]}
     - {name: Middle Sarveda Janpoda, tongue: translation}
     - {name: The Drowned Capital, tongue: translation}
     - {name: The Eastern Reach, tongue: translation}
     - {name: The Forest of No Road, tongue: translation}
-    - {name: Girimarga, tongue: vedyari, built: [girka, margha]}
-    - {name: Gokshetra, tongue: vedyari, built: [gho, shetka]}
+    - {name: girimarga, tongue: vedyari, built: [girka, margha]}
+    - {name: gokshetra, tongue: vedyari, built: [gho, shetka]}
     - {name: The Gold Mountain, tongue: translation}
-    - {name: Suvargeri, tongue: vedyari, built: [suvorna, girka]}
-    - {name: Gomarga, tongue: vedyari, built: [gho, margha]}
+    - {name: suvargeri, tongue: vedyari, built: [suvorna, girka]}
+    - {name: gomarga, tongue: vedyari, built: [gho, margha]}
     - {name: The Kingdom of the Cattle-Road, tongue: translation}
-    - {name: Kupapala, tongue: vedyari, built: [kupapala]}
+    - {name: kupapala, tongue: vedyari, built: [kupapala]}
     - {name: The Grazian Mountains, tongue: translation}
     - {name: The Grazian Range, tongue: translation}
     - {name: The Grazian Wall, tongue: translation}
     - {name: The Great Bazaar, tongue: translation}
-    - {name: Gudagram, tongue: vedyari, built: [gudra, grima]}
+    - {name: gudagram, tongue: vedyari, built: [gudra, grima]}
     - {name: The Guides' Road, tongue: translation}
-    - {name: Haritagram, tongue: vedyari, built: [harota, grima]}
-    - {name: Himashila, tongue: vedyari, built: [himra, shilsa]}
-    - {name: Hiranyadara, tongue: vedyari, built: [hirenya, derka]}
-    - {name: Hvarn, tongue: other:hvarn}
+    - {name: haritagram, tongue: vedyari, built: [harota, grima]}
+    - {name: himashila, tongue: vedyari, built: [himra, shilsa]}
+    - {name: hiranyadara, tongue: vedyari, built: [hirenya, derka]}
+    - {name: hvarn, tongue: other:hvarn}
     - {name: Unhoused, tongue: translation}
     - {name: Taken-in, tongue: translation}
     - {name: Hearth-kin, tongue: translation}
@@ -8000,77 +7960,77 @@ data:
     - {name: Storm-Reader, tongue: translation}
     - {name: Fort-carrier, tongue: translation}
     - {name: Bone-bringer, tongue: translation}
-    - {name: Ikshukshetra, tongue: vedyari, built: [ikshva, shetka]}
-    - {name: Jalaghat, tongue: vedyari, built: [jalka, ghatka]}
+    - {name: ikshukshetra, tongue: vedyari, built: [ikshva, shetka]}
+    - {name: jalaghat, tongue: vedyari, built: [jalka, ghatka]}
     - {name: Janpodas of Vedyara, tongue: translation}
     - {name: Mahva-Sangra of Vedyara, tongue: translation}
     - {name: The Temple-Republics of Vedyara, tongue: translation}
-    - {name: Vedyari Janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s]}
+    - {name: vedyari janpodas, tongue: vedyari, built: [vedyari, janra, padu, -s]}
     - {name: Sabhapavi of the Melka, tongue: translation}
     - {name: The Council of Three, tongue: translation}
     - {name: Circuit-Speaker, tongue: translation}
-    - {name: Jnanadvar, tongue: vedyari, built: [jnena, dvarna]}
+    - {name: jnanadvar, tongue: vedyari, built: [jnena, dvarna]}
     - {name: The Scholars' Door, tongue: translation}
-    - {name: Kalashikhar, tongue: vedyari, built: [kalda, shikhena]}
-    - {name: Kanakasetu, tongue: vedyari, built: [kaneka, setka]}
-    - {name: Karpasagram, tongue: vedyari, built: [karpesa, grima]}
-    - {name: Khandapur, tongue: vedyari, built: [khondra, pur]}
-    - {name: Lipigram, tongue: vedyari, built: [lipu, grima]}
-    - {name: Madustan, tongue: vedyari, built: [madru, stonu]}
+    - {name: kalashikhar, tongue: vedyari, built: [kalda, shikhena]}
+    - {name: kanakasetu, tongue: vedyari, built: [kaneka, setka]}
+    - {name: karpasagram, tongue: vedyari, built: [karpesa, grima]}
+    - {name: khandapur, tongue: vedyari, built: [khondra, pur]}
+    - {name: lipigram, tongue: vedyari, built: [lipu, grima]}
+    - {name: madustan, tongue: vedyari, built: [madru, stonu]}
     - {name: The Capital of the Philosopher-Kings, tongue: translation}
     - {name: Madustan Count, tongue: translation}
-    - {name: Prabhavakala, tongue: vedyari, built: [prabhavakala]}
-    - {name: Pushpakala, tongue: vedyari, built: [pushpakala]}
-    - {name: Jvalakala, tongue: vedyari, built: [jvalakala]}
-    - {name: Meghamukhakala, tongue: vedyari, built: [meghamukhakala]}
-    - {name: Purnakala, tongue: vedyari, built: [purnakala]}
-    - {name: Lipikala, tongue: vedyari, built: [lipikala]}
-    - {name: Naukala, tongue: vedyari, built: [naukala]}
-    - {name: Danyakala, tongue: vedyari, built: [danva, kalda]}
-    - {name: Himrakala, tongue: vedyari, built: [himrakala]}
-    - {name: Koshtakala, tongue: vedyari, built: [koshtakala]}
-    - {name: Karpasakala, tongue: vedyari, built: [karpesa, kalda]}
-    - {name: Sandyakala, tongue: vedyari, built: [sandva, kalda]}
-    - {name: Surtar, tongue: vedyari, built: [surtar]}
-    - {name: Chendravar, tongue: vedyari, built: [chendravar]}
-    - {name: Kalavar, tongue: vedyari, built: [kalavar]}
-    - {name: Meghavar, tongue: vedyari, built: [meghavar]}
-    - {name: Jnanavar, tongue: vedyari, built: [jnanavar]}
-    - {name: Kamavar, tongue: vedyari, built: [kamavar]}
-    - {name: Vahrativar, tongue: vedyari, built: [vahrativar]}
-    - {name: Haritaritu, tongue: vedyari, built: [haritaritu]}
-    - {name: Diptaritu, tongue: vedyari, built: [diptaritu]}
-    - {name: Varsharetu, tongue: vedyari, built: [varsharetu]}
-    - {name: Hiranyaritu, tongue: vedyari, built: [hiranyaritu]}
-    - {name: Shitaritu, tongue: vedyari, built: [shitaritu]}
-    - {name: Tamraritu, tongue: vedyari, built: [tomra, ritru]}
+    - {name: prabhavakala, tongue: vedyari, built: [prabhavakala]}
+    - {name: pushpakala, tongue: vedyari, built: [pushpakala]}
+    - {name: jvalakala, tongue: vedyari, built: [jvalakala]}
+    - {name: meghamukhakala, tongue: vedyari, built: [meghamukhakala]}
+    - {name: purnakala, tongue: vedyari, built: [purnakala]}
+    - {name: lipikala, tongue: vedyari, built: [lipikala]}
+    - {name: naukala, tongue: vedyari, built: [naukala]}
+    - {name: danyakala, tongue: vedyari, built: [danva, kalda]}
+    - {name: himrakala, tongue: vedyari, built: [himrakala]}
+    - {name: koshtakala, tongue: vedyari, built: [koshtakala]}
+    - {name: karpasakala, tongue: vedyari, built: [karpesa, kalda]}
+    - {name: sandyakala, tongue: vedyari, built: [sandva, kalda]}
+    - {name: surtar, tongue: vedyari, built: [surtar]}
+    - {name: chendravar, tongue: vedyari, built: [chendravar]}
+    - {name: kalavar, tongue: vedyari, built: [kalavar]}
+    - {name: meghavar, tongue: vedyari, built: [meghavar]}
+    - {name: jnanavar, tongue: vedyari, built: [jnanavar]}
+    - {name: kamavar, tongue: vedyari, built: [kamavar]}
+    - {name: vahrativar, tongue: vedyari, built: [vahrativar]}
+    - {name: haritaritu, tongue: vedyari, built: [haritaritu]}
+    - {name: diptaritu, tongue: vedyari, built: [diptaritu]}
+    - {name: varsharetu, tongue: vedyari, built: [varsharetu]}
+    - {name: hiranyaritu, tongue: vedyari, built: [hiranyaritu]}
+    - {name: shitaritu, tongue: vedyari, built: [shitaritu]}
+    - {name: tamraritu, tongue: vedyari, built: [tomra, ritru]}
     - {name: Before the Madustan Count, tongue: translation}
-    - {name: Madupada, tongue: vedyari, built: [madru, padsa]}
-    - {name: Madabana, tongue: vedyari, built: [madru, vanta]}
+    - {name: madupada, tongue: vedyari, built: [madru, padsa]}
+    - {name: madabana, tongue: vedyari, built: [madru, vanta]}
     - {name: The Mahajaya Temple at Bharanya, tongue: translation}
     - {name: The Mahajaya Temple at Danurkot, tongue: translation}
-    - {name: Mahanodi, tongue: vedyari, built: [mahva, nadri]}
-    - {name: Mahaprabhava, tongue: vedyari, built: [mahva, prabhana]}
+    - {name: mahanodi, tongue: vedyari, built: [mahva, nadri]}
+    - {name: mahaprabhava, tongue: vedyari, built: [mahva, prabhana]}
     - {name: The March Road, tongue: translation}
-    - {name: Marukupa, tongue: vedyari, built: [marku, kupra]}
-    - {name: Mashakshetra, tongue: vedyari, built: [mashra, shetka]}
-    - {name: Meghra-samedra, tongue: vedyari, built: [meghra, samedra]}
+    - {name: marukupa, tongue: vedyari, built: [marku, kupra]}
+    - {name: mashakshetra, tongue: vedyari, built: [mashra, shetka]}
+    - {name: meghra-samedra, tongue: vedyari, built: [meghra, samedra]}
     - {name: The Southern Sea, tongue: translation}
-    - {name: Meghadvar, tongue: vedyari, built: [meghra, dvarna]}
+    - {name: meghadvar, tongue: vedyari, built: [meghra, dvarna]}
     - {name: The Storm-Door, tongue: translation}
-    - {name: Meghashikhar, tongue: vedyari, built: [meghra, shikhena]}
+    - {name: meghashikhar, tongue: vedyari, built: [meghra, shikhena]}
     - {name: The Melka Ground, tongue: translation}
     - {name: The Moon House, tongue: translation}
-    - {name: Muktoshvara, tongue: vedyari, built: [mukru, ishvora]}
-    - {name: Nadipada, tongue: vedyari, built: [nadri, padsa]}
-    - {name: Naughat, tongue: vedyari, built: [nau, ghatka]}
+    - {name: muktoshvara, tongue: vedyari, built: [mukru, ishvora]}
+    - {name: nadipada, tongue: vedyari, built: [nadri, padsa]}
+    - {name: naughat, tongue: vedyari, built: [nau, ghatka]}
     - {name: Sarveda Mouth Janpoda, tongue: translation}
     - {name: Villager, tongue: translation}
-    - {name: Nilakshetra, tongue: vedyari, built: [nilka, shetka]}
-    - {name: Nilatir, tongue: vedyari, built: [nilka, tirsa]}
-    - {name: Nilaban, tongue: vedyari, built: [nilka, vanta]}
-    - {name: Nurvharn, tongue: exonym:hvarn}
-    - {name: Osket, tongue: other:osket}
+    - {name: nilakshetra, tongue: vedyari, built: [nilka, shetka]}
+    - {name: nilatir, tongue: vedyari, built: [nilka, tirsa]}
+    - {name: nilaban, tongue: vedyari, built: [nilka, vanta]}
+    - {name: nurvharn, tongue: exonym:hvarn}
+    - {name: osket, tongue: other:osket}
     - {name: Roadless, tongue: translation}
     - {name: Fosterling, tongue: translation}
     - {name: Herdholder, tongue: translation}
@@ -8082,57 +8042,57 @@ data:
     - {name: Snow-watcher, tongue: translation}
     - {name: Hearth-warden, tongue: translation}
     - {name: Fee-reckoner, tongue: translation}
-    - {name: Oskhelt, tongue: exonym:osket}
+    - {name: oskhelt, tongue: exonym:osket}
     - {name: The Palace Cellars, tongue: translation}
     - {name: The Pass-Shrines, tongue: translation}
-    - {name: Puranagram, tongue: vedyari, built: [puratra, grima]}
-    - {name: Pushpaban, tongue: vedyari, built: [pushva, vanta]}
-    - {name: Rajepur, tongue: vedyari, built: [rajva, pur]}
-    - {name: Rajepur Janpoda, tongue: vedyari, built: [rajva, pur, janra, padu]}
+    - {name: puranagram, tongue: vedyari, built: [puratra, grima]}
+    - {name: pushpaban, tongue: vedyari, built: [pushva, vanta]}
+    - {name: rajepur, tongue: vedyari, built: [rajva, pur]}
+    - {name: rajepur janpoda, tongue: vedyari, built: [rajva, pur, janra, padu]}
     - {name: The Janpoda of the King's-Town, tongue: translation}
     - {name: The Rajavali Library, tongue: translation}
     - {name: The Rasikara Stream, tongue: translation}
-    - {name: Ratnakupa, tongue: vedyari, built: [ratka, kupra]}
+    - {name: ratnakupa, tongue: vedyari, built: [ratka, kupra]}
     - {name: Recitation of the Kings of Mahanodi, tongue: translation}
     - {name: The Recitation of the Kings, tongue: translation}
-    - {name: Sandva-samedra, tongue: vedyari, built: [sandva, samedra]}
+    - {name: sandva-samedra, tongue: vedyari, built: [sandva, samedra]}
     - {name: The Western Sea, tongue: translation}
-    - {name: Sandyapur, tongue: vedyari, built: [sandva, pur]}
+    - {name: sandyapur, tongue: vedyari, built: [sandva, pur]}
     - {name: The Sandstone Altar, tongue: translation}
-    - {name: Sangema, tongue: vedyari, built: [sangema]}
+    - {name: sangema, tongue: vedyari, built: [sangema]}
     - {name: The Sangra-fort, tongue: translation}
-    - {name: Shankhadvar, tongue: vedyari, built: [shonkha, dvarna]}
-    - {name: Sarasapada, tongue: vedyari, built: [saresha, padsa]}
-    - {name: Sarveda, tongue: vedyari, built: [sartu, -da]}
-    - {name: Sarvaprabhava, tongue: vedyari, built: [sartu, prabhana]}
-    - {name: Setugram, tongue: vedyari, built: [setka, grima]}
-    - {name: Shaligroma, tongue: vedyari, built: [shol, grima]}
-    - {name: Shiraban, tongue: vedyari, built: [shirka, vanta]}
-    - {name: Shilamukha, tongue: vedyari, built: [shilsa, mukhva]}
-    - {name: Shitakoshta, tongue: vedyari, built: [shet, koshta]}
+    - {name: shankhadvar, tongue: vedyari, built: [shonkha, dvarna]}
+    - {name: sarasapada, tongue: vedyari, built: [saresha, padsa]}
+    - {name: sarveda, tongue: vedyari, built: [sartu, -da]}
+    - {name: sarvaprabhava, tongue: vedyari, built: [sartu, prabhana]}
+    - {name: setugram, tongue: vedyari, built: [setka, grima]}
+    - {name: shaligroma, tongue: vedyari, built: [shol, grima]}
+    - {name: shiraban, tongue: vedyari, built: [shirka, vanta]}
+    - {name: shilamukha, tongue: vedyari, built: [shilsa, mukhva]}
+    - {name: shitakoshta, tongue: vedyari, built: [shet, koshta]}
     - {name: The Cold Chamber, tongue: translation}
-    - {name: Shunyadvar, tongue: vedyari, built: [shonya, dvarna]}
+    - {name: shunyadvar, tongue: vedyari, built: [shonya, dvarna]}
     - {name: The Empty Door, tongue: translation}
     - {name: The Silver Gorges, tongue: translation}
     - {name: The Gorges, tongue: translation}
     - {name: The Southern Wall, tongue: translation}
     - {name: The Wall, tongue: translation}
-    - {name: Surta-samedra, tongue: vedyari, built: [surta, samedra]}
+    - {name: surta-samedra, tongue: vedyari, built: [surta, samedra]}
     - {name: The Eastern Sea, tongue: translation}
     - {name: The Surta-samedra Islands, tongue: translation}
     - {name: The Eastern Islands, tongue: translation}
     - {name: The Surta temple, tongue: translation}
-    - {name: Suryadvar, tongue: vedyari, built: [surta, dvarna]}
+    - {name: suryadvar, tongue: vedyari, built: [surta, dvarna]}
     - {name: The Sun-Door, tongue: translation}
-    - {name: Suryashikhar, tongue: vedyari, built: [surta, shikhena]}
-    - {name: Suvargeri Janpoda, tongue: vedyari, built: [suvorna, girka, janra, padu]}
+    - {name: suryashikhar, tongue: vedyari, built: [surta, shikhena]}
+    - {name: suvargeri janpoda, tongue: vedyari, built: [suvorna, girka, janra, padu]}
     - {name: The Janpoda of the Gold Mountain, tongue: translation}
     - {name: The Twenty-Eight, tongue: translation}
-    - {name: Svapnastambha, tongue: vedyari, built: [svopna, stumbha]}
-    - {name: Tamradvar, tongue: vedyari, built: [tomra, dvarna]}
+    - {name: svapnastambha, tongue: vedyari, built: [svopna, stumbha]}
+    - {name: tamradvar, tongue: vedyari, built: [tomra, dvarna]}
     - {name: The Copper-Door, tongue: translation}
-    - {name: Tamraban, tongue: vedyari, built: [tomra, vanta]}
-    - {name: Taranaghat, tongue: vedyari, built: [torona, ghatka]}
+    - {name: tamraban, tongue: vedyari, built: [tomra, vanta]}
+    - {name: taranaghat, tongue: vedyari, built: [torona, ghatka]}
     - {name: The Temple of Lower Suvargeri, tongue: translation}
     - {name: The Temple of Middle Suvargeri, tongue: translation}
     - {name: The Temple of Upper Suvargeri, tongue: translation}
@@ -8142,23 +8102,23 @@ data:
     - {name: The Ferryman at the Ford, tongue: translation}
     - {name: The Measuring Cord, tongue: translation}
     - {name: The Recall, tongue: translation}
-    - {name: Tilaban, tongue: vedyari, built: [tilsa, vanta]}
-    - {name: Tsokhar, tongue: exonym:osket}
-    - {name: Uttaratir, tongue: vedyari, built: [uttarka, tirsa]}
-    - {name: Vanapada, tongue: vedyari, built: [vanta, padsa]}
-    - {name: Vanastoli, tongue: vedyari, built: [vanta, stalu]}
-    - {name: Vandyabhumi, tongue: vedyari, built: [bendya, bhumri]}
+    - {name: tilaban, tongue: vedyari, built: [tilsa, vanta]}
+    - {name: tsokhar, tongue: exonym:osket}
+    - {name: uttaratir, tongue: vedyari, built: [uttarka, tirsa]}
+    - {name: vanapada, tongue: vedyari, built: [vanta, padsa]}
+    - {name: vanastoli, tongue: vedyari, built: [vanta, stalu]}
+    - {name: vandyabhumi, tongue: vedyari, built: [bendya, bhumri]}
     - {name: The Barren Country, tongue: translation}
     - {name: The Central Plateau, tongue: translation}
-    - {name: Vandyadara, tongue: vedyari, built: [bendya, derka]}
+    - {name: vandyadara, tongue: vedyari, built: [bendya, derka]}
     - {name: Vedyara Region, tongue: translation}
-    - {name: Vedyara, tongue: vedyari, built: [vedyara]}
-    - {name: Veniban, tongue: vedyari, built: [bonu, vanta]}
-    - {name: Shikhalaya, tongue: vedyari, built: [shikhena, alaja]}
-    - {name: Virastal, tongue: vedyari, built: [birda, stalu]}
-    - {name: Vishanagram, tongue: vedyari, built: [vishona, grima]}
-    - {name: Vrihistal, tongue: vedyari, built: [brehi, stalu]}
-    - {name: Vrishatir, tongue: vedyari, built: [bresha, tirsa]}
+    - {name: vedyara, tongue: vedyari, built: [vedyara]}
+    - {name: veniban, tongue: vedyari, built: [bonu, vanta]}
+    - {name: shikhalaya, tongue: vedyari, built: [shikhena, alaja]}
+    - {name: virastal, tongue: vedyari, built: [birda, stalu]}
+    - {name: vishanagram, tongue: vedyari, built: [vishona, grima]}
+    - {name: vrihistal, tongue: vedyari, built: [brehi, stalu]}
+    - {name: vrishatir, tongue: vedyari, built: [bresha, tirsa]}
     - {name: Vyalendra City-State, tongue: translation}
     - {name: Loom-Master, tongue: translation}
     - {name: Speaker of the Loom-Council, tongue: translation}
@@ -8169,9 +8129,9 @@ data:
     - {name: The Waiting House, tongue: translation}
     - {name: The Weighing-Station, tongue: translation}
     - {name: The Western Descent, tongue: translation}
-    - {name: Dranavár, tongue: exonym:khazryn}
+    - {name: dranavár, tongue: exonym:khazryn}
     - {name: The Moon City, tongue: translation}
-    - {name: Suryagarha, tongue: vedyari, built: [surta, gorha]}
+    - {name: suryagarha, tongue: vedyari, built: [surta, gorha]}
     - {name: The City of Ten Thousand Looms, tongue: translation}
     - {name: Vedyari Language, tongue: translation}
     - {name: "Ritual: Agmi-pantra", tongue: translation}
@@ -8226,13 +8186,13 @@ data:
     - {name: The Nine Days of Ice, tongue: translation}
     - {name: The Silenced Hall, tongue: translation}
     - {name: The Silenced Hall of Tirnugram, tongue: translation}
-    - {name: Olurtaran, tongue: vedyari, built: [bhuraka, torona]}
-    - {name: Gajastal, tongue: vedyari, built: [gajta, stalu]}
-    - {name: Lantustal, tongue: vedyari, built: [lantu, stalu]}
-    - {name: Ludrapur, tongue: vedyari, built: [ludra, pur]}
-    - {name: Sharamukha, tongue: vedyari, built: [shirka, mukhva]}
-    - {name: Shunyakupa, tongue: vedyari, built: [shonya, kupra]}
-    - {name: Puranastan, tongue: vedyari, built: [puratra, stonu]}
+    - {name: olurtaran, tongue: vedyari, built: [bhuraka, torona]}
+    - {name: gajastal, tongue: vedyari, built: [gajta, stalu]}
+    - {name: lantustal, tongue: vedyari, built: [lantu, stalu]}
+    - {name: ludrapur, tongue: vedyari, built: [ludra, pur]}
+    - {name: sharamukha, tongue: vedyari, built: [shirka, mukhva]}
+    - {name: shunyakupa, tongue: vedyari, built: [shonya, kupra]}
+    - {name: puranastan, tongue: vedyari, built: [puratra, stonu]}
     - {name: The Ford of the Restless Dead, tongue: translation}
     - {name: The Elephant Ground, tongue: translation}
     - {name: The Banner Ground, tongue: translation}
@@ -8241,72 +8201,72 @@ data:
     - {name: The Raiders' Cairn, tongue: translation}
     - {name: The Crownless Forts, tongue: translation}
     - {name: The Lower Courses of Chendrapur, tongue: translation}
-    - {name: Rushaghat, tongue: vedyari, built: [rusha, ghatka]}
+    - {name: rushaghat, tongue: vedyari, built: [rusha, ghatka]}
     - {name: The Dust Landing, tongue: translation}
     - {name: Broker, tongue: translation}
     - {name: Holder of the Vow, tongue: translation}
     - {name: Keeper of a Line, tongue: translation}
     - {name: Preparer, tongue: translation}
     - {name: Remembered, tongue: translation}
-    - {name: Chaya-vreta, tongue: vedyari}
+    - {name: chaya-vreta, tongue: vedyari}
     - {name: The Shadow-Vow, tongue: translation}
     - {name: Under the Vow, tongue: translation}
-    - {name: Sorhupur, tongue: vedyari, built: [sorhu, pur]}
+    - {name: sorhupur, tongue: vedyari, built: [sorhu, pur]}
     - {name: The City That Kept Its Dead, tongue: translation}
-    - {name: Madukupa, tongue: vedyari, built: [madru, kupra]}
+    - {name: madukupa, tongue: vedyari, built: [madru, kupra]}
     - {name: The Sweet Well, tongue: translation}
-    - {name: Dahanaghat, tongue: vedyari, built: [dahona, ghatka]}
+    - {name: dahanaghat, tongue: vedyari, built: [dahona, ghatka]}
     - {name: The Burning Landing, tongue: translation}
-    - {name: Devanur Vasavesha, tongue: vedyari}
+    - {name: devanur vasavesha, tongue: vedyari}
     - {name: Maharava Devanur, tongue: translation}
-    - {name: Satyadarsha Valaka, tongue: vedyari}
+    - {name: satyadarsha valaka, tongue: vedyari}
     - {name: Kulena Satyadarsha, tongue: translation}
-    - {name: Jayarsha Padmadiksha, tongue: vedyari}
+    - {name: jayarsha padmadiksha, tongue: vedyari}
     - {name: Kulena Jayarsha, tongue: translation}
-    - {name: Kalyanika Kalira, tongue: vedyari}
+    - {name: kalyanika kalira, tongue: vedyari}
     - {name: Herald Kalyanika the Modernizer, tongue: translation}
     - {name: Herald Kalyanika, tongue: translation}
-    - {name: Manduli Kulanaya, tongue: vedyari}
+    - {name: manduli kulanaya, tongue: vedyari}
     - {name: Priestess Manduli, tongue: translation}
-    - {name: Nagarit Gajabir, tongue: vedyari}
+    - {name: nagarit gajabir, tongue: vedyari}
     - {name: Captain Nagarit, tongue: translation}
-    - {name: Tarvika Tamraksha, tongue: vedyari}
+    - {name: tarvika tamraksha, tongue: vedyari}
     - {name: Overseer Tarvika, tongue: translation}
-    - {name: Tanavarna Shuravan, tongue: vedyari}
+    - {name: tanavarna shuravan, tongue: vedyari}
     - {name: Maharava Tanavarna Shuravan, tongue: translation}
     - {name: Maharava Tanavarna, tongue: translation}
-    - {name: Viduliya Danasur, tongue: vedyari}
+    - {name: viduliya danasur, tongue: vedyari}
     - {name: High Priestess Viduliya, tongue: translation}
-    - {name: Vamiksha Ajaran, tongue: vedyari}
+    - {name: vamiksha ajaran, tongue: vedyari}
     - {name: Captain Vamiksha, tongue: translation}
-    - {name: Vatesa Bhasura, tongue: vedyari}
+    - {name: vatesa bhasura, tongue: vedyari}
     - {name: Priest Vatesa, tongue: translation}
-    - {name: Garunya Tarayara, tongue: vedyari}
+    - {name: garunya tarayara, tongue: vedyari}
     - {name: Captain Garunya the Reckless, tongue: translation}
     - {name: Captain Garunya, tongue: translation}
-    - {name: Samurat Ratamar, tongue: vedyari}
+    - {name: samurat ratamar, tongue: vedyari}
     - {name: Captain Samurat, tongue: translation}
-    - {name: Prituraja Samudraya, tongue: vedyari}
+    - {name: prituraja samudraya, tongue: vedyari}
     - {name: Captain-Merchant Prituraja, tongue: translation}
-    - {name: Darmeja Daranir, tongue: vedyari}
+    - {name: darmeja daranir, tongue: vedyari}
     - {name: Captain Darmeja, tongue: translation}
-    - {name: Ashvapala, tongue: vedyari}
-    - {name: Jalavira, tongue: vedyari}
-    - {name: Meghavira, tongue: vedyari}
-    - {name: Kavrabira, tongue: vedyari}
-    - {name: Dhanurpala, tongue: vedyari}
-    - {name: Ashvakirti, tongue: vedyari}
-    - {name: Bhasmadasa, tongue: vedyari}
-    - {name: Devopala, tongue: vedyari}
-    - {name: Dormanata, tongue: vedyari}
-    - {name: Dunhari, tongue: other:dunhari}
-    - {name: Jortona, tongue: vedyari}
-    - {name: Katha, tongue: vedyari}
-    - {name: Padmika, tongue: vedyari}
-    - {name: Sharabira, tongue: vedyari}
-    - {name: Sharakirti, tongue: vedyari}
-    - {name: Sharu, tongue: vedyari}
-    - {name: Taranpal, tongue: vedyari}
+    - {name: ashvapala, tongue: vedyari}
+    - {name: jalavira, tongue: vedyari}
+    - {name: meghavira, tongue: vedyari}
+    - {name: kavrabira, tongue: vedyari}
+    - {name: dhanurpala, tongue: vedyari}
+    - {name: ashvakirti, tongue: vedyari}
+    - {name: bhasmadasa, tongue: vedyari}
+    - {name: devopala, tongue: vedyari}
+    - {name: dormanata, tongue: vedyari}
+    - {name: dunhari, tongue: other:dunhari}
+    - {name: jortona, tongue: vedyari}
+    - {name: katha, tongue: vedyari}
+    - {name: padmika, tongue: vedyari}
+    - {name: sharabira, tongue: vedyari}
+    - {name: sharakirti, tongue: vedyari}
+    - {name: sharu, tongue: vedyari}
+    - {name: taranpal, tongue: vedyari}
   retired:
     - {form: Danaja, instead: Danhija, why: the station name is the stem danha with -ija}
     - {form: Senaja, instead: Sentija, why: the station name is the stem senta with -ija}
@@ -9003,7 +8963,7 @@ WITH named AS (
 )
 SELECT '`' || e.form || '`' AS "Last member", e.sense AS "A place that is",
        '[[' || n.slug || '|' || split_part(e.examples[1], ', ', 1) || ']]' || substring(e.examples[1], length(split_part(e.examples[1], ', ', 1)) + 1) AS "Example"
-FROM elements e JOIN named n ON n.label = split_part(e.examples[1], ', ', 1)
+FROM elements e JOIN named n ON lower(n.label) = lower(split_part(e.examples[1], ', ', 1))
 WHERE e.language = 'thalorna-note-skill-vedyarlng' AND e.kind = 'place' ORDER BY e.position
 ```
 

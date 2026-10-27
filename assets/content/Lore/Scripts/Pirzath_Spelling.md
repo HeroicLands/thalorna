@@ -1,412 +1,136 @@
 ---
-shortcode: mappirzath
-name: {full: Pirzath Spelling, aliases: []}
+shortcode: khazpirzathenc
+name: {full: Khazari Pirzath Encoding, aliases: []}
 type: doc
 subType: reference
 data:
   packFolder: languages
-  map:
-    name: pirzath
-    vowels: "aeiouëAEIOUËáéíóúÁÉÍÓÚ"
-    rows:
-      - ["a", "󰀀"] # U+F0000
-      - ["A", "󰀀"] # U+F0000
-      - ["e", "󰀁"] # U+F0001
-      - ["ë", "󰀁"] # U+F0001
-      - ["E", "󰀁"] # U+F0001
-      - ["Ë", "󰀁"] # U+F0001
-      - ["i", "󰀂"] # U+F0002
-      - ["I", "󰀂"] # U+F0002
-      - ["o", "󰀃"] # U+F0003
-      - ["O", "󰀃"] # U+F0003
-      - ["u", "󰀄"] # U+F0004
-      - ["U", "󰀄"] # U+F0004
-      - ["p", "󰀅"] # U+F0005
-      - ["P", "󰀅"] # U+F0005
-      - ["b", "󰀆"] # U+F0006
-      - ["B", "󰀆"] # U+F0006
-      - ["f", "󰀇"] # U+F0007
-      - ["F", "󰀇"] # U+F0007
-      - ["v", "󰀈"] # U+F0008
-      - ["V", "󰀈"] # U+F0008
-      - ["m", "󰀉"] # U+F0009
-      - ["M", "󰀉"] # U+F0009
-      - ["t", "󰀊"] # U+F000A
-      - ["T", "󰀊"] # U+F000A
-      - ["d", "󰀋"] # U+F000B
-      - ["D", "󰀋"] # U+F000B
-      - ["n", "󰀌"] # U+F000C
-      - ["N", "󰀌"] # U+F000C
-      - ["k", "󰀍"] # U+F000D
-      - ["K", "󰀍"] # U+F000D
-      - ["g", "󰀎"] # U+F000E
-      - ["G", "󰀎"] # U+F000E
-      - ["s", "󰀏"] # U+F000F
-      - ["S", "󰀏"] # U+F000F
-      - ["z", "󰀐"] # U+F0010
-      - ["Z", "󰀐"] # U+F0010
-      - ["h", "󰀑"] # U+F0011
-      - ["H", "󰀑"] # U+F0011
-      - ["l", "󰀒"] # U+F0012
-      - ["L", "󰀒"] # U+F0012
-      - ["r", "󰀓"] # U+F0013
-      - ["R", "󰀓"] # U+F0013
-      - ["j", "󰀔"] # U+F0014
-      - ["J", "󰀔"] # U+F0014
-      - ["q", "󰀕"] # U+F0015
-      - ["Q", "󰀕"] # U+F0015
-      - ["w", "󰀖"] # U+F0016
-      - ["W", "󰀖"] # U+F0016
-      - ["á", "󰀀󰁠"] # U+F0000 U+F0060
-      - ["Á", "󰀀󰁠"] # U+F0000 U+F0060
-      - ["é", "󰀁󰁠"] # U+F0001 U+F0060
-      - ["É", "󰀁󰁠"] # U+F0001 U+F0060
-      - ["í", "󰀂󰁠"] # U+F0002 U+F0060
-      - ["Í", "󰀂󰁠"] # U+F0002 U+F0060
-      - ["ó", "󰀃󰁠"] # U+F0003 U+F0060
-      - ["Ó", "󰀃󰁠"] # U+F0003 U+F0060
-      - ["ú", "󰀄󰁠"] # U+F0004 U+F0060
-      - ["Ú", "󰀄󰁠"] # U+F0004 U+F0060
-      - ["'", "󰀘"] # U+F0018
-      - ["’", "󰀘"] # U+F0018
-      - ["th", "󰀠"] # U+F0020
-      - ["tH", "󰀠"] # U+F0020
-      - ["Th", "󰀠"] # U+F0020
-      - ["TH", "󰀠"] # U+F0020
-      - ["dh", "󰀡"] # U+F0021
-      - ["dH", "󰀡"] # U+F0021
-      - ["Dh", "󰀡"] # U+F0021
-      - ["DH", "󰀡"] # U+F0021
-      - ["kh", "󰀢"] # U+F0022
-      - ["kH", "󰀢"] # U+F0022
-      - ["Kh", "󰀢"] # U+F0022
-      - ["KH", "󰀢"] # U+F0022
-      - ["gh", "󰀣"] # U+F0023
-      - ["gH", "󰀣"] # U+F0023
-      - ["Gh", "󰀣"] # U+F0023
-      - ["GH", "󰀣"] # U+F0023
-      - ["sh", "󰀤"] # U+F0024
-      - ["sH", "󰀤"] # U+F0024
-      - ["Sh", "󰀤"] # U+F0024
-      - ["SH", "󰀤"] # U+F0024
-      - ["zh", "󰀥"] # U+F0025
-      - ["zH", "󰀥"] # U+F0025
-      - ["Zh", "󰀥"] # U+F0025
-      - ["ZH", "󰀥"] # U+F0025
-      - ["ch", "󰀧"] # U+F0027
-      - ["cH", "󰀧"] # U+F0027
-      - ["Ch", "󰀧"] # U+F0027
-      - ["CH", "󰀧"] # U+F0027
-      - ["ts", "󰀦"] # U+F0026
-      - ["tS", "󰀦"] # U+F0026
-      - ["Ts", "󰀦"] # U+F0026
-      - ["TS", "󰀦"] # U+F0026
-      - ["ng", "󰀨"] # U+F0028
-      - ["nG", "󰀨"] # U+F0028
-      - ["Ng", "󰀨"] # U+F0028
-      - ["NG", "󰀨"] # U+F0028
-      - ["ny", "󰀩"] # U+F0029
-      - ["nY", "󰀩"] # U+F0029
-      - ["Ny", "󰀩"] # U+F0029
-      - ["NY", "󰀩"] # U+F0029
-      - ["hl", "󰀪"] # U+F002A
-      - ["hL", "󰀪"] # U+F002A
-      - ["Hl", "󰀪"] # U+F002A
-      - ["HL", "󰀪"] # U+F002A
-      - ["ngh", "󰀌󰀣"] # U+F000C U+F0023
-      - ["ngH", "󰀌󰀣"] # U+F000C U+F0023
-      - ["nGh", "󰀌󰀣"] # U+F000C U+F0023
-      - ["nGH", "󰀌󰀣"] # U+F000C U+F0023
-      - ["Ngh", "󰀌󰀣"] # U+F000C U+F0023
-      - ["NgH", "󰀌󰀣"] # U+F000C U+F0023
-      - ["NGh", "󰀌󰀣"] # U+F000C U+F0023
-      - ["NGH", "󰀌󰀣"] # U+F000C U+F0023
-      - ["tth", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["ttH", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["tTh", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["tTH", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["Tth", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["TtH", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["TTh", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["TTH", "󰀠󰀠"] # U+F0020 U+F0020
-      - ["ddh", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["ddH", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["dDh", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["dDH", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["Ddh", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["DdH", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["DDh", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["DDH", "󰀡󰀡"] # U+F0021 U+F0021
-      - ["kkh", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["kkH", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["kKh", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["kKH", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["Kkh", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["KkH", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["KKh", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["KKH", "󰀢󰀢"] # U+F0022 U+F0022
-      - ["ggh", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["ggH", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["gGh", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["gGH", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["Ggh", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["GgH", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["GGh", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["GGH", "󰀣󰀣"] # U+F0023 U+F0023
-      - ["ssh", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["ssH", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["sSh", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["sSH", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["Ssh", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["SsH", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["SSh", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["SSH", "󰀤󰀤"] # U+F0024 U+F0024
-      - ["zzh", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["zzH", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["zZh", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["zZH", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["Zzh", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["ZzH", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["ZZh", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["ZZH", "󰀥󰀥"] # U+F0025 U+F0025
-      - ["cch", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["ccH", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["cCh", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["cCH", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["Cch", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["CcH", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["CCh", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["CCH", "󰀧󰀧"] # U+F0027 U+F0027
-      - ["tts", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["ttS", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["tTs", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["tTS", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["Tts", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["TtS", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["TTs", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["TTS", "󰀦󰀦"] # U+F0026 U+F0026
-      - ["nng", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["nnG", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["nNg", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["nNG", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["Nng", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["NnG", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["NNg", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["NNG", "󰀨󰀨"] # U+F0028 U+F0028
-      - ["nny", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["nnY", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["nNy", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["nNY", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["Nny", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["NnY", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["NNy", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["NNY", "󰀩󰀩"] # U+F0029 U+F0029
-      - ["hhl", "󰀪󰀪"] # U+F002A U+F002A
-      - ["hhL", "󰀪󰀪"] # U+F002A U+F002A
-      - ["hHl", "󰀪󰀪"] # U+F002A U+F002A
-      - ["hHL", "󰀪󰀪"] # U+F002A U+F002A
-      - ["Hhl", "󰀪󰀪"] # U+F002A U+F002A
-      - ["HhL", "󰀪󰀪"] # U+F002A U+F002A
-      - ["HHl", "󰀪󰀪"] # U+F002A U+F002A
-      - ["HHL", "󰀪󰀪"] # U+F002A U+F002A
-      - ["nngh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nngH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nnGh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nnGH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nNgh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nNgH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nNGh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["nNGH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["Nngh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NngH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NnGh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NnGH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NNgh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NNgH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NNGh", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["NNGH", "󰀌󰀌󰀣"] # U+F000C U+F000C U+F0023
-      - ["ai", "󰀰"] # U+F0030
-      - ["aI", "󰀰"] # U+F0030
-      - ["Ai", "󰀰"] # U+F0030
-      - ["AI", "󰀰"] # U+F0030
-      - ["aí", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["aÍ", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["Aí", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["AÍ", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["ái", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["áI", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["Ái", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["ÁI", "󰀰󰁠"] # U+F0030 U+F0060
-      - ["áí", "󰀰󰁠󰁠"] # U+F0030 U+F0060 U+F0060
-      - ["áÍ", "󰀰󰁠󰁠"] # U+F0030 U+F0060 U+F0060
-      - ["Áí", "󰀰󰁠󰁠"] # U+F0030 U+F0060 U+F0060
-      - ["ÁÍ", "󰀰󰁠󰁠"] # U+F0030 U+F0060 U+F0060
-      - ["au", "󰀱"] # U+F0031
-      - ["aU", "󰀱"] # U+F0031
-      - ["Au", "󰀱"] # U+F0031
-      - ["AU", "󰀱"] # U+F0031
-      - ["aú", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["aÚ", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["Aú", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["AÚ", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["áu", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["áU", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["Áu", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["ÁU", "󰀱󰁠"] # U+F0031 U+F0060
-      - ["áú", "󰀱󰁠󰁠"] # U+F0031 U+F0060 U+F0060
-      - ["áÚ", "󰀱󰁠󰁠"] # U+F0031 U+F0060 U+F0060
-      - ["Áú", "󰀱󰁠󰁠"] # U+F0031 U+F0060 U+F0060
-      - ["ÁÚ", "󰀱󰁠󰁠"] # U+F0031 U+F0060 U+F0060
-      - ["ei", "󰀲"] # U+F0032
-      - ["ëi", "󰀲"] # U+F0032
-      - ["eI", "󰀲"] # U+F0032
-      - ["ëI", "󰀲"] # U+F0032
-      - ["Ei", "󰀲"] # U+F0032
-      - ["Ëi", "󰀲"] # U+F0032
-      - ["EI", "󰀲"] # U+F0032
-      - ["ËI", "󰀲"] # U+F0032
-      - ["eí", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["ëí", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["eÍ", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["ëÍ", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["Eí", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["Ëí", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["EÍ", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["ËÍ", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["éi", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["éI", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["Éi", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["ÉI", "󰀲󰁠"] # U+F0032 U+F0060
-      - ["éí", "󰀲󰁠󰁠"] # U+F0032 U+F0060 U+F0060
-      - ["éÍ", "󰀲󰁠󰁠"] # U+F0032 U+F0060 U+F0060
-      - ["Éí", "󰀲󰁠󰁠"] # U+F0032 U+F0060 U+F0060
-      - ["ÉÍ", "󰀲󰁠󰁠"] # U+F0032 U+F0060 U+F0060
-      - ["oi", "󰀳"] # U+F0033
-      - ["oI", "󰀳"] # U+F0033
-      - ["Oi", "󰀳"] # U+F0033
-      - ["OI", "󰀳"] # U+F0033
-      - ["oí", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["oÍ", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["Oí", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["OÍ", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["ói", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["óI", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["Ói", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["ÓI", "󰀳󰁠"] # U+F0033 U+F0060
-      - ["óí", "󰀳󰁠󰁠"] # U+F0033 U+F0060 U+F0060
-      - ["óÍ", "󰀳󰁠󰁠"] # U+F0033 U+F0060 U+F0060
-      - ["Óí", "󰀳󰁠󰁠"] # U+F0033 U+F0060 U+F0060
-      - ["ÓÍ", "󰀳󰁠󰁠"] # U+F0033 U+F0060 U+F0060
-      - ["ou", "󰀴"] # U+F0034
-      - ["oU", "󰀴"] # U+F0034
-      - ["Ou", "󰀴"] # U+F0034
-      - ["OU", "󰀴"] # U+F0034
-      - ["oú", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["oÚ", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["Oú", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["OÚ", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["óu", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["óU", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["Óu", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["ÓU", "󰀴󰁠"] # U+F0034 U+F0060
-      - ["óú", "󰀴󰁠󰁠"] # U+F0034 U+F0060 U+F0060
-      - ["óÚ", "󰀴󰁠󰁠"] # U+F0034 U+F0060 U+F0060
-      - ["Óú", "󰀴󰁠󰁠"] # U+F0034 U+F0060 U+F0060
-      - ["ÓÚ", "󰀴󰁠󰁠"] # U+F0034 U+F0060 U+F0060
-      - {from: "ay", to: "󰀰", before: consonant} # U+F0030
-      - {from: "ay", to: "󰀰", at: end} # U+F0030
-      - {from: "aY", to: "󰀰", before: consonant} # U+F0030
-      - {from: "aY", to: "󰀰", at: end} # U+F0030
-      - {from: "Ay", to: "󰀰", before: consonant} # U+F0030
-      - {from: "Ay", to: "󰀰", at: end} # U+F0030
-      - {from: "AY", to: "󰀰", before: consonant} # U+F0030
-      - {from: "AY", to: "󰀰", at: end} # U+F0030
-      - {from: "áy", to: "󰀰󰁠", before: consonant} # U+F0030 U+F0060
-      - {from: "áy", to: "󰀰󰁠", at: end} # U+F0030 U+F0060
-      - {from: "áY", to: "󰀰󰁠", before: consonant} # U+F0030 U+F0060
-      - {from: "áY", to: "󰀰󰁠", at: end} # U+F0030 U+F0060
-      - {from: "Áy", to: "󰀰󰁠", before: consonant} # U+F0030 U+F0060
-      - {from: "Áy", to: "󰀰󰁠", at: end} # U+F0030 U+F0060
-      - {from: "ÁY", to: "󰀰󰁠", before: consonant} # U+F0030 U+F0060
-      - {from: "ÁY", to: "󰀰󰁠", at: end} # U+F0030 U+F0060
-      - {from: "ey", to: "󰀲", before: consonant} # U+F0032
-      - {from: "ëy", to: "󰀲", before: consonant} # U+F0032
-      - {from: "ey", to: "󰀲", at: end} # U+F0032
-      - {from: "ëy", to: "󰀲", at: end} # U+F0032
-      - {from: "eY", to: "󰀲", before: consonant} # U+F0032
-      - {from: "ëY", to: "󰀲", before: consonant} # U+F0032
-      - {from: "eY", to: "󰀲", at: end} # U+F0032
-      - {from: "ëY", to: "󰀲", at: end} # U+F0032
-      - {from: "Ey", to: "󰀲", before: consonant} # U+F0032
-      - {from: "Ëy", to: "󰀲", before: consonant} # U+F0032
-      - {from: "Ey", to: "󰀲", at: end} # U+F0032
-      - {from: "Ëy", to: "󰀲", at: end} # U+F0032
-      - {from: "EY", to: "󰀲", before: consonant} # U+F0032
-      - {from: "ËY", to: "󰀲", before: consonant} # U+F0032
-      - {from: "EY", to: "󰀲", at: end} # U+F0032
-      - {from: "ËY", to: "󰀲", at: end} # U+F0032
-      - {from: "éy", to: "󰀲󰁠", before: consonant} # U+F0032 U+F0060
-      - {from: "éy", to: "󰀲󰁠", at: end} # U+F0032 U+F0060
-      - {from: "éY", to: "󰀲󰁠", before: consonant} # U+F0032 U+F0060
-      - {from: "éY", to: "󰀲󰁠", at: end} # U+F0032 U+F0060
-      - {from: "Éy", to: "󰀲󰁠", before: consonant} # U+F0032 U+F0060
-      - {from: "Éy", to: "󰀲󰁠", at: end} # U+F0032 U+F0060
-      - {from: "ÉY", to: "󰀲󰁠", before: consonant} # U+F0032 U+F0060
-      - {from: "ÉY", to: "󰀲󰁠", at: end} # U+F0032 U+F0060
-      - {from: "oy", to: "󰀳", before: consonant} # U+F0033
-      - {from: "oy", to: "󰀳", at: end} # U+F0033
-      - {from: "oY", to: "󰀳", before: consonant} # U+F0033
-      - {from: "oY", to: "󰀳", at: end} # U+F0033
-      - {from: "Oy", to: "󰀳", before: consonant} # U+F0033
-      - {from: "Oy", to: "󰀳", at: end} # U+F0033
-      - {from: "OY", to: "󰀳", before: consonant} # U+F0033
-      - {from: "OY", to: "󰀳", at: end} # U+F0033
-      - {from: "óy", to: "󰀳󰁠", before: consonant} # U+F0033 U+F0060
-      - {from: "óy", to: "󰀳󰁠", at: end} # U+F0033 U+F0060
-      - {from: "óY", to: "󰀳󰁠", before: consonant} # U+F0033 U+F0060
-      - {from: "óY", to: "󰀳󰁠", at: end} # U+F0033 U+F0060
-      - {from: "Óy", to: "󰀳󰁠", before: consonant} # U+F0033 U+F0060
-      - {from: "Óy", to: "󰀳󰁠", at: end} # U+F0033 U+F0060
-      - {from: "ÓY", to: "󰀳󰁠", before: consonant} # U+F0033 U+F0060
-      - {from: "ÓY", to: "󰀳󰁠", at: end} # U+F0033 U+F0060
-      - {from: "y", to: "󰀗", before: vowel} # U+F0017
-      - ["y", "󰀂"] # U+F0002
-      - {from: "Y", to: "󰀗", before: vowel} # U+F0017
-      - ["Y", "󰀂"] # U+F0002
-      - ["“", "󰁔"] # U+F0054
-      - ["”", "󰁕"] # U+F0055
-      - ["0", "󰁀"] # U+F0040
-      - ["1", "󰁁"] # U+F0041
-      - ["2", "󰁂"] # U+F0042
-      - ["3", "󰁃"] # U+F0043
-      - ["4", "󰁄"] # U+F0044
-      - ["5", "󰁅"] # U+F0045
-      - ["6", "󰁆"] # U+F0046
-      - ["7", "󰁇"] # U+F0047
-      - ["8", "󰁈"] # U+F0048
-      - ["9", "󰁉"] # U+F0049
-      - ["@", "󰁊"] # U+F004A
-      - ["#", "󰁋"] # U+F004B
-      - ["$", "󰁌"] # U+F004C
-      - ["%", "󰁍"] # U+F004D
-      - ["^", "󰁎"] # U+F004E
-      - ["&", "󰁏"] # U+F004F
-      - [".", "󰁐"] # U+F0050
-      - [",", "󰁑"] # U+F0051
-      - ["!", "󰁒"] # U+F0052
-      - ["-", "󰁓"] # U+F0053
-    fonts: [{font: pirzath-carved}, {font: pirzath-hand}]
+  language: khaz
+  font: pirzath-hand
+  vowels: aeiouëáéíóú
+  mappings:
+    "0": DIGIT_ZERO
+    "1": DIGIT_ONE
+    "2": DIGIT_TWO
+    "3": DIGIT_THREE
+    "4": DIGIT_FOUR
+    "5": DIGIT_FIVE
+    "6": DIGIT_SIX
+    "7": DIGIT_SEVEN
+    "8": DIGIT_EIGHT
+    "9": DIGIT_NINE
+    a: A
+    e: E
+    ë: E
+    i: I
+    o: O
+    u: U
+    p: PARGH
+    b: BALG
+    f: FARZ
+    v: VAZAL
+    m: MARP
+    t: TAMB
+    d: DALK
+    n: NAZAF
+    k: KAMV
+    g: GAMTH
+    s: SAKAR
+    z: ZALD
+    h: HALB
+    l: LADHAV
+    r: RAGHAV
+    j: JA
+    q: QA
+    w: WA
+    á: [A, LONG]
+    é: [E, LONG]
+    í: [I, LONG]
+    ó: [O, LONG]
+    ú: [U, LONG]
+    "'": CATCH
+    ’: CATCH
+    th: THARZ
+    dh: DHALZ
+    kh: KHABAR
+    gh: GHARM
+    sh: SHA
+    zh: ZHA
+    ch: CHA
+    ts: TSA
+    ng: NGA
+    ny: NYA
+    hl: HLA
+    ngh: [NAZAF, GHARM]
+    tth: [THARZ, THARZ]
+    ddh: [DHALZ, DHALZ]
+    kkh: [KHABAR, KHABAR]
+    ggh: [GHARM, GHARM]
+    ssh: [SHA, SHA]
+    zzh: [ZHA, ZHA]
+    cch: [CHA, CHA]
+    tts: [TSA, TSA]
+    nng: [NGA, NGA]
+    nny: [NYA, NYA]
+    hhl: [HLA, HLA]
+    nngh: [NAZAF, NAZAF, GHARM]
+    ai: AI
+    aí: [AI, LONG]
+    ái: [AI, LONG]
+    áí: [AI, LONG, LONG]
+    au: AU
+    aú: [AU, LONG]
+    áu: [AU, LONG]
+    áú: [AU, LONG, LONG]
+    ei: EI
+    ëi: EI
+    eí: [EI, LONG]
+    ëí: [EI, LONG]
+    éi: [EI, LONG]
+    éí: [EI, LONG, LONG]
+    oi: OI
+    oí: [OI, LONG]
+    ói: [OI, LONG]
+    óí: [OI, LONG, LONG]
+    ou: OU
+    oú: [OU, LONG]
+    óu: [OU, LONG]
+    óú: [OU, LONG, LONG]
+    y: I
+    "@": DIGIT_TEN
+    "#": DIGIT_ELEVEN
+    $: DIGIT_TWELVE
+    "%": DIGIT_THIRTEEN
+    "&": DIGIT_FIFTEEN
+    "-": NAME_DASH
+    ^: DIGIT_FOURTEEN
+  rules:
+    normalization: NFC
+    matching: longest-first
+    roundTrip: canonical
+    contextual-mappings:
+      - {match: ay, before: consonant, emit: AI}
+      - {match: ay, at: end, emit: AI}
+      - {match: áy, before: consonant, emit: [AI, LONG]}
+      - {match: áy, at: end, emit: [AI, LONG]}
+      - {match: ey, before: consonant, emit: EI}
+      - {match: ëy, before: consonant, emit: EI}
+      - {match: ey, at: end, emit: EI}
+      - {match: ëy, at: end, emit: EI}
+      - {match: éy, before: consonant, emit: [EI, LONG]}
+      - {match: éy, at: end, emit: [EI, LONG]}
+      - {match: oy, before: consonant, emit: OI}
+      - {match: oy, at: end, emit: OI}
+      - {match: óy, before: consonant, emit: [OI, LONG]}
+      - {match: óy, at: end, emit: [OI, LONG]}
+      - {match: y, before: vowel, emit: YA}
 ---
 
-Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in [[skill-drthrkscrpt|Pirzath]], in either of its two faces: Pirzath Carved and Pirzath Hand. A passage marked with `map=pirzath` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script. The two faces share every row.
-
-```text
-[Khazár]{lang=khaz font=pirzath-carved map=pirzath}
-```
+This encoding writes [[skill-khazarlng|Khazari]] in pirzath-hand. A passage selects it with `enc=khazpirzathenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
 
 ## From the Spelling Guide to Pirzath
 
-- **Pirzath has one case.** A capital is written as its letter.
+- **The script has one case.** Its Roman spelling is lowercase.
 - **The digraphs are letters:** _th_, _dh_, _kh_, _gh_, _sh_, _zh_, _ch_, _ts_, _ng_, _ny_ and _hl_. _ngh_ is _n_ and _gh_.
 - **A digraph with its first letter doubled** (_tth_, _ssh_, _nng_) is the digraph twice, which the faces draw as the doubled form.
 - **A consonant written twice** is two letters, which the faces draw as the doubled form.
@@ -416,7 +140,9 @@ Pirzath Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalo
 - **_ë_ is the vowel _e_.**
 - **The catch** is `'` or `’`.
 - **The numerals count in sixteens:** 0 to 9, then `@`, `#`, `$`, `%`, `^` and `&` for ten to fifteen.
-- **The points** are `.`, `,`, `!` and the hyphen.
-- **Quotation marks:** `“` opens a quotation and `”` closes it. These are the canonical roman sources of the two distinct signs; straight quotes, brackets and doubled angle brackets are not substitutes.
 
-_c_ outside _ch_, _x_ and any other character the script lacks pass through unchanged, and the faces print the box for them.
+- **Quotation marks:** `«` and `»` enclose an outer quotation; `‹` and `›` enclose a quotation inside it. These marks follow the shared Roman standard.
+
+Characters outside the declared Roman inventory are refused.
+
+Punctuation, quotation marks, verse boundaries and name marks follow the shared Roman standard. Literal glyph codes between `⟦` and `⟧` select the font’s signs directly.

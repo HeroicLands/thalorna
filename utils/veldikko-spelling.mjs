@@ -6,18 +6,21 @@
 /**
  * The Veldikko spelling generator (`node utils/veldikko-spelling.mjs`).
  *
- * The two Veldikko mapping notes, `veldikko` for Sinale and `veldikko-aelendi`
- * for Áelendi, share nearly every row. This script writes the `data.map.rows`
+ * The two Veldikko encoding notes, `sinaveldikkoenc` for Sinale and `aeleveldikkoenc`
+ * for Áelendi, share nearly every row. This script writes the `data.mappings` and `data.rules`
  * of both from one source, so they cannot drift; everything else in a note is
  * authored by hand and left as it is.
  *
- * With no argument it rewrites the rows. With `--check` it rewrites nothing and
+ * With no argument it rewrites the generated program. With `--check` it rewrites nothing and
  * exits 1, with a finding at the note, when a note's rows differ from what it
  * would write. Findings are written `file:line:column: error: message`, the path
  * first and relative to the working directory, to stderr.
  */
 
 import fs from "node:fs";
+import YAML from "yaml";
+import { fontCodes } from "@heroiclands/package-build/engine/encoding-notes";
+import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 import { fileURLToPath } from "node:url";
 
 export const NOTES = [
@@ -71,14 +74,12 @@ const cm = (...ks) => ks.map((k) => "U+" + L[k].toString(16).toUpperCase()).join
  * @param {"sinale" | "aelendi"} tongue
  * @returns {string[]}
  */
-export function generateRows(tongue) {
+function spellingRows(tongue) {
     const AE = tongue === "aelendi";
     const rows = [];
     const add = (from, to, comment, cond) => {
-        const f = JSON.stringify(from),
-            t = JSON.stringify(to);
-        const body = cond ? `{from: ${f}, to: ${t}, ${cond}}` : `[${f}, ${t}]`;
-        rows.push(`      - ${body} # ${comment}`);
+        const condition = cond ? Object.fromEntries([cond.split(/:\s*/)]) : {};
+        rows.push({ from, to, ...condition });
     };
     const cases = (s) => {
         // every upper/lower combination of the letters of s
@@ -271,29 +272,79 @@ function addSinaleVowels(add) {
         }
 }
 
-const ROWS_START = "    rows:\n";
-const ROWS_END = "    fonts:";
+/** Selected font metadata is the only glyph-code table. */
+export const GLYPH_CODES = fontCodes(resolveScriptFonts(process.cwd()), "veldikko");
+const codesFor = new Map(Object.entries(GLYPH_CODES).map(([name, text]) => [text, name]));
 
-/** The note's text with its rows replaced by the generated ones. */
-function rewrite(text, tongue) {
-    const from = text.indexOf(ROWS_START) + ROWS_START.length;
-    const to = text.indexOf(ROWS_END, from);
-    return text.slice(0, from) + generateRows(tongue).join("\n") + "\n" + text.slice(to);
+/** Generate the public encoding program from the shared spelling convention. */
+export function generateEncoding(tongue) {
+    const mappings = {},
+        contextual = new Map();
+    for (const { from, to, ...condition } of spellingRows(tongue)) {
+        const match = from.toLowerCase().normalize("NFC");
+        if (match === "-" && to === " " && !Object.keys(condition).length) continue;
+        const emit = [...to].map((char) => {
+            const code = codesFor.get(char);
+            if (!code) throw new Error(`The installed Veldikko font has no code for ${char}`);
+            return code;
+        });
+        if (Object.keys(condition).length) {
+            const key = JSON.stringify([match, condition.before, condition.at]);
+            const previous = contextual.get(key);
+            if (previous && JSON.stringify(previous.emit) !== JSON.stringify(emit))
+                throw new Error(`Conflicting lowercase Veldikko context for ${match}`);
+            if (!previous) contextual.set(key, { match, emit, ...condition });
+        } else {
+            const previous = mappings[match];
+            if (
+                previous !== undefined &&
+                JSON.stringify([previous].flat()) !== JSON.stringify(emit)
+            )
+                throw new Error(`Conflicting lowercase Veldikko mapping for ${match}`);
+            if (previous === undefined) mappings[match] = emit.length === 1 ? emit[0] : emit;
+        }
+    }
+    return {
+        mappings,
+        rules: {
+            normalization: "NFC",
+            matching: "longest-first",
+            roundTrip: "canonical",
+            "word-separators": ["-"],
+            "contextual-mappings": [...contextual.values()],
+        },
+    };
 }
 
-/**
- * The findings for every note whose rows differ from the generated ones.
- *
- * @returns {string[]}
- */
+/** Preserve the note's metadata and prose while replacing its generated program. */
+function rewrite(text, tongue) {
+    const split = /^---\r?\n([\s\S]*?)\r?\n---(\r?\n?)/.exec(text);
+    if (!split) throw new Error("An encoding document requires frontmatter");
+    const document = YAML.parseDocument(split[1]);
+    if (!document.hasIn(["data", "mappings"]) || !document.hasIn(["data", "rules"]))
+        throw new Error("Migrate the encoding document to data.mappings and data.rules first");
+    const generated = generateEncoding(tongue);
+    document.setIn(["data", "mappings"], generated.mappings);
+    document.setIn(["data", "rules"], generated.rules);
+    return "---\n" + document.toString() + "---" + split[2] + text.slice(split[0].length);
+}
+
+/** Exact code sequences and conditions, independent of YAML layout. */
 export function checkNotes() {
     const findings = [];
     for (const { tongue, file } of NOTES) {
         const text = fs.readFileSync(file, "utf8");
-        if (rewrite(text, tongue) !== text) {
-            const line = text.slice(0, text.indexOf(ROWS_START)).split("\n").length;
+        const split = /^---\r?\n([\s\S]*?)\r?\n---/.exec(text);
+        const data = split ? YAML.parse(split[1]).data : undefined;
+        const generated = generateEncoding(tongue);
+        if (
+            JSON.stringify(data?.mappings) !== JSON.stringify(generated.mappings) ||
+            JSON.stringify(data?.rules) !== JSON.stringify(generated.rules)
+        ) {
+            const at = text.indexOf("  mappings:");
+            const line = at < 0 ? 1 : text.slice(0, at).split("\n").length;
             findings.push(
-                `${file}:${line}:1: error: \`data.map.rows\` differs from the rows \`utils/veldikko-spelling.mjs\` writes; run \`node utils/veldikko-spelling.mjs\`, then \`npm run format\` on the notes`,
+                `${file}:${line}:1: error: \`data.mappings\` or \`data.rules\` differs from the program \`utils/veldikko-spelling.mjs\` writes; run \`node utils/veldikko-spelling.mjs\`, then \`npm run format\` on the notes`,
             );
         }
     }
@@ -306,8 +357,7 @@ if (process.argv[1] === fileURLToPath(import.meta.url)) {
         for (const finding of findings) process.stderr.write(`${finding}\n`);
         process.exitCode = findings.length ? 1 : 0;
     } else {
-        for (const { tongue, file } of NOTES) {
+        for (const { tongue, file } of NOTES)
             fs.writeFileSync(file, rewrite(fs.readFileSync(file, "utf8"), tongue));
-        }
     }
 }

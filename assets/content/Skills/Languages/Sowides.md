@@ -6,7 +6,7 @@ subType: language
 description: "The hard, clipped tongue of the steppe tribes of the Khazryn, spoken from the cold northern coast to the stone desert before Tantsou."
 tags: []
 data:
-  roman: "abcdeghijklmnoqrstuvyzABCDEGHIJKLMNOQRSTUVYZöüÖÜ0123456789.,;:?!“”()—–…-"
+  roman: "abcdeghijklmnoqrstuvyzABCDEGHIJKLMNOQRSTUVYZöüÖÜ0123456789()–-"
   core: true
   abbreviation: Sov.
   icon: icon-speaking

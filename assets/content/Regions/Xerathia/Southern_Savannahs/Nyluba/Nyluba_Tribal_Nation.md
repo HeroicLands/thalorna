@@ -134,25 +134,25 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 Transcription of an oral recitation.
 
 ```verse {form=praise numstep=5 cols=2}
-1 [Ndebya nyemawa. Enyi ndeyabe weyu mbeyi labwe ndawa.]{lang=nyal}
+1 [ndebya nyemawa. enyi ndeyabe weyu mbeyi labwe ndawa.]{lang=nyal}
 2 [Now the terms. Count on one hand.]{lang=en}
 
-1 [.Labwe ndawa, labye ndaweya.]{lang=nyal}
+1 [.labwe ndawa, labye ndaweya.]{lang=nyal}
 2 [._One hand, five fingers._]{lang=en}
 
-1 [Ndebyo ndeleyo ndawa, nyemoli ndaweya shewe labweyelo mbeyosha liye nyemoli ndaweya,]{lang=nyal}
+1 [ndebyo ndeleyo ndawa, nyemoli ndaweya shewe labweyelo mbeyosha liye nyemoli ndaweya,]{lang=nyal}
 2 [First, the five raise no weapon against the five.]{lang=en}
 
 1 [ngwi weyu labweyemi mboyela nduloba ndebyo ngalebya, ngwi weyu shewe mbeye lowa ndayelya.]{lang=nyal}
 2 [They lay old cattle feuds down and never take them up again.]{lang=en}
 
-1 [.Labweyemi ndebyo ngalebya, ngwi shewe mbeye ndayelya.]{lang=nyal}
+1 [.labweyemi ndebyo ngalebya, ngwi shewe mbeye ndayelya.]{lang=nyal}
 2 [._Laid down. Never taken up again._]{lang=en}
 
-1 [Ndebyo ndeleyo ndawi, pabweya liye ndawa lome pabweya liye ndaweya.]{lang=nyal}
+1 [ndebyo ndeleyo ndawi, pabweya liye ndawa lome pabweya liye ndaweya.]{lang=nyal}
 2 [Second, a spear against one is a spear against five.]{lang=en}
 
-1 [.Liye ndawa, liye ndaweya.]{lang=nyal}
+1 [.liye ndawa, liye ndaweya.]{lang=nyal}
 2 [._Against one, against five._]{lang=en}
 ```
 
@@ -227,10 +227,10 @@ The griots' recital of the record, set beside a fireside telling in [[lore-stone
 Transcription of an oral recitation.
 
 ```verse {form=prose numstep=5 cols=2}
-1 [Ndayembo nyabelomi, weyi kabolemi Heto nduloba, ngwi weyi ndeyomi ndeyoma lowa, weyi nyende Ngende Ngabeli.]{lang=nyal}
+1 [ndayembo nyabelomi, weyi kabolemi heto nduloba, ngwi weyi ndeyomi ndeyoma lowa, weyi nyende ngende ngabeli.]{lang=nyal}
 2 [During her initiation she entered an Old Heto. She emerged speaking the Stone Tongue.]{lang=en}
 
-1 [Ndeyamo liwe Ngende Ngabeli shewe lome ndebyo nyendemoshi.]{lang=nyal}
+1 [ndeyamo liwe ngende ngabeli shewe lome ndebyo nyendemoshi.]{lang=nyal}
 2 [The record gives no purpose for the Stone Tongue.]{lang=en}
 ```
 

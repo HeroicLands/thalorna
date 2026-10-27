@@ -59,12 +59,12 @@ The sentence end is always the last mark of a sentence, outside a closing quotat
 
 The strongest Khazari undertaking, _Dalík bant, maríg bant_ ("oath of stone, oath of bone"), in Carved Pirzath and then in the hand form:
 
-::: {.nativefont lang=khaz font=pirzath-carved map=pirzath}
-Dalík bant, maríg bant.
+::: {lang=khaz font=pirzath-carved enc=khazpirzathcarvedenc}
+dalík bant, maríg bant.
 :::
 
-::: {.nativefont lang=khaz}
-Dalík bant, maríg bant.
+::: {lang=khaz enc=khazpirzathenc}
+dalík bant, maríg bant.
 :::
 
 A handout, a shield device or a banner shows a whole word or a name in the script, never a single letter standing alone. Several letters, seen on their own, share their shape with runes that are used as hate symbols; inside a word they read as letters.

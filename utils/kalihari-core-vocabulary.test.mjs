@@ -154,7 +154,11 @@ test("Kalihari uses its configured Roman wordbook without an invented native map
     for (const word of ordinary) {
         const result = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(result.errors, [], word.form);
-        assert.equal(result.markdown, `[${word.form}]{lang=${definition.tag}}`, word.form);
+        assert.equal(
+            result.markdown,
+            `[${word.form.replaceAll("'", "\\'")}]{lang=${definition.tag}}`,
+            word.form,
+        );
     }
     // The renderer checks words in mapped runs. This language has no map;
     // exercise that same public lexical scanner against its configured book.

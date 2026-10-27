@@ -1,6 +1,9 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
@@ -17,8 +20,6 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
-import { nativeLookup } from "@heroiclands/package-build/engine/map-lexicon";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 
@@ -177,7 +178,7 @@ test("Provenzal declarations use the installed word and frontmatter contracts", 
 test("Provenzal prints nearest senses and renders ordinary words through its configured language", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =
         await import("@heroiclands/package-build/engine/lexical-sections");
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
     const sections = lexicalSectionsFor(records).get("thalorna-note-skill-provnzlng");
     const rendered = insertLexicalSections(splitFrontmatter(language.raw).body, sections).markdown;
@@ -188,7 +189,7 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
     }
     const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -199,12 +200,12 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
     const [[key, definition]] = configured;
     assert(context.wordBooks.has(key));
     assert(context.lexicons.has(key));
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
+    const map = encodingReference("prov").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    const native = nativeLookup(context.lexicons.get(key), map.name, face.slug);
-    const attributes = `.nativefont lang=${key} map=${map.name} font=${face.slug}`;
+    const native = serializeLexicon(context.lexicons.get(key));
+    const attributes = `lang=${key} enc=${map.name} font=${face.slug}`;
     const scanned = scanRuns(`[${language.fm.data.words[0].form}]{${attributes}}`, context);
     assert.deepEqual(scanned.errors, []);
     assert.deepEqual(scanned.warnings, []);
@@ -212,14 +213,17 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
     const drawn = (text, form) => {
         assert(text.trim(), form);
         for (const char of text) {
-            if (/\s/u.test(char)) continue;
+            if (/[\s\p{Default_Ignorable_Code_Point}]/u.test(char)) continue;
             const code = char.codePointAt(0);
             const glyph = outlines.glyph(code);
             assert(face.draws.has(code) && glyph?.d && glyph.index !== box, `${form}: ${char}`);
         }
     };
     for (const { word } of ordinary) {
-        const mapped = applyMap(map, word.form, { font: face.slug, native }).text;
+        const mapped = encodeWithLanguage(map, word.form, {
+            font: face.slug,
+            lexicon: native,
+        }).text;
         drawn(mapped, word.form);
         const output = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(output.errors, [], word.form);
@@ -227,7 +231,7 @@ test("Provenzal prints nearest senses and renders ordinary words through its con
     }
     const unknown = "ulmerulmer";
     assert.equal(context.wordBooks.get(key).accepts(unknown), false);
-    drawn(applyMap(map, unknown, { font: face.slug, native }).text, unknown);
+    drawn(encodeWithLanguage(map, unknown, { font: face.slug, lexicon: native }).text, unknown);
     const negative = renderRuns(`[${unknown}]{${attributes}}`, context);
     assert.equal(negative.errors.length, 1);
     assert(negative.errors[0].message.includes(`\`${unknown}\` is not a word`));
@@ -469,11 +473,11 @@ test("Tarveni declarations and real borrowed sources satisfy the consumer contra
 });
 
 test("Tarveni uses its actual configured lexicon and Semaron font", async () => {
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
     const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...tarveniRecords,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -484,22 +488,22 @@ test("Tarveni uses its actual configured lexicon and Semaron font", async () => 
     const [[key, definition]] = selected;
     assert(context.wordBooks.has(key));
     assert(context.lexicons.has(key));
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(tarveni.fm.data.writtenIn.font);
+    const map = encodingReference("tarv").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    const native = nativeLookup(context.lexicons.get(key), map.name, face.slug);
-    const attributes = `.nativefont lang=${key} map=${map.name} font=${face.slug}`;
+    const native = serializeLexicon(context.lexicons.get(key));
+    const attributes = `lang=${key} enc=${map.name} font=${face.slug}`;
     const scanned = scanRuns(`[${tarveni.fm.data.words[0].form}]{${attributes}}`, context);
     assert.deepEqual(scanned.errors, []);
     assert.deepEqual(scanned.warnings, []);
     assert.equal(scanned.runs[0].lang, key);
     assert.equal(scanned.runs[0].tag, definition.tag);
     const drawn = (form) => {
-        const written = applyMap(map, form, { font: face.slug, native }).text;
+        const written = encodeWithLanguage(map, form, { font: face.slug, lexicon: native }).text;
         assert(written.trim(), form);
         for (const char of written) {
-            if (/\s/u.test(char)) continue;
+            if (/[\s\p{Default_Ignorable_Code_Point}]/u.test(char)) continue;
             const point = char.codePointAt(0),
                 glyph = outlines.glyph(point);
             assert(face.draws.has(point) && glyph?.d && glyph.index !== box, `${form}: ${char}`);

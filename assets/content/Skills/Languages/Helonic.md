@@ -6,10 +6,9 @@ subType: language
 description: "The tongue of culture and the arts—drama, rhetoric, poetry and the epics—spoken in Helionis and the parent of Bizarian and Bethuan."
 tags: []
 data:
-  roman: "abcdefghiklmnoprstuvwyzABCDEFGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.,-jJ"
+  roman: "abcdefghiklmnoprstuvwyzABCDEFGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789-jJ"
   core: true
   abbreviation: Hel.
-  writtenIn: {map: helonika, font: helonika-book}
   fields:
     - name: "Thought, measure and the schools"
       holds: "What the academies argue about: wisdom, measure, proportion, proof, the first principle and the ordering of the world."

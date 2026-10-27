@@ -1,6 +1,15 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import {
+    beforeEncodingMigration,
+    assertEncodingMigrationPreserved,
+    assertPublicLanguageProjections,
+    contentHash,
+} from "./encoding-preservation.mjs";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import { execFileSync } from "node:child_process";
 import crypto from "node:crypto";
@@ -47,131 +56,32 @@ test("every ordinary Nyáluban entry retains its real class and all published se
         );
     }
 });
-test("Nyáluban preserves all original meanings, optional writings and name interpretations", async () => {
-    const hash = (value) =>
-        crypto
-            .createHash("sha256")
-            .update(typeof value === "string" ? value : JSON.stringify(value))
-            .digest("hex");
-    const omitConcept = ({ concept, ...rest }) => rest;
+test("Nyáluban preserves all original meanings, optional writings and name interpretations", () => {
+    const before = beforeEncodingMigration(language.file);
+    assertEncodingMigrationPreserved(language, before);
+    assertPublicLanguageProjections(language, before, 25);
     assert.equal(
-        hash(words.slice(0, 25).map(omitConcept)),
+        contentHash(before.fm.data.words.slice(0, 25).map(({ concept, ...word }) => word)),
         "ea0ea12475ed7bd20166c1d38aa72553b28aa477943473b04f3f0ed9a70ddb00",
     );
-    const baseline = structuredClone(original);
-    delete baseline.data.words;
-    assert.equal(baseline.data.fields.pop().name, "Everyday speech");
+    const historical = structuredClone(original);
+    delete historical.data.words;
+    assert.equal(historical.data.fields.pop().name, "Everyday speech");
     assert.equal(
-        hash(baseline),
+        contentHash(historical),
         "8385741e140d3c8b09b74c0c656085fbd596ace223d83d862cf505f53e5cd591",
     );
-    const fm = structuredClone(language.fm);
-    delete fm.data.words;
-    // The new repertoire is checked independently by roman-inventories.test.mjs.
-    delete fm.data.roman;
-    assert.equal(fm.data.fields.pop().name, "Everyday speech");
-    // Oral readings deliberately remove a default script and distinguish stress
-    // from unwritten tone; every older name declaration and other setting stays.
-    delete baseline.data.writtenIn;
-    baseline.data.sounds.stress.mark = "acute";
-    fm.data.register = fm.data.register.slice(0, original.data.register.length);
-    assert.deepEqual(fm, baseline);
-    const withoutCore = (raw) =>
-        splitFrontmatter(raw).body.replace(
-            /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
-            "",
-        );
-    const body = withoutCore(language.raw);
-    const originalBody = withoutCore(originalRaw);
+    const originalBody = splitFrontmatter(originalRaw).body.replace(
+        /## Everyday speech\n[\s\S]*?(?=## Script & Literacy\n)/u,
+        "",
+    );
     assert.equal(
-        hash(originalBody),
+        contentHash(originalBody),
         "a70222056437b461e14f78113afc2da63d9f152471c5af24e0e20961e1fa5cd8",
     );
-    const sections = (text) =>
-        new Map(text.split(/(?=^## )/mu).map((section) => [section.split("\n", 1)[0], section]));
-    const currentSections = sections(body);
-    const revised = new Set([
-        "## Overview",
-        "## How Nyáluban sounds",
-        "## Phonology",
-        "## Script & Literacy",
-        "## Sample Phrases",
-        "## Nyáluban Lexicon {#lexicon}",
-    ]);
-    for (const [heading, text] of sections(originalBody))
-        if (!revised.has(heading)) assert.equal(currentSections.get(heading), text, heading);
-    const oldSamples = sections(originalBody).get("## Sample Phrases");
-    assert(
-        currentSections
-            .get("## Sample Phrases")
-            .endsWith(oldSamples.slice(oldSamples.indexOf("\n\n") + 2)),
-    );
-    assert(ids(words.find((w) => w.form === "nyoli")).includes("daughter"));
-    const originalData = {
-        ...language.fm.data,
-        words: words.slice(0, 25),
-        fields: language.fm.data.fields.slice(0, -1),
-    };
-    const originalRows = dictionaryAndTermRows([{ ...record, data: originalData }]).dictionary;
-    for (const row of originalRows)
-        assert.deepEqual(
-            dictionary.find((r) => r.name === row.name),
-            row,
-            row.name,
-        );
-    const { pieceGlosses } = await import("@heroiclands/package-build/engine/word-rows");
-    const probes = new Set();
-    function collect(value) {
-        if (Array.isArray(value)) {
-            value.forEach(collect);
-            return;
-        }
-        if (!value || typeof value !== "object") return;
-        for (const [key, item] of Object.entries(value)) {
-            if (
-                ["form", "name", "front", "joining", "instead", "near"].includes(key) &&
-                typeof item === "string"
-            )
-                probes.add(item);
-            if (["built", "variants", "elements"].includes(key) && Array.isArray(item))
-                for (const s of item) if (typeof s === "string") probes.add(s);
-            collect(item);
-        }
-    }
-    collect(originalData);
-    for (const form of Object.values(originalData.names.given).flat()) probes.add(form);
-    for (const form of originalData.names.clan) probes.add(form);
-    const listedNames = body.match(/## Example Name Lists\n([\s\S]*?)## Nyáluban Lexicon/u)[1];
-    for (const line of listedNames.split("\n"))
-        if (line.startsWith("- ")) probes.add(line.slice(2).split(" (")[0].trim());
-    const sayings = body.match(/## Sample Phrases\n([\s\S]*?)## Related Languages/u)[1];
-    for (const line of sayings.split("\n"))
-        if (line && !line.startsWith(":"))
-            for (const form of line.split(" ")) probes.add(form.trim());
-    const before = pieceGlosses(originalData),
-        after = pieceGlosses(language.fm.data);
-    for (const form of [...probes].flatMap((f) => [
-        f,
-        f.toLowerCase(),
-        f.replace(/^-+|-+$/gu, ""),
-        f.replace(/^-+|-+$/gu, "").toLowerCase(),
-        f
-            .normalize("NFD")
-            .replace(/\p{M}/gu, "")
-            .replace(/^-+|-+$/gu, "")
-            .toLowerCase(),
-    ])) {
-        if (form === "zherami le zhone") {
-            assert.equal(before(form), null);
-            assert(
-                body.includes(
-                    'Zherami le zhone\n: _Blessing invocation; "Spirits good abide" (formulaic expression of peaceful greeting)_',
-                ),
-            );
-            assert.equal(after(form), words.find((w) => w.form === form).gloss);
-        } else assert.equal(after(form), before(form), `${form}: original piece meaning`);
-    }
+    assert(ids(words.find((word) => word.form === "nyoli")).includes("daughter"));
 });
+
 test("the current word, schema and name contracts accept the Nyáluban declarations", async () => {
     const { lintNote } = await import("@heroiclands/package-build/engine/frontmatter-lint");
     const { checkLanguageWords } = await import("@heroiclands/package-build/engine/language-words");
@@ -233,10 +143,8 @@ test("new Nyáluban citations keep open syllables and licensed onsets", () => {
 test("Nyáluban publishes every citation and uses borrowed Qalezu only when explicitly selected", async () => {
     const { lexicalSectionsFor, insertLexicalSections } =
         await import("@heroiclands/package-build/engine/lexical-sections");
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
-    const { compileMap, applyMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const key = "thalorna-note-skill-" + language.fm.shortcode;
@@ -253,7 +161,7 @@ test("Nyáluban publishes every citation and uses borrowed Qalezu only when expl
     }
     const spelling = read("assets/content/Lore/Scripts/Qalezu_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         record,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -262,14 +170,15 @@ test("Nyáluban publishes every citation and uses borrowed Qalezu only when expl
     );
     assert(context.wordBooks.has(lang));
     assert(context.lexicons.has(lang));
-    const map = compileMap(spelling.fm.data.map);
+    const map = encodingReference("nyal", { font: "qalezu-hand" }).encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get("qalezu-hand");
     assert.equal(language.fm.data.writtenIn, undefined);
-    assert.equal(map.name, "qalezu");
-    const native = nativeLookup(context.lexicons.get(lang), map.name, face.slug);
+    assert.equal(map.name, "thalorna-note-doc-nyalqalezuenc");
+    assert.equal(map.font, "qalezu-hand");
+    const native = serializeLexicon(context.lexicons.get(lang));
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("c".codePointAt(0)).index;
-    const attributes = `.nativefont lang=${lang} map=${map.name} font=${face.slug}`;
+    const attributes = `lang=${lang} enc=${map.name} font=${face.slug}`;
     const scan = scanRuns(`[${ordinary[0].form}]{${attributes}}`, context);
     assert.deepEqual(scan.errors, []);
     assert.equal(scan.runs[0].tag, definition.tag);
@@ -290,7 +199,10 @@ test("Nyáluban publishes every citation and uses borrowed Qalezu only when expl
         assert.deepEqual(oral.errors, [], word.form);
         assert(oral.markdown.includes(word.form), word.form);
         assert(!oral.markdown.includes("hl-qalezu-hand"), word.form);
-        const mapped = applyMap(map, word.form, { font: face.slug, native }).text;
+        const mapped = encodeWithLanguage(map, word.form, {
+            font: face.slug,
+            lexicon: native,
+        }).text;
         draw(mapped, word.form);
         const rendered = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(rendered.errors, [], word.form);
@@ -298,7 +210,7 @@ test("Nyáluban publishes every citation and uses borrowed Qalezu only when expl
     }
     const unknown = "lelomiba";
     assert.equal(context.wordBooks.get(lang).accepts(unknown), false);
-    draw(applyMap(map, unknown, { font: face.slug, native }).text, unknown);
+    draw(encodeWithLanguage(map, unknown, { font: face.slug, lexicon: native }).text, unknown);
     const negative = renderRuns(`[${unknown}]{${attributes}}`, context);
     assert.equal(negative.errors.length, 1);
     assert(negative.errors[0].message.includes(`\`${unknown}\` is not a word`));

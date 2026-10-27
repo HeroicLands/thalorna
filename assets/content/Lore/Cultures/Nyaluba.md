@@ -54,16 +54,16 @@ The lion cult's memory-song, [[lore-swearbaobab|The Swearing Under the Baobab]],
 Transcription of an oral recitation.
 
 ```verse {form=praise numstep=5 cols=2}
-1 [Nyolawa ndaweyu, ngwi nyemoli ndaweya ndeyomo.]{lang=nyal}
+1 [nyolawa ndaweyu, ngwi nyemoli ndaweya ndeyomo.]{lang=nyal}
 2 [Nine generations. The five return.]{lang=en}
 
-1 [Ndaza ndawolu nyenda nyewemo. Weyu shewe nyenda lowa ndebyo ndayebya.]{lang=nyal}
+1 [ndaza ndawolu nyenda nyewemo. weyu shewe nyenda lowa ndebyo ndayebya.]{lang=nyal}
 2 [Every one may say no. None has ever said it.]{lang=en}
 
-1 [Ngoyi nyewema lome mbeyami, ngwi mewo labweyela lowa.]{lang=nyal}
+1 [ngoyi nyewema lome mbeyami, ngwi mewo labweyela lowa.]{lang=nyal}
 2 [That makes the yes precious, worth carrying.]{lang=en}
 
-1 [.Weyu shewe nyenda lowa ndebyo ndayebya.]{lang=nyal}
+1 [.weyu shewe nyenda lowa ndebyo ndayebya.]{lang=nyal}
 2 [._None has ever said it._]{lang=en}
 ```
 

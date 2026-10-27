@@ -1,6 +1,9 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
@@ -16,15 +19,9 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
-import {
-    renderRuns,
-    runContext,
-    scanRuns,
-} from "@heroiclands/package-build/engine/content-scripts";
+import { renderRuns, scanRuns } from "@heroiclands/package-build/engine/content-scripts";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
-import { nativeLookup } from "@heroiclands/package-build/engine/map-lexicon";
 import {
     lexicalSectionsFor,
     insertLexicalSections,
@@ -96,12 +93,12 @@ test("Vedyari declarations satisfy the actual schema, word and name contracts", 
 });
 
 test("all ordinary words and expressions render through the actual Vedyakshara map and drawn font", () => {
-    const map = compileMap(spelling.fm.data.map);
+    const map = encodingReference("vedy").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get("vedyakshara-classical");
     const outlines = fontOutlines(face.file);
     const box = outlines.glyph("x".codePointAt(0)).index;
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, records);
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, records);
     const configured = Object.entries(config.languages).filter(
         ([, value]) => value.note === `${language.fm.type}-${language.fm.shortcode}`,
     );
@@ -109,8 +106,8 @@ test("all ordinary words and expressions render through the actual Vedyakshara m
     const [[languageKey, definition]] = configured;
     assert(context.wordBooks.has(languageKey), "the configured wordbook must be selected");
     assert(context.lexicons.has(languageKey), "the configured lexicon must be selected");
-    const native = nativeLookup(context.lexicons.get(languageKey), map.name, face.slug);
-    const attributes = `.nativefont lang=${languageKey} map=${map.name} font=${face.slug}`;
+    const native = serializeLexicon(context.lexicons.get(languageKey));
+    const attributes = `lang=${languageKey} enc=${map.name} font=${face.slug}`;
     const scanned = scanRuns(`[${free[0].form}]{${attributes}}`, context);
     assert.deepEqual(scanned.errors, []);
     assert.deepEqual(scanned.warnings, []);
@@ -120,14 +117,17 @@ test("all ordinary words and expressions render through the actual Vedyakshara m
     const assertDrawn = (form, written) => {
         assert(written.trim(), form);
         for (const char of written) {
-            if (/\s/u.test(char)) continue;
+            if (/[\s\p{Default_Ignorable_Code_Point}]/u.test(char)) continue;
             const point = char.codePointAt(0);
             const glyph = outlines.glyph(point);
             assert(face.draws.has(point) && glyph?.d && glyph.index !== box, `${form}: ${char}`);
         }
     };
     for (const word of free) {
-        const written = applyMap(map, word.form, { font: face.slug, native }).text;
+        const written = encodeWithLanguage(map, word.form, {
+            font: face.slug,
+            lexicon: native,
+        }).text;
         const output = renderRuns(`[${word.form}]{${attributes}}`, context);
         assert.deepEqual(output.errors, [], word.form);
         assert(output.markdown.includes(written), word.form);
@@ -135,7 +135,10 @@ test("all ordinary words and expressions render through the actual Vedyakshara m
     }
     const undefinedForm = "prukpruk";
     assert.equal(context.wordBooks.get(languageKey).accepts(undefinedForm), false);
-    assertDrawn(undefinedForm, applyMap(map, undefinedForm, { font: face.slug, native }).text);
+    assertDrawn(
+        undefinedForm,
+        encodeWithLanguage(map, undefinedForm, { font: face.slug, lexicon: native }).text,
+    );
     const unknown = renderRuns(`[${undefinedForm}]{${attributes}}`, context);
     assert.equal(unknown.errors.length, 1, "a drawable undefined word must be rejected");
     assert(unknown.errors[0].message.includes(`\`${undefinedForm}\` is not a word`));

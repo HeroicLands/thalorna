@@ -6,9 +6,8 @@ subType: language
 description: "The eldest of the Elder Tongues—vowel-heavy, clean-consonanted, and sung as often as spoken, older than any human settlement on Thalorna."
 tags: []
 data:
-  roman: "adehiklmnoprstuvyADEHIKLMNOPRSTUVYëáéíóúýâêîôûŷǎěǐǒǔ́̂̌ËÁÉÍÓÚÝÂÊÎÔÛŶǍĚǏǑǓ-"
+  roman: "adehiklmnoprstuvyëáéíóúýâêîôûŷǎěǐǒǔ́̂̌-"
   abbreviation: Sin.
-  writtenIn: {map: veldikko, font: veldikko}
   fields:
     - name: "Light, stars, sky and the hours"
       holds: "Light and dark, the sun, moon and stars, the colours of the sky, the parts of the day."
@@ -3828,166 +3827,166 @@ data:
     pattern: "{given} {lineage}"
     given:
       female:
-        - "Nuuvala"
-        - "Nuuvatta"
-        - "Kalpila"
-        - "Kalpitta"
-        - "Toimula"
-        - "Oltessala"
-        - "Oltessatta"
-        - "Olmasila"
-        - "Unturola"
-        - "Esselitta"
-        - "Hallesila"
-        - "Tirvalitta"
-        - "Lapurila"
-        - "Masserila"
-        - "Ropelitta"
-        - "Lorramila"
-        - "Lorramitta"
-        - "Ansorula"
-        - "Huomala"
-        - "Lantavola"
-        - "Lantavotta"
-        - "Porkila"
-        - "Kelkasila"
-        - "Solmerila"
-        - "Nelyvele"
-        - "Talvela"
-        - "Talvetta"
-        - "Nuomitta"
-        - "Lovala"
-        - "Lovatta"
-        - "Lonkula"
-        - "Lonkutta"
-        - "Hyssele"
-        - "Hyssette"
-        - "Ilvytte"
-        - "Tellakila"
-        - "Tellakitta"
-        - "Eilavala"
-        - "Rivyle"
-        - "Rivytte"
-        - "Nelyvette"
-        - "Pelvaila"
-        - "Tilvaila"
-        - "Tilvaitta"
-        - "Elvyrile"
-        - "Ilevala"
-        - "Ilevatta"
-        - "Lentila"
-        - "Selkile"
-        - "Selkitte"
-        - "Nylkile"
-        - "Nylkitte"
-        - "Sulmetta"
-        - "Liserila"
-        - "Kinsala"
-        - "Kinsatta"
-        - "Olmarnala"
-        - "Olmarnatta"
-        - "Ressila"
+        - "nuuvala"
+        - "nuuvatta"
+        - "kalpila"
+        - "kalpitta"
+        - "toimula"
+        - "oltessala"
+        - "oltessatta"
+        - "olmasila"
+        - "unturola"
+        - "esselitta"
+        - "hallesila"
+        - "tirvalitta"
+        - "lapurila"
+        - "masserila"
+        - "ropelitta"
+        - "lorramila"
+        - "lorramitta"
+        - "ansorula"
+        - "huomala"
+        - "lantavola"
+        - "lantavotta"
+        - "porkila"
+        - "kelkasila"
+        - "solmerila"
+        - "nelyvele"
+        - "talvela"
+        - "talvetta"
+        - "nuomitta"
+        - "lovala"
+        - "lovatta"
+        - "lonkula"
+        - "lonkutta"
+        - "hyssele"
+        - "hyssette"
+        - "ilvytte"
+        - "tellakila"
+        - "tellakitta"
+        - "eilavala"
+        - "rivyle"
+        - "rivytte"
+        - "nelyvette"
+        - "pelvaila"
+        - "tilvaila"
+        - "tilvaitta"
+        - "elvyrile"
+        - "ilevala"
+        - "ilevatta"
+        - "lentila"
+        - "selkile"
+        - "selkitte"
+        - "nylkile"
+        - "nylkitte"
+        - "sulmetta"
+        - "liserila"
+        - "kinsala"
+        - "kinsatta"
+        - "olmarnala"
+        - "olmarnatta"
+        - "ressila"
       male:
-        - "Nuuvatti"
-        - "Kalpitti"
-        - "Mollutti"
-        - "Molluvo"
-        - "Toimutti"
-        - "Toimuvo"
-        - "Oltessavo"
-        - "Olmasitti"
-        - "Unturotti"
-        - "Unturovo"
-        - "Esselitti"
-        - "Tirvalitti"
-        - "Tirvalivo"
-        - "Almaritti"
-        - "Almarivo"
-        - "Lapurivo"
-        - "Masseritti"
-        - "Masserivo"
-        - "Ropelitti"
-        - "Lorramitti"
-        - "Ansorutti"
-        - "Ansoruvo"
-        - "Huomavo"
-        - "Ropelivo"
-        - "Porkitti"
-        - "Lorramivo"
-        - "Kelkasitti"
-        - "Kelkasivo"
-        - "Solmerivo"
-        - "Talvetti"
-        - "Lovatti"
-        - "Hallesitti"
-        - "Hallesivo"
-        - "Lonkutti"
-        - "Hysseve"
-        - "Ilvytti"
-        - "Tellakitti"
-        - "Eilavatti"
-        - "Nelyvetti"
-        - "Hyssetti"
-        - "Pelvaitti"
-        - "Tilvaitti"
-        - "Esselivo"
-        - "Elvyritti"
-        - "Ilevatti"
-        - "Lentivo"
-        - "Kilpetti"
-        - "Nuomitti"
-        - "Selkitti"
-        - "Nylkitti"
-        - "Sulmetti"
-        - "Liseritti"
-        - "Kinsatti"
-        - "Kinsavo"
-        - "Telvitti"
-        - "Sulmevo"
-        - "Olmarnatti"
-        - "Olmarnavo"
-        - "Ressitti"
+        - "nuuvatti"
+        - "kalpitti"
+        - "mollutti"
+        - "molluvo"
+        - "toimutti"
+        - "toimuvo"
+        - "oltessavo"
+        - "olmasitti"
+        - "unturotti"
+        - "unturovo"
+        - "esselitti"
+        - "tirvalitti"
+        - "tirvalivo"
+        - "almaritti"
+        - "almarivo"
+        - "lapurivo"
+        - "masseritti"
+        - "masserivo"
+        - "ropelitti"
+        - "lorramitti"
+        - "ansorutti"
+        - "ansoruvo"
+        - "huomavo"
+        - "ropelivo"
+        - "porkitti"
+        - "lorramivo"
+        - "kelkasitti"
+        - "kelkasivo"
+        - "solmerivo"
+        - "talvetti"
+        - "lovatti"
+        - "hallesitti"
+        - "hallesivo"
+        - "lonkutti"
+        - "hysseve"
+        - "ilvytti"
+        - "tellakitti"
+        - "eilavatti"
+        - "nelyvetti"
+        - "hyssetti"
+        - "pelvaitti"
+        - "tilvaitti"
+        - "esselivo"
+        - "elvyritti"
+        - "ilevatti"
+        - "lentivo"
+        - "kilpetti"
+        - "nuomitti"
+        - "selkitti"
+        - "nylkitti"
+        - "sulmetti"
+        - "liseritti"
+        - "kinsatti"
+        - "kinsavo"
+        - "telvitti"
+        - "sulmevo"
+        - "olmarnatti"
+        - "olmarnavo"
+        - "ressitti"
     lineage:
-      - "Nuuvanto"
-      - "Kalpinto"
-      - "Mollunto"
-      - "Toimunto"
-      - "Oltessanto"
-      - "Olmasinto"
-      - "Unturonto"
-      - "Esselinto"
-      - "Tirvalinto"
-      - "Almarinto"
-      - "Lapurinto"
-      - "Masserinto"
-      - "Ropelinto"
-      - "Lorraminto"
-      - "Ansorunto"
-      - "Huomanto"
-      - "Porkinto"
-      - "Kelkasinto"
-      - "Solmerinto"
-      - "Talvento"
-      - "Nuominto"
-      - "Lovanto"
-      - "Hallesinto"
-      - "Lonkunto"
-      - "Hyssente"
-      - "Ilvynte"
-      - "Tellakinto"
-      - "Eilavanto"
-      - "Rivynte"
-      - "Nelyvente"
-      - "Pelvainto"
-      - "Elvyrinte"
-      - "Ilevanto"
-      - "Kilpente"
-      - "Selkinte"
-      - "Nylkinte"
-      - "Sulmento"
-      - "Liserinto"
-      - "Syllente"
-      - "Ressinto"
+      - "nuuvanto"
+      - "kalpinto"
+      - "mollunto"
+      - "toimunto"
+      - "oltessanto"
+      - "olmasinto"
+      - "unturonto"
+      - "esselinto"
+      - "tirvalinto"
+      - "almarinto"
+      - "lapurinto"
+      - "masserinto"
+      - "ropelinto"
+      - "lorraminto"
+      - "ansorunto"
+      - "huomanto"
+      - "porkinto"
+      - "kelkasinto"
+      - "solmerinto"
+      - "talvento"
+      - "nuominto"
+      - "lovanto"
+      - "hallesinto"
+      - "lonkunto"
+      - "hyssente"
+      - "ilvynte"
+      - "tellakinto"
+      - "eilavanto"
+      - "rivynte"
+      - "nelyvente"
+      - "pelvainto"
+      - "elvyrinte"
+      - "ilevanto"
+      - "kilpente"
+      - "selkinte"
+      - "nylkinte"
+      - "sulmento"
+      - "liserinto"
+      - "syllente"
+      - "ressinto"
   sounds:
     stress: {two: first, longer: first}
     syllables:
@@ -4122,30 +4121,30 @@ data:
     - {tag: exonym:<tongue>, meaning: "a name another people gives, in the tongue named"}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
-    - {name: Sinale, tongue: older}
-    - {name: Dulthan, tongue: exonym:aelendi}
-    - {name: Mogha, tongue: exonym:aelendi}
-    - {name: Ghalmir, tongue: exonym:aelendi}
-    - {name: Ansel, tongue: exonym:aelendi}
-    - {name: Dranketh, tongue: exonym:aelendi}
-    - {name: Silor, tongue: exonym:aelendi}
+    - {name: sinale, tongue: older}
+    - {name: dulthan, tongue: exonym:aelendi}
+    - {name: mogha, tongue: exonym:aelendi}
+    - {name: ghalmir, tongue: exonym:aelendi}
+    - {name: ansel, tongue: exonym:aelendi}
+    - {name: dranketh, tongue: exonym:aelendi}
+    - {name: silor, tongue: exonym:aelendi}
     - {name: Sinalean, tongue: translation}
-    - {name: Sinalo, tongue: sinale, built: [sinalo]}
-    - {name: Haulonna, tongue: older}
-    - {name: Haulonnaho, tongue: sinale, built: [Haulonna, -ho], gloss: in Haulonna}
-    - {name: Thalmdal, tongue: exonym:nordmal}
-    - {name: Ansorutti Lonkunto, tongue: sinale, built: [ansoru, -tti, lonku, -nto]}
-    - {name: Sirmenne, tongue: older}
-    - {name: Veldikko, tongue: sinale, built: [veldi, -kko]}
+    - {name: sinalo, tongue: sinale, built: [sinalo]}
+    - {name: haulonna, tongue: older}
+    - {name: haulonnaho, tongue: sinale, built: [haulonna, -ho], gloss: in Haulonna}
+    - {name: thalmdal, tongue: exonym:nordmal}
+    - {name: ansorutti lonkunto, tongue: sinale, built: [ansoru, -tti, lonku, -nto]}
+    - {name: sirmenne, tongue: older}
+    - {name: veldikko, tongue: sinale, built: [veldi, -kko]}
     - {name: The God of Dreams, tongue: translation}
-    - {name: Aulveira, tongue: sinale, built: [aulveira]}
-    - {name: Aulirakko, tongue: sinale, built: [aulira, -kko]}
-    - {name: Lubát, tongue: exonym:khazari}
-    - {name: Bjart, tongue: exonym:nordmal}
-    - {name: Zunelas, tongue: exonym}
-    - {name: Ansorun, tongue: sinale, built: [ansorun]}
+    - {name: aulveira, tongue: sinale, built: [aulveira]}
+    - {name: aulirakko, tongue: sinale, built: [aulira, -kko]}
+    - {name: lubát, tongue: exonym:khazari}
+    - {name: bjart, tongue: exonym:nordmal}
+    - {name: zunelas, tongue: exonym}
+    - {name: ansorun, tongue: sinale, built: [ansorun]}
     - {name: Long-Watcher, tongue: translation}
-    - {name: Iltorin, tongue: sinale, built: [iltorin]}
+    - {name: iltorin, tongue: sinale, built: [iltorin]}
     - {name: Seer, tongue: translation}
     - {name: The Faithful, tongue: translation}
     - {name: Unaccorded, tongue: translation}
@@ -4153,71 +4152,71 @@ data:
     - {name: Enclave of Ethalosse, tongue: translation}
     - {name: Enclave of Serenthale, tongue: translation}
     - {name: Enclave of the Hallowwood, tongue: translation}
-    - {name: Ankaris Continent, tongue: exonym}
-    - {name: Aureldia Region, tongue: exonym}
-    - {name: Mídhalión Region, tongue: exonym}
-    - {name: Mídhalión, tongue: exonym}
-    - {name: Zerathia, tongue: exonym}
+    - {name: ankaris continent, tongue: exonym}
+    - {name: aureldia region, tongue: exonym}
+    - {name: mídhalión region, tongue: exonym}
+    - {name: mídhalión, tongue: exonym}
+    - {name: zerathia, tongue: exonym}
     - {name: Central Rainforests, tongue: translation}
     - {name: Zerathian Rainforests, tongue: translation}
     - {name: Green Interior, tongue: translation}
     - {name: Guest-Right, tongue: translation}
-    - {name: Ellevirsa, tongue: sinale, built: [ellevi, -rsa]}
-    - {name: Nylkitti Esselinto, tongue: sinale, built: [nylki, -tti, esseli, -nto]}
+    - {name: ellevirsa, tongue: sinale, built: [ellevi, -rsa]}
+    - {name: nylkitti esselinto, tongue: sinale, built: [nylki, -tti, esseli, -nto]}
     - {name: The Long-Watcher's Sayings, tongue: translation}
-    - {name: Ansorunnoren saunari, tongue: sinale, built: [ansorun, -ren, saunari]}
-    - name: Olmasitti Ropelinto Torvelsa
+    - {name: ansorunnoren saunari, tongue: sinale, built: [ansorun, -ren, saunari]}
+    - name: olmasitti ropelinto torvelsa
       tongue: sinale
       built: [olmasi, -tti, ropeli, -nto, torvel, -sa]
-    - {name: Ilevala Huomanto, tongue: sinale, built: [ileva, -la, huoma, -nto]}
-    - {name: Ollevikko, tongue: sinale, built: [ollevi, -kko]}
+    - {name: ilevala huomanto, tongue: sinale, built: [ileva, -la, huoma, -nto]}
+    - {name: ollevikko, tongue: sinale, built: [ollevi, -kko]}
     - {name: The Lament of Haulonna, tongue: translation}
-    - {name: Haulonnaren neltava, tongue: sinale}
-    - {name: Hlusmil Svartrunar, tongue: exonym:nordmal}
-    - {name: Pelvaila Pelvainto, tongue: sinale, built: [pelvai, -la, pelvai, -nto]}
-    - {name: Pelvaila, tongue: sinale, built: [pelvai, -la]}
-    - {name: Kinsatti Hallesinto, tongue: sinale, built: [kinsa, -tti, hallesi, -nto]}
-    - {name: Kinsatti, tongue: sinale, built: [kinsa, -tti]}
-    - {name: Kelkasitta Nuominto, tongue: sinale, built: [kelkasi, -tta, nuomi, -nto]}
-    - {name: Kelkasitta, tongue: sinale, built: [kelkasi, -tta]}
-    - {name: Toimuvo Sulmento, tongue: sinale, built: [toimu, -vo, sulme, -nto]}
-    - {name: Toimuvo, tongue: sinale, built: [toimu, -vo]}
-    - {name: Porkila Ilevanto, tongue: sinale, built: [porki, -la, ileva, -nto]}
-    - {name: Porkila, tongue: sinale, built: [porki, -la]}
+    - {name: haulonnaren neltava, tongue: sinale}
+    - {name: hlusmil svartrunar, tongue: exonym:nordmal}
+    - {name: pelvaila pelvainto, tongue: sinale, built: [pelvai, -la, pelvai, -nto]}
+    - {name: pelvaila, tongue: sinale, built: [pelvai, -la]}
+    - {name: kinsatti hallesinto, tongue: sinale, built: [kinsa, -tti, hallesi, -nto]}
+    - {name: kinsatti, tongue: sinale, built: [kinsa, -tti]}
+    - {name: kelkasitta nuominto, tongue: sinale, built: [kelkasi, -tta, nuomi, -nto]}
+    - {name: kelkasitta, tongue: sinale, built: [kelkasi, -tta]}
+    - {name: toimuvo sulmento, tongue: sinale, built: [toimu, -vo, sulme, -nto]}
+    - {name: toimuvo, tongue: sinale, built: [toimu, -vo]}
+    - {name: porkila ilevanto, tongue: sinale, built: [porki, -la, ileva, -nto]}
+    - {name: porkila, tongue: sinale, built: [porki, -la]}
     - {name: The Gathering on the End, tongue: translation}
-    - {name: Oltandiren aulirakko, tongue: sinale, built: [oltandi, -ren, aulira, -kko]}
-    - {name: Tellakitta Eilavanto, tongue: sinale, built: [tellaki, -tta, eilava, -nto]}
-    - {name: Tellakitta, tongue: sinale, built: [tellaki, -tta]}
-    - {name: Rivytti Syllente, tongue: sinale, built: [rivy, -tti, sylle, -nte]}
-    - {name: Lentila Talvento, tongue: sinale, built: [lenti, -la, talve, -nto]}
-    - {name: Hyssetti Toimunto, tongue: sinale, built: [hysse, -tti, toimu, -nto]}
+    - {name: oltandiren aulirakko, tongue: sinale, built: [oltandi, -ren, aulira, -kko]}
+    - {name: tellakitta eilavanto, tongue: sinale, built: [tellaki, -tta, eilava, -nto]}
+    - {name: tellakitta, tongue: sinale, built: [tellaki, -tta]}
+    - {name: rivytti syllente, tongue: sinale, built: [rivy, -tti, sylle, -nte]}
+    - {name: lentila talvento, tongue: sinale, built: [lenti, -la, talve, -nto]}
+    - {name: hyssetti toimunto, tongue: sinale, built: [hysse, -tti, toimu, -nto]}
     - {name: The Long Road, tongue: translation}
-    - {name: Tirvali, tongue: sinale, built: [tirvali]}
-    - {name: Tirvalitta Solmerinto, tongue: sinale, built: [tirvali, -tta, solmeri, -nto]}
-    - {name: Tirvalitta, tongue: sinale, built: [tirvali, -tta]}
-    - {name: Tirvalitta Tirvali, tongue: sinale, built: [tirvali, -tta, tirvali]}
+    - {name: tirvali, tongue: sinale, built: [tirvali]}
+    - {name: tirvalitta solmerinto, tongue: sinale, built: [tirvali, -tta, solmeri, -nto]}
+    - {name: tirvalitta, tongue: sinale, built: [tirvali, -tta]}
+    - {name: tirvalitta tirvali, tongue: sinale, built: [tirvali, -tta, tirvali]}
     - {name: The Praise of the One Who Stays, tongue: translation}
-    - {name: Sendeppinnoren tellame, tongue: sinale, built: [sendeppinno, -ren, tellame]}
-    - {name: Lapurinto, tongue: sinale, built: [lapuri, -nto]}
-    - {name: Kalpinto, tongue: sinale, built: [kalpi, -nto]}
-    - {name: Nuuvanto, tongue: sinale, built: [nuuva, -nto]}
-    - {name: Unturonto, tongue: sinale, built: [unturo, -nto]}
+    - {name: sendeppinnoren tellame, tongue: sinale, built: [sendeppinno, -ren, tellame]}
+    - {name: lapurinto, tongue: sinale, built: [lapuri, -nto]}
+    - {name: kalpinto, tongue: sinale, built: [kalpi, -nto]}
+    - {name: nuuvanto, tongue: sinale, built: [nuuva, -nto]}
+    - {name: unturonto, tongue: sinale, built: [unturo, -nto]}
     - {name: The Asking, tongue: translation}
-    - {name: Hauletta, tongue: sinale, built: [haule, -tta]}
-    - {name: Lauva, tongue: older}
-    - {name: Pilme, tongue: sinale, built: [pilme]}
-    - {name: Lonku, tongue: sinale, built: [lonku]}
-    - {name: Mallonna, tongue: older}
-    - {name: Tehy, tongue: sinale, built: [tehy]}
-    - {name: Talve, tongue: sinale, built: [talve]}
-    - {name: Aelirosse, tongue: sinale}
-    - {name: Ethalosse, tongue: sinale}
-    - {name: Serenthale, tongue: sinale}
-    - {name: Vierka, tongue: sinale}
-    - {name: Dhargan, tongue: exonym:aelendi}
-    - {name: Nela, tongue: exonym:aelendi}
-    - {name: Nelgan, tongue: exonym:aelendi}
-    - {name: Tena, tongue: exonym:aelendi}
+    - {name: hauletta, tongue: sinale, built: [haule, -tta]}
+    - {name: lauva, tongue: older}
+    - {name: pilme, tongue: sinale, built: [pilme]}
+    - {name: lonku, tongue: sinale, built: [lonku]}
+    - {name: mallonna, tongue: older}
+    - {name: tehy, tongue: sinale, built: [tehy]}
+    - {name: talve, tongue: sinale, built: [talve]}
+    - {name: aelirosse, tongue: sinale}
+    - {name: ethalosse, tongue: sinale}
+    - {name: serenthale, tongue: sinale}
+    - {name: vierka, tongue: sinale}
+    - {name: dhargan, tongue: exonym:aelendi}
+    - {name: nela, tongue: exonym:aelendi}
+    - {name: nelgan, tongue: exonym:aelendi}
+    - {name: tena, tongue: exonym:aelendi}
   negation: {particle: ahi, mutation: wearing}
   naming: {shapes: [{of: given, syllables: {min: 2, max: 4}}]}
 sohl:

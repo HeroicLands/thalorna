@@ -1,0 +1,334 @@
+[
+    {
+        "language": "Atarzadi",
+        "file": "assets/content/Skills/Languages/Atarzadi.md",
+        "form": "shekhul",
+        "source": {
+            "form": "shekhul",
+            "class": "name",
+            "field": "Derived words",
+            "gloss": "elder of the flame: the senior priest of a major fire-temple; `Mobad` is retired",
+            "built": ["shekhul", "sighot"]
+        },
+        "sourceIndex": 37,
+        "ordinaryBefore": {
+            "form": "shekhul",
+            "class": "n",
+            "field": "Everyday speech",
+            "gloss": "flame",
+            "concept": "flame",
+            "built": ["shekhul"]
+        },
+        "target": {
+            "section": "register",
+            "entry": {
+                "name": "shekhul",
+                "tongue": "atarzadi",
+                "gloss": "elder of the flame: the senior priest of a major fire-temple; `Mobad` is retired",
+                "built": ["shekhul", "sighot"]
+            }
+        },
+        "ordinaryAfter": {
+            "form": "shekhul",
+            "class": "n",
+            "field": "Everyday speech",
+            "gloss": "flame",
+            "concept": "flame",
+            "built": ["shekhul"]
+        },
+        "retainedRole": "title/name",
+        "retainedField": "Derived words; body: ### Derived words"
+    },
+    {
+        "language": "Atarzadi",
+        "file": "assets/content/Skills/Languages/Atarzadi.md",
+        "form": "toqel",
+        "source": {
+            "form": "toqel",
+            "class": "name",
+            "field": "Derived words",
+            "gloss": "to keep: Keeper of the Unconsuming Flame",
+            "built": ["toqel"]
+        },
+        "sourceIndex": 7,
+        "ordinaryBefore": {
+            "form": "toqel",
+            "class": "v",
+            "field": "Everyday speech",
+            "gloss": "to hold, to keep",
+            "concept": "hold",
+            "built": ["toqel"]
+        },
+        "target": {
+            "section": "register",
+            "entry": {
+                "name": "toqel",
+                "tongue": "atarzadi",
+                "gloss": "to keep: Keeper of the Unconsuming Flame",
+                "built": ["toqel"]
+            }
+        },
+        "ordinaryAfter": {
+            "form": "toqel",
+            "class": "v",
+            "field": "Everyday speech",
+            "gloss": "to hold, to keep",
+            "concept": "hold",
+            "built": ["toqel"]
+        },
+        "retainedRole": "title/name",
+        "retainedField": "Derived words; body: ### Derived words"
+    },
+    {
+        "language": "Atarzadi",
+        "file": "assets/content/Skills/Languages/Atarzadi.md",
+        "form": "zhudek",
+        "source": {
+            "form": "zhudek",
+            "class": "name",
+            "field": "Derived words",
+            "gloss": "judge: the leader acclaimed in a crisis; `Dukhen` is retired",
+            "built": ["zhudek"]
+        },
+        "sourceIndex": 8,
+        "ordinaryBefore": {
+            "form": "zhudek",
+            "class": "n",
+            "field": "Everyday speech",
+            "gloss": "judge",
+            "built": ["zhudek"]
+        },
+        "target": {
+            "section": "register",
+            "entry": {
+                "name": "zhudek",
+                "tongue": "atarzadi",
+                "gloss": "judge: the leader acclaimed in a crisis; `Dukhen` is retired",
+                "built": ["zhudek"]
+            }
+        },
+        "ordinaryAfter": {
+            "form": "zhudek",
+            "class": "n",
+            "field": "Everyday speech",
+            "gloss": "judge",
+            "built": ["zhudek"]
+        },
+        "retainedRole": "title/name",
+        "retainedField": "Derived words; body: ### Derived words"
+    },
+    {
+        "language": "Atarzadi",
+        "file": "assets/content/Skills/Languages/Atarzadi.md",
+        "form": "rezhul",
+        "source": {
+            "form": "rezhul",
+            "class": "name",
+            "field": "Derived words",
+            "gloss": "prince of a tribe: a tribe's hereditary chieftain",
+            "built": ["rezhul"]
+        },
+        "sourceIndex": 9,
+        "ordinaryBefore": {
+            "form": "rezhul",
+            "class": "n",
+            "field": "Everyday speech",
+            "gloss": "prince of a tribe",
+            "built": ["rezhul"]
+        },
+        "target": {
+            "section": "register",
+            "entry": {
+                "name": "rezhul",
+                "tongue": "atarzadi",
+                "gloss": "prince of a tribe: a tribe's hereditary chieftain",
+                "built": ["rezhul"]
+            }
+        },
+        "ordinaryAfter": {
+            "form": "rezhul",
+            "class": "n",
+            "field": "Everyday speech",
+            "gloss": "prince of a tribe",
+            "built": ["rezhul"]
+        },
+        "retainedRole": "title/name",
+        "retainedField": "Derived words; body: ### Derived words"
+    },
+    {
+        "language": "Khelathi",
+        "file": "assets/content/Skills/Languages/Khelathi.md",
+        "form": "lekhau",
+        "source": {
+            "form": "lekhau",
+            "class": "stem",
+            "field": "Rank morphemes",
+            "gloss": "sacred power",
+            "native": [
+                {
+                    "text": "𞪓",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "sourceIndex": 16,
+        "ordinaryBefore": {
+            "form": "lekhau",
+            "class": "n",
+            "field": "Temple, arcane and cosmology",
+            "gloss": "sacred power",
+            "native": [
+                {
+                    "text": "𞪓",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "target": {
+            "section": "elements",
+            "entry": {
+                "form": "lekhau",
+                "sense": "sacred power",
+                "word": "lekhau"
+            }
+        },
+        "ordinaryAfter": {
+            "form": "lekhau",
+            "class": "n",
+            "field": "Temple, arcane and cosmology",
+            "gloss": "sacred power",
+            "native": [
+                {
+                    "text": "𞪓",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "retainedRole": "rank stem",
+        "retainedField": "Rank morphemes; body: ### Nominal System",
+        "nativeAuthority": [
+            {
+                "text": "𞪓",
+                "enc": "khelzethuenc"
+            }
+        ]
+    },
+    {
+        "language": "Khelathi",
+        "file": "assets/content/Skills/Languages/Khelathi.md",
+        "form": "nelgir",
+        "source": {
+            "form": "nelgir",
+            "class": "stem",
+            "field": "Rank morphemes",
+            "gloss": "god",
+            "native": [
+                {
+                    "text": "𞪑",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "sourceIndex": 15,
+        "ordinaryBefore": {
+            "form": "nelgir",
+            "class": "n",
+            "field": "Temple, arcane and cosmology",
+            "gloss": "god",
+            "native": [
+                {
+                    "text": "𞪑",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "target": {
+            "section": "elements",
+            "entry": {
+                "form": "nelgir",
+                "sense": "god",
+                "word": "nelgir"
+            }
+        },
+        "ordinaryAfter": {
+            "form": "nelgir",
+            "class": "n",
+            "field": "Temple, arcane and cosmology",
+            "gloss": "god",
+            "native": [
+                {
+                    "text": "𞪑",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "retainedRole": "rank stem",
+        "retainedField": "Rank morphemes; body: ### Nominal System",
+        "nativeAuthority": [
+            {
+                "text": "𞪑",
+                "enc": "khelzethuenc"
+            }
+        ]
+    },
+    {
+        "language": "Khelathi",
+        "file": "assets/content/Skills/Languages/Khelathi.md",
+        "form": "halzi",
+        "source": {
+            "form": "halzi",
+            "class": "stem",
+            "field": "Rank morphemes",
+            "gloss": "heart, and the account a heart answers for",
+            "native": [
+                {
+                    "text": "𞪻",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "sourceIndex": 17,
+        "ordinaryBefore": {
+            "form": "halzi",
+            "class": "n",
+            "field": "Temple, arcane and cosmology",
+            "gloss": "heart, account",
+            "concept": "heart",
+            "native": [
+                {
+                    "text": "𞪻",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "target": {
+            "section": "elements",
+            "entry": {
+                "form": "halzi",
+                "sense": "heart, and the account a heart answers for",
+                "word": "halzi"
+            }
+        },
+        "ordinaryAfter": {
+            "form": "halzi",
+            "class": "n",
+            "field": "Temple, arcane and cosmology",
+            "gloss": ["heart, account", "heart, and the account a heart answers for"],
+            "concept": "heart",
+            "native": [
+                {
+                    "text": "𞪻",
+                    "enc": "khelzethuenc"
+                }
+            ]
+        },
+        "retainedRole": "rank stem",
+        "retainedField": "Rank morphemes; body: ### Nominal System",
+        "nativeAuthority": [
+            {
+                "text": "𞪻",
+                "enc": "khelzethuenc"
+            }
+        ]
+    }
+]

@@ -1,530 +1,159 @@
 ---
-shortcode: mapqalezu
-name: {full: Qalezu Spelling, aliases: []}
+shortcode: atarqalezuenc
+name: {full: Atárzadi Qalezu Encoding, aliases: []}
 type: doc
 subType: reference
 data:
   packFolder: languages
-  map:
-    name: qalezu
-    rows:
-      - ["l", "𞨀"] # U+1EA00
-      - ["L", "𞨀"] # U+1EA00
-      - ["r", "𞨁"] # U+1EA01
-      - ["R", "𞨁"] # U+1EA01
-      - ["t", "𞨂"] # U+1EA02
-      - ["T", "𞨂"] # U+1EA02
-      - ["d", "𞨃"] # U+1EA03
-      - ["D", "𞨃"] # U+1EA03
-      - ["z", "𞨄"] # U+1EA04
-      - ["Z", "𞨄"] # U+1EA04
-      - ["s", "𞨅"] # U+1EA05
-      - ["S", "𞨅"] # U+1EA05
-      - ["g", "𞨆"] # U+1EA06
-      - ["G", "𞨆"] # U+1EA06
-      - ["k", "𞨇"] # U+1EA07
-      - ["K", "𞨇"] # U+1EA07
-      - ["n", "𞨈"] # U+1EA08
-      - ["N", "𞨈"] # U+1EA08
-      - ["m", "𞨊"] # U+1EA0A
-      - ["M", "𞨊"] # U+1EA0A
-      - ["q", "𞨋"] # U+1EA0B
-      - ["Q", "𞨋"] # U+1EA0B
-      - ["h", "𞨎"] # U+1EA0E
-      - ["H", "𞨎"] # U+1EA0E
-      - ["p", "𞨐"] # U+1EA10
-      - ["P", "𞨐"] # U+1EA10
-      - ["b", "𞨑"] # U+1EA11
-      - ["B", "𞨑"] # U+1EA11
-      - ["f", "𞨒"] # U+1EA12
-      - ["v", "𞨒"] # U+1EA12
-      - ["F", "𞨒"] # U+1EA12
-      - ["V", "𞨒"] # U+1EA12
-      - ["w", "𞨓"] # U+1EA13
-      - ["W", "𞨓"] # U+1EA13
-      - ["y", "𞨔"] # U+1EA14
-      - ["Y", "𞨔"] # U+1EA14
-      - ["th", "𞨉"] # U+1EA09
-      - ["tH", "𞨉"] # U+1EA09
-      - ["Th", "𞨉"] # U+1EA09
-      - ["TH", "𞨉"] # U+1EA09
-      - ["sh", "𞨏"] # U+1EA0F
-      - ["sH", "𞨏"] # U+1EA0F
-      - ["Sh", "𞨏"] # U+1EA0F
-      - ["SH", "𞨏"] # U+1EA0F
-      - ["kh", "𞨌"] # U+1EA0C
-      - ["kH", "𞨌"] # U+1EA0C
-      - ["Kh", "𞨌"] # U+1EA0C
-      - ["KH", "𞨌"] # U+1EA0C
-      - ["gh", "𞨍"] # U+1EA0D
-      - ["gH", "𞨍"] # U+1EA0D
-      - ["Gh", "𞨍"] # U+1EA0D
-      - ["GH", "𞨍"] # U+1EA0D
-      - ["ch", "𞨖"] # U+1EA16
-      - ["J", "𞨖"] # U+1EA16
-      - ["j", "𞨖"] # U+1EA16
-      - ["cH", "𞨖"] # U+1EA16
-      - ["Ch", "𞨖"] # U+1EA16
-      - ["CH", "𞨖"] # U+1EA16
-      - ["tj", "𞨖"] # U+1EA16
-      - ["tJ", "𞨖"] # U+1EA16
-      - ["Tj", "𞨖"] # U+1EA16
-      - ["TJ", "𞨖"] # U+1EA16
-      - ["ll", "𞨗"] # U+1EA17
-      - ["lL", "𞨗"] # U+1EA17
-      - ["Ll", "𞨗"] # U+1EA17
-      - ["LL", "𞨗"] # U+1EA17
-      - ["rr", "𞨘"] # U+1EA18
-      - ["rR", "𞨘"] # U+1EA18
-      - ["Rr", "𞨘"] # U+1EA18
-      - ["RR", "𞨘"] # U+1EA18
-      - ["tt", "𞨙"] # U+1EA19
-      - ["tT", "𞨙"] # U+1EA19
-      - ["Tt", "𞨙"] # U+1EA19
-      - ["TT", "𞨙"] # U+1EA19
-      - ["dd", "𞨚"] # U+1EA1A
-      - ["dD", "𞨚"] # U+1EA1A
-      - ["Dd", "𞨚"] # U+1EA1A
-      - ["DD", "𞨚"] # U+1EA1A
-      - ["zz", "𞨛"] # U+1EA1B
-      - ["zZ", "𞨛"] # U+1EA1B
-      - ["Zz", "𞨛"] # U+1EA1B
-      - ["ZZ", "𞨛"] # U+1EA1B
-      - ["ss", "𞨜"] # U+1EA1C
-      - ["sS", "𞨜"] # U+1EA1C
-      - ["Ss", "𞨜"] # U+1EA1C
-      - ["SS", "𞨜"] # U+1EA1C
-      - ["gg", "𞨝"] # U+1EA1D
-      - ["gG", "𞨝"] # U+1EA1D
-      - ["Gg", "𞨝"] # U+1EA1D
-      - ["GG", "𞨝"] # U+1EA1D
-      - ["kk", "𞨞"] # U+1EA1E
-      - ["kK", "𞨞"] # U+1EA1E
-      - ["Kk", "𞨞"] # U+1EA1E
-      - ["KK", "𞨞"] # U+1EA1E
-      - ["nn", "𞨟"] # U+1EA1F
-      - ["nN", "𞨟"] # U+1EA1F
-      - ["Nn", "𞨟"] # U+1EA1F
-      - ["NN", "𞨟"] # U+1EA1F
-      - ["mm", "𞨡"] # U+1EA21
-      - ["mM", "𞨡"] # U+1EA21
-      - ["Mm", "𞨡"] # U+1EA21
-      - ["MM", "𞨡"] # U+1EA21
-      - ["qq", "𞨢"] # U+1EA22
-      - ["qQ", "𞨢"] # U+1EA22
-      - ["Qq", "𞨢"] # U+1EA22
-      - ["QQ", "𞨢"] # U+1EA22
-      - ["hh", "𞨥"] # U+1EA25
-      - ["hH", "𞨥"] # U+1EA25
-      - ["Hh", "𞨥"] # U+1EA25
-      - ["HH", "𞨥"] # U+1EA25
-      - ["pp", "𞨧"] # U+1EA27
-      - ["pP", "𞨧"] # U+1EA27
-      - ["Pp", "𞨧"] # U+1EA27
-      - ["PP", "𞨧"] # U+1EA27
-      - ["bb", "𞨨"] # U+1EA28
-      - ["bB", "𞨨"] # U+1EA28
-      - ["Bb", "𞨨"] # U+1EA28
-      - ["BB", "𞨨"] # U+1EA28
-      - ["ff", "𞨩"] # U+1EA29
-      - ["fv", "𞨩"] # U+1EA29
-      - ["vf", "𞨩"] # U+1EA29
-      - ["vv", "𞨩"] # U+1EA29
-      - ["fF", "𞨩"] # U+1EA29
-      - ["fV", "𞨩"] # U+1EA29
-      - ["vF", "𞨩"] # U+1EA29
-      - ["vV", "𞨩"] # U+1EA29
-      - ["Ff", "𞨩"] # U+1EA29
-      - ["Fv", "𞨩"] # U+1EA29
-      - ["Vf", "𞨩"] # U+1EA29
-      - ["Vv", "𞨩"] # U+1EA29
-      - ["FF", "𞨩"] # U+1EA29
-      - ["FV", "𞨩"] # U+1EA29
-      - ["VF", "𞨩"] # U+1EA29
-      - ["VV", "𞨩"] # U+1EA29
-      - ["ww", "𞨪"] # U+1EA2A
-      - ["wW", "𞨪"] # U+1EA2A
-      - ["Ww", "𞨪"] # U+1EA2A
-      - ["WW", "𞨪"] # U+1EA2A
-      - ["yy", "𞨫"] # U+1EA2B
-      - ["yY", "𞨫"] # U+1EA2B
-      - ["Yy", "𞨫"] # U+1EA2B
-      - ["YY", "𞨫"] # U+1EA2B
-      - ["tth", "𞨠"] # U+1EA20
-      - ["ttH", "𞨠"] # U+1EA20
-      - ["tTh", "𞨠"] # U+1EA20
-      - ["tTH", "𞨠"] # U+1EA20
-      - ["Tth", "𞨠"] # U+1EA20
-      - ["TtH", "𞨠"] # U+1EA20
-      - ["TTh", "𞨠"] # U+1EA20
-      - ["TTH", "𞨠"] # U+1EA20
-      - ["ssh", "𞨦"] # U+1EA26
-      - ["ssH", "𞨦"] # U+1EA26
-      - ["sSh", "𞨦"] # U+1EA26
-      - ["sSH", "𞨦"] # U+1EA26
-      - ["Ssh", "𞨦"] # U+1EA26
-      - ["SsH", "𞨦"] # U+1EA26
-      - ["SSh", "𞨦"] # U+1EA26
-      - ["SSH", "𞨦"] # U+1EA26
-      - ["kkh", "𞨣"] # U+1EA23
-      - ["kkH", "𞨣"] # U+1EA23
-      - ["kKh", "𞨣"] # U+1EA23
-      - ["kKH", "𞨣"] # U+1EA23
-      - ["Kkh", "𞨣"] # U+1EA23
-      - ["KkH", "𞨣"] # U+1EA23
-      - ["KKh", "𞨣"] # U+1EA23
-      - ["KKH", "𞨣"] # U+1EA23
-      - ["ggh", "𞨤"] # U+1EA24
-      - ["ggH", "𞨤"] # U+1EA24
-      - ["gGh", "𞨤"] # U+1EA24
-      - ["gGH", "𞨤"] # U+1EA24
-      - ["Ggh", "𞨤"] # U+1EA24
-      - ["GgH", "𞨤"] # U+1EA24
-      - ["GGh", "𞨤"] # U+1EA24
-      - ["GGH", "𞨤"] # U+1EA24
-      - ["cch", "𞨬"] # U+1EA2C
-      - ["JJ", "𞨬"] # U+1EA2C
-      - ["Jj", "𞨬"] # U+1EA2C
-      - ["jJ", "𞨬"] # U+1EA2C
-      - ["jj", "𞨬"] # U+1EA2C
-      - ["ccH", "𞨬"] # U+1EA2C
-      - ["cCh", "𞨬"] # U+1EA2C
-      - ["cCH", "𞨬"] # U+1EA2C
-      - ["Cch", "𞨬"] # U+1EA2C
-      - ["CcH", "𞨬"] # U+1EA2C
-      - ["CCh", "𞨬"] # U+1EA2C
-      - ["CCH", "𞨬"] # U+1EA2C
-      - ["ttj", "𞨬"] # U+1EA2C
-      - ["ttJ", "𞨬"] # U+1EA2C
-      - ["tTj", "𞨬"] # U+1EA2C
-      - ["tTJ", "𞨬"] # U+1EA2C
-      - ["Ttj", "𞨬"] # U+1EA2C
-      - ["TtJ", "𞨬"] # U+1EA2C
-      - ["TTj", "𞨬"] # U+1EA2C
-      - ["TTJ", "𞨬"] # U+1EA2C
-      - ["thth", "𞨠"] # U+1EA20
-      - ["thtH", "𞨠"] # U+1EA20
-      - ["thTh", "𞨠"] # U+1EA20
-      - ["thTH", "𞨠"] # U+1EA20
-      - ["tHth", "𞨠"] # U+1EA20
-      - ["tHtH", "𞨠"] # U+1EA20
-      - ["tHTh", "𞨠"] # U+1EA20
-      - ["tHTH", "𞨠"] # U+1EA20
-      - ["Thth", "𞨠"] # U+1EA20
-      - ["ThtH", "𞨠"] # U+1EA20
-      - ["ThTh", "𞨠"] # U+1EA20
-      - ["ThTH", "𞨠"] # U+1EA20
-      - ["THth", "𞨠"] # U+1EA20
-      - ["THtH", "𞨠"] # U+1EA20
-      - ["THTh", "𞨠"] # U+1EA20
-      - ["THTH", "𞨠"] # U+1EA20
-      - ["shsh", "𞨦"] # U+1EA26
-      - ["shsH", "𞨦"] # U+1EA26
-      - ["shSh", "𞨦"] # U+1EA26
-      - ["shSH", "𞨦"] # U+1EA26
-      - ["sHsh", "𞨦"] # U+1EA26
-      - ["sHsH", "𞨦"] # U+1EA26
-      - ["sHSh", "𞨦"] # U+1EA26
-      - ["sHSH", "𞨦"] # U+1EA26
-      - ["Shsh", "𞨦"] # U+1EA26
-      - ["ShsH", "𞨦"] # U+1EA26
-      - ["ShSh", "𞨦"] # U+1EA26
-      - ["ShSH", "𞨦"] # U+1EA26
-      - ["SHsh", "𞨦"] # U+1EA26
-      - ["SHsH", "𞨦"] # U+1EA26
-      - ["SHSh", "𞨦"] # U+1EA26
-      - ["SHSH", "𞨦"] # U+1EA26
-      - ["khkh", "𞨣"] # U+1EA23
-      - ["khkH", "𞨣"] # U+1EA23
-      - ["khKh", "𞨣"] # U+1EA23
-      - ["khKH", "𞨣"] # U+1EA23
-      - ["kHkh", "𞨣"] # U+1EA23
-      - ["kHkH", "𞨣"] # U+1EA23
-      - ["kHKh", "𞨣"] # U+1EA23
-      - ["kHKH", "𞨣"] # U+1EA23
-      - ["Khkh", "𞨣"] # U+1EA23
-      - ["KhkH", "𞨣"] # U+1EA23
-      - ["KhKh", "𞨣"] # U+1EA23
-      - ["KhKH", "𞨣"] # U+1EA23
-      - ["KHkh", "𞨣"] # U+1EA23
-      - ["KHkH", "𞨣"] # U+1EA23
-      - ["KHKh", "𞨣"] # U+1EA23
-      - ["KHKH", "𞨣"] # U+1EA23
-      - ["ghgh", "𞨤"] # U+1EA24
-      - ["ghgH", "𞨤"] # U+1EA24
-      - ["ghGh", "𞨤"] # U+1EA24
-      - ["ghGH", "𞨤"] # U+1EA24
-      - ["gHgh", "𞨤"] # U+1EA24
-      - ["gHgH", "𞨤"] # U+1EA24
-      - ["gHGh", "𞨤"] # U+1EA24
-      - ["gHGH", "𞨤"] # U+1EA24
-      - ["Ghgh", "𞨤"] # U+1EA24
-      - ["GhgH", "𞨤"] # U+1EA24
-      - ["GhGh", "𞨤"] # U+1EA24
-      - ["GhGH", "𞨤"] # U+1EA24
-      - ["GHgh", "𞨤"] # U+1EA24
-      - ["GHgH", "𞨤"] # U+1EA24
-      - ["GHGh", "𞨤"] # U+1EA24
-      - ["GHGH", "𞨤"] # U+1EA24
-      - ["chch", "𞨬"] # U+1EA2C
-      - ["Jch", "𞨬"] # U+1EA2C
-      - ["chJ", "𞨬"] # U+1EA2C
-      - ["chj", "𞨬"] # U+1EA2C
-      - ["jch", "𞨬"] # U+1EA2C
-      - ["chcH", "𞨬"] # U+1EA2C
-      - ["JcH", "𞨬"] # U+1EA2C
-      - ["jcH", "𞨬"] # U+1EA2C
-      - ["chCh", "𞨬"] # U+1EA2C
-      - ["JCh", "𞨬"] # U+1EA2C
-      - ["jCh", "𞨬"] # U+1EA2C
-      - ["chCH", "𞨬"] # U+1EA2C
-      - ["JCH", "𞨬"] # U+1EA2C
-      - ["jCH", "𞨬"] # U+1EA2C
-      - ["cHch", "𞨬"] # U+1EA2C
-      - ["cHJ", "𞨬"] # U+1EA2C
-      - ["cHj", "𞨬"] # U+1EA2C
-      - ["cHcH", "𞨬"] # U+1EA2C
-      - ["cHCh", "𞨬"] # U+1EA2C
-      - ["cHCH", "𞨬"] # U+1EA2C
-      - ["Chch", "𞨬"] # U+1EA2C
-      - ["ChJ", "𞨬"] # U+1EA2C
-      - ["Chj", "𞨬"] # U+1EA2C
-      - ["ChcH", "𞨬"] # U+1EA2C
-      - ["ChCh", "𞨬"] # U+1EA2C
-      - ["ChCH", "𞨬"] # U+1EA2C
-      - ["CHch", "𞨬"] # U+1EA2C
-      - ["CHJ", "𞨬"] # U+1EA2C
-      - ["CHj", "𞨬"] # U+1EA2C
-      - ["CHcH", "𞨬"] # U+1EA2C
-      - ["CHCh", "𞨬"] # U+1EA2C
-      - ["CHCH", "𞨬"] # U+1EA2C
-      - ["chtj", "𞨬"] # U+1EA2C
-      - ["Jtj", "𞨬"] # U+1EA2C
-      - ["jtj", "𞨬"] # U+1EA2C
-      - ["chtJ", "𞨬"] # U+1EA2C
-      - ["JtJ", "𞨬"] # U+1EA2C
-      - ["jtJ", "𞨬"] # U+1EA2C
-      - ["chTj", "𞨬"] # U+1EA2C
-      - ["JTj", "𞨬"] # U+1EA2C
-      - ["jTj", "𞨬"] # U+1EA2C
-      - ["chTJ", "𞨬"] # U+1EA2C
-      - ["JTJ", "𞨬"] # U+1EA2C
-      - ["jTJ", "𞨬"] # U+1EA2C
-      - ["cHtj", "𞨬"] # U+1EA2C
-      - ["cHtJ", "𞨬"] # U+1EA2C
-      - ["cHTj", "𞨬"] # U+1EA2C
-      - ["cHTJ", "𞨬"] # U+1EA2C
-      - ["Chtj", "𞨬"] # U+1EA2C
-      - ["ChtJ", "𞨬"] # U+1EA2C
-      - ["ChTj", "𞨬"] # U+1EA2C
-      - ["ChTJ", "𞨬"] # U+1EA2C
-      - ["CHtj", "𞨬"] # U+1EA2C
-      - ["CHtJ", "𞨬"] # U+1EA2C
-      - ["CHTj", "𞨬"] # U+1EA2C
-      - ["CHTJ", "𞨬"] # U+1EA2C
-      - ["tjch", "𞨬"] # U+1EA2C
-      - ["tjJ", "𞨬"] # U+1EA2C
-      - ["tjj", "𞨬"] # U+1EA2C
-      - ["tjcH", "𞨬"] # U+1EA2C
-      - ["tjCh", "𞨬"] # U+1EA2C
-      - ["tjCH", "𞨬"] # U+1EA2C
-      - ["tJch", "𞨬"] # U+1EA2C
-      - ["tJJ", "𞨬"] # U+1EA2C
-      - ["tJj", "𞨬"] # U+1EA2C
-      - ["tJcH", "𞨬"] # U+1EA2C
-      - ["tJCh", "𞨬"] # U+1EA2C
-      - ["tJCH", "𞨬"] # U+1EA2C
-      - ["Tjch", "𞨬"] # U+1EA2C
-      - ["TjJ", "𞨬"] # U+1EA2C
-      - ["Tjj", "𞨬"] # U+1EA2C
-      - ["TjcH", "𞨬"] # U+1EA2C
-      - ["TjCh", "𞨬"] # U+1EA2C
-      - ["TjCH", "𞨬"] # U+1EA2C
-      - ["TJch", "𞨬"] # U+1EA2C
-      - ["TJJ", "𞨬"] # U+1EA2C
-      - ["TJj", "𞨬"] # U+1EA2C
-      - ["TJcH", "𞨬"] # U+1EA2C
-      - ["TJCh", "𞨬"] # U+1EA2C
-      - ["TJCH", "𞨬"] # U+1EA2C
-      - ["tjtj", "𞨬"] # U+1EA2C
-      - ["tjtJ", "𞨬"] # U+1EA2C
-      - ["tjTj", "𞨬"] # U+1EA2C
-      - ["tjTJ", "𞨬"] # U+1EA2C
-      - ["tJtj", "𞨬"] # U+1EA2C
-      - ["tJtJ", "𞨬"] # U+1EA2C
-      - ["tJTj", "𞨬"] # U+1EA2C
-      - ["tJTJ", "𞨬"] # U+1EA2C
-      - ["Tjtj", "𞨬"] # U+1EA2C
-      - ["TjtJ", "𞨬"] # U+1EA2C
-      - ["TjTj", "𞨬"] # U+1EA2C
-      - ["TjTJ", "𞨬"] # U+1EA2C
-      - ["TJtj", "𞨬"] # U+1EA2C
-      - ["TJtJ", "𞨬"] # U+1EA2C
-      - ["TJTj", "𞨬"] # U+1EA2C
-      - ["TJTJ", "𞨬"] # U+1EA2C
-      - ["ttth", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["tttH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["ttTh", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["ttTH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["tTth", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["tTtH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["tTTh", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["tTTH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["Ttth", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TttH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TtTh", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TtTH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TTth", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TTtH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TTTh", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["TTTH", "𞨂𞨠"] # U+1EA02 U+1EA20
-      - ["sssh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["sssH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["ssSh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["ssSH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["sSsh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["sSsH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["sSSh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["sSSH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["Sssh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SssH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SsSh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SsSH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SSsh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SSsH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SSSh", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["SSSH", "𞨅𞨦"] # U+1EA05 U+1EA26
-      - ["kkkh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kkkH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kkKh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kkKH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kKkh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kKkH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kKKh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["kKKH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["Kkkh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KkkH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KkKh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KkKH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KKkh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KKkH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KKKh", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["KKKH", "𞨇𞨣"] # U+1EA07 U+1EA23
-      - ["gggh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["gggH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["ggGh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["ggGH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["gGgh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["gGgH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["gGGh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["gGGH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["Gggh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GggH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GgGh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GgGH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GGgh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GGgH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GGGh", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["GGGH", "𞨆𞨤"] # U+1EA06 U+1EA24
-      - ["tttj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["tttJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["ttTj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["ttTJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["tTtj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["tTtJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["tTTj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["tTTJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["Tttj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TttJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TtTj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TtTJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TTtj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TTtJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TTTj", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - ["TTTJ", "𞨂𞨬"] # U+1EA02 U+1EA2C
-      - {from: "a", to: "𞨕", at: start} # U+1EA15
-      - ["a", ""]
-      - {from: "A", to: "𞨕", at: start} # U+1EA15
-      - ["A", ""]
-      - {from: "e", to: "𞨕", at: start} # U+1EA15
-      - {from: "ë", to: "𞨕", at: start} # U+1EA15
-      - ["e", ""]
-      - ["ë", ""]
-      - {from: "E", to: "𞨕", at: start} # U+1EA15
-      - {from: "Ë", to: "𞨕", at: start} # U+1EA15
-      - ["E", ""]
-      - ["Ë", ""]
-      - {from: "i", to: "𞨕", at: start} # U+1EA15
-      - ["i", ""]
-      - {from: "I", to: "𞨕", at: start} # U+1EA15
-      - ["I", ""]
-      - {from: "o", to: "𞨕", at: start} # U+1EA15
-      - ["o", ""]
-      - {from: "O", to: "𞨕", at: start} # U+1EA15
-      - ["O", ""]
-      - {from: "u", to: "𞨕", at: start} # U+1EA15
-      - ["u", ""]
-      - {from: "U", to: "𞨕", at: start} # U+1EA15
-      - ["U", ""]
-      - ["'", "𞨕"] # U+1EA15
-      - ["'a", "𞨕"] # U+1EA15
-      - ["'A", "𞨕"] # U+1EA15
-      - ["'e", "𞨕"] # U+1EA15
-      - ["'ë", "𞨕"] # U+1EA15
-      - ["'E", "𞨕"] # U+1EA15
-      - ["'Ë", "𞨕"] # U+1EA15
-      - ["'i", "𞨕"] # U+1EA15
-      - ["'I", "𞨕"] # U+1EA15
-      - ["'o", "𞨕"] # U+1EA15
-      - ["'O", "𞨕"] # U+1EA15
-      - ["'u", "𞨕"] # U+1EA15
-      - ["'U", "𞨕"] # U+1EA15
-      - ["’", "𞨕"] # U+1EA15
-      - ["’a", "𞨕"] # U+1EA15
-      - ["’A", "𞨕"] # U+1EA15
-      - ["’e", "𞨕"] # U+1EA15
-      - ["’ë", "𞨕"] # U+1EA15
-      - ["’E", "𞨕"] # U+1EA15
-      - ["’Ë", "𞨕"] # U+1EA15
-      - ["’i", "𞨕"] # U+1EA15
-      - ["’I", "𞨕"] # U+1EA15
-      - ["’o", "𞨕"] # U+1EA15
-      - ["’O", "𞨕"] # U+1EA15
-      - ["’u", "𞨕"] # U+1EA15
-      - ["’U", "𞨕"] # U+1EA15
-      - {from: "-", to: "", at: end}
-      - ["-", " "] # U+0020
-      - ["0", "𞨭"] # U+1EA2D
-      - ["1", "𞨮"] # U+1EA2E
-      - ["2", "𞨯"] # U+1EA2F
-      - ["3", "𞨰"] # U+1EA30
-      - ["4", "𞨱"] # U+1EA31
-      - ["5", "𞨲"] # U+1EA32
-      - ["6", "𞨳"] # U+1EA33
-      - ["7", "𞨴"] # U+1EA34
-      - ["8", "𞨵"] # U+1EA35
-      - ["9", "𞨶"] # U+1EA36
-      - [".", "𞨷"] # U+1EA37
-      - [",", "𞨸"] # U+1EA38
-      - ["·", "𞨹"] # U+1EA39
-    fonts: [{font: qalezu-hand}]
+  language: atar
+  font: qalezu-hand
+  mappings:
+    "0": DIGIT_ZERO
+    "1": DIGIT_ONE
+    "2": DIGIT_TWO
+    "3": DIGIT_THREE
+    "4": DIGIT_FOUR
+    "5": DIGIT_FIVE
+    "6": DIGIT_SIX
+    "7": DIGIT_SEVEN
+    "8": DIGIT_EIGHT
+    "9": DIGIT_NINE
+    l: LAGUN
+    r: RETHU
+    t: TULAZ
+    d: DURAS
+    z: ZAGUL
+    s: SELQUR
+    g: GITHAR
+    k: KA
+    n: NELGIR
+    m: MELNU
+    q: QENUWA
+    h: HALZI
+    p: PA
+    b: BA
+    f: FA
+    v: FA
+    w: WALIR
+    y: YA
+    th: THELQEN
+    sh: SHENULET
+    kh: KHA
+    gh: GHA
+    ch: TJA
+    j: TJA
+    tj: TJA
+    ll: LAGUN_DBL
+    rr: RETHU_DBL
+    tt: TULAZ_DBL
+    dd: DURAS_DBL
+    zz: ZAGUL_DBL
+    ss: SELQUR_DBL
+    gg: GITHAR_DBL
+    kk: KA_DBL
+    nn: NELGIR_DBL
+    mm: MELNU_DBL
+    qq: QENUWA_DBL
+    hh: HALZI_DBL
+    pp: PA_DBL
+    bb: BA_DBL
+    ff: FA_DBL
+    fv: FA_DBL
+    vf: FA_DBL
+    vv: FA_DBL
+    ww: WALIR_DBL
+    yy: YA_DBL
+    tth: THELQEN_DBL
+    ssh: SHENULET_DBL
+    kkh: KHA_DBL
+    ggh: GHA_DBL
+    cch: TJA_DBL
+    jj: TJA_DBL
+    ttj: TJA_DBL
+    thth: THELQEN_DBL
+    shsh: SHENULET_DBL
+    khkh: KHA_DBL
+    ghgh: GHA_DBL
+    chch: TJA_DBL
+    jch: TJA_DBL
+    chj: TJA_DBL
+    chtj: TJA_DBL
+    jtj: TJA_DBL
+    tjch: TJA_DBL
+    tjj: TJA_DBL
+    tjtj: TJA_DBL
+    ttth: [TULAZ, THELQEN_DBL]
+    sssh: [SELQUR, SHENULET_DBL]
+    kkkh: [KA, KHA_DBL]
+    gggh: [GITHAR, GHA_DBL]
+    tttj: [TULAZ, TJA_DBL]
+    a: []
+    e: []
+    ë: []
+    i: []
+    o: []
+    u: []
+    á: []
+    é: []
+    í: []
+    ó: []
+    ú: []
+    "'": CATCH
+    "'a": CATCH
+    "'e": CATCH
+    "'ë": CATCH
+    "'i": CATCH
+    "'o": CATCH
+    "'u": CATCH
+    "'á": CATCH
+    "'é": CATCH
+    "'í": CATCH
+    "'ó": CATCH
+    "'ú": CATCH
+    ’: CATCH
+    ’a: CATCH
+    ’e: CATCH
+    ’ë: CATCH
+    ’i: CATCH
+    ’o: CATCH
+    ’u: CATCH
+    ’á: CATCH
+    ’é: CATCH
+    ’í: CATCH
+    ’ó: CATCH
+    ’ú: CATCH
+    ·: VERSE
+  rules:
+    normalization: NFC
+    matching: longest-first
+    roundTrip: canonical
+    contextual-mappings:
+      - {match: a, at: start, emit: CATCH}
+      - {match: e, at: start, emit: CATCH}
+      - {match: ë, at: start, emit: CATCH}
+      - {match: i, at: start, emit: CATCH}
+      - {match: o, at: start, emit: CATCH}
+      - {match: u, at: start, emit: CATCH}
+      - {match: á, at: start, emit: CATCH}
+      - {match: é, at: start, emit: CATCH}
+      - {match: í, at: start, emit: CATCH}
+      - {match: ó, at: start, emit: CATCH}
+      - {match: ú, at: start, emit: CATCH}
+      - {match: "-", at: end, emit: []}
+    word-separators: ["-"]
 ---
 
-Qalezu Spelling writes the roman spelling of [[doc-prnncthlrn|Pronouncing Thalorna]] in the [[skill-qalzscrscrpt|Qalezu]] alphabet, in Qalezu Hand. A passage marked with `map=qalezu` is converted by the rows of this note before it is set, so the note's source stays in roman letters and the page shows the script, running right to left.
-
-```text
-[Anlagh]{lang=khel font=qalezu-hand map=qalezu}
-```
+This encoding writes [[skill-atarzadilng|Atárzadi]] in qalezu-hand. A passage selects it with `enc=atarqalezuenc`. The note supplies its language and font. Roman word spaces are retained. Decoding returns a conventional spelling where spellings share a sign.
 
 ## From the Spelling Guide to Qalezu
 
 Qalezu writes consonants. A reader supplies the vowels from the word.
 
-- **Each consonant is its sign**, and case is not written.
+- **Each consonant is its sign**, and its Roman spelling is lowercase.
 - **The digraphs are one sign each:** _th_, _sh_, _kh_ and _gh_, and _ch_ and _tj_, which are the same sign. _j_ is that sign too.
 - **_v_ is the sign of _f_**, and **_ë_ is the vowel _e_**.
 - **A consonant written twice** with no vowel between is that sign's doubled form, and so is a letter doubled before a digraph that begins with it (_tth_).
-- **A vowel is not written**, except at the start of a word, where it is the catch.
+- **A vowel is not written**, and neither is the acute that marks its stress in the roman, except at the start of a word, where it is the catch.
 - **The catch** is `'` or `’`.
 - **A catch before a sign** is that sign's catch-before form, three reed dabs in a triangle over the sign. This holds with one unwritten vowel between them as well, before a single sign or a digraph, as in _Qe'aret_. Any other catch stands alone.
 - **A hyphen is a word space**, and at the end of a word it writes nothing, as in the prefix _Gar-_.
@@ -532,4 +161,6 @@ Qalezu writes consonants. A reader supplies the vowels from the word.
 
 Qalezu Hand draws each doubled form as a character of its own, so the rows write it. The rows write a catch as the catch and a sign as itself, and the face draws a catch and the sign after it as the catch-before form.
 
-_x_, _c_ outside _ch_ and any other character the script lacks pass through unchanged, and the face prints the box for them.
+Characters outside the declared Roman inventory are refused.
+
+Punctuation, quotation marks, verse boundaries and name marks follow the shared Roman standard. Literal glyph codes between `⟦` and `⟧` select the font’s signs directly.

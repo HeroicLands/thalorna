@@ -6,339 +6,343 @@ subType: language
 description: "The hardy, runic-scripted tongue of the five Nordmen kingdoms, bending its vowels with every fjord."
 tags: []
 data:
-  roman: "abdefghijklmnoprstuvyzABDEFGHIJKLMNOPRSTUVYZáéíóúÁÉÍÓÚ0123456789.-"
+  roman: "abdefghijklmnoprstuvyzáéíóú0123456789-"
   core: true
   abbreviation: Nord.
-  writtenIn: {map: thuravark, font: thuravark-carved}
   sounds: {stress: {two: first, longer: first}}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
   names:
     pattern:
-      male: ["{given} {clan}", "{given} {given.male}sen", "{given}", "{given} the {epithet}"]
-      female: ["{given} {clan}", "{given} {given.male}dottir", "{given}", "{given} the {epithet}"]
+      male: ["{given} {clan}", "{given} {given.male}sen", "{given}", "{given} the {en.epithet}"]
+      female:
+        - "{given} {clan}"
+        - "{given} {given.male}dottir"
+        - "{given}"
+        - "{given} the {en.epithet}"
     given:
       female:
-        - "Althselda"
-        - "Braldrinna"
-        - "Brildselda"
-        - "Bruldthira"
-        - "Draskselda"
-        - "Driskthira"
-        - "Druskinda"
-        - "Dvalgselda"
-        - "Dvarnrinna"
-        - "Dvilgthira"
-        - "Dvirnselda"
-        - "Dvulginda"
-        - "Dvurnthira"
-        - "Anthinda"
-        - "Flarnthira"
-        - "Flirninda"
-        - "Flurnrinna"
-        - "Glarvinda"
-        - "Glirvrinna"
-        - "Glurvselda"
-        - "Gnaldrinna"
-        - "Gnarthinda"
-        - "Gnildurselda"
-        - "Gnirthrinna"
-        - "Gnuldurthira"
-        - "Gnurthselda"
-        - "Hlarthrinna"
-        - "Hlaskinda"
-        - "Hlirthselda"
-        - "Hliskrinna"
-        - "Hlurthira"
-        - "Hluskselda"
-        - "Hnarvrinna"
-        - "Hnirvselda"
-        - "Hnurvthira"
-        - "Hrandinda"
-        - "Hrindrinna"
-        - "Hrundselda"
-        - "Hvalgselda"
-        - "Hvarnthira"
-        - "Hvilgthira"
-        - "Hvirninda"
-        - "Hvulginda"
-        - "Hvurnrinna"
-        - "Ilthira"
-        - "Inthrinna"
-        - "Knalthira"
-        - "Knarvselda"
-        - "Knilthinda"
-        - "Knirvthira"
-        - "Knulthrinna"
-        - "Knurvinda"
-        - "Kraldselda"
-        - "Krildthira"
-        - "Kruldinda"
-        - "Marvinda"
-        - "Mirvrinna"
-        - "Murvselda"
-        - "Nalthrinna"
-        - "Nilthselda"
-        - "Nulthira"
-        - "Ralthira"
-        - "Rilthinda"
-        - "Rulthrinna"
-        - "Skalfinda"
-        - "Skilfrinna"
-        - "Skraldrinna"
-        - "Skrildselda"
-        - "Skruldthira"
-        - "Skulfselda"
-        - "Snalthselda"
-        - "Snarvthira"
-        - "Snilthira"
-        - "Snirvinda"
-        - "Snulthinda"
-        - "Snurvrinna"
-        - "Svalthrinna"
-        - "Svilthselda"
-        - "Svulthira"
-        - "Thalmthira"
-        - "Thilminda"
-        - "Thraldinda"
-        - "Thraskrinna"
-        - "Thrildrinna"
-        - "Thriskselda"
-        - "Thruldselda"
-        - "Thruskthira"
-        - "Thulmrinna"
-        - "Tvalgthira"
-        - "Tvarninda"
-        - "Tvilginda"
-        - "Tvirnrinna"
-        - "Tvulgrinna"
-        - "Tvurnselda"
-        - "Ulthinda"
-        - "Unthselda"
-        - "Vraldselda"
-        - "Vrathira"
-        - "Vrildthira"
-        - "Vrithinda"
-        - "Vruldinda"
-        - "Vruthrinna"
+        - "althselda"
+        - "braldrinna"
+        - "brildselda"
+        - "bruldthira"
+        - "draskselda"
+        - "driskthira"
+        - "druskinda"
+        - "dvalgselda"
+        - "dvarnrinna"
+        - "dvilgthira"
+        - "dvirnselda"
+        - "dvulginda"
+        - "dvurnthira"
+        - "anthinda"
+        - "flarnthira"
+        - "flirninda"
+        - "flurnrinna"
+        - "glarvinda"
+        - "glirvrinna"
+        - "glurvselda"
+        - "gnaldrinna"
+        - "gnarthinda"
+        - "gnildurselda"
+        - "gnirthrinna"
+        - "gnuldurthira"
+        - "gnurthselda"
+        - "hlarthrinna"
+        - "hlaskinda"
+        - "hlirthselda"
+        - "hliskrinna"
+        - "hlurthira"
+        - "hluskselda"
+        - "hnarvrinna"
+        - "hnirvselda"
+        - "hnurvthira"
+        - "hrandinda"
+        - "hrindrinna"
+        - "hrundselda"
+        - "hvalgselda"
+        - "hvarnthira"
+        - "hvilgthira"
+        - "hvirninda"
+        - "hvulginda"
+        - "hvurnrinna"
+        - "ilthira"
+        - "inthrinna"
+        - "knalthira"
+        - "knarvselda"
+        - "knilthinda"
+        - "knirvthira"
+        - "knulthrinna"
+        - "knurvinda"
+        - "kraldselda"
+        - "krildthira"
+        - "kruldinda"
+        - "marvinda"
+        - "mirvrinna"
+        - "murvselda"
+        - "nalthrinna"
+        - "nilthselda"
+        - "nulthira"
+        - "ralthira"
+        - "rilthinda"
+        - "rulthrinna"
+        - "skalfinda"
+        - "skilfrinna"
+        - "skraldrinna"
+        - "skrildselda"
+        - "skruldthira"
+        - "skulfselda"
+        - "snalthselda"
+        - "snarvthira"
+        - "snilthira"
+        - "snirvinda"
+        - "snulthinda"
+        - "snurvrinna"
+        - "svalthrinna"
+        - "svilthselda"
+        - "svulthira"
+        - "thalmthira"
+        - "thilminda"
+        - "thraldinda"
+        - "thraskrinna"
+        - "thrildrinna"
+        - "thriskselda"
+        - "thruldselda"
+        - "thruskthira"
+        - "thulmrinna"
+        - "tvalgthira"
+        - "tvarninda"
+        - "tvilginda"
+        - "tvirnrinna"
+        - "tvulgrinna"
+        - "tvurnselda"
+        - "ulthinda"
+        - "unthselda"
+        - "vraldselda"
+        - "vrathira"
+        - "vrildthira"
+        - "vrithinda"
+        - "vruldinda"
+        - "vruthrinna"
       male:
-        - "Althmil"
-        - "Braldvir"
-        - "Brildmil"
-        - "Bruldthann"
-        - "Draskmil"
-        - "Driskthann"
-        - "Druskorv"
-        - "Dvalgmil"
-        - "Dvarnvir"
-        - "Dvilgthann"
-        - "Dvirnmil"
-        - "Dvulgorv"
-        - "Dvurnthann"
-        - "Anthorv"
-        - "Flarnthann"
-        - "Flirnorv"
-        - "Flurnvir"
-        - "Glarvorv"
-        - "Glirvir"
-        - "Glurvmil"
-        - "Gnaldurvir"
-        - "Gnarthorv"
-        - "Gnildurmil"
-        - "Gnirthvir"
-        - "Gnuldurthann"
-        - "Gnurthmil"
-        - "Hlarthvir"
-        - "Hlaskorv"
-        - "Hlirthmil"
-        - "Hliskvir"
-        - "Hlurthann"
-        - "Hlusmil"
-        - "Hnarvir"
-        - "Hnirmil"
-        - "Hnurvthann"
-        - "Hrandorv"
-        - "Hrindvir"
-        - "Hrundmil"
-        - "Hvalgmil"
-        - "Hvarnthann"
-        - "Hvilgthann"
-        - "Hvirnorv"
-        - "Hvulgorv"
-        - "Hvurnvir"
-        - "Ilthann"
-        - "Inthvir"
-        - "Knalthann"
-        - "Knarvmil"
-        - "Knilthorv"
-        - "Knirvthann"
-        - "Knulthvir"
-        - "Knurvorv"
-        - "Kralmil"
-        - "Krildthann"
-        - "Kruldorv"
-        - "Marvorv"
-        - "Mirvir"
-        - "Murvmil"
-        - "Nalthvir"
-        - "Nilthmil"
-        - "Nulthann"
-        - "Ralthann"
-        - "Rilthorv"
-        - "Rulthvir"
-        - "Skalforv"
-        - "Skilfvir"
-        - "Skraldvir"
-        - "Skrilmil"
-        - "Skruldthann"
-        - "Skulfmil"
-        - "Snalthmil"
-        - "Snarvthann"
-        - "Snilthann"
-        - "Snirvorv"
-        - "Snulthorv"
-        - "Snurvir"
-        - "Svalthvir"
-        - "Svilthmil"
-        - "Svulthann"
-        - "Thalmthann"
-        - "Thilmorv"
-        - "Thraldorv"
-        - "Thraskvir"
-        - "Thrildvir"
-        - "Thriskmil"
-        - "Thruldmil"
-        - "Thruskthann"
-        - "Thulmvir"
-        - "Tvalgthann"
-        - "Tvarnorv"
-        - "Tvilgorv"
-        - "Tvirnvir"
-        - "Tvulgvir"
-        - "Tvurnmil"
-        - "Ulthorv"
-        - "Unthmil"
-        - "Vraldmil"
-        - "Vrathann"
-        - "Vrildthann"
-        - "Vrithorv"
-        - "Vruldorv"
-        - "Vruthvir"
+        - "althmil"
+        - "braldvir"
+        - "brildmil"
+        - "bruldthann"
+        - "draskmil"
+        - "driskthann"
+        - "druskorv"
+        - "dvalgmil"
+        - "dvarnvir"
+        - "dvilgthann"
+        - "dvirnmil"
+        - "dvulgorv"
+        - "dvurnthann"
+        - "anthorv"
+        - "flarnthann"
+        - "flirnorv"
+        - "flurnvir"
+        - "glarvorv"
+        - "glirvir"
+        - "glurvmil"
+        - "gnaldurvir"
+        - "gnarthorv"
+        - "gnildurmil"
+        - "gnirthvir"
+        - "gnuldurthann"
+        - "gnurthmil"
+        - "hlarthvir"
+        - "hlaskorv"
+        - "hlirthmil"
+        - "hliskvir"
+        - "hlurthann"
+        - "hlusmil"
+        - "hnarvir"
+        - "hnirmil"
+        - "hnurvthann"
+        - "hrandorv"
+        - "hrindvir"
+        - "hrundmil"
+        - "hvalgmil"
+        - "hvarnthann"
+        - "hvilgthann"
+        - "hvirnorv"
+        - "hvulgorv"
+        - "hvurnvir"
+        - "ilthann"
+        - "inthvir"
+        - "knalthann"
+        - "knarvmil"
+        - "knilthorv"
+        - "knirvthann"
+        - "knulthvir"
+        - "knurvorv"
+        - "kralmil"
+        - "krildthann"
+        - "kruldorv"
+        - "marvorv"
+        - "mirvir"
+        - "murvmil"
+        - "nalthvir"
+        - "nilthmil"
+        - "nulthann"
+        - "ralthann"
+        - "rilthorv"
+        - "rulthvir"
+        - "skalforv"
+        - "skilfvir"
+        - "skraldvir"
+        - "skrilmil"
+        - "skruldthann"
+        - "skulfmil"
+        - "snalthmil"
+        - "snarvthann"
+        - "snilthann"
+        - "snirvorv"
+        - "snulthorv"
+        - "snurvir"
+        - "svalthvir"
+        - "svilthmil"
+        - "svulthann"
+        - "thalmthann"
+        - "thilmorv"
+        - "thraldorv"
+        - "thraskvir"
+        - "thrildvir"
+        - "thriskmil"
+        - "thruldmil"
+        - "thruskthann"
+        - "thulmvir"
+        - "tvalgthann"
+        - "tvarnorv"
+        - "tvilgorv"
+        - "tvirnvir"
+        - "tvulgvir"
+        - "tvurnmil"
+        - "ulthorv"
+        - "unthmil"
+        - "vraldmil"
+        - "vrathann"
+        - "vrildthann"
+        - "vrithorv"
+        - "vruldorv"
+        - "vruthvir"
     clan:
-      - "Althendik"
-      - "Braldaruk"
-      - "Brildendik"
-      - "Bruldumak"
-      - "Draskendik"
-      - "Driskumak"
-      - "Druskidrok"
-      - "Dvalgendik"
-      - "Dvarnaruk"
-      - "Dvilgumak"
-      - "Dvirnendik"
-      - "Dvulgidrok"
-      - "Dvurnumak"
-      - "Anthidrok"
-      - "Flarnumak"
-      - "Flirnidrok"
-      - "Flurnaruk"
-      - "Glarvidrok"
-      - "Glirvaruk"
-      - "Glurvendik"
-      - "Gnaldraruk"
-      - "Gnarthidrok"
-      - "Gnildrendik"
-      - "Gnirtharuk"
-      - "Gnuldrumak"
-      - "Gnurthendik"
-      - "Hlartharuk"
-      - "Hlaskidrok"
-      - "Hlirthendik"
-      - "Hliskaruk"
-      - "Hlurthumak"
-      - "Hluskendik"
-      - "Hnarvaruk"
-      - "Hnirvendik"
-      - "Hnurvumak"
-      - "Hrandidrok"
-      - "Hrindaruk"
-      - "Hrundendik"
-      - "Hvalgendik"
-      - "Hvarnumak"
-      - "Hvilgumak"
-      - "Hvirnidrok"
-      - "Hvulgidrok"
-      - "Hvurnaruk"
-      - "Ilthumak"
-      - "Intharuk"
-      - "Knalthumak"
-      - "Knarvendik"
-      - "Knilthidrok"
-      - "Knirvumak"
-      - "Knultharuk"
-      - "Knurvidrok"
-      - "Kraldendik"
-      - "Krildumak"
-      - "Kruldidrok"
-      - "Marvidrok"
-      - "Mirvaruk"
-      - "Murvendik"
-      - "Naltharuk"
-      - "Nilthendik"
-      - "Nulthumak"
-      - "Ralthumak"
-      - "Rilthidrok"
-      - "Rultharuk"
-      - "Skalfidrok"
-      - "Skilfaruk"
-      - "Skraldaruk"
-      - "Skrildendik"
-      - "Skruldumak"
-      - "Skulfendik"
-      - "Snalthendik"
-      - "Snarvumak"
-      - "Snilthumak"
-      - "Snirvidrok"
-      - "Snulthidrok"
-      - "Snurvaruk"
-      - "Svaltharuk"
-      - "Svilthendik"
-      - "Svulthumak"
-      - "Thalmumak"
-      - "Thilmidrok"
-      - "Thraldidrok"
-      - "Thraskaruk"
-      - "Thrildaruk"
-      - "Thriskendik"
-      - "Thruldendik"
-      - "Thruskumak"
-      - "Thulmaruk"
-      - "Tvalgumak"
-      - "Tvarnidrok"
-      - "Tvilgidrok"
-      - "Tvirnaruk"
-      - "Tvulgaruk"
-      - "Tvurnendik"
-      - "Ulthidrok"
-      - "Unthendik"
-      - "Vraldendik"
-      - "Vrathumak"
-      - "Vrildumak"
-      - "Vrithidrok"
-      - "Vruldidrok"
-      - "Vrutharuk"
-    epithet:
-      - "Cruel"
-      - "Cutthroat"
-      - "Elder"
-      - "Greedy"
-      - "Merciless"
-      - "Miser"
-      - "Reaver"
-      - "Unyielding"
-      - "Vengeful"
-      - "Younger"
+      - "althendik"
+      - "braldaruk"
+      - "brildendik"
+      - "bruldumak"
+      - "draskendik"
+      - "driskumak"
+      - "druskidrok"
+      - "dvalgendik"
+      - "dvarnaruk"
+      - "dvilgumak"
+      - "dvirnendik"
+      - "dvulgidrok"
+      - "dvurnumak"
+      - "anthidrok"
+      - "flarnumak"
+      - "flirnidrok"
+      - "flurnaruk"
+      - "glarvidrok"
+      - "glirvaruk"
+      - "glurvendik"
+      - "gnaldraruk"
+      - "gnarthidrok"
+      - "gnildrendik"
+      - "gnirtharuk"
+      - "gnuldrumak"
+      - "gnurthendik"
+      - "hlartharuk"
+      - "hlaskidrok"
+      - "hlirthendik"
+      - "hliskaruk"
+      - "hlurthumak"
+      - "hluskendik"
+      - "hnarvaruk"
+      - "hnirvendik"
+      - "hnurvumak"
+      - "hrandidrok"
+      - "hrindaruk"
+      - "hrundendik"
+      - "hvalgendik"
+      - "hvarnumak"
+      - "hvilgumak"
+      - "hvirnidrok"
+      - "hvulgidrok"
+      - "hvurnaruk"
+      - "ilthumak"
+      - "intharuk"
+      - "knalthumak"
+      - "knarvendik"
+      - "knilthidrok"
+      - "knirvumak"
+      - "knultharuk"
+      - "knurvidrok"
+      - "kraldendik"
+      - "krildumak"
+      - "kruldidrok"
+      - "marvidrok"
+      - "mirvaruk"
+      - "murvendik"
+      - "naltharuk"
+      - "nilthendik"
+      - "nulthumak"
+      - "ralthumak"
+      - "rilthidrok"
+      - "rultharuk"
+      - "skalfidrok"
+      - "skilfaruk"
+      - "skraldaruk"
+      - "skrildendik"
+      - "skruldumak"
+      - "skulfendik"
+      - "snalthendik"
+      - "snarvumak"
+      - "snilthumak"
+      - "snirvidrok"
+      - "snulthidrok"
+      - "snurvaruk"
+      - "svaltharuk"
+      - "svilthendik"
+      - "svulthumak"
+      - "thalmumak"
+      - "thilmidrok"
+      - "thraldidrok"
+      - "thraskaruk"
+      - "thrildaruk"
+      - "thriskendik"
+      - "thruldendik"
+      - "thruskumak"
+      - "thulmaruk"
+      - "tvalgumak"
+      - "tvarnidrok"
+      - "tvilgidrok"
+      - "tvirnaruk"
+      - "tvulgaruk"
+      - "tvurnendik"
+      - "ulthidrok"
+      - "unthendik"
+      - "vraldendik"
+      - "vrathumak"
+      - "vrildumak"
+      - "vrithidrok"
+      - "vruldidrok"
+      - "vrutharuk"
+    en:
+      epithet:
+        - "cruel"
+        - "cutthroat"
+        - "elder"
+        - "greedy"
+        - "merciless"
+        - "miser"
+        - "reaver"
+        - "unyielding"
+        - "vengeful"
+        - "younger"
   fields:
     - {name: "Verse and its kinds", holds: "The kinds of verse a skald makes and a hall judges."}
     - name: "The hearth and the hall"
@@ -535,12 +539,12 @@ data:
       class: "n"
       field: "The hearth and the hall"
       gloss: "the lawful assembly of free people, where disputes are judged and laws proclaimed"
-    - form: "Hringsveld"
+    - form: "hringsveld"
       class: "n"
       field: "The hearth and the hall"
       gloss: "a king; the one who holds the arm-ring and the high seat on the ting's consent"
       built: [hring-, sveld]
-    - form: "Hrug"
+    - form: "hrug"
       class: "n"
       field: "The hearth and the hall"
       gloss: "a thrall; one owned outright, who owes labor and has no voice at the ting"
@@ -1096,19 +1100,19 @@ data:
       class: "n"
       field: "The orders and their marks"
       gloss: "The silver arm-ring a sworn skald wears for life"
-    - form: "Geldrir"
+    - form: "geldrir"
       class: "n"
       field: "The orders and their marks"
       gloss: "a skald's apprentice, a pupil who has yet to present a geldra the Circle accepts"
-    - form: "Hluskmadur"
+    - form: "hluskmadur"
       class: "n"
       field: "The orders and their marks"
       gloss: "one of the faith of Bjart whom the council will not accord, and meets with silence"
-    - form: "Draskmadur"
+    - form: "draskmadur"
       class: "n"
       field: "The orders and their marks"
       gloss: "one who holds Hrimthur's work in awe and has joined none of his factions"
-    - form: "Bandlid"
+    - form: "bandlid"
       class: "n"
       field: "The orders and their marks"
       gloss: "one attached to one of Hrimthur's factions and doing its work"
@@ -5434,7 +5438,7 @@ data:
     - {form: vikgnum, class: n, field: Everyday speech, gloss: weighing pan}
     - {form: vikma, class: n, field: Everyday speech, gloss: "scales, weighing"}
     - {form: vikt, class: v, field: Everyday speech, gloss: weigh}
-    - form: Sarnri
+    - form: sarnri
       class: n
       field: Everyday speech
       gloss: Healer, Frodvin'stitle asordinaryonewhoheals
@@ -5527,7 +5531,7 @@ data:
     - {form: pruvma, class: n, field: Everyday speech, gloss: testing}
     - {form: sarnmerki, class: n, field: Everyday speech, gloss: scar}
     - {form: liftna, class: adj, field: Everyday speech, gloss: raised}
-    - {form: Hlunbak, class: n, field: Everyday speech, gloss: "echo, a sound returning"}
+    - {form: hlunbak, class: n, field: Everyday speech, gloss: "echo, a sound returning"}
     - {form: bervri, class: n, field: Everyday speech, gloss: bearer}
     - {form: ferrma, class: n, field: Everyday speech, gloss: leadership}
     - {form: nemna, class: adj, field: Everyday speech, gloss: taken}
@@ -5573,7 +5577,7 @@ data:
     - {form: tamkva, class: n, field: Everyday speech, gloss: trust}
     - {form: makri, class: adj, field: Everyday speech, gloss: stored}
     - {form: largma, class: n, field: Everyday speech, gloss: daylight}
-    - form: Seidri
+    - form: seidri
       class: n
       field: Everyday speech
       gloss: witch, practitioneroftrancecraft, notgenderinflection
@@ -5640,7 +5644,7 @@ data:
     - {form: frostva, class: n, field: Everyday speech, gloss: frost}
     - {form: klivri, class: n, field: Everyday speech, gloss: climber}
     - {form: bratva, class: adj, field: Everyday speech, gloss: sheer}
-    - {form: Stormmarlri, class: n, field: Everyday speech, gloss: Storm-Speaker}
+    - {form: stormmarlri, class: n, field: Everyday speech, gloss: Storm-Speaker}
     - {form: arvaji, class: n, field: Everyday speech, gloss: weather craft}
     - {form: karlma, class: n, field: Everyday speech, gloss: calling or vocation}
     - {form: skernhulva, class: n, field: Everyday speech, gloss: eyelid}
@@ -5716,7 +5720,7 @@ data:
       class: n
       field: Everyday speech
       gloss: endofloaf, literaladj+nounusesexistinglest
-    - {form: Drivvid, class: n, field: Everyday speech, gloss: driftwood}
+    - {form: drivvid, class: n, field: Everyday speech, gloss: driftwood}
     - {form: dirnri, class: adj, field: Everyday speech, gloss: sung}
     - {form: hremvna, class: adj, field: Everyday speech, gloss: filled}
     - {form: flatva, class: adj, field: Everyday speech, gloss: flat}
@@ -6024,100 +6028,102 @@ data:
     - {form: -vík, position: closing, kind: place, sense: an inlet, joining: -víkar}
   tongues: [{tag: nordmal, meaning: "a Nordmal name", language: skill-nordmalng}]
   register:
-    - {name: Thalmdal, tongue: nordmal}
-    - {name: Hlusmil Svartrunar, tongue: nordmal}
-    - {name: Bjart, tongue: nordmal}
-    - {name: Bralvik, tongue: nordmal}
-    - {name: Hrandmil, tongue: nordmal}
-    - {name: Dvarnrinna, tongue: nordmal}
-    - {name: Hamarberi, tongue: nordmal}
-    - {name: Aldvar, tongue: nordmal}
-    - {name: Thursaett, tongue: nordmal}
-    - {name: Thursguard, tongue: nordmal}
-    - {name: Hrimthur, tongue: nordmal}
-    - {name: Mannguard, tongue: nordmal}
-    - {name: Odvar, tongue: nordmal}
-    - {name: Thrunvald, tongue: nordmal}
-    - {name: Eidgar, tongue: nordmal}
-    - {name: Frodvin, tongue: nordmal}
-    - {name: Solrún, tongue: nordmal}
-    - {name: Mótefnir, tongue: nordmal}
-    - {name: Velgrímur, tongue: nordmal}
-    - {name: Nahild, tongue: nordmal}
-    - {name: Svartbrandur, tongue: nordmal}
-    - {name: Heimsask, tongue: nordmal}
-    - {name: Asguard, tongue: nordmal}
-    - {name: Valsal, tongue: nordmal}
-    - {name: Solvangur, tongue: nordmal}
-    - {name: Eldheim, tongue: nordmal}
-    - {name: Nulthey, tongue: nordmal}
-    - {name: Sólrunsholl, tongue: nordmal}
-    - {name: Valdrengir, tongue: nordmal}
-    - {name: Vetrúlfur, tongue: nordmal}
-    - {name: Vigvoll, tongue: nordmal}
-    - {name: Heimsormur, tongue: nordmal}
-    - {name: Thrúnhamarr, tongue: nordmal}
-    - {name: Aldarlok, tongue: nordmal}
-    - {name: Hrafanvar, tongue: nordmal}
-    - {name: Knirvinda, tongue: nordmal}
-    - {name: Knarvthira, tongue: nordmal}
-    - {name: Somarmál, tongue: nordmal}
-    - {name: Skalforv, tongue: nordmal}
-    - {name: Veturnetur, tongue: nordmal}
-    - {name: Hnarvdal, tongue: nordmal}
-    - {name: Gronvin, tongue: nordmal}
-    - {name: Knarvík, tongue: nordmal}
-    - {name: Aldurhildur, tongue: nordmal}
-    - {name: Dvarnvík, tongue: nordmal}
-    - {name: Minnir, tongue: nordmal}
-    - {name: Odholm, tongue: nordmal}
-    - {name: Kallma, tongue: nordmal}
-    - {name: Skrilmil, tongue: nordmal}
-    - {name: Thrumufjall, tongue: nordmal}
-    - {name: Hnirmil, tongue: nordmal}
-    - {name: Thraldfjord, tongue: nordmal}
-    - {name: Raltholm, tongue: nordmal}
-    - {name: Malagna, tongue: nordmal}
-    - {name: Gnarthborg, tongue: nordmal}
-    - {name: Skjalfgeir, tongue: nordmal}
-    - {name: Hugvin, tongue: nordmal}
-    - {name: Munvin, tongue: nordmal}
-    - {name: Gnurthorv, tongue: nordmal}
-    - {name: Gnurthendik, tongue: nordmal}
-    - {name: Gnarthann, tongue: nordmal}
-    - {name: Dvirnendik, tongue: nordmal}
-    - {name: Dvirnorv, tongue: nordmal}
-    - {name: Dvirnselda, tongue: nordmal}
-    - {name: Dvurnthann, tongue: nordmal}
-    - {name: Tvalgard, tongue: nordmal}
-    - {name: Gnúmborinn, tongue: nordmal}
-    - {name: Targud, tongue: nordmal}
-    - {name: Draskborg, tongue: nordmal}
-    - {name: Nalthvir, tongue: nordmal}
-    - {name: Grukar, tongue: nordmal}
-    - {name: Jelreid, tongue: nordmal}
-    - {name: Skaldahringur, tongue: nordmal}
-    - {name: Skaldating, tongue: nordmal}
-    - {name: Eidefnir, tongue: nordmal}
-    - {name: Krildorv, tongue: nordmal}
-    - {name: Kraldaruk, tongue: nordmal}
-    - {name: Hliskvir, tongue: nordmal}
-    - {name: Hirvskáld, tongue: nordmal}
-    - {name: Domsey, tongue: nordmal}
-    - {name: Gnaldurfjord, tongue: nordmal}
-    - {name: Norgaad, tongue: nordmal}
-    - {name: Logstevna, tongue: nordmal}
-    - {name: Mídhalión, tongue: nordmal}
-    - {name: Velva, tongue: nordmal}
-    - {name: Gudi / Gudja, tongue: nordmal}
-    - {name: Hofgudi / Hofgudja, tongue: nordmal}
-    - {name: Bundi, tongue: nordmal}
-    - {name: Niding, tongue: nordmal}
-    - {name: Jarl, tongue: nordmal}
-    - {name: Hersvald, tongue: nordmal}
-    - {name: Ódvarsholl, tongue: nordmal}
-    - {name: Hafthann, tongue: nordmal}
-    - {name: Skeldvir Hafthannsen, tongue: nordmal}
+    - {name: thalmdal, tongue: nordmal}
+    - {name: hlusmil svartrunar, tongue: nordmal}
+    - {name: bjart, tongue: nordmal}
+    - {name: bralvik, tongue: nordmal}
+    - {name: hrandmil, tongue: nordmal}
+    - {name: dvarnrinna, tongue: nordmal}
+    - {name: hamarberi, tongue: nordmal}
+    - {name: aldvar, tongue: nordmal}
+    - {name: thursaett, tongue: nordmal}
+    - {name: thursguard, tongue: nordmal}
+    - {name: hrimthur, tongue: nordmal}
+    - {name: mannguard, tongue: nordmal}
+    - {name: odvar, tongue: nordmal}
+    - {name: thrunvald, tongue: nordmal}
+    - {name: eidgar, tongue: nordmal}
+    - {name: frodvin, tongue: nordmal}
+    - {name: solrún, tongue: nordmal}
+    - {name: mótefnir, tongue: nordmal}
+    - {name: velgrímur, tongue: nordmal}
+    - {name: nahild, tongue: nordmal}
+    - {name: svartbrandur, tongue: nordmal}
+    - {name: heimsask, tongue: nordmal}
+    - {name: asguard, tongue: nordmal}
+    - {name: valsal, tongue: nordmal}
+    - {name: solvangur, tongue: nordmal}
+    - {name: eldheim, tongue: nordmal}
+    - {name: nulthey, tongue: nordmal}
+    - {name: sólrunsholl, tongue: nordmal}
+    - {name: valdrengir, tongue: nordmal}
+    - {name: vetrúlfur, tongue: nordmal}
+    - {name: vigvoll, tongue: nordmal}
+    - {name: heimsormur, tongue: nordmal}
+    - {name: thrúnhamarr, tongue: nordmal}
+    - {name: aldarlok, tongue: nordmal}
+    - {name: hrafanvar, tongue: nordmal}
+    - {name: knirvinda, tongue: nordmal}
+    - {name: knarvthira, tongue: nordmal}
+    - {name: somarmál, tongue: nordmal}
+    - {name: skalforv, tongue: nordmal}
+    - {name: veturnetur, tongue: nordmal}
+    - {name: hnarvdal, tongue: nordmal}
+    - {name: gronvin, tongue: nordmal}
+    - {name: knarvík, tongue: nordmal}
+    - {name: aldurhildur, tongue: nordmal}
+    - {name: dvarnvík, tongue: nordmal}
+    - {name: minnir, tongue: nordmal}
+    - {name: odholm, tongue: nordmal}
+    - {name: kallma, tongue: nordmal}
+    - {name: skrilmil, tongue: nordmal}
+    - {name: thrumufjall, tongue: nordmal}
+    - {name: hnirmil, tongue: nordmal}
+    - {name: thraldfjord, tongue: nordmal}
+    - {name: raltholm, tongue: nordmal}
+    - {name: malagna, tongue: nordmal}
+    - {name: gnarthborg, tongue: nordmal}
+    - {name: skjalfgeir, tongue: nordmal}
+    - {name: hugvin, tongue: nordmal}
+    - {name: munvin, tongue: nordmal}
+    - {name: gnurthorv, tongue: nordmal}
+    - {name: gnurthendik, tongue: nordmal}
+    - {name: gnarthann, tongue: nordmal}
+    - {name: dvirnendik, tongue: nordmal}
+    - {name: dvirnorv, tongue: nordmal}
+    - {name: dvirnselda, tongue: nordmal}
+    - {name: dvurnthann, tongue: nordmal}
+    - {name: tvalgard, tongue: nordmal}
+    - {name: gnúmborinn, tongue: nordmal}
+    - {name: targud, tongue: nordmal}
+    - {name: draskborg, tongue: nordmal}
+    - {name: nalthvir, tongue: nordmal}
+    - {name: grukar, tongue: nordmal}
+    - {name: jelreid, tongue: nordmal}
+    - {name: skaldahringur, tongue: nordmal}
+    - {name: skaldating, tongue: nordmal}
+    - {name: eidefnir, tongue: nordmal}
+    - {name: krildorv, tongue: nordmal}
+    - {name: kraldaruk, tongue: nordmal}
+    - {name: hliskvir, tongue: nordmal}
+    - {name: hirvskáld, tongue: nordmal}
+    - {name: domsey, tongue: nordmal}
+    - {name: gnaldurfjord, tongue: nordmal}
+    - {name: norgaad, tongue: nordmal}
+    - {name: logstevna, tongue: nordmal}
+    - {name: mídhalión, tongue: nordmal}
+    - {name: velva, tongue: nordmal}
+    - {name: gudi, tongue: nordmal}
+    - {name: gudja, tongue: nordmal}
+    - {name: hofgudi, tongue: nordmal}
+    - {name: hofgudja, tongue: nordmal}
+    - {name: bundi, tongue: nordmal}
+    - {name: niding, tongue: nordmal}
+    - {name: jarl, tongue: nordmal}
+    - {name: hersvald, tongue: nordmal}
+    - {name: ódvarsholl, tongue: nordmal}
+    - {name: hafthann, tongue: nordmal}
+    - {name: skeldvir hafthannsen, tongue: nordmal}
   retired:
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}

@@ -6,11 +6,10 @@ subType: language
 description: "A crossroads speech wedding Helonic grammar to eastern vocabulary, widely understood by traders on either side."
 tags: []
 data:
-  roman: "abcdefghiklmnoprstuvwyzABCDEFGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.,-"
+  roman: "abcdefghiklmnoprstuvwyzABCDEFGHIKLMNOPRSTUVWYZáéíóúëÁÉÍÓÚË0123456789-"
   core: true
   family: skill-helonclng
   abbreviation: Byz.
-  writtenIn: {map: helonika-bizarian, font: helonika-book}
   fields:
     - name: "Thought, measure and the schools"
       holds: "What the academies argue about: wisdom, measure, proportion, proof, the first principle and the ordering of the world."

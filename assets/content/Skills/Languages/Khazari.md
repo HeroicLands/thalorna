@@ -6,9 +6,8 @@ subType: language
 description: "The second of the Elder Tongues—short, percussive, and consonant-heavy, kept alive in the holds of the Khazari."
 tags: []
 data:
-  roman: "abdefghiklmnoprstuvzABDEFGHIKLMNOPRSTUVZáéíóúëÁÉÍÓÚË0123456789.,!-“”@#$%^&"
+  roman: "abdefghiklmnoprstuvzáéíóúë0123456789-@#$%&^"
   abbreviation: Khaz.
-  writtenIn: {map: pirzath, font: pirzath-hand}
   fields:
     - {name: Stone and metal, holds: "stone, ore, metal, gem"}
     - {name: Craft and the forge, holds: "craft, tool, forge, fire"}
@@ -7794,7 +7793,7 @@ data:
       gloss: "roof of a chamber or building"
       root: "d-k-m"
       frame: bare
-    - {"form": "Khazár", "class": "n", "field": "Kin and the house", "gloss": "one of the people"}
+    - {"form": "khazár", "class": "n", "field": "Kin and the house", "gloss": "one of the people"}
     - "form": "garzir"
       "class": "n"
       "field": "War and the guarding"
@@ -7844,152 +7843,152 @@ data:
     pattern: "{given} {house}"
     given:
       female:
-        - "Ramak"
-        - "Rimik"
-        - "Rumuk"
-        - "Delek"
-        - "Dolok"
-        - "Thamar"
-        - "Kivil"
-        - "Sikir"
-        - "Sukur"
-        - "Nulup"
-        - "Galad"
-        - "Kharad"
-        - "Khirid"
-        - "Butum"
-        - "Barath"
-        - "Mulut"
-        - "Milit"
-        - "Pirin"
-        - "Zamad"
-        - "Bamag"
-        - "Bimig"
-        - "Khiliv"
-        - "Ganav"
-        - "Palaz"
-        - "Piliz"
-        - "Bunut"
-        - "Darakh"
-        - "Mirig"
-        - "Murug"
-        - "Dunuk"
-        - "Valad"
-        - "Gisiv"
-        - "Halab"
-        - "Garap"
-        - "Girip"
-        - "Bulug"
-        - "Samad"
-        - "Tibir"
-        - "Tubur"
-        - "Zunuth"
-        - "Farad"
-        - "Malan"
-        - "Milin"
-        - "Rubud"
-        - "Hamak"
-        - "Talag"
-        - "Tilig"
-        - "Vurun"
-        - "Tanav"
-        - "Likim"
-        - "Lukum"
-        - "Hunuth"
-        - "Ranat"
-        - "Salath"
-        - "Suluth"
-        - "Guruz"
-        - "Tamak"
-        - "Khibin"
-        - "Gakal"
+        - "ramak"
+        - "rimik"
+        - "rumuk"
+        - "delek"
+        - "dolok"
+        - "thamar"
+        - "kivil"
+        - "sikir"
+        - "sukur"
+        - "nulup"
+        - "galad"
+        - "kharad"
+        - "khirid"
+        - "butum"
+        - "barath"
+        - "mulut"
+        - "milit"
+        - "pirin"
+        - "zamad"
+        - "bamag"
+        - "bimig"
+        - "khiliv"
+        - "ganav"
+        - "palaz"
+        - "piliz"
+        - "bunut"
+        - "darakh"
+        - "mirig"
+        - "murug"
+        - "dunuk"
+        - "valad"
+        - "gisiv"
+        - "halab"
+        - "garap"
+        - "girip"
+        - "bulug"
+        - "samad"
+        - "tibir"
+        - "tubur"
+        - "zunuth"
+        - "farad"
+        - "malan"
+        - "milin"
+        - "rubud"
+        - "hamak"
+        - "talag"
+        - "tilig"
+        - "vurun"
+        - "tanav"
+        - "likim"
+        - "lukum"
+        - "hunuth"
+        - "ranat"
+        - "salath"
+        - "suluth"
+        - "guruz"
+        - "tamak"
+        - "khibin"
+        - "gakal"
       male:
-        - "Ramkan"
-        - "Rimkin"
-        - "Dalkan"
-        - "Delken"
-        - "Thamran"
-        - "Thumrun"
-        - "Kavalan"
-        - "Sakaran"
-        - "Sukarun"
-        - "Nalpan"
-        - "Nulpun"
-        - "Galdan"
-        - "Guldun"
-        - "Khirdin"
-        - "Khardan"
-        - "Butamun"
-        - "Birthin"
-        - "Burthun"
-        - "Miltin"
-        - "Pirnin"
-        - "Zamdan"
-        - "Bamgan"
-        - "Bimgin"
-        - "Khalvan"
-        - "Ganvan"
-        - "Gunvun"
-        - "Pilzin"
-        - "Bintin"
-        - "Darkhan"
-        - "Mirgin"
-        - "Dankan"
-        - "Dunkun"
-        - "Valdan"
-        - "Vuldun"
-        - "Gisvin"
-        - "Hulbun"
-        - "Garpan"
-        - "Balgan"
-        - "Samdan"
-        - "Simdin"
-        - "Tubarun"
-        - "Zanthan"
-        - "Fardan"
-        - "Malnan"
-        - "Milnin"
-        - "Rubadun"
-        - "Humkun"
-        - "Talgan"
-        - "Varnan"
-        - "Tanvan"
-        - "Tunvun"
-        - "Lukamun"
-        - "Hanthan"
-        - "Rantan"
-        - "Salthan"
-        - "Silthin"
-        - "Gurzun"
-        - "Timkin"
-        - "Khabanan"
-        - "Gakalan"
+        - "ramkan"
+        - "rimkin"
+        - "dalkan"
+        - "delken"
+        - "thamran"
+        - "thumrun"
+        - "kavalan"
+        - "sakaran"
+        - "sukarun"
+        - "nalpan"
+        - "nulpun"
+        - "galdan"
+        - "guldun"
+        - "khirdin"
+        - "khardan"
+        - "butamun"
+        - "birthin"
+        - "burthun"
+        - "miltin"
+        - "pirnin"
+        - "zamdan"
+        - "bamgan"
+        - "bimgin"
+        - "khalvan"
+        - "ganvan"
+        - "gunvun"
+        - "pilzin"
+        - "bintin"
+        - "darkhan"
+        - "mirgin"
+        - "dankan"
+        - "dunkun"
+        - "valdan"
+        - "vuldun"
+        - "gisvin"
+        - "hulbun"
+        - "garpan"
+        - "balgan"
+        - "samdan"
+        - "simdin"
+        - "tubarun"
+        - "zanthan"
+        - "fardan"
+        - "malnan"
+        - "milnin"
+        - "rubadun"
+        - "humkun"
+        - "talgan"
+        - "varnan"
+        - "tanvan"
+        - "tunvun"
+        - "lukamun"
+        - "hanthan"
+        - "rantan"
+        - "salthan"
+        - "silthin"
+        - "gurzun"
+        - "timkin"
+        - "khabanan"
+        - "gakalan"
     house:
-      - "Dalk-thumár"
-      - "Sakar-puláz"
-      - "Gald-vulád"
-      - "Khalv-gunáv"
-      - "Tanv-guráz"
-      - "Tabar-suláth"
-      - "Marg-buráth"
-      - "Halb-zumád"
-      - "Talg-hunáth"
-      - "Rabad-runát"
-      - "Ramk-sumád"
-      - "Bant-khubán"
-      - "Nalp-furád"
-      - "Zanth-guráp"
-      - "Bamg-durákh"
-      - "Lakam-mulán"
-      - "Balg-tumák"
-      - "Malt-purán"
-      - "Parn-sumád"
-      - "Batam-rumák"
-      - "Khard-vurán"
-      - "Hamk-dunák"
-      - "Ganv-humák"
-      - "Vald-sukár"
-      - "Kaval-zunáth"
+      - "dalk-thumár"
+      - "sakar-puláz"
+      - "gald-vulád"
+      - "khalv-gunáv"
+      - "tanv-guráz"
+      - "tabar-suláth"
+      - "marg-buráth"
+      - "halb-zumád"
+      - "talg-hunáth"
+      - "rabad-runát"
+      - "ramk-sumád"
+      - "bant-khubán"
+      - "nalp-furád"
+      - "zanth-guráp"
+      - "bamg-durákh"
+      - "lakam-mulán"
+      - "balg-tumák"
+      - "malt-purán"
+      - "parn-sumád"
+      - "batam-rumák"
+      - "khard-vurán"
+      - "hamk-dunák"
+      - "ganv-humák"
+      - "vald-sukár"
+      - "kaval-zunáth"
   sounds:
     stress: {two: first, longer: penultimate, mark: acute}
     skeleton:
@@ -8041,12 +8040,12 @@ data:
         shape: K1VK2K3Vn
         class: [name]
         makes: a man's name (below)
-        examples: {r-m-k: Ramkan, d-l-k: Dalkan, th-m-r: Thamran}
+        examples: {r-m-k: ramkan, d-l-k: dalkan, th-m-r: thamran}
       - frame: "given name, woman"
         shape: K1VK2VK3
         class: [name]
         makes: a woman's name (below)
-        examples: {r-m-k: Ramak, d-l-k: Dalak, th-m-r: Thimir}
+        examples: {r-m-k: ramak, d-l-k: dalak, th-m-r: thimir}
       - {frame: compound, shape: bare - deed, class: [n], makes: two skeletons in one word}
     mutations:
       - {mutation: doubling, sound: th, becomes: tth}
@@ -8481,144 +8480,145 @@ data:
     - {root: k-r-f, sense: a falcon, field: other}
     - {root: s-d-v, sense: north, field: face}
   register:
-    - {name: Malan, tongue: khazari, built: [m-l-n, "given name, woman"]}
-    - {name: Rimkin, tongue: khazari, built: [r-m-k, "given name, man"]}
-    - {name: Khardan, tongue: khazari, built: [kh-r-d, "given name, man"]}
-    - {name: Fikir, tongue: khazari, built: [f-k-r, "given name, woman"]}
-    - {name: Dolok, tongue: khazari, built: [d-l-k, "given name, woman"]}
-    - {name: Thimrin, tongue: khazari, built: [th-m-r, "given name, man"]}
-    - {name: Rumuk, tongue: khazari, built: [r-m-k, "given name, woman"]}
-    - {name: Gisvin, tongue: khazari, built: [g-s-v, "given name, man"]}
-    - {name: Dunuk, tongue: khazari, built: [d-n-k, "given name, woman"]}
-    - {name: Varan, tongue: khazari, built: [v-r-n, "given name, woman"]}
-    - {name: Dulkun, tongue: khazari, built: [d-l-k, "given name, man"]}
-    - {name: Lukum, tongue: khazari, built: [l-k-m, "given name, woman"]}
-    - {name: Runut, tongue: khazari, built: [r-n-t, "given name, woman"]}
-    - {name: Rikid, tongue: khazari, built: [r-k-d, "given name, woman"]}
-    - {name: Zadaban, tongue: khazari, built: [z-d-b, "given name, man"]}
-    - {name: Tamban, tongue: khazari, built: [t-m-b, "given name, man"]}
-    - {name: Salath, tongue: khazari, built: [s-l-th, "given name, woman"]}
-    - {name: Zagharan, tongue: khazari, built: [z-gh-r, "given name, man"]}
-    - {name: Dirkhin, tongue: khazari, built: [d-r-kh, "given name, man"]}
-    - {name: Linrin, tongue: khazari, built: [l-n-r, "given name, man"]}
-    - {name: Kivil, tongue: khazari, built: [k-v-l, "given name, woman"]}
-    - {name: Ganav, tongue: khazari, built: [g-n-v, "given name, woman"]}
-    - {name: Taspan, tongue: khazari, built: [t-s-p, "given name, man"]}
-    - {name: Bintin, tongue: khazari, built: [b-n-t, "given name, man"]}
-    - {name: Tubur, tongue: khazari, built: [t-b-r, "given name, woman"]}
-    - {name: Fardan, tongue: khazari, built: [f-r-d, "given name, man"]}
-    - {name: Pirin, tongue: khazari, built: [p-r-n, "given name, woman"]}
-    - {name: Hulbun, tongue: khazari, built: [h-l-b, "given name, man"]}
-    - {name: Butum, tongue: khazari, built: [b-t-m, "given name, woman"]}
-    - {name: Nalpan, tongue: khazari, built: [n-l-p, "given name, man"]}
-    - {name: Rumkun, tongue: khazari, built: [r-m-k, "given name, man"]}
-    - {name: Thimir, tongue: khazari, built: [th-m-r, "given name, woman"]}
-    - {name: Khalvan, tongue: khazari, built: [kh-l-v, "given name, man"]}
-    - {name: Samad, tongue: khazari, built: [s-m-d, "given name, woman"]}
-    - {name: Gurzun, tongue: khazari, built: [g-r-z, "given name, man"]}
-    - {name: "Balgan", tongue: khazari}
-    - {name: "Bamgan", tongue: khazari}
-    - {name: "Bantan", tongue: khazari}
-    - {name: "Barthan", tongue: khazari}
-    - {name: "Bimig", tongue: khazari}
-    - {name: "Bitim", tongue: khazari}
-    - {name: "Bumgun", tongue: khazari}
-    - {name: "Dalkan", tongue: khazari}
-    - {name: "Darkhan", tongue: khazari}
-    - {name: "Delek", tongue: khazari}
-    - {name: "Dilkin", tongue: khazari}
-    - {name: "Galdan", tongue: khazari}
-    - {name: "Garpan", tongue: khazari}
-    - {name: "Garzan", tongue: khazari}
-    - {name: "Gasvan", tongue: khazari}
-    - {name: "Girip", tongue: khazari}
-    - {name: "Guldun", tongue: khazari}
-    - {name: "Guruz", tongue: khazari}
-    - {name: "Halban", tongue: khazari}
-    - {name: "Hamkan", tongue: khazari}
-    - {name: "Khard-vurán", tongue: khazari}
-    - {name: "Khilvin", tongue: khazari}
-    - {name: "Khirid", tongue: khazari}
-    - {name: "Lakaman", tongue: khazari}
-    - {name: "Lamav", tongue: khazari}
-    - {name: "Malnan", tongue: khazari}
-    - {name: "Malt-purán", tongue: khazari}
-    - {name: "Multun", tongue: khazari}
-    - {name: "Murgun", tongue: khazari}
-    - {name: "Nilpin", tongue: khazari}
-    - {name: "Nulup", tongue: khazari}
-    - {name: "Palaz", tongue: khazari}
-    - {name: "Piliz", tongue: khazari}
-    - {name: "Ramkan", tongue: khazari}
-    - {name: "Ribid", tongue: khazari}
-    - {name: "Rimik", tongue: khazari}
-    - {name: "Rinit", tongue: khazari}
-    - {name: "Samag", tongue: khazari}
-    - {name: "Sikir", tongue: khazari}
-    - {name: "Suluth", tongue: khazari}
-    - {name: "Tabar-suláth", tongue: khazari}
-    - {name: "Tabaran", tongue: khazari}
-    - {name: "Talgan", tongue: khazari}
-    - {name: "Tanvan", tongue: khazari}
-    - {name: "Thamran", tongue: khazari}
-    - {name: "Tilig", tongue: khazari}
-    - {name: "Timkin", tongue: khazari}
-    - {name: "Tunuv", tongue: khazari}
-    - {name: "Tunvun", tongue: khazari}
-    - {name: "Vurun", tongue: khazari}
-    - {name: "Zamad", tongue: khazari}
-    - {name: Khazár Folk, tongue: gloss, built: [Khazár]}
-    - {name: Khazari, tongue: older}
-    - {name: Khazar, tongue: gloss, built: [Khazár]}
-    - {name: The Deep Folk, tongue: gloss}
-    - {name: The Stone-Wrights, tongue: gloss}
-    - {name: The Under-Kin, tongue: gloss}
-    - {name: The Forge-Born, tongue: gloss}
-    - {name: Khazari Language, tongue: gloss, built: [Khazari]}
-    - {name: Khazari, tongue: gloss, built: [Khazari]}
-    - {name: Elder Tongue, tongue: gloss}
-    - {name: Khazari Adventurer's Guide, tongue: gloss}
-    - {name: Pirzath Script, tongue: gloss}
-    - {name: Pirzath, tongue: khazari, built: [p-r-z, done thing]}
-    - {name: Khazartúrn, tongue: older}
-    - {name: The Fall of Khazartúrn, tongue: gloss}
-    - {name: The Valley of Seven Towers, tongue: gloss}
-    - {name: The Sundering of the Elder Races, tongue: gloss}
-    - {name: The Raising of Khazartúrn, tongue: gloss}
-    - {name: The Cutting of the Seven Towers, tongue: gloss}
-    - {name: The Coming of the Khazari, tongue: gloss}
-    - {name: The Arrival of the Seven Clans, tongue: gloss}
-    - {name: Humadan, tongue: khazari, built: [m-d-n, place]}
-    - {name: Dagar-kurág, tongue: khazari, built: [d-g-r, k-r-g, compound]}
-    - {name: Summág, tongue: khazari, built: [s-m-g, mastery]}
-    - {name: Dullák, tongue: khazari, built: [d-l-k, mastery]}
-    - {name: Rummák, tongue: khazari, built: [r-m-k, mastery]}
-    - {name: Gullád, tongue: khazari, built: [g-l-d, mastery]}
-    - {name: Vurrán, tongue: khazari, built: [v-r-n, mastery]}
-    - {name: Gurráz, tongue: khazari, built: [g-r-z, mastery]}
-    - {name: Lummáv, tongue: khazari, built: [l-m-v, mastery]}
-    - {name: Puthakun, tongue: khazari, built: [p-th-k, "given name, man"]}
-    - {name: The Cutting of Vorgald, tongue: gloss}
-    - {name: The Khazari Reach Aelwyth, tongue: gloss}
-    - {name: Vorgald, tongue: human}
-    - {name: Vorgald Hold, tongue: human}
-    - {name: Varíg, tongue: khazari, built: [v-r-g, adjective]}
-    - {name: Hudakal, tongue: khazari, built: [d-k-l, place]}
-    - {name: Hulabat, tongue: khazari, built: [l-b-t, place]}
-    - {name: The Lost City of Hulabat, tongue: gloss}
-    - {name: Lubát, tongue: khazari, built: [l-b-t, deed]}
-    - {name: Zugán, tongue: khazari, built: [z-g-n, deed]}
-    - {name: Ankaris Continent, tongue: human}
-    - {name: Aureldia Region, tongue: human}
-    - {name: Mídhalión Region, tongue: human}
-    - {name: Mídhalión, tongue: human}
-    - {name: Zerathia, tongue: human}
+    - {name: malan, tongue: khazari, built: [m-l-n, "given name, woman"]}
+    - {name: rimkin, tongue: khazari, built: [r-m-k, "given name, man"]}
+    - {name: khardan, tongue: khazari, built: [kh-r-d, "given name, man"]}
+    - {name: fikir, tongue: khazari, built: [f-k-r, "given name, woman"]}
+    - {name: dolok, tongue: khazari, built: [d-l-k, "given name, woman"]}
+    - {name: thimrin, tongue: khazari, built: [th-m-r, "given name, man"]}
+    - {name: rumuk, tongue: khazari, built: [r-m-k, "given name, woman"]}
+    - {name: gisvin, tongue: khazari, built: [g-s-v, "given name, man"]}
+    - {name: dunuk, tongue: khazari, built: [d-n-k, "given name, woman"]}
+    - {name: varan, tongue: khazari, built: [v-r-n, "given name, woman"]}
+    - {name: dulkun, tongue: khazari, built: [d-l-k, "given name, man"]}
+    - {name: lukum, tongue: khazari, built: [l-k-m, "given name, woman"]}
+    - {name: runut, tongue: khazari, built: [r-n-t, "given name, woman"]}
+    - {name: rikid, tongue: khazari, built: [r-k-d, "given name, woman"]}
+    - {name: zadaban, tongue: khazari, built: [z-d-b, "given name, man"]}
+    - {name: tamban, tongue: khazari, built: [t-m-b, "given name, man"]}
+    - {name: salath, tongue: khazari, built: [s-l-th, "given name, woman"]}
+    - {name: zagharan, tongue: khazari, built: [z-gh-r, "given name, man"]}
+    - {name: dirkhin, tongue: khazari, built: [d-r-kh, "given name, man"]}
+    - {name: linrin, tongue: khazari, built: [l-n-r, "given name, man"]}
+    - {name: kivil, tongue: khazari, built: [k-v-l, "given name, woman"]}
+    - {name: ganav, tongue: khazari, built: [g-n-v, "given name, woman"]}
+    - {name: taspan, tongue: khazari, built: [t-s-p, "given name, man"]}
+    - {name: bintin, tongue: khazari, built: [b-n-t, "given name, man"]}
+    - {name: tubur, tongue: khazari, built: [t-b-r, "given name, woman"]}
+    - {name: fardan, tongue: khazari, built: [f-r-d, "given name, man"]}
+    - {name: pirin, tongue: khazari, built: [p-r-n, "given name, woman"]}
+    - {name: hulbun, tongue: khazari, built: [h-l-b, "given name, man"]}
+    - {name: butum, tongue: khazari, built: [b-t-m, "given name, woman"]}
+    - {name: nalpan, tongue: khazari, built: [n-l-p, "given name, man"]}
+    - {name: rumkun, tongue: khazari, built: [r-m-k, "given name, man"]}
+    - {name: thimir, tongue: khazari, built: [th-m-r, "given name, woman"]}
+    - {name: khalvan, tongue: khazari, built: [kh-l-v, "given name, man"]}
+    - {name: samad, tongue: khazari, built: [s-m-d, "given name, woman"]}
+    - {name: gurzun, tongue: khazari, built: [g-r-z, "given name, man"]}
+    - {name: "balgan", tongue: khazari}
+    - {name: "bamgan", tongue: khazari}
+    - {name: "bantan", tongue: khazari}
+    - {name: "barthan", tongue: khazari}
+    - {name: "bimig", tongue: khazari}
+    - {name: "bitim", tongue: khazari}
+    - {name: "bumgun", tongue: khazari}
+    - {name: "dalkan", tongue: khazari}
+    - {name: "darkhan", tongue: khazari}
+    - {name: "delek", tongue: khazari}
+    - {name: "dilkin", tongue: khazari}
+    - {name: "galdan", tongue: khazari}
+    - {name: "garpan", tongue: khazari}
+    - {name: "garzan", tongue: khazari}
+    - {name: "gasvan", tongue: khazari}
+    - {name: "girip", tongue: khazari}
+    - {name: "guldun", tongue: khazari}
+    - {name: "guruz", tongue: khazari}
+    - {name: "halban", tongue: khazari}
+    - {name: "hamkan", tongue: khazari}
+    - {name: "khard-vurán", tongue: khazari}
+    - {name: "khilvin", tongue: khazari}
+    - {name: "khirid", tongue: khazari}
+    - {name: "lakaman", tongue: khazari}
+    - {name: "lamav", tongue: khazari}
+    - {name: "malnan", tongue: khazari}
+    - {name: "malt-purán", tongue: khazari}
+    - {name: "multun", tongue: khazari}
+    - {name: "murgun", tongue: khazari}
+    - {name: "nilpin", tongue: khazari}
+    - {name: "nulup", tongue: khazari}
+    - {name: "palaz", tongue: khazari}
+    - {name: "piliz", tongue: khazari}
+    - {name: "ramkan", tongue: khazari}
+    - {name: "ribid", tongue: khazari}
+    - {name: "rimik", tongue: khazari}
+    - {name: "rinit", tongue: khazari}
+    - {name: "samag", tongue: khazari}
+    - {name: "sikir", tongue: khazari}
+    - {name: "suluth", tongue: khazari}
+    - {name: "tabar-suláth", tongue: khazari}
+    - {name: "tabaran", tongue: khazari}
+    - {name: "talgan", tongue: khazari}
+    - {name: "tanvan", tongue: khazari}
+    - {name: "thamran", tongue: khazari}
+    - {name: "tilig", tongue: khazari}
+    - {name: "timkin", tongue: khazari}
+    - {name: "tunuv", tongue: khazari}
+    - {name: "tunvun", tongue: khazari}
+    - {name: "vurun", tongue: khazari}
+    - {name: "zamad", tongue: khazari}
+    - {name: Khazár Folk, tongue: translation, built: [khazár]}
+    - {name: khazari, tongue: older}
+    - {name: khazar, tongue: gloss, built: [khazár]}
+    - {name: The Deep Folk, tongue: translation}
+    - {name: The Stone-Wrights, tongue: translation}
+    - {name: The Under-Kin, tongue: translation}
+    - {name: The Forge-Born, tongue: translation}
+    - {name: Khazari Language, tongue: translation, built: [khazari]}
+    - {name: khazari, tongue: gloss, built: [khazari]}
+    - {name: Elder Tongue, tongue: translation}
+    - {name: Khazari Adventurer's Guide, tongue: translation}
+    - {name: Pirzath Script, tongue: translation}
+    - {name: pirzath, tongue: khazari, built: [p-r-z, done thing]}
+    - {name: khazartúrn, tongue: older}
+    - {name: The Fall of Khazartúrn, tongue: translation}
+    - {name: The Valley of Seven Towers, tongue: translation}
+    - {name: The Sundering of the Elder Races, tongue: translation}
+    - {name: The Raising of Khazartúrn, tongue: translation}
+    - {name: The Cutting of the Seven Towers, tongue: translation}
+    - {name: The Coming of the Khazari, tongue: translation}
+    - {name: The Arrival of the Seven Clans, tongue: translation}
+    - {name: humadan, tongue: khazari, built: [m-d-n, place]}
+    - {name: dagar-kurág, tongue: khazari, built: [d-g-r, k-r-g, compound]}
+    - {name: summág, tongue: khazari, built: [s-m-g, mastery]}
+    - {name: dullák, tongue: khazari, built: [d-l-k, mastery]}
+    - {name: rummák, tongue: khazari, built: [r-m-k, mastery]}
+    - {name: gullád, tongue: khazari, built: [g-l-d, mastery]}
+    - {name: vurrán, tongue: khazari, built: [v-r-n, mastery]}
+    - {name: gurráz, tongue: khazari, built: [g-r-z, mastery]}
+    - {name: lummáv, tongue: khazari, built: [l-m-v, mastery]}
+    - {name: puthakun, tongue: khazari, built: [p-th-k, "given name, man"]}
+    - {name: The Cutting of Vorgald, tongue: translation}
+    - {name: The Khazari Reach Aelwyth, tongue: translation}
+    - {name: vorgald, tongue: human}
+    - {name: Vorgald Hold, tongue: translation}
+    - {name: varíg, tongue: khazari, built: [v-r-g, adjective]}
+    - {name: hudakal, tongue: khazari, built: [d-k-l, place]}
+    - {name: hulabat, tongue: khazari, built: [l-b-t, place]}
+    - {name: The Lost City of Hulabat, tongue: translation}
+    - {name: lubát, tongue: khazari, built: [l-b-t, deed]}
+    - {name: zugán, tongue: khazari, built: [z-g-n, deed]}
+    - {name: Ankaris Continent, tongue: translation}
+    - {name: Aureldia Region, tongue: translation}
+    - {name: Mídhalión Region, tongue: translation}
+    - {name: mídhalión, tongue: human}
+    - {name: zerathia, tongue: human}
   tongues:
     - {tag: khazari, meaning: a Khazari name, language: skill-khazarlng}
     - {tag: older, meaning: "a word older than the rules, which keeps a shape no frame makes"}
     - tag: exonym:<tongue>
       meaning: "another people's rendering of a Khazari word, with the people after the colon; the derivation names the word"
     - {tag: gloss, meaning: a glossed name or epithet}
+    - {tag: translation, meaning: a name given in the language of these pages}
     - {tag: human, meaning: a name in a human tongue}
 sohl:
   system:

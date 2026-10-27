@@ -6,7 +6,7 @@ subType: language
 description: "The unwritten tongue of the Maple People of the northeastern lakes: long words, open vowels and no sound made with the lips, spoken in the longhouses and the councils."
 tags: []
 data:
-  roman: "aehiknorstwyáéíó0123456789.,?!“”—…-'"
+  roman: "aehiknorstwyáéíó0123456789-'"
   core: true
   abbreviation: Oset.
   fields:

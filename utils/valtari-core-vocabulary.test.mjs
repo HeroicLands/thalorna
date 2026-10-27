@@ -1,6 +1,9 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
@@ -17,8 +20,6 @@ import {
     NOTE_VOCABULARY,
     BEING_LOOK_VOCABULARY,
 } from "@heroiclands/package-build/engine/note-vocabulary";
-import { compileMap, applyMap } from "@heroiclands/package-build/engine/text-maps";
-import { nativeLookup } from "@heroiclands/package-build/engine/map-lexicon";
 import { resolveScriptFonts } from "@heroiclands/package-build/engine/script-fonts";
 import { fontOutlines } from "@heroiclands/package-build/engine/font-outlines";
 
@@ -141,11 +142,11 @@ test("Valtari declarations and actual new donor receipts satisfy the contract", 
 });
 
 test("Valtari uses the actual configured wordbook and drawable Helonika", async () => {
-    const { renderRuns, runContext, scanRuns } =
+    const { renderRuns, scanRuns } =
         await import("@heroiclands/package-build/engine/content-scripts");
     const spelling = read("assets/content/Lore/Scripts/Helonika_Spelling.md"),
         config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const context = runContext({ ...config, rootDir: process.cwd() }, [
+    const context = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
@@ -156,19 +157,19 @@ test("Valtari uses the actual configured wordbook and drawable Helonika", async 
     const [[key, definition]] = selected;
     assert(context.wordBooks.has(key));
     assert(context.lexicons.has(key));
-    const map = compileMap(spelling.fm.data.map),
-        face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font),
+    const map = encodingReference("valt").encoding,
+        face = resolveScriptFonts(process.cwd()).faces.get(map.font),
         outlines = fontOutlines(face.file),
         box = outlines.glyph("c".codePointAt(0)).index,
-        native = nativeLookup(context.lexicons.get(key), map.name, face.slug),
-        attributes = `.nativefont lang=${key} map=${map.name} font=${face.slug}`;
+        native = serializeLexicon(context.lexicons.get(key)),
+        attributes = `lang=${key} enc=${map.name} font=${face.slug}`;
     const scanned = scanRuns(`[${language.fm.data.words[0].form}]{${attributes}}`, context);
     assert.deepEqual(scanned.errors, []);
     assert.deepEqual(scanned.warnings, []);
     assert.equal(scanned.runs[0].lang, key);
     assert.equal(scanned.runs[0].tag, definition.tag);
     const draw = (form) => {
-        const text = applyMap(map, form, { font: face.slug, native }).text;
+        const text = encodeWithLanguage(map, form, { font: face.slug, lexicon: native }).text;
         assert(text.trim(), form);
         for (const char of text) {
             if (/\s/u.test(char)) continue;

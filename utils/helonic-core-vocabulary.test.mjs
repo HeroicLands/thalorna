@@ -1,6 +1,9 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
@@ -104,27 +107,27 @@ test("Helonic expressions reach the published dictionary with their usage", asyn
 });
 
 test("Helonic expressions render through their actual Helonika map and font", async () => {
-    const { applyMap, compileMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { renderRuns, runContext } =
-        await import("@heroiclands/package-build/engine/content-scripts");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
+    const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const spelling = note("assets/content/Lore/Scripts/Helonika_Spelling.md");
     const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-    const ctx = runContext({ ...config, rootDir: process.cwd() }, [
+    const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...records,
         { ...spelling.fm, file: spelling.file, package: "thalorna", system: "note" },
     ]);
-    const map = compileMap(spelling.fm.data.map);
+    const map = encodingReference("helo").encoding;
     const face = resolveScriptFonts(process.cwd()).faces.get("helonika-book");
-    const native = nativeLookup(ctx.lexicons.get("helo"), map.name, "helonika-book");
+    const native = serializeLexicon(ctx.lexicons.get("helo"));
     const outlines = fontOutlines(face.file);
     for (const word of words)
         for (const form of [word.form, ...(word.variants ?? [])]) {
-            const rendered = renderRuns(`[${form}]{.nativefont lang=helo}`, ctx);
+            const rendered = renderRuns(`[${form}]{lang=helo enc=${map.name}}`, ctx);
             assert.deepEqual(rendered.errors, [], form);
-            const mapped = applyMap(map, form, { font: "helonika-book", native }).text;
+            const mapped = encodeWithLanguage(map, form, {
+                font: "helonika-book",
+                lexicon: native,
+            }).text;
             assert(rendered.markdown.includes(mapped), `mapped output: ${form}`);
             for (const char of mapped) {
                 if (/\s/u.test(char)) continue;
@@ -322,11 +325,7 @@ for (const child of daughters) {
     test(`${child.fm.name.full} publishes every nearest meaning and its native Helonika forms`, async () => {
         const { lexicalSectionsFor, insertLexicalSections } =
             await import("@heroiclands/package-build/engine/lexical-sections");
-        const { applyMap, compileMap } =
-            await import("@heroiclands/package-build/engine/text-maps");
-        const { renderRuns, runContext } =
-            await import("@heroiclands/package-build/engine/content-scripts");
-        const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
+        const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
         const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
         const { resolveScriptFonts } =
             await import("@heroiclands/package-build/engine/script-fonts");
@@ -347,18 +346,17 @@ for (const child of daughters) {
         const maps = ["Helonika_Spelling", "Bethuan_Spelling", "Bizarian_Spelling"].map((name) =>
             note(`assets/content/Lore/Scripts/${name}.md`),
         );
-        const spelling = maps.find(({ fm }) => fm.data.map.name === child.fm.data.writtenIn.map);
         const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-        const ctx = runContext({ ...config, rootDir: process.cwd() }, [
+        const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
             ...familyRecords,
             ...maps.map(({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "note" })),
         ]);
         const tag = Object.entries(config.languages).find(
             ([, value]) => value.note === `skill-${child.fm.shortcode}`,
         )[0];
-        const map = compileMap(spelling.fm.data.map),
-            face = resolveScriptFonts(process.cwd()).faces.get(child.fm.data.writtenIn.font);
-        const native = nativeLookup(ctx.lexicons.get(tag), map.name, child.fm.data.writtenIn.font);
+        const map = encodingReference(tag).encoding,
+            face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+        const native = serializeLexicon(ctx.lexicons.get(tag));
         const outlines = fontOutlines(face.file),
             box = outlines.glyph("c".codePointAt(0))?.index;
         const defined = new Set(
@@ -373,13 +371,13 @@ for (const child of daughters) {
                     );
             for (const form of [word.form, ...(word.variants ?? [])]) {
                 const result = renderRuns(
-                    `[${form}]{.nativefont lang=${tag} map=${map.name} font=${child.fm.data.writtenIn.font}}`,
+                    `[${form}]{lang=${tag} enc=${map.name} font=${map.font}}`,
                     ctx,
                 );
                 assert.deepEqual(result.errors, [], form);
-                const mapped = applyMap(map, form, {
-                    font: child.fm.data.writtenIn.font,
-                    native,
+                const mapped = encodeWithLanguage(map, form, {
+                    font: map.font,
+                    lexicon: native,
                 }).text;
                 assert(result.markdown.includes(mapped), `actual mapped output: ${form}`);
                 for (const char of mapped) {
@@ -401,13 +399,12 @@ for (const child of daughters) {
 
 for (const child of daughters) {
     test(`${child.fm.name.full} recognizes inherited words in strict language runs`, async () => {
-        const { renderRuns, runContext } =
-            await import("@heroiclands/package-build/engine/content-scripts");
+        const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
         const maps = ["Helonika_Spelling", "Bethuan_Spelling", "Bizarian_Spelling"].map((name) =>
             note(`assets/content/Lore/Scripts/${name}.md`),
         );
         const config = YAML.parse(fs.readFileSync("package-build.config.yaml", "utf8"));
-        const ctx = runContext({ ...config, rootDir: process.cwd() }, [
+        const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
             ...familyRecords,
             ...maps.map(({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "note" })),
         ]);

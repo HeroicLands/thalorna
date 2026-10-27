@@ -6,7 +6,7 @@ subType: language
 description: "The Nyáluban oral speech, whose keepers carry messages across miles by drum and pitch as readily as by voice."
 tags: []
 data:
-  roman: "abdefghijklmnoprstuwyzABDEFGHIJKLMNOPRSTUWYZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-'"
+  roman: "abdefghijklmnoprstuwyzáéíóúë0123456789()–-'"
   core: true
   abbreviation: Nyal.
   fields:
@@ -24,13 +24,13 @@ data:
     - form: "-zi"
       gloss: "the people of it: a clan, named for its totem"
       attaches: "added"
-      examples: ["ruwo > Ruwozi, the lion-clan"]
+      examples: ["ruwo > ruwozi, the lion-clan"]
     - form: "-inya"
       gloss: "the quality of it: a noun of what a thing is"
       attaches: "added"
       examples: ["shor- > shorinya, brightness"]
-    - {form: "-o", gloss: "a man's name", attaches: "added", examples: ["tabes- > Tabeso"]}
-    - {form: "-a", gloss: "a woman's name", attaches: "added", examples: ["lushey- > Lusheya"]}
+    - {form: "-o", gloss: "a man's name", attaches: "added", examples: ["tabes- > tabeso"]}
+    - {form: "-a", gloss: "a woman's name", attaches: "added", examples: ["lushey- > lusheya"]}
   words:
     - {form: ruwo, class: "n", field: Clan and totem, gloss: "the lion"}
     - form: ruwozi
@@ -6168,158 +6168,158 @@ data:
     pattern: "{given} {clan}"
     given:
       female:
-        - "Adenza"
-        - "Aíbesa"
-        - "Akisa"
-        - "Amífeli"
-        - "Ándiya"
-        - "Azímela"
-        - "Bálesha"
-        - "Bénduya"
-        - "Búndeya"
-        - "Daliba"
-        - "Díngoya"
-        - "Dombesa"
-        - "Éduma"
-        - "Fádewa"
-        - "Féliwa"
-        - "Gaja"
-        - "Góndesi"
-        - "Habishe"
-        - "Háyeba"
-        - "Jenda"
-        - "Juma"
-        - "Kaja"
-        - "Káleshi"
-        - "Kénzowa"
-        - "Kíshela"
-        - "Kóbesa"
-        - "Lálija"
-        - "Lanja"
-        - "Lenza"
-        - "Lólewa"
-        - "Malya"
-        - "Méshola"
-        - "Mídewa"
-        - "Míndeli"
-        - "Móndawe"
-        - "Múndewa"
-        - "Ndaka"
-        - "Néntoli"
-        - "Nija"
-        - "Níseta"
-        - "Njuma"
-        - "Núremi"
-        - "Panja"
-        - "Píkesa"
-        - "Raja"
-        - "Rálesi"
-        - "Sálua"
-        - "Sándeyo"
-        - "Sáwemi"
-        - "Séndowe"
-        - "Sílowe"
-        - "Súnemi"
-        - "Táliba"
-        - "Témoyi"
-        - "Téndoli"
-        - "Túndaye"
-        - "Wanja"
-        - "Wéndasi"
-        - "Yaja"
-        - "Záyeli"
+        - "adenza"
+        - "aíbesa"
+        - "akisa"
+        - "amífeli"
+        - "ándiya"
+        - "azímela"
+        - "bálesha"
+        - "bénduya"
+        - "búndeya"
+        - "daliba"
+        - "díngoya"
+        - "dombesa"
+        - "éduma"
+        - "fádewa"
+        - "féliwa"
+        - "gaja"
+        - "góndesi"
+        - "habishe"
+        - "háyeba"
+        - "jenda"
+        - "juma"
+        - "kaja"
+        - "káleshi"
+        - "kénzowa"
+        - "kíshela"
+        - "kóbesa"
+        - "lálija"
+        - "lanja"
+        - "lenza"
+        - "lólewa"
+        - "malya"
+        - "méshola"
+        - "mídewa"
+        - "míndeli"
+        - "móndawe"
+        - "múndewa"
+        - "ndaka"
+        - "néntoli"
+        - "nija"
+        - "níseta"
+        - "njuma"
+        - "núremi"
+        - "panja"
+        - "píkesa"
+        - "raja"
+        - "rálesi"
+        - "sálua"
+        - "sándeyo"
+        - "sáwemi"
+        - "séndowe"
+        - "sílowe"
+        - "súnemi"
+        - "táliba"
+        - "témoyi"
+        - "téndoli"
+        - "túndaye"
+        - "wanja"
+        - "wéndasi"
+        - "yaja"
+        - "záyeli"
       male:
-        - "Amaleso"
-        - "Bákeni"
-        - "Bálesho"
-        - "Dámbani"
-        - "Fódemi"
-        - "Gaduno"
-        - "Gongwelo"
-        - "Jao"
-        - "Jelo"
-        - "Kádewo"
-        - "Kásimo"
-        - "Kisado"
-        - "Lálumo"
-        - "Lóbezo"
-        - "Máshelo"
-        - "Mbuka"
-        - "Mondú"
-        - "Ndáfiyo"
-        - "Njaka"
-        - "Panza"
-        - "Rábesi"
-        - "Sálumo"
-        - "Sandé"
-        - "Sandó"
-        - "Tálemo"
-        - "Tamasé"
-        - "Tímbelo"
-        - "Tóbesho"
-        - "Yámeto"
-        - "Zákesho"
+        - "amaleso"
+        - "bákeni"
+        - "bálesho"
+        - "dámbani"
+        - "fódemi"
+        - "gaduno"
+        - "gongwelo"
+        - "jao"
+        - "jelo"
+        - "kádewo"
+        - "kásimo"
+        - "kisado"
+        - "lálumo"
+        - "lóbezo"
+        - "máshelo"
+        - "mbuka"
+        - "mondú"
+        - "ndáfiyo"
+        - "njaka"
+        - "panza"
+        - "rábesi"
+        - "sálumo"
+        - "sandé"
+        - "sandó"
+        - "tálemo"
+        - "tamasé"
+        - "tímbelo"
+        - "tóbesho"
+        - "yámeto"
+        - "zákesho"
     clan:
-      - "Árambu"
-      - "Bándala"
-      - "Béndawe"
-      - "Dándira"
-      - "Dóbalanda"
-      - "Édumba"
-      - "Fámangalí"
-      - "Gúndala"
-      - "Índawe"
-      - "Jándaka"
-      - "Kásiramba"
-      - "Kéndalu"
-      - "Kómaludi"
-      - "Kúbola"
-      - "Lándala"
-      - "Lúsani"
-      - "Málazuli"
-      - "Mbándala"
-      - "Mpanza"
-      - "Múgandala"
-      - "Ndálude"
-      - "Ndánga-Sólembe"
-      - "Nkúndala"
-      - "Nómaledi"
-      - "Ntalandi"
-      - "Nyámelo"
-      - "Óbandala"
-      - "Ódawe"
-      - "Ódúmbala"
-      - "Ófawe"
-      - "Ólambala"
-      - "Ómalesí"
-      - "Ómaletu"
-      - "Ópala"
-      - "Órindi"
-      - "Ótandala"
-      - "Pálambe"
-      - "Pándazuli"
-      - "Péndala"
-      - "Rábandala"
-      - "Róbandala"
-      - "Sábandala"
-      - "Sándambala"
-      - "Shándiro"
-      - "Sónkelada"
-      - "Tábandala"
-      - "Tálamba"
-      - "Tándizuli"
-      - "Téndiro"
-      - "Tómalinde"
-      - "Túbandala"
-      - "Udandala"
-      - "Úlambo"
-      - "Úndala"
-      - "Utúndala"
-      - "Wánduri"
-      - "Yándala"
-      - "Yómasunde"
-      - "Zákedala"
-      - "Zímbala"
+      - "árambu"
+      - "bándala"
+      - "béndawe"
+      - "dándira"
+      - "dóbalanda"
+      - "édumba"
+      - "fámangali"
+      - "gúndala"
+      - "índawe"
+      - "jándaka"
+      - "kásiramba"
+      - "kéndalu"
+      - "kómaludi"
+      - "kúbola"
+      - "lándala"
+      - "lúsani"
+      - "málazuli"
+      - "mbándala"
+      - "mpanza"
+      - "múgandala"
+      - "ndálude"
+      - "ndánga-sólembe"
+      - "nkúndala"
+      - "nómaledi"
+      - "ntalandi"
+      - "nyámelo"
+      - "óbandala"
+      - "ódawe"
+      - "ódumbala"
+      - "ófawe"
+      - "ólambala"
+      - "ómalesi"
+      - "ómaletu"
+      - "ópala"
+      - "órindi"
+      - "ótandala"
+      - "pálambe"
+      - "pándazuli"
+      - "péndala"
+      - "rábandala"
+      - "róbandala"
+      - "sábandala"
+      - "sándambala"
+      - "shándiro"
+      - "sónkelada"
+      - "tábandala"
+      - "tálamba"
+      - "tándizuli"
+      - "téndiro"
+      - "tómalinde"
+      - "túbandala"
+      - "udandala"
+      - "úlambo"
+      - "úndala"
+      - "utúndala"
+      - "wánduri"
+      - "yándala"
+      - "yómasunde"
+      - "zákedala"
+      - "zímbala"
   sounds:
     stress: {two: first, longer: first, mark: acute}
     edges:
@@ -6367,13 +6367,13 @@ data:
     - {name: Eagle Spirit, tongue: translation}
     - {name: Eagle Spirit Power, tongue: translation}
     - {name: Eagle Totem, tongue: translation}
-    - {name: Ékunda, tongue: nyaluban}
+    - {name: ékunda, tongue: nyaluban}
     - {name: Ékunda Tribe, tongue: translation}
     - {name: Ékunda Village, tongue: translation}
     - {name: Elder, tongue: translation}
     - {name: Elder Shaman, tongue: translation}
     - {name: Envoy, tongue: translation}
-    - {name: Fénjara, tongue: nyaluban}
+    - {name: fénjara, tongue: nyaluban}
     - {name: Fénjara Tribe, tongue: translation}
     - {name: Fénjara Village, tongue: translation}
     - {name: Griot, tongue: translation}
@@ -6389,7 +6389,7 @@ data:
     - {name: Guardian of an Old Heto, tongue: translation}
     - {name: Guardian of the Pact-Baobab, tongue: translation}
     - {name: Guide, tongue: translation}
-    - {name: Heto Lubemo, tongue: nyaluban, built: [heto, lubemo]}
+    - {name: heto lubemo, tongue: nyaluban, built: [heto, lubemo]}
     - {name: Host-Caller, tongue: translation}
     - {name: Householder, tongue: translation}
     - {name: Initiate, tongue: translation}
@@ -6401,7 +6401,7 @@ data:
     - {name: Kinsman, tongue: translation}
     - {name: Kolembozi Crocodile, tongue: translation}
     - {name: Kolembozi Totem, tongue: translation}
-    - {name: Kwendari Zohiring, tongue: kept}
+    - {name: kwendari zohiring, tongue: kept}
     - {name: Lawkeeper, tongue: translation}
     - {name: Leopard of the Sengala, tongue: translation}
     - {name: Leopard Spirit, tongue: translation}
@@ -6415,10 +6415,10 @@ data:
     - {name: Lobwezi Totem, tongue: translation}
     - {name: Mask-Maker, tongue: translation}
     - {name: Master of the Hunt, tongue: translation}
-    - {name: Ndawelari Thakwaring, tongue: kept}
+    - {name: ndawelari thakwaring, tongue: kept}
     - {name: Ngonzi Eagle, tongue: translation}
     - {name: Ngonzi Totem, tongue: translation}
-    - {name: Nyáluba, tongue: nyaluban}
+    - {name: nyáluba, tongue: nyaluban}
     - {name: Nyáluba Adventurer's Guide, tongue: translation}
     - {name: Nyáluba Faith, tongue: translation}
     - {name: Nyáluba Pantheon, tongue: translation}
@@ -6434,11 +6434,11 @@ data:
     - {name: Sengala Leopard, tongue: translation}
     - {name: Sengala Totem, tongue: translation}
     - {name: Senior Griot, tongue: translation}
-    - {name: Shorinya Ndafo, tongue: nyaluban, built: [shor-, -inya, ndafo]}
+    - {name: shorinya ndafo, tongue: nyaluban, built: [shor-, -inya, ndafo]}
     - {name: Speaker of the Council, tongue: translation}
     - {name: Spirit-shunned, tongue: translation}
     - {name: Spirit-Speaker, tongue: translation}
-    - {name: Tabeso, tongue: nyaluban, built: [tabes-, -o]}
+    - {name: tabeso, tongue: nyaluban, built: [tabes-, -o]}
     - {name: The Baobab Guide, tongue: translation}
     - {name: The Crocodile Guide, tongue: translation}
     - {name: The Eagle Guide, tongue: translation}
@@ -6461,7 +6461,7 @@ data:
     - {name: Truce-Warden, tongue: translation}
     - {name: Uninitiated, tongue: translation}
     - {name: Water-Warden, tongue: translation}
-    - name: Ngende Ngabeli
+    - name: ngende ngabeli
       tongue: nyaluban
       gloss: "the Stone Tongue, the speech in Lusheya's recital"
   retired:
@@ -6545,7 +6545,7 @@ data:
     - {form: Njámala, instead: Nyámelo, why: "an Earth word, in the name lists"}
     - {form: Nómandala, instead: Nómaledi, why: "an Earth word, in the name lists"}
     - {form: Ómandala, instead: Ómaletu, why: "an Earth word, in the name lists"}
-    - {form: Ómandalí, instead: Ómalesí, why: "an Earth word, in the name lists"}
+    - {form: Ómandalí, instead: Ómalesi, why: "an Earth word, in the name lists"}
     - {form: Sónkandala, instead: Sónkelada, why: "an Earth word, in the name lists"}
     - {form: Tándira, instead: Téndiro, why: "an Earth word, in the name lists"}
     - {form: Tómandala, instead: Tómalinde, why: "an Earth word, in the name lists"}
@@ -7140,7 +7140,7 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Dándira (the-defenders)
 - Dóbalanda (the-wise-ones)
 - Édumba (the-gem-keepers)
-- Fámangalí (the-honored-ancestors)
+- Fámangali (the-honored-ancestors)
 - Gúndala (the-mountain-folk)
 - Índawe (the-river-blessed)
 - Jándaka (the-skilled-makers)
@@ -7163,11 +7163,11 @@ _Note: These examples are creations derived from phonetic patterns observed in N
 - Nyámelo (the-warrior-tribe)
 - Óbandala (the-unified-line)
 - Ódawe (the-blessed-kinship)
-- Ódúmbala (the-gem-tribe)
+- Ódumbala (the-gem-tribe)
 - Ófawe (the-learned-ones)
 - Ógandala (the-mighty-ones)
 - Ólambala (the-eloquent-ones)
-- Ómalesí (the-honored-wise)
+- Ómalesi (the-honored-wise)
 - Ómaletu (the-leadership-line)
 - Ópala (the-people-of-pride)
 - Órindi (the-singers)

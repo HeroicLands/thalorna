@@ -22,14 +22,31 @@ const terms = (text) => normalize(text).match(/[\p{L}\p{M}\p{N}]+/gu) ?? [];
 /** Keep all exact homographs before falling back to whole-term modern meanings. */
 export function lookupNote({ data, sections }, query, limit) {
     const normalized = normalize(query.trim());
-    const direct = data.lexicon.filter((entry) => normalize(entry.form) === normalized);
-    const variants = data.lexicon.filter((entry) =>
+    const names = (data.naming?.register ?? [])
+        .filter(
+            (name) =>
+                !data.lexicon.some(
+                    (entry) =>
+                        entry.class === "name" && normalize(entry.form) === normalize(name.name),
+                ),
+        )
+        .map((name, index) => ({
+            id: `registered-name-${index + 1}`,
+            form: name.name,
+            class: "name",
+            glosses: [name.why ?? `${name.kind} name`],
+            variants: [],
+            guidance: ["#names"].filter((anchor) => sections.has(anchor)),
+        }));
+    const lexicon = [...data.lexicon, ...names];
+    const direct = lexicon.filter((entry) => normalize(entry.form) === normalized);
+    const variants = lexicon.filter((entry) =>
         entry.variants.some((variant) => normalize(variant) === normalized),
     );
     const matchedParadigms = data.presentParadigms.filter((paradigm) =>
         Object.values(paradigm.forms).some((form) => normalize(form) === normalized),
     );
-    const paradigmatic = data.lexicon.filter((entry) =>
+    const paradigmatic = lexicon.filter((entry) =>
         matchedParadigms.some((paradigm) => normalize(entry.form) === normalize(paradigm.verb)),
     );
     let match =
@@ -44,7 +61,7 @@ export function lookupNote({ data, sections }, query, limit) {
     if (!matches.length && !matchedParadigms.length) {
         match = "meaning";
         const queryTerms = [...new Set(terms(query))];
-        matches = data.lexicon
+        matches = lexicon
             .filter((entry) =>
                 entry.glosses.some((gloss) => {
                     const glossaryTerms = new Set(terms(gloss));

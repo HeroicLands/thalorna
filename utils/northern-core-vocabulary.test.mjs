@@ -1,6 +1,15 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import {
+    beforeEncodingMigration,
+    assertEncodingMigrationPreserved,
+    assertPublicLanguageProjections,
+    contentHash,
+} from "./encoding-preservation.mjs";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import { execFileSync } from "node:child_process";
 import test from "node:test";
@@ -61,56 +70,51 @@ const hash = (value) =>
         .digest("hex");
 
 test("Nordmal preserves its names, elements, old meanings and existing prose", () => {
-    // Only eight false bound-element tags moved; six ordinary nouns gained tags.
-    const old = nameWords;
+    const before = beforeEncodingMigration(language.file);
+    assertEncodingMigrationPreserved(language, before);
+    const oldWords = before.fm.data.words;
+    const core = oldWords.findIndex((word) => word.field === "Everyday speech");
     assert.equal(
-        hash(old.map(({ concept, ...w }) => w)),
+        contentHash(oldWords.slice(0, core).map(({ concept, ...word }) => word)),
         "1f8d301b4b48cb2b5956e6f8b370f7ef94430075bb8ab463609302e589529423",
     );
-    const { words: _words, fields, roman: _roman, ...data } = language.fm.data;
-    const { register } = data;
-    // The Haulonna work on main added this Nordmal name after Thalmdal.
-    // Verify that exact addition, then retain the original metadata fingerprint.
+    const { words: _words, fields, roman: _roman, ...data } = before.fm.data;
     const addedName = { name: "Hlusmil Svartrunar", tongue: "nordmal" };
-    assert.deepEqual(
-        register.filter(({ name }) => name === addedName.name),
-        [addedName],
-    );
-    assert.equal(register[0].name, "Thalmdal");
-    assert.deepEqual(register[1], addedName);
-    const nameBoundary = register.findIndex(({ name }) => name === "Aldvar");
-    assert(nameBoundary >= 0);
-    const oldRegister = register
-        .slice(0, nameBoundary + 1)
-        .filter(({ name }) => name !== addedName.name);
+    assert.deepEqual(data.register[1], addedName);
+    assert(language.fm.data.register.some((entry) => entry.name === addedName.name.toLowerCase()));
+    const end = data.register.findIndex((entry) => entry.name === "Aldvar");
+    assert(end >= 0);
+    const oldRegister = data.register
+        .slice(0, end + 1)
+        .filter((entry) => entry.name !== addedName.name);
     assert.equal(
-        hash({ ...language.fm, data: { ...data, register: oldRegister } }),
+        contentHash({ ...before.fm, data: { ...data, register: oldRegister } }),
         "cda0750d48fd983dd4952d5669981f854083a9a5d3070077279b6a639e61cfb1",
     );
     assert.equal(
-        hash(fields.slice(0, -1)),
+        contentHash(fields.slice(0, -1)),
         "22d7f42365d332f3d9911cf643f6a822e334f7c0439f861f87ef09f1f2e276fc",
     );
-    assert.deepEqual(fields.at(-1), {
+    assert.deepEqual(language.fm.data.fields.at(-1), {
         name: "Everyday speech",
         holds: "Ordinary words and expressions for perception, feeling, bodily life, relationships, things, actions and conversation.",
     });
     assert.equal(
-        hash(
-            splitFrontmatter(language.raw).body.replace(
+        contentHash(
+            splitFrontmatter(before.raw).body.replace(
                 /### Everyday speech\n[\s\S]*?(?=## Related Languages)/u,
                 "",
             ),
         ),
         "47fdc3900c1794a8243c24189d85e4361681b52c6bd571c1cad0f2953ac1e779",
     );
-    for (const w of words.filter((w) =>
-        ["stem", "name", "pref"].includes(parseWordClass(w.class).base),
+    for (const word of words.filter((word) =>
+        ["stem", "name", "pref"].includes(parseWordClass(word.class).base),
     ))
-        assert.equal(w.concept, undefined, w.form);
+        assert.equal(word.concept, undefined, word.form);
     for (const id of ["bone", "blood", "fire", "green", "grey", "hand", "black", "water"])
         assert(
-            ordinary.some((w) => [w.concept ?? []].flat().includes(id)),
+            ordinary.some((word) => [word.concept ?? []].flat().includes(id)),
             id,
         );
 });
@@ -204,10 +208,7 @@ test("Nordmal publishes the ordinary citations and their essential usage", async
 });
 
 test("configured Nordmal runs use the real Thuravark wordbook, face and glyph outlines", async () => {
-    const { applyMap, compileMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { renderRuns, runContext } =
-        await import("@heroiclands/package-build/engine/content-scripts");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
+    const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const spelling = read("assets/content/Lore/Scripts/Thuravark_Spelling.md");
@@ -217,16 +218,19 @@ test("configured Nordmal runs use the real Thuravark wordbook, face and glyph ou
     );
     assert.equal(key, "nord");
     assert.equal(configured.tag, "art-x-nord");
-    assert.deepEqual(language.fm.data.writtenIn, { map: "thuravark", font: "thuravark-carved" });
-    const ctx = runContext({ ...config, rootDir: process.cwd() }, [...records, record(spelling)]);
+    assert.equal(Object.hasOwn(language.fm.data, "writtenIn"), false);
+    const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
+        ...records,
+        record(spelling),
+    ]);
     assert(ctx.lexicons.has(key));
     assert(ctx.wordBooks.has(key));
-    const map = compileMap(spelling.fm.data.map);
-    const face = resolveScriptFonts(process.cwd()).faces.get(language.fm.data.writtenIn.font);
-    const native = nativeLookup(ctx.lexicons.get(key), map.name, face.slug);
+    const map = encodingReference("nord").encoding;
+    const face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+    const native = serializeLexicon(ctx.lexicons.get(key));
     const outlines = fontOutlines(face.file);
     function mappedWithOutlines(form) {
-        const mapped = applyMap(map, form, { font: face.slug, native }).text;
+        const mapped = encodeWithLanguage(map, form, { font: face.slug, lexicon: native }).text;
         for (const [at, char] of [...mapped].entries())
             if (!/\s/u.test(char)) {
                 assert(face.draws.has(char.codePointAt(0)), `${form}: undeclared glyph`);
@@ -244,13 +248,13 @@ test("configured Nordmal runs use the real Thuravark wordbook, face and glyph ou
         return mapped;
     }
     for (const w of ordinary) {
-        const rendered = renderRuns(`[${w.form}]{.nativefont lang=${key}}`, ctx);
+        const rendered = renderRuns(`[${w.form}]{lang=${key} enc=${map.name}}`, ctx);
         assert.deepEqual(rendered.errors, [], w.form);
         assert(rendered.markdown.includes(mappedWithOutlines(w.form)), w.form);
         assert(rendered.markdown.includes(`lang=${configured.tag}`), w.form);
     }
     mappedWithOutlines("hnoskurv"); // Every letter maps and draws; rejection must be lexical.
-    const unknown = renderRuns(`[hnoskurv]{.nativefont lang=${key}}`, ctx);
+    const unknown = renderRuns(`[hnoskurv]{lang=${key} enc=${map.name}}`, ctx);
     assert.equal(unknown.errors.length, 1);
     assert.match(unknown.errors[0].message, /not a word of the `nord` lexicon/u);
 });
@@ -318,78 +322,40 @@ test("Varokhi independently expresses every inventory concept in its own diction
 const varokhiRecords = [varokhi, inventory].map(record);
 const varokhiWords = varokhi.fm.data.words;
 const varokhiOrdinary = varokhiWords.filter((w) => glossary.has(parseWordClass(w.class).base));
-test("Varokhi additions preserve every original word, name piece and ordinary body citation", async () => {
+test("Varokhi additions preserve every original word, name piece and ordinary body citation", () => {
+    const before = beforeEncodingMigration(varokhi.file);
+    assertEncodingMigrationPreserved(varokhi, before);
+    assertPublicLanguageProjections(varokhi, before, 90);
     assert.equal(
-        hash(varokhiWords.slice(0, 90).map(({ concept, ...w }) => w)),
+        contentHash(before.fm.data.words.slice(0, 90).map(({ concept, ...word }) => word)),
         "90b5aaaeaa2331b510bd81b602d470b3912d63b70cdc56bb5fdc2ddf14676c9e",
     );
-    const { words: _words, fields, register, roman: _roman, ...data } = varokhi.fm.data;
-    // Preserve all pre-literature name declarations while the contract test below
-    // validates registrations added for the new readings.
-    const original = YAML.parse(
-        splitFrontmatter(
-            execFileSync("git", ["show", "cda3ead48:assets/content/Skills/Languages/Varokhi.md"], {
-                encoding: "utf8",
-            }),
-        ).yaml,
-    );
+    const { words: _words, fields, register, roman: _roman, ...data } = before.fm.data;
+    const original = beforeEncodingMigration(varokhi.file, "cda3ead48").fm;
     assert.equal(
-        hash({
-            ...varokhi.fm,
+        contentHash({
+            ...before.fm,
             data: { ...data, register: register.slice(0, original.data.register.length) },
         }),
         "801ac1d67b9d2d1f3ab010077b2308d200571cd15caa678a6be32eb0be9f804b",
     );
     assert.equal(
-        hash(fields.slice(0, -1)),
+        contentHash(fields.slice(0, -1)),
         "e3bb9b85de9cdc104a58caa1ffd399a3c4362b6ee2a26484910a9deda412aba2",
     );
-    assert.deepEqual(fields.at(-1), {
+    assert.deepEqual(varokhi.fm.data.fields.at(-1), {
         name: "Everyday speech",
         holds: "Ordinary words and expressions for perception, feeling, bodily life, relationships, things, actions and conversation.",
     });
-    const oldBody = splitFrontmatter(varokhi.raw).body.replace(
+    const body = splitFrontmatter(before.raw).body.replace(
         /## Everyday speech\n[\s\S]*?(?=## Sample Phrases)/u,
         "",
     );
-    assert.equal(hash(oldBody), "7ca5e3b8bd4da8f6d35345c8eeb55182b37156109893f1bd1b33e18bf3bf3c4c");
-    assert(oldBody.includes('"Eth shal."'));
-    const originalData = {
-        ...varokhi.fm.data,
-        words: varokhiWords.slice(0, 90),
-        fields: fields.slice(0, -1),
-    };
-    const { pieceGlosses } = await import("@heroiclands/package-build/engine/word-rows");
-    const before = pieceGlosses(originalData),
-        after = pieceGlosses(varokhi.fm.data);
-    const forms = new Set();
-    function collect(value) {
-        if (Array.isArray(value)) {
-            for (const item of value) collect(item);
-            return;
-        }
-        if (!value || typeof value !== "object") return;
-        for (const [key, item] of Object.entries(value)) {
-            if (["form", "front", "joining"].includes(key) && typeof item === "string")
-                forms.add(item);
-            if (["built", "variants", "elements"].includes(key) && Array.isArray(item))
-                for (const form of item) if (typeof form === "string") forms.add(form);
-            collect(item);
-        }
-    }
-    collect(originalData);
-    for (const m of oldBody.matchAll(/`(-[\p{L}]+-?|-?[\p{L}]+-)`/gu)) forms.add(m[1]);
-    for (const form of [...forms].flatMap((f) => [f, f.replace(/^-+|-+$/gu, "")]))
-        assert.equal(after(form), before(form), `${form}: old Varokhi piece interpretation`);
-    const originalRecord = { ...record(varokhi), data: originalData };
-    const priorDictionary = dictionaryAndTermRows([originalRecord]).dictionary;
-    const currentDictionary = dictionaryAndTermRows(varokhiRecords).dictionary;
-    for (const row of priorDictionary)
-        assert.deepEqual(
-            currentDictionary.find((r) => r.language === row.language && r.name === row.name),
-            row,
-            row.name,
-        );
+    assert.equal(
+        contentHash(body),
+        "7ca5e3b8bd4da8f6d35345c8eeb55182b37156109893f1bd1b33e18bf3bf3c4c",
+    );
+    assert(body.includes('"Eth shal."'));
 });
 
 test("Varokhi satisfies its own source, word, name and dictionary contracts", () => {
@@ -477,10 +443,7 @@ test("Varokhi publishes every actual citation and its essential meaning", async 
 });
 
 test("Varokhi uses its real Semaron face, configured wordbook and drawable glyphs", async () => {
-    const { applyMap, compileMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { runContext, renderRuns } =
-        await import("@heroiclands/package-build/engine/content-scripts");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
+    const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const spelling = read("assets/content/Lore/Scripts/Semaron_Spelling.md");
@@ -490,19 +453,19 @@ test("Varokhi uses its real Semaron face, configured wordbook and drawable glyph
     );
     assert.equal(key, "varo");
     assert.equal(configured.tag, "art-x-varo");
-    assert.deepEqual(varokhi.fm.data.writtenIn, { map: "semaron", font: "semaron-kuriale" });
-    const ctx = runContext({ ...config, rootDir: process.cwd() }, [
+    assert.equal(Object.hasOwn(varokhi.fm.data, "writtenIn"), false);
+    const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
         ...varokhiRecords,
         record(spelling),
     ]);
     assert(ctx.wordBooks.has(key));
     assert(ctx.lexicons.has(key));
-    const map = compileMap(spelling.fm.data.map),
-        face = resolveScriptFonts(process.cwd()).faces.get(varokhi.fm.data.writtenIn.font);
-    const native = nativeLookup(ctx.lexicons.get(key), map.name, face.slug),
+    const map = encodingReference("varo").encoding,
+        face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+    const native = serializeLexicon(ctx.lexicons.get(key)),
         outlines = fontOutlines(face.file);
     function mapped(form) {
-        const text = applyMap(map, form, { font: face.slug, native }).text;
+        const text = encodeWithLanguage(map, form, { font: face.slug, lexicon: native }).text;
         for (const char of text)
             if (!/\s/u.test(char)) {
                 assert(face.draws.has(char.codePointAt(0)), `${form}: undeclared glyph`);
@@ -511,13 +474,13 @@ test("Varokhi uses its real Semaron face, configured wordbook and drawable glyph
         return text;
     }
     for (const w of varokhiOrdinary) {
-        const result = renderRuns(`[${w.form}]{.nativefont lang=${key}}`, ctx);
+        const result = renderRuns(`[${w.form}]{lang=${key} enc=${map.name}}`, ctx);
         assert.deepEqual(result.errors, [], w.form);
         assert(result.markdown.includes(mapped(w.form)), w.form);
         assert(result.markdown.includes(`lang=${configured.tag}`), w.form);
     }
     mapped("wrathun");
-    const unknown = renderRuns(`[wrathun]{.nativefont lang=${key}}`, ctx);
+    const unknown = renderRuns(`[wrathun]{lang=${key} enc=${map.name}}`, ctx);
     assert.equal(unknown.errors.length, 1);
     assert.match(unknown.errors[0].message, /not a word of the `varo` lexicon/u);
 });

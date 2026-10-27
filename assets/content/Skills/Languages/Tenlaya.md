@@ -6,7 +6,7 @@ subType: language
 description: "The unwritten tongue of the Grass People of the northern plains: quick, open and full of soft endings, spoken alike in the hunting camps and the earth-lodge villages."
 tags: []
 data:
-  roman: "acehiklmnopstuwyáéíóú0123456789.,?!“”—…-"
+  roman: "acehiklmnopstuwyáéíóú0123456789-"
   core: true
   abbreviation: Ten.
   fields:

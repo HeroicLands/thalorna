@@ -6,7 +6,7 @@ subType: language
 description: "The tongue of Taruzel's merchant guilds and sea-lanes, freighted with words for ledgers, tides, and every knot a sailor can tie."
 tags: []
 data:
-  roman: "abdeghijklmnpqrstuvyzABDEGHIJKLMNPQRSTUVYZáéíóúëÁÉÍÓÚË0123456789.,;:?!“”()—–…-fFoO"
+  roman: "abdeghijklmnpqrstuvyzABDEGHIJKLMNPQRSTUVYZáéíóúëÁÉÍÓÚË0123456789()–-fFoO"
   core: true
   abbreviation: Taruz.
   fields:

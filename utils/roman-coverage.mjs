@@ -40,6 +40,8 @@ export function scan() {
                 `${file}: error: every language skill declares data.roman; an empty string explicitly declares no written words`,
             );
     for (const [language, declaration] of Object.entries(config.languages ?? {})) {
+        // A language with no note, such as `zxx` for literal codes, has no roman to declare.
+        if (!declaration.note) continue;
         const note = notes.get(declaration.note?.replace(/^thalorna-note-/, ""));
         if (!note) {
             findings.push(`${CONFIG}: error: ${language} names no language skill note`);

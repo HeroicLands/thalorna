@@ -6,10 +6,9 @@ subType: language
 description: "The poetic tongue of the desert peoples, carried on recited verse far more often than on ink."
 tags: []
 data:
-  roman: "abdefghijklmnopqrstuvwyzABDEFGHIJKLMNOPQRSTUVWYZáéíóúëÁÉÍÓÚË0123456789.,·-'"
+  roman: "abdefghijklmnopqrstuvwyzáéíóúë0123456789·-'"
   core: true
   abbreviation: Dun.
-  writtenIn: {map: qalezu, font: qalezu-hand}
   fields:
     - name: "The Shebarader's court"
       holds: "The offices through which the Shebarader of Amradad governs his cities, markets and doors."
@@ -46,27 +45,27 @@ data:
     - form: "-avad"
       gloss: "watered ground: an oasis or a spring"
       attaches: "added"
-      examples: ["ghavul- > Ghavulavad, the drawing-place"]
+      examples: ["ghavul- > ghavulavad, the drawing-place"]
     - form: "-akhend"
       gloss: "a town, a walled settlement"
       attaches: "added"
-      examples: ["qarvel- > Qarvelakhend, the walled city"]
+      examples: ["qarvel- > qarvelakhend, the walled city"]
     - form: "-akhem"
       gloss: "a camp, lived in for a season"
       attaches: "added"
-      examples: ["kherzul- > Kherzulakhem, the hunters' camp"]
+      examples: ["kherzul- > kherzulakhem, the hunters' camp"]
     - form: "-adez"
       gloss: "a fort, a tower or a vault"
       attaches: "added"
-      examples: ["qeshv- > Qeshvadez, the lightning tower"]
+      examples: ["qeshv- > qeshvadez, the lightning tower"]
     - form: "-an"
       gloss: "a man of the clan, a clan of primary descent"
       attaches: "added"
-      examples: ["barmand- > Barmandan"]
+      examples: ["barmand- > barmandan"]
     - form: "-id"
       gloss: "the descendants of a founder"
       attaches: "added"
-      examples: ["mazan- > Mazanid"]
+      examples: ["mazan- > mazanid"]
   words:
     - {form: "vazhm-", class: stem, field: "The Shebarader's court", gloss: "to weigh a claim"}
     - form: vazhmader
@@ -5886,108 +5885,108 @@ data:
     pattern: "{given} {clan}"
     given:
       female:
-        - "Fazhina"
-        - "Rosharan"
-        - "Azadam"
-        - "Shavineh"
-        - "Dehna"
-        - "Mazinan"
-        - "Mizhara"
-        - "Tavura"
-        - "Sharanaz"
-        - "Sameza"
-        - "Azarin"
-        - "Delanash"
-        - "Golran"
-        - "Yesera"
-        - "Zaranah"
-        - "Ashfan"
-        - "Kharanah"
-        - "Dervun"
-        - "Layah"
-        - "Nahedan"
-        - "Sormina"
-        - "Mahrush"
-        - "Shiran"
-        - "Deyena"
-        - "Farvan"
-        - "Nushir"
-        - "Khozura"
-        - "Zarham"
-        - "Parivin"
-        - "Biban"
-        - "Khavari"
-        - "Shirnah"
-        - "Forreh"
-        - "Rushanah"
-        - "Parnava"
-        - "Givanu"
+        - "fazhina"
+        - "rosharan"
+        - "azadam"
+        - "shavineh"
+        - "dehna"
+        - "mazinan"
+        - "mizhara"
+        - "tavura"
+        - "sharanaz"
+        - "sameza"
+        - "azarin"
+        - "delanash"
+        - "golran"
+        - "yesera"
+        - "zaranah"
+        - "ashfan"
+        - "kharanah"
+        - "dervun"
+        - "layah"
+        - "nahedan"
+        - "sormina"
+        - "mahrush"
+        - "shiran"
+        - "deyena"
+        - "farvan"
+        - "nushir"
+        - "khozura"
+        - "zarham"
+        - "parivin"
+        - "biban"
+        - "khavari"
+        - "shirnah"
+        - "forreh"
+        - "rushanah"
+        - "parnava"
+        - "givanu"
       male:
-        - "Razashar"
-        - "Vahdarun"
-        - "Tirsad"
-        - "Korushan"
-        - "Mehrun"
-        - "Khordesh"
-        - "Yazharan"
-        - "Pashman"
-        - "Barmokh"
-        - "Artavin"
-        - "Farhazar"
-        - "Torvash"
-        - "Sivanash"
-        - "Shuvar"
-        - "Kavezhan"
-        - "Rostadar"
-        - "Samardan"
-        - "Harumaz"
-        - "Kamid"
-        - "Goshanad"
-        - "Jamaris"
-        - "Zarvash"
-        - "Valhamin"
-        - "Nersad"
-        - "Darizhan"
-        - "Ahrash"
-        - "Khoshar"
-        - "Bashvard"
-        - "Tahruz"
-        - "Khorman"
-        - "Shabar"
-        - "Azarvan"
-        - "Pardisak"
-        - "Kayvonad"
-        - "Mahvarad"
-        - "Shurnav"
+        - "razashar"
+        - "vahdarun"
+        - "tirsad"
+        - "korushan"
+        - "mehrun"
+        - "khordesh"
+        - "yazharan"
+        - "pashman"
+        - "barmokh"
+        - "artavin"
+        - "farhazar"
+        - "torvash"
+        - "sivanash"
+        - "shuvar"
+        - "kavezhan"
+        - "rostadar"
+        - "samardan"
+        - "harumaz"
+        - "kamid"
+        - "goshanad"
+        - "jamaris"
+        - "zarvash"
+        - "valhamin"
+        - "nersad"
+        - "darizhan"
+        - "ahrash"
+        - "khoshar"
+        - "bashvard"
+        - "tahruz"
+        - "khorman"
+        - "shabar"
+        - "azarvan"
+        - "pardisak"
+        - "kayvonad"
+        - "mahvarad"
+        - "shurnav"
     clan:
-      - "Afsheran"
-      - "Ferudan"
-      - "Vardozan"
-      - "Tamaran"
-      - "Barmandan"
-      - "Kaveran"
-      - "Parivan"
-      - "Azardan"
-      - "Girani"
-      - "Shadavan"
-      - "Gholshan"
-      - "Darvarid"
-      - "Golshani"
-      - "Bazakan"
-      - "Mazanid"
-      - "Goravan"
-      - "Sarani"
-      - "Parvaran"
-      - "Mahvaran"
-      - "Shamayan"
-      - "Varakan"
-      - "Kaviran"
-      - "Darvani"
-      - "Shirzari"
-      - "Perudan"
-      - "Gazvan"
-      - "Baravi"
-      - "Tamiran"
+      - "afsheran"
+      - "ferudan"
+      - "vardozan"
+      - "tamaran"
+      - "barmandan"
+      - "kaveran"
+      - "parivan"
+      - "azardan"
+      - "girani"
+      - "shadavan"
+      - "gholshan"
+      - "darvarid"
+      - "golshani"
+      - "bazakan"
+      - "mazanid"
+      - "goravan"
+      - "sarani"
+      - "parvaran"
+      - "mahvaran"
+      - "shamayan"
+      - "varakan"
+      - "kaviran"
+      - "darvani"
+      - "shirzari"
+      - "perudan"
+      - "gazvan"
+      - "baravi"
+      - "tamiran"
   sounds:
     edges:
       - {edge: closeConsonant, sounds: [n, r, d, z, sh, kh, k, m, h, v, s]}
@@ -6013,60 +6012,60 @@ data:
     - {tag: ashaian, meaning: "a name taken from the Ashaian faith, whose gods the tribes keep"}
     - {tag: translation, meaning: a name given in the language of these pages}
   register:
-    - {name: Afrun, tongue: dunhari}
-    - {name: Amradad, tongue: dunhari}
+    - {name: afrun, tongue: dunhari}
+    - {name: amradad, tongue: dunhari}
     - {name: Amradad Region, tongue: translation}
-    - {name: Atazkharu, tongue: sovidur}
-    - {name: Azardan, tongue: dunhari}
-    - {name: Baharami-Vadukesh, tongue: dunhari}
-    - {name: Barmandan, tongue: dunhari}
-    - {name: Belgogar, tongue: dunhari, built: [belg-, -ogar]}
+    - {name: atazkharu, tongue: sovidur}
+    - {name: azardan, tongue: dunhari}
+    - {name: baharami-vadukesh, tongue: dunhari}
+    - {name: barmandan, tongue: dunhari}
+    - {name: belgogar, tongue: dunhari, built: [belg-, -ogar]}
     - {name: Bondservant, tongue: translation}
     - {name: Bondsman, tongue: translation}
     - {name: Camp Practitioner, tongue: translation}
     - {name: Caravan-Master, tongue: translation}
     - {name: Chieftain, tongue: translation}
-    - {name: Chuel, tongue: sovidur}
-    - {name: Chuyelqiimod, tongue: sovidur}
+    - {name: chuel, tongue: sovidur}
+    - {name: chuyelqiimod, tongue: sovidur}
     - {name: Court Astrologer, tongue: translation}
     - {name: Court Physician, tongue: translation}
-    - {name: Darzash, tongue: dunhari}
-    - {name: Delanash Ferudan, tongue: dunhari}
+    - {name: darzash, tongue: dunhari}
+    - {name: delanash ferudan, tongue: dunhari}
     - {name: Delegate, tongue: translation}
     - {name: Denounced, tongue: translation}
     - {name: Dependent, tongue: translation}
-    - {name: Dunhara, tongue: dunhari}
+    - {name: dunhara, tongue: dunhari}
     - {name: Dunhara Adventurer's Guide, tongue: translation}
     - {name: Dunhara Desert, tongue: translation}
     - {name: Dunhara Desert Region, tongue: translation}
     - {name: Dunhara Region, tongue: translation}
     - {name: Dunhara Tribes, tongue: translation}
-    - {name: Dunhari, tongue: dunhari}
+    - {name: dunhari, tongue: dunhari}
     - {name: Dunhari Language, tongue: translation}
     - {name: Dunhari Lexicon, tongue: translation}
     - {name: Elder, tongue: translation}
     - {name: Envoy, tongue: translation}
-    - {name: Fakhrad, tongue: dunhari}
-    - {name: Farazun, tongue: dunhari}
-    - {name: Farrud, tongue: dunhari}
-    - {name: Firavad, tongue: dunhari}
-    - {name: Gazvan, tongue: dunhari}
-    - {name: Ghavulavad, tongue: dunhari, built: [ghavul-, -avad]}
-    - {name: Ghedvader, tongue: dunhari, built: [ghedv-, -ader]}
+    - {name: fakhrad, tongue: dunhari}
+    - {name: farazun, tongue: dunhari}
+    - {name: farrud, tongue: dunhari}
+    - {name: firavad, tongue: dunhari}
+    - {name: gazvan, tongue: dunhari}
+    - {name: ghavulavad, tongue: dunhari, built: [ghavul-, -avad]}
+    - {name: ghedvader, tongue: dunhari, built: [ghedv-, -ader]}
     - {name: Ghedvader of the Host, tongue: translation}
-    - {name: Gholvabun, tongue: dunhari, built: [gholv-, -abun]}
-    - {name: Ghuzmogar, tongue: dunhari, built: [ghuzm-, -ogar]}
+    - {name: gholvabun, tongue: dunhari, built: [gholv-, -abun]}
+    - {name: ghuzmogar, tongue: dunhari, built: [ghuzm-, -ogar]}
     - {name: Grand Vashkader, tongue: translation}
     - {name: Guide, tongue: translation}
-    - {name: Gulranah, tongue: dunhari}
-    - {name: Hamelogar, tongue: dunhari, built: [hamel-, -ogar]}
+    - {name: gulranah, tongue: dunhari}
+    - {name: hamelogar, tongue: dunhari, built: [hamel-, -ogar]}
     - {name: Host-Caller, tongue: translation}
     - {name: Householder, tongue: translation}
-    - {name: Kamruz, tongue: dunhari}
+    - {name: kamruz, tongue: dunhari}
     - {name: Keeper of the Feud, tongue: translation}
     - {name: Keeper of the Marked Stones, tongue: translation}
     - {name: Keeper of the Wells, tongue: translation}
-    - {name: Kherzulakhem, tongue: dunhari, built: [kherzul-, -akhem]}
+    - {name: kherzulakhem, tongue: dunhari, built: [kherzul-, -akhem]}
     - {name: Kherzulakhem Camp, tongue: translation}
     - {name: Barred from the Well, tongue: translation}
     - {name: Camper, tongue: translation}
@@ -6075,74 +6074,74 @@ data:
     - {name: Kinsman, tongue: translation}
     - {name: Lawkeeper, tongue: translation}
     - {name: Master of the Post, tongue: translation}
-    - {name: Mazanid, tongue: dunhari}
-    - {name: Mezhvabun, tongue: dunhari, built: [mezhv-, -abun]}
+    - {name: mazanid, tongue: dunhari}
+    - {name: mezhvabun, tongue: dunhari, built: [mezhv-, -abun]}
     - {name: Notable, tongue: translation}
-    - {name: Nuzgader, tongue: dunhari, built: [nuzg-, -ader]}
+    - {name: nuzgader, tongue: dunhari, built: [nuzg-, -ader]}
     - {name: Oasis of Tevrazavad, tongue: translation}
     - {name: Tribe of Tevrazavad, tongue: translation}
     - {name: Tribesman, tongue: translation}
     - {name: Officer of the Court, tongue: translation}
     - {name: Outcast, tongue: translation}
-    - {name: Paresak, tongue: dunhari}
-    - {name: Paryan, tongue: dunhari}
-    - {name: Pevrogar, tongue: dunhari, built: [pevr-, -ogar]}
-    - {name: Qarvelakhend, tongue: dunhari, built: [qarvel-, -akhend]}
-    - {name: Qeshvi, tongue: dunhari, built: [qeshv-, -i]}
-    - {name: Rosharan, tongue: dunhari}
-    - {name: Rudavah, tongue: dunhari}
-    - {name: Ruzhogar, tongue: dunhari, built: [ruzh-, -ogar]}
-    - {name: Sahri, tongue: sovidur}
-    - {name: Sehvogar, tongue: dunhari, built: [sehv-, -ogar]}
-    - {name: Shadezan, tongue: dunhari}
-    - {name: Shavan, tongue: dunhari}
-    - {name: Shebarakhend, tongue: dunhari, built: [shebar-, -akhend]}
-    - {name: Shebarader, tongue: dunhari, built: [shebar-, -ader]}
-    - {name: Shiradar, tongue: dunhari}
-    - {name: Sorvadakhend, tongue: dunhari, built: [sorvad-, -akhend]}
+    - {name: paresak, tongue: dunhari}
+    - {name: paryan, tongue: dunhari}
+    - {name: pevrogar, tongue: dunhari, built: [pevr-, -ogar]}
+    - {name: qarvelakhend, tongue: dunhari, built: [qarvel-, -akhend]}
+    - {name: qeshvi, tongue: dunhari, built: [qeshv-, -i]}
+    - {name: rosharan, tongue: dunhari}
+    - {name: rudavah, tongue: dunhari}
+    - {name: ruzhogar, tongue: dunhari, built: [ruzh-, -ogar]}
+    - {name: sahri, tongue: sovidur}
+    - {name: sehvogar, tongue: dunhari, built: [sehv-, -ogar]}
+    - {name: shadezan, tongue: dunhari}
+    - {name: shavan, tongue: dunhari}
+    - {name: shebarakhend, tongue: dunhari, built: [shebar-, -akhend]}
+    - {name: shebarader, tongue: dunhari, built: [shebar-, -ader]}
+    - {name: shiradar, tongue: dunhari}
+    - {name: sorvadakhend, tongue: dunhari, built: [sorvad-, -akhend]}
     - {name: Speaker of the Council, tongue: translation}
     - {name: Stone of Ranaz, tongue: translation}
     - {name: Storm Cults of Bahramish, tongue: translation}
     - {name: Subject, tongue: translation}
-    - {name: Tagemader, tongue: dunhari, built: [tagem-, -ader]}
-    - {name: Tahrodan, tongue: dunhari}
-    - {name: Tamaran, tongue: dunhari}
-    - {name: Tazhinakhend, tongue: dunhari, built: [tazhin-, -akhend]}
+    - {name: tagemader, tongue: dunhari, built: [tagem-, -ader]}
+    - {name: tahrodan, tongue: dunhari}
+    - {name: tamaran, tongue: dunhari}
+    - {name: tazhinakhend, tongue: dunhari, built: [tazhin-, -akhend]}
     - {name: The Desert Wanderer, tongue: translation}
     - {name: The Followers of the Thundering Voice, tongue: translation}
     - {name: The Silent Jackal, tongue: translation}
     - {name: The Storm Cults, tongue: translation}
-    - {name: Tigh'Baharan, tongue: dunhari}
+    - {name: tigh'baharan, tongue: dunhari}
     - {name: The Storm Cults of Báhramis, tongue: translation}
-    - {name: Torvash, tongue: dunhari}
+    - {name: torvash, tongue: dunhari}
     - {name: Truce-Warden, tongue: translation}
-    - {name: Vadukesh, tongue: dunhari, built: [vaduk-, -esh]}
-    - {name: Vashkader, tongue: dunhari, built: [vashk-, -ader]}
-    - {name: Vazhmader, tongue: dunhari, built: [vazhm-, -ader]}
-    - {name: Venrad, tongue: dunhari}
-    - {name: Venzelakhend, tongue: dunhari, built: [venzel-, -akhend]}
+    - {name: vadukesh, tongue: dunhari, built: [vaduk-, -esh]}
+    - {name: vashkader, tongue: dunhari, built: [vashk-, -ader]}
+    - {name: vazhmader, tongue: dunhari, built: [vazhm-, -ader]}
+    - {name: venrad, tongue: dunhari}
+    - {name: venzelakhend, tongue: dunhari, built: [venzel-, -akhend]}
     - {name: Vessel, tongue: translation}
     - {name: Vessel of Báhramis, tongue: translation}
     - {name: Water-Warden, tongue: translation}
-    - {name: Yorvabun, tongue: dunhari, built: [yorv-, -abun]}
-    - {name: Zevrogar, tongue: dunhari, built: [zevr-, -ogar]}
+    - {name: yorvabun, tongue: dunhari, built: [yorv-, -abun]}
+    - {name: zevrogar, tongue: dunhari, built: [zevr-, -ogar]}
     - {name: Tower of the Lightning-Marked, tongue: translation}
-    - {name: Qeshvadez, tongue: dunhari, built: [qeshv-, -adez]}
+    - {name: qeshvadez, tongue: dunhari, built: [qeshv-, -adez]}
     - {name: The Glass Tower, tongue: translation}
-    - {name: Mezhvadez, tongue: dunhari, built: [mezhv-, -adez]}
+    - {name: mezhvadez, tongue: dunhari, built: [mezhv-, -adez]}
     - {name: The Dry Stair, tongue: translation}
     - {name: The Keeper's Vault, tongue: translation}
-    - {name: Vazhmavad, tongue: dunhari, built: [vazhm-, -avad]}
+    - {name: vazhmavad, tongue: dunhari, built: [vazhm-, -avad]}
     - {name: The Weighing-Place, tongue: translation}
     - {name: The Oasis of the Unrecited, tongue: translation}
     - {name: Associate, tongue: translation}
     - {name: Boss, tongue: translation}
-    - {name: Báhramis, tongue: ashaian}
+    - {name: báhramis, tongue: ashaian}
     - {name: Caravan Priest, tongue: translation}
     - {name: Counsellor, tongue: translation}
     - {name: Courier, tongue: translation}
     - {name: Crew Boss, tongue: translation}
-    - {name: Delkoshekh, tongue: ashaian}
+    - {name: delkoshekh, tongue: ashaian}
     - {name: Earner, tongue: translation}
     - {name: Enforcer, tongue: translation}
     - {name: Fence, tongue: translation}
@@ -6151,72 +6150,72 @@ data:
     - {name: Flame-Reader, tongue: translation}
     - {name: Hanger-on, tongue: translation}
     - {name: Keeper of the Fire-Lineage, tongue: translation}
-    - {name: Khórsadra, tongue: ashaian}
+    - {name: khórsadra, tongue: ashaian}
     - {name: Lay Faithful, tongue: translation}
     - {name: Made Member, tongue: translation}
     - {name: Marked, tongue: translation}
     - {name: Master of Lookouts, tongue: translation}
-    - {name: Míthara, tongue: ashaian}
-    - {name: Mórvahna, tongue: ashaian}
-    - {name: Roqeshekh, tongue: ashaian}
-    - {name: Shekhul, tongue: ashaian}
+    - {name: míthara, tongue: ashaian}
+    - {name: mórvahna, tongue: ashaian}
+    - {name: roqeshekh, tongue: ashaian}
+    - {name: shekhul, tongue: ashaian}
     - {name: Second, tongue: translation}
     - {name: The Ash Road, tongue: translation}
     - {name: The Twelve of the Flame, tongue: translation}
     - {name: Treasurer, tongue: translation}
-    - {name: Zárvanya, tongue: ashaian}
-    - {name: Zúrathra, tongue: ashaian}
-    - {name: Angaros, tongue: ashaian}
-    - {name: Aravesta, tongue: ashaian}
-    - {name: Azravan, tongue: ashaian}
-    - {name: Ahurdaen, tongue: ashaian}
-    - {name: Ashaian Pantheon, tongue: ashaian}
-    - {name: Ataros, tongue: ashaian}
-    - {name: Sirvadar, tongue: ashaian}
-    - {name: Bashvard Darvani, tongue: dunhari}
+    - {name: zárvanya, tongue: ashaian}
+    - {name: zúrathra, tongue: ashaian}
+    - {name: angaros, tongue: ashaian}
+    - {name: aravesta, tongue: ashaian}
+    - {name: azravan, tongue: ashaian}
+    - {name: ahurdaen, tongue: ashaian}
+    - {name: ashaian pantheon, tongue: ashaian}
+    - {name: ataros, tongue: ashaian}
+    - {name: sirvadar, tongue: ashaian}
+    - {name: bashvard darvani, tongue: dunhari}
     - {name: Fortress Commander Bashvard Darvani, tongue: translation}
     - {name: Fortress Commander Bashvard, tongue: translation}
-    - {name: Deyena Shamayan, tongue: dunhari}
+    - {name: deyena shamayan, tongue: dunhari}
     - {name: Captain Deyena Shamayan, tongue: translation}
     - {name: Captain Deyena, tongue: translation}
-    - {name: Ahrash Tamiran, tongue: dunhari}
+    - {name: ahrash tamiran, tongue: dunhari}
     - {name: Merchant-Prince Ahrash, tongue: translation}
-    - {name: Harumaz Baravi, tongue: dunhari}
+    - {name: harumaz baravi, tongue: dunhari}
     - {name: Master Harumaz, tongue: translation}
-    - {name: Artavin Kaviran, tongue: dunhari}
+    - {name: artavin kaviran, tongue: dunhari}
     - {name: Father Artavin, tongue: translation}
-    - {name: Razashar Perudan, tongue: dunhari}
+    - {name: razashar perudan, tongue: dunhari}
     - {name: Captain Razashar, tongue: translation}
-    - {name: Shiran Golshani, tongue: dunhari}
+    - {name: shiran golshani, tongue: dunhari}
     - {name: Lady Shiran Golshani, tongue: translation}
     - {name: Lady Shiran, tongue: translation}
-    - {name: Shuvar Shavan, tongue: dunhari}
-    - {name: Shuvar, tongue: dunhari}
-    - {name: Yesera Parivan, tongue: dunhari}
+    - {name: shuvar shavan, tongue: dunhari}
+    - {name: shuvar, tongue: dunhari}
+    - {name: yesera parivan, tongue: dunhari}
     - {name: Lady Yesera Parivan, tongue: translation}
     - {name: Lady Yesera, tongue: translation}
-    - {name: Zarvash Kaveran, tongue: dunhari}
+    - {name: zarvash kaveran, tongue: dunhari}
     - {name: Tribal Elder Zarvash Kaveran, tongue: translation}
     - {name: Tribal Elder Zarvash, tongue: translation}
-    - {name: Zaranah Sarani, tongue: dunhari}
+    - {name: zaranah sarani, tongue: dunhari}
     - {name: Lady Zaranah Sarani, tongue: translation}
     - {name: Lady Zaranah, tongue: translation}
-    - {name: Valhamin Goravan, tongue: dunhari}
+    - {name: valhamin goravan, tongue: dunhari}
     - {name: Merchant Lord Valhamin, tongue: translation}
-    - {name: Khavari Varakan, tongue: dunhari}
+    - {name: khavari varakan, tongue: dunhari}
     - {name: Warlord Khavari the Sorcerer, tongue: translation}
     - {name: Warlord Khavari, tongue: translation}
-    - {name: Mahvarad Parvaran, tongue: dunhari}
+    - {name: mahvarad parvaran, tongue: dunhari}
     - {name: Chieftain Mahvarad, tongue: translation}
-    - {name: Tavura Kamruz, tongue: dunhari}
+    - {name: tavura kamruz, tongue: dunhari}
     - {name: Shaman Tavura, tongue: translation}
-    - {name: Mazinan Shirzari, tongue: dunhari}
+    - {name: mazinan shirzari, tongue: dunhari}
     - {name: Inquisitor Mazinan, tongue: translation}
-    - {name: Tahruz Girani, tongue: dunhari}
+    - {name: tahruz girani, tongue: dunhari}
     - {name: Captain Tahruz the Venerable, tongue: translation}
     - {name: Captain Tahruz, tongue: translation}
-    - {name: Bahar, tongue: dunhari}
-    - {name: Vast, tongue: dunhari}
+    - {name: bahar, tongue: dunhari}
+    - {name: vast, tongue: dunhari}
   retired:
     - {form: Qadi, instead: Vazhmader, why: "an Earth word, the judge of a city"}
     - {form: qadi, instead: vazhmader, why: "an Earth word, the judge of a city"}

@@ -25,35 +25,35 @@ The legend names no direction beyond the far north and no range or coast, and ev
 : The Hulabat Fragment {#fragment}
 
 ```verse {form=fragment numstep=5 cols=2}
-1 […][ thufár ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ bamigez ganvirez ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…]
+1 […][ thufár ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ bamigez ganvirez ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…]
 2 […][ burned to ash ]{lang=en}[…][ the deep delvers ]{lang=en}[…]
 2 […][ thufár ]{lang=khaz}[…][ bamigez ganvirez ]{lang=khaz}[…]
 
-1 […][ zi nuláv dalk ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ fanth zi vogun puvár ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…]
+1 […][ zi nuláv dalk ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ fanth zi vogun puvár ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…]
 2 […][ lying under stone ]{lang=en}[…][ the hall they held ]{lang=en}[…]
 2 […][ zi nuláv dalk ]{lang=khaz}[…][ fanth zi vogun puvár ]{lang=khaz}[…]
 
-1 […][ lakamevez ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ bep lakamevez ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ dhamivevez ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…]
+1 […][ lakamevez ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ bep lakamevez ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ dhamivevez ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…]
 2 […][ lamps ]{lang=en}[…][ and lamps ]{lang=en}[…][ dark ]{lang=en}[…]
 2 […][ lakamevez ]{lang=khaz}[…][ bep lakamevez ]{lang=khaz}[…][ dhamivevez ]{lang=khaz}[…]
 
 ***
 
-1 …[Halíb baval bep hudabaz zi karf puvár, zi fakarirez khubár sadav]{.nativefont lang=khaz map=pirzath font=pirzath-carved}…
+1 …[halíb baval bep hudabaz zi karf puvár, zi fakarirez khubár sadav]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}…
 2 …[silver water and the falcon’s resting place, where the way-finders face north]{lang=en}…
-2 …[Halíb baval bep hudabaz zi karf puvár, zi fakarirez khubár sadav]{lang=khaz}…
+2 …[halíb baval bep hudabaz zi karf puvár, zi fakarirez khubár sadav]{lang=khaz}…
 
 ***
 
-1 […][ daghal ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ dughál ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…]
+1 […][ daghal ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ dughál ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…]
 2 […][ the door ]{lang=en}[…][ opened ]{lang=en}[…]
 2 […][ daghal ]{lang=khaz}[…][ dughál ]{lang=khaz}[…]
 
-1 […][ zi nudháp ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ thuf ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…]
+1 […][ zi nudháp ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ thuf ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…]
 2 […][ who went down ]{lang=en}[…][ not ]{lang=en}[…]
 2 […][ zi nudháp ]{lang=khaz}[…][ thuf ]{lang=khaz}[…]
 
-1 […][ thafar ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ bep baval ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…][ kodz zi thuláv ]{.nativefont lang=khaz map=pirzath font=pirzath-carved}[…]
+1 […][ thafar ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ bep baval ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…][ kodz zi thuláv ]{lang=khaz enc=khazpirzathcarvedenc font=pirzath-carved}[…]
 2 […][ ash ]{lang=en}[…][ and water ]{lang=en}[…][ what remains ]{lang=en}[…]
 2 […][ thafar ]{lang=khaz}[…][ bep baval ]{lang=khaz}[…][ kodz zi thuláv ]{lang=khaz}[…]
 

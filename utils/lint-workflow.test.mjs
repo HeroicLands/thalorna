@@ -68,20 +68,29 @@ test("build retains standalone commands and shares one published index with Veld
     );
 });
 
-test("both font consumers fetch the same immutable revision without adding a dependency job", () => {
+test("native geometry pins one font revision while language guards use installed encoders", () => {
     assert.match(workflow.env.FONTS_REVISION, /^[a-f0-9]{40}$/);
-    for (const [job, name] of [
-        ["fonts", "Fetch the fonts"],
-        ["build", "Veldikko"],
-    ]) {
-        const run = step(job, name).run;
-        assert.match(run, /fetch.*\"\$FONTS_REVISION\"/);
-        assert.match(run, /checkout.*FETCH_HEAD/);
-    }
+    const fetch = step("fonts", "Fetch the fonts").run;
+    assert.match(fetch, /fetch.*\"\$FONTS_REVISION\"/);
+    assert.match(fetch, /checkout.*FETCH_HEAD/);
     assert.equal(workflow.jobs.build.needs, undefined);
     assert.equal(workflow.jobs.fonts.needs, undefined);
-    assert.match(step("fonts", "Install the fonts' Node packages").run, /npm ci/);
-    assert.doesNotMatch(step("build", "Veldikko").run, /npm ci/);
+    assert.match(step("fonts", "Install Thalorna dependencies").run, /npm ci/);
+    assert.doesNotMatch(step("build", "Veldikko").run, /npm ci|git .*fetch|--fonts/);
+    const geometry = workflow.jobs.fonts.steps.filter((entry) =>
+        /native fixtures and geometry$/.test(entry.name ?? ""),
+    );
+    assert.equal(geometry.length, 8);
+    for (const entry of geometry) {
+        assert.match(
+            entry.run,
+            /--font \"?\$GITHUB_WORKSPACE\/node_modules\/@heroiclands\/fonts\/fonts\//,
+        );
+        assert.doesNotMatch(entry.run, /--note|--map-note/);
+    }
+    const forms = step("fonts", "Shape every lexicon form through its encoding document").run;
+    assert.match(forms, /node utils\/font-lexicon-inputs.mjs/);
+    assert.match(forms, /utils\/font-lexicon-guard.py.*--input/s);
 });
 
 test("Veldikko refuses absent publication, clears stale output, and runs after a later build failure", (t) => {
@@ -127,7 +136,7 @@ test("Veldikko refuses absent publication, clears stale output, and runs after a
     assert.equal(published.status, 0, published.stderr);
     assert.match(
         fs.readFileSync(path.join(dir, "calls"), "utf8"),
-        /node utils\/veldikko-guard.mjs --index build\/content-index\/thalorna-metadata.jsonl --fonts/,
+        /node utils\/veldikko-guard.mjs --index build\/content-index\/thalorna-metadata.jsonl(?:\n|$)/,
     );
 });
 

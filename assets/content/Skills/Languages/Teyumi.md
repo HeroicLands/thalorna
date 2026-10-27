@@ -6,7 +6,7 @@ subType: language
 description: "The unwritten tongue of the Turquoise People of the desert's northern rim: open, soft and long-voweled, spoken in the canyons and along the canals."
 tags: []
 data:
-  roman: "aeghiklmnopstuvwyáéíóú0123456789.,?!“”—…-'"
+  roman: "aeghiklmnopstuvwyáéíóú0123456789-'"
   core: true
   abbreviation: Tey.
   fields:

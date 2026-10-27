@@ -1,6 +1,16 @@
 /* Copyright (c) 2026 Tom Rodriguez ("Toasty") — <toasty@heroiclands.org>
  * SPDX-License-Identifier: GPL-3.0-or-later */
 import assert from "node:assert/strict";
+import {
+    beforeEncodingMigration,
+    assertEncodingMigrationPreserved,
+    assertPublicLanguageProjections,
+    contentHash,
+    caselessCitationKey,
+} from "./encoding-preservation.mjs";
+import { encodingReference, referenceContext } from "./encoding-reference.mjs";
+import { encodeWithLanguage } from "@heroiclands/package-build/engine/encoding-language";
+import { serializeLexicon } from "@heroiclands/package-build/engine/encoding-lexicon";
 import fs from "node:fs";
 import test from "node:test";
 import YAML from "yaml";
@@ -54,59 +64,41 @@ const record = ({ fm, file }) => ({ ...fm, file, package: "thalorna", system: "n
     records = [note, inventory].map(record),
     words = note.fm.data.words;
 const citations = words.filter((w) => ordinary.has(parseWordClass(w.class).base));
+const historicalCitations = new Set(
+    beforeEncodingMigration(note.file).fm.data.words.slice(0, 40).map(caselessCitationKey),
+);
+const newCitations = words.filter((word) => !historicalCitations.has(caselessCitationKey(word)));
 test("Atárzadi preserves the original names, stems, endings, metadata and prose", () => {
+    const before = beforeEncodingMigration(note.file);
+    assertEncodingMigrationPreserved(note, before);
+    assertPublicLanguageProjections(note, before, 40);
+    // Keep the original fingerprints: the approved representation changes are
+    // proved separately against every historical record, rather than rehashed.
     assert.equal(
-        hash(words.slice(0, 40)),
+        contentHash(before.fm.data.words.slice(0, 40)),
         "18086d735f63cdf0df9c9c68ba168b1b577df8a3d91792ddb2b768461fdbc330",
     );
-    const { words: _words, fields, roman: _roman, ...data } = note.fm.data;
+    const { words: _words, fields, roman: _roman, ...data } = before.fm.data;
     assert.equal(
-        hash({ ...note.fm, data }),
+        contentHash({ ...before.fm, data }),
         "c173ebf6f82d0c711391ee010af4170348cbaedf3c84f2c85a9ff19c549613c1",
     );
     assert.equal(
-        hash(fields.slice(0, -1)),
+        contentHash(fields.slice(0, -1)),
         "a5a3aef16fcc628ee5428ebc2b3f82ef369658caa1c138935a26f17eb0db2f2d",
     );
-    assert.deepEqual(fields.at(-1), {
+    assert.deepEqual(note.fm.data.fields.at(-1), {
         name: "Everyday speech",
         holds: "Ordinary words and expressions for bodily life, relationships, things, actions and conversation.",
     });
     assert.equal(
-        hash(splitFrontmatter(note.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, "")),
+        contentHash(
+            splitFrontmatter(before.raw).body.replace(/\n## Everyday speech\n[\s\S]*$/u, ""),
+        ),
         "4052e8b595e24d79bc9795cf2c39b65e9e7120121a2d16874b636d0461aa5da0",
     );
-    const priorData = { ...note.fm.data, words: words.slice(0, 40), fields: fields.slice(0, -1) },
-        before = pieceGlosses(priorData),
-        after = pieceGlosses(note.fm.data),
-        forms = new Set();
-    function collect(o) {
-        if (Array.isArray(o)) {
-            o.forEach(collect);
-            return;
-        }
-        if (!o || typeof o !== "object") return;
-        for (const [k, v] of Object.entries(o)) {
-            if (["form", "front", "joining"].includes(k) && typeof v === "string") forms.add(v);
-            if (["built", "variants", "elements"].includes(k) && Array.isArray(v))
-                for (const f of v) if (typeof f === "string") forms.add(f);
-            collect(v);
-        }
-    }
-    collect(priorData);
-    function collectNames(value) {
-        if (typeof value === "string" && !value.includes("{")) forms.add(value);
-        else if (Array.isArray(value)) value.forEach(collectNames);
-        else if (value && typeof value === "object") Object.values(value).forEach(collectNames);
-    }
-    collectNames(priorData.names);
-    for (const form of [...forms].flatMap((f) => [f, f.replace(/^-+|-+$/gu, "")]))
-        assert.equal(after(form), before(form), form);
-    assert.equal(
-        dictionaryAndTermRows([{ ...record(note), data: priorData }]).dictionary.length,
-        0,
-    );
 });
+
 test("Atárzadi projects actual ordinary classes and senses through the published engine", () => {
     assert.equal(note.fm.data.family, undefined);
     assert.deepEqual(
@@ -139,9 +131,9 @@ test("Atárzadi projects actual ordinary classes and senses through the publishe
     assert.equal(report.covered, expected.size);
 });
 test("new Atárzadi citations use real free stems and the stated spelling palette", () => {
-    const free = new Set(words.slice(40).map((w) => w.form)),
+    const free = new Set(newCitations.map((w) => w.form)),
         established = new Map(note.fm.data.elements.map((e) => [e.form, e.sense]));
-    for (const w of words.slice(40)) {
+    for (const w of newCitations) {
         assert.equal(w.form, w.form.trim());
         for (const t of w.form.split(" ")) {
             assert(free.has(t), w.form + ": undefined ordinary constituent " + t);
@@ -167,7 +159,7 @@ test("new Atárzadi citations use real free stems and the stated spelling palett
             for (const id of [w.concept ?? []].flat())
                 if (ids.has(id)) assert.equal(w.class, group === "body" ? "n" : "v", w.form);
     }
-    for (const w of words.slice(40).filter((w) => w.built?.includes("-ekh")))
+    for (const w of newCitations.filter((w) => w.built?.includes("-ekh")))
         assert.equal(w.form, w.built[0] + "ekh");
 });
 test("Atárzadi publishes every ordinary meaning and its essential usage", async () => {
@@ -182,10 +174,7 @@ test("Atárzadi publishes every ordinary meaning and its essential usage", async
     }
 });
 test("Atárzadi uses its real Qalezu face, configured wordbook and drawable glyphs", async () => {
-    const { applyMap, compileMap } = await import("@heroiclands/package-build/engine/text-maps");
-    const { runContext, renderRuns } =
-        await import("@heroiclands/package-build/engine/content-scripts");
-    const { nativeLookup } = await import("@heroiclands/package-build/engine/map-lexicon");
+    const { renderRuns } = await import("@heroiclands/package-build/engine/content-scripts");
     const { resolveScriptFonts } = await import("@heroiclands/package-build/engine/script-fonts");
     const { fontOutlines } = await import("@heroiclands/package-build/engine/font-outlines");
     const spelling = read("assets/content/Lore/Scripts/Qalezu_Spelling.md");
@@ -195,16 +184,19 @@ test("Atárzadi uses its real Qalezu face, configured wordbook and drawable glyp
     );
     assert.equal(key, "atar");
     assert.equal(configured.tag, "art-x-atar");
-    assert.deepEqual(note.fm.data.writtenIn, { map: "qalezu", font: "qalezu-hand" });
-    const ctx = runContext({ ...config, rootDir: process.cwd() }, [...records, record(spelling)]);
+    assert.equal(Object.hasOwn(note.fm.data, "writtenIn"), false);
+    const ctx = referenceContext({ ...config, rootDir: process.cwd() }, [
+        ...records,
+        record(spelling),
+    ]);
     assert(ctx.wordBooks.has(key));
     assert(ctx.lexicons.has(key));
-    const map = compileMap(spelling.fm.data.map),
-        face = resolveScriptFonts(process.cwd()).faces.get(note.fm.data.writtenIn.font);
-    const native = nativeLookup(ctx.lexicons.get(key), map.name, face.slug),
+    const map = encodingReference("atar").encoding,
+        face = resolveScriptFonts(process.cwd()).faces.get(map.font);
+    const native = serializeLexicon(ctx.lexicons.get(key)),
         outlines = fontOutlines(face.file);
     function mapped(form) {
-        const text = applyMap(map, form, { font: face.slug, native }).text;
+        const text = encodeWithLanguage(map, form, { font: face.slug, lexicon: native }).text;
         for (const char of text)
             if (!/\s/u.test(char)) {
                 assert(face.draws.has(char.codePointAt(0)), `${form}: undeclared glyph`);
@@ -213,13 +205,13 @@ test("Atárzadi uses its real Qalezu face, configured wordbook and drawable glyp
         return text;
     }
     for (const w of citations) {
-        const result = renderRuns(`[${w.form}]{.nativefont lang=${key}}`, ctx);
+        const result = renderRuns(`[${w.form}]{lang=${key} enc=${map.name}}`, ctx);
         assert.deepEqual(result.errors, [], w.form);
         assert(result.markdown.includes(mapped(w.form)), w.form);
         assert(result.markdown.includes(`lang=${configured.tag}`), w.form);
     }
     mapped("zhulqur");
-    const unknown = renderRuns(`[zhulqur]{.nativefont lang=${key}}`, ctx);
+    const unknown = renderRuns(`[zhulqur]{lang=${key} enc=${map.name}}`, ctx);
     assert.equal(unknown.errors.length, 1);
     assert.match(unknown.errors[0].message, /not a word of the `atar` lexicon/u);
 });

@@ -5,6 +5,7 @@ import fs from "node:fs";
 import { createHash } from "node:crypto";
 import test from "node:test";
 import YAML from "yaml";
+import { respellText } from "./aelwythi-respell.mjs";
 
 const raw = fs.readFileSync("assets/content/Skills/Languages/Aelwythi.md", "utf8");
 const words = YAML.parse(raw.split("---")[1]).data.words;
@@ -27,7 +28,10 @@ test("ordinary Aelwythi questions and courtesies state the addressee's number", 
         ["expression-what-is-this-called", "What callest thou this."],
         ["expression-excuse-me", "By thy leave"],
     ])
-        assert(forms(concept).includes(form), `${concept} needs the standard expression ${form}`);
+        assert(
+            forms(concept).includes(respellText(form)),
+            `${concept} needs the standard expression ${form}`,
+        );
     for (const word of [...forConcept("you-reference"), ...forConcept("your")])
         assert(!/respectful|honorific|with respect/i.test([word.gloss].flat().join(" ")));
     assert(
@@ -53,7 +57,7 @@ test("declared finite forms support the prescribed present paradigms without mod
             .split("|")
             .slice(1, -1)
             .map((cell) => cell.trim());
-        const word = words.find(({ form }) => form === headword);
+        const word = words.find(({ form }) => form === respellText(headword));
         assert(word, `${headword} needs an entry`);
         const declared = new Set([word.form, ...(word.variants ?? [])]);
         for (const form of displayed)
@@ -71,7 +75,7 @@ test("declared finite forms support the prescribed present paradigms without mod
         "knowen",
         "mayst",
     ])
-        assert(all.has(form), `${form} is part of the prescribed standard`);
+        assert(all.has(respellText(form)), `${form} is part of the prescribed standard`);
     for (const form of ["are", "has", "does", "willen", "shallen", "canen", "mayen"])
         assert(!all.has(form), `${form} conflicts with the prescribed present standard`);
 });
@@ -114,7 +118,7 @@ test("the illustrative sample words retain their reviewed form", () => {
         ]);
     assert.deepEqual(
         actual,
-        reviewed.map(([prose, current]) => [prose, current]),
+        reviewed.map(([prose, current]) => [prose, respellText(current)]),
     );
     let quoted = reviewed
         .map(([prose, _current, previous]) => (prose ? `> "${previous}"` : `> ${previous}`))
@@ -152,7 +156,10 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         "Ye cannot enter till morn.",
         "We cannot abide here longer.",
     ])
-        assert(guide.includes(phrase.replaceAll("_", "")), `missing meaningful example: ${phrase}`);
+        assert(
+            guide.includes(respellText(phrase.replaceAll("_", ""))),
+            `missing meaningful example: ${phrase}`,
+        );
     const utterances = [
         guide.split("**Worked phrases.**")[0],
         ...raw
@@ -175,9 +182,12 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         ["should", "shouldst"],
         ["ought", "oughtest"],
     ]) {
-        const word = words.find(({ form }) => form === headword);
-        assert(word?.variants.includes(singular), `${headword} needs its singular form`);
-        assert(!all.has(`${headword}en`), `${headword} cannot take a plural ending`);
+        const word = words.find(({ form }) => form === respellText(headword));
+        assert(
+            word?.variants.includes(respellText(singular)),
+            `${headword} needs its singular form`,
+        );
+        assert(!all.has(respellText(`${headword}en`)), `${headword} cannot take a plural ending`);
     }
     for (const form of ["Methinks", "Meseems", "Me likes", "Me lists"])
         assert(words.some((word) => word.form === form && /fixed impersonal/.test(word.gloss)));
@@ -197,14 +207,14 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
     // Lexical counts follow the unchanged pronunciation guide and the two declared contractions.
     const longer = new Map([
         ["barley", 2],
-        ["summer's", 2],
+        ["summeres", 2],
         ["asleep", 2],
         ["softly", 2],
         ["walkest", 2],
         ["offering", 2],
         ["watcheth", 2],
-        ["crossing", 2],
-        ["courteous", 2],
+        ["krossing", 2],
+        ["kourteous", 2],
         ["beside", 2],
     ]);
     for (const line of lines) {
@@ -242,23 +252,23 @@ test("the standard records fixed coined sounds and preserves authored lexical ex
             sounds.some((row) => !row.tongue && row.letters.includes(letters) && row.ipa === ipa),
             `${letters} has its fixed coined sound`,
         );
-    const map = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md").map;
-    const pause = String.fromCodePoint(0xf0268);
-    assert.deepEqual(
-        map.rows
-            .filter((row) => (Array.isArray(row) ? row[1] : row.to).includes(pause))
-            .map((row) => (Array.isArray(row) ? row[0] : row.from)),
-        ["."],
+    const encoding = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md");
+    assert.equal(encoding.language, "aelw");
+    assert.equal(encoding.font, "semaron-kuriale");
+    assert.equal(encoding.mappings["."], "POINT");
+    assert.equal(encoding.mappings.k, "KALPEZA_MIN");
+    assert(!Object.hasOwn(encoding, "map"));
+    assert(words.every((word) => !Object.hasOwn(word, "native")));
+    assert(
+        !words.some((word) => /^Capitalized spelling of |^Recorded variant of /.test(word.gloss)),
     );
-    for (const [form, points] of [
-        ["exact", [0xf0233, 0xf0235, 0xf0246, 0xf0230, 0xf0239, 0xf0241]],
-        ["conquer", [0xf0239, 0xf023d, 0xf023c, 0xf0239, 0xf0233, 0xf023f]],
-        ["sceptic", [0xf0240, 0xf0239, 0xf0233, 0xf023e, 0xf0241, 0xf0237, 0xf0239]],
+    for (const [form, gloss] of [
+        ["eksakt", "require or demand"],
+        ["konquer", "overcome or subdue"],
+        ["skeptik", "one who doubts"],
     ])
-        assert.equal(
-            words.find((word) => word.form === form).native.find((entry) => entry.map === map.name)
-                .text,
-            String.fromCodePoint(...points),
+        assert(
+            words.some((word) => word.form === form && word.gloss === gloss),
             form,
         );
 });

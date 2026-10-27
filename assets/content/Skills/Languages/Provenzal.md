@@ -6,11 +6,10 @@ subType: language
 description: "The melodic speech of Provenzia—shaped by Vylari and Élavendri, and long held the proper tongue of courtly love and the lyric arts."
 tags: []
 data:
-  roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëÁÉÍÓÚË0123456789.qQ"
+  roman: "abcdefghijklmnoprstuvyzABCDEFGHIJKLMNOPRSTUVYZáéíóúëÁÉÍÓÚË0123456789qQ"
   core: true
   family: skill-vylarilng
   abbreviation: Prv.
-  writtenIn: {map: semaron, font: semaron-kuriale}
   classModifiers: [m, f]
   fields:
     - name: The city and its standing

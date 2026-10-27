@@ -46,6 +46,7 @@ languages:
     varo: { tag: art-x-varo, note: skill-varokhlng }
     vedy: { tag: art-x-vedy, note: skill-vedyarlng }
     vyl: { tag: art-x-vyl, note: skill-vylarilng }
+    zxx: { tag: zxx }
 
 # The Item and Actor packs are SoHL documents and stamp this version; declaring
 # it restricts no world, so the journals read under any system.

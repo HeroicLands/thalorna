@@ -38,6 +38,7 @@ import fs from "node:fs";
 import path from "node:path";
 import { fileURLToPath } from "node:url";
 import { continents, countries, languages } from "countries-list";
+import YAML from "yaml";
 
 const CONTENT_DIR = "assets/content";
 const DATA_FILES = ["utils/nordmal-concordance.json"];
@@ -73,10 +74,10 @@ const RETIRED_KEY = /^ {2}retired:\s*$/;
 const RETIRED_FORM = /(\bform:\s*)("[^"\n]*"|'[^'\n]*'|[^,}\n]+)/;
 
 /**
- * A mapping note's `data.map` holds letter sequences and their code points, not
+ * An encoding note's `data.mappings` and `rules` hold letter sequences and glyph codes, not
  * words or names, so the whole block is read past.
  */
-const MAP_KEY = /^ {2}map:\s*$/;
+const MAP_KEY = /^ {2}(?:mappings|rules):\s*$/;
 
 /** A line carrying this marker is a comment for later authors. */
 const ANALOG_LINE = /#\s*terran_analog:/;
@@ -841,6 +842,28 @@ const COMMON_CALENDAR = /\bcommon calendar\b/gi;
  */
 export function findEarthNames(file, text, names = earthMatcher()) {
     const exemptFile = EXEMPT_FILES.has(file);
+    // Only an executable encoding document can use Roman as an orthographic
+    // label. Names of peoples and places in its ordinary prose still count.
+    let encodingDocument = false;
+    if (/^  mappings:/m.test(text)) {
+        const frontmatter = /^---\r?\n([\s\S]*?)\r?\n---/.exec(text);
+        if (frontmatter) {
+            let note;
+            try {
+                note = YAML.parse(frontmatter[1]);
+            } catch {
+                note = undefined;
+            }
+            encodingDocument =
+                note?.type === "doc" &&
+                typeof note.data?.language === "string" &&
+                typeof note.data?.font === "string" &&
+                typeof note.data?.mappings === "object" &&
+                note.data.mappings !== null &&
+                !Array.isArray(note.data.mappings) &&
+                note.data?.rules?.normalization === "NFC";
+        }
+    }
     let inRetired = false;
     let inMap = false;
     return text.split("\n").flatMap((line, i) => {
@@ -852,6 +875,11 @@ export function findEarthNames(file, text, names = earthMatcher()) {
         // Blank a retired entry's form, keeping every column.
         if (inRetired)
             line = line.replace(RETIRED_FORM, (_all, key, value) => key + " ".repeat(value.length));
+        if (encodingDocument)
+            line = line.replace(
+                /\bRoman(?=\s+(?:word|inventory|spelling|standard|punctuation|letter|text|input|repertoire)\b)/gu,
+                (word) => " ".repeat(word.length),
+            );
         // Blank only the homograph; other Earth references retain their columns.
         for (const pattern of CONTEXTUAL_HOMOGRAPHS)
             line = line.replace(pattern, (word) => " ".repeat(word.length));

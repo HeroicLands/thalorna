@@ -96,33 +96,33 @@ One such song, [[lore-seventowers|The Seven Towers]], opens on a valley at eveni
 : The Valley at Evening
 
 ```verse {form=elegy numstep=5 cols=2}
-1 [Kalpe aunekke kostemi vennas teipan enneli]{.nativefont lang=sina}
+1 [kalpe aunekke kostemi vennas teipan enneli]{lang=sina enc=sinaveldikkoenc}
 2 [The valley walls close out the daylight early.]{lang=en}
-2 [Kalpe aunekke kostemi vennas teipan enneli]{lang=sina}
+2 [kalpe aunekke kostemi vennas teipan enneli]{lang=sina}
 
-1 [.Irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa]{.nativefont lang=sina}
+1 [.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa]{lang=sina enc=sinaveldikkoenc}
 2 [.The last light rises on the eastern face. It stands. It leaves.]{lang=en}
-2 [.Irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa]{lang=sina}
+2 [.irtal oltandi aulira irvattosto nerveho setty onsa olkai onsa]{lang=sina}
 
-1 [Serdattota ehii ralti melke silnara iltettu]{.nativefont lang=sina}
+1 [serdattota ehii ralti melke silnara iltettu]{lang=sina enc=sinaveldikkoenc}
 2 [We remember only rock, water, swifts.]{lang=en}
-2 [Serdattota ehii ralti melke silnara iltettu]{lang=sina}
+2 [serdattota ehii ralti melke silnara iltettu]{lang=sina}
 
-1 [.Uttes talnava tunes luuro ehii nuuvaho]{.nativefont lang=sina}
+1 [.uttes talnava tunes luuro ehii nuuvaho]{lang=sina enc=sinaveldikkoenc}
 2 [.The world was different then. We sang in the starlight.]{lang=en}
-2 [.Uttes talnava tunes luuro ehii nuuvaho]{lang=sina}
+2 [.uttes talnava tunes luuro ehii nuuvaho]{lang=sina}
 
-1 [Vandel venatta ruvas ovuu taumel onsaa sirne]{.nativefont lang=sina}
+1 [vandel venatta ruvas ovuu taumel onsaa sirne]{lang=sina enc=sinaveldikkoenc}
 2 [The fae answered. Your people learned their name.]{lang=en}
-2 [Vandel venatta ruvas ovuu taumel onsaa sirne]{lang=sina}
+2 [vandel venatta ruvas ovuu taumel onsaa sirne]{lang=sina}
 
-1 [.Ennedhi ovuuho oltarne ehiiho]{.nativefont lang=sina}
+1 [.ennedhi ovuuho oltarne ehiiho]{lang=sina enc=sinaveldikkoenc}
 2 [.A story among you; an evening among us.]{lang=en}
-2 [.Ennedhi ovuuho oltarne ehiiho]{lang=sina}
+2 [.ennedhi ovuuho oltarne ehiiho]{lang=sina}
 
-1 [Setty ehii oluho sendeppi ehii ihaho]{.nativefont lang=sina}
+1 [setty ehii oluho sendeppi ehii ihaho]{lang=sina enc=sinaveldikkoenc}
 2 [We stood there. We remain here.]{lang=en}
-2 [Setty ehii oluho sendeppi ehii ihaho]{lang=sina}
+2 [setty ehii oluho sendeppi ehii ihaho]{lang=sina}
 ```
 
 Why the Sinale have opened themselves to the Élavendren and no other human people is a question that scholars, diplomats, and envious monarchs have pondered for centuries. The Sinale have never explained, and the Élavendren have the good sense not to ask.

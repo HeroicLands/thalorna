@@ -6,10 +6,9 @@ subType: language
 description: "The harsh, long-voweled tongue of the Atarzád, a Desert-family cousin of Dunhari."
 tags: []
 data:
-  roman: "abdeghiklmnoqrstuyzABDEGHIKLMNOQRSTUYZáéíóúëÁÉÍÓÚË0123456789.,·-"
+  roman: "abdeghiklmnoqrstuyzáéíóúë0123456789·-"
   core: true
   abbreviation: Atz.
-  writtenIn: {map: qalezu, font: qalezu-hand}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -17,110 +16,110 @@ data:
     pattern: "{given} {tribe}"
     given:
       female:
-        - "Yuremat"
-        - "Leqoshat"
-        - "Amulezat"
-        - "Sekholat"
-        - "Hozhirat"
-        - "Zoghelat"
-        - "Keshumat"
-        - "Helbazat"
-        - "Zuqelat"
-        - "Koshinat"
-        - "Aqeshat"
-        - "Lekhimat"
-        - "Huleshat"
-        - "Tolezat"
-        - "Niqoshat"
-        - "Emuzhat"
-        - "Yalishat"
-        - "Kurbelat"
-        - "Uzhemat"
-        - "Khumezat"
-        - "Zhurikat"
-        - "Nileshat"
-        - "Yelqimat"
-        - "Eshurat"
-        - "Lozhekat"
-        - "Qimurat"
-        - "Oshenat"
-        - "Yotekhat"
-        - "Teqemat"
-        - "Gizhelat"
+        - "yuremat"
+        - "leqoshat"
+        - "amulezat"
+        - "sekholat"
+        - "hozhirat"
+        - "zoghelat"
+        - "keshumat"
+        - "helbazat"
+        - "zuqelat"
+        - "koshinat"
+        - "aqeshat"
+        - "lekhimat"
+        - "huleshat"
+        - "tolezat"
+        - "niqoshat"
+        - "emuzhat"
+        - "yalishat"
+        - "kurbelat"
+        - "uzhemat"
+        - "khumezat"
+        - "zhurikat"
+        - "nileshat"
+        - "yelqimat"
+        - "eshurat"
+        - "lozhekat"
+        - "qimurat"
+        - "oshenat"
+        - "yotekhat"
+        - "teqemat"
+        - "gizhelat"
       male:
-        - "Gherosor"
-        - "Zhoqaror"
-        - "Khemozor"
-        - "Bizhunor"
-        - "Gholutor"
-        - "Tulqenor"
-        - "Shekhulor"
-        - "Yotekhor"
-        - "Zhudekor"
-        - "Rezhulor"
-        - "Sighotor"
-        - "Nozhikor"
-        - "Khorbetor"
-        - "Keloshor"
-        - "Ghodenor"
-        - "Burqalor"
-        - "Teqemor"
-        - "Zelumor"
-        - "Ghazrelor"
-        - "Eshuror"
-        - "Oshenor"
-        - "Zhurikor"
-        - "Kelumor"
-        - "Zhimelor"
-        - "Ghuzolor"
-        - "Noghezor"
-        - "Helbazor"
-        - "Zuqelor"
-        - "Koshinor"
-        - "Aqeshor"
-        - "Qimuror"
-        - "Lozhekor"
-        - "Dokhimor"
-        - "Yelqimor"
-        - "Bozekhor"
-        - "Nulezhor"
-        - "Qeshumor"
-        - "Azhuror"
-        - "Deghoshor"
-        - "Ebozor"
-        - "Burekhor"
+        - "gherosor"
+        - "zhoqaror"
+        - "khemozor"
+        - "bizhunor"
+        - "gholutor"
+        - "tulqenor"
+        - "shekhulor"
+        - "yotekhor"
+        - "zhudekor"
+        - "rezhulor"
+        - "sighotor"
+        - "nozhikor"
+        - "khorbetor"
+        - "keloshor"
+        - "ghodenor"
+        - "burqalor"
+        - "teqemor"
+        - "zelumor"
+        - "ghazrelor"
+        - "eshuror"
+        - "oshenor"
+        - "zhurikor"
+        - "kelumor"
+        - "zhimelor"
+        - "ghuzolor"
+        - "noghezor"
+        - "helbazor"
+        - "zuqelor"
+        - "koshinor"
+        - "aqeshor"
+        - "qimuror"
+        - "lozhekor"
+        - "dokhimor"
+        - "yelqimor"
+        - "bozekhor"
+        - "nulezhor"
+        - "qeshumor"
+        - "azhuror"
+        - "deghoshor"
+        - "ebozor"
+        - "burekhor"
     tribe:
-      - "Gherosod"
-      - "Bozekhod"
-      - "Kelumod"
-      - "Zhimelod"
-      - "Ghuzolod"
-      - "Noghezod"
-      - "Helbazod"
-      - "Zuqelod"
-      - "Koshinod"
-      - "Zhoqarod"
-      - "Shekhulod"
-      - "Toshelod"
-      - "Ezhirod"
-      - "Ghodenod"
-      - "Burqalod"
-      - "Keloshod"
-      - "Oshenod"
-      - "Zhurikod"
-      - "Umrelod"
-      - "Zhudekod"
-      - "Rezhulod"
-      - "Sighotod"
-      - "Khemozod"
-      - "Bizhunod"
-      - "Gholutod"
-      - "Tulqenod"
-      - "Hozhirod"
-      - "Yotekhod"
-      - "Nozhikod"
-      - "Zoghelod"
-      - "Keshumod"
+      - "gherosod"
+      - "bozekhod"
+      - "kelumod"
+      - "zhimelod"
+      - "ghuzolod"
+      - "noghezod"
+      - "helbazod"
+      - "zuqelod"
+      - "koshinod"
+      - "zhoqarod"
+      - "shekhulod"
+      - "toshelod"
+      - "ezhirod"
+      - "ghodenod"
+      - "burqalod"
+      - "keloshod"
+      - "oshenod"
+      - "zhurikod"
+      - "umrelod"
+      - "zhudekod"
+      - "rezhulod"
+      - "sighotod"
+      - "khemozod"
+      - "bizhunod"
+      - "gholutod"
+      - "tulqenod"
+      - "hozhirod"
+      - "yotekhod"
+      - "nozhikod"
+      - "zoghelod"
+      - "keshumod"
   sounds:
     syllables:
       onsets: single
@@ -144,6 +143,7 @@ data:
       meaning: "an Atárzadi name, built from Atárzadi stems"
       language: skill-atarzadilng
     - {tag: faith, meaning: a name built on a word of the Ashaian faith}
+    - {tag: translation, meaning: a name given in the language of these pages}
   scope:
     folders: [khazryndesert, ankariskhazryndesert]
     cultures: [khazrynclt]
@@ -252,198 +252,178 @@ data:
     - name: Everyday speech
       holds: "Ordinary words and expressions for bodily life, relationships, things, actions and conversation."
   words:
-    - form: Kurbelukhem
+    - form: kurbelukhem
       class: name
       field: Derived words
       gloss: the council of the well
       built: [kurbel, lukhem]
-    - form: Zhoqarod
+    - form: zhoqarod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of war; the largest tribe, the war-tribe; `Bahram` is retired"
       built: [zhoqar, -od]
-    - form: Homzelun
+    - form: homzelun
       class: name
       field: Derived words
       gloss: the whole people
       built: [homzel, -un]
-    - form: Shekhulez
+    - form: shekhulez
       class: name
       field: Derived words
       gloss: the place of the flame
       built: [shekhul, -ez]
-    - {form: Zhoqarekh, class: name, field: Derived words, gloss: a warrior, built: [zhoqar, -ekh]}
-    - form: Gherosor
+    - {form: zhoqarekh, class: name, field: Derived words, gloss: a warrior, built: [zhoqar, -ekh]}
+    - form: gherosor
       class: name
       field: Derived words
       gloss: "a man's name: horse"
       built: [gheros, -or]
-    - form: Yuremat
+    - form: yuremat
       class: name
       field: Derived words
       gloss: "a woman's name: song"
       built: [yurem, -at]
-    - form: Toqel
-      class: name
-      field: Derived words
-      gloss: "to keep: Keeper of the Unconsuming Flame"
-      built: [toqel]
-    - form: Zhudek
-      class: name
-      field: Derived words
-      gloss: "judge: the leader acclaimed in a crisis; `Dukhen` is retired"
-      built: [zhudek]
-    - form: Rezhul
-      class: name
-      field: Derived words
-      gloss: "prince of a tribe: a tribe's hereditary chieftain"
-      built: [rezhul]
-    - form: Shekhulat
+    - form: shekhulat
       class: name
       field: Derived words
       gloss: "a woman's name: flame"
       built: [shekhul, -at]
-    - form: Ezbolor
+    - form: ezbolor
       class: name
       field: Derived words
       gloss: "a man's name: gift"
       built: [ezbol, -or]
-    - form: Qemburor
+    - form: qemburor
       class: name
       field: Derived words
       gloss: "a man's name: wall; `Darius` is retired"
       built: [qembur, -or]
-    - form: Gholutod
+    - form: gholutod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the bow"
       built: [gholut, -od]
-    - form: Teghumod
+    - form: teghumod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of trade; the merchant-tribe of Ashkarad; `Ardashír` is retired"
       built: [teghum, -od]
-    - form: Burqalod
+    - form: burqalod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the mountain; the keeper-tribe of Mount Shofar; `Khorshad` is retired"
       built: [burqal, -od]
-    - form: Tozhirod
+    - form: tozhirod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the law; the scholar-tribe of Kethramír; `Zarvan` is retired"
       built: [tozhir, -od]
-    - form: Teqemod
+    - form: teqemod
       class: name
       field: Derived words
       gloss: "a tribe: the holy sons; the militant tribe of Shirvan; `Mihran` is retired"
       built: [teqem, -od]
-    - form: Kelumod
+    - form: kelumod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the sheep; `Vaspur` is retired"
       built: [kelum, -od]
-    - form: Zhimelod
+    - form: zhimelod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the goat; `Savash` is retired"
       built: [zhimel, -od]
-    - form: Hozhirod
+    - form: hozhirod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the date palm; `Yazdanbar` is retired"
       built: [hozhir, -od]
-    - form: Noghezod
+    - form: noghezod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the herd; `Parmida` is retired"
       built: [noghez, -od]
-    - form: Bizhunod
+    - form: bizhunod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the spear; `Darvaz` is retired"
       built: [bizhun, -od]
-    - form: Ghuzolod
+    - form: ghuzolod
       class: name
       field: Derived words
       gloss: "a tribe: the sons of the dog; `Ardvi` is retired"
       built: [ghuzol, -od]
-    - form: Ebozor
+    - form: ebozor
       class: name
       field: Derived words
       gloss: "a man's name: father; the patriarch of the twelve tribes; `Atarpat` is retired"
       built: [eboz, -or]
-    - form: Yotekhor
+    - form: yotekhor
       class: name
       field: Derived words
       gloss: "a man's name: covenant; the prophet of the Exodus; `Mushara` is retired"
       built: [yotekh, -or]
-    - form: Nozhikor
+    - form: nozhikor
       class: name
       field: Derived words
       gloss: "a man's name: victory; the Zhudek of the Conquest; `Yáhoshí` is retired"
       built: [nozhik, -or]
-    - form: Sighotor
+    - form: sighotor
       class: name
       field: Derived words
       gloss: "a man's name: elder; the Toqel, son of Nozhikor; `Aspansár` is retired"
       built: [sighot, -or]
-    - form: Khemozor
+    - form: khemozor
       class: name
       field: Derived words
       gloss: "a man's name: sword; the Rezhul of the Zhoqarod; `Yázdarmid` is retired"
       built: [khemoz, -or]
-    - form: Tulqenor
+    - form: tulqenor
       class: name
       field: Derived words
       gloss: "a man's name: shield; the war-leader exiled for reaching for a crown; `Artáz` is retired"
       built: [tulqen, -or]
-    - form: Zelumor
+    - form: zelumor
       class: name
       field: Derived words
       gloss: "a man's name: freedom; the renegade merchant-prince in Amradad; `Parviz` is retired"
       built: [zelum, -or]
-    - form: Aqeshat
+    - form: aqeshat
       class: name
       field: Derived words
       gloss: "a woman's name: dawn; the young prophet; `Hana` is retired"
       built: [aqesh, -at]
-    - form: Khemozekh
+    - form: khemozekh
       class: name
       field: Derived words
       gloss: "sword-bearer: the warrior society of the Zhoqarod; `Sardá` is retired"
       built: [khemoz, -ekh]
-    - form: Tulqenekh
+    - form: tulqenekh
       class: name
       field: Derived words
       gloss: "shield-bearer: the warrior society of the Burqalod; `Armán` is retired"
       built: [tulqen, -ekh]
-    - form: Ghishamekh
+    - form: ghishamekh
       class: name
       field: Derived words
       gloss: "fear-bringer: the warrior society of the Teqemod; `Zharván` is retired"
       built: [ghisham, -ekh]
-    - form: Roqeshekh
+    - form: roqeshekh
       class: name
       field: Derived words
       gloss: "ash-keeper: the Fire-Keeper, the first rung of the Ashaian priesthood; `Athravan` is retired"
       built: [roqesh, -ekh]
-    - form: Delkoshekh
+    - form: delkoshekh
       class: name
       field: Derived words
       gloss: "word-bearer: the teacher-priest, the working Ashaian priesthood; `Herbad` is retired"
       built: [delkosh, -ekh]
-    - form: Shekhul
-      class: name
-      field: Derived words
-      gloss: "elder of the flame: the senior priest of a major fire-temple; `Mobad` is retired"
-      built: [shekhul, sighot]
-    - form: Shekhulukhem
+    - form: shekhulukhem
       class: name
       field: Derived words
       gloss: "council of the flame: the body of the priesthood; `Mobadate` is retired"
       built: [shekhul, lukhem]
-    - form: Leqoshzuqel
+    - form: leqoshzuqel
       class: name
       field: Derived words
       gloss: "the garden moon: the priesthood's name for the Tellumi Fourth month"
@@ -4560,12 +4540,28 @@ data:
       field: Everyday speech
       gloss: a fiber; a slender natural strand, such as one of the strands making up wool, before or after spinning
   register:
-    - {name: Atárzadi Language, tongue: faith, why: built on the people's name}
-    - {name: Atarzadi Language, tongue: faith, why: an unmarked spelling of the above}
-    - {name: Tribes of Atarzád, tongue: faith}
-    - {name: Atárzádegan, tongue: faith}
-    - {name: Atarzád, tongue: faith}
-    - {name: Atarzad, tongue: faith}
+    - {name: Atárzadi Language, tongue: translation, why: built on the people's name}
+    - {name: Atarzadi Language, tongue: translation, why: an unmarked spelling of the above}
+    - {name: Tribes of Atarzád, tongue: translation}
+    - {name: atárzadegan, tongue: faith}
+    - {name: atarzád, tongue: faith}
+    - {name: atarzad, tongue: faith}
+    - name: shekhul
+      tongue: atarzadi
+      gloss: "elder of the flame: the senior priest of a major fire-temple; `Mobad` is retired"
+      built: [shekhul, sighot]
+    - name: toqel
+      tongue: atarzadi
+      gloss: "to keep: Keeper of the Unconsuming Flame"
+      built: [toqel]
+    - name: zhudek
+      tongue: atarzadi
+      gloss: "judge: the leader acclaimed in a crisis; `Dukhen` is retired"
+      built: [zhudek]
+    - name: rezhul
+      tongue: atarzadi
+      gloss: "prince of a tribe: a tribe's hereditary chieftain"
+      built: [rezhul]
 sohl:
   system:
     skillBaseFormula: "@elo, @rea"
@@ -4673,7 +4669,7 @@ FROM elements WHERE language = 'thalorna-note-skill-atarzadilng' ORDER BY positi
 
 ### Derived words
 
-Worked names and words, each built from the stems above.
+Worked names and words, each built from the stems above. The derived-word titles _toqel_, _zhudek_, _rezhul_ and _shekhul_ stand with their meanings and derivations in the name register.
 
 ```sql
 SELECT form AS "Word", '`' || 'atarzadi' || '`' AS "Tongue", gloss AS "Gloss", array_to_string(list_transform(built, x -> '`' || x || '`'), ' + ') AS "Derivation"
@@ -4685,7 +4681,7 @@ FROM words WHERE language = 'thalorna-note-skill-atarzadilng' AND field = 'Deriv
 Every name of every note in the region stands in the register of the tongue it belongs to, with the note it names and its tag. A name in one of the three tongues carries its derivation.
 
 ```sql
-SELECT name AS "Name", coalesce(array_to_string(list_transform(notes, n -> '[[' || n || '|]]'), ', '), '—') AS "Address", '`' || tongue || '`' AS "Language",
+SELECT name AS "Name", coalesce(gloss, '—') AS "Meaning", coalesce(array_to_string(list_transform(notes, n -> '[[' || n || '|]]'), ', '), '—') AS "Address", '`' || tongue || '`' AS "Language",
        CASE WHEN why IS NOT NULL THEN why
             WHEN tongue = 'older' THEN 'a name older than the rules'
             WHEN tongue = 'gloss' THEN CASE WHEN built IS NULL THEN '—' ELSE 'a glossed name on ' || array_to_string(list_transform(built, x -> '`' || x || '`'), ' and ') END

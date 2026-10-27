@@ -6,7 +6,7 @@ subType: language
 description: "The unwritten tongue of the One Fire, spoken in the mound towns of the great river and, with a salt accent, on the shell islands of the gulf coast."
 tags: []
 data:
-  roman: "abcefhiklmnopstuwyáéíóú0123456789.,;:?!“”()—–…-"
+  roman: "abcefhiklmnopstuwyáéíóú0123456789()–-"
   core: true
   abbreviation: Tok.
   icon: icon-speaking
