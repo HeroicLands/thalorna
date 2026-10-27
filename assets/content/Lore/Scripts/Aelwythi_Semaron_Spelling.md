@@ -15,11 +15,6 @@ data:
     - A-W
     - Y-Z
     - 0-9
-    - "'"
-    - ’
-    - "-"
-    - ‐
-    - ‑
     - á
     - é
     - í
@@ -188,8 +183,8 @@ data:
 ---
 
 Aelwythi is written in [[skill-semrnscrpt|Semaron]], in the Kuriale hand.
-This encoding writes [[skill-aelwthlng|Aelwythi]] Roman spelling. The language
-note defines its pronunciation, grammar and words.
+This encoding writes [[skill-aelwthlng|Aelwythi]] Roman spelling. The [[skill-aelwthlng#pronunciation|language note]] defines its pronunciation,
+grammar and words.
 
 ## Letters and groups
 
@@ -217,6 +212,12 @@ by the font's non-printing STRESS modifier. It changes neither sound nor
 length. In a recognized vowel group, the acute belongs on its first vowel.
 The listed groups retain their established readings; other adjacent vowels
 are sounded separately. Neither diaeresis nor grave accents are used.
+
+## Word spelling
+
+Possessives are written with -es and no apostrophe, as kinges. Other elisions
+omit the apostrophe, as oer. Compounds are either joined, as kandlelight, or
+separate words, as sweet smelling. There are no apostrophe or hyphen mappings.
 
 ## Punctuation and literal characters
 

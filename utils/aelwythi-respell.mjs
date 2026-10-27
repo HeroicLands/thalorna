@@ -15,13 +15,30 @@ import { scanBlocks } from "@heroiclands/package-build/engine/content-blocks";
 import { parseExtensionAttributes } from "@heroiclands/package-build/engine/extension-attributes";
 import { readDocument, readLanguageNote } from "./aelwythi-note.mjs";
 
-const LETTERS = /[\p{L}\p{M}]+(?:['’][\p{L}\p{M}]+)*/gu;
+const LETTERS = /['’]?[\p{L}\p{M}]+(?:[-‐‑'’][\p{L}\p{M}]+)*(?:['’])?/gu;
 const fold = (text) => text.normalize("NFC").toLowerCase();
 const likeCase = (source, lower) =>
     source[0] === source[0].toUpperCase() ? lower[0].toUpperCase() + lower.slice(1) : lower;
 
-/** One word; ch and qu remain unchanged. No collision is resolved implicitly. */
+/** The approved possessive/contraction spelling; hyphen choices are candidates. */
+export function orthographyCandidate(word) {
+    const suffix = word === word.toUpperCase() ? "ES" : "es";
+    if (/^(?:it|that|there|what|who|here|he|she|let)['’]s$/i.test(word))
+        return word.replace(/['’]/gu, "");
+    let result = word
+        .replace(/['’]s$/iu, suffix)
+        .replace(/(?<=[\p{L}\p{M}])['’]$/u, suffix)
+        .replace(/['’]/gu, "");
+    if (/^(?:candle|kandle)[-‐‑]light$/i.test(result)) result = result.replace(/[-‐‑]/gu, "");
+    else result = result.replace(/[-‐‑]/gu, " ");
+    return result;
+}
+
+/** Mechanical candidates plus the owner's sceptic exception, not an edit operation.
+ * ch and qu remain unchanged. Reviewed collision spellings live in the note.
+ */
 export function respellWord(word) {
+    word = orthographyCandidate(word);
     if (fold(word) === "sceptic")
         return [..."skeptik"]
             .map((letter, index) =>
@@ -250,6 +267,9 @@ export function migrationReport(root = process.cwd()) {
             marks: [...new Set(item.form.match(/['’`‐‑-]/gu))],
         }));
     return {
+        purpose: "Candidate review only; this program never writes or overrides authored spellings",
+        reviewedSpellings: { scent: "sente", thick: "thikke", sceptic: "skeptik" },
+        sharedLexemes: { cold: "kold" },
         sourceSha256: createHash("sha256").update(fs.readFileSync(noteFile)).digest("hex"),
         formCount: forms.length,
         changedFormCount: forms.filter(({ form }) => respellText(form) !== form).length,

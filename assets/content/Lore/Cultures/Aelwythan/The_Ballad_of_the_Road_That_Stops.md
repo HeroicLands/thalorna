@@ -32,13 +32,13 @@ The poem is in common metre, rhymed ABCB.
 : The Ballad {#ballad}
 
 ```verse {form=ballad numstep=5 cols=2}
-1 [Young Edwald was a drover's lad.]{enc=aelwsemaronenc lang=aelw}
+1 [Young Edwald was a droveres lad.]{enc=aelwsemaronenc lang=aelw}
 2 [Young Edwald was a drover's lad,]{lang=en}
-2 [Young Edwald was a drover's lad.]{lang=aelw}
+2 [Young Edwald was a droveres lad.]{lang=aelw}
 
-1 [His master's kine he drove]{enc=aelwsemaronenc lang=aelw}
+1 [His masteres kine he drove]{enc=aelwsemaronenc lang=aelw}
 2 [He drove his master's cattle]{lang=en}
-2 [His master's kine he drove]{lang=aelw}
+2 [His masteres kine he drove]{lang=aelw}
 
 1 [From the high grass to the lowland fair]{enc=aelwsemaronenc lang=aelw}
 2 [From the high grass to the lowland fair]{lang=en}
@@ -76,9 +76,9 @@ The poem is in common metre, rhymed ABCB.
 2 [And on a stone again,]{lang=en}
 2 [And on a stone again.]{lang=aelw}
 
-1 [Fitted so klose a knife's thin blade]{enc=aelwsemaronenc lang=aelw}
+1 [Fitted so klose a knifees thin blade]{enc=aelwsemaronenc lang=aelw}
 2 [Fitted so closely that a knife's thin blade]{lang=en}
-2 [Fitted so klose a knife's thin blade]{lang=aelw}
+2 [Fitted so klose a knifees thin blade]{lang=aelw}
 
 1 [Would seek a gap in vain.]{enc=aelwsemaronenc lang=aelw}
 2 [Would seek a gap in vain.]{lang=en}
@@ -94,9 +94,9 @@ The poem is in common metre, rhymed ABCB.
 2 [That runs where no road should,]{lang=en}
 2 [That runneth where none should.]{lang=aelw}
 
-1 [And on each hand an oak-tree stood.]{enc=aelwsemaronenc lang=aelw}
+1 [And on each hand an oak tree stood.]{enc=aelwsemaronenc lang=aelw}
 2 [And an oak-tree stood on each side,]{lang=en}
-2 [And on each hand an oak-tree stood.]{lang=aelw}
+2 [And on each hand an oak tree stood.]{lang=aelw}
 
 1 [And oak. and oak. and wood.]{enc=aelwsemaronenc lang=aelw}
 2 [And oak, and oak, and wood.]{lang=en}
@@ -134,9 +134,9 @@ The poem is in common metre, rhymed ABCB.
 2 [As quiet as cattle being milked]{lang=en}
 2 [As quiet as kine at milking]{lang=aelw}
 
-1 [When evening's shade is low.]{enc=aelwsemaronenc lang=aelw}
+1 [When eveninges shade is low.]{enc=aelwsemaronenc lang=aelw}
 2 [When the evening shadows lie low.]{lang=en}
-2 [When evening's shade is low.]{lang=aelw}
+2 [When eveninges shade is low.]{lang=aelw}
 
 ***
 
@@ -194,9 +194,9 @@ The poem is in common metre, rhymed ABCB.
 
 ***
 
-1 [And in among the oak-trees stood]{enc=aelwsemaronenc lang=aelw}
+1 [And in among the oak trees stood]{enc=aelwsemaronenc lang=aelw}
 2 [And in among the oak-trees stood]{lang=en}
-2 [And in among the oak-trees stood]{lang=aelw}
+2 [And in among the oak trees stood]{lang=aelw}
 
 1 [A tall one. still and grey.]{enc=aelwsemaronenc lang=aelw}
 2 [A tall one, still and grey;]{lang=en}
@@ -328,9 +328,9 @@ The poem is in common metre, rhymed ABCB.
 2 [Beneath three hills of stone,]{lang=en}
 2 [Beneath three hills of stone.]{lang=aelw}
 
-1 [And all his master's kine were there.]{enc=aelwsemaronenc lang=aelw}
+1 [And all his masteres kine were there.]{enc=aelwsemaronenc lang=aelw}
 2 [And all his master's cattle were there,]{lang=en}
-2 [And all his master's kine were there.]{lang=aelw}
+2 [And all his masteres kine were there.]{lang=aelw}
 
 1 [And grazing every one.]{enc=aelwsemaronenc lang=aelw}
 2 [And every one of them was grazing.]{lang=en}
@@ -432,9 +432,9 @@ The poem is in common metre, rhymed ABCB.
 2 [And when the great snow came that year,]{lang=en}
 2 [And when the great snow kame that year.]{lang=aelw}
 
-1 [And the drove-roads all were lost.]{enc=aelwsemaronenc lang=aelw}
+1 [And the drove roads all were lost.]{enc=aelwsemaronenc lang=aelw}
 2 [And all the drove-roads were lost,]{lang=en}
-2 [And the drove-roads all were lost.]{lang=aelw}
+2 [And the drove roads all were lost.]{lang=aelw}
 
 1 [And the beasts must kome from the high grass down]{enc=aelwsemaronenc lang=aelw}
 2 [And the beasts had to come down from the high grass]{lang=en}

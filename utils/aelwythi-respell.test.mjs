@@ -131,3 +131,31 @@ test("migration reports include files whose only language selector is an Aelwyth
         fs.rmSync(root, { recursive: true, force: true });
     }
 });
+
+test("possessives, elisions and compounds follow the owner's unambiguous spellings", () => {
+    for (const [source, target] of [
+        ["king's", "kinges"],
+        ["KING'S", "KINGES"],
+        ["lovers'", "loverses"],
+        ["stone's", "stonees"],
+        ["knife's", "knifees"],
+        ["o'er", "oer"],
+        ["'tis", "tis"],
+        ["kandle-light", "kandlelight"],
+        ["sweet-smelling", "sweet smelling"],
+        ["full-fed", "full fed"],
+    ])
+        assert.equal(respellWord(source), target, source);
+    const source =
+        "English king's [king's]{lang=en} [king's lovers' o'er kandle-light]{enc=aelwsemaronenc}";
+    const edits = scopedEdits(source).filter((entry) => entry.form !== entry.replacement);
+    assert.deepEqual(
+        edits.map(({ form, replacement }) => [form, replacement]),
+        [
+            ["king's", "kinges"],
+            ["lovers'", "loverses"],
+            ["o'er", "oer"],
+            ["kandle-light", "kandlelight"],
+        ],
+    );
+});

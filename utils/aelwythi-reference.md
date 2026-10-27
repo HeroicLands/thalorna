@@ -141,3 +141,12 @@ The focused checks derive the expected lexical inventory and explicit paradigms
 from fixture notes. They also cover same-spelling senses and inflections,
 whole-term meaning search, source immutability, malformed data and anchors,
 linguistic guide extraction, and another language without English paradigms.
+
+## Review respelling candidates
+
+`node utils/aelwythi-respell.mjs` prints a deterministic inventory with source
+locations and newly converging spellings. It does not write files. Mechanical
+candidates do not supersede reviewed forms in the language note: scent is
+sente, thick is thikke and sceptic is skeptik. The word kold and the naming
+element kold are the same lexeme. English glosses and the historical English
+dictionary retain their English spellings.

@@ -63,9 +63,9 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [The first is Mildwald. He was my husband.]{lang=en}
 2 [The first is Mildwald. He was my husband.]{lang=aelw}
 
-1 [He rode out with the watch at kandle-light]{enc=aelwsemaronenc lang=aelw}
+1 [He rode out with the watch at kandlelight]{enc=aelwsemaronenc lang=aelw}
 2 [He rode out with the watch at candle-light]{lang=en}
-2 [He rode out with the watch at kandle-light]{lang=aelw}
+2 [He rode out with the watch at kandlelight]{lang=aelw}
 
 1 [Upon the night the fires were in the trees.]{enc=aelwsemaronenc lang=aelw}
 2 [Upon the night the fires were in the trees;]{lang=en}
@@ -87,9 +87,9 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [And all that winter, and he did not come home.]{lang=en}
 2 [And all that winter. and he kame not home.]{lang=aelw}
 
-1 [Naught kame bak home. They found the horses' traks.]{enc=aelwsemaronenc lang=aelw}
+1 [Naught kame bak home. They found the horseses traks.]{enc=aelwsemaronenc lang=aelw}
 2 [Nothing came back home. They found the horses' tracks,]{lang=en}
-2 [Naught kame bak home. They found the horses' traks.]{lang=aelw}
+2 [Naught kame bak home. They found the horseses traks.]{lang=aelw}
 
 1 [And where the traks went in. and none kame out.]{enc=aelwsemaronenc lang=aelw}
 2 [And where the tracks went in, but none led out.]{lang=en}
@@ -99,9 +99,9 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [There is no body, Judge. There is no grave.]{lang=en}
 2 [There is no body. Judge. There is no grave.]{lang=aelw}
 
-1 [I kannot bring thee him to the gate's mouth.]{enc=aelwsemaronenc lang=aelw}
+1 [I kannot bring thee him to the gatees mouth.]{enc=aelwsemaronenc lang=aelw}
 2 [I cannot bring him to you at the mouth of the gate,]{lang=en}
-2 [I kannot bring thee him to the gate's mouth.]{lang=aelw}
+2 [I kannot bring thee him to the gatees mouth.]{lang=aelw}
 
 1 [Nor wash him. nor sit by him. nor give him rites.]{enc=aelwsemaronenc lang=aelw}
 2 [Nor wash him, nor sit by him, nor give him rites.]{lang=en}
@@ -163,9 +163,9 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [The third is Wilwin, and he was my son.]{lang=en}
 2 [The third is Wilwin. and he was my son.]{lang=aelw}
 
-1 [He was fourteen. He was his father's height.]{enc=aelwsemaronenc lang=aelw}
+1 [He was fourteen. He was his fatheres height.]{enc=aelwsemaronenc lang=aelw}
 2 [He was fourteen. He was his father's height.]{lang=en}
-2 [He was fourteen. He was his father's height.]{lang=aelw}
+2 [He was fourteen. He was his fatheres height.]{lang=aelw}
 
 1 [He said. I will go up and look for him.]{enc=aelwsemaronenc lang=aelw}
 2 [He said, I will go up and look for him,]{lang=en}
@@ -183,9 +183,9 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [And come home and tell you where it is.]{lang=en}
 2 [And kome home and tell thee where it is.]{lang=aelw}
 
-1 [He went up to the wood's edge in the spring]{enc=aelwsemaronenc lang=aelw}
+1 [He went up to the woodes edge in the spring]{enc=aelwsemaronenc lang=aelw}
 2 [He went up to the wood's edge in the spring]{lang=en}
-2 [He went up to the wood's edge in the spring]{lang=aelw}
+2 [He went up to the woodes edge in the spring]{lang=aelw}
 
 1 [Before the light. and he went in. and stayed.]{enc=aelwsemaronenc lang=aelw}
 2 [Before dawn, and he went in, and stayed.]{lang=en}
@@ -225,21 +225,21 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [The wood has it. Where is the door? The wood.]{lang=en}
 2 [The wood hath it. Where is the door. The wood.]{lang=aelw}
 
-1 [Where is the hearth my mother-in-law kept.]{enc=aelwsemaronenc lang=aelw}
+1 [Where is the hearth my mother in law kept.]{enc=aelwsemaronenc lang=aelw}
 2 [Where is the hearth my mother-in-law kept?]{lang=en}
-2 [Where is the hearth my mother-in-law kept.]{lang=aelw}
+2 [Where is the hearth my mother in law kept.]{lang=aelw}
 
 1 [Nettles haven it. and they keepen it.]{enc=aelwsemaronenc lang=aelw}
 2 [Nettles have it, and keep it.]{lang=en}
 2 [Nettles haven it. and they keepen it.]{lang=aelw}
 
-1 [Where is the strip that Mildwald's father kleared.]{enc=aelwsemaronenc lang=aelw}
+1 [Where is the strip that Mildwaldes father kleared.]{enc=aelwsemaronenc lang=aelw}
 2 [Where is the strip of land that Mildwald's father cleared,]{lang=en}
-2 [Where is the strip that Mildwald's father kleared.]{lang=aelw}
+2 [Where is the strip that Mildwaldes father kleared.]{lang=aelw}
 
-1 [And his before him. out of the forest's foot.]{enc=aelwsemaronenc lang=aelw}
+1 [And his before him. out of the forestes foot.]{enc=aelwsemaronenc lang=aelw}
 2 [And his father before him, out of the forest's foot?]{lang=en}
-2 [And his before him. out of the forest's foot.]{lang=aelw}
+2 [And his before him. out of the forestes foot.]{lang=aelw}
 
 1 [Its foot is on it. Where now is the well.]{enc=aelwsemaronenc lang=aelw}
 2 [Its foot is on it. Where is the well now?]{lang=en}
@@ -275,9 +275,9 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [In the spring we came down, he wrote in his book,]{lang=en}
 2 [He wrote. the spring we kame down. in his book.]{lang=aelw}
 
-1 [Four steadings lost at the wood's edge this year.]{enc=aelwsemaronenc lang=aelw}
+1 [Four steadings lost at the woodes edge this year.]{enc=aelwsemaronenc lang=aelw}
 2 [Four steadings lost at the wood's edge this year,]{lang=en}
-2 [Four steadings lost at the wood's edge this year.]{lang=aelw}
+2 [Four steadings lost at the woodes edge this year.]{lang=aelw}
 
 1 [And of the watch. siks men. and that was all.]{enc=aelwsemaronenc lang=aelw}
 2 [And six men of the watch, and that was all.]{lang=en}
@@ -329,17 +329,17 @@ The lament is said and not sung, in a low voice, with the candle lit at the firs
 2 [Again. And slower. So. You have them now.]{lang=en}
 2 [Again. And slower. So. Thou hast them now.]{lang=aelw}
 
-1 [When I am in the steward's book. a line.]{enc=aelwsemaronenc lang=aelw}
+1 [When I am in the stewardes book. a line.]{enc=aelwsemaronenc lang=aelw}
 2 [When I am in the steward's book, a line,]{lang=en}
-2 [When I am in the steward's book. a line.]{lang=aelw}
+2 [When I am in the stewardes book. a line.]{lang=aelw}
 
 1 [Thou shalt stand here. and set the kandle up.]{enc=aelwsemaronenc lang=aelw}
 2 [You must stand here, and set up the candle,]{lang=en}
 2 [Thou shalt stand here. and set the kandle up.]{lang=aelw}
 
-1 [And say them. and say mine after Wilwin's.]{enc=aelwsemaronenc lang=aelw}
+1 [And say them. and say mine after Wilwines.]{enc=aelwsemaronenc lang=aelw}
 2 [And say those names, and then my name after Wilwin's,]{lang=en}
-2 [And say them. and say mine after Wilwin's.]{lang=aelw}
+2 [And say them. and say mine after Wilwines.]{lang=aelw}
 
 1 [And give them to thy daughter at the sill.]{enc=aelwsemaronenc lang=aelw}
 2 [And give them to your daughter at the sill.]{lang=en}

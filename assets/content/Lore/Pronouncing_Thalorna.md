@@ -483,7 +483,9 @@ English word and the verse, not the common transcription's syllable count. A
 written _-ed_ need not add a syllable. Word-final _mb_ sounds as _m_, with silent
 _b_, wherever the word occurs in a sentence. A normally silent final _e_ stays
 silent; a pronounced one, as in _be_, _he_, _me_ or _she_, stays audible.
-Apostrophes mark possession or omission rather than a catch in the throat.
+Apostrophes in the English source spellings mark possession or omission,
+rather than a catch in the throat. Aelwythi writes possessives with -es and
+elisions without an apostrophe, as specified in its language note.
 English spellings are not accented to override their established readings, and
 Aelwythi uses no grave accent.
 

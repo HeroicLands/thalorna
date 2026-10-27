@@ -104,9 +104,9 @@ The burden.
 2 [Your hall and your chapel, your kin in the earth;]{lang=en}
 2 [Thy hall and thy chapel. thy kin in the mould.]{lang=aelw}
 
-1 [Thy grandsire's grandsire was krowned in this plase.]{enc=aelwsemaronenc lang=aelw}
+1 [Thy grandsirees grandsire was krowned in this plase.]{enc=aelwsemaronenc lang=aelw}
 2 [Your grandfather's grandfather was crowned in this place,]{lang=en}
-2 [Thy grandsire's grandsire was krowned in this plase.]{lang=aelw}
+2 [Thy grandsirees grandsire was krowned in this plase.]{lang=aelw}
 
 1 [And we sang at his door. and he looked in our fase.]{enc=aelwsemaronenc lang=aelw}
 2 [And we sang at his door, and he looked us in the face.]{lang=en}
@@ -124,13 +124,13 @@ The burden.
 2 [You have come from Dunmere with a lord on each side,]{lang=en}
 2 [Thou art kome from Dunmere with a lord at each hand.]{lang=aelw}
 
-1 [And the lake-town is rich. and the lake-town is grand.]{enc=aelwsemaronenc lang=aelw}
+1 [And the lake town is rich. and the lake town is grand.]{enc=aelwsemaronenc lang=aelw}
 2 [And the lake-town is rich, and the lake-town is grand;]{lang=en}
-2 [And the lake-town is rich. and the lake-town is grand.]{lang=aelw}
+2 [And the lake town is rich. and the lake town is grand.]{lang=aelw}
 
-1 [But the hollow is older than any town's wall.]{enc=aelwsemaronenc lang=aelw}
+1 [But the hollow is older than any townes wall.]{enc=aelwsemaronenc lang=aelw}
 2 [But the hollow is older than any town's wall,]{lang=en}
-2 [But the hollow is older than any town's wall.]{lang=aelw}
+2 [But the hollow is older than any townes wall.]{lang=aelw}
 
 1 [And the hollow was here ere the king had a hall.]{enc=aelwsemaronenc lang=aelw}
 2 [And the hollow was here before the king had a hall.]{lang=en}
@@ -192,9 +192,9 @@ The burden.
 : The Asking {#asking}
 
 ```verse {form=carol numstep=5 cols=2}
-1 [The wood on the hill is the king's and the deer's.]{enc=aelwsemaronenc lang=aelw}
+1 [The wood on the hill is the kinges and the deeres.]{enc=aelwsemaronenc lang=aelw}
 2 [The wood on the hill belongs to the king and the deer,]{lang=en}
-2 [The wood on the hill is the king's and the deer's.]{lang=aelw}
+2 [The wood on the hill is the kinges and the deeres.]{lang=aelw}
 
 1 [The deer haven had akorns these many long years.]{enc=aelwsemaronenc lang=aelw}
 2 [The deer have had acorns all these years;]{lang=en}
@@ -224,13 +224,13 @@ The burden.
 2 [For the law is a fence around all the trees;]{lang=en}
 2 [For the law is a pale about all of the trees.]{lang=aelw}
 
-1 [And the oaks that stood over our grandsires' first kry]{enc=aelwsemaronenc lang=aelw}
+1 [And the oaks that stood over our grandsireses first kry]{enc=aelwsemaronenc lang=aelw}
 2 [And the oaks that stood over our grandfathers' first cry]{lang=en}
-2 [And the oaks that stood over our grandsires' first kry]{lang=aelw}
+2 [And the oaks that stood over our grandsireses first kry]{lang=aelw}
 
-1 [Ben the king's to the akorn. the king's to the sky.]{enc=aelwsemaronenc lang=aelw}
+1 [Ben the kinges to the akorn. the kinges to the sky.]{enc=aelwsemaronenc lang=aelw}
 2 [Are the king's to the acorn, the king's to the sky.]{lang=en}
-2 [Ben the king's to the akorn. the king's to the sky.]{lang=aelw}
+2 [Ben the kinges to the akorn. the kinges to the sky.]{lang=aelw}
 ```
 
 ::: {lang=aelw font=serif}
@@ -272,9 +272,9 @@ The burden.
 2 [For your health is our harvest, our bread and our share;]{lang=en}
 2 [For thy health is our harvest. our bread and our share.]{lang=aelw}
 
-1 [But a man that is cold hath no breath for to sing.]{enc=aelwsemaronenc lang=aelw}
+1 [But a man that is kold hath no breath for to sing.]{enc=aelwsemaronenc lang=aelw}
 2 [But a man that is cold has no breath to sing,]{lang=en}
-2 [But a man that is cold hath no breath for to sing.]{lang=aelw}
+2 [But a man that is kold hath no breath for to sing.]{lang=aelw}
 
 1 [And a fire in the hollow is health to the king.]{enc=aelwsemaronenc lang=aelw}
 2 [And a fire in the hollow means health for the king.]{lang=en}
@@ -296,9 +296,9 @@ The singers turnen from the door to the wall of the burial ground behind the hal
 2 [Now over the wall, to the yard at the back,]{lang=en}
 2 [Now over the wall. to the yard at the bak.]{lang=aelw}
 
-1 [Where kings lien a-row and the yew-trees ben blak.]{enc=aelwsemaronenc lang=aelw}
+1 [Where kings lien a row and the yew trees ben blak.]{enc=aelwsemaronenc lang=aelw}
 2 [Where kings lie in a row and the yew-trees are black:]{lang=en}
-2 [Where kings lien a-row and the yew-trees ben blak.]{lang=aelw}
+2 [Where kings lien a row and the yew trees ben blak.]{lang=aelw}
 
 1 [I bid you good night. ye haven eaten your fill.]{enc=aelwsemaronenc lang=aelw}
 2 [I wish you good night; you have eaten your fill;]{lang=en}
@@ -400,9 +400,9 @@ In a year the king keepeth the feast at Dunmere. the village singeth this verse 
 2 [The chair is empty; the steward sits beside it,]{lang=en}
 2 [The chair is empty. the steward sitteth by.]{lang=aelw}
 
-1 [And he keepeth the king's wood as dear as his eye.]{enc=aelwsemaronenc lang=aelw}
+1 [And he keepeth the kinges wood as dear as his eye.]{enc=aelwsemaronenc lang=aelw}
 2 [And the king's wood is as precious to him as his own eye;]{lang=en}
-2 [And he keepeth the king's wood as dear as his eye.]{lang=aelw}
+2 [And he keepeth the kinges wood as dear as his eye.]{lang=aelw}
 
 1 [But a krown given onse may be asked for again.]{enc=aelwsemaronenc lang=aelw}
 2 [But a crown given once may be asked for again,]{lang=en}

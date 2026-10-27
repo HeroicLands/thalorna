@@ -34,7 +34,7 @@ The verses are rhymed in couplets.
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}Old Tally kometh in sweeping a ring with his besom. his tally-stik in his belt.[)]{lang=zxx}
+[(]{lang=zxx}Old Tally kometh in sweeping a ring with his besom. his tally stik in his belt.[)]{lang=zxx}
 
 Old Tally.
 
@@ -408,7 +408,7 @@ One Solden.
 
 Old Tally.
 
-An Solden. There is not an Solden in this yard. nor in this town. saving the bridge's. Here ben twenty Bits and a turnip.
+An Solden. There is not an Solden in this yard. nor in this town. saving the bridgees. Here ben twenty Bits and a turnip.
 
 The Doktor.
 
@@ -426,7 +426,7 @@ The Doktor.
 
 That is the kourt tongue. and it is a charm against all hurts whatsoever. and it signifieth. in thy plain speech. Pay the doktor.
 
-[(]{lang=zxx}He poureth from the bottle into Hildrik's mouth.[)]{lang=zxx}
+[(]{lang=zxx}He poureth from the bottle into Hildrikes mouth.[)]{lang=zxx}
 
 Hildrik. arise.
 
@@ -448,9 +448,9 @@ Then I kannot help him. for he is dead. and my fee is the same.
 
 [(]{lang=zxx}He goeth out with the turnip.[)]{lang=zxx}
 
-[(]{lang=zxx}The ale-wife kometh in. with a jug and a kup.[)]{lang=zxx}
+[(]{lang=zxx}The ale wife kometh in. with a jug and a kup.[)]{lang=zxx}
 
-The Ale-wife.
+The Ale wife.
 
 :::
 
@@ -504,7 +504,7 @@ Hildrik.
 
 ::: {lang=aelw font=serif}
 
-The Ale-wife.
+The Ale wife.
 
 That is the Judge. and he will not have thee till thy day. Up and at it.
 
@@ -556,7 +556,7 @@ Old Tally.
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}The Grukar's fleese is pulled off him. Under it he weareth a sekond fleese. also turned. and he getteth up.[)]{lang=zxx}
+[(]{lang=zxx}The Grukares fleese is pulled off him. Under it he weareth a sekond fleese. also turned. and he getteth up.[)]{lang=zxx}
 
 The Grukar.
 
@@ -565,9 +565,9 @@ The Grukar.
 : The Grukar's Son {#grukar-son}
 
 ```verse {form=mummers-play numstep=5 cols=2}
-1 [Here kome I. that am the Grukar's son.]{enc=aelwsemaronenc lang=aelw}
+1 [Here kome I. that am the Grukares son.]{enc=aelwsemaronenc lang=aelw}
 2 [Here I come, the Grukar's son,]{lang=en}
-2 [Here kome I. that am the Grukar's son.]{lang=aelw}
+2 [Here kome I. that am the Grukares son.]{lang=aelw}
 
 1 [A brother yet behind me is to kome.]{enc=aelwsemaronenc lang=aelw}
 2 [And another brother is still to follow me.]{lang=en}
@@ -656,7 +656,7 @@ Old Tally.
 
 ::: {lang=aelw font=serif}
 
-[(]{lang=zxx}The players goen out singing. the Grukar and the Grukar's son behind them. still fighting with Hildrik through the gate of the yard.[)]{lang=zxx}
+[(]{lang=zxx}The players goen out singing. the Grukar and the Grukares son behind them. still fighting with Hildrik through the gate of the yard.[)]{lang=zxx}
 
 :::
 

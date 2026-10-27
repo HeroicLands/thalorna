@@ -7,7 +7,7 @@ description: "The speech of the island of Aelwyth, given in these pages in the o
 tags: []
 
 data:
-  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚ0123456789.'-"
+  roman: "abcdefghijklmnopqrstuvwyzABCDEFGHIJKLMNOPQRSTUVWYZáéíóúÁÉÍÓÚ0123456789"
   core: true
   abbreviation: Aelw.
   fields:
@@ -120,7 +120,7 @@ data:
       concept: loud
       variants: [louder]
     - {form: quiet, class: adj, field: Senses and the body, gloss: quiet, concept: quiet}
-    - form: sweet-smelling
+    - form: sweet smelling
       class: adj
       field: Senses and the body
       gloss: fragrant; having a pleasant smell
@@ -270,7 +270,7 @@ data:
       gloss: compassion
       concept: compassion
     - {form: pity, class: n, field: Feelings and affections, gloss: pity, concept: pity}
-    - form: sharing another's joy or grief
+    - form: sharing anotheres joy or grief
       class: n
       field: Feelings and affections
       gloss: sympathy; sharing or understanding another person's feelings
@@ -340,7 +340,7 @@ data:
       gloss: reverence
       concept: reverence
     - {form: awe, class: n, field: Feelings and affections, gloss: awe, concept: awe}
-    - form: lovers' love
+    - form: loverses love
       class: n
       field: Feelings and affections
       gloss: romantic love; attachment between lovers, distinct from sexual desire alone
@@ -365,7 +365,7 @@ data:
       field: Feelings and affections
       gloss: affection
       concept: affection
-    - form: the heart's drawing toward another
+    - form: the heartes drawing toward another
       class: n
       field: Feelings and affections
       gloss: attraction; feeling drawn to another person
@@ -506,7 +506,7 @@ data:
       field: Senses and the body
       gloss: the penis; an anatomical use, distinct from the measure of length
       concept: penis
-    - form: the passage to a woman's womb
+    - form: the passage to a womanes womb
       class: n
       field: Senses and the body
       gloss: the vagina; the passage from the vulva to the cervix
@@ -519,7 +519,7 @@ data:
         - a piece of rock
         - a hard deposit in the bladder or urinary tract; an ailment the play's Doctor claims to cure
       concept: [testicle, stone]
-      variants: [stone's, stones]
+      variants: [stonees, stones]
     - {form: food, class: n, field: Needs and the household, gloss: food, concept: food}
     - form: eat
       class: v
@@ -543,7 +543,7 @@ data:
       field: Needs and the household
       gloss: water
       concept: water
-      variants: [water's]
+      variants: [wateres]
     - {form: air, class: n, field: Needs and the household, gloss: air, concept: air}
     - {form: breath, class: n, field: Needs and the household, gloss: breath, concept: breath}
     - form: breathe
@@ -611,7 +611,7 @@ data:
       gloss: to sweat
       concept: sweat-verb
     - {form: heat, class: n, field: Needs and the household, gloss: heat, concept: heat}
-    - form: the cold
+    - form: the kold
       class: n
       field: Needs and the household
       gloss: cold as a bodily temperature condition
@@ -701,12 +701,12 @@ data:
       field: Senses and the body
       gloss: exhausted; having no strength left
       concept: exhausted
-    - form: full-fed
+    - form: full fed
       class: adj
       field: Senses and the body
       gloss: sated; satisfied after eating
       concept: sated
-    - form: cold
+    - form: kold
       class: adj
       field: Senses and the body
       gloss: cold in temperature
@@ -797,7 +797,7 @@ data:
       field: Kindred and society
       gloss: sister
       concept: sister
-      variants: [sister's]
+      variants: [sisteres]
     - form: grandmother
       class: n
       field: Kindred and society
@@ -808,7 +808,7 @@ data:
       field: Kindred and society
       gloss: grandfather
       concept: grandfather
-      variants: [grandfather's]
+      variants: [grandfatheres]
     - form: grandchild
       class: n
       field: Kindred and society
@@ -819,7 +819,7 @@ data:
       field: Kindred and society
       gloss: uncle
       concept: uncle
-      variants: [unkle's]
+      variants: [unklees]
     - {form: aunt, class: n, field: Kindred and society, gloss: aunt, concept: aunt}
     - {form: kousin, class: n, field: Kindred and society, gloss: cousin, concept: cousin}
     - {form: husband, class: n, field: Kindred and society, gloss: husband, concept: husband}
@@ -832,7 +832,7 @@ data:
       concept: descendant
     - {form: orphan, class: n, field: Kindred and society, gloss: orphan, concept: orphan}
     - {form: widow, class: n, field: Kindred and society, gloss: widow, concept: widow}
-    - form: a father's or mother's parent
+    - form: a fatheres or motheres parent
       class: n
       field: Kindred and society
       gloss: a grandparent
@@ -875,7 +875,7 @@ data:
       field: Kindred and society
       gloss: master
       concept: master
-      variants: [master's]
+      variants: [masteres]
     - {form: teacher, class: n, field: Kindred and society, gloss: teacher, concept: teacher}
     - form: scholar
       class: n
@@ -926,7 +926,7 @@ data:
       field: Needs and the household
       gloss: a knife
       concept: knife
-      variants: [knife's]
+      variants: [knifees]
     - {form: spoon, class: n, field: Needs and the household, gloss: a spoon, concept: spoon}
     - {form: pot, class: n, field: Needs and the household, gloss: a pot, concept: pot}
     - {form: lamp, class: n, field: Needs and the household, gloss: a lamp, concept: lamp}
@@ -970,7 +970,7 @@ data:
       field: Needs and the household
       gloss: gate
       concept: gate
-      variants: [gate's]
+      variants: [gatees]
     - form: bar
       class: n
       field: Needs and the household
@@ -981,7 +981,7 @@ data:
       field: Needs and the household
       gloss: wood
       concept: wood
-      variants: [wood's]
+      variants: [woodes]
     - {form: metal, class: n, field: Needs and the household, gloss: metal, concept: metal}
     - {form: klay, class: n, field: Needs and the household, gloss: clay, concept: clay}
     - {form: leather, class: n, field: Needs and the household, gloss: leather, concept: leather}
@@ -1017,7 +1017,7 @@ data:
       field: Land and living things
       gloss: forest
       concept: forest
-      variants: [forest's]
+      variants: [forestes]
     - {form: field, class: n, field: Land and living things, gloss: field, concept: field}
     - {form: kave, class: n, field: Land and living things, gloss: cave, concept: cave}
     - {form: river, class: n, field: Land and living things, gloss: river, concept: river}
@@ -1035,7 +1035,7 @@ data:
       field: Land and living things
       gloss: sun
       concept: sun
-      variants: [sun's]
+      variants: [sunes]
     - {form: moon, class: n, field: Land and living things, gloss: moon, concept: moon}
     - {form: star, class: n, field: Land and living things, gloss: star, concept: star}
     - {form: kloud, class: n, field: Land and living things, gloss: cloud, concept: cloud}
@@ -1412,7 +1412,12 @@ data:
     - {form: krawl, class: v, field: Doing and being, gloss: to crawl, concept: crawl}
     - {form: klimb, class: v, field: Doing and being, gloss: to climb, concept: climb}
     - {form: leap, class: v, field: Doing and being, gloss: to jump, concept: jump}
-    - {form: fall, class: v, field: Doing and being, gloss: to fall, concept: fall}
+    - form: fall
+      class: v
+      field: Doing and being
+      gloss: to fall
+      concept: fall
+      variants: [falleth]
     - form: rise
       class: v
       field: Doing and being
@@ -1717,7 +1722,7 @@ data:
       field: Place and time
       gloss: day
       concept: day
-      variants: [day's, days]
+      variants: [dayes, days]
     - form: night
       class: n
       field: Place and time
@@ -1731,7 +1736,7 @@ data:
       field: Place and time
       gloss: evening
       concept: evening
-      variants: [evening's]
+      variants: [eveninges]
     - {form: midnight, class: n, field: Place and time, gloss: midnight, concept: midnight}
     - {form: now, class: adv, field: Place and time, gloss: now, concept: now}
     - form: then
@@ -2649,7 +2654,7 @@ data:
       field: Kindred and society
       gloss: boy
       concept: boy
-      variants: [boy's]
+      variants: [boyes]
     - {form: girl, class: n, field: Kindred and society, gloss: girl, concept: girl}
     - form: one of full age
       class: n
@@ -2733,7 +2738,7 @@ data:
     - {form: debt, class: n, field: Kindred and society, gloss: debt, concept: debt}
     - {form: wealth, class: n, field: Kindred and society, gloss: wealth, concept: wealth}
     - {form: poverty, class: n, field: Kindred and society, gloss: poverty, concept: poverty}
-    - form: that which is one's own
+    - form: that which is onees own
       class: n
       field: Kindred and society
       gloss: property; land, goods or other things owned
@@ -2915,7 +2920,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a structure carrying a crossing over water or a gap
-      variants: [bridge's]
+      variants: [bridgees]
     - {form: bundle, class: n, field: Ordinary speech, gloss: things bound or gathered together}
     - form: bury
       class: v
@@ -2939,7 +2944,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a fighter representing others
-      variants: [champion's]
+      variants: [championes]
     - {form: chapel, class: n, field: Ordinary speech, gloss: a small place of worship}
     - form: charm
       class: n
@@ -3021,7 +3026,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a hoofed woodland animal with antlers in the male
-      variants: [deer's]
+      variants: [deeres]
     - {form: den, class: n, field: Ordinary speech, gloss: an animal's lair}
     - {form: disease, class: n, field: Ordinary speech, gloss: an illness}
     - {form: doktor, class: n, field: Ordinary speech, gloss: a practitioner of medicine}
@@ -3040,7 +3045,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a person who drives livestock to pasture or market
-      variants: [drover's, drovers]
+      variants: [droveres, drovers]
     - form: drum
       class: n
       field: Ordinary speech
@@ -3126,7 +3131,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a grandfather or male ancestor
-      variants: [grandsire's, grandsires]
+      variants: [grandsirees, grandsires, grandsireses]
     - {form: grave, class: n, field: Ordinary speech, gloss: a place where a dead person is buried}
     - form: graze
       class: v
@@ -3148,7 +3153,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: one of the Grukar Folk
-      variants: [grukar's]
+      variants: [grukares]
     - form: hall
       class: n
       field: Ordinary speech
@@ -3182,7 +3187,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a large riding and draught animal
-      variants: [horse's, horses]
+      variants: [horsees, horses, horseses]
     - form: hound
       class: n
       field: Ordinary speech
@@ -3215,7 +3220,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a male monarch
-      variants: [king's, kings]
+      variants: [kinges, kings]
     - {form: knight, class: n, field: Ordinary speech, gloss: a mounted warrior of noble rank}
     - form: lak
       class: v
@@ -3252,7 +3257,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a noble ruler or master
-      variants: [lord's]
+      variants: [lordes]
     - form: lowland
       class: n
       field: Ordinary speech
@@ -3489,13 +3494,13 @@ data:
       class: n
       field: Ordinary speech
       gloss: a farmstead and its buildings
-      variants: [steadings]
+      variants: [steadings, steadingses]
     - {form: step, class: n, field: Ordinary speech, gloss: one movement of the foot in walking}
     - form: steward
       class: n
       field: Ordinary speech
       gloss: a person who manages an estate or household
-      variants: [steward's]
+      variants: [stewardes]
     - {form: stik, class: n, field: Ordinary speech, gloss: a slender piece of wood}
     - form: stile
       class: n
@@ -3520,7 +3525,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: the season following spring
-      variants: [summer's]
+      variants: [summeres]
     - form: swainmote
       class: n
       field: Ordinary speech
@@ -3566,7 +3571,7 @@ data:
       class: n
       field: Ordinary speech
       gloss: a settlement larger than a village
-      variants: [town's]
+      variants: [townes]
     - form: trak
       class: n
       field: Ordinary speech
@@ -3676,27 +3681,27 @@ data:
       class: name
       field: Ordinary speech
       gloss: an established Aelwythi given name
-      variants: [Harmund's]
+      variants: [Harmundes]
     - form: Hildrik
       class: name
       field: Ordinary speech
       gloss: an established Aelwythi given name
-      variants: [Hildrik's]
+      variants: [Hildrikes]
     - form: Mildwald
       class: name
       field: Ordinary speech
       gloss: an established Aelwythi given name
-      variants: [Mildwald's]
+      variants: [Mildwaldes]
     - form: Wilwin
       class: name
       field: Ordinary speech
       gloss: an established Aelwythi given name
-      variants: [Wilwin's]
+      variants: [Wilwines]
     - form: Koldford
       class: name
       field: Ordinary speech
       gloss: the established name of a Wyndmarch ford
-      variants: [Koldford's]
+      variants: [Koldfordes]
     - form: Drethar
       class: name
       field: Ordinary speech
@@ -3821,7 +3826,7 @@ data:
       class: v
       field: Ordinary speech
       gloss: second-person singular present of call
-    - {form: kandle-light, class: n, field: Ordinary speech, gloss: light given by a candle}
+    - {form: kandlelight, class: n, field: Ordinary speech, gloss: light given by a candle}
   icon: icon-speaking
   templatePriority: null
   packFolder: language
@@ -4491,7 +4496,8 @@ the rigid rule that genuinely coined words sound every letter.
 
 Lookup ignores case, while spelling and encoding preserve it. Each word and
 name is recorded once rather than as separate capitalized copies. A word and
-a name may share a spelling and both match a query, as will and Will do.
+a registered name may share a spelling. If will and Will are both recorded,
+a query returns both without changing their case.
 A consonant group still follows the encoding's lowercase or initial-capital
 rule; an all-uppercase group such as TH in THIKKE remains invalid.
 
@@ -4642,14 +4648,11 @@ There is no soft g, silent gh or alternative sound inferred from an English-look
 ending. The letter y is always a consonant; write i for the vowel in machine.
 In new coined spellings, y and ny must be followed by a vowel.
 
-A hyphen separates groups without adding a sound: as-ha has separate s and h,
-whereas asha contains sh. It does not reset stress. A compound's spelling is
-read as a whole, including where its naming elements meet. Insert a hyphen
-where a boundary must keep two letters out of a recognized group.
-
-An apostrophe marks the catch in the throat heard in uh-oh. After a consonant
-it adds the same catch to that consonant. It adds no syllable. The common
-guide's limits and plain pronunciation alternatives apply.
+A word boundary keeps consonants out of a group: as ha has separate s and h,
+whereas asha contains sh. A compound written as one word is read as a whole,
+including where its naming elements meet. Choose a separate phrase when the
+consonants must stay separate. Aelwythi spelling uses no apostrophe for a
+glottal catch; an exact native character can instead be cited by font codage.
 
 #### Syllables, stress and marks {#stress}
 
@@ -4750,19 +4753,26 @@ without an encoding remains Roman text.
 
 ### Rules for writers {#writing-rules}
 
-Use familiar spelling for ordinary English words and the fixed transcription
-above for coined words and names. The period is the sole pause mark in both
-roman and native readings. A comma, semicolon, colon or dash that marks a
-pause in a translation is written as a period in Aelwythi. The point marks
-the pause, including a pause within a continuing sentence. Questions use
-interrogative wording and end with a period; exclamations carry their force
-in the words. Word-joining hyphens keep their familiar role; direct speech
-uses no quotation marks. The older character comes from sentence structure
-and familiar words, without respelling ordinary English words, contracted
-negatives or apostrophized elisions. Possessives such as summer's keep their
-apostrophe. Recorded vocabulary and explicit context notes take precedence.
-Other choices follow the Aelwythi rules here, with ordinary English vocabulary,
-grammar and dictionary pronunciation wherever neither supplies an exception.
+Use the Aelwythi respellings above for English-derived words and the fixed
+transcription for coinages. The shared punctuation standard applies: a period
+ends a complete sentence, a comma marks an internal pause, ? marks a question,
+‼ an imperative and ! an exclamation. Semicolons and colons are not used.
+Direct speech normally identifies its speaker without quotation marks; when
+quotation marks are needed, use «…» outside and ‹…› inside. A dash marks an
+interruption, not an ordinary pause. Verse boundaries are structural.
+
+The possessive is -es, added to the full stem without an apostrophe: kinges
+from king, summeres from summer and stonees from stone. A plural stem likewise
+takes -es, as loverses from lovers. The stem's lexical stress is retained.
+Other elisions omit the apostrophe: English o'er is Aelwythi oer, without
+restoring the omitted v. Apostrophes are not Aelwythi characters.
+
+There are no hyphenated words. An established joined form is written as one
+word, as kandlelight; descriptive combinations remain separate words, as
+sweet smelling, full fed and ale wife. The older register comes from sentence
+structure and familiar words. Avoid contracted negatives. Recorded vocabulary
+and explicit context notes take precedence; meanings and dictionary readings
+follow the English-derived conventions above where neither supplies an exception.
 
 #### Address and present verbs {#present-agreement}
 
@@ -4905,7 +4915,7 @@ Verse keeps its metre and rhyme.
 Give direct speech without quotation marks. An attribution or a named speaker
 identifies whose words follow. Keep a spoken pause as a period, including between
 an attribution and the speech; the point does not itself introduce dialogue.
-Keep possessive apostrophes.
+Write possessives with -es.
 
 ::: {lang=aelw font=serif}
 The knight said I shall return ere night.
@@ -4990,9 +5000,9 @@ A saying of the manors:
 2 [The wool is shorn, the barley bound,]{lang=en}
 2 [The wool is shorn the barley bound]{lang=aelw}
 
-1 [The last of summer's gold is ground]{enc=aelwsemaronenc lang=aelw}
+1 [The last of summeres gold is ground]{enc=aelwsemaronenc lang=aelw}
 2 [The last of summer's gold is ground;]{lang=en}
-2 [The last of summer's gold is ground]{lang=aelw}
+2 [The last of summeres gold is ground]{lang=aelw}
 
 1 [Fill high the kup and drink it deep]{enc=aelwsemaronenc lang=aelw}
 2 [Fill the cup to the brim, and drink deeply,]{lang=en}
