@@ -25,7 +25,8 @@ captures sources, publishes the metadata, dictionary and terms indexes, emits
 calendars, stages assets, validates frontmatter and links, and compiles packs.
 `npm run build:content` runs validation and compilation with prepared inputs;
 `build:content-index`, `build:calendars` and `build:assets` remain independent
-entry points, as do `lint:addresses` and `lint:content-links`.
+entry points, as do `lint:addresses` and `lint:content-links`. `npm run lint`
+validates and checks links in one content session (`lint:content`).
 
 The Lint workflow runs Veldikko in the content build job against
 `build/content-index/thalorna-metadata.jsonl`. A successful publication writes

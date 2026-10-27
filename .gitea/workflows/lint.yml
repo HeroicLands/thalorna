@@ -3,6 +3,7 @@
 # calendars and assets, then checks frontmatter and links and compiles packs
 # in one content session. Both required checks include content failures.
 #
+# A pull request checks formatting on its changed files only.
 # Each job restores node_modules by Node version and package-lock.json hash;
 # npm ci runs on cache misses. build/ is gitignored, so content builds start cold.
 # Retired-name and concordance sweeps run on demand.
@@ -35,6 +36,9 @@ jobs:
         steps:
             - name: Checkout code
               uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7
+              with:
+                  # The pull-request diff needs the merge base with the target branch.
+                  fetch-depth: 0
 
             - name: Setup Node
               uses: actions/setup-node@949feb2413d6458794dcd2491c4babbbce0c15c1 # v7
@@ -61,9 +65,26 @@ jobs:
               if: ${{ steps.modules.outputs.cache-hit != 'true' }}
               run: npm ci --cache "$RUNNER_TEMP/npm-cache"
 
-            # Prettier over the whole tree.
+            # A pull request checks the files it changes; a push checks the whole tree.
             - name: Check formatting
-              run: npm run lint:format
+              env:
+                  BASE_REF: ${{ github.base_ref }}
+              run: |
+                  if [ -z "$BASE_REF" ]; then
+                      npm run lint:format
+                      exit
+                  fi
+                  git diff --name-only --diff-filter=d -z "origin/$BASE_REF...HEAD" > "$RUNNER_TEMP/changed.list"
+                  # A new formatter or its configuration can change any file's verdict.
+                  if tr '\0' '\n' < "$RUNNER_TEMP/changed.list" | grep -qxE 'package-lock\.json|prettier\.config\.js|\.prettierignore'; then
+                      npm run lint:format
+                      exit
+                  fi
+                  if [ ! -s "$RUNNER_TEMP/changed.list" ]; then
+                      echo "No changed files to format."
+                      exit 0
+                  fi
+                  xargs -0 npm run lint:format -- < "$RUNNER_TEMP/changed.list"
 
             # markdownlint: document structure, and links that do not link.
             - name: Check markdown
