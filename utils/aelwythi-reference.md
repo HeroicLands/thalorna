@@ -31,7 +31,7 @@ is ambiguous between one person and several, establish the addressee number.
 Keep prose as prose and preserve the requested verse constraints. The authored
 Aelwythi rules take precedence over generic Shakespearean style.
 
-Ordinary English words use the historical readings specified by the note;
+English-derived words use the note's Aelwythi respellings and historical readings;
 coined forms use its fixed pronunciation rules and foreign names receive
 pronounceable Aelwythi adaptations. The frozen English spelling database serves
 collision checks. It does not supply Aelwythi meanings, grammar or permissible
@@ -55,7 +55,9 @@ reference asset.
 Queries are case-insensitive and normalized to NFC. Exact cited forms, exact
 variants and exact present-table forms are combined, with cited forms ranked
 first, then variants and explicit paradigms. An entry is returned once by its
-positional id. Separate records with the same spelling remain separate senses.
+positional id. Separate records with the same spelling remain separate senses. A registered
+name is also returned by an exact case-insensitive query; will and Will can
+therefore return both the word and the name, preserving each authored case.
 An exact noun does not hide another verb's attested inflection of the same
 spelling. If no exact match exists, lookup searches whole terms in modern
 glosses, ranking exact complete glosses first. It does not stem words, guess

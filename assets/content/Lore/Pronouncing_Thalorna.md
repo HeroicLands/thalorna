@@ -443,8 +443,10 @@ provide an introduction to the accent.
 ### Vowels and vowel groups
 
 The English example words identify historical readings, not their present-day
-sound models. This table describes conventional English words only: the whole
-word determines which historical reading applies. It does not supply alternative
+sound models. This table cites the conventional English source words: the whole
+word determines which historical reading applies. Aelwythi writes its derived
+forms with the respellings in its language note; the cited English c and x
+spellings are pronunciation examples, not extra Aelwythi spellings. It does not supply alternative
 readings for a coined spelling. Coined vowels and vowel groups have the fixed
 values in the common transcription.
 
@@ -496,7 +498,7 @@ into pronounceable Aelwythi sounds and written by these same rules.
 
 ### Writing these sounds in Semaron
 
-The [[doc-mapaelwsemaron|Aelwythi Semaron Spelling]] uses the existing letters
+The [[doc-aelwsemaronenc|Aelwythi Semaron Spelling]] uses the existing letters
 and their groups for this orthography. In conventional English words, _th_
 covers both sounds; _sh_ writes the sound of _ship_; _ch_ and _tch_ take _t_ and _sh_; _j_ writes the sound of
 _judge_; _ng_ and _wh_ keep their groups. Vowel spellings and context carry the
