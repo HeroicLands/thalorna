@@ -78,15 +78,15 @@ The kingdom's war canoes are great seagoing dugouts, each cut from a single ceda
 
 ## Trade
 
-The Cedar Kingdom trades south along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, whom it courts, and inland over the mountain passes to the Grass People and the Mesa Towns. Through the Mesa Towns a few southern goods reach the coast, and a macaw feather on a dancer's mask is something a High Chief shows his guests. The passes close in winter, so inland trade is seasonal.
+The Cedar Kingdom trades south along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, whom it courts, and inland over the mountain passes to the Grass People and the Turquoise People. Through the Turquoise People a few southern goods reach the coast, and a macaw feather on a dancer's mask is something a High Chief shows his guests. The passes close in winter, so inland trade is seasonal.
 
 ## See Also
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the Cedar Kingdom keeps with the other four nations
 
-[[affiliation-ixtemtzul|Ishtem Tsul]]
-: the Mesa Towns, a trading partner beyond the mountains
+[[affiliation-teyumi|Teyumi]]
+: the Turquoise People, a trading partner beyond the mountains
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
 : the Grass People, across the mountains to the east

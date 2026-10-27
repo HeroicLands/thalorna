@@ -38,7 +38,7 @@ The present Great Sun, [Opahiko]{.name data-type="being/npc"}, is old, and the t
 
 :::secret {title="Who the Shell Chiefs are talking to"}
 
-Two Shell Chiefs have already sent canoes down the gulf coast, farther than any heartland captain knows, and one came back with a cast copper bell of southern make that did not come through the Mesa Towns. If Opahiko's funeral breaks the Shell Promise, the coast intends to deal with the south on its own account. If it does not, the Shell Chiefs mean to sell the route to the Great Sun's heir for a lighter tribute.
+Two Shell Chiefs have already sent canoes down the gulf coast, farther than any heartland captain knows, and one came back with a cast copper bell of southern make that did not come through the Turquoise People. If Opahiko's funeral breaks the Shell Promise, the coast intends to deal with the south on its own account. If it does not, the Shell Chiefs mean to sell the route to the Great Sun's heir for a lighter tribute.
 
 :::
 

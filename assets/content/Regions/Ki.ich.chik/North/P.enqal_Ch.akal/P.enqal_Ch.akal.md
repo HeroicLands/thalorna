@@ -72,15 +72,15 @@ Raiding is how a young man of the plains makes a name, and a raiding party on fo
 
 ## Trade
 
-Hides, robes, dried meat and fat go from the bands to the villages and on to the other nations; corn goes back. The bands trade with the Mesa Towns for cotton cloth, turquoise and pottery, and through them reach the occasional southern good, a macaw feather or a copper bell, which a war leader wears to show what he could afford. Southern steel almost never reaches the plains.
+Hides, robes, dried meat and fat go from the bands to the villages and on to the other nations; corn goes back. The bands trade with the Turquoise People for cotton cloth, turquoise and pottery, and through them reach the occasional southern good, a macaw feather or a copper bell, which a war leader wears to show what he could afford. Southern steel almost never reaches the plains.
 
 ## See Also
 
 [[affiliation-redstncmpct|Red Stone Compact]]
 : the compact the Grass People keep with the other four nations
 
-[[affiliation-ixtemtzul|Ishtem Tsul]]
-: the Mesa Towns, on the desert rim to the southwest
+[[affiliation-teyumi|Teyumi]]
+: the Turquoise People, on the desert rim to the southwest
 
 [[affiliation-xikulchakl|Shik'ul Ch'akal]]
 : the Woodland League, in the forests to the east

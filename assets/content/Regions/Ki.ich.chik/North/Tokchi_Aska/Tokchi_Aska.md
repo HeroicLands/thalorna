@@ -109,7 +109,7 @@ In the [[affiliation-redstncmpct|Red Stone Compact]] the One Fire sends Nobles o
 
 The One Fire has no money. Wealth is maize in a granary, copper on a Sun, shell on a Noble's chest and the labor a Mound Chief can call on. Tribute goes up the river to Hayo Pokta in baskets of maize and down it again as gifts, feasts and seed in bad years; a Great Sun who keeps more than he gives back is the beginning of a Scattering.
 
-The heartland's craftsmen work copper brought from the Woodland League's lake country, in trade through Ha'nal Shi'lan and in plunder, into plates, gorgets and blades. Their shell comes up the river from the coast. Southern goods reach the One Fire across the desert through the [[affiliation-ixtemtzul|Mesa Towns]], a little cacao and a few macaw feathers and copper bells at a high price, and its Suns prize them above anything made at home and resent the price. Some coastal captains claim to have traded with people far down the gulf coast who had southern goods, and the Great Sun's court would like to know whether the voyage can be made both ways.
+The heartland's craftsmen work copper brought from the Woodland League's lake country, in trade through Ha'nal Shi'lan and in plunder, into plates, gorgets and blades. Their shell comes up the river from the coast. Southern goods reach the One Fire across the desert through the [[affiliation-teyumi|Turquoise People]], a little cacao and a few macaw feathers and copper bells at a high price, and its Suns prize them above anything made at home and resent the price. Some coastal captains claim to have traded with people far down the gulf coast who had southern goods, and the Great Sun's court would like to know whether the voyage can be made both ways.
 
 ## See Also
 

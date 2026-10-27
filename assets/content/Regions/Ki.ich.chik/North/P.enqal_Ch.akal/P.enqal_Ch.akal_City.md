@@ -23,7 +23,7 @@ The village chooses a Village Speaker to deal with the bands, and the bargaining
 
 ## What Comes In
 
-The village trades on to the east and the southwest: robes and hides to the Woodland League and the One Fire, and to the Mesa Towns for cotton cloth, pottery and turquoise. Now and then a southern good comes up the trails from the Mesa Towns, a macaw feather or a copper bell, and a war leader who gets one wears it.
+The village trades on to the east and the southwest: robes and hides to the Woodland League and the One Fire, and to the Turquoise People for cotton cloth, pottery and turquoise. Now and then a southern good comes up the trails from the Turquoise People, a macaw feather or a copper bell, and a war leader who gets one wears it.
 
 ## See Also
 

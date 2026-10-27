@@ -37,6 +37,7 @@ languages:
     taru: { tag: art-x-taru, note: skill-taruzelilng }
     tarv: { tag: art-x-tarv, note: skill-tarvenlng }
     telu: { tag: art-x-telu, note: skill-khazrilng }
+    teyu: { tag: art-x-teyu, note: skill-teyumilng }
     tokc: { tag: art-x-tokc, note: skill-tokchilng }
     valt: { tag: art-x-valt, note: skill-valtarlng }
     varo: { tag: art-x-varo, note: skill-varokhlng }

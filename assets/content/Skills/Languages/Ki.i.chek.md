@@ -3380,7 +3380,6 @@ data:
     - {name: Ish'ilankul Region, tongue: translation}
     - {name: "Ishkul Ch’alish", tongue: kiichek}
     - {name: Ishtem Tsul, tongue: kiichek}
-    - {name: Ishtem Tsul Region, tongue: translation}
     - {name: K'anish Ha'kan, tongue: kiichek}
     - {name: K'ankul, tongue: kiichek}
     - {name: K'ankul Region, tongue: translation}

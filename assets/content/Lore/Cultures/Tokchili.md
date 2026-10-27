@@ -246,7 +246,7 @@ Thoughtful Tokchili argue about it openly. Some Honored men, some clan mothers a
 
 ## The South
 
-The One Fire is the northern nation most tempted to deal privately with the south. Its Suns prize what little comes north across the desert: cacao drunk at feasts, scarlet macaw feathers in a Sun's headdress, cast copper bells. All of it reaches them through the Mesa Towns, at the Mesa Towns' price. Some Suns and Nobles want more than goods. A Great Sun with southern steel would not need the towns' consent, and some of them have worked that out.
+The One Fire is the northern nation most tempted to deal privately with the south. Its Suns prize what little comes north across the desert: cacao drunk at feasts, scarlet macaw feathers in a Sun's headdress, cast copper bells. All of it reaches them through the Turquoise People, at the Turquoise People' price. Some Suns and Nobles want more than goods. A Great Sun with southern steel would not need the towns' consent, and some of them have worked that out.
 
 The shell towns hold a second road in their hands. The gulf runs south along the coast toward the southern lands, and some coastal captains claim to have sailed far enough down it to trade with people who had southern goods. Nobody has made the voyage both ways in living memory. The Great Sun's court would like to know whether it can be done, and the Shell Chiefs, who would own the route, have not said. Every other nation of the [[affiliation-redstncmpct|Red Stone Compact]] knows about the temptation and watches for it.
 

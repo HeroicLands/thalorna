@@ -39,7 +39,7 @@ Summers are long, hot and wet, with thunderstorms most afternoons in the valley 
 
 ## Borders and Trade
 
-To the north the valley opens into [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the One Fire contests with the [[affiliation-xikulchakl|Woodland League]]. To the west, across the river, the land rises into the grasslands of the [[affiliation-penqalchakal|Grass People]], whose bands raid the western towns. Shell from the coast goes up the river to the heartland's engravers, copper comes down from the League's lake country in trade and in plunder, and the few southern goods that reach the region come overland through the [[affiliation-ixtemtzul|Mesa Towns]].
+To the north the valley opens into [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the One Fire contests with the [[affiliation-xikulchakl|Woodland League]]. To the west, across the river, the land rises into the grasslands of the [[affiliation-penqalchakal|Grass People]], whose bands raid the western towns. Shell from the coast goes up the river to the heartland's engravers, copper comes down from the League's lake country in trade and in plunder, and the few southern goods that reach the region come overland through the [[affiliation-teyumi|Turquoise People]].
 
 ## See Also
 

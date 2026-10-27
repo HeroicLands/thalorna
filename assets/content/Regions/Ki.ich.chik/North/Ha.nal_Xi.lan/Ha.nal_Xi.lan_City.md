@@ -19,7 +19,7 @@ Ha'nal Shi'lan is where the goods of the eastern north change hands. The largest
 
 ## Why Traders Come
 
-League canoes come down the rivers with copper, furs, maple sugar and dried fish. One Fire traders come up from the south with shell, engraved copper plates and fine pottery, and Grass People bring hides and robes overland from the west. The settlement's families feed them, store their goods, broker their bargains and take a share. The rare southern good that has come this far, a cacao bean or a macaw feather passed from hand to hand out of the Mesa Towns, fetches more here than anywhere else in the east.
+League canoes come down the rivers with copper, furs, maple sugar and dried fish. One Fire traders come up from the south with shell, engraved copper plates and fine pottery, and Grass People bring hides and robes overland from the west. The settlement's families feed them, store their goods, broker their bargains and take a share. The rare southern good that has come this far, a cacao bean or a macaw feather passed from hand to hand out of the Turquoise People, fetches more here than anywhere else in the east.
 
 ## The Valley
 

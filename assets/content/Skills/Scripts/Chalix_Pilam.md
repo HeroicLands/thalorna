@@ -98,7 +98,7 @@ Literacy is a sliding scale.
 
 The **P'ilambal**, scribe and painter, keeps genealogies, codices and the monuments that assert them. The **Ts'enbal**, priest of the sun, keeps the count of days. Both rank with the high nobility of a city-state such as [[affiliation-ixilankul|Ish'ilankul]], and their offices are hereditary in practice. Running text, calendrical tables and ceremonial inscriptions are the work of priests and scribes. Learned literacy and access to temple archives are sources of priestly and scribal power.
 
-**The northern nations do not use it.** [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]], [[affiliation-ixtemtzul|Ishtem Tsul]], [[affiliation-penqalchakal|P'enqal Ch'akal]], [[affiliation-xikulchakl|Shik'ul Ch'akal]] and [[affiliation-tokchiaska|Tokchi Aska]] stand outside Ki'ich'chik society. They are largely oral, and they refuse Ki'ich'chik speech and writing alike. Ki'ich'chik scribes write about them as foreigners, and the script gives them no emblem glyphs.
+**The northern nations do not use it.** [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]], [[affiliation-teyumi|Ishtem Tsul]], [[affiliation-penqalchakal|P'enqal Ch'akal]], [[affiliation-xikulchakl|Shik'ul Ch'akal]] and [[affiliation-tokchiaska|Tokchi Aska]] stand outside Ki'ich'chik society. They are largely oral, and they refuse Ki'ich'chik speech and writing alike. Ki'ich'chik scribes write about them as foreigners, and the script gives them no emblem glyphs.
 
 ## In play
 

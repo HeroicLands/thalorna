@@ -237,7 +237,7 @@ At the edge of the field, where the stubble meets the hedge, a red shape is sitt
 
 # Dossier {#dossier}
 
-The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vristwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], [[place-silvrfrsts|the Silver Forests]] of [[place-elavendre|Élavendre]], the [[place-nrdlndsrgn|Nordlands]] coast and the northern tundra of [[place-ixtemtzulrgn|Ishtem Tsul]], and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
+The Fox is the small red hunter of the woods, hedges and field margins, twelve to fifteen inches at the shoulder and up to thirteen pounds. It lives in the clearings of [[place-vrystwald|Vristwald]], the forest-steppe of [[place-velanthrgn|Velanthia]], [[place-silvrfrsts|the Silver Forests]] of [[place-elavendre|Élavendre]], the [[place-nrdlndsrgn|Nordlands]] coast and the canyon country of the [[place-teyumirgn|Teyumi Region]], and it raids hen-houses, escapes traps and leads dogs astray. It is the wesk of several Varokh villages.
 
 ## Presentation
 
@@ -245,7 +245,7 @@ A small, lean, muscular animal with a russet or rust-orange coat and a white und
 
 ## In the Land
 
-Foxes live in the woods, hedges and field margins of nearly every settled country: the clearings of Vristwald, the forest-steppe of Velanthia, the Silver Forests of Élavendre, the cold coast of the Nordlands and the northern tundra of Ishtem Tsul, where the arctic fox grows its white winter coat. A fox digs an earth in a bank or a hollow under roots, ranges several miles at night around the farms, and eats mice, voles, hens, eggs and windfalls.
+Foxes live in the woods, hedges and field margins of nearly every settled country: the clearings of Vristwald, the forest-steppe of Velanthia, the Silver Forests of Élavendre, the cold coast of the Nordlands and the canyons of the Teyumi Region, where it dens among the rocks under the mesa rims. A fox digs an earth in a bank or a hollow under roots, ranges several miles at night around the farms, and eats mice, voles, hens, eggs and windfalls.
 
 ## Key Behaviors
 
