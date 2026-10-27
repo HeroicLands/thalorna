@@ -9,7 +9,7 @@ data:
   demonym: Ki'ich'chik
   lore: [humanflk]
   parents: [worldthlrn]
-  population: 34000000
+  population: 35500000
   packFolder: kiichchik
 
 # terran_analog: "The present US and southern-Canada analog is held by five nations outside Ki'ich'chik culture, modelled on North America around 1100, with two unaligned peoples in the California and Alaska analogs. A hot, deadly Mojave-like desert barrier runs from the California–Texas span through northern Mexico; the Sonoran-like extent is intensified. Ki'ich'chik civilization begins in fertile land south of the Mazatlan analog and continues through the Brazilian-Amazon analog. Wastelands begin south of that basin, roughly at Lima's latitude. Broad analogies only; do not infer precise global geometry."

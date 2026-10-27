@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [kiichchik]
-  population: 2000000
+  population: 3500000
   packFolder: kiichchik
 
 # terran_analog: "The present United States and southern Canada around 1100: the Haudenosaunee and their Algonquian neighbors, the Mississippian chiefdoms at the height of Cahokia, the pre-horse Plains hunters and Plains Village farmers, the Ancestral Puebloans of Chaco Canyon and Mesa Verde, and the Pacific Northwest coast. The two peoples outside the compact are drawn from California (the Chumash and the acorn peoples) and Alaska (the Unangan, Yup'ik and Iñupiat, and the early Thule). The compact draws on the calumet ceremony and the Pipestone quarry; the sea raiders are the Norse voyages of about 1000 to 1100, and the arctic newcomers the Thule expansion of about 1000 to 1300."
@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 2,000,000 people live in the north.
+Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the River Kingdom holds 1,500,000 of them and the Woodland League 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar Kingdom 200,000, the Mesa Towns 150,000 and the Ice-Coast Hunters 50,000, while about 200,000 more live in boreal and other bands outside every polity.
 
 The north is a land of copper and maize, longhouse and mound, buffalo jump and great house, and none of it is written. Its peoples keep their law, their treaties and their histories in memory, and they refuse the speech and the glyphs of the south.
 

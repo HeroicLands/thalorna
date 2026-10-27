@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [northkiichchik]
-  population: null
+  population: 750000
   packFolder: xikulchakal
   government: xikulchakl
 
