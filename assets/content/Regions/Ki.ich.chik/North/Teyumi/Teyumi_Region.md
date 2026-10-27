@@ -33,7 +33,7 @@ Rain decides everything. A good year fills the storerooms of the great houses, a
 
 ## Neighbors and Trade
 
-The plains of the [[place-tenlayargn|Tenlaya Region]], the Grass People's country, lie east of the mesas, and the towns trade cotton cloth, pottery and turquoise to the bands for meat and hides. The mountain country to the north and west is thinly held hunting ground, and over it the Cedar Kingdom's traders come for turquoise. Southward, the routes across the desert begin at Kwatuhosa, and the traders and pilgrims who survive the crossing arrive there first.
+The plains of the [[place-tenlayargn|Tenlaya Region]], the Grass People's country, lie east of the mesas, and the towns trade cotton cloth, pottery and turquoise to the bands for meat and hides. The mountain country to the north and west is thinly held hunting ground, and over it the Cedar People's traders come for turquoise. Southward, the routes across the desert begin at Kwatuhosa, and the traders and pilgrims who survive the crossing arrive there first.
 
 ## See Also
 

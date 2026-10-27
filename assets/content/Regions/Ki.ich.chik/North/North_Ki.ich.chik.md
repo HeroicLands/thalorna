@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar Kingdom 200,000, the Turquoise People 150,000 and the Ice-Coast Hunters 50,000, while about 200,000 more live in boreal and other bands outside every polity.
+Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Maple People 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar People 200,000, the Turquoise People 150,000 and the Ice-Coast Hunters 50,000, while about 200,000 more live in boreal and other bands outside every polity.
 
 The north is a land of copper and maize, longhouse and mound, buffalo jump and great house, and none of it is written. Its peoples keep their law, their treaties and their histories in memory, and they refuse the speech and the glyphs of the south.
 
@@ -37,12 +37,12 @@ Each nation is a confederacy of many towns or bands that share a family of langu
 [[affiliation-teyumi|Turquoise People]]
 : Teyumi in their own tongue, the people of the turquoise, and Ishtem Tsul in the south's, the Bear People. Towns of multistory stone great houses on the desert's northern rim, linked by straight roads and fed by dry farming and canals. They hold the northern end of every route across the desert, and know the south better than anyone else in the north.
 
-[[affiliation-ixbalkiahk|Cedar Kingdom]]
-: Ish'bal Ki'ahk, the Eagle People. Plank-house villages on the salmon coast of the far west, ranked into nobles, commoners and slaves, where a paramount house presides over noble houses whose loyalty it buys with gifts. It is a sea power, a month's journey from the others, and it keeps the compact for its own prestige.
+[[affiliation-kelwanuk|Cedar People]]
+: Kelwanuk in their own tongue, the people of the cedar, and Ish'bal Ki'ahk in the south's, the Eagle People. Plank-house villages on the salmon coast of the far west, ranked into nobles, commoners and slaves, where no house rules another and every house sits in one order of seats, won and kept by giving. They are a sea power, a month's journey from the others, and they keep the compact for its prestige.
 
 ## Outside the Compact
 
-The [Shell-Bead Towns]{.name data-type="lore/culture"} stand on the western coast south of the Cedar Kingdom and in the oak valleys behind it. They are dozens of independent towns, rich in fish and acorns, with plank canoes that cross to the offshore islands and a currency of drilled shell beads. Mountains and desert shelter them, so they see no need for the compact, and the Cedar Kingdom and the Turquoise People both trade with them and court them.
+The [Shell-Bead Towns]{.name data-type="lore/culture"} stand on the western coast south of the Cedar People and in the oak valleys behind it. They are dozens of independent towns, rich in fish and acorns, with plank canoes that cross to the offshore islands and a currency of drilled shell beads. Mountains and desert shelter them, so they see no need for the compact, and the Cedar People and the Turquoise People both trade with them and court them.
 
 The [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest take seal, walrus and whale from skin boats along the frozen coasts. They are remote, self-sufficient and uninterested in the quarrels of the south.
 

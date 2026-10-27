@@ -81,6 +81,8 @@ export const SOURCES = {
     "Elavendri.md": ["old-french", "breton"],
     "Helonic.md": ["ancient-greek"],
     "Jurthat.md": ["japanese"],
+    // The word lists hold no kwakwala or nuu-chah-nulth list, so a Kelwanuk coinage is checked by reading.
+    "Kelwanuk.md": ["kwakwala", "nuu-chah-nulth"],
     "Khazari.md": ["khuzdul"],
     "Khazri.md": ["sogdian", "tajik", "hebrew"],
     "Khelathi.md": ["egyptian"],

@@ -63,8 +63,8 @@ The south knows them by Ki'ich'chik names, and the nation-names are exonyms its 
 [[affiliation-teyumi|Turquoise People]]
 : the Teyumi in their own tongue and Ishtem Tsul, the Bear People, in the south's: builders of stone great houses on the desert's northern rim, who keep the northern end of the desert routes
 
-[[affiliation-ixbalkiahk|Cedar Kingdom]]
-: Ish'bal Ki'ahk, the Shak'nal Ts'omalil ("Eagle People"): salmon fishers and carvers of the far western coast, ranked under a paramount house
+[[affiliation-kelwanuk|Cedar People]]
+: the Kelwanuk in their own tongue and Ish'bal Ki'ahk, the Shak'nal Ts'omalil ("Eagle People"), in the south's: salmon fishers and carvers of the far western coast, whose noble houses sit in one order of seats won by giving
 
 Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Maple People and the One Fire, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Turquoise People hold its northern gate.
 

@@ -87,7 +87,7 @@ Raiding is how a young man of the plains makes a name, and a raiding party on fo
 
 ## Trade
 
-Meat, fat, robes and hides go from the bands to the villages and on to the other nations; corn, beans, squash, sunflower cakes and the tobacco the village old men grow for every pipe on the plains go back. The bands trade with the Turquoise People for cotton cloth, turquoise and pottery, and through them reach the occasional southern good, a macaw feather or a copper bell, which a war leader wears and then gives away. Over the western mountains the bands trade robes to the Cedar Kingdom's summer traders for shell and dried salmon. Southern steel almost never reaches the plains.
+Meat, fat, robes and hides go from the bands to the villages and on to the other nations; corn, beans, squash, sunflower cakes and the tobacco the village old men grow for every pipe on the plains go back. The bands trade with the Turquoise People for cotton cloth, turquoise and pottery, and through them reach the occasional southern good, a macaw feather or a copper bell, which a war leader wears and then gives away. Over the western mountains the bands trade robes to the Cedar People's summer traders for shell and dried salmon. Southern steel almost never reaches the plains.
 
 ## See Also
 
@@ -115,5 +115,5 @@ Meat, fat, robes and hides go from the bands to the villages and on to the other
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, whose western towns the bands raid
 
-[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
-: the Cedar Kingdom, across the western mountains
+[[affiliation-kelwanuk|Ish'bal Ki'ahk]]
+: the Cedar People, across the western mountains

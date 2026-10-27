@@ -112,5 +112,5 @@ Drought is the Turquoise People's great fear. A town's fields, its canals and th
 [[affiliation-tenlaya|Tenlaya]]
 : the Grass People, on the plains to the east
 
-[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
-: the Cedar Kingdom, a trading partner on the far western coast
+[[affiliation-kelwanuk|Kelwanuk]]
+: the Cedar People, a trading partner on the far western coast

@@ -23,6 +23,7 @@ languages:
     hvar: { tag: art-x-hvar, note: skill-hvarnlng }
     jurt: { tag: art-x-jurt, note: skill-jurthatlng }
     kali: { tag: art-x-kali, note: skill-kalihrlng }
+    kelw: { tag: art-x-kelw, note: skill-kelwanuklng }
     khaz: { tag: art-x-khaz, note: skill-khazarlng }
     khel: { tag: art-x-khel, note: skill-khelathlng }
     kiichek: { tag: art-x-kiichek, note: skill-kiichek }

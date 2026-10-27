@@ -3372,7 +3372,6 @@ data:
     - {name: Ha'nal Shilik, tongue: kiichek}
     - {name: Itsani Pantheon, tongue: translation}
     - {name: Ish'bal Ki'ahk, tongue: kiichek}
-    - {name: Ish'bal Ki'ahk Region, tongue: translation}
     - {name: Ish'bal Tsa'ku, tongue: kiichek}
     - {name: Ish'bal Tsa'ku Region, tongue: translation}
     - {name: Ish'ilan Ch'alish, tongue: kiichek}
