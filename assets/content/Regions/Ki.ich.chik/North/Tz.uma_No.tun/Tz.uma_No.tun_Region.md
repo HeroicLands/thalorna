@@ -3,7 +3,7 @@ shortcode: tzumanotunrgn
 name: {full: Ts'uma No'tun Region, aliases: []}
 type: place
 subType: region
-description: "Ancient mountains, piedmont, swamp and coastal wetland—the land of Ts'uma No'tun, in the northeast of Northern Ki'ich'chik."
+description: "The great river valley, the old eastern ranges, and the swamps and shell coasts of the south—the land of the River Kingdom, in Northern Ki'ich'chik."
 tags: [region]
 data:
   demonym: null
@@ -13,38 +13,32 @@ data:
   packFolder: tzumanotun
   government: tzumanotun
 
-# terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana; the old northern ranges are the Appalachian Mountains, and Ne' P'uqan, the Black Water, is the Great Dismal Swamp
+# terran_analog: the Mississippi valley and the Southeast, with the Florida and Gulf coasts and the Appalachian Mountains on its eastern side; Ne' P'uqan, the Black Water, is the Great Dismal Swamp
 ---
 
 ## Overview
 
-Ts'uma No'tun Region is the land of [[affiliation-tzumanotun|Ts'uma No'tun]], and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
-
-Ts'uma No'tun—"Serpent Place" in Ki'ich'chik—encompasses the ancient mountains descending through forested hills into vast swamplands, river deltas, and coastal wetlands where water and land blur into an ambiguous frontier.
+Ts'uma No'tun Region is the land of [[affiliation-tzumanotun|Ts'uma No'tun]], the River Kingdom, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It runs from the valley of the great river in the west, over the old forested ranges, down to the swamps and the shell coasts of the south.
 
 ## Geography
 
-Ts'uma No'tun's landscape transitions dramatically from north to south. The northern portions feature the ancient ranges that give Ts'uma No'tun its name, worn smooth by time into rolling, heavily forested hills. These mountains, though lower than their western cousins, are possessed of a beauty and productive diversity unmatched in the northern frontier; the rich soil supports dense hardwood forests of oak, hickory, and chestnut, with understories heavy with rhododendron and mountain laurel. Clear streams cascade down the valleys, and game is abundant.
+The heartland is the valley of the great river, which flows south out of the interior to the gulf. Its floodplain is miles wide, renewed by floods every spring, and fertile enough to grow maize in surplus; the mound cities stand on the higher ground along it, where the river's backwaters and oxbow lakes give fish and waterfowl as well. The great river and its tributaries are the kingdom's roads, and its canoes carry maize, shell, copper and tribute up and down them.
 
-As one moves south and east from the mountains, the land gradually descends into the piedmont—a landscape of rolling hills and river valleys where the forest opens into meadows and the first significant swamplands appear. Major rivers drain eastward from the old ranges, and these river valleys become increasingly complex and water-saturated as one approaches the coast. [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, and similar vast marshes form the heart of Ch'akun territory in the south; these trackless expanses of cypress, tupelo, and saw palm, crisscrossed by sluggish black-water rivers and interconnected by hidden waterways, are simultaneously vast and intimate. The swamps support tremendous biological productivity—fish, waterfowl, alligators, and mammals of all sizes—and the Ch'akun have learned to harvest this abundance sustainably.
+East of the valley rise the old ranges, worn smooth by time into long ridges and rolling, heavily forested hills of oak, hickory and chestnut, with clear streams in the valleys and game in plenty. Beyond them the land descends through piedmont into the river country of the southeast, where the kingdom's eastern towns farm the bottomlands.
 
-The southeastern coastal regions of Ts'uma No'tun feature salt marshes, islands, and low-lying barrier lands where fresh water and salt water mix. The Ch'akun build temporary settlements in these regions during certain seasons, harvesting salt, shellfish, and fish. Mangrove forests replace the cypress in the most southern reaches, indicating the subtropical character of the lower portions of Ch'akun territory. The western boundaries of Ts'uma No'tun approach the contested river valleys of the [[place-hanalxilanrgn|Ha'nal Shi'lan Region]] in a zone of shared hunting grounds and frequent inter-tribal contact; the southern and eastern boundaries reach toward the edge of Ki'ich'chik proper.
+South and east of the ranges, the lowlands turn to swamp. [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, and the marshes like it are trackless expanses of cypress, tupelo and saw palm, crossed by sluggish black-water rivers and joined by hidden waterways, rich in fish, waterfowl and alligators. Farther south lie the coastal provinces: salt marsh, mangrove, barrier islands and a warm shallow gulf, where the towns stand on islands of heaped shell and the people live by the sea.
 
-## Trade
+## Borders and Trade
 
-Ts'uma No'tun's position at the southeastern frontier of the northern territories gives the Ch'akun unique access to southern goods and unique items not available elsewhere in the north. Feathered cloaks, tropical fruits, obsidian tools, and dyed textiles flow northward from Ki'ich'chik through Ch'akun hands; the Ch'akun serve as intermediaries and carefully control access to particularly valuable items.
-
-The Ch'akun also produce goods valuable in southern markets: poisons and herbal medicines, preserved foods, and certain rare items of spiritual power. The Ch'akun reputation as masters of poison and herbalism makes their medicinal compounds highly sought-after despite their reputation; wealthy southern merchants and healers will pay premium prices for documented Ch'akun medicines. The Ch'akun never trade raw materials—only finished products that reveal nothing of their methods. Ki'ich'chik physicians who have analyzed Ch'akun medicines report compounds of extraordinary potency but have been unable to identify the source plants or replicate the preparation.
-
-Hides, furs, and game products from Ts'uma No'tun reach Ki'ich'chik markets through indirect chains of intermediaries, never through direct contact.
+To the north, the valley opens into [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the kingdom contests with the Woodland League. To the west, across the river, the land rises into the grasslands of the Grass People. Shell from the coasts goes up the river to the heartland's engravers, copper comes down from the League's lake country in trade and in plunder, and the few southern goods that reach the kingdom come overland from the Mesa Towns.
 
 ## See Also
 
 [[affiliation-tzumanotun|Ts'uma No'tun]]
-: The realm that holds this land
+: the River Kingdom, the nation that holds this land
 
 [[place-northkiichchik|Northern Ki'ich'chik]]
-: The enclosing region
+: the enclosing region
 
 [[place-tzumanotun2|Ts'uma No'tun]]
-: Seat of Ts'uma No'tun
+: the mound city the south counts as the River Kingdom's seat

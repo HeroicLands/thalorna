@@ -1,9 +1,9 @@
 ---
 shortcode: penqalchakal
-name: {full: P'enqal Ch'akal, aliases: []}
+name: {full: P'enqal Ch'akal, aliases: [Grass People]}
 type: affiliation
 subType: polity
-description: Endless grasslands ridden by the mounted Ts'okum—the Coyote People—whose herds, raids, and tribute-demands menace the settled south.
+description: "The Grass People of the central plains, whom the south calls the Coyote People: bison hunters on foot and earth-lodge farmers, led by whoever leads this season."
 tags: [polity]
 data:
   icon: null
@@ -12,106 +12,81 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: monarchy
-    summary: ""
+    model: council
+    summary: >-
+      No one rules the Grass People for long. Each band and each earth-lodge village settles its affairs in council; a hunt chief commands the communal hunt and a war leader commands a raid, each only for the season or the venture, and the warrior societies enforce the hunt's rules on everyone.
     ranks:
       - level: 0
-        title: Exile
+        title: Outcast
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Driven from his band or village for a killing among his own people or for spoiling a communal hunt; no society will have him and no lodge will feed him.
       - level: 1
-        title: Captive
+        title: Kin
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          A member of a hunting band or an earth-lodge village by birth, marriage or adoption.
       - level: 2
-        title: Commoner
+        title: Society Member
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
-      - level: 3
-        title: Craftsman
-        description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
-      - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Priest
-        description: >-
-          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
-      - level: 6
-        title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
-      - level: 7
-        title: Kulmah
-        description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
-      - level: 8
-        title: Ts'enmah
-        description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Admitted by its rite to a warrior society after proving himself in raids, and bound to police the hunts and defend the camp.
     offices:
-      Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Painter and carver, keeper of the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+      Hunt Chief: >-
+        Kin named by a band or a village for one season to lead the communal hunts, whose word is law while the herd is being driven and who loses the title when the season ends.
+      War Leader: >-
+        A Society Member who raises a raiding party, with authority over it until it comes home; his standing rises or falls with what it brings back.
+      Society Head: >-
+        The Society Member who leads a warrior society and sets its members to police a hunt; anyone who startles the herd early has his weapons broken and his lodge cover cut.
+      Village Speaker: >-
+        Kin chosen by an earth-lodge village to deal with the hunting bands, set the price of corn in meat and hides, and keep the peace at the autumn trading.
   seat: penqalchakal2
   population: null
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {}
+  relations: {redstncmpct: aligned, tzumanotun: rival}
   packFolder: penqalchakal
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Central US and Plains States East of Rockies
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the Great Plains east of the Rockies, from Texas to Alberta, Saskatchewan and Manitoba
+# terran_analog: the pre-horse Plains bison hunters, with dogs and travois and communal drives such as Head-Smashed-In buffalo jump, and the Plains Village farmers ancestral to the Mandan, Hidatsa and Pawnee; the warrior societies that policed the hunt are the Plains akicita
 ---
 
 ## Overview
 
-P'enqal Ch'akal holds the land of the [[place-penqalchaklrgn|P'enqal Ch'akal Region]]. Ki'ich'chik border scouts call the people here the Ts'okum Ts'omalil ("Coyote People"), from the coyote-imagery on their war-standards and painted shields. Their own name for themselves is unknown. Of the five northern nations, the Ts'okum are the most immediately dangerous to Ki'ich'chik interests—the most volatile, the most militarily aggressive, and the most likely to raid across the [[place-chakultzklrgn|Ch'akul Tsa'kul barrier]] when conditions permit.
+P'enqal Ch'akal, "the great grassland", is the Ki'ich'chik name for the Grass People and their country, and the Ts'okum Ts'omalil ("Coyote People") is what southern traders call them, from the coyote painted on their shields. They hold the land of the [[place-penqalchaklrgn|P'enqal Ch'akal Region]], the plains at the center of the north.
 
-The great herds that migrate across P'enqal Ch'akal with seasonal regularity are the foundation of Ts'okum life. Ki'ich'chik observers report that the Ts'okum have built everything around pursuing these herds, and their mastery of mounted warfare and beast-craft is unparalleled among the northern peoples. The plains offer no shelter and few natural defenses; the Ts'okum have compensated by becoming warriors first and foremost, capable of dominating open terrain with tactical speed that Ki'ich'chik armies—designed for jungle and highland warfare—have found nearly impossible to counter. The Ts'okum regard all outsiders as either threats or prey, and Ki'ich'chik merchants who venture into P'enqal Ch'akal do so at extreme personal risk.
+The Grass People live two ways. The hunting bands follow the bison herds on foot, with dogs to pull their lodge covers and goods on travois, and live in hide lodges they strike and carry. The farming villages stand along the rivers, clusters of round earth lodges above fields of maize, beans, squash and sunflowers. The two need each other: the villages trade corn for the bands' meat and hides, and every autumn the bands come in to trade. The bargain is old and often bitter, and in a hungry year a band takes what it was refused.
 
-## The Ts'okum Ts'omalil
+No one on the plains rides. The bands hunt the herds by driving them, and a communal hunt is the greatest work of their year. Whole bands spend days easing a herd toward a cliff edge or a corral of brush and stone, with lines of stone cairns and crouching people to steer it, and then stampede it over. A good drive feeds a band through the winter; a herd startled early scatters, and the band goes hungry.
 
-The Coyote People are mounted warriors without peer, capable of pursuing prey across the open plains at speeds that seem almost supernatural to those unfamiliar with their techniques. They have refined the craft of riding to an art form matched only by their skill in archery, spear-work, and tactical command. A Ts'okum hunting party can coordinate movements across miles of open ground with hand signals and subtle vocal calls, executing encirclements and ambushes of devastating efficiency. This same tactical excellence has made them formidable in inter-tribal conflicts; while the other nations treasure their own warriors, Ts'okum commanders are famous for out-maneuvering larger forces and winning battles through position and timing rather than crude force.
+## Governance
 
-Ki'ich'chik scholars believe the Ts'okum are organized into clans, each associated with a specific section of the plains, though the internal workings of these clans are largely unknown. What is observable is that prestige among the Ts'okum is overwhelmingly martial; the war-leaders who appear at border encounters are festooned with trophies, and the quality of weapons and mounts appears to mark status. The few Ki'ich'chik captives who have survived encounters with the Ts'okum report a society in which raiding and combat skill are the primary measures of worth.
+Leadership on the plains is situational. A band or a village chooses a hunt chief for the season, and while the herd is being driven his word is law; when the season ends, so does his authority. A war leader leads a raid only while it is out, and his standing rises or falls with what it brings home. Councils of the respected men and women of a band or village settle everything else.
 
-The Ts'okum material culture, as seen in traded and captured goods, tends toward the practical: well-made weapons, excellent leather goods, and spectacular beadwork and decorated armor. Young Ts'okum appear to compete for prestige through increasingly daring raids on neighboring territories—including, with alarming frequency, across the Ch'akul Tsa'kul barrier into Ki'ich'chik lands. This constant low-level aggression makes the Ts'okum the most persistent military threat on the northern frontier.
+The warrior societies hold the hunts together. Each is a fellowship of proven fighters with its own rites, songs and regalia, and during a communal hunt it polices the camp. A hunter who goes out alone and startles the herd has his weapons broken and his lodge cover cut by the society on duty, whatever his standing. The same societies defend the camps and lead the raids.
+
+The Grass People are egalitarian and prize prestige: a person's standing rests on what they have done, given away and dared, and it can be lost. In the [[affiliation-redstncmpct|Red Stone Compact]], they send whichever war leaders and society heads the bands agree on, and they have the least patience of any nation with the settled nations' politics.
+
+## Raiders
+
+Raiding is how a young man of the plains makes a name, and a raiding party on foot may walk for a month. Parties cross the grassland to take food, captives and goods from the River Kingdom's western towns and the League's western villages, and from other bands. The compact's other nations value the Grass People as scouts and as fighters who move faster than any town can muster, and complain of them as neighbors.
 
 ## Trade
 
-The Ts'okum maintain steady contact with all neighboring peoples, though these interactions are often tense. Trade negotiations between Ts'okum clans and their neighbors sometimes dissolve into minor raids; the distinction between "tribute," "trade," and "plunder" is often unclear. This unpredictability makes merchant caravans traveling through P'enqal Ch'akal nervous, yet the potential profits from herd-products and the geographic necessity of passing through Ts'okum lands drives steady commerce. Some traders maintain formal relationships with specific Ts'okum clans, paying tribute to those clans in exchange for safe passage; this system works adequately, though it requires constant renegotiation.
-
-The wealth flowing into P'enqal Ch'akal from trade allows the Ts'okum to acquire southern luxury goods—steel blades, obsidian ornaments, feathered cloaks, and dyed textiles—that mark the status of wealthy individuals and clans. These acquisitions, combined with the prestige of successful hunts and raids, create a competitive dynamic that sometimes manifests as inter-clan conflicts. The Ts'okum have not yet experienced a major civil war, but the tensions are present; only the threat of external invasion and the seasonal imperatives of the herds keep the Ts'okum sufficiently unified to maintain themselves as a coherent nation.
+Hides, robes, dried meat and fat go from the bands to the villages and on to the other nations; corn goes back. The bands trade with the Mesa Towns for cotton cloth, turquoise and pottery, and through them reach the occasional southern good, a macaw feather or a copper bell, which a war leader wears to show what he could afford. Southern steel almost never reaches the plains.
 
 ## See Also
 
+[[affiliation-redstncmpct|Red Stone Compact]]
+: the compact the Grass People keep with the other four nations
+
 [[affiliation-ixtemtzul|Ishtem Tsul]]
-: The bear-people's boreal forests to the north and west
+: the Mesa Towns, on the desert rim to the southwest
 
 [[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: The otter-people's woodlands to the east
-
-[[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: The contested river valleys to the south
+: the Woodland League, in the forests to the east
 
 [[affiliation-tzumanotun|Ts'uma No'tun]]
-: The serpent-people's swamps and mountains, connected through the Ha'nal Shi'lan borderlands
+: the River Kingdom, whose western towns the bands raid
 
 [[place-penqalchaklrgn|P'enqal Ch'akal Region]]
-: The land P'enqal Ch'akal holds
+: the land the Grass People hold

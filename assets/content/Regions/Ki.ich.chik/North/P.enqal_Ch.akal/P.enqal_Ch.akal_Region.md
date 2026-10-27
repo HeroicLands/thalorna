@@ -3,7 +3,7 @@ shortcode: penqalchaklrgn
 name: {full: P'enqal Ch'akal Region, aliases: []}
 type: place
 subType: region
-description: "The endless grasslands and migrating herds that are the land of P'enqal Ch'akal, at the center of Northern Ki'ich'chik."
+description: "The great grassland and its migrating herds—the land of the Grass People, at the center of Northern Ki'ich'chik."
 tags: [region]
 data:
   demonym: null
@@ -13,34 +13,36 @@ data:
   packFolder: penqalchakal
   government: penqalchakal
 
-# terran_analog: Central US and Plains States East of Rockies
+# terran_analog: the Great Plains east of the Rockies, from Texas to Alberta, Saskatchewan and Manitoba
 ---
 
 ## Overview
 
-P'enqal Ch'akal Region is the land of [[affiliation-penqalchakal|P'enqal Ch'akal]], and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
+P'enqal Ch'akal Region is the land of [[affiliation-penqalchakal|P'enqal Ch'akal]], the Grass People, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
 
-P'enqal Ch'akal—"Great Grassland" in Ki'ich'chik—is an endless sea of grass and sky where the horizon stretches beyond sight and the wind carries scents of a thousand miles.
+P'enqal Ch'akal, "the great grassland" in Ki'ich'chik, is a sea of grass and sky at the center of the north, where the horizon stretches beyond sight and the wind carries scents from a thousand miles away.
 
 ## Geography
 
-P'enqal Ch'akal is deceptively simple in appearance yet possessed of subtle complexities that have taken generations for the Ts'okum to master. The central plains form an immense plateau of grassland, interrupted by occasional river valleys and low-rolling hills. The grass grows thick in the north, where water is more reliable, and becomes increasingly sparse toward the south as the contested river valleys of the [[place-hanalxilanrgn|Ha'nal Shi'lan Region]] approach. The landscape shifts with the seasons: spring brings floods and rapid greening, summer bakes the grass golden and sees the great herds at their most numerous, autumn triggers the migrations that drive Ts'okum society, and winter—while less brutal than the extremes of the [[place-ixtemtzulrgn|Ishtem Tsul Region]]—still claims the unprepared.
+The plains look simple and are not. They rise gently westward from the river valleys toward the mountains, and the grass changes as they rise: tall and thick in the wetter east, short and sparse in the dry west under the mountains. Rivers cross them from west to east in wide, wooded valleys, and those valleys are where the earth-lodge villages stand, on terraces above the floodplain fields. Spring brings floods and a rapid greening, summer bakes the grass golden, and winter on the open plain kills the unprepared.
 
-The herds themselves are the defining feature of P'enqal Ch'akal's geography. The great bison and elk that migrate across the plains follow routes worn smooth by centuries of use, creating natural pathways visible from leagues away. These migration routes intersect with river valleys and seasonal water sources; the Ts'okum have mapped every such intersection with meticulous care and plan their hunting expeditions and tribal movements accordingly. To understand P'enqal Ch'akal is to understand the herds; knowing where the herds are and will be is the fundamental skill all Ts'okum children learn before they learn to craft a bow.
+The herds are the plains' defining feature. Bison and elk move across the grass on routes worn by centuries, toward water and new grass, and the hunting bands know every crossing, every spring and every cliff edge along them. The cliffs matter most: a band that can steer a herd to a known drop or into a corral of brush and stone eats through the winter. Knowing where the herds are and where they are going is the first thing a child of the bands learns, before the bow.
 
-The western border of P'enqal Ch'akal touches the foothills and mountains of Ishtem Tsul, creating a transitional zone of broken prairie and scattered forest where No'kin hunters of [[affiliation-ixtemtzul|Ishtem Tsul]] and Ts'okum hunters sometimes encounter one another. The eastern borders are more diffuse, shading gradually into the eastern woodlands claimed by [[affiliation-xikulchakl|Shik'ul Ch'akal]] (the Ha'ik Ts'omalil). The southern boundary is aggressively contested; P'enqal Ch'akal's grasslands edge into the river valleys and bottom-lands of Ha'nal Shi'lan, where the Ts'okum, the Ha'ik, and the people of [[affiliation-tzumanotun|Ts'uma No'tun]] (the Ch'akun) all maintain seasonal hunting camps and trading posts. These borderlands see the highest concentration of inter-tribal violence in the entire northern frontier.
+## Borders
+
+West, the plains climb into the foothills and the mountain valleys, where the bands hunt elk and sheep in summer, and southwest they meet the mesa and canyon country of the [[affiliation-ixtemtzul|Mesa Towns]]. East, the grass gives way to the forests of the [[affiliation-xikulchakl|Woodland League]] and to the valley of the great river, the heartland of the [[affiliation-tzumanotun|River Kingdom]], whose western towns the bands raid and trade with in turn. In the northeast, where grass, forest and river country meet, lies the [Red Quarry]{.name data-type="place/site"}, the bloodless ground where the [[affiliation-redstncmpct|Red Stone Compact]] holds its council each summer. North, the grass thins into parkland and then the boreal forest.
 
 ## Trade
 
-P'enqal Ch'akal's position at the center of the northern frontier makes it a natural crossroads for trade, though the Ts'okum's martial temperament and cultural emphasis on military virtue means they engage in trade more as a byproduct of territorial movement than from primary economic interest. Nevertheless, hides and rendered fats flow regularly southward from Ts'okum hunters, and herbal medicines and craft goods move north and east to supply communities that lack direct access to southern trade.
+The bands trade with the earth-lodge villages above all: meat, hides and fat for corn, beans and squash, at an autumn trading that is part market and part truce. Robes and hides go on east to the League and the River Kingdom, and southwest to the Mesa Towns for cotton cloth, pottery and turquoise.
 
 ## See Also
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
-: The realm that holds this land
+: the Grass People, the nation that holds this land
 
 [[place-northkiichchik|Northern Ki'ich'chik]]
-: The enclosing region
+: the enclosing region
 
 [[place-penqalchakal2|P'enqal Ch'akal]]
-: Seat of P'enqal Ch'akal
+: the earth-lodge village the south counts as the Grass People's seat

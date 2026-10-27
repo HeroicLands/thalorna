@@ -3,7 +3,7 @@ shortcode: kiichchik
 name: {full: Ki'ich'chik Continent, aliases: [Kiichchik]}
 type: place
 subType: region
-description: "The western continent, with independent northern Indigenous peoples, an uninhabited desert barrier, the Itsani city-states and the southern wastelands."
+description: "The western continent: five northern nations bound by a compact, a desert that filters the trade between north and south, the Itsani city-states and the southern wastelands."
 tags: [continent, kiichchik]
 data:
   demonym: Ki'ich'chik
@@ -12,7 +12,7 @@ data:
   population: 34000000
   packFolder: kiichchik
 
-# terran_analog: "The present US and southern-Canada analog is held by five Indigenous nations outside Ki'ich'chik culture, with smaller groups in the wet northwest and arctic regions. A hot, deadly Mojave-like desert barrier runs from the California–Texas span through northern Mexico; the Sonoran-like extent is intensified. Ki'ich'chik civilization begins in fertile land south of the Mazatlan analog and continues through the Brazilian-Amazon analog. Wastelands begin south of that basin, roughly at Lima's latitude. Broad analogies only; do not infer precise global geometry."
+# terran_analog: "The present US and southern-Canada analog is held by five nations outside Ki'ich'chik culture, modelled on North America around 1100, with two unaligned peoples in the California and Alaska analogs. A hot, deadly Mojave-like desert barrier runs from the California–Texas span through northern Mexico; the Sonoran-like extent is intensified. Ki'ich'chik civilization begins in fertile land south of the Mazatlan analog and continues through the Brazilian-Amazon analog. Wastelands begin south of that basin, roughly at Lima's latitude. Broad analogies only; do not infer precise global geometry."
 # terran_analog: The connecting isthmus (Central-America analog) is roughly five times broader than real-world Panama.
 ---
 
@@ -20,13 +20,13 @@ data:
 
 Ki'ich'chik is a vast continent stretching from northern forests to far-southern wastelands. Ki'ich'chik civilization occupies the fertile lands south of the desert barrier and extends through the southern forests and river basin. Its pyramid-building city-states are unified under the [[affiliation-itzanpnthn|Itsani faith]] and the celestial calendar. The Ki'ich'chik peoples are builders, astronomers, and warriors whose culture revolves around the cosmic cycle of creation and destruction known as the [Celestial Recurrence]{.name data-type="lore/theology"}. Their great cities rise from tropical jungles and highland plateaus, connected by _ish'lan ch'upul_ (white roads) and bound together by a shared priesthood, a common tongue, and the rhythms of the sacred calendar.
 
-Despite the cultural unity of Ki'ich'chik civilization, the continent is far from monolithic. North of the desert barrier, five Indigenous nations live outside Ki'ich'chik culture; smaller groups also live in the wet northwest and in arctic regions. The southern reaches of Ki'ich'chik civilization include fertile forests and river basins, beyond which the land gives way to the southern wastelands. Between these extremes, the city-states compete for prestige through monumental architecture, astronomical achievement, and ritual observance.
+Despite the cultural unity of Ki'ich'chik civilization, the continent is far from monolithic. North of the desert barrier, five nations live outside Ki'ich'chik culture, rivals bound by a compact to stand together against outsiders, and two smaller peoples on the western coast and in the far northwest stay outside the compact. The southern reaches of Ki'ich'chik civilization include fertile forests and river basins, beyond which the land gives way to the southern wastelands. Between these extremes, the city-states compete for prestige through monumental architecture, astronomical achievement, and ritual observance.
 
 ## Geography
 
 Ki'ich'chik spans an enormous range of climates and terrain. The continent is broadly divided into three zones that reflect both geography and the reach of Ki'ich'chik civilization.
 
-[[place-northkiichchik|Northern Ki'ich'chik]] encompasses the boreal forests and great lakes of the northeast, the mountain ranges and wet coastal forests of the northwest, and the grasslands and river valleys between them. Five Indigenous nations live here outside Ki'ich'chik culture. Smaller groups of people also live in the wet northwest and in arctic regions. The uninhabited, deadly desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] separates the northern peoples from Ki'ich'chik civilization to the south.
+[[place-northkiichchik|Northern Ki'ich'chik]] encompasses the great lakes and forests of the northeast, the valley of the great river and the shell coasts of the southeast, the grasslands of the center, the mesa country on the desert's northern rim, and the cedar coast of the west. Five nations live here outside Ki'ich'chik culture, and two smaller peoples hold the southwestern coast and the far northwest. The deadly desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] lies between the northern peoples and Ki'ich'chik civilization to the south. It is a filter rather than a wall: a thin trickle of traders and pilgrims crosses it, and little else.
 
 [[place-centralkiichchik|Central Ki'ich'chik]] and its regions form the heartland of Ki'ich'chik civilization, encompassing highland plateaus, dense tropical jungles, limestone lowlands, and fertile coastal plains. The civilization's fertile lands extend southward through the forests and river basin. This is where the great pyramid-cities rise, where the white roads connect centers of trade and pilgrimage, and where the Itsani priesthood holds its greatest influence. The four regions of the center—the [[place-ixilankulrgn|Ish'ilankul Region]], the [[place-kankulrgn|K'ankul Region]], the [[place-neokbaatergn|Ne'ok Ba'ate Region]], and the [[place-xelemrgn|Shelem Region]]—represent the full flowering of Ki'ich'chik culture.
 
@@ -45,26 +45,30 @@ WHERE type = 'place'
 ORDER BY name.full COLLATE NOCASE
 ```
 
-## The Five Nations of the North
+## The Nations of the North
 
-The northern territories include five Indigenous nations outside Ki'ich'chik culture, as well as smaller groups of people in the wet northwest and in arctic regions. The five nations are known to Ki'ich'chik scholars mainly through contact at the borders. What follows are Ki'ich'chik designations: the place-names are in the Ki'ich'chik tongue, and the nation-names are exonyms assigned by Ki'ich'chik merchants and border scouts based on the totemic animals observed in these peoples' war-standards and camp-markings. What these nations call themselves remains largely unknown. Their relations shift between conflict and cooperation; they unite against outsiders, especially incursions from the south. The five stand outside Ki'ich'chik society, largely oral, and refuse Ki'ich'chik speech and writing alike; Ki'ich'chik scribes write about them as foreigners, and the script gives them no emblem glyphs. The smaller groups are not further described here.
+The north is held by five nations outside Ki'ich'chik culture. Each is a confederacy of many towns or bands sharing a family of languages and a set of rites, and each has its own factions. They are rivals with standing grievances, and they are bound by the [[affiliation-redstncmpct|Red Stone Compact]], sworn over pipes of red stone and renewed each summer at a quarry where bloodshed is forbidden, to stand together when an outsider threatens one of them. All five stand outside Ki'ich'chik society, keep their law and history in memory, and refuse Ki'ich'chik speech and writing alike; Ki'ich'chik scribes write about them as foreigners, and the script gives them no emblem glyphs.
 
-[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
-: The Shak'nal Ts'omalil ("Eagle People" in Ki'ich'chik), mountain and coastal dwellers of the far west
+The south knows them by Ki'ich'chik names, and the nation-names are exonyms its merchants and border scouts took from the animals on war-standards and camp-markings. These pages call each nation by its own description.
 
-[[affiliation-ixtemtzul|Ishtem Tsul]]
-: The No'kin Ts'omalil ("Bear People"), hardy folk of the northern prairies
+[[affiliation-xikulchakl|Woodland League]]
+: Shik'ul Ch'akal, the Ha'ik Ts'omalil ("Otter People" in Ki'ich'chik): farmers of the northeastern lakes and forests, governed by councils whose chiefs the clan mothers choose
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
-: The Ts'okum Ts'omalil ("Coyote People"), nomadic hunters of the great central grasslands
+[[affiliation-tzumanotun|River Kingdom]]
+: Ts'uma No'tun, the Ch'akun Ts'omalil ("Serpent People"): mound cities in the great river valley under Sun-born paramount chiefs, with seafaring provinces on the southern coasts
 
-[[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: The Ha'ik Ts'omalil ("Otter People"), canoe-folk of the eastern lakes and forests
+[[affiliation-penqalchakal|Grass People]]
+: P'enqal Ch'akal, the Ts'okum Ts'omalil ("Coyote People"): bison hunters on foot and earth-lodge farmers of the central grasslands
 
-[[affiliation-tzumanotun|Ts'uma No'tun]]
-: The Ch'akun Ts'omalil ("Serpent People"), chieftain-led peoples of the ancient eastern mountains and southern swamps
+[[affiliation-ixtemtzul|Mesa Towns]]
+: Ishtem Tsul, the No'kin Ts'omalil ("Bear People"): builders of stone great houses on the desert's northern rim, who keep the northern end of the desert routes
 
-The sixth northern region, [[place-hanalxilanrgn|Ha'nal Shi'lan]], is contested borderlands where the Coyote, Otter, and Serpent peoples clash over the rich river valleys. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation and serves as the barrier between the tribal north and Ki'ich'chik civilization.
+[[affiliation-ixbalkiahk|Cedar Kingdom]]
+: Ish'bal Ki'ahk, the Shak'nal Ts'omalil ("Eagle People"): salmon fishers and carvers of the far western coast, ranked under a paramount house
+
+Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Woodland League and the River Kingdom, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Mesa Towns hold its northern gate.
+
+Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Mesa Towns first and the River Kingdom after them. [[lore-nordheimnclt|Nordmen]] sail across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the League's coast. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
 
 ## Culture and Society
 
@@ -100,7 +104,7 @@ The Ch'um Ish'lan achieves remarkable speed across the vast distances of Ki'ich'
 - **K'ankul coastal network** (internal): 1–2 days between major city-states via the coastal white road
 - **End to end, K'ankul to K'ushi Ish'bal** (eastern lowlands to southern frontier): 6–8 days, routing through Ish'ilankul
 
-Beyond K'ushi Ish'bal, the Speaking Road falls silent. The last k'otsel cord to arrive from the civilized world is decoded at [[place-qptlulneok|Q’aptel’ul Ne’ok]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ish'lan does not extend into the northern territories either—the Five Nations have no white roads, and the great desert of Ch'akul Tsa'kul marks the network's northern boundary.
+Beyond K'ushi Ish'bal, the Speaking Road falls silent. The last k'otsel cord to arrive from the civilized world is decoded at [[place-qptlulneok|Q’aptel’ul Ne’ok]], and what lies further south depends on the bravery of individual runners who carry no priestly mandate. The Ch'um Ish'lan does not extend into the northern territories either—the northern nations have no white roads, and the great desert of Ch'akul Tsa'kul marks the network's northern boundary.
 
 ## Faith
 
@@ -110,7 +114,7 @@ The holiest site in all of Ki'ich'chik—and the supreme destination of pilgrima
 
 ## Trade
 
-Ki'ich'chik is rich in resources. The central regions produce cacao, jade, obsidian, cotton, tropical hardwoods, and exotic feathers. The upper southern regions contribute iron, copper, gold and silver, the steel of their forges, medicinal plants, and highland produce. Obsidian goes to the temples as ritual blades and mirrors and to the markets as a trade good. Trade flows along the white roads and by coastal canoe, connecting city-states in a complex web of commerce. Jade and cacao serve as currency alongside the gold crown and pence used elsewhere on Thalorna. The northern frontier contributes furs, amber, and freshwater pearls through irregular border trade with the tribal nations, though this exchange is sporadic and often tense.
+Ki'ich'chik is rich in resources. The central regions produce cacao, jade, obsidian, cotton, tropical hardwoods, and exotic feathers. The upper southern regions contribute iron, copper, gold and silver, the steel of their forges, medicinal plants, and highland produce. Obsidian goes to the temples as ritual blades and mirrors and to the markets as a trade good. Trade flows along the white roads and by coastal canoe, connecting city-states in a complex web of commerce. Jade and cacao serve as currency alongside the gold crown and pence used elsewhere on Thalorna. Little crosses the desert to the north: a few traders and pilgrims carry cacao, macaw feathers and copper bells to the Mesa Towns, and bring back turquoise and furs. The trade is small, and in the north it is the trade of chiefs.
 
 ## See Also
 

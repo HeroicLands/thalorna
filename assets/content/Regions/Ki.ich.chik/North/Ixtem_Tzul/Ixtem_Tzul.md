@@ -1,9 +1,9 @@
 ---
 shortcode: ixtemtzul
-name: {full: Ishtem Tsul, aliases: []}
+name: {full: Ishtem Tsul, aliases: [Mesa Towns]}
 type: affiliation
 subType: polity
-description: Boreal forests, tundra, and caribou migrations—the subarctic homeland of the No'kin, the Bear People.
+description: "The Mesa Towns of the desert's northern rim, whom the south calls the Bear People: stone great houses, straight roads and the northern gate of the desert trade."
 tags: [polity]
 data:
   icon: null
@@ -12,104 +12,83 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: monarchy
-    summary: ""
+    model: theocracy
+    summary: >-
+      Each town is led by the lineages of its great house, which store the town's grain and host its rites, together with the elders of its ritual chambers, which hold the ceremonies of rain and planting. The great houses of different canyons are bound by roads, marriage and shared rites, and no one house commands the others.
     ranks:
       - level: 0
-        title: Exile
+        title: Outcast
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Expelled from his town and his chamber for witchcraft or for breaking a rite, and refused water at every town on the roads.
       - level: 1
-        title: Captive
+        title: Townsperson
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          A member of a household and a clan of a town, who farms its fields and owes work on its walls, roads and canals.
       - level: 2
-        title: Commoner
+        title: Initiate
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          Initiated into the society of a ritual chamber, admitted to its rites and bound to keep its secrets.
       - level: 3
-        title: Craftsman
+        title: Great-House Kin
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
-      - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Priest
-        description: >-
-          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
-      - level: 6
-        title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
-      - level: 7
-        title: Kulmah
-        description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
-      - level: 8
-        title: Ts'enmah
-        description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Of the lineages that live in and keep a great house, which hold the town's stored grain and receive the turquoise and southern goods that pass through it.
     offices:
-      Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Painter and carver, keeper of the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+      Great-House Head: >-
+        The senior of the Great-House Kin of a house, who orders the storing and giving out of grain and speaks for the town to other towns.
+      Chamber Elder: >-
+        An Initiate who heads a ritual chamber and leads its rites; the elders of a town's chambers decide when it plants, when it dances and whom it expels.
+      Sun Watcher: >-
+        An Initiate who watches the sunrise against marks on a great house wall and announces the days for planting and for the solstice rites.
+      Keeper of the South Road: >-
+        A Great-House Kin who receives the traders and pilgrims who come out of the desert, decides what goes on north and at what price, and hears what they say of the south.
   seat: ixtemtzul2
   population: null
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {}
+  relations: {redstncmpct: aligned}
   packFolder: ixtemtzul
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the Colorado Plateau and the Four Corners (Arizona, New Mexico, southern Utah and Colorado), south to the Sonoran lowlands
+# terran_analog: the Ancestral Puebloans, above all Chaco Canyon about 1050 to 1130 and Mesa Verde, with the Hohokam canal builders of the Sonoran lowlands; the ritual chambers are kivas, and the trade in macaws, cacao and copper bells is the one that reached Chaco from Mesoamerica
 ---
 
 ## Overview
 
-Ishtem Tsul holds the land of the [[place-ixtemtzulrgn|Ishtem Tsul Region]]. Ki'ich'chik scouts call the people here the No'kin Ts'omalil ("Bear People"), from the bear-imagery prominent in the few trade goods and war-trophies that have reached southern hands. What they call themselves is unknown. They are among the most reclusive of the northern peoples; even the border merchants who deal with [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]] (the Shak'nal) and [[affiliation-penqalchakal|P'enqal Ch'akal]] (the Ts'okum) report almost no direct contact with the No'kin, who seem to regard all outsiders—including the other northern nations—with deep suspicion.
+Ishtem Tsul is the Ki'ich'chik name for the Mesa Towns, the nation of the desert's northern rim, and the No'kin Ts'omalil ("Bear People") is what southern traders call its people. The bear they saw is painted on the walls of the ritual chambers and carved in stone fetishes, because the Mesa Towns hold the bear to be a healer and a guardian. The towns hold the land of the [[place-ixtemtzulrgn|Ishtem Tsul Region]], where the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] climbs onto mesas and canyon country.
 
-From the little Ki'ich'chik observers have pieced together, the No'kin move with the great herds through merciless winters and forests where snow lies thick for half the year. The quality of the hides that occasionally reach southern markets—processed with extraordinary skill into leather of remarkable suppleness and strength—attests to practical mastery, whatever their other customs may be. Ki'ich'chik merchants who have attempted to penetrate No'kin territory directly have been turned back at the border, firmly and without negotiation.
+The Mesa Towns are a nation of builders. Their great houses are multistory stone and adobe blocks of hundreds of rooms, some of them laid out so that the solstice sun or the turn of the moon strikes a marked wall, and straight engineered roads run between them across the canyon country. On the uplands the towns dry-farm maize, beans and squash and pray for rain; in the lowlands toward the desert they dig miles of canals. Turquoise is sacred to them and is the prestige good of the whole north.
 
-## The No'kin Ts'omalil
+## Governance
 
-The Bear People are endurance hunters of extraordinary skill, capable of tracking prey across impossible terrain and in conditions that would break the spirit of outsiders. They follow caribou herds across hundreds of miles, moving with them through the seasons in a migration pattern refined by centuries of observation. Their hide-working techniques produce leather of remarkable quality—supple yet strong, water-resistant and warm. Furs processed by No'kin masters command premium prices in southern markets, and this trade generates wealth and influence despite the No'kin's generally modest material culture.
+No one rules the Mesa Towns. Each town is led by the lineages who live in and keep its great house, and by the elders of its ritual chambers, the round rooms sunk into the ground where the rites of rain and fertility are held. The great house stores the town's grain, gives it out in a bad year, and hosts the feasts and the pilgrims who come for the solstice rites; the chamber elders decide when the town plants, when it dances and whom it expels. A great house that feeds its town well draws people and gifts from the canyons around it, and one whose storerooms empty loses them.
 
-The No'kin gather wild berries with systematic precision, knowing every patch of saskatoon, lingonberry, and cloudberry within their vast territory. These gatherings are seasonal events that draw extended families to ancestral sites; the berries are dried and stored, serving as both food and trade goods. The No'kin also possess deep knowledge of medicinal plants and poisons—a practical necessity in a harsh land where sickness or injury can mean death. This pharmacological expertise makes No'kin healers sought-after even by distant peoples, and several prominent medicinal compounds are known to originate in their territory and are guarded as trade secrets.
+The towns of different canyons are bound by their roads, by marriages between great-house lineages and by rites held in common, and they act together only when their great houses agree. In the [[affiliation-redstncmpct|Red Stone Compact]], the Mesa Towns are represented by great-house kinsmen and a chamber elder.
 
-Ki'ich'chik scholars speculate that the No'kin are organized into loose bands following extended family lines, each associated with a specific territory. Reports from the handful of captives and defectors who have provided accounts suggest that leadership may be spiritual in nature, with shamans and proven hunters wielding authority. The No'kin appear less inclined toward the elaborate display observed among the Shak'nal, though the rarity of direct contact makes any assessment of their internal governance unreliable. What is certain is that the No'kin present a unified front against outsiders; whatever disputes exist among their bands, they are invisible to Ki'ich'chik eyes.
+## The Northern Gate
 
-## Trade
+Because the Mesa Towns sit on the desert's edge, every southern trader and pilgrim who crosses the desert comes to them first. A Keeper of the South Road receives them, and what they carry passes through the great houses: cacao, scarlet macaws kept alive for their feathers, and cast copper bells. The towns send turquoise south in return and pass the southern goods on to the other nations at their own price. They know the south better than anyone in the north, and the other nations suspect them of being too close to it.
 
-The isolation of Ishtem Tsul from direct access to the barrier of the [[place-chakultzklrgn|Ch'akul Tsa'kul Region]] and the lands of the [[affiliation-itzanpnthn|Itsani Pantheon]] means that the No'kin rely heavily on intermediaries—particularly the Shak'nal and Ts'okum—for access to goods from the far south. This dependence sometimes rankles, but the No'kin have accepted it as the cost of their location. The caribou migrations that define their livelihood follow ancient pathways indifferent to human commerce, and following these paths takes priority over optimizing trade routes.
+The Mesa Towns are also the compact's early warning. A southern expedition probing north across the desert reaches them first, and a runner from the South Road is the first news the rest of the north hears of it.
+
+## Drought
+
+Drought is the Mesa Towns' great fear. A town's fields, its canals and the grain in its great house all depend on the rain, and the ritual chambers exist to call it. Several dry years in a row would empty the storerooms on which every great house's standing rests.
 
 ## See Also
 
-[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
-: The Shak'nal domain to the west, separated by high passes and shared hunting territories
+[[affiliation-redstncmpct|Red Stone Compact]]
+: the compact the Mesa Towns keep with the other four nations
+
+[[place-chakultzklrgn|Ch'akul Tsa'kul]]
+: the desert whose northern gate they hold
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
-: The Coyote People's grasslands to the south and east
+: the Grass People, on the plains to the east
 
-[[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: The Otter People's woodlands to the east, connected by river routes
-
-[[affiliation-tzumanotun|Ts'uma No'tun]]
-: The Serpent People's distant southern territories, reached through intermediaries
+[[affiliation-ixbalkiahk|Ish'bal Ki'ahk]]
+: the Cedar Kingdom, a trading partner on the far western coast
 
 [[place-ixtemtzulrgn|Ishtem Tsul Region]]
-: The land Ishtem Tsul holds
+: the land the Mesa Towns hold

@@ -287,7 +287,7 @@ The swampstrider is patient and cunning. It learns its prey's habits, where the 
 
 ## What the Ha'ik Do
 
-The Ha'ik control their waterways with quiet, absolute authority, and Ki'ich'chik traders who try to use them without permission vanish; what the traders know about the swampstrider comes from the border trading sites, where Ha'ik canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Ha'ik do not kill it. Ki'ich'chik observers believe it keeps a portage closed to anyone who does not know the way through, and that the Ha'ik prefer it so. Ha'ik healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
+The Ha'ik control their waterways with quiet, absolute authority, and strangers who try to use them without permission vanish; what outsiders know about the swampstrider comes from the trading posts of [[place-hanalxilanrgn|Ha'nal Shi'lan]], where Ha'ik canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Ha'ik do not kill it. The traders at those posts believe it keeps a portage closed to anyone who does not know the way through, and that the Ha'ik prefer it so. Ha'ik healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
 
 ## Signs
 

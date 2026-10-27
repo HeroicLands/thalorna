@@ -19,9 +19,9 @@ data:
 
 Ch'akul Tsa'kul Region is an uninhabited desert claimed by no nation, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
 
-Ch'akul Tsa'kul, the "Thirsty Land," is a vast expanse of extremely hot, deadly desert, salt flats, barren mesas, and scorching rock that forms a barrier between the northern peoples and Ki'ich'chik civilization to the south. It is uninhabited.
+Ch'akul Tsa'kul, the "Thirsty Land," is a vast expanse of extremely hot, deadly desert, salt flats, barren mesas, and scorching rock that forms a barrier between the northern peoples and Ki'ich'chik civilization to the south. It is uninhabited, and on its northern rim, where the desert climbs onto the mesas, the great houses of the [[affiliation-ixtemtzul|Mesa Towns]] keep its northern gate.
 
-The desert stands as a natural boundary maintained by neither wall nor garrison, but by the sheer hostility of its environment. There are no residents, seasonal settlements, staffed oases, or maintained trading posts. Those who attempt to cross must carry their water and supplies; the few isolated water sources do not sustain settlement. Ancient ruins of structures suggest that in some previous age the land was more fertile, when rains fell more abundantly and rivers flowed where now only dry channels remain. Whether this transformation is permanent or cyclical remains unknown.
+The desert is a filter rather than a wall: no garrison holds it, and its heat and thirst let through only the few who come prepared. There are no residents, seasonal settlements, staffed oases, or maintained trading posts. Those who attempt to cross must carry their water and supplies; the few isolated water sources do not sustain settlement. Ancient ruins of structures suggest that in some previous age the land was more fertile, when rains fell more abundantly and rivers flowed where now only dry channels remain. Whether this transformation is permanent or cyclical remains unknown.
 
 ## Geography
 
@@ -41,11 +41,11 @@ Travelers who attempt the crossing may seek valuables or artifacts among the rui
 
 ## Trade and Passage
 
-Ch'akul Tsa'kul is not a trade region but a deadly barrier that some travelers attempt to cross. Old routes and stone cairns may mark a passage, but no one maintains them. A crossing takes several weeks and requires careful preparation—water supplies, preserved foods, and spare pack animals to replace those that may perish.
+Ch'akul Tsa'kul is not a trade region but a deadly barrier that a few travelers cross each year. Old routes and stone cairns mark the passages, but no one maintains them. A crossing takes several weeks and requires careful preparation: water, preserved food, and porters enough to carry both, with spares for those who fall.
 
-No trading posts, way-stations, seasonal settlements, or staffed oases operate in Ch'akul Tsa'kul. The isolated sources of water and extreme heat do not sustain residents. Any crossing is an unsupported expedition.
+No trading posts, way-stations, seasonal settlements or staffed oases operate in Ch'akul Tsa'kul. The isolated sources of water and the extreme heat do not sustain residents. Any crossing is an unsupported expedition.
 
-The crossing of Ch'akul Tsa'kul is arduous enough that it effectively limits the volume of north-south trade. Goods must be high-value to justify the transportation costs and risks associated with desert crossing.
+The crossing limits north-south trade to a trickle, and only goods light and precious enough to justify the risk make it. Southern traders and pilgrims carry cacao, scarlet macaws and cast copper bells north, and bring turquoise back. The routes end in the north at the Mesa Towns, whose great houses receive everyone who comes out of the desert and decide what goes on to the rest of the north. Now and then a southern expedition crosses with other aims, and the Mesa Towns are the first to meet it.
 
 ## See Also
 
