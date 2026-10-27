@@ -19,7 +19,7 @@ data:
 
 Ch'akul Tsa'kul Region is an uninhabited desert claimed by no nation, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
 
-Ch'akul Tsa'kul, the "Thirsty Land," is a vast expanse of extremely hot, deadly desert, salt flats, barren mesas, and scorching rock that forms a barrier between the northern peoples and Ki'ich'chik civilization to the south. It is uninhabited, and on its northern rim, where the desert climbs onto the mesas, the great houses of the [[affiliation-ixtemtzul|Mesa Towns]] keep its northern gate.
+Ch'akul Tsa'kul, the "Thirsty Land," is a vast expanse of extremely hot, deadly desert, salt flats, barren mesas, and scorching rock that forms a barrier between the northern peoples and Ki'ich'chik civilization to the south. It is uninhabited, and on its northern rim, where the desert climbs onto the mesas, the great houses of the [[affiliation-teyumi|Turquoise People]] keep its northern gate.
 
 The desert is a filter rather than a wall: no garrison holds it, and its heat and thirst let through only the few who come prepared. There are no residents, seasonal settlements, staffed oases, or maintained trading posts. Those who attempt to cross must carry their water and supplies; the few isolated water sources do not sustain settlement. Ancient ruins of structures suggest that in some previous age the land was more fertile, when rains fell more abundantly and rivers flowed where now only dry channels remain. Whether this transformation is permanent or cyclical remains unknown.
 
@@ -45,7 +45,7 @@ Ch'akul Tsa'kul is not a trade region but a deadly barrier that a few travelers 
 
 No trading posts, way-stations, seasonal settlements or staffed oases operate in Ch'akul Tsa'kul. The isolated sources of water and the extreme heat do not sustain residents. Any crossing is an unsupported expedition.
 
-The crossing limits north-south trade to a trickle, and only goods light and precious enough to justify the risk make it. Southern traders and pilgrims carry cacao, scarlet macaws and cast copper bells north, and bring turquoise back. The routes end in the north at the Mesa Towns, whose great houses receive everyone who comes out of the desert and decide what goes on to the rest of the north. Now and then a southern expedition crosses with other aims, and the Mesa Towns are the first to meet it.
+The crossing limits north-south trade to a trickle, and only goods light and precious enough to justify the risk make it. Southern traders and pilgrims carry cacao, scarlet macaws and cast copper bells north, and bring turquoise back. The routes end in the north at the Turquoise People, whose great houses receive everyone who comes out of the desert and decide what goes on to the rest of the north. Now and then a southern expedition crosses with other aims, and the Turquoise People are the first to meet it.
 
 ## See Also
 

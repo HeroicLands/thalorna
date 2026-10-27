@@ -34,23 +34,23 @@ Each nation is a confederacy of many towns or bands that share a family of langu
 [[affiliation-penqalchakal|Grass People]]
 : P'enqal Ch'akal, the Coyote People. Hunting bands that follow the herds on foot with dogs and travois, and farming villages of earth lodges along the rivers. Their hunt chiefs and war leaders hold power for a season, and warrior societies police the communal hunts.
 
-[[affiliation-ixtemtzul|Mesa Towns]]
-: Ishtem Tsul, the Bear People. Towns of multistory stone great houses on the desert's northern rim, linked by straight roads and fed by dry farming and canals. They hold the northern end of every route across the desert, and know the south better than anyone else in the north.
+[[affiliation-teyumi|Turquoise People]]
+: Teyumi in their own tongue, the people of the turquoise, and Ishtem Tsul in the south's, the Bear People. Towns of multistory stone great houses on the desert's northern rim, linked by straight roads and fed by dry farming and canals. They hold the northern end of every route across the desert, and know the south better than anyone else in the north.
 
 [[affiliation-ixbalkiahk|Cedar Kingdom]]
 : Ish'bal Ki'ahk, the Eagle People. Plank-house villages on the salmon coast of the far west, ranked into nobles, commoners and slaves, where a paramount house presides over noble houses whose loyalty it buys with gifts. It is a sea power, a month's journey from the others, and it keeps the compact for its own prestige.
 
 ## Outside the Compact
 
-The [Shell-Bead Towns]{.name data-type="lore/culture"} stand on the western coast south of the Cedar Kingdom and in the oak valleys behind it. They are dozens of independent towns, rich in fish and acorns, with plank canoes that cross to the offshore islands and a currency of drilled shell beads. Mountains and desert shelter them, so they see no need for the compact, and the Cedar Kingdom and the Mesa Towns both trade with them and court them.
+The [Shell-Bead Towns]{.name data-type="lore/culture"} stand on the western coast south of the Cedar Kingdom and in the oak valleys behind it. They are dozens of independent towns, rich in fish and acorns, with plank canoes that cross to the offshore islands and a currency of drilled shell beads. Mountains and desert shelter them, so they see no need for the compact, and the Cedar Kingdom and the Turquoise People both trade with them and court them.
 
 The [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest take seal, walrus and whale from skin boats along the frozen coasts. They are remote, self-sufficient and uninterested in the quarrels of the south.
 
 ## The Desert and the South
 
-Ch'akul Tsa'kul is a filter, not a wall. Every year a few southern traders and pilgrims cross it, and now and then an expedition, and what they carry north is small, light and precious: cacao, scarlet macaw feathers and cast copper bells. In the north these are the goods of chiefs. A Mesa Towns great house keeps live macaws for their feathers, a River Kingdom noble drinks cacao at a feast, and a chief of the League may be buried with a copper bell that crossed the desert before he was born.
+Ch'akul Tsa'kul is a filter, not a wall. Every year a few southern traders and pilgrims cross it, and now and then an expedition, and what they carry north is small, light and precious: cacao, scarlet macaw feathers and cast copper bells. In the north these are the goods of chiefs. A Turquoise great house keeps live macaws for their feathers, a River Kingdom noble drinks cacao at a feast, and a chief of the League may be buried with a copper bell that crossed the desert before he was born.
 
-The Mesa Towns keep the northern gate. They receive the southern traders, decide what goes on and at what price, and pass the goods along to the other nations. That makes them the north's best informed nation about the south, and the most suspected.
+The Turquoise People keep the northern gate. They receive the southern traders, decide what goes on and at what price, and pass the goods along to the other nations. That makes them the north's best informed nation about the south, and the most suspected.
 
 ## Copper Against Steel
 
@@ -60,7 +60,7 @@ The north works copper. It comes out of the ground pure in the League's lake cou
 
 Three dangers press on the north, and each falls on one nation first.
 
-- **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Mesa Towns first and the River Kingdom after them.
+- **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Turquoise People first and the River Kingdom after them.
 - **The sea raiders.** [[lore-nordheimnclt|Nordmen]] sail longships across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the coast of the Woodland League.
 - **The newcomers from the ice.** Kin of the Ice-Coast Hunters are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the League's northern edge.
 

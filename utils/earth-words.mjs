@@ -93,6 +93,8 @@ export const SOURCES = {
     "Sowides.md": ["mongolian", "turkish"],
     "Tantsou.md": ["chinese"],
     "Taruzeli.md": ["akkadian", "phoenician"],
+    // The word lists hold no hopi list, so a Teyumi coinage is checked by reading.
+    "Teyumi.md": ["hopi"],
     "Tarveni.md": ["spanish", "basque"],
     "Valtari.md": ["lingua-franca"],
     "Varokhi.md": ["old-high-german", "old-saxon"],

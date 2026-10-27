@@ -60,15 +60,15 @@ The south knows them by Ki'ich'chik names, and the nation-names are exonyms its 
 [[affiliation-penqalchakal|Grass People]]
 : P'enqal Ch'akal, the Ts'okum Ts'omalil ("Coyote People"): bison hunters on foot and earth-lodge farmers of the central grasslands
 
-[[affiliation-ixtemtzul|Mesa Towns]]
-: Ishtem Tsul, the No'kin Ts'omalil ("Bear People"): builders of stone great houses on the desert's northern rim, who keep the northern end of the desert routes
+[[affiliation-teyumi|Turquoise People]]
+: the Teyumi in their own tongue and Ishtem Tsul, the Bear People, in the south's: builders of stone great houses on the desert's northern rim, who keep the northern end of the desert routes
 
 [[affiliation-ixbalkiahk|Cedar Kingdom]]
 : Ish'bal Ki'ahk, the Shak'nal Ts'omalil ("Eagle People"): salmon fishers and carvers of the far western coast, ranked under a paramount house
 
-Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Woodland League and the River Kingdom, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Mesa Towns hold its northern gate.
+Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Woodland League and the River Kingdom, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Turquoise People hold its northern gate.
 
-Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Mesa Towns first and the River Kingdom after them. [[lore-nordheimnclt|Nordmen]] sail across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the League's coast. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
+Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Turquoise People first and the River Kingdom after them. [[lore-nordheimnclt|Nordmen]] sail across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the League's coast. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
 
 ## Culture and Society
 
@@ -114,7 +114,7 @@ The holiest site in all of Ki'ich'chik—and the supreme destination of pilgrima
 
 ## Trade
 
-Ki'ich'chik is rich in resources. The central regions produce cacao, jade, obsidian, cotton, tropical hardwoods, and exotic feathers. The upper southern regions contribute iron, copper, gold and silver, the steel of their forges, medicinal plants, and highland produce. Obsidian goes to the temples as ritual blades and mirrors and to the markets as a trade good. Trade flows along the white roads and by coastal canoe, connecting city-states in a complex web of commerce. Jade and cacao serve as currency alongside the gold crown and pence used elsewhere on Thalorna. Little crosses the desert to the north: a few traders and pilgrims carry cacao, macaw feathers and copper bells to the Mesa Towns, and bring back turquoise and furs. The trade is small, and in the north it is the trade of chiefs.
+Ki'ich'chik is rich in resources. The central regions produce cacao, jade, obsidian, cotton, tropical hardwoods, and exotic feathers. The upper southern regions contribute iron, copper, gold and silver, the steel of their forges, medicinal plants, and highland produce. Obsidian goes to the temples as ritual blades and mirrors and to the markets as a trade good. Trade flows along the white roads and by coastal canoe, connecting city-states in a complex web of commerce. Jade and cacao serve as currency alongside the gold crown and pence used elsewhere on Thalorna. Little crosses the desert to the north: a few traders and pilgrims carry cacao, macaw feathers and copper bells to the Turquoise People, and bring back turquoise and furs. The trade is small, and in the north it is the trade of chiefs.
 
 ## See Also
 

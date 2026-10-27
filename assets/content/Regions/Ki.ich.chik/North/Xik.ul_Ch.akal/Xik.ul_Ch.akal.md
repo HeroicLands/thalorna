@@ -74,7 +74,7 @@ The League contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier t
 
 ## Trade
 
-The League's lake country is where the north's copper comes from: it lies in the ground pure, and the League's smiths hammer it cold into blades, awls and sheets that the other nations want. Canoes carry it with furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and beyond. Southern goods reach the League last and fewest, by way of the Mesa Towns and the River Kingdom.
+The League's lake country is where the north's copper comes from: it lies in the ground pure, and the League's smiths hammer it cold into blades, awls and sheets that the other nations want. Canoes carry it with furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and beyond. Southern goods reach the League last and fewest, by way of the Turquoise People and the River Kingdom.
 
 ## See Also
 

@@ -30,11 +30,11 @@ The land of Ish'bal Ki'ahk is two countries, the coast and the mountain spine be
 
 Inland from the coast rises the mountain spine, a chain of volcanic peaks whose summits pierce the cloud-layer and touch the realm of spirit. Here, at the edge of stone and sky, eagles nest and wheel; here too are the high meadows where the Shak'nal gather for vision quests and seasonal councils. The mountains channel the rivers that feed the coastal settlements and provide trade routes to the interior. Snow accumulates heavily in the high passes, making winter crossing treacherous and summer travel a window of mere months.
 
-The kingdom ends at the spine. East of the passes, where the cedar gives way to spruce and pine and the land falls toward the plateaus, the country belongs to the hunting bands of the Grass People in the north and to the Mesa Towns in the south, and the Cedar Kingdom's traders go there only in summer, by the few passes they know.
+The kingdom ends at the spine. East of the passes, where the cedar gives way to spruce and pine and the land falls toward the plateaus, the country belongs to the hunting bands of the Grass People in the north and to the Turquoise People in the south, and the Cedar Kingdom's traders go there only in summer, by the few passes they know.
 
 ## Trade
 
-The coast trades with itself first: oil, dried salmon, cedar boxes, blankets and canoes move between the houses, and much of it changes hands at giving feasts. To the south the kingdom trades along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, and in summer its traders cross the passes to the Grass People and the Mesa Towns, from whom a few southern goods reach the coast. The high passes close in winter, so inland trade is seasonal and its prices volatile.
+The coast trades with itself first: oil, dried salmon, cedar boxes, blankets and canoes move between the houses, and much of it changes hands at giving feasts. To the south the kingdom trades along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, and in summer its traders cross the passes to the Grass People and the Turquoise People, from whom a few southern goods reach the coast. The high passes close in winter, so inland trade is seasonal and its prices volatile.
 
 To the north, beyond the kingdom's last villages, the [Ice-Coast Hunters]{.name data-type="lore/culture"} trade furs of animals unknown farther south, and bone and ivory carved in their own style, for cedar goods and oil.
 
