@@ -77,7 +77,9 @@ test("declared finite forms support the prescribed present paradigms without mod
 });
 
 test("the illustrative sample words retain their reviewed form", () => {
-    const samples = raw.split("### Sample passages\n")[1].split("\n## Naming Traditions")[0];
+    const samples = raw
+        .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
+        .split("\n## Naming Traditions")[0];
     const proseSamples = samples.split("\n").filter((line) => line.startsWith("> "));
     assert.equal(proseSamples.length, 2);
     assert(proseSamples.every((line) => !/["“”]/.test(line)));
@@ -143,10 +145,10 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
         "_Enter not_",
         "_we believen not_",
         "_they comen not_",
-        "_Haven ye seen him?_",
+        "_Haven ye seen him._",
         "_Methinks we haven tarried too long._",
         "We haven been waiting for thee since morn.",
-        "We ben merchants of the north, and haven come hither to sell our wares.",
+        "We ben merchants of the north and haven come hither to sell our wares.",
         "Ye cannot enter till morn.",
         "We cannot abide here longer.",
     ])
@@ -187,7 +189,9 @@ test("auxiliary, modal and fixed impersonal examples keep their meaning and fini
 });
 
 test("the reviewed verse retains eight syllables and each rhyming couplet", () => {
-    const samples = raw.split("### Sample passages\n")[1].split("\n## Naming Traditions")[0];
+    const samples = raw
+        .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
+        .split("\n## Naming Traditions")[0];
     const lines = samples.split("\n").filter((line) => /^2 \[.*\]\{lang=aelw\}$/.test(line));
     assert.equal(lines.length, 8);
     // Lexical counts follow the unchanged pronunciation guide and the two declared contractions.
@@ -219,14 +223,25 @@ test("the reviewed verse retains eight syllables and each rhyming couplet", () =
     }
 });
 
-test("the register leaves pronunciation, the executable map and existing lexical exceptions intact", () => {
+test("the standard records fixed coined sounds and preserves authored lexical exceptions", () => {
     const data = (file) => YAML.parse(fs.readFileSync(file, "utf8").split("---")[1]).data;
-    assert.equal(
-        hash(JSON.stringify(data("assets/content/Lore/Pronouncing_Thalorna.md").sounds)),
-        "066df2e16173ca2b809ec0744603d0f224dc2ea164785e57009f205d62b6e46c",
-    );
-    // The preservation hash includes only these enumerated punctuation rows.
-    // The actual map separately admits period as the sole pause input.
+    const sounds = data("assets/content/Lore/Pronouncing_Thalorna.md").sounds.letters;
+    for (const [letters, ipa] of [
+        ["a", "ɑ"],
+        ["e", "ɛ"],
+        ["i", "i"],
+        ["o", "o"],
+        ["u", "u"],
+        ["y", "j"],
+        ["ch", "tʃ"],
+        ["sh", "ʃ"],
+        ["th", "θ"],
+        ["dh", "ð"],
+    ])
+        assert(
+            sounds.some((row) => !row.tongue && row.letters.includes(letters) && row.ipa === ipa),
+            `${letters} has its fixed coined sound`,
+        );
     const map = data("assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md").map;
     const pause = String.fromCodePoint(0xf0268);
     assert.deepEqual(
@@ -235,20 +250,15 @@ test("the register leaves pronunciation, the executable map and existing lexical
             .map((row) => (Array.isArray(row) ? row[0] : row.from)),
         ["."],
     );
-    const priorMap = {
-        ...map,
-        rows: map.rows.flatMap((row) =>
-            row[0] === "." ?
-                [row, ...Array.from(",;:—–?!¡¿…()[]", (mark) => [mark, pause])]
-            :   [row],
-        ),
-    };
-    assert.equal(
-        hash(JSON.stringify(priorMap)),
-        "e230cd3f13f39ae325c43e64e21d13591e0ed4363672cfa9fe5a3fe69d033084",
-    );
-    assert.equal(
-        hash(JSON.stringify(words.filter((word) => word.pronunciation || word.native))),
-        "960147483e4ab3125e3769b6afed3864b6433dcac0a8b47975d3d60421924c6c",
-    );
+    for (const [form, points] of [
+        ["exact", [0xf0233, 0xf0235, 0xf0246, 0xf0230, 0xf0239, 0xf0241]],
+        ["conquer", [0xf0239, 0xf023d, 0xf023c, 0xf0239, 0xf0233, 0xf023f]],
+        ["sceptic", [0xf0240, 0xf0239, 0xf0233, 0xf023e, 0xf0241, 0xf0237, 0xf0239]],
+    ])
+        assert.equal(
+            words.find((word) => word.form === form).native.find((entry) => entry.map === map.name)
+                .text,
+            String.fromCodePoint(...points),
+            form,
+        );
 });

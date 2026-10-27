@@ -155,6 +155,12 @@ for (const note of [...works, language]) {
                 );
                 for (const char of mapped) {
                     if (/\s/u.test(char)) continue;
+                    if (/\p{Default_Ignorable_Code_Point}/u.test(char)) {
+                        const control = outlines.glyph(char.codePointAt(0));
+                        assert.equal(control?.advance, 0, "a stress control has no advance");
+                        assert.ok(!control?.d, "a stress control has no ink");
+                        continue;
+                    }
                     const glyph = outlines.glyph(char.codePointAt(0));
                     assert(
                         face.draws.has(char.codePointAt(0)) && glyph?.d && glyph.index !== box,

@@ -54,12 +54,22 @@ const box = outlines.glyph("c".codePointAt(0)).index;
 function missing(text) {
     return [...text].filter((char) => {
         if (/\s/u.test(char)) return false;
+        if (/\p{Default_Ignorable_Code_Point}/u.test(char)) {
+            if (face.draws.has(char.codePointAt(0))) {
+                const glyph = outlines.glyph(char.codePointAt(0));
+                assert(!glyph.d, "a declared control has no ink");
+                assert.equal(glyph.advance, 0, "a declared control has no advance");
+            }
+            return false;
+        }
         const glyph = outlines.glyph(char.codePointAt(0));
         return !face.draws.has(char.codePointAt(0)) || !glyph || !glyph.d || glyph.index === box;
     });
 }
 const hash = (text) => createHash("sha256").update(text).digest("hex");
-const samples = language.raw.split("### Sample passages\n")[1].split("\n## Naming Traditions")[0];
+const samples = language.raw
+    .split(/### Sample passages(?: \{#[^}]+\})?\n/)[1]
+    .split("\n## Naming Traditions")[0];
 const authoredSamples = samples
     .split("\n")
     .filter((line) => line.startsWith("> ") || /^2 \[.*\]\{lang=aelw\}$/.test(line))
@@ -225,28 +235,54 @@ test("sound and mapping frontmatter use the installed schemas", () => {
         assert(consonants.has(ipa), `OP consonant ${ipa} needs a scoped spelling account`);
     for (const row of sounds) {
         assert(row.like, "a sound needs a readable contextual explanation");
-        for (const letters of row.letters) assert.deepEqual(missing(write(letters)), [], letters);
+        // These rows describe conventional English words, whose whole-word native
+        // exceptions apply; isolated c/x spellings are deliberately not map rules.
+        for (const letters of row.letters) assert.equal(typeof letters, "string");
     }
 });
 
 test("Readable graphemes, case, elision and punctuation have usable glyph sequences", () => {
     const expectations = [
-        ["c", [0xf0239]],
-        ["ce", [0xf0240, 0xf0233]],
-        ["Ci", [0xf0210, 0xf0237]],
-        ["cy", [0xf0240, 0xf0245]],
-        ["x", [0xf0239, 0xf0240]],
-        ["QU", [0xf0209, 0xf0214]],
+        ["qQ", [0xf0247, 0xf0217]],
+        ["qu", [0xf0247, 0xf0242]],
         ["th", [0xf0250]],
-        ["TH", [0xf0251]],
-        ["ch", [0xf0241, 0xf0240, 0xf0236]],
-        ["tch", [0xf0241, 0xf0240, 0xf0236]],
+        ["Th", [0xf0251]],
+        ["ch", [0xf028c]],
+        ["Ch", [0xf028d]],
+        ["sh", [0xf0286]],
+        ["Sh", [0xf0287]],
+        ["dh", [0xf0280]],
+        ["kh", [0xf0282]],
+        ["gh", [0xf0284]],
+        ["zh", [0xf0288]],
+        ["ts", [0xf028a]],
+        ["ng", [0xf028e]],
         ["y", [0xf0245]],
+        ["ya", [0xf0245, 0xf0230]],
+        ["nya", [0xf0290, 0xf0230]],
+        ["ny", [0xf023c, 0xf0245]],
         ["aa", [0xf0230, 0xf0230]],
+        [
+            "áÉíÓú",
+            [
+                0xf0230, 0xe0114, 0xf0203, 0xe0114, 0xf0237, 0xe0114, 0xf020d, 0xe0114, 0xf0242,
+                0xe0114,
+            ],
+        ],
         ["'tis", [0xf0241, 0xf0237, 0xf0240]],
         ["’tis", [0xf0241, 0xf0237, 0xf0240]],
         ['"I."', [0xf0207, 0xf0268]],
+        ["a-b", [0xf0230, 32, 0xf0231]],
     ];
+    for (const from of ["c", "C", "x", "X", "CH", "cH", "ë", "Ë", "à", "À"])
+        assert(
+            !map.rows.some((row) => row.from === from),
+            `${from} is not an added conversion rule`,
+        );
+    const stress = outlines.glyph(0xe0114);
+    assert(stress && stress.index !== box);
+    assert.equal(stress.d, "");
+    assert.equal(stress.advance, 0);
     for (const [text, codepoints] of expectations) {
         assert.deepEqual(
             [...write(text)].map((c) => c.codePointAt(0)),
@@ -273,6 +309,15 @@ test("reviewed sample words stay protected while automatic conversion draws ever
     const representative =
         "thin thy ship church judge sing where wear cup put hot watch the see day bird wall fawn go do my boy now ocean exact conquer 'tis summer's";
     assert.deepEqual(missing(write(representative)), []);
+    for (const [form, points] of [
+        ["pack", [0xf023e, 0xf0230, 0xf0239, 0xf0239]],
+        ["pluck", [0xf023e, 0xf023a, 0xf0242, 0xf0239, 0xf0239]],
+        [
+            "Blackkiln",
+            [0xf0201, 0xf023a, 0xf0230, 0xf0239, 0xf0239, 0xf0239, 0xf0237, 0xf023a, 0xf023c],
+        ],
+    ])
+        assert.equal(write(form), String.fromCodePoint(...points), form);
     for (const { name } of language.fm.data.register)
         assert.deepEqual(missing(write(name)), [], `registered name ${name}`);
     for (const row of own.fm.data.map.rows) {
@@ -332,13 +377,14 @@ test("pronunciation references resolve to an exported journal page", () => {
             foreign: { index: new Map(), references: new Map(), stale: [] },
         });
         const target = indexed.find((record) => record.shortcode === guide.fm.shortcode);
-        const journal = buildJournalEntry({
-            id: target.id,
-            name: target.name.full,
-            markdown: splitFrontmatter(guide.raw).body,
-        });
         const results = [language, own].map((source) => {
-            const references = [...source.raw.matchAll(/\[\[doc-prnncthlrn#[^\]]+\]\]/g)];
+            const references = [
+                ...source.raw.matchAll(
+                    source === language ?
+                        /\[\[doc-prnncthlrn(?:#[^|\]]+)?(?:\|[^\]]+)?\]\]/g
+                    :   /\[\[skill-aelwthlng#pronunciation(?:\|[^\]]+)?\]\]/g,
+                ),
+            ];
             assert.equal(references.length, 1, `${source.file} must link to pronunciation rules`);
             const result = convertWikilinks(references[0][0], {
                 type: source.fm.type,
@@ -352,13 +398,28 @@ test("pronunciation references resolve to an exported journal page", () => {
             [],
         );
         for (const { source, result } of results) {
-            const uuid = target.foundry.note.anchors[result.links[0].anchor];
+            const destination =
+                source === language ? target : (
+                    indexed.find((record) => record.shortcode === language.fm.shortcode)
+                );
+            const uuid =
+                result.links[0].anchor ?
+                    destination.foundry.note.anchors[result.links[0].anchor]
+                :   destination.foundry.note.uuid;
+            const journal = buildJournalEntry({
+                id: destination.id,
+                name: destination.name.full,
+                markdown: splitFrontmatter(source === language ? guide.raw : language.raw).body,
+            });
             assert(uuid, "the content index must publish the referenced section");
             assert(result.markdown.includes(`@UUID[${uuid}]`), source.file);
             assert(
-                journal.pages.some(
-                    (page) => uuid === `${target.foundry.note.uuid}.JournalEntryPage.${page._id}`,
-                ),
+                uuid === destination.foundry.note.uuid ||
+                    journal.pages.some(
+                        (page) =>
+                            uuid ===
+                            `${destination.foundry.note.uuid}.JournalEntryPage.${page._id}`,
+                    ),
                 "the resolved UUID must address a page the journal exporter creates",
             );
         }

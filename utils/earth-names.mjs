@@ -43,12 +43,18 @@ const CONTENT_DIR = "assets/content";
 const DATA_FILES = ["utils/nordmal-concordance.json"];
 
 const PRONUNCIATION_GUIDE = "assets/content/Lore/Pronouncing_Thalorna.md";
+// These technical references explain the reader's spelling and pronunciation conventions.
+const PRONUNCIATION_REFERENCES = new Set([
+    PRONUNCIATION_GUIDE,
+    "assets/content/Skills/Languages/Aelwythi.md",
+    "assets/content/Lore/Scripts/Aelwythi_Semaron_Spelling.md",
+]);
 
 /** Files that may name Earth. */
 const EXEMPT_FILES = new Set([
     "assets/content/Reference/Terran_Analogs.md",
-    // The pronunciation guide explains spelling through reference languages and regional readings.
-    PRONUNCIATION_GUIDE,
+    // Technical pronunciation references necessarily name reference languages.
+    ...PRONUNCIATION_REFERENCES,
 ]);
 
 /**
@@ -853,7 +859,9 @@ export function findEarthNames(file, text, names = earthMatcher()) {
         if (file === CONCORDANCE && RECORDED_KEY.test(line)) return [];
         const hits = [];
         for (const [re, what, subject] of [
-            ...(file === PRONUNCIATION_GUIDE ? [] : [[READER_LANGUAGES, "the reader's language"]]),
+            ...(PRONUNCIATION_REFERENCES.has(file) ?
+                []
+            :   [[READER_LANGUAGES, "the reader's language"]]),
             ...(exempt ?
                 []
             :   [
