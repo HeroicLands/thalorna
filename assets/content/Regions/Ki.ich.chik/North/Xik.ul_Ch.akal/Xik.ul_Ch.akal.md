@@ -1,9 +1,9 @@
 ---
 shortcode: xikulchakl
-name: {full: Shik'ul Ch'akal, aliases: []}
+name: {full: Shik'ul Ch'akal, aliases: [Woodland League]}
 type: affiliation
 subType: polity
-description: Lakes, rivers, and portage-routes of the Ha'ik—the Otter People—a water-centered civilization of canoe-runners and maple forests.
+description: "The Woodland League of the northeastern lakes and forests, whom the south calls the Otter People: longhouse farmers governed by councils whose chiefs the clan mothers choose."
 tags: [polity]
 data:
   icon: null
@@ -12,106 +12,83 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: monarchy
-    summary: ""
+    model: confederation
+    summary: >-
+      Each village is governed by a council of its clans' chiefs, each nation of the League by a council of its villages, and the League by a great council of its nations; every council decides by consensus, after as much oratory as it takes. The clan mothers choose each chief and can depose him.
     ranks:
       - level: 0
-        title: Exile
+        title: Kinless
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Cast out by his clan for a killing within the League or a betrayal, with no mother's house to shelter him and no one bound to avenge him.
       - level: 1
-        title: Captive
+        title: Clan Kin
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
+          Born into a clan through the mother, or adopted into it to fill the place of someone who died; an adopted captive is kin in full, and is watched until the clan trusts him.
       - level: 2
-        title: Commoner
+        title: Elder
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
-      - level: 3
-        title: Craftsman
-        description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
-      - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Priest
-        description: >-
-          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
-      - level: 6
-        title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
-      - level: 7
-        title: Kulmah
-        description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
-      - level: 8
-        title: Ts'enmah
-        description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          A man or woman past the prime of work and war whose counsel the clan asks before it acts; the clan mothers are chosen from among the women elders.
     offices:
-      Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Painter and carver, keeper of the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+      Clan Mother: >-
+        An Elder woman chosen by the women of her clan to head it, who names its chief, can take his title back, and decides whether a captive is adopted or killed.
+      Chief: >-
+        Clan Kin named by his clan mother to speak for the clan in council, who holds the title only while she lets him and can give no order the council has not agreed.
+      War Leader: >-
+        Clan Kin who raises a party for a raid or a mourning war, with authority over it only while it is out; a mourning war needs the clan mothers' consent.
+      Speaker: >-
+        A Chief or Elder chosen for his oratory to carry a council's decision to another council or another nation, who may say only what the council agreed.
+      Rememberer: >-
+        An Elder who keeps the League's agreements in memory and recites them at every great council; the League sends one to the compact's council each summer.
   seat: xikulchakl2
   population: null
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {}
+  relations: {redstncmpct: aligned, tzumanotun: rival}
   packFolder: xikulchakal
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the Northeast and the Great Lakes: New York, New England, Ontario and Quebec, with the copper of Lake Superior
+# terran_analog: the Haudenosaunee Confederacy and the Huron-Wendat, with Algonquian neighbors such as the Lenape, Wampanoag and Ojibwe; the clan mothers, the consensus councils and the mourning wars are Haudenosaunee
 ---
 
 ## Overview
 
-Shik'ul Ch'akal holds the land of the [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]. Ki'ich'chik merchants call the people here the Ha'ik Ts'omalil ("Otter People"), from the otter imagery on their canoe prows and camp-markings. Their own name for themselves and their land is unknown. Like all the northern nations, the Ha'ik are hostile to outsiders; they control access to their waterways with quiet, absolute authority, and Ki'ich'chik traders who attempt to navigate Ha'ik rivers without permission simply vanish.
+Shik'ul Ch'akal, "the great lake" in Ki'ich'chik, is the south's name for the Woodland League, and the Ha'ik Ts'omalil ("Otter People") is what southern traders call its people, from the otter carved on their canoe prows. The League holds the land of the [[place-xikulchaklrgn|Shik'ul Ch'akal Region]], the lakes, rivers and forests of the northeast.
 
-The Ha'ik appear to have built a civilization fundamentally different from the other northern nations—not founded on herds or mountains or the open ocean, but on waterways and the forests surrounding them. Their canoes, occasionally seen at border trading sites, are vessels of extraordinary sophistication capable of navigating everything from vast lakes to narrow, rocky rapids. Their knowledge of waterways is unmatched and jealously guarded; the portage routes and seasonal channels that connect the great lakes form a transportation network that the Ha'ik control absolutely and share with no one.
+The League is a confederacy of nations, each a cluster of palisaded villages. A village is a few hundred to a couple of thousand people in long bark-covered houses, each house the home of one clan's women, their husbands and their children, and around it lie fields of maize, beans and squash, planted together in the same hills. Every ten to twenty years the soil and the firewood near a village give out, and the whole village moves to a new site and builds again. The men hunt, fish and trade by canoe through the lakes and along the portages; the women own the houses and the fields.
 
-Ki'ich'chik observers report that the region's relative abundance has allowed the Ha'ik to develop a more settled lifestyle than most northern peoples. Seasonal villages of substantial longhouses appear and disappear with the seasons, visible from a distance to Ki'ich'chik scouts but approached at one's peril. The Ha'ik tolerate trade only at designated border sites, and negotiations are conducted on Ha'ik terms or not at all.
+## Governance
 
-## The Ha'ik Ts'omalil
+The League is proud of its government and suspicious of everyone else's. Descent runs through the mother, and each clan is headed by a clan mother, chosen by its women. She names the clan's chief and can take the title back from him. Chiefs sit in their village's council, villages send chiefs to their nation's council, and the nations meet in a great council of the League. Every council decides by consensus: nothing is done until everyone present has spoken, been answered and agreed, and a hard question can take days of oratory.
 
-The Otter People are master builders of watercraft and sophisticated engineers of water systems. Their canoes—crafted from birch bark stretched over a wooden frame, or carved from hollowed logs—are objects of functional beauty, capable of carrying substantial cargo and surviving challenging water conditions. The Ha'ik also construct elaborate fish weirs and traps, dams, and sluices that enhance fish production in their territories; these constructions are maintained communally and represent significant engineering knowledge passed down through generations. A Ha'ik community's wealth and status are partly measured by the sophistication of their watercraft and water-management infrastructure.
+The League has no king and wants none. Its people hold hereditary rule to be the thing their councils exist to prevent, and they say so to the River Kingdom's Suns at every council of the [[affiliation-redstncmpct|Red Stone Compact]]. In the compact the League is the diplomat and the memory: its Rememberers open each summer council by reciting the agreements of past ones, and its speakers carry more of the compact's business than any other nation's.
 
-The internal governance of the Ha'ik is opaque to Ki'ich'chik scholars. Reports from rare border encounters suggest that decisions among the Ha'ik may involve some form of collective deliberation—traders report waiting days for responses while Ha'ik representatives apparently consult with unseen authorities—but the details are unknown and may never be.
+## War
 
-The Ha'ik produce artistic work of striking quality, seen occasionally in trade goods: beadwork, porcupine quill embroidery, and textile work incorporating water motifs—ripples, waves, aquatic creatures—that Ki'ich'chik collectors prize highly. Musical instruments of elegant simplicity (flutes carved from bone, drums with stretched hide) have also reached southern markets. These goods are among the few windows Ki'ich'chik scholars have into Ha'ik culture, and they suggest a rich artistic tradition about which far more remains hidden than revealed.
+The League's wars are small and personal. When a death leaves a gap in a clan, a clan mother may ask for a mourning war: a raid to take captives who will replace the dead. A captive brought home is adopted, and becomes a son or a daughter of the clan in full, or is put to death. Many of the League's people were born elsewhere.
+
+## Neighbors and Threats
+
+The League contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the River Kingdom, and each accuses the other of raiding there. The Grass People raid its western villages. Two dangers fall on the League before anyone else: [[lore-nordheimnclt|Nordmen]] who cross the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] in longships and raid its coast, and the peoples of the arctic fringe, who are being pushed south by newcomers from the ice into the hunting country at its northern edge.
 
 ## Trade
 
-The Ha'ik appear less reliant on southern trade than some of the other northern nations, thanks to the productivity of their territory. They acquire southern obsidian and tropical feathers, but on their own schedule and at prices they dictate. Ki'ich'chik merchants who have attempted to press for better terms or more frequent access have been simply cut off—the Ha'ik can afford to wait, and they know it.
+The League's lake country is where the north's copper comes from: it lies in the ground pure, and the League's smiths hammer it cold into blades, awls and sheets that the other nations want. Canoes carry it with furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and beyond. Southern goods reach the League last and fewest, by way of the Mesa Towns and the River Kingdom.
 
 ## See Also
 
-[[affiliation-penqalchakal|P'enqal Ch'akal]]
-: The Coyote People's grasslands to the west
-
-[[affiliation-ixtemtzul|Ishtem Tsul]]
-: The Bear People's boreal forests to the northwest
-
-[[affiliation-tzumanotun|Ts'uma No'tun]]
-: The Serpent People's southern territories, connected via river routes
+[[affiliation-redstncmpct|Red Stone Compact]]
+: the compact the League remembers for the other four nations
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: The contested borderlands to the south where Ha'ik, Ts'okum, and Ch'akun meet
+: the river frontier it contests with the River Kingdom
+
+[[affiliation-tzumanotun|Ts'uma No'tun]]
+: the River Kingdom, its rival to the southwest
+
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: the Grass People, on the plains to the west
 
 [[place-xikulchaklrgn|Shik'ul Ch'akal Region]]
-: The land Shik'ul Ch'akal holds
+: the land the League holds

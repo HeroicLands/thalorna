@@ -1,9 +1,9 @@
 ---
 shortcode: ixbalkiahk
-name: {full: Ish'bal Ki'ahk, aliases: []}
+name: {full: Ish'bal Ki'ahk, aliases: [Cedar Kingdom]}
 type: affiliation
 subType: polity
-description: Coastal rainforest and volcanic coastline of the Shak'nal—the Eagle People—westernmost of the northern tribal nations.
+description: "The Cedar Kingdom of the far western coast, whom the south calls the Eagle People: salmon, cedar plank houses, crest poles and a paramount house that rules by giving."
 tags: [polity]
 data:
   icon: null
@@ -12,106 +12,84 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: monarchy
-    summary: ""
+    model: oligarchy
+    summary: >-
+      The High Chief of the paramount house presides over a network of noble houses, each with its own chief, village and fishing grounds. His authority rests on gifts and feasts: a house chief follows him while the High Chief's giving outshines his own, and leaves him when it does not.
     ranks:
       - level: 0
-        title: Exile
+        title: Slave
         description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
+          Taken in a raid or bought, owned outright, with no name, no house and no place at a feast.
       - level: 1
-        title: Captive
-        description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
-      - level: 2
         title: Commoner
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          Of a house but holding none of its hereditary names, who fishes, builds and paddles for the house's chief.
+      - level: 2
+        title: Noble
+        description: >-
+          Holder of a hereditary name and the crests and privileges that come with it, claimed before guests at a giving feast.
       - level: 3
-        title: Craftsman
+        title: House Chief
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
-      - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Priest
-        description: >-
-          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
-      - level: 6
-        title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
-      - level: 7
-        title: Kulmah
-        description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
-      - level: 8
-        title: Ts'enmah
-        description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Holder of a house's highest name, chief of its village for life, and the giver of the house's feasts.
     offices:
-      Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Painter and carver, keeper of the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+      High Chief: >-
+        The House Chief of the paramount house, who presides over the other houses, gives the greatest feasts and leads the kingdom at war.
+      Speaker: >-
+        A Noble who speaks for a chief at feasts and councils, so that the chief never has to raise his own voice.
+      War Canoe Captain: >-
+        A Noble who commands a seagoing war canoe and its crew on a raid.
+      Master Carver: >-
+        A Commoner or Noble commissioned by a chief to carve a house's crest poles and house posts, and the masks for the winter dances.
   seat: ixbalkiahk2
   population: null
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {}
+  relations: {redstncmpct: aligned}
   packFolder: ixbalkiahk
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Western U.S. to Rockies and up to British Columbia and southern Alaska
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the Pacific Northwest coast, from northern California to the Alaska panhandle (Oregon, Washington and British Columbia), west of the Cascades and the Coast Mountains
+# terran_analog: the Tlingit, Haida, Tsimshian, Kwakwaka'wakw, Nuu-chah-nulth and Coast Salish; the giving feast is the potlatch, and the crest poles are totem poles
 ---
 
 ## Overview
 
-Ish'bal Ki'ahk holds the land of the [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]. The people Ki'ich'chik border scouts call the Shak'nal Ts'omalil ("Eagle People," from the eagle-imagery on their war-standards) inhabit this region, though what they call themselves and their land in their own language remains unknown. They do not welcome outsiders.
+Ish'bal Ki'ahk is the Ki'ich'chik name for the Cedar Kingdom, and the Shak'nal Ts'omalil ("Eagle People") is what southern traders call its people, from the eagle carved on their crest poles and war canoes. The kingdom holds the land of the [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]], the cedar coast of the far west, between the mountains and the sea.
 
-What Ki'ich'chik merchants and captives have reported suggests a people who have thrived here for uncounted generations, their lives woven into the cycles of salmon runs, the rhythms of cedar groves, and the moods of an ocean that both nourishes and tests their resolve. Though they appear to claim no permanent settlements, their seasonal camps follow pathways worn smooth by ancestors, and the quality of their carving, weaving, and building—glimpsed at rare trade encounters—speaks to a sophistication that rivals anything in the south. When the mountain passes close during winter's teeth, outsiders find Ish'bal Ki'ahk impenetrable—and during the rest of the year, the Shak'nal ensure it remains nearly so.
+The Cedar Kingdom is rich, and it is rich because of the sea. Every year the salmon come up its rivers in runs so great that a village can dry and smoke a year's food in a few weeks; the coast adds seal and sea otter, shellfish, and the oil of a small fish rendered into a grease that every feast requires. With food so plentiful, the people of the coast live in large permanent villages of cedar-plank houses facing the beach, with carved house posts inside and crest poles outside that show the histories of the lineages who live there.
 
-The Shak'nal guard their territory with lethal seriousness; the mountain passes are few, and the Shak'nal know every hidden trail and defensible ridge. Ki'ich'chik traders who venture too far into the interior without invitation do not return.
+## Governance
 
-## The Shak'nal Ts'omalil
+The coast is sharply ranked. Every house has its nobles, who hold its hereditary names, crests and privileges; its commoners, who are of the house but hold none of them; and its slaves, taken in raids, who belong to it outright. A house chief holds the highest name of his house for life and speaks for it through a Speaker, because a chief does not raise his own voice.
 
-The Eagle People are master craftspeople, known across the northern frontier for cedar longhouses, intricate totem poles, and canoes carved from single massive logs. Their artistic traditions form a visual language encoding genealogy, spiritual vision, and territorial claim; a pole carved by an Shak'nal master is a document in wood, readable to those trained in its symbols. During potlatch ceremonies that gather the nations, Shak'nal artisans display objects of breathtaking beauty—woven blankets of cedar bark and mountain goat wool, carved masks worn by shamans in their journeys between worlds, and copper shields hammered and worked until they glow like captured sunlight.
+The kingdom is a network of these houses under a paramount house, whose chief, the High Chief, presides over the others. His authority is real and conditional. A house chief follows the High Chief while the High Chief's gifts are the greatest on the coast, and his loyalty goes elsewhere when they are not; every High Chief spends his life proving that his house is still the greatest.
 
-The Shak'nal hunt salmon and whale with a discipline that borders on ritual. The salmon run is the pulse of their year; families gather at ancestral fishing grounds to take the silver harvest. Whale hunts, undertaken only with full spiritual preparation and always with ceremony honoring the slain creature, are both practical subsistence and profound spiritual practice. A successful whale hunt feeds a community for months and supplies materials for tools, art, and trade goods. Whalebone and whale oil move south along ancient trade paths, reaching the [[affiliation-itzanpnthn|Itsani lands]] in exchange for obsidian, tropical feathers, and items of spiritual power.
+## The Giving Feast
 
-Ki'ich'chik observers believe the Shak'nal political structure is decentralized, organized into autonomous lineages tied to specific territories and hunting grounds. Reports from merchants permitted brief contact at border trading sites suggest that prestige among the Shak'nal comes not from hoarding but from giving away—elaborate ceremonies of gift exchange appear to establish hierarchy and bind the nation together. The details of their governance remain opaque; the Shak'nal share nothing of their internal affairs with outsiders. What is clear is that despite periodic inter-clan tensions, the Shak'nal unite swiftly and ferociously against any perceived external threat.
+Status on the coast is claimed and confirmed at the giving feast. A chief who takes a new name, raises a pole or mourns a predecessor invites the other houses, feeds them for days, and gives away or destroys a fortune in blankets, canoes, oil and copper sheets before them. The guests' acceptance of the gifts is their acknowledgment of his claim. A guest who cannot repay with a greater feast in his turn loses standing, and rival chiefs ruin themselves trying.
+
+In winter the houses hold dance dramas in which dancers wearing carved masks act out the encounters of the lineages' ancestors with the powers of the sea and the forest. The masks are among the finest carving in the north.
+
+## War and the Compact
+
+The kingdom's war canoes are great seagoing dugouts, each cut from a single cedar, that carry a crew of warriors along the coast to raid for slaves and plunder. It is the compact's sea power on the western coast, and it is geographically remote from the other four nations. It joins the [[affiliation-redstncmpct|Red Stone Compact]] for its own interests and for the prestige of a seat at the council, and it sends a noble of the paramount house with a speaker to talk for him.
 
 ## Trade
 
-The Shak'nal maintain a monopoly on this northern trade, and they guard their routes and contacts with jealous intensity. Attempts by southern merchants to circumvent Shak'nal intermediaries have ended in disappearances. The Shak'nal tolerate trade only on their terms, at locations they choose, and any Ki'ich'chik merchant who overstays or wanders is treated as an invader.
+The Cedar Kingdom trades south along the coast with the [Shell-Bead Towns]{.name data-type="lore/culture"}, whom it courts, and inland over the mountain passes to the Grass People and the Mesa Towns. Through the Mesa Towns a few southern goods reach the coast, and a macaw feather on a dancer's mask is something a High Chief shows his guests. The passes close in winter, so inland trade is seasonal.
 
 ## See Also
 
+[[affiliation-redstncmpct|Red Stone Compact]]
+: the compact the Cedar Kingdom keeps with the other four nations
+
 [[affiliation-ixtemtzul|Ishtem Tsul]]
-: The bear-people's domain to the east, separated from Ish'bal Ki'ahk by mountain passes and boreal forest
+: the Mesa Towns, a trading partner beyond the mountains
 
-[[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: Contested borderlands far to the southeast, where Shak'nal traders sometimes venture
-
-[[place-chakultzklrgn|Ch'akul Tsa'kul]]
-: The great southern desert separating the northern frontier from [[place-kiichchik|Ki'ich'chik]] proper
-
-[[affiliation-itzanpnthn|Itsani Faith]]
-: The distant civilization's religion and culture, encountered through trade and occasional conflict
+[[affiliation-penqalchakal|P'enqal Ch'akal]]
+: the Grass People, across the mountains to the east
 
 [[place-ixbalkiahkrgn|Ish'bal Ki'ahk Region]]
-: The land Ish'bal Ki'ahk holds
+: the land the Cedar Kingdom holds

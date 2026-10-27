@@ -1,9 +1,9 @@
 ---
 shortcode: tzumanotun
-name: {full: Ts'uma No'tun, aliases: []}
+name: {full: Ts'uma No'tun, aliases: [River Kingdom]}
 type: affiliation
 subType: polity
-description: Ancient mountains, swamplands, and coastal wetlands of the Ch'akun—the Serpent People—the great hostile nation of the northeastern frontier.
+description: "The River Kingdom, whom the south calls the Serpent People: mound cities in the great river valley under Sun-born rulers, with proud seafaring provinces on the southern coasts."
 tags: [polity]
 data:
   icon: null
@@ -13,105 +13,98 @@ data:
   symbol: null
   governance:
     model: monarchy
-    summary: ""
+    summary: >-
+      The Great Sun, head of the house that claims descent from the Sun, rules the heartland from its chief mound city through ranked nobles who govern the lesser towns, and a priesthood keeps the temple fires and the rites of the maize. The coastal provinces pay tribute to the Great Sun under their own chiefs and obey him as little as they can.
     ranks:
       - level: 0
-        title: Exile
-        description: >-
-          Driven from the city and denied its ballcourt, its market and its rites; no lord will take him and no kin will own him.
-      - level: 1
         title: Captive
         description: >-
-          Taken in war and held for labor or for the altar, with no standing and, commonly, no long future.
-      - level: 2
+          Taken in war and held for labor or for a noble's funeral, and owed nothing.
+      - level: 1
         title: Commoner
         description: >-
-          Working the maize plots and owing labor on the temple platforms and causeways, and tribute in maize, cloth and cacao.
+          A farmer of the river towns or a fisher of the coast, who owes maize, labor on the mounds and service in war to the noble of the town.
+      - level: 2
+        title: Raised
+        description: >-
+          A Commoner raised for deeds in war or service to a noble house, who sits apart from other commoners at feasts and may marry into a noble line.
       - level: 3
-        title: Craftsman
+        title: Noble
         description: >-
-          Of the skilled trades—potters, weavers, feather-workers, stone-cutters—attached to a lord's household or a temple.
+          Of a ranked lineage descended from a younger line of the Sun's house, holding a town, its mound and its people.
       - level: 4
-        title: Warrior
-        description: Taker of captives, whose standing rises with each one and whose dress records them.
-      - level: 5
-        title: Priest
+        title: Sun
         description: >-
-          Keeper of the count of days and the rites, without whom no lord may act at an auspicious hour.
-      - level: 6
-        title: K'anulmah
-        description: A noble lord of the city, holding land, dependents and a place in the Ts'enmah's court.
-      - level: 7
-        title: Kulmah
-        description: >-
-          A subordinate lord holding a lesser center for the Ts'enmah, and the usual rank of a conquered city's ruler.
-      - level: 8
-        title: Ts'enmah
-        description: >-
-          Holy Lord: divine king of the city, who bleeds for it at the turn of the calendar and embodies it in war.
+          Of the paramount house itself, which claims descent from the Sun; a Sun is buried in the great mound, and the Great Sun is chosen from among them.
     offices:
-      Ts'enmah: >-
-        Holy Lord and divine king of the city, whose bloodletting at the calendar's turns sustains it.
-      Ish'kanmah: >-
-        Royal lady of the city, of a lineage recorded and married for, and a ruler in her own right where the line requires it.
-      Kulmah: Subordinate lord holding a lesser center in the Holy Lord's name.
-      K'anulmah: Noble lord of the city, holding land, dependents and a voice at court.
-      Ts'enbal: Priest of the sun and keeper of the count of days, who fixes every auspicious hour.
-      P'ilambal: >-
-        Painter and carver, keeper of the genealogies and the monuments that assert them.
-      Shok'almah: War-leader appointed for a campaign, and set aside when it ends.
-      Ha'nalmah: Governor of a subject town, collecting its tribute and hearing its disputes.
-      Ch'umts'om: Deputy and herald of a lord, who carries his word and is answered as if it were his.
-      P'ik'ulmah: >-
-        Master merchant of the long-distance trade in cacao, salt, obsidian and jade—and a lord's eyes abroad.
-      Ballcourt Keeper: >-
-        Warden of the court where the game is played, which is a rite, a lawsuit and a sacrifice at once.
+      Great Sun: >-
+        The Sun who rules the kingdom from its chief city, whose word holds in the heartland, and whose death is followed by a funeral the kingdom argues over.
+      Mound Chief: >-
+        A Noble who governs a town from the house on its mound, collects its maize and leads its warriors.
+      Keeper of the Fire: >-
+        A Noble priest who keeps the fire that never goes out in the temple on the great mound, and leads the rites of the maize and of the dead.
+      War Chief: >-
+        A Noble or a Sun named by the Great Sun to lead the kingdom's warriors in a war, most often the Great Sun's own brother.
+      Coastal Chief: >-
+        The hereditary head of a coastal province, a Noble by courtesy, who sends tribute up the river and resents every load of it.
+      Master of the Yard: >-
+        The Noble who keeps a city's yard for the rolling-stone game, holds the wagers and settles the quarrels the game raises.
   seat: tzumanotun2
   population: null
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {}
+  relations: {redstncmpct: aligned, xikulchakl: rival, penqalchakal: rival}
   packFolder: tzumanotun
 sohl: {system: {commonSkills: []}}
 
-# terran_analog: Appalachian Region and eastward through the Southeast, south into Florida and Louisiana
-# terran_analog: the ranks and offices are the Classic Maya court: Ts'enmah the k'uhul ajaw, K'anulmah the ajaw, Ish'kanmah the ix ajaw, Kulmah the sajal, Ts'enbal the ah k'in, P'ilambal the aj ts'ib, Shok'almah the nacom, Ha'nalmah the batab, Ch'umts'om the ah kulel and P'ik'ulmah the ppolom; the maize plots are the milpa
+# terran_analog: the Mississippi valley and the Southeast, with the Florida and Gulf coasts as the coastal provinces and the Appalachian Mountains on its eastern side
+# terran_analog: the Mississippian culture at its height, above all Cahokia about 1050 to 1150, with Etowah and Moundville; the falcon dancers and the Birdman are the Southeastern Ceremonial Complex, the rolling-stone game is chunkey, the elite burials with sacrifice are Cahokia's Mound 72, and the coastal provinces are the Calusa of southwest Florida
 ---
 
 ## Overview
 
-Ts'uma No'tun holds the land of the [[place-tzumanotunrgn|Ts'uma No'tun Region]]. Ki'ich'chik scouts call the people here the Ch'akun Ts'omalil ("Serpent People"), from the serpent-imagery that dominates the few artifacts recovered from border encounters and the rare survivors of failed expeditions into their territory. Their own name for themselves is unknown. Of all the northern nations, the Ch'akun are the most feared—their reputation for mastery of poisons, ambush tactics, and strikes that come from darkness and vanish without trace has made Ki'ich'chik border commanders treat Ts'uma No'tun as effectively impassable.
+Ts'uma No'tun is the Ki'ich'chik name for the River Kingdom, and the Ch'akun Ts'omalil ("Serpent People") is what southern traders call its people, from the coiled serpents engraved on their shell gorgets and copper plates. It is the richest, most populous and most centralized nation of the north, the closest thing the north has to a peer of the southern city-states, and it holds the land of the [[place-tzumanotunrgn|Ts'uma No'tun Region]].
 
-Ki'ich'chik observers believe the Ch'akun have developed a civilization more organized and centralized than the other northern nations, though evidence is fragmentary and largely inferred from the sophistication of their military operations. The swamplands that form the heart of their territory are simultaneously a refuge and a weapon; Ki'ich'chik expeditions that have entered the trackless wastes have found them disorienting and deadly, while the Ch'akun clearly move through them with effortless mastery. No Ki'ich'chik scholar has ever been permitted into Ch'akun lands and returned with a reliable account.
+The heartland lies in the valley of the great river, where the floodplain yields a surplus of maize that feeds cities. Each city is built around a great plaza and the earthen mounds raised on its edges: flat-topped platforms for the houses of the nobles and the temples, and conical mounds over the noble dead. The greatest city's chief mound is a hill of earth carried up basket by basket over generations. The surplus supports craft specialists, who emboss copper plates, engrave shell gorgets and carve stone pipes, and a priesthood. The kingdom's warrior dancers wear the costume of the falcon, and the figure of a man with a falcon's wings is the emblem of its rulers.
 
-## The Ch'akun Ts'omalil
+To the south, where the land runs out into the shell coasts and the warm gulf, lie the coastal provinces. Their people never farmed. They live on an estuary fishery richer than any field, build their towns on islands of heaped shell, dig canals for their canoes, carve wood better than anyone in the north, and collect tribute from the coastal towns around them. To the east, the heartland is backed by the old forested ranges.
 
-Ki'ich'chik scholars speculate, based on the coordinated nature of Ch'akun military operations and the apparent specialization of their warriors, that the Serpent People maintain a more centralized hierarchy than the other northern nations. Some Ki'ich'chik accounts use the term "Ch'akun Nah" ("Serpent Lords") for the leaders observed at rare border parley, though whether this is their actual title or a Ki'ich'chik invention is uncertain. What is clear from the outside is that whoever commands the Ch'akun can marshal coordinated action across large distances—a capability that implies organizational sophistication unusual among the northern peoples and deeply concerning to Ki'ich'chik military planners.
+## Governance
 
-The Ch'akun are masters of swamp-craft and poison-working; their knowledge of which plants produce which toxins, how to extract and concentrate venom, and how to deliver poisons via dart, blade, or food is unmatched and carefully guarded. This specialized knowledge has made them formidable warriors and valuable allies (and dangerous enemies) in inter-tribal conflicts. The Ch'akun are famous for their ability to defeat larger forces through ambush, poisoning of water supplies, and night attacks executed with coordinated precision. Their reputation as uncompromising in victory and ruthless in defense has made them cautious neighbors; the other northern nations are slow to aggress against the Ch'akun.
+The Great Sun rules. He is chosen from the Suns, the paramount house that claims descent from the Sun, and he governs the heartland through Nobles of lesser lines, each holding a town from the house on its mound. The Keepers of the Fire keep the undying fire in the temple on the great mound and lead the rites of the maize; a Great Sun who loses the priests' support finds the rites going badly for him.
 
-The Ch'akun have developed sophisticated traditions of mound-building—constructing massive earth mounds for ceremonial purposes, burials, and astronomical observation. These mounds are not permanent settlements but rather serve as gathering places for seasonal ceremonies and councils. The construction and maintenance of mounds represents significant labor investment, indicating a level of population coordination and planning unusual in the northern frontier. The mounds also serve a defensive purpose; they provide vantage points for observation and contain internal structures suitable for ritual and strategic communication.
+The coastal provinces are the kingdom's built-in fault. They pay tribute to the Great Sun under their own hereditary chiefs, they are proud of a way of life that owes the heartland nothing, and they resent every canoe-load of tribute that goes up the river. The heartland needs their canoes, which are the kingdom's navy, and they know it.
+
+When a Sun dies, his retainers and captives may be killed and buried with him. The kingdom's own people argue over the practice: the priests hold that a Sun must go to the dead attended, and many nobles and commoners hold it a crime against those killed. Every great funeral reopens the quarrel.
+
+In the [[affiliation-redstncmpct|Red Stone Compact]], the River Kingdom sends Nobles of the Sun's house as its delegates.
+
+## Public Life
+
+The rolling-stone game is the kingdom's spectacle and much of its politics. Two players run down a long yard of beaten clay, one bowls a polished stone disk ahead of them, and each throws a spear at where he thinks the stone will stop. Whole towns gather to watch, and the wagering runs from a cloak to a man's freedom. Nobles settle rivalries through the game, and the Master of the Yard who holds the wagers holds a share of the city's power.
+
+## Neighbors
+
+The other nations see the River Kingdom as rich, arrogant and expansionist. It contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier to the northeast, with the Woodland League, and its western towns suffer the raids of the Grass People. Of all the compact's nations, it is the one most tempted to make a private bargain with the south, and the others watch it for that.
 
 ## Trade
 
-This middleman position generates considerable wealth and political influence; the ability to grant or withhold access to southern luxury goods gives Ch'akun leadership substantial leverage in inter-tribal negotiations.
-
-The Ch'akun appear to maintain some presence in the contested [[place-hanalxilanrgn|Ha'nal Shi'lan borderlands]], and rare transactions with Ki'ich'chik merchants occur there—always on Ch'akun terms, always brief, and always through intermediaries who may or may not actually be Ch'akun. The opaque nature of these trade networks makes it impossible for Ki'ich'chik merchants to predict resource flows, negotiate reliably, or establish lasting commercial relationships.
+The heartland's craftsmen work copper brought from the League's lake country into plates, ornaments and blades, and their shell comes up the river from the coastal provinces. Southern goods reach the kingdom through the Mesa Towns, a little cacao and a few macaw feathers at a high price, and its nobles prize them above anything made at home.
 
 ## See Also
 
+[[affiliation-redstncmpct|Red Stone Compact]]
+: the compact the River Kingdom keeps with the other four nations
+
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: The contested borderlands to the north and west, source of frequent inter-tribal tensions
+: the river frontier it contests with the Woodland League
 
 [[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: The Otter People's eastern woodlands, connected via river routes and occasional diplomatic contact
+: the Woodland League, its rival to the northeast
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
-: The Coyote People's grasslands, contacted through the Ha'nal Shi'lan borderlands
-
-[[place-kiichchik|Ki'ich'chik]]
-: The civilized southern lands, source of trade goods and occasional military threat
+: the Grass People, on the plains to the west
 
 [[place-tzumanotunrgn|Ts'uma No'tun Region]]
-: The land Ts'uma No'tun holds
+: the land the River Kingdom holds

@@ -3,7 +3,7 @@ shortcode: northkiichchik
 name: {full: Northern Ki'ich'chik, aliases: []}
 type: place
 subType: region
-description: "Five Indigenous nations outside Ki'ich'chik culture, with smaller groups in the wet northwest and arctic regions."
+description: "Five rival nations bound by the Red Stone Compact, two peoples outside it, and the desert that lets only a trickle of the south through."
 tags: [region]
 data:
   demonym: null
@@ -11,28 +11,82 @@ data:
   parents: [kiichchik]
   population: 2000000
   packFolder: kiichchik
+
+# terran_analog: "The present United States and southern Canada around 1100: the Haudenosaunee and their Algonquian neighbors, the Mississippian chiefdoms at the height of Cahokia, the pre-horse Plains hunters and Plains Village farmers, the Ancestral Puebloans of Chaco Canyon and Mesa Verde, and the Pacific Northwest coast. The two peoples outside the compact are drawn from California (the Chumash and the acorn peoples) and Alaska (the Unangan, Yup'ik and Iñupiat, and the early Thule). The compact draws on the calumet ceremony and the Pipestone quarry; the sea raiders are the Norse voyages of about 1000 to 1100, and the arctic newcomers the Thule expansion of about 1000 to 1300."
 ---
 
 ## Overview
 
-Northern Ki'ich'chik is the part of the continent outside Ki'ich'chik culture. Five Indigenous nations live here: [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]], the Eagle People of the western fjords and mountains; [[affiliation-ixtemtzul|Ishtem Tsul]], the Bear People of the boreal forest; [[affiliation-penqalchakal|P'enqal Ch'akal]], the Coyote People of the grasslands; [[affiliation-xikulchakl|Shik'ul Ch'akal]], the Otter People of the lakes; and [[affiliation-tzumanotun|Ts'uma No'tun]], the Serpent People of the swamps and eastern mountains. Smaller groups of people also live in the wet northwest and in arctic regions. About 2,000,000 people live in the north.
+Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 2,000,000 people live in the north.
 
-## Character
+The north is a land of copper and maize, longhouse and mound, buffalo jump and great house, and none of it is written. Its peoples keep their law, their treaties and their histories in memory, and they refuse the speech and the glyphs of the south.
 
-Ki'ich'chik names are all that the south has for the five nations. The nation names are exonyms, given by merchants and border scouts from the animals painted on war-standards and camp-markings, and what the nations call themselves is unknown. Their relations shift between conflict and cooperation, and they unite against outsiders, especially incursions from the south. Some are more warlike than others. They tolerate Ki'ich'chik traders only at arm's length, at sites and on terms they choose. The distances make a conventional campaign nearly impossible.
+## The Nations of the Compact
 
-Two places in the north belong to no nation. [[place-hanalxilanrgn|Ha'nal Shi'lan]] is a region of contested river valleys where the Coyote, Otter and Serpent peoples clash and where goods from the five nations meet at trading posts. [[place-chakultzklrgn|Ch'akul Tsa'kul]], the Thirsty Land, is an uninhabited desert of sand seas, mesas and salt flats that forms the deadly barrier between the northern peoples and Ki'ich'chik civilization. The [Speaking Road]{.name data-type="affiliation"} does not extend into the north, and furs, amber and freshwater pearls reach the south through irregular border trade.
+Each nation is a confederacy of many towns or bands that share a family of languages and a set of rites. None of them is a single state, and each has its own factions. Each is listed under the name these pages give it. The [[skill-kiichek|Ki'i'chek]] name beside it is the one the south's merchants gave, from the animals on its war-standards and camp-markings.
+
+[[affiliation-xikulchakl|Woodland League]]
+: Shik'ul Ch'akal in the south's tongue, the Otter People. Palisaded longhouse villages of the northeastern lakes and forests, governed by consensus councils whose chiefs are chosen and deposed by the clan mothers. The League is the compact's diplomat and its memory, and it distrusts kings on principle.
+
+[[affiliation-tzumanotun|River Kingdom]]
+: Ts'uma No'tun, the Serpent People. Mound cities in the valley of the great river, ruled by paramount chiefs who claim descent from the Sun, with seafaring provinces on the southern shell coasts and the old eastern ranges at its back. It is the richest and most populous nation, the most centralized, and the one the others trust least.
+
+[[affiliation-penqalchakal|Grass People]]
+: P'enqal Ch'akal, the Coyote People. Hunting bands that follow the herds on foot with dogs and travois, and farming villages of earth lodges along the rivers. Their hunt chiefs and war leaders hold power for a season, and warrior societies police the communal hunts.
+
+[[affiliation-ixtemtzul|Mesa Towns]]
+: Ishtem Tsul, the Bear People. Towns of multistory stone great houses on the desert's northern rim, linked by straight roads and fed by dry farming and canals. They hold the northern end of every route across the desert, and know the south better than anyone else in the north.
+
+[[affiliation-ixbalkiahk|Cedar Kingdom]]
+: Ish'bal Ki'ahk, the Eagle People. Plank-house villages on the salmon coast of the far west, ranked into nobles, commoners and slaves, where a paramount house presides over noble houses whose loyalty it buys with gifts. It is a sea power, a month's journey from the others, and it keeps the compact for its own prestige.
+
+## Outside the Compact
+
+The [Shell-Bead Towns]{.name data-type="lore/culture"} stand on the western coast south of the Cedar Kingdom and in the oak valleys behind it. They are dozens of independent towns, rich in fish and acorns, with plank canoes that cross to the offshore islands and a currency of drilled shell beads. Mountains and desert shelter them, so they see no need for the compact, and the Cedar Kingdom and the Mesa Towns both trade with them and court them.
+
+The [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest take seal, walrus and whale from skin boats along the frozen coasts. They are remote, self-sufficient and uninterested in the quarrels of the south.
+
+## The Desert and the South
+
+Ch'akul Tsa'kul is a filter, not a wall. Every year a few southern traders and pilgrims cross it, and now and then an expedition, and what they carry north is small, light and precious: cacao, scarlet macaw feathers and cast copper bells. In the north these are the goods of chiefs. A Mesa Towns great house keeps live macaws for their feathers, a River Kingdom noble drinks cacao at a feast, and a chief of the League may be buried with a copper bell that crossed the desert before he was born.
+
+The Mesa Towns keep the northern gate. They receive the southern traders, decide what goes on and at what price, and pass the goods along to the other nations. That makes them the north's best informed nation about the south, and the most suspected.
+
+## Copper Against Steel
+
+The north works copper. It comes out of the ground pure in the League's lake country, and smiths hammer it cold into plates, blades, beads and the embossed sheets the River Kingdom's nobles wear. Nobody in the north smelts ore. The south fights in steel blades and iron-headed spears, and the richest southern warriors wear steel breastplates. Every northern chief knows the difference, and it is the plainest reason the compact exists: no one nation could meet a southern army alone.
+
+## Three Threats
+
+Three dangers press on the north, and each falls on one nation first.
+
+- **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Mesa Towns first and the River Kingdom after them.
+- **The sea raiders.** [[lore-nordheimnclt|Nordmen]] sail longships across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the coast of the Woodland League.
+- **The newcomers from the ice.** Kin of the Ice-Coast Hunters are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the League's northern edge.
+
+Whether a danger to one nation is a danger to all is the question the compact argues every summer and has never settled.
+
+## The Land Between
+
+[[place-hanalxilanrgn|Ha'nal Shi'lan]] is the wooded river frontier between the Woodland League and the River Kingdom, which both claim and neither holds. Its trading posts are where the goods of the east change hands, and its raids are the oldest grievance the compact contains.
+
+The [Red Quarry]{.name data-type="place/site"}, where the compact's council meets, lies on the prairie where the lands of the Grass People, the League and the River Kingdom meet. No blood may be shed there.
+
+North of the League and the grasslands, the boreal forest runs out into tundra. It is sparse hunting country, held by small bands of caribou hunters at the edge of the League's reach and the Ice-Coast Hunters' coast.
 
 ## See Also
+
+[[affiliation-redstncmpct|Red Stone Compact]]
+: the agreement that binds the five nations
 
 [[place-kiichchik|Ki'ich'chik Continent]]
 : the continent
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: the contested river lands
+: the contested river frontier
 
 [[place-chakultzklrgn|Ch'akul Tsa'kul]]
-: the desert barrier
+: the desert between north and south
 
 [[place-centralkiichchik|Central Ki'ich'chik]]
-: the heartland to the south
+: the heartland of the southern city-states

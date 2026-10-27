@@ -3,7 +3,7 @@ shortcode: xikulchaklrgn
 name: {full: Shik'ul Ch'akal Region, aliases: []}
 type: place
 subType: region
-description: "Lakes, rivers, portage-routes and maple forest—the land of Shik'ul Ch'akal, in Northern Ki'ich'chik."
+description: "Lakes, rivers, portage routes and maple forest running to the eastern ocean—the land of the Woodland League, in Northern Ki'ich'chik."
 tags: [region]
 data:
   demonym: null
@@ -13,36 +13,36 @@ data:
   packFolder: xikulchakal
   government: xikulchakl
 
-# terran_analog: Ontario, Quebec in Canada—Eastern Great Lakes and boreal forest; the largest lakes of the eastern boundary are the Great Lakes
+# terran_analog: the Northeast and the Great Lakes: New York, New England, Ontario and Quebec; the largest lakes are the Great Lakes, and the copper country is Lake Superior's
 ---
 
 ## Overview
 
-Shik'ul Ch'akal Region is the land of [[affiliation-xikulchakl|Shik'ul Ch'akal]], and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
+Shik'ul Ch'akal Region is the land of [[affiliation-xikulchakl|Shik'ul Ch'akal]], the Woodland League, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
 
-Shik'ul Ch'akal—"Water Path" in Ki'ich'chik—encompasses a vast network of interconnected lakes, rushing rivers, and dense hardwood and boreal forests that stretch endlessly toward the northeastern horizon.
+Shik'ul Ch'akal, "the great lake" in Ki'ich'chik, is a country of interconnected lakes, rushing rivers and hardwood and pine forest that runs from the interior to the rocky shores of the eastern ocean.
 
 ## Geography
 
-Shik'ul Ch'akal is dominated by water in all its forms: a labyrinth of lakes ranging from vast inland seas hundreds of miles across to small pools hidden in the forest depths. The largest lakes of all form the eastern boundary, their waters so vast they seem almost oceanic. Connecting these lakes are rivers—some gently flowing, others wild and broken with rapids that can swallow canoes whole. The portage routes connecting different lake systems form a network of trails that the Ha'ik know intimately; a skilled canoeist can traverse the entire region by following these waterways, moving from any lake to any other with careful planning and weeks of travel.
+Water dominates the land in every form: lakes from small forest pools to inland seas hundreds of miles across, rivers broken by rapids that can swallow a canoe, and the portage trails that join one water to the next. The largest lakes lie along the League's western reach, so vast that they seem almost oceanic, and on the shores of the westernmost the copper lies in the ground pure enough to hammer. A canoeist who knows the portages can travel from any lake to any other, and the League's people know them all.
 
-The forests surrounding the waterways are mixed boreal and hardwood: spruce and pine provide shelter and materials, while maple, birch, and oak offer resources for tools, fuel, and food. The sugar maples of the southern portions of Ha'ik territory produce sap in spring, and the Ha'ik have developed elaborate syrup production and maple sugar crafting traditions that are traded throughout the northern frontier. The forests are productive in other ways as well; the Ha'ik gather roots, berries, nuts, and medicinal plants with systematic precision, and this botanical knowledge has developed into a sophisticated herbal medicine tradition that makes Ha'ik healers sought-after even by distant peoples.
+The forests are mixed: pine and spruce in the north, maple, birch, oak and chestnut in the south. The villages stand in the southern forests, where the League's women clear fields for maize, beans and squash, and every spring the sugar maples are tapped for sap. The forests also give game, nuts, berries and the medicinal plants that make League healers wanted across the north.
 
-The western and southwestern borders of Shik'ul Ch'akal shade gradually into the prairie lands of [[place-penqalchaklrgn|P'enqal Ch'akal]], creating a transitional zone of marshy forests and scattered meadows where the Ha'ik and Ts'okum maintain contested hunting grounds. The northwestern borders meet [[place-ixtemtzulrgn|Ishtem Tsul]] in a zone of boreal forest; here, the No'kin and Ha'ik maintain friendly trading relationships and shared hunting grounds. The southern boundary approaches the contested rivers of the [[place-hanalxilanrgn|Ha'nal Shi'lan Region]], and the southeastern approaches the mountains and swamplands of the [[place-tzumanotunrgn|Ts'uma No'tun Region]]. The nature of inter-tribal relations along these borders is largely unknown to Ki'ich'chik observers, though the occasional flow of goods between northern nations suggests that some form of trade exists among them—conducted entirely outside Ki'ich'chik knowledge or participation.
+East, the land comes down to the ocean in rocky shores, river mouths and fishing coves, and from that ocean come the Nordmen's longships. North, the forest thins into boreal country and then tundra, held only by small bands of caribou hunters, and from there come the peoples the arctic newcomers have driven south.
 
-## Trade
+## Borders and Trade
 
-Ki'ich'chik merchants report that the Ha'ik appear to serve as intermediaries in the movement of goods across the northern frontier—furs and hides from the western nations, herbal medicines, and fish products seem to flow through Ha'ik hands before reaching the border trading sites where Ki'ich'chik merchants are permitted to deal. The waterway network presumably allows for efficient bulk transport, though Ki'ich'chik traders have never been permitted to observe Ha'ik logistics firsthand.
+To the west the forest gives way to the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the League's western villages trade and fight with the Grass People. To the southwest lies [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the League contests with the River Kingdom, and beyond it the old ranges of the [[place-tzumanotunrgn|Ts'uma No'tun Region]].
 
-The maple sugar and maple syrup produced in Ha'ik territory command premium prices in southern markets; these products reach Ki'ich'chik through a chain of intermediaries, as the Ha'ik do not permit southern merchants into their sugar camps. Canoes of Ha'ik construction occasionally appear in southern hands, though the Ha'ik jealously guard their building techniques. Fish oil, furs, and water-lily roots (processed into a nutritious flour) represent steady trade goods, while unique items like carved bird figurines and beadwork fetch high prices from wealthy Ki'ich'chik collectors willing to pay the Ha'ik's non-negotiable terms.
+The League's canoes carry its copper, furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and on to the other nations. Its copper reaches every corner of the north, and the River Kingdom's engravers depend on it.
 
 ## See Also
 
 [[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: The realm that holds this land
+: the Woodland League, the nation that holds this land
 
 [[place-northkiichchik|Northern Ki'ich'chik]]
-: The enclosing region
+: the enclosing region
 
 [[place-xikulchakl2|Shik'ul Ch'akal]]
-: Seat of Shik'ul Ch'akal
+: the village the south counts as the League's seat

@@ -3,7 +3,7 @@ shortcode: ixtemtzulrgn
 name: {full: Ishtem Tsul Region, aliases: []}
 type: place
 subType: region
-description: "Boreal forest, subarctic plateau and caribou tundra—the land of Ishtem Tsul, in Northern Ki'ich'chik."
+description: "Mesas, canyons and irrigated lowlands on the northern rim of the desert—the land of the Mesa Towns, in Northern Ki'ich'chik."
 tags: [region]
 data:
   demonym: null
@@ -13,34 +13,32 @@ data:
   packFolder: ixtemtzul
   government: ixtemtzul
 
-# terran_analog: Alberta, Saskatchewan, and Manitoba in Canada
+# terran_analog: the Colorado Plateau and the Four Corners (Arizona, New Mexico, southern Utah and Colorado), with the Sonoran lowlands of the Hohokam to the south
 ---
 
 ## Overview
 
-Ishtem Tsul Region is the land of [[affiliation-ixtemtzul|Ishtem Tsul]], and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]].
-
-Ishtem Tsul—"Bear's Claw" in Ki'ich'chik—occupies the spine between east and west of the northern frontier, a vast territory of boreal forest, grassland, and subarctic plateau.
+Ishtem Tsul Region is the land of [[affiliation-ixtemtzul|Ishtem Tsul]], the Mesa Towns, and lies within [[place-northkiichchik|Northern Ki'ich'chik]] on the [[place-kiichchik|Ki'ich'chik Continent]]. It is the country where the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]] ends: a high land of flat-topped mesas, red and buff canyons and juniper uplands, with irrigated lowlands along its southern rivers.
 
 ## Geography
 
-Ishtem Tsul encompasses vast territories of striking diversity and extreme climate. The western portion, bordering [[place-ixbalkiahkrgn|Ish'bal Ki'ahk]], features high plateau and mountain foothills where coniferous forests stretch to the horizon. These lands receive heavy precipitation and snow, and the people of [[affiliation-ixbalkiahk|Ish'bal Ki'ahk]] (the Shak'nal) and the No'kin maintain contested hunting grounds along their border—a source of occasional friction, though active war between them is virtually unknown.
+The uplands are high, dry and cold in winter. Mesas stand above canyons cut by streams that run in spring and after summer storms and are dry most of the rest of the year. The towns farm the mesa tops and the canyon floors without irrigation, planting deep where the snowmelt has soaked in and building small check dams to hold the storm water. The great houses stand in the canyons and on the mesa rims, and the straight roads between them run over the tableland regardless of the ground, climbing cliffs by cut stairways.
 
-The central expanses of Ishtem Tsul comprise the true boreal forest: an immense landscape of spruce, larch, and pine interrupted by muskegs, small lakes, and winding river valleys. This is the heart of the bear-people's domain, where the forests seem to extend forever beneath a sky that hardly knows true darkness in summer or true light in winter. The climate is harsh—winters bring temperatures that kill the unprepared within hours, and the insect swarms of summer are themselves legendary torments. Yet these forests are not barren; they team with life for those who know how to read the signs: moose and elk, beaver whose lodges dot the rivers, countless birds and smaller game.
+To the south the land drops into the hot lowlands at the desert's edge, where rivers come down from the mountains and the towns lead their water out over the fields through miles of hand-dug canals. Beyond the last canal the desert begins.
 
-To the east, Ishtem Tsul transitions gradually into grassland and the edge of the arctic tundra. The tree line becomes ragged and broken here, and the No'kin follow the great caribou herds that migrate across these open spaces. The border between Ishtem Tsul and [[place-penqalchaklrgn|P'enqal Ch'akal]] is similarly fluid; where boreal forest meets prairie, the No'kin and the more restless people of [[affiliation-penqalchakal|P'enqal Ch'akal]], the Ts'okum Ts'omalil (Coyote People), maintain seasonal camps and trade posts, and disputes over hunting rights are settled through a combination of negotiation and occasional armed confrontation.
+Rain decides everything. A good year fills the storerooms of the great houses, and a run of dry years empties them; the rites of the ritual chambers are held to bring the rain.
 
-## Trade
+## Neighbors and Trade
 
-The No'kin maintain active trade relationships with all four of the other northern nations, but their greatest commercial contacts extend southward through the mountain passes of Ish'bal Ki'ahk and along river routes toward the [[place-hanalxilanrgn|Ha'nal Shi'lan]] borderlands. Hides, furs, and rendered fat flow south, with Ki'ich'chik merchants hungry for the highest-quality materials. In return, the No'kin acquire obsidian, jade, and craft materials that find their way north and east. Some No'kin traders venture into the subarctic territories beyond their claimed lands, trading for amber, arctic fox fur, and mysterious items whose origins remain obscure.
+The plains of [[place-penqalchaklrgn|P'enqal Ch'akal]], the Grass People's country, lie east of the mesas, and the towns trade cotton cloth, pottery and turquoise to the bands for meat and hides. The mountain country to the north and west is thinly held hunting ground. Southward, the routes across the desert begin in the Mesa Towns, and the traders and pilgrims who survive the crossing arrive at their southernmost towns first.
 
 ## See Also
 
 [[affiliation-ixtemtzul|Ishtem Tsul]]
-: The realm that holds this land
+: the Mesa Towns, the nation that holds this land
 
 [[place-northkiichchik|Northern Ki'ich'chik]]
-: The enclosing region
+: the enclosing region
 
 [[place-ixtemtzul2|Ishtem Tsul]]
-: Seat of Ishtem Tsul
+: the great house the south counts as the Mesa Towns' seat
