@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [northkiichchik]
-  population: null
+  population: 200000
   packFolder: ixbalkiahk
   government: ixbalkiahk
 

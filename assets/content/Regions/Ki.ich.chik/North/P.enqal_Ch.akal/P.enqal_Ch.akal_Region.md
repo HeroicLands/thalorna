@@ -9,7 +9,7 @@ data:
   demonym: null
   lore: [humanflk]
   parents: [northkiichchik]
-  population: null
+  population: 300000
   packFolder: penqalchakal
   government: penqalchakal
 
