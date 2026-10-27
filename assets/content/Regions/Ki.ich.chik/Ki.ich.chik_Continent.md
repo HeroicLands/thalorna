@@ -68,7 +68,7 @@ The south knows them by Ki'ich'chik names, and the nation-names are exonyms its 
 
 Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Woodland League and the River Kingdom, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Mesa Towns hold its northern gate.
 
-Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Mesa Towns first and the River Kingdom after them. [[lore-nordheimnclt|Nordmen]] sail across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the League's coast. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
+Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Mesa Towns first and the River Kingdom after them. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean three times in twenty-one years and raided the League's coast a year ago; the League does not yet understand them. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
 
 ## Culture and Society
 

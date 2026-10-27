@@ -61,7 +61,7 @@ The north works copper. It comes out of the ground pure in the League's lake cou
 Three dangers press on the north, and each falls on one nation first.
 
 - **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Mesa Towns first and the River Kingdom after them.
-- **The sea raiders.** [[lore-nordheimnclt|Nordmen]] sail longships across the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] and raid the coast of the Woodland League.
+- **The sea raiders.** [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean in longships three times in twenty-one years, and the last time was a year ago. The Woodland League watched two of the crossings from its coast and understands neither the men nor their purpose ([[lore-westrnvoyages|The Western Voyages]]).
 - **The newcomers from the ice.** Kin of the Ice-Coast Hunters are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the League's northern edge.
 
 Whether a danger to one nation is a danger to all is the question the compact argues every summer and has never settled.

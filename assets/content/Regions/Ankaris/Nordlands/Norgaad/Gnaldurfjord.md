@@ -30,7 +30,14 @@ Gnaldurfjord is known throughout Norgaad as a place where the veil between world
 
 The village sustains itself by fishing, by hunting seal and whale, and by trade with other fjord settlements. In summer, merchant ships occasionally venture in for furs, amber and the seid's own cryptic carvings, runes that she claims carry the weight of prophecy.
 
+## The Boats That Went West
+
+Gnaldurfjord is the only place in the north whose boats have crossed the western ocean. The household of [Hafthann the Surf-Farer]{.name data-type="being/npc"}, a whaling jarl, made a probing crossing in 699 and led three longboats west in 707, when a storm swamped two of them and drowned him with thirty-five of his men. His son [Skeldvir Hafthannsen]{.name data-type="being/npc"} brought one boat home from a modest raid in 719, with a few thralls and some artifacts that now sit on the household's shelves. The widows of 707 and the whalers who need every oar at home argue against another voyage, and Skeldvir and the younger men argue for it. Nothing has settled the question, and [[lore-westrnvoyages|The Western Voyages]] tells all three crossings and both sides of it.
+
 ## See Also
+
+[[lore-westrnvoyages|The Western Voyages]]
+: the crossings made from the fjord, and the argument over the next
 
 [[affiliation-kingdmnrgd|Kingdom of Norgaad]]
 : the kingdom whose western coast it lies on

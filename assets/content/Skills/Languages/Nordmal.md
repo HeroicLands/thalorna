@@ -6116,6 +6116,8 @@ data:
     - {name: Jarl, tongue: nordmal}
     - {name: Hersvald, tongue: nordmal}
     - {name: Ódvarsholl, tongue: nordmal}
+    - {name: Hafthann, tongue: nordmal}
+    - {name: Skeldvir Hafthannsen, tongue: nordmal}
   retired:
     - {form: vatn, instead: vatan, why: "an Earth word"}
     - {form: hrafn, instead: hrafan, why: "an Earth word"}

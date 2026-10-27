@@ -28,7 +28,7 @@ Water dominates the land in every form: lakes from small forest pools to inland 
 
 The forests are mixed: pine and spruce in the north, maple, birch, oak and chestnut in the south. The villages stand in the southern forests, where the League's women clear fields for maize, beans and squash, and every spring the sugar maples are tapped for sap. The forests also give game, nuts, berries and the medicinal plants that make League healers wanted across the north.
 
-East, the land comes down to the ocean in rocky shores, river mouths and fishing coves, and from that ocean come the Nordmen's longships. North, the forest thins into boreal country and then tundra, held only by small bands of caribou hunters, and from there come the peoples the arctic newcomers have driven south.
+East, the land comes down to the ocean in rocky shores, river mouths and fishing coves, and from that ocean, twice in twenty-one years and most recently a year ago, have come the Nordmen's longships. North, the forest thins into boreal country and then tundra, held only by small bands of caribou hunters, and from there come the peoples the arctic newcomers have driven south.
 
 ## Borders and Trade
 
