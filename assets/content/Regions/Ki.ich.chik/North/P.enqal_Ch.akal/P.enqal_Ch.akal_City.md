@@ -3,7 +3,7 @@ shortcode: penqalchakal2
 name: {full: P'enqal Ch'akal, aliases: []}
 type: place
 subType: settlement
-description: "The Ki'ich'chik reckoning of the Coyote People's seat on the northern grasslands, where trade, tribute and plunder shade into one another."
+description: "The largest earth-lodge village of the Grass People, where the hunting bands come each autumn to trade meat and hides for corn."
 tags: [city, draft]
 data:
   demonym: null
@@ -15,20 +15,20 @@ data:
 
 ## Overview
 
-Ki'ich'chik merchants who deal in P'enqal Ch'akal begin by deciding which clan to pay. The seat of [[affiliation-penqalchakal|P'enqal Ch'akal]], the nation of the Ts'okum Ts'omalil (the Coyote People), is reckoned at about 1,500 people, in the endless grasslands at the center of the northern frontier, where the great herds of bison and elk follow routes worn smooth by centuries, and knowing where the herds are heading is the first skill a child learns. Of the five northern nations, the Ts'okum are the most immediately dangerous to Ki'ich'chik interests.
+In autumn the hunting bands walk in off the grass with their dogs dragging travois piled with dried meat and hides, set up their lodges outside the palisade, and the trading begins. The south calls this village P'enqal Ch'akal, after the nation, and counts it as the seat of the [[affiliation-penqalchakal|Grass People]]: about 1,500 people in round earth lodges on a terrace above a river, with their maize and squash fields on the bottomland below. No band or village of the plains takes orders from it, but more of the plains' trade passes through it than through any other place.
 
-## Raiders and Traders
+## The Autumn Trading
 
-The Ts'okum are mounted warriors, and their tactical speed, signaled across miles with hand signs and calls, has defeated Ki'ich'chik armies built for jungle and highland war. Young Ts'okum compete for prestige through increasingly daring raids, and they raid across the [[place-chakultzklrgn|Ch'akul Tsa'kul barrier]] into Ki'ich'chik lands with alarming frequency. In P'enqal Ch'akal, "tribute," "trade" and "plunder" are not always different things: some traders keep formal relationships with particular clans and pay for safe passage, an arrangement that works and has to be renegotiated constantly. The merchants put up with it for the herd products, and because the road north runs through Ts'okum land.
+The village chooses a Village Speaker to deal with the bands, and the bargaining is the same every year and never easy: corn, beans and squash against meat, fat, hides and robes. A warrior society from the bands keeps the peace in the camp while it lasts. The two sides need each other and do not entirely trust each other. In a lean year a band that thinks the price unfair may come back in winter for the corn it was refused, and the village keeps its palisade in repair for that reason.
 
-## What Comes Back
+## What Comes In
 
-The wealth that comes in lets the Ts'okum buy steel blades, obsidian ornaments, feathered cloaks and dyed textiles, which mark the status of wealthy clans, and what they sell is hides, rendered fat, spectacular beadwork and decorated armor.
+The village trades on to the east and the southwest: robes and hides to the Woodland League and the River Kingdom, and to the Mesa Towns for cotton cloth, pottery and turquoise. Now and then a southern good comes up the trails from the Mesa Towns, a macaw feather or a copper bell, and a war leader who gets one wears it.
 
 ## See Also
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
-: the Coyote People and their nation
+: the Grass People and their nation
 
 [[place-penqalchaklrgn|P'enqal Ch'akal Region]]
 : the grasslands

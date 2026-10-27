@@ -10,7 +10,7 @@ data: {demonym: null, lore: [], parents: [chakultzklrgn], population: 0}
 
 ## Overview
 
-Ch'akul Tsa'kul, the Thirsty Land, is a hot, deadly desert barrier between the five Indigenous nations to the north and Ki'ich'chik civilization to the south. This site is abandoned and uninhabited; no settlement remains here.
+Ch'akul Tsa'kul, the Thirsty Land, is a hot, deadly desert between the five nations of the north and Ki'ich'chik civilization to the south, crossed each year by a few traders and pilgrims. This site is abandoned and uninhabited; no settlement remains here.
 
 ## Posts and Oases
 
@@ -18,7 +18,7 @@ No staffed oasis, trading post, or seasonal settlement operates in the desert. A
 
 ## Guides and Ruins
 
-Ancient ruins are scattered across the desert. Travelers may attempt to reach them, but the passage is dangerous and there are no resident guides or traders. Anyone crossing needs water, preserved food, and spare pack animals for those that may die.
+Ancient ruins are scattered across the desert. Travelers may attempt to reach them, but the passage is dangerous and there are no resident guides or traders. Anyone crossing needs water, preserved food, and porters enough to carry both, with spares for those who fall.
 
 ## See Also
 

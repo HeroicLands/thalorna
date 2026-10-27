@@ -246,7 +246,7 @@ A low, clicking noise reaches you across the snow, a sound like thousands of dry
 
 # Dossier {#dossier}
 
-The Reindeer is the deer of the far north, three to four feet at the shoulder and three to five hundred pounds, the only deer in which both sexes grow antlers. Wild herds of thousands cross the tundra and pine forest of the [[place-nrdlndsrgn|Nordlands]] and the subarctic plateau of [[place-ixtemtzulrgn|Ishtem Tsul]] in seasonal migrations that have followed the same routes for millennia. The northern peoples and the highland clans use every part: transport, milk, leather, sinew, bone tools and meat.
+The Reindeer is the deer of the far north, three to four feet at the shoulder and three to five hundred pounds, the only deer in which both sexes grow antlers. Wild herds of thousands cross the tundra and pine forest of the [[place-nrdlndsrgn|Nordlands]] and the subarctic north of [[place-northkiichchik|Northern Ki'ich'chik]] in seasonal migrations that have followed the same routes for millennia. The northern peoples and the highland clans use every part: transport, milk, leather, sinew, bone tools and meat.
 
 ## Presentation
 
@@ -254,7 +254,7 @@ A compact, broad-chested deer on short, powerful legs ending in wide, splayed ho
 
 ## In the Land
 
-Reindeer, called caribou in the north, live in great herds on the tundra and the pine forest of the Nordlands and on the subarctic plateau of Ishtem Tsul. A herd of hundreds moves in spring from the sheltered winter forest to the summer tundra and back in autumn, by routes led by the old cows, and crosses the same rivers at the same fords each year. The cold slows nothing; the herd feeds by pawing the snow away from lichen.
+Reindeer, called caribou in the north, live in great herds on the tundra and the pine forest of the Nordlands and on the tundra of Northern Ki'ich'chik. A herd of hundreds moves in spring from the sheltered winter forest to the summer tundra and back in autumn, by routes led by the old cows, and crosses the same rivers at the same fords each year. The cold slows nothing; the herd feeds by pawing the snow away from lichen.
 
 ## Key Behaviors
 

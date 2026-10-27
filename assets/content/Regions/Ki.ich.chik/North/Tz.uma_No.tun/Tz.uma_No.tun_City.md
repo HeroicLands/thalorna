@@ -3,30 +3,35 @@ shortcode: tzumanotun2
 name: {full: Ts'uma No'tun, aliases: []}
 type: place
 subType: settlement
-description: "The Ki'ich'chik reckoning of the Serpent People's seat in the swamps of the northeast, treated as impassable by border commanders."
+description: "The chief mound city of the River Kingdom, seat of the Great Sun, on the floodplain of the great river."
 tags: [city, draft]
-data: {demonym: null, lore: [], parents: [tzumanotunrgn], population: 2500, government: tzumanotun}
+data:
+  demonym: null
+  lore: []
+  parents: [tzumanotunrgn]
+  population: 15000
+  government: tzumanotun
 ---
 
 ## Overview
 
-Border commanders treat Ts'uma No'tun as effectively impassable. The seat of [[affiliation-tzumanotun|Ts'uma No'tun]], the nation of the Ch'akun Ts'omalil (the Serpent People), is reckoned at about 2,500 people, in the northeast of the frontier, where ancient forested mountains descend through piedmont into swamp, river delta and coastal wetland. Of all the northern nations, the Ch'akun are the most feared: masters of poisons, ambush and strikes that come from darkness and leave no trace. No Ki'ich'chik scholar has been admitted to their lands and returned with a reliable account.
+From the river the first thing a traveler sees is the great mound, a flat-topped hill of earth higher than any tree on the floodplain, with the Great Sun's house on its summit. The south calls the city Ts'uma No'tun, after the nation, and it is the seat of the [[affiliation-tzumanotun|River Kingdom]]: about 15,000 people on the floodplain of the great river, in the largest city of the north.
 
-## What Is Inferred
+## The City
 
-Ki'ich'chik observers judge from the coordination of Ch'akun military operations that the Serpent People are more organized and centralized than the other northern nations. Some accounts give their leaders the title "Ch'akun Nah," Serpent Lords, though it may be a Ki'ich'chik invention. The Ch'akun build great earth mounds, which serve as gathering places for seasonal ceremonies and councils, as burial places, as places for astronomical observation and as vantage points; they are not permanent settlements. The swamps are a refuge and a weapon, and the Ch'akun move through them with effortless mastery.
+The great mound faces a plaza of beaten earth large enough to hold the whole city at a festival, and lesser mounds stand around it: platforms for the houses of the Nobles and the temple where the Keepers of the Fire tend the fire that never goes out, and conical mounds over the noble dead. A palisade of logs encloses the center. Beyond it the commoners' houses and fields spread across the floodplain, and the craft quarters where copper is embossed and shell engraved work for the Nobles. On a festival day the plaza is given over to the rolling-stone game, and the wagering empties purses across the city.
 
-## Trade
+## The Kingdom's Seat
 
-The Ch'akun act as middlemen for southern goods in the north and carefully control access to the most valuable ones. They sell finished products only, never raw materials: poisons, herbal medicines, preserved foods and rare items of spiritual power. Ki'ich'chik physicians who have analyzed the medicines report extraordinary potency and have identified neither the source plants nor the preparation. Transactions with Ki'ich'chik merchants happen only in the contested borderlands, on Ch'akun terms, briefly, and through intermediaries who may or may not be Ch'akun.
+The Great Sun governs from the great mound, and every Noble of the heartland comes to the city to bring tribute, to watch the game and to be seen. The coastal chiefs come less often and stay as briefly as they decently can. When a Sun dies the city buries him in the mound with his goods, and the quarrel over who is buried with him begins again.
 
 ## See Also
 
 [[affiliation-tzumanotun|Ts'uma No'tun]]
-: the Serpent People and their nation
+: the River Kingdom and its nation
 
 [[place-tzumanotunrgn|Ts'uma No'tun Region]]
-: the mountains and the swamps
+: the river valley, the ranges and the coasts
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: the borderlands where trade with them happens
+: the frontier the kingdom contests to the northeast
