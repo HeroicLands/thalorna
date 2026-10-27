@@ -32,9 +32,9 @@ East, the land comes down to the ocean in rocky shores, river mouths and fishing
 
 ## Borders and Trade
 
-To the west the forest gives way to the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the League's western villages trade and fight with the Grass People. To the southwest lies [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the League contests with the River Kingdom, and beyond it the old ranges of the [[place-tzumanotunrgn|Ts'uma No'tun Region]].
+To the west the forest gives way to the grassland of [[place-penqalchaklrgn|P'enqal Ch'akal]], where the League's western villages trade and fight with the Grass People. To the southwest lies [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier the League contests with the One Fire, and beyond it the old ranges of the [[place-tokchiaskargn|Tokchi Aska Region]].
 
-The League's canoes carry its copper, furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and on to the other nations. Its copper reaches every corner of the north, and the River Kingdom's engravers depend on it.
+The League's canoes carry its copper, furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and on to the other nations. Its copper reaches every corner of the north, and the One Fire's engravers depend on it.
 
 ## See Also
 

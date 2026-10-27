@@ -17,7 +17,7 @@ data:
 
 ## Overview
 
-Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the River Kingdom holds 1,500,000 of them and the Woodland League 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar Kingdom 200,000, the Mesa Towns 150,000 and the Ice-Coast Hunters 50,000, while about 200,000 more live in boreal and other bands outside every polity.
+Northern Ki'ich'chik is the part of the continent that the southern city-states do not rule and barely know: everything north of the desert of [[place-chakultzklrgn|Ch'akul Tsa'kul]], from the lake country of the northeast to the cedar coast of the west. Five nations hold most of it, rivals with standing grievances who are bound by one agreement, the [[affiliation-redstncmpct|Red Stone Compact]], to stand together when an outsider comes. Two smaller peoples on the western coast and in the far northwest stay outside it. About 3,500,000 people live in the north: the One Fire holds 1,500,000 of them and the Woodland League 750,000, the Shell-Bead Towns 350,000, the Grass People 300,000, the Cedar Kingdom 200,000, the Mesa Towns 150,000 and the Ice-Coast Hunters 50,000, while about 200,000 more live in boreal and other bands outside every polity.
 
 The north is a land of copper and maize, longhouse and mound, buffalo jump and great house, and none of it is written. Its peoples keep their law, their treaties and their histories in memory, and they refuse the speech and the glyphs of the south.
 
@@ -28,8 +28,8 @@ Each nation is a confederacy of many towns or bands that share a family of langu
 [[affiliation-xikulchakl|Woodland League]]
 : Shik'ul Ch'akal in the south's tongue, the Otter People. Palisaded longhouse villages of the northeastern lakes and forests, governed by consensus councils whose chiefs are chosen and deposed by the clan mothers. The League is the compact's diplomat and its memory, and it distrusts kings on principle.
 
-[[affiliation-tzumanotun|River Kingdom]]
-: Ts'uma No'tun, the Serpent People. Mound cities in the valley of the great river, ruled by paramount chiefs who claim descent from the Sun, with seafaring provinces on the southern shell coasts and the old eastern ranges at its back. It is the richest and most populous nation, the most centralized, and the one the others trust least.
+[[affiliation-tokchiaska|One Fire]]
+: Tokchi Aska in its own tongue, Ts'uma No'tun in the south's, the Serpent People. Mound cities in the valley of the great river, ruled by paramount chiefs who claim descent from the Sun, with seafaring provinces on the southern shell coasts and the old eastern ranges at its back. It is the richest and most populous nation, the most centralized, and the one the others trust least.
 
 [[affiliation-penqalchakal|Grass People]]
 : P'enqal Ch'akal, the Coyote People. Hunting bands that follow the herds on foot with dogs and travois, and farming villages of earth lodges along the rivers. Their hunt chiefs and war leaders hold power for a season, and warrior societies police the communal hunts.
@@ -48,19 +48,19 @@ The [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest tak
 
 ## The Desert and the South
 
-Ch'akul Tsa'kul is a filter, not a wall. Every year a few southern traders and pilgrims cross it, and now and then an expedition, and what they carry north is small, light and precious: cacao, scarlet macaw feathers and cast copper bells. In the north these are the goods of chiefs. A Mesa Towns great house keeps live macaws for their feathers, a River Kingdom noble drinks cacao at a feast, and a chief of the League may be buried with a copper bell that crossed the desert before he was born.
+Ch'akul Tsa'kul is a filter, not a wall. Every year a few southern traders and pilgrims cross it, and now and then an expedition, and what they carry north is small, light and precious: cacao, scarlet macaw feathers and cast copper bells. In the north these are the goods of chiefs. A Mesa Towns great house keeps live macaws for their feathers, a One Fire noble drinks cacao at a feast, and a chief of the League may be buried with a copper bell that crossed the desert before he was born.
 
 The Mesa Towns keep the northern gate. They receive the southern traders, decide what goes on and at what price, and pass the goods along to the other nations. That makes them the north's best informed nation about the south, and the most suspected.
 
 ## Copper Against Steel
 
-The north works copper. It comes out of the ground pure in the League's lake country, and smiths hammer it cold into plates, blades, beads and the embossed sheets the River Kingdom's nobles wear. Nobody in the north smelts ore. The south fights in steel blades and iron-headed spears, and the richest southern warriors wear steel breastplates. Every northern chief knows the difference, and it is the plainest reason the compact exists: no one nation could meet a southern army alone.
+The north works copper. It comes out of the ground pure in the League's lake country, and smiths hammer it cold into plates, blades, beads and the embossed sheets the One Fire's nobles wear. Nobody in the north smelts ore. The south fights in steel blades and iron-headed spears, and the richest southern warriors wear steel breastplates. Every northern chief knows the difference, and it is the plainest reason the compact exists: no one nation could meet a southern army alone.
 
 ## Three Threats
 
 Three dangers press on the north, and each falls on one nation first.
 
-- **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Mesa Towns first and the River Kingdom after them.
+- **The south.** Expeditions probing north across Ch'akul Tsa'kul reach the Mesa Towns first and the One Fire after them.
 - **The sea raiders.** [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean in longships three times in twenty-one years, and the last time was a year ago. The Woodland League watched two of the crossings from its coast and understands neither the men nor their purpose ([[lore-westrnvoyages|The Western Voyages]]).
 - **The newcomers from the ice.** Kin of the Ice-Coast Hunters are moving east along the arctic coasts with better boats and harpoons than the peoples they find there, and those older peoples are pushed south toward the League's northern edge.
 
@@ -68,9 +68,9 @@ Whether a danger to one nation is a danger to all is the question the compact ar
 
 ## The Land Between
 
-[[place-hanalxilanrgn|Ha'nal Shi'lan]] is the wooded river frontier between the Woodland League and the River Kingdom, which both claim and neither holds. Its trading posts are where the goods of the east change hands, and its raids are the oldest grievance the compact contains.
+[[place-hanalxilanrgn|Ha'nal Shi'lan]] is the wooded river frontier between the Woodland League and the One Fire, which both claim and neither holds. Its trading posts are where the goods of the east change hands, and its raids are the oldest grievance the compact contains.
 
-The [Red Quarry]{.name data-type="place/site"}, where the compact's council meets, lies on the prairie where the lands of the Grass People, the League and the River Kingdom meet. No blood may be shed there.
+The [Red Quarry]{.name data-type="place/site"}, where the compact's council meets, lies on the prairie where the lands of the Grass People, the League and the One Fire meet. No blood may be shed there.
 
 North of the League and the grasslands, the boreal forest runs out into tundra. It is sparse hunting country, held by small bands of caribou hunters at the edge of the League's reach and the Ice-Coast Hunters' coast.
 

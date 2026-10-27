@@ -192,7 +192,7 @@ The black water is still between the cypress knees, and the canoe has stopped be
 
 # Dossier {#dossier}
 
-The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The only one known has been seen in [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, the great marsh in the southeastern swamp country of [[place-tzumanotunrgn|Ts'uma No'tun]], the land of the River Kingdom.
+The Voidserpent is a being from the spaces between worlds: a serpent thirty feet long or more, made of something between matter and nothing, older than the gods if the oldest accounts are right and stranger than any mortal mind can follow. It moves by purposes no one has fathomed, passing through solid things, warping space and time round itself, and draining whatever it touches. It is extraordinarily rare. The only one known has been seen in [Ne' P'uqan]{.name data-type="place/feature"}, the Black Water, the great marsh in the southeastern swamp country of [[place-tokchiaskargn|Tokchi Aska Region]], the land of the One Fire.
 
 ## Presentation
 
@@ -208,7 +208,7 @@ A voidserpent does not behave like a creature. It follows paths and purposes inv
 
 ## What the Swamp Towns Do
 
-The River Kingdom's towns on the edge of the Black Water have one rule for the voidserpent: get out of its way and let it pass. A canoe that sees it turns back down the channel it came by and does not stop until it has rounded a bend. Among the coiled serpents that the swamp towns' carvers cut on posts and paddles, the serpents that give the Serpent People their Ki'ich'chik name, is a coiled shape drawn with stars inside it, and the heartland's priests argue whether the swamp towns honor the voidserpent, fear it, or know how to move it. The swamp towns do not say. When it has been seen, the town priests keep fires and lamps burning through the night, and say nothing about what it is.
+The One Fire's towns on the edge of the Black Water have one rule for the voidserpent: get out of its way and let it pass. A canoe that sees it turns back down the channel it came by and does not stop until it has rounded a bend. Among the coiled serpents that the swamp towns' carvers cut on posts and paddles, the serpents that give the Serpent People their Ki'ich'chik name, is a coiled shape drawn with stars inside it, and the heartland's priests argue whether the swamp towns honor the voidserpent, fear it, or know how to move it. The swamp towns do not say. When it has been seen, the town priests keep fires and lamps burning through the night, and say nothing about what it is.
 
 ## Signs
 

@@ -30,11 +30,11 @@ The herds are the plains' defining feature. Bison and elk move across the grass 
 
 ## Borders
 
-West, the plains climb into the foothills and the mountain valleys, where the bands hunt elk and sheep in summer, and southwest they meet the mesa and canyon country of the [[affiliation-ixtemtzul|Mesa Towns]]. East, the grass gives way to the forests of the [[affiliation-xikulchakl|Woodland League]] and to the valley of the great river, the heartland of the [[affiliation-tzumanotun|River Kingdom]], whose western towns the bands raid and trade with in turn. In the northeast, where grass, forest and river country meet, lies the [Red Quarry]{.name data-type="place/site"}, the bloodless ground where the [[affiliation-redstncmpct|Red Stone Compact]] holds its council each summer. North, the grass thins into parkland and then the boreal forest.
+West, the plains climb into the foothills and the mountain valleys, where the bands hunt elk and sheep in summer, and southwest they meet the mesa and canyon country of the [[affiliation-ixtemtzul|Mesa Towns]]. East, the grass gives way to the forests of the [[affiliation-xikulchakl|Woodland League]] and to the valley of the great river, the heartland of the [[affiliation-tokchiaska|One Fire]], whose western towns the bands raid and trade with in turn. In the northeast, where grass, forest and river country meet, lies the [Red Quarry]{.name data-type="place/site"}, the bloodless ground where the [[affiliation-redstncmpct|Red Stone Compact]] holds its council each summer. North, the grass thins into parkland and then the boreal forest.
 
 ## Trade
 
-The bands trade with the earth-lodge villages above all: meat, hides and fat for corn, beans and squash, at an autumn trading that is part market and part truce. Robes and hides go on east to the League and the River Kingdom, and southwest to the Mesa Towns for cotton cloth, pottery and turquoise.
+The bands trade with the earth-lodge villages above all: meat, hides and fat for corn, beans and squash, at an autumn trading that is part market and part truce. Robes and hides go on east to the League and the One Fire, and southwest to the Mesa Towns for cotton cloth, pottery and turquoise.
 
 ## See Also
 

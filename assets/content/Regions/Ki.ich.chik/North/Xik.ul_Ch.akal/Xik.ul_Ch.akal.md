@@ -44,7 +44,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {redstncmpct: aligned, tzumanotun: rival}
+  relations: {redstncmpct: aligned, tokchiaska: rival}
   packFolder: xikulchakal
 sohl: {system: {commonSkills: []}}
 
@@ -62,7 +62,7 @@ The League is a confederacy of nations, each a cluster of palisaded villages. A 
 
 The League is proud of its government and suspicious of everyone else's. Descent runs through the mother, and each clan is headed by a clan mother, chosen by its women. She names the clan's chief and can take the title back from him. Chiefs sit in their village's council, villages send chiefs to their nation's council, and the nations meet in a great council of the League. Every council decides by consensus: nothing is done until everyone present has spoken, been answered and agreed, and a hard question can take days of oratory.
 
-The League has no king and wants none. Its people hold hereditary rule to be the thing their councils exist to prevent, and they say so to the River Kingdom's Suns at every council of the [[affiliation-redstncmpct|Red Stone Compact]]. In the compact the League is the diplomat and the memory: its Rememberers open each summer council by reciting the agreements of past ones, and its speakers carry more of the compact's business than any other nation's.
+The League has no king and wants none. Its people hold hereditary rule to be the thing their councils exist to prevent, and they say so to the One Fire's Suns at every council of the [[affiliation-redstncmpct|Red Stone Compact]]. In the compact the League is the diplomat and the memory: its Rememberers open each summer council by reciting the agreements of past ones, and its speakers carry more of the compact's business than any other nation's.
 
 ## War
 
@@ -70,11 +70,11 @@ The League's wars are small and personal. When a death leaves a gap in a clan, a
 
 ## Neighbors and Threats
 
-The League contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the River Kingdom, and each accuses the other of raiding there. The Grass People raid its western villages. Two dangers fall on the League before anyone else: [[lore-nordheimnclt|Nordmen]] who cross the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] in longships and raid its coast, and the peoples of the arctic fringe, who are being pushed south by newcomers from the ice into the hunting country at its northern edge.
+The League contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the river frontier to the southwest, with the One Fire, and each accuses the other of raiding there. The Grass People raid its western villages. Two dangers fall on the League before anyone else: [[lore-nordheimnclt|Nordmen]] who cross the eastern ocean from the [[place-nrdlndsrgn|Nordlands]] in longships and raid its coast, and the peoples of the arctic fringe, who are being pushed south by newcomers from the ice into the hunting country at its northern edge.
 
 ## Trade
 
-The League's lake country is where the north's copper comes from: it lies in the ground pure, and the League's smiths hammer it cold into blades, awls and sheets that the other nations want. Canoes carry it with furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and beyond. Southern goods reach the League last and fewest, by way of the Mesa Towns and the River Kingdom.
+The League's lake country is where the north's copper comes from: it lies in the ground pure, and the League's smiths hammer it cold into blades, awls and sheets that the other nations want. Canoes carry it with furs, maple sugar and dried fish along the waterways to Ha'nal Shi'lan and beyond. Southern goods reach the League last and fewest, by way of the Mesa Towns and the One Fire.
 
 ## See Also
 
@@ -82,10 +82,10 @@ The League's lake country is where the north's copper comes from: it lies in the
 : the compact the League remembers for the other four nations
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: the river frontier it contests with the River Kingdom
+: the river frontier it contests with the One Fire
 
-[[affiliation-tzumanotun|Ts'uma No'tun]]
-: the River Kingdom, its rival to the southwest
+[[affiliation-tokchiaska|Tokchi Aska]]
+: the One Fire, its rival to the southwest
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
 : the Grass People, on the plains to the west
