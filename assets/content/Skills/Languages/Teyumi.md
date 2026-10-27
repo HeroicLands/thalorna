@@ -5773,24 +5773,24 @@ data:
     pattern: ["{given}", "{given} of the {clan}"]
     given:
       female:
-        - "Tseyahesi"
-        - "Hepuluma"
-        - "Omalohesi"
-        - "Yalutseya"
-        - "Lumasana"
-        - "Sumihesi"
-        - "Muvasana"
-        - "Teyuhesi"
+        - "tseyahesi"
+        - "hepuluma"
+        - "omalohesi"
+        - "yalutseya"
+        - "lumasana"
+        - "sumihesi"
+        - "muvasana"
+        - "teyuhesi"
       male:
-        - "Lumawesa"
-        - "Teyuwesa"
-        - "Waimahalu"
-        - "Omalohalu"
-        - "Huvowesa"
-        - "Kowahesi"
-        - "Ponuwesa"
-        - "Kenuvawesa"
-    clan: ["Omalomi", "Tseyami", "Lumami", "Waimami", "Matsaumi", "Hesimi"]
+        - "lumawesa"
+        - "teyuwesa"
+        - "waimahalu"
+        - "omalohalu"
+        - "huvowesa"
+        - "kowahesi"
+        - "ponuwesa"
+        - "kenuvawesa"
+    clan: ["omalomi", "tseyami", "lumami", "waimami", "matsaumi", "hesimi"]
   sounds:
     edges:
       - {edge: openCluster, sounds: [kw]}
