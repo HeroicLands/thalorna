@@ -29,6 +29,7 @@ languages:
     nord: { tag: art-x-nord, note: skill-nordmalng }
     nyal: { tag: art-x-nyal, note: skill-nyalbnlng }
     okha: { tag: art-x-okha, note: skill-okharclng }
+    oset: { tag: art-x-oset, note: skill-osetakonalng }
     oske: { tag: art-x-oske, note: skill-osketlng }
     prov: { tag: art-x-prov, note: skill-provnzlng }
     sina: { tag: art-x-sina, note: skill-sinalelng }

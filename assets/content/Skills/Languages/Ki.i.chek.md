@@ -3462,7 +3462,6 @@ data:
     - {name: Shelem Ish'bal Region, tongue: translation}
     - {name: Shelem Region, tongue: translation}
     - {name: Shik'ul Ch'akal, tongue: kiichek}
-    - {name: Shik'ul Ch'akal Region, tongue: translation}
     - {name: Shilan Ish'lan, tongue: kiichek}
   retired:
     - {form: Ts'ib, instead: P'ilam, why: an Earth word for writing}

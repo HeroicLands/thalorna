@@ -51,8 +51,8 @@ The north is held by five nations outside Ki'ich'chik culture. Each is a confede
 
 The south knows them by Ki'ich'chik names, and the nation-names are exonyms its merchants and border scouts took from the animals on war-standards and camp-markings. These pages call each nation by its own description.
 
-[[affiliation-xikulchakl|Woodland League]]
-: Shik'ul Ch'akal, the Ha'ik Ts'omalil ("Otter People" in Ki'ich'chik): farmers of the northeastern lakes and forests, governed by councils whose chiefs the clan mothers choose
+[[affiliation-osetakona|Maple People]]
+: the Osetakona in their own tongue and Shik'ul Ch'akal, the Otter People, in the south's: farmers of the northeastern lakes and forests, governed by councils whose speakers the clan mothers name
 
 [[affiliation-tokchiaska|One Fire]]
 : Tokchi Aska in its own tongue; Ts'uma No'tun, the Ch'akun Ts'omalil ("Serpent People"), in Ki'ich'chik: mound cities in the great river valley under Sun-born paramount chiefs, with seafaring provinces on the southern coasts
@@ -66,9 +66,9 @@ The south knows them by Ki'ich'chik names, and the nation-names are exonyms its 
 [[affiliation-ixbalkiahk|Cedar Kingdom]]
 : Ish'bal Ki'ahk, the Shak'nal Ts'omalil ("Eagle People"): salmon fishers and carvers of the far western coast, ranked under a paramount house
 
-Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Woodland League and the One Fire, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Turquoise People hold its northern gate.
+Two smaller peoples stand outside the compact: the [Shell-Bead Towns]{.name data-type="lore/culture"} of the southwestern coast and the [Ice-Coast Hunters]{.name data-type="lore/culture"} of the far northwest. [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier between the Maple People and the One Fire, is contested by both. Ch'akul Tsa'kul, the great southern desert, is claimed by no nation, and the Turquoise People hold its northern gate.
 
-Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Turquoise People first and the One Fire after them. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean three times in twenty-one years and raided the League's coast a year ago; the League does not yet understand them. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
+Three outside threats press on the north. Ki'ich'chik expeditions probe north across the desert, against the Turquoise People first and the One Fire after them. [[lore-nordheimnclt|Nordmen]] from the [[place-nrdlndsrgn|Nordlands]] have crossed the eastern ocean three times in twenty-one years and raided the Maple People's coast a year ago; the Maple People do not yet understand them. In the far north, kin of the Ice-Coast Hunters are moving east along the arctic coasts and driving older peoples before them. The north works hammered copper and the south fights in steel, so no northern nation expects to meet a southern army alone.
 
 ## Culture and Society
 

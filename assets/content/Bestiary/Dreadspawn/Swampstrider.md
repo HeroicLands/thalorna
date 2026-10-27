@@ -271,7 +271,7 @@ The portage trail comes down through maples to a reedy bay of the lake, where th
 
 # Dossier {#dossier}
 
-The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of [[place-xikulchaklrgn|Shik'ul Ch'akal]] in [[place-northkiichchik|Northern Ki'ich'chik]], the country of lakes, rivers and portage-routes that the Ha'ik of [[affiliation-xikulchakl|Shik'ul Ch'akal]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
+The Swampstrider is a dreadspawn shaped like a gigantic frog, twelve to eighteen feet long and two hundred pounds, which lies in wait in shallow water and takes its prey with a sticky tongue that reaches thirty feet, a skin that paralyzes, jaws like a bear trap, and a leap that rams a man flat. It is cunning far beyond any frog: it learns where prey goes and waits there. One holds a reedy bay at the end of a portage on the lakes of the [[place-osetakonargn|Osetakona Region]] in [[place-northkiichchik|Northern Ki'ich'chik]], the country of lakes, rivers and portage-routes that the [[affiliation-osetakona|Maple People]] control absolutely and share with no one. Like every dreadspawn it was made, it is alive, and it does not breed.
 
 ## Presentation
 
@@ -279,15 +279,15 @@ The swampstrider is broad, flat and low, with a wide head, huge bulging eyes set
 
 ## In the Land
 
-Shik'ul Ch'akal is water in every form: lakes from small forest pools to inland seas, rivers broken by rapids, and the portage trails that join them, which the Ha'ik know intimately. The swampstrider holds a reedy bay at the lake end of one of those portages, where canoes must be carried up out of the water or put back into it, and the marsh and lily beds round it. It eats fish, ducks, beavers, otters, deer that come down to drink, and canoeists at the landing. It stays in the shallows and the marsh and does not go out into the open lake or up into the forest, and in the hard northern winter it lies under the mud at the bottom of the bay.
+The Maple People's country is water in every form: lakes from small forest pools to inland seas, rivers broken by rapids, and the portage trails that join them, which the Maple People know intimately. The swampstrider holds a reedy bay at the lake end of one of those portages, where canoes must be carried up out of the water or put back into it, and the marsh and lily beds round it. It eats fish, ducks, beavers, otters, deer that come down to drink, and canoeists at the landing. It stays in the shallows and the marsh and does not go out into the open lake or up into the forest, and in the hard northern winter it lies under the mud at the bottom of the bay.
 
 ## Key Behaviors
 
 The swampstrider is patient and cunning. It learns its prey's habits, where the deer drink, which channel the ducks use, where a canoe grounds at a landing, and it waits there, motionless, for hours or days, for one chance. When the chance comes, it strikes with the tongue first, sticks its prey and pulls it in, and closes its jaws on it, or leaps and rams it under. Its skin and tongue numb and paralyze whatever they touch. It understands luring and herding, and it has been seen to drive ducks toward the bank with its leaps so that they would fly past its tongue.
 
-## What the Ha'ik Do
+## What the Maple People Do
 
-The Ha'ik control their waterways with quiet, absolute authority, and strangers who try to use them without permission vanish; what outsiders know about the swampstrider comes from the trading posts of [[place-hanalxilanrgn|Ha'nal Shi'lan]], where Ha'ik canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Ha'ik do not kill it. The traders at those posts believe it keeps a portage closed to anyone who does not know the way through, and that the Ha'ik prefer it so. Ha'ik healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
+The Maple People control their waterways with quiet, absolute authority, and strangers who try to use them without permission vanish; what outsiders know about the swampstrider comes from the trading posts of [[place-hanalxilanrgn|Ha'nal Shi'lan]], where their canoe-runners have described it. The runners say the portage where it lives is used only in a particular way: canoes are carried down to the water in pairs, put in at the same moment, and paddled straight out of the bay without stopping, and no one sets foot in the shallows. The Maple People do not kill it. The traders at those posts believe it keeps a portage closed to anyone who does not know the way through, and that the Maple People prefer it so. Their healers, whose skill is wanted across the north, are said to use its skin-secretion, taken with great care, to numb wounds before cutting.
 
 ## Signs
 

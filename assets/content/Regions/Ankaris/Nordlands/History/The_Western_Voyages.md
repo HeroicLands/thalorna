@@ -14,7 +14,7 @@ data:
       kind: contact
       depth: region
       stated: {calendar: domseycount, text: "413 SG"}
-      sources: [place-gnaldurfjord, skill-nordmalng, affiliation-xikulchakl]
+      sources: [place-gnaldurfjord, skill-nordmalng, affiliation-osetakona]
       summary: >-
         Hafthann the Surf-Farer, jarl of a Gnaldurfjord household, takes a crew west across open ocean in the year before the sixtieth sitting, to learn what lies on the far side. He finds a wooded coast with people on it, is seen from the shore, and brings the boat home.
       standing: single-source
@@ -22,7 +22,7 @@ data:
       where:
         locus: [place-gnaldurfjord]
         reach:
-          - place: place-xikulchaklrgn
+          - place: place-osetakonargn
             how: a strange ship is seen off the coast, and its crew look the shore over and leave
             knowledge: unlinked
       unresolved:
@@ -53,16 +53,16 @@ data:
       kind: contact
       depth: region
       stated: {calendar: domseycount, text: "433 PR"}
-      sources: [place-gnaldurfjord, skill-nordmalng, affiliation-xikulchakl]
+      sources: [place-gnaldurfjord, skill-nordmalng, affiliation-osetakona]
       summary: >-
-        Skeldvir Hafthannsen, the dead jarl's son, takes a single boat west where his father took three. The crew raid a coastal settlement of the Woodland League, are seen and fought off the shore, and come home with a few thralls and some artifacts.
+        Skeldvir Hafthannsen, the dead jarl's son, takes a single boat west where his father took three. The crew raid a coastal settlement of the Maple People, are seen and fought off the shore, and come home with a few thralls and some artifacts.
       standing: single-source
       names: [{name: Skeldvir's Voyage, by: place-gnaldurfjord}]
       where:
         locus: [place-gnaldurfjord]
         reach:
-          - place: place-xikulchaklrgn
-            how: a coastal village is raided by men of a kind the League has no name for, and some of its people are carried off over the water
+          - place: place-osetakonargn
+            how: a coastal village is raided by men of a kind the Maple People have no name for, and some of its people are carried off over the water
             knowledge: unlinked
       follows:
         - event: "lore-westrnvoyages#greatraid"
@@ -83,7 +83,7 @@ The jarl in 699 was [Hafthann the Surf-Farer]{.name data-type="being/npc"}. The 
 
 In the year before the sixtieth sitting, in the last years of [[lore-domseycount|the Stormveld Generation]], Hafthann took one boat west. It was a probe and nothing more: he meant to see whether the shore was there, who stood on it and whether a boat could get back. The crossing took longer than anyone in the fjord had judged a crossing could take. The shore was there, wooded to the water's edge, with smoke rising from it and people watching from it, and the crew coasted it, looked it over and turned the boat for home. They were seen from the land. They made no landing, took nothing and lost no one, and the village had its first account of a shore across the water.
 
-The [[affiliation-xikulchakl|Woodland League]] saw it too: a strange ship stood off its coast, and then it was gone.
+The [[affiliation-osetakona|Maple People]] saw it too: a strange ship stood off their coast, and then it was gone.
 
 ## The Great Raid, 707 AF
 
@@ -99,7 +99,7 @@ For twelve years nobody spoke of going west. Then [Skeldvir Hafthannsen]{.name d
 
 The artifacts are on the household's shelves and are the most-discussed things in the fjord. They are worked in hammered copper and in shell, in patterns no Nordman recognises, and some of them are plainly meant to be worn and others plainly for a purpose nobody has guessed. The thralls speak a tongue nobody in the north can follow, and the village has learned by now to make itself understood to them by signs.
 
-On the far shore, the raid of 719 is the second the [[affiliation-xikulchakl|Woodland League]] has seen, and the League has not yet put the two together. It knows only that the men who came from the water twice are men it has no name for.
+On the far shore, the raid of 719 is the second the [[affiliation-osetakona|Maple People]] have seen, and they have not yet put the two together. They know only that the men who came from the water twice are men they have no name for.
 
 ## The Argument
 
@@ -121,5 +121,5 @@ Any party that comes to Gnaldurfjord this summer finds the question in every hou
 [[lore-domseycount|The Domsey Count]]
 : the sittings by which the voyages are dated
 
-[[affiliation-xikulchakl|Woodland League]]
+[[affiliation-osetakona|Maple People]]
 : the nation whose coast the boats reached

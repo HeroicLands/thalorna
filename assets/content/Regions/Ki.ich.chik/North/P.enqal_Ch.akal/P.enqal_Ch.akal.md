@@ -68,7 +68,7 @@ The Grass People are egalitarian and prize prestige: a person's standing rests o
 
 ## Raiders
 
-Raiding is how a young man of the plains makes a name, and a raiding party on foot may walk for a month. Parties cross the grassland to take food, captives and goods from the One Fire's western towns and the League's western villages, and from other bands. The compact's other nations value the Grass People as scouts and as fighters who move faster than any town can muster, and complain of them as neighbors.
+Raiding is how a young man of the plains makes a name, and a raiding party on foot may walk for a month. Parties cross the grassland to take food, captives and goods from the One Fire's western towns and the Maple People's western villages, and from other bands. The compact's other nations value the Grass People as scouts and as fighters who move faster than any town can muster, and complain of them as neighbors.
 
 ## Trade
 
@@ -82,8 +82,8 @@ Hides, robes, dried meat and fat go from the bands to the villages and on to the
 [[affiliation-teyumi|Teyumi]]
 : the Turquoise People, on the desert rim to the southwest
 
-[[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: the Woodland League, in the forests to the east
+[[affiliation-osetakona|Osetakona]]
+: the Maple People, in the forests to the east
 
 [[affiliation-tokchiaska|Tokchi Aska]]
 : the One Fire, whose western towns the bands raid

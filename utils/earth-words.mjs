@@ -88,6 +88,8 @@ export const SOURCES = {
     "Nordmal.md": ["old-norse"],
     "Nyaluban.md": ["sotho-tswana", "shona"],
     "Okharic.md": ["tamazight", "hausa"],
+    // The word lists hold no mohawk or seneca list, so an Osetakona coinage is checked by reading.
+    "Osetakona.md": ["mohawk", "seneca"],
     "Provenzal.md": ["occitan", "galician", "portuguese"],
     "Sinale.md": ["finnish"],
     "Sowides.md": ["mongolian", "turkish"],

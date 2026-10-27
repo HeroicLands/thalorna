@@ -57,7 +57,7 @@ data:
   economy: []
   lore: [humanflk]
   parents: []
-  relations: {redstncmpct: aligned, xikulchakl: rival, penqalchakal: rival}
+  relations: {redstncmpct: aligned, osetakona: rival, penqalchakal: rival}
   packFolder: tokchiaska
 sohl: {system: {commonSkills: []}}
 
@@ -101,7 +101,7 @@ Before a war the Falcon Chief, the Kiyo Imala, leads the falcon dancers through 
 
 ## Neighbors
 
-The other nations see the One Fire as rich, arrogant and expansionist, and the One Fire sees them as poor. It contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier to the northeast, with the [[affiliation-xikulchakl|Woodland League]], whose people tell the Suns at every council that hereditary rule is what their own councils exist to prevent. Its western towns suffer the raids of the [[affiliation-penqalchakal|Grass People]] and trade with them in the same season.
+The other nations see the One Fire as rich, arrogant and expansionist, and the One Fire sees them as poor. It contests [[place-hanalxilanrgn|Ha'nal Shi'lan]], the wooded river frontier to the northeast, with the [[affiliation-osetakona|Maple People]], who tell the Suns at every council that hereditary rule is what their own councils exist to prevent. Its western towns suffer the raids of the [[affiliation-penqalchakal|Grass People]] and trade with them in the same season.
 
 In the [[affiliation-redstncmpct|Red Stone Compact]] the One Fire sends Nobles of the Sun's house as its delegates. It brings the compact what no other nation can: population, a granary that can feed an army, and the coast towns' canoes, which are the north's only navy on the gulf. Of all the compact's nations it is the one most tempted to make a private bargain with the south, and the others watch it for that.
 
@@ -109,7 +109,7 @@ In the [[affiliation-redstncmpct|Red Stone Compact]] the One Fire sends Nobles o
 
 The One Fire has no money. Wealth is maize in a granary, copper on a Sun, shell on a Noble's chest and the labor a Mound Chief can call on. Tribute goes up the river to Hayo Pokta in baskets of maize and down it again as gifts, feasts and seed in bad years; a Great Sun who keeps more than he gives back is the beginning of a Scattering.
 
-The heartland's craftsmen work copper brought from the Woodland League's lake country, in trade through Ha'nal Shi'lan and in plunder, into plates, gorgets and blades. Their shell comes up the river from the coast. Southern goods reach the One Fire across the desert through the [[affiliation-teyumi|Turquoise People]], a little cacao and a few macaw feathers and copper bells at a high price, and its Suns prize them above anything made at home and resent the price. Some coastal captains claim to have traded with people far down the gulf coast who had southern goods, and the Great Sun's court would like to know whether the voyage can be made both ways.
+The heartland's craftsmen work copper brought from the Maple People's lake country, in trade through Ha'nal Shi'lan and in plunder, into plates, gorgets and blades. Their shell comes up the river from the coast. Southern goods reach the One Fire across the desert through the [[affiliation-teyumi|Turquoise People]], a little cacao and a few macaw feathers and copper bells at a high price, and its Suns prize them above anything made at home and resent the price. Some coastal captains claim to have traded with people far down the gulf coast who had southern goods, and the Great Sun's court would like to know whether the voyage can be made both ways.
 
 ## See Also
 
@@ -129,10 +129,10 @@ The heartland's craftsmen work copper brought from the Woodland League's lake co
 : the compact the One Fire keeps with the other four nations
 
 [[place-hanalxilanrgn|Ha'nal Shi'lan]]
-: the river frontier it contests with the Woodland League
+: the river frontier it contests with the Maple People
 
-[[affiliation-xikulchakl|Shik'ul Ch'akal]]
-: the Woodland League, its rival to the northeast
+[[affiliation-osetakona|Osetakona]]
+: the Maple People, its rival to the northeast
 
 [[affiliation-penqalchakal|P'enqal Ch'akal]]
 : the Grass People, on the plains to the west
