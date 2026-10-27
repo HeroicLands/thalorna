@@ -12,7 +12,7 @@ data:
   epithet: null
   symbol: null
   governance:
-    model: monarchy
+    model: oligarchy
     summary: >-
       The High Chief of the paramount house presides over a network of noble houses, each with its own chief, village and fishing grounds. His authority rests on gifts and feasts: a house chief follows him while the High Chief's giving outshines his own, and leaves him when it does not.
     ranks:
