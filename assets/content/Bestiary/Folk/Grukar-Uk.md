@@ -260,7 +260,7 @@ sohl:
 
 ![[grukaruk|Grukar-Uk]]{float=top-left}
 
-They come out of the tree-line at a jog, twenty or thirty of them, short and broad and gray-green, bristled across the shoulders like boars, and they do not shout. Each carries something to hit with: a hand-axe, a nail-studded club, a fire-hardened spear. Their faces are flat and heavy-browed, with small eyes and stubby tusks jutting from the lower jaw. They do not look at one another or at you; they look at the big one at the back, and when the big one barks, they all change direction at once, like a flock of birds, toward the gate of the steading, where the cattle are.
+They come out of the tree-line at a jog, twenty or thirty of them, short and broad and gray-green, bristled across the shoulders, and they do not shout. Each carries something to hit with: a hand-axe, a nail-studded club, a fire-hardened spear. Their faces are flat and heavy-browed, with small eyes and stubby tusks jutting from the lower jaw. They do not look at one another or at you; they look at the big one at the back, and when the big one barks, they all change direction at once, like a flock of birds, toward the gate of the steading, where the cattle are.
 
 # Dossier {#dossier}
 
@@ -270,7 +270,7 @@ The name Grukar-Uk is an old human convention. The [[lore-pelwarpepl|Pelwar]] an
 
 ## Presentation
 
-A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a big man, with a broad chest, a thick neck, and arms that hang a little too long. Its skin is a dull gray-green, rougher and hairier than the other castes', with coarse dark bristles over the back, shoulders and forearms. The face is broad and flat, with a heavy brow, small eyes and a jutting lower jaw from which short tusks stick up. It wears whatever it has scavenged: ill-fitting leather, scraps of stolen mail, a dented helm. It carries rough, practical weapons, hand-axes, clubs, spears with fire-hardened points, and now and then a stolen sword it does not use well. Uk converse as all Grukar do, by posture, gesture and scent, and the clacks, rasps and grunts from the chest and throat only lend emphasis. To a human a band of Uk looks restless and stinks.
+A Grukar-Uk is short and wide, about four and a half feet tall and as heavy as a big man, with a broad chest, a thick neck, and arms that hang a little too long. Its skin is a dull gray-green, rougher than the other castes', with coarse dark bristles over the back, shoulders and forearms. The face is broad and flat, with a heavy brow, small eyes and a jutting lower jaw from which short tusks stick up. It wears whatever it has scavenged: ill-fitting leather, scraps of stolen mail, a dented helm. It carries rough, practical weapons, hand-axes, clubs, spears with fire-hardened points, and now and then a stolen sword it does not use well. Uk converse as all Grukar do, by posture, gesture and scent, and the clacks, rasps and grunts from the chest and throat only lend emphasis. To a human a band of Uk looks restless and stinks.
 
 ## In the Land
 
