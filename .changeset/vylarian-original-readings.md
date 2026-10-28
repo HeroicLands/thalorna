@@ -4,4 +4,4 @@
 
 **Literature and verse**
 
-- The Morning Call, Evening Songs and Song of the Gold Band set their Vylari originals beside fresh English and Roman readings, retaining the spoken joins, refrains, names and fixed manual formula.
+- The Morning Call, The Evening Songs and The Song of the Gold Band set their Vylari originals beside the English translations, line for line, with the refrains, names and the four words of the manual kept.
