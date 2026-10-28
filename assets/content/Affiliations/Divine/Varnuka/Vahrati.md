@@ -70,7 +70,7 @@ Three objects carry the cult. **The Petal Bowl** is a small shallow bowl kept in
 
 ### What the Devout Do
 
-Almost every Varnukan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland gho into it, with any fallen leaf brought in on a sandal and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release, and at the end of the season the bowl itself is emptied onto the compost-heap or the garden-bed.
+Almost every Varnukan household keeps a petal bowl on the kitchen windowsill or at the garden door, whatever its chief devotion. The wilted flowers of the day's garland go into it, with any fallen leaf brought in on a sandal and the dry seed-head of a spent blossom. Once a month the bowl is emptied onto the household's compost-heap with the formula of release, and at the end of the season the bowl itself is emptied onto the compost-heap or the garden-bed.
 
 A household passing through a change of state sets out withered flowers at its threshold for a full day. The change might be a child grown and gone, a partnership dissolved or a business sold.
 

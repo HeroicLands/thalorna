@@ -74,7 +74,7 @@ sohl: {system: {commonSkills: [osketlng]}}
 
 ## What a Lineage Is
 
-An Osket lineage is a hearth, its herds, its high pasture and one road. The road is the important part: a lineage holds a crossing by descent, takes every party that goes over it, and has no standing whatever on anyone else's. There is no appeal from a lineage to a larger body, because there is no larger body. When a question touches two roads, the lineages concerned meet at a col, argue it, and gho home, and the **Speaker of the Cols** who convenes them is chosen for the meeting and holds nothing afterward.
+An Osket lineage is a hearth, its herds, its high pasture and one road. The road is the important part: a lineage holds a crossing by descent, takes every party that goes over it, and has no standing whatever on anyone else's. There is no appeal from a lineage to a larger body, because there is no larger body. When a question touches two roads, the lineages concerned meet at a col, argue it, and go home, and the **Speaker of the Cols** who convenes them is chosen for the meeting and holds nothing afterward.
 
 Inside the lineage the work divides along a line a caravan master learns on the first day. The guide-mother holds the lineage's knowledge of the road and says whether it is open; the road-holder answers for every party that goes over it; men walk it. The cord-keeper, the snow-watcher, the hearth-warden and the fee-reckoner hold the rest of the lineage's offices.
 

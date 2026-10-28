@@ -16,7 +16,7 @@ data:
   packFolder: adventures
 ---
 
-Something is taking the dead out of the villages at the edge of the forest, and the road it takes runs to [[place-sorhupur|Sorhupur]]. The party must follow it through the lamps to the assembly that never adjourned, and decide what to do with a city that will not let its dead gho.
+Something is taking the dead out of the villages at the edge of the forest, and the road it takes runs to [[place-sorhupur|Sorhupur]]. The party must follow it through the lamps to the assembly that never adjourned, and decide what to do with a city that will not let its dead go.
 
 ## Hooks
 
@@ -118,7 +118,7 @@ Something is taking the dead out of the villages at the edge of the forest, and 
 
 **Purpose.** The twist and the reward.
 
-**Situation.** The lamps gho out, one after another, down the causeway and across the terraces, and each time a faint shape rises from the bowl and goes away through the trees toward the east. It takes a long time. When the Mother's flame goes out, the arch starts to breathe.
+**Situation.** The lamps go out, one after another, down the causeway and across the terraces, and each time a faint shape rises from the bowl and goes away through the trees toward the east. It takes a long time. When the Mother's flame goes out, the arch starts to breathe.
 
 **NPCs and threats.** What comes through the arch is not one of the dead. It is a **gap-wolf**, long, grey and indifferent, a thing of the Shadow that has been waiting at the arch since the first lamp was lit. It does not hunt the living. It feeds on whatever holds a gap open, and when the lamps are gone it feeds on the city. It has no face, and it moves only in the dark the lamps leave behind. The Hearth is the one place that holds it back.
 

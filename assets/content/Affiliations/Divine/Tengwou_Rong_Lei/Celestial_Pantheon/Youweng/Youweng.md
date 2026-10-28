@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never go further.
       - level: 2
         title: Acolyte
         description: >-

@@ -67,7 +67,7 @@ The other relations are informal. Merchants, caravan masters and the commanders 
 
 Say a caravan master arrives in the capital with a bundle of sealed contracts she has promised to carry upriver within the week. She has left them in the vault, as the contracts instruct, and now she wants them back. The clerk takes her name and tells her the keyholders open on the temple's schedule. She spends the wait the way other travelers do, buying a portion of her best goods to leave as an offering at the roadside shrine and sitting in the courtyard with the maps and the route descriptions the priests hold.
 
-Valuables and documents gho into the vault; nothing here is sold from it. A traveler seeking what is stored there waits on the temple's schedule, and the temple's patience is the price of its security.
+Valuables and documents go into the vault; nothing here is sold from it. A traveler seeking what is stored there waits on the temple's schedule, and the temple's patience is the price of its security.
 
 ## See Also
 

@@ -97,7 +97,7 @@ Blood is given lightly and often—a thumb at a shrine, a few drops at a crossro
 
 ## Organization
 
-The priesthood is unique in being partially distributed and mobile. Road shrines dot the white roads, each maintaining a resident priest who records travelers, provides refreshment, monitors the road for damage, and is a living node in the information network. A **Road Shrine Keeper** may gho a season without seeing another priest of his own branch, and the office is given to men of settled temperament; conversely, the runners and caravan chaplains are almost never in one place, and the branch's internal life is conducted largely by message.
+The priesthood is unique in being partially distributed and mobile. Road shrines dot the white roads, each maintaining a resident priest who records travelers, provides refreshment, monitors the road for damage, and is a living node in the information network. A **Road Shrine Keeper** may go a season without seeing another priest of his own branch, and the office is given to men of settled temperament; conversely, the runners and caravan chaplains are almost never in one place, and the branch's internal life is conducted largely by message.
 
 That message network is the branch's real asset. Reports move from shrine to shrine by relay and are consolidated by the **Keeper of the Traveller Rolls**, so that the priesthood in any large city knows, within days, which roads are cut, which cities are mustering and what is moving on the causeways. Kings pay for portions of this and never for all of it. The branch's standing rule is that the roads belong to the god and the information belongs to the roads, which is understood on all sides to mean it sells to everyone.
 

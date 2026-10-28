@@ -16,7 +16,7 @@ A typical one is a ring of dry-stone wall on a spur, with a gate-tower, a cister
 
 ## Who Goes
 
-- **Shepherds**, who use the outer walls as folds in the summer pasture and do not gho inside.
+- **Shepherds**, who use the outer walls as folds in the summer pasture and do not go inside.
 - **Bandits**, who break a gate open when they want a hold. The fort above the [[affiliation-rajeprjnpd|Rajepur Janpoda]]'s fields was cleared by Rajepur and two neighbors eighty-three years ago, the last armed conflict on Rajapuri ground, and walled up again afterward.
 - **Heirs**, who come with old genealogies and a clan name written in a dead kingdom's charter, and stand outside the gate.
 

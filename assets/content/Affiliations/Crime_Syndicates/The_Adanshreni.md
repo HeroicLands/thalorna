@@ -112,7 +112,7 @@ The shrena's prohibitions read like piety and are almost entirely pragmatic. Eac
 - **No killing during a taking.** A theft is the shrena court's business, and a killing is the chartering power's. A taker who kills forfeits his share, his standing and often his lineage's.
 - **Nothing from a sanctum.** The doctrine of adun requires that the gods consent, and the shrena is unwilling to test the proposition.
 - **Nothing from a house in mourning, and nothing from a wedding.** Both would cost the shrena the public tolerance it lives on.
-- **Restore on demand.** If the Sabhra rules a taking improper, the goods gho back, whatever the taker has already done with them.
+- **Restore on demand.** If the Sabhra rules a taking improper, the goods go back, whatever the taker has already done with them.
 
 Outsiders get the first of these wrong. The shrena does not forbid killing. It forbids killing _during a taking_, because that is what converts its business into the chartering power's. A commission carried out cleanly, by a hand that cannot be traced to a charter, breaks no written rule. The persistent, credible and furiously denied accusation against the Adanshreni is that certain Shreshthins accept exactly such commissions and route them through people who are not quite members. The shrena has been arguing this with itself for two generations, and it is what the schism below was about.
 

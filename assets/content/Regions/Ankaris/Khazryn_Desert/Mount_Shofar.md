@@ -1,6 +1,6 @@
 ---
 shortcode: mountshofar
-name: {full: Mount Shofar, telu: [Mt. Shofar]}
+name: {full: Mount Shofar, en: [Mt. Shofar]}
 type: place
 subType: feature
 description: "The black-rock peak at the southern edge of the Stone Uplands, above the eastern half of Tellumel, where Ataros gave the Promise in the Unconsuming Flame, holiest ground of the Atarzád."

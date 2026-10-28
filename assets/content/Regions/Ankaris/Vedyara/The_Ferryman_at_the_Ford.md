@@ -367,7 +367,7 @@ data:
 : the line the legend begins, and the library's silence on its first seat
 
 [[lore-unburnford|The Unburned Ford]]
-: the night the villages went down to the ford, and why they do not gho down on its anniversary
+: the night the villages went down to the ford, and why they do not go down on its anniversary
 
 [[place-puranastan|Puranastan]]
 : the terraced hill, the empty hollow and the hill's new owner

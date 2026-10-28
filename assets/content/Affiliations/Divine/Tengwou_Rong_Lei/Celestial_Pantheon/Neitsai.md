@@ -99,7 +99,7 @@ that a boundary drawn in [Dao Zhaolei]{.name data-type="lore/cosmology"}, the Gr
 It is the natural rival of [[affiliation-zhenho|Zhinho]], the Bureau of Transformation, and the rivalry is
 the sharpest in the administration—one bureau exists to change things and the other to prevent
 it, and both are correct. Petitions for a difficult birth, an unbroken inheritance or the survival
-of a craft gho here.
+of a craft go here.
 
 ### Lesser Spirits
 

@@ -60,7 +60,7 @@ Pronunciation
 Pantheon
 : [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 
-"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to gho." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. The devotion called Rasikara honors [[lore-rasikaradty|Rasikara]], and its cult is not comfortable. Its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
+"Carry the ember in with both hands and do not stop on the way. It came off your hearth, and it has one place to go." The keeper of a cremation ground says this to a young man about to light his father's pyre, and says it flatly, as a man tells a newcomer where to put his feet. The devotion called Rasikara honors [[lore-rasikaradty|Rasikara]], and its cult is not comfortable. Its keepers do not pretend it is. Its shrines stand at a city's edge and at its cremation grounds, and its devotees are ascetics, warriors, healers of wasting diseases and the keepers of the cremation-fires.
 
 In Varnukan theology, Rasikara is the god of fire and of the change fire compels, the burning that strips away corruption and the kindling that starts new growth. [[lore-mahajayadty|Mahajaya]] preserves and [[lore-vyalendradty|Vyalendra]] shapes; Rasikara breaks. The Varnukan faith holds the breaking sacred, and he is venerated for courage: the courage to meet what must be destroyed with the fire proper to the task. The [[affiliation-triyangasampradeya|Triyanga-sampradeya]] keeps him in balance with the other two forms, and the [[affiliation-agmipantra|Agmi-pantra]] carries his purification onto the road.
 
@@ -74,7 +74,7 @@ The **Agmi-Pralayas**, his spirits of purging fire, come in wildfire, in volcani
 
 ### What the Devout Do
 
-Rasikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire gho out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
+Rasikaran households keep an unbroken hearth-flame, carried forward from parent to child at each marriage, and letting the family fire go out is a grave omen. Before any work that destroys what came before, the devout trace an ash-mark on the brow and speak the formula of purging. The work might be the razing of a condemned house, the felling of a diseased tree or the cutting of a blighted harvest. At the death of a family member an ember from the hearth is carried to the cremation ground to light the pyre.
 
 ### Ordeals for Favor
 

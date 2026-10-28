@@ -1,6 +1,6 @@
 ---
 shortcode: oakwardens
-name: {full: The Tally of the Oak Wardens, varo: [Eichthúl eldskorn]}
+name: {full: The Tally of the Oak Wardens, varo: [eichthúl eldskorn]}
 type: lore
 subType: literature
 description: "The Eichthúl kindred's ancestor-tally at Weskskald in the thirteenth winter since the Nordheim hall-posts went into their grove, said name by name from the year's dead back to the names that are the wood, with the two hearths divided over the dead under the settlers' floors, the Shaman's count said with nothing after it, and the year's children said for the first time."

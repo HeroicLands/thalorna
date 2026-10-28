@@ -36,7 +36,7 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
     offices:
       Warden of the Treatises: >-
         Holds the sealed accounts of the chaos god—his nature, his manifestations, his methods of attack—and decides who may read them.

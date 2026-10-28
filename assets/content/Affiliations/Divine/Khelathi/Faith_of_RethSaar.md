@@ -62,7 +62,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A merchant has brought his son of seven to the school gate of a temple of Reth'Sa'ar and is explaining, a little too fast, what the boy already knows. The Lem'Nelgir who keeps the gate lets him finish. "Years," he says. "Reading and writing in more than one script, and then mathematics, and then geometry, and then the part you cannot pay for, which is learning to write down only what is so. A third of them gho home to the counting-house. Some of the rest will keep the tables of the stars. He may be one of them. Leave him."
+A merchant has brought his son of seven to the school gate of a temple of Reth'Sa'ar and is explaining, a little too fast, what the boy already knows. The Lem'Nelgir who keeps the gate lets him finish. "Years," he says. "Reading and writing in more than one script, and then mathematics, and then geometry, and then the part you cannot pay for, which is learning to write down only what is so. A third of them go home to the counting-house. Some of the rest will keep the tables of the stars. He may be one of them. Leave him."
 
 In the faith's teaching, [[lore-rethsaardty|Reth'Sa'ar]], **Scribe of the Eternal Library**, is the custodian of all knowledge and the divine scribe, who records the deeds of mortals and the workings of the cosmos alike. In the vaults of the [Eternal Library]{.name data-type="place/site"}, a celestial archive held to exist both within and beyond the world, he inscribes every moment of creation with his ibis quill, so that nothing of importance is ever lost. He is shown with the head of an ibis or crowned with the lunar crescent, because he is held to govern the moon's cycles and the patterns by which mortals organize knowledge and time.
 

@@ -55,7 +55,7 @@ The merchant houses provide another sort of power. [[affiliation-mrchntclctvvdyr
 
 ## Cities, Towns, and Roads
 
-If you want a harbor campaign, begin in [[place-chendrapur2|Chendrapur]], where [[place-chandrmahi|the Chandramahi]] delivers gems to workshops and finished work to seagoing ships. For shrena rivalries and the cloth trade, gho to [[place-vyalendra3|Vyalendra]], the southern city of looms. Suryagarha puts a party at a northern pass beneath a fortress's eye; [[place-sandyapur|Sandyapur]] puts it on the dry road to Dunhara. Inland, Rajepur, [[place-danurkot|Danurkot]], and [[place-suvargeri|Suvargeri]] offer temple halls where a decision can matter farther than a city's walls.
+If you want a harbor campaign, begin in [[place-chendrapur2|Chendrapur]], where [[place-chandrmahi|the Chandramahi]] delivers gems to workshops and finished work to seagoing ships. For shrena rivalries and the cloth trade, go to [[place-vyalendra3|Vyalendra]], the southern city of looms. Suryagarha puts a party at a northern pass beneath a fortress's eye; [[place-sandyapur|Sandyapur]] puts it on the dry road to Dunhara. Inland, Rajepur, [[place-danurkot|Danurkot]], and [[place-suvargeri|Suvargeri]] offer temple halls where a decision can matter farther than a city's walls.
 
 ```sql
 SELECT address.slug AS _ref,
@@ -118,7 +118,7 @@ Vedyara is old, and some of its oldest ground is dangerous. Three of its battlef
 - [[place-olurtaran|Olurtaran]], a ford of the upper course of [[place-mahanodi|the Mahanodi]] where no flame stays lit on the west bank. Will the Agmi-pantra's fire still catch on the east bank when the priests come in their twelfth year?
 - [[place-gajastal|Gajastal]], the elephant ground below the plateau, where drums sound at dusk in the first storms. Who will pay to dig there by night?
 - [[place-lantustal|Lantustal]], the banner ground on the march road, a cursed field whose road is chained at sunset. What lies past the whitewashed stones, and who drove a caravan onto them?
-- [[place-ludrapur|Ludrapur]], the burned capital of the march kingdom the steppe destroyed. Where did its treasury gho?
+- [[place-ludrapur|Ludrapur]], the burned capital of the march kingdom the steppe destroyed. Where did its treasury go?
 - [[place-tirnuhall|The Silenced Hall of Tirnugram]], bricked up with a sabhra's ashes inside. Who rang the bell?
 - [[place-madustan|Madustan]], the empty capital the count of years is named for. Why did it empty, when nothing sacked it?
 
@@ -130,7 +130,7 @@ The Vedyari keep the same ground in their own literature, and a party that hears
 
 A party can arrive by ship, over the northern passes, or by the dry road from Dunhara. One character might be a temple student carrying a disputed calendar, another a guide owed payment by a caravan, and another a weaver sent to find out why a shipment never reached port. A local character might belong to a farming household, a merchant house, a craft shrena, or an ascetic's following. Each tie offers help and asks something in return.
 
-Start with a place and a claim on the party: a household wants its water restored; a patron needs a road kept open; a pilgrim cannot find the person meant to meet them. At the first temple, market, or toll post, ask three questions: **Who holds this place? Which household or institution speaks for you? Which road or rite brought you here?** The answers give the party allies, obligations, and somewhere to gho next.
+Start with a place and a claim on the party: a household wants its water restored; a patron needs a road kept open; a pilgrim cannot find the person meant to meet them. At the first temple, market, or toll post, ask three questions: **Who holds this place? Which household or institution speaks for you? Which road or rite brought you here?** The answers give the party allies, obligations, and somewhere to go next.
 
 Choose the road that catches your interest and begin there. The [[place-vedyarargn|region]] and [[lore-vedyariclt|culture]] notes take you farther into the land and its people; the [[affiliation-janpdsvdyr|janpodas]], [[affiliation-mrchntclctvvdyr|merchant houses]], [[affiliation-vrnkpnthn|pantheon]], and [[lore-vdyrnbnkng|banking]] notes are ready when the party meets them.
 

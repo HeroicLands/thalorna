@@ -20,9 +20,9 @@ What is repeated is always the same: lights at a distance that do not move as a 
 
 ## Who Goes In
 
-Hunters from the upper villages work the margin and do not gho deep. The forest peoples the lowland records describe only in the aggregate gather what they gather and trade it at the edge, and what they say about the interior is not written down by anyone who asks them.
+Hunters from the upper villages work the margin and do not go deep. The forest peoples the lowland records describe only in the aggregate gather what they gather and trade it at the edge, and what they say about the interior is not written down by anyone who asks them.
 
-Ascetics gho in. It is one of the places a renunciant disappears into for years at a time, and the ones who come back are received with reverence and are not cross-examined. The accounts that reach the hostels come from them, at third hand, and are the least reliable of all.
+Ascetics go in. It is one of the places a renunciant disappears into for years at a time, and the ones who come back are received with reverence and are not cross-examined. The accounts that reach the hostels come from them, at third hand, and are the least reliable of all.
 
 ## See Also
 

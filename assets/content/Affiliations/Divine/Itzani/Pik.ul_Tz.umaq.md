@@ -116,4 +116,4 @@ Toward the [[affiliation-pikob|Pik'ob]] it holds a claim that unsettles them bad
 
 ## Outside the Ladder
 
-A person turned away at the threshold is not intercepted by the owl. They gho down into Ch'al Ts'umaq's trials like anyone else, without even the orthodox recitation to guide them.
+A person turned away at the threshold is not intercepted by the owl. They go down into Ch'al Ts'umaq's trials like anyone else, without even the orthodox recitation to guide them.

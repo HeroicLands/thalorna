@@ -1,6 +1,6 @@
 ---
 shortcode: youngestson
-name: {full: The Youngest Son's Telling, varo: [Othlin vorth]}
+name: {full: The Youngest Son's Telling, varo: [othlin vorth]}
 type: lore
 subType: literature
 description: "The Skathwald hearth telling of a Vandholt household's feud-payment carried over the river ice by the youngest son and the household's southern woman, with a voice under the ice, a lynx with a thorn in its foot, a payment counted twice, and two endings."

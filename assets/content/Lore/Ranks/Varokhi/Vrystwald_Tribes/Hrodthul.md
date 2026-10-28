@@ -1,6 +1,6 @@
 ---
 shortcode: hrodthulrnk
-name: {full: Hrodthúl, varo: [Respected]}
+name: {full: Hrodthúl, en: [Respected]}
 type: lore
 subType: law
 description: "Bears a charge on the renown a deed has already won, assisting the elders in everyday duties, in the Vristwald Tribes."

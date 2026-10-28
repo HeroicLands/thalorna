@@ -1,6 +1,6 @@
 ---
 shortcode: driskborg
-name: {full: Draskborg, en: [Driskborg]}
+name: {full: Draskborg, nord: [driskborg]}
 type: place
 subType: structure
 description: "A Targud beacon-tower and palisade on a rise above the river, raised by Braldmil I on the burned ground, and the refugee fortress of the Heroes of Asguard tales."

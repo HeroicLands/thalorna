@@ -112,7 +112,7 @@ The **Nau-senapavi** commands them. He answers for the river mouth and the coast
 
 A galley is oared and carries no cargo. The coasting ships that carry the trade belong to the merchant houses and are hired hull by hull, and the flat-bottomed river-boats work above the delta and never cross the bar. [[affiliation-vyalendra2|Vyalendra]] has the cargo and keeps no fleet, so it hires its escort here. The rate is settled fresh every sailing season, and settled late, which suits Chendrapur and not Vyalendra.
 
-The fleet works a season and not a year. When the rains come the roadstead outside the bar is untenable, the galleys come up into the yards, and the crews are paid off; when the rain stops they gho back out. A Nau-senapavi therefore spends two months fighting and ten months building, victualling and arguing about money, and the office is filled with that in mind.
+The fleet works a season and not a year. When the rains come the roadstead outside the bar is untenable, the galleys come up into the yards, and the crews are paid off; when the rain stops they go back out. A Nau-senapavi therefore spends two months fighting and ten months building, victualling and arguing about money, and the office is filled with that in mind.
 
 A galley's crew works outside the order of stations, as every crew on this coast does, and nobody aboard asks to see a wrist. The men who owe the Maharava service in his host owe it aboard as well, and the deck is the one place in the city where they serve beside men the temples will not admit.
 

@@ -5,7 +5,7 @@ name:
   given: Thornak
   clan: Mahnlin
   en: [The Boar-Totem Warrior]
-  varo: [Bludtusk Barsk, Thornak yra Mahnlin]
+  varo: [bludtusk barsk, thornak yra mahnlin]
 type: being
 subType: character
 tags: [heroes-and-knaves, hero, tradesfolk]

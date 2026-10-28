@@ -36,7 +36,7 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
     offices:
       Canal-Reader: >-
         Works the formulae that hold a bank, clear a channel or read the water, and is the House's most ordinary and most frequently summoned practitioner.

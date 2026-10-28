@@ -38,7 +38,7 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
     offices:
       Keeper of the Twelve Hours: >-
         Holds the litany by which a soul is guided through the night, and is answerable for its exactness at every hour.

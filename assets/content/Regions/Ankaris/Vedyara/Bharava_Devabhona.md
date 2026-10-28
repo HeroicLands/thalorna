@@ -59,7 +59,7 @@ data:
       Smiritibhara: >-
         The Memory-Keeper, who holds the bounds of the estates and the terms of each endowment and recites them when two keepers disagree, there being no sabhra to ask.
       Ganoka: >-
-        The reckoner, who fixes the felling season, the tapping rounds and the day the rafts gho down on the flood.
+        The reckoner, who fixes the felling season, the tapping rounds and the day the rafts go down on the flood.
       Dutsa: >-
         The envoy the mother-temples send jointly to a patron court, to the Melka and to the coastal houses that buy the timber.
   seat: null
@@ -97,7 +97,7 @@ The mother-temples consult each other, and they do it about price. When lac move
 
 Nothing in the forest may be taken without a license, and the licenses are the whole instrument of government. A season's gathering in a marked tract; a right to tap a stand of resin trees; a permission to fell named hardwoods and float them out. Each is issued by a keeper, each is for one season, and each lapses.
 
-The people who hold them are the gathering peoples of the interior, who are not the estates' subjects in any sense a lowland court would recognize and are not free of the estates either. They take the license, they turn the season's gathering in at the margin, they are paid, and they gho back in. No estate has ever tried to settle them and no keeper has ever been asked to count them.
+The people who hold them are the gathering peoples of the interior, who are not the estates' subjects in any sense a lowland court would recognize and are not free of the estates either. They take the license, they turn the season's gathering in at the margin, they are paid, and they go back in. No estate has ever tried to settle them and no keeper has ever been asked to count them.
 
 The arrangement is stable and nobody defends it in writing. A keeper asked to justify it says the forest is the god's and the license is the god's leave, which answers the question that was not asked.
 

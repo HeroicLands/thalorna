@@ -24,7 +24,7 @@ A panning head from the upper terraces puts it to a newcomer in a sentence. "You
 
 The mountain is a moderately sized peak, perhaps three thousand feet above the surrounding country, of weathered metamorphic rock with thin veins of native gold running through it. The gold taken at Suvargeri is alluvial: the seasonal rains wash it out of the veins, it gathers in the streams and small rivers that drain the slopes, and hereditary panning-families pan it out by techniques fifty generations have refined. The streams give perhaps six to eight hundred ounces in a typical year, somewhat more in a wet one and somewhat less in a drought. That is no fortune by the standards of the great Vedyari kingdoms. For a janpoda of thirty-five thousand people it is a significant and sustained income.
 
-Where the ounces gho is the business of the [Gold Constitution]{.name data-type="lore/law"}: half to the three temples, a quarter to the common treasury, a quarter paid out to the households, and no household allowed to keep more than about twelve ounces of its own.
+Where the ounces go is the business of the [Gold Constitution]{.name data-type="lore/law"}: half to the three temples, a quarter to the common treasury, a quarter paid out to the households, and no household allowed to keep more than about twelve ounces of its own.
 
 ## Settlements
 

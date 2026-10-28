@@ -73,7 +73,7 @@ The **Janpodas of Vedyara** are some six thousand small temple-republics, each a
 
 A traveling merchant from the [[place-provenzrgn|Provenzia Region]] passing through Vedyara meets a man who calls himself a citizen of the [[affiliation-suvrgrjnpd|Suvargeri Janpoda]], another who calls himself a citizen of the [[affiliation-dnrktjnpd|Danurkot Janpoda]], and a third who calls himself simply a [[lore-vedyariclt|Vedyari]]. All three are correct. The Mahva-Sangra is what lets the third answer mean something while the first two are in dispute over a water-channel.
 
-A janpoda's **Dutsa** (envoy), the man its sabhra sends to a neighbor's hall, to a patron court and to the [Mahva-Melka]{.name data-type="lore/gathering"}, is the person who explains this to a foreigner most often, and he starts with the temple. "You are looking for the palace. There is none. Find the biggest temple in the valley and gho in by the granary door; the people you need are all inside, and none of them is in charge."
+A janpoda's **Dutsa** (envoy), the man its sabhra sends to a neighbor's hall, to a patron court and to the [Mahva-Melka]{.name data-type="lore/gathering"}, is the person who explains this to a foreigner most often, and he starts with the temple. "You are looking for the palace. There is none. Find the biggest temple in the valley and go in by the granary door; the people you need are all inside, and none of them is in charge."
 
 ## What a Janpoda Is
 
@@ -85,7 +85,7 @@ Janpodas vary enormously in size. The smallest hold two or three thousand people
 
 The janpoda owns its land collectively through the temple. A cultivator holds rights of use that pass within his family and cannot be sold to an outsider without the sabhra's consent. The temple keeps the irrigation works, the boundary stones, the granary, the genealogical records and the legal codes. The cultivators pay their tithe in produce and labor; the artisan and merchant households pay theirs in coin and goods. The sabhra hears disputes, and in particular cases the senior priest mediates.
 
-Say a channel breaks below your host's field the week before planting. Your host does not gho to a magistrate. He goes to the temple, where the clerk finds the channel on the survey and the share of water the field is owed; at the next sitting the householders of the three villages that drink from it argue who mends it and who pays, and the convening priest declares what they have agreed. The arrangement is slow, public and very hard to overturn.
+Say a channel breaks below your host's field the week before planting. Your host does not go to a magistrate. He goes to the temple, where the clerk finds the channel on the survey and the share of water the field is owed; at the next sitting the householders of the three villages that drink from it argue who mends it and who pays, and the convening priest declares what they have agreed. The arrangement is slow, public and very hard to overturn.
 
 It is also durable. Temples burn, droughts empty villages, and kingdoms absorb smaller polities and release them again, but the janpodas hold that [[lore-janpdform|their form]] has run unbroken for nearly three thousand years, and a village-cluster today is governed much as one was at the founding of the [[affiliation-vylarinmpr|Vylarian Empire]].
 

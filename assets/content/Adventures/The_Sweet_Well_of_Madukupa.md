@@ -79,8 +79,8 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 **Player choices.**
 
-- _Wake them._ A shout does nothing. Salt, ash, cold water from a skin and a struck blow all do. Each walker woken must be held, or they will gho back.
-- _Follow._ A sleepwalking party member may be shadowed down the stair, and the follower sees where the others gho.
+- _Wake them._ A shout does nothing. Salt, ash, cold water from a skin and a struck blow all do. Each walker woken must be held, or they will go back.
+- _Follow._ A sleepwalking party member may be shadowed down the stair, and the follower sees where the others go.
 - _Block the curb._ A line of the bold at the curb stops the walkers physically. The cold at the shaft's mouth drains them.
 - _Confront the Samonta._ He is on the wall and says nothing for a long minute. Then he asks for help.
 - _Let it happen._ A party that does nothing finds the household reduced by one, and its guest or guide among them.
@@ -109,7 +109,7 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 **Clues and rewards.** The Well-Mother wants to be known. The grandfather swore to her and then never spoke to her again; the line has kept the oath and never the thing it was made with. She will release the sleepers to someone who talks to her.
 
-**Consequences.** Kill her and the seam fails, and the fort and three other wells gho dry. Bargain, and the fort keeps its water at a price it can afford. Leave her, and the sleepers gho on.
+**Consequences.** Kill her and the seam fails, and the fort and three other wells go dry. Bargain, and the fort keeps its water at a price it can afford. Leave her, and the sleepers go on.
 
 **If bypassed.** A party that stops at the stair's foot and does not enter the room finds the water on the stair rising behind it.
 
@@ -132,11 +132,11 @@ In a drought year, [[place-madukupa|Madukupa]] is the only place in the foothill
 
 **Consequences.** The household breaks apart or knits together depending on how the Samonta is treated. The next dry season tests the new terms.
 
-**If bypassed.** The Well-Mother lets the sleepers gho herself, a few at a time, over the next season, and the fort fills with strangers who do not know the year.
+**If bypassed.** The Well-Mother lets the sleepers go herself, a few at a time, over the next season, and the fort fills with strangers who do not know the year.
 
 ## Aftermath
 
-- **The bargain broken.** The seam fails. Three wells in the foothills gho dry in the next drought, and the march road's herders move south. The Maharava's council quarrels.
+- **The bargain broken.** The seam fails. Three wells in the foothills go dry in the next drought, and the march road's herders move south. The Maharava's council quarrels.
 - **A new oath.** Madukupa keeps its water. The Samonta sleeps for the first time in a year, and his heir is told the truth.
 - **The Samonta in the lower room.** His son holds the fort, and the household takes a new name and a new rite.
 - **The sleepers freed.** The herder village below fills with returned dead who are not dead. The temple at [[place-ashvapada|Ashvapada]] has to rule on whether they are the same people.

@@ -14,7 +14,7 @@ There is no pass here, because none is needed. [[place-marchroad|The march road]
 
 ## The Road
 
-The road is the whole significance of the Descent. West it runs to the Dunhari oases and the desert emporia; east it drops into the Vedyari marches and the river country beyond. Salt, horses and hides come east; cotton, worked metal and grain gho west. In a lean season on the sand the [[affiliation-dunhartrbs|Dunhara tribes]] come east too, in numbers, and that is why a kingdom holds the march and no janpoda does.
+The road is the whole significance of the Descent. West it runs to the Dunhari oases and the desert emporia; east it drops into the Vedyari marches and the river country beyond. Salt, horses and hides come east; cotton, worked metal and grain go west. In a lean season on the sand the [[affiliation-dunhartrbs|Dunhara tribes]] come east too, in numbers, and that is why a kingdom holds the march and no janpoda does.
 
 Four centuries ago the whole of a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Banners]], came down this way—round the range's end, not over it—swept the north-western marches, and went on west across the desert until it reached the [[affiliation-kngdmmrdd|Kingdom of Amradad]]'s walls from the wrong side. The road has not moved since. Where the foothills open onto the road lies [[place-lantustal|Lantustal]], the field where the march kingdom died that spring.
 

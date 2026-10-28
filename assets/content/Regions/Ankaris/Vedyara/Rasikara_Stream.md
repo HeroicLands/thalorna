@@ -16,7 +16,7 @@ The shrine of [[affiliation-rasikara|Rasikara]] stands at its head. [[lore-rasik
 
 A Suvargeri who is about to raze a condemned house, fell a diseased tree or cut a blighted harvest comes up to the shrine first. The priests trace the ash-mark on his brow and speak the formula of purging, and the work is done afterward. Most of the janpoda's people come here two or three times in a life.
 
-The shrine keeps no other business. It has three priests, a hearth that is not allowed to gho out, and the standing of a place everybody in the janpoda needs eventually and nobody visits twice in a season.
+The shrine keeps no other business. It has three priests, a hearth that is not allowed to go out, and the standing of a place everybody in the janpoda needs eventually and nobody visits twice in a season.
 
 The stream's water is used for nothing else. It runs off the back slope into broken country and joins [[place-bharavarivr|the Bharava]] well below the janpoda, and the villages on that side take their water from wells.
 

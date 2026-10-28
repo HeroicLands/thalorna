@@ -1,6 +1,6 @@
 ---
 shortcode: dunkelcharms
-name: {full: The Dunkelwald Charms, varo: [Dunkelwald vreld]}
+name: {full: The Dunkelwald Charms, varo: [dunkelwald vreld]}
 type: lore
 subType: literature
 description: "Nine charms of a Dunkelwald household under the bear wesk, each a precedent from the old days and then a command for the hands, taught by a mistress to her daughter in deep winter with a run of small charms between; the birth and the death charm are one charm said in opposite directions, and the ninth survives in its opening only."

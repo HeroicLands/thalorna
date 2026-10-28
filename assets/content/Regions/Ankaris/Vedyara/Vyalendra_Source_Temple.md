@@ -24,7 +24,7 @@ It is a small temple: a walled forecourt, a pillared hall of nine bays, a sanctu
 
 The temple's own record has it taken down and rebuilt on the same footing eleven times. Each rebuilding was begun and finished inside one open season, which is between nine and eleven weeks on that shelf, and the pace is the reason the establishment is what it is: a house of twenty men who can all cut, set and roof.
 
-The interval between rebuildings has never been less than a century and never more than two. The masons read this as a fact about the mountain and not about their predecessors' work, and the record is written in those terms throughout. What the mountain does to the building is not stated anywhere in it. The oldest hands say the walls gho out of true from the bottom, slowly, over about four generations, and that nothing anybody has tried in the footing has ever changed the rate.
+The interval between rebuildings has never been less than a century and never more than two. The masons read this as a fact about the mountain and not about their predecessors' work, and the record is written in those terms throughout. What the mountain does to the building is not stated anywhere in it. The oldest hands say the walls go out of true from the bottom, slowly, over about four generations, and that nothing anybody has tried in the footing has ever changed the rate.
 
 The present building is in its ninth decade.
 
@@ -32,7 +32,7 @@ The present building is in its ninth decade.
 
 Every day of the open season a priest reads the outflow against a graduated post set in the rock below the spring, and enters the reading in the record with the day and the weather. The series is nine hundred years long and unbroken except for the years of a rebuilding, when it was kept anyway, on the same post, by whichever man could be spared.
 
-It is the best record of the wall's melt that exists. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has twice offered to buy a copy and has twice been refused without a reason given, which the Collective reads as the price rising. The readings themselves gho down with the last caravan of the year to the reckoners in the lowlands, who use them and do not own them.
+It is the best record of the wall's melt that exists. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has twice offered to buy a copy and has twice been refused without a reason given, which the Collective reads as the price rising. The readings themselves go down with the last caravan of the year to the reckoners in the lowlands, who use them and do not own them.
 
 ## The Pilgrimage
 

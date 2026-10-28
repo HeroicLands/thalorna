@@ -1,6 +1,6 @@
 ---
 shortcode: gnldrsldstrmrt
-name: {full: Gnildurselda Snarvumak, nord: [lysandra aetherwind]}
+name: {full: Gnildurselda Snarvumak, aelw: [Lysandra Aetherwind]}
 type: being
 subType: npc
 tags: [draft, mages]

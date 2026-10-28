@@ -76,7 +76,7 @@ The count divides the sun's year and not the moon's. Twelve months carry it, sev
 
 The year opens at the vernal equinox, on the first day of [Prabhavakala]{.name data-type="lore/calendar"}, and each of the world's four fixed days opens a month: the summer solstice opens [Purnakala]{.name data-type="lore/calendar"}, the autumnal equinox [Danyakala]{.name data-type="lore/calendar"}, and the winter solstice [Koshtakala]{.name data-type="lore/calendar"}. The reckoners of the [[affiliation-ganokashalda|Ganoka-shalda]] call this the whole argument for the calendar: a month that began on any other day would wander off the sun within a lifetime, and not one of these does.
 
-1. **Prabhavakala** (30 days), the month of the sources—the glacier-springs open above [[place-sthrnwall|the Southern Wall]], the rivers rise on snowmelt, and the pilgrim roads to the four heads gho up. The year opens on its first day.
+1. **Prabhavakala** (30 days), the month of the sources—the glacier-springs open above [[place-sthrnwall|the Southern Wall]], the rivers rise on snowmelt, and the pilgrim roads to the four heads go up. The year opens on its first day.
 2. [Pushpakala]{.name data-type="lore/calendar"} (31 days), the flowering—the plateau and the forest country come into flower, and the garland trade that serves the great temples runs at its height.
 3. [Jvalakala]{.name data-type="lore/calendar"} (30 days), the flame—the hottest of the twelve and the last dry one. The wells drop, the plateau goes hard, and work moves into the early morning.
 4. [Meghamukhakala]{.name data-type="lore/calendar"} (31 days), the mouth of the clouds—the first weather comes up off the [[place-meghrsmdra|Meghra-samedra]], and the rains break before the month is out.

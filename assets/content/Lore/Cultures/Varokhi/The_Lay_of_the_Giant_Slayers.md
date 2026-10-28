@@ -1,6 +1,6 @@
 ---
 shortcode: giantslayers
-name: {full: The Lay of the Giant Slayers, varo: [Dorgbán drunga]}
+name: {full: The Lay of the Giant Slayers, varo: [dorgbán drunga]}
 type: lore
 subType: literature
 description: "The lay a landing kindred recites at Waldburg under the market peace: the people coming out of the east over the grass to a wood the giants held, Brunjulf's vow and the crossing on the ice, the last giant brought down at the ford and given a mound, and the Deepwood's answer that the people came out of the oaks as well."

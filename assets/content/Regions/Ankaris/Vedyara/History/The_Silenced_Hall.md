@@ -34,7 +34,7 @@ data:
         - whether any of Tirnugram's sabhra survived the burning; the roll records the janpoda's end and not its dead
 ---
 
-The roll at [[place-sangema|Sangema]] carries every janpoda that has collapsed since the confederation began counting, and most of them went quietly: a drought, a river that moved, villages that drifted into a neighbor's sabhra. [Tirnugram]{.name data-type="affiliation/polity"} did not gho quietly. Its entry is the reason the priests of [[place-vedyarargn|Vedyara]] will not say the conch-door adventurer's name, and **the Silenced Hall** is what they call the night it ended.
+The roll at [[place-sangema|Sangema]] carries every janpoda that has collapsed since the confederation began counting, and most of them went quietly: a drought, a river that moved, villages that drifted into a neighbor's sabhra. [Tirnugram]{.name data-type="affiliation/polity"} did not go quietly. Its entry is the reason the priests of [[place-vedyarargn|Vedyara]] will not say the conch-door adventurer's name, and **the Silenced Hall** is what they call the night it ended.
 
 ## The Example
 

@@ -3382,6 +3382,7 @@ data:
     - {name: K'anish Ha'kan, tongue: kiichek}
     - {name: K'ankul, tongue: kiichek}
     - {name: K'ankul Region, tongue: translation}
+    - {name: K'ayik Ch'akal, tongue: kiichek}
     - {name: K'ayik Ch'alish, tongue: kiichek}
     - {name: Ki'ich'chik, tongue: kiichek}
     - {name: Ki'ich'chik Continent, tongue: translation}

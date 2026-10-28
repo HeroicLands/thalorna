@@ -23,7 +23,7 @@ Sarvaprabhava is the source of [[place-sarvedarivr|the Sarveda]], in a hanging v
 
 ## The Measurement
 
-What the temple does, year in and year out, is measure. Every day of the open season a priest reads the outflow against a graduated post set in the rock, and the readings gho down to the reckoners in the lowlands with the last caravan of the year.
+What the temple does, year in and year out, is measure. Every day of the open season a priest reads the outflow against a graduated post set in the rock, and the readings go down to the reckoners in the lowlands with the last caravan of the year.
 
 The series is nine hundred years long. It is the best single record of the wall's melt anybody has. [[affiliation-mrchntclctvvdyr|The Merchant Collective]] has twice offered to buy a copy, and the temple has twice declined without giving a reason, which the Collective has correctly read as the price going up.
 

@@ -87,7 +87,7 @@ The Faith of P'iqal Kul'qat teaches that before time had a name, the world was c
 
 ## Worship
 
-The ceremonies of [Kul'qat Tik'il]{.name data-type="lore/custom"} (foundation-laying) and [Kul'qat Ts'apel]{.name data-type="lore/custom"} (dedication) mark the beginning and completion of sacred building. The first is the more solemn: the ground is opened, the lines are set from the astronomers' alignments, and jade and blood gho into the first course. The second is the more public, and the **Master of the Dedication** alone may declare a work finished—a power that has been used to hold a Ts'enmah's vanity project unfinished for years.
+The ceremonies of [Kul'qat Tik'il]{.name data-type="lore/custom"} (foundation-laying) and [Kul'qat Ts'apel]{.name data-type="lore/custom"} (dedication) mark the beginning and completion of sacred building. The first is the more solemn: the ground is opened, the lines are set from the astronomers' alignments, and jade and blood go into the first course. The second is the more public, and the **Master of the Dedication** alone may declare a work finished—a power that has been used to hold a Ts'enmah's vanity project unfinished for years.
 
 Artisans of every kind begin their work with small offerings—a potter pressing the goddess's glyph into a vessel's base, a weaver tying a knot in invocation, a mason placing jade into mortar. These are not ceremonies and require no priest. The doctrine is that the offering is the intention, and that a thing made carelessly is an offering withheld regardless of what was placed in it.
 

@@ -96,7 +96,7 @@ The wells themselves are not the crown's. Each was cut by a named lineage, is he
 
 ## The Moving Court
 
-There is no capital, and a newcomer with business before the crown should not gho looking for one. The Maharava's court travels a circuit of the principal wells through the year, arriving at each as the herds do, and it is the arrival of the court rather than any summons that brings a district's business forward. A petition waits for the circuit. A judgment given at one well is remembered at the next because the same people walk between them.
+There is no capital, and a newcomer with business before the crown should not go looking for one. The Maharava's court travels a circuit of the principal wells through the year, arriving at each as the herds do, and it is the arrival of the court rather than any summons that brings a district's business forward. A petition waits for the circuit. A judgment given at one well is remembered at the next because the same people walk between them.
 
 The **Rojni** keeps the one fixed establishment, at the winter wells in the north-east where the tanks are largest: the treasury, the written record, the granary bought out of the river valleys, and such hostages as the crown is holding. The division is deliberate. A rival who takes the standing camp has taken the records and not the kingdom, and a rival who takes the crown has taken a man on a horse.
 

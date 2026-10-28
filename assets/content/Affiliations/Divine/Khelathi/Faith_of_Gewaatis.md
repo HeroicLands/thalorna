@@ -52,7 +52,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-At a stone shrine on a rise above the river road, a Lem'Nelgir of Gewa'atis stops a young merchant who is tightening the last strap on his mule. "Before you gho," the priest says, "tell me which ford is running high and which well has gone brackish. You do not know? Then you are asking the god for sight and have brought him none of your own. Leave your offering, and then come inside and let me tell you what the last three caravans told me."
+At a stone shrine on a rise above the river road, a Lem'Nelgir of Gewa'atis stops a young merchant who is tightening the last strap on his mule. "Before you go," the priest says, "tell me which ford is running high and which well has gone brackish. You do not know? Then you are asking the god for sight and have brought him none of your own. Leave your offering, and then come inside and let me tell you what the last three caravans told me."
 
 That exchange expresses the teaching about [[lore-gewaatisdty|Gewa'atis]], the **Guiding Falcon**, who is god of travelers, explorers and everyone who goes into the unknown seeking discovery. He is pictured as a great falcon with wings spread wide, soaring above the lands of [[place-worldthlrn|Thalorna]] with sight keen enough to see distant horizons and the obstacles hidden from anyone on the ground. In the faith's teaching, he watches over merchants who guide caravans across great distances, warriors marching into foreign territory, pilgrims bound for distant temples and adventurers drawn into uncharted land by curiosity or need. He does not shield a traveler from hardship. He gives a guide who ensures safe passage when passage can be had, and the wisdom to get through disaster when it cannot.
 

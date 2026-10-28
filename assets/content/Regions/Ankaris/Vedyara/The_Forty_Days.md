@@ -38,7 +38,7 @@ _Gloss._ The last four words are the whole of the matter, and the chronicler wro
 
 _Gloss._ It is fair to ask why a sabhra took forty days to end what nobody in the hall wished to keep. The answer the decree gives is in its clauses. The sabhra was not deciding whether the kingdom was finished; it was deciding what to keep of it and what to unmake, and every clause is one such decision.
 
-The palace was unmade, and the classical account is that its stones went into the temple so that the kingdom's work would gho on holding something up. Its cellars lie open at the north end of the town, and nobody builds there.
+The palace was unmade, and the classical account is that its stones went into the temple so that the kingdom's work would go on holding something up. Its cellars lie open at the north end of the town, and nobody builds there.
 
 The granaries were not unmade. They were taken out of the palace's hands and put where every village could see them, and the four-story granary in the temple court is a common store to this day. A drunk king's guard opened the royal doors; twelve men of the town watch lock the common ones at night.
 

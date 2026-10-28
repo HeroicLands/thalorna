@@ -3,7 +3,7 @@ shortcode: sthrnwall
 name: {full: The Southern Wall, en: [The Wall]}
 type: place
 subType: feature
-description: "The unbroken escarpment along Vedyara's whole northern margin—the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot gho over."
+description: "The unbroken escarpment along Vedyara's whole northern margin—the highest ground on Thalorna, the source of the four great rivers, and the wall the subcontinent cannot go over."
 tags: [mountain, frontier, inland]
 data:
   demonym: null
@@ -26,7 +26,7 @@ The melt is not steady. A warm spring on the Wall puts the rivers up three weeks
 
 ## Sacred Ground
 
-In that tradition, the Wall's peaks are the dwelling-places of the Varnuka gods, and the pilgrimage to the lower slopes is an ordinary part of a devout life. Hundreds of thousands walk to the shrine-terraces in the favorable months, and a very small number gho higher, to the springs themselves, where the temples stand.
+In that tradition, the Wall's peaks are the dwelling-places of the Varnuka gods, and the pilgrimage to the lower slopes is an ordinary part of a devout life. Hundreds of thousands walk to the shrine-terraces in the favorable months, and a very small number go higher, to the springs themselves, where the temples stand.
 
 Above the last of [[place-pssshrines|the Pass-Shrines]] no rule of station reaches. [[affiliation-osketguides|The Osket]] who live up there are not in the tarona, and they are not outside it the way an **Outcaste** is outside it. The order does not address them at all, and orthodox Vedyari jurists have left the matter undisturbed for as long as anyone has been writing the question down.
 

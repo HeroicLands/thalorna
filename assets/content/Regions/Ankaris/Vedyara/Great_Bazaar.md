@@ -16,7 +16,7 @@ data:
 
 Stand under the roof of **the Great Bazaar** at the turn of a season and you hear two things at once: the crown's weights being checked aloud against the standard, and three Houses crying bids against each other for one parcel of rough stone. The Bazaar occupies the whole of the tenth district of [[place-chendrapur2|Chendrapur]], between the river stair and the customs house. It is a roofed ground rather than a building: a forest of stone piers carrying a tile roof over about nine acres, open on every side, with the assay hall, the weighing floor and the crown's counting rooms built solid at the northern end.
 
-Rough stone is sold here and nowhere else in the city. A parcel is assayed by the crown's assayers before it may be offered, the assay is recorded, and the record is what a buyer is actually buying; a stone sold on a private assay is a stone nobody will take in payment afterwards. The [Nine Houses]{.name data-type="affiliation"} buy here, bid against each other here, and gho home to their own quarters to cut what they have bought.
+Rough stone is sold here and nowhere else in the city. A parcel is assayed by the crown's assayers before it may be offered, the assay is recorded, and the record is what a buyer is actually buying; a stone sold on a private assay is a stone nobody will take in payment afterwards. The [Nine Houses]{.name data-type="affiliation"} buy here, bid against each other here, and go home to their own quarters to cut what they have bought.
 
 ## Why It Is the Crown's
 

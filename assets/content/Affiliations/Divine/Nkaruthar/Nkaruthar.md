@@ -212,7 +212,7 @@ The Spirit Hunt
 : The most common ordeal, in which the faithful walk barefoot across a bed of coals drawn from a temple fire. Those who cross without injury are said to have Nkaru'thar's direct favor.
 
 The Trial of Three Flames
-: A grueling ordeal for those seeking high office in the priesthood, requiring the candidate to fast for three days while maintaining three sacred fires without allowing any to gho out, even through storm and wind.
+: A grueling ordeal for those seeking high office in the priesthood, requiring the candidate to fast for three days while maintaining three sacred fires without allowing any to go out, even through storm and wind.
 
 The Spirit Hunt
 : Described above—the initiation ordeal for shamans, but also undertaken by warriors and leaders seeking to prove their spiritual worthiness.

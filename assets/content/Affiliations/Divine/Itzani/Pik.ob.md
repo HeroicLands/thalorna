@@ -102,7 +102,7 @@ A **Warden of the Abandoned Temple** holds such a structure and, in the only dut
 
 The Pik'ob take few initiates and take them late. A candidate is usually a person who has already lost a great deal, and the order is frank that it recruits from grief. A **Grieving** newcomer is permitted to sit in a grove under no obligation and is asked for nothing; most never come back, and the order regards that as the practice working rather than failing. Those who do return are received for the long formation, and profession comes years afterward, if at all.
 
-Because the order takes the bereaved and teaches them the impermanence of everything, it sits permanently near a dangerous edge—and it knows it. The **Warden of the Drifting** exists for exactly that: to watch those whose philosophy is moving from acceptance toward acceleration, and to put them out of the groves before they gho further. It is the office that lets the rest of the priesthood tolerate the order's existence.
+Because the order takes the bereaved and teaches them the impermanence of everything, it sits permanently near a dangerous edge—and it knows it. The **Warden of the Drifting** exists for exactly that: to watch those whose philosophy is moving from acceptance toward acceleration, and to put them out of the groves before they go further. It is the office that lets the rest of the priesthood tolerate the order's existence.
 
 ## Relations
 

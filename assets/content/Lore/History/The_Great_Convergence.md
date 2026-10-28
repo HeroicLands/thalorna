@@ -1,6 +1,6 @@
 ---
 shortcode: greatcnvrg
-name: {full: The Great Convergence, en: [Dao Rong Hou]}
+name: {full: The Great Convergence, tant: [Dao Rong Hou]}
 type: lore
 subType: history
 description: "The zero of Tantsou's Celestial Calendar—the first perfect alignment after the Great Sorting, the first appointment under the Mandate of Heaven, and a date every bureau of the empire files against and no record outside it carries."

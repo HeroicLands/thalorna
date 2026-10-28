@@ -90,7 +90,7 @@ Gudi / Gudja
 Hofgudi / Hofgudja
 : consecrates rune-halls, ordains their gudar, and performs the great blet at a season's turning.
 
-The faith teaches rune casting and divination, shamanic journeying, poetic inspiration and storytelling, battle wisdom and strategic insight, intrigue and politics, and the arcane arts. Three kinds of servant belong to Odvar. The choosers of the slain select fallen warriors and bring them to Valsal. The [[lore-valdrengir|Valdrengir]] are the honored dead who live there, training for the final battle of [[lore-aldarlok|Aldarlok]]; half the honored dead are said to gho instead to [[lore-solrundty|Solrún]]'s field at [[place-solvangur|Solvangur]]. The ravens fly the world each day, Hugvin gathering knowledge and wisdom and Munvin traveling far to bring back insights from every corner of it.
+The faith teaches rune casting and divination, shamanic journeying, poetic inspiration and storytelling, battle wisdom and strategic insight, intrigue and politics, and the arcane arts. Three kinds of servant belong to Odvar. The choosers of the slain select fallen warriors and bring them to Valsal. The [[lore-valdrengir|Valdrengir]] are the honored dead who live there, training for the final battle of [[lore-aldarlok|Aldarlok]]; half the honored dead are said to go instead to [[lore-solrundty|Solrún]]'s field at [[place-solvangur|Solvangur]]. The ravens fly the world each day, Hugvin gathering knowledge and wisdom and Munvin traveling far to bring back insights from every corner of it.
 
 ## Ceremonies and Festivals
 

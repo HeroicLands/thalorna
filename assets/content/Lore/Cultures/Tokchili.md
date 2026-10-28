@@ -1,6 +1,6 @@
 ---
 shortcode: tokchiliclt
-name: {full: Tokchili, tokc: [tokchili]}
+name: {full: Fire People, kiichek: ["K'ayik Ch'akal"], tokc: [tokchili]}
 type: lore
 subType: culture
 description: "The people of the One Fire—their beliefs, their mores, and what they hold a person owes."

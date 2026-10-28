@@ -24,7 +24,7 @@ data:
       - level: 1
         title: Lay
         description: >-
-          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never gho further.
+          Has petitioned, keeps the small observances, and is thereby known to people they would rather not be known to. Most who deal with the Youweng never go further.
       - level: 2
         title: Acolyte
         description: >-
@@ -76,10 +76,10 @@ employed doing something entirely respectable, and the two facts are not in tens
 What such a person holds is a small and specific inheritance: the forms of address for one or two
 classes of lesser demon, the appeasements each expects, and the knowledge of which requests are
 worth making. It is taught by one practitioner to one other, rarely written, and lost constantly.
-The [[lore-tanchei|Tanchei]] consider the resulting variation the reason lesser-demon petitions gho wrong so much
+The [[lore-tanchei|Tanchei]] consider the resulting variation the reason lesser-demon petitions go wrong so much
 more often than Demon Lord petitions, which are drafted by professionals.
 
-They gho wrong in the same direction as everything else in the Youweng. A ledger-gnawer asked to
+They go wrong in the same direction as everything else in the Youweng. A ledger-gnawer asked to
 remove an inconvenient entry will remove the entry—and, if the request was loosely drawn, the
 ledger, the archive it sat in, and the clerk who filed it.
 

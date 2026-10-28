@@ -16,7 +16,7 @@ data:
 
 ## Overview
 
-In Chendrapur Land, gho up [[place-chandrmahi|the Chandramahi]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chendrapur|Chendrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
+In Chendrapur Land, go up [[place-chandrmahi|the Chandramahi]] from the sea and the country changes three times before you reach the rapids: a shore of salt-pans and fishing beaches, a floodplain of rice and cotton, and above the city a valley of workshops. All three belong to the city-state of [[affiliation-chendrapur|Chendrapur]], which holds the lower river from the last of the rapids down to the sea, the delta the river builds there, and the roadstead outside the bar where deep-water hulls wait out the monsoon. The city stands at the head of the delta, and everything in the land is arranged with reference to it, from the gem-road that climbs the valley to the cutting-villages to the boat-timber the shore sends down to the yards.
 
 ## How the land is held
 
@@ -57,7 +57,7 @@ The valley is the gem-road. It climbs behind the city along the last hundred mil
 
 The floodplain is the delta itself, two rice crops a year on ground the river remakes, with cotton on the drier back-country. It is the most productive land in the city-state and the least regarded, because nothing that grows on it is worth what a cut stone is worth.
 
-The shore runs east and west from the river mouth: salt-pans behind the dunes, fishing beaches, and the boat-timber the yards at [[place-chandrmukha|Chandramukha]] consume. The shore villages are the poorest in the land and the least attached to it, because a man on that coast can always gho to sea.
+The shore runs east and west from the river mouth: salt-pans behind the dunes, fishing beaches, and the boat-timber the yards at [[place-chandrmukha|Chandramukha]] consume. The shore villages are the poorest in the land and the least attached to it, because a man on that coast can always go to sea.
 
 ## Economy
 

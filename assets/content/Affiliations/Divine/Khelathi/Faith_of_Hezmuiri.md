@@ -60,9 +60,9 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-A family stands at the gate of an embalming temple with their father's body on a litter, and the Lem'Nelgir who comes out to meet them does not begin with comfort. "He will be in our hands for seventy days," she says. "Some of what you see us do will look like harm. Stay for the first prayer and you will see why it is not. Then gho home and keep the house as he would have kept it; the rest is ours."
+A family stands at the gate of an embalming temple with their father's body on a litter, and the Lem'Nelgir who comes out to meet them does not begin with comfort. "He will be in our hands for seventy days," she says. "Some of what you see us do will look like harm. Stay for the first prayer and you will see why it is not. Then go home and keep the house as he would have kept it; the rest is ours."
 
-That is the work of the Faith of Hezmu'iri, which honors [[lore-hezmuiridty|Hezmu'iri]], the **Keeper of Transitions**, god of decay, mummification and transformation, and the compassionate guide of the dead through the passage from life into whatever follows. Most people take decay for something to deny and overcome. [[lore-khelathiclt|Khelathi]] theology holds that _decay is a necessary and sacred transformation_, and that the body which served its owner faithfully must be changed before the spirit can gho on into eternity. Hezmu'iri is held to see that the change is done with reverence, precision and respect.
+That is the work of the Faith of Hezmu'iri, which honors [[lore-hezmuiridty|Hezmu'iri]], the **Keeper of Transitions**, god of decay, mummification and transformation, and the compassionate guide of the dead through the passage from life into whatever follows. Most people take decay for something to deny and overcome. [[lore-khelathiclt|Khelathi]] theology holds that _decay is a necessary and sacred transformation_, and that the body which served its owner faithfully must be changed before the spirit can go on into eternity. Hezmu'iri is held to see that the change is done with reverence, precision and respect.
 
 ## The Jackal and the Moon
 

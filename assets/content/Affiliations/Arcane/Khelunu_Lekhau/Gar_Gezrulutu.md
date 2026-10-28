@@ -15,7 +15,7 @@ data:
   governance:
     model: meritocracy
     summary: >-
-      The House of the Red Land holds the country's other half and everything the valley is defended from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its reputation is worse than its practice deserves. The empire's gold, stone and roads all come out of the Red Land, and the House's commonest work is keeping the people who gho there alive.
+      The House of the Red Land holds the country's other half and everything the valley is defended from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its reputation is worse than its practice deserves. The empire's gold, stone and roads all come out of the Red Land, and the House's commonest work is keeping the people who go there alive.
     ranks:
       - level: 0
         title: Name Struck
@@ -36,7 +36,7 @@ data:
       - level: 4
         title: Wer Khel-Gebu
         description: >-
-          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must gho and correct it.
+          Chief lector of the House at a temple, answerable for every form its practitioners set down. Where a working has failed and stands failed, this is the office that must go and correct it.
     offices:
       Warden of the Tracks: >-
         Sets and maintains the workings on the desert roads, water-stations and quarry-camps.
@@ -54,7 +54,7 @@ sohl: {system: {commonSkills: []}}
 
 "The House has a worse name than it deserves," a **Warden of the Tracks** tells a caravan-master who has crossed the yard to avoid him. "Think about who keeps your water-stations working."
 
-**Gar-Gezru'lutu**, the **House of the Red Land**, holds the country's other half and everything the valley is defended from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its reputation is worse than its practice deserves. The empire's gold, stone and roads all come out of the **Red Land**, and the House's commonest work is keeping the people who gho there alive.
+**Gar-Gezru'lutu**, the **House of the Red Land**, holds the country's other half and everything the valley is defended from: fire and drought, the storm, the endurance that crossing the waste demands, and plague. Its reputation is worse than its practice deserves. The empire's gold, stone and roads all come out of the **Red Land**, and the House's commonest work is keeping the people who go there alive.
 
 ## Two Offices
 

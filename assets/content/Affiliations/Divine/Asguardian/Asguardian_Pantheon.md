@@ -51,7 +51,7 @@ data:
 sohl: {system: {commonSkills: []}}
 ---
 
-"They are going to lose," a gudi who keeps a farm hov in the [[place-norgaad|Norgaad]] passes tells every newcomer, before he gives them a single god's name. "At the close of this age the gods who stand against the fire gho down with the world, and their heirs inherit whatever comes after. We worship them because they know it and gho out to meet it anyway. If you want gods who promise to win, gho south."
+"They are going to lose," a gudi who keeps a farm hov in the [[place-norgaad|Norgaad]] passes tells every newcomer, before he gives them a single god's name. "At the close of this age the gods who stand against the fire go down with the world, and their heirs inherit whatever comes after. We worship them because they know it and go out to meet it anyway. If you want gods who promise to win, go south."
 
 The Asguardian Pantheon is the dominant faith of the northern and coastal peoples of the [[place-ankrscntnnt|Ankaris Continent]], worshipped in various forms across the [[place-nrdlndsrgn|Nordlands]], [[place-vrystwald|Vristwald]], [[place-aelwyth|Aelwyth]] and other northern territories. In its teaching, its ten gods each govern a part of existence, and its people expect the present age to end at [[lore-aldarlok|Aldarlok]] in a battle the defending gods do not survive. An outsider remembers the faith for that expectation, and for the weight it gives a sworn word.
 
@@ -90,7 +90,7 @@ Most faiths keep their clergy to a single conferring rite rather than a ladder o
 
 Temples are called _hovs_, and their form varies. A major hov in a royal seat may be a substantial stone hall with carved pillars, smoke-darkened rafters, and interior chambers for divination and the keeping of relics; a rural hov may be little more than a wooden shrine-house in a sacred grove. Size does not make a hov. A hov is a place where a _blet_ (sacrifice or offering) may be properly made, where a _ting_ (assembly) may gather under the god's attention, and where oaths may be sworn with binding force. A family's household may contain a smaller _horgur_—a stone altar or cairn—where the everyday offerings are made: the first pour of the day's mead, a portion of meat from the slaughter, a lock of hair before a journey.
 
-Beside the clergy gho the _velvur_, itinerant seeresses bound to no hov, who travel between settlements offering divination, dream-reading and contact with the dead. A velva is received with great courtesy wherever she goes: she eats at the jarl's table, sleeps by the hearth, takes whatever hospitality is offered, and in return will sit upon the high seat at the heart of the hall and answer the questions the household needs answered. The velvur are revered across the whole pantheon and belong to no single god, though most regard themselves as particular servants of [[lore-solrundty|Solrún]] and [[lore-odvardty|Odvar]], who both hold the craft of seid in their keeping.
+Beside the clergy go the _velvur_, itinerant seeresses bound to no hov, who travel between settlements offering divination, dream-reading and contact with the dead. A velva is received with great courtesy wherever she goes: she eats at the jarl's table, sleeps by the hearth, takes whatever hospitality is offered, and in return will sit upon the high seat at the heart of the hall and answer the questions the household needs answered. The velvur are revered across the whole pantheon and belong to no single god, though most regard themselves as particular servants of [[lore-solrundty|Solrún]] and [[lore-odvardty|Odvar]], who both hold the craft of seid in their keeping.
 
 : The Ten and the Last Muster
 
@@ -764,7 +764,7 @@ Beside the clergy gho the _velvur_, itinerant seeresses bound to no hov, who tra
 2 [eldtunga hup hurvi.]{lang=nord}
 
 1 [nafma gang framri, nimri.]{lang=nord enc=nordthuravarkenc}
-2 [the names gho onward.]{lang=en}
+2 [the names go onward.]{lang=en}
 2 [nafma gang framri, nimri.]{lang=nord}
 
 1 [blet halv hluva.]{lang=nord enc=nordthuravarkenc}
@@ -1044,7 +1044,7 @@ Beside the clergy gho the _velvur_, itinerant seeresses bound to no hov, who tra
 2 [mannguard ok asguard, miv mannvar,]{lang=nord}
 
 1 [gang nif miv samliv, samri.]{lang=nord enc=nordthuravarkenc}
-2 [gho down together.]{lang=en}
+2 [go down together.]{lang=en}
 2 [gang nif miv samliv, samri.]{lang=nord}
 
 1 [heimsaldur halv lorka]{lang=nord enc=nordthuravarkenc}
@@ -1272,7 +1272,7 @@ The expected end gives the faith its moral weight. A people who expect the world
 
 In the sagas, Svartbrandur and Eidgar stand in permanent opposition, destruction against order and justice, and the priests of both read the quarrel as Aldarlok in small. Eidgar and Frodvin share a bond of mutual respect: Frodvin keeps the earth and the peace, and Eidgar keeps the justice that lets a peace hold.
 
-Odvar and Solrún share the rulership of the honored dead: half of the slain gho to Valsal to serve under the All-Father, half to Solvangur to sit at Solrún's tables. This division is treated as amicable in the old tellings, but it conceals a theological tension the skalds do not always name—the old god of rune and war does not entirely trust the seid-craft that his sister-wife has made her own, and Solrún does not entirely forgive him for the ways he has misused it. They work together; they do not love each other.
+Odvar and Solrún share the rulership of the honored dead: half of the slain go to Valsal to serve under the All-Father, half to Solvangur to sit at Solrún's tables. This division is treated as amicable in the old tellings, but it conceals a theological tension the skalds do not always name—the old god of rune and war does not entirely trust the seid-craft that his sister-wife has made her own, and Solrún does not entirely forgive him for the ways he has misused it. They work together; they do not love each other.
 
 Thrunvald and [[lore-velgrimurdty|Velgrímur]] are the pantheon's strangest pairing. The Trickster is Thrunvald's traveling companion in a dozen sagas, his foil, his occasional rescuer, his frequent embarrassment. The faithful of Thrunvald treat Velgrímur with suspicion bordering on hostility, but Thrunvald himself—in the mythic record—keeps him close. The rune-priests teach that Velgrímur is necessary: the world is held together as much by the cunning that bends as by the strength that breaks, and the pantheon would be poorer for his absence. At Aldarlok, however, the cunning will finally run out, and Velgrímur will stand with Svartbrandur against his kin. The faithful know this and honor Velgrímur anyway.
 

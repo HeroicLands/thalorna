@@ -1,6 +1,6 @@
 ---
 shortcode: feudcord
-name: {full: The Lay of the Feud-Cord, varo: [Skathdreth drunga]}
+name: {full: The Lay of the Feud-Cord, varo: [skathdreth drunga]}
 type: lore
 subType: literature
 description: "The Othholt lay of two kindreds and a vow, recited before the three seats when a kindred means to refuse a settlement: a brother holds to a vow against a full blood-price, the feud empties both halls in three winters, and the Skathár who held the price brings it to the last child, told in set speeches between the flat entries of the reckoning."

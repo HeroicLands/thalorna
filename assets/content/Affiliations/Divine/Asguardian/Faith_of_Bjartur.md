@@ -25,7 +25,7 @@ data:
         title: Bjartgengir
         lore: faithfulrnk
         description: >-
-          Those who gho to the light, coming to its rites for the priests' blessing. Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
+          Those who go to the light, coming to its rites for the priests' blessing. Comes to the Blessing of Light or the Night of Dreams and receives the priests' blessing, holding nothing further the faith asks of him.
       - level: 2
         title: Iltorin
         lore: tindesarrnk
@@ -55,7 +55,7 @@ sohl: {system: {commonSkills: []}}
 #   symbol: Sunstone and silver leaf
 ---
 
-The Faith of Bjart gathers under trees rather than in a hov. At the [Blessing of Light]{.name data-type="lore/custom"}, a priest stands a worshipper in a forest clearing at dusk and asks that the light come between that person and despair, and for most of Bjart's followers that one ceremony is the whole of their devotion. A pilgrim who walks to a northern grove each autumn puts it plainly: "I will never be a priest, and nobody there expects it of me. I take the blessing, I sleep easier for a season, and I gho home. The faith asks nothing more than that I came."
+The Faith of Bjart gathers under trees rather than in a hov. At the [Blessing of Light]{.name data-type="lore/custom"}, a priest stands a worshipper in a forest clearing at dusk and asks that the light come between that person and despair, and for most of Bjart's followers that one ceremony is the whole of their devotion. A pilgrim who walks to a northern grove each autumn puts it plainly: "I will never be a priest, and nobody there expects it of me. I take the blessing, I sleep easier for a season, and I go home. The faith asks nothing more than that I came."
 
 [[lore-bjarturdty|Bjart]] is the Asguardian name for [[lore-goddreams|the God of Dreams]], a deity older than any human pantheon, honored by the [[lore-flksinale|Sinale Folk]] and the [[lore-flkkhazar|Khazár Folk]] since before humankind existed. The Aureldian peoples know the same god as [[lore-zunelasdty|Zunelas]]. Among northern humans the faith draws its worshippers through the god's dream aspect, understood as the power to guide, inspire and foretell through the landscapes of sleep. That makes it unusual within the [[affiliation-asguardian|Asguardian Pantheon]] (the Ten): where most northern faiths are led by warriors, jarls and seafarers, Bjart's human followers tend to be seers, healers and people who look for wisdom in vision rather than in the sword.
 

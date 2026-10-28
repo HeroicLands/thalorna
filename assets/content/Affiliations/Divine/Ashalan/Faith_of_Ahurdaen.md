@@ -1,8 +1,6 @@
 ---
 shortcode: ahurdaen
-name:
-  full: Faith of Ahurdaen
-  en: [The Keeper of Harmony, Ahura Mazda, "Ahurdaen, The Keeper of Harmony"]
+name: {full: Faith of Ahurdaen, en: [The Keeper of Harmony, "Ahurdaen, The Keeper of Harmony"]}
 type: affiliation
 subType: faithtradition
 description: "Order."

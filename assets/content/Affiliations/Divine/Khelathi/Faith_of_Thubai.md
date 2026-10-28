@@ -68,7 +68,7 @@ His priests are not naive about it, and a newcomer should hear this part early. 
 
 His followers include merchants and traders, who credit their commercial success to his favor; nobles, who know their wealth buys refinement and culture; farmers and vintners, who thank him for the fertility of their crops; and, most of all, the common people, who find in his worship divine sanction for the simple pleasures that make life bearable: good beer, good company, music and laughter. The contradiction between spiritual devotion and sensual enjoyment that perplexes other faiths does not exist for them, because the two are the same thing.
 
-Beer and wine are central to religious and secular life alike in Au'Khelathu, and both are understood as his gifts. Brewmasters keep small shrines in their breweries, and vintners time harvest and fermentation by his festivals. The finest wines and beers gho to his temples, where the priesthood conducts solemn ceremonies of appreciation before sharing them with the faithful. Music and dance are integral: his temples employ musicians and dancers who perform in joyful celebration, never in solemn procession.
+Beer and wine are central to religious and secular life alike in Au'Khelathu, and both are understood as his gifts. Brewmasters keep small shrines in their breweries, and vintners time harvest and fermentation by his festivals. The finest wines and beers go to his temples, where the priesthood conducts solemn ceremonies of appreciation before sharing them with the faithful. Music and dance are integral: his temples employ musicians and dancers who perform in joyful celebration, never in solemn procession.
 
 ## Worship
 

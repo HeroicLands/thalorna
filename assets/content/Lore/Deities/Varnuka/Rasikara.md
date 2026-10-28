@@ -18,7 +18,7 @@ He is venerated for courage and not for comfort. The courage asked is to meet wh
 
 A fire-brand of consecrated wood is carried in every rite of purging. A fragment of the Ring, a broken metal circle, is worn at the neck as a sign of willingness to be broken and remade. An ash-mark on the brow is traced before any work that destroys what came before, before the razing of a condemned house, the felling of a diseased tree, the cutting of a blighted harvest.
 
-Rasikaran households keep an unbroken hearth-flame, carried from parent to child at each marriage. To let it gho out is a grave omen. An ember from it lights the pyre at a death in the family.
+Rasikaran households keep an unbroken hearth-flame, carried from parent to child at each marriage. To let it go out is a grave omen. An ember from it lights the pyre at a death in the family.
 
 His shrines stand at a city's edge and at its cremation grounds, and not at its center. Two are named where his fire has gone specifically to work: the cremation shrine outside [[affiliation-dnrktjnpd|Danurkot]], and the shrine at [[place-muktoshvara|Muktoshvara]], [[affiliation-rajeprjnpd|Rajepur Janpoda]]'s downstream village, which receives the dead of the janpoda.
 

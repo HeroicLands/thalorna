@@ -32,7 +32,7 @@ Due west across the open water is the eastern coast of [[place-xerathia|Zerathia
 
 The pans east of the town are the reason the place can pay for itself. Salt is raked, dried, weighed at the crown's shed and sold by the wagonload to the carriers, and the crown's share of the weighing is the steadiest revenue it has.
 
-Everything else moves up the road. Dried fish, salt and the coast's own coarse cloth gho north and west; grain, cotton and worked metal come down from the plain and gho the other way. The escort money is collected here for the first stage and at [[place-ashvapada|Ashvapada]] for the second.
+Everything else moves up the road. Dried fish, salt and the coast's own coarse cloth go north and west; grain, cotton and worked metal come down from the plain and go the other way. The escort money is collected here for the first stage and at [[place-ashvapada|Ashvapada]] for the second.
 
 ## Who Is Here
 

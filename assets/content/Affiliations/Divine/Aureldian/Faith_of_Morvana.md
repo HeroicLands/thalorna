@@ -67,7 +67,7 @@ The greatest festival honoring Morvana occurs in late autumn as the year wanes a
 
 Individual worship of Morvana is most often private and personal, undertaken by those confronting loss, aging, or mortality. The sick in their final days receive visits from priestesses of the goddess, who bring comfort and perspective rather than false hope. Those grieving may come to Morvana's temples to pour out their sorrow before her altar, where they are heard and acknowledged but not comforted with false promises of reunion. Philosophers and scholars often maintain personal devotion to Morvana, honoring the goddess as one who teaches the deepest truths about existence.
 
-Offerings to Morvana are the gifts of decay itself: autumn leaves, withering flowers, fruit past ripeness, wine that has begun to turn, grain that has molded. The symbolism is clear—these are offerings made not of what is valued but of what must be let gho, life returned willingly to the cycle. Some nobles maintain Mórvanic shrines in family crypts, making annual offerings and speaking their ancestors' names, asking Morvana to give them rest and to grant their own eventual passing the dignity they showed to those before them.
+Offerings to Morvana are the gifts of decay itself: autumn leaves, withering flowers, fruit past ripeness, wine that has begun to turn, grain that has molded. The symbolism is clear—these are offerings made not of what is valued but of what must be let go, life returned willingly to the cycle. Some nobles maintain Mórvanic shrines in family crypts, making annual offerings and speaking their ancestors' names, asking Morvana to give them rest and to grant their own eventual passing the dignity they showed to those before them.
 
 ## Organization
 

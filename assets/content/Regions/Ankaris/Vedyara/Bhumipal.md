@@ -116,7 +116,7 @@ Four centuries ago a steppe host, [[lore-hndrdbnnrs|the Storm of the Hundred Ban
 
 ## Economy
 
-Salt is raked on the coast and goes inland and west by the wagonload, and dried fish goes the same way. Horses, hides and the wool of the sand come east; cotton, grain, worked metal and the manufactured goods of the river country gho west. The march grows little and carries much.
+Salt is raked on the coast and goes inland and west by the wagonload, and dried fish goes the same way. Horses, hides and the wool of the sand come east; cotton, grain, worked metal and the manufactured goods of the river country go west. The march grows little and carries much.
 
 The crown does not tax the road by the bale. It sells escort, by the wagon and by the stage, collected at Sandyapur for the first stage and at [[place-ashvapada|Ashvapada]] for the second, and a caravan that declines the escort pays the same money at the next well. The escort money is the largest item of royal revenue and the companies are the largest charge against it, and the two figures are read out together at the season's end.
 
@@ -124,7 +124,7 @@ The crown does not tax the road by the bale. It sells escort, by the wagon and b
 
 To the west and northwest lie the tribes and the Kingdom, and the whole of the kingdom's foreign policy is the road. Relations with the tribes are seasonal and conducted sheikh by sheikh; relations with the Kingdom are formal, cool and old.
 
-To the north and east, across the broken end of the wall, lies Shikhalaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Shikhalayan steel comes down to the march companies and march horses gho up to the pass-roads.
+To the north and east, across the broken end of the wall, lies Shikhalaya. The two kingdoms hold the north between them without sharing a border, and neither wants what the other has. Shikhalayan steel comes down to the march companies and march horses go up to the pass-roads.
 
 Across the Sandva-samedra to the west lies the eastern coast of [[place-xerathia|Zerathia]]. The kingdom has no dealings with it. Its own coast trades north and east by the road and south by the coasting passage, and the far shore is a fact of the sea and not a market.
 

@@ -1,6 +1,6 @@
 ---
 shortcode: hrindvirhval
-name: {full: Hrindvir Hvalgendik, nord: [harbormaster hrindvir hvalgendik]}
+name: {full: Hrindvir Hvalgendik, en: [Harbormaster Hrindvir Hvalgendik]}
 type: being
 subType: npc
 description: The harbormaster charged with the ordering of the port in Vithgard's capital, named in Hvarnthann Stormrót.

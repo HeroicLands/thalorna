@@ -25,7 +25,7 @@ The cloth year is the monsoon's. Boats come down through the rains, when the riv
 
 ## The Seal
 
-A bolt leaves a weaving hall in the city under the lead seal of the shrena that wove it, and the seal is the shrena's warranty of the dye. The **Koshadyoksha** keeps a shed at the head of the street where every bale is opened, the seals counted against the boat's manifest, and the cloth-tax taken in coin before the bale goes to the yard. A broken seal is not a matter for the town. The bolt is held, the boat's master is held with it, and both gho back up the river to the Council.
+A bolt leaves a weaving hall in the city under the lead seal of the shrena that wove it, and the seal is the shrena's warranty of the dye. The **Koshadyoksha** keeps a shed at the head of the street where every bale is opened, the seals counted against the boat's manifest, and the cloth-tax taken in coin before the bale goes to the yard. A broken seal is not a matter for the town. The bolt is held, the boat's master is held with it, and both go back up the river to the Council.
 
 ## The Galleys
 

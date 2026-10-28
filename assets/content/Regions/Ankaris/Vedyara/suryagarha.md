@@ -15,7 +15,7 @@ data:
   government: shikhalaya
 ---
 
-**Suryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-shikhalaya|Shikhalaya]] and stands across the throat of [[place-suryadvar|Suryadvar]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not gho beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
+**Suryagarha** (40,000) is built on the road and not beside it. It is the capital of the kingdom of [[affiliation-shikhalaya|Shikhalaya]] and stands across the throat of [[place-suryadvar|Suryadvar]], the greatest of the northern passes, so that there is no way up onto the wall by that crossing, and no way down off it into [[place-vedyarargn|Vedyara]], that does not go beneath the walls. The city exists because of that one fact and would not otherwise be where it is.
 
 The site is a shelf of rock where the gorge narrows to something a wall can be thrown across, with the terraced valleys falling away south behind it and twenty days of ice above it to the fork. Everything the city eats comes up the terrace road. Everything it is rich from comes down the pass.
 
@@ -35,13 +35,13 @@ What is actually sold at the counter is not the duty. It is the pass-token, whic
 
 The house keeps its own tally of who crossed and when. So do [[place-pssshrines|the Pass-Shrines]] at the summit, whose register is not a customs document and is not sent down, and the two figures do not always agree. A clerk whose ledger has been set beside a shrine's register and found short does not get a second posting.
 
-The one thing the house does not weigh is the ore. Silver and lapis from [[place-slvrgorges|the Silver Gorges]] gho out under leases the smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], and the customs-house sees the prices afterward, in the Collective's own returns, at a point where nothing can be done about them. The crown collects on the road and not on the rock.
+The one thing the house does not weigh is the ore. Silver and lapis from [[place-slvrgorges|the Silver Gorges]] go out under leases the smithing clans make directly with [[affiliation-mrchntclctvvdyr|the Merchant Collective]], and the customs-house sees the prices afterward, in the Collective's own returns, at a point where nothing can be done about them. The crown collects on the road and not on the rock.
 
 ## The Caravanserai
 
 Outside the second wall, filling the whole of the flat ground north of it, is the caravanserai: yards, stabling, fodder-stores, weighbridges, rope-walks, a smiths' row, and lodging enough for several thousand men and three times that many beasts.
 
-For two months of the year it is the busiest place in the northern highlands. Yak-trains come down off the ice and are broken down onto lowland beasts; lowland loads are broken down onto yaks and gho up; [[affiliation-osketguides|Osket]] fee-reckoners sit in hired rooms and are courted; and the money-changers, the escort captains, the insurers and the informers work the yards from first light. For the other ten months it is empty, swept, and let out as winter pasture, and a traveler who sees it then is looking at what a caravan city is when there are no caravans.
+For two months of the year it is the busiest place in the northern highlands. Yak-trains come down off the ice and are broken down onto lowland beasts; lowland loads are broken down onto yaks and go up; [[affiliation-osketguides|Osket]] fee-reckoners sit in hired rooms and are courted; and the money-changers, the escort captains, the insurers and the informers work the yards from first light. For the other ten months it is empty, swept, and let out as winter pasture, and a traveler who sees it then is looking at what a caravan city is when there are no caravans.
 
 The city's own population does not change as much as the yards do. Forty thousand people live here year-round, and most of them are here to be ready for those two months: carters, packers, farriers, ropemakers, clerks, scribes, weighers, and the provisioners who feed the whole apparatus while it waits.
 

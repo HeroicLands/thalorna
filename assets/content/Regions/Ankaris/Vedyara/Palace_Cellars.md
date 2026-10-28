@@ -14,13 +14,13 @@ The cellars stand open to the sky. Children play in them, and nobody builds on t
 
 ## What Was Done and Why
 
-The demolition was deliberate and it was ceremonial. The sabhra had declared the line ended with full honors, and the classical account is that the stones went into the temple so that the kingdom's work would gho on holding something up.
+The demolition was deliberate and it was ceremonial. The sabhra had declared the line ended with full honors, and the classical account is that the stones went into the temple so that the kingdom's work would go on holding something up.
 
 Nothing was hidden and nothing was buried. The granaries became common stores, the army was disbanded into the cultivating and artisan households, and the palace became building material. The one thing the janpoda kept whole was the record, which is in [[place-rajavalilib|the Rajavali Library]] a quarter-mile away.
 
 ## The Ground Now
 
-The outline is legible. A visitor can walk the plan of the audience hall, the kitchens and the guard barrack in an afternoon, and the **Memory-Keeper**'s recitation names rooms that a listener can then gho and stand in.
+The outline is legible. A visitor can walk the plan of the audience hall, the kitchens and the guard barrack in an afternoon, and the **Memory-Keeper**'s recitation names rooms that a listener can then go and stand in.
 
 The [[lore-rcitkngsmhnd|Recitation of the Kings of Mahanodi]] sets the last reign's undoing in these rooms:
 

@@ -37,7 +37,7 @@ data:
       Reader of the Water: >-
         Pronounces the god's will before an expedition. An unfavorable reading stops the hunt, which gives the office real power over a company whose charter depends on hunting successfully—and makes a reader whose pronouncements have grown hard to parse a dangerous secret.
       Butcher of the Offering: >-
-        Divides what is taken between the temples, the selatu and the company. The prime cuts gho to the temple and the Halzi'a, the secondary to the farming villages, the bones and hides to the craftspeople; the animal's spirit is honored and commended to the god for judgment.
+        Divides what is taken between the temples, the selatu and the company. The prime cuts go to the temple and the Halzi'a, the secondary to the farming villages, the bones and hides to the craftspeople; the animal's spirit is honored and commended to the god for judgment.
       Warden of the Sacred Stones: >-
         Keeps the boundary shrines and sacred stones that mark the god's reach. Unauthorized hunting or fishing within them is punishable by death.
   seat: null
@@ -56,7 +56,7 @@ The Faith of Igelnaru honors a river god, not a selat's god. He is held to gover
 
 ## What the River Asks
 
-Every expedition waits on one office. The **Reader of the Water** reads the god's will in offerings, in the flight of birds and in the patterns of the current, and pronounces whether the boats may gho. An unfavorable reading stops the hunt, which gives the Reader real power over a company whose charter depends on hunting well.
+Every expedition waits on one office. The **Reader of the Water** reads the god's will in offerings, in the flight of birds and in the patterns of the current, and pronounces whether the boats may go. An unfavorable reading stops the hunt, which gives the Reader real power over a company whose charter depends on hunting well.
 
 The rest of the faith follows from the kill. The god's due comes off the animal before any other share. The **Butcher of the Offering** then divides the rest: prime cuts to the temples and the Halzi'a, secondary cuts to the farming villages, bones and hides to the craftspeople. The animal's spirit is honored and commended to Igelnaru for judgment.
 

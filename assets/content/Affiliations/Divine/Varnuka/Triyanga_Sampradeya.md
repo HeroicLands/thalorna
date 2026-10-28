@@ -93,7 +93,7 @@ Pronunciation
 Pantheon
 : [[affiliation-vrnkpnthn|Varnuka Pantheon]]
 
-"Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels gho in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
+"Before you ask the council for anything, come and ask us," an **Achorya** tells the shrena clerk who has come to the temple with a plan for a new water-gate. "We do not decide your gate. We tell you which chamber to bring it to, and whether it will be blessed when the shovels go in." The clerk had come for a signature and has been given a lesson in how the city works. In [[affiliation-vyalendra2|Vyalendra]] the senior priest of the Triyanga temple sanctions the Council's acts, and a decision the temples will not sanction does not take effect, so the Council has learned to ask beforehand.
 
 It is the largest and most orthodox of the Varnukan schools. For most Vedyarans the word "Varnuka" and the word "Triyanga" are almost interchangeable. It is the tradition of the great city-temples and the royal courts. Its calendar sets the public year, its high priests advise the city councils, and its rites are invoked at every civic occasion of consequence.
 

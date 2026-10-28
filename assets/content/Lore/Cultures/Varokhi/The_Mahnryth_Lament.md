@@ -1,6 +1,6 @@
 ---
 shortcode: mahnrythlament
-name: {full: The Mahnreth Lament, varo: [Mahnreth meldra]}
+name: {full: The Mahnreth Lament, varo: [mahnreth meldra]}
 type: lore
 subType: literature
 description: "The lament the women of Mahnreth raise at the turning into deep winter over Mahnhrum, the mound that holds nobody: the taken of the Waking addressed one by one with the goods carried west for them, a question to the rabbit wesk stopped before it ends, and a child taken before her naming kept by the length of a name."

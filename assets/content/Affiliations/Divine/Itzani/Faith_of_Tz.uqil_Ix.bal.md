@@ -62,7 +62,7 @@ data:
       Speaker of the Trials: >-
         Recites the chambers and deceptions of Ch'al Ts'umaq over the newly dead, naming each in the order the soul will meet it.
       Master of the Descent: >-
-        Keeps the descending stair and the pool chamber beneath it, and rules who may gho down and on which night.
+        Keeps the descending stair and the pool chamber beneath it, and rules who may go down and on which night.
       Warden of the Threshold: >-
         Watches for souls that have come back out—the office the priesthood created after Pik'ul Ts'umaq's fall, and the one it least likes to discuss.
       Ch'alish Pik'ob: >-
@@ -93,7 +93,7 @@ In this theology, the domain of Ts'uqil Ish'bal is [[place-chaltzumaq|Ch'al Ts'u
 
 This is the plainest transaction in Ki'i'chek religion, and the priesthood does not pretend otherwise. A family that can afford a full recitation buys its dead a guided passage; a family that cannot buys a shortened one, and knows what it has bought. The fee is not framed as payment for divine favor but as payment for accuracy—the priests sell memory, not mercy—and it is the one temple charge that even the poorest households will beggar themselves to meet. Burial societies are common in the larger city-states, with neighbors paying into a common store against the day one of them dies, and the Ish'bal'ob keep the rolls.
 
-The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Ch'al Ts'umaq in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the pool chamber, and only the priests and the nearest kin gho past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
+The **Speaker of the Trials** attends the body through the night after death, naming each chamber of Ch'al Ts'umaq in the order the soul will meet it, each deception in the order it will be offered. The family listens and does not speak. At dawn the body is carried to the temple stair and taken down toward the pool chamber, and only the priests and the nearest kin go past the third landing. Where the water is deep and still, the dead are given to it; where it is not, they are interred in the chamber walls, in niches cut generation upon generation until the rock is a honeycomb of ancestors.
 
 The most significant ceremonies occur during the turning of the [[lore-itsaniclndr#tsuqal|Ts'uqal Cycle]], when the Ish'bal'ob perform the [Taq'tsuqalil]{.name data-type="lore/custom"} ("The Calling of the Dead"), an elaborate nocturnal ceremony in which living communities gather at the mouths of the sacred pools to welcome the recently deceased into the underworld. The living bring food they will not eat, sit through the dark hours at the water's edge, and speak the names of everyone lost since the last turning. It is not a mournful occasion. Children are brought deliberately, so that they will grow up unafraid of the mouth of the world, and the ceremony ends at first light with a shared meal and, in most cities, a great deal of maize beer.
 

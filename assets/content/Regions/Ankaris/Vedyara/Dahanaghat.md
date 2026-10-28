@@ -27,7 +27,7 @@ The hereditary keeper of the ground is [Kholu]{.name data-type="being/npc"}, a h
 
 The river villages say that something is wrong at the Landing. They say it quietly, at funerals.
 
-- The pyres at the Landing burn all night, and the families gho home with urns that are too light.
+- The pyres at the Landing burn all night, and the families go home with urns that are too light.
 - A body is laid on the slab and in the morning the slab is clean, and the family is told the fire took it quickly.
 - The dead stand in the river below the stair at night, up to their knees, looking at the steps.
 - The conch at the Landing is sounded later than it should be, and sometimes not at all.
@@ -37,7 +37,7 @@ The river villages say that something is wrong at the Landing. They say it quiet
 
 Between the sounding of the conch and the lighting of the pyre there is a gap, and the Vedyari know it. It is the space in which the way a soul has just gone is still open behind it. [[affiliation-thresholdkeepers|Threshold-keepers]] work in that gap by warrant. At Dahanaghat, someone else does.
 
-A fallen Ritrija, [Dakunata]{.name data-type="being/npc"}, uses the gap. He has learned that a body not burned within the day, with its coin withheld and the conch held back, stays in the gap, and that what stays can be asked a good deal more than one question. He pays Kholu to set certain bodies aside, and Kholu, who is in debt to a lender with no name, does. The bodies gho down a stair under the cenotaph beyond the gallery, where a cell of the [Chinnasutra]{.name data-type="affiliation/criminal"}, the craft-lines [[affiliation-adanshreni|the Adanshreni]] cut away, keeps its takings. Its sentries are the unburned dead.
+A fallen Ritrija, [Dakunata]{.name data-type="being/npc"}, uses the gap. He has learned that a body not burned within the day, with its coin withheld and the conch held back, stays in the gap, and that what stays can be asked a good deal more than one question. He pays Kholu to set certain bodies aside, and Kholu, who is in debt to a lender with no name, does. The bodies go down a stair under the cenotaph beyond the gallery, where a cell of the [Chinnasutra]{.name data-type="affiliation/criminal"}, the craft-lines [[affiliation-adanshreni|the Adanshreni]] cut away, keeps its takings. Its sentries are the unburned dead.
 
 The gap, left open too often in one place, stops closing. The ground at the Landing is becoming a [[lore-bloodfield|_shorukshetra_]]. [[lore-theshadow|The Shadow]] has found a place where the way behind the souls is wide.
 

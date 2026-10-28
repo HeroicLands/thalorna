@@ -30,7 +30,7 @@ What crosses is accordingly the cargo that cannot wait. The great houses send th
 
 The road is [[affiliation-osketguides|Osket ground]] from the last terraces to the far descent, and the western lineages who work it are the poorest of that people and the least interested in changing that. They take a share of the value like every guide on the wall, but a share of two caravans is not a share of twenty, and the western Osket live by their herds with the trade as an addition to them.
 
-A caravan-master who argues with a refusal at Meghadvar is not overruled. He is simply not taken, and there is no second guide to gho to.
+A caravan-master who argues with a refusal at Meghadvar is not overruled. He is simply not taken, and there is no second guide to go to.
 
 ## See Also
 

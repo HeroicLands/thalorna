@@ -19,9 +19,9 @@ data:
 # terran_analog: "The Himalayas, Karakoram, Pamir, and Tian Shan complex—the great mountain wall between the Indian subcontinent and the Central Asian steppe. The southern face is the wall against Vedyara and the northern face the wall against the Khazryn; the eastern arc turns toward Tantsou, and the western end falls away into the Afghan-analog foothills of the Dunhari desert-margin."
 ---
 
-Nothing crosses the Grazian wall without a guide's leave, and no state in [[place-vedyarargn|Vedyara]] or beyond it can grant that leave in the guide's place. The range closes the whole northern edge of the subcontinent, it is the highest in [[place-worldthlrn|the World of Thalorna]], and only six roads gho over it.
+Nothing crosses the Grazian wall without a guide's leave, and no state in [[place-vedyarargn|Vedyara]] or beyond it can grant that leave in the guide's place. The range closes the whole northern edge of the subcontinent, it is the highest in [[place-worldthlrn|the World of Thalorna]], and only six roads go over it.
 
-A register-writer at the [[place-suryadvar|Suryadvar]] shrine, asked by a newcomer how busy the wall is, turns back a page of the crossing-book before he answers. "Three or four caravans a year on each of the six roads, all of them in the weeks when the ice lets gho. The guides keep roughly half of what a load is worth and the merchant house that organized the caravan keeps the rest. The owner of the cargo keeps the privilege of having moved goods across the highest mountains in the world."
+A register-writer at the [[place-suryadvar|Suryadvar]] shrine, asked by a newcomer how busy the wall is, turns back a page of the crossing-book before he answers. "Three or four caravans a year on each of the six roads, all of them in the weeks when the ice lets go. The guides keep roughly half of what a load is worth and the merchant house that organized the caravan keeps the rest. The owner of the cargo keeps the privilege of having moved goods across the highest mountains in the world."
 
 ## Overview
 

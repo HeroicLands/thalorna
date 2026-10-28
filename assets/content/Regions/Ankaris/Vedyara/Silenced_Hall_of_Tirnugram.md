@@ -12,7 +12,7 @@ data: {demonym: null, lore: [], parents: [vedyarargn], population: null, packFol
 
 ## What Is There
 
-A temple hall of dressed stone, longer than most janpoda halls, roofless since the night it burned. The doors are bricked to the lintel with the Melka's brick, plainer and redder than the hall's stone. The bronze bell that gave the janpoda its name, a _tirnu_, still hangs in the gate on its iron bar, green with five centuries of rain. Nobody rings it. The hill villages that took [Tirnugram]{.name data-type="affiliation/polity"}'s land have let the fields round the hall gho back to scrub, and the path to the gate is kept open only by the priests who use it.
+A temple hall of dressed stone, longer than most janpoda halls, roofless since the night it burned. The doors are bricked to the lintel with the Melka's brick, plainer and redder than the hall's stone. The bronze bell that gave the janpoda its name, a _tirnu_, still hangs in the gate on its iron bar, green with five centuries of rain. Nobody rings it. The hill villages that took [Tirnugram]{.name data-type="affiliation/polity"}'s land have let the fields round the hall go back to scrub, and the path to the gate is kept open only by the priests who use it.
 
 ## Not a Blood-field
 
@@ -22,7 +22,7 @@ That does not make the hall a pleasant place at night. The hill people keep away
 
 ## Who Comes
 
-- **Priests of the [[place-bharavarivr|Bharava circuit]]** on their way up to a turn at the Sangra-fort, who stop to light a lamp at the bricked door and gho on.
+- **Priests of the [[place-bharavarivr|Bharava circuit]]** on their way up to a turn at the Sangra-fort, who stop to light a lamp at the bricked door and go on.
 - **Descendants of Tirnugram's lineages**, scattered through the neighboring janpodas, who come on the anniversary and say the names of their families at the gate.
 
 ## Hooks
